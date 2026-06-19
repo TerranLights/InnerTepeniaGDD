@@ -1,4 +1,4 @@
 # InnerTepeniaGDD
 Game Design Docs for the "Inner Tepenia" top-down isometric Sci-Fi RPG
 
-(details to come soon)
+(details to come soon, promise)
