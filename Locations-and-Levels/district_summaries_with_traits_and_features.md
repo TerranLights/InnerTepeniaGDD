@@ -5,8 +5,8 @@ Each entry includes:
 * Setting Setting & Environs: Environs: (atmosphere and physical feel)
 * What you’d find here: (key locations, landmarks, and daily life)
 
-current titles/place-names are tentative only
-all actual proper place-names subject to change
+- current titles/place-names are tentative only
+- all actual proper place-names subject to change
 
 # 1. The Havenward (Cancer) – Nurturing / Protective
 
