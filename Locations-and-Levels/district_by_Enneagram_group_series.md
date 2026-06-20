@@ -111,17 +111,13 @@
 ##### Reasoning:
 * The dark, labyrinthine service tunnels emphasize meticulous work, equal service vs. prioritization, and hidden sacrifices. Compliant + Thinking + Competency groups shine here through stories of perfectionist repairs vs. quick fixes, blaming from surface districts, and the quiet pride (or resentment) of keeping everything running. This creates excellent low-key, high-impact RP around unseen consequences and infrastructural moral dilemmas.
 
+# Accounting for districts that overlap with all three groups
 
-
-
-
-
-
-The pairs that have full overlaps:
-1.) Cancer and Taurus
-2.) Aries and Pisces
-3.) Aquarius and Gemini
-4.) Libra and Virgo
+#### The pairs that have full overlaps:
+1. Cancer and Taurus
+2. Aries and Pisces
+3. Aquarius and Gemini
+4. Libra and Virgo
 
 
 ## 1. Cancer (Havenward) and Taurus (Hearthward)
