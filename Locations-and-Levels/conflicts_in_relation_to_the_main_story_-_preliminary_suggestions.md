@@ -6,7 +6,7 @@
 * Act 1: The Heating Grid Failure (initial crisis in/around the Central Hub / Thermal Spire)
 * Act 3 Climax: The Great Blackout (city-wide catastrophe)
 
-####### How the energy crisis and the player’s choices ripple through every district, using their internal and external conflicts.
+###### How the energy crisis and the player’s choices ripple through every district, using their internal and external conflicts.
 
 ## 1. To-Be-Named District (Cancer) – Nurturing / Protective
 ##### Energy Crisis Impact: Blackouts cause mass panic, hypothermia in vulnerable populations, and breakdown of emotional support systems.
