@@ -1,9 +1,9 @@
 # Concordia Districts with traits and features:
 
 Each entry includes:
-## Orientation: (what the district is fundamentally about)
-## Setting Setting & Environs: Environs: (atmosphere and physical feel)
-## What you’d find here: (key locations, landmarks, and daily life)
+* Orientation: (what the district is fundamentally about)
+* Setting Setting & Environs: Environs: (atmosphere and physical feel)
+* What you’d find here: (key locations, landmarks, and daily life)
 
 # 1. The Havenward (Cancer) – Nurturing / Protective
 
