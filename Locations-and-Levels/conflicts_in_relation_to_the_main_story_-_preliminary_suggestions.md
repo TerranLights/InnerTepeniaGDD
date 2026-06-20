@@ -1,8 +1,8 @@
 # Act 1 / Act 2/3 triggers for the central main story
 ### Per "district internal/external conflicts"; how each district is affected (either positively or negatively) by conditions in the world as well as actions by the player (either positive or negative) in relation to the energy crisis.
 ### Goals:
-####### How everything ties together around the core story:
-####### (tentative and subject to change)
+###### How everything ties together around the core story:
+###### (tentative and subject to change)
 * Act 1: The Heating Grid Failure (initial crisis in/around the Central Hub / Thermal Spire)
 * Act 3 Climax: The Great Blackout (city-wide catastrophe)
 
