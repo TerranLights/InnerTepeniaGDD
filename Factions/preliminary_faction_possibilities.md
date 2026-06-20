@@ -1,4 +1,5 @@
 # New Faction possibilities
+##### All possibilities here are subject to change
 
 ### The Veilkeepers
 * Philosophy: Secrecy and controlled knowledge. They believe some pre-war data (especially about the Falkland Treaty and why the evacuation happened) is too dangerous for the general population.
