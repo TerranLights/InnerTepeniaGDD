@@ -46,10 +46,10 @@
 * Helping (or stopping) an overly ambitious manufacturing project
 ### Gameplay Flavor: Industrial action sequences, technical puzzles, combat training opportunities.
 
-## 4. Thermal Spire & Power Core
+## 4. TBN-district & Power Core
 ### Atmosphere: Stark, cathedral-like industrial temple. Massive geothermal pipes, glowing reactor cores, constant low-frequency rumble. Feels both sacred and precarious.
 ### Key Locations:
-* The Great Thermal Spire (central heating distribution)
+* The Great TBN-district (central heating distribution)
 * Deep Geothermal Access Tunnels
 * Emergency Cryo-Shelters
 ### Primary Factions: Thermal Collective, Chorus of the Deep, International Data Syndicate (secondary)
@@ -103,7 +103,7 @@
 * Confronting (or joining) underground factions
 ### Gameplay Flavor: Dungeon-crawling, stealth, high-risk/high-reward exploration.
 
-## 8. Governmental Apex (The Spire of Governance)
+## 8. TBN-district (The Spire of Governance)
 ### Atmosphere: Cold, formal, austere. Towering polished metal and glass spire rising above the domes. Holographic seals of the old Falkland Treaty, echoing halls, and constant low-level security drones.
 ### Key Locations:
 * Concordia Governing Council Chambers
@@ -118,7 +118,7 @@
 * Mediating between rival council factions
 ### Gameplay Flavor: Heavy dialogue, persuasion, and skill-check focused. Reputation with multiple factions matters enormously here.
 
-## 9. The Veil Market (Black Market & Smuggling Hub)A
+## 9. The TBN Black Market (Black Market & Smuggling Hub)A
 tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. Constant haggling, hidden entrances, suspicious deals, and the smell of recycled air and illicit siligel distilleries.
 ### Key Locations:
 * The Shadow Exchange (main trading floor)
@@ -148,7 +148,7 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 * Evacuating or reinforcing a collapsing habitation ring
 ### Gameplay Flavor: Deep personal stories, romance/companion development, and emotional consequences.
 
-## 11. The Ascendant Research Quarter
+## 11. The TBN-district Quarter
 ### Atmosphere: Sterile, futuristic, buzzing with experimental energy. Clean white and blue lighting, prototype robots walking around, constant humming of test chambers.### Key Locations:
 * Advanced Robotics Institute
 * Experimental Siligel & Hybrid Tech Labs
@@ -162,7 +162,7 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 * Recovering failed experiments that have gone rogue
 ### Gameplay Flavor: Puzzle-solving, science-oriented skill checks, and opportunities for permanent character upgrades.
 
-## 12. The Frostward Reaches (Outer / Frontier District)
+## 12. The The Frostlands (Outer / Frontier District)
 ### Atmosphere: Harsh, windswept, frontier feeling. Partially completed or damaged domes on the very edge of Concordia, overlooking the endless Antarctic ice. Makeshift repairs, hardy residents, and a sense of being “at the limit.”
 ### Key Locations:
 * Outer Highway Terminus & Watchtowers
@@ -202,7 +202,7 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 * Hydroponics, ports, and bonded residential areas.
 5. Mountain Cut Industrial Zone (Hwy 37)
 * Siligel quarries, robot manufacturing, and heavy industry.
-6. Thermal Spire & Power Core
+6. TBN-district & Power Core
 * The critical geothermal/nuclear heating complex.
 * Cultural & Spiritual Districts
 7. Ossuary Quarter
@@ -210,15 +210,15 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 8. Cymatic Resonance District
 * Arts, music, and vibration culture.
 * New / Expanded Districts
-9. Governmental Apex (The Spire of Governance)
+9. TBN-district (The Spire of Governance)
 * Political heart of Concordia — Council Chambers, Resource Allocation Bureau, Treaty Archives.
-10. The Veil Market (Black Market District)
+10. The TBN Black Market (Black Market District)
 * Hidden smuggling hub, illicit siligel distilleries, and uncensored data nodes.
 11. Bonded Habitation Rings
 * Primary residential sector filled with human–robot couples and community life.
-12. Ascendant Research Quarter
+12. TBN-district Quarter
 * Experimental labs, advanced robotics institute, and cold-resistance testing facilities.
-13. Frostward Reaches (Outer Frontier District)
+13. The Frostlands (Outer Frontier District)
 * The harsh, partially completed outer edges of Concordia facing the open ice.
 
 ## Additional Notes on the Overall City

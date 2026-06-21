@@ -1,55 +1,55 @@
 # Per-District Radio Stations by Local Music Genre
 
-### 1. Cancer (Havenward) – Nurturing / Protective
+### 1. Cancer (TBN-district) – Nurturing / Protective
 ##### Suggested genres:
 * Ambient / Chillout (soft, healing soundscapes with water-like textures and gentle melodies)
 * Acoustic / Indie Folk (warm, emotional, bonding-focused songs)
 * Lo-fi / Soft Electronic (cozy, protective, introspective beats with emotional depth)
 ##### Vibe fit: Warm, humid, softly lit sanctuary with healing gardens and emotional support. Music that feels like a safe emotional hug.
 
-### 2. Taurus (Hearthward) – Residential / Stability
+### 2. Taurus (TBN-district) – Residential / Stability
 ##### Suggested genres:
 * Acoustic Folk / Singer-Songwriter (cozy, domestic, heartfelt)
 * Warm Jazz / Lounge (stubborn coziness and everyday bonded life)
 * Chillhop (relaxed residential grooves with a touch of nostalgia)
 ##### Vibe fit: Multi-ringed insulated domes, private courtyards, family units, and stubborn domestic comfort. Music for quiet evenings and community stability.
 
-### 3. Leo (Resonance Crown) – Cultural / Performative
+### 3. Leo (TBN-district) – Cultural / Performative
 ##### Suggested genres:
 * Electronic (Synthwave / Retrowave or Art Pop) (neon-lit, performative energy)
 * Indie / Alternative Rock (grand spectacles mixed with grassroots authenticity)
 * Experimental / Sonic Art Electronic (vibrating sculptures, acoustics, and festival vibes)
 ##### Vibe fit: Bright, dramatic golden/neon plazas, grand amphitheaters, sonic installations, and rotating cultural events. Music that feels alive and expressive.
 
-### 4. Scorpio (The Threshold) – Psychological / Transformative
+### 4. Scorpio (TBN-district) – Psychological / Transformative
 ##### Suggested genres:
 * Dark Ambient / Darkwave (intense, steam-filled, introspective atmospheres)
 * Industrial / Trip-Hop (deep transformation, vice, and emotional rawness)
 * Experimental / Avant-garde (ritualistic, rebirth, and confronting mortality themes)
 ##### Vibe fit: Dim crimson/violet lighting, steam chambers, rebirth clinics, and heavy introspective mood. Music for deep personal reckoning.
 
-### 5. Aries (Thermal Spire & Power Core) – Raw Survival / Energy
+### 5. Aries (TBN-district & Power Core) – Raw Survival / Energy
 ##### Suggested genres:
 * Industrial Techno / EBM (aggressive, rumbling, high-output energy)
 * Industrial Metal or Aggressive Electronic (fiery, precarious survival stakes)
 * Dark Electronic / Noise (extreme temperature gradients and constant rumbling)
 ##### Vibe fit: Stark cathedral-like industrial power complex with glowing pipes and heroic but high-risk operations. Music that pulses with raw power.
 
-### 6. Capricorn (Forgeward) – Industrial / Ambition
+### 6. Capricorn (TBN-district) – Industrial / Ambition
 ##### Suggested genres:
 * Industrial / Techno (noisy forges, disciplined production)
 * Post-Rock or Heavy Electronic (ambitious long-term building and strict order)
 * Industrial Rock (brutalist structures and merit-based drive)
 ##### Vibe fit: Brutalist noisy metal/concrete with glowing forges and heavy manufacturing focus. Overlap with Aries is natural here.
 
-### 7. Aquarius (Ascendant Research Quarter) – Visionary / Experimental
+### 7. Aquarius (TBN-district Quarter) – Visionary / Experimental
 ##### Suggested genres:
 * IDM (Intelligent Dance Music) / Glitch (futuristic labs and controlled chaos)
 * Experimental Electronic / Ambient (visionary breakthroughs and ethical debates)
 * Synth / Progressive Electronic (prototype robots and hybrid tech vibes)
 ##### Vibe fit: Clean white/blue futuristic labs with humming test chambers and innovative energy.
 
-### 8. Libra (Governmental Apex) – Diplomatic / Balance
+### 8. Libra (TBN-district) – Diplomatic / Balance
 ##### Suggested genres:
 * Classical / Orchestral or Neo-Classical (elegant, austere political spire)
 * Sophisticated Jazz / Lounge (diplomatic balance and formal halls)
@@ -63,14 +63,14 @@
 * Spoken-Word Electronic (rumor exchanges and public forums)
 ##### Vibe fit: Ever-changing bright hubs with data streams, news forums, and constant movement. Music that feels informational and dynamic.
 
-### 10. Pisces (Veil Market) – Black Market / Underworld
+### 10. Pisces (TBN Black Market) – Black Market / Underworld
 ##### Suggested genres:
 * Dark Electronic / Synthwave (neon hazy underworld)
 * Trap / Hip-Hop or Darkwave (fluid gray-zone deals and vice)
 * Industrial or Trip-Hop (shadowy, opportunistic atmosphere)
 ##### Vibe fit: Dim hazy neon-reflected puddles and whispered deals in hidden alcoves. Music with a dangerous, dreamy edge.
 
-### 11. Sagittarius (Frostward Reaches) – Frontier / Exploration
+### 11. Sagittarius (The Frostlands) – Frontier / Exploration
 ##### Suggested genres:
 * Post-Rock (windswept adventurous frontier)
 * Cinematic Ambient or Epic Electronic (philosophical debate halls and exploration)
@@ -88,9 +88,9 @@
 
 ## Bonus: Districts with Local Talk Radio Stations
 ### A small number of districts feel like natural homes for dedicated Talk Radio (news, debates, call-ins, philosophy, ethics, or current events):
-* Libra (Governmental Apex): Primary candidate. Political center with council chambers, resource allocation, transparency vs. secrecy debates, and city-wide policy discussions. Perfect for news, political analysis, and moderated debates.
+* Libra (TBN-district): Primary candidate. Political center with council chambers, resource allocation, transparency vs. secrecy debates, and city-wide policy discussions. Perfect for news, political analysis, and moderated debates.
 * Gemini (Janbogo Subnet Nexus): Strong fit. Information hub with rumor exchanges, public forums, data verification, and speed-vs-accuracy tensions. Ideal for call-in shows, investigative talk, and information-focused programming.
-* Sagittarius (Frostward Reaches): Good fit for frontier/philosophical talk. Expansion vs. consolidation debates, independence vs. central control, and explorer/philosophical discussions in the harsh outer edge.
+* Sagittarius (The Frostlands): Good fit for frontier/philosophical talk. Expansion vs. consolidation debates, independence vs. central control, and explorer/philosophical discussions in the harsh outer edge.
 
 
 

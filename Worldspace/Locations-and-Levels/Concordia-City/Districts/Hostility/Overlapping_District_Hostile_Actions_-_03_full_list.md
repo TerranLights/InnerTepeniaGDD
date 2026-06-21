@@ -5,56 +5,56 @@ For each district, here are **2–5 specific actions** the player can take that 
 
 ---
 
-### 1. Cancer – Havenward (Nurturing / Protective)
+### 1. Cancer – TBN-district (Nurturing / Protective)
 - **Positive**: Personally carry a sick child through a dangerous blackout to a shelter.
 - **Positive**: Donate rare medicine or help reinforce a community nursery during a crisis.
 - **Negative**: Steal supplies clearly marked for the vulnerable (children/elderly).
 - **Negative**: Sabotage medical equipment or desecrate a care memorial.
 - **Negative**: Threaten or attempt to separate a bonded caregiver from their charge.
 
-### 2. Taurus – Hearthward (Residential / Stability)
+### 2. Taurus – TBN-district (Residential / Stability)
 - **Positive**: Help a family repair and reinforce their ancestral home.
 - **Positive**: Participate in a traditional family meal or generational ritual.
 - **Negative**: Break into and trash a private family home.
 - **Negative**: Destroy or steal sentimental heirlooms (photos, keepsakes, etc.).
 - **Negative**: Disrupt a private family gathering in a disrespectful way.
 
-### 3. Leo – Resonance Crown (Cultural / Performative)
+### 3. Leo – TBN-district (Cultural / Performative)
 - **Positive**: Join or support a major public performance/festival.
 - **Positive**: Help restore a famous public artwork or performance venue.
 - **Negative**: Sabotage a live show or humiliate a performer on stage.
 - **Negative**: Deface or steal major cultural relics or costumes.
 - **Negative**: Spread damaging rumors that ruin a popular artist’s reputation.
 
-### 4. Scorpio – The Threshold (Psychological / Transformative)
+### 4. Scorpio – TBN-district (Psychological / Transformative)
 - **Positive**: Help guide someone safely through a personal shadow ritual.
 - **Positive**: Protect a private transformation chamber from outside interference.
 - **Negative**: Forcefully expose or broadcast someone’s private trauma/memories.
 - **Negative**: Destroy psychological therapy or transformation equipment.
 - **Negative**: Betray someone at their most vulnerable moment during a ritual.
 
-### 5. Aries – Thermal Spire (Raw Survival / Energy)
+### 5. Aries – TBN-district (Raw Survival / Energy)
 - **Positive**: Volunteer for a dangerous high-risk shift in the active power core.
 - **Positive**: Help defend a critical power station during an overload event.
 - **Negative**: Sabotage power infrastructure in a way that endangers workers.
 - **Negative**: Steal emergency power cells during a crisis.
 - **Negative**: Publicly show cowardice or disrespect during an active emergency.
 
-### 6. Capricorn – Forgeward (Industrial / Ambition)
+### 6. Capricorn – TBN-district (Industrial / Ambition)
 - **Positive**: Help optimize a production line for better efficiency.
 - **Positive**: Assist a foreman in negotiating better resources for workers.
 - **Negative**: Sabotage critical factory machinery or assembly lines.
 - **Negative**: Steal proprietary prototypes or trade secrets.
 - **Negative**: Publicly undermine a supervisor in front of their team.
 
-### 7. Aquarius – Ascendant Research (Visionary / Experimental)
+### 7. Aquarius – TBN-district (Visionary / Experimental)
 - **Positive**: Volunteer as a test subject for a risky new augmentation.
 - **Positive**: Help secure or recover a dangerous experimental prototype.
 - **Negative**: Steal or destroy cutting-edge research data.
 - **Negative**: Sabotage an ongoing high-stakes experiment.
 - **Negative**: Publicly discredit a major visionary project.
 
-### 8. Libra – Governmental Apex (Diplomatic / Balance)
+### 8. Libra – TBN-district (Diplomatic / Balance)
 - **Positive**: Successfully mediate a tense diplomatic dispute.
 - **Positive**: Help draft or enforce fair new district regulations.
 - **Negative**: Disrupt an official governmental proceeding.
@@ -68,14 +68,14 @@ For each district, here are **2–5 specific actions** the player can take that 
 - **Negative**: Destroy or corrupt critical information hubs.
 - **Negative**: Publicly betray a major information broker.
 
-### 10. Pisces – The Veil Market (Black Market / Underworld)
+### 10. Pisces – The TBN Black Market (Black Market / Underworld)
 - **Positive**: Successfully complete a high-stakes smuggling run.
 - **Positive**: Help protect a criminal safehouse from rival gangs.
 - **Negative**: Snitch on or inform against major criminal operations.
 - **Negative**: Steal from or betray a high-level crime boss.
 - **Negative**: Expose hidden smuggling routes or black market infrastructure.
 
-### 11. Sagittarius – Frostward Reaches (Frontier / Exploration)
+### 11. Sagittarius – The Frostlands (Frontier / Exploration)
 - **Positive**: Join a dangerous long-range scouting expedition.
 - **Positive**: Rescue stranded explorers in extreme weather.
 - **Negative**: Sabotage expedition gear in life-threatening conditions.

@@ -15,7 +15,7 @@
 * Hornevian Groups (Social Stances): Compliant (dutiful, move toward others: 1,2,6), Assertive (move against others: 3,7,8), Withdrawn (move away: 4,5,9).
 * Harmonic Groups (Conflict/Stress Response): Positive Outlook (reframe positively, seek harmony: 2,7,9), Competency (focus on objectivity/solutions: 1,3,5), Reactive (express intensity/emotion: 4,6,8).
 
-## 1. District: Cancer (Havenward) – Nurturing / Protective
+## 1. District: Cancer (TBN-district) – Nurturing / Protective
 ##### Enneagram:
 * Major Theme: Feeling — Strong emphasis on emotional bonds, caregiving, grief support, mental health, and protecting the vulnerable. Players can roleplay deep emotional labor, family/refugee integration dilemmas, or the tension between compassion and resource limits.
 * Hornevian Group: Compliant — Heavy focus on duty to others, sheltering refugees, integration programs, and prioritizing the vulnerable. Rich opportunities for dutiful service vs. burnout or tough triage choices.
@@ -23,7 +23,7 @@
 ##### Reasoning:
 * The district’s core is emotional sanctuary and caregiving amid scarcity. Compliant + Feeling + Reactive groups create fertile ground for player-driven stories around sacrifice, emotional authenticity, and the cost of protection.
 
-## 2. District: Taurus (Hearthward) – Residential / Stability
+## 2. District: Taurus (TBN-district) – Residential / Stability
 ##### Enneagram:
 * Major Theme: Feeling (with Instinctive undertones) — Focus on domestic comfort, family bonds, memorials, and cozy stability.
 * Hornevian Group: Compliant — Emphasis on maintaining traditions, family structures, and resource distribution for the “greater good” of residents.
@@ -31,7 +31,7 @@
 ##### Reasoning:
 * This is the heart of everyday bonded life and stability. Compliant + Feeling + Positive Outlook groups thrive here through stories of preserving comfort vs. adapting to newcomers, cultural events vs. quiet living, and long-term investment vs. immediate survival.
 
-## 3. District: Leo (Resonance Crown) – Cultural / Performative
+## 3. District: Leo (TBN-district) – Cultural / Performative
 ##### Enneagram:
 * Major Theme: Feeling — Artistic expression, performance, celebrity vs. grassroots, and emotional impact of culture.
 * Hornevian Group: Assertive — Bold self-expression, pursuing fame, spectacles, and pushing creative boundaries.
@@ -39,7 +39,7 @@
 ##### Reasoning:
 * The glittering cultural heart is perfect for Assertive + Feeling + Positive Outlook groups. Players can explore image, ambition in art, commercialization vs. authenticity, and the tension between grand spectacles and intimate expression, with ripple effects on energy use and residential peace.
 
-## 4. District: Scorpio (The Threshold) – Psychological / Transformative
+## 4. District: Scorpio (TBN-district) – Psychological / Transformative
 ##### Enneagram:
 * Major Theme: Feeling (strong Instinctive elements) — Deep transformation, confronting mortality, trauma, vice, and radical change.
 * Hornevian Group: Withdrawn (or Assertive/Reactive mix) — Introspective work on the self, but also intense confrontations.
@@ -47,7 +47,7 @@
 ##### Reasoning:
 * This district is about radical personal/psychological change, therapy extremes, and moral gray areas (vice vs. healing). Reactive + Feeling groups shine here for stories of confronting demons, memory work, transformation vs. stability, and the ethical dangers of “rebirth” programs.
 
-## 5. District: Aries (Thermal Spire & Power Core) – Raw Survival / Energy
+## 5. District: Aries (TBN-district & Power Core) – Raw Survival / Energy
 ##### Enneagram:
 * Major Theme: Instinctive — Raw power, survival, aggression, and physical control of resources.
 * Hornevian Group: Assertive — Taking decisive (sometimes aggressive) action to maintain output and control.
@@ -55,7 +55,7 @@
 ##### Reasoning:
 * The aggressive, high-pressure industrial heart of survival. Assertive + Instinctive + Reactive groups offer excellent RP around power allocation dilemmas, worker heroism vs. equality, overclocking risks, and the human vs. robot priority conflicts.
 
-## 6. District: Capricorn (Forgeward) – Industrial / Ambition
+## 6. District: Capricorn (TBN-district) – Industrial / Ambition
 ##### Enneagram:
 * Major Theme: Thinking (Instinctive elements) — Discipline, efficiency, production, and long-term building.
 * Hornevian Group: Assertive — Ambitious drive, merit-based systems, and pushing production.
@@ -63,7 +63,7 @@
 ##### Reasoning:
 * The disciplined industrial engine. Assertive + Thinking + Competency groups fit perfectly for stories of ambition vs. safety, tradition vs. automation, profit vs. sustainability, and the tension between efficiency and human/robot welfare.
 
-## 7. District: Aquarius (Ascendant Research Quarter) – Visionary / Experimental
+## 7. District: Aquarius (TBN-district Quarter) – Visionary / Experimental
 ##### Enneagram:
 * Major Theme: Thinking — Intellect, innovation, ethics vs. progress, and objective analysis.
 * Hornevian Group: Withdrawn (or Assertive) — Deep focus and withdrawal into research, or bold pushing of boundaries.
@@ -71,7 +71,7 @@
 ##### Reasoning:
 * The forward-thinking lab of breakthroughs and ethical debates. Thinking + Competency groups create rich opportunities around pure research vs. practical application, ethics vs. results, human vs. robot experimentation, and the societal fear/regulation of dangerous ideas.
 
-## 8. District: Libra (Governmental Apex) – Diplomatic / Balance
+## 8. District: Libra (TBN-district) – Diplomatic / Balance
 ##### Enneagram:
 * Major Theme: Thinking (Feeling elements) — Justice, rules, resource allocation, and political balance.
 * Hornevian Group: Compliant — Dutiful adherence to law, bureaucracy, and the greater good.
@@ -87,7 +87,7 @@
 ##### Reasoning:
 * This district is the nervous system of the city — full of data archaeology, public forums, rumor exchanges, and verification dilemmas. Thinking + Competency groups have massive RP potential in stories about free speech vs. harmful rumors, elite access vs. public transparency, and the intellectual thrill (or danger) of uncovering secrets. Withdrawn types can thrive in private channel suites or data labs, while Assertive ones push bold broadcasts or exposés.
 
-## 10. District: Pisces (The Veil Market) – Black Market / Underworld
+## 10. District: Pisces (The TBN Black Market) – Black Market / Underworld
 ##### Enneagram:
 * Major Theme: Instinctive (with strong Feeling elements) — Survival instincts, opportunism, desire, and fluid moral boundaries.
 * Hornevian Group: Assertive — Aggressive deal-making, independence, and pushing boundaries for profit or necessity.
@@ -95,7 +95,7 @@
 ##### Reasoning:
 * The hazy, neon-lit gray zone of smuggling, vice, and forbidden trades creates perfect tension for Assertive + Instinctive + Reactive groups. Players can roleplay high-stakes haggling, moral compromises (compassionate smuggling vs. pure greed), alliances that turn sour, and the constant reactive chaos of crackdowns or double-crosses. This district rewards bold, emotionally charged decision-making without forcing any single personality.
 
-## 11. District: Sagittarius (Frostward Reaches) – Frontier / Exploration
+## 11. District: Sagittarius (The Frostlands) – Frontier / Exploration
 ##### Enneagram:
 * Major Theme: Instinctive (with Thinking undertones) — Raw survival against the ice, expansion drive, and philosophical confrontation with the wilderness.
 * Hornevian Group: Assertive — Bold pioneering, independence from central control, and pushing outward.
@@ -120,7 +120,7 @@
 4. Libra and Virgo
 
 
-## 1. Cancer (Havenward) and Taurus (Hearthward)
+## 1. Cancer (TBN-district) and Taurus (TBN-district)
 Both lean Feeling + Compliant + Positive Outlook (emotional caregiving, dutiful protection/stability, and reframing hardship through bonds/healing).
 ##### A. Strong Differences
 * Feel & Environment: Cancer feels like a warm, humid, softly lit emotional sanctuary — curving architecture, water sounds, healing gardens, creches, and grief support circles. It’s protective and vulnerable-focused. Taurus feels like stubborn, cozy domestic stability — multi-ringed insulated domes with private courtyards, family units, memorial walls, and small domestic markets. It’s everyday bonded life and comfort.
@@ -131,7 +131,7 @@ Both lean Feeling + Compliant + Positive Outlook (emotional caregiving, dutiful 
 * Storylines: A refugee/defector sheltering program in Cancer could be seen by Taurus residents as bringing “external threats” or disrupting bonded family harmony. Players could mediate (or exploit) tensions where helping Cancer’s vulnerable harms Taurus’ established residents (e.g., diverted resources leading to domestic unrest).
 * Player Agency & Ripples: Choices that boost Cancer’s protective role (e.g., expanding shelters) might cause Taurus to feel neglected or invaded, leading to petitions, protests, or even sabotage of shared infrastructure. Long-term: Over-prioritizing Cancer could erode Taurus’ morale and recruitment, while favoring Taurus could leave vulnerable populations exposed.
 
-## 2. Aries (Thermal Spire & Power Core) and Pisces (Veil Market)
+## 2. Aries (TBN-district & Power Core) and Pisces (TBN Black Market)
 Both lean Instinctive + Assertive + Reactive (bold survival instincts, assertive action, and intense/emotional responses to pressure).
 ##### A. Strong Differences
 * Feel & Environment: Aries is stark, cathedral-like industrial power — massive glowing pipes, rumbling geothermal cores, extreme temperature gradients, and heroic worker memorials. It feels raw, precarious, and officially vital. Pisces is dim, hazy, neon-reflected underworld — whispered deals in alcoves, smuggler tunnels, illicit distilleries, and gray-zone opportunism. It feels chaotic, profitable, and illicit.
@@ -142,7 +142,7 @@ Both lean Instinctive + Assertive + Reactive (bold survival instincts, assertive
 * Storylines: Players could run quests where smuggling critical parts during an Aries-induced shortage earns Infamy with official power factions, or where Pisces smuggling destabilizes the grid (e.g., overloaded illicit refineries causing cascades). Aries “heroic” over-extraction for the city could starve Pisces-dependent communities.
 * Player Agency & Ripples: Favoring Aries’ maximum output might enable city-wide survival but fuel Pisces black-market resentment and sabotage. Supporting Pisces’ gray trade could provide vital goods during crises but risk grid failures or official crackdowns that harm everyone. Long-term ripples include city-wide resentment, sabotage, or even underground alliances against central power control.
 
-## 3. Aquarius (Ascendant Research Quarter) and Gemini (Janbogo Subnet Nexus)
+## 3. Aquarius (TBN-district Quarter) and Gemini (Janbogo Subnet Nexus)
 Both lean Thinking + Competency (intellectual focus, objective analysis, and competence-driven approaches), with some Withdrawn/Assertive flexibility.
 ##### A. Strong Differences
 * Feel & Environment: Aquarius is clean, futuristic, chaotic labs — white/blue lighting, prototype robots, humming test chambers, and ethical debate halls. It feels visionary, experimental, and slightly detached. Gemini is bright, ever-changing data hubs — holographic displays, data streams, rumor exchanges, and secure private suites. It feels informational, fast-paced, and connective.
@@ -153,7 +153,7 @@ Both lean Thinking + Competency (intellectual focus, objective analysis, and com
 * Storylines: Players could mediate (or escalate) situations where Aquarius’ classified projects clash with Gemini’s push for open information, or where experimental data leaks through Gemini channels cause public panic. Gemini’s rumor control might suppress Aquarius breakthroughs for “stability.”
 * Player Agency & Ripples: Boosting Aquarius innovation could overwhelm Gemini’s verification systems (leading to misinformation crises). Prioritizing Gemini’s controlled info flow might stifle Aquarius research or lead to ethical cover-ups. Long-term: Uncontrolled data flow risks public distrust; over-control breeds underground resistance.
 
-## 4. Libra (Governmental Apex) and Virgo (Undergrid)
+## 4. Libra (TBN-district) and Virgo (Undergrid)
 Both lean Compliant + Thinking + Competency (dutiful adherence to systems, objective/rule-based approaches, and dutiful service).
 ##### A. Strong Differences
 * Feel & Environment: Libra is elegant, austere political spire — polished metal/glass, formal holographic seals, council chambers, and justice courts. It feels bureaucratic, high-level, and deliberative. Virgo is dark, labyrinthine hidden tunnels — dripping condensation, glowing maintenance lights, repair hubs, and constant mechanical hum. It feels gritty, essential, and unseen labor.

@@ -2,7 +2,7 @@
 
 #### By Act 3 the player has built deep relationships, made many painful choices, and accumulated a lot of reputation (and enemies). The climax should feel like a direct consequence of everything you’ve done.Here are 7 possible end-game scenarios (all inside Concordia):
 1. The Great Blackout
-* A cascading failure threatens to plunge the entire city into darkness and lethal cold. You must decide how to redistribute the last remaining power. Multiple factions storm the Central Thermal Spire for control. The “final battle” is a large tactical siege/combat inside the spire where former allies may turn on you depending on past choices.
+* A cascading failure threatens to plunge the entire city into darkness and lethal cold. You must decide how to redistribute the last remaining power. Multiple factions storm the Central TBN-district for control. The “final battle” is a large tactical siege/combat inside the spire where former allies may turn on you depending on past choices.
 2. Arcanet Singularity
 * The city’s Arcanet core has become unstable from all the patched-in data shards. It begins rewriting reality (glitching robots, false memories, holographic ghosts). You enter the massive data-vault for a psychological/moral climax where you confront digital versions of people you’ve harmed or helped.
 3. The Succession Crisis

@@ -8,7 +8,7 @@ Each entry includes:
 - current titles/place-names are tentative only
 - all actual proper place-names subject to change
 
-# 1. The Havenward (Cancer) – Nurturing / Protective
+# 1. The TBN-district (Cancer) – Nurturing / Protective
 
 ## Orientation: 
 * The emotional and physical sanctuary of the city — where the vulnerable are protected and bonds are nurtured.
@@ -29,13 +29,13 @@ Each entry includes:
 * Sheltering refugees vs. maintaining resources for long-term residents
 
 #### B. External Conflicts
-* Hearthward [Taurus] District (takes food/heat priority)
-* Thermal Spire [Aries] (diverting heat away causes cold stress here)
+* TBN-district [Taurus] District (takes food/heat priority)
+* TBN-district [Aries] (diverting heat away causes cold stress here)
 * Frostward [Sagittarius] Reaches (refugee influx strains resources)
-* Ascendant Research Quarter [Aquarius] (experimental tech often tested on Cancer’s vulnerable)
+* TBN-district Quarter [Aquarius] (experimental tech often tested on Cancer’s vulnerable)
 _________________
 
-# 2. Hearthward District (Taurus) – Residential / Stability
+# 2. TBN-district District (Taurus) – Residential / Stability
 
 ## Orientation:
 * The primary living space for most of Concordia’s bonded humans and robots.
@@ -56,13 +56,13 @@ _________________
 * Long-term investment in insulation vs. immediate siligel/heat needs
 
 #### B. External Conflicts
-* Thermal Spire [Aries] (needs constant heat allocation)
-* Resonance Crown [Leo] (cultural noise and resource diversion)
-* Veil Market [Pisces] (smuggled goods undermine official distribution)
-* Forgeward [Capricorn] Industrial (pollution and resource competition)
+* TBN-district [Aries] (needs constant heat allocation)
+* TBN-district [Leo] (cultural noise and resource diversion)
+* TBN Black Market [Pisces] (smuggled goods undermine official distribution)
+* TBN-district [Capricorn] Industrial (pollution and resource competition)
 _________________
 
-# 3. The Resonance Crown (Leo) – Cultural / Performative
+# 3. The TBN-district (Leo) – Cultural / Performative
 
 ## Orientation:
 * The glittering cultural and artistic heart of the city.
@@ -83,13 +83,13 @@ _________________
 * Commercializing culture vs. keeping it pure/authentic
 
 #### B. External Conflicts
-* Hearthward District [Taurus] (wants quiet and resources)
-* Thermal Spire [Aries] (high energy consumption)
-* Governmental Apex [Libra] (wants to regulate or tax events)
+* TBN-district District [Taurus] (wants quiet and resources)
+* TBN-district [Aries] (high energy consumption)
+* TBN-district [Libra] (wants to regulate or tax events)
 * Undergrid [Virgo] (raw materials needed for sets/stages)
 _________________
 
-# 4. The Threshold (Scorpio) – Psychological / Transformative
+# 4. TBN-district (Scorpio) – Psychological / Transformative
 
 ## Orientation:
 * The district of radical change, confronting mortality, and deep personal transformation.
@@ -110,20 +110,20 @@ _________________
 * Underground vice vs. regulated healing services
 
 #### B. External Conflicts
-* Hearthward District [Taurus] (sees it as dangerous influence on families)
-* Resonance Crown [Leo] (competes for emotional attention)
-* Veil Market [Pisces] (overlaps in vice but different philosophy)
-* Governmental Apex [Libra] (wants to suppress or control its activities)
+* TBN-district District [Taurus] (sees it as dangerous influence on families)
+* TBN-district [Leo] (competes for emotional attention)
+* TBN Black Market [Pisces] (overlaps in vice but different philosophy)
+* TBN-district [Libra] (wants to suppress or control its activities)
 _________________
 
-# 5. Thermal Spire & Power Core (Aries) – Raw Survival / Energy
+# 5. TBN-district & Power Core (Aries) – Raw Survival / Energy
 
 ## Orientation:
 * The fiery, aggressive heart that keeps the entire city alive.
 ## Setting Setting & Environs: Environs:
 * Stark, cathedral-like industrial complex with massive glowing pipes, constant rumbling, and extreme temperature gradients.
 ## What you’d find here:
-* The Great Thermal Spire itself
+* The Great TBN-district itself
 * Deep geothermal access tunnels
 * Emergency cryo-shelters and power distribution hubs
 * Engineer barracks and heroic worker memorials
@@ -137,13 +137,13 @@ _________________
 * Human vs. robot energy allocation priorities
 
 #### B. External Conflicts
-* Hearthward [Taurus] & {TBN} [Cancer] districts (residential heat demands)
-* Resonance Crown [Leo] (cultural energy use)
-* Ascendant Research [Aquarius] (experimental power draws)
-* Frostward Reaches [Sagittarius] (frontier expansion needs)
+* TBN-district [Taurus] & {TBN} [Cancer] districts (residential heat demands)
+* TBN-district [Leo] (cultural energy use)
+* TBN-district [Aquarius] (experimental power draws)
+* The Frostlands [Sagittarius] (frontier expansion needs)
 _________________
 
-# 6. The Forgeward (Capricorn) – Industrial / Ambition
+# 6. The TBN-district (Capricorn) – Industrial / Ambition
 
 ## Orientation:
 * The disciplined industrial engine and long-term builder of Concordia.
@@ -164,13 +164,13 @@ _________________
 * Short-term profit vs. long-term infrastructure
 
 #### B. External Conflicts
-* Thermal Spire [Aries] (energy consumption)
-* Hearthward [Taurus] (resource diversion from housing)
+* TBN-district [Aries] (energy consumption)
+* TBN-district [Taurus] (resource diversion from housing)
 * Undergrid [Virgo] (labor and material competition)
-* Veil Market [Pisces] (smuggling undercuts official industry)
+* TBN Black Market [Pisces] (smuggling undercuts official industry)
 _________________
 
-# 7. Ascendant Research Quarter (Aquarius) – Visionary / Experimental
+# 7. TBN-district Quarter (Aquarius) – Visionary / Experimental
 
 ## Orientation:
 * The forward-thinking, eccentric home of scientific and technological breakthroughs.
@@ -191,13 +191,13 @@ _________________
 * Open-source knowledge vs. proprietary control
 
 #### B. External Conflicts
-* Thermal Spire [Aries] (massive power requirements)
-* Governmental Apex [Libra] (regulation and funding battles)
-* Hearthward [Taurus] (fear of dangerous experiments)
+* TBN-district [Aries] (massive power requirements)
+* TBN-district [Libra] (regulation and funding battles)
+* TBN-district [Taurus] (fear of dangerous experiments)
 * {TBN} [Scorpio] (competing for radical transformation focus)
 _________________
 
-# 8. Governmental Apex (Libra) – Diplomatic / Balance
+# 8. TBN-district (Libra) – Diplomatic / Balance
 
 ## Orientation:
 * The political and administrative center of Concordia.
@@ -219,9 +219,9 @@ _________________
 
 #### B. External Conflicts
 * All residential districts (feels too slow)
-* Veil Market [Pisces] (wants to crack down)
-* Frostward Reaches [Sagittarius] (feels neglected)
-* Resonance Crown [Leo] (wants more cultural funding)
+* TBN Black Market [Pisces] (wants to crack down)
+* The Frostlands [Sagittarius] (feels neglected)
+* TBN-district [Leo] (wants more cultural funding)
 _________________
 
 # 9. Janbogo Subnet Nexus (Gemini) – Information / Communication
@@ -245,13 +245,13 @@ _________________
 * Entertainment content vs. vital survival data
 
 #### B. External Conflicts
-* Governmental Apex [Libra] (censorship pressure)
+* TBN-district [Libra] (censorship pressure)
 * {TBN} [Scorpio] (wants to expose secrets)
-* Veil Market [Pisces] (spreads unverified data)
-* Resonance Crown [Leo] (wants bandwidth for broadcasts)
+* TBN Black Market [Pisces] (spreads unverified data)
+* TBN-district [Leo] (wants bandwidth for broadcasts)
 _________________
 
-# 10. The Veil Market (Pisces) – Black Market / Underworld
+# 10. The TBN Black Market (Pisces) – Black Market / Underworld
 
 ## Orientation:
 * The fluid, dreamlike gray-zone where forbidden things flow.
@@ -272,13 +272,13 @@ _________________
 * Short-term survival scams vs. long-term networks
 
 #### B. External Conflicts
-* Governmental Apex [Libra] (crackdowns)
-* Hearthward [Taurus] & {TBN} [Cancer] (undermines official systems)
-* Forgeward Industrial [Capricorn] (competes with legal trade)
+* TBN-district [Libra] (crackdowns)
+* TBN-district [Taurus] & {TBN} [Cancer] (undermines official systems)
+* TBN-district Industrial [Capricorn] (competes with legal trade)
 * Janbogo Subnet Nexus [Gemini] (spreads uncontrolled data)
 _________________
 
-# 11. Frostward Reaches (Sagittarius) – Frontier / Exploration
+# 11. The Frostlands (Sagittarius) – Frontier / Exploration
 
 ## Orientation:
 * The optimistic, adventurous outer edge pushing against the ice.
@@ -299,9 +299,9 @@ _________________
 * Scientific discovery vs. practical resource gathering
 
 #### B. External Conflicts
-* Thermal Spire [Aries] (needs heat sent outward)
-* Governmental Apex [Libra] (wants control)
-* Hearthward [Taurus] (drains central resources)
+* TBN-district [Aries] (needs heat sent outward)
+* TBN-district [Libra] (wants control)
+* TBN-district [Taurus] (drains central resources)
 * {all Industrial districts} (wants materials)
 _________________
 
@@ -327,9 +327,9 @@ _________________
 
 #### B. External Conflicts
 * All surface districts (they blame Undergrid for failures)
-* Thermal Spire [Aries] (power fluctuations affect tunnels)
-* Veil Market [Pisces] (uses tunnels for smuggling)
-* Ascendant Research [Aquarius] (dangerous experiments leak downward)
+* TBN-district [Aries] (power fluctuations affect tunnels)
+* TBN Black Market [Pisces] (uses tunnels for smuggling)
+* TBN-district [Aquarius] (dangerous experiments leak downward)
 _________________
 
 # 13. Concordia Central Hub (Axis Mundi / Neutral)

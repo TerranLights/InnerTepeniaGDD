@@ -26,15 +26,15 @@
 * Sheltering the grieving vs. forcing them back into productivity
 ##### B. External Conflicts
 * All surface districts (they believe the "defectors" from Upper Earth are really plotting against Concordia as saboteurs)
-* Hearthward District (takes food/heat priority; competes for best living space & resources; best housing & resources)
-* Thermal Spire (diverting heat away causes cold stress here; blackouts cause mass anxiety and health issues; blackouts cause panic)
-* Frostward Reaches (refugee influx strains resources; constant refugee waves)
-* Ascendant Research Quarter (experimental tech often tested on Cancer’s vulnerable; dangerous experiments, can possibly leak psychological trauma)
-* Governmental Apex (bureaucratic rules can feel cold and uncaring)
+* TBN-district District (takes food/heat priority; competes for best living space & resources; best housing & resources)
+* TBN-district (diverting heat away causes cold stress here; blackouts cause mass anxiety and health issues; blackouts cause panic)
+* The Frostlands (refugee influx strains resources; constant refugee waves)
+* TBN-district Quarter (experimental tech often tested on Cancer’s vulnerable; dangerous experiments, can possibly leak psychological trauma)
+* TBN-district (bureaucratic rules can feel cold and uncaring)
 ##### C. Long-term Ripple 
 * Helping Cancer too much → other districts accuse it of hoarding resources → reputation loss with industrial & frontier areas.
 
-### 2. Hearthward District (Taurus) – Residential / Stability
+### 2. TBN-district District (Taurus) – Residential / Stability
 ##### A. Internal Conflicts
 * Luxury comforts for established bonded pairs vs. basic housing for newcomers
 * Private family hydroponics vs. centralized food distribution
@@ -52,15 +52,15 @@
 * Long-term home upgrades vs. immediate survival stockpiling
 * Preserving personal space vs. mandatory sharing during shortages
 ##### B. External Conflicts
-* Thermal Spire (needs constant heat allocation, which can result in heat allocation disputes)
-* Resonance Crown (noise and light pollution)
-* Veil Market (smuggled goods undermine official distribution and can result in addiction)
+* TBN-district (needs constant heat allocation, which can result in heat allocation disputes)
+* TBN-district (noise and light pollution)
+* TBN Black Market (smuggled goods undermine official distribution and can result in addiction)
 * Mountain Cut Industrial (pollution; resource competition; worker fatigue)
-* Governmental Apex (heavy taxation for city-wide projects)
+* TBN-district (heavy taxation for city-wide projects)
 ##### C. Long-term Ripple
-* Prioritizing Hearthward → industrial districts feel neglected → reduced siligel/manufacturing output.
+* Prioritizing TBN-district → industrial districts feel neglected → reduced siligel/manufacturing output.
 
-### 3. The Resonance Crown (Leo) – Cultural / Performative
+### 3. The TBN-district (Leo) – Cultural / Performative
 ##### A. Internal Conflicts
 * Grand artistic spectacles vs. small grassroots creators
 * Funding celebrity performers vs. community art programs
@@ -78,9 +78,9 @@
 * Celebrating life vs. acknowledging hardship
 * International fame vs. local community focus
 ##### B. External Conflicts
-* Hearthward District (wants quiet and resources, as they experience disruption of peace and peaceful living)
-* Thermal Spire (high energy consumption; enormous power draw)
-* Governmental Apex (wants regulation or to tax events; permit battles)
+* TBN-district District (wants quiet and resources, as they experience disruption of peace and peaceful living)
+* TBN-district (high energy consumption; enormous power draw)
+* TBN-district (wants regulation or to tax events; permit battles)
 * Undergrid (raw materials needed for sets/stages; structural damage from vibrations etc)
 * Cancer District (seen as frivolous during crises)
 ##### C. Long-term Ripple
@@ -104,14 +104,14 @@
 * Personal rebirth vs. community stability
 * Profound change vs. gentle healing
 ##### B. External Conflicts
-* Hearthward District (sees it as a corrupting and dangerous influence on families)
-* Resonance Crown (competes for emotional energy and attention)
-* Veil Market (overlaps in vice but different philosophy of being profit-driven; i.e., philosophical rivalry)
-* Governmental Apex (wants heavy regulation)
+* TBN-district District (sees it as a corrupting and dangerous influence on families)
+* TBN-district (competes for emotional energy and attention)
+* TBN Black Market (overlaps in vice but different philosophy of being profit-driven; i.e., philosophical rivalry)
+* TBN-district (wants heavy regulation)
 ##### C. Long-term Ripple
 * Empowering Scorpio → widespread fear and paranoia → trust in Central Hub collapses.
 
-### 5. Thermal Spire & Power Core (Aries) – Raw Survival / Energy
+### 5. TBN-district & Power Core (Aries) – Raw Survival / Energy
 ##### A. Internal Conflicts
 * Maximum output (risking instability) vs. safe conservative operation
 * Prioritizing industrial districts vs. residential ones
@@ -129,22 +129,22 @@
 * Aggressive expansion vs. conservative maintenance
 * Rewarding heroic workers vs. equal distribution
 ##### B. External Conflicts
-* Hearthward & Cancer districts (residential heat demands)
-* Resonance Crown (cultural energy use)
-* Ascendant Research (experimental power draws)
-* Frostward Reaches (frontier expansion needs)
-* Hearthward + Cancer districts (residential heating demands)
-* Resonance Crown (cultural energy consumption)
-* Ascendant Research (experimental power surges)
-* Frostward Reaches (frontier supply lines)
+* TBN-district & Cancer districts (residential heat demands)
+* TBN-district (cultural energy use)
+* TBN-district (experimental power draws)
+* The Frostlands (frontier expansion needs)
+* TBN-district + Cancer districts (residential heating demands)
+* TBN-district (cultural energy consumption)
+* TBN-district (experimental power surges)
+* The Frostlands (frontier supply lines)
 * Undergrid (tunnel systems suffer from fluctuations)
-* Hearthward + Cancer (heating demands)
-* Resonance Crown (cultural use)
-* Ascendant Research (experimental draws)
-* Frostward Reaches (frontier needs)
+* TBN-district + Cancer (heating demands)
+* TBN-district (cultural use)
+* TBN-district (experimental draws)
+* The Frostlands (frontier needs)
 * Undergrid (tunnel damage)
 ##### C. Long-term Ripple
-* Favoring Thermal Spire → blackouts elsewhere → city-wide resentment and possible sabotage.
+* Favoring TBN-district → blackouts elsewhere → city-wide resentment and possible sabotage.
 
 ### 6. To-Be-Named District (Capricorn) – Industrial / Ambition
 ##### A. Internal Conflicts
@@ -164,16 +164,16 @@
 * Expansion vs. sustainability
 * Merit-based promotion vs. seniority
 ##### B. External Conflicts
-* Thermal Spire (energy consumption seen as energy-hogging)
-* Hearthward (resource diversion from housing)
+* TBN-district (energy consumption seen as energy-hogging)
+* TBN-district (resource diversion from housing)
 * Undergrid (labor and material competition)
-* Veil Market (smuggling undercuts official industry, resulting in illegal competition)
-* Governmental Apex (regulations and taxes)
-* Resonance Crown (seen as soulless)
+* TBN Black Market (smuggling undercuts official industry, resulting in illegal competition)
+* TBN-district (regulations and taxes)
+* TBN-district (seen as soulless)
 ##### C. Long-term Ripple
 * Boosting Capricorn → environmental degradation and worker exhaustion → long-term health crises in residential districts.
 
-### 7. Ascendant Research Quarter (Aquarius) – Visionary / Experimental
+### 7. TBN-district Quarter (Aquarius) – Visionary / Experimental
 ##### A. Internal Conflicts
 * Pure research vs. immediately applicable technology
 * Ethical boundaries vs. breakthrough results
@@ -191,15 +191,15 @@
 * Sharing knowledge vs. patents
 * Revolutionary risk vs. safe incremental progress
 ##### B. External Conflicts
-* Thermal Spire (massive power requirements and unregulated power usage)
-* Governmental Apex (regulation, oversight, and funding battles)
-* Hearthward (public fear of dangerous experiments)
+* TBN-district (massive power requirements and unregulated power usage)
+* TBN-district (regulation, oversight, and funding battles)
+* TBN-district (public fear of dangerous experiments)
 * Scorpio District (competing radical philosophies)
 * Undergrid (dangerous toxic leaks and byproducts leak downward)
 ##### C. Long-term Ripple
 * Favoring Research → sudden technological leaps but also uncontrolled side-effects and public distrust.
 
-### 8. Governmental Apex (Libra) – Diplomatic / Balance
+### 8. TBN-district (Libra) – Diplomatic / Balance
 ##### A. Internal Conflicts
 * Strict central planning vs. district autonomy
 * Transparency vs. necessary secrecy
@@ -218,9 +218,9 @@
 * Long-term policy vs. crisis response
 ##### B. External Conflicts
 * All residential districts (consider the Libra district to be too slow)
-* Veil Market (Libra district wants to crack down upon the Veil's black market)
-* Frostward Reaches (just want to be left alone by the Libra/government district)
-* Resonance Crown (wants more special cultural funding)
+* TBN Black Market (Libra district wants to crack down upon the Veil's black market)
+* The Frostlands (just want to be left alone by the Libra/government district)
+* TBN-district (wants more special cultural funding)
 * All residential districts (feels too slow and bureaucratic)
 ##### C. Long-term Ripple
 * Strong central governance → districts feel oppressed → rise in separatist sentiment.
@@ -243,15 +243,15 @@
 * Free speech vs. harmful content
 * Local news vs. city-wide coordination
 ##### B. External Conflicts
-* Governmental Apex (attempts at regulations)
-* Veil Market (spreads unverified data and uncontrolled rumors)
-* Resonance Crown (wants bandwidth for broadcasts)
-* Hearthward (privacy concerns)
+* TBN-district (attempts at regulations)
+* TBN Black Market (spreads unverified data and uncontrolled rumors)
+* TBN-district (wants bandwidth for broadcasts)
+* TBN-district (privacy concerns)
 ##### C. Long-term Ripple
 * Open information → chaos and panic
 * Heavy control → underground resistance and distrust.
 
-### 10. The Veil Market (Pisces) – Black Market / Underworld
+### 10. The TBN Black Market (Pisces) – Black Market / Underworld
 ##### A. Internal Conflicts
 * Compassionate smuggling (helping the desperate) vs. pure profit
 * Dangerous substances vs. relatively “safe” goods
@@ -268,14 +268,14 @@
 * Short-term scams vs. long-term networks
 * Compassionate smuggling vs. ruthless profit
 ##### B. External Conflicts
-* Governmental Apex (crackdowns)
-* Hearthward & Cancer (undermines official systems and family stability)
+* TBN-district (crackdowns)
+* TBN-district & Cancer (undermines official systems and family stability)
 * Mountain Cut Industrial (competes with legal trade; steals legitimate business)
 * Janbogo Subnet Nexus (spreads uncontrolled and dangerous data)
-* Thermal Spire (hoards power and resources)
+* TBN-district (hoards power and resources)
 ##### C. Long-term Ripple
-* Tolerating Veil Market → increased crime and addiction
-* Suppressing Veil Market → desperate shortages and black-market rebellions.
+* Tolerating TBN Black Market → increased crime and addiction
+* Suppressing TBN Black Market → desperate shortages and black-market rebellions.
 
 ### 11. The Frostlands/Frontier (Sagittarius) – Frontier / Exploration
 ##### A. Internal Conflicts
@@ -295,9 +295,9 @@
 * Optimism vs. harsh realism
 * Individual explorers vs. collective outposts
 ##### B. External Conflicts
-* Thermal Spire (issue of heat distribution distance, needs heat sent outward)
-* Governmental Apex (wants control and taxation over the Frostlands)
-* Hearthward (drains central resources)
+* TBN-district (issue of heat distribution distance, needs heat sent outward)
+* TBN-district (wants control and taxation over the Frostlands)
+* TBN-district (drains central resources)
 * Industrial districts (wants raw materials)
 * Cancer District (refugee burden)
 ##### C. Long-term Ripple
@@ -323,11 +323,11 @@
 * Serving surface vs. protecting Undergrid residents
 ##### B. External Conflicts
 * All surface districts (they blame the Undergrid for power failures)
-* Thermal Spire (power fluctuations affect and possibly damage tunnels)
-* Veil Market (illegal use of tunnels for smuggling)
-* Ascendant Research (toxic leaks from dangerous Aquarius experiments leak downward)
+* TBN-district (power fluctuations affect and possibly damage tunnels)
+* TBN Black Market (illegal use of tunnels for smuggling)
+* TBN-district (toxic leaks from dangerous Aquarius experiments leak downward)
 * Surface districts (blame Undergrid for failures)
-* Resonance Crown (vibrations cause structural stress)
+* TBN-district (vibrations cause structural stress)
 ##### C. Long-term Ripple
 * Investing in Undergrid → surface districts feel neglected
 * Ignoring Undergrid → city-wide infrastructure collapse.

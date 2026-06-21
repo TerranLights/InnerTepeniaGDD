@@ -65,7 +65,7 @@
 * Sensory Array
 * Energy Efficiency
 2. Key Skills (with district & faction synergy):Technical Skills
-* Thermal Engineering → Strong in Thermal Spire & Coastal Cut
+* Thermal Engineering → Strong in TBN-district & Coastal Cut
 * Siligel Chemistry → Mountain Cut Industrial
 * Highway Maintenance → Transit Guild reputation
 * Power Grid Management

@@ -5,14 +5,14 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 1. Cancer (Havenward) vs Taurus (Hearthward)
+## 1. Cancer (TBN-district) vs Taurus (TBN-district)
 **Shared Trigger Theme**: Violation of care & stability
 
 **Key Distinctions**:
 
-- **Cancer (Havenward)** focuses on **active protection and caregiving**. It has a stronger “guardian” and “nurturer” identity. Violence is triggered more by direct threats to the vulnerable (children, sick, elderly). The district feels warmer, more communal, and protective. NPCs are more openly emotional and willing to sacrifice for others.
+- **Cancer (TBN-district)** focuses on **active protection and caregiving**. It has a stronger “guardian” and “nurturer” identity. Violence is triggered more by direct threats to the vulnerable (children, sick, elderly). The district feels warmer, more communal, and protective. NPCs are more openly emotional and willing to sacrifice for others.
   
-- **Taurus (Hearthward)** focuses on **home, tradition, and personal stability**. It has a stronger “homemaker” and “legacy” identity. Violence is triggered more by violation of private homes and family traditions. The district feels more grounded, traditional, and stubborn. NPCs are more private, territorial, and slow to trust outsiders.
+- **Taurus (TBN-district)** focuses on **home, tradition, and personal stability**. It has a stronger “homemaker” and “legacy” identity. Violence is triggered more by violation of private homes and family traditions. The district feels more grounded, traditional, and stubborn. NPCs are more private, territorial, and slow to trust outsiders.
 
 **Gameplay Feel**:
 - Cancer: More defensive, protective quests and escort missions.
@@ -20,14 +20,14 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 2. Leo (Resonance Crown) vs Scorpio (The Threshold)
+## 2. Leo (TBN-district) vs Scorpio (TBN-district)
 **Shared Trigger Theme**: Violation of identity & self
 
 **Key Distinctions**:
 
-- **Leo (Resonance Crown)** is **outward-facing and performative**. Identity here is about public image, fame, art, and cultural expression. Violence is triggered by public humiliation or destruction of cultural symbols. The district is loud, colorful, dramatic, and status-driven.
+- **Leo (TBN-district)** is **outward-facing and performative**. Identity here is about public image, fame, art, and cultural expression. Violence is triggered by public humiliation or destruction of cultural symbols. The district is loud, colorful, dramatic, and status-driven.
   
-- **Scorpio (The Threshold)** is **inward-facing and psychological**. Identity here is about personal transformation, trauma, and confronting the shadow self. Violence is triggered by violation of psychological privacy or desecration of inner sanctums. The district is darker, more intimate, secretive, and intense.
+- **Scorpio (TBN-district)** is **inward-facing and psychological**. Identity here is about personal transformation, trauma, and confronting the shadow self. Violence is triggered by violation of psychological privacy or desecration of inner sanctums. The district is darker, more intimate, secretive, and intense.
 
 **Gameplay Feel**:
 - Leo: Performance-based quests, fame/reputation systems, public events.
@@ -35,14 +35,14 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 3. Aries (Thermal Spire) vs Capricorn (Forgeward)
+## 3. Aries (TBN-district) vs Capricorn (TBN-district)
 **Shared Trigger Theme**: Threat to strength & output
 
 **Key Distinctions**:
 
-- **Aries (Thermal Spire)** represents **raw, primal power and survival**. It’s about raw energy, endurance, and direct force. Violence is more immediate and aggressive. The district feels hot, dangerous, industrial-chaotic, and honor-based.
+- **Aries (TBN-district)** represents **raw, primal power and survival**. It’s about raw energy, endurance, and direct force. Violence is more immediate and aggressive. The district feels hot, dangerous, industrial-chaotic, and honor-based.
   
-- **Capricorn (Forgeward)** represents **structured production and ambition**. It’s about organized industry, hierarchy, and long-term output. Violence is more calculated and tied to authority/chain of command. The district feels more orderly, hierarchical, and profit-driven.
+- **Capricorn (TBN-district)** represents **structured production and ambition**. It’s about organized industry, hierarchy, and long-term output. Violence is more calculated and tied to authority/chain of command. The district feels more orderly, hierarchical, and profit-driven.
 
 **Gameplay Feel**:
 - Aries: High-risk, high-reward survival and combat-focused content.
@@ -50,12 +50,12 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 4. Aquarius (Ascendant Research) vs Gemini (Janbogo Subnet Nexus)
+## 4. Aquarius (TBN-district) vs Gemini (Janbogo Subnet Nexus)
 **Shared Trigger Theme**: Threat to progress & truth
 
 **Key Distinctions**:
 
-- **Aquarius (Ascendant Research)** is about **bold, visionary experimentation** and pushing boundaries. Progress here is scientific and futuristic. Violence is triggered by sabotaging experiments or stealing radical ideas. The district feels sleek, high-tech, idealistic, and sometimes reckless.
+- **Aquarius (TBN-district)** is about **bold, visionary experimentation** and pushing boundaries. Progress here is scientific and futuristic. Violence is triggered by sabotaging experiments or stealing radical ideas. The district feels sleek, high-tech, idealistic, and sometimes reckless.
   
 - **Gemini (Janbogo Subnet Nexus)** is about **information flow, communication, and truth**. Progress here is about data, networks, and knowledge dissemination. Violence is triggered by large-scale misinformation or destroying information infrastructure. The district feels more digital, fast-paced, connected, and chaotic.
 
@@ -65,14 +65,14 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 5. Libra (Governmental Apex) vs Pisces (Veil Market)
+## 5. Libra (TBN-district) vs Pisces (TBN Black Market)
 **Shared Trigger Theme**: Violation of systems / rules
 
 **Key Distinctions**:
 
-- **Libra (Governmental Apex)** represents **official law, diplomacy, and structured order**. The “rules” are formal, political, and public. Violence is triggered by disrupting official proceedings or inciting political chaos. The district feels polished, bureaucratic, elegant, and status-conscious.
+- **Libra (TBN-district)** represents **official law, diplomacy, and structured order**. The “rules” are formal, political, and public. Violence is triggered by disrupting official proceedings or inciting political chaos. The district feels polished, bureaucratic, elegant, and status-conscious.
   
-- **Pisces (Veil Market)** represents **criminal underworld codes and shadow rules**. The “rules” are informal, honor-based, and hidden. Violence is triggered by snitching or breaking criminal codes. The district feels gritty, dangerous, secretive, and morally gray.
+- **Pisces (TBN Black Market)** represents **criminal underworld codes and shadow rules**. The “rules” are informal, honor-based, and hidden. Violence is triggered by snitching or breaking criminal codes. The district feels gritty, dangerous, secretive, and morally gray.
 
 **Gameplay Feel**:
 - Libra: Political intrigue, diplomacy quests, reputation with government.
@@ -80,12 +80,12 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 6. Sagittarius (Frostward Reaches) vs Virgo (Undergrid)
+## 6. Sagittarius (The Frostlands) vs Virgo (Undergrid)
 **Shared Trigger Theme**: Threat to endurance & function
 
 **Key Distinctions**:
 
-- **Sagittarius (Frostward Reaches)** is about **harsh frontier survival and exploration**. Endurance here is personal and physical against nature. Violence is triggered by betrayal during expeditions or stealing survival resources. The district feels cold, open, rugged, and independent.
+- **Sagittarius (The Frostlands)** is about **harsh frontier survival and exploration**. Endurance here is personal and physical against nature. Violence is triggered by betrayal during expeditions or stealing survival resources. The district feels cold, open, rugged, and independent.
   
 - **Virgo (Undergrid)** is about **infrastructure maintenance and quiet service**. Endurance here is about keeping the city’s literal backbone functioning. Violence is triggered by sabotaging systems that keep everyone alive. The district feels industrial, claustrophobic, essential, and underappreciated.
 

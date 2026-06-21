@@ -3,12 +3,12 @@
 ## Philosophy
 One of the core design pillars of *Inner Tepenia* is maximum player agency. The player must **always** have the meaningful option to say “Fuck you, not my problem” and still reach a valid conclusion to the game.
 
-The central **Thermal Spire Energy Crisis** (Aries) is deliberately **not** a mandatory questline. Instead, it functions as a living world event with multiple creative bypass routes. These hidden paths require deep system mastery, creative mechanical combinations, and thorough exploration. They are intentionally difficult and gated so they feel like genuine achievements rather than exploits.
+The central **TBN-district Energy Crisis** (Aries) is deliberately **not** a mandatory questline. Instead, it functions as a living world event with multiple creative bypass routes. These hidden paths require deep system mastery, creative mechanical combinations, and thorough exploration. They are intentionally difficult and gated so they feel like genuine achievements rather than exploits.
 
 ## 1. The Independent Lattice (Primary Bypass Path)
 
 **Premise**
-The player never directly intervenes in the Aries Thermal Spire. Instead, they catalyze a decentralized, parallel power infrastructure (“The Lattice”) that gradually makes the central grid irrelevant. The crisis still occurs, but the city (and player) adapts around it.
+The player never directly intervenes in the Aries TBN-district. Instead, they catalyze a decentralized, parallel power infrastructure (“The Lattice”) that gradually makes the central grid irrelevant. The crisis still occurs, but the city (and player) adapts around it.
 
 **Requirements (High Gates)**
 - **MACHINE Stats**:
@@ -36,7 +36,7 @@ The player never directly intervenes in the Aries Thermal Spire. Instead, they c
 - **Signature Combo**: Environmental hazard exploitation (leaking pipes + Jury-Rigging & Repurposing) to create self-cooling micro-nodes.
 
 **Stage 3 – Deployment & Expansion** (Sagittarius + opportunistic districts)
-- Establish first nodes in Frostward Reaches.
+- Establish first nodes in The Frostlands.
 - Gradually link residential districts suffering shortages (Cancer/Taurus become natural adopters).
 - **Signature Combo**: Modular crafting + Frontier Survival & Cold Adaptation checks to turn ice/wind into assets.
 
