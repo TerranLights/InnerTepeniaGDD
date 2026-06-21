@@ -55,7 +55,7 @@
 * Role: Geothermal engineers with a spiritual bent (strong overlap with Cymaticists).
 * Fame: Assisting with deep-core maintenance or creating new resonance tech.
 * Infamy: Over-extracting heat or treating the core as mere machinery.
-* District: Thermal Spire lower levels.
+* District: TBN-district lower levels.
 
 ### The Memory Weavers
 * Philosophy: Personal and shared memory as the true core of identity. They specialize in recording, editing, and sharing robot/human life experiences.

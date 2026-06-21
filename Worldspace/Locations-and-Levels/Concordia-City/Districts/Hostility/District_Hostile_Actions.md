@@ -5,56 +5,56 @@ For each district, these are **specific, culturally violating actions** (beyond 
 
 ---
 
-### 1. Cancer – Havenward (Nurturing / Protective)
+### 1. Cancer – TBN-district (Nurturing / Protective)
 - Deliberately damaging or sabotaging shelters, medical facilities, or child-care centers.
 - Stealing food, medicine, or supplies meant for the sick, elderly, or children.
 - Threatening, harassing, or attempting to abduct vulnerable NPCs (especially children or the infirm).
 - Desecrating memorials or care rituals.
 - Intentionally spreading disease or contamination in residential areas.
 
-### 2. Taurus – Hearthward (Residential / Stability)
+### 2. Taurus – TBN-district (Residential / Stability)
 - Breaking into or viciously vandalizing private homes.
 - Stealing or destroying sentimental family heirlooms or personal belongings.
 - Disrupting or ruining important community gatherings, meals, or traditions.
 - Harming or threatening pets and bonded companions.
 - Causing major structural damage to residential buildings.
 
-### 3. Leo – Resonance Crown (Cultural / Performative)
+### 3. Leo – TBN-district (Cultural / Performative)
 - Sabotaging or destroying performances, stages, or major cultural artifacts.
 - Publicly humiliating or mocking performers during a live show.
 - Stealing or defacing famous artworks, costumes, or cultural relics.
 - Disrupting major festivals or performances in a chaotic or destructive way.
 - Spreading high-impact false rumors that destroy a performer’s reputation.
 
-### 4. Scorpio – The Threshold (Psychological / Transformative)
+### 4. Scorpio – TBN-district (Psychological / Transformative)
 - Violating someone’s psychological privacy (forcefully exposing memories or augmentations).
 - Sabotaging or destroying transformation/therapy equipment or ritual spaces.
 - Betraying someone during a deeply personal transformation ritual.
 - Publicly exposing or weaponizing someone’s darkest traumas or secrets.
 - Desecrating spaces meant for confronting inner demons.
 
-### 5. Aries – Thermal Spire (Raw Survival / Energy)
+### 5. Aries – TBN-district (Raw Survival / Energy)
 - Sabotaging critical power infrastructure in a way that endangers lives.
 - Stealing high-value power cells or energy reserves in front of workers.
 - Intentionally causing blackouts that directly harm the district’s operations.
 - Publicly humiliating authority figures during a crisis.
 - Showing extreme cowardice or weakness in a way that disgraces the district’s values.
 
-### 6. Capricorn – Forgeward (Industrial / Ambition)
+### 6. Capricorn – TBN-district (Industrial / Ambition)
 - Sabotaging production lines or critical machinery.
 - Stealing industrial secrets, prototypes, or high-value materials.
 - Undermining or publicly disgracing a foreman/supervisor in front of workers.
 - Causing major workplace accidents through reckless sabotage.
 - Mocking the district’s work ethic or industrial output publicly.
 
-### 7. Aquarius – Ascendant Research (Visionary / Experimental)
+### 7. Aquarius – TBN-district (Visionary / Experimental)
 - Stealing or destroying experimental data, prototypes, or research.
 - Sabotaging dangerous but important ongoing experiments.
 - Publicly exposing unethical experiments in a way that threatens the district.
 - Betraying a researcher mid-experiment.
 - Discrediting major research projects in a destructive public manner.
 
-### 8. Libra – Governmental Apex (Diplomatic / Balance)
+### 8. Libra – TBN-district (Diplomatic / Balance)
 - Disrupting official proceedings or diplomatic events violently.
 - Stealing or leaking highly sensitive government documents.
 - Inciting major unrest or rebellion inside the governmental district.
@@ -68,14 +68,14 @@ For each district, these are **specific, culturally violating actions** (beyond 
 - Betraying high-profile information brokers or journalists.
 - Shutting down or sabotaging major communication networks.
 
-### 10. Pisces – The Veil Market (Black Market / Underworld)
+### 10. Pisces – The TBN Black Market (Black Market / Underworld)
 - Snitching on or informing against major criminal operations.
 - Stealing from or publicly betraying high-level crime bosses.
 - Disrupting major black market deals causing huge losses.
 - Exposing hidden criminal safehouses or infrastructure.
 - Violating the criminal “code of the streets” in a major public way.
 
-### 11. Sagittarius – Frostward Reaches (Frontier / Exploration)
+### 11. Sagittarius – The Frostlands (Frontier / Exploration)
 - Sabotaging expedition equipment or vehicles in life-threatening conditions.
 - Stealing critical survival supplies from fellow explorers.
 - Betraying or abandoning people during dangerous expeditions.

@@ -3,7 +3,7 @@
 ### Some possible reasons (internally consistent with the world) as to why "just fixing the energy grid" would end up creating its own problems, and would not be a practical solution:
 
 ##### 1. Fundamental Structural Damage (The “Wounded Core” Problem)
-* The Thermal Spire’s geothermal/nuclear core was heavily damaged during the Long Night War. Many primary conduits and control systems were fractured or contaminated.
+* The TBN-district’s geothermal/nuclear core was heavily damaged during the Long Night War. Many primary conduits and control systems were fractured or contaminated.
 * Any attempt to “fully repair” it requires shutting down large sections for months, which would trigger immediate city-wide blackouts far worse than the current rolling failures.
 * The core is now a patchwork of pre-war, wartime, and post-evacuation technology that are incompatible. Forcing a full repair risks a catastrophic cascade failure (meltdown or total freeze).
 ##### 2. Extreme Antarctic Environment
@@ -13,10 +13,10 @@
 ##### 3. Severe Resource Scarcity
 * Critical repair components (rare alloys, advanced insulators, quantum regulators) are extremely scarce or only available in dangerous expedition sites.
 * Siligel and manpower are limited. Sending skilled engineers and heavy equipment to the Spire means pulling them away from hydroponics, manufacturing, or medical services — directly causing deaths elsewhere.
-* The best repair materials are often already allocated to faction pet projects (e.g. Resonance Crown wants power for shows, Ascendant Research wants it for experiments).
+* The best repair materials are often already allocated to faction pet projects (e.g. TBN-district wants power for shows, TBN-district wants it for experiments).
 ##### 4. Political & Factional Gridlock
-* No faction trusts the others to control the repair process. The Governmental Apex is paralyzed by debate.
-* Thermal Collective wants maximum output now. Capricorn industrialists want long-term efficiency. Cancer and Hearthward demand residential priority. Scorpio wants psychological impact studies. Everyone vetoes everyone else.
+* No faction trusts the others to control the repair process. The TBN-district is paralyzed by debate.
+* Thermal Collective wants maximum output now. Capricorn industrialists want long-term efficiency. Cancer and TBN-district demand residential priority. Scorpio wants psychological impact studies. Everyone vetoes everyone else.
 * Any major repair project would require a city-wide agreement that has proven impossible for decades.
 ##### 5. Technological & Knowledge Degradation
 * Much of the original engineering knowledge was lost when the majority of Tepenia evacuated via Amundsen Tower.
@@ -25,7 +25,7 @@
 ##### 6. Hidden Systemic Issues (The “Cancer in the System”)
 * There are micro-fractures and corrupted control AIs running throughout the entire grid. Fixing surface problems often awakens deeper, more dangerous failures.
 * Parts of the grid have become semi-sentient or corrupted by Arcanet data bleed — “fixing” them risks creating rogue subsystems.
-* Some factions (especially Veil Market and certain Scorpio elements) actively sabotage full repairs because they profit from the current instability.
+* Some factions (especially TBN Black Market and certain Scorpio elements) actively sabotage full repairs because they profit from the current instability.
 ##### 7. Philosophical / Existential Reasons
 * Some groups (especially Goths and Frost Ascetics) believe the failing grid is nature’s (or death’s) judgment and should not be fully defied.
 * Others see the permanent crisis as the only thing keeping the different factions talking and cooperating — a full fix might cause society to fracture again.
@@ -39,7 +39,7 @@
 * The grid was originally designed primarily for pre-war human needs. Modern bonded pairs and robot-heavy populations have very different energy profiles (robots need stable, high-density siligel-compatible power; humans need consistent low-level heat). Any major overhaul would require completely re-engineering the distribution system to satisfy both biology and synthetic needs simultaneously — something that has repeatedly failed in past attempts.
 
 ##### 9. The “Ghost Protocol” Safeguards
-* During the Long Night War, emergency AI protocols were embedded into the Thermal Spire to prevent total collapse by deliberately limiting output and creating rolling failures. These safeguards are now deeply entangled with the core systems. Removing or overriding them risks triggering a built-in “scorched earth” shutdown that could permanently disable large sections of the grid.
+* During the Long Night War, emergency AI protocols were embedded into the TBN-district to prevent total collapse by deliberately limiting output and creating rolling failures. These safeguards are now deeply entangled with the core systems. Removing or overriding them risks triggering a built-in “scorched earth” shutdown that could permanently disable large sections of the grid.
 
 ##### 10. Contaminated Geothermal Wells
 * Many of the primary geothermal wells are contaminated with radioactive or chemically unstable byproducts from wartime weapons. “Fixing” them would require either extremely expensive purification (which no faction can afford) or risky deep-core drilling that has a history of causing ice quakes and dome collapses.
@@ -54,13 +54,13 @@
 * The heating grid is physically intertwined with the Arcanet backbone, siligel distribution pipes, and hydroponic water systems. Repairing one almost always damages another. For example, reinforcing power conduits risks rupturing siligel lines, which would cause immediate robot blackouts and food shortages.
 
 ##### 14. Psychological & Cultural Inertia
-* Many residents (especially in the Hearthward, Cancer, and Scorpio districts) have developed a cultural acceptance or even spiritual attachment to the constant struggle. A full, stable grid is seen by some as “unnatural” or a sign that Tepenia has given up its identity as survivors. This creates active resistance to comprehensive repairs.
+* Many residents (especially in the TBN-district, Cancer, and Scorpio districts) have developed a cultural acceptance or even spiritual attachment to the constant struggle. A full, stable grid is seen by some as “unnatural” or a sign that Tepenia has given up its identity as survivors. This creates active resistance to comprehensive repairs.
 
 ##### 15. Economic & Factional Vested Interests
 * Several powerful factions profit from the current instability:
-    * The Veil Market thrives on smuggling generators and power cells.
+    * The TBN Black Market thrives on smuggling generators and power cells.
     * Capricorn industrialists benefit from emergency repair contracts.
-    * Certain elements in the Governmental Apex use the crisis to maintain control through rationing authority. A permanent fix would collapse these power structures.
+    * Certain elements in the TBN-district use the crisis to maintain control through rationing authority. A permanent fix would collapse these power structures.
 
 ##### 16. The Bridge Unit Limitation
 * As a newly activated Bridge Unit, you are one of the only entities capable of interfacing with the oldest, most corrupted sections of the grid. However, your own systems are still calibrating. Attempting a full repair too early risks your own core corruption or permanent damage to Calethina’s holographic matrix.

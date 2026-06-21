@@ -9,20 +9,20 @@ These endings unlock when the player achieves:
 
 ---
 
-### 1. Cancer (Havenward) – **The Eternal Caretaker**
+### 1. Cancer (TBN-district) – **The Eternal Caretaker**
 **Requirements**:
-- Idolized reputation with Havenward
+- Idolized reputation with TBN-district
 - Complete all Cancer quests, including “The Last Harvest”, “Shelter for the Unwanted”, and the multi-stage “Cycle of Care” questline
 - Reach maximum reputation with **yet-TBN-NPC_D-01_Caregiver** (empathetic human-robot hybrid caregiver)
 - Empathy Protocols 80+
 
-**Outcome**: You turn Havenward into a fully self-sufficient sanctuary. You and your people live peacefully while the rest of Concordia falls apart.
+**Outcome**: You turn TBN-district into a fully self-sufficient sanctuary. You and your people live peacefully while the rest of Concordia falls apart.
 
 ---
 
-### 2. Taurus (Hearthward) – **The Quiet Patriarch/Matriarch**
+### 2. Taurus (TBN-district) – **The Quiet Patriarch/Matriarch**
 **Requirements**:
-- Idolized reputation with Hearthward
+- Idolized reputation with TBN-district
 - Complete all Taurus quests, including “Warmth in the Dark”, “Family Bonds”, and the long-term “Legacy Homes” renovation chain
 - Reach maximum reputation with **yet-TBN-NPC_D-02_Cmty_Leader**, the steadfast family patriarch
 - Diplomatic Negotiation 80+ and Faction Reputation Management 70+
@@ -31,9 +31,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 3. Leo (Resonance Crown) – **The Eternal Stage**
+### 3. Leo (TBN-district) – **The Eternal Stage**
 **Requirements**:
-- Idolized reputation with Resonance Crown
+- Idolized reputation with TBN-district
 - Complete all Leo quests, including “The Grand Performance”, “Echoes of the Past”, and the multi-act “Crown Eternal” storyline
 - Reach maximum reputation with **yet-TBN-NPC_D-03_Performer** (charismatic performer and cultural icon)
 - Cultural Performance & Resonance 80+ and Sonic Attunement 75+
@@ -42,9 +42,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 4. Scorpio (The Threshold) – **The Veilwalker**
+### 4. Scorpio (TBN-district) – **The Veilwalker**
 **Requirements**:
-- Idolized reputation with The Threshold
+- Idolized reputation with TBN-district
 - Complete all Scorpio quests, including “Facing the Abyss”, “Shatter and Rebuild”, and the deeply personal “Veil Between Selves” questline
 - Reach maximum reputation with **yet-TBN-NPC_D-04_Psych-Hl**, the radical mind-healer
 - Memory & Consciousness Manipulation 80+ and Moral Philosophy & Ethical Reasoning 75+
@@ -53,9 +53,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 5. Aries (Thermal Spire) – **The Overclocked Exile**
+### 5. Aries (TBN-district) – **The Overclocked Exile**
 **Requirements**:
-- Idolized reputation with Thermal Spire
+- Idolized reputation with TBN-district
 - Complete all Aries quests, including “Heart of the Furnace”, “Overclock Protocol”, and the dangerous “Final Shift” questline
 - Reach maximum reputation with **yet-TBN-NPC_D-05_Combat-Vet**, the veteran Spire engineer
 - Thermal Engineering 80+ and Engine 7+
@@ -64,9 +64,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 6. Capricorn (Forgeward) – **The Shadow Industrialist**
+### 6. Capricorn (TBN-district) – **The Shadow Industrialist**
 **Requirements**:
-- Idolized reputation with Forgeward
+- Idolized reputation with TBN-district
 - Complete all Capricorn quests, including “Iron & Ambition”, “Production Eternal”, and the massive “Forge Dominion” chain
 - Reach maximum reputation with **yet-TBN-NPC_D-06_Industrial-Craftsman**, the ruthless industrial visionary
 - Siligel Chemistry 80+ and Precision Maintenance & Repair 75+
@@ -75,9 +75,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 7. Aquarius (Ascendant Research) – **The Rogue Researcher**
+### 7. Aquarius (TBN-district) – **The Rogue Researcher**
 **Requirements**:
-- Idolized reputation with Ascendant Research
+- Idolized reputation with TBN-district
 - Complete all Aquarius quests, including “Beyond the Horizon”, “Forbidden Theorems”, and the high-risk “Singularity Test” storyline
 - Reach maximum reputation with **yet-TBN-NPC_D-07_Eccentric-Dctr**, the brilliant but unstable visionary
 - Decentralized Systems Design 80+ and Data Archaeology 75+
@@ -86,9 +86,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 8. Libra (Governmental Apex) – **The Silent Arbiter**
+### 8. Libra (TBN-district) – **The Silent Arbiter**
 **Requirements**:
-- Idolized reputation with Governmental Apex
+- Idolized reputation with TBN-district
 - Complete all Libra quests, including “Balance of Power”, “The Grand Accord”, and the politically intricate “Neutral Ground” questline
 - Reach maximum reputation with **yet-TBN-NPC_D-08_Diplomat**, the master diplomat
 - Diplomatic Negotiation 80+ and Faction Reputation Management 80+
@@ -108,9 +108,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 10. Pisces (Veil Market) – **The King/Queen of Shadows**
+### 10. Pisces (TBN Black Market) – **The King/Queen of Shadows**
 **Requirements**:
-- Idolized reputation with Veil Market
+- Idolized reputation with TBN Black Market
 - Complete all Pisces quests, including “Beneath the Veil”, “The Grand Heist”, and the criminal empire-building “Shadow Throne” questline
 - Reach maximum reputation with **yet-TBN-NPC_D-10_Charmer**, the charming underworld kingpin
 - Stealth & Infiltration 80+ and Jury-Rigging & Repurposing 75+
@@ -119,9 +119,9 @@ These endings unlock when the player achieves:
 
 ---
 
-### 11. Sagittarius (Frostward Reaches) – **The Icewalker**
+### 11. Sagittarius (The Frostlands) – **The Icewalker**
 **Requirements**:
-- Idolized reputation with Frostward Reaches
+- Idolized reputation with The Frostlands
 - Complete all Sagittarius quests, including “Into the White”, “Frontier Justice”, and the epic expedition “Beyond the Horizon”
 - Reach maximum reputation with **yet-TBN-NPC_D-11_Frontiersman**, the legendary frontier scout
 - Frontier Survival & Cold Adaptation 80+ and Environmental Exploitation & Ripple Reading 75+

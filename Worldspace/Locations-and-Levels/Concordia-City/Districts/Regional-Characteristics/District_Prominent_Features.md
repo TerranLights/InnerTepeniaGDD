@@ -5,7 +5,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 
 ---
 
-### 1. Cancer – Havenward (Nurturing / Protective)
+### 1. Cancer – TBN-district (Nurturing / Protective)
 - Warmly lit communal hearths with large communal cooking pots always simmering.
 - "Safe Haven" waystations with glowing blue medical symbols and soft lighting.
 - Large, colorful playgrounds and nurseries filled with children and caregivers.
@@ -15,7 +15,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Soft, lullaby-like ambient music playing from public speakers.
 - Shelters with prominent "No One Left Behind" banners.
 
-### 2. Taurus – Hearthward (Residential / Stability)
+### 2. Taurus – TBN-district (Residential / Stability)
 - Rows of sturdy, well-maintained multi-generational family homes with personal gardens.
 - Traditional stone or metal family crests displayed above doorways.
 - Cozy communal longhouses used for family dinners and storytelling.
@@ -25,7 +25,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Slow, warm ambient music and the smell of home-cooked food.
 - Neighborhood notice boards filled with family announcements and recipes.
 
-### 3. Leo – Resonance Crown (Cultural / Performative)
+### 3. Leo – TBN-district (Cultural / Performative)
 - Massive open-air amphitheaters and rotating performance stages.
 - Brightly lit marquees and holographic performer posters.
 - Street buskers and living statues performing constantly.
@@ -35,7 +35,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Vibrant, rhythmic music audible from multiple directions.
 - Red carpet walkways and dramatic lighting everywhere.
 
-### 4. Scorpio – The Threshold (Psychological / Transformative)
+### 4. Scorpio – TBN-district (Psychological / Transformative)
 - Dimly lit "Shadow Sanctums" with one-way mirrors and introspection rooms.
 - Private transformation chambers with heavy curtains and symbolic doors.
 - Therapy gardens filled with dark, symbolic plants and reflective pools.
@@ -45,7 +45,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Hidden "Veil Archives" containing personal memory crystals.
 - Candle-lit ritual spaces with symbolic masks on the walls.
 
-### 5. Aries – Thermal Spire (Raw Survival / Energy)
+### 5. Aries – TBN-district (Raw Survival / Energy)
 - Massive glowing power conduits and pulsing energy pipes along walls.
 - Overclock observation decks with warning sirens and heat haze.
 - Heavy industrial forges and weapon/armor testing ranges.
@@ -55,7 +55,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Graffiti and murals celebrating endurance and heroic shifts.
 - Emergency power relay stations with armed guards.
 
-### 6. Capricorn – Forgeward (Industrial / Ambition)
+### 6. Capricorn – TBN-district (Industrial / Ambition)
 - Towering automated assembly lines visible through large windows.
 - Hierarchical office towers with status lighting (brighter = higher rank).
 - Prototype display halls with new inventions under glass.
@@ -65,7 +65,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Smokestacks and steam vents with rhythmic industrial sounds.
 - Corporate crests and ambition slogans on every major building.
 
-### 7. Aquarius – Ascendant Research (Visionary / Experimental)
+### 7. Aquarius – TBN-district (Visionary / Experimental)
 - Gleaming white laboratories with transparent walls showing experiments.
 - Dangerous glowing prototype testing chambers.
 - Floating holographic data displays and rotating 3D models.
@@ -75,7 +75,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Augmented reality overlays visible on streets.
 - "Breakthrough Plaques" celebrating past radical discoveries.
 
-### 8. Libra – Governmental Apex (Diplomatic / Balance)
+### 8. Libra – TBN-district (Diplomatic / Balance)
 - Grand marble and glass halls of justice and negotiation.
 - Large balanced scales (literal and symbolic) as architectural motifs.
 - Diplomatic lounges with neutral-color seating and flags.
@@ -95,7 +95,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Fast-paced, glitchy electronic music and overlapping voices.
 - Archives with thousands of glowing memory orbs.
 
-### 10. Pisces – The Veil Market (Black Market / Underworld)
+### 10. Pisces – The TBN Black Market (Black Market / Underworld)
 - Hidden entrances behind neon signs and false walls.
 - Dimly lit underground bazaars with shifting stall layouts.
 - Smuggler safehouses with multiple escape routes.
@@ -105,7 +105,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Low, pulsing bass-heavy music with distant voices.
 - Graffiti tags and secret symbols marking territory.
 
-### 11. Sagittarius – Frostward Reaches (Frontier / Exploration)
+### 11. Sagittarius – The Frostlands (Frontier / Exploration)
 - Rugged outpost buildings reinforced against blizzards.
 - Expedition staging grounds with parked vehicles and sleds.
 - "Last Stop" supply depots and gear repair shops.

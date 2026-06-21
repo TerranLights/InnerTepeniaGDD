@@ -4,7 +4,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 1. Cancer (Havenward) vs Taurus (Hearthward)
+## 1. Cancer (TBN-district) vs Taurus (TBN-district)
 
 **Cancer Focus**: Active protection and caregiving of the vulnerable.  
 **Taurus Focus**: Home, tradition, and personal/family stability.
@@ -19,7 +19,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 2. Leo (Resonance Crown) vs Scorpio (The Threshold)
+## 2. Leo (TBN-district) vs Scorpio (TBN-district)
 
 **Leo Focus**: Public image, performance, and cultural expression.  
 **Scorpio Focus**: Personal transformation, trauma, and inner shadow work.
@@ -34,7 +34,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 3. Aries (Thermal Spire) vs Capricorn (Forgeward)
+## 3. Aries (TBN-district) vs Capricorn (TBN-district)
 
 **Aries Focus**: Raw power, direct survival, and personal strength.  
 **Capricorn Focus**: Organized production, hierarchy, and long-term output.
@@ -49,7 +49,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 4. Aquarius (Ascendant Research) vs Gemini (Janbogo Subnet Nexus)
+## 4. Aquarius (TBN-district) vs Gemini (Janbogo Subnet Nexus)
 
 **Aquarius Focus**: Bold experimentation and pushing scientific boundaries.  
 **Gemini Focus**: Information flow, communication, and data integrity.
@@ -64,7 +64,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 5. Libra (Governmental Apex) vs Pisces (Veil Market)
+## 5. Libra (TBN-district) vs Pisces (TBN Black Market)
 
 **Libra Focus**: Official law, diplomacy, and structured political order.  
 **Pisces Focus**: Criminal codes, loyalty, and shadow economy rules.
@@ -79,7 +79,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 6. Sagittarius (Frostward Reaches) vs Virgo (Undergrid)
+## 6. Sagittarius (The Frostlands) vs Virgo (Undergrid)
 
 **Sagittarius Focus**: Harsh frontier survival and personal independence.  
 **Virgo Focus**: Infrastructure maintenance and quiet, essential service.

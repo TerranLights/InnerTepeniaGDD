@@ -9,7 +9,7 @@ Every major hidden path must reward **creative chaining** of mechanics rather th
 ---
 
 ### 1. Timing & Environmental Interaction Combos
-**Core Hook**: The ongoing Thermal Spire crisis creates natural “windows” the player can exploit without fixing anything.
+**Core Hook**: The ongoing TBN-district crisis creates natural “windows” the player can exploit without fixing anything.
 
 - **Ripple Weaver Perk + Blackout Timing**  
   During a natural blackout (triggered by the crisis the player is ignoring), scan fluctuating power lines → convert environmental damage into usable data or salvage.  
