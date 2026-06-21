@@ -1,18 +1,18 @@
 # Per-District Problems and Hardships that Locals Face
 
-## 1. Cancer – Havenward (Nurturing / Protective)
+## 1. Cancer – TBN-district (Nurturing / Protective)
 Core Identity: 
 This district is built around care, protection, and supporting the vulnerable. It’s one of the more emotionally grounded and community-oriented parts of Concordia. Residents (both human and robot) tend to value empathy, long-term caregiving, and keeping people safe and stable.
 
 ### 1. Major Hardships the Residents Struggle With
 * Chronic resource strain on caregiving systems
-Havenward runs a lot of shelters, nurseries, medical clinics, and elder care facilities. These are constantly under pressure because they serve the most vulnerable populations, who often can’t contribute much back in terms of labor or resources.
+TBN-district runs a lot of shelters, nurseries, medical clinics, and elder care facilities. These are constantly under pressure because they serve the most vulnerable populations, who often can’t contribute much back in terms of labor or resources.
 * Caregiver burnout
 Many residents (especially robots programmed for caregiving roles and humans who feel a strong sense of duty) are emotionally and physically exhausted. The constant need to care for others while resources are limited creates quiet, widespread burnout.
 * Emotional and psychological weight
 Because the district’s identity is so tied to protection and nurturing, residents often carry heavy guilt when they can’t help everyone. There’s a cultural pressure to always be compassionate, which can suppress personal needs or dissent.
 * Dependence on external infrastructure
-Havenward relies heavily on power, clean water, and medical supply deliveries from other districts. Any disruption hits them disproportionately hard because their facilities can’t easily “tough it out” like industrial or frontier districts.
+TBN-district relies heavily on power, clean water, and medical supply deliveries from other districts. Any disruption hits them disproportionately hard because their facilities can’t easily “tough it out” like industrial or frontier districts.
 ### 2. Day-to-Day Problems
 * Blackouts or brownouts causing incubators, medical equipment, or heating systems to fail in shelters and nurseries.
 * Shortages of medicine, clean linens, food suitable for the elderly/infants, or specialized care supplies.
@@ -20,23 +20,23 @@ Havenward relies heavily on power, clean water, and medical supply deliveries fr
 * Tension between long-term residents who want to protect “their own” and pressure from other districts to take in more refugees or share resources.
 * Emotional labor fatigue — caregivers (human and robot) struggling to maintain empathy after years of constant crisis.
 * Difficulty maintaining clean, safe environments when maintenance crews (Virgo) are stretched thin across the whole city.
-### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries – Thermal Spire):
-* Havenward is one of the districts most vulnerable to power fluctuations. Blackouts don’t just inconvenience them — they can directly endanger lives in medical wards and nurseries. This creates resentment toward Aries (and the central power authority), but also fear of pushing too hard for change and risking retaliation or reduced support.
+### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries – TBN-district):
+* TBN-district is one of the districts most vulnerable to power fluctuations. Blackouts don’t just inconvenience them — they can directly endanger lives in medical wards and nurseries. This creates resentment toward Aries (and the central power authority), but also fear of pushing too hard for change and risking retaliation or reduced support.
 Connection to Virgo (Undergrid):
-* They are heavily dependent on maintenance crews keeping life-support systems running. Any delay in repairs in Havenward feels like a direct threat to the people they’re trying to protect. This can create friction if Virgo prioritizes “critical infrastructure” over residential care facilities.
-Connection to Taurus (Hearthward):
+* They are heavily dependent on maintenance crews keeping life-support systems running. Any delay in repairs in TBN-district feels like a direct threat to the people they’re trying to protect. This can create friction if Virgo prioritizes “critical infrastructure” over residential care facilities.
+Connection to Taurus (TBN-district):
 * Both are residential districts that value stability and community. However, Taurus tends to be more self-contained and traditional, while Cancer is more outward-facing in its caregiving. There can be tension over resource sharing — Taurus sometimes feels Cancer “gives too much away” to outsiders.
-Connection to Pisces (Veil Market):
-* Because of chronic shortages, some caregivers or facility managers quietly turn to the black market for medicine and supplies. This creates moral conflict within Havenward (they don’t like relying on criminals) but also makes them vulnerable to exploitation or being used as cover.
+Connection to Pisces (TBN Black Market):
+* Because of chronic shortages, some caregivers or facility managers quietly turn to the black market for medicine and supplies. This creates moral conflict within TBN-district (they don’t like relying on criminals) but also makes them vulnerable to exploitation or being used as cover.
 Broader Concordia Situation:
-* Havenward often acts as a pressure valve for the rest of the city. When other districts struggle (job losses in Capricorn, instability in Libra, etc.), refugees and vulnerable people tend to flow toward Havenward. This makes the district feel like it’s carrying a disproportionate share of the city’s social burden while receiving less recognition or support.
+* TBN-district often acts as a pressure valve for the rest of the city. When other districts struggle (job losses in Capricorn, instability in Libra, etc.), refugees and vulnerable people tend to flow toward TBN-district. This makes the district feel like it’s carrying a disproportionate share of the city’s social burden while receiving less recognition or support.
 * There’s a growing undercurrent of resentment: “We take care of everyone else’s problems, but who takes care of us when the power goes out?”
 
 
 
-## 2. Taurus – Hearthward (Residential / Stability)
+## 2. Taurus – TBN-district (Residential / Stability)
 Core Identity:
-Hearthward is the heart of domestic life in Concordia. It emphasizes home, family, tradition, generational continuity, personal property, and long-term stability. Residents tend to be practical, stubborn, community-minded, and deeply attached to their homes and routines. It has a “salt of the earth” feel — grounded, warm, and resistant to change.
+TBN-district is the heart of domestic life in Concordia. It emphasizes home, family, tradition, generational continuity, personal property, and long-term stability. Residents tend to be practical, stubborn, community-minded, and deeply attached to their homes and routines. It has a “salt of the earth” feel — grounded, warm, and resistant to change.
 
 ### 1. Major Hardships the Residents Struggle With
 * Housing & Space Shortages
@@ -51,28 +51,28 @@ Because they value self-reliance and stability, many families have started quiet
 Older residential buildings are aging and maintenance is inconsistent, leading to leaks, failing heating systems, and structural issues that threaten people’s sense of “home.”
 ### 2. Day-to-Day Problems
 * Frequent power cuts that ruin food stores, stop heating systems in winter, or ruin important family rituals (e.g., cooking traditional meals).
-* Difficulty maintaining private family spaces when shelters in nearby Havenward overflow and people seek temporary housing.
+* Difficulty maintaining private family spaces when shelters in nearby TBN-district overflow and people seek temporary housing.
 * Rising cost of basic home repairs and materials due to supply chain issues from Capricorn and Virgo.
 * Tension between families who want to help refugees vs. those who want to “protect what’s ours.”
 * Growing quiet resentment toward districts that seem to “take more than they give” (especially Aries for power issues and Pisces for black market exploitation).
 * Emotional strain from trying to maintain “normal family life” while the larger city feels like it’s falling apart.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
-* Hearthward suffers heavily from unstable power. Unlike industrial districts that can sometimes reroute or endure, residential life grinds to a halt without consistent electricity and heating. This creates deep, simmering anger toward the Thermal Spire — “They play with power while our children freeze.”
-Connection to Cancer (Havenward):
-* Close geographic and cultural neighbors, but growing friction. Taurus residents sometimes resent Cancer for “taking in everyone” and indirectly pressuring Hearthward to do the same, stretching local resources.
+* TBN-district suffers heavily from unstable power. Unlike industrial districts that can sometimes reroute or endure, residential life grinds to a halt without consistent electricity and heating. This creates deep, simmering anger toward the TBN-district — “They play with power while our children freeze.”
+Connection to Cancer (TBN-district):
+* Close geographic and cultural neighbors, but growing friction. Taurus residents sometimes resent Cancer for “taking in everyone” and indirectly pressuring TBN-district to do the same, stretching local resources.
 Connection to Virgo (Undergrid):
-* Heavily dependent on maintenance crews for plumbing, heating, and structural repairs. When Virgo is overwhelmed, Hearthward feels neglected and forgotten (“The Undergrid keeps the factories running but forgets about actual homes”).
-Connection to Capricorn (Forgeward):
+* Heavily dependent on maintenance crews for plumbing, heating, and structural repairs. When Virgo is overwhelmed, TBN-district feels neglected and forgotten (“The Undergrid keeps the factories running but forgets about actual homes”).
+Connection to Capricorn (TBN-district):
 * Reliant on industrial output for building materials and goods. When Capricorn prioritizes big projects over residential needs, Taurus feels like second-class citizens.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Many families quietly buy black-market goods (fuel, food, medicine) when official supplies run low. This creates shame and moral conflict — they hate relying on criminals but feel they have no choice if they want to protect their families.
 Broader Concordia Situation:
-* Hearthward acts as a quiet pressure cooker for the entire city. As the “home” district, it absorbs a lot of the emotional and practical stress from city-wide instability. If Hearthward ever truly breaks (mass evictions, food riots, or families fleeing en masse), it would signal that Concordia as a whole is collapsing.
+* TBN-district acts as a quiet pressure cooker for the entire city. As the “home” district, it absorbs a lot of the emotional and practical stress from city-wide instability. If TBN-district ever truly breaks (mass evictions, food riots, or families fleeing en masse), it would signal that Concordia as a whole is collapsing.
 
 
 
 
-## 3. Leo – Resonance Crown (Cultural / Performative)
+## 3. Leo – TBN-district (Cultural / Performative)
 Core Identity:
 Leo is the vibrant, expressive, fame-driven heart of Concordia’s culture. It’s loud, colorful, dramatic, and obsessed with performance, art, recognition, and public image. Residents (artists, performers, influencers, critics, and fans) thrive on attention, creativity, and being seen. The district has a glamorous but fragile ego — everything is a stage.
 
@@ -96,15 +96,15 @@ With the city in crisis, many residents fear that “art is becoming irrelevant�
 * Tension between “pure artists” and those who sell out to corporate sponsors or black market patrons.
 * Struggling to maintain glamorous appearances while basic needs (food, heating) become harder to secure.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
-* Leo is extremely vulnerable to blackouts. A sudden power failure during a major performance can destroy careers overnight. This creates intense resentment toward the Thermal Spire — “They control the lights, they control our lives.”
-Connection to Capricorn (Forgeward):
+* Leo is extremely vulnerable to blackouts. A sudden power failure during a major performance can destroy careers overnight. This creates intense resentment toward the TBN-district — “They control the lights, they control our lives.”
+Connection to Capricorn (TBN-district):
 * Dependent on industrial output for materials, fabrics, lighting tech, and stage equipment. When Capricorn prioritizes “practical” production, Leo feels culturally starved and looks down on them as “soulless factories.”
 Connection to Gemini (Janbogo Subnet Nexus):
 * Heavily reliant on media, streaming, and social networks for fame. Gemini controls the flow of attention. Leo both loves and fears Gemini — they amplify success but can also destroy reputations instantly.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Many struggling artists quietly turn to the black market for rare materials, performance-enhancing augments, or illegal venues. This creates moral conflict and vulnerability to exploitation.
 Connection to Cancer & Taurus:
-* Leo often views the more “domestic” districts as boring or provincial. However, they rely on them for audiences and emotional support. There’s growing tension as residents of Havenward and Hearthward become less willing to attend performances when they’re struggling with basic survival.
+* Leo often views the more “domestic” districts as boring or provincial. However, they rely on them for audiences and emotional support. There’s growing tension as residents of TBN-district and TBN-district become less willing to attend performances when they’re struggling with basic survival.
 Broader Concordia Situation:
 * Leo acts as the city’s emotional and cultural barometer. When Leo is thriving, the city feels hopeful. When Leo is in decline (failing venues, depressed artists, dwindling audiences), it signals deeper societal despair. The district’s growing anxiety and desperation could easily spill into city-wide unrest or artistic rebellion.
 
@@ -112,9 +112,9 @@ Broader Concordia Situation:
 
 
 
-## 4. Scorpio – The Threshold (Psychological / Transformative)
+## 4. Scorpio – TBN-district (Psychological / Transformative)
 Core Identity:
-The Threshold is the most introspective, intense, and psychologically charged district in Concordia. It deals with trauma, identity, transformation, taboo subjects, and confronting the self. It has a dark, intimate, and somewhat unsettling atmosphere. Residents are often drawn to depth, shadow work, radical honesty, and personal metamorphosis — sometimes at great personal cost.
+TBN-district is the most introspective, intense, and psychologically charged district in Concordia. It deals with trauma, identity, transformation, taboo subjects, and confronting the self. It has a dark, intimate, and somewhat unsettling atmosphere. Residents are often drawn to depth, shadow work, radical honesty, and personal metamorphosis — sometimes at great personal cost.
 
 ### 1. Major Hardships the Residents Struggle With
 * Psychological Overload & Trauma Saturation
@@ -137,13 +137,13 @@ Quality psychological care, safe transformation spaces, and trained professional
 * Risk of psychological harm from poorly regulated or experimental practices.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
 * Many transformation and therapy spaces rely on stable, controlled environments. Power fluctuations can interrupt critical sessions or even cause psychological harm during vulnerable states. This makes the district particularly hostile toward Aries’ instability.
-Connection to Leo (Resonance Crown):
+Connection to Leo (TBN-district):
 * There is mutual distrust. Leo sees Scorpio as too dark and depressing, while Scorpio views Leo’s performative culture as shallow and inauthentic. However, some artists from Leo secretly come to Scorpio for deep psychological work.
-Connection to Cancer (Havenward):
+Connection to Cancer (TBN-district):
 * Both districts deal with emotional and psychological care, but in very different ways. Cancer focuses on protection and nurturing, while Scorpio focuses on confrontation and transformation. This creates philosophical tension — Cancer sometimes sees Scorpio’s methods as unnecessarily cruel or destabilizing.
 Connection to Gemini (Janbogo Subnet Nexus):
 * Scorpio relies on private, secure information channels. Gemini’s data networks are both a tool and a threat — they can facilitate anonymous psychological support but also risk exposing deeply personal information.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * There is significant overlap and tension. Some of Scorpio’s more extreme or taboo practices blur into criminal territory. The black market supplies certain substances or tools used in transformation work, creating moral gray areas.
 Broader Concordia Situation:
 * Scorpio acts as the city’s psychological shadow. While other districts focus on survival, production, or entertainment, Scorpio deals with the repressed trauma and identity crises that the rest of Concordia tries to ignore. As the city’s overall situation worsens, more people are quietly seeking out the Threshold — which is both validating for the district and overwhelming its already strained capacity.
@@ -151,7 +151,7 @@ Broader Concordia Situation:
 
 
 
-## 5. Aries – Thermal Spire (Raw Survival / Energy)
+## 5. Aries – TBN-district (Raw Survival / Energy)
 Core Identity:
 Aries is the raw, primal, high-energy heart of Concordia. It embodies strength, endurance, direct action, and survival through power. The district is loud, hot, industrial, and unapologetically intense. Residents value toughness, competence under pressure, and respect earned through results rather than words. It has a proud, almost martial culture built around keeping the city’s power running.
 
@@ -161,7 +161,7 @@ Workers operate in extremely demanding, high-risk environments. Shifts are long,
 * Physical Wear and Tear
 Constant exposure to extreme heat, radiation, heavy machinery, and dangerous energy fluctuations causes chronic injuries, respiratory issues, and long-term health problems.
 * Blame and Resentment from Other Districts
-Because the Thermal Spire is the source of the energy crisis, Aries residents are frequently scapegoated by the rest of the city, even when the problems are systemic.
+Because the TBN-district is the source of the energy crisis, Aries residents are frequently scapegoated by the rest of the city, even when the problems are systemic.
 * Internal Power Struggles
 Strong hierarchical “might makes right” culture leads to brutal internal competition, dangerous rivalries between crews, and occasional violent clashes over authority.
 * Fear of Obsolescence
@@ -175,14 +175,14 @@ As decentralized solutions (like the player’s Independent Lattice) gain tracti
 * Difficulty maintaining personal relationships due to irregular, exhausting shift work.
 * Growing paranoia about sabotage from other districts or internal rivals.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Self-Inflicted):
-* Aries is both the cause and the primary victim of the Thermal Spire’s instability. Workers know the system is failing but are trapped in a cycle of overclocking to meet demand, making the problem worse.
-Connection to Capricorn (Forgeward):
+* Aries is both the cause and the primary victim of the TBN-district’s instability. Workers know the system is failing but are trapped in a cycle of overclocking to meet demand, making the problem worse.
+Connection to Capricorn (TBN-district):
 * Heavy reliance on industrial output for replacement parts and heavy machinery. When Capricorn delays deliveries, Aries suffers equipment breakdowns and accuses them of sabotage.
 Connection to Virgo (Undergrid):
 * Deep tension. Virgo maintains the distribution network, but Aries controls the source. Blame flows both ways during blackouts — Aries calls Virgo lazy, Virgo calls Aries reckless.
 Connection to Cancer & Taurus (Residential Districts):
 * Strong resentment. Aries workers feel they’re sacrificing their health to keep the lights on, while residential districts complain and demand more power. This creates class-like friction (“We burn ourselves out so you can stay warm”).
-Connection to Sagittarius (Frostward Reaches):
+Connection to Sagittarius (The Frostlands):
 * Some Aries workers dream of leaving for the frontier, seeing it as a place where strength is still respected without the crushing responsibility of powering the entire city.
 Broader Concordia Situation:
 * Aries functions as the city’s overworked, under-appreciated engine. The district carries an enormous burden — if Aries ever truly breaks (mass strike, major accident, or worker exodus), the entire city would collapse quickly. This gives Aries residents both immense pride and deep bitterness.
@@ -191,9 +191,9 @@ Broader Concordia Situation:
 
 
 
-## 6. Capricorn – Forgeward (Industrial / Ambition)
+## 6. Capricorn – TBN-district (Industrial / Ambition)
 Core Identity: 
-Forgeward is the engine of production, hierarchy, and long-term ambition in Concordia. It values efficiency, craftsmanship, measurable results, status through achievement, and structured progress. The district has a serious, no-nonsense, corporate-industrial feel with strong class distinctions between workers, foremen, and visionaries.
+TBN-district is the engine of production, hierarchy, and long-term ambition in Concordia. It values efficiency, craftsmanship, measurable results, status through achievement, and structured progress. The district has a serious, no-nonsense, corporate-industrial feel with strong class distinctions between workers, foremen, and visionaries.
 
 ### 1. Major Hardships the Residents Struggle With
 * Ruthless Internal Competition
@@ -215,23 +215,23 @@ Constant exposure to industrial pollutants, heavy machinery, and poor ventilatio
 * Difficulty maintaining personal life due to long, inflexible shifts.
 * Growing black-market activity as workers try to bypass official supply shortages.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
-* Capricorn is heavily dependent on stable, high-output power from the Thermal Spire. Unreliable energy wrecks production schedules and ruins carefully planned quotas. They blame Aries for recklessness while Aries resents Capricorn for constant high demands.
+* Capricorn is heavily dependent on stable, high-output power from the TBN-district. Unreliable energy wrecks production schedules and ruins carefully planned quotas. They blame Aries for recklessness while Aries resents Capricorn for constant high demands.
 Connection to Virgo (Undergrid):
 * Strong but strained relationship. Virgo keeps the physical infrastructure running, but Capricorn often treats maintenance crews as secondary. Delays in repairs cause major production losses, leading to finger-pointing.
-Connection to Aquarius (Ascendant Research):
+Connection to Aquarius (TBN-district):
 * Mixed feelings. Capricorn needs new technology from Aquarius but resents their “reckless experimentation” and tendency to ignore practical industrial constraints. There’s intellectual rivalry between “proven industry” and “visionary futurism.”
 Connection to Taurus & Cancer (Residential Districts):
 * Capricorn supplies many goods for daily life, but often prioritizes big industrial contracts over residential needs. This creates resentment in the more domestic districts (“They make luxury goods for the elite while we wait months for basic repairs”).
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Many mid-level managers and workers quietly use the black market to secure scarce materials or bypass bureaucratic delays. This creates moral compromise and vulnerability to criminal influence.
 Broader Concordia Situation:
-* Forgeward is the city’s primary producer. When it struggles, shortages ripple across every other district. If Capricorn’s production ever collapses or goes on strike, the entire city would face severe material shortages very quickly. This gives the district significant hidden leverage — and deep anxiety about failing the rest of Concordia.
+* TBN-district is the city’s primary producer. When it struggles, shortages ripple across every other district. If Capricorn’s production ever collapses or goes on strike, the entire city would face severe material shortages very quickly. This gives the district significant hidden leverage — and deep anxiety about failing the rest of Concordia.
 
 
 
 
 
-## 7. Aquarius – Ascendant Research (Visionary / Experimental)
+## 7. Aquarius – TBN-district (Visionary / Experimental)
 Core Identity: 
 Aquarius is the forward-thinking, idealistic, and boundary-pushing heart of innovation in Concordia. It values radical progress, scientific curiosity, experimentation, and a better future — often at the expense of caution or tradition. The district has a sleek, high-tech, somewhat utopian (but slightly unhinged) atmosphere. Residents tend to be brilliant, eccentric, and deeply committed to “the next big breakthrough.”
 
@@ -255,14 +255,14 @@ As the energy crisis deepens and survival becomes paramount, many fear that “v
 * Difficulty recruiting test subjects as public fear of the district grows.
 * Bureaucratic battles with Libra over funding and ethical regulations.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
-* Aquarius desperately needs stable, high-quality power for sensitive experiments. Unreliable energy from the Thermal Spire is a constant source of frustration and failed projects. They view Aries as both essential and dangerously incompetent.
-Connection to Capricorn (Forgeward):
+* Aquarius desperately needs stable, high-quality power for sensitive experiments. Unreliable energy from the TBN-district is a constant source of frustration and failed projects. They view Aries as both essential and dangerously incompetent.
+Connection to Capricorn (TBN-district):
 * Strong but tense relationship. Aquarius needs industrial resources and manufacturing capability, but resents Capricorn’s “short-sighted pragmatism” and demand for immediate, profitable results.
 Connection to Gemini (Janbogo Subnet Nexus):
 * Heavy reliance on data networks for research collaboration and publishing findings. However, they fear Gemini’s information brokers leaking sensitive or dangerous research.
-Connection to Scorpio (The Threshold):
+Connection to Scorpio (TBN-district):
 * Significant overlap in psychological and memory-related research. Aquarius often pushes the boundaries that Scorpio explores more intimately. This creates both collaboration and rivalry.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Many researchers quietly buy restricted materials or illegal augmentations on the black market when official channels fail. This creates ethical hypocrisy and vulnerability to blackmail.
 Broader Concordia Situation:
 * Aquarius represents the city’s hope for a better future through technology. However, as the overall crisis worsens, the district is increasingly seen as out of touch or even dangerous. If public opinion turns fully against them, Aquarius could face funding cuts, protests, or even violent backlash — which would be devastating for long-term innovation in Concordia.
@@ -270,7 +270,7 @@ Broader Concordia Situation:
 
 
 
-## 8. Libra – Governmental Apex (Diplomatic / Balance)
+## 8. Libra – TBN-district (Diplomatic / Balance)
 Core Identity: 
 Libra is the political, administrative, and judicial heart of Concordia. It values order, law, diplomacy, fairness, negotiation, and maintaining balance between competing interests. The district has a polished, elegant, and somewhat bureaucratic atmosphere — grand architecture, formal proceedings, and a strong emphasis on rules, protocols, and appearances.
 
@@ -295,11 +295,11 @@ The district’s careful, measured approach is increasingly seen as weakness or 
 * Moral strain on diplomats and officials who must make compromises that hurt vulnerable populations.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
 * Libra is caught in the middle. They must try to mediate between Aries (who controls power) and the rest of the city (who suffer from blackouts). This makes them hated by almost everyone — Aries sees them as meddlers, while residential districts see them as ineffective.
-Connection to Capricorn (Forgeward):
+Connection to Capricorn (TBN-district):
 * Heavy tension. Capricorn wants production prioritized and regulations loosened, while Libra tries to enforce labor laws and fair distribution. This creates ongoing political battles.
 Connection to Cancer & Taurus:
-* Libra often fails to deliver meaningful help to the residential districts fast enough. Havenward and Hearthward feel neglected and increasingly resentful toward the “out-of-touch bureaucrats.”
-Connection to Pisces (Veil Market):
+* Libra often fails to deliver meaningful help to the residential districts fast enough. TBN-district and TBN-district feel neglected and increasingly resentful toward the “out-of-touch bureaucrats.”
+Connection to Pisces (TBN Black Market):
 * Libra’s biggest headache. The criminal underworld openly flouts their authority, and attempts to crack down often backfire or create dangerous power vacuums.
 Connection to Gemini (Janbogo Subnet Nexus):
 * Libra relies on Gemini for information and communication, but fears (rightly) that data brokers are leaking sensitive government information and undermining their authority.
@@ -333,13 +333,13 @@ The entire district relies on the Arcanet and physical data infrastructure. Any 
 * Moral dilemmas about whether to sell, leak, or suppress sensitive information.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
 * Blackouts are catastrophic for Gemini. Lost data, interrupted transmissions, and corrupted archives can destroy careers and businesses instantly. They resent Aries for the instability but also rely on them for power.
-Connection to Aquarius (Ascendant Research):
+Connection to Aquarius (TBN-district):
 * Strong but tense relationship. Aquarius produces new data and breakthroughs that Gemini loves to spread, but they often clash over ethics — Aquarius wants to push boundaries, while Gemini wants to profit from or expose them.
-Connection to Libra (Governmental Apex):
+Connection to Libra (TBN-district):
 * Gemini is both a tool and a threat to Libra. The government needs them for communication and propaganda, but constantly fears leaks and loss of control. This creates mutual paranoia.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Heavy overlap. Many Gemini residents work as information brokers for the underworld. The line between legitimate data trading and criminal activity is very thin.
-Connection to Leo (Resonance Crown):
+Connection to Leo (TBN-district):
 * Symbiotic but competitive. Leo provides content and drama that Gemini amplifies. However, Gemini can make or break performers’ careers with a single viral story.
 Broader Concordia Situation:
 * Gemini is the city’s information bloodstream. When it functions well, the city feels connected. When it becomes too chaotic or corrupted, misinformation spreads like wildfire, deepening divisions between districts and accelerating the overall collapse of trust in Concordia.
@@ -347,7 +347,7 @@ Broader Concordia Situation:
 
 
 
-## 10. Pisces – The Veil Market (Black Market / Underworld)
+## 10. Pisces – The TBN Black Market (Black Market / Underworld)
 Core Identity:
 Pisces is the shadowy, fluid, and opportunistic underbelly of Concordia. It thrives on secrecy, adaptability, profit, loyalty (within criminal codes), and exploiting the gaps left by “respectable” society. The district has a dark, neon-soaked, ever-shifting atmosphere — full of hidden deals, whispered conversations, and moral gray zones. Residents value cunning, discretion, and survival through flexibility.
 
@@ -372,14 +372,14 @@ Many residents struggle with the cumulative weight of the things they’ve done 
 * Moral dilemmas when clients (especially from Cancer or Taurus) desperately need help.
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
 * Pisces profits heavily from the crisis by smuggling fuel, generators, and power cells. However, they also suffer when blackouts disrupt their operations or when Aries cracks down on smuggling routes.
-Connection to Capricorn (Forgeward):
+Connection to Capricorn (TBN-district):
 * Major business partners. Pisces smuggles raw materials and finished goods that Capricorn can’t (or won’t) produce officially. This creates a mutually beneficial but tense relationship.
 Connection to Gemini (Janbogo Subnet Nexus):
 * Close but dangerous alliance. Gemini provides information and communication networks that Pisces needs, while Pisces provides lucrative data and blackmail material. Both sides constantly try to outmaneuver each other.
 Connection to Cancer & Taurus:
 * Pisces supplies many essential (and luxury) goods to the residential districts when official channels fail. This creates dependence and resentment — residents hate needing criminals but have no other choice.
-Connection to Libra (Governmental Apex):
-* Direct adversaries. Libra tries to crack down on the Veil Market, while Pisces constantly undermines governmental authority. This is one of the most openly hostile relationships in the city.
+Connection to Libra (TBN-district):
+* Direct adversaries. Libra tries to crack down on the TBN Black Market, while Pisces constantly undermines governmental authority. This is one of the most openly hostile relationships in the city.
 Broader Concordia Situation:
 * Pisces functions as the city’s pressure release valve. When official systems fail, the black market steps in to keep goods flowing. However, as the overall crisis deepens, Pisces is growing more powerful — and more dangerous. If the underworld ever gains too much control, it could accelerate the fragmentation of Concordia.
 
@@ -387,7 +387,7 @@ Broader Concordia Situation:
 
 
 
-## 11. Sagittarius – Frostward Reaches (Frontier / Exploration)
+## 11. Sagittarius – The Frostlands (Frontier / Exploration)
 Core Identity:
 Sagittarius is Concordia’s wild, untamed frontier. It embodies independence, self-reliance, exploration, resilience in harsh conditions, and the spirit of pushing outward into the unknown. The district has a rugged, open, windswept feel — practical, adventurous, and somewhat rebellious. Residents value freedom, competence, and stories of survival over comfort or rules.
 
@@ -414,11 +414,11 @@ Many residents feel that Concordia treats them as second-class — useful for re
 * Sagittarius is relatively self-sufficient with local geothermal and wind sources, but still suffers when major supply shipments from the city are delayed due to power issues. They view Aries’ problems with a mix of disdain (“They can’t even keep their own house in order”) and pragmatic concern.
 Connection to Virgo (Undergrid):
 * Heavy dependence on Virgo for specialized maintenance parts and technical expertise. When Virgo is overwhelmed, frontier equipment breaks down faster than it can be repaired.
-Connection to Capricorn (Forgeward):
+Connection to Capricorn (TBN-district):
 * Reliant on industrial goods (vehicles, tools, building materials). Capricorn sometimes prioritizes city contracts over frontier needs, breeding resentment.
 Connection to Cancer & Taurus:
 * Mixed relationship. Sagittarius often takes in refugees or people fleeing the city, but resents being treated as a dumping ground. They view the residential districts as soft and dependent.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Strong but wary partnership. The black market is a vital lifeline for rare or restricted goods that official channels can’t (or won’t) provide.
 Broader Concordia Situation:
 * Sagittarius represents the city’s hope for expansion and a “new beginning.” As Concordia’s internal problems worsen, more people look toward the frontier as an escape. This puts increasing pressure on Sagittarius — they are simultaneously a safety valve for the city and a district that deeply resents being used that way. If the frontier ever becomes truly self-sufficient and independent, it could trigger a major fracture in Concordia.
@@ -451,13 +451,13 @@ Much of the Undergrid is old and degrading faster than it can be properly mainta
 * Growing cynicism and quiet rebellion (“Why should we keep fixing their mistakes?”).
 ### 3. How These Problems Connect to Other Districts & Concordia OverallConnection to the Energy Crisis (Aries):
 * Virgo bears the brunt of Aries’ instability. Power surges and blackouts cause massive damage throughout the Undergrid, forcing emergency repairs while Aries often blames Virgo for distribution failures. This is one of the most bitter relationships in the city.
-Connection to Capricorn (Forgeward):
+Connection to Capricorn (TBN-district):
 * Virgo desperately needs parts and materials from Capricorn, but industrial production often prioritizes big projects over “boring” maintenance supplies. This leads to constant delays and frustration.
 Connection to Cancer & Taurus (Residential Districts):
 * Virgo maintains the systems that keep homes livable (heating, water, waste). When repairs are delayed, residential districts suffer most visibly, leading to anger directed at Virgo rather than the root causes.
-Connection to Aquarius (Ascendant Research):
+Connection to Aquarius (TBN-district):
 * Mixed relationship. Aquarius sometimes provides experimental tech that could help maintenance, but Virgo is wary of untested “solutions” that often create more problems than they solve.
-Connection to Pisces (Veil Market):
+Connection to Pisces (TBN Black Market):
 * Many Virgo workers quietly buy black-market parts and tools when official supplies fail. This creates moral compromise and makes them vulnerable to criminal influence.
 Broader Concordia Situation:
 * Virgo is literally the foundation holding Concordia together. As the overall crisis deepens, the Undergrid is under more strain than ever. If Virgo ever truly fails or goes on strike, the entire city would begin collapsing from the inside out — literally. This gives Virgo immense hidden importance, even as they remain chronically under-respected.
