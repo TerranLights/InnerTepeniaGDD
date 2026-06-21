@@ -1,0 +1,19 @@
+# Act 1 Triggers
+### Starting possibilities upon leaving Calethina's lab
+
+1. The Siligel Crisis
+* The lab’s emergency siligel reserves are contaminated or depleted. Calethina tasks you with securing a stable supply for the immediate district before the local robots (and their human partners) begin to shut down. First choice: raid an old stockpile, negotiate with a faction, or improvise a substitute (with side effects).
+2. The Heating Grid Failure
+* A critical heating main has ruptured under the district. You have a narrow window to reroute power/heat before dozens of hab-blocks freeze. This introduces resource trade-offs immediately (divert from hydroponics? from Arcanet servers? from manufacturing?).
+3. Calethina’s Failing Core
+* Calethina herself is degrading (holographic glitches, memory corruption). Your first task is to locate and retrieve a specific rare component or data shard inside Concordia that can stabilize her. She can only guide you for so long…
+4. The First Bridge Test
+* Calethina activates you specifically to mediate an emerging dispute between two local factions who are about to come to blows over a shared resource depot. Your success (or failure) in diplomacy sets your reputation tone for the entire game.
+5. Missing Data Core
+* A vital Arcanet node containing pre-war survival schematics has gone offline. Retrieve it before the knowledge is lost forever — but factions already have competing claims on the area.
+6. The Orphaned Unit
+* A previous experimental robot (your “sibling”) went missing shortly after activation. Find them before they cause (or suffer) irreversible damage.
+7. Hydroponic Collapse
+* One of the district’s main food production facilities is failing. Secure replacement parts or expertise before the human population faces starvation.
+8. The Ossuary Request (more atmospheric)
+* The Goth community asks Calethina for a new Bridge Unit to help consecrate a new wing of the Ossuary using fallen robots’ parts. Your first mission is to retrieve specific “bones” (chassis remnants) while learning about death, memory, and legacy.
