@@ -1,18 +1,14 @@
 # Skills & Leveling System
 
-**File:** `Skills.md`
-**Location:** `Game-Mechanics/Character-Creation/`
-**Date:** June 22, 2026
-
-Skills range from **1 to 100** and are improved through use, trainers, skill books, quests, and level-up points.
+Skills range from **1 to 100** and are improved through use, trainers, skill books, quests, and level-up points.  
 There are **44 skills** total, encouraging deep specialization.
 
 ---
 
 ## Skill Point Gain per Level
 
-**Base Formula:**
-`floor( (Calculation ÷ 2) + (Nerve ÷ 2) + Investigation Modifier )`
+**Final Formula:**  
+`max(1, floor( (Calculation ÷ 2) + (Nerve ÷ 2) + Investigation Modifier ))`
 
 ### Investigation Modifier Table
 | Investigation (INV) | Modifier |
@@ -26,10 +22,23 @@ There are **44 skills** total, encouraging deep specialization.
 | 1                   | -3       |
 
 ### Examples
-- **CAL 6 + NRV 6 + INV 5** → floor(3 + 3 + 0) = **6 points per level**
-- **CAL 8 + NRV 4 + INV 9** → floor(4 + 2 + 2) = **8 points per level**
-- **CAL 10 + NRV 8 + INV 1** → floor(5 + 4 - 3) = **6 points per level**
-- **CAL 4 + NRV 4 + INV 10** → floor(2 + 2 + 3) = **7 points per level**
+
+| Build Description              | CAL | NRV | INV | Points per Level |
+|--------------------------------|-----|-----|-----|------------------|
+| Extreme Tank / Brute           | 1   | 1   | 1   | **1**            |
+| Low Intelligence Build         | 3   | 4   | 4   | **2**            |
+| Balanced Generalist            | 6   | 6   | 5   | **6**            |
+| High Analyzer / Thinker        | 8   | 5   | 9   | **8**            |
+| Ultra Focused Build            | 10  | 8   | 10  | **12**           |
+| Optimized Genius Build         | 10  | 10  | 10  | **13**           |
+| Social Tank (your example)     | 1   | 1   | 1   | **1**            |
+
+This ensures:
+- No build is completely starved of progression.
+- High **Calculation** remains the strongest contributor.
+- **Nerve** and **Investigation** still provide meaningful bonuses/penalties.
+- Extremely specialized characters (e.g. pure physical or pure social tanks) progress slowly and must rely heavily on Tag Skills, companions, items, and quest rewards.
+
 
 This keeps point gain intentionally low (typically **4–10 points per level**), forcing meaningful specialization over a long progression (target ~60–64 levels).
 
