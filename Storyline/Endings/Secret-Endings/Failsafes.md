@@ -112,8 +112,8 @@ Once you reach maximum negative reputation with every district and faction, encr
 New world-driven quest hooks emerge:
 * Tracking and repairing old Calethina relay stations hidden around the city or outer zones.
 * Intercepting or stealing high-value data packages that the districts are fighting over.
-* During escalated blackouts, a Calethina insertion team makes direct contact for extraction rather than assassination.
-* Sabotaging Concordia’s defenses in visible, high-risk ways to create openings for Calethina forces.
+* During escalated blackouts, a loosely-knit band of NPCs loyal to Calethina makes direct contact for extraction.
+* Sabotaging Concordia’s defenses in visible, high-risk ways to create openings for Calethina loyalists.
 
 Because you have burned every bridge inside Concordia, Calethina views you as the perfect asset: someone with intimate knowledge of the city’s weaknesses and zero remaining loyalties.
 
