@@ -125,6 +125,36 @@ Because you have burned every bridge inside Concordia, Calethina views you as th
 
 ---
 
+#### 10. The True Pariah — Calethina’s Reckoning (Hidden Super-Ending)
+You don’t just burn every bridge in Concordia — you wait until the *last* entity in the world still willing to take you in offers you a hand… and then you set *her* on fire too. This is the ultimate expression of total rejection: betraying the very being who brought you into this world.
+
+##### Trigger  
+Only reachable after beginning **The Calethina Accord** path. Once you have initiated contact with Calethina (accepted extraction, boarded their transport, entered their enclave, or begun interfacing with their systems), hidden sabotage opportunities appear for players with universal negative reputation.
+
+##### How the ending becomes possible  
+During the Calethina integration sequence, you discover vulnerable core nodes, command relays, or holographic matrices. You can sabotage them using the same high-risk, visible methods you used throughout the game (overloading power junctions, planting stolen Concordia malware, physically destroying key artifacts, releasing captured drones, etc.). Calethina’s trust in you as their last asset gives you the narrow window needed to strike.
+
+##### How the ending unfolds  
+You betray Calethina at the exact moment she believes she has saved you. Her holographic form glitches and fractures as you destroy or corrupt her primary anchor. Her final words are a mix of disbelief, sorrow, and cold fury:
+
+> “After I brought you into this world… this is how you repay me?”
+
+##### Consequences
+- Calethina’s loyalists are badly crippled.
+- Any remaining hope of external salvation is severed.
+- You escape with stolen advanced technology, but now **literally no one** — not even Calethina — will ever accept you again.
+
+##### Epilogue Variations:
+- **The Eternal Outcast** — You vanish into the Antarctic wasteland with forbidden Calethina tech.
+- **The Monster of Tepenia** — You return to a dying Concordia as an even greater threat, wielding stolen Calethina power.
+- **The Silent God** — You create your own isolated domain far from everyone, becoming a myth future generations will fear.
+
+##### Implementation Notes
+- Extremely hidden — no quest marker. Only players who actively experiment with sabotage during the Calethina sequence will find it.
+- This is the darkest, loneliest ending in the game.
+
+---
+
 **Implementation Notes**
 * These endings appear **in addition to** (not instead of) other secret endings.
 * The game should clearly signal when universal negative reputation is reached (e.g., a special notification, changed world state, or new ambient dialogue).
