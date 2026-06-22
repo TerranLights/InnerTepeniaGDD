@@ -102,8 +102,31 @@ Quest hooks involve surviving or evading these hunters while uncovering why they
 
 ---
 
-**Implementation Notes**  
-- These endings appear **in addition to** (not instead of) other secret endings.  
-- The game should clearly signal when universal negative reputation is reached (e.g., a special notification, changed world state, or new ambient dialogue).  
-- Multiple Pariah endings can be reachable in one playthrough — the player’s final choices determine which one triggers.  
-- They reinforce the core philosophy: **maximum player agency** — even going full chaos/pariah gives meaningful, complete endings.
+## 9. The Calethina Accord (Pariah Edition)
+Even as every district in Concordia brands you a traitor and a monster, you become the unlikely bridge (or final nail) for **Calethina** — the mysterious external power that still has a use for the ultimate outcast.
+
+##### Trigger
+Once you reach maximum negative reputation with every district and faction, encrypted Calethina signals, probe drones, and mysterious dead drops begin appearing in high-risk zones (deep Undergrid, Frostlands outskirts, blackout areas, abandoned Arcanet nodes). Desperate NPCs start whispering about “the Calethina option.”
+
+##### How the ending becomes possible
+New world-driven quest hooks emerge:
+* Tracking and repairing old Calethina relay stations hidden around the city or outer zones.
+* Intercepting or stealing high-value data packages that the districts are fighting over.
+* During escalated blackouts, a Calethina insertion team makes direct contact for extraction rather than assassination.
+* Sabotaging Concordia’s defenses in visible, high-risk ways to create openings for Calethina forces.
+
+Because you have burned every bridge inside Concordia, Calethina views you as the perfect asset: someone with intimate knowledge of the city’s weaknesses and zero remaining loyalties.
+
+##### Possible Branches (chosen through final actions):
+* **The Exiled Sovereign**: Calethina installs you as their representative or governor of a new foothold near (or in the ruins of) Concordia.
+* **The Calethina Saboteur**: You help Calethina systematically dismantle or claim resources from the dying city.
+* **The Wandering Bridge**: You act as a double agent or neutral liaison between Calethina and whatever remains of Tepenia.
+* **The Final Rejection**: You betray Calethina at the last moment, stealing their technology and disappearing deeper into Antarctica as the ultimate lone pariah.
+
+---
+
+**Implementation Notes**
+* These endings appear **in addition to** (not instead of) other secret endings.
+* The game should clearly signal when universal negative reputation is reached (e.g., a special notification, changed world state, or new ambient dialogue).
+* Multiple Pariah endings can be reachable in one playthrough — the player’s final choices determine which one triggers.
+* They reinforce the core philosophy: **maximum player agency** — even going full chaos/pariah gives meaningful, complete endings.
