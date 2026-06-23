@@ -22,13 +22,13 @@ Tepenians built a new society, eventually expanding into space. Further wars for
 * Perks, traits, and cyberware further modify the system. Leftover AP can convert to extra movement.
 
 **MACHINE Stats** (7 core attributes on a 1–10 scale; the Tepenian interpretation of Fallout's SPECIAL system)
-* **Might (M)** — Raw physical power *(Fallout Strength equivalent)*
-* **Agility (A)** — Speed, reflexes, coordination *(Fallout-identical)*
-* **Calculation (C)** — Logic, problem-solving, optimization *(Fallout Intelligence equivalent)*
-* **Humanity (H)** — Empathy, social awareness, emotional intelligence *(Fallout Charisma-adjacent, Perception of Humans)*
-* **Investigation (I)** — Pattern recognition, deduction, information gathering *(Fallout Perception-adjacent, Perception of the world)*
-* **Nerve (N)** — Mental resilience, willpower, companion influence *(no Fallout equivalent)*
-* **Engine (E)** — Operational endurance before burnout / efficiency *(no Fallout equivalent)*
+* **[M]ight** — Raw physical power *(Fallout Strength equivalent)*
+* **[A]gility** — Speed, reflexes, coordination *(Fallout-identical)*
+* **[C]alculation** — Logic, problem-solving, optimization *(Fallout Intelligence equivalent)*
+* **[H]umanity** — Empathy, social awareness, emotional intelligence *(Fallout Charisma-adjacent, Perception of Humans)*
+* **[I]nvestigation** — Pattern recognition, deduction, information gathering *(Fallout Perception-adjacent, Perception of the world)*
+* **[N]erve** — Mental resilience, willpower, companion influence *(no Fallout equivalent)*
+* **[E]ngine** — Operational endurance before burnout / efficiency *(no Fallout equivalent)*
 
 **Progression**
 * Skill points per level ≈ floor((Calculation + Nerve) / 2) [affected by *Investigation*]
