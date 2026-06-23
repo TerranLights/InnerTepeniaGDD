@@ -1,10 +1,10 @@
 # Inner Tepenia
 
-**A top-down, isometric, turn-based Hard Sci-Fi RPG set in a post-war world of humans, sentient robots, and the fragile nation they built together.**
+**A top-down, isometric, turn-based Sci-Fi RPG set in a post-war world of humans, sentient robots, and the fragile nation they built together.**
 
 ### Genre & Style
 * **Core Loop**: Tactical turn-based combat and exploration on an isometric grid, driven by a deep Action Point (AP) economy.
-* **Tone & Influences**: Fallout 1/2 meets Shadowrun / Torment: Tides of Numenera with strong cyberpunk and philosophical undertones. Emphasis on meaningful choices, character builds, faction politics, and bittersweet consequences.
+* **Tone & Influences**: Fallout 1/2 meets Shadowrun and Torment: Tides of Numenera with strong cyberpunk and philosophical undertones. Emphasis on meaningful choices, character builds, faction politics, and bittersweet consequences.
 * **Scope**: Single-player RPG focused on character progression, narrative reactivity, and maximum player agency. Designed to be highly moddable.
 
 ### Setting & Lore (Bird's-Eye)
