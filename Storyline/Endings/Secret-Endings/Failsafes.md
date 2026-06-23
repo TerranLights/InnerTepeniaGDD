@@ -155,6 +155,161 @@ You betray Calethina at the exact moment she believes she has saved you. Her hol
 
 ---
 
+# Secret Endings - Failsafes
+**Updated Section:** The Echo Accord (Defector Alliance)
+
+**File:** `Failsafes.md`  
+**Location:** `Storyline/Endings/Secret-Endings/`  
+**Date:** June 23, 2026  
+
+---
+
+## 11. The Echo Accord (Defector Alliance)
+
+**Theme:**  
+The ultimate “sides with the outsiders” ending. When the player has become a near-total pariah in Concordia, the Upper Earth defectors (Remorseful, Pragmatics, and Infiltrators) see them as their best chance for survival, power, or revenge. The player can become a bridge, a conqueror, a betrayer, or a tragic unifier.
+
+**Trigger Conditions:**
+- Player has **Hated / Vilified** reputation with most or all major districts.
+- Significant positive interaction with Echo Camp or high-security defector facilities.
+- Completion of multiple defector-related quests (atonement, gray deals, or Infiltrator investigations).
+- Can also trigger if Calethina becomes too unstable/distant or the player has burned too many bridges in Concordia.
+
+**Questline Overview (Multi-Stage & Branching):**
+- **Stage 1 – Contact:** Encrypted messages and secret meetings with different defector factions in blackout zones, Undergrid tunnels, or Pisces safehouses.
+- **Stage 2 – Internal Conflict:** The player must navigate and manage tensions between the Remorseful, Pragmatics, and Infiltrators while evading Concordia’s growing hostility.
+- **Stage 3 – Final Choice:** Major branching decision point that determines the ending.
+
+---
+
+### Possible Resolutions
+
+#### 1. The Defector Sovereign
+The player helps the Pragmatics + turned Infiltrators seize key infrastructure (especially the Power Grid Control Center beneath the Neutral 13th District). Concordia is transformed into a hybrid city under joint rule.  
+**Tone:** Bitter, pragmatic victory. Concordia survives but is fundamentally altered. Many natives deeply resent the new order.  
+**Player Role:** Powerful intermediary, military governor, or enforcer.
+
+#### 2. The Remorseful Exodus
+The player aids the genuinely remorseful defectors in a mass evacuation or the founding of a new independent settlement (possibly in the deeper Frostlands or a hidden Upper Earth remnant site).  
+**Tone:** Bittersweet and redemptive. Strong emotional payoff for players invested in atonement arcs.  
+**Player Choice:** Stay with them, return to a changed Concordia, or become a permanent bridge between the two worlds.
+
+#### 3. The Infiltrator Ascendancy
+The player sides with (or is manipulated by) the Infiltrators. They systematically destabilize Concordia, allowing Upper Earth forces or a new regime to gain control.  
+**Tone:** Dark power fantasy with potential for later betrayal or regret.  
+**Player Role:** High-ranking agent or warlord in the new order.
+
+#### 4. The Broken Covenant
+The player plays all three factions against each other, ultimately betraying both the defectors and Concordia for personal survival, resources, or escape.  
+**Tone:** Cynical and tragic. The ultimate lone-wolf / pariah ending.  
+**Player Outcome:** Extremely powerful but deeply isolated.
+
+#### 5. The Mutual Reckoning (Hidden / High-Requirement Ending)
+Requires deep investment in both the Remorseful defectors **and** remaining ties to Concordia characters (or Calethina).  
+The player attempts genuine reconciliation and integration of defectors while pushing Concordia toward forgiveness.  
+**Tone:** Most hopeful, but also the most fragile and difficult. Can end in inspiring partial success or total tragedy (everyone turns on the player).  
+
+---
+
+### Epilogue Variations
+
+- The player vanishes into the Antarctic wastes with a group of defectors.
+- The player remains in a radically changed Concordia as a controversial but powerful figure.
+- The player becomes a legendary “Bridge” between the old world and the new — accepted by neither side fully.
+- Renewed open conflict breaks out between Concordia and remaining Upper Earth forces as a direct result of the player’s actions.
+
+---
+
+### Design Notes
+
+- This ending is only available when the player has burned most bridges in Concordia — making it a true **failsafe**.
+- Strong ties to the energy crisis, the Power Grid Control Center under the Neutral 13th District, Echo Camp, and the defector subdivisions (Remorseful, Pragmatics, Infiltrators).
+- Mirrors the multi-resolution structure of the Calethina Accord while feeling distinct and thematically coherent.
+- Excellent for players who leaned heavily into defector interactions, moral gray areas, or “ends justify the means” roleplay.
+- Creates powerful emotional contrast with the themes of abandonment, guilt, loyalty, and forgiveness already present in the setting.
+
+---
+
+# Secret Endings - Failsafes
+**Updated Section:** The Echo Accord (Defector Alliance)
+
+**File:** `Failsafes.md`
+**Location:** `Storyline/Endings/Secret-Endings/`
+**Date:** June 23, 2026
+
+---
+
+## 11. The Echo Accord (Defector Alliance)
+
+**Theme:**
+The ultimate “sides with the outsiders” ending. When the player has become a near-total pariah in Concordia, the Upper Earth defectors see them as their best chance for survival, power, or revenge.
+
+**Trigger Conditions:**
+- Player has **Hated / Vilified** reputation with most or all major districts.
+- Significant positive interaction with Echo Camp or high-security defector facilities.
+- Completion of multiple defector-related quests.
+
+---
+
+### Possible Resolutions & Corresponding Epilogues
+
+#### 1. The Defector Sovereign
+The player helps the Pragmatics + turned Infiltrators seize key infrastructure (especially the Power Grid Control Center beneath the Neutral 13th District). Concordia is transformed into a hybrid city under joint rule.
+
+**Resulting Epilogue:**
+**“The player remains in a radically changed Concordia as a controversial but powerful figure.”**
+The player becomes a high-ranking enforcer or governor in the new regime. Concordia survives, but many natives deeply resent the new order. Some districts are pacified, others simmer with rebellion.
+
+#### 2. The Remorseful Exodus
+The player aids the genuinely remorseful defectors in a mass evacuation or the founding of a new independent settlement (possibly in the deeper Frostlands or a hidden Upper Earth remnant site).
+
+**Resulting Epilogue:**
+**“The player vanishes into the Antarctic wastes with a group of defectors.”**
+*(Optional sub-variant:)* The player can choose to stay with them permanently or return alone as a permanent bridge between the two worlds.
+
+#### 3. The Infiltrator Ascendancy
+The player sides with (or is manipulated by) the Infiltrators. They systematically destabilize Concordia, allowing Upper Earth forces or a new regime to gain control.
+
+**Resulting Epilogue:**
+**“Renewed open conflict breaks out between Concordia and remaining Upper Earth forces as a direct result of the player’s actions.”**
+The player becomes a high-ranking agent or warlord in the new order, but at the cost of plunging the region back into war.
+
+#### 4. The Broken Covenant
+The player plays all three factions (Remorseful, Pragmatics, and Infiltrators) against each other, ultimately betraying both the defectors and Concordia for personal survival, resources, or escape.
+
+**Resulting Epilogue:**
+**“The player becomes a legendary ‘Bridge’ between the old world and the new — accepted by neither side fully.”**
+The player ends up extremely powerful but deeply isolated — a mythic, feared figure who belongs nowhere.
+
+#### 5. The Mutual Reckoning (Hidden / High-Requirement Ending)
+Requires deep investment in both the Remorseful defectors **and** remaining ties to Concordia characters (or Calethina).
+The player attempts genuine reconciliation and integration while pushing Concordia toward forgiveness.
+
+**Resulting Epilogue:**
+**“The player becomes a legendary ‘Bridge’ between the old world and the new — accepted by neither side fully.”**
+*(Best-case sub-variant:)* A fragile new peace is formed.
+*(Worst-case sub-variant:)* The attempt collapses into tragedy — everyone turns on the player.
+
+---
+
+### Additional Epilogue Notes
+
+- **Multiple Epilogues Possible**: Certain high-chaos playthroughs can blend elements (e.g., Sovereign ending + renewed conflict).
+- **Thematic Resonance**: All endings heavily explore guilt, forgiveness, abandonment, loyalty, and the cost of choosing “the other side.”
+- **Narrative Weight**: These endings have strong callbacks to the Amundsen Tower evacuation, the Long Night War, and the player’s identity as a Bridge Unit.
+
+---
+
+This structure now clearly connects every resolution to its most fitting epilogue(s), while maintaining the multi-path feel of the Calethina Accord.
+
+**Integration Recommendations:**
+- Link to existing defector questlines (Paths of Atonement, The Gray Bargain, The Infiltrator Conspiracy).
+- Use separate reputation tracking for the three defector factions.
+- Allow this ending to influence main story epilogues and future DLC/sequel potential.
+
+This ending rounds out the failsafe section nicely and gives players who went deep with the defectors a meaningful payoff.
+
+
 **Implementation Notes**
 * These endings appear **in addition to** (not instead of) other secret endings.
 * The game should clearly signal when universal negative reputation is reached (e.g., a special notification, changed world state, or new ambient dialogue).
