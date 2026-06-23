@@ -3,9 +3,9 @@
 **A top-down, isometric, turn-based Sci-Fi RPG set in a post-war world of humans, sentient robots, and the fragile nation they built together.**
 
 ### Genre & Style
-* **Core Loop**: Tactical turn-based combat and exploration on an isometric grid, driven by a deep Action Point (AP) economy.
-* **Tone & Influences**: Fallout 1/2 meets Shadowrun and Torment: Tides of Numenera with strong cyberpunk and philosophical undertones. Emphasis on meaningful choices, character builds, faction politics, and bittersweet consequences.
-* **Scope**: Single-player RPG focused on character progression, narrative reactivity, and maximum player agency. Designed to be highly moddable.
+* **Core Loop:** Tactical turn-based combat and exploration on an isometric grid, driven by a deep Action Point (AP) economy.
+* **Tone & Influences:** Fallout 1/2 meets Shadowrun and Torment: Tides of Numenera with strong cyberpunk and philosophical undertones. Emphasis on meaningful choices, character builds, faction politics, and bittersweet consequences.
+* **Scope:** Single-player RPG focused on character progression, narrative reactivity, and maximum player agency. Designed to be highly moddable.
 
 ### Setting & Lore (Bird's-Eye)
 A global nuclear war in 2083 reshaped Earth. Shortly afterward, the first fully sentient robot was created at Underwater Research Union: Kappa, off the coast of the now-independent Republic of Hawaii. Over centuries, human-robot relations evolved from partnership to conflict, culminating in the **Falkland Treaty (June 21, 2564)** which exiled robots (and their human allies) to Antarctica, forming the **Federation of Tepenia**.
@@ -22,13 +22,13 @@ Tepenians built a new society, eventually expanding into space. Further wars for
 * Perks, traits, and cyberware further modify the system. Leftover AP can convert to extra movement.
 
 **MACHINE Stats** (7 core attributes on a 1–10 scale; the Tepenian interpretation of Fallout's SPECIAL system)
-* **[M]ight**: Raw physical power *(Fallout Strength equivalent)*
-* **[A]gility**: Speed, reflexes, coordination *(Fallout-identical)*
-* **[C]alculation**: Logic, problem-solving, optimization *(Fallout Intelligence equivalent)*
-* **[H]umanity**: Empathy, social awareness, emotional intelligence *(Fallout Charisma-adjacent, Perception of Humans)*
-* **[I]nvestigation**: Pattern recognition, deduction, information gathering *(Fallout Perception-adjacent, Perception of the world)*
-* **[N]erve**: Mental resilience, willpower, companion influence *(no Fallout equivalent)*
-* **[E]ngine**: Operational endurance before burnout / efficiency *(no Fallout equivalent)*
+* **[M]ight:** Raw physical power *(Fallout Strength equivalent)*
+* **[A]gility:** Speed, reflexes, coordination *(Fallout-identical)*
+* **[C]alculation:** Logic, problem-solving, optimization *(Fallout Intelligence equivalent)*
+* **[H]umanity:** Empathy, social awareness, emotional intelligence *(Fallout Charisma-adjacent, Perception of Humans)*
+* **[I]nvestigation:** Pattern recognition, deduction, information gathering *(Fallout Perception-adjacent, Perception of the world)*
+* **[N]erve:** Mental resilience, willpower, companion influence *(no Fallout equivalent)*
+* **[E]ngine:** Operational endurance before burnout / efficiency *(no Fallout equivalent)*
 
 **Progression**
 * Skill points per level ≈ floor((Calculation + Nerve) / 2) [affected by *Investigation*]
@@ -45,7 +45,7 @@ Tepenians built a new society, eventually expanding into space. Further wars for
 * Deep integration with AP economy and character stats
 
 ### Story & Narrative
-**Main Quest Hook**: Stabilize Concordia’s failing power grid which was badly damaged during The Long Night War.
+**Main Quest Hook:** Stabilize Concordia’s failing power grid which was badly damaged during The Long Night War.
 Players make high-stakes decisions across modular chapters on:
 * Power sources (geothermal, backups, experimental tech, alternatives)
 * Distribution philosophy (equity vs. efficiency vs. survival)
