@@ -1,8 +1,4 @@
 # Steam page description
 #### (subject to possible future change)
 
-A top-down isometric, turn-based Sci-Fi RPG and spiritual successor to classic Fallout. In a post-war Antarctic city of humans and sentient robots, navigate a fragile society through character builds, tactical combat, and meaningful choices with real consequences.
-
-Explore Concordia’s districts, factions, and philosophical dilemmas where every decision matters.
-
-##### To-be-changed later, as this is over 300 characters
+A top-down Sci-Fi RPG and spiritual successor to classic Fallout set in a post-war Antarctic city of robots and humans, explore a fragile society with its districts and dilemmas through deep character builds, turn-based combat, and meaningful choices where every decision has real consequences.
