@@ -1,9 +1,9 @@
 # Targeting System (VATS / C.O.R.E. / N.O.D.E.)
 
-**File:** `Targeting_System.md`  
-**Location:** `Game-Mechanics/Combat/`  
-**Date:** June 23, 2026  
-**Working Title:** VATS (placeholder)  
+**File:** `Targeting_System.md`
+**Location:** `Game-Mechanics/Combat/`
+**Date:** June 23, 2026 
+**Working Title:** VATS (placeholder)
 **Final Name Candidates:** C.O.R.E. (Chassis Operational Response Enhancement) or N.O.D.E. (Neural Operating Directive Enhancement)
 
 ---
@@ -105,7 +105,7 @@ This document serves as the foundation. We can iterate on specific formulas, bod
 
 ---
 
-**Ready for your repo.**  
+**Ready for your repo.**
 You can paste this directly into `Game-Mechanics/Combat/Targeting_System.md`.
 
 Let me know when you're ready to expand any section (formulas, body parts list, perks, visual design, etc.) or if you'd like adjustments!
