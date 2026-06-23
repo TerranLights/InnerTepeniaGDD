@@ -8,9 +8,9 @@
 * **Scope**: Single-player RPG focused on character progression, narrative reactivity, and maximum player agency. Designed to be highly moddable.
 
 ### Setting & Lore (Bird's-Eye)
-A global nuclear war in 2083 reshaped Earth. Shortly afterward, the first fully sentient robot was created at Underwater Research Union: Kappa, off the coast of the now-independent Republic of Hawaii. Over centuries, human-robot relations evolved from partnership to conflict, culminating in the **Falkland Treaty (June 21, 2564)** — which exiled robots (and their human allies) to Antarctica, forming the **Federation of Tepenia**.
+A global nuclear war in 2083 reshaped Earth. Shortly afterward, the first fully sentient robot was created at Underwater Research Union: Kappa, off the coast of the now-independent Republic of Hawaii. Over centuries, human-robot relations evolved from partnership to conflict, culminating in the **Falkland Treaty (June 21, 2564)** which exiled robots (and their human allies) to Antarctica, forming the **Federation of Tepenia**.
 
-Tepenians built a new society, eventually expanding into space. Further wars forced many off-world, leaving behind a tense, resource-scarce world where players navigate the remnants of human and robot civilizations — particularly in and around the Antarctic territories and the district of **Concordia**.
+Tepenians built a new society, eventually expanding into space. Further wars forced many off-world, leaving behind a tense, resource-scarce world where players navigate the remnants of human and robot civilizations, particularly in and around the Antarctic territories and the district of **Concordia**.
 
 ### Core Gameplay Mechanics
 **Action Point System** (inspired by classic Fallout, future-proofed for real-time sequels)
