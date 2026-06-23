@@ -1,6 +1,6 @@
 # Inner Tepenia
 
-**A top-down, isometric, turn-based Sci-Fi RPG set in a post-war world of humans, sentient robots, and the fragile nation they built together.**
+**A top-down, isometric, turn-based Sci-Fi RPG and spiritual successor to old-school Fallout (1, 2, and New Vegas) set in a post-war world of humans, sentient robots, and the fragile nation they built together.**
 
 ### Genre & Style
 * **Core Loop:** Tactical turn-based combat and exploration on an isometric grid, driven by a deep Action Point (AP) economy.
