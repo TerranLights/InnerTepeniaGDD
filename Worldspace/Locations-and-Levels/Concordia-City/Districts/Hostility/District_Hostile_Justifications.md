@@ -1,10 +1,10 @@
 # Justifiable Reasons for District Hostile Actions
 
-**File:** `District_Hostile_Actions_-_Justifiable_Reasons.md`  
-**Location:** `Worldspace/Locations-and-Levels/Concordia-City/Districts/Hostility/`  
-**Date:** June 23, 2026  
+**File:** `District_Hostile_Actions_-_Justifiable_Reasons.md`
+**Location:** `Worldspace/Locations-and-Levels/Concordia-City/Districts/Hostility/`
+**Date:** June 23, 2026
 
-**Purpose:**  
+**Purpose:**
 For every hostility-triggering action in `District_Hostile_Actions.md`, this document provides **plausible, in-character justifications** a player (especially a Bridge Unit dealing with the energy crisis) might have for committing them.  
 
 The local NPCs will **still turn violent** — they do not care about your reasoning. The act itself is considered unforgivable in that district’s culture.
@@ -21,6 +21,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 1. Cancer (Nurturing / Protective – Sanctuary District)
+**Core identity:** Emotional and physical sanctuary for the vulnerable, refugees, trauma survivors. “No One Left Behind.”
 
 **Hostile Actions & Justifiable Reasons:**
 - Damaging/sabotaging shelters or child-care centers → Exposing hidden corruption, dangerous experiments on refugees, or forcing fairer resource distribution during blackouts.
@@ -32,6 +33,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 2. Taurus (Residential / Stability – Home District)
+**Core identity:** Preservation of home, family, bonded life, and stubborn self-reliance.
 
 - Breaking into/vandalizing private homes → Searching for critical supplies or data during a life-threatening blackout, or exposing hoarding that endangers the city.
 - Stealing/destroying sentimental heirlooms → The item contains encoded data, a key, or evidence of corruption needed for the greater good.
@@ -42,6 +44,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 3. Leo (Cultural / Performative – Morale District)
+**Core identity:** Generating light, joy, and morale through performance and celebration.
 
 - Sabotaging performances/stages → The show is propaganda hiding the energy crisis or diverting critical resources.
 - Publicly humiliating performers → Exposing frauds or people actively working against the city.
@@ -52,6 +55,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 4. Scorpio (Psychological / Transformative – Shadow District)
+**Core identity:** Radical personal transformation, confronting trauma, and shadow work.
 
 - Violating psychological privacy → Extracting critical information locked in someone’s mind to prevent disaster.
 - Sabotaging transformation equipment → Stopping unethical or dangerous procedures.
@@ -62,6 +66,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 5. Aries (Raw Survival / Energy – Power Core)
+**Core identity:** Overclocked heroism, pushing limits to maintain the grid, “warrior-engineer” culture.
 
 - Sabotaging critical power infrastructure → Preventing a worse catastrophic overload or forcing necessary safety shutdowns.
 - Stealing high-value power cells → Needed for life-saving operations elsewhere or to stop dangerous experiments.
@@ -72,6 +77,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 6. Capricorn (Industrial / Ambition – Builder District)
+**Core identity:** Meritocracy, production, building legacy through hard work.
 
 - Sabotaging production lines → Stopping production of dangerous goods or forcing safer conditions.
 - Stealing industrial secrets → Repurposing tech for the broader energy solution.
@@ -82,6 +88,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 7. Aquarius (Visionary / Experimental – Innovation District)
+**Core identity:** Radical innovation, utopian experiments, pushing boundaries.
 
 - Stealing/destroying experimental data → Preventing unethical or weaponizable research.
 - Sabotaging dangerous experiments → Stopping imminent catastrophes.
@@ -92,6 +99,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 8. Libra (Diplomatic / Balance – Governance District)
+**Core identity:** Maintaining order, treaties, and balance between districts.
 
 - Violently disrupting proceedings → Stopping corrupt or disastrous decisions.
 - Stealing/leaking sensitive documents → Exposing corruption vital to solving the energy crisis.
@@ -102,6 +110,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 9. Gemini (Information / Communication – Data Nexus)
+**Core identity:** Flow of information, truth vs. lies, adaptability.
 
 - Spreading dangerous misinformation → Creating a necessary distraction or countering worse propaganda.
 - Hacking/leaking private data → Exposing corruption or critical grid information.
@@ -112,6 +121,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 10. Pisces (Black Market / Underworld)
+**Core identity:** Gray economy, fluidity, survival through unofficial means.
 
 - Snitching on criminal operations → Stopping operations that harm innocents or threaten stability.
 - Stealing from or betraying crime bosses → Acquiring resources for a greater cause.
@@ -122,6 +132,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 11. Sagittarius (Frostlands – Frontier / Exploration)
+**Core identity:** Self-reliance, pushing boundaries, harsh survival code.
 
 - Sabotaging expedition equipment → Preventing doomed missions or forcing safer approaches.
 - Stealing critical survival supplies → Urgent need for yourself or others.
@@ -132,6 +143,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 ---
 
 ## 12. Virgo (Undergrid – Maintenance / Infrastructure)
+**Core identity:** Quiet, essential maintenance that keeps everything running. “If we stop, everything dies.”
 
 - Sabotaging critical infrastructure → Forcing necessary long-term repairs.
 - Stealing maintenance tools/materials → Emergency repairs leadership is ignoring.
