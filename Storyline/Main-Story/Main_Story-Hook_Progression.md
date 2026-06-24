@@ -42,7 +42,7 @@
 
 **NPC Hooks (3):**
 1. A desperate factory worker complains about dangerous overclocking demands from the power core and suggests checking the residential impact (leads back to Taurus/Cancer).
-2. A manager or foreman blames “soft” residential districts for complaining while factories keep the city alive (leads toward Taurus or Libra).
+2. A manager or foreman blames “soft” residential districts for complaining while factories keep the city alive (leads back to Taurus or towards Libra).
 3. A black-market contact operating in the industrial zone offers smuggled parts if the player helps with a diversion (leads to Pisces).
 
 **Findable / Environmental Hooks (3):**
@@ -67,7 +67,7 @@
 3. A Taurus resident angrily complains about industrial “hoarding” and suggests confronting them or seeking diplomatic mediation (leads toward Capricorn or Libra).
 
 **Findable / Environmental Hooks (3):**
-1. Power allocation logs showing residential deprioritization (leads to Gemini for deeper analysis or Aries for source).
+1. Power allocation logs showing residential deprioritization (leads to Gemini for deeper analysis or Aries/Virgo for source).
 2. Failing creches, memorials, or dying hydroponic gardens in Cancer with notes on rising psychological strain (leads to Scorpio).
 3. Refugee supply manifests and stories pointing to frontier shortages (leads to Sagittarius).
 
@@ -158,8 +158,8 @@
 
 **NPC Hooks (3):**
 1. A researcher offers prototype technology that could stabilize the grid (leads to testing or Aries integration).
-2. A contact warns that ongoing experiments are draining power or causing dangerous side effects (leads to Aquarius or Virgo).
-3. A faction requests on-site analysis of experimental projects (leads to Aquarius or Libra).
+2. A contact warns that ongoing experiments are draining power or causing dangerous side effects (leads deeper into Aquarius or towards Virgo).
+3. A faction requests on-site analysis of experimental projects (leads deeper into Aquarius or towards Libra).
 
 **Findable / Environmental Hooks (3):**
 1. Failed prototypes, high-energy draw data, or experimental spills (leads deeper into Aquarius or toward Aries/Virgo).
