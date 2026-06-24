@@ -119,13 +119,13 @@
 **Location:** Pisces (Black Market / Underworld)
 
 **NPC Hooks (3):**
-1. A black-market contact offers rare parts or forbidden schematics for grid repairs (leads to Pisces deals or Sagittarius).
-2. An underworld figure warns of brewing rebellion if the Hub cracks down too hard (leads to Pisces or Libra).
+1. A black-market contact offers rare parts or forbidden schematics for grid repairs (leads deeper into Pisces deals or Sagittarius).
+2. An underworld figure warns of brewing rebellion if the Hub cracks down too hard (leads deeper into Pisces or Libra).
 3. A desperate buyer mentions frontier-sourced resources or experimental tech (leads to Sagittarius or Aquarius).
 
 **Findable / Environmental Hooks (3):**
-1. Illegal generators, smuggled power cells, or pre-war technical schematics (leads deeper into Pisces or Sagittarius).
-2. Records of profiteering from district suffering (leads to multiple districts or Libra).
+1. Illegal generators, smuggled power cells, or pre-war technical schematics (leads deeper into Pisces or toward Sagittarius).
+2. Records of profiteering from district suffering (leads to multiple districts or toward Libra).
 3. Hidden access points or smuggler routes toward outer zones (leads to Sagittarius).
 
 **Reason not to go to Neutral District yet:** Official channels in the Hub are too slow or compromised. Only the underworld moves fast enough in a crisis.
