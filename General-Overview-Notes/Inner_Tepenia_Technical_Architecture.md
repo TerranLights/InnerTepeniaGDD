@@ -66,6 +66,116 @@ These are always available everywhere in the game. Keep them lean.
 
 ---
 
+# Inner Tepenia — Technical Architecture Document
+
+**Version 0.2 | Engine: Godot 4.x | Languages: GDScript + C++ (GDExtension)**
+
+---
+
+## 1. Overview & Guiding Principles
+
+... (existing content unchanged) ...
+
+## 6. Character System
+
+... (existing content unchanged) ...
+
+## 7. World, Grid & Movement System
+
+This section defines how the world is spatially represented, how characters move, and how the camera presents the game. The goal is to combine the tactical precision of classic CRPGs with the smooth, weighty motion of modern titles like *Baldur’s Gate 3* and *Wasteland 3*.
+
+### 7.1 Core Philosophy
+- **Tactical clarity** (grid-based AP costs, readable positioning, line-of-sight).
+- **Modern motion feel** (smooth animations, intelligent pathing, responsive camera).
+- **District personality** — the circular color-coded layout of Concordia should feel distinct and beautiful from the chosen camera perspective.
+
+### 7.2 Grid System Recommendation: Hexagonal + Navmesh Hybrid
+
+**Recommended approach**: Use a **hexagonal grid** as the logical/tactical layer combined with a **navmesh** for visual movement.
+
+**Why Hex over Square?**
+- Consistent distance between adjacent tiles (no diagonal penalty weirdness).
+- More natural flanking and positioning in combat.
+- Better suits the organic/sci-fi architecture of many districts (hydroponics, industrial clutter, Frostlands, undergrid tunnels).
+- Cleaner AP calculations.
+
+**How the Hybrid Works**
+- **Hex Grid Layer** (logical/rules layer):
+  - All AP costs, range calculations, line-of-sight, and tactical highlighting are based on clean hex tiles.
+  - This keeps the system precise, speedrun-friendly, and easy to balance.
+- **Navmesh Layer** (visual/feel layer):
+  - A navigation mesh defines actual walkable space.
+  - Characters follow smooth, curved, intelligent paths around obstacles (furniture, pipes, debris, other characters, hydroponic planters, etc.).
+  - Movement *looks* fluid and modern (like BG3), but the **final AP cost** is snapped to the nearest valid hex tile count.
+- **Result**: Beautiful, weighty animations + perfect tactical precision.
+
+**Exploration vs Combat**
+- **Exploration mode**: Real-time movement (WASD or click-to-move) with full fluid animation and navmesh pathing. No AP cost.
+- **Combat mode**: Switches to strict turn-based AP system. Players see a glowing path preview with exact AP cost. Characters then execute the movement with smooth animation blending.
+
+### 7.3 Camera System
+- **Primary view**: Modern 3D isometric (rotatable around a central axis, similar to *Wasteland 3* with added smoothness).
+- Players can freely orbit the party for cinematic district views while retaining strong tactical readability.
+- Support for a dedicated **tactical top-down mode** (toggleable, similar to BG3’s “O” key) for precision during complex fights.
+- Camera should support:
+  - Smooth zooming and panning
+  - Slight cinematic tilt
+  - Height-aware following (ramps, undergrid entrances, multi-level districts)
+
+## References to Detailed Systems
+
+- **Movement, Camera & Grid System** → See [`Game-Mechanics/Core-Mechanics/Movement_Camera_and_Grid_System.md`](Movement_Camera_and_Grid_System.md)
+
+### 7.4 Mitigating Straight Walls in Indoor Areas (Hex Grid Challenge)
+Hex grids can look awkward with perfectly rectangular rooms. Recommended mitigations (in order of preference):
+
+1. **Art-First Approach (Recommended)**  
+   Build rooms with natural straight walls and rectangular shapes. The hex grid is an invisible or subtle overlay underneath. Walkable space is determined by whether the *center* of a hex lies inside the room. The navmesh handles precise collision.
+
+2. **Grid Rotation**  
+   Rotate the hex orientation per map so one flat side aligns with major wall directions where possible.
+
+3. **Hybrid Grid Zones**  
+   Use hex grid for organic/outdoor areas (Frostlands, gardens, undergrid) and switch to square grid (or offset “hexaquad” tiles) for very strict rectangular interiors if needed. Provide clear visual transitions.
+
+4. **Design Philosophy**  
+   Embrace slightly more organic or larger-scale interiors where it fits the lore (e.g., open medical wards in Cancer, cluttered factories in Capricorn). This plays to hex strengths while still allowing straight-walled rooms via the art-first method.
+
+5. **Visual Polish**  
+   Make the hex grid subtle or toggleable (“G” key). Use environmental details, floor patterns, and lighting to guide the eye rather than relying on visible grid lines.
+
+### 7.5 Animation & Pathing Priorities
+- High-quality animation blending and inverse kinematics (foot placement on uneven terrain, ramps, snow, etc.).
+- Contextual animations (brushing snow, ducking under pipes, interacting with medical equipment, etc.).
+- Excellent pathfinding that avoids other characters and dynamic obstacles.
+- Pre-visualized movement paths with real-time AP cost display (like BG3).
+
+### 7.6 Integration Points
+- **DistrictResource** should include fields for preferred grid behavior or camera presets if needed.
+- **CombatManager** and **APManager** read from the hex grid for costs.
+- **DistrictManager** can influence pathfinding costs (e.g., difficult terrain in Frostlands or damaged areas during power crises).
+- Save system must serialize current grid position (hex coordinates) + visual transform.
+
+---
+
+## 8. Next Implementation Priorities (Technical)
+
+1. Core data resources (already started)
+2. Character stats + AP system
+3. Grid + Navmesh hybrid + basic movement
+4. Camera system (rotatable isometric + tactical view)
+5. Combat manager + damage calculation
+6. District loading and transitions
+7. Save/Load system
+
+---
+
+*Document will continue to evolve as systems are prototyped.*
+
+---
+# continuation of pre-update notes:
+---
+
 ## 4. Data Resources
 
 All game data is defined as typed Godot Resources. This enables editor inspection, type safety, and trivial save/load.
