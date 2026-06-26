@@ -1,5 +1,5 @@
 # Alternate Minmax Endings - "Not My Fucking Problem" Path
-## Minmax Build 01: Might + Agility + Computation
+## Minmax Build 01: Might + Agility + Calculation
 
 **Document Status**: Draft  
 **Build Focus**: High **Might** (raw physical power & endurance), **Agility** (speed, mobility, precision, stealth), and **Computation** (optimization, hacking, predictive modeling, system mastery).  

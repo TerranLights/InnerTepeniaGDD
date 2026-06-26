@@ -1,0 +1,97 @@
+# Alternate Minmax Endings - "Not My Fucking Problem" Path
+## Minmax Build 33: Humanity + Investigation + Engine
+
+**Document Status**: Draft  
+**Build Focus**: High **Humanity** (empathy, charisma, moral intuition, leadership, and selective bonding), **Investigation** (perception, deduction, clue-tracking, forensics, and secret uncovering), and **Engine** (mechanical mastery, crafting, repair, optimization, and fabrication).  
+This creates a compassionate truth-forger: a deeply empathetic investigator who uncovers hidden truths, inspires loyalty through heart and moral clarity, and fabricates real protection and sanctuaries with their own hands while rejecting the failing systems of Concordia.
+
+**Target Endings**:  
+- Last Shepherd  
+- Wandering Guardian  
+- Beloved Exile  
+- Relic Hunter (empathetic artisan variant)  
+- Iron Nomad (with loyal crew)  
+- Any other "Not My Fucking Problem" endings that reward heartfelt truth-seeking, moral leadership, and masterful protective fabrication.
+
+**Design Philosophy**: Triggers reward genuine emotional connection, relentless investigation, and hands-on engineering. The player uncovers painful secrets, builds real hope and safety for those they care about, and inspires loyalty through both heart and skill — then leads their chosen circle away from the city’s collapse.
+
+---
+
+## NPC Triggers (9)
+
+1. **TBD-NPC – Retired Sagittarius Scout (currently in a Cancer safehouse)**  
+   After the player investigates hidden refugee routes while offering genuine emotional support and fabricating emergency mobile shelters, they offer a quest to lead a trusted sanctuary caravan.  
+   **Strongly supports**: Last Shepherd, Wandering Guardian, Iron Nomad.
+
+2. **TBD-NPC – Underground Augmentation Artisan (Pisces black clinic)**  
+   Moved when the player investigates stolen medical tech while showing sincere empathy and fabricating protective augmentations under pressure, they teach guardian-class self-modification techniques.  
+   **Strongly supports**: Beloved Exile, Last Shepherd.  
+   *Gates*: High Humanity + Investigation.
+
+3. **TBD-NPC – Rogue Courier (hiding in Virgo undergrid tunnels)**  
+   After the player investigates safe paths while offering heartfelt reassurance and fabricating reinforced safe vehicles, they propose forming a small trusted family of independent guardians.  
+   **Strongly supports**: Wandering Guardian, Iron Nomad.
+
+4. **TBD-NPC – Disillusioned Aries Overclock Trainer**  
+   Witnesses the player investigate incident logs while making moral choices about who to save and fabricating safer portable power solutions. They leak portable reactor schematics.  
+   **Strongly supports**: Last Shepherd, Iron Nomad.
+
+5. **TBD-NPC – Young Runner & Data Smuggler (Leo underbelly)**  
+   After the player investigates the true cause of a betrayal while offering sincere emotional support and fabricating upgraded protective gear, they rally a small group of lost youths seeking a caring, truth-seeking artisan leader.  
+   **Strongly supports**: Beloved Exile, Wandering Guardian, Last Shepherd.
+
+6. **TBD-NPC – Capricorn Exile (operating in a hidden Sagittarius outpost)**  
+   Impressed by the player’s empathetic leadership during crisis, deep investigation of threats, and ability to fabricate high-efficiency mobile sanctuaries, they offer a quest to restore a pre-war guardian command forge.  
+   **Strongly supports**: Iron Nomad, Wandering Guardian, Last Shepherd.
+
+7. **TBD-NPC – Rogue Psychologist (Scorpio shadow clinic)**  
+   After the player investigates buried trauma records while demonstrating genuine compassion and fabricating custom life-support systems, they reveal paths of chosen-family rebirth and moral detachment.  
+   **Strongly supports**: Beloved Exile, Last Shepherd.
+
+8. **TBD-NPC – Anonymous Gemini Net-Runner (hidden in an abandoned data nexus)**  
+   Recruited after the player investigates fragmented archives while building an emotional bond and fabricating portable safe-server units. Offers jobs leading to a self-sufficient mobile sanctuary.  
+   **Strongly supports**: Iron Nomad, Wandering Guardian.
+
+9. **TBD-NPC – Independent Caravan Protector (temporary Taurus camp)**  
+   After the player investigates incoming threats while offering moral leadership and fabricating reinforced vehicles, they invite the player to lead a permanent breakaway caravan.  
+   **Strongly supports**: Last Shepherd, Wandering Guardian, Iron Nomad.
+
+---
+
+## World / Environmental Triggers (7)
+
+1. **Abandoned High-Speed Maintenance Rail (Virgo Undergrid)**  
+   Collapsed rail system. Player must investigate old route logs while helping trapped survivors (Humanity) and fabricating reinforced small-group transport.  
+   **Strongly supports**: Iron Nomad, Wandering Guardian, Last Shepherd.
+
+2. **Glitching Pre-War Military Exosuit Prototype (Aries restricted ruins)**  
+   Interactive wreckage. Requires investigation of guardian logs while making empathetic choices about its protective use and fabricating custom fits.  
+   **Strongly supports**: Beloved Exile, Unbreakable Ronin variant.
+
+3. **Encrypted Overland Route Data Cache (Sagittarius frostline marker)**  
+   Weather-beaten terminal. Requires investigation of survivor messages while calculating safe migration and fabricating migration gear.  
+   **Strongly supports**: Iron Nomad, Last Shepherd, Wandering Guardian.
+
+4. **Collapsed but Hackable Aries Micro-Reactor (hidden backup node)**  
+   Environmental puzzle. Requires investigation of maintenance records while making moral power-distribution choices and fabricating compact portable cores.  
+   **Strongly supports**: Last Shepherd, Iron Nomad.
+
+5. **Ancient Mobility Rig Testing Ground (outer Capricorn scrap fields)**  
+   Ruined proving grounds. Requires investigation of test data while choosing to aid stranded individuals and fabricating crew-capable guardian vehicles.  
+   **Strongly supports**: Wandering Guardian, Iron Nomad.
+
+6. **Hidden Server Vault with Predictive Survival Algorithms**  
+   Sealed Gemini ruin. Requires investigation of “protect your chosen” ethical subroutines while fabricating portable life-support tech.  
+   **Strongly supports**: Beloved Exile, Last Shepherd.
+
+7. **Derelict Armored Nomad Convoy Wreck (Frostlands edge)**  
+   Multi-stage wreckage site. Requires investigation of survivor logs while making moral choices and fabricating a functional small-crew mobile sanctuary.  
+   **Strongly supports**: Wandering Guardian, Iron Nomad.
+
+---
+
+## Design Notes
+- All triggers heavily favor the Humanity + Investigation + Engine triad — blending genuine empathetic leadership, relentless truth-seeking, and masterful hands-on fabrication.
+- Many triggers can chain: e.g., World Trigger 3 (route data) → NPC 6 (guardian command forge) → NPC 9 (caravan leadership).
+- Reputation impact: These paths build deep loyalty with small chosen groups while alienating larger districts and central authorities.
+- Tone: Every trigger reinforces the "Not My Fucking Problem" mindset — you uncover painful truths, protect those you choose with heart and skill, and leave the rest of the dying city behind.
