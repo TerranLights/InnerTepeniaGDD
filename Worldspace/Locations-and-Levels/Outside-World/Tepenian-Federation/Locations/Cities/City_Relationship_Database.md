@@ -46,7 +46,7 @@ Six subnets, each named after its hub city. Nicknames in parentheses reflect the
 
 **Signy\*:** Shown with a dashed border on the Arcanet map — peripheral/weaker connectivity, likely due to being on an island (South Orkney Islands) off the main peninsula. Signy's connection to the Palmer subnet should be treated as intermittent or lower-bandwidth in lore.
 
-**Amundsen Station (South Pole):** Not clearly assigned to a single subnet on the map. As the intersection point of Hwys 22, 59, and 175, it likely functioned as an inter-subnet relay rather than a full member of any one subnet. **[UNCERTAIN — verify]**
+**Amundsen Station (South Pole):** **Confirmed: inter-subnet relay — not a member of any subnet.** The South Pole was the neutral routing node through which all six subnets communicated with each other. When the Long Night War destroyed Amundsen Station, it severed all inter-subnet Arcanet connections simultaneously, causing the **Planetary Split Brain** — each of the six surviving subnets became isolated, developing its own version of historical records, sometimes in direct conflict with other subnets. The last moment of unified Arcanet data across all subnets is whatever was cached at Amundsen Station before it went dark. The South Pole ruins therefore contain the only synchronized pre-split archive in existence — a fact with significant implications for the Split Brain questline (see TODO).
 
 ---
 
@@ -71,7 +71,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Real station:** Amundsen-Scott South Pole Station (USA)
 - **Region:** South Pole — interior
 - **Status:** Destroyed (Long Night War) — now a scrap mountain; most significant ruins in Tepenia
-- **Arcanet subnet:** Inter-subnet relay hub **[UNCERTAIN — not clearly assigned]**
+- **Arcanet subnet:** **Inter-subnet relay — neutral ground; not a member of any subnet** ✓
 - **Highways:** Hwy 22 (Transcontinental), Hwy 59 (Atlantic Throughway), Hwy 175 (Central Cut Throughway) — all intersect here
 - **Direct highway neighbors:** Connects east (Hwy 22 → Mawson/Syowa direction), north-Atlantic (Hwy 59 → Halley direction), west (Hwy 175 → Concordia/Byrd direction)
 - **Notes:** Site of the Amundsen Tower (space elevator); destroyed by Upper Earth militaries in Long Night War; scrap confined to South Pole vicinity; named after Roald Amundsen
@@ -485,6 +485,13 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ## 4. Lore Consistency Rules
 
 When writing any in-world text (journal entries, audio logs, terminal entries, transit/shipping logs, NPC dialogue), the following must hold. Flag any written lore that violates these.
+
+### The Planetary Split Brain
+The destruction of Amundsen Station severed all inter-subnet Arcanet connections. Each of the six subnets — Palmer, Halley, Mawson, Mirny, Janbogo, Byrd — has been informationally isolated since the Long Night War. This means:
+- **NPCs from different subnet backgrounds may have genuinely different and conflicting accounts of the same historical events** — neither is lying; they are each working from their subnet's isolated records
+- **Written lore (journal entries, terminal entries, audio logs) reflects the subnet of its author** — a Mawson-subnet refugee's account of the Long Night War may contradict a Halley-subnet account
+- **No city in Tepenia currently has access to another subnet's records** — the only way to reconcile the Split Brain is to reach the South Pole ruins and access the last synchronized pre-split archive
+- **The Split Brain is not a malfunction** — it is a structural consequence of the relay going dark; the subnets are functioning correctly within their isolation
 
 ### Geographic Rules
 - **Concordia is the only major surviving city.** Byrd survives but is struggling. All coastal cities are destroyed. Dome Fuji and Kunlun survived but were never viable population centers.
