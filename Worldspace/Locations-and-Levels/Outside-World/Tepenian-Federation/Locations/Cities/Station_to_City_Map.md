@@ -88,7 +88,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
 | Jang Bogo Station | Unified Korea | **Janbogo** ✓ | Damaged; partially operational | Confirmed; supplies Concordia; source of refugees |
-| McMurdo Station | USA | **Fort McMurdo** ✓ | Destroyed | Confirmed; largest station in real life (~1,000 people) → likely largest pre-war Tepenian city; "Fort" prefix suggests military character developed pre-destruction |
+| McMurdo Station | USA | **Fort McMurdo** ✓ | Destroyed | Confirmed; largest station in real life (~1,000 people) → likely largest pre-war Tepenian city; "Fort" = mining and resource-processing hub + deliberate reference to Fort MacMurray (Alberta, Canada) — a remote industrial boomtown in a harsh environment with a similar history |
 | Scott Base | New Zealand | Scott | Destroyed | Adjacent to McMurdo; likely culturally intertwined with Fort McMurdo |
 | Mario Zucchelli Station | Italy | Mario Zucchelli | Destroyed | Italian station; Terra Nova Bay |
 | Cape Adare | Various | Cape Adare | Historical site | Earliest Antarctic expedition landing site; pre-exile ruins |
@@ -111,7 +111,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Vostok Station | Russia | Vostok | 3,488m | Survived — isolated | Too far from any self-support resources; small population or abandoned |
 | Dome Fuji / Valkyrie Dome | Japan | Dome Fuji | ~3,810m | Survived — too high | Altitude too extreme for viable large settlement |
 | Kunlun Station / Dome Argus | Sinian Federation | Kunlun | 4,093m | Survived — too high | Highest station in Antarctica; unviable at scale |
-| Byrd Station | USA | Byrd | ~1,530m | TBD | West Antarctica, lower altitude than other inland stations — potentially more viable than Dome Fuji/Kunlun; status unclear |
+| Byrd Station | USA | Byrd | ~1,530m | Survived — struggling | West Antarctica; lowest-altitude inland station, making it more habitable than Concordia or the high-altitude stations; survived the Long Night War but is in a state of ongoing struggle (nature of struggle TBD); intended as the centerpiece of its own DLC (main storyline TBD) |
 
 ---
 
@@ -139,8 +139,8 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 ## Notes for Future Development
 
-- **Fort McMurdo's "Fort" prefix** — the largest pre-war city in Tepenia gained a military designation at some point. Was this during the Long Night War (last major defensive hold before falling)? Or did it always have a military character given its size and logistics importance?
-- **Byrd Station** — low altitude (1,530m), West Antarctica. Does it survive the Long Night War? Could it be a secondary surviving city alongside Concordia?
+- **Fort McMurdo's "Fort" prefix** — confirmed: mining and resource-processing city; the "Fort" is also a deliberate reference to Fort MacMurray (Alberta, Canada), a remote industrial boomtown with a comparable history and environment. The name is half functional descriptor, half in-joke.
+- **Byrd** — confirmed surviving city; struggling (nature of struggle TBD); intended as the centerpiece of its own DLC. Main storyline and questline are completely undetermined at this time. The low altitude (1,530m) and West Antarctic location give it a distinct character from Concordia.
 - **Halley** — built on a floating ice shelf in real life. The city would have needed to address ice shelf movement. Unique structural character.
 - **Zhongshan and Sinian Federation identity** — Zhongshan Station was named after Sun Yat-sen. In the game world, the Sinian Federation rebuilt from China's collapse. Does Zhongshan keep its name, or was it renamed under the Iron Federation?
 - **Unified Korea stations** — King Sejong and Jang Bogo both belong to Unified Korea in the game. Jang Bogo → Janbogo is confirmed. King Sejong → Sejong is the natural carry-over, but open to revision.
