@@ -32,9 +32,9 @@
 ### Gameplay Flavor: Strong human presence. Many emotional, personal stories. Excellent for empathy-based skill checks.
 
 ## 3. Mountain Cut Industrial Zone (Hwy 37)
-### Atmosphere: Noisy, hot (relatively), industrial. Sparks, heavy machinery, robotic assembly lines, dust from siligel quarries, dramatic mountain walls visible through dome windows.
+### Atmosphere: Noisy, hot (relatively), industrial. Sparks, heavy machinery, robotic assembly lines, dust from siligel precursor material quarries, dramatic mountain walls visible through dome windows.
 ### Key Locations:
-* Siligel Refineries & Quarries
+* Siligel Synthesis Facilities & Precursor Material Quarries
 * Major Robot Manufacturing Foundries
 * Highway Maintenance Depots
 * Eyes of Gold training grounds / dueling arenas
@@ -201,7 +201,7 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 4. Coastal Cut District (Hwy 110)
 * Hydroponics, ports, and bonded residential areas.
 5. Mountain Cut Industrial Zone (Hwy 37)
-* Siligel quarries, robot manufacturing, and heavy industry.
+* Siligel precursor material quarries, siligel synthesis, robot manufacturing, and heavy industry.
 6. TBN-district & Power Core
 * The critical geothermal/nuclear heating complex.
 * Cultural & Spiritual Districts

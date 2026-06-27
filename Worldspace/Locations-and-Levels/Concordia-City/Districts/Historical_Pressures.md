@@ -117,7 +117,7 @@ Sagittarius: Adventure, exploration, optimism, freedom, and the pursuit of dista
 #### Previous Events Leading to the Current State
 * Early Federation Expansion (late 2560s–2590s): As the core districts stabilized, Sagittarius was established as the primary launch point for surface expeditions, resource scouting, and Arcanet subnet construction across the harsher Frostward regions. Hardy settlers and explorer robots were drawn here by promises of opportunity beyond the crowded domes.
 * Long Night War Frontier Defense (early 2700s): The district became a critical buffer zone and staging ground for surface resistance. Supply runs, scouting parties, and guerrilla operations against invading forces forged a culture of self-reliant optimism and “push further” mentality, even as many outposts were lost.
-* Post-War Resource Scarcity & Boom Cycles (mid-2700s onward): Repeated energy and siligel shortages in the core pushed more ambitious (or desperate) individuals outward. Discovery of remote siligel deposits and pre-war ruins created boom-and-bust cycles, attracting fortune-seekers while leaving abandoned outposts and lingering dangers.
+* Post-War Resource Scarcity & Boom Cycles (mid-2700s onward): Repeated energy and siligel shortages in the core pushed more ambitious (or desperate) individuals outward. Discovery of remote quarry sites rich in siligel precursor materials — alongside pre-war ruins — created boom-and-bust cycles, attracting fortune-seekers while leaving abandoned outposts and lingering dangers.
 * Ongoing Tension with Central Authority: Chronic neglect from Libra’s central planning and resource competition with Capricorn has reinforced Sagittarius’ independent, libertarian streak and occasional secessionist sentiments.
 
 
