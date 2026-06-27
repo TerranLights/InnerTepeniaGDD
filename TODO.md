@@ -91,6 +91,9 @@ A running reference of outstanding design work, organized by urgency. Update as 
 - [ ] **Calethina questline — Grok notes review**
   Grok's original "Echoes of the Bridge" notes referenced a "5-step questline" and "full personality download to Bridge Unit" as a climax. These were written before the archive-narrator direction was established. The notes should be reviewed and reconciled (or discarded) before the questline is written.
 
+- [ ] **Byrd DLC — development**
+  Byrd is a surviving but struggling city in West Antarctica (1,530m altitude). Intended as the centerpiece of its own DLC. Main storyline and questline completely undetermined. Nature of Byrd's struggle is also TBD.
+
 - [ ] **Fort McMurdo and other Tepenian city lore**
   Palmer City is complete (`Worldspace/.../Cities/Palmer_City.md`). Full station-to-city map is complete (`Station_to_City_Map.md`). Fort McMurdo, Janbogo, Neumayer, Belgrano, Mirny, and others have no lore documents yet.
 
