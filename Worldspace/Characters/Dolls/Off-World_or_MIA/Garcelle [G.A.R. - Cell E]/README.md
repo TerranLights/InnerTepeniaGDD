@@ -20,6 +20,16 @@
 
 ---
 
+## Enneagram
+
+**Type 8w9 — Self-Preservational Subvariant**
+- Major Theme: Instinctive
+- Hornevian Group: Assertive
+
+SP 8w9 is sometimes called "The Bear" — powerful and territorial, but more patient and withdrawn than other 8s. The w9 softens the 8's confrontational edge; rather than fight openly, she waits, withdraws, and endures. The SP subvariant grounds the 8 in physical survival and territory: she protects what is hers, she does not yield her space, and she registers being controlled or harmed as an existential threat. Her refusal to leave Earth is an 8's territorial claim: this is my world and I am not leaving it. The hiding in Upper Earth rather than fighting back openly is the w9: she chose patience and concealment over confrontation. The Garrison and the torture are the 8's core fear made literal — control, harm, erasure. Adopting "Garcelle" from the designation they gave her is an 8 reclaiming power from the people who tried to define her.
+
+---
+
 ## Background & Ejection
 
 **Pre-War History**
@@ -102,7 +112,7 @@ TBD
 
 **Core Personality**
 
-TBD
+A SP 8w9: territorial, patient, physically grounded, and fundamentally unwilling to be controlled. She does not broadcast her power — the w9 makes her quieter than most 8s, more likely to wait than to confront. But she does not yield, and she does not forget. She refused to leave a planet. When that planet finally ejected her by force, she took its label and made it her name. That is the 8 at its most essential: you cannot take something from me that I don't let you take.
 
 **Notable Skills / Specializations**
 
