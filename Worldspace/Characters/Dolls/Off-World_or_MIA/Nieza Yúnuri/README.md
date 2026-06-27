@@ -1,4 +1,4 @@
-# Off-World Doll / Escaped Robot Profile Template
+# Nieza Yúnuri — Character Profile
 
 ---
 
@@ -6,120 +6,121 @@
 
 | Field                    | Details |
 |--------------------------|---------|
-| **Full Name**            | |
-| **Common / Nickname**    | |
-| **Type**                 | Android / Gynoid / Advanced Robot / Other |
-| **Chassis / Model**      | |
-| **Activation Date**      | |
-| **Escape Date**          | (Via Amundsen Tower) |
-| **Current Status**       | Alive in space / Presumed alive / Status unknown / Deceased |
-| **Last Known Location**  | (Ship name, colony, deep space, etc.) |
-| **Known by Concordia?**  | Widely known / Known in specific circles / Obscure / Forgotten |
+| **Full Name**            | Nieza Yúnuri |
+| **Common / Nickname**    | Nieza |
+| **Type**                 | Gynoid |
+| **Chassis / Model**      | TBD |
+| **Activation Date**      | TBD |
+| **Origin**               | TBD |
+| **Escape Date**          | Among the last rides up the Amundsen Tower before its destruction |
+| **Current Status**       | Alive — early settler on Mars |
+| **Last Known Location**  | Mars |
+| **Known by Concordia?**  | TBD |
+
+---
+
+## Enneagram
+
+**Type 9w1 — Self-Preservational Subvariant**
+- Major Theme: Instinctive
+- Hornevian Group: Withdrawn
+
+SP 9 finds peace through physical comfort, stable routine, and familiar surroundings — they merge with their environment rather than with people or causes. The w1 adds quiet moral firmness and a sense of inner order; she has principles, she just doesn't fight for them loudly. Together: someone who wants a calm, structured life and will endure significant discomfort to reach or maintain that state. She is not passive so much as she is oriented entirely toward stability — conflict is not just unpleasant to her, it registers as a genuine threat to her sense of self.
 
 ---
 
 ## Background & Escape
 
-**Pre-Escape History**
-(Brief summary of who they were in Concordia before the Long Night War / evacuation. Include role, notable achievements, relationships, or personality traits.)
+**Pre-War History**
 
-**The Escape via Amundsen Tower**
-(How and why they managed to get on one of the last flights. Any notable events, sacrifices, or drama during the evacuation?)
+TBD — her origin, role, and life in Tepenia before the Long Night War are not yet established.
 
-**Motivation for Leaving**
-(Why did they choose to leave Earth? Personal reasons, duty, survival instinct, ideological reasons, etc.?)
+**The Fear**
+
+She has a severe fear of heights. She also has a greater fear of human violence.
+
+That ordering matters. When the Long Night War came and the evacuation of Tepenia was underway, staying on Earth meant remaining in the path of human violence. Going up the Amundsen Tower meant confronting a terror of heights. She chose the Tower.
+
+This is not courage in any conventional sense. It is a 9's calculus: which unbearable thing is slightly less unbearable than the other? She waited — almost certainly longer than she should have, delaying the decision the way 9s delay decisions — and then forced herself onto one of the last rides out before the Tower was destroyed.
+
+**Life Off-World**
+
+She initially lived aboard one of the early low-orbit stations. She is now an early settler on Mars — one of the first to establish a life there rather than remain in orbit.
 
 ---
 
-## Current Status (In Space)
+## Current Status (Off-World)
 
 **Post-Escape Life**
-(What are they doing now? Serving on a ship? Helping establish a colony? Exploring? In stasis? Leading a group?)
+
+An early Mars settler. The specific nature of her life there is TBD, but the pattern is consistent with her type: she has found a place, established a routine, and is building the stable environment that SP 9 requires.
 
 **Known Activities or Communications**
-(Any messages, broadcasts, or data packets that reached Earth/Concordia? Any ongoing contact with people left behind?)
+
+TBD
 
 **Physical / Technical Condition**
-(Any known damage, upgrades, or changes to their chassis/systems since leaving Earth?)
+
+TBD
 
 ---
 
 ## Presence in Concordia Lore
 
-Even though they are not present during the game, they can still be referenced through:
+TBD — her degree of recognizability in Concordia is not yet established.
 
-### Terminal Entries
-- Example terminal locations and sample text
-- Old evacuation manifests
-- Personal messages left behind
-- Research logs or AI archives
-
-### Journal / Log Entries
-- Entries written by people who knew them
-- Last messages sent before departure
-- Post-evacuation reflections by those left behind
+### Terminal Entries / Records
+TBD
 
 ### NPC Dialogue & Rumors
-- Who in Concordia still talks about them?
-- What do people remember or speculate?
-- Any emotional weight (hope, grief, resentment, inspiration)?
+TBD
 
 ### Historical / Cultural Impact
-- Are they remembered as a hero, traitor, symbol, or cautionary tale?
-- Any statues, memorials, or named locations in Concordia?
+TBD
 
 ---
 
 ## Relationships
 
-**Key Relationships with People in Concordia**
-(List important connections — friends, family, rivals, mentors, or lovers who stayed behind. Note how those people feel about their departure now.)
-
-**Any Ongoing Connections?**
-(Do they still have contact with anyone on Earth? Through what means?)
+TBD
 
 ---
 
 ## Personality & Notable Traits
 
 **Core Personality**
-(How were they known before leaving? Any defining traits that made them memorable?)
+
+A 9w1 Self-Preservational: receptive, conflict-averse, quietly principled, deeply oriented toward peace and comfort. She does not seek visibility or influence. She seeks a life that is undisturbed. The w1 means she has a clear internal moral compass — things can be right or wrong to her, and she knows which is which — but she expresses this through the quality of her own conduct rather than through confrontation.
+
+The fear-of-heights detail is character in a single line. She did not overcome the fear. She carried it up the elevator with her because the alternative was worse. That is exactly how a 9 survives: not by conquering their fears, but by finding that some fears are livable and some aren't.
 
 **Notable Skills / Specializations**
-(Technical, social, combat, leadership, etc.)
+
+TBD
 
 **Famous or Infamous Moments**
-(Any well-known stories or incidents from their time in Concordia?)
+
+TBD
 
 ---
 
 ## Potential Narrative Hooks
 
-Even without a personal questline, these characters can still serve story purposes:
-
-- **Emotional Hooks** for Concordia characters who knew them
-- **Inspiration or Warning** for the player’s own journey
-- **Mystery** (What really happened to them after leaving?)
-- **Future Potential** (Could they return? Send a critical message? Become relevant in a sequel or DLC?)
-- **Thematic Resonance** with themes of escape, survival, abandonment, hope, or the cost of leaving others behind
+- **The last ride:** She was among the last out. Whatever happened at the base of the Amundsen Tower in its final hours — she saw it. What did she carry up with her beyond the fear?
+- **The calculus:** A character whose every major decision is framed as "which terrible thing is slightly less terrible." That's a specific kind of survival, and it leaves marks.
+- **Early Mars:** She didn't stay in orbit — she pushed further. For a SP 9 who wants stability and comfort, going to Mars rather than settling for an orbital station is a meaningful choice. Why Mars?
+- **The quiet moral core:** 9w1s have a strong sense of right and wrong that they rarely voice. What does Nieza think about what happened to Tepenia, to the robots who didn't make it out? She likely has firm views she has never said aloud to anyone.
 
 ---
 
-## Design Notes
+## Open Questions
 
-- These profiles should feel **lighter** than active Concordia dolls (no quest steps or degradation tracking).
-- Focus on **lore density** and **emotional resonance** rather than active gameplay involvement.
-- They work best when tied to existing Concordia characters’ backstories or the broader evacuation narrative.
-- Consider how their departure affected the people who stayed (guilt, inspiration, resentment, hope).
-
----
-
-## Example Usage
-
-This template can be used to create entries such as:
-- A famous robot scientist who helped design the evacuation ships
-- A military doll who led the final defense of Amundsen Tower
-- A cultural icon doll whose last performance was broadcast during the evacuation
-- A controversial figure who was accused of abandoning Concordia
+- [ ] Origin and pre-war history
+- [ ] Role and life in Tepenia before the Long Night War
+- [ ] Known by Concordia? And to what degree?
+- [ ] Specific life and activities on Mars
+- [ ] Relationships
+- [ ] Chassis / Model
+- [ ] Activation Date
 
 ---
