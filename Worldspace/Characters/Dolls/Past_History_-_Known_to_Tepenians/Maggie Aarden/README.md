@@ -9,7 +9,6 @@
 | **Full Name**                | Maggie Aarden |
 | **Common / Nickname**        | Maggie |
 | **Type**                     | Gynoid |
-| **Chassis / Model**          | TBD |
 | **Activation Date**          | TBD |
 | **Origin**                   | Midwestland — industrial yard worker |
 | **Current Status**           | TBD |
@@ -113,7 +112,6 @@ TBD
 - [ ] Current/final status
 - [ ] Degree of recognition among Concordia residents
 - [ ] Relationships
-- [ ] Chassis / Model
 - [ ] Activation Date
 
 ---

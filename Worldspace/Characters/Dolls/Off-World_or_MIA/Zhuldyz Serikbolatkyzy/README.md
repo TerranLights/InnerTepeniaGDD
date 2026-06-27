@@ -9,7 +9,6 @@
 | **Full Name**            | Zhuldyz Serikbolatkyzy |
 | **Common / Nickname**    | Zhuldyz |
 | **Type**                 | Gynoid |
-| **Chassis / Model**      | TBD |
 | **Activation Date**      | TBD |
 | **Origin**               | Kazakhstan — built as a farm hand and assistant for the Serikbolat family |
 | **Escape Date**          | Via Amundsen Tower (Long Night War evacuation) |
@@ -125,7 +124,6 @@ TBD
 - [ ] What happened to Turar during and after the Long Night War?
 - [ ] Known by Concordia? And to what degree?
 - [ ] Specific location of her Mars scrapyard
-- [ ] Chassis / Model
 - [ ] Activation Date
 - [ ] Any other relationships or community connections off-world
 

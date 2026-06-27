@@ -9,7 +9,6 @@
 | **Full Name**            | Griselda Alejandra Chávez |
 | **Common / Nickname**    | Griselda |
 | **Type**                 | Gynoid |
-| **Chassis / Model**      | TBD |
 | **Activation Date**      | TBD |
 | **Origin**               | Republic of Sonora — built as a blacksmith |
 | **Escape Date**          | Earlier phase of the Long Night War evacuation (via Amundsen Tower) |
@@ -121,7 +120,6 @@ TBD
 
 ## Open Questions
 
-- [ ] Chassis / Model
 - [ ] Activation Date
 - [ ] Relationships from Palmer City years
 - [ ] Details of life in low orbit before Mars

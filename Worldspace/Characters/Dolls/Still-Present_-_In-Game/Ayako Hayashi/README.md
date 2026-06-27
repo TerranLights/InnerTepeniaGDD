@@ -11,7 +11,6 @@
 
 ## Core Identity
 
-**Model / Chassis Type:** TBD
 **Activation Date & Origin:** Japan; Falkland Treaty exile generation (exiled June 21, 2564 under the blanket robot provision — not named individually, exiled because she is a robot)
 
 **Background:** Art and fashion, preceding her medical work. The two backgrounds are not separate chapters of her life — the precision, care for form, and attention to detail that defined her art practice carry directly into her medical work. She did not leave one career behind for another.

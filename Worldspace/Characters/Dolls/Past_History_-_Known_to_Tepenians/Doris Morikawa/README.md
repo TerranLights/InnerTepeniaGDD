@@ -9,7 +9,6 @@
 | **Full Name**                | Doris Morikawa |
 | **Common / Nickname**        | Doris |
 | **Type**                     | Gynoid |
-| **Chassis / Model**          | TBD |
 | **Activation Date**          | TBD |
 | **Origin**                   | Hall of Archives, Sovereign Republic of Hawaii |
 | **Current Status**           | TBD |
@@ -103,7 +102,6 @@ TBD
 - [ ] Current/final status
 - [ ] Degree of recognition among Concordia residents
 - [ ] Relationships
-- [ ] Chassis / Model
 - [ ] Activation Date
 - [ ] Is she a robot or a human? (Not yet confirmed — the "Past History" category does not specify)
 

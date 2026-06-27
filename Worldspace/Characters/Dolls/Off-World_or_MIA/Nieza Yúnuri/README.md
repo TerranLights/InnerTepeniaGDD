@@ -9,7 +9,6 @@
 | **Full Name**            | Nieza Yúnuri |
 | **Common / Nickname**    | Nieza |
 | **Type**                 | Gynoid |
-| **Chassis / Model**      | TBD |
 | **Activation Date**      | TBD |
 | **Origin**               | TBD |
 | **Escape Date**          | Among the last rides up the Amundsen Tower before its destruction |
@@ -120,7 +119,6 @@ TBD
 - [ ] Known by Concordia? And to what degree?
 - [ ] Specific life and activities on Mars
 - [ ] Relationships
-- [ ] Chassis / Model
 - [ ] Activation Date
 
 ---

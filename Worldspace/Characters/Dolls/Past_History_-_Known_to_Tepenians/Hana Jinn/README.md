@@ -9,7 +9,6 @@
 | **Full Name**                | Hana Jinn |
 | **Common / Nickname**        | Hana |
 | **Type**                     | Gynoid |
-| **Chassis / Model**          | TBD |
 | **Activation Date**          | TBD |
 | **Origin**                   | U.R.U.K. (Underwater Research Union: Kappa), off Hawaii |
 | **Current Status**           | TBD |
@@ -107,7 +106,6 @@ TBD
 - [ ] Current/final status and location
 - [ ] Degree of historical recognition among Concordia residents
 - [ ] Relationships
-- [ ] Chassis / Model
 - [ ] Activation Date
 
 ---
