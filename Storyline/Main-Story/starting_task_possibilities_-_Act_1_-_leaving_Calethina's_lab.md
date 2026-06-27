@@ -16,4 +16,4 @@
 7. Hydroponic Collapse
 * One of the district’s main food production facilities is failing. Secure replacement parts or expertise before the human population faces starvation.
 8. The Ossuary Request (more atmospheric)
-* The Goth community asks Calethina for a new Bridge Unit to help consecrate a new wing of the Ossuary using fallen robots’ parts. Your first mission is to retrieve specific “bones” (chassis remnants) while learning about death, memory, and legacy.
+* The Goth community asks Calethina to provide a newly activated robot to help consecrate a new wing of the Ossuary using fallen robots’ parts. Your first mission is to retrieve specific “bones” (chassis remnants) while learning about death, memory, and legacy.

@@ -9,7 +9,7 @@
 
 ## 1. Overview
 
-*Inner Tepenia* uses a layered damage mitigation system that combines **Damage Threshold (DT)** and **Damage Resistance (DR)** with a sci-fi Bridge Unit chassis.
+*Inner Tepenia* uses a layered damage mitigation system that combines **Damage Threshold (DT)** and **Damage Resistance (DR)** with a sci-fi robotic chassis.
 
 - Most baseline protection comes from the player’s robotic **chassis** and installed **augmentations**.
 - **MACHINE stats** modify how effective that protection is.
@@ -51,7 +51,7 @@ Armor and augmentations can have **per-damage-type** DT and DR values.
 
 ## 4. Base Chassis Protection (from MACHINE Stats)
 
-Every Bridge Unit has a robotic chassis that provides the foundation of their survivability.
+Every player character has a robotic chassis that provides the foundation of their survivability.
 
 **Base Formulas:**
 

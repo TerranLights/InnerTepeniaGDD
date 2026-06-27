@@ -18,17 +18,22 @@ Distribute your starting points across the 7 core attributes.
 | **E**  | **Engine**      | Operational endurance and how long you can function before burning out     | Endurance               |
 
 ### 2. Calculate Skill Points per Level
-**Formula**: `floor( (Calculation ÷ 2) + (Nerve ÷ 2) )`
+**Formula**: `2 + floor(Calculation ÷ 2) + floor(Nerve ÷ 2) + Investigation modifier, minimum 3`
 
-This determines how many skill points you gain each level (typically 3–8).
+This determines how many skill points you gain each level (typically 3–15).
+
+| Investigation | Modifier |
+|---|---|
+| 10 | +3 |
+| 8–9 | +2 |
+| 6–7 | +1 |
+| 5 | 0 |
+| 4 | −1 |
+| 2–3 | −2 |
+| 1 | −3 |
 
 ### 3. Choose Tag Skills (3 Tags)
-After determining your skill points per level, select **3 skills** to Tag.
-
-- Each Tagged skill immediately receives:  
-  **(Skill points per level) + 5**
-
-**Example**: If you have 6 skill points per level, each Tagged skill starts with **+11 points**.
+Select **3 skills** to Tag. Each Tagged skill immediately receives a flat **+15 bonus** at character creation, regardless of your stats.
 
 ### 4. Choose Traits (1 or 2)
 Traits are major, double-edged choices that define your playstyle.
@@ -43,7 +48,8 @@ Traits are major, double-edged choices that define your playstyle.
 - Governing MACHINE stats provide small passive bonuses during play.
 
 ### 6. Perks & Progression
-- Perks are earned roughly every 3 levels.
+- Perks are earned every 2 levels — 32 total perk opportunities across the base game.
+- **Level cap: 64** (base game). DLCs may raise the cap beyond 64.
 - Many perks have requirements that are much easier if you Tagged the relevant skill.
 - Hidden paths (Independent Lattice, etc.) are heavily gated by specific stat + skill + perk combinations.
 
@@ -64,7 +70,7 @@ High Investigation + Calculation + Humanity → Tag: Deception & Narrative Craft
 ---
 
 **Design Goals**
-- Strong specialization over 64 levels
+- Strong specialization across 64 levels (base game cap)
 - Real trade-offs and identity
 - Clear support for “Fuck you, not my problem” playstyles and hidden paths
 - High replayability

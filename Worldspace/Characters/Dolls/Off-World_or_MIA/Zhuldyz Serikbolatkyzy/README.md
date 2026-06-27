@@ -8,7 +8,7 @@
 |--------------------------|---------|
 | **Full Name**            | |
 | **Common / Nickname**    | |
-| **Type**                 | Doll / Bridge Unit / Advanced Robot / Hybrid |
+| **Type**                 | Android / Gynoid / Advanced Robot / Other |
 | **Chassis / Model**      | |
 | **Activation Date**      | |
 | **Escape Date**          | (Via Amundsen Tower) |
@@ -117,7 +117,7 @@ Even without a personal questline, these characters can still serve story purpos
 ## Example Usage
 
 This template can be used to create entries such as:
-- A famous Bridge Unit scientist who helped design the evacuation ships
+- A famous robot scientist who helped design the evacuation ships
 - A military doll who led the final defense of Amundsen Tower
 - A cultural icon doll whose last performance was broadcast during the evacuation
 - A controversial figure who was accused of abandoning Concordia

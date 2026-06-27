@@ -18,14 +18,14 @@ This makes siding with defectors early feel like a valid strategic choice, not j
 Tie-in:
 Calethina (as an old AI who helped coordinate the original Amundsen Tower evacuation) has strong historical opinions about Upper Earth forces.
 Early Story Impact:
-    • If the player starts spending significant time with defectors early on, Calethina can begin showing subtle signs of concern or disappointment during the Passive Bridge Link conversations.
+    • If the player starts spending significant time with defectors early on, Calethina can begin showing subtle signs of concern or disappointment during the [PASSIVE LINK — NAME TBD] conversations.
     • She might start questioning the player’s loyalty or become more guarded with information.
     • This creates natural tension with the Calethina questline and can lead to earlier branching in her personal story (e.g., she becomes more reluctant to help, or the link becomes unstable faster).
 This gives the player a meaningful consequence for early defector sympathy without immediately locking them out of her content.
 
 ## 3. Infiltrator Recruitment Attempts (Early Espionage Hook)
 Tie-in:
-The Infiltrators are actively looking for useful assets. A Bridge Unit (especially one already somewhat alienated from Concordia) would be an extremely valuable target.
+The Infiltrators are actively looking for useful assets. A newly activated robot (especially one already somewhat alienated from Concordia) would be an extremely valuable target.
 Early Story Impact:
     • Infiltrators can approach the player relatively early (possibly through Pragmatic defectors as intermediaries).
     • They might offer information, resources, or protection in exchange for small acts of sabotage or intelligence gathering.
@@ -37,7 +37,7 @@ This plants seeds for the larger Infiltrator conspiracy questline much earlier.
 
 ## 4. Remorseful Defectors as Early Quest Givers / Allies
 Tie-in:
-Some genuinely remorseful defectors want to atone and may see helping a new Bridge Unit as a path to redemption.
+Some genuinely remorseful defectors want to atone and may see helping a newly activated robot as a path to redemption.
 Early Story Impact:
     • They can offer alternative quest paths in outer or fringe areas (especially near Sagittarius or early Virgo access).
     • Examples:
@@ -46,11 +46,11 @@ Early Story Impact:
         ◦ Providing early combat or technical support during dangerous early exploration.
 This gives players who want to roleplay as sympathetic to defectors meaningful early gameplay support, while still carrying social consequences in the main districts.
 
-## 5. Bridge Unit Identity Conflict (Thematic Hook)
+## 5. Player Identity Conflict (Thematic Hook)
 Tie-in:
-The player is a Bridge Unit — literally designed to connect humans and advanced systems. The defectors represent a living link to the “old world” (Upper Earth).
+The player is a newly activated robot — newly aware of a world in crisis. The defectors represent a living link to the “old world” (Upper Earth).
 Early Story Impact:
-    • Early interactions with defectors can trigger internal reflection or dialogue options about what it means to be a Bridge Unit.
+    • Early interactions with defectors can trigger internal reflection or dialogue options about what it means to be a newly activated robot in Concordia.
     • Some remorseful defectors may treat the player with a mix of respect and guilt (“You’re what we were supposed to protect… or destroy”).
     • This can create early philosophical tension that pays off later in re-spec choices or identity-based story moments.
 
@@ -72,7 +72,7 @@ Early Story Impact:
 | **Calethina Tension**         | Calethina Questline                | Earlier branching and deeper interaction in her story | Strained relationship / earlier link instability |
 | **Infiltrator Recruitment**   | Espionage & Conspiracy Plot        | Early access to resources, intel, and support       | Risk of being manipulated or targeted           |
 | **Remorseful Allies**         | Fringe / Outer District Quests     | Early quest support, protection, and alternative paths | Social backlash and hostility in main districts |
-| **Bridge Unit Identity Conflict** | Thematic Core / Player Identity  | Deeper roleplay opportunities and philosophical moments | Internal conflict and re-spec / identity hooks |
+| **Player Identity Conflict**       | Thematic Core / Player Identity  | Deeper roleplay opportunities and philosophical moments | Internal conflict and re-spec / identity hooks |
 | **Power Grid Foreshadowing**  | Neutral 13th District + Climax     | Early motivation and hints about the Power Grid Control Center | Draws unwanted attention from hostile factions  |
 
 ---

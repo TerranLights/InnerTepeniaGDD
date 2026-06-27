@@ -19,7 +19,7 @@ Tepenians built a new society, eventually expanding into space. Further wars for
 * **Nerve Modifier** = floor((Nerve - 5) / 2)
 * **Engine** governs efficiency: reduces movement costs, reloads, item use, and grants “free” movement tiles.
 * Typical costs: Movement (1 AP/tile), Basic Attack (4–6 AP), Aimed/Special (6–8 AP), Reload/Item (2–4 AP), Hacking/Complex (6–10 AP), Powerful Abilities (8–15 AP).
-* Perks, traits, and cyberware further modify the system. Leftover AP can convert to extra movement.
+* Perks, traits, and cyberware further modify the system. Unused AP are discarded at end of turn.
 
 **MACHINE Stats** (7 core attributes on a 1–10 scale; the Tepenian interpretation of Fallout's SPECIAL system)
 * **[M]ight:** Raw physical power *(Fallout Strength equivalent)*
@@ -31,9 +31,10 @@ Tepenians built a new society, eventually expanding into space. Further wars for
 * **[E]ngine:** Operational endurance before burnout / efficiency *(no Fallout equivalent)*
 
 **Progression**
-* Skill points per level ≈ floor((Calculation + Nerve) / 2) [affected by *Investigation*]
-* Tag 3 skills for bonuses
-* Perks earned every 2 levels (easier with tagged skills)
+* Skill points per level = 2 + floor(Calculation / 2) + floor(Nerve / 2) + Investigation modifier (minimum 3)
+* Tag 3 skills for a flat **+15** bonus to each at character creation
+* Perks earned every 2 levels — 32 total perk opportunities in the base game
+* **Level cap: 64** (base game). DLCs may raise the cap beyond 64.
 * Traits: 1–2 double-edged starting choices that define playstyle
 * Re-speccing available with high costs and heavy trade-offs
 * Strong support for minmax / speedrun builds

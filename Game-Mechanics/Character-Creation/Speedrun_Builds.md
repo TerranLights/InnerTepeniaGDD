@@ -36,7 +36,7 @@ They enable dedicated players to complete the main quest (stabilizing the power 
 ---
 
 #### 3. The Explorer / Scout (Best Flexible Route)
-**Recommended MACHINE Stats**: High **Agility (A)** + High **Investigation (I)** + High **Navigation (N)** (if available)
+**Recommended MACHINE Stats**: High **Agility (A)** + High **Investigation (I)** + High **Nerve (N)**
 
 **Why it works**:
 - Superior map awareness and ability to find optimal paths between modular chapters.

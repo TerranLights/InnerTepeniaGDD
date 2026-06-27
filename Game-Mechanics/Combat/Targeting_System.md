@@ -10,11 +10,11 @@
 
 ## Core Philosophy
 
-The targeting system in *Inner Tepenia* is based on the classic **Fallout 1 & 2** called-shot VATS system (turn-based, Action-Point-driven, body-part targeting). It has been modernized and expanded to feel native to a world where the player is a **Bridge Unit** and over half the population consists of robots and hybrids.
+The targeting system in *Inner Tepenia* is based on the classic **Fallout 1 & 2** called-shot VATS system (turn-based, Action-Point-driven, body-part targeting). It has been modernized and expanded to feel native to a world where the player is a **robot** and over half the population consists of robots and hybrids.
 
 **Design Goals:**
 - Reward tactical thinking, preparation, and skill investment over pure reflex.
-- Emphasize the robotic / analytical nature of Bridge Units.
+- Emphasize the robotic / analytical nature of the player character.
 - Integrate deeply with MACHINE stats (especially Investigation, Calculation, and Nerve).
 - Create meaningful interaction with the DT/DR armor system.
 - Feel advanced and "in-universe" rather than purely game-mechanical.
@@ -47,7 +47,7 @@ Uses a hybrid resource cost instead of pure Action Points:
 **Basic Cost Formula (starting point):**
 `Cost = Base Cost + (Distance Modifier) + (Body Part Difficulty) – (Investigation Bonus)`
 
-Higher **Calculation** and **Investigation** reduce costs and/or increase accuracy.
+Higher **Calculation** increases accuracy. Higher **Investigation** reduces cost (scanning weak points lowers the processing overhead of targeting them).
 
 ### 3. Targeting & Hit Chance
 
@@ -61,11 +61,45 @@ Higher **Calculation** and **Investigation** reduce costs and/or increase accura
 - **Scanned Weak Points** — Special highlighted targets that appear after successful analysis.
 
 **Hit Chance Formula (starting point):**
-`Hit % = (Investigation × 4) + (Calculation × 2) + (Agility bonus) + (Weapon Skill) – (Distance) – (Body Part Penalty) + (Nerve Focus Bonus)`
+`Hit % = (Calculation × 4) + (Investigation × 2) + (Agility bonus) + (Weapon Skill) – (Distance) – (Body Part Penalty) + (Nerve Focus Bonus)`
 
-**Investigation** is the primary stat for this system — it represents your ability to scan and exploit weaknesses.
+**Calculation** is the primary stat for this system — it represents computing the exact trajectory, strike probability, and damage potential for each targeted component. **Investigation** is secondary — it reduces targeting costs and contributes accuracy by identifying weak points worth targeting in the first place.
 
-### 4. Special Robotic Features
+### 4. Critical Hits
+
+Critical hits in Inner Tepenia are governed by three MACHINE stats, each covering a distinct dimension of what a "perfect strike" actually means.
+
+**Critical Chance**
+
+`Crit Chance = floor(Calculation ÷ 2) % + Investigation Weak Point Bonus + NODE Bonus + weapon/perk modifiers`
+
+| Component | Source | Notes |
+|-----------|--------|-------|
+| Base crit chance | `floor(Calculation ÷ 2) %` | CAL 6 → 3%; CAL 10 → 5% |
+| Weak point bonus | `floor(Investigation ÷ 3) %` | Only applies when targeting a **scanned/identified** weak point |
+| NODE bonus | Flat +% (TBD, ~3–5%) | Applies to all shots fired from within NODE activation |
+
+**Investigation's weak point bonus does not apply to unscanned targets.** It rewards players who spend the AP to scan enemies first — the crit is the payoff for having done the reconnaissance.
+
+**Critical Severity — governed by Nerve**
+
+Nerve does not add to crit *chance*. It determines what the critical hit *does* beyond a raw damage multiplier.
+
+| Nerve | Crit Outcome |
+|-------|-------------|
+| 1–4 | Extra damage only (standard multiplier, TBD) |
+| 5–6 | Crit may cause a light status: Stagger or minor Sensor Scramble |
+| 7–8 | Crit reliably causes a meaningful status: Joint Lock, Overheat, or EMP burst |
+| 9–10 | Crit can trigger a cascade failure on robot enemies — a critical to the power core destabilizes adjacent systems |
+
+**The three-stat model:**
+- **Calculation** — determines how often crits happen ("I computed the perfect strike vector")
+- **Investigation** — unlocks crit bonuses by identifying where the weaknesses are ("I already knew where the armor plating gaps were")
+- **Nerve** — determines what the crit accomplishes beyond numbers ("I didn't flinch when the window opened")
+
+These three dimensions are independent. A high-Calculation / low-Nerve character crits often but deals only bonus damage. A high-Nerve / moderate-Calculation character crits rarely but causes cascading system failures when it happens. A player who invests in all three gets the full picture: frequent crits, preferentially against scanned weak points, that reliably cause status effects.
+
+### 5. Special Robotic Features
 
 These features differentiate the system from classic Fallout VATS:
 
@@ -96,16 +130,10 @@ These features differentiate the system from classic Fallout VATS:
 ## Design Notes & Future Expansion
 
 - Strong synergy with the DT/DR layered protection system.
-- Investigation becomes a highly desirable stat for combat-focused players.
-- The system should feel like a natural extension of being a Bridge Unit rather than an external game mechanic.
+- Calculation and Investigation are both highly desirable for combat-focused players, for different reasons: Calculation for raw accuracy and crit frequency, Investigation for cost efficiency and weak point exploitation.
+- The system should feel like a natural extension of the player's robotic nature rather than an external game mechanic.
+- Nerve's crit severity role means a high-Nerve combat build can be effective without stacking raw damage — cascade failures and status effects create a distinct tactical identity.
 - Visuals: Glowing targeting reticles, wireframe overlays, data readouts, subtle digital "scanning" effects.
 - Audio: Low mechanical hums, data processing sounds, synthetic voice confirmations ("Target acquired. Weak point locked.").
-
-This document serves as the foundation. We can iterate on specific formulas, body-part effects, perk integrations, and visual/audio design as needed.
-
----
-
-**Ready for your repo.**
-You can paste this directly into `Game-Mechanics/Combat/Targeting_System.md`.
 
 Let me know when you're ready to expand any section (formulas, body parts list, perks, visual design, etc.) or if you'd like adjustments!

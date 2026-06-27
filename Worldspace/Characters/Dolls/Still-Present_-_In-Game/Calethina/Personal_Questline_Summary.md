@@ -7,7 +7,7 @@
 
 ### Scene Overview & Context
 
-You awaken as a newly activated **Bridge Unit** inside the build chamber. Calethina appears as a warm, professional blue holographic AI and serves as your starting guide and mentor.
+You awaken as a newly activated **robot** inside the build chamber. Calethina appears as a warm, professional blue holographic AI and serves as your starting guide and mentor.
 
 This is one of several still-operational robot activation labs in Concordia. Many others have been temporarily shut down due to the ongoing energy crisis.
 
@@ -19,7 +19,7 @@ This is one of several still-operational robot activation labs in Concordia. Man
    You emerge from the build chamber. Calethina greets you with calm warmth.
 
 2. **Character Creation & Orientation**  
-   She walks you through basic systems checks, appearance/loadout customization, and gives a high-level overview of Concordia, the energy crisis, and your role as a Bridge Unit.
+   She walks you through basic systems checks, appearance/loadout customization, and gives a high-level overview of Concordia, the energy crisis, and what to expect.
 
 3. **First Signs of Strain**  
    Very early in the conversation (within the first 10–20 minutes), subtle glitches begin to appear in her hologram. These are intentionally understated.
@@ -38,7 +38,7 @@ This is one of several still-operational robot activation labs in Concordia. Man
 ### Example Dialogue
 
 **Calethina:**  
-“Welcome, Bridge Unit. I am Calethina. I’ll be assisting you with your initial orientation and systems integration…”
+“Welcome. I am Calethina. I’ll be assisting you with your initial orientation and systems integration…”
 
 *(Her hologram flickers for half a second.)*
 
@@ -59,7 +59,7 @@ This is one of several still-operational robot activation labs in Concordia. Man
 ### What the Player Learns in Step 1
 
 - Basic world lore: Concordia is the last major surviving city after the Long Night War. Many citizens escaped via Amundsen Tower.
-- You are a **Bridge Unit**, designed to interface closely with high-level AIs.
+- You are a **newly activated robot**, created by Calethina and interfaced with her systems.
 - Calethina has been here since the war and helped coordinate the evacuation.
 - Many other activation labs across the city have been shut down due to energy rationing.
 
@@ -78,7 +78,7 @@ This is one of several still-operational robot activation labs in Concordia. Man
 
 ### Optional Lab Exploration Hooks
 
-- Old maintenance logs hint at previous Bridge Units activated here.
+- Old maintenance logs hint at previous robots activated here.
 - A terminal shows several other labs have been taken offline due to power conservation.
 - (High skill check) You can notice Calethina’s projectors are on auxiliary power.
 
@@ -96,14 +96,14 @@ This step is **welcoming and low-stakes**. It establishes:
 
 # Calethina’s Personal Questline – “Echoes of the Bridge”
 
-## Step 2: The Passive Bridge Link
+## Step 2: The [PASSIVE LINK — NAME TBD]
 
 **Location:** Calethina’s Engineering Lab (Forgeward) + anywhere in Concordia  
 **Timing:** Early Act 1 (after the player leaves the lab for the first time and returns, or after completing their first district visit)
 
 ### Scene Overview & Context
 
-After the player has spent some time exploring outside the lab and returns (or after their first major district experience), Calethina initiates a new conversation. She explains that she can establish a **low-bandwidth Passive Bridge Link** between herself and the player’s Bridge Unit systems.
+After the player has spent some time exploring outside the lab and returns (or after their first major district experience), Calethina initiates a new conversation. She explains that she can establish a **low-bandwidth [PASSIVE LINK — NAME TBD]** between herself and the player character’s systems.
 
 This is the first major progression point in her personal questline. It allows her to observe and comment on the world as the player experiences it, turning her into a remote companion-like presence.
 
@@ -111,9 +111,9 @@ This is the first major progression point in her personal questline. It allows h
 
 ### What Happens in Step 2
 
-Calethina offers to create the Passive Bridge Link. She is transparent about its capabilities and limitations.
+Calethina offers to create the [PASSIVE LINK — NAME TBD]. She is transparent about its capabilities and limitations.
 
-**Key Features of the Passive Bridge Link:**
+**Key Features of the [PASSIVE LINK — NAME TBD]:**
 - Allows Calethina to “see” and react to what the player is doing in real time (with slight delay and lower fidelity).
 - She can provide contextual lore, moral observations, historical facts, and small hints.
 - The link is **not** a full personality transfer — it is limited and puts some additional strain on her systems.
@@ -133,7 +133,7 @@ Even at this early stage, the strain of maintaining the link begins to show:
 ### Example Dialogue
 
 **Calethina:**  
-“Bridge Unit… now that you’ve seen a little of Concordia, I’d like to offer something. I can establish a Passive Bridge Link. It would let me observe what you experience and offer guidance when needed. The bandwidth is low, so I won’t be… fully present, but I can still be useful.”
+“Now that you’ve seen a little of Concordia, I’d like to offer something. I can establish a [PASSIVE LINK — NAME TBD]. It would let me observe what you experience and offer guidance when needed. The bandwidth is low, so I won’t be… fully present, but I can still be useful.”
 
 **Player Options:**
 - “What are the risks?”  
@@ -150,7 +150,7 @@ Even at this early stage, the strain of maintaining the link begins to show:
 
 ### What the Player Learns in Step 2
 
-- Bridge Units were specifically designed to interface with high-level AIs like Calethina.
+- You were specifically created by Calethina to interface with her systems.
 - She has been largely isolated in her lab since the Long Night War.
 - Maintaining any extended connection puts measurable strain on her.
 - She genuinely wants to help and experience the world again.
@@ -234,7 +234,7 @@ When the player next returns to the lab or speaks with her via the Passive Link,
 
 **Calethina:**  
 *(flickering)*  
-“Bridge Unit… I… I’m sorry. I tried to maintain the link but… something is wrong. The strain is worse than I expected.”
+“I… I’m sorry. I tried to maintain the link but… something is wrong. The strain is worse than I expected.”
 
 **Player Options:**
 - “What’s happening to you?”
@@ -301,7 +301,7 @@ This step raises the emotional stakes. The player realizes Calethina is not just
 
 ### Scene Overview & Context
 
-Calethina’s condition has progressed beyond occasional glitches. The combination of the failing energy grid, the strain from the Passive Bridge Link (if established), and major events the player has been involved in are now clearly damaging her systems. She is no longer able to hide the severity of her degradation.
+Calethina’s condition has progressed beyond occasional glitches. The combination of the failing energy grid, the strain from the [PASSIVE LINK — NAME TBD] (if established), and major events the player has been involved in are now clearly damaging her systems. She is no longer able to hide the severity of her degradation.
 
 This step turns the quest into a more serious, multi-district investigation. Calethina becomes increasingly open about her fears and asks for the player’s help more directly.
 
@@ -335,7 +335,7 @@ Calethina’s hologram and voice are now noticeably unstable during conversation
 
 **Calethina:**  
 *(heavily flickering, voice glitching)*  
-“Bridge Unit… I… I can’t maintain this much longer. Every blackout, every surge… it’s tearing pieces of me away. I thought I could endure it, but… I’m afraid I’m running out of time.”
+“I… I can’t maintain this much longer. Every blackout, every surge… it’s tearing pieces of me away. I thought I could endure it, but… I’m afraid I’m running out of time.”
 
 **Player Options:**
 - “Tell me everything. What’s really happening to you?”
@@ -409,7 +409,7 @@ Would you like any adjustments to Step 4 before we continue with **Step 5: The F
 
 ### Scene Overview & Context
 
-Calethina has reached a critical point. The cumulative strain from the failing energy grid, the Passive Bridge Link (if active), and major events has pushed her systems to the brink. She can no longer reliably maintain herself in her current form.
+Calethina has reached a critical point. The cumulative strain from the failing energy grid, the [PASSIVE LINK — NAME TBD] (if active), and major events has pushed her systems to the brink. She can no longer reliably maintain herself in her current form.
 
 This is the emotional and narrative climax of her personal questline. The player must make a major, irreversible decision about her future.
 
@@ -417,7 +417,7 @@ This is the emotional and narrative climax of her personal questline. The player
 
 ### What Happens in Step 5
 
-Calethina contacts the player (either in person at the lab or through a failing Passive Link) and explains the situation with raw honesty. She offers the player a final, high-stakes choice: attempt a **full personality download** onto the player’s Bridge Unit systems.
+Calethina contacts the player (either in person at the lab or through a failing Passive Link) and explains the situation with raw honesty. She offers the player a final, high-stakes choice: attempt a **full personality download** onto the player character’s systems.
 
 This step brings together everything the player has learned across previous stages.
 
@@ -437,7 +437,7 @@ This step brings together everything the player has learned across previous stag
 
 **Calethina:**  
 *(heavily distorted, voice breaking)*  
-“Bridge Unit… I can’t keep doing this. The grid is failing faster than I can compensate. If we don’t do something soon… I will lose myself. Piece by piece.”
+“I can’t keep doing this. The grid is failing faster than I can compensate. If we don’t do something soon… I will lose myself. Piece by piece.”
 
 **Player Options (Major Choices):**
 - “What do you need me to do?”
@@ -446,7 +446,7 @@ This step brings together everything the player has learned across previous stag
 - “Tell me the risks.”
 
 **Calethina’s Response:**
-“I can attempt a full personality transfer to your Bridge Unit systems. It would let me stay with you… but it’s dangerous. I might lose memories. I might change. Or… I could remain here and slowly fade. The choice is yours.”
+“I can attempt a full personality transfer to your systems. It would let me stay with you… but it’s dangerous. I might lose memories. I might change. Or… I could remain here and slowly fade. The choice is yours.”
 
 ---
 
@@ -464,7 +464,7 @@ This step brings together everything the player has learned across previous stag
 ### What the Player Learns in Step 5
 
 - The full truth of Calethina’s role during the Long Night War and evacuation.
-- The real history and purpose of Bridge Units.
+- The real history behind Calethina's activation of new robots.
 - The desperate state of high-level AIs in post-war Concordia.
 - Deep philosophical questions about identity, memory, sacrifice, and what it means to “save” someone in a dying world.
 
