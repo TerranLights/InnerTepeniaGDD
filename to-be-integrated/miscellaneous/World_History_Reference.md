@@ -258,18 +258,43 @@ The farther the origin city from Concordia, the harder and more dangerous the ov
 
 ## Upper Earth
 
-**Status:** Confirmed real off-world location — details TBD
+**Status:** Core facts confirmed
 
-Upper Earth refers to the off-world human presence — orbital installations, potentially lunar or further colonies. The phrase implies these locations are literally "above" Earth.
+**Definition:** The non-Antarctic surface of the planet — the geographic "upper" relative to Antarctica.
 
-**What is known:**
-- People evacuated from Antarctica to Upper Earth via the Space Elevator before it was destroyed
-- The Echoes of Amundsen believe reunion with the off-worlders is possible and worth working toward
-- Upper Earth Defector factions in Concordia are people who left Upper Earth and came back to Antarctic/Tepenian territory — suggesting Upper Earth is not uniformly desirable to those who live there
-- The off-worlders (or their descendants) are presumably still alive in some form
+**Current state (game's present):** Upper Earth is aware that survivors remain in Concordia. They no longer care. Tepenia is so thoroughly broken — no space access, no military capacity, no ability to project power — that Upper Earth has concluded it is no longer a threat. The attitude is not active hostility but indifference. Concordia has been written off.
 
-**What is TBD:**
-- The current state of Upper Earth
-- Why some people defected back to Concordia
-- The War of Upper Earth's relationship to the current state of Upper Earth
-- Whether communication with Upper Earth is possible (the Echoes are trying)
+**The Upper Earth Defectors:** People who left Upper Earth voluntarily and came to Tepenia. They left the winning side — the reasons for individual defectors are TBD and likely vary, but the fact of their defection places them permanently outside Upper Earth's social and political world.
+
+---
+
+## The Off-World Evacuees
+
+**Status:** Confirmed alive and established
+
+The people who evacuated Tepenia via Amundsen Tower before its destruction are alive. They have not merely survived — they have built.
+
+**Current infrastructure (game's present):**
+- Orbital installations around Earth
+- Infrastructure inside and around the moons of Mars (Phobos and Deimos)
+- Active plans to colonize Mars itself; some robots already living on Mars
+- Presence further into the inner solar system, moving toward Venus
+- Data infrastructure in the space between Venus and Earth
+
+The evacuee civilization has outgrown Tepenia in every material sense. They are not a struggling remnant — they are a developing off-world society.
+
+**The asymmetry:** Concordia does not know the state of the evacuees. The Echoes of Amundsen are trying to contact a civilization that has moved on significantly since departure. Whether the evacuees are looking back — and if so, what they see when they look — is TBD.
+
+**Named evacuees in Concordia:** Referenced in scattered journals, terminal entries, and audio logs in Concordia. Specific individuals, which residents knew them, and the nature of those connections are TBD — intended as environmental storytelling discoveries for the player.
+
+---
+
+## The Echoes of Amundsen
+
+**Status:** [TENTATIVE] — Grok-suggested faction; developer has not finalized their inclusion or design
+
+The Echoes of Amundsen are a faction that preserves hope of eventual reunion with the off-world evacuees and maintains signal towers attempting to contact orbit. Their name references Amundsen Station — the South Pole site of the destroyed Tower.
+
+**The dramatic irony of their situation (if the faction is kept):** They are trying to contact a civilization that has moved significantly beyond what they left. The evacuees are alive, prospering, and building toward Mars and Venus. Whether the Echoes know this, suspect it, or believe the evacuees are struggling is a significant character question. Whether the evacuees would respond — and what they would say — is another.
+
+**Design status:** Tentative. The developer has not decided whether to keep this faction, redesign it, or replace it entirely. All content associated with the Echoes should be treated as provisional until that decision is made.
