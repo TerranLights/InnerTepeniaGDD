@@ -1,6 +1,6 @@
 # Tepenian Federation — Cities Overview
 
-All Tepenian cities grew from real Antarctic research stations (see station-to-city mapping in `to-be-integrated/miscellaneous/World_History_Reference.md`). Most coastal cities were destroyed during the Long Night War. Concordia (inland, Dome C) is the last major surviving city.
+All Tepenian cities grew from real Antarctic research stations. Full mapping: see `Station_to_City_Map.md` (same directory). Summary also in `to-be-integrated/miscellaneous/World_History_Reference.md`. Most coastal cities were destroyed during the Long Night War. Concordia (inland, Dome C) is the last major surviving city.
 
 | City | Based On | Status | Notes |
 |---|---|---|---|
