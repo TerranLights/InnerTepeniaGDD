@@ -25,13 +25,13 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
 | Palmer Station | USA | **Palmer City** ✓ | Destroyed | First settled location in Tepenia; cultural/entertainment capital; 100 Miles Davis Blvd. |
-| Rothera Station | UK | Rothera | Destroyed | Major British station on Adelaide Island |
-| Esperanza Base | Argentina | Esperanza | Destroyed | Oldest continuously occupied station; historic families |
-| Marambio Base | Argentina | Marambio | Destroyed | Has a runway — likely a logistics/transport hub in-game |
-| King Sejong | Unified Korea | Sejong | Destroyed | Korean station; Unified Korea's presence in Tepenia |
-| Juan Carlos I | Spain | Juan Carlos | Destroyed | Spanish station, Livingston Island |
-| Signy Station | UK | Signy | Destroyed | South Orkney Islands; northernmost Tepenian outpost |
-| Port Lockroy | UK | Port Lockroy | Historical site | Pre-exile expedition base; likely ruins/memorial in-game |
+| Rothera Station | UK | **Rothera** ✓ | Destroyed | Major British station on Adelaide Island |
+| Esperanza Base | Argentina | **Esperanza** ✓ | Destroyed | Oldest continuously occupied station; historic families |
+| Marambio Base | Argentina | **Marambio** ✓ | Destroyed | Has a runway — likely a logistics/transport hub in-game |
+| King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station; Unified Korea's presence in Tepenia |
+| Juan Carlos I | Spain | **Juan Carlos** ✓ | Destroyed | Spanish station, Livingston Island |
+| Signy Station | UK | **Signy** ✓ | Destroyed | South Orkney Islands; northernmost Tepenian outpost |
+| Port Lockroy | UK | **Port Lockroy** ✓ | Historical site | Pre-exile expedition base; likely ruins/memorial in-game |
 
 ---
 
@@ -39,7 +39,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
-| Halley Stations I–VI | UK | Halley | Destroyed | Built on floating ice shelf — structurally unusual; Halley is a confirmed Arcanet subnet |
+| Halley Stations I–VI | UK | **Halley** ✓ | Destroyed | Built on floating ice shelf — structurally unusual; Halley is a confirmed Arcanet subnet |
 | Belgrano Station II | Argentina | **Belgrano** ✓ | Destroyed | Confirmed city name |
 
 ---
