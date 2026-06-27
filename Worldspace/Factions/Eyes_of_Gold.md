@@ -95,8 +95,6 @@ Their relationship with **Ji-Eun Kim** (and through her, with the nanotech resea
 
 **Faction Devotion ending:** See `Storyline/Endings/Secret-Endings/Faction_Devotion_Endings.md` — FD-1, *The Gilded Record*.
 
-> **Note:** The FD-1 ending is flagged for revision. It was written before the Bond mythology and gold ocular details were established. The ending's archive-intelligence framing is valid but needs to incorporate the faction's cultural identity and the gold optic as a meaningful element.
-
 ---
 
 ## Design Notes
