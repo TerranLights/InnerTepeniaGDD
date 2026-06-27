@@ -152,12 +152,13 @@ From 2318 to the Falkland Treaty (June 21, 2564) — 246 years — robots had fu
 
 A robot nightclub DJ. Her case — a violent dispute with a Mafioso boss who was exploiting her labor without paying her — triggered the April 27, 2318 Jeju-do court ruling that gave robots full legal personhood. She is, in effect, the historical catalyst for robot legal personhood in this world.
 
-Her significance to the game's world is comparable to a founding legal figure. Whether she is referenced in-game (memorials, records, audio logs, cultural references), and how much Concordia's robot population knows or cares about her, is TBD.
+Her significance to the game's world is comparable to a founding legal figure — robot personhood, and the 246 years of rights that followed, trace back to her case.
+
+**In-game presence:** Gyeong-ja Yun does not appear as a character or location in the game. She is referenced in cultural knowledge — robots in Concordia know her name and what she represents. The specific form those references take (terminal entries, dialogue, murals, etc.) is TBD during content development.
 
 **What is TBD:**
 - What happened to her after the ruling
-- Whether she appears in any in-game references
-- How she is regarded in Tepenia's collective memory
+- The specific in-game references and where they appear
 
 ---
 
@@ -172,9 +173,11 @@ Also known colloquially as **the Iron Federation**. A post-war reconstruction of
 - It was built from the collapse of China following some war (which war, when, TBD)
 - It was significant enough to be one of the three powers that made Jeju-do a meaningful neutral venue
 
+**Development note:** The Sinian Federation is intentionally underdeveloped in the GDD until the developer has a clearer picture of what the country is actually like. No stories are set there for this reason. It exists as a named entity and a reference point in the world's geopolitical history, but its internal character is not yet defined.
+
 **What is TBD:**
 - Which war caused China's collapse and the federation's formation
-- The federation's political structure
+- The federation's political structure and character
 - Its role in the War of Upper Earth
 - Whether it still exists in the game's present
 
