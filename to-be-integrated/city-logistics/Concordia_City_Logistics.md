@@ -64,21 +64,33 @@ Algae farming is the city's most efficient food production method per square met
 
 ### Livestock
 
-Space constraints and energy demands limit but do not eliminate livestock farming. Livestock operations are concentrated in areas with adequate space and waste-processing capability.
+The primary protein source for Concordia's human population comes from four herded species — selected because each is specifically adapted to the conditions that make most large livestock impractical here. Standard cattle are absent at any meaningful scale: the feed demands, the space requirements, and the absence of any high-altitude adaptation make them untenable. What replaced them is better suited to Concordia than cattle would have been even in a temperate city.
 
-**Species present:**
+**Primary herd animals:**
 
-- **Chickens** — The most practical livestock for an enclosed city. High feed-to-protein conversion efficiency, eggs as a daily renewable resource, relatively low space requirements. Standard across multiple districts.
+- **Yaks** — The best overall fit for Concordia's specific conditions. Yaks evolved for the Tibetan Plateau, which sits at comparable altitude to Concordia's 3,233m. They are cold-tolerant, high-altitude adapted, and low-maintenance relative to their output. A single yak provides meat, milk (richer in fat than cow's milk, valuable in a calorie-stressed city), and yak wool — one of the warmest natural fibers available. Yaks are the Coastal Cut's primary large animal.
 
-- **Rabbits** — Extremely efficient feed conversion, fast reproduction, low space. A significant secondary protein source.
+- **Alpacas** — High-altitude adapted (Andes, similar elevation to Concordia). Lower-maintenance than yaks, easy to herd in enclosed spaces, and their fleece is lightweight, exceptionally warm, and water-resistant — properties that matter in a city where a torn dome panel is a cold-injury event. Alpacas also provide meat. They are the Coastal Cut's secondary large herd animal and have a secondary population in the Frostlands.
 
-- **Pigs** — Present, though space-intensive. Key advantage: pigs can eat organic waste (food scraps, processing byproducts), functioning as a waste-to-protein conversion system. Essential for the city's waste management and protein supply simultaneously.
+- **Sheep** — Not altitude-adapted in the same specific way, but hardy enough for enclosed heated environments and multi-resource: wool, milk, and meat from one animal. Wool production complements the alpaca fleece supply and gives the city two independent fiber streams. The Coastal Cut holds the largest sheep population.
 
-- **Goats** — Hardier than cattle, lower feed requirements. Provide milk and meat. More practical than cows in a space-constrained environment.
+- **Reindeer** — Cold-adapted rather than altitude-adapted, and the only one of the four large animals with a significant Frostlands presence. Reindeer can tolerate temperatures far below what requires full climate control, making them the most practical large animal for the Frostlands' partially damaged and semi-open dome sections. They are herded through the outer district's corridors and partially exposed paddocks — areas that would stress any other large animal and barely register for reindeer. They provide meat, milk, and hide; reindeer hide is among the warmest natural insulating materials known.
 
-- **Insects** — Mealworms, crickets, black soldier flies. Insect farming is extremely efficient: minimal space, minimal energy, can be fed on organic waste, extremely high protein content per gram. In a resource-constrained Antarctic city, insect farming is not a curiosity — it is a significant part of the protein supply chain. Cultural acceptance varies by population segment and district.
+**Supporting species:**
 
-**Note on cattle:** Standard cattle are almost certainly not viable in Concordia at scale — the space requirements for grazing and the energy requirements for feed production make them impractical. Some dairy cattle may exist in limited numbers for specific nutritional requirements, but beef is a luxury item if it exists at all.
+- **Pigs** — Not primary, but not absent. Pigs eat organic waste — food scraps, processing byproducts, agricultural waste — and convert it into protein. They are the city's biological waste processor as much as they are a food source. Every district with significant food preparation produces waste that can feed pigs; small pig operations are distributed throughout.
+
+- **Chickens** — Compact, egg-productive, and consistent. Chickens do not provide the bulk protein of the herded animals but they provide eggs daily and require minimal space and feed per calorie output. They are found in small operations across many districts, not concentrated in any single zone.
+
+- **Rabbits** — Very efficient feed-to-protein conversion, fast reproduction, minimal space. A secondary protein source that can be maintained in small facilities wherever space permits.
+
+- **Insects** — Mealworms, crickets, black soldier flies. Insect farming requires almost no space or energy, can be fed on organic waste, and produces extremely dense protein per gram. Cultural acceptance varies by district and population segment, but the practical case for insect protein in a resource-constrained Antarctic city is not marginal — it is substantial.
+
+**Geographic placement:**
+
+*Coastal Cut (primary):* The large enclosed livestock paddocks are integrated into and adjacent to the hydroponic arcology complex. The relationship is deliberate: inedible hydroponic biomass (stems, roots, crop waste, processing byproducts) becomes animal feed; animal waste is processed into the nutrient solution that feeds the hydroponics. Nothing in the Coastal Cut agricultural system is discarded. The paddocks are fully enclosed and climate-controlled, with dedicated movement corridors for herding between feeding areas, grazing areas, and processing facilities. Yaks, alpacas, and sheep are the primary animals here.
+
+*Frostlands / Sagittarius (secondary):* The outer district's partially open dome sections, which are a liability for human habitation, become an asset for the reindeer. Semi-exposed paddocks requiring minimal heating house the city's reindeer herds. This makes the Frostlands not just a frontier zone and exploration staging point but a pastoral one — large cold-adapted animals moving through the outer edges of the city's structure, herded by people who know the district's geography intimately. Some alpacas are also kept here. The Frostlands' pastoral character is a significant part of its visual identity and distinguishes it from the more industrial and technical inner districts.
 
 ### Aquaculture
 
@@ -230,10 +242,15 @@ Concordia's economy is district-based, with each district specializing according
 
 *Food and consumption:*
 - Hydroponic product stalls and markets (Coastal Cut)
+- Meat and dairy markets (Coastal Cut primary; Frostlands for reindeer products specifically)
 - Restaurants and food service (all districts, quality varies dramatically by district resource access)
 - Siligel distributors (robot-facing, in all districts)
 - Black market food operations (illegal siligel refineries, contraband food imports)
 - Insect protein vendors (some cultural resistance but widespread practical acceptance)
+
+*Fiber and textiles:*
+- Yak wool, alpaca fleece, and sheep wool are produced in quantity and processed into insulating clothing — a survival necessity in a city where a dome breach is always possible. Textile production and clothing trade are significant industries, centered in the Coastal Cut and distributed outward.
+- Reindeer hide processing (Frostlands) — hide-based insulating garments and gear for people who work in exposed areas or travel the highways.
 
 *Technology and equipment:*
 - Robot component shops (Mountain Cut primarily)
