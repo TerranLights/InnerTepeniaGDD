@@ -79,23 +79,30 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 ---
 
-## The Space Elevator
+## The Space Elevator (Amundsen Tower)
 
-**Status:** Confirmed destroyed — details TBD
+**Status:** Core facts confirmed
 
-A Space Elevator once connected Antarctica/Tepenia to the off-world colonies (Upper Earth). It has been destroyed.
+**Full name:** Amundsen Tower, named after Amundsen Station at the South Pole, where it was located.
 
-**What is known:**
-- The Echoes of Amundsen preserve "hope of eventual reunion with those who left" and maintain "signal towers trying to contact orbit" — confirming there are people off-world and the Space Elevator was the connection
-- "Amundsen" in the faction's name may refer to the Space Elevator itself, or to the person/mission that led the last major off-world departure
-- The elevator's destruction created the current situation of Concordia being cut off from Upper Earth
-- Repurposing "Tower-related scrap" is an Infamy trigger for the Echoes — the physical remains of the elevator (or its ground infrastructure) still exist
+**What it connected:** Tepenia to low-earth orbit. Not to non-Antarctic Earth (Upper Earth) — to space itself.
+
+**Who built it:** The Tepenian Federation — both robot and human citizens, though predominantly robot labor due to the extreme altitude and conditions at the South Pole. Construction spanned roughly the first half of Tepenia's existence as a country (approximately 65–75 years, beginning shortly after the Falkland Treaty and completing sometime around 2630–2640, pending exact dates). It was a source of immense national pride to the Tepenian Federation — a civilizational achievement built largely by the people who had been exiled there.
+
+**Destruction:** Upper Earth's militaries destroyed Amundsen Tower during the Long Night War using powerful weapons (specific type TBD). This was not incidental military damage — it was the deliberate destruction of Tepenia's greatest national achievement and its only connection to space, built mostly by robot labor over generations, targeting the thing that most represented what Tepenia had built for itself.
+
+**The scrap mountain:** The physical remains of Amundsen Tower are confined to the South Pole and surrounding vicinity. Concordia is approximately 1,300 km from the South Pole — the wreckage does not reach Concordia. The scrap exists as a location in the game world and is significant enough that repurposing Tower scrap is an Infamy trigger for the Echoes of Amundsen.
+
+**The Echoes of Amundsen:** Named after Amundsen Station — the South Pole site of the Tower. They maintain signal towers attempting to contact the people who evacuated via the Tower before its destruction. The name is a direct reference to the place that connected Tepenia to space, and to what was lost when it was destroyed.
+
+**The evacuees:** People who left Tepenia via the Tower before its destruction are referenced by name in Concordia — scattered across journals, terminal entries, audio logs. Specific individuals, which Concordia residents knew them, and how those relationships worked are TBD and intended as environmental storytelling discoveries for the player.
 
 **What is TBD:**
-- When the elevator was destroyed and by whom/what
-- Whether it was destroyed during the Long Night War, the War of Upper Earth, or another event
-- The current status of Upper Earth / the off-world colonies
-- Whether contact with Upper Earth is possible through means other than the elevator
+- Exact construction start and completion dates
+- The specific weapon(s) used to destroy it
+- The current status of the evacuees and their descendants in low-earth orbit / beyond
+- Whether any contact with the evacuees has been achieved or is achievable
+- Specific named evacuees and their connections to Concordia residents
 
 ---
 
