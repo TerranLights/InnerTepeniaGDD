@@ -1,37 +1,32 @@
-# Perks
+# Perks (Character Creation Overview)
 
-Perks are unlocked through leveling, challenges, or special accomplishments. They require specific MACHINE stats (1–10) and skill thresholds.
+Perks are one of the two main progression systems in Inner Tepenia, alongside Skills.
 
-**Progression rate**: One perk every 2 levels — 32 total perk opportunities across the base game (level cap: 64). DLCs may raise the cap and add additional perk slots beyond 32.
+## How Perks Work
 
-### Regular Perks (Level-Up)
+- **One perk slot every 2 levels** — 32 total perk opportunities across the base game (level cap: 64).
+- At each opportunity the player chooses **one** perk from the available pool of 160 (target).
+- Most level-up perks have **2–3 ranks**; each rank costs one perk slot.
+- Level-up perks require minimum MACHINE stat values and/or skill thresholds to unlock.
+- DLCs may raise the level cap and add perk slots beyond 32.
 
-| Perk Name                    | Requirements                              | Ranks | Effect |
-|-----------------------------|-------------------------------------------|-------|--------|
-| **Ripple Weaver**           | Investigation 6, Engine 6, Ripple Reading 50 | 2     | +20% / +35% better prediction and exploitation of power ripples/blackouts |
-| **Jury-Rig Virtuoso**       | Agility 7, Might 6, Jury-Rigging 60      | 2     | Significantly better repurposing during crises (+15% / +25% success) |
-| **Data Ghost**              | Calculation 7, Arcanet Navigation 55      | 1     | +25% stealth when hacking or extracting data |
-| **Empathic Bridge**         | Humanity 7, Empathy Protocols 50          | 2     | +15% / +25% success on emotional/compassionate dialogue |
-| **Lattice Architect**       | Calculation 7, Engine 6, Decentralized Systems Design 60 | 1 | +30% effectiveness when building/linking parallel systems |
-| **Frontier Resilience**     | Engine 6, Might 6, Frontier Survival 55   | 2     | +20% / +30% resistance to cold & harsh conditions |
-| **Narrative Weaver**        | Humanity 6, Investigation 6, Deception 55 | 1     | +25% effectiveness in information manipulation & long-term schemes |
+**Perks earned through play** (challenge perks, companion perks, quest perks, etc.) do **not** use level-up slots. They are separate, additive, and accumulate automatically. See `Game-Mechanics/Perks/Perk_Framework.md` for the full taxonomy.
 
-### Challenge Perks (Task-Based)
+## Perk Selection in Character Creation
 
-| Perk Name                        | Unlock Condition                          | Effect |
-|----------------------------------|-------------------------------------------|--------|
-| **Blackout Survivor**           | Survive 15+ natural blackouts            | +20% resistance to blackout effects, better scavenging |
-| **Node Deployer**               | Deploy 10+ decentralized power nodes     | +15% reputation with independent factions |
-| **Crisis Ripple Master**        | Exploit 12+ district power ripples       | +25% effectiveness with ripple-based combos |
-| **Faction Balancer**            | Maintain positive/neutral rep with 4+ opposing districts | Reduced Infamy when staying neutral |
+No perks are selected during character creation itself. The first perk slot opens at **Level 2**.
 
-### Special / Unique Perks
+However, character creation choices directly determine which perks become available early:
+- **MACHINE stats** gate most level-up perks (e.g., a perk requiring Calculation 7 is inaccessible until that stat is reached).
+- **Tag skills** can push a skill high enough at Level 1 to qualify for certain perks immediately at Level 2.
+- **Traits** interact with some perk prerequisites — certain trait bonuses can qualify a character for a perk one or two levels earlier than an untrait'd build.
 
-| Perk Name                        | Unlock Condition                          | Effect |
-|----------------------------------|-------------------------------------------|--------|
-| **Lattice Pioneer**             | Major progress on Independent Lattice    | Permanent +20% to all decentralized systems actions |
-| **Independent Sovereign**       | Complete Lone Lattice path               | Major personal off-grid bonuses |
-| **Phoenix Engineer**            | Significant Burn and Rebuild progress    | Bonuses to crisis acceleration & rebuilding |
-| **Narrative Sovereign**         | Complete Narrative Lattice               | +30% to deception and evidence forging |
+## Canonical Perk Files
 
-**Design Note**: Perks strongly support creative mechanical chaining and the "not my problem" philosophy.
+| File | Contents |
+|------|----------|
+| `Game-Mechanics/Perks/Regular_Perks_-_Level-Up.md` | All 61 designed level-up perks (160 target) |
+| `Game-Mechanics/Perks/Perk_Framework.md` | Full taxonomy: all perk tiers, categories, targets, design rules |
+| `Game-Mechanics/Perks/Challenge_Perks_-_Task-Based.md` | Challenge/task-based earned perks |
+| `Game-Mechanics/Perks/post-Idolization_Questline_Perks.md` | District capstone perks (24 complete) |
+| `Game-Mechanics/Perks/Special_Unique_Perks.md` | Special and unique perks |

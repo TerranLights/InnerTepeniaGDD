@@ -231,7 +231,7 @@ When designing a perk that covers territory Fallout 1/2 and FNV both cover, the 
 
 | File | Category | Status |
 |------|----------|--------|
-| `Regular_Perks_-_Level-Up.md` | Tier 1: Level-Up | Partial (~10 perks; needs ~40–50 more) |
+| `Regular_Perks_-_Level-Up.md` | Tier 1: Level-Up | Partial (61 designed; ~99 more needed to reach 160 target) |
 | `Challenge_Perks_-_Task-Based.md` | Category A: Challenge | Partial (~7 perks; needs ~100+ more) |
 | `Companion_Perks.md` | Category B: Companion | Not yet created |
 | `Quest_and_Choice_Perks.md` | Category C: Quest/Choice | Not yet created |
@@ -247,7 +247,7 @@ When designing a perk that covers territory Fallout 1/2 and FNV both cover, the 
 
 | Category | File | Target Count |
 |----------|------|-------------|
-| Level-Up | `Regular_Perks_-_Level-Up.md` | ~50–60 distinct perks |
+| Level-Up | `Regular_Perks_-_Level-Up.md` | 160 target; 61 currently designed |
 | Challenge | `Challenge_Perks_-_Task-Based.md` | ~100–150 (across ~60–75 challenges) |
 | Companion | `Companion_Perks.md` | ~25–40 |
 | Quest / Choice | `Quest_and_Choice_Perks.md` | ~50–70 |
