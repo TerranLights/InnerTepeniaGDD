@@ -58,7 +58,7 @@ All endings use the standard treatment:
 ## Notes on Tentative Content
 
 Nine of the twelve Faction Devotion endings are tagged **[TENTATIVE]** because the factions themselves were suggested by Grok and have not been confirmed by the developer. Confirmed factions are:
-- Eyes of Gold (developer-designed; ending needs revision — see flag in file)
+- Eyes of Gold (developer-designed)
 - Red Spiral (developer-designed)
 - Eternal Winter Collective / Frost Ascetics (philosophy developer-designed; name from Grok)
 
