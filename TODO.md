@@ -91,8 +91,8 @@ A running reference of outstanding design work, organized by urgency. Update as 
 - [ ] **Calethina questline — Grok notes review**
   Grok's original "Echoes of the Bridge" notes referenced a "5-step questline" and "full personality download to Bridge Unit" as a climax. These were written before the archive-narrator direction was established. The notes should be reviewed and reconciled (or discarded) before the questline is written.
 
-- [ ] **Palmer City, Fort McMurdo, and other Tepenian city lore**
-  These cities are confirmed (station-to-city mapping established) but have no developed lore beyond their existence. Palmer City has one confirmed descriptor ("Las Vegas, Atlantic City, New Orleans, and St. Petersburg all in one"). Others are blank.
+- [ ] **Fort McMurdo and other Tepenian city lore**
+  Palmer City is complete (`Worldspace/.../Cities/Palmer_City.md`). Full station-to-city map is complete (`Station_to_City_Map.md`). Fort McMurdo, Janbogo, Neumayer, Belgrano, Mirny, and others have no lore documents yet.
 
 - [ ] **City logistics — remaining open questions**
   - Exact Concordia population figures (human and robot separately)
@@ -121,3 +121,5 @@ A running reference of outstanding design work, organized by urgency. Update as 
 - [x] Off-world evacuees confirmed alive and prospering (orbit, Mars moons, toward Venus)
 - [x] Red Nebula logo files renamed to Red Spiral
 - [x] Livestock updated: yaks, alpacas, sheep, reindeer as primary herded protein; Coastal Cut + Frostlands placement; cattle as limited luxury
+- [x] Palmer City lore document written
+- [x] Full station-to-city mapping tabulated (all ~40 stations on the map)
