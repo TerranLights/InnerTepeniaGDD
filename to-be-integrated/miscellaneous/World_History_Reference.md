@@ -58,23 +58,24 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 ## The Falkland Treaty
 
-**Status:** Confirmed major historical document — details largely TBD
+**Status:** Core facts confirmed — full text planned as an in-world document
 
-The Falkland Treaty ended some conflict (the War of Upper Earth? a separate conflict?) and had significant consequences for the Antarctic/Tepenia region.
+**Signed:** June 21, 2564. Ended the War of Upper Earth.
 
-**What is known:**
-- The treaty resulted in **exile to Antarctica for certain individuals and groups** — Ji-Eun Kim was exiled under the treaty's provisions
-- The treaty is named after the Falkland Islands, which are in the South Atlantic — the geographic reference may be significant (the Falklands are a contested territory with a history of conflict between Argentina and the UK)
-- The Treaty Archive Vaults exist in the Governance Spire district; holographic seals of the Falkland Treaty are displayed there
-- The Veilkeepers faction is concerned with suppressed information about the Falkland Treaty, particularly "why the evacuation happened" — suggesting the treaty involved some kind of organized population movement (evacuation/exile) that had hidden circumstances
-- The Treaty Scholars (minor faction) study the treaty's long-term consequences
+**What it did:** Established the Federation of Tepenia as a formal country in Antarctica and mandated the exile of robots — and their human allies — from Upper Earth (non-Antarctic Earth) to Tepenia. The exile provision applied to robots as a class, not to named individuals. Any robot was subject to exile by virtue of being a robot.
+
+**Ji-Eun Kim's exile:** She was not named in the treaty. She was exiled because she is a robot. The provision was blanket — she was not singled out as dangerous or notable, she was simply caught in a clause that applied to her entire category of existence.
+
+**In-world presence:** The Treaty Archive Vaults exist in the Governance Spire district; holographic seals of the Falkland Treaty are displayed there. The Veilkeepers are concerned with suppressed information about it — specifically "why the evacuation happened," suggesting circumstances around the treaty's implementation that were not made public. The Treaty Scholars (minor faction) study its long-term consequences.
+
+**Treaty text:** The developer intends to write the actual text of the Falkland Treaty as an in-world document. Extensive research into real historical treaty formatting, language, and structure has been completed. The text has not yet been drafted.
 
 **What is TBD:**
-- The full terms of the treaty
-- Who signed it and under what circumstances
-- Why specific people/groups (like Ji-Eun Kim) were exiled under its provisions
-- What "the evacuation" was and why it happened (and what was suppressed about it)
-- The relationship between the treaty and the Space Elevator
+- The full terms beyond the exile provision
+- Who signed it and on whose authority (which Upper Earth powers were signatories)
+- What "the evacuation" was and what was suppressed about it
+- The treaty's relationship to the Space Elevator
+- Whether human allies were subject to the same blanket exile provision as robots, or under separate terms
 
 ---
 
