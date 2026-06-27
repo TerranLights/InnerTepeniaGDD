@@ -4,10 +4,10 @@ One perk slot earned every **2 levels** — **32 total slots** across the base g
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 
-**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **60/160 designed** (38%). The remaining ~100 perks are marked as pending in the placeholder section at the bottom of this file.
+**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **61/160 designed** (38%). The remaining ~99 perks are marked as pending in the placeholder section at the bottom of this file.
 
 **Target distribution: ~107 non-combat (67%) / ~53 combat (33%)**  
-Currently: 40 non-combat / 20 combat. Pending perks should maintain roughly this ratio.  
+Currently: 41 non-combat / 20 combat. Pending perks should maintain roughly this ratio.  
 Perks are primarily a system for deepening playstyle identity, not a combat improvement checklist.
 
 Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C** Calculation · **H** Humanity · **I** Investigation · **N** Nerve · **E** Engine
@@ -18,7 +18,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 
 | Perk | Requirements | Ranks | Effect |
 |------|-------------|-------|--------|
-| **Empathic Bridge** | H 7, Empathy Protocols 50 | 2 | Read the emotional state of any NPC; unlock compassionate dialogue options unavailable to others. Rank 2: NPCs in a receptive emotional state will share information they would normally withhold. |
+| **Empathic Resonance** | H 7, Empathy Protocols 50 | 2 | Read the emotional state of any NPC; unlock compassionate dialogue options unavailable to others. Rank 2: NPCs in a receptive emotional state will share information they would normally withhold. |
 | **Silver Tongue** | H 6, Diplomatic Negotiation 40 | 2 | +20% success on non-combat persuasion checks. Rank 2: after a failed persuasion check, one retry attempt per conversation becomes available. |
 | **Living Lie Detector** | I 7, Empathy Protocols 50 | 1 | Always know when an NPC is lying. Choose whether to reveal this knowledge in the moment or hold it for leverage. |
 | **Faction Whisperer** | H 7, Faction & Reputation Management 50 | 2 | Reputation gains with all factions are amplified. Rank 2: once per faction per playthrough, a single catastrophic reputation event can be walked back through subsequent positive actions. |

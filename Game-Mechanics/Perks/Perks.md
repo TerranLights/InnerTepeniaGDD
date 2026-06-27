@@ -1,37 +1,23 @@
-# Perks
+# Perks (Overview)
 
-Perks are unlocked through leveling (every **2 levels** — 32 total slots in the base game), challenges, or special accomplishments. They require specific MACHINE stats (1–10) and skill thresholds.
+This file is an index. All canonical perk content lives in the files listed below.
 
-See `Regular_Perks_-_Level-Up.md` for the full 60-perk level-up pool. This file is a summary only.
+**Progression rate**: One perk slot every **2 levels** — 32 total slots across the base game (level cap: 64). DLCs may raise the cap and add perk slots.
 
-### Regular Perks (Level-Up)
+Perks earned through play (challenge, companion, quest, etc.) do **not** use level-up slots — they accumulate separately and automatically. See `Perk_Framework.md` for the full two-tier taxonomy.
 
-| Perk Name                    | Requirements                                      | Ranks | Effect |
-|-----------------------------|---------------------------------------------------|-------|--------|
-| **Ripple Weaver**           | Investigation 6, Engine 6, Ripple Reading 50     | 2     | +20% / +35% better prediction & exploitation of blackouts/ripples |
-| **Jury-Rig Virtuoso**       | Agility 7, Might 6, Jury-Rigging 60              | 2     | Much stronger repurposing during crises |
-| **Data Ghost**              | Calculation 7, Arcanet Navigation 55             | 1     | +25% stealth on hacking & data extraction |
-| **Empathic Bridge**         | Humanity 7, Empathy Protocols 50                 | 2     | +15% / +25% success on emotional dialogue |
-| **Lattice Architect**       | Calculation 7, Engine 6, Decentralized Systems Design 60 | 1 | +30% effectiveness building parallel systems |
-| **Frontier Resilience**     | Engine 6, Might 6, Frontier Survival 55          | 2     | +20% / +30% cold & harsh environment resistance |
-| **Narrative Weaver**        | Humanity 6, Investigation 6, Deception 55        | 1     | +25% effectiveness in information manipulation |
+---
 
-### Challenge Perks (Task-Based)
+## File Index
 
-| Perk Name                        | Unlock Condition                          | Effect |
-|----------------------------------|-------------------------------------------|--------|
-| **Blackout Survivor**           | Survive 15+ natural blackouts            | +20% resistance to blackout effects |
-| **Node Deployer**               | Deploy 10+ decentralized power nodes     | +15% rep with independent factions |
-| **Crisis Ripple Master**        | Exploit 12+ district power ripples       | +25% effectiveness with ripple combos |
-| **Faction Balancer**            | Maintain positive/neutral rep with 4+ opposing districts | Reduced Infamy when staying neutral |
-
-### Special / Unique Perks
-
-| Perk Name                        | Unlock Condition                          | Effect |
-|----------------------------------|-------------------------------------------|--------|
-| **Lattice Pioneer**             | Major progress on Independent Lattice    | Permanent +20% to decentralized systems |
-| **Independent Sovereign**       | Complete Lone Lattice path               | Major personal off-grid bonuses |
-| **Phoenix Engineer**            | Significant Burn and Rebuild progress    | Bonuses to crisis acceleration |
-| **Narrative Sovereign**         | Complete Narrative Lattice               | +30% to deception & evidence forging |
-
-**Design Note**: Perks strongly reward creative mechanical chaining and the “not my problem” philosophy.
+| File | Contents | Status |
+|------|----------|--------|
+| `Regular_Perks_-_Level-Up.md` | Level-up perk pool — 61 designed, 160 target | Active |
+| `Perk_Framework.md` | Full taxonomy, design rules, target counts for all categories | Complete |
+| `Challenge_Perks_-_Task-Based.md` | Challenge/task-based earned perks | Partial (~7; target 100–150) |
+| `Companion_Perks.md` | Companion earned perks | Not yet created |
+| `Quest_and_Choice_Perks.md` | Quest completion and choice branch perks | Not yet created |
+| `post-Idolization_Questline_Perks.md` | District capstone perks | Complete (24 perks) |
+| `Skill_Milestone_Perks.md` | Skill threshold milestone perks | Not yet created |
+| `World_and_Discovery_Perks.md` | Hidden location and discovery perks | Not yet created |
+| `Special_Unique_Perks.md` | Special and unique perks | Partial |

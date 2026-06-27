@@ -1,16 +1,15 @@
-# Targeting System (VATS / C.O.R.E. / N.O.D.E.)
+# Targeting System (NODE)
 
 **File:** `Targeting_System.md`
 **Location:** `Game-Mechanics/Combat/`
-**Date:** June 23, 2026 
-**Working Title:** VATS (placeholder)
-**Final Name Candidates:** C.O.R.E. (Chassis Operational Response Enhancement) or N.O.D.E. (Neural Operating Directive Enhancement)
+
+**NODE** — Neural Operating Directive Enhancement. Inner Tepenia's equivalent of Fallout's VATS system: turn-based, Action-Point-driven, body-part targeting — rebuilt from the ground up to feel native to a world where the player is a robot.
 
 ---
 
 ## Core Philosophy
 
-The targeting system in *Inner Tepenia* is based on the classic **Fallout 1 & 2** called-shot VATS system (turn-based, Action-Point-driven, body-part targeting). It has been modernized and expanded to feel native to a world where the player is a **robot** and over half the population consists of robots and hybrids.
+The targeting system in *Inner Tepenia* is based on the classic **Fallout 1 & 2** called-shot system (turn-based, Action-Point-driven, body-part targeting). It has been modernized and expanded to feel native to a world where the player is a **robot** and over half the population consists of robots and hybrids.
 
 **Design Goals:**
 - Reward tactical thinking, preparation, and skill investment over pure reflex.
@@ -21,12 +20,9 @@ The targeting system in *Inner Tepenia* is based on the classic **Fallout 1 & 2*
 
 ---
 
-## System Flavor (Placeholder)
+## System Flavor
 
-Until we choose between **C.O.R.E.** and **N.O.D.E.**, the system is internally referred to as **VATS**.
-
-- **C.O.R.E.** flavor: Industrial, foundational — "Accessing core combat protocols."
-- **N.O.D.E.** flavor: Analytical, neural — "Running predictive targeting subroutine."
+NODE activations feel analytical and clinical — the player character's systems are genuinely doing the work. In-world, activating NODE means running a predictive targeting subroutine: the environment slows, calculations surface, probabilities resolve into choices. Flavour text during NODE should emphasise computation, not combat instinct.
 
 ---
 
