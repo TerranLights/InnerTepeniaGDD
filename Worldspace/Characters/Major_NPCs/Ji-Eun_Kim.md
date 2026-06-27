@@ -23,9 +23,9 @@ Ji-Eun fought her way to the top of her field in this environment. Not easily. T
 
 ### The Falkland Treaty and Exile to Antarctica
 
-Following the War of Upper Earth and the signing of the Falkland Treaty, Ji-Eun was **exiled to Antarctica (now the Tepenian Federation / Concordia)**. The specific circumstances of her exile — what the Falkland Treaty required and why Ji-Eun specifically was subject to its provisions — are part of the game's broader historical lore that connects to many other characters and events.
+Following the War of Upper Earth, the Falkland Treaty (June 21, 2564) mandated the exile of robots as a class from Upper Earth to the newly established Federation of Tepenia. Ji-Eun was not named in the treaty. She was exiled because she is a robot — the provision was blanket, applying to every robot regardless of individual circumstance, profession, or conduct. She was not singled out as dangerous or notable. She was simply a robot, and that was sufficient.
 
-What is known: she did not choose to come to Antarctica. She was sent here. This is a fact she carries.
+She did not choose to come to Antarctica. She was sent here. That distinction — between exile and emigration — is a fact she carries.
 
 ### Work in Antarctica
 
