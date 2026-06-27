@@ -31,6 +31,9 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ## Medium Priority
 
+- [ ] **Planetary Split Brain questline — design**
+  The Planetary Split Brain is the post-Long Night War state of the Arcanet: Amundsen Station (the inter-subnet relay at the South Pole) was destroyed, severing all six subnets from each other. Each subnet now has isolated — and sometimes conflicting — records of historical events. The questline should involve the player noticing contradictions between refugee accounts in Concordia, tracing those contradictions to the structural Split Brain, and eventually making an expedition to the South Pole ruins to access the last synchronized pre-split archive. **Core mechanic:** the player assembles a complete picture of what actually happened by reconciling conflicting subnet-specific records. Full design TBD — premise is established, structure is not.
+
 - [ ] **7 remaining district official names**
   Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, and Libra all have zodiac names but no official names yet. Official names matter for in-world documents, signage, and NPC dialogue.
 
