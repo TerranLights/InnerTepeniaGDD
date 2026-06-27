@@ -76,7 +76,10 @@ Her exile and continued work despite it suggest she values the work itself more 
 
 ## Status and Future Development
 
-- **Main game vs. DLC:** Developer is leaning toward main game inclusion. If DLC, she should still be introduced and have some presence in the main game through Calethina's narration and Eyes of Gold lore.
-- **Current location:** Unknown. Her testing facility is in ruins. She may be anywhere in Concordia, in the broader Tepenian Federation, or off the grid entirely.
+- **Main game vs. DLC:** Two options under consideration:
+  - **DLC:** Starring role; the DLC is largely centered around her personal questline; she is located in a different region of Antarctica — not Concordia. This would explain why Calethina says "may still be alive" rather than confirming her survival: Ji-Eun left the Concordia area after the Long Night War and Calethina lost her signal. She would still be introduced in the main game through Calethina's narration and Eyes of Gold lore.
+  - **Main game:** Ji-Eun is in Concordia and gets a full main-game questline alongside the Calethina and Eyes of Gold threads.
+  Decision pending.
+- **Current location:** Unknown. Her testing facility near Concordia is in ruins. If DLC, she relocated to another part of Antarctica after the Long Night War. If main game, she is somewhere in or around Concordia.
 - **Questline:** Designed to emerge from the "Echoes of the Bridge" questline as its first major active thread. The player follows Calethina's knowledge to Ji-Eun's ruins, then follows Ji-Eun herself from there.
 - **Eyes of Gold connection:** The gold ocular prosthetic surgery scene — the player receiving the Eyes of Gold's rite of passage — ideally involves Ji-Eun Kim directly, either performing the surgery herself or her designs being used by a surgeon working from her specifications. This would tie the Calethina questline, the Eyes of Gold questline, and the player's faction reward into a single moment.
