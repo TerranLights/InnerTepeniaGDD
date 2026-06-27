@@ -65,7 +65,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Smokestacks and steam vents with rhythmic industrial sounds.
 - Corporate crests and ambition slogans on every major building.
 
-### 7. Aquarius – TBN-district (Visionary / Experimental)
+### 7. Aquarius (The Labs) – Visionary / Experimental
 - Gleaming white laboratories with transparent walls showing experiments.
 - Dangerous glowing prototype testing chambers.
 - Floating holographic data displays and rotating 3D models.
@@ -95,7 +95,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Fast-paced, glitchy electronic music and overlapping voices.
 - Archives with thousands of glowing memory orbs.
 
-### 10. Pisces – The TBN Black Market (Black Market / Underworld)
+### 10. Pisces (The Markets) – Black Market / Underworld
 - Hidden entrances behind neon signs and false walls.
 - Dimly lit underground bazaars with shifting stall layouts.
 - Smuggler safehouses with multiple escape routes.
@@ -115,7 +115,7 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Harsh wind sounds mixed with distant howls.
 - Makeshift memorials for lost explorers.
 
-### 12. Virgo – Concordia Undergrid (Maintenance / Service)
+### 12. Virgo (The Undergrid) – Maintenance / Service
 - Extensive tunnel networks with clearly marked maintenance hatches.
 - Utility hubs with repair bays and tool walls.
 - Pressure and flow monitoring stations with gauges everywhere.

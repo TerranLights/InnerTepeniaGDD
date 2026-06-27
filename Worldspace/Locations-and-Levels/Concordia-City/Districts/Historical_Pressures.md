@@ -66,7 +66,7 @@ Capricorn: Discipline, long-term ambition, structure, responsibility, and relent
 * Ongoing Resource Competition: Chronic competition with Aries for energy, Virgo for labor/materials, and external pressures from Sagittarius frontier needs have reinforced Capricorn’s “we build what others rely on” identity while fostering pragmatic (sometimes ruthless) political maneuvering.
 
 
-## District 7: Aquarius (TBN-district) – Innovation / Experimental
+## District 7: Aquarius (The Labs) – Innovation / Experimental
 #### Zodiac Principle:
 Aquarius: Innovation, humanitarian progress, eccentricity, collective ideals, and radical future-thinking. This district is Concordia’s laboratory of tomorrow: unconventional, idealistic, and often dangerously detached from immediate practical concerns.
 
@@ -99,7 +99,7 @@ Gemini: Duality, communication, adaptability, curiosity, and the rapid exchange 
 * Ongoing Bandwidth & Censorship Struggles: Chronic power throttling from Aries and regulatory pressure from Libra have forced the district into constant optimization battles, underground relays, and gray-market data trades (often with Pisces).
 
 
-## District 10: Pisces (TBN-district) – Dissolution / Black Market / Dream & Vice
+## District 10: Pisces (The Markets) – Dissolution / Black Market / Dream & Vice
 #### Zodiac Principle:
 Pisces: Fluidity, dissolution of boundaries, compassion through suffering, escapism, spirituality, and the merging of reality with illusion. This district is Concordia’s hidden underbelly and dreamscape: porous, seductive, and where the city’s rules, identities, and resources quietly dissolve and reform.
 
@@ -121,7 +121,7 @@ Sagittarius: Adventure, exploration, optimism, freedom, and the pursuit of dista
 * Ongoing Tension with Central Authority: Chronic neglect from Libra’s central planning and resource competition with Capricorn has reinforced Sagittarius’ independent, libertarian streak and occasional secessionist sentiments.
 
 
-## District 12: Virgo (TBN-district) – Undergrid / Maintenance / Service
+## District 12: Virgo (The Undergrid) – Maintenance / Service
 #### Zodiac Principle:
 Virgo: Precision, service, analytical perfectionism, practical problem-solving, and humble dedication to keeping systems functional. This district is Concordia’s hidden circulatory and nervous system: the vast undergrid of tunnels, pipes, conduits, and maintenance networks that literally and figuratively holds the entire city together.
 
