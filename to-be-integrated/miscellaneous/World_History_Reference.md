@@ -4,6 +4,26 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 ---
 
+## The Nuclear War of 2083
+
+**Status:** Confirmed — core facts established
+
+**Date:** September 26, 2083.
+
+**Nature:** A global nuclear war that permanently reshaped the world. Countries collapsed. Borders were redrawn. Existing geopolitical orders were destroyed and rebuilt in forms that persisted into the centuries that followed.
+
+**Significance:** The 2083 war is the foundational rupture of the game's world — the event that broke the previous geopolitical order and created the conditions from which the world of Inner Tepenia eventually grew. It predates the Falkland Treaty by nearly five centuries but the countries, power structures, and grievances that produced the War of Upper Earth all have roots in the reconstruction that followed 2083.
+
+**Coincidence:** In the same year — 2083 — the first fully sentient, fully conscious robot was created at U.R.U.K. (the Underwater Research Union: Kappa), off the coast of the Sovereign Republic of Hawaii. The conjunction of the nuclear war and the birth of robot sentience in the same year is not confirmed as causal, but it is the year in which both the world's old order ended and the new category of being that would eventually upend the rebuilt order appeared.
+
+**What is TBD:**
+- Specific causes and triggering events
+- Which nations or power blocs were the primary combatants
+- Scale of damage and how long reconstruction took
+- Which of the game's known geopolitical entities (Unified Korea, Sinian Federation, Sovereign Republic of Hawaii) emerged directly from the post-2083 reconstruction vs. predating it
+
+---
+
 ## The War of Upper Earth
 
 **Status:** Confirmed — core facts established
@@ -91,7 +111,7 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 **Destruction:** Upper Earth's militaries destroyed Amundsen Tower during the Long Night War using powerful weapons (specific type TBD). This was not incidental military damage — it was the deliberate destruction of Tepenia's greatest national achievement and its only connection to space, built mostly by robot labor over generations, targeting the thing that most represented what Tepenia had built for itself.
 
-**The scrap mountain:** The physical remains of Amundsen Tower are confined to the South Pole and surrounding vicinity. Concordia is approximately 1,300 km from the South Pole — the wreckage does not reach Concordia. The scrap exists as a location in the game world and is significant enough that repurposing Tower scrap is an Infamy trigger for the Echoes of Amundsen.
+**The scrap mountain:** The physical remains of Amundsen Tower are confined to the South Pole and surrounding vicinity. Concordia is approximately 1,660 km from the South Pole — the wreckage does not reach Concordia. The scrap exists as a location in the game world and is significant enough that repurposing Tower scrap is an Infamy trigger for the Echoes of Amundsen.
 
 **The Echoes of Amundsen:** Named after Amundsen Station — the South Pole site of the Tower. They maintain signal towers attempting to contact the people who evacuated via the Tower before its destruction. The name is a direct reference to the place that connected Tepenia to space, and to what was lost when it was destroyed.
 
@@ -205,7 +225,7 @@ Also known colloquially as **the Iron Federation**. A post-war reconstruction of
 
 **Why Concordia survived the Long Night War:**
 
-The majority of Tepenian cities were on or near coastlines — easy targets for Upper Earth's militaries during the Long Night War. Most were destroyed or left in ruins. Concordia survived due to its geographic position: deep inland (~1,700 km from the coast), difficult to reach, and capable of self-support through its own resources.
+The majority of Tepenian cities were on or near coastlines — easy targets for Upper Earth's militaries during the Long Night War. Most were destroyed or left in ruins. Concordia survived due to its geographic position: deep inland (~1,100 km from the coast), difficult to reach, and capable of self-support through its own resources.
 
 Other inland stations were not viable alternatives:
 - **Dome Fuji** — inland but at ~3,810m altitude, too high for sustainable habitation at scale

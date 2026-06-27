@@ -7,7 +7,7 @@ The fictional Concordia is a "city-fication" of the real Concordia Station — a
 **Real Concordia Station key facts:**
 - Coordinates: 75°06'S, 123°21'E
 - Altitude: ~3,233 meters above sea level (high-altitude effects are significant)
-- Distance from coast: ~1,700 km (one of the most inland points on Earth)
+- Distance from coast: ~1,100 km | Distance from South Pole: ~1,660 km
 - Summer population (real): ~60 people; winter (real): ~13 people
 - Temperature range: −25°C in summer to below −80°C in winter (average winter around −50°C)
 - Annual snowfall: minimal (Concordia is technically a polar desert — very dry)
@@ -96,7 +96,7 @@ The primary protein source for Concordia's human population comes from four herd
 
 ### Aquaculture
 
-Despite being ~1,700 km from the coast, Concordia operates indoor aquaculture systems. Fish farming does not require proximity to the ocean — it requires water, controlled temperature, and appropriate feed.
+Despite being ~1,100 km from the coast, Concordia operates indoor aquaculture systems. Fish farming does not require proximity to the ocean — it requires water, controlled temperature, and appropriate feed.
 
 **Species farmed:**
 - **Tilapia** — Extremely hardy, fast-growing, tolerates varying water conditions; a staple of indoor aquaculture worldwide
