@@ -108,22 +108,75 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 ## Unified Korea
 
-**Status:** Confirmed geopolitical entity — details largely TBD
+**Status:** Partially confirmed — core facts established, details TBD
 
-Unified Korea is a geopolitical entity that emerged from the reunification of the Korean peninsula (North and South Korea) at some point before the War of Upper Earth. Ji-Eun Kim is from Unified Korea.
+**Reunification:** By the late 2200s/early 2300s, Korea was unified. The exact date is TBD, but the country was established as a single entity by at least 2318 (the date of the Jeju-do court ruling).
 
-**What is known:**
-- Unified Korea exists — the reunification was successful at some point
-- Anti-robot sentiment was extremely high in Unified Korea immediately before the War of Upper Earth
-- Ji-Eun Kim fought her way to the top of her field in this environment before being exiled
-- The country's geopolitical role in the War of Upper Earth and the Falkland Treaty is TBD
+**Jeju-do and the International Court of Diplomacy:** Korea submitted Jeju-do Island as neutral territory between Korea, Japan, and the Sinian Federation. The International Court of Diplomacy at Jeju-do functioned as a neutral stage for international conflict resolution — specifically for situations where nations were making a genuine attempt to resolve disputes without violence. It became one of the most significant diplomatic institutions in the world.
+
+**Ji-Eun Kim:** From Unified Korea. Fought her way to the top of her field as a robot nanotech engineer during the period of extreme anti-robot sentiment immediately before the War of Upper Earth. Exiled to Antarctica under the Falkland Treaty's blanket robot provision.
 
 **What is TBD:**
-- When reunification occurred
-- Unified Korea's political system and leadership
-- The causes and nature of the anti-robot sentiment
+- Exact reunification date
+- Unified Korea's political system
+- The specific causes of the anti-robot sentiment spike in the 2500s (after 246 years of robot legal personhood — something drove a reversal)
 - Unified Korea's role in the War of Upper Earth
-- Whether Unified Korea still exists in the game's present or was significantly changed by the war
+- Whether Unified Korea still exists in the game's present
+
+---
+
+## The International Court of Diplomacy at Jeju-do
+
+**Status:** Confirmed historical institution
+
+**Location:** Jeju-do Island, submitted by Unified Korea as neutral territory between Korea, Japan, and the Sinian Federation.
+
+**Function:** Neutral stage for international conflict resolution — used when nations were making a genuine attempt to resolve disputes without resorting to violence.
+
+**Most significant ruling: April 27, 2318 — Robot Personhood.**
+
+The ruling that granted robots full legal personhood originated from a case involving **Gyeong-ja Yun** — a robot nightclub DJ whose Mafioso boss was profiting from her work without ever paying her. The disagreement turned violent. The case went to Jeju-do, and on April 27, 2318, the court ruled that robots had full rights of legal personhood.
+
+From 2318 to the Falkland Treaty (June 21, 2564) — 246 years — robots had full legal personhood in Upper Earth. The Falkland Treaty effectively stripped this, exiling robots from Upper Earth entirely.
+
+**What is TBD:**
+- Whether the International Court still exists in the game's present
+- What happened to it during or after the War of Upper Earth
+- Other significant rulings
+
+---
+
+## Gyeong-ja Yun
+
+**Status:** Confirmed historical figure — details TBD
+
+A robot nightclub DJ. Her case — a violent dispute with a Mafioso boss who was exploiting her labor without paying her — triggered the April 27, 2318 Jeju-do court ruling that gave robots full legal personhood. She is, in effect, the historical catalyst for robot legal personhood in this world.
+
+Her significance to the game's world is comparable to a founding legal figure. Whether she is referenced in-game (memorials, records, audio logs, cultural references), and how much Concordia's robot population knows or cares about her, is TBD.
+
+**What is TBD:**
+- What happened to her after the ruling
+- Whether she appears in any in-game references
+- How she is regarded in Tepenia's collective memory
+
+---
+
+## The Sinian Federation
+
+**Status:** Confirmed geopolitical entity — details largely TBD
+
+Also known colloquially as **the Iron Federation**. A post-war reconstruction of China following its collapse. "Sinian" derives from the classical Latin/Greek root for China (Sinae/Sino).
+
+**What is known:**
+- The Sinian Federation existed by at least 2318 (referenced as one of the three powers at Jeju-do alongside Unified Korea and Japan)
+- It was built from the collapse of China following some war (which war, when, TBD)
+- It was significant enough to be one of the three powers that made Jeju-do a meaningful neutral venue
+
+**What is TBD:**
+- Which war caused China's collapse and the federation's formation
+- The federation's political structure
+- Its role in the War of Upper Earth
+- Whether it still exists in the game's present
 
 ---
 
