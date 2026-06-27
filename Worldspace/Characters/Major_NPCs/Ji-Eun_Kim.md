@@ -29,7 +29,7 @@ She did not choose to come to Antarctica. She was sent here. That distinction �
 
 ### Work in Antarctica
 
-Rather than abandoning her work, Ji-Eun continued her nanotech research after arriving in Antarctica. She established a testing facility — now in ruins — and continued her work on nanotech implants. The specifics of what she was testing, for whom, and toward what ends are part of her character questline.
+Rather than abandoning her work, Ji-Eun continued her nanotech research after arriving in Antarctica. She established a testing facility in Concordia — now in ruins — and continued her work on nanotech implants. The specifics of what she was testing, for whom, and toward what ends are part of her character questline.
 
 Her most publicly known contribution to Concordia's world was her engineering of the **Eyes of Gold's gold ocular prosthetics** — the surgical eye implants that serve as the faction's rite of passage. She was a friend to the Eyes of Gold without ever being a member: she provided technical capability they couldn't build in-house, and the relationship was one of mutual benefit and genuine respect.
 
@@ -80,6 +80,6 @@ Her exile and continued work despite it suggest she values the work itself more 
   - **DLC:** Starring role; the DLC is largely centered around her personal questline; she is located in a different region of Antarctica — not Concordia. This would explain why Calethina says "may still be alive" rather than confirming her survival: Ji-Eun left the Concordia area after the Long Night War and Calethina lost her signal. She would still be introduced in the main game through Calethina's narration and Eyes of Gold lore.
   - **Main game:** Ji-Eun is in Concordia and gets a full main-game questline alongside the Calethina and Eyes of Gold threads.
   Decision pending.
-- **Current location:** Unknown. Her testing facility near Concordia is in ruins. If DLC, she relocated to another part of Antarctica after the Long Night War. If main game, she is somewhere in or around Concordia.
+- **Current location:** Unknown. Her testing facility is in Concordia — in ruins. If DLC, she relocated to another part of Antarctica after the Long Night War. If main game, she is somewhere in Concordia.
 - **Questline:** Designed to emerge from the "Echoes of the Bridge" questline as its first major active thread. The player follows Calethina's knowledge to Ji-Eun's ruins, then follows Ji-Eun herself from there.
 - **Eyes of Gold connection:** The gold ocular prosthetic surgery scene — the player receiving the Eyes of Gold's rite of passage — ideally involves Ji-Eun Kim directly, either performing the surgery herself or her designs being used by a surgeon working from her specifications. This would tie the Calethina questline, the Eyes of Gold questline, and the player's faction reward into a single moment.
