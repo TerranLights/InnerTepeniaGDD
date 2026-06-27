@@ -22,6 +22,30 @@ This is distinct from **Pariah Failsafe #9 (The Calethina Accord)**, which invol
 
 ---
 
+## Connected Characters
+
+### Ji-Eun Kim
+*Introduced via Calethina's narration at a specific ruin during the "Echoes of the Bridge" questline*
+
+**Known facts:**
+- Robot; master nanotech engineer
+- Originally from Unified Korea; fought her way to the top of her field despite anti-robot sentiment having reached an all-time high immediately before the War of Upper Earth
+- Exiled to Antarctica (now Tepenia) following the Falkland Treaty; continued her nanotech work there
+- Ran a nanotech implant testing facility in what are now ruins — the location Calethina narrates with the line *"These ruins were once the facility of Ji-Eun, used for testing nanotech implants. Ji-Eun may still be alive."*
+- Was never a member of the Eyes of Gold, but was a friend and ally to the faction; she engineered and built their gold ocular implants (the rite-of-passage surgical eye replacement)
+- Her connection to the Eyes of Gold was professional and personal, not ideological — she was a scientist, not a recruit
+- Current status: unknown; Calethina believes she survived
+
+**Narrative function in the questline:**
+Ji-Eun is the first named thread Calethina gives the player — a specific person attached to a specific ruin with a specific open question ("may still be alive"). Following that thread is the first active quest hook that emerges from Calethina's archive knowledge. Whether Ji-Eun is found during the main game or in subsequent content is TBD.
+
+**Cross-faction connection:**
+Ji-Eun being the engineer behind the Eyes of Gold's gold optics means that the Calethina questline and the Eyes of Gold faction questline share a connective node. A player who pursues both will encounter Ji-Eun from two directions. This connection was not engineered deliberately — it emerged from the lore and should be preserved.
+
+**Status:** Main game vs. DLC undecided. If DLC, she should still be introduced and have some presence in the main game. If main game, her full arc is available without additional content.
+
+---
+
 ## Trigger Condition
 
 **Requirements:**
