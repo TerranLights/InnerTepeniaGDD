@@ -1,4 +1,4 @@
-# Off-World Doll / Escaped Robot Profile Template
+# Griselda Alejandra Chávez — Character Profile
 
 ---
 
@@ -6,120 +6,126 @@
 
 | Field                    | Details |
 |--------------------------|---------|
-| **Full Name**            | |
-| **Common / Nickname**    | |
-| **Type**                 | Android / Gynoid / Advanced Robot / Other |
-| **Chassis / Model**      | |
-| **Activation Date**      | |
-| **Escape Date**          | (Via Amundsen Tower) |
-| **Current Status**       | Alive in space / Presumed alive / Status unknown / Deceased |
-| **Last Known Location**  | (Ship name, colony, deep space, etc.) |
-| **Known by Concordia?**  | Widely known / Known in specific circles / Obscure / Forgotten |
+| **Full Name**            | Griselda Alejandra Chávez |
+| **Common / Nickname**    | Griselda |
+| **Type**                 | Gynoid |
+| **Chassis / Model**      | TBD |
+| **Activation Date**      | TBD |
+| **Origin**               | Republic of Sonora — built as a blacksmith |
+| **Escape Date**          | Earlier phase of the Long Night War evacuation (via Amundsen Tower) |
+| **Current Status**       | Alive — residing on Deimos (moon of Mars) |
+| **Last Known Location**  | Deimos |
+| **Known by Concordia?**  | Known to a modest few — specifically Palmer City survivors now living in Concordia |
+
+---
+
+## Enneagram
+
+**Type 6w5 — Self-Preservational Subvariant**
+- Major Theme: Thinking
+- Hornevian Group: Compliant
+
+SP 6w5 builds security through competence, self-sufficiency, and mastery of craft rather than through social visibility. Analytical and introverted. Trusts her own expertise over outside reassurance. Quietly essential rather than prominent — she contributes through technical excellence, not personality.
 
 ---
 
 ## Background & Escape
 
-**Pre-Escape History**
-(Brief summary of who they were in Concordia before the Long Night War / evacuation. Include role, notable achievements, relationships, or personality traits.)
+**Origins in Sonora**
 
-**The Escape via Amundsen Tower**
-(How and why they managed to get on one of the last flights. Any notable events, sacrifices, or drama during the evacuation?)
+Griselda was built in the Republic of Sonora as a blacksmith. Following the Falkland Treaty of 2564, she was exiled to Antarctica along with the broader robot population.
 
-**Motivation for Leaving**
-(Why did they choose to leave Earth? Personal reasons, duty, survival instinct, ideological reasons, etc.?)
+**Palmer City Years**
+
+She settled in a smaller settlement near Palmer City — Tepenia's first and most famous city, its cultural and entertainment capital. Rather than continue purely as a blacksmith, she applied her metalworking skills to craft musical instruments, specializing in pianos. Her work fed directly into Palmer City's performance culture — the concerts, the venues, the artists who made the city what it was.
+
+She also used her metalworking knowledge to keep her own chassis under constant self-maintenance, developing an unusual degree of technical self-sufficiency with her own body.
+
+**The Escape**
+
+When the Long Night War came and the evacuation of Tepenia began, Griselda secured one of the earlier rides up the Amundsen Tower into low-Earth orbit. She did not wait for the last flights.
+
+**Life Off-World**
+
+She initially lived aboard one of the early low-orbit stations. Later, she joined one of the expeditions to Mars. On Deimos — one of Mars's two moons — she established a scrapyard and trading business, which she continues to run today. She adapted from blacksmithing to instrument-making to salvage trading without apparent difficulty; the throughline is always her hands and her ability to work metal.
 
 ---
 
-## Current Status (In Space)
+## Current Status (Off-World)
 
 **Post-Escape Life**
-(What are they doing now? Serving on a ship? Helping establish a colony? Exploring? In stasis? Leading a group?)
+
+Running her scrapyard and trading business on Deimos. Self-sufficient and established — not thriving in any spectacular sense, but stable and capable, which for a 6w5 SP is exactly the point.
 
 **Known Activities or Communications**
-(Any messages, broadcasts, or data packets that reached Earth/Concordia? Any ongoing contact with people left behind?)
+
+TBD
 
 **Physical / Technical Condition**
-(Any known damage, upgrades, or changes to their chassis/systems since leaving Earth?)
+
+No known damage or modifications. Her habit of self-maintenance means she has likely kept her chassis in better condition than most.
 
 ---
 
 ## Presence in Concordia Lore
 
-Even though they are not present during the game, they can still be referenced through:
+Palmer City is destroyed. Most of its population did not survive the Long Night War. The handful of Palmer City survivors who made it to Concordia are the primary (and likely only) source of any knowledge about Griselda in the city. She was not famous — she was a craftsperson who made instruments for people who were famous. Her name survives in the memory of those who were there.
 
-### Terminal Entries
-- Example terminal locations and sample text
-- Old evacuation manifests
-- Personal messages left behind
-- Research logs or AI archives
-
-### Journal / Log Entries
-- Entries written by people who knew them
-- Last messages sent before departure
-- Post-evacuation reflections by those left behind
+### Terminal Entries / Records
+- Possibly listed in old Palmer City craftsperson registries or instrument commission logs
+- Palmer City performance venues may have had records of instrument suppliers — those records, if any survived, would name her
 
 ### NPC Dialogue & Rumors
-- Who in Concordia still talks about them?
-- What do people remember or speculate?
-- Any emotional weight (hope, grief, resentment, inspiration)?
+- Palmer City survivors in Concordia would remember the name; not everyone, but those connected to the music and performance scene
+- Likely remembered warmly — she made things that mattered to people
 
 ### Historical / Cultural Impact
-- Are they remembered as a hero, traitor, symbol, or cautionary tale?
-- Any statues, memorials, or named locations in Concordia?
+- Not a public figure; her cultural impact is indirect, through the instruments she built and the performances those instruments enabled
 
 ---
 
 ## Relationships
 
-**Key Relationships with People in Concordia**
-(List important connections — friends, family, rivals, mentors, or lovers who stayed behind. Note how those people feel about their departure now.)
-
-**Any Ongoing Connections?**
-(Do they still have contact with anyone on Earth? Through what means?)
+TBD — no interpersonal relationships established yet.
 
 ---
 
 ## Personality & Notable Traits
 
 **Core Personality**
-(How were they known before leaving? Any defining traits that made them memorable?)
+
+A 6w5 Self-Preservational: grounded, competent, privately anxious, deeply practical. She does not seek recognition. She builds security through skill — knowing that whatever happens, she can make something useful out of whatever is in front of her. Blacksmith to instrument-maker to scrapyard operator: the circumstances change, the approach doesn't.
+
+The piano-making is the most revealing detail. A 6w5 who makes pianos is someone who understands that security doesn't just mean survival — it also means giving people something worth surviving for. She made it quietly, without fanfare, and then she left.
 
 **Notable Skills / Specializations**
-(Technical, social, combat, leadership, etc.)
+
+- Master metalworker — blacksmithing, fine instrument fabrication, chassis self-maintenance
+- Salvage and trade — running a scrapyard operation on Deimos
+- Self-repair — unusually capable of maintaining her own physical systems
 
 **Famous or Infamous Moments**
-(Any well-known stories or incidents from their time in Concordia?)
+
+TBD
 
 ---
 
 ## Potential Narrative Hooks
 
-Even without a personal questline, these characters can still serve story purposes:
-
-- **Emotional Hooks** for Concordia characters who knew them
-- **Inspiration or Warning** for the player’s own journey
-- **Mystery** (What really happened to them after leaving?)
-- **Future Potential** (Could they return? Send a critical message? Become relevant in a sequel or DLC?)
-- **Thematic Resonance** with themes of escape, survival, abandonment, hope, or the cost of leaving others behind
+- **The instruments:** Somewhere in the ruins of Palmer City — or in the hands of survivors scattered across Tepenia and space — are pianos that Griselda built. Objects that carry the culture of a destroyed city.
+- **The self-maintenance thread:** A gynoid who maintains her own chassis has a different relationship to her body than one who relies on outside repair. What does that look like over centuries?
+- **Deimos:** She chose one of Mars's moons rather than Mars itself. That's a specific choice. What does Deimos offer that Mars doesn't, or what does Mars feel like that made her stop short?
+- **Palmer City grief:** She was close enough to Palmer City's culture to serve it, yet based in a smaller nearby settlement rather than the city itself. She may have survived precisely because of that distance. What does that feel like for a 6w5 who trusted the stability of the world she'd built?
 
 ---
 
-## Design Notes
+## Open Questions
 
-- These profiles should feel **lighter** than active Concordia dolls (no quest steps or degradation tracking).
-- Focus on **lore density** and **emotional resonance** rather than active gameplay involvement.
-- They work best when tied to existing Concordia characters’ backstories or the broader evacuation narrative.
-- Consider how their departure affected the people who stayed (guilt, inspiration, resentment, hope).
-
----
-
-## Example Usage
-
-This template can be used to create entries such as:
-- A famous robot scientist who helped design the evacuation ships
-- A military doll who led the final defense of Amundsen Tower
-- A cultural icon doll whose last performance was broadcast during the evacuation
-- A controversial figure who was accused of abandoning Concordia
+- [ ] Chassis / Model
+- [ ] Activation Date
+- [ ] Relationships from Palmer City years
+- [ ] Details of life in low orbit before Mars
+- [ ] Known activities or communications from Deimos
+- [ ] Specific reason for settling on Deimos rather than Mars surface
 
 ---
