@@ -57,8 +57,12 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 - [x] **Tepenian Federation flag — narrow vs. wide circuit** — **DECIDED: wide circuit**
 
-- [ ] **Federal/government flag variants — context definition**
-  The stone/metal engraving seal and the diamond variant are established as being for official/governmental use, but exactly which contexts each is used for hasn't been determined.
+- [x] **Federal/government flag variants — context definition** — **COMPLETE**
+  Three-tier hierarchy established:
+  - **Wide circuit flag** — national flag; public display, flagpoles, everyday national contexts
+  - **Diamond + circuit background** — official government correspondence, letterhead, ID documents, plaques, signage
+  - **Tesseract seal** (stone/metal engraving — the "complex geometric diamond" is a 2D projection of a tesseract) — highest legal and institutional authority; treaties, state decrees, government architecture, most formal state contexts
+  Symbolic meaning of the tesseract within Tepenian culture: TBD
 
 ---
 
