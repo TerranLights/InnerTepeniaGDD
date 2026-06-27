@@ -60,8 +60,14 @@ The FNV principle applies here as everywhere: no matter how deep the investment,
 ## FD-1. The Eyes of Gold
 ### Ending: *The Gilded Record*
 
+> **⚠ REVISION NEEDED:** This ending was written before the Eyes of Gold's full design was known. It focuses on the surveillance archive angle but is missing two major elements that need to be incorporated:
+> - The Eyes of Gold believe James Bond was a real historical figure and organize their culture around his values (discipline, firearms, self-restraint, professionalism). They also believe "Goldeneye" referred to a literal golden eye.
+> - The faction's rite of passage at proven competence is surgical implantation of a gold ocular/optic (replacing the dominant eye, hooked to the optic nerve) with exceptional zoom, tracking, and visual clarity — engineered by Ji-Eun Kim. This implant should be available to the player at maximum Eyes of Gold standing and should feature in or around this ending.
+>
+> The ending below is structurally sound but tonally incomplete. Revise once the Calethina questline / Ji-Eun Kim thread is more fully developed, since Ji-Eun is the source of the gold optic and connects the Eyes of Gold to Calethina's questline.
+
 **Faction Overview**
-A cross-district intelligence and surveillance network that gathers information from every district and makes it available — selectively — to those who can use it. The Eyes of Gold are not a government, not an enforcement body, and not a neutral archive. They are a network with access and a philosophy about what access is for.
+A cross-district intelligence and surveillance network that gathers information from every district and makes it available — selectively — to those who can use it. The Eyes of Gold are not a government, not an enforcement body, and not a neutral archive. They are a network with access and a philosophy about what access is for. Their culture is organized around the belief that James Bond was a genuine historical figure — his discipline, professionalism, self-restraint, and commitment to excellence treated as a founding ethos rather than a fictional ideal.
 
 **Devotion Requirements**
 - Maximum Eyes of Gold standing
