@@ -171,8 +171,8 @@ Ambitious foremen, master engineers, production planners, meritocratic apprentic
 
 ---
 
-## District 7 — Aquarius *(TBN)*
-**Zodiac:** Aquarius | **Role:** Innovation / Experimental
+## District 7 — Aquarius (The Labs)
+**Zodiac:** Aquarius | **Official Name:** The Labs | **Role:** Innovation / Experimental
 
 ### What It Really Is
 A district full of people who are genuinely trying to save the world, who are frequently quite intelligent, and who have a systematic inability to consider what their good intentions look like from the perspective of the people they affect. Aquarius is not malicious. It is something potentially more dangerous: certain.
@@ -250,8 +250,8 @@ Data archaeologists, journalists, rumor brokers, Arcanet technicians, signal opt
 
 ---
 
-## District 10 — Pisces *(TBN)* — The Shadow District
-**Zodiac:** Pisces | **Role:** Dissolution / Black Market / Dream & Vice
+## District 10 — Pisces (The Markets)
+**Zodiac:** Pisces | **Official Name:** The Markets | **Role:** Dissolution / Black Market / Dream & Vice
 
 ### What It Really Is
 Every city produces overflow — people, needs, practices, substances, and ideas that the rest of the city's organized structures cannot accommodate. Pisces is where all of it goes. This is not a failure of the city's systems; it is a necessary consequence of them. Every district with rigid rules produces refugees who end up in Pisces. The district understands this about itself in a way the other districts don't understand about their relationship to it.
@@ -304,8 +304,8 @@ Rugged explorers, prospectors, long-range scouts, frontier settlers, homesteader
 
 ---
 
-## District 12 — Virgo (Concordia Undergrid)
-**Zodiac:** Virgo | **Role:** Maintenance / Service
+## District 12 — Virgo (The Undergrid)
+**Zodiac:** Virgo | **Official Name:** The Undergrid | **Role:** Maintenance / Service
 
 ### What It Really Is
 The district that makes everything else possible and receives the least acknowledgment for it, which has produced a culture of quiet perfectionism, exhausted dedication, and very dark humor. Virgo knows where every pipe runs, which backup system is six months past its maintenance cycle, and which Aquarius experiment is currently leaking into tunnel J-14. This knowledge is power of a kind — but it is power that can never be fully exercised without destroying the city, which means it can never quite be exercised at all.

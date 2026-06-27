@@ -133,7 +133,7 @@ Capricorn: Discipline, long-term ambition, structure, responsibility, and relent
 
 
 
-## District 7: Aquarius (TBN-district) – Innovation / Experimental
+## District 7: Aquarius (The Labs) – Innovation / Experimental
 #### Zodiac Principle:
 Aquarius: Innovation, humanitarian progress, eccentricity, collective ideals, and radical future-thinking. This district is Concordia’s laboratory of tomorrow: unconventional, idealistic, and often dangerously detached from immediate practical concerns.
 
@@ -199,7 +199,7 @@ Gemini: Duality, communication, adaptability, curiosity, and the rapid exchange 
 
 
 
-## District 10: Pisces (TBN-district) – Dissolution / Black Market / Dream & Vice
+## District 10: Pisces (The Markets) – Dissolution / Black Market / Dream & Vice
 #### Zodiac Principle:
 Pisces: Fluidity, dissolution of boundaries, compassion through suffering, escapism, spirituality, and the merging of reality with illusion. This district is Concordia’s hidden underbelly and dreamscape: porous, seductive, and where the city’s rules, identities, and resources quietly dissolve and reform.
 
@@ -245,7 +245,7 @@ Sagittarius: Adventure, exploration, optimism, freedom, and the pursuit of dista
 
 
 
-## District 12: Virgo (TBN-district) – Undergrid / Maintenance / Service
+## District 12: Virgo (The Undergrid) – Maintenance / Service
 #### Zodiac Principle:
 Virgo: Precision, service, analytical perfectionism, practical problem-solving, and humble dedication to keeping systems functional. This district is Concordia’s hidden circulatory and nervous system: the vast undergrid of tunnels, pipes, conduits, and maintenance networks that literally and figuratively holds the entire city together.
 

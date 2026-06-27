@@ -171,7 +171,7 @@ _________________
 * TBN Black Market [Pisces] (smuggling undercuts official industry)
 _________________
 
-# 7. TBN-district Quarter (Aquarius) – Visionary / Experimental
+# 7. Aquarius (The Labs) – Visionary / Experimental
 
 ## Orientation:
 * The forward-thinking, eccentric home of scientific and technological breakthroughs.
@@ -252,7 +252,7 @@ _________________
 * TBN-district [Leo] (wants bandwidth for broadcasts)
 _________________
 
-# 10. The TBN Black Market (Pisces) – Black Market / Underworld
+# 10. Pisces (The Markets) – Black Market / Underworld
 
 ## Orientation:
 * The fluid, dreamlike gray-zone where forbidden things flow.
@@ -306,7 +306,7 @@ _________________
 * {all Industrial districts} (wants materials)
 _________________
 
-# 12. Concordia Undergrid (Virgo) – Maintenance / Service
+# 12. Virgo (The Undergrid) – Maintenance / Service
 
 ## Orientation:
 * The hidden machinery and service backbone keeping everything running.
