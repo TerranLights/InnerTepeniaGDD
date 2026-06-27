@@ -20,7 +20,10 @@ A running reference of outstanding design work, organized by urgency. Update as 
   What is the passive link between Calethina and the player? Flagged high because it affects how the questline is built and what the player's relationship to her feels like throughout the game. *Deferred alongside the questline.*
 
 - [ ] **Ji-Eun Kim — main game vs. DLC decision**
-  Developer is leaning toward main game. Decision affects whether Ji-Eun gets a full questline or a cameo-and-reference treatment, and how the Calethina → Ji-Eun → Eyes of Gold triangle is resolved in play.
+  Two options under consideration:
+  - **DLC:** Ji-Eun has a starring role; the DLC is largely centered around her personal questline; she is located in a different region of Antarctica (not Concordia). Would explain why Calethina says "may still be alive" rather than confirming — Ji-Eun left the Concordia area after the Long Night War and Calethina lost her signal.
+  - **Main game:** Ji-Eun is in Concordia and gets a full main-game questline.
+  Decision pending. Either option is compatible with Calethina's narration of the ruined facility.
 
 - [ ] **FD-1 Eyes of Gold ending revision**
   Written before the Bond mythology and gold ocular details were established. Needs both integrated. See flag in `Storyline/Endings/Secret-Endings/Faction_Devotion_Endings.md`.
@@ -45,7 +48,7 @@ A running reference of outstanding design work, organized by urgency. Update as 
   A naming conflict was flagged in an earlier session and deferred. Needs resolution before robot religious content is finalized.
 
 - [ ] **Echoes of Amundsen — keep, redesign, or cut?**
-  Grok-suggested faction. Developer has not decided on inclusion or design. Several in-game references and one Faction Devotion ending slot depend on this decision. See `to-be-integrated/miscellaneous/World_History_Reference.md` for dramatic context now that the off-world evacuees are confirmed alive and prospering.
+  Grok-suggested faction. Developer has not decided — will review Grok's original notes before deciding. Several in-game references and one Faction Devotion ending slot depend on this decision. See `to-be-integrated/miscellaneous/World_History_Reference.md` for dramatic context now that the off-world evacuees are confirmed alive and prospering.
 
 - [ ] **9 tentative Faction Devotion endings — revision**
   All nine tagged [TENTATIVE] because the faction designs they were written against turned out to be wrong. Need revision once those faction designs are finalized. See `Storyline/Endings/Secret-Endings/Faction_Devotion_Endings.md`.
@@ -53,8 +56,7 @@ A running reference of outstanding design work, organized by urgency. Update as 
 - [ ] **Issue G — unique player-progression perk/skill**
   Flagged in an earlier session and deferred. Details TBD.
 
-- [ ] **Tepenian Federation flag — narrow vs. wide circuit**
-  Two variants exist in `Reference-Images/Flags/`. Not yet decided. Recommendation on file: wide circuit for legibility at small sizes and flag-flying distances.
+- [x] **Tepenian Federation flag — narrow vs. wide circuit** — **DECIDED: wide circuit**
 
 - [ ] **Federal/government flag variants — context definition**
   The stone/metal engraving seal and the diamond variant are established as being for official/governmental use, but exactly which contexts each is used for hasn't been determined.
