@@ -5,14 +5,14 @@
 **Date:** June 23, 2026
 
 **Core Philosophy:**
-In *Inner Tepenia*, the majority of a Bridge Unit’s protection comes from their **robotic chassis** and installed **augmentations**, which are heavily influenced by MACHINE stats. True **wearable armor** is rare, valuable, and usually district-flavored. These pieces act as powerful but optional layers on top of the chassis. This creates meaningful progression through both character investment and world exploration.
+In *Inner Tepenia*, the majority of the player character’s protection comes from their **robotic chassis** and installed **augmentations**, which are heavily influenced by MACHINE stats. True **wearable armor** is rare, valuable, and usually district-flavored. These pieces act as powerful but optional layers on top of the chassis. This creates meaningful progression through both character investment and world exploration.
 
 ---
 
 ## 1. Layered Protection System
 
 ### Base Chassis Protection
-Every Bridge Unit begins with a foundational robotic chassis.
+Every player character begins with a foundational robotic chassis.
 
 - **Base DT** = `floor( (Engine × 2.5) + (Might × 1.5) )`
 - **Base DR** = `floor(Calculation × 2)` (as percentage)

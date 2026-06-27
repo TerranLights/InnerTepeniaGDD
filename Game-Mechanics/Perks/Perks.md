@@ -1,6 +1,8 @@
 # Perks
 
-Perks are unlocked through leveling (every ~3 levels), challenges, or special accomplishments. They require specific MACHINE stats (1–10) and skill thresholds.
+Perks are unlocked through leveling (every **2 levels** — 32 total slots in the base game), challenges, or special accomplishments. They require specific MACHINE stats (1–10) and skill thresholds.
+
+See `Regular_Perks_-_Level-Up.md` for the full 60-perk level-up pool. This file is a summary only.
 
 ### Regular Perks (Level-Up)
 

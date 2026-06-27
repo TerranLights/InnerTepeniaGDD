@@ -156,6 +156,7 @@ _________________
 * Engineering academies and apprenticeship towers
 * Merit-based worker housing spires
 * Material testing and cold-resistance labs
+* **Calethina's Engineering & Activation Lab** *(game starting point — inner Capricorn, on the Cancer border)*
 
 #### A. Internal Conflicts
 * Quality & efficiency vs. maximum production volume
@@ -339,7 +340,6 @@ _________________
 ## Setting Setting & Environs: Environs:
 * Bustling, multi-layered central dome with transit tubes, glowing Arcanet billboards, and constant foot traffic.
 ## What you’d find here:
-* Calethina’s Engineering & Activation Lab (starting point)
 * Grand Transit Exchange (highway & tube hub)
 * Janbogo Subnet Nexus main tower
 * Central Council Plaza

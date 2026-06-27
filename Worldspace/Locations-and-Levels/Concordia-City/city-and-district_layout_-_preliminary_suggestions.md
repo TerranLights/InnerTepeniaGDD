@@ -157,7 +157,7 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 ### Primary Factions: Manufacturing Concord, Siligel Purists, Memory Weavers, Chorus of the Deep
 ### Trade-off Tension: Investing in breakthrough technology vs immediate survival of the current population.
 ### Quest Hooks:
-* Testing dangerous new robot chassis (you as the Bridge Unit are a prototype)
+* Testing dangerous new robot chassis (you as the player character are a prototype)
 * Ethical dilemmas involving experimental subjects
 * Recovering failed experiments that have gone rogue
 ### Gameplay Flavor: Puzzle-solving, science-oriented skill checks, and opportunities for permanent character upgrades.

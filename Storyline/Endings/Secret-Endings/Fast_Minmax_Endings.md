@@ -43,17 +43,17 @@ These high-MACHINE-stat endings are the most realistic secret endings that can b
 ---
 
 #### 3. A + N + E – The Phantom Courier
-**Requirements**: Agility 8+ + Navigation 8+ + Engine 8+
+**Requirements**: Agility 8+ + Nerve 8+ + Engine 8+
 
 **Why it’s fast**: Pure mobility-focused independent operator who profits from the chaos without fixing anything.
 
 * Pure mobility and independence focus.
 * You operate as a smuggler/messenger who profits from the chaos without fixing anything.
-* High Agility + Navigation lets you move freely and find routes others can’t.
+* High Agility + Nerve lets you move freely and maintain the mental resilience to operate independently under pressure.
 
 
 **Optimized Path**:
-1. High Agility + Navigation for superior routing through Undergrid and Frostlands edges.
+1. High Agility + Nerve for superior routing through Undergrid and Frostlands edges under pressure.
 2. Quickly establish yourself as a smuggler/messenger by moving goods/information between key points.
 3. Operate independently without committing to any faction.
 4. Trigger the ending once you’ve proven you can thrive as a ghost in the region.
@@ -83,12 +83,12 @@ These high-MACHINE-stat endings are the most realistic secret endings that can b
 ---
 
 #### 5. M + A + N – Unbreakable Ronin (Honorable Mention)
-**Requirements**: Machine 8+ + Agility 8+ + Navigation 8+
+**Requirements**: Machine 8+ + Agility 8+ + Nerve 8+
 
 **Why it’s fast**: You become a legendary lone operative who answers to no one.
 
 * Lone operative who answers to no one.
-* High mobility + Navigation lets you operate independently very early.
+* High mobility + Nerve lets you operate independently very early without cracking under pressure.
 
 **Optimized Path**:
 1. Use high mobility to avoid faction entanglements.

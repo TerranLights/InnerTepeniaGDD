@@ -2,7 +2,7 @@
 
 | Perk Name                    | Unlock Condition                                      | Effect |
 |------------------------------|-------------------------------------------------------|--------|
-| **Bridge Protocol Mastery**  | Progress as the Bridge Unit (story/hidden path milestones) | Evolving unique abilities (e.g., better integration with AI systems, special dialogue with Calethina-style entities). |
+| **[NAME TBD]**               | Progress as the player character (story/hidden path milestones) | Evolving unique abilities (e.g., better integration with AI systems, special dialogue with Calethina-style entities). |
 | **Lattice Pioneer**          | Complete significant portion of Independent Lattice path | Permanent bonuses to decentralized systems and hidden ending variants. |
 | **Independent Sovereign**    | Fully complete Lone Lattice path                      | Strong personal off-grid bonuses + unique ending flavor. |
 | **Narrative Weaver**         | Complete major information manipulation tasks         | Bonuses to forging evidence and social engineering (Narrative Lattice path). |

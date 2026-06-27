@@ -97,10 +97,19 @@ These have clear pros and cons and directly affect your action economy.
 
 These can be added for more depth (recommended for higher difficulty or veteran players).
 
-**1. Carry-Over AP (Banking)**
-- You may bank up to **3 unused AP** into the next turn.
-- Engine increases the cap (Engine 8+ allows banking up to 5 AP).
-- High risk/reward: encourages careful play and planning.
+**Base Rule**: Unused AP are **discarded** at the end of every turn. This is the canonical default.
+
+**Future Perk / Trait Options (math TBD — design pass pending):**
+
+**1. AP-to-Movement Conversion (Perk or Trait)**
+- Unused AP at end of turn convert into bonus movement tiles for a last-chance repositioning burst.
+- Could be a perk reward for completing relevant questlines (e.g., Agility- or Engine-focused district capstones).
+- Exact conversion ratio and tile cap to be determined during perk design pass.
+
+**2. Carry-Over AP (Banking) — Perk Option**
+- A perk or trait could allow banking a small number of unused AP into the next turn.
+- Would require careful tuning to avoid snowball effects.
+- Exact cap and Engine interaction to be determined during perk design pass.
 
 **2. Fatigue / Overheat**
 - If you spend 80%+ of your AP on attacks/abilities in one turn, you suffer a small debuff next turn (-1 AP or reduced accuracy).

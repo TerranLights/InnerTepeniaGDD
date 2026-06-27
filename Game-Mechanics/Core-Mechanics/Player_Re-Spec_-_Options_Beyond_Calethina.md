@@ -2,7 +2,7 @@
 
 **File:** `Character_Respec_Alternative_Methods.md`  
 **Date:** June 22, 2026  
-**Context:** Re-specing your Bridge Unit should feel like a major, life-altering decision with heavy consequences. This document lists dangerous or extreme alternative methods available throughout Concordia City.
+**Context:** Re-specing your character should feel like a major, life-altering decision with heavy consequences. This document lists dangerous or extreme alternative methods available throughout Concordia City.
 
 ## Design Philosophy
 - Re-specing is never trivial.
@@ -39,7 +39,7 @@ This file is ready to commit to the Game-Mechanics or Character-Progression fold
 
 **File:** `Character_Respec_Alternative_Methods.md`  
 **Date:** June 22, 2026  
-**Context:** Re-specing your Bridge Unit should feel like a major, life-altering decision with heavy consequences. This document lists dangerous or extreme alternative methods available throughout Concordia City.
+**Context:** Re-specing your character should feel like a major, life-altering decision with heavy consequences. This document lists dangerous or extreme alternative methods available throughout Concordia City.
 
 ## Design Philosophy
 - Re-specing is never trivial.
@@ -76,7 +76,7 @@ This file is ready to commit to the Game-Mechanics or Character-Progression fold
 
 **File:** `Character_Respec_Alternative_Methods.md`  
 **Date:** June 22, 2026  
-**Context:** Re-specing your Bridge Unit should feel like a major, life-altering decision with heavy consequences. This document lists dangerous or extreme alternative methods available throughout Concordia City.
+**Context:** Re-specing your character should feel like a major, life-altering decision with heavy consequences. This document lists dangerous or extreme alternative methods available throughout Concordia City.
 
 ## Design Philosophy
 - Re-specing is never trivial.

@@ -8,7 +8,7 @@ There are **44 skills** total, encouraging deep specialization.
 ## Skill Point Gain per Level
 
 **Final Formula:**  
-`max(1, floor( (Calculation ÷ 2) + (Nerve ÷ 2) + Investigation Modifier ))`
+`max(3, 2 + floor(Calculation ÷ 2) + floor(Nerve ÷ 2) + Investigation Modifier)`
 
 ### Investigation Modifier Table
 | Investigation (INV) | Modifier |
@@ -25,36 +25,31 @@ There are **44 skills** total, encouraging deep specialization.
 
 | Build Description              | CAL | NRV | INV | Points per Level |
 |--------------------------------|-----|-----|-----|------------------|
-| Extreme Tank / Brute           | 1   | 1   | 1   | **1**            |
-| Low Intelligence Build         | 3   | 4   | 4   | **2**            |
-| Balanced Generalist            | 6   | 6   | 5   | **6**            |
-| High Analyzer / Thinker        | 8   | 5   | 9   | **8**            |
-| Ultra Focused Build            | 10  | 8   | 10  | **12**           |
-| Optimized Genius Build         | 10  | 10  | 10  | **13**           |
-| Social Tank (your example)     | 1   | 1   | 1   | **1**            |
+| Extreme Tank / Brute           | 1   | 1   | 1   | **3**            |
+| Low Intelligence Build         | 3   | 4   | 4   | **4**            |
+| Balanced Generalist            | 6   | 6   | 5   | **8**            |
+| High Analyzer / Thinker        | 8   | 5   | 9   | **10**           |
+| Ultra Focused Build            | 10  | 8   | 10  | **14**           |
+| Optimized Genius Build         | 10  | 10  | 10  | **15**           |
+| Social Tank                    | 1   | 1   | 1   | **3**            |
 
 This ensures:
-- No build is completely starved of progression.
+- No build is completely starved of progression (minimum 3 points per level).
 - High **Calculation** remains the strongest contributor.
 - **Nerve** and **Investigation** still provide meaningful bonuses/penalties.
 - Extremely specialized characters (e.g. pure physical or pure social tanks) progress slowly and must rely heavily on Tag Skills, companions, items, and quest rewards.
 
-
-This keeps point gain intentionally low (typically **4–10 points per level**), forcing meaningful specialization over a long progression (target ~60–64 levels).
+Point gain ranges from **3–15 per level**, with most builds landing between **5–10**, forcing meaningful specialization across the **64-level base game progression**. DLCs may raise the level cap beyond 64.
 
 ---
 
 ## Tag Skills (Character Creation)
 
-After allocating your MACHINE stats (which determines your skill points per level), you may **Tag 3 skills**.
+After allocating your MACHINE stats, you may **Tag 3 skills**.
 
-- Each Tagged skill immediately receives a one-time bonus of:
-  **(Skill points per level) + 5**
+Each Tagged skill immediately receives a one-time flat bonus of **+15 points**.
 
-**Example**:
-If your stats give you **7 skill points per level**, each Tagged skill starts with **+12 points**.
-
-This front-loads your chosen playstyle while still requiring investment to reach mastery.
+This front-loads your chosen playstyle while still requiring sustained investment to reach mastery.
 
 ---
 
@@ -83,11 +78,11 @@ This front-loads your chosen playstyle while still requiring investment to reach
 
 ### Social / Diplomatic (7)
 - Diplomatic Negotiation (Humanity + Nerve)
-- Empathy Protocols (Humanity + Calculation)
+- Empathy Protocols (Humanity + Investigation)
 - Faction & Reputation Management (Humanity + Nerve)
-- Deception & Narrative Crafting (Humanity + Calculation + Investigation)
+- Deception & Narrative Crafting (Humanity + Investigation + Nerve)
 - Faction Rhetoric (Humanity + Nerve)
-- Moral Philosophy & Ethical Reasoning (Humanity + Calculation)
+- Moral Philosophy & Ethical Reasoning (Humanity + Nerve)
 - Companion Command & Loyalty (Nerve + Humanity)
 
 ### Survival / Exploration (6)
@@ -101,7 +96,7 @@ This front-loads your chosen playstyle while still requiring investment to reach
 ### Combat & Security (6)
 - Non-Lethal Restraint & Subdual (Agility + Might)
 - Improvised Weaponry & Combat Jury-Rig (Might + Agility)
-- Defensive Posturing & Endurance Fighting (Engine + Nerve)
+- Defensive Posturing & Endurance Fighting (Might + Nerve)
 - Tactical Grid Combat (Agility + Calculation)
 - Electronic Warfare (Calculation + Investigation)
 - Threat Assessment (Investigation + Nerve)
@@ -111,18 +106,12 @@ This front-loads your chosen playstyle while still requiring investment to reach
 - Sonic Attunement (Agility + Humanity)
 - Golden Eye Calibration (Agility + Investigation)
 - Holographic Projection & AI Interaction (Calculation + Humanity)
-- Bridge Protocol Mastery (All stats — unique progression)
-- Robot Religion Insight (Humanity + Calculation)
+- [NAME TBD] (All stats — unique progression)
+- Robot Religion Insight (Humanity + Investigation)
 - Cultural Performance & Resonance (Humanity + Agility)
 - Memory & Consciousness Manipulation (Calculation + Investigation)
 
 ---
 
 **Design Note**:
-The large skill pool + limited points per level + strong Tag bonus creates clear build identity and high replayability. Hidden paths rely heavily on specific skill synergies. Investigation now meaningfully influences how many points you receive, rewarding analytical builds while punishing extremely low Investigation.
-
----
-
-This update is fully consistent with your existing `MACHINE_Stats.md` and the previous skill point design. You can copy-paste this directly over the current `Skills.md` file (or merge as needed).
-
-Would you like me to also create an updated version of the main **Leveling & Progression** document that includes XP formulas, Integrity (HP), and this new skill point system all in one place?
+The large skill pool + limited points per level + strong Tag bonus creates clear build identity and high replayability. Hidden paths rely heavily on specific skill synergies. Investigation meaningfully influences how many points you receive, rewarding analytical builds while punishing extremely low Investigation.

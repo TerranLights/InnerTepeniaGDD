@@ -47,7 +47,7 @@ Upper Earth military defectors have arrived in Concordia as refugees. Due to dee
 - Sub-hooks include:
   - Assisting in Virgo infrastructure repairs as atonement.
   - Working in Cancer refugee centers (facing local hostility).
-  - A personal atonement ritual with a Bridge Unit player character.
+  - A personal atonement ritual with the player character.
 - Internal drama: Robot-focused remorse vs. human-focused remorse subgroups clash.
 
 ### C. The Gray Bargain (Pragmatic Faction Questline)
@@ -82,7 +82,7 @@ Upper Earth military defectors have arrived in Concordia as refugees. Due to dee
 - **Moral Gray Area**: Many actions by the player can be justified by the greater good (energy crisis, preventing collapse), but still provoke violent reactions from locals.
 - **Thematic Depth**: Exploration of guilt, forgiveness, loyalty, “just following orders,” and the cost of war.
 - **Main Story Tie-In**: Infiltrators can be behind key blackouts or grid instability. Remorseful defectors may hold valuable Upper Earth technical knowledge that helps solve the energy crisis.
-- **Re-Spec & Identity**: Helping or harming defectors can influence heavy re-spec costs and the player’s sense of identity as a Bridge Unit.
+- **Re-Spec & Identity**: Helping or harming defectors can influence heavy re-spec costs and the player’s sense of identity.
 
 ---
 

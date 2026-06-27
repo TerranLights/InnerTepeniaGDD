@@ -2,7 +2,7 @@
 
 **File:** `Character_Respec_Heavy_Tradeoffs.md`
 **Date:** June 22, 2026
-**Context:** Re-specing your Bridge Unit must feel like a major, irreversible life-altering decision. These costs ensure that changing your build has deep narrative, mechanical, and roleplay consequences.
+**Context:** Re-specing your character must feel like a major, irreversible life-altering decision. These costs ensure that changing your build has deep narrative, mechanical, and roleplay consequences.
 
 ## Design Philosophy
 Re-specing should never feel like a simple menu option. Every re-spec must **fundamentally affect who the player-character is**, how the world perceives them, and how they experience the game going forward.
@@ -55,7 +55,7 @@ Costs cannot be solved by grinding money. They must impact **identity, body, min
 - Risk of “Overload Events” where senses temporarily shut down or go haywire during intense moments.
 
 ### I. Temporal / Lifespan & Energy Costs
-- Accelerated “burnout” clock — your Bridge Unit now has a hidden limited number of cycles left before total system failure.
+- Accelerated “burnout” clock — your character now has a hidden limited number of cycles left before total system failure.
 - Increased vulnerability to the city’s cold and blackouts (shorter safe exposure time outside heated zones).
 - Trade immediate power for long-term stability (or vice versa), affecting late-game survival.
 

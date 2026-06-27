@@ -206,7 +206,7 @@ func get_free_movement_tiles() -> int:
 
 func get_skill_points_per_level() -> int:
     var inv_modifier: int = _get_investigation_modifier()
-    return max(1, int(calculation / 2.0) + int(nerve / 2.0) + inv_modifier)
+    return max(3, 2 + int(calculation / 2.0) + int(nerve / 2.0) + inv_modifier)
 
 func get_skill_max(governing_stat_value: int) -> int:
     return 30 + ((governing_stat_value - 1) * 10)
@@ -403,7 +403,6 @@ signal turn_started(ap: int)
 
 var current_ap: int = 0
 var maximum_ap: int = 0
-var banked_ap: int = 0
 var free_movement_tiles: int = 0
 
 func initialize(stats: MachineStats) -> void:
@@ -411,8 +410,7 @@ func initialize(stats: MachineStats) -> void:
     free_movement_tiles = stats.get_free_movement_tiles()
 
 func start_turn() -> void:
-    current_ap = maximum_ap + min(banked_ap, _get_bank_cap())
-    banked_ap = 0
+    current_ap = maximum_ap
     emit_signal("turn_started", current_ap)
 
 func spend(amount: int) -> bool:
@@ -423,14 +421,7 @@ func spend(amount: int) -> bool:
     return true
 
 func end_turn() -> void:
-    # Convert leftover AP to banked movement
-    banked_ap = min(current_ap, _get_bank_cap())
     current_ap = 0
-
-func _get_bank_cap() -> int:
-    # Engine 8+ allows banking up to 5, otherwise 3
-    var engine = get_parent().character_data.machine_stats.engine
-    return 5 if engine >= 8 else 3
 ```
 
 ### 6.3 DamageCalculator (C++ via GDExtension)
@@ -761,7 +752,7 @@ Build these systems in sequence. Each must be testable before the next begins.
 
 ### Phase 3 — Combat Core
 10. `GridManager` (C++): grid representation, pathfinding, LOS
-11. `APManager`: turn start, spend, bank, end turn
+11. `APManager`: turn start, spend, discard at end of turn
 12. `TurnManager`: initiative, turn cycling
 13. `DamageCalculator` (C++): full DT/DR formula
 14. Basic attack flow (move → attack → damage → next turn)

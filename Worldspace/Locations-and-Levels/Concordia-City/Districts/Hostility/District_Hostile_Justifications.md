@@ -5,7 +5,7 @@
 **Date:** June 23, 2026
 
 **Purpose:**
-For every hostility-triggering action in `District_Hostile_Actions.md`, this document provides **plausible, in-character justifications** a player (especially a Bridge Unit dealing with the energy crisis) might have for committing them.  
+For every hostility-triggering action in `District_Hostile_Actions.md`, this document provides **plausible, in-character justifications** a player (especially the player character dealing with the energy crisis) might have for committing them.  
 
 The local NPCs will **still turn violent** — they do not care about your reasoning. The act itself is considered unforgivable in that district’s culture.
 
@@ -155,7 +155,7 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 
 ## Overall Design Notes
 
-- These justifications are rooted in the **energy crisis**, **Long Night War trauma**, and the player’s unique Bridge Unit perspective.
+- These justifications are rooted in the **energy crisis**, **Long Night War trauma**, and the player character’s unique perspective.
 - They create excellent moral tension: the player may be acting for the greater good, but they are still committing grave cultural sins in the eyes of the district.
 - Perfect for “ends justify the means” roleplay, high-chaos runs, or emotionally complex storytelling.
 - Ties naturally into reputation systems, re-spec consequences, and district capstone questlines.

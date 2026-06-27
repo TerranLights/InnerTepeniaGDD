@@ -70,7 +70,7 @@ Since there is no regeneration during a turn, **Engine** governs how *efficientl
 | Powerful Ability / Overclock  | 8–15 AP            | Big payoff, expensive |
 | Stand Up / Minor Action       | 2–3 AP             | Recovery actions |
 
-Leftover AP at the end of your turn can be converted into **extra movement**.
+Unused AP at the end of your turn are **discarded**. Use them or lose them.
 
 ---
 

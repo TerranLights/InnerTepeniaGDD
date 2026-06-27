@@ -2,7 +2,7 @@
 
 ## 1. The Bridge Protocol (Recommended – “Unifying” Path)
 
-**Core Theme**: You are the Bridge Unit. Your purpose is to hold the fracturing city together.
+**Core Theme**: You are a newly activated robot with a unique perspective that could hold the fracturing city together.
 
 ### Progression
 
@@ -18,7 +18,7 @@
 - **Libra District (Central Hub)** – Final summit during The Great Blackout. Decide the future of power distribution and Concordia’s soul.
 
 ### Strengths
-- Excellent for roleplaying a mediator or true Bridge Unit.  
+- Excellent for roleplaying a mediator or unifying force.  
 - Naturally visits almost every district.  
 - Huge replayability through different faction alliances and moral choices.
 
@@ -100,12 +100,12 @@ This path emphasizes efficiency, tough choices, and the belief that production m
 
 ### Strengths
 - Very personal, emotional, and writer-friendly.
-- Great for deep roleplay focused on Calethina and your identity as a Bridge Unit.
+- Great for deep roleplay focused on Calethina and your identity as a newly activated robot.
 - Strong character-driven narrative that intertwines beautifully with the main energy crisis.
 
 ---
 
-This path emphasizes emotional investment, mystery surrounding Calethina’s past, and the player’s unique connection to her as a Bridge Unit.
+This path emphasizes emotional investment, mystery surrounding Calethina’s past, and the player’s unique connection to her as her creation.
 
 
 
@@ -119,7 +119,7 @@ This path emphasizes emotional investment, mystery surrounding Calethina’s pas
 
 **Starting Location**: **Capricorn District** (Calethina’s Engineering Lab)
 
-- You awaken as a newly activated Bridge Unit.
+- You awaken as a newly activated robot.
 - A diagnostic at Junction 12 reveals the heating grid failure is worse than expected.
 - You are asked to help reroute power temporarily — your **first real moral trade-off**:
   - Prioritize **Capricorn** industry?

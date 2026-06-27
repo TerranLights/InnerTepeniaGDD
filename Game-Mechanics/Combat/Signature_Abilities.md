@@ -28,7 +28,7 @@ These abilities function as **temporary multi-turn power states** rather than re
 **After-Effect**:
 * Movement speed penalty for 1–2 turns after the effect ends (systems cooling down)
 
-**Flavor**: Your Bridge Unit runs its locomotion systems at unsafe speeds by temporarily overriding safety protocols. "Framejacking" its own locomotion systems.
+**Flavor**: Your character runs its locomotion systems at unsafe speeds by temporarily overriding safety protocols. "Framejacking" its own locomotion systems.
 
 **Cost / Risk**:
 * After it ends, you suffer a movement penalty for 1–2 turns (systems need to cool down)
@@ -89,7 +89,7 @@ These abilities function as **temporary multi-turn power states** rather than re
 **After-Effect**:
 * Temporary increase in AP costs or reduced maximum AP for 1–2 turns (system strain)
 
-**Flavor**: You are running your Bridge Unit’s processors at dangerous speeds to achieve near-perfect tactical efficiency.
+**Flavor**: You are running your processors at dangerous speeds to achieve near-perfect tactical efficiency.
 
 **Cost / Risk**:
 * After it ends: Temporary penalty to AP or increased costs for 1–2 turns

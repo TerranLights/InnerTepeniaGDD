@@ -2,6 +2,8 @@
 
 Perks are unlocked through leveling, challenges, or special accomplishments. They require specific MACHINE stats (1–10) and skill thresholds.
 
+**Progression rate**: One perk every 2 levels — 32 total perk opportunities across the base game (level cap: 64). DLCs may raise the cap and add additional perk slots beyond 32.
+
 ### Regular Perks (Level-Up)
 
 | Perk Name                    | Requirements                              | Ranks | Effect |

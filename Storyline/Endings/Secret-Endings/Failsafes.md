@@ -296,7 +296,7 @@ The player attempts genuine reconciliation and integration while pushing Concord
 
 - **Multiple Epilogues Possible**: Certain high-chaos playthroughs can blend elements (e.g., Sovereign ending + renewed conflict).
 - **Thematic Resonance**: All endings heavily explore guilt, forgiveness, abandonment, loyalty, and the cost of choosing “the other side.”
-- **Narrative Weight**: These endings have strong callbacks to the Amundsen Tower evacuation, the Long Night War, and the player’s identity as a Bridge Unit.
+- **Narrative Weight**: These endings have strong callbacks to the Amundsen Tower evacuation, the Long Night War, and the player’s identity as a newly activated robot.
 
 ---
 

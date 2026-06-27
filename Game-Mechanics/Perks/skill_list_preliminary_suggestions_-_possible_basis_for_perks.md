@@ -84,7 +84,7 @@
 * Ossuary Resonance (Goth)
 * Sonic Attunement (Cymaticists)
 * Golden Eye Protocols (Eyes of Gold)
-* Bridge Protocol Mastery (unique to player – unlocks special abilities as you progress)
+* [NAME TBD] (unique to player – unlocks special abilities as you progress)
 
 ##### High skills can reduce Infamy gain or boost Fame gain when performing risky actions.
 

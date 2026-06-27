@@ -62,8 +62,8 @@
     * Capricorn industrialists benefit from emergency repair contracts.
     * Certain elements in the TBN-district use the crisis to maintain control through rationing authority. A permanent fix would collapse these power structures.
 
-##### 16. The Bridge Unit Limitation
-* As a newly activated Bridge Unit, you are one of the only entities capable of interfacing with the oldest, most corrupted sections of the grid. However, your own systems are still calibrating. Attempting a full repair too early risks your own core corruption or permanent damage to Calethina’s holographic matrix.
+##### 16. Fresh-Activation Calibration Limits
+* Your systems were just activated. During early calibration, pushing core functions too hard risks permanent destabilization of your primary processes. A full grid repair requires sustained high-load operation that a freshly activated robot’s systems cannot safely sustain. Calethina advises against it — not just for the city’s sake, but for yours.
 
 ## Future investigation
 * Explore the Ghost Protocol mechanics
