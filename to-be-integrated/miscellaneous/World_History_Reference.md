@@ -185,40 +185,63 @@ Also known colloquially as **the Iron Federation**. A post-war reconstruction of
 
 ## The Tepenian Federation
 
-**Status:** Referenced in folder structure — details TBD
+**Status:** Core facts confirmed
 
-The game's folder structure contains a "Tepenian-Federation" folder under Outside World locations. Inner Tepenia's "Tepenia" likely refers to this entity.
+**Established:** June 21, 2564, by the Falkland Treaty. Created to receive the robots and human allies exiled from Upper Earth.
 
-**What is known:**
-- Concordia is in the Tepenian Federation's geographic sphere (Antarctic region)
-- The name "Tepenia" is likely derived from "Antarctica" + some transformation
-- The folder exists, suggesting it has been at least partially developed in Grok's notes
+**Geographic basis:** Every real Antarctic research station became a Tepenian city as the exile population expanded and built out permanent settlements. The map of Antarctic stations by national possession (see `Reference-Images/Maps/`) is the direct source for Tepenia's city geography — each station on that map corresponds to a Tepenian city.
+
+**Known city mappings (confirmed):**
+
+| Real Station | Tepenian City | Notes |
+|---|---|---|
+| Concordia Station (Dome C) | Concordia | Game's primary setting; last major city |
+| Jang Bogo Station | Janbogo | Coastal; damaged in Long Night War; source of refugees |
+| Palmer Station | Palmer City | Cultural/entertainment hub; neutral ground — "Las Vegas, Atlantic City, New Orleans, and St. Petersburg all in one" |
+| Belgrano Station II | Belgrano | Coastal |
+| McMurdo Station | Fort McMurdo | Coastal; "Fort" prefix suggests military significance |
+| Neumayer Station III | Neumayer | Coastal |
+| All other stations | TBN | Same pattern applies to every station on the map |
+
+**Why Concordia survived the Long Night War:**
+
+The majority of Tepenian cities were on or near coastlines — easy targets for Upper Earth's militaries during the Long Night War. Most were destroyed or left in ruins. Concordia survived due to its geographic position: deep inland (~1,700 km from the coast), difficult to reach, and capable of self-support through its own resources.
+
+Other inland stations were not viable alternatives:
+- **Dome Fuji** — inland but at ~3,810m altitude, too high for sustainable habitation at scale
+- **Kunlun Station** — inland but at ~4,093m, far too high
+- **Vostok Station** — inland but too geographically isolated from any resources for self-support
+
+Concordia's altitude (3,233m) sits in a range high enough to be defensible and hard to reach, but low enough for long-term human habitation with appropriate technology.
 
 **What is TBD:**
-- The Tepenian Federation's political structure
-- Member settlements and cities (Janbogo may be one)
-- The federation's relationship to the broader world (Upper Earth, etc.)
-- How Concordia relates to the federation politically
+- The Federation's political structure and governance
+- The current status of the destroyed coastal cities (complete ruins, partially inhabited, abandoned?)
+- Whether any other cities survived the Long Night War beyond Concordia
+- The Federation's formal relationship to the broader world in the game's present
 
 ---
 
 ## Janbogo
 
-**Status:** Confirmed real off-map city — details limited
+**Status:** Core facts confirmed
 
-Janbogo is another city in the Antarctic region. It is off-limits to the player but referenced throughout the game.
+**Basis:** Jang Bogo Station — South Korea's second Antarctic research station, located on Terra Nova Bay on the Ross Sea coast.
 
-**What is known:**
-- Janbogo supplies Concordia with goods (references to supply delays)
-- Refugees from Janbogo have arrived at Concordia (suggesting Janbogo has had significant problems)
-- "The actual city of Janbogo remains off-limits and is only mentioned in lore"
-- The Janbogo Subnet is the data network that serves the region — its nexus is located within Concordia (the Gemini district)
-- The real name of the district formerly called Janbogo Subnet Nexus is Gemini
+**Location:** Coastal. This is the key fact: Janbogo is on the coast, which made it a target during the Long Night War when Upper Earth's militaries systematically attacked Tepenia's coastal cities.
+
+**The refugees:** Janbogo was damaged during the Long Night War — the coastal position that made it accessible also made it vulnerable. Refugees arrived in Concordia as a result. Whether Janbogo was partially destroyed, severely damaged, or is in ongoing decline is TBD, but the Long Night War is the origin of the refugee situation.
+
+**Supply relationship:** Despite its damage, Janbogo still supplies Concordia with goods — though supply delays are a recurring problem referenced in lore. The city is operational enough to send convoys but not reliably so.
+
+**The Janbogo Subnet:** The regional data network is named after Janbogo. Its nexus is located within Concordia (Gemini district). This suggests Janbogo was once the regional hub before the war shifted Concordia into the dominant position.
+
+**Off-map:** Janbogo is referenced throughout the game but never visited by the player.
 
 **What is TBD:**
-- Janbogo's current status (why are there refugees? Is it still operational?)
-- Janbogo's relationship to the Tepenian Federation
-- The nature of the supply relationship with Concordia
+- Janbogo's exact current status and population
+- The full extent of Long Night War damage
+- Whether Janbogo is recovering, stable, or still declining
 
 ---
 
