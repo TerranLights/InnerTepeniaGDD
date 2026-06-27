@@ -105,6 +105,6 @@ These were explicitly deferred in earlier sessions and are not resolved:
 | 7 remaining district official names | Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Libra TBNs | Medium |
 | ~99 more level-up perks | Target is 160 total | Low (long-term) |
 | Might/Nerve design pass | Tentative design pass on these two MACHINE stats | Low |
-| Eyes of Gold FD-1 ending revision | Needs Bond mythology + gold optic integrated | Medium |
+
 | Calethina questline full development | "Echoes of the Bridge" design beyond first thread | High |
 | Ji-Eun Kim main game vs DLC decision | Developer leaning main game | Medium |

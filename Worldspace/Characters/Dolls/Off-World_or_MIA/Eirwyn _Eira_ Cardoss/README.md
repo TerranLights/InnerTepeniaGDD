@@ -6,14 +6,14 @@
 
 | Field                    | Details |
 |--------------------------|---------|
-| **Full Name**            | | Eirwyn Cardoss
-| **Common / Nickname**    | | "Eira"
+| **Full Name**            | Eirwyn Cardoss |
+| **Common / Nickname**    | "Eira" |
 | **Type**                 | Gynoid |
 | **Activation Date**      | |
 | **Escape Date**          | (unknown, currently M.I.A.) |
 | **Current Status**       | Status unknown (Presumed alive) |
 | **Last Known Location**  | South America |
-| **Known by Concordia?**  | Known in specific circles (primarily in Gemini distric / The Markets) |
+| **Known by Concordia?**  | Known in specific circles (primarily in Gemini district / The Markets) |
 
 ---
 
