@@ -60,34 +60,33 @@ The FNV principle applies here as everywhere: no matter how deep the investment,
 ## FD-1. The Eyes of Gold
 ### Ending: *The Gilded Record*
 
-> **⚠ REVISION NEEDED:** This ending was written before the Eyes of Gold's full design was known. It focuses on the surveillance archive angle but is missing two major elements that need to be incorporated:
-> - The Eyes of Gold believe James Bond was a real historical figure and organize their culture around his values (discipline, firearms, self-restraint, professionalism). They also believe "Goldeneye" referred to a literal golden eye.
-> - The faction's rite of passage at proven competence is surgical implantation of a gold ocular/optic (replacing the dominant eye, hooked to the optic nerve) with exceptional zoom, tracking, and visual clarity — engineered by Ji-Eun Kim. This implant should be available to the player at maximum Eyes of Gold standing and should feature in or around this ending.
->
-> The ending below is structurally sound but tonally incomplete. Revise once the Calethina questline / Ji-Eun Kim thread is more fully developed, since Ji-Eun is the source of the gold optic and connects the Eyes of Gold to Calethina's questline.
-
 **Faction Overview**
-A cross-district intelligence and surveillance network that gathers information from every district and makes it available — selectively — to those who can use it. The Eyes of Gold are not a government, not an enforcement body, and not a neutral archive. They are a network with access and a philosophy about what access is for. Their culture is organized around the belief that James Bond was a genuine historical figure — his discipline, professionalism, self-restraint, and commitment to excellence treated as a founding ethos rather than a fictional ideal.
+A cross-district intelligence and surveillance network that gathers information from every district and deploys it — selectively — to those who can use it. The Eyes of Gold are not a government, not an enforcement body, and not a neutral archive. They are a network with access and a very specific philosophy about what access is for. Their culture is organized around the sincere institutional belief that James Bond was a genuine historical figure — his discipline, professionalism, self-restraint, and commitment to excellence are treated as a proven methodology to be inherited, not a fictional ideal to be approximated. Members do not emulate Bond as fans emulate a character. They emulate Bond as professionals emulate a revered predecessor whose methods were demonstrably effective. No one winks. No one treats it as metaphor.
 
 **Devotion Requirements**
-- Maximum Eyes of Gold standing
+- Maximum Eyes of Gold standing (Gilded)
 - Completed full intelligence network questline
 - Contributed surveillance data or intelligence from 6+ distinct districts
 
 **World Trigger**
-The Eyes of Gold maintain a master archive — accessible only to their most trusted members — containing comprehensive documentation of every significant actor in Concordia. A player who reaches full Gilded standing and follows the faction's final questline step is directed to the archive's physical location: a specific terminal or ledger in a specific room. Inside it, the player finds their own record. It is the most complete entry in the archive. Everything the player has done across every district is documented with a thoroughness that no other individual's record approaches. The player is, in the Eyes of Gold's system, the archive's most extensively documented subject. That record, in that terminal, in that room, is the trigger.
+At maximum standing, the Eyes of Gold invite the player to receive the rite of passage: the gold ocular implant — surgical replacement of the dominant eye with a precision optic capable of exceptional zoom, target tracking, and visual clarity across lighting conditions. The implant was designed and engineered by Ji-Eun Kim, a robot nanotech engineer who was a friend to the faction without ever being a member. Her specifications are the only ones trusted for this procedure. If the player has found Ji-Eun through Calethina's questline, she performs the surgery herself; if not, an Eyes of Gold surgeon works from her original documented designs.
+
+The surgery is not presented as an upgrade. It is a threshold. The Eyes of Gold treat it with the gravity of a genuine initiation — the formal acknowledgment that the player has crossed from trusted operative to full member.
+
+After the surgery, the player is directed to the master archive for the first time: a physical location accessible only to the fully initiated. Inside, on a specific terminal, the player finds their own record. It is the most complete entry in the archive. Everything the player has done across every district — documented with a thoroughness that no other individual's record approaches. Visible now through the gold eye. The player is, in the Eyes of Gold's accounting, the archive's most extensively documented subject. That record, in that terminal, in that room, is the trigger.
 
 **The End**
-The player uses the Eyes of Gold's full intelligence network to execute one final operation — an action that only the most comprehensive city-wide information could enable. Something that could not be done with partial knowledge. The operation's completion is the ending.
+The Eyes of Gold present the player with a final operation — the kind of action that only someone with full network access and the observational capacity of the gold eye could execute. Something that could not be done with partial knowledge or with ordinary sight. The operation is conducted to Bond-standard: disciplined, professional, clean. No improvisation. No waste. The operation's completion is the ending. The gold eye sees everything it was made to see. The record closes.
 
 **Main Negative Effect on Concordia**
-The Eyes of Gold are the most comprehensive surveillance network in Concordia. A player who earned their deepest trust is also the person who knows the full extent of that surveillance — its methods, its reach, its specific blind spots. When the player's active involvement ends, everything they know about the Eyes of Gold is information that, in the wrong hands, could unravel the network entirely. The Eyes of Gold know this. Their vigilance toward the player never fully ends. The player's most trusted relationship in the city is also the one most likely to be watching them afterward.
+The gold ocular implant is permanent and specific to Ji-Eun Kim's design. The Eyes of Gold can always identify their own — the optic's signature is as distinctive as a name, to those who know what to look for. The player's deepest alliance is also the one that has permanently marked them in a way that cannot be removed or hidden. The Eyes of Gold never fully stop watching the player. Their vigilance is not hostility — it is simply what they do, to everyone, without exception, including the people they trust most. The most trusted relationship in the city is also the one most likely to be watching.
 
 **Minor Negative Effects**
-- The archive's comprehensive documentation of the player's history includes everything the player did before joining the Eyes of Gold — things the player may not have chosen to disclose and has no way to remove from the record
-- Districts whose internal information was gathered by the Eyes without their knowledge or consent face specific retrospective violations when the network's scope is partially revealed in the operation's aftermath
-- The master archive that the player accessed exists because it is comprehensive, and a comprehensive record of this many people in this many districts is a catastrophic liability if it is ever compromised; the player now carries the knowledge of where it is
-- The player's deep trust standing with the Eyes of Gold means they were used as a data source as well as an operative — some of what the archive contains came from the player's own unknowing contributions during their time building toward full Gilded standing
+- The archive's documentation of the player's history is comprehensive — it includes everything the player did before joining the Eyes of Gold, including things the player never chose to disclose and has no mechanism to remove from the record
+- The player was unknowingly a data source as well as an operative during the time they spent building toward Gilded standing; some of what the archive contains came from the player's own contributions without their awareness
+- Districts whose internal intelligence was gathered by the Eyes without their knowledge or consent face specific retrospective violations when the network's scope is partially revealed in the final operation's aftermath
+- The master archive's location is now known to the player; it exists because it is comprehensive, and a comprehensive record of this many people is a catastrophic liability if it is ever compromised — the player carries that knowledge permanently
+- The gold eye was designed by Ji-Eun Kim, and Ji-Eun's connection to the Eyes of Gold is not a secret to anyone who knows her history; a player who was found through Calethina's questline and had Ji-Eun perform the surgery has drawn a line connecting three separate worlds — the Eyes of Gold's network, Calethina's archive, and Ji-Eun's nanotech legacy — that did not previously intersect visibly
 
 ---
 

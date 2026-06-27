@@ -25,8 +25,7 @@ A running reference of outstanding design work, organized by urgency. Update as 
   - **Main game:** Ji-Eun is in Concordia and gets a full main-game questline.
   Decision pending. Either option is compatible with Calethina's narration of the ruined facility.
 
-- [ ] **FD-1 Eyes of Gold ending revision**
-  Written before the Bond mythology and gold ocular details were established. Needs both integrated. See flag in `Storyline/Endings/Secret-Endings/Faction_Devotion_Endings.md`.
+- [x] **FD-1 Eyes of Gold ending revision** — **COMPLETE**
 
 ---
 
