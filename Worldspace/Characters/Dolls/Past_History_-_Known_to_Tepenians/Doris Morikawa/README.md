@@ -8,7 +8,7 @@
 |------------------------------|---------|
 | **Full Name**                | Doris Morikawa |
 | **Common / Nickname**        | Doris |
-| **Type**                     | Gynoid |
+| **Type**                     | TBD — see Open Questions |
 | **Activation Date**          | TBD |
 | **Origin**                   | Hall of Archives, Sovereign Republic of Hawaii |
 | **Current Status**           | TBD |
