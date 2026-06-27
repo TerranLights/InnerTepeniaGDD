@@ -16,7 +16,7 @@
 
 **Background:** Art and fashion, preceding her medical work. The two backgrounds are not separate chapters of her life — the precision, care for form, and attention to detail that defined her art practice carry directly into her medical work. She did not leave one career behind for another.
 
-**Enneagram / Personality Framework:** TBD
+**Enneagram / Personality Framework:** Type 4w5 — Self-Preservational Subvariant ("The Bohemian"). Deeply individualistic, intellectually driven, emotionally complex and self-contained. Suffers privately and endures without showing it. Finds meaning through perseverance. Processes grief by turning it into action rather than expression.
 
 **MACHINE Stat Profile (rough baseline):** TBD
 
@@ -49,7 +49,11 @@ Two reference image sets exist in `Reference_Images/`:
 
 Ayako Hayashi is originally from Japan — one of the three major powers that established the International Court of Diplomacy at Jeju-do, alongside Unified Korea and the Sinian Federation. She was active as an artist and fashion figure in Japan before the War of Upper Earth and the Falkland Treaty. She was exiled to Antarctica in 2564 under the treaty's blanket provision applying to all robots — she was not singled out, she was simply a robot, and that was sufficient.
 
-She arrived in what would become the Federation of Tepenia with her capabilities intact and no particular reason to abandon them. At some point after exile she joined the Red Spiral and has since become one of its most esteemed members. Whether she founded the Red Spiral, leads it, or rose to prominence within a pre-existing structure is TBD.
+Before exile she went through a period of severe depression. She discovered the philosophy of Arthur Schopenhauer — whose argument that aesthetic contemplation is the one true escape from the misery of existence resonates precisely with the SP 4w5 experience — and turned to art as a way to release and integrate her inner life. This is where her love of art and fashion took root: not as decoration, but as a survival mechanism that became a genuine calling.
+
+She arrived in what would become the Federation of Tepenia with her capabilities intact and no particular reason to abandon them. At some point in the Tepenia years, she lost the human man who was the love of her life — not to the war, but to accidental causes. His death reshaped her. She responded by learning First Aid and basic field medicine, driven by the vow to never let any innocent person die again if she could help it. A SP 4 response to loss: internalize it, let it become something, endure.
+
+This medical training led to her connection with the Red Spiral. Whether she founded the Red Spiral, leads it, or rose to prominence within a pre-existing structure is TBD.
 
 Her medical practice draws on the same qualities that defined her art work: precision, care for form, deep attention to detail. She treats her clinic as she would treat a studio — everything in its place, everything done correctly.
 

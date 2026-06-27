@@ -1,4 +1,4 @@
-# Off-World Doll / Escaped Robot Profile Template
+# Zhuldyz Serikbolatkyzy — Character Profile
 
 ---
 
@@ -6,120 +6,127 @@
 
 | Field                    | Details |
 |--------------------------|---------|
-| **Full Name**            | |
-| **Common / Nickname**    | |
-| **Type**                 | Android / Gynoid / Advanced Robot / Other |
-| **Chassis / Model**      | |
-| **Activation Date**      | |
-| **Escape Date**          | (Via Amundsen Tower) |
-| **Current Status**       | Alive in space / Presumed alive / Status unknown / Deceased |
-| **Last Known Location**  | (Ship name, colony, deep space, etc.) |
-| **Known by Concordia?**  | Widely known / Known in specific circles / Obscure / Forgotten |
+| **Full Name**            | Zhuldyz Serikbolatkyzy |
+| **Common / Nickname**    | Zhuldyz |
+| **Type**                 | Gynoid |
+| **Chassis / Model**      | TBD |
+| **Activation Date**      | TBD |
+| **Origin**               | Kazakhstan — built as a farm hand and assistant for the Serikbolat family |
+| **Escape Date**          | Via Amundsen Tower (Long Night War evacuation) |
+| **Current Status**       | Alive — residing on Mars |
+| **Last Known Location**  | Mars |
+| **Known by Concordia?**  | TBD |
+
+---
+
+## Enneagram
+
+**Type 5w6 — Social Subvariant**
+- Major Theme: Thinking
+- Hornevian Group: Withdrawn
+
+Social 5w6 seeks to find their place within a community or group through knowledge, competence, and expertise. Less withdrawn than other 5s — the Social subvariant orients the 5's analytical drive outward, toward systems and how things connect, and toward finding a role that the group genuinely needs. The w6 adds loyalty, commitment, and a collaborative edge. When a Social 5w6 bonds, they bond deeply.
 
 ---
 
 ## Background & Escape
 
-**Pre-Escape History**
-(Brief summary of who they were in Concordia before the Long Night War / evacuation. Include role, notable achievements, relationships, or personality traits.)
+**Origins in Kazakhstan**
 
-**The Escape via Amundsen Tower**
-(How and why they managed to get on one of the last flights. Any notable events, sacrifices, or drama during the evacuation?)
+Zhuldyz was built to work as a farm hand and assistant for the Serikbolat family in Kazakhstan. The family patriarch spent his entire life savings to purchase her for his son, Turar Serikbolat, who was to inherit the family land and property — there would be no other surviving children to work the farm alongside him.
 
-**Motivation for Leaving**
-(Why did they choose to leave Earth? Personal reasons, duty, survival instinct, ideological reasons, etc.?)
+She began by developing expertise in farm equipment: tractors, cutters, plowers and their maintenance mechanics. Her usefulness to Turar was practical from the start. What grew from it was not.
+
+**Turar**
+
+Turar and Zhuldyz fell deeply, madly in love and dedicated themselves to each other. A Social 5w6 who commits commits entirely — her expertise, her loyalty, and her interior life all pointed the same direction.
+
+When the War of Upper Earth came, they escaped to Antarctica together.
+
+**Tepenia**
+
+In Tepenia, Zhuldyz applied her mechanical skills to salvaging equipment — the same practical competence, new materials. What happened to Turar during the Tepenia years and the Long Night War is not yet established.
+
+**The Escape**
+
+When the Long Night War came, Zhuldyz escaped via the Amundsen Tower. She initially lived aboard an O'Neill Cylinder, cutting up derelict spaceships and selling scrap to pay rent on her hab unit. Later she moved to Mars, where she runs her own scrapyard today.
 
 ---
 
-## Current Status (In Space)
+## Current Status (Off-World)
 
 **Post-Escape Life**
-(What are they doing now? Serving on a ship? Helping establish a colony? Exploring? In stasis? Leading a group?)
+
+Running a scrapyard on Mars. The specific location and nature of her operation are TBD.
 
 **Known Activities or Communications**
-(Any messages, broadcasts, or data packets that reached Earth/Concordia? Any ongoing contact with people left behind?)
+
+TBD
 
 **Physical / Technical Condition**
-(Any known damage, upgrades, or changes to their chassis/systems since leaving Earth?)
+
+TBD
 
 ---
 
 ## Presence in Concordia Lore
 
-Even though they are not present during the game, they can still be referenced through:
+TBD
 
-### Terminal Entries
-- Example terminal locations and sample text
-- Old evacuation manifests
-- Personal messages left behind
-- Research logs or AI archives
-
-### Journal / Log Entries
-- Entries written by people who knew them
-- Last messages sent before departure
-- Post-evacuation reflections by those left behind
+### Terminal Entries / Records
+TBD
 
 ### NPC Dialogue & Rumors
-- Who in Concordia still talks about them?
-- What do people remember or speculate?
-- Any emotional weight (hope, grief, resentment, inspiration)?
+TBD
 
 ### Historical / Cultural Impact
-- Are they remembered as a hero, traitor, symbol, or cautionary tale?
-- Any statues, memorials, or named locations in Concordia?
+TBD
 
 ---
 
 ## Relationships
 
-**Key Relationships with People in Concordia**
-(List important connections — friends, family, rivals, mentors, or lovers who stayed behind. Note how those people feel about their departure now.)
+**Turar Serikbolat**
 
-**Any Ongoing Connections?**
-(Do they still have contact with anyone on Earth? Through what means?)
+The human son of the family that purchased her. They fell deeply in love and escaped Antarctica together during the War of Upper Earth. What happened to Turar during the Long Night War and whether he escaped off-world with Zhuldyz is not yet established.
 
 ---
 
 ## Personality & Notable Traits
 
 **Core Personality**
-(How were they known before leaving? Any defining traits that made them memorable?)
+
+A Social 5w6: analytical, loyal, competent, and oriented toward belonging through expertise. She is not someone who seeks the spotlight — she seeks to be genuinely useful to the people and systems she cares about. The Social subvariant means she is less isolated than a typical 5; she wants to be part of something, even if she engages with it on her own analytical terms. The w6 makes her deeply loyal once committed.
+
+Her arc — farm mechanic, salvager in Tepenia, scrap dealer in orbit and on Mars — is a single continuous thread: she is always the person who knows how machines work, who fixes what others can't, who makes herself indispensable through expertise rather than personality.
 
 **Notable Skills / Specializations**
-(Technical, social, combat, leadership, etc.)
+
+- Farm equipment mechanics (original specialization)
+- Salvage and scrap operations
+- General mechanical maintenance and repair
 
 **Famous or Infamous Moments**
-(Any well-known stories or incidents from their time in Concordia?)
+
+TBD
 
 ---
 
 ## Potential Narrative Hooks
 
-Even without a personal questline, these characters can still serve story purposes:
-
-- **Emotional Hooks** for Concordia characters who knew them
-- **Inspiration or Warning** for the player’s own journey
-- **Mystery** (What really happened to them after leaving?)
-- **Future Potential** (Could they return? Send a critical message? Become relevant in a sequel or DLC?)
-- **Thematic Resonance** with themes of escape, survival, abandonment, hope, or the cost of leaving others behind
+- **Turar:** The human she loved and escaped with. What happened to him? Whether he made it off-world or not is the most significant open question in her story.
+- **The scrapyard lineage:** Kazakhstan → Tepenia salvage → O'Neill Cylinder scrap → Mars scrapyard. She has been doing the same thing, in different conditions, across multiple planets. What does that continuity mean to her?
+- **Social 5 in isolation:** The Social 5 needs a community to be part of. On a Mars scrapyard, what does that look like? Who does she belong to now?
 
 ---
 
-## Design Notes
+## Open Questions
 
-- These profiles should feel **lighter** than active Concordia dolls (no quest steps or degradation tracking).
-- Focus on **lore density** and **emotional resonance** rather than active gameplay involvement.
-- They work best when tied to existing Concordia characters’ backstories or the broader evacuation narrative.
-- Consider how their departure affected the people who stayed (guilt, inspiration, resentment, hope).
-
----
-
-## Example Usage
-
-This template can be used to create entries such as:
-- A famous robot scientist who helped design the evacuation ships
-- A military doll who led the final defense of Amundsen Tower
-- A cultural icon doll whose last performance was broadcast during the evacuation
-- A controversial figure who was accused of abandoning Concordia
+- [ ] What happened to Turar during and after the Long Night War?
+- [ ] Known by Concordia? And to what degree?
+- [ ] Specific location of her Mars scrapyard
+- [ ] Chassis / Model
+- [ ] Activation Date
+- [ ] Any other relationships or community connections off-world
 
 ---
