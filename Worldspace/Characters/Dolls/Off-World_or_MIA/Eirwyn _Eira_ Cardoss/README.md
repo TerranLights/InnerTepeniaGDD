@@ -9,7 +9,6 @@
 | **Full Name**            | | Eirwyn Cardoss
 | **Common / Nickname**    | | "Eira"
 | **Type**                 | Gynoid |
-| **Chassis / Model**      | |
 | **Activation Date**      | |
 | **Escape Date**          | (unknown, currently M.I.A.) |
 | **Current Status**       | Status unknown (Presumed alive) |

@@ -8,7 +8,6 @@
 **Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
 
 ## Core Identity
-**Model / Chassis Type:** (e.g., Mk. III Bridge Core in custom diplomatic frame, Heavy Industrial Labor Shell, etc.)
 **Activation Date & Origin:**
 
 **Enneagram / Personality Framework:**

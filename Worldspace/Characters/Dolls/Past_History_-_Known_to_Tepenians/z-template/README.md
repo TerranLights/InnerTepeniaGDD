@@ -9,7 +9,6 @@
 | **Full Name**            | |
 | **Common / Nickname**    | |
 | **Type**                 | Android / Gynoid / Advanced Robot / Other |
-| **Chassis / Model**      | |
 | **Activation Date**      | |
 | **Escape Date**          | (Via Amundsen Tower) |
 | **Current Status**       | Alive in space / Presumed alive / Status unknown / Deceased |

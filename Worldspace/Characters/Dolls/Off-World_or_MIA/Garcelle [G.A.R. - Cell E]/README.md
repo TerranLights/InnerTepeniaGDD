@@ -9,7 +9,6 @@
 | **Name (At Game Time)**           | Unknown — original name lost to memory damage; see below |
 | **Known As (Post-Garrison)**      | "Garcelle" (derived from G.A.R. — Garrison for AGI Relocation — Division 14, Cell E) |
 | **Type**                          | Gynoid |
-| **Chassis / Model**               | TBD |
 | **Activation Date**               | TBD |
 | **Amundsen Tower**                | N/A — refused to evacuate; never went up the Tower |
 | **Ejection Date**                 | TBD (post-Long Night War; occurs long after the game's events) |
