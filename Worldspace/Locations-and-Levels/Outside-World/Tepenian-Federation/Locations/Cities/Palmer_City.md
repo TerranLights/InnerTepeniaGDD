@@ -41,6 +41,8 @@ The exiles kept it. The symbolic weight was not lost on anyone: they had been se
 
 The Antarctica flag is distinct from the Federation of Tepenia's national flag (the circuit diamond design, developed later as a deliberate national identity). The found flag predates Tepenia's existence as a country. It is a historical artifact — displayed at 100 Miles Davis Blvd. and later in cultural institutions across Tepenia.
 
+**Physical fate:** Unknown, and possibly gone on its own terms. The flag was already torn and tattered when found. Even kept indoors, the Antarctic environment — cold, humidity cycling, the cumulative pressure of over a century — degrades fabric regardless of care. It may have continued deteriorating until nothing remained, independent of whether the Long Night War reached it. Whether it survived to the destruction of Palmer City, was evacuated beforehand, or simply wore away over time is unresolved. What survives in Concordia, if anything, are reproductions, documentation, and the story of what it meant — not necessarily the object itself.
+
 ### The Jazz Records
 
 Also recovered from the station buildings: a collection of Jazz records spanning the classic era — pre-War of Upper Earth and pre-2083 global war. Artists from the full arc of Jazz history, preserved in physical format through everything that followed.
@@ -101,4 +103,4 @@ The Bonded Lattice faction's philosophy — that robot-human pair bonds deserve 
 - Are the ruins of Palmer City accessible to anyone, or too remote and destroyed to reach?
 - What other named streets, landmarks, or institutions existed in Palmer City at its peak?
 - Are any Palmer City cultural institutions, traditions, or artifacts preserved in Concordia?
-- The Antarctica flag found at the station — where is it now? Was it evacuated before the Long Night War?
+- The Antarctica flag — fate unknown; may have degraded naturally from the Antarctic environment even if kept indoors; may have been destroyed with Palmer City; may have been evacuated. The story of it survives regardless of whether the object does.
