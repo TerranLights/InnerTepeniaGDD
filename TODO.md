@@ -55,9 +55,6 @@ A running reference of outstanding design work, organized by urgency. Update as 
 - [ ] **9 tentative Faction Devotion endings — revision**
   All nine tagged [TENTATIVE] because the faction designs they were written against turned out to be wrong. Need revision once those faction designs are finalized. See `Storyline/Endings/Secret-Endings/Faction_Devotion_Endings.md`.
 
-- [ ] **Issue G — unique player-progression perk/skill**
-  Flagged in an earlier session and deferred. Details TBD.
-
 - [x] **Tepenian Federation flag — narrow vs. wide circuit** — **DECIDED: wide circuit**
 
 - [ ] **Federal/government flag variants — context definition**

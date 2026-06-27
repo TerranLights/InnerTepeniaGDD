@@ -99,7 +99,6 @@ These were explicitly deferred in earlier sessions and are not resolved:
 | Issue | Description | Priority |
 |---|---|---|
 | Issue F | Calethina's passive link to the player — what is it? | High (affects questline) |
-| Issue G | Unique player-progression perk/skill | Medium |
 | Robot Religion Insight naming conflict | A naming conflict was flagged but not resolved | Medium |
 | Narrative Weaver perk | Marked TENTATIVE | Low |
 | Echoes of Amundsen faction | Grok-suggested; developer undecided on inclusion/design | Medium |
