@@ -7,10 +7,17 @@ A running reference of outstanding design work, organized by urgency. Update as 
 ## High Priority
 
 - [ ] **Calethina questline ("Echoes of the Bridge") — full design**
-  Ji-Eun Kim is the established first thread. The questline structure beyond that first thread hasn't been designed. Affects the Calethina Devotion ending and the questline as a whole. Archive-narrator direction is confirmed.
+  *Deliberately deferred* until the world is better codified. The questline's plot beats need to connect to real, established elements of Concordia's society, history, and geography — writing it before those are solid risks having to rewrite it. Resume when the surrounding world feels stable.
+  
+  **Established so far:**
+  - Direction: archive-narrator. Calethina narrates ruins and abandoned infrastructure, generating quest hooks from her knowledge of the pre-Long Night War world.
+  - First thread: Ji-Eun Kim (her ruined facility, her possible survival).
+  - Structure: each location = physical ruin + Calethina's narration + a thread (person, object, question).
+  - **Download option:** Approximately halfway through the main quest, the player gains the option to download Calethina onto their wrist device (the "not-Pipboy"). She's a single non-redundant instance — if her server is destroyed she is gone permanently. The download protects her but exposes her to everything the player encounters in the second half. Protection and risk simultaneously; a genuine choice.
+  - The first half of the main quest is where the ruins traversal and archive-narrator beats happen. The download shifts the dynamic into something more personal for the second half.
 
 - [ ] **Issue F — Calethina's passive link to the player**
-  What is the passive link between Calethina and the player? Flagged high because it affects how the questline is built and what the player's relationship to her feels like throughout the game.
+  What is the passive link between Calethina and the player? Flagged high because it affects how the questline is built and what the player's relationship to her feels like throughout the game. *Deferred alongside the questline.*
 
 - [ ] **Ji-Eun Kim — main game vs. DLC decision**
   Developer is leaning toward main game. Decision affects whether Ji-Eun gets a full questline or a cameo-and-reference treatment, and how the Calethina → Ji-Eun → Eyes of Gold triangle is resolved in play.

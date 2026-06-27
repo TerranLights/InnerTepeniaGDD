@@ -1,5 +1,25 @@
 # Calethina’s Personal Questline – “Echoes of the Bridge”
 
+---
+
+## ⚠ Design Status: DEFERRED — Review Required Before Development
+
+This questline was written by Grok. The 5-step structure and the general degradation arc are useful reference material, but several elements need to be reviewed and reconciled against confirmed design decisions before this file is treated as authoritative.
+
+**Confirmed design points (override Grok’s version where they conflict):**
+
+1. **Direction: Archive-narrator.** Calethina narrates ruins and abandoned infrastructure the player enters. She knows the history of places she used to reach when her signal was stronger. She generates quest hooks from that knowledge. This is her role in the questline — not organizational leadership, not troops, not loyalists.
+
+2. **First thread: Ji-Eun Kim.** Calethina knows Ji-Eun’s ruined facility. “These ruins were once the facility of Ji-Eun, used for testing nanotech implants. Ji-Eun may still be alive.” Finding Ji-Eun (or finding what happened to her) is the questline’s first major active objective beyond exploration and narration.
+
+3. **Download option at approximately halfway through the main quest.** Grok placed the download as the Step 5 end-game climax (Late Act 2 → Act 3). The developer wants it available at roughly the midpoint of the main quest instead. This is a structural change: the download is not the ending of the Calethina story — it is a transition that changes what the second half of the game looks like with her.
+
+4. **Issue F (passive link name) is unresolved.** The [PASSIVE LINK — NAME TBD] in Steps 2–5 needs a name. Deferred.
+
+**Questline full development is deliberately deferred** until the surrounding world (Concordia’s society, history, geography) is better codified. The plot beats need to connect to real, established elements of the world. Resume when the world feels stable enough to support it.
+
+---
+
 ## Step 1: Awakening & First Signs of Strain
 
 **Location:** Calethina’s Engineering & Activation Lab, **Forgeward District**  
