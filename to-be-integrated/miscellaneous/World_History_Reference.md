@@ -214,6 +214,17 @@ Other inland stations were not viable alternatives:
 
 Concordia's altitude (3,233m) sits in a range high enough to be defensible and hard to reach, but low enough for long-term human habitation with appropriate technology.
 
+**Refugee geography in Concordia:**
+
+The refugee population in Concordia is not evenly distributed by origin. The majority came from cities on the side of Antarctica facing the **Dumont d'Urville Sea** and, to a lesser extent, the **Pacific Ocean / Ross Sea**. These are the cities geographically closest to Concordia's longitude and most naturally connected to it by highway — Janbogo (Jang Bogo, Ross Sea) is the primary example. When the Long Night War destroyed those coastal cities, refugees had a survivable overland route to Concordia.
+
+Refugees from the other sides of the continent are present but less common, simply due to distance:
+- **King Haakon VII Sea / Queen Maud Land coast** (facing toward the Atlantic, roughly 0°–30°W) — Neumayer, Belgrano, and others in that region
+- **Indian Ocean coast** (facing toward Australia, roughly 30°E–90°E) — Mawson, Davis, Syowa, and others
+- **Antarctic Peninsula** (facing toward South America) — Palmer City survivors and others from the peninsula settlements
+
+The farther the origin city from Concordia, the harder and more dangerous the overland crossing, and the fewer refugees who successfully made it.
+
 **What is TBD:**
 - The Federation's political structure and governance
 - The current status of the destroyed coastal cities (complete ruins, partially inhabited, abandoned?)
