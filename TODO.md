@@ -49,6 +49,13 @@ A running reference of outstanding design work, organized by urgency. Update as 
 - [ ] **Robot Religion Insight — naming conflict**
   A naming conflict was flagged in an earlier session and deferred. Needs resolution before robot religious content is finalized.
 
+- [ ] **Janbogo subnet nexus inside Concordia — integrate into story**
+  The Janbogo subnet's physical nexus infrastructure is documented as being in Concordia's Gemini district, even though Concordia is a Mirny ("Australian") subnet city. This was an unintentional geographic mistake during GDD authoring, but it's a potential "happy accident" — the unexplained presence of another subnet's hardware in the middle of a refugee-heavy city has genuine narrative potential. Possible explanations to explore (can be combined):
+  - **Political deal** — Janbogo refugees flooded into Gemini after the Long Night War; the community maintained their own subnet hardware as a condition of integration
+  - **Geographic legacy** — Janbogo's network was routed through Concordia before the Planetary Split Brain, and the hardware was never relocated
+  - **Diaspora identity** — the Janbogo enclave in Gemini built and maintained their own infrastructure as a cultural anchor
+  May connect naturally to the Planetary Split Brain questline and/or the Gemini district's existing Arcanet-adjacent identity.
+
 - [ ] **Echoes of Amundsen — keep, redesign, or cut?**
   Grok-suggested faction. Developer has not decided — will review Grok's original notes before deciding. Several in-game references and one Faction Devotion ending slot depend on this decision. See `to-be-integrated/miscellaneous/World_History_Reference.md` for dramatic context now that the off-world evacuees are confirmed alive and prospering.
 

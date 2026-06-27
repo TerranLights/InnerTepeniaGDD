@@ -25,11 +25,11 @@ Every ending maintains the core Inner Tepenia design principle: even the most op
 | 06 | M+C+H | The Iron Covenant | Forcible enclave / governed by care |
 | 07 | M+C+I | The Gray Eminence | Hidden power broker |
 | 08 | M+C+N | The Iron Philosopher | Warlord who writes the laws |
-| 09 | M+H+I | The Just Sentinel | Extralegal guardian-detective |
-| 10 | M+H+N | The Last Champion | Refuses to leave or bend |
-| 11 | M+I+N | The Obsessive | One thing, total commitment |
-| 12 | M+C+E | The Forge Lord | Personal industrial enclave |
-| 13 | M+H+E | The Last Shepherd | Found a new settlement |
+| 09 | M+C+E | The Forge Lord | Personal industrial enclave |
+| 10 | M+H+I | The Just Sentinel | Extralegal guardian-detective |
+| 11 | M+H+N | The Last Champion | Refuses to leave or bend |
+| 12 | M+H+E | The Last Shepherd | Found a new settlement |
+| 13 | M+I+N | The Obsessive | One thing, total commitment |
 | 14 | M+I+E | The Relic Hunter | Pre-war antiquarian explorer |
 | 15 | M+N+E | The Unyielding Tyrant | Fortified personal territory |
 | 16 | A+C+H | The Shadow Diplomat | Ghost broker of impossible deals |
@@ -233,73 +233,7 @@ The laws the player writes are specific to their particular combination of force
 
 ---
 
-## 09. M+H+I — The Just Sentinel
-*Might + Humanity + Investigation*
-
-You become a self-appointed guardian of justice: you investigate to find threats, use empathy to understand victims and perpetrators, and deliver physical consequences. Outside the law, but filling its function.
-
-**World Trigger**
-A victim's testimony — scratched into a surface in a Scorpio waiting room or a Cancer corridor, the kind of mark someone makes when they don't believe anyone official is listening — describes a specific act by a specific unnamed party. Those scratched words, in that specific location, are the trigger. A player who reads them closely enough can follow the description to find the party.
-
-**The End**
-The player concludes the investigation and delivers the consequence — whatever form that takes. The ending registers at delivery, not at decision.
-
-**Main Negative Effect on Concordia**
-The Sentinel's justice operates without process, without appeal, and without institutional verification. The cases closed correctly create a template for cases others close incorrectly using the same method.
-
-**Minor Negative Effects**
-- Scorpio's therapeutic practice is complicated by clients who divert from therapy toward vigilante reporting to the Sentinel
-- Libra's court processes suffer attrition as cases that would have gone to formal arbitration are resolved (or ended) outside its jurisdiction
-- The investigation methods — effective, unauthorized — are visible in the records disturbed, creating a discovery trail that eventually leads back
-- Those who disagree with the Sentinel's conclusions have no recourse, which is structurally the same problem as the institutions the Sentinel replaced
-
----
-
-## 10. M+H+N — The Last Champion
-*Might + Humanity + Nerve*
-
-You refuse to leave. You refuse to bend. You walk through the crisis as a physical shield for everyone who cannot protect themselves.
-
-**World Trigger**
-A specific street in Cancer or Taurus is the site of a recurring low-level conflict — gang pressure, enforcement sweeps, whatever — that nobody has successfully resolved. A chalk mark on the wall of that street, new each morning, marks how many consecutive days the conflict has continued. The tally is renewed by a child who lives there. That chalk tally is the trigger — a visible count of how long the problem has been ignored.
-
-**The End**
-The tally is not renewed — when the child who kept the count decides they don't need to keep it anymore. The ending registers the morning the chalk mark doesn't appear.
-
-**Main Negative Effect on Concordia**
-The Champion's personal presence is the solution, which means it ends when the Champion ends. The specific conflict may be resolved, but the structural conditions that produced it are unchanged. The next version begins after they're gone.
-
-**Minor Negative Effects**
-- Cancer and Taurus develop a reliance on the Champion that atrophies their own protective capacity — when the Champion leaves, the districts are less capable of self-protection than before
-- The enforcement apparatus the Champion displaced relocates and concentrates elsewhere, making specific other areas worse
-- The Champion's high-profile presence draws additional actors into the territory they protect
-- The people the Champion protected become specific targets for displaced parties exactly when the Champion is gone
-
----
-
-## 11. M+I+N — The Obsessive
-*Might + Investigation + Nerve*
-
-You pick one thing to understand or destroy and pursue it with absolute will and physical dominance until it is done. Nothing else gets your attention.
-
-**World Trigger**
-A physical object with an anomaly that cannot be immediately explained — a marking, a mechanism, a piece of construction that should not exist in its location — is found in a place where nothing significant was expected. The object does not explain itself. But it is physically wrong in a specific, verifiable way. A player who looks at it long enough knows that something is behind it. That object, in that location, is the trigger.
-
-**The End**
-The anomaly is fully resolved — the thing behind it is understood or destroyed. The ending registers at resolution, not at decision.
-
-**Main Negative Effect on Concordia**
-The investigation consumed the player entirely. The energy crisis, the political collapse, the human cost — all received exactly as much attention as was necessary to pursue the anomaly, which was none.
-
-**Minor Negative Effects**
-- What the anomaly pointed at — a conspiracy, an infrastructure failure, a historical cover-up — is now exposed in a partial, uncontrolled way because the investigation had no plan for what to do with the finding
-- The physical path the investigation took through restricted spaces is a documented trail that other investigators and security personnel follow
-- The resolution, if violent, creates a specific incident that requires accounting by parties who weren't involved in creating it
-- The obsessive methods the player demonstrated are studied by Aquarius and deployed inappropriately in unrelated contexts
-
----
-
-## 12. M+C+E — The Forge Lord
+## 09. M+C+E — The Forge Lord
 *Might + Calculation + Engine*
 
 You establish a secret, hyper-efficient personal industrial enclave in the Undergrid or frontier. Your forge never fails. The main grid can.
@@ -321,7 +255,51 @@ The enclave draws power and material from Concordia's infrastructure in ways tha
 
 ---
 
-## 13. M+H+E — The Last Shepherd
+## 10. M+H+I — The Just Sentinel
+*Might + Humanity + Investigation*
+
+You become a self-appointed guardian of justice: you investigate to find threats, use empathy to understand victims and perpetrators, and deliver physical consequences. Outside the law, but filling its function.
+
+**World Trigger**
+A victim's testimony — scratched into a surface in a Scorpio waiting room or a Cancer corridor, the kind of mark someone makes when they don't believe anyone official is listening — describes a specific act by a specific unnamed party. Those scratched words, in that specific location, are the trigger. A player who reads them closely enough can follow the description to find the party.
+
+**The End**
+The player concludes the investigation and delivers the consequence — whatever form that takes. The ending registers at delivery, not at decision.
+
+**Main Negative Effect on Concordia**
+The Sentinel's justice operates without process, without appeal, and without institutional verification. The cases closed correctly create a template for cases others close incorrectly using the same method.
+
+**Minor Negative Effects**
+- Scorpio's therapeutic practice is complicated by clients who divert from therapy toward vigilante reporting to the Sentinel
+- Libra's court processes suffer attrition as cases that would have gone to formal arbitration are resolved (or ended) outside its jurisdiction
+- The investigation methods — effective, unauthorized — are visible in the records disturbed, creating a discovery trail that eventually leads back
+- Those who disagree with the Sentinel's conclusions have no recourse, which is structurally the same problem as the institutions the Sentinel replaced
+
+---
+
+## 11. M+H+N — The Last Champion
+*Might + Humanity + Nerve*
+
+You refuse to leave. You refuse to bend. You walk through the crisis as a physical shield for everyone who cannot protect themselves.
+
+**World Trigger**
+A specific street in Cancer or Taurus is the site of a recurring low-level conflict — gang pressure, enforcement sweeps, whatever — that nobody has successfully resolved. A chalk mark on the wall of that street, new each morning, marks how many consecutive days the conflict has continued. The tally is renewed by a child who lives there. That chalk tally is the trigger — a visible count of how long the problem has been ignored.
+
+**The End**
+The tally is not renewed — when the child who kept the count decides they don't need to keep it anymore. The ending registers the morning the chalk mark doesn't appear.
+
+**Main Negative Effect on Concordia**
+The Champion's personal presence is the solution, which means it ends when the Champion ends. The specific conflict may be resolved, but the structural conditions that produced it are unchanged. The next version begins after they're gone.
+
+**Minor Negative Effects**
+- Cancer and Taurus develop a reliance on the Champion that atrophies their own protective capacity — when the Champion leaves, the districts are less capable of self-protection than before
+- The enforcement apparatus the Champion displaced relocates and concentrates elsewhere, making specific other areas worse
+- The Champion's high-profile presence draws additional actors into the territory they protect
+- The people the Champion protected become specific targets for displaced parties exactly when the Champion is gone
+
+---
+
+## 12. M+H+E — The Last Shepherd
 *Might + Humanity + Engine*
 
 You gather a loyal group and lead them out of the dying city to found a new settlement.
@@ -340,6 +318,28 @@ Cancer loses its most community-minded individuals — specifically the ones who
 - Sagittarius' frontier culture is complicated by a new community that did not come from frontier stock and does not share its values
 - The route to the settlement becomes documented and used by others less prepared for what the journey requires
 - The notice on the Cancer board is eventually taken down; the two names already on it become Concordia's shorthand for "people who gave up"
+
+---
+
+## 13. M+I+N — The Obsessive
+*Might + Investigation + Nerve*
+
+You pick one thing to understand or destroy and pursue it with absolute will and physical dominance until it is done. Nothing else gets your attention.
+
+**World Trigger**
+A physical object with an anomaly that cannot be immediately explained — a marking, a mechanism, a piece of construction that should not exist in its location — is found in a place where nothing significant was expected. The object does not explain itself. But it is physically wrong in a specific, verifiable way. A player who looks at it long enough knows that something is behind it. That object, in that location, is the trigger.
+
+**The End**
+The anomaly is fully resolved — the thing behind it is understood or destroyed. The ending registers at resolution, not at decision.
+
+**Main Negative Effect on Concordia**
+The investigation consumed the player entirely. The energy crisis, the political collapse, the human cost — all received exactly as much attention as was necessary to pursue the anomaly, which was none.
+
+**Minor Negative Effects**
+- What the anomaly pointed at — a conspiracy, an infrastructure failure, a historical cover-up — is now exposed in a partial, uncontrolled way because the investigation had no plan for what to do with the finding
+- The physical path the investigation took through restricted spaces is a documented trail that other investigators and security personnel follow
+- The resolution, if violent, creates a specific incident that requires accounting by parties who weren't involved in creating it
+- The obsessive methods the player demonstrated are studied by Aquarius and deployed inappropriately in unrelated contexts
 
 ---
 
