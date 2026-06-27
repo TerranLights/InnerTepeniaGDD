@@ -6,41 +6,53 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 ## The War of Upper Earth
 
-**Status:** Confirmed major historical event — details largely TBD
+**Status:** Confirmed — core facts established
 
-The War of Upper Earth is a significant conflict that preceded or coincided with the current state of Concordia's world. Its name implies that "Upper Earth" — the off-world colonies or orbital installations — was involved as a combatant or contested party.
+**"Upper Earth" defined:** Upper Earth is the non-Antarctic surface of the planet — geographically above Antarctica. The name is geographic, not cosmological. It does not refer to off-world colonies or orbital installations. The war was fought across the non-Antarctic world; Antarctica was not a primary theater.
 
-**What is known:**
-- Anti-robot sentiment in Unified Korea reached an all-time high *immediately before* the War of Upper Earth — the two facts are temporally linked, suggesting the war may have had a relationship to robot/human political tensions
-- The War is past tense in the game's present — it is history, not current conflict
-- Upper Earth Defector factions (factions in Concordia whose members defected from Upper Earth) exist outside the district reputation system, suggesting the war created political refugees who arrived in Concordia
+**Dates:** ~2563–2564. Ended with the signing of the Falkland Treaty on June 21, 2564.
+
+**Nature:** The first anti-robot war. A large-scale conflict fought across the non-Antarctic world driven by anti-robot sentiment, which had reached an all-time high in the years immediately preceding the war (documented specifically in Unified Korea, likely widespread).
+
+**Outcome:** Upper Earth won. The anti-robot side prevailed. However, the robot population was simply too large to exterminate outright — the logistics of total extermination were not viable. The Falkland Treaty was negotiated as an alternative: the robots (and their human allies) were exiled to Antarctica rather than destroyed. The Treaty was the terms of their defeat, not a mutual compromise.
+
+**Consequence:** The Falkland Treaty (June 21, 2564) established the **Federation of Tepenia** as a formal country in Antarctica, creating the legal and geographic framework for the exile population.
+
+**The Upper Earth Defectors:** These are people who defected from non-Antarctic Earth (the winning side) and came down to Tepenia. They left the side that won. Their position in Concordia is accordingly complicated.
 
 **What is TBD:**
-- Dates and duration
-- Primary combatants and causes
-- How it relates to the Long Night War (same war? separate? before/after?)
-- The war's relationship to the Space Elevator's destruction
-- Whether Upper Earth won, lost, or the war ended in stalemate
+- Specific causes beyond general anti-robot sentiment
+- Which nations or powers on Upper Earth were the primary drivers
+- Duration and major engagements
+- Unified Korea's specific role
 
 ---
 
 ## The Long Night War
 
-**Status:** Confirmed major historical event — details largely TBD
+**Also known as:** The Midnight War (colloquial)
 
-The Long Night War destroyed Calethina's backup server instances, reducing her from a RAID-distributed AI to a single non-redundant instance. This is the defining historical trauma of Calethina's existence and a major lore reference point.
+**Status:** Confirmed — core facts established
 
-**What is known:**
-- The war's name references the "Long Night" — almost certainly the Antarctic polar night (3 months of complete darkness), suggesting the war occurred during or was named after a polar winter
-- The war destroyed Calethina's backup instances (when, how, and by whom is TBD)
-- The war is past tense — it is history
-- It is significant enough to have destroyed infrastructure associated with a major AI system
+**Dates:** Early 2700s — approximately 130–140 years after the Falkland Treaty.
+
+**Relationship to the War of Upper Earth:** Completely separate conflict. The Long Night War is the **second** anti-robot war. The War of Upper Earth was the first.
+
+**Nature:** Both anti-robot AND geographic — a conflict specifically targeting Tepenia/Antarctica as a theater. Where the War of Upper Earth was fought across the non-Antarctic world, the Long Night War was fought in and around Tepenia itself.
+
+**The name:** Antarctica's annual polar night lasts approximately three months — complete darkness. The extended darkness defined the war's conditions and character strongly enough to name it. The colloquial "Midnight War" carries the same reference.
+
+**Known consequences:**
+- Destroyed Calethina's backup server instances, reducing her from a RAID-distributed AI to a single non-redundant instance — the defining historical trauma of her existence
+- Destroyed the Amundsen Tower (Space Elevator), cutting off Tepenia's connection to the broader world; the scrap mountain of its remains still exists
+- Forced large-scale population movement (the evacuees who left via the Space Elevator before its destruction)
+- Destroyed significant infrastructure across Tepenia, including Calethina's distributed server network
 
 **What is TBD:**
-- Is the Long Night War the same as the War of Upper Earth, or a separate conflict?
-- Duration and combatants
-- Scale — was this a Concordia-specific conflict, a Tepenian Federation conflict, or something larger?
-- What other infrastructure was destroyed
+- Who the combatants were (Upper Earth invading Tepenia? Internal Tepenia conflict? Both?)
+- Duration and major engagements
+- How the war ended and what, if any, formal resolution exists
+- Full scope of infrastructure destroyed beyond what's documented above
 
 ---
 
