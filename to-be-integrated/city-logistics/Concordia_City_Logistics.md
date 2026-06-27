@@ -84,6 +84,8 @@ The primary protein source for Concordia's human population comes from four herd
 
 - **Rabbits** — Very efficient feed-to-protein conversion, fast reproduction, minimal space. A secondary protein source that can be maintained in small facilities wherever space permits.
 
+- **Cattle (limited, premium)** — Standard cattle are not absent from Concordia, but they occupy a very different position than in any temperate city. The hard constraint is altitude, not temperature: at 3,233m, cattle experience genuine physiological stress — reduced oxygen means reduced feed efficiency, lower reproductive rates, higher susceptibility to respiratory illness, and brisket disease (high-altitude pulmonary hypertension, a documented condition in cattle ranched at elevation). Temperature can be engineered around inside a dome; oxygen availability is harder. The breeds present are exclusively the small, hardy varieties — **Highland cattle** (long-coated, cold-tolerant), **Dexter cattle** (very small dual-purpose breed, efficient and adaptable), and **Galloway cattle** (cold-tolerant, thrifty). Domes can provide enriched-oxygen paddock sections to partially mitigate the altitude problem, and generations of selection pressure have produced animals somewhat more tolerant than their ancestors. The result: a small dairy herd kept under premium conditions in the Coastal Cut's most controlled paddock sections, producing cow's milk as a luxury product. Yak milk is what most people drink. Cow's milk is expensive and notable. Beef as a regular food item essentially does not exist — it is a rare-occasion product in wealthy districts or a marker of special celebration.
+
 - **Insects** — Mealworms, crickets, black soldier flies. Insect farming requires almost no space or energy, can be fed on organic waste, and produces extremely dense protein per gram. Cultural acceptance varies by district and population segment, but the practical case for insect protein in a resource-constrained Antarctic city is not marginal — it is substantial.
 
 **Geographic placement:**
@@ -243,6 +245,7 @@ Concordia's economy is district-based, with each district specializing according
 *Food and consumption:*
 - Hydroponic product stalls and markets (Coastal Cut)
 - Meat and dairy markets (Coastal Cut primary; Frostlands for reindeer products specifically)
+- Cow's milk and cow-derived dairy (premium/luxury; expensive enough to be a status marker in some districts — yak milk is the everyday product)
 - Restaurants and food service (all districts, quality varies dramatically by district resource access)
 - Siligel distributors (robot-facing, in all districts)
 - Black market food operations (illegal siligel refineries, contraband food imports)
