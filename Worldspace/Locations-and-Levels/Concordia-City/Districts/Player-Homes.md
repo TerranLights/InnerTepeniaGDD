@@ -310,7 +310,7 @@ In the most prestigious and secure zones near the heart of the power core. Excel
 High effort. Requires exceptional reputation, heroic actions during major crises, and substantial contributions (rare components, personal risk in overclocks, or major political support for the district).
 
 ##### Quest-Locked Options:
-Heavily quest-gated. This home is only accessible after completing a complex, multi-stage questline that cements the player as an Aries legend — for example, single-handedly averting a grid-wide collapse during a coordinated sabotage event (possibly involving Aquarius or Pisces), leading a daring expedition to secure a vital new siligel source, or making a sacrificial choice that saves the core at great personal cost. Rewards include private high-capacity power taps, elite defensive upgrades, or influential operator NPC allies.
+Heavily quest-gated. This home is only accessible after completing a complex, multi-stage questline that cements the player as an Aries legend — for example, single-handedly averting a grid-wide collapse during a coordinated sabotage event (possibly involving Aquarius or Pisces), leading a daring expedition to secure a vital new quarry site for siligel precursor materials, or making a sacrificial choice that saves the core at great personal cost. Rewards include private high-capacity power taps, elite defensive upgrades, or influential operator NPC allies.
 
 
 

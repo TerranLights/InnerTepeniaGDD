@@ -218,7 +218,7 @@ Sagittarius: Adventure, exploration, optimism, freedom, and the pursuit of dista
 1. The Lost Caravan
 * A major supply caravan from the Frostward reaches has gone missing, carrying critical siligel and pre-war tech. Players must mount a rescue/exploration mission while dealing with harsh weather, raiders, or hidden ruins.
 2. Frontier Boom Conflict
-* A new siligel deposit discovery sparks a violent claim war between rival settler groups and corporate interests from Capricorn. Players must mediate, pick a side, or exploit the chaos for personal gain.
+* A newly discovered quarry site rich in siligel precursor materials sparks a violent claim war between rival settler groups and corporate interests from Capricorn. Players must mediate, pick a side, or exploit the chaos for personal gain.
 3. The Cursed Outpost
 * A remote frontier station begins reporting strange phenomena (ghost signals, malfunctions, psychological effects). Investigation reveals experimental tech spillover, ancient ruins, or a deliberate cover-up. Players decide whether to evacuate, investigate deeper, or destroy it.
 
