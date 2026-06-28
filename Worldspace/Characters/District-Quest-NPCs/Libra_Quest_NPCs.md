@@ -38,7 +38,7 @@ NPC-Libra-Pragmatist-Council-Chair is the NPC who is most likely to make the pla
 ## NPC-Libra-True-Believer-Archivist
 **Role:** True Believer archivist — found the Suspended Compact; prepared to release it
 **Species:** Doll (Robot)
-**Build:** Built 2760s — relatively new to full operational status. Archive-optimized model, lighter frame designed for extended sedentary document work. Has the quality of a Doll who has been in a single professional context since activation: her entire existence has been the archive. The chassis is clean, maintained to professional standard, not individualized in any way. Not because she lacks a self — because she has been focused on the archive, not on herself.
+**Build:** Built 2760s — relatively new to full operational status. Archive-optimized model, lighter frame designed for extended sedentary document work. Has the quality of a Doll who has been in a single professional context since activation: her entire existence has been the archive. The frame is clean, maintained to professional standard, not individualized in any way. Not because she lacks a self — because she has been focused on the archive, not on herself.
 **Presenting gender:** Female
 
 **Personality:**
@@ -59,7 +59,7 @@ Archive work: cataloguing, documentation, cross-referencing. Has maintained the 
 Standard archive worker housing — nothing that would read as out of the ordinary, because she is very carefully not drawing attention to herself. The copies of the Compact are in the housing but in a location and format she is not going to describe to anyone who hasn't been trusted entirely.
 
 **Physical notes:**
-The newness of the model — the chassis is five years old, maintained but not yet worn in — gives her a kind of visible newness that the older Libra personnel do not have. She is visibly among the youngest people in the professional space she occupies, which is its own kind of political disadvantage and which she is aware of.
+The newness of the model — the synthetic skin is five years old, maintained but not yet worn in — gives her a kind of visible newness that the older Libra personnel do not have. She is visibly among the youngest people in the professional space she occupies, which is its own kind of political disadvantage and which she is aware of.
 
 **Player interaction note:**
 NPC-Libra-True-Believer-Archivist will tell the player what she found and what she's going to do. She will not ask for permission to do it. She will, however, respond to arguments about how to do it — the timing, the form, the whether-it-can-be-done-in-a-way-that-doesn't-end-in-her-being-disappeared. She wants the Compact released, not herself vindicated; she can be redirected on method, not on goal.

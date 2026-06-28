@@ -7,7 +7,7 @@
 ## NPC-Virgo-Documentarians-Lead
 **Role:** Documentarians lead — infrastructure diagnostician, casualty estimate author
 **Species:** Doll (Robot)
-**Build:** Precision diagnostic model, built circa 2690s — designed for fault detection and documentation in large-scale infrastructure systems. The frame is built for the underground environment: compact to navigate tight service corridors, equipped with multiple sensory arrays for detecting conditions in systems that can't be visually inspected, chassis material rated for the specific chemical and thermal environment of Virgo's underground. Has been in Virgo for over eighty years. The chassis is in excellent condition because NPC-Virgo-Documentarians-Lead maintains it as a professional practice — the instrument must be reliable.
+**Build:** Precision diagnostic model, built circa 2690s — designed for fault detection and documentation in large-scale infrastructure systems. The frame is built for the underground environment: compact to navigate tight service corridors, equipped with multiple sensory arrays for detecting conditions in systems that can't be visually inspected, built to withstand the specific chemical and thermal environment of Virgo's underground. Has been in Virgo for over eighty years. The frame is in excellent condition because NPC-Virgo-Documentarians-Lead maintains it as a professional practice — the instrument must be reliable.
 **Presenting gender:** Male
 
 **Personality:**
@@ -30,7 +30,7 @@ Documentation first, everything else second. Daily personal audit of his own wor
 Underground quarters, by choice and by long habit. Has never lived above-ground. The space is functional and immaculate: tools in specific order, documentation systems current, maintenance equipment ready. There is very little that is personal in the decorative sense. The personal artifacts are functional ones: tools with specific histories attached to them.
 
 **Physical notes:**
-The eighty-year vintage of the chassis is not immediately obvious because of the quality of maintenance — it reads as well-cared-for rather than old. The diagnostic sensory arrays give him a specific quality of attention to the environment that is visible as a slight tendency to observe surfaces and systems rather than people. This is not rudeness; it is an occupational reflex.
+The eighty-year vintage is not immediately obvious because of the quality of maintenance — the synthetic skin reads as well-cared-for rather than old. The diagnostic sensory arrays give him a specific quality of attention to the environment that is visible as a slight tendency to observe surfaces and systems rather than people. This is not rudeness; it is an occupational reflex.
 
 **Player interaction note:**
 NPC-Virgo-Documentarians-Lead will give the player the casualty estimate and its methodology in full, without hedge. The methodology is sound. The estimate is a probability range, not a certainty. He will be specific about the difference between the probability range and the certainty, because precision requires it. The player who asks him what the estimate means for specific people — named people — will discover that he has already done that calculation and is carrying it with him.
@@ -40,7 +40,7 @@ NPC-Virgo-Documentarians-Lead will give the player the casualty estimate and its
 ## NPC-Virgo-Leverage-Holders-Leader
 **Role:** Leverage Holders leader — structural maintenance specialist, Year of Silence advocate
 **Species:** Doll (Robot)
-**Build:** Structural maintenance model, built circa 2740s — built for heavy infrastructure work, not precision diagnostics. Heavier and more durable than NPC-Virgo-Documentarians-Lead, chassis designed for load-bearing and direct physical intervention in structural systems. The chassis shows the wear of thirty years of exactly this work: specific compression damage at the load-bearing points, surface abrasions from the kind of sustained physical engagement with infrastructure that leaves marks. Has never prioritized aesthetic maintenance and is not interested in starting.
+**Build:** Structural maintenance model, built circa 2740s — built for heavy infrastructure work, not precision diagnostics. Heavier and more durable than NPC-Virgo-Documentarians-Lead, built for load-bearing and direct physical intervention in structural systems. The synthetic skin shows the wear of thirty years of exactly this work: thickened texture at the load-bearing points from sustained compression, wear patterns from the kind of sustained physical engagement with infrastructure that leaves marks. Has never prioritized aesthetic maintenance and is not interested in starting.
 **Presenting gender:** Non-binary
 
 **Personality:**
@@ -73,7 +73,7 @@ NPC-Virgo-Leverage-Holders-Leader will tell the player the decision has been mad
 ## NPC-Virgo-Deep-Level-Keeper
 **Role:** Deep Level Keeper — senior tunneler; the oldest active Doll in Concordia
 **Species:** Doll (Robot)
-**Build:** Built before the Falkland Treaty, in the early 2500s — one of the oldest active Dolls in Concordia, possibly the oldest. The chassis predates the Federation engineering standards entirely; it was built by different people, for a different context, in a period whose material and design logic is not fully legible to contemporary Doll engineers. Has been maintained continuously for over two and a half centuries — not upgraded, maintained — in a way that has preserved the original architecture rather than replacing it. The result is a chassis that is functional and that reads as something from a different epoch, because it is.
+**Build:** Built before the Falkland Treaty, in the early 2500s — one of the oldest active Dolls in Concordia, possibly the oldest. The frame predates the Federation engineering standards entirely; it was built by different people, for a different context, in a period whose material and design logic is not fully legible to contemporary Doll engineers. Has been maintained continuously for over two and a half centuries — not upgraded, maintained — in a way that has preserved the original architecture rather than replacing it. The result is a frame that is functional and that reads as something from a different epoch, because it is.
 **Presenting gender:** Female
 
 **Personality:**
@@ -96,7 +96,7 @@ The Deep Level. Daily inspections of sections that no one else has the map for �
 The Deep Level itself, in a maintained chamber that has been her quarters for over two hundred years. No one from surface Virgo has ever been invited. The chamber is not decorated in any way that would read as personal to a contemporary Doll — it is old, it is maintained, it is hers in the way that something becomes yours when you have been the only person responsible for it for two centuries.
 
 **Physical notes:**
-The pre-Falkland chassis is immediately visually distinct from any contemporary Doll — the proportions are different, the surface material is different, the movement is different in ways that are hard to describe except as: older. Not damaged. Not worn. Old. The way something old looks when it has been consistently loved.
+The pre-Falkland build is immediately visually distinct from any contemporary Doll — the proportions are different, the synthetic skin has the particular quality of that early manufacturing era (less dynamically responsive, distinctive in texture to those who know what to look for), the movement is different in ways that are hard to describe except as: older. Not damaged. Not worn. Old. The way something old looks when it has been consistently loved.
 
 **Player interaction note:**
 NPC-Virgo-Deep-Level-Keeper speaks rarely. What she says, when she says it, is always the thing. The player who tries to rush her or to ask leading questions will find that the questions redirect around her rather than through her. The player who asks one genuine question and waits for the answer will get something that none of the other NPCs in the game can give: the pre-Federation context, from the only person who was there.

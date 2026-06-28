@@ -7,7 +7,7 @@
 ## NPC-Sagittarius-Expansionist-Lead
 **Role:** Expansionist expedition lead — on-site at the ruins when the quest begins
 **Species:** Doll (Robot)
-**Build:** Cold-weather navigation model — built specifically for the Frostlands, optimized for surface conditions. Heavier insulated chassis, navigation and environmental sensing arrays extended beyond the standard configuration, limb design for traction and stability on variable frozen terrain. Has led twelve successful expeditions; the chassis carries the specific wear of sustained Frostlands work: micro-abrasions on all surface-facing panels, insulation systems that have been upgraded three times. This is a tool that has been used for exactly the purpose it was designed for and that is entirely at home in the conditions it was built for.
+**Build:** Cold-weather navigation model — built specifically for the Frostlands, optimized for surface conditions. Heavier insulated build, navigation and environmental sensing systems extended beyond the standard configuration, limb design for traction and stability on variable frozen terrain. Has led twelve successful expeditions; the synthetic skin carries the specific wear of sustained Frostlands work: micro-scarring and pigmentation changes from cold-exposure across the exposed areas, with internal insulation systems upgraded three times. This is a Doll that has been used for exactly the purpose it was designed for and that is entirely at home in the conditions it was built for.
 **Presenting gender:** Female
 
 **Personality:**

@@ -7,7 +7,7 @@
 ## NPC-Aries-Overclocker-Shift-Leader
 **Role:** Overclocker shift leader — power core crew lead
 **Species:** Doll (Robot)
-**Build:** Heavy-duty power regulation model, circa 2690s — built for the extreme conditions of the geothermal core. Large frame with high heat tolerance, designed for direct intervention in cascading failure events. Has the visible history of a Doll who has been in the core: the chest panel has been rebuilt twice (the seams are different materials from the original); one arm is entirely rebuilt after a cascade event forty years ago, slightly heavier than the other; heat-exposure wear patterns on the chassis surfaces that cannot be fully corrected and that NPC-Aries-Overclocker-Shift-Leader has not attempted to correct. The scars are worn as credential.
+**Build:** Heavy-duty power regulation model, circa 2690s — built for the extreme conditions of the geothermal core. Large frame with high heat tolerance, designed for direct intervention in cascading failure events. Has the visible history of a Doll who has been in the core: the chest area has been rebuilt twice, leaving visible graft lines in the synthetic skin where replacement skin meets original; one arm is entirely rebuilt after a cascade event forty years ago, slightly heavier in profile than the other with replacement synthetic skin that matches closely but not exactly; heat-exposure pigmentation changes across the skin that cannot be fully corrected and that NPC-Aries-Overclocker-Shift-Leader has not attempted to correct. The scars are worn as credential.
 **Presenting gender:** Male
 
 **Personality:**
@@ -61,7 +61,7 @@ Reviews the safety logs before any other task. Has built her own supplementary m
 Her quarters have monitoring equipment running continuously. Not anxiety — she finds it calming to know the actual conditions of her environment. The monitoring is her baseline. The space is spare otherwise; her attention goes to the monitoring rather than to her surroundings.
 
 **Physical notes:**
-The lighter frame reads differently from the core's older Dolls — she is faster in movement, less imposing physically. This has been a source of friction with Overclockers throughout her career. She has stopped caring about it. The monitoring systems she's built are attached to the core infrastructure itself, not to her chassis; she interfaces with them through a standard connection.
+The lighter frame reads differently from the core's older Dolls — she is faster in movement, less imposing physically. This has been a source of friction with Overclockers throughout her career. She has stopped caring about it. The monitoring systems she's built are attached to the core infrastructure itself; she interfaces with them through a standard internal connection.
 
 **Player interaction note:**
 NPC-Aries-Safety-Engineer is the NPC most likely to be immediately useful to a player who is trying to understand what is actually happening in the crisis. She has the most accurate information and the clearest analysis of what it means. She will give this information to the player if the player is listening — if the player is not listening, she will notice, and she will not repeat herself.

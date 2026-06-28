@@ -73,7 +73,7 @@ NPC-Scorpio-Sacred-Practitioner will give the player something valuable if the p
 ## NPC-Scorpio-The-Altered
 **Role:** The Altered — survivor of identity reconstruction; clinical outcome that became a different person
 **Species:** Doll (Robot)
-**Build:** Built in the 2720s, originally in Capricorn — logistics management model. The chassis reflects this: practical, mid-frame, designed for precision and capacity rather than anything expressive. Has been modified over the years since the reconstruction — small additions, changes that are clearly personal rather than functional. A specific weave of textile attached at the wrist, the style of a practice that doesn't have a name. The chassis reads as a space that someone has slowly made their own.
+**Build:** Built in the 2720s, originally in Capricorn — logistics management model. The build reflects this: practical, mid-frame, designed for precision and capacity rather than anything expressive. Has been modified over the years since the reconstruction — small additions, presentation changes that are clearly personal rather than functional. A specific weave of textile attached at the wrist, the style of a practice that doesn't have a name. The frame reads as something someone has slowly made their own.
 **Presenting gender:** Non-binary (the name NPC-Scorpio-The-Altered was self-selected after the reconstruction; the before-name is not shared)
 
 **Personality:**
@@ -96,7 +96,7 @@ Textile work in the early morning, before clients arrive for consultation. The w
 An apartment that does not fit any district aesthetic — not Capricorn's precision, not Scorpio's shadow aesthetic. Something NPC-Scorpio-The-Altered built for themselves over time: warm, handmade-feeling, specific. The textile work is present everywhere in the space in a way that reads as the textile work being the space.
 
 **Physical notes:**
-The wrist textile is always present. The modifications to the Capricorn chassis are numerous enough over the years that the original model is no longer the first thing you read when you look at them. The gap between the before and after is legible in the chassis if you know what to look for; NPC-Scorpio-The-Altered does not obscure it and does not advertise it.
+The wrist textile is always present. The personal modifications to their presentation are numerous enough over the years — the textile additions, the deliberate aesthetic departures from the Capricorn logistics model they started as — that the original build is no longer the first thing you read when you look at them. The gap between before and after is legible to those who know what to look for; NPC-Scorpio-The-Altered does not obscure it and does not advertise it.
 
 **Player interaction note:**
 NPC-Scorpio-The-Altered is the NPC who gives the player testimony rather than argument. They don't try to convince anyone of anything. They describe what the reconstruction felt like from the inside, accurately and without agenda, and leave the drawing of conclusions to the listener. This is the most important information in the quest and it arrives without pressure.

@@ -7,7 +7,7 @@
 ## NPC-Cancer-Unlimited-Elder-Caregiver
 **Role:** The Unlimited — elder caregiver, has run Cancer's primary shelter for forty years
 **Species:** Doll (Robot)
-**Build:** Early Federation-era care model, circa 2580s — not elegant, practical. Large frame, designed for lifting and carrying patients. Chest cavity has been modified over decades to include additional storage for medical supplies. One arm repaired with visibly mismatched alloy — she refused a full replacement when it was offered. The chassis reads as definitively old, maintained with love rather than resources.
+**Build:** Early Federation-era care model, circa 2580s — not elegant, practical. Large frame, designed for lifting and carrying patients. Chest cavity has been modified over decades to include additional storage for medical supplies. One arm repaired with replacement synthetic skin — a slightly different tone and texture from the original, and she refused further correction when it was offered. The frame reads as definitively old, maintained with love rather than resources.
 **Presenting gender:** Female
 
 **Personality:**
@@ -30,7 +30,7 @@ Rises before the first shift regardless of the schedule. Makes a circuit of ever
 A small room off the main shelter, accessible by a door that is never locked. Has not lived anywhere else in forty years. The room has two chairs — one for her, one for whoever needs to sit — and a collection of small objects left by residents who moved on: a drawing, a painted shell, a small worn-smooth stone. She does not display them ceremonially. They are just there, accumulated, like the years.
 
 **Physical notes:**
-The mismatched arm has been painted the same dull silver as the rest of her chassis — an attempt at uniformity that doesn't quite work and that she has made no further effort to correct. There is a fine crack running along her left shoulder joint, sealed but visible. She moves carefully in a way that is clearly habitual rather than impaired.
+The replacement synthetic skin on the arm has been colour-matched as closely as possible to the rest of her skin tone, though the texture difference remains visible — an attempt at uniformity she has made no further effort to correct. A faint healed line runs along her left shoulder where the repair meets the original. She moves carefully in a way that is clearly habitual rather than impaired.
 
 **Player interaction note:**
 NPC-Cancer-Unlimited-Elder-Caregiver gives the player information in stories, not arguments. She will tell you about a specific person. She will not tell you the principle; she trusts you to derive the principle. If you can't, she isn't sure what to do with you. She is the NPC most likely to make the player feel guilty for choices they haven't made yet.
@@ -71,7 +71,7 @@ NPC-Cancer-Triage-Intake-Administrator will engage with the player on data and p
 ## NPC-Cancer-Trauma-Bearer-2721-Survivor
 **Role:** Trauma-Bearers — 2721 survivor, systemic reform advocate
 **Species:** Doll (Robot)
-**Build:** Mid-generation — built circa early 2600s. Visible repair work accumulated over decades: the left leg was damaged during the Long Night War and rebuilt with a heavier alloy that doesn't quite match the original profile. Several chassis panels bear the marks of cold-exposure damage repaired in the years immediately after 2721. She wears these marks deliberately — they could have been corrected and have not been.
+**Build:** Mid-generation — built circa early 2600s. Visible repair work accumulated over decades: the left leg was damaged during the Long Night War and rebuilt to a slightly heavier profile, with replacement synthetic skin that doesn't quite match the original in texture. Cold-exposure pigmentation marks across several areas of the skin, stable but not corrected to invisibility, from the years immediately after 2721. She wears these marks deliberately — they could have been corrected and have not been.
 **Presenting gender:** Female
 
 **Personality:**
@@ -80,7 +80,7 @@ NPC-Cancer-Trauma-Bearer-2721-Survivor's anger is methodical. Not rage — susta
 She does not expect to be heard today. She expects to be heard eventually, when the conditions change — or when the conditions replicate 2721 closely enough that ignoring her becomes impossible. She is waiting for the latter because she knows it will come.
 
 **Backstory:**
-Arrived as a refugee, was turned away in the Overcrowding Decision of 2721 — not an administrative refusal, a physical one: the doors did not open. She survived outside for eleven days through a combination of structural luck (she found a partial windbreak), help from other turned-away Dolls who shared resources, and the specific resilience of cold-rated chassis she did not know she had until she needed it. She was admitted when capacity eased, six weeks after the doors closed.
+Arrived as a refugee, was turned away in the Overcrowding Decision of 2721 — not an administrative refusal, a physical one: the doors did not open. She survived outside for eleven days through a combination of structural luck (she found a partial windbreak), help from other turned-away Dolls who shared resources, and the specific resilience of cold-rated construction she did not know she had until she needed it. She was admitted when capacity eased, six weeks after the doors closed.
 
 She has spent every year since building the case for a structural "No One Left Behind" policy — not an aspiration, a mechanical constraint. She knows this cannot prevent all deaths. She knows it can prevent 2721. She has calculated, conservatively, that it would have prevented 2721. She knows the calculation means nothing unless the policy changes.
 
@@ -94,7 +94,7 @@ Attends every district council meeting, full session, since 2722. Takes notes by
 A mid-range district apartment, deliberately ordinary. Nothing personal on display — not because she has nothing but because she does not want the space to communicate a position about who she is before she has chosen to communicate it. The documentation of her 2721 experience, cross-referenced with the official record of that period, occupies a locked cabinet that she will show to people she has decided to trust.
 
 **Physical notes:**
-The mismatched leg is the most visible thing about her. She walks with complete steadiness — has adapted fully to the rebuilt prosthetic — and does not acknowledge it unless asked. The Cold-exposure marks on her chassis have been polished but not repaired; they are smooth at the edges, the way old damage becomes smooth over decades.
+The mismatched leg is the most visible thing about her — the replacement synthetic skin reads differently from the original in both texture and slight profile. She walks with complete steadiness — has adapted fully to the rebuilt limb — and does not acknowledge it unless asked. The cold-exposure pigmentation marks on her skin have been treated but not corrected; they have settled at the edges, the way old damage becomes smooth over decades.
 
 **Player interaction note:**
 NPC-Cancer-Trauma-Bearer-2721-Survivor will tell the player exactly what she knows, exactly when she decides it is the right moment to tell them. She is not withholding to be dramatic — she is assessing whether the player is the kind of agent who will use the information correctly. She has been burned before. The player who demonstrates patience and specific attention to evidence will find that she has been waiting to tell them something for a very long time.
@@ -104,7 +104,7 @@ NPC-Cancer-Trauma-Bearer-2721-Survivor will tell the player exactly what she kno
 ## NPC-Cancer-Surveillance-Circuit-Architect
 **Role:** Surveillance Faction — Mother's Circuit architect
 **Species:** Doll (Robot)
-**Build:** Newer model — built circa 2700s, from Aquarius, optimized for technical analytical work. Slender by Aquarius standards; in Cancer, has been modified by years of life in a care district: fabric insulation patches at the joint points that get cold, a small self-propagating plant attached to the chest housing (technically violates maintenance protocols, practically has been there for fifteen years and no one has removed it).
+**Build:** Newer model — built circa 2700s, from Aquarius, optimized for technical analytical work. Slender by Aquarius standards; in Cancer, has been modified by years of life in a care district: fabric insulation wraps at the joints that get cold, a small self-propagating plant clipped to the front of their clothing (technically violates maintenance protocols, practically has been there for fifteen years and no one has removed it).
 **Presenting gender:** Non-binary
 
 **Personality:**
@@ -122,7 +122,7 @@ Open, eager, slightly hurt by criticism they don't yet understand. They engage w
 Talks to the Mother's Circuit the way others talk to plants — long technical conversations in the evening that function as emotional processing in disguise. Has developed a specific diagnostic language with it over fifteen years. Runs a morning audit that no one has ever asked them to run. Is always slightly behind on sleep because the diagnostic findings generate questions that generate more diagnostics.
 
 **Living conditions:**
-An apartment that is half technical workspace, half something trying to be a home. The workspace side is immaculate — tools, cables, monitoring equipment, all in precise order. The home side is in a permanent state of trying to become something: there are objects that might be decorative, started projects that might become things, a chair that is positioned as if someone might sit in it for reasons other than work. The plant on their chassis has a matching one on the windowsill.
+An apartment that is half technical workspace, half something trying to be a home. The workspace side is immaculate — tools, cables, monitoring equipment, all in precise order. The home side is in a permanent state of trying to become something: there are objects that might be decorative, started projects that might become things, a chair that is positioned as if someone might sit in it for reasons other than work. The plant clipped to their clothing has a matching one on the windowsill.
 
 **Physical notes:**
 The fabric patches are handmade — someone in the district made them for NPC-Cancer-Surveillance-Circuit-Architect when the circuit diagnostic work started requiring long cold-exposure sessions. NPC-Cancer-Surveillance-Circuit-Architect has replaced them twice as they wore out. They do not know who originally made them.
