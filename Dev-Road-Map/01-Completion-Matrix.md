@@ -112,18 +112,29 @@
 
 ## CHARACTERS
 
-### Companion Dolls (main game)
+### Recruitable Companions (main game)
 
 | Character | Profile | Backstory | Personality | Questline | MACHINE Stats |
 |-----------|---------|-----------|-------------|-----------|---------------|
 | Favi della Torre | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Villena Hiresvett | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Trisha Miller | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Majyao Bisyugota | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Naizelle d'Edjordoś | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Seica Cenilaithe | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Ji-Eun Kim | ✅ | ✅ | 🟡 | 🟡 | 🟡 |
+| + additional companions TBD | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+### Calethina (projection system — not a companion)
+
+| Character | Profile | Backstory | Personality | Questline | MACHINE Stats |
+|-----------|---------|-----------|-------------|-----------|---------------|
 | **Calethina** | 🟡 | ❌ | ❌ | 🟡 | ❌ |
+
+### Major NPCs with Large Questlines (not recruitable)
+
+| Character | Profile | Backstory | Personality | Questline | Notes |
+|-----------|---------|-----------|-------------|-----------|-------|
+| Trisha Miller | ✅ | ✅ | ✅ | ✅ | Radio host; post-questline mechanic: talks about player on air |
+| Majyao Bisyugota | ✅ | ✅ | ✅ | ✅ | Teahouse keeper; stays in role |
 
 ### Scaffold Characters (backstory exists, personality absent)
 

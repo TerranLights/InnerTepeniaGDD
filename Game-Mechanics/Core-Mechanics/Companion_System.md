@@ -26,22 +26,38 @@ The single companion slot means each companion choice is a genuine commitment. T
 
 ## Total Recruitable Pool
 
-**Main game target: 10–12 recruitable companions** (not counting Calethina).
+**Main game target: TBD — higher than originally estimated.** The pool should be large enough that multiple playthroughs feel genuinely different. Specific count to be established as character design work progresses.
 
-Currently confirmed (7):
+Currently confirmed recruitable companions (5):
 1. Favi della Torre
 2. Villena Hiresvett
-3. Trisha Miller
-4. Majyao Bisyugota
-5. Naizelle d'Edjordoś
-6. Seica Cenilaithe
-7. Ji-Eun Kim
+3. Naizelle d'Edjordoś
+4. Seica Cenilaithe
+5. Ji-Eun Kim
 
-3–5 additional companions to be designed as the GDD develops. Some TBN characters may be recruitable; classification TBD per character.
+Additional recruitable companions to be designed. Some TBN characters may be recruitable; classification TBD per character.
 
 **DLC companions** (separate from main game pool, available only in their respective DLC):
 - Kendra Heinrich (DLC 1: South Pole)
 - Salagéa Aparast (DLC 5: Atlantic Coastal Region)
+
+---
+
+## Major NPCs Who Are Not Recruitable Companions
+
+Some characters have complete questlines and deep player relationships but do not join the party. They are major NPCs, not companions.
+
+### Trisha Miller — Radio Host
+
+Trisha runs her radio show and does not leave that role. She cannot be recruited as a companion.
+
+**Post-questline mechanic:** Trisha's relationship with the player — built through her questline, through the player's choices, through help given or betrayal committed — is expressed through her radio show. After the questline resolves, she talks about the player on air. What she says reflects how the events played out. Players who helped her get one version; players who betrayed her get another; players who made complicated choices in between get something that reflects that complexity.
+
+This makes her radio show a form of world-state feedback: Concordia hears what Trisha says about the player, and NPCs may reference having heard the broadcast. She is one of the primary ways the game communicates reputation back to the player through the world's voice rather than through a UI element.
+
+### Majyao Bisyugota — Teahouse Keeper
+
+Majyao runs her teahouse and does not leave it. She cannot be recruited as a companion. Her questline is large and consequential; its resolution plays out through the teahouse and through Concordia's political landscape, not through party membership.
 
 ---
 
