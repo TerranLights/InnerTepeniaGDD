@@ -21,9 +21,9 @@
 **MACHINE Stat Profile:**
 - Might: **10**
 - Agility: **10**
-- Calculation: TBD
-- Humanity: TBD
-- Investigation: TBD
+- Calculation: 6
+- Humanity: 5
+- Investigation: 6
 - Nerve: **10**
 - Engine: **10**
 

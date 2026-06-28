@@ -18,14 +18,14 @@
 - Hornevian Group: Assertive
 - Harmonic Group: Reactive
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: TBD
-- Agility: TBD
-- Calculation: TBD
-- Humanity: TBD
-- Investigation: TBD
-- Nerve: TBD
-- Engine: TBD
+**MACHINE Stat Profile:**
+- Might: 5
+- Agility: 10
+- Calculation: 5
+- Humanity: 8
+- Investigation: 5
+- Nerve: 9
+- Engine: 8
 
 **Key Traits / Notable Perks (companion-relevant):**
 - Exceptionally skilled with one-handed non-revolver ballistic pistols — her specific weapon, deeply mastered; not broadly versatile but devastating in her lane

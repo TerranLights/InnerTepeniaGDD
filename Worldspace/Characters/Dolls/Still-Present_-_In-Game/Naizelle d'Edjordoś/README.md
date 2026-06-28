@@ -18,14 +18,14 @@
 - Hornevian Group: Withdrawn
 - Harmonic Group: Competency
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: TBD
-- Agility: TBD
-- Calculation: TBD
-- Humanity: TBD
-- Investigation: TBD
-- Nerve: TBD
-- Engine: TBD
+**MACHINE Stat Profile:**
+- Might: 5
+- Agility: 7
+- Calculation: 7
+- Humanity: 4
+- Investigation: 10
+- Nerve: 8
+- Engine: 7
 
 **Key Traits / Notable Perks (companion-relevant):** TBD
 

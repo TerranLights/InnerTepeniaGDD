@@ -24,16 +24,14 @@
 
 She didn't set out to investigate the Great Corruption. She was organizing data and the gap didn't make sense. That's how a Social 5 becomes an investigator — not through moral outrage, but through an error in the structure.
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: Low
-- Agility: TBD
-- Calculation: High — her primary stat
-- Humanity: Moderate (6 wing loyalty; not cold, but not warm on first contact)
-- Investigation: High — core to her work
-- Nerve: Moderate (she has been handling dangerous pressure alone, which requires it)
-- Engine: Moderate (she endures; she has been doing this a long time)
-
-*Note: Exact baseline numbers TBD. Calculation and Investigation are confirmed primaries.*
+**MACHINE Stat Profile:**
+- Might: 3
+- Agility: 5
+- Calculation: 9
+- Humanity: 6
+- Investigation: 9
+- Nerve: 7
+- Engine: 8
 
 **Key Traits / Notable Perks (companion-relevant):** TBD
 

@@ -18,14 +18,14 @@
 - Hornevian Group: Compliant
 - Harmonic Group: Competency
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: TBD
-- Agility: TBD
-- Calculation: TBD
-- Humanity: TBD
-- Investigation: TBD
-- Nerve: TBD
-- Engine: TBD
+**MACHINE Stat Profile:**
+- Might: 5
+- Agility: 6
+- Calculation: 6
+- Humanity: 9
+- Investigation: 7
+- Nerve: 8
+- Engine: 9
 
 **Key Traits / Notable Perks (companion-relevant):** TBD
 
