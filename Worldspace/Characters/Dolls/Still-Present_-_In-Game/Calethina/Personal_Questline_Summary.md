@@ -22,7 +22,7 @@ This questline was written by Grok. The 5-step structure and the general degrada
 
 ## Step 1: Awakening & First Signs of Strain
 
-**Location:** Calethina’s Engineering & Activation Lab, **Forgeward District**  
+**Location:** Calethina’s Engineering & Activation Lab (Hub jurisdiction — Capricorn/Cancer border)  
 **Timing:** Very beginning of the game (Early Act 1)
 
 ### Scene Overview & Context
@@ -118,7 +118,7 @@ This step is **welcoming and low-stakes**. It establishes:
 
 ## Step 2: The [PASSIVE LINK — NAME TBD]
 
-**Location:** Calethina’s Engineering Lab (Forgeward) + anywhere in Concordia  
+**Location:** Calethina’s Engineering & Activation Lab (Hub jurisdiction — Capricorn/Cancer border) + anywhere in Concordia  
 **Timing:** Early Act 1 (after the player leaves the lab for the first time and returns, or after completing their first district visit)
 
 ### Scene Overview & Context
@@ -216,7 +216,7 @@ Would you like any adjustments to Step 2 before we continue with **Step 3**?
 
 ## Step 3: First Major Degradation Trigger
 
-**Location:** Calethina’s Engineering Lab (Capricorn District) + various districts across Concordia  
+**Location:** Calethina’s Engineering & Activation Lab (Hub jurisdiction — Capricorn/Cancer border) + various districts across Concordia  
 **Timing:** Mid Act 1 → Early Act 2
 
 ### Scene Overview & Context
@@ -316,7 +316,7 @@ This step raises the emotional stakes. The player realizes Calethina is not just
 
 ## Step 4: Deepening Degradation & Multiple Triggers
 
-**Location:** Calethina’s Engineering Lab (Capricorn District) + various districts across Concordia  
+**Location:** Calethina’s Engineering & Activation Lab (Hub jurisdiction — Capricorn/Cancer border) + various districts across Concordia  
 **Timing:** Mid Act 2 → Late Act 2
 
 ### Scene Overview & Context
@@ -424,7 +424,7 @@ Would you like any adjustments to Step 4 before we continue with **Step 5: The F
 
 ## Step 5: The Full Download Decision (Climax)
 
-**Location:** Calethina’s Engineering Lab (Capricorn District) + potentially other key locations  
+**Location:** Calethina’s Engineering & Activation Lab (Hub jurisdiction — Capricorn/Cancer border) + potentially other key locations  
 **Timing:** Late Act 2 → Act 3 (after significant progress in the main story and multiple degradation triggers)
 
 ### Scene Overview & Context
