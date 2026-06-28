@@ -122,7 +122,7 @@ The Amundsen-Scott Station is locked from inside by Kendra. The automated defens
 
 **Environmental (found in the DLC — minimum 3):**
 
-1. **Underground utility tunnel network** — The Amundsen-Scott station has an extensive underground tunnel system carved into the ice, built during the pre-war era. One entrance is buried under accumulated debris near the outer ruins. Requires Investigation 7 to locate, or Naizelle's Physical Gap Reading companion effect. Then Lockpick 45 or Repair 35 to open the frozen-shut hatch.
+1. **Underground utility tunnel network** — The Amundsen-Scott station has an extensive underground tunnel system carved into the ice, built during the pre-war era. One entrance is buried under accumulated debris near the outer ruins. Requires Investigation 7 to locate. Then Lockpick 45 or Repair 35 to open the frozen-shut hatch. (Naizelle's Physical Gap Reading is relevant on subsequent playthroughs if companions can accompany the player — but DLCs must be completable solo on first play, and this entry is accessible without her.)
 
 2. **Breach point in the damaged section** — During Kendra's final battle, part of the station exterior took impact damage. She sealed it from inside with improvised materials. From outside, a player with Might 8+ or a demolition item can force an opening. Getting there requires surviving the exterior kill zone — this approach pairs naturally with any defense suppression method.
 
@@ -132,7 +132,7 @@ The Amundsen-Scott Station is locked from inside by Kendra. The automated defens
 
 **Brought items and companions:**
 
-5. **Ji-Eun Kim's anti-sensor cloaking technology** — Suppresses the player's sensor signature long enough to approach the main entrance without triggering the automated defenses. At the door: Lockpick 55 or Hacking 60 to bypass Kendra's lock. Without the cloaking, the defenses fire before the player can work the lock. This is the most direct approach to the main entrance.
+5. **Ji-Eun Kim's anti-sensor cloaking device** — A portable device provided by Ji-Eun before DLC entry (she does not accompany the player). Suppresses the player's sensor signature long enough to approach the main entrance without triggering the automated defenses. At the door: Lockpick 55 or Hacking 60 to bypass Kendra's lock. Without the cloaking, the defenses fire before the player can work the lock. This is the most direct approach to the main entrance.
 
 6. **Military-grade breach charge** — A shaped demolition charge capable of opening a reinforced door without structural collapse. Acquired through specific main game faction contacts or found in the outer ruins. No skill threshold — the tool does the work. Uses a carry slot.
 
