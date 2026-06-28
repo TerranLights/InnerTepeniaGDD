@@ -33,7 +33,17 @@ She didn't set out to investigate the Great Corruption. She was organizing data 
 - Nerve: 7
 - Engine: 8
 
-**Key Traits / Notable Perks (companion-relevant):** TBD
+**Key Traits / Notable Perks (companion-relevant):**
+
+- **Data Recovery:** She can reconstruct damaged, deleted, or corrupted records — her primary specialty and the one capability in the game that only she possesses. Information that would otherwise be permanently gone is sometimes retrievable with her present. Fires in specific contexts: wiped data terminals, deliberately destroyed records, archives corrupted during the Great Corruption or the Long Night War. Not universal — she needs something to work with. When there is something, she recovers it.
+
+- **Great Corruption Contextualization:** Her investigation work means she can place political and factional information into a larger pattern. She knows what records exist, what is missing, and what the shape of the gap implies. Information that looks isolated or unrelated when viewed by other companions reads as connected to something larger when she processes it. Relevant across multiple questlines — her pattern runs through Libra, Gemini, and the Planetary Split Brain framework, not just her own questline.
+
+- **Signal Tracing:** Her communications maintenance work gives her the ability to identify the origin of transmissions the player encounters — which subnet relay it passed through, which node it originated from, whether it was rerouted to obscure its source. Useful in any situation where the player has intercepted a signal and needs to know who sent it and from where.
+
+- **Logistics Optimization:** Her pre-war expertise in supply chains and data logistics means she identifies inefficiencies in operations — better trade terms, supply disruptions flagged before they become crises, alternative routes or sources the player didn't know existed.
+
+- **Organizational Trust Reading:** She reads institutions and organizations the way others read individuals. She can assess whether a faction, operation, or stated arrangement is structurally trustworthy or internally contradictory — whether what they claim to be is consistent with how they actually function. Her 5w6 Social pattern-matching applied to collective behavior rather than individual deception.
 
 ---
 
