@@ -7,7 +7,7 @@
 ## NPC-Pisces-Operator
 **Role:** Operator — gray-market facilitator, derivative Flood technology
 **Species:** Doll (Robot)
-**Build:** Fluid-frame model, circa 2680s — built for rapid physical reconfiguration, common in Pisces where the market infrastructure requires adaptability. The chassis can modify its own surface configuration within a limited range, which reads as slightly uncanny to Dolls and humans from other districts who are accustomed to fixed-frame models. NPC-Pisces-Operator has further modified the frame over decades with non-standard components; the result is a chassis that is technically coherent but visually idiosyncratic in a way that belongs entirely to NPC-Pisces-Operator.
+**Build:** Fluid-frame model, circa 2680s — built for rapid physical reconfiguration, common in Pisces where the market infrastructure requires adaptability. Built for adaptability in Pisces's constantly shifting market environment. NPC-Pisces-Operator has accumulated personal modifications over decades — clothing choices, accessories, deliberate self-presentation decisions — in a way that is visually idiosyncratic and belongs entirely to NPC-Pisces-Operator.
 **Presenting gender:** Non-binary
 
 **Personality:**
@@ -28,7 +28,7 @@ No fixed structure — the market has none. Has the ritual question at the start
 A location the player has to be brought to — not findable on their own. Functional, secure, impermanent-feeling even though the space has been the same for fifteen years. The impermanence is aesthetic, maintained deliberately; it communicates that nothing is fixed, nothing is inevitable, everything can be adjusted. This is a value for NPC-Pisces-Operator.
 
 **Physical notes:**
-The fluid-frame reconfiguration is visible as a subtle quality of fluidity in the silhouette that takes a moment to parse. Nothing dramatic — just slightly harder to pin down visually than a fixed-frame Doll. Moves with a specific economy that reads as comfortable in every space they occupy, which in Pisces is the most normal thing in the room.
+Moves with a specific economy that reads as comfortable in every space they occupy, with a quality of physical ease that takes a moment to place. Nothing dramatic — just slightly harder to pin down than most, which in Pisces is the most normal thing in the room.
 
 **Player interaction note:**
 NPC-Pisces-Operator will negotiate honestly. They will tell the player what the derivative technology does, what the risks are as currently understood, and what the terms of their involvement are. They will not volunteer information about the Believer's position or the Flood-Traumatized's position — those are other people's cases to make. The player who asks NPC-Pisces-Operator about the Flood directly, and about what they saw, will get a specific and unguarded answer that is the only thing NPC-Pisces-Operator hasn't packaged into a business position.
@@ -38,7 +38,7 @@ NPC-Pisces-Operator will negotiate honestly. They will tell the player what the 
 ## NPC-Pisces-Believer
 **Role:** Believer — syncretic practitioner; advocate for the sacred use of dissolution practice
 **Species:** Doll (Robot)
-**Build:** Old model, built early 2600s — one of the early Federation integration Dolls, designed for social facilitation and community support. The frame has the quality of age handled with care: many repairs, all of them made in the spirit of continuation rather than upgrade, so that the chassis reads as the same chassis it has always been, just with more history in it. Has undergone the dissolution practice multiple times, which has produced changes in the baseline calibration of the social facilitation systems that are not corrections — they are evolutions.
+**Build:** Old model, built early 2600s — one of the early Federation integration Dolls, designed for social facilitation and community support. The frame has the quality of age handled with care: many repairs, all of them made in the spirit of continuation rather than upgrade, so that the synthetic skin reads as continuous with what it has always been, just with more history in it — subtle scarring and texture variations that mark the years without replacing them. Has undergone the dissolution practice multiple times, which has produced changes in the baseline calibration of the social facilitation systems that are not corrections — they are evolutions.
 **Presenting gender:** Female
 
 **Personality:**
@@ -100,7 +100,7 @@ NPC-Pisces-Flood-Traumatized-Representative is the NPC with the most information
 ## NPC-Pisces-Dying-Robot
 **Role:** The dying robot — companion Doll seeking to share a lifetime of memories before death
 **Species:** Doll (Robot)
-**Build:** Companion model, built circa 2630s — built specifically for bonded relationships with humans, designed to be present in a particular way: warm chassis, expressively calibrated face, physical dimensions that are comfortable to be near over a long period. Has been failing for approximately a year — not dramatically, not suddenly, but in the way of a chassis that has reached the limit of what can be repaired and has begun to go. The degradation is visible in specific ways: certain movements that are slower than they should be, a quality in the light-emission systems that is not quite right, a particular stillness when NPC-Pisces-Dying-Robot is processing something complex.
+**Build:** Companion model, built circa 2630s — built specifically for bonded relationships with humans, designed to be present in a particular way: warm physical presence, expressively calibrated face, physical dimensions that are comfortable to be near over a long period. Has been failing for approximately a year — not dramatically, not suddenly, but in the way of a frame that has reached the limit of what can be repaired and has begun to go. The degradation is visible in specific ways: certain movements that are slower than they should be, a quality in the iris luminescence that is not quite right — less stable, less consistent than it should be — a particular stillness when NPC-Pisces-Dying-Robot is processing something complex.
 
 Has months. Possibly fewer.
 **Presenting gender:** Non-binary
@@ -123,7 +123,7 @@ Very slow now. Most of the day is spent in stillness — not unconscious, presen
 With Lío, in a small Pisces apartment that has accumulated sixty years of life together. It is the warmest space in a district that is deliberately impermanent — sixty years of living together produces a warmth that the market's designed impermanence doesn't touch.
 
 **Physical notes:**
-The degradation is specific: the light-emission at the facial surface is not quite calibrated, producing a quality that reads to the observer as something like tiredness, which is not quite accurate but is close. Movement is deliberate and slower than the design spec. The bond-calibrated warmth of the original design is fully intact — this, interestingly, is the last system to go.
+The degradation is specific: the iris luminescence is not quite calibrated — slightly irregular, slightly dimmer than it should be — producing a quality that reads to the observer as something like tiredness, which is not quite accurate but is close. Movement is deliberate and slower than the design spec. The bond-calibrated warmth of the original design is fully intact — this, interestingly, is the last system to go.
 
 **Player interaction note:**
 NPC-Pisces-Dying-Robot is the NPC who makes the Flood Protocols quest concrete. The protocols, the ethics, the factions — all of these are abstractions until the player meets NPC-Pisces-Dying-Robot and Lío and understands what the technology is actually for in the best-case version of itself. NPC-Pisces-Dying-Robot is not an argument for any faction's position. NPC-Pisces-Dying-Robot is the reason the question matters.

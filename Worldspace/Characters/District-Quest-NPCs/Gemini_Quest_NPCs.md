@@ -7,7 +7,7 @@
 ## NPC-Gemini-Speed-Faction-Leader
 **Role:** Speed Faction leader — Janbogo's fastest voice
 **Species:** Doll (Robot)
-**Build:** Transmission-optimized model, built 2730s — designed for high-speed information relay, literally built for fast processing and fast output. Everything about the chassis is calibrated for transmission speed: the frame is compact to reduce friction, the sensory array is wide-aperture for rapid environmental parsing, the communication ports are multiple and redundant. Has been in continuous operation in Janbogo for over forty years. The chassis shows the specific wear of a Doll who moves constantly and stops rarely.
+**Build:** Transmission-optimized model, built 2730s — designed for high-speed information relay, literally built for fast processing and fast output. Everything about the build is calibrated for transmission speed: compact frame to reduce movement friction, wide-aperture sensory array for rapid environmental parsing, multiple redundant communication systems. Has been in continuous operation in Janbogo for over forty years. The synthetic skin shows the specific wear of a Doll who moves constantly and stops rarely.
 **Presenting gender:** Male
 
 **Personality:**
@@ -28,7 +28,7 @@ No fixed schedule — scheduled to the news cycle, which is continuous. Sleeps i
 A space that has no boundary between work and life. Screens everywhere, most of them active. The physical environment has been optimized entirely for information processing and transmission: chairs are positioned for screen access, the layout is about cable management and line-of-sight to data sources. There is a spot near the window where he sometimes goes when he needs to think rather than transmit. It is the only part of the space that is not optimized.
 
 **Physical notes:**
-Moves quickly — the chassis was built for it and the habit has reinforced the design. Rarely fully still. The multiple communication ports are visible at specific chassis points; in conversation he is often running secondary data checks simultaneously, which manifests as occasional micro-pauses in the cadence of his speech.
+Moves quickly — the build was designed for it and the habit has reinforced the motion. Rarely fully still. In conversation he is often running secondary data checks simultaneously, which manifests as occasional micro-pauses in the cadence of his speech.
 
 **Player interaction note:**
 NPC-Gemini-Speed-Faction-Leader will tell the player everything he knows immediately, because withholding is not a concept that applies to him. The challenge in dealing with him is not extracting information — it is slowing him down enough that the player can determine what the full information means before he's already broadcast a partial version of it.
@@ -38,7 +38,7 @@ NPC-Gemini-Speed-Faction-Leader will tell the player everything he knows immedia
 ## NPC-Gemini-Verification-Faction-Lead
 **Role:** Verification Faction lead / data archaeologist — authentication-before-broadcast advocate
 **Species:** Doll (Robot)
-**Build:** Older model, built 2710s — the specification for this build emphasized accuracy over speed, which is a political document in itself given the era of Janbogo's founding. Slower processing by design than contemporary models. Heavier chassis, built for archival stability rather than operational agility. Has been in the Janbogo archive for forty years. The chassis is the most professionally maintained thing in the archive — not because it is expensive to maintain but because NPC-Gemini-Verification-Faction-Lead maintains it as a professional practice: the instrument must be reliable.
+**Build:** Older model, built 2710s — the specification for this build emphasized accuracy over speed, which is a political document in itself given the era of Janbogo's founding. Slower processing by design than contemporary models. Heavier build, designed for archival stability rather than operational agility. Has been in the Janbogo archive for forty years. The frame is the most professionally maintained thing in the archive — not because it is expensive to maintain but because NPC-Gemini-Verification-Faction-Lead maintains it as a professional practice: the instrument must be reliable.
 **Presenting gender:** Female
 
 **Personality:**

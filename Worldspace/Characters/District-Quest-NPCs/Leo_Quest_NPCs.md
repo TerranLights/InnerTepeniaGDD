@@ -7,7 +7,7 @@
 ## NPC-Leo-Grand-Faction-Leader
 **Role:** Grand Performance Faction leader — Leo's dominant cultural institution
 **Species:** Doll (Robot)
-**Build:** Performance model from the 2720s, built for stage presence. Every proportion optimized for visual impact — the silhouette reads from the back of an amphitheater, which is what it was designed to do. Tall, expressive chassis with significant shoulder width and a face designed for large-scale emotional communication. Has been maintained obsessively; looks newer than it is. The maintenance itself is a statement.
+**Build:** Performance model from the 2720s, built for stage presence. Every proportion optimized for visual impact — the silhouette reads from the back of an amphitheater, which is what it was designed to do. Tall, expressive frame with significant shoulder width and a face designed for large-scale emotional communication. Has been maintained obsessively; looks newer than it is. The maintenance itself is a statement.
 **Presenting gender:** Male
 
 **Personality:**
@@ -28,7 +28,7 @@ Performs every evening regardless of the formal schedule. Has performed every da
 One of Leo's best apartments — warm, bright, centrally located. The walls are covered in performance records, reviews, photographs of significant moments. The collection is not vain — it is archival, the record of a career that he treats as historical document as much as personal memory. A portrait of the Star War-era Grand Faction founder occupies a specific wall; NPC-Leo-Grand-Faction-Leader knows exactly when it is in his peripheral vision.
 
 **Physical notes:**
-The chassis is beautifully maintained but shows the accumulated micro-wear of forty years of nightly performance: specific joints that move with slightly more deliberation, a shoulder modification from an injury thirty years ago that is nearly invisible but that affects how he positions himself on stage. He performs as if these things are not there; they are.
+The frame is beautifully maintained but the synthetic skin shows the accumulated micro-wear of forty years of nightly performance. Specific joints move with slightly more deliberation; a shoulder modification from an injury thirty years ago is nearly invisible but affects how he positions himself on stage. He performs as if these things are not there; they are.
 
 **Player interaction note:**
 NPC-Leo-Grand-Faction-Leader responds to being told he's right about something before being told he's wrong about something else. Not as a manipulation tactic — it's just accurate: he is right that performance sustains people. The player who acknowledges this genuinely, before introducing the complication, will find him significantly more willing to engage with the complication.
@@ -69,7 +69,7 @@ NPC-Leo-Intimate-Underground-Lead will tell you what she thinks if you ask and y
 ## NPC-Leo-Cymaticist-Elder
 **Role:** Cymaticist elder — frequency philosopher, experiment architect
 **Species:** Doll (Robot)
-**Build:** Very old — built in the 2590s, early Federation period, one of the founding cohort of the Cymaticist practice. The chassis is showing genuine age: not cosmetically, but in the quality of certain movements, certain processing latencies visible to the careful observer. Has been maintained with great care by the Cymaticist community; there is an aesthetic to the maintenance, a reverence in how the repairs have been made. Not a museum piece — an elder who has been loved.
+**Build:** Very old — built in the 2590s, early Federation period, one of the founding cohort of the Cymaticist practice. The frame is showing genuine age: not cosmetically, but in the quality of certain movements, certain processing latencies visible to the careful observer. Has been maintained with great care by the Cymaticist community; there is an aesthetic to the maintenance, a reverence in how the repairs have been made. Not a museum piece — an elder who has been loved.
 **Presenting gender:** Non-binary
 
 **Personality:**

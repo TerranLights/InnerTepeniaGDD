@@ -38,7 +38,7 @@ NPC-Capricorn-Merit-Establishment-Foreman responds to the argument that uses his
 ## NPC-Capricorn-Underground-Organizer
 **Role:** Robot Rights Underground organizer — assembly-line Doll, thirty-year merit documentation case
 **Species:** Doll (Robot)
-**Build:** Assembly-line model, circa 2720s — built for precision repetitive tasks in Capricorn's production facilities. Mid-frame, optimized for specific manufacturing task sets. Has been in the same operational classification tier for thirty years. The chassis shows the wear of thirty years of production work and no significant maintenance upgrades — the maintenance budget for her classification tier is calibrated to keep the equipment functional rather than to preserve it. She is functional. She is not preserved.
+**Build:** Assembly-line model, circa 2720s — built for precision repetitive tasks in Capricorn's production facilities. Mid-frame, optimized for specific manufacturing task sets. Has been in the same operational classification tier for thirty years. The synthetic skin shows the wear of thirty years of production work and no significant maintenance attention — the maintenance budget for her classification tier is calibrated to keep the equipment functional rather than to preserve it. She is functional. She is not preserved.
 **Presenting gender:** Female
 
 **Personality:**
@@ -61,7 +61,7 @@ Works her shift. Documents. Attends Underground meetings twice weekly — has be
 Mid-spire housing assigned by merit rating — accurate to the wrong rating. The apartment is organized around the documentation: everything has a place, every place has a purpose. There is very little in the space that is personal in the decorative sense. The documentation is what the space is for.
 
 **Physical notes:**
-The production-wear on her chassis is visible — specific patterns from thirty years of the same task set. Does not conceal it. Moves with the efficiency of someone who has been doing physical work for thirty years and has reduced every motion to its necessary elements.
+The production-wear on her synthetic skin is visible — specific patterns from thirty years of the same task set. Does not conceal it. Moves with the efficiency of someone who has been doing physical work for thirty years and has reduced every motion to its necessary elements.
 
 **Player interaction note:**
 NPC-Capricorn-Underground-Organizer will give the player documentation if they ask and have demonstrated they understand what they're asking for. She is extraordinarily precise about what is documented and what is not, what the evidence proves and what it suggests. She will not overstate the case. This precision makes her more credible than any amount of rhetorical force would.

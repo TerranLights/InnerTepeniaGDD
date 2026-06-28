@@ -38,7 +38,7 @@ NPC-Taurus-Established-Council-Representative is the NPC you need to convince us
 ## NPC-Taurus-Cold-Side-Representative
 **Role:** Cold-Side representative — sixty-year district resident
 **Species:** Doll (Robot)
-**Build:** Domestic management model, circa 2640s — built for household maintenance and support. Mid-sized frame, multiple-function appendages designed for household tasks. The chassis has been repaired so many times in the same spots (cold-exposure stress points at the joint seals) that the repairs have layered: you can count the winters by how many times the same joint has been sealed.
+**Build:** Domestic management model, circa 2640s — built for household maintenance and support. Mid-sized frame, multiple-function appendages designed for household tasks. The synthetic skin over the same stress points has been regrafted so many times — cold-exposure damage points at the joints — that the repairs have layered: you can count the winters in the accumulated texture, each repair leaving a slightly different quality of skin at the same spots.
 **Presenting gender:** Female
 
 **Personality:**
@@ -59,7 +59,7 @@ Rises at the same time every day — has done this since she was first activated
 Her apartment is meticulously maintained. She cannot change the insulation; she has done everything else within her physical capacity. The thermal regulation is as good as it can be without the thing that would actually fix it. One wall is covered in printed temperature logs spanning sixty years — not organized as a display, organized as a working reference. She adds to it every morning.
 
 **Physical notes:**
-The layered joint repairs make her chassis look archival. She moves with the absolute steadiness of someone who has adapted completely to every limitation of her environment. Does not rush. Does not appear rushed even when she is.
+The layered repair texture at the stress points gives her skin an archival quality. She moves with the absolute steadiness of someone who has adapted completely to every limitation of her environment. Does not rush. Does not appear rushed even when she is.
 
 **Player interaction note:**
 NPC-Taurus-Cold-Side-Representative will hand the player documentation the way a judge hands down a verdict. She has been building this case for sixty years and she is not going to tell you it faster than you can follow it. She is one of the NPCs with whom patience is rewarded with information of extraordinary quality.
@@ -69,7 +69,7 @@ NPC-Taurus-Cold-Side-Representative will hand the player documentation the way a
 ## NPC-Taurus-Unverifiable-Spokesperson
 **Role:** Unverifiables — family spokesperson; legally unrecognized resident
 **Species:** Doll (Robot)
-**Build:** Circa early 2700s, companion-and-performance model — built in Leo for what was then a performance career. The chassis has the specific elegance of Leo's engineering era in that period, now worn into something softer by twenty-eight years of Taurus winters. Has been modified (internally) for lower-temperature conditions, but the modifications are not robust — they've been done gradually by whoever was willing to work without official documentation.
+**Build:** Circa early 2700s, companion-and-performance model — built in Leo for what was then a performance career. The frame carries the specific elegance of Leo's engineering era in that period, now worn into something softer by twenty-eight years of Taurus winters. Has been modified (internally) for lower-temperature conditions, but the modifications are not robust — they've been done gradually by whoever was willing to work without official documentation.
 **Presenting gender:** Female
 
 **Personality:**
@@ -92,7 +92,7 @@ Documents everything that touches her legal situation — every administrative i
 Their apartment is warm through their own work — she and Orazio have done everything physically possible to compensate for the insulation deficit. It is not enough but it is more than neighbors who gave up. The space has twenty-eight years of life in it: objects accumulated, arrangements settled into. It does not read as a temporary space. It reads as a home that has been insisted upon.
 
 **Physical notes:**
-The Leo-era elegance of her original chassis is still visible in the proportions — she is recognizably a different design era than most Taurus Dolls. The wear is also visible. The modifications are patchwork. She carries herself with complete self-possession.
+The Leo-era elegance of her original frame is still visible in the proportions — she is recognizably a different design era than most Taurus Dolls. The wear is visible in the synthetic skin's texture, and the internal temperature modifications are patchwork. She carries herself with complete self-possession.
 
 **Player interaction note:**
 NPC-Taurus-Unverifiable-Spokesperson will tell you exactly what she needs if you ask directly and demonstrate that you're not going to make her situation worse. She will not volunteer it, because volunteering has historically led to things getting complicated in ways she couldn't predict. She is the NPC who requires the player to ask the right question rather than wait for the information.

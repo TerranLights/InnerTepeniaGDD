@@ -38,7 +38,7 @@ NPC-Hub-Neutralizer-Council-Chair is the NPC who will make the inscription proce
 ## NPC-Hub-Hidden-Opinion-Diplomat
 **Role:** Hidden Opinion Holder — career diplomat, twenty-two years in the Hub
 **Species:** Doll (Robot)
-**Build:** Diplomatic protocol model, built 2720s — designed for multi-party negotiation and context-switching, with a chassis calibrated for professional social environments: non-threatening presence, expressively flexible face, physical bearing that reads as appropriate across a very wide range of cultural contexts. Has been in the Hub for thirty years. The chassis reflects this: it has the quality of a Doll who has spent thirty years being appropriate for every context, which produces a very particular kind of neutrality in the physical presentation that is neither warm nor cold.
+**Build:** Diplomatic protocol model, built 2720s — designed for multi-party negotiation and context-switching, with a frame built for professional social environments: non-threatening presence, expressively flexible face, physical bearing that reads as appropriate across a very wide range of cultural contexts. Has been in the Hub for thirty years. The synthetic skin and overall presentation reflect this: the quality of a Doll who has spent thirty years being appropriate for every context, which produces a very particular kind of neutrality in the physical presentation that is neither warm nor cold.
 **Presenting gender:** Non-binary
 
 **Personality:**

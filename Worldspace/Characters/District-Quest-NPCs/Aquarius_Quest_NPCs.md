@@ -7,11 +7,11 @@
 ## NPC-Aquarius-Applied-Innovators-Lead
 **Role:** Applied Innovators lead — researcher, Living Network dissolution advocate
 **Species:** Doll (Robot)
-**Build:** Research-optimized frame, built 2740s — designed for high-speed data processing and rapid prototype testing. The chassis reflects this: compact, modular, with interchangeable component slots that NPC-Aquarius-Applied-Innovators-Lead has filled with different analytical tools over the years depending on the current project. Currently configured for social data analysis. The chassis has been reconfigured so many times that no single original component configuration remains; it is entirely accumulated through use.
+**Build:** Research-optimized frame, built 2740s — designed for high-speed data processing and rapid prototype testing. The build reflects this: compact, high-speed, internally reconfigured many times depending on the current project. Currently configured for social data analysis. No single original internal configuration remains; it is entirely accumulated through use.
 **Presenting gender:** Male
 
 **Personality:**
-NPC-Aquarius-Applied-Innovators-Lead has the specific energy of someone who is always working on four things and is genuinely engaged by all of them. This is not performance of productivity — he actually processes at the rate his chassis was built for, and the rate is high, and the engagement is real. He is good at synthesizing across domains quickly. He is less good at slowing down to examine whether the synthesis has missed something.
+NPC-Aquarius-Applied-Innovators-Lead has the specific energy of someone who is always working on four things and is genuinely engaged by all of them. This is not performance of productivity — he actually processes at the rate his frame was built for, and the rate is high, and the engagement is real. He is good at synthesizing across domains quickly. He is less good at slowing down to examine whether the synthesis has missed something.
 
 He evaluates everything by whether it produces results and has defined "results" in a way that excludes certain categories of harm — specifically, harms that appear in time scales longer than his current project cycle and harms that affect the subjective interior of people rather than their measurable outputs. This is not cynicism. It is a genuine gap in the measurement framework he was given, and he has never had a compelling reason to update it.
 
@@ -30,7 +30,7 @@ Works in sprints — intensely focused periods followed by brief recovery interv
 His workspace is also his living space — the boundary dissolved years ago. The workspace side is immaculate, everything in its functional position. There is a bed. The bed is in the workspace.
 
 **Physical notes:**
-Moves quickly, thinks visibly — there are physical tells when he's processing that other Dolls his age have learned to suppress but that he has never bothered to manage. The reconfigurability of his chassis means he looks slightly different across encounters: different tool arrays depending on what he's currently analyzing.
+Moves quickly, thinks visibly — there are physical tells when he's processing that other Dolls his age have learned to suppress but that he has never bothered to manage. The range of external tools and equipment he carries varies across encounters depending on what he's currently working on.
 
 **Player interaction note:**
 NPC-Aquarius-Applied-Innovators-Lead will give the player information about the Living Network in extraordinary technical detail if the player can maintain pace. He is not withholding anything — he has documented everything, he is willing to share everything, and the sharing will be at his speed unless the player slows him down. The player who slows him down and asks about the welfare observations will find a much smaller dataset than the data observations, and the smallness is itself the finding.
