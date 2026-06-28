@@ -6,6 +6,7 @@
 **Primary Location(s):** Leo (Entertainment district)
 **Affiliation(s):** Independent; 2–3 regular venue residencies (names TBD); Star War affiliation TBD
 **Companion Potential:** Yes — recruitable companion
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
 
 ## Core Identity
 **Activation Date & Origin:** TBD
