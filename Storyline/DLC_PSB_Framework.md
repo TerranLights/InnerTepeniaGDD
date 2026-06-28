@@ -233,6 +233,35 @@ Fort McMurdo was the largest pre-war city in Tepenia — a mining and resource-p
 
 ---
 
+## DLC Order and Gating Policy
+
+**There is no hard gate. No DLC purchase is required to access any other DLC. Any DLC can be played in any order.** This is a firm design commitment — player freedom and agency take priority.
+
+### How DLC 1 Is Special Without Being a Gate
+
+DLC 1 contains the pre-split archive — the only place in Tepenia where all six subnets' records can be reconciled. This is architecturally important. It does not need to be a purchase requirement to be meaningful.
+
+**Every other DLC surfaces the contradiction but cannot resolve it.** DLCs 2–6 each take place in a specific subnet. Players encounter that subnet's isolated account of history. If they have played other DLCs, they will notice that accounts conflict. The Split Brain is visible as a problem throughout the series — none of the other DLCs contain the structural means to address it at the source.
+
+**DLC 1 is where the resolution lives.** The Layer 4 PSB resolution ending slides — the deepest composite ending content — require DLC 1's contribution to the PSB Relationship State. Players who don't own DLC 1 still receive complete regional slides and cross-DLC composite slides from their other DLCs. They simply do not receive the layer that addresses what the Split Brain ultimately became. This is not a punishment; it is what DLC 1 contributes.
+
+**DLC 1 sells itself through mystery.** A player who has completed DLCs 3, 5, and 6 has encountered three contradictory accounts of the same historical events. The South Pole — already referenced throughout the main game and other DLCs as the site of Amundsen Tower, the inter-subnet relay, the place everything once connected — is where the answer is. That player does not need to be told to buy DLC 1. The accumulated contradictions create the motivation.
+
+**Environmental difficulty does soft gating.** The South Pole is the most isolated and extreme environment in the game. Reaching Amundsen Station requires a level of preparation that naturally suits a later-game player. No lock is needed; the world creates the tendency.
+
+### Recommended Order (Suggested, Not Required)
+
+In the same way Fallout: New Vegas suggests playing Lonesome Road last without requiring it, Inner Tepenia's DLCs have a natural order that produces maximum resonance — without mandating it:
+
+- **DLCs 2–6 in any order** — each is self-contained; cross-DLC recognition compounds with each additional DLC played
+- **DLC 1 as a natural capstone** — the archive is most meaningful once the player has encountered the contradictions it resolves; Kendra's story is complete on its own, but lands differently once the player understands what the South Pole's absence has meant for the rest of Tepenia
+
+Players who play DLC 1 first still get a complete, satisfying experience. They arrive at the archive before fully understanding what it resolves. The archive will still be there on a second playthrough — and it will mean something different.
+
+**DLC 1 is Inner Tepenia's Lonesome Road:** complete independently, most rewarding as a capstone, designed to be sought rather than required.
+
+---
+
 ## Design Constraints
 
 **Never make PSB the main questline of a DLC.** It is background, consequence, and connective tissue. Players who never think about it still play a complete game. Players who notice it are rewarded.
@@ -241,7 +270,7 @@ Fort McMurdo was the largest pre-war city in Tepenia — a mining and resource-p
 
 **Do not over-explain the connections.** No character should give a speech about how this region connects to that region connects to Concordia. The connections are real and structural — they manifest in what the world looks like, not in what characters say about the world.
 
-**Playthrough order should not matter.** The 3rd-order main game effects need to be legible whether a DLC is played before or after the main game's ending. A player who completes DLC 6 before finishing the main game sees a different Concordia. A player who completes DLC 6 after finishing the main game gets different ending slides. Both are valid and neither requires the other.
+**Playthrough order should not matter for access.** The 3rd-order main game effects need to be legible whether a DLC is played before or after the main game's ending. A player who completes DLC 6 before finishing the main game sees a different Concordia. A player who completes DLC 6 after finishing the main game gets different ending slides. Both are valid and neither requires the other.
 
 **Each DLC ends.** It has a beginning, a middle, and a resolution. The resolution may be ambiguous or bittersweet — but it is a resolution. The DLC is not a chapter in a larger story; it is its own story that happens to have consequences.
 
@@ -252,8 +281,7 @@ Fort McMurdo was the largest pre-war city in Tepenia — a mining and resource-p
 - Central storylines for all six DLCs (TBD — do not design around PSB as the focus)
 - Central characters for DLCs 2, 3, 4, 6
 - Specific subnet state thresholds for composite ending slides
-- Whether PSB Layer 4 resolution slides require DLC 1 specifically, or any combination of subnet archive access
-- How DLC release order affects player experience (earlier DLCs establish the world; later DLCs reference it — release order is a design question separate from playthrough order)
+- How DLC release order affects player experience (earlier DLCs establish the world; later DLCs reference it — release order is a separate question from playthrough order)
 - Byrd air connection to Framheim — aviation infrastructure or historical site? TBD
 - Dumont d'Urville (DLC 6 region) — included directly or side-content only?
 - Ji-Eun Kim — if she appears in a DLC rather than the main game, which region?
