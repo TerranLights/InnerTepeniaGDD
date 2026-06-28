@@ -71,11 +71,11 @@ Majyao runs her teahouse and does not leave it. She cannot be recruited as a com
 
 ### Companions and DLCs
 
-**Companions cannot be brought into DLCs on a first playthrough.** This is a universal rule across all DLCs. Every DLC must be completable solo. Any companion effect, access route, or solution that references a companion's abilities must be achievable through non-companion means on first play.
+**Companions cannot be brought into a DLC on its first playthrough.** This is a universal rule across all DLCs. Every DLC must be completable solo. Any companion effect, access route, or solution that references a companion's abilities must be achievable through non-companion means on first play.
 
-This applies to companion presence only. Items or technology *obtained from* a companion before DLC entry (e.g., a portable device given by Ji-Eun Kim) are unaffected — the player carries those in, the companion does not come along.
+**After completing a DLC for the first time, companions may accompany the player on all subsequent runs of that specific DLC.** Completion of DLC 1 unlocks companion access for DLC 1 replays only — it does not grant companion access to any other DLC. Each DLC's companion access is unlocked independently by completing that DLC.
 
-Whether companions may accompany the player on subsequent playthroughs is TBD.
+This applies to companion presence only. Items or technology *obtained from* a companion before DLC entry (e.g., a portable device given by Ji-Eun Kim) are unaffected — the player carries those in on any run, companion or not.
 
 ---
 
