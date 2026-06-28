@@ -16,6 +16,24 @@ A player who owns no DLCs has a complete game. A player who owns DLCs has additi
 
 ---
 
+## Ending Model — OG Fallout Design
+
+Inner Tepenia uses the Fallout 1, 2, and New Vegas ending model. This is a binding design commitment.
+
+**Completing the main game ends the game.** Ending slides play. Credits roll. Main menu. That is the end of this playthrough. There is no returning to the world afterward, no post-ending free roam, no continuing to play. The Fallout 4 model — where finishing the main game returns you to the world indefinitely — is explicitly rejected.
+
+**DLCs are played during the main game, not after it.** Between main quests, in any order, as part of the same playthrough. A player who wants to experience DLC content must do so before completing the main game.
+
+**Each DLC ends with its own slides.** When the player completes a DLC, that DLC's ending slides play, the subnet state is locked in, and the player is returned to the DLC geographic area. They can continue exploring and return to Concordia. The DLC is resolved; its consequences are now part of the ongoing playthrough.
+
+**The main game ending incorporates all completed DLC states.** When the player finishes the main game, the ending slides reflect every DLC that was completed before that moment. DLCs the player did not complete simply do not appear — no regional slides for those areas on this playthrough. The ending is a snapshot of what the player actually did.
+
+**Point of no return — mandatory warning.** Before the final main game quest, the game delivers a clear warning: completing this will end the game permanently. Any DLC content not yet experienced will be inaccessible after this point. This is modeled directly on FNV's point-of-no-return warning before the Second Battle of Hoover Dam. The player makes an informed choice to end their playthrough.
+
+**The ending model creates natural exploration incentive.** Players who rush to the main game ending miss DLC content and ending slides entirely. Players who explore the DLCs first arrive at the main game ending with a richer, more consequential result. The game does not force exploration; it rewards it.
+
+---
+
 ## The Planetary Split Brain — As Background, Not Questline
 
 The Long Night War destroyed Amundsen Station, severing all inter-subnet Arcanet connections permanently. Each of the six subnets (Palmer, Halley, Mawson, Mirny, Janbogo, Byrd) has been informationally isolated since then, developing its own version of historical records — sometimes in direct conflict with other subnets.
@@ -270,7 +288,11 @@ Players who play DLC 1 first still get a complete, satisfying experience. They a
 
 **Do not over-explain the connections.** No character should give a speech about how this region connects to that region connects to Concordia. The connections are real and structural — they manifest in what the world looks like, not in what characters say about the world.
 
-**Playthrough order should not matter for access.** The 3rd-order main game effects need to be legible whether a DLC is played before or after the main game's ending. A player who completes DLC 6 before finishing the main game sees a different Concordia. A player who completes DLC 6 after finishing the main game gets different ending slides. Both are valid and neither requires the other.
+**DLCs are played during the main game, not after it.** Inner Tepenia uses the Fallout 1/2/New Vegas ending model: completing the main game ends the game permanently — ending slides, credits, main menu. There is no post-ending world to return to. DLCs must be played between main quests, before the point of no return. This is a firm design commitment; the Fallout 4 model (return to the world after the ending) is explicitly rejected.
+
+**The 3rd-order main game effects are visible during play.** A player who completes DLC 6 before finishing the main game will see Janbogo's state reflected in Concordia while they are still playing. This is not a post-game feature — it is a during-game consequence.
+
+**DLC completion locks in the subnet state.** Each DLC ends with its own ending slides, then returns the player to the DLC area. They can continue exploring that area and return to Concordia. The subnet state variables from that DLC are now fixed and will be incorporated into the main game ending if and when it is reached.
 
 **Each DLC ends.** It has a beginning, a middle, and a resolution. The resolution may be ambiguous or bittersweet — but it is a resolution. The DLC is not a chapter in a larger story; it is its own story that happens to have consequences.
 
