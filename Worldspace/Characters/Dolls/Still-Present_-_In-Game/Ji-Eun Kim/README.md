@@ -20,14 +20,14 @@
 - Hornevian Group: Withdrawn
 - Harmonic Group: Competency
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: TBD
-- Agility: TBD
-- Calculation: TBD (high — master-level nanotech engineering)
-- Humanity: TBD
-- Investigation: TBD (high — research-oriented)
-- Nerve: TBD
-- Engine: TBD (high — technical specialist)
+**MACHINE Stat Profile:**
+- Might: 4
+- Agility: 5
+- Calculation: 10
+- Humanity: 7
+- Investigation: 9
+- Nerve: 7
+- Engine: 8
 
 **Key Traits / Notable Perks (companion-relevant):** TBD — nanotech implant expertise; Eyes of Gold connection; Calethina questline anchor
 

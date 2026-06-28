@@ -18,14 +18,14 @@
 - Hornevian Group: Assertive
 - Harmonic Group: Positive Outlook
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: TBD
-- Agility: TBD
-- Calculation: TBD
-- Humanity: TBD
-- Investigation: TBD
-- Nerve: TBD
-- Engine: TBD
+**MACHINE Stat Profile:**
+- Might: 3
+- Agility: 8
+- Calculation: 5
+- Humanity: 10
+- Investigation: 7
+- Nerve: 6
+- Engine: 7
 
 **Key Traits / Notable Perks (companion-relevant):**
 - Known face in Leo's recognition hierarchy — social access and venue standing that the player does not have alone
