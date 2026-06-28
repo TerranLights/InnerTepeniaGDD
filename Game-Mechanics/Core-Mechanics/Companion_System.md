@@ -71,6 +71,58 @@ Majyao runs her teahouse and does not leave it. She cannot be recruited as a com
 
 ---
 
+## Romance System
+
+### Scope
+
+Romance is available for all recruitable companions and a small number of named NPCs where it makes contextual sense for the character. It is not a universal system applied to every named NPC — that would be excessive and dilute the significance of the relationships that have it.
+
+**Pool:** All companions (main game + DLC) + select named NPCs (Trisha Miller is a strong candidate; others to be identified on a per-character basis during design).
+
+### The Double Gate
+
+Romance requires two independent conditions to be met simultaneously. Failing either one closes the route.
+
+**Gate 1 — Questline prerequisite:** The player must have completed the relevant relationship-building questline content with this character. The relationship has to have been built through shared experience and choices, not just dialogue options. This gate is the same for all characters.
+
+**Gate 2 — MACHINE stat / trait threshold:** Each character has a specific profile of what they find attractive, derived from their personality, sensibilities, and history. The player's MACHINE stats and traits must meet that profile. This gate is unique per character.
+
+**Perks are explicitly excluded from Gate 2.** MACHINE stats and traits are chosen at character creation — they define who the player character fundamentally *is*. Perks are acquired through play — they represent what the character has learned and done. The romance gate is about fundamental identity, not accumulated experience. A player cannot perk their way into a romance they weren't built for.
+
+### Threshold Design Per Character
+
+When designing each romanceable character, specify:
+- Which MACHINE stat(s) are required and at what level
+- Which traits (if any) are required or are dealbreakers
+- The in-world rationale (what this person finds attractive and why, based on their personality)
+
+Examples of how thresholds might read:
+- A character who values physical presence → Might threshold
+- A character who values intelligence and wit → Calculation threshold
+- A character who values genuine emotional depth → Humanity threshold
+- A character who admires courage and directness → Nerve threshold
+- A character who values perceptiveness → Investigation threshold
+- A character who values capability and endurance → Engine threshold
+
+Multiple stats may be required. Traits may open or close routes regardless of stat levels.
+
+### The Signal
+
+When a player has completed the questline prerequisite but does not meet the stat/trait threshold, the character makes an honest, casual, in-voice remark that reveals what they're looking for — without breaking the fiction or explaining the system. The line is short and in character. It closes the romantic door without closing the relationship.
+
+Examples of the register (not final lines — those are written per character in voice):
+- *"Sorry, friend. I like them smart."*
+- *"Not trying to be rude here, but come back once you've lifted some weights."*
+- *"You're good people. Just not my type."*
+
+The player who hears this line has a clear signal. On a replay with a different build, they know what to work toward. The line is delivered once and not repeated unless the player re-initiates.
+
+### Thematic Note
+
+The romance system is a direct expression of the second guiding principle — the nature of love between robots and humans. Every romance in the game, regardless of the species of the characters involved, is asking: what does this specific person find in this specific other person, and what does that mean for both of them? The stat/trait gate ensures that the answer is always grounded in who the player character actually is, not in what they've done or what perks they've accumulated.
+
+---
+
 ## Calethina: Not a Companion
 
 Calethina does not occupy the companion slot and is not subject to companion system rules. She cannot be dismissed. She cannot be recruited in the conventional sense. She is present or absent based on signal state (before download) or always present (after download).
