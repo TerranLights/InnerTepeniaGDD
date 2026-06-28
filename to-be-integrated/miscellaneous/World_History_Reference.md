@@ -111,9 +111,9 @@ Key historical events and geopolitical facts established in the GDD. This file c
 
 **Destruction:** Upper Earth's militaries destroyed Amundsen Tower during the Long Night War using powerful weapons (specific type TBD). This was not incidental military damage — it was the deliberate destruction of Tepenia's greatest national achievement and its only connection to space, built mostly by robot labor over generations, targeting the thing that most represented what Tepenia had built for itself.
 
-**The scrap mountain:** The physical remains of Amundsen Tower are confined to the South Pole and surrounding vicinity. Concordia is approximately 1,660 km from the South Pole — the wreckage does not reach Concordia. The scrap exists as a location in the game world and is significant enough that repurposing Tower scrap is an Infamy trigger for the Echoes of Amundsen.
+**The scrap mountain:** The physical remains of Amundsen Tower are confined to the South Pole and surrounding vicinity. Concordia is approximately 1,660 km from the South Pole — the wreckage does not reach Concordia. The scrap exists as a location in the game world and is significant enough that repurposing Tower scrap is an Infamy trigger for the The Vigil [NAME TBD].
 
-**The Echoes of Amundsen:** Named after Amundsen Station — the South Pole site of the Tower. They maintain signal towers attempting to contact the people who evacuated via the Tower before its destruction. The name is a direct reference to the place that connected Tepenia to space, and to what was lost when it was destroyed.
+**The The Vigil [NAME TBD]:** Named after Amundsen Station — the South Pole site of the Tower. They maintain signal towers attempting to contact the people who evacuated via the Tower before its destruction. The name is a direct reference to the place that connected Tepenia to space, and to what was lost when it was destroyed.
 
 **The evacuees:** People who left Tepenia via the Tower before its destruction are referenced by name in Concordia — scattered across journals, terminal entries, audio logs. Specific individuals, which Concordia residents knew them, and how those relationships worked are TBD and intended as environmental storytelling discoveries for the player.
 
@@ -303,17 +303,17 @@ The people who evacuated Tepenia via Amundsen Tower before its destruction are a
 
 The evacuee civilization has outgrown Tepenia in every material sense. They are not a struggling remnant — they are a developing off-world society.
 
-**The asymmetry:** Concordia does not know the state of the evacuees. The Echoes of Amundsen are trying to contact a civilization that has moved on significantly since departure. Whether the evacuees are looking back — and if so, what they see when they look — is TBD.
+**The asymmetry:** Concordia does not know the state of the evacuees. The The Vigil [NAME TBD] are trying to contact a civilization that has moved on significantly since departure. Whether the evacuees are looking back — and if so, what they see when they look — is TBD.
 
 **Named evacuees in Concordia:** Referenced in scattered journals, terminal entries, and audio logs in Concordia. Specific individuals, which residents knew them, and the nature of those connections are TBD — intended as environmental storytelling discoveries for the player.
 
 ---
 
-## The Echoes of Amundsen
+## The The Vigil [NAME TBD]
 
 **Status:** [TENTATIVE] — Grok-suggested faction; developer has not finalized their inclusion or design
 
-The Echoes of Amundsen are a faction that preserves hope of eventual reunion with the off-world evacuees and maintains signal towers attempting to contact orbit. Their name references Amundsen Station — the South Pole site of the destroyed Tower.
+The The Vigil [NAME TBD] are a faction that preserves hope of eventual reunion with the off-world evacuees and maintains signal towers attempting to contact orbit. Their name references Amundsen Station — the South Pole site of the destroyed Tower.
 
 **The dramatic irony of their situation (if the faction is kept):** They are trying to contact a civilization that has moved significantly beyond what they left. The evacuees are alive, prospering, and building toward Mars and Venus. Whether the Echoes know this, suspect it, or believe the evacuees are struggling is a significant character question. Whether the evacuees would respond — and what they would say — is another.
 

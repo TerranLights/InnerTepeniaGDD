@@ -76,7 +76,7 @@ A complete faction design should specify:
 
 Each faction should be stress-tested against the Unity of Opposites question before the design is finalized. If the faction's "opposition" is simply wrong or simply evil, the design hasn't done enough work. The opposition should represent something the faction genuinely needs and can't generate from within itself.
 
-**Worked example (Veilkeepers):** The Veilkeepers believe some information is too dangerous to be public — secrecy as protection. Their opposition is the "total transparency" position (the Echoes of Amundsen's archive-sharing, or the Red Spiral's full information disclosure ethos). What the Veilkeepers need from their opposition: the credibility to decide what's safe to reveal. Currently they decide in secret; they need external legitimacy. What their opposition needs from them: the infrastructure to actually store and protect dangerous information. The information the Veilkeepers suppress would be catastrophic in some hands; someone needs to hold it. The tension is real because both functions are necessary and neither can provide what the other does.
+**Worked example (Veilkeepers):** The Veilkeepers believe some information is too dangerous to be public — secrecy as protection. Their opposition is the "total transparency" position (the The Vigil [NAME TBD]'s archive-sharing, or the Red Spiral's full information disclosure ethos). What the Veilkeepers need from their opposition: the credibility to decide what's safe to reveal. Currently they decide in secret; they need external legitimacy. What their opposition needs from them: the infrastructure to actually store and protect dangerous information. The information the Veilkeepers suppress would be catastrophic in some hands; someone needs to hold it. The tension is real because both functions are necessary and neither can provide what the other does.
 
 ### Priority ordering for faction design
 
@@ -114,7 +114,7 @@ Three minor groups are named: The Quiet Shift, The Treaty Scholars, The Last Bui
 - [ ] Veilkeepers faction design complete (FD-3 ending can now be written)
 - [ ] Lattice / Bonded Lattice faction design complete (FD-4 ending can now be written)
 - [ ] Reclaimers faction design complete (FD-6 ending can now be written)
-- [ ] Echoes of Amundsen: design complete OR slot reassigned (pending Blocking Decision 1)
+- [ ] The Vigil [NAME TBD]: design complete OR slot reassigned (pending Blocking Decision 1)
 - [ ] Siligel Purists faction design complete (FD-8 ending can now be written)
 - [ ] Neon Nomads faction design complete (FD-9 ending can now be written)
 - [ ] Chorus of the Deep faction design complete (FD-10 ending can now be written)

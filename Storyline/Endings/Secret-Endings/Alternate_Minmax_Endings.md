@@ -580,7 +580,7 @@ The knowledge of what lies beyond the documented frontier is with the player, no
 **Minor Negative Effects**
 - Sagittarius' frontier culture, which valued the unexplored, is permanently changed by the knowledge that the blank space has been entered — the anxiety about what is there intensifies rather than resolves
 - The scout's route, once discovered in traces, is followed by less-prepared individuals
-- The Echoes of Amundsen faction becomes obsessed with the scout's findings as potential evidence of off-world return, consuming political energy on speculation
+- The The Vigil [NAME TBD] faction becomes obsessed with the scout's findings as potential evidence of off-world return, consuming political energy on speculation
 - Concordia's long-term resource planning is built on an incomplete geographic picture that it doesn't know is incomplete
 
 ---

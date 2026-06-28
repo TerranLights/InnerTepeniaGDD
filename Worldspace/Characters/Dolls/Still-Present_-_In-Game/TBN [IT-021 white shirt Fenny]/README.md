@@ -26,7 +26,13 @@
 - Nerve: TBD
 - Engine: TBD
 
-**Key Traits / Notable Perks (companion-relevant):** TBD
+**Key Traits / Notable Perks (companion-relevant):**
+
+- **[Effect 1 — NAME TBD]:** To be established during Phase 3 personality design.
+- **[Effect 2 — NAME TBD]:** To be established during Phase 3 personality design.
+- **[Effect 3 — NAME TBD]:** To be established during Phase 3 personality design.
+- **[Effect 4 — NAME TBD]:** To be established during Phase 3 personality design.
+- **[Effect 5 — NAME TBD]:** To be established during Phase 3 personality design.
 
 **Model Designation:** IT-021
 **Working Name (folder reference):** "Fenny" — personal name TBD

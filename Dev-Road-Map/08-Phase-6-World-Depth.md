@@ -81,7 +81,7 @@ Some of these parameters can be deliberately ambiguous — the war is far enough
 
 What weapon was used? When specifically? What was lost in the destruction beyond the physical structure? Who witnessed it? The tower's destruction is the world's definitive catastrophic event — it should be as specifically designed as the event merits.
 
-The Echoes of Amundsen faction (whether kept, redesigned, or cut per Blocking Decision 1) is organized around the loss of this tower. The tower's destruction specifics should be canonical before the faction's meaning is fully designed.
+The The Vigil [NAME TBD] faction (whether kept, redesigned, or cut per Blocking Decision 1) is organized around the loss of this tower. The tower's destruction specifics should be canonical before the faction's meaning is fully designed.
 
 ---
 

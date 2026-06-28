@@ -11,7 +11,7 @@ These require a developer call before downstream work can proceed. None can be r
 - [x] **Ji-Eun Kim — main game vs. DLC — RESOLVED**
   Ji-Eun is alive, in Concordia, in the Aquarius district. Main game companion. Her concealment (nanotech self-modification) explains why Calethina cannot detect her. Calethina's degradation compounds the blindspot.
 
-- [ ] **Echoes of Amundsen faction — keep, redesign, or cut?**
+- [ ] **The Vigil [NAME TBD] faction — keep, redesign, or cut?**
   Blocks: Faction Devotion ending slot FD-7, faction design queue. Grok-suggested; off-world evacuees are now confirmed alive and prospering, which may change the dramatic premise. Review Grok notes in `to-be-integrated/miscellaneous/World_History_Reference.md` before deciding.
 
 - [ ] **Salagéa Aparast — main game vs. DLC placement**
@@ -118,7 +118,7 @@ These require a developer call before downstream work can proceed. None can be r
   - FD-3: Veilkeepers
   - FD-4: Lattice / Bonded Lattice
   - FD-6: Reclaimers
-  - FD-7: Echoes of Amundsen *(pending keep/redesign/cut decision — see Decision Required)*
+  - FD-7: The Vigil [NAME TBD] *(pending keep/redesign/cut decision — see Decision Required)*
   - FD-8: Siligel Purists
   - FD-9: Neon Nomads
   - FD-10: Chorus of the Deep

@@ -101,7 +101,7 @@ These were explicitly deferred in earlier sessions and are not resolved:
 | Issue F | Calethina's passive link to the player — what is it? | High (affects questline) |
 | Robot Religion Insight naming conflict | A naming conflict was flagged but not resolved | Medium |
 | Narrative Weaver perk | Marked TENTATIVE | Low |
-| Echoes of Amundsen faction | Grok-suggested; developer undecided on inclusion/design | Medium |
+| The Vigil [NAME TBD] faction | Grok-suggested; developer undecided on inclusion/design | Medium |
 | 7 remaining district official names | Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Libra TBNs | Medium |
 | ~99 more level-up perks | Target is 160 total | Low (long-term) |
 | Might/Nerve design pass | Tentative design pass on these two MACHINE stats | Low |

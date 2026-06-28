@@ -173,7 +173,7 @@ Concordia is isolated but not completely cut off.
 
 **Air transport:** Likely extremely limited. High altitude + extreme weather + energy costs make air transport impractical for routine supply. Possibly used for emergencies or high-value, low-mass cargo.
 
-**Off-world:** The Space Elevator that once connected Antarctica to Upper Earth was destroyed. There is no off-world supply or communication. The Echoes of Amundsen maintain signal towers attempting to contact the off-world evacuees.
+**Off-world:** The Space Elevator that once connected Antarctica to Upper Earth was destroyed. There is no off-world supply or communication. The The Vigil [NAME TBD] maintain signal towers attempting to contact the off-world evacuees.
 
 ---
 
