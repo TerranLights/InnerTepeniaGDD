@@ -27,7 +27,17 @@
 - Nerve: 8
 - Engine: 9
 
-**Key Traits / Notable Perks (companion-relevant):** TBD
+**Key Traits / Notable Perks (companion-relevant):**
+
+- **Provenance Verification:** She does not keep records — she retrieves them from Upper Earth and delivers them to contacts in Tepenia who do the keeping. But she has personally handled specific records: she knows what she carried, from which Upper Earth source, through which retrieval chain. If someone presents a document claiming a specific origin, she can verify whether that origin actually exists, whether the retrieval chain is credible, and whether what she is looking at matches what she actually delivered. She catches forgeries and fabricated provenance specifically — not by cross-referencing an archive, but by knowing the real retrieval system from the inside.
+
+- **Retrieval Contact Network:** Her contacts across Tepenia are the keepers — each received records she delivered. She does not hold the information herself; she is a map to whoever does. If the player needs specific information, she can identify which contact likely has it and open that door. Additionally, her upstream Upper Earth sourcing routes may be the only way to access records that were never retrieved — she potentially has contacts who can pull something nobody in Tepenia has yet seen.
+
+- **Community Endorsement:** Her standing as a recognized moral authority changes how communities receive the player. In Cancer, Taurus, and Capricorn specifically, her presence functions as a vouching mechanism — NPCs who would be suspicious or hostile are instead cautious or receptive, and doors open that would not open otherwise. Broader in geographic scope than Favi's Taurus Community Standing and rooted in moral credibility rather than security history.
+
+- **Moral Clarity in Negotiation:** Her 1w2 capacity to articulate ethical stakes with precision and calm gives her unusual weight in arguments where the player is holding a principled position against pressure. She is not persuasive through charm — she is persuasive through the quality of her framing. Her presence in a difficult negotiation shifts something that words alone may not.
+
+- **Datashard Courier Routes:** Her established courier network means she can move information, objects, or messages across Concordia quickly and discreetly through channels that do not appear in official records — a quiet logistics layer the player cannot access alone.
 
 ## Visual Description
 (See `Reference_Images/` folder.)
