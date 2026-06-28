@@ -135,17 +135,21 @@ Calethina is romanceable. She is the most demanding romance in the game, both na
 
 No trait gates currently defined. Traits may be added during Phase 3 character design once her full personality is written.
 
-**The questline IS the romance questline.** There is no separate romance track. The Calethina questline ("Echoes of the Bridge") is the relationship, built across its full length. The romance does not activate at the beginning; it becomes available at the questline's central decision point.
+**The download and the romance are separate events.** The Calethina questline ("Echoes of the Bridge") builds the relationship across its full length. The download decision (approximately midpoint of the main quest) is available to any player who has made the associated questline decisions — it is not stat-gated. The download is about saving/keeping her. The romance is a separate question about what the relationship becomes afterward.
 
-**The download is the romance gateway.** At the download decision (approximately midpoint of the main quest), if both gates are met, the full personality download becomes the romantic act. She is not just transferred to the protagonist's wrist device — she becomes part of the protagonist, carried within them. Her holographic projection then projects from the protagonist's own body. This is a uniquely robot form of intimacy with no human analogue.
+**The download: what it is.** On the full personality download, she is not simply transferred to the protagonist's wrist device — she becomes part of the protagonist, carried within them. Her holographic projection then projects from the protagonist's own body. This is a profound chosen bond regardless of whether the romance follows.
 
-**Full download only.** The romance route opens on the full personality download exclusively. A partial download, no download, or an alternative stabilization solution each produce their own emotionally valid outcomes, but the romance does not follow.
+**Full download only.** The romance option does not follow a partial download, a no-download outcome, or an alternative stabilization solution. Those each produce their own emotionally valid outcomes, but the romance mini-quest does not open.
 
-**Built-in bittersweet weight.** Even on the romantic path, the full download carries a confirmed risk: some of her memories may be lost or altered in transfer. The protagonist accepted losing pieces of her in order to keep her at all. The romance begins with that specific weight already present.
+**The romance option appears after the download.** Once the full download has occurred, the game checks the stat threshold. If met, a romance option opens. If not met, it does not. The protagonist and Calethina now share an intimate physical reality regardless — she is inside them — but the romantic arc is a separate layer that requires the build to support it.
 
-**The re-spec complication.** If the player re-specced through Calethina's lab to meet her stat thresholds, she performed the work herself. She knows what was changed and why. At the download moment, she may acknowledge this directly. Whether she reads it as moving (someone wanted to be someone she could love) or troubling (someone altered who they were to reach her) should be a dialogue branch. Both are valid. Both are bittersweet.
+**The romance mini-quest.** If the romance option appears, it is its own dedicated interaction sequence distinct from the main questline — a focused arc that constitutes the actual romantic relationship developing between the protagonist and Calethina in the post-download state. Specific beats are Phase 5 design work.
 
-**The Calethina Devotion failsafe ending** connects to this romance route. Players who pursued the romance and chose the full download receive a version of the Devotion ending specific to the romantic relationship. Players who downloaded without the romance threshold met receive a different version reflecting a different kind of profound chosen bond.
+**Built-in bittersweet weight.** Even on the romantic path, the full download carries a confirmed risk: some of her memories may be lost or altered in transfer. The romance begins with the protagonist having already accepted losing pieces of her in order to keep her at all.
+
+**The re-spec complication.** If the player re-specced through Calethina's lab to meet her stat thresholds, she performed the work herself. She knows what was changed and why. The point at which the romance option appears (post-download) should have dialogue that acknowledges this — as a branch, not a single read. Whether she finds it moving (someone wanted to be someone she could love) or troubling (someone altered who they were to reach her) are both valid. Both are bittersweet.
+
+**The Calethina Devotion failsafe ending** has two versions: one for players who completed the romance mini-quest, one for players who downloaded without the romance threshold met. The second version reflects a different kind of profound chosen bond — she is inside them, they carry her, and that is its own thing.
 
 ---
 
