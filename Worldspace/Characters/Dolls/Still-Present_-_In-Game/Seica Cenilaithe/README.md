@@ -28,10 +28,16 @@
 - Engine: 8
 
 **Key Traits / Notable Perks (companion-relevant):**
-- Exceptionally skilled with one-handed non-revolver ballistic pistols — her specific weapon, deeply mastered; not broadly versatile but devastating in her lane
-- Artistic — makes visual art; likely dark, emotionally powerful, connected to Goth and spiritual themes
-- Spiritual to the extent a robot can have a soul; genuine inner life oriented around Scorpio's sacred-transformation tradition rather than the clinical rebirth infrastructure
-- Carries burning, principled hatred against Upper Earth governments and militaries — targeted and contained, not indiscriminate
+
+- **Scorpio Spiritual Access:** Her genuine standing in Scorpio's sacred-transformation tradition — not the clinical rebirth infrastructure, but the community that actually holds the district's spiritual weight — opens spaces, conversations, and rituals that outsiders cannot reach regardless of skill level. With her present, the player inherits that access by association.
+
+- **Grief Recognition:** Her H8 and the specific depth of her personal loss mean she recognizes grief, denial, and profound loss in others immediately. In conversations with NPCs in that state, her presence unlocks dialogue options that bypass defenses — she speaks directly to where they actually are rather than where they're presenting themselves to be. Rooted in lived experience, not broad social skill.
+
+- **Upper Earth Defector Navigation:** Her deep, specific knowledge of Upper Earth military and government structures — and her principled hatred of them — gives her a unique position with Concordia's Upper Earth defector subcommunity. The effect is three-way depending on the defector's actual stance: with the genuinely remorseful, she can verify whether their claimed regret is credible and her unflinching acknowledgment of the harm carries weight with people who don't want false absolution; with those hiding behind "just following orders" framing, she sees through it immediately and says so, which closes certain diplomatic paths while opening more honest ones; against those still actively working against Tepenian interests, she reads their behavioral patterns and organizational tells before they've revealed themselves, flagging the threat.
+
+- **Pistol Coordination:** Her A10 and deeply mastered one-handed ballistic pistol technique provides a meaningful passive combat effect when the player uses the same weapon type — she covers angles and firing lanes that complement the player's approach, making the combination more effective than either alone.
+
+- **Sincerity Detection:** Her Sx subtype makes her immediately attuned to whether someone is being genuine or performing emotional engagement in a direct, one-to-one encounter. Not broad social intelligence — she does not have the stats for that. Specifically: she can tell when someone is going through the motions of sincerity without meaning it. This fires in direct personal encounters, not group social dynamics.
 
 ## Visual Description
 (See `Reference_Images/` folder.)
@@ -72,6 +78,9 @@ Occupation TBD. See `Personal_Background/` for details as they develop.
 - **Art:** Visual art, not music. Likely dark, emotionally powerful in the way an Sx-8w7's expression would be — direct, intense, doesn't explain itself.
 - **Pistol mastery:** One-handed non-revolver ballistic pistols specifically. Very skilled. Not broadly combat-versatile, but in her lane: exceptional.
 - **Occupation:** TBD
+
+- **Planned cinematic moment — Upper Earth operative scene:** During development, implement a BG3-style cinematic companion moment built around Sincerity Detection and Upper Earth Defector Navigation working together. Setup: an Upper Earth operative posing as a defector lies directly to Seica in a one-to-one exchange. She detects it immediately. Without deliberation, warning, or speech, she draws her pistol and shoots him point-blank in the head — multiple shots, empties the cartridge. She then reloads calmly for a fresh capacity. A second operative (also a planted agent) slowly repositions along with several associates and says: *"Now you've done it."* Combat begins instantly. The sequence is designed to show in a single scene what she is: an 8w7 Sx who does not threaten, does not negotiate, and does not hesitate once the decision is made. The reload before combat is the key character beat — unhurried, deliberate, completely unshaken.
+
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:
