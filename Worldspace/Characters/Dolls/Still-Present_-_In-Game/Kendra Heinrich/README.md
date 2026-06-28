@@ -6,6 +6,7 @@
 **Primary Location(s):** South Pole (DLC — stranded) | Home district: Capricorn (Concordia)
 **Affiliation(s):** The Reclaimed Record (Capricorn robot workers' rights movement — potential faction seed)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; **unique gate system, no MACHINE stat or trait requirements**
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -78,6 +79,10 @@ See `Personal_Background/` for details as they develop.
   - A legitimate final challenge for a maxed-out player at the end of their build arc
   - The answer to this question will define the entire DLC's combat design and much of its atmosphere
 
+- **Romance gate — unique system, no stat/trait requirements.** Kendra is the only companion in the game whose romance has no MACHINE stat gate and no trait gate. Any build can romance her. Her gates are entirely DLC-specific:
+  - **Gate 1:** The player defeats the combat threat that defeated her. She witnesses it. Respect is the precondition for everything else with a Type 8.
+  - **Gate 2:** The player breaks through her emotional exterior across the course of the DLC — through how they treat her vulnerability, her frustration at needing help, her difficult gratitude. Not being condescending, not making her feel like a burden, not backing down when she is being difficult, showing genuine curiosity about who she is. The things that break through an 8w7's armor.
+  - Both gates met → romance mini-quest opens. Unfolds partly in the South Pole, partly in Concordia after she becomes a main game companion. Specific beats are Phase 7 work.
 - Mechanical synergies: TBD (heavy combat build, Might-primary expected)
 - Replayability ideas: TBD
 - TODOs:
