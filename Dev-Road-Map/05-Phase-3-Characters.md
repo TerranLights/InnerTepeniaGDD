@@ -68,7 +68,7 @@ Michelle has a complete backstory and a confirmed district. Her personality can 
 
 ### Salagéa Aparast
 
-Salagéa is pending Blocking Decision 2 (main game vs. DLC 5). Do not write her personality until her placement is decided — her personality design should be grounded in her narrative context, and her narrative context differs significantly between main game and DLC.
+**Confirmed DLC 5 (Atlantic Coastal Region) — moves to Phase 7.** Not part of main game character completion work. Her personality and questline design begin in Phase 7 once the DLC's central conflict and thematic contribution are established.
 
 ### Vosora Lashár Tanslock
 

@@ -92,7 +92,7 @@
 | **Veilkeepers (FD-3)** | ❌ | Concept sketch only |
 | **Lattice / Bonded Lattice (FD-4)** | ❌ | Concept sketch only |
 | **Reclaimers (FD-6)** | ❌ | Concept sketch only |
-| **Echoes of Amundsen (FD-7)** | 🔴 | Pending keep/redesign/cut decision |
+| Echoes of Amundsen | 🟡 | Downgraded to significant minor group; quest arc in Phase 5; no Devotion ending |
 | **Siligel Purists (FD-8)** | ❌ | Concept sketch only |
 | **Neon Nomads (FD-9)** | ❌ | Concept sketch only |
 | **Chorus of the Deep (FD-10)** | ❌ | Concept sketch only |
@@ -132,7 +132,7 @@
 | Kendra Heinrich (DLC 1) | ✅ | ❌ | ✅ | ❌ | ❌ |
 | Meyzan Yocazhda | 🟡 | ❌ | ⚠️ | ❌ | ❌ |
 | Michelle Stanton | ✅ | ❌ | ✅ | ❌ | ❌ |
-| Salagéa Aparast | ✅ | ❌ | 🔴 | ❌ | ❌ |
+| Salagéa Aparast | ✅ | ❌ | DLC 5 | ❌ | ❌ | ← moved to DLC 5 (Phase 7) |
 | Vosora Lashár Tanslock | ✅ | ❌ | ✅ | ❌ | ❌ |
 
 ### TBN Characters (named but minimally developed)
@@ -210,7 +210,7 @@
 | FD-4: Lattice | ⚠️ | Tentative — faction undesigned |
 | FD-5: (open slot) | ❌ | |
 | FD-6: Reclaimers | ⚠️ | Tentative — faction undesigned |
-| FD-7: Echoes of Amundsen | 🔴 | Pending keep/redesign/cut decision |
+| FD-7: (open slot) | ❌ | Echoes of Amundsen downgraded to minor group; slot available for reassignment |
 | FD-8: Siligel Purists | ⚠️ | Tentative — faction undesigned |
 | FD-9: Neon Nomads | ⚠️ | Tentative — faction undesigned |
 | FD-10: Chorus of the Deep | ⚠️ | Tentative — faction undesigned |
@@ -266,5 +266,5 @@
 | DLC 2: West Antarctica / Byrd | ❌ | ❌ | Not started |
 | DLC 3: Antarctic Peninsula | ❌ | ❌ | Not started |
 | DLC 4: Mawson Region | ❌ | ❌ | Not started |
-| DLC 5: Atlantic Coastal Region | Salagéa Aparast (?) | ❌ | Pending placement decision |
+| DLC 5: Atlantic Coastal Region | Salagéa Aparast | ❌ | Confirmed — Salagéa is DLC 5 protagonist |
 | DLC 6: Janbogo Region | ❌ | ❌ | Not started |

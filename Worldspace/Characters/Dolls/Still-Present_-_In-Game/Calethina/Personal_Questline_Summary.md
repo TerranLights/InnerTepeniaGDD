@@ -14,7 +14,15 @@ This questline was written by Grok. The 5-step structure and the general degrada
 
 3. **Download option at approximately halfway through the main quest.** Grok placed the download as the Step 5 end-game climax (Late Act 2 → Act 3). The developer wants it available at roughly the midpoint of the main quest instead. This is a structural change: the download is not the ending of the Calethina story — it is a transition that changes what the second half of the game looks like with her.
 
-4. **Issue F (passive link name) is unresolved.** The [PASSIVE LINK — NAME TBD] in Steps 2–5 needs a name. Deferred.
+4. **Issue F (passive link mechanic) is RESOLVED.** The [PASSIVE LINK — NAME TBD] placeholder throughout Steps 2–5 refers to the following confirmed mechanic:
+
+   Calethina is a holographic projection from the wrist device — technically not a companion (no companion slot, no companion code path). She is present, interactive, and visible as a sprite/avatar in the game world.
+
+   **Before the download:** She projects from her server through the city grid. Signal-dependent. Good signal = clean image. Poor signal/interference = flickering, glitching sprite. No signal = she disappears entirely and is absent until the player returns to signal range. Her visual quality is a direct readout of world/grid health.
+
+   **After the download (midpoint of main quest):** She is local to the wrist device. Clean, stable holographic image everywhere, regardless of grid state. The visual change — flickering sprite becomes steady — is the payoff of the download.
+
+   The [PASSIVE LINK — NAME TBD] label in Grok's Steps 2–5 can be replaced throughout with "her projection" or "her signal." No separate mechanic name is needed — the projection system is the mechanic.
 
 **Questline full development is deliberately deferred** until the surrounding world (Concordia’s society, history, geography) is better codified. The plot beats need to connect to real, established elements of the world. Resume when the world feels stable enough to support it.
 

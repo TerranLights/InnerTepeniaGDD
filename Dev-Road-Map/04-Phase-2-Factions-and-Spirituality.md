@@ -86,7 +86,7 @@ Design in order of storyline dependency:
 3. **Veilkeepers** (FD-3) — most developed sketch; complete third
 4. **Lattice / Bonded Lattice** (FD-4) — thematically critical (directly engages the second guiding principle); complete fourth
 5. **Reclaimers** (FD-6) — concept is clear; straightforward to develop
-6. **Echoes of Amundsen** (FD-7) — pending Blocking Decision 1; skip until decision is made
+6. **FD-7 slot** — open; assign when a candidate faction emerges from Phase 2 design work
 7. **Siligel Purists** (FD-8) — develop alongside Reclaimers
 8. **Neon Nomads** (FD-9) — world-building faction; lower narrative urgency
 9. **Chorus of the Deep** (FD-10) — relationship to Cymaticists must be settled first
