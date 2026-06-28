@@ -27,7 +27,17 @@
 - Nerve: 8
 - Engine: 7
 
-**Key Traits / Notable Perks (companion-relevant):** TBD
+**Key Traits / Notable Perks (companion-relevant):**
+
+- **Salvage Eye:** In ruins, damaged structures, and degraded environments, automatically surfaces scavenging opportunities, hidden materials, and overlooked components that would otherwise require an Investigation threshold the player hasn't met. Scoped to her domain — her instinct fires on structural damage and salvageable material specifically; a clean or intact environment does not trigger the same read.
+
+- **Minimal Viable Solutions:** When the player needs to repair, craft, or improvise, she can make it work with fewer or cheaper materials than the standard requirement — a flat reduction in resource threshold, not a probability improvement. Years of keeping a compound running on salvage means she knows which shortcuts are real and which ones will fail.
+
+- **Ruins Navigation:** She reads structural damage the way others read text. Environments that would be dangerous or impassable without a specific skill threshold become navigable with her present — she identifies the safe path, the floor that will hold, the wall that is actually load-bearing. Exploration in damaged environments is meaningfully different with her along.
+
+- **Pisces Fringe Access:** Her hab compound community gives access to the trust network at Pisces' edge — people who would not deal with a stranger but will deal with someone she has brought in. Information, resources, and safe harbor at the city's margins become available through her.
+
+- **Low-Profile Movement:** Her entire existence has been built around not drawing attention. In Pisces specifically, she moves without generating faction attention below a threshold that would otherwise require a Stealth skill the player may not have.
 
 ## Visual Description
 (See `Reference_Images/` folder.)
