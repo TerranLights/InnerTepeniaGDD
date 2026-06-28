@@ -88,37 +88,78 @@ The Antarctic ice beneath and around the scrap mountain has fractured from the t
 
 ---
 
-## Enemy Design — Open Design Question
+## What Defeated Kendra Heinrich — Confirmed Design
 
-**The central unanswered question: what defeated Kendra Heinrich?**
+**Primary framework: Option D (environment + attrition + enemies that prevent recovery).**
 
-Whatever it is must be:
-- Unique to the South Pole / Amundsen Station ruins — no equivalent anywhere else in the game
-- Credibly capable of defeating a character with M10, A10, N10, E10
-- Thematically connected to the site (Long Night War, tower destruction, inter-subnet relay going dark)
-- A legitimate final challenge for a maxed-out player at the end of their build arc
+Kendra was not defeated by something stronger than her. She was defeated by the compounding of the environment degrading her systems over time and enemies she could have beaten at full capacity — but couldn't at 60%, after weeks of exposure with no resupply, no shelter, and no way out. She didn't lose a fight. She lost a war of attrition she was fighting alone.
 
-**Three candidate directions — decision pending:**
+Options A (networked autonomous defense systems) and B (station security systems gone rogue) exist as minor/lesser enemy types within this framework — they are part of what kept her from recovering and kept her pinned, not the primary explanation for her defeat. They are not the answer. The system is the answer.
 
-**Option A — Upper Earth Autonomous Defense Network (UADN)**
-Left behind after the deliberate destruction of Amundsen Tower. A distributed system of cold-adapted, self-repairing, coordinated units designed to deny recovery of the site. They know the terrain. They use the environment as a weapon (pushing targets into open cold, triggering structural instability). They didn't beat Kendra in a single fight — they contained her, wore her down through attrition, and let the cold finish the work. The Long Night War is still being fought here by hardware that doesn't know the war ended.
+The player's advantage over Kendra is not being stronger than her. It is having support, preparation, and knowledge she went in without. See `DLC_01_Enemy_Design_Options.md` for the full design discussion.
 
-**Option B — Amundsen Station Security Systems Gone Rogue**
-The station's own defense infrastructure triggered total lockdown when the tower was destroyed. Years of cold and isolation have corrupted their protocols — they are no longer fully rational, which makes them harder to counter than a competent enemy. They do almost-logical things in ways that don't follow predictable tactical patterns.
+**Enemy specific types and designs:** TBD during Phase 7.
 
-**Option C — Something That Survived the Fall**
-The tower was carrying things when destroyed. Some survived the crash. The cold preserved it. The isolation let it establish itself. What it is connects to what Upper Earth was doing with the tower — a design question that reaches into the broader lore.
+---
 
-*Note: Option A is the current leading candidate — a network architecture gives the DLC multiple stages of revelation and the ability to change enemy behavior when sub-components are destroyed. Decision to be confirmed during Phase 7 DLC design.*
+## Kendra's Situation — What the Player Arrives To Find
+
+The game is set approximately 10–15 years after the Long Night War. Kendra has been stranded at the South Pole for that entire time.
+
+During and immediately after the battle, she killed as many Upper Earth forces as she could. When she was too badly damaged to continue fighting in the open, she did two things: she set up automated weapons systems in the surrounding ruins to continue killing any subsequent Upper Earth forces that came, and she retreated inside the actual Amundsen-Scott South Pole Station — the pre-war scientific facility, the real-world building that exists at the South Pole today — and locked it from inside.
+
+The automated defenses she set up are still running. They have been killing anything that approaches for a decade or more. This is why her own defense systems are what the player has to fight through to reach her — she built them herself, and they don't know to stop.
+
+Inside the station, she has been waiting. Low on power reserves. Low on energy. No way to call for help (and too proud to do so even if she could). After 10–15 years of this, by the time the player arrives, she is extremely weak and frail. The war goddess who wiped out an Upper Earth assault force is barely functional. The station is locked tight. She does not know anyone is coming.
+
+The player must find a way in. See the section below.
+
+---
+
+## Getting Into the Station — Confirmed Entry Methods
+
+The Amundsen-Scott Station is locked from inside by Kendra. The automated defense systems cover the exterior approaches. There are multiple ways to reach her — confirmed minimum of nine, spanning environmental discoveries, brought items and companions, perks, and traits.
+
+**Environmental (found in the DLC — minimum 3):**
+
+1. **Underground utility tunnel network** — The Amundsen-Scott station has an extensive underground tunnel system carved into the ice, built during the pre-war era. One entrance is buried under accumulated debris near the outer ruins. Requires Investigation 7 to locate, or Naizelle's Physical Gap Reading companion effect. Then Lockpick 45 or Repair 35 to open the frozen-shut hatch.
+
+2. **Breach point in the damaged section** — During Kendra's final battle, part of the station exterior took impact damage. She sealed it from inside with improvised materials. From outside, a player with Might 8+ or a demolition item can force an opening. Getting there requires surviving the exterior kill zone — this approach pairs naturally with any defense suppression method.
+
+3. **Emergency geothermal access hatch** — On the far side of the station, opposite the main entrance, a pre-war maintenance hatch for the station's geothermal power infrastructure. Kendra was too badly damaged to seal it during lockdown. Reaching it requires crossing a stretch of completely open ice with no cover — lethal without defense suppression, stealth capability, or cold resistance. Once reached: Lockpick 30 or Repair 25.
+
+4. **Ventilation shaft** — External ventilation intakes are buried in the snow at several points around the building. One is accessible if cleared and navigated. Agility 8 required to move through without getting stuck. Finding the right intake requires Investigation 5 or thorough perimeter exploration.
+
+**Brought items and companions:**
+
+5. **Ji-Eun Kim's anti-sensor cloaking technology** — Suppresses the player's sensor signature long enough to approach the main entrance without triggering the automated defenses. At the door: Lockpick 55 or Hacking 60 to bypass Kendra's lock. Without the cloaking, the defenses fire before the player can work the lock. This is the most direct approach to the main entrance.
+
+6. **Military-grade breach charge** — A shaped demolition charge capable of opening a reinforced door without structural collapse. Acquired through specific main game faction contacts or found in the outer ruins. No skill threshold — the tool does the work. Uses a carry slot.
+
+7. **Advanced electronic lockpick kit** — A specialist tool purchased from a specific vendor in the main game (Gemini or Aquarius supplier). Bypasses electronic locks that standard lockpicks cannot handle. Lockpick 40 still required — the kit handles the electronic layer; skill handles the mechanical. Lighter than the breach charge.
+
+**Perks:**
+
+8. **Structural Exploitation** (Repair/Engineering 75+ or named perk in the engineering tree) — The player has studied building design thoroughly enough to identify fault lines and leverage points invisible to others. A weakened section of the exterior that no one else could breach becomes a viable entry point. No additional tools needed — knowledge is the tool.
+
+9. **Dead Air** (high-level Stealth perk, Agility 7+) — Advanced stealth capability allows movement through the automated defense kill zone without triggering fire. Combined with reaching any of the environmental entry points, this makes otherwise-suicidal exterior approaches survivable for a stealth build.
+
+**Traits:**
+
+10. **Cold-Tempered** (character creation trait) — Exceptional thermal resistance. One entry route — the exposed crossing to the emergency geothermal hatch — is simply lethal to a standard build regardless of HP. A Cold-Tempered character can make the crossing without additional assistance. The one entry only cold-resistant builds can take alone.
+
+**MACHINE stat threshold:**
+
+11. **Call Out to Her** (Humanity 8+) — If the player reaches the station's external intercom point (requiring cloaking, Dead Air, or one of the environmental approaches to the near side of the building), they can attempt to speak to Kendra directly through the speaker system. Humanity 8 is enough to reach her — to make her understand the war is over, that someone came specifically for her, that she doesn't have to be alone anymore. She opens the door herself. The most thematically significant entry method. The only one that changes the emotional register of everything that follows.
 
 ---
 
 ## South Pole DLC — Multiple Approaches to the Central Challenge
 
-At minimum five distinct approaches must exist for defeating the central threat (per series design law). Confirmed approaches so far:
+At minimum five distinct approaches must exist for defeating the DLC's central threat (per series design law). Confirmed approach so far:
 
-1. **Ji-Eun Kim's anti-sensor cloaking technology** — not a guaranteed win; provides a significant edge in surviving and navigating content that would otherwise be immediately lethal. One of the most valuable pre-DLC preparation items.
-2–5. TBD during Phase 7 design.
+1. **Ji-Eun Kim's anti-sensor cloaking technology** — provides a significant edge in surviving and navigating content that would otherwise be immediately lethal. The single most valuable pre-DLC preparation item.
+2–5+. TBD during Phase 7 design.
 
 ---
 
@@ -130,10 +171,13 @@ See `DLC_PSB_Framework.md` for how DLC 1 connects to the Planetary Split Brain q
 
 ## Open Questions
 
-- [ ] What defeated Kendra — confirm Option A, B, or C (or hybrid)
+- [x] What defeated Kendra — **confirmed: Option D (environment + attrition) as primary; A and B as minor elements**
+- [x] How Kendra's defenses are still running — **confirmed: she set them up herself during the battle and retreated inside**
+- [x] Where Kendra is — **confirmed: inside the actual Amundsen-Scott South Pole Station, locked from inside, 10–15 years stranded**
+- [x] Minimum ways into the building — **confirmed: 11 methods across environmental, brought, perk, and trait categories**
 - [ ] Specific enemy types and their designs
 - [ ] Exact carry weight restriction number for DLC entry
-- [ ] Five minimum approaches to the central challenge (only Ji-Eun cloaking confirmed so far)
+- [ ] Five minimum approaches to the central challenge — only Ji-Eun cloaking confirmed; 4+ TBD
 - [ ] Main storyline structure and beats
 - [ ] South Pole side content
 - [ ] Kendra romance mini-quest beats (Phase 7)
