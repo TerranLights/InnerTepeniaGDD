@@ -7,7 +7,7 @@
 ## NPC-Pisces-Operator
 **Role:** Operator — gray-market facilitator, derivative Flood technology
 **Species:** Doll (Robot)
-**Build:** Fluid-frame model, circa 2680s — built for rapid physical reconfiguration, common in Pisces where the market infrastructure requires adaptability. Built for adaptability in Pisces's constantly shifting market environment. NPC-Pisces-Operator has accumulated personal modifications over decades — clothing choices, accessories, deliberate self-presentation decisions — in a way that is visually idiosyncratic and belongs entirely to NPC-Pisces-Operator.
+**Build:** Pisces market model, circa 2680s — built for adaptability in Pisces's constantly shifting market environment. NPC-Pisces-Operator has accumulated personal modifications over decades — clothing choices, accessories, deliberate self-presentation decisions — in a way that is visually idiosyncratic and belongs entirely to NPC-Pisces-Operator.
 **Presenting gender:** Non-binary
 
 **Personality:**
