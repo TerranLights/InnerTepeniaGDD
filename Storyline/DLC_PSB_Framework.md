@@ -154,6 +154,8 @@ DLC 1 is the structural key. The pre-split archive — the only place in Tepenia
 
 **What the player will encounter regardless of story:** The physical ruins of the space elevator that evacuated Tepenia. The Amundsen Tower scrap mountain. The most extreme environment in the game. Kendra Heinrich, who has been here a very long time.
 
+**Difficulty — brutally hard by design and by lore.** This is the hardest DLC in the game. The in-lore justification is binding: Kendra Heinrich is a war goddess who held off an army during the evacuation. Whatever damaged her to the point of being stranded and needing rescue is, by definition, among the most formidable threats in Tepenia. The difficulty is not arbitrary — it emerges from the world's internal logic. The environment is a co-antagonist (extreme cold, no infrastructure, no supply lines). The enemies are unique to this location and cannot be recycled from elsewhere. This DLC is designed for players at the end of their build arc, which reinforces its natural capstone position without requiring a hard gate.
+
 **Known 2nd-order effects (TBD pending storyline):**
 Depends on what Kendra's situation is and what the player does about it. The South Pole is not a political entity and cannot be "stabilized" in the conventional sense — its political stability variable works differently. TBD.
 

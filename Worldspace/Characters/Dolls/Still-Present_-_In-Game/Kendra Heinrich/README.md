@@ -62,13 +62,29 @@ See `Personal_Background/` for details as they develop.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
+
 - **DLC context:** Kendra is stranded at the South Pole and is the protagonist of her own starring DLC. She does NOT begin in Concordia. The Capricorn affiliation and The Reclaimed Record faction are her background/origin story — the place and cause she came from. Her recruiting arc and companion quest likely unfold entirely within the DLC context (South Pole setting), not in the main city.
+
 - **Capricorn connection:** Even though she's absent from Concordia during the game, her presence is felt there — through The Reclaimed Record movement she helped seed, through other characters who reference her, or through documents/evidence the player can find. She matters to Concordia even before she's encountered.
-- Mechanical synergies: TBD
+
+- **DLC difficulty — brutally hard by design and by lore.** The South Pole DLC is the hardest content in the entire game. This is both a gameplay commitment and an in-lore necessity: Kendra Heinrich is a war goddess who held off an army during the evacuation. Whatever damaged her to the point of being stranded and needing rescue is, by definition, among the most formidable threats in Tepenia. The enemies here cannot be recycled from other content — they must be unique to the South Pole and credibly capable of defeating someone of Kendra's capability. The environment itself is a co-antagonist: extreme cold, total isolation, no supply lines, no shelter infrastructure. The DLC is designed to be the natural capstone of a player's build — something only a fully developed character can survive.
+
+- **The central emotional irony (and dignity).** Kendra has spent her existence as the one who protects and rescues others. She is an 8w7 — the type that acts rather than waits, that charges toward the threat, that has structurally never needed help. The DLC's emotional core is her having to accept rescue from the player. For her type, this is one of the hardest things imaginable. The DLC should honor the difficulty of that inversion rather than glossing over it.
+
+- **Critical open design question: what defeated her?** This is the most important unanswered question for DLC 1. Whatever it is needs to be:
+  - Unique to the South Pole / Amundsen Station ruins — not a generic enemy type
+  - Credibly capable of defeating a war goddess with an SMG and ballistic weapons who held off an army
+  - Thematically connected to the site (the Long Night War, the space elevator's destruction, the inter-subnet relay going dark)
+  - A legitimate final challenge for a maxed-out player at the end of their build arc
+  - The answer to this question will define the entire DLC's combat design and much of its atmosphere
+
+- Mechanical synergies: TBD (heavy combat build, Might-primary expected)
 - Replayability ideas: TBD
 - TODOs:
   - [ ] Full backstory
-  - [ ] Visual design
+  - [ ] Personality and voice (Phase 3)
   - [ ] DLC structure and South Pole setting
-  - [ ] Relationship between DLC arc and Capricorn/The Reclaimed Record
+  - [ ] Answer the "what defeated her" design question
+  - [ ] Relationship between DLC arc and Capricorn / The Reclaimed Record
   - [ ] MACHINE stat baseline
+  - [ ] Romance status (TBD)
