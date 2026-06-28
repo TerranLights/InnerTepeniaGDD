@@ -76,3 +76,20 @@ See `Personal_Background/` for details as they develop.
   - [ ] Full backstory
   - [ ] Visual design
   - [ ] MACHINE stat baseline
+
+---
+
+## NPC Schedule (In-Game Clock)
+
+Trisha's activity is tied to the in-game clock. She operates on a daily cycle.
+
+**Broadcast hours (majority of the day):**
+At The Signal, running her show live — music, talking, opinions, listener call-ins. Accessible at the station, but her primary mode is the show itself.
+
+**Off-air windows (two daily intervals):**
+- **Very early morning (~6 in-game hours):** Station runs auto-play (pre-queued music, no live host). Trisha is out in Taurus, in public, socializing with people. Low-population window — quieter encounters, more one-on-one texture.
+- **Late afternoon (~4 in-game hours):** Same — auto-play on, Trisha out in the world. Higher foot traffic; different ambient context.
+
+During off-air windows the player can find and speak to her in Taurus. This is the primary way the player meets and gets to know her organically. She is not hiding or off-duty in any guarded sense — this is just what she does. The populist character doesn't perform accessibility; she is simply out among people because that is who she is.
+
+**Post-questline:** Her broadcast content reflects how events resolved. She talks about the player on air — what happened, how she reads it. Players who helped her, betrayed her, or navigated something in between each get a broadcast that reflects the specific reality of what occurred.
