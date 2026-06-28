@@ -2,9 +2,9 @@
 
 ## Salagéa Aparast
 
-**Role / Archetype:** Community moral authority; Cancer advocacy voice
-**Primary Location(s):** Cancer (Nurturing/Protective district)
-**Affiliation(s):** No-One-Left-Behind Registry (Cancer advocacy organization — potential faction seed)
+**Role / Archetype:** Datashard courier; civilizational archivist; community moral authority (Cancer — if main game)
+**Primary Location(s):** TBD — see Design Notes (main game vs. DLC 5 decision pending)
+**Affiliation(s):** No-One-Left-Behind Registry (Cancer advocacy organization — if main game)
 **Companion Potential:** No — NPC
 
 ## Core Identity
@@ -42,7 +42,7 @@ A Tepenia native originally from Belgrano. She lives on a boat she sails herself
 
 During the Long Night War, she chose not to flee into space through Amundsen Tower. She stayed on Earth specifically to continue cataloguing and archiving pre-war knowledge — ensuring that what was recorded could be transmitted to the robots and humans who did escape, so that history is preserved across the solar system, not just on the surface.
 
-**Note:** Her PreWar_History establishes her as boat-dwelling and itinerant, which may not align with the Cancer district placement in this README. Her district assignment may need revision — she may have no fixed district, docking in Concordia periodically rather than residing there. See Design Notes.
+**Note:** Placement is unresolved — see Design Notes and top-level TODO.md. Concordia is far inland; her boat is not accessible from there, making the Cancer/Concordia framing contingent on whether she is a settled main game character or an active DLC character.
 
 See `Personal_Background/` for details as they develop.
 
@@ -62,14 +62,18 @@ See `Personal_Background/` for details as they develop.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
-- **District placement FLAG:** Her PreWar_History says she lives on a boat she sails herself. This conflicts with the Cancer fixed-district placement in this README. She may be itinerant — docking in Concordia periodically, with Cancer as her closest thing to a home port, rather than a permanent resident of the district. Needs user decision before the Cancer affiliation is treated as final.
-- **Role clarification:** Her primary role is datashard courier and Arcanet archivist — preserving pre-war civilizational knowledge. The "Cancer community moral authority" framing in this README may be secondary to or derived from this itinerant life, not the core of her identity.
-- **Connection to Vosora:** Both Salagéa and Vosora are working to preserve and transmit knowledge to the space-dwelling Tepenian population. Potential relationship or shared connection worth developing.
+
+- **Placement decision (blocking):** Concordia is far inland — her boat cannot be accessed from there without a very long overland trek. Two paths, both preserved pending decision:
+  - **Main game (settled):** She lives in Concordia permanently. The boat and active datashard courier life are her past. The Cancer/No-One-Left-Behind Registry role fits this version. Her itinerant identity becomes backstory rather than present reality.
+  - **DLC 5 (Atlantic coast):** She remains an active boat-dwelling datashard courier near Belgrano (her home city). Her full character concept is preserved but she is not in the main game. The Cancer/Registry content in Concordia would need a different character or restructuring.
+- **If main game:** The "Cancer community moral authority" framing holds — she has a room or arrangement in Cancer when she's in Concordia, it's her landing point, but the boat is her past. The No-One-Left-Behind Registry is where she channels that energy now.
+- **If DLC 5:** The Cancer/Registry content needs to be detached from her and reassigned, or restructured to reflect the coastal setting.
+- **Connection to Vosora:** Both Salagéa and Vosora are working to preserve and transmit knowledge to the space-dwelling Tepenian population. Potential relationship or shared history worth developing regardless of placement.
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:
-  - [ ] District placement decision (boat-dwelling vs. Cancer resident)
-  - [ ] Relationship between her datashard courier role and her Cancer affiliation
+  - [ ] Main game vs. DLC 5 placement decision — see top-level TODO.md
   - [ ] Visual design
+  - [ ] Personality and voice
   - [ ] Questline design
   - [ ] MACHINE stat baseline

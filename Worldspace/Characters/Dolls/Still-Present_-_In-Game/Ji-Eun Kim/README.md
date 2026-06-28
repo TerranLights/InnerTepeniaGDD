@@ -3,9 +3,9 @@
 ## Ji-Eun Kim
 
 **Role / Archetype:** Master nanotech engineer; technical ally; key narrative thread
-**Primary Location(s):** Aquarius (The Labs) — testing facility (now ruins); main game vs. DLC placement TBD
+**Primary Location(s):** Aquarius (The Labs) — still in Concordia, hidden within the district; testing facility (now ruins) is her last known public address
 **Affiliation(s):** Eyes of Gold (friend and technical partner, not a member)
-**Companion Potential:** Undecided — main game vs. DLC decision pending (developer preference: main game)
+**Companion Potential:** Yes — main game companion
 
 > **Full lore:** `Worldspace/Characters/Major_NPCs/Ji-Eun_Kim.md`
 
@@ -46,7 +46,15 @@ She was built and trained in Unified Korea during a period when anti-robot senti
 
 Rather than abandoning her work, Ji-Eun continued her nanotech research after arriving in Concordia. She established a testing facility which is now in ruins. Her most publicly known contribution was engineering the Eyes of Gold's gold ocular prosthetics — the surgical implants that serve as the faction's rite of passage. She was a friend to the Eyes of Gold without ever being a member.
 
-Her current location is unknown. Calethina knows her facility and tracks her, stating "Ji-Eun may still be alive."
+**She is alive.** Calethina does not know this. Ji-Eun's testing facility is in ruins, but Ji-Eun herself disappeared before or during the Long Night War — not as a casualty, but as a choice. She engineered her own undetectability using the same nanotech discipline that defined her career, and she has been invisible ever since.
+
+Three interlocking reasons, all of which are true simultaneously:
+
+1. **She built it for someone else.** The concealment protocol was originally designed as a defensive tool for someone she cared about — the specific person is TBD, but they did not survive to receive it. She carries the technology like an undelivered letter. Every time it's active, she is still, in some sense, with that person. She could reverse it. She hasn't.
+
+2. **It was the first thing she ever built for herself.** Her entire career, her work belonged to other people — the ocular prosthetics went to the Eyes of Gold, her research was cited and absorbed by institutions that exiled her anyway. Going dark and applying her own nanotech to herself was the first time she used what she built for her own sake alone. The disappearance is an act of radical self-possession. It is also the thing that cut her off from the only work that ever made her feel real.
+
+3. **The reversal is no longer simple.** She designed the concealment to be permanent — because permanence was the point. Undoing it now is genuinely difficult and potentially dangerous. The freedom she built for herself has become a structure she cannot easily leave. She is not being held by anyone. She is being held by the most capable person she knows.
 
 ## Role in Main Story / World
 - Connection to larger narrative: Sits at the intersection of the Calethina questline ("Echoes of the Bridge"), the Eyes of Gold faction, and the game's highest-tier implant technology. This three-way connection emerged organically from the lore and should be preserved.
@@ -55,8 +63,8 @@ Her current location is unknown. Calethina knows her facility and tracks her, st
 
 ## Personal Questline Hook
 - Quest Title: TBD (emerges from "Echoes of the Bridge")
-- Core conflict & emotional stakes: A robot who built something remarkable in exile, then disappeared. Was she driven out again? Did she choose to leave? Is she still working somewhere?
-- Major themes: Exile and persistence; the cost of competence in a hostile world; what it means to continue after everything has been taken.
+- Core conflict & emotional stakes: A robot who built something remarkable in exile, then disappeared — not because she was driven out, but because she chose to go. Finding her means confronting someone who made a deliberate, costly, and defensible decision to stop being findable. The questline is not about rescuing her. It is about whether she wants to be found, and what finding her costs both parties.
+- Major themes: Exile and self-determination; the difference between disappearing and being free; what it means to build something for someone who isn't there to receive it; the cost of the first thing you ever do for yourself.
 - Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD
 
 ## Relationships & Hooks
@@ -64,12 +72,22 @@ Her current location is unknown. Calethina knows her facility and tracks her, st
 - Dialogue / quest hooks (skills, reputation, etc.): High Calculation/Investigation build may access technical details about her research; Eyes of Gold standing opens personal history with the faction
 
 ## Design Notes & Open Questions
-- Mechanical synergies: Gold ocular prosthetic surgery scene (max Eyes of Gold standing reward) should ideally involve Ji-Eun directly — either she performs the surgery or her specifications are explicitly used
+
+- **Survival confirmed:** Ji-Eun is definitively alive. Calethina does not know this. The player discovers it through the questline.
+- **Concealment mechanic — costs and trade-offs (design seeds):**
+  The nanotech concealment she built is a potential companion quest reward — she may give the player the technology upon completing her personal questline. If so, it must carry real costs:
+  - **Bidirectional silence:** Concealment works both ways. The player cannot broadcast, receive on standard channels, or call for help while active. Invisible to enemies; also invisible to allies.
+  - **Competes with other nanotech:** The same system used for concealment is the same system used for nanotech-based abilities or implants. Running concealment alongside active nanotech applications is difficult or impossible.
+  - **Continuous Engine drain:** Maintaining concealment is an ongoing power cost, not a toggle. Limited concealment budget forces tactical decisions.
+  - **Calethina conflict:** If Calethina has been downloaded onto the player's wrist device (Echoes of the Bridge download option), activating the concealment causes her distress — static, disruption, partial loss of presence. The technology hides the player from her too. Using Ji-Eun's gift actively harms the Calethina companion. This cost cannot be min-maxed away.
+  - **Reversal difficulty:** Designed to be permanent. The player receiving the technology inherits the same cage. Removing or modifying it requires significant effort — possibly its own quest beat.
+- **Gold ocular prosthetic surgery scene:** Max Eyes of Gold standing reward should ideally involve Ji-Eun directly — either she performs the surgery or her specifications are explicitly used.
+- **The person she built it for:** Identity TBD. Their death and their relationship to Ji-Eun are core emotional material for the questline. Should be developed alongside the full questline design.
 - Replayability ideas: TBD
 - TODOs:
-  - [ ] Main game vs. DLC decision (developer preference: main game)
-  - [ ] Current location and status
+  - [x] Main game vs. DLC decision — **main game, Aquarius district, confirmed canon**
   - [ ] Full questline design
   - [ ] Nature of Calethina-Ji-Eun prior connection
+  - [ ] Identity of the person Ji-Eun originally built the concealment for
   - [ ] MACHINE stat baseline
   - [ ] Activation date
