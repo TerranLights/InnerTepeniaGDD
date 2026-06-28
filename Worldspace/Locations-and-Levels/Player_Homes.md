@@ -653,7 +653,7 @@ Virgo homes emphasize precision, quiet dedication, functionality, and humble per
 
 ## District 13 — [Non-Zodiac]
 
-No standard player homes. TBD.
+No standard player homes. This is intentional — District 13 is not a residential district.
 
 ---
 
