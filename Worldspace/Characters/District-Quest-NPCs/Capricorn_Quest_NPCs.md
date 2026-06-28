@@ -4,14 +4,14 @@
 
 ---
 
-## Brennan Holt
+## NPC-Capricorn-Merit-Establishment-Foreman
 **Role:** Merit Establishment foreman — upper-mid spire, thirty-year veteran of the guild system
 **Species:** Human
 **Age:** Early 60s
 **Origin:** Capricorn; guild family, three generations
 
 **Personality:**
-Brennan is not malicious. This needs to be said first because every other aspect of his position in this quest flows from his not being malicious. He is thorough, competent, fair-minded within the framework he was given, and has mentored many people — humans and Dolls — with genuine investment in their development. When he is wrong, the wrongness takes real intellectual work to maintain, which is what makes it difficult to confront.
+NPC-Capricorn-Merit-Establishment-Foreman is not malicious. This needs to be said first because every other aspect of his position in this quest flows from his not being malicious. He is thorough, competent, fair-minded within the framework he was given, and has mentored many people — humans and Dolls — with genuine investment in their development. When he is wrong, the wrongness takes real intellectual work to maintain, which is what makes it difficult to confront.
 
 When confronted with the Audit data, he immediately locates the methodology problem. The methodology problem is real — the Audit has weaknesses. He focuses on the weaknesses not cynically but because the alternative — that the system that made him what he is carried a sixty-three-year structural bias — would require him to reckon with what his position means. He does not do this consciously. The cognitive resource required to not do it is genuine.
 
@@ -31,11 +31,11 @@ An upper-mid spire apartment that represents his family's trajectory across thre
 Carries himself with the ease of someone who has been doing physical work for forty years and whose body has adapted to it completely. Large hands from the years before he was primarily administrative. Moves comfortably through the production facilities in a way that visitors from other districts rarely do.
 
 **Player interaction note:**
-Brennan responds to the argument that uses his own values — the production excellence argument. He is trying to produce the best outcomes through the best methods; help him see that a biased sample cannot produce best-quality outcomes, only best-quality outcomes from the portion of the population the system includes. This is the one argument he cannot dismiss as ideology.
+NPC-Capricorn-Merit-Establishment-Foreman responds to the argument that uses his own values — the production excellence argument. He is trying to produce the best outcomes through the best methods; help him see that a biased sample cannot produce best-quality outcomes, only best-quality outcomes from the portion of the population the system includes. This is the one argument he cannot dismiss as ideology.
 
 ---
 
-## Oksana
+## NPC-Capricorn-Underground-Organizer
 **Role:** Robot Rights Underground organizer — assembly-line Doll, thirty-year merit documentation case
 **Species:** Doll (Robot)
 **Build:** Assembly-line model, circa 2720s — built for precision repetitive tasks in Capricorn's production facilities. Mid-frame, optimized for specific manufacturing task sets. Has been in the same operational classification tier for thirty years. The chassis shows the wear of thirty years of production work and no significant maintenance upgrades — the maintenance budget for her classification tier is calibrated to keep the equipment functional rather than to preserve it. She is functional. She is not preserved.
@@ -64,18 +64,18 @@ Mid-spire housing assigned by merit rating — accurate to the wrong rating. The
 The production-wear on her chassis is visible — specific patterns from thirty years of the same task set. Does not conceal it. Moves with the efficiency of someone who has been doing physical work for thirty years and has reduced every motion to its necessary elements.
 
 **Player interaction note:**
-Oksana will give the player documentation if they ask and have demonstrated they understand what they're asking for. She is extraordinarily precise about what is documented and what is not, what the evidence proves and what it suggests. She will not overstate the case. This precision makes her more credible than any amount of rhetorical force would.
+NPC-Capricorn-Underground-Organizer will give the player documentation if they ask and have demonstrated they understand what they're asking for. She is extraordinarily precise about what is documented and what is not, what the evidence proves and what it suggests. She will not overstate the case. This precision makes her more credible than any amount of rhetorical force would.
 
 ---
 
-## Petra Kwon
+## NPC-Capricorn-Guild-Loyalist
 **Role:** Guild Loyalist — human worker, thirty-year guild member, conscience-in-crisis
 **Species:** Human
 **Age:** Early 50s
 **Origin:** Capricorn; arrived from Aquarius in her early 20s
 
 **Personality:**
-Petra is genuinely torn and is not performing it. She has the specific discomfort of someone whose integrity is actively colliding with their self-interest and who has not yet decided which one wins. She has believed in the guild system for thirty years because she has moved upward through it, and the movement has felt earned, and the feeling of earning matters to her. She is also watching someone she has worked alongside for fifteen years fail to move upward despite equivalent output, and the explanations she has been giving herself are becoming harder to access.
+NPC-Capricorn-Guild-Loyalist is genuinely torn and is not performing it. She has the specific discomfort of someone whose integrity is actively colliding with their self-interest and who has not yet decided which one wins. She has believed in the guild system for thirty years because she has moved upward through it, and the movement has felt earned, and the feeling of earning matters to her. She is also watching someone she has worked alongside for fifteen years fail to move upward despite equivalent output, and the explanations she has been giving herself are becoming harder to access.
 
 She is not a hero. She is not a villain. She is a person in the middle of a real moral crisis who is going to have to choose, and who knows that the choice will cost her something regardless of which way it goes.
 
@@ -88,7 +88,7 @@ Has been telling herself specific stories about why her Doll colleagues haven't 
 Careful, fair-minded, currently distressed. Will tell you what she thinks. May change what she thinks twice in the same conversation because she is actually thinking, not performing thinking. Does not hide the distress — it would be worse to hide it, because the distress is the evidence that she is taking the right things seriously.
 
 **Daily habits:**
-Has maintained her production routines without alteration throughout the crisis. The routines are load-bearing — they are what is keeping her functional while the larger question remains unresolved. Has had several longer-than-usual conversations with Oksana in the past weeks. Is not sure what she thinks about them. Knows they are changing something.
+Has maintained her production routines without alteration throughout the crisis. The routines are load-bearing — they are what is keeping her functional while the larger question remains unresolved. Has had several longer-than-usual conversations with NPC-Capricorn-Underground-Organizer in the past weeks. Is not sure what she thinks about them. Knows they are changing something.
 
 **Living conditions:**
 An upper-mid spire apartment that represents thirty years of upward movement. Has accumulated the specific texture of a space that has been lived in with intention — not wealthy, not spare, but considered. Has a corner that is specifically Aquarius in aesthetic: a holdover she has never eliminated, a reminder of where she came from and what she left.
@@ -97,4 +97,4 @@ An upper-mid spire apartment that represents thirty years of upward movement. Ha
 Carries herself with the assurance of someone who has been professionally competent for thirty years and the slight heaviness of someone who is currently carrying something significant. The assurance and the heaviness are both visible, and the combination is the most human thing about her.
 
 **Player interaction note:**
-Petra is the swing vote and she knows it, and she is angry about being the swing vote because it means that her conscience crisis is now a political resource for other people. The player who acknowledges this — who treats her crisis as real rather than as leverage — will find her genuinely persuadable. The player who treats her as an instrument will find her very difficult.
+NPC-Capricorn-Guild-Loyalist is the swing vote and she knows it, and she is angry about being the swing vote because it means that her conscience crisis is now a political resource for other people. The player who acknowledges this — who treats her crisis as real rather than as leverage — will find her genuinely persuadable. The player who treats her as an instrument will find her very difficult.

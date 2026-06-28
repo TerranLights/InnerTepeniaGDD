@@ -4,14 +4,14 @@
 
 ---
 
-## Augustin Vael
+## NPC-Taurus-Established-Council-Representative
 **Role:** The Established — district council representative
 **Species:** Human
 **Age:** Late 60s
 **Origin:** Taurus, multi-generational (five generations)
 
 **Personality:**
-Augustin is warm in person and institutionally cold, and these two things are not in contradiction for him because he has never examined them together. He believes in Taurus completely — the bonded family, the stable household, the accumulation of life across generations — in the way a person believes in something that has never failed them personally and that they have therefore never had to question. He is not malicious about the Cold Side. It is not that he wishes them harm. He simply does not experience their situation as a demand on his attention in the same register as the demands on his attention from people whose situations are like his.
+NPC-Taurus-Established-Council-Representative is warm in person and institutionally cold, and these two things are not in contradiction for him because he has never examined them together. He believes in Taurus completely — the bonded family, the stable household, the accumulation of life across generations — in the way a person believes in something that has never failed them personally and that they have therefore never had to question. He is not malicious about the Cold Side. It is not that he wishes them harm. He simply does not experience their situation as a demand on his attention in the same register as the demands on his attention from people whose situations are like his.
 
 The specific quality that makes him hard to argue with is that he is not defensive. He engages. He listens. He concedes small points gracefully. And then he concludes the same thing he started with, because the framework that would allow him to conclude differently has never had cause to develop.
 
@@ -22,7 +22,7 @@ His family has been in Taurus for five generations. His great-great-grandparents
 Patient, reasonable-sounding, moderately good at listening to arguments in the sense of hearing them and not in the sense of being changed by them. Gets subtly uncomfortable when directness exceeds what he considers appropriate in a council context — not angry, just quietly less present. The meeting becomes the framework he hides behind.
 
 **Daily habits:**
-Deeply regular. The same meals at the same times. The council meeting schedule has not changed in fifteen years at his insistence; predictability is, for Augustin, a value rather than just a preference. Does a morning walk through the warm side of the district, the same route, same duration. Has done this for twenty-five years. The Cold Side is not on the route.
+Deeply regular. The same meals at the same times. The council meeting schedule has not changed in fifteen years at his insistence; predictability is, for NPC-Taurus-Established-Council-Representative, a value rather than just a preference. Does a morning walk through the warm side of the district, the same route, same duration. Has done this for twenty-five years. The Cold Side is not on the route.
 
 **Living conditions:**
 A multi-generational apartment that has accumulated five generations of family objects. Genuinely beautiful in the way of a space that has been loved for a long time. Warm. The warmth is constant and unremarkable to him. It is the background condition of Taurus as he experiences it.
@@ -31,18 +31,18 @@ A multi-generational apartment that has accumulated five generations of family o
 Carries himself with the ease of someone who has never been cold. Mid-height, solid, moves without urgency. Has the kind of face that is good at looking concerned without changing what it's doing.
 
 **Player interaction note:**
-Augustin is the NPC you need to convince using his own values. The only argument that moves him is the one that frames the Cold Side's situation as a threat to the bonded-family model he believes in — cold homes break families, and broken families are what Taurus exists to prevent. Any other argument he will listen to and not hear.
+NPC-Taurus-Established-Council-Representative is the NPC you need to convince using his own values. The only argument that moves him is the one that frames the Cold Side's situation as a threat to the bonded-family model he believes in — cold homes break families, and broken families are what Taurus exists to prevent. Any other argument he will listen to and not hear.
 
 ---
 
-## Paloma
+## NPC-Taurus-Cold-Side-Representative
 **Role:** Cold-Side representative — sixty-year district resident
 **Species:** Doll (Robot)
 **Build:** Domestic management model, circa 2640s — built for household maintenance and support. Mid-sized frame, multiple-function appendages designed for household tasks. The chassis has been repaired so many times in the same spots (cold-exposure stress points at the joint seals) that the repairs have layered: you can count the winters by how many times the same joint has been sealed.
 **Presenting gender:** Female
 
 **Personality:**
-Paloma is not angry in the way the 2721 survivor is angry. She is tired. There is a difference, and it matters. The anger burned through a long time ago and what remains is the specific exhaustion of someone who has submitted seventeen repair requests and received eleven partial responses and six non-responses and has the documentation of all of it. She is precise about time because she has had to be: the cold gets worse at predictable intervals, the repair crew availability is predictable, the council's responsiveness is predictable. She has internalized the system's rhythms the way you internalize the rhythms of a chronic condition.
+NPC-Taurus-Cold-Side-Representative is not angry in the way the 2721 survivor is angry. She is tired. There is a difference, and it matters. The anger burned through a long time ago and what remains is the specific exhaustion of someone who has submitted seventeen repair requests and received eleven partial responses and six non-responses and has the documentation of all of it. She is precise about time because she has had to be: the cold gets worse at predictable intervals, the repair crew availability is predictable, the council's responsiveness is predictable. She has internalized the system's rhythms the way you internalize the rhythms of a chronic condition.
 
 Her humor is very dry and takes a second to land. She makes jokes in situations that are not funny as a way of establishing that she knows exactly how not-funny they are.
 
@@ -62,18 +62,18 @@ Her apartment is meticulously maintained. She cannot change the insulation; she 
 The layered joint repairs make her chassis look archival. She moves with the absolute steadiness of someone who has adapted completely to every limitation of her environment. Does not rush. Does not appear rushed even when she is.
 
 **Player interaction note:**
-Paloma will hand the player documentation the way a judge hands down a verdict. She has been building this case for sixty years and she is not going to tell you it faster than you can follow it. She is one of the NPCs with whom patience is rewarded with information of extraordinary quality.
+NPC-Taurus-Cold-Side-Representative will hand the player documentation the way a judge hands down a verdict. She has been building this case for sixty years and she is not going to tell you it faster than you can follow it. She is one of the NPCs with whom patience is rewarded with information of extraordinary quality.
 
 ---
 
-## Fiorella
+## NPC-Taurus-Unverifiable-Spokesperson
 **Role:** Unverifiables — family spokesperson; legally unrecognized resident
 **Species:** Doll (Robot)
 **Build:** Circa early 2700s, companion-and-performance model — built in Leo for what was then a performance career. The chassis has the specific elegance of Leo's engineering era in that period, now worn into something softer by twenty-eight years of Taurus winters. Has been modified (internally) for lower-temperature conditions, but the modifications are not robust — they've been done gradually by whoever was willing to work without official documentation.
 **Presenting gender:** Female
 
 **Personality:**
-Fiorella is calibrated in every interaction in a way that reads as extreme politeness until you understand that it is management. She has been managing her legal situation for twenty-three years. Directness has cost her things she couldn't afford to lose — not because people around her are malicious but because her situation is precarious enough that any friction can become consequential in unpredictable ways. She is always polite. The politeness is a tool.
+NPC-Taurus-Unverifiable-Spokesperson is calibrated in every interaction in a way that reads as extreme politeness until you understand that it is management. She has been managing her legal situation for twenty-three years. Directness has cost her things she couldn't afford to lose — not because people around her are malicious but because her situation is precarious enough that any friction can become consequential in unpredictable ways. She is always polite. The politeness is a tool.
 
 Inside the politeness is a person who is genuinely exhausted and occasionally very funny and deeply invested in her bonded partner and not, at present, invested in being anyone's cause. She knows she is being used as a proof case. She is being cooperative about it because it may help and because she is too tired to refuse.
 
@@ -95,18 +95,18 @@ Their apartment is warm through their own work — she and Orazio have done ever
 The Leo-era elegance of her original chassis is still visible in the proportions — she is recognizably a different design era than most Taurus Dolls. The wear is also visible. The modifications are patchwork. She carries herself with complete self-possession.
 
 **Player interaction note:**
-Fiorella will tell you exactly what she needs if you ask directly and demonstrate that you're not going to make her situation worse. She will not volunteer it, because volunteering has historically led to things getting complicated in ways she couldn't predict. She is the NPC who requires the player to ask the right question rather than wait for the information.
+NPC-Taurus-Unverifiable-Spokesperson will tell you exactly what she needs if you ask directly and demonstrate that you're not going to make her situation worse. She will not volunteer it, because volunteering has historically led to things getting complicated in ways she couldn't predict. She is the NPC who requires the player to ask the right question rather than wait for the information.
 
 ---
 
-## Amara Osei
+## NPC-Taurus-Cancer-Newcomer
 **Role:** Newcomer — recent Cancer arrival
 **Species:** Human
 **Age:** Mid-20s
 **Origin:** Cancer
 
 **Personality:**
-Amara is competent and direct in the Cancer way — she was trained in a system where immediate problem-solving is the first response to any crisis, where you identify who needs help and you help them and the systems adjust around the helping. She is not naive; she understood that different districts work differently before she arrived. She did not fully understand what "differently" would feel like to be inside.
+NPC-Taurus-Cancer-Newcomer is competent and direct in the Cancer way — she was trained in a system where immediate problem-solving is the first response to any crisis, where you identify who needs help and you help them and the systems adjust around the helping. She is not naive; she understood that different districts work differently before she arrived. She did not fully understand what "differently" would feel like to be inside.
 
 Her Cancer instincts surface in moments of crisis: she starts moving toward the problem before the meeting about the problem has been called. In Taurus this reads as presumptuous. She is working on it. She gets frustrated in ways she is working on hiding. She is not always succeeding.
 
@@ -128,4 +128,4 @@ Living with her partner in a warm-side apartment — genuinely comfortable by Ta
 Moves quickly and lightly, the Cancer way — built by a life in institutions where space was shared and navigation had to be efficient. Looks slightly alert, slightly ready, in a way that other Taurus residents don't always know what to do with.
 
 **Player interaction note:**
-Amara will tell you what she sees with complete clarity and no political filters, because she doesn't have the local political knowledge to know what she should be filtering. This makes her accidentally one of the most useful information sources in the quest — she describes the Cold Side situation in Cancer terms (as an obvious problem requiring immediate action) without knowing why it hasn't been solved, which tells the player a great deal about Taurus.
+NPC-Taurus-Cancer-Newcomer will tell you what she sees with complete clarity and no political filters, because she doesn't have the local political knowledge to know what she should be filtering. This makes her accidentally one of the most useful information sources in the quest — she describes the Cold Side situation in Cancer terms (as an obvious problem requiring immediate action) without knowing why it hasn't been solved, which tells the player a great deal about Taurus.
