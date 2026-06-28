@@ -212,6 +212,20 @@ The things that break through for an 8w7 specifically:
 
 ---
 
+## Romance Reward — Companion Player Homes
+
+**Romancing a companion unlocks that companion's personal home as a player home.** This is universal for all romanceable companions. The home becomes available to the player-character once the romance has been established, and remains available regardless of whether the companion is the currently active companion.
+
+All companion-unlocked homes exist **in addition to** the regular player homes available in the main game. They do not replace or supersede the standard home options. See `Worldspace/Locations-and-Levels/Player_Homes.md` for the full list of standard player homes.
+
+**Calethina is the sole exception.** She is a holographic projection with no physical dwelling — there is no home to unlock. This is the only case where a romanced character does not produce a player home.
+
+The location of each companion's home is tied to their character and district. Companion homes are distributed across Concordia and, in the case of DLC companions, may exist outside the main city entirely. Kendra Heinrich's home, for example, would be within the Amundsen-Scott Station — meaning romancing her gives the player a home at the literal South Pole, accessible after the DLC is completed.
+
+Individual companion home designs (layout, contents, lore items, décor reflecting the companion's personality) are Phase 3 and Phase 7 design work per character.
+
+---
+
 ## Calethina: Not a Companion
 
 Calethina does not occupy the companion slot and is not subject to companion system rules. She cannot be dismissed. She cannot be recruited in the conventional sense. She is present or absent based on signal state (before download) or always present (after download).
