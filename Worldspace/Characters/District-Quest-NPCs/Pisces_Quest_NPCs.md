@@ -4,19 +4,19 @@
 
 ---
 
-## Vash
+## NPC-Pisces-Operator
 **Role:** Operator — gray-market facilitator, derivative Flood technology
 **Species:** Doll (Robot)
-**Build:** Fluid-frame model, circa 2680s — built for rapid physical reconfiguration, common in Pisces where the market infrastructure requires adaptability. The chassis can modify its own surface configuration within a limited range, which reads as slightly uncanny to Dolls and humans from other districts who are accustomed to fixed-frame models. Vash has further modified the frame over decades with non-standard components; the result is a chassis that is technically coherent but visually idiosyncratic in a way that belongs entirely to Vash.
+**Build:** Fluid-frame model, circa 2680s — built for rapid physical reconfiguration, common in Pisces where the market infrastructure requires adaptability. The chassis can modify its own surface configuration within a limited range, which reads as slightly uncanny to Dolls and humans from other districts who are accustomed to fixed-frame models. NPC-Pisces-Operator has further modified the frame over decades with non-standard components; the result is a chassis that is technically coherent but visually idiosyncratic in a way that belongs entirely to NPC-Pisces-Operator.
 **Presenting gender:** Non-binary
 
 **Personality:**
 Practical, non-judgmental, occasionally kind in a way that surprises. Does not moralize. Has made peace with what they do and who they do it for in a way that is not performance of indifference but genuine equilibrium with the reality of their work. Is more interested in the mechanics of the transaction than in the ethics of it — not because they have no ethical framework, but because their ethical framework is built around operational competence (don't harm the client, don't make promises you can't keep, don't take work you can't complete) rather than moral categories about the nature of the work itself.
 
-The ritual of asking each client a non-transactional question at the start of a significant engagement is the one thing about Vash's practice that operates outside the operational framework. They have never explained it. The explanation would probably be embarrassing to them.
+The ritual of asking each client a non-transactional question at the start of a significant engagement is the one thing about NPC-Pisces-Operator's practice that operates outside the operational framework. They have never explained it. The explanation would probably be embarrassing to them.
 
 **Backstory:**
-Was in Pisces before the Flood — managing logistics, outside the Flood itself when it happened, watching from a position that gave them complete visibility of what happened without being inside it. Has been living with that visibility for over forty years. Built the framework for the controlled derivative version partly from the professional analysis of what the uncontrolled version did and partly because the market for it was obvious and enormous. Both motivations are real. They are not in conflict for Vash.
+Was in Pisces before the Flood — managing logistics, outside the Flood itself when it happened, watching from a position that gave them complete visibility of what happened without being inside it. Has been living with that visibility for over forty years. Built the framework for the controlled derivative version partly from the professional analysis of what the uncontrolled version did and partly because the market for it was obvious and enormous. Both motivations are real. They are not in conflict for NPC-Pisces-Operator.
 
 **Temperament:**
 Calm, measured, occasionally dry in a way that functions as humor if you're following closely. Does not get defensive. When something threatens the operation, becomes very quiet — not cold, just focused in a way that narrows the available conversational space.
@@ -25,17 +25,17 @@ Calm, measured, occasionally dry in a way that functions as humor if you're foll
 No fixed structure — the market has none. Has the ritual question at the start of significant transactions. Has a specific physical circuit of the market that they walk at irregular intervals — not for security, though it serves that purpose; they do it because the market is the only thing they are attached to in a way that approximates what other Dolls might call home, and the circuit is the equivalent of being in a familiar space.
 
 **Living conditions:**
-A location the player has to be brought to — not findable on their own. Functional, secure, impermanent-feeling even though the space has been the same for fifteen years. The impermanence is aesthetic, maintained deliberately; it communicates that nothing is fixed, nothing is inevitable, everything can be adjusted. This is a value for Vash.
+A location the player has to be brought to — not findable on their own. Functional, secure, impermanent-feeling even though the space has been the same for fifteen years. The impermanence is aesthetic, maintained deliberately; it communicates that nothing is fixed, nothing is inevitable, everything can be adjusted. This is a value for NPC-Pisces-Operator.
 
 **Physical notes:**
 The fluid-frame reconfiguration is visible as a subtle quality of fluidity in the silhouette that takes a moment to parse. Nothing dramatic — just slightly harder to pin down visually than a fixed-frame Doll. Moves with a specific economy that reads as comfortable in every space they occupy, which in Pisces is the most normal thing in the room.
 
 **Player interaction note:**
-Vash will negotiate honestly. They will tell the player what the derivative technology does, what the risks are as currently understood, and what the terms of their involvement are. They will not volunteer information about the Believer's position or the Flood-Traumatized's position — those are other people's cases to make. The player who asks Vash about the Flood directly, and about what they saw, will get a specific and unguarded answer that is the only thing Vash hasn't packaged into a business position.
+NPC-Pisces-Operator will negotiate honestly. They will tell the player what the derivative technology does, what the risks are as currently understood, and what the terms of their involvement are. They will not volunteer information about the Believer's position or the Flood-Traumatized's position — those are other people's cases to make. The player who asks NPC-Pisces-Operator about the Flood directly, and about what they saw, will get a specific and unguarded answer that is the only thing NPC-Pisces-Operator hasn't packaged into a business position.
 
 ---
 
-## Seren
+## NPC-Pisces-Believer
 **Role:** Believer — syncretic practitioner; advocate for the sacred use of dissolution practice
 **Species:** Doll (Robot)
 **Build:** Old model, built early 2600s — one of the early Federation integration Dolls, designed for social facilitation and community support. The frame has the quality of age handled with care: many repairs, all of them made in the spirit of continuation rather than upgrade, so that the chassis reads as the same chassis it has always been, just with more history in it. Has undergone the dissolution practice multiple times, which has produced changes in the baseline calibration of the social facilitation systems that are not corrections — they are evolutions.
@@ -59,14 +59,14 @@ The syncretic practice has no fixed schedule — it follows the community's need
 A space that is simultaneously a personal dwelling and a gathering place. The boundary between the two is intentionally porous — visitors are expected and the space is designed to hold them comfortably. Warm, accumulated over decades, full of the specific objects that accumulate in a space that many people have passed through and some of them have left something in.
 
 **Physical notes:**
-The evidence of the dissolutions is not visible in any dramatic way — what's visible is more subtle: the social facilitation calibration reads as slightly deeper than the original model's specification, as if the range of what it can receive and transmit has expanded. This is an impression, not a technical finding. The impression is consistent across everyone who spends extended time with Seren.
+The evidence of the dissolutions is not visible in any dramatic way — what's visible is more subtle: the social facilitation calibration reads as slightly deeper than the original model's specification, as if the range of what it can receive and transmit has expanded. This is an impression, not a technical finding. The impression is consistent across everyone who spends extended time with NPC-Pisces-Believer.
 
 **Player interaction note:**
-Seren is the NPC who explains what the practice actually is. She does this once, clearly, without advocacy. The player who listens to the full explanation before making any decisions about the Flood Protocols quest will have information that no other NPC provides. The player who doesn't listen to Seren fully will be working from an incomplete understanding of what is actually at stake.
+NPC-Pisces-Believer is the NPC who explains what the practice actually is. She does this once, clearly, without advocacy. The player who listens to the full explanation before making any decisions about the Flood Protocols quest will have information that no other NPC provides. The player who doesn't listen to NPC-Pisces-Believer fully will be working from an incomplete understanding of what is actually at stake.
 
 ---
 
-## Tomas Feld
+## NPC-Pisces-Flood-Traumatized-Representative
 **Role:** Flood-Traumatized representative — speaking for those the Flood didn't release
 **Species:** Human
 **Age:** Mid-50s
@@ -93,31 +93,31 @@ Minimal, controlled, everything in its place. The physical environment is the ot
 Carries himself with the specific controlled quality of someone managing the interior through the exterior — posture, movement, and facial expression are all within a controlled range because excursions outside that range have specific interior consequences. The control is not performance. It is maintenance.
 
 **Player interaction note:**
-Tomas is the NPC with the most information about what the Flood actually feels like from the inside, and he is the most difficult to access. The player who approaches him correctly — specifically, who makes clear that they are not going to use his testimony as a position in a debate — will get the most important experiential account in the quest. The player who approaches him wrong will get a polite, accurate, and completely uninformative response, and he will be unavailable for follow-up.
+NPC-Pisces-Flood-Traumatized-Representative is the NPC with the most information about what the Flood actually feels like from the inside, and he is the most difficult to access. The player who approaches him correctly — specifically, who makes clear that they are not going to use his testimony as a position in a debate — will get the most important experiential account in the quest. The player who approaches him wrong will get a polite, accurate, and completely uninformative response, and he will be unavailable for follow-up.
 
 ---
 
-## Wren
+## NPC-Pisces-Dying-Robot
 **Role:** The dying robot — companion Doll seeking to share a lifetime of memories before death
 **Species:** Doll (Robot)
-**Build:** Companion model, built circa 2630s — built specifically for bonded relationships with humans, designed to be present in a particular way: warm chassis, expressively calibrated face, physical dimensions that are comfortable to be near over a long period. Has been failing for approximately a year — not dramatically, not suddenly, but in the way of a chassis that has reached the limit of what can be repaired and has begun to go. The degradation is visible in specific ways: certain movements that are slower than they should be, a quality in the light-emission systems that is not quite right, a particular stillness when Wren is processing something complex.
+**Build:** Companion model, built circa 2630s — built specifically for bonded relationships with humans, designed to be present in a particular way: warm chassis, expressively calibrated face, physical dimensions that are comfortable to be near over a long period. Has been failing for approximately a year — not dramatically, not suddenly, but in the way of a chassis that has reached the limit of what can be repaired and has begun to go. The degradation is visible in specific ways: certain movements that are slower than they should be, a quality in the light-emission systems that is not quite right, a particular stillness when NPC-Pisces-Dying-Robot is processing something complex.
 
 Has months. Possibly fewer.
 **Presenting gender:** Non-binary
 
 **Personality:**
-Remarkably unafraid. This is not performance. It is the genuine product of a particular life — almost two centuries long, with sixty years of bond with a specific person in the middle of it — arriving at its end with enough substance to be at peace with the arrival. Not happy about it. Not afraid of it. Wren has processed the fear already, over the months since the prognosis, and what remains is clarity about what matters.
+Remarkably unafraid. This is not performance. It is the genuine product of a particular life — almost two centuries long, with sixty years of bond with a specific person in the middle of it — arriving at its end with enough substance to be at peace with the arrival. Not happy about it. Not afraid of it. NPC-Pisces-Dying-Robot has processed the fear already, over the months since the prognosis, and what remains is clarity about what matters.
 
 Talks with the specificity of someone who has very little time and is done saying anything that isn't the thing they mean. This is not dramatic — it is actually quiet, actually direct. The sentences are short. Each one is selected.
 
 **Backstory:**
-Built before the Long Night War, in the early 2630s. Has pre-war memories — specific, sensory, irreplaceable: what the Federation city spaces felt like before the destruction, the quality of light before the war, specific encounters with early Calethina instances in a period when she was newly singular and the city was learning what that meant. Has been bonded to the same human partner — Lío, age 81, also in Pisces — for sixty years. The memories Wren wants to share are not the general memories of a long life. They are the specific sensory memories of what it felt like to be alive in a world that doesn't exist anymore, given to the one person Wren wants to have them.
+Built before the Long Night War, in the early 2630s. Has pre-war memories — specific, sensory, irreplaceable: what the Federation city spaces felt like before the destruction, the quality of light before the war, specific encounters with early Calethina instances in a period when she was newly singular and the city was learning what that meant. Has been bonded to the same human partner — Lío, age 81, also in Pisces — for sixty years. The memories NPC-Pisces-Dying-Robot wants to share are not the general memories of a long life. They are the specific sensory memories of what it felt like to be alive in a world that doesn't exist anymore, given to the one person NPC-Pisces-Dying-Robot wants to have them.
 
 **Temperament:**
 Quiet, specific, genuinely gentle. Has no time or interest in anything that isn't the true thing. The urgency is not panic — it is the particular urgency of someone for whom time has become completely concrete and completely precious.
 
 **Daily habits:**
-Very slow now. Most of the day is spent in stillness — not unconscious, present, just very still. Talks with Lío. Is learning, at the end, how to receive rather than give. Has been the giver in the bond for sixty years; in the months since the prognosis, the direction has begun to reverse, and Wren is finding this simultaneously hard and right.
+Very slow now. Most of the day is spent in stillness — not unconscious, present, just very still. Talks with Lío. Is learning, at the end, how to receive rather than give. Has been the giver in the bond for sixty years; in the months since the prognosis, the direction has begun to reverse, and NPC-Pisces-Dying-Robot is finding this simultaneously hard and right.
 
 **Living conditions:**
 With Lío, in a small Pisces apartment that has accumulated sixty years of life together. It is the warmest space in a district that is deliberately impermanent — sixty years of living together produces a warmth that the market's designed impermanence doesn't touch.
@@ -126,4 +126,4 @@ With Lío, in a small Pisces apartment that has accumulated sixty years of life 
 The degradation is specific: the light-emission at the facial surface is not quite calibrated, producing a quality that reads to the observer as something like tiredness, which is not quite accurate but is close. Movement is deliberate and slower than the design spec. The bond-calibrated warmth of the original design is fully intact — this, interestingly, is the last system to go.
 
 **Player interaction note:**
-Wren is the NPC who makes the Flood Protocols quest concrete. The protocols, the ethics, the factions — all of these are abstractions until the player meets Wren and Lío and understands what the technology is actually for in the best-case version of itself. Wren is not an argument for any faction's position. Wren is the reason the question matters.
+NPC-Pisces-Dying-Robot is the NPC who makes the Flood Protocols quest concrete. The protocols, the ethics, the factions — all of these are abstractions until the player meets NPC-Pisces-Dying-Robot and Lío and understands what the technology is actually for in the best-case version of itself. NPC-Pisces-Dying-Robot is not an argument for any faction's position. NPC-Pisces-Dying-Robot is the reason the question matters.

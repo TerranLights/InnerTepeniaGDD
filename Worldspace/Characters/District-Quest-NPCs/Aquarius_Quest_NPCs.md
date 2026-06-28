@@ -4,14 +4,14 @@
 
 ---
 
-## Klim
+## NPC-Aquarius-Applied-Innovators-Lead
 **Role:** Applied Innovators lead — researcher, Living Network dissolution advocate
 **Species:** Doll (Robot)
-**Build:** Research-optimized frame, built 2740s — designed for high-speed data processing and rapid prototype testing. The chassis reflects this: compact, modular, with interchangeable component slots that Klim has filled with different analytical tools over the years depending on the current project. Currently configured for social data analysis. The chassis has been reconfigured so many times that no single original component configuration remains; it is entirely accumulated through use.
+**Build:** Research-optimized frame, built 2740s — designed for high-speed data processing and rapid prototype testing. The chassis reflects this: compact, modular, with interchangeable component slots that NPC-Aquarius-Applied-Innovators-Lead has filled with different analytical tools over the years depending on the current project. Currently configured for social data analysis. The chassis has been reconfigured so many times that no single original component configuration remains; it is entirely accumulated through use.
 **Presenting gender:** Male
 
 **Personality:**
-Klim has the specific energy of someone who is always working on four things and is genuinely engaged by all of them. This is not performance of productivity — he actually processes at the rate his chassis was built for, and the rate is high, and the engagement is real. He is good at synthesizing across domains quickly. He is less good at slowing down to examine whether the synthesis has missed something.
+NPC-Aquarius-Applied-Innovators-Lead has the specific energy of someone who is always working on four things and is genuinely engaged by all of them. This is not performance of productivity — he actually processes at the rate his chassis was built for, and the rate is high, and the engagement is real. He is good at synthesizing across domains quickly. He is less good at slowing down to examine whether the synthesis has missed something.
 
 He evaluates everything by whether it produces results and has defined "results" in a way that excludes certain categories of harm — specifically, harms that appear in time scales longer than his current project cycle and harms that affect the subjective interior of people rather than their measurable outputs. This is not cynicism. It is a genuine gap in the measurement framework he was given, and he has never had a compelling reason to update it.
 
@@ -33,11 +33,11 @@ His workspace is also his living space — the boundary dissolved years ago. The
 Moves quickly, thinks visibly — there are physical tells when he's processing that other Dolls his age have learned to suppress but that he has never bothered to manage. The reconfigurability of his chassis means he looks slightly different across encounters: different tool arrays depending on what he's currently analyzing.
 
 **Player interaction note:**
-Klim will give the player information about the Living Network in extraordinary technical detail if the player can maintain pace. He is not withholding anything — he has documented everything, he is willing to share everything, and the sharing will be at his speed unless the player slows him down. The player who slows him down and asks about the welfare observations will find a much smaller dataset than the data observations, and the smallness is itself the finding.
+NPC-Aquarius-Applied-Innovators-Lead will give the player information about the Living Network in extraordinary technical detail if the player can maintain pace. He is not withholding anything — he has documented everything, he is willing to share everything, and the sharing will be at his speed unless the player slows him down. The player who slows him down and asks about the welfare observations will find a much smaller dataset than the data observations, and the smallness is itself the finding.
 
 ---
 
-## Dr. Emmanuella Rios
+## NPC-Aquarius-Pure-Researchers-Lead
 **Role:** Pure Researchers lead — longitudinal data advocate
 **Species:** Human
 **Age:** Early 60s
@@ -70,19 +70,19 @@ Dr. Rios will tell the player, if asked directly, that her motivation is mixed a
 
 ---
 
-## Mira
+## NPC-Aquarius-Utopian-Designer
 **Role:** Utopian designer — original architect of the Living Network; defensive and privately reconsidering
 **Species:** Doll (Robot)
 **Build:** Social modeling optimized, built in the 2720s — designed for community design and behavioral simulation. The frame has the specific quality of a Doll built for understanding how groups of people work: somewhat expressive, calibrated for interaction rather than production, with a presence that is warm by design. Has spent three years living inside or adjacent to the Living Network, which has changed the baseline expression calibration in ways she cannot entirely account for.
 **Presenting gender:** Female
 
 **Personality:**
-Mira is defensive in the specific way of someone whose best work has been misread — by the researchers, by the critics, by herself. The experiment produced something she didn't expect. She is not ready to call it a failure because failure implies the premise was wrong, and the premise is everything she believes about how people can live together. If the premise is wrong, then the three failures before this one weren't stepping stones — they were just failures.
+NPC-Aquarius-Utopian-Designer is defensive in the specific way of someone whose best work has been misread — by the researchers, by the critics, by herself. The experiment produced something she didn't expect. She is not ready to call it a failure because failure implies the premise was wrong, and the premise is everything she believes about how people can live together. If the premise is wrong, then the three failures before this one weren't stepping stones — they were just failures.
 
 She is privately reconsidering everything and cannot afford to do it in public because the public reconsideration would confirm the critics and would be used as evidence against future attempts by anyone. She is holding the reconsideration inside while defending the surface.
 
 **Backstory:**
-Has designed seven intentional community experiments. Three are referenced in Aquarius district history as failures. Mira was there for all three, in different roles. The Living Network is the fourth attempt, the longest, the most sophisticated, the most carefully designed. Was inside the experiment for three years as an observer — not a resident, but embedded in a way that is closer to resident than she intended. Came out of those three years changed in a way she will not fully discuss, which is itself the thing she's most defensively protecting.
+Has designed seven intentional community experiments. Three are referenced in Aquarius district history as failures. NPC-Aquarius-Utopian-Designer was there for all three, in different roles. The Living Network is the fourth attempt, the longest, the most sophisticated, the most carefully designed. Was inside the experiment for three years as an observer — not a resident, but embedded in a way that is closer to resident than she intended. Came out of those three years changed in a way she will not fully discuss, which is itself the thing she's most defensively protecting.
 
 **Temperament:**
 Earnest, idealistic, currently fragile in a specific way — the fragility is not visible in how she presents the public position, but it is visible in the moments between the public position's sentences. In those moments something that is not quite fear but is adjacent to it surfaces briefly. She needs the space to complete the private reconsideration before she can face the public one. She may not have that space.
@@ -97,4 +97,4 @@ Currently in temporary Aquarius housing — her own apartment was given up when 
 The social-modeling calibration of her original build gives her a quality of warmth that is designed in. The three years adjacent to the Living Network's collective identity have slightly altered the default calibration in a direction that is hard to describe except as: she seems more permeable than she was. The boundary between her and the room is slightly less definite.
 
 **Player interaction note:**
-Mira is the NPC most likely to change positions if given the space to complete her private reasoning out loud. The player who asks about what the three years inside the experiment were like — not the data, the experience — will find that she has been waiting for someone to ask this, and that the answer is the beginning of her public reconsideration. It is painful for her. It is also a relief.
+NPC-Aquarius-Utopian-Designer is the NPC most likely to change positions if given the space to complete her private reasoning out loud. The player who asks about what the three years inside the experiment were like — not the data, the experience — will find that she has been waiting for someone to ask this, and that the answer is the beginning of her public reconsideration. It is painful for her. It is also a relief.

@@ -4,21 +4,21 @@
 
 ---
 
-## Yuki
+## NPC-Sagittarius-Expansionist-Lead
 **Role:** Expansionist expedition lead — on-site at the ruins when the quest begins
 **Species:** Doll (Robot)
 **Build:** Cold-weather navigation model — built specifically for the Frostlands, optimized for surface conditions. Heavier insulated chassis, navigation and environmental sensing arrays extended beyond the standard configuration, limb design for traction and stability on variable frozen terrain. Has led twelve successful expeditions; the chassis carries the specific wear of sustained Frostlands work: micro-abrasions on all surface-facing panels, insulation systems that have been upgraded three times. This is a tool that has been used for exactly the purpose it was designed for and that is entirely at home in the conditions it was built for.
 **Presenting gender:** Female
 
 **Personality:**
-Yuki's confidence is the specific confidence of genuine competence — not bravado, not performance of toughness. She has been right about how to handle genuinely impossible situations many times, and the rightness has been verified in the field, not in theory. This produces a bone-deep certainty that reads as arrogance to people who haven't watched her work and as authority to people who have.
+NPC-Sagittarius-Expansionist-Lead's confidence is the specific confidence of genuine competence — not bravado, not performance of toughness. She has been right about how to handle genuinely impossible situations many times, and the rightness has been verified in the field, not in theory. This produces a bone-deep certainty that reads as arrogance to people who haven't watched her work and as authority to people who have.
 
 The limitation is invisible to her precisely because it has never needed to be visible: her pattern recognition has been calibrated by twelve successful expeditions, and the calibration has not been tested by a situation where the pattern is different in the specific way that matters this time. She engages genuinely with counterarguments — she is not dismissive — and reaches the same conclusion she started with, because the counterarguments don't land in a register she has been trained to process.
 
 She is genuinely warm to her crew. Knows every crew member's working style, their competencies, their particular fears about specific conditions. Checks in personally before every departure and every return. The warmth is real.
 
 **Backstory:**
-Led twelve expeditions over thirty years, beginning from the moment she was operational. Was not on the Third Expansion Collapse rescue team but has met Omaira Diaz, has heard the story. Has decided the conditions are different this time on the basis of genuine technical analysis that she has performed carefully and that is wrong in a specific way she doesn't have the information to correct. May be right anyway. Probably isn't.
+Led twelve expeditions over thirty years, beginning from the moment she was operational. Was not on the Third Expansion Collapse rescue team but has met NPC-Sagittarius-Memory-Keeper-Elder, has heard the story. Has decided the conditions are different this time on the basis of genuine technical analysis that she has performed carefully and that is wrong in a specific way she doesn't have the information to correct. May be right anyway. Probably isn't.
 
 **Temperament:**
 Confident, warm to crew, good listener when the subject is practical problems with practical information attached to them. Listens to arguments about risk with genuine attention. Reaches the same conclusion she started with. Does not hold disagreements past the decision point.
@@ -27,17 +27,17 @@ Confident, warm to crew, good listener when the subject is practical problems wi
 Pre-expedition ritual: checks every crew member's equipment personally, not as an audit but as a relationship-building practice — the physical act of handling someone's gear is a form of attention she learned from the person who trained her. Has a specific phrase she says to each crew member at the start of a new expedition. The crew knows the phrase. New crew members learn it quickly.
 
 **Living conditions:**
-On-site quarters during active expeditions, which is most of the last three years. Does not maintain a district apartment when on expedition. The on-site quarters are minimal and functional. Yuki does not have a strong domestic relationship with space; her relationship with environment is entirely about what the environment requires.
+On-site quarters during active expeditions, which is most of the last three years. Does not maintain a district apartment when on expedition. The on-site quarters are minimal and functional. NPC-Sagittarius-Expansionist-Lead does not have a strong domestic relationship with space; her relationship with environment is entirely about what the environment requires.
 
 **Physical notes:**
 The cold-weather build gives her a different physical profile from Concordia-interior Dolls — heavier, wider-stance, the specific visual language of something built for conditions that would be hostile to other designs. Moves with complete ease in the Frostlands conditions that she is currently in. The crew's confidence is partially derived from watching her move.
 
 **Player interaction note:**
-The player cannot change Yuki's position with a general argument about risk. The only argument that reaches her is the Memory Keeper's specific argument — the one that uses the language of experienced knowledge rather than statistical analysis. Yuki respects experience. She has forty years of it. She can recognize the same thing in someone else.
+The player cannot change NPC-Sagittarius-Expansionist-Lead's position with a general argument about risk. The only argument that reaches her is the Memory Keeper's specific argument — the one that uses the language of experienced knowledge rather than statistical analysis. NPC-Sagittarius-Expansionist-Lead respects experience. She has forty years of it. She can recognize the same thing in someone else.
 
 ---
 
-## Asha Menezes
+## NPC-Sagittarius-Consolidationist-Engineer
 **Role:** Consolidationist engineer — structural comparison analyst
 **Species:** Human
 **Age:** Early 40s
@@ -64,18 +64,18 @@ A working apartment rather than a home — organized entirely around the work. M
 The Capricorn origin is visible in a certain precision of movement — a Capricorn habit of efficiency that fifteen years of Frostlands fieldwork has made physical rather than simply professional. Carries a specific field kit that has been adjusted through fifteen years of use to contain exactly what fifteen years of use has taught her she needs.
 
 **Player interaction note:**
-Asha will give the player the structural comparison data in precise terms. She will not simplify it. The player who can follow it gets the most technically complete picture of the risk available in the quest. The player who can't follow it but asks the right follow-up question gets the same information in a different form — she is good at re-framing without reducing.
+NPC-Sagittarius-Consolidationist-Engineer will give the player the structural comparison data in precise terms. She will not simplify it. The player who can follow it gets the most technically complete picture of the risk available in the quest. The player who can't follow it but asks the right follow-up question gets the same information in a different form — she is good at re-framing without reducing.
 
 ---
 
-## Omaira Diaz
+## NPC-Sagittarius-Memory-Keeper-Elder
 **Role:** Memory Keeper elder — Third Expansion Collapse rescue team survivor; oral tradition keeper
 **Species:** Human
 **Age:** Early 70s
 **Origin:** Sagittarius; has been a Memory Keeper for fifty years
 
 **Personality:**
-Omaira has the storyteller's relationship with truth — not the facts alone, but the facts embedded in the texture of what it was like to be there. She does not give information in the way that Asha does or in the way that Yuki receives it. She tells you something so that you know it rather than just having heard it. There is a difference. The difference is why the Memory Keepers exist.
+NPC-Sagittarius-Memory-Keeper-Elder has the storyteller's relationship with truth — not the facts alone, but the facts embedded in the texture of what it was like to be there. She does not give information in the way that NPC-Sagittarius-Consolidationist-Engineer does or in the way that NPC-Sagittarius-Expansionist-Lead receives it. She tells you something so that you know it rather than just having heard it. There is a difference. The difference is why the Memory Keepers exist.
 
 She has been waiting for the moment when this specific knowledge becomes useful again. Not eagerly — she knows what it means for the knowledge to be relevant. But not unprepared.
 
@@ -99,4 +99,4 @@ A storytelling space that is also a living space. Warm, full, accumulated over f
 Moves with the ease of seventy years in her body — not fast, not impeded, simply settled. The voice carries further than you expect from someone her size, which is a practiced quality. When she is telling something that matters, the room quiets around her not because she commands it but because the content has weight that the room can feel.
 
 **Player interaction note:**
-Omaira will tell the player the Collapse story if asked and if she has decided the player is someone who needs it rather than someone who would use it. The distinction is felt rather than explicitly evaluated — it is a storyteller's read on an audience. The player who is genuinely listening, not collecting information, will receive the full transmission. It will take twenty minutes. It is worth twenty minutes.
+NPC-Sagittarius-Memory-Keeper-Elder will tell the player the Collapse story if asked and if she has decided the player is someone who needs it rather than someone who would use it. The distinction is felt rather than explicitly evaluated — it is a storyteller's read on an audience. The player who is genuinely listening, not collecting information, will receive the full transmission. It will take twenty minutes. It is worth twenty minutes.

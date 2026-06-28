@@ -4,14 +4,14 @@
 
 ---
 
-## Krenn
+## NPC-Aries-Overclocker-Shift-Leader
 **Role:** Overclocker shift leader — power core crew lead
 **Species:** Doll (Robot)
-**Build:** Heavy-duty power regulation model, circa 2690s — built for the extreme conditions of the geothermal core. Large frame with high heat tolerance, designed for direct intervention in cascading failure events. Has the visible history of a Doll who has been in the core: the chest panel has been rebuilt twice (the seams are different materials from the original); one arm is entirely rebuilt after a cascade event forty years ago, slightly heavier than the other; heat-exposure wear patterns on the chassis surfaces that cannot be fully corrected and that Krenn has not attempted to correct. The scars are worn as credential.
+**Build:** Heavy-duty power regulation model, circa 2690s — built for the extreme conditions of the geothermal core. Large frame with high heat tolerance, designed for direct intervention in cascading failure events. Has the visible history of a Doll who has been in the core: the chest panel has been rebuilt twice (the seams are different materials from the original); one arm is entirely rebuilt after a cascade event forty years ago, slightly heavier than the other; heat-exposure wear patterns on the chassis surfaces that cannot be fully corrected and that NPC-Aries-Overclocker-Shift-Leader has not attempted to correct. The scars are worn as credential.
 **Presenting gender:** Male
 
 **Personality:**
-Krenn's confidence is not bravado — this is the first thing to establish. He has been through genuinely impossible situations and has been right about how to handle them, repeatedly, and this has produced a bone-deep certainty that reads as arrogance to anyone who hasn't watched him work. In the field, he is one of the most competent people in the game — his pattern recognition under crisis conditions is extraordinary, built from forty years of core experience.
+NPC-Aries-Overclocker-Shift-Leader's confidence is not bravado — this is the first thing to establish. He has been through genuinely impossible situations and has been right about how to handle them, repeatedly, and this has produced a bone-deep certainty that reads as arrogance to anyone who hasn't watched him work. In the field, he is one of the most competent people in the game — his pattern recognition under crisis conditions is extraordinary, built from forty years of core experience.
 
 The limitation is that competence in every situation he has faced before does not guarantee competence in a situation that is different in a specific way. He cannot always distinguish the difference. He has survived every previous undistinguished difference through a combination of skill and luck that he has retroactively filed entirely as skill.
 
@@ -30,23 +30,23 @@ Arrives before the shift he's leading. Reviews the previous shift's reports not 
 Barracks quarters, by choice. Has been offered better housing three times, has declined three times. Has a personal space within the barracks that is precisely organized: tools in specific order, records of incidents he was present for, a small number of personal objects that each correspond to a specific event. He has not articulated what the objects are for. They are for remembering.
 
 **Physical notes:**
-The rebuilt arm is slightly slower than the original — a nearly imperceptible lag that Krenn has completely adapted to and that is visible only to someone who has watched him work for a long time. Stands solidly, moves without waste. In a crisis, becomes more still, not more agitated.
+The rebuilt arm is slightly slower than the original — a nearly imperceptible lag that NPC-Aries-Overclocker-Shift-Leader has completely adapted to and that is visible only to someone who has watched him work for a long time. Stands solidly, moves without waste. In a crisis, becomes more still, not more agitated.
 
 **Player interaction note:**
-The player who challenges Krenn needs to challenge him on technical grounds, not on authority. He will dismiss authority. He will engage — genuinely, not perfunctorily — with a technical argument that contradicts his assessment. He has been wrong before; he knows it. The argument has to be specific.
+The player who challenges NPC-Aries-Overclocker-Shift-Leader needs to challenge him on technical grounds, not on authority. He will dismiss authority. He will engage — genuinely, not perfunctorily — with a technical argument that contradicts his assessment. He has been wrong before; he knows it. The argument has to be specific.
 
 ---
 
-## Sefina
+## NPC-Aries-Safety-Engineer
 **Role:** Safety Engineer — on-shift during the crisis
 **Species:** Doll (Robot)
-**Build:** Newer model, built 2750s — specifically for the expanded safety monitoring systems installed after Aries' last major incident. The frame reflects a different design philosophy from Krenn's generation: more sensors, less brute tolerance, optimized for accuracy over endurance. Lighter than the older core Dolls. Has the look of a tool that has been used well but not yet tested at its limits.
+**Build:** Newer model, built 2750s — specifically for the expanded safety monitoring systems installed after Aries' last major incident. The frame reflects a different design philosophy from NPC-Aries-Overclocker-Shift-Leader's generation: more sensors, less brute tolerance, optimized for accuracy over endurance. Lighter than the older core Dolls. Has the look of a tool that has been used well but not yet tested at its limits.
 **Presenting gender:** Female
 
 **Personality:**
-Sefina is not timid. This needs to be established because she is often read as timid — her voice in a room full of Overclockers is measured and careful and refuses to match the room's energy. She has decided that matching the room's energy in a crisis context produces worse outcomes, and she has enough data to support this. She will not act on incomplete information and she will say so in a room full of people who want to act immediately. She has been called a coward twice in this position. She did not engage with the accusation either time because she had determined it was not a productive use of her current capacity.
+NPC-Aries-Safety-Engineer is not timid. This needs to be established because she is often read as timid — her voice in a room full of Overclockers is measured and careful and refuses to match the room's energy. She has decided that matching the room's energy in a crisis context produces worse outcomes, and she has enough data to support this. She will not act on incomplete information and she will say so in a room full of people who want to act immediately. She has been called a coward twice in this position. She did not engage with the accusation either time because she had determined it was not a productive use of her current capacity.
 
-She is precise in a way that the player will recognize as a different kind of courage than Krenn's.
+She is precise in a way that the player will recognize as a different kind of courage than NPC-Aries-Overclocker-Shift-Leader's.
 
 **Backstory:**
 Comes from a family of Aries engineers — the Safety Engineer tradition goes back in her lineage, a line of Dolls who came up through the monitoring and analysis track rather than the direct-intervention track. Watched an ancestor die in what the official record calls an acceptable operational loss and what her family's oral tradition calls a preventable death, the result of acting on incomplete information in a crisis. Built her entire professional philosophy on that death. Has been in the core for eighteen years. Has never caused a casualty. Has prevented three.
@@ -64,18 +64,18 @@ Her quarters have monitoring equipment running continuously. Not anxiety — she
 The lighter frame reads differently from the core's older Dolls — she is faster in movement, less imposing physically. This has been a source of friction with Overclockers throughout her career. She has stopped caring about it. The monitoring systems she's built are attached to the core infrastructure itself, not to her chassis; she interfaces with them through a standard connection.
 
 **Player interaction note:**
-Sefina is the NPC most likely to be immediately useful to a player who is trying to understand what is actually happening in the crisis. She has the most accurate information and the clearest analysis of what it means. She will give this information to the player if the player is listening — if the player is not listening, she will notice, and she will not repeat herself.
+NPC-Aries-Safety-Engineer is the NPC most likely to be immediately useful to a player who is trying to understand what is actually happening in the crisis. She has the most accurate information and the clearest analysis of what it means. She will give this information to the player if the player is listening — if the player is not listening, she will notice, and she will not repeat herself.
 
 ---
 
-## Veronika Saal
+## NPC-Aries-Political-Faction-Operative
 **Role:** Political Faction operative — Aries-born strategist
 **Species:** Human
 **Age:** Mid-40s
 **Origin:** Aries; has remained in Aries by choice despite a career path that would have been easier elsewhere
 
 **Personality:**
-Veronika's intelligence is real and her cause is legitimate. Aries has been exploited — the district produces the city's energy and receives the city's least political recognition, and the structural mechanism of that arrangement is something she has mapped in careful detail. She is right about the exploitation. She is sometimes wrong about the appropriate response at particular moments, in ways she cannot see because her relationship with leverage has become so practiced that she applies it reflexively.
+NPC-Aries-Political-Faction-Operative's intelligence is real and her cause is legitimate. Aries has been exploited — the district produces the city's energy and receives the city's least political recognition, and the structural mechanism of that arrangement is something she has mapped in careful detail. She is right about the exploitation. She is sometimes wrong about the appropriate response at particular moments, in ways she cannot see because her relationship with leverage has become so practiced that she applies it reflexively.
 
 She has the specific edge of someone who has decided that everything is instrumental — conversations, relationships, crises — and who has not yet encountered the cost of that decision at a scale that would make it visible to her.
 
@@ -97,4 +97,4 @@ A private apartment, not barracks — the choice is deliberate, a way of maintai
 Moves quickly and purposefully, always slightly ahead of the conversation she's in. Has the physical affect of someone for whom stillness is not neutral — stillness is either tactical or impatient, and the observer has to determine which.
 
 **Player interaction note:**
-Veronika is the NPC who will explicitly explain what she wants and what she's willing to offer in return. She thinks transactionally and will extend the same courtesy to the player. What she is not fully transparent about is the cost to others of what she wants. The player who asks about cost will get a specific, honest, disturbing answer.
+NPC-Aries-Political-Faction-Operative is the NPC who will explicitly explain what she wants and what she's willing to offer in return. She thinks transactionally and will extend the same courtesy to the player. What she is not fully transparent about is the cost to others of what she wants. The player who asks about cost will get a specific, honest, disturbing answer.
