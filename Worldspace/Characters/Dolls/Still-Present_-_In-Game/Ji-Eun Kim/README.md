@@ -29,7 +29,19 @@
 - Nerve: 7
 - Engine: 8
 
-**Key Traits / Notable Perks (companion-relevant):** TBD — nanotech implant expertise; Eyes of Gold connection; Calethina questline anchor
+**Key Traits / Notable Perks (companion-relevant):**
+
+- **Nanotech Diagnostics:** She can analyze robotic systems, implants, and nanotech installations at a depth no one else in Concordia can reach — revealing hidden information, repair paths, structural weaknesses, and access points that exist within a system but that conventional analysis at any skill level would miss entirely. This is not a threshold extension; it is a capability that does not exist without her. No other companion or NPC in the game can perform this function.
+
+- **System Structure Reading:** Her understanding of how complex systems are designed means she identifies how they are improperly secured — not traditional hacking, but finding the gap between how something was supposed to work and how it actually does. A door sealed by a system not correctly integrated with the building's main grid. A surveillance network with a blind spot created by a misconfigured relay. She reads the engineering failure beneath the security surface.
+
+- **Anti-Sensor Cloaking Technology:** She possesses anti-sensor cloaking technology that can be brought into the South Pole DLC as one of multiple possible advantages against whatever defeated Kendra Heinrich. It is not a guaranteed solution — it gives the player a meaningful edge in surviving and navigating content that would otherwise be immediately lethal, not immunity to it. One of at least five distinct approaches available to a prepared player entering that DLC.
+
+- **Calethina Architecture Insight:** Her nanotech expertise is directly relevant to Calethina's internal design. She can identify things about Calethina's system — capabilities, structural vulnerabilities, historical modifications — that even Calethina doesn't know about herself. Certain beats in Calethina's questline have different information available when Ji-Eun is present.
+
+- **Unconventional Solutions:** When there is no conventional answer to a technical problem, her C10 finds angles others don't — solutions that shouldn't work given the available resources but do, because she understands the underlying principles well enough to improvise at a level no one else can match.
+
+- **Downstream Consequence Flagging:** *(flagged for possible revision)* Her 5w4 Social instinct is to think systemically about what choices do to the people connected to them. She names long-term implications of player decisions that no other companion notices — not moral lecturing, one sentence, then she stops. Subject to adjustment during Phase 3 personality finalization.
 
 ## Visual Description
 (See `Reference_Images/` folder.)

@@ -39,6 +39,8 @@
 
 - **Low-Profile Movement:** Her entire existence has been built around not drawing attention. In Pisces specifically, she moves without generating faction attention below a threshold that would otherwise require a Stealth skill the player may not have.
 
+- **Physical Gap Reading:** Her years of practical salvage and structural maintenance give her the ability to identify physical and infrastructural failures in built environments — improperly constructed sections, load-bearing elements that were never correctly tied in, access points that exist because something was built wrong. Similar to Ji-Eun Kim's System Structure Reading but operating in the physical/structural domain rather than the electronic or networked one. She finds the gap in how something was built; Ji-Eun finds the gap in how something was wired.
+
 ## Visual Description
 (See `Reference_Images/` folder.)
 
