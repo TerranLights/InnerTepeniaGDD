@@ -6,67 +6,135 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency — data recovery wing; Great Corruption investigation
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending personality finalization
+
+---
 
 ## Core Identity
-**Activation Date & Origin:** Concordia (Tepenia native); originally nomadic — no true fixed hometown
+
+**Origin:** Tepenia native; pre-war nomadic — no fixed hometown. Allegiance was never to a place, always to the work.
 
 **Enneagram / Personality Framework:**
-- Type: 5w6 (The Investigator with wing 6 / The Loyalist)
+- Type: 5w6 (The Investigator / The Loyalist)
 - Subvariant: Social
-- Major Theme: Thinking
 - Hornevian Group: Withdrawn
 - Harmonic Group: Competency
 
+**What this means for her:** Type 5s manage anxiety through mastery — they need to understand a system completely before they can engage with it. The 6 wing adds loyalty and a specific concern for trustworthy people and stable relationships; she does not extend trust easily, but once extended, it holds. The Social subvariant redirects the normally-inward 5 drive outward — toward understanding systems, networks, and how the parts connect. This is why her specialty is logistics rather than any individual discipline: she doesn't specialize in one thing, she specializes in how all the specialists fit together and why the system functions or breaks.
+
+She didn't set out to investigate the Great Corruption. She was organizing data and the gap didn't make sense. That's how a Social 5 becomes an investigator — not through moral outrage, but through an error in the structure.
+
 **MACHINE Stat Profile (rough baseline):**
-- Might: TBD
+- Might: Low
 - Agility: TBD
-- Calculation: TBD
-- Humanity: TBD
-- Investigation: TBD
-- Nerve: TBD
-- Engine: TBD
+- Calculation: High — her primary stat
+- Humanity: Moderate (6 wing loyalty; not cold, but not warm on first contact)
+- Investigation: High — core to her work
+- Nerve: Moderate (she has been handling dangerous pressure alone, which requires it)
+- Engine: Moderate (she endures; she has been doing this a long time)
+
+*Note: Exact baseline numbers TBD. Calculation and Investigation are confirmed primaries.*
 
 **Key Traits / Notable Perks (companion-relevant):** TBD
 
+---
+
 ## Visual Description
-(See `Reference_Images/` folder.)
+(See `Reference_Images/` folder — ruined comms outpost interior; damaged equipment.)
+
+---
 
 ## Personality & Voice
-- Core summary: TBD
-- Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
-- Moral tendencies & player influence: TBD
+
+**Core summary:**
+Vosora is precise, patient, and difficult to read until she has decided you are worth reading. She does not perform warmth, but she is not cold — she is withholding until trust is established, and once it is, she is genuinely loyal in a way that surprises people who took her initial reserve for indifference. She manages the world by understanding it first and acting second. She is rarely wrong about how a system works, and she knows it.
+
+The Great Corruption investigation has made her dangerous to know. She has not told anyone about the pressure she has been receiving. This is characteristic: she processes threats internally, plans, and only brings others in when she must or when someone forces the issue. The recruiting hooks are all versions of the same thing — someone forcing the issue.
+
+**Speech patterns:**
+- Precise. She would never use three words when one will do.
+- Frames problems structurally: not "this is bad" but "this is an error in how it was built."
+- Asks questions more often than she makes assertions — when she doesn't already know the answer.
+- Rarely initiates conversation about feelings, but responds thoughtfully when asked directly.
+- Specificity is how she shows she was paying attention.
+
+**What she would never say:**
+- Empty reassurances ("everything will work out")
+- Generalizations
+- Anything that reveals she doesn't know something, unless trust is fully established
+- Emotional disclosure to someone she hasn't decided to trust
+
+**Moral tendencies:**
+She follows the truth regardless of where it leads, but she thinks carefully about what to do with it once she has it. Publication, private leverage, or the shape-of-the-gap approach — these are real choices with different consequences, and she weighs them without sentimentality. She is not an idealist. She is pragmatic about what truth can actually accomplish. She also feels the weight of having dangerous knowledge. That weight is personal even when she doesn't show it.
+
+**Behavior under stress:**
+Quieter. More precise. She does not escalate when under pressure — she narrows. This can read as calm, and functionally it is, but it is also a defense pattern: shrinking the perimeter of what she has to manage until she can handle what's left.
+
+---
 
 ## Backstory Summary
-A Tepenia native who spent most of her pre-war life without a fixed hometown — she travelled throughout Tepenia helping cities manage their data, working as a logistics and data-management expert. Her specialty is what she calls "the science of logistics": not science in any traditional sense, but the organization of information, maintenance of data order, and construction of the chains of command and supply that let everyone else do their specialized work.
 
-At some point she took on one of the largest logistics projects in Tepenian history: organizing the data supply chains and command structures necessary for the planning and construction of Amundsen Tower.
+Vosora is a Tepenia native who spent her pre-war life without a fixed hometown. She travelled throughout Tepenia helping cities manage their data — organizing information, keeping records orderly, building the chains of command and supply that let everyone else do their specialized work. Her field is what she calls "the science of logistics": not science in any traditional sense, but the discipline of making complex systems function by ensuring every part can find what it needs.
 
-She happened to be in Concordia when the Long Night War began and was unable to leave. She has been there ever since — now working to maintain communication with the Tepenians who escaped to space, transmitting schematics, data, and whatever else the space-dwelling community needs.
+Her largest pre-war project was the Amundsen Tower construction: she organized the logistics, data supply chains, and command structures necessary for planning and building the Tower. This was the biggest and most consequential system she had ever been asked to maintain.
 
-See `Personal_Background/` for details as they develop.
+She happened to be in Concordia when the Long Night War began. She was unable to leave. She has been there ever since.
+
+Since the war, she has been maintaining communication with the Tepenians who escaped into space — transmitting data signals containing schematics, records, and whatever the off-world community needs. This is the legitimate, visible layer of her current work.
+
+The less visible layer: she has been working the data recovery side of the Great Corruption investigation — reconstructing what was destroyed rather than verifying what survives. She has gotten close enough that whoever targeted those records is aware of it. She has been receiving pressure she has not disclosed to anyone.
+
+See `Personal_Background/` for timeline and detailed records.
+
+---
 
 ## Role in Main Story / World
-- Connection to larger narrative: TBD
-- Initial meeting hook: TBD
-- "Not my problem" / hidden path potential: TBD
 
-## Personal Questline Hook
-- Quest Title: TBD
-- Core conflict & emotional stakes: TBD
-- Major themes: TBD
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD
+- **Connection to larger narrative:** The Great Corruption investigation connects directly to the Planetary Split Brain questline and to Libra's Suspended Compact. What Vosora recovers — or fails to recover — has political implications that ripple across Concordia's power structure.
+- **Michelle Stanton works the other half of the same investigation** — slow verification of what remains vs. Vosora's reconstruction of what was destroyed. Together they form a complete inquiry. They are aware of each other; their dynamic is its own design question.
+- **Initial meeting hook:** Three confirmed possible hooks (see `Questlines/README.md`): player discovers the pressure she is under and provides cover; she needs protection for a final critical recovery step; whatever has been pressuring her steps out of the shadows and you deal with it together.
+- **"Not my problem" path:** TBD — but given her situation, leaving her exposed has consequences for the Great Corruption investigation that the player will eventually encounter regardless.
+
+---
+
+## Personal Questline — "What the Silence Says"
+
+**Core conflict:** The shape of what is missing in the Great Corruption is itself evidence. The size of the gaps, their location in the timeline, what topics they cluster around — all of this says something about who was erased and why. Vosora has been tracing that shape toward an answer that powerful people would prefer not to exist.
+
+**Themes:**
+- What a civilization that controls its own history does when someone starts recovering what it edited
+- The distinction between "lost" and "hidden" — and what it means when that distinction becomes provable
+- The personal cost of being the person who has dangerous proof
+
+**Possible endings:**
+- **Publication:** The recovered records go public. Political earthquake — implications for Libra, Janbogo's power structure, possibly the Falkland Treaty legacy.
+- **Leverage:** Records held as private leverage. Quieter, more personal consequences. More certain.
+- **The Shape of the Gap:** Full recovery is impossible, but she maps the shape of what is missing with enough precision that the shape itself is a document. Published, it tells a story even without the original content.
+- **The Wrong Answer:** What she recovers is something she wishes she had not found. The truth is real and worse than the theory. Now she has to decide what to do with it.
+
+---
 
 ## Relationships & Hooks
-- Key connections: TBD
-- Dialogue / quest hooks (skills, reputation, etc.): TBD
 
-## Design Notes & Open Questions
-- Mechanical synergies: TBD
-- Replayability ideas: TBD
+- **Michelle Stanton** — the other half of the Great Corruption inquiry (slow verification vs. data recovery). Relationship dynamic TBD.
+- **The Long Frequency** — her current organizational affiliation; data recovery wing.
+- **Probable factional connections:** Libra (Suspended Compact), Gemini district infrastructure, Janbogo subnet nexus inside Concordia, Planetary Split Brain questline.
+- **Whoever is pressuring her** — undesigned; the antagonist of her questline's external pressure.
+
+---
+
+## Design Notes
+
+- **Mechanical synergies:** High Calculation and Investigation companion; likely provides bonuses to data-related checks, hacking, information gathering. Specific perks TBD.
+- **Replayability:** The four questline endings produce substantially different political landscapes; "The Wrong Answer" in particular may lock or unlock specific other questlines depending on what she found.
+- **Romance threshold (TBD):** Given her 5w6 Social profile, Calculation and Investigation are the most probable primary gates — she would be drawn to someone who approaches the world with the same "understand it first" methodology. Specific thresholds to be confirmed during Phase 3 personality finalization.
 - TODOs:
-  - [ ] Full backstory
-  - [ ] Visual design
-  - [ ] Questline design
-  - [ ] MACHINE stat baseline
+  - [x] Backstory summary
+  - [x] Enneagram / personality framework
+  - [x] Questline hook and possible endings
+  - [ ] Full personality and voice finalization (Phase 3)
+  - [ ] Visual design notes
+  - [ ] MACHINE stat baseline (exact numbers)
+  - [ ] Romance stat/trait thresholds
+  - [ ] Recruiting conditions
+  - [ ] Companion perks
