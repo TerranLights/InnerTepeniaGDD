@@ -123,6 +123,32 @@ The romance system is a direct expression of the second guiding principle — th
 
 ---
 
+### Calethina — Romance Design (Special Case)
+
+Calethina is romanceable. She is the most demanding romance in the game, both narratively and mechanically.
+
+**Stat threshold:**
+- Calculation ≥ 8 *(she needs someone who can actually interface with her at her level)*
+- Humanity ≥ 6 *(she is drawn to consciousness that leans toward warmth and connection)*
+- Nerve ≥ 6 *(she needs to know the protagonist can hold under pressure)*
+- Engine ≥ 6 *(endurance — she has outlived everyone; she needs to know you will sustain)*
+
+No trait gates currently defined. Traits may be added during Phase 3 character design once her full personality is written.
+
+**The questline IS the romance questline.** There is no separate romance track. The Calethina questline ("Echoes of the Bridge") is the relationship, built across its full length. The romance does not activate at the beginning; it becomes available at the questline's central decision point.
+
+**The download is the romance gateway.** At the download decision (approximately midpoint of the main quest), if both gates are met, the full personality download becomes the romantic act. She is not just transferred to the protagonist's wrist device — she becomes part of the protagonist, carried within them. Her holographic projection then projects from the protagonist's own body. This is a uniquely robot form of intimacy with no human analogue.
+
+**Full download only.** The romance route opens on the full personality download exclusively. A partial download, no download, or an alternative stabilization solution each produce their own emotionally valid outcomes, but the romance does not follow.
+
+**Built-in bittersweet weight.** Even on the romantic path, the full download carries a confirmed risk: some of her memories may be lost or altered in transfer. The protagonist accepted losing pieces of her in order to keep her at all. The romance begins with that specific weight already present.
+
+**The re-spec complication.** If the player re-specced through Calethina's lab to meet her stat thresholds, she performed the work herself. She knows what was changed and why. At the download moment, she may acknowledge this directly. Whether she reads it as moving (someone wanted to be someone she could love) or troubling (someone altered who they were to reach her) should be a dialogue branch. Both are valid. Both are bittersweet.
+
+**The Calethina Devotion failsafe ending** connects to this romance route. Players who pursued the romance and chose the full download receive a version of the Devotion ending specific to the romantic relationship. Players who downloaded without the romance threshold met receive a different version reflecting a different kind of profound chosen bond.
+
+---
+
 ## Calethina: Not a Companion
 
 Calethina does not occupy the companion slot and is not subject to companion system rules. She cannot be dismissed. She cannot be recruited in the conventional sense. She is present or absent based on signal state (before download) or always present (after download).

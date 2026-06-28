@@ -24,6 +24,18 @@ This questline was written by Grok. The 5-step structure and the general degrada
 
    The [PASSIVE LINK — NAME TBD] label in Grok's Steps 2–5 can be replaced throughout with "her projection" or "her signal." No separate mechanic name is needed — the projection system is the mechanic.
 
+5. **The questline is also the romance questline.** Calethina is romanceable. There is no separate romance track — the relationship is built through the questline itself, and the romance becomes available at the download decision if both conditions are met:
+   - The player has progressed through the questline to the download decision (questline gate)
+   - The player’s MACHINE stats meet her threshold: **Calculation ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6** (stat gate)
+
+   **The full download is the romantic act.** She becomes part of the protagonist — carried within them, projecting from their own body. This is the most intimate outcome in the game. Partial download, no download, and alternative stabilization solutions each have their own emotional weight but do not open the romance route.
+
+   The full download already carries a confirmed narrative cost: some of her memories may be lost or altered in transfer. The romance begins with that weight present.
+
+   **Re-spec complication:** If the player re-specced through Calethina’s lab to meet her stat thresholds, she performed that work herself and knows what was changed and why. The download moment should have dialogue that acknowledges this — as a branch, not a single read. Both "moving" and "troubling" interpretations are valid.
+
+   The **Calethina Devotion failsafe ending** has two versions: one for players who pursued the full romantic path, one for players who downloaded without meeting the romance threshold (a different but equally profound chosen bond).
+
 **Questline full development is deliberately deferred** until the surrounding world (Concordia’s society, history, geography) is better codified. The plot beats need to connect to real, established elements of the world. Resume when the world feels stable enough to support it.
 
 ---
