@@ -23,6 +23,28 @@ The only context where random number generation applies is ranged combat hit cha
 
 ---
 
+## Core Design Law: Minimum Five Solutions
+
+**Every quest in Inner Tepenia must have at least five ways to complete it. Every non-story-gated skill check must have at least five ways to pass it.** This is a series-wide binding commitment applying to Inner Tepenia and all three future Outer Tepenia games.
+
+*Fallout: New Vegas precedent (Chris Avellone's stated design goal):* The FNV team aimed for at least three solutions to every quest. They achieved this to a remarkable degree. Inner Tepenia commits to a higher floor: five.
+
+**What counts as a separate solution:**
+- A distinct skill at a specific threshold (e.g., Survival 50)
+- A specific perk (e.g., Strong Back, Pack Rat)
+- A stat threshold on a MACHINE stat
+- A companion being present and providing an alternate path
+- A prior quest decision or faction reputation that changes available options
+- An item or resource that substitutes for a skill requirement
+
+**The Honest Hearts weight limit example (six solutions):** Talking to Jed Masterson, the base weight limit is 75 lbs. Six separate ways exist to raise it to 100: Survival 50 ("I've humped this way before"); Strong Back perk; Pack Rat perk; Science 50 (spot Ricky's broken PipBoy); Medicine 50 (identify his Psycho addiction); Speech 50 (call his bluff). This is the target density for Inner Tepenia — at minimum, across the entire game.
+
+**Story-gated access is exempt.** Some spaces, conversations, and options are intentionally locked behind specific companion standing or questline progress (e.g., Seica's Scorpio spiritual access, secret halls only she can open). These are design choices, not failed solutions — the gate is the point. The five-solution rule applies to situations where the player is trying to accomplish something and the question is *how*, not *whether they're allowed to*.
+
+**Implementation note:** When writing any quest or skill-gated encounter, before finalizing it, explicitly list all five (or more) solution paths. If fewer than five exist, add more before the design is considered complete.
+
+---
+
 ---
 
 ## Skill Point Gain per Level

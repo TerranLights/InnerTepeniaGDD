@@ -74,6 +74,10 @@ See `Personal_Background/` for details as they develop.
 
 - **The central emotional irony (and dignity).** Kendra has spent her existence as the one who protects and rescues others. She is an 8w7 — the type that acts rather than waits, that charges toward the threat, that has structurally never needed help. The DLC's emotional core is her having to accept rescue from the player. For her type, this is one of the hardest things imaginable. The DLC should honor the difficulty of that inversion rather than glossing over it.
 
+- **South Pole DLC — equipment weight limit:** Analogous to Honest Hearts' 75 lb starting weight limit, the South Pole DLC will impose a carry restriction on what the player can bring in. The exact number is TBD but the principle is confirmed: you cannot bring everything. Multiple ways to raise the limit must exist (minimum five, per series design law). This constraint forces meaningful pre-DLC preparation decisions.
+
+- **South Pole DLC — multiple approaches to the central challenge:** Whatever defeated Kendra must be defeatable through at least five meaningfully distinct approaches. Ji-Eun Kim's anti-sensor cloaking technology is one confirmed possible advantage — not a guaranteed win, but a significant edge that changes what is survivable. Other approaches TBD during DLC design (Phase 7). The cloaking tech is one of multiple tools a prepared player can bring; no single approach is required.
+
 - **Critical open design question: what defeated her?** This is the most important unanswered question for DLC 1. Whatever it is needs to be:
   - Unique to the South Pole / Amundsen Station ruins — not a generic enemy type
   - Credibly capable of defeating a war goddess with an SMG and ballistic weapons who held off an army
