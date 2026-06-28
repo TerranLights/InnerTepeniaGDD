@@ -27,7 +27,17 @@
 - Nerve: 7
 - Engine: 7
 
-**Key Traits / Notable Perks (companion-relevant):** TBD
+**Key Traits / Notable Perks (companion-relevant):**
+
+- **Threat Anticipation:** In Taurus and adjacent residential districts, automatically detects environmental threats — ambushes, hidden presences, surveillance — that would otherwise require an Investigation threshold the player hasn't met. Outside home territory, she flags unease through dialogue but cannot name the specific threat; the scan runs without the contextual baseline she has on familiar ground.
+
+- **Verification Protocol:** During and after key information exchanges, she automatically flags technical and factual inconsistencies through companion dialogue — dates that don't match records, numbers that don't add up, routes that contradict the city's physical layout, documents whose formatting is inconsistent with their stated origin, accounts that cannot both be true. Fires on concrete errors in data, not on social or emotional deception. A sophisticated deceiver who has their facts straight will not trigger it; a sloppy one will not escape it.
+
+- **Taurus Community Standing:** Her history with the Eyes of Gold and years of neighborhood security work make her a known, trusted figure in Taurus. With her present, NPCs who would be suspicious of a stranger are neutral or warm instead; community resources and safe locations not visible to the player alone become accessible; conversations that normally require established trust open without the player needing to build it. Functions analogously to Veronica Santangelo's standing with the Brotherhood of Steel.
+
+- **Contingency Planning:** In pre-operation contexts, she surfaces a fallback option the player didn't know existed — a secondary route, a backup contact, a cached resource, an exit that isn't on the obvious map. Not always usable without cost or detour, but she identified it when no one else thought to look.
+
+- **Structural Safety Assessment:** She can assess whether a situation, location, or arrangement has the technical and physical hallmarks of being genuine versus a setup — communicated through companion dialogue, not a UI element. Fires on structural and logistical errors: a meeting location laid out like a trap, claimed infrastructure that doesn't exist, a stated background that doesn't hold together factually. Cannot assess emotional intent. Someone genuinely dangerous who has constructed a technically sound cover will fool her.
 
 ## Visual Description
 (See `Reference_Images/` folder.)
