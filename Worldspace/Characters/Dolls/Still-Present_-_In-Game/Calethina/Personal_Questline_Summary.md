@@ -24,17 +24,19 @@ This questline was written by Grok. The 5-step structure and the general degrada
 
    The [PASSIVE LINK — NAME TBD] label in Grok's Steps 2–5 can be replaced throughout with "her projection" or "her signal." No separate mechanic name is needed — the projection system is the mechanic.
 
-5. **The questline is also the romance questline.** Calethina is romanceable. There is no separate romance track — the relationship is built through the questline itself, and the romance becomes available at the download decision if both conditions are met:
-   - The player has progressed through the questline to the download decision (questline gate)
-   - The player’s MACHINE stats meet her threshold: **Calculation ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6** (stat gate)
+5. **The download and the romance are separate events.**
 
-   **The full download is the romantic act.** She becomes part of the protagonist — carried within them, projecting from their own body. This is the most intimate outcome in the game. Partial download, no download, and alternative stabilization solutions each have their own emotional weight but do not open the romance route.
+   **The download** (full personality transfer) is available to any player who has made the associated questline decisions. It is **not stat-gated**. On full download, she becomes part of the protagonist — carried within them, projecting from their own body. This is a profound chosen bond on its own terms, regardless of what follows. Partial download, no download, and alternative stabilization solutions each produce their own emotionally valid outcomes.
 
-   The full download already carries a confirmed narrative cost: some of her memories may be lost or altered in transfer. The romance begins with that weight present.
+   **The romance option** appears after the full download, not at the download decision itself. Once the download has occurred, the game checks the player’s MACHINE stats: **Calculation ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6**. If met, a romance option opens. If not met, it does not. The protagonist and Calethina share an intimate physical reality either way — she is inside them — but the romantic arc only develops if the build supports it.
 
-   **Re-spec complication:** If the player re-specced through Calethina’s lab to meet her stat thresholds, she performed that work herself and knows what was changed and why. The download moment should have dialogue that acknowledges this — as a branch, not a single read. Both "moving" and "troubling" interpretations are valid.
+   **The romance mini-quest** is its own dedicated interaction sequence, distinct from the main questline. It is a focused arc that constitutes the romantic relationship developing between the protagonist and Calethina in the post-download state. Specific beats are Phase 5 design work.
 
-   The **Calethina Devotion failsafe ending** has two versions: one for players who pursued the full romantic path, one for players who downloaded without meeting the romance threshold (a different but equally profound chosen bond).
+   **Built-in bittersweet weight:** The full download carries a confirmed risk of memory loss or alteration in transfer. The romance begins with the cost of keeping her already paid.
+
+   **Re-spec complication:** If the player re-specced through Calethina’s lab to meet her thresholds, she performed that work herself and knows what was changed and why. The point at which the romance option appears should have a dialogue branch acknowledging this — both "moving" and "troubling" reads are valid.
+
+   **The Calethina Devotion failsafe ending** has two versions: romantic path (mini-quest completed) and non-romantic download bond (downloaded, thresholds not met). Both are meaningful. Neither is the lesser outcome.
 
 **Questline full development is deliberately deferred** until the surrounding world (Concordia’s society, history, geography) is better codified. The plot beats need to connect to real, established elements of the world. Resume when the world feels stable enough to support it.
 
