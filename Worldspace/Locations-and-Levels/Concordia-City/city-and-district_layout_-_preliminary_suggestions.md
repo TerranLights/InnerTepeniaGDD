@@ -8,7 +8,7 @@
 * Grand Transit Exchange (major highway junction point)
 * Arcanet Nexus Tower (main data hub for the Janbogo Subnet)
 * Central Council Plaza (where faction representatives meet)
-### Primary Factions: International Data Syndicate, Manufacturing Concord, Echoes of Amundsen
+### Primary Factions: International Data Syndicate, Manufacturing Concord, The Vigil [NAME TBD]
 ### Trade-off Tension: Knowledge & growth vs immediate stability (power constantly diverted between servers and factories).
 ### Quest Hooks:
 * First main quest (Heating Grid Failure or Siligel contamination)
@@ -66,7 +66,7 @@
 * The Grand Ossuary Cathedral
 * Memorial Gardens of the Fallen
 * Quiet contemplation halls
-### Primary Factions: Goth Ossuary Community, Memory Weavers, Echoes of Amundsen
+### Primary Factions: Goth Ossuary Community, Memory Weavers, The Vigil [NAME TBD]
 ### Trade-off Tension: Honoring the past vs using resources (and old parts) for the living.
 ### Quest Hooks:
 * Consecrating a new wing of the Ossuary
@@ -110,7 +110,7 @@
 * Treaty Archive Vaults
 * Bureau of Resource Allocation
 * Diplomatic Reception Halls
-### Primary Factions: International Data Syndicate (political wing), Echoes of Amundsen, Veilkeepers
+### Primary Factions: International Data Syndicate (political wing), The Vigil [NAME TBD], Veilkeepers
 ### Trade-off Tension: Centralized control and long-term planning vs giving districts autonomy and immediate survival needs.
 ### Quest Hooks:
 * Political intrigue and vote manipulation during resource crises

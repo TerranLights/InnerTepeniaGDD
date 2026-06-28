@@ -29,7 +29,7 @@
 * Infamy: Protecting “sacred” or sentimental ruins (especially Goth Ossuary sites).
 * District: Mountain Cut Industrial Zone.
 
-### The Echoes of Amundsen
+### The The Vigil [NAME TBD]
 * Philosophy: Romantic longing for the off-world evacuees and the destroyed Space Elevator. They preserve hope of eventual reunion with those who left.
 * Role: Maintaining memorials, running signal towers trying to contact orbit, and archiving evacuation stories.
 * Fame: Helping them preserve memories or work on long-shot reactivation plans.

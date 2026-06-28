@@ -311,7 +311,7 @@ The most capable frontier operators in Concordia — the player and the scout NP
 **Minor Negative Effects**
 - The expedition's permanent absence creates a power vacuum in Sagittarius' frontier culture that is filled by operators with less experience and less judgment
 - The route the expedition took is known in outline, but subsequent expeditions attempting it without the Icewalker's capability face greater risk and worse odds
-- The Echoes of Amundsen faction, which hoped the expedition would find evidence of off-world return, receives no word from the disappeared expedition and must decide what to do with the silence
+- The The Vigil [NAME TBD] faction, which hoped the expedition would find evidence of off-world return, receives no word from the disappeared expedition and must decide what to do with the silence
 - Sagittarius' informal supply network to inner districts — which the scout NPC helped maintain — dissolves without its anchor, creating specific shortage points in Cancer and Taurus
 
 ---

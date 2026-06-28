@@ -22,7 +22,7 @@ Faction devotion is distinct from district Idolized status. A player who is deep
 - Eternal Winter Collective / Frost Ascetics (philosophy and religion designed by developer; name suggested by Grok)
 
 **Tentative factions** (suggested by Grok — subject to revision, removal, or replacement):
-- Veilkeepers, Lattice / Bonded Lattice, Reclaimers, Echoes of Amundsen, Siligel Purists, Neon Nomads, Chorus of the Deep, Memory Weavers, Iron Gardeners
+- Veilkeepers, Lattice / Bonded Lattice, Reclaimers, The Vigil [NAME TBD], Siligel Purists, Neon Nomads, Chorus of the Deep, Memory Weavers, Iron Gardeners
 
 Endings for tentative factions are written to the same standard as confirmed ones, but the factions themselves (their existence, names, and core concepts) should be verified before treating their endings as final.
 
@@ -46,7 +46,7 @@ The FNV principle applies here as everywhere: no matter how deep the investment,
 | FD-4 | Lattice / Bonded Lattice | **Tentative** | The Living Network | The decentralized network proves itself; the institutions notice |
 | FD-5 | Eternal Winter Collective | Confirmed | The Threshold | Adaptation philosophy validated; the wrong people try to follow |
 | FD-6 | Reclaimers | **Tentative** | The Found World | Pre-city space discovered; the discovery is the end of the faction's purpose |
-| FD-7 | Echoes of Amundsen | **Tentative** | The True South | Pilgrimage completed; the Echoes gain visibility they cannot handle |
+| FD-7 | The Vigil [NAME TBD] | **Tentative** | The True South | Pilgrimage completed; the Echoes gain visibility they cannot handle |
 | FD-8 | Siligel Purists | **Tentative** | The Uncorrupted Line | Systematic adulteration proven; truth documented, accountability structural |
 | FD-9 | Neon Nomads | **Tentative** | The Space Between | Trans-district circuit completed; the between-spaces become visible |
 | FD-10 | Chorus of the Deep | **Tentative** | The Lowest Level | Deepest practice reached; infrastructure knowledge that must stay buried |
@@ -230,7 +230,7 @@ The pre-city structures were sealed. Not abandoned — sealed. The documentation
 
 ---
 
-## FD-7. The Echoes of Amundsen [TENTATIVE]
+## FD-7. The The Vigil [NAME TBD] [TENTATIVE]
 ### Ending: *The True South*
 
 **Faction Overview**
@@ -248,7 +248,7 @@ The Echoes maintain a record of a specific coordinate in Sagittarius' outer terr
 The player completes the Echoes' most significant pilgrimage — a route that retraces, as closely as the faction's years of mapping allow, the portion of Amundsen's Antarctic journey nearest to Concordia. The route's end point, in the frontier, in the cold, with the documentation complete, is the ending.
 
 **Main Negative Effect on Concordia**
-The Echoes of Amundsen have spent their existence in a form of living historical reverence that other districts regarded as eccentric but harmless — a group that went to the frontier a lot and cared very much about old maps. The player's completion of the pilgrimage and their contribution of documented frontier discoveries elevates the Echoes' status in the city's awareness. With elevated status comes political attention that the Echoes were specifically not structured to receive. The faction most comfortable on the frontier now has to navigate Concordia's interior politics, and it is not good at this.
+The The Vigil [NAME TBD] have spent their existence in a form of living historical reverence that other districts regarded as eccentric but harmless — a group that went to the frontier a lot and cared very much about old maps. The player's completion of the pilgrimage and their contribution of documented frontier discoveries elevates the Echoes' status in the city's awareness. With elevated status comes political attention that the Echoes were specifically not structured to receive. The faction most comfortable on the frontier now has to navigate Concordia's interior politics, and it is not good at this.
 
 **Minor Negative Effects**
 - The Echoes' historical records, to which the player contributed, contain specific information about the frontier that has military, economic, and political implications the faction never intended to navigate — their geographical documentation is strategically valuable in ways that attract exactly the kind of attention the Echoes are poorly equipped to manage
@@ -365,7 +365,7 @@ The city that the player returns to after the pre-city memory is the same city. 
 **Minor Negative Effects**
 - The oldest preserved memory has been transmitted through many Weavers over many years, and each transmission has introduced small alterations that accumulated over time — what the player experienced is authentic in feeling and imperfect in specific factual details, and there is no way to know which details are which, because the original is only accessible through the chain that altered it
 - Experiencing the oldest memory positions the player as a potential next link in the transmission chain — whether the player chooses this role or not, the Weavers now regard them as a keeper, with the specific obligations of a keeper, and the relationship with the faction changes accordingly
-- The pre-city memory contains specific information about the original Antarctic landscape that connects to the Reclaimers' sub-level documentation and the Echoes of Amundsen's frontier mapping; the player can see these connections and cannot share them in a form the other factions could use
+- The pre-city memory contains specific information about the original Antarctic landscape that connects to the Reclaimers' sub-level documentation and the The Vigil [NAME TBD]'s frontier mapping; the player can see these connections and cannot share them in a form the other factions could use
 - The Memory Weavers' practice requires that memories remain alive in the people who hold them — writing them degrades them, casual sharing dilutes them — which means the player's deepest Weaver knowledge is locked inside them, inaccessible to the city's wider record, regardless of whether the player wants it to be
 
 ---
@@ -402,5 +402,5 @@ The Iron Gardeners' audit demonstrates that the infrastructure they tend is in s
 
 - Faction Devotion endings are available regardless of district reputation — a player with Vilified status across most districts can still access Faction Devotion endings if they maintained their cross-district faction investment.
 - **No two Faction Devotion endings are available simultaneously.** A player can only achieve maximum standing with one faction at a time — the investment required makes parallel completion of multiple faction questlines structurally impossible by the game's late stage.
-- The twelve factions vary significantly in their relationship to official Concordia institutions. Some (Iron Gardeners, Memory Weavers, Echoes of Amundsen) are tolerated or regarded as eccentric. Others (Red Spiral, Siligel Purists, Veilkeepers) are monitored or suppressed. Faction standing therefore reflects not just the player's commitment but their navigation of institutional resistance.
+- The twelve factions vary significantly in their relationship to official Concordia institutions. Some (Iron Gardeners, Memory Weavers, The Vigil [NAME TBD]) are tolerated or regarded as eccentric. Others (Red Spiral, Siligel Purists, Veilkeepers) are monitored or suppressed. Faction standing therefore reflects not just the player's commitment but their navigation of institutional resistance.
 - As with all secret endings: these are complete, meaningful conclusions. A player who completes a Faction Devotion questline has pursued something real and specific, and the ending should feel proportional to that investment — including the cost.

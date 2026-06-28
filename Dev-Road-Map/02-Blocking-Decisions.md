@@ -6,11 +6,11 @@ Make these before moving to Phase 1.
 
 ---
 
-## Decision 1: Echoes of Amundsen — Keep, Redesign, or Cut?
+## Decision 1: The Vigil [NAME TBD] — Keep, Redesign, or Cut?
 
 **~~RESOLVED — June 2026~~**
 
-**Decision:** Downgraded from full faction to significant minor group. The Echoes of Amundsen are not a Faction Devotion ending faction. FD-7 slot is now open for reassignment.
+**Decision:** Downgraded from full faction to significant minor group. The The Vigil [NAME TBD] are not a Faction Devotion ending faction. FD-7 slot is now open for reassignment.
 
 **Rationale:** The concept is strong enough to anchor off-world lore delivery and a dedicated quest arc, but not strong enough to carry an end-game Devotion ending. As a significant minor group — more developed than the Quiet Shift or Treaty Scholars, with a proper quest line and named NPCs — they serve the game better than they would as a mandatory faction slot the concept can't fully support.
 

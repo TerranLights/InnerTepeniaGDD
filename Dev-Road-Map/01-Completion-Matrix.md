@@ -92,7 +92,7 @@
 | **Veilkeepers (FD-3)** | ❌ | Concept sketch only |
 | **Lattice / Bonded Lattice (FD-4)** | ❌ | Concept sketch only |
 | **Reclaimers (FD-6)** | ❌ | Concept sketch only |
-| Echoes of Amundsen | 🟡 | Downgraded to significant minor group; quest arc in Phase 5; no Devotion ending |
+| The Vigil [NAME TBD] | 🟡 | Downgraded to significant minor group; quest arc in Phase 5; no Devotion ending |
 | **Siligel Purists (FD-8)** | ❌ | Concept sketch only |
 | **Neon Nomads (FD-9)** | ❌ | Concept sketch only |
 | **Chorus of the Deep (FD-10)** | ❌ | Concept sketch only |
@@ -221,7 +221,7 @@
 | FD-4: Lattice | ⚠️ | Tentative — faction undesigned |
 | FD-5: (open slot) | ❌ | |
 | FD-6: Reclaimers | ⚠️ | Tentative — faction undesigned |
-| FD-7: (open slot) | ❌ | Echoes of Amundsen downgraded to minor group; slot available for reassignment |
+| FD-7: (open slot) | ❌ | The Vigil [NAME TBD] downgraded to minor group; slot available for reassignment |
 | FD-8: Siligel Purists | ⚠️ | Tentative — faction undesigned |
 | FD-9: Neon Nomads | ⚠️ | Tentative — faction undesigned |
 | FD-10: Chorus of the Deep | ⚠️ | Tentative — faction undesigned |
