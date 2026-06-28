@@ -123,6 +123,19 @@ The romance system is a direct expression of the second guiding principle — th
 
 ---
 
+### Confirmed Romanceable Characters
+
+The following characters are confirmed romanceable. Thresholds are documented here as they are designed; entries marked TBD are pending Phase 3 personality work.
+
+| Character | Type | Stat Thresholds | Trait Gates | Notes |
+|-----------|------|-----------------|-------------|-------|
+| Calethina | Projection system (not a companion) | Calc ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6 | TBD | See full design note below; romance post-download via mini-quest |
+| Vosora Lashár Tanslock | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
+
+All other companions and select named NPCs: romance status TBD per character during Phase 3 design.
+
+---
+
 ### Calethina — Romance Design (Special Case)
 
 Calethina is romanceable. She is the most demanding romance in the game, both narratively and mechanically.

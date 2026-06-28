@@ -6,6 +6,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency — data recovery wing; Great Corruption investigation
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
 
 ## Core Identity
 **Activation Date & Origin:** Concordia (Tepenia native); originally nomadic — no true fixed hometown
