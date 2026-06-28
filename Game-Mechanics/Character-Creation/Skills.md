@@ -5,6 +5,26 @@ There are **44 skills** total, encouraging deep specialization.
 
 ---
 
+## Core Design Law: Flat Thresholds, No Dice Rolls
+
+**There are no dice rolls for skill or stat checks in Inner Tepenia.** Every non-combat gate is a flat threshold: the player either meets the requirement or they don't. This applies to the Outer Tepenia series as well — it is a series-wide design commitment.
+
+The only context where random number generation applies is ranged combat hit chance (whether a bullet lands) and aimed-shot probability (VATS-equivalent hit chance per body part). Everything else is binary.
+
+**What this means in practice:**
+- A locked door requiring Lockpick 50 opens if you have 50. It does not open if you have 49, regardless of any roll.
+- A trap requiring Investigation 7 to detect is automatically detected if you have 7. There is no "roll to notice."
+- A repair check requiring Repair 45 succeeds or fails based solely on whether your skill meets 45.
+- Dialogue options gated behind MACHINE stats or skills appear or do not appear. There is no chance of failure on a check you qualify for.
+
+*Fallout: New Vegas precedent: Perception 7 automatically reveals hollow walls in RepCONN HQ; Repair 22 automatically disarms tripwires; Repair 45 automatically disarms rigged shotguns. No dice involved — the threshold is met or it isn't.*
+
+**Companion effects follow the same logic.** A companion with Investigation 10 does not give the player a "+X bonus to Investigation rolls." They extend the player's effective detection floor — certain things are automatically noticed when that companion is present that would otherwise require an Investigation threshold the player hasn't met.
+
+---
+
+---
+
 ## Skill Point Gain per Level
 
 **Final Formula:**  
