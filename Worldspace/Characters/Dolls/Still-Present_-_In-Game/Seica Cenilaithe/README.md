@@ -6,6 +6,7 @@
 **Primary Location(s):** Scorpio (Psychological/Transformative district)
 **Affiliation(s):** Scorpio Goth community (sacred-transformation tradition, not clinical side)
 **Companion Potential:** Yes — recruitable companion
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
 
 ## Core Identity
 **Activation Date & Origin:** TBD

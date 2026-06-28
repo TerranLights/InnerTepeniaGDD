@@ -6,6 +6,7 @@
 **Primary Location(s):** Taurus (Residential district)
 **Affiliation(s):** Eyes of Gold (primary loyalty); The Steady Watch (operational — name TBD; neighborhood preparedness network)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
 
 ## Core Identity
 **Activation Date & Origin:** Italy; built as an assistant to an elderly scientist — his "extra set of eyes and ears" to cross-check results and correct errors

@@ -6,6 +6,7 @@
 **Primary Location(s):** Aquarius (The Labs) — still in Concordia, hidden within the district; testing facility (now ruins) is her last known public address
 **Affiliation(s):** Eyes of Gold (friend and technical partner, not a member)
 **Companion Potential:** Yes — main game companion
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
 
 > **Full lore:** `Worldspace/Characters/Major_NPCs/Ji-Eun_Kim.md`
 

@@ -75,9 +75,11 @@ Majyao runs her teahouse and does not leave it. She cannot be recruited as a com
 
 ### Scope
 
-Romance is available for all recruitable companions and a small number of named NPCs where it makes contextual sense for the character. It is not a universal system applied to every named NPC — that would be excessive and dilute the significance of the relationships that have it.
+**All recruitable companions are romanceable. No exceptions.** This is a binding design rule. Any character who can be recruited as a player companion — main game or DLC — is romanceable, subject to their individual gate conditions.
 
-**Pool:** All companions (main game + DLC) + select named NPCs (Trisha Miller is a strong candidate; others to be identified on a per-character basis during design).
+Non-recruitable named NPCs: romance status is decided on a per-character basis during design and development. Some may be romanceable; some will not be. This is deferred and will not be established as a blanket rule in either direction.
+
+**Pool (confirmed):** All recruitable companions (main game + DLC) + non-recruitable named NPCs TBD per character.
 
 ### The Double Gate
 
@@ -130,10 +132,17 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | Character | Type | Stat Thresholds | Trait Gates | Notes |
 |-----------|------|-----------------|-------------|-------|
 | Calethina | Projection system (not a companion) | Calc ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6 | TBD | See full design note below; romance post-download via mini-quest |
+| Favi della Torre | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
+| Villena Hiresvett | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
+| Naizelle d'Edjordoś | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
+| Seica Cenilaithe | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
+| Ji-Eun Kim | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
 | Vosora Lashár Tanslock | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
 | Kendra Heinrich | DLC 1 companion | **None** | **None** | Unique gate system — see full design note below |
+| Salagéa Aparast | DLC 5 companion | TBD | TBD | Thresholds pending Phase 7 personality design |
+| + all future companions | TBD | TBD | TBD | Rule: all recruitable companions are romanceable by default |
 
-All other companions and select named NPCs: romance status TBD per character during Phase 3 design.
+Non-recruitable named NPCs: romance status decided per character during design. Not established here.
 
 ---
 

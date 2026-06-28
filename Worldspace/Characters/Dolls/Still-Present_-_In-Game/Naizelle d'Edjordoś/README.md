@@ -6,6 +6,7 @@
 **Primary Location(s):** Pisces (The Markets)
 **Affiliation(s):** Independent; informal compound community (no formal faction)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
 
 ## Core Identity
 **Activation Date & Origin:** TBD

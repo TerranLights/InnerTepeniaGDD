@@ -2,10 +2,11 @@
 
 ## Salagéa Aparast
 
-**Role / Archetype:** Datashard courier; civilizational archivist; community moral authority (Cancer — if main game)
-**Primary Location(s):** TBD — see Design Notes (main game vs. DLC 5 decision pending)
-**Affiliation(s):** No-One-Left-Behind Registry (Cancer advocacy organization — if main game)
-**Companion Potential:** No — NPC
+**Role / Archetype:** Datashard courier; civilizational archivist; community moral authority; DLC 5 protagonist
+**Primary Location(s):** Atlantic Coastal Region (DLC 5 — confirmed)
+**Affiliation(s):** No-One-Left-Behind Registry (Cancer advocacy organization — Concordia origin)
+**Companion Potential:** Yes — DLC 5 protagonist and recruitable companion (same model as Kendra Heinrich in DLC 1)
+**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 7 personality design
 
 ## Core Identity
 **Activation Date & Origin:** Belgrano (Tepenia native)
