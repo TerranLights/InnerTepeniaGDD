@@ -16,7 +16,7 @@ This questline was written by Grok. The 5-step structure and the general degrada
 
 4. **Issue F (passive link mechanic) is RESOLVED.** The [PASSIVE LINK — NAME TBD] placeholder throughout Steps 2–5 refers to the following confirmed mechanic:
 
-   Calethina is a holographic projection from the wrist device — technically not a companion (no companion slot, no companion code path). She is present, interactive, and visible as a sprite/avatar in the game world.
+   Calethina is a holographic projection from the wrist device — technically not a companion (no companion slot, no companion code path). She is present, interactive, and visible as a sprite/avatar in the game world. She has no walking animation — as a holographic projection she floats/hovers rather than walks. This is a hard implementation commitment: her movement through the world is always a float, never bipedal locomotion.
 
    **Before the download:** She projects from her server through the city grid. Signal-dependent. Good signal = clean image. Poor signal/interference = flickering, glitching sprite. No signal = she disappears entirely and is absent until the player returns to signal range. Her visual quality is a direct readout of world/grid health.
 
