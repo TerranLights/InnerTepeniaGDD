@@ -69,6 +69,14 @@ Majyao runs her teahouse and does not leave it. She cannot be recruited as a com
 - A companion's personal questline can only advance while they are the active companion
 - Re-recruiting a dismissed companion is always available unless a specific story event has permanently changed their status
 
+### Companions and DLCs
+
+**Companions cannot be brought into DLCs on a first playthrough.** This is a universal rule across all DLCs. Every DLC must be completable solo. Any companion effect, access route, or solution that references a companion's abilities must be achievable through non-companion means on first play.
+
+This applies to companion presence only. Items or technology *obtained from* a companion before DLC entry (e.g., a portable device given by Ji-Eun Kim) are unaffected — the player carries those in, the companion does not come along.
+
+Whether companions may accompany the player on subsequent playthroughs is TBD.
+
 ---
 
 ## Romance System
