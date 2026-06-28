@@ -122,7 +122,7 @@ The Amundsen-Scott Station is locked from inside by Kendra. The automated defens
 
 **Environmental (found in the DLC — minimum 3):**
 
-1. **Underground utility tunnel network** — The Amundsen-Scott station has an extensive underground tunnel system carved into the ice, built during the pre-war era. One entrance is buried under accumulated debris near the outer ruins. Requires Investigation 7 to locate. Then Lockpick 45 or Repair 35 to open the frozen-shut hatch. (Naizelle's Physical Gap Reading is relevant on subsequent playthroughs if companions can accompany the player — but DLCs must be completable solo on first play, and this entry is accessible without her.)
+1. **Underground utility tunnel network** — The Amundsen-Scott station has an extensive underground tunnel system carved into the ice, built during the pre-war era. One entrance is buried under accumulated debris near the outer ruins. Requires Investigation 7 to locate. Then Lockpick 45 or Repair 35 to open the frozen-shut hatch. (On replays after first completion, Naizelle's Physical Gap Reading can substitute for the Investigation 7 threshold.)
 
 2. **Breach point in the damaged section** — During Kendra's final battle, part of the station exterior took impact damage. She sealed it from inside with improvised materials. From outside, a player with Might 8+ or a demolition item can force an opening. Getting there requires surviving the exterior kill zone — this approach pairs naturally with any defense suppression method.
 
