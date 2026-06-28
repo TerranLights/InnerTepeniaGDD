@@ -18,14 +18,16 @@
 - Hornevian Group: Assertive
 - Harmonic Group: Reactive
 
-**MACHINE Stat Profile (rough baseline):**
-- Might: TBD
-- Agility: TBD
+**MACHINE Stat Profile:**
+- Might: **10**
+- Agility: **10**
 - Calculation: TBD
 - Humanity: TBD
 - Investigation: TBD
-- Nerve: TBD
-- Engine: TBD
+- Nerve: **10**
+- Engine: **10**
+
+*Note: Four stats at 10 is impossible under player creation rules (5+5 model). This is intentional — NPC stats are exempt from player creation math and reflect who the character actually is. See `MACHINE_Stats.md`.*
 
 **Key Traits / Notable Perks (companion-relevant):** TBD
 
@@ -91,5 +93,5 @@ See `Personal_Background/` for details as they develop.
   - [ ] DLC structure and South Pole setting
   - [ ] Answer the "what defeated her" design question
   - [ ] Relationship between DLC arc and Capricorn / The Reclaimed Record
-  - [ ] MACHINE stat baseline
-  - [ ] Romance status (TBD)
+  - [x] MACHINE stat baseline (Might 10, Agility 10, Nerve 10, Engine 10 confirmed; Calc/Humanity/Investigation TBD)
+  - [x] Romance status (confirmed — unique gate system, no stat/trait requirements)
