@@ -131,6 +131,7 @@ The following characters are confirmed romanceable. Thresholds are documented he
 |-----------|------|-----------------|-------------|-------|
 | Calethina | Projection system (not a companion) | Calc ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6 | TBD | See full design note below; romance post-download via mini-quest |
 | Vosora Lashár Tanslock | Recruitable companion | TBD | TBD | Thresholds pending Phase 3 personality design |
+| Kendra Heinrich | DLC 1 companion | **None** | **None** | Unique gate system — see full design note below |
 
 All other companions and select named NPCs: romance status TBD per character during Phase 3 design.
 
@@ -163,6 +164,34 @@ No trait gates currently defined. Traits may be added during Phase 3 character d
 **The re-spec complication.** If the player re-specced through Calethina's lab to meet her stat thresholds, she performed the work herself. She knows what was changed and why. The point at which the romance option appears (post-download) should have dialogue that acknowledges this — as a branch, not a single read. Whether she finds it moving (someone wanted to be someone she could love) or troubling (someone altered who they were to reach her) are both valid. Both are bittersweet.
 
 **The Calethina Devotion failsafe ending** has two versions: one for players who completed the romance mini-quest, one for players who downloaded without the romance threshold met. The second version reflects a different kind of profound chosen bond — she is inside them, they carry her, and that is its own thing.
+
+---
+
+### Kendra Heinrich — Romance Design (Unique Gate System)
+
+Kendra is the only recruitable companion in the entire game whose romance has **no MACHINE stat gate and no trait gate.** This is a deliberate exception, and the reason is specific to her character.
+
+Stat gates work by asking: *are you the kind of person this character would find attractive?* That is the right question for most characters — attraction has a profile, and that profile maps to who the protagonist fundamentally is.
+
+Kendra is a Type 8w7. A Type 8 does not open up because of who you are in the abstract. They open up because of what happened between you and them — a specific act, a specific moment of genuine seeing. Her romance gate is therefore not about character profile. It is about what the player did and how they showed up for her during her DLC.
+
+**Gate 1 — You defeated what defeated her.**
+The player must successfully complete the DLC's central combat challenge — the enemy or threat formidable enough to strand a war goddess. Kendra was there. She witnessed the player do something she couldn't do in her current state. For an 8, respect is the precondition for everything else. You cannot reach her interior without first earning that.
+
+**Gate 2 — You broke through her emotional exterior.**
+Kendra's armor exists specifically to prevent people from seeing inside. The DLC places her in the position she has never been in — damaged, stranded, needing help, unable to protect herself. How the player handles that throughout the DLC determines whether Gate 2 is met. This is tracked through DLC dialogue choices and how the player treats her vulnerability.
+
+The things that break through for an 8w7 specifically:
+- Not being condescending about rescuing her — not making her feel like a burden or a charity case
+- Not expecting gratitude in a way that creates a debt dynamic
+- Not being intimidated by her directness, even when she is being difficult about her situation
+- Not treating her as less because she is damaged — respecting her as she is, not as she was
+- Genuine curiosity about who she is, not just what she is capable of
+- Possibly: pushing back on her when she is wrong — an 8 respects people who don't fold
+
+**The romance mini-quest.** When both gates are cleared, a romance mini-quest opens — its own dedicated interaction sequence. Given that Kendra is a DLC companion who can continue as a main game companion after the DLC, the mini-quest may unfold partly in the South Pole setting and partly in Concordia. Specific beats are Phase 7 design work.
+
+**Why no stat gate.** Any build can romance Kendra. A high-Might character and a high-Humanity character have equal access. What matters is not who the protagonist is at character creation — it is what they did in the South Pole and how they treated a war goddess who needed help for the first time in her life.
 
 ---
 
