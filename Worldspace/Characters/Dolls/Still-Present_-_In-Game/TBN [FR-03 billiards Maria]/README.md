@@ -32,7 +32,12 @@
 **Working Name (folder reference):** "Maria" — personal name TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — maria_billiards series.)*
+
+Long, very straight blonde hair. Vivid blue eyes. The signature look in all reference images: a black sheer mesh dress with a keyhole keyhole neckline, a small black bow/necktie collar at the throat, a black bikini bra visible underneath through the sheer fabric, and fishnet side panels. She's positioned at a billiards table with a cue in hand, green felt behind her. Expression: slightly open-mouthed, faintly teasing — she caught your attention and she knows it, and she's deciding whether to be amused by that.
+
+She reads as: someone who chose this game, this room, and this outfit on purpose, and is perfectly comfortable with what all of it implies. The billiard table is not a prop — it's her territory.
 
 ## Personality & Voice
 - Core summary: TBD

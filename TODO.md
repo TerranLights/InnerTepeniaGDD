@@ -67,11 +67,22 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Medium Priority — Character Development
 
+- [ ] **IT-068 [Flora] — full development queue**
+  First recruitable companion; well-scaffolded but incomplete. Established: 6w5 Thinking type; Capricorn industrial maintenance background; Frontline Utility Tank / Field Engineer combat role; recruitment scene at Thermal Distribution Junction 12 (mid-to-late Act 1); personality voice and approval system defined. Outstanding:
+  - Permanent name (replace [Flora] placeholder)
+  - Visual design and reference images
+  - Full personal questline design
+  - MACHINE stat tuning (full mechanical balance pass)
+  - Romance questline thresholds (Phase 3)
+  - Repair crew member names and characterization
+  - Subvariant (Self-Pres vs. Social vs. Sexual) — TBD
+  - District-specific approval modifier details beyond what's in README
+
 - [ ] **Remaining named Doll characters — personality and backstory development**
   Six named characters have backstory scaffolding but undeveloped personalities, voices, and questlines:
   - **Kendra Heinrich** — 8w7:Sc; DLC 1 protagonist (South Pole); "goddess of war"; held off Upper Earth forces at Amundsen Tower while innocents evacuated; stranded; personality TBD
   - **Meyzan Yocazhda** — 3w2:Pr; job/setting TBD (Leo vs. Capricorn); almost entirely blank
-  - **Michelle Stanton** — 5w6:Sc; built Arcanet in a Kharkovchanka with a small team of robots and dedicated humans; now in Janbogo doing data archaeology and Great Corruption investigation; personality TBD
+  - **Michelle Stanton** — 5w6:Sc; built the Arcanet in a Kharkovchanka with a small team of robots and dedicated humans; now in Janbogo doing data archaeology and Great Corruption investigation; personality TBD
   - **Salagéa Aparast** — 1w2:Sc; Belgrano native; boat-dwelling datashard archivist; preserved civilizational knowledge during Long Night War; personality TBD; district pending (see Decision Required)
   - **Vosora Lashár Tanslock** — 5w6:Sc; nomadic data/logistics expert; organized Amundsen Tower construction logistics; stranded in Concordia by circumstance; transmitting data to space-dwelling Tepenians; personality TBD
   - **Calethina** — personality, backstory, and core identity entirely blank beyond questline structure
@@ -142,6 +153,36 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Midwestland — add to Maps/**
   Referenced in Trisha Miller's and Michelle Stanton's backstories as their Upper Earth origin. No map document exists for it.
 
+- [ ] **Neural Overclock system — integration and balance pass**
+  New file: `Game-Mechanics/Core-Mechanics/Neural_Overclock.md`. Three modes fully drafted (Framejack / Berserk / Overclock), stat scaling defined, drawback philosophy established. Outstanding:
+  - Balance pass against AP economy (cross-ref `Action_Points_Base-Level_System.md`)
+  - New perks per mode added to `Game-Mechanics/Character-Creation/Perks.md`
+  - Enemy counterplay design (AI behavior during cooldown windows; cyberware-disrupting enemy units)
+  - District vendor content (Aquarius experimental tiers; Capricorn industrial-grade; Pisces black market)
+  - Narrative consequence tracking (companion reactions, ending flags, cyberpsychosis pathway)
+  - Verify integration with Minmax build master chart
+
+- [ ] **Damage Types system — integration pass**
+  New file: `Game-Mechanics/Combat/Damage_Types.md`. Full 17-type system drafted; anti-robot / anti-human / shared specializations defined; district availability mapped. Outstanding:
+  - Integration with existing DT/DR layered armor system
+  - Perk interactions per damage type (which perks unlock resistance, bonus damage, or type-conversion)
+  - Enemy unit damage type profiles (which enemy types use which damage)
+  - Confirm Gravitic/Inertial as implemented or cut (marked "possible rather than confirmed")
+  - Power-grid reactivity: ensure Aries destabilization → Lightning/EMP/Plasma hazard increase is mechanically implemented
+
+- [ ] **Character_Connection_Map.md — reconciliation pass**
+  File: `Worldspace/Characters/Character_Connection_Map.md`. Documents established narrative connections and a deferred issues table. Several items in the deferred table are now resolved (Ji-Eun main game decision, etc.). Needs a pass to:
+  - Update or close resolved items in the deferred table
+  - Ensure all new connections established since the file was written are added (Flora→Capricorn; Michelle→DLC 1 trigger; Kendra→Reclaimed Record; etc.)
+
+- [ ] **Character_Concept_Bank.md — review for canon adoption**
+  File: `Worldspace/Characters/Character_Concept_Bank.md`. Contains reassigned archetypes, faction seeds, and questlines that didn't fit their original characters but are too good to discard. Review each for adoption into the GDD:
+  - **The Undergrid Cartographer + The Oldest Maps** (faction + questline) — Virgo; strong concept, no character attached yet
+  - **The Frontier Route-Keeper + The Open Routes** (faction + questline) — Sagittarius; strong concept, no character attached yet
+  - **The Aries Shift Crew Veteran** — knows the real Black Silence history; potential major NPC
+  - **The Scorpio Archive Artist / Living Archive Community** — Goth Witness archetype; Scorpio faction in tension with clinical rebirth infrastructure
+  - **Faction seeds** (Crossroads Claim, Fringe Curriculum, The Found/Assembled, The Warm Circuit, The Steady Watch, The House Network, No-One-Left-Behind Registry, The Long Frequency) — most already referenced in character files; confirm canon status and add to Factions folder where appropriate
+
 - [ ] **Ghost Protocol safeguards — design as gameplay mechanic**
   Named and documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #9). Emergency AI protocols embedded into the Power Core during the Long Night War to prevent total collapse; now deeply entangled with core systems. Removing or overriding them risks triggering a built-in scorched-earth shutdown that could permanently disable large grid sections.
   **Calethina connection (to develop):** Calethina may have been the one who embedded these protocols during the evacuation — a life-saving emergency measure that has been quietly strangling the city for the one to two decades since the war ended. See Calethina questline entry for the full design note.
@@ -154,6 +195,41 @@ These require a developer call before downstream work can proceed. None can be r
 ---
 
 ## Long-Term / Low Urgency
+
+- [ ] **to-be-integrated/ queue — review and extract**
+  A large batch of raw files committed but not yet reviewed. Group them into two tiers:
+
+  **Specific content files — likely to contain extractable canon:**
+  - `Concordia Radio.txt` — new content area; no radio station design exists in canon yet beyond Trisha Miller's "The Signal"
+  - `Defectors_Major_Questline.txt` — may supplement or conflict with `Storyline/Side-Content/Defectors_Major_Questline.md`; cross-reference before integrating
+  - `balancing Minmax builds with Cyberjank functionalities.txt` — mechanics content; cross-ref against existing Minmax master chart
+  - `district by Enneagram group series.txt` — district personality framework; compare against canon district profiles
+  - `district conflicts - initial preliminary suggestions - 001.txt` — inter-district conflict seeds
+  - `ending task possibilities - Act 3 and Climax.txt` — story structure seeds for Act 3; review for extractable beats
+  - `starting task possibilities - Act 1 - leaving Calethina's lab.txt` — Act 1 structure seeds; compare against established Act 1 design
+  - `per-district general problems.txt` — district-level problem seeds; may supplement District_Canon_Reference
+  - `per-district history-factors and quest-triggers.txt` — district quest hooks; compare against Side-Content files
+  - `skill list preliminary suggestions - possible basis for perks.txt` — perk/skill ideas; review during perk design pass
+  - `first major recruitable companion.txt` — likely source material for Flora; verify absorbed or extract remainder
+  - `current to-do.txt` — old TODO list; compare against current TODO.md for anything missing
+
+  **Grok brainstorming files — treat with caution (banned names likely present):**
+  - `Grok help - district conflicts and per-location quest-hooks.rtf`
+  - `Grok help - district setup and per-location breakdown.rtf`
+  - `Grok help - initial concept setup and pre-development.rtf`
+  - `Grok help - main-story concept setup and pre-development - early brainstorming.rtf`
+  - `Grok help - unorganized data 1.rtf`
+  - `Grok help - unorganized data 2.rtf`
+  Extract only specific ideas not already in canon; discard banned names and scaffolding. Do not treat any Grok file as authoritative.
+
+  **Likely already absorbed — verify before discarding:**
+  - `Damage Types - Baldurs Gate 3 equivalents.txt`, `Damage Types - Districts of Discovery.txt`, `Damage Types - Robots vs Humans vs Equal.txt` — precursor research to `Damage_Types.md`; confirm absorbed
+  - `possible reasons - why not just fix the failing energy grid.txt` — precursor to `Energy_Grid_Failure_Rationale.md`; confirm absorbed
+  - `city layout - district layout - preliminary suggestions.txt` — early concept; confirm absorbed into district docs
+  - `district pairings - districts and their natural allies.txt`, `preliminary faction suggestions.txt` — compare against `District_Natural_Allies.md` and Factions folder
+
+- [ ] **"the Arcanet" / "the Solarnet" — terminology cleanup pass**
+  Many older GDD files use bare "Arcanet" or "Solarnet" as standalone nouns without the definite article. Confirmed rule: always "the Arcanet" / "the Solarnet" when used as head nouns (equivalent to "the internet"); no article needed when used as modifiers ("Arcanet subnet", "Arcanet cables"). Files most likely to need correction: city layout docs, City_Logistics.md, Historical_Pressures.md, Player_Homes.md, to-be-integrated/ files.
 
 - [ ] **Robot biology and culture — expand foundational document**
   New file created: `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`. Established canon: robots don't breathe but have internal thermal/sensory systems; siligel (food), coolant (drink), robot coffee (specialty coolant), and smoking (robot-specific vapor products interacting with internal systems) are all confirmed. Open questions remaining: siligel full composition, robot coffee exact formulation, smoking prevalence across Concordia's population, in-game smoking behavior beyond Naizelle and Zhuldyz.
@@ -218,7 +294,7 @@ These require a developer call before downstream work can proceed. None can be r
 - [x] Majyao Bisyugota — district (Taurus), backstory (teahouse + Blood River Tea + Janbogo origin), and questline rewrite complete
 - [x] Seica Cenilaithe — district (Scorpio), backstory, personality, and questline rewrite complete
 - [x] Trisha Miller — district (Taurus), backstory, and personality rewrite complete
-- [x] Michelle Stanton — backstory scaffolding complete (Arcanet builder; Kharkovchanka; Janbogo data archaeology)
+- [x] Michelle Stanton — backstory scaffolding complete (the Arcanet builder; Kharkovchanka; Janbogo data archaeology)
 - [x] Kendra Heinrich — backstory scaffolding complete (South Pole; held Amundsen Tower; DLC 1 protagonist)
 - [x] Salagéa Aparast — backstory scaffolding complete (Belgrano; boat; datashard courier; Long Night War archival mission)
 - [x] Vosora Lashár Tanslock — backstory scaffolding complete (nomadic logistics; Amundsen Tower construction; transmitting to space)

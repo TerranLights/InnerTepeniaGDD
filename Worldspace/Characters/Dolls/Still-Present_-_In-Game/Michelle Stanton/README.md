@@ -6,6 +6,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency (Janbogo slow-verification counter-movement — potential faction seed)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** Midwestland; exiled to Tepenia following the Falkland Treaty
@@ -35,7 +36,14 @@
 - **[Effect 5 — NAME TBD]:** To be established during Phase 3 personality design.
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — EW1A7517 series; Kharkovchanka AI context image.)*
+
+Sandy/medium blonde hair, grey-blue eyes. The physical reference image shows her in full work mode: denim overalls with a white ribbed top underneath, a loaded tool belt (wrench, measuring tape, others visible), black combat boots with white striped knee-high socks. She's leaning forward over lumber. Expression: direct and faintly challenging — the look of someone who knows their work and wouldn't particularly care if you doubted it, because they'd be right before you finished the sentence.
+
+The Kharkovchanka AI context image is the definitive character shot: jean shorts, white crop t-shirt tied at the front, brown work boots, standing on packed snow and ice in front of a futuristic 8-wheeled all-terrain vehicle that dwarfs her — the tires alone reach her shoulder. A maglev rail structure is visible in the background. She looks completely at home there. The scale of the vehicle doesn't make her look small; it contextualizes what kind of work she does.
+
+She reads as: someone whose body language is physical and practical at all times. She dresses for what she does. What she does is big.
 
 ## Personality & Voice
 - Core summary: TBD

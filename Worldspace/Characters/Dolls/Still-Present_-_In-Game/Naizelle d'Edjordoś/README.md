@@ -6,7 +6,7 @@
 **Primary Location(s):** Pisces (The Markets)
 **Affiliation(s):** Independent; informal compound community (no formal faction)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Engine ≥ 5; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -42,7 +42,14 @@
 - **Physical Gap Reading:** Her years of practical salvage and structural maintenance give her the ability to identify physical and infrastructural failures in built environments — improperly constructed sections, load-bearing elements that were never correctly tied in, access points that exist because something was built wrong. Similar to Ji-Eun Kim's System Structure Reading but operating in the physical/structural domain rather than the electronic or networked one. She finds the gap in how something was built; Ji-Eun finds the gap in how something was wired.
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — 20c415285ef99fe0e40b87dbc597148c portrait; rainy cyberpunk city AI context image.)*
+
+Near-black hair, long and straight with loose curtain bangs that part slightly at the center. Distinctive eye color: a deep violet-purple — uncommon enough to register immediately, quiet enough not to announce itself. Warm medium skin tone. The physical reference image shows her in an oversized olive/army green ribbed cardigan (open, slightly slipping off one shoulder) over a black sheer lace camisole. A sleek, minimal matte-black choker at the throat. Expression: quiet and contained — not hostile, not open. There is weight in her eyes that does not announce itself. She looks like someone who has processed a great deal privately.
+
+The AI context image shows the same face in her element: same dark hair, olive-green button-up shirt, black leather short shorts with a chain accessory detail, fishnet garter stockings. She is in a rain-soaked neon-lit alley at night, smoking a vaporizer — the tip glowing red, the vapor rising into the rain. Her expression: absolutely unbothered. She chose this corner. The rain is not a problem. The solitude is not a problem. The image is her posture toward the world.
+
+She reads as: someone who has learned to need very little, and who finds certain kinds of weather and isolation not oppressive but clarifying.
 
 ## Personality & Voice
 - Core summary: Practical, self-sufficient, and deeply private. Not cold — she cares about the people in her compound — but she does not open easily and does not explain herself. Very smart without being intellectual; her intelligence is applied and hands-on. Pre-war she was embedded in the Heavy Metal and Industrial music scene; she still listens to both, plus Hard/Garage Rock, and occasionally plays guitar. The music is the thread she held onto through everything.
@@ -75,6 +82,7 @@ See `Personal_Background/` for details as they develop.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
+- **Virgo / the Undergrid:** Although Naizelle lives in Pisces, she would feel very much at home in Virgo (the Undergrid) and is likely on good terms with many of its locals. The SP 5w6 sensibility — self-sufficient, low-profile, practical, at ease in marginal spaces — maps naturally onto Undergrid culture. Worth building Undergrid ties and access points into her companion perks or dialogue where appropriate.
 - **Origin:** Tepenia native; home city destroyed in the Long Night War — specific city TBD pending pre-war geography development
 - **Pre-war:** Devoted Heavy Metal and Industrial scene participant; played guitar privately, almost never on stage; the scene and community were her world
 - **Post-war music:** Still listens to Heavy Metal, Industrial, Hard/Garage Rock; plays guitar occasionally; has never fully stopped

@@ -6,6 +6,7 @@
 **Primary Location(s):** Leo (Entertainment district)
 **Affiliation(s):** The Warm Circuit (cross-district entertainment cooperative — potential faction seed)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Humanity ≥ 7, Engine ≥ 6, Nerve ≥ 5; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -38,7 +39,12 @@
 **Working Name (folder reference):** "Pink Lucy" — personal name TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — FWD055 series.)*
+
+Peachy/strawberry-blonde wavy hair, warm amber-brown eyes. The defining palette is pink and peach — warm, soft, open. In the primary reference image she's wearing an oversized fluffy/textured peach-pink hoodie, with peach circle earrings and a delicate gold bar necklace at the collarbone. Her hands are extended toward the viewer, reaching forward — the image is literally constructed around the gesture of reaching out to someone. Expression: completely open, warm, slightly eager, unguarded. She is not performing warmth; she simply has it.
+
+She reads as: the person who makes you feel included before you've decided whether to be. The pink tones are not incidental — they are her chromatic signature, the color of the energy she puts into a room.
 
 ## Personality & Voice
 - Core summary: TBD

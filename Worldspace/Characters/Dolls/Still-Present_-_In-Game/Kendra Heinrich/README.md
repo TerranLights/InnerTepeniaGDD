@@ -32,7 +32,14 @@
 **Key Traits / Notable Perks (companion-relevant):** TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — ZXE208 physical reference; Antarctica cityscape AI context image.)*
+
+Very curly platinum-blonde/ash-blonde hair — abundant, wild-textured, visually commanding. Green-grey eyes. The build is powerful: very tall, heavily muscled, broad-shouldered — a physical presence that changes the weight of a room. The physical reference image shows her in a black micro bikini with fishnet stockings and heels; even in that context, the impression is not soft but imposing. She is not dressed for vulnerability — she is simply in a room where vulnerability happens to be the aesthetic.
+
+The AI context image is the character-defining shot: same curly platinum blonde hair, a black leather bodysuit, garter belt, fishnet stockings, Concordia's neon towers blazing behind her in an Antarctic night. She looks like she walked out of the war and is still standing there. "War goddess" is exactly the right framing — not as hyperbole, but as a visual fact. This is what someone looks like who held off an army while innocents ran past.
+
+She reads as: a person for whom physical scale and force are so native that she does not register them as statements. She is simply this. The SMG she held during the evacuation is not in any of these images and doesn't need to be.
 
 ## Personality & Voice
 - Core summary: TBD

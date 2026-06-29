@@ -32,7 +32,14 @@
 **Working Name (folder reference):** "Lillian" — personal name TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Lillian_ah series.)*
+
+Black hair, long — partially gathered into a loose side braid on one side while the rest falls free. Warm brown eyes. East Asian features. The signature look is the black gown: a deeply plunging neckline, with gold phoenix and floral embroidery across the bodice, multiple gold chains cascading from the shoulders, and a large statement necklace of gold with green stone insets. The total effect is deliberately, unambiguously extravagant — not in the theatrical sense of someone performing wealth, but in the sense of someone who simply lives at a specific aesthetic altitude and sees no reason to come down from it.
+
+Expression: quiet and composed. She is not doing the extravagance for you. She is not performing it. The gold phoenix is just what her dress looks like.
+
+She reads as: someone for whom elegance is not armor and not performance — it is simply a settled condition. The phoenix imagery on the gown, however, suggests that this condition was not always settled.
 
 ## Personality & Voice
 - Core summary: TBD

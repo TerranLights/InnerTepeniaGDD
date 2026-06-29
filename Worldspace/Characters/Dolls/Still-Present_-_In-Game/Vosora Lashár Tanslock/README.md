@@ -6,7 +6,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency — data recovery wing; Great Corruption investigation
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending personality finalization
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6; full romance beat design in Companion_System.md
 
 ---
 
@@ -48,7 +48,14 @@ She didn't set out to investigate the Great Corruption. She was organizing data 
 ---
 
 ## Visual Description
-(See `Reference_Images/` folder — ruined comms outpost interior; damaged equipment.)
+
+*(See `Reference_Images/` folder — Real-Sex-Dolls-S47-Gia-170cm series; ruined comms outpost AI context image.)*
+
+Auburn-to-strawberry-red hair, long and wavy with a straight fringe. Amber-brown eyes behind black rectangular-frame glasses. Medium build. The physical reference image shows her in a black pinstripe blazer (open, dark bra underneath), seated/leaning at a dark wood desk with a coffee cup and a stack of books — Wuthering Heights visible on one spine (a prop, but a telling one). Feather drop earrings, long silver chain necklace. Expression: completely neutral, measuring the viewer without offering anything in return.
+
+The AI context image (ruined comms outpost) is the definitive character shot: same auburn hair, now with a black choker instead of a necklace, white formal gloves, same blazer. She is in a destroyed communications control room — overturned consoles, sparking live wiring, vines growing through the walls, red warning lights. Her left hand is reaching into a sparking console, working on it calmly. Beside her: a glitching holographic human silhouette, partially rendered, partially static, with the text "TRANSMISSION FAILED" visible next to it. She is looking directly at the camera. Expression: unchanged.
+
+She reads as: someone who specifically does not change expression when the situation changes. The sparks are not her problem. The failed transmission is information. She will get to it.
 
 ---
 

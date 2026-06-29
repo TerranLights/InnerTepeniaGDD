@@ -32,7 +32,14 @@
 **Working Name (folder reference):** "Charlene" — personal name TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — W2A0935 series.)*
+
+Vivid electric blue hair — the immediate defining feature: a strong, saturated cobalt-blue with straight-cut bangs. Thin wire-frame round glasses, slightly low on the nose. East Asian features. The signature look: a striped button-up shirt (blue, white, and red horizontal stripes) tied at the front to expose the midriff — worn open/loose, the shirt doing approximately half its intended structural job. A red-and-blue plaid mini skirt. She's seated at a round table in front of a whiteboard covered in mathematical equations (matrices, trig functions, notation), holding a whiteboard marker. A bookshelf with textbooks visible behind her.
+
+Expression: deadpan, one finger raised to the glasses — the gesture of someone who has just been asked something they find mildly exasperating or quietly amusing. She is looking directly at the camera. The expression does not shift.
+
+She reads as: a 5w4 who is very good at something, knows it, and has made a set of very specific aesthetic choices that she does not particularly feel the need to explain. The blue hair and the misaligned shirt and the whiteboard full of correct math are all part of the same personality.
 
 ## Personality & Voice
 - Core summary: TBD

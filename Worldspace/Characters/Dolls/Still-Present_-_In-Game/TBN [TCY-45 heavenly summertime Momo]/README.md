@@ -32,7 +32,14 @@
 **Working Name (folder reference):** "Momo" — personal name TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Momo series.)*
+
+Warm honey-blonde hair with a gentle wave, light amber-brown eyes. East Asian features, light complexion. Slim, lean build. The primary reference image shows her in a grey scalloped bralette and semi-sheer grey bikini bottoms, standing at a modern bathroom vanity with a warm-lit round mirror. A white leather collar with silver studs at the throat, a delicate silver cross pendant necklace, and a bracelet.
+
+Expression: slightly uncertain, lips parted just barely — the look of someone who was mid-thought when the image was taken, not posing. She looks caught in a private moment rather than presenting one. There is something unguarded and unexpectedly quiet about it, more so than "heavenly summertime" as a folder name would suggest.
+
+She reads as: someone softer on the inside than the name suggests — less the sunny warmth of summer, more the kind of light that comes through curtains in the morning before anyone is performing anything.
 
 ## Personality & Voice
 - Core summary: TBD

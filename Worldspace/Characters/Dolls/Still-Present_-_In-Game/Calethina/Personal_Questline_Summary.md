@@ -42,6 +42,18 @@ This questline was written by Grok. The 5-step structure and the general degrada
 
 ---
 
+## Visual Description
+
+*(See `Reference_Images/` folder — holographic_goddess series, all AI-generated. No physical doll body reference exists — all images depict her holographic projection form.)*
+
+Short platinum-white hair — barely more than a sleek cap, very little length. Blue-grey eyes. Her form across all reference images is rendered holographically: the edges of her body glow ice-blue-white, her figure is semi-translucent, scan-line rendering patterns run across the image. Silver metallic draped asymmetrical dress that appears to shift slightly with her. She stands on a circular glowing projector platform. The backgrounds vary — Concordia cyberpunk towers, destroyed cityscapes, military bunkers, a laboratory — but she is always the same: a signal projected into a physical space.
+
+In the v.06 cityscape image: Concordia-style neon towers behind her, aurora borealis green overhead, ice and snow underfoot. She stands at the center of the frame with her hands loosely at her sides, head tilted very slightly, expression calm and attentive. She is not performing anything. She is simply here, for now, as a broadcast can be here.
+
+She reads as: the most coherent and beautiful radio signal you have ever seen, and you cannot hold the signal. The holographic quality is not a weakness she works around — it is what she is.
+
+---
+
 ## Step 1: Awakening & First Signs of Strain
 
 **Location:** Calethina’s Engineering & Activation Lab (Hub jurisdiction — Capricorn/Cancer border)  

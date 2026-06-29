@@ -38,9 +38,13 @@
 
 ## Visual Description
 
-(Reference Images folder TBD — visual design not yet completed.)
+*(See `Reference_Images/` folder — IT-165-S38 series.)*
 
-IT-068 is a tradesrobot built for heavy maintenance work: durable chassis, practical build, no decorative elements that would get in the way. She carries the visual record of her work — tool marks, patch-over-patch repair zones, wear patterns on her frame that tell the story of years of hard labor in Capricorn's industrial zones. Not battered exactly; maintained well but not polished. She looks like someone who has better things to do than look impressive.
+Long wavy blonde hair, worn loose — not styled, just present. Cool grey-blue eyes with a direct, slightly appraising expression that does not perform warmth and does not need to. Her default look at you is the look of someone deciding whether you're worth the attention.
+
+Work clothing throughout: white ribbed tank top, red tool-harness suspender straps, blue cargo work pants with paint and grease splatter that has been there long enough to be permanent. Tool belt at the hip, tools always within reach. Nothing decorative. The clothing carries the record of the work the same way her frame does — not battered, maintained, but not polished either.
+
+The profile images capture something the front-facing ones don't: there's a quieter interior. Sitting with knees up, looking away — a person who has a lot going on inside that does not broadcast. The directness of her forward gaze is real, but it is also, in some sense, armor. Both things are true at once and should inform how she's written.
 
 ## Personality & Voice
 
@@ -177,10 +181,10 @@ See `Questlines/README.md` for design notes as they develop.
 
 **TODOs:**
 - [ ] Permanent name (replace Flora placeholder)
-- [ ] Visual design / reference images
+- [x] Visual design / reference images — IT-165-S38 series added; visual description written
 - [ ] Full personal questline design
 - [ ] MACHINE stat tuning (full mechanical pass)
-- [ ] Romance questline thresholds (Phase 3)
+- [x] Romance questline thresholds — Nerve ≥ 7, Calculation ≥ 6, Engine ≥ 5; full romance beat design in Companion_System.md
 - [ ] Repair crew member names and characterization
 - [ ] Specific dialogue lines beyond recruitment scene
 - [ ] District-specific approval modifier details

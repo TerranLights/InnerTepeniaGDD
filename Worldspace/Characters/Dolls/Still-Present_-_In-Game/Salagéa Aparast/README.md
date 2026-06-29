@@ -40,7 +40,14 @@
 - **Datashard Courier Routes:** Her established courier network means she can move information, objects, or messages across Concordia quickly and discreetly through channels that do not appear in official records — a quiet logistics layer the player cannot access alone.
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SES026 boat series.)*
+
+Distinctly olive-green hair — short, wavy, clearly an elected color — with grey-green eyes that match it. Full, voluptuous build; comfortable and entirely unself-conscious in it. The signature look across the boat reference images: a deep olive green cutout monokini swimsuit with string ties at the waist, a bright yellow windbreaker jacket worn open over it, yellow socks, yellow water/dive shoes, and white dive goggles pushed up on her forehead. A small silver necklace. The olive-green and yellow color coordination is consistent across images and reads like a deliberate signature, not a coincidence.
+
+In SES026-01 she's standing on the boat steps, expression direct and faintly competitive — someone who is very comfortable in physical, outdoor environments and has a relationship with them that is personal rather than recreational. In SES026-06 she's seated on the boat rail, more relaxed, the competitive edge replaced by ease. She belongs exactly where she is.
+
+She reads as: someone who dresses entirely for function and doesn't need anyone to find it attractive — though they might anyway. The boat is her element as much as the water.
 
 ## Personality & Voice
 - Core summary: TBD

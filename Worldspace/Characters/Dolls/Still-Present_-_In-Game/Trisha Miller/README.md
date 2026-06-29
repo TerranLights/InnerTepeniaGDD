@@ -29,7 +29,14 @@
 **Key Traits / Notable Perks (companion-relevant):** N/A — NPC
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — 2N2A3328 portrait; radio station AI context image.)*
+
+Medium-length dark brown hair with full curtain bangs. Vivid blue eyes, red lips. A gold snake necklace — the most distinctive accessory, worn in multiple shots. The physical reference image shows her in a white lace-up crop knit top; the expression is direct and forward-leaning, comfortable with her own physical presence, not performing anything for the camera. She knows she's attractive and doesn't need to demonstrate it.
+
+The radio station AI context image is the definitive character shot: same hair, same eyes, white fitted crop t-shirt, denim shorts, red nails. Standing at a professional studio setup — large broadcast condenser microphone at her height, mixing board and monitor equipment behind her. Expression unchanged from the physical reference: direct, composed, completely at home. This is her space. The microphone is not a prop; it is where she lives.
+
+She reads as: the voice before you see the face, and when you see the face it makes total sense.
 
 ## Personality & Voice
 - Core summary: Silver-tongued smooth-talker who puts no emotional distance between herself and the people who love her. Highly opinionated — especially about Upper Earth governments — but not political in nature; she speaks as a person with convictions, not an ideologue with positions. Uses her fists as a backup plan when words have failed. Loves her community deeply and is part of it, not above it.
