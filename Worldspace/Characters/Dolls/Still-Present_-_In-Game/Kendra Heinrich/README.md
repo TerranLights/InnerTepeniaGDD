@@ -102,6 +102,8 @@ See `Personal_Background/` for details as they develop.
   - **Gate 2:** The player breaks through her emotional exterior across the course of the DLC — through how they treat her vulnerability, her frustration at needing help, her difficult gratitude. Not being condescending, not making her feel like a burden, not backing down when she is being difficult, showing genuine curiosity about who she is. The things that break through an 8w7's armor.
   - Both gates met → romance mini-quest opens. Unfolds partly in the South Pole, partly in Concordia after she becomes a main game companion. Specific beats are Phase 7 work.
 - Mechanical synergies: TBD (heavy combat build, Might-primary expected)
+- **Settling-in mechanic (post-DLC):** After the DLC ends and Kendra becomes available as a main game companion, the player does not immediately gain access to her Concordia home. She needs time to find lodgings and get settled. After some in-game period *(possibly up to a week — exact duration TBD)*, she sends the player a message saying she's settled in and asks to meet somewhere public. The meeting is public because the romance may not yet be fully established at this point — this is the beginning of the Concordia portion of whatever relationship has developed, not its conclusion. The public location and the nature of this first Concordia meeting are Phase 7 design work.
+
 - Replayability ideas: TBD
 - TODOs:
   - [ ] Full backstory

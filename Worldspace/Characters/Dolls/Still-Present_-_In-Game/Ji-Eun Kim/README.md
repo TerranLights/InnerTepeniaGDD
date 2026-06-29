@@ -96,6 +96,7 @@ Three interlocking reasons, all of which are true simultaneously:
   - **Reversal difficulty:** Designed to be permanent. The player receiving the technology inherits the same cage. Removing or modifying it requires significant effort — possibly its own quest beat.
 - **Gold ocular prosthetic surgery scene:** Max Eyes of Gold standing reward should ideally involve Ji-Eun directly — either she performs the surgery or her specifications are explicitly used.
 - **The person she built it for:** Identity TBD. Their death and their relationship to Ji-Eun are core emotional material for the questline. Should be developed alongside the full questline design.
+- **The undelivered letter — gated questline mechanic:** Somewhere in Ji-Eun's hidden home is a letter (or equivalent) originally written for the person she built the concealment for — the person who did not survive to receive it. The player can access and read this letter (or have Ji-Eun read it aloud) only if they meet a set of extremely specific criteria to be designed during the questline phase. The letter contains a small but critical piece of in-world lore. The gate should be narrow enough that most players will never see it; the reward should be meaningful enough that players who do will understand why it was hidden.
 - Replayability ideas: TBD
 - TODOs:
   - [x] Main game vs. DLC decision — **main game, Aquarius district, confirmed canon**

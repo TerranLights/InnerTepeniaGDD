@@ -55,7 +55,7 @@ Stats improve how effectively your chassis and armor perform:
 ### Taurus (Residential / Stability)
 - **Style:** Reinforced home-defense plating, bonded composite.
 - **Strength:** Excellent sustained DT and environmental resistance.
-- **Typical Pieces:** Hearthwarden Carapace, Family-Bonded Shielding.
+- **Typical Pieces:** Taurus (TBN), Family-Bonded Shielding.
 - **Augmentations:** Stability regulators, personal habitat integration.
 
 ### Cancer (Nurturing / Sanctuary)

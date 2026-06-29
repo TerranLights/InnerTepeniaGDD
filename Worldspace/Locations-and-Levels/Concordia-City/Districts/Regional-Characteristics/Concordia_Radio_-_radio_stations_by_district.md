@@ -28,7 +28,7 @@
 * Experimental / Avant-garde (ritualistic, rebirth, and confronting mortality themes)
 ##### Vibe fit: Dim crimson/violet lighting, steam chambers, rebirth clinics, and heavy introspective mood. Music for deep personal reckoning.
 
-### 5. Aries (TBN-district & Power Core) – Raw Survival / Energy
+### 5. Aries / The Power Core – Raw Survival / Energy
 ##### Suggested genres:
 * Industrial Techno / EBM (aggressive, rumbling, high-output energy)
 * Industrial Metal or Aggressive Electronic (fiery, precarious survival stakes)
@@ -42,7 +42,7 @@
 * Industrial Rock (brutalist structures and merit-based drive)
 ##### Vibe fit: Brutalist noisy metal/concrete with glowing forges and heavy manufacturing focus. Overlap with Aries is natural here.
 
-### 7. Aquarius (TBN-district Quarter) – Visionary / Experimental
+### 7. Aquarius / The Labs – Visionary / Experimental
 ##### Suggested genres:
 * IDM (Intelligent Dance Music) / Glitch (futuristic labs and controlled chaos)
 * Experimental Electronic / Ambient (visionary breakthroughs and ethical debates)
@@ -63,7 +63,7 @@
 * Spoken-Word Electronic (rumor exchanges and public forums)
 ##### Vibe fit: Ever-changing bright hubs with data streams, news forums, and constant movement. Music that feels informational and dynamic.
 
-### 10. Pisces (TBN Black Market) – Black Market / Underworld
+### 10. Pisces / The Markets – Black Market / Underworld
 ##### Suggested genres:
 * Dark Electronic / Synthwave (neon hazy underworld)
 * Trap / Hip-Hop or Darkwave (fluid gray-zone deals and vice)
@@ -77,7 +77,7 @@
 * Folk with Electronic elements (optimistic pushing against the ice)
 ##### Vibe fit: Harsh windswept partially completed domes overlooking endless ice, with explorer guilds and philosophical spaces.
 
-### 12. Virgo (Concordia Undergrid) – Maintenance / Service
+### 12. Virgo / The Undergrid – Maintenance / Service
 ##### Suggested genres:
 * Industrial / Dark Ambient (dark labyrinthine tunnels and mechanical hum)
 * Minimal Techno or Drone (constant repair and hidden service)

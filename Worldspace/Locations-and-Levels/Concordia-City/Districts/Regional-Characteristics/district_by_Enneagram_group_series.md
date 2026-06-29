@@ -47,7 +47,7 @@
 ##### Reasoning:
 * This district is about radical personal/psychological change, therapy extremes, and moral gray areas (vice vs. healing). Reactive + Feeling groups shine here for stories of confronting demons, memory work, transformation vs. stability, and the ethical dangers of “rebirth” programs.
 
-## 5. District: Aries (TBN-district & Power Core) – Raw Survival / Energy
+## 5. District: Aries / The Power Core – Raw Survival / Energy
 ##### Enneagram:
 * Major Theme: Instinctive — Raw power, survival, aggression, and physical control of resources.
 * Hornevian Group: Assertive — Taking decisive (sometimes aggressive) action to maintain output and control.
@@ -63,7 +63,7 @@
 ##### Reasoning:
 * The disciplined industrial engine. Assertive + Thinking + Competency groups fit perfectly for stories of ambition vs. safety, tradition vs. automation, profit vs. sustainability, and the tension between efficiency and human/robot welfare.
 
-## 7. District: Aquarius (TBN-district Quarter) – Visionary / Experimental
+## 7. District: Aquarius / The Labs – Visionary / Experimental
 ##### Enneagram:
 * Major Theme: Thinking — Intellect, innovation, ethics vs. progress, and objective analysis.
 * Hornevian Group: Withdrawn (or Assertive) — Deep focus and withdrawal into research, or bold pushing of boundaries.
@@ -87,7 +87,7 @@
 ##### Reasoning:
 * This district is the nervous system of the city — full of data archaeology, public forums, rumor exchanges, and verification dilemmas. Thinking + Competency groups have massive RP potential in stories about free speech vs. harmful rumors, elite access vs. public transparency, and the intellectual thrill (or danger) of uncovering secrets. Withdrawn types can thrive in private channel suites or data labs, while Assertive ones push bold broadcasts or exposés.
 
-## 10. District: Pisces (The TBN Black Market) – Black Market / Underworld
+## 10. District: Pisces / The Markets – Black Market / Underworld
 ##### Enneagram:
 * Major Theme: Instinctive (with strong Feeling elements) — Survival instincts, opportunism, desire, and fluid moral boundaries.
 * Hornevian Group: Assertive — Aggressive deal-making, independence, and pushing boundaries for profit or necessity.
@@ -131,7 +131,7 @@ Both lean Feeling + Compliant + Positive Outlook (emotional caregiving, dutiful 
 * Storylines: A refugee/defector sheltering program in Cancer could be seen by Taurus residents as bringing “external threats” or disrupting bonded family harmony. Players could mediate (or exploit) tensions where helping Cancer’s vulnerable harms Taurus’ established residents (e.g., diverted resources leading to domestic unrest).
 * Player Agency & Ripples: Choices that boost Cancer’s protective role (e.g., expanding shelters) might cause Taurus to feel neglected or invaded, leading to petitions, protests, or even sabotage of shared infrastructure. Long-term: Over-prioritizing Cancer could erode Taurus’ morale and recruitment, while favoring Taurus could leave vulnerable populations exposed.
 
-## 2. Aries (TBN-district & Power Core) and Pisces (TBN Black Market)
+## 2. Aries / The Power Core and Pisces / The Markets
 Both lean Instinctive + Assertive + Reactive (bold survival instincts, assertive action, and intense/emotional responses to pressure).
 ##### A. Strong Differences
 * Feel & Environment: Aries is stark, cathedral-like industrial power — massive glowing pipes, rumbling geothermal cores, extreme temperature gradients, and heroic worker memorials. It feels raw, precarious, and officially vital. Pisces is dim, hazy, neon-reflected underworld — whispered deals in alcoves, smuggler tunnels, illicit distilleries, and gray-zone opportunism. It feels chaotic, profitable, and illicit.
@@ -142,7 +142,7 @@ Both lean Instinctive + Assertive + Reactive (bold survival instincts, assertive
 * Storylines: Players could run quests where smuggling critical parts during an Aries-induced shortage earns Infamy with official power factions, or where Pisces smuggling destabilizes the grid (e.g., overloaded illicit refineries causing cascades). Aries “heroic” over-extraction for the city could starve Pisces-dependent communities.
 * Player Agency & Ripples: Favoring Aries’ maximum output might enable city-wide survival but fuel Pisces black-market resentment and sabotage. Supporting Pisces’ gray trade could provide vital goods during crises but risk grid failures or official crackdowns that harm everyone. Long-term ripples include city-wide resentment, sabotage, or even underground alliances against central power control.
 
-## 3. Aquarius (TBN-district Quarter) and Gemini (Janbogo Subnet Nexus)
+## 3. Aquarius / The Labs and Gemini (Janbogo Subnet Nexus)
 Both lean Thinking + Competency (intellectual focus, objective analysis, and competence-driven approaches), with some Withdrawn/Assertive flexibility.
 ##### A. Strong Differences
 * Feel & Environment: Aquarius is clean, futuristic, chaotic labs — white/blue lighting, prototype robots, humming test chambers, and ethical debate halls. It feels visionary, experimental, and slightly detached. Gemini is bright, ever-changing data hubs — holographic displays, data streams, rumor exchanges, and secure private suites. It feels informational, fast-paced, and connective.

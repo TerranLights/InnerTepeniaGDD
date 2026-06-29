@@ -29,7 +29,7 @@ For inter-district quest triggers, see `Quest-Triggers.md`.
 
 3. *Unity Path (requires H 6+ or I 6+):* Expose the bias without destroying the circuit. The Surveillance Faction's architect, confronted with the specific data chain that produced the "low integration probability" for Upper Earth Defectors, cannot defend it as methodology. Work with the Trauma-Bearers to rewrite the intake criteria — explicitly, on the record, in a way that makes the next 2721 harder to paper over. The family gets in. The Mother's Circuit is improved. But the Trauma-Bearers are now on the record about 2721 by name, and some of them didn't want that. The past is now less buried. That's the cost of this path.
 
-**Ripples:** Unity Path is the only resolution that improves Cancer's intake system long-term. Paths 1 and 2 leave Cancer in the same structural position for the next wave. All paths affect Cancer's reputation with the Upper Earth Defector community at Echo Camp (Sagittarius).
+**Ripples:** Unity Path is the only resolution that improves Cancer's intake system long-term. Paths 1 and 2 leave Cancer in the same structural position for the next wave. All paths affect Cancer's reputation with the Upper Earth Defector community at the defector settlement (TBN) in Sagittarius.
 
 ---
 

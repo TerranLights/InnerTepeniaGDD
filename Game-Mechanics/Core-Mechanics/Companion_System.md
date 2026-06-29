@@ -127,6 +127,28 @@ Examples of the register (not final lines — those are written per character in
 
 The player who hears this line has a clear signal. On a replay with a different build, they know what to work toward. The line is delivered once and not repeated unless the player re-initiates.
 
+### Romance Exclusivity — Monogamy Rule
+
+The general design principle is **monogamy once a committed romance is established.**
+
+**Before full romance:** The player can engage in casual sexual encounters freely. A separate pool of characters exists — sexually available with only minimal stat-gating and/or quest-gating, no full romance arc required — and these encounters carry no relationship consequences prior to the player committing to a full romance.
+
+**Once the player has fully romanced one character** (completed the arc, received the romance perk), the rules change:
+
+- Any subsequent sexual encounter — whether with a previously-available casual partner or by triggering a second full romance — starts a timer
+- Approximately three in-game days later *(placeholder — exact duration TBD)*, the romanced companion discovers the situation
+- They react with fury and the romance perk is immediately lost
+
+**The consequence is total.** There is no partial loss. The player has to choose, and the penalty for failing to honor that choice is losing the perk entirely.
+
+**Second full romance — symmetric loss:** If the player has triggered a second full romance (not just a casual encounter), both characters find out and both romance perks are lost simultaneously. The player cannot navigate between two committed relationships.
+
+**Home access after perk loss:** TBD — to be resolved during Romance Reward system finalization. The question is whether home access is treated as part of the romance perk (and thus lost) or as a separate reward that persists.
+
+**The "fuckable" character pool:** A designed set of characters who are sexually available to the player at any time with only minimal gating. These are not romanceable in the full arc sense — no romance perk, no unlocked home, no relationship arc. They exist to give the player options for casual encounters pre-commitment. Once the player has committed to a full romance, sleeping with any of them triggers the monogamy rule above.
+
+---
+
 ### Thematic Note
 
 The romance system is a direct expression of the second guiding principle — the nature of love between robots and humans. Every romance in the game, regardless of the species of the characters involved, is asking: what does this specific person find in this specific other person, and what does that mean for both of them? The stat/trait gate ensures that the answer is always grounded in who the player character actually is, not in what they've done or what perks they've accumulated.
@@ -220,7 +242,7 @@ All companion-unlocked homes exist **in addition to** the regular player homes a
 
 **Calethina is the sole exception.** She is a holographic projection with no physical dwelling — there is no home to unlock. This is the only case where a romanced character does not produce a player home.
 
-The location of each companion's home is tied to their character and district. Companion homes are distributed across Concordia and, in the case of DLC companions, may exist outside the main city entirely. Kendra Heinrich's home, for example, would be within the Amundsen-Scott Station — meaning romancing her gives the player a home at the literal South Pole, accessible after the DLC is completed.
+The location of each companion's home is tied to their character and district. Companion homes are distributed across Concordia and, in the case of DLC companions, may exist outside the main city as a secondary location. Kendra Heinrich's home is in Capricorn — her origin district and the base of The Reclaimed Record movement she helped seed. After completing her DLC and returning to Concordia, she establishes (or returns to) a residence there. Romancing her gives the player access to that home; if the romance has been perma-locked through dialogue, she maintains the Capricorn home independently and the player does not gain access through the romance route.
 
 Individual companion home designs (layout, contents, lore items, décor reflecting the companion's personality) are Phase 3 and Phase 7 design work per character.
 

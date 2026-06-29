@@ -13,7 +13,7 @@
 | **Escape Date**          | (unknown, currently M.I.A.) |
 | **Current Status**       | Status unknown (Presumed alive) |
 | **Last Known Location**  | South America |
-| **Known by Concordia?**  | Known in specific circles (primarily in Gemini district / The Markets) |
+| **Known by Concordia?**  | Known in specific circles (primarily in Pisces / The Markets) |
 
 ---
 

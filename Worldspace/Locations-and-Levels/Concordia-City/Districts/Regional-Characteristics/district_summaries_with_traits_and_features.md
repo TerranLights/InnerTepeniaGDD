@@ -31,7 +31,7 @@ Each entry includes:
 #### B. External Conflicts
 * TBN-district [Taurus] District (takes food/heat priority)
 * TBN-district [Aries] (diverting heat away causes cold stress here)
-* Frostward [Sagittarius] Reaches (refugee influx strains resources)
+* Sagittarius / The Frostlands (refugee influx strains resources)
 * TBN-district Quarter [Aquarius] (experimental tech often tested on Cancer’s vulnerable)
 _________________
 

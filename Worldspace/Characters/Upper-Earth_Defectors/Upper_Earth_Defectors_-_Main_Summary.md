@@ -1,4 +1,4 @@
-# Upper Earth Defectors & Echo Camp
+# Upper Earth Defectors
 
 **File:** `Upper_Earth_Defectors_and_Echo_Camp.md`
 **Location:** `Worldspace/Characters/Defectors/` (or `Worldspace/Locations-and-Levels/Concordia-City/`)
@@ -22,7 +22,7 @@ Upper Earth military defectors have arrived in Concordia as refugees. Due to dee
 ## 2. Locations & Integration Levels
 
 **Primary Holding Area**
-- **Echo Camp** (also called “The Fringe Barracks”) — Located on the outer fringes, between Sagittarius frontier zones and Virgo Undergrid access points.
+- **Defector Settlement (TBN)** — Located on the outer fringes, between Sagittarius frontier zones and Virgo Undergrid access points.
 
 **High-Security Facilities**
 - Underground or guarded sites near the **Neutral 13th District** and deep Virgo Undergrid (ideal for tying into the Power Grid Control Center).
@@ -70,7 +70,7 @@ Upper Earth military defectors have arrived in Concordia as refugees. Due to dee
 | **Aries**      | Power core security                 | Extremely restricted access; any incident causes instant hostility |
 | **Pisces**     | Black market & informants           | Pragmatics thrive here; Infiltrators hide easily |
 | **Gemini**     | Information & propaganda            | Prime target for Infiltrator misinformation |
-| **Sagittarius**| Main holding area (Echo Camp)       | Frontier attitude = slightly more tolerance |
+| **Sagittarius**| Main holding area (defector settlement, TBN) | Frontier attitude = slightly more tolerance |
 | **Neutral 13th**| High-security holding + Power Grid | Critical location for final reveals and security concerns |
 
 ---

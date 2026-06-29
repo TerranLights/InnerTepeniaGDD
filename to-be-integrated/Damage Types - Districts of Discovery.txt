@@ -1,0 +1,50 @@
+For each type, I’ve listed 3–5 districts where weapons or sources of that damage type would be particularly common or easy to acquire (based on district themes, prominent features, economy, and conflicts from the GDD). These are logical hotspots — not exclusive, just the strongest matches.
+
+Anti-Robot Specialization
+    • EMP / Disrupt
+Primary districts: Aquarius (experimental labs & EM research), Gemini (data nexus & server infrastructure), Aries (power grid & military electronics), Virgo (undergrid maintenance & high-voltage systems).
+    • Lightning (Electrical)
+Primary districts: Aries (geothermal/power core surges), Capricorn (heavy industrial machinery & power tools), Aquarius (high-energy experiments), Gemini (communication arrays & transformers).
+    • Acid (Corrosive)
+Primary districts: Capricorn (industrial chemical plants & refineries), Pisces (black market chemical weapons), Virgo (undergrid pipes & waste processing), Aquarius (experimental nanite/acid solutions).
+    • Radiation (Ionizing)
+Primary districts: Aries (old reactor backups & power core leaks), Aquarius (experimental nuclear/particle research), Capricorn (siligel processing & radioactive byproducts), Scorpio (legacy contamination in death ward).
+    • Plasma
+Primary districts: Aries (military plasma containment & power tech), Aquarius (advanced energy weapons labs), Capricorn (industrial plasma cutters & forges).
+    • Neural / Interface
+Primary districts: Gemini (data & neural interface tech), Aquarius (cyberware & brain-machine research), Scorpio (psychological/neural transformation facilities), Pisces (black market neural hacks).
+    • Cold (Cryogenic)
+Primary districts: Sagittarius (Frostlands expedition gear & cryo storage), Virgo (undergrid cooling systems), Aquarius (experimental cryotech), Aries (power plant coolant backups).
+    • Slashing
+Primary districts: Capricorn (industrial saws & monowire tools), Pisces (black market blades & monofilament), Virgo (maintenance cutting tools), Leo (performance props & edged weapons).
+
+Anti-Human Specialization
+    • Poison (Toxic/Biological)
+Primary districts: Pisces (black market toxins & chems), Capricorn (industrial pollutants & waste), Scorpio (medical/chemical experimentation in death ward), Cancer (pharmaceutical & bioweapon research gone wrong).
+    • Necrotic (Biological Decay)
+Primary districts: Scorpio (death ward & transformative decay tech), Pisces (black market bio-weapons), Capricorn (contaminated industrial runoff), Virgo (undergrid biological waste).
+    • Radiation (Ionizing)
+(See Anti-Robot list — also strong in Aries, Aquarius, Capricorn, Scorpio)
+    • Psychic / Neural
+Primary districts: Scorpio (psychological & neural disruption facilities), Gemini (data-memetic warfare tech), Aquarius (cognitive experimentation), Leo (sensory overload via performances/infrasound).
+    • Fire / Thermal
+Primary districts: Aries (geothermal vents & plasma torches), Capricorn (foundries & incendiary manufacturing), Pisces (black market incendiaries), Leo (pyrotechnic performance gear).
+    • Acid (Corrosive)
+(See Anti-Robot list — also strong vs. humans in Capricorn, Pisces, Virgo, Aquarius)
+    • Bludgeoning
+Primary districts: Taurus (residential riot gear & improvised clubs), Leo (arena/performance blunt props), Capricorn (industrial hammers & presses), Sagittarius (Frostlands expedition mauls).
+    • Thunder (Sonic)
+Primary districts: Leo (amphitheaters & sonic performance tech), Scorpio (infrasound psychological weapons), Virgo (undergrid acoustic maintenance tools), Aquarius (experimental sonic weaponry).
+
+Shared / Versatile Damage Types
+    • Force (Kinetic/Concussive)
+Primary districts: Aries (military explosives), Capricorn (industrial mass drivers & presses), Sagittarius (Frostlands heavy weaponry), Taurus (residential defensive gear).
+    • Piercing
+Primary districts: Aries (military railguns & AP rounds), Pisces (black market penetrators), Capricorn (precision industrial tools), Sagittarius (expedition armor-piercing).
+    • Radiant (Laser / Coherent Energy)
+Primary districts: Aquarius (laser & particle beam research), Aries (military energy weapons), Gemini (precision data/optical systems), Capricorn (industrial lasers).
+    • Gravitic / Inertial (if implemented)
+Primary districts: Aquarius (experimental gravity/acceleration tech), Aries (military inertial dampeners & mass weapons), Capricorn (heavy industrial manipulators).
+
+These district associations reinforce the circular map identity and make exploration rewarding — players will naturally gravitate to certain districts for specific build types. It also ties beautifully into the power-grid story: stabilizing Aries might increase availability of electrical/plasma weapons, while favoring Aquarius could flood the city with experimental Radiation/Neural gear, creating reactivity.
+

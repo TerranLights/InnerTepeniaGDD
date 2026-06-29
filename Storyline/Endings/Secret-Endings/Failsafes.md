@@ -342,14 +342,14 @@ Calethina's loyalists are crippled and leaderless. Any remaining hope of externa
 The ultimate "sides with the outsiders" ending. When every district in Concordia has branded you an enemy, the Upper Earth defectors — Remorseful, Pragmatics, and Infiltrators — see you as their best chance for survival, power, or revenge. You can become a bridge, a conqueror, a betrayer, or a tragic unifier.
 
 **Trigger**
-A specific physical document exists at Echo Camp's outer boundary — not inside the camp's controlled area, but at the perimeter, where it could have been left deliberately or blown there. It is a manifesto or communiqué from one of the defector factions, describing their situation and, in its language, making obvious that they have been watching Concordia's most condemned individual with specific interest. It does not address the player by name. It describes, in general terms, the kind of person who would be useful to them — and the description matches. Finding and reading this document at the perimeter is the trigger. No defector NPC needs to make contact first.
+A specific physical document exists at the defector settlement's (TBN) outer boundary — not inside the camp's controlled area, but at the perimeter, where it could have been left deliberately or blown there. It is a manifesto or communiqué from one of the defector factions, describing their situation and, in its language, making obvious that they have been watching Concordia's most condemned individual with specific interest. It does not address the player by name. It describes, in general terms, the kind of person who would be useful to them — and the description matches. Finding and reading this document at the perimeter is the trigger. No defector NPC needs to make contact first.
 
 **Trigger Notes**
 - Hated/Vilified status with every Concordia district is required
-- Prior positive interaction with Echo Camp or defector facilities (through exploration or earlier quests) provides context but is not required to find the document
+- Prior positive interaction with the defector settlement (TBN) or defector facilities (through exploration or earlier quests) provides context but is not required to find the document
 
 **How it becomes possible**
-- **Stage 1 — Contact:** Following the document's implicit invitation into Echo Camp proper, where encrypted messages, coded locations, and eventually face-to-face meetings with different defector faction representatives become possible
+- **Stage 1 — Contact:** Following the document's implicit invitation into the defector settlement (TBN) proper, where encrypted messages, coded locations, and eventually face-to-face meetings with different defector faction representatives become possible
 - **Stage 2 — Internal Conflict:** The player must navigate tensions between the Remorseful, Pragmatics, and Infiltrators — three factions with incompatible goals — while evading Concordia's growing hostility
 - **Stage 3 — Final Choice:** The major branching decision point that determines the resolution
 
@@ -373,7 +373,7 @@ The Upper Earth defector situation, which Concordia had managed to contain or at
 
 **Minor Negative Effects**
 - Concordia's already-fractured governance now has an external complication it can neither contain nor negotiate with through any existing institutional process
-- Echo Camp becomes a permanent fixture that all districts must account for politically, drawing resources and attention away from the internal energy crisis
+- The defector settlement (TBN) becomes a permanent fixture that all districts must account for politically, drawing resources and attention away from the internal energy crisis
 - Sagittarius' frontier culture is permanently altered by the presence of organized defector activity in or near its territory; the district's libertarian streak now has to choose sides
 - The defectors' specific grievances — what they were fleeing from in Upper Earth — are now on the table as legitimate political questions, which reopens historical debates the city has avoided for decades
 - Whichever defector faction the player ultimately empowered uses that power in ways that benefit themselves first and Concordia second, producing a new class of grievance in whatever outcome follows

@@ -14,12 +14,12 @@
 
 ### 3. Leo (TBN-district) – Cultural / PerformativeNatural Allies:
 * Gemini (Janbogo Subnet Nexus) — Primary. Culture needs strong information networks, promotion, and audience reach. Gemini’s data hubs and communication systems are perfect for broadcasting festivals, performances, and artistic movements.
-* Pisces (TBN Black Market) — Interesting secondary (gray-market synergy). Underground cultural scenes, black-market art, and illicit entertainment venues thrive in Pisces’ chaotic environment.
+* Pisces / The Markets — Interesting secondary (gray-market synergy). Underground cultural scenes, black-market art, and illicit entertainment venues thrive in Pisces’ chaotic environment.
 ### Why they work well together:
 * Leo brings the spectacle and emotional release; Gemini amplifies it city-wide. The Enneagram Assertive + Feeling energy in Leo pairs naturally with Gemini’s information flow.
 
 ### 4. Scorpio (TBN-district) – Psychological / TransformativeNatural Allies:
-* Aquarius (TBN-district Quarter) — Primary. Both deal with radical change, experimentation, and pushing human/robot boundaries. Scorpio’s rebirth clinics and transformation work align with Aquarius’ hybrid tech and enhancement research.
+* Aquarius / The Labs — Primary. Both deal with radical change, experimentation, and pushing human/robot boundaries. Scorpio’s rebirth clinics and transformation work align with Aquarius’ hybrid tech and enhancement research.
 * Cancer (TBN-district) — Secondary. Deep psychological work often requires emotional support, grief processing, and safe spaces for the vulnerable undergoing transformation.
 ### Why they work well together:
 * Shared intensity around personal/collective transformation. They can collaborate on ethical “rebirth” programs or trauma-recovery tech while facing similar external suspicion from more conservative districts.
@@ -36,7 +36,7 @@
 ### Why they work well together:
 * Shared drive toward production, efficiency, and long-term building. Capricorn’s disciplined ambition pairs well with Gemini’s information infrastructure.
 
-### 7. Aquarius (TBN-district Quarter) – Visionary / ExperimentalNatural Allies:
+### 7. Aquarius / The Labs – Visionary / ExperimentalNatural Allies:
 * Gemini (Janbogo Subnet Nexus) — Primary. Research generates and depends on massive amounts of data, verification, and information exchange.
 * Scorpio (TBN-district) — Strong secondary (mutual as above).
 ### Why they work well together:
@@ -49,19 +49,19 @@
 * Both are system-oriented and dutiful (Compliant + Thinking/Competency). Libra sets the rules and balances competing interests; Virgo ensures the physical systems behind those rules keep working.
 
 ### 9. Gemini (Janbogo Subnet Nexus) – Information / CommunicationNatural Allies:
-* Aquarius (TBN-district) — Primary (mutual as above).
+* Aquarius / The Labs — Primary (mutual as above).
 * Leo (TBN-district) — Strong secondary (mutual as above).
 ### Why they work well together:
 * Information is the lifeblood of both innovation (Aquarius) and culture (Leo). Gemini acts as the connective tissue that amplifies both.
 
-### 10. Pisces (TBN Black Market) – Black Market / UnderworldNatural Allies:
+### 10. Pisces / The Markets – Black Market / UnderworldNatural Allies:
 * Sagittarius (The Frostlands) — Interesting primary. Frontier expansion and smuggling routes often go hand-in-hand. Pisces’ illicit trade can supply (and be supplied by) the outer frontier.
 * Scorpio (TBN-district) — Secondary thematic overlap. Both operate in morally gray, intense, transformative spaces (vice, underground economies, personal change).
 ### Why they work well together:
 * Shared fluid, opportunistic, gray-area nature. They can form uneasy but mutually beneficial alliances around resource flows that bypass official channels.
 
 ### 11. Sagittarius (The Frostlands) – Frontier / ExplorationNatural Allies:
-* Pisces (TBN Black Market) — Primary (mutual as above).
+* Pisces / The Markets — Primary (mutual as above).
 * Aries (TBN-district) — Good secondary. Frontier outposts need reliable power and heat pushed outward.
 ### Why they work well together:
 * Both have an outward, expansive, somewhat rebellious spirit against central control. They thrive on pushing boundaries (literal and figurative).

@@ -1,0 +1,45 @@
+1. Core Mechanics & Systems (Highest Priority – Foundation for Everything Else)The README explicitly calls these out as current focus areas. They’re partially documented but need concrete implementation details, examples, and balancing logic to make the game feel playable and synergistic.
+    • Expand/Refine Combat (Signature Abilities, Targeting System, Full DT/DR Integration)
+Why: AP economy + MACHINE stats are defined, but combat lacks enough "teeth" and examples. District armor augmentations exist conceptually.
+Next steps: 
+        ◦ Flesh out Signature Abilities.md with 3–5 examples per stat focus (e.g., high Might: powerful melee/overcharge; high Investigation: weak-point targeting/analyze). Tie costs to AP and synergies (e.g., Engine reduces overheat risk).
+        ◦ Detail Targeting_System.md: cover cone/AoE/line, cover mechanics, elevation (if any), Investigation bonuses for called shots.
+        ◦ Create a simple balance table/spreadsheet for DT/DR values by level/stat investment + armor examples. Test mentally against speedrun vs. narrative play.
+        ◦ Add damage type interactions (e.g., Disrupt/EMP strong vs. high-tech districts like Aquarius/Gemini).
+    • Perks, Traits, Skills – Full Lists & Balancing
+Why: Categories (regular level-up, challenge/task-based, special/unique, post-Idolization) and preliminary suggestions exist. Progression formula is there.
+Next steps: 
+        ◦ Expand Perks.md and sub-files with 10–20 concrete perk ideas, grouped by stat/theme/district. Include prerequisites, AP/stat synergies, and trade-offs.
+        ◦ Flesh out Traits.md with 8–12 double-edged starting options (e.g., one that boosts Engine but penalizes Nerve in social checks).
+        ◦ Complete Skills.md with full list, caps, tagged bonuses, and non-combat uses (Investigation for district secrets, Humanity for faction rep, etc.).
+        ◦ Add a "Perk Synergy Web" or decision tree doc showing how they interact with districts/story choices.
+    • AP Economy Tuning & Edge Cases
+Why: Core formulas are strong, but real gameplay feel needs validation.
+Next steps: Document common scenarios (e.g., "glass cannon Agility build vs. efficient Engine tank"), leftover AP conversion rules, perk/item interactions that grant "free" actions, and how it scales with level. Consider a simple simulation (even mental or quick code sketch) for balance.
+2. World Integration & Reactivity (Districts + Story – Makes the Setting Alive)The map and District_Prominent_Features.md + Regional-Characteristics files are excellent. Now connect them to gameplay loops and the central power-grid story.
+    • District-Specific Content & Reactivity
+Why: Features are listed (hear ths in Cancer, data spires in Gemini, hidden bazaars in Pisces, etc.). This is ripe for quests, NPCs, events, and consequences. Ties perfectly to the color-coded map and power decisions.
+Next steps:
+        ◦ For each district, outline 2–4 key quests/side activities, notable NPCs (beyond templates), and environmental interactions (e.g., hacking power conduits in Aries, social intrigue in Libra).
+        ◦ Create a District Reactivity Matrix or decision tree: How each district’s loyalty, resources, and events change based on power source/distribution/governance choices (e.g., prioritizing Aries might anger Taurus/Cancer but boost industrial output).
+        ◦ Expand hostility/conflicts files into playable mechanics (reputation systems, district-specific events during blackouts or stabilization).
+        ◦ Link to radio stations (Concordia_Radio file) – draft sample broadcasts that react to player actions.
+    • Main Story & Power-Grid Decision Tree
+Why: High-level proposal and modular chapters exist; "bittersweet endings with trade-offs" is the core philosophy. Needs concrete branches and consequences.
+Next steps:
+        ◦ Build a detailed Power Grid Decision Tree (or flowchart): Specific options for sources (geothermal deep in Aries?, experimental in Aquarius?, backups, alternatives), distribution philosophies, governance models, with pros/cons, faction impacts, and short/long-term outcomes.
+        ◦ Flesh out Act progression files with key scenes, choice points, and Calethina integration (when she becomes more than minor).
+        ◦ Outline 4–6 major ending variations (plus secret ones) with epilogue beats tied to cumulative district states and player philosophy.
+        ◦ Add "why not just fix the grid" reasons and Act 1 starting tasks for better onboarding.
+3. Supporting Systems & Logic (Depth & Cohesion)
+    • Exploration, Non-Combat, & Investigation Uses
+Flesh out how Investigation, Humanity, and Hacking interact with districts, Arcanet terminals, undergrid (Virgo), black market (Pisces), and Frostlands expeditions. Add simple minigames or skill challenges tied to the map.
+    • Factions, Reputation & Companion Systems
+Preliminary faction ideas and district conflicts exist. Define reputation mechanics (how power choices shift standings) and expand Calethina’s questline/synergies. Add 1–2 more companion concepts if desired.
+    • Technical Architecture, Moddability & Data-Driven Design
+There’s a Technical_Architecture.md note. Expand it with specifics: how perks/items/district data are stored (JSON/tables for easy modding), scripting hooks for reactivity, and balance tools.
+    • Balance, Difficulty & Player Experience Logic 
+        ◦ Speedrun vs. narrative accessibility paths (already a strength—lean into it).
+        ◦ Difficulty curves, optional challenges, and "Idolized" district states as power-ups.
+        ◦ UI/feedback loops (clear AP display, district atmosphere cues matching the features doc).
+
