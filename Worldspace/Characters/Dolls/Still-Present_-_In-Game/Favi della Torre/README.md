@@ -6,7 +6,7 @@
 **Primary Location(s):** Taurus (Residential district)
 **Affiliation(s):** Eyes of Gold (primary loyalty); The Steady Watch (operational — name TBD; neighborhood preparedness network)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Humanity ≥ 6, Engine ≥ 6; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** Italy; built as an assistant to an elderly scientist — his "extra set of eyes and ears" to cross-check results and correct errors
@@ -40,7 +40,14 @@
 - **Structural Safety Assessment:** She can assess whether a situation, location, or arrangement has the technical and physical hallmarks of being genuine versus a setup — communicated through companion dialogue, not a UI element. Fires on structural and logistical errors: a meeting location laid out like a trap, claimed infrastructure that doesn't exist, a stated background that doesn't hold together factually. Cannot assess emotional intent. Someone genuinely dangerous who has constructed a technically sound cover will fool her.
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SED193-06 portrait; Antarctica sniper AI context image.)*
+
+Dark brown hair with warm auburn highlights that catch the light, worn loose. Amber-brown eyes — warm in tone but direct and fixed in quality. Red lips, strong bone structure. The physical reference portrait shows her in an outdoor warm-light setting with a pendant necklace; the gaze is striking and immediate — she is assessing you with the same precision she brings to everything, and she knows you know it.
+
+The AI context image is the character-defining shot: same face, now in a camouflage tactical outfit, standing against a sci-fi Antarctic cityscape, holding a large sniper rifle comfortably — not posed with it, just holding it the way you hold a tool you have used for a long time. The rifle and the face are exactly consistent with each other. Patient, precise, and capable of significant distances.
+
+She reads as: the person who, when she has decided something needs to happen, will make it happen from a very long way away and will not miss. The politeness in how she speaks to you is genuine. The distance in it is also genuine.
 
 ## Personality & Voice
 - Core summary: Kind and polite, but not warm. She genuinely appreciates people and is pleasant to be around, but she consciously manages how far anyone gets in. There is always a slight, noticeable distance — not coldness, but a controlled perimeter. People in Taurus sense it and have come to understand it as simply how she is. She is calculating, precise, and patient in everything — built to be a double-checker, and she has never stopped operating that way.

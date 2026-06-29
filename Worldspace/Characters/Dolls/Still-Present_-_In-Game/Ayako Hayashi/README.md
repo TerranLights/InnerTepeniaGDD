@@ -4,8 +4,9 @@
 
 **Role / Archetype:** Base-of-operations medic; esteemed Red Spiral member; possible faction leader (TBD)
 **Primary Location(s):** Red Spiral base/clinic (district TBD)
-**Affiliation(s):** The Red Spiral
-**Companion Potential:** Major NPC confirmed; companion status TBD
+**Affiliation(s):** The Red Spiral (non-geographical faction; HQ in Cancer district — the medical district of Concordia; operates across all districts, analogous to the Followers of the Apocalypse in Fallout: New Vegas)
+**Companion Potential:** Yes — recruitable companion (conditions TBD)
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Investigation ≥ 7, Humanity ≥ 6, Calculation ≥ 6; full romance beat design in Companion_System.md
 
 ---
 
@@ -40,7 +41,7 @@ Two reference image sets exist in `Reference_Images/`:
 - **Behavior under stress or in different districts:** TBD
 - **Moral tendencies & player influence:** TBD
 
-**Comparable NPC:** Julie Farkas (Fallout: New Vegas) — stable, professional, base-of-operations presence; strong moral convictions about medicine; questgiver and information source; not primarily a combat character. Ayako is not Julie Farkas, but the structural role is similar.
+**Comparable NPC:** Arcade Gannon (Fallout: New Vegas) — recruitable companion; medical background; intellectual depth and dry wit; strong moral convictions; personal questline that goes somewhere deep and concerns identity and legacy. Ayako is not Arcade Gannon, but the structural companion role is similar.
 
 ---
 
@@ -89,8 +90,32 @@ Full questline details in `Questlines/`.
 
 ## Design Notes & Open Questions
 
-- **Art/fashion ↔ medicine intersection:** How explicitly does her art background surface in her medical work and dialogue? Does she still maintain a creative practice alongside medicine, or has medicine become her primary expression of the same underlying sensibility? Worth developing when her questline is written.
-- **Red Spiral leadership:** Is she the leader? If yes, what does leading a cross-district humanitarian faction in a dying city actually look like?
-- **Companion status:** Major NPC confirmed. Companion (recruitable/romance/rivalry) TBD.
+- **Player Home — Leo District:** Mid-height Leo building — not ground floor (separation from the district's performance energy), not penthouse. Leo exterior: expressive, theatrical bones. Her unit is the quietest space on the block.
+
+  **The atelier** (largest room; gravitational center of the home):
+  - Two dress forms — one standard, one adjusted to her own measurements for personal pieces
+  - Cutting table with measuring mat surface worn smooth from decades of use; tools beside it clean and organized
+  - Fabric storage along one wall, organized by material type then color; Japanese textiles among them, some pre-exile, carefully preserved
+  - Corkboard and bare wall section covered in pattern drafts — finished and in-progress
+  - A current garment in progress (examinable; she'll discuss it at length if asked — one of the few topics she volunteers on)
+  - Fashion sketchbooks — current one open on the table, older ones shelved in sequence going back to Japan; the earliest handled more carefully than the rest
+  - One complete garment on a single hook near the window — clearly not inventory; she doesn't volunteer what it is
+
+  **The living area** (smaller; Japanese-influenced proportions — low furniture, deliberate negative space):
+  - Mementos of the man she lost — a small, specific arrangement (photograph; something he owned or made; possibly a book with his handwriting in the margins). Not a shrine, not minimized. Exact items TBD when his character is developed. She answers directly if asked, then moves on.
+  - Schopenhauer's *The World as Will and Representation* on the shelf — spine worn, clearly read more than once; dialogue hook available if the player examines it
+  - Other books: aesthetics, art theory, fashion history, philosophy, small number of medical references
+  - One piece of her own earlier artwork on the wall — one of the few she kept; something personal, not her most-known work
+  - Japanese ceramics (functional, not display); floor cushion and low table for reading
+
+  **The bedroom** (most austere room — minimal, private):
+  - One or two personal items, nothing requiring explanation
+  - Red Spiral uniform hanging separately from her own clothes — clean, pressed, distinct
+
+  **What the home communicates:** This person has been building this space for a long time. The atelier is where she actually lives. Everything else sustains whoever runs the atelier. The mementos are present the way a fact is present — not dramatized, not concealed.
+
+- **Art/fashion ↔ medicine intersection:** Fashion design is her primary ongoing creative practice; art is secondary. The precision and care for form that defined her art practice carry directly into her medical work — she did not leave one career behind for another. How explicitly this surfaces in dialogue and medical work is worth developing when her questline is written.
+- **Red Spiral leadership:** She is confirmed NOT the leader of the Red Spiral. Her rank and specific role within the faction are TBD; the identity of the actual leader is TBD and requires future design work.
+- **Companion status:** Recruitable companion confirmed. Romance confirmed; stat thresholds and beat design complete — see Companion_System.md.
 - **Japan lore:** Japan is confirmed as one of the three Jeju-do powers. Ayako's specific background within pre-exile Japan is TBD and should be developed in coordination with any Japan/Upper Earth lore written later.
 - **Uniform design:** Her Red Spiral uniform should reflect her aesthetic sensibility — the reference images suggest she has already influenced how it looks.

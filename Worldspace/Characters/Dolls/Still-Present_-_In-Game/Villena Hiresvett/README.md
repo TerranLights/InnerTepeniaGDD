@@ -6,7 +6,7 @@
 **Primary Location(s):** Leo (Entertainment district)
 **Affiliation(s):** Independent; 2–3 regular venue residencies (names TBD); Star War affiliation TBD
 **Companion Potential:** Yes — recruitable companion
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Agility ≥ 6, Humanity ≥ 6, Nerve ≥ 5; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -34,7 +34,16 @@
 - Morale intelligence: understands how communities feel and function from years of professional morale work; a unique lens on Concordia's emotional undercurrents
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — 1K5A5645 reclining shot; Bezlya-DollDimension_7 standing shot.)*
+
+Honey blonde hair, long and straight with slight natural volume, worn down. Very light sky-blue eyes — almost pastel in their softness. Light skin, smooth features.
+
+The reference images are from a very specific aesthetic shoot: all-white, all-soft. In 1K5A5645 she's reclining on a glass-top table — white turtleneck bikini top with separate knit arm warmers, white string bikini bottoms, white thigh-high knit socks, white beret, a small pink flower tucked into her hair beside it. In Bezlya_7 she's standing and doing an open double peace sign at the camera — same beret, same aesthetic, pink and purple ribbon bow clips now in her hair alongside the beret. White open-sided knit bodycon sweater and matching bikini bottom.
+
+The peace signs in Bezlya_7 are not ironic. She is genuinely performing this persona — the approachable, cute entertainer — and she does it fluently. What's notable is that in 1K5A5645 her expression doesn't quite match the rest of the performance: lips slightly parted, eyes not fully holding the pose. Someone visible underneath the persona, briefly.
+
+She reads as: someone who built a very specific public identity and lives inside it most of the time, but the identity is protective as much as it is expressive.
 
 ## Personality & Voice
 - Core summary: TBD

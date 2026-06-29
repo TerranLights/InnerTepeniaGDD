@@ -6,7 +6,7 @@
 **Primary Location(s):** Scorpio (Psychological/Transformative district)
 **Affiliation(s):** Scorpio Goth community (sacred-transformation tradition, not clinical side)
 **Companion Potential:** Yes — recruitable companion
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Might ≥ 6, Humanity ≥ 6 (possibly 7 — TBD); full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -40,7 +40,16 @@
 - **Sincerity Detection:** Her Sx subtype makes her immediately attuned to whether someone is being genuine or performing emotional engagement in a direct, one-to-one encounter. Not broad social intelligence — she does not have the stats for that. Specifically: she can tell when someone is going through the motions of sincerity without meaning it. This fires in direct personal encounters, not group social dynamics.
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — 5A8A0973-1 portrait; 5A8A1202 armchair shot.)*
+
+Dark brown hair — noticeably brown, not black, with lighter auburn highlights that catch the dramatic rim lighting in both reference images. Medium length, flowing loosely. Clear blue eyes; the blue is vivid and cold against the warm skin tone and dark hair. Fair-to-medium skin, slightly flushed at the cheeks. Wearing a white Victorian-inspired lace blouse — delicate, embroidered at the shoulders, slightly sheer, modest at the neckline. Black theatrical ram horns are worn in both shots as a photoshoot prop; the combination of white/soft dress and dark gothic horns is less at war with itself than it first appears — both share the same quality of theater.
+
+Portrait (5A8A0973-1): Direct gaze upward. The expression is neither cold nor warm — it is direct, controlled. Force held at a specific, chosen level. There is significant power underneath it that is not being concealed so much as governed.
+
+Armchair (5A8A1202): Same face, marginally more open — she has let the guard down by one degree. The expression is fractionally younger and less armored than the standing portrait.
+
+She reads as: someone whose visual presentation says "I am not fragile" while the white dress says "I was soft once." Both are simultaneously true, and she knows it.
 
 ## Personality & Voice
 - Core summary: Intense and specific in everything — her weapon, her art, her grief, her hatred. An Sx-8w7 who formed a complete bond with her husband and has been living with his absence ever since. Her Goth identity is not aesthetic posture; it is how she inhabits the reality of loss. The spiritual dimension is real and personal, not performed.

@@ -6,7 +6,7 @@
 **Primary Location(s):** Aquarius (The Labs) — still in Concordia, hidden within the district; testing facility (now ruins) is her last known public address
 **Affiliation(s):** Eyes of Gold (friend and technical partner, not a member)
 **Companion Potential:** Yes — main game companion
-**Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 8, Investigation ≥ 6, Humanity ≥ 6; full romance beat design in Companion_System.md. The undelivered letter is a separate gate outside the romance arc — see Companion_System.md design note.
 
 > **Full lore:** `Worldspace/Characters/Major_NPCs/Ji-Eun_Kim.md`
 
@@ -44,7 +44,18 @@
 - **Downstream Consequence Flagging:** *(flagged for possible revision)* Her 5w4 Social instinct is to think systemically about what choices do to the people connected to them. She names long-term implications of player decisions that no other companion notices — not moral lecturing, one sentence, then she stops. Subject to adjustment during Phase 3 personality finalization.
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — EW1A35111 "gentle office girl"; EW1A3615 "naughty girl next-door".)*
+
+Dark brown hair — almost black, with slight wave. Dark blue-grey eyes. Two distinct reference images that show two distinct registers of the same person.
+
+EW1A35111 ("gentle office girl"): Dark brown hair worn loose, dark blue-grey eyes, dressed in a grey professional jumpsuit with a grey cardigan over it. She's curled sideways into a large leather executive chair — not upright, not fully relaxed, something in between. Expression: composed, slightly guarded, faintly melancholy in the eye shape. Someone who lives in controlled professional spaces and has arranged themselves in one now.
+
+EW1A3615 ("naughty girl next-door"): The same face, but the hair reads darker, with fringe bangs — a slightly different configuration. Blue ribbed long-sleeve crop top. Seated in a hanging wicker basket chair, expression softer and more open. Younger energy. The same intelligence in the eyes, but more accessible.
+
+The two images together show a person who has more than one way of being in a room. The professional version is not false. The relaxed version is also not false. She can move between them, and most people only see one.
+
+She reads as: someone for whom trust is something earned in specific directions, and who manages what different people see of her with careful, deliberate attention.
 
 ## Personality & Voice
 - Core summary: Deeply competent and aware of it, without arrogance. Pragmatic about institutions — she has learned they will not protect her, so she works around them rather than through them. Not without warmth, but precise about where she extends it.

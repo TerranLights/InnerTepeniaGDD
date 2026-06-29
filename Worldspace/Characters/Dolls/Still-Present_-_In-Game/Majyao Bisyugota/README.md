@@ -30,7 +30,14 @@
 **Key Traits / Notable Perks (companion-relevant):** N/A — NPC
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Una_01 series; Antarctica teahouse AI context image.)*
+
+Dark brown hair with side-swept bangs that frame her face without fully covering it. Soft, warm East Asian features — nothing sharp or angular. The physical reference image shows her seated in a woven rattan chair by a diffuse-lit window, both hands wrapped around a white mug, wearing a warm brown ribbed knit sweater. Expression: quiet, inward, comfortable in stillness. Not sad — present. A small pearl stud earring. She dresses for warmth and ease, not to be seen.
+
+The AI context image shows the same face in her teahouse: wearing a copper-gold qipao with elaborate phoenix and peony embroidery, a deep neckline, and a high side slit — more dressed than the reference photo, but not more performed. Barefoot. Standing in a modern teahouse with floor-to-ceiling panoramic windows overlooking Antarctic ice and aurora borealis. Chinese lanterns overhead. Coffee equipment visible behind her. The setting is exactly what she would build — a fusion of traditional Chinese warmth and the world she chose to stay in.
+
+She reads as: someone whose warmth is genuine and whose beauty is unannounced. She is not performing anything. She is simply in the space she has made.
 
 ## Personality & Voice
 - Core summary: Warm, loving, deeply intentional. She interacts directly with every patron and genuinely wants everyone who walks through her door to feel better than when they arrived. At the same time the teahouse is an extension of her interior world — every detail chosen, nothing arbitrary. The warmth is real; the curation is also real. Both exist simultaneously and neither cancels the other.
@@ -63,6 +70,8 @@ See `Personal_Background/` for details as they develop.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
+- **Romance stat thresholds:** Humanity ≥ 7 (primary), Investigation ≥ 6 (secondary), Calculation ≥ 6 (tertiary). Full romance design in Companion_System.md.
+- **Blood River Tea — romance thread expansion:** The Blood River Tea beat in her romance arc (beat 4 — optional) is flagged for expansion when the Frostlands/Taylor Valley questline thread is developed. Bringing news of or a sample of Blood River Tea opens a response unique among all interactions with her. Expand during Blood River Tea questline design phase.
 - **Origin:** Her original coffee and teahouse was in Janbogo, where it became famous throughout Tepenia. The Concordia teahouse is her second — chosen deliberately when she decided to stay on Earth rather than flee through Amundsen Tower.
 - **Coffee and tea:** She serves both, not tea only. The original Janbogo establishment was a coffee and teahouse. The Concordia version is the same.
 - **The teahouse:** A warm, serene sanctuary for the tired, weary, overworked, and overstressed. A place to forget for a few hours that life in post-war Antarctica is brutal. Name TBD.

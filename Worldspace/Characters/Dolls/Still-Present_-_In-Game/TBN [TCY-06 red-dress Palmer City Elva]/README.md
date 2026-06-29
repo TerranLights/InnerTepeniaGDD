@@ -32,7 +32,14 @@
 **Working Name (folder reference):** "Elva" — personal name TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Elva_red series.)*
+
+Dark brown hair — very full, voluminous curls and waves, abundant and dramatic. Grey-blue eyes with a cool, deliberate quality. Red lips, dark red nails. The folder designation says it: she is the red dress character. A tight, body-conscious red off-shoulder dress that ends at the mid-thigh. Expression: direct and measuring — not aggressive, but with absolute clarity about what she is evaluating and very little interest in pretending otherwise.
+
+The billiards table is visible in the background across the series — same studio setting as Maria — but she is not touching it. The table reads as an ambient detail, not her territory. Her territory is social, not spatial.
+
+She reads as: someone who knows exactly what she wants from a room and is deciding whether you qualify before you've finished introducing yourself.
 
 ## Personality & Voice
 - Core summary: TBD

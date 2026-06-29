@@ -29,7 +29,14 @@
 **Key Traits / Notable Perks (companion-relevant):** TBD
 
 ## Visual Description
-(See `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Bezlya-DollDimension series.)*
+
+Jet-black hair in a high messy bun with straight fringe bangs falling forward across her forehead. The defining feature is the eyes: vivid cobalt blue — almost uncanny in their color saturation, immediately arresting. A small star-shaped jewel sticker placed just below the outer corner of one eye. Gold heart-drop earrings with stone insets. Purple velvet choker with a silver ring pendant.
+
+Signature outfit: a black pinstripe blazer worn open with no undershirt, black thigh-high stockings with a purple stripe at the top (matched to the choker), black heels. In the portrait shot her expression is direct and appraising — measuring the viewer, aware she has the advantage. In the full-body image her posture is composed and staged; one hand raised to her collar. She is comfortable being observed because she chose every element of what is being observed.
+
+She reads as: a 3w2 Pr who has assembled a very precise personal brand and wears it without any seams showing. The blue eyes are too striking to be accidental. Nothing about this presentation is accidental.
 
 ## Personality & Voice
 - Core summary: TBD

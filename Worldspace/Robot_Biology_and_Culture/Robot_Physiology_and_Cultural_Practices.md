@@ -70,6 +70,14 @@ What exactly a robot experiences when smoking varies by individual and is delibe
 
 ---
 
+## Sexuality
+
+Robots in Concordia are bisexual by default. They do not organize attraction by the gender of their partner. This applies universally across all robot characters — companions and NPCs alike.
+
+This is distinct from human characters in the world, who are heterosexual. The difference is not framed as a judgment in either direction — it is simply a feature of how robots experience and express attraction, consistent with their different relationship to embodiment, identity, and social organization.
+
+---
+
 ## Notes and Open Questions
 
 - **Siligel** — full composition and mechanical function TBD; canon as "robot food"
