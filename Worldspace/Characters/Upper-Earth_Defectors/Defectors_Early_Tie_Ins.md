@@ -10,7 +10,7 @@ Some defectors (especially Pragmatics and certain Remorseful ones) possess techn
 * As early as Act 1, defectors can offer the player alternative solutions to district blackouts or power shortages.
 * This creates a genuine branching path in the energy crisis questline: 
 	* Main path: Work through Concordia districts and Calethina. 
-	* Defector path: Seek help from Echo Camp / defectors for technical shortcuts or “forbidden” knowledge.
+	* Defector path: Seek help from the defector settlement (TBN) / defectors for technical shortcuts or “forbidden” knowledge.
 * Risk: Using defector methods can damage the player’s reputation with districts faster, or cause unexpected side effects (e.g., temporary power surges or instability).
 This makes siding with defectors early feel like a valid strategic choice, not just a roleplay decision.
 

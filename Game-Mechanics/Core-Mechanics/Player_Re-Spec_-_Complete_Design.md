@@ -95,10 +95,10 @@ The person most capable of helping the protagonist stop being themselves kept do
 
 | Method | Location / District | Flavor | Risk Level | IF Cost |
 |--------|---------------------|--------|------------|---------|
-| **Black Market Neural Rewrite** | Pisces (Veil Market / Shadow Exchange) | Illegal underground neural surgeons; fast, discreet, dirty | Very High | High |
+| **Black Market Neural Rewrite** | Pisces (The Markets / Shadow Exchange) | Illegal underground neural surgeons; fast, discreet, dirty | Very High | High |
 | **Scorpio Rebirth Ritual** | Scorpio (Rebirth Clinics / Ritual Arenas) | Psychological breakdown and ritualistic reconstruction; you are torn apart and remade | Extremely High | Very High (may jump multiple IF stages) |
 | **Aquarius Experimental Overhaul** | Aquarius (Prototype Chambers / Robotics Institute) | Cutting-edge prototype augmentation and neural lattice reconfiguration; unpredictable | High | High |
-| **Aries Forge Rebuild** | Aries (Thermal Spire / Overclock Decks) | Heavy industrial cybernetic overhaul; treated like broken machinery being reforged | High | High |
+| **Aries Forge Rebuild** | Aries (The Power Core / Overclock Decks) | Heavy industrial cybernetic overhaul; treated like broken machinery being reforged | High | High |
 | **Virgo Deep System Purge** | Virgo (Undergrid Maintenance Hubs) | Full diagnostic purge and code rewrite by maintenance crews | Medium-High | Medium |
 | **Faction Oathbinding** | Libra (Council Chambers) or high-reputation faction leaders | A faction remolds you in exchange for permanent allegiance | High | High + permanent faction lock |
 | **Crisis / Environmental Event** | Various (story-triggered) | Accidental or forced re-spec during catastrophic event | Variable | Variable (uncontrollable) |

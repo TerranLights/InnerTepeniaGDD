@@ -2,7 +2,7 @@
 
 **Status:** Confirmed (developer-designed faction)
 **Type:** Cross-district intelligence and discipline faction
-**Primary District Presence:** Mountain Cut Industrial Zone (training grounds, dueling arenas)
+**Primary District Presence:** Capricorn (TBN) industrial zone (training grounds, dueling arenas)
 **Secondary Presence:** Cross-district — intelligence operatives embedded in all 13 districts
 
 ---
@@ -55,7 +55,7 @@ See: `Worldspace/Characters/Major_NPCs/Ji-Eun_Kim.md`
 
 ## Structure and Operations
 
-The Eyes of Gold do not maintain a public headquarters or formal institutional presence in the city's governance structures. Their Mountain Cut training grounds and dueling arenas are the closest thing to a known base — and these are partially public-facing, functioning as combat training facilities that anyone can observe while concealing the faction's actual intelligence infrastructure behind them.
+The Eyes of Gold do not maintain a public headquarters or formal institutional presence in the city's governance structures. Their Capricorn (TBN) training grounds and dueling arenas are the closest thing to a known base — and these are partially public-facing, functioning as combat training facilities that anyone can observe while concealing the faction's actual intelligence infrastructure behind them.
 
 Their operatives work across all 13 districts. Most do not publicly identify as Eyes of Gold members. Their faction standing is maintained through sustained demonstrated competence and ongoing contribution to the intelligence network.
 

@@ -47,7 +47,7 @@ For each district, here are **2–5 specific actions** the player can take that 
 - **Negative**: Steal proprietary prototypes or trade secrets.
 - **Negative**: Publicly undermine a supervisor in front of their team.
 
-### 7. Aquarius – TBN-district (Visionary / Experimental)
+### 7. Aquarius / The Labs (Visionary / Experimental)
 - **Positive**: Volunteer as a test subject for a risky new augmentation.
 - **Positive**: Help secure or recover a dangerous experimental prototype.
 - **Negative**: Steal or destroy cutting-edge research data.
@@ -68,7 +68,7 @@ For each district, here are **2–5 specific actions** the player can take that 
 - **Negative**: Destroy or corrupt critical information hubs.
 - **Negative**: Publicly betray a major information broker.
 
-### 10. Pisces – The TBN Black Market (Black Market / Underworld)
+### 10. Pisces / The Markets (Black Market / Underworld)
 - **Positive**: Successfully complete a high-stakes smuggling run.
 - **Positive**: Help protect a criminal safehouse from rival gangs.
 - **Negative**: Snitch on or inform against major criminal operations.

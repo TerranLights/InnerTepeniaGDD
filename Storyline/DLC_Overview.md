@@ -9,6 +9,7 @@ The **Mirny region** (Mirny, Casey, East Antarctic coast) is not covered by a de
 ---
 
 ## DLC 1 — South Pole
+**Working title (possible):** "Echoes of Amundsen" *(floated — not yet confirmed canon)*
 **Arcanet subnet:** Inter-subnet relay (neutral — not assigned to any subnet)
 **Central character:** Kendra Heinrich (robot, goddess of war, stranded at the South Pole)
 **Central location:** Amundsen Station ruins / Amundsen Tower scrap mountain
@@ -18,6 +19,19 @@ The **Mirny region** (Mirny, Casey, East Antarctic coast) is not covered by a de
 - Last synchronized pre-Split-Brain Arcanet archive — the only place where all six subnets' records can be reconciled
 - Natural anchor for the Planetary Split Brain questline (see TODO)
 - Extreme environment — South Pole conditions, full polar isolation
+
+**DLC trigger — Michelle Stanton:**
+Michelle Stanton is the primary point of contact for beginning this DLC. The player talks to Michelle; she provides the Kharkovchanka and teaches the player how to repair it if it breaks down ("this may take a few days to show you the basics" — analogous to Daisy teaching power armor operation in FNV's *For Auld Lang Syne*).
+
+A pre-trigger item or piece of evidence exists for players who do not yet know Michelle or are not on good terms with her — something the player can show her to establish the stakes and get her cooperation without an existing relationship.
+
+**If Michelle Stanton is dead:** The player can find the Kharkovchanka keys and Michelle's personal handwritten repair manual in her pockets or in her Gemini home. The player drives to the South Pole alone, without instruction.
+
+**The journey:**
+- The Kharkovchanka breaks down just short of the Amundsen Station ruins — far enough out that the remaining distance is extremely dangerous on foot
+- The player must walk from the breakdown point to the station
+- If the cold becomes too severe, the player can re-enter the Kharkovchanka for shelter — but doing so means backtracking to the breakdown point and starting the walk over again
+- The Kharkovchanka serves as a mobile base of last resort; every return to it costs progress
 
 ---
 
@@ -64,7 +78,7 @@ The **Mirny region** (Mirny, Casey, East Antarctic coast) is not covered by a de
 ## DLC 5 — Atlantic Coastal Region
 **Arcanet subnet:** Halley ("Atlantic")
 **Central location:** TBD (Halley, Belgrano, or another city in the region)
-**Central character:** TBD
+**Central character:** Salagéa Aparast (confirmed canon)
 **Main storyline:** TBD
 **Key lore assets:**
 - Atlantic/Queen Maud Land coast cities: Halley, Belgrano, Neumayer, Sanae, Troll, Aboa, Maitri, Princess Elizabeth, Dome Fuji (road-isolated, inland)

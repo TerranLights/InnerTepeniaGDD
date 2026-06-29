@@ -657,23 +657,28 @@ No standard player homes. This is intentional — District 13 is not a residenti
 
 ---
 
-## Companion Homes (Cross-Reference)
+## Romance-Unlocked Homes (Cross-Reference)
 
-For the complete design rule, see `Game-Mechanics/Core-Mechanics/Companion_System.md` — Romance Reward section.
+For the complete design rule, see `Game-Mechanics/Core-Mechanics/Companion_System.md` — Romance Reward section. All homes in this table are accessible only via romancing the character. Full designs are in `Romance_Unlocked_Homes.md`.
 
-Romancing a companion unlocks their personal home as a player home. All companion homes are in addition to standard homes. Calethina is the sole exception — no home to unlock.
+| Character | Companion? | District / Location | Notes |
+|-----------|------------|---------------------|-------|
+| Favi della Torre | Yes | Taurus | Designed |
+| Villena Hiresvett | Yes | Leo | Designed |
+| Naizelle d'Edjordoś | Yes | Pisces Fringe | Designed |
+| Seica Cenilaithe | Yes | Scorpio | Designed |
+| Ji-Eun Kim | Yes | Aquarius / The Labs | Designed |
+| Vosora Lashár Tanslock | Yes | Gemini / Janbogo | Designed (lighting detail TBD) |
+| TBN [IT-021 white shirt Fenny] | Yes | Taurus | Designed (preliminary — subject to revision) |
+| TBN [FW-25 Pink Lucy] | Yes | Leo (Entertainment cooperative) | Designed (preliminary — subject to revision) |
+| Michelle Stanton | Yes | Gemini / Janbogo | Designed |
+| Majyao Bisyugota | No — NPC | Taurus | Designed |
+| Kendra Heinrich | Yes | Capricorn (post-DLC 1, new lodgings) | Designed (settling-in mechanic — see README) |
+| Salagéa Aparast | Yes | DLC 5 territory | TBD — Phase 7 (post DLC 5) |
+| **Calethina** | **Yes** | **No home** | **Holographic projection — no physical dwelling** |
 
-| Companion | District / Location | Notes |
-|-----------|---------------------|-------|
-| Favi della Torre | Taurus | Design TBD |
-| Villena Hiresvett | Leo | Design TBD |
-| Naizelle d'Edjordoś | Pisces Fringe | Design TBD |
-| Seica Cenilaithe | TBD | Design TBD |
-| Ji-Eun Kim | TBD | Design TBD |
-| Vosora Lashár Tanslock | TBD | Design TBD |
-| TBN [IT-021 white shirt Fenny] | TBD | Design TBD |
-| TBN [FW-25 Pink Lucy] | Leo (Entertainment cooperative) | Design TBD |
-| Michelle Stanton | Gemini / Janbogo | Design TBD |
-| Kendra Heinrich | South Pole — Amundsen-Scott Station | Accessible after DLC 1 completion; design TBD Phase 7 |
-| Salagéa Aparast | DLC 5 territory | Design TBD Phase 7 |
-| **Calethina** | **No home** | **Holographic projection — no physical dwelling** |
+---
+
+## Romance-Unlocked Home Designs
+
+Full individual home designs are in `Romance_Unlocked_Homes.md`.

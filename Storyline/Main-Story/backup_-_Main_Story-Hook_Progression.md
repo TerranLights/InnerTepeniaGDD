@@ -63,7 +63,7 @@ After completing (or partially completing) the Junction 12 diagnostic in the **C
 - The player’s data-cores or investigations reveal that experimental projects in the Aquarius District are both causing and potentially solving parts of the crisis.
 - Optional: A request from the Governmental Apex or another faction sends the player to the Aquarius District for expert analysis.
 
-### 7. From Aquarius District / Frostlands → Aries District (Thermal Spire & Power Core)
+### 7. From Aquarius District / Frostlands → Aries District (The Power Core)
 
 **Possible Hooks**:
 - Analysis or samples from the Aquarius District or Frostlands indicate that the root problems (and potential fixes) lie deep in the Aries District itself.

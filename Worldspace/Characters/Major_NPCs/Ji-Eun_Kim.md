@@ -1,6 +1,6 @@
 # Ji-Eun Kim
 
-**Status:** Major NPC — main game vs. DLC inclusion TBD (developer preference is main game)
+**Status:** Main game companion — Aquarius / The Labs (confirmed canon)
 **Species:** Robot
 **Origin:** Unified Korea
 **Current status:** Unknown — location unknown, believed alive by Calethina
@@ -76,10 +76,7 @@ Her exile and continued work despite it suggest she values the work itself more 
 
 ## Status and Future Development
 
-- **Main game vs. DLC:** Two options under consideration:
-  - **DLC:** Starring role; the DLC is largely centered around her personal questline; she is located in a different region of Antarctica — not Concordia. This would explain why Calethina says "may still be alive" rather than confirming her survival: Ji-Eun left the Concordia area after the Long Night War and Calethina lost her signal. She would still be introduced in the main game through Calethina's narration and Eyes of Gold lore.
-  - **Main game:** Ji-Eun is in Concordia and gets a full main-game questline alongside the Calethina and Eyes of Gold threads.
-  Decision pending.
-- **Current location:** Unknown. Her testing facility is in Concordia — in ruins. If DLC, she relocated to another part of Antarctica after the Long Night War. If main game, she is somewhere in Concordia.
+- **Main game vs. DLC:** Main game companion — confirmed canon. Ji-Eun is alive and in Concordia, in the Aquarius / The Labs district. Her nanotech self-modification conceals her from Calethina's detection; Calethina's own degradation compounds the blindspot, explaining why Calethina registers her as "may still be alive" rather than confirming her survival.
+- **Current location:** Aquarius / The Labs, Concordia. Her original testing facility is in ruins elsewhere in the district.
 - **Questline:** Designed to emerge from the "Echoes of the Bridge" questline as its first major active thread. The player follows Calethina's knowledge to Ji-Eun's ruins, then follows Ji-Eun herself from there.
 - **Eyes of Gold connection:** The gold ocular prosthetic surgery scene — the player receiving the Eyes of Gold's rite of passage — ideally involves Ji-Eun Kim directly, either performing the surgery herself or her designs being used by a surgeon working from her specifications. This would tie the Calethina questline, the Eyes of Gold questline, and the player's faction reward into a single moment.

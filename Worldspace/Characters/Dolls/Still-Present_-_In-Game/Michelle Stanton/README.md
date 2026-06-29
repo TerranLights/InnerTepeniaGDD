@@ -53,7 +53,8 @@ Following the Long Night War she chose to take up permanent residence in Concord
 See `Personal_Background/` for details as they develop.
 
 ## Role in Main Story / World
-- Connection to larger narrative: TBD
+- **Connection to larger narrative:** Primary trigger for DLC 1 (South Pole — Kendra Heinrich rescue). She provides the Kharkovchanka and, if the relationship is established, teaches the player how to repair it before departure. A pre-trigger item exists for players who reach her without an existing relationship. If she is dead, keys and a handwritten repair manual are findable in her pockets or her home. See `Storyline/DLC_Overview.md` — DLC 1 entry for full trigger design.
+- **Great Corruption investigation:** The slow-verification half of the same inquiry Vosora Lashár Tanslock is running from the recovery side. Their coordination (or lack of it) has consequences for the investigation's outcome.
 - Initial meeting hook: TBD
 - "Not my problem" / hidden path potential: TBD
 
@@ -68,6 +69,9 @@ See `Personal_Background/` for details as they develop.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
+
+- **The Kharkovchanka and the choice to stay:** Michelle is one of the very few residents of Concordia who is technically capable of leaving the city — her Kharkovchanka gives her a means of continental travel that most people do not have. She stays anyway. This is both a source of personal character revelation (what does it mean to choose confinement when you could leave?) and a viable DLC trigger — she could serve as the player's means of departure for at least one DLC, with the question of why she's never used that capability herself as a narrative thread. See TODO for design status.
+
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:

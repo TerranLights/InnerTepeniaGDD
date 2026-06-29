@@ -1,0 +1,73 @@
+A problem I realized that I'll need your help with. So, I want to implement "Minmax" questlines, unique interactions, etc etc etc and so on and so forth. At the same time, I also want to implement a top-down, turn-based, isometric version of the "Berserk"/"Sandevistan"(Framejacking)/"Overclock" functionality from Cyberpunk 2077, and establish a full set of gameplay mechanics for that. Some things I'm wondering about now are,
+
+1.) Would there be any sort of conflict between the two, and
+2.) Would this result in some grossly overpowered builds that would end up simply making the game too easy?
+
+
+1. Conflict Between Minmax Questlines/Interactions and the Overclock System?Minimal to none, if designed with intent. Here's why it works well together:
+    • Your Minmax-Builds folders (the 35+ stat combinations + unique high/low interactions, questlines, secret endings) are primarily narrative and reactivity tools. They reward extreme stat spreads with special story content, companion reactions (e.g. Calethina), faction shifts, and unique paths.
+    • The Overclock system is a gameplay/combat tool (cyberware ability with modes). It doesn't have to override or conflict with that reactivity—it can enhance it.
+Synergies you can build in:
+    • Different MACHINE stat extremes naturally map to different Overclock strengths (high Agility/Engine → better Framejacking; high Might → stronger Berserk; high Calculation → better Overclock spam).
+    • You can add unique interactions inside the existing Minmax-Builds subfolders: e.g., "High Engine + low Nerve" builds get a stronger but riskier version with special quest triggers or secret ending variants tied to "overclock addiction" or cyberpsychosis events.
+    • Heavy/repeated Overclock use can feed directly into side content and endings (district idolized paths, post-idolization perks, failsafes, hidden paths). This reinforces your "every choice carries weight" and "bittersweet endings" pillars.
+    • Acquisition/upgrades can be gated behind or rewarded by minmax playstyles (specific lifepaths, tagged skills, or district quests).
+The only real "conflict" risk is if Overclock becomes so central that it makes pure stat-minmax feel less special. Easy fix: make Overclock modular and stat-dependent rather than a flat power spike available to everyone equally.
+
+
+
+
+
+
+
+2. Risk of Grossly Overpowered Builds Making the Game Too Easy?Yes — this is the bigger concern, especially in a deep AP-driven turn-based system like yours.In turn-based grid games, "extra actions," massive damage buffs, or reduced costs are some of the strongest things you can add. A poorly balanced Sandevistan/Framejacking equivalent could let optimized high-Agility/Engine minmax builds delete encounters or trivialize exploration. Berserk mode on a high-Might build could turn bosses into jokes. Overclock spam on Calculation builds could break ability economy.However, this risk aligns perfectly with your design goals:
+    • You already explicitly support minmax/speedrun builds.
+    • You emphasize trade-offs, re-spec costs, no good endings, and meaningful consequences.
+    • The AP economy + MACHINE stats already have natural levers for balance.
+If you implement it with strong, visible, and stat-tied drawbacks + narrative consequences, it becomes a high-risk/high-reward tool that rewards smart minmaxing without breaking the game for everyone else. It can even make the game harder in interesting ways (enemies adapting, personal costs, etc.).Proposed Full Gameplay Mechanics for the Overclock SystemHere's a cohesive, turn-based isometric adaptation of Berserk / Sandevistan (Framejacking) / Overclock. I recommend calling the overall system "Neural Overclock" (or "Tepenia Framejack Protocol" / "Overdrive Implant") with three distinct Modes (inspired by CP2077 OS choices but unified under one cyberware system for simplicity).Core Rules (Applies to All Modes)
+    • Acquisition: Cyberware implant (craftable, quest reward, or early-game choice). Upgradable via perks, districts, or specific minmax paths.
+    • Activation: Costs AP (or a special "Overclock Action"). Enters chosen Mode for 1–3 turns (duration scales with upgrades/Engine).
+    • Cooldown: 3–5 turns after deactivation (prevents spam).
+    • Resource: "Neural Strain" meter (builds with use). High Strain causes escalating drawbacks or forced shutdown.
+    • Stat Scaling (core to balance + minmax synergy):
+        ◦ Engine: Efficiency (lower activation cost, longer duration, less Strain).
+        ◦ Agility: Speed/Framejacking potency.
+        ◦ Might: Berserk damage/tanking.
+        ◦ Calculation: Overclock optimization (more bonus actions or reduced costs).
+        ◦ Nerve: Resilience to backlash (less health/Strain drain, better control).
+        ◦ Humanity/Investigation: Narrative and secondary effects (low Humanity = risk of "cyberpsycho" events or unique quest triggers).
+    • Drawbacks (non-negotiable for balance):
+        ◦ Health or Strain drain per turn/action in mode.
+        ◦ Post-mode debuff (reduced AP, vulnerability, or inability to Overclock next turn).
+        ◦ Limited total uses per combat or "day" (or tied to implant durability).
+    • Exploration Use: Bonus movement tiles or reduced exploration AP costs during mode (fits your grid + AP economy).
+    • Upgrades & Perks: New perks in existing Perks folders (Regular, Challenge, Special, post-Idolization). District-specific mods. Cyberware tiers.
+The Three Modes1. Framejack Mode (Sandevistan equivalent — Agility/Engine focused)
+    • Effects: Bonus AP or heavily reduced costs for movement/attacks. One "free" basic action or extra movement phase per turn. Feels like getting more turns/actions in your window.
+    • Flavor: Neural acceleration — you move and react at "frame-jacked" speed while others feel slowed.
+    • Drawbacks: High Strain buildup. Post-mode "lag" (reduced AP or slowed reactions next turn).
+    • Best for: High Agility + Engine minmax builds. Speedrun-friendly burst movement/combat.
+    • Minmax Hook: High Agility builds get unique "Framejack" quest interactions or secret paths.
+2. Berserk Mode (Rage/tank-damage — Might focused)
+    • Effects: +Damage (especially melee or signature abilities), +Damage Resistance/Armor. Possible cleave or multi-hit. "Can't die below X% HP" during mode (with health drain instead).
+    • Flavor: Adrenaline + neural override — you become an unstoppable close-quarters monster.
+    • Drawbacks: Restricted weapon/ability types during mode? Heavy health drain. Loss of fine control (maybe can't use precise hacking or certain perks).
+    • Best for: High Might + Nerve minmax builds. Melee or aggressive playstyles.
+    • Minmax Hook: Strong synergy with existing combat perks; unique "Berserk" endings or companion reactions if overused.
+3. Overclock Mode (Ability/hack spam — Calculation focused)
+    • Effects: Reduced AP costs for complex abilities, hacking, item use, or signature abilities. Extra uses or chaining. Bonus to targeting or optimization.
+    • Flavor: Pushing your cyberdeck/OS beyond limits for raw computational power.
+    • Drawbacks: Rapid Strain buildup. Risk of random debuffs, misfires, or forced cooldown at high Strain. Health cost on overuse.
+    • Best for: High Calculation + Investigation minmax builds. Ability/spell-slinging or tech-focused play.
+    • Minmax Hook: Ties directly into existing hacking/complex action costs.
+Optional Twist (to mirror CP2077): Make the three modes mutually exclusive at high tiers or very expensive to switch between (like choosing a primary OS). Lower tiers allow limited mixing. This encourages build commitment and minmax diversity.Recommendations to Keep It Balanced & Fun
+    • Enemy Design: Smart AI that punishes Overclock (focus fire during cooldown/vulnerability windows, cyberware-disrupting attacks, area control).
+    • Narrative Integration: Heavy use triggers unique content in your existing Minmax folders, Side-Content, Endings, and character questlines (e.g. Calethina reacting to your "overclocking").
+    • Tuning Levers: Everything scales with your existing formulas (Base AP, modifiers, etc.). Test with your minmax master charts.
+    • Accessibility vs. Depth: Base version is usable by anyone; true power comes from minmax investment + accepting the risks.
+    • Documentation: This fits perfectly in Game-Mechanics/ (new subfolder or add to Core-Mechanics/Combat/Perks). Cross-reference your existing AP, perks, traits, and minmax docs.
+This system enhances rather than fights your minmax questlines and unique interactions. It gives extreme builds something flashy and powerful to play with, while the built-in costs, stat dependencies, and narrative consequences keep the game challenging and thematically consistent ("no good endings," meaningful trade-offs, every AP and choice matters).
+
+
+
+

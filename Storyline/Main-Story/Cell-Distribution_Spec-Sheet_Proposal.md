@@ -27,8 +27,8 @@
 * **Rationale:** Generation and distribution hub (with central control under Neutral 13). Needs space for pipes, reactors, and heroic-scale infrastructure while creating natural tensions with neighbors. Not the absolute center (control is there).
 ### 6. Capricorn (Industrial/Ambition – Foundries, manufacturing, merit-based production): 
 * **Pittance:** 6 cells
-* **Occupancy:** Mid-to-outer along/near Hwy 37 (Mountain Cut) area — connected block spanning relevant radials.
-* **Rationale:** Heavy industry and production footprint; aligns with “Mountain Cut Industrial Zone” lore. Larger area for yards, forges, and worker housing. Clusters with Aries (power) and Virgo (maintenance).
+* **Occupancy:** Mid-to-outer along/near Hwy 37 area — connected block spanning relevant radials.
+* **Rationale:** Heavy industry and production footprint; aligns with Capricorn (TBN) industrial zone lore. Larger area for yards, forges, and worker housing. Clusters with Aries (power) and Virgo (maintenance).
 ### 7. Aquarius (Visionary/Experimental – Labs, prototypes, innovation):
 * **Pittance:** 7 cells
 * **Occupancy:** Mid rings (Rings 2-4), block that can feel somewhat specialized/connected to industrial or testing areas.

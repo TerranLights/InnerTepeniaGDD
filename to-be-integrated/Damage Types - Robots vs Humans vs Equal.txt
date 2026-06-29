@@ -1,0 +1,75 @@
+We can create two leaning lists drawn from the translated BG3 damage types + the extra firm-sci-fi suggestions. The goal is fairness:
+    • Each side gets strong, thematic counters.
+    • Lists are close in length (not identical).
+    • Plenty of overlap/versatile types that work against both (with different flavor/effects).
+    • Robots generally resist traditional biological damage but are vulnerable to system/electronic disruption and material corrosion.
+    • Humans are vulnerable to biological/cellular/neural trauma but more resistant to pure EMP unless heavily augmented.
+    • This encourages build variety (anti-robot specialist, anti-human specialist, or generalist) while supporting mixed encounters, district hazards, and the power-grid story (e.g., unstable power increases electrical/EMP risks city-wide).
+Anti-Robot Lean (Strong vs. Machines, Electronics, Chassis & Systems)These exploit electronics, conductive materials, logic/control systems, and physical structure. Excellent for targeting robots, augmented humans with heavy cyberware, or industrial/power infrastructure.
+    • EMP / Disrupt (Electromagnetic Pulse/Interference) — Primary hard counter. Fries circuits, stuns/disables robots, causes system errors or temporary shutdown. Minimal effect on unaugmented humans.
+    • Lightning (Electrical) — Overloads systems, causes arcing through conductive chassis/frames, feedback into power sources. Strong DoT or stun on robots.
+    • Acid (Corrosive/Chemical) — Dissolves or weakens metal, plastics, and robot chassis over time. Degrades armor and structural integrity.
+    • Radiation (Ionizing) — Damages sensitive electronics, sensors, and memory/storage components. Can cause long-term degradation or malfunctions.
+    • Plasma (Ionized Matter) — Combines intense localized heat with electrical effects; excellent at melting or disrupting contained systems and materials.
+    • Neural / Interface (Direct system attack) — Hacks or overloads robot OS/control interfaces, causing control loss, error states, or forced shutdowns. Synergizes with Investigation/Calculations for hacking-focused builds.
+    • Cold (Cryogenic) — Embrittles metal and materials, making structures more prone to follow-up kinetic damage or fractures.
+    • Slashing (Cutting/Shearing) — Effective at targeting joints, wiring, cabling, or exposed components if it can bypass outer plating.
+Why this list works: It leans into the mechanical nature of robots. These types often have secondary effects like stuns, armor degradation, or disablement that feel "anti-machine."Anti-Human Lean (Strong vs. Organic Tissue, Biology & Psychology)These exploit biology, cells, nerves, psychology, and soft tissue. Excellent against humans (including lightly augmented ones) and biological hazards.
+    • Poison (Toxic/Chemical/Biological Agents) — Classic systemic toxicity affecting organs, nerves, or blood. Very effective on organic physiology.
+    • Necrotic (Biological Decay / Molecular Breakdown) — Accelerates cell death, tissue necrosis, or targeted molecular disassembly. Strong DoT and "wounding" feel.
+    • Radiation (Ionizing) — Causes cellular/DNA damage, leading to acute sickness or long-term effects. Highly realistic threat in the post-war world.
+    • Psychic / Neural (Mental/Neural Disruption) — Overloads nerves, causes psychological effects, disorientation, or pain. Affects both organic brains and (to a lesser extent) augmented interfaces.
+    • Fire / Thermal (Heat) — Causes severe burns to flesh and organic material. Strong DoT and panic/forced movement.
+    • Acid (Corrosive) — Chemical burns on skin and tissue. Overlaps with robot list but with more immediate organic pain/DoT.
+    • Bludgeoning (Blunt/Kinetic Impact) — Crushes bones, organs, and soft tissue. Reliable trauma against unarmored or lightly protected humans.
+    • Thunder (Sonic/Acoustic Pressure) — Pressure waves cause internal trauma, disorientation, or ruptured organs/tissues.
+Why this list works: It plays into organic vulnerabilities. These often carry debilitating secondary effects (pain, debuffs, DoT) that feel punishing to humans.Balance Notes & Overlaps
+    • Shared / Versatile Types (work well against both, with flavor differences):
+        ◦ Force (Kinetic/Concussive/Inertial) — Universal blunt trauma or shockwave damage.
+        ◦ Piercing — Good penetration against both armor and flesh.
+        ◦ Radiant (EM Radiation / Lasers) — Precision thermal/ionization damage; effective on both but different secondary effects.
+        ◦ Gravitic / Inertial (if used) — Extreme acceleration or crushing forces affect structures and bodies alike.
+        ◦ Cold and Fire/Thermal also have crossover potential in extreme environments (Antarctic exposure or power surges).
+    • Fairness Mechanisms:
+        ◦ Robots get baseline resistance or immunity to classic Poison and traditional biological Necrotic, but become vulnerable when nanites or chemical delivery systems are involved.
+        ◦ Humans get some resistance to pure EMP/Disrupt unless they have significant cyberware (creating interesting hybrid targets).
+        ◦ Many types have type-specific DT/DR adjustments and district armor augments (e.g., Capricorn industrial plating strong vs. Acid/Corrosive; Aquarius experimental gear with dispersion vs. Radiation/EMP).
+        ◦ Environmental hazards in districts naturally favor one side or the other (industrial spills = Acid strong vs. robots; Scorpio transformative areas = Necrotic/Neural strong vs. humans).
+        ◦ Player choice and the power-grid story can shift city-wide prevalence (e.g., damaged grid increases Lightning/EMP/Radiation risks).
+    • Gameplay Feel: This creates meaningful specialization without hard counters that trivialize encounters. A player can build an "EM Specialist" (strong vs. robots and tech) or a "Toxin/Decay Specialist" (strong vs. humans and biology), or mix for general use. Mixed groups of enemies reward adaptability.
+
+
+
+SUMMARY
+
+
+
+Damage Types: Anti-Robot Specialization(Particularly effective against machines, electronics, chassis, and robotic systems)EMP / Disrupt — Electromagnetic interference that fries circuits, causes system failures, and temporarily disables or stuns robots.
+Lightning — Electrical overloads and arcing that damage power systems and conductive components.
+Acid (Corrosive) — Chemically degrades metal, polymers, and structural chassis over time.
+Radiation (Ionizing) — Damages sensitive electronics, sensors, and data storage.
+Plasma — Superheated ionized gas that melts materials and disrupts contained systems.
+Neural / Interface — Direct attacks on robot OS, control systems, and logic cores (hacking-style disruption).
+Cold (Cryogenic) — Embrittles metals and materials, making them prone to fracturing.
+Slashing — Targets joints, wiring, cabling, and exposed mechanical components.
+
+Damage Types: Anti-Human Specialization(Particularly effective against organic tissue, biology, and psychology)Poison (Toxic/Biological) — Systemic toxins that damage organs, blood, and nervous systems.
+Necrotic (Biological Decay) — Accelerates cell death, tissue breakdown, and molecular degradation.
+Radiation (Ionizing) — Causes cellular and DNA damage leading to acute or long-term biological failure.
+Psychic / Neural — Overloads nerves and cognitive functions, causing disorientation, pain, or mental disruption.
+Fire / Thermal — Severe burning and heat damage to flesh and organic material.
+Acid (Corrosive) — Chemical burns and tissue dissolution on skin and organs.
+Bludgeoning — Crushing force that damages bones, internal organs, and soft tissue.
+Thunder (Sonic) — Acoustic pressure waves causing internal trauma and disorientation.
+
+Shared / Versatile Damage Types(Effective against both robots and humans, with different secondary effects)Force (Kinetic/Concussive)
+Piercing
+Radiant (Laser / Coherent Energy)
+Gravitic / Inertial (if implemented)
+
+Quick Balance NotesRobots typically resist or ignore Poison and classic biological Necrotic unless delivered via nanites or specialized carriers.
+Humans are largely resistant to pure EMP/Disrupt unless heavily cyber-augmented.
+Many types include secondary effects (stun, armor degradation, DoT, movement penalties) that enhance their thematic strength.
+District environments and power-grid choices can naturally amplify one side or the other (e.g., Aries power surges = more Lightning/EMP; Capricorn industrial zones = more Acid).
+
+

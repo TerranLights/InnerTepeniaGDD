@@ -13,21 +13,21 @@
 * Role: Matchmaking, couples therapy, and advocating for resources to support bonded pairs first.
 * Fame: Strengthening existing bonds or helping lonely robots/humans find partners.
 * Infamy: Prioritizing single individuals or breaking up strained pairs for efficiency.
-* District: Coastal Cut residential areas.
+* District: Cancer (TBN) residential areas.
 
 ### The Eternal Winter Collective (or “Frost Ascetics”)
 * Philosophy: Radical acceptance of the cold. They intentionally live in minimally heated zones to “become one with Antarctica” and achieve mental clarity / spiritual resilience.
 * Role: Extremist survivalists and philosophers who test new cold-resistant tech.
 * Fame: Donating resources to their ascetic experiments or surviving their harsh trials.
 * Infamy: Wasting heat on “soft” comforts or criticizing their lifestyle.
-* District: Outer edges of Mountain Cut or abandoned highway sectors.
+* District: Outer edges of Capricorn (TBN) or abandoned highway sectors.
 
 ### The Reclaimers
 * Philosophy: “Everything can be reused.” They are obsessive recyclers who want to dismantle old war ruins, failed infrastructure, and even retired robots (with consent) to fuel new growth.
 * Role: Scavenging and upcycling operations across Concordia.
 * Fame: Supplying them with high-quality scrap or helping with major reclamation projects.
 * Infamy: Protecting “sacred” or sentimental ruins (especially Goth Ossuary sites).
-* District: Mountain Cut Industrial Zone.
+* District: Capricorn (TBN) industrial zone.
 
 ### The The Vigil [NAME TBD]
 * Philosophy: Romantic longing for the off-world evacuees and the destroyed Space Elevator. They preserve hope of eventual reunion with those who left.
@@ -41,7 +41,7 @@
 * Role: Elite chemists and quality-control experts in siligel production.
 * Fame: Helping them secure rare pure ingredients or improve synthesis processes.
 * Infamy: Supporting mass-production shortcuts that lower quality.
-* District: Mountain Cut quarries.
+* District: Capricorn (TBN) quarries.
 
 ### The Neon Nomads (Highway Clans)
 * Philosophy: Freedom of movement and trade along the highways. They live semi-nomadically in reinforced Kharkovchankas and believe static city life makes people weak.

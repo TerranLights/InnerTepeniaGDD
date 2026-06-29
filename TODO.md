@@ -14,11 +14,8 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **The Vigil [NAME TBD] faction — keep, redesign, or cut?**
   Blocks: Faction Devotion ending slot FD-7, faction design queue. Grok-suggested; off-world evacuees are now confirmed alive and prospering, which may change the dramatic premise. Review Grok notes in `to-be-integrated/miscellaneous/World_History_Reference.md` before deciding.
 
-- [ ] **Salagéa Aparast — main game vs. DLC placement**
-  Blocks: Character role definition, quest trigger placement, Questlines/README.md content, district assignment.
-  Concordia is far inland — her boat is not accessible from there; going to/from it would be a very long trek. Two paths:
-  - **Main game (settled):** She lives in Concordia permanently. The boat and active datashard courier life are her past. Her Cancer/No-One-Left-Behind Registry role fits this version. Her itinerant identity becomes backstory rather than present reality.
-  - **DLC 5 (Atlantic coast):** She remains an active boat-dwelling datashard courier, sailing between ruined coastal settlements near Belgrano (her home city). Her full character concept is preserved but she is not in the main game. Cancer/Registry content in Concordia would need a different character or restructuring.
+- [x] **Salagéa Aparast — main game vs. DLC placement — RESOLVED**
+  DLC 5 (Atlantic Coastal Region) confirmed canon. She remains an active boat-dwelling datashard courier in the Belgrano/Atlantic coast region. Her full character concept is preserved. Cancer/No-One-Left-Behind Registry content in Concordia will need a different character or restructuring when that district is developed.
 
 ---
 
@@ -36,6 +33,7 @@ These require a developer call before downstream work can proceed. None can be r
   - Structure: each location = physical ruin + Calethina's narration + a thread (person, object, question).
   - **Download option:** Approximately halfway through the main quest, the player can download Calethina onto their wrist device (the "not-Pipboy"). She's a single non-redundant instance — if her server is destroyed she is gone permanently. The download protects her but exposes her to everything the player encounters in the second half. Protection and risk simultaneously; a genuine choice.
   - **Grok notes:** The original 5-step questline and "personality download to Bridge Unit" climax were written before the archive-narrator direction was established. Review and reconcile (or discard) before writing the questline. See `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Calethina/Personal_Questline_Summary.md`.
+  - **Ghost Protocol connection (to develop):** Calethina may have been the one who embedded the Ghost Protocol safeguards into the Power Core during the Long Night War evacuation — a desperate emergency measure that saved lives at the time and has been quietly strangling the city for the one to two decades since the war ended. Her archive gaps may be guilt-adjacent rather than random degradation. She knows what she did; she doesn't lie, but she doesn't volunteer it. The player's path to this truth, and how the confrontation lands, is a core questline beat to design. See also: Ghost Protocol entry in Medium Priority — World and Story.
 
 - [ ] **Robot religion design**
   Five religions are named but none are fully developed. Each needs: proper in-world name, detailed philosophy, key practitioners, connection to gameplay/factions, visual/sonic/spiritual identity.
@@ -54,11 +52,16 @@ These require a developer call before downstream work can proceed. None can be r
   **Core mechanic confirmed:** player assembles the true picture by reconciling conflicting subnet records.
   **TBD:** Full quest structure, discovery trigger, South Pole archive integration, Arcanet reconstruction consequences, connection to Janbogo subnet nexus anomaly in Concordia.
 
+- [ ] **Independent Lattice — full design**
+  A secret alternative endgame solution with zero mechanical scaffolding: no stat checks, no skill checks, no perks, no quest markers, no notifications. The player can build a decentralized/distributed power grid as a complete alternative to the failing central grid beneath the Hub — but only if they are paying close attention to the world. Discovery method is entirely environmental: scattered notes, terminal entries, audio logs, fragments of NPC dialogue, and environmental storytelling distributed across the full game. No single source explains the full picture; the player assembles the method themselves.
+  **TBD:** Full construction mechanics, the complete breadcrumb trail and its placement across all districts, the resolution state when the lattice is completed, and how the world reacts to the alternative solution.
+  Working name "Independent Lattice" is Grok-suggested and developer-approved.
+
 - [ ] **7 remaining district official names**
   Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, and Libra use zodiac names but lack official proper names for in-world documents, signage, and NPC dialogue. The five already named: Aquarius (The Labs), Pisces (The Markets), Virgo (The Undergrid), Gemini (Janbogo), Sagittarius (The Frostlands).
 
-- [ ] **District informal name system — reconcile and canonize**
-  `Act2_Story_Progression.md` uses informal names (Forgeward, Hearthward, Havenward, The Threshold, The Veil Market, Frostward Reaches, Ascendant Research Quarter, Thermal Spire) that partially conflict with existing canon names. Decide which naming system is canonical for in-world use and update all files consistently.
+- [x] **District informal name system — resolved**
+  All Grok-suggested informal names (Forgeward, Hearthward, Havenward, The Threshold, The Veil Market, Frostward Reaches, Ascendant Research Quarter, Thermal Spire, Coastal Cut, Mountain Cut, Resonance Crown, Bonded Habitation Rings, Governance Spire, Ossuary Quarter) replaced with zodiac + user-given names across all repo files.
 
 ---
 
@@ -90,6 +93,7 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Character-level open questions (named Dolls)**
   Smaller items resolvable during character development sessions:
   - **Favi della Torre:** boyfriend's name (Italian human, Eyes of Gold member); Italian scientist's name; Taurus security network official name ("The Steady Watch" is a placeholder)
+  - **Ji-Eun Kim:** identity of the person she built the concealment for; design the "undelivered letter" gate conditions and the lore it reveals (see Ji-Eun Kim README — Design Notes)
   - **Seica Cenilaithe:** husband's name; occupation in Scorpio; Archive of Final Confessions engagement level
   - **Villena Hiresvett:** venue names (2–3 regular residencies); Star War affiliation (Elva's established house vs. Lillian's legacy house)
   - **Majyao Bisyugota:** teahouse name; verify Enneagram against lead sheet (lead sheet says 4w5:Pr)
@@ -138,12 +142,25 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Midwestland — add to Maps/**
   Referenced in Trisha Miller's and Michelle Stanton's backstories as their Upper Earth origin. No map document exists for it.
 
+- [ ] **Ghost Protocol safeguards — design as gameplay mechanic**
+  Named and documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #9). Emergency AI protocols embedded into the Power Core during the Long Night War to prevent total collapse; now deeply entangled with core systems. Removing or overriding them risks triggering a built-in scorched-earth shutdown that could permanently disable large grid sections.
+  **Calethina connection (to develop):** Calethina may have been the one who embedded these protocols during the evacuation — a life-saving emergency measure that has been quietly strangling the city for the one to two decades since the war ended. See Calethina questline entry for the full design note.
+  **TBD:** How this functions as an in-game obstacle or quest mechanic; connection to the main story climax; whether the player can interface with it directly.
+
+- [ ] **Amundsen Resonance Effect — design as gameplay mechanic**
+  Named and documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #11). Harmonic instabilities from the destroyed Amundsen Tower cause resonance feedback during large-scale grid repairs, producing synchronized blackouts across multiple districts simultaneously — worse than the problem being fixed.
+  **TBD:** How this manifests in gameplay; whether it connects to the Planetary Split Brain questline or the Amundsen Tower level environment; potential role in the climax.
+
 ---
 
 ## Long-Term / Low Urgency
 
+- [ ] **Robot biology and culture — expand foundational document**
+  New file created: `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`. Established canon: robots don't breathe but have internal thermal/sensory systems; siligel (food), coolant (drink), robot coffee (specialty coolant), and smoking (robot-specific vapor products interacting with internal systems) are all confirmed. Open questions remaining: siligel full composition, robot coffee exact formulation, smoking prevalence across Concordia's population, in-game smoking behavior beyond Naizelle and Zhuldyz.
+
+
 - [ ] **Falkland Treaty — write the actual text**
-  Research into real historical treaty formatting is complete. The document itself has not been drafted. Intended as a full in-world artifact, findable in the Treaty Archive Vaults in Libra's Governance Spire.
+  Research into real historical treaty formatting is complete. The document itself has not been drafted. Intended as a full in-world artifact, findable in the Treaty Archive Vaults in Libra's (TBN) governance spire.
 
 - [ ] **World History — remaining TBDs**
   - Named evacuees in Concordia: who, which residents knew them, how
@@ -164,8 +181,14 @@ These require a developer call before downstream work can proceed. None can be r
   - DLC 2: West Antarctica / Byrd — character and storyline TBD
   - DLC 3: Antarctic Peninsula (Palmer City ruins) — character and storyline TBD
   - DLC 4: Mawson Region (Indian Ocean coast) — character and storyline TBD
-  - DLC 5: Atlantic Coastal Region (Halley, Belgrano, Queen Maud Land) — character and storyline TBD
+  - DLC 5: Atlantic Coastal Region (Halley, Belgrano, Queen Maud Land) — **Salagéa Aparast** (confirmed canon); storyline TBD
   - DLC 6: Janbogo Region (Ross Sea) — character and storyline TBD
+
+- [ ] **Michelle Stanton — Kharkovchanka as DLC trigger and character thread**
+  Michelle is one of the very few Concordia residents capable of physically leaving the city. Her Kharkovchanka gives her continental travel capacity that almost no one else in Concordia possesses. She stays anyway — a choice that has never been fully explained in-world. Two design directions to develop:
+  1. **Character revelation:** Why does someone who can leave choose not to? The answer to this question is a core piece of her personal questline — the choice to stay is as meaningful as the reason for it.
+  2. **DLC trigger:** She is a natural vehicle for getting the player out of Concordia for at least one DLC. Her Kharkovchanka and continental expertise could be the practical means of departure; her reasons for finally leaving (or lending the vehicle) could tie directly into the DLC's stakes.
+  See Michelle Stanton README — Design Notes.
 
 - [ ] **Fort McMurdo and other Tepenian city lore**
   Palmer City is complete (`Worldspace/.../Cities/Palmer_City.md`). Full station-to-city map is complete. Fort McMurdo, Janbogo, Neumayer, Belgrano, Mirny, and others have no lore documents at Palmer City depth yet.
@@ -173,7 +196,7 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **City logistics — remaining open questions**
   - Exact Concordia population figures (human and robot separately)
   - Currency and economic system
-  - The "Coastal Cut" name — why "coastal" for an inland district?
+  - Cancer (TBN) district name resolution (formerly "Coastal Cut" — origin of "coastal" descriptor is still an open lore question for flavor, not blocking)
   - Subglacial water access (TBD whether it exists)
   - Nuclear vs. geothermal power specifics
 
@@ -218,7 +241,7 @@ These require a developer call before downstream work can proceed. None can be r
 - [x] Sinian Federation named and flagged for future development
 - [x] Off-world evacuees confirmed alive and prospering (orbit, Mars moons, toward Venus)
 - [x] Red Nebula logo files renamed to Red Spiral
-- [x] Livestock updated: yaks, alpacas, sheep, reindeer as primary herded protein; Coastal Cut + Frostlands placement; cattle as limited luxury
+- [x] Livestock updated: yaks, alpacas, sheep, reindeer as primary herded protein; Cancer (TBN) + Frostlands placement; cattle as limited luxury
 - [x] Palmer City lore document written
 - [x] Full station-to-city mapping tabulated (all ~40 stations on the map)
 - [x] Tepenian Federation flag decided (wide circuit)

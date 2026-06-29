@@ -6,6 +6,7 @@
 **Primary Location(s):** Taurus (residential district)
 **Affiliation(s):** Independent; neutral community institution
 **Companion Potential:** No — NPC
+**Romanceable:** Yes
 
 ## Core Identity
 **Activation Date & Origin:** TBD

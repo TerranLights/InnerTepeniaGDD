@@ -50,12 +50,12 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 4. Aquarius (TBN-district) vs Gemini (Janbogo Subnet Nexus)
+## 4. Aquarius / The Labs vs Gemini (Janbogo Subnet Nexus)
 **Shared Trigger Theme**: Threat to progress & truth
 
 **Key Distinctions**:
 
-- **Aquarius (TBN-district)** is about **bold, visionary experimentation** and pushing boundaries. Progress here is scientific and futuristic. Violence is triggered by sabotaging experiments or stealing radical ideas. The district feels sleek, high-tech, idealistic, and sometimes reckless.
+- **Aquarius / The Labs** is about **bold, visionary experimentation** and pushing boundaries. Progress here is scientific and futuristic. Violence is triggered by sabotaging experiments or stealing radical ideas. The district feels sleek, high-tech, idealistic, and sometimes reckless.
   
 - **Gemini (Janbogo Subnet Nexus)** is about **information flow, communication, and truth**. Progress here is about data, networks, and knowledge dissemination. Violence is triggered by large-scale misinformation or destroying information infrastructure. The district feels more digital, fast-paced, connected, and chaotic.
 
@@ -65,14 +65,14 @@ Even though several districts share similar high-level “hostility triggers,”
 
 ---
 
-## 5. Libra (TBN-district) vs Pisces (TBN Black Market)
+## 5. Libra (TBN-district) vs Pisces / The Markets
 **Shared Trigger Theme**: Violation of systems / rules
 
 **Key Distinctions**:
 
 - **Libra (TBN-district)** represents **official law, diplomacy, and structured order**. The “rules” are formal, political, and public. Violence is triggered by disrupting official proceedings or inciting political chaos. The district feels polished, bureaucratic, elegant, and status-conscious.
   
-- **Pisces (TBN Black Market)** represents **criminal underworld codes and shadow rules**. The “rules” are informal, honor-based, and hidden. Violence is triggered by snitching or breaking criminal codes. The district feels gritty, dangerous, secretive, and morally gray.
+- **Pisces / The Markets** represents **criminal underworld codes and shadow rules**. The “rules” are informal, honor-based, and hidden. Violence is triggered by snitching or breaking criminal codes. The district feels gritty, dangerous, secretive, and morally gray.
 
 **Gameplay Feel**:
 - Libra: Political intrigue, diplomacy quests, reputation with government.

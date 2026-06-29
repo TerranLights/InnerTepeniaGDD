@@ -42,7 +42,7 @@ An ambitious, highly competent industrial visionary. Strategic, hierarchical, an
 **Role**: Crafter / Strategist / Production Expert  
 **Key Traits**: High Calculation & Engine, Siligel Chemistry & Precision Maintenance.
 
-### 7. Aquarius – TBN-district
+### 7. Aquarius / The Labs
 **yet-TBN-NPC_D-07_Eccentric-Dctr**  
 A brilliant but eccentric researcher who pushes ethical boundaries in pursuit of progress. Visionary, curious, and sometimes reckless.  
 **Role**: Science / Experimental Support / Wild Card  
@@ -60,7 +60,7 @@ An enigmatic information broker who exists half in the physical world and half i
 **Role**: Information / Hacking / Social Engineering  
 **Key Traits**: High Calculation & Investigation, Arcanet Navigation & Hacking.
 
-### 10. Pisces – The TBN Black Market
+### 10. Pisces / The Markets
 **yet-TBN-NPC_D-10_Charmer**  
 A charming, silver-tongued underworld operator. Smooth, dangerous, and deeply knowledgeable about the black market and criminal networks.  
 **Role**: Smuggler / Infiltrator / Criminal Connections  

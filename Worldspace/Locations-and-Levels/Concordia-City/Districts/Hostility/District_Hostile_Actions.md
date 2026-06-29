@@ -47,7 +47,7 @@ For each district, these are **specific, culturally violating actions** (beyond 
 - Causing major workplace accidents through reckless sabotage.
 - Mocking the district’s work ethic or industrial output publicly.
 
-### 7. Aquarius – TBN-district (Visionary / Experimental)
+### 7. Aquarius / The Labs (Visionary / Experimental)
 - Stealing or destroying experimental data, prototypes, or research.
 - Sabotaging dangerous but important ongoing experiments.
 - Publicly exposing unethical experiments in a way that threatens the district.
@@ -68,7 +68,7 @@ For each district, these are **specific, culturally violating actions** (beyond 
 - Betraying high-profile information brokers or journalists.
 - Shutting down or sabotaging major communication networks.
 
-### 10. Pisces – The TBN Black Market (Black Market / Underworld)
+### 10. Pisces / The Markets (Black Market / Underworld)
 - Snitching on or informing against major criminal operations.
 - Stealing from or publicly betraying high-level crime bosses.
 - Disrupting major black market deals causing huge losses.

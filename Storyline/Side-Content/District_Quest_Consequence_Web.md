@@ -131,7 +131,7 @@ More granular breakdown of each quest's consequences by path.
 **Unity Path →**
 - Taurus: The Defectors, now provisionally integrated, begin moving into Taurus. The Newcomer/Established tension spikes briefly before settling.
 - Libra: The Defectors' provisional status forces Libra to formally rule on recognition — a small case with large precedent implications.
-- Sagittarius: Provisional Defector acceptance reduces the political pressure on Sagittarius' Echo Camp. The camp's Remorseful faction becomes more accessible.
+- Sagittarius: Provisional Defector acceptance reduces the political pressure on Sagittarius' defector settlement (TBN). The settlement's Remorseful faction becomes more accessible.
 - Act 3: Cancer's care infrastructure is more efficient going into the Great Blackout. Fewer casualty events. Cancer's leader arrives at the summit with moral authority rather than exhaustion.
 
 **Path 1 →**

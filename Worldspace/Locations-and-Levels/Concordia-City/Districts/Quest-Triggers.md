@@ -18,7 +18,7 @@ Cancer: The emotional and physical sanctuary. Protection of the vulnerable, nurt
 2. Maintenance Neglect (Virgo Connection)
 * Critical repairs to heating, plumbing, and medical infrastructure in Cancer have been repeatedly deprioritized by Virgo undergrid crews in favor of “more important” industrial or power infrastructure. Players investigate why care facilities are considered low priority and either advocate for them or expose systemic neglect.
 3. Dangerous Experimental Spillover (Aquarius Connection) + Refugee Strain (Sagittarius Connection)
-* Patients in Cancer’s medical centers begin showing unexplained side effects that trace back to experimental technology or substances tested by Aquarius. At the same time, a new wave of traumatized refugees from the Frostward Reaches is arriving and overwhelming already strained resources. Players must uncover the source of the medical anomalies while managing the refugee influx and its ripple effects on other districts.
+* Patients in Cancer’s medical centers begin showing unexplained side effects that trace back to experimental technology or substances tested by Aquarius. At the same time, a new wave of traumatized refugees from The Frostlands frontier is arriving and overwhelming already strained resources. Players must uncover the source of the medical anomalies while managing the refugee influx and its ripple effects on other districts.
 
 
 ## District 2: Taurus (TBN-district) – Residential / Stability
@@ -84,7 +84,7 @@ Scorpio: Depth, transformation, confronting the shadow, power through intimacy a
 * Libra pushes for stricter oversight of Scorpio’s more experimental or taboo practices, while evidence emerges of Pisces black-market substances and tools being used in underground transformation work. Players investigate the gray area between regulated healing, experimental rebirth, and illicit vice.
 
 
-## District 5: Aries (TBN-district & Power Core) – Raw Survival / Energy
+## District 5: Aries / The Power Core – Raw Survival / Energy
 #### Zodiac Principle:
 Aries: Raw power, initiative, courage, aggression, and the primal drive to survive and dominate challenges. This district is Concordia’s fiery industrial heart and literal life-support system: volatile, heroic, and constantly on the edge of catastrophe.
 
@@ -126,7 +126,7 @@ Capricorn: Discipline, long-term ambition, structure, responsibility, and relent
 * Black-market components from Pisces are flooding Capricorn foundries, undercutting official production and causing quality failures that Virgo must constantly repair. Players trace the network, decide whether to crack down (risking labor unrest) or integrate gray-market efficiencies, with ripple effects on Virgo’s maintenance burden.
 
 
-## District 7: Aquarius (TBN-district) – Innovation / Experimental
+## District 7: Aquarius / The Labs – Innovation / Experimental
 #### Zodiac Principle:
 Aquarius: Innovation, humanitarian progress, eccentricity, collective ideals, and radical future-thinking. This district is Concordia’s laboratory of tomorrow: unconventional, idealistic, and often dangerously detached from immediate practical concerns.
 
@@ -189,7 +189,7 @@ Gemini: Duality, communication, adaptability, curiosity, and the rapid exchange 
 * Pisces smugglers and Scorpio shadow workers are using Janbogo relays for illicit memory trades, blackmail archives, and unverified psychological data. This creates both profit and dangerous psychological ripple effects across the city. Players can disrupt the network, join it, or expose selective parts for political gain.
 
 
-## District 10: Pisces (TBN-district) – Dissolution / Black Market / Dream & Vice
+## District 10: Pisces / The Markets – Dissolution / Black Market / Dream & Vice
 #### Zodiac Principle:
 Pisces: Fluidity, dissolution of boundaries, compassion through suffering, escapism, spirituality, and the merging of reality with illusion. This district is Concordia’s hidden underbelly and dreamscape: porous, seductive, and where the city’s rules, identities, and resources quietly dissolve and reform.
 
@@ -216,7 +216,7 @@ Sagittarius: Adventure, exploration, optimism, freedom, and the pursuit of dista
 
 #### Local Quest Triggers
 1. The Lost Caravan
-* A major supply caravan from the Frostward reaches has gone missing, carrying critical siligel and pre-war tech. Players must mount a rescue/exploration mission while dealing with harsh weather, raiders, or hidden ruins.
+* A major supply caravan from The Frostlands has gone missing, carrying critical siligel and pre-war tech. Players must mount a rescue/exploration mission while dealing with harsh weather, raiders, or hidden ruins.
 2. Frontier Boom Conflict
 * A newly discovered quarry site rich in siligel precursor materials sparks a violent claim war between rival settler groups and corporate interests from Capricorn. Players must mediate, pick a side, or exploit the chaos for personal gain.
 3. The Cursed Outpost
@@ -231,7 +231,7 @@ Sagittarius: Adventure, exploration, optimism, freedom, and the pursuit of dista
 * Growing calls for Sagittarius autonomy or reduced central taxation escalate into diplomatic standoffs. Libra sends envoys; frontier leaders prepare symbolic acts of defiance. Players can mediate, fuel the independence movement, or gather intelligence on both sides.
 
 
-## District 12: Virgo (TBN-district) – Undergrid / Maintenance / Service
+## District 12: Virgo / The Undergrid – Undergrid / Maintenance / Service
 #### Zodiac Principle:
 Virgo: Precision, service, analytical perfectionism, practical problem-solving, and humble dedication to keeping systems functional. This district is Concordia’s hidden circulatory and nervous system: the vast undergrid of tunnels, pipes, conduits, and maintenance networks that literally and figuratively holds the entire city together.
 

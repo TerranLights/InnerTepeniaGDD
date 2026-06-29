@@ -49,7 +49,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 4. Aquarius (TBN-district) vs Gemini (Janbogo Subnet Nexus)
+## 4. Aquarius / The Labs vs Gemini (Janbogo Subnet Nexus)
 
 **Aquarius Focus**: Bold experimentation and pushing scientific boundaries.  
 **Gemini Focus**: Information flow, communication, and data integrity.
@@ -64,7 +64,7 @@ These are concrete actions the player can take that feel native to one district 
 
 ---
 
-## 5. Libra (TBN-district) vs Pisces (TBN Black Market)
+## 5. Libra (TBN-district) vs Pisces / The Markets
 
 **Libra Focus**: Official law, diplomacy, and structured political order.  
 **Pisces Focus**: Criminal codes, loyalty, and shadow economy rules.
