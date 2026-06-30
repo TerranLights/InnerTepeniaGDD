@@ -34,6 +34,8 @@ A district that has absorbed everyone else's pain for two centuries and has neve
 ### Inhabitants
 Dedicated caregivers, nurses, therapists, grief counselors, refugee families, community elders, social workers, integration specialists. Robots: caregiving and companion models (often older units with deep emotional bonding protocols), medical support bots, integration facilitators, hydroponic bots, creche robots. Cultural lean: Feeling/Compliant Enneagram types. Emotional labor, duty to the vulnerable, and quiet heroism are core values.
 
+### Development Notes
+
 ---
 
 ## District 2 — Taurus *(TBN)*
@@ -60,6 +62,8 @@ A district that decided a very long time ago what life should look like, and has
 
 ### Inhabitants
 Multi-generational families, long-term residents, skilled homemakers, small-scale hydroponic farmers, comfort artisans, retired engineers, conservative community leaders. Robots: domestic companion and household management models optimized for routine and loyalty, maintenance bots specialized in insulation and structural reinforcement, resource auditors, sentinel-style security models. Cultural lean: Compliant + Feeling + Positive Outlook Enneagram. Duty to family/bonded units, sensory comforts, and stubborn resistance to destabilizing change.
+
+### Development Notes
 
 ---
 
@@ -88,6 +92,8 @@ A district built on the belief that morale is infrastructure — and like all in
 ### Inhabitants
 Performers, musicians, actors, holographic artists, charismatic politicians, festival organizers, arena promoters, luxury service workers, ambitious youth. Robots: entertainment and performance models with advanced expressive protocols, holographic projection specialists, arena security with theatrical flair, "star" companion robots bonded to celebrities. Cultural lean: Assertive + Feeling + Positive Outlook Enneagram. Pride, loyalty to one's troupe/crew, belief that excellence deserves reward. Generosity is common but often performative.
 
+### Development Notes
+
 ---
 
 ## District 4 — Scorpio *(TBN)*
@@ -114,6 +120,9 @@ A district that has made a collective decision that the only way through is thro
 
 ### Inhabitants
 Trauma therapists, shadow workers, existential counselors, war survivors seeking rebirth, mortality philosophers, ritual endurance practitioners, fringe psychological practitioners. Robots: therapeutic and diagnostic models with advanced emotional-depth protocols, "rebirth" facilitation units, shadow augmentation specialists, confession-recording archivists, endurance ritual support bots. Cultural lean: Feeling + Instinctive + Reactive/Withdrawn Enneagram. Intensity, honesty, willingness to descend into darkness for transformation. Many carry visible or hidden scars from their own rebirth processes.
+
+### Development Notes — Refugee Integration
+Five of Tepenia's destroyed or ruined cities (Zukelli, Soyuz, Belgrano, Palmer City, Casey) all identify Scorpio as a top-2 refugee destination — converging simultaneously on the Archive of Final Confessions as the only institution in Concordia built to receive the specific kind of mass-casualty civilizational grief they carry. No other district absorbs destroyed-city communities this densely. This creates a resource and mission tension that needs to be developed: the Archive's intake capacity, practitioner burnout rates, the ongoing conflict with Libra over "productive grief timelines" (see the Rationing of Grief, c. 2718), and the philosophical question of whether an archive receiving this volume of acute loss can maintain its clinical rebirth orientation at all — or whether it is slowly transforming into something closer to a war memorial. The five communities are not homogenous: each brings a different grief-character (Zukelli's unmediated shock, Soyuz's literary dusha, Belgrano's archival mission, Palmer City's civilizational symbolism, Casey's surprise of not having been a primary target) and they may develop distinct relationships within the district that are worth dramatizing.
 
 ---
 
@@ -142,6 +151,8 @@ The district that literally keeps everyone else alive, is fully aware of this fa
 ### Inhabitants
 Hardened geothermal engineers, overclock technicians, shift supervisors, resource allocation officers, crisis response teams, veteran operators, ambitious young recruits. Robots: heavy-duty power regulation and diagnostic models built for extreme heat/cold tolerance, sentinel monitoring units, emergency repair bots, "heroic core" AI personalities, older units still bearing wartime overclock scars. Cultural lean: Instinctive + Assertive + Reactive Enneagram. Pride in endurance, blunt honesty, "we do what must be done" ethos. Deep resentment toward districts that demand power but criticize the methods.
 
+### Development Notes
+
 ---
 
 ## District 6 — Capricorn *(TBN)*
@@ -169,6 +180,8 @@ A district that created a meritocracy as a survival mechanism and then became un
 ### Inhabitants
 Ambitious foremen, master engineers, production planners, meritocratic apprentices, veteran builders, quality-control auditors, long-term strategists, guild families. Robots: heavy industrial and assembly-line models optimized for endurance and precision, management and optimization AIs, quality-assurance units, construction frames, older "legacy" units with wartime modifications. Cultural lean: Thinking + Instinctive + Assertive + Competency Enneagram. Discipline, measurable achievement, respect for hierarchy, focus on legacy through infrastructure. Frustration with "unreliable" or "soft" districts that consume without producing.
 
+### Development Notes
+
 ---
 
 ## District 7 — Aquarius (The Labs)
@@ -194,6 +207,8 @@ A district full of people who are genuinely trying to save the world, who are fr
 
 ### Inhabitants
 Eccentric inventors, rogue scientists, visionary theorists, idealistic reformers, social experimenters, young radicals, data archivists, former refugees from more restrictive districts. Robots: experimental prototype frames with bleeding-edge or unstable architectures, collective-mind swarm units, humanitarian aid and social simulation AIs, "free thinker" units that deliberately deviate from standard protocols, containment bots specialized in managing failed experiments. Cultural lean: Thinking + Assertive/Withdrawn + Reactive Enneagram. Individuality, future-oriented idealism, willingness to sacrifice the present for potential breakthroughs. Frequent tension between pure visionaries and those who live with the consequences.
+
+### Development Notes
 
 ---
 
@@ -222,6 +237,8 @@ A district that genuinely believes in fairness and has spent two centuries accum
 ### Inhabitants
 Career diplomats, councilors, policy analysts, arbitrators, judges, treaty negotiators, resource allocation officers, bureaucratic administrators, political aides, lobbyists, idealistic reformers. Robots: protocol and mediation AIs optimized for neutrality, justice and arbitration units, archival and treaty-verification models, security and compliance monitors, "balance" optimization frames that simulate multi-district outcomes. Cultural lean: Thinking + Feeling elements + Compliant + Competency Enneagram. Fairness, procedural integrity, long-term stability, belief that proper process prevents chaos. Frequent frustration with districts that bypass rules or demand exceptions.
 
+### Development Notes
+
 ---
 
 ## District 9 — Gemini (Janbogo Subnet Nexus)
@@ -247,6 +264,9 @@ A district built on the belief that information is the solution to problems, whi
 
 ### Inhabitants
 Data archaeologists, journalists, rumor brokers, Arcanet technicians, signal optimization specialists, political commentators, forum moderators, information smugglers, private-channel operators, curious youth chasing pre-war knowledge. Robots: high-speed routing and packet-analysis models, archival restoration and verification units, holographic broadcaster and avatar frames, adaptive "echo" personalities, surveillance-countermeasure and encryption specialists. Cultural lean: Thinking + Withdrawn (with Assertive streaks) + Competency Enneagram. Quick wit, intellectual curiosity, adaptability, and the thrill of unrestricted information. Many value speed and duality over absolute truth.
+
+### Development Notes — Refugee Integration
+Gemini hosts what is probably the most politically loaded single-district refugee dynamic in Concordia: Janbogo city survivors and Zukelli survivors coexist in the same district. Janbogo city is in the same subnet as Zukelli — they watched from 10km across Terra Nova Bay while Zukelli burned. Both communities are present in Gemini because it is the Janbogo subnet nexus and practically the first place both went. The gap between them is not simple grief: it is the gap between the city that survived and the city that burned while the survivor watched. Some Zukelli refugees find comfort in the subnet community; others find proximity to the Janbogo community intolerable. Both populations live in Gemini simultaneously. This needs development as one of Concordia's most charged ongoing inter-community conflicts — the Zukelli community pushing for acknowledgment and backward-facing memory; the Janbogo-city community pushing forward. The data archaeology mission is simultaneously the one project that bridges them (both care about recovering what the Great Corruption took, and Zukelli testimony is some of the richest source material for reconstruction) and the one that sharpens the wound (every recovered archive is something Zukelli had and no longer does).
 
 ---
 
@@ -275,6 +295,8 @@ Every city produces overflow — people, needs, practices, substances, and ideas
 ### Inhabitants
 Black-market dealers, smugglers, information brokers, dream-weavers, illusion artists, escapist performers, addicts, burnouts, underground spiritualists, disgraced or exiled individuals from stricter districts. Robots: modified fluid-frame units capable of rapid reconfiguration, dream-induction and neural-interface specialists, smuggling and concealment-optimized models, empathy-overloaded companion units, heavily patched frames operating far outside standard parameters. Cultural lean: Feeling + Withdrawn/Reactive Enneagram with strong Instinctive undercurrents. Compassion mixed with self-destruction, blurred boundaries, belief that everything eventually dissolves. Scars — physical, digital, emotional — worn as authenticity.
 
+### Development Notes
+
 ---
 
 ## District 11 — Sagittarius (The Frostlands)
@@ -301,6 +323,8 @@ A district that has had to answer the hard questions — why go further, what is
 
 ### Inhabitants
 Rugged explorers, prospectors, long-range scouts, frontier settlers, homesteader families, traders, caravan merchants, archaeologists, adrenaline-seeking adventurers, exiles from stricter districts. Robots: rugged cold-weather navigation models, mobile survey and resource-scanning units, caravan escort and defense frames, optimistic "hope engine" personalities designed for morale in isolation, recovered or jury-rigged units from lost expeditions. Cultural lean: Assertive + Positive Outlook + Feeling/Thinking mix Enneagram. Freedom, big-picture optimism, belief that there is always something over the next ridge. Impatience with central bureaucracy. Pride in self-sufficiency.
+
+### Development Notes
 
 ---
 
@@ -329,6 +353,8 @@ The district that makes everything else possible and receives the least acknowle
 ### Inhabitants
 Tireless maintenance engineers, tunnel inspectors, systems analysts, overworked shift supervisors, logistics coordinators, detail-oriented perfectionists, safety auditors, undergrid families who know the tunnels better than the surface, burned-out veterans quietly holding the city together. Robots: precision diagnostic and repair swarms, structural integrity and predictive failure models, waste/siligel recycling and purification units, tunnel navigation and mapping specialists, overclocked service frames running far beyond design specifications. Cultural lean: Thinking + Compliant + Competency Enneagram with strong Reactive streaks from burnout. Humility, meticulousness, quiet pride in functionality, deep sense of duty. Growing frustration with districts that create problems while scorning "menial" maintenance work.
 
+### Development Notes
+
 ---
 
 ## District 13 — Concordia Central Hub (Axis Mundi)
@@ -355,6 +381,9 @@ The city's proof of concept — evidence that all these wildly different distric
 ### Inhabitants
 Neutral administrators, transit coordinators, council facilitators, merchants catering to all districts, diplomatic staff, lobbyists, inter-district envoys, researchers attached to Calethina's Lab, long-term Hub-born residents who identify as belonging nowhere and everywhere. Robots: multi-protocol transit guidance and routing units, neutral arbitration and record-keeping models, high-traffic maintenance and rapid-repair swarms, activation and integration specialists from Calethina's Lab, observer/chronicler frames that document the constant flow of people and data. Cultural lean: Compliant + Thinking + Competency Enneagram with emphasis on adaptability and neutrality. Professional detachment. Strong hidden opinions. Contempt for district tribalism that doesn't recognize itself as district tribalism.
 
+### Development Notes — Refugee Integration
+Among Tepenia's 32 non-South-Pole cities, only Sayowa (East Ongul Island, dual-approach Mawson/QML gateway) systematically produces Hub residents — because Sayowa's entire civilizational identity was the crossroads, the place between two cultural corridors that belonged fully to neither. Every other city produces Hub residents as overflow: people who don't fit their home community's Concordia enclave and drift to the neutral crossroads by elimination. This asymmetry is worth developing. It means the Hub-born and Hub-arrived populations have a very different relationship to the district's "principled rootlessness" — Sayowa refugees arrived already knowing how to be a crossroads person; everyone else arrived having failed to be something else. Whether the Hub's cultural identity absorbs and assimilates Sayowa's crossroads philosophy or whether Sayowa refugees become the district's most articulate theorists of its own identity (because they came from a place that had to think consciously about what it means to be between things) is an open design question worth exploring.
+
 ---
 
 ## Cross-District Notes
@@ -364,3 +393,5 @@ Neutral administrators, transit coordinators, council facilitators, merchants ca
 **The three most politically powerful districts** are Aries (controls the power), Libra (controls the law), and Gemini (controls the information). None of them are the most important to the city's actual functioning. The most important districts to the city's actual functioning are Virgo (maintenance), Capricorn (production), and Cancer (social cohesion). The gap between these two lists is one of the game's central structural tensions.
 
 **The districts nobody officially acknowledges needing** are Pisces and Scorpio. Both of them know this. Both of them use it.
+
+**The refugee integration asymmetries** (see also: `City_Refugee_District_Affinities.md`) reveal three structural design threads worth developing further: (1) Scorpio is bearing the grief of five destroyed/ruined city communities simultaneously — a burden that may exceed its institutional design and is already in conflict with Libra's "productive grief timelines." (2) Gemini hosts both Janbogo city survivors and Zukelli survivors — the city that survived watching, and the city that burned — creating Concordia's most politically charged inter-community conflict inside a single district. (3) The Hub is the only district that most cities produce refugees for by elimination rather than design; only Sayowa produces Hub residents systematically, because Sayowa's civilizational character was already the crossroads. All three are open design questions that should inform NPC writing, district politics, and the political landscape the player navigates.
