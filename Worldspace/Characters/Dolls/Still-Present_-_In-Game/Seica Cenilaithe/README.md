@@ -54,7 +54,7 @@ She reads as: someone whose visual presentation says "I am not fragile" while th
 ## Personality & Voice
 - Core summary: Intense and specific in everything — her weapon, her art, her grief, her hatred. An Sx-8w7 who formed a complete bond with her husband and has been living with his absence ever since. Her Goth identity is not aesthetic posture; it is how she inhabits the reality of loss. The spiritual dimension is real and personal, not performed.
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** generous, protective, openly warm — the force becomes care directed outward without a wall in front of it (Type 2 direction). **Disintegration (stress) →** withdrawn, secretive, emotionally sealed off — the 8's armor goes all the way down and nothing gets through (Type 5 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

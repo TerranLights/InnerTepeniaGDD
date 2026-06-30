@@ -48,7 +48,7 @@ She reads as: someone who built a very specific public identity and lives inside
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** focused, still, depth-seeking — the performance quiets and something more considered surfaces underneath it (Type 5 direction). **Disintegration (stress) →** critical, rigid, impossible-to-please — the positive-outlook frame collapses and everything falls short (Type 1 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

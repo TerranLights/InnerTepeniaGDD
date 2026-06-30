@@ -25,7 +25,7 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 | **59** | Atlantic Throughway | "Arcanet Line" | Halley (junction with Hwy 7) → [interior] → northern bend of Hwy 22 | **Connector highway, not a city-to-city road** — links Hwy 7 to Hwy 22; also carries the Arcanet cable along its full length; does NOT reach the South Pole or Concordia |
 | **110** | Coastal Cut Highway | — | Zhongshan → Davis → Mirny → Casey → [inland spur to Concordia] | Main East Antarctic coastal route; Concordia spur exits from Casey end |
 | **175** | Central Cut Throughway | — | South Pole (Amundsen Station) → [junction with Hwy 22] → junction with northern curve of Hwy 183 | Connects South Pole to the Janbogo subnet region; passes through Hwy 22 junction en route; does NOT connect directly to Byrd |
-| **183** | Janbogo Highway | — | Concordia (northern terminus) → [south, northern curve / junction with Hwy 175] → Scott → Fort McMurdo → Janbogo → Cape Adare → Mario Zucchelli | Connects Concordia to all Ross Sea coastal cities; Concordia is the inland terminus |
+| **183** | Janbogo Highway | — | Concordia (northern terminus) → [south, northern curve / junction with Hwy 175] → Scott → Fort McMurdo → Janbogo → Cape Adare → Zukelli | Connects Concordia to all Ross Sea coastal cities; Concordia is the inland terminus |
 | **Neumayer connector** | *(unnamed)* | — | Nearest safe point on Hwy 7 (between Aboa and Sanae) → Neumayer | Small connector road; exact organization TBD |
 
 **Route to Byrd from Concordia:** Hwy 183 (south) → junction with Hwy 175 → Hwy 175 → junction with Hwy 22 → Hwy 22 (Amundsen Sea direction) → Byrd. Multiple transfers; a very long journey.
@@ -42,7 +42,7 @@ Six subnets, each named after its hub city. **Official names** are the hub city 
 | **Halley** | Halley | "Atlantic" | Halley, Belgrano, Neumayer, Sanae, Troll, Aboa, Maitri, Princess Elizabeth, Dome Fuji |
 | **Mawson** | Mawson | *(none)* | Mawson, Syowa, Soyuz, Bharati, Zhongshan, Davis |
 | **Mirny** | Mirny | "Australian" | Mirny, Vostok, Kunlun, Concordia, Casey |
-| **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Mario Zucchelli, Cape Adare, Dumont d'Urville, Cape Denison |
+| **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Zukelli, Cape Adare, Dumont d'Urville, Cape Denison |
 | **Byrd** | Byrd | "Pacific" | Byrd, Framheim, Little America |
 
 **Signy\*:** Shown with a dashed border on the Arcanet map — peripheral/weaker connectivity, due to being on an island (South Orkney Islands) off the main peninsula. Treat as intermittent or lower-bandwidth in lore.
@@ -84,7 +84,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Belgrano
 - **Real station:** Belgrano Station II (Argentina) ✓
 - **Region:** Weddell Sea coast (Atlantic)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (western terminus)
 - **Direct highway neighbors:** Halley (east, Hwy 7)
@@ -92,14 +92,14 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### Bharati
+### [NAME TBD] *(location: Bharati Station)*
 - **Real station:** Bharati Station (India)
 - **Region:** Indian Ocean coast
 - **Status:** Destroyed (Long Night War)
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 4 — midpoint
 - **Direct highway neighbors:** Mawson (west), Soyuz (east)
-- **Notes:** India's second Antarctic station; between Mawson and Soyuz on the Hwy 4 coastal link
+- **Notes:** India's second Antarctic station; between Mawson and Soyuz on the Hwy 4 coastal link. City name "Bharati" is a placeholder — location confirmed for future development; final name TBD.
 
 ---
 
@@ -162,7 +162,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Davis
 - **Real station:** Davis Station (Australia)
 - **Region:** Indian Ocean coast / East Antarctica
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 110 — midpoint
 - **Direct highway neighbors:** Zhongshan (west), Mirny (east)
@@ -184,7 +184,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Dumont d'Urville
 - **Real station:** Dumont d'Urville Station (France)
 - **Region:** Dumont d'Urville Sea coast
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 2 (DCH) — midpoint
 - **Direct highway neighbors:** Casey (west), Cape Denison (east)
@@ -195,7 +195,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Esperanza
 - **Real station:** Esperanza Base (Argentina) ✓
 - **Region:** Antarctic Peninsula — northern tip
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — northern peninsula section
 - **Direct highway neighbors:** Marambio (nearby), Sejong (nearby), Palmer City (south via Hwy 1)
@@ -206,7 +206,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Fort McMurdo
 - **Real station:** McMurdo Station (USA) ✓
 - **Region:** Ross Sea — Ross Island
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 1 (eastern terminus), Hwy 183
 - **Direct highway neighbors:** Scott (adjacent, Hwy 183), Janbogo (north, Hwy 183), [West Antarctica / Byrd via Hwy 1]
@@ -227,7 +227,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Halley
 - **Real station:** Halley Stations I–VI (UK) ✓
 - **Region:** Weddell Sea coast — Brunt Ice Shelf (Atlantic)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Halley ("Atlantic") — **hub city**
 - **Highways:** Hwy 7 (hub/midpoint), Hwy 59 (originates here — junction with Hwy 7) ✓
 - **Direct highway neighbors:** Belgrano (west, Hwy 7), Aboa (east, Hwy 7)
@@ -279,21 +279,21 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### Maitri
+### [NAME TBD] *(location: Maitri Station)*
 - **Real station:** Maitri Station (India)
 - **Region:** Queen Maud Land / King Haakon VII Sea (Atlantic coast)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (eastern terminus), Hwy 7-ext (origin point → Princess Elizabeth → Syowa)
 - **Direct highway neighbors:** Troll (west, Hwy 7), Princess Elizabeth (east, Hwy 7-ext)
-- **Notes:** Eastern terminus of Hwy 7 proper; origin of the Belgrano Highway Extension; **will be renamed in later documents** (name TBD); "Maitri" = friendship in Sanskrit
+- **Notes:** Eastern terminus of Hwy 7 proper; origin of the Belgrano Highway Extension (built 2611–2614). City name "Maitri" is a placeholder — location confirmed for development; final name TBD.
 
 ---
 
 ### Marambio
 - **Real station:** Marambio Base (Argentina) ✓
 - **Region:** Antarctic Peninsula — northern tip
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — northern peninsula section
 - **Direct highway neighbors:** Esperanza, Sejong, Juan Carlos (all nearby); Palmer City (south via Hwy 1)
@@ -301,21 +301,21 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### Mario Zucchelli
+### Zukelli
 - **Real station:** Mario Zucchelli Station (Italy)
 - **Region:** Ross Sea coast — Terra Nova Bay
 - **Status:** Destroyed (Long Night War)
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 183 — southern terminus
 - **Direct highway neighbors:** Cape Adare (east, Hwy 183)
-- **Notes:** Italian station; southern terminus of Hwy 183; Terra Nova Bay; north of Janbogo on the Ross Sea coast
+- **Notes:** Italian station; confirmed Tepenian city name: Zukelli. Southern terminus of Hwy 183; Terra Nova Bay.
 
 ---
 
 ### Mawson
 - **Real station:** Mawson Station (Australia)
 - **Region:** Indian Ocean coast
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mawson — **hub city**
 - **Highways:** Hwy 4 (Mawson-Soyuz)
 - **Direct highway neighbors:** Bharati (east, Hwy 4)
@@ -326,7 +326,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Mirny
 - **Real station:** Mirny Station (Russia)
 - **Region:** East Antarctic coast
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mirny ("Australian") — **hub city**
 - **Highways:** Hwy 110 — midpoint
 - **Direct highway neighbors:** Davis (west), Casey (east)
@@ -337,7 +337,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Neumayer
 - **Real station:** Neumayer Station III (Germany) ✓
 - **Region:** Queen Maud Land / King Haakon VII Sea (Atlantic coast)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Unnamed connector road to nearest safe point on Hwy 7 (between Aboa and Sanae) ✓
 - **Direct highway neighbors:** None via Hwy 7 directly — connected only via connector road
@@ -381,7 +381,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Rothera
 - **Real station:** Rothera Station (UK) ✓
 - **Region:** Antarctic Peninsula — Adelaide Island
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — the highway bears this name as primary designation
 - **Direct highway neighbors:** Port Lockroy / Palmer City (north, Hwy 1), [West Antarctica toward Byrd, south via Hwy 1]
@@ -403,7 +403,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Scott
 - **Real station:** Scott Base (New Zealand)
 - **Region:** Ross Sea — Ross Island (adjacent to McMurdo)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 183, Hwy 1 (eastern terminus)
 - **Direct highway neighbors:** Fort McMurdo (adjacent), Janbogo (north, Hwy 183)
@@ -425,7 +425,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Signy
 - **Real station:** Signy Station (UK) ✓
 - **Region:** South Orkney Islands (Atlantic Ocean — north of Antarctic Peninsula)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Palmer ("American") — peripheral/dashed boundary
 - **Highways:** None — maritime/air only ✓
 - **Notes:** Northernmost Tepenian outpost; island location makes road connection impossible; Palmer subnet connection weak/intermittent (dashed border on Arcanet map); communications to/from Signy should reflect delays and dropouts in lore
@@ -446,7 +446,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Syowa
 - **Real station:** Syowa Station (Japan)
 - **Region:** Indian Ocean coast
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 37 (western terminus → Vostok → Kunlun → Concordia), Hwy 7-ext (eastern terminus ← Princess Elizabeth ← Maitri) ✓
 - **Direct highway neighbors:** Vostok (inland, Hwy 37), Princess Elizabeth (west, Hwy 7-ext)
@@ -457,7 +457,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Troll
 - **Real station:** Troll Base (Norway)
 - **Region:** Queen Maud Land
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7
 - **Direct highway neighbors:** Sanae (west, Hwy 7), Maitri (east, Hwy 7)
@@ -480,7 +480,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Zhongshan
 - **Real station:** Zhongshan Station (Sinian Federation — China)
 - **Region:** Indian Ocean coast / East Antarctica
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 110 (western terminus), Hwy 22 (eastern terminus — multi-highway junction here) ✓
 - **Direct highway neighbors:** Davis (east, Hwy 110), [Hwy 22 → interior → Hwy 175 junction → Byrd]
@@ -501,7 +501,7 @@ The destruction of Amundsen Station severed all inter-subnet Arcanet connections
 - **The Split Brain is not a malfunction** — the subnets are functioning correctly within their isolation; this is a structural consequence of the relay going dark
 
 ### Geographic Rules
-- **Concordia is the only major surviving city.** Byrd survives but is struggling. All coastal cities are destroyed. Dome Fuji and Kunlun survived but were never viable population centers.
+- **Concordia is the only fully functioning major city.** Byrd survives but is struggling. Most coastal cities were destroyed or severely damaged during the Long Night War — fully destroyed cities include Palmer City, Sejong, Juan Carlos, Sanae, Aboa, Princess Elizabeth, Soyuz, [NAME TBD — Bharati location], Casey, Zukelli, and Amundsen Station. Damaged but partially operational cities retain some surviving sections or populations. Dome Fuji and Kunlun survived but were never viable population centers.
 - **Palmer City is on the Antarctic Peninsula** — as far from Concordia as any point in Antarctica. Palmer City refugees are rare in Concordia and traveled an exceptionally long way.
 - **Janbogo is partially operational** — key link between Concordia and the outside world. Anything entering or leaving Concordia by ground passes through Janbogo.
 - **Fort McMurdo and Scott are adjacent** on Ross Island — effectively twin cities, not distant settlements.

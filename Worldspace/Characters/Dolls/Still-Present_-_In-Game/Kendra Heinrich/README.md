@@ -44,7 +44,7 @@ She reads as: a person for whom physical scale and force are so native that she 
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** generous, protective, openly warm — the force turns toward care and she does not need the armor (Type 2 direction). **Disintegration (stress) →** withdrawn, secretive, emotionally sealed off — the 8's control becomes total isolation rather than command (Type 5 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

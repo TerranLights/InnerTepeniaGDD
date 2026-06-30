@@ -60,7 +60,7 @@ She reads as: someone for whom trust is something earned in specific directions,
 ## Personality & Voice
 - Core summary: Deeply competent and aware of it, without arrogance. Pragmatic about institutions — she has learned they will not protect her, so she works around them rather than through them. Not without warmth, but precise about where she extends it.
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** decisive, assertive, willing to act — the detachment drops and she steps into the room (Type 8 direction). **Disintegration (stress) →** scattered, avoidant, overstimulated — the careful management of attention collapses into diffusion (Type 7 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

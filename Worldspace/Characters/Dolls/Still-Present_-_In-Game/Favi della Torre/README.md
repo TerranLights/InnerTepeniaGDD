@@ -52,7 +52,7 @@ She reads as: the person who, when she has decided something needs to happen, wi
 ## Personality & Voice
 - Core summary: Kind and polite, but not warm. She genuinely appreciates people and is pleasant to be around, but she consciously manages how far anyone gets in. There is always a slight, noticeable distance — not coldness, but a controlled perimeter. People in Taurus sense it and have come to understand it as simply how she is. She is calculating, precise, and patient in everything — built to be a double-checker, and she has never stopped operating that way.
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** calm, trusting, present — the vigilance eases and she lets things be (Type 9 direction). **Disintegration (stress) →** driven, image-conscious, competitive — the controlled perimeter becomes a performance of competence (Type 3 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

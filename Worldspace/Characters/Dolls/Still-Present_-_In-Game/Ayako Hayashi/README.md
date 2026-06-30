@@ -2,7 +2,7 @@
 
 ## Ayako Hayashi
 
-**Role / Archetype:** Base-of-operations medic; esteemed Red Spiral member; possible faction leader (TBD)
+**Role / Archetype:** Base-of-operations medic; esteemed Red Spiral member (rank and specific role TBD; confirmed NOT the leader)
 **Primary Location(s):** Red Spiral base/clinic (district TBD)
 **Affiliation(s):** The Red Spiral (non-geographical faction; HQ in Cancer district — the medical district of Concordia; operates across all districts, analogous to the Followers of the Apocalypse in Fallout: New Vegas)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
@@ -36,12 +36,12 @@ Two reference image sets exist in `Reference_Images/`:
 
 ## Personality & Voice
 
-- **Core summary:** Composed, calm, and direct. Does not perform warmth, but does not perform coldness either — what she projects is simply competence and seriousness. She commands a room without raising her voice. Her convictions about medicine — that it is available to anyone who needs it, without condition — are not announced; they are simply how she operates.
+- **Core summary:** Deeply shy — this is the first and most important thing about her in social contexts. She is not cold, not unfriendly, not aloof; she is simply genuinely, quietly shy, and does not find it easy to be in a room with people she does not know well. She does not perform smalltalk. She does not fill silences. In ordinary social situations she tends to recede: present, attentive, but not reaching outward. Two things cut through the shyness entirely. The first is fashion — bring up fashion design, her current project, a specific garment, or the philosophy behind her aesthetic choices, and she becomes a different person: engaged, expressive, animated, entirely unguarded. Art does this to a lesser degree. The second is medicine. The moment someone needs medical attention, the shyness disappears completely — not suppressed with effort, but simply gone, replaced by total focus that is calm, precise, and fully present. Her inner wound (having been present when the man she loved had his accident, and being unable to save him) stripped away any hesitation she might have had about stepping in. She does not second-guess herself in a medical context. The shyness is for the world; the medical clarity is for whoever needs her.
 - **Speech patterns / quirks / recurring phrases:** TBD
-- **Behavior under stress or in different districts:** TBD
+- **Behavior under stress or in different districts:** **Integration (thriving) →** clear-headed, principled, productive — the inner world finds an external form it can commit to without suffering (Type 1 direction). **Disintegration (stress) →** clingy, needy, fear of abandonment surfaces — the composed self-containment cracks and the underlying grief becomes attachment (Type 2 direction). District-specific behavior TBD.
 - **Moral tendencies & player influence:** TBD
 
-**Comparable NPC:** Arcade Gannon (Fallout: New Vegas) — recruitable companion; medical background; intellectual depth and dry wit; strong moral convictions; personal questline that goes somewhere deep and concerns identity and legacy. Ayako is not Arcade Gannon, but the structural companion role is similar.
+**Comparable NPC:** Arcade Gannon (Fallout: New Vegas) — the structural parallel is: recruitable companion with a medical background, wide-ranging intellectual interests, strong moral convictions held quietly, and a personal questline that goes somewhere deep concerning identity and legacy. The personality parallel stops there. Arcade is sarcastic and dry-humored; Ayako is not. She is genuinely, markedly shy in ordinary social contexts — where Arcade deflects with wit, she simply goes quiet. The comparison is a structural compass for the companion role, not a personality template.
 
 ---
 
@@ -51,9 +51,9 @@ Ayako Hayashi is originally from Japan — one of the three major powers that es
 
 Before exile she went through a period of severe depression. She discovered the philosophy of Arthur Schopenhauer — whose argument that aesthetic contemplation is the one true escape from the misery of existence resonates precisely with the SP 4w5 experience — and turned to art as a way to release and integrate her inner life. This is where her love of art and fashion took root: not as decoration, but as a survival mechanism that became a genuine calling.
 
-She arrived in what would become the Federation of Tepenia with her capabilities intact and no particular reason to abandon them. At some point in the Tepenia years, she lost the human man who was the love of her life — not to the war, but to accidental causes. His death reshaped her. She responded by learning First Aid and basic field medicine, driven by the vow to never let any innocent person die again if she could help it. A SP 4 response to loss: internalize it, let it become something, endure.
+She arrived in what would become the Federation of Tepenia with her capabilities intact and no particular reason to abandon them. At some point in the Tepenia years, the human man who was the love of her life suffered an accident — and she was there. She could not save him. His death reshaped her not only through grief but through the specific, permanent wound of having been present and helpless. She responded by learning First Aid and basic field medicine, driven by the vow to never let any innocent person die again if she could help it. A SP 4 response to loss: internalize it, let it become something, endure. The wound is also why, in any medical context, her shyness disappears entirely — she has already lived the cost of hesitation.
 
-This medical training led to her connection with the Red Spiral. Whether she founded the Red Spiral, leads it, or rose to prominence within a pre-existing structure is TBD.
+This medical training led to her connection with the Red Spiral. She has risen to a position of prominence within the faction — she is not the leader, but her rank and specific role are TBD.
 
 Her medical practice draws on the same qualities that defined her art work: precision, care for form, deep attention to detail. She treats her clinic as she would treat a studio — everything in its place, everything done correctly.
 
@@ -65,7 +65,7 @@ Full backstory details in `Personal_Background/`.
 
 - **Connection to larger narrative:** The Red Spiral operates across district lines — they go where they are needed regardless of politics. This gives Ayako access to information and relationships that most faction-affiliated characters don't have. She is likely one of the best-connected neutral parties in Concordia.
 - **Initial meeting hook:** TBD — likely through the Red Spiral's clinic or through a district crisis requiring medical response.
-- **Leader status:** Whether Ayako leads the Red Spiral is TBD. The structural comparison to Julie Farkas (who leads the Followers of the Apocalypse) suggests leadership is possible, but the developer has not decided.
+- **Leader status:** Confirmed NOT the leader of the Red Spiral. Her rank and specific role within the faction are TBD. The identity of the actual Red Spiral leader is a future design task.
 
 ---
 
