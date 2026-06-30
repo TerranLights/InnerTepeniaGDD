@@ -10,7 +10,7 @@
 ### Setting & Lore (Bird's-Eye)
 A global nuclear war in 2083 reshaped Earth. Shortly afterward, the first fully sentient robot was created at Underwater Research Union: Kappa, off the coast of the now-independent Republic of Hawaii. Over centuries, human-robot relations evolved from partnership to conflict, culminating in the **Falkland Treaty (June 21, 2564)** which exiled robots (and their human allies) to Antarctica, forming the **Federation of Tepenia**.
 
-Tepenians built a new society, eventually expanding into space. Further wars forced many off-world, leaving behind a tense, resource-scarce world where players navigate the remnants of human and robot civilizations in and around the Antarctic territories, particularly in the city of **Concordia**, the last-remaining large city in the former Tepenian Federation.
+Tepenians built a new society, eventually expanding into space. Further wars forced many off-world, leaving behind a tense, resource-scarce world where players navigate the remnants of human and robot civilizations in and around the Antarctic territories, particularly in the city of **Concordia** — the largest surviving city in the former Tepenian Federation and the game's primary setting. Two other cities survive at meaningful scale (Janbogo on the Ross Sea coast and Byrd in West Antarctica), but Concordia is the last functioning large urban center.
 
 ### Core Gameplay Mechanics
 **Action Point System** (inspired by classic Fallout, future-proofed for real-time sequels)
@@ -66,11 +66,11 @@ Strong emphasis on side content, companion relationships (e.g., Calethina), fact
 * Continuity with planned “Outer Tepenia” real-time games (same stat/AP philosophy)
 
 ### Current Focus Areas (from GDD priorities)
-* Core AP & character systems
-* Combat mechanics (damage, armor, abilities, targeting)
-* Perks, traits, and district-specific content
-* Main story structure and power-grid decision tree
-* Character creation & progression depth
+* Questline design — Calethina ("Echoes of the Bridge"), Planetary Split Brain, Independent Lattice
+* Character development — companion personalities, named Doll backstories, Enneagram completion pass
+* World and faction design — robot religion (5 named, none fully developed), 9 tentative factions, Tepenian Saints framework, Long Night War historical parameters
+* District completion — 7 remaining official district names, district documentation template and demonyms
+* Game mechanics — first 50 remaining perks, Might/Nerve design pass
 
 ---
 
