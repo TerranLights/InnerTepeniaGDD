@@ -2,6 +2,10 @@
 
 This document records guiding principles that must be respected when building out main questlines, side questlines, faction content, world events, and character interactions. It is a living document — new principles are added as they are established. Existing principles are binding.
 
+## Related Reference Documents
+
+**[Enneagram_Dynamics.md](Enneagram_Dynamics.md)** — The binding character behavior ruleset for all confirmed-type characters. Defines integration (behavior in good times) and disintegration (behavior under stress) directions for all nine types, with a per-character application table. Consult this document whenever writing: companion approval/disapproval responses, quest dialogue under stress, romance beat behavior, signal line design, or the emotional arc of any personal questline. It will be referenced constantly during quest design.
+
 ---
 
 ## I. Romance Questlines — Opportunity Distribution

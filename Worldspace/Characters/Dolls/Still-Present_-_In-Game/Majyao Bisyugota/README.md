@@ -42,7 +42,7 @@ She reads as: someone whose warmth is genuine and whose beauty is unannounced. S
 ## Personality & Voice
 - Core summary: Warm, loving, deeply intentional. She interacts directly with every patron and genuinely wants everyone who walks through her door to feel better than when they arrived. At the same time the teahouse is an extension of her interior world — every detail chosen, nothing arbitrary. The warmth is real; the curation is also real. Both exist simultaneously and neither cancels the other.
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** clear-headed, principled, productive — the emotional interior finds form in disciplined action (Type 1 direction). **Disintegration (stress) →** clingy, needy, fear of abandonment surfaces — the carefully maintained warmth becomes desperate attachment (Type 2 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

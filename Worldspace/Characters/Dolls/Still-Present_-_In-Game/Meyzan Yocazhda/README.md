@@ -41,7 +41,7 @@ She reads as: a 3w2 Pr who has assembled a very precise personal brand and wears
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** loyal, collaborative, self-aware — the image-management drops and she commits to people rather than outcomes (Type 6 direction). **Disintegration (stress) →** checked out, passive, conflict-avoidant — the drive stalls and she disengages rather than risk the brand (Type 9 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

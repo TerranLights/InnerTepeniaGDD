@@ -83,7 +83,7 @@ The Great Corruption investigation has made her dangerous to know. She has not t
 She follows the truth regardless of where it leads, but she thinks carefully about what to do with it once she has it. Publication, private leverage, or the shape-of-the-gap approach — these are real choices with different consequences, and she weighs them without sentimentality. She is not an idealist. She is pragmatic about what truth can actually accomplish. She also feels the weight of having dangerous knowledge. That weight is personal even when she doesn't show it.
 
 **Behavior under stress:**
-Quieter. More precise. She does not escalate when under pressure — she narrows. This can read as calm, and functionally it is, but it is also a defense pattern: shrinking the perimeter of what she has to manage until she can handle what's left.
+Quieter. More precise. She does not escalate when under pressure — she narrows. This can read as calm, and functionally it is, but it is also a defense pattern: shrinking the perimeter of what she has to manage until she can handle what's left. **Integration (thriving) →** decisive, assertive, willing to act — the data is no longer a buffer between her and the world; she acts on what she knows (Type 8 direction). **Disintegration (stress) →** scattered, avoidant, overstimulated — the narrowing collapses entirely and she can no longer manage the perimeter at all (Type 7 direction).
 
 ---
 

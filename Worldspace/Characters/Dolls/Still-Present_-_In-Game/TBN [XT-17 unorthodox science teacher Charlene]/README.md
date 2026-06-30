@@ -44,7 +44,7 @@ She reads as: a 5w4 who is very good at something, knows it, and has made a set 
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** decisive, assertive, willing to act — the expertise becomes agency and she moves through the world rather than observing it (Type 8 direction). **Disintegration (stress) →** scattered, avoidant, overstimulated — the focused analytical mind fragments and she cannot get traction (Type 7 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

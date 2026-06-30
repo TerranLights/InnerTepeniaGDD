@@ -44,7 +44,7 @@ She reads as: someone who brings the same care to her appearance that she brings
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** calm, trusting, present — the 6's vigilance settles and she stops scanning for problems (Type 9 direction). **Disintegration (stress) →** driven, image-conscious, competitive — the community orientation flips into individual status-seeking (Type 3 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

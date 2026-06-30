@@ -1,10 +1,20 @@
 # DLC Overview — Inner Tepenia
 
-Six planned DLCs, each covering one major geographic region of Tepenia. Each DLC has one fundamentally central main story/questline and a substantial amount of side-content. Together they allow players to explore the full history of Tepenia one region at a time.
+Seven planned DLCs — one for each of the six Arcanet subnets, plus one for the South Pole inter-subnet relay (Amundsen Station). Each DLC has one fundamentally central main story/questline and a substantial amount of side-content. Together they allow players to explore the full history of Tepenia one region at a time.
 
 Each DLC region maps naturally onto an Arcanet subnet — meaning each DLC is also an encounter with a different, isolated version of post-Split-Brain history. Players aren't just exploring geography; they're encountering a whole different account of what happened.
 
-The **Mirny region** (Mirny, Casey, East Antarctic coast) is not covered by a dedicated DLC — it is represented through the main game, since Concordia is the last surviving Mirny subnet city. Players will already know that world well.
+The **Mirny subnet** (Concordia's own subnet) receives a dedicated DLC despite the main game being set in Mirny subnet territory — the main game covers Concordia itself, but the broader Mirny subnet (Mirny city, Casey, Vostok, Kunlun) is DLC territory.
+
+---
+
+## Scope and Length — Design Standard (All DLCs)
+
+**Main questline (trigger → completion of central problem):** approximately 4–6 hours
+**Optional side-content (exploration, side quests, lore, collectibles):** approximately 10–20 hours
+**Total potential playtime per DLC:** approximately 14–26 hours
+
+The main questline should be tight, purposeful, and completable in a single extended session or two shorter ones. The side-content should reward players who want to live in the region — not padding, but genuinely interesting optional material that deepens the world without being required to understand the main story. A player who does only the main questline should feel satisfied; a player who does everything should feel like they've inhabited a place.
 
 ---
 
@@ -26,6 +36,8 @@ Michelle Stanton is the primary point of contact for beginning this DLC. The pla
 A pre-trigger item or piece of evidence exists for players who do not yet know Michelle or are not on good terms with her — something the player can show her to establish the stakes and get her cooperation without an existing relationship.
 
 **If Michelle Stanton is dead:** The player can find the Kharkovchanka keys and Michelle's personal handwritten repair manual in her pockets or in her Gemini home. The player drives to the South Pole alone, without instruction.
+
+**Cross-reference — Sagittarius district / Frostlands:** The Kharkovchanka repair knowledge Michelle teaches is not exclusively relevant to the South Pole trip. In Concordia's Frostlands, one or two Kharkovchankas are communally owned per Frostlander tribe/clan — they are critical survival infrastructure, not personal vehicles. A tribe whose vehicle breaks down has no mobile shelter and no emergency evacuation capability. A player who has already learned repair from Michelle has a concrete, already-established skill that creates natural quest entry points in Sagittarius district entirely independent of DLC 1 — a Frostlands breakdown is a self-contained survival emergency the player is uniquely positioned to solve. This is an opportunity to make the DLC 1 tutorial feel retroactively relevant to the main game, rather than being purely forward-looking. See `Specs/Concordia.md` → Sagittarius district notes for Kharkovchanka ownership detail.
 
 **The journey:**
 - The Kharkovchanka breaks down just short of the Amundsen Station ruins — far enough out that the remaining distance is extremely dangerous on foot
@@ -96,7 +108,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Central character:** TBD
 **Main storyline:** TBD
 **Key lore assets:**
-- Ross Sea coast cities: Janbogo (partially operational in main game), Fort McMurdo, Scott, Mario Zucchelli, Cape Adare
+- Ross Sea coast cities: Janbogo (partially operational in main game), Fort McMurdo, Scott, Zukelli, Cape Adare
 - Dumont d'Urville — either included directly or referenced extensively in side-content
 - Fort McMurdo — largest pre-war Tepenian city; mining and resource-processing hub; named as a reference to Fort MacMurray (Alberta, Canada); destroyed but its scale means significant ruins
 - Scott — directly adjacent to Fort McMurdo on Ross Island; New Zealand origin; effectively twin cities with Fort McMurdo
@@ -106,11 +118,27 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 
 ---
 
+---
+
+## DLC 7 — Mirny Region (East Antarctic Coast and Interior)
+**Arcanet subnet:** Mirny ("Australian")
+**Central location:** TBD (Mirny city, Vostok, Kunlun, or some combination)
+**Central character:** TBD — Vostok has a confirmed character in development: a robot geneticist who discovered a cost-effective method for working with genetics at reduced mutation rates; her work is almost certainly connected to Lake Vostok's 25-million-year-isolated subglacial biology
+**Main storyline:** TBD
+**Key lore assets:**
+- Mirny city — sits precisely on the Antarctic Circle; the threshold city; extreme katabatic winds; intra-subnet Arcanet link with Concordia (the only external city Concordia can theoretically still communicate with post-Split-Brain)
+- Casey — destroyed; highway junction where Hwy 110 meets the Dumont Coast Highway (Hwy 2); blocking factor for Pink Lucy's Route B migration
+- Vostok — survived but effectively unreachable; coldest city in Tepenia (record low −89.2°C); sits above Lake Vostok (subglacial lake isolated for 25 million years); robot geneticist as central DLC character
+- Kunlun — survived; highest city in Tepenia (~4,093m at Dome A); holiest site in Tepenia for "Ice Cold Buddhism" practitioners; observatory with centuries of astronomical data — **its findings must be implemented as a specific DLC story beat, not background flavor**; Sinian Federation's only Antarctic city
+- Dome Fuji is in the Halley subnet, not the Mirny subnet — it belongs to DLC 5
+
+---
+
 ## Open Questions
 
-- **Central characters** for DLCs 3, 4, 5, 6 — all TBD
-- **Main storylines** for all six DLCs — all TBD (except South Pole has Kendra Heinrich as anchor)
+- **Central characters** for DLCs 2, 3, 4, 6, 7 — all TBD (DLC 1: Kendra Heinrich; DLC 5: Salagéa Aparast; DLC 7 Vostok character: robot geneticist, full profile TBD)
+- **Main storylines** for all seven DLCs — all TBD (except South Pole has Kendra Heinrich as anchor)
 - **Ji-Eun Kim** — if she appears in a DLC rather than the main game, which region? (decision pending — see TODO)
-- **Byrd air connection to Framheim** — details TBD; implies aviation infrastructure or historical significance
+- **Byrd air connection to Framheim** — details TBD
 - **Dumont d'Urville in Janbogo DLC** — included directly or side-content references only? (TBD)
 - **Release order** of DLCs — TBD

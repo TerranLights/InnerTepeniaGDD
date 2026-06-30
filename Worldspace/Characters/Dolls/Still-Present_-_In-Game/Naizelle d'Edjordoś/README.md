@@ -54,7 +54,7 @@ She reads as: someone who has learned to need very little, and who finds certain
 ## Personality & Voice
 - Core summary: Practical, self-sufficient, and deeply private. Not cold — she cares about the people in her compound — but she does not open easily and does not explain herself. Very smart without being intellectual; her intelligence is applied and hands-on. Pre-war she was embedded in the Heavy Metal and Industrial music scene; she still listens to both, plus Hard/Garage Rock, and occasionally plays guitar. The music is the thread she held onto through everything.
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** decisive, assertive, willing to act — the self-sufficiency becomes capability extended outward (Type 8 direction). **Disintegration (stress) →** scattered, avoidant, overstimulated — the private interior floods and the careful low-profile breaks down (Type 7 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

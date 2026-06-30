@@ -44,7 +44,7 @@ She reads as: a 7w8 who found a way to express that energy through a very partic
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** focused, still, depth-seeking — the restless forward motion finds something worth stopping for (Type 5 direction). **Disintegration (stress) →** perfectionistic, critical, impossible-to-please — the enthusiasm inverts and nothing measures up to an internal standard no one else can see (Type 1 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

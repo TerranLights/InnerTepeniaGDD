@@ -37,7 +37,7 @@ These require a developer call before downstream work can proceed. None can be r
 
 - [ ] **Robot religion design**
   Five religions are named but none are fully developed. Each needs: proper in-world name, detailed philosophy, key practitioners, connection to gameplay/factions, visual/sonic/spiritual identity.
-  - Ice-Cold Buddhism (superconductor-as-nirvana)
+  - Ice-Cold Buddhism (superconductor-as-nirvana) — **confirmed sacred sites: Dome Fuji and Kunlun** (coldest, highest, calmest locations in Tepenia; Kunlun is the holiest site; Dome Fuji is a major pilgrimage destination; both cities' surviving non-scientific populations may be primarily composed of practitioners; the pilgrimage journey to either city is itself a spiritual trial); proper in-world name TBD
   - Adinkra Codex (Universal Simulation Theory, with Sartre/Camus/Nietzsche subdivisions)
   - Cymaticists (reverence of sound and vibration)
   - God-mind simulation (God running simulations to understand its own origin)
@@ -60,12 +60,24 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **7 remaining district official names**
   Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, and Libra use zodiac names but lack official proper names for in-world documents, signage, and NPC dialogue. The five already named: Aquarius (The Labs), Pisces (The Markets), Virgo (The Undergrid), Gemini (Janbogo), Sagittarius (The Frostlands).
 
+- [ ] **District documentation template** — create `Worldspace/Locations-and-Levels/Concordia-City/Districts/_TEMPLATE.md`
+  Must include a **Demonym** field: the word for "a person from [District]" (e.g., Sagittarius → Frostlander). Used in NPC dialogue, terminal entries, audio logs, and any in-world text referring to a district's residents as a group. Each district needs its own demonym established before NPC dialogue writing begins.
+
 - [x] **District informal name system — resolved**
   All Grok-suggested informal names (Forgeward, Hearthward, Havenward, The Threshold, The Veil Market, Frostward Reaches, Ascendant Research Quarter, Thermal Spire, Coastal Cut, Mountain Cut, Resonance Crown, Bonded Habitation Rings, Governance Spire, Ossuary Quarter) replaced with zodiac + user-given names across all repo files.
 
 ---
 
 ## Medium Priority — Character Development
+
+- [ ] **Ayako Hayashi — character development queue**
+  Confirmed: recruitable companion; romanceable; 4w5 Self-Pres; Red Spiral medic; Japan origin; art/fashion → medicine trajectory; Schopenhauer as personal philosophy. Home designed (Leo district atelier). Romance design complete (Investigation ≥ 7, Humanity ≥ 6, Calculation ≥ 6; full 6-beat Gate 3 sequence). Outstanding:
+  - Personality and voice (Phase 3)
+  - MACHINE stat baseline
+  - Full personal questline design
+  - Red Spiral role/rank (confirmed NOT the leader)
+  - Companion perks / notable traits
+  - Japan lore (develop alongside Upper Earth/Japan world design)
 
 - [ ] **IT-068 [Flora] — full development queue**
   First recruitable companion; well-scaffolded but incomplete. Established: 6w5 Thinking type; Capricorn industrial maintenance background; Frontline Utility Tank / Field Engineer combat role; recruitment scene at Thermal Distribution Junction 12 (mid-to-late Act 1); personality voice and approval system defined. Outstanding:
@@ -101,13 +113,22 @@ These require a developer call before downstream work can proceed. None can be r
   - TBN [XT-17 unorthodox science teacher Charlene] — 5w4; Aquarius; personality TBD
   - TBN [XT-21 cool citygirl Angelina] — 7w8; Hub; personality TBD
 
+- [ ] **Doll Enneagram gaps — review pass**
+  Four characters have no Enneagram type assigned; two have types but no subvariant. Do not design companion perks, attraction profiles, or romance gates for these characters until types are confirmed.
+  - **Missing type entirely:** Maria (FR-03), Momo (TCY-45), Eirwyn Cardoss (Off-World template has no Enneagram field), Calethina (no standard README)
+  - **Missing subvariant:** Charlene (XT-17) — 5w4, subvariant TBD; Angelina (XT-21) — 7w8, subvariant TBD
+  - **Broader pass:** Full subvariant review across all doll characters with confirmed types — confirm existing subvariant assignments are correct before Phase 3 personality work begins
+
+- [ ] **Red Spiral — leader identity TBD**
+  Ayako Hayashi is confirmed NOT the leader of the Red Spiral. The actual leader's identity, background, and faction role within the Red Spiral hierarchy are undecided. Resolve before writing Red Spiral faction content or designing Ayako's questline in depth.
+
 - [ ] **Character-level open questions (named Dolls)**
   Smaller items resolvable during character development sessions:
-  - **Favi della Torre:** boyfriend's name (Italian human, Eyes of Gold member); Italian scientist's name; Taurus security network official name ("The Steady Watch" is a placeholder)
+  - **Favi della Torre:** boyfriend's name (Italian human, Eyes of Gold member); Italian scientist's name; Taurus security network official name ("The Steady Watch" is a placeholder); nature of Favi–scientist relationship (confirmed NOT romantic; paternal/daughter vs. something more complex — must be decided before datashard event dialogue is written; see `Questlines/Companion_Event_The_Scientist_Entry.md`)
   - **Ji-Eun Kim:** identity of the person she built the concealment for; design the "undelivered letter" gate conditions and the lore it reveals (see Ji-Eun Kim README — Design Notes)
   - **Seica Cenilaithe:** husband's name; occupation in Scorpio; Archive of Final Confessions engagement level
   - **Villena Hiresvett:** venue names (2–3 regular residencies); Star War affiliation (Elva's established house vs. Lillian's legacy house)
-  - **Majyao Bisyugota:** teahouse name; verify Enneagram against lead sheet (lead sheet says 4w5:Pr)
+  - **Majyao Bisyugota:** teahouse name; ~~verify Enneagram against lead sheet~~ — confirmed 4w5 Self-Pres
   - **Naizelle d'Edjordoś:** pre-war home city (destroyed in Long Night War; depends on pre-war geography work); recruiting hook
   - **Meyzan Yocazhda:** job/setting decision (Leo vs. Capricorn)
   - **Trisha Miller:** Activation Date still TBD
@@ -121,6 +142,9 @@ These require a developer call before downstream work can proceed. None can be r
 
 - [ ] **Long Night War — historical parameters**
   Needed: combatants (which Upper Earth nations, which Tepenian forces), approximate duration, major engagements, how it ended. The Amundsen Tower destruction is the most iconic event but the broader war context is undefined. Blocks character backstory depth and level design parameters.
+
+- [ ] **Zukelli vs. Janbogo — why one survived and the other didn't**
+  Zukelli and Janbogo are ~10km apart on Terra Nova Bay, sharing the same polynya and coastal infrastructure. Zukelli was destroyed in the Long Night War; Janbogo survived. The reason for this asymmetry needs to be established — it is the most emotionally loaded open question in the Janbogo subnet's history and will directly shape the survivor-neighbor relationship in DLC content. Possible angles: strategic targeting (Zukelli had something the attackers wanted destroyed), defensive asymmetry (Janbogo had military infrastructure or faction protection Zukelli lacked), geography (Zukelli's island/coastal position made it more vulnerable), timing (Zukelli fell early and Janbogo's survival was partly because the war ended or the front shifted), or something else entirely. May connect to Long Night War historical parameters above.
 
 - [ ] **Amundsen Tower destruction — specifics**
   Exact construction dates (start and completion); weapon type used to destroy it; scale of the resulting "giant mountain of scrap" at the South Pole as a level environment. Directly affects DLC 1 (Kendra Heinrich) environment design.
@@ -146,6 +170,9 @@ These require a developer call before downstream work can proceed. None can be r
 
 - [ ] **Might/Nerve design pass** *(elevated from Long-Term)*
   Both stats are marked TENTATIVE in the game mechanics files. The other five MACHINE stats are solid. Complete before balance testing can begin.
+
+- [ ] **Tepenian Saints — create dedicated culture document**
+  Confirmed canon: pre-War of Upper Earth (pre-2083) figures significant in the exploration and development of Antarctica are venerated as "Saints" in Tepenian civic culture. Known Saints so far: St. Robert (Robert Falcon Scott — city of Scott); St. Ernest (Shackleton); St. Roald (Amundsen — Amundsen Station); St. Douglas (Mawson — city of Mawson); St. Richard (Byrd — city of Byrd). Honorific uses first name. Tepenian interpretation: explorers who died or sacrificed for Antarctica unknowingly prepared the home that exiles would later need — the debt is real and is honored. Key tradition: Hut Point remembrance on Tepenian Independence Day (June 21) in Scott and Fort McMurdo — candles, flowers, personal tokens. Create a document in `Worldspace/Tepenian_Culture/` (or equivalent) covering the full Saints framework, known Saints roster, civic observances, and how the framework varies by city.
 
 - [ ] **Pre-war Tepenian city culture — at least 5 cities**
   Destroyed cities appear in multiple character backstories but have no cultural identity beyond names. Each needs a brief cultural sketch — architecture, character, what was lost — to give character grief its texture. Palmer City is done. Minimum needed: Fort McMurdo, Janbogo, Belgrano, Neumayer, Mirny.
@@ -228,6 +255,14 @@ These require a developer call before downstream work can proceed. None can be r
   - `city layout - district layout - preliminary suggestions.txt` — early concept; confirm absorbed into district docs
   - `district pairings - districts and their natural allies.txt`, `preliminary faction suggestions.txt` — compare against `District_Natural_Allies.md` and Factions folder
 
+- [ ] **Amundsen Time Code (ATC) — design and integrate**
+  Tepenia's equivalent of UTC. Based on North America's Eastern Standard Time (EST / UTC−5). Rationale:
+  1. EST is home to New York City — one of the largest and most culturally, politically, and economically significant human settlements in history
+  2. EST is the single geographically longest-spanning time zone on the world map
+  3. EST de-facto encompasses the Antarctic Peninsula, home to Palmer City — the first Tepenian city, where robots (and their human allies) first set foot in 2564
+  Named after Amundsen Station, the neutral inter-subnet relay at the South Pole — the most geographically "centerless" location in Tepenia, and thus the natural symbolic anchor for a pan-Tepenian timekeeping standard.
+  To develop: how ATC is displayed in-game (clocks, the Arcanet, NPC dialogue); whether the Long Night War disrupted timekeeping consistency across subnets; whether the Planetary Split Brain created divergent local time conventions in isolated subnets; how ATC relates to the polar night / midnight sun (no sunrise/sunset to anchor local time perception).
+
 - [ ] **"the Arcanet" / "the Solarnet" — terminology cleanup pass**
   Many older GDD files use bare "Arcanet" or "Solarnet" as standalone nouns without the definite article. Confirmed rule: always "the Arcanet" / "the Solarnet" when used as head nouns (equivalent to "the internet"); no article needed when used as modifiers ("Arcanet subnet", "Arcanet cables"). Files most likely to need correction: city layout docs, City_Logistics.md, Historical_Pressures.md, Player_Homes.md, to-be-integrated/ files.
 
@@ -252,19 +287,34 @@ These require a developer call before downstream work can proceed. None can be r
   Marked TENTATIVE. Revisit when perk design pass happens.
 
 - [ ] **DLC structure — individual development**
-  Six DLCs planned, each covering one major geographic region. See `Storyline/DLC_Overview.md` for full breakdown.
+  Seven DLCs planned (one per subnet + South Pole). See `Storyline/DLC_Overview.md` for full breakdown.
+  **Confirmed scope standard:** main questline ~4–6 hours; optional side-content ~10–20 hours; total potential ~14–26 hours per DLC.
   - DLC 1: South Pole — **Kendra Heinrich** (character established; everything else TBD)
   - DLC 2: West Antarctica / Byrd — character and storyline TBD
   - DLC 3: Antarctic Peninsula (Palmer City ruins) — character and storyline TBD
   - DLC 4: Mawson Region (Indian Ocean coast) — character and storyline TBD
   - DLC 5: Atlantic Coastal Region (Halley, Belgrano, Queen Maud Land) — **Salagéa Aparast** (confirmed canon); storyline TBD
   - DLC 6: Janbogo Region (Ross Sea) — character and storyline TBD
+  - DLC 7: Mirny Region (East Antarctic coast and interior) — **confirmed as its own DLC slot**; central character and storyline TBD; known assets: Mirny city (Antarctic Circle threshold, intra-subnet Arcanet link to Concordia), Casey (destroyed, blocks Pink Lucy Route B), Vostok (robot geneticist confirmed — reduced-mutation genetics breakthrough, Lake Vostok connection), Kunlun (Ice Cold Buddhism holy site, observatory implementation required as story beat); note: Dome Fuji is Halley subnet (DLC 5), not Mirny subnet
+
+- [ ] **Byrd / Framheim / Little America founding — lore development**
+  Confirmed canon for the founding chain:
+  1. Old maps preserved at former Palmer Station, former Rothera Station, and former Belgrano Station II documented Byrd Station's location
+  2. A founding expedition using rudimentary early-era Kharkovchankas (primitive by later Tepenian standards; the vehicles existed in basic form from Soviet Antarctic programs) followed the maps to Marie Byrd Land
+  3. Found no surface structure — Byrd Station was entirely buried by 2564 (abandoned ~2005, buried for centuries)
+  4. Set up a surface camp, probed, found the tunnels; the settlement grew downward first (underground town) before expanding outward through lateral tunneling and then upward above ground
+  5. Underground archives at Byrd contained records of Framheim and Little America
+  6. A later expedition from Byrd used those records to calculate the recalculated Ross Ice Shelf position and rebuild Framheim / Little America from scratch, designed for ice movement
+  To develop: who led each expedition; the specific maps found at Palmer/Rothera/Belgrano II and what they contained; how the early-era Kharkovchanka compares to the mature vehicle (relevant to the broader Kharkovchanka technology development arc); the architectural design of rebuilt Framheim (precedents, engineering approach).
 
 - [ ] **Michelle Stanton — Kharkovchanka as DLC trigger and character thread**
   Michelle is one of the very few Concordia residents capable of physically leaving the city. Her Kharkovchanka gives her continental travel capacity that almost no one else in Concordia possesses. She stays anyway — a choice that has never been fully explained in-world. Two design directions to develop:
   1. **Character revelation:** Why does someone who can leave choose not to? The answer to this question is a core piece of her personal questline — the choice to stay is as meaningful as the reason for it.
   2. **DLC trigger:** She is a natural vehicle for getting the player out of Concordia for at least one DLC. Her Kharkovchanka and continental expertise could be the practical means of departure; her reasons for finally leaving (or lending the vehicle) could tie directly into the DLC's stakes.
   See Michelle Stanton README — Design Notes.
+
+- [ ] **Casey — city lore development (blocking Pink Lucy's migration route)**
+  No lore exists for the city of Casey. Pink Lucy's pre-war migration route is either via Janbogo (Highway 183 → Concordia) or via Casey (Highway 2 / Dumont Coast Highway → Highway 110 → Concordia). Route B cannot be confirmed until Casey has at least a basic cultural and geographic identity. Develop Casey before finalizing her backstory.
 
 - [ ] **Fort McMurdo and other Tepenian city lore**
   Palmer City is complete (`Worldspace/.../Cities/Palmer_City.md`). Full station-to-city map is complete. Fort McMurdo, Janbogo, Neumayer, Belgrano, Mirny, and others have no lore documents at Palmer City depth yet.
@@ -283,6 +333,14 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Completed
 
+- [x] Enneagram_Dynamics.md — created in Worldspace/; global integration/disintegration ruleset transcribed from source; per-character application distributed to all 17 confirmed-type character READMEs under "Behavior under stress" field
+- [x] Enneagram_Character_Index.md — created in Worldspace/Characters/; standalone per-character table with integration/disintegration directions for all confirmed-type characters; grows as new types are confirmed
+- [x] Ayako Hayashi — core personality written: very shy in social contexts; brightens on fashion (primary) and art (secondary); shyness disappears entirely in medical contexts due to inner wound (was present and unable to save her human when he had his accident); Arcade Gannon comparison clarified as structural-only (not personality template)
+- [x] Romance gate ordering rule — codified in Companion_System.md: Gate 1 (companion quest) always precedes Gate 2 (MACHINE stat check), which precedes Gate 3 (romance beat sequence)
+- [x] Design_Principles.md — created in Worldspace/; five-opportunity minimum rule for romance beats established and documented with full per-character opportunity arrays for all 13 designed romances
+- [x] Pink Lucy (FW-25) — romance design complete: Humanity ≥ 7 / Engine ≥ 6 / Nerve ≥ 5; full 5-beat Gate 3 sequence documented in Companion_System.md
+- [x] Majyao Bisyugota — romance design complete: Humanity ≥ 7 / Investigation ≥ 6 / Calculation ≥ 6; full 5-beat Gate 3 sequence documented; Blood River Tea optional beat flagged for expansion
+- [x] Ayako Hayashi — confirmed recruitable companion; romance design complete (Investigation ≥ 7 / Humanity ≥ 6 / Calculation ≥ 6; 6-beat Gate 3 sequence); Leo home designed (atelier-centered; full design in README); confirmed NOT Red Spiral leader
 - [x] Ji-Eun Kim — confirmed alive; Aquarius district confirmed canon; main game companion confirmed; concealment motivations and gameplay mechanic seeds documented
 - [x] Calethina's lab location — canonically Hub jurisdiction at Capricorn/Cancer border (updated in questline file)
 - [x] Vosora Lashár Tanslock — Gemini/Janbogo district confirmed canon

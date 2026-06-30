@@ -52,7 +52,7 @@ She reads as: someone who dresses entirely for function and doesn't need anyone 
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** spontaneous, joyful, lighter — the moral weight lifts and she allows herself delight without guilt (Type 7 direction). **Disintegration (stress) →** moody, self-absorbed, emotionally turbulent — the principled clarity collapses inward and becomes private suffering (Type 4 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

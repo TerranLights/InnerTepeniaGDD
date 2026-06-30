@@ -48,7 +48,7 @@ She reads as: someone whose body language is physical and practical at all times
 ## Personality & Voice
 - Core summary: TBD
 - Speech patterns / quirks / recurring phrases: TBD
-- Behavior under stress or in different districts: TBD
+- Behavior under stress or in different districts: **Integration (thriving) →** decisive, assertive, willing to act — the builder's drive becomes confident direction-setting rather than careful construction (Type 8 direction). **Disintegration (stress) →** scattered, avoidant, overstimulated — the methodical work pace fractures and she takes on more than she can process (Type 7 direction). District-specific behavior TBD.
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary

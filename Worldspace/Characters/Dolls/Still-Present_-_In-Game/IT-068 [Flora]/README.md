@@ -56,7 +56,7 @@ The profile images capture something the front-facing ones don't: there's a quie
 
 - **Speech patterns / quirks:** Direct. Short sentences when she knows what she's talking about; longer when she's working something out. Strong opinions about poor craftsmanship and lazy leadership. Complains accurately and specifically — not general frustration, but precise identification of what specifically is wrong and why.
 
-- **Behavior under stress:** More focused, not more emotional. Stress narrows her to the problem.
+- **Behavior under stress:** More focused, not more emotional. Stress narrows her to the problem. **Integration (thriving) →** calm, trusting, present — the world-weariness lifts and she lets people in without the test (Type 9 direction). **Disintegration (stress) →** driven, image-conscious, competitive — the dry pragmatism curdles into the need to be seen as capable (Type 3 direction).
 
 - **Moral tendencies:** Protective of workers and civilians; skeptical of large-scale idealism that costs specific people; willing to make hard calls but not recklessly.
 
