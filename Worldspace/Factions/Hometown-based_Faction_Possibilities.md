@@ -96,7 +96,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 1. Pioneering / Exploratory Heritage Cities
+## 6. Pioneering / Exploratory Heritage Cities
 **Typical origins:** Mirny-style stations and other frontier-oriented outposts known for pushing boundaries under harsh conditions.
 
 **Lived Background:** Emphasis on boldness, adaptability to the unknown, first-mover problem-solving, and a cultural pride in having established or expanded settlements in unforgiving terrain. High robot collaboration in exploration and construction.
@@ -108,7 +108,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 2. Precision / Engineering-Focused Stations
+## 7. Precision / Engineering-Focused Stations
 **Typical origins:** Neumayer and similar stations emphasizing meticulous engineering, measurement, and long-term structural reliability.
 
 **Lived Background:** Daily life revolved around accuracy, redundancy planning, and maintaining complex systems in extreme conditions. Cultural value on order, foresight, and quiet excellence in execution.
@@ -120,7 +120,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 3. Biological / Ecological / Life-Sciences Oriented Cities
+## 8. Biological / Ecological / Life-Sciences Oriented Cities
 **Typical origins:** Palmer Peninsula and other stations with strong focus on living systems, marine biology, or environmental monitoring.
 
 **Lived Background:** Close observation of fragile ecosystems, interdependence of life forms (including robotic integrations), and the delicate balance required for survival in Antarctica. Emphasis on stewardship, cycles, and interconnected webs of life.
@@ -132,7 +132,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 4. Artistic / Cultural Expression Groups
+## 9. Artistic / Cultural Expression Groups
 **Typical origins:** Cities or districts with stronger creative or preservationist traditions (often blended with scientific or engineering work — art as documentation, music as signal in isolation, etc.).
 
 **Lived Background:** In isolated or extreme environments, creative outlets (visual art, music, storytelling, design) served as emotional survival tools, documentation methods, and ways to maintain humanity/robot identity.
@@ -144,7 +144,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 5. Intergenerational & Experiential Groupings
+## 10. Intergenerational & Experiential Groupings
 **Typical origins:** Common across cities but especially pronounced where war or major station events created clear "before/after" cohorts.
 
 **Lived Background:** Older generations carry pre-Long Night War or early Tepenia memories; younger ones grew up in post-war scarcity or heightened robot integration. This creates natural affinity clusters around shared generational realities.
@@ -161,7 +161,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 6. Specialized Robot-Human Integration Circles
+## 11. Specialized Robot-Human Integration Circles
 **Typical origins:** Cities with particularly intensive or unique daily robot collaboration (maintenance-heavy interiors, exploratory teams, research labs).
 
 **Lived Background:** Deeply normalized, everyday partnerships with robots that went beyond utility into companionship, shared decision-making, or co-creation.
@@ -173,7 +173,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 1. Resource-Scarce / Stewardship-Focused Cities
+## 12. Resource-Scarce / Stewardship-Focused Cities
 **Typical origins:** Interior or high-latitude stations with chronic scarcity, limited resupply windows, and strong conservation cultures.
 
 **Lived Background:** Constant calculation of finite resources (power, heat, food, materials). Emphasis on careful allocation, reuse, zero-waste ingenuity, and long-term thinking about sustainability in closed systems.
@@ -190,7 +190,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 2. Communication / Signal / Isolation-Heavy Cities
+## 13. Communication / Signal / Isolation-Heavy Cities
 **Typical origins:** Remote stations reliant on intermittent comms, Arcanet relays, or long-distance signaling, especially those affected by post-Split Brain inconsistencies.
 
 **Lived Background:** Periods of enforced silence or unreliable contact; value placed on clear signaling, listening, message integrity, and the emotional weight of connection/loss of signal.
@@ -207,7 +207,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 3. Health, Body, & Augmentation-Oriented Communities
+## 14. Health, Body, & Augmentation-Oriented Communities
 **Typical origins:** Stations with high physical demands, medical research, or heavy cyberware/robotics integration for survival.
 
 **Lived Background:** Emphasis on bodily resilience, maintenance of human/machine interfaces, adaptation to environmental stressors, and collective care for health in extreme conditions.
@@ -219,7 +219,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 4. Education & Legacy-Transmission Cities
+## 15. Education & Legacy-Transmission Cities
 **Typical origins:** Stations with strong mentorship traditions, long-term research continuity, or multi-generational station families.
 
 **Lived Background:** Knowledge as the most important inheritance; structured or informal teaching woven into daily survival and research.
@@ -231,7 +231,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 5. Rhythmic / Seasonal / Temporal Cities
+## 16. Rhythmic / Seasonal / Temporal Cities
 **Typical origins:** Places with pronounced seasonal extremes (polar day/night cycles, storm seasons, resupply windows) or strong geothermal/thermal rhythms.
 
 **Lived Background:** Life organized around predictable (or dramatically shifting) temporal patterns — long dark winters, continuous light, or cyclic energy availability.
@@ -243,7 +243,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 6. Architectural / Spatial Psychology Groups
+## 17. Architectural / Spatial Psychology Groups
 **Typical origins:** Cities with distinctive station layouts (compact domes, linear corridors, elevated or buried structures) that shaped movement, privacy, and social interaction.
 
 **Lived Background:** Psychology deeply influenced by built environment — claustrophobia management, line-of-sight dynamics, communal vs private space balancing.
@@ -255,7 +255,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 1. Extreme Sensory Environment Cities
+## 18. Extreme Sensory Environment Cities
 **Typical origins:** Deep-cold interior stations, high-wind plateaus, or places with dramatic polar light/dark cycles and profound silence.
 
 **Lived Background:** Daily existence defined by intense cold, wind, silence, or extreme light conditions. Sensory adaptation became second nature; people developed heightened awareness (or protective numbing) to specific stimuli.
@@ -272,7 +272,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 2. Small-Team / Close-Knit Station Dynamics Cities
+## 19. Small-Team / Close-Knit Station Dynamics Cities
 **Typical origins:** Smaller or more isolated research/maintenance outposts where daily life happened in tight, interdependent groups.
 
 **Lived Background:** Strong emphasis on trust, role clarity, conflict navigation in confined spaces, and the emotional labor of maintaining harmony in small, high-stakes teams.
@@ -289,7 +289,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 3. Tool & Technological Adaptation Cities
+## 20. Tool & Technological Adaptation Cities
 **Typical origins:** Stations where improvisation with limited tools, heavy reliance on robotic assistance, or constant maintenance of complex equipment was central.
 
 **Lived Background:** Deep respect for tools (physical and digital), creative problem-solving with what is available, and a pragmatic relationship with technology as an extension of human/robot capability.
@@ -306,7 +306,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 4. Emotional & Psychological Resilience Cities
+## 21. Emotional & Psychological Resilience Cities
 **Typical origins:** Any station with prolonged isolation, high-stakes work, or repeated exposure to loss and uncertainty.
 
 **Lived Background:** Development of personal and communal practices for maintaining mental and emotional steadiness under pressure.
@@ -323,7 +323,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 5. Sustenance & Daily Nourishment Cultures
+## 22. Sustenance & Daily Nourishment Cultures
 **Typical origins:** Stations where food production, rationing, or communal meals were significant social and survival activities.
 
 **Lived Background:** Meals as rare moments of comfort, community, and cultural continuity; creative use of limited ingredients; rituals around eating and sharing.
@@ -335,7 +335,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 6. Identity, Naming & Legacy Cities
+## 23. Identity, Naming & Legacy Cities
 **Typical origins:** Places with strong station heritage, multi-generational presence, or deliberate efforts to maintain distinct cultural or personal identities despite uniformity pressures.
 
 **Lived Background:** Importance of names, stories, symbols, and self-definition as anchors of continuity and dignity.
@@ -347,7 +347,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 1. Levity & Dark Humor Cities
+## 24. Levity & Dark Humor Cities
 **Typical origins:** Stations where black humor, understatement, or ironic storytelling helped endure monotony, danger, or repeated setbacks.
 
 **Lived Background:** High-stakes environments where laughter (often dark) served as emotional release, bonding, and perspective-keeping tool.
@@ -359,7 +359,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 2. Boundary & Privacy-Management Cities
+## 25. Boundary & Privacy-Management Cities
 **Typical origins:** Compact or high-density stations where personal space was limited and clear social boundaries were essential for mental health.
 
 **Lived Background:** Cultural norms around signaling availability, respecting "do not disturb" cues, and balancing communal needs with individual recharge time.
@@ -376,7 +376,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 3. Movement & Physical Navigation Cities
+## 26. Movement & Physical Navigation Cities
 **Typical origins:** Stations with complex layouts, frequent EVA/exterior work, or environments requiring careful route planning and body awareness (wind, ice, confined corridors).
 
 **Lived Background:** Embodied knowledge of efficient, safe movement through challenging terrain or architecture; habits of spatial awareness and physical preparedness.
@@ -388,7 +388,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 4. Dream, Memory & Inner-Life Cities
+## 27. Dream, Memory & Inner-Life Cities
 **Typical origins:** Particularly isolated stations where long periods of solitude or repetitive routines encouraged rich inner lives, journaling, or dream work.
 
 **Lived Background:** Time for introspection, memory curation, and subconscious processing became central to maintaining psychological balance.
@@ -400,7 +400,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 5. Ritualized Celebration & Mourning Cities
+## 28. Ritualized Celebration & Mourning Cities
 **Typical origins:** Communities that developed structured or recurring ways to mark milestones, seasons, losses, or small victories amid hardship.
 
 **Lived Background:** Rituals provided structure, emotional release, and continuity when external conditions were unpredictable.
@@ -412,7 +412,7 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 6. Peer-Learning & Knowledge-Sharing Dynamics
+## 29. Peer-Learning & Knowledge-Sharing Dynamics
 **Typical origins:** Stations with strong horizontal (peer-to-peer) rather than strictly hierarchical learning cultures, often driven by necessity and overlapping expertise.
 
 **Lived Background:** Collaborative problem-solving and skill transmission through mutual teaching and experimentation.
