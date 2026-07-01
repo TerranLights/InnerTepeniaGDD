@@ -1,5 +1,7 @@
 # Inner Tepenia
 
+> **Global reference:** [`Game-Mechanics/Universal_Rules.md`](Game-Mechanics/Universal_Rules.md) — game-wide binding rules that apply across all systems. Consult this first when a rule's scope is unclear.
+
 **A top-down, isometric, turn-based Sci-Fi RPG and spiritual successor to old-school Fallout (1, 2, and New Vegas) set in a post-war world of humans, sentient robots, and the fragile nation they built together.**
 
 ### Genre & Style
