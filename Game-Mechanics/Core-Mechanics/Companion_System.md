@@ -99,6 +99,8 @@ Romance requires two independent conditions to be met simultaneously. Failing ei
 
 **Perks are explicitly excluded from Gate 2.** MACHINE stats and traits are chosen at character creation — they define who the player character fundamentally *is*. Perks are acquired through play — they represent what the character has learned and done. The romance gate is about fundamental identity, not accumulated experience. A player cannot perk their way into a romance they weren't built for.
 
+**Gate 2 checks permanent base stats only — not temporary boosts.** Temporary stat increases from food, chems, equipment, or any other time-limited effect do not count toward romance gate thresholds. Permanent raises — from character creation or through gameplay means such as the Intense Training perk — count in full. The gate is reading who the player character is, not who they are for the next thirty minutes.
+
 **Gate ordering — confirmed:** Gate 1 always comes before Gate 2. The companion quest completes first; the MACHINE stat check fires second, at the first organic moment where the character would naturally move toward romance. If the build meets the threshold, the romance beat sequence begins. If it does not, the signal line fires and the door closes. The stat check is never presented as a hard wall before the relationship develops — it fires inside the relationship, in the character's own voice, at the natural inflection point. On a replay with an eligible build, the player who heard the signal line already knows what to work toward.
 
 ### Threshold Design Per Character
@@ -128,6 +130,22 @@ Examples of the register (not final lines — those are written per character in
 - *"You're good people. Just not my type."*
 
 The player who hears this line has a clear signal. On a replay with a different build, they know what to work toward. The line is delivered once and not repeated unless the player re-initiates.
+
+### Gate Display — Visible MACHINE Stat Check
+
+**Romance gates are displayed using the same visible stat-check UI as all other MACHINE stat checks in the game.** There is no special UI treatment for romance. Both the passing option and the failing option appear in dialogue simultaneously, regardless of whether the player meets the threshold.
+
+- **Passing option:** All thresholds met — stats display in brackets, followed by the dialogue line.
+- **Failing option:** One or more thresholds not met — failed stats display as [current/required], met stats display normally, followed by the companion's signal line.
+
+Example (Lyuba Baranova; Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6):
+
+> **[8 N][7 H][6 E]** *"...go on..."*
+> **[6/8 N][6/7 H][6 E]** *"You break too easy."*
+
+The visible failed threshold is what makes the signal line legible — the player can see exactly which stats they are short on and what to build toward on a replay. A hidden gate would leave the signal line ambiguous. This convention also maintains consistency with every other stat-gated dialogue check in the game.
+
+**Fallout: New Vegas precedent (binding):** FNV uses visible skill checks throughout. Inner Tepenia follows the same convention.
 
 ### Romance Exclusivity — Monogamy Rule
 
@@ -189,6 +207,7 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | + all future companions | TBD | TBD | TBD | Rule: all recruitable companions are romanceable by default |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 | Ayako Hayashi | Recruitable companion | Investigation ≥ 7, Humanity ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; Red Spiral medic; highest Investigation gate in the roster; see full design note below |
+| Lyuba Baranova | Recruitable companion | Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6 | TBD | 8w7 Sexual; silver-tongue / unarmed fighter; Aries; highest Nerve gate in the roster; see full design note below |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 
 Non-recruitable named NPCs confirmed romanceable: Majyao Bisyugota (design note below). Further NPC romance status decided per character during design.
@@ -565,9 +584,43 @@ The quietest, most internally textured romance in the game alongside Fenny. She 
 
 ---
 
+### Lyuba Baranova — Romance Design
+
+**Stat gate:** Nerve ≥ 8 (primary), Humanity ≥ 7 (secondary), Engine ≥ 6 (tertiary)
+
+**Rationale:** Lyuba is an 8w7 Sexual type whose primary instrument is language — not confrontation, not physicality, but the word used precisely and well. This makes her, paradoxically, the hardest type to perform for: she invented every version of verbal charm you might try to deploy, and she can see the machinery inside it from several rooms away. The Nerve threshold is the highest in the entire roster (≥ 8) for this specific reason — the challenge is not holding ground when she confronts you directly, but holding ground under the quieter pressure of being read by someone this perceptive. The player who tries to match her wit fails. The player who performs genuine interest fails. The player who is simply and actually themselves, even while she takes them apart quietly, passes. Humanity ≥ 7 reflects the Sexual 8's deep investment in the specific individual: she will not open to someone who is warm in the abstract but lacks genuine interior feeling. She can tell the difference, and the difference matters more to her than almost anything else. Engine ≥ 6 matches her energy — the 7 wing keeps her fast and full; a sluggish person will not keep up with her over time.
+
+Note on differentiation from Seica Cenilaithe (also 8w7 Sexual): Seica's romance is built on physical confrontation, held ground, and the slow revelation of interior after the perimeter is earned through nerve. Lyuba's romance is built on verbal authenticity, the discovery that the player cannot be reduced to technique, and the quiet weight of access given through what she chooses to share. Both are 8w7 Sexual; neither resembles the other in form.
+
+**Signal line** (if stat threshold not met): *"You break too easy."*
+
+**Gate 3 — Romance beats** (after companion quest completion):
+
+Lyuba's romance is the arc of the player becoming the one person she cannot read, and what she does when she finds that.
+
+1. **The verbal test:** She says something designed to create small social pressure — not hostile, just diagnostic. It is the opening move she makes with anyone she finds interesting; she is watching how the player navigates it. The wrong responses: too clever (performing), too defensive (flinching), evasive (not present). The player who answers simply, honestly, and without making a project of it passes. She does not announce that anything has happened. The way she looks at them afterward is different.
+
+2. **She gives something real, unprompted:** At some point she tells the player something true that she didn't have to share — not a secret exactly, just something specific and real about herself or what she thinks. She is watching whether the player receives it or does something with it: files it, uses it, turns it into a compliment, reflects it back in the form of a reassurance. The player who simply receives it — who is just present with it for a moment before the conversation moves on — passes something she did not announce she was testing.
+
+3. **The night she goes quiet:** There is a point in the arc — tied to her companion quest — where she withdraws. Not hostile, not cold exactly; just gone to wherever she goes when something is heavy. She disintegrates toward 5 under real stress: she stops sharing, stops being present in the usual way, guards information she would normally give freely. The player who notices and gives her space — who checks in once, without demanding access, then waits — passes something she notices afterward. The player who presses fails. The player who takes the distance personally and disappears fails.
+
+4. **The culmination:** She says it plainly, in the way an 8 who has decided says things — directly, without hedging, without performed vulnerability. But the form is hers: words, precise and unadorned, carrying exactly the weight she intends. The 7 wing means there is warmth inside it she is no longer working to conceal. She says what she means. That is the whole of it.
+
+**Post-romance mini-questline beats** (fire after the romance is established and the player has home access):
+
+- **The literature wall:** The player can ask about her collection. She will talk about a specific work — one she returns to, what it gets right about something, why it stays. The player who responds with an actual position — agreement, pushback, a real question that shows they have been tracking what she said — gets somewhere. The player who admires the collection and moves on gets warmth but not access. This is not a test. It is simply how she opens: through the things she thinks about. *(Requires home access — reserved for post-romance content.)*
+
+- **The paper books:** She shows the player one of the paper books — not the collection, one specific one — and says briefly what makes it the one she chose. The books are private in a way the datashards are not. She is allowing the player access to something she does not show routinely. The right response is not the perfect reaction. It is a real one. She is watching for presence, not performance. *(Requires home access — reserved for post-romance content.)*
+
+---
+
 ## Romance Reward — Companion Player Homes
 
-**Romancing a companion unlocks that companion's personal home as a player home.** This is universal for all romanceable companions. The home becomes available to the player-character once the romance has been established, and remains available regardless of whether the companion is the currently active companion.
+**Romancing a companion unlocks that companion's personal home as a player home.** This is universal for all romanceable companions. **Romance is the gate — a companion's home is not accessible to the player at any point before the romance is established.** Once the romance is confirmed, that companion's home becomes available as a player home for as long as the romance status is maintained.
+
+**Home access is tied to romance status and is lost if the romance ends.** Under the monogamy rule, if the player romances a second companion or sleeps with a sexually-available NPC after committing to a romance, the original companion discovers the situation, the romance perk is lost, and home access is revoked along with it. The home belongs to the companion — the player was a guest by virtue of the relationship, and the relationship ending means the guest status ends.
+
+This means that any content, beat, or interaction that requires the player to be inside a companion's home cannot be part of the pre-romance arc. Such content must be reserved for post-romance mini-questlines or other post-romance interactions that fire only after home access has been granted. See individual companion romance designs for examples.
 
 All companion-unlocked homes exist **in addition to** the regular player homes available in the main game. They do not replace or supersede the standard home options. See `Worldspace/Locations-and-Levels/Player_Homes.md` for the full list of standard player homes.
 
@@ -576,6 +629,16 @@ All companion-unlocked homes exist **in addition to** the regular player homes a
 The location of each companion's home is tied to their character and district. Companion homes are distributed across Concordia and, in the case of DLC companions, may exist outside the main city as a secondary location. Kendra Heinrich's home is in Capricorn — her origin district and the base of The Reclaimed Record movement she helped seed. After completing her DLC and returning to Concordia, she establishes (or returns to) a residence there. Romancing her gives the player access to that home; if the romance has been perma-locked through dialogue, she maintains the Capricorn home independently and the player does not gain access through the romance route. Ayako Hayashi's home is in Leo — she lives near her atelier and the fashion/creative economy of the district by choice, not near the Red Spiral's Cancer HQ.
 
 Individual companion home designs (layout, contents, lore items, décor reflecting the companion's personality) are Phase 3 and Phase 7 design work per character. Ayako Hayashi's home design is fully developed — see her README.
+
+### Post-Romance Mini-Questline Reward: The Significant Object
+
+The romance perk and home access are the rewards for establishing the romance. Completing a **post-romance mini-questline** — where one exists — carries a separate and distinct reward: a **physical object** of deep personal significance to the companion, given to the player because the relationship has reached a depth of trust where parting with it is possible.
+
+This object is a **quest item**: it cannot be sold, dropped, lost, pickpocketed, or broken down. It is **examinable in the inventory UI** — selecting it produces a written description of what the object is and what it means that the companion gave it. It persists in the player's inventory for the remainder of the playthrough regardless of the subsequent state of the romance.
+
+The object is not a perk. It confers no mechanical bonus. It is a record — a thing the player carries — of what the relationship became.
+
+For design and implementation details, see Design_Principles.md Section III.
 
 ---
 

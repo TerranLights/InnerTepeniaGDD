@@ -537,10 +537,143 @@ Kendra's romance does not use the standard beat sequence. Her gate system is uni
 
 ---
 
+### Lyuba Baranova (8w7 Sexual)
+
+**Beat 1 — The verbal test**
+1. An early companion-quest moment where she is sizing the player up — she says something pointed and watches how they land it; the player answers without performance or hedging
+2. A downtime conversation at her Aries home where she opens with something that has an edge — the player meets it simply
+3. A third-party social encounter where she and the player are navigating a room together — she says something to the player in that context and observes how they handle it in public
+4. A Concordia social situation involving another faction or district — she watches how the player moves through social pressure in real time
+5. A companion-quest beat where she delivers a diagnostic remark about a third party and the player's response reveals their own character to her
+
+**Beat 2 — She gives something real, unprompted**
+1. A downtime scene at her Aries home where she mentions something she has been thinking about — said without directing it at the player; the player doesn't act on it
+2. A rest moment during a companion-quest beat where she says something true about herself in passing — the player receives it without probing
+3. A quiet moment after a mission where she says something about how she handled it that is more honest than necessary — the player lets it be what it is
+4. A companion-quest beat where something from her backstory surfaces and she names it briefly — the player doesn't turn it into a conversation about her
+5. A late-evening visit where she says something about what she actually thinks about a situation — the player is there for it without transforming it into a topic
+
+**Beat 3 — The night she goes quiet**
+1. A companion-quest beat that hits something heavy — she goes quiet across the subsequent in-game period; the player can check in once without pressing, then waits
+2. A period in the companion quest where she is not reachable in her usual way — the player's choice not to pursue is tracked
+3. A companion-quest moment where she disengages from her normal conversational rhythm — the player's single non-pressuring check-in fires once before the beat closes
+4. A mission where something goes wrong for her emotionally — afterward, she is less present; the player checks in once correctly and does not follow up
+5. A quiet in-game stretch following a difficult companion-quest revelation where she has nothing operational for the player — the player's choice to wait is the entire beat
+
+**Beat 4 — The culmination**
+1. A companion-quest resolution moment where the culmination arrives as a natural extension of what just happened — stated once, clearly
+2. A rest scene in a location meaningful to her companion quest — she says it in the moment that follows
+3. A late-evening scene at a location accessible before home access where the conversation has been going somewhere and she decides — stated without buildup
+4. A downtime beat after all prior pre-romance beats have landed — she says what she has decided
+5. A moment during or just after the companion quest's final beat, while they are still in the field or in a neutral location
+
+**Post-romance mini-questline beats** *(fire after the romance is established and the player has gained home access — opportunity arrays TBD when post-romance content is designed)*
+
+- **The literature wall:** Player asks about a specific title from the main collection; she talks about it substantively; the player responds with an actual position rather than admiration. *(Home access required.)*
+- **The paper books:** She shows the player one specific paper book from the private shelf and says briefly what makes it the one she chose. Player receives it with genuine presence rather than performance. *(Home access required.)*
+
+---
+
 *Calethina's romance mini-quest beats are pending Phase design work. When designed, the five-opportunity minimum applies to each beat in the same way as all other romanceable characters.*
 
 ---
 
-## II. [Future Principle — TBD]
+## II. Romance Gate Visibility
 
-*(Additional world and quest-building principles to be added here as they are established.)*
+### The Rule
+
+**All romance gates are displayed using the same visible stat-check UI as all other MACHINE stat checks in the game.** There is no special treatment for romance — the gate appears in dialogue exactly as a persuasion or intimidation check would appear.
+
+Both options are shown regardless of whether the player meets the threshold:
+
+- **Passing option:** All thresholds met. The stats display in brackets, followed by the dialogue line.
+- **Failing option:** One or more thresholds not met. Failed stats display as [current/required], met stats display normally, followed by the companion's signal line.
+
+Example (Lyuba Baranova; Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6):
+
+> **[8 N][7 H][6 E]** *"...go on..."*
+> **[6/8 N][6/7 H][6 E]** *"You break too easy."*
+
+The player who sees the failing option knows immediately which stats they are short on. The signal line is the companion speaking in their own voice about what they need — it is not a UI notification. The gate display makes the signal line legible by showing the player exactly where they fell short.
+
+**Why this rule exists:**
+
+1. **Consistency.** Other stat-gated dialogue already uses visible checks. Romance gates using a different convention would create asymmetry that implies romance is a special category requiring different UI behavior. It is not — it is a stat check that asks a different question (who you are, not what you can do), but its display format is the same.
+
+2. **Legibility of the signal line.** The signal line only does its full work if the player understands why it fired. A hidden gate followed by a rejection leaves the player guessing. A visible failed threshold followed by the signal line is immediately readable: they can see what they need to build toward on a replay.
+
+3. **Replayability.** The Companion System doc explicitly describes the replay loop: "On a replay with an eligible build, the player who heard the signal line already knows what to work toward." This only functions cleanly if the failing state is legible. The visible gate is what makes the signal line a mechanic rather than just a line of dialogue.
+
+**Fallout: New Vegas precedent (binding):** FNV uses visible skill checks throughout. The format is established. Inner Tepenia follows it.
+
+---
+
+## III. Post-Romance Mini-Questlines
+
+### Overview
+
+A post-romance mini-questline is a short, focused arc that fires only after a romance has been fully established with a companion — after the romance perk has been granted and the companion's player home has been unlocked. It is distinct from both the companion questline and the Gate 3 romance beat sequence. It is not a reward for completing the romance; it is content that is only possible *because* the romance exists.
+
+This is not a common design pattern. Most games treat the romance as the destination and end there. The post-romance mini-questline treats the established relationship as a starting condition and asks what can be built from that foundation that couldn't have existed before it.
+
+### Guiding Principles
+
+**1. The content must be only possible because the relationship exists — not merely gated by it.**
+
+This is the foundational distinction. A gated beat is a locked door — any sufficiently credentialed player can open it. Post-romance content should be something that genuinely *could not have happened* before: either because the companion would not have permitted it, or because the physical space (the home) was not yet accessible, or because the specific trust required to receive this layer had not been built. If the content could plausibly have appeared in the pre-romance arc, it does not belong here.
+
+**2. Chosen vulnerability, not stress vulnerability.**
+
+The pre-romance arc can and often does show a companion breaking down under pressure — disintegration under stress, a difficult quest beat, a moment the player witnesses rather than being given. Post-romance content should show something categorically different: the companion *choosing* to be unguarded. This is a distinct register. "You saw me at my worst" is stress vulnerability. "I am showing you this because I decided to" is chosen vulnerability. The post-romance mini-questline operates in the second register. A companion who has decided to open a door is doing something entirely different from one who had a door forced open by circumstances.
+
+**3. Relational conflict rather than external conflict.**
+
+Pre-romance questlines use external stakes — a faction threat, a mystery, a danger — to develop the relationship as a byproduct. A post-romance mini-questline can afford to put the relationship itself at the center. A disagreement. A discovery that complicates something between them. A moment where the player and companion want different things and have to navigate it as a couple. No external villain required. The relationship is both the subject and the arena.
+
+**4. Deepens rather than resolves.**
+
+Pre-romance has a clear destination: the romance. Post-romance has a different structure. The question is no longer "will this happen?" but "what does it mean that it did?" The arc should leave the player knowing something about the companion — or about the relationship, or about what the player's own character is to this person — that they did not know before. It does not resolve anything. It opens a new layer.
+
+**5. Short, concentrated, emotionally dense.**
+
+This is a *mini*-questline by design. One to three beats, not a second full companion arc. The compression is intentional — intimacy does not always require space to sprawl. A single domestic moment that opens something new can carry more weight than an extended sequence. The brevity is part of what distinguishes it from the pre-romance arc.
+
+### Structural Template
+
+While each companion's post-romance mini-questline will be unique to their character, the following sequence describes the general shape:
+
+1. **Inciting access:** Something becomes visible, discoverable, or accessible from within the companion's home — or from within the new register of the relationship — that could not have been noticed before. Not a main-quest event. Something domestic, intimate, noticed. An object. A habit. Something the player sees now that they are here.
+
+2. **The reveal:** Something about the companion's interior — a piece of their past, a thing they made or kept or lost, a thought they have been carrying — becomes available to the player. The companion offers it. Not because they were asked. Because they decided to.
+
+3. **A moment of real chosen vulnerability:** The companion in a state they would not have permitted before the romance. Distinct from stress collapse — this is deliberate openness. The player must be present for it, not just witness it.
+
+4. **The player's response:** A dialogue choice or a player action that determines how the player receives what they have been given. This is not a pass/fail gate. It shapes the texture of the relationship going forward.
+
+5. **The relationship deepens.** No new status is conferred — the romance already exists. What changes is the quality of it. The player leaves knowing something they did not know when they arrived.
+
+### Reward: The Significant Object
+
+Completing a post-romance mini-questline does not yield a perk. It yields a **physical object** — something of deep personal significance to the companion, given to the player because the relationship has reached a level of trust where parting with it is possible.
+
+The object is:
+- A **quest item** — it cannot be sold, dropped, lost, pickpocketed, or broken down. It is protected at the same level as main-quest critical items.
+- **Weightless.** All quest items, including this one, carry no inventory weight. This is a universal rule for quest items throughout the game, not specific to post-romance rewards.
+- **Examinable in the inventory UI** — selecting it produces a written description: what the object is, its age or provenance, and what it means that the companion gave it. This description is written in the voice of someone who knows why the player has it.
+- **Unique to this companion and this relationship.** It exists in the player's inventory permanently as a record of what the relationship became.
+
+The choice of object is determined by the companion's character, their backstory, and the specific content of their post-romance mini-questline. It should be something that:
+- Could not have been given before the romance reached this specific depth
+- Tells the player something about the companion they did not fully understand before receiving it
+- Has weight as a thing — not symbolic shorthand, but something that was genuinely hers and is now genuinely the player's
+
+The quest item protection is not only mechanical. It is a design statement: this cannot be carelessly discarded. The player who picks up this item carries it for the rest of the playthrough whether they think about it or not.
+
+### Application
+
+Post-romance mini-questline beats are flagged as such in individual companion romance designs. They are documented separately from the Gate 3 beat sequence and are never prerequisites for the romance itself. They are content that the romance makes possible, not content that completes it.
+
+Currently flagged post-romance beats:
+- **Lyuba Baranova:** The literature wall; the paper books (provenance of pre-exile Earth originals as an opening into her past)
+
+Additional companions: TBD as romance designs are developed. Not every companion is required to have a post-romance mini-questline — only those whose character and backstory naturally support this layer.
