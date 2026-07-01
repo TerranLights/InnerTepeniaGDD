@@ -47,7 +47,21 @@
 ---
 
 ## Visual Description
-*(Reference files in `Reference_Images/` — populate when images are added)*
+*(Reference files in `Reference_Images/` — SiR161 Tasha/Cinnamon series)*
+
+**Build:** Full-figured and curvy — substantial physical presence, but carried softly rather than with visible musculature. The Might 9 is not legible on sight. This is exactly right for a character whose first move is always words; the physicality is a surprise, not an advertisement.
+
+**Face:** Rounded, soft features with a warm fair complexion. The face reads as approachable — almost disarmingly so — until you reach the eyes. Vivid, striking blue, and they don't match the softness of everything else. There's something watching in them at all times, even when she's relaxed. The contrast between the gentle face and the intensity of the gaze is the defining visual tension.
+
+**Hair:** Dark brown, long, worn loose or in twin tails. The twin tail style is notably at odds with her personality register — it's soft, almost playful — which is part of the point. She doesn't dress to signal what she is.
+
+**Signature accessory:** Large over-ear headphones, rose gold and red. Present often enough to read as characteristic. Consistent with the literary/interior life she maintains privately — she listens to things.
+
+**Jewelry:** Small cross/ankh pendant on a thin black cord. Worn close to the throat. Understated.
+
+**Casual aesthetic:** Comfortable, form-fitting, unpretentious — ribbed fabrics, nothing performative. This is someone who dresses for herself. The overall look is warmer and more approachable than the Aries district context would suggest, which is accurate: she is an anomaly in that district and her appearance reflects it.
+
+**Design note for character art:** The defining visual task is the eyes — everything else can read soft and the character still works, but the eyes have to carry the intelligence and the watchfulness. A player who looks at her face should feel, even before she speaks, that they are being assessed.
 
 ---
 
