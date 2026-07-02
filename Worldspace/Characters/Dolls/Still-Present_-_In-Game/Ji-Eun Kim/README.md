@@ -11,7 +11,7 @@
 > **Full lore:** `Worldspace/Characters/Major_NPCs/Ji-Eun_Kim.md`
 
 ## Core Identity
-**Activation Date & Origin:** TBD — built and trained in Unified Korea
+**Activation Date & Origin:** TBD — built and trained in Unified Korea; first Antarctic landing at Sejong (King George Island, Palmer Subnet); relocated to Zhongshan (Larsemann Hills, Mirny Subnet) before eventually settling in Concordia
 
 **Enneagram / Personality Framework:**
 - Type: 5w4 (The Investigator with wing 4 / The Individualist)
@@ -67,6 +67,8 @@ She reads as: someone for whom trust is something earned in specific directions,
 Ji-Eun Kim is a master nanotech engineer — one of the most technically accomplished practitioners of nanotechnology in Concordia and possibly in the broader Tepenian Federation.
 
 She was built and trained in Unified Korea during a period when anti-robot sentiment was at an all-time high. She fought her way to the top of her field in this environment — not easily. By the late 25th century, she had become recognized as one of the greatest nanotechnicians on the planet — a global reputation, not merely a Tepenian one. Following the Falkland Treaty (June 21, 2564), she was exiled to Antarctica along with the broader robot population. She did not choose to come to Antarctica. She was sent. That distinction — between exile and emigration — is a fact she carries.
+
+Her first landing was at Sejong, on King George Island. She later relocated to Zhongshan — a deeply Chinese city on Prydz Bay whose cultural insularity and serious technical character suited her. She spent significant time there before moving to Concordia, drawn by its industrialized, unassuming reputation: a city large enough and busy enough that a person who did not want to be noticed could simply not be noticed.
 
 Rather than abandoning her work, Ji-Eun continued her nanotech research after arriving in Concordia. She established a testing facility which is now in ruins. Her most publicly known contribution was engineering the Eyes of Gold's gold ocular prosthetics — the surgical implants that serve as the faction's rite of passage. She was a friend to the Eyes of Gold without ever being a member.
 

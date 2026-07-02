@@ -225,6 +225,18 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
+**Byrd** *(Marie Byrd Land / West Antarctic Ice Sheet)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | TBD |
+| Significant | TBD |
+| Notable | TBD |
+
+*Note: National origin composition pending immigration composition analysis.*
+
+---
+
 ### Janbogo Subnet — Ross Sea
 
 ---
@@ -291,6 +303,30 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
+**Concordia** *(Dome C — East Antarctic Plateau, inland)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | TBD |
+| Significant | TBD |
+| Notable | TBD |
+
+*Note: National origin composition pending immigration composition analysis. Primary setting of Inner Tepenia; largest surviving city in the post-Long Night War period.*
+
+---
+
+**Denison** *(Cape Denison — George V Land, coastal)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | TBD |
+| Significant | TBD |
+| Notable | TBD |
+
+*Note: National origin composition pending immigration composition analysis.*
+
+---
+
 ### Mawson Subnet — East Antarctic Indian Ocean Coast
 
 ---
@@ -302,28 +338,6 @@ National communities are classified by tier based on long-run population share. 
 | Primary | China |
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Thailand, Czech Republic, Ukraine, Vietnam, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Lithuania, Slovenia, Latvia, Estonia |
-
----
-
-**Davis** *(Vestfold Hills, Prydz Bay — mainland coast)*
-
-| Tier | Nations |
-|------|---------|
-| Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
-
----
-
-**Zhongshan** *(Larsemann Hills, Prydz Bay — mainland coast)*
-
-| Tier | Nations |
-|------|---------|
-| Primary | China *(founding operator heritage)* |
-| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
-
-*Note: Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary — Chinese cultural identity is continuous from founding through present.*
 
 ---
 
@@ -359,7 +373,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-### Mirny Subnet — Wilkes Land
+### Mirny Subnet — Wilkes Land / East Antarctic Plateau
 
 ---
 
@@ -380,6 +394,52 @@ National communities are classified by tier based on long-run population share. 
 | Primary | China, USA |
 | Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — shortest Australia-to-Antarctica route of any Tepenian city)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
+
+---
+
+**Davis** *(Vestfold Hills, Prydz Bay — mainland coast)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+---
+
+**Zhongshan** *(Larsemann Hills, Prydz Bay — mainland coast)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China *(founding operator heritage)* |
+| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+*Note: Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary — Chinese cultural identity is continuous from founding through present.*
+
+---
+
+**Vostok** *(East Antarctic Plateau — inland)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | TBD |
+| Significant | TBD |
+| Notable | TBD |
+
+*Note: National origin composition pending immigration composition analysis.*
+
+---
+
+**Kunlun** *(Dome A — East Antarctic Plateau, inland)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | TBD |
+| Significant | TBD |
+| Notable | TBD |
+
+*Note: National origin composition pending immigration composition analysis.*
 
 ---
 
@@ -417,10 +477,10 @@ National communities are classified by tier based on long-run population share. 
 | 6 | Halley | Halley | 711,583 | 744,515 | **1,456,098** | |
 | 7 | Mawson | Mawson | 713,748 | 741,178 | **1,454,926** | |
 | 8 | Mirny | Mirny | 668,613 | 688,321 | **1,356,934** | |
-| 9 | Zhongshan | Mawson | 634,485 | 650,009 | **1,284,494** | |
+| 9 | Zhongshan | Mirny | 634,485 | 650,009 | **1,284,494** | |
 | 10 | Neumayer | Halley | 616,805 | 641,537 | **1,258,342** | |
 | 11 | Bharati_TBD | Mawson | 578,925 | 604,408 | **1,183,333** | |
-| 12 | Davis | Mawson | 567,640 | 598,978 | **1,166,618** | |
+| 12 | Davis | Mirny | 567,640 | 598,978 | **1,166,618** | |
 | 13 | Princess Elisabeth | Halley | 556,576 | 587,111 | **1,143,687** | |
 | 14 | Belgrano | Halley | 536,403 | 544,511 | **1,080,914** | *(ruins, DLC 5)* |
 | 15 | Soyuz | Mawson | 521,255 | 552,346 | **1,073,601** | *(destroyed)* |
@@ -444,15 +504,17 @@ National communities are classified by tier based on long-run population share. 
 | 33 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
 | — | **TOTAL** | | **15,124,904** | **15,708,675** | **30,833,579** | |
 
+*Note: Five cities are not included in Census I figures pending immigration composition analysis: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Denison (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet). National origin compositions for these cities are listed as TBD in Section I.*
+
 ### Subnet Totals — Census I
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 4,127,120 | 4,258,076 | **8,385,196** |
 | Janbogo / Ross Sea | 3,270,117 | 3,406,711 | **6,676,828** |
-| Mawson / Indian Ocean | 3,139,709 | 3,279,363 | **6,419,072** |
+| Mawson / Indian Ocean | 1,937,584 | 2,030,376 | **3,967,960** |
 | Palmer / Antarctic Peninsula | 2,324,261 | 2,411,981 | **4,736,242** |
-| Mirny / Wilkes Land | 1,407,031 | 1,455,058 | **2,862,089** |
+| Mirny / Wilkes Land + Plateau | 2,609,156 | 2,704,045 | **5,313,201** |
 | Byrd / Ross Ice Shelf | 855,540 | 891,723 | **1,747,263** |
 | Amundsen / South Pole | 1,126 | 5,763 | **6,889** |
 | **TOTAL** | **15,124,904** | **15,708,675** | **30,833,579** |
@@ -513,11 +575,11 @@ National communities are classified by tier based on long-run population share. 
 | 5 | Casey | Mirny | 436,922 | 605,109 | **1,042,031** | |
 | 6 | Cape Adare | Janbogo | 426,343 | 623,708 | **1,050,051** | |
 | 7 | Mirny | Mirny | 507,344 | 509,151 | **1,016,495** | |
-| 8 | Zhongshan | Mawson | 522,372 | 474,312 | **996,684** | |
+| 8 | Zhongshan | Mirny | 522,372 | 474,312 | **996,684** | |
 | 9 | Mawson | Mawson | 427,321 | 525,125 | **952,446** | |
 | 10 | Soyuz | Mawson | 437,854 | 450,438 | **888,292** | *(destroyed in Long Night War)* |
 | 11 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(ruined; DLC 5)* |
-| 12 | Davis | Mawson | 437,423 | 344,173 | **781,596** | |
+| 12 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 13 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
 | 14 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 15 | Bharati_TBD | Mawson | 336,124 | 392,200 | **728,324** | |
@@ -541,15 +603,17 @@ National communities are classified by tier based on long-run population share. 
 | 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
 | — | **TOTAL (Antarctic)** | | **10,350,295** | **11,280,079** | **21,630,374** | |
 
+*Note: Five cities are not included in Census II figures pending immigration composition analysis: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Denison (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet).*
+
 ### Antarctic Surface — Subnet Totals (Census II)
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 2,778,631 | 2,892,168 | **5,670,799** |
 | Janbogo / Ross Sea | 2,321,838 | 2,590,275 | **4,912,113** |
-| Mawson / Indian Ocean | 2,246,293 | 2,266,006 | **4,512,299** |
+| Mawson / Indian Ocean | 1,286,498 | 1,447,521 | **2,734,019** |
 | Palmer / Antarctic Peninsula | 1,505,067 | 1,805,987 | **3,311,054** |
-| Mirny / Wilkes Land | 944,266 | 1,114,260 | **2,058,526** |
+| Mirny / Wilkes Land + Plateau | 1,904,061 | 1,932,745 | **3,836,806** |
 | Byrd / Ross Ice Shelf | 553,287 | 607,405 | **1,160,692** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
 | **TOTAL (Antarctic)** | **10,350,295** | **11,280,079** | **21,630,374** |
