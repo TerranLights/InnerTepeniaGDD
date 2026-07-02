@@ -186,6 +186,15 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Pre-war Tepenian city culture — at least 5 cities**
   Destroyed cities appear in multiple character backstories but have no cultural identity beyond names. Each needs a brief cultural sketch — architecture, character, what was lost — to give character grief its texture. Palmer City is done. Minimum needed: Fort McMurdo, Janbogo, Belgrano, Neumayer, Mirny.
 
+- [ ] **City composite post-cultures — full pass across all cities**
+  For every city, use its nation-of-origin tier composition (`Upper_Earth_Immigration_Composition.md`) to sketch a few candidate "composite new post-cultures" that could plausibly emerge from the specific mix of nationalities/ethnic backgrounds coexisting there — not just a list of source cultures, but what a blended, generations-deep Tepenian culture unique to that city might actually look like (language, food, custom, aesthetic). See also existing "Pre-war Tepenian city culture" item above and the memory note on this project (`project_city_post_cultures`).
+
+- [ ] **Amundsen Tower — determine actual dimensions**
+  Derive real dimensions (height, cross-section, tether/anchor geometry) from a set of engineering requirements (payload throughput, structural material limits, orbital mechanics of a South Pole-anchored space elevator, construction-era tech level). Currently only construction dates and destruction specifics are flagged as open (see "Amundsen Tower destruction — specifics" above); this item is about the structure's physical scale itself.
+
+- [ ] **Orbital infrastructure — logistics, mathematics, and dimensions**
+  Work out the low-earth-orbit infrastructure Tepenians (1) initially lived aboard (the robot-only staging station, then the first and subsequent Von Braun Wheels) and (2) later fled to during the Long Night War evacuations. Needed: population capacity math consistent with the ~9.2M pre-war orbital population (52% human / 48% robot — see "Orbital population" item above), habitat ring dimensions/rotation for gravity simulation, number and growth timeline of Von Braun Wheels, and how Amundsen Tower's throughput capacity ties into both the original build-out and the wartime evacuation surge.
+
 - [ ] **Midwestland — add to Maps/**
   Referenced in Trisha Miller's and Michelle Stanton's backstories as their Upper Earth origin. No map document exists for it.
 
