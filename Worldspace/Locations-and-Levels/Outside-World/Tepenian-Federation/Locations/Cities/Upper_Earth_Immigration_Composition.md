@@ -402,6 +402,20 @@ Same geographic position as Janbogo.
 
 ---
 
+### Denison *(Cape Denison, George V Land, ~67°00'S 142°40'E)*
+
+| Tier | Nations | Key drivers |
+|------|---------|-------------|
+| 1 — Primary | **China** (210M), **USA** (155M) | The two largest Gini-adjusted effective pools globally; both reach Cape Denison via Pacific routes (~14,000–15,000km); natural gap of ~3× separates this pair from the next cluster |
+| 2 — Significant | **Japan** (65M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Pacific corridor nations 13–65M; Australia (~3,400km via Hobart — one of the shorter Australia-to-East-Antarctic routes) sets the founding wave character |
+| 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8, all within ±3 of Denison's UTC+9); NZ via Christchurch/Hobart |
+
+*Founding note: Australia's founding wave character at Denison reflects Douglas Mawson's 1912 Commonwealth Bay expedition — the first Antarctic presence at this specific site. Australia and New Zealand arrive first; China and USA dominate long-run composition. The absence of France distinguishes Denison from the otherwise geographically similar Dumont d'Urville.*
+
+*Population note: Denison's Canon Census I figures were derived through a redistribution analysis (all other chartered cities contributing proportional shares to fund the new coastal city), not the standard island-overflow tier calculation. Canon Census I: 526,521 humans / 546,852 robots / 1,073,373 combined. Census II retention rates are pending.*
+
+---
+
 ## MAWSON SUBNET — East Antarctic Coast (Indian Ocean Sector)
 
 **Corridor:** Hobart and Fremantle (Australia) → East Antarctic Indian Ocean coast. South Africa (Cape Town) is a secondary gateway for the westernmost Mawson cities.
@@ -417,28 +431,6 @@ Same geographic position as Janbogo.
 | 1 — Primary | **China** | 210M Gini-adjusted effective; ~11,000km via Fremantle; natural gap of ~3× separates China from Japan; sole T1 primary |
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads (65M, ~8,500km Fremantle); Germany and France via Cape Town approach (~9,500km); Australia (~4,500km Hobart/Fremantle) sets the founding wave character |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Thailand** (8M), **Czech Republic** (5M), **Ukraine** (5M), **Vietnam** (5M), **Romania** (4.5M), **Norway** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Mawson is uniquely dual-gateway: full Intermarium (UTC+1–3 nations, all within ±3 of UTC+4) meet SE Asian corridor (Thailand and Vietnam, UTC+7, just within ±3); South Africa T3 despite Cape Town approach |
-
----
-
-### Davis *(Vestfold Hills, Prydz Bay, ~68°35'S 77°58'E)*
-
-| Tier | Nations | Key drivers |
-|------|---------|-------------|
-| 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Germany and UK via Cape Town approach now competing with Hobart at this longitude; Australia (~4,000–4,500km Hobart/Fremantle) sets founding wave character |
-| 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian corridor (Thailand, Vietnam, Philippines, Malaysia — UTC+7–8, all within ±3 of Davis's UTC+5) meets Intermarium east (Ukraine, Romania, Bulgaria, Baltic states, Belarus — UTC+2–3); SA via Cape Town (long at this longitude); NZ via Hobart |
-
----
-
-### Zhongshan *(Larsemann Hills, Prydz Bay, ~69°22'S 76°22'E)*
-
-Same geographic cluster as Davis.
-
-| Tier | Nations | Key drivers |
-|------|---------|-------------|
-| 1 — Primary | **China** | 210M Gini-adjusted effective; operator heritage in GDD + largest effective pool = sole T1 primary; the founding nation is also the long-run dominant nation |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: operator heritage partially justifies GDD secondary character; Australia sets founding wave character |
-| 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east corridor as Davis (both UTC+5 cluster) |
 
 ---
 
@@ -478,9 +470,31 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 
 ---
 
-## MIRNY SUBNET ("Australian") — Davis Coast / Wilkes Land Interior
+## MIRNY SUBNET ("Australian") — Prydz Bay / Davis Coast / Wilkes Land Interior
 
-**Corridor:** Hobart (Australia) → East Antarctic Davis Coast / Wilkes Land.
+**Corridor:** Hobart and Fremantle (Australia) → Prydz Bay / Davis Coast / Wilkes Land.
+
+---
+
+### Davis *(Vestfold Hills, Prydz Bay, ~68°35'S 77°58'E)*
+
+| Tier | Nations | Key drivers |
+|------|---------|-------------|
+| 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Germany and UK via Cape Town approach now competing with Hobart at this longitude; Australia (~4,000–4,500km Hobart/Fremantle) sets founding wave character |
+| 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian corridor (Thailand, Vietnam, Philippines, Malaysia — UTC+7–8, all within ±3 of Davis's UTC+5) meets Intermarium east (Ukraine, Romania, Bulgaria, Baltic states, Belarus — UTC+2–3); SA via Cape Town (long at this longitude); NZ via Hobart |
+
+---
+
+### Zhongshan *(Larsemann Hills, Prydz Bay, ~69°22'S 76°22'E)*
+
+Same geographic cluster as Davis.
+
+| Tier | Nations | Key drivers |
+|------|---------|-------------|
+| 1 — Primary | **China** | 210M Gini-adjusted effective; operator heritage in GDD + largest effective pool = sole T1 primary; the founding nation is also the long-run dominant nation |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: operator heritage partially justifies GDD secondary character; Australia sets founding wave character |
+| 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east corridor as Davis (both UTC+5 cluster) |
 
 ---
 
@@ -629,13 +643,13 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 9 | **Amundsen Station** | South Pole | 904,000 | 904,000 | **1,808,000** |
 | 10 | **Scott** | Janbogo | 894,000 | 894,000 | **1,788,000** |
 | 11 | **Princess Elisabeth** | Halley | 890,000 | 890,000 | **1,779,000** |
-| 12 | **Zhongshan** | Mawson | 881,000 | 881,000 | **1,762,000** |
+| 12 | **Zhongshan** | Mirny | 881,000 | 881,000 | **1,762,000** |
 | 13 | **Cape Adare** | Janbogo | 861,000 | 861,000 | **1,722,000** |
 | 14 | **Juan Carlos I** | Palmer | 848,000 | 848,000 | **1,695,000** |
 | 15 | **Bharati_TBD** | Mawson | 843,000 | 843,000 | **1,686,000** |
 | 16 | **Soyuz** *(destroyed)* | Mawson | 838,000 | 838,000 | **1,675,000** |
 | 17 | **Aboa** | Halley | 809,000 | 809,000 | **1,617,000** |
-| 18 | **Davis** | Mawson | 805,000 | 805,000 | **1,611,000** |
+| 18 | **Davis** | Mirny | 805,000 | 805,000 | **1,611,000** |
 | 19 | **Mirny** | Mirny | 790,000 | 790,000 | **1,579,000** |
 | 20 | **Marambio** | Palmer | 751,000 | 751,000 | **1,502,000** |
 | 21 | **Troll** | Halley | 750,000 | 750,000 | **1,501,000** |
@@ -693,7 +707,7 @@ The Gini-adjusted tier calculation distributes exiles mathematically without reg
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
 - Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%), **Framheim** (7.5%), **Little America** (7.5%)
 - DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%), **Framheim/Little America** (2.5% each)
-- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Maitri_TBD** (15%), **Davis** (15%), **Zhongshan** (15%), **Bharati_TBD** (10%)
+- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Maitri_TBD** (15%), **Davis** (15%), **Zhongshan** (15%), **Bharati_TBD** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
 
 ### Island caps
 
@@ -727,9 +741,9 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 7 | **Mawson** | Mawson | 943K | **1,119K** | **2,239K** | Mainland coast; receives Sayowa overflow |
 | 8 | **Mirny** | Mirny | 790K | **1,071K** | **2,143K** | Mainland coast; receives DdU + Sayowa overflow |
 | 9 | **Neumayer** | Halley | 639K | **999K** | **1,997K** | Ice shelf coast; absorbs Peninsula island overflow |
-| 10 | **Zhongshan** | Mawson | 881K | **987K** | **1,974K** | Mainland coast; receives Sayowa overflow |
+| 10 | **Zhongshan** | Mirny | 881K | **987K** | **1,974K** | Mainland coast; receives Sayowa overflow |
 | 11 | **Bharati_TBD** | Mawson | 843K | **914K** | **1,828K** | Mainland coast; receives Sayowa overflow |
-| 12 | **Davis** | Mawson | 805K | **911K** | **1,823K** | Mainland coast; receives Sayowa overflow |
+| 12 | **Davis** | Mirny | 805K | **911K** | **1,823K** | Mainland coast; receives Sayowa overflow |
 | 13 | Amundsen Station | Amundsen | 904K | 904K | 1,808K | South Pole; multi-corridor, no island cap |
 | 14 | Princess Elisabeth | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
 | 15 | **Belgrano** *(ruins, DLC 5)* | Halley | 408K | **854K** | **1,708K** | Mainland coast; absorbs Peninsula island overflow |
@@ -759,9 +773,9 @@ Ranked by final human population. Cities in **bold** gained population from over
 |--------|-------------|----------------|-----------------|
 | **Halley / Queen Maud Land** | **6,557K** | **13,113K** | ▲+1,478K (absorbs Peninsula island overflow) |
 | **Janbogo / Ross Sea** | **5,232K** | **10,463K** | ▼−535K (loses McMurdo/Scott/DdU to caps, gains as mainland destination) |
-| **Mawson / Indian Ocean** | **4,969K** | **9,938K** | ▼−247K (Sayowa capped; mainland Mawson cities absorb partial offset) |
+| **Mawson / Indian Ocean** | **3,071K** | **6,142K** | ▼−459K (Sayowa capped; Mawson city and Bharati_TBD absorb partial offset; Davis and Zhongshan now counted under Mirny) |
 | **Palmer / Antarctic Peninsula** | **3,679K** | **7,357K** | ▼−1,372K (most Peninsula cities are islands; overflow leaves to QML) |
-| **Mirny / Wilkes Land** | **2,236K** | **4,473K** | ▲+451K (Casey+Mirny absorb DdU+Sayowa overflow) |
+| **Mirny / Wilkes Land + Prydz Bay** | **4,134K** | **8,270K** | ▲+662K (Casey and Mirny absorb DdU overflow; Davis and Zhongshan absorb Sayowa overflow) |
 | **Byrd / Ross Ice Shelf** | **1,371K** | **2,742K** | ▲+225K (receives Ross Is. + DdU overflow) |
 | **Amundsen / South Pole** | **904K** | **1,808K** | unchanged |
 
@@ -840,45 +854,46 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 6 | Mawson | Mawson | 713,748 | **1,454,926** | |
 | 7 | Halley | Halley | 711,583 | **1,456,098** | |
 | 8 | Mirny | Mirny | 668,613 | **1,356,934** | |
-| 9 | Zhongshan | Mawson | 634,485 | **1,284,494** | |
+| 9 | Zhongshan | Mirny | 634,485 | **1,284,494** | |
 | 10 | Neumayer | Halley | 616,805 | **1,258,342** | |
 | 11 | Bharati_TBD | Mawson | 578,925 | **1,183,333** | |
-| 12 | Davis | Mawson | 567,640 | **1,166,618** | |
+| 12 | Davis | Mirny | 567,640 | **1,166,618** | |
 | 13 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
 | 14 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
 | 15 | Soyuz | Mawson | 521,255 | **1,073,601** | *(destroyed)* |
-| 16 | Aboa | Halley | 508,243 | **1,042,458** | |
-| 17 | Maitri_TBD | Halley | 485,482 | **976,095** | |
-| 18 | Troll | Halley | 478,489 | **960,002** | |
-| 19 | Framheim | Byrd | 430,488 | **884,682** | |
-| 20 | Little America | Byrd | 425,052 | **862,581** | |
-| 21 | Sejong | Palmer | 318,175 | **647,855** | *(island cap)* |
-| 22 | Marambio | Palmer | 284,047 | **571,487** | *(island cap)* |
-| 23 | Sanay | Halley | 233,539 | **467,600** | |
-| 24 | Dumont d'Urville | Janbogo | 225,066 | **456,411** | *(island cap)* |
-| 25 | Fort McMurdo | Janbogo | 223,041 | **447,015** | *(island cap)* |
-| 26 | Juan Carlos I | Palmer | 191,451 | **390,175** | *(island cap)* |
-| 27 | Scott | Janbogo | 190,964 | **388,343** | *(island cap)* |
-| 28 | Palmer City | Palmer | 178,633 | **358,322** | *(island cap)* |
-| 29 | Rothera | Palmer | 154,489 | **318,955** | *(island cap)* |
-| 30 | Sayowa | Mawson | 123,656 | **256,100** | *(island cap)* |
-| 31 | Signy | Palmer | 93,951 | **190,349** | *(island cap)* |
-| 32 | Port Lockroy | Palmer | 63,856 | **129,942** | *(island cap)* |
-| 33 | **Amundsen Station** | Amundsen | 1,126 | **6,889** | *~84% robot; see note* |
-| — | **TOTAL** | — | **15,124,904** | **30,833,579** | |
+| 16 | Denison | Janbogo | 526,521 | **1,073,373** | |
+| 17 | Aboa | Halley | 508,243 | **1,042,458** | |
+| 18 | Maitri_TBD | Halley | 485,482 | **976,095** | |
+| 19 | Troll | Halley | 478,489 | **960,002** | |
+| 20 | Framheim | Byrd | 430,488 | **884,682** | |
+| 21 | Little America | Byrd | 425,052 | **862,581** | |
+| 22 | Sejong | Palmer | 318,175 | **647,855** | *(island cap)* |
+| 23 | Marambio | Palmer | 284,047 | **571,487** | *(island cap)* |
+| 24 | Sanay | Halley | 233,539 | **467,600** | |
+| 25 | Dumont d'Urville | Janbogo | 225,066 | **456,411** | *(island cap)* |
+| 26 | Fort McMurdo | Janbogo | 223,041 | **447,015** | *(island cap)* |
+| 27 | Juan Carlos I | Palmer | 191,451 | **390,175** | *(island cap)* |
+| 28 | Scott | Janbogo | 190,964 | **388,343** | *(island cap)* |
+| 29 | Palmer City | Palmer | 178,633 | **358,322** | *(island cap)* |
+| 30 | Rothera | Palmer | 154,489 | **318,955** | *(island cap)* |
+| 31 | Sayowa | Mawson | 123,656 | **256,100** | *(island cap)* |
+| 32 | Signy | Palmer | 93,951 | **190,349** | *(island cap)* |
+| 33 | Port Lockroy | Palmer | 63,856 | **129,942** | *(island cap)* |
+| 34 | **Amundsen Station** | Amundsen | 1,126 | **6,889** | *~84% robot; see note* |
+| — | **TOTAL** | — | **15,651,425** | **31,906,952** | |
 
 ### Canon subnet totals
 
 | Subnet | Humans | Combined |
 |--------|--------|----------|
 | Halley / Queen Maud Land | 4,127,120 | 8,385,196 |
-| Janbogo / Ross Sea | 3,270,117 | 6,676,828 |
+| Janbogo / Ross Sea | 3,796,638 | 7,750,201 |
 | Mawson / Indian Ocean | 3,139,709 | 6,419,072 |
 | Palmer / Antarctic Peninsula | 2,324,261 | 4,736,242 |
 | Mirny / Wilkes Land | 1,407,031 | 2,862,089 |
 | Byrd / Ross Ice Shelf | 855,540 | 1,747,263 |
 | Amundsen / South Pole | 1,126 | 6,889 |
-| **TOTAL** | **15,124,904** | **30,833,579** |
+| **TOTAL** | **15,651,425** | **31,906,952** |
 
 *Amundsen Station: pre-war human population reduced to 0.2% of computed figure; robot population reduced to 1%. The South Pole was always an extreme-environment research-and-automation outpost, not a residential city — a skeleton crew of humans embedded in a robot-majority operational facility. No overflow redistributed.*
 
@@ -1038,11 +1053,11 @@ These two passes are the last step. They do not change the analytical meaning of
 
 | | Count |
 |--|--|
-| Humans | ~15,124,904 |
-| Robots | ~15,708,675 |
-| **Combined** | **~30,833,579** |
+| Humans | ~15,651,425 |
+| Robots | ~16,255,527 |
+| **Combined** | **~31,906,952** |
 
-Approximately 30.8 million people — human and robot — lived in Tepenia before the Long Night War. For scale, this is a mid-sized nation-state: comparable to Peru, Venezuela, or Malaysia. It is not a superpower. It is a community.
+Approximately 31.9 million people — human and robot — lived in Tepenia before the Long Night War. For scale, this is a mid-sized nation-state: comparable to Peru, Venezuela, or Malaysia. It is not a superpower. It is a community.
 
 Of that combined population, two cities no longer exist. **Zukelli** (~1,732,000 combined pre-war) and **Soyuz** (~1,073,000 combined pre-war) were destroyed in the Long Night War. Together they represent approximately 2.8 million people — a city the size of Chicago — annihilated. **Belgrano** survives as ruins by the time of Inner Tepenia's events (it is the setting for DLC 5). Its pre-war population was ~1,080,000 combined.
 
@@ -1079,11 +1094,11 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 1 | **Janbogo** | Janbogo | 817,606 | **1,595,949** | |
 | 2 | **Zukelli** | Janbogo | 616,325 | **1,302,304** | *(destroyed in Long Night War)* |
 | 3 | Esperanza | Palmer | 591,358 | **1,385,929** | |
-| 4 | Zhongshan | Mawson | 522,372 | **996,684** | |
+| 4 | Zhongshan | Mirny | 522,372 | **996,684** | |
 | 5 | Halley | Halley | 509,209 | **1,088,069** | |
 | 6 | Mirny | Mirny | 507,344 | **1,016,495** | |
 | 7 | Soyuz | Mawson | 437,854 | **888,292** | *(destroyed in Long Night War)* |
-| 8 | Davis | Mawson | 437,423 | **781,596** | |
+| 8 | Davis | Mirny | 437,423 | **781,596** | |
 | 9 | Casey | Mirny | 436,922 | **1,042,031** | |
 | 10 | Belgrano | Halley | 429,820 | **837,768** | *(ruined in Long Night War; DLC 5)* |
 | 11 | Mawson | Mawson | 427,321 | **952,446** | |

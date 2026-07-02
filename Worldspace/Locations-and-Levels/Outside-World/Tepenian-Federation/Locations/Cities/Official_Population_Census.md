@@ -319,11 +319,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | TBD |
-| Significant | TBD |
-| Notable | TBD |
-
-*Note: National origin composition pending immigration composition analysis.*
+| Primary | China, USA |
+| Significant | Japan, South Korea, Indonesia, Australia *(founding wave — Mawson 1912)* |
+| Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 ---
 
@@ -484,40 +482,41 @@ National communities are classified by tier based on long-run population share. 
 | 13 | Princess Elisabeth | Halley | 556,576 | 587,111 | **1,143,687** | |
 | 14 | Belgrano | Halley | 536,403 | 544,511 | **1,080,914** | *(ruins, DLC 5)* |
 | 15 | Soyuz | Mawson | 521,255 | 552,346 | **1,073,601** | *(destroyed)* |
-| 16 | Aboa | Halley | 508,243 | 534,215 | **1,042,458** | |
-| 17 | Maitri_TBD | Halley | 485,482 | 490,613 | **976,095** | |
-| 18 | Troll | Halley | 478,489 | 481,513 | **960,002** | |
-| 19 | Framheim | Byrd | 430,488 | 454,194 | **884,682** | |
-| 20 | Little America | Byrd | 425,052 | 437,529 | **862,581** | |
-| 21 | Sejong | Palmer | 318,175 | 329,680 | **647,855** | *(island cap)* |
-| 22 | Marambio | Palmer | 284,047 | 287,440 | **571,487** | *(island cap)* |
-| 23 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
-| 24 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
-| 25 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
-| 26 | Juan Carlos I | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
-| 27 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
-| 28 | Palmer City | Palmer | 178,633 | 179,689 | **358,322** | *(island cap)* |
-| 29 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
-| 30 | Sayowa | Mawson | 123,656 | 132,444 | **256,100** | *(island cap)* |
-| 31 | Signy | Palmer | 93,951 | 96,398 | **190,349** | *(island cap)* |
-| 32 | Port Lockroy | Palmer | 63,856 | 66,086 | **129,942** | *(island cap)* |
-| 33 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
-| — | **TOTAL** | | **15,124,904** | **15,708,675** | **30,833,579** | |
+| 16 | Denison | Janbogo | 526,521 | 546,852 | **1,073,373** | |
+| 17 | Aboa | Halley | 508,243 | 534,215 | **1,042,458** | |
+| 18 | Maitri_TBD | Halley | 485,482 | 490,613 | **976,095** | |
+| 19 | Troll | Halley | 478,489 | 481,513 | **960,002** | |
+| 20 | Framheim | Byrd | 430,488 | 454,194 | **884,682** | |
+| 21 | Little America | Byrd | 425,052 | 437,529 | **862,581** | |
+| 22 | Sejong | Palmer | 318,175 | 329,680 | **647,855** | *(island cap)* |
+| 23 | Marambio | Palmer | 284,047 | 287,440 | **571,487** | *(island cap)* |
+| 24 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
+| 25 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
+| 26 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
+| 27 | Juan Carlos I | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
+| 28 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
+| 29 | Palmer City | Palmer | 178,633 | 179,689 | **358,322** | *(island cap)* |
+| 30 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
+| 31 | Sayowa | Mawson | 123,656 | 132,444 | **256,100** | *(island cap)* |
+| 32 | Signy | Palmer | 93,951 | 96,398 | **190,349** | *(island cap)* |
+| 33 | Port Lockroy | Palmer | 63,856 | 66,086 | **129,942** | *(island cap)* |
+| 34 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
+| — | **TOTAL** | | **15,651,425** | **16,255,527** | **31,906,952** | |
 
-*Note: Five cities are not included in Census I figures pending immigration composition analysis: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Denison (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet). National origin compositions for these cities are listed as TBD in Section I.*
+*Note: Four cities are not included in Census I figures pending immigration composition analysis: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet). National origin compositions for these cities are listed as TBD in Section I. Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section III.*
 
 ### Subnet Totals — Census I
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 4,127,120 | 4,258,076 | **8,385,196** |
-| Janbogo / Ross Sea | 3,270,117 | 3,406,711 | **6,676,828** |
+| Janbogo / Ross Sea | 3,796,638 | 3,953,563 | **7,750,201** |
 | Mawson / Indian Ocean | 1,937,584 | 2,030,376 | **3,967,960** |
 | Palmer / Antarctic Peninsula | 2,324,261 | 2,411,981 | **4,736,242** |
 | Mirny / Wilkes Land + Plateau | 2,609,156 | 2,704,045 | **5,313,201** |
 | Byrd / Ross Ice Shelf | 855,540 | 891,723 | **1,747,263** |
 | Amundsen / South Pole | 1,126 | 5,763 | **6,889** |
-| **TOTAL** | **15,124,904** | **15,708,675** | **30,833,579** |
+| **TOTAL** | **15,651,425** | **16,255,527** | **31,906,952** |
 
 ### National Origin Totals — Human Population (Census I)
 
@@ -583,40 +582,41 @@ National communities are classified by tier based on long-run population share. 
 | 13 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
 | 14 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 15 | Bharati_TBD | Mawson | 336,124 | 392,200 | **728,324** | |
-| 16 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
-| 17 | Aboa | Halley | 310,791 | 296,650 | **607,441** | |
-| 18 | Little America | Byrd | 304,422 | 251,317 | **555,739** | |
-| 19 | Maitri_TBD | Halley | 272,889 | 320,174 | **593,063** | |
-| 20 | Framheim | Byrd | 248,865 | 356,088 | **604,953** | |
-| 21 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
-| 22 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
-| 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
-| 24 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
-| 25 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
-| 26 | Palmer City | Palmer | 135,457 | 113,563 | **249,020** | *(island cap)* |
-| 27 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
-| 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
-| 29 | Juan Carlos I | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
-| 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
-| 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
-| 32 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
-| 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
-| — | **TOTAL (Antarctic)** | | **10,350,295** | **11,280,079** | **21,630,374** | |
+| 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(destroyed in Long Night War)* |
+| 17 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
+| 18 | Aboa | Halley | 310,791 | 296,650 | **607,441** | |
+| 19 | Little America | Byrd | 304,422 | 251,317 | **555,739** | |
+| 20 | Maitri_TBD | Halley | 272,889 | 320,174 | **593,063** | |
+| 21 | Framheim | Byrd | 248,865 | 356,088 | **604,953** | |
+| 22 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
+| 23 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
+| 24 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
+| 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
+| 26 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
+| 27 | Palmer City | Palmer | 135,457 | 113,563 | **249,020** | *(island cap)* |
+| 28 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
+| 29 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
+| 30 | Juan Carlos I | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
+| 31 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
+| 32 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
+| 33 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
+| 34 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
+| — | **TOTAL (Antarctic)** | | **10,685,689** | **11,678,187** | **22,363,876** | |
 
-*Note: Five cities are not included in Census II figures pending immigration composition analysis: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Denison (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet).*
+*Note: Four cities are not included in Census II figures: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet) — pending immigration composition analysis. Census II grand totals below therefore exclude these four cities.*
 
 ### Antarctic Surface — Subnet Totals (Census II)
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 2,778,631 | 2,892,168 | **5,670,799** |
-| Janbogo / Ross Sea | 2,321,838 | 2,590,275 | **4,912,113** |
+| Janbogo / Ross Sea | 2,657,232 | 2,988,383 | **5,645,615** |
 | Mawson / Indian Ocean | 1,286,498 | 1,447,521 | **2,734,019** |
 | Palmer / Antarctic Peninsula | 1,505,067 | 1,805,987 | **3,311,054** |
 | Mirny / Wilkes Land + Plateau | 1,904,061 | 1,932,745 | **3,836,806** |
 | Byrd / Ross Ice Shelf | 553,287 | 607,405 | **1,160,692** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
-| **TOTAL (Antarctic)** | **10,350,295** | **11,280,079** | **21,630,374** |
+| **TOTAL (Antarctic)** | **10,685,689** | **11,678,187** | **22,363,876** |
 
 ### Orbital Population (Census II)
 
@@ -624,7 +624,7 @@ National communities are classified by tier based on long-run population share. 
 
 | | Humans | Robots | Combined |
 |---|--------|--------|----------|
-| **Orbital population** | **4,774,609** | **4,428,596** | **9,203,205** |
+| **Orbital population** | **4,965,736** | **4,577,340** | **9,543,076** |
 
 *Approximately 30% of the total Tepenian population was living or working in orbit at the time the Long Night War began. Orbital human-robot composition is approximately 52% human / 48% robot — slightly human-heavy compared to the Antarctic surface, reflecting that Von Braun Wheel habitats were designed for human habitation from the initial construction phase onward.*
 
@@ -632,9 +632,9 @@ National communities are classified by tier based on long-run population share. 
 
 | | Antarctic Surface | Orbital | **Grand Total** |
 |---|-----------|---------|----------------|
-| Humans | 10,350,295 | 4,774,609 | **15,124,904** |
-| Robots | 11,280,079 | 4,428,596 | **15,708,675** |
-| **Combined** | **21,630,374** | **9,203,205** | **30,833,579** |
+| Humans | 10,685,689 | 4,965,736 | **15,651,425** |
+| Robots | 11,678,187 | 4,577,340 | **16,255,527** |
+| **Combined** | **22,363,876** | **9,543,076** | **31,906,952** |
 
 *Grand totals are identical between Census I and Census II. Population is conserved — all movement between censuses is redistribution from Antarctic surface to orbit, not net gain or loss.*
 
@@ -652,10 +652,13 @@ Destroyed during the Long Night War. At time of destruction, Zukelli's combined 
 **Soyuz** *(Larsemann Hills / Prydz Bay, Mawson Subnet)*
 Destroyed during the Long Night War. At time of destruction, Soyuz's combined population was approximately **888,000**. Combined with Zukelli, the two cities represent approximately **2,190,000** people lost to direct destruction — roughly the equivalent of a mid-sized nation.
 
+**Denison** *(Cape Denison, George V Land, Janbogo Subnet)*
+Destroyed during the Long Night War. At time of destruction, Denison's combined population was approximately **734,000** — a mid-tier coastal city founded on Douglas Mawson's 1912 expedition base. Human retention rate immediately before the war was 63.7%; robot retention was 72.8%. Census I figures: 526,521 humans / 546,852 robots.
+
 **Belgrano** *(Confín Coast, Weddell Sea, Halley Subnet)*
 Belgrano survived the Long Night War but became ruined in the subsequent period. Its Orbital Era population was approximately **837,000** combined. The ruins are accessible in DLC 5. Belgrano was among the larger Halley subnet cities before the war, and its ruins represent one of the most significant urban corpses in post-war Tepenia.
 
-**Combined losses (destroyed + ruined):** approximately **3,330,000** — roughly 10.8% of the pre-war Orbital Era surface population, or about 11% of the total combined (surface + orbital) Tepenian population.
+**Combined losses (destroyed + ruined):** approximately **3,762,000** — roughly 11.8% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Soyuz (~888,000), Denison (~734,000), and Belgrano ruins (~838,000).
 
 ---
 

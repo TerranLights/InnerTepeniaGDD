@@ -20,7 +20,7 @@ Files are organized by subnet. Cross-reference `Cities/Official_Population_Censu
 | Sejong | Surviving |
 | Juan Carlos I | Surviving |
 | Signy | Surviving |
-| Port Lockroy | Surviving |
+| Port Lockroy | Destroyed *(Long Night War)* |
 | Palmer City | Surviving |
 | Rothera | Surviving |
 
@@ -34,9 +34,9 @@ Files are organized by subnet. Cross-reference `Cities/Official_Population_Censu
 | Halley | Surviving |
 | Neumayer | Surviving |
 | Troll | Surviving |
-| Aboa | Surviving |
-| Sanay | Surviving |
-| Princess Elisabeth | Surviving |
+| Aboa | Destroyed *(Long Night War)* |
+| Sanay | Destroyed *(Long Night War)* |
+| Princess Elisabeth | Surviving *(damaged; partially operational)* |
 | Maitri_TBD | Surviving |
 | Belgrano | Ruins *(DLC 5)* |
 
@@ -59,12 +59,12 @@ Files are organized by subnet. Cross-reference `Cities/Official_Population_Censu
 | City | Status |
 |------|--------|
 | Janbogo | Surviving |
-| Cape Adare | Surviving |
+| Cape Adare | Destroyed *(Long Night War)* |
 | Fort McMurdo | Surviving |
 | Dumont d'Urville | Surviving |
 | Scott | Surviving |
 | Concordia | Surviving *(primary game setting; largest surviving city post-LNW)* |
-| Denison | Surviving |
+| Denison | Destroyed *(Long Night War)* |
 | Zukelli | Destroyed *(Long Night War)* |
 
 ---
@@ -110,4 +110,4 @@ Files are organized by subnet. Cross-reference `Cities/Official_Population_Censu
 - **Belgrano** is in ruins by the time of Inner Tepenia's main game events but is accessible and inhabited in DLC 5; its culture is partially preserved as ruin culture.
 - **Concordia** is the primary setting of Inner Tepenia and the largest surviving city in the post-Long Night War period. Its culture spec sheet is among the most critical in this directory.
 - **Amundsen Station** is an edge case — its "culture" is primarily operational and robotic rather than civic. Include if relevant.
-- **Population data** for Byrd, Concordia, Denison, Vostok, and Kunlun is pending immigration composition analysis. Census figures for these cities are TBD.
+- **Population data** for Byrd, Concordia, Vostok, and Kunlun is pending immigration composition analysis. Census figures for these cities are TBD. Denison's Census I and Census II figures are now complete (see `Official_Population_Census.md`).
