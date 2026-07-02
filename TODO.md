@@ -195,6 +195,9 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Orbital infrastructure — logistics, mathematics, and dimensions**
   Work out the low-earth-orbit infrastructure Tepenians (1) initially lived aboard (the robot-only staging station, then the first and subsequent Von Braun Wheels) and (2) later fled to during the Long Night War evacuations. Needed: population capacity math consistent with the ~9.2M pre-war orbital population (52% human / 48% robot — see "Orbital population" item above), habitat ring dimensions/rotation for gravity simulation, number and growth timeline of Von Braun Wheels, and how Amundsen Tower's throughput capacity ties into both the original build-out and the wartime evacuation surge.
 
+- [ ] **Orbital population — national/ethnic composition map** *(high-token task; reserve a fresh session)*
+  Derive the national/ethnic composition of the LEO orbital population (~9.5M combined) from the per-city census data. Method: for each city, weight its orbital migrant count by that city's national tier breakdown; sum across all ~28 cities with established compositions. Produces a "nationality/ethnic composition map" for the Von Braun Wheels and associated LEO infrastructure as of the Long Night War period. Useful for orbital DLC content, off-world character backgrounds, and understanding the cultural texture of the population that survived up there.
+
 - [ ] **Midwestland — add to Maps/**
   Referenced in Trisha Miller's and Michelle Stanton's backstories as their Upper Earth origin. No map document exists for it.
 
