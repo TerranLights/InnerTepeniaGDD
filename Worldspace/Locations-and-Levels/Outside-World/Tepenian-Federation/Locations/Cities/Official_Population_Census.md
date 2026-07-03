@@ -658,7 +658,7 @@ Destroyed during the Long Night War. At time of destruction, Denison's combined 
 **Belgrano** *(Confín Coast, Weddell Sea, Halley Subnet)*
 Belgrano survived the Long Night War but became ruined in the subsequent period. Its Orbital Era population was approximately **837,000** combined. The ruins are accessible in DLC 5. Belgrano was among the larger Halley subnet cities before the war, and its ruins represent one of the most significant urban corpses in post-war Tepenia.
 
-**Combined losses (destroyed + ruined):** approximately **3,762,000** — roughly 11.8% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Soyuz (~888,000), Denison (~734,000), and Belgrano ruins (~838,000).
+**Combined losses (destroyed + ruined):** approximately **3,762,000** — roughly 11.8% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Soyuz (~888,000), Denison (~734,000), and Belgrano ruins (~838,000). *(Flagged 2026-07-03: this total likely undercounts — Cape Adare is confirmed "Destroyed" in `Specs/Cape_Adare.md`, `City_Relationship_Database.md`, and the `Local_Cultures/README.md` tracking table, but its Census II population (~1,050,051) isn't reflected here. Not corrected in this pass — the census math itself wasn't rebuilt — but the total above should be treated as a likely undercount until Cape Adare is folded in.)*
 
 ---
 
