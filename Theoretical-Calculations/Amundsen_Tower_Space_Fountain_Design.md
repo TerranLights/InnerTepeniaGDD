@@ -625,6 +625,42 @@ regions in parallel, not one single route:
 | Halley subnet (Weddell Sea / Queen Maud Land / King Haakon Sea) | 40% | ~100 days/year (seasonal) |
 | Byrd subnet (Ross Ice Shelf) + Fort McMurdo (Ross Sea) | 20% | ~90 days/year (seasonal) |
 
+**Who runs the Halley subnet's seasonal leg (established 2026-07-03):** South
+African freighters, carrying raw materials shipped from Africa, run the summer
+supply influx into Halley subnet's coastal ports (Halley, Neumayer, Belgrano) —
+real-world grounded, mirroring SANAP's actual Cape Town-to-SANAE resupply voyages
+via the *SA Agulhas II*. This gives the "~100 days/year (seasonal)" window in the
+table above a concrete operator and cargo origin, rather than leaving it generic.
+
+**Who runs the Janbogo and Byrd/Ft McMurdo legs (established 2026-07-03):** same
+real-world-grounded logic, extended to the rest of the coast:
+- **Ross region (Byrd subnet + the Ross Sea side of Janbogo subnet — Framheim,
+  Little America, Fort McMurdo, Scott, Cape Adare, Zukelli, Janbogo itself):**
+  **New Zealand** freighters, staging out of Christchurch/Lyttelton — the real-world
+  logistics hub for Ross Sea Antarctic operations (the US Antarctic Program's own
+  McMurdo resupply chain runs through there too, not just New Zealand's Scott
+  Base). Gives the Janbogo route's "year-round" and the Byrd/Ft McMurdo route's
+  "~90 days/year" windows a concrete operator.
+- **Dumont d'Urville Sea (Dumont d'Urville itself, plus Denison and Casey where
+  their supply lines overlap) and the Mirny/Mawson subnet coastal cities (Mawson,
+  Sayowa, Zhongshan, Davis, Mirny, Soyuz, Bharati):** **Australia**, staging out of
+  Hobart/Fremantle — the dominant real logistics hub for this entire stretch of
+  East Antarctic coast. Notably, France's own real Dumont d'Urville resupply ship
+  (*L'Astrolabe*) runs out of Hobart rather than a French port, and Hobart also
+  stages China's and Japan's Antarctic vessels — so Australia ends up as the
+  single biggest shipping partner across two of Tepenia's three named coastal
+  regions, same "geography beats founding nation" logic as South Africa serving
+  UK/Argentina/Germany-founded Halley subnet cities. This region wasn't part of
+  the Tower-construction 3-route model above (too far from the South Pole site to
+  be a practical Tower-material route), but it's the general national supply line
+  for those cities' own infrastructure.
+
+**Open design question (flagged 2026-07-03, not solved here):** *why* Upper Earth
+retailers and materials-dealers — South African, New Zealand, and Australian
+firms — are willing to do business with Tepenia at all, given the anti-robot
+sentiment that drove the Falkland Treaty exile in the first place, is unresolved.
+See the `project_upper_earth_trade_justification` memory note and `TODO.md`.
+
 **Fleet assumption (era-appropriate, not modern-industrial scale):** modest cargo
 vessels at ~15,000 t capacity each, a small fleet per route (3/3/2 ships), ~14-day
 round-trip turnaround for intra-Tepenian coastal distances.

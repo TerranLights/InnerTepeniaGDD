@@ -88,7 +88,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (western terminus)
 - **Direct highway neighbors:** Halley (east, Hwy 7)
-- **Notes:** Western terminus of Hwy 7; Hwy 59 originates at Halley, not Belgrano — Belgrano reaches Hwy 59 via Hwy 7 to Halley; Hwy 7 bears the "Belgrano" name; the Extension (2611–2614) extends east from Maitri, not from Belgrano
+- **Notes:** Western terminus of Hwy 7; Hwy 59 originates at Halley, not Belgrano — Belgrano reaches Hwy 59 via Hwy 7 to Halley; Hwy 7 bears the "Belgrano" name; the Extension (2611–2614) extends east from Maitri, not from Belgrano. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -99,7 +99,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 4 — midpoint
 - **Direct highway neighbors:** Mawson (west), Soyuz (east)
-- **Notes:** India's second Antarctic station; between Mawson and Soyuz on the Hwy 4 coastal link. City name "Bharati" is a placeholder — location confirmed for future development; final name TBD.
+- **Notes:** India's second Antarctic station; between Mawson and Soyuz on the Hwy 4 coastal link. City name "Bharati" is a placeholder — location confirmed for future development; final name TBD. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Mawson subnet coastal supply line.
 
 ---
 
@@ -110,7 +110,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Byrd ("Pacific") — **hub city**
 - **Highways:** Hwy 1 (passes through), Hwy 22 (western/Amundsen Sea terminus)
 - **Direct highway neighbors:** [Antarctic Peninsula via Hwy 1], [Ross Ice Shelf / Fort McMurdo via Hwy 1], [Hwy 22 junction with Hwy 175 going east]
-- **Notes:** Only surviving city besides Concordia; ~1,530m altitude — lower than Concordia (3,233m); West Antarctic location; DLC centerpiece (storyline TBD); hub of the Byrd ("Pacific") Arcanet subnet; NOT directly connected to Hwy 175 — reach via Hwy 22
+- **Notes:** Only surviving city besides Concordia; ~1,530m altitude — lower than Concordia (3,233m); West Antarctic location; DLC centerpiece (storyline TBD); hub of the Byrd ("Pacific") Arcanet subnet; NOT directly connected to Hwy 175 — reach via Hwy 22. Inland, not a port itself — receives its share of New Zealand-sourced raw materials overland via Hwy 1 from the Ross Sea coastal ports (Fort McMurdo, Scott, Framheim, Little America).
 
 ---
 
@@ -121,7 +121,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 183 — passes through
 - **Direct highway neighbors:** Mario Zucchelli (west), Janbogo (south)
-- **Notes:** Founded on earliest Antarctic expedition landing site; destroyed Long Night War
+- **Notes:** Founded on earliest Antarctic expedition landing site; destroyed Long Night War. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) as part of the Ross region supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -132,7 +132,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo ✓
 - **Highways:** Hwy 2 (DCH) — eastern terminus
 - **Direct highway neighbors:** Dumont d'Urville (west)
-- **Notes:** Founded on Mawson's 1912 expedition base (Cape Denison); eastern end of Dumont Coast Highway; destroyed Long Night War; Census I population: 526,521 humans / 546,852 robots / 1,073,373 combined
+- **Notes:** Founded on Mawson's 1912 expedition base (Cape Denison); eastern end of Dumont Coast Highway; destroyed Long Night War; Census I population: 526,521 humans / 546,852 robots / 1,073,373 combined. **Dumont d'Urville Sea coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -143,7 +143,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 110 (Coastal Cut), Hwy 2 (DCH — western terminus)
 - **Direct highway neighbors:** Mirny (west via Hwy 110), Concordia (inland spur via Hwy 110), Dumont d'Urville (east via Hwy 2)
-- **Notes:** Junction city — where Hwy 110 and Hwy 2 meet; gateway between the Mirny subnet coast and the Dumont d'Urville Sea area
+- **Notes:** Junction city — where Hwy 110 and Hwy 2 meet; gateway between the Mirny subnet coast and the Dumont d'Urville Sea area. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — sits at the overlap of both the Mirny subnet and Dumont d'Urville Sea supply lines, both of which run through Australia.
 
 ---
 
@@ -166,7 +166,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 110 — midpoint
 - **Direct highway neighbors:** Zhongshan (west), Mirny (east)
-- **Notes:** Major Australian station; geographically between Zhongshan (Mirny subnet) and Mirny city
+- **Notes:** Major Australian station; geographically between Zhongshan (Mirny subnet) and Mirny city. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mirny/Mawson subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -188,7 +188,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 2 (DCH) — midpoint
 - **Direct highway neighbors:** Casey (west), Cape Denison (east)
-- **Notes:** Dumont d'Urville Sea named after this location/explorer; French station; major refugee source for Concordia (Dumont d'Urville Sea coast = primary refugee geography)
+- **Notes:** Dumont d'Urville Sea named after this location/explorer; French station; major refugee source for Concordia (Dumont d'Urville Sea coast = primary refugee geography). **Primary Dumont d'Urville Sea port for Australian freighter shipments** (raw materials, staged via Hobart) — mirrors the real French IPEV logistics chain, which runs *L'Astrolabe* out of Hobart despite France being the founding/operating nation; see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -210,7 +210,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 1 (eastern terminus), Hwy 183
 - **Direct highway neighbors:** Scott (adjacent, Hwy 183), Janbogo (north, Hwy 183), [West Antarctica / Byrd via Hwy 1]
-- **Notes:** Largest Antarctic station in real life → largest pre-war Tepenian city; "Fort" = mining/resource-processing hub + deliberate reference to Fort MacMurray (Alberta, Canada); two-highway junction = major logistics hub; Scott directly adjacent; **does NOT connect to Hwy 37** — that route runs Sayowa→Vostok→Kunlun→Concordia on the East Antarctic plateau
+- **Notes:** Largest Antarctic station in real life → largest pre-war Tepenian city; "Fort" = mining/resource-processing hub + deliberate reference to Fort MacMurray (Alberta, Canada); two-highway junction = major logistics hub; Scott directly adjacent; **does NOT connect to Hwy 37** — that route runs Sayowa→Vostok→Kunlun→Concordia on the East Antarctic plateau. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -220,7 +220,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Status:** Historical site (pre-exile ruins)
 - **Arcanet subnet:** Byrd ("Pacific")
 - **Highways:** Hwy 1 — passes through ✓
-- **Notes:** Roald Amundsen's 1911 South Pole expedition base; on Hwy 1 between Byrd and Scott/McMurdo
+- **Notes:** Roald Amundsen's 1911 South Pole expedition base; on Hwy 1 between Byrd and Scott/McMurdo. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -231,7 +231,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Halley ("Atlantic") — **hub city**
 - **Highways:** Hwy 7 (hub/midpoint), Hwy 59 (originates here — junction with Hwy 7) ✓
 - **Direct highway neighbors:** Belgrano (west, Hwy 7), Aboa (east, Hwy 7)
-- **Notes:** Built on a **floating ice shelf** — the city literally moved over time; unique structural character no other Tepenian city shares; Hwy 59 (Arcanet cable line) originates at Halley and runs inland to Hwy 22's northern bend
+- **Notes:** Built on a **floating ice shelf** — the city literally moved over time; unique structural character no other Tepenian city shares; Hwy 59 (Arcanet cable line) originates at Halley and runs inland to Hwy 22's northern bend. **Hub port for South African summer freighter shipments** (raw materials from Africa) — as the subnet hub with the most developed port infrastructure, Halley is likely the primary receiving point for the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -242,7 +242,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo — **hub city**
 - **Highways:** Hwy 183 — hub
 - **Direct highway neighbors:** Cape Adare (north, Hwy 183), Scott / Fort McMurdo (south, Hwy 183)
-- **Notes:** Primary active connection between Concordia and the outside world; supplies Concordia; major refugee source; Unified Korea founding; damaged but not fully destroyed = strategically critical
+- **Notes:** Primary active connection between Concordia and the outside world; supplies Concordia; major refugee source; Unified Korea founding; damaged but not fully destroyed = strategically critical. **Ross Sea hub port receiving New Zealand freighter shipments** (raw materials) — as the Janbogo subnet's hub with year-round ice-free access (Terra Nova Bay polynya), likely the primary receiving point for the Ross region supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -275,7 +275,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Status:** Historical site (pre-exile ruins)
 - **Arcanet subnet:** Byrd ("Pacific")
 - **Highways:** Hwy 1 — passes through ✓
-- **Notes:** Richard Byrd's expedition bases (1929–1958); adjacent to Framheim on the Ross Ice Shelf; on Hwy 1 between Byrd and Scott/McMurdo
+- **Notes:** Richard Byrd's expedition bases (1929–1958); adjacent to Framheim on the Ross Ice Shelf; on Hwy 1 between Byrd and Scott/McMurdo. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -308,7 +308,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 183 — southern terminus
 - **Direct highway neighbors:** Cape Adare (east, Hwy 183)
-- **Notes:** Italian station; confirmed Tepenian city name: Zukelli. Southern terminus of Hwy 183; Terra Nova Bay.
+- **Notes:** Italian station; confirmed Tepenian city name: Zukelli. Southern terminus of Hwy 183; Terra Nova Bay. **Ross Sea coastal port that received New Zealand freighter shipments** (raw materials) pre-destruction — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -319,7 +319,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mawson — **hub city**
 - **Highways:** Hwy 4 (Mawson-Soyuz)
 - **Direct highway neighbors:** Bharati (east, Hwy 4)
-- **Notes:** Hub of the Mawson Arcanet subnet; Australian station; **Hwy 22 does not pass through Mawson** — Hwy 22 runs Byrd→Zhongshan coast, not through Mawson
+- **Notes:** Hub of the Mawson Arcanet subnet; Australian station; **Hwy 22 does not pass through Mawson** — Hwy 22 runs Byrd→Zhongshan coast, not through Mawson. **Hub port for Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) — as the subnet hub, likely the primary receiving point for the Mawson subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -330,7 +330,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mirny ("Australian") — **hub city**
 - **Highways:** Hwy 110 — midpoint
 - **Direct highway neighbors:** Davis (west), Casey (east)
-- **Notes:** Hub of the Mirny ("Australian") Arcanet subnet despite being Russian — subnets organized geographically, not nationally; primary refugee source for Concordia
+- **Notes:** Hub of the Mirny ("Australian") Arcanet subnet despite being Russian — subnets organized geographically, not nationally; primary refugee source for Concordia. **Hub port for Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) — as the subnet hub, likely the primary receiving point for the Mirny/Mawson subnet coastal supply line, same real-world logistics pattern as Halley (subnet hub, different nationality) receiving South African shipments — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -341,7 +341,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Unnamed connector road to nearest safe point on Hwy 7 (between Aboa and Sanay) ✓
 - **Direct highway neighbors:** None via Hwy 7 directly — connected only via connector road
-- **Notes:** **NOT on Hwy 7** — Hwy 7 passes directly from Aboa to Sanay; Neumayer is served by a small unnamed connector road branching off at the nearest geographically safe point; connector road organization TBD; this makes Neumayer slightly less accessible than other Hwy 7 cities
+- **Notes:** **NOT on Hwy 7** — Hwy 7 passes directly from Aboa to Sanay; Neumayer is served by a small unnamed connector road branching off at the nearest geographically safe point; connector road organization TBD; this makes Neumayer slightly less accessible than other Hwy 7 cities. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -407,7 +407,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 183, Hwy 1 (eastern terminus)
 - **Direct highway neighbors:** Fort McMurdo (adjacent), Janbogo (north, Hwy 183)
-- **Notes:** Directly adjacent to Fort McMurdo on Ross Island; New Zealand station; junction of Hwy 1 and Hwy 183
+- **Notes:** Directly adjacent to Fort McMurdo on Ross Island; New Zealand station; junction of Hwy 1 and Hwy 183. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — fittingly, given Scott's own real-world founding nation is New Zealand — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -439,7 +439,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 4 — eastern terminus
 - **Direct highway neighbors:** Bharati (west, Hwy 4)
-- **Notes:** Eastern terminus of Hwy 4; Russian station
+- **Notes:** Eastern terminus of Hwy 4; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Mawson subnet coastal supply line.
 
 ---
 
@@ -450,7 +450,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 37 (western terminus → Vostok → Kunlun → Concordia), Hwy 7-ext (eastern terminus ← Princess Elisabeth ← Maitri) ✓
 - **Direct highway neighbors:** Vostok (inland, Hwy 37), Princess Elisabeth (west, Hwy 7-ext)
-- **Notes:** **Major junction city** — two highways converge here from very different directions; Hwy 37 goes inland to Concordia via the plateau; Hwy 7-ext connects westward to the full Atlantic coast highway system; Japanese station; significant Japanese presence in Tepenia alongside Sejong and Janbogo; **Hwy 22 does not pass through Sayowa**
+- **Notes:** **Major junction city** — two highways converge here from very different directions; Hwy 37 goes inland to Concordia via the plateau; Hwy 7-ext connects westward to the full Atlantic coast highway system; Japanese station; significant Japanese presence in Tepenia alongside Sejong and Janbogo; **Hwy 22 does not pass through Sayowa**. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mawson subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -484,7 +484,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 110 (western terminus), Hwy 22 (eastern terminus — multi-highway junction here) ✓
 - **Direct highway neighbors:** Davis (east, Hwy 110), [Hwy 22 → interior → Hwy 175 junction → Byrd]
-- **Notes:** Named after Sun Yat-sen (courtesy name "Zhongshan") — well-respected historical figure; name retained under Sinian Federation ✓; major coastal junction where Hwy 22 and Hwy 110 meet
+- **Notes:** Named after Sun Yat-sen (courtesy name "Zhongshan") — well-respected historical figure; name retained under Sinian Federation ✓; major coastal junction where Hwy 22 and Hwy 110 meet. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mirny subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
