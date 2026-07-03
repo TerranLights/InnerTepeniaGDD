@@ -273,6 +273,9 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Long-Term / Low Urgency
 
+- [ ] **Subnet "meta-personalities" — derive after all cities are done**
+  Flagged by the user 2026-07-03, explicitly for *after* the city post-cultures project (`Cities/Local_Cultures/`) is complete for every subnet — not to be started early. Once every city in a subnet has its own full cultural spec sheet, synthesize a subnet-level "meta-personality": the aggregate feel, tone, and vibe that emerges from that subnet's specific set of cities. **Why it matters:** each subnet maps to its own DLC (Palmer=DLC3, Byrd=DLC2, Mawson=DLC4, Halley=DLC5, Janbogo=DLC6, Mirny=DLC7, South Pole=DLC1), and the user wants each DLC to feel tonally distinct from the others — the subnet meta-personality is what should drive that differentiation. Cross-reference `project_city_post_cultures` for per-city progress; this task is downstream of that one finishing (or at least each relevant subnet finishing).
+
 - [ ] **The issue of treaties — scope TBD**
   Flagged by the user 2026-07-03 as something they want to tackle at some point; explicitly deferred, not started. Exact scope not yet defined — could mean the Falkland Treaty's specific terms/text, other historical Upper Earth-Tepenia agreements, ongoing diplomatic/legal relations between Tepenia and Upper Earth nations, or something else. Likely connects to the already-flagged `project_upper_earth_trade_justification` open question (why Upper Earth trades with Tepenia at all) but scope needs clarifying with the user before starting.
 
