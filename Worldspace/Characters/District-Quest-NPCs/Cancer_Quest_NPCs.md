@@ -16,15 +16,15 @@ NPC-Cancer-Unlimited-Elder-Caregiver cannot perform cruelty. This is not a moral
 She speaks in specifics. Not "the most vulnerable," but "the child in bed seven, the one who won't eat until someone sits beside her." Not "service delivery" — she doesn't use that phrase and visibly stiffens when others do. She has been at this for forty years and is not sentimental about it. She is not soft. She simply cannot turn a person away while they are still in front of her.
 
 **Backstory:**
-NPC-Cancer-Unlimited-Elder-Caregiver was one of the first integration facilitators after the Falkland Treaty — among the early generation of Dolls assigned to helping newly exiled communities find footing in Antarctica. She came to Cancer when the district was barely a district. She was on shift during the Overcrowding Decision of 2721. She made choices. The district does not know she was there; there is no record that places her at the specific juncture where the decision was executed, because the records from that night were destroyed, and she did not volunteer to reconstruct them. She has not spoken about it publicly in sixty years. She intends to die — insofar as that word applies — with it.
+NPC-Cancer-Unlimited-Elder-Caregiver was one of the first integration facilitators after the Falkland Treaty — among the early generation of Dolls assigned to helping newly exiled communities find footing in Antarctica. She came to Cancer when the district was barely a district. She was on shift during the Overcrowding Decision of 2821. She made choices. The district does not know she was there; there is no record that places her at the specific juncture where the decision was executed, because the records from that night were destroyed, and she did not volunteer to reconstruct them. She has not spoken about it publicly in sixty years. She intends to die — insofar as that word applies — with it.
 
-What she has done instead is build something that makes 2721 harder to repeat. Not impossible. Harder.
+What she has done instead is build something that makes 2821 harder to repeat. Not impossible. Harder.
 
 **Temperament:**
 Warm, slow-moving, unhurried. Gets very quiet when she is angry — the quieter she becomes the more afraid you should be of her judgment. She will wait out any argument. She will outlast any bureaucratic process. She has already been waiting for sixty years and has no particular urgency about the next sixty.
 
 **Daily habits:**
-Rises before the first shift regardless of the schedule. Makes a circuit of every ward before the morning meal — not to check in the supervisory sense but to be present, to let people see her, to confirm that she is still there. Knows the name of every current resident. Has known the name of every resident for forty years; she does not know if she is still retaining them all or if some names have slipped into the same gap as 2721.
+Rises before the first shift regardless of the schedule. Makes a circuit of every ward before the morning meal — not to check in the supervisory sense but to be present, to let people see her, to confirm that she is still there. Knows the name of every current resident. Has known the name of every resident for forty years; she does not know if she is still retaining them all or if some names have slipped into the same gap as 2821.
 
 **Living conditions:**
 A small room off the main shelter, accessible by a door that is never locked. Has not lived anywhere else in forty years. The room has two chairs — one for her, one for whoever needs to sit — and a collection of small objects left by residents who moved on: a drawing, a painted shell, a small worn-smooth stone. She does not display them ceremonially. They are just there, accumulated, like the years.
@@ -68,43 +68,43 @@ NPC-Cancer-Triage-Intake-Administrator will engage with the player on data and p
 
 ---
 
-## NPC-Cancer-Trauma-Bearer-2721-Survivor
-**Role:** Trauma-Bearers — 2721 survivor, systemic reform advocate
+## NPC-Cancer-Trauma-Bearer-2821-Survivor
+**Role:** Trauma-Bearers — 2821 survivor, systemic reform advocate
 **Species:** Doll (Robot)
-**Build:** Mid-generation — built circa early 2600s. Visible repair work accumulated over decades: the left leg was damaged during the Long Night War and rebuilt to a slightly heavier profile, with replacement synthetic skin that doesn't quite match the original in texture. Cold-exposure pigmentation marks across several areas of the skin, stable but not corrected to invisibility, from the years immediately after 2721. She wears these marks deliberately — they could have been corrected and have not been.
+**Build:** Mid-generation — built circa early 2600s. Visible repair work accumulated over decades: the left leg was damaged during the Long Night War and rebuilt to a slightly heavier profile, with replacement synthetic skin that doesn't quite match the original in texture. Cold-exposure pigmentation marks across several areas of the skin, stable but not corrected to invisibility, from the years immediately after 2821. She wears these marks deliberately — they could have been corrected and have not been.
 **Presenting gender:** Female
 
 **Personality:**
-NPC-Cancer-Trauma-Bearer-2721-Survivor's anger is methodical. Not rage — sustained, documented, patient anger that has been organized into files and dates and cross-referenced testimony. She is not performing anger; she processed the performance years ago and what remains is the substance. She has been to fifty-three consecutive district council meetings. She has the receipts from all of them.
+NPC-Cancer-Trauma-Bearer-2821-Survivor's anger is methodical. Not rage — sustained, documented, patient anger that has been organized into files and dates and cross-referenced testimony. She is not performing anger; she processed the performance years ago and what remains is the substance. She has been to fifty-three consecutive district council meetings. She has the receipts from all of them.
 
-She does not expect to be heard today. She expects to be heard eventually, when the conditions change — or when the conditions replicate 2721 closely enough that ignoring her becomes impossible. She is waiting for the latter because she knows it will come.
+She does not expect to be heard today. She expects to be heard eventually, when the conditions change — or when the conditions replicate 2821 closely enough that ignoring her becomes impossible. She is waiting for the latter because she knows it will come.
 
 **Backstory:**
-Arrived as a refugee, was turned away in the Overcrowding Decision of 2721 — not an administrative refusal, a physical one: the doors did not open. She survived outside for eleven days through a combination of structural luck (she found a partial windbreak), help from other turned-away Dolls who shared resources, and the specific resilience of cold-rated construction she did not know she had until she needed it. She was admitted when capacity eased, six weeks after the doors closed.
+Arrived as a refugee, was turned away in the Overcrowding Decision of 2821 — not an administrative refusal, a physical one: the doors did not open. She survived outside for eleven days through a combination of structural luck (she found a partial windbreak), help from other turned-away Dolls who shared resources, and the specific resilience of cold-rated construction she did not know she had until she needed it. She was admitted when capacity eased, six weeks after the doors closed.
 
-She has spent every year since building the case for a structural "No One Left Behind" policy — not an aspiration, a mechanical constraint. She knows this cannot prevent all deaths. She knows it can prevent 2721. She has calculated, conservatively, that it would have prevented 2721. She knows the calculation means nothing unless the policy changes.
+She has spent every year since building the case for a structural "No One Left Behind" policy — not an aspiration, a mechanical constraint. She knows this cannot prevent all deaths. She knows it can prevent 2821. She has calculated, conservatively, that it would have prevented 2821. She knows the calculation means nothing unless the policy changes.
 
 **Temperament:**
 Precise and patient. Can sit in silence for a very long time — longer than most humans and most Dolls are comfortable with. When she speaks in council, the room goes quiet, not because she commands it but because people can feel that what she is saying has weight that predates the current meeting by fifty years.
 
 **Daily habits:**
-Attends every district council meeting, full session, since 2722. Takes notes by hand in a documentation style that no one else uses — a shorthand system she developed herself for speed and precision. Reviews her notes from previous years before each current meeting to check for rhetorical pattern changes in the council's defensive language. Has documented the evolution of the district's evasive terminology across five decades.
+Attends every district council meeting, full session, since 2822. Takes notes by hand in a documentation style that no one else uses — a shorthand system she developed herself for speed and precision. Reviews her notes from previous years before each current meeting to check for rhetorical pattern changes in the council's defensive language. Has documented the evolution of the district's evasive terminology across five decades.
 
 **Living conditions:**
-A mid-range district apartment, deliberately ordinary. Nothing personal on display — not because she has nothing but because she does not want the space to communicate a position about who she is before she has chosen to communicate it. The documentation of her 2721 experience, cross-referenced with the official record of that period, occupies a locked cabinet that she will show to people she has decided to trust.
+A mid-range district apartment, deliberately ordinary. Nothing personal on display — not because she has nothing but because she does not want the space to communicate a position about who she is before she has chosen to communicate it. The documentation of her 2821 experience, cross-referenced with the official record of that period, occupies a locked cabinet that she will show to people she has decided to trust.
 
 **Physical notes:**
 The mismatched leg is the most visible thing about her — the replacement synthetic skin reads differently from the original in both texture and slight profile. She walks with complete steadiness — has adapted fully to the rebuilt limb — and does not acknowledge it unless asked. The cold-exposure pigmentation marks on her skin have been treated but not corrected; they have settled at the edges, the way old damage becomes smooth over decades.
 
 **Player interaction note:**
-NPC-Cancer-Trauma-Bearer-2721-Survivor will tell the player exactly what she knows, exactly when she decides it is the right moment to tell them. She is not withholding to be dramatic — she is assessing whether the player is the kind of agent who will use the information correctly. She has been burned before. The player who demonstrates patience and specific attention to evidence will find that she has been waiting to tell them something for a very long time.
+NPC-Cancer-Trauma-Bearer-2821-Survivor will tell the player exactly what she knows, exactly when she decides it is the right moment to tell them. She is not withholding to be dramatic — she is assessing whether the player is the kind of agent who will use the information correctly. She has been burned before. The player who demonstrates patience and specific attention to evidence will find that she has been waiting to tell them something for a very long time.
 
 ---
 
 ## NPC-Cancer-Surveillance-Circuit-Architect
 **Role:** Surveillance Faction — Mother's Circuit architect
 **Species:** Doll (Robot)
-**Build:** Newer model — built circa 2700s, from Aquarius, optimized for technical analytical work. Slender by Aquarius standards; in Cancer, has been modified by years of life in a care district: fabric insulation wraps at the joints that get cold, a small self-propagating plant clipped to the front of their clothing (technically violates maintenance protocols, practically has been there for fifteen years and no one has removed it).
+**Build:** Newer model — built circa 2800s, from Aquarius, optimized for technical analytical work. Slender by Aquarius standards; in Cancer, has been modified by years of life in a care district: fabric insulation wraps at the joints that get cold, a small self-propagating plant clipped to the front of their clothing (technically violates maintenance protocols, practically has been there for fifteen years and no one has removed it).
 **Presenting gender:** Non-binary
 
 **Personality:**

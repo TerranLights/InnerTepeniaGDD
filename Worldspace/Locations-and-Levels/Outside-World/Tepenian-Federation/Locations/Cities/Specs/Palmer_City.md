@@ -160,7 +160,7 @@ What survived of Palmer City's culture arrived in Concordia through people, not 
 
 ## Current Status / Destruction
 
-Palmer City was destroyed in the Long Night War (early 2700s). Its coastal position and extreme accessibility from Upper Earth made it among the first and most thoroughly targeted of the Tepenian cities. The city that was built first was among the first to be destroyed.
+Palmer City was destroyed in the Long Night War (early 2800s). Its coastal position and extreme accessibility from Upper Earth made it among the first and most thoroughly targeted of the Tepenian cities. The city that was built first was among the first to be destroyed.
 
 The ruins exist on the Antarctic Peninsula. Whether they are accessible, and what remains of specific structures, is a DLC 3 design question — the DLC is explicitly set in Palmer City's ruins as an archaeology of what Tepenia was at its most vibrant.
 

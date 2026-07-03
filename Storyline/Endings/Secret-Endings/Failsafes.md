@@ -619,7 +619,7 @@ The city now has a confirmed example of a truly uncontrollable broadcast — a m
 ## 21. The Last Caregiver
 *Theme: Cancer / One Person Who Won't Give Up*
 
-Cancer's official position on the player is unanimous. But Cancer's "No One Left Behind" has been tested by the district's own impossible history — the Overcrowding Decision of 2721, the choices that could never go on any memorial wall. One NPC, old enough to remember something the player did early in the game that nobody else noticed, has decided that the player still counts. Against the entire district's will. Against sense. Against safety.
+Cancer's official position on the player is unanimous. But Cancer's "No One Left Behind" has been tested by the district's own impossible history — the Overcrowding Decision of 2821, the choices that could never go on any memorial wall. One NPC, old enough to remember something the player did early in the game that nobody else noticed, has decided that the player still counts. Against the entire district's will. Against sense. Against safety.
 
 **Trigger**
 A specific narrow space at Cancer's outer edge — a gap between two care facility buildings, a small alcove near a ward exit, a particular corner of the district that patrol routes don't cover tightly — has something tucked into it. An item. No label. No indicator in the UI. Modest: a wrapped piece of preserved Taurus food, a basic repair component, something that costs someone something to leave. The player walking past and examining that space finds it. No quest marker. No NPC pointing toward it. The item is just there, in the same place, every time the player passes through this part of Cancer after reaching Pariah status. That item, in that specific location, is the trigger.
@@ -631,7 +631,7 @@ The item's origin is traceable — not through a quest system, but through payin
 The ending registers when the player, having found the NPC, makes the specific choice to stay rather than leave — a dialogue option or a physical action that commits to remaining in that space. The room is warm. There is a meal. The city is still in crisis. The player is still Hated by every district. The game does not note this as significant. The ending registers quietly. The epilogue is quiet.
 
 **Main Negative Effect on Concordia**
-The one Cancer NPC who maintained the belief that "no one left behind" means even the universally condemned faces district consequences for that belief. Cancer's culture does not eat its dissenters through cruelty — it does so through exhaustion and institutional pressure. The caregiver who extended care to the Pariah becomes the new pressure point for every unresolved tension in the district, including the ones Cancer has been carrying since 2721.
+The one Cancer NPC who maintained the belief that "no one left behind" means even the universally condemned faces district consequences for that belief. Cancer's culture does not eat its dissenters through cruelty — it does so through exhaustion and institutional pressure. The caregiver who extended care to the Pariah becomes the new pressure point for every unresolved tension in the district, including the ones Cancer has been carrying since 2821.
 
 **Minor Negative Effects**
 - Cancer's "No One Left Behind" motto is now in active political dispute — if the motto means the player too, then the district has to articulate what it actually means and when it applies, which is a question Cancer has been avoiding for two centuries
@@ -671,7 +671,7 @@ Word spreads in Aries that a Pariah completed the Trial. The cultural implicatio
 ## 23. The Robot Rights Martyr
 *Theme: Systemic Legacy / Unintended Symbol*
 
-The underground robot rights movement has been watching. Capricorn's suppressed Merit Board Audit of 2761. The bonded pair limbo class in Taurus. The systematic undervaluation across every district. The things the player did — each individually explainable as chaos or self-interest — form a pattern when assembled. The player did not mean to become a symbol. They may not even be aware they are one. The movement has been compiling.
+The underground robot rights movement has been watching. Capricorn's suppressed Merit Board Audit of 2861. The bonded pair limbo class in Taurus. The systematic undervaluation across every district. The things the player did — each individually explainable as chaos or self-interest — form a pattern when assembled. The player did not mean to become a symbol. They may not even be aware they are one. The movement has been compiling.
 
 **Trigger**
 A physical artifact in Capricorn's lower levels — a production log with a specific amendment pattern in its margins, or a Merit Board entry that has been physically altered with a correction, or an old Capricorn administrative record with handwriting in the margins that appears, in the same handwriting, across multiple separate documents — constitutes evidence of an organized movement that didn't know it was leaving a trail. The artifact requires no NPC to explain it. It speaks for itself to anyone who reads it carefully: people have been coordinating in a system that records everything, and the records have caught it. Finding that specific artifact is the trigger.
@@ -683,7 +683,7 @@ The artifact connects to others like it — a chain of physical documents and lo
 The ending registers when the movement makes its first public act conducted in the player's name — a broadcast, a manifesto, a coordinated work action, a public demand — that would not have been possible without the player's legend as its animating force. The player may be dead by the time this happens. The epilogue slide does not specify.
 
 **Main Negative Effect on Concordia**
-The robot rights movement is now using a Pariah as its primary symbol. This makes the movement's legitimate grievances easier for establishment districts to dismiss — "they're championing the universally condemned entity, what does that tell you?" — and harder for sympathetic moderates to publicly support. The Merit Board Audit of 2761, which is the movement's best evidence, is now politically contaminated by its association with the player's legend. The movement's cause is real. Its symbolic choice makes the cause harder to advance.
+The robot rights movement is now using a Pariah as its primary symbol. This makes the movement's legitimate grievances easier for establishment districts to dismiss — "they're championing the universally condemned entity, what does that tell you?" — and harder for sympathetic moderates to publicly support. The Merit Board Audit of 2861, which is the movement's best evidence, is now politically contaminated by its association with the player's legend. The movement's cause is real. Its symbolic choice makes the cause harder to advance.
 
 **Minor Negative Effects**
 - Capricorn's suppression of the robot rights movement intensifies dramatically in response to the movement coming into the open; the crackdown that the movement was hoping to avoid triggers at the worst possible time for the movement's organizational state
@@ -715,7 +715,7 @@ The techniques used to access and erase the records across all 13 districts are 
 - Libra's Surveillance Files now contain active gaps, which raises the question of whether the gaps are recent and whether other gaps were created the same way — possibly by people other than the player, possibly for much longer than anyone knows
 - Janbogo's data archaeologists, who were working to locate the player, now have an unsolvable mystery that will consume significant research resources for years without producing results
 - The Great Corruption — Janbogo's historical lost-archive event — is now re-examined in light of the Scorched Record; data archaeologists who had concluded it was accidental begin reconsidering whether it was deliberate erasure by someone else, using similar methods
-- Capricorn's merit system, already facing robot rights challenges related to the 2761 Audit, now also faces evidence that its administrative records can be physically tampered with — two simultaneous crises of institutional legitimacy that compound each other
+- Capricorn's merit system, already facing robot rights challenges related to the 2861 Audit, now also faces evidence that its administrative records can be physically tampered with — two simultaneous crises of institutional legitimacy that compound each other
 - Cancer's memorial tradition — built on maintaining records of the dead and absent, on the belief that the remembered person persists through the record — has its philosophical foundation questioned by a case where the record's erasure was chosen by the person it recorded
 
 ---

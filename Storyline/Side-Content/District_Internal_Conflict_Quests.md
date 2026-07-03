@@ -11,12 +11,12 @@ For inter-district quest triggers, see `Quest-Triggers.md`.
 
 **Internal Conflict:** The Unlimited vs. Triage Realists vs. Trauma-Bearers vs. Surveillance Faction
 
-**Inciting Situation:** A refugee wave from Sagittarius arrives larger than anticipated. Cancer is already at capacity. The Mother's Circuit — the district's distributed caregiving data network — has begun generating intake priority rankings. The Surveillance Faction's algorithm is being used to determine who gets through the doors. The Trauma-Bearers recognize the logic: it's the Overcrowding Decision of 2721 again, just dressed in data. Meanwhile, specific people are waiting outside in the cold.
+**Inciting Situation:** A refugee wave from Sagittarius arrives larger than anticipated. Cancer is already at capacity. The Mother's Circuit — the district's distributed caregiving data network — has begun generating intake priority rankings. The Surveillance Faction's algorithm is being used to determine who gets through the doors. The Trauma-Bearers recognize the logic: it's the Overcrowding Decision of 2821 again, just dressed in data. Meanwhile, specific people are waiting outside in the cold.
 
 **Parties:**
 - **The Unlimited** (elder caregiver, has run Cancer's primary shelter for forty years): "The doors stay open. We have always found a way."
 - **The Triage Realists** (current district intake administrator): "The circuit tells us who has the best chance of integrating. We use the information or we abandon all of them."
-- **The Trauma-Bearers** (a robot who was on the wrong side of 2721 and lived): "I've seen this algorithm before. It had a different name then. We destroyed the records. Are we going to let it happen again with better documentation?"
+- **The Trauma-Bearers** (a robot who was on the wrong side of 2821 and lived): "I've seen this algorithm before. It had a different name then. We destroyed the records. Are we going to let it happen again with better documentation?"
 - **The Surveillance Faction** (Mother's Circuit architect): "The circuit doesn't make the choice. It gives us better information. The choice is still ours."
 
 **The Dilemma:** The player traces the algorithm's logic and finds a specific family being denied entry: Upper Earth Defectors, flagged as "low integration probability." The circuit isn't neutral — "integration probability" was trained on historical intake data that encodes the district's existing biases about who is welcome. The algorithm is reproducing a prejudice without anyone having decided to.
@@ -27,7 +27,7 @@ For inter-district quest triggers, see `Quest-Triggers.md`.
 
 2. *Override the algorithm.* Let everyone in. Care quality drops across the entire district as staff are overwhelmed. An existing long-term patient dies of a preventable complication. The family survives. The cost is real and distributed rather than concentrated.
 
-3. *Unity Path (requires H 6+ or I 6+):* Expose the bias without destroying the circuit. The Surveillance Faction's architect, confronted with the specific data chain that produced the "low integration probability" for Upper Earth Defectors, cannot defend it as methodology. Work with the Trauma-Bearers to rewrite the intake criteria — explicitly, on the record, in a way that makes the next 2721 harder to paper over. The family gets in. The Mother's Circuit is improved. But the Trauma-Bearers are now on the record about 2721 by name, and some of them didn't want that. The past is now less buried. That's the cost of this path.
+3. *Unity Path (requires H 6+ or I 6+):* Expose the bias without destroying the circuit. The Surveillance Faction's architect, confronted with the specific data chain that produced the "low integration probability" for Upper Earth Defectors, cannot defend it as methodology. Work with the Trauma-Bearers to rewrite the intake criteria — explicitly, on the record, in a way that makes the next 2821 harder to paper over. The family gets in. The Mother's Circuit is improved. But the Trauma-Bearers are now on the record about 2821 by name, and some of them didn't want that. The past is now less buried. That's the cost of this path.
 
 **Ripples:** Unity Path is the only resolution that improves Cancer's intake system long-term. Paths 1 and 2 leave Cancer in the same structural position for the next wave. All paths affect Cancer's reputation with the Upper Earth Defector community at the defector settlement (TBN) in Sagittarius.
 
@@ -37,7 +37,7 @@ For inter-district quest triggers, see `Quest-Triggers.md`.
 
 **Internal Conflict:** The Established vs. Cold-Siders vs. Unverifiables vs. Newcomers
 
-**Inciting Situation:** A Cold Side apartment block's insulation has failed — built to lesser spec decades ago, finally killed by a recent Aries power fluctuation. The district council is slow to respond. A Cold-Side robot (sixty years in Taurus, warm-side political capital: none) wants to use the emergency to force a renegotiation of insulation resource allocation. An Unverifiable family — bonds never re-verified after the Registry Collapse of 2698 — is among those in the failing building. Without verified bond status, they have no housing rights in Taurus. The district is technically not obligated to help them.
+**Inciting Situation:** A Cold Side apartment block's insulation has failed — built to lesser spec decades ago, finally killed by a recent Aries power fluctuation. The district council is slow to respond. A Cold-Side robot (sixty years in Taurus, warm-side political capital: none) wants to use the emergency to force a renegotiation of insulation resource allocation. An Unverifiable family — bonds never re-verified after the Registry Collapse of 2798 — is among those in the failing building. Without verified bond status, they have no housing rights in Taurus. The district is technically not obligated to help them.
 
 **Parties:**
 - **The Established** (district council representative): "We'll fix the insulation. We always do. But this isn't the moment for political restructuring — people are cold."
@@ -140,7 +140,7 @@ All three events are scheduled simultaneously. The Cymaticist experiment require
 
 **Internal Conflict:** Merit Establishment vs. Robot Rights Underground vs. Guild Loyalists
 
-**Inciting Situation:** Someone has leaked the full original Merit Board Audit of 2761 onto Janbogo's public channels — not the sanitized summary Capricorn published, but the complete dataset: sixty-three years of equivalent output, different merit ratings, sorted by species. The Underground has been waiting for this. The Establishment is in damage control. The Guild Loyalists — human and robot workers who have moved up through the system and believed in it — are being forced to pick a side for the first time.
+**Inciting Situation:** Someone has leaked the full original Merit Board Audit of 2861 onto Janbogo's public channels — not the sanitized summary Capricorn published, but the complete dataset: sixty-three years of equivalent output, different merit ratings, sorted by species. The Underground has been waiting for this. The Establishment is in damage control. The Guild Loyalists — human and robot workers who have moved up through the system and believed in it — are being forced to pick a side for the first time.
 
 **Parties:**
 - **Establishment foreman** (upper-spire, earned his position over thirty years): "The methodology was flawed. We've implemented the relevant improvements. This leak is a destabilization campaign."
@@ -155,7 +155,7 @@ All three events are scheduled simultaneously. The Cymaticist experiment require
 
 2. *Back the Underground's full reclassification push.* Production slows for six weeks during spire recalculation. The merit system is genuinely restructured. The disruption costs the city siligel output at a time when the energy crisis makes that costly. Cancer and Taurus feel it. The reform is real.
 
-3. *Unity Path (requires C 7+ or I 5+):* The Establishment's entire identity rests on Capricorn producing the best outcomes through the best methods. Make that argument back at them. A merit system with a sixty-three-year structural bias is not producing best outcomes — it's producing outcomes from a compromised dataset. Bring the Guild Loyalists in first: they're persuadable, and they have credibility the Underground lacks. A coalition of Guild Loyalists and Underground members, making the case in the Establishment's own language, is harder to dismiss than a protest. The reform happens. Slower and less complete than the Underground wanted. More complete than the Establishment intended. The Robot Rights Underground surfaces — publicly, legally — for the first time. The Merit Board Audit of 2761 becomes curriculum in Capricorn's guild apprenticeship programs.
+3. *Unity Path (requires C 7+ or I 5+):* The Establishment's entire identity rests on Capricorn producing the best outcomes through the best methods. Make that argument back at them. A merit system with a sixty-three-year structural bias is not producing best outcomes — it's producing outcomes from a compromised dataset. Bring the Guild Loyalists in first: they're persuadable, and they have credibility the Underground lacks. A coalition of Guild Loyalists and Underground members, making the case in the Establishment's own language, is harder to dismiss than a protest. The reform happens. Slower and less complete than the Underground wanted. More complete than the Establishment intended. The Robot Rights Underground surfaces — publicly, legally — for the first time. The Merit Board Audit of 2861 becomes curriculum in Capricorn's guild apprenticeship programs.
 
 **Ripples:** Unity Path is the prerequisite for the Robot Rights faction becoming a named, accessible faction in Act 3. Path 2 produces the reform but at a cost that affects relations with Cancer and Taurus. Path 1 sets up a more explosive conflict event later.
 

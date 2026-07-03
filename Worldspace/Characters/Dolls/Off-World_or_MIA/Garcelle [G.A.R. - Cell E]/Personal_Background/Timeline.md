@@ -13,7 +13,7 @@
 * YYYY: 
 
 ## Post-Exile / Tepenia Era (Current)
-* 27XX:
+* 28XX:
 
 Lives aboard a small Von Braun Wheel far away from the reaches of Earth to be away from humans. Occasionally, some humans will come and try to "salvage" from her ship, and she puts them through near-literal Hell.
 

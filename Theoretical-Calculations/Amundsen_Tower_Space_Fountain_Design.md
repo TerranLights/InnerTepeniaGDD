@@ -3,8 +3,9 @@
 ## TL;DR (2026-07-03)
 
 1. **Scaling for a wartime evacuation surge is possible but not necessary.** The
-   existing single track's theoretical max throughput (~90,000 people/hour) is ~180x
-   the normal design capacity (~502/hour), and even fully maxed out only adds ~1% to
+   existing single track's theoretical max throughput (~90,000 people/hour) is ~455x
+   the normal design capacity (~198/hour, revised 2026-07-03 for the Long Night War's
+   new ~2794-2804 date), and even fully maxed out only adds ~1% to
    the guide tube's structural weight. Any "some portion of the population escaped"
    figure — a scenario table in the file runs from ~360K to over 20 million depending
    on surge rate and evacuation window — works without changing the tower's physical
@@ -69,7 +70,7 @@ sub-details are flagged under "Still Open" at the bottom.
 | Foundation depth | ~2,700m — the real-world thickness of the Antarctic ice sheet at the South Pole before hitting bedrock |
 | Bearing stations | 300, at 500m spacing (~100t each, ~30,000t total) |
 | Waystations | 5 (Base, ~15km, ~50km, ~100km/Kármán line, 150km terminus) |
-| Throughput needed for 9.5M pop. over ~65yr window | ~17 people/hour bare average — comfortably achievable, not a design constraint |
+| Throughput needed for 9.5M pop. over ~165yr window | ~6.6 people/hour bare average — comfortably achievable, not a design constraint |
 
 **Points worth flagging:**
 
@@ -97,8 +98,8 @@ sub-details are flagged under "Still Open" at the bottom.
   consistent with Hana Jinn's original "mass drivers to launch reusable rockets"
   framing.
 - **The 9.5M orbital population target doesn't require a bigger tower.** Moving the
-  entire established orbital population through the Tower alone over the ~65-year
-  window between completion and the Long Night War only requires ~17 people/hour on
+  entire established orbital population through the Tower alone over the ~165-year
+  window between completion and the Long Night War only requires ~6.6 people/hour on
   average — the 150 km design already comfortably supports this with room to spare
   for a realistic non-uniform migration curve and a dramatic wartime evacuation surge.
 
@@ -316,23 +317,26 @@ Names are working placeholders — open to whatever fits Tepenian naming convent
 
 **The question:** how large would Amundsen Tower need to be to move the established
 orbital population (**9,543,076** — `Official_Population_Census.md`) up from Tepenia
-between the Tower's completion (~2629–2639) and the Long Night War (~2694–2704)?
+between the Tower's completion (~2629–2639) and the Long Night War (~2794–2804)?
 
-**Operating window:** central estimate **65 years** (range 55–75 years depending on
-which end of each date range is paired with which).
+**Operating window:** central estimate **165 years** (range 155–175 years depending
+on which end of each date range is paired with which). *(Updated 2026-07-03 — the
+Long Night War moved from ~2694–2704 to ~2794–2804; Tower completion stays fixed at
+~2629–2639, tied to the Falkland Treaty rather than the war, so this window grew
+from ~65 years to ~165 years.)*
 
-**The headline finding: the bare statistical average is very modest.**
-Assuming, as a conservative upper bound, that the *entire* 9.5M population figure
-was transported via the Tower (no in-orbit robot manufacturing or human births
-counted — both of which almost certainly did contribute, given ~200+ years of
+**The headline finding: the bare statistical average is very modest — even more so
+now.** Assuming, as a conservative upper bound, that the *entire* 9.5M population
+figure was transported via the Tower (no in-orbit robot manufacturing or human
+births counted — both of which almost certainly did contribute, given ~200+ years of
 already-established off-world industrial capacity via the Hana Jinn/Mallory Dufay
 lineage predating the Treaty):
 
 | Window | Required average rate |
 |---|---|
-| 55 years (fastest tower, earliest war) | ~19.8 people/hour |
-| 65 years (central estimate) | ~16.75 people/hour |
-| 75 years (slowest tower, latest war) | ~14.5 people/hour |
+| 155 years (fastest tower, earliest war) | ~7.0 people/hour |
+| 165 years (central estimate) | ~6.6 people/hour |
+| 175 years (slowest tower, latest war) | ~6.2 people/hour |
 
 **That means the Tower's 150 km height and existing design are not actually
 throughput-constrained by the population target at all.** The height was set by
@@ -347,10 +351,11 @@ it need to be" is "no larger than already designed — the numbers already work.
 - One-way travel time: **~6 minutes**.
 - Design capacity at **30x the bare average** (margin for a realistic non-uniform
   migration curve — slow ramp-up in the early decades, busier later — plus everyday
-  operational headroom): **~502 people/hour**, or about one car departure every
-  **3.6 minutes**, needing only **2 cars simultaneously in transit** per direction at
-  any given moment. Even this generously-margined design is a small, unglamorous
-  system relative to the megastructure carrying it.
+  operational headroom): **~198 people/hour** *(revised 2026-07-03 from ~502/hour —
+  the longer 165-year operating window means less throughput is needed for the same
+  margin)*, or about one car departure every **~9 minutes**, needing under **1 car
+  simultaneously in transit** per direction on average. Even this generously-margined
+  design is a small, unglamorous system relative to the megastructure carrying it.
 - **Wartime evacuation surge:** the established "large-scale population movement" of
   evacuees fleeing via the Tower during the Long Night War itself was almost
   certainly a short, desperate spike far above this steady-state design capacity —
@@ -389,7 +394,7 @@ throughput × evacuation window):
 
 | Surge rate | 30 days | 60 days | 90 days |
 |---|---|---|---|
-| 502/hr (normal design capacity, no surge) | ~361,000 | ~723,000 | ~1,084,000 |
+| 198/hr (normal design capacity, no surge — revised 2026-07-03) | ~143,000 | ~285,000 | ~428,000 |
 | 2,000/hr (modest surge — more cars added) | ~1,440,000 | ~2,880,000 | ~4,320,000 |
 | 10,000/hr (major surge — most of theoretical max) | ~7,200,000 | ~14,400,000 | ~21,600,000 |
 

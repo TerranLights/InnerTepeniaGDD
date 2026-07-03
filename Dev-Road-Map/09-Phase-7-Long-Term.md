@@ -40,7 +40,7 @@ These can be designed in parallel or sequentially — there's no dependency betw
 
 **Priority: Depends on Blocking Decision 2.** If Salagéa is moved to the main game, this DLC slot needs a new protagonist. If she stays in DLC 5, this DLC gets her personality work (from the blocking decision resolution) as its starting point.
 
-The Atlantic Coastal Region is geographically the furthest from Concordia and therefore potentially the thematically most distinct. What does the Atlantic coast look like in 2786? What survived the Long Night War in that region? What relationship does it have with the remnants of the Old World (Europe, Africa, South America, which are all within Atlantic reach)?
+The Atlantic Coastal Region is geographically the furthest from Concordia and therefore potentially the thematically most distinct. What does the Atlantic coast look like in 2886? What survived the Long Night War in that region? What relationship does it have with the remnants of the Old World (Europe, Africa, South America, which are all within Atlantic reach)?
 
 This DLC has the most potential for exploring the world beyond Antarctica — which makes it thematically important for the Outer Tepenia series continuity.
 

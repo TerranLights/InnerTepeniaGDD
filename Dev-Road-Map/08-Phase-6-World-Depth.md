@@ -12,7 +12,7 @@
 
 Every major location in FNV was designed to feel like it predated the Courier's arrival. Novac has a history that doesn't begin when the player shows up. The Hub has ongoing commerce that would continue if the Vault Dweller had turned back. This principle scales to world-building: Inner Tepenia's pre-war cities, the Long Night War, the Falkland Treaty — these should feel like things that happened, fully and specifically, not things that were sketched in to give the player context.
 
-The test: could you write a short story set in Fort McMurdo in 2701 that has nothing to do with the player character and feels like it's set in a real place? If yes, the world is developed enough. If no, it needs more work.
+The test: could you write a short story set in Fort McMurdo in 2801 that has nothing to do with the player character and feels like it's set in a real place? If yes, the world is developed enough. If no, it needs more work.
 
 ### History should produce friction, not just texture
 
@@ -48,7 +48,7 @@ Janbogo has core facts but no cultural depth. Given its narrative significance (
 
 ### Fort McMurdo
 
-The name suggests a connection to the real-world McMurdo Station — the largest Antarctic research station, built and operated primarily by the United States. In Inner Tepenia's world, the geopolitical context has changed dramatically, but the site's history as a center of Antarctic presence makes it significant. What is Fort McMurdo in 2786? A military city? A research city? A city that was both and is now something more complicated?
+The name suggests a connection to the real-world McMurdo Station — the largest Antarctic research station, built and operated primarily by the United States. In Inner Tepenia's world, the geopolitical context has changed dramatically, but the site's history as a center of Antarctic presence makes it significant. What is Fort McMurdo in 2886? A military city? A research city? A city that was both and is now something more complicated?
 
 ---
 
@@ -117,7 +117,7 @@ The Gyeong-ja Yun case specifically is listed in the quest layer (Phase 5 task 5
 
 **Priority: Low. The district designs are solid; these are fill-in items.**
 
-- Named evacuee individuals (specific people from the pre-war exodus, present in Concordia in 2786)
+- Named evacuee individuals (specific people from the pre-war exodus, present in Concordia in 2886)
 - Unified Korea's role and political position in the current world (currently named but undefined)
 - The Midwestland world reference (appears in character backstories but has no document)
 - Sinian Federation (deliberately deferred; remains deferred unless needed for main game content)

@@ -42,7 +42,7 @@ NPC-Taurus-Established-Council-Representative is the NPC you need to convince us
 **Presenting gender:** Female
 
 **Personality:**
-NPC-Taurus-Cold-Side-Representative is not angry in the way the 2721 survivor is angry. She is tired. There is a difference, and it matters. The anger burned through a long time ago and what remains is the specific exhaustion of someone who has submitted seventeen repair requests and received eleven partial responses and six non-responses and has the documentation of all of it. She is precise about time because she has had to be: the cold gets worse at predictable intervals, the repair crew availability is predictable, the council's responsiveness is predictable. She has internalized the system's rhythms the way you internalize the rhythms of a chronic condition.
+NPC-Taurus-Cold-Side-Representative is not angry in the way the 2821 survivor is angry. She is tired. There is a difference, and it matters. The anger burned through a long time ago and what remains is the specific exhaustion of someone who has submitted seventeen repair requests and received eleven partial responses and six non-responses and has the documentation of all of it. She is precise about time because she has had to be: the cold gets worse at predictable intervals, the repair crew availability is predictable, the council's responsiveness is predictable. She has internalized the system's rhythms the way you internalize the rhythms of a chronic condition.
 
 Her humor is very dry and takes a second to land. She makes jokes in situations that are not funny as a way of establishing that she knows exactly how not-funny they are.
 
@@ -69,7 +69,7 @@ NPC-Taurus-Cold-Side-Representative will hand the player documentation the way a
 ## NPC-Taurus-Unverifiable-Spokesperson
 **Role:** Unverifiables — family spokesperson; legally unrecognized resident
 **Species:** Doll (Robot)
-**Build:** Circa early 2700s, companion-and-performance model — built in Leo for what was then a performance career. The frame carries the specific elegance of Leo's engineering era in that period, now worn into something softer by twenty-eight years of Taurus winters. Has been modified (internally) for lower-temperature conditions, but the modifications are not robust — they've been done gradually by whoever was willing to work without official documentation.
+**Build:** Circa early 2800s, companion-and-performance model — built in Leo for what was then a performance career. The frame carries the specific elegance of Leo's engineering era in that period, now worn into something softer by twenty-eight years of Taurus winters. Has been modified (internally) for lower-temperature conditions, but the modifications are not robust — they've been done gradually by whoever was willing to work without official documentation.
 **Presenting gender:** Female
 
 **Personality:**
