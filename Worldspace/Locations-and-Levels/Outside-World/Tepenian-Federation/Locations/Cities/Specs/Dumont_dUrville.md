@@ -1,11 +1,11 @@
 # Dumont d'Urville
 
 **Based on:** Dumont d'Urville Station (France), Petrel Island, Géologie Archipelago, Adélie Land, East Antarctica (~66°40'S, 140°01'E)
-**Status:** Destroyed
+**Status:** Damaged; partially operational *(corrected 2026-07-03 — this file previously said "Destroyed," conflicting with `Official_Population_Census.md`'s destroyed-cities list, `City_Relationship_Database.md`, and the `Local_Cultures/README.md` tracking table, all of which agree Dumont d'Urville is damaged/surviving)*
 **Arcanet Subnet:** Janbogo
 **Highway access:** TBD — coastal road connection to Janbogo and the Ross Sea network; specifics not yet established
 **Significance:** French Tepenian city in Adélie Land; among the windiest locations in Tepenia; Pink Lucy's origin city; namesake of St. Jules (Jules Dumont d'Urville); island-positioned city — built on Petrel Island in the Géologie Archipelago, approximately 5km off the continental coast
-**DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, accessible as ruins
+**DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but inhabited city
 
 ---
 
@@ -63,14 +63,14 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 
 #### Gameplay Notes
 
-- **Wind as primary hazard — more extreme than Mirny:** in ruins exploration, katabatic events at Dumont d'Urville would be the most severe wind conditions the player encounters in the Janbogo subnet DLC region; outdoor movement, item degradation, and combat in the open would all be affected
-- **The island ruins:** a destroyed city on a small island is a contained, explorable environment with natural boundaries — the channels and ice around Petrel Island define what the player can access; the ruins of the city are geographically complete in a way mainland ruins are not
-- **Adélie penguin colonies:** in the ruins, the penguin colonies continue; the animals are indifferent to the destroyed city and have colonized parts of it; a ruined city occupied by penguin colonies is a specific visual and environmental texture worth building
-- **Pink Lucy's origin:** the ruins of Dumont d'Urville hold her pre-war history; whatever questline or lore retrieval involves her past would be centered here
+- **Wind as primary hazard — more extreme than Mirny:** *(corrected 2026-07-03 — Dumont d'Urville is damaged, not destroyed; notes below adjusted from "ruins exploration" framing)* katabatic events at Dumont d'Urville would be the most severe wind conditions the player encounters in the Janbogo subnet DLC region; outdoor movement, item degradation, and combat in the open would all be affected in both the damaged and still-standing sections of the city
+- **The island city:** a damaged city on a small island is a contained, explorable environment with natural boundaries — the channels and ice around Petrel Island define what the player can access; the mix of damaged and intact sections is geographically complete in a way mainland cities aren't
+- **Adélie penguin colonies:** the penguin colonies persist alongside the damaged city; the animals are indifferent to the wreckage and have colonized the emptier sections; a partially-inhabited city sharing space with penguin colonies is a specific visual and environmental texture worth building
+- **Pink Lucy's origin:** Dumont d'Urville holds her pre-war history; whatever questline or lore retrieval involves her past would be centered here — she left a damaged but still-standing city, not a dead one
 - **Hardcore Mode influences:**
   - Wind at Dumont d'Urville exceeds what the player has encountered at other coastal cities; protection ratings calibrated for Mirny are insufficient here without additional wind-resistance equipment
-  - Island access: reaching Petrel Island from the continental coast (or from a ship) requires crossing open ice or water; in Hardcore Mode this crossing has its own hazard profile separate from the city ruins themselves
-  - Penguin colonies as food source: the Adélie penguin population represents a supplementary food resource in the ruins for a player managing Hardcore Mode supplies
+  - Island access: reaching Petrel Island from the continental coast (or from a ship) requires crossing open ice or water; in Hardcore Mode this crossing has its own hazard profile separate from the city itself
+  - Penguin colonies as food source: the Adélie penguin population represents a supplementary food resource for a player managing Hardcore Mode supplies
 
 ---
 
@@ -104,9 +104,9 @@ Dumont d'Urville's economy was built around its coastal position, the resources 
 
 ## Notable Locations
 
-- **The Adélie penguin breeding grounds** — the colonies that occupy the Géologie Archipelago; in the ruins, these continue undisturbed; nesting sites likely occupy sections of the destroyed city
+- **The Adélie penguin breeding grounds** — the colonies that occupy the Géologie Archipelago; undisturbed alongside the damaged city; nesting sites likely occupy the emptier, unrepaired sections
 - **St. Jules memorial site** — TBD; where the city honored Dumont d'Urville's January 21 landing; exact form and survival status unknown
-- **The channel crossing** — the route between Petrel Island and the continental coast, approximately 5km across; in winter, crossable on sea ice; in summer, by boat; the crossing is the entry point to the ruins
+- **The channel crossing** — the route between Petrel Island and the continental coast, approximately 5km across; in winter, crossable on sea ice; in summer, by boat; the crossing is the main entry point to the city
 - **Pink Lucy's origin location** — wherever she was built, lived, or worked in the city; TBD pending her backstory development
 - Additional locations: TBD for DLC design
 
@@ -122,30 +122,32 @@ Dumont d'Urville's economy was built around its coastal position, the resources 
 
 Dumont d'Urville was part of the Janbogo subnet, sharing Arcanet infrastructure with Janbogo and the broader Ross Sea network. Its relationship with Concordia was mediated through Janbogo — Concordia's direct Arcanet connection in the main game, whose hardware is housed in the Gemini district.
 
-Pink Lucy came from here. Whatever journey brought her to Concordia is part of her character backstory; the ruins of her origin city are the physical location of that history.
+Pink Lucy came from here. Whatever journey brought her to Concordia is part of her character backstory; Dumont d'Urville itself — damaged but still standing — is the physical location of that history, not a place she's the last survivor of.
 
 ---
 
-## Current Status / Destruction
+## Current Status / Damage
 
-Dumont d'Urville was destroyed in the Long Night War. The city on Petrel Island is ruins. The penguin colonies continue.
+*(Corrected 2026-07-03 — this section previously described Dumont d'Urville as destroyed; corrected against `Official_Population_Census.md`, `City_Relationship_Database.md`, and `Local_Cultures/README.md`, all of which agree it's damaged and inhabited, not destroyed.)*
 
-The specific circumstances of the city's destruction — what happened, when, whether anyone escaped — are TBD and relevant to Pink Lucy's backstory and any DLC content set here.
+Dumont d'Urville was hit during the Long Night War and left damaged but not destroyed — a city of sections repaired, sections abandoned, and a population that stayed rather than a place that emptied out entirely. The penguin colonies continue alongside it, indifferent to the difference between war damage and ordinary decay.
+
+The specific extent of the damage — which sections survived intact, what infrastructure remains functional, how the surviving population organizes itself — is TBD and relevant to Pink Lucy's backstory and any DLC content set here.
 
 ---
 
 ## Legacy
 
-Dumont d'Urville's legacy in Concordia is primarily carried by Pink Lucy, who is its most prominent survivor. The city itself is not large enough to have sustained a substantial diaspora community in Concordia; what exists of its memory there exists through her.
+Dumont d'Urville's presence in Concordia is carried primarily by Pink Lucy — not as its last survivor, but as someone who left a damaged, still-standing city. The city itself is small enough that it hasn't sustained a large diaspora community in Concordia; what's known of it there is mostly known through her.
 
-In broader Tepenian culture, Dumont d'Urville was the French city of Adélie Land — the place that kept the French Antarctic inheritance alive from the exile era onward. St. Jules, the penguins, the wind. A small city with a very specific identity, now gone.
+In broader Tepenian culture, Dumont d'Urville is the French city of Adélie Land — the place that has kept the French Antarctic inheritance alive from the exile era onward, wind and penguins and St. Jules included, damaged by the war but still there.
 
 ---
 
 ## Open Questions
 
 - **Pink Lucy's full story** — her name derivation (user has leads; TBD), her pre-war role in Dumont d'Urville, when and how she left, and what her relationship to the city's destruction is; this is the most significant open question about Dumont d'Urville as it drives companion and DLC content
-- **The city's destruction timeline** — was Dumont d'Urville destroyed early in the Long Night War or later? Did Pink Lucy leave before or after? Was there time for significant evacuation?
+- **The city's damage timeline** — when during the Long Night War was Dumont d'Urville hit, and how badly? Did Pink Lucy leave before or after? What prompted her departure from a city that was damaged rather than destroyed?
 - **Highway / coastal road connection** — how does Dumont d'Urville connect to the Janbogo subnet coastal road network? Distance from Janbogo by road TBD
 - **St. Jules observance** — January 21 (the date of d'Urville's 1840 landing) would be a natural civic observance date; what form did Dumont d'Urville's commemoration of St. Jules take?
 - **The penguin colony in gameplay** — how the Adélie penguin presence in the ruins is handled mechanically and narratively; they are a distinctive environmental feature worth designing around
