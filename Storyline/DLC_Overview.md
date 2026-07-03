@@ -45,6 +45,37 @@ The main questline should be tight, purposeful, and completable in a single exte
 
 ---
 
+## Intro/End Slide Structure — Design Standard, All DLCs *(established 2026-07-03)*
+
+Modeled directly on Fallout: New Vegas's four DLCs (Dead Money, Honest Hearts,
+Old World Blues, Lonesome Road):
+
+- **Intro sequence:** all **7 DLCs**, including DLC 1, open with a framed
+  narrated sequence establishing the background/history/goals relevant to that
+  DLC's central conflict — the same function as Dead Money's Sierra Madre
+  framing, Honest Hearts' Oliver/Joshua Graham/Legion background, or Old World
+  Blues' scientist-goals opening. The developer already has a clear picture of
+  what Kendra's opening should be — it just won't follow the same "establish a
+  cast of multiple factions/characters" shape the other six do, since DLC 1 is a
+  solo story about one character.
+- **End slides:** all **7 DLCs**, without exception, end with slides detailing
+  the consequences of player choices — matching all four NV DLCs' endings.
+- **The Kendra Heinrich problem, and the Lonesome Road precedent:** this is
+  where DLC 1 actually is the outlier, not the intro. The other six subnet DLCs
+  have multiple factions/characters whose fates can each get a slide, the way
+  NV's faction-based DLCs do. DLC 1 doesn't — it's just Kendra, alone, fading in
+  Amundsen Station's underbelly. **Lonesome Road solves the exact same
+  end-slide problem** (minimal cast, no local factions — it's just the Courier
+  and Ulysses) by making its endings about the *largest strategic picture*
+  instead of local faction outcomes. That's the intended model for Kendra's end
+  slides specifically — Lonesome Road is the structural precedent for DLC 1's
+  ending, not its intro (Lonesome Road itself has no intro sequence at all,
+  which is a separate, unrelated fact about it). See
+  `Kendra Heinrich/DLC_South_Pole_Level_Design.md`
+  and the Open Questions below for the specific candidate angles this produced.
+
+---
+
 ## DLC 1 — South Pole
 **Working title (possible):** "Echoes of Amundsen" *(floated — not yet confirmed canon)*
 **Arcanet subnet:** Inter-subnet relay (neutral — not assigned to any subnet)
@@ -174,3 +205,4 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - **Byrd air connection to Framheim** — details TBD
 - **Dumont d'Urville in Janbogo DLC** — included directly or side-content references only? (TBD)
 - **Release order** of DLCs — TBD
+- **Kendra Heinrich's DLC 1 end slides** *(flagged 2026-07-03)* — five candidate angles logged in `Kendra Heinrich/DLC_South_Pole_Level_Design.md`, following the Lonesome Road precedent (endings about the largest strategic picture, not local factions, since DLC 1 has no faction ecosystem): (1) Kendra's own personal fate, (2) the Tower/scrap-mountain site's epilogue, (3) the evacuation dead found along the routes to the Tower, (4) the Arcanet archive/Planetary Split Brain resolution, (5) a capstone reflection across all six other DLCs. Explicitly subject to revision once actual plot-outlining begins.

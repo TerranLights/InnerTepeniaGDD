@@ -100,7 +100,70 @@ Earned perks should be numerous, varied, and deeply embedded in the world. A pla
 | Passive (early) | 1 | Available from first joining |
 | Passive (deep) | 1 | Unlocked after a specific milestone or questline stage |
 | Permanent (questline) | 1–2 | Earned by completing their personal arc |
-| Permanent (choice) | 0–1 | Earned by making a specific choice during their arc |
+| Permanent (choice) | 0–1 | See "Dual-Outcome Companion Perks" below — this is not optional, it's the standard resolution mechanic for every companion's personal questline |
+
+---
+
+### Dual-Outcome Companion Perks — Universal Structure *(established 2026-07-03)*
+
+**Binding design law, applies to every recruitable companion in the base game
+and every DLC, with no exceptions.** Modeled directly on Fallout: New Vegas's
+companion quest resolutions — most concretely, Cass's personal quest ending in
+either the **Hand of Vengeance** or **Calm Heart** perk depending on how the
+player handles the situation behind her caravans disappearing.
+
+**The structure, two tiers:**
+
+1. **The companion's own perk branches.** Every companion's personal questline
+   resolves into one of (at minimum) **two mutually exclusive companion
+   perks** — not a single fixed outcome. Which one they receive depends on how
+   the player approached the resolution: the choices made, the influence
+   exerted, the path taken. This replaces the "Permanent (choice), 0–1" line
+   above — it is not an optional bonus perk, it's the standard shape every
+   companion's questline resolution should take.
+2. **The player's perk is derived from the companion's outcome.** This is the
+   layer beyond the FNV precedent: whichever of the mutually exclusive
+   companion perks a companion ends up with **determines which of a
+   corresponding pair of player perks the player themselves receives.** The
+   player perk is not chosen independently — it's downstream of which
+   companion-perk branch got triggered. Player Perk A pairs with Companion
+   Perk A; Player Perk B pairs with Companion Perk B. The player cannot get
+   Companion Perk A's outcome and Player Perk B — the two tiers are locked
+   together per branch.
+
+**Why this matters design-wise:** it means every companion's resolution
+produces a *coherent pair* — a psychological/narrative outcome for the
+companion, and a mechanical outcome for the player that reflects and reinforces
+that same choice, rather than the player perk being an arbitrary, disconnected
+reward bolted onto the story beat.
+
+**Scope:** this applies to all base-game companions and all DLC companions,
+including Kendra Heinrich (DLC 1) — see
+`Kendra Heinrich/DLC_South_Pole_Level_Design.md` for how this maps onto her
+specific end-of-DLC decision points (the Arcanet/hardware handling, the
+evacuation dead, and possibly others), each of which is a candidate branching
+point for her dual-outcome companion perk.
+
+**Three-branch goal, evaluated per companion *(established 2026-07-03):*** the
+FNV baseline is always exactly 2 outcomes (Hand of Vengeance / Calm Heart), but
+when actual design & development work reaches each companion's questline, the
+default question should be "can this competently support **three** mutually
+exclusive outcomes instead of two?" — not "should we add a third." Two remains
+the floor, not the target. Three should be attempted wherever the questline's
+own stakes and psychology genuinely support a third distinct, coherent path
+(see the Kendra Arcanet/hardware branch as a working example: Restore &
+Broadcast / Recover & Control / Let It Go each read as a real, distinct
+choice rather than a padded-out middle option). Where a questline's situation
+doesn't naturally support a third coherent branch, don't force one — a weak or
+redundant third option is worse than a clean two. This is a per-companion,
+per-questline judgment call made during actual design work, not a blanket rule.
+
+**Other open questions:**
+- Exact naming/design of each companion's perk pair (or triad) — per-character
+  design work
+- Exact naming/design of each corresponding player perk pair (or triad) —
+  per-character design work, likely done in the same pass as the companion
+  perk branch
 
 ---
 

@@ -148,7 +148,110 @@ relevant to this site:
   the Debris Apron zone specifically, since that's the terrain evacuees would have
   been crossing in the final approach to the Tower.
 
-## 7. Open Questions
+## 7. Intro/End Slide Structure *(established 2026-07-03)*
+
+Per `Storyline/DLC_Overview.md`'s Fallout: New Vegas-modeled design standard, all
+7 DLCs get both a framed intro sequence and end slides — DLC 1 is not an
+exception on the intro side. The developer already has a clear picture of what
+Kendra's opening sequence should be (not yet transcribed here — pick up in a
+future session); it just won't follow the "establish a cast of multiple
+factions/characters" shape the other six DLCs' intros will, since this is a solo
+story about one character rather than a multi-faction conflict.
+
+**End slides — the actual problem, and the Lonesome Road model:** DLC 1 has no
+faction ecosystem to generate per-faction outcome slides the way the other six
+DLCs will (multiple characters, competing factions, regional politics). It's
+just Kendra, alone, fading in the underbelly of Amundsen Station. **Lonesome
+Road solves the identical end-slide problem** in NV (minimal cast — just the
+Courier and Ulysses, no local factions) by making its endings about the *largest
+strategic picture* — which missiles get launched, what that means for the whole
+NCR-Legion war — rather than local faction consequences. That's the intended
+model for Kendra's end slides specifically. (Lonesome Road separately has no
+intro sequence at all, which is an unrelated fact about it — the parallel being
+drawn here is about the ending structure only.)
+
+**Five candidate end-slide angles (2026-07-03, explicitly subject to revision
+once actual plot-outlining begins):**
+
+1. **Kendra's own personal fate** — the most direct analog to a companion-fate
+   slide: what actually happens to her based on what the player does in the
+   underbelly. Does she finally get to stop, get recovered or preserved somehow,
+   remain exactly as she is, or something else?
+2. **The site's epilogue** — the Tower ruins/scrap mountain itself as the
+   "character" with a fate, the way Lonesome Road treats the Divide and its
+   missiles as the real subject rather than any person. Sealed, memorialized,
+   stripped for salvage, left disturbed? A faction-less but still
+   player-reactive consequence system.
+3. **The evacuation dead** — ties directly to the already-logged "frozen bodies
+   along the evacuation routes" idea (see `TODO.md`). If the DLC lets the player
+   recover, document, or identify any of the people who didn't make it to the
+   Tower in time, an end slide could cover whether their stories made it home to
+   their subnets — a way to gesture at *all six other DLCs* from inside the one
+   DLC that otherwise has no factions of its own.
+4. **The Arcanet archive / Planetary Split Brain** — Amundsen Station holds the
+   last synchronized pre-Split-Brain archive. If the DLC involves accessing or
+   restoring it, that's a legitimate, faction-independent stake with real
+   downstream consequences for whether the Split Brain gets resolved.
+5. **A capstone reflection across all six other DLCs** — since DLC 1 releases
+   *last* (see `project_level_cap_dlc_progression` memory / `DLC_Overview.md`
+   Release Order section), its final slide(s) could reflect back across
+   everything the player has already done across the whole Federation — the way
+   Lonesome Road's ending functions as commentary on the entire NCR-Legion
+   conflict rather than its own isolated story.
+
+---
+
+## 8. Dual-Outcome Companion Perk — Working Example *(established 2026-07-03)*
+
+Per `Game-Mechanics/Perks/Perk_Framework.md`'s universal dual-outcome companion
+perk system (the Cass/Hand-of-Vengeance-vs-Calm-Heart model, extended so the
+companion's branch also determines a paired player perk), Kendra's Arcanet
+archive/hardware decision (angle 4 above) is the current working example of a
+**three-way branch** — evaluated and judged competent, per the "try for three,
+don't force it" guidance in `Perk_Framework.md`:
+
+**A. Restore & Broadcast** — fully restore the archive and transmit the true
+pre-split history to all six subnets, resolving the Planetary Split Brain.
+- *Kendra's psychology:* closure and vindication. Her sacrifice at the Tower
+  becomes verifiably known everywhere, not just felt as loss — for an 8w7
+  who's spent the whole DLC stripped of control, this is the one path where
+  she gets something back.
+- *Candidate companion perk:* **"Vindicated"**
+- *Candidate player perk:* reputation/recognition-flavored, paying off across
+  every other DLC region (unique dialogue, faster standing gains) — the
+  player is now known Federation-wide as the one who told the truth.
+
+**B. Recover but Control the Release** — hold the archive, release it
+selectively (Concordia's government, a specific faction, or kept as leverage)
+rather than broadcasting it openly.
+- *Kendra's psychology:* arguably the more natural fit for an 8 than option A —
+  8s trust control and calculated strength, not naive openness. She could
+  approve of this specifically because it doesn't hand something this
+  dangerous to everyone indiscriminately.
+- *Candidate companion perk:* **"The Long Game"**
+- *Candidate player perk:* leverage/information-advantage flavored — discounts,
+  unique access to gated dialogue or quest paths tied to holding a genuine
+  secret.
+
+**C. Let It Go** — don't restore it, or actively let it be lost; the past
+stays buried.
+- *Kendra's psychology:* the most complicated of the three — part relief (the
+  burden of memory ends, including whatever the archive holds about her own
+  failure) and part grief (nothing gets redeemed, nothing gets fixed). Ties
+  well to the game's own robot-consciousness north star question.
+- *Candidate companion perk:* **"The Weight Set Down"**
+- *Candidate player perk:* more philosophical/mechanical than the other two —
+  something about moving forward unburdened rather than gaining leverage or
+  reputation.
+
+**Status:** all three read as genuinely distinct, coherent choices rather than
+a padded third option — this branch is a plausible template for how other
+companions' three-way splits might be evaluated, though exact perk
+names/mechanics are placeholders pending real design work.
+
+---
+
+## 9. Open Questions
 
 - Exact nature of the corrupted/automated underground threat (if used) — needs its
   own design pass, not just a label
