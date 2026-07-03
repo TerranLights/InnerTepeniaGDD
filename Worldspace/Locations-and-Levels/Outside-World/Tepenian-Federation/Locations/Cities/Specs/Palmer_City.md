@@ -88,6 +88,8 @@ These three groups built Palmer City together. The distinction between romantic 
 
 The first residents took up the old pre-war station buildings immediately on arrival. What began as a camp became a city gradually, then all at once.
 
+**The Byrd Expedition contribution** *(established 2026-07-03):* When word reached Palmer City that Belgrano was organizing an expedition inland to locate a "lost site" — the buried ruins of Byrd Station — Palmer City shipped its own historical accounts, transport manifests, and maps across the Weddell Sea to help sharpen the expedition's heading, alongside a parallel contribution from Rothera. A founding-era link between three of Tepenia's earliest settlements and three different DLCs (Palmer City here, Belgrano in DLC 5, Byrd in DLC 2). See `Cities/Local_Cultures/Halley_Subnet/Belgrano.md` for the fuller account.
+
 ---
 
 ## Character & Culture

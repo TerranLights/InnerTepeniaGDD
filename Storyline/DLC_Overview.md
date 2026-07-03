@@ -8,11 +8,38 @@ The **Mirny subnet** (Concordia's own subnet) receives a dedicated DLC despite t
 
 ---
 
+## Release Order vs. DLC Numbering *(established 2026-07-03)*
+
+**"DLC 1" is a canonical/thematic label, not a release-order slot.** DLC 1 (South
+Pole, Kendra Heinrich) is planned to be **published last**, after all 6 subnet
+DLCs, despite carrying the "1" designation.
+
+**Why:**
+- **Narrative payoff.** Amundsen Tower's destruction is the central catastrophic
+  event of the Long Night War — every subnet DLC's population had some
+  relationship to reaching (or failing to reach) the Tower during the evacuation.
+  Playing the subnet DLCs first establishes who those people were and what was at
+  stake regionally; Kendra's DLC then lands as a capstone with full context,
+  rather than as an isolated opener the player has no stakes in yet. Directly
+  reinforces the already-logged "frozen bodies along the evacuation routes"
+  environmental-storytelling idea (see `TODO.md`) — a player who has met each
+  subnet's culture will recognize what they're looking at.
+- **Level-cap parity benefit.** Each subnet DLC raises the cap by an odd number
+  (+5), so owning an odd count of them (1, 3, or 5) leaves the cap on an odd
+  number — one level short of a full perk cycle at that ownership state (see
+  `Perks/Regular_Perks_-_Level-Up.md`). A player who buys DLCs in release order
+  will have all 6 subnet DLCs (an even total, no parity issue) before Kendra's DLC
+  (+6, always parity-safe) ever becomes available — the default, in-order
+  purchase path never hits the awkward odd-cap state.
+
+---
+
 ## Scope and Length — Design Standard (All DLCs)
 
 **Main questline (trigger → completion of central problem):** approximately 4–6 hours
 **Optional side-content (exploration, side quests, lore, collectibles):** approximately 10–20 hours
 **Total potential playtime per DLC:** approximately 14–26 hours
+**Level cap increase** *(established 2026-07-03):* each of the 6 subnet DLCs (2–7) raises the level cap by **+5**; DLC 1 (South Pole) raises it by **+6**. Base game (cap 64) + all 7 DLCs = cap **100** exactly — see `Game-Mechanics/Core-Mechanics/Experience_and_Leveling_System.md`.
 
 The main questline should be tight, purposeful, and completable in a single extended session or two shorter ones. The side-content should reward players who want to live in the region — not padding, but genuinely interesting optional material that deepens the world without being required to understand the main story. A player who does only the main questline should feel satisfied; a player who does everything should feel like they've inhabited a place.
 
@@ -57,6 +84,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - West Antarctic geography — Amundsen Sea side, lower altitude than the East Antarctic plateau cities
 - Possible air connection to Framheim (historical expedition site on the Ross Ice Shelf) — details TBD; implies either aviation infrastructure at Byrd or historical significance at Framheim worth reaching by air rather than Hwy 1
 - Byrd subnet also includes Little America (near Framheim) — both pre-exile expedition ruins
+- **The Byrd Expedition** *(established 2026-07-03)*: the founding-era discovery of Byrd's buried underground city was a three-settlement effort — Belgrano (DLC 5) organized and built the expedition's vehicles ("las Arrastradoras," ancestor of the modern "Rastra"), crewed all-robot; Palmer City (DLC 3) and Rothera (also DLC 3) shipped supporting historical records across the Weddell Sea once word spread. See `Cities/Specs/Byrd.md` and `Cities/Local_Cultures/Halley_Subnet/Belgrano.md` for the full account.
 
 ---
 
@@ -71,6 +99,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - Subnet includes: Rothera, Esperanza, Marambio, Sejong, Juan Carlos, Port Lockroy, Signy (peripheral)
 - Most accessible peninsula from Upper Earth — historically the first point of exile arrival and first Long Night War target
 - Signy (South Orkney Islands) — northernmost Tepenian outpost, maritime access only, weak Arcanet connection
+- **The Byrd Expedition connection** *(established 2026-07-03)*: Palmer City and Rothera both shipped historical records across the Weddell Sea to Belgrano (DLC 5) to help locate Byrd Station (DLC 2) — see DLC 2 entry above for the full account
 
 ---
 
@@ -101,6 +130,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - Maitri — eastern terminus of Hwy 7 proper; will be renamed (new name TBD)
 - Belgrano cultural spec sheet complete (`Cities/Local_Cultures/Halley_Subnet/Belgrano.md`) — survived the Long Night War intact, declined into ruin afterward, still inhabited; discipline-without-institution civic character
 - Salagéa Aparast personally knew Griselda Alejandra Chávez (off-world, Deimos; does not appear in-game) during Belgrano's pre-war era — a potential quest hook or narrative reference; see both characters' files
+- **The Byrd Expedition** *(established 2026-07-03)*: Belgrano's founding-era claim to fame — its industrial/airbase capacity built "las Arrastradoras," Tepenia's first native overland vehicles (later shortened to the now-international "Rastra"), crewed all-robot for the crossing that discovered Byrd Station's buried underground city (DLC 2), with supporting historical records shipped in from Palmer City and Rothera (DLC 3). See `Cities/Local_Cultures/Halley_Subnet/Belgrano.md`.
 
 ---
 

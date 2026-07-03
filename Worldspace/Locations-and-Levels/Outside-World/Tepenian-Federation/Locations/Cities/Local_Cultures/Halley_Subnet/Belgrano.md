@@ -37,6 +37,8 @@ Over the following century, German, British, Brazilian, and eventually American 
 
 For roughly 130 years, that was the whole story: a hard, purposeful, aviation-and-frontier city at the edge of the Weddell Sea, the least glamorous and most functionally important node in the Halley subnet. Then the Long Night War came — and Belgrano, unlike its neighbors, survived it.
 
+Belgrano's founding-era significance runs deeper than its own borders, too *(established 2026-07-03, refined same day)*: it held the richest documentary record of the three earliest Tepenian settlements pointing toward the buried ruins of Byrd Station, and its early industrial/airbase capacity made it the settlement that actually began organizing an expedition. Word of it reached Palmer City and Rothera, who sent their own historical accounts, transport manifests, and maps by ship across the Weddell Sea to Belgrano to sharpen the expedition's heading before departure — a three-settlement effort, even though Belgrano alone built and crewed the vehicles. Belgrano's crews built Tepenia's first native, homemade tracked overland vehicles, colloquially "las Arrastradoras" — a name that, as the vehicle type spread across Tepenia over the generations, wore down into the shorter, cross-linguistically easier "Rastra," the name that stuck internationally even as "Arrastradoras" remained the term of record at home. An all-robot expedition crew drove the original Arrastradoras out from Belgrano into the unmapped interior — the city's first export was never a product. It was an expedition, built on materials the whole subnet's oldest settlements sent to help it succeed.
+
 ---
 
 ## 3. Climate Character
@@ -231,6 +233,7 @@ What remains of Belgrano's Arcanet presence is thin and almost entirely practica
 
 - Salvage expertise — Belgrano-trained scavengers and reclamation specialists are recognized, when they leave, for genuine skill at making function out of ruin
 - Historical archive material — the Byrd-founding maps being the most significant known example; Belgrano's ruins may still hold material of comparable value, undiscovered
+- *(Founding-era, before "export" meant goods):* The Byrd Expedition itself — the first native Tepenian overland vehicles (the original "Arrastradoras," ancestor of the now-international "Rastra"), and the all-robot crew who drove them, both departed from Belgrano, built partly on materials shipped in from Palmer City and Rothera. The city's very first export was a founding act for a different city entirely.
 - A specific *type of person* — blunt, disciplined, allergic to ceremony, entirely unsentimental about hardship; recognizable anywhere in Tepenia as someone who came from somewhere that demanded it
 - *(Peak-era, pre-decline export, not a current one):* Fine craft goods — Griselda Alejandra Chávez's whalebone-and-metal pianos, shipped by sea to Esperanza and onward to Palmer City, are the clearest known example of Belgrano's functional/industrial character producing something genuinely artisanal rather than purely utilitarian
 
@@ -275,7 +278,7 @@ Becoming a Belgrano resident means being absorbed into the shared maintenance an
 - **The founding (post-1979 Air Force base, post-Falkland Treaty exile settlement)** — establishment of Belgrano as the Halley subnet's primary aviation hub
 - **The Long Night War** — Belgrano survived the war intact, a fact locally remembered with a specific, complicated relief rather than simple gratitude
 - **The Decline** *(placeholder — exact cause/timeline TBD for DLC 5)* — the post-war period in which Belgrano deteriorated from a functioning city into its current ruined-but-inhabited state; the central unanswered historical question of Belgrano's identity
-- **The Byrd map recovery** — the discovery and transmission of Belgrano archive maps that enabled the Byrd subnet founding expedition
+- **The Byrd Expedition** *(established 2026-07-03)* — Belgrano's archives held the richest documentary record pointing to Byrd Station's location; Palmer City and Rothera shipped their own supporting records across the Weddell Sea once word of the expedition spread; Belgrano's industrial/airbase capacity built "las Arrastradoras" (ancestor of the now-international "Rastra"), Tepenia's first native overland vehicles, and an all-robot crew drove them out from the city on the founding crossing that discovered the buried underground city at Byrd
 
 ---
 

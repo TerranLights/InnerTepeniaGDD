@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational — ruins and surviving sections; DLC 6 content
 **Arcanet Subnet:** Janbogo
 **Highway access:** Near Hwy 183 — connected via spur road; not directly on the main highway. Hwy 183 runs along the mainland Ross Sea coast; Fort McMurdo sits on Ross Island across McMurdo Sound, accessed via a spur that crosses to the island. Exact crossing type (sea ice road / permanent causeway / ferry connection) TBD.
-**Significance:** Largest pre-war city in the Tepenian Federation; industrial and resource-extraction capital; the city that powered Tepenia's physical infrastructure
+**Significance:** Tepenia's largest city by industrial/physical footprint (matching real McMurdo Station's building count and infrastructure scale) — but capped well below its industrial-scale peers in raw population by Ross Island's limited land area (Census II rank ~24th of ~30 cities, explicitly marked "island cap" in `Official_Population_Census.md`); industrial and resource-extraction capital; the city that powered Tepenia's physical infrastructure *(corrected 2026-07-03 — this file previously claimed Fort McMurdo was also the largest city by population, which conflicts with the official census)*
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but partially operational
 
 ---
@@ -66,7 +66,7 @@ Scott Base — New Zealand's Antarctic station, now the Tepenian city of **Scott
 - **Erebus as environmental presence:** the volcano is not just scenery — ash fall events, volcanic tremors, gas plumes, and the perpetual summit glow at night create a dynamic environmental backdrop for the DLC 6 setting; the lava lake visible from the summit (accessible by Kharkovchanka to the flanks, by foot to the crater rim) is one of the most extraordinary locations in all of Tepenia
 - **The Dry Valleys crossing:** the sea ice road across McMurdo Sound — usable only in winter during the solid-freeze period — creates a seasonal access mechanic; the Dry Valleys are only reachable overland in winter; in summer, only by sea
 - **Polar night (~118 days):** the longest polar night of any major coastal city; industrial operations would have adapted around it; ruins exploration in DLC 6 during the polar night period offers a very different atmosphere from summer
-- **Scale of ruins:** as the largest pre-war city, Fort McMurdo's ruins would be enormous — multiple km² of damaged and collapsed structures; significant portions may still be partially standing; the scale itself is a design asset
+- **Scale of ruins:** as the city with Tepenia's largest industrial/physical footprint, Fort McMurdo's ruins would be enormous — multiple km² of damaged and collapsed structures; significant portions may still be partially standing; the scale itself is a design asset
 - **Hardcore Mode influences:**
   - The long polar night creates the most extended period of artificial-light dependence of any coastal city; power for lighting becomes a resource concern during the ~118-day darkness
   - Industrial ruins mean hazardous environments — structural instability, exposed machinery, chemical storage, fuel reserves; exploration in Hardcore Mode would carry environmental hazard risks beyond simple cold exposure
@@ -86,13 +86,13 @@ The "Fort" prefix was added deliberately — a reference to Fort MacMurray in Al
 
 ## Character & Culture
 
-Fort McMurdo was Tepenia's industrial backbone. Palmer City was where Tepenia celebrated itself; Fort McMurdo was where it worked. At peak, it was the largest city in the Federation by population and physical scale — a sprawling, functional, largely unbeautiful place that kept the lights on across the continent.
+Fort McMurdo was Tepenia's industrial backbone. Palmer City was where Tepenia celebrated itself; Fort McMurdo was where it worked. At peak, it was the largest city in the Federation by industrial and physical scale — a sprawling, functional, largely unbeautiful place that kept the lights on across the continent — even though Ross Island's limited land area capped how many people could actually live there; the city did far more work per resident than its modest population ranking would suggest.
 
 The culture was working-class, direct, and meritocratic in the way that physically demanding industries tend to produce: status earned by what you could do, not where you came from. Transient labor was a feature of the city from early on — mining and extraction operations attracted workers from across Tepenia on seasonal or contract rotations, and Fort McMurdo absorbed and processed enormous numbers of people moving through.
 
 Mount Erebus shaped the culture in ways that are hard to quantify but easy to understand: you cannot live in the shadow of an active volcano for generations without it becoming part of how you think about the world. Erebus was never threatening in a day-to-day sense — it was simply always there, always smoking, occasionally rumbling. Forts McMurdans (demonym TBD) developed a particular relationship with geological scale — an easy familiarity with forces larger than human or robot agency — that outsiders sometimes found unsettling and residents found clarifying.
 
-**Nationally known for:** Being the largest city. The industrial output that supplied materials to construction projects across Tepenia. Mount Erebus. The particular directness of its people.
+**Nationally known for:** Being the biggest built thing in Tepenia without being the most populous. The industrial output that supplied materials to construction projects across Tepenia. Mount Erebus. The particular directness of its people.
 
 ---
 

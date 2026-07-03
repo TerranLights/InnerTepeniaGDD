@@ -1,6 +1,8 @@
 # Regular Perks (Level-Up)
 
-One perk slot earned every **2 levels** — **32 total slots** across the base game (level cap: 64). DLCs may raise the cap and add perk slots.
+One perk slot earned every **2 levels** — **32 total slots** across the base game (level cap: 64). **DLCs raise the cap** *(established 2026-07-03)*: each of the 6 subnet DLCs adds +5 levels (2.5 perk slots' worth on its own — see note below), and the South Pole DLC (DLC 1, Kendra Heinrich) adds +6 levels (3 perk slots). Base game + all 7 DLCs = level cap 100 = **50 total perk slots** — a clean number against the ~160-perk target roster (see `Perks.md`/`Special_Unique_Perks.md`), landing exactly on a perk-cadence boundary rather than 1 level short.
+
+*Note on partial-DLC ownership:* since each subnet DLC adds an odd number of levels (+5), owning an odd count of subnet DLCs (1, 3, or 5 of the 6) leaves the level cap on an odd number — one level short of a full perk cycle at that specific point. Owning an even count of subnet DLCs (0, 2, 4, or 6), or the South Pole DLC alone or in any combination, always lands on an even cap. **Largely mitigated by release order** *(established 2026-07-03, see `DLC_Overview.md`)*: the South Pole DLC (DLC 1) is planned to release *last*, after all 6 subnet DLCs — so a player following release order has all 6 subnet DLCs (even, no parity issue) before Kendra's DLC ever becomes available. Only an issue for a player who deliberately skips subnet DLCs.
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 

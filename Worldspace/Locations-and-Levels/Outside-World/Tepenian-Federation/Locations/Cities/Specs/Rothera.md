@@ -79,6 +79,8 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 
 The paved runway — inherited from the BAS era — gave Rothera a practical distinction from other Peninsula cities. Aviation infrastructure in Tepenia is rare; Rothera had it from the beginning.
 
+**The Byrd Expedition contribution** *(established 2026-07-03):* When word reached Rothera that Belgrano was organizing an expedition inland to locate a "lost site" — the buried ruins of Byrd Station — Rothera shipped its own historical accounts, transport manifests, and maps across the Weddell Sea to help sharpen the expedition's heading. A minor but real founding-era link between Rothera and both Belgrano (DLC 5) and Byrd (DLC 2), alongside Palmer City's parallel contribution. See `Cities/Local_Cultures/Halley_Subnet/Belgrano.md` for the fuller account.
+
 ---
 
 ## Character & Culture

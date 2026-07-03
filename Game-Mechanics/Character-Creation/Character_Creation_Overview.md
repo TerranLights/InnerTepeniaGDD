@@ -55,7 +55,7 @@ Traits are major, double-edged choices that define your playstyle.
 
 ### 6. Perks & Progression
 - Perks are earned every 2 levels — 32 total perk opportunities across the base game.
-- **Level cap: 64** (base game). DLCs may raise the cap beyond 64.
+- **Level cap: 64** (base game). **DLCs raise the cap** *(established 2026-07-03)*: each of the 6 subnet DLCs adds **+5**, and the South Pole DLC (DLC 1, Kendra Heinrich) adds **+6** — owning the base game plus all 7 DLCs brings the cap to an even **100** (64 + 30 + 6), landing exactly on a perk-cadence boundary (50 total perk slots) rather than leaving a dangling half-cycle level. Mirrors Fallout: New Vegas's own pattern of DLCs raising the level cap.
 - Many perks have requirements that are much easier if you Tagged the relevant skill.
 - Hidden paths (Independent Lattice, etc.) are heavily gated by specific stat + skill + perk combinations.
 
