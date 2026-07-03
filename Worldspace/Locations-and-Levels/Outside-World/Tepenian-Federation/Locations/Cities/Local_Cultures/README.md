@@ -6,6 +6,13 @@ Each city's culture is not a blend of its origin nations. It is something new: s
 
 Files are organized by subnet. Cross-reference `Cities/Official_Population_Census.md` for each city's national origin composition (Primary / Significant / Notable tiers).
 
+**Methodology note (confirmed 2026-07-03):** these spec sheets document each city as
+it was while alive, populated, and active — present tense, living-culture framing —
+**regardless of the city's current (present-day, in-game era) status.** A destroyed
+city like Esperanza or Rothera still gets the full present-tense treatment here; its
+destruction is a separate, later fact that belongs in its `Specs/` file and in
+DLC-era ruin content, not in how its culture is written up in this directory.
+
 ---
 
 ## Subnets and Cities
@@ -15,14 +22,14 @@ Files are organized by subnet. Cross-reference `Cities/Official_Population_Censu
 
 | City | Status |
 |------|--------|
-| Esperanza | Surviving |
+| Esperanza | Destroyed *(Long Night War — corrected 2026-07-03, see Esperanza.md)* |
 | Marambio | Surviving |
 | Sejong | Surviving |
 | Juan Carlos I | Surviving |
 | Signy | Surviving |
 | Port Lockroy | Destroyed *(Long Night War)* |
 | Palmer City | Surviving |
-| Rothera | Surviving |
+| Rothera | Destroyed *(Long Night War — corrected 2026-07-03, see Rothera.md)* |
 
 ---
 
@@ -87,7 +94,7 @@ Files are organized by subnet. Cross-reference `Cities/Official_Population_Censu
 | City | Status |
 |------|--------|
 | Mirny | Surviving |
-| Casey | Surviving |
+| Casey | Destroyed *(Long Night War — corrected 2026-07-03, see Casey.md)* |
 | Davis | Surviving |
 | Zhongshan | Surviving |
 | Vostok | Surviving |

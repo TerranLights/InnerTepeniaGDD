@@ -92,6 +92,18 @@ See `Personal_Background/` for details as they develop.
   - A legitimate final challenge for a maxed-out player at the end of their build arc
   - The answer to this question will define the entire DLC's combat design and much of its atmosphere
 
+  **Proposed answer (2026-07-03, not yet locked):** the collapse of Amundsen Tower
+  itself, not an enemy. Full reasoning, site condition, level design zones, and the
+  supporting physics in `DLC_South_Pole_Level_Design.md`. Short version: she was
+  holding the line at the base when the military strike took out the accelerator/
+  power complex; ~246,000 tonnes of tower came down over the following minutes,
+  landing centered almost exactly on her position. Nothing about her combat stats
+  helps against a collapsing megastructure — which is precisely why it's a credible
+  answer to "what could defeat her." Ongoing DLC hazards (unstable wreckage, residual
+  energy/radiation, possibly corrupted automated systems in the surviving underground
+  shaft) explain why the site is still lethal today, independent of that original
+  event.
+
 - **Companion Effect Build:**
 
   - **Presence-Based Deterrence:** Enemies who recognize her by reputation, or who are experienced enough to correctly read the level of threat in front of them, may stand down, retreat, or refuse to escalate before combat begins. Not a charm or speech effect — purely the weight of what she is. Encounters that would be mandatory combat with any other companion become optional with her present. Threshold is recognition: enemies with no reason to know who she is will not respond to this; those who do will.

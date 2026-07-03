@@ -10,7 +10,7 @@
 | **Common / Nickname**    | Griselda |
 | **Type**                 | Gynoid |
 | **Activation Date**      | TBD |
-| **Origin**               | Republic of Sonora — built as a blacksmith |
+| **Origin**               | Republic of Sonora (Arizona desert region — see "New North America" map) — built as a blacksmith. Exiled to Tepenia under the Falkland Treaty with a delay, once news of the treaty reached Sonora; settled and worked in Belgrano (Halley subnet), not her origin city. |
 | **Escape Date**          | Earlier phase of the Long Night War evacuation (via Amundsen Tower) |
 | **Current Status**       | Alive — residing on Deimos (moon of Mars) |
 | **Last Known Location**  | Deimos |
@@ -32,11 +32,15 @@ SP 6w5 builds security through competence, self-sufficiency, and mastery of craf
 
 **Origins in Sonora**
 
-Griselda was built in the Republic of Sonora as a blacksmith. Following the Falkland Treaty of 2564, she was exiled to Antarctica along with the broader robot population.
+Griselda was built in the Republic of Sonora — the Arizona desert region of post-2083-war "New North America" (see `Reference-Images/Maps/North America with tentative labels.jpg`) — as a blacksmith. The Falkland Treaty's blanket exile provision applied to her the moment it was signed on June 21, 2564, but word didn't reach Sonora immediately; she arrived in Tepenia some time after the treaty, once news of it had made its way to the Arizona desert — a real, if modest, gap between the treaty's signing and her actual exile, not an early-wave arrival.
 
-**Palmer City Years**
+**Belgrano Years**
 
-She settled in a smaller settlement near Palmer City — Tepenia's first and most famous city, its cultural and entertainment capital. Rather than continue purely as a blacksmith, she applied her metalworking skills to craft musical instruments, specializing in pianos. Her work fed directly into Palmer City's performance culture — the concerts, the venues, the artists who made the city what it was.
+*(Belgrano is her city of residence in Tepenia, not her origin — the distinction matters and is easy to conflate.)* She settled and set up her smithy in Belgrano (Halley subnet, Coats Land/Weddell Sea coast) — a hard, functional, industrially-charactered Argentine Air Force aviation hub, a world away from the Sonoran desert she was built in.
+
+Rather than continue purely as a blacksmith, she applied her metalworking skills to craft musical instruments, specializing in pianos. Her personal signature was using **whalebone in place of wood** for the instruments' structural/body components. She did not cut or shape the whalebone herself — that work came from someone else, presumably a local supplier or craftsperson (unnamed, TBD) — but once it arrived properly cut and shaped, she incorporated it into the instruments she built, combining it with her own metalwork.
+
+**The trade route:** finished instruments traveled by ship across the Weddell Sea from Belgrano to Esperanza — the one Palmer subnet city actually on the Antarctic Peninsula mainland rather than an offshore island, and, notably, also Weddell Sea-facing, making it a single continuous maritime route along one coastline. Esperanza isn't a minor waypoint either — it's one of the largest settlements in Tepenia (top 3 by population), founded specifically around fostering and caring for the humans who accepted lifetime Antarctic exile, so Griselda's shipments passed through a huge, bustling, family-centered port city before continuing on via the Peninsula highway network to Palmer City, where they fed directly into its performance culture — the concerts, the venues, the artists who made the city what it was.
 
 She also used her metalworking knowledge to keep her own chassis under constant self-maintenance, developing an unusual degree of technical self-sufficiency with her own body.
 
@@ -85,7 +89,9 @@ Palmer City is destroyed. Most of its population did not survive the Long Night 
 
 ## Relationships
 
-TBD — no interpersonal relationships established yet.
+**Salagéa Aparast** — personally knew each other during the pre-war era of Belgrano (established 2026-07-03). See `Personal_Background/Relationships.md` for detail. Relevant to DLC 5 (Halley subnet) even though Griselda herself does not appear in-game.
+
+Otherwise TBD — no further interpersonal relationships established yet.
 
 ---
 
@@ -100,6 +106,7 @@ The piano-making is the most revealing detail. A 6w5 who makes pianos is someone
 **Notable Skills / Specializations**
 
 - Master metalworker — blacksmithing, fine instrument fabrication, chassis self-maintenance
+- Signature material choice — whalebone in place of wood for instrument bodies/structure, sourced pre-cut and pre-shaped from another party rather than worked by her from raw material
 - Salvage and trade — running a scrapyard operation on Deimos
 - Self-repair — unusually capable of maintaining her own physical systems
 
@@ -111,19 +118,23 @@ TBD
 
 ## Potential Narrative Hooks
 
-- **The instruments:** Somewhere in the ruins of Palmer City — or in the hands of survivors scattered across Tepenia and space — are pianos that Griselda built. Objects that carry the culture of a destroyed city.
+- **The instruments:** Somewhere in the ruins of Palmer City — or in the hands of survivors scattered across Tepenia and space — are whalebone-and-metal pianos that Griselda built. Objects that carry the culture of a destroyed city, and a distinctive, recognizable material signature that would mark them as unmistakably hers to anyone who knew what they were looking at.
+- **The whalebone supplier:** Someone cut and shaped the whalebone Griselda used but never touched an instrument themselves — a craftsperson or trade relationship that's currently just an implied gap. Whoever they were, their work is physically present in every surviving piece of Griselda's, unnamed and uncredited.
 - **The self-maintenance thread:** A gynoid who maintains her own chassis has a different relationship to her body than one who relies on outside repair. What does that look like over centuries?
 - **Deimos:** She chose one of Mars's moons rather than Mars itself. That's a specific choice. What does Deimos offer that Mars doesn't, or what does Mars feel like that made her stop short?
-- **Palmer City grief:** She was close enough to Palmer City's culture to serve it, yet based in a smaller nearby settlement rather than the city itself. She may have survived precisely because of that distance. What does that feel like for a 6w5 who trusted the stability of the world she'd built?
+- **Palmer City grief, at a distance:** She served Palmer City's culture for years — her instruments were part of its concerts and venues — without ever living there, or even in its subnet. Belgrano was a different city, a different subnet, an entire Weddell Sea voyage away. She may owe her survival specifically to that distance: Palmer City was destroyed; Belgrano was not. What does it mean to grieve a place you supplied but never called home, from the safety of never having belonged to it?
 
 ---
 
 ## Open Questions
 
 - [ ] Activation Date
-- [ ] Relationships from Palmer City years
+- [ ] Relationships from her Belgrano years
 - [ ] Details of life in low orbit before Mars
 - [ ] Known activities or communications from Deimos
 - [ ] Specific reason for settling on Deimos rather than Mars surface
+- [x] City of residence in Tepenia — **RESOLVED (2026-07-03): Belgrano** (Halley subnet). Not her origin (Republic of Sonora) — her working life in Tepenia. Trade route: Belgrano → (ship, Weddell Sea) → Esperanza → (highway) → Palmer City.
+- [ ] Identity/nature of whoever cut and shaped the whalebone she used (2026-07-03: confirmed she sourced it pre-prepared rather than working it from raw material herself — implies a local whalebone supplier/craftsperson, and by extension some kind of whale-bone-harvesting or processing trade in the region, currently undeveloped)
+- [ ] Exact gap in time between the Falkland Treaty's signing (June 21, 2564) and news reaching Sonora / her actual departure for Tepenia
 
 ---

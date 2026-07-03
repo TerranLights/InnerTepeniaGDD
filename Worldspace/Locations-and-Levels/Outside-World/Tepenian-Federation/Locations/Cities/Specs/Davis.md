@@ -2,10 +2,10 @@
 
 **Based on:** Davis Station (Australia / Australian Antarctic Division), Vestfold Hills, Prydz Bay (~68°35'S, 77°58'E)
 **Status:** Survived; operational
-**Arcanet Subnet:** Mawson
-**Highway access:** TBD — Vestfold Hills position; easternmost city in the Mawson subnet highway network; connection to the Larsemann Hills cluster (Soyuz, Zhongshan, former-Bharati location) to the west
-**Significance:** Australian Tepenian city; the second Australian city in the Mawson subnet alongside Mawson itself; Australian Antarctic Division heritage; named after John King Davis (1884–1967) — the Australian mariner who captained multiple Antarctic relief and research expeditions, including Sir Douglas Mawson's own expeditions; located in the Vestfold Hills, one of the largest ice-free coastal areas in Antarctica; easternmost city in the Mawson subnet; Prydz Bay maritime access
-**DLC:** Mawson subnet — DLC 4 (Mawson Region); survived and operational
+**Arcanet Subnet:** Mirny *(corrected 2026-07-03 — this file previously said "Mawson," conflicting with both `Official_Population_Census.md` and `Local_Cultures/README.md`, which agree on Mirny. The Larsemann Hills cluster connection noted below, which includes Zhongshan — a confirmed Mirny subnet city — actually supports the Mirny correction.)*
+**Highway access:** TBD — Vestfold Hills position; connection to the Larsemann Hills cluster (Soyuz, Zhongshan, former-Bharati location) to the west, both within the Mirny subnet
+**Significance:** Australian Tepenian city; shares Australian founding-wave heritage with Mirny subnet neighbors Casey and Mirny itself (not paired with Mawson-the-city, which is in a different subnet); Australian Antarctic Division heritage; named after John King Davis (1884–1967) — the Australian mariner who captained multiple Antarctic relief and research expeditions, including Sir Douglas Mawson's own expeditions; located in the Vestfold Hills, one of the largest ice-free coastal areas in Antarctica; Prydz Bay maritime access
+**DLC:** Mirny subnet; which DLC covers the Mirny subnet is TBD (see `Specs/Mirny.md`)
 
 ---
 
@@ -13,7 +13,7 @@
 
 Davis sits in the Vestfold Hills — one of the largest ice-free coastal oasis areas in Antarctica, approximately 400km² of exposed rock, lakes, and fjord-like inlets on the Ingrid Christensen Coast, Prydz Bay. The Vestfold Hills are significantly larger than the Schirmacher Oasis (Halley subnet) or the Larsemann Hills (Prydz Bay cluster) — a substantial ice-free zone with diverse terrain including freshwater and saltwater lakes, and the remarkable Prydz Bay fjord access.
 
-The Australian Antarctic Division has operated Davis Station since 1957 (same year as Syowa's real-world opening) — one of the three Australian Antarctic stations alongside Mawson and Casey. In the Mawson subnet, Davis is the easternmost city and the counterpart to the western-end hub at Mawson Station.
+The Australian Antarctic Division has operated Davis Station since 1957 (same year as Syowa's real-world opening) — one of the three Australian Antarctic stations alongside Mawson and Casey. Davis sits within the Mirny subnet, alongside fellow Australian-founding-wave city Casey and the subnet hub Mirny itself — geographically and administratively separate from Mawson Station, which anchors its own, different subnet.
 
 Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sense, but a ship's captain whose seamanship enabled the expeditions of others. He captained the SY Aurora on Mawson's expeditions; he completed the relief voyage to rescue Mawson's stranded party. A navigator and enabler, not a flag-planter — a different kind of Antarctic heritage.
 
@@ -50,15 +50,15 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 #### Gameplay Notes
 - **The large oasis:** the Vestfold Hills' 400km² ice-free area is the largest oasis environment in Tepenia; the city has more varied terrain than most — the visual environment shifts between rocky ground, lake ice, fjord-like inlets, and the surrounding ice sheet
-- **Easternmost Mawson subnet city:** the end of the eastern line in DLC 4 geography
+- **A Mirny subnet city with distinctive terrain:** Davis stands apart from Casey's junction-city character and Mirny's threshold/wind-defined identity through the sheer environmental variety of the Vestfold Hills
 
 ---
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Davis Station infrastructure. The Australian Antarctic Division has operated here since 1957, giving Davis one of the longest occupations of any Mawson subnet city. The exile community inherited not just the physical infrastructure but the accumulated environmental knowledge of decades of Australian research in the Vestfold Hills.
+**Settled:** Post-Falkland Treaty, on Davis Station infrastructure. The Australian Antarctic Division has operated here since 1957, giving Davis one of the longest occupations of any Mirny subnet city. The exile community inherited not just the physical infrastructure but the accumulated environmental knowledge of decades of Australian research in the Vestfold Hills.
 
-**Founding population:** Australian exiles. The Australian community in the Mawson subnet spans both Mawson (the western hub) and Davis (the eastern end). The two Australian cities anchor the subnet's geographic spread.
+**Founding population:** Australian exiles. The Australian community in the Mirny subnet spans Casey, Mirny itself (a Significant-tier presence), and Davis — three cities carrying Australian founding-wave heritage across the subnet.
 
 Named after John King Davis — the ship's captain who enabled others' greatness. Not a Saint in the Tepenian framework (the Saints are pre-2083 explorers rather than mariners who served in supporting roles), but a figure whose name carries specific weight in Australian Antarctic culture.
 
@@ -68,14 +68,14 @@ Named after John King Davis — the ship's captain who enabled others' greatness
 
 Davis had the character of a city that benefited from exceptional terrain. The Vestfold Hills offered more environmental variety than almost any other Tepenian city: lakes of different types, rocky outcrops, fjord access, the full ice-free oasis environment. The city's layout could take advantage of terrain that other cities didn't have.
 
-The Australian Antarctic Division culture — practical, research-focused, with the particular Australian cultural relationship to wide open spaces and extreme environments — shaped Davis from the beginning. The second Australian city in the subnet rather than the first, Davis had less of the hub's administrative weight and more of the oasis city's particular character.
+The Australian Antarctic Division culture — practical, research-focused, with the particular Australian cultural relationship to wide open spaces and extreme environments — shaped Davis from the beginning. Not the subnet hub (that's Mirny itself), Davis had less administrative weight and more of the oasis city's particular character.
 
-**Nationally known for:** Being Australian. The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. Being the easternmost Mawson subnet city. The John King Davis name — the enabler rather than the explorer.
+**Nationally known for:** Being Australian. The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. The John King Davis name — the enabler rather than the explorer.
 
 ---
 
 ## Economy & Industry
-Vestfold Hills oasis resources (lakes, fjord access, terrain diversity), Prydz Bay maritime trade, eastern-end logistics for the Mawson subnet. Full detail TBD for DLC 4.
+Vestfold Hills oasis resources (lakes, fjord access, terrain diversity), Prydz Bay maritime trade, logistics within the Mirny subnet. Full detail TBD.
 
 ---
 
@@ -83,7 +83,7 @@ Vestfold Hills oasis resources (lakes, fjord access, terrain diversity), Prydz B
 - **The Vestfold Hills fjord inlets** — the most distinctive terrain feature; fjord-like inlets of Prydz Bay cutting into the ice-free hills
 - **The lake system** — freshwater and saltwater lakes within the city's territory; biologically active, ice-covered in winter, partially open in summer
 - **Prydz Bay harbor** — the primary maritime entry, with direct access to the eastern Prydz Bay
-- Additional locations: TBD for DLC 4
+- Additional locations: TBD
 
 ---
 
@@ -93,7 +93,7 @@ Vestfold Hills oasis resources (lakes, fjord access, terrain diversity), Prydz B
 ---
 
 ## Connection to Concordia
-Mawson subnet. Davis and Mawson together represent the Australian exile community in the Mawson subnet; any Concordia knowledge of the Mawson subnet's Australian community traces through both cities.
+Mirny subnet. Davis represents part of the Australian exile presence within the Mirny subnet, alongside Casey and Mirny itself; any Concordia knowledge of this community traces through all three cities.
 
 ---
 
@@ -105,6 +105,7 @@ Davis's legacy is the terrain it was built in — the Vestfold Hills gave it pos
 ## Open Questions
 - **The lake ecosystem** — the Vestfold Hills lakes include unusual hypersaline lakes and landlocked marine basins; did the exile community develop scientific or economic uses for these unique water bodies?
 - **The fjord inlets** — how did the fjord-like inlets factor into city layout and maritime access?
-- **Mawson and Davis relationship** — the two Australian cities in the Mawson subnet; what was their pre-war relationship, and what does the post-Split Brain Australian community in the subnet look like?
+- **Davis, Casey, and Mirny relationship** — three cities carrying Australian founding-wave heritage within the same subnet (Davis and Casey as founding-wave cities, Mirny with a Significant-tier Australian community); what did that shared heritage look like pre-war, and does any distinct Mirny-subnet Australian community identity survive post-Split Brain?
+- **Relationship to Mawson (the city, different subnet)** — both named for/connected to Australian Antarctic figures, but administratively and geographically separate; worth clarifying whether any cultural connection existed despite the subnet divide
 - **Demonym** — TBD; "Davisians"? something Australian?
 - **Notable figures** — TBD

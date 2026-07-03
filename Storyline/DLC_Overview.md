@@ -99,6 +99,8 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - Belgrano Highway Extension built 2611–2614 — the only confirmed highway construction event with in-world dates; represents Tepenia actively expanding its infrastructure during peacetime
 - Neumayer — off the main Hwy 7 route; served by a small unnamed connector road; slightly less accessible than other Atlantic coast cities
 - Maitri — eastern terminus of Hwy 7 proper; will be renamed (new name TBD)
+- Belgrano cultural spec sheet complete (`Cities/Local_Cultures/Halley_Subnet/Belgrano.md`) — survived the Long Night War intact, declined into ruin afterward, still inhabited; discipline-without-institution civic character
+- Salagéa Aparast personally knew Griselda Alejandra Chávez (off-world, Deimos; does not appear in-game) during Belgrano's pre-war era — a potential quest hook or narrative reference; see both characters' files
 
 ---
 

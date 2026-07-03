@@ -107,7 +107,7 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **What it connected:** Tepenia to low-earth orbit. Not to non-Antarctic Earth (Upper Earth) — to space itself.
 
-**Who built it:** The Tepenian Federation — both robot and human citizens, though predominantly robot labor due to the extreme altitude and conditions at the South Pole. Construction spanned roughly the first half of Tepenia's existence as a country (approximately 65–75 years, beginning shortly after the Falkland Treaty and completing sometime around 2630–2640, pending exact dates). It was a source of immense national pride — a civilizational achievement built largely by the people who had been exiled there.
+**Who built it:** The Tepenian Federation — both robot and human citizens, though predominantly robot labor due to the extreme altitude and conditions at the South Pole. The Tower's completion date (approximately 65–75 years after the Falkland Treaty, sometime around 2630–2640) does not mean 65–75 years were spent physically building the Tower itself. **Phased national infrastructure sequence (established 2026-07-03):** the Falkland-Treaty-to-Tower-completion window covers, in order, (1) founding and building out the Federation's cities, (2) subnet-internal highway networks connecting city clusters, (3) the Arcanet gradually extended and connected subnet by subnet, and (4) construction of Hwy 22 (the Transcontinental Highway) — the cross-continent spine from Byrd, **directly through the South Pole/Amundsen Station itself**, on to the Zhongshan coast (confirmed against `Reference-Images/Maps/Antarctica_highway_map_by_topology.jpeg`; Hwy 175, the Central Cut Throughway, also meets Hwy 22 at that same South Pole point, linking onward to the Janbogo subnet region). **Only once Hwy 22 reached the South Pole did Amundsen Tower construction proper begin**, plausibly starting somewhere in the last 12–17 years of the 65–75 year window. This is consistent with the material-logistics finding in `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`: shipping the ~3.225 million tonnes of construction material in, and the actual on-site assembly, only required roughly 5–10 years once the shipping/highway network was in place — the preceding decades of nation-building, not Tower construction itself, account for most of the 65–75 year span. It was a source of immense national pride — a civilizational achievement built largely by the people who had been exiled there, capping off a generation of prior infrastructure work that made it possible.
 
 **Destruction:** Upper Earth's militaries destroyed Amundsen Tower during the Long Night War. This was not incidental military damage — it was the deliberate destruction of Tepenia's greatest national achievement and its only connection to space, built mostly by robot labor over generations.
 
@@ -118,7 +118,8 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 **The evacuees:** People who left Tepenia via the Tower before its destruction are referenced by name in Concordia — scattered across journals, terminal entries, audio logs. Specific individuals, which Concordia residents knew them, and how those relationships worked are TBD.
 
 **What is TBD:**
-- Exact construction start and completion dates
+- Exact construction start date for the Tower itself (phased sequence established above, but precise year Tower construction began — likely ~12–17 years before the 2630–2640 completion — is not yet pinned down)
+- Exact dates for each earlier phase (cities, subnet highways, Arcanet connection, Hwy 22)
 - The specific weapon(s) used to destroy it
 - The current status of the evacuees and their descendants in low-earth orbit / beyond
 - Whether any contact with the evacuees has been achieved or is achievable
@@ -307,3 +308,17 @@ A faction that preserves hope of eventual reunion with the off-world evacuees an
 **The dramatic irony of their situation:** They are trying to contact a civilization that has moved significantly beyond what they left. The evacuees are alive, prospering, and building toward Mars and Venus. Whether The Vigil knows this, suspects it, or believes the evacuees are struggling is a significant character question.
 
 **Design status:** Tentative. The developer has not decided whether to keep this faction, redesign it, or replace it entirely. All content associated with The Vigil should be treated as provisional until that decision is made.
+
+---
+
+## Leyline
+
+**Status:** Confirmed name and role — mechanism TBD
+
+**What it is:** The nationally used social media network/service across the Tepenian Federation during its Antarctic era, prior to the Long Night War and the Planetary Split Brain.
+
+**What is TBD:**
+- How it actually worked mechanically (platform structure, what running on the Arcanet's subnet architecture meant for it, whether it was unified nationally or fractured per-subnet even before the Split Brain)
+- Whether/how the Planetary Split Brain (each subnet now holding isolated, sometimes conflicting records) affected Leyline specifically, as distinct from the Arcanet's data/archival function generally
+- Cultural role and content — what people actually used it for, tone, moderation, any surviving records or terminal entries referencing it
+- Current status: whether any form of Leyline still functions post-war, or if it's a defunct pre-war institution referenced only in archives/nostalgia

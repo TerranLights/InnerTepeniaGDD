@@ -62,6 +62,8 @@ During the Long Night War, she chose not to flee into space through Amundsen Tow
 
 **Note:** Placement is unresolved — see Design Notes and top-level TODO.md. Concordia is far inland; her boat is not accessible from there, making the Cancer/Concordia framing contingent on whether she is a settled main game character or an active DLC character.
 
+**Belgrano cultural context (2026-07-03):** Full cultural spec sheet for her home city at `Cities/Local_Cultures/Halley_Subnet/Belgrano.md`. Belgrano survived the Long Night War intact and declined into ruin afterward — still inhabited, not destroyed — and its culture is built around discipline-without-institution: residents (and Salagéa herself) carrying forward the founding Air Force base's functional, purposeful ethos decades after the institution itself stopped existing. Her archival courier work reads as a direct expression of that city identity, even though she now lives apart from the ruins themselves.
+
 See `Personal_Background/` for details as they develop.
 
 ## Role in Main Story / World
@@ -76,7 +78,7 @@ See `Personal_Background/` for details as they develop.
 - Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD
 
 ## Relationships & Hooks
-- Key connections: TBD
+- Key connections: **Griselda Alejandra Chávez** — personally knew each other during Belgrano's pre-war era (2026-07-03); potential quest hook or narrative reference for DLC 5, even though Griselda is off-world (Deimos) and never appears in-game directly. Otherwise TBD.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
@@ -87,6 +89,7 @@ See `Personal_Background/` for details as they develop.
 - **If main game:** The "Cancer community moral authority" framing holds — she has a room or arrangement in Cancer when she's in Concordia, it's her landing point, but the boat is her past. The No-One-Left-Behind Registry is where she channels that energy now.
 - **If DLC 5:** The Cancer/Registry content needs to be detached from her and reassigned, or restructured to reflect the coastal setting.
 - **Connection to Vosora:** Both Salagéa and Vosora are working to preserve and transmit knowledge to the space-dwelling Tepenian population. Potential relationship or shared history worth developing regardless of placement.
+- **Connection to Griselda Alejandra Chávez (2026-07-03):** Personally knew each other during Belgrano's pre-war era — Griselda a longtime resident/instrument-maker, Salagéa a Belgrano native. Griselda left via an early Amundsen Tower evacuation before the Long Night War and now lives on Deimos; she does not appear in-game, but the relationship is a real DLC 5 narrative asset (a personal thread to an off-world character, surfaced through dialogue/lore rather than a physical appearance).
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:

@@ -79,6 +79,8 @@ The name was a living fact as much as a label. In a federation founded on expuls
 ## Economy & Industry
 TBD — eastern Peninsula resources, maritime trade, the internal Peninsula economy. Full detail TBD for DLC 3.
 
+**Confirmed trade detail (2026-07-03):** Esperanza's Weddell Sea-facing position and mainland (non-island) status made it a natural maritime trans-shipment point for goods moving between the Halley subnet and the Palmer subnet — e.g. Belgrano-crafted goods shipped across the Weddell Sea to Esperanza, then onward via the Peninsula highway network to Palmer City. See `Cities/Local_Cultures/Halley_Subnet/Belgrano.md` and Griselda Alejandra Chávez's character file for a specific documented example (whalebone-and-metal pianos).
+
 ---
 
 ## Notable Locations
@@ -89,7 +91,7 @@ TBD — eastern Peninsula resources, maritime trade, the internal Peninsula econ
 ---
 
 ## Notable Figures
-- TBD
+- **Griselda Alejandra Chávez** — Robot; not an Esperanza resident, but her whalebone-and-metal pianos, crafted in Belgrano, passed through Esperanza's harbor on their way to Palmer City's performance scene — a documented example of the city's role as an inter-subnet maritime trans-shipment point
 
 ---
 
