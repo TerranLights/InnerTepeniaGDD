@@ -142,6 +142,82 @@ See `Personal_Background/` for timeline and detailed records.
 
 - **Mechanical synergies:** High Calculation and Investigation companion; likely provides bonuses to data-related checks, hacking, information gathering. Specific perks TBD.
 - **Replayability:** The four questline endings produce substantially different political landscapes; "The Wrong Answer" in particular may lock or unlock specific other questlines depending on what she found.
+
+### Dual-Outcome Companion Perk — Four-Branch Structure *(established 2026-07-03, subject to review at actual design & development)*
+
+Per `Game-Mechanics/Perks/Perk_Framework.md`'s universal dual-outcome companion
+perk system, Vosora's existing four questline endings map directly onto a
+**four-branch structure** — confirmed by the developer as the first companion
+in the game to use more than three branches, since her pre-existing "What the
+Silence Says" design already supported all four cleanly (permitted per the
+branch-count policy: 2 floor, 3 goal, 4 permitted when genuinely justified, 5
+hard cap). **All names, exact mechanics, and psychological framings below are
+placeholders, explicitly marked for revision once real design work begins.**
+**Corrected 2026-07-03 per the "No Good Endings" principle** — every branch
+below now carries an explicit negative trade-off; the original draft of
+"Publication" read as a clean, healthiest-outcome win and has been fixed.
+
+**A. Publication** — she goes public despite the personal risk.
+- *Psychology:* matches her own established Type 8 integration direction
+  ("decisive, assertive, willing to act") — but going public also permanently
+  exposes her. Whoever was pressuring her now has every reason to retaliate
+  rather than back off, and a Withdrawn-type 5 who processes threats
+  internally and works from the shadows is forced into permanent public
+  visibility — a real cost to who she fundamentally is, not just a risk.
+  The political earthquake also destabilizes Libra's Suspended Compact in
+  ways that hurt people who depended on that fragile arrangement, flawed as
+  it was.
+- *Candidate companion perk:* **"No More Gaps"**
+- *Candidate player perk:* broad reputation/access, rippling into Libra and
+  Janbogo's power structure — paired with the same exposure risk Vosora now
+  carries; the player is publicly tied to her as the one who broke the story.
+
+**B. Leverage** — she holds the records privately, uses them as leverage.
+- *Psychology:* fits her established pragmatism — but holding leverage over
+  corrupt power means staying entangled with that power indefinitely, and
+  compromises her own established "follows the truth regardless of where it
+  leads" identity. She becomes someone who trades in secrets rather than
+  someone who exposes wrongdoing, and there's a standing risk the leverage
+  itself gets discovered or stolen and turned back on her.
+- *Candidate companion perk:* **"The Long Ledger"**
+- *Candidate player perk:* leverage/negotiation-flavored — discounts, unique
+  dialogue, faction-standing manipulation — paired with the same ongoing
+  vulnerability: the player now also holds dangerous, undisclosed information
+  that someone else very much wants back.
+
+**C. The Shape of the Gap** — full recovery is impossible, so she publishes
+the precise shape of what's missing instead.
+- *Psychology:* plays directly to her specific expertise — pattern-reading,
+  absence-as-information. But the actual content is gone permanently: people
+  who needed specific answers (what happened to a specific person, a specific
+  record) never get them, only an abstract shape. Without a smoking gun,
+  powerful figures implicated by the pattern can more easily dismiss it as
+  speculation and evade full accountability.
+- *Candidate companion perk:* **"Reading the Gap"**
+- *Candidate player perk:* investigation/deduction-flavored — unique dialogue
+  or check options for inferring things from incomplete information — paired
+  with the same limitation: the player's own claims about what happened carry
+  less hard evidentiary weight than the other branches would provide.
+
+**D. The Wrong Answer** — what she recovers is worse than the theory. Treated
+as a genuine fourth branch (not a modifier on the other three) per developer
+direction — the resolution here isn't about disposing of the information
+publicly, privately, or structurally; it's about the player and Vosora simply
+choosing to know and carry an uglier truth together, privately, without any of
+the other three actions.
+- *Psychology:* the costliest branch regardless of outcome — ties to her own
+  established "she also feels the weight of having dangerous knowledge. That
+  weight is personal even when she doesn't show it." The gain is genuine
+  intimacy and trust, forged specifically through shared, private difficulty;
+  the cost is that nothing external gets resolved at all — no publication, no
+  leverage, no documented pattern, just two people carrying something ugly
+  that the rest of the world never learns and that can never be used to fix
+  anything.
+- *Candidate companion perk:* **"What She Carries Now"**
+- *Candidate player perk:* a shared-burden/trust-flavored perk — possibly
+  resistance to fear or despair-type effects, or unique dialogue tied to
+  having faced an uncomfortable truth alongside her — paired with forfeiting
+  every mechanical benefit the other three branches would have granted.
 - **Romance threshold (TBD):** Given her 5w6 Social profile, Calculation and Investigation are the most probable primary gates — she would be drawn to someone who approaches the world with the same "understand it first" methodology. Specific thresholds to be confirmed during Phase 3 personality finalization.
 - TODOs:
   - [x] Backstory summary
@@ -152,4 +228,4 @@ See `Personal_Background/` for timeline and detailed records.
   - [ ] MACHINE stat baseline (exact numbers)
   - [ ] Romance stat/trait thresholds
   - [ ] Recruiting conditions
-  - [ ] Companion perks
+  - [x] Companion perks — four-branch structure drafted 2026-07-03 (see Design Notes above), exact naming/mechanics still pending real design work

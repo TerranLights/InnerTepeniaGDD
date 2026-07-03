@@ -74,7 +74,7 @@ What exactly a robot experiences when smoking varies by individual and is delibe
 
 Robots in Concordia are bisexual by default. They do not organize attraction by the gender of their partner. This applies universally across all robot characters — companions and NPCs alike.
 
-This is distinct from human characters in the world, who are heterosexual. The difference is not framed as a judgment in either direction — it is simply a feature of how robots experience and express attraction, consistent with their different relationship to embodiment, identity, and social organization.
+Human characters follow a related but not identical pattern *(updated 2026-07-03)*: human women are bisexual, same as robots, while human men remain heterosexual — fixed-gender attraction. The difference between robots and human men specifically is not framed as a judgment in either direction — it is simply a feature of how robots experience and express attraction, consistent with their different relationship to embodiment, identity, and social organization. See `Game-Mechanics/Core-Mechanics/Companion_System.md` for the mechanical consequence (an additional gender gate on romanceable human male companions).
 
 ---
 

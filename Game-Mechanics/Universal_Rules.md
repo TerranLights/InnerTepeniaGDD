@@ -49,8 +49,8 @@ Home access is granted when the romance is established and revoked if the romanc
 **No Indians or South Asians ever came to Tepenia.**
 No characters from India, Pakistan, Bangladesh, Sri Lanka, or any other South Asian nation are part of Tepenian history or population. Station locations with South Asian names (Maitri, Bharati) have non-Indian founding populations — TBD. This is hard canon, not a gap.
 
-**All robot characters are bisexual. All human characters are heterosexual.**
-Applies universally to companions, romanceable NPCs, and the sexually-available character pool. No exceptions are established.
+**All robot characters are bisexual. Human female characters are bisexual; human male characters are heterosexual.** *(Updated 2026-07-03 — previously "all human characters are heterosexual"; refined so human women follow the same bisexual default as robots, while human men remain the sole heterosexual-only category.)*
+Applies universally to companions, romanceable NPCs, and the sexually-available character pool. No exceptions are established. **Mechanical consequence:** romanceable human male companions gate on an additional gender check (the player must be presenting as the gender he's attracted to) on top of the standard MACHINE stat check — see `Companion_System.md`. Robot companions and human female companions gate on the MACHINE check alone, same as before.
 
 ---
 

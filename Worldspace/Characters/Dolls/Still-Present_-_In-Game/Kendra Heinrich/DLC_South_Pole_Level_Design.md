@@ -208,46 +208,63 @@ perk system (the Cass/Hand-of-Vengeance-vs-Calm-Heart model, extended so the
 companion's branch also determines a paired player perk), Kendra's Arcanet
 archive/hardware decision (angle 4 above) is the current working example of a
 **three-way branch** — evaluated and judged competent, per the "try for three,
-don't force it" guidance in `Perk_Framework.md`:
+don't force it" guidance in `Perk_Framework.md`. **Corrected 2026-07-03 per the
+"No Good Endings" principle** — every branch below now carries an explicit
+negative trade-off; the original draft of "Restore & Broadcast" read as a
+clean win and has been fixed.
 
 **A. Restore & Broadcast** — fully restore the archive and transmit the true
 pre-split history to all six subnets, resolving the Planetary Split Brain.
-- *Kendra's psychology:* closure and vindication. Her sacrifice at the Tower
-  becomes verifiably known everywhere, not just felt as loss — for an 8w7
-  who's spent the whole DLC stripped of control, this is the one path where
-  she gets something back.
+- *Kendra's psychology:* closure and vindication on the broad strokes — her
+  stand at the Tower becomes verifiably known everywhere. But the full
+  archive doesn't just vindicate her; it contains the granular record of
+  exactly how evacuation triage was decided, which means specific families
+  across specific subnets learn their people were deliberately deprioritized.
+  She's vindicated in the abstract and excoriated in the specifics — not a
+  clean win, a trade of one kind of peace for another kind of anger.
 - *Candidate companion perk:* **"Vindicated"**
 - *Candidate player perk:* reputation/recognition-flavored, paying off across
-  every other DLC region (unique dialogue, faster standing gains) — the
-  player is now known Federation-wide as the one who told the truth.
+  every other DLC region (unique dialogue, faster standing gains) — but paired
+  with real, ongoing friction: some subnet populations now resent the player
+  specifically for surfacing the triage details, souring what could have been
+  unambiguous goodwill.
 
 **B. Recover but Control the Release** — hold the archive, release it
 selectively (Concordia's government, a specific faction, or kept as leverage)
 rather than broadcasting it openly.
 - *Kendra's psychology:* arguably the more natural fit for an 8 than option A —
-  8s trust control and calculated strength, not naive openness. She could
-  approve of this specifically because it doesn't hand something this
-  dangerous to everyone indiscriminately.
+  8s trust control and calculated strength, not naive openness. But
+  withholding the full record means countless families across the subnets
+  never get closure about specific fates of their dead or missing — grief
+  that could have been resolved stays open indefinitely because she and the
+  player decided the risk of broadcasting it wasn't worth it.
 - *Candidate companion perk:* **"The Long Game"**
 - *Candidate player perk:* leverage/information-advantage flavored — discounts,
-  unique access to gated dialogue or quest paths tied to holding a genuine
-  secret.
+  unique access to gated dialogue or quest paths — but the player now carries
+  an ongoing liability: whoever wants that leverage knows the player has it,
+  making them a standing target rather than someone who closed the matter.
 
 **C. Let It Go** — don't restore it, or actively let it be lost; the past
 stays buried.
 - *Kendra's psychology:* the most complicated of the three — part relief (the
   burden of memory ends, including whatever the archive holds about her own
-  failure) and part grief (nothing gets redeemed, nothing gets fixed). Ties
-  well to the game's own robot-consciousness north star question.
+  failure) and part grief (nothing gets redeemed, nothing gets fixed).
+  Irreplaceable historical knowledge is gone permanently — not just her own
+  story, but whatever lessons future Tepenians might have drawn from exactly
+  what went wrong at the Tower are lost with it, foreclosed rather than
+  resolved.
 - *Candidate companion perk:* **"The Weight Set Down"**
 - *Candidate player perk:* more philosophical/mechanical than the other two —
-  something about moving forward unburdened rather than gaining leverage or
-  reputation.
+  something about moving forward unburdened — paired with the loss of
+  whatever concrete advantage the other two branches would have granted; the
+  player gets peace, not power, and specifically forecloses ever accessing
+  what was in the archive on a replay of the same save.
 
-**Status:** all three read as genuinely distinct, coherent choices rather than
-a padded third option — this branch is a plausible template for how other
-companions' three-way splits might be evaluated, though exact perk
-names/mechanics are placeholders pending real design work.
+**Status:** all three read as genuinely distinct, coherent choices with real
+costs attached, rather than a padded third option or a clean "good" choice —
+this branch is a plausible template for how other companions' three-way
+splits might be evaluated, though exact perk names/mechanics are placeholders
+pending real design work.
 
 ---
 

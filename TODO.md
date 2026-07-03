@@ -73,6 +73,9 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Medium Priority — Character Development
 
+- [ ] **Sexuality rule update — apply when the first human companion is designed**
+  Rule updated 2026-07-03: robots and human women are bisexual, human men are heterosexual (previously all humans were heterosexual). Romanceable human male companions will gate on an additional gender check on top of the standard MACHINE stat check (see `Companion_System.md`, `Universal_Rules.md`). **Correction (2026-07-03):** all currently-existing recruitable companions are robots — Favi della Torre included (her established backstory describes her boyfriend as "a human," distinguishing him from her). No existing companion romance design needs auditing or updating right now; this rule only becomes relevant once a human companion is actually designed and added to the roster.
+
 - [ ] **Ayako Hayashi — character development queue**
   Confirmed: recruitable companion; romanceable; 4w5 Self-Pres; Red Spiral medic; Japan origin; art/fashion → medicine trajectory; Schopenhauer as personal philosophy. Home designed (Leo district atelier). Romance design complete (Investigation ≥ 7, Humanity ≥ 6, Calculation ≥ 6; full 6-beat Gate 3 sequence). Outstanding:
   - Personality and voice (Phase 3)
@@ -272,6 +275,9 @@ These require a developer call before downstream work can proceed. None can be r
 ---
 
 ## Long-Term / Low Urgency
+
+- [ ] **Companion-Mediated Access — apply to Vosora, Kendra, and all other companions**
+  Flagged by the user 2026-07-03, explicitly deferred to much later priority. The "Companion-Mediated Access" design law (`Game-Mechanics/Perks/Perk_Framework.md`) — each companion questline branch grants the companion access to a new place/faction/group, unlocking branch-exclusive activities and lore for the player — cannot be meaningfully applied to specific companions (Vosora's four branches, Kendra's three, or any other companion) until Concordia's in-world setting is built out further: its factions, its locations, and how access to them would reasonably play out in the game. Hold off until that foundational world-building work is further along. Cross-reference `feedback_companion_mediated_access` memory.
 
 - [ ] **Subnet "meta-personalities" — derive after all cities are done**
   Flagged by the user 2026-07-03, explicitly for *after* the city post-cultures project (`Cities/Local_Cultures/`) is complete for every subnet — not to be started early. Once every city in a subnet has its own full cultural spec sheet, synthesize a subnet-level "meta-personality": the aggregate feel, tone, and vibe that emerges from that subnet's specific set of cities. **Why it matters:** each subnet maps to its own DLC (Palmer=DLC3, Byrd=DLC2, Mawson=DLC4, Halley=DLC5, Janbogo=DLC6, Mirny=DLC7, South Pole=DLC1), and the user wants each DLC to feel tonally distinct from the others — the subnet meta-personality is what should drive that differentiation. Cross-reference `project_city_post_cultures` for per-city progress; this task is downstream of that one finishing (or at least each relevant subnet finishing).

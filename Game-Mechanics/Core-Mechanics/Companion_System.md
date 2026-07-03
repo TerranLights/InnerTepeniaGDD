@@ -171,11 +171,15 @@ The general design principle is **monogamy once a committed romance is establish
 
 ### Sexuality by Character Type — Canon Rule
 
-**Robot characters (companions and sexually-available NPCs):** Bisexual by default. Robots in Concordia do not organize attraction by the gender of their partner. All confirmed romance companions are robots; all are bisexual. This means they will pursue the player regardless of the player character's gender.
+**Robot characters (companions and sexually-available NPCs):** Bisexual by default. Robots in Concordia do not organize attraction by the gender of their partner. This means they will pursue the player regardless of the player character's gender.
 
-**Human characters (companions and sexually-available NPCs):** Heterosexual. Human characters have a fixed-gender attraction. Any human companion or sexually-available NPC will only pursue a player character of the opposite gender presentation.
+**Human female characters (companions and sexually-available NPCs):** Bisexual, same as robots — updated 2026-07-03 from the earlier "all humans heterosexual" rule. They pursue the player regardless of gender presentation.
 
-This rule applies uniformly across both the romance roster and the casual "fuckable" pool. No exceptions are established at this time.
+**Human male characters (companions and sexually-available NPCs):** Heterosexual. Fixed-gender attraction — a human male companion or sexually-available NPC will only pursue a player character presenting as the gender he's attracted to.
+
+**Mechanical consequence — the additional gender gate:** every romanceable companion, robot or human, still gates on the standard MACHINE stat/trait check (Gate 2, per the Double Gate system above) — **with the exception of Kendra Heinrich, whose romance has no stat gate at all** (see her design note below). On top of that, **romanceable human male companions gate on an additional gender check**: the player must be presenting as the gender he's attracted to, checked independently of and in addition to the MACHINE threshold. Robot companions and human female companions do not carry this extra gate — same as before, they gate on the MACHINE check alone.
+
+This rule applies uniformly across both the romance roster and the casual "fuckable" pool. No exceptions are established at this time beyond Kendra's unique gate system.
 
 ---
 

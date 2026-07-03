@@ -144,19 +144,120 @@ specific end-of-DLC decision points (the Arcanet/hardware handling, the
 evacuation dead, and possibly others), each of which is a candidate branching
 point for her dual-outcome companion perk.
 
-**Three-branch goal, evaluated per companion *(established 2026-07-03):*** the
-FNV baseline is always exactly 2 outcomes (Hand of Vengeance / Calm Heart), but
-when actual design & development work reaches each companion's questline, the
-default question should be "can this competently support **three** mutually
-exclusive outcomes instead of two?" — not "should we add a third." Two remains
-the floor, not the target. Three should be attempted wherever the questline's
-own stakes and psychology genuinely support a third distinct, coherent path
-(see the Kendra Arcanet/hardware branch as a working example: Restore &
-Broadcast / Recover & Control / Let It Go each read as a real, distinct
-choice rather than a padded-out middle option). Where a questline's situation
-doesn't naturally support a third coherent branch, don't force one — a weak or
-redundant third option is worse than a clean two. This is a per-companion,
-per-questline judgment call made during actual design work, not a blanket rule.
+### No Good Endings — Every Branch Carries a Real Trade-Off *(established 2026-07-03)*
+
+**Binding design law, applies to every branch of every companion questline,
+with no exceptions.** No branch of any companion's dual-outcome (or
+three/four/five-way) resolution is allowed to be a clean "good ending." Every
+single branch — regardless of which perk it produces — must carry a genuine
+negative trade-off alongside whatever it gains. The player should never be able
+to identify one branch as simply "the right choice with no downside."
+
+**Model: Fallout: New Vegas's "For Auld Lang Syne" (Arcade Gannon).** Convince
+him to fight at Hoover Dam, and he can't tend to the sick and injured at the
+Mormon Fort — he's left wondering if he abandoned the people who needed him.
+Convince him to stay at Freeside, and the Enclave Remnants go into the Second
+Battle of Hoover Dam one person short. Neither path is a win. Both cost
+something real. This is the template for every companion resolution in Inner
+Tepenia.
+
+**What this means in practice:** when designing (or, during worldbuilding
+sessions, drafting placeholder ideas for) any companion's branch structure,
+each branch needs its trade-off made explicit alongside its gain — not left
+implicit or glossed over because the branch "sounds positive." A branch that
+currently reads as pure triumph, pure closure, or pure moral clarity is
+incomplete and needs a real cost added before it's considered done, even at the
+placeholder/brainstorming stage.
+
+**Retroactive correction (completed 2026-07-03):** Kendra's "Restore &
+Broadcast" and Vosora's "Publication" branches (both drafted before this
+principle was established) were framed too cleanly positive — vindication/
+closure with no attached cost. Both have since been corrected; see
+`Kendra Heinrich/DLC_South_Pole_Level_Design.md` section 8 and
+`Vosora Lashár Tanslock/README.md` Design Notes for the corrected text.
+
+### Companion-Mediated Access — Each Branch Unlocks Exclusive Content Through the Companion *(established 2026-07-03)*
+
+**Binding design law, applies to every companion questline branch, stacking on
+top of the perk pair and the No Good Endings trade-off — this is a third,
+additive layer, not a replacement for either.** Each branch of a companion's
+questline resolution grants **the companion** (not the player directly) access
+to something new — a location, a building, a faction, a group of people. That
+access is what actually opens the door for the player: new things to do, and
+new in-world lore to learn, mediated entirely through that companion having
+that specific relationship or standing. **This content is exclusive to that
+specific branch** — a different branch resolution unlocks different exclusive
+content, not the same content through a different door. There is no equivalent
+mechanic in Fallout: New Vegas; this is an Inner Tepenia-original addition.
+
+**Illustrative example, using Cass's real companion quest "Heartache by the
+Number":** the choice itself — destroy the Crimson Caravan Company and the
+Van Graffs, or submit evidence against them to the NCR — is the actual quest
+resolution in Fallout: New Vegas. **What's invented here is only the
+subsequent companion-mediated-access consequences below**, illustrating what
+this Inner Tepenia mechanic would look like layered on top of that real
+choice:
+- **Destroy CCC/Van Graffs:** Cass gains control of both businesses — the
+  player gets access, through her, to high-quality Van Graffs energy weapons
+  at a steep discount and new Crimson Caravan supply routes to nearby
+  factions (Freeside, the Kings). Trade-off: NCR retailers refuse to deal
+  with the player, now seen as dangerous.
+- **Submit evidence to the NCR:** the NCR strengthens its position with
+  leverage over both companies. Trade-off: the player is marked *persona non
+  grata* by the CCC, the Van Graffs, and everyone commercially connected to
+  them — refused sales, possible hostility.
+
+Neither branch is a clean win (per No Good Endings), and each opens a
+**different, mutually exclusive door** to activities and lore that the other
+branch's path never provides at all.
+
+**Why this matters:** it means a companion's questline resolution reshapes the
+player's actual reach into the world — not just their stat sheet — and it
+gives real, permanent weight to which branch was chosen beyond the perk itself.
+It also reinforces replayability: seeing the content locked behind a different
+companion branch is a genuine reason to play through a questline again
+differently.
+
+**Status:** not yet applied to Kendra's or Vosora's drafted branches in detail
+— this principle was established after their perk pairs were drafted. Sketching
+what each branch's companion-mediated access might look like is future work,
+explicitly marked for the same review-at-design-time treatment as everything
+else in this document.
+
+**Branch count policy — 2 floor, 3 goal, 4 permitted, 5 hard cap *(established
+2026-07-03, refined same day):*** the FNV baseline is always exactly 2 outcomes
+(Hand of Vengeance / Calm Heart). Inner Tepenia's policy:
+
+- **Two is the floor**, not the target — every companion questline resolves
+  into *at least* two mutually exclusive outcomes.
+- **Three is the goal.** When actual design & development work reaches each
+  companion's questline, the default question should be "can this competently
+  support three mutually exclusive outcomes instead of two?" (see the Kendra
+  Arcanet/hardware branch: Restore & Broadcast / Recover & Control / Let It Go
+  — three genuinely distinct choices, not a padded middle option).
+- **Four is permitted** when the specific companion, questline, and situation
+  genuinely support four distinct, coherent, mutually exclusive outcomes — not
+  a default to reach for, but not off-limits either. See Vosora Lashár
+  Tanslock's "What the Silence Says" as the working four-branch example
+  (Publication / Leverage / The Shape of the Gap / The Wrong Answer — her own
+  pre-existing questline design already supported all four cleanly).
+- **Five is the hard cap.** No companion questline should ever resolve into
+  more than five mutually exclusive outcomes, regardless of how much the
+  material seems to support it. An upper limit exists on purpose — there is a
+  practical ceiling on scope, playtesting, and how many genuinely distinct
+  paths a single questline resolution can coherently support before the
+  branches stop being meaningfully different from each other.
+- Where a questline's situation doesn't naturally support a third (or fourth,
+  or fifth) coherent branch, don't force one — a weak or redundant extra
+  option is worse than a clean, smaller set. This is always a per-companion,
+  per-questline judgment call made during actual design work, never a blanket
+  mandate to hit the maximum.
+
+**All specific perk names, exact branch counts, and outcome designs proposed
+during worldbuilding sessions (including the Kendra and Vosora examples in this
+document) are explicitly marked for review once actual design & development
+work begins, and may be adjusted at that point.** Nothing here is locked in
+ahead of that pass.
 
 **Other open questions:**
 - Exact naming/design of each companion's perk pair (or triad) — per-character
