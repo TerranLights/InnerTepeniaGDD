@@ -4,16 +4,16 @@
 **Status:** Destroyed
 **Arcanet Subnet:** Janbogo
 **Highway access:** Shared access with Janbogo via the Terra Nova Bay coastal road network; Hwy 183 southward to Concordia via Janbogo
-**Significance:** Italian Tepenian city; neighbor of Janbogo — the two cities shared Terra Nova Bay, approximately 10km apart; one survived the Long Night War and one did not; the proximity of Zukelli's ruins to a living city is unique in Tepenia
+**Significance:** Italian Tepenian city; neighbor of Janbogo — the two cities shared Terra Nova Bay, approximately 8km apart *(corrected 2026-07-03 from ~10km — GPS coordinate calculation against the map)*; one survived the Long Night War and one did not; the proximity of Zukelli's ruins to a living city is unique in Tepenia
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible
 
 ---
 
 ## Geographic Basis
 
-Zukelli and Janbogo are neighbors. This is not a metaphor or a loose geographic claim — the real stations on which they are based (Mario Zucchelli Station and Jang Bogo Station) sit approximately 10 kilometers apart on the same bay, the same stretch of Victoria Land coast, sharing the same Terra Nova Bay polynya. In Tepenia, the two cities grew up alongside each other, facing the same water, using the same port infrastructure, experiencing the same katabatic winds off the Transantarctic Mountains, watching the same polynya remain open through winters that froze every other patch of Ross Sea coast.
+Zukelli and Janbogo are neighbors. This is not a metaphor or a loose geographic claim — the real stations on which they are based (Mario Zucchelli Station and Jang Bogo Station) sit approximately 8 kilometers apart on the same bay, the same stretch of Victoria Land coast, sharing the same Terra Nova Bay polynya. In Tepenia, the two cities grew up alongside each other, facing the same water, using the same port infrastructure, experiencing the same katabatic winds off the Transantarctic Mountains, watching the same polynya remain open through winters that froze every other patch of Ross Sea coast.
 
-Zukelli was not a suburb of Janbogo or a satellite settlement. It was a distinct city with its own identity, culture, government, and history. But the two cities knew each other the way cities 10km apart inevitably know each other — as permanent presences on each other's horizon, as partners in the shared infrastructure of the bay, as communities that overlapped at the edges.
+Zukelli was not a suburb of Janbogo or a satellite settlement. It was a distinct city with its own identity, culture, government, and history. But the two cities knew each other the way cities 8km apart inevitably know each other — as permanent presences on each other's horizon, as partners in the shared infrastructure of the bay, as communities that overlapped at the edges.
 
 The Terra Nova Bay polynya — the persistent stretch of open water maintained by katabatic winds — was a shared resource and a shared landmark. Both cities built around it. Both depended on it. When the Long Night War came, the polynya kept running regardless.
 
@@ -47,7 +47,7 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 
 **Founding population:** Primarily Italian exiles. Italy's cultural presence in Tepenia was concentrated here in a way that had no equivalent elsewhere — Zukelli was the Italian city, the place where Italian language, food culture, architecture, and social tradition maintained their most coherent Antarctic expression.
 
-The proximity to the Korean founding population at Janbogo created an immediate and permanent cultural relationship. Two national communities, 10km apart, sharing a bay. The relationship between them — cooperative, competitive, friendly, complicated — developed over centuries.
+The proximity to the Korean founding population at Janbogo created an immediate and permanent cultural relationship. Two national communities, 8km apart, sharing a bay. The relationship between them — cooperative, competitive, friendly, complicated — developed over centuries.
 
 ---
 
@@ -59,7 +59,7 @@ The Italian cultural inheritance was the city's defining feature. Food culture �
 
 The katabatic winds and the polynya were understood as connected phenomena — the same force that made the bay's water stay open in winter also made outdoor life challenging. The city's architecture reflected this: sheltered courtyards, wind-oriented street layouts, covered connections between buildings that allowed outdoor movement without full wind exposure.
 
-**Nationally known for:** Being Italian. The food culture. The relationship with Janbogo. The polynya. Being the city 10km from the one that survived.
+**Nationally known for:** Being Italian. The food culture. The relationship with Janbogo. The polynya. Being the city 8km from the one that survived.
 
 ---
 
@@ -94,7 +94,7 @@ The most immediate legacy of Zukelli's destruction in Concordia is among the peo
 
 ## Current Status / Destruction
 
-Destroyed in the Long Night War. The ruins sit on Terra Nova Bay approximately 10km from Janbogo. The polynya still runs between them.
+Destroyed in the Long Night War. The ruins sit on Terra Nova Bay approximately 8km from Janbogo. The polynya still runs between them.
 
 The specific circumstances — when in the war, what happened, whether Janbogo could do anything, whether they tried — are TBD and are likely among the most emotionally loaded open questions in the Janbogo subnet's history. The relationship between survivor and destroyed neighbor is not abstract here. It is geographic. It is daily.
 
@@ -108,7 +108,7 @@ Zukelli's legacy is partly in Concordia (the Italian community that came through
 
 ## Open Questions
 
-- **The circumstances of Zukelli's destruction** — what happened, and was Janbogo able to help or warn? The proximity makes this question acute: 10km is close enough to watch
+- **The circumstances of Zukelli's destruction** — what happened, and was Janbogo able to help or warn? The proximity makes this question acute: 8km is close enough to watch
 - **Janbogo's relationship to the ruins** — does Janbogo maintain any connection to Zukelli's ruins? Is there a memorial practice, a tradition of crossing the bay on significant dates? Or is it something the living city has learned not to look at?
 - **The Zukelli diaspora in Janbogo** — how many Zukelli residents evacuated to Janbogo before or during the destruction? What is the Zukelli community's status within Janbogo?
 - **The Zukelli community in Concordia** — distinct from the Janbogo diaspora, or folded into it? Italian cultural presence in Concordia

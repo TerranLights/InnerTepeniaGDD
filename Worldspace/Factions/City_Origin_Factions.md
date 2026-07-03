@@ -38,7 +38,7 @@ Zukelli was not a failing city. It was not a city in decline, or a city people w
 
 This specific fact shapes the Zukelli community in ways that other destroyed-city communities don't share. There is no softening narrative available. There is no "well, things were already changing" or "people had already started to leave." The city was full. Then it wasn't.
 
-The other fact that shapes them: Janbogo is 10km away across the water. Janbogo survived.
+The other fact that shapes them: Janbogo is 8km away across the water. Janbogo survived.
 
 The Zukelli community is not unified in how it holds this. It has at least three distinct orientations:
 

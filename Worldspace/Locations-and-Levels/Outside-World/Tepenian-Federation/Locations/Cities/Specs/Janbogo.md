@@ -15,7 +15,7 @@ Janbogo sits on Terra Nova Bay on the Ross Sea coast — the Pacific-facing side
 
 Hwy 183 (the Janbogo Highway) runs from Concordia's southern terminus south through Fort McMurdo and Scott on Ross Island, to Janbogo, and then north along the coast to Cape Adare and Zukelli. Of all the highways connecting Concordia to the outside world, Hwy 183 is the most actively maintained and the most strategically critical. Whatever enters or exits Concordia by ground moves through Janbogo.
 
-Approximately 10km north on the same bay, the ruins of Zukelli — the Italian city based on Mario Zucchelli Station — are visible from Janbogo's waterfront. No other surviving city in Tepenia sits within sight of a destroyed one. Janbogo residents live with Zukelli's ruins on the horizon: what happened there is not history in the way it is everywhere else. It is a view.
+Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GPS coordinate calculation against the map)*, the ruins of Zukelli — the Italian city based on Mario Zucchelli Station — are visible from Janbogo's waterfront. No other surviving city in Tepenia sits within sight of a destroyed one. Janbogo residents live with Zukelli's ruins on the horizon: what happened there is not history in the way it is everywhere else. It is a view.
 
 ### Annual Climate
 
@@ -107,7 +107,7 @@ Since the war, its economic function has narrowed to what it can still perform i
 ## Notable Locations
 
 - **Majyao's Teahouse** — the establishment famous throughout Tepenia; Majyao has since relocated to Concordia; what remains of the teahouse in Janbogo's current damaged state is TBD
-- **The Zukelli view** — the waterfront sight line north to Zukelli's ruins, approximately 10km away; unique in Tepenia; the ruins are visible on clear days and during midnight sun; how Janbogo residents relate to this view — whether they avoid it, mark it, or simply live with it — is a DLC 6 character and cultural detail
+- **The Zukelli view** — the waterfront sight line north to Zukelli's ruins, approximately 8km away; unique in Tepenia; the ruins are visible on clear days and during midnight sun; how Janbogo residents relate to this view — whether they avoid it, mark it, or simply live with it — is a DLC 6 character and cultural detail
 - Additional named locations: TBD — to be developed during DLC 6 design
 
 ---

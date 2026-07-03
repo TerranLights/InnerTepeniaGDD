@@ -240,7 +240,7 @@ Complicated by a layered history rather than a single clean grievance. The found
 
 ## 23. Relationship to Other Cities
 
-- **Zukelli (destroyed):** Visible from Janbogo's waterfront, ~10km north — the only surviving Tepenian city within sight of a destroyed one. This is not abstract history for Janbogo residents; it is a view. Some Italian-heritage presence in Janbogo's Significant tier likely reflects generations of ordinary Terra Nova Bay neighborly settlement rather than wartime flight — Zukelli was near its peak population when destroyed, not a city that emptied out beforehand. The grief Janbogo carries about Zukelli is closer to survivor's proximity than displaced-population guilt.
+- **Zukelli (destroyed):** Visible from Janbogo's waterfront, ~8km north *(corrected 2026-07-03 from ~10km)* — the only surviving Tepenian city within sight of a destroyed one. This is not abstract history for Janbogo residents; it is a view. Some Italian-heritage presence in Janbogo's Significant tier likely reflects generations of ordinary Terra Nova Bay neighborly settlement rather than wartime flight — Zukelli was near its peak population when destroyed, not a city that emptied out beforehand. The grief Janbogo carries about Zukelli is closer to survivor's proximity than displaced-population guilt.
 - **Sejong:** The other Korean-founded Tepenian city, on the opposite side of the continent in the Palmer subnet. Whether the two communities maintained real contact before the Planetary Split Brain, and what that means for Korean-descended families in each city today, is unresolved — an open thread both cities' files flag independently.
 - **Concordia:** The most direct and load-bearing relationship of any city in Tepenia — Janbogo is Concordia's last actively functioning coastal supply link, and the Gemini district's Janbogo diaspora is Concordia's largest, most established non-native community.
 - **Fort McMurdo, Scott, Dumont d'Urville, Cape Adare:** Fellow Janbogo subnet cities along Hwy 183's route; day-to-day trade and logistics partners rather than culturally distinct rivals.
@@ -292,7 +292,7 @@ There's no formal ceremony, but the marker is specific and well understood: you 
 ## 29. Notable Local Landmarks
 
 - **The site of Majyao's original teahouse** — the establishment famous throughout Tepenia before its keeper relocated to Concordia; current state (preserved, repurposed, damaged) is a DLC 6 open question
-- **The Zukelli view** — the waterfront sightline north to Zukelli's ruins, ~10km distant; visible on clear days and during midnight sun; unique in Tepenia
+- **The Zukelli view** — the waterfront sightline north to Zukelli's ruins, ~8km distant; visible on clear days and during midnight sun; unique in Tepenia
 - **The Hwy 183 terminus / port complex** — the operational heart of Janbogo's supply relationship with Concordia
 - Additional named locations: TBD — DLC 6 design work
 
