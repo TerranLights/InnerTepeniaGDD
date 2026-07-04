@@ -2,11 +2,17 @@
 
 **Based on:** Progress Station (Russia / Arctic and Antarctic Research Institute), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E)
 **Tepenian name:** Soyuz — named after the Soyuz spacecraft and program, one of the most enduring symbols of Russian space-age achievement; the founding exile community chose to honor this legacy
-**Status:** Destroyed
+**Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates (69°22'S, 76°22'E), only a few hundred meters apart in reality; one being destroyed while the other was merely damaged made no physical sense. Resolved alongside Zhongshan and the Japanese city (cf. Bharati) as all three "damaged, yet functional" — see the Larsemann Hills Cluster Status Note below.)*
 **Arcanet Subnet:** Mawson
-**Highway access:** TBD — Larsemann Hills position; part of the Prydz Bay cluster alongside Zhongshan and the former-Bharati location; Mawson subnet eastern road network
-**Significance:** Russian Tepenian city in the Prydz Bay / Larsemann Hills cluster; named for the Soyuz spacecraft program; one of the densest multi-city clusters in Tepenia alongside Zhongshan and the city based at the former Bharati Station; the Arctic and Antarctic Research Institute's operational heritage; Larsemann Hills ice-free oasis terrain (similar to the Schirmacher Oasis in the Halley subnet, though smaller)
-**DLC:** Mawson subnet — DLC 4 (Mawson Region); Destroyed
+**Highway access:** TBD — Larsemann Hills position; part of the Prydz Bay cluster alongside Zhongshan and the Japanese city (cf. Bharati); Mawson subnet eastern road network
+**Significance:** Russian Tepenian city in the Prydz Bay / Larsemann Hills cluster; named for the Soyuz spacecraft program; one of the densest multi-city clusters in Tepenia alongside Zhongshan and the Japanese city founded via Jeju-do diplomatic allocation (cf. Bharati); the Arctic and Antarctic Research Institute's operational heritage; Larsemann Hills ice-free oasis terrain (similar to the Schirmacher Oasis in the Halley subnet, though smaller)
+**DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational
+
+---
+
+## Larsemann Hills Cluster Status Note (2026-07-03)
+
+Soyuz, Zhongshan, and the Japanese city (cf. Bharati) all sit within the same small Larsemann Hills oasis — Soyuz and Zhongshan at effectively identical coordinates (a few hundred meters apart in reality), the Japanese city about 8km away (comparable to the established Janbogo-Zukelli distance, though that pair *did* suffer different fates at that range). Given Soyuz and Zhongshan's near-total co-location, it made no physical sense for one to be destroyed while the other was merely damaged — any strike capable of leveling one would almost certainly have hit the other identically. All three cluster cities are now resolved as **damaged, yet functional**, consistent with each other. This reverses Soyuz's earlier "Destroyed" resolution and its own already-written cultural sheet, which now needs updating to match — see `Local_Cultures/Mawson_Subnet/Soyuz.md`.
 
 ---
 
@@ -94,7 +100,7 @@ Soyuz's legacy is the name it chose — ambition in the face of exile, a spacecr
 ---
 
 ## Open Questions
-- **Soyuz vs. Mirny — two Russian cities** — the Russian exile community was split between the Mawson subnet (Soyuz, Larsemann Hills) and the Mirny subnet (Mirny, Davis Coast); what was the relationship between these two Russian communities pre-Split Brain? Soyuz was destroyed; Mirny survived damaged. Does Mirny know what happened to Soyuz?
+- **Soyuz vs. Mirny — two Russian cities** — the Russian exile community was split between the Mawson subnet (Soyuz, Larsemann Hills) and the Mirny subnet (Mirny, Davis Coast); what was the relationship between these two Russian communities pre-Split Brain? Both cities are now damaged but functional post-war — does that shared fate give them anything in particular to say to each other, now that neither is worse off than the other?
 - **The Larsemann Hills cluster dynamics** — three cities in close proximity (Soyuz, Zhongshan, former-Bharati location); what were the inter-community relationships?
 - **Demonym** — TBD; "Soyuzans"? something Russian?
 - **Notable figures** — TBD

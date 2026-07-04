@@ -54,9 +54,9 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 
 | City | Status |
 |------|--------|
-| Framheim | Surviving |
-| Little America | Surviving |
 | Byrd | Surviving |
+
+*Framheim and Little America removed from canon 2026-07-03 — real-world verification found their shared site (Bay of Whales) was eliminated by the 1987 Iceberg B-9 calving event, with no surviving pre-exile infrastructure at either location to begin with. See `Specs/Framheim.md` and `Specs/Little_America.md`. Byrd is now this subnet's only city.*
 
 ---
 
@@ -82,9 +82,9 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | City | Status |
 |------|--------|
 | Mawson | Surviving |
-| Bharati_TBD | Surviving |
-| Sayowa | Surviving |
-| Soyuz | Destroyed *(Long Night War)* |
+| Bharati_TBD | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation, final name TBD; see `Specs/Bharati_TBD.md`)* |
+| Sayowa | Surviving *(damaged; partially operational — confirmed 2026-07-03; critical Hwy 37/Hwy 7-ext junction connecting the Mawson subnet to Concordia and the Halley subnet; see `Specs/Sayowa.md`)* |
+| Soyuz | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); see `Specs/Soyuz.md`)* |
 
 ---
 
@@ -113,7 +113,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 
 ## Notes
 
-- **Destroyed cities** (Zukelli, Soyuz) are included because their cultures existed pre-Long Night War and are relevant to diaspora communities in surviving cities.
+- **Destroyed cities** (Zukelli) are included because their cultures existed pre-Long Night War and are relevant to diaspora communities in surviving cities. *(Soyuz was reclassified 2026-07-03 from destroyed to damaged/partially operational — its own cultural sheet was already written present-tense per the general methodology below, so no rewrite was needed for that reason, but its status-specific framing was updated.)*
 - **Belgrano** is in ruins by the time of Inner Tepenia's main game events but is accessible and inhabited in DLC 5; its culture is partially preserved as ruin culture.
 - **Concordia** is the primary setting of Inner Tepenia and the largest surviving city in the post-Long Night War period. Its culture spec sheet is among the most critical in this directory.
 - **Amundsen Station** is an edge case — its "culture" is primarily operational and robotic rather than civic. Include if relevant.

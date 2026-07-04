@@ -247,7 +247,7 @@ There was little true "transition" at Marambio — the city was built for motion
 
 - **The Marambio airfield** — the Palmer subnet's primary aviation hub, the most developed airstrip infrastructure of any Peninsula city
 - **The Eocene fossil exposures** — Seymour Island's sedimentary rock faces, carrying ancestral penguin, whale, and plant fossils from 34–56 million years ago
-- **Herbert Sound** — the narrow strait separating the island from the Peninsula mainland
+- **The Picnic Passage causeway/bridge chain** — Marambio's confirmed Hwy 1 crossing, spanning Picnic Passage (the real-world ~1km strait to Snow Hill Island), then James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland — Hwy 1's northern terminus, continuing south to Palmer City, Port Lockroy, Rothera, and ultimately Byrd
 
 ---
 

@@ -25,6 +25,8 @@ National communities are classified by tier based on long-run population share. 
 
 **Palmer City** *(Anvers Island)*
 
+*Population reduced 2026-07-03 — see Section III note. 30% of its total population (20% to Byrd, 10% to Concordia) was relocated to bring it back under its documented 364,000-combined island cap. Composition tiers unaffected — a proportional reduction across the existing mix below, not a change to which nations are present.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
@@ -205,23 +207,9 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Framheim** *(Ross Ice Shelf)*
+**Framheim and Little America — REMOVED (2026-07-03)**
 
-| Tier | Nations |
-|------|---------|
-| Primary | USA, Japan |
-| Significant | South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | New Zealand *(earliest founding wave)*, Chile |
-
----
-
-**Little America** *(Ross Ice Shelf)*
-
-| Tier | Nations |
-|------|---------|
-| Primary | USA, Japan |
-| Significant | South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | New Zealand *(earliest founding wave)*, Chile |
+*Both cities were removed from Tepenian canon after real-world verification found the Bay of Whales — the shared site both cities were reconstructed near, from Byrd's underground archives — was entirely eliminated in 1987 when Iceberg B-9 (154km long) calved off the Ross Ice Shelf. Both cities' premise depended on a physical site to reconstruct onto; with that site's defining feature permanently gone and no surviving pre-exile infrastructure at either location to begin with (both were already full archive-based reconstructions, per their own founding lore), the two locations were deleted rather than assigned a war-era status. Their combined pre-removal population (Census I: 855,540 humans / 891,723 robots / 1,747,263 combined) was redistributed across Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — full breakdown in the Section III note below. Their former composition (Primary USA/Japan; Significant South Korea, Canada, Indonesia, Australia founding wave; Notable New Zealand earliest founding wave, Chile) is not reflected in any single destination city's own tier table below — the redistributed populations carry this profile forward proportionally without a computed per-nation breakdown at each destination.*
 
 ---
 
@@ -233,7 +221,7 @@ National communities are classified by tier based on long-run population share. 
 | Significant | TBD |
 | Notable | TBD |
 
-*Note: National origin composition pending immigration composition analysis.*
+*Note: National origin composition pending immigration composition analysis. Population figures are no longer pending, however — see Section III; Byrd received its first population figures 2026-07-03 via the Framheim/Little America redistribution (partly directly, partly via Concordia and Palmer City onward transfers). Composition carries forward proportionally from those sources without a computed per-nation table.*
 
 ---
 
@@ -311,7 +299,7 @@ National communities are classified by tier based on long-run population share. 
 | Significant | TBD |
 | Notable | TBD |
 
-*Note: National origin composition pending immigration composition analysis. Primary setting of Inner Tepenia; largest surviving city in the post-Long Night War period.*
+*Note: National origin composition pending immigration composition analysis. Primary setting of Inner Tepenia; largest surviving city in the post-Long Night War period. Population figures are no longer pending — see Section III; Concordia received its first population figures 2026-07-03 via the Framheim/Little America redistribution plus a share of Palmer City's over-cap population. Composition carries forward proportionally from those sources without a computed per-nation table.*
 
 ---
 
@@ -339,7 +327,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Soyuz** *(Larsemann Hills, Prydz Bay — mainland coast)* — *Destroyed in the Long Night War*
+**Soyuz** *(Larsemann Hills, Prydz Bay — mainland coast)* — *Damaged; partially operational (corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)*
 
 | Tier | Nations |
 |------|---------|
@@ -349,12 +337,12 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Bharati_TBD** *(Prydz Bay — non-Indian founding population)*
+**Bharati_TBD** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; final proper name still TBD — see `Specs/Bharati_TBD.md`)*
 
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
+| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
 ---
@@ -425,7 +413,7 @@ National communities are classified by tier based on long-run population share. 
 | Significant | TBD |
 | Notable | TBD |
 
-*Note: National origin composition pending immigration composition analysis.*
+*Note: National origin composition pending immigration composition analysis. Population figures are no longer pending — see Section III; Vostok received its first population figures 2026-07-03 via the Framheim/Little America redistribution. Composition carries forward proportionally from that source (Primary USA/Japan; Significant South Korea, Canada, Indonesia, Australia founding wave) without a computed per-nation table.*
 
 ---
 
@@ -468,98 +456,97 @@ National communities are classified by tier based on long-run population share. 
 | Rank | City | Subnet | Humans | Robots | **Combined** | Status |
 |------|------|--------|--------|--------|-------------|--------|
 | 1 | Lazar | Halley | 1,299,650 | 1,346,418 | **2,646,068** | *(revised 2026-07-03 — see note below)* |
-| 2 | Esperanza | Palmer | 883,710 | 926,073 | **1,809,783** | *(revised 2026-07-03)* |
-| 3 | Casey | Mirny | 738,418 | 766,737 | **1,505,155** | |
-| 4 | Cape Adare | Janbogo | 730,539 | 758,307 | **1,488,846** | |
+| 2 | Esperanza | Palmer | 958,570 | 926,073 | **1,884,643** | *(revised 2026-07-03)* |
+| 3 | Cape Adare | Janbogo | 750,539 | 758,307 | **1,508,846** | *(revised 2026-07-03)* |
+| 4 | Casey | Mirny | 738,418 | 766,737 | **1,505,155** | |
 | 5 | Halley | Halley | 711,583 | 744,515 | **1,456,098** | |
 | 6 | Mawson | Mawson | 713,748 | 741,178 | **1,454,926** | |
 | 7 | Mirny | Mirny | 668,613 | 688,321 | **1,356,934** | |
-| 8 | Janbogo | Janbogo | 630,383 | 667,915 | **1,298,298** | *(revised 2026-07-03)* |
+| 8 | Janbogo | Janbogo | 650,383 | 667,915 | **1,318,298** | *(revised 2026-07-03)* |
 | 9 | Zhongshan | Mirny | 634,485 | 650,009 | **1,284,494** | |
-| 10 | Neumayer | Halley | 616,805 | 641,537 | **1,258,342** | |
-| 11 | Zukelli | Janbogo | 611,905 | 635,411 | **1,247,316** | *(destroyed; revised 2026-07-03)* |
+| 10 | Zukelli | Janbogo | 631,905 | 635,411 | **1,267,316** | *(destroyed; revised 2026-07-03)* |
+| 11 | Neumayer | Halley | 616,805 | 641,537 | **1,258,342** | |
 | 12 | Bharati_TBD | Mawson | 578,925 | 604,408 | **1,183,333** | |
 | 13 | Davis | Mirny | 567,640 | 598,978 | **1,166,618** | |
 | 14 | Princess Elisabeth | Halley | 556,576 | 587,111 | **1,143,687** | |
 | 15 | Belgrano | Halley | 536,403 | 544,511 | **1,080,914** | *(ruins, DLC 5)* |
-| 16 | Soyuz | Mawson | 521,255 | 552,346 | **1,073,601** | *(destroyed)* |
+| 16 | Soyuz | Mawson | 521,255 | 552,346 | **1,073,601** | |
 | 17 | Denison | Janbogo | 526,521 | 546,852 | **1,073,373** | |
 | 18 | Aboa | Halley | 508,243 | 534,215 | **1,042,458** | |
-| 19 | Troll | Halley | 478,489 | 481,513 | **960,002** | |
-| 20 | Framheim | Byrd | 430,488 | 454,194 | **884,682** | |
-| 21 | Little America | Byrd | 425,052 | 437,529 | **862,581** | |
-| 22 | Sejong | Palmer | 318,175 | 329,680 | **647,855** | *(island cap)* |
-| 23 | Marambio | Palmer | 284,047 | 287,440 | **571,487** | *(island cap)* |
-| 24 | Palmer City | Palmer | 238,279 | 239,691 | **477,970** | *(island cap; revised 2026-07-03 — see note below)* |
-| 25 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
-| 26 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
-| 27 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
-| 28 | Juan Carlos | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
-| 29 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
-| 30 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
-| 31 | Sayowa | Mawson | 123,656 | 132,444 | **256,100** | *(island cap)* |
-| 32 | Signy | Palmer | 93,951 | 96,398 | **190,349** | *(island cap)* |
-| 33 | Port Lockroy | Palmer | 63,856 | 66,086 | **129,942** | *(island cap)* |
-| 34 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
+| 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(new 2026-07-03 — see note below)* |
+| 20 | Troll | Halley | 478,489 | 481,513 | **960,002** | |
+| 21 | Sejong | Palmer | 318,175 | 329,680 | **647,855** | *(island cap)* |
+| 22 | Marambio | Palmer | 284,047 | 287,440 | **571,487** | *(island cap)* |
+| 23 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
+| 24 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
+| 25 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
+| 26 | Juan Carlos | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
+| 27 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
+| 28 | Byrd | Byrd | 187,032 | 191,404 | **378,436** | *(new 2026-07-03 — see note below)* |
+| 29 | Vostok | Mirny | 100,333 | 261,078 | **361,411** | *(new 2026-07-03 — see note below)* |
+| 30 | Palmer City | Palmer | 166,795 | 167,784 | **334,579** | *(island cap; revised 2026-07-03 — now under cap, see note below)* |
+| 31 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
+| 32 | Sayowa | Mawson | 123,656 | 132,444 | **256,100** | *(island cap)* |
+| 33 | Signy | Palmer | 93,951 | 96,398 | **190,349** | *(island cap)* |
+| 34 | Port Lockroy | Palmer | 63,856 | 66,086 | **129,942** | *(island cap)* |
+| 35 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
 
 *Population redistribution (2026-07-03):* Lazar's population was rebalanced upward via a deliberate, explicit redistribution from three other cities: Janbogo reduced to 60% of its original total (865,531 combined transferred to Lazar), Zukelli reduced twice — first to 80%, then to 90% of that (485,068 combined transferred total), and Esperanza reduced to 85% of its original total (319,374 combined transferred). National/ethnic tier composition for all four cities remains structurally unchanged — only the underlying totals shifted. Grand total is unaffected (pure redistribution, verified: 31,906,952 unchanged).
 
 *Palmer City population expansion (2026-07-03):* Palmer City's national composition was deliberately broadened to include all 33 previously-unrepresented nations from the master Gini-adjusted effective exiles list (see `Upper_Earth_Immigration_Composition.md` methodology section). For each nation, a randomly-generated share between 0.2% and 1.8% of Palmer City's then-current total was assigned and added — full per-nation figures in `Upper_Earth_Immigration_Composition.md`'s Palmer City section. Total added: 119,648 (Census I). Unlike the Lazar redistribution, this is a genuine net addition to Tepenia's population, not a transfer — grand totals below reflect the increase.
-| — | **TOTAL** | | **15,711,071** | **16,315,529** | **32,026,600** | *(increased 2026-07-03 by 119,648 — Palmer City expansion, net addition not redistribution)* |
 
-*Note: Four cities are not included in Census I figures pending immigration composition analysis: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet). National origin compositions for these cities are listed as TBD in Section I. Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section III.*
+*Framheim/Little America removal and redistribution (2026-07-03):* Framheim and Little America were removed from Tepenian canon entirely — real-world verification found their shared site (the Bay of Whales, Ross Ice Shelf) was eliminated by the 1987 Iceberg B-9 calving event, and with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left to justify a war-era status. Their combined Census I population (855,540 humans / 891,723 robots / 1,747,263 combined) was redistributed: Vostok received a new 100,333H/261,078R; Esperanza received +74,860H; Concordia and Byrd each received a blend of direct shares, Kunlun/Dome Fuji's un-allocated shares (redirected once those two were dropped as destinations on altitude-viability grounds), and later transfers between each other; Zukelli, Janbogo, and Cape Adare each received +20,000H. Concordia and Byrd received their first-ever population figures this way; Vostok likewise. Kunlun and Dome Fuji were deliberately excluded from receiving any share, per their established "too high in altitude to be a viable population center" canon. Separately, Palmer City — found to be 113,970 over its documented 364,000-combined island cap (a leftover consequence of its own 2026-07-03 expansion, uncaught at the time) — had 30% of its total population relocated (20% to Byrd, 10% to Concordia) to bring it back under cap. Full step-by-step math preserved in `project_city_post_cultures` memory notes and this session's history. Grand total is unaffected by the Framheim/Little America redistribution (pure transfer, not a net change) but Framheim and Little America's rows are removed entirely rather than zeroed out, since the cities no longer exist in canon at all.
+| — | **TOTAL** | | **15,711,071** | **16,315,529** | **32,026,600** | *(unchanged overall — Framheim/Little America's removal is a pure internal redistribution; increased 2026-07-03 by 119,648 for the earlier, separate Palmer City expansion, a genuine net addition)* |
+
+*Note: Kunlun and Dome Fuji remain without population figures — Kunlun's composition is still pending immigration analysis, and Dome Fuji is not tracked as a population center at all (both are established "too high in altitude to be viable" and were deliberately excluded from the Framheim/Little America redistribution). Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section III.*
 
 ### Subnet Totals — Census I
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion — see notes above the city table.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 4,941,288 | 5,113,881 | **10,055,169** |
-| Janbogo / Ross Sea | 3,138,419 | 3,261,183 | **6,399,602** |
+| Janbogo / Ross Sea | 3,703,218 | 3,772,331 | **7,475,549** |
 | Mawson / Indian Ocean | 1,937,584 | 2,030,376 | **3,967,960** |
-| Palmer / Antarctic Peninsula | 2,227,958 | 2,308,558 | **4,536,516** |
-| Mirny / Wilkes Land + Plateau | 2,609,156 | 2,704,045 | **5,313,201** |
-| Byrd / Ross Ice Shelf | 855,540 | 891,723 | **1,747,263** |
+| Palmer / Antarctic Peninsula | 2,231,334 | 2,236,651 | **4,467,985** |
+| Mirny / Wilkes Land + Plateau | 2,709,489 | 2,965,123 | **5,674,612** |
+| Byrd / Ross Ice Shelf | 187,032 | 191,404 | **378,436** |
 | Amundsen / South Pole | 1,126 | 5,763 | **6,889** |
 | **TOTAL** | **15,711,071** | **16,315,529** | **32,026,600** |
 
 ### National Origin Totals — Human Population (Census I)
 
-*Human exile population only. Robot population is distributed in approximate proportion but is not tracked separately by national origin in this registry.*
+*Recalculated 2026-07-03 — the previous version of this table was stale, predating the Lazar redistribution, the Palmer City expansion, and the Framheim/Little America removal/redistribution. Rebuilt from scratch using each city's actual Gini-adjusted nation weights (see `Upper_Earth_Immigration_Composition.md`), applied proportionally against each city's current Census I human population — not the simplified tier-share approximation. Reconciles exactly to the current Census I human total (15,711,071) with zero residual. Human exile population only — robot population is distributed in approximate proportion but is not tracked separately by national origin in this registry.*
 
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| China | 4,095,000 | | Netherlands | 195,000 |
-| USA | 3,022,500 | | Thailand | 156,000 |
-| Japan | 1,267,500 | | Belgium | 124,800 |
-| Germany | 897,000 | | Sweden | 117,000 |
-| France | 682,500 | | Argentina | 117,000 |
-| UK | 624,000 | | Czech Republic | 97,500 |
-| Italy | 526,500 | | Ukraine | 97,500 |
-| South Korea | 507,000 | | Vietnam | 97,500 |
-| Russia | 487,500 | | Philippines | 97,500 |
-| Spain | 390,000 | | Malaysia | 97,500 |
-| Canada | 390,000 | | Romania | 87,750 |
-| Mexico | 351,000 | | Norway | 64,350 |
-| Brazil | 331,500 | | Finland | 64,350 |
-| Indonesia | 312,000 | | South Africa | 58,500 |
-| Australia | 253,500 | | Hungary | 58,500 |
-| Poland | 234,000 | | New Zealand | 50,700 |
-| | | | Chile | 44,850 |
-| | | | Slovakia | 42,900 |
-| | | | Belarus | 29,250 |
-| | | | Croatia | 25,350 |
-| | | | Bulgaria | 23,400 |
-| | | | Serbia | 23,400 |
-| | | | Lithuania | 19,500 |
-| | | | Slovenia | 19,500 |
-| | | | Uruguay | 11,700 |
-| | | | Latvia | 11,700 |
-| | | | Estonia | 11,700 |
-| **TOTAL** | **16,216,200** | | | |
+| USA | 4,619,645 | | Romania | 80,885 |
+| China | 3,283,399 | | South Africa | 73,098 |
+| Japan | 1,252,413 | | Philippines | 70,888 |
+| Germany | 1,182,687 | | Malaysia | 68,308 |
+| UK | 1,015,914 | | Vietnam | 55,846 |
+| France | 599,259 | | Hungary | 49,316 |
+| South Korea | 485,122 | | Chile | 49,035 |
+| Brazil | 366,893 | | Norway | 44,836 |
+| Russia | 333,079 | | New Zealand | 42,548 |
+| Indonesia | 288,697 | | Slovakia | 41,244 |
+| Australia | 255,843 | | Belgium | 32,608 |
+| Canada | 215,721 | | Finland | 31,175 |
+| Poland | 196,295 | | Spain | 31,014 |
+| Netherlands | 130,110 | | Sweden | 27,657 |
+| Argentina | 129,503 | | Belarus | 25,533 |
+| Mexico | 122,709 | | Croatia | 25,292 |
+| Italy | 101,591 | | Bulgaria | 23,333 |
+| Thailand | 90,864 | | Serbia | 22,902 |
+| Ukraine | 87,149 | | Slovenia | 19,998 |
+| Czech Republic | 86,588 | | Lithuania | 18,368 |
+| | | | Estonia | 16,575 |
+| | | | Latvia | 12,455 |
+| | | | Uruguay | 4,676 |
+| **TOTAL** | **15,711,071** | | | |
 
-*Note: Human total (16,216,200) exceeds the census surface total (15,124,904) due to a 2% variation rate applied during final population calibration.*
+*Note: This total matches Census I's official human population exactly (15,711,071) — no variation-rate discrepancy, since it was built by summing each city's actual composition rather than an independent top-down calculation.*
 
 ---
 
@@ -585,7 +572,7 @@ National communities are classified by tier based on long-run population share. 
 | 8 | Janbogo | Janbogo | 490,564 | 467,006 | **957,570** | *(revised 2026-07-03)* |
 | 9 | Mawson | Mawson | 427,321 | 525,125 | **952,446** | |
 | 10 | Zukelli | Janbogo | 443,754 | 493,905 | **937,659** | *(destroyed in Long Night War; revised 2026-07-03)* |
-| 11 | Soyuz | Mawson | 437,854 | 450,438 | **888,292** | *(destroyed in Long Night War)* |
+| 11 | Soyuz | Mawson | 437,854 | 450,438 | **888,292** | |
 | 12 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(ruined; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
@@ -594,28 +581,26 @@ National communities are classified by tier based on long-run population share. 
 | 17 | Bharati_TBD | Mawson | 336,124 | 392,200 | **728,324** | |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Aboa | Halley | 310,791 | 296,650 | **607,441** | |
-| 20 | Framheim | Byrd | 248,865 | 356,088 | **604,953** | |
-| 21 | Little America | Byrd | 304,422 | 251,317 | **555,739** | |
-| 22 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
-| 23 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
-| 24 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
-| 25 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(island cap; revised 2026-07-03 — see note above Census I table)* |
-| 26 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
-| 27 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
-| 28 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
-| 29 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
-| 30 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
-| 31 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
-| 32 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
-| 33 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
-| 34 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
-| — | **TOTAL (Antarctic)** | | **10,730,920** | **11,716,106** | **22,447,026** | *(increased 2026-07-03 by 83,150 — Palmer City expansion, net addition not redistribution)* |
+| 20 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
+| 21 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
+| 22 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
+| 23 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(island cap; revised 2026-07-03 — see note above Census I table; Census II-specific over-cap trim not yet computed, see note below)* |
+| 24 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
+| 25 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
+| 26 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
+| 27 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
+| 28 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
+| 29 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
+| 30 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
+| 31 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
+| 32 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
+| — | **TOTAL (Antarctic)** | | **9,565,644** | **10,469,073** | **20,034,717** | *(decreased 2026-07-03 by 1,160,692 — Framheim/Little America removed entirely, see note below; increased separately by 83,150 for the earlier Palmer City expansion, net addition not redistribution)* |
 
-*Note: Four cities are not included in Census II figures: Byrd (Byrd Subnet), Concordia (Janbogo Subnet), Vostok (Mirny Subnet), Kunlun (Mirny Subnet) — pending immigration composition analysis. Census II grand totals below therefore exclude these four cities.*
+*Note: Framheim and Little America are removed from Census II (and all census figures) entirely — see the Census I table's removal note above for the full real-world justification (1987 Iceberg B-9 calving eliminated their shared site). **The Census I redistribution of their combined population to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — and the Palmer City cap-correction trim — were both computed for Census I only.** Census II figures for those seven cities do not yet reflect any equivalent redistribution; this is a flagged gap, not an oversight to be read as final. Kunlun and Dome Fuji remain without Census II figures for the same reasons given at the Census I table. Byrd, Concordia, and Vostok are also still absent from Census II specifically (their Census I figures are new, but no Census II figures have been computed for them yet).*
 
 ### Antarctic Surface — Subnet Totals (Census II)
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
@@ -624,9 +609,9 @@ National communities are classified by tier based on long-run population share. 
 | Mawson / Indian Ocean | 1,286,498 | 1,447,521 | **2,734,019** |
 | Palmer / Antarctic Peninsula | 1,461,594 | 1,724,720 | **3,186,314** |
 | Mirny / Wilkes Land + Plateau | 1,904,061 | 1,932,745 | **3,836,806** |
-| Byrd / Ross Ice Shelf | 553,287 | 607,405 | **1,160,692** |
+| Byrd / Ross Ice Shelf | 0 | 0 | **0** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
-| **TOTAL (Antarctic)** | **10,730,920** | **11,716,106** | **22,447,026** |
+| **TOTAL (Antarctic)** | **9,565,644** | **10,469,073** | **20,034,717** |
 
 ### Orbital Population (Census II)
 
@@ -659,8 +644,8 @@ The following cities appear in both census records. They did not survive to the 
 **Zukelli** *(Terra Nova Bay, Janbogo Subnet)*
 Destroyed during the Long Night War. At time of destruction, Zukelli's combined population was approximately **1,302,000** — making it the second-largest city in the Federation by Orbital Era figures. Human retention rates immediately before the war were 72.5%; robot retention was 77.7%. Zukelli was not a depleted or declining city. It was near its peak population when it was destroyed.
 
-**Soyuz** *(Larsemann Hills / Prydz Bay, Mawson Subnet)*
-Destroyed during the Long Night War. At time of destruction, Soyuz's combined population was approximately **888,000**. Combined with Zukelli, the two cities represent approximately **2,190,000** people lost to direct destruction — roughly the equivalent of a mid-sized nation.
+**Soyuz** *(Larsemann Hills / Prydz Bay, Mawson Subnet)* — *(corrected 2026-07-03: no longer destroyed)*
+Reclassified 2026-07-03 from "Destroyed" to damaged/partially operational — Soyuz sits at effectively identical real-world coordinates to Zhongshan (a few hundred meters apart), and Zhongshan was already established as damaged, not destroyed; a differing outcome for Soyuz made no physical sense. Resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati). See `Specs/Soyuz.md`. No longer counted in the combined-losses total below.
 
 **Denison** *(Cape Denison, George V Land, Janbogo Subnet)*
 Destroyed during the Long Night War. At time of destruction, Denison's combined population was approximately **734,000** — a mid-tier coastal city founded on Douglas Mawson's 1912 expedition base. Human retention rate immediately before the war was 63.7%; robot retention was 72.8%. Census I figures: 526,521 humans / 546,852 robots.
@@ -668,7 +653,7 @@ Destroyed during the Long Night War. At time of destruction, Denison's combined 
 **Belgrano** *(Confín Coast, Weddell Sea, Halley Subnet)*
 Belgrano survived the Long Night War but became ruined in the subsequent period. Its Orbital Era population was approximately **837,000** combined. The ruins are accessible in DLC 5. Belgrano was among the larger Halley subnet cities before the war, and its ruins represent one of the most significant urban corpses in post-war Tepenia.
 
-**Combined losses (destroyed + ruined):** approximately **3,762,000** — roughly 11.8% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Soyuz (~888,000), Denison (~734,000), and Belgrano ruins (~838,000). *(Flagged 2026-07-03: this total likely undercounts — Cape Adare is confirmed "Destroyed" in `Specs/Cape_Adare.md`, `City_Relationship_Database.md`, and the `Local_Cultures/README.md` tracking table, but its Census II population (~1,050,051) isn't reflected here. Not corrected in this pass — the census math itself wasn't rebuilt — but the total above should be treated as a likely undercount until Cape Adare is folded in. Same undercount now also applies to Princess Elisabeth, finalized 2026-07-03 as destroyed — its Census II population (~766,762) is likewise not reflected in the total above.)*
+**Combined losses (destroyed + ruined):** approximately **2,874,000** *(revised 2026-07-03 — reduced from 3,762,000 by removing Soyuz's ~888,000, now reclassified as damaged/partially operational, not destroyed)* — roughly 9.0% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Denison (~734,000), and Belgrano ruins (~838,000). *(Flagged 2026-07-03: this total likely undercounts — Cape Adare is confirmed "Destroyed" in `Specs/Cape_Adare.md`, `City_Relationship_Database.md`, and the `Local_Cultures/README.md` tracking table, but its Census II population (~1,050,051) isn't reflected here. Not corrected in this pass — the census math itself wasn't rebuilt — but the total above should be treated as a likely undercount until Cape Adare is folded in. Same undercount now also applies to Princess Elisabeth, finalized 2026-07-03 as destroyed — its Census II population (~766,762) is likewise not reflected in the total above.)*
 
 ---
 

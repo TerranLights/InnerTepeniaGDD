@@ -2,11 +2,11 @@
 
 **Based on:** Syowa Station (Japan / Japanese Antarctic Research Expedition — JARE), East Ongul Island, Prince Harald Coast (~69°00'S, 39°35'E)
 **Tepenian city name:** Sayowa — phonetic evolution of "Syowa" (Shōwa, 昭和) into a proper Tepenian city name; official Tepenian spelling
-**Status:** Survived; operational
+**Status:** Damaged; partially operational *(corrected 2026-07-03 from "Survived" — this file was the lone holdout; `City_Relationship_Database.md`, `Overview.md`, and `Station_to_City_Map.md` all already agreed on damaged/partially operational. Consistent with Sayowa's established role as a major highway junction (Hwy 37 to Vostok/Kunlun/Concordia, Hwy 7-ext to the Halley subnet) — a critical infrastructure node significant enough to plausibly be targeted, but too structurally important to the whole continent's connectivity to have been fully destroyed rather than fought over/damaged.)*
 **Arcanet Subnet:** Mawson
-**Highway access:** TBD — East Ongul Island is separated from the mainland; maritime primary; causeway or bridge connection to the mainland Mawson subnet highway network TBD
-**Significance:** Japanese Tepenian city; Japanese Antarctic Research Expedition (JARE) heritage; name derived from "Syowa" (Shōwa) — the Japanese imperial era name for the reign of Emperor Hirohito (1926–1989); the name carries the weight of mid-20th century Japanese history; island position on East Ongul Island gives Sayowa a defined maritime boundary; geographically westernmost city in the Mawson subnet, bridging toward the Halley subnet territory
-**DLC:** Mawson subnet — DLC 4 (Mawson Region); survived and operational
+**Highway access:** Hwy 37 (western terminus → Vostok → Kunlun → Concordia), Hwy 7-ext (eastern terminus ← Princess Elisabeth ← Lazar) — a major highway junction and critical infrastructure node connecting the Mawson subnet to both the Concordia inland route and the Halley subnet
+**Significance:** Japanese Tepenian city; Japanese Antarctic Research Expedition (JARE) heritage; name derived from "Syowa" (Shōwa) — the Japanese imperial era name for the reign of Emperor Hirohito (1926–1989); the name carries the weight of mid-20th century Japanese history; island position on East Ongul Island gives Sayowa a defined maritime boundary; geographically westernmost city in the Mawson subnet, bridging toward the Halley subnet territory; a major highway junction connecting to Vostok, Kunlun, Concordia, and the Halley subnet
+**DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational — critical junction infrastructure, damaged but functioning
 
 ---
 
@@ -14,7 +14,7 @@
 
 Sayowa sits on East Ongul Island, a small island off the Prince Harald Coast in Lützow-Holm Bay. The island position — separated from the Antarctic mainland by Lützow-Holm Bay — gives Sayowa a maritime character distinct from the Mac.Robertson Land coastal cities. The bay is sea-ice covered in winter and accessible by icebreaker in summer.
 
-At longitude 39°35'E, Sayowa is the westernmost city in the Mawson subnet, positioned close to the geographic boundary with the Halley subnet cities in eastern Queen Maud Land. The connection between Sayowa and the nearest Halley subnet city (Princess Elizabeth, at 23°21'E) is the most geographic-adjacent inter-subnet proximity in Tepenia.
+At longitude 39°35'E, Sayowa is the westernmost city in the Mawson subnet, positioned close to the geographic boundary with the Halley subnet cities in eastern Queen Maud Land. The connection between Sayowa and the nearest Halley subnet city (Princess Elisabeth, at 23°21'E — corrected 2026-07-03 from "Princess Elizabeth," matching the established Belgian spelling used throughout the rest of the repo) is the most geographic-adjacent inter-subnet proximity in Tepenia, formalized as the Hwy 7-ext connection.
 
 The "Sayowa" name evolved from the original Japanese station name Syowa (romanization of 昭和, Shōwa) — the Japanese imperial era spanning 1926–1989, a period of extraordinary transformation in Japanese history. In exile, the name carries that history forward in a Tepenian phonetic form.
 
@@ -62,20 +62,21 @@ The Sayowa name evolved phonetically from the station's Shōwa designation — t
 
 Sayowa had the character of a city that was deeply Japanese in a place that offered no compromises. The island position, the sea ice, the cold — all of it was faced with the particular Japanese cultural relationship to endurance and to refined operation under constraint. The JARE institutional tradition, with its emphasis on methodical long-term scientific work, shaped the city's character: thorough, patient, thorough.
 
-The geographic position — westernmost Mawson subnet city, closest to the Halley subnet — gave Sayowa a slightly liminal quality within its own subnet. It was the city that faced west more than east, that had the most geographic relationship to the Halley subnet's eastern cities.
+The geographic position — westernmost Mawson subnet city, closest to the Halley subnet — gave Sayowa a slightly liminal quality within its own subnet. It was the city that faced west more than east, that had the most geographic relationship to the Halley subnet's eastern cities, formalized in the exile era as a genuine highway junction (Hwy 37 toward Vostok/Kunlun/Concordia, Hwy 7-ext toward Princess Elisabeth and Lazar) — Sayowa became critical infrastructure precisely because of the liminal position its geography always gave it.
 
-**Nationally known for:** Being Japanese. The Sayowa name. The island position in Lützow-Holm Bay. The long JARE research heritage. The westernmost Mawson subnet city.
+**Nationally known for:** Being Japanese. The Sayowa name. The island position in Lützow-Holm Bay. The long JARE research heritage. The westernmost Mawson subnet city. Being the critical junction between the Mawson subnet, the inland Concordia route, and the Halley subnet.
 
 ---
 
 ## Economy & Industry
-Scientific research, maritime trade through Lützow-Holm Bay, Mawson subnet western-end logistics. Full detail TBD for DLC 4.
+Scientific research, maritime trade through Lützow-Holm Bay, and — the city's most structurally significant role — Mawson subnet western-end logistics as a major highway junction. Full detail TBD for DLC 4, but the junction role alone likely dominates the post-war economy given how much of the continent's connectivity depends on it.
 
 ---
 
 ## Notable Locations
 - **Lützow-Holm Bay harbor** — the primary maritime entry; sea ice conditions define the seasonal access window
 - **East Ongul Island terrain** — the island geography and the bay it sits in
+- **The Hwy 37 / Hwy 7-ext junction** — the critical infrastructure node itself, damaged but functioning, connecting the Mawson subnet to both Concordia (via Vostok and Kunlun) and the Halley subnet (via Princess Elisabeth and Lazar)
 - Additional locations: TBD for DLC 4
 
 ---
@@ -86,18 +87,27 @@ Scientific research, maritime trade through Lützow-Holm Bay, Mawson subnet west
 ---
 
 ## Connection to Concordia
-Mawson subnet. The Japanese exile community's Tepenia presence is concentrated here; any Concordia knowledge of Japanese Tepenian culture traces through Sayowa.
+Mawson subnet. The Japanese exile community's Tepenia presence is concentrated here; any Concordia knowledge of Japanese Tepenian culture traces through Sayowa. More directly than most Mawson subnet cities, Sayowa's Hwy 37 connection is a literal physical link toward Concordia itself via Vostok and Kunlun — not just a cultural transmission line but critical infrastructure.
+
+---
+
+## Current Status / Damage
+
+*(Established 2026-07-03 — resolved as a middle ground between conflicting sources; see Status field above.)*
+
+Sayowa was damaged during the Long Night War but remains partially operational — consistent with its role as a critical, high-value highway junction significant enough to plausibly be targeted, but too structurally important to the whole continent's connectivity (Mawson subnet ↔ Concordia ↔ Halley subnet) to have been fully destroyed rather than fought over and kept marginally functional. Exact extent of the damage to the junction infrastructure itself is TBD for DLC 4 design, and could plausibly connect to similar contested-infrastructure stakes as Troll Airfield's situation in the Halley subnet.
 
 ---
 
 ## Legacy
-Sayowa's legacy is the JARE tradition extended across exile — one of the most methodical and persistent scientific programs in Tepenia, now re-rooted in a community rather than a research mission.
+Sayowa's legacy is dual: the JARE tradition extended across exile — one of the most methodical and persistent scientific programs in Tepenia, now re-rooted in a community rather than a research mission — and, layered on top of that scientific inheritance, the city's eventual role as one of the most structurally critical pieces of infrastructure in post-war Tepenia, a junction the whole continent's connectivity plausibly depends on.
 
 ---
 
 ## Open Questions
 - **The Sayowa name's meaning in exile** — generations removed from the specific Japanese imperial era the name references, what does "Sayowa" mean to current residents?
-- **The inter-subnet proximity** — Sayowa's geographic closeness to the Halley subnet's eastern cities; was there any pre-war relationship between Sayowa and Princess Elizabeth or similar?
+- **The inter-subnet proximity** — Sayowa's geographic closeness to the Halley subnet's eastern cities; was there any pre-war relationship between Sayowa and Princess Elisabeth or similar?
+- **The junction's post-war control** — who controls or maintains the Hwy 37/Hwy 7-ext junction today, and does this connect to any larger DLC 4 or DLC 5 contested-infrastructure storyline?
 - **Island connection to mainland** — causeway, bridge, or maritime only?
 - **Demonym** — TBD; "Sayowans"?
 - **Notable figures** — TBD

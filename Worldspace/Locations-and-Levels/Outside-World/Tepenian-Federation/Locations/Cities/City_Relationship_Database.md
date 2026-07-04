@@ -15,7 +15,7 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 
 | Hwy # | Name | Nickname | Route Summary | Notes |
 |---|---|---|---|---|
-| **1** | Rothera Highway | "Palmer Highway" | Palmer City → Port Lockroy → Rothera → [West Antarctica] → Byrd → Framheim → Little America → Scott → Fort McMurdo | Western loop; only land route connecting the Antarctic Peninsula to the rest of Tepenia |
+| **1** | Rothera Highway | "Palmer Highway" | Marambio → *(causeway/bridge chain across the Seymour Island/Snow Hill Island/James Ross Island group and the Prince Gustav Channel)* → Palmer City → Port Lockroy → Rothera → [West Antarctica] → Byrd | Western loop; only land route connecting the Antarctic Peninsula to the rest of Tepenia. **Corrected 2026-07-03: Hwy 1 begins at Marambio (northern terminus) and ends at Byrd (western terminus) — it never passed through Framheim, Little America, Scott, or Fort McMurdo; that was an error in this file, unrelated to their 2026-07-03 removal from canon. The Byrd↔Janbogo aviation refueling route (a separate, unrelated route — see `Specs/Byrd.md`) still needs its own fix following Framheim/Little America's removal.** |
 | **2** | Dumont Coast Highway | "DCH" | Casey → Dumont d'Urville → Cape Denison | Short coastal route along the Dumont d'Urville Sea |
 | **4** | Mawson-Soyuz Highway | — | Mawson → Bharati → Soyuz | Short Indian Ocean coastal link |
 | **7** | Belgrano Highway | "Atlantic Highway" | Belgrano → Halley → Aboa → Sanay → Troll → Lazar | Atlantic/Queen Maud Land coast spine; **does NOT pass through Neumayer** — Neumayer has a separate unnamed connector road |
@@ -43,7 +43,7 @@ Six subnets, each named after its hub city. **Official names** are the hub city 
 | **Mawson** | Mawson | *(none)* | Mawson, Sayowa, Soyuz, Bharati, Dome Fuji |
 | **Mirny** | Mirny | "Australian" | Mirny, Vostok, Kunlun, Casey, Zhongshan, Davis |
 | **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Zukelli, Cape Adare, Dumont d'Urville, Cape Denison, Concordia |
-| **Byrd** | Byrd | "Pacific" | Byrd, Framheim, Little America |
+| **Byrd** | Byrd | "Pacific" | Byrd *(Framheim and Little America removed from canon 2026-07-03 — see their Specs files; Byrd is now the subnet's only city)* |
 
 **Signy\*:** Shown with a dashed border on the Arcanet map — peripheral/weaker connectivity, due to being on an island (South Orkney Islands) off the main peninsula. Treat as intermittent or lower-bandwidth in lore.
 
@@ -92,14 +92,14 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### [NAME TBD] *(location: Bharati Station)*
-- **Real station:** Bharati Station (India)
+### Japanese Diplomatic Partition (cf. Bharati) — Name TBD
+- **Real station:** Bharati Station (India) — infrastructure only; India's second Antarctic station, never occupied by an Indian exile population per established canon
 - **Region:** Indian Ocean coast
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — resolved consistently alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities; see `Specs/Bharati_TBD.md`)*
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 4 — midpoint
 - **Direct highway neighbors:** Mawson (west), Soyuz (east)
-- **Notes:** India's second Antarctic station; between Mawson and Soyuz on the Hwy 4 coastal link. City name "Bharati" is a placeholder — location confirmed for future development; final name TBD. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Mawson subnet coastal supply line.
+- **Notes:** Founding population resolved 2026-07-03 as Japanese, via a pre-exile diplomatic allocation by the International Court of Diplomacy at Jeju-do (an Upper Earth institution) — a deliberate balancing decision given Korea's existing footholds (Janbogo, Sejong) and China's ubiquitous presence, including immediately adjacent at Zhongshan. Between Mawson and Soyuz on the Hwy 4 coastal link. City's final Japanese name still TBD — working title "Japanese Diplomatic Partition (cf. Bharati)." **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle), as part of the Mawson subnet coastal supply line.
 
 ---
 
@@ -214,13 +214,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### Framheim
-- **Real station:** Framheim Base (Norway — historical expedition)
-- **Region:** Ross Ice Shelf
-- **Status:** Historical site (pre-exile ruins)
-- **Arcanet subnet:** Byrd ("Pacific")
-- **Highways:** Hwy 1 — passes through ✓
-- **Notes:** Roald Amundsen's 1911 South Pole expedition base; on Hwy 1 between Byrd and Scott/McMurdo. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+### Framheim — REMOVED FROM CANON (2026-07-03)
+**No longer a Tepenian city.** Real-world verification found the Bay of Whales (the site Framheim and Little America were both reconstructed near) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Full reasoning and population disposition: `Specs/Framheim.md`. **This breaks both the Hwy 1 land route (Byrd → Framheim → Little America → Scott/Fort McMurdo, listed below) and the established Byrd↔Janbogo aviation refueling route (`Specs/Byrd.md`) — neither has been re-routed yet. Flagged as an urgent open item.**
 
 ---
 
@@ -269,13 +264,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### Little America
-- **Real station:** Little America Base (USA — historical expedition)
-- **Region:** Ross Ice Shelf
-- **Status:** Historical site (pre-exile ruins)
-- **Arcanet subnet:** Byrd ("Pacific")
-- **Highways:** Hwy 1 — passes through ✓
-- **Notes:** Richard Byrd's expedition bases (1929–1958); adjacent to Framheim on the Ross Ice Shelf; on Hwy 1 between Byrd and Scott/McMurdo. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+### Little America — REMOVED FROM CANON (2026-07-03)
+**No longer a Tepenian city.** Same reasoning and consequences as Framheim, above — see `Specs/Little_America.md`.
 
 ---
 
@@ -292,11 +282,11 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ### Marambio
 - **Real station:** Marambio Base (Argentina) ✓
-- **Region:** Antarctic Peninsula — northern tip
+- **Region:** Antarctic Peninsula — northern tip (Seymour Island)
 - **Status:** Destroyed *(corrected 2026-07-03 from "Damaged" — Seymour Island is small and flat, built around one single concentrated strategic asset (the airfield), a single-point-of-failure target unlike Rothera's large, decentralizable Adelaide Island; see `Specs/Marambio.md`)*
 - **Arcanet subnet:** Palmer ("American")
-- **Highways:** Hwy 1 — northern peninsula section
-- **Direct highway neighbors:** Esperanza, Sejong, Juan Carlos (all nearby); Palmer City (south via Hwy 1)
+- **Highways:** Hwy 1 — **northern terminus / origin** *(confirmed 2026-07-03 — previously TBD, pending confirmation Marambio sat on an island; Seymour Island is real-world confirmed, separated from the mainland Peninsula by a tight island chain — Snow Hill Island (across the ~1-mile-wide Picnic Passage) and James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland. A causeway/bridge chain across these narrow gaps connects Marambio to Hwy 1 proper.)*
+- **Direct highway neighbors:** Esperanza, Sejong, Juan Carlos (all nearby); Palmer City (south via Hwy 1, across the causeway/bridge chain)
 - **Notes:** Has a runway in real life — likely a logistics/air transport hub in-game; Argentine station
 
 ---
@@ -350,8 +340,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** Antarctic Peninsula — Anvers Island (64°46'S, 64°03'W)
 - **Status:** Destroyed (Long Night War) — first settled, first destroyed
 - **Arcanet subnet:** Palmer ("American") — **hub city**
-- **Highways:** Hwy 1 — western terminus / origin
-- **Direct highway neighbors:** Port Lockroy (north, Hwy 1), Rothera (south, Hwy 1)
+- **Highways:** Hwy 1 — waypoint *(corrected 2026-07-03 — Palmer City is not Hwy 1's terminus; Marambio is the northern terminus, Byrd the western/southern terminus. Palmer City sits between Marambio and Port Lockroy along the route.)*
+- **Direct highway neighbors:** Marambio (north, via causeway/bridge chain), Port Lockroy (south, Hwy 1)
 - **Notes:** First settled location in Tepenia (June 21, 2564); cultural and entertainment capital; 100 Miles Davis Blvd. is the first official address in Tepenia; most accessible from Upper Earth = first settled AND first heavily targeted; full lore in `Palmer_City.md`
 
 ---
@@ -435,7 +425,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Soyuz
 - **Real station:** Soyuz Station (Russia)
 - **Region:** Indian Ocean coast
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart; differing survival outcomes made no physical sense; resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); see `Specs/Soyuz.md`)*
 - **Arcanet subnet:** Mawson
 - **Highways:** Hwy 4 — eastern terminus
 - **Direct highway neighbors:** Bharati (west, Hwy 4)
@@ -501,7 +491,7 @@ The destruction of Amundsen Station severed all inter-subnet Arcanet connections
 - **The Split Brain is not a malfunction** — the subnets are functioning correctly within their isolation; this is a structural consequence of the relay going dark
 
 ### Geographic Rules
-- **Concordia is the only fully functioning major city.** Byrd survives but is struggling. Most coastal cities were destroyed or severely damaged during the Long Night War — fully destroyed cities include Palmer City, Port Lockroy, Sejong, Juan Carlos, Sanay, Aboa, Soyuz, [NAME TBD — Bharati location], Casey, Denison, Cape Adare, Zukelli, and Amundsen Station. Princess Elisabeth is damaged but partially operational. Damaged but partially operational cities retain some surviving sections or populations. Dome Fuji and Kunlun survived but were never viable population centers.
+- **Concordia is the only fully functioning major city.** Byrd survives but is struggling. Most coastal cities were destroyed or severely damaged during the Long Night War — fully destroyed cities include Palmer City, Marambio, Sejong, Casey, Denison, Cape Adare, Zukelli, and Amundsen Station. Princess Elisabeth is also destroyed (ruins with straggling survivors). Juan Carlos's status is deliberately unresolved (TBD). Damaged but partially operational cities — retaining surviving sections and populations — include Port Lockroy, Sanay, Aboa, Soyuz, the Japanese city (cf. Bharati), Zhongshan, and many others *(list corrected 2026-07-03 — several of these were previously miscategorized as destroyed in this same note)*. Signy is fully survived and untouched. Dome Fuji and Kunlun survived but were never viable population centers.
 - **Palmer City is on the Antarctic Peninsula** — as far from Concordia as any point in Antarctica. Palmer City refugees are rare in Concordia and traveled an exceptionally long way.
 - **Janbogo is partially operational** — key link between Concordia and the outside world. Anything entering or leaving Concordia by ground passes through Janbogo.
 - **Fort McMurdo and Scott are adjacent** on Ross Island — effectively twin cities, not distant settlements.

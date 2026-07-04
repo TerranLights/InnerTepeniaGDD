@@ -65,8 +65,8 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 |---|---|---|---|---|
 | Sayowa | Syowa Station | Japan | Mawson | ~ Damaged / Partially operational |
 | **Mawson** *(subnet hub)* | Mawson Station | Australia | Mawson | ~ Damaged / Partially operational |
-| [NAME TBD] *(location: Bharati Station)* | Bharati Station | India | Mawson | ✗ Destroyed |
-| Soyuz | Soyuz Station | Russia | Mawson | ✗ Destroyed |
+| Japanese Diplomatic Partition *(cf. Bharati; name TBD)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mawson | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
+| Soyuz | Soyuz Station | Russia | Mawson | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Soyuz.md`)* |
 | Zhongshan | Zhongshan Station | Sinian Federation | Mirny ("Australian") | ~ Damaged / Partially operational |
 | Davis | Davis Station | Australia | Mirny ("Australian") | ~ Damaged / Partially operational |
 
@@ -100,10 +100,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 ## Ross Ice Shelf
 *Subnet: Byrd ("Pacific")*
 
-| City | Original Station | Country | Arcanet Subnet | Status |
-|---|---|---|---|---|
-| Framheim | Framheim Base | Norway | Byrd ("Pacific") | † Historical site |
-| Little America | Little America Base | USA | Byrd ("Pacific") | † Historical site |
+**Framheim and Little America were REMOVED from canon 2026-07-03.** Real-world verification found their shared site (the Bay of Whales) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Their combined population was redistributed to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — see `Official_Population_Census.md` and `Specs/Framheim.md` / `Specs/Little_America.md` for full detail. **This also breaks the established Byrd↔Janbogo aviation refueling route (see `Specs/Byrd.md`) — not yet resolved.**
 
 ---
 
@@ -135,6 +132,6 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 - **Dumont d'Urville and Denison** are geographically in the Dumont d'Urville Sea area but are members of the **Janbogo** subnet — not Mirny.
 - **Dome Fuji** is geographically in inland East Antarctica but is in the **Mawson** subnet. Subnets were organized by Arcanet cable routing, not strict geographic proximity.
 - **Signy** (South Orkney Islands) has weak/intermittent Arcanet connectivity — dashed border on the subnet map. Maritime access only; no road connection possible. **Confirmed 2026-07-03: overlooked entirely by Upper Earth targeting** due to its peripheral status — fully survived, untouched by direct war damage, but its robot population faces a real post-war siligel shortage given cut supply lines (humans can sustain themselves on the Scotia Sea's marine resources instead).
-- **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **[NAME TBD] (Bharati Station location)** remains a placeholder — final name TBD.
+- **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **Japanese Diplomatic Partition (Bharati Station location)** — founding population and founding story resolved 2026-07-03 (Japanese, via a pre-exile Jeju-do court allocation); final Japanese proper name still TBD; see `Cities/Specs/Bharati_TBD.md`.
 - **Zukelli** is the confirmed Tepenian city name for Mario Zucchelli Station.
 - **Governmental capital of Tepenia:** TBD — Palmer City was the cultural capital, not the governmental one.

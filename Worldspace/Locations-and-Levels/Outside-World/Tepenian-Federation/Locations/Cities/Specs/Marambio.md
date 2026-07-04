@@ -3,7 +3,7 @@
 **Based on:** Marambio Base (Argentina), Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W)
 **Status:** Destroyed *(confirmed 2026-07-03 — resolved a conflict where `City_Relationship_Database.md`, `Overview.md`, `Station_to_City_Map.md`, and `Local_Cultures/README.md` all said "damaged/surviving," this file alone said "Destroyed." Kept as Destroyed after checking the real terrain: Seymour Island is small and flat, built around one single, concentrated strategic asset — the airfield — unlike Rothera's large, mountainous, decentralizable Adelaide Island. A concentrated single-point-of-failure target, architecturally closer to Palmer City or Sejong's situation than Rothera's. The other four files were the ones that were stale, and have been corrected to match.)*
 **Arcanet Subnet:** Palmer ("American")
-**Highway access:** TBD — Seymour Island is separated from the Peninsula mainland by a narrow strait; road connection to the Peninsula network would require a causeway or bridge; alternatively, maritime and aviation links
+**Highway access:** Confirmed 2026-07-03 — **Marambio is Hwy 1's northern terminus.** Real-world verification confirmed Seymour Island sits in a tight island chain right off the Peninsula's tip — separated from Snow Hill Island by Picnic Passage (a strait only about 1 mile wide), with James Ross Island beyond that and the Prince Gustav Channel crossing to the Trinity Peninsula mainland. A causeway/bridge chain across these narrow gaps connects Marambio directly into Hwy 1, which continues south through Palmer City, Port Lockroy, and Rothera before terminating at Byrd in West Antarctica.
 **Significance:** Argentine Air Force city on Seymour Island; the most significant aviation hub in the Palmer subnet — had the most developed airstrip infrastructure of any Peninsula city; Seymour Island is also one of the richest fossil sites in Antarctica, with Eocene-era fossils including early penguin ancestors; named after Vicecomodoro Gustavo Marambio
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); destroyed — part of the Peninsula's dominant ruin landscape, alongside Palmer City and Sejong
 
@@ -76,7 +76,7 @@ Aviation logistics, paleontological science, whatever the Weddell Sea eastern co
 ## Notable Locations
 - **The Marambio airfield** — the Palmer subnet's primary aviation hub; in ruins, the airfield infrastructure is a defining landscape feature
 - **The Eocene fossil exposures** — the sedimentary rock faces of Seymour Island with their Eocene-era fossil record; in ruins, these continue to exist and are accessible
-- **Herbert Sound crossing** — the connection between Seymour Island and the Peninsula mainland; causeway, bridge, or maritime crossing TBD
+- **The Picnic Passage causeway/bridge chain** — confirmed 2026-07-03 as Hwy 1's actual crossing: Marambio → across Picnic Passage (real-world confirmed ~0.93km/0.58mi wide) to Snow Hill Island → James Ross Island → across the Prince Gustav Channel to the Trinity Peninsula mainland *(corrected from an earlier "Herbert Sound" reference — Herbert Sound is a real but different, unrelated strait, separating Vega Island from James Ross Island, not Seymour Island from the mainland)*
 - Additional locations: TBD for DLC 3
 
 ---
@@ -98,7 +98,7 @@ Marambio's legacy is the fossils and the flights. A city built on 34-million-yea
 
 ## Open Questions
 - **The airfield's post-war state** — more developed than Rothera's runway; what remains?
-- **The Herbert Sound connection** — how was the island connected to the mainland Peninsula network?
+- **The Picnic Passage causeway/bridge chain's post-war state** — confirmed to exist, connecting Marambio to Hwy 1 proper; exact condition after the Long Night War is TBD
 - **Paleontological archive** — do any records of the Seymour Island fossil research survive in the ruins?
 - **Demonym** — TBD
 - **Notable figures** — TBD
