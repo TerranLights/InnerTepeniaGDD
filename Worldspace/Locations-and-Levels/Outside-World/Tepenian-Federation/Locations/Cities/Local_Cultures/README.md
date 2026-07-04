@@ -29,7 +29,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Signy | Surviving |
 | Port Lockroy | Destroyed *(Long Night War)* |
 | Palmer City | Destroyed *(Long Night War — corrected 2026-07-03; was stale/contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed, consistent with its "first settled, first destroyed" identity)* |
-| Rothera | Destroyed *(Long Night War — corrected 2026-07-03, see Rothera.md)* |
+| Rothera | Surviving *(damaged; partially operational — re-corrected 2026-07-03: Palmer subnet's industrial center, decentralized across Adelaide Island, survived the war unlike smaller Peninsula cities despite a smaller population than either; see `Specs/Rothera.md`)* |
 
 ---
 

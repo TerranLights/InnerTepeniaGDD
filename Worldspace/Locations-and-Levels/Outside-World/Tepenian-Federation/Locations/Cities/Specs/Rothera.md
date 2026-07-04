@@ -1,11 +1,19 @@
 # Rothera
 
 **Based on:** Rothera Research Station (UK / British Antarctic Survey), Rothera Point, Adelaide Island, Marguerite Bay, Antarctic Peninsula (~67°34'S, 68°07'W)
-**Status:** Destroyed
+**Status:** Damaged; partially operational *(finalized 2026-07-03 — see Population/Destructibility Note below; resolves a prior 3-vs-2 conflict between this file/README ("Destroyed") and `City_Relationship_Database.md`/`Overview.md`/`Station_to_City_Map.md` ("Damaged") in favor of the latter)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** TBD — Peninsula road network connecting north toward Palmer City and south toward Marguerite Bay coastal area; specifics not yet established
-**Significance:** British Tepenian city on Adelaide Island; one of the largest BAS installations in Antarctic history; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway, in operation from the real-world BAS era); island-positioned city on the west coast of the Peninsula; part of the Palmer subnet, which was the Long Night War's first major target
-**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); Rothera is one of the destroyed cities that forms the ruin landscape of the Peninsula DLC
+**Significance:** British Tepenian city on Adelaide Island; one of the largest BAS installations in Antarctic history; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway, in operation from the real-world BAS era); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself
+**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged but functional — one of the few operational nodes in an otherwise ruin-dominated DLC
+
+---
+
+## Population / Destructibility Note (2026-07-03)
+
+By population, Rothera (318,955 Census I, rank 30th) is actually *smaller* than both Sejong (647,855) and Palmer City (477,970) — two cities that were fully destroyed. Population size alone doesn't explain survival here. What does: Adelaide Island is by far the largest landmass in the Palmer subnet (~120km long, mountainous, peaks over 2,500m) — significantly bigger than Sejong's King George Island or Palmer City's Anvers Island. Rothera's industrial base is genuinely **decentralized** across that much larger landmass — processing sites, mining operations, and distributed facilities spread across dozens of kilometers rather than concentrated in one dense urban core. A concentrated city can be erased in a single strike; an industrial base scattered across 120km of mountainous terrain cannot. That physical decentralization, not population size, is why Rothera survived as damaged-but-functional rather than being wiped out entirely.
+
+**Underground expansion, added same day:** the same abundance of space — both landmass and diameter, room to expand in every direction rather than being boxed in by a small island's limits — also made large-scale underground construction realistic here in a way it wasn't for Palmer City or Sejong. Rothera's industrial development plausibly included genuine subterranean facilities: large excavated chambers functioning as shelters and protected production space, significantly larger in scale than the small, iconic vaults of other post-apocalyptic media (Fallout, etc.) — Tepenia's version of the concept, built at a scale Adelaide Island's size actually supports rather than the compact, single-purpose shelters that genre usually depicts. This gives Rothera a third, compounding layer of resilience beyond decentralization alone: surface damage doesn't necessarily touch what's built underground, and underground production could plausibly continue even when surface facilities are hit. Exact scale, number, and current status of these underground sections are TBD for DLC 3 design, but the premise is now established as part of why Rothera specifically (and not Palmer City or Sejong) survived as damaged-but-functional.
 
 ---
 
@@ -62,8 +70,8 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 
 #### Gameplay Notes
 
-- **Mildest Peninsula climate:** in the context of the Palmer subnet DLC, Rothera's ruins are among the most accessible — the weather is the most forgiving of any southern Tepenian location; the hazards here are structural (ruins) rather than primarily environmental
-- **The runway:** the paved airstrip in the ruins is a distinctive landscape feature; whether it's still usable, what aircraft (if any) are on it, and what the airfield infrastructure looks like in ruin are DLC design questions
+- **Mildest Peninsula climate:** in the context of the Palmer subnet DLC, Rothera is among the most accessible locations — the weather is the most forgiving of any southern Tepenian location; the hazards here are as much about a damaged-but-functioning industrial city (active machinery, structural damage still being worked around) as environmental
+- **The runway:** the paved airstrip remains functional in some capacity; whether it's fully usable, what aircraft (if any) operate from it, and how the surrounding damage affects operations are DLC design questions
 - **Maritime approach:** the DLC 3 player may arrive at Rothera by sea; the Marguerite Bay approach, with Adelaide Island's mountains as a backdrop, is visually striking
 - **Hardcore Mode influences:**
   - Rain and mixed precipitation: ice formation on surfaces after rain events; wet conditions affecting equipment differently than pure snow/cold environments
@@ -85,27 +93,29 @@ The paved runway — inherited from the BAS era — gave Rothera a practical dis
 
 ## Character & Culture
 
-Rothera had the character of a city that knew it was well-positioned. The maritime climate — mild, variable, demanding but not extreme — meant that daily life here was less relentlessly hostile than in the interior cities or even many coastal cities further south. The BAS institutional character, carried by the founding population, gave Rothera a specific pragmatic competence: decades upon decades of accumulated knowledge about how to operate in this environment, how to maintain infrastructure in changeable maritime conditions, how to keep a paved runway functional in Antarctic weather.
+Rothera had the character of a city that knew it was well-positioned. The maritime climate — mild, variable, demanding but not extreme — meant that daily life here was less relentlessly hostile than in the interior cities or even many coastal cities further south. The BAS institutional character, carried by the founding population, gave Rothera a specific pragmatic competence: decades upon decades of accumulated knowledge about how to operate in this environment, how to maintain infrastructure in changeable maritime conditions, how to keep a paved runway functional in Antarctic weather — competence that, after the war, extended directly into keeping the subnet's industrial base running under real damage.
 
-The aviation infrastructure gave Rothera a connectivity that most Peninsula cities lacked. People and goods could move through Rothera in ways that reinforced its role as a node in the Peninsula network.
+The aviation infrastructure gave Rothera a connectivity that most Peninsula cities lacked. People and goods could move through Rothera in ways that reinforced its role as a node in the Peninsula network — but the runway was always secondary to what actually defined the city: Adelaide Island's spread-out industrial capacity, processing raw materials into the finished components the rest of the Palmer subnet, including Palmer City itself, needed to actually build anything.
 
-The British cultural inheritance — distinct from the Norwegian-inflected Halley, the French Dumont d'Urville, the Japanese Dome Fuji — gave Rothera its social texture.
+The British cultural inheritance — distinct from the Norwegian-inflected Halley, the French Dumont d'Urville, the Japanese Dome Fuji — gave Rothera its social texture: practical, industrious, unglamorous relative to Palmer City's spectacle or Marambio's aviation prestige, and quietly proud of being the place that made everyone else's infrastructure possible.
 
-**Nationally known for:** The runway. The mild maritime climate. Being British. Adelaide Island's dramatic mountain backdrop. The Lemaire Channel approach from the north.
+**Nationally known for:** Being where things get made. The runway. The mild maritime climate. Being British. Adelaide Island's dramatic mountain backdrop. The Lemaire Channel approach from the north.
 
 ---
 
 ## Economy & Industry
 
-Rothera's economy was built around its position as a Peninsula hub — maritime trade, aviation logistics, the resources of Adelaide Island and Marguerite Bay, and whatever the BAS institutional inheritance had established as the city's productive base. Full detail TBD for DLC 3 design.
+**Rothera is the Palmer subnet's industrial center** *(established 2026-07-03)* — the site where raw materials actually become finished infrastructure components, used to build and maintain everything from Palmer City's spectacle-driven architecture to the subnet's roads and aviation infrastructure. Adelaide Island's mountainous terrain provides real resource access; maritime trade (plausibly via the same Ushuaia/Punta Arenas Argentina-Chile gateway that founded the subnet's earliest arrivals — see `Upper_Earth_Immigration_Composition.md`) brought in whatever raw material Adelaide Island itself couldn't supply. Unlike a concentrated city, Rothera's industrial base is genuinely decentralized — processing sites and facilities spread across dozens of kilometers of the island rather than one dense urban core, which is precisely what let it survive the Long Night War as damaged-but-functional rather than being wiped out like Palmer City or Sejong. Full detail on specific goods produced, exact facility locations, and current post-war output levels TBD for DLC 3 design.
 
 ---
 
 ## Notable Locations
 
-- **The Bonner airstrip** — the 900m paved runway; in ruins, this is a distinctive and visually unusual landscape feature; whether any aircraft remain on it and what condition the infrastructure is in are DLC design questions
-- **Marguerite Bay harbor** — the maritime entry point to Rothera; in ruins, harbor infrastructure in some form
-- **The Adelaide Island mountain backdrop** — not a city location per se but a defining visual feature; peaks rising to over 2,500m behind the coastal ruins
+- **The Bonner airstrip** — the 900m paved runway; damaged but still in some functional capacity, a distinctive landscape feature; exact condition and current use are DLC design questions
+- **The decentralized industrial sites** — processing and manufacturing facilities spread across Adelaide Island, distinct from the compact Rothera Point settlement; the physical reason the city survived the war rather than being erased outright
+- **The underground vault sections** *(established 2026-07-03)* — large-scale excavated chambers built into Adelaide Island's abundant landmass, functioning as shelters and protected production space; significantly larger in scale than genre-typical small vaults, made possible specifically by the island's size and diameter; a strong candidate for genuinely distinctive DLC 3 level design (surface ruins above, a still-functioning or partially-functioning underground city below)
+- **Marguerite Bay harbor** — the maritime entry point to Rothera; damaged but still in some functional capacity
+- **The Adelaide Island mountain backdrop** — not a city location per se but a defining visual feature; peaks rising to over 2,500m behind the coastal settlement
 - **The Lemaire Channel approach** — the dramatic maritime passage north of Adelaide Island; a likely approach route for any DLC player arriving by sea
 - Additional locations: TBD for DLC 3 design
 
@@ -125,23 +135,25 @@ No substantial Rothera diaspora community is established in Concordia — the Pa
 
 ---
 
-## Current Status / Destruction
+## Current Status / Damage
 
-Destroyed in the Long Night War. The Peninsula was the first major target — the most accessible part of Antarctica, closest to Upper Earth, struck before the war reached the more remote southern and eastern cities. Rothera's destruction was part of that first wave.
+*(Finalized 2026-07-03 — see Population/Destructibility Note above.)* Rothera was hit hard during the Long Night War like the rest of the Peninsula — the first major target, closest and most accessible from Upper Earth. But unlike Palmer City and Sejong, Rothera's decentralized industrial footprint across Adelaide Island's much larger landmass meant the war couldn't erase it in a single strike. Damaged, still functioning, still producing — one of the few operational nodes left in an otherwise ruin-dominated Peninsula.
 
-The ruins occupy Rothera Point on Adelaide Island. The paved runway survives in some form. The island's mountains remain.
+The city occupies Rothera Point on Adelaide Island, with its industrial facilities spread further out across the island. The paved runway survives in some form, as does the island's mountain backdrop.
 
 ---
 
 ## Legacy
 
-Rothera's legacy is its infrastructure — the runway, the BAS institutional knowledge, the demonstration that the Peninsula could support an aviation-capable city in a climate this maritime. In the DLC 3 ruin landscape, Rothera is the site that most concretely represents what the Palmer subnet lost in practical operational terms: not just a community but a logistics capability.
+Rothera's legacy is its infrastructure and its continued function — the runway, the BAS institutional knowledge, the demonstration that the Peninsula could support an aviation-capable, industrially productive city in a climate this maritime. In the DLC 3 landscape, Rothera is the site that most concretely represents what the Palmer subnet still has, in practical operational terms — not the ruin the rest of the Peninsula became, but the place that still makes the Peninsula's continued survival physically possible.
 
 ---
 
 ## Open Questions
 
-- **The runway in ruins** — what is its current state? Are aircraft on it, cannibalized, or absent? Is any portion of it still usable?
+- **The runway's current operational state** — is it fully usable, partially repaired, or limited to certain aircraft? What's actually flying in and out today?
+- **Exactly what Rothera produces** — specific finished goods/infrastructure components, and which subnet cities receive them, TBD for DLC 3 design
+- **The underground vault sections** — how extensive are they, when were they built, are they still inhabited/functional today, and did they play a role in the population sheltering during the actual war? TBD for DLC 3 design
 - **Aviation during the exile era** — what role did Rothera's runway play in Palmer subnet operations before the war? Was it used for Peninsula-internal flights only, or was there trans-Drake Passage aviation connecting to South America?
 - **The Lemaire Channel in the DLC** — the channel approach to Adelaide Island from the north is one of the most visually dramatic maritime passages in Antarctica; whether this features as a DLC entry sequence or navigation element is TBD
 - **British community in Concordia** — any Rothera diaspora alongside the Halley diaspora? TBD
