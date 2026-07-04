@@ -196,7 +196,7 @@ Filtered through Spain's own political history — specifically the transition f
 
 ## 23. Relationship to Other Cities
 
-- **Esperanza, Marambio, Sejong:** Palmer subnet Peninsula cluster neighbors via Hwy 1.
+- **Esperanza, Marambio, Sejong:** Palmer subnet Peninsula cluster neighbors, connected by shipping and aviation routes rather than any highway — *(corrected 2026-07-03: Juan Carlos has no highway access at all; Livingston Island sits 110km across the Bransfield Strait from the mainland and 95.4km from Sejong, both far too wide for any bridge)*.
 - **Sejong specifically:** A genuine structural contrast — both South Shetland Islands cities, but Sejong's dense multinational character versus Juan Carlos's comparative quiet and coherence, a direct study in how the same island cluster produced two very different civic outcomes.
 
 ---

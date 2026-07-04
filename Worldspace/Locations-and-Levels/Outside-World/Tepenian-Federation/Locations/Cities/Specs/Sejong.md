@@ -3,7 +3,7 @@
 **Based on:** King Sejong Station (South Korea / KOPRI), King George Island (Isla 25 de Mayo), South Shetland Islands (~62°13'S, 58°47'W)
 **Status:** Destroyed
 **Arcanet Subnet:** Palmer ("American")
-**Highway access:** TBD — King George Island is separated from the mainland Peninsula; maritime and aviation connections primary; any road network is island-internal
+**Highway access:** Confirmed 2026-07-03 — no highway connection exists, and none is plausible. Real-world verification found King George Island sits 160-177km from the mainland Peninsula and from Marambio's causeway landing point — far too wide for any bridge (contrast Marambio's own 0.93km Picnic Passage crossing). Sejong is maritime/aviation-access only, with an island-internal road network.
 **Significance:** South Korean Tepenian city on King George Island — the most densely settled island in Antarctica, with stations from Argentina, Brazil, Chile, China, Czech Republic, Poland, Russia, South Korea, and Uruguay in the pre-exile era; the most internationally concentrated location in Tepenia's founding period; named after King Sejong the Great, creator of Hangul (the Korean alphabet)
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula)
 

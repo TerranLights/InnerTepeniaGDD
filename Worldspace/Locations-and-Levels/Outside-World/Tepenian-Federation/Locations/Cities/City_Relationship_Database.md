@@ -15,7 +15,7 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 
 | Hwy # | Name | Nickname | Route Summary | Notes |
 |---|---|---|---|---|
-| **1** | Rothera Highway | "Palmer Highway" | Marambio → *(causeway/bridge chain across the Seymour Island/Snow Hill Island/James Ross Island group and the Prince Gustav Channel)* → Palmer City → Port Lockroy → Rothera → [West Antarctica] → Byrd | Western loop; only land route connecting the Antarctic Peninsula to the rest of Tepenia. **Corrected 2026-07-03: Hwy 1 begins at Marambio (northern terminus) and ends at Byrd (western terminus) — it never passed through Framheim, Little America, Scott, or Fort McMurdo; that was an error in this file, unrelated to their 2026-07-03 removal from canon. The Byrd↔Janbogo aviation refueling route (a separate, unrelated route — see `Specs/Byrd.md`) still needs its own fix following Framheim/Little America's removal.** |
+| **1** | Rothera Highway | "Palmer Highway" | Marambio → *(causeway/bridge chain across the Seymour Island/Snow Hill Island/James Ross Island group and the Prince Gustav Channel)* → Esperanza → Palmer City → Port Lockroy → Rothera → [West Antarctica] → Byrd | Western loop; only land route connecting the Antarctic Peninsula to the rest of Tepenia. **Corrected 2026-07-03: Hwy 1 begins at Marambio (northern terminus) and ends at Byrd (western terminus) — it never passed through Framheim, Little America, Scott, or Fort McMurdo; that was an error in this file, unrelated to their 2026-07-03 removal from canon. Esperanza added as a waypoint the same day — Hope Bay sits only ~58km from Marambio's mainland causeway landing, genuinely on the route toward Palmer City, unlike Sejong/Juan Carlos's true island isolation (confirmed too far for any bridge). The Byrd↔Janbogo aviation refueling route (a separate, unrelated route — see `Specs/Byrd.md`) still needs its own fix following Framheim/Little America's removal.** |
 | **2** | Dumont Coast Highway | "DCH" | Casey → Dumont d'Urville → Cape Denison | Short coastal route along the Dumont d'Urville Sea |
 | **4** | Mawson-Soyuz Highway | — | Mawson → Bharati → Soyuz | Short Indian Ocean coastal link |
 | **7** | Belgrano Highway | "Atlantic Highway" | Belgrano → Halley → Aboa → Sanay → Troll → Lazar | Atlantic/Queen Maud Land coast spine; **does NOT pass through Neumayer** — Neumayer has a separate unnamed connector road |
@@ -84,7 +84,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Belgrano
 - **Real station:** Belgrano Station II (Argentina) ✓
 - **Region:** Weddell Sea coast (Atlantic)
-- **Status:** Damaged; partially operational
+- **Status:** Ruins (DLC 5) *(corrected 2026-07-03 from "Damaged; partially operational" — survived the Long Night War itself but became ruined in the subsequent period, per `Official_Population_Census.md`; distinct from cities destroyed outright during the war)*
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (western terminus)
 - **Direct highway neighbors:** Halley (east, Hwy 7)
@@ -195,10 +195,10 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Esperanza
 - **Real station:** Esperanza Base (Argentina) ✓
 - **Region:** Antarctic Peninsula — northern tip
-- **Status:** Damaged; partially operational
+- **Status:** Destroyed (Long Night War) *(corrected 2026-07-03 — was stale, contradicted 4 other sources including this city's own Specs file)*
 - **Arcanet subnet:** Palmer ("American")
-- **Highways:** Hwy 1 — northern peninsula section
-- **Direct highway neighbors:** Marambio (nearby), Sejong (nearby), Palmer City (south via Hwy 1)
+- **Highways:** Hwy 1 — northern peninsula section, added as a waypoint 2026-07-03 (Marambio → *(causeway)* → Trinity Peninsula mainland → Esperanza → Palmer City → Port Lockroy → Rothera → Byrd); real-world verification confirmed Esperanza (Hope Bay) sits only ~58km from Marambio's mainland causeway landing, genuinely on the way toward Palmer City, unlike Sejong/Juan Carlos's true island isolation
+- **Direct highway neighbors:** Marambio (north, via causeway), Sejong (nearby, no highway — island-isolated), Palmer City (south via Hwy 1)
 - **Notes:** Oldest continuously occupied Antarctic station in real life; historic families; northern peninsula cluster alongside Marambio, Sejong, Juan Carlos
 
 ---
@@ -246,8 +246,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** Antarctic Peninsula — Livingston Island
 - **Status:** TBD *(corrected 2026-07-03 — was stale, contradicted the deliberate TBD resolution in `Specs/Juan_Carlos.md`; genuine unresolved 3-vs-2 conflict, deferred by user choice)*
 - **Arcanet subnet:** Palmer ("American")
-- **Highways:** Hwy 1 — northern peninsula section *(flagged 2026-07-03: this may not be accurate — Hwy 1's actual confirmed route, per the same-day Marambio correction, runs Marambio → Palmer City → Port Lockroy → Rothera → Byrd, and does not appear to pass through Livingston Island's South Shetlands cluster at all; not resolved in this pass, worth checking)*
-- **Direct highway neighbors:** Peninsula cluster (Esperanza, Marambio, Sejong nearby)
+- **Highways:** None — corrected 2026-07-03, resolving the flag from the same day's Marambio correction. Real-world verification confirmed Livingston Island sits 110km across the Bransfield Strait from the mainland Peninsula and 95.4km from Sejong on King George Island, both far too wide for any causeway/bridge (contrast Marambio's 0.93km Picnic Passage crossing). Juan Carlos has no highway connection at all — maritime/aviation access only.
+- **Direct highway neighbors:** None (no highway access) — Esperanza, Marambio, and Sejong remain nearby Peninsula-cluster neighbors culturally and by shipping/aviation route, just not by road
 - **Notes:** Spanish station, Livingston Island; northern peninsula cluster
 
 ---
@@ -286,7 +286,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Status:** Destroyed *(corrected 2026-07-03 from "Damaged" — Seymour Island is small and flat, built around one single concentrated strategic asset (the airfield), a single-point-of-failure target unlike Rothera's large, decentralizable Adelaide Island; see `Specs/Marambio.md`)*
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — **northern terminus / origin** *(confirmed 2026-07-03 — previously TBD, pending confirmation Marambio sat on an island; Seymour Island is real-world confirmed, separated from the mainland Peninsula by a tight island chain — Snow Hill Island (across the ~1-mile-wide Picnic Passage) and James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland. A causeway/bridge chain across these narrow gaps connects Marambio to Hwy 1 proper.)*
-- **Direct highway neighbors:** Esperanza, Sejong, Juan Carlos (all nearby); Palmer City (south via Hwy 1, across the causeway/bridge chain)
+- **Direct highway neighbors:** Sejong, Juan Carlos (nearby, no highway — island-isolated); Esperanza (south via Hwy 1, across the causeway/bridge chain — added as a waypoint 2026-07-03)
 - **Notes:** Has a runway in real life — likely a logistics/air transport hub in-game; Argentine station
 
 ---
@@ -340,8 +340,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** Antarctic Peninsula — Anvers Island (64°46'S, 64°03'W)
 - **Status:** Destroyed (Long Night War) — first settled, first destroyed
 - **Arcanet subnet:** Palmer ("American") — **hub city**
-- **Highways:** Hwy 1 — waypoint *(corrected 2026-07-03 — Palmer City is not Hwy 1's terminus; Marambio is the northern terminus, Byrd the western/southern terminus. Palmer City sits between Marambio and Port Lockroy along the route.)*
-- **Direct highway neighbors:** Marambio (north, via causeway/bridge chain), Port Lockroy (south, Hwy 1)
+- **Highways:** Hwy 1 — waypoint *(corrected 2026-07-03 — Palmer City is not Hwy 1's terminus; Marambio is the northern terminus, Byrd the western/southern terminus. Palmer City sits between Esperanza and Port Lockroy along the route, added the same day.)*
+- **Direct highway neighbors:** Esperanza (north, Hwy 1), Port Lockroy (south, Hwy 1)
 - **Notes:** First settled location in Tepenia (June 21, 2564); cultural and entertainment capital; 100 Miles Davis Blvd. is the first official address in Tepenia; most accessible from Upper Earth = first settled AND first heavily targeted; full lore in `Palmer_City.md`
 
 ---
@@ -406,8 +406,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** Antarctic Peninsula — King George Island
 - **Status:** Destroyed (Long Night War)
 - **Arcanet subnet:** Palmer ("American")
-- **Highways:** Hwy 1 — northern peninsula section
-- **Direct highway neighbors:** Peninsula cluster (Esperanza, Marambio, Juan Carlos nearby)
+- **Highways:** None — corrected 2026-07-03, same issue as Juan Carlos. Real-world verification confirmed King George Island sits 160-177km from the mainland Peninsula and from Marambio's causeway landing — far too wide for any bridge, same order of magnitude as Juan Carlos's isolation. `Specs/Sejong.md` already correctly said "TBD — maritime and aviation connections primary."
+- **Direct highway neighbors:** None (no highway access) — Esperanza, Marambio, and Juan Carlos remain nearby Peninsula-cluster neighbors culturally and by shipping/aviation route, just not by road
 - **Notes:** Unified Korea's Antarctic presence alongside Janbogo; named after King Sejong the Great (Hangul alphabet creator); King George Island = slightly off the peninsula proper
 
 ---

@@ -140,7 +140,7 @@ Performative and spectacle-driven, drawing from the full breadth of representent
 ## 15. Division of Industry
 
 - Entertainment / hospitality: 35% — the city's clearly central industry
-- Commercial / trade: 20% — subnet hub role, Hwy 1 western terminus
+- Commercial / trade: 20% — subnet hub role, key Hwy 1 waypoint
 - Cultural institutions / arts: 15%
 - Technical / scientific: 10% — inherited Palmer Station research tradition
 - Marine / resource extraction: 10%
@@ -199,7 +199,7 @@ The most direct of any Tepenian city — the actual arrival point, the place whe
 
 ## 23. Relationship to Other Cities
 
-- **Port Lockroy (north, Hwy 1) and Rothera (south, Hwy 1):** Direct highway neighbors; Palmer City is the western terminus/origin point of Hwy 1 and the Palmer subnet hub.
+- **Esperanza (north, Hwy 1) and Port Lockroy (south, Hwy 1):** Direct highway neighbors *(corrected 2026-07-03 — Palmer City is a key waypoint on Hwy 1, not its terminus; Marambio is the northern terminus, Byrd the western terminus, with Esperanza added as a waypoint between them)*; Palmer City remains the Palmer subnet hub regardless.
 - **Belgrano and Byrd (founding-era link, established 2026-07-03):** Palmer City shipped historical accounts, transport manifests, and maps to help sharpen the Byrd Expedition's heading, alongside a parallel contribution from Rothera — a real founding-era connection spanning three different DLCs (Palmer City here, Belgrano in DLC 5, Byrd in DLC 2).
 - **Every other Tepenian city, indirectly:** as the arrival point for the entire exodus, Palmer City's founding touches every later-settled city's own history.
 

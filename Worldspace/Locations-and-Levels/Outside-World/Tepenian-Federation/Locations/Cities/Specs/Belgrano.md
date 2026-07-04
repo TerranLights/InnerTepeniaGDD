@@ -1,11 +1,11 @@
 # Belgrano
 
 **Based on:** Belgrano II Base (Argentina), Coats Land coast / Weddell Sea sector, Queen Maud Land (~77°52'S, 34°38'W)
-**Status:** Destroyed
+**Status:** Ruins (DLC 5) *(corrected 2026-07-03 — this header was stale, plain "Destroyed"; the established, correct nuance per `Official_Population_Census.md` is that Belgrano survived the Long Night War itself but became ruined in the subsequent period, distinct from cities destroyed outright during the war)*
 **Arcanet Subnet:** Halley ("Atlantic")
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Belgrano at the western end of the Halley subnet highway corridor; Weddell Sea coastal position)
 **Significance:** Argentine Tepenian city and southernmost major city in the Halley subnet; Argentine Air Force base heritage; one of the few Tepenian cities with confirmed runway infrastructure; deep Weddell Sea position puts it further south than most Halley subnet cities; named after Manuel Belgrano, Argentine independence general and creator of the Argentine flag; maps recovered from Belgrano ruins contributed to the founding expedition that located Byrd Station (Byrd subnet — cross-subnet historical significance)
-**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); Destroyed city, ruins accessible
+**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); survived the war, ruined afterward — ruins accessible in DLC 5
 
 ---
 
