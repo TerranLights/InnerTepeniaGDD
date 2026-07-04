@@ -4,7 +4,7 @@
 
 **Subnet:** Palmer ("American") — peripheral, dashed Arcanet boundary
 **Status:** Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — the most isolated city in Tepenia, overlooked entirely by Upper Earth's targeting due to sheer remoteness. But the war still reached it indirectly: cut supply lines have left its robot population facing a real siligel shortage, even though the human population can sustain itself indefinitely on the Scotia Sea's marine resources. A strong candidate DLC 3 questline — the untouched city that still needs the player's help.)*
-**Census Population:** 93,951 humans / 96,398 robots / 190,349 combined (Census I, rank 32nd); 53,928 humans / 79,827 robots / 133,755 combined (Census II, rank 32nd)
+**Census Population:** 93,951 humans / 96,398 robots / 190,349 combined (Census I, rank 33rd, *corrected 2026-07-03*); 53,928 humans / 79,827 robots / 133,755 combined (Census II, rank 30th, *corrected 2026-07-03*)
 **Location:** Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W)
 
 **One-liner:** *A city with no road to anywhere, whose isolation was always the point — untouched by the war that devastated everything around it, yet still starving its own robots of the one thing isolation can't provide.*

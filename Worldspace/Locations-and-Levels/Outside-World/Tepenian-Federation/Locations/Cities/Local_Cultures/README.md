@@ -107,7 +107,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 
 | City | Status |
 |------|--------|
-| Amundsen Station | Surviving |
+| Amundsen Station | Destroyed *(corrected 2026-07-03 — was stale; every other source, including this station's own Specs file, already agreed on Destroyed — now a scrap mountain, the most significant ruins in Tepenia, DLC 1 setting)* |
 
 ---
 
@@ -115,6 +115,6 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 
 - **Destroyed cities** (Zukelli) are included because their cultures existed pre-Long Night War and are relevant to diaspora communities in surviving cities. *(Soyuz was reclassified 2026-07-03 from destroyed to damaged/partially operational — its own cultural sheet was already written present-tense per the general methodology below, so no rewrite was needed for that reason, but its status-specific framing was updated.)*
 - **Belgrano** is in ruins by the time of Inner Tepenia's main game events but is accessible and inhabited in DLC 5; its culture is partially preserved as ruin culture.
-- **Concordia** is the primary setting of Inner Tepenia and the largest surviving city in the post-Long Night War period. Its culture spec sheet is among the most critical in this directory.
+- **Concordia** is the primary setting of Inner Tepenia and the largest surviving city in the post-Long Night War period. *No cultural spec sheet exists for it yet* — deliberately deferred, since Concordia's post-war refugee-melting-pot character makes it a fundamentally different (and likely more involved) case than any single-founding-population city in this directory; whenever it is written, it will be among the most critical.
 - **Amundsen Station** is an edge case — its "culture" is primarily operational and robotic rather than civic. Include if relevant.
-- **Population data** for Byrd, Concordia, Vostok, and Kunlun is pending immigration composition analysis. Census figures for these cities are TBD. Denison's Census I and Census II figures are now complete (see `Official_Population_Census.md`).
+- **Population data**, corrected 2026-07-03: Byrd, Concordia, and Vostok all received their first-ever population figures this session, via the Framheim/Little America redistribution (see `Official_Population_Census.md`) — no longer pending. **Kunlun alone** remains without population data, still pending immigration composition analysis. Denison's Census I and Census II figures are complete (see `Official_Population_Census.md`).

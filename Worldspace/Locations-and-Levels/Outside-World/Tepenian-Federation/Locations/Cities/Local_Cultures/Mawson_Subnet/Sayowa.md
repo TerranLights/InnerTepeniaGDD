@@ -4,7 +4,7 @@
 
 **Subnet:** Mawson — westernmost city, bridging toward the Halley subnet
 **Status:** Damaged; partially operational — a critical highway junction, damaged but functioning, whose survival is as much about continental connectivity as about the city itself
-**Census Population:** 123,656 humans / 132,444 robots / 256,100 combined (Census I, rank 31st); 85,199 humans / 79,758 robots / 164,957 combined (Census II, rank 31st)
+**Census Population:** 93,656 humans / 132,444 robots / 226,100 combined (Census I, rank 32nd — *revised 2026-07-03*: 30,000 humans redistributed to Vostok; see `Official_Population_Census.md`); 85,199 humans / 79,758 robots / 164,957 combined (Census II, rank 29th, *corrected 2026-07-03* — unaffected by the Census I redistribution)
 **Location:** East Ongul Island, Lützow-Holm Bay, Prince Harald Coast (~69°00'S, 39°35'E)
 
 **One-liner:** *A city whose name carries the weight of an entire Japanese imperial era, sitting at the one point where the Mawson subnet, the road to Concordia, and the Halley subnet all physically meet — small in population, disproportionately vital in what runs through it.*
@@ -58,7 +58,7 @@ Polar night (~46 days) and midnight sun (~47 days) at this East Antarctic latitu
 Sayowa's civic identity rests on a genuine duality: a small, deeply Japanese community carrying an unusually weighty historical name, occupying a position that turned out to be the single most geographically significant junction point in all of Tepenia — where the Mawson subnet, the inland route to Concordia, and the Halley subnet all physically converge.
 
 - **a. Founding tension** — Japan founded the city and gave it its historically-weighted name, later diluted to Significant tier by the same China-Primary demographic pattern seen across the whole subnet — a standard tension, secondary to the city's structural significance as critical connective infrastructure.
-- **b. Fault lines** — Between Sayowa's small, intimate population (rank 31st of ~34, one of the smallest Mawson subnet cities) and its outsized structural importance to the whole continent's connectivity — a gap between size and significance no other Mawson subnet city has to reconcile.
+- **b. Fault lines** — Between Sayowa's small, intimate population (rank 32nd of ~35, one of the smallest Mawson subnet cities) and its outsized structural importance to the whole continent's connectivity — a gap between size and significance no other Mawson subnet city has to reconcile.
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status (at the time this culture is described):** Active, populated, functioning — destroyed later, in the Long Night War
-**Census Population:** 318,175 humans / 329,680 robots / 647,855 combined (Census I, rank 22nd); 234,304 humans / 279,766 robots / 514,070 combined (Census II, rank 21st)
+**Census Population:** 318,175 humans / 329,680 robots / 647,855 combined (Census I, rank 21st, *corrected 2026-07-03*); 234,304 humans / 279,766 robots / 514,070 combined (Census II, rank 20th, *corrected 2026-07-03*)
 **Location:** King George Island, South Shetland Islands (~62°13'S, 58°47'W)
 
 **One-liner:** *The Korean settlement on Antarctica's single most crowded island — a city that knew exactly what made it Korean because a dozen other nationalities were living close enough to compare notes.*

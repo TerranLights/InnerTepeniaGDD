@@ -2,10 +2,10 @@
 
 **Based on:** Zhongshan Station (China / Chinese National Antarctic Research Expedition — CHINARE), Prydz Bay, Larsemann Hills area (~69°22'S, 76°22'E)
 **Status:** Damaged; partially operational
-**Arcanet Subnet:** Mawson
-**Highway access:** TBD — Larsemann Hills cluster; part of the Prydz Bay group with Soyuz and the former-Bharati location; Mawson subnet eastern road network
-**Significance:** Sinian Federation Tepenian city in the Mawson subnet; one of the Sinian Federation's two Tepenian cities (the other being Kunlun in the Mirny subnet); named after Sun Yat-sen — "Zhongshan" was Sun Yat-sen's courtesy name and is a major honorific in Chinese political culture; Chinese National Antarctic Research Expedition (CHINARE) heritage; one of the three Larsemann Hills cluster cities
-**DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational
+**Arcanet Subnet:** Mirny ("Australian") *(corrected 2026-07-03 — this file previously said "Mawson," conflicting with `Official_Population_Census.md` and `City_Relationship_Database.md`, both of which agree on Mirny; geographically part of the same Larsemann Hills cluster as Soyuz and the Japanese city (cf. Bharati), both Mawson subnet, but organized into a different Arcanet subnet by cable routing rather than strict geographic proximity — the same pattern as Dome Fuji/Kunlun's own subnet assignments)*
+**Highway access:** TBD — Larsemann Hills cluster; part of the Prydz Bay group with Soyuz and the Japanese city (cf. Bharati); Mirny subnet coastal road network
+**Significance:** Sinian Federation Tepenian city, now confirmed Mirny subnet (same subnet as Kunlun); Sinian/Chinese-founded but with a broadly multinational overall composition — distinct from Kunlun, Tepenia's only *exclusively* Sinian city *(clarified 2026-07-03 — see `Specs/Kunlun.md`)*; named after Sun Yat-sen — "Zhongshan" was Sun Yat-sen's courtesy name and is a major honorific in Chinese political culture; Chinese National Antarctic Research Expedition (CHINARE) heritage; one of the three Larsemann Hills cluster cities (geographically alongside two Mawson subnet cities, despite its own Mirny subnet membership)
+**DLC:** Mirny subnet *(corrected 2026-07-03, see above)*; damaged but partially operational
 
 ---
 
@@ -32,7 +32,7 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 
 **Settled:** Post-Falkland Treaty, on Zhongshan Station infrastructure. CHINARE has operated Zhongshan Station since 1989. The Chinese Antarctic Research Expedition's institutional heritage — and the significantly expanded Chinese Antarctic investment of the 2000s-2030s — gave the founding exile community substantial infrastructure to build on.
 
-**Founding population:** Sinian Federation (formerly Chinese) exiles. Zhongshan is one of the Sinian Federation's two Tepenian cities: Zhongshan (Mawson subnet) and Kunlun (Mirny subnet). The Sinian Federation's Antarctic presence spans two subnets and two very different environments — the dense coastal cluster of Prydz Bay and the extreme high-altitude interior of Dome A.
+**Founding population:** Sinian Federation (formerly Chinese) exiles, though Zhongshan's overall population is broadly multinational rather than exclusively Sinian *(clarified 2026-07-03)*. Zhongshan and Kunlun are both Sinian-founded cities, both now confirmed Mirny subnet — but they represent two very different environments and two very different demographic outcomes: the dense, multinational coastal cluster of Prydz Bay (Zhongshan) versus the extreme high-altitude, exclusively-Sinian interior of Dome A (Kunlun).
 
 ---
 

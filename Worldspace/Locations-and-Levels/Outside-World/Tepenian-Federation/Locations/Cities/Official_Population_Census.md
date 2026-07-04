@@ -504,49 +504,53 @@ National communities are classified by tier based on long-run population share. 
 
 ### Subnet Totals — Census I
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. Mawson and Mirny further corrected here, same day — this table was never updated after the later Sayowa→Vostok 30,000-human redistribution, which moves 30,000 from Mawson subnet's total to Mirny subnet's.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 4,941,288 | 5,113,881 | **10,055,169** |
 | Janbogo / Ross Sea | 3,703,218 | 3,772,331 | **7,475,549** |
-| Mawson / Indian Ocean | 1,937,584 | 2,030,376 | **3,967,960** |
+| Mawson / Indian Ocean | 1,907,584 | 2,030,376 | **3,937,960** |
 | Palmer / Antarctic Peninsula | 2,231,334 | 2,236,651 | **4,467,985** |
-| Mirny / Wilkes Land + Plateau | 2,709,489 | 2,965,123 | **5,674,612** |
+| Mirny / Wilkes Land + Plateau | 2,739,489 | 2,965,123 | **5,704,612** |
 | Byrd / Ross Ice Shelf | 187,032 | 191,404 | **378,436** |
 | Amundsen / South Pole | 1,126 | 5,763 | **6,889** |
 | **TOTAL** | **15,711,071** | **16,315,529** | **32,026,600** |
 
 ### National Origin Totals — Human Population (Census I)
 
-*Recalculated 2026-07-03 — the previous version of this table was stale, predating the Lazar redistribution, the Palmer City expansion, and the Framheim/Little America removal/redistribution. Rebuilt from scratch using each city's actual Gini-adjusted nation weights (see `Upper_Earth_Immigration_Composition.md`), applied proportionally against each city's current Census I human population — not the simplified tier-share approximation. Reconciles exactly to the current Census I human total (15,711,071) with zero residual. Human exile population only — robot population is distributed in approximate proportion but is not tracked separately by national origin in this registry.*
+*Recalculated 2026-07-03 — the previous version of this table was stale, predating the Lazar redistribution, the Palmer City expansion, and the Framheim/Little America removal/redistribution. Rebuilt from scratch using each city's actual Gini-adjusted nation weights (see `Upper_Earth_Immigration_Composition.md`), applied proportionally against each city's current Census I human population — not the simplified tier-share approximation. Human exile population only — robot population is distributed in approximate proportion but is not tracked separately by national origin in this registry.*
+
+*Adjusted again 2026-07-03, same day — the Sayowa→Vostok 30,000-human redistribution moved humans from Sayowa's own China-heavy composition to Vostok's existing (Framheim/Little America-derived) USA/Japan-led profile. Per the user's explicit direction, this and similar future balancing moves are treated as simple numeric transfers adopting the destination city's existing composition, not as carrying the source city's demographic weights along with them — a deliberate simplification, not an oversight. Off by 1 (15,711,072 vs. 15,711,071) due to rounding across 28 affected nations; immaterial.*
 
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 4,619,645 | | Romania | 80,885 |
-| China | 3,283,399 | | South Africa | 73,098 |
-| Japan | 1,252,413 | | Philippines | 70,888 |
-| Germany | 1,182,687 | | Malaysia | 68,308 |
-| UK | 1,015,914 | | Vietnam | 55,846 |
-| France | 599,259 | | Hungary | 49,316 |
-| South Korea | 485,122 | | Chile | 49,035 |
-| Brazil | 366,893 | | Norway | 44,836 |
-| Russia | 333,079 | | New Zealand | 42,548 |
-| Indonesia | 288,697 | | Slovakia | 41,244 |
-| Australia | 255,843 | | Belgium | 32,608 |
-| Canada | 215,721 | | Finland | 31,175 |
-| Poland | 196,295 | | Spain | 31,014 |
-| Netherlands | 130,110 | | Sweden | 27,657 |
-| Argentina | 129,503 | | Belarus | 25,533 |
-| Mexico | 122,709 | | Croatia | 25,292 |
-| Italy | 101,591 | | Bulgaria | 23,333 |
-| Thailand | 90,864 | | Serbia | 22,902 |
-| Ukraine | 87,149 | | Slovenia | 19,998 |
-| Czech Republic | 86,588 | | Lithuania | 18,368 |
-| | | | Estonia | 16,575 |
-| | | | Latvia | 12,455 |
-| | | | Uruguay | 4,676 |
-| **TOTAL** | **15,711,071** | | | |
+| USA | 4,635,150 | | Chile | 49,265 |
+| China | 3,270,784 | | Hungary | 49,136 |
+| Japan | 1,255,010 | | Norway | 44,638 |
+| Germany | 1,179,924 | | New Zealand | 42,808 |
+| UK | 1,013,992 | | Slovakia | 41,112 |
+| France | 597,156 | | Belgium | 32,608 |
+| South Korea | 486,161 | | Finland | 31,175 |
+| Brazil | 366,893 | | Spain | 31,014 |
+| Russia | 333,079 | | Sweden | 27,657 |
+| Indonesia | 289,336 | | Belarus | 25,443 |
+| Australia | 256,362 | | Croatia | 25,214 |
+| Canada | 217,722 | | Bulgaria | 23,261 |
+| Poland | 195,574 | | Serbia | 22,830 |
+| Netherlands | 129,509 | | Slovenia | 19,938 |
+| Argentina | 129,503 | | Lithuania | 18,308 |
+| Mexico | 122,709 | | Estonia | 16,539 |
+| Italy | 101,591 | | Latvia | 12,419 |
+| Thailand | 90,864 | | Uruguay | 4,676 |
+| Ukraine | 86,849 | | | |
+| Czech Republic | 86,288 | | | |
+| Romania | 80,615 | | | |
+| South Africa | 72,918 | | | |
+| Philippines | 70,888 | | | |
+| Malaysia | 68,308 | | | |
+| Vietnam | 55,846 | | | |
+| **TOTAL** | **15,711,072** *(off by 1, rounding)* | | | |
 
 *Note: This total matches Census I's official human population exactly (15,711,071) — no variation-rate discrepancy, since it was built by summing each city's actual composition rather than an independent top-down calculation.*
 

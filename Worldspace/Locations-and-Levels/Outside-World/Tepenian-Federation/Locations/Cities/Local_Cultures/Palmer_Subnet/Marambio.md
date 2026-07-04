@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status (at the time this culture is described):** Active, populated, functioning — destroyed later, in the Long Night War
-**Census Population:** 284,047 humans / 287,440 robots / 571,487 combined (Census I, rank 23rd); 195,623 humans / 234,522 robots / 430,145 combined (Census II, rank 22nd)
+**Census Population:** 284,047 humans / 287,440 robots / 571,487 combined (Census I, rank 22nd, *corrected 2026-07-03*); 195,623 humans / 234,522 robots / 430,145 combined (Census II, rank 21st, *corrected 2026-07-03*)
 **Location:** Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W)
 
 **One-liner:** *A city built on top of 34-million-year-old proof that Antarctica was once warm — whose own single greatest asset, a concentrated airfield on a small, flat island, made it exactly the kind of target that couldn't survive what Rothera did.*

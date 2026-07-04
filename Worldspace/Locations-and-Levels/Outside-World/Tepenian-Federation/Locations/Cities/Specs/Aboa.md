@@ -11,7 +11,7 @@
 
 ## Geographic Basis
 
-Aboa sits on Basen nunatak in the Vestfjella mountains — a range of nunataks and rock outcrops in western Queen Maud Land. The Vestfjella position is further from the Weddell Sea coast than Sanae or Troll, giving Aboa a more interior character. The nunatak foundation provides bedrock stability.
+Aboa sits on Basen nunatak in the Vestfjella mountains — a range of nunataks and rock outcrops in western Queen Maud Land. The Vestfjella position is further from the Weddell Sea coast than Sanay or Troll, giving Aboa a more interior character. The nunatak foundation provides bedrock stability.
 
 The choice to name the city after Turku (Aboa) — Finland's oldest city and historical capital — was an act of cultural memory. Turku was Finland's most important city for centuries before Helsinki; naming an Antarctic exile city after its Latin name is a specific kind of backward-looking pride. The Swedish contribution to the founding makes Aboa genuinely bicultural — Finnish and Swedish identities coexisting in one of Tepenia's smallest cities.
 
@@ -19,7 +19,7 @@ The choice to name the city after Turku (Aboa) — Finland's oldest city and his
 
 **Climate data source:** Finnish Antarctic Research Program (FINNARP) / Swedish Polar Research Secretariat — Aboa Station; seasonal station; limited climate record
 
-**Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanae on average; Vestfjella mountain weather; katabatic influence
+**Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanay on average; Vestfjella mountain weather; katabatic influence
 **Mean annual temperature:** approximately −25°C
 **Temperature range:** coldest months avg −36°C; warmest month avg −8°C
 **Polar night:** approximately May 1 → August 11 (~102 days)

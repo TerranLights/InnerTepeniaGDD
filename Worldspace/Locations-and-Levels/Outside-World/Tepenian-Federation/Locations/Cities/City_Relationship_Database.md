@@ -108,9 +108,9 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** West Antarctica — inland
 - **Status:** Survived — struggling (nature of struggle TBD)
 - **Arcanet subnet:** Byrd ("Pacific") — **hub city**
-- **Highways:** Hwy 1 (passes through), Hwy 22 (western/Amundsen Sea terminus)
-- **Direct highway neighbors:** [Antarctic Peninsula via Hwy 1], [Ross Ice Shelf / Fort McMurdo via Hwy 1], [Hwy 22 junction with Hwy 175 going east]
-- **Notes:** Only surviving city besides Concordia; ~1,530m altitude — lower than Concordia (3,233m); West Antarctic location; DLC centerpiece (storyline TBD); hub of the Byrd ("Pacific") Arcanet subnet; NOT directly connected to Hwy 175 — reach via Hwy 22. Inland, not a port itself — receives its share of New Zealand-sourced raw materials overland via Hwy 1 from the Ross Sea coastal ports (Fort McMurdo, Scott, Framheim, Little America).
+- **Highways:** Hwy 1 (western/southern terminus, from the Antarctic Peninsula side only), Hwy 22 (western/Amundsen Sea terminus) *(corrected 2026-07-03 — Byrd is Hwy 1's terminus, not a pass-through point; the highway does not extend to the Ross Ice Shelf or Fort McMurdo at all, and never did — that claim, plus the supply-chain note below, predates this session's Hwy 1 route correction and referenced the now-removed Framheim/Little America besides)*
+- **Direct highway neighbors:** Rothera (north, via Hwy 1, ultimately connecting to the whole Antarctic Peninsula chain), [Hwy 22 junction with Hwy 175 going east]
+- **Notes:** Only surviving city besides Concordia; ~1,530m altitude — lower than Concordia (3,233m); West Antarctic location; DLC centerpiece (storyline TBD); hub of the Byrd ("Pacific") Arcanet subnet; NOT directly connected to Hwy 175 — reach via Hwy 22. Inland, not a port itself. Its only confirmed overland connection is Hwy 1 to the Antarctic Peninsula (via Rothera); it has no highway connection to the Ross Sea coastal ports at all. Its historical connection to Janbogo/Concordia was via the (now broken) aviation route, not any road — see `Specs/Byrd.md`.
 
 ---
 
@@ -208,8 +208,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** Ross Sea — Ross Island
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
-- **Highways:** Hwy 1 (eastern terminus), Hwy 183
-- **Direct highway neighbors:** Scott (adjacent, Hwy 183), Janbogo (north, Hwy 183), [West Antarctica / Byrd via Hwy 1]
+- **Highways:** Hwy 183 *(corrected 2026-07-03 — the "Hwy 1 eastern terminus" claim was wrong; Hwy 1's confirmed termini are Marambio and Byrd, both on the Antarctic Peninsula/West Antarctic side — it never reaches the Ross Sea side at all)*
+- **Direct highway neighbors:** Scott (adjacent, Hwy 183), Janbogo (north, Hwy 183) — no highway connection to Byrd or West Antarctica; Byrd's only overland connection to the Ross Sea side runs the opposite way, via Hwy 22 → Hwy 175 → Hwy 183
 - **Notes:** Largest Antarctic station in real life → largest pre-war Tepenian city; "Fort" = mining/resource-processing hub + deliberate reference to Fort MacMurray (Alberta, Canada); two-highway junction = major logistics hub; Scott directly adjacent; **does NOT connect to Hwy 37** — that route runs Sayowa→Vostok→Kunlun→Concordia on the East Antarctic plateau. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---

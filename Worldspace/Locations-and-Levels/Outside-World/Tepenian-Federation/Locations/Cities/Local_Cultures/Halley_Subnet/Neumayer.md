@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic")
 **Status:** Damaged; partially operational
-**Census II Population:** 385,071 humans / 445,676 robots / 830,747 combined (rank 14th of ~30)
+**Census II Population:** 385,071 humans / 445,676 robots / 830,747 combined (rank 13th of ~32, *corrected 2026-07-03*)
 **Location:** Ekström Ice Shelf, Queen Maud Land (~70°41'S, 8°16'W)
 
 **One-liner:** *The city that engineered Amundsen Tower without ever touching it — precision instrumentation as a whole civic identity, built on ice that never once stopped moving beneath it.*

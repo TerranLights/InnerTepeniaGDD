@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic")
 **Status:** Damaged; partially operational
-**Census II Population:** 323,650 humans / 348,182 robots / 671,832 combined (rank 17th of ~30)
+**Census II Population:** 323,650 humans / 348,182 robots / 671,832 combined (rank 18th of ~32, *corrected 2026-07-03*)
 **Location:** Jutulsessen nunatak, Queen Maud Land (~72°01'S, 2°32'E)
 
 **One-liner:** *The only runway in the Halley subnet built for the outside world — Norwegian pride in excelling at the cold, now defined less by heritage than by who currently controls the one route in and out.*

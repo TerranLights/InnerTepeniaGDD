@@ -2,8 +2,8 @@
 
 **Based on:** Concordia Station (France / Italy), Dome C, East Antarctic plateau (~75°06'S, 123°20'E)
 **Status:** Survived — last major city; primary game setting
-**Arcanet Subnet:** Mirny ("Australian")
-**Highway access:** Hwy 110 (NE → Casey coast), Hwy 37 (NW → Kunlun → Vostok → Syowa), Hwy 183 (S → Fort McMurdo → Janbogo → Ross Sea cities)
+**Arcanet Subnet:** Janbogo *(corrected 2026-07-03 — this file previously said "Mirny," conflicting with `City_Relationship_Database.md` and `Official_Population_Census.md`, both of which agree on Janbogo)*
+**Highway access:** Hwy 110 (NE → Casey coast), Hwy 37 (NW → Kunlun → Vostok → Sayowa), Hwy 183 (S → Fort McMurdo → Janbogo → Ross Sea cities)
 **Significance:** The last functioning major city in the Tepenian Federation; the only place in Tepenia where survivors from all six subnets coexist
 
 ---
@@ -14,7 +14,7 @@ Concordia sits on the East Antarctic plateau at Dome C — 3,233 meters above se
 
 Its survival was not luck. The Long Night War targeted coastal cities — the ones accessible from Upper Earth by sea or manageable overland routes. Concordia was too far inland, too high, too costly to assault. The city endured because destroying it would have required more logistical investment than Upper Earth was willing to commit.
 
-Three highway exits connect Concordia to the rest of Tepenia: northeast to Casey and the Mirny subnet coast (Hwy 110), northwest across the plateau to Syowa and ultimately the Atlantic coast highway system (Hwy 37), and south to the Ross Sea cities (Hwy 183). The primary mode of surface travel between Concordia and outside points is the Kharkovchanka — a Soviet-designed tracked vehicle adapted for the Antarctic plateau.
+Three highway exits connect Concordia to the rest of Tepenia: northeast to Casey and the Mirny subnet coast (Hwy 110), northwest across the plateau to Sayowa and ultimately the Atlantic coast highway system (Hwy 37), and south to the Ross Sea cities (Hwy 183). The primary mode of surface travel between Concordia and outside points is the Kharkovchanka — a Soviet-designed tracked vehicle adapted for the Antarctic plateau.
 
 At temperatures averaging −54°C annually — reaching −65°C in a typical winter and approaching −84°C at the coldest extremes — open-air habitation is not a viable baseline. It is an exception and a hardship. The vast majority of Concordia is enclosed: insulated dome structures connected by pressurized corridors, heated underground passages, and enclosed transit links that allow residents to live, work, and move between districts without sustained outdoor exposure. The dome-and-corridor architecture is not an amenity of Tepenian city design; it is the survival precondition that makes inhabiting Dome C possible at all.
 

@@ -4,7 +4,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** Damaged; partially operational — the Palmer subnet's industrial center, decentralized across Adelaide Island, survived the Long Night War despite having a smaller population than either Palmer City or Sejong, both of which were destroyed
-**Census Population:** 154,489 humans / 164,466 robots / 318,955 combined (Census I, rank 30th); 121,784 humans / 134,073 robots / 255,857 combined (Census II, rank 29th)
+**Census Population:** 154,489 humans / 164,466 robots / 318,955 combined (Census I, rank 31st, *corrected 2026-07-03*); 121,784 humans / 134,073 robots / 255,857 combined (Census II, rank 27th, *corrected 2026-07-03*)
 **Location:** Adelaide Island, Antarctic Peninsula (~67°34'S, 68°07'W)
 
 **One-liner:** *The Palmer subnet's industrial spine — smaller than the cities it kept standing, and standing itself only because its factories were never in one place to begin with, both across the surface and beneath it.*

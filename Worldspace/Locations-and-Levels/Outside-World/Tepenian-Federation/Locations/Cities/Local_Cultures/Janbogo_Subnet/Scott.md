@@ -4,7 +4,7 @@
 
 **Subnet:** Janbogo
 **Status:** Damaged; partially operational — Fort McMurdo's smaller, more intimate neighbor, three kilometers apart on the same peninsula
-**Census II Population:** 153,382 humans / 160,252 robots / 313,634 combined *(rank ~25th of ~30 — "island cap," Ross Island's size limits growth for both Scott and Fort McMurdo)*
+**Census II Population:** 153,382 humans / 160,252 robots / 313,634 combined *(rank 24th of ~32, corrected 2026-07-03 — "island cap," Ross Island's size limits growth for both Scott and Fort McMurdo)*
 **Location:** Hut Point Peninsula, Ross Island (~77°51'S, 166°46'E), approximately 3km from Fort McMurdo
 
 **One-liner:** *The city that knows exactly whose name it bears and why — New Zealand's founding culture reduced to Notable tier by Census II, yet Scott remains the most personally, ceremonially connected place in all of Tepenia to the man it's named for.*

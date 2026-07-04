@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic") — hub city
 **Status:** Damaged; partially operational — DLC 5 centerpiece
-**Census II Population:** 509,209 humans / 578,860 robots / 1,088,069 combined (rank 4th of ~30)
+**Census II Population:** 509,209 humans / 578,860 robots / 1,088,069 combined (rank 3rd of ~32, *corrected 2026-07-03*)
 **Location:** Brunt Ice Shelf, Coats Land, Weddell Sea (~75°35'S, 26°34'W)
 
 **One-liner:** *The city that never fought the ground moving beneath it — built by British institutional heritage, actually founded by a South African-led exile wave, and demographically inherited by everyone who came after, on ice that has never once stood still.*

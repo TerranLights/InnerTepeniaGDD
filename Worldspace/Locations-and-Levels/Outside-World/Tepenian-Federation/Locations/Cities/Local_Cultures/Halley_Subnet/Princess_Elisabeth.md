@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic")
 **Status:** Destroyed *(Long Night War — finalized 2026-07-03; ruins with straggling survivors, present-tense culture below per confirmed methodology — see `Local_Cultures/README.md`)*
-**Census II Population:** 401,403 humans / 365,359 robots / 766,762 combined (rank 13th of ~30)
+**Census II Population:** 401,403 humans / 365,359 robots / 766,762 combined (rank 15th of ~32, *corrected 2026-07-03*)
 **Location:** Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land (~71°57'S, 23°21'E)
 
 **One-liner:** *The only Halley subnet city with two co-Primary founding populations instead of one — a genuine crossroads between the Atlantic and Indian Ocean immigration currents, built on a Belgian founding philosophy of leaving no mark that ultimately proved to have nothing to fall back on.*

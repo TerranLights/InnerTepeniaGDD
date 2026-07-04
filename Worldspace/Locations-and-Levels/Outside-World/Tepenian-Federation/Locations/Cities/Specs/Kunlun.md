@@ -4,7 +4,7 @@
 **Status:** Survived — extreme altitude; most marginal survival of any Tepenian city
 **Arcanet Subnet:** Mirny ("Australian")
 **Highway access:** None confirmed; ~1,200km+ from the nearest Mirny subnet coastal city; the highest and one of the most isolated locations in Tepenia
-**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation; survived the Long Night War but its current population — if any human population remains — is uncertain; the Sinian Federation's only Antarctic city
+**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation; survived the Long Night War but its current population — if any human population remains — is uncertain; the Sinian Federation's only *exclusively* Sinian city *(clarified 2026-07-03 — Zhongshan is also a genuine Sinian/Chinese-founded city, so "only Sinian city" isn't accurate; Kunlun's real distinction is being the only Tepenian city with a purely, exclusively Sinian population, unlike Zhongshan's broader multinational composition)*
 **DLC:** Mirny subnet — extreme altitude and isolation make it a potential endpoint destination rather than a transit location; whether reachable in gameplay is a major design question
 
 ---
@@ -15,7 +15,7 @@ Dome A — Dome Argus — is the highest point on the Antarctic Ice Sheet, at ap
 
 At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. Whether any human community has survived at Kunlun through the centuries since the exile era is one of the most uncertain facts about any Tepenian city.
 
-The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kunlun as its only Antarctic city, making it the sole representative of one of the largest cultural communities in Tepenia at a location that can barely support a permanent population.
+The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kunlun as its only *exclusively* Sinian Antarctic city *(Zhongshan is also Sinian-founded, but its population is broadly multinational rather than exclusive)*, making it the sole purely Sinian representative of one of the largest cultural communities in Tepenia at a location that can barely support a permanent population.
 
 ### Annual Climate
 
@@ -70,7 +70,7 @@ The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kun
 
 **Settled:** Post-Falkland Treaty, on the Kunlun Station infrastructure — the last major Antarctic station established before the first global war, operational since 2009. By 2564, it was relatively young as Antarctic stations went, but established.
 
-**Founding population:** Sinian (Chinese) exiles — Kunlun is the only Tepenian city with a primarily Sinian founding population, making it the sole outpost of the Sinian Federation's exile community on the Antarctic continent. The founding community arrived with a specific scientific and cultural mission and discovered almost immediately that the altitude was going to be the defining constraint of everything they did.
+**Founding population:** Sinian (Chinese) exiles — Kunlun is the only Tepenian city with an *exclusively* Sinian founding population *(Zhongshan also has a Sinian/Chinese founding-operator heritage, but a broadly multinational overall composition — Kunlun's real distinction is exclusivity, not being the sole Sinian-connected city)*, making it the sole purely-Sinian outpost of the Sinian Federation's exile community on the Antarctic continent. The founding community arrived with a specific scientific and cultural mission and discovered almost immediately that the altitude was going to be the defining constraint of everything they did.
 
 The name was kept.
 
@@ -80,7 +80,7 @@ The name was kept.
 
 Kunlun's culture is the culture of people who chose to live somewhere they could barely live, and who kept choosing it across generations. The altitude effects were known before the founding — the historical record from the 2009 station was available — but the exile community chose this site anyway. What they came for was the science, the isolation, the sky, and perhaps the specific character of a location that demanded everything from its residents.
 
-The Sinian cultural inheritance at Kunlun carries particular weight: it is the only Sinian Tepenian city, making it the custodian of the Sinian exile community's cultural continuity in a way that no other city is for any other community. The pressure of that responsibility, at a location that challenges survival itself, gives Kunlun's cultural character a specific kind of intensity.
+The Sinian cultural inheritance at Kunlun carries particular weight: it is the only *exclusively* Sinian Tepenian city, making it the custodian of a purer, more concentrated strain of Sinian exile cultural continuity than Zhongshan's own more broadly multinational Sinian-founded community can offer. The pressure of that responsibility, at a location that challenges survival itself, gives Kunlun's cultural character a specific kind of intensity.
 
 Whether Kunlun's human population has survived, declined, or been effectively replaced by its robot population over the centuries since the Long Night War is the most significant open question about the city's current state.
 

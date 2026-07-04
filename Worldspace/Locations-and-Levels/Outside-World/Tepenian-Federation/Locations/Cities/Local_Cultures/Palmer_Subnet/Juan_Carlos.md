@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** TBD — genuine unresolved conflict between sources; see `Specs/Juan_Carlos.md` for the full case
-**Census Population:** 191,451 humans / 198,724 robots / 390,175 combined (Census I, rank 28th); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 30th)
+**Census Population:** 191,451 humans / 198,724 robots / 390,175 combined (Census I, rank 27th, *corrected 2026-07-03*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 28th, *corrected 2026-07-03*)
 **Location:** Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
 
 **One-liner:** *The quieter Spanish city on the second-largest South Shetland island — named for the king who oversaw Spain's own transition out of dictatorship, and given, by simple distance from its crowded neighbor, room to become something coherent rather than constantly negotiated.*

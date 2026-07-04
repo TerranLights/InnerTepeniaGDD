@@ -2,10 +2,10 @@
 
 **Based on:** Dome Fuji Station (Japan / JARE), East Antarctic Plateau, near Valkyrie Dome (~77°19'S, 39°42'E)
 **Status:** Survived — altitude-compromised; functioning at reduced capacity
-**Arcanet Subnet:** Halley ("Atlantic")
-**Highway access:** None confirmed; deep interior plateau location with no established road infrastructure; distance from nearest Halley subnet coastal city TBD
+**Arcanet Subnet:** Mawson *(corrected 2026-07-03 — this file previously said "Halley," conflicting with `City_Relationship_Database.md` and `Overview.md`, both of which agree on Mawson — connected via Arcanet cable, not road, despite the geographic distance from the Mawson subnet's coastal cities; subnets were organized by cable routing, not strict geographic proximity)*
+**Highway access:** None confirmed; deep interior plateau location with no established road infrastructure; access likely by Kharkovchanka or air, same as Kunlun
 **Significance:** Japanese Tepenian city on the East Antarctic Plateau; among the highest-elevation cities in Tepenia at approximately 3,810 meters — higher than Concordia (3,233m); the altitude causes physiological impairment for any humans in the founding population and limits the city's human-habitable capacity; survived the Long Night War but functions at reduced capacity due to altitude effects
-**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); interior plateau location; whether reachable in gameplay is TBD
+**DLC:** Mawson subnet *(corrected 2026-07-03, see above)*; interior plateau location; whether reachable in gameplay is TBD
 
 ---
 

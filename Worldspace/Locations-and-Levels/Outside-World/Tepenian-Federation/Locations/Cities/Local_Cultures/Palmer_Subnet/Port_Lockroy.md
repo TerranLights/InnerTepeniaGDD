@@ -4,7 +4,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** Damaged; partially operational — Tepenia's second-smallest city by population, spared not through resilience but through strategic irrelevance, and plausibly through simple misidentification as part of neighboring Palmer City's strike zone
-**Census Population:** 63,856 humans / 66,086 robots / 129,942 combined (Census I, rank 33rd of ~34); 53,703 humans / 42,203 robots / 95,906 combined (Census II, rank 33rd)
+**Census Population:** 63,856 humans / 66,086 robots / 129,942 combined (Census I, rank 34th of ~35, *corrected 2026-07-03*); 53,703 humans / 42,203 robots / 95,906 combined (Census II, rank 31st, *corrected 2026-07-03*)
 **Location:** Goudier Island, Port Lockroy harbor, Wiencke Island, Antarctic Peninsula (~64°49'S, 63°29'W)
 
 **One-liner:** *The city too small and too old to be worth the trouble of destroying — a palimpsest of a place, military base to memorial to living community, that survived the Long Night War the same quiet way it survived every era before it: by simply not mattering enough to erase.*
