@@ -20,7 +20,7 @@ No Indians or people from the South Asian subcontinent (including Pakistan, Bang
 - The founding population is **TBD** — needs to be decided
 - The real-world station name "Bharati" (Sanskrit: goddess of learning, also a name for India) **does not carry forward** into Tepenia in any form
 
-See also: Maitri_TBD.md (Halley subnet) for the same situation with the other Indian Antarctic station.
+See also: `Lazar.md` (Halley subnet) for the same situation with the other Indian Antarctic station — there, the gap was resolved by coalescing with the adjacent, continuously-operated Russian Novolazarevskaya station; no equivalent adjacent-station solution has been identified here yet.
 
 ---
 

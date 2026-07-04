@@ -18,8 +18,8 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 | **1** | Rothera Highway | "Palmer Highway" | Palmer City → Port Lockroy → Rothera → [West Antarctica] → Byrd → Framheim → Little America → Scott → Fort McMurdo | Western loop; only land route connecting the Antarctic Peninsula to the rest of Tepenia |
 | **2** | Dumont Coast Highway | "DCH" | Casey → Dumont d'Urville → Cape Denison | Short coastal route along the Dumont d'Urville Sea |
 | **4** | Mawson-Soyuz Highway | — | Mawson → Bharati → Soyuz | Short Indian Ocean coastal link |
-| **7** | Belgrano Highway | "Atlantic Highway" | Belgrano → Halley → Aboa → Sanay → Troll → Maitri | Atlantic/Queen Maud Land coast spine; **does NOT pass through Neumayer** — Neumayer has a separate unnamed connector road |
-| **7-ext** | Belgrano Highway Extension | — | Maitri → Princess Elisabeth → Sayowa; built **2611–2614** | Extends Hwy 7 eastward from its terminus at Maitri; only highway with confirmed in-world construction dates |
+| **7** | Belgrano Highway | "Atlantic Highway" | Belgrano → Halley → Aboa → Sanay → Troll → Lazar | Atlantic/Queen Maud Land coast spine; **does NOT pass through Neumayer** — Neumayer has a separate unnamed connector road |
+| **7-ext** | Belgrano Highway Extension | — | Lazar → Princess Elisabeth → Sayowa; built **2611–2614** | Extends Hwy 7 eastward from its terminus at Lazar; only highway with confirmed in-world construction dates |
 | **22** | Transcontinental Highway | — | Byrd (Amundsen Sea end) → **South Pole (Amundsen Station)** → [junction with Hwy 175] → [northern bend — junction with Hwy 59] → Zhongshan coast (multi-highway junction with Hwy 110) | Cross-continent spine from West Antarctica to East Antarctic coast; **corrected 2026-07-03 — confirmed against `Reference-Images/Maps/Antarctica_highway_map_by_topology.jpeg`: Hwy 22 DOES pass directly through the South Pole** (the purple route loops through the Amundsen-Scott Station pin). Still does not pass through Sayowa or Mawson. |
 | **37** | Mountain Cut Throughway | — | Sayowa → Vostok → Kunlun → Concordia | East Antarctic **plateau** traverse — not through the Transantarctic Mountains; connects Indian Ocean coast to inland stations and Concordia |
 | **59** | Atlantic Throughway | "Arcanet Line" | Halley (junction with Hwy 7) → [interior] → northern bend of Hwy 22 | **Connector highway, not a city-to-city road** — links Hwy 7 to Hwy 22; also carries the Arcanet cable along its full length; does NOT reach the South Pole or Concordia |
@@ -39,7 +39,7 @@ Six subnets, each named after its hub city. **Official names** are the hub city 
 | Subnet | Hub | Colloquial Nickname | Member Cities |
 |---|---|---|---|
 | **Palmer** | Palmer City | "American" | Palmer City, Rothera, Esperanza, Marambio, Sejong, Juan Carlos, Port Lockroy, Signy* |
-| **Halley** | Halley | "Atlantic" | Halley, Belgrano, Neumayer, Sanay, Troll, Aboa, Maitri, Princess Elisabeth |
+| **Halley** | Halley | "Atlantic" | Halley, Belgrano, Neumayer, Sanay, Troll, Aboa, Lazar, Princess Elisabeth |
 | **Mawson** | Mawson | *(none)* | Mawson, Sayowa, Soyuz, Bharati, Dome Fuji |
 | **Mirny** | Mirny | "Australian" | Mirny, Vostok, Kunlun, Casey, Zhongshan, Davis |
 | **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Zukelli, Cape Adare, Dumont d'Urville, Cape Denison, Concordia |
@@ -62,11 +62,11 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Aboa
 - **Real station:** Aboa Station (Finland)
 - **Region:** Queen Maud Land / King Haakon VII Sea (Atlantic coast)
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — resolved as a middle ground between conflicting sources; see `Specs/Aboa.md`)*
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7
 - **Direct highway neighbors:** Halley (west), Sanay (east)
-- **Notes:** Finnish station; seasonal in real life — smaller settlement than year-round stations; Neumayer is nearby but off Hwy 7 (connector road)
+- **Notes:** Finnish-Swedish joint founding, the only dual-national founding in Tepenia; seasonal in real life — smaller settlement than year-round stations; Neumayer is nearby but off Hwy 7 (connector road)
 
 ---
 
@@ -88,7 +88,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (western terminus)
 - **Direct highway neighbors:** Halley (east, Hwy 7)
-- **Notes:** Western terminus of Hwy 7; Hwy 59 originates at Halley, not Belgrano — Belgrano reaches Hwy 59 via Hwy 7 to Halley; Hwy 7 bears the "Belgrano" name; the Extension (2611–2614) extends east from Maitri, not from Belgrano. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Western terminus of Hwy 7; Hwy 59 originates at Halley, not Belgrano — Belgrano reaches Hwy 59 via Hwy 7 to Halley; Hwy 7 bears the "Belgrano" name; the Extension (2611–2614) extends east from Lazar, not from Belgrano. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -279,14 +279,14 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### [NAME TBD] *(location: Maitri Station)*
-- **Real station:** Maitri Station (India)
+### Lazar *(location: Novolazarevskaya Station / Maitri Station site)*
+- **Real stations:** Novolazarevskaya Station (Russia, continuously operated since 1961) and the adjacent Maitri Station site (India — unoccupied in Tepenia; see canon note in `Specs/Lazar.md`)
 - **Region:** Queen Maud Land / King Haakon VII Sea (Atlantic coast)
-- **Status:** Damaged; partially operational
+- **Status:** Damaged; partially operational *(finalized 2026-07-03: near-coastal position + genuine megacity scale — badly bombed, not destroyed)*
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (eastern terminus), Hwy 7-ext (origin point → Princess Elisabeth → Sayowa)
 - **Direct highway neighbors:** Troll (west, Hwy 7), Princess Elisabeth (east, Hwy 7-ext)
-- **Notes:** Eastern terminus of Hwy 7 proper; origin of the Belgrano Highway Extension (built 2611–2614). City name "Maitri" is a placeholder — location confirmed for development; final name TBD.
+- **Notes:** Eastern terminus of Hwy 7 proper; origin of the Belgrano Highway Extension (built 2611–2614). Name finalized 2026-07-03: founded as two settlements (Russian-run Novolazarevskaya and the non-Indian-repopulated Maitri site) that coalesced into one city, originally called Novolazarevskaya, later phonetically shortened to "Lazar" as USA/Germany/France/Brazil immigration overtook the Russian founding population. See `Specs/Lazar.md`.
 
 ---
 
@@ -370,11 +370,11 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Princess Elisabeth
 - **Real station:** Princess Elisabeth Station (Belgium)
 - **Region:** East Queen Maud Land
-- **Status:** Damaged; partially operational
+- **Status:** Destroyed (Long Night War) *(finalized 2026-07-03 after two earlier revisions the same day — ruins with straggling survivors; see `Specs/Princess_Elisabeth.md`)*
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7-ext (Belgrano Highway Extension) ✓
-- **Direct highway neighbors:** Maitri (west, Hwy 7-ext), Sayowa (east, Hwy 7-ext)
-- **Notes:** Belgian station; on the Belgrano Extension between Maitri and Sayowa; zero-emission design in real life; at the eastern edge of the Halley subnet; natural surroundings provide fortification — partially operational post-Long Night War
+- **Direct highway neighbors:** Lazar (west, Hwy 7-ext), Sayowa (east, Hwy 7-ext)
+- **Notes:** Belgian station; on the Belgrano Extension between Lazar and Sayowa; zero-emission design in real life, but the real station is actually famous for extreme wind exposure (gales to 300 km/h), surviving only via deliberate engineering, not natural shelter; at the eastern edge of the Halley subnet; destroyed in the Long Night War once that engineering failed — ruins with straggling survivors
 
 ---
 
@@ -392,7 +392,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Sanay
 - **Real station:** Sanae IV Station (South Africa)
 - **Region:** Queen Maud Land / King Haakon VII Sea
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — resolved as a middle ground; see `Specs/Sanay.md`)*
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7
 - **Direct highway neighbors:** Aboa (west, Hwy 7), Troll (east, Hwy 7)
@@ -448,7 +448,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** Indian Ocean coast
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mawson
-- **Highways:** Hwy 37 (western terminus → Vostok → Kunlun → Concordia), Hwy 7-ext (eastern terminus ← Princess Elisabeth ← Maitri) ✓
+- **Highways:** Hwy 37 (western terminus → Vostok → Kunlun → Concordia), Hwy 7-ext (eastern terminus ← Princess Elisabeth ← Lazar) ✓
 - **Direct highway neighbors:** Vostok (inland, Hwy 37), Princess Elisabeth (west, Hwy 7-ext)
 - **Notes:** **Major junction city** — two highways converge here from very different directions; Hwy 37 goes inland to Concordia via the plateau; Hwy 7-ext connects westward to the full Atlantic coast highway system; Japanese station; significant Japanese presence in Tepenia alongside Sejong and Janbogo; **Hwy 22 does not pass through Sayowa**. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mawson subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
@@ -460,7 +460,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7
-- **Direct highway neighbors:** Sanay (west, Hwy 7), Maitri (east, Hwy 7)
+- **Direct highway neighbors:** Sanay (west, Hwy 7), Lazar (east, Hwy 7)
 - **Notes:** Norwegian station; has a runway in real life; Queen Maud Land is Norwegian territorial claim
 
 ---
@@ -531,5 +531,5 @@ The destruction of Amundsen Station severed all inter-subnet Arcanet connections
 - **Governmental capital of Tepenia** — which city served as the governmental center? (Palmer City was cultural, not governmental — TBD)
 - **Neumayer connector road** — exact organization, name, and which precise point on Hwy 7 it branches from (between Aboa and Sanay, at nearest safe geographic point — details TBD)
 - ~~**Hwy 22 at Amundsen Station** — does Hwy 22 pass through the South Pole, or does Hwy 175 connect to it at a point away from the South Pole? (confirm against map)~~ **RESOLVED 2026-07-03:** confirmed against `Reference-Images/Maps/Antarctica_highway_map_by_topology.jpeg` — Hwy 22 passes directly through the South Pole/Amundsen Station.
-- **Maitri rename** — city will be renamed in later documents; new name TBD
+- ~~**Maitri rename** — city will be renamed in later documents; new name TBD~~ **RESOLVED 2026-07-03:** finalized as "Lazar" — see `Specs/Lazar.md` for the full two-settlement coalescence founding story.
 - **Hwy 7 order between Belgrano and Aboa** — confirmed: Belgrano → Halley → Aboa; intermediate stops (if any) between Halley and Aboa not yet verified

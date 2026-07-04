@@ -1,11 +1,11 @@
 # Aboa
 
 **Based on:** Aboa Station (Finland / Swedish Polar Research Secretariat joint station), Basen nunatak, Vestfjella mountains, Queen Maud Land (~73°03'S, 13°25'W)
-**Status:** Survived; operational
+**Status:** Damaged; partially operational *(corrected 2026-07-03 — resolved as a middle ground between this file's original "Survived; operational" claim and `City_Relationship_Database.md`/`Local_Cultures/README.md`'s "Destroyed"; neither pure survival nor total destruction, per user direction)*
 **Arcanet Subnet:** Halley ("Atlantic")
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Halley subnet; Aboa on the western coastal section; Vestfjella nunatak position)
-**Significance:** Finnish-Swedish joint Tepenian city — the only joint-national founding in Tepenia among non-unified nations; named "Aboa," the Latin name for the Finnish city of Turku (Finland's historical capital and oldest city); the Swedish polar program (SWEDARP) and Finnish Antarctic Research Program (FINNARP) both contributed to the founding population; located in the Vestfjella mountains in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities but the only surviving dual-national city
-**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); survived and operational
+**Significance:** Finnish-Swedish joint Tepenian city — the only joint-national founding in Tepenia among non-unified nations; named "Aboa," the Latin name for the Finnish city of Turku (Finland's historical capital and oldest city); the Swedish polar program (SWEDARP) and Finnish Antarctic Research Program (FINNARP) both contributed to the founding population; located in the Vestfjella mountains in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities and the only dual-national city to remain even partially inhabited after the war
+**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational
 
 ---
 
@@ -44,7 +44,7 @@ The choice to name the city after Turku (Aboa) — Finland's oldest city and his
 *Polar night ~May 1–Aug 11 (~102 days); midnight sun ~Oct 30–Feb 11 (~104 days)*
 
 #### Gameplay Notes
-- **Small but surviving:** Aboa's small size and operational status in DLC 5 makes it a particular kind of location — not strategically important enough to have been a priority target, still intact, still running with a tight community
+- **Small but holding on:** Aboa's small size and its damaged-but-functional status in DLC 5 makes it a particular kind of location — not strategically important enough to have been a priority target, hit but not erased, still running with a tight, diminished community
 - **Dual-national character:** the Finnish-Swedish coexistence is a social texture visible in the architecture, cultural institutions, and interpersonal dynamics of a small city where two national identities share close quarters
 
 ---
@@ -67,7 +67,7 @@ Aboa had the character of a small city that worked because it had to. The joint 
 
 The city's small size meant everyone knew everyone. The cultural negotiation that Sejong had to do at the city-wide level, Aboa did at the level of individual households and neighborhoods.
 
-**Nationally known for:** Being Finnish-Swedish. The dual founding. The Turku connection (Aboa as a name of memory). Being small and surviving.
+**Nationally known for:** Being Finnish-Swedish. The dual founding. The Turku connection (Aboa as a name of memory). Being small and still standing, even damaged.
 
 ---
 
@@ -89,17 +89,25 @@ Scientific research, whatever the Vestfjella nunatak position offered, internal 
 ---
 
 ## Connection to Concordia
-Halley subnet. Small, survived, not a major Concordia connection point. Whatever cultural ties exist are through the Finnish and Swedish exile diaspora rather than institutional significance.
+Halley subnet. Small, damaged but still standing, not a major Concordia connection point. Whatever cultural ties exist are through the Finnish and Swedish exile diaspora rather than institutional significance.
+
+---
+
+## Current Status / Damage
+
+*(Established 2026-07-03 — resolved as a middle ground between two conflicting sources; see Status field above.)*
+
+Aboa was hit during the Long Night War but not erased — damaged, its population and infrastructure diminished, but a real community persists in what's left. Not strategically valuable enough to be a priority target, but not remote or fortunate enough to be spared entirely either. The exact extent of the damage, which sections remain functional, and how the joint Finnish-Swedish community reorganized itself afterward are TBD for DLC 5 design.
 
 ---
 
 ## Legacy
-Aboa's legacy is the proof that two national communities can share a small city and make it work — not without friction, but functionally, for generations.
+Aboa's legacy is the proof that two national communities can share a small city and make it work — not without friction, and not without the war eventually taking a real toll, but functionally, for generations, and still holding on afterward.
 
 ---
 
 ## Open Questions
 - **The Finnish-Swedish cultural dynamic** — over generations in a small city, how did the two identities evolve? Did they merge, maintain distinction, or develop a third hybrid identity?
-- **Why Aboa survived** — strategic irrelevance? The Vestfjella position? The small size? The joint-national character?
+- **Why Aboa wasn't fully destroyed** — strategic irrelevance? The Vestfjella position? The small size? The joint-national character? And relatedly, what specifically *was* damaged, if not the whole city?
 - **Demonym** — TBD; "Aboans"? something Finnish or Swedish?
 - **Notable figures** — TBD

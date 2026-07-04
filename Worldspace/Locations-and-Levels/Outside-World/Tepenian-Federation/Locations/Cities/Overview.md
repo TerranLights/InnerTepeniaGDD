@@ -50,11 +50,11 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 | City | Original Station | Country | Arcanet Subnet | Status |
 |---|---|---|---|---|
 | Neumayer | Neumayer Station III | Germany | Halley ("Atlantic") | ~ Damaged / Partially operational |
-| Sanay | Sanae IV Station | South Africa | Halley ("Atlantic") | ✗ Destroyed |
+| Sanay | Sanae IV Station | South Africa | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Troll | Troll Base | Norway | Halley ("Atlantic") | ~ Damaged / Partially operational |
-| Aboa | Aboa Station | Finland | Halley ("Atlantic") | ✗ Destroyed |
-| [NAME TBD] *(location: Maitri Station)* | Maitri Station | India | Halley ("Atlantic") | ~ Damaged / Partially operational |
-| Princess Elisabeth | Princess Elisabeth Station | Belgium | Halley ("Atlantic") | ~ Damaged / Partially operational |
+| Aboa | Aboa Station | Finland | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
+| Lazar *(formerly "Maitri" placeholder)* | Novolazarevskaya Station (Russia) + Maitri Station site | Russia / non-Indian | Halley ("Atlantic") | ~ Damaged / Partially operational |
+| Princess Elisabeth | Princess Elisabeth Station | Belgium | Halley ("Atlantic") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged/Partially operational")* |
 
 ---
 
@@ -135,6 +135,6 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 - **Dumont d'Urville and Denison** are geographically in the Dumont d'Urville Sea area but are members of the **Janbogo** subnet — not Mirny.
 - **Dome Fuji** is geographically in inland East Antarctica but is in the **Mawson** subnet. Subnets were organized by Arcanet cable routing, not strict geographic proximity.
 - **Signy** (South Orkney Islands) has weak/intermittent Arcanet connectivity — dashed border on the subnet map. Maritime access only; no road connection possible. Possibly overlooked by Upper Earth targeting due to its peripheral status.
-- **[NAME TBD] (Maitri Station location)** and **[NAME TBD] (Bharati Station location)** — both city locations are confirmed for development; "Maitri" and "Bharati" are placeholder names only. Final names TBD.
+- **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **[NAME TBD] (Bharati Station location)** remains a placeholder — final name TBD.
 - **Zukelli** is the confirmed Tepenian city name for Mario Zucchelli Station.
 - **Governmental capital of Tepenia:** TBD — Palmer City was the cultural capital, not the governmental one.

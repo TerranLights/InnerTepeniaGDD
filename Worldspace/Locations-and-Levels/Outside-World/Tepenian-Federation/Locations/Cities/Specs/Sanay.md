@@ -2,11 +2,11 @@
 
 **Based on:** SANAE IV (South Africa / South African National Antarctic Expedition), Vesleskarvet nunatak, Ahlmannryggen, Queen Maud Land (~71°40'S, 2°51'W)
 **Tepenian city name:** Sanay — phonetic evolution of "SANAE" (South African National Antarctic Expedition acronym) into a proper name; official Tepenian spelling
-**Status:** Survived; operational
+**Status:** Damaged; partially operational *(corrected 2026-07-03 from "Survived; operational" — resolved consistently with `City_Relationship_Database.md`/`Local_Cultures/README.md`'s "Destroyed" as a middle ground, matching Aboa's same-category fix; also a deliberate narrative choice: the user wants multiple Halley subnet cities downgraded from "fully surviving" to "damaged but functional" specifically to raise the stakes of Troll's contested-airfield conflict — a subnet where several communities are struggling makes the question of who controls the one working runway matter far more than if one city were a fully untouched safe haven.)*
 **Arcanet Subnet:** Halley ("Atlantic")
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Halley subnet; nunatak position inland from the ice shelf coast; on the main coastal road network)
-**Significance:** South African Tepenian city; the only major South African presence in Tepenia; South African National Antarctic Expedition (SANAE) heritage; built on Vesleskarvet nunatak — a rocky outcrop that provides bedrock foundation rather than ice shelf; the most structurally stable foundation of any Halley subnet city; one of the few Halley subnet cities that survived the Long Night War intact; the Sør Rondane Mountains visible to the southeast
-**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); survived and operational; one of the functioning nodes in DLC 5
+**Significance:** South African Tepenian city; the only major South African presence in Tepenia; South African National Antarctic Expedition (SANAE) heritage; built on Vesleskarvet nunatak — a rocky outcrop that provides bedrock foundation rather than ice shelf; the most structurally stable foundation of any Halley subnet city, which is why it took real but non-total damage rather than being destroyed outright; the Sør Rondane Mountains visible to the southeast
+**DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — one of several struggling-but-functioning nodes in DLC 5, not a uniquely untouched exception
 
 ---
 
@@ -45,7 +45,7 @@ The position is inland from the coast — the Weddell Sea is accessible but not 
 *Polar night ~May 8–Aug 4 (~88 days); midnight sun ~Nov 7–Feb 4 (~89 days)*
 
 #### Gameplay Notes
-- **The surviving city:** in a DLC landscape of ruins, Sanay is one of the intact communities the player can interact with as a functioning settlement; the contrast between its survival and the destruction of Belgrano and other Halley subnet cities is a narrative and environmental contrast
+- **The resilient city:** in a DLC landscape where nearly every community carries real damage, Sanay's bedrock foundation meant it took the war's toll without being erased — functioning, but visibly scarred, distinct from Belgrano's or Zukelli's total loss without being a pristine exception either
 - **The nunatak vantage:** Vesleskarvet's position above the surrounding ice sheet gives Sanay a commanding view of the ice plateau; the visual environment is distinctively open and elevated
 
 ---
@@ -62,22 +62,22 @@ The city name "Sanay" evolved phonetically from the SANAE acronym — the expedi
 
 ## Character & Culture
 
-Sanay developed the character of a city that survives. The bedrock foundation — an unusual stability in a landscape where everything else was built on ice — gave Sanay a practical resilience that outlasted the Long Night War while nearby cities were destroyed or damaged. Whether that survival was due to the physical resilience of the nunatak position, deliberate defense, or simply not being a strategic target, Sanay is intact when most of its subnet is not.
+Sanay developed the character of a city that endures rather than a city that was spared. The bedrock foundation — an unusual stability in a landscape where everything else was built on ice — gave Sanay real structural resilience against the Long Night War's damage, but it took that damage all the same. Whether it might have fared even worse without the bedrock, or whether some other factor (low strategic value, sheer luck) also played a role, is an open question — what's certain is that Sanay is damaged and still standing, one of several such communities across the subnet rather than a uniquely untouched exception.
 
-The South African cultural heritage — carrying both the country's history and the specific SANAE institutional tradition — gave Sanay a distinctive identity within the Halley subnet. In a subnet with German, Norwegian, Finnish/Swedish, Belgian, and Indian cultural heritages, the South African presence was singular.
+The South African cultural heritage — carrying both the country's history and the specific SANAE institutional tradition — gave Sanay a distinctive identity within the Halley subnet. In a subnet with German, Norwegian, Finnish/Swedish, and other cultural heritages, the South African presence was singular.
 
-**Nationally known for:** Being South African. Surviving. The bedrock foundation when everything else sat on ice. The Vesleskarvet nunatak vantage.
+**Nationally known for:** Being South African. Enduring damage without being erased. The bedrock foundation when everything else sat on ice. The Vesleskarvet nunatak vantage.
 
 ---
 
 ## Economy & Industry
-Scientific research, whatever the Queen Maud Land nunatak position offered, trade within the Halley subnet. Full detail TBD for DLC 5. Post-war, Sanay's survival gives it an outsized economic and social role in a subnet of ruins.
+Scientific research, whatever the Queen Maud Land nunatak position offered, trade within the Halley subnet. Full detail TBD for DLC 5. Post-war, Sanay's continued function gives it a real, if not singular, economic and social role among the subnet's several damaged-but-functioning communities.
 
 ---
 
 ## Notable Locations
 - **The Vesleskarvet nunatak summit** — the highest point of Sanay's terrain; panoramic views of the Queen Maud Land ice plateau
-- **The surviving SANAE infrastructure** — the founding-era South African Antarctic research station, still intact and integrated into the city
+- **The SANAE infrastructure** — the founding-era South African Antarctic research station, damaged but substantially integrated into the city's continued function
 - Additional locations: TBD for DLC 5
 
 ---
@@ -88,18 +88,26 @@ Scientific research, whatever the Queen Maud Land nunatak position offered, trad
 ---
 
 ## Connection to Concordia
-Halley subnet. One of the few functioning Halley subnet cities; more likely than the destroyed cities to have maintained any possible communication lines.
+Halley subnet. One of several still-functioning Halley subnet cities; more likely than the fully destroyed cities to have maintained any possible communication lines, though not uniquely so.
+
+---
+
+## Current Status / Damage
+
+*(Established 2026-07-03 — resolved as a deliberate narrative choice; see Status field above.)*
+
+Sanay was hit during the Long Night War like most of its subnet neighbors, but the bedrock foundation gave it a real structural advantage over the ice-shelf cities — damage without erasure. The city functions today, scarred but standing, one of several such communities across the Halley subnet rather than a singular untouched exception. Exact extent of the damage and how the community has adapted are TBD for DLC 5 design.
 
 ---
 
 ## Legacy
-Sanay's legacy is survival — not dramatic, not celebrated, just the fact of being there when so much else is not.
+Sanay's legacy is endurance — not dramatic, not celebrated, and not unique either, but a real, structurally-grounded resilience that kept the city functioning when it could easily have gone the way of Belgrano or worse.
 
 ---
 
 ## Open Questions
-- **Why did Sanay survive?** — strategic value too low to be a priority target? Nunatak position too difficult to hit? Deliberate defense? Luck? This question shapes Sanay's post-war identity
-- **Sanay's role in the post-war Halley subnet** — as one of the few functioning cities, does Sanay serve as a hub for whatever community remains across the damaged subnet?
+- **The exact extent of Sanay's damage** — which sections took the worst of it, and which held thanks to the bedrock foundation? This question now shapes Sanay's post-war identity more than a simple "did it survive" framing
+- **Sanay's role in the post-war Halley subnet** — as one of several functioning-but-damaged cities, what specific role does Sanay play relative to its neighbors, and how does that interact with the contested control of Troll Airfield?
 - **The South African diaspora in Concordia** — any Sanay-origin people in Concordia?
 - **Demonym** — TBD; "Sanayans"?
 - **Notable figures** — TBD

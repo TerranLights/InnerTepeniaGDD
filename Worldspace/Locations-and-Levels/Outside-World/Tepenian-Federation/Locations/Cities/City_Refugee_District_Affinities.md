@@ -207,19 +207,17 @@ Sisu — the Finnish concept of resilience not as emotional positivity but as th
 
 ---
 
-### Maitri_TBD
-*Halley subnet. Founding population TBD — not Indian. Character pending canon development. QML location, USA T1 by census. The city's cultural primary remains unresolved in current GDD development.*
-
-*Note: Until the founding population of Maitri is established, district affinities are tentative inferences based on QML subnet membership and general character.*
+### Lazar *(formerly Maitri_TBD — founding story finalized 2026-07-03)*
+*Halley subnet. Founded as two coalesced settlements — Russian-run Novolazarevskaya and the non-Indian-repopulated Maitri site — that merged into one city, originally named Novolazarevskaya and later phonetically shortened to Lazar as USA/Germany/France/Brazil immigration overtook the Russian founding population. USA Primary; Germany, France, UK, Russia (founding infrastructure heritage), and Brazil all at Significant tier — an unusually broad, evenly-split Significant tier compared to most Halley subnet cities. Damaged; partially operational (near-coastal megacity, badly bombed but not destroyed in the Long Night War). See `Specs/Lazar.md`.*
 
 **1. Cancer**
-A city whose cultural primary is currently unresolved — both in the GDD and, in a sense, in-world — produces refugees who arrive in Concordia without the strong community anchor that a clearly defined cultural identity provides. Cancer's "No One Left Behind" mandate and its infrastructure for receiving people who don't yet know where they belong makes it the natural first stop. *Effect: Maitri refugees become part of Cancer's long-term population at a higher rate than most other city communities, because Cancer's social structure provides the orientation they need and the exit into other districts often never happens.*
+Lazar's own founding history is literally a story of two separate origins becoming one whole — a Russian-run settlement and a second, initially-unclaimed site, growing together into a single city with a shared identity neither began with. Refugees carrying that same instinct — that disparate pieces can be integrated into something coherent — find a natural match in Cancer's "No One Left Behind" mandate and its infrastructure for receiving people who don't yet have their bearings. *Effect: Lazar refugees integrate into Cancer's long-term population readily, recognizing in Cancer's own social project something close to their home city's own founding logic.*
 
 **2. Aquarius / The Labs**
-QML scientific heritage in general provides a gravitational pull toward Aquarius for the research communities of all Halley subnet cities. Maitri, whatever its specific founding character, would have had a significant scientific population given its QML position.
+QML scientific heritage in general provides a gravitational pull toward Aquarius for the research communities of all Halley subnet cities. Lazar's Novolazarevskaya heritage in particular — a real logistics and research hub, part of the historical DROMLAN air network — gives its refugees a plausible institutional research background.
 
 **3. Taurus**
-The residential stability of Taurus serves as a landing point for refugees who are building community bonds from relative scratch — which is the situation many Maitri refugees find themselves in, given that their city's cultural primary is not strongly developed.
+The residential stability of Taurus serves as a landing point for refugees rebuilding community bonds — fitting for a city that took real, heavy war damage without being destroyed outright, whose refugees are less likely to be starting completely from scratch than genuinely rebuilding what the war interrupted.
 
 ---
 
@@ -385,7 +383,7 @@ The Chinese multigenerational household culture — the specifically Chinese ver
 *Mawson subnet. Founding population TBD — not Indian. Character pending canon development. China T1 likely. Note: Until Bharati's founding population is established, district affinities are tentative.*
 
 **1. Cancer**
-As with Maitri, the unresolved cultural primary means refugees arrive in Concordia without the strong community anchor that clearly defined cultural identity provides. Cancer absorbs them first. *Effect: Bharati refugees stabilize in Cancer at higher rates than most city communities, for the same reasons as Maitri.*
+As with Lazar before its founding story was resolved, Bharati's still-unresolved cultural primary means refugees arrive in Concordia without the strong community anchor that clearly defined cultural identity provides. Cancer absorbs them first. *Effect: Bharati refugees stabilize in Cancer at higher rates than most city communities.*
 
 **2. Aquarius / The Labs**
 Mawson subnet scientific heritage draws research communities toward The Labs regardless of founding nationality.

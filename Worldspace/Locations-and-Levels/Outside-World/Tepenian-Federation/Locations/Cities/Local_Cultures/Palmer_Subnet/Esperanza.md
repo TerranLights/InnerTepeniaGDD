@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status (at the time this culture is described):** Active, populated, functioning — destroyed later, in the Long Night War
-**Census II Population:** 591,358 humans / 794,571 robots / 1,385,929 combined
+**Census II Population:** 502,654 humans / 675,385 robots / 1,178,039 combined *(revised 2026-07-03 — reduced to 85% of its original figure as part of a deliberate population redistribution to Lazar; see `Official_Population_Census.md`. Still substantial — rank moved from 3rd to 2nd overall, since Janbogo and Zukelli were reduced by larger margins.)*
 **Location:** Hope Bay, Trinity Peninsula, Antarctic Peninsula (~63°24'S, 56°59'W)
 
 **One-liner:** *The city built to guard human children of exile — that, over generations, came to be guarded mostly by robots instead.*

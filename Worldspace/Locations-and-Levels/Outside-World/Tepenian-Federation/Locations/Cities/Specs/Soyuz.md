@@ -12,7 +12,7 @@
 
 ## Geographic Basis
 
-Soyuz sits in the Larsemann Hills — a small ice-free area on the Ingrid Christensen Coast of Princess Elizabeth Land, Prydz Bay. The Larsemann Hills are one of Antarctica's rare oasis areas: exposed bedrock, meltwater lakes, and the distinctive character of ice-free coastal terrain. At approximately 34km², the Hills are comparable to the Schirmacher Oasis (the Halley subnet city based at Maitri Station also sits in such an oasis).
+Soyuz sits in the Larsemann Hills — a small ice-free area on the Ingrid Christensen Coast of Princess Elizabeth Land, Prydz Bay. The Larsemann Hills are one of Antarctica's rare oasis areas: exposed bedrock, meltwater lakes, and the distinctive character of ice-free coastal terrain. At approximately 34km², the Hills are comparable to the Schirmacher Oasis (Lazar, the Halley subnet city built on the coalesced Novolazarevskaya/Maitri Station sites, also sits in such an oasis).
 
 Prydz Bay is the Mawson subnet's densest multi-city zone. Three cities occupy the Larsemann Hills and immediate vicinity: Soyuz (Russian-founded, based on Progress Station), Zhongshan (Chinese/Sinian, based on Zhongshan Station at nearly the same coordinates), and the city based on the former Bharati Station location (non-Indian founding population — see Bharati_TBD.md). The density is the closest parallel in the Mawson subnet to King George Island's multinational character in the Palmer subnet.
 

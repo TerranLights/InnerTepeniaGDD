@@ -8,7 +8,8 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - Modified with prefix/suffix: McMurdo → Fort McMurdo
 - Condensed: Mario Zucchelli → **Zukelli** ✓
 - Unchanged: Concordia, Palmer City (Palmer Station → Palmer City)
-- Placeholder — location confirmed, name TBD: [NAME TBD — Maitri Station location], [NAME TBD — Bharati Station location]
+- Resolved: Novolazarevskaya/Maitri Station sites (coalesced twin settlements) → **Lazar** ✓ *(finalized 2026-07-03)*
+- Placeholder — location confirmed, name TBD: [NAME TBD — Bharati Station location]
 
 **Status key:**
 - **Destroyed** — Long Night War (coastal, targeted by Upper Earth militaries)
@@ -52,11 +53,11 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
 | Neumayer Station III | Germany | **Neumayer** ✓ | Damaged; partially operational | Off Hwy 7 main route — possibly harder to target |
-| Sanae IV Station | South Africa | Sanay | Destroyed | South African presence in Tepenia |
+| Sanae IV Station | South Africa | Sanay | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | South African presence in Tepenia |
 | Troll Base | Norway | Troll | Damaged; partially operational | Norwegian station; runway access — logistics value |
-| Aboa Station | Finland | Aboa | Destroyed | Finnish station; seasonal in real life — smaller settlement |
-| Maitri Station | India | **[NAME TBD]** | Damaged; partially operational | Location confirmed for development; "Maitri" is a placeholder — final name TBD; eastern terminus of Hwy 7, origin of Belgrano Extension |
-| Princess Elisabeth Station | Belgium | Princess Elisabeth | Damaged; partially operational | Belgian station; zero-emission design in real life; natural surroundings provide fortification |
+| Aboa Station | Finland | Aboa | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Finnish station; seasonal in real life — smaller settlement |
+| Novolazarevskaya Station + Maitri Station site | Russia / non-Indian | **Lazar** | Damaged; partially operational | Name finalized 2026-07-03 — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); eastern terminus of Hwy 7, origin of Belgrano Extension. See `Specs/Lazar.md`. |
+| Princess Elisabeth Station | Belgium | Princess Elisabeth | Destroyed *(corrected 2026-07-03 from "Damaged")* | Belgian station; zero-emission design in real life, but the real station is actually famous for extreme wind exposure (gales to 300 km/h), surviving only via deliberate engineering, not natural shelter; destroyed once that engineering failed — ruins with straggling survivors |
 
 ---
 
@@ -130,8 +131,8 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 ## Summary Statistics
 
 - **Total stations/sites on map:** ~40
-- **Confirmed destroyed (coastal, Long Night War):** Palmer City, Port Lockroy, Sejong, Juan Carlos, Sanay, Aboa, Soyuz, [NAME TBD — Bharati location], Casey, Denison, Cape Adare, Zukelli, Amundsen Station
-- **Damaged; partially operational (coastal):** Rothera, Esperanza, Marambio, Signy, Belgrano, Halley, Neumayer, Troll, [NAME TBD — Maitri location], Princess Elisabeth, Sayowa, Mawson, Zhongshan, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
+- **Confirmed destroyed (coastal, Long Night War):** Palmer City, Port Lockroy, Sejong, Juan Carlos, Soyuz, [NAME TBD — Bharati location], Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Princess Elisabeth *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*
+- **Damaged; partially operational (coastal):** Rothera, Esperanza, Marambio, Signy, Belgrano, Halley, Neumayer, Troll, Aboa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
 - **Confirmed survived (inland):** Concordia (game setting), Vostok (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)
 - **Historical sites (founding expedition bases; cities built on top):** Framheim, Little America
 - **Confirmed Arcanet subnet hubs:** Palmer City, Halley, Mawson, Mirny, Janbogo, Byrd
@@ -146,7 +147,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **Byrd** — DLC 2 centerpiece; nature of struggle TBD.
 - **Halley** — built on a floating ice shelf; the city literally moved over time. Unique survival character — parts may have drifted, been preserved, or partially sunk.
 - **Zukelli** — confirmed Tepenian city name for Mario Zucchelli Station. Southern terminus of Hwy 183; destroyed.
-- **[NAME TBD — Maitri Station location]** — location confirmed for development in the Halley-subnet Atlantic region; "Maitri" is a placeholder only. Marks the eastern terminus of Hwy 7 proper and the origin point of the Belgrano Highway Extension (built 2611–2614).
+- **Lazar** *(formerly "Maitri" placeholder, finalized 2026-07-03)* — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); marks the eastern terminus of Hwy 7 proper and the origin point of the Belgrano Highway Extension (built 2611–2614). See `Specs/Lazar.md`.
 - **[NAME TBD — Bharati Station location]** — location noted for future development in the Mawson subnet; "Bharati" is a placeholder only. Destroyed during the Long Night War.
 - **Zhongshan** — named after Sun Yat-sen; name retained under the Sinian Federation.
 - **Sayowa** — major highway junction (Hwy 37 × Hwy 7-ext); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.

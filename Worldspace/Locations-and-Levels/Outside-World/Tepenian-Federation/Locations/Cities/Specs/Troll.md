@@ -99,7 +99,7 @@ Troll's legacy is the airfield and what it meant: the Halley subnet's window to 
 ---
 
 ## Open Questions
-- **Who controls the airfield** — the runway is functional, but contested; who currently holds or disputes control of Troll Airfield, on what terms, and whether the player can negotiate access is the central DLC 5 conflict for this city
+- **Who controls the airfield** — the runway is functional, but contested; who currently holds or disputes control of Troll Airfield, on what terms, and whether the player can negotiate access is the central DLC 5 conflict for this city. **Established 2026-07-03:** this is now the working candidate central conflict/"MacGuffin" for the whole DLC 5 storyline, not just this city — see `Storyline/DLC_Overview.md`'s DLC 5 entry. Explicitly tentative pending actual DLC design & development; could remain the main objective or end up an important side-piece once the subnet/storyline is developed further.
 - **Aircraft at Troll** — what aircraft were present at Troll pre-war? Any remaining on the field or in hangars?
 - **St. Roald (Amundsen) veneration at Troll** — does Troll have a specific Tepenian Saints relationship to Amundsen given the Norwegian claim of Queen Maud Land and the Polar Institute heritage?
 - **Demonym** — TBD; "Trollers"? something Norwegian?

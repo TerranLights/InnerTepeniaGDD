@@ -151,14 +151,14 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Halley ("Atlantic")
 **Central location:** TBD (Halley, Belgrano, or another city in the region)
 **Central character:** Salagéa Aparast (confirmed canon)
-**Main storyline:** TBD
+**Main storyline:** TBD — **working anchor established 2026-07-03:** control over Troll Airfield (the only intercontinental-capable runway in the subnet, functional post-war but contested) is the current candidate central conflict/"MacGuffin" for this DLC. Explicitly tentative: full details (who's contesting it, to what ends, faction conditions across the subnet's cities) wait for actual DLC design & development, and further subnet/storyline development could still shift the airfield from the main objective to an important side-piece if something else emerges as the true centerpiece. Still, it's a solid working anchor rather than a blank slate. See `Cities/Specs/Troll.md` and `Cities/Local_Cultures/Halley_Subnet/Troll.md` ("Whoever Holds the Runway").
 **Key lore assets:**
-- Atlantic/Queen Maud Land coast cities: Halley, Belgrano, Neumayer, Sanae, Troll, Aboa, Maitri, Princess Elizabeth, Dome Fuji (road-isolated, inland)
+- Atlantic/Queen Maud Land coast cities: Halley, Belgrano, Neumayer, Sanae, Troll, Aboa, Lazar, Princess Elisabeth, Dome Fuji (road-isolated, inland)
 - Halley — built on a floating ice shelf; the city literally moved over time; unique structural character in all of Tepenia
 - Hwy 59 (Atlantic Throughway / Arcanet Line) originates at Halley — the cable corridor connecting the Atlantic subnet to the inter-subnet relay at the South Pole; damage to Hwy 59 = simultaneous highway disruption and Arcanet disruption
 - Belgrano Highway Extension built 2611–2614 — the only confirmed highway construction event with in-world dates; represents Tepenia actively expanding its infrastructure during peacetime
 - Neumayer — off the main Hwy 7 route; served by a small unnamed connector road; slightly less accessible than other Atlantic coast cities
-- Maitri — eastern terminus of Hwy 7 proper; will be renamed (new name TBD)
+- Lazar (formerly "Maitri" placeholder, finalized 2026-07-03) — eastern terminus of Hwy 7 proper; founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); damaged but partially operational, a near-coastal megacity that took heavy war damage without being destroyed. See `Cities/Specs/Lazar.md`.
 - Belgrano cultural spec sheet complete (`Cities/Local_Cultures/Halley_Subnet/Belgrano.md`) — survived the Long Night War intact, declined into ruin afterward, still inhabited; discipline-without-institution civic character
 - Salagéa Aparast personally knew Griselda Alejandra Chávez (off-world, Deimos; does not appear in-game) during Belgrano's pre-war era — a potential quest hook or narrative reference; see both characters' files
 - **The Byrd Expedition** *(established 2026-07-03)*: Belgrano's founding-era claim to fame — its industrial/airbase capacity built "las Arrastradoras," Tepenia's first native overland vehicles (later shortened to the now-international "Rastra"), crewed all-robot for the crossing that discovered Byrd Station's buried underground city (DLC 2), with supporting historical records shipped in from Palmer City and Rothera (DLC 3). See `Cities/Local_Cultures/Halley_Subnet/Belgrano.md`.

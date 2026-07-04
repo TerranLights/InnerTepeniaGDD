@@ -1,4 +1,4 @@
-# Climate Reference: Maitri_TBD
+# Climate Reference: Lazar *(formerly "Maitri_TBD"; name finalized 2026-07-03)*
 
 **READER status:** Not in BAS READER surface station database
 

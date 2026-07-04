@@ -89,7 +89,7 @@ Three factors combined:
 | Cape Town, South Africa | Queen Maud Land, Weddell Sea | South Africa, European Atlantic nations, Argentina/Brazil via South Atlantic |
 | Christchurch / Lyttelton (NZ) | Ross Sea | New Zealand, USA, Australia, East Asian Pacific route |
 | Hobart / Fremantle (Australia) | East Antarctic Indian Ocean coast | Australia, Japan, Indonesia/SE Asia, China, South Korea |
-| Cape Town → Novo airfield (Russia-operated) | QML interior (Troll, Aboa, Princess Elisabeth, Maitri area) | South Africa, European nations by intercontinental air |
+| Cape Town → Novo airfield (Russia-operated) | QML interior (Troll, Aboa, Princess Elisabeth, Lazar area) | South Africa, European nations by intercontinental air |
 | Punta Arenas → Union Glacier (Chile) | South Pole direct | Chile, Argentina, private air operators |
 
 ---
@@ -104,13 +104,18 @@ Three factors combined:
 
 ### Palmer City *(Anvers Island, ~64°46'S 64°03'W)*
 
+**Deliberately expanded 2026-07-03** to reflect Palmer City's status as Tepenia's most demographically blended city (the "Las Vegas of Tepenia") — every one of the 43 nations in the master Gini-adjusted effective exiles list (see Methodology, above) now has at least a Notable-tier presence here. This is the only Tepenian city with full representation from the entire available immigration pool. The 33 newly-added nations were assigned population shares via an explicit random-percentage method (0.2%–1.8% of Palmer City's pre-expansion total each), not the standard Gini-weight methodology — see `Official_Population_Census.md` and [[project_palmer_city_expansion]] for the full arithmetic and reasoning.
+
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **USA** | 155M Gini-adjusted effective — by far the largest pool in this city's composition; natural break of 3.4× separates USA from next nation |
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Canada** (20M), **Mexico** (18M), **Brazil** (17M) | Atlantic corridor Europeans + Mexico + Brazil; Mexico at 18M is nearly equivalent to Brazil; all 17–46M Gini-adjusted |
 | 3 — Notable | **Argentina** (6M), **Chile** (2.3M), **Uruguay** (0.6M) | Geographic proximity nations — these three set the *founding wave character* of the city well before higher-volume distant nations arrive in volume; Argentina's high Gini drops it to 6M effective |
+| 3 — Notable *(expanded 2026-07-03)* | **Estonia** (6,306 / 4,383), **Czech Republic** (6,127 / 4,258), **Australia** (6,020 / 4,184), **Slovakia** (5,841 / 4,059), **Russia** (5,447 / 3,785), **Thailand** (5,697 / 3,959), **Serbia** (5,267 / 3,661), **Belgium** (5,160 / 3,586), **South Korea** (4,945 / 3,437), **Norway** (4,551 / 3,163), **South Africa** (4,336 / 3,013), **Croatia** (4,372 / 3,038), **China** (4,121 / 2,864), **Slovenia** (3,906 / 2,714), **Romania** (3,870 / 2,690), **Netherlands** (3,440 / 2,391), **Japan** (3,297 / 2,291), **Poland** (3,189 / 2,216), **New Zealand** (3,046 / 2,117), **Philippines** (3,691 / 2,565), **Bulgaria** (2,795 / 1,942), **Vietnam** (2,616 / 1,818), **Spain** (2,401 / 1,668), **Latvia** (2,186 / 1,519), **Sweden** (2,078 / 1,444), **Belarus** (1,971 / 1,370), **Indonesia** (1,720 / 1,195), **Finland** (1,469 / 1,021), **Ukraine** (1,577 / 1,096), **Lithuania** (1,254 / 872), **Malaysia** (1,111 / 772), **Italy** (4,802 / 3,337), **Hungary** (1,039 / 722) | Figures shown as Census I / Census II head counts, not Gini-weights (these 33 nations were added via random-percentage assignment, not the standard weighting methodology) |
 
 *Founding note: Argentina, Chile, and Uruguay arrive first by proximity. Their cultural stamp on Palmer City is disproportionate to their long-run Gini-adjusted share.*
+
+*Blended-city note: with all 43 master-list nations present, Palmer City's culture should read as genuinely cosmopolitan in a way no other Tepenian city is — the American/European/founding-Southern-Cone core still sets the dominant character, but the sheer breadth of smaller communities (Eastern Europe, East Asia, Southeast Asia, Oceania, South Africa) gives it a background texture unlike anywhere else in the Federation.*
 
 ---
 
@@ -270,15 +275,48 @@ Three factors combined:
 
 ---
 
-### Maitri_TBD *(Schirmacher Oasis, ~70°46'S 11°44'E — non-Indian founding population)*
+### Lazar *(formerly "Maitri_TBD"; Schirmacher Oasis, ~70°46'S 11°44'E — name finalized 2026-07-03. Founded as two coalesced settlements: Russian-run Novolazarevskaya and the non-Indian-repopulated Maitri site, originally named Novolazarevskaya, later phonetically shortened to Lazar as demographics shifted. See `Specs/Lazar.md`.)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **USA** | 155M Gini-adjusted effective |
-| 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Brazil** (17M) | Russia at 25M: Novolazarevskaya co-located at this exact site, giving Russia infrastructure advantage; Russia's founding wave character at Maitri is the most justified of any Halley subnet city; Germany leads European cluster |
-| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of Maitri's UTC+1); Russia's T2 position reflects co-located Novolazarevskaya infrastructure; SA gateway but T3 by Gini |
+| 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Brazil** (17M) | Russia at 25M: Novolazarevskaya co-located at this exact site, giving Russia infrastructure advantage; Russia's founding wave character at Lazar is the most justified of any Halley subnet city; Germany leads European cluster |
+| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of Lazar's UTC+1); Russia's T2 position reflects co-located Novolazarevskaya infrastructure; SA gateway but T3 by Gini |
 
-*Key note: Russia holds a uniquely justified secondary position at Maitri_TBD — Novolazarevskaya co-location and Novo airfield operator role. Russia's T2 position is supported by both operator heritage and 25M Gini-adjusted effective.*
+*Key note: Russia holds a uniquely justified secondary position at Lazar — Novolazarevskaya co-location and Novo airfield operator role. Russia's T2 position is supported by both operator heritage and 25M Gini-adjusted effective.*
+
+#### Per-Nation Population Breakdown *(added 2026-07-03, post-redistribution)*
+
+Lazar's actual city population, distributed proportionally across the Gini-adjusted effective weights above (total weight = 375.7M). Applied directly to Lazar's post-redistribution Census I (2,646,068 combined) and Census II (1,803,977 combined) totals — see `Official_Population_Census.md` and [[project_lazar_population_rebalancing]] for how those totals were derived.
+
+| Tier | Nation | Weight | Census I | Census II |
+|------|--------|--------|----------|-----------|
+| Primary | USA | 155M | 1,091,670 | 744,257 |
+| Significant | Germany | 46M | 323,979 | 220,876 |
+| Significant | France | 35M | 246,506 | 168,058 |
+| Significant | UK | 32M | 225,377 | 153,653 |
+| Significant | Russia *(founding infrastructure heritage)* | 25M | 176,076 | 120,042 |
+| Significant | Brazil | 17M | 119,732 | 81,628 |
+| Notable | Poland | 12M | 84,516 | 57,620 |
+| Notable | Netherlands | 10M | 70,430 | 48,017 |
+| Notable | Argentina | 6M | 42,258 | 28,810 |
+| Notable | Czech Republic | 5M | 35,215 | 24,008 |
+| Notable | Ukraine | 5M | 35,215 | 24,008 |
+| Notable | Romania | 4.5M | 31,694 | 21,607 |
+| Notable | Norway | 3.3M | 23,242 | 15,845 |
+| Notable | Finland | 3.3M | 23,242 | 15,845 |
+| Notable | Hungary | 3M | 21,129 | 14,405 |
+| Notable | South Africa | 3M | 21,129 | 14,405 |
+| Notable | Slovakia | 2.2M | 15,495 | 10,564 |
+| Notable | Belarus | 1.5M | 10,565 | 7,202 |
+| Notable | Croatia | 1.3M | 9,156 | 6,242 |
+| Notable | Bulgaria | 1.2M | 8,452 | 5,762 |
+| Notable | Serbia | 1.2M | 8,452 | 5,762 |
+| Notable | Lithuania | 1M | 7,043 | 4,802 |
+| Notable | Slovenia | 1M | 7,043 | 4,802 |
+| Notable | Latvia | 0.6M | 4,226 | 2,881 |
+| Notable | Estonia | 0.6M | 4,226 | 2,881 |
+| — | **TOTAL** | 375.7M | **2,646,068** | **1,803,982** *(5 off from 1,803,977 due to per-nation rounding; immaterial)* |
 
 ---
 
@@ -653,7 +691,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 19 | **Mirny** | Mirny | 790,000 | 790,000 | **1,579,000** |
 | 20 | **Marambio** | Palmer | 751,000 | 751,000 | **1,502,000** |
 | 21 | **Troll** | Halley | 750,000 | 750,000 | **1,501,000** |
-| 22 | **Maitri_TBD** | Halley | 660,000 | 660,000 | **1,321,000** |
+| 22 | **Lazar** | Halley | 660,000 | 660,000 | **1,321,000** |
 | 23 | **Neumayer** | Halley | 639,000 | 639,000 | **1,278,000** |
 | 24 | **Framheim** | Byrd | 573,000 | 573,000 | **1,146,000** |
 | 25 | **Little America** | Byrd | 573,000 | 573,000 | **1,146,000** |
@@ -707,7 +745,7 @@ The Gini-adjusted tier calculation distributes exiles mathematically without reg
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
 - Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%), **Framheim** (7.5%), **Little America** (7.5%)
 - DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%), **Framheim/Little America** (2.5% each)
-- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Maitri_TBD** (15%), **Davis** (15%), **Zhongshan** (15%), **Bharati_TBD** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
+- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Lazar** (15%), **Davis** (15%), **Zhongshan** (15%), **Bharati_TBD** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
 
 ### Island caps
 
@@ -749,7 +787,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 15 | **Belgrano** *(ruins, DLC 5)* | Halley | 408K | **854K** | **1,708K** | Mainland coast; absorbs Peninsula island overflow |
 | 16 | Soyuz *(destroyed)* | Mawson | 838K | 838K | 1,675K | Mainland coast; no change |
 | 17 | Aboa | Halley | 809K | 809K | 1,618K | Inland; no change |
-| 18 | **Maitri_TBD** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
+| 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
 | 19 | Troll | Halley | 750K | 750K | 1,501K | Inland; no change |
 | 20 | **Framheim** | Byrd | 573K | **686K** | **1,371K** | Ice shelf; receives Ross Is. + DdU overflow |
 | 21 | **Little America** | Byrd | 573K | **686K** | **1,371K** | Ice shelf; same as Framheim |
@@ -844,56 +882,60 @@ Ranked by final human population. Cities in **bold** gained population from over
 
 ### Canon city populations (island-balanced, 2% rate)
 
+*(Table revised 2026-07-03 to mirror the Census I redistribution in `Official_Population_Census.md` — Janbogo reduced to 60%, Zukelli reduced twice to 72% of original, Esperanza reduced to 85%, all transferred to Lazar. Rank order updated accordingly.)*
+
 | Rank | City | Subnet | **Humans** | **Total** | Status |
 |------|------|--------|-----------|-----------|--------|
-| 1 | **Janbogo** | Janbogo | 1,050,638 | **2,163,829** | |
-| 2 | **Esperanza** | Palmer | 1,039,659 | **2,129,157** | |
-| 3 | Zukelli | Janbogo | 849,869 | **1,732,384** | *(destroyed)* |
-| 4 | Casey | Mirny | 738,418 | **1,505,155** | |
-| 5 | Cape Adare | Janbogo | 730,539 | **1,488,846** | |
-| 6 | Mawson | Mawson | 713,748 | **1,454,926** | |
-| 7 | Halley | Halley | 711,583 | **1,456,098** | |
-| 8 | Mirny | Mirny | 668,613 | **1,356,934** | |
+| 1 | **Lazar** | Halley | 1,299,650 | **2,646,068** | *(revised 2026-07-03)* |
+| 2 | **Esperanza** | Palmer | 883,710 | **1,809,783** | *(revised 2026-07-03)* |
+| 3 | Casey | Mirny | 738,418 | **1,505,155** | |
+| 4 | Cape Adare | Janbogo | 730,539 | **1,488,846** | |
+| 5 | Mawson | Mawson | 713,748 | **1,454,926** | |
+| 6 | Halley | Halley | 711,583 | **1,456,098** | |
+| 7 | Mirny | Mirny | 668,613 | **1,356,934** | |
+| 8 | **Janbogo** | Janbogo | 630,383 | **1,298,298** | *(revised 2026-07-03)* |
 | 9 | Zhongshan | Mirny | 634,485 | **1,284,494** | |
 | 10 | Neumayer | Halley | 616,805 | **1,258,342** | |
-| 11 | Bharati_TBD | Mawson | 578,925 | **1,183,333** | |
-| 12 | Davis | Mirny | 567,640 | **1,166,618** | |
-| 13 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
-| 14 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
-| 15 | Soyuz | Mawson | 521,255 | **1,073,601** | *(destroyed)* |
-| 16 | Denison | Janbogo | 526,521 | **1,073,373** | |
-| 17 | Aboa | Halley | 508,243 | **1,042,458** | |
-| 18 | Maitri_TBD | Halley | 485,482 | **976,095** | |
+| 11 | Zukelli | Janbogo | 611,905 | **1,247,316** | *(destroyed; revised 2026-07-03)* |
+| 12 | Bharati_TBD | Mawson | 578,925 | **1,183,333** | |
+| 13 | Davis | Mirny | 567,640 | **1,166,618** | |
+| 14 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
+| 15 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
+| 16 | Soyuz | Mawson | 521,255 | **1,073,601** | *(destroyed)* |
+| 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
+| 18 | Aboa | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
 | 20 | Framheim | Byrd | 430,488 | **884,682** | |
 | 21 | Little America | Byrd | 425,052 | **862,581** | |
 | 22 | Sejong | Palmer | 318,175 | **647,855** | *(island cap)* |
 | 23 | Marambio | Palmer | 284,047 | **571,487** | *(island cap)* |
-| 24 | Sanay | Halley | 233,539 | **467,600** | |
-| 25 | Dumont d'Urville | Janbogo | 225,066 | **456,411** | *(island cap)* |
-| 26 | Fort McMurdo | Janbogo | 223,041 | **447,015** | *(island cap)* |
-| 27 | Juan Carlos I | Palmer | 191,451 | **390,175** | *(island cap)* |
-| 28 | Scott | Janbogo | 190,964 | **388,343** | *(island cap)* |
-| 29 | Palmer City | Palmer | 178,633 | **358,322** | *(island cap)* |
+| 24 | Palmer City | Palmer | 238,279 | **477,970** | *(island cap; revised 2026-07-03 — see `Official_Population_Census.md`)* |
+| 25 | Sanay | Halley | 233,539 | **467,600** | |
+| 26 | Dumont d'Urville | Janbogo | 225,066 | **456,411** | *(island cap)* |
+| 27 | Fort McMurdo | Janbogo | 223,041 | **447,015** | *(island cap)* |
+| 28 | Juan Carlos I | Palmer | 191,451 | **390,175** | *(island cap)* |
+| 29 | Scott | Janbogo | 190,964 | **388,343** | *(island cap)* |
 | 30 | Rothera | Palmer | 154,489 | **318,955** | *(island cap)* |
 | 31 | Sayowa | Mawson | 123,656 | **256,100** | *(island cap)* |
 | 32 | Signy | Palmer | 93,951 | **190,349** | *(island cap)* |
 | 33 | Port Lockroy | Palmer | 63,856 | **129,942** | *(island cap)* |
 | 34 | **Amundsen Station** | Amundsen | 1,126 | **6,889** | *~84% robot; see note* |
-| — | **TOTAL** | — | **15,651,425** | **31,906,952** | |
+| — | **TOTAL** | — | **15,711,071** | **32,026,600** | *(increased 2026-07-03, Palmer City expansion — net addition, not redistribution)* |
 
 ### Canon subnet totals
 
+*(Halley, Janbogo, Palmer revised 2026-07-03 for the Lazar redistribution; Palmer further revised the same day for the Palmer City population expansion — same deltas as `Official_Population_Census.md`.)*
+
 | Subnet | Humans | Combined |
 |--------|--------|----------|
-| Halley / Queen Maud Land | 4,127,120 | 8,385,196 |
-| Janbogo / Ross Sea | 3,796,638 | 7,750,201 |
+| Halley / Queen Maud Land | 4,941,288 | 10,055,169 |
+| Janbogo / Ross Sea | 3,138,419 | 6,399,602 |
 | Mawson / Indian Ocean | 3,139,709 | 6,419,072 |
-| Palmer / Antarctic Peninsula | 2,324,261 | 4,736,242 |
+| Palmer / Antarctic Peninsula | 2,227,958 | 4,536,516 |
 | Mirny / Wilkes Land | 1,407,031 | 2,862,089 |
 | Byrd / Ross Ice Shelf | 855,540 | 1,747,263 |
 | Amundsen / South Pole | 1,126 | 6,889 |
-| **TOTAL** | **15,651,425** | **31,906,952** |
+| **TOTAL** | **15,711,071** | **32,026,600** |
 
 *Amundsen Station: pre-war human population reduced to 0.2% of computed figure; robot population reduced to 1%. The South Pole was always an extreme-environment research-and-automation outpost, not a residential city — a skeleton crew of humans embedded in a robot-majority operational facility. No overflow redistributed.*
 
@@ -953,7 +995,7 @@ The **Czech Republic, Slovakia, and Estonia** show this effect at the small end:
 
 ### Why certain regions are absent
 
-**The Indian subcontinent (India, Pakistan, Bangladesh, Sri Lanka)** is absent from the Tepenian census entirely. This is established canon, not a calculation result. No one from the subcontinent came to Tepenia. The in-world reason for this is TBD in the lore, but the canon fact is fixed: the Maitri and Bharati stations (Indian-founded in the real world) have non-Indian founding populations in the Tepenian timeline.
+**The Indian subcontinent (India, Pakistan, Bangladesh, Sri Lanka)** is absent from the Tepenian census entirely. This is established canon, not a calculation result. No one from the subcontinent came to Tepenia. The in-world reason for this is TBD in the lore, but the canon fact is fixed: the Maitri (now Lazar) and Bharati stations (Indian-founded in the real world) have non-Indian founding populations in the Tepenian timeline.
 
 **The rest of Africa** is absent for calculated reasons. Sub-Saharan Africa generally has low GDP per capita combined with moderate-to-high Gini coefficients, producing near-zero effective robot-eligible populations at current historical tech levels. The continent's wealth is concentrated far too narrowly to generate meaningful exile numbers. South Africa is the sole African inclusion precisely because it clears the floor threshold — barely, and after heavy Gini penalty — while its geographic proximity to the Peninsula gives it marginal access that makes the effective contribution worth tracking.
 
@@ -1089,55 +1131,59 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 
 ### After census: city populations (Orbital Era, pre-Long Night War)
 
+*(Table revised 2026-07-03 to mirror the Census II redistribution in `Official_Population_Census.md` — same method and deltas as the Census I table above.)*
+
 | Rank | City | Subnet | **Humans** | **Total** | Status |
 |------|------|--------|-----------|-----------|--------|
-| 1 | **Janbogo** | Janbogo | 817,606 | **1,595,949** | |
-| 2 | **Zukelli** | Janbogo | 616,325 | **1,302,304** | *(destroyed in Long Night War)* |
-| 3 | Esperanza | Palmer | 591,358 | **1,385,929** | |
-| 4 | Zhongshan | Mirny | 522,372 | **996,684** | |
-| 5 | Halley | Halley | 509,209 | **1,088,069** | |
+| 1 | **Lazar** | Halley | 861,206 | **1,803,977** | *(revised 2026-07-03)* |
+| 2 | **Esperanza** | Palmer | 502,654 | **1,178,039** | *(revised 2026-07-03)* |
+| 3 | Halley | Halley | 509,209 | **1,088,069** | |
+| 4 | Cape Adare | Janbogo | 426,343 | **1,050,051** | |
+| 5 | Casey | Mirny | 436,922 | **1,042,031** | |
 | 6 | Mirny | Mirny | 507,344 | **1,016,495** | |
-| 7 | Soyuz | Mawson | 437,854 | **888,292** | *(destroyed in Long Night War)* |
-| 8 | Davis | Mirny | 437,423 | **781,596** | |
-| 9 | Casey | Mirny | 436,922 | **1,042,031** | |
-| 10 | Belgrano | Halley | 429,820 | **837,768** | *(ruined in Long Night War; DLC 5)* |
-| 11 | Mawson | Mawson | 427,321 | **952,446** | |
-| 12 | Cape Adare | Janbogo | 426,343 | **1,050,051** | |
-| 13 | Princess Elisabeth | Halley | 401,403 | **766,762** | |
-| 14 | Neumayer | Halley | 385,071 | **830,747** | |
-| 15 | Bharati_TBD | Mawson | 336,124 | **728,324** | |
-| 16 | Troll | Halley | 323,650 | **671,832** | |
-| 17 | Aboa | Halley | 310,791 | **607,441** | |
-| 18 | Little America | Byrd | 304,422 | **555,739** | |
-| 19 | Maitri_TBD | Halley | 272,889 | **593,063** | |
-| 20 | Framheim | Byrd | 248,865 | **604,953** | |
+| 7 | Zhongshan | Mirny | 522,372 | **996,684** | |
+| 8 | **Janbogo** | Janbogo | 490,564 | **957,570** | *(revised 2026-07-03)* |
+| 9 | Mawson | Mawson | 427,321 | **952,446** | |
+| 10 | **Zukelli** | Janbogo | 443,754 | **937,659** | *(destroyed in Long Night War; revised 2026-07-03)* |
+| 11 | Soyuz | Mawson | 437,854 | **888,292** | *(destroyed in Long Night War)* |
+| 12 | Belgrano | Halley | 429,820 | **837,768** | *(ruined in Long Night War; DLC 5)* |
+| 13 | Neumayer | Halley | 385,071 | **830,747** | |
+| 14 | Davis | Mirny | 437,423 | **781,596** | |
+| 15 | Princess Elisabeth | Halley | 401,403 | **766,762** | |
+| 16 | Bharati_TBD | Mawson | 336,124 | **728,324** | |
+| 17 | Troll | Halley | 323,650 | **671,832** | |
+| 18 | Aboa | Halley | 310,791 | **607,441** | |
+| 19 | Framheim | Byrd | 248,865 | **604,953** | |
+| 20 | Little America | Byrd | 304,422 | **555,739** | |
 | 21 | Sejong | Palmer | 234,304 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | **430,145** | *(island cap)* |
 | 23 | Fort McMurdo | Janbogo | 173,548 | **338,169** | *(island cap)* |
-| 24 | Scott | Janbogo | 153,382 | **313,634** | *(island cap)* |
-| 25 | Sanay | Halley | 145,798 | **275,117** | |
-| 26 | Palmer City | Palmer | 135,457 | **249,020** | *(island cap)* |
-| 27 | Dumont d'Urville | Janbogo | 134,634 | **312,006** | *(island cap)* |
+| 24 | Palmer City | Palmer | 180,688 | **332,170** | *(island cap; revised 2026-07-03 — see `Official_Population_Census.md`)* |
+| 25 | Scott | Janbogo | 153,382 | **313,634** | *(island cap)* |
+| 26 | Dumont d'Urville | Janbogo | 134,634 | **312,006** | *(island cap; reordered 2026-07-03 — was previously listed out of sequence)* |
+| 27 | Sanay | Halley | 145,798 | **275,117** | |
 | 28 | Rothera | Palmer | 121,784 | **255,857** | *(island cap)* |
 | 29 | Juan Carlos I | Palmer | 118,910 | **246,372** | *(island cap)* |
 | 30 | Sayowa | Mawson | 85,199 | **164,957** | *(island cap)* |
 | 31 | Signy | Palmer | 53,928 | **133,755** | *(island cap)* |
 | 32 | Port Lockroy | Palmer | 53,703 | **95,906** | *(island cap)* |
 | 33 | Amundsen Station | Amundsen | 913 | **4,891** | *~81% robot; skeleton crew* |
-| — | **TOTAL (Antarctic)** | — | **10,350,295** | **21,630,374** | |
+| — | **TOTAL (Antarctic)** | — | **10,395,526** | **21,713,524** | *(increased 2026-07-03, Palmer City expansion)* |
 
 ### After census: subnet totals (Antarctic surface only)
 
+*(Halley, Janbogo, Palmer revised 2026-07-03 for the Lazar redistribution; Palmer further revised the same day for the Palmer City population expansion — same deltas applied as elsewhere.)*
+
 | Subnet | Humans | Combined |
 |--------|--------|----------|
-| Halley / Queen Maud Land | 2,778,631 | 5,670,799 |
-| Janbogo / Ross Sea | 2,321,838 | 4,912,113 |
+| Halley / Queen Maud Land | 3,366,948 | 6,881,713 |
+| Janbogo / Ross Sea | 1,822,225 | 3,909,089 |
 | Mawson / Indian Ocean | 2,246,293 | 4,512,299 |
-| Palmer / Antarctic Peninsula | 1,505,067 | 3,311,054 |
+| Palmer / Antarctic Peninsula | 1,461,594 | 3,186,314 |
 | Mirny / Wilkes Land | 944,266 | 2,058,526 |
 | Byrd / Ross Ice Shelf | 553,287 | 1,160,692 |
 | Amundsen / South Pole | 913 | 4,891 |
-| **TOTAL (Antarctic)** | **10,350,295** | **21,630,374** |
+| **TOTAL (Antarctic)** | **10,395,526** | **21,713,524** |
 
 ### Orbital population (Von Braun Wheel + associated infrastructure)
 

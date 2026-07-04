@@ -28,7 +28,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Juan Carlos I | Surviving |
 | Signy | Surviving |
 | Port Lockroy | Destroyed *(Long Night War)* |
-| Palmer City | Surviving |
+| Palmer City | Destroyed *(Long Night War — corrected 2026-07-03; was stale/contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed, consistent with its "first settled, first destroyed" identity)* |
 | Rothera | Destroyed *(Long Night War — corrected 2026-07-03, see Rothera.md)* |
 
 ---
@@ -41,10 +41,10 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Halley | Surviving |
 | Neumayer | Surviving |
 | Troll | Surviving |
-| Aboa | Destroyed *(Long Night War)* |
-| Sanay | Destroyed *(Long Night War)* |
-| Princess Elisabeth | Surviving *(damaged; partially operational)* |
-| Maitri_TBD | Surviving |
+| Aboa | Surviving *(corrected 2026-07-03 from "Destroyed" — resolved as damaged/partially operational, matching Halley/Neumayer/Troll's own status)* |
+| Sanay | Surviving *(corrected 2026-07-03 from "Destroyed" — resolved as damaged/partially operational, matching the rest of the subnet's status)* |
+| Princess Elisabeth | Destroyed *(Long Night War — finalized 2026-07-03, ruins with straggling survivors; see `Specs/Princess_Elisabeth.md`)* |
+| Lazar | Surviving *(damaged; partially operational — finalized 2026-07-03, formerly "Maitri_TBD"; see `Specs/Lazar.md`)* |
 | Belgrano | Ruins *(DLC 5)* |
 
 ---
