@@ -24,13 +24,13 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 | City | Original Station | Country | Arcanet Subnet | Status |
 |---|---|---|---|---|
 | **Palmer City** *(subnet hub)* | Palmer Station | USA | Palmer ("American") | ✗ Destroyed |
-| Port Lockroy | Port Lockroy | UK | Palmer ("American") | ✗ Destroyed |
+| Port Lockroy | Port Lockroy | UK | Palmer ("American") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Rothera | Rothera Station | UK | Palmer ("American") | ~ Damaged / Partially operational |
-| Esperanza | Esperanza Base | Argentina | Palmer ("American") | ~ Damaged / Partially operational |
-| Marambio | Marambio Base | Argentina | Palmer ("American") | ~ Damaged / Partially operational |
+| Esperanza | Esperanza Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 — already established as destroyed in `Specs/Esperanza.md` and its cultural sheet)* |
+| Marambio | Marambio Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged" — see `Specs/Marambio.md`)* |
 | Sejong | King Sejong Station | Unified Korea | Palmer ("American") | ✗ Destroyed |
 | Juan Carlos | Juan Carlos I Station | Spain | Palmer ("American") | ✗ Destroyed |
-| Signy | Signy Station | UK | Palmer ("American") *(peripheral)* | ~ Damaged / Partially operational |
+| Signy | Signy Station | UK | Palmer ("American") *(peripheral)* | ✓ Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — see `Specs/Signy.md`)* |
 
 ---
 
@@ -134,7 +134,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 - **Amundsen Station** was the inter-subnet relay. Its destruction during the Long Night War caused the **Planetary Split Brain** — permanent informational isolation between all six subnets. Each subnet now holds a different version of shared history, and the subnets have no way to reconcile their records except via the pre-split archive cached at the South Pole ruins.
 - **Dumont d'Urville and Denison** are geographically in the Dumont d'Urville Sea area but are members of the **Janbogo** subnet — not Mirny.
 - **Dome Fuji** is geographically in inland East Antarctica but is in the **Mawson** subnet. Subnets were organized by Arcanet cable routing, not strict geographic proximity.
-- **Signy** (South Orkney Islands) has weak/intermittent Arcanet connectivity — dashed border on the subnet map. Maritime access only; no road connection possible. Possibly overlooked by Upper Earth targeting due to its peripheral status.
+- **Signy** (South Orkney Islands) has weak/intermittent Arcanet connectivity — dashed border on the subnet map. Maritime access only; no road connection possible. **Confirmed 2026-07-03: overlooked entirely by Upper Earth targeting** due to its peripheral status — fully survived, untouched by direct war damage, but its robot population faces a real post-war siligel shortage given cut supply lines (humans can sustain themselves on the Scotia Sea's marine resources instead).
 - **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **[NAME TBD] (Bharati Station location)** remains a placeholder — final name TBD.
 - **Zukelli** is the confirmed Tepenian city name for Mario Zucchelli Station.
 - **Governmental capital of Tepenia:** TBD — Palmer City was the cultural capital, not the governmental one.

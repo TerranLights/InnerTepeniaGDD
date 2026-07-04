@@ -1,11 +1,19 @@
 # Port Lockroy
 
 **Based on:** Port Lockroy (UK Antarctic Heritage Trust / Operation Tabarin), Goudier Island, Port Lockroy harbor, Wiencke Island, Antarctic Peninsula (~64°49'S, 63°29'W)
-**Status:** Damaged; partially operational
+**Status:** Damaged; partially operational *(confirmed 2026-07-03 — resolved a conflict where `Local_Cultures/README.md`, `City_Relationship_Database.md`, `Overview.md`, and `Station_to_City_Map.md` all said "Destroyed," this file alone said "Damaged." See Population/Destructibility Note below; the other four files were the stale ones and have been corrected to match.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** TBD — Goudier Island is a small island within Port Lockroy harbor; maritime access primary; any connection to the Peninsula mainland requires short sea crossing to Wiencke Island and then overland/highway link
 **Significance:** British Tepenian city; the oldest British Antarctic base — established during Operation Tabarin in 1944, predating most other Tepenian city foundations; originally a wartime intelligence installation monitoring German naval activity in the South Atlantic; named for Edouard Lockroy, French politician who championed the first IGY (1882); one of the most historically layered locations in Tepenia; in the DLC era, one of the few partially surviving cities in the Palmer subnet
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged rather than destroyed; one of the inhabited nodes in DLC 3
+
+---
+
+## Population / Destructibility Note (2026-07-03)
+
+Port Lockroy is Tepenia's second-smallest city by population (rank 33rd of ~34, smaller than Marambio and Rothera both) on a genuinely tiny island (Goudier Island, inside a small natural harbor) — smaller than Marambio's Seymour Island, with no mountainous terrain, no room to decentralize, and no realistic underground vault potential. On pure physical-resilience grounds, this argues against survival even more strongly than Marambio's case did.
+
+What resolves it instead is strategic irrelevance, not physical resilience — the same mechanism that saved Aboa earlier this session. Port Lockroy's actual character was never military or industrial: a heritage/museum city with a small maritime-trade niche, nothing resembling Marambio's high-value airfield or Rothera's industrial base. There was no strategic reason to target it. Compounding this, Port Lockroy sits immediately adjacent to Palmer City on the highway network (its direct northern neighbor) — a real, plausible possibility that Upper Earth's targeting or reconnaissance conflated the two, assuming Port Lockroy's tiny footprint was simply part of Palmer City's strike zone rather than a distinct target requiring its own attention. Missed by insignificance and by proximity-driven misidentification, rather than surviving by resilience.
 
 ---
 

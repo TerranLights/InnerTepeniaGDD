@@ -1,11 +1,11 @@
 # Marambio
 
 **Based on:** Marambio Base (Argentina), Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W)
-**Status:** Destroyed
+**Status:** Destroyed *(confirmed 2026-07-03 — resolved a conflict where `City_Relationship_Database.md`, `Overview.md`, `Station_to_City_Map.md`, and `Local_Cultures/README.md` all said "damaged/surviving," this file alone said "Destroyed." Kept as Destroyed after checking the real terrain: Seymour Island is small and flat, built around one single, concentrated strategic asset — the airfield — unlike Rothera's large, mountainous, decentralizable Adelaide Island. A concentrated single-point-of-failure target, architecturally closer to Palmer City or Sejong's situation than Rothera's. The other four files were the ones that were stale, and have been corrected to match.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** TBD — Seymour Island is separated from the Peninsula mainland by a narrow strait; road connection to the Peninsula network would require a causeway or bridge; alternatively, maritime and aviation links
 **Significance:** Argentine Air Force city on Seymour Island; the most significant aviation hub in the Palmer subnet — had the most developed airstrip infrastructure of any Peninsula city; Seymour Island is also one of the richest fossil sites in Antarctica, with Eocene-era fossils including early penguin ancestors; named after Vicecomodoro Gustavo Marambio
-**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula)
+**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); destroyed — part of the Peninsula's dominant ruin landscape, alongside Palmer City and Sejong
 
 ---
 

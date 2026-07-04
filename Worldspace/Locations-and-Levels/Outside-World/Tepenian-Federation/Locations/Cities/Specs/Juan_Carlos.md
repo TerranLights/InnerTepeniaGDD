@@ -1,7 +1,7 @@
 # Juan Carlos
 
 **Based on:** Juan Carlos I Antarctic Station (Spain), Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
-**Status:** Damaged; partially operational
+**Status:** TBD *(flagged 2026-07-03 — genuine 3-vs-2 conflict between this file/`Local_Cultures/README.md` (damaged/surviving) and `City_Relationship_Database.md`/`Overview.md`/`Station_to_City_Map.md` (destroyed); deliberately deferred rather than resolved. Case for destroyed: Livingston Island's usable footprint is limited despite its overall size (rugged, heavily glaciated, "more limited" accessible coastal areas), and its immediate Peninsula neighbors — Esperanza, Marambio, Sejong, Palmer City — were all destroyed. Case for surviving: genuine scale as the second-largest South Shetland island, rugged terrain that could plausibly offer Rothera-style protection, and a lower strategic profile than Sejong's multinational hub. Revisit before finalizing this city's cultural sheet.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** TBD — Livingston Island is separated from the Peninsula mainland; maritime primary; island-internal road network only
 **Significance:** Spanish Tepenian city on Livingston Island, South Shetland Islands; named after King Juan Carlos I of Spain; one of the few Palmer subnet cities that survived the Long Night War in some functional form; the second-largest island in the South Shetlands; shares the South Shetland Island cluster with Sejong (King George Island) but on a different, quieter island

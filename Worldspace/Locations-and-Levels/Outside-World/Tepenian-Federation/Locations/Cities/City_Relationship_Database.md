@@ -293,7 +293,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Marambio
 - **Real station:** Marambio Base (Argentina) ✓
 - **Region:** Antarctic Peninsula — northern tip
-- **Status:** Damaged; partially operational
+- **Status:** Destroyed *(corrected 2026-07-03 from "Damaged" — Seymour Island is small and flat, built around one single concentrated strategic asset (the airfield), a single-point-of-failure target unlike Rothera's large, decentralizable Adelaide Island; see `Specs/Marambio.md`)*
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — northern peninsula section
 - **Direct highway neighbors:** Esperanza, Sejong, Juan Carlos (all nearby); Palmer City (south via Hwy 1)
@@ -359,7 +359,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Port Lockroy
 - **Real station:** Port Lockroy (UK) ✓
 - **Region:** Antarctic Peninsula
-- **Status:** Destroyed (Long Night War)
+- **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — too strategically irrelevant (heritage/museum city, no military or industrial value) to be a priority target, and plausibly conflated with adjacent Palmer City's strike zone given direct highway proximity; see `Specs/Port_Lockroy.md`)*
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — passes through
 - **Direct highway neighbors:** Palmer City (north), Rothera (south)
@@ -425,7 +425,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Signy
 - **Real station:** Signy Station (UK) ✓
 - **Region:** South Orkney Islands (Atlantic Ocean — north of Antarctic Peninsula)
-- **Status:** Damaged; partially operational
+- **Status:** Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — too remote and marginal for Upper Earth's forces to have struck directly; the war reached Signy indirectly instead, cutting supply lines and leaving its robot population facing a siligel shortage even though the human population can sustain itself on the Scotia Sea's marine resources; see `Specs/Signy.md`)*
 - **Arcanet subnet:** Palmer ("American") — peripheral/dashed boundary
 - **Highways:** None — maritime/air only ✓
 - **Notes:** Northernmost Tepenian outpost; island location makes road connection impossible; Palmer subnet connection weak/intermittent (dashed border on Arcanet map); communications to/from Signy should reflect delays and dropouts in lore

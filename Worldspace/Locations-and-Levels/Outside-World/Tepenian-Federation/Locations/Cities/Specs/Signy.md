@@ -1,11 +1,21 @@
 # Signy
 
 **Based on:** Signy Research Station (UK / British Antarctic Survey), Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W)
-**Status:** Damaged; partially operational
+**Status:** Survived; fully operational *(finalized 2026-07-03 — upgraded from "Damaged; partially operational." Signy's extreme remoteness means Upper Earth's forces plausibly never struck it directly at all, not merely deprioritized it. See War Impact Note below for the real, non-combat consequence this still produced.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** None — Signy Island is entirely maritime-access only; South Orkney Islands have no overland connection to any other Tepenian city; the most isolated Palmer subnet city; even within the Palmer subnet, Signy is a significant sea voyage from the nearest other city
 **Significance:** British Tepenian city; the northernmost and most isolated city in the Palmer subnet; the only Tepenian city in the South Orkney Islands; sub-Antarctic rather than full Antarctic at 60°43'S — biologically richer, less hostile than the Peninsula proper; weak Arcanet link due to distance from subnet hub; the furthest from the Peninsula "core" of all Palmer subnet cities; the Shackleton connection (Endurance expedition passed through this region)
-**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged and partially operational; the most remote DLC 3 location; likely the hardest to reach and the most isolated from the main Palmer subnet story
+**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); fully survived, untouched by direct war damage, but facing a real post-war supply crisis — the one functioning city in a landscape of ruins, though "functioning" comes with a real asterisk
+
+---
+
+## War Impact Note (2026-07-03)
+
+Signy took no direct war damage — genuinely too remote and marginal for Upper Earth's forces to have bothered striking it. But the war still reached it indirectly, through the same weak Arcanet link and supply dependency that already defined the city before the war: with the rest of the Palmer subnet devastated and supply lines to Signy cut or badly disrupted, the city's isolation, previously just a fact of daily life, became a genuine post-war crisis.
+
+The city's human population can plausibly sustain itself on the Scotia Sea's marine richness alone — fish and other marine resources are abundant enough here that a purely marine diet is a realistic, if monotonous, way to survive without outside supply. Robots are a different problem entirely: siligel (established robot nutrition, see `Worldspace/Robot_Biology_and_Culture/`) is not something Signy can produce or improvise locally, and with supply lines from the rest of the subnet cut, the city's robot population faces a genuine, unresolved shortage. Humans can feed themselves; robots cannot, not without help arriving from somewhere.
+
+This is a strong candidate for a DLC 3 questline — Signy as the untouched city that nonetheless needs the player's help, not because it was bombed, but because it was cut off. Not designed further here; flagged for whenever DLC 3 design begins.
 
 ---
 
@@ -82,13 +92,13 @@ The Arcanet connection to the Palmer subnet was real but weak — the signal had
 ---
 
 ## Economy & Industry
-Maritime biology and ecology research, fishing and maritime resources of the Scotia Sea, whatever trade could reach the South Orkney Islands. Full detail TBD for DLC 3. Post-war, the isolation has likely made Signy even more self-sufficient.
+Maritime biology and ecology research, fishing and maritime resources of the Scotia Sea, whatever trade could reach the South Orkney Islands. Full detail TBD for DLC 3. Post-war, that same self-sufficiency has both saved and strained the city — the marine diet sustains its human population indefinitely, but the cut supply lines have left its robot population facing a real siligel shortage with no local source. See War Impact Note above.
 
 ---
 
 ## Notable Locations
 - **Signy Island harbor** — the only maritime entry; the Scotia Sea approach under gale conditions is the defining arrival experience
-- **The biological research station** — the founding scientific infrastructure; in partial survival, probably still partially functional
+- **The biological research station** — the founding scientific infrastructure, fully intact and still functional, undamaged by the war
 - **The wildlife territories** — seal haul-out areas, penguin colonies, seabird nesting grounds; present and ongoing regardless of city status
 - Additional locations: TBD for DLC 3
 
@@ -105,7 +115,7 @@ The weakest Arcanet link of any Palmer subnet city. Concordia's knowledge of Sig
 ---
 
 ## Legacy
-Signy's legacy is endurance of a specific kind — not the survival of disaster (though that too) but the daily endurance of isolation. The South Orkney Islands have never been connected to anything. Signy built a city anyway and kept it running for centuries. That is a statement about what a community can make of absolute remoteness.
+Signy's legacy is endurance of a specific kind — not the survival of direct disaster, since none came, but the daily endurance of isolation, now sharpened into something more urgent by a war it was never actually part of. The South Orkney Islands have never been connected to anything. Signy built a city anyway and kept it running for centuries — and when the rest of the Palmer subnet burned, isolation was the very thing that kept Signy standing, even as that same isolation now threatens its robot population in a different way.
 
 ---
 
@@ -115,5 +125,6 @@ Signy's legacy is endurance of a specific kind — not the survival of disaster 
 - **Ice Cold Buddhism at Signy** — is there any Ice Cold Buddhism presence at one of the warmer and biologically rich Tepenian sites? Or does the religion concentrate at the colder, more extreme locations only?
 - **DLC 3 access** — how does the player reach Signy? It is the most difficult Palmer subnet location to reach; the journey itself may be significant gameplay
 - **Post-war communication** — can Signy reach Concordia or any other city at all, given the weak Arcanet link and the Planetary Split Brain?
+- **The siligel shortage** — how severe is it, how long can Signy's robot population last without resupply, and is this the actual DLC 3 questline hook that brings the player here? Strong candidate, not yet designed further
 - **Demonym** — TBD
 - **Notable figures** — TBD

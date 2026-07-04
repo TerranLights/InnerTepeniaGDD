@@ -151,7 +151,7 @@ Three factors combined:
 
 ---
 
-### Juan Carlos I *(Livingston Island, South Shetlands, ~62°39'S 60°23'W)*
+### Juan Carlos *(Livingston Island, South Shetlands, ~62°39'S 60°23'W)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -683,7 +683,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 11 | **Princess Elisabeth** | Halley | 890,000 | 890,000 | **1,779,000** |
 | 12 | **Zhongshan** | Mirny | 881,000 | 881,000 | **1,762,000** |
 | 13 | **Cape Adare** | Janbogo | 861,000 | 861,000 | **1,722,000** |
-| 14 | **Juan Carlos I** | Palmer | 848,000 | 848,000 | **1,695,000** |
+| 14 | **Juan Carlos** | Palmer | 848,000 | 848,000 | **1,695,000** |
 | 15 | **Bharati_TBD** | Mawson | 843,000 | 843,000 | **1,686,000** |
 | 16 | **Soyuz** *(destroyed)* | Mawson | 838,000 | 838,000 | **1,675,000** |
 | 17 | **Aboa** | Halley | 809,000 | 809,000 | **1,617,000** |
@@ -756,7 +756,7 @@ The Gini-adjusted tier calculation distributes exiles mathematically without reg
 | Sayowa | East Ongul Island | ~28 km² ice-free; very small; but dual-gateway role earns a slightly higher cap | 906K | **200K** | 706K |
 | Rothera | Adelaide Island | ~2,500 km² but ~95% glaciated; ice-free patches small | 510K | **250K** | 260K |
 | Palmer City | Anvers Island | ~2,432 km², heavily glaciated; limited buildable coastline | 513K | **280K** | 233K |
-| Juan Carlos I | Livingston Island | ~1,200 km², heavily glaciated; South Shetlands | 848K | **300K** | 548K |
+| Juan Carlos | Livingston Island | ~1,200 km², heavily glaciated; South Shetlands | 848K | **300K** | 548K |
 | Scott | Ross Island (shared) | Shared with Fort McMurdo; combined Ross Island cap = 650K humans | 894K | **300K** | 594K |
 | Fort McMurdo | Ross Island (shared) | Largest ice-free zone on Ross Island; ~1/3 of 2,460 km² usable | 1,071K | **350K** | 721K |
 | Dumont d'Urville | Petrel Island | Small island in Géologie Archipelago; GDD city expands into surrounding Adélie coastline | 913K | **350K** | 563K |
@@ -797,7 +797,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 25 | Fort McMurdo *(capped)* | Janbogo | 1,071K | **350K** | **700K** | Ross Island; twin city with Scott |
 | 26 | Dumont d'Urville *(capped)* | Janbogo | 913K | **350K** | **700K** | Petrel Island |
 | 27 | Scott *(capped)* | Janbogo | 894K | **300K** | **600K** | Ross Island; twin city with Fort McMurdo |
-| 28 | Juan Carlos I *(capped)* | Palmer | 848K | **300K** | **600K** | Livingston Island |
+| 28 | Juan Carlos *(capped)* | Palmer | 848K | **300K** | **600K** | Livingston Island |
 | 29 | Palmer City *(capped)* | Palmer | 513K | **280K** | **560K** | Anvers Island |
 | 30 | Rothera *(capped)* | Palmer | 510K | **250K** | **500K** | Adelaide Island |
 | 31 | Sayowa *(capped)* | Mawson | 906K | **200K** | **400K** | East Ongul Island |
@@ -913,7 +913,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 25 | Sanay | Halley | 233,539 | **467,600** | |
 | 26 | Dumont d'Urville | Janbogo | 225,066 | **456,411** | *(island cap)* |
 | 27 | Fort McMurdo | Janbogo | 223,041 | **447,015** | *(island cap)* |
-| 28 | Juan Carlos I | Palmer | 191,451 | **390,175** | *(island cap)* |
+| 28 | Juan Carlos | Palmer | 191,451 | **390,175** | *(island cap)* |
 | 29 | Scott | Janbogo | 190,964 | **388,343** | *(island cap)* |
 | 30 | Rothera | Palmer | 154,489 | **318,955** | *(island cap)* |
 | 31 | Sayowa | Mawson | 123,656 | **256,100** | *(island cap)* |
@@ -1054,7 +1054,7 @@ Eleven cities were identified as sitting on actual islands with binding physical
 - **Sayowa** (East Ongul Island, ~28 km²): capped at 260,000 combined
 - **Rothera** (Adelaide Island, ~4,463 km² but mostly glaciated): capped at 325,000 combined
 - **Palmer City** (Anvers Island, largely glaciated): capped at 364,000 combined
-- **Juan Carlos I** (Livingston Island): capped at 390,000 combined
+- **Juan Carlos** (Livingston Island): capped at 390,000 combined
 - **Scott** (Pram Point, Ross Island): capped at 390,000 combined
 - **Fort McMurdo** (Ross Island): capped at 455,000 combined
 - **Dumont d'Urville** (Île des Pétrels, ~0.3 km²): capped at 455,000 combined
@@ -1163,7 +1163,7 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 26 | Dumont d'Urville | Janbogo | 134,634 | **312,006** | *(island cap; reordered 2026-07-03 — was previously listed out of sequence)* |
 | 27 | Sanay | Halley | 145,798 | **275,117** | |
 | 28 | Rothera | Palmer | 121,784 | **255,857** | *(island cap)* |
-| 29 | Juan Carlos I | Palmer | 118,910 | **246,372** | *(island cap)* |
+| 29 | Juan Carlos | Palmer | 118,910 | **246,372** | *(island cap)* |
 | 30 | Sayowa | Mawson | 85,199 | **164,957** | *(island cap)* |
 | 31 | Signy | Palmer | 53,928 | **133,755** | *(island cap)* |
 | 32 | Port Lockroy | Palmer | 53,703 | **95,906** | *(island cap)* |

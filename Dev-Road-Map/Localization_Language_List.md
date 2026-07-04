@@ -28,7 +28,7 @@ ties to major Tepenian founding nations.
 |---|---|
 | **English** | Base/source language |
 | **Simplified Chinese** | Largest Steam player base by most estimates; standard top priority for any Steam release. Also the single most common Primary-tier founding nation across Tepenian cities — China appears as Primary or co-Primary in nearly every Ross Sea/East Antarctic city documented so far. |
-| **Spanish** | Large market; deep thematic ties — Belgrano and Esperanza (Argentina), Juan Carlos I (Spain), Marambio (Argentina) are all founding-Spanish-speaking cities, and Belgrano is a major DLC 5 location. |
+| **Spanish** | Large market; deep thematic ties — Belgrano and Esperanza (Argentina), Juan Carlos (Spain), Marambio (Argentina) are all founding-Spanish-speaking cities, and Belgrano is a major DLC 5 location. |
 | **Russian** | Large PC/Steam market with strong CRPG-genre affinity; thematic ties — Mirny (subnet hub), Vostok, Soyuz are all Russian-founded. |
 | **German** | Large, high-purchasing-power PC market; thematic tie — Neumayer. |
 | **Japanese** | Strong RPG-genre audience; thematic ties — Sayowa and Dome Fuji, both Japanese-founded and both religiously/narratively significant (Ice-Cold Buddhism pilgrimage sites). |

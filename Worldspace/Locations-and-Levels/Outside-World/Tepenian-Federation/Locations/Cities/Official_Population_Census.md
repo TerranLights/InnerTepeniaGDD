@@ -65,7 +65,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Juan Carlos I** *(Livingston Island, South Shetlands)*
+**Juan Carlos** *(Livingston Island, South Shetlands)*
 
 | Tier | Nations |
 |------|---------|
@@ -494,7 +494,7 @@ National communities are classified by tier based on long-run population share. 
 | 25 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
 | 26 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
 | 27 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
-| 28 | Juan Carlos I | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
+| 28 | Juan Carlos | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
 | 29 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
 | 30 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
 | 31 | Sayowa | Mawson | 123,656 | 132,444 | **256,100** | *(island cap)* |
@@ -604,7 +604,7 @@ National communities are classified by tier based on long-run population share. 
 | 27 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
 | 28 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
 | 29 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
-| 30 | Juan Carlos I | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
+| 30 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
 | 31 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
 | 32 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
 | 33 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |

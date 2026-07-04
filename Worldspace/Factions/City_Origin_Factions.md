@@ -108,13 +108,13 @@ These communities share scientific identity and systematic worldview and have ve
 
 ## The Tertulia Communities — South American and Spanish Communities
 
-**Origin cities:** Juan Carlos I (Spanish), Belgrano (Argentine), Esperanza (South American primary), Marambio (Argentine military)
+**Origin cities:** Juan Carlos (Spanish), Belgrano (Argentine), Esperanza (South American primary), Marambio (Argentine military)
 
 These communities share a tradition of the communal gathering — the social event that is neither purely recreational nor purely functional but operates in the space between, where conversation is itself the activity and the quality of conversation is how you assess whether it was a good evening.
 
 But they express this tradition differently:
 
-**The Spanish tradition (Juan Carlos I):** The tertulia is the form. A tertulia is not an open gathering — it has a host, a guest list, an implied topic or sensibility that organizes it, and a quality of intellectual expectation. Not everyone is invited to every tertulia, and this is not considered rude — it is considered appropriate. The Spanish community's gatherings have a specific formality-within-informality: they last many hours, begin late, are organized around argument rather than consensus, and the argument is the point. You are not trying to win. You are trying to make the argument more interesting.
+**The Spanish tradition (Juan Carlos):** The tertulia is the form. A tertulia is not an open gathering — it has a host, a guest list, an implied topic or sensibility that organizes it, and a quality of intellectual expectation. Not everyone is invited to every tertulia, and this is not considered rude — it is considered appropriate. The Spanish community's gatherings have a specific formality-within-informality: they last many hours, begin late, are organized around argument rather than consensus, and the argument is the point. You are not trying to win. You are trying to make the argument more interesting.
 
 **The Argentine tradition (Belgrano, Esperanza, Marambio):** The asado is the form. An asado is formally about the food — specifically the fire and the meat or synthetic equivalent — and informally about everything else. The host tends the fire; the guests tend the conversation; both are ongoing and neither is finished until everyone is ready. Argentine gatherings are more egalitarian in their social structure than the Spanish tertulia: anyone can say anything, you don't need credentials to have an opinion, and the quality of your contribution matters less than the genuineness of your presence. You are not trying to make the argument interesting. You are trying to be really there.
 

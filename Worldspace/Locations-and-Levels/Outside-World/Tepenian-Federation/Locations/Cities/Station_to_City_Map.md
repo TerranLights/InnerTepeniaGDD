@@ -29,12 +29,12 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 |---|---|---|---|---|
 | Palmer Station | USA | **Palmer City** ✓ | Destroyed | First settled location in Tepenia; cultural/entertainment capital; 100 Miles Davis Blvd. |
 | Rothera Station | UK | **Rothera** ✓ | Damaged; partially operational | Major British station on Adelaide Island |
-| Esperanza Base | Argentina | **Esperanza** ✓ | Damaged; partially operational | Oldest continuously occupied station; historic families |
-| Marambio Base | Argentina | **Marambio** ✓ | Damaged; partially operational | Has a runway — logistics/transport hub in-game |
+| Esperanza Base | Argentina | **Esperanza** ✓ | Destroyed *(corrected 2026-07-03)* | Oldest continuously occupied station; historic families |
+| Marambio Base | Argentina | **Marambio** ✓ | Destroyed *(corrected 2026-07-03 — small, flat, single-point-of-failure airfield island)* | Has a runway — logistics/transport hub in-game |
 | King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station; Unified Korea's presence in Tepenia |
 | Juan Carlos I | Spain | **Juan Carlos** ✓ | Destroyed | Spanish station, Livingston Island |
-| Signy Station | UK | **Signy** ✓ | Damaged; partially operational | South Orkney Islands; northernmost Tepenian outpost; peripheral — possibly overlooked by Upper Earth targeting |
-| Port Lockroy | UK | **Port Lockroy** ✓ | Destroyed | Goudier Island; destroyed Long Night War |
+| Signy Station | UK | **Signy** ✓ | Survived; fully operational *(upgraded 2026-07-03)* | South Orkney Islands; northernmost Tepenian outpost; peripheral — confirmed overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines |
+| Port Lockroy | UK | **Port Lockroy** ✓ | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Goudier Island; too strategically irrelevant to be a priority target, plausibly conflated with adjacent Palmer City's strike zone |
 
 ---
 
@@ -131,8 +131,9 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 ## Summary Statistics
 
 - **Total stations/sites on map:** ~40
-- **Confirmed destroyed (coastal, Long Night War):** Palmer City, Port Lockroy, Sejong, Juan Carlos, Soyuz, [NAME TBD — Bharati location], Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Princess Elisabeth *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*
-- **Damaged; partially operational (coastal):** Rothera, Esperanza, Marambio, Signy, Belgrano, Halley, Neumayer, Troll, Aboa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
+- **Confirmed destroyed (coastal, Long Night War):** Palmer City, Sejong, Juan Carlos, Soyuz, [NAME TBD — Bharati location], Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Princess Elisabeth *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*, Esperanza, Marambio *(both corrected 2026-07-03 — moved here from "damaged"; Marambio's small, flat, single-point-of-failure airfield geography argues against survival)*
+- **Damaged; partially operational (coastal):** Rothera, Port Lockroy *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Aboa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
+- **Survived; fully operational:** Signy *(upgraded 2026-07-03 from "damaged" — overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines despite the city itself being untouched)*
 - **Confirmed survived (inland):** Concordia (game setting), Vostok (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)
 - **Historical sites (founding expedition bases; cities built on top):** Framheim, Little America
 - **Confirmed Arcanet subnet hubs:** Palmer City, Halley, Mawson, Mirny, Janbogo, Byrd
@@ -151,5 +152,5 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **[NAME TBD — Bharati Station location]** — location noted for future development in the Mawson subnet; "Bharati" is a placeholder only. Destroyed during the Long Night War.
 - **Zhongshan** — named after Sun Yat-sen; name retained under the Sinian Federation.
 - **Sayowa** — major highway junction (Hwy 37 × Hwy 7-ext); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.
-- **Signy** — northernmost Tepenian outpost; South Orkney Islands; maritime access only; peripheral Arcanet connectivity. Possibly overlooked by Upper Earth targeting due to its marginal status.
+- **Signy** — northernmost Tepenian outpost; South Orkney Islands; maritime access only; peripheral Arcanet connectivity. Confirmed overlooked entirely by Upper Earth targeting due to its marginal status — the one Palmer subnet city that survived the Long Night War fully untouched, though its robot population now faces a real siligel shortage from cut supply lines.
 - **DLC coverage by subnet:** DLC 1 = South Pole (inter-subnet relay); DLC 2 = Byrd ("Pacific"); DLC 3 = Palmer ("American"); DLC 4 = Mawson; DLC 5 = Halley ("Atlantic"); DLC 6 = Janbogo. Mirny subnet covered by main game (Concordia).

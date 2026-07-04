@@ -23,11 +23,11 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | City | Status |
 |------|--------|
 | Esperanza | Destroyed *(Long Night War — corrected 2026-07-03, see Esperanza.md)* |
-| Marambio | Surviving |
-| Sejong | Surviving |
-| Juan Carlos I | Surviving |
-| Signy | Surviving |
-| Port Lockroy | Destroyed *(Long Night War)* |
+| Marambio | Destroyed *(Long Night War — corrected 2026-07-03 from "Surviving"; small, flat, single-point-of-failure airfield island, unlike Rothera's decentralizable terrain; see `Specs/Marambio.md`)* |
+| Sejong | Destroyed *(Long Night War — corrected 2026-07-03 from "Surviving"; was stale, contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed)* |
+| Juan Carlos | Surviving |
+| Signy | Surviving *(confirmed 2026-07-03 as fully survived, untouched by direct war damage — see `Specs/Signy.md` for the resulting siligel-shortage post-war problem)* |
+| Port Lockroy | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone; see `Specs/Port_Lockroy.md`)* |
 | Palmer City | Destroyed *(Long Night War — corrected 2026-07-03; was stale/contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed, consistent with its "first settled, first destroyed" identity)* |
 | Rothera | Surviving *(damaged; partially operational — re-corrected 2026-07-03: Palmer subnet's industrial center, decentralized across Adelaide Island, survived the war unlike smaller Peninsula cities despite a smaller population than either; see `Specs/Rothera.md`)* |
 
