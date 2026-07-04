@@ -17,7 +17,7 @@ A 9w1:Pr who has been in Scorpio's transformation community long enough that the
 ### Core Conflict & Emotional Stakes
 What is she smoldering about? A 9w1:Pr internalizes everything — but the 1 wing means there is a moral conviction underneath that has not gone away; it just burns rather than shines. Her arc is about finding and directly addressing the specific original wound feeding the internalized intensity.
 
-This wound may be connected to the Long Night War, the Overcrowding Decision of 2821 (whose records Cancer quietly destroyed), or something more personal.
+This wound may be connected to the Long Night War, the Overcrowding Decision of 2813 (whose records Cancer quietly destroyed), or something more personal.
 
 ### Themes
 - The cost of merger-with-environment when what you merged with was painful

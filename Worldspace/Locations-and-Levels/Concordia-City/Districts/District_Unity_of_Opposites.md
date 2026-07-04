@@ -15,7 +15,7 @@ This is a design reference document, not a preliminary suggestion. It synthesize
 ### Internal Conflict — Four Parties
 
 **1. The Unlimited** — "No One Left Behind," absolutely, even if the system buckles under the weight
-**2. The Triage Realists** — those who made (or support) the Overcrowding Decision of 2821; they believe some must be turned away for the many to survive
+**2. The Triage Realists** — those who made (or support) the Overcrowding Decision of 2813; they believe some must be turned away for the many to survive
 **3. The Trauma-Bearers** — people on the wrong side of past triage, or carrying the guilt of making those decisions; they want systemic solutions that prevent the choice from ever arising again
 **4. The Surveillance Faction** — the Mother's Circuit builders; they believe comprehensive data collection is the only ethical form of "No One Left Behind" — if you can predict who needs help, you never have to choose
 
@@ -45,7 +45,7 @@ This is a design reference document, not a preliminary suggestion. It synthesize
 
 **1. The Established** — multi-generational families, warm apartments, bonds legally recognized; they defend the existing social order because the existing social order has been good to them
 **2. The Cold-Siders** — families who arrived later or had less political capital when insulation was being distributed; they live in the same district as the Established but in perceptibly worse conditions; nominally included, practically second-class
-**3. The Unverifiables** — whose bonds could never be re-verified after the Registry Collapse of 2798; they exist in Taurus without the district's fundamental unit of social legitimacy, in a limbo the district's culture refuses to acknowledge
+**3. The Unverifiables** — whose bonds could never be re-verified after the Registry Collapse of 2812; they exist in Taurus without the district's fundamental unit of social legitimacy, in a limbo the district's culture refuses to acknowledge
 **4. The Newcomers** — arriving from Cancer or Sagittarius, bringing different ideas of what home and stability look like; they're the cultural challenge to Taurus' conception of what family is
 
 **Unity of Opposites (Internal):**
@@ -151,7 +151,7 @@ This is a design reference document, not a preliminary suggestion. It synthesize
 
 ### Internal Conflict — Three Parties
 
-**1. The Merit Establishment** — those at the top of the spires; who genuinely believe in earned status and have records to prove it; who interpret the Merit Board Audit of 2861 as methodologically flawed
+**1. The Merit Establishment** — those at the top of the spires; who genuinely believe in earned status and have records to prove it; who interpret the Merit Board Audit of 2761 as methodologically flawed
 **2. The Robot Rights Underground** — primarily workers whose contributions were systematically undervalued for decades; the Audit is their primary exhibit; currently suppressed, organizing quietly, knowing that when they surface the Audit will be their opening argument
 **3. The Guild Loyalists** — those trapped in guilds that no longer fit or in lower-spire positions that the merit system says they belong in but which feel closed; they believe in the merit system in principle but experience it as self-reinforcing in practice; not robot rights advocates exactly, but the sympathetic middle ground the Underground needs to win
 

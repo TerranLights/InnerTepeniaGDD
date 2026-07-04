@@ -54,7 +54,7 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **Status:** Confirmed — core facts established
 
-**Dates:** Early 2800s — approximately 230–240 years after the Falkland Treaty (~2794–2804). *(Updated 2026-07-03 — previously "early 2700s"/~130–140 years; pushed forward ~100 years at the developer's request, with the entire post-war timeline, including the current in-game era and all downstream district/questline dates, shifted by the same amount to preserve every existing relative relationship. See `project_long_night_war_date_shift` memory for the full changelist.)*
+**Dates:** **2812** — approximately 248 years after the Falkland Treaty. *(Canonized 2026-07-04 — previously a range, "early 2800s"/~2794–2804; the developer fixed it to a single precise year. Earlier, 2026-07-03, the war had been pushed forward ~100 years from "early 2700s"/~130–140 years post-Treaty at the developer's request, with the entire post-war timeline shifted by the same amount. See `project_long_night_war_date_shift` and `project_district_canon_timeline_fix` memories for the full changelist and downstream date recalculations.)*
 
 **Relationship to the War of Upper Earth:** Completely separate conflict. The Long Night War is the **second** anti-robot war. The War of Upper Earth was the first.
 

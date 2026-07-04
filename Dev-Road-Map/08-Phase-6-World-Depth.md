@@ -48,7 +48,7 @@ Janbogo has core facts but no cultural depth. Given its narrative significance (
 
 ### Fort McMurdo
 
-The name suggests a connection to the real-world McMurdo Station — the largest Antarctic research station, built and operated primarily by the United States. In Inner Tepenia's world, the geopolitical context has changed dramatically, but the site's history as a center of Antarctic presence makes it significant. What is Fort McMurdo in 2886? A military city? A research city? A city that was both and is now something more complicated?
+The name suggests a connection to the real-world McMurdo Station — the largest Antarctic research station, built and operated primarily by the United States. In Inner Tepenia's world, the geopolitical context has changed dramatically, but the site's history as a center of Antarctic presence makes it significant. What is Fort McMurdo in the present day *(corrected 2026-07-04 from an illustrative "2886" — the game's actual current era is now confirmed as ≈2822–2827, and Fort McMurdo is established elsewhere as destroyed in the Long Night War, so this question is really about its ruins/legacy state rather than an ongoing city)*? A military city? A research city? A city that was both and is now something more complicated?
 
 ---
 
@@ -117,7 +117,7 @@ The Gyeong-ja Yun case specifically is listed in the quest layer (Phase 5 task 5
 
 **Priority: Low. The district designs are solid; these are fill-in items.**
 
-- Named evacuee individuals (specific people from the pre-war exodus, present in Concordia in 2886)
+- Named evacuee individuals (specific people from the pre-war exodus, present in Concordia in the present day, ≈2822–2827 *(corrected 2026-07-04 from an illustrative "2886," which was ~60 years past the game's actual confirmed current era)*)
 - Unified Korea's role and political position in the current world (currently named but undefined)
 - The Midwestland world reference (appears in character backstories but has no document)
 - Sinian Federation (deliberately deferred; remains deferred unless needed for main game content)

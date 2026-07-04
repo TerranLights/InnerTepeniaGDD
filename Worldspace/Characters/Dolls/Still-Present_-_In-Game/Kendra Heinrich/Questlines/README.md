@@ -33,4 +33,4 @@ Her quest involves finding those individuals, documenting their specific cases, 
 
 ### Cross-Questline Connection
 - The Capricorn District Canon Reference notes the robot rights undercurrent exists and is currently suppressed. Kendra's arc is the moment it surfaces.
-- The Merit Board Audit of 2861 is the primary exhibit. Finding and deploying it is likely a central act in the quest.
+- The Merit Board Audit of 2761 is the primary exhibit. Finding and deploying it is likely a central act in the quest.

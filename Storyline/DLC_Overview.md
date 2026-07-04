@@ -102,6 +102,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - The player must walk from the breakdown point to the station
 - If the cold becomes too severe, the player can re-enter the Kharkovchanka for shelter — but doing so means backtracking to the breakdown point and starting the walk over again
 - The Kharkovchanka serves as a mobile base of last resort; every return to it costs progress
+- **Cross-DLC Survival Gifts** *(see section below)*: whatever the player accumulated across the other 6 DLCs is meant to matter here specifically — e.g. Ji-Eun's cloaking tech for the automated defenses, and (if pursued) the Mawson DLC's cold-survival benefit for the walk itself. This mission is the intended payoff point for that whole chain.
 
 ---
 
@@ -144,6 +145,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - Syowa is a major highway junction — where Hwy 37 (inland plateau route to Concordia) meets Hwy 7-ext (Atlantic coast system); significant transfer point in pre-war Tepenia
 - Diverse national origins: Australian (Mawson, Davis), Japanese (Syowa), Russian (Soyuz), Indian (Bharati), Sinian Federation (Zhongshan)
 - Zhongshan — Sinian Federation city, named after Sun Yat-sen; where Hwy 22 (Transcontinental) meets Hwy 110 (Coastal Cut)
+- Dome Fuji *(corrected 2026-07-04 — this file previously misattributed Dome Fuji to the Halley subnet/DLC 5; it is Mawson subnet, confirmed across `Official_Population_Census.md`, `City_Relationship_Database.md`, and `Overview.md`)* — road-isolated interior plateau city; 100% robot population (55,072, resolved 2026-07-04); one of the two primary sacred sites for "Ice Cold Buddhism," a robot religion venerating extreme cold; see `Cities/Local_Cultures/Mawson_Subnet/Dome_Fuji.md` for its full cultural sheet. See also **Cross-DLC Survival Gifts**, below — Dome Fuji is the proposed source of this DLC's contribution to that chain.
 
 ---
 
@@ -153,7 +155,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Central character:** Salagéa Aparast (confirmed canon)
 **Main storyline:** TBD — **working anchor established 2026-07-03:** control over Troll Airfield (the only intercontinental-capable runway in the subnet, functional post-war but contested) is the current candidate central conflict/"MacGuffin" for this DLC. Explicitly tentative: full details (who's contesting it, to what ends, faction conditions across the subnet's cities) wait for actual DLC design & development, and further subnet/storyline development could still shift the airfield from the main objective to an important side-piece if something else emerges as the true centerpiece. Still, it's a solid working anchor rather than a blank slate. See `Cities/Specs/Troll.md` and `Cities/Local_Cultures/Halley_Subnet/Troll.md` ("Whoever Holds the Runway").
 **Key lore assets:**
-- Atlantic/Queen Maud Land coast cities: Halley, Belgrano, Neumayer, Sanae, Troll, Aboa, Lazar, Princess Elisabeth, Dome Fuji (road-isolated, inland)
+- Atlantic/Queen Maud Land coast cities: Halley, Belgrano, Neumayer, Sanae, Troll, Aboa, Lazar, Princess Elisabeth
 - Halley — built on a floating ice shelf; the city literally moved over time; unique structural character in all of Tepenia
 - Hwy 59 (Atlantic Throughway / Arcanet Line) originates at Halley — the cable corridor connecting the Atlantic subnet to the inter-subnet relay at the South Pole; damage to Hwy 59 = simultaneous highway disruption and Arcanet disruption
 - Belgrano Highway Extension built 2611–2614 — the only confirmed highway construction event with in-world dates; represents Tepenia actively expanding its infrastructure during peacetime
@@ -192,8 +194,22 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 - Mirny city — sits precisely on the Antarctic Circle; the threshold city; extreme katabatic winds; intra-subnet Arcanet link with Concordia (the only external city Concordia can theoretically still communicate with post-Split-Brain)
 - Casey — destroyed; highway junction where Hwy 110 meets the Dumont Coast Highway (Hwy 2); blocking factor for Pink Lucy's Route B migration
 - Vostok — survived but effectively unreachable; coldest city in Tepenia (record low −89.2°C); sits above Lake Vostok (subglacial lake isolated for 25 million years); robot geneticist as central DLC character
-- Kunlun — survived; highest city in Tepenia (~4,093m at Dome A); holiest site in Tepenia for "Ice Cold Buddhism" practitioners; observatory with centuries of astronomical data — **its findings must be implemented as a specific DLC story beat, not background flavor**; Sinian Federation's only Antarctic city
-- Dome Fuji is in the Halley subnet, not the Mirny subnet — it belongs to DLC 5
+- Kunlun — survived; highest city in Tepenia (~4,093m at Dome A); holiest site in Tepenia for "Ice Cold Buddhism" practitioners; observatory with centuries of astronomical data — **its findings must be implemented as a specific DLC story beat, not background flavor**; Sinian Federation's only Antarctic city; 100% robot, 100% Chinese population (123,449, resolved 2026-07-04) — see `Cities/Specs/Kunlun.md`
+- Dome Fuji is in the Mawson subnet, not the Mirny subnet *(corrected 2026-07-04 — this line previously said "Halley subnet... belongs to DLC 5," which was wrong twice over; see DLC 4 entry, above, where Dome Fuji actually belongs)* — it belongs to DLC 4
+
+---
+
+## Cross-DLC Survival Gifts *(concept established 2026-07-04)*
+
+**The idea:** each of the 7 DLCs contributes one "gift" to the player — an item, perk, implant, weapon, or piece of armor, exact form TBD case by case — that is somehow, in some form, relevant to DLC 1's climactic South Pole mission to extract and rescue Kendra Heinrich. Individually, each gift makes sense within its own DLC's story. Collectively, by the time the player reaches DLC 1, they're arriving with a kit assembled piece by piece across the whole game — every prior DLC quietly paying forward into the hardest, coldest, most isolated mission in Tepenia.
+
+This is explicitly a slow-build structure: most of the 7 gifts are undesigned (TBD), pending each DLC's own storyline development. The two currently defined:
+
+- **Base game — Ji-Eun Kim's cloaking technology.** Lets the player walk directly past Amundsen Station's automated defenses rather than fighting through them. Ji-Eun is a confirmed main-game companion (Aquarius/The Labs, Concordia — see `Characters/Major_NPCs/Ji-Eun_Kim.md`), so this gift's origin point is settled, not pending.
+- **DLC 4 (Mawson) — the Ice Cold Buddhism thread (proposed, TBD in specifics).** A fully optional lead — via an NPC or a discoverable in-world clue, details TBD — that points the player toward Dome Fuji and the "Ice Cold Buddhism" faith (see `Cities/Local_Cultures/Mawson_Subnet/Dome_Fuji.md`). If the player follows it to the faction questline's end, **regardless of which branch/ending they choose**, some form of extreme-cold survival benefit is granted on top of whatever branch-specific perk that questline's own dual-outcome structure produces (see `feedback_dual_outcome_companion_perks` binding law — this cold-survival benefit is an *additional* cross-cutting reward layered on top of that structure, not a replacement for it). Working mechanical proposal: the player continues to draw normal benefit from siligel even in cold conditions; in Hardcore Mode, the existing reduced-siligel-benefit-in-cold penalty still applies, but the player is no longer *also* hit with the separate extreme-cold MACHINE stat penalty. Exact implementation (perk vs. implant vs. equipped item) is open.
+- **DLCs 2, 3, 5, 6, 7 — TBD.** Each remaining DLC needs its own gift designed once that DLC's storyline is actually developed — the form should emerge from what that DLC is about, not be forced in ahead of time. Flag this concept when each DLC's design work begins.
+
+**Design note:** since DLC 1 releases *last* despite its "DLC 1" label (see the DLC-numbering note near the top of this file), this chain can be built with full knowledge of what all 6 other DLCs actually contain by the time DLC 1 itself is designed — there's no risk of committing to a DLC 1 mechanic before the earlier gifts exist to support it.
 
 ---
 
@@ -201,7 +217,6 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 
 - **Central characters** for DLCs 2, 3, 4, 6, 7 — all TBD (DLC 1: Kendra Heinrich; DLC 5: Salagéa Aparast; DLC 7 Vostok character: robot geneticist, full profile TBD)
 - **Main storylines** for all seven DLCs — all TBD (except South Pole has Kendra Heinrich as anchor)
-- **Ji-Eun Kim** — if she appears in a DLC rather than the main game, which region? (decision pending — see TODO)
 - **Byrd air connection to Framheim** — details TBD
 - **Dumont d'Urville in Janbogo DLC** — included directly or side-content references only? (TBD)
 - **Release order** of DLCs — TBD

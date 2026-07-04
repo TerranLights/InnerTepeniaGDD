@@ -20,6 +20,6 @@ Direct tensions:
 - **Taurus:** The quiet hoarding during the Long Night crisis that Taurus has never acknowledged and Cancer has never forgotten.
 
 ## Narrative Hooks for Player Interaction
-- She has information about Cancer's Overcrowding Decision of 2821 — the event whose records were quietly destroyed. She does not have the documents, but she knows what was decided and who was in the room.
+- She has information about Cancer's Overcrowding Decision of 2813 — the event whose records were quietly destroyed. She does not have the documents, but she knows what was decided and who was in the room.
 - She can mobilize Cancer's community voice on the player's behalf — or against the player, if the player's actions violate the district's moral compact.
 - She will tell the player, clearly and without judgment, what a decision will cost the vulnerable people of Concordia — making her a moral compass that is neither preachy nor naive.

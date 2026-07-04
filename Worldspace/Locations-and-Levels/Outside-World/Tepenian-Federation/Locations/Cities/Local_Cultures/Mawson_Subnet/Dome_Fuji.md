@@ -208,7 +208,9 @@ Likely filtered through the religion's own philosophy rather than expressed as r
 
 ## 24. Arcanet Culture
 
-Likely minimal and ceremonial rather than a heavy information culture — a population organized around stillness and withdrawal from ordinary civic noise may treat network use the way it treats sound (see Section 12): sparing, purposeful, not filled with the casual social use common elsewhere in Tepenia. To whatever extent the Arcanet is used deliberately, it may function as the mechanism by which distant devotees learn of Dome Fuji and begin their pilgrimage in the first place — a recruitment channel more than a social one.
+**Established canon (2026-07-04):** at extreme-altitude locations like Dome Fuji, there is basically no Arcanet *connectivity* — whatever cable or relay infrastructure would normally carry the network to a settlement essentially doesn't reach or function here in any meaningful way. This isn't a cultural choice (unlike the deliberate quiet described elsewhere in this sheet) — it's an infrastructure baseline. Dome Fuji is, for practical purposes, off the Arcanet.
+
+Whatever "Arcanet culture" means at Dome Fuji, then, has to be understood against that near-total absence rather than as a restrained or minimal version of normal network use. Any devotee arriving at Dome Fuji is likely arriving into genuine informational isolation from the rest of Tepenia — consistent with the pilgrimage's own character as a journey away from ordinary connected civic life, not just away from population centers. Whatever news of Dome Fuji reaches prospective pilgrims elsewhere in Tepenia (see Section 25's recruitment angle) more likely travels by word of mouth carried between cities than by any direct Arcanet link to Dome Fuji itself.
 
 ---
 

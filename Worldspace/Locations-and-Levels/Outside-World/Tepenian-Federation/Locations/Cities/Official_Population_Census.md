@@ -297,11 +297,11 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | TBD |
-| Significant | TBD |
-| Notable | TBD |
+| Primary | China, Japan, South Korea, Russia, Indonesia, Australia |
+| Significant | USA, Thailand, Vietnam, Philippines, Malaysia, New Zealand, Belarus |
+| Notable | Germany, France, UK, Italy, Canada, Spain, Mexico, Poland, Netherlands, Belgium, Sweden, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Note: National origin composition pending immigration composition analysis. Primary setting of Inner Tepenia; largest surviving city in the post-Long Night War period. Population figures are no longer pending — see Section III; Concordia received its first population figures 2026-07-03 via the Framheim/Little America redistribution plus a share of Palmer City's over-cap population. Composition carries forward proportionally from those sources without a computed per-nation table.*
+*Note: Composition resolved 2026-07-04, superseding the earlier "carries forward from Framheim/Little America" placeholder note. Methodology: Concordia's real solar longitude (123°20'E, UTC+8) was used to define a ±5 solar-time-zone eligibility window (UTC+3 to UTC+13) — wider than the standard ±3 used elsewhere, per the developer's direction — producing 12 qualifying nations by Gini-adjusted effective population, distributed across Concordia's 504,799H/511,148R using the standard T1=8/T2=3/T3=1 share weighting. Half of the resulting China figure was then deliberately redistributed proportionally by Gini weight across the USA, Canada, Mexico, and 23 European nations (all outside the ±5 window on pure geography, added by explicit developer decision rather than the timezone rule) — reflecting a founding-operator throughline, since Concordia Station's real founding nations were France and Italy, even though neither ends up Primary in the long-run composition. France and Italy land in the Notable tier as a result — a genuine founding-wave-vs-long-run-majority tension, the same pattern used at several other Tepenian cities (see `Cities/Local_Cultures/*/*.md` "founding tension" sections). Full per-nation head counts: China 140,131; Japan/South Korea/Russia/Indonesia/Australia 105,098 each; USA 51,641; Thailand/Vietnam/Philippines/Malaysia/New Zealand/Belarus 35,033 each; Germany 15,326; France 11,661; UK 10,661; Italy 8,996; Canada/Spain 6,663 each; Mexico 5,997; Poland 3,998; Netherlands 3,331; Belgium 2,132; Sweden 1,999; Czech Republic/Ukraine 1,666 each; Romania 1,499; Norway/Finland 1,099 each; Hungary 1,000; Slovakia 733; Croatia 433; Bulgaria/Serbia 400 each; Lithuania/Slovenia 334 each; Latvia/Estonia 200 each. Total 1,015,950 (off by 3 vs. 1,015,947, rounding across 37 nations — immaterial).*
 
 ---
 
@@ -423,11 +423,11 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | TBD |
-| Significant | TBD |
-| Notable | TBD |
+| Primary | USA, Japan |
+| Significant | South Korea, Canada, Indonesia, Australia |
+| Notable | New Zealand, Chile |
 
-*Note: National origin composition pending immigration composition analysis. Population figures are no longer pending — see Section III; Vostok received its first population figures 2026-07-03 via the Framheim/Little America redistribution. Composition carries forward proportionally from that source (Primary USA/Japan; Significant South Korea, Canada, Indonesia, Australia founding wave) without a computed per-nation table.*
+*Note: composition carried forward from the former Framheim/Little America population (2026-07-03 redistribution) — corrected 2026-07-04, this table previously still said "TBD" in all three tiers despite the note beneath it already stating the actual composition; the table itself was never updated to match. This is a genuine, unresolved tension with `Specs/Vostok.md`'s own founding story, which describes Vostok's founding population as "primarily Russian exiles" — the population that actually exists today carries none of that Russian heritage at all, having arrived entirely via an unrelated later redistribution event with a totally different national profile. See `Local_Cultures/Mirny_Subnet/Vostok.md` for this tension developed as a cultural feature rather than an oversight.*
 
 ---
 
@@ -547,36 +547,40 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 *Adjusted again 2026-07-04 — the Kunlun/Dome Fuji redistribution reclassified 87,548 humans (60,581 in the Kunlun round, 26,967 in the Dome Fuji round) as robots. Since this table tracks human exile population only, that reduction is subtracted from each nation's share of the humans actually removed from each source city — nothing is added back for either destination, since both Kunlun and Dome Fuji ended up with zero humans (100% robot). This is true even for China, despite Kunlun's population being 100% Chinese — that population is entirely robot, so it does not appear in this humans-only table at all. Off by 3 (15,623,526 vs. 15,623,523) due to rounding across 42 nations; immaterial.*
 
+***Rebuilt from scratch, 2026-07-04*** — *superseding every prior version of this table. Rather than patching the previous version (which was quietly built against Concordia's old, never-itemized "carries forward from Framheim/Little America" placeholder), this table was recomputed directly from Section I's actual, current per-city tier compositions: for each of the 35 cities with a human population (Kunlun and Dome Fuji excluded — both 100% robot), each Primary-tier nation received 8 shares, each Significant-tier nation 3 shares, each Notable-tier nation 1 share, applied against that city's own current Census I human population — the same T1/T2/T3 share methodology used throughout this project (`Upper_Earth_Immigration_Composition.md`). Concordia's own contribution used its precise, already-computed per-nation figures directly (see Section I) rather than the tier-share approximation, since exact numbers already existed for it. Off by 4 (15,623,527 vs. 15,623,523) due to rounding across 42 nations and 35 cities; immaterial.*
+
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 4,609,344 | | Chile | 49,026 |
-| China | 3,252,907 | | Hungary | 48,806 |
-| Japan | 1,248,930 | | Norway | 44,328 |
-| Germany | 1,172,683 | | New Zealand | 42,602 |
-| UK | 1,008,174 | | Slovakia | 40,847 |
-| France | 593,394 | | Belgium | 32,423 |
-| South Korea | 483,816 | | Finland | 30,950 |
-| Brazil | 364,658 | | Spain | 30,870 |
-| Russia | 330,976 | | Sweden | 27,491 |
-| Indonesia | 287,939 | | Belarus | 25,285 |
-| Australia | 255,122 | | Croatia | 25,053 |
-| Canada | 216,897 | | Bulgaria | 23,115 |
-| Poland | 194,257 | | Serbia | 22,685 |
-| Argentina | 128,714 | | Slovenia | 19,812 |
-| Netherlands | 128,695 | | Lithuania | 18,191 |
-| Mexico | 122,194 | | Estonia | 16,444 |
-| Italy | 100,951 | | Latvia | 12,342 |
-| Thailand | 90,391 | | Uruguay | 4,653 |
-| Ukraine | 86,284 | | | |
-| Czech Republic | 85,718 | | | |
-| Romania | 80,096 | | | |
-| South Africa | 72,474 | | | |
-| Philippines | 70,501 | | | |
-| Malaysia | 67,933 | | | |
-| Vietnam | 55,555 | | | |
-| **TOTAL** | **15,623,526** *(off by 3, rounding)* | | | |
+| USA | 2,546,383 | | Philippines | 199,864 |
+| China | 1,705,106 | | Malaysia | 199,864 |
+| UK | 1,013,612 | | New Zealand | 191,551 |
+| Germany | 834,735 | | Belarus | 173,315 |
+| Japan | 787,053 | | Italy | 164,503 |
+| Australia | 685,212 | | Ukraine | 163,252 |
+| South Korea | 674,732 | | Romania | 163,169 |
+| Indonesia | 652,549 | | Bulgaria | 162,623 |
+| Brazil | 623,614 | | Lithuania | 162,590 |
+| France | 548,723 | | Latvia | 162,523 |
+| Russia | 478,814 | | Estonia | 159,613 |
+| Canada | 327,105 | | Thailand | 152,357 |
+| Argentina | 301,375 | | Vietnam | 152,357 |
+| Mexico | 235,846 | | Poland | 148,397 |
+| South Africa | 226,356 | | Czech Republic | 147,238 |
+| Chile | 217,164 | | Hungary | 146,907 |
+| | | | Slovakia | 146,774 |
+| | | | Croatia | 146,625 |
+| | | | Slovenia | 146,576 |
+| | | | Serbia | 131,508 |
+| | | | Netherlands | 121,830 |
+| | | | Norway | 107,113 |
+| | | | Uruguay | 92,073 |
+| | | | Finland | 82,716 |
+| | | | Spain | 56,625 |
+| | | | Sweden | 41,662 |
+| | | | Belgium | 41,523 |
+| **TOTAL** | | | | **15,623,527** *(off by 4, rounding)* |
 
-*Note: This total matches Census I's official human population (15,623,523, off by 3 rounding) — the reduction from the previous total (15,711,071) reflects the 87,548 humans reclassified as robots in the Kunlun/Dome Fuji redistribution.*
+*Note: This is a genuinely different table from every previous version — it's not just an updated total, the actual per-nation rankings shift meaningfully. USA overtakes China more decisively (was 4.6M vs 3.3M pre-rebuild; now 2.5M vs 1.7M — both dropped in absolute terms since Kunlun's 123,449 and Dome Fuji's share are robot-only and excluded, but the drop wasn't proportional, since the previous table's per-nation split was Concordia's stale placeholder, not this rebuild's real per-city math). Germany, UK, and Japan all sit meaningfully higher than before, reflecting Concordia's genuinely new China/Japan/Korea/Russia/Indonesia/Australia-led composition and the wide European "Notable" tier it introduced across 25 nations that weren't previously credited with any Concordia presence at all.*
 
 ---
 
@@ -610,58 +614,61 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(destroyed in Long Night War)* |
 | 17 | Bharati_TBD | Mawson | 336,124 | 392,200 | **728,324** | |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
-| 19 | Aboa | Halley | 310,791 | 296,650 | **607,441** | |
-| 20 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
-| 21 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
-| 22 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
-| 23 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(island cap; revised 2026-07-03 — see note above Census I table; Census II-specific over-cap trim not yet computed, see note below)* |
-| 24 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
-| 25 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
-| 26 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
-| 27 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
-| 28 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
-| 29 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
-| 30 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
-| 31 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
-| 32 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
-| — | **TOTAL (Antarctic)** | | **9,565,644** | **10,469,073** | **20,034,717** | *(decreased 2026-07-03 by 1,160,692 — Framheim/Little America removed entirely, see note below; increased separately by 83,150 for the earlier Palmer City expansion, net addition not redistribution)* |
+| 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section I)* |
+| 20 | Aboa | Halley | 310,791 | 296,650 | **607,441** | |
+| 21 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
+| 22 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
+| 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
+| 24 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(island cap; revised 2026-07-03 — see note above Census I table; Census II-specific over-cap trim not yet computed, see note below)* |
+| 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
+| 26 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
+| 27 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
+| 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
+| 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
+| 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
+| 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
+| 32 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
+| 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
+| — | **TOTAL (Antarctic)** | | **9,874,712** | **10,795,307** | **20,670,019** | *(increased 2026-07-04 by Concordia's new 635,302 combined; decreased 2026-07-03 by 1,160,692 — Framheim/Little America removed entirely, see note below; increased separately by 83,150 for the earlier Palmer City expansion, net addition not redistribution)* |
 
-*Note: Framheim and Little America are removed from Census II (and all census figures) entirely — see the Census I table's removal note above for the full real-world justification (1987 Iceberg B-9 calving eliminated their shared site). **The Census I redistribution of their combined population to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — and the Palmer City cap-correction trim — were both computed for Census I only.** Census II figures for those seven cities do not yet reflect any equivalent redistribution; this is a flagged gap, not an oversight to be read as final. Kunlun and Dome Fuji remain without Census II figures for the same reasons given at the Census I table. Byrd, Concordia, and Vostok are also still absent from Census II specifically (their Census I figures are new, but no Census II figures have been computed for them yet).*
+*Note: Framheim and Little America are removed from Census II (and all census figures) entirely — see the Census I table's removal note above for the full real-world justification (1987 Iceberg B-9 calving eliminated their shared site). **The Census I redistribution of their combined population to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — and the Palmer City cap-correction trim — were both computed for Census I only.** Census II figures for those seven cities do not yet reflect any equivalent redistribution; this is a flagged gap, not an oversight to be read as final. Kunlun and Dome Fuji remain without Census II figures for the same reasons given at the Census I table. Byrd and Vostok are also still absent from Census II specifically (their Census I figures are new, but no Census II figures have been computed for them yet) — Concordia's own gap was closed 2026-07-04, see its table row above.*
 
 ### Antarctic Surface — Subnet Totals (Census II)
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures. Janbogo subnet further revised 2026-07-04 for Concordia's new Census II figures.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 3,366,948 | 3,514,765 | **6,881,713** |
-| Janbogo / Ross Sea | 2,157,619 | 2,484,972 | **4,642,591** |
+| Janbogo / Ross Sea | 2,466,687 | 2,811,206 | **5,277,893** |
 | Mawson / Indian Ocean | 1,286,498 | 1,447,521 | **2,734,019** |
 | Palmer / Antarctic Peninsula | 1,461,594 | 1,724,720 | **3,186,314** |
 | Mirny / Wilkes Land + Plateau | 1,904,061 | 1,932,745 | **3,836,806** |
 | Byrd / Ross Ice Shelf | 0 | 0 | **0** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
-| **TOTAL (Antarctic)** | **9,565,644** | **10,469,073** | **20,034,717** |
+| **TOTAL (Antarctic)** | **9,874,712** | **10,795,307** | **20,670,019** |
 
 ### Orbital Population (Census II)
 
-*Low-earth orbit: Von Braun Wheel habitats and associated infrastructure.*
+*Low-earth orbit: primarily O'Neill Cylinders (the long-term residence structure for both humans and robots since Stage 2 of orbital construction), plus Von Braun Wheels (a mobile, expansion-crew structure moving people and materials to build further infrastructure, not a competing permanent-residence option) and the original robot-only staging stations that preceded both — corrected 2026-07-04, see note below.*
 
 | | Humans | Robots | Combined |
 |---|--------|--------|----------|
-| **Orbital population** | **4,965,736** | **4,577,340** | **9,543,076** |
+| **Orbital population** | **5,748,811** | **5,607,770** | **11,356,581** |
 
-*Approximately 30% of the total Tepenian population was living or working in orbit at the time the Long Night War began. Orbital human-robot composition is approximately 52% human / 48% robot — slightly human-heavy compared to the Antarctic surface, reflecting that Von Braun Wheel habitats were designed for human habitation from the initial construction phase onward.*
+*Recalculated 2026-07-04 — see fix note below. Approximately 35.5% of the total Tepenian population was living or working in orbit at the time the Long Night War began (previously stated as "~30%," based on the stale figures this fix replaced). Orbital human-robot composition is approximately 50.6% human / 49.4% robot — still slightly human-heavy compared to the Antarctic surface (47.8% human), though less pronounced than the old ~52%/48% figure suggested. **Corrected 2026-07-04:** this table previously attributed the human-heavy tilt to "Von Braun Wheel habitats being designed for human habitation from the initial construction phase onward" — but per established build-order canon (see `TODO.md`), Cylinders, not Wheels, are the primary long-term residence structure, and Wheels are a specialized mobile/expansion-crew type, not a population-defining habitat. That explanation was already flagged in `TODO.md` as retired and in need of a replacement — this table shouldn't have kept stating it as settled. The actual cause of the human-heavy tilt remains an open design question (see `TODO.md`'s "Orbital population — human/robot ratio" entry) — not attributed to any specific structural cause here.*
 
 ### Full Tepenian Population: Census II (Surface + Orbital)
 
 | | Antarctic Surface | Orbital | **Grand Total** |
 |---|-----------|---------|----------------|
-| Humans | 10,685,689 | 4,965,736 | **15,651,425** |
-| Robots | 11,678,187 | 4,577,340 | **16,255,527** |
-| **Combined** | **22,363,876** | **9,543,076** | **31,906,952** |
+| Humans | 9,874,712 | 5,748,811 | **15,623,523** |
+| Robots | 10,795,307 | 5,607,770 | **16,403,077** |
+| **Combined** | **20,670,019** | **11,356,581** | **32,026,600** |
 
-*Grand totals are identical between Census I and Census II. Population is conserved — all movement between censuses is redistribution from Antarctic surface to orbit, not net gain or loss.*
+*Grand totals are identical between Census I and Census II — population is conserved, all movement between censuses is redistribution from Antarctic surface to orbit, not net gain or loss. This is now exactly true (32,026,600 both), rather than approximately true.*
+
+***Fix applied 2026-07-04:*** *This table and the Orbital Population figures above it were stale — computed once, early in the project, and never updated through several subsequent rounds of population changes (the Lazar redistribution, the Palmer City expansion, the Framheim/Little America removal, and now Kunlun/Dome Fuji/Concordia's new populations), even though the "Antarctic Surface — Subnet Totals (Census II)" table just above this section was actively kept current through every one of those changes. The old Orbital figure (4,965,736H/4,577,340R) was a relic from before all of that. Fixed by treating the actively-maintained Antarctic Surface subnet totals as authoritative and recalculating Orbital as the exact remainder needed to make Census II's Human and Robot totals match Census I's exactly (per this file's own population-conservation rule) — Orbital Humans = Census I Humans − Antarctic Surface Humans, same for Robots. This raised the Orbital population's share of the total from ~30% to ~35.5%, and made the "grand totals are identical" claim exactly true instead of off by 119,648.*
 
 ---
 
