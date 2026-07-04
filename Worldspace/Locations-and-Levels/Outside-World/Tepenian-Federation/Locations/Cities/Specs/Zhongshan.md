@@ -64,7 +64,7 @@ Prydz Bay maritime logistics, scientific research, cluster economy with Soyuz an
 ---
 
 ## Connection to Concordia
-Zhongshan is in the Mirny subnet *(corrected 2026-07-04 — this line previously said "Mawson subnet," a leftover from before the header field was corrected 2026-07-03)*. The Sinian Federation's Tepenian presence spans Zhongshan (Mirny subnet) and Kunlun (also Mirny subnet — the holiest Ice Cold Buddhism site, and now confirmed 100% Chinese by population, per its own 2026-07-04 redistribution). Whether any Sinian exile community exists in Concordia is TBD, but given the Mirny subnet's connection to Concordia, a Kunlun-origin Sinian community in Concordia is possible.
+Zhongshan is in the Mirny subnet *(corrected 2026-07-04 — this line previously said "Mawson subnet," a leftover from before the header field was corrected 2026-07-03)*. The Sinian Federation's Tepenian presence spans Zhongshan (Mirny subnet) and Kunlun (also Mirny subnet — the holiest Ice Cold Buddhism site, and now confirmed 100% Chinese by population, per its own 2026-07-04 redistribution). *Further corrected 2026-07-04: the line below previously invoked "the Mirny subnet's connection to Concordia" as a justification — that connection doesn't exist. Concordia is a Janbogo subnet city, and the Planetary Split Brain severed every inter-subnet Arcanet link without exception, Mirny subnet included.* Whether any Sinian exile community exists in Concordia is TBD; if one does, it would be an ordinary pre-war diaspora/migration presence like any other city's, not the product of any surviving subnet connection.
 
 ---
 

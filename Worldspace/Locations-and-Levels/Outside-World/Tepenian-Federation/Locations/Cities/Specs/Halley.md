@@ -122,7 +122,7 @@ Full economic detail TBD for DLC 5 design.
 
 ## Connection to Concordia
 
-Halley is the geographically closest Atlantic subnet city to Concordia in terms of the Arcanet relay — its signals ran through Amundsen Station to reach the Mirny subnet. After the Split Brain, that connection is severed. Halley's Arcanet subnet now holds an isolated version of Atlantic history that Concordia cannot access without reaching the Amundsen Station archive.
+Halley is the geographically closest Atlantic subnet city to Concordia in terms of the Arcanet relay — its signals ran through Amundsen Station to reach Concordia's subnet *(corrected 2026-07-04 — previously said "the Mirny subnet"; Concordia is a Janbogo subnet city, not Mirny)*. After the Split Brain, that connection is severed. Halley's Arcanet subnet now holds an isolated version of Atlantic history that Concordia cannot access without reaching the Amundsen Station archive.
 
 Halley refugees in Concordia exist but are not numerous — the Atlantic coast is far from Concordia and the overland route is not straightforward. Those who made it would have traveled a significant distance.
 

@@ -38,7 +38,7 @@ Inner Tepenia uses the Fallout 1, 2, and New Vegas ending model. This is a bindi
 
 The Long Night War destroyed Amundsen Station, severing all inter-subnet Arcanet connections permanently. Each of the six subnets (Palmer, Halley, Mawson, Mirny, Janbogo, Byrd) has been informationally isolated since then, developing its own version of historical records — sometimes in direct conflict with other subnets.
 
-In the main game, set in Concordia (Mirny subnet), this manifests as background: some refugee NPCs have accounts that don't quite match the official Concordia record. The player may notice. They may not. Nothing forces the issue.
+In the main game, set in Concordia (Janbogo subnet *— corrected 2026-07-04, previously misstated as Mirny subnet*), this manifests as background: some refugee NPCs have accounts that don't quite match the official Concordia record. The player may notice. They may not. Nothing forces the issue.
 
 In each DLC, the player encounters a different subnet's version of history. If they've played multiple DLCs, they will notice that the Palmer account contradicts the Janbogo account, or that both contradict what Concordia believes. No character gives a lecture about this. The contradictions are just there, in dialogue, in terminal entries, in how different NPCs describe the same events.
 
@@ -171,7 +171,7 @@ Access to the pre-split archive (if the player pursues it) affects what Concordi
 **Central story:** TBD
 
 **PSB presence:**
-Byrd has its own account of the Long Night War and the evacuation. Players from Concordia (Mirny subnet) may find Byrd's account contradicts what they know. Byrd is also the only other place in Tepenia where significant living memory of pre-war Tepenia exists.
+Byrd has its own account of the Long Night War and the evacuation. Players from Concordia (Janbogo subnet *— corrected 2026-07-04, previously misstated as Mirny subnet*) may find Byrd's account contradicts what they know. Byrd is also the only other place in Tepenia where significant living memory of pre-war Tepenia exists.
 
 **Known structural notes:**
 Byrd is "struggling" — its survival is not secure. What the player does here determines whether it continues to exist. The nature of its struggle is TBD.

@@ -122,7 +122,9 @@ Astronomy, ice core science, and whatever the extreme altitude and isolation cou
 
 ## Connection to Concordia
 
-Kunlun is in the Mirny subnet alongside Concordia — but the connection is as theoretical as Vostok's. The overland distance from Kunlun to Mirny (its nearest subnet city) exceeds 1,200km across the interior plateau. Its Arcanet link, if it functions at all, routes through Mirny. Concordia knows Kunlun exists; nothing more.
+*Corrected 2026-07-04: this section previously claimed Kunlun is "in the Mirny subnet alongside Concordia" with an Arcanet link routing through Mirny. Concordia is actually a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception — there is no route from Kunlun to Concordia through Mirny or otherwise.*
+
+Kunlun is in the Mirny subnet — Concordia isn't. The overland distance from Kunlun to Mirny (its nearest actual subnet city) exceeds 1,200km across the interior plateau, making even *intra*-subnet contact theoretical at best. Concordia's knowledge of Kunlun is limited to whatever was recorded before the war; there is no live connection of any kind, informational or otherwise.
 
 The Sinian community in Concordia — if one exists — carries whatever connection to Kunlun that can be maintained across the isolation. Whether there is a Sinian diaspora community in Concordia, and what their relationship to Kunlun is, is TBD.
 

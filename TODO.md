@@ -6,6 +6,9 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ## Decision Required *(blocking other work)*
 
+- [x] **`City_Origin_Factions.md` split into two time-bound files — RESOLVED 2026-07-04**
+  The original combined file mixed interwar-period, in-city faction dynamics with post-war Concordia-refugee faction dynamics, and every faction in it was written from the post-war/refugee perspective — a scope mismatch once the user asked specifically about interwar-period (2564–late 2700s) local life. Split into `Worldspace/Factions/City_Origin_Factions_Interwar.md` (7 factions: Founding Argument, Competence Without Commentary, Methodologists, Tertulia, Archivists' Debate, Crossroads People, Saint Cities, plus a new Fort McMurdo interwar entry — all reframed to describe living, functioning cities, never displacement) and `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md` (4 factions fundamentally bound to having fled to Concordia: Continuity Schism, Burning Witness, Question of the Unbroken Name, McMurdo Problem — moved essentially unchanged). Old combined file deleted. Interwar file currently covers only 16 of ~35 interwar-era cities — see follow-up note below.
+
 These require a developer call before downstream work can proceed. None can be resolved through research or writing alone.
 
 - [x] **Dev-Road-Map illustrative "current year" placeholders (2886) — RESOLVED 2026-07-04**
@@ -454,7 +457,7 @@ These require a developer call before downstream work can proceed. None can be r
   - DLC 4: Mawson Region (Indian Ocean coast) — character and storyline TBD
   - DLC 5: Atlantic Coastal Region (Halley, Belgrano, Queen Maud Land) — **Salagéa Aparast** (confirmed canon); storyline TBD
   - DLC 6: Janbogo Region (Ross Sea) — character and storyline TBD
-  - DLC 7: Mirny Region (East Antarctic coast and interior) — **confirmed as its own DLC slot**; central character and storyline TBD; known assets: Mirny city (Antarctic Circle threshold, intra-subnet Arcanet link to Concordia), Casey (destroyed, blocks Pink Lucy Route B), Vostok (robot geneticist confirmed — reduced-mutation genetics breakthrough, Lake Vostok connection), Kunlun (Ice Cold Buddhism holy site, observatory implementation required as story beat); note: Dome Fuji is Halley subnet (DLC 5), not Mirny subnet
+  - DLC 7: Mirny Region (East Antarctic coast and interior) — **confirmed as its own DLC slot**; central character and storyline TBD; known assets: Mirny city (Antarctic Circle threshold, Hwy 110 physical link to Concordia — *corrected 2026-07-04, this was previously described as a surviving Arcanet link, which was wrong: Mirny and Concordia are different subnets, and the Planetary Split Brain severed that connection like every other inter-subnet one; see `Specs/Mirny.md`*), Casey (destroyed, blocks Pink Lucy Route B), Vostok (robot geneticist confirmed — reduced-mutation genetics breakthrough, Lake Vostok connection), Kunlun (Ice Cold Buddhism holy site, observatory implementation required as story beat); note: Dome Fuji is Halley subnet (DLC 5), not Mirny subnet
 
 - [ ] **Byrd / Framheim / Little America founding — lore development**
   Confirmed canon for the founding chain:

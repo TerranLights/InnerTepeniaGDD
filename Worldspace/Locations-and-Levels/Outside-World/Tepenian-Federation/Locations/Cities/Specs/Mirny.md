@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Mirny ("Australian") — subnet hub
 **Highway access:** Hwy 110 (Coastal Cut — connecting east toward Casey and Concordia; west toward Davis and Zhongshan)
-**Significance:** Hub of Concordia's own Arcanet subnet; the only major external city still able to communicate with Concordia via intra-subnet Arcanet after the Planetary Split Brain; sits precisely on the Antarctic Circle — the geographic threshold of the polar zone
+**Significance:** Hub of the Mirny subnet; *corrected 2026-07-04 — Mirny is Mirny subnet, Concordia is Janbogo subnet, so the Planetary Split Brain severed their Arcanet connection the same as every other inter-subnet link (see "Connection to Concordia" below for the real mechanism, which is physical highway proximity, not Arcanet)*; sits precisely on the Antarctic Circle — the geographic threshold of the polar zone
 **DLC:** Mirny is a DLC location — the main game is set exclusively in Concordia and its outer districts (Capricorn/industrial yards and Sagittarius/Frostlands); which DLC covers the Mirny subnet is TBD
 
 ---
@@ -64,11 +64,11 @@ The station is named after the sloop *Mirny* — one of the two ships in Fabian 
 
 - **The solstice events as civic moments:** the winter solstice sun-grazing and summer solstice sun-grazing are the most extraordinary regular visual phenomena in Mirny's year; they are not dramatic in the way auroras are — they are subtle, brief, and require knowing to look for them; available as atmospheric set pieces in whichever DLC covers Mirny
 - **Wind as the primary outdoor hazard:** unlike Concordia (cold) or Janbogo (katabatic wind + cold), Mirny's defining outdoor challenge is specifically the wind regime; even at relatively moderate temperatures, sustained katabatic events make outdoor exposure dangerous
-- **Intra-subnet Arcanet communication:** as the Mirny subnet hub, Mirny can still communicate with Concordia via the Arcanet even after the Planetary Split Brain — the Split Brain severed inter-subnet connections, not intra-subnet ones; this makes Mirny uniquely positioned among external cities; the extent to which this communication channel is actually functioning (given Mirny's damaged state) is TBD; in the main game, Concordia residents may have awareness of this theoretical link without the player being able to act on it directly — that action belongs to the relevant DLC
+- **Hwy 110 as the real link to Concordia:** *(corrected 2026-07-04 — this bullet previously claimed an Arcanet link survived between Mirny and Concordia; it didn't, since Mirny and Concordia are different subnets and the Split Brain severed all inter-subnet Arcanet links without exception)* Mirny's actual distinguishing connection to Concordia is physical — Hwy 110's inland spur, not the Arcanet; whether the highway itself is passable post-war is TBD and relevant to the covering DLC
 - **Hardcore Mode influences:**
   - Wind chill tracking: ambient temperature is milder than Concordia but wind speeds are more severe; effective wind-chill during katabatic events can drive apparent temperatures far below ambient; protection ratings must account for wind, not just cold
   - Maritime supply window: the coastal position means supply can arrive by sea during the navigable season; but katabatic wind events can close the harbor even within the navigable window, creating supply interruptions within the open-water period
-  - Intra-subnet communication with Concordia: in a Hardcore Mode supply-chain context, Mirny's functioning Arcanet link to Concordia (if maintained) would be a strategic asset — the only external city that can coordinate in real time with Concordia
+  - Hwy 110 as a strategic asset: *(corrected 2026-07-04, replacing a previous Arcanet-based version of this bullet)* in a Hardcore Mode supply-chain context, a passable Hwy 110 spur would be Concordia's most direct physical supply/evacuation route to an external city — a logistics asset, not a communications one
 
 ---
 
@@ -104,7 +104,7 @@ Mirny's economy was built around its coastal position, its role as the Mirny sub
 
 - **The Antarctic Circle marker** — some form of civic marker at or near 66°33'S acknowledging the city's position on the line; exact form TBD
 - **The solstice observation site** — the location where residents gather to watch the winter and summer solstice sun-grazing events; TBD
-- **The Mirny subnet relay hardware** — the physical Arcanet infrastructure that makes Mirny the hub of the "Australian" subnet; as the only subnet where both hub and last-surviving major city are in the same subnet, this hardware's relationship with Concordia is unique in post-Split-Brain Tepenia
+- **The Mirny subnet relay hardware** — the physical Arcanet infrastructure that makes Mirny the hub of the "Australian" subnet, routing Zhongshan, Casey, Davis, Vostok, and Kunlun to each other; *(corrected 2026-07-04 — this bullet previously claimed a unique relationship with Concordia, which doesn't exist; Mirny and Concordia are different subnets, and the Split Brain severed that connection like every other inter-subnet one)* the hardware's significance is purely intra-subnet — if it fails, the whole Mirny subnet loses contact with itself, not with Concordia
 - Additional locations: TBD
 
 ---
@@ -117,11 +117,11 @@ Mirny's economy was built around its coastal position, its role as the Mirny sub
 
 ## Connection to Concordia
 
-Mirny is Concordia's closest operational external connection in the most direct sense: they share a subnet. After the Planetary Split Brain severed inter-subnet Arcanet connections, intra-subnet connections within the Mirny ("Australian") subnet remained intact. In principle, Mirny and Concordia can still communicate via the Arcanet — the only two cities in Tepenia that can do so with each other across any significant distance.
+*Corrected 2026-07-04: this section previously claimed Mirny and Concordia "share a subnet" and that their Arcanet link survived the Planetary Split Brain. That's wrong — Mirny is Mirny subnet, Concordia is Janbogo subnet (confirmed in `Official_Population_Census.md` and `City_Relationship_Database.md`), and the Split Brain severed every inter-subnet Arcanet connection without exception, Mirny's included. Concordia has access only to Janbogo subnet records, same as every other subnet is cut off from every other. There is no privileged real-time information channel between Mirny and Concordia. What actually connects them is physical, not informational:*
 
-Whether this communication channel is actually functional, given Mirny's damaged state, is TBD. If it is even partially functional, Mirny's voice on the Arcanet is the only external voice Concordia can hear. In the main game, this fact may be known to Concordia residents without the player being able to act on it — reaching Mirny and making use of the link is DLC territory.
+Mirny is Concordia's closest operational external connection via Hwy 110 (the Coastal Cut), which runs west toward Davis and Zhongshan and east toward Casey, with an inland spur reaching Concordia. This is a genuine physical link — pre-war supply convoys, personnel transfers, and (per the subnet's Australian freighter shipping arrangement) staged raw-material deliveries all would have moved along this route — but it is a road, not a communication channel. Nothing about it survived or was severed by the Split Brain, because the Split Brain only ever affected the Arcanet's inter-subnet relay architecture, not physical infrastructure. Whether Hwy 110 itself is currently passable, post-war, is a separate and still-open question from the Arcanet question.
 
-Mirny refugees in Concordia exist — the shared subnet means there were stronger pre-war connections between these two cities than between Concordia and most others. Their community is not as concentrated as the Janbogo diaspora in Gemini, but the cultural and historical ties are real.
+Mirny refugees in Concordia exist — the highway link and general subnet-hub logistics role meant there were stronger pre-war connections between these two cities than between Concordia and most others. Their community is not as concentrated as the Janbogo diaspora in Gemini, but the cultural and historical ties are real.
 
 ---
 
@@ -133,7 +133,7 @@ Mirny was damaged during the Long Night War but remains partially operational. T
 
 ## Legacy
 
-Mirny's legacy in Concordia is partly structural — the shared subnet, the theoretical Arcanet connection, the sense that Mirny is "closer" to Concordia than any other external city in a way that transcends geography. And partly cultural: the Russian presence in Antarctica predates Tepenia by over a century, and the communities that came from Mirny carry that depth of relationship with the continent.
+Mirny's legacy in Concordia is partly structural — *(corrected 2026-07-04)* the Hwy 110 link and subnet-hub logistics role, the sense that Mirny is "closer" to Concordia than any other external city in a genuinely physical, geographic sense (not an informational one — the Arcanet connection is severed like every other inter-subnet link). And partly cultural: the Russian presence in Antarctica predates Tepenia by over a century, and the communities that came from Mirny carry that depth of relationship with the continent.
 
 The name *Mirny* itself — from Bellingshausen's ship, from the expedition that first saw Antarctica — carries a specific resonance in a civilization that has made Antarctica its permanent home. The people who first looked at this continent and wrote down what they saw are the distant ancestors of everything that followed.
 
@@ -141,7 +141,7 @@ The name *Mirny* itself — from Bellingshausen's ship, from the expedition that
 
 ## Open Questions
 
-- **Is the Mirny–Concordia intra-subnet Arcanet link functional?** — the most strategically significant question about Mirny; if functional even partially, it is the only real-time communication channel Concordia has with the outside world
+- **Is Hwy 110 currently passable between Mirny and Concordia?** — *(corrected 2026-07-04, replacing a previous question about an Arcanet link that doesn't exist — Mirny and Concordia are different subnets, and the Split Brain severed that connection like every other one)* the most strategically significant open question about Mirny is now the physical one: whether the highway link survives war damage, since that's the actual mechanism connecting the two cities, not Arcanet
 - **Population and governance of current Mirny** — who is there and what are they doing? TBD
 - **The solstice observation tradition** — what exactly does Mirny do on the solstice days? Is it a formal civic observance, an informal gathering, or something that has changed since the Long Night War?
 - **The Antarctic Circle marker** — what form did it take, and does it survive?

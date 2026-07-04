@@ -112,7 +112,7 @@ Not applicable in the conventional sense. Amundsen Station was a strategic infra
 
 ## Connection to Concordia
 
-Amundsen Station's connection to Concordia is structural and historical rather than social. The station relayed Arcanet signals between all six subnets, including the Mirny subnet that Concordia belongs to. Its destruction is the reason Concordia cannot communicate with Byrd, Halley, Mawson, Janbogo (beyond the physical hardware in Gemini), or Palmer. Every informational isolation that defines Concordia's current situation traces back to what happened at the South Pole.
+Amundsen Station's connection to Concordia is structural and historical rather than social. The station relayed Arcanet signals between all six subnets. *Corrected 2026-07-04: this section previously said the station relayed signals "including the Mirny subnet that Concordia belongs to," and listed Janbogo among the subnets Concordia can no longer reach. Both are wrong — Concordia is a Janbogo subnet city (its nexus hardware sits directly in Gemini for exactly that reason, not via relay), so it never needed inter-subnet relay to reach Janbogo's own records in the first place.* Its destruction is the reason Concordia cannot communicate with Byrd, Halley, Mawson, Mirny, or Palmer — every subnet except its own. Every informational isolation that defines Concordia's current situation traces back to what happened at the South Pole.
 
 The pre-Split-Brain archive at Amundsen Station is relevant to Concordia for reasons that the Planetary Split Brain questline will establish — the archive contains information that each subnet's isolated post-Split version of history has either lost, distorted, or never had access to.
 

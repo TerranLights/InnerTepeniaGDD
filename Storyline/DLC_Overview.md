@@ -4,7 +4,7 @@ Seven planned DLCs — one for each of the six Arcanet subnets, plus one for the
 
 Each DLC region maps naturally onto an Arcanet subnet — meaning each DLC is also an encounter with a different, isolated version of post-Split-Brain history. Players aren't just exploring geography; they're encountering a whole different account of what happened.
 
-The **Mirny subnet** (Concordia's own subnet) receives a dedicated DLC despite the main game being set in Mirny subnet territory — the main game covers Concordia itself, but the broader Mirny subnet (Mirny city, Casey, Vostok, Kunlun) is DLC territory.
+*Corrected 2026-07-04: this line previously called the Mirny subnet "Concordia's own subnet" and framed the main game as being set in Mirny subnet territory. That's wrong — Concordia is a Janbogo subnet city (confirmed in `Official_Population_Census.md` and `City_Relationship_Database.md`), and the main game's DLC is the Janbogo subnet DLC, distinct from DLC 7 below.* The **Mirny subnet** receives its own dedicated DLC (Mirny city, Casey, Vostok, Kunlun) like every other subnet, separate from and no more connected to Concordia than any other subnet DLC — the Planetary Split Brain isolated all six subnets from each other equally.
 
 ---
 
@@ -191,7 +191,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Central character:** TBD — Vostok has a confirmed character in development: a robot geneticist who discovered a cost-effective method for working with genetics at reduced mutation rates; her work is almost certainly connected to Lake Vostok's 25-million-year-isolated subglacial biology
 **Main storyline:** TBD
 **Key lore assets:**
-- Mirny city — sits precisely on the Antarctic Circle; the threshold city; extreme katabatic winds; intra-subnet Arcanet link with Concordia (the only external city Concordia can theoretically still communicate with post-Split-Brain)
+- Mirny city — sits precisely on the Antarctic Circle; the threshold city; extreme katabatic winds; Hwy 110's inland spur is its physical (not Arcanet — *corrected 2026-07-04, see `Specs/Mirny.md`*) link to Concordia
 - Casey — destroyed; highway junction where Hwy 110 meets the Dumont Coast Highway (Hwy 2); blocking factor for Pink Lucy's Route B migration
 - Vostok — survived but effectively unreachable; coldest city in Tepenia (record low −89.2°C); sits above Lake Vostok (subglacial lake isolated for 25 million years); robot geneticist as central DLC character
 - Kunlun — survived; highest city in Tepenia (~4,093m at Dome A); holiest site in Tepenia for "Ice Cold Buddhism" practitioners; observatory with centuries of astronomical data — **its findings must be implemented as a specific DLC story beat, not background flavor**; Sinian Federation's only Antarctic city; 100% robot, 100% Chinese population (123,449, resolved 2026-07-04) — see `Cities/Specs/Kunlun.md`

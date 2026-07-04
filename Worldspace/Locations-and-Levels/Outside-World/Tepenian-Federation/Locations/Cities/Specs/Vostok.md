@@ -115,9 +115,9 @@ Science, almost entirely. Vostok's economy was the Lake Vostok research program 
 
 ## Connection to Concordia
 
-Vostok's connection to Concordia is entirely theoretical. It shares the Mirny subnet with Concordia, but the 1,260km of plateau between Vostok and Mirny makes even that connection effectively unreachable. Whatever Vostok knows, whatever it has found in Lake Vostok over the centuries, Concordia has no way to access it.
+*Corrected 2026-07-04: this section previously claimed Vostok "shares the Mirny subnet with Concordia" and could theoretically relay signals to Concordia through Mirny. Both claims are wrong — Concordia is a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception, Mirny's included. There is no relay path to Concordia through Mirny or otherwise; Vostok's isolation from Concordia is total, the same as every non-Janbogo-subnet city's.*
 
-If the Mirny–Concordia intra-subnet Arcanet link is functional, Vostok's signals would theoretically relay through Mirny to Concordia — but only if Vostok's own relay hardware survived, and only if the overland cable infrastructure (which would need to span 1,260km of unmaintained plateau) still functions.
+Vostok's connection to Concordia doesn't exist, informationally — it never did, and the Split Brain only confirms what was already geographically implied. Even setting the subnet mismatch aside, the 1,260km of plateau between Vostok and Mirny (its actual, correct subnet's hub) makes even *intra*-subnet contact effectively unreachable. Whatever Vostok knows, whatever it has found in Lake Vostok over the centuries, Concordia has no way to access it and never had a mechanism to, beyond whatever was recorded before the war.
 
 ---
 
@@ -139,7 +139,7 @@ Vostok's legacy is the lake. Whatever lives in Lake Vostok — whatever evolved 
 
 - **Is anyone still alive at Vostok?** — the most basic and most unanswerable question; given the isolation and the post-war disruption, Concordia and Mirny have no way to know
 - **Lake Vostok — what has been found?** — 500+ years of post-exile scientific access to a 25-million-year-isolated subglacial lake; the discoveries are an enormous open lore question; this may be the most scientifically significant open question in the entire GDD; the geneticist doll's reduced-mutation technique is almost certainly connected to Lake Vostok's unique biology — organisms isolated for 25 million years under extreme pressure and cold represent a genetic dataset found nowhere else on Earth
-- **Is the Vostok–Mirny overland cable intact?** — determines whether Vostok can communicate via the Arcanet with Mirny and, through Mirny, with Concordia
+- **Is the Vostok–Mirny overland cable intact?** — *(corrected 2026-07-04 — this previously continued "...and, through Mirny, with Concordia," which isn't possible; Mirny has no Arcanet path to Concordia either, since they're different subnets)* determines only whether Vostok can communicate intra-subnet with Mirny, Zhongshan, Casey, Davis, and Kunlun
 - **Can Vostok be reached in gameplay?** — the 1,260km overland crossing from Mirny is a major expedition; whether this is achievable as a gameplay journey (DLC or otherwise) is a significant design decision
 - **The Vostok research archive survival** — if someone eventually reaches Vostok, is the archive intact?
 - **Demonym** — TBD (Vostokans? something Russian-inflected?)

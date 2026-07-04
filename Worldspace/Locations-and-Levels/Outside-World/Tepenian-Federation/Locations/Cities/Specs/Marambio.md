@@ -60,7 +60,7 @@ The name was kept.
 
 ## Character & Culture
 
-Marambio had a dual character: the operational hub that kept the Palmer subnet moving, and the geological museum that it sat on top of. The aviation infrastructure gave it a transient, logistics-oriented culture similar to Framheim — people passing through, goods and people in motion. The fossil record beneath it gave it a scientific program with a specific kind of depth: not the cutting-edge research of Vostok's Lake Vostok program, but the slower, accumulating work of paleontology — reconstructing what Antarctica had been before the ice.
+Marambio had a dual character: the operational hub that kept the Palmer subnet moving, and the geological museum that it sat on top of. The aviation infrastructure gave it a transient, logistics-oriented culture *(corrected 2026-07-04 — previously compared to Framheim, which was permanently removed from canon 2026-07-03; Fort McMurdo is the more apt comparison now, sharing the same transient-hub character)* — people passing through, goods and people in motion. The fossil record beneath it gave it a scientific program with a specific kind of depth: not the cutting-edge research of Vostok's Lake Vostok program, but the slower, accumulating work of paleontology — reconstructing what Antarctica had been before the ice.
 
 The Argentine military heritage from the founding era shaped Marambio's institutional character in ways that persisted across generations.
 

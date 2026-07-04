@@ -93,7 +93,7 @@ Vestfold Hills oasis resources (lakes, fjord access, terrain diversity), Prydz B
 ---
 
 ## Connection to Concordia
-Mirny subnet. Davis represents part of the Australian exile presence within the Mirny subnet, alongside Casey and Mirny itself; any Concordia knowledge of this community traces through all three cities.
+*Corrected 2026-07-04: this line previously said Concordia's knowledge of Davis "traces through" the Mirny subnet, implying a surviving Arcanet path. There isn't one — Davis is Mirny subnet, Concordia is Janbogo subnet, and the Planetary Split Brain severed that connection like every other inter-subnet link.* Davis represents part of the Australian exile presence within the Mirny subnet, alongside Casey and Mirny itself, but Concordia has no live informational connection to any of them — only Hwy 110's physical link to Mirny, and whatever was known before the war.
 
 ---
 
