@@ -32,7 +32,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Esperanza Base | Argentina | **Esperanza** ✓ | Destroyed *(corrected 2026-07-03)* | Oldest continuously occupied station; historic families |
 | Marambio Base | Argentina | **Marambio** ✓ | Destroyed *(corrected 2026-07-03 — small, flat, single-point-of-failure airfield island)* | Has a runway — logistics/transport hub in-game |
 | King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station; Unified Korea's presence in Tepenia |
-| Juan Carlos I | Spain | **Juan Carlos** ✓ | Destroyed | Spanish station, Livingston Island |
+| Juan Carlos I | Spain | **Juan Carlos** ✓ | TBD *(corrected 2026-07-03 — was stale/self-contradictory within this same file; see the "Status deliberately TBD" note below)* | Spanish station, Livingston Island |
 | Signy Station | UK | **Signy** ✓ | Survived; fully operational *(upgraded 2026-07-03)* | South Orkney Islands; northernmost Tepenian outpost; peripheral — confirmed overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines |
 | Port Lockroy | UK | **Port Lockroy** ✓ | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Goudier Island; too strategically irrelevant to be a priority target, plausibly conflated with adjacent Palmer City's strike zone |
 
@@ -123,8 +123,8 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 | Real Base | Country | Tepenian Name | Notes |
 |---|---|---|---|
-| Framheim Base | Norway | ~~Framheim~~ | **REMOVED FROM CANON 2026-07-03** — see `Specs/Framheim.md`. Bay of Whales (the site both this and Little America were reconstructed near) was eliminated by the 1987 Iceberg B-9 calving event; no physical basis remained. |
-| Little America Base | USA | ~~Little America~~ | **REMOVED FROM CANON 2026-07-03** — see `Specs/Little_America.md`. Same reasoning as Framheim. |
+| Framheim Base | Norway | ~~Framheim~~ | **REMOVED FROM CANON 2026-07-03** — see `Official_Population_Census.md`'s removal note. Bay of Whales (the site both this and Little America were reconstructed near) was eliminated by the 1987 Iceberg B-9 calving event; no physical basis remained. |
+| Little America Base | USA | ~~Little America~~ | **REMOVED FROM CANON 2026-07-03** — same reasoning as Framheim. |
 
 ---
 

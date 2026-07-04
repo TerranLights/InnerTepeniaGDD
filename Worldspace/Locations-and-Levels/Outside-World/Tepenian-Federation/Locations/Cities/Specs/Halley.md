@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational — DLC 5 content
 **Arcanet Subnet:** Halley ("Atlantic") — subnet hub
 **Highway access:** Hwy 59 (Atlantic Throughway / Arcanet Line — runs south from Halley to Amundsen Station at the South Pole); Hwy 7 (Queen Maud Land coastal highway — runs southwest to Belgrano and northeast along the Queen Maud Land coast to the other Halley subnet cities)
-**Significance:** The city that moves; one of four Tepenian cities built on floating ice shelves (alongside Neumayer on the Ekström Ice Shelf and Framheim/Little America on the Ross Ice Shelf), and the only one architecturally designed from the start for relocation across the moving ice; hub of the Atlantic subnet; anchor point of Hwy 59, which functions simultaneously as a highway and an Arcanet cable corridor — damage to Hwy 59 disrupts both surface transit and Atlantic subnet communications simultaneously
+**Significance:** The city that moves; one of two Tepenian cities built on floating ice shelves (alongside Neumayer on the Ekström Ice Shelf) — *(corrected 2026-07-03: previously "one of four," alongside Framheim and Little America on the Ross Ice Shelf, but both were removed from canon entirely the same day; see `Official_Population_Census.md`'s removal note)* — and the only one architecturally designed from the start for relocation across the moving ice; hub of the Atlantic subnet; anchor point of Hwy 59, which functions simultaneously as a highway and an Arcanet cable corridor — damage to Hwy 59 disrupts both surface transit and Atlantic subnet communications simultaneously
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — DLC 5 centerpiece and subnet hub
 
 ---

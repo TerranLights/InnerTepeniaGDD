@@ -215,7 +215,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ---
 
 ### Framheim — REMOVED FROM CANON (2026-07-03)
-**No longer a Tepenian city.** Real-world verification found the Bay of Whales (the site Framheim and Little America were both reconstructed near) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Full reasoning and population disposition: `Specs/Framheim.md`. **This breaks both the Hwy 1 land route (Byrd → Framheim → Little America → Scott/Fort McMurdo, listed below) and the established Byrd↔Janbogo aviation refueling route (`Specs/Byrd.md`) — neither has been re-routed yet. Flagged as an urgent open item.**
+**No longer a Tepenian city.** Real-world verification found the Bay of Whales (the site Framheim and Little America were both reconstructed near) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Full reasoning and population disposition: `Official_Population_Census.md`'s removal note. **The Byrd↔Janbogo aviation refueling route (`Specs/Byrd.md`) still needs a fix, deliberately deferred pending a fuller options discussion (see `TODO.md`). The Hwy 1 land route does NOT need a fix — corrected 2026-07-03, it never actually passed through Framheim or Little America; that was a separate, unrelated error in this file (see the Hwy 1 highway-table entry, below).**
 
 ---
 
@@ -244,9 +244,9 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ### Juan Carlos
 - **Real station:** Juan Carlos I Station (Spain) ✓
 - **Region:** Antarctic Peninsula — Livingston Island
-- **Status:** Destroyed (Long Night War)
+- **Status:** TBD *(corrected 2026-07-03 — was stale, contradicted the deliberate TBD resolution in `Specs/Juan_Carlos.md`; genuine unresolved 3-vs-2 conflict, deferred by user choice)*
 - **Arcanet subnet:** Palmer ("American")
-- **Highways:** Hwy 1 — northern peninsula section
+- **Highways:** Hwy 1 — northern peninsula section *(flagged 2026-07-03: this may not be accurate — Hwy 1's actual confirmed route, per the same-day Marambio correction, runs Marambio → Palmer City → Port Lockroy → Rothera → Byrd, and does not appear to pass through Livingston Island's South Shetlands cluster at all; not resolved in this pass, worth checking)*
 - **Direct highway neighbors:** Peninsula cluster (Esperanza, Marambio, Sejong nearby)
 - **Notes:** Spanish station, Livingston Island; northern peninsula cluster
 
@@ -265,7 +265,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 ---
 
 ### Little America — REMOVED FROM CANON (2026-07-03)
-**No longer a Tepenian city.** Same reasoning and consequences as Framheim, above — see `Specs/Little_America.md`.
+**No longer a Tepenian city.** Same reasoning and consequences as Framheim, above.
 
 ---
 

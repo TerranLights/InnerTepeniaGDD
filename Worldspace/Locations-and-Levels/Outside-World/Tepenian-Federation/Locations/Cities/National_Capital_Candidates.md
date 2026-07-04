@@ -2,7 +2,7 @@
 
 **Purpose:** A ranked analysis of the 10 most plausible candidate cities for the seat of the Tepenian federal government, with reasoning for each. Population alone is not the determining factor (Janbogo is the largest city but that does not make it the obvious capital — see Canberra, Ottawa, Brasília, Ankara, Washington D.C.). This document is a design deliberation tool, not a decision. The capital is TBD.
 
-**Excluded from consideration:** Amundsen Station (South Pole — destroyed in Long Night War, never a residential city), Zukelli and Soyuz (destroyed), Belgrano (ruins, DLC 5 setting), Palmer City (ruins).
+**Excluded from consideration:** Amundsen Station (South Pole — destroyed in Long Night War, never a residential city), Zukelli and Soyuz (destroyed), Belgrano (ruins, DLC 5 setting), Palmer City (ruins), Framheim and Little America (removed from canon entirely 2026-07-03 — their shared real-world site, the Bay of Whales, was eliminated by the 1987 Iceberg B-9 calving event, leaving no physical basis for either city; see `Official_Population_Census.md`'s removal note).
 
 ---
 
@@ -22,7 +22,9 @@ Five factors were weighed:
 
 ---
 
-## Top 10 Candidates
+## Top 9 Candidates
+
+*(Reduced from 10 to 9 on 2026-07-03 — Framheim, formerly #4, is excluded from consideration; see the exclusion note above.)*
 
 ### #1 — Neumayer *(Halley/QML subnet, Atlantic-facing, German-founded)*
 
@@ -64,21 +66,7 @@ There is also a pure design argument: a city whose in-game character is coded as
 
 ---
 
-### #4 — Framheim *(Byrd/Ross Ice Shelf subnet, Norwegian heritage)*
-
-**The case:** Framheim is named after Amundsen's Antarctic camp — "Home of the Fram," the ship that carried him to the Ross Ice Shelf for his South Pole expedition. As a city, it inherits the most direct possible linguistic and cultural connection to Saint Roald's Antarctic legacy, short of the South Pole itself. It is, in name, the home that Amundsen made here.
-
-More importantly, Framheim's geographic position is unique: it sits on the Ross Ice Shelf, not on any specific ocean coastline. Unlike every other candidate city, Framheim is not a Pacific city, not an Atlantic city, not an Indian Ocean city — it faces onto the internal Antarctic ice mass. This is the strongest "Brasília" argument available: a capital deliberately positioned in the geographic interior, associated with no external approach, belonging to no coastal bloc.
-
-The Byrd subnet is the smallest non-Amundsen subnet by population (1.78M combined Before), which is actually appropriate for the capital's immediate surroundings — a governing city that is not also an economic megalopolis. The city itself is mid-sized (rank 19 Before).
-
-**The complication:** The Byrd subnet is the least demographically significant of the non-Amundsen subnets. A capital there may feel like it has been placed in the wilderness to avoid political difficulty, without being close enough to any major population center to function effectively. Also: ice shelf geography means the physical ground under Framheim moves, calves, and shifts over geological time — raising questions about long-term site stability for a permanent federal seat.
-
-**Real-world analog:** Brasília (built inland specifically to be neutral and to encourage development of the interior).
-
----
-
-### #5 — Mawson *(Mawson/Indian Ocean subnet, named after a Tepenian Saint)*
+### #4 — Mawson *(Mawson/Indian Ocean subnet, named after a Tepenian Saint)*
 
 **The case:** Of all the Tepenian Saints, Douglas Mawson is arguably the most appropriate patron for a national capital. Robert Falcon Scott died tragically; Amundsen reached the Pole first. Mawson survived against extraordinary odds, mapped vast stretches of the coast, and returned. His is a story of endurance and return — an appropriate myth for a nation of exiles who chose to stay.
 
@@ -92,7 +80,7 @@ Being Saint-named elevates the city's symbolic status above its raw population w
 
 ---
 
-### #6 — Fort McMurdo *(Janbogo/Ross Sea subnet, Ross Island)*
+### #5 — Fort McMurdo *(Janbogo/Ross Sea subnet, Ross Island)*
 
 **The case:** In the real world, McMurdo Station was the de facto capital of Antarctica for the entirety of the 20th and early 21st centuries — the largest base, the primary logistics hub, the point through which most of the continent's resupply moved, and the place from which most expeditions departed. Fort McMurdo inherits this legacy in full. It is the city that was, in functional terms, already serving as the continent's administrative center before Tepenia formally existed.
 
@@ -106,7 +94,7 @@ The city is mid-sized (rank 23-25 After) — large enough to have functional inf
 
 ---
 
-### #7 — Sejong *(Palmer/Peninsula subnet, Korean-founded, King George Island)*
+### #6 — Sejong *(Palmer/Peninsula subnet, Korean-founded, King George Island)*
 
 **The case:** Sejong the Great — the 15th-century Korean king after whom the city is named — created Hangul, the Korean writing system, specifically to make literacy accessible to common people rather than only the scholarly elite. He is one of history's great democratic reformers. Naming a city after him carries very specific symbolic freight: this is a city whose name implies access, inclusion, and governance in service of the people. For a national capital, there is no better namesake in the entire Tepenian city roster.
 
@@ -120,7 +108,7 @@ King George Island's historical character is also notable: in the real world, it
 
 ---
 
-### #8 — Aboa *(Halley/QML subnet, Finnish-founded)*
+### #7 — Aboa *(Halley/QML subnet, Finnish-founded)*
 
 **The case:** Finland occupies a unique position in Tepenian demographics: a small nation (~3.3M effective), but with one of the highest per-capita robot-access rates of any nation in the census. This means the Finnish exiles are among the most uniformly robot-committed fraction of any nation's contribution — they are, disproportionately, people who chose exile because they truly would not leave without their robots. Finnish culture in Tepenia represents a particularly concentrated expression of the founding ethos.
 
@@ -134,7 +122,7 @@ Aboa is a small city (rank 17 Before, 17 After) that could function as a pure ad
 
 ---
 
-### #9 — Cape Adare *(Janbogo/Ross Sea subnet, Victoria Land coast)*
+### #8 — Cape Adare *(Janbogo/Ross Sea subnet, Victoria Land coast)*
 
 **The case:** Cape Adare is the site of the first permanent human habitation on the Antarctic continent — Carsten Borchgrevink's 1899 Southern Cross expedition wintered there, in the first buildings ever erected on the continent. In the real world, Cape Adare is where humanity first stayed on Antarctica rather than merely visited. In Tepenia's founding mythology, the resonance of this fact is enormous: whatever else is true, this is where the story of Antarctic habitation began.
 
@@ -148,7 +136,7 @@ Cape Adare is a large city (rank 4 Before, rank 5 After) — substantial enough 
 
 ---
 
-### #10 — Sanay *(Halley/QML subnet, interior Antarctic, small)*
+### #9 — Sanay *(Halley/QML subnet, interior Antarctic, small)*
 
 **The case:** Sanay is the most "interior" of the QML cities — not fully coastal, situated in the deep Queen Maud Land hinterland rather than directly on the ice shelf coast. It is small (rank 24 Before) and does not have the demographic dominance or cultural heaviness of Neumayer or Halley. This is precisely its argument for the capital: Sanay is not anyone's city in a way that matters politically. It is not Germany's city. It is not the USA's city. It is a small interior city in the most populous subnet that could, in principle, be purpose-designated as a federal administrative center with relatively little existing political baggage.
 
@@ -167,21 +155,20 @@ The Canberra argument is strongest here: Canberra existed as a semi-rural territ
 | 1 | **Neumayer** | Halley/QML | Brussels/Bonn | Largest-subnet legitimacy; European neutrality between superpowers | Still reads as QML/Atlantic bias |
 | 2 | **Troll** | Halley/QML | Canberra | Saint Roald connection; UTC+0 symbolic centrality; small/purpose-appropriate | Very small; Norwegian demographic contribution is tiny |
 | 3 | **Princess Elisabeth** | Halley/QML | Brussels | Belgian neutrality precedent; regal name; QML legitimacy | Same QML-bias risk as Neumayer |
-| 4 | **Framheim** | Byrd | Brasília | Named after Amundsen's camp; ice shelf = no coastal bias; interior neutrality | Least-populous subnet; ice shelf site stability questions |
-| 5 | **Mawson** | Mawson | Washington D.C. | Saint-named; Indian Ocean balance; endurance mythology | China-primary long-run demographic; distant from QML and Peninsula |
-| 6 | **Fort McMurdo** | Janbogo | Washington D.C. | Historically the de facto Antarctic capital; proximate-not-identical to Janbogo | Janbogo subnet bias; USA-primary character |
-| 7 | **Sejong** | Palmer | Sejong City, ROK | Named after the democratic reformer-king; KGI cosmopolitan heritage; Korean purpose-built capital precedent | Island cap limits growth; Peninsula subnet bias; Korean demographic is small |
-| 8 | **Aboa** | Halley/QML | Canberra | Finnish neutrality tradition; concentrated founding-ethos demographic; small/purpose-appropriate | Very small; practical infrastructure concerns |
-| 9 | **Cape Adare** | Janbogo | Philadelphia | First permanent Antarctic habitation site; founding resonance; substantial city | Janbogo subnet bias; historical weight may not outweigh political optics |
-| 10 | **Sanay** | Halley/QML | Canberra (purest) | Smallest existing political footprint; no bloc dominates it; most like a purpose-designed admin city | Too small; interior access challenges; almost no existing cultural identity to build from |
+| 4 | **Mawson** | Mawson | Washington D.C. | Saint-named; Indian Ocean balance; endurance mythology | China-primary long-run demographic; distant from QML and Peninsula |
+| 5 | **Fort McMurdo** | Janbogo | Washington D.C. | Historically the de facto Antarctic capital; proximate-not-identical to Janbogo | Janbogo subnet bias; USA-primary character |
+| 6 | **Sejong** | Palmer | Sejong City, ROK | Named after the democratic reformer-king; KGI cosmopolitan heritage; Korean purpose-built capital precedent | Island cap limits growth; Peninsula subnet bias; Korean demographic is small |
+| 7 | **Aboa** | Halley/QML | Canberra | Finnish neutrality tradition; concentrated founding-ethos demographic; small/purpose-appropriate | Very small; practical infrastructure concerns |
+| 8 | **Cape Adare** | Janbogo | Philadelphia | First permanent Antarctic habitation site; founding resonance; substantial city | Janbogo subnet bias; historical weight may not outweigh political optics |
+| 9 | **Sanay** | Halley/QML | Canberra (purest) | Smallest existing political footprint; no bloc dominates it; most like a purpose-designed admin city | Too small; interior access challenges; almost no existing cultural identity to build from |
 
 ---
 
 ## Design notes
 
-**The QML clustering problem:** Six of the top 10 candidates are in the Halley/QML subnet (Neumayer, Troll, Princess Elisabeth, Aboa, Sanay) or are Norwegian-heritage cities that connect to QML mythology (Framheim). This is not a coincidence — it reflects QML's genuine demographic weight as the most populous subnet, and the genuine political advantage of European-character cities as neutral ground between the China and USA blocs. But any designer who wants the capital outside the QML arc will need to build an explicit argument for why geographic balance outweighs democratic-weight legitimacy.
+**The QML clustering problem:** Five of the top 9 candidates are in the Halley/QML subnet (Neumayer, Troll, Princess Elisabeth, Aboa, Sanay). This is not a coincidence — it reflects QML's genuine demographic weight as the most populous subnet, and the genuine political advantage of European-character cities as neutral ground between the China and USA blocs. But any designer who wants the capital outside the QML arc will need to build an explicit argument for why geographic balance outweighs democratic-weight legitimacy.
 
-**The Norway thread:** Three of the top 4 candidates have significant Norwegian connections — Troll (Norwegian-founded), Framheim (named after Amundsen's Antarctic camp), and Neumayer (QML subnet where Norwegian Troll sits). Saint Roald's shadow over Tepenian civic culture is extensive. A capital decision that leans into the Norwegian founding mythology rather than away from it might be narratively richer than trying to find a politically neutral location with no mythology at all.
+**The Norway thread:** Two of the top 3 candidates have significant Norwegian connections — Troll (Norwegian-founded) and Neumayer (QML subnet where Norwegian Troll sits). *(Reduced 2026-07-03 — Framheim, formerly the third Norwegian-connected candidate and the strongest "interior neutrality" argument in the whole list, is no longer a candidate at all; see the exclusion note above. Its removal weakens the Norway thread and removes the only non-QML/non-superpower-bloc candidate this document identified.)* Saint Roald's shadow over Tepenian civic culture is still extensive via Troll and Neumayer. A capital decision that leans into the Norwegian founding mythology rather than away from it might still be narratively richer than trying to find a politically neutral location with no mythology at all.
 
 **The Belgrano counterfactual:** If the Long Night War had not destroyed/ruined Belgrano, it would be a very strong candidate — the third or fourth city in the QML arc with significant population, positioned as one of the first Argentine-founded settlements and therefore carrying Peninsula founding resonance alongside QML subnet legitimacy. Its ruin is a significant historical loss in more ways than one. The capital question's answer might have been obvious before the war.
 

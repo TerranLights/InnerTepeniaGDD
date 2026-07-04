@@ -215,13 +215,15 @@ National communities are classified by tier based on long-run population share. 
 
 **Byrd** *(Marie Byrd Land / West Antarctic Ice Sheet)*
 
+*Composition resolved 2026-07-03 — derived directly from the exact population blend Byrd received (139,376 humans from the Framheim/Little America redistribution, 47,656 from Palmer City's over-cap trim), by applying each source's own Gini-adjusted weights proportionally. Full per-nation figures preserved in `Local_Cultures/Byrd_Subnet/Byrd.md` and this session's history.*
+
 | Tier | Nations |
 |------|---------|
-| Primary | TBD |
-| Significant | TBD |
-| Notable | TBD |
+| Primary | USA, Japan |
+| Significant | South Korea, Canada, Indonesia, Australia |
+| Notable | Germany, France, UK, New Zealand, Mexico, Chile, Czech Republic, Brazil, Slovakia, Thailand, Russia, Serbia, Belgium, Italy, Norway, Croatia, South Africa, China, Slovenia, Romania, Philippines, Netherlands, Poland, Bulgaria, Vietnam, Spain, Latvia, Argentina, Sweden, Belarus, Ukraine, Finland, Lithuania, Malaysia, Hungary, Uruguay |
 
-*Note: National origin composition pending immigration composition analysis. Population figures are no longer pending, however — see Section III; Byrd received its first population figures 2026-07-03 via the Framheim/Little America redistribution (partly directly, partly via Concordia and Palmer City onward transfers). Composition carries forward proportionally from those sources without a computed per-nation table.*
+*Note: Framheim/Little America's own composition contributed only two Notable-tier nations (New Zealand, Chile) — every other nation in Byrd's Notable tier above (34 of 36) came specifically from the Palmer City portion of its population (the 47,656 humans relocated during Palmer City's own over-cap trim), riding along with Palmer City's own earlier 43-nation expansion (Tepenia's only city with full master-list representation). This makes Byrd the second-most nationally diverse Tepenian city — a direct, one-step-removed echo of Palmer City's diversity, not an independent development, and not an error.*
 
 ---
 

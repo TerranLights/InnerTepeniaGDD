@@ -29,7 +29,7 @@ What makes Vostok more than simply the coldest and most isolated place in an alr
 **Record extremes:** record low −89.2°C (July 21, 1983 — lowest naturally occurring air temperature ever recorded on Earth's surface); record high approximately −14°C
 **Prevailing winds:** calm by Antarctic standards — the plateau interior at Vostok is remarkably wind-still relative to coastal and slope stations; average wind speeds 5–6 m/s; the defining hazard here is cold, not wind
 **Annual precipitation:** approximately 20–22 mm water equivalent — polar desert; among the driest locations in Tepenia alongside Amundsen Station
-**Polar night:** approximately April 22 → August 21 (~121 days — same as Framheim at similar latitude)
+**Polar night:** approximately April 22 → August 21 (~121 days)
 **Midnight sun:** approximately October 21 → February 20 (~122 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect
 **Summer solstice daylight maximum:** N/A — midnight sun in effect

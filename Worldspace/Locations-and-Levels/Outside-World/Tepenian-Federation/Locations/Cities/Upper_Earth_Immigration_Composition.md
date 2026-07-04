@@ -340,27 +340,9 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 
 ---
 
-### Framheim *(Ross Ice Shelf, ~78°30'S 163°W)*
+### Framheim and Little America — REMOVED FROM CANON (2026-07-03)
 
-| Tier | Nations | Key drivers |
-|------|---------|-------------|
-| 1 — Primary | **USA** (155M), **Japan** (65M) | The two largest effective pools in this city's composition; both reach the Ross Ice Shelf via Pacific route (~14,000km) but their combined ~220M effective dwarfs all others; natural gap of ~2.4× separates USA|Japan from next cluster |
-| 2 — Significant | **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Pacific corridor nations; Australia at 13M (~3,700km via Hobart) sets the *founding wave character* before higher-volume distant nations arrive |
-| 3 — Notable | **New Zealand** (2.6M), **Chile** (2.3M) | Both sub-3M Gini-adjusted; NZ at ~3,800km from Christchurch is geographically closest — sets the very earliest arriving character |
-
-*Founding note: NZ and Australia arrive first and set the founding wave character. USA and Japan dominate long-run composition.*
-
----
-
-### Little America *(Ross Ice Shelf, ~78°30'S 163°W)*
-
-Identical geographic position to Framheim. Same composite composition.
-
-| Tier | Nations | Key drivers |
-|------|---------|-------------|
-| 1 — Primary | **USA** (155M), **Japan** (65M) | Same; USA's "Little America" cultural identity pull amplifies its already-dominant effective contribution at this specific city |
-| 2 — Significant | **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Same Pacific corridor cluster |
-| 3 — Notable | **New Zealand** (2.6M), **Chile** (2.3M) | Same |
+*Both cities were permanently removed from Tepenian canon. Real-world verification found their shared site (the Bay of Whales, Ross Ice Shelf) was entirely eliminated by the 1987 Iceberg B-9 calving event, and neither city had surviving pre-exile infrastructure to begin with (both were full reconstructions from Byrd's underground archives) — leaving no physical basis for either. Their former composition (Primary USA/Japan; Significant South Korea/Canada/Indonesia/Australia; Notable New Zealand/Chile) and combined Census I population (855,540 humans / 891,723 robots / 1,747,263 combined) were redistributed across Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — see `Official_Population_Census.md`'s removal note for full detail. This file's population-mirror tables below (Ross Ice Shelf / Byrd subnet rows) predate that redistribution and no longer reflect current figures — treat `Official_Population_Census.md` as authoritative for all current population data.*
 
 ---
 
@@ -833,6 +815,8 @@ Ranked by final human population. Cities in **bold** gained population from over
 
 ## Canon Census I — Before Space Colonization (Pre-Orbital Era)
 
+**Out of date as of 2026-07-03 — do not treat the tables below as current.** They predate the Lazar redistribution, the Palmer City expansion, the Palmer City over-cap correction, and the Framheim/Little America removal and redistribution (all 2026-07-03). Framheim and Little America in particular no longer exist in canon at all. `Official_Population_Census.md` is the authoritative, current source for every city's population — cross-check there before using any figure from this section.
+
 **Rate change:** All prior census figures used a 3% exile fraction. Revised to **2%** (a slightly more conservative read on what fraction of the robot-eligible population actually relocated). The island-balanced final figures above are multiplied by **×0.65** (= 2/3, rounded) to produce all canon population numbers. No redistribution logic changes; only the scale shifts.
 
 **Canon totals:**
@@ -905,8 +889,8 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
 | 18 | Aboa | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
-| 20 | Framheim | Byrd | 430,488 | **884,682** | |
-| 21 | Little America | Byrd | 425,052 | **862,581** | |
+| — | ~~Framheim~~ | ~~Byrd~~ | ~~430,488~~ | ~~884,682~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
+| — | ~~Little America~~ | ~~Byrd~~ | ~~425,052~~ | ~~862,581~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | 22 | Sejong | Palmer | 318,175 | **647,855** | *(island cap)* |
 | 23 | Marambio | Palmer | 284,047 | **571,487** | *(island cap)* |
 | 24 | Palmer City | Palmer | 238,279 | **477,970** | *(island cap; revised 2026-07-03 — see `Official_Population_Census.md`)* |
@@ -1117,6 +1101,8 @@ The result is a population that is statistically global but skewed sharply towar
 
 ## Canon Census II — After Space Colonization (Orbital Era)
 
+**Out of date as of 2026-07-03 — same caveat as Canon Census I, above.** `Official_Population_Census.md` is authoritative. Framheim and Little America no longer exist in canon.
+
 **Context:** Tepenia did not remain a purely Antarctic civilization. Roughly one-third of the way through Tepenia's existence as a country, construction began on **Amundsen Tower** — the space elevator anchored at the geographic South Pole, exploiting the rotational axis as the optimal anchor point for a permanent surface-to-orbit tether. By approximately the halfway point of Tepenia's pre-war history, Amundsen Tower was operational and low-earth orbital construction was underway.
 
 The first orbital structure was a robot-exclusive station — a staging platform built entirely by robotic labor, requiring no human life-support infrastructure. From that station, robots began construction on the first **Von Braun Wheel**, a rotating habitat designed for both robots and humans. Once the Wheel was complete, Tepenians began departing the Antarctic surface in substantial numbers: taking work contracts, establishing permanent residences, building the infrastructure that would eventually form the backbone of Tepenian space civilization.
@@ -1153,8 +1139,8 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 16 | Bharati_TBD | Mawson | 336,124 | **728,324** | |
 | 17 | Troll | Halley | 323,650 | **671,832** | |
 | 18 | Aboa | Halley | 310,791 | **607,441** | |
-| 19 | Framheim | Byrd | 248,865 | **604,953** | |
-| 20 | Little America | Byrd | 304,422 | **555,739** | |
+| — | ~~Framheim~~ | ~~Byrd~~ | ~~248,865~~ | ~~604,953~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
+| — | ~~Little America~~ | ~~Byrd~~ | ~~304,422~~ | ~~555,739~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | 21 | Sejong | Palmer | 234,304 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | **430,145** | *(island cap)* |
 | 23 | Fort McMurdo | Janbogo | 173,548 | **338,169** | *(island cap)* |

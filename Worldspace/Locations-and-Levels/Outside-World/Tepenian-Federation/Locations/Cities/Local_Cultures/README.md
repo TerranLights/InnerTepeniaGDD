@@ -25,7 +25,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Esperanza | Destroyed *(Long Night War — corrected 2026-07-03, see Esperanza.md)* |
 | Marambio | Destroyed *(Long Night War — corrected 2026-07-03 from "Surviving"; small, flat, single-point-of-failure airfield island, unlike Rothera's decentralizable terrain; see `Specs/Marambio.md`)* |
 | Sejong | Destroyed *(Long Night War — corrected 2026-07-03 from "Surviving"; was stale, contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed)* |
-| Juan Carlos | Surviving |
+| Juan Carlos | TBD *(corrected 2026-07-03 — was stale, contradicted the deliberate TBD resolution in `Specs/Juan_Carlos.md`; genuine unresolved 3-vs-2 conflict, deferred by user choice)* |
 | Signy | Surviving *(confirmed 2026-07-03 as fully survived, untouched by direct war damage — see `Specs/Signy.md` for the resulting siligel-shortage post-war problem)* |
 | Port Lockroy | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone; see `Specs/Port_Lockroy.md`)* |
 | Palmer City | Destroyed *(Long Night War — corrected 2026-07-03; was stale/contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed, consistent with its "first settled, first destroyed" identity)* |
@@ -56,7 +56,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 |------|--------|
 | Byrd | Surviving |
 
-*Framheim and Little America removed from canon 2026-07-03 — real-world verification found their shared site (Bay of Whales) was eliminated by the 1987 Iceberg B-9 calving event, with no surviving pre-exile infrastructure at either location to begin with. See `Specs/Framheim.md` and `Specs/Little_America.md`. Byrd is now this subnet's only city.*
+*Framheim and Little America removed from canon 2026-07-03 — real-world verification found their shared site (Bay of Whales) was eliminated by the 1987 Iceberg B-9 calving event, with no surviving pre-exile infrastructure at either location to begin with. See `Official_Population_Census.md`'s removal note for full detail. Byrd is now this subnet's only city.*
 
 ---
 

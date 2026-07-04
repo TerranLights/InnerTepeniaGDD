@@ -15,6 +15,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 | ✗ | Destroyed (Long Night War) |
 | † | Historical site (pre-exile ruins) |
 | ↑ | Survived — too high altitude for viable large settlement |
+| ? | TBD — status deliberately unresolved, not a gap (see the specific city's Specs file) |
 
 ---
 
@@ -29,7 +30,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 | Esperanza | Esperanza Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 — already established as destroyed in `Specs/Esperanza.md` and its cultural sheet)* |
 | Marambio | Marambio Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged" — see `Specs/Marambio.md`)* |
 | Sejong | King Sejong Station | Unified Korea | Palmer ("American") | ✗ Destroyed |
-| Juan Carlos | Juan Carlos I Station | Spain | Palmer ("American") | ✗ Destroyed |
+| Juan Carlos | Juan Carlos I Station | Spain | Palmer ("American") | ? TBD *(corrected 2026-07-03 — was stale, contradicted the deliberate TBD resolution in `Specs/Juan_Carlos.md`)* |
 | Signy | Signy Station | UK | Palmer ("American") *(peripheral)* | ✓ Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — see `Specs/Signy.md`)* |
 
 ---
@@ -100,7 +101,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 ## Ross Ice Shelf
 *Subnet: Byrd ("Pacific")*
 
-**Framheim and Little America were REMOVED from canon 2026-07-03.** Real-world verification found their shared site (the Bay of Whales) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Their combined population was redistributed to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — see `Official_Population_Census.md` and `Specs/Framheim.md` / `Specs/Little_America.md` for full detail. **This also breaks the established Byrd↔Janbogo aviation refueling route (see `Specs/Byrd.md`) — not yet resolved.**
+**Framheim and Little America were REMOVED from canon 2026-07-03.** Real-world verification found their shared site (the Bay of Whales) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Their combined population was redistributed to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — see `Official_Population_Census.md`'s removal note for full detail. **This also breaks the established Byrd↔Janbogo aviation refueling route (see `Specs/Byrd.md`) — not yet resolved.**
 
 ---
 

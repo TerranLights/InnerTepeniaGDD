@@ -4,11 +4,11 @@
 
 **Based on:** Bharati Station site (original station built by India, but no Indian or South Asian exile population settled here — see canon note below), Larsemann Hills, Prydz Bay (~69°24'S, 76°11'E)
 **Tepenian city name:** TBD — will be a Japanese name, to be developed; working title "Japanese Diplomatic Partition (cf. Bharati)" until then
-**Status:** Survived; operational
+**Status:** Damaged; partially operational *(corrected 2026-07-03 — this header field was left stale after the Larsemann Hills cluster status fix; the resolution itself, alongside Soyuz and Zhongshan, was already correctly reflected in the census and tracking files — see `Specs/Soyuz.md`'s "Larsemann Hills Cluster Status Note" for the full reasoning)*
 **Arcanet Subnet:** Mawson
 **Highway access:** TBD — Larsemann Hills; part of the Prydz Bay cluster with Soyuz and Zhongshan; same immediate vicinity
 **Significance:** Part of the Larsemann Hills Prydz Bay cluster alongside Soyuz and Zhongshan; the Bharati Station physical infrastructure (built by India pre-exile) was present but unoccupied when the exile era began; **resolved 2026-07-03: a Japanese founding population settled here via a deliberate diplomatic decision of the International Court of Diplomacy at Jeju-do** (see Founding, below) — not an organic real-station inheritance like Sayowa's, but an institutionally engineered founding, the only one of its kind in Tepenia
-**DLC:** Mawson subnet — DLC 4 (Mawson Region); survived and operational
+**DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational
 
 ---
 
