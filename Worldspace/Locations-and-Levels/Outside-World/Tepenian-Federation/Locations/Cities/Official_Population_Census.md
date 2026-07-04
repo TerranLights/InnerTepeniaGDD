@@ -361,6 +361,18 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
+**Dome Fuji** *(East Antarctic Plateau, near Valkyrie Dome)*
+
+*Composition resolved 2026-07-04 — Dome Fuji received its first population figures via the same redistribution that gave Kunlun its own (a small percentage pooled from every city except Concordia), reclassified entirely as robots but — unlike Kunlun — with each contributor's original nationality preserved rather than reclassified. The result is a genuine blend proportional to every source city's own composition, USA and China leading. Per the user's direction, this population specifically represents Tepenia's most devout adherents of "Ice Cold Buddhism" (placeholder name), drawn to Dome Fuji from across the continent as a pilgrimage/gathering site — a second sacred location for the faith, distinct from Kunlun's own established status as its primary site, but with a genuinely multinational devotee population rather than Kunlun's exclusively Sinian one.*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA, China |
+| Significant | Japan, Germany, UK, France, South Korea, Russia, Brazil, Indonesia, Australia |
+| Notable | Poland, Canada, Netherlands, Italy, Argentina, Mexico, Ukraine, Thailand, Romania, Czech Republic, South Africa, Philippines, Malaysia, Vietnam, Norway, Hungary, Slovakia, Finland, New Zealand, Chile, Belarus, Belgium, Sweden, Bulgaria, Croatia, Serbia, Spain, Lithuania, Slovenia, Estonia, Latvia, Uruguay |
+
+---
+
 ### Mirny Subnet — Wilkes Land / East Antarctic Plateau
 
 ---
@@ -423,11 +435,11 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | TBD |
-| Significant | TBD |
-| Notable | TBD |
+| Primary | China *(exclusively — resolved 2026-07-04)* |
+| Significant | *(none)* |
+| Notable | *(none)* |
 
-*Note: National origin composition pending immigration composition analysis.*
+*Note: Composition resolved 2026-07-04 — Kunlun received its first population figures via a deliberate redistribution (a small percentage pooled from every city except Concordia), reclassified entirely as robots and entirely as Chinese regardless of original nationality. This is a clean, single-nation population by design, consistent with Kunlun's established identity as the Sinian Federation's only *exclusively* Sinian city (see `Specs/Kunlun.md`).*
 
 ---
 
@@ -457,65 +469,75 @@ National communities are classified by tier based on long-run population share. 
 
 | Rank | City | Subnet | Humans | Robots | **Combined** | Status |
 |------|------|--------|--------|--------|-------------|--------|
-| 1 | Lazar | Halley | 1,299,650 | 1,346,418 | **2,646,068** | *(revised 2026-07-03 — see note below)* |
-| 2 | Esperanza | Palmer | 958,570 | 926,073 | **1,884,643** | *(revised 2026-07-03)* |
-| 3 | Cape Adare | Janbogo | 750,539 | 758,307 | **1,508,846** | *(revised 2026-07-03)* |
-| 4 | Casey | Mirny | 738,418 | 766,737 | **1,505,155** | |
-| 5 | Halley | Halley | 711,583 | 744,515 | **1,456,098** | |
-| 6 | Mawson | Mawson | 713,748 | 741,178 | **1,454,926** | |
-| 7 | Mirny | Mirny | 668,613 | 688,321 | **1,356,934** | |
-| 8 | Janbogo | Janbogo | 650,383 | 667,915 | **1,318,298** | *(revised 2026-07-03)* |
-| 9 | Zhongshan | Mirny | 634,485 | 650,009 | **1,284,494** | |
-| 10 | Zukelli | Janbogo | 631,905 | 635,411 | **1,267,316** | *(destroyed; revised 2026-07-03)* |
-| 11 | Neumayer | Halley | 616,805 | 641,537 | **1,258,342** | |
-| 12 | Bharati_TBD | Mawson | 578,925 | 604,408 | **1,183,333** | |
-| 13 | Davis | Mirny | 567,640 | 598,978 | **1,166,618** | |
-| 14 | Princess Elisabeth | Halley | 556,576 | 587,111 | **1,143,687** | |
-| 15 | Belgrano | Halley | 536,403 | 544,511 | **1,080,914** | *(ruins, DLC 5)* |
-| 16 | Soyuz | Mawson | 521,255 | 552,346 | **1,073,601** | |
-| 17 | Denison | Janbogo | 526,521 | 546,852 | **1,073,373** | |
-| 18 | Aboa | Halley | 508,243 | 534,215 | **1,042,458** | |
-| 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(new 2026-07-03 — see note below)* |
-| 20 | Troll | Halley | 478,489 | 481,513 | **960,002** | |
-| 21 | Sejong | Palmer | 318,175 | 329,680 | **647,855** | *(island cap)* |
-| 22 | Marambio | Palmer | 284,047 | 287,440 | **571,487** | *(island cap)* |
-| 23 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
-| 24 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
-| 25 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
-| 26 | Vostok | Mirny | 130,333 | 261,078 | **391,411** | *(new 2026-07-03, moved up from rank 29 the same day — see note below; +30,000 humans from Sayowa)* |
-| 27 | Juan Carlos | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
-| 28 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
-| 29 | Byrd | Byrd | 187,032 | 191,404 | **378,436** | *(new 2026-07-03 — see note below)* |
-| 30 | Palmer City | Palmer | 166,795 | 167,784 | **334,579** | *(island cap; revised 2026-07-03 — now under cap, see note below)* |
-| 31 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
-| 32 | Sayowa | Mawson | 93,656 | 132,444 | **226,100** | *(island cap; −30,000 humans to Vostok, 2026-07-03)* |
-| 33 | Signy | Palmer | 93,951 | 96,398 | **190,349** | *(island cap)* |
-| 34 | Port Lockroy | Palmer | 63,856 | 66,086 | **129,942** | *(island cap)* |
-| 35 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
+| 1 | Lazar | Halley | 1,287,003 | 1,333,316 | **2,620,319** | *(revised 2026-07-04 — see Kunlun/Dome Fuji redistribution note below)* |
+| 2 | Esperanza | Palmer | 955,337 | 922,950 | **1,878,287** | *(revised 2026-07-04)* |
+| 3 | Cape Adare | Janbogo | 745,967 | 753,687 | **1,499,654** | *(revised 2026-07-04)* |
+| 4 | Casey | Mirny | 733,795 | 761,936 | **1,495,731** | *(revised 2026-07-04)* |
+| 5 | Halley | Halley | 709,749 | 742,596 | **1,452,345** | *(revised 2026-07-04)* |
+| 6 | Mawson | Mawson | 709,729 | 737,004 | **1,446,733** | *(revised 2026-07-04)* |
+| 7 | Mirny | Mirny | 665,901 | 685,529 | **1,351,430** | *(revised 2026-07-04)* |
+| 8 | Janbogo | Janbogo | 646,541 | 663,970 | **1,310,511** | *(revised 2026-07-04)* |
+| 9 | Zhongshan | Mirny | 631,985 | 647,448 | **1,279,433** | *(revised 2026-07-04)* |
+| 10 | Zukelli | Janbogo | 627,584 | 631,067 | **1,258,651** | *(destroyed; revised 2026-07-04)* |
+| 11 | Neumayer | Halley | 613,735 | 638,345 | **1,252,080** | *(revised 2026-07-04)* |
+| 12 | Bharati_TBD | Mawson | 576,469 | 601,844 | **1,178,313** | *(revised 2026-07-04)* |
+| 13 | Davis | Mirny | 563,599 | 594,715 | **1,158,314** | *(revised 2026-07-04)* |
+| 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
+| 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
+| 16 | Soyuz | Mawson | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04)* |
+| 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | *(revised 2026-07-04)* |
+| 18 | Aboa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
+| 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged — excluded from the 2026-07-04 redistribution)* |
+| 20 | Troll | Halley | 475,721 | 478,729 | **954,450** | *(revised 2026-07-04)* |
+| 21 | Sejong | Palmer | 316,691 | 328,142 | **644,833** | *(island cap; revised 2026-07-04)* |
+| 22 | Marambio | Palmer | 283,442 | 286,827 | **570,269** | *(island cap; revised 2026-07-04)* |
+| 23 | Sanay | Halley | 231,576 | 232,093 | **463,669** | *(revised 2026-07-04)* |
+| 24 | Dumont d'Urville | Janbogo | 223,549 | 229,785 | **453,334** | *(island cap; revised 2026-07-04)* |
+| 25 | Fort McMurdo | Janbogo | 222,190 | 223,120 | **445,310** | *(island cap; revised 2026-07-04)* |
+| 26 | Vostok | Mirny | 129,617 | 259,644 | **389,261** | *(revised 2026-07-04)* |
+| 27 | Juan Carlos | Palmer | 189,742 | 196,950 | **386,692** | *(island cap; revised 2026-07-04)* |
+| 28 | Scott | Janbogo | 189,817 | 196,194 | **386,011** | *(island cap; revised 2026-07-04)* |
+| 29 | Byrd | Byrd | 186,268 | 190,622 | **376,890** | *(revised 2026-07-04)* |
+| 30 | Palmer City | Palmer | 165,912 | 166,896 | **332,808** | *(island cap; revised 2026-07-04)* |
+| 31 | Rothera | Palmer | 153,760 | 163,689 | **317,449** | *(island cap; revised 2026-07-04)* |
+| 32 | Sayowa | Mawson | 93,356 | 132,020 | **225,376** | *(island cap; revised 2026-07-04)* |
+| 33 | Signy | Palmer | 93,134 | 95,560 | **188,694** | *(island cap; revised 2026-07-04)* |
+| 34 | Port Lockroy | Palmer | 63,338 | 65,549 | **128,887** | *(island cap; revised 2026-07-04)* |
+| 35 | Kunlun | Mirny | 0 | 123,449 | **123,449** | *(new 2026-07-04 — see redistribution note below; entirely robot, entirely reclassified Chinese)* |
+| 36 | Dome Fuji | Mawson | 0 | 55,072 | **55,072** | *(new 2026-07-04 — see redistribution note below; entirely robot, national origin preserved from source cities — see composition note)* |
+| 37 | Amundsen Station | Amundsen | 1,121 | 5,736 | **6,857** | *~84% robot; revised 2026-07-04* |
+
+*Kunlun/Dome Fuji population redistribution (2026-07-04):* Two rounds of small-percentage population redistribution, from every city except Concordia, into Kunlun and then Dome Fuji.
+
+**Round 1 (→ Kunlun):** A randomly-generated 0.1%–0.8% of both humans and robots was removed from each city (one random percentage per city, applied to both), pooled, and added to Kunlun entirely as robots — any humans caught up in the move were reclassified as robots, and everyone, regardless of original nationality, was reclassified as Chinese. Total pooled: 60,581 humans + 62,868 robots = **123,449**, all now Kunlun's robot population, all Chinese. This finally gives Kunlun a real population, resolving its long-standing "TBD" composition gap — see Section I.
+
+**Round 2 (→ Dome Fuji):** Applied on top of the round 1 figures. A randomly-generated 0.05%–0.3% of both humans and robots was removed from each city (again except Concordia), pooled, and added to Dome Fuji entirely as robots — humans reclassified as robots, but this time **nationality was preserved**, not reclassified. Total pooled: 26,967 humans + 28,105 robots = **55,072**, distributed across ~40 nations proportional to each source city's own composition (USA and China lead, at 14,792 and 12,291 respectively — see Section I for the full breakdown). This also gives Dome Fuji its first real population, and its own distinctive character: **per the user's direction, this population specifically represents Tepenia's most pious, devout adherents of "Ice Cold Buddhism"** (placeholder name) drawn from across the continent to Dome Fuji as a pilgrimage/gathering site — paralleling Kunlun's own established status as the faith's primary sacred site, but as a distinct, second holy location with its own devotee population rather than Kunlun's exclusively-Sinian one.
+
+Grand total is unaffected — this is a pure internal redistribution, not a net population change (verified: 32,026,600 unchanged). The human/robot balance shifted nationally, however: 87,548 fewer humans, 87,548 more robots overall (since humans caught up in both rounds were reclassified as robots rather than staying human).
 
 *Population redistribution (2026-07-03):* Lazar's population was rebalanced upward via a deliberate, explicit redistribution from three other cities: Janbogo reduced to 60% of its original total (865,531 combined transferred to Lazar), Zukelli reduced twice — first to 80%, then to 90% of that (485,068 combined transferred total), and Esperanza reduced to 85% of its original total (319,374 combined transferred). National/ethnic tier composition for all four cities remains structurally unchanged — only the underlying totals shifted. Grand total is unaffected (pure redistribution, verified: 31,906,952 unchanged).
 
 *Palmer City population expansion (2026-07-03):* Palmer City's national composition was deliberately broadened to include all 33 previously-unrepresented nations from the master Gini-adjusted effective exiles list (see `Upper_Earth_Immigration_Composition.md` methodology section). For each nation, a randomly-generated share between 0.2% and 1.8% of Palmer City's then-current total was assigned and added — full per-nation figures in `Upper_Earth_Immigration_Composition.md`'s Palmer City section. Total added: 119,648 (Census I). Unlike the Lazar redistribution, this is a genuine net addition to Tepenia's population, not a transfer — grand totals below reflect the increase.
 
 *Framheim/Little America removal and redistribution (2026-07-03):* Framheim and Little America were removed from Tepenian canon entirely — real-world verification found their shared site (the Bay of Whales, Ross Ice Shelf) was eliminated by the 1987 Iceberg B-9 calving event, and with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left to justify a war-era status. Their combined Census I population (855,540 humans / 891,723 robots / 1,747,263 combined) was redistributed: Vostok received a new 100,333H/261,078R; Esperanza received +74,860H; Concordia and Byrd each received a blend of direct shares, Kunlun/Dome Fuji's un-allocated shares (redirected once those two were dropped as destinations on altitude-viability grounds), and later transfers between each other; Zukelli, Janbogo, and Cape Adare each received +20,000H. Concordia and Byrd received their first-ever population figures this way; Vostok likewise. Kunlun and Dome Fuji were deliberately excluded from receiving any share, per their established "too high in altitude to be a viable population center" canon. Separately, Palmer City — found to be 113,970 over its documented 364,000-combined island cap (a leftover consequence of its own 2026-07-03 expansion, uncaught at the time) — had 30% of its total population relocated (20% to Byrd, 10% to Concordia) to bring it back under cap. Full step-by-step math preserved in `project_city_post_cultures` memory notes and this session's history. Grand total is unaffected by the Framheim/Little America redistribution (pure transfer, not a net change) but Framheim and Little America's rows are removed entirely rather than zeroed out, since the cities no longer exist in canon at all.
-| — | **TOTAL** | | **15,711,071** | **16,315,529** | **32,026,600** | *(unchanged overall — Framheim/Little America's removal is a pure internal redistribution; increased 2026-07-03 by 119,648 for the earlier, separate Palmer City expansion, a genuine net addition)* |
+| — | **TOTAL** | | **15,623,523** | **16,403,077** | **32,026,600** | *(combined total unchanged — the 2026-07-04 Kunlun/Dome Fuji redistribution is a pure internal transfer; human/robot split shifted by 87,548 in each direction, since humans caught up in the moves were reclassified as robots)* |
 
-*Note: Kunlun and Dome Fuji remain without population figures — Kunlun's composition is still pending immigration analysis, and Dome Fuji is not tracked as a population center at all (both are established "too high in altitude to be viable" and were deliberately excluded from the Framheim/Little America redistribution). Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section III.*
+*Note: Kunlun and Dome Fuji both received population figures for the first time 2026-07-04, via the redistribution described above — see Section I for their resolved compositions (Kunlun: 100% Chinese; Dome Fuji: blended, preserving each contributor's original nationality). Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section III.*
 
 ### Subnet Totals — Census I
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. Mawson and Mirny further corrected here, same day — this table was never updated after the later Sayowa→Vostok 30,000-human redistribution, which moves 30,000 from Mawson subnet's total to Mirny subnet's.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. All subnets except Concordia's further revised 2026-07-04 for the Kunlun/Dome Fuji redistribution — Kunlun counts toward Mirny subnet, Dome Fuji toward Mawson subnet, per each city's established Arcanet subnet assignment.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
-| Halley / Queen Maud Land | 4,941,288 | 5,113,881 | **10,055,169** |
-| Janbogo / Ross Sea | 3,703,218 | 3,772,331 | **7,475,549** |
-| Mawson / Indian Ocean | 1,907,584 | 2,030,376 | **3,937,960** |
-| Palmer / Antarctic Peninsula | 2,231,334 | 2,236,651 | **4,467,985** |
-| Mirny / Wilkes Land + Plateau | 2,739,489 | 2,965,123 | **5,704,612** |
-| Byrd / Ross Ice Shelf | 187,032 | 191,404 | **378,436** |
-| Amundsen / South Pole | 1,126 | 5,763 | **6,889** |
-| **TOTAL** | **15,711,071** | **16,315,529** | **32,026,600** |
+| Halley / Queen Maud Land | 4,907,714 | 5,079,197 | **9,986,911** |
+| Janbogo / Ross Sea | 3,683,422 | 3,752,139 | **7,435,561** |
+| Mawson / Indian Ocean | 1,898,745 | 2,076,099 | **3,974,844** |
+| Palmer / Antarctic Peninsula | 2,221,356 | 2,226,563 | **4,447,919** |
+| Mirny / Wilkes Land + Plateau | 2,724,897 | 3,072,721 | **5,797,618** |
+| Byrd / Ross Ice Shelf | 186,268 | 190,622 | **376,890** |
+| Amundsen / South Pole | 1,121 | 5,736 | **6,857** |
+| **TOTAL** | **15,623,523** | **16,403,077** | **32,026,600** |
 
 ### National Origin Totals — Human Population (Census I)
 
@@ -523,36 +545,38 @@ National communities are classified by tier based on long-run population share. 
 
 *Adjusted again 2026-07-03, same day — the Sayowa→Vostok 30,000-human redistribution moved humans from Sayowa's own China-heavy composition to Vostok's existing (Framheim/Little America-derived) USA/Japan-led profile. Per the user's explicit direction, this and similar future balancing moves are treated as simple numeric transfers adopting the destination city's existing composition, not as carrying the source city's demographic weights along with them — a deliberate simplification, not an oversight. Off by 1 (15,711,072 vs. 15,711,071) due to rounding across 28 affected nations; immaterial.*
 
+*Adjusted again 2026-07-04 — the Kunlun/Dome Fuji redistribution reclassified 87,548 humans (60,581 in the Kunlun round, 26,967 in the Dome Fuji round) as robots. Since this table tracks human exile population only, that reduction is subtracted from each nation's share of the humans actually removed from each source city — nothing is added back for either destination, since both Kunlun and Dome Fuji ended up with zero humans (100% robot). This is true even for China, despite Kunlun's population being 100% Chinese — that population is entirely robot, so it does not appear in this humans-only table at all. Off by 3 (15,623,526 vs. 15,623,523) due to rounding across 42 nations; immaterial.*
+
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 4,635,150 | | Chile | 49,265 |
-| China | 3,270,784 | | Hungary | 49,136 |
-| Japan | 1,255,010 | | Norway | 44,638 |
-| Germany | 1,179,924 | | New Zealand | 42,808 |
-| UK | 1,013,992 | | Slovakia | 41,112 |
-| France | 597,156 | | Belgium | 32,608 |
-| South Korea | 486,161 | | Finland | 31,175 |
-| Brazil | 366,893 | | Spain | 31,014 |
-| Russia | 333,079 | | Sweden | 27,657 |
-| Indonesia | 289,336 | | Belarus | 25,443 |
-| Australia | 256,362 | | Croatia | 25,214 |
-| Canada | 217,722 | | Bulgaria | 23,261 |
-| Poland | 195,574 | | Serbia | 22,830 |
-| Netherlands | 129,509 | | Slovenia | 19,938 |
-| Argentina | 129,503 | | Lithuania | 18,308 |
-| Mexico | 122,709 | | Estonia | 16,539 |
-| Italy | 101,591 | | Latvia | 12,419 |
-| Thailand | 90,864 | | Uruguay | 4,676 |
-| Ukraine | 86,849 | | | |
-| Czech Republic | 86,288 | | | |
-| Romania | 80,615 | | | |
-| South Africa | 72,918 | | | |
-| Philippines | 70,888 | | | |
-| Malaysia | 68,308 | | | |
-| Vietnam | 55,846 | | | |
-| **TOTAL** | **15,711,072** *(off by 1, rounding)* | | | |
+| USA | 4,609,344 | | Chile | 49,026 |
+| China | 3,252,907 | | Hungary | 48,806 |
+| Japan | 1,248,930 | | Norway | 44,328 |
+| Germany | 1,172,683 | | New Zealand | 42,602 |
+| UK | 1,008,174 | | Slovakia | 40,847 |
+| France | 593,394 | | Belgium | 32,423 |
+| South Korea | 483,816 | | Finland | 30,950 |
+| Brazil | 364,658 | | Spain | 30,870 |
+| Russia | 330,976 | | Sweden | 27,491 |
+| Indonesia | 287,939 | | Belarus | 25,285 |
+| Australia | 255,122 | | Croatia | 25,053 |
+| Canada | 216,897 | | Bulgaria | 23,115 |
+| Poland | 194,257 | | Serbia | 22,685 |
+| Argentina | 128,714 | | Slovenia | 19,812 |
+| Netherlands | 128,695 | | Lithuania | 18,191 |
+| Mexico | 122,194 | | Estonia | 16,444 |
+| Italy | 100,951 | | Latvia | 12,342 |
+| Thailand | 90,391 | | Uruguay | 4,653 |
+| Ukraine | 86,284 | | | |
+| Czech Republic | 85,718 | | | |
+| Romania | 80,096 | | | |
+| South Africa | 72,474 | | | |
+| Philippines | 70,501 | | | |
+| Malaysia | 67,933 | | | |
+| Vietnam | 55,555 | | | |
+| **TOTAL** | **15,623,526** *(off by 3, rounding)* | | | |
 
-*Note: This total matches Census I's official human population exactly (15,711,071) — no variation-rate discrepancy, since it was built by summing each city's actual composition rather than an independent top-down calculation.*
+*Note: This total matches Census I's official human population (15,623,523, off by 3 rounding) — the reduction from the previous total (15,711,071) reflects the 87,548 humans reclassified as robots in the Kunlun/Dome Fuji redistribution.*
 
 ---
 

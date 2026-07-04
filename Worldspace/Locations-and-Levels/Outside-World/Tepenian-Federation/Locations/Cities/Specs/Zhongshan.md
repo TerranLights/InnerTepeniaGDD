@@ -64,17 +64,17 @@ Prydz Bay maritime logistics, scientific research, cluster economy with Soyuz an
 ---
 
 ## Connection to Concordia
-Mawson subnet. The Sinian Federation's Tepenian presence spans Zhongshan (Mawson subnet) and Kunlun (Mirny subnet — the holiest Ice Cold Buddhism site). Whether any Sinian exile community exists in Concordia is TBD, but given the Mirny subnet's connection to Concordia, a Kunlun-origin Sinian community in Concordia is possible.
+Zhongshan is in the Mirny subnet *(corrected 2026-07-04 — this line previously said "Mawson subnet," a leftover from before the header field was corrected 2026-07-03)*. The Sinian Federation's Tepenian presence spans Zhongshan (Mirny subnet) and Kunlun (also Mirny subnet — the holiest Ice Cold Buddhism site, and now confirmed 100% Chinese by population, per its own 2026-07-04 redistribution). Whether any Sinian exile community exists in Concordia is TBD, but given the Mirny subnet's connection to Concordia, a Kunlun-origin Sinian community in Concordia is possible.
 
 ---
 
 ## Legacy
-Zhongshan's legacy is the demonstration of scale — a Sinian Federation city in the Mawson subnet built with the full weight of a major national program's resources. Whatever the Long Night War damaged, it damaged something significant.
+Zhongshan's legacy is the demonstration of scale — a Sinian Federation city in the Mirny subnet *(corrected 2026-07-04 — was "Mawson subnet")* built with the full weight of a major national program's resources. Whatever the Long Night War damaged, it damaged something significant.
 
 ---
 
 ## Open Questions
 - **The Sinian Federation's Tepenia-wide arc** — Zhongshan and Kunlun represent two very different Sinian Tepenian experiences: one in a dense coastal cluster, one at the highest, coldest, most spiritually significant point on the continent; how do these two communities relate to a shared Sinian identity?
-- **The Sinian-Russian cluster relationship** — Zhongshan and Soyuz are immediate neighbors; the history of that relationship is a key Mawson subnet story
+- **The Sinian-Russian cluster relationship** — Zhongshan and Soyuz are immediate neighbors; the history of that relationship is a key story spanning both the Mirny subnet (Zhongshan) and the Mawson subnet (Soyuz) *(corrected 2026-07-04 — previously just "Mawson subnet," which mischaracterized Zhongshan's own confirmed Mirny subnet membership)*
 - **Demonym** — TBD; "Zhongshaners"? something Chinese?
 - **Notable figures** — TBD

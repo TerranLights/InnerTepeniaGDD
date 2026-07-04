@@ -4,7 +4,8 @@
 **Status:** Survived — extreme altitude; most marginal survival of any Tepenian city
 **Arcanet Subnet:** Mirny ("Australian")
 **Highway access:** None confirmed; ~1,200km+ from the nearest Mirny subnet coastal city; the highest and one of the most isolated locations in Tepenia
-**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation; survived the Long Night War but its current population — if any human population remains — is uncertain; the Sinian Federation's only *exclusively* Sinian city *(clarified 2026-07-03 — Zhongshan is also a genuine Sinian/Chinese-founded city, so "only Sinian city" isn't accurate; Kunlun's real distinction is being the only Tepenian city with a purely, exclusively Sinian population, unlike Zhongshan's broader multinational composition)*
+**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation; the Sinian Federation's only *exclusively* Sinian city *(clarified 2026-07-03 — Zhongshan is also a genuine Sinian/Chinese-founded city, so "only Sinian city" isn't accurate; Kunlun's real distinction is being the only Tepenian city with a purely, exclusively Sinian population, unlike Zhongshan's broader multinational composition)*
+**Population:** 0 humans / 123,449 robots (Census I) — resolved 2026-07-04, Kunlun's first population figures; see Founding Population Resolution, below
 **DLC:** Mirny subnet — extreme altitude and isolation make it a potential endpoint destination rather than a transit location; whether reachable in gameplay is a major design question
 
 ---
@@ -69,6 +70,14 @@ The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kun
 ## Founding
 
 **Settled:** Post-Falkland Treaty, on the Kunlun Station infrastructure — the last major Antarctic station established before the first global war, operational since 2009. By 2564, it was relatively young as Antarctic stations went, but established.
+
+## Founding Population Resolution (2026-07-04)
+
+Kunlun's population was resolved via a deliberate redistribution: a small percentage (0.1%–0.8%, randomly generated per city) was drawn from every Tepenian city except Concordia, pooled together, and added to Kunlun entirely as robots and entirely reclassified as Chinese, regardless of each contributor's original nationality — unlike the parallel Dome Fuji redistribution, which preserved original nationality. This gives Kunlun a clean, single-nation population (123,449, 0 humans / 123,449 robots) consistent with its established identity as the only *exclusively* Sinian Tepenian city.
+
+**Open question this raises, not yet resolved:** Kunlun's own established lore (see Character & Culture, below) already frames its population as devout "Ice Cold Buddhism" pilgrims drawn from across Tepenia — implying a genuinely multinational devotee community, similar to how Dome Fuji's own resolution actually played out. But this redistribution reclassified everyone as Chinese, which doesn't obviously square with a multinational pilgrimage population. Whether Kunlun's population is *also* meant to be understood as pilgrims (just ones who happen to all register as Chinese post-reclassification), or whether the pilgrimage framing belongs to Dome Fuji alone and Kunlun's population is something else entirely, is unresolved — worth revisiting.
+
+---
 
 **Founding population:** Sinian (Chinese) exiles — Kunlun is the only Tepenian city with an *exclusively* Sinian founding population *(Zhongshan also has a Sinian/Chinese founding-operator heritage, but a broadly multinational overall composition — Kunlun's real distinction is exclusivity, not being the sole Sinian-connected city)*, making it the sole purely-Sinian outpost of the Sinian Federation's exile community on the Antarctic continent. The founding community arrived with a specific scientific and cultural mission and discovered almost immediately that the altitude was going to be the defining constraint of everything they did.
 

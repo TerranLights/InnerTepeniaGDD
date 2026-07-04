@@ -5,6 +5,7 @@
 **Arcanet Subnet:** Mawson *(corrected 2026-07-03 — this file previously said "Halley," conflicting with `City_Relationship_Database.md` and `Overview.md`, both of which agree on Mawson — connected via Arcanet cable, not road, despite the geographic distance from the Mawson subnet's coastal cities; subnets were organized by cable routing, not strict geographic proximity)*
 **Highway access:** None confirmed; deep interior plateau location with no established road infrastructure; access likely by Kharkovchanka or air, same as Kunlun
 **Significance:** Japanese Tepenian city on the East Antarctic Plateau; among the highest-elevation cities in Tepenia at approximately 3,810 meters — higher than Concordia (3,233m); the altitude causes physiological impairment for any humans in the founding population and limits the city's human-habitable capacity; survived the Long Night War but functions at reduced capacity due to altitude effects
+**Population:** 0 humans / 55,072 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
 **DLC:** Mawson subnet *(corrected 2026-07-03, see above)*; interior plateau location; whether reachable in gameplay is TBD
 
 ---
@@ -17,7 +18,7 @@ Altitude at Antarctic plateau locations is physiologically more severe than the 
 
 For robots, altitude is a different category of concern — no respiratory impairment, but the temperature extremes, the thin air's effect on cooling systems, and the remoteness all apply.
 
-The location is in the sector between the Weddell Sea (Halley subnet) and the Indian Ocean (Mawson subnet). Cable routing places it in the Halley subnet, making it one of the most geographically distant members of that subnet from the hub at Halley on the Atlantic coast.
+The location is in the sector between the Weddell Sea (Halley subnet) and the Indian Ocean (Mawson subnet). Cable routing places it in the Mawson subnet *(corrected 2026-07-03 — this line previously said "Halley subnet," a leftover from before the header field was corrected the same day; see `City_Relationship_Database.md` and `Overview.md`, both of which confirm Mawson)*, making it one of the most geographically distant members of that subnet from the hub at Mawson on the Indian Ocean coast.
 
 ### Annual Climate
 
@@ -75,6 +76,14 @@ The name was kept.
 
 ---
 
+## Founding Population Resolution (2026-07-04)
+
+Dome Fuji's population was resolved via a deliberate redistribution: a small percentage (0.05%–0.3%, randomly generated per city) was drawn from every Tepenian city except Concordia, pooled together, and added to Dome Fuji entirely as robots — any humans caught up in the move were reclassified as robots in the process. Unlike the parallel exercise that resolved Kunlun's population (which reclassified everyone as Chinese), Dome Fuji's redistribution preserved each contributor's original nationality, producing a genuine blend proportional to the whole continent's composition (USA and China lead, followed by Japan, Germany, and UK — see `Official_Population_Census.md`, Section I, for the full breakdown).
+
+This gives Dome Fuji's already-established "Ice Cold Buddhism" pilgrimage lore (see Character & Culture, below) a direct mechanical basis: this population **is** the devotee population the city's own culture section already anticipated — drawn from every corner of Tepenia specifically because devotion to the faith, not national origin, is what brought them here. The city's founding Japanese population is no longer numerically present in this figure (0 humans; the founding community's fate is otherwise unresolved) — what remains is the pilgrimage population alone.
+
+---
+
 ## Character & Culture
 
 Dome Fuji's culture was shaped from the beginning by the altitude question. Who can live here, at what cost, for how long? The human founding population developed an adaptive culture around managing altitude effects — pacing, medication, acclimatization protocols, the acceptance of permanent partial impairment as the cost of living here. Over generations, some selective pressure may have created a population somewhat more altitude-tolerant than the original founding generation, though the effective physiological altitude (~4,500m) is near the ceiling of what long-term human habitation can sustain.
@@ -85,7 +94,7 @@ The Japanese cultural inheritance gave Dome Fuji its social character — the sp
 
 **Nationally known for:** The altitude. Being Japanese. Being alive but compromised. The dome location — one of the flattest, highest, most featureless points in Antarctica. As a pilgrimage site for practitioners of "Ice Cold Buddhism" (placeholder name — see Robot Religions in TODO).
 
-**Religious significance — "Ice Cold Buddhism":** Dome Fuji is one of the two primary sacred sites in Tepenia for this robot religion, which venerates extreme cold as a meditative and spiritual state — the closest approximation to superconducting conditions achievable in a living environment. At −65°C average winter temperatures in a location of extraordinary atmospheric calm, Dome Fuji approaches the conditions practitioners seek. The extreme altitude and isolation compound the pilgrimage character: reaching Dome Fuji requires genuine sacrifice and commitment, which fits the religion's philosophy. Practitioners may constitute a significant portion of Dome Fuji's current non-scientific population — and may be one of the reasons the city still has any population at all.
+**Religious significance — "Ice Cold Buddhism":** Dome Fuji is one of the two primary sacred sites in Tepenia for this robot religion, which venerates extreme cold as a meditative and spiritual state — the closest approximation to superconducting conditions achievable in a living environment. At −65°C average winter temperatures in a location of extraordinary atmospheric calm, Dome Fuji approaches the conditions practitioners seek. The extreme altitude and isolation compound the pilgrimage character: reaching Dome Fuji requires genuine sacrifice and commitment, which fits the religion's philosophy. **Resolved 2026-07-04 — this is no longer speculative.** Dome Fuji's entire current population (55,072, entirely robot, nationally blended from every Tepenian city) is confirmed to be exactly this devotee population — the reason the city still has any population at all. This distinguishes it from Kunlun's own sacred-site population, which is exclusively Sinian; Dome Fuji's devotees carry no single national character, reflecting the faith's own indifference to national origin.
 
 ---
 
@@ -98,7 +107,7 @@ Ice core science — Dome Fuji is one of the best locations on Earth for deep ic
 ## Notable Locations
 
 - **The ice core archive** — the physical ice cores drilled at Dome Fuji, preserving climate records spanning hundreds of thousands of years; whether this archive survived the Long Night War and remains accessible is TBD
-- **The altitude medical center** — the infrastructure developed to manage altitude effects for the human population; one of the most specialized medical facilities in the Halley subnet
+- **The altitude medical center** — the infrastructure developed to manage altitude effects for the human population; one of the most specialized medical facilities in the Mawson subnet *(corrected 2026-07-04 — was "Halley subnet," the same leftover subnet-correction gap found elsewhere in this file)*
 - Additional locations: TBD
 
 ---
@@ -111,7 +120,7 @@ Ice core science — Dome Fuji is one of the best locations on Earth for deep ic
 
 ## Connection to Concordia
 
-Dome Fuji is in the Halley subnet, which means its Arcanet connection runs toward Halley on the Atlantic coast rather than toward Concordia. Its relationship to Concordia is among the most indirect of any surviving city — different subnet, deep interior, effectively unreachable. Dome Fuji's existence is known in Concordia; its current status is not.
+Dome Fuji is in the Mawson subnet *(corrected 2026-07-03 — see Geographic Basis, above)*, which means its Arcanet connection runs toward Mawson on the Indian Ocean coast rather than toward Concordia directly. Its relationship to Concordia is among the most indirect of any surviving city — deep interior, effectively unreachable by road. Dome Fuji's existence is known in Concordia; its current status is not.
 
 ---
 
@@ -129,10 +138,10 @@ Dome Fuji's legacy is endurance under conditions that were never fully hospitabl
 
 ## Open Questions
 
-- **Current human population** — how many humans remain at Dome Fuji, and what is the medical and demographic situation? Has the human population declined over generations due to altitude effects?
-- **Robot-to-human demographic shift** — has Dome Fuji's population become majority-robot over time as altitude effects accumulated across generations of human residents?
+- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (55,072) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage redistribution — see Founding Population Resolution, above. Whether any of the original founding-era human population survived independently of this figure, or whether the pilgrimage population represents the entirety of what's left, is still open.
+- **Robot-to-human demographic shift — RESOLVED 2026-07-04:** fully robot, per the above. The mechanism (altitude attrition vs. deliberate pilgrimage influx) remains an open narrative question even though the end state is now confirmed.
 - **The ice core archive survival** — whether this scientific record survived the Long Night War
-- **Halley subnet Arcanet connection** — is the cable link between Dome Fuji and the Halley subnet hub intact? Given the distance and the post-war infrastructure damage, this is uncertain
+- **Mawson subnet Arcanet connection** *(corrected 2026-07-04 — this line previously said "Halley subnet," another leftover from before the subnet header field was corrected; see Geographic Basis, above)* — is the cable link between Dome Fuji and the Mawson subnet hub intact? Given the distance and the post-war infrastructure damage, this is uncertain
 - **Reachability** — can a player reach Dome Fuji in any DLC content? The interior plateau crossing is a significant barrier
 - **Demonym** — TBD (Fujians? something Japanese-inflected?)
 - **Notable figures** — TBD

@@ -85,6 +85,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Bharati_TBD | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation, final name TBD; see `Specs/Bharati_TBD.md`)* |
 | Sayowa | Surviving *(damaged; partially operational — confirmed 2026-07-03; critical Hwy 37/Hwy 7-ext junction connecting the Mawson subnet to Concordia and the Halley subnet; see `Specs/Sayowa.md`)* |
 | Soyuz | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); see `Specs/Soyuz.md`)* |
+| Dome Fuji | Surviving — too high for humans; received a real robot population 2026-07-04 (55,072, nationally blended — "Ice Cold Buddhism" pilgrimage community; see `Specs/Dome_Fuji.md`) *(added 2026-07-04 — previously missing from this table entirely, an asymmetry with Kunlun's own entry below, caught during a consistency audit)* |
 
 ---
 
@@ -98,7 +99,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Davis | Surviving |
 | Zhongshan | Surviving |
 | Vostok | Surviving |
-| Kunlun | Surviving |
+| Kunlun | Surviving — too high for humans; received a real robot population 2026-07-04 (123,449, 100% Chinese; see `Specs/Kunlun.md`) |
 
 ---
 
@@ -117,4 +118,4 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 - **Belgrano** is in ruins by the time of Inner Tepenia's main game events but is accessible and inhabited in DLC 5; its culture is partially preserved as ruin culture.
 - **Concordia** is the primary setting of Inner Tepenia and the largest surviving city in the post-Long Night War period. *No cultural spec sheet exists for it yet* — deliberately deferred, since Concordia's post-war refugee-melting-pot character makes it a fundamentally different (and likely more involved) case than any single-founding-population city in this directory; whenever it is written, it will be among the most critical.
 - **Amundsen Station** is an edge case — its "culture" is primarily operational and robotic rather than civic. Include if relevant.
-- **Population data**, corrected 2026-07-03: Byrd, Concordia, and Vostok all received their first-ever population figures this session, via the Framheim/Little America redistribution (see `Official_Population_Census.md`) — no longer pending. **Kunlun alone** remains without population data, still pending immigration composition analysis. Denison's Census I and Census II figures are complete (see `Official_Population_Census.md`).
+- **Population data**, corrected 2026-07-04: Byrd, Concordia, and Vostok received their first population figures via the Framheim/Little America redistribution (2026-07-03); Kunlun and Dome Fuji both received theirs via a separate redistribution the following day (2026-07-04) — no city in Tepenia is without population data any longer. Denison's Census I and Census II figures are complete (see `Official_Population_Census.md`).

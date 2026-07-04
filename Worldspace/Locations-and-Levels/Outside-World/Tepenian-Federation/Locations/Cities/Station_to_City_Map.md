@@ -112,8 +112,8 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 |---|---|---|---|---|---|
 | Concordia Station | France / Italy | **Concordia** ✓ | 3,233m | Survived — Last major city | Primary game setting |
 | Vostok Station | Russia | Vostok | 3,488m | Survived — isolated | Too far from self-support resources; small population or abandoned |
-| Dome Fuji / Valkyrie Dome | Japan | Dome Fuji | ~3,810m | Survived — too high | Altitude too extreme for viable large settlement |
-| Kunlun Station / Dome Argus | Sinian Federation | Kunlun | 4,093m | Survived — too high | Highest station in Antarctica; unviable at scale |
+| Dome Fuji / Valkyrie Dome | Japan | Dome Fuji | ~3,810m | Survived — too high for humans | Altitude too extreme for human settlement; received a real robot population 2026-07-04 (55,072, nationally blended — "Ice Cold Buddhism" pilgrimage community) |
+| Kunlun Station / Dome Argus | Sinian Federation | Kunlun | 4,093m | Survived — too high for humans | Highest station in Antarctica; received a real robot population 2026-07-04 (123,449, 100% Chinese) — *corrected from "unviable at scale," which is no longer accurate* |
 | Byrd Station | USA | Byrd | ~1,530m | Survived — struggling | West Antarctica; DLC 2 centerpiece; lowest-altitude inland station |
 
 ---

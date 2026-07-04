@@ -120,8 +120,8 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 |---|---|---|---|---|
 | **Concordia** *(last major city; primary game setting)* | Concordia Station (Dome C) | France / Italy | Janbogo | ✓ Survived |
 | Vostok | Vostok Station | Russia | Mirny ("Australian") | ✓ Survived — too isolated |
-| Dome Fuji | Dome Fuji / Valkyrie Dome | Japan | Mawson | ↑ Survived — too high |
-| Kunlun | Kunlun Station / Dome Argus | Sinian Federation | Mirny ("Australian") | ↑ Survived — too high |
+| Dome Fuji | Dome Fuji / Valkyrie Dome | Japan | Mawson | ↑ Survived — too high for humans, but received a real robot population 2026-07-04 (55,072, nationally blended) |
+| Kunlun | Kunlun Station / Dome Argus | Sinian Federation | Mirny ("Australian") | ↑ Survived — too high for humans, but received a real robot population 2026-07-04 (123,449, 100% Chinese) |
 | **Byrd** *(DLC 2 centerpiece)* | Byrd Station | USA | Byrd ("Pacific") | ~ Survived — struggling |
 
 ---
