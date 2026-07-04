@@ -1,0 +1,2013 @@
+<!doctype html>
+<html lang="en" >
+    <head>
+        <!-- Default HTML Head for the Sunset Templates  -->
+        <!--  Default HTML header for the Sunset Templates -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Set base url for css, js, images, etc -->
+<base href="https://treaties.okstate.edu/" />
+
+<title>Treaty with the Cherokee, 1835</title>
+
+<!-- Bootstrap  CSS -->
+<link href="template-files/sunset/css/bootstrap.min.css" rel="stylesheet">
+
+
+<!-- Fonts used in new templates -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Ubuntu:ital,wght@0,300;0,400;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+<!--
+Use this CSS to use the fonts in CSS classes:
+	font-family: 'EB Garamond', serif;
+	font-family: 'Ubuntu', sans-serif;
+-->
+
+<!-- FontAwesome -->
+<script src="https://kit.fontawesome.com/6b419db3e5.js" crossorigin="anonymous"></script>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+
+<!-- Favicons -->
+
+<!-- Add favicons to site -->
+<link rel="apple-touch-icon" href="https://treaties.okstate.edu/template-files/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://treaties.okstate.edu/template-files/favicon/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="https://treaties.okstate.edu/template-files/favicon/android-chrome-512x512.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://treaties.okstate.edu/template-files/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://treaties.okstate.edu/template-files/favicon/favicon-16x16.png">
+<link rel="shortcut icon" href="https://treaties.okstate.edu/template-files/favicon/favicon.ico">
+
+<!-- Base CSS for the Sunset Template -->
+<style>
+	/* Base Styles from Figma Specs */
+
+/* Base CSS file for new Sunset template for Tribal Treaties Database */
+/*
+Use this CSS to use the fonts in CSS classes:
+
+font-family: 'EB Garamond', serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+/* Base styles */
+
+html {
+	background: #5B3232;
+}
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0em;
+	text-align: left;
+	background: #fff;
+}
+
+a {
+	color: #43777e;
+	text-decoration: none;
+}
+
+
+a:hover,
+a:focus {
+	color: #376166;/*rgba(67, 119, 126, 5);*/
+	text-decoration: underline;
+}
+a:active{
+    color: #2d5054;
+}
+
+/* Headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'EB Garamond', serif;
+}
+
+
+
+h1,
+.h1 {
+	font-size: 32px
+}
+
+@media (min-width: 576px) {
+
+	h1,
+	.h1 {
+		font-size: calc(32px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h1,
+	.h1 {
+		font-size: 64px;
+	}
+}
+
+
+h2,
+.h2 {
+	font-size: 28px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h2,
+	.h2 {
+		font-size: calc(28px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h2,
+	.h2 {
+		font-size: 36px;
+	}
+}
+
+h3,
+.h3 {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h3,
+	.h3 {
+		font-size: calc(18px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h3,
+	.h3 {
+		font-size: 32px;
+	}
+}
+
+
+h4,
+.h4 {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h4,
+	.h4 {
+		font-size: calc(18px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h4,
+	.h4 {
+		font-size: 18px;
+	}
+}
+
+h5,
+.h5 {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h5,
+	.h5 {
+		font-size: calc(32px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h5,
+	.h5 {
+		font-size: 16px;
+	}
+}
+
+/* Basic Text styles */
+p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.p1,
+.p2,
+.p4 {
+	text-transform: uppercase;
+}
+
+.p1,
+.p2 {
+	font-weight: 500;
+}
+
+.p1 {
+	font-size: 1.5rem;
+}
+
+.p1 {
+	font-size: 18px;
+
+}
+
+/* special case for homepage-hero */
+
+.hero-page-title .p1{
+    text-transform:capitalize;
+    font-size: 20px;
+    font-weight: medium;
+}
+
+.browse-by-section .p2{
+    text-transform:capitalize;
+}
+
+.browse-by-section a{
+    color: rgb(33, 37, 41);
+}
+
+.hero-text-bg{
+    xbackground: radial-gradient(circle at top left, #5B3232 0%, transparent 96%);
+    background: radial-gradient(ellipse 100% 90% at top left, #5B3232 0%, transparent 100%);
+}
+
+@media (min-width: 576px) {
+
+	.p1 {
+		font-size: 18px;
+		calc(12px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	.p1 {
+		font-size: 24px;
+	}
+}
+
+.p2 {
+	font-size: 1.25rem;
+}
+
+.p3 {
+	font-size: 1.125rem;
+}
+
+.p4 {
+	font-size: 1rem;
+}
+
+p.about{
+    font-size: 18px;
+}
+
+/* Buttons */
+.btn-sunset {
+	padding: 1.125rem 4rem;
+	border-radius: 0;
+	background: #43777e;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+}
+
+.btn-sunset:hover,
+.btn-sunset:focus {
+	background: #315E5E;
+	color: #fff;
+}
+
+.btn-sunset-dark {
+	xpadding: 1.125rem 4rem;
+	border-radius: 0;
+	border: 1px solid #43777E;
+	background: rgba(55, 97, 102, 0.14);
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	color: #43777E !important;
+}
+
+.btn-sunset-dark:hover,
+.btn-sunset-dark:focus {
+	background: rgba(55, 97, 102, 0.14);
+	xcolor: #fff;
+}
+
+.btn-sunset-light {
+	border-radius: 0;
+	border: 1px solid #43777E !important;
+	background: #fff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	color: #43777E !important;
+}
+
+.btn-sunset-light:hover,
+.btn-sunset-light:focus {
+	background: #43777E;
+	color: #fff !important;
+}
+
+
+
+
+/* Styling for Sections */
+
+/* dropdown main menu in navbar*/
+
+
+
+.dropdown-item.active, .dropdown-item:active{
+    background-color: #43777E;
+    }
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #212529;
+}
+    
+/* Navbar links */
+
+.navbar-brand{
+    font-size: 24px;
+    color: #212529 !important;
+}
+
+.nav-link{
+    font-weight: 600 !important;
+    color: #212529 !important;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    font-size: 18px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+
+.dropdown-item:focus, .dropdown-item:hover{
+    background-color: #D3D8DD;
+}
+    
+/* hero section */
+.sunset-bg {
+	background: url(https://treaties.okstate.edu/template-files/kapplers/images/bg/comm-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-family: 'EB Garamond', serif;
+}
+
+.sunset-bg a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* dark red section */
+.dark-red-bg {
+	background: #5b3232;
+	color: #fff;
+	font-family: 'EB Garamond', serif;
+}
+
+.dark-red-bg a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.dark-red-bg a:hover, .dark-red-bg a:focus {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+.partners-wrapper a {
+	font-size: 20px;
+}
+
+/* teal section */
+.teal-bg {
+	background: #43777e;
+	color: #fff;
+	font-family: 'EB Garamond', serif;
+}
+
+.teal-bg a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Breadcrumbs */
+.breadcrumb {
+	color: #fff;
+	margin-top: 1rem;
+}
+
+.breadcrumb li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.breadcrumb li a:hover,
+.breadcrumb li a:focus
+{
+
+	text-decoration: underline;
+}
+
+.breadcrumb li.active {
+	color: #fff;
+	font-style: italic;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #fff;
+}
+
+/* Navbar */
+.logo-text {
+	font-family: 'EB Garamond', serif;
+	xtext-transform: uppercase;
+	position: relative;
+}
+
+.navbar {
+	font-family: 'EB Garamond', serif;
+	xtext-transform: uppercase;
+}
+
+.logo-text {
+	font-weight: 600;
+}
+
+.logo-text small {
+	padding-left: .5rem;
+	font-size: .9rem;
+	position: absolute;
+	top: .2rem;
+	font-weight: 400;
+}
+
+
+
+/*footer section */
+
+footer {
+	background: #5B3232;
+	color: #fff;
+	padding: 2rem 0;
+	color: #FFF;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 2rem;
+}
+
+footer a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+footer a:hover, footer a:focus {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+h2.footer-contact{
+    font-family: Ubuntu, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+     display: inline-block;
+    line-height: 1.6rem;
+    }
+
+/* adjust header height to match library logo image */
+@media (min-width: 992px) {
+    .footer-header-div{
+        min-height: 84px;
+    }
+    
+	.zfooter-contact {
+		max-height: 84px;
+	}
+}
+
+
+/********************************************/
+
+/*        Index pages CSS                   */
+
+/********************************************/
+
+.page-header {
+	padding-bottom: 9px;
+	margin: 40px 0 20px;
+	border-bottom: 1px solid #eee;
+}
+
+/* Index indentation CSS */
+p.index-level-1 {
+	text-indent: -1em;
+	margin-left: 1em;
+}
+
+p.index-level-2 {
+	text-indent: -1em;
+	margin-left: 3em;
+}
+
+p.index-level-3 {
+	text-indent: -1em;
+	margin-left: 6em;
+}
+
+/********************************************/
+
+/*        Treaty pages CSS                   */
+
+/********************************************/
+.btn-more-info {
+	line-height: 1.2rem;
+	border-radius: 0;
+	background: #43777e;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+
+}
+
+.btn-more-info:hover,
+.btn-info:focus {
+	background: #315E5E;
+	color: #fff;
+}
+
+.more-info-title {
+	font-weight: 600;
+	margin-top: 1rem;
+	margin-bottom: .5rem;
+}
+
+.more-info-links {
+	margin-bottom: 1.86rem;
+}
+
+.more-info-links a,
+v.more-info-links a:hover,
+.more-info-links a:focus {
+	color: #43777E !important;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+/********************************************/
+
+/*        Treaty Data Grid CSS              */
+
+/********************************************/
+
+
+/*** Pagination Styling */
+.footable .pagination > .active > a, .footable .pagination > .active > span, .footable .pagination > .active > a:hover, .footable .pagination > .active > span:hover, .footable .pagination > .active > a:focus, .footable .pagination > .active > span:focus {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #43777E;
+    border-color: #43777E;
+}
+
+.footable .pagination > li > a, .footable .pagination > li > span, .footable .pagination > li > a:focus, .footable .pagination > li > span:focus {
+    color: #43777E;
+    background-color: #fff;
+    border-color: #ddd;
+}
+
+.footable .pagination > li > a:hover, .footable .pagination > li > span:hover, .footable .pagination > li > a:focus, .footable .pagination > li > span:focus {
+    color: #376166;
+    background-color: #eee;
+    border-color: #ddd;
+}
+
+
+/*** Search/filter Button Styling */
+.footable .btn-primary, .footable .btn-primary, .footable    .footable .open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #43777E;
+    border-color: #43777E;
+}
+.footable .btn-primary:hover, .footable .btn-primary:focus, .footable .btn-primary.focus, .footable .btn-primary:active, .footable .btn-primary.active, .footable .open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #376166;
+    border-color: #376166;
+}
+
+.st-ui-type-detail {
+    font-size: 14px  !important;
+    color: #212529 !important;
+}
+
+
+#st-injected-content > div > div > div > a,
+#st-injected-content > div > div > div > a > span.st-ui-type-heading{
+color: #255583 !important;
+}
+
+
+a.st-ui-result __swiftype_result, .st-ui-type-heading, .st-query-present a {
+    font-size: 16px  !important;
+
+}
+
+
+
+
+/*** Hide detail in  search type ahead suggestions */
+.xst-ui-type-detail{
+display: none;
+}
+</style>
+        
+        <!-- Add any CSS and JS needed for this Template  -->
+        <style>
+            /* Base Styles from Figma Specs */
+
+/* Base CSS file for new Sunset template for Tribal Treaties Database */
+/*
+Use this CSS to use the fonts in CSS classes:
+
+font-family: 'EB Garamond', serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+/* Base styles */
+
+html {
+	background: #5B3232;
+}
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0em;
+	text-align: left;
+	background: #fff;
+}
+
+a {
+	color: #43777e;
+	text-decoration: none;
+}
+
+
+a:hover,
+a:focus {
+	color: #376166;/*rgba(67, 119, 126, 5);*/
+	text-decoration: underline;
+}
+a:active{
+    color: #2d5054;
+}
+
+/* Headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'EB Garamond', serif;
+}
+
+
+
+h1,
+.h1 {
+	font-size: 32px
+}
+
+@media (min-width: 576px) {
+
+	h1,
+	.h1 {
+		font-size: calc(32px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h1,
+	.h1 {
+		font-size: 64px;
+	}
+}
+
+
+h2,
+.h2 {
+	font-size: 28px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h2,
+	.h2 {
+		font-size: calc(28px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h2,
+	.h2 {
+		font-size: 36px;
+	}
+}
+
+h3,
+.h3 {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h3,
+	.h3 {
+		font-size: calc(18px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h3,
+	.h3 {
+		font-size: 32px;
+	}
+}
+
+
+h4,
+.h4 {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h4,
+	.h4 {
+		font-size: calc(18px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h4,
+	.h4 {
+		font-size: 18px;
+	}
+}
+
+h5,
+.h5 {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+@media (min-width: 576px) {
+
+	h5,
+	.h5 {
+		font-size: calc(32px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	h5,
+	.h5 {
+		font-size: 16px;
+	}
+}
+
+/* Basic Text styles */
+p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.p1,
+.p2,
+.p4 {
+	text-transform: uppercase;
+}
+
+.p1,
+.p2 {
+	font-weight: 500;
+}
+
+.p1 {
+	font-size: 1.5rem;
+}
+
+.p1 {
+	font-size: 18px;
+
+}
+
+/* special case for homepage-hero */
+
+.hero-page-title .p1{
+    text-transform:capitalize;
+    font-size: 20px;
+    font-weight: medium;
+}
+
+.browse-by-section .p2{
+    text-transform:capitalize;
+}
+
+.browse-by-section a{
+    color: rgb(33, 37, 41);
+}
+
+.hero-text-bg{
+    xbackground: radial-gradient(circle at top left, #5B3232 0%, transparent 96%);
+    background: radial-gradient(ellipse 100% 90% at top left, #5B3232 0%, transparent 100%);
+}
+
+@media (min-width: 576px) {
+
+	.p1 {
+		font-size: 18px;
+		calc(12px + 1.375vw);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	.p1 {
+		font-size: 24px;
+	}
+}
+
+.p2 {
+	font-size: 1.25rem;
+}
+
+.p3 {
+	font-size: 1.125rem;
+}
+
+.p4 {
+	font-size: 1rem;
+}
+
+p.about{
+    font-size: 18px;
+}
+
+/* Buttons */
+.btn-sunset {
+	padding: 1.125rem 4rem;
+	border-radius: 0;
+	background: #43777e;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+}
+
+.btn-sunset:hover,
+.btn-sunset:focus {
+	background: #315E5E;
+	color: #fff;
+}
+
+.btn-sunset-dark {
+	xpadding: 1.125rem 4rem;
+	border-radius: 0;
+	border: 1px solid #43777E;
+	background: rgba(55, 97, 102, 0.14);
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	color: #43777E !important;
+}
+
+.btn-sunset-dark:hover,
+.btn-sunset-dark:focus {
+	background: rgba(55, 97, 102, 0.14);
+	xcolor: #fff;
+}
+
+.btn-sunset-light {
+	border-radius: 0;
+	border: 1px solid #43777E !important;
+	background: #fff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	color: #43777E !important;
+}
+
+.btn-sunset-light:hover,
+.btn-sunset-light:focus {
+	background: #43777E;
+	color: #fff !important;
+}
+
+
+
+
+/* Styling for Sections */
+
+/* dropdown main menu in navbar*/
+
+
+
+.dropdown-item.active, .dropdown-item:active{
+    background-color: #43777E;
+    }
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #212529;
+}
+    
+/* Navbar links */
+
+.navbar-brand{
+    font-size: 24px;
+    color: #212529 !important;
+}
+
+.nav-link{
+    font-weight: 600 !important;
+    color: #212529 !important;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    font-size: 18px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+
+.dropdown-item:focus, .dropdown-item:hover{
+    background-color: #D3D8DD;
+}
+    
+/* hero section */
+.sunset-bg {
+	background: url(https://treaties.okstate.edu/template-files/kapplers/images/bg/comm-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-family: 'EB Garamond', serif;
+}
+
+.sunset-bg a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* dark red section */
+.dark-red-bg {
+	background: #5b3232;
+	color: #fff;
+	font-family: 'EB Garamond', serif;
+}
+
+.dark-red-bg a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.dark-red-bg a:hover, .dark-red-bg a:focus {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+.partners-wrapper a {
+	font-size: 20px;
+}
+
+/* teal section */
+.teal-bg {
+	background: #43777e;
+	color: #fff;
+	font-family: 'EB Garamond', serif;
+}
+
+.teal-bg a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Breadcrumbs */
+.breadcrumb {
+	color: #fff;
+	margin-top: 1rem;
+}
+
+.breadcrumb li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.breadcrumb li a:hover,
+.breadcrumb li a:focus
+{
+
+	text-decoration: underline;
+}
+
+.breadcrumb li.active {
+	color: #fff;
+	font-style: italic;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #fff;
+}
+
+/* Navbar */
+.logo-text {
+	font-family: 'EB Garamond', serif;
+	xtext-transform: uppercase;
+	position: relative;
+}
+
+.navbar {
+	font-family: 'EB Garamond', serif;
+	xtext-transform: uppercase;
+}
+
+.logo-text {
+	font-weight: 600;
+}
+
+.logo-text small {
+	padding-left: .5rem;
+	font-size: .9rem;
+	position: absolute;
+	top: .2rem;
+	font-weight: 400;
+}
+
+
+
+/*footer section */
+
+footer {
+	background: #5B3232;
+	color: #fff;
+	padding: 2rem 0;
+	color: #FFF;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 2rem;
+}
+
+footer a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+footer a:hover, footer a:focus {
+	color: #ddd;
+	text-decoration: underline;
+}
+
+h2.footer-contact{
+    font-family: Ubuntu, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+     display: inline-block;
+    line-height: 1.6rem;
+    }
+
+/* adjust header height to match library logo image */
+@media (min-width: 992px) {
+    .footer-header-div{
+        min-height: 84px;
+    }
+    
+	.zfooter-contact {
+		max-height: 84px;
+	}
+}
+
+
+/********************************************/
+
+/*        Index pages CSS                   */
+
+/********************************************/
+
+.page-header {
+	padding-bottom: 9px;
+	margin: 40px 0 20px;
+	border-bottom: 1px solid #eee;
+}
+
+/* Index indentation CSS */
+p.index-level-1 {
+	text-indent: -1em;
+	margin-left: 1em;
+}
+
+p.index-level-2 {
+	text-indent: -1em;
+	margin-left: 3em;
+}
+
+p.index-level-3 {
+	text-indent: -1em;
+	margin-left: 6em;
+}
+
+/********************************************/
+
+/*        Treaty pages CSS                   */
+
+/********************************************/
+.btn-more-info {
+	line-height: 1.2rem;
+	border-radius: 0;
+	background: #43777e;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px;
+
+}
+
+.btn-more-info:hover,
+.btn-info:focus {
+	background: #315E5E;
+	color: #fff;
+}
+
+.more-info-title {
+	font-weight: 600;
+	margin-top: 1rem;
+	margin-bottom: .5rem;
+}
+
+.more-info-links {
+	margin-bottom: 1.86rem;
+}
+
+.more-info-links a,
+v.more-info-links a:hover,
+.more-info-links a:focus {
+	color: #43777E !important;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+/********************************************/
+
+/*        Treaty Data Grid CSS              */
+
+/********************************************/
+
+
+/*** Pagination Styling */
+.footable .pagination > .active > a, .footable .pagination > .active > span, .footable .pagination > .active > a:hover, .footable .pagination > .active > span:hover, .footable .pagination > .active > a:focus, .footable .pagination > .active > span:focus {
+    z-index: 2;
+    color: #fff;
+    cursor: default;
+    background-color: #43777E;
+    border-color: #43777E;
+}
+
+.footable .pagination > li > a, .footable .pagination > li > span, .footable .pagination > li > a:focus, .footable .pagination > li > span:focus {
+    color: #43777E;
+    background-color: #fff;
+    border-color: #ddd;
+}
+
+.footable .pagination > li > a:hover, .footable .pagination > li > span:hover, .footable .pagination > li > a:focus, .footable .pagination > li > span:focus {
+    color: #376166;
+    background-color: #eee;
+    border-color: #ddd;
+}
+
+
+/*** Search/filter Button Styling */
+.footable .btn-primary, .footable .btn-primary, .footable    .footable .open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #43777E;
+    border-color: #43777E;
+}
+.footable .btn-primary:hover, .footable .btn-primary:focus, .footable .btn-primary.focus, .footable .btn-primary:active, .footable .btn-primary.active, .footable .open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #376166;
+    border-color: #376166;
+}
+
+.st-ui-type-detail {
+    font-size: 14px  !important;
+    color: #212529 !important;
+}
+
+
+#st-injected-content > div > div > div > a,
+#st-injected-content > div > div > div > a > span.st-ui-type-heading{
+color: #255583 !important;
+}
+
+
+a.st-ui-result __swiftype_result, .st-ui-type-heading, .st-query-present a {
+    font-size: 16px  !important;
+
+}
+
+
+
+
+/*** Hide detail in  search type ahead suggestions */
+.xst-ui-type-detail{
+display: none;
+}
+        </style>
+
+        <!-- Add any CSS and JS needed for this Template  -->
+            <!-- Load CSS overwrites for sidenotes and tag highlighting -->
+            <style>/*!
+ * Tufte Bootstrap v0.0.1 (https://github.com/dylan-k/tufte-bootstrap)
+ * Licensed under MIT (https://github.com/dylan-k/tufte-bootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+/* Typography */
+
+h3{
+    margin-top: 30px;
+}
+
+/* Layout */
+
+/* left column */
+/* from bs .col-lg-7 .offset-lg-2 */
+
+section > p, section > div.table-responsive {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  -ms-flex: 0 0 70%;
+  flex: 0 0 70%;
+  max-width: 70%;
+}
+
+
+/* right column */
+/* from bs .col-lg-3 .float-right */
+aside {
+  xfont-size: smaller;
+  font-style: italic;
+  position: relative;
+  width: 100%;
+  padding-right: 5px;
+  padding-left: 5px;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
+  float: right !important;
+  color: #5B3232;
+}
+/*.marginnote {}
+.sidenote {}*/
+.sidenote::before {
+  vertical-align: super;                     /* make superscript */
+}
+
+
+/* mods to signature table */
+section > div.table-responsive>table.table>tbody>tr>td{
+border: 0;
+}
+
+section > div.table-responsive>table.table {
+margin-top: .5rem;
+}
+
+section > div.table-responsive>table.table>tbody>tr>td{
+padding:0px 8px;
+/*font-size: 12px;*/
+}
+
+</style>
+
+
+    </head>
+  <body data-swiftype-index='true'>
+
+	<!-- Put navbar and hero in header-->
+    <header data-swiftype-index='false' id="top" > 
+        <!-- Default navbar for sunset template -->
+<nav class="navbar navbar-expand-lg ms-auto">
+	<div class="container">
+		<div class="site-logo">
+			<a class="navbar-brand" href="https://treaties.okstate.edu/">
+				<span class="logo-text xd-none xd-lg-inline">Tribal Treaties Database</span>
+			</a>
+		</div>
+		<button class="navbar-toggler xme-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+			<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="treaties/treaty-with-the-cherokee-1835-0439#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+						Browse by
+					</a>
+					<ul class="dropdown-menu">
+						<li><a class="dropdown-item" href="treaties/">All Documents</a></li>
+						<li><a class="dropdown-item" href="treaties/?type=1">Treaties</a></li>
+						<li><a class="dropdown-item" href="treaties/?type=2">Agreements</a></li>
+						<li><a class="dropdown-item" href="treaties/?type=3">Other Documents</a></li>
+						<li><a class="dropdown-item" href="tribes/">Tribes</a></li>
+						<li><a class="dropdown-item" href="indexes/">Indexes</a></li>
+					</ul>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="about/faq">FAQ</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="about/">About</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="about/contact-us">Contact</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="about/disclaimer">Disclaimer</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav> 
+        <div class="sunset-bg ">
+    <div class="hero-text-bg">
+    	<!-- Sunset template breadcrumbs -->
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb" style="--bs-breadcrumb-divider: '>';" >
+                <ol class="breadcrumb"><li class="breadcrumb-item"><a href="">Home</a></li>
+<li class="breadcrumb-item"><a href="treaties/">Treaties</a></li>
+<li class="breadcrumb-item active">Treaty with the Cherokee, 1835</li></ol>
+            </nav>
+        </div>
+    </div>
+</div>
+    
+    	<div class="container pt-4 pb-5">
+    		<div class="row">
+    			<div class="col-12 hero-page-title">
+    				<h1>Treaty with the Cherokee, 1835</h1>
+    			</div>
+    		</div>
+    	</div>
+	</div>
+</div>
+<!--  Link toogles More Info dropdown -->
+<div class="hero-menu py-3 dark-red-bg">
+    <div class="container">
+        <div class="row col">
+            <div class="dropdown">
+                <a class="dropdown-toggle"  data-bs-toggle="collapse" href="treaties/treaty-with-the-cherokee-1835-0439#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                    LINKS AND MORE INFORMATION
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <!--  More Info dropdown Content -->
+<div class="collapse show" id="collapseExample">
+<div class="container">
+    <div class="card" style="border-radius: 0;">
+        <div class="card-body">
+        <div class="row ">
+            <div class="col-12 col-md-3 pt-3">
+                <!-- Button links to Kapper's and Archives -->
+                <div class="d-grid gap-3">
+                    <!-- link to scan from kapplers -->
+                    
+                    <a href="https://cdm17279.contentdm.oclc.org/digital/collection/kapplers/id/29547/rec/1" target="_blank" class="btn btn-sunset-light shadow-sm">DOCUMENT SCAN</a>
+                    <a href="https://catalog.archives.gov/id/183393855" target="_blank" class="btn btn-sunset-light shadow-sm">ALTERNATIVE SOURCE</a>  
+                </div>    
+            </div>
+            <div class="col-12 col-md-9">
+                <!-- Treaty MetaData links -->
+                <div class="" data-swiftype-index="true">
+                    <div class="more-info-links">
+                        
+                    </div>
+                    
+                    <div class="more-info-links">
+                        <p class="more-info-title">ORIGINAL SIGNATORIES</p><a href="tribes/original-signatories-tribes/cherokee">Cherokee</a>
+                    </div>
+                    
+                    <!-- display SUCCESSOR IN INTEREST (TRIBES)  
+                    <p class="more-info-title">SUCCESSOR IN INTEREST (TRIBES)</p><div class="more-info-links"><a href="tribes/successors-in-interest/under-review">Under review</a></div>
+                    -->
+                    
+                   
+                    
+                    <div class="more-info-links">
+                        <p class="more-info-title">KEY PROVISIONS</p><a href="tags/treaties-by-tag?tag=roads+and+highways&amp;key=treaty-tags" class="tl-tag">roads and highways</a>
+ | <a href="tags/treaties-by-tag?tag=provide+education+assistance&amp;key=treaty-tags" class="tl-tag">provide education assistance</a>
+ | <a href="tags/treaties-by-tag?tag=mail+routes+and+roads&amp;key=treaty-tags" class="tl-tag">mail routes and roads</a>
+ | <a href="tags/treaties-by-tag?tag=right+of+way&amp;key=treaty-tags" class="tl-tag">right of way</a>
+ | <a href="tags/treaties-by-tag?tag=ratified&amp;key=treaty-tags" class="tl-tag">ratified</a>
+
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    <!-- display Identifers -->
+                    <p class="more-info-title">IDENTIFIERS</p><div class="more-info-links" >RIT_199, NAI_183393855<div>
+                    
+                    
+                    
+                    <!-- display Notes -->
+                    
+                   
+                    <!-- display Long title -->
+                    
+                    
+                
+                </div>    
+            </div>
+        </div>
+    </div>
+    </div>
+    
+</div>
+
+</div>
+
+<style>
+    .dropdown-more-info{
+        border-radius: 0;
+        border-color: #000;
+    }
+</style>
+    </header>   
+  
+	<!-- Main page content in main-->
+	<main class="mb-5 pb-5" >
+    	<div class="container page-wrapper" >
+    		<!-- Page Header -->
+    		<div class="row" data-elastic-include  data-swiftype-index='false'>
+    			<div class="col-sm-12">
+    				<!-- Sunset Treaty page header -->
+<div class="row">
+    <div class="col-12  my-4" >
+        <!-- Treaty pagetitle -->
+        <h2 class="treaty-header text-uppercase visually-hidden" >Treaty with the Cherokee, 1835</h2>
+    </div>
+</div>
+    			</div>
+    		</div>
+    		
+    		<!-- Treaty Content -->
+    		<div class="row" >
+    			<!-- Treaty Text -->
+    			<div class="col-sm-11 col-sm-offset-1">
+    				<article>
+    					<section id="treaty-content" data-elastic-include data-swiftype-index='true'>
+    						<p>Dec. 29, 1835. | 7 Stat., 478. | Proclamation, May 23, 1836.</p>
+<p><em>Articles of a treaty, concluded at New Echota in the State of Georgia on the 29th day of Decr. 1835 by General William Carroll and John F. Schermerhorn commissioners on the part of the United States and the Chiefs Head Men and People of the Cherokee tribe of Indians. </em></p>
+<aside class="sidenote">
+<p>Preamble.</p>
+</aside>
+<p>WHEREAS the Cherokees are anxious to make some arrangements with the Government of the United States whereby the difficulties they have experienced by a residence within the settled parts of the United States under the jurisdiction and laws of the State Governments may be terminated and adjusted; and with a view to reuniting their people in one body and securing a permanent home for themselves and their posterity in the country selected by their forefathers without the territorial limits of the State sovereignties, and where they can establish and enjoy a government of their choice and perpetuate such a state of society as may be most consonant with their views, habits and condition; and as may tend to their individual comfort and their advancement in civilization.</p>
+<p>And whereas a delegation of the Cherokee nation composed of Messrs. John Ross Richard Taylor Danl. McCoy Samuel Gunter and William Rogers with full power and authority to conclude a treaty with the United States did on the 28th day of February 1835 stipulate and agree with the Government of the United States to submit to the Senate to fix the amount which should be allowed the Cherokees for their claims and for a cession of their lands east of the Mississippi river, and did agree to abide by the award of the Senate of the United States themselves and to recommend the same to their people for their final determination.</p>
+<p>And whereas on such submission the Senate advised "that a sum not exceeding five millions of dollars be paid to the Cherokee Indians for all their lands and possessions east of the Mississippi river."</p>
+<p>And whereas this delegation after said award of the Senate had been made, were called upon to submit propositions as to its disposition to be arranged in a treaty which they refused to do, but insisted that the same "should be referred to their nation and there in general council to deliberate and determine on the subject in order to ensure harmony and good feeling among themselves."</p>
+<p>And whereas a certain other delegation composed of John Ridge Elias Boudinot Archilla Smith S. W. Bell John West Wm. A. Davis and Ezekiel West, who represented that portion of the nation in favor of emigration to the Cherokee country west of the Mississippi entered into propositions for a treaty with John F. Schermerhorn commissioner on the part of the United States which were to be submitted to their nation for their final action and determination:</p>
+<p>And whereas the Cherokee people at their last October council at Red Clay, fully authorized and empowered a delegation or committee of twenty persons of their nation to enter into and conclude a treaty with the United States commissioner then present,<em> at that place or elsewhere</em> and as the people had good reason to believe that a treaty would then and there be made or at a subsequent council at New Echota which the commissioners it was well known and understood, were authorized and instructed to convene for said purpose; and since the said delegation have gone on to Washington city, with a view to close negotiations there, as stated by them notwithstanding they were officially informed by the United States commissioner that they would not be received by the President of the United States; and that the Government would transact no business of this nature with them, and that if a treaty was made it must be done here in the nation, where the delegation at Washington last winter <em>urged that it should be done for the purpose of promoting peace and harmony among the people;</em> and since these facts have also been corroborated to us by a communication recently received by the commissioner from the Government of the United States and read and explained to the people in open council and therefore believing said delegation can effect nothing and since our difficulties are daily increasing and our situation is rendered more and more precarious uncertain and insecure in consequence of the legislation of the States; and seeing no effectual way of relief, but in accepting the liberal overtures of the United States.</p>
+<p>And whereas Genl William Carroll and John F. Schermerhorn were appointed commissioners on the part of the United States, with full power and authority to conclude a treaty with the Cherokees east and were directed by the President to convene the people of the nation in general council at New Echota and to submit said propositions to them with power and authority to vary the same so as to meet the views of the Cherokees in reference to its details.</p>
+<p>And whereas the said commissioners did appoint and notify a general council of the nation to convene at New Echota on the 21st day of December 1835; and informed them that the commissioners would be prepared to make a treaty with the Cherokee people who should assemble there and those who did not come they should conclude gave their assent and sanction to whatever should be transacted at this council and the people having met in council according to said notice.</p>
+<p>Therefore the following articles of a treaty are agreed upon and concluded between William Carroll and John F. Schermerhorn commissioners on the part of the United States and the chiefs and head men and people of the Cherokee nation in general council assembled this 29th day of Decr 1835.</p>
+<h3>ARTICLE 1.</h3>
+<aside class="sidenote">
+<p>Cherokees relinquish to United States all their lands east of the Mississippi.</p>
+</aside>
+<p>The Cherokee nation hereby cede relinquish and convey to the United States all the lands owned claimed or possessed by them east of the Mississippi river, and hereby release all their claims upon the United States for spoliations of every kind for and in consideration of the sum of five millions of dollars to be expended paid and invested in the manner stipulated and agreed upon in the following articles But as a question has arisen between the commissioners and the Cherokees whether the Senate in their resolution by which they advised " that a sum not exceeding five millions of dollars be paid to the Cherokee Indians for all their lands and possessions east of the Mississippi river " have included and made any allowance or consideration for claims for spoliations it is therefore agreed on the part of the United States that this question shall be again submitted to the Senate for their consideration and decision and if no allowance was made for spoliations that then an additional sum of three hundred thousand dollars be allowed for the same.</p>
+<h3>ARTICLE 2.</h3>
+<aside class="sidenote">
+<p>Treaty of May, 1828, and Feb., 1833, referred to.</p>
+</aside>
+<p>Whereas by the treaty of May 6th 1828 and the supplementary treaty thereto of Feb. 14th 1833 with the Cherokees west of the Mississippi the United States guarantied and secured to be conveyed by patent, to the Cherokee nation of Indians the following tract of country " Beginning at a point on the old western territorial line of Arkansas Territory being twenty-five miles north from the point where the territorial line crosses Arkansas river, thence running from said north point south on the said territorial line where the said territorial line crosses Verdigris river; thence down said Verdigris river to the Arkansas river; thence down said Arkansas to a point where a stone is placed opposite the east or lower bank of Grand river at its junction with the Arkansas; thence running south forty-four degrees west one mile; thence in a straight line to a point four miles northerly, from the mouth of the north fork of the Canadian; thence along the said four mile line to the Canadian; thence down the Canadian to the Arkansas; thence down the Arkansas to that point on the Arkansas where the eastern Choctaw boundary strikes said river and running thence with the western line of Arkansas Territory as now defined, to the southwest corner of Missouri; thence along the western Missouri line to the land assigned the Senecas; thence on the south line of the Senecas to Grand river; thence up said Grand river as far as the south line of the Osage reservation, extended if necessary; thence up and between said south Osage line extended west if necessary, and a line drawn due west from the point of beginning to a certain distance west, at which a line running north and south from said Osage line to said due west line will make seven millions of acres within the whole described boundaries. In addition to the seven millions of acres of land thus provided for and bounded, the United States further guaranty to the Cherokee nation a perpetual outlet west, and a free and unmolested use of all the country west of the western boundary of said seven millions of acres, as far west as the sovereignty of the United States and their right of soil extend:</p>
+<aside class="sidenote">
+<p>Proviso.</p>
+</aside>
+<p><em>Provided however</em> That if the saline or salt plain on the western prairie shall fall within said limits prescribed for said outlet, the right is reserved to the United States to permit other tribes of red men to get salt on said plain in common with the Cherokees; And letters patent shall be issued by the United States as soon as practicable for the land hereby guarantied."</p>
+<aside class="sidenote">
+<p>Additional land conveyed to the nation, etc.</p>
+</aside>
+<p>And whereas it is apprehended by the Cherokees that in the above cession there is not contained a sufficient quantity of land for the accommodation of the whole nation on their removal west of the Mississippi the United States in consideration of the sum of five hundred thousand dollars therefore hereby covenant and agree to convey to the said Indians, and their descendants by patent, in fee simple the following additional tract of land situated between the west line of the State of Missouri and the Osage reservation beginning at the southeast corner of the same and runs north along the east line of the Osage lands fifty miles to the northeast corner thereof; and thence east to the west line of the State of Missouri; thence with said line south fifty miles; thence west to the place of beginning; estimated to contain eight hundred thousand acres of land; but it is expressly understood that if any of the lands assigned the Quapaws shall fall within the aforesaid bounds the same shall be reserved and excepted out of the lands above granted and a pro rata reduction shall be made in the price to be allowed to the United States for the same by the Cherokees.</p>
+<h3>ARTICLE 3.</h3>
+<aside class="sidenote">
+<p>Further agreement.</p>
+<p>1830, ch. 148.</p>
+<p>Right to establish forts, etc.</p>
+</aside>
+<p>The United States also agree that the lands above ceded by the treaty of Feb. 14 1833, including the outlet, and those ceded by this treaty shall all be included in one patent executed to the Cherokee nation of Indians by the President of the United States according to the provisions of the act of May 28 1830. It is, however, agreed that the military reservation at Fort Gibson shall be held by the United States. But should the United States abandon said post and have no further use for the same it shall revert to the Cherokee nation. <span id="right-of-way"><span id="mail-routes-and-roads"><span id="roads-and-highways">The United States shall always have the right to make and establish such post and military roads</span></span></span> and forts in any part of the Cherokee country, as they may deem proper for the interest and protection of the same and the free use of as much land, timber, fuel and materials of all kinds for the construction and support of the same as may be necessary; provided that if the private rights of individuals are interfered with, a just compensation therefor shall be made.</p>
+<h3>ARTICLE 4.</h3>
+<aside class="sidenote">
+<p>Osage titles to reservations to be extinguished.</p>
+</aside>
+<p>The United States also stipulate and agree to extinguish for the benefit of the Cherokees the titles to the reservations within their country made in the Osage treaty of 1825 to certain half-breeds and for this purpose they hereby agree to pay to the persons to whom the same belong or have been assigned or to their agents or guardians whenever they shall execute after the ratification of this treaty a satisfactory conveyance for the same, to the United States, the sum of fifteen thousand dollars according to a schedule accompanying this treaty of the relative value of the several reservations.</p>
+<aside class="sidenote">
+<p>Missionary reservations to be paid for.</p>
+</aside>
+<p>And whereas by the several treaties between the United States and the Osage Indians the Union and Harmony Missionary reservations which were established for their benefit are now situated within the country ceded by them to the United States; the former being situated in the Cherokee country and the latter in the State of Missouri. It is therefore agreed that the United States shall pay the American Board of Commissioners for Foreign Missions for the improvements on the same what they shall be appraised at by Capt. Geo. Vashon Cherokee sub-agent Abraham Redfield and A. P. Chouteau or such persons as the President of the United States shall appoint and the money allowed for the same shall be expended in schools among the Osages and improving their condition. It is understood that the United States are to pay the amount allowed for the reservations in this article and not the Cherokees.</p>
+<h3>ARTICLE 5.</h3>
+<aside class="sidenote">
+<p>Lands permanently ceded to the nation.</p>
+</aside>
+<p>The United States hereby covenant and agree that the lands ceded to the Cherokee nation in the forgoing article shall, in no future time without their consent, be included within the territorial limits or jurisdiction of any State or Territory. But they shall secure to the Cherokee nation the right by their national councils to make and carry into effect all such laws as they may deem necessary for the government and protection of the persons and property within their own country belonging to their people or such persons as have connected themselves with them: provided always that they shall not be inconsistent with the constitution of the United States and such acts of Congress as have been or may be passed regulating trade and intercourse with the Indians; and also, that they stall not be considered as extending to such citizens and army of the United States as may travel or reside in the Indian country by permission according to the laws and regulations established by the Government of the same.</p>
+<h3>ARTICLE 6.</h3>
+<aside class="sidenote">
+<p>Peace to be preserved.</p>
+</aside>
+<p>Perpetual peace and friendship shall exist between the citizens of the United States and the Cherokee Indians. The United States agree to protect the Cherokee nation from domestic strife and foreign enemies and against intestine wars between the several tribes. The Cherokees shall endeavor to preserve and maintain the peace of the country and not make war upon their neighbors they shall also be protected against interruption and intrusion from citizens of the United States, who may attempt to settle in the country without their consent; and all such persons shall be removed from the same by order of the President of the United States. But this is not intended to prevent the residence among them of useful farmers mechanics and teachers for the instruction of Indians according to treaty stipulations.</p>
+<h3>ARTICLE 7.</h3>
+<aside class="sidenote">
+<p>Congress may allow a delegate from the Cherokee nation.</p>
+</aside>
+<p>The Cherokee nation having already made great progress in civilization and deeming it important that every proper and laudable inducement should be offered to their people to improve their condition as well as to guard and secure in the most effectual manner the rights guarantied to them in this treaty, and with a view to illustrate the liberal and enlarged policy of the Government of the United States towards The Indians in their removal beyond the territorial limits of the States, it is stipulated that they shall be entitled to a delegate in the House of Representatives of the United States whenever Congress shall make provision for the same.</p>
+<h3>ARTICLE 8.</h3>
+<aside class="sidenote">
+<p>Expense of removal to be paid by United States.</p>
+</aside>
+<p>The United States also agree and stipulate to remove the Cherokees to their new homes and to subsist them one year after their arrival there and that a sufficient number of steamboats and baggage-wagons shall be furnished to remove them comfortably, and so as not to endanger their health, and that a physician well supplied with medicines shall accompany each detachment of emigrants removed by the Government. Such persons and families as in the opinion of the emigrating agent are capable of subsisting and removing themselves shall be permitted to do so; and they shall be allowed in full for all claims for the same twenty dollars for each member of their family; and in lieu of their one year's rations they shall be paid the sum of thirty-three dollars and thirty-three cents if they prefer it.</p>
+<p>Such Cherokees also as reside at present out of the nation and shall remove with them in two years west of the Mississippi shall be entitled to allowance for removal and subsistence as above provided.</p>
+<h3>ARTICLE 9.</h3>
+<aside class="sidenote">
+<p>Agents to value improvements made by the Cherokee.</p>
+</aside>
+<p>The United States agree to appoint suitable agents who shall make a just and fair valuation of all such improvements now in the possession of the Cherokees as add any value to the lands; and also of the ferries owned by them, according to their net income; and such improvements and ferries from which they have been dispossessed in a lawless manner or under any existing laws of the State where the same may be situated.</p>
+<p>The just debts of the Indians shall be paid out of any monies due them for their improvements and claims; and they shall also be furnished at the discretion of the President of the United States with a sufficient sum to enable them to obtain the necessary means to remove themselves to their new homes, and the balance of their dues shall be paid them at the Cherokee agency west of the Mississippi. The missionary establishments shall also be valued and appraised in a like manner and the amount of them paid over by the United States to the treasurers of the respective missionary societies by whom they have been established and improved in order to enable them to erect such buildings and make such improvements among the Cherokees west of the Mississippi as they may deem necessary for their benefit. Such teachers at present among the Cherokees as this council shall select and designate shall be removed west of the Mississippi with the Cherokee nation and on the same terms allowed to them.</p>
+<h3>ARTICLE 10.</h3>
+<aside class="sidenote">
+<p>The President to make investments in productive stock.</p>
+</aside>
+<p>The President of the United States shall invest in some safe and most productive public stocks of the country for the benefit of the whole Cherokee nation who have removed or shall remove to the lands assigned by this treaty to the Cherokee nation west of the Mississippi the following sums as a permanent fund for the purposes hereinafter specified and pay over the net income of the same annually to such person or persons as shall be authorized or appointed by the Cherokee nation to receive the same and their receipt shall be a full discharge for the amount paid to them viz: the sum of two hundred thousand dollars in addition to the present annuities of the nation to constitute a general fund the interest of which shall be applied annually by the council of the nation to such purposes as they may deem best for the general interest of their people. The sum of fifty thousand dollars to constitute an orphans' fund the annual income of which shall be expended towards the support and education of such orphan children as are destitute of the means of subsistence. <span id="provide-education-assistance">The sum of one hundred and fifty thousand dollars in addition to the present school fund of the nation shall constitute a permanent school fund, the interest of which shall be applied annually by the council of the nation for the support of common schools and such a literary institution of a higher order</span> as may be established in the Indian country. And in order to secure as far as possible the true and beneficial application of the orphans' and school fund the council of the Cherokee nation when required by the President of the United States shall make a report of the application of those funds and he shall at all times have the right if the funds have been misapplied to correct any abuses of them and direct the manner of their application for the purposes for which they were intended. The council of the nation may by giving two years' notice of their intention withdraw their funds by and with the consent of the President and Senate of the United States, and invest them in such manner as they may deem most proper for their interest. The United States also agree and stipulate to pay the just debts and claims against the Cherokee nation held by the citizens of the same and also the just claims of citizens of the United States for services rendered to the nation and the sum of sixty thousand dollars is appropriated for this purpose but no claims against individual persons of the nation shall be allowed and paid by the nation. The sum of three hundred thousand dollars is hereby set apart to pay and liquidate the just claims of the Cherokees upon the United States for spoliations of every kind, that have not been already satisfied under former treaties.</p>
+<h3>ARTICLE 11.</h3>
+<aside class="sidenote">
+<p>Commutation of school fund.</p>
+</aside>
+<p>The Cherokee nation of Indians believing it will be for the interest of their people to have all their funds and annuities under their own direction and future disposition hereby agree to commute their permanent annuity of ten thousand dollars for the sum of two hundred and fourteen thousand dollars, the same to be invested by the President of the United States as a part of the general fund of the nation; and <span id="provide-education-assistance">their present school fund amounting to about fifty thousand dollars shall constitute a part of the permanent school fund of the nation.</span></p>
+<h3>ARTICLE 12.</h3>
+<aside class="sidenote">
+<p>Provision respecting Cherokees averse to removal.</p>
+</aside>
+<p>Those individuals and families of the Cherokee nation that are averse to a removal to the Cherokee country west of the Mississippi and are desirous to become citizens of the States where they reside and such as are qualified to take care of themselves and their property shall be entitled to receive their due portion of all the personal benefits accruing under this treaty for their claims, improvements and <em>per capita</em>; as soon as an appropriation is made for this treaty.</p>
+<p>Such heads of Cherokee families as are desirous to reside within the States of No. Carolina Tennessee and Alabama subject to the laws of the same; and who are qualified or calculated to become useful citizens shall be entitled, on the certificate of the commissioners to a preemption right to one hundred and sixty acres of land or one quarter section at the minimum Congress price; so as to include the present buildings or improvements of those who now reside there and such as do not live there at present shall be permitted to locate within two years any lands not already occupied by persons entitled to pre-emption privilege under this treaty and if two or more families live on the same quarter section and they desire to continue their residence in these States and are qualified as above specified they shall, on receiving their pre-emption certificate be entitled to the right of pre-emption to such lands as they may select not already taken by any person entitled to them under this treaty.</p>
+<p>It is stipulated and agreed between the United States and the Cherokee people that John Ross James Starr George Hicks John Gunter George Chambers John Ridge Elias Boudinot George Sanders John Martin William Rogers Roman Nose Situwake and John Timpson shall be a committee on the part of the Cherokees to recommend such persons for the privilege of pre-emption rights as may be deemed entitled to the same under the above articles and to select the missionaries who shall be removed with the nation; and that they be hereby fully empowered and authorized to transact all business on the part of the Indians which may arise in carrying into effect the provisions of this treaty and settling the same with the United States. If any of the persons above mentioned should decline acting or be removed by death; the vacancies shall be filled by the committee themselves.</p>
+<p>It is also understood and agreed that the sum of one hundred thousand dollars shall be expended by the commissioners in such manner as the committee deem best for the benefit of the poorer class of Cherokees as shall remove west or have removed west and are entitled to the benefits of this treaty. The same to be delivered at the Cherokee agency west as soon after the removal of the nation as possible.</p>
+<h3>ARTICLE 13.</h3>
+<aside class="sidenote">
+<p>Settlement of claims for former reservations.</p>
+</aside>
+<p>In order to make a final settlement of all the claims of the Cherokees for reservations granted under former treaties to any individuals belonging to the nation by the United States it is therefore hereby stipulated and agreed and expressly understood by the parties to this treaty--that all the Cherokees and their heirs and descendants to whom any reservations have been made under any former treaties with the United States, and who have not sold or conveyed the same by deed or otherwise and who in the opinion of the commissioners have complied with the terms on which the reservations were granted as far as practicable in the several cases; and which reservations have since been sold by the United States shall constitute a just claim against the United States and the original reservee or their heirs or descendants shall be entitled to receive the present value thereof from the United States as unimproved lands. And all such reservations as have not been sold by the United States and where the terms on which the reservations were made in the opinion of the commissioners have been complied with as far as practicable, they or their heirs or descendants shall be entitled to the same. They are hereby granted and confirmed to them--and also all persons who were entitled to reservations under the treaty of 1817 and who as far as practicable in the opinion of the commissioners, have complied with the stipulations of said treaty, although by the treaty of 1819 such reservations were included in the unceded lands belonging to the Cherokee nation are hereby confirmed to them and they shall be entitled to receive a grant for the same. And all such reservees as were obliged by the laws of the States in which their reservations were situated, to abandon the same or purchase them from the States shall be deemed to have a just claim against the United States for the amount by them paid to the States with interest thereon for such reservations and if obliged to abandon the same, to the present value of such reservations as unimproved lands but in all cases where the reservees have sold their reservations or any part thereof and conveyed the same by deed or otherwise and have been paid for the same, they their heirs or descendants or their assigns shall not be considered as having any claims upon the United States under this article of the treaty nor be entitled to receive any compensation for the lands thus disposed of. It is expressly understood by the parties to this treaty that the amount to be allowed for reservations under this article shall not be deducted out of the consideration money allowed to the Cherokees for their claims for spoilations and the cession of their lands; but the same is to be paid for independently by the United States as it is only a just fulfillment of former treaty stipulations.</p>
+<h3>ARTICLE 14.</h3>
+<aside class="sidenote">
+<p>Pensions to certain warriors.</p>
+</aside>
+<p>It is also agreed on the part of the United States that such warriors of the Cherokee nation as were engaged on the side of the United States in the late war with Great Britain and the southern tribes of Indians, and who were wounded in such service shall be entitled to such pensions as shall be allowed them by the Congress of the United States to commence from the period of their disability.</p>
+<h3>ARTICLE 15.</h3>
+<aside class="sidenote">
+<p>Funds to be divided among the Indians.</p>
+</aside>
+<p>It is expressly understood and agreed between the parties to this treaty that after deducting the amount which shall be actually expended for the payment for improvements, ferries, claims, for spoliations, removal subsistence and debts and claims upon the Cherokee nation and for the additional quantity of lands and goods for the poorer class of Cherokees and the several sums to be invested for the general national funds; provided for in the several articles of this treaty the balance whatever the same may be shall be equally divided between all the people belonging to the Cherokee nation east according to the census just completed; and such Cherokees as have removed west since June 1833 who are entitled by the terms of their enrollment and removal to all the benefits resulting from the final treaty between the United States and the Cherokees east they shall also be paid for their improvements according to their approved value before their removal where fraud has not already been shown in their valuation.</p>
+<h3>ARTICLE 16.</h3>
+<aside class="sidenote">
+<p>Indians to remove in two years.</p>
+</aside>
+<p>It is hereby stipulated and agreed by the Cherokees that they shall remove to their new homes within two years from the ratification of this treaty and that during such time the United States shall protect and defend them in their possessions and property and free use and occupation of the same and such persons as have been dispossessed of their improvements and houses; and for which no grant has actually issued previously to the enactment of the law of the State of Georgia, of December 1835 to regulate Indian occupancy shall be again put in possession and placed in the same situation and condition, in reference to the laws of the State of Georgia, as the Indians that have not been dispossessed; and if this is not done, and the people are left unprotected, then the United States shall pay the several Cherokees for their losses and damages sustained by them in consequence thereof. And it is also stipulated and agreed that the public buildings and improvements on which they are situated at New Echota for which no grant has been actually made previous to the passage of the above recited act if not occupied by the Cherokee people shall be reserved for the public and free use of the United States and the Cherokee Indians for the purpose of settling and closing all the Indian business arising under this treaty between the commissioners of claims and the Indians.</p>
+<p>The United States, and the several States interested in the Cherokee lands, shall immediately proceed to survey the lands ceded by this treaty; but it is expressly agreed and understood between the parties that the agency buildings and that tract of land surveyed and laid off for the use of Colonel R. J. Meigs Indian agent or heretofore enjoyed and occupied by his successors in office shall continue subject to the use and occupancy of the United States, or such agent as may be engaged specially superintending the removal of the tribe.</p>
+<h3>ARTICLE 17.</h3>
+<aside class="sidenote">
+<p>Commissioners to settle claims.</p>
+</aside>
+<p>All the claims arising under or provided for in the several articles of this treaty, shall be examined and adjudicated by such commissioners as shall be appointed by the President of the United States by and with the advice and consent of the Senate of the United States for that purpose and their decision shall be final and on their certificate of the amount due the several claimants they shall be paid by the United States. All stipulations in former treaties which have not been superseded or annulled by this shall continue in full force and virtue.</p>
+<h3>ARTICLE 18.</h3>
+<aside class="sidenote">
+<p>United States to make advances for provisions, clothing, etc.</p>
+</aside>
+<p>Whereas in consequence of the unsettled affairs of the Cherokee people and the early frosts, their crops are insufficient to support their families and great distress is likely to ensue and whereas the nation will not, until after their removal be able advantageously to expend the income of the permanent funds of the nation it is therefore agreed that the annuities of the nation which may accrue under this treaty for two years, the time fixed for their removal shall be expended in provision and clothing for the benefit of the poorer class of the nation and the United States hereby agree to advance the same for that purpose as soon after the ratification of this treaty as an appropriation for the same shall be made. It is however not intended in this article to interfere with that part of the annuities due the Cherokees west by the treaty of 1819.</p>
+<h3>ARTICLE 19.</h3>
+<aside class="sidenote">
+<p>Treaty binding when ratified.</p>
+</aside>
+<p>This treaty after the same shall be ratified by the President and Senate of the United States shall be obligatory on the contracting parties.</p>
+<h3>ARTICLE 20.</h3>
+<p>[Supplemental article. Stricken out by Senate.]</p>
+<p>In testimony whereof, the commissioners and the chiefs, head men, and people whose names are hereunto annexed, being duly authorized by the people in general council assembled, have affixed their hands and seals for themselves, and in behalf of the Cherokee nation.</p>
+<p>I have examined the foregoing treaty, and although not present when it was made, I approve its provisions generally, and therefore sign it.</p>
+<p>Wm. Carroll,</p>
+<p>J. F. Schermerhorn.</p>
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td class="col-sm-6">Major Ridge, his x mark, [L. S.]</td>
+<td class="col-sm-6">Te-gah-e-ske, his x mark, [L. S.]</td>
+</tr>
+<tr>
+<td>James Foster, his x mark, [L. S.]</td>
+<td>Robert Rogers, [L. S.]</td>
+</tr>
+<tr>
+<td>Tesa-ta-esky, his x mark, [L. S.]</td>
+<td>John Gunter, [L. S.]</td>
+</tr>
+<tr>
+<td>Charles Moore, his x mark, [L. S.]</td>
+<td>John A. Bell, [L. S.]</td>
+</tr>
+<tr>
+<td>George Chambers, his x mark, [L. S.]</td>
+<td>Charles F. Foreman, [L. S.]</td>
+</tr>
+<tr>
+<td>Tah-yeske, his x mark, [L. S.]</td>
+<td>William Rogers, [L. S.]</td>
+</tr>
+<tr>
+<td>Archilla Smith, his x mark, [L. S.]</td>
+<td>George W. Adair, [L. S.]</td>
+</tr>
+<tr>
+<td>Andrew Ross, [L. S.]</td>
+<td>Elias Boudinot, [L. S.]</td>
+</tr>
+<tr>
+<td>William Lassley, [L. S.]</td>
+<td>James Starr, his x mark, [L. S.]</td>
+</tr>
+<tr>
+<td>Cae-te-hee, his x mark , [L. S.]</td>
+<td>Jesse Half-breed, his x mark, [L. S.]</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Signed and sealed in presence of--</strong></p>
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td class="col-sm-6">Western B. Thomas, secretary.</td>
+<td class="col-sm-6">C. M Hitchcock, M. D., assistant surgeon, U.S.A.</td>
+</tr>
+<tr>
+<td>Ben. F. Currey, special agent.</td>
+<td>G. W. Currey,</td>
+</tr>
+<tr>
+<td>M. Wolfe Batman, first lieutenant, sixth U. S. infantry, disbursing agent.</td>
+<td>Wm. H. Underwood,</td>
+</tr>
+<tr>
+<td>Jon. L. Hooper, lieutenant, fourth Infantry.</td>
+<td>Cornelius D. Terhune,</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>John W. H. Underwood.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>In compliance with instructions of the council at New Echota, we sign this treaty.</strong></p>
+<p>Stand Watie,</p>
+<p>John Ridge.</p>
+<p><em>March 1, 1836. </em></p>
+<p><strong>Witnesses:</strong></p>
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td class="col-sm-6">Elbert Herring,</td>
+<td class="col-sm-6">Wm.Y. Hansell,</td>
+</tr>
+<tr>
+<td>Alexander H. Everett,</td>
+<td>Samuel J. Potts,</td>
+</tr>
+<tr>
+<td>John Robb,</td>
+<td>Jno. Litle,</td>
+</tr>
+<tr>
+<td>D. Kurtz,</td>
+<td>S. Rockwell.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr />
+<p>Dec 31, 1835. | 7 Stat., 487.<em><br /></em></p>
+<p>Whereas the western Cherokees have appointed a delegation to visit the eastern Cherokees to assure them of the friendly disposition of their people and their desire that the nation should again be united as one people and to urge upon them the expediency of accepting the overtures of the Government; and that, on their removal they may be assured of a hearty welcome and an equal participation with them in all the benefits and privileges of the Cherokee country west and the undersigned two of said delegation being the only delegates in the eastern nation from the west at the signing and sealing of the treaty lately concluded at New Echota between their eastern brethren and the United States; and having fully understood the provisions of the same they agree to it in behalf of the western Cherokees. But it is expressly understood that nothing in this treaty shall affect any claims of the western Cherokees on the United States.</p>
+<p>In testimony whereof, we have, this 31st day of December, 1835, hereunto set our hands and seals.</p>
+<p>James Rogers,</p>
+<p>John Smith.</p>
+<p>Delegates from the western Cherokees.</p>
+<p><strong>Test:</strong></p>
+<p>Ben. F. Currey, special agent.</p>
+<p>M. W. Batman, first lieutenant, Sixth Infantry,</p>
+<p>Jno. L. Hooper, lieutenant, Fourth Infantry,</p>
+<p>Elias Boudinot.</p>
+<hr />
+<p><em> Schedule and estimated value of the Osage half-breed reservations within the territory ceded to the Cherokees west of the Mississippi, (referred to in article 5 on the foregoing treaty,) viz: </em></p>
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td class="col-sm-6">Augustus Clamont one section</td>
+<td class="col-sm-6">$6,000</td>
+</tr>
+<tr>
+<td>James Clamont one section</td>
+<td>1,000</td>
+</tr>
+<tr>
+<td>Paul Clamont one section</td>
+<td>1,300</td>
+</tr>
+<tr>
+<td>Henry Clamont one section</td>
+<td>800</td>
+</tr>
+<tr>
+<td>Anthony Clamont one section</td>
+<td>1,800</td>
+</tr>
+<tr>
+<td>Rosalie Clamont one section</td>
+<td>1,800</td>
+</tr>
+<tr>
+<td>Emilia D, of Mihanga</td>
+<td>1,000</td>
+</tr>
+<tr>
+<td>Emilia D, of Shemianga</td>
+<td><span style="text-decoration: underline;">1,300</span></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>$15,000</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>I hereby certify that the above schedule is the estimated value of the Osage reservations, as made out and agreed upon with Col. A. P. Choteau who represented himself as the agent or guardian of the above reservees.</p>
+<p>J. F. Schermerhorn.</p>
+<p>March 14, 1835.</p>
+<hr />
+<p><em><strong>Supplementary articles to a treaty concluded at New Echota, Georgia, December 29, 1835, between the United States and Cherokee people.</strong></em></p>
+<p>March 1, 1836. | 7 Stat., 488. | Proclamation, May 23, 1836.</p>
+<p>WHEREAS the undersigned were authorized at the general meeting of the Cherokee people held at New Echota as above stated, to make and assent to such alterations in the preceding treaty as might be thought necessary, and whereas the President of the United States has expressed his determination not to allow any pre-emptions or reservations his desire being that the whole Cherokee people should remove together and establish themselves in the country provided for them west of the Mississippi river.</p>
+<h3>ARTICLE 1.</h3>
+<aside class="sidenote">
+<p>Preemption rights declared void.</p>
+</aside>
+<p>It is therefore agreed that all the pre-emption rights and reservations provided for in articles 12 and 13 shall be and are hereby relinquished and declared void.</p>
+<h3>ARTICLE 2.</h3>
+<p>Whereas the Cherokee people have supposed that the sum of five millions of dollars fixed by the Senate in their resolution of----day of March, 1835, as the value of the Cherokee lands and possessions east of the Mississippi river was not intended to include the amount which may be required to remove them, nor the value of certain claims which many of their people had against citizens of the United States, which suggestion has been confirmed by the opinion expressed to the War Department by some of the Senators who voted upon the question and whereas the President is willing that this subject should be referred to the Senate for their consideration and if it was not intended by the Senate that the above-mentioned sum of five millions of dollars should include the objects herein specified that in that case such further provision should be made therefor as might appear to the Senate to be just.</p>
+<h3>ARTICLE 3.</h3>
+<aside class="sidenote">
+<p>Allowance in lieu of preemptions, etc.</p>
+</aside>
+<p>It is therefore agreed that the sum of six hundred thousand dollars shall be and the same is hereby allowed to the Cherokee people to include the expense of their removal, and all claims of every nature and description against the Government of the United States not herein otherwise expressly provided for, and to be in lieu of the said reservations and pre-emptions and of the sum of three hundred thousand dollars for spoliations described in the 1st article of the above-mentioned treaty. This sum of six hundred thousand dollars shall be applied and distributed agreeably to the provisions of the said treaty, and any surplus which may remain after removal and payment of the claims so ascertained shall be turned over and belong to the education fund.</p>
+<p>But it is expressly understood that the subject of this article is merely referred hereby to the consideration of the Senate and if they shall approve the same then this supplement shall remain part of the treaty.</p>
+<h3>ARTICLE 4.</h3>
+<aside class="sidenote">
+<p>Provisions for agency reservations not to interfere, etc.</p>
+</aside>
+<p>It is also understood that the provisions in article 16, for the agency reservation is not intended to interfere with the occupant right of any Cherokees should their improvement fall within the same.</p>
+<p>It is also understood and agreed, that the one hundred thousand dollars appropriated in article 12 for the poorer class of Cherokees and intended as a set-off to the pre-emption rights shall now be transferred from the funds of the nation and added to the general national fund of four hundred thousand dollars so as to make said fund equal to five hundred thousand dollars.</p>
+<h3>ARTICLE 5.</h3>
+<aside class="sidenote">
+<p>Expense of negotiations to be defrayed by the United States.</p>
+</aside>
+<p>The necessary expenses attending the negotiations of the aforesaid treaty and supplement and also of such persons of the delegation as may sign the same shall be defrayed by the United States.</p>
+<p>In testimony whereof, John F. Schermerhorn, commissioner on the part of the United States, and the undersigned delegation have hereunto set their hands and seals, this first day of March, in the year one thousand eight hundred and thirty-six.</p>
+<p>J. F. Schermerhorn.</p>
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td class="col-sm-6">Major Ridge, his x mark, [L. S.]</td>
+<td class="col-sm-6">John A. Bell, [L. S.]</td>
+</tr>
+<tr>
+<td>James Foster, his x mark, [L. S.]</td>
+<td>Jos. A. Foreman,</td>
+</tr>
+<tr>
+<td>Tah-ye-ske, his x mark, [L. S.]</td>
+<td>Robert Sanders, [L. S.]</td>
+</tr>
+<tr>
+<td>Long Shell Turtle, his x mark, [L. S.]</td>
+<td>Elias Boudinot, [L. S.]</td>
+</tr>
+<tr>
+<td>John Fields, his x mark, [L. S.]</td>
+<td>Johnson Rogers, [L. S.]</td>
+</tr>
+<tr>
+<td>James Fields, his x mark, [L. S.]</td>
+<td>James Starr, his x mark, [L. S.]</td>
+</tr>
+<tr>
+<td>George Welch, his x mark, [L. S.]</td>
+<td>Stand Watie, [L. S.]</td>
+</tr>
+<tr>
+<td>Andrew Ross, [L. S.]</td>
+<td>John Ridge, [L. S.]</td>
+</tr>
+<tr>
+<td>William Rogers, [L. S.]</td>
+<td>James Rogers, [L. S.]</td>
+</tr>
+<tr>
+<td>John Gunter, [L. S.]</td>
+<td>John Smith, his x mark.[L. S.]</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Witnesses:</strong></p>
+<div class="table-responsive">
+<table class="table">
+<tbody>
+<tr>
+<td class="col-sm-6">Elbert Herring,</td>
+<td class="col-sm-6">John Robb,</td>
+</tr>
+<tr>
+<td>Thos. Glascock,</td>
+<td>Wm. Y. Hansell,</td>
+</tr>
+<tr>
+<td>Alexander H. Everett,</td>
+<td>Saml. J. Potts,</td>
+</tr>
+<tr>
+<td>Jno. Garland, Major, U. S. Army,</td>
+<td>Jno. Litle,</td>
+</tr>
+<tr>
+<td>C. A. Harris,</td>
+<td>S. Rockwell.</td>
+</tr>
+</tbody>
+</table>
+</div>
+    					</section>
+    				</article>
+    			</div>
+    		</div>
+    	
+    	</div>
+
+	</main>
+	
+	<!--Footer Content-->
+	<footer>
+	  <!-- Sunset footer -->
+<div class="container">
+
+	<div class="row">
+	    <div class="col-12 col-lg-8 ">
+	        <div class="footer-header-div">
+    			<a href="https://library.okstate.edu">
+    				<img src="template-files/sunset/images/osu-library-logo.png" alt="OSU Library">
+    			</a>
+			</div>
+			<p class="footer-links">
+				<a href="about/additional-resources">Additional Resources</a><br>
+				<a href="about/acknowledgements">Acknowledgments</a><br>
+				<a href="about/disclaimer">Disclaimer</a><br>
+				<a href="about/faq">FAQ</a><br>
+			</p>
+		</div>
+		<div class="col-12 col-lg-4">
+		    <div class="footer-header-div ">
+			    <h2 class="footer-contact mt-4" >CONTACT US</h2>
+			</div>
+			<p class="footer-address">Digital Resources & Discovery Services<br>
+				215 Edmon Low Library<br>
+				Stillwater, OK 74078<br>
+				lib-dls@okstate.edu<br>
+			</p>
+		</div>
+		
+	</div>
+</div>
+	  
+	</footer>
+	<div class="fixed-bottom pe-none">
+    <a href="treaties/treaty-with-the-cherokee-1835-0439#top" class="float-end  m-3 pe-auto">
+        <span class="fa-stack fa-2x">
+            <i class="fa-solid fa-circle fa-stack-2x"></i>
+            <i class="fa-regular fa-arrow-up fa-stack-1x fa-inverse"></i>
+            <span class="visually-hidden">Top</span>
+        </span>
+    </a>
+</div>
+	
+	<!-- load all JS here -->
+	<!-- load data table JS in head -->
+	<script src="template-files/sunset/js/bootstrap.bundle.min.js"></script>
+	
+	<!-- Highlight search terms -->
+	<script src="/template-files/kapplers/js/high-lite-words.js"></script>
+<script>
+
+    var myHilitor = new Hilitor("treaty-content"); // id of the element to parse
+    myHilitor.apply("");
+
+</script>
+<!--  Display search terms 
+ 
+-->
+	
+	<!-- Google Analytics Code -->
+	<!-- Insert JS between tags! -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DWS2J6QP8Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DWS2J6QP8Z');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJWB13ZSMS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HJWB13ZSMS');
+</script>
+	
+	<script>
+
+    var hash = window.top.location.hash.substr(1);
+    var styles = `
+        span#` + hash + `{ 
+            background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); font-weight: 500;
+        }
+    `
+    var styleSheet = document.createElement("style")
+    styleSheet.innerText = styles
+    document.head.appendChild(styleSheet)
+
+</script>
+	
+	</body>
+</html>
