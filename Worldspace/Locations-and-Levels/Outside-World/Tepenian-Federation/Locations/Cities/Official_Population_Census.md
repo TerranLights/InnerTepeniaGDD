@@ -480,13 +480,13 @@ National communities are classified by tier based on long-run population share. 
 | 23 | Sanay | Halley | 233,539 | 234,061 | **467,600** | |
 | 24 | Dumont d'Urville | Janbogo | 225,066 | 231,345 | **456,411** | *(island cap)* |
 | 25 | Fort McMurdo | Janbogo | 223,041 | 223,974 | **447,015** | *(island cap)* |
-| 26 | Juan Carlos | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
-| 27 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
-| 28 | Byrd | Byrd | 187,032 | 191,404 | **378,436** | *(new 2026-07-03 — see note below)* |
-| 29 | Vostok | Mirny | 100,333 | 261,078 | **361,411** | *(new 2026-07-03 — see note below)* |
+| 26 | Vostok | Mirny | 130,333 | 261,078 | **391,411** | *(new 2026-07-03, moved up from rank 29 the same day — see note below; +30,000 humans from Sayowa)* |
+| 27 | Juan Carlos | Palmer | 191,451 | 198,724 | **390,175** | *(island cap)* |
+| 28 | Scott | Janbogo | 190,964 | 197,379 | **388,343** | *(island cap)* |
+| 29 | Byrd | Byrd | 187,032 | 191,404 | **378,436** | *(new 2026-07-03 — see note below)* |
 | 30 | Palmer City | Palmer | 166,795 | 167,784 | **334,579** | *(island cap; revised 2026-07-03 — now under cap, see note below)* |
 | 31 | Rothera | Palmer | 154,489 | 164,466 | **318,955** | *(island cap)* |
-| 32 | Sayowa | Mawson | 123,656 | 132,444 | **256,100** | *(island cap)* |
+| 32 | Sayowa | Mawson | 93,656 | 132,444 | **226,100** | *(island cap; −30,000 humans to Vostok, 2026-07-03)* |
 | 33 | Signy | Palmer | 93,951 | 96,398 | **190,349** | *(island cap)* |
 | 34 | Port Lockroy | Palmer | 63,856 | 66,086 | **129,942** | *(island cap)* |
 | 35 | Amundsen Station | Amundsen | 1,126 | 5,763 | **6,889** | *~84% robot* |
