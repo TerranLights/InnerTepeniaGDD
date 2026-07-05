@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 189,817 humans / 196,194 robots / **386,011** combined *(island cap)*
+**Census II (Orbital Era):** 153,382 humans / 160,252 robots / **313,634** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Notable | Philippines, Malaysia, New Zealand *(founding operator heritage)*, Chile |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Scott occupies the same Hut Point Peninsula as Fort McMurdo — approximately three kilometers away on the same volcanic rock promontory at the southern tip of Ross Island. The two cities are close enough that their outer edges nearly touch. Everything said about Fort McMurdo's geography applies here: Ross Island, McMurdo Sound, the Dry Valleys across the water, Mount Erebus visible from everywhere, the same sea ice dynamics, the same katabatic wind patterns, the same spur road connection to Hwy 183 on the mainland coast.

@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 665,901 humans / 685,529 robots / **1,351,430** combined
+**Census II (Orbital Era):** 507,344 humans / 509,151 robots / **1,016,495** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Mirny sits on the Davis Coast of East Antarctica at 66°33'S — within seconds of arc from the exact latitude of the Antarctic Circle (66°33'26"S). For practical purposes, Mirny is on the line. This is not a coincidence that Tepenian culture ignores; it is the defining geographic fact of the city, the thing that gives it its specific identity within the Federation.

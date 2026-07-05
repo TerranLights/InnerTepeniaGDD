@@ -15,6 +15,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 553,768 humans / 584,149 robots / **1,137,917** combined
+**Census II (Orbital Era):** 401,403 humans / 365,359 robots / **766,762** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA, Japan |
+| Significant | Germany, France, UK, Brazil, Australia |
+| Notable | Poland, Netherlands, Belgium *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Princess Elisabeth sits on Utsteinen nunatak, a rocky ridge in the Sør Rondane Mountains of Queen Maud Land — a dramatic range of exposed rock peaks rising above the surrounding ice plateau. The site itself is not sheltered by that terrain; the real station this city is based on is built directly against the Utsteinen ridge specifically because it's exposed to gales of up to 300 km/h, and survives only through deliberate aerodynamic design and foundations anchored meters deep into the permafrost. Nothing about the location protects it passively — everything about its survival was, and had to be, actively engineered.

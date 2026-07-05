@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 475,721 humans / 478,729 robots / **954,450** combined
+**Census II (Orbital Era):** 323,650 humans / 348,182 robots / **671,832** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Russia, Brazil |
+| Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway *(founding operator heritage)*, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Troll sits on Jutulsessen, a nunatak group in Queen Maud Land — rocky outcrops projecting above the surrounding ice sheet. The position is inland, elevated above the coastal ice shelf. The Jutulsessen nunataks are part of the dramatic Queen Maud Land mountain landscape — one of the most visually striking terrains in Antarctica, with the Heimefrontfjella and other ranges visible in the distance.
@@ -74,7 +89,7 @@ The Norwegian cultural inheritance — outdoor endurance tradition, the particul
 ## Economy & Industry
 *(Established 2026-07-04 — developer vision session, see `Cities/City_Vision_Notes/Troll.md`.)* Troll is a genuine intermodal freight hub, not just a strategic aviation asset: raw materials, goods, and supplies imported from Africa land at Sanay (or Belgrano), are trucked overland via Hwy 7 to Troll, and are then flown out via Troll Airfield to other locations across Tepenia. This makes the airfield the effective center of a major share of Tepenia's actual real-economy import/distribution network — control of it is a domestic economic stake, not just symbolic outside-world access. Troll is a major working-class city, with spending power notably higher than the national average. Scientific research and whatever the inland nunatak position otherwise offers round out the rest of the economy. Full further detail TBD for DLC 5.
 
-**Historically significant supply role:** together with Soyuz (which receives its own imports via the city of Mawson, in the separate Mawson subnet), Troll's freight network is how Dome Fuji — one of Tepenia's most isolated, nearly Arcanet-less interior cities — stayed supplied for a substantial stretch of its history. The exact mechanism (direct aviation route vs. a Troll→Soyuz→Dome Fuji relay) and whether this role persisted across the entire interwar period are both still open.
+**Historically significant supply role:** together with Soyuz (which receives its own imports via the city of Mawson, in the separate Mawson subnet), Troll's freight network is how Dome Fuji — one of Tepenia's most isolated, nearly Arcanet-less interior cities — stayed supplied for a substantial stretch of its history. **Resolved 2026-07-05:** two separate direct aviation routes, not a relay. Duration left deliberately loose — the route began sometime after Dome Fuji's pilgrimage resettlement (which itself came after its original founding population departed post-Falkland Treaty) and ran until the Long Night War, with no exact start date pinned.
 
 ---
 

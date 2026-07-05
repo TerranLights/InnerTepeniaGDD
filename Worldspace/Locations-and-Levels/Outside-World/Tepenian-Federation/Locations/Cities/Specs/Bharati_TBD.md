@@ -33,6 +33,21 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 576,469 humans / 601,844 robots / **1,178,313** combined
+**Census II (Orbital Era):** 336,124 humans / 392,200 robots / **728,324** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 The Bharati Station site sits in the Larsemann Hills, approximately 1-2km from the Progress Station site (Soyuz). The Hills are a small ice-free oasis: exposed bedrock, meltwater lakes, Prydz Bay maritime access. The physical infrastructure the Bharati Station left behind — built to Indian specifications in the 2010s, one of the newer pre-exile station designs — was ready to be occupied when whoever eventually settled here arrived.

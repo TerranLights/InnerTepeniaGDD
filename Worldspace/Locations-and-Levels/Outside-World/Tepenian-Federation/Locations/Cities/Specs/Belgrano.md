@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 531,925 humans / 539,965 robots / **1,071,890** combined *(ruins, DLC 5)*
+**Census II (Orbital Era):** 429,820 humans / 407,948 robots / **837,768** combined *(ruins, DLC 5)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, UK, Brazil |
+| Notable | Poland, Argentina *(founding wave)*, Czech Republic, Hungary, South Africa, Slovakia, Chile, Croatia, Serbia, Slovenia, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Belgrano sits on the Coats Land coast near the southern Weddell Sea — deep in the Antarctic interior relative to other Halley subnet cities, with the Filchner-Ronne Ice Shelf not far to the west. The Weddell Sea is one of the coldest and most ice-choked seas in Antarctica; access from the north is possible but heavily sea-ice dependent. The ice shelf environment means the coastal geography shifts over time.

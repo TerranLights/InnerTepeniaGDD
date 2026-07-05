@@ -8,6 +8,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 165,912 humans / 166,896 robots / **332,808** combined *(island cap)*
+**Census II (Orbital Era):** 180,688 humans / 151,482 robots / **332,170** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Canada, Mexico, Brazil |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Palmer Station sits on Anvers Island off the Antarctic Peninsula — the northernmost finger of the continent, reaching toward South America. Of all the Antarctic stations, Palmer is the most temperate and the most accessible from the outside world. Temperatures rarely drop below −20°C in winter and occasionally rise above freezing in summer. The surrounding sea is navigable for longer periods than most Antarctic waters.

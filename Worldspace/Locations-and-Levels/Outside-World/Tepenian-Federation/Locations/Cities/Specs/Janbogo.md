@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 646,541 humans / 663,970 robots / **1,310,511** combined
+**Census II (Orbital Era):** 490,564 humans / 467,006 robots / **957,570** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, Germany, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Janbogo sits on Terra Nova Bay on the Ross Sea coast — the Pacific-facing side of Antarctica. The Ross Sea has a longer navigable season than the Atlantic approaches, and Terra Nova Bay is among the more sheltered positions on that coast. Janbogo's location gave it advantages in both trade and resilience: close enough to the sea to function as a port, positioned in a bay that offered more protection than fully exposed coastal sites.

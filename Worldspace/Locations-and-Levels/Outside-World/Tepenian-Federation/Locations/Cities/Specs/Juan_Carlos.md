@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 189,742 humans / 196,950 robots / **386,692** combined *(island cap)*
+**Census II (Orbital Era):** 118,910 humans / 127,462 robots / **246,372** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Italy, Spain |
+| Notable | Mexico, Brazil, Argentina *(founding wave)*, Chile *(founding wave)* |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Livingston Island is the second-largest of the South Shetland Islands, southwest of King George Island and separated from it by McFarlane Strait. At 62°39'S, Juan Carlos shares the sub-Antarctic maritime character of Sejong — mild, wet, above-freezing summer temperatures — but on an island with fewer competing settlements and a somewhat quieter character. Livingston Island's terrain is more glaciated and rugged than King George Island; the accessible coastal areas are more limited.

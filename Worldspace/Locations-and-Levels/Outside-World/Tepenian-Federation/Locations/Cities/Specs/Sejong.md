@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 316,691 humans / 328,142 robots / **644,833** combined *(island cap)*
+**Census II (Orbital Era):** 234,304 humans / 279,766 robots / **514,070** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Germany, France, UK, Italy, South Korea, Russia, Mexico, Brazil |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 King George Island is the largest of the South Shetland Islands, lying approximately 120km north of the Antarctic Peninsula across the Bransfield Strait. At 62°13'S — well north of the Antarctic Circle — Sejong has no polar night and no midnight sun, and experiences the mildest climate of any Palmer subnet city. The Drake Passage and Bransfield Strait create a maritime environment warmer and wetter than the Peninsula mainland.

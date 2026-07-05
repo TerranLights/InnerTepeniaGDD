@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 223,549 humans / 229,785 robots / **453,334** combined *(island cap)*
+**Census II (Orbital Era):** 134,634 humans / 177,372 robots / **312,006** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, France *(founding operator heritage)*, South Korea, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Dumont d'Urville is not built on the Antarctic continent itself but on Petrel Island — a small island in the Géologie Archipelago, roughly 5 kilometers off the Adélie Land coast. The real station occupied this position for practical reasons (the exposed rock of the island was more buildable than the continental ice edge), and the exile city built on the same logic. The result is a city that is Antarctic but also, in a subtle way, maritime — surrounded by ocean channels, with the continent visible across the water.

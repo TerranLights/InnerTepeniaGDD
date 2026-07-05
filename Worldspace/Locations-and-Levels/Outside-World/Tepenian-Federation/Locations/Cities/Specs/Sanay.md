@@ -71,14 +71,20 @@ The South African cultural heritage — carrying both the country's history and 
 ---
 
 ## Economy & Industry
-Scientific research, whatever the Queen Maud Land nunatak position offered, trade within the Halley subnet. *(Established 2026-07-04:)* Sanay is also, alongside Belgrano, one of the two receiving ports for South African freighter shipments — the region's confirmed Upper Earth shipping partner — arriving depending on whichever passage is open at the time. Goods bound for Halley (which has no docks or airstrip of its own) are trucked onward via the Hwy 7 connector. Sanay also hosts the Halley subnet's actual Arcanet relay nexus, giving it a genuine strategic/infrastructural role beyond its own port and research functions. Full further detail TBD for DLC 5. Post-war, Sanay's continued function gives it a real, if not singular, economic and social role among the subnet's several damaged-but-functioning communities.
+
+*(Expanded 2026-07-04 via a developer vision session — see `City_Vision_Notes/Sanay.md`.)* Sanay is, first and foremost, a major shipping and transportation port city — not necessarily one of Tepenia's largest cities by population (Lazar holds that title), but a genuinely major logistics hub by function. Endless shipyards handle the import of raw materials and dried food items from South Africa; Sanay keeps whatever share it needs to maintain its own city, and trucks the rest out along Hwy 7 — either directly to nearby cities, or onward to Troll, where its airfield flies goods out to more remote locations across Tepenia. Truckyards and warehouses occupy sections of the lower city; the upper clifftops hold the major trucking/shipping depots and the import-export business district. Work is organized around rotating crews tied to freighter arrival and departure times rather than a fixed day/night schedule, so the docks and yards are active at seemingly all hours.
+
+Sanay is also, alongside Belgrano, one of the two receiving ports for South African freighter shipments — the region's confirmed Upper Earth shipping partner — arriving depending on whichever passage is open at the time. Goods bound for Halley (which has no docks or airstrip of its own) are trucked onward via the Hwy 7 connector. Sanay also hosts the Halley subnet's actual Arcanet relay nexus, semi-distributed across several points along the upper clifftops alongside the trucking depots and business district, giving it a genuine strategic/infrastructural role beyond its own port functions. The inherited SANAE scientific research tradition persists but is now a smaller slice of the city's actual economy, well behind the port/logistics operation. Post-war, Sanay's continued function gives it a real, if not singular, economic and social role among the subnet's several damaged-but-functioning communities.
 
 ---
 
 ## Notable Locations
 - **The Vesleskarvet nunatak summit** — the highest point of Sanay's terrain; panoramic views of the Queen Maud Land ice plateau
 - **The SANAE infrastructure** — the founding-era South African Antarctic research station, damaged but substantially integrated into the city's continued function
-- **The Halley subnet Arcanet relay nexus** *(established 2026-07-04)* — built into the bedrock by Halley's own residents rather than Sanay's, the technical heart of the "Halley" subnet despite sitting physically in Sanay
+- **The Halley subnet Arcanet relay nexus** *(established 2026-07-04)* — semi-distributed across several points along the upper clifftops rather than one single building, built into the bedrock by Halley's own residents rather than Sanay's; the technical heart of the "Halley" subnet despite sitting physically in Sanay
+- **The shipyards** *(established 2026-07-04)* — the lower city's endless shipyard complex handling South African freighter traffic; the city's defining industry and its loudest, busiest environment
+- **The clifftop trucking/shipping depots and business district** *(established 2026-07-04)* — occupying the upper clifftops alongside the Arcanet nexus, where import/export administration and the onward Hwy 7/Troll logistics chain are managed
+- **The residential, commercial, and leisure districts** *(established 2026-07-04)* — stretching along the cliffside and across the surrounding expanse, where off-shift workers spend their time
 - Additional locations: TBD for DLC 5
 
 ---

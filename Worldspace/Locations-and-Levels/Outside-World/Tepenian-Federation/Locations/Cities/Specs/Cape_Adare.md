@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 745,967 humans / 753,687 robots / **1,499,654** combined
+**Census II (Orbital Era):** 426,343 humans / 623,708 robots / **1,050,051** combined *(destroyed)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Notable | Philippines, Malaysia, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Chile |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Cape Adare is a headland at the northern tip of the Adare Peninsula, where Victoria Land meets the Ross Sea. It is the most accessible point on the Ross Sea coast from the open Southern Ocean — the first landfall on the continental coast for ships approaching from the north. This accessibility is precisely why it matters historically: it was the most natural point of first arrival, the place ships could reach before committing to the deeper, more difficult waters of the Ross Sea.

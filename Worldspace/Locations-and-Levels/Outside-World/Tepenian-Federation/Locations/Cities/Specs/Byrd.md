@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 186,268 humans / 190,622 robots / **376,890** combined
+**Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA, Japan |
+| Significant | South Korea, Canada, Indonesia, Australia |
+| Notable | Germany, France, UK, New Zealand, Mexico, Chile, Czech Republic, Brazil, Slovakia, Thailand, Russia, Serbia, Belgium, Italy, Norway, Croatia, South Africa, China, Slovenia, Romania, Philippines, Netherlands, Poland, Bulgaria, Vietnam, Spain, Latvia, Argentina, Sweden, Belarus, Ukraine, Finland, Lithuania, Malaysia, Hungary, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Byrd sits in the deep interior of Marie Byrd Land, West Antarctica — not on a coast, not at a dramatic geographic feature, but in the relatively featureless interior of the West Antarctic Ice Sheet at approximately 1,530 meters above sea level. This altitude is substantially lower than Concordia (3,233m) and makes Byrd far more habitable from a physiological standpoint, but it is still deep inland, still isolated, and still Antarctic.

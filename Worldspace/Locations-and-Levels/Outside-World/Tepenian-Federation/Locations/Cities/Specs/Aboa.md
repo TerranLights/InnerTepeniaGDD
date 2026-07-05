@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 504,237 humans / 530,004 robots / **1,034,241** combined
+**Census II (Orbital Era):** 310,791 humans / 296,650 robots / **607,441** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Russia, Brazil |
+| Notable | Poland, Netherlands, Belgium, Sweden *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland *(founding operator heritage)*, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Aboa sits on Basen nunatak in the Vestfjella mountains — a range of nunataks and rock outcrops in western Queen Maud Land. The Vestfjella position is further from the Weddell Sea coast than Sanay or Troll, giving Aboa a more interior character. The nunatak foundation provides bedrock stability.

@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 709,749 humans / 742,596 robots / **1,452,345** combined
+**Census II (Orbital Era):** 509,209 humans / 578,860 robots / **1,088,069** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Canada, Brazil |
+| Notable | Poland, Netherlands, Argentina, Czech Republic, Hungary, South Africa *(founding wave)*, Slovakia, Chile, Croatia, Serbia, Slovenia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Halley sits on the Brunt Ice Shelf — a floating platform of ice projecting from the Coats Land coast into the Weddell Sea. The ice shelf is not bedrock. It is not continent. It is frozen ocean, compressed snow, accumulated ice, moving at a rate of roughly 400–700 meters per year as it flows slowly toward the open sea. Eventually, pieces of it calve off as icebergs and drift away. This has been happening throughout Halley's existence, and it will continue to happen regardless of what the city does.

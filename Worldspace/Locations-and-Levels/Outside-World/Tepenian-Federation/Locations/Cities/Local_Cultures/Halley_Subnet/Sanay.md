@@ -74,7 +74,7 @@ Sanay's civic identity rests on real structural endurance rather than the more d
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people drawn to quiet, unglamorous resilience — those who want to rebuild and maintain rather than triumph or perform survival.
+- **The type this city draws:** people drawn to hardworking, unglamorous resilience — those who want to rebuild, keep a genuinely major port running, and maintain rather than triumph or perform survival.
 - **The type this city repels:** anyone looking for a dramatic "untouched refuge" narrative — Sanay has never been that, and its own community would find the framing faintly insulting to what it actually took to keep functioning.
 
 ---
@@ -84,50 +84,50 @@ Sanay's civic identity rests on real structural endurance rather than the more d
 - **a. Primary language(s):** German dominant (Primary tier), with English, Afrikaans, and other South African linguistic heritage present at a diminished but real level tied to the founding institutional memory.
 - **b. Linguistic character** — A genuinely unusual linguistic profile for this subnet — German as the practical daily default rather than English, distinguishing Sanay's soundscape from its American-Primary neighbors.
 - **c. Slang / dialect markers** — Terminology referencing the SANAE founding heritage persists as institutional/ceremonial vocabulary even among residents with no South African ancestry.
-- **d. Language and integration** — Low pressure; a small, practical community integrates newcomers through demonstrated reliability rather than linguistic assimilation.
+- **d. Language and integration** — Low pressure; a practical, hardworking community integrates newcomers through demonstrated reliability rather than linguistic assimilation.
 
 ---
 
 ## 9. Architecture
 
-Built directly on Vesleskarvet's bedrock rather than ice, giving Sanay's structures a stability and simplicity its ice-shelf neighbors never had — practical, resilient construction, visibly repaired and maintained rather than either pristine or ruined, a physical record of the "scarred, not erased" identity.
+*(Corrected 2026-07-04 — see `City_Vision_Notes/Sanay.md`: Sanay is not a huge city by Tepenian standards (Lazar holds that title), but it is a major, heavily-worked shipping and transportation hub, and its built environment should read that way, not as small or quiet.)* Built directly on Vesleskarvet's bedrock rather than ice, giving Sanay's structures a stability and simplicity its ice-shelf neighbors never had — practical, resilient construction, visibly repaired and maintained rather than either pristine or ruined. Endless shipyards, truckyards, and warehouses occupy sections of the lower city; the upper clifftops hold the major trucking and shipping depots alongside the import-export business district. Residential, commercial, and leisure districts stretch along the cliffside and across the surrounding expanse, giving workers somewhere to be once they're off shift.
 
 ---
 
 ## 10. Cuisine
 
 - **a. Human cuisine** — A blend of South African founding-heritage cooking and an increasingly German-inflected everyday cuisine, reflecting the city's unusual demographic trajectory.
-- **b. Social context of eating** — Practical and communal, shaped by a small population that has learned to rely on shared resources.
-- **c. Robot cuisine / siligel culture** — Modest and practical, scaled to the city's small, damaged-but-functioning economy.
+- **b. Social context of eating** — Practical and communal, but not scarcity-driven — a working port city with steady import traffic has real resources to draw on; shared meals happen around shift changes as much as anything else.
+- **c. Robot cuisine / siligel culture** — Practical and plentiful, scaled to a genuinely active import/export economy rather than a modest one.
 
 ---
 
 ## 11. Fashion
 
-Practical, resilience-oriented clothing without much room for aesthetic ambition — function and repair-ability matter more here than in cities with more resources to spare.
+Practical, work-oriented clothing suited to hard physical labor on the docks, in the truckyards, and across the cliffside depots — function matters more here than aesthetic ambition, but this is the practicality of a busy working port, not of scarcity.
 
 ---
 
 ## 12. Music
 
-A quiet blend of South African and German musical heritage, kept alive in small community settings rather than any large public tradition — Sanay's small scale and damaged infrastructure haven't supported anything larger.
+A blend of South African and German musical heritage, heard in the residential, commercial, and leisure districts where workers unwind after shift — not a grand civic tradition, but a genuine, steady presence woven through a city that's actually busy and populated enough to support it.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Modest, practical, often centered on documenting the city's own recovery and endurance rather than grand civic statements.
-- **Literature:** Oral memory and practical record-keeping dominate — the story of what the city took and survived is told and retold rather than formally published.
-- **Crafts & material culture:** Repair and maintenance craft is genuinely valued here — keeping damaged infrastructure functional is treated as skilled, respected work.
+- **Visual arts:** Practical and industrial in character, but with real presence given the city's active economy — signage, dockside murals, and functional design across the shipyards and depots.
+- **Literature:** Oral memory and practical record-keeping remain strong, telling the story of what the city took and survived, alongside the more mundane daily record of shipping manifests and trade logs.
+- **Crafts & material culture:** Repair and maintenance craft is genuinely valued here — keeping the port's infrastructure, trucks, and shipyards functional is treated as skilled, respected work, done round the clock.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** Quiet, practical, the ordinary sounds of a small community doing upkeep work.
-- **Smell:** Cold, dry, rock and mineral rather than ice or maritime.
-- **Feel:** The specific, grounded stability of standing on bedrock rather than moving ice — a genuinely different physical sensation from Halley or Neumayer.
-- **First impressions for visitors:** The commanding nunatak vantage over the ice plateau first, then the visible signs of war damage and ongoing repair once inside the city itself.
+- **Sound:** Ship horns piercing the air and echoing across the city at irregular hours, tied to freighter arrivals and departures; the constant low hum of truckyards and warehouse activity; industrial, working-port sound throughout.
+- **Smell:** Cold, dry, rock and mineral base notes, mixed with fuel, cargo, and machinery smells from the shipyards and depots.
+- **Feel:** Industrious and gritty — a genuinely busy working port, not a quiet backwater, set against the specific grounded stability of standing on bedrock rather than moving ice.
+- **First impressions for visitors:** The scale of coordinated port activity first — shipyards, truckyards, and cliffside depots all moving at once — then the commanding nunatak vantage over the ice plateau, and the visible signs of war damage and ongoing repair woven through it all.
 
 ---
 
@@ -137,18 +137,20 @@ A quiet blend of South African and German musical heritage, kept alive in small 
 
 ## 15. Division of Industry
 
-- Technical / scientific: 25% — inherited SANAE research tradition
-- Industrial / manufacturing: 20% — repair and structural maintenance
-- Marine / resource extraction: 15%
-- Commercial: 15% — trade within the Halley subnet
-- Education: 15%
-- Other: 10%
+*(Rewritten 2026-07-04 to reflect the developer's vision — Sanay is, first and foremost, a genuine port city, not primarily a research outpost. See `City_Vision_Notes/Sanay.md`.)*
+
+- Port / shipyard operations: 30% — the defining industry; endless shipyards handling South African freighter traffic
+- Trucking / logistics: 20% — the clifftop depots and truckyards moving goods onward via Hwy 7, including to Halley
+- Warehousing / import-export administration: 15% — the clifftop business district
+- Industrial / manufacturing: 15% — repair and structural maintenance, inherited from the war-damage-and-recovery era
+- Technical / scientific: 10% — the inherited SANAE research tradition, now a smaller slice of the city's actual economy
+- Other (commercial, education, leisure-district service work): 10%
 
 ---
 
 ## 16. Human-Robot Relations
 
-With humans slightly outnumbering robots (145,798 to 129,319), human-robot relations at Sanay are shaped by the same practical, resilience-focused culture as everything else — a small, damaged community doesn't have much room for hierarchy that would get in the way of the shared work of keeping the city functioning.
+*(Rewritten 2026-07-04 per the developer's vision.)* Roughly equal division of labor between humans and robots across the docks, truckyards, and business district — but not perfectly symmetrical: robots tend to hold the somewhat better positions, a quiet reflection of Tepenia being their country first. This isn't resentful or exploitative on either side, though — robots at Sanay hold a genuine, specific appreciation for the humans working alongside them, aware that these are people who gave up entire livelihoods back in their original Upper Earth homelands to come here. That appreciation shows up as real, unforced good treatment day to day, not just a stated value.
 
 ---
 
@@ -203,7 +205,7 @@ Filtered through the South African founding community's own history, layered aga
 
 ## 24. Arcanet Culture
 
-Modest and practical day-to-day, reflecting the city's small scale and ongoing recovery work — Arcanet use here is functional rather than archival or disputational, unlike some of its larger or more contested neighbors. *(Established 2026-07-04:)* The one major exception is the subnet's actual technical relay nexus itself, physically installed here on Vesleskarvet's stable bedrock rather than at Halley — built by Halley's own residents, who traveled here to do the hands-on construction work personally, while Sanay's people kept running the ports and the shipping lanes to South Africa. Sanay's residents hold a quiet, specific pride in hosting the literal heart of the subnet's communications network, even though the subnet carries someone else's name — a genuine, load-bearing responsibility underneath an otherwise unassuming Arcanet culture.
+Modest and practical day-to-day, reflecting the city's ongoing recovery work — Arcanet use here is functional rather than archival or disputational, unlike some of its larger or more contested neighbors. *(Established 2026-07-04:)* The one major exception is the subnet's actual technical relay nexus itself, physically installed here on Vesleskarvet's stable bedrock rather than at Halley — built by Halley's own residents, who traveled here to do the hands-on construction work personally, while Sanay's people kept running the ports and the shipping lanes to South Africa. *(Detail added 2026-07-04:)* The nexus isn't one single building — it's semi-distributed across several points along the upper clifftops, woven into the same cliffside terrain that also holds the trucking/shipping depots and the import-export business district, rather than sitting apart from Sanay's working port life in some separate, isolated facility. Sanay's residents hold a quiet, specific pride in hosting the literal heart of the subnet's communications network, even though the subnet carries someone else's name — a genuine, load-bearing responsibility underneath an otherwise unassuming Arcanet culture.
 
 ---
 

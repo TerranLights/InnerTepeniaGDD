@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 563,599 humans / 594,715 robots / **1,158,314** combined
+**Census II (Orbital Era):** 437,423 humans / 344,173 robots / **781,596** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Davis sits in the Vestfold Hills — one of the largest ice-free coastal oasis areas in Antarctica, approximately 400km² of exposed rock, lakes, and fjord-like inlets on the Ingrid Christensen Coast, Prydz Bay. The Vestfold Hills are significantly larger than the Schirmacher Oasis (Halley subnet) or the Larsemann Hills (Prydz Bay cluster) — a substantial ice-free zone with diverse terrain including freshwater and saltwater lakes, and the remarkable Prydz Bay fjord access.

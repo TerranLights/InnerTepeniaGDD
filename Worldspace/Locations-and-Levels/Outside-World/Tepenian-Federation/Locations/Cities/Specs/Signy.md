@@ -19,6 +19,21 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 93,134 humans / 95,560 robots / **188,694** combined *(island cap)*
+**Census II (Orbital Era):** 53,928 humans / 79,827 robots / **133,755** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Brazil |
+| Notable | Argentina, South Africa *(founding wave)*, Chile, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Signy Island is one of the smaller South Orkney Islands, a group of islands in the Scotia Sea approximately 500km east of the Antarctic Peninsula tip and roughly 1,700km south of the Falkland Islands. The South Orkney Islands are geographically isolated — no land connection to anything. At 60°43'S, Signy technically sits north of the 60° parallel that commonly marks the informal boundary of "Antarctica" in political and environmental terms, though it is administered under the Antarctic Treaty.

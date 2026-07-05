@@ -8,6 +8,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 1,121 humans / 5,736 robots / **6,857** combined *(~84% robot)*
+**Census II (Orbital Era):** 913 humans / 3,978 robots / **4,891** combined *(~81% robot; skeleton crew)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, Germany, UK, South Korea, Canada, Australia |
+| Notable | Argentina, Norway *(Amundsen heritage — Saint Roald)*, New Zealand, Chile *(unique Union Glacier route advantage)* |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 The South Pole is the southernmost point on Earth — 90°00'S, where all lines of longitude converge and the concept of "direction" collapses into a single word: north. Everything from the South Pole is north. The pole sits on the East Antarctic Plateau at an elevation of approximately 2,835 meters above sea level, on ice approximately 2,850 meters thick. The ice itself moves — the geographic pole is fixed, but the station built on the ice drifts roughly ten meters per year, requiring periodic repositioning of the ceremonial pole marker.

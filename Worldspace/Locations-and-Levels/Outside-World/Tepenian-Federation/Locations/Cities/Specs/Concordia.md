@@ -8,6 +8,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 504,799 humans / 511,148 robots / **1,015,947** combined
+**Census II (Orbital Era):** 309,068 humans / 326,234 robots / **635,302** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, Japan, South Korea, Russia, Indonesia, Australia |
+| Significant | USA, Thailand, Vietnam, Philippines, Malaysia, New Zealand, Belarus |
+| Notable | Germany, France, UK, Italy, Canada, Spain, Mexico, Poland, Netherlands, Belgium, Sweden, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Concordia sits on the East Antarctic plateau at Dome C — 3,233 meters above sea level, deep inland, far from any coast. Temperatures routinely reach −80°C in winter. Months of total darkness alternate with months of unbroken daylight. The altitude is thin enough to require acclimatization even for long-term residents. Of all the survivable inland stations, Concordia is the most isolated from any coastline while remaining below the altitude threshold where large-scale habitation becomes impossible.

@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 627,584 humans / 631,067 robots / **1,258,651** combined *(destroyed)*
+**Census II (Orbital Era):** 443,754 humans / 493,905 robots / **937,659** combined *(destroyed in Long Night War)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Zukelli and Janbogo are neighbors. This is not a metaphor or a loose geographic claim — the real stations on which they are based (Mario Zucchelli Station and Jang Bogo Station) sit approximately 8 kilometers apart on the same bay, the same stretch of Victoria Land coast, sharing the same Terra Nova Bay polynya. In Tepenia, the two cities grew up alongside each other, facing the same water, using the same port infrastructure, experiencing the same katabatic winds off the Transantarctic Mountains, watching the same polynya remain open through winters that froze every other patch of Ross Sea coast.

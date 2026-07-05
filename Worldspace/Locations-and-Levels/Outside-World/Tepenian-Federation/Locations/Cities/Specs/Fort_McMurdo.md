@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 222,190 humans / 223,120 robots / **445,310** combined *(island cap)*
+**Census II (Orbital Era):** 173,548 humans / 164,621 robots / **338,169** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA *(founding operator heritage)* |
+| Significant | Japan, Germany, France, UK, Italy |
+| Notable | South Korea, Canada, Indonesia, Australia *(founding wave)*, Philippines, Malaysia, New Zealand *(founding wave)*, Chile |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Fort McMurdo sits on the southern tip of Ross Island — a volcanic island in the Ross Sea, connected to the Antarctic mainland by seasonal sea ice across McMurdo Sound. Ross Island is defined by four volcanoes, the most significant of which is **Mount Erebus**: the southernmost active volcano on Earth, rising 3,794 meters above sea level, with a permanent lava lake in its summit crater. Erebus is visible from virtually everywhere in Fort McMurdo — a constant presence on the skyline, generating a visible plume of gas and ash in most weather conditions. It is one of the most dramatically situated urban backgrounds of any city in Tepenia.

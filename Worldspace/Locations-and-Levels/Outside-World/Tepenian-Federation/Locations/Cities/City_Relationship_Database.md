@@ -30,6 +30,8 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 
 **Route to Byrd from Concordia:** Hwy 183 (south) → junction with Hwy 175 → Hwy 175 → junction with Hwy 22 → Hwy 22 (Amundsen Sea direction) → Byrd. Multiple transfers; a very long journey.
 
+**Hitchhiking, established 2026-07-05:** on a specific subset of highways, hitchhiking is a genuinely valid, established way to get around Tepenia — not a desperate last resort, but a normal travel option: **Hwy 7** (Belgrano Highway), **Hwy 4** (Mawson-Soyuz Highway), **Hwy 110** (Coastal Cut Highway), **Hwy 2** (Dumont Coast Highway), and a short segment of **Hwy 1** specifically between Marambio and Rothera. Exact in-world reasoning for why hitchhiking works on these particular routes (traffic density, cultural norms, freight-truck culture, something else) not yet developed — flagged for future design.
+
 ---
 
 ## 2. Arcanet Regional Subnets

@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 631,985 humans / 647,448 robots / **1,279,433** combined
+**Census II (Orbital Era):** 522,372 humans / 474,312 robots / **996,684** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China *(founding operator heritage)* |
+| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Zhongshan sits at nearly the same coordinates as Soyuz — both are in the Larsemann Hills, both face Prydz Bay. The two cities are immediate neighbors, their founding infrastructures within a few kilometers of each other. Together with the city based at the former Bharati Station location, the Larsemann Hills cluster is the Mawson subnet's equivalent of King George Island: multiple cities in extremely close proximity.

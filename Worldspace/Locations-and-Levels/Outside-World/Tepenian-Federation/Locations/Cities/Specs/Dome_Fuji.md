@@ -10,6 +10,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 0 humans / 55,072 robots / **55,072** combined *(entirely robot; new 2026-07-04)*
+**Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA, China |
+| Significant | Japan, Germany, UK, France, South Korea, Russia, Brazil, Indonesia, Australia |
+| Notable | Poland, Canada, Netherlands, Italy, Argentina, Mexico, Ukraine, Thailand, Romania, Czech Republic, South Africa, Philippines, Malaysia, Vietnam, Norway, Hungary, Slovakia, Finland, New Zealand, Chile, Belarus, Belgium, Sweden, Bulgaria, Croatia, Serbia, Spain, Lithuania, Slovenia, Estonia, Latvia, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Dome Fuji sits near Valkyrie Dome — one of the broad, elevated domes of the East Antarctic Ice Sheet — at approximately 3,810 meters elevation. This is 577 meters higher than Concordia and makes Dome Fuji one of the two or three highest-elevation settlements in Tepenia.
@@ -70,7 +85,9 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 
 **Settled:** Post-Falkland Treaty, on the Dome Fuji Station infrastructure. Japan's Antarctic research program had operated in this region since the 1960s; by 2564, the station was mature. The exile settlement inherited it and the altitude problem simultaneously.
 
-**Founding population:** Primarily Japanese exiles alongside other communities. The founding generation discovered the altitude effects directly — people who had lived at sea level or moderate elevation arrived at 3,810m and discovered what that meant for their daily function. The community adapted, or those who could not adapt moved elsewhere if they were able.
+**Founding population:** Primarily Japanese exiles alongside other communities. The founding generation discovered the altitude effects directly — people who had lived at sea level or moderate elevation arrived at 3,810m and discovered what that meant for their daily function.
+
+**The founding population's fate — resolved 2026-07-05:** the original Japanese team departed Dome Fuji following the Falkland Treaty, and the site sat unoccupied afterward. It was only much later that the "Ice Cold Buddhists" (placeholder name — see Character & Culture, below) located it again, piecing its position together from accounts, transport manifests, and maps — a rediscovery-by-expedition structure genuinely parallel to how Byrd Station was located (see `Specs/Byrd.md` and the Byrd Expedition entry in `TODO.md`). No human has set foot at Dome Fuji since that pilgrimage arrival — the site has been robot-only from the moment it was reoccupied, not because of a die-off or attrition after resettlement.
 
 The name was kept.
 
@@ -80,7 +97,7 @@ The name was kept.
 
 Dome Fuji's population was resolved via a deliberate redistribution: a small percentage (0.05%–0.3%, randomly generated per city) was drawn from every Tepenian city except Concordia, pooled together, and added to Dome Fuji entirely as robots — any humans caught up in the move were reclassified as robots in the process. Unlike the parallel exercise that resolved Kunlun's population (which reclassified everyone as Chinese), Dome Fuji's redistribution preserved each contributor's original nationality, producing a genuine blend proportional to the whole continent's composition (USA and China lead, followed by Japan, Germany, and UK — see `Official_Population_Census.md`, Section I, for the full breakdown).
 
-This gives Dome Fuji's already-established "Ice Cold Buddhism" pilgrimage lore (see Character & Culture, below) a direct mechanical basis: this population **is** the devotee population the city's own culture section already anticipated — drawn from every corner of Tepenia specifically because devotion to the faith, not national origin, is what brought them here. The city's founding Japanese population is no longer numerically present in this figure (0 humans; the founding community's fate is otherwise unresolved) — what remains is the pilgrimage population alone.
+This gives Dome Fuji's already-established "Ice Cold Buddhism" pilgrimage lore (see Character & Culture, below) a direct mechanical basis: this population **is** the devotee population the city's own culture section already anticipated — drawn from every corner of Tepenia specifically because devotion to the faith, not national origin, is what brought them here. The city's founding Japanese population is no longer numerically present in this figure (0 humans) — **resolved 2026-07-05** (see Founding, above): the founding team departed after the Falkland Treaty, the site sat unoccupied, and the pilgrimage population later relocated it and moved in fresh, entirely robot from that point on.
 
 ---
 
@@ -102,7 +119,7 @@ The Japanese cultural inheritance gave Dome Fuji its social character — the sp
 
 Ice core science — Dome Fuji is one of the best locations on Earth for deep ice core drilling, with ice records extending back hundreds of thousands of years. The scientific program was the city's economic anchor. Full detail TBD.
 
-**Historical supply lifeline — established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** for a substantial stretch of its history, Dome Fuji's viability depended on supplies flown directly in from two aviation sources: Troll (Halley subnet, receiving imports from Africa via Sanay/Belgrano and flying them onward via Troll Airfield) and a smaller, less advanced airstrip at or near Soyuz (Mawson subnet, itself receiving imports via the city of Mawson). Both locations flew supplies directly into Dome Fuji — not a relay chain, two separate direct aviation routes converging on the same isolated city. Whether this dual-route supply role persisted across the entire interwar period or diminished/ended at some point is still open. This is the developer's own explanation for how a city this isolated, with essentially no Arcanet connectivity, actually stayed supplied for as long as it did.
+**Historical supply lifeline — established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** for a substantial stretch of its history, Dome Fuji's viability depended on supplies flown directly in from two aviation sources: Troll (Halley subnet, receiving imports from Africa via Sanay/Belgrano and flying them onward via Troll Airfield) and a smaller, less advanced airstrip at or near Soyuz (Mawson subnet, itself receiving imports via the city of Mawson). Both locations flew supplies directly into Dome Fuji — not a relay chain, two separate direct aviation routes converging on the same isolated city. **Duration resolved 2026-07-05, left deliberately loose:** the route began sometime after Dome Fuji's own pilgrimage resettlement (see Founding, above — it can't have predated that, since there was nobody at Dome Fuji to supply beforehand) and ran until the Long Night War, with no exact start date pinned. This is the developer's own explanation for how a city this isolated, with essentially no Arcanet connectivity, actually stayed supplied for as long as it did.
 
 ---
 
@@ -141,7 +158,7 @@ Dome Fuji's legacy is endurance under conditions that were never fully hospitabl
 ## Open Questions
 
 - **DLC 4 alternate access route — established 2026-07-04:** alongside the dangerous overland trip, a player with 10 Calculation + 10 Investigation plus a gate item can fix up a broken plane at the Soyuz airstrip and fly to Dome Fuji instead. The gate item is a specifically-shaped aircraft part found through optional side-content in Belgrano (DLC 5) — a player who already has it from that DLC can skip the stat-gate entirely. See `Specs/Soyuz.md`, `Specs/Belgrano.md`, and `TODO.md`'s Decision Required section for the full mechanic.
-- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (55,072) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage redistribution — see Founding Population Resolution, above. Whether any of the original founding-era human population survived independently of this figure, or whether the pilgrimage population represents the entirety of what's left, is still open.
+- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (55,072) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage redistribution — see Founding Population Resolution, above. **The founding population's fate — RESOLVED 2026-07-05:** no die-off or ambiguous attrition — the original Japanese team departed after the Falkland Treaty, the site sat unoccupied, and the pilgrimage population later relocated it via accounts/manifests/maps (paralleling Byrd's own rediscovery) and moved in fresh, robot-only from that point forward. See Founding, above. Human presence at Dome Fuji is also outright forbidden today, alongside Kunlun (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline") — a matter of combined altitude/cold lethality, not any anti-human sentiment.
 - **Robot-to-human demographic shift — RESOLVED 2026-07-04:** fully robot, per the above. The mechanism (altitude attrition vs. deliberate pilgrimage influx) remains an open narrative question even though the end state is now confirmed.
 - **The ice core archive survival** — whether this scientific record survived the Long Night War
 - **Mawson subnet Arcanet connection** *(corrected 2026-07-04 — this line previously said "Halley subnet," another leftover from before the subnet header field was corrected; see Geographic Basis, above)* — is the cable link between Dome Fuji and the Mawson subnet hub intact? Given the distance and the post-war infrastructure damage, this is uncertain

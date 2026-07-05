@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 129,617 humans / 259,644 robots / **389,261** combined
+**Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA, Japan |
+| Significant | South Korea, Canada, Indonesia, Australia |
+| Notable | New Zealand, Chile |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Vostok sits near the Southern Pole of Inaccessibility — the point on the Antarctic continent furthest from any coast — on the East Antarctic Plateau at 3,488 meters elevation. It is approximately 1,260 kilometers from Mirny on the coast. There are no highways, no coastal access, no neighboring cities. The nearest anything is a very long way away.

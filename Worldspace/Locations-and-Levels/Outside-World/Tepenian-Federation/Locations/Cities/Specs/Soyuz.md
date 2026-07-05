@@ -16,6 +16,21 @@ Soyuz, Zhongshan, and the Japanese city (cf. Bharati) all sit within the same sm
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 519,191 humans / 550,159 robots / **1,069,350** combined
+**Census II (Orbital Era):** 437,854 humans / 450,438 robots / **888,292** combined *(damaged; partially operational)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Soyuz sits in the Larsemann Hills — a small ice-free area on the Ingrid Christensen Coast of Princess Elizabeth Land, Prydz Bay. The Larsemann Hills are one of Antarctica's rare oasis areas: exposed bedrock, meltwater lakes, and the distinctive character of ice-free coastal terrain. At approximately 34km², the Hills are comparable to the Schirmacher Oasis (Lazar, the Halley subnet city built on the coalesced Novolazarevskaya/Maitri Station sites, also sits in such an oasis).
@@ -73,7 +88,7 @@ The Soyuz name — forward-looking, technologically proud — suggested a commun
 ---
 
 ## Economy & Industry
-Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster economy among the three nearby cities produced. **Established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** Soyuz, or a location near it, has its own functional airstrip — smaller and less advanced than Troll's, but real. For a substantial stretch of Tepenian history, this airstrip flew supplies directly to Dome Fuji, working alongside a parallel, separate route flown from Troll (Halley subnet) — two direct aviation lines converging on one of Tepenia's most isolated cities, not a relay chain. Whether this role persisted across the entire interwar period is still open. Full further detail TBD for DLC 4.
+Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster economy among the three nearby cities produced. **Established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** Soyuz, or a location near it, has its own functional airstrip — smaller and less advanced than Troll's, but real. For a substantial stretch of Tepenian history, this airstrip flew supplies directly to Dome Fuji, working alongside a parallel, separate route flown from Troll (Halley subnet) — two direct aviation lines converging on one of Tepenia's most isolated cities, not a relay chain. **Duration resolved 2026-07-05, left deliberately loose:** the route began sometime after Dome Fuji's pilgrimage resettlement (which itself came after Dome Fuji's original founding population departed post-Falkland Treaty) and ran until the Long Night War — no exact start date pinned. Full further detail TBD for DLC 4.
 
 ---
 

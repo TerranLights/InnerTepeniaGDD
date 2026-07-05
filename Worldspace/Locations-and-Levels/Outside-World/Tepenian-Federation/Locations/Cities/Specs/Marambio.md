@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 283,442 humans / 286,827 robots / **570,269** combined *(island cap)*
+**Census II (Orbital Era):** 195,623 humans / 234,522 robots / **430,145** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, UK, Spain, Canada, Mexico, Brazil |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Marambio sits on Seymour Island — Isla Marambio in Argentine notation — off the eastern coast of the Antarctic Peninsula, in the Weddell Sea. The island is separated from the main Peninsula body by the narrow Herbert Sound. At 64°14'S, it is south of Esperanza but still north of the Antarctic Circle; no polar night, no midnight sun.

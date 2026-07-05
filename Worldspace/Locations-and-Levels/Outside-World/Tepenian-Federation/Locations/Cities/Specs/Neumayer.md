@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 613,735 humans / 638,345 robots / **1,252,080** combined
+**Census II (Orbital Era):** 385,071 humans / 445,676 robots / **830,747** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany *(founding operator heritage)*, France, UK, Brazil |
+| Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Chile, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Neumayer sits on the Ekström Ice Shelf on the coast of Queen Maud Land — built directly on floating ice rather than on bedrock. The real-world Neumayer III is elevated on hydraulic legs to account for snow accumulation, a design innovation that Tepenian Neumayer inherited and extended into a full city. The ice shelf position means the city rests on ice that is moving — slowly, but measurably — toward the sea. Long-term city planning at Neumayer always had to account for the ice the city was built on.

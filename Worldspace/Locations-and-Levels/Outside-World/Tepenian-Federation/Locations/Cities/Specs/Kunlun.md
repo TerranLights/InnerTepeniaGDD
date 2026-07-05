@@ -10,11 +10,26 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 0 humans / 123,449 robots / **123,449** combined *(entirely robot, entirely Chinese)*
+**Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
+
+| Tier | Nations |
+|------|---------|
+| Primary | China *(exclusively)* |
+| Significant | *(none)* |
+| Notable | *(none)* |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Dome A — Dome Argus — is the highest point on the Antarctic Ice Sheet, at approximately 4,093 meters above sea level. Kunlun Station was established here by the Chinese National Antarctic Research Expedition (CHINARE) in 2009, making it the last major Antarctic station established before the first global war of 2083. The location was chosen for scientific purposes: Dome A is one of the best sites on Earth for optical astronomy (the air is calm, dry, and exceptionally stable), for ice core drilling (the ice sheet here is among the oldest and deepest on the continent), and for the study of conditions at the extreme edge of Earth's habitability.
 
-At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. Whether any human community has survived at Kunlun through the centuries since the exile era is one of the most uncertain facts about any Tepenian city.
+At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. **Resolved 2026-07-05** (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline"): no human population has survived at Kunlun, and human presence is now outright forbidden — not out of any anti-human sentiment, but as a genuine safety measure, since the combined altitude and cold would kill a human where a robot is unaffected. Kunlun is 0 humans / 123,449 robots today by settled protective policy, not by ambiguous attrition.
 
 The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kunlun as its only *exclusively* Sinian Antarctic city *(Zhongshan is also Sinian-founded, but its population is broadly multinational rather than exclusive)*, making it the sole purely Sinian representative of one of the largest cultural communities in Tepenia at a location that can barely support a permanent population.
 
@@ -91,7 +106,7 @@ Kunlun's culture is the culture of people who chose to live somewhere they could
 
 The Sinian cultural inheritance at Kunlun carries particular weight: it is the only *exclusively* Sinian Tepenian city, making it the custodian of a purer, more concentrated strain of Sinian exile cultural continuity than Zhongshan's own more broadly multinational Sinian-founded community can offer. The pressure of that responsibility, at a location that challenges survival itself, gives Kunlun's cultural character a specific kind of intensity.
 
-Whether Kunlun's human population has survived, declined, or been effectively replaced by its robot population over the centuries since the Long Night War is the most significant open question about the city's current state.
+**Resolved 2026-07-05:** Kunlun has no human population and none is possible — human presence is forbidden as a protective safety measure (altitude + cold would be fatal), not from any anti-human sentiment. See Population & Composition, above.
 
 **Nationally known for:** Being the highest. Being Sinian. The astronomical observatory. The extreme altitude. Being at the absolute edge of what a city can be. As a pilgrimage site — arguably the primary sacred site in all of Tepenia — for practitioners of "Ice Cold Buddhism" (placeholder name — see Robot Religions in TODO).
 

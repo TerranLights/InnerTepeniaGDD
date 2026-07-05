@@ -10,6 +10,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 93,356 humans / 132,020 robots / **225,376** combined *(island cap)*
+**Census II (Orbital Era):** 85,199 humans / 79,758 robots / **164,957** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Sayowa sits on East Ongul Island, a small island off the Prince Harald Coast in Lützow-Holm Bay. The island position — separated from the Antarctic mainland by Lützow-Holm Bay — gives Sayowa a maritime character distinct from the Mac.Robertson Land coastal cities. The bay is sea-ice covered in winter and accessible by icebreaker in summer.

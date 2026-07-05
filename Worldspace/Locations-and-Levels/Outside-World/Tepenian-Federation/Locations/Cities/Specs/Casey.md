@@ -8,6 +8,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 733,795 humans / 761,936 robots / **1,495,731** combined
+**Census II (Orbital Era):** 436,922 humans / 605,109 robots / **1,042,031** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China, USA |
+| Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — shortest Australia-to-Antarctica route of any Tepenian city)* |
+| Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Casey sits on the Budd Coast of Wilkes Land, at Vincennes Bay — an inlet of the Southern Ocean on the East Antarctic coast. Its latitude of 66°16'S places it just north of the Antarctic Circle (66°33'S), which means it sits almost exactly on the threshold of the polar zone. The sun rises every day of the year, but winter days are very short — barely five hours of light around the solstice, with the sun tracking low across the horizon before disappearing again. In summer, the inverse: nearly nineteen hours of daylight.

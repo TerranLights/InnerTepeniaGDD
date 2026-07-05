@@ -94,7 +94,9 @@ Lazar's whole civic self-understanding is built on not having one clean founding
 
 ## 9. Architecture
 
-Visibly two-toned: an older, denser core built on the real Novolazarevskaya station's continuously-maintained infrastructure, and a newer, more sprawling secondary district grown from the once-unoccupied Maitri site — genuine environmental storytelling built into the city's own layout, distinguishing it from every other Halley subnet city's more architecturally unified character. Now layered with real, visible war damage from the Long Night War.
+Visibly two-toned: an older, denser core built on the real Novolazarevskaya station's continuously-maintained infrastructure, and a newer, more sprawling secondary district grown from the once-unoccupied Maitri site — genuine environmental storytelling built into the city's own layout, distinguishing it from every other Halley subnet city's more architecturally unified character. Now layered with real, visible war damage from the Long Night War. *(Confirmed 2026-07-05, developer vision session — see `City_Vision_Notes/Lazar.md`:)* This same old-core/new-expansion split is a strong candidate to extend into a genuine "dual personality" for the city as a whole, not just its skyline — not yet locked in, flagged for further development.
+
+**Skyline and transit, established 2026-07-05:** Tall, genuine highrises, the city extending in every direction — visually confirming Lazar's status as Tepenia's largest city. Despite the obvious scale and constant activity (people moving to and from work and obligations at all times), the city reads as quieter than its size would suggest, thanks to its transit network: maglev ground transit as the primary mode, electric transit as a secondary layer, plus elevated transit above street level. Multicolored lights and holographic advertisements fill the air — genuine megacity commercial presence, though what's actually driving an economy this large and visible is still unresolved (see Economy & Industry, below).
 
 ---
 

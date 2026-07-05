@@ -78,6 +78,14 @@ What exactly a robot experiences when smoking varies by individual and is delibe
 
 ---
 
+## Human-Robot Relations — Project-Wide Baseline
+
+*(Established 2026-07-05, generalized from a Sanay developer-vision session — see `Cities/City_Vision_Notes/Sanay.md`.)* Sanay's specific labor dynamic — roughly equal division of labor between humans and robots, with robots tending to hold the slightly better positions (a quiet reflection of Tepenia being their country first), while robots hold genuine, unforced appreciation for the humans working alongside them, aware of what they gave up back on Upper Earth to be there — is not a Sanay-specific quirk. It's the **default baseline pattern across Tepenia as a whole**. Confirmed characterization: **"egalitarian, skewed in favor of robots."** Relations are overwhelmingly positive everywhere; where robots hold a real edge, it is not adversarial, resentful, or exploitative on either side.
+
+**The exception — locations where humans are outright forbidden, and why it isn't discrimination:** A small number of Tepenian locations (confirmed: **Kunlun**, **Dome Fuji**) forbid human presence entirely. This is **not** anti-human sentiment, animosity, or exclusionary policy in the ordinary sense — it is a genuine safety measure. The combination of extreme altitude and extreme cold at these specific sites would kill a human; robots, with no respiratory system and different thermal-regulation physiology, are unaffected. Humans are kept out of these locations the way people keep each other out of a minefield, not the way a closed club keeps people out. This closes what `Specs/Kunlun.md` had previously framed as an open, uncertain question ("whether any human community has survived... is one of the most uncertain facts about the city") — the resolved answer is that no humans live there, by settled protective policy, not by ambiguous attrition.
+
+---
+
 ## Sexuality
 
 Robots in Concordia are bisexual by default. They do not organize attraction by the gender of their partner. This applies universally across all robot characters — companions and NPCs alike.
@@ -93,3 +101,4 @@ Human characters follow a related but not identical pattern *(updated 2026-07-03
 - **Glitch-coolant** — specialty coolant formulation producing a drunkenness-analog "glitching" effect; exact composition TBD; existence and the bohemian-variety/working-class-potency city-variation pattern confirmed canon; specific named drink varieties per city are open for future development
 - **Smoking prevalence** — how common is it among Concordia's robot population? Is it associated with particular districts, subcultures, or personality types? TBD during world development
 - **In-game presence** — which characters smoke, and in what contexts, is a character-by-character design question. Naizelle d'Edjordoś and Zhuldyz Serikbolatkyzy are confirmed smokers per reference imagery.
+- **Human-robot relations baseline** — confirmed canon Tepenia-wide: "egalitarian, skewed in favor of robots." Kunlun and Dome Fuji are the two confirmed locations where human presence is outright forbidden, purely as a protective safety measure (altitude + cold lethality), not from any anti-human sentiment. Whether any other extreme-environment Tepenian locations carry the same forbidden-for-safety status is open for future development.

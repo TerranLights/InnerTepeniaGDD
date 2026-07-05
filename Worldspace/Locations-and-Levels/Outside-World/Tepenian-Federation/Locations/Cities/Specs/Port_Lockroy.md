@@ -17,6 +17,21 @@ What resolves it instead is strategic irrelevance, not physical resilience — t
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 63,338 humans / 65,549 robots / **128,887** combined *(island cap)*
+**Census II (Orbital Era):** 53,703 humans / 42,203 robots / **95,906** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Mexico, Brazil |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Port Lockroy sits on Goudier Island — a small island inside the natural harbor of Port Lockroy, on the western coast of the Antarctic Peninsula near Wiencke Island. The harbor itself provides exceptional natural shelter; the surrounding waters are protected from open ocean swells by the island geometry. The Lemaire Channel lies to the south; the Peninsula spine rises behind the nearby mainland.

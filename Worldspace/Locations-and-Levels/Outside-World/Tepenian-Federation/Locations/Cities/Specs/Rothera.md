@@ -17,6 +17,21 @@ By population, Rothera (318,955 Census I, rank 31st *corrected 2026-07-03*) is a
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 153,760 humans / 163,689 robots / **317,449** combined *(island cap)*
+**Census II (Orbital Era):** 121,784 humans / 134,073 robots / **255,857** combined *(island cap)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Canada, Mexico, Brazil |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Rothera sits on Rothera Point, a headland on the eastern shore of Adelaide Island — a large island (approximately 120km long) on the west coast of the Antarctic Peninsula, separated from the mainland by the Gullet. Marguerite Bay lies to the south; the Lemaire Channel, one of the most dramatic maritime passages in Antarctica, lies to the north. The position is coastal, maritime, and sheltered relative to the open Drake Passage — which is why the BAS chose it.

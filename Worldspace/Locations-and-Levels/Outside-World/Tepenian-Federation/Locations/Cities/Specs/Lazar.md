@@ -30,6 +30,21 @@ See also: `Bharati_TBD.md` (Mawson subnet) for the same India-exclusion situatio
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 1,287,003 humans / 1,333,316 robots / **2,620,319** combined
+**Census II (Orbital Era):** 861,206 humans / 942,771 robots / **1,803,977** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | Germany, France, UK, Russia *(founding infrastructure heritage — co-located Novolazarevskaya station)*, Brazil |
+| Notable | Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 The Schirmacher Oasis is one of the rare ice-free areas in Antarctica — approximately 34km² of exposed bedrock and meltwater lakes, surrounded by the ice sheet on all sides. It is a genuinely different landscape from the surrounding plateau: rocky, meltwater-channeled in summer, with liquid water visible in ways most of Antarctica never offers. The oasis holds two real-world station sites close together — Novolazarevskaya and Maitri — a real, physical proximity that Tepenia's founding history builds directly on.
@@ -95,7 +110,7 @@ Lazar's civic identity is built on being a genuine merger rather than a single f
 ---
 
 ## Economy & Industry
-Oasis resources (meltwater lakes, exposed bedrock, the unique microclimate), Halley subnet internal trade, whatever institutional legacy Novolazarevskaya's real logistics-hub role (part of the real-world DROMLAN air network) carried into Tepenia. Full detail TBD for DLC 5.
+Oasis resources (meltwater lakes, exposed bedrock, the unique microclimate), Halley subnet internal trade, whatever institutional legacy Novolazarevskaya's real logistics-hub role (part of the real-world DROMLAN air network) carried into Tepenia. Full detail TBD for DLC 5. *(Developer vision session, 2026-07-05 — see `City_Vision_Notes/Lazar.md`:)* The city visibly supports genuine megacity-scale commercial density — holographic advertisements and multicolored lights throughout — but what's actually driving an economy large enough to justify that presence is explicitly unresolved and flagged as needing real development, not just a placeholder gap.
 
 ---
 
@@ -104,6 +119,7 @@ Oasis resources (meltwater lakes, exposed bedrock, the unique microclimate), Hal
 - **The oasis-ice boundary** — where the exposed rock terrain transitions to the surrounding ice sheet; a visually dramatic edge
 - **The old Novolazarevskaya core** — the city's original, denser settlement district
 - **The former Maitri expansion** — the city's newer, more sprawling secondary district, built on the once-unoccupied station site
+- **The maglev/elevated transit network** *(established 2026-07-05)* — maglev ground transit as the primary mode, electric transit secondary, plus transit elevated above street level; the reason a city with genuine highrise density and constant activity still reads as quieter than its scale would suggest
 - Additional locations: TBD for DLC 5
 
 ---

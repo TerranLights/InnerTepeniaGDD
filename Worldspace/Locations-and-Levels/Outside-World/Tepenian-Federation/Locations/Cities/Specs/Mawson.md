@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 709,729 humans / 737,004 robots / **1,446,733** combined
+**Census II (Orbital Era):** 427,321 humans / 525,125 robots / **952,446** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Notable | Poland, Netherlands, Thailand, Czech Republic, Ukraine, Vietnam, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Mawson sits on Horseshoe Harbour in Holme Bay, Mac.Robertson Land — the East Antarctic coast facing the Indian Ocean. The position is coastal, with direct maritime access to the Prydz Bay region and the broader Indian Ocean Antarctic coastline. Mac.Robertson Land is one of the most rugged stretches of the East Antarctic coast, with the Prince Charles Mountains visible to the south.

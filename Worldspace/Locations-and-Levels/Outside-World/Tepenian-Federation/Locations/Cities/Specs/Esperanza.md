@@ -9,6 +9,21 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 955,337 humans / 922,950 robots / **1,878,287** combined
+**Census II (Orbital Era):** 502,654 humans / 675,385 robots / **1,178,039** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA |
+| Significant | UK, Mexico, Brazil, Argentina |
+| Notable | Chile *(founding wave)*, Uruguay |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+---
+
 ## Geographic Basis
 
 Esperanza sits on Hope Bay at the northern tip of the Trinity Peninsula — the northernmost arm of the main Antarctic Peninsula landmass, facing the Weddell Sea to the east. It is one of the northernmost cities in Tepenia, at 63°24'S well north of the Antarctic Circle, with no polar night and no midnight sun. The sun rises and sets every day of the year. The eastern Peninsula coast has a different character from the western coast (Rothera's side) — the Weddell Sea influence makes it colder and drier than the maritime west, though still mild by Antarctic standards.
