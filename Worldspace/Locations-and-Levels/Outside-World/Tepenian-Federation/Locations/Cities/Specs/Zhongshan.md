@@ -2,9 +2,9 @@
 
 **Based on:** Zhongshan Station (China / Chinese National Antarctic Research Expedition — CHINARE), Prydz Bay, Larsemann Hills area (~69°22'S, 76°22'E)
 **Status:** Damaged; partially operational
-**Arcanet Subnet:** Mirny ("Australian") *(corrected 2026-07-03 — this file previously said "Mawson," conflicting with `Official_Population_Census.md` and `City_Relationship_Database.md`, both of which agree on Mirny; geographically part of the same Larsemann Hills cluster as Soyuz and the Japanese city (cf. Bharati), both Mawson subnet, but organized into a different Arcanet subnet by cable routing rather than strict geographic proximity — the same pattern as Dome Fuji/Kunlun's own subnet assignments)*
+**Arcanet Subnet:** Mirny ("Australian") *(corrected 2026-07-03 — this file previously said "Mawson." Then, 2026-07-05: Soyuz and the Japanese city (cf. Bharati) — Zhongshan's own immediate Larsemann Hills neighbors — were moved to join Zhongshan in Mirny, resolving the earlier cross-subnet cluster split. See `TODO.md` for the full reasoning.)*
 **Highway access:** TBD — Larsemann Hills cluster; part of the Prydz Bay group with Soyuz and the Japanese city (cf. Bharati); Mirny subnet coastal road network
-**Significance:** Sinian Federation Tepenian city, now confirmed Mirny subnet (same subnet as Kunlun); Sinian/Chinese-founded but with a broadly multinational overall composition — distinct from Kunlun, Tepenia's only *exclusively* Sinian city *(clarified 2026-07-03 — see `Specs/Kunlun.md`)*; named after Sun Yat-sen — "Zhongshan" was Sun Yat-sen's courtesy name and is a major honorific in Chinese political culture; Chinese National Antarctic Research Expedition (CHINARE) heritage; one of the three Larsemann Hills cluster cities (geographically alongside two Mawson subnet cities, despite its own Mirny subnet membership)
+**Significance:** Sinian Federation Tepenian city, Mirny subnet (same subnet as Kunlun, and as of 2026-07-05, Soyuz and the Japanese city too); Sinian/Chinese-founded but with a broadly multinational overall composition — distinct from Kunlun, Tepenia's only *exclusively* Sinian city *(clarified 2026-07-03 — see `Specs/Kunlun.md`)*; named after Sun Yat-sen — "Zhongshan" was Sun Yat-sen's courtesy name and is a major honorific in Chinese political culture; Chinese National Antarctic Research Expedition (CHINARE) heritage; one of the three Larsemann Hills cluster cities, all three now sharing the same Mirny subnet membership
 **DLC:** Mirny subnet *(corrected 2026-07-03, see above)*; damaged but partially operational
 
 ---
@@ -26,7 +26,7 @@
 
 ## Geographic Basis
 
-Zhongshan sits at nearly the same coordinates as Soyuz — both are in the Larsemann Hills, both face Prydz Bay. The two cities are immediate neighbors, their founding infrastructures within a few kilometers of each other. Together with the city based at the former Bharati Station location, the Larsemann Hills cluster is the Mawson subnet's equivalent of King George Island: multiple cities in extremely close proximity.
+Zhongshan sits at nearly the same coordinates as Soyuz — both are in the Larsemann Hills, both face Prydz Bay. The two cities are immediate neighbors, their founding infrastructures within a few kilometers of each other. Together with the city based at the former Bharati Station location, the Larsemann Hills cluster is the Mirny subnet's equivalent of King George Island: multiple cities in extremely close proximity.
 
 The Prydz Bay position gives Zhongshan maritime access to the broader East Antarctic coast and the Indian Ocean. Chinese icebreaker routes to Prydz Bay were among the most active Chinese Antarctic logistics operations in the pre-exile era; this maritime heritage carries into the exile city.
 
@@ -62,7 +62,7 @@ The immediate proximity to Soyuz (Russian) and the former-Bharati location (TBD 
 ---
 
 ## Economy & Industry
-Prydz Bay maritime logistics, scientific research, cluster economy with Soyuz and the former-Bharati city. The Sinian Federation's investment gave Zhongshan more economic weight than its city size alone would suggest. Full detail TBD for DLC 4.
+Prydz Bay maritime logistics, scientific research, cluster economy with Soyuz and the former-Bharati city. The Sinian Federation's investment gave Zhongshan more economic weight than its city size alone would suggest. Full detail TBD for DLC 7.
 
 ---
 
@@ -90,6 +90,6 @@ Zhongshan's legacy is the demonstration of scale — a Sinian Federation city in
 
 ## Open Questions
 - **The Sinian Federation's Tepenia-wide arc** — Zhongshan and Kunlun represent two very different Sinian Tepenian experiences: one in a dense coastal cluster, one at the highest, coldest, most spiritually significant point on the continent; how do these two communities relate to a shared Sinian identity?
-- **The Sinian-Russian cluster relationship** — Zhongshan and Soyuz are immediate neighbors; the history of that relationship is a key story spanning both the Mirny subnet (Zhongshan) and the Mawson subnet (Soyuz) *(corrected 2026-07-04 — previously just "Mawson subnet," which mischaracterized Zhongshan's own confirmed Mirny subnet membership)*
+- **The Sinian-Russian cluster relationship** — Zhongshan and Soyuz are immediate neighbors; the history of that relationship is a key story now entirely within the Mirny subnet, both cities sharing the same membership as of 2026-07-05
 - **Demonym** — TBD; "Zhongshaners"? something Chinese?
 - **Notable figures** — TBD

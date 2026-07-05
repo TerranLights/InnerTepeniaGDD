@@ -79,12 +79,12 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 ### Mawson Subnet — Indian Ocean / East Antarctic
 *No colloquial name*
 
+*(Soyuz and Bharati_TBD moved to the Mirny Subnet section, below — corrected 2026-07-05. See `TODO.md` for the geographic reasoning.)*
+
 | City | Status |
 |------|--------|
 | Mawson | Surviving |
-| Bharati_TBD | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation, final name TBD; see `Specs/Bharati_TBD.md`)* |
 | Sayowa | Surviving *(damaged; partially operational — confirmed 2026-07-03; critical Hwy 37/Hwy 7-ext junction connecting the Mawson subnet to Concordia and the Halley subnet; see `Specs/Sayowa.md`)* |
-| Soyuz | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); see `Specs/Soyuz.md`)* |
 | Dome Fuji | Surviving — too high for humans; received a real robot population 2026-07-04 (55,072, nationally blended — "Ice Cold Buddhism" pilgrimage community; see `Specs/Dome_Fuji.md`) *(added 2026-07-04 — previously missing from this table entirely, an asymmetry with Kunlun's own entry below, caught during a consistency audit)* |
 
 ---
@@ -100,6 +100,8 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Zhongshan | Surviving |
 | Vostok | Surviving |
 | Kunlun | Surviving — too high for humans; received a real robot population 2026-07-04 (123,449, 100% Chinese; see `Specs/Kunlun.md`) |
+| Bharati_TBD | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation, final name TBD; subnet corrected 2026-07-05, moved from Mawson; see `Specs/Bharati_TBD.md`)* |
+| Soyuz | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); subnet corrected 2026-07-05, moved from Mawson; see `Specs/Soyuz.md`)* |
 
 ---
 

@@ -263,7 +263,7 @@ The dominant attitude is not rage — rage would require ongoing engagement with
 
 - **Mirny:** Respectful and quietly competitive. Mirny is the subnet hub; Zhongshan is larger and older and both parties know it. The relationship functions, but Zhongshan does not consider itself subordinate.
 - **Davis:** Close geographic proximity in Prydz Bay; similar East Asian composition but Davis carries stronger Australian founding wave influence — warmer and more extroverted. Friendly rivalry: Zhongshan considers Davis somewhat loud; Davis considers Zhongshan somewhat cold. Both are correct.
-- **Soyuz (destroyed):** Zhongshan's Russian community felt Soyuz's destruction with particular sharpness — Soyuz was the primarily Russian-founded city in the region. Some of Soyuz's diaspora migrated to Zhongshan specifically. Their presence is part of the current city.
+- **Soyuz:** *(Corrected 2026-07-05 — this entry previously said "destroyed" and described a diaspora-migration relationship, contradicting the 2026-07-03 correction that resolved Soyuz as damaged-but-functional, effectively co-located with Zhongshan at nearly identical coordinates. Soyuz and Zhongshan now also share the same Mirny subnet membership, joined 2026-07-05 — see `TODO.md`.)* Zhongshan's closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact between the Sinian and Russian populations, the region's closest parallel to Sejong's own King George Island density.
 - **Janbogo:** A distant relationship — different subnet, different cultural register entirely. Zhongshan people find Janbogo's commercial intensity somewhat overwhelming. Janbogo people find Zhongshan opaque.
 
 ---
@@ -341,7 +341,7 @@ Ji-Eun Kim arrived in Zhongshan as a visitor and reached something approaching r
 
 - **[Placeholder — the founding arrival]** — the first wave of Sinian defectors establishing the settlement; the origin of the name Zhongshan
 - **[Placeholder — the Russian integration era]** — the period in which the Russian community became culturally embedded; not a single event but remembered as a distinct era, its endpoint marked by the emergence of the shared tea-and-samovar tradition
-- **[Placeholder — Soyuz's destruction]** — the Long Night War event most personally felt by Zhongshan's Russian community; the influx of Soyuz diaspora that followed changed the city's Russian population in ways still visible
+- **[Placeholder — the Long Night War strike on the cluster]** — *(corrected 2026-07-05: Soyuz was not destroyed — both it and Zhongshan were resolved as damaged-but-functional 2026-07-03, given their near-identical real-world coordinates)* — whatever the war actually did to this tightly co-located cluster, felt by both cities simultaneously given how close together they sit; specifics TBD
 - **[Placeholder — a defining literary or musical premiere]** — the work considered to most completely define Zhongshan's cultural identity; specific work TBD
 
 ---

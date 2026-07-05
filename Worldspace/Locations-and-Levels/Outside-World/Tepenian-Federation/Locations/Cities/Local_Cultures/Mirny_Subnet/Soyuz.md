@@ -4,12 +4,12 @@
 
 ---
 
-**Subnet:** Mawson
+**Subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining its immediate Larsemann Hills neighbor Zhongshan, already Mirny subnet; real-world geography places the cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`.)*
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "destroyed" — see note above and `Specs/Soyuz.md`)*
 **Census Population:** 521,255 humans / 552,346 robots / 1,073,601 combined (Census I, rank 16th); 437,854 humans / 450,438 robots / 888,292 combined (Census II, rank 11th)
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°22'S, 76°22'E)
 
-**One-liner:** *A city that named itself after a spacecraft rather than a place or a person — ambition chosen deliberately over nostalgia, in the densest multinational cluster the Mawson subnet had, badly hit by the Long Night War but standing still, alongside its effectively co-located neighbor Zhongshan.*
+**One-liner:** *A city that named itself after a spacecraft rather than a place or a person — ambition chosen deliberately over nostalgia, in the densest multinational cluster the Mirny subnet has, badly hit by the Long Night War but standing still, alongside its effectively co-located neighbor Zhongshan.*
 
 ---
 
@@ -25,7 +25,7 @@
 | Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
-*Soyuz carries a genuinely layered founding structure, unusual even by Tepenian standards: Russia held the actual founding-operator role (inheriting Progress Station's infrastructure), while Australia's founding-wave arrived early via the same subnet-hub proximity that shaped Mawson itself. Both nations sit at Significant tier — diluted like every Mawson subnet founding presence, but by the same China-Primary demographic current that reshaped the whole subnet, not by each other.*
+*Soyuz carries a genuinely layered founding structure, unusual even by Tepenian standards: Russia held the actual founding-operator role (inheriting Progress Station's infrastructure), while Australia's founding-wave arrived early via the same regional coastal proximity that shaped Mawson itself, back when Soyuz was still counted in that subnet. Both nations sit at Significant tier — diluted, like most Tepenian founding presences, by the same China-Primary demographic current that reshaped this whole corner of the continent, not by each other.*
 
 ---
 
@@ -67,7 +67,7 @@ Soyuz's civic identity was built on a foundational choice its residents made abo
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** Ambition and forward motion are civic values, embedded directly in the city's own chosen name.
-- **b. Hospitality character** — Practiced and diplomatic, shaped by the Larsemann Hills cluster's genuine multinational density — the closest Mawson subnet parallel to Sejong's King George Island situation.
+- **b. Hospitality character** — Practiced and diplomatic, shaped by the Larsemann Hills cluster's genuine multinational density — the closest Mirny subnet parallel to Sejong's King George Island situation.
 - **c.** Paced by the oasis's own microclimate and the practical demands of cluster coexistence.
 - **d. Public/private divide** — Cluster boundary zones with Zhongshan and the neighboring city were real, negotiated civic geography; internal Russian-Australian cultural life remained comparatively private.
 - **e. Privacy as civic value** — Moderate, similar to Sejong's situation — a cluster city doesn't have full anonymity, but internal community life retained genuine privacy.
@@ -106,7 +106,7 @@ Built on inherited Russian Progress Station infrastructure, adapted to the Larse
 
 ## 11. Fashion
 
-A genuine blend of Russian, Australian, and Chinese aesthetic influences, cross-pollinated by the Larsemann Hills cluster's density — distinct from more singularly-founded Mawson subnet cities.
+A genuine blend of Russian, Australian, and Chinese aesthetic influences, cross-pollinated by the Larsemann Hills cluster's density — distinct from more singularly-founded Mirny subnet cities.
 
 ---
 
@@ -129,7 +129,7 @@ Genuinely mixed, spanning Russian and Australian founding traditions alongside c
 - **Sound:** Genuinely multilingual — Russian, English, Chinese all part of daily soundscape given the cluster's density.
 - **Smell:** Cold, dry, oasis-microclimate air, similar in character to Lazar's Schirmacher Oasis.
 - **Feel:** Forward-looking and ambitious, tempered by the practical, constant work of cluster coexistence.
-- **First impressions for visitors:** The Larsemann Hills' ice-free oasis terrain first, then quickly the genuine density of a multinational cluster unlike most of the rest of the Mawson subnet.
+- **First impressions for visitors:** The Larsemann Hills' ice-free oasis terrain first, then quickly the genuine density of a multinational cluster unlike most of the rest of the Mirny subnet.
 
 ---
 
@@ -197,9 +197,9 @@ Filtered through Russia's own space-age achievement and Arctic/Antarctic researc
 
 ## 23. Relationship to Other Cities
 
-- **Bharati (west, Hwy 4):** Direct highway neighbor, and fellow Larsemann Hills cluster city.
-- **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact, the Mawson subnet's closest parallel to Sejong's King George Island situation.
-- **Mirny (Mirny subnet):** The Russian exile community was split between Soyuz (Mawson subnet) and Mirny (Mirny subnet) — two Russian cities in different subnets, representing the geographic spread of Russian exile presence in Tepenia. Both cities are now damaged but functional post-war — what contact, if any, exists between them today is an open question.
+- **Bharati (west, Hwy 4):** Direct highway neighbor, and fellow Larsemann Hills cluster city, now sharing the same Mirny subnet membership.
+- **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact, the Mirny subnet's closest parallel to Sejong's King George Island situation.
+- **Mirny (the city):** *(Updated 2026-07-05 — this relationship changed in nature, not just detail, once Soyuz joined the Mirny subnet.)* Previously notable as two Russian communities split across different subnets; now both cities share the same Arcanet subnet membership, which reframes the relationship from "geographic spread of Russian exile presence" toward a genuine internal-subnet tie — two Russian cities that are now, politically, part of the same regional network. Both cities are damaged but functional post-war — what contact, if any, exists between them today is an open question, though the shared subnet membership makes ongoing contact more plausible than before.
 
 ---
 

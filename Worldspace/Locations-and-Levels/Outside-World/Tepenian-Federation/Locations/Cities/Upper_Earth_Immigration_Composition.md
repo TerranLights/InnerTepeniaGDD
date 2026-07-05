@@ -454,7 +454,7 @@ Same geographic position as Janbogo.
 
 ---
 
-### Soyuz *(Larsemann Hills, Prydz Bay — Destroyed)*
+### Soyuz *(Larsemann Hills, Prydz Bay — Mirny subnet as of 2026-07-05, moved from Mawson; status is damaged/partially operational, not destroyed — this header's "Destroyed" tag predates the 2026-07-03 correction, see `Specs/Soyuz.md`)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -666,8 +666,8 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 12 | **Zhongshan** | Mirny | 881,000 | 881,000 | **1,762,000** |
 | 13 | **Cape Adare** | Janbogo | 861,000 | 861,000 | **1,722,000** |
 | 14 | **Juan Carlos** | Palmer | 848,000 | 848,000 | **1,695,000** |
-| 15 | **Bharati_TBD** | Mawson | 843,000 | 843,000 | **1,686,000** |
-| 16 | **Soyuz** *(destroyed)* | Mawson | 838,000 | 838,000 | **1,675,000** |
+| 15 | **Bharati_TBD** | Mirny *(corrected 2026-07-05, moved from Mawson)* | 843,000 | 843,000 | **1,686,000** |
+| 16 | **Soyuz** *(this table's "destroyed" tag is stale — Soyuz was corrected 2026-07-03 to damaged/partially operational; see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05, moved from Mawson)* | 838,000 | 838,000 | **1,675,000** |
 | 17 | **Aboa** | Halley | 809,000 | 809,000 | **1,617,000** |
 | 18 | **Davis** | Mirny | 805,000 | 805,000 | **1,611,000** |
 | 19 | **Mirny** | Mirny | 790,000 | 790,000 | **1,579,000** |
@@ -710,7 +710,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 
 **The Ross Sea/Janbogo subnet is the most populous subnet overall** (~11.5M combined), driven by the China+USA T1 co-primary composition across six cities. The Mawson and Halley subnets are nearly equal in size despite very different compositions — Mawson's China-only T1 with large East Asian T2 cluster versus Halley's USA T1 with European T2 cluster.
 
-**Two major cities were destroyed in the Long Night War:** Zukelli (~1,975,000 total) and Soyuz (~1,675,000 total). Combined: ~3,650,000 people — a loss greater than the entire Palmer subnet's human population. Belgrano (~816,000 total) became ruins in the DLC 5 timeframe.
+**One major city was destroyed in the Long Night War: Zukelli** (~1,975,000 total). *(Corrected 2026-07-05 — this line previously also counted Soyuz as destroyed at ~1,675,000, predating Soyuz's 2026-07-03 correction to damaged/partially operational; see `Specs/Soyuz.md` and `Official_Population_Census.md`'s own already-corrected "combined losses" figure.)* Belgrano (~816,000 total) became ruins in the DLC 5 timeframe.
 
 **The Intermarium/Intermaria bloc collectively contributes ~1.2M human exiles** distributed across QML and Mawson cities, constituting the second-largest European cultural community after the Germany-France-UK-Italy core. As a political meta-nation, their community cohesion in Tepenia exceeds their individual national sizes suggest.
 
@@ -762,12 +762,12 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 8 | **Mirny** | Mirny | 790K | **1,071K** | **2,143K** | Mainland coast; receives DdU + Sayowa overflow |
 | 9 | **Neumayer** | Halley | 639K | **999K** | **1,997K** | Ice shelf coast; absorbs Peninsula island overflow |
 | 10 | **Zhongshan** | Mirny | 881K | **987K** | **1,974K** | Mainland coast; receives Sayowa overflow |
-| 11 | **Bharati_TBD** | Mawson | 843K | **914K** | **1,828K** | Mainland coast; receives Sayowa overflow |
+| 11 | **Bharati_TBD** | Mirny *(corrected 2026-07-05)* | 843K | **914K** | **1,828K** | Mainland coast; receives Sayowa overflow |
 | 12 | **Davis** | Mirny | 805K | **911K** | **1,823K** | Mainland coast; receives Sayowa overflow |
 | 13 | Amundsen Station | Amundsen | 904K | 904K | 1,808K | South Pole; multi-corridor, no island cap |
 | 14 | Princess Elisabeth | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
 | 15 | **Belgrano** *(ruins, DLC 5)* | Halley | 408K | **854K** | **1,708K** | Mainland coast; absorbs Peninsula island overflow |
-| 16 | Soyuz *(destroyed)* | Mawson | 838K | 838K | 1,675K | Mainland coast; no change |
+| 16 | Soyuz *(this table's "destroyed" tag is stale — see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05)* | 838K | 838K | 1,675K | Mainland coast; no change |
 | 17 | Aboa | Halley | 809K | 809K | 1,618K | Inland; no change |
 | 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
 | 19 | Troll | Halley | 750K | 750K | 1,501K | Inland; no change |
@@ -881,11 +881,11 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 9 | Zhongshan | Mirny | 634,485 | **1,284,494** | |
 | 10 | Neumayer | Halley | 616,805 | **1,258,342** | |
 | 11 | Zukelli | Janbogo | 611,905 | **1,247,316** | *(destroyed; revised 2026-07-03)* |
-| 12 | Bharati_TBD | Mawson | 578,925 | **1,183,333** | |
+| 12 | Bharati_TBD | Mirny *(corrected 2026-07-05)* | 578,925 | **1,183,333** | |
 | 13 | Davis | Mirny | 567,640 | **1,166,618** | |
 | 14 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
 | 15 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
-| 16 | Soyuz | Mawson | 521,255 | **1,073,601** | *(destroyed)* |
+| 16 | Soyuz | Mirny *(corrected 2026-07-05)* | 521,255 | **1,073,601** | *(this table's "destroyed" tag is stale — see `Specs/Soyuz.md`)* |
 | 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
 | 18 | Aboa | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
@@ -1085,7 +1085,7 @@ These two passes are the last step. They do not change the analytical meaning of
 
 Approximately 31.9 million people — human and robot — lived in Tepenia before the Long Night War. For scale, this is a mid-sized nation-state: comparable to Peru, Venezuela, or Malaysia. It is not a superpower. It is a community.
 
-Of that combined population, two cities no longer exist. **Zukelli** (~1,732,000 combined pre-war) and **Soyuz** (~1,073,000 combined pre-war) were destroyed in the Long Night War. Together they represent approximately 2.8 million people — a city the size of Chicago — annihilated. **Belgrano** survives as ruins by the time of Inner Tepenia's events (it is the setting for DLC 5). Its pre-war population was ~1,080,000 combined.
+Of that combined population, one city no longer exists. **Zukelli** (~1,732,000 combined pre-war) was destroyed in the Long Night War. *(Corrected 2026-07-05 — this line previously also listed Soyuz as destroyed at ~1,073,000 combined; that predates Soyuz's 2026-07-03 correction to damaged/partially operational, see `Specs/Soyuz.md`.)* **Belgrano** survives as ruins by the time of Inner Tepenia's events (it is the setting for DLC 5). Its pre-war population was ~1,080,000 combined.
 
 The three lost or ruined cities total approximately 3.9 million combined — roughly 12.5% of the entire pre-war Tepenian population.
 
@@ -1131,12 +1131,12 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 8 | **Janbogo** | Janbogo | 490,564 | **957,570** | *(revised 2026-07-03)* |
 | 9 | Mawson | Mawson | 427,321 | **952,446** | |
 | 10 | **Zukelli** | Janbogo | 443,754 | **937,659** | *(destroyed in Long Night War; revised 2026-07-03)* |
-| 11 | Soyuz | Mawson | 437,854 | **888,292** | *(destroyed in Long Night War)* |
+| 11 | Soyuz | Mirny *(corrected 2026-07-05)* | 437,854 | **888,292** | *(this table's "destroyed in Long Night War" tag is stale — Soyuz was corrected 2026-07-03 to damaged/partially operational; see `Specs/Soyuz.md`)* |
 | 12 | Belgrano | Halley | 429,820 | **837,768** | *(ruined in Long Night War; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | **766,762** | |
-| 16 | Bharati_TBD | Mawson | 336,124 | **728,324** | |
+| 16 | Bharati_TBD | Mirny *(corrected 2026-07-05)* | 336,124 | **728,324** | |
 | 17 | Troll | Halley | 323,650 | **671,832** | |
 | 18 | Aboa | Halley | 310,791 | **607,441** | |
 | — | ~~Framheim~~ | ~~Byrd~~ | ~~248,865~~ | ~~604,953~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |

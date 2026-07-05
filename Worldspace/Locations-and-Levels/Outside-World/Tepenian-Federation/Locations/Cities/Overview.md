@@ -66,8 +66,8 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 |---|---|---|---|---|
 | Sayowa | Syowa Station | Japan | Mawson | ~ Damaged / Partially operational |
 | **Mawson** *(subnet hub)* | Mawson Station | Australia | Mawson | ~ Damaged / Partially operational |
-| Japanese Diplomatic Partition *(cf. Bharati; name TBD)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mawson | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
-| Soyuz | Soyuz Station | Russia | Mawson | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Soyuz.md`)* |
+| Japanese Diplomatic Partition *(cf. Bharati; name TBD)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
+| Soyuz | Soyuz Station | Russia | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Soyuz.md`)* |
 | Zhongshan | Zhongshan Station | Sinian Federation | Mirny ("Australian") | ~ Damaged / Partially operational |
 | Davis | Davis Station | Australia | Mirny ("Australian") | ~ Damaged / Partially operational |
 

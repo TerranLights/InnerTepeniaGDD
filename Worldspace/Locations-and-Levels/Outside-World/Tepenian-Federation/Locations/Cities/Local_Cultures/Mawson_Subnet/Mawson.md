@@ -196,9 +196,10 @@ Filtered through the Australian Antarctic Territory's own real territorial histo
 
 ## 23. Relationship to Other Cities
 
-- **Bharati (east, Hwy 4):** Direct highway neighbor.
-- **Soyuz, Sayowa:** Fellow Mawson subnet cities, sharing the Indian Ocean-facing immigration pattern to varying degrees.
-- **Every Mawson subnet city:** As the confirmed subnet hub, Mawson's Arcanet connectivity ties every other Mawson subnet city together — a genuinely load-bearing structural relationship distinct from mere geographic proximity.
+- **Bharati (east, Hwy 4):** Direct highway neighbor, though *(corrected 2026-07-05)* no longer a fellow Mawson subnet city — Bharati moved to Mirny subnet alongside Soyuz and Zhongshan; the highway connection persists regardless. See `TODO.md`.
+- **Soyuz:** *(Corrected 2026-07-05)* No longer a fellow Mawson subnet city — Soyuz moved to Mirny subnet, joining its immediate Larsemann Hills neighbor Zhongshan. Still connected via Hwy 4 through Bharati; the highway network is unaffected by the subnet reassignment.
+- **Sayowa:** Fellow Mawson subnet city, sharing the Indian Ocean-facing immigration pattern.
+- **Every Mawson subnet city:** As the confirmed subnet hub, Mawson's Arcanet connectivity ties every other Mawson subnet city together — a genuinely load-bearing structural relationship distinct from mere geographic proximity. *(As of 2026-07-05, this subnet is down to Mawson, Sayowa, and Dome Fuji — Soyuz and Bharati moved to Mirny.)*
 
 ---
 

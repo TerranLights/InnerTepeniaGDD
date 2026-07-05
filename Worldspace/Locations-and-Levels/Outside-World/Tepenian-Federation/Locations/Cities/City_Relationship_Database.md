@@ -42,8 +42,8 @@ Six subnets, each named after its hub city. **Official names** are the hub city 
 |---|---|---|---|
 | **Palmer** | Palmer City | "American" | Palmer City, Rothera, Esperanza, Marambio, Sejong, Juan Carlos, Port Lockroy, Signy* |
 | **Halley** | Halley | "Atlantic" | Halley, Belgrano, Neumayer, Sanay, Troll, Aboa, Lazar, Princess Elisabeth |
-| **Mawson** | Mawson | *(none)* | Mawson, Sayowa, Soyuz, Bharati, Dome Fuji |
-| **Mirny** | Mirny | "Australian" | Mirny, Vostok, Kunlun, Casey, Zhongshan, Davis |
+| **Mawson** | Mawson | *(none)* | Mawson, Sayowa, Dome Fuji *(Soyuz and Bharati moved to Mirny 2026-07-05 — see below)* |
+| **Mirny** | Mirny | "Australian" | Mirny, Vostok, Kunlun, Casey, Zhongshan, Davis, Soyuz, Bharati *(latter two joined 2026-07-05 — real-world geography places the Larsemann Hills cluster far closer to Davis than to Mawson Station; see `TODO.md`)* |
 | **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Zukelli, Cape Adare, Dumont d'Urville, Cape Denison, Concordia |
 | **Byrd** | Byrd | "Pacific" | Byrd *(Framheim and Little America removed from canon 2026-07-03 — see their Specs files; Byrd is now the subnet's only city)* |
 
@@ -98,10 +98,10 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Real station:** Bharati Station (India) — infrastructure only; India's second Antarctic station, never occupied by an Indian exile population per established canon
 - **Region:** Indian Ocean coast
 - **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — resolved consistently alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities; see `Specs/Bharati_TBD.md`)*
-- **Arcanet subnet:** Mawson
+- **Arcanet subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson; real-world geography places the Larsemann Hills cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`. Highway network unaffected — Hwy 4 remains a physical road independent of Arcanet subnet boundaries.)*
 - **Highways:** Hwy 4 — midpoint
 - **Direct highway neighbors:** Mawson (west), Soyuz (east)
-- **Notes:** Founding population resolved 2026-07-03 as Japanese, via a pre-exile diplomatic allocation by the International Court of Diplomacy at Jeju-do (an Upper Earth institution) — a deliberate balancing decision given Korea's existing footholds (Janbogo, Sejong) and China's ubiquitous presence, including immediately adjacent at Zhongshan. Between Mawson and Soyuz on the Hwy 4 coastal link. City's final Japanese name still TBD — working title "Japanese Diplomatic Partition (cf. Bharati)." **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle), as part of the Mawson subnet coastal supply line.
+- **Notes:** Founding population resolved 2026-07-03 as Japanese, via a pre-exile diplomatic allocation by the International Court of Diplomacy at Jeju-do (an Upper Earth institution) — a deliberate balancing decision given Korea's existing footholds (Janbogo, Sejong) and China's ubiquitous presence, including immediately adjacent at Zhongshan. Between Mawson and Soyuz on the Hwy 4 coastal link. City's final Japanese name still TBD — working title "Japanese Diplomatic Partition (cf. Bharati)." **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle), as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership).
 
 ---
 
@@ -428,10 +428,10 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Real station:** Soyuz Station (Russia)
 - **Region:** Indian Ocean coast
 - **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart; differing survival outcomes made no physical sense; resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); see `Specs/Soyuz.md`)*
-- **Arcanet subnet:** Mawson
+- **Arcanet subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Zhongshan and Bharati_TBD in the Larsemann Hills cluster; real-world geography places it far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`. Highway network unaffected — Hwy 4 remains a physical road independent of Arcanet subnet boundaries.)*
 - **Highways:** Hwy 4 — eastern terminus
 - **Direct highway neighbors:** Bharati (west, Hwy 4)
-- **Notes:** Eastern terminus of Hwy 4; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Mawson subnet coastal supply line.
+- **Notes:** Eastern terminus of Hwy 4; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership).
 
 ---
 
@@ -473,7 +473,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Real station:** Zhongshan Station (Sinian Federation — China)
 - **Region:** Indian Ocean coast / East Antarctica
 - **Status:** Damaged; partially operational
-- **Arcanet subnet:** Mirny ("Australian")
+- **Arcanet subnet:** Mirny ("Australian") — as of 2026-07-05, its Larsemann Hills neighbors Soyuz and Bharati_TBD have joined it here too (moved from Mawson subnet; see `TODO.md`)
 - **Highways:** Hwy 110 (western terminus), Hwy 22 (eastern terminus — multi-highway junction here) ✓
 - **Direct highway neighbors:** Davis (east, Hwy 110), [Hwy 22 → interior → Hwy 175 junction → Byrd]
 - **Notes:** Named after Sun Yat-sen (courtesy name "Zhongshan") — well-respected historical figure; name retained under Sinian Federation ✓; major coastal junction where Hwy 22 and Hwy 110 meet. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mirny subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.

@@ -329,23 +329,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Soyuz** *(Larsemann Hills, Prydz Bay — mainland coast)* — *Damaged; partially operational (corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)*
-
-| Tier | Nations |
-|------|---------|
-| Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
-
----
-
-**Bharati_TBD** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; final proper name still TBD — see `Specs/Bharati_TBD.md`)*
-
-| Tier | Nations |
-|------|---------|
-| Primary | China |
-| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+*Soyuz and Bharati_TBD moved to the Mirny Subnet section, below — corrected 2026-07-05. Real-world geography places the Larsemann Hills cluster (Soyuz, Bharati_TBD, and Zhongshan, the latter already Mirny subnet) much closer to Davis (~110km, Mirny) than to Mawson Station (~570km). See `TODO.md` for full reasoning.*
 
 ---
 
@@ -419,6 +403,26 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
+**Soyuz** *(Larsemann Hills, Prydz Bay — mainland coast)* — *Damaged; partially operational; moved here from the Mawson Subnet section 2026-07-05 — see note above*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+---
+
+**Bharati_TBD** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; final proper name still TBD — see `Specs/Bharati_TBD.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above.)*
+
+| Tier | Nations |
+|------|---------|
+| Primary | China |
+| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+
+---
+
 **Vostok** *(East Antarctic Plateau — inland)*
 
 | Tier | Nations |
@@ -480,11 +484,11 @@ National communities are classified by tier based on long-run population share. 
 | 9 | Zhongshan | Mirny | 631,985 | 647,448 | **1,279,433** | *(revised 2026-07-04)* |
 | 10 | Zukelli | Janbogo | 627,584 | 631,067 | **1,258,651** | *(destroyed; revised 2026-07-04)* |
 | 11 | Neumayer | Halley | 613,735 | 638,345 | **1,252,080** | *(revised 2026-07-04)* |
-| 12 | Bharati_TBD | Mawson | 576,469 | 601,844 | **1,178,313** | *(revised 2026-07-04)* |
+| 12 | Bharati_TBD | Mirny | 576,469 | 601,844 | **1,178,313** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
 | 13 | Davis | Mirny | 563,599 | 594,715 | **1,158,314** | *(revised 2026-07-04)* |
 | 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
 | 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
-| 16 | Soyuz | Mawson | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04)* |
+| 16 | Soyuz | Mirny | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
 | 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | *(revised 2026-07-04)* |
 | 18 | Aboa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
 | 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged — excluded from the 2026-07-04 redistribution)* |
@@ -526,15 +530,15 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ### Subnet Totals — Census I
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. All subnets except Concordia's further revised 2026-07-04 for the Kunlun/Dome Fuji redistribution — Kunlun counts toward Mirny subnet, Dome Fuji toward Mawson subnet, per each city's established Arcanet subnet assignment.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. All subnets except Concordia's further revised 2026-07-04 for the Kunlun/Dome Fuji redistribution — Kunlun counts toward Mirny subnet, Dome Fuji toward Mawson subnet, per each city's established Arcanet subnet assignment. Mawson and Mirny further revised 2026-07-05 — Soyuz and Bharati_TBD moved from Mawson to Mirny subnet, joining Zhongshan in the Larsemann Hills cluster; pure reassignment, no population change.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 4,907,714 | 5,079,197 | **9,986,911** |
 | Janbogo / Ross Sea | 3,683,422 | 3,752,139 | **7,435,561** |
-| Mawson / Indian Ocean | 1,898,745 | 2,076,099 | **3,974,844** |
+| Mawson / Indian Ocean | 803,085 | 924,096 | **1,727,181** |
 | Palmer / Antarctic Peninsula | 2,221,356 | 2,226,563 | **4,447,919** |
-| Mirny / Wilkes Land + Plateau | 2,724,897 | 3,072,721 | **5,797,618** |
+| Mirny / Wilkes Land + Plateau | 3,820,557 | 4,224,724 | **8,045,281** |
 | Byrd / Ross Ice Shelf | 186,268 | 190,622 | **376,890** |
 | Amundsen / South Pole | 1,121 | 5,736 | **6,857** |
 | **TOTAL** | **15,623,523** | **16,403,077** | **32,026,600** |
@@ -606,13 +610,13 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | 8 | Janbogo | Janbogo | 490,564 | 467,006 | **957,570** | *(revised 2026-07-03)* |
 | 9 | Mawson | Mawson | 427,321 | 525,125 | **952,446** | |
 | 10 | Zukelli | Janbogo | 443,754 | 493,905 | **937,659** | *(destroyed in Long Night War; revised 2026-07-03)* |
-| 11 | Soyuz | Mawson | 437,854 | 450,438 | **888,292** | |
+| 11 | Soyuz | Mirny | 437,854 | 450,438 | **888,292** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 12 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(ruined; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
 | 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(destroyed in Long Night War)* |
-| 17 | Bharati_TBD | Mawson | 336,124 | 392,200 | **728,324** | |
+| 17 | Bharati_TBD | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section I)* |
 | 20 | Aboa | Halley | 310,791 | 296,650 | **607,441** | |
@@ -635,15 +639,15 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ### Antarctic Surface — Subnet Totals (Census II)
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures. Janbogo subnet further revised 2026-07-04 for Concordia's new Census II figures.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures. Janbogo subnet further revised 2026-07-04 for Concordia's new Census II figures. Mawson and Mirny further revised 2026-07-05 — Soyuz and Bharati_TBD moved from Mawson to Mirny subnet; pure reassignment, no population change.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
 | Halley / Queen Maud Land | 3,366,948 | 3,514,765 | **6,881,713** |
 | Janbogo / Ross Sea | 2,466,687 | 2,811,206 | **5,277,893** |
-| Mawson / Indian Ocean | 1,286,498 | 1,447,521 | **2,734,019** |
+| Mawson / Indian Ocean | 512,520 | 604,883 | **1,117,403** |
 | Palmer / Antarctic Peninsula | 1,461,594 | 1,724,720 | **3,186,314** |
-| Mirny / Wilkes Land + Plateau | 1,904,061 | 1,932,745 | **3,836,806** |
+| Mirny / Wilkes Land + Plateau | 2,678,039 | 2,775,383 | **5,453,422** |
 | Byrd / Ross Ice Shelf | 0 | 0 | **0** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
 | **TOTAL (Antarctic)** | **9,874,712** | **10,795,307** | **20,670,019** |
@@ -681,7 +685,7 @@ The following cities appear in both census records. They did not survive to the 
 **Zukelli** *(Terra Nova Bay, Janbogo Subnet)*
 Destroyed during the Long Night War. At time of destruction, Zukelli's combined population was approximately **1,302,000** — making it the second-largest city in the Federation by Orbital Era figures. Human retention rates immediately before the war were 72.5%; robot retention was 77.7%. Zukelli was not a depleted or declining city. It was near its peak population when it was destroyed.
 
-**Soyuz** *(Larsemann Hills / Prydz Bay, Mawson Subnet)* — *(corrected 2026-07-03: no longer destroyed)*
+**Soyuz** *(Larsemann Hills / Prydz Bay, Mirny Subnet)* — *(corrected 2026-07-03: no longer destroyed; subnet corrected 2026-07-05, moved from Mawson)*
 Reclassified 2026-07-03 from "Destroyed" to damaged/partially operational — Soyuz sits at effectively identical real-world coordinates to Zhongshan (a few hundred meters apart), and Zhongshan was already established as damaged, not destroyed; a differing outcome for Soyuz made no physical sense. Resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati). See `Specs/Soyuz.md`. No longer counted in the combined-losses total below.
 
 **Denison** *(Cape Denison, George V Land, Janbogo Subnet)*

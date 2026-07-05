@@ -3,16 +3,16 @@
 **Based on:** Progress Station (Russia / Arctic and Antarctic Research Institute), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E)
 **Tepenian name:** Soyuz — named after the Soyuz spacecraft and program, one of the most enduring symbols of Russian space-age achievement; the founding exile community chose to honor this legacy
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates (69°22'S, 76°22'E), only a few hundred meters apart in reality; one being destroyed while the other was merely damaged made no physical sense. Resolved alongside Zhongshan and the Japanese city (cf. Bharati) as all three "damaged, yet functional" — see the Larsemann Hills Cluster Status Note below.)*
-**Arcanet Subnet:** Mawson
-**Highway access:** TBD — Larsemann Hills position; part of the Prydz Bay cluster alongside Zhongshan and the Japanese city (cf. Bharati); Mawson subnet eastern road network
+**Arcanet Subnet:** Mirny *(corrected 2026-07-05 — the developer determined real-world geography places the Larsemann Hills cluster, ~110km from Davis, much closer to the Mirny subnet's own Prydz Bay anchor than to Mawson Station (~570km away); Soyuz and Bharati move to Mirny to join Zhongshan, already assigned there. See `TODO.md` for the full reasoning. Highway network implications for Hwy 4/Hwy 110 not yet resolved — flagged separately.)*
+**Highway access:** TBD — Larsemann Hills position; part of the Prydz Bay cluster alongside Zhongshan and the Japanese city (cf. Bharati); highway network reorganization pending following the subnet reassignment
 **Significance:** Russian Tepenian city in the Prydz Bay / Larsemann Hills cluster; named for the Soyuz spacecraft program; one of the densest multi-city clusters in Tepenia alongside Zhongshan and the Japanese city founded via Jeju-do diplomatic allocation (cf. Bharati); the Arctic and Antarctic Research Institute's operational heritage; Larsemann Hills ice-free oasis terrain (similar to the Schirmacher Oasis in the Halley subnet, though smaller)
-**DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational
+**DLC:** Mirny subnet — DLC 7 (Mirny Region) *(corrected 2026-07-05, moved from DLC 4/Mawson)*; damaged but partially operational
 
 ---
 
 ## Larsemann Hills Cluster Status Note (2026-07-03)
 
-Soyuz, Zhongshan, and the Japanese city (cf. Bharati) all sit within the same small Larsemann Hills oasis — Soyuz and Zhongshan at effectively identical coordinates (a few hundred meters apart in reality), the Japanese city about 8km away (comparable to the established Janbogo-Zukelli distance, though that pair *did* suffer different fates at that range). Given Soyuz and Zhongshan's near-total co-location, it made no physical sense for one to be destroyed while the other was merely damaged — any strike capable of leveling one would almost certainly have hit the other identically. All three cluster cities are now resolved as **damaged, yet functional**, consistent with each other. This reverses Soyuz's earlier "Destroyed" resolution and its own already-written cultural sheet, which now needs updating to match — see `Local_Cultures/Mawson_Subnet/Soyuz.md`.
+Soyuz, Zhongshan, and the Japanese city (cf. Bharati) all sit within the same small Larsemann Hills oasis — Soyuz and Zhongshan at effectively identical coordinates (a few hundred meters apart in reality), the Japanese city about 8km away (comparable to the established Janbogo-Zukelli distance, though that pair *did* suffer different fates at that range). Given Soyuz and Zhongshan's near-total co-location, it made no physical sense for one to be destroyed while the other was merely damaged — any strike capable of leveling one would almost certainly have hit the other identically. All three cluster cities are now resolved as **damaged, yet functional**, consistent with each other. This reverses Soyuz's earlier "Destroyed" resolution and its own already-written cultural sheet, which now needs updating to match — see `Local_Cultures/Mirny_Subnet/Soyuz.md` *(path corrected 2026-07-05 — the file itself physically moved from Mawson_Subnet/ to Mirny_Subnet/ the same day, alongside the Arcanet subnet reassignment)*.
 
 ---
 
@@ -35,7 +35,7 @@ Soyuz, Zhongshan, and the Japanese city (cf. Bharati) all sit within the same sm
 
 Soyuz sits in the Larsemann Hills — a small ice-free area on the Ingrid Christensen Coast of Princess Elizabeth Land, Prydz Bay. The Larsemann Hills are one of Antarctica's rare oasis areas: exposed bedrock, meltwater lakes, and the distinctive character of ice-free coastal terrain. At approximately 34km², the Hills are comparable to the Schirmacher Oasis (Lazar, the Halley subnet city built on the coalesced Novolazarevskaya/Maitri Station sites, also sits in such an oasis).
 
-Prydz Bay is the Mawson subnet's densest multi-city zone. Three cities occupy the Larsemann Hills and immediate vicinity: Soyuz (Russian-founded, based on Progress Station), Zhongshan (Chinese/Sinian, based on Zhongshan Station at nearly the same coordinates), and the city based on the former Bharati Station location (non-Indian founding population — see Bharati_TBD.md). The density is the closest parallel in the Mawson subnet to King George Island's multinational character in the Palmer subnet.
+Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 — this cluster's own subnet membership moved from Mawson to Mirny; see `TODO.md`)*. Three cities occupy the Larsemann Hills and immediate vicinity: Soyuz (Russian-founded, based on Progress Station), Zhongshan (Chinese/Sinian, based on Zhongshan Station at nearly the same coordinates), and the city based on the former Bharati Station location (non-Indian founding population — see Bharati_TBD.md). The density is the closest parallel in the Mirny subnet to King George Island's multinational character in the Palmer subnet.
 
 ### Annual Climate
 
@@ -105,7 +105,7 @@ Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster
 ---
 
 ## Connection to Concordia
-Mawson subnet. The Russian exile community's Tepenia presence was concentrated at Soyuz (and at Mirny, in the Mirny subnet). The two Russian cities in different subnets represent the geographic spread of Russian exile presence.
+Mirny subnet *(corrected 2026-07-05, moved from Mawson)*. The Russian exile community's Tepenia presence was concentrated at Soyuz and at Mirny (the city). **Updated 2026-07-05:** with Soyuz's move into the Mirny subnet, these are no longer two Russian cities split across different subnets — they now share the same Arcanet subnet membership, a genuine change in relationship, not just a geographic curiosity.
 
 ---
 
@@ -116,7 +116,7 @@ Soyuz's legacy is the name it chose — ambition in the face of exile, a spacecr
 
 ## Open Questions
 - **DLC 4 alternate access route to Dome Fuji, with a DLC 5 cross-DLC item chain — established 2026-07-04:** Soyuz's own airstrip (see Economy & Industry above) is the site of a broken, player-repairable plane offering an alternate route to Dome Fuji, alongside the dangerous overland trip. Requires 10 Calculation + 10 Investigation plus a specific gate item — a specifically-shaped aircraft part found through optional side-content in Belgrano (DLC 5), in a garage/warehouse's scrap pile. A player who already has this item from DLC 5 can skip the stat-gate entirely and just place the part in the engine. See `TODO.md`'s Decision Required section and `Specs/Belgrano.md` for the full mechanic.
-- **Soyuz vs. Mirny — two Russian cities** — the Russian exile community was split between the Mawson subnet (Soyuz, Larsemann Hills) and the Mirny subnet (Mirny, Davis Coast); what was the relationship between these two Russian communities pre-Split Brain? Both cities are now damaged but functional post-war — does that shared fate give them anything in particular to say to each other, now that neither is worse off than the other?
+- **Soyuz and Mirny (the city) — two Russian cities, now the same subnet** *(reframed 2026-07-05 — previously "two Russian cities split across different subnets"; Soyuz joined the Mirny subnet this day)* — the Russian exile community was historically split between Soyuz (Larsemann Hills) and Mirny (Davis Coast); what was the relationship between these two Russian communities pre-Split Brain, and what does their now-shared subnet membership mean for how they relate today? Both cities are damaged but functional post-war — does that shared fate give them anything in particular to say to each other?
 - **The Larsemann Hills cluster dynamics** — three cities in close proximity (Soyuz, Zhongshan, former-Bharati location); what were the inter-community relationships?
 - **Demonym** — TBD; "Soyuzans"? something Russian?
 - **Notable figures** — TBD

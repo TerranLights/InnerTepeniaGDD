@@ -4,7 +4,7 @@
 
 ---
 
-**Subnet:** Mawson — Larsemann Hills cluster, alongside Soyuz and Zhongshan
+**Subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Soyuz and Zhongshan, its Larsemann Hills cluster neighbors; real-world geography places the cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`.)* — Larsemann Hills cluster, alongside Soyuz and Zhongshan
 **Status:** Damaged; partially operational — resolved 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all effectively co-located or near enough that differing fates made no physical sense
 **Census Population:** 578,925 humans / 604,408 robots / 1,183,333 combined (Census I, rank 12th); 336,124 humans / 392,200 robots / 728,324 combined (Census II, rank 17th)
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°24'S, 76°11'E)
@@ -25,7 +25,7 @@
 | Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
-*Japan holds a genuinely unusual founding position here — Significant tier, diluted by the same China-Primary demographic current that reshaped the whole Mawson subnet, but arriving not organically (the way Sayowa inherited its own real JARE station) but through a deliberate act of Upper Earth diplomacy. No other Tepenian founding population arrived this way.*
+*Japan holds a genuinely unusual founding position here — Significant tier, diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, but arriving not organically (the way Sayowa inherited its own real JARE station) but through a deliberate act of Upper Earth diplomacy. No other Tepenian founding population arrived this way.*
 
 ---
 
@@ -39,7 +39,7 @@ At the time, Korea already held claim to what would become multiple Tepenian foo
 
 ## 3. Climate Character
 
-The Larsemann Hills oasis — shared with Soyuz — offers one of the mildest, most delicate climates in the Mawson subnet: mean annual temperature around −10°C, summer highs crossing above freezing, and notably gentle precipitation (rarely exceeding 26mm in a given month, at modest probability). This is genuinely calm weather by Antarctic standards — present, but never violent, without the harsh storm regimes or extreme dryness found elsewhere in Tepenia.
+The Larsemann Hills oasis — shared with Soyuz — offers one of the mildest, most delicate climates in the Mirny subnet: mean annual temperature around −10°C, summer highs crossing above freezing, and notably gentle precipitation (rarely exceeding 26mm in a given month, at modest probability). This is genuinely calm weather by Antarctic standards — present, but never violent, without the harsh storm regimes or extreme dryness found elsewhere in Tepenia.
 
 ---
 
@@ -197,8 +197,8 @@ Genuinely unique among Tepenian cities: its very existence traces directly to an
 ## 23. Relationship to Other Cities
 
 - **Soyuz and Zhongshan (Larsemann Hills cluster):** Close cluster neighbors, now consistently resolved as damaged-but-functional alongside this city — genuine daily cross-community contact, similar in spirit to Sejong's own King George Island density.
-- **Sayowa:** The other Japanese Tepenian city, but with a genuinely different founding mechanism — Sayowa inherited its own real JARE station organically; this city exists because Upper Earth diplomacy decided it should. Two Japanese communities in the same subnet, shaped by entirely different founding stories.
-- **Mawson (subnet hub):** Connected via Hwy 4 through Soyuz.
+- **Sayowa:** The other Japanese Tepenian city, but with a genuinely different founding mechanism — Sayowa inherited its own real JARE station organically; this city exists because Upper Earth diplomacy decided it should. Two Japanese communities shaped by entirely different founding stories, and — since this city's move to the Mirny subnet 2026-07-05 — now in different subnets as well, a new wrinkle in the comparison that wasn't there before.
+- **Mawson (the city):** Connected via Hwy 4 through Soyuz — a physical highway link that persists even though this city and Mawson are no longer the same Arcanet subnet, following the 2026-07-05 reassignment.
 
 ---
 

@@ -23,7 +23,7 @@
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped the entire Mawson subnet, consistent with Mawson and Soyuz's own founding-nation dilution patterns. Sayowa is the primary Japanese Tepenian presence, concentrated here rather than spread across the subnet.*
+*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Soyuz's). Sayowa is the primary Japanese Tepenian presence, concentrated here rather than spread across the subnet.*
 
 ---
 

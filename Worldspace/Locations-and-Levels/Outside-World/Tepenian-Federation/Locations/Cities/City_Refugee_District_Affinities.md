@@ -2,7 +2,7 @@
 
 **Purpose:** For each of the 32 non-South-Pole Tepenian cities, a ranked top-3 list of Concordia districts where refugees from that city would most likely settle, feel at home, or gravitate toward — based on cultural-national origin, economic character, city personality, and (for destroyed/ruined cities) the specific psychology of displacement and loss. Use for NPC writing, district flavor, refugee community design, and emergent political tensions.
 
-**Destroyed/ruined cities** (Zukelli, Soyuz, Belgrano, Palmer City, Casey) receive additional notes on the specific grief-psychology driving their placement, since displacement trauma shapes these refugee communities differently from voluntary or managed migration.
+**Destroyed/ruined cities** (Zukelli, Belgrano, Palmer City, Casey) receive additional notes on the specific grief-psychology driving their placement, since displacement trauma shapes these refugee communities differently from voluntary or managed migration. *(Corrected 2026-07-05 — this line previously also included Soyuz; Soyuz is damaged/partially operational, not destroyed or ruined, and its own Concordia diaspora reflects ordinary emigration rather than displacement trauma. See its own section below and `TODO.md`.)*
 
 **District shorthand used throughout:**
 - **Cancer** — Sanctuary/caregiving/grief holding
@@ -380,7 +380,7 @@ The Chinese multigenerational household culture — the specifically Chinese ver
 ---
 
 ### Bharati_TBD
-*Mawson subnet. Founding population TBD — not Indian. Character pending canon development. China T1 likely. Note: Until Bharati's founding population is established, district affinities are tentative.*
+*Mirny subnet *(corrected 2026-07-05, moved from Mawson — see `TODO.md`)*. Founding population resolved as Japanese via Jeju-do diplomatic allocation — see `Specs/Bharati_TBD.md`. China T1 likely. Note: proper name still TBD.*
 
 **1. Cancer**
 As with Lazar before its founding story was resolved, Bharati's still-unresolved cultural primary means refugees arrive in Concordia without the strong community anchor that clearly defined cultural identity provides. Cancer absorbs them first. *Effect: Bharati refugees stabilize in Cancer at higher rates than most city communities.*
@@ -407,8 +407,8 @@ The dual-network character of Gemini resonates with Sayowa's dual-approach ident
 
 ---
 
-### Soyuz *(destroyed)*
-*Russian-founded, China T1, Russian T2. Mawson subnet. Russian cultural character: the literary tradition, the philosophical depth, the specific Russian relationship with collective memory and national identity, the dusha (soul) tradition — the belief that suffering is not incidental to meaning but its source. Now destroyed. The loss of Soyuz removed the most distinctly Russian-character voice from the Indian Ocean subnet.*
+### Soyuz
+*Russian-founded, China T1, Russian T2. Mirny subnet *(corrected 2026-07-05, moved from Mawson — see `TODO.md`)*. Russian cultural character: the literary tradition, the philosophical depth, the specific Russian relationship with collective memory and national identity, the dusha (soul) tradition — the belief that suffering is not incidental to meaning but its source. **Corrected 2026-07-05:** this section previously described Soyuz as "destroyed," contradicting its 2026-07-03 resolution as damaged-but-functional (effectively co-located with Zhongshan, differing outcomes made no physical sense). The Concordia diaspora described below represents people who emigrated during or after the war's damage, not the flight of a city's entire population — Soyuz itself still stands.*
 
 **1. Scorpio**
 Russian literary culture has always lived in proximity to the Archive of Final Confessions — the Russian tradition of the final testament, the death-bed confession, the last letter, is one of the deepest literary traditions in Earth's history. Soyuz refugees arrive in Scorpio already culturally fluent in the mode of discourse the Archive requires. The dusha tradition — suffering as the medium through which meaning becomes accessible — is not identical to Scorpio's rebirth methodology, but it speaks to the same territory. *Effect: Soyuz refugees are among Scorpio's most philosophically sophisticated community members. They push back, consistently and with considerable eloquence, against what they see as the district's clinical tendency to treat grief as a problem to be solved rather than a condition to be inhabited. This tension is productive for Scorpio's self-understanding — the Soyuz community forces the district to articulate why transformation should be the goal, rather than taking it for granted.*
@@ -461,7 +461,7 @@ Australian frontier mentality in an aftermath context — the "she'll be right" 
 
 **Districts that absorb the most refugees across all cities:**
 - **Taurus** receives the most consistent cross-city settlement, appearing in the top 3 for nearly every city with a community-bonded character. It is Concordia's universal residential anchor.
-- **Scorpio** receives the most concentrated representation from destroyed and ruined cities. The five destroyed/ruined cities (Zukelli, Soyuz, Belgrano, Palmer City, Casey) all list Scorpio as a top-2 district. The Archive of Final Confessions is bearing the weight of multiple civilizations' loss simultaneously.
+- **Scorpio** receives the most concentrated representation from destroyed and ruined cities. The four destroyed/ruined cities (Zukelli, Belgrano, Palmer City, Casey) all list Scorpio as a top-2 district. *(Corrected 2026-07-05 — this previously included Soyuz as a fifth; Soyuz is damaged/partially operational, not destroyed or ruined, and its own section above lists Scorpio/Taurus/Leo, not a Scorpio-specific concentration. See `TODO.md`.)* The Archive of Final Confessions is bearing the weight of multiple civilizations' loss simultaneously.
 - **Aquarius** draws scientific community from almost every city, regardless of cultural primary. The scientific character of Antarctic settlement — every city was built on a research station — creates a pan-Tepenian scientific community that converges on The Labs.
 
 **The Scorpio burden:**
