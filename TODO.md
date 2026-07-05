@@ -402,6 +402,21 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Long-Term / Low Urgency
 
+- [ ] **Throwing weapons — full system, flagged 2026-07-04, scope refined same day**
+  New combat category, not yet designed. **Core focus, clarified by the developer:** thrown blade weapons specifically — throwing knives, tomahawks, and similar bladed forms — not a generic "any weapon can be thrown" system. Envisioned as an "aggregated hybrid" of Baldur's Gate 3 (Strength-based throwing, a real build path) and Cyberpunk 2077 (dedicated throwing knives as their own distinct equipment/build category), but scoped to blades rather than BG3's broader "throw anything" approach. **Explicitly excluded:** BG3's alchemist's fire and similar consumable thrown items — a Fantasy-genre mechanic that doesn't fit Inner Tepenia's Sci-Fi setting. The developer is open to a separate grenade system as the Sci-Fi equivalent of that consumable-throwable niche, but that's a distinct, secondary idea, not the main thrust of this entry. This would also resolve an open gap surfaced during the 2026-07-04 Fallout trait/perk comparison pass — FNV's "Loose Cannon" trait and "Heave, Ho!"-style perks are built around a generic "thrown weapons" category Inner Tepenia doesn't have yet; those would attach to this blade-focused system once it exists. See `project_fallout_trait_perk_adaptation` memory.
+
+  **Stat mapping — four dimensions to eventually work out (not urgent, future design & development):**
+  1. Throwing distance/range — proposed: Might.
+  2. Throwing accuracy — proposed: some combination of Agility and Calculation; exact formula/weighting not yet decided.
+  3. Critical hit chance — not yet decided.
+  4. Critical hit damage — not yet decided.
+
+- [ ] **A Tepenian counterpart to Karma/Sanity — genuinely open, no shape decided yet**
+  Flagged 2026-07-04: the developer wants some kind of in-universe system in the spirit of Fallout's Karma or Fallout DUST's Sanity — a persistent, personal player-character standing or psychological state, distinct from faction reputation (which already exists) — but is explicit that it definitely won't be Karma and probably won't be Sanity either. No shape, mechanic, or name decided; this is a "the idea appeals, the implementation doesn't exist yet" flag, not a design brief. Possible existing anchor points worth considering whenever this gets picked up (not decided, just noted): the Humanity and Nerve MACHINE stats, and the game's central robot-consciousness theme, all already touch adjacent territory.
+
+- [ ] **Charging pods — sporadic world rest-spots, flagged 2026-07-04**
+  New environmental feature, not yet designed: scattered, free-to-use rest/recharge spots placed around the world, akin to Fallout: New Vegas's mattresses (as opposed to owned player homes) — presumably robot-facing (a charging-pod equivalent of "resting"), offering some kind of temporary benefit and/or save opportunity without requiring ownership of a bed or home.
+
 - [ ] **Amundsen Tower power supply — spec sheet (flagged 2026-07-03, held for later)**
   `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Amundsen_Power_Supply.md` exists as an empty placeholder — meant to detail how Amundsen Tower actually gets its power: where it comes from, how it's generated, distribution, etc. Explicitly deferred; pick up later.
 
