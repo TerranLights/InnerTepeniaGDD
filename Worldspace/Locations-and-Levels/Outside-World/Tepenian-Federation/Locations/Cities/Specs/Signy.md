@@ -32,6 +32,24 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (33.3%) | 31,853 | 31,045 | 26,609 | 17,976 |
+| Germany (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
+| France (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
+| UK (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
+| Brazil (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
+| Argentina (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
+| South Africa (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
+| Chile (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
+| Uruguay (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

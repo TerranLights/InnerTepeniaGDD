@@ -22,6 +22,30 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (28.6%) | 154,276 | 151,979 | 116,557 | 122,806 |
+| Germany (10.7%) | 57,853 | 56,992 | 43,709 | 46,052 |
+| UK (10.7%) | 57,853 | 56,992 | 43,709 | 46,052 |
+| Brazil (10.7%) | 57,853 | 56,992 | 43,709 | 46,052 |
+| Poland (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Argentina (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Czech Republic (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Hungary (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| South Africa (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Slovakia (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Chile (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Croatia (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Serbia (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Slovenia (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+| Uruguay (3.6%) | 19,284 | 18,997 | 14,570 | 15,351 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

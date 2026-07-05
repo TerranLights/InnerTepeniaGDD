@@ -43,6 +43,40 @@ See also: `Bharati_TBD.md` (Mirny subnet as of 2026-07-05, moved from Mawson) fo
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (19.0%) | 253,965 | 245,143 | 179,575 | 164,039 |
+| Germany (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
+| France (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
+| UK (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
+| Russia (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
+| Brazil (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
+| Poland (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Netherlands (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Argentina (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Czech Republic (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Ukraine (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Romania (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Norway (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Finland (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Hungary (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| South Africa (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Slovakia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Belarus (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Croatia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Bulgaria (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Serbia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Lithuania (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Slovenia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Latvia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+| Estonia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

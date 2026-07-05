@@ -10,6 +10,50 @@
 
 ---
 
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 231,576 humans / 232,093 robots / **463,669** combined
+**Census II (Orbital Era):** 145,798 humans / 129,319 robots / **275,117** combined
+
+| Tier | Nations |
+|------|---------|
+| Primary | Germany |
+| Significant | UK, Brazil |
+| Notable | Poland, Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Chile, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+
+*Source: `Official_Population_Census.md` Sections I-III.*
+
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| Germany (25.0%) | 58,023 | 57,894 | 32,330 | 36,450 |
+| UK (9.4%) | 21,759 | 21,710 | 12,124 | 13,669 |
+| Brazil (9.4%) | 21,759 | 21,710 | 12,124 | 13,669 |
+| Poland (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Argentina (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Czech Republic (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Ukraine (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Romania (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Norway (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Hungary (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| South Africa (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Slovakia (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Chile (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Belarus (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Croatia (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Bulgaria (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Serbia (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Lithuania (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Slovenia (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Latvia (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+| Estonia (3.1%) | 7,253 | 7,237 | 4,041 | 4,556 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+---
+
 ## Geographic Basis
 
 Sanay sits on Vesleskarvet, a small nunatak in the Ahlmannryggen range, Queen Maud Land — a rocky outcrop above the surrounding ice sheet. The bedrock foundation gave Sanay a structural stability that the ice shelf cities (Neumayer, Halley) could not have. Where Neumayer sits on floating ice that moves, Sanay sits on rock that does not. This distinction shaped everything about how the city was built and how it lasted.

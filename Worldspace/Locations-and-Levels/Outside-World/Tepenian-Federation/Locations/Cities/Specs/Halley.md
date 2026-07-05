@@ -22,6 +22,32 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (23.5%) | 174,728 | 167,000 | 136,202 | 119,814 |
+| Germany (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
+| France (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
+| UK (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
+| Canada (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
+| Brazil (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
+| Poland (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Netherlands (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Argentina (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Czech Republic (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Hungary (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| South Africa (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Slovakia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Chile (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Croatia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Serbia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+| Slovenia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

@@ -22,6 +22,41 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| China (17.0%) | 125,447 | 120,805 | 89,383 | 72,735 |
+| Japan (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| Germany (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| France (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| UK (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| South Korea (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| Indonesia (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| Australia (6.4%) | 47,043 | 45,302 | 33,519 | 27,276 |
+| Poland (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Netherlands (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Thailand (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Czech Republic (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Ukraine (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Vietnam (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Romania (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Norway (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Hungary (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| South Africa (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Slovakia (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Belarus (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Croatia (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Bulgaria (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Lithuania (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Slovenia (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Latvia (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+| Estonia (2.1%) | 15,681 | 15,101 | 11,173 | 9,092 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

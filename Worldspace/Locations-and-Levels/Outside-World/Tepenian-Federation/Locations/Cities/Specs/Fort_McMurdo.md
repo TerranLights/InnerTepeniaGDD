@@ -22,6 +22,30 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| China (20.5%) | 45,768 | 45,577 | 33,768 | 35,600 |
+| USA (20.5%) | 45,768 | 45,577 | 33,768 | 35,600 |
+| Japan (7.7%) | 17,163 | 17,092 | 12,663 | 13,350 |
+| Germany (7.7%) | 17,163 | 17,092 | 12,663 | 13,350 |
+| France (7.7%) | 17,163 | 17,092 | 12,663 | 13,350 |
+| UK (7.7%) | 17,163 | 17,092 | 12,663 | 13,350 |
+| Italy (7.7%) | 17,163 | 17,092 | 12,663 | 13,350 |
+| South Korea (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| Canada (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| Indonesia (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| Australia (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| Philippines (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| Malaysia (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| New Zealand (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+| Chile (2.6%) | 5,721 | 5,697 | 4,221 | 4,450 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

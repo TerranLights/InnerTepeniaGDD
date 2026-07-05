@@ -46,6 +46,36 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| China (19.0%) | 114,637 | 109,804 | 74,705 | 64,024 |
+| Japan (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| Germany (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| UK (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| South Korea (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| Russia (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| Indonesia (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| Australia (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
+| Thailand (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Ukraine (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Vietnam (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Philippines (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Malaysia (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Romania (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| South Africa (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| New Zealand (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Belarus (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Bulgaria (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Lithuania (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Latvia (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+| Estonia (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

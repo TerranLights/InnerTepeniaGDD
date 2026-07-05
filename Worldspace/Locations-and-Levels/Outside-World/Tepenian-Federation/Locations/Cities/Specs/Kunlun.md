@@ -23,6 +23,12 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+*No population to break down by nation (100% robot, entirely reclassified — see Founding Population Resolution, above).*
+
+
+
 ---
 
 ## Geographic Basis

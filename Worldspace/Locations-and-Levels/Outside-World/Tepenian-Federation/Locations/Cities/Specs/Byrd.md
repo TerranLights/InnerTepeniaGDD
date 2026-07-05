@@ -22,6 +22,57 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (12.5%) | 23,828 | 23,284 | *(Census II N/A)* | *(Census II N/A)* |
+| Japan (12.5%) | 23,828 | 23,284 | *(Census II N/A)* | *(Census II N/A)* |
+| South Korea (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
+| Canada (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
+| Indonesia (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
+| Australia (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
+| Germany (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| France (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| UK (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| New Zealand (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Mexico (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Chile (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Czech Republic (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Brazil (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Slovakia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Thailand (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Russia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Serbia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Belgium (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Italy (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Norway (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Croatia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| South Africa (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| China (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Slovenia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Romania (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Philippines (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Netherlands (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Poland (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Bulgaria (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Vietnam (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Spain (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Latvia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Argentina (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Sweden (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Belarus (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Ukraine (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Finland (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Lithuania (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Malaysia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Hungary (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+| Uruguay (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

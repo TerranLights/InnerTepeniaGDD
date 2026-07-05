@@ -22,6 +22,36 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| China (19.0%) | 123,323 | 120,378 | 90,345 | 99,499 |
+| Japan (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| Germany (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| UK (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| South Korea (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| Russia (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| Indonesia (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| Australia (7.1%) | 46,246 | 45,142 | 33,879 | 37,312 |
+| Thailand (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Ukraine (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Vietnam (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Philippines (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Malaysia (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Romania (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| South Africa (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| New Zealand (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Belarus (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Bulgaria (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Lithuania (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Latvia (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+| Estonia (2.4%) | 15,415 | 15,047 | 11,293 | 12,437 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

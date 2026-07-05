@@ -22,6 +22,35 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| China (20.5%) | 121,993 | 115,610 | 70,600 | 89,728 |
+| Japan (7.7%) | 45,747 | 43,354 | 26,475 | 33,648 |
+| Germany (7.7%) | 45,747 | 43,354 | 26,475 | 33,648 |
+| UK (7.7%) | 45,747 | 43,354 | 26,475 | 33,648 |
+| South Korea (7.7%) | 45,747 | 43,354 | 26,475 | 33,648 |
+| Indonesia (7.7%) | 45,747 | 43,354 | 26,475 | 33,648 |
+| Australia (7.7%) | 45,747 | 43,354 | 26,475 | 33,648 |
+| Thailand (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Ukraine (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Vietnam (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Philippines (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Malaysia (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Romania (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| South Africa (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| New Zealand (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Belarus (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Bulgaria (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Lithuania (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Latvia (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+| Estonia (2.6%) | 15,249 | 14,451 | 8,825 | 11,216 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

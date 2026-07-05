@@ -21,6 +21,53 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| China (8.5%) | 43,502 | 42,962 | 27,765 | 26,304 |
+| Japan (8.5%) | 43,502 | 42,962 | 27,765 | 26,304 |
+| South Korea (8.5%) | 43,502 | 42,962 | 27,765 | 26,304 |
+| Russia (8.5%) | 43,502 | 42,962 | 27,765 | 26,304 |
+| Indonesia (8.5%) | 43,502 | 42,962 | 27,765 | 26,304 |
+| Australia (8.5%) | 43,502 | 42,962 | 27,765 | 26,304 |
+| USA (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| Thailand (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| Vietnam (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| Philippines (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| Malaysia (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| New Zealand (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| Belarus (3.2%) | 16,313 | 16,111 | 10,412 | 9,864 |
+| Germany (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| France (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| UK (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Italy (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Canada (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Spain (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Mexico (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Poland (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Netherlands (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Belgium (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Sweden (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Czech Republic (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Ukraine (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Romania (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Norway (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Finland (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Hungary (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Slovakia (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Croatia (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Bulgaria (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Serbia (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Lithuania (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Slovenia (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Latvia (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+| Estonia (1.1%) | 5,438 | 5,370 | 3,471 | 3,288 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

@@ -22,6 +22,25 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (27.6%) | 79,125 | 78,191 | 64,696 | 53,965 |
+| Germany (10.3%) | 29,672 | 29,322 | 24,261 | 20,237 |
+| UK (10.3%) | 29,672 | 29,322 | 24,261 | 20,237 |
+| Spain (10.3%) | 29,672 | 29,322 | 24,261 | 20,237 |
+| Canada (10.3%) | 29,672 | 29,322 | 24,261 | 20,237 |
+| Mexico (10.3%) | 29,672 | 29,322 | 24,261 | 20,237 |
+| Brazil (10.3%) | 29,672 | 29,322 | 24,261 | 20,237 |
+| Argentina (3.4%) | 9,891 | 9,774 | 8,087 | 6,746 |
+| Chile (3.4%) | 9,891 | 9,774 | 8,087 | 6,746 |
+| Uruguay (3.4%) | 9,891 | 9,774 | 8,087 | 6,746 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis

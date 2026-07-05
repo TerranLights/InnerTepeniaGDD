@@ -30,6 +30,24 @@ By population, Rothera (318,955 Census I, rank 31st *corrected 2026-07-03*) is a
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+| | Census I | Census I | Census II | Census II |
+|---|---|---|---|---|
+| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
+| USA (28.6%) | 46,768 | 43,931 | 38,307 | 34,795 |
+| Germany (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
+| France (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
+| UK (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
+| Canada (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
+| Mexico (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
+| Brazil (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
+| Argentina (3.6%) | 5,846 | 5,491 | 4,788 | 4,349 |
+| Chile (3.6%) | 5,846 | 5,491 | 4,788 | 4,349 |
+
+*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+
+
 ---
 
 ## Geographic Basis
