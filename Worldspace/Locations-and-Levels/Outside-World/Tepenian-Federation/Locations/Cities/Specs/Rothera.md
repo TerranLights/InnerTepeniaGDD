@@ -11,7 +11,7 @@
 
 ## Population / Destructibility Note (2026-07-03)
 
-By population, Rothera (318,955 Census I, rank 31st *corrected 2026-07-03*) is actually *smaller* than Sejong (647,855) and — as of a later, unrelated 2026-07-03 population correction — only barely smaller than Palmer City (334,579, down from an original 477,970 after a cap-correction trim; see `Official_Population_Census.md`) — both cities were fully destroyed. Population size alone doesn't explain survival here; if anything, Palmer City's own population dropping to nearly the same size as Rothera's, while remaining destroyed regardless, makes the point more starkly: two cities of near-identical population, opposite fates. What does explain it: Adelaide Island is by far the largest landmass in the Palmer subnet (~120km long, mountainous, peaks over 2,500m) — significantly bigger than Sejong's King George Island or Palmer City's Anvers Island. Rothera's industrial base is genuinely **decentralized** across that much larger landmass — processing sites, mining operations, and distributed facilities spread across dozens of kilometers rather than concentrated in one dense urban core. A concentrated city can be erased in a single strike; an industrial base scattered across 120km of mountainous terrain cannot. That physical decentralization, not population size, is why Rothera survived as damaged-but-functional rather than being wiped out entirely.
+By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again 2026-07-05*) is actually *smaller* than Sejong (644,833) and — as of a later, unrelated 2026-07-03 population correction — only barely smaller than Palmer City (332,808, down from an original 477,970 after a cap-correction trim; see `Official_Population_Census.md`) — both cities were fully destroyed. Population size alone doesn't explain survival here; if anything, Palmer City's own population dropping to nearly the same size as Rothera's, while remaining destroyed regardless, makes the point more starkly: two cities of near-identical population, opposite fates. What does explain it: Adelaide Island is by far the largest landmass in the Palmer subnet (~120km long, mountainous, peaks over 2,500m) — significantly bigger than Sejong's King George Island or Palmer City's Anvers Island. Rothera's industrial base is genuinely **decentralized** across that much larger landmass — processing sites, mining operations, and distributed facilities spread across dozens of kilometers rather than concentrated in one dense urban core. A concentrated city can be erased in a single strike; an industrial base scattered across 120km of mountainous terrain cannot. That physical decentralization, not population size, is why Rothera survived as damaged-but-functional rather than being wiped out entirely.
 
 **Underground expansion, added same day:** the same abundance of space — both landmass and diameter, room to expand in every direction rather than being boxed in by a small island's limits — also made large-scale underground construction realistic here in a way it wasn't for Palmer City or Sejong. Rothera's industrial development plausibly included genuine subterranean facilities: large excavated chambers functioning as shelters and protected production space, significantly larger in scale than the small, iconic vaults of other post-apocalyptic media (Fallout, etc.) — Tepenia's version of the concept, built at a scale Adelaide Island's size actually supports rather than the compact, single-purpose shelters that genre usually depicts. This gives Rothera a third, compounding layer of resilience beyond decentralization alone: surface damage doesn't necessarily touch what's built underground, and underground production could plausibly continue even when surface facilities are hit. Exact scale, number, and current status of these underground sections are TBD for DLC 3 design, but the premise is now established as part of why Rothera specifically (and not Palmer City or Sejong) survived as damaged-but-functional.
 
@@ -32,21 +32,21 @@ By population, Rothera (318,955 Census I, rank 31st *corrected 2026-07-03*) is a
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| USA (28.6%) | 46,768 | 43,931 | 38,307 | 34,795 |
-| Germany (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
-| France (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
-| UK (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
-| Canada (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
-| Mexico (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
-| Brazil (10.7%) | 17,538 | 16,474 | 14,365 | 13,048 |
-| Argentina (3.6%) | 5,846 | 5,491 | 4,788 | 4,349 |
-| Chile (3.6%) | 5,846 | 5,491 | 4,788 | 4,349 |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | USA | 28.57% | 46,768 | 43,931 | 38,307 | 34,795 |
+| Significant | Germany | 14.31% | 23,421 | 22,000 | 19,183 | 17,425 |
+| Significant | Canada | 14.30% | 23,405 | 21,985 | 19,170 | 17,413 |
+| Significant | Brazil | 14.00% | 22,916 | 21,526 | 18,770 | 17,049 |
+| Significant | France | 7.43% | 12,160 | 11,423 | 9,960 | 9,047 |
+| Significant | Mexico | 7.13% | 11,672 | 10,964 | 9,560 | 8,684 |
+| Significant | UK | 7.12% | 11,655 | 10,948 | 9,546 | 8,671 |
+| Notable | Chile | 5.23% | 8,563 | 8,044 | 7,014 | 6,371 |
+| Notable | Argentina | 1.91% | 3,129 | 2,939 | 2,563 | 2,328 |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

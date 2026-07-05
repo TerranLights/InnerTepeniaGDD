@@ -25,37 +25,37 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| China (17.4%) | 22,960 | 16,236 | 13,871 | 14,817 |
-| Japan (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| Germany (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| France (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| UK (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| South Korea (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| Indonesia (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| Australia (6.5%) | 8,610 | 6,088 | 5,202 | 5,556 |
-| Poland (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Netherlands (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Czech Republic (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Ukraine (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Romania (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Norway (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Hungary (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| South Africa (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Slovakia (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Belarus (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Croatia (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Bulgaria (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Serbia (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Lithuania (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Slovenia (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Latvia (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
-| Estonia (2.2%) | 2,870 | 2,029 | 1,734 | 1,852 |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | China | 17.39% | 22,960 | 16,236 | 13,871 | 14,817 |
+| Significant | Indonesia | 8.59% | 11,338 | 8,018 | 6,850 | 7,317 |
+| Significant | Australia | 8.27% | 10,919 | 7,721 | 6,596 | 7,046 |
+| Significant | Germany | 8.22% | 10,851 | 7,673 | 6,555 | 7,002 |
+| Significant | UK | 7.97% | 10,527 | 7,444 | 6,360 | 6,793 |
+| Significant | South Korea | 5.07% | 6,693 | 4,733 | 4,044 | 4,320 |
+| Significant | France | 4.82% | 6,369 | 4,504 | 3,848 | 4,110 |
+| Notable | Serbia | 3.22% | 4,256 | 3,010 | 2,571 | 2,747 |
+| Notable | Netherlands | 3.14% | 4,142 | 2,929 | 2,502 | 2,673 |
+| Notable | Slovenia | 3.12% | 4,122 | 2,915 | 2,490 | 2,660 |
+| Notable | Croatia | 3.11% | 4,101 | 2,900 | 2,477 | 2,646 |
+| Notable | Romania | 2.81% | 3,707 | 2,621 | 2,239 | 2,392 |
+| Notable | Lithuania | 2.81% | 3,712 | 2,625 | 2,242 | 2,395 |
+| Notable | Norway | 2.80% | 3,698 | 2,615 | 2,234 | 2,387 |
+| Notable | Belarus | 2.79% | 3,686 | 2,607 | 2,227 | 2,379 |
+| Notable | Latvia | 2.76% | 3,643 | 2,576 | 2,201 | 2,351 |
+| Significant | Japan | 2.71% | 3,573 | 2,527 | 2,159 | 2,306 |
+| Notable | Czech Republic | 1.56% | 2,054 | 1,452 | 1,241 | 1,325 |
+| Notable | Ukraine | 1.55% | 2,042 | 1,444 | 1,234 | 1,318 |
+| Notable | Hungary | 1.54% | 2,033 | 1,438 | 1,228 | 1,312 |
+| Notable | South Africa | 1.54% | 2,028 | 1,434 | 1,225 | 1,309 |
+| Notable | Bulgaria | 1.24% | 1,639 | 1,159 | 990 | 1,058 |
+| Notable | Poland | 1.23% | 1,618 | 1,144 | 978 | 1,044 |
+| Notable | Estonia | 1.12% | 1,484 | 1,049 | 896 | 958 |
+| Notable | Slovakia | 0.63% | 825 | 584 | 499 | 533 |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

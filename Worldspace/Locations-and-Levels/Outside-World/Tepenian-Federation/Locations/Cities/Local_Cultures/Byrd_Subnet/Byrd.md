@@ -4,7 +4,7 @@
 
 **Subnet:** Byrd ("Pacific") — subnet hub, and now (following Framheim and Little America's removal from canon) the subnet's only city
 **Status:** Survived — struggling; one of only three cities in Tepenia still functioning as a city at meaningful scale, alongside Concordia and Janbogo
-**Census Population:** 187,032 humans / 191,404 robots / 378,436 combined (Census I, rank 29th) — figures established 2026-07-03, Byrd's first-ever population data, via the Framheim/Little America redistribution plus a share of Palmer City's over-cap trim
+**Census Population:** 186,268 humans / 190,622 robots / 376,890 combined (Census I, rank 29th) — figures established 2026-07-03, Byrd's first-ever population data, via the Framheim/Little America redistribution plus a share of Palmer City's over-cap trim *(corrected 2026-07-05 — this line had drifted from the current Specs/Official_Population_Census.md figures)*
 **Location:** Marie Byrd Land, West Antarctic Ice Sheet (~80°01'S, 119°31'W)
 
 **One-liner:** *A city founded underground before it ever stood on the surface, built by people who went looking for a "lost site" on the strength of old maps — the westernmost city in the Federation, and now, since its Ross Ice Shelf neighbors were struck from canon entirely, the last city its own subnet has left.*
@@ -147,7 +147,7 @@ Modest, American-founding-character base with real added breadth from the popula
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (191,404 to 187,032), human-robot relations at Byrd are shaped by genuine, mutual self-sufficiency — a city that has had to solve its own problems for generations, with no illusions about outside help arriving quickly.
+With robots slightly outnumbering humans (190,622 to 186,268), human-robot relations at Byrd are shaped by genuine, mutual self-sufficiency — a city that has had to solve its own problems for generations, with no illusions about outside help arriving quickly.
 
 ---
 

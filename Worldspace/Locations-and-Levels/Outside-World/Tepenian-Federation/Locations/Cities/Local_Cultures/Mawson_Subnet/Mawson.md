@@ -4,7 +4,7 @@
 
 **Subnet:** Mawson (hub city)
 **Status:** Damaged; partially operational — the subnet hub, damaged but functioning, the longest continuously-occupied site of any Mawson subnet city
-**Census Population:** 713,748 humans / 741,178 robots / 1,454,926 combined (Census I, rank 6th of ~34); 427,321 humans / 525,125 robots / 952,446 combined (Census II, rank 9th)
+**Census Population:** 709,729 humans / 737,004 robots / 1,446,733 combined (Census I, rank 6th of ~34); 427,321 humans / 525,125 robots / 952,446 combined (Census II, rank 9th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 
 **One-liner:** *The city that never stopped being here since 1954 — an Australian founding that gave the whole subnet its name and its patron Saint, long since overtaken by the Indian Ocean's own demographic current: China, not America, is who Mawson eventually became.*
@@ -149,7 +149,7 @@ Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian 
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (741,178 to 713,748 Census I), human-robot relations at Mawson are shaped by the city's genuine institutional depth and hub responsibilities — coordination extends across the whole subnet's Arcanet network, not just the local population.
+With robots slightly outnumbering humans (737,004 to 709,729 Census I), human-robot relations at Mawson are shaped by the city's genuine institutional depth and hub responsibilities — coordination extends across the whole subnet's Arcanet network, not just the local population.
 
 ---
 

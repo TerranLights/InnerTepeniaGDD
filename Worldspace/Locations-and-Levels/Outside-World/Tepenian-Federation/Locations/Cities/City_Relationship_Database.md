@@ -134,7 +134,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Janbogo ✓
 - **Highways:** Hwy 2 (DCH) — eastern terminus
 - **Direct highway neighbors:** Dumont d'Urville (west)
-- **Notes:** Founded on Mawson's 1912 expedition base (Cape Denison); eastern end of Dumont Coast Highway; destroyed Long Night War; Census I population: 526,521 humans / 546,852 robots / 1,073,373 combined. **Dumont d'Urville Sea coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Founded on Mawson's 1912 expedition base (Cape Denison); eastern end of Dumont Coast Highway; destroyed Long Night War; Census I population: 522,975 humans / 543,168 robots / 1,066,143 combined *(corrected 2026-07-05 to match `Official_Population_Census.md`'s main City Populations table — this line had cited that same file's slightly different Section IV historical-note figures instead; that discrepancy between Section IV and the main table is itself still open, see `TODO.md`)*. **Dumont d'Urville Sea coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 

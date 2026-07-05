@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status (at the time this culture is described):** Active, populated, functioning — destroyed later, in the Long Night War
-**Census Population:** 284,047 humans / 287,440 robots / 571,487 combined (Census I, rank 22nd, *corrected 2026-07-03*); 195,623 humans / 234,522 robots / 430,145 combined (Census II, rank 21st, *corrected 2026-07-03*)
+**Census Population:** 283,442 humans / 286,827 robots / 570,269 combined (Census I, rank 22nd, *corrected 2026-07-03, again 2026-07-05*); 195,623 humans / 234,522 robots / 430,145 combined (Census II, rank 21st, *corrected 2026-07-03*)
 **Location:** Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W)
 
 **One-liner:** *A city built on top of 34-million-year-old proof that Antarctica was once warm — whose own single greatest asset, a concentrated airfield on a small, flat island, made it exactly the kind of target that couldn't survive what Rothera did.*
@@ -149,7 +149,7 @@ Modest, Argentine-inflected, background rather than central to civic identity �
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (287,440 to 284,047 Census I), human-robot relations at Marambio are shaped by the city's practical, logistics-first character — close operational coordination required to keep aviation infrastructure running, without much room for the more elaborate social dynamics of less transient cities.
+With robots slightly outnumbering humans (286,827 to 283,442 Census I), human-robot relations at Marambio are shaped by the city's practical, logistics-first character — close operational coordination required to keep aviation infrastructure running, without much room for the more elaborate social dynamics of less transient cities.
 
 ---
 

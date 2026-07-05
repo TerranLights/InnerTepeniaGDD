@@ -6,7 +6,7 @@
 
 **Subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Soyuz and Zhongshan, its Larsemann Hills cluster neighbors; real-world geography places the cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`.)* — Larsemann Hills cluster, alongside Soyuz and Zhongshan
 **Status:** Damaged; partially operational — resolved 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all effectively co-located or near enough that differing fates made no physical sense
-**Census Population:** 578,925 humans / 604,408 robots / 1,183,333 combined (Census I, rank 12th); 336,124 humans / 392,200 robots / 728,324 combined (Census II, rank 17th)
+**Census Population:** 576,469 humans / 601,844 robots / 1,178,313 combined (Census I, rank 12th); 336,124 humans / 392,200 robots / 728,324 combined (Census II, rank 17th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°24'S, 76°11'E)
 
 **One-liner:** *The only Tepenian city founded by decree rather than by arrival — an Upper Earth diplomatic allocation gave Japan a claim here before the exile ever began, and the mild, gentle climate that followed made it a natural home for research, art, and refinement rather than survival alone.*
@@ -149,7 +149,7 @@ A genuine, cultivated musical culture — the calm setting and institutional dep
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (604,408 to 578,925 Census I), human-robot relations here are shaped by the city's genuinely varied civic character — research, education, and the arts all support real, valued roles for robots alongside humans, without any single dominant hierarchy.
+With robots slightly outnumbering humans (601,844 to 576,469 Census I), human-robot relations here are shaped by the city's genuinely varied civic character — research, education, and the arts all support real, valued roles for robots alongside humans, without any single dominant hierarchy.
 
 ---
 

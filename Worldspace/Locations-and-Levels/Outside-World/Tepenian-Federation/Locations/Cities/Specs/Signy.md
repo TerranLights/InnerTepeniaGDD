@@ -34,21 +34,21 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| USA (33.3%) | 31,853 | 31,045 | 26,609 | 17,976 |
-| Germany (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
-| France (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
-| UK (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
-| Brazil (12.5%) | 11,945 | 11,642 | 9,978 | 6,741 |
-| Argentina (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
-| South Africa (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
-| Chile (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
-| Uruguay (4.2%) | 3,982 | 3,881 | 3,326 | 2,247 |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | USA | 33.33% | 31,853 | 31,045 | 26,609 | 17,976 |
+| Significant | France | 17.19% | 16,431 | 16,013 | 13,725 | 9,272 |
+| Significant | UK | 16.96% | 16,207 | 15,795 | 13,538 | 9,146 |
+| Significant | Brazil | 8.04% | 7,683 | 7,488 | 6,418 | 4,336 |
+| Significant | Germany | 7.81% | 7,459 | 7,270 | 6,231 | 4,210 |
+| Notable | Argentina | 6.08% | 5,806 | 5,658 | 4,850 | 3,276 |
+| Notable | South Africa | 5.47% | 5,223 | 5,090 | 4,363 | 2,947 |
+| Notable | Chile | 2.87% | 2,741 | 2,671 | 2,289 | 1,547 |
+| Notable | Uruguay | 2.26% | 2,158 | 2,103 | 1,802 | 1,218 |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

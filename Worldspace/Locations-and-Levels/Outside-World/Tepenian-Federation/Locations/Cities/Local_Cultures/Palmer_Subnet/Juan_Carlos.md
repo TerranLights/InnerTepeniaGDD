@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** TBD — genuine unresolved conflict between sources; see `Specs/Juan_Carlos.md` for the full case
-**Census Population:** 191,451 humans / 198,724 robots / 390,175 combined (Census I, rank 27th, *corrected 2026-07-03*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 28th, *corrected 2026-07-03*)
+**Census Population:** 189,742 humans / 196,950 robots / 386,692 combined (Census I, rank 27th, *corrected 2026-07-03, again 2026-07-05*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 28th, *corrected 2026-07-03*)
 **Location:** Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
 
 **One-liner:** *The quieter Spanish city on the second-largest South Shetland island — named for the king who oversaw Spain's own transition out of dictatorship, and given, by simple distance from its crowded neighbor, room to become something coherent rather than constantly negotiated.*
@@ -149,7 +149,7 @@ Spanish-inflected, likely including the cantaor tradition (the specific vocal st
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (198,724 to 191,451 Census I), human-robot relations at Juan Carlos are shaped by the city's comparatively settled, coherent civic character — close coordination without the constant cross-community complexity Sejong's density required.
+With robots slightly outnumbering humans (196,950 to 189,742 Census I), human-robot relations at Juan Carlos are shaped by the city's comparatively settled, coherent civic character — close coordination without the constant cross-community complexity Sejong's density required.
 
 ---
 

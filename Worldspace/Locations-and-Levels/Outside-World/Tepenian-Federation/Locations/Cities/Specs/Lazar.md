@@ -12,7 +12,7 @@
 
 ## Population Note (2026-07-03)
 
-Lazar's population was deliberately, substantially rebalanced this session — it went from a modest, mid-pack Halley subnet city (Census I: 976,095 combined, rank 18th of ~30) to Tepenia's single largest city (Census I: **2,646,068** combined, rank 1st — roughly 46% larger than the new #2 city; Census II: **1,803,977** combined, also rank 1st, roughly 53% larger than the new #2).
+Lazar's population was deliberately, substantially rebalanced this session — it went from a modest, mid-pack Halley subnet city (Census I: 976,095 combined, rank 18th of ~30) to Tepenia's single largest city (Census I: **2,620,319** combined, rank 1st — roughly 46% larger than the new #2 city; Census II: **1,803,977** combined, also rank 1st, roughly 53% larger than the new #2). *(Census I figure corrected 2026-07-05 — this line had drifted to a stale 2,646,068, traced to an unreconciled per-nation table in `Upper_Earth_Immigration_Composition.md`; see the Population & Composition section below for the authoritative figure.)*
 
 This was accomplished via an explicit, deliberate redistribution rather than an organic recalculation: population was transferred to Lazar from Janbogo (reduced to 60% of its original total), Zukelli (reduced twice, ending at 72% of its original total), and Esperanza (reduced to 85% of its original total). All three donor cities' own national/ethnic tier compositions remain structurally unchanged — only their raw totals shifted. Full arithmetic and the resulting new rankings are documented in `Official_Population_Census.md`. Janbogo, Zukelli, and Esperanza's own cultural spec sheets and Specs files were updated to match — see `Local_Cultures/Janbogo_Subnet/Janbogo.md`, `Zukelli.md`, and `Local_Cultures/Palmer_Subnet/Esperanza.md`.
 
@@ -45,37 +45,37 @@ See also: `Bharati_TBD.md` (Mirny subnet as of 2026-07-05, moved from Mawson) fo
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| USA (19.0%) | 253,965 | 245,143 | 179,575 | 164,039 |
-| Germany (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
-| France (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
-| UK (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
-| Russia (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
-| Brazil (7.1%) | 95,237 | 91,929 | 67,341 | 61,515 |
-| Poland (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Netherlands (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Argentina (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Czech Republic (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Ukraine (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Romania (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Norway (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Finland (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Hungary (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| South Africa (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Slovakia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Belarus (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Croatia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Bulgaria (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Serbia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Lithuania (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Slovenia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Latvia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
-| Estonia (2.4%) | 31,746 | 30,643 | 22,447 | 20,505 |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | USA | 19.05% | 253,965 | 245,143 | 179,575 | 164,039 |
+| Significant | UK | 10.08% | 134,337 | 129,671 | 94,988 | 86,770 |
+| Significant | Germany | 9.48% | 126,385 | 121,995 | 89,365 | 81,634 |
+| Significant | Brazil | 9.05% | 120,672 | 116,481 | 85,326 | 77,944 |
+| Significant | Russia | 4.81% | 64,089 | 61,863 | 45,316 | 41,396 |
+| Notable | Norway | 3.42% | 45,598 | 44,014 | 32,242 | 29,452 |
+| Notable | Finland | 3.34% | 44,473 | 42,928 | 31,446 | 28,726 |
+| Notable | Czech Republic | 3.30% | 44,035 | 42,505 | 31,136 | 28,443 |
+| Notable | Estonia | 3.29% | 43,877 | 42,353 | 31,025 | 28,341 |
+| Notable | Poland | 3.21% | 42,836 | 41,349 | 30,289 | 27,669 |
+| Notable | Hungary | 3.08% | 41,034 | 39,608 | 29,014 | 26,504 |
+| Notable | Slovenia | 3.07% | 40,875 | 39,455 | 28,902 | 26,402 |
+| Notable | Slovakia | 3.00% | 40,003 | 38,614 | 28,286 | 25,839 |
+| Notable | Serbia | 2.95% | 39,305 | 37,939 | 27,792 | 25,387 |
+| Notable | Romania | 2.87% | 38,276 | 36,947 | 27,065 | 24,723 |
+| Significant | France | 2.30% | 30,701 | 29,635 | 21,708 | 19,830 |
+| Notable | Belarus | 1.81% | 24,187 | 23,347 | 17,102 | 15,623 |
+| Notable | Lithuania | 1.76% | 23,488 | 22,672 | 16,608 | 15,171 |
+| Notable | Ukraine | 1.70% | 22,616 | 21,831 | 15,992 | 14,608 |
+| Notable | South Africa | 1.55% | 20,655 | 19,937 | 14,605 | 13,341 |
+| Notable | Croatia | 1.47% | 19,614 | 18,933 | 13,869 | 12,669 |
+| Notable | Argentina | 1.46% | 19,457 | 18,781 | 13,757 | 12,567 |
+| Notable | Latvia | 1.43% | 19,018 | 18,358 | 13,448 | 12,284 |
+| Notable | Bulgaria | 1.34% | 17,893 | 17,272 | 12,652 | 11,557 |
+| Notable | Netherlands | 1.19% | 15,927 | 15,373 | 11,262 | 10,287 |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 
@@ -119,7 +119,7 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 #### Gameplay Notes
 - **The oasis environment:** visually and environmentally unlike any other Halley subnet city; exposed rock, meltwater lakes, the contrast between ice-free terrain and the surrounding ice plateau — now layered with real war damage
 - **Twin-settlement urban layout:** unlike any other Tepenian city, Lazar's layout could visibly reflect its two-settlement origin — an older, denser core (former Novolazarevskaya) and a newer, more sprawling secondary district (former Maitri), joined by whatever connective development happened as they coalesced. A strong candidate for environmental storytelling about the city's actual founding history — and for showing uneven war damage between the two former settlements.
-- **A damaged megacity:** Tepenia's single largest city by population (Census I: 2,646,068 combined, rank 1st of ~30; Census II: 1,803,977, also rank 1st — see `Official_Population_Census.md`), badly bombed during the Long Night War but not destroyed — its scale gave it a resilience no other Tepenian city has. Should read visually as a city that took a serious beating and kept functioning, distinct from both the fully-ruined cities and the lightly-scarred smaller ones, and should feel genuinely, visibly bigger than every other DLC 5 location.
+- **A damaged megacity:** Tepenia's single largest city by population (Census I: 2,620,319 combined, rank 1st of ~30; Census II: 1,803,977, also rank 1st — see `Official_Population_Census.md`), badly bombed during the Long Night War but not destroyed — its scale gave it a resilience no other Tepenian city has. Should read visually as a city that took a serious beating and kept functioning, distinct from both the fully-ruined cities and the lightly-scarred smaller ones, and should feel genuinely, visibly bigger than every other DLC 5 location.
 
 ---
 

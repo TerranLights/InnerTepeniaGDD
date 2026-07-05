@@ -23,10 +23,13 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
-### Per-Nation Breakdown — Robots and Humans, Census I and II
+### Per-Nation Breakdown — Robots (Census I only; no human population)
 
-*No population to break down by nation (100% robot, entirely reclassified — see Founding Population Resolution, above).*
+| Tier | Nation | Share % | Census I Robots |
+|------|--------|---------|------------------|
+| Primary | China | 100.00% | 123,449 |
 
+*No de-stacking applicable — unlike Dome Fuji, Kunlun's robot population is exclusively Chinese with no other nation present in any tier, so there is nothing to redistribute.*
 
 
 ---

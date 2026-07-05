@@ -4,7 +4,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** Damaged; partially operational — the Palmer subnet's industrial center, decentralized across Adelaide Island, survived the Long Night War despite having a smaller population than either Palmer City or Sejong, both of which were destroyed
-**Census Population:** 154,489 humans / 164,466 robots / 318,955 combined (Census I, rank 31st, *corrected 2026-07-03*); 121,784 humans / 134,073 robots / 255,857 combined (Census II, rank 27th, *corrected 2026-07-03*)
+**Census Population:** 153,760 humans / 163,689 robots / 317,449 combined (Census I, rank 31st, *corrected 2026-07-03, again 2026-07-05*); 121,784 humans / 134,073 robots / 255,857 combined (Census II, rank 27th, *corrected 2026-07-03*)
 **Location:** Adelaide Island, Antarctic Peninsula (~67°34'S, 68°07'W)
 
 **One-liner:** *The Palmer subnet's industrial spine — smaller than the cities it kept standing, and standing itself only because its factories were never in one place to begin with, both across the surface and beneath it.*
@@ -150,7 +150,7 @@ Modest compared to Palmer City's jazz-defined musical soul — a working city's 
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (164,466 to 154,489 Census I), human-robot relations at Rothera are shaped by the city's genuine working-industrial character — close, practical coordination required to keep a decentralized production base functioning, especially post-war with real damage worked into the system.
+With robots slightly outnumbering humans (163,689 to 153,760 Census I), human-robot relations at Rothera are shaped by the city's genuine working-industrial character — close, practical coordination required to keep a decentralized production base functioning, especially post-war with real damage worked into the system.
 
 ---
 

@@ -287,7 +287,7 @@ Three factors combined:
 
 #### Per-Nation Population Breakdown *(added 2026-07-03, post-redistribution)*
 
-Lazar's actual city population, distributed proportionally across the Gini-adjusted effective weights above (total weight = 375.7M). Applied directly to Lazar's post-redistribution Census I (2,646,068 combined) and Census II (1,803,977 combined) totals — see `Official_Population_Census.md` and [[project_lazar_population_rebalancing]] for how those totals were derived.
+Lazar's actual city population, distributed proportionally across the Gini-adjusted effective weights above (total weight = 375.7M). Applied directly to Lazar's post-redistribution Census I (2,646,068 combined) and Census II (1,803,977 combined) totals — see `Official_Population_Census.md` and [[project_lazar_population_rebalancing]] for how those totals were derived. **Flagged 2026-07-05:** this table's Census I total (2,646,068) is stale — Lazar's actual current Census I combined population is **2,620,319** (see `Specs/Lazar.md`), a 25,749 gap that had propagated from this table into `Specs/Lazar.md`'s own prose and `Local_Cultures/Halley_Subnet/Lazar.md` (both now corrected). Rescaling all 24 rows below to sum exactly to 2,620,319 wasn't done here, consistent with this file's other known, already-deferred stale draft tables — treat the per-nation rows below as approximate, not authoritative, until reconciled.
 
 | Tier | Nation | Weight | Census I | Census II |
 |------|--------|--------|----------|-----------|
@@ -870,7 +870,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 
 | Rank | City | Subnet | **Humans** | **Total** | Status |
 |------|------|--------|-----------|-----------|--------|
-| 1 | **Lazar** | Halley | 1,299,650 | **2,646,068** | *(revised 2026-07-03)* |
+| 1 | **Lazar** | Halley | 1,299,650 | **2,646,068** | *(revised 2026-07-03; flagged 2026-07-05 — Lazar's actual current Census I total is 2,620,319/1,287,003H, see `Specs/Lazar.md`; this row not rescaled, part of this file's other known stale draft tables)* |
 | 2 | **Esperanza** | Palmer | 883,710 | **1,809,783** | *(revised 2026-07-03)* |
 | 3 | Casey | Mirny | 738,418 | **1,505,155** | |
 | 4 | Cape Adare | Janbogo | 730,539 | **1,488,846** | |

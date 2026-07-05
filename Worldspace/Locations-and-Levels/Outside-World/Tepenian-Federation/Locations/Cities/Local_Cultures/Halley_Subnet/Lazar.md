@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic")
 **Status:** Damaged; partially operational — a near-coastal megacity badly bombed during the Long Night War, but too large to be destroyed outright
-**Census II Population:** 861,206 humans / 942,771 robots / **1,803,977 combined — rank 1st of ~30, Tepenia's single largest city** *(revised 2026-07-03: population deliberately rebalanced via redistribution from Janbogo, Zukelli, and Esperanza; see `Official_Population_Census.md`. Census I combined: 2,646,068, also rank 1st — the gap over the new #2 city is roughly 46% pre-war and 53% post-war, a genuinely standalone tier above every other Tepenian city.)*
+**Census II Population:** 861,206 humans / 942,771 robots / **1,803,977 combined — rank 1st of ~30, Tepenia's single largest city** *(revised 2026-07-03: population deliberately rebalanced via redistribution from Janbogo, Zukelli, and Esperanza; see `Official_Population_Census.md`. Census I combined: 2,620,319, also rank 1st — the gap over the new #2 city is roughly 46% pre-war and 53% post-war, a genuinely standalone tier above every other Tepenian city. Census I figure corrected 2026-07-05 — had drifted to a stale 2,646,068.)*
 **Location:** Schirmacher Oasis, Queen Maud Land (~70°46'S, 11°44'E)
 
 **One-liner:** *Tepenia's largest city, and its only one with no single founding story — two separate settlements, one inherited from a continuously-run Russian station and one improvised from an unoccupied Indian one, that grew into each other, outgrew their own combined name, and outgrew every other city in the Federation besides.*

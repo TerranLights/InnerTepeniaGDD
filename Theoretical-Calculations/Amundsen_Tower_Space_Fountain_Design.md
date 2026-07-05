@@ -3,10 +3,11 @@
 ## TL;DR (2026-07-03)
 
 1. **Scaling for a wartime evacuation surge is possible but not necessary.** The
-   existing single track's theoretical max throughput (~90,000 people/hour) is ~412x
-   the normal design capacity (~218/hour, revised 2026-07-04 for the Long Night War's
-   now-precise 2812 date and the recalculated 11,356,581-person orbital population
-   target), and even fully maxed out only adds ~1% to
+   existing single track's theoretical max throughput (~90,000 people/hour) is ~463x
+   the normal design capacity (~194/hour, revised 2026-07-05 for the corrected
+   10,104,964-person orbital population target — see `Official_Population_Census.md`'s
+   2026-07-05 numbers sweep, which found the Census II Antarctic Surface total this
+   figure derives from had itself gone stale), and even fully maxed out only adds ~1% to
    the guide tube's structural weight. Any "some portion of the population escaped"
    figure — a scenario table in the file runs from ~157K to over 20 million depending
    on surge rate and evacuation window — works without changing the tower's physical
@@ -71,7 +72,7 @@ sub-details are flagged under "Still Open" at the bottom.
 | Foundation depth | ~2,700m — the real-world thickness of the Antarctic ice sheet at the South Pole before hitting bedrock |
 | Bearing stations | 300, at 500m spacing (~100t each, ~30,000t total) |
 | Waystations | 5 (Base, ~15km, ~50km, ~100km/Kármán line, 150km terminus) |
-| Throughput needed for 11.36M pop. over ~178yr window | ~7.28 people/hour bare average — comfortably achievable, not a design constraint |
+| Throughput needed for 10.10M pop. over ~178yr window | ~6.48 people/hour bare average — comfortably achievable, not a design constraint |
 
 **Points worth flagging:**
 
@@ -98,9 +99,9 @@ sub-details are flagged under "Still Open" at the bottom.
   it's a launch-assist structure, with a final rocket stage finishing the job,
   consistent with Hana Jinn's original "mass drivers to launch reusable rockets"
   framing.
-- **The 11.36M orbital population target doesn't require a bigger tower.** Moving the
+- **The 10.10M orbital population target doesn't require a bigger tower.** Moving the
   entire established orbital population through the Tower alone over the ~178-year
-  window between completion and the Long Night War only requires ~7.28 people/hour on
+  window between completion and the Long Night War only requires ~6.48 people/hour on
   average — the 150 km design already comfortably supports this with room to spare
   for a realistic non-uniform migration curve and a dramatic wartime evacuation surge.
 
@@ -317,7 +318,7 @@ Names are working placeholders — open to whatever fits Tepenian naming convent
 ## Throughput & the 9.5M Population Question (worked 2026-07-02)
 
 **The question:** how large would Amundsen Tower need to be to move the established
-orbital population (**11,356,581** — `Official_Population_Census.md`, Census II) up
+orbital population (**10,104,964** — `Official_Population_Census.md`, Census II) up
 from Tepenia between the Tower's completion (~2629–2639) and the Long Night War
 (now a precise **2812**)?
 
@@ -330,10 +331,14 @@ years. Separately, the orbital population target itself was recalculated the sam
 day from 9,543,076 to 11,356,581 — see `project_district_canon_timeline_fix` and
 `project_concordia_interwar_sheet` memories — since the Census II "Orbital
 Population" figure had been stale since before this session, uncorrected through
-several rounds of other population changes.)*
+several rounds of other population changes. **Recalculated again 2026-07-05** — the
+Antarctic Surface total the Orbital figure derives from had itself gone stale since;
+a full numbers sweep of `Official_Population_Census.md` corrected it, bringing
+Orbital down from 11,356,581 to 10,104,964. See that file's own 2026-07-05
+correction notes for the full trace.)*
 
 **The headline finding: the bare statistical average is very modest — even more so
-now.** Assuming, as a conservative upper bound, that the *entire* ~11.36M population
+now.** Assuming, as a conservative upper bound, that the *entire* ~10.10M population
 figure was transported via the Tower (no in-orbit robot manufacturing or human
 births counted — both of which almost certainly did contribute, given ~200+ years of
 already-established off-world industrial capacity via the Hana Jinn/Mallory Dufay
@@ -341,14 +346,14 @@ lineage predating the Treaty):
 
 | Window | Required average rate |
 |---|---|
-| 173 years (fastest tower, i.e. 2639 completion) | ~7.49 people/hour |
-| 178 years (central estimate) | ~7.28 people/hour |
-| 183 years (slowest tower, i.e. 2629 completion) | ~7.08 people/hour |
+| 173 years (fastest tower, i.e. 2639 completion) | ~6.66 people/hour |
+| 178 years (central estimate) | ~6.48 people/hour |
+| 183 years (slowest tower, i.e. 2629 completion) | ~6.30 people/hour |
 
 **That means the Tower's 150 km height and existing design are not actually
 throughput-constrained by the population target at all.** The height was set by
 physics (space fountain mechanics, orbital handoff, debris-locality on collapse) —
-and it turns out to already be more than large enough to hit 11.36M without needing to
+and it turns out to already be more than large enough to hit 10.10M without needing to
 scale up further. This is a real finding, not a dodge: the answer to "how large would
 it need to be" is "no larger than already designed — the numbers already work."
 
@@ -358,13 +363,12 @@ it need to be" is "no larger than already designed — the numbers already work.
 - One-way travel time: **~6 minutes**.
 - Design capacity at **30x the bare average** (margin for a realistic non-uniform
   migration curve — slow ramp-up in the early decades, busier later — plus everyday
-  operational headroom): **~218 people/hour** *(revised 2026-07-04 from ~198/hour —
-  the longer 178-year operating window pulls the required rate down, but the larger
-  recalculated orbital population target of 11,356,581 pulls it back up, netting out
-  slightly higher than the previous figure)*, or about one car departure every
-  **~8 minutes**, needing under **1 car simultaneously in transit** per direction on
-  average. Even this generously-margined design is a small, unglamorous system
-  relative to the megastructure carrying it.
+  operational headroom): **~194 people/hour** *(revised 2026-07-05 — down from
+  ~218/hour, following the Orbital population correction from 11,356,581 to
+  10,104,964; see `Official_Population_Census.md`'s 2026-07-05 numbers sweep)*, or
+  about one car departure every **~9 minutes**, needing under **1 car simultaneously
+  in transit** per direction on average. Even this generously-margined design is a
+  small, unglamorous system relative to the megastructure carrying it.
 - **Wartime evacuation surge:** the established "large-scale population movement" of
   evacuees fleeing via the Tower during the Long Night War itself was almost
   certainly a short, desperate spike far above this steady-state design capacity —
@@ -376,7 +380,7 @@ it need to be" is "no larger than already designed — the numbers already work.
 
 **Question:** can the tower be scaled up — thicker, higher passenger capacity — to
 account for an additional wave of the national population escaping via the Tower
-during the Long Night War (on top of the 11.36M already established as living/working
+during the Long Night War (on top of the 10.10M already established as living/working
 in orbit before the war began)? Is scaling even necessary?
 
 **Is it possible?** Yes — a thicker guide tube with more parallel maglev tracks is a
@@ -390,7 +394,8 @@ untapped headroom, without changing the tower's physical size at all:**
 
 - Theoretical maximum throughput of the *existing* single track (300 cars
   simultaneously in transit at 500m spacing, ~6 minute one-way trip): **~90,000
-  people/hour** — roughly **412x** the steady-state design capacity proposed above.
+  people/hour** — roughly **463x** the steady-state design capacity proposed above
+  *(revised 2026-07-05 for the corrected ~194/hour design capacity)*.
 - Critically, **packing the tube with the maximum 300 cars only adds ~2,400 tonnes**
   of transient weight (at ~8 tonnes/car) — **about 1% of the guide tube's 225,000
   tonne structural mass.** The pellet stream and power system sized earlier already
@@ -403,15 +408,15 @@ throughput × evacuation window):
 
 | Surge rate | 30 days | 60 days | 90 days |
 |---|---|---|---|
-| 218/hr (normal design capacity, no surge — revised 2026-07-04) | ~157,000 | ~314,000 | ~471,000 |
+| 194/hr (normal design capacity, no surge — revised 2026-07-05) | ~140,000 | ~280,000 | ~420,000 |
 | 2,000/hr (modest surge — more cars added) | ~1,440,000 | ~2,880,000 | ~4,320,000 |
 | 10,000/hr (major surge — most of theoretical max) | ~7,200,000 | ~14,400,000 | ~21,600,000 |
 
 For reference, the established census implies a pre-war surface (non-orbital)
-population of roughly **~20.67 million** (11.36M orbital ≈ 35.5% of the pre-war
-total, per `Official_Population_Census.md`'s Census II — revised 2026-07-04, up from
-the previous ~30% figure once the stale Orbital Population number was corrected). A
-figure in the **few hundred thousand to low millions** range (top-left of the table)
+population of roughly **~21.92 million** (10.10M orbital ≈ 31.6% of the pre-war
+total, per `Official_Population_Census.md`'s Census II — revised 2026-07-05, down from
+the previous ~35.5% figure once the underlying Antarctic Surface total was itself
+corrected). A figure in the **few hundred thousand to low millions** range (top-left of the table)
 reads as "a meaningful portion escaped," without implying most of the surface
 population made it out — consistent with Tepenia still having a substantial post-war
 population in Concordia and elsewhere.

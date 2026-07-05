@@ -553,38 +553,34 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ***Rebuilt from scratch, 2026-07-04*** — *superseding every prior version of this table. Rather than patching the previous version (which was quietly built against Concordia's old, never-itemized "carries forward from Framheim/Little America" placeholder), this table was recomputed directly from Section I's actual, current per-city tier compositions: for each of the 35 cities with a human population (Kunlun and Dome Fuji excluded — both 100% robot), each Primary-tier nation received 8 shares, each Significant-tier nation 3 shares, each Notable-tier nation 1 share, applied against that city's own current Census I human population — the same T1/T2/T3 share methodology used throughout this project (`Upper_Earth_Immigration_Composition.md`). Concordia's own contribution used its precise, already-computed per-nation figures directly (see Section I) rather than the tier-share approximation, since exact numbers already existed for it. Off by 4 (15,623,527 vs. 15,623,523) due to rounding across 42 nations and 35 cities; immaterial.*
 
+***Rebuilt from scratch again, 2026-07-05*** — *superseding the 2026-07-04 version above. Two separate things changed. First, every city's per-nation figures were "de-stacked" in their own Specs files (see `TODO.md`) — same-tier nations no longer show identical percentages, since a randomized redistribution now breaks up what used to be flat tier-share blocks. Second, and more consequentially, summing each city's own current Census I human figure directly from its Specs file turned up a real, independent discrepancy: 15,100,548, not 15,623,527 — a ~523,000 gap unrelated to de-stacking. Traced to its exact cause: **Denison has no Specs file** (a gap already flagged in `TODO.md`), so its 522,975 humans (per the City Populations table above) were entirely missing from the sum — 15,100,548 + 522,975 = 15,623,523, an exact match to this table's own authoritative City Populations total, confirming the 2026-07-04 total wasn't actually stale after all, just structurally incomplete in a way that happened to net out close to the same figure by coincidence of rounding. This rebuild sums each of the 34 cities' own de-stacked "Per-Nation Breakdown" tables in their Specs files, plus a one-off manually-computed per-nation breakdown for Denison (using its existing tier table above and its Census I population, de-stacked the same way, since it has no Specs file to source from yet). Off by 2 (15,623,521 vs. 15,623,523) due to rounding across 43 nations and 35 cities (34 Specs files + Denison computed separately); immaterial. Once Denison gets its own Specs file, this table should be rebuilt again using its real de-stacked figures rather than this one-off substitute. If a similar drift is suspected in the future, this table should always be rebuilt as a direct sum of the Specs files' own figures, not re-derived independently.*
+
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 2,546,383 | | Philippines | 199,864 |
-| China | 1,705,106 | | Malaysia | 199,864 |
-| UK | 1,013,612 | | New Zealand | 191,551 |
-| Germany | 834,735 | | Belarus | 173,315 |
-| Japan | 787,053 | | Italy | 164,503 |
-| Australia | 685,212 | | Ukraine | 163,252 |
-| South Korea | 674,732 | | Romania | 163,169 |
-| Indonesia | 652,549 | | Bulgaria | 162,623 |
-| Brazil | 623,614 | | Lithuania | 162,590 |
-| France | 548,723 | | Latvia | 162,523 |
-| Russia | 478,814 | | Estonia | 159,613 |
-| Canada | 327,105 | | Thailand | 152,357 |
-| Argentina | 301,375 | | Vietnam | 152,357 |
-| Mexico | 235,846 | | Poland | 148,397 |
-| South Africa | 226,356 | | Czech Republic | 147,238 |
-| Chile | 217,164 | | Hungary | 146,907 |
-| | | | Slovakia | 146,774 |
-| | | | Croatia | 146,625 |
-| | | | Slovenia | 146,576 |
-| | | | Serbia | 131,508 |
-| | | | Netherlands | 121,830 |
-| | | | Norway | 107,113 |
-| | | | Uruguay | 92,073 |
-| | | | Finland | 82,716 |
-| | | | Spain | 56,625 |
-| | | | Sweden | 41,662 |
-| | | | Belgium | 41,523 |
-| **TOTAL** | | | | **15,623,527** *(off by 4, rounding)* |
+| USA | 2,525,235 | | Vietnam | 165,936 |
+| China | 1,686,675 | | Hungary | 159,980 |
+| UK | 984,435 | | Lithuania | 158,029 |
+| South Korea | 759,172 | | Italy | 157,130 |
+| Brazil | 743,655 | | Serbia | 156,627 |
+| Germany | 743,131 | | Poland | 154,447 |
+| Japan | 734,189 | | Slovenia | 154,061 |
+| Australia | 693,277 | | Czech Republic | 151,992 |
+| Indonesia | 652,202 | | Thailand | 149,965 |
+| France | 511,352 | | Belarus | 149,312 |
+| Russia | 452,990 | | Slovakia | 144,238 |
+| Canada | 309,118 | | Bulgaria | 138,382 |
+| Mexico | 275,257 | | Croatia | 136,798 |
+| Argentina | 248,616 | | Latvia | 134,646 |
+| Chile | 227,669 | | Norway | 126,449 |
+| New Zealand | 227,618 | | Netherlands | 125,467 |
+| Malaysia | 204,357 | | Uruguay | 119,037 |
+| Estonia | 189,713 | | Finland | 109,747 |
+| Romania | 188,974 | | Spain | 75,997 |
+| Philippines | 170,101 | | Belgium | 45,000 |
+| South Africa | 169,740 | | Sweden | 43,615 |
+| Ukraine | 169,190 | | **TOTAL** | **15,623,521** |
 
-*Note: This is a genuinely different table from every previous version — it's not just an updated total, the actual per-nation rankings shift meaningfully. USA overtakes China more decisively (was 4.6M vs 3.3M pre-rebuild; now 2.5M vs 1.7M — both dropped in absolute terms since Kunlun's 123,449 and Dome Fuji's share are robot-only and excluded, but the drop wasn't proportional, since the previous table's per-nation split was Concordia's stale placeholder, not this rebuild's real per-city math). Germany, UK, and Japan all sit meaningfully higher than before, reflecting Concordia's genuinely new China/Japan/Korea/Russia/Indonesia/Australia-led composition and the wide European "Notable" tier it introduced across 25 nations that weren't previously credited with any Concordia presence at all.*
+*Note: Dome Fuji is now a partial exception to the "100% robot, excluded" framing above — it still has zero humans, so it's excluded from this humans-only table, but it does have its own nationally-diverse robots-only breakdown now (see `Specs/Dome_Fuji.md`), unlike Kunlun, which is 100% Chinese robots with nothing to break down. Neither city contributes to the table above. Also flagged, separate from this table's own math: this file's own City Populations table (above) does not mark Denison as destroyed, despite Section IV below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document, not yet resolved. See `TODO.md`.*
 
 ---
 
@@ -633,7 +629,7 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
 | 32 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
 | 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
-| — | **TOTAL (Antarctic)** | | **9,874,712** | **10,795,307** | **20,670,019** | *(increased 2026-07-04 by Concordia's new 635,302 combined; decreased 2026-07-03 by 1,160,692 — Framheim/Little America removed entirely, see note below; increased separately by 83,150 for the earlier Palmer City expansion, net addition not redistribution)* |
+| — | **TOTAL (Antarctic)** | | **10,486,701** | **11,434,935** | **21,921,636** | *(corrected 2026-07-05 — this row was stale, undercounting by 1,251,617 combined. Verified by summing the 33 rows above directly, twice via independent methods, both agreeing exactly; also cross-checked against the Subnet Totals table below, which independently summed to the same figure. Denison's row (733,502 combined) accounts for part of the gap — it was evidently added to this table at some point without its addition being reflected in this row's own change-log, unlike the Concordia/Framheim/Palmer City adjustments explicitly tracked below. The remaining ~518,000 gap's exact origin wasn't further traced; this fix corrects the total to match its own table's actual rows rather than reconstructing the full history of how it drifted. This cascades into the Orbital Population and Full Tepenian Population tables below, both updated accordingly.)* |
 
 *Note: Framheim and Little America are removed from Census II (and all census figures) entirely — see the Census I table's removal note above for the full real-world justification (1987 Iceberg B-9 calving eliminated their shared site). **The Census I redistribution of their combined population to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — and the Palmer City cap-correction trim — were both computed for Census I only.** Census II figures for those seven cities do not yet reflect any equivalent redistribution; this is a flagged gap, not an oversight to be read as final. Kunlun and Dome Fuji remain without Census II figures for the same reasons given at the Census I table. Byrd and Vostok are also still absent from Census II specifically (their Census I figures are new, but no Census II figures have been computed for them yet) — Concordia's own gap was closed 2026-07-04, see its table row above.*
 
@@ -650,7 +646,9 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | Mirny / Wilkes Land + Plateau | 2,678,039 | 2,775,383 | **5,453,422** |
 | Byrd / Ross Ice Shelf | 0 | 0 | **0** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
-| **TOTAL (Antarctic)** | **9,874,712** | **10,795,307** | **20,670,019** |
+| **TOTAL (Antarctic)** | **10,486,701** | **11,434,935** | **21,921,636** |
+
+*Corrected 2026-07-05 — this row was stale (see the matching correction note on the City Populations table above). Verified the individual subnet rows above are internally correct and already include Denison (e.g., Janbogo's 2,466,687 sums exactly across its 8 member cities including Denison) — only this summary row itself hadn't been recalculated.*
 
 ### Orbital Population (Census II)
 
@@ -658,21 +656,23 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 | | Humans | Robots | Combined |
 |---|--------|--------|----------|
-| **Orbital population** | **5,748,811** | **5,607,770** | **11,356,581** |
+| **Orbital population** | **5,136,822** | **4,968,142** | **10,104,964** |
 
-*Recalculated 2026-07-04 — see fix note below. Approximately 35.5% of the total Tepenian population was living or working in orbit at the time the Long Night War began (previously stated as "~30%," based on the stale figures this fix replaced). Orbital human-robot composition is approximately 50.6% human / 49.4% robot — still slightly human-heavy compared to the Antarctic surface (47.8% human), though less pronounced than the old ~52%/48% figure suggested. **Corrected 2026-07-04:** this table previously attributed the human-heavy tilt to "Von Braun Wheel habitats being designed for human habitation from the initial construction phase onward" — but per established build-order canon (see `TODO.md`), Cylinders, not Wheels, are the primary long-term residence structure, and Wheels are a specialized mobile/expansion-crew type, not a population-defining habitat. That explanation was already flagged in `TODO.md` as retired and in need of a replacement — this table shouldn't have kept stating it as settled. The actual cause of the human-heavy tilt remains an open design question (see `TODO.md`'s "Orbital population — human/robot ratio" entry) — not attributed to any specific structural cause here.*
+*Recalculated 2026-07-05 — see fix note below. Approximately 31.6% of the total Tepenian population was living or working in orbit at the time the Long Night War began (previously stated as "~35.5%," based on the 2026-07-04 figures, which in turn were computed against a since-corrected, stale Antarctic Surface total — see the correction note on the City Populations table above). Orbital human-robot composition is approximately 50.8% human / 49.2% robot — still slightly human-heavy compared to the Antarctic surface (47.8% human), consistent with the same pattern noted at every previous recalculation of this table. **Corrected 2026-07-04 (still applies):** this table previously attributed the human-heavy tilt to "Von Braun Wheel habitats being designed for human habitation from the initial construction phase onward" — but per established build-order canon (see `TODO.md`), Cylinders, not Wheels, are the primary long-term residence structure, and Wheels are a specialized mobile/expansion-crew type, not a population-defining habitat. The actual cause of the human-heavy tilt remains an open design question (see `TODO.md`'s "Orbital population — human/robot ratio" entry) — not attributed to any specific structural cause here. **Corrected again 2026-07-05:** the underlying Antarctic Surface Census II total this table's Orbital figures are derived from (Orbital = Census I total − Antarctic Surface Census II total) was itself found stale and corrected — see the City Populations table's correction note above. This is a pure knock-on recalculation, not a new finding of its own.*
 
 ### Full Tepenian Population: Census II (Surface + Orbital)
 
 | | Antarctic Surface | Orbital | **Grand Total** |
 |---|-----------|---------|----------------|
-| Humans | 9,874,712 | 5,748,811 | **15,623,523** |
-| Robots | 10,795,307 | 5,607,770 | **16,403,077** |
-| **Combined** | **20,670,019** | **11,356,581** | **32,026,600** |
+| Humans | 10,486,701 | 5,136,822 | **15,623,523** |
+| Robots | 11,434,935 | 4,968,142 | **16,403,077** |
+| **Combined** | **21,921,636** | **10,104,964** | **32,026,600** |
 
 *Grand totals are identical between Census I and Census II — population is conserved, all movement between censuses is redistribution from Antarctic surface to orbit, not net gain or loss. This is now exactly true (32,026,600 both), rather than approximately true.*
 
 ***Fix applied 2026-07-04:*** *This table and the Orbital Population figures above it were stale — computed once, early in the project, and never updated through several subsequent rounds of population changes (the Lazar redistribution, the Palmer City expansion, the Framheim/Little America removal, and now Kunlun/Dome Fuji/Concordia's new populations), even though the "Antarctic Surface — Subnet Totals (Census II)" table just above this section was actively kept current through every one of those changes. The old Orbital figure (4,965,736H/4,577,340R) was a relic from before all of that. Fixed by treating the actively-maintained Antarctic Surface subnet totals as authoritative and recalculating Orbital as the exact remainder needed to make Census II's Human and Robot totals match Census I's exactly (per this file's own population-conservation rule) — Orbital Humans = Census I Humans − Antarctic Surface Humans, same for Robots. This raised the Orbital population's share of the total from ~30% to ~35.5%, and made the "grand totals are identical" claim exactly true instead of off by 119,648.*
+
+***Fix applied again 2026-07-05, during a full numbers sweep:*** *The "actively-maintained Antarctic Surface subnet totals" the 2026-07-04 fix treated as authoritative had themselves gone stale since — the individual City Populations and Subnet Totals rows (both independently summing to 10,486,701H/11,434,935R/21,921,636 combined) no longer matched their own tables' summary TOTAL rows (9,874,712H/10,795,307R/20,670,019), by 1,251,617 combined. Denison's row accounts for part of the gap (added to the table without its own change-log entry); the rest wasn't further traced. Recalculated Orbital the same way as before — as the exact remainder needed to make Census II match Census I's grand total — using the corrected Surface figures. This lowered Orbital's share of the total from ~35.5% back down to ~31.6%.*
 
 ---
 

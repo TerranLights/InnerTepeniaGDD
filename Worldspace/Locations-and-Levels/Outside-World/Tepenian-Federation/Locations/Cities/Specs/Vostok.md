@@ -24,20 +24,20 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| USA (26.7%) | 69,238 | 34,565 | *(Census II N/A)* | *(Census II N/A)* |
-| Japan (26.7%) | 69,238 | 34,565 | *(Census II N/A)* | *(Census II N/A)* |
-| South Korea (10.0%) | 25,964 | 12,962 | *(Census II N/A)* | *(Census II N/A)* |
-| Canada (10.0%) | 25,964 | 12,962 | *(Census II N/A)* | *(Census II N/A)* |
-| Indonesia (10.0%) | 25,964 | 12,962 | *(Census II N/A)* | *(Census II N/A)* |
-| Australia (10.0%) | 25,964 | 12,962 | *(Census II N/A)* | *(Census II N/A)* |
-| New Zealand (3.3%) | 8,655 | 4,321 | *(Census II N/A)* | *(Census II N/A)* |
-| Chile (3.3%) | 8,655 | 4,321 | *(Census II N/A)* | *(Census II N/A)* |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | USA | 28.36% | 73,631 | 36,757 | *(N/A)* | *(N/A)* |
+| Primary | Japan | 24.97% | 64,846 | 32,372 | *(N/A)* | *(N/A)* |
+| Significant | Canada | 13.90% | 36,093 | 18,018 | *(N/A)* | *(N/A)* |
+| Significant | Indonesia | 13.55% | 35,175 | 17,560 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.45% | 16,753 | 8,363 | *(N/A)* | *(N/A)* |
+| Significant | South Korea | 6.10% | 15,836 | 7,905 | *(N/A)* | *(N/A)* |
+| Notable | Chile | 4.96% | 12,873 | 6,426 | *(N/A)* | *(N/A)* |
+| Notable | New Zealand | 1.71% | 4,437 | 2,215 | *(N/A)* | *(N/A)* |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

@@ -23,10 +23,57 @@
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
-### Per-Nation Breakdown — Robots and Humans, Census I and II
+### Per-Nation Breakdown — Robots (Census I only; no human population)
 
-*No population to break down by nation (100% robot, entirely reclassified — see Founding Population Resolution, above).*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method. No human population exists to break down, but the robot population is still nationally diverse per the tier table above, so this breakdown covers robots only, applied to the Census I total of 55,072. Census II not yet computed for this city.)*
 
+| Tier | Nation | Share % | Census I Robots |
+|------|--------|---------|------------------|
+| Primary | USA | 11.20% | 6,169 |
+| Primary | China | 10.13% | 5,579 |
+| Significant | Indonesia | 5.51% | 3,037 |
+| Significant | Australia | 5.16% | 2,839 |
+| Significant | France | 5.00% | 2,755 |
+| Significant | Germany | 4.83% | 2,658 |
+| Significant | South Korea | 4.78% | 2,631 |
+| Significant | Brazil | 3.17% | 1,748 |
+| Significant | Japan | 2.84% | 1,567 |
+| Significant | UK | 2.49% | 1,369 |
+| Significant | Russia | 2.22% | 1,223 |
+| Notable | Malaysia | 1.91% | 1,052 |
+| Notable | Netherlands | 1.90% | 1,046 |
+| Notable | Spain | 1.89% | 1,043 |
+| Notable | Mexico | 1.89% | 1,038 |
+| Notable | Slovenia | 1.87% | 1,030 |
+| Notable | Belarus | 1.83% | 1,008 |
+| Notable | Croatia | 1.82% | 1,005 |
+| Notable | Romania | 1.82% | 1,005 |
+| Notable | Hungary | 1.81% | 999 |
+| Notable | Czech Republic | 1.74% | 961 |
+| Notable | Latvia | 1.73% | 952 |
+| Notable | Canada | 1.73% | 950 |
+| Notable | Serbia | 1.72% | 948 |
+| Notable | Philippines | 1.71% | 941 |
+| Notable | Estonia | 1.69% | 930 |
+| Notable | Norway | 1.67% | 922 |
+| Notable | Chile | 0.99% | 546 |
+| Notable | Finland | 0.98% | 538 |
+| Notable | Slovakia | 0.96% | 527 |
+| Notable | Bulgaria | 0.95% | 521 |
+| Notable | Sweden | 0.94% | 519 |
+| Notable | Vietnam | 0.94% | 516 |
+| Notable | Ukraine | 0.92% | 508 |
+| Notable | New Zealand | 0.85% | 469 |
+| Notable | Thailand | 0.84% | 464 |
+| Notable | Belgium | 0.84% | 464 |
+| Notable | Argentina | 0.84% | 461 |
+| Notable | South Africa | 0.80% | 438 |
+| Notable | Italy | 0.78% | 430 |
+| Notable | Uruguay | 0.77% | 426 |
+| Notable | Poland | 0.77% | 422 |
+| Notable | Lithuania | 0.76% | 416 |
+
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method described above. Percentages are of this city's own robot population, not Tepenia-wide.*
 
 
 ---

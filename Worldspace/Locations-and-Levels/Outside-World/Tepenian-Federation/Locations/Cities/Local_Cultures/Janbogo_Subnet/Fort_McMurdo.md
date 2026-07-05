@@ -4,7 +4,7 @@
 
 **Subnet:** Janbogo
 **Status:** Damaged; partially operational — largest ruins in Tepenia by physical footprint
-**Census II Population:** 173,548 humans / 164,621 robots / 338,169 combined *(rank ~24th of ~30 — "island cap"; Census I was 223,041 humans / 223,974 robots / 447,015 combined, so population actually declined between censuses even before the war)*
+**Census II Population:** 173,548 humans / 164,621 robots / 338,169 combined *(rank ~24th of ~30 — "island cap"; Census I was 222,190 humans / 223,120 robots / 445,310 combined, so population actually declined between censuses even before the war — Census I figure corrected 2026-07-05, had drifted from Specs/Official_Population_Census.md)*
 **Location:** Ross Island, Ross Sea coast, in the shadow of Mount Erebus (~77°51'S, 166°40'E)
 
 **One-liner:** *Tepenia's biggest built thing, never its biggest population — the industrial capital that measured a person by output, not origin, and built half the Federation's infrastructure from a peninsula it could never fully fill.*

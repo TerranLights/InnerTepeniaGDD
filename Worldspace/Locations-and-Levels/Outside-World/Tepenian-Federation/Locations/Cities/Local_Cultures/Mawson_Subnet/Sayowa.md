@@ -4,7 +4,7 @@
 
 **Subnet:** Mawson — westernmost city, bridging toward the Halley subnet
 **Status:** Damaged; partially operational — a critical highway junction, damaged but functioning, whose survival is as much about continental connectivity as about the city itself
-**Census Population:** 93,656 humans / 132,444 robots / 226,100 combined (Census I, rank 32nd — *revised 2026-07-03*: 30,000 humans redistributed to Vostok; see `Official_Population_Census.md`); 85,199 humans / 79,758 robots / 164,957 combined (Census II, rank 29th, *corrected 2026-07-03* — unaffected by the Census I redistribution)
+**Census Population:** 93,356 humans / 132,020 robots / 225,376 combined (Census I, rank 32nd — *revised 2026-07-03*: 30,000 humans redistributed to Vostok; see `Official_Population_Census.md`); 85,199 humans / 79,758 robots / 164,957 combined (Census II, rank 29th, *corrected 2026-07-03* — unaffected by the Census I redistribution) *(Census I figures corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** East Ongul Island, Lützow-Holm Bay, Prince Harald Coast (~69°00'S, 39°35'E)
 
 **One-liner:** *A city whose name carries the weight of an entire Japanese imperial era, sitting at the one point where the Mawson subnet, the road to Concordia, and the Halley subnet all physically meet — small in population, disproportionately vital in what runs through it.*
@@ -147,7 +147,7 @@ Modest but genuinely Japanese in character, given the city's status as Tepenia's
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (132,444 to 123,656 Census I), human-robot relations at Sayowa are shaped by the city's genuine junction responsibility — close coordination required to keep critical highway infrastructure functioning despite the city's own small population.
+With robots slightly outnumbering humans (132,020 to 93,356 Census I), human-robot relations at Sayowa are shaped by the city's genuine junction responsibility — close coordination required to keep critical highway infrastructure functioning despite the city's own small population.
 
 ---
 

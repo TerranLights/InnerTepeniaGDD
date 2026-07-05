@@ -48,33 +48,33 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| China (19.0%) | 114,637 | 109,804 | 74,705 | 64,024 |
-| Japan (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| Germany (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| UK (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| South Korea (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| Russia (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| Indonesia (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| Australia (7.1%) | 42,989 | 41,176 | 28,014 | 24,009 |
-| Thailand (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Ukraine (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Vietnam (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Philippines (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Malaysia (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Romania (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| South Africa (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| New Zealand (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Belarus (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Bulgaria (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Lithuania (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Latvia (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
-| Estonia (2.4%) | 14,330 | 13,725 | 9,338 | 8,003 |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | China | 19.05% | 114,637 | 109,804 | 74,705 | 64,024 |
+| Significant | South Korea | 9.39% | 56,500 | 54,117 | 36,819 | 31,554 |
+| Significant | Indonesia | 9.35% | 56,292 | 53,918 | 36,683 | 31,438 |
+| Significant | Australia | 8.76% | 52,726 | 50,502 | 34,359 | 29,447 |
+| Significant | Russia | 8.61% | 51,822 | 49,637 | 33,770 | 28,942 |
+| Significant | UK | 5.68% | 34,156 | 32,716 | 22,258 | 19,076 |
+| Significant | Germany | 4.93% | 29,686 | 28,434 | 19,345 | 16,579 |
+| Notable | Romania | 3.54% | 21,287 | 20,390 | 13,872 | 11,889 |
+| Notable | Malaysia | 3.41% | 20,546 | 19,680 | 13,389 | 11,475 |
+| Significant | Japan | 3.28% | 19,742 | 18,909 | 12,865 | 11,025 |
+| Notable | Vietnam | 3.16% | 19,005 | 18,204 | 12,385 | 10,614 |
+| Notable | Ukraine | 3.11% | 18,694 | 17,905 | 12,182 | 10,440 |
+| Notable | Belarus | 3.00% | 18,084 | 17,321 | 11,784 | 10,100 |
+| Notable | Thailand | 2.99% | 17,984 | 17,226 | 11,719 | 10,044 |
+| Notable | New Zealand | 2.97% | 17,867 | 17,114 | 11,644 | 9,979 |
+| Notable | Lithuania | 1.76% | 10,576 | 10,130 | 6,892 | 5,906 |
+| Notable | South Africa | 1.66% | 9,966 | 9,545 | 6,494 | 5,566 |
+| Notable | Bulgaria | 1.60% | 9,654 | 9,247 | 6,291 | 5,392 |
+| Notable | Latvia | 1.35% | 8,113 | 7,771 | 5,287 | 4,531 |
+| Notable | Estonia | 1.22% | 7,372 | 7,061 | 4,804 | 4,117 |
+| Notable | Philippines | 1.19% | 7,138 | 6,837 | 4,651 | 3,986 |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

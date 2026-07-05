@@ -4,7 +4,7 @@
 
 **Subnet:** Palmer ("American") — peripheral, dashed Arcanet boundary
 **Status:** Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — the most isolated city in Tepenia, overlooked entirely by Upper Earth's targeting due to sheer remoteness. But the war still reached it indirectly: cut supply lines have left its robot population facing a real siligel shortage, even though the human population can sustain itself indefinitely on the Scotia Sea's marine resources. A strong candidate DLC 3 questline — the untouched city that still needs the player's help.)*
-**Census Population:** 93,951 humans / 96,398 robots / 190,349 combined (Census I, rank 33rd, *corrected 2026-07-03*); 53,928 humans / 79,827 robots / 133,755 combined (Census II, rank 30th, *corrected 2026-07-03*)
+**Census Population:** 93,134 humans / 95,560 robots / 188,694 combined (Census I, rank 33rd, *corrected 2026-07-03, again 2026-07-05*); 53,928 humans / 79,827 robots / 133,755 combined (Census II, rank 30th, *corrected 2026-07-03*)
 **Location:** Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W)
 
 **One-liner:** *A city with no road to anywhere, whose isolation was always the point — untouched by the war that devastated everything around it, yet still starving its own robots of the one thing isolation can't provide.*
@@ -149,7 +149,7 @@ Modest and personal, consistent with the city's tiny, isolated scale — whateve
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (96,398 to 93,951 Census I) in one of Tepenia's smallest, most isolated cities, human-robot relations at Signy are shaped by genuine mutual dependence — a community this remote and this small doesn't have room for anything but close, trusted coordination.
+With robots slightly outnumbering humans (95,560 to 93,134 Census I) in one of Tepenia's smallest, most isolated cities, human-robot relations at Signy are shaped by genuine mutual dependence — a community this remote and this small doesn't have room for anything but close, trusted coordination.
 
 ---
 

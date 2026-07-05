@@ -6,7 +6,7 @@
 
 **Subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining its immediate Larsemann Hills neighbor Zhongshan, already Mirny subnet; real-world geography places the cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`.)*
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "destroyed" — see note above and `Specs/Soyuz.md`)*
-**Census Population:** 521,255 humans / 552,346 robots / 1,073,601 combined (Census I, rank 16th); 437,854 humans / 450,438 robots / 888,292 combined (Census II, rank 11th)
+**Census Population:** 519,191 humans / 550,159 robots / 1,069,350 combined (Census I, rank 16th); 437,854 humans / 450,438 robots / 888,292 combined (Census II, rank 11th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°22'S, 76°22'E)
 
 **One-liner:** *A city that named itself after a spacecraft rather than a place or a person — ambition chosen deliberately over nostalgia, in the densest multinational cluster the Mirny subnet has, badly hit by the Long Night War but standing still, alongside its effectively co-located neighbor Zhongshan.*
@@ -150,7 +150,7 @@ Genuinely mixed, spanning Russian and Australian founding traditions alongside c
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (552,346 to 521,255 Census I), human-robot relations at Soyuz were shaped by the city's genuine cluster-density character — coordination extended not just within the Russian-Australian founding community but across constant contact with Zhongshan and its other neighbor.
+With robots slightly outnumbering humans (550,159 to 519,191 Census I), human-robot relations at Soyuz were shaped by the city's genuine cluster-density character — coordination extended not just within the Russian-Australian founding community but across constant contact with Zhongshan and its other neighbor.
 
 ---
 

@@ -24,54 +24,54 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| USA (12.5%) | 23,828 | 23,284 | *(Census II N/A)* | *(Census II N/A)* |
-| Japan (12.5%) | 23,828 | 23,284 | *(Census II N/A)* | *(Census II N/A)* |
-| South Korea (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
-| Canada (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
-| Indonesia (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
-| Australia (4.7%) | 8,935 | 8,731 | *(Census II N/A)* | *(Census II N/A)* |
-| Germany (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| France (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| UK (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| New Zealand (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Mexico (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Chile (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Czech Republic (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Brazil (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Slovakia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Thailand (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Russia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Serbia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Belgium (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Italy (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Norway (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Croatia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| South Africa (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| China (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Slovenia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Romania (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Philippines (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Netherlands (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Poland (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Bulgaria (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Vietnam (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Spain (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Latvia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Argentina (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Sweden (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Belarus (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Ukraine (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Finland (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Lithuania (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Malaysia (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Hungary (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
-| Uruguay (1.6%) | 2,978 | 2,910 | *(Census II N/A)* | *(Census II N/A)* |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | Japan | 13.57% | 25,868 | 25,277 | *(N/A)* | *(N/A)* |
+| Primary | USA | 11.43% | 21,788 | 21,290 | *(N/A)* | *(N/A)* |
+| Significant | Indonesia | 6.42% | 12,237 | 11,957 | *(N/A)* | *(N/A)* |
+| Significant | South Korea | 6.19% | 11,798 | 11,528 | *(N/A)* | *(N/A)* |
+| Significant | Canada | 3.19% | 6,073 | 5,934 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 2.96% | 5,634 | 5,505 | *(N/A)* | *(N/A)* |
+| Notable | Lithuania | 2.27% | 4,320 | 4,221 | *(N/A)* | *(N/A)* |
+| Notable | Philippines | 2.23% | 4,242 | 4,145 | *(N/A)* | *(N/A)* |
+| Notable | Thailand | 2.22% | 4,223 | 4,127 | *(N/A)* | *(N/A)* |
+| Notable | China | 2.21% | 4,222 | 4,126 | *(N/A)* | *(N/A)* |
+| Notable | Brazil | 2.20% | 4,198 | 4,102 | *(N/A)* | *(N/A)* |
+| Notable | Malaysia | 2.20% | 4,202 | 4,106 | *(N/A)* | *(N/A)* |
+| Notable | Croatia | 2.16% | 4,126 | 4,031 | *(N/A)* | *(N/A)* |
+| Notable | Latvia | 2.15% | 4,090 | 3,997 | *(N/A)* | *(N/A)* |
+| Notable | Netherlands | 2.10% | 4,004 | 3,913 | *(N/A)* | *(N/A)* |
+| Notable | Slovakia | 2.06% | 3,931 | 3,841 | *(N/A)* | *(N/A)* |
+| Notable | South Africa | 2.02% | 3,842 | 3,754 | *(N/A)* | *(N/A)* |
+| Notable | Czech Republic | 1.96% | 3,742 | 3,656 | *(N/A)* | *(N/A)* |
+| Notable | Uruguay | 1.96% | 3,732 | 3,647 | *(N/A)* | *(N/A)* |
+| Notable | Vietnam | 1.94% | 3,698 | 3,613 | *(N/A)* | *(N/A)* |
+| Notable | UK | 1.93% | 3,686 | 3,602 | *(N/A)* | *(N/A)* |
+| Notable | New Zealand | 1.90% | 3,618 | 3,536 | *(N/A)* | *(N/A)* |
+| Notable | Romania | 1.90% | 3,616 | 3,533 | *(N/A)* | *(N/A)* |
+| Notable | Finland | 1.90% | 3,624 | 3,541 | *(N/A)* | *(N/A)* |
+| Notable | Norway | 1.23% | 2,339 | 2,285 | *(N/A)* | *(N/A)* |
+| Notable | Hungary | 1.23% | 2,341 | 2,287 | *(N/A)* | *(N/A)* |
+| Notable | Ukraine | 1.22% | 2,333 | 2,280 | *(N/A)* | *(N/A)* |
+| Notable | Germany | 1.19% | 2,259 | 2,208 | *(N/A)* | *(N/A)* |
+| Notable | Russia | 1.19% | 2,270 | 2,219 | *(N/A)* | *(N/A)* |
+| Notable | Belarus | 1.17% | 2,225 | 2,174 | *(N/A)* | *(N/A)* |
+| Notable | Poland | 1.16% | 2,215 | 2,164 | *(N/A)* | *(N/A)* |
+| Notable | France | 1.11% | 2,115 | 2,067 | *(N/A)* | *(N/A)* |
+| Notable | Bulgaria | 1.06% | 2,026 | 1,980 | *(N/A)* | *(N/A)* |
+| Notable | Chile | 1.02% | 1,953 | 1,908 | *(N/A)* | *(N/A)* |
+| Notable | Argentina | 0.98% | 1,867 | 1,824 | *(N/A)* | *(N/A)* |
+| Notable | Mexico | 0.96% | 1,831 | 1,790 | *(N/A)* | *(N/A)* |
+| Notable | Italy | 0.92% | 1,755 | 1,715 | *(N/A)* | *(N/A)* |
+| Notable | Slovenia | 0.92% | 1,759 | 1,719 | *(N/A)* | *(N/A)* |
+| Notable | Belgium | 0.91% | 1,734 | 1,694 | *(N/A)* | *(N/A)* |
+| Notable | Spain | 0.91% | 1,735 | 1,695 | *(N/A)* | *(N/A)* |
+| Notable | Sweden | 0.90% | 1,715 | 1,675 | *(N/A)* | *(N/A)* |
+| Notable | Serbia | 0.86% | 1,637 | 1,600 | *(N/A)* | *(N/A)* |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

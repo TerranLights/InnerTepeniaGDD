@@ -24,29 +24,29 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-| | Census I | Census I | Census II | Census II |
-|---|---|---|---|---|
-| **Nationality (share %)** | **Robots** | **Humans** | **Robots** | **Humans** |
-| USA (23.5%) | 174,728 | 167,000 | 136,202 | 119,814 |
-| Germany (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
-| France (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
-| UK (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
-| Canada (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
-| Brazil (8.8%) | 65,523 | 62,625 | 51,076 | 44,930 |
-| Poland (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Netherlands (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Argentina (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Czech Republic (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Hungary (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| South Africa (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Slovakia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Chile (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Croatia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Serbia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
-| Slovenia (2.9%) | 21,841 | 20,875 | 17,025 | 14,977 |
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-*Figures derived from each city's total human and robot populations using the project's standard share-weighting methodology (Primary=8 shares, Significant=3 shares, Notable=1 share per nation) — see `Upper_Earth_Immigration_Composition.md`. Percentages are of this city's own population for that tier's share weight (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, per the project's established methodology (robot population is not independently tracked by nationality, but is understood to distribute in the same proportion).*
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | USA | 23.53% | 174,728 | 167,000 | 136,202 | 119,814 |
+| Significant | Brazil | 11.69% | 86,800 | 82,961 | 67,661 | 59,520 |
+| Significant | UK | 10.57% | 78,521 | 75,048 | 61,208 | 53,843 |
+| Significant | Canada | 10.34% | 76,753 | 73,358 | 59,829 | 52,630 |
+| Significant | France | 7.31% | 54,294 | 51,892 | 42,322 | 37,230 |
+| Notable | Netherlands | 4.30% | 31,955 | 30,541 | 24,909 | 21,912 |
+| Significant | Germany | 4.21% | 31,248 | 29,866 | 24,358 | 21,427 |
+| Notable | Croatia | 4.16% | 30,859 | 29,494 | 24,055 | 21,160 |
+| Notable | Serbia | 4.10% | 30,465 | 29,118 | 23,748 | 20,890 |
+| Notable | Slovenia | 4.08% | 30,288 | 28,948 | 23,610 | 20,769 |
+| Notable | Chile | 3.82% | 28,366 | 27,111 | 22,112 | 19,451 |
+| Notable | Poland | 3.56% | 26,437 | 25,267 | 20,608 | 18,128 |
+| Notable | Argentina | 2.32% | 17,245 | 16,483 | 13,443 | 11,825 |
+| Notable | South Africa | 1.80% | 13,394 | 12,802 | 10,441 | 9,185 |
+| Notable | Czech Republic | 1.78% | 13,217 | 12,632 | 10,303 | 9,063 |
+| Notable | Hungary | 1.58% | 11,727 | 11,209 | 9,142 | 8,042 |
+| Notable | Slovakia | 0.85% | 6,299 | 6,020 | 4,910 | 4,319 |
 
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 
