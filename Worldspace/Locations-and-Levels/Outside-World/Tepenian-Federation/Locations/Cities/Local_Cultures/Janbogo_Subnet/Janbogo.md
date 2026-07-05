@@ -137,6 +137,8 @@ Inside, the character inverts completely. Teahouses and communal interior spaces
 
 Practical, layered, wind-resistant — Janbogo clothing has to survive katabatic conditions, and the city's fashion sensibility treats function and warmth as inseparable from style rather than opposed to it. Korean-influenced layering principles (functional under-layers, a more expressive and warmer outer layer meant to be seen once you're inside) persist broadly. Interior wear, specifically teahouse and hosting attire, is where aesthetic expression concentrates — soft fabrics, warm colors, garments meant to be comfortable for long unhurried hours indoors. A Janbogo local's "good clothes" are almost always their indoor clothes, not their outdoor ones.
 
+*(Established 2026-07-05, developer vision session — see `City_Vision_Notes/Janbogo.md`.)* This same insulated-but-vivid principle extends across the whole city, not just teahouses: fashionable residents fill Janbogo's huge shielded indoor commercial and social spaces in richly colored, insulated outfits — a genuine Chinese-French design fusion layered on top of the Korean foundation, fitting given China's own co-Primary demographic weight here. France itself has only a small, occasional resident presence — not enough to register in the formal composition tiers — but French design language is independently popular as a style choice, the way a fashion tradition can be widely admired and adopted without a large population behind it.
+
 ---
 
 ## 12. Music
@@ -292,8 +294,9 @@ There's no formal ceremony, but the marker is specific and well understood: you 
 ## 29. Notable Local Landmarks
 
 - **The site of Majyao's original teahouse** — the establishment famous throughout Tepenia before its keeper relocated to Concordia; current state (preserved, repurposed, damaged) is a DLC 6 open question
-- **The Zukelli view** — the waterfront sightline north to Zukelli's ruins, ~8km distant; visible on clear days and during midnight sun; unique in Tepenia
+- **The Zukelli view** — the waterfront sightline north to Zukelli's ruins, ~8km distant; visible on clear days and during midnight sun; unique in Tepenia. **Established 2026-07-05:** not incidental — Zukelli was destroyed in a deliberate strike meant to guarantee the death of AWOL Upper Earth defectors it had sheltered, and to send a message to the rest of Tepenia about harboring them; Janbogo surviving close enough to see it was very likely the intended point. See `Specs/Zukelli.md`.
 - **The Hwy 183 terminus / port complex** — the operational heart of Janbogo's supply relationship with Concordia
+- **The great shielded commercial halls** *(established 2026-07-05)* — huge indoor shopping and social districts, brightly lit and constantly active, where most of daily Janbogo life actually happens; the direct architectural fulfillment of the outside-hostile/inside-warm design principle already established in Section 9, at a genuinely large civic scale rather than just individual teahouses
 - Additional named locations: TBD — DLC 6 design work
 
 ---
