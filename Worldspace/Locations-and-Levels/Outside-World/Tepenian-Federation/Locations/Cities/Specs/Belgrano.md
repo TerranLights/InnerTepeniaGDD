@@ -70,13 +70,14 @@ Belgrano had the operational character of an aviation hub — transient, functio
 ---
 
 ## Economy & Industry
-Aviation logistics, Weddell Sea access, whatever the Coats Land coast offered. Full detail TBD for DLC 5.
+Aviation logistics, Weddell Sea access, whatever the Coats Land coast offered. **Established 2026-07-04** (previously only documented in `Specs/Sanay.md`/`Halley.md`/`Troll.md`, not here — added for consistency): Belgrano is, alongside Sanay, one of the two coastal receiving ports for South African freighter shipments — Halley subnet's confirmed Upper Earth shipping partner. Goods land here (or at Sanay, whichever passage is open) and are trucked overland via Hwy 7 to Halley (which has no docks of its own) and onward to Troll, which flies them across the rest of Tepenia. Full further detail TBD for DLC 5.
 
 ---
 
 ## Notable Locations
 - **The Belgrano airfield** — primary Halley subnet aviation hub; in ruins
 - **Weddell Sea approach** — the sea-ice-heavy southern Weddell Sea approach conditions; distinctive DLC 5 maritime environment
+- **A garage/warehouse holding a DLC 4 quest item** *(established 2026-07-04)* — discoverable through at least three different sources, or direct access if already known. Contains a pile of scrap holding a specifically-shaped aircraft part (found via 6+ Investigation, or via a Lockpicking-gated back-room manifest note instead). Carrying this item into DLC 4 (Mawson) lets the player bypass the 10 Calc/10 Inv stat-gate on the Soyuz plane-repair sidequest entirely. See `TODO.md`'s Decision Required section and `Specs/Soyuz.md` for the full cross-DLC mechanic.
 - Additional locations: TBD for DLC 5
 
 ---
@@ -99,5 +100,5 @@ Belgrano's most lasting contribution to Tepenian history may be the maps that he
 ## Open Questions
 - **The map archive** — where exactly were the Belgrano maps that enabled the Byrd founding expedition? Did Belgrano have a specific archival institution, or were they recovered from general ruins?
 - **Argentine network across subnets** — Esperanza (Palmer), Marambio (Palmer), Belgrano (Halley): three Argentine cities in two subnets; what inter-subnet Argentine cultural connections existed before the Planetary Split Brain?
-- **Demonym** — **Belgranian** *(established 2026-07-04; local Spanish: "belgralteco/belgralteca")*
+- **Demonym** — **Belgranian** *(established 2026-07-04; local Spanish: "belgranteco/belgranteca")*
 - **Notable figures** — TBD

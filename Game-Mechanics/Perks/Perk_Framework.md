@@ -1,5 +1,7 @@
 # Perk Framework — Inner Tepenia
 
+**Marked for future review (2026-07-04):** every specific perk designed so far, in every category and every file this document points to, is provisional — see the same note at the top of `Regular_Perks_-_Level-Up.md`. Filling out the target counts below is not the same as locking in the perks already written; expect adjustment as more get added and as actual design & development work begins.
+
 ## Design Foundation
 
 Inner Tepenia's perk system is modeled on **Fallout: New Vegas** and inherits its most important structural insight: the perks a player *chooses* at level-up are their build decisions, while the perks they *earn* through play are rewards for how they actually lived in the world. These two pools never compete for the same slot.
@@ -7,7 +9,7 @@ Inner Tepenia's perk system is modeled on **Fallout: New Vegas** and inherits it
 The result is a system where two playthroughs of the same character build can feel radically different, because the earned perks collected along the way reflect which quests were done, which companions were romanced or lost, which factions were helped or burned, which enemies were hunted obsessively, and what corners of the world were found.
 
 **Target perk count (base game):**
-- Level-up perks available to choose from: **160 distinct perks** (target; 5× the 32 available perk slots, so the player always has far more options than opportunities). Currently at **61/160** (38%) — see `Regular_Perks_-_Level-Up.md`. Remaining ~100 perks are pending design.
+- Level-up perks available to choose from: **160 distinct perks** (target; 5× the 32 available perk slots, so the player always has far more options than opportunities). Currently at **76/160** (48%) as of 2026-07-04 — see `Regular_Perks_-_Level-Up.md`. Remaining ~84 perks are pending design.
 - Total earned perks across all categories: **200–300+**
 - Grand total: **250–360+ perks** before any DLC
 
@@ -395,7 +397,7 @@ When designing a perk that covers territory Fallout 1/2 and FNV both cover, the 
 
 | File | Category | Status |
 |------|----------|--------|
-| `Regular_Perks_-_Level-Up.md` | Tier 1: Level-Up | Partial (61 designed; ~99 more needed to reach 160 target) |
+| `Regular_Perks_-_Level-Up.md` | Tier 1: Level-Up | Partial (76 designed; ~84 more needed to reach 160 target) |
 | `Challenge_Perks_-_Task-Based.md` | Category A: Challenge | Partial (~7 perks; needs ~100+ more) |
 | `Companion_Perks.md` | Category B: Companion | Not yet created |
 | `Quest_and_Choice_Perks.md` | Category C: Quest/Choice | Not yet created |
@@ -411,7 +413,7 @@ When designing a perk that covers territory Fallout 1/2 and FNV both cover, the 
 
 | Category | File | Target Count |
 |----------|------|-------------|
-| Level-Up | `Regular_Perks_-_Level-Up.md` | 160 target; 61 currently designed |
+| Level-Up | `Regular_Perks_-_Level-Up.md` | 160 target; 76 currently designed |
 | Challenge | `Challenge_Perks_-_Task-Based.md` | ~100–150 (across ~60–75 challenges) |
 | Companion | `Companion_Perks.md` | ~25–40 |
 | Quest / Choice | `Quest_and_Choice_Perks.md` | ~50–70 |

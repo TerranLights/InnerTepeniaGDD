@@ -1,0 +1,421 @@
+		///////////////
+		// UNIVERSAL //
+		///////////////
+
+Intense Training (10)
+You can put a single point into any of your SPECIAL attributes. 
+
+		/////////////
+		// Level 2 //
+		/////////////
+
+Black Widow
++10% damage to the opposite sex and unique dialogue options with certain characters. 
+
+Cherchez La Femme
++10% damage to the same sex and unique dialogue options with certain characters. 
+
+Friend of the Night [[Per 6, Sneak 30]]
+Your eyes adapt quickly to low-light conditions.
+
+Heave, Ho! [[Str 5, Explosives 30]]
++50% thrown weapon velocity and range. 
+
+Hunter [[Survival 30]]
+In combat, you do 75% more critical damage against animals and mutated animals.
+
+Junk Rounds [[Luck 6, Repair 45]]
+You can craft ammunition using scrap metal and tin cans.
+
+Light Touch [[Agl 6, Repair 45]]
+While wearing light armor you gain +5% critical hit chance and your enemies suffer a -25% critical hit chance. 
+
+Old World Gourmet [[End 6, Survival 45]]
++25% addiction resistance. +50% health bonus from snack foods. Scotch, vodka and wine now give you health in addition to their normal effects. 
+
+Rapid Reload [[Agl 5, Guns 30]]
+All of your weapon reloads are 25% faster than normal.
+
+Retention [[Int 5]]
+Skill magazines last for 3 real-time minutes. 
+
+Swift Learner [[Int 4]] (ranks: 3)
+You gain an additional 10% whenever experience points are earned. 
+
+		/////////////
+		// Level 4 //
+		/////////////
+
+Cannibal
+When you're in Sneak mode, you gain the option to eat a human corpse to regain hit points, but lose Karma. 
+
+Comprehension
+You gain one additional skill point for reading books and double the skill points for reading magazines. 
+
+Educated [[Int 4]]
+You gain two more skill points every time you advance in level. 
+
+Entomologist [[Int 4, Survival 45]]
+You do an additional 50% damage every time you attack a mutated insect. 
+
+Rad Child [[Survival 70]]
+Regenerate 2 HP per second per 200 rads accumulated.
+
+Run 'n Gun [[Guns 45 ||OR|| Energy Weapons 45]]
+Halved spread with one-handed ranged weapons while walking or running.
+
+Travel Light [[Survival 45]]
+While wearing light armor or no armor, you run 10% faster.
+
+		/////////////
+		// Level 6 //
+		/////////////
+
+Bloody Mess
++5% overall damage; more violent death animations. 
+
+Demolition Expert [[Explosives 50]] (ranks: 3)
++20% damage with explosives. 
+
+Ferocious Loyalty [[Cha 6]]
+When you drop below 50% HP, companions gain +50 DR.
+
+Fortune Finder [[Luck 5]]
+Considerably more bottle caps will be found in stockpiles.
+
+Gunslinger
++25% accuracy in V.A.T.S. with one-handed weapons.
+
+Hand Loader [[Repair 70]]
+When using Guns, you are twice as likely to recover cases and hulls. You also have all hand load recipes unlocked at any reloading benches. 
+
+Lead Belly [[End 5 ||OR|| Survival 40]]
+-50% radiation taken from food and water sources.
+
+Mad Bomber [[Repair 45, Explosives 45]]
+Enables you to create special explosive recipes at any workbench.
+
+Shotgun Surgeon [[Guns 45]]
+When using shotguns, regardless of ammunition used, you ignore an additional 10 points of a target's Damage Threshold.
+
+The Professional [[Sneak 70]]
+Your Sneak Attack Criticals with revolvers, pistols, and submachine guns (guns and energy weapons) all inflict an additional 20% damage. 
+
+Toughness [[End 5]] (ranks: 2)
++3 DT permanently. 
+
+Vigilant Recycler [[Science 70]]
+When using Energy Weapons, you are twice as likely to recover drained ammunition. You also have more efficient recycling recipes available at workbenches.
+
+		/////////////
+		// Level 8 //
+		/////////////
+
+Commando
++25% accuracy in V.A.T.S. with two-handed weapons. 
+
+Cowboy [[Guns 45, Melee 45]]
++25% damage done by dynamite, hatchets, knives, revolvers, and lever-action guns. 
+
+Grunt [[Guns 45, Explosives 20]]
+25% more damage with 9mm pistols and SMGs, .45 pistols and SMGs, service rifles, assault and Marksman carbines, light machine guns, frag grenades, grenade rifles and launchers and combat knives
+NOTE:: (does not function with DLC weapons not from Honest Hearts.
+
+Home on the Range [[Survival 70]]
+Whenever you interact with a campfire, you have the option of sleeping, with all the benefits that sleep brings.
+
+Living Anatomy [[Medicine 70]]
+Shows health and Damage Threshold of any target. +5% bonus to damage against humans and non-feral ghouls. 
+
+Pack Rat [[Int 5, Barter 70]]
+Items with a weight of two pounds or less now weigh half as much.
+
+Quick Draw [[Agl 5]]
+Makes weapon equipping and holstering 50% faster. 
+
+Rad Resistance [[EN 5, Survival 40]]
++25% radiation resistance permanently.
+
+Scrounger [[Luck 5]]
+Considerably more ammunition in stockpiles.
+
+Sneering Imperialist
++15% Damage and +25% accuracy in V.A.T.S. to various tribal and raider characters.
+
+Tribal Wisdom [[Survival 70]]
+-50% limb damage from animals, mutated animals, and mutated insects, +25% to Poison Resistance, ability to eat mutated insects in sneak mode.
+
+Stonewall [[Str 6, End 6]]
++5 DT against melee and unarmed attacks and cannot be knocked down during combat. 
+
+Strong Back [[Str 5, End 5]]
++50 Carry Weight. 
+
+Super Slam! [[Str 6, Melee Weapons 45]]
+All melee (except thrown) and unarmed attacks have a chance of knocking your target down. 15% for Unarmed or one-handed melee, 30% for two-handed melee.
+
+Terrifying Presence [[Speech 70]]
+Can intimidate foes through dialogue; closing dialogue results in the foe fleeing for 5 seconds. 
+
+		//////////////
+		// Level 10 //
+		//////////////
+
+And Stay Back [[Guns 70]]
+Shotguns have a 10% chance, per pellet, of knocking an enemy back in a way similar to the Super Slam! perk. 
+
+Here and Now
+You instantly level up again. 
+
+Animal Friend [[Cha 6, Survival 45]] (ranks: 2)
+With the first rank, hostile animals become neutral. With the second rank, they assist in combat, but not against other animals. 
+
+Fight the Power!
++2 Damage Threshold and +5% Critical Chance against anyone wearing NCR, Legion or Brotherhood of Steel armor.
+
+Finesse
++5% Critical Chance. 
+
+Math Wrath [[Science 70]]
+Reduces all AP costs by 10%
+
+Miss Fortune [[Luck 6]]
+10% chance that Miss Fortune will incapacitate a target in V.A.T.S. 
+
+Mister Sandman [[Sneak 60]]
+Can instantly kill a sleeping non-player character and earn bonus XP when doing so. 
+
+Mysterious Stranger [[Luck 6]]
++50% damage with fire-based weapons.
+
+Robotics Expert [[Science 50]]
++25% damage to robots; can shut down robots by sneaking up on them and deactivating. 
+10% chance that the Mysterious Stranger will finish off a target in V.A.T.S. 
+
+Nerd Rage! [[Int 5, Science 50]]
++15 DT and Strength increased to 10 whenever health is 20% or lower.
+
+Night Person
++2 Intelligence and +2 Perception between 6:00 P.M. and 6:00 A.M.
+
+Plasma Spaz [[Energy Weapons 70]]
+AP costs for all plasma weapons are reduced by 20%.
+
+		//////////////
+		// Level 12 //
+		//////////////
+
+Alertness [[Per between 6 and 9]]
++2 Perception when crouched and still.
+
+Fast Metabolism
++20% Hit Points restored with stimpaks. 
+
+Ghastly Scavenger [["Cannibal" perk]]
+When you're in Sneak mode, you gain the option to eat a super mutant or feral ghoul corpse to regain hit points, but lose Karma. 
+
+Heavyweight [[Str]]
+Weapons with a weight of more than 10 are cut in half. This does not affect weapons modded to under 10 wg. 
+
+Hobbler [[Per 7]]
+Your chance to hit an opponent's legs in V.A.T.S. is increased by 25%.
+
+Hit the Deck [[Explosives 70]]
++25 DT against explosives.
+
+Life Giver [[End 6]]
++30 HP
+
+Long Haul [[End 6, Barter 70]]
+Being over-encumbered no longer prevents you from using fast travel.
+
+Piercing Strike [[Unarmed 70]]
+All your unarmed and melee attacks negate 15 points of DT. 
+
+Pyromaniac [[Explosives 60]]
++50% damage with fire-based weapons.
+
+Robotics Expert [[Science 50]]
++25% damage to robots; can shut down robots by sneaking up on them and deactivating. 
+
+Silent Running [[Agl 6, Sneak 50]]
+Running no longer factors into a successful sneak attempt.
+
+Sniper [[Per 6, Agl 6]]
+25% more likely to hit the target's head in V.A.T.S
+
+Splash Damage [[Explosives 70]]
+Explosives have a 25% larger area of effect.
+
+Unstoppable Force [[ST 7, Melee Weapons 90]]
+x4 normal damage through enemy Blocks with melee and unarmed attacks.
+
+		//////////////
+		// Level 14 //
+		/////////////
+For each crippled limb you have, you do an additional 10% damage. Adamantium Skeleton
+Damage taken by limbs reduced by 50%. 
+
+Center of Mass [[Guns 70]]
+In V.A.T.S., you do an additional 15% damage when targeting the torso.
+
+Chemist [[Medicine 60]]
+Chems and (in Hardcore) stimpaks last twice as long. 
+
+Jury Rigging [[Repair 90]]
+Repair any item using a roughly similar item.
+
+Light Step [[Per 6, Agl 6]]
+Floor traps or mines will not be set off. 
+
+Purifier
+You do 50% extra damage with melee and Unarmed weapons against centaurs, night stalkers, spore plants, spore carriers, deathclaws and super mutants. 
+
+		//////////////
+		// Level 16 //
+		//////////////
+
+Action Girl [[Agl 6]] (ranks: 2)
++15 AP (per rank)
+
+Better Criticals [[Per 6, Luck 6]]
++50% damage with critical hits.
+
+Chem Resistant [[Medicine 60]]
+Half as likely to get addicted.
+
+Meltdown [[Energy Weapons 90]]
+Foes killed by your Energy Weapons emit a corona of harmful energy. 
+
+Tag!
+[[Fourth "tag" skill: +15 points to that skill.]]
+
+Weapon Handling [[Str < 10]]
+Weapon Strength requirements are now 2 points lower than normal for you.
+
+		//////////////
+		// Level 18 //
+		//////////////
+
+Computer Whiz [[Int 7, Science 70]]
+Can make one extra attempt to hack a locked-down terminal.
+
+Concentrated Fire [[Energy Weapons 60, Guns 60]]
++5% accuracy in V.A.T.S. with every subsequent attack on a given body part queued.
+
+Infiltrator [[Per 7, Lockpick 70]]
+Can make one more attempt to pick a broken lock.
+
+Paralyzing Palm [[Unarmed 70]]
+Can paralyze an enemy for 30 seconds with a V.A.T.S. unarmed attack.
+
+Walker Instinct [[Survival 50]]
++1 Perception and Agility when outside. 
+
+		//////////////
+		// Level 20 //
+		//////////////
+
+Atomic! [[End 6]]
+In irradiated areas, +25% move and attack speed, +2 DT, +2 ST. With excess rad level, AP regen scales from 1.1 times to 1.5 times normal.
+
+Explorer
+All locations are marked on your map. 
+
+Eye for Eye
+For each crippled limb you have, you do an additional 10% damage. 
+
+Grim Reaper's Sprint
+A kill in V.A.T.S. restores 20 AP immediately. 
+
+Mile in Their Shoes [[Survival 25]]
+You have come to understand night stalkers. Consuming night stalker squeezin's now grants bonuses to Perception (+1 PER), Poison Resistance (+5), and Stealth (+5 Sneak) in addition to the normal benefits.
+
+Ninja [[Melee Weapons 80, Sneak 80]]
+Multiplies Critical Chance by x1.15 with melee and unarmed weapons (despite the description stating it's a flat +15% bonus), and grants +25% damage with melee/unarmed sneak attack criticals.
+
+Solar Powered [[End 7]]
++2 Strength and +1 HP per second while outside, from 6:00 A.M. to 6:00 P.M.
+
+Them's Good Eatin' [[Survival 55]]
+Any living creature you kill has a 50% chance to have the potent healing items thin red paste or blood sausage when looted. 
+
+		//////////////
+		// Level 22 //
+		//////////////
+
+Irradiated Beauty [[End 8]]
+Sleep removes all Rads (Hardcore: only -100 Rads).
+
+Laser Commander [[Energy Weapons 90]]
+You do an extra 15% damage and have a 10% extra chance to critically hit with any laser weapon. 
+
+Voracious Reader [[Int 7]]
+Damaged books become blank magazines; can copy existing magazines into blank magazines. 
+
+		//////////////
+		// Level 24 //
+		//////////////
+
+Slayer [[AG 7, Unarmed 90]]
+The speed of all your melee and unarmed attacks is increased by 30%.
+
+		//////////////
+		// Level 26 //
+		//////////////
+
+Nerves of Steel [[Agl 7]]
+20% faster AP regeneration. 
+
+Tunnel Runner [[Agl 8]]
++25% sneaking speed when wearing light or no armor.
+
+		//////////////
+		// Level 28 //
+		//////////////
+
+Rad Absorption [[End 7]]
+-1 Rad every 20 seconds.
+
+Roughin' It [[Survival 100]]
+Sleeping outside gives Well Rested benefit. 
+
+		//////////////
+		// Level 30 //
+		//////////////
+
+Implant GRX [[End 8]]
+You gain a non-addictive subdermal turbo (chem) injector. This perk may be taken twice, with the second rank increasing the effect from 2 to 3 seconds and the uses per day from 5 to 10 (activated in the Pip-Boy inventory). 
+
+Burden to Bear [[Str 6, End 6]]
++50 carry weight.
+
+		//////////////
+		// Level 36 //
+		//////////////
+
+Broad Daylight
+No Sneak penalty for using Pip-Boy light.
+
+		//////////////
+		// Level 40 //
+		//////////////
+
+Certified Tech
++25% critical hit chance against robots, 85% chance of finding an extra crafting component on destroyed robots. 
+
+		//////////////
+		// Level 50 //
+		//////////////
+
+	// if Karma < -250
+Ain't Like That Now
+Karma reset to 0, +25% AP regeneration rate, +20% attack speed, immunity to critical hits. 
+
+	// if (-250 < Karma < 250)
+Just Lucky I'm Alive
++4 Luck for 3 minutes upon finishing a battle with less than 25% health; immunity to critical hits, +50% critical damage. 
+
+	// if Karma > 250
+Thought You Died
++10 Health per 100 Karma; Karma reset to 0, +10% damage, immunity to critical hits

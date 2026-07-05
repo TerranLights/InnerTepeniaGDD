@@ -7,7 +7,9 @@
 **Census II Population:** 429,820 humans / 407,948 robots / 837,768 combined *(pre-decline figure — see Section 2)*
 **Location:** Confín Coast, Coats Land, southern Weddell Sea (~77°52'S, 34°37'W)
 
-**One-liner:** *The city that didn't die in the war — it died afterward, slowly, and the people who stayed learned to live inside the corpse.*
+**One-liner:** *A hard, disciplined, purposeful aviation hub — Argentine Air Force exiles running the Halley subnet's frontier, founding character intact 130 years on regardless of who's actually living there now.*
+
+*(Corrected 2026-07-04: this section previously blended the city's living interwar-era identity with its post-war "Decline" into one two-layer culture — the only Tepenian city whose Local_Cultures file did this, breaking from the standard methodology every other city follows of keeping living pre-war culture here and destruction/decline facts in Specs/the post-war layer. The Decline content has been moved to `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`, where it now has its own dedicated faction entry. This file is restored to describing Belgrano's actual living, functioning interwar culture only.)*
 
 ---
 
@@ -47,7 +49,7 @@ Belgrano is the southernmost city in the Halley subnet, and one of the coldest i
 
 The founding Air Force culture treated this harshness the way military installations treat hostile environments generally: not as something to be softened, but as an operational parameter to be planned around. Belgrano was never a comfortable city. It was a functional one, built by people who expected hardship and organized their whole civic character around meeting it without complaint.
 
-In its ruined state, the climate has become an active antagonist rather than a managed condition — infrastructure that once compensated for the cold now fails intermittently or not at all, and survival in the ruins requires the same discipline the founders brought, minus the institutional support that used to back it up.
+The climate is a managed operational parameter, not an obstacle — infrastructure built to compensate for the cold runs continuously and reliably, maintained by the same institutional discipline that defines everything else about the city.
 
 ---
 
@@ -55,7 +57,7 @@ In its ruined state, the climate has become an active antagonist rather than a m
 
 Polar night runs roughly April 24 to August 18 — about 116 days, one of the longest dark periods in Tepenia, reflecting the southern latitude. Midnight sun runs late October to mid-February, about 105 days.
 
-At peak, Belgrano's aviation operations were seasonally gated by weather windows — flights concentrated in the more permissive summer months, the long winter dark reserved for maintenance, training, and the kind of long-view institutional work an airbase does when it can't fly. In ruin, the seasonal rhythm has inverted in feeling if not in fact: summer is when scavenging, salvage, and travel through the ruins is survivable; the long winter dark is endured rather than used, in a city with far fewer hands and far less infrastructure than it once had.
+Belgrano's aviation operations are seasonally gated by weather windows — flights concentrate in the more permissive summer months, while the long winter dark is reserved for maintenance, training, and the kind of long-view institutional work an airbase does when it can't fly. The rhythm is entirely operational: dictated by flight schedules and maintenance cycles, not by any softer civic calendar.
 
 ---
 
@@ -65,19 +67,15 @@ At peak, Belgrano's aviation operations were seasonally gated by weather windows
 
 ## 5. Post-Culture Identity
 
-**Name/concept:** *The Airbase That Outlived Itself* — colloquially, among Halley subnet residents, *the Bone Yard*
+**Name/concept:** *The Airbase That Never Stood Down*
 
-Belgrano's culture exists in two layers, and both matter. The first is the peak-era culture: 130 years of a hard, disciplined, functionally-minded aviation hub, founded by Argentine Air Force exiles and carried forward by a demographic majority that never bothered to soften it. That culture was purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic character.
+Belgrano's civic character, across its whole 130-year interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine Air Force exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
 
-The second layer is what happened after the Long Night War, when Belgrano — spared the direct destruction that erased Zukelli, Soyuz, and Denison — instead declined. Slowly. Whatever combination of infrastructure failure, population loss, and severed supply lines did it, the city that survived the war did not survive the peace. What's left is not a dead city; it's a dying one that stopped dying at some equilibrium point and simply kept existing, inhabited by people who chose to stay or arrived because leaving wasn't an option.
+- **a. Founding tension** — Argentina founded the city and set its entire character, then became its smallest recognized demographic tier over the following century-plus. The tension isn't about whose culture is "real" — the founding discipline was thoroughly adopted by everyone who came after, regardless of where they were from, so the question is less "does Argentine culture survive" and more "why did an operational ethos this total prove so contagious to later arrivals."
 
-The people who remained inherited the founding culture's discipline without its institutional backing — they still function like an airbase crew, because that's the only civic template Belgrano ever had, but there's no chain of command left to answer to. It's discipline as habit and inheritance, not discipline in service of an organization that still exists.
+- **b. Fault lines** — the peak-era discipline occasionally strains against ordinary civilian life: residents who want Belgrano to be a place people actually live, not just an airbase crew roster with houses attached, versus a majority who genuinely prefer the clarity of function-first civic life and see the alternative as drift.
 
-- **a. Founding tension** — Argentina founded the city and set its entire character, then became its smallest recognized demographic tier, and then the city itself stopped being a going concern. The tension here isn't about whose culture is "real" — it's about whether a culture can be said to persist at all once the population sustaining it has collapsed by an order of magnitude. Belgrano's remaining residents largely believe it can. Visitors from healthier cities aren't always sure.
-
-- **b. Fault lines**
-  - Between those who remember peak Belgrano (aging residents, some robots with long service records) and those born into the ruins, who never knew the city as anything but this — the former carry grief for something lost, the latter carry no such grief because they never had the thing to lose.
-  - Between "staying is loyalty" and "staying is just what happened to you" — some residents frame their presence as a deliberate choice to keep the city's memory alive; others are simply people who never found a way out and have made peace, more or less, with where that left them.
+*(What ultimately happens to this discipline once the institution enforcing it is gone — the post-war "Decline" — is a separate, later chapter in Belgrano's story, not part of its living interwar identity. See `City_Origin_Factions_PostWar_Refugee.md` for that layer.)*
 
 ---
 
@@ -85,17 +83,16 @@ The people who remained inherited the founding culture's discipline without its 
 
 - **a. Function before comfort.** The founding Air Force ethic survives intact: things that work matter more than things that are pleasant. A Belgrano resident judges a person, a tool, or a shelter by whether it does the job, not by how it feels to use.
 - **b. Hospitality character** — Blunt and practical. You're given what you need — shelter, warmth, information about hazards — without ceremony. Belgrano hospitality reads as cold to outsiders used to warmer cities, but it is genuinely generous; it just isn't performed.
-- **c. Discipline without a chain of command** — Residents maintain schedules, maintenance routines, and mutual-aid rotations with a rigor that outsiders find almost inexplicable given that no formal authority enforces any of it. This is the founding institutional culture running on inertia and habit, decades after the institution itself effectively stopped existing.
-- **d. Public/private divide** — Thin, out of necessity. Survival in a ruined city means everyone knows everyone's resource situation, health status, and capabilities. Privacy is a luxury Belgrano mostly can't afford.
-- **e. Privacy as civic value** — Low, functionally. What little Arcanet infrastructure remains is used almost entirely for practical coordination — hazard warnings, resource locations, salvage claims — not social or personal content.
+- **c. Discipline through the chain of command** — Residents maintain schedules, maintenance routines, and mutual-aid rotations with a rigor that outsiders find almost military, because it is: the Air Force institutional structure never really stopped operating, just extended its command culture to cover an entire civilian population that grew up inside it.
+- **d. Public/private divide** — Thin, but by institutional design rather than necessity. A population this closely integrated around one operational purpose means everyone knows everyone's role, readiness, and capability — the same way any well-run installation would.
+- **e. Privacy as civic value** — Low, functionally. Arcanet infrastructure is used almost entirely for practical coordination — flight schedules, maintenance logs, hazard warnings — not social or personal content. Belgrano simply never developed much of a taste for using its network that way.
 
 ---
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** People with nowhere else to go, people specifically drawn to salvage and archival work (see Section 25), people who find the discipline-without-institution rhythm of the place clarifying rather than bleak. Datashard couriers and archivists operating along the Atlantic coast use Belgrano's ruins as a waypoint and resource.
-- **The type this city repels:** Anyone who needs infrastructure to actually be reliable. Anyone seeking a functioning civic community rather than a disciplined population managing decline.
-- **Case study — Salagéa Aparast:** A Belgrano native who chose not to settle in the ruins but to live aboard a boat she sails herself along the Atlantic coast, collecting datashards from the old pre-war internet and delivering them into Tepenia's archival network. She embodies the discipline-without-institution ethos exactly — nobody assigns her this work, no organization employs her for it, but she carries out the function with the same rigor Belgrano's Air Force founders would have recognized. She stayed on Earth during the Long Night War specifically to keep archiving, rather than flee via Amundsen Tower — a decision entirely legible as a Belgrano native's decision, even though her life's work happens elsewhere along the coast.
+- **The type this city draws:** Aviation and logistics professionals, mechanics and engineers, people genuinely comfortable inside an institutional, almost-martial civic structure, and anyone who finds clarity rather than confinement in a place where function is the only real currency.
+- **The type this city repels:** Anyone seeking performed warmth, ceremony, or a civic life organized around anything other than getting the job done. Belgrano has no patience for people who need to be coaxed into usefulness.
 
 ---
 
@@ -110,46 +107,44 @@ The people who remained inherited the founding culture's discipline without its 
 
 ## 9. Architecture
 
-Belgrano's built environment is aviation-industrial at its core — hangars, runway support structures, functional barracks-style housing, none of it built for beauty. What aesthetic sensibility exists is entirely Argentine military-institutional: proportion and order over ornament, a building judged by whether its lines make operational sense.
-
-In ruin, the architecture is layered with decay and improvisation: sections of the original airbase infrastructure repurposed for shelter, collapsed buildings cannibalized for materials, new construction — sparse, but real — built from salvage rather than manufactured material. The airfield itself, in ruins, is the dominant visual landmark of the entire settlement: runway markings still faintly visible under snow, hangar skeletons standing against the Weddell Sea horizon.
+Belgrano's built environment is aviation-industrial at its core — hangars, runway support structures, functional barracks-style housing, none of it built for beauty. What aesthetic sensibility exists is entirely Argentine military-institutional: proportion and order over ornament, a building judged by whether its lines make operational sense. The airfield itself is the dominant visual landmark of the entire settlement — active, maintained, and the reason the city exists at all.
 
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** Argentine foodways (asado-style communal grilling traditions, mate) persist as the strongest single culinary throughline, disproportionate to Argentina's small demographic tier — food memory outlasted population the same way the civic culture did. German and Brazilian influences layer in around this Argentine core.
-- **b. Social context of eating:** In the ruins, shared meals are as much about resource-pooling and mutual accounting as about culture — communal cooking is a practical necessity as much as a social one, though the mate-sharing ritual specifically survives as something closer to ceremony than logistics.
-- **c. Robot cuisine / siligel culture:** Minimal and utilitarian — siligel production in Belgrano's ruined state is about keeping robot residents functional, not about craft or ceremony. What robot culture exists here is practical to the point of austerity.
+- **a. Human cuisine:** Argentine foodways (asado-style communal grilling traditions, *mate* — the traditional South American herbal drink, unrelated to the English word "mate"/companion) persist as the strongest single culinary throughline, disproportionate to Argentina's small demographic tier — food memory outlasted population the same way the civic culture did. German and Brazilian influences layer in around this Argentine core.
+- **b. Social context of eating:** Meals cluster around shift schedules and mess-hall rhythms rather than any softer social calendar — but the mate-sharing ritual (the shared gourd and metal straw passed hand to hand through a group, per Argentine tradition) specifically carries real ceremony, one of the few places Belgrano allows itself something beyond pure function.
+- **c. Robot cuisine / siligel culture:** Functional and well-resourced, tied directly to the base's own logistics — siligel production runs on the same disciplined, scheduled footing as everything else in Belgrano. Practical rather than ceremonial, but reliable.
 
 ---
 
 ## 11. Fashion
 
-Function-first out of necessity as much as heritage: salvaged and repaired cold-weather gear, military-surplus-style layering inherited from the founding Air Force aesthetic, patched and re-patched rather than replaced. There is no fashion industry left in Belgrano in any conventional sense — clothing is maintained, not designed, and a Belgrano resident's gear tells the story of what they could find and fix rather than what they chose to wear.
+Function-first by heritage, not necessity: durable cold-weather gear, military-surplus-style layering inherited directly from the founding Air Force aesthetic. There's no fashion industry in the conventional sense — clothing is issued and maintained rather than designed for display — and a Belgrano resident's gear tells the story of their operational role rather than any personal styling choice.
 
 ---
 
 ## 12. Music
 
-What music survives in Belgrano is oral, communal, and largely Argentine-derived — folk traditions kept alive in small gatherings rather than any kind of production or performance industry, which the ruined city simply cannot support. Music here functions as endurance and memory rather than entertainment — songs that predate the decline are treated with particular care, sung deliberately to keep them from being lost the way so much else has been.
+Belgrano's music is oral, communal, and largely Argentine-derived — folk traditions kept alive in small gatherings rather than any large production or performance industry, which a functional, purpose-built airbase city never much prioritized in the first place. *(Established 2026-07-04:)* Garage Rock is a genuine, dominant strand of the living local scene, heard from open windows and doors of restaurants and social venues across the city — raw, unpolished, and DIY, a natural fit for a hard-working, function-first population. It sits alongside the older Argentine folk tradition rather than replacing it.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Almost entirely functional/utilitarian in the present era — what exists tends to be practical craftsmanship (repaired equipment, maintained tools) rather than art for its own sake.
-- **Literature:** An oral tradition of institutional memory — stories about peak-era Belgrano, about the airfield's operational history, about specific people and specific flights, kept alive by the aging residents who remember and passed down deliberately to those who don't.
-- **Crafts & material culture:** Salvage craft is the city's real living art form — the skill of making something functional out of ruin material is respected and genuinely admired, the closest thing Belgrano has to a valued creative practice.
+- **Visual arts:** Almost entirely functional/utilitarian — what exists tends to be practical craftsmanship (equipment design, tool-making) rather than art for its own sake.
+- **Literature:** An oral tradition of institutional memory — stories about the airfield's operational history, about specific people and specific flights, kept alive and passed down deliberately across generations.
+- **Crafts & material culture:** Mechanical and maintenance craft is the city's real living art form — a genuine garage subculture is one of the outer city's staples, with engine mechanics among the most common and most respected work; a modest number of specialists know how to work on Rastras specifically, a direct continuation of Belgrano having invented the vehicle in the first place. As a matter of general local culture, for anything with an engine, there's reliably somebody in Belgrano who can repair it.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** Wind over open, ruined structures; the particular quiet of a city built for tens of thousands now housing a fraction of that; intermittent mechanical sounds from maintained equipment against a backdrop of near-silence where machinery has gone still for good.
-- **Smell:** Cold metal and old fuel residue from the airfield; woodsmoke or heating-element smell from occupied shelters; the specific mineral cold of the Weddell Sea coast.
-- **Feel:** Vast and empty relative to its own footprint — Belgrano was built for a city many times its current population, and moving through it means moving through space clearly designed for more people than are there to fill it.
-- **First impressions for visitors:** The scale of the ruin before anything else — the airfield's size makes the emptiness legible immediately. Then, gradually, the realization that people are still here, still functioning, inside all of it.
+- **Sound:** Aircraft engines, garage/maintenance-bay machinery, and Garage Rock drifting from restaurant and bar windows and doors — a working city's noise, purposeful rather than idle.
+- **Smell:** Aircraft fuel and cold metal from the airfield; asado smoke and mate from social spaces; the specific mineral cold of the Weddell Sea coast.
+- **Feel:** Purposeful and industrious — a city built around function, where the scale of the airfield and its surrounding warehouse fleets and industrial yards makes the operational character legible immediately.
+- **First impressions for visitors:** The airfield's scale and the sheer amount of coordinated activity — warehouses, docks, industrial yards all moving at once — followed by the discovery of a genuinely active, if unglamorous, downtown underneath the operational surface.
 
 ---
 
@@ -159,43 +154,43 @@ What music survives in Belgrano is oral, communal, and largely Argentine-derived
 
 ## 15. Division of Industry
 
-- Salvage / reclamation: ~40% — the dominant activity in the ruined city; recovering and repurposing material from the extensive pre-decline infrastructure
-- Maintenance / subsistence infrastructure: ~25% — keeping remaining shelter, heat, and equipment functional
-- Archival / courier-adjacent work: ~15% — datashard retrieval and coastal courier support, tied to the broader Atlantic coast archival network Salagéa Aparast operates within
-- Aviation (residual): ~10% — whatever limited air capability, if any, the ruined airfield still supports
+- Aviation / logistics: ~35% — the city's defining function, running the Halley subnet's primary airbase
+- Maritime / port operations: ~20% *(established 2026-07-04)* — one of the Halley subnet's two coastal receiving ports (alongside Sanay) for South African freighter shipments, trucked onward via Hwy 7
+- Technical / mechanical maintenance: ~20% — the garage/engine-repair subculture, keeping aircraft, vehicles (including Rastras), and infrastructure running
+- Industrial / manufacturing: ~15%
 - Other: ~10%
 
 ---
 
 ## 16. Human-Robot Relations
 
-The founding Air Force culture was institutionally integrated from the start — robots and humans serving the same operational function within the same command structure, a working relationship built on shared purpose rather than negotiated coexistence. That integration survived the demographic shift and, notably, survived the decline itself: in the ruins, human and robot residents depend on each other too completely for any daylight to open between them. Function-before-comfort applies to species relations the same way it applies to everything else in Belgrano — a robot who can fix the heating system and a human who can hunt for food are equally essential, and the city has no margin left for anyone to pretend otherwise.
+The founding Air Force culture was institutionally integrated from the start — robots and humans serving the same operational function within the same command structure, a working relationship built on shared purpose rather than negotiated coexistence. That integration survived the demographic shift intact: Function-before-comfort applies to species relations the same way it applies to everything else in Belgrano — a robot maintaining the heating system and a human running flight logistics are equally essential, and neither role carries more institutional prestige than the other.
 
 ---
 
 ## 17. Robot-Specific Culture
 
-Robot residents in Belgrano's ruins are overwhelmingly oriented toward maintenance, salvage, and technical function — continuing the airbase's operational character in the absence of the organization that once directed it. Philosophically, the population here has little bandwidth for abstract or contemplative traditions; survival-focused pragmatism dominates over both Ice-Cold Buddhism-style contemplation and Zhongshan-style simulation theory. If Belgrano's robots have a shared philosophy, it's closer to "the work is the point" than any formal doctrine.
+Robot residents in Belgrano are overwhelmingly oriented toward **industrial work** — aviation logistics, port/shipping operations, manufacturing, and mechanical fabrication — with maintenance and repair work as a significant but secondary strand alongside it, not the dominant one. This is a direct continuation of the airbase's operational character, extended across the whole freight/industrial economy the city actually runs on. Philosophically, the population here has little interest in abstract or contemplative traditions; pragmatic functionalism dominates over both Ice-Cold Buddhism-style contemplation and Zhongshan-style simulation theory. If Belgrano's robots have a shared philosophy, it's closer to "the work is the point" than any formal doctrine.
 
 ---
 
 ## 18. Religious / Philosophical Landscape
 
-- A grim, practical secularism dominates — survival leaves little room for organized belief systems, and Belgrano's remaining population tends toward a shared, unspoken ethic of endurance over any named philosophy
-- What remains of Argentine Catholic heritage persists quietly among founding-lineage families, more as ritual memory than active practice
+- A practical, functional secularism dominates — an institutional culture built around operational readiness leaves little room for organized belief systems, and Belgrano's population tends toward a shared, unspoken ethic of competence and discipline over any named philosophy
+- What remains of Argentine Catholic heritage persists quietly among founding-lineage families, more as ritual memory than active daily practice
 - Among robots, no dominant organized philosophy — pragmatic functionalism as a default disposition rather than a chosen belief
 
 ---
 
 ## 19. Underground / Counterculture
 
-There isn't really a counterculture in the conventional sense — Belgrano's population is too small and too occupied with survival to sustain a mainstream/underground divide. If anything counts as countercultural here, it's residents who openly reject the discipline-without-institution ethos and choose to live more loosely, scavenging without the shared maintenance rotations — regarded by the majority with more concern than judgment, since in a city this fragile, one person opting out affects everyone else's margin.
+There isn't much of a counterculture in the conventional sense — Belgrano's institutional civic character doesn't leave a lot of room for one. If anything counts as countercultural here, it's residents who openly push back against the almost-martial discipline and prefer a looser, more conventionally civilian pace of life — regarded by the majority less as rebels and more as people who simply don't quite fit the city's operating rhythm.
 
 ---
 
 ## 20. Private Life & Minority Communities
 
-With survival needs this dominant, the public/private divide that structures Zhongshan's or Janbogo's minority-heritage dynamics barely applies in Belgrano — there isn't enough surplus in daily life for a private cultural sphere distinct from the shared, practical public one. Heritage (German, British, Brazilian, Argentine, or otherwise) persists mostly as memory and story rather than as any actively maintained separate private practice.
+The public/private divide that structures Zhongshan's or Janbogo's minority-heritage dynamics is thinner in Belgrano than in most Tepenian cities — a population this integrated around one shared operational purpose doesn't leave much room for a private cultural sphere distinct from the practical public one. Heritage (German, British, Brazilian, Argentine, or otherwise) persists mostly at the household level, folded into daily life rather than maintained as a separate, visible private practice.
 
 ---
 
@@ -205,43 +200,43 @@ With survival needs this dominant, the public/private divide that structures Zho
 
 ## 21. Political Character
 
-There is no formal governance left to speak of — Belgrano's "politics," such as they are, run entirely on the informal authority of whoever has the most institutional memory and the most demonstrated competence at keeping people alive. Decisions are made by consensus born of necessity rather than by any structure resembling the Federation's normal civic apparatus.
+Governance runs on institutional authority rather than the Federation's normal civic apparatus — whoever holds the most demonstrated operational competence and institutional standing effectively runs Belgrano's day-to-day decisions, an almost-martial command structure that the population accepts as simply how a well-run installation works.
 
 ---
 
 ## 22. Relationship to Upper Earth
 
-Distant and mostly irrelevant to daily concerns — a ruined city surviving hand-to-mouth has little bandwidth for grievance politics about the nation that exiled its founders 130 years ago. To the extent the sentiment exists, it's colored by the specific, layered irony that Belgrano wasn't destroyed by Upper Earth directly — it was spared the war and undone by everything that came after, which some residents find harder to be angry about than a clean act of violence would have been.
+Distant and mostly institutional rather than emotional — Belgrano's founding population came from an Air Force posting, not a grievance, and 130 years on, the relationship to Upper Earth is filtered through operational pride (being good at a hard job in a harsh place) more than any raw political sentiment about the exile itself.
 
 ---
 
 ## 23. Relationship to Other Cities
 
-- **Neumayer, Halley, Troll:** Fellow Halley subnet cities to the north; Belgrano's decline makes it a cautionary tale and a source of quiet grief among Halley subnet residents generally — proof that surviving the war wasn't the same as surviving the peace.
-- **Byrd (Byrd subnet):** A unique cross-subnet connection — maps recovered from Belgrano's ruins contributed directly to the founding expedition that located Byrd Station. Belgrano's most lasting legacy may be a gift given to a city in a different subnet entirely, outliving Belgrano's own function as a going concern.
+- **Neumayer, Halley, Troll:** Fellow Halley subnet cities to the north; a normal peer relationship among functioning subnet neighbors, without any particular tension.
+- **Byrd (Byrd subnet):** A unique cross-subnet connection — maps from Belgrano's own archives contributed directly to the founding expedition that located Byrd Station, one of Belgrano's proudest historical achievements.
 - **Esperanza, Marambio (Palmer subnet):** The other two Argentine-founded Tepenian cities, in a different subnet — a shared national identity spread across two subnets, its degree of pre-Split-Brain contact unresolved. Esperanza specifically was also a real, documented trade partner during Belgrano's active era: its mainland, Weddell Sea-facing harbor made it the natural maritime trans-shipment point for Belgrano-crafted goods heading onward to Palmer City (see Griselda Alejandra Chávez's character file and `Cities/Local_Cultures/Palmer_Subnet/Esperanza.md`).
 
 ---
 
 ## 24. Arcanet Culture
 
-What remains of Belgrano's Arcanet presence is thin and almost entirely practical — hazard warnings, resource coordination, and whatever link still exists to the broader Atlantic coastal archival network that people like Salagéa Aparast operate within. There's no bandwidth here for social or archival Arcanet use beyond bare necessity; the city that once might have had ambitions toward being a data hub is now, at most, a waypoint on someone else's route.
+Belgrano's Arcanet presence is practical and operational — flight schedules, maintenance logs, freight coordination — reflecting the city's function-first civic character rather than any real appetite for social or archival network use. Belgrano was never ambitious about being an information hub; it used the network the same way it used everything else, for the job at hand.
 
 ---
 
 ## 25. Export Culture
 
-- Salvage expertise — Belgrano-trained scavengers and reclamation specialists are recognized, when they leave, for genuine skill at making function out of ruin
-- Historical archive material — the Byrd-founding maps being the most significant known example; Belgrano's ruins may still hold material of comparable value, undiscovered
+- **Mechanical/engine-repair expertise** *(established 2026-07-04)* — a genuine garage subculture is one of the outer city's staples; engine mechanics are common work, and a modest number of specialists know how to work on Rastras specifically — a direct continuation of Belgrano having invented the vehicle in the first place. As a matter of general local culture, for anything with an engine, there's reliably somebody in Belgrano who can repair it. Belgrano-trained mechanics are recognized elsewhere in Tepenia for exactly this competence.
+- Historical archive material — the Byrd-founding maps being the most significant known example; whether Belgrano holds other material of comparable value, undiscovered, is open
 - *(Founding-era, before "export" meant goods):* The Byrd Expedition itself — the first native Tepenian overland vehicles (the original "Arrastradoras," ancestor of the now-international "Rastra"), and the all-robot crew who drove them, both departed from Belgrano, built partly on materials shipped in from Palmer City and Rothera. The city's very first export was a founding act for a different city entirely.
 - A specific *type of person* — blunt, disciplined, allergic to ceremony, entirely unsentimental about hardship; recognizable anywhere in Tepenia as someone who came from somewhere that demanded it
-- *(Peak-era, pre-decline export, not a current one):* Fine craft goods — Griselda Alejandra Chávez's whalebone-and-metal pianos, shipped by sea to Esperanza and onward to Palmer City, are the clearest known example of Belgrano's functional/industrial character producing something genuinely artisanal rather than purely utilitarian
+- Fine craft goods — Griselda Alejandra Chávez's whalebone-and-metal pianos, shipped by sea to Esperanza and onward to Palmer City, are the clearest known example of Belgrano's functional/industrial character producing something genuinely artisanal rather than purely utilitarian
 
 ---
 
 ## 26. Municipal Holidays
 
-*(Pending — with no functioning civic institution left, any surviving observances would likely be private/informal rather than public, and have not yet been established.)*
+*(TBD — not yet established.)*
 
 ---
 
@@ -251,13 +246,13 @@ What remains of Belgrano's Arcanet presence is thin and almost entirely practica
 
 ## 27. Visitor Experience
 
-The scale of the ruin registers first — an airfield built for a much larger population, now housing a fraction of what it once did, the emptiness itself the dominant visual and emotional fact of arrival. Then, as a visitor moves further in, the discovery that the city isn't dead: people are here, functioning, maintaining a discipline that has long since outlived the institution that created it. Visitors often describe the experience as witnessing something between a memorial and a going concern — neither quite fits, and Belgrano doesn't resolve the discomfort for you.
+The scale of coordinated activity registers first — the airfield, the warehouse fleets and docks, the industrial yards, all moving at once. Then, as a visitor moves further in, the discovery of a genuinely active, if unglamorous, downtown underneath the operational surface — bars, music venues, a real if run-down civic life. Visitors often describe Belgrano as somewhere between a military installation and an actual city, and it doesn't much care which label you settle on.
 
 ---
 
 ## 28. The Visitor-to-Resident Transition
 
-Becoming a Belgrano resident means being absorbed into the shared maintenance and survival rotations — there's no ceremony, but there is a clear functional threshold: you're a visitor until the community starts relying on you for something specific, and a resident once they do. Given how thin the margins are, this can happen quickly for someone who demonstrates real competence, or never, for someone who doesn't.
+Becoming a Belgrano resident means being absorbed into the operational and maintenance rotations that structure the whole city — there's no ceremony, but there is a clear functional threshold: you're a visitor until the institution starts relying on you for something specific, and a resident once it does. This can happen quickly for someone who demonstrates real competence.
 
 ---
 
@@ -267,27 +262,26 @@ Becoming a Belgrano resident means being absorbed into the shared maintenance an
 
 ## 29. Notable Local Landmarks
 
-- **The Belgrano airfield ruins** — the defining landmark; runway markings still faintly visible, hangar skeletons standing against the Weddell Sea horizon
+- **The Belgrano airfield** — the defining landmark; an active, maintained runway and hangar complex, the reason the city exists
+- **The shipping docks and warehouse fleets** *(established 2026-07-04)* — the coastal receiving-port infrastructure, alongside the industrial yards, that make Belgrano a genuine intermodal freight hub
 - **The Weddell Sea approach** — the sea-ice-heavy southern approach, a distinctive and demanding maritime environment in its own right
-- Additional named locations: TBD — DLC 5 design work
+- Additional named locations: TBD
 
 ---
 
 ## 30. Significant Local Events
 
 - **The founding (post-1979 Air Force base, post-Falkland Treaty exile settlement)** — establishment of Belgrano as the Halley subnet's primary aviation hub
-- **The Long Night War** — Belgrano survived the war intact, a fact locally remembered with a specific, complicated relief rather than simple gratitude
-- **The Decline** *(placeholder — exact cause/timeline TBD for DLC 5)* — the post-war period in which Belgrano deteriorated from a functioning city into its current ruined-but-inhabited state; the central unanswered historical question of Belgrano's identity
+- **The Long Night War** — Belgrano survived the war intact, unlike Zukelli, Soyuz, and Denison; what happens afterward is a separate, post-war chapter of the city's story, not part of its living interwar identity (see `City_Origin_Factions_PostWar_Refugee.md`)
 - **The Byrd Expedition** *(established 2026-07-03)* — Belgrano's archives held the richest documentary record pointing to Byrd Station's location; Palmer City and Rothera shipped their own supporting records across the Weddell Sea once word of the expedition spread; Belgrano's industrial/airbase capacity built "las Arrastradoras" (ancestor of the now-international "Rastra"), Tepenia's first native overland vehicles, and an all-robot crew drove them out from the city on the founding crossing that discovered the buried underground city at Byrd
 
 ---
 
 ## 31. Notable Figures
 
-- **Salagéa Aparast** — Robot; Belgrano native; boat-dwelling datashard courier operating along the Atlantic coast; embodies the city's discipline-without-institution ethos even while living apart from the ruins themselves; chose to remain on Earth during the Long Night War specifically to keep archiving pre-war knowledge rather than evacuate via Amundsen Tower
-- **Griselda Alejandra Chávez** — Robot; not a Belgrano native (built in the Republic of Sonora, Upper Earth) but a longtime resident during the city's pre-decline, fully-functioning era — a blacksmith who became an instrument-maker, shipping whalebone-and-metal pianos by sea to Esperanza and onward to Palmer City. Left via Amundsen Tower on an early evacuation ride before the Long Night War, and now lives on Deimos. **Personally knew Salagéa Aparast** during this pre-war period — see both characters' files.
+- **Salagéa Aparast** — Robot; Belgrano native; boat-dwelling datashard courier operating along the Atlantic coast; carries the city's founding discipline and functional seriousness with her even while living apart from Belgrano itself; chose to remain on Earth during the Long Night War specifically to keep archiving pre-war knowledge rather than evacuate via Amundsen Tower
+- **Griselda Alejandra Chávez** — Robot; not a Belgrano native (built in the Republic of Sonora, Upper Earth) but a longtime resident during the city's interwar, fully-functioning era — a blacksmith who became an instrument-maker, shipping whalebone-and-metal pianos by sea to Esperanza and onward to Palmer City. Left via Amundsen Tower on an early evacuation ride before the Long Night War, and now lives on Deimos. **Personally knew Salagéa Aparast** during this pre-war period — see both characters' files.
 - **[Placeholder — founding-era Air Force commander or institutional figure]** — whoever set the operational tone that outlasted the institution itself
-- **[Placeholder — a figure from the Decline]** — someone whose choices during Belgrano's post-war deterioration shaped who stayed and how the remaining community organized itself
 
 ---
 

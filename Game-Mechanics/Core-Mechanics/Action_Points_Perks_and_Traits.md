@@ -61,35 +61,7 @@ This section expands on the core AP system with character customization options 
 
 #### Traits (Character Creation Only)
 
-These have clear pros and cons and directly affect your action economy.
-
-- **High-Output Frame**  
-  **+** Start with +2 base AP per turn.  
-  **–** -1 to all MACHINE stats when below 50% health (systems running hot).  
-
-- **Efficient Design**  
-  **+** Movement costs 1 fewer AP per turn (minimum 1).  
-  **–** -1 Agility (you were built for efficiency over raw speed).  
-
-- **Overclocked Prototype**  
-  **+** +3 AP on the first turn of every combat.  
-  **–** -2 AP on all subsequent turns of that combat (systems need time to stabilize).  
-
-- **Fragile but Fast**  
-  **+** +2 Agility.  
-  **–** When you take damage, you lose 1 AP on your next turn (stackable up to -3).  
-
-- **Steady Nerves**  
-  **+** Nerve counts as 2 higher for the AP modifier calculation.  
-  **–** -1 Agility.  
-
-- **Minimalist Frame**  
-  **+** +15% movement speed when carrying less than 30% of carry weight.  
-  **–** -2 AP per turn when encumbered.  
-
-- **Echo Chamber**  
-  **+** Occasionally gain +2 temporary AP when near Arcanet nodes or during blackouts (unpredictable).  
-  **–** Occasionally lose 1–2 AP at the start of your turn due to system interference.  
+*(Moved 2026-07-04 to `Character-Creation/Traits.md`'s "AP-Economy Traits" section, so all traits live in one authoritative file — see there for High-Output Frame, Efficient Design, Overclocked Prototype, Fragile but Fast, Steady Nerves, Minimalist Frame, and Echo Chamber. These 7 have clear pros and cons and directly affect your action economy.)*
 
 ---
 

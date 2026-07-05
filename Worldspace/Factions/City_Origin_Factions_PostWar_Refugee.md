@@ -56,6 +56,34 @@ The Zukelli community is not unified in how it holds this. It has at least three
 
 ---
 
+## The Boneyard Times — Belgrano Communities
+
+**Origin cities:** Belgrano
+
+*Moved here 2026-07-04 from `Local_Cultures/Halley_Subnet/Belgrano.md`, which had blended this content directly into the city's living, interwar-era cultural identity — the only Tepenian city whose Local_Cultures file did this. That file has been corrected to describe Belgrano's actual interwar identity only (130 years of a hard, disciplined, functionally-minded aviation hub, still standing as a going concern); this is the separate, later chapter of the same city's story. *Renamed 2026-07-04 from "The Bone Yard" to "The Boneyard Times"* — the name refers to the *era*, not just the place: this is what Belgrano's post-war period itself came to be called, not merely a nickname for the city.*
+
+Belgrano survived the Long Night War intact — spared the direct destruction that erased Zukelli, Soyuz, and Denison. Then, in the years afterward, it declined. Slowly. Whatever combination of infrastructure failure, population loss, and severed supply lines did it, the city that survived the war did not survive the peace. This period is what came to be known as **the Boneyard Times** — not a dead city, but a dying one that stopped dying at some equilibrium point and simply kept existing, inhabited by people who chose to stay or arrived because leaving wasn't an option.
+
+The people who remained inherited the founding culture's discipline without its institutional backing — they still function like an airbase crew, because that's the only civic template Belgrano ever had, but there's no chain of command left to answer to. It's discipline as habit and inheritance now, not discipline in service of an organization that still exists.
+
+*(Established 2026-07-04:)* Belgrano's interwar-era mechanic subculture — the garage-and-engine-repair competence that made it the birthplace of the Rastra in the first place — becomes one of the Boneyard Times' few genuinely load-bearing skills. With no institution left to requisition new equipment, keeping old vehicles and machinery running at all depends entirely on people who still know how to work on them, Rastras included. If anything earns real standing in the Boneyard Times independent of the founding discipline itself, it's this.
+
+**The central, unresolved question:** whether a culture can be said to persist at all once the population sustaining it has collapsed by an order of magnitude. Belgrano's remaining residents largely believe it can. Visitors from healthier cities aren't always sure.
+
+The community holds at least two live fault lines:
+
+**Those who remember peak Belgrano** (aging residents, some robots with long service records) carry grief for something lost — a going concern that used to mean something beyond its own survival.
+
+**Those born into the Boneyard Times** never knew the city as anything but this, and carry no such grief, because they never had the thing to lose. To them, the era isn't a fall from anything — it's just what Belgrano is.
+
+A second, related divide: **"staying is loyalty"** versus **"staying is just what happened to you."** The former frame their presence as a deliberate choice to keep the city's memory and function alive; the latter are simply people who never found a way out and have made peace, more or less, with where that left them. *(Established 2026-07-04:)* Whatever the "staying is loyalty" group called themselves — not yet established — those who remembered peak Belgrano gave them a specific nickname: **the Boneyarders**, a name that referenced their flat refusal to leave. Whether "Boneyarders" was ever fully embraced by the group it named, or stayed something applied to them from outside, is open.
+
+**What they argue about:** Whether the exact cause of the Boneyard Times (infrastructure failure, population loss, severed supply lines, some combination) matters at all now, or whether the how is beside the point next to the fact of it. Whether the discipline that survives here is genuine continuity of Belgrano's founding character, or just muscle memory with nothing left to serve. Whether grieving what Belgrano was (the older generation's position) or simply living in what Belgrano is (the younger generation's position) is the more honest way to inhabit it. Whether "Boneyarders" is a name its bearers would claim proudly or one they'd rather shrug off as somebody else's word for their choice.
+
+*Notable figure still open: whoever shaped the Boneyard Times itself — someone whose choices during Belgrano's post-war deterioration determined who stayed and how the remaining community organized itself. Not yet named.*
+
+---
+
 ## The Question of the Unbroken Name — Destroyed City Internal Politics
 
 **Origin cities:** All five destroyed/ruined communities — Zukelli, Soyuz, Belgrano, Palmer City, Casey — each face this question independently

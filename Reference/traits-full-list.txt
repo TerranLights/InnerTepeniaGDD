@@ -1,0 +1,63 @@
+Built to Destroy
+	+3% critical hit chance.
+	Weapon condition decays 15% faster.
+
+Claustrophobia
+	+1 to SPECIAL attributes while outside. 
+	-1 to SPECIAL attributes while indoors. 
+
+Early Bird
+	+2 to SPECIAL attributes from 6am to 12pm. 
+	-1 to SPECIAL attributes from 6pm to 6am. 
+
+Fast Shot
+	Guns and energy weapons you fire are 20% quicker, AP cost for your guns and energy weapons are 20% lower.
+	Guns and energy weapons you fire are 20% less accurate.
+
+Four Eyes
+	+2 Perception when wearing glasses. Bonus does not apply when determining Perk requirements. 
+	-1 Perception permanent reduction. Penalty will still apply when determining Perk requirements. 
+
+Good Natured
+	Increases Speech, Medicine, Repair, Science and Barter skills +5. 
+	Decreases Energy Weapons, Explosives, Guns, Melee Weapons and Unarmed skills -5. 
+
+Hoarder
+	+25 lbs to total Carry Weight. 
+	-1 to SPECIAL attributes while current equipment weight is below 160 lbs. 
+
+Hot Blooded
+	+15% damage increase while below 50% health. 
+	-2 to Perception and Agility while below 50% health. 
+
+Heavy Handed
+	Melee and unarmed do 20% more damage. 
+	Melee and unarmed do 60% less critical hit damage. 
+
+Kamikaze
+	+10 Action Points. 
+	-2 Damage Threshold and -15% Damage Resistance. 
+
+Logan's Loophole
+	Chems last twice as long and addiction rates are set to zero. 
+	Locks the level cap at 30. 
+
+Loose Cannon
+	Attack speed with thrown weapons increased by 30%. 
+	Thrown weapons have 25% less range.
+
+Skilled
+	Gain +5 points to every skill. 
+	You suffer -10% from experience gained. 
+
+Small Frame
+	+1 Agility. 
+	Fragile limbs (25% extra limb damage). 
+
+Trigger Discipline
+	Guns and energy weapons you fire are 20% more accurate. 
+	Guns and energy weapons you fire are 20% less quick, AP cost for your guns and energy weapons are 20% higher. 
+
+Wild Wasteland
+	Adds additional 'wacky' content and modifies existing content and special encounters. 
+	Removes access to some 'sane' content. 

@@ -1,15 +1,17 @@
 # Regular Perks (Level-Up)
 
+**Marked for future review (2026-07-04):** every perk in this file — old and newly added alike — is provisional. Progress toward the 160-perk target doesn't mean any individual perk is locked in; names, stat/skill requirements, rank structures, and effects are all subject to adjustment once actual design & development reaches this system, and adding more perks later may prompt revisiting ones already here (for balance, overlap, or thematic fit). Treat this whole file as a working draft, not final content.
+
 One perk slot earned every **2 levels** — **32 total slots** across the base game (level cap: 64). **DLCs raise the cap** *(established 2026-07-03)*: each of the 6 subnet DLCs adds +5 levels (2.5 perk slots' worth on its own — see note below), and the South Pole DLC (DLC 1, Kendra Heinrich) adds +6 levels (3 perk slots). Base game + all 7 DLCs = level cap 100 = **50 total perk slots** — a clean number against the ~160-perk target roster (see `Perks.md`/`Special_Unique_Perks.md`), landing exactly on a perk-cadence boundary rather than 1 level short.
 
 *Note on partial-DLC ownership:* since each subnet DLC adds an odd number of levels (+5), owning an odd count of subnet DLCs (1, 3, or 5 of the 6) leaves the level cap on an odd number — one level short of a full perk cycle at that specific point. Owning an even count of subnet DLCs (0, 2, 4, or 6), or the South Pole DLC alone or in any combination, always lands on an even cap. **Largely mitigated by release order** *(established 2026-07-03, see `DLC_Overview.md`)*: the South Pole DLC (DLC 1) is planned to release *last*, after all 6 subnet DLCs — so a player following release order has all 6 subnet DLCs (even, no parity issue) before Kendra's DLC ever becomes available. Only an issue for a player who deliberately skips subnet DLCs.
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 
-**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **61/160 designed** (38%). The remaining ~99 perks are marked as pending in the placeholder section at the bottom of this file.
+**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **76/160 designed** (48%) as of 2026-07-04, after adding 15 perks ported/adapted from Fallout: New Vegas following a comparison pass (see `project_fallout_trait_perk_adaptation` memory). The remaining ~84 perks are marked as pending in the placeholder section at the bottom of this file.
 
 **Target distribution: ~107 non-combat (67%) / ~53 combat (33%)**  
-Currently: 41 non-combat / 20 combat. Pending perks should maintain roughly this ratio.  
+Currently: 49 non-combat / 27 combat. Pending perks should maintain roughly this ratio.  
 Perks are primarily a system for deepening playstyle identity, not a combat improvement checklist.
 
 Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C** Calculation · **H** Humanity · **I** Investigation · **N** Nerve · **E** Engine
@@ -31,11 +33,22 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 
 ---
 
+## Growth / Learning *(new category, added 2026-07-04 — ported from Fallout: New Vegas)*
+
+| Perk | Requirements | Ranks | Effect |
+|------|-------------|-------|--------|
+| **Educated** | C 4 | 1 | Gain 2 additional skill points every time you level up. |
+| **Swift Learner** | C 4 | 3 | Gain an additional 10% experience whenever XP is earned, per rank (up to +30% at rank 3). |
+| **Comprehension** | — | 1 | Gain an additional skill point for reading a full data archive/log entry; reading a technical manual (Inner Tepenia's magazine equivalent) grants double the normal skill points. |
+
+---
+
 ## Technical / Engineering
 
 | Perk | Requirements | Ranks | Effect |
 |------|-------------|-------|--------|
 | **Jury-Rig Virtuoso** | A 7, M 6, Jury-Rigging & Repurposing 50 | 2 | Repair and repurpose items using dissimilar components that normally wouldn't work together. Rank 2: perform "impossible" repairs during active crises — restoring systems others have written off. |
+| **Jury-Rig Mastery** *(added 2026-07-04, ported from FNV's "Jury Rigging")* | A 8, Jury-Rigging & Repurposing 90 | 1 | Repair any item using any roughly similar item, regardless of type — true mastery-tier extension of Jury-Rig Virtuoso, no longer limited to dissimilar-but-related components. |
 | **Thermal Equilibrium** | E 7, Thermal Engineering 40 | 2 | Improved heat and power allocation in managed systems; reduces collateral damage during blackouts. Rank 2: temporarily stabilize a failing grid section, buying time for a proper solution. |
 | **Power Conduit** | E 7, Power Grid Management 55 | 2 | Route emergency power through improvised pathways, unlocking unique solutions in grid quests. Rank 2: improvised bypasses persist after the player leaves the area — lasting infrastructure change. |
 | **Siligel Chemist** | C 7, Siligel Chemistry 50 | 2 | Improved crafting and efficiency with siligel-based components. Rank 2: synthesize rare siligel compounds not available through normal commerce or salvage. |
@@ -58,6 +71,8 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Disinformation Architect** | C 8, Data Leakage & Information Warfare 60 | 1 | Planted false information persists, spreads through the Arcanet, and can be used to shift faction narratives over extended time. Slow-burning social weapon. |
 | **Pattern Intuition** | I 7, Information Verification & Analysis 55 | 1 | Unreliable or manipulated information sources are flagged automatically. The player character recognizes disinformation campaigns, misdirection, and planted evidence on sight. |
 | **Cryptographer's Eye** | C 7, Cryptography & Decryption 55 | 2 | Decryption is significantly faster and more reliable. Rank 2: given enough time, break encryption that is theoretically unbreakable — including pre-war military-grade ciphers. |
+| **Computer Whiz** *(added 2026-07-04, ported from FNV)* | C 7, Arcanet Navigation & Hacking 70 | 1 | Gain one additional attempt after failing a hack on a high-security (Level 4+) system, before the normal lockout applies. |
+| **Infiltrator** *(added 2026-07-04, ported from FNV)* | I 7, Lockpicking 70 | 1 | Gain one additional attempt after failing to pick a broken lock. |
 
 ---
 
@@ -72,6 +87,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Environmental Reader** | I 7, Environmental Exploitation & Ripple Reading 60 | 1 | Gas leaks, structural collapse risk, live electrical hazards, and other environmental dangers are always visible before entering an area — and can often be weaponized rather than avoided. |
 | **Hazard-Adapted Systems** | E 7, Hazard Navigation 55 | 2 | Penalties from environmental hazards (ice, collapsing tunnels, blackout zones) are significantly reduced. Rank 2: certain hazards that would stop other characters become tactical tools the player character can exploit. |
 | **Isolation Protocol** | N 7, Isolation & Psychological Resilience 55 | 1 | Psychological debuffs from prolonged isolation, Arcanet interference, and blackout-zone static have no effect. The player character's systems have fully adapted to operating alone. |
+| **Scavenger's Luck** *(added 2026-07-04, ported from FNV's Fortune Finder/Scrounger)* | I 5 | 1 | Considerably more currency and ammunition (quantity, not quality) turn up in searched containers and stockpiles — distinct from Salvage Instinct, which improves loot quality rather than raw quantity. |
 
 ---
 
@@ -93,6 +109,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Black Market Fluency** | I 6, Pisces reputation (moderate) | 2 | Better prices, access, and selection in black market contexts across all districts. Rank 2: acquire items listed as unavailable, destroyed, or restricted — if someone in Concordia has it, it can be found. |
 | **Resource Recovery** | E 6, Scavenging & Resource Foraging 50 | 2 | Components used in crafting have a chance to partially return. Rank 2: return rate improves significantly; high-Engine characters recover nearly half of all consumed materials. |
 | **Siligel Economy** | E 8, Siligel Chemistry 55 | 1 | All siligel consumption rates permanently reduced. Represents deep systemic self-optimization of the player character's internal processes — something that cannot be undone. |
+| **Strong Back** *(added 2026-07-04, ported from FNV)* | M 5, E 5 | 1 | +50 carry weight. |
 
 ---
 
@@ -129,6 +146,9 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Combat Awareness** | I 6, Threat Assessment 50 | 2 | Before combat begins, identify which enemies will act first and approximate their damage potential. Rank 2: detects ambushes before they trigger, converting a surprise attack into a normal initiative sequence. |
 | **Armor Integrity** | E 7, M 6 | 2 | Equipped armor degrades significantly more slowly in extended engagements. Rank 2: armor damage heals partially between combats, reducing maintenance burden on long expeditions. |
 | **Last System Standing** | N 9, E 7 | 1 | Once per combat, when health would reach zero, survive at 1 HP and immediately gain 2 AP for an emergency action. The player character refuses to go offline. |
+| **Toughness** *(added 2026-07-04, ported from FNV)* | E 5 | 2 | +3 permanent damage resistance per rank. |
+| **Life Giver** *(added 2026-07-04, ported from FNV)* | E 6 | 1 | +30 maximum health. |
+| **Nerves of Steel** *(added 2026-07-04, ported from FNV — reworked, see note below)* | E 7 | 1 | Up to 2 unused AP at the end of your turn carry over into your next turn instead of being discarded (does not stack beyond 2 banked AP at a time). *(Provisional — flagged for developer review: FNV's original effect, "20% faster AP regeneration," doesn't map onto Inner Tepenia's turn-based AP model, since AP doesn't regenerate mid-turn and unused AP is discarded by the base rule rather than continuously refilling. This reworks it as the first implementation of the AP-banking idea already flagged, undesigned, in `Core-Mechanics/Action_Points_Perks_and_Traits.md`. Gated on Engine since Engine is already defined as the recovery-speed/AP-replenishment stat.)* |
 
 ---
 
@@ -141,6 +161,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Cascade Protocol** | N 8, C 7 | 1 | Critical hits on robot enemies have a significantly higher chance to trigger cascade failures. A cascade can spread from the struck component to one adjacent system. |
 | **Predictive Algorithms** | C 8, I 7 | 1 | In NODE mode, moving targets display projected positions. Accuracy penalties for targeting moving enemies are halved. |
 | **Focus Under Fire** | N 7, Tactical Grid Combat 45 | 2 | Taking damage during NODE activation drains Nerve at a reduced rate. Rank 2: taking damage during NODE no longer drains Nerve at all — the player character's focus is unbreakable. |
+| **Perimeter Awareness** *(added 2026-07-04, ported from FNV's Alertness)* | I 6 | 1 | While stationary and not moved this turn, gain a bonus to targeting accuracy in NODE mode equivalent to +2 Investigation. |
 
 ---
 
@@ -151,56 +172,64 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Non-Lethal Specialist** | A 6, M 6, Non-Lethal Restraint & Subdual 50 | 2 | Subdual options are faster and more reliable; non-lethal takedowns leave targets incapacitated longer. Rank 2: perform non-lethal takedowns on enemy types that are normally immune to subdual. |
 | **Field Repair Protocols** | E 6, Precision Maintenance & Repair 50 | 2 | Perform emergency self-repair during combat using components in inventory — no workbench needed. Rank 2: can also repair companions mid-combat without spending additional AP. |
 | **Threat Exploitation** | I 7, Threat Assessment 55 | 1 | After successfully assessing a threat before combat, the first attack on that target is guaranteed to hit regardless of other modifiers. Preparation pays. |
+| **Robotics Expert** *(added 2026-07-04, ported from FNV)* | C 6, Threat Assessment 50 | 1 | +25% damage against robot enemies. Non-alerted robots can be shut down (rather than killed) by sneaking up and deactivating them directly. |
+| **Silent Running** *(added 2026-07-04, ported from FNV)* | A 6, Stealth & Infiltration 50 | 1 | Running no longer breaks stealth or interrupts a sneak attempt. |
+| **Quick Draw** *(added 2026-07-04, ported from FNV — reworked for turn-based AP, per the user's own design)* | A 5 | 1 | Drawing or holstering a weapon in combat costs no AP. *(FNV's original effect, "50% faster equip/holster," is a real-time animation-speed mechanic that doesn't translate to a discrete per-action AP cost — this reworks the same intent, removing weapon-switching as a tactical burden, into an AP-cost term instead.)* |
 
 ---
 
 ## Perk Count by Category
 
+*(Updated 2026-07-04 after adding 15 Fallout-adapted perks — see `project_fallout_trait_perk_adaptation` memory.)*
+
 | Category | Count | Type |
 |----------|-------|------|
 | Social / Diplomatic | 8 | Non-combat |
-| Technical / Engineering | 8 | Non-combat |
-| Information / Data | 8 | Non-combat |
-| Survival / Exploration | 7 | Non-combat |
+| Growth / Learning | 3 | Non-combat |
+| Technical / Engineering | 9 | Non-combat |
+| Information / Data | 10 | Non-combat |
+| Survival / Exploration | 8 | Non-combat |
 | Cultural / Philosophical | 4 | Non-combat |
-| Economic / Resource | 3 | Non-combat |
+| Economic / Resource | 4 | Non-combat |
 | Companion / Leadership | 3 | Non-combat |
-| **Non-combat subtotal** | **41** | **67%** |
+| **Non-combat subtotal** | **49** | **64%** |
 | Combat — Offensive | 7 | Combat |
-| Combat — Defensive | 5 | Combat |
-| Combat — NODE / Targeting | 5 | Combat |
-| Combat — Hybrid / Specialized | 3 | Combat |
-| **Combat subtotal** | **20** | **33%** |
-| **Total** | **61** | |
+| Combat — Defensive | 8 | Combat |
+| Combat — NODE / Targeting | 6 | Combat |
+| Combat — Hybrid / Specialized | 6 | Combat |
+| **Combat subtotal** | **27** | **36%** |
+| **Total** | **76** | |
 
 Expansion in future design passes should maintain roughly this non-combat to combat ratio. DLC perks may skew toward the DLC's thematic focus, but the aggregate ratio across base game + all DLC should remain non-combat dominant.
 
 ---
 
-## Pending Perks — Placeholders (~100 remaining to reach 160 target)
+## Pending Perks — Placeholders (~84 remaining to reach 160 target)
+
+*(Updated 2026-07-04 after the Fallout-adapted perk batch — see `project_fallout_trait_perk_adaptation` memory.)*
 
 The categories below indicate where additional perks are needed. Names and effects are to be designed during dedicated perk design passes. Rough targets per category to reach the 160 total at the correct ratio:
 
-### Non-combat (need ~67 more to reach ~107 total)
+### Non-combat (need ~58 more to reach ~107 total)
 
 | Category | Currently designed | Still needed |
 |----------|-------------------|-------------|
 | Social / Diplomatic | 8 | ~10 more |
-| Technical / Engineering | 8 | ~10 more |
-| Information / Data | 7 | ~8 more |
-| Survival / Exploration | 7 | ~9 more |
+| Growth / Learning | 3 | ~6 more |
+| Technical / Engineering | 9 | ~9 more |
+| Information / Data | 10 | ~6 more |
+| Survival / Exploration | 8 | ~8 more |
 | Cultural / Philosophical | 4 | ~8 more |
-| Economic / Resource | 3 | ~7 more |
+| Economic / Resource | 4 | ~6 more |
 | Companion / Leadership | 3 | ~7 more |
-| New non-combat categories (TBD) | 0 | ~8 more |
 
-### Combat (need ~33 more to reach ~53 total)
+### Combat (need ~26 more to reach ~53 total)
 
 | Category | Currently designed | Still needed |
 |----------|-------------------|-------------|
-| Combat — Offensive | 7 | ~9 more |
-| Combat — Defensive | 5 | ~7 more |
-| Combat — NODE / Targeting | 5 | ~8 more |
-| Combat — Hybrid / Specialized | 3 | ~9 more |
+| Combat — Offensive | 7 | ~8 more |
+| Combat — Defensive | 8 | ~5 more |
+| Combat — NODE / Targeting | 6 | ~7 more |
+| Combat — Hybrid / Specialized | 6 | ~6 more |
 
-**Design note for future passes**: When adding perks, prioritize filling underrepresented categories first (Cultural/Philosophical, Economic/Resource, Companion/Leadership) before adding more to already-robust categories (Technical, Social). New non-combat categories not yet invented are encouraged — the world of Inner Tepenia has enough distinct systems to support them.
+**Design note for future passes**: When adding perks, prioritize filling underrepresented categories first (Cultural/Philosophical, Companion/Leadership, Growth/Learning) before adding more to already-robust categories (Technical, Information/Data, Social). New non-combat categories not yet invented are still encouraged — the world of Inner Tepenia has enough distinct systems to support them.
