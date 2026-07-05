@@ -158,5 +158,5 @@ Rothera's legacy is its infrastructure and its continued function — the runway
 - **The Lemaire Channel in the DLC** — the channel approach to Adelaide Island from the north is one of the most visually dramatic maritime passages in Antarctica; whether this features as a DLC entry sequence or navigation element is TBD
 - **British community in Concordia** — any Rothera diaspora alongside the Halley diaspora? TBD
 - **St. Ernest (Shackleton) connection** — Shackleton's association with the Peninsula region (Endurance expedition departure, Elephant Island rescue) makes him the most relevant Tepenian Saint for the Palmer subnet broadly; whether Rothera specifically claimed him, or whether another Peninsula city does, is TBD
-- **Demonym** — TBD (Rother ans? something else?)
+- **Demonym** — **Rotheran** *(established 2026-07-04)*
 - **Notable figures originally from Rothera** — TBD

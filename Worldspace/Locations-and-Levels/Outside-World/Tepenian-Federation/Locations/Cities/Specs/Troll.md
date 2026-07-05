@@ -72,7 +72,9 @@ The Norwegian cultural inheritance — outdoor endurance tradition, the particul
 ---
 
 ## Economy & Industry
-Aviation logistics, Halley subnet interior access, scientific research, whatever the inland nunatak position offered. Full detail TBD for DLC 5.
+*(Established 2026-07-04 — developer vision session, see `Cities/City_Vision_Notes/Troll.md`.)* Troll is a genuine intermodal freight hub, not just a strategic aviation asset: raw materials, goods, and supplies imported from Africa land at Sanay (or Belgrano), are trucked overland via Hwy 7 to Troll, and are then flown out via Troll Airfield to other locations across Tepenia. This makes the airfield the effective center of a major share of Tepenia's actual real-economy import/distribution network — control of it is a domestic economic stake, not just symbolic outside-world access. Troll is a major working-class city, with spending power notably higher than the national average. Scientific research and whatever the inland nunatak position otherwise offers round out the rest of the economy. Full further detail TBD for DLC 5.
+
+**Historically significant supply role:** together with Soyuz (which receives its own imports via the city of Mawson, in the separate Mawson subnet), Troll's freight network is how Dome Fuji — one of Tepenia's most isolated, nearly Arcanet-less interior cities — stayed supplied for a substantial stretch of its history. The exact mechanism (direct aviation route vs. a Troll→Soyuz→Dome Fuji relay) and whether this role persisted across the entire interwar period are both still open.
 
 ---
 

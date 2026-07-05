@@ -99,5 +99,5 @@ Belgrano's most lasting contribution to Tepenian history may be the maps that he
 ## Open Questions
 - **The map archive** — where exactly were the Belgrano maps that enabled the Byrd founding expedition? Did Belgrano have a specific archival institution, or were they recovered from general ruins?
 - **Argentine network across subnets** — Esperanza (Palmer), Marambio (Palmer), Belgrano (Halley): three Argentine cities in two subnets; what inter-subnet Argentine cultural connections existed before the Planetary Split Brain?
-- **Demonym** — TBD
+- **Demonym** — **Belgranian** *(established 2026-07-04; local Spanish: "belgralteco/belgralteca")*
 - **Notable figures** — TBD

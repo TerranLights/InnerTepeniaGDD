@@ -100,5 +100,5 @@ Marambio's legacy is the fossils and the flights. A city built on 34-million-yea
 - **The airfield's post-war state** — more developed than Rothera's runway; what remains?
 - **The Picnic Passage causeway/bridge chain's post-war state** — confirmed to exist, connecting Marambio to Hwy 1 proper; exact condition after the Long Night War is TBD
 - **Paleontological archive** — do any records of the Seymour Island fossil research survive in the ruins?
-- **Demonym** — TBD
+- **Demonym** — **Marambian** *(established 2026-07-04; local Spanish: "marambiano/marambiana")*
 - **Notable figures** — TBD

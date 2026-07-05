@@ -181,7 +181,8 @@ Palmer City's legacy in Concordia is primarily cultural and philosophical:
 
 ## Open Questions
 
-- What was the governmental capital of Tepenia? (Palmer City was the cultural capital, not the governmental one)
+- **Demonym** — **Palmerian** *(established 2026-07-04)*
+- What was the governmental capital of Tepenia? (Palmer City was the cultural capital, not the governmental one — confirmed 2026-07-04 that it's definitely not Palmer City, Concordia, or Lazar; see `City_Vision_Notes/Palmer_City.md`)
 - Are the ruins of Palmer City accessible, or too remote and destroyed to reach without significant effort? (DLC 3 design)
 - What other named streets, landmarks, venues, or institutions existed at peak?
 - Are any Palmer City cultural institutions, traditions, or artifacts preserved in Concordia beyond what is listed?

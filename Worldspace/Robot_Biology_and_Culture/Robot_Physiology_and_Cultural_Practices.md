@@ -28,6 +28,14 @@ Robots manage internal heat through coolant systems. Coolant functions as the ro
 
 **Robot coffee:** A specialty coolant formulation that produces particular internal effects beyond basic thermal regulation. The exact composition is TBD, but it sits within the established coolant category — consumed for the experience it produces, not purely for temperature management. The existence of "robot coffee" as a distinct product category confirms that robots consume things for pleasure and experience, not only for maintenance.
 
+**Glitch-coolant — robot alcohol** *(established 2026-07-04, during a Rothera developer-vision session — see `Cities/City_Vision_Notes/Rothera.md`)*: A specialty coolant formulation, mixed with a scientific concoction of electrolytic compounds, that produces a deliberate "glitching" effect analogous to human drunkenness — the robot equivalent of alcohol, consumed recreationally after a work shift rather than for thermal regulation. This is a genuine Tepenia-wide robot cultural institution, not a single-city drink, and it varies by city the same way human drinking culture varies by place:
+
+- **Bohemian/cosmopolitan cities** (e.g. Janbogo, Zhongshan, the Japanese city formerly called "cf. Bharati") support a wide *variety* of glitch-coolant types — different formulations, different characters — the robot equivalent of a sophisticated human drinking culture offering beers, ales, lagers, wines, whiskeys, and vodkas side by side. Variety and refinement over raw intensity.
+- **Working-class robot settings** (e.g. Byrd, Rothera) have a much more limited selection — but what's available produces a noticeably *stronger* glitching effect than the bohemian cities' varied-but-milder options. Fewer choices, more potency — a direct, unpretentious blue-collar drinking culture, not a refined one.
+- **Troll** *(established 2026-07-04, during a Troll developer-vision session — see `Cities/City_Vision_Notes/Troll.md`)* is a working-class city like Byrd and Rothera, but with above-average national spending power thanks to its freight-hub economy — its glitch-coolant scene stays in the working-class strong-effect category rather than shifting toward bohemian variety, but what's available is noticeably *higher-quality* than the national standard, without becoming ornate or extravagant. A third variant within the working-class category: still limited and strong, just better-made.
+
+This gives every Tepenian city with a meaningful robot population a plausible, characterful local drinking scene without needing to invent one from scratch each time — the variety/potency axis above (bohemian-and-varied vs. working-class-and-strong, with room for quality-tier variation within either pole) is the default framework; specific cities can be placed anywhere along it, or between the two poles, as needed.
+
 ---
 
 ## Smoking — Canon Explanation
@@ -82,5 +90,6 @@ Human characters follow a related but not identical pattern *(updated 2026-07-03
 
 - **Siligel** — full composition and mechanical function TBD; canon as "robot food"
 - **Robot coffee** — specialty coolant formulation; exact composition TBD; existence confirmed canon
+- **Glitch-coolant** — specialty coolant formulation producing a drunkenness-analog "glitching" effect; exact composition TBD; existence and the bohemian-variety/working-class-potency city-variation pattern confirmed canon; specific named drink varieties per city are open for future development
 - **Smoking prevalence** — how common is it among Concordia's robot population? Is it associated with particular districts, subcultures, or personality types? TBD during world development
 - **In-game presence** — which characters smoke, and in what contexts, is a character-by-character design question. Naizelle d'Edjordoś and Zhuldyz Serikbolatkyzy are confirmed smokers per reference imagery.

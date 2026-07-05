@@ -73,7 +73,7 @@ The Soyuz name — forward-looking, technologically proud — suggested a commun
 ---
 
 ## Economy & Industry
-Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster economy among the three nearby cities produced. Full detail TBD for DLC 4.
+Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster economy among the three nearby cities produced. **Established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** Soyuz, or a location near it, has its own functional airstrip — smaller and less advanced than Troll's, but real. For a substantial stretch of Tepenian history, this airstrip flew supplies directly to Dome Fuji, working alongside a parallel, separate route flown from Troll (Halley subnet) — two direct aviation lines converging on one of Tepenia's most isolated cities, not a relay chain. Whether this role persisted across the entire interwar period is still open. Full further detail TBD for DLC 4.
 
 ---
 
@@ -100,6 +100,7 @@ Soyuz's legacy is the name it chose — ambition in the face of exile, a spacecr
 ---
 
 ## Open Questions
+- **DLC 4 alternate access route to Dome Fuji — proposed 2026-07-04, not yet confirmed:** Soyuz's own airstrip (established this session, see Economy & Industry above) could plausibly be the site of a broken, player-repairable plane offering an alternate route to Dome Fuji, alongside the dangerous overland trip — see `TODO.md`'s Decision Required section for the full mechanic.
 - **Soyuz vs. Mirny — two Russian cities** — the Russian exile community was split between the Mawson subnet (Soyuz, Larsemann Hills) and the Mirny subnet (Mirny, Davis Coast); what was the relationship between these two Russian communities pre-Split Brain? Both cities are now damaged but functional post-war — does that shared fate give them anything in particular to say to each other, now that neither is worse off than the other?
 - **The Larsemann Hills cluster dynamics** — three cities in close proximity (Soyuz, Zhongshan, former-Bharati location); what were the inter-community relationships?
 - **Demonym** — TBD; "Soyuzans"? something Russian?

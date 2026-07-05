@@ -2,7 +2,7 @@
 
 ---
 
-**Subnet:** Halley ("Atlantic")
+**Subnet:** Halley ("Atlantic") — Sanay is the subnet's actual technical Arcanet nexus *(established 2026-07-04)*, physically hosted here on stable bedrock rather than at Halley itself (which sits on a moving, potentially-calving ice shelf); the subnet keeps Halley's name because Halley's own residents did the hands-on labor of building the nexus here, while Sanay's residents were occupied running the ports and shipping lanes to South Africa
 **Status:** Damaged; partially operational — scarred but standing, one of several such communities rather than a singular untouched exception
 **Census II Population:** 145,798 humans / 129,319 robots / 275,117 combined (rank 26th of ~30, smallest in the subnet's coastal cluster)
 **Location:** Vesleskarvet nunatak, Ahlmannryggen range, Queen Maud Land (~71°40'S, 2°51'W)
@@ -203,7 +203,7 @@ Filtered through the South African founding community's own history, layered aga
 
 ## 24. Arcanet Culture
 
-Modest and practical, reflecting the city's small scale and ongoing recovery work — Arcanet use here is functional rather than archival or disputational, unlike some of its larger or more contested neighbors.
+Modest and practical day-to-day, reflecting the city's small scale and ongoing recovery work — Arcanet use here is functional rather than archival or disputational, unlike some of its larger or more contested neighbors. *(Established 2026-07-04:)* The one major exception is the subnet's actual technical relay nexus itself, physically installed here on Vesleskarvet's stable bedrock rather than at Halley — built by Halley's own residents, who traveled here to do the hands-on construction work personally, while Sanay's people kept running the ports and the shipping lanes to South Africa. Sanay's residents hold a quiet, specific pride in hosting the literal heart of the subnet's communications network, even though the subnet carries someone else's name — a genuine, load-bearing responsibility underneath an otherwise unassuming Arcanet culture.
 
 ---
 

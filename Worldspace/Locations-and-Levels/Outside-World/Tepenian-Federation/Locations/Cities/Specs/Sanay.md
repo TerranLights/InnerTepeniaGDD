@@ -3,9 +3,9 @@
 **Based on:** SANAE IV (South Africa / South African National Antarctic Expedition), Vesleskarvet nunatak, Ahlmannryggen, Queen Maud Land (~71°40'S, 2°51'W)
 **Tepenian city name:** Sanay — phonetic evolution of "SANAE" (South African National Antarctic Expedition acronym) into a proper name; official Tepenian spelling
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Survived; operational" — resolved consistently with `City_Relationship_Database.md`/`Local_Cultures/README.md`'s "Destroyed" as a middle ground, matching Aboa's same-category fix; also a deliberate narrative choice: the user wants multiple Halley subnet cities downgraded from "fully surviving" to "damaged but functional" specifically to raise the stakes of Troll's contested-airfield conflict — a subnet where several communities are struggling makes the question of who controls the one working runway matter far more than if one city were a fully untouched safe haven.)*
-**Arcanet Subnet:** Halley ("Atlantic")
+**Arcanet Subnet:** Halley ("Atlantic") — **the subnet's actual technical relay nexus** *(established 2026-07-04 — developer vision session, see `Cities/City_Vision_Notes/Halley.md`)*, kept here specifically because Vesleskarvet's bedrock foundation is stable in a way the subnet's namesake city (Halley, on a moving/potentially-calving ice shelf) could never offer permanent critical infrastructure. The subnet still carries Halley's name for a different reason: it was Halley's own residents who personally, physically traveled to Sanay and did the hands-on construction work of setting the nexus up (the same kind of direct, hands-on infrastructure labor Michelle Stanton is known for elsewhere in Tepenia) — while Sanay's own residents were occupied running the ports and managing the shipping lanes to South Africa. Labor and namesake credit went to Halley; the physical location and its resulting strategic importance went to Sanay.
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Halley subnet; nunatak position inland from the ice shelf coast; on the main coastal road network)
-**Significance:** South African Tepenian city; the only major South African presence in Tepenia; South African National Antarctic Expedition (SANAE) heritage; built on Vesleskarvet nunatak — a rocky outcrop that provides bedrock foundation rather than ice shelf; the most structurally stable foundation of any Halley subnet city, which is why it took real but non-total damage rather than being destroyed outright; the Sør Rondane Mountains visible to the southeast
+**Significance:** South African Tepenian city; the only major South African presence in Tepenia; South African National Antarctic Expedition (SANAE) heritage; built on Vesleskarvet nunatak — a rocky outcrop that provides bedrock foundation rather than ice shelf; the most structurally stable foundation of any Halley subnet city, which is why it took real but non-total damage rather than being destroyed outright; the Sør Rondane Mountains visible to the southeast; **home to the Halley subnet's actual Arcanet relay nexus**, and a receiving port (alongside Belgrano) for South African freighter shipments that supply Halley overland via the Hwy 7 connector
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — one of several struggling-but-functioning nodes in DLC 5, not a uniquely untouched exception
 
 ---
@@ -71,13 +71,14 @@ The South African cultural heritage — carrying both the country's history and 
 ---
 
 ## Economy & Industry
-Scientific research, whatever the Queen Maud Land nunatak position offered, trade within the Halley subnet. Full detail TBD for DLC 5. Post-war, Sanay's continued function gives it a real, if not singular, economic and social role among the subnet's several damaged-but-functioning communities.
+Scientific research, whatever the Queen Maud Land nunatak position offered, trade within the Halley subnet. *(Established 2026-07-04:)* Sanay is also, alongside Belgrano, one of the two receiving ports for South African freighter shipments — the region's confirmed Upper Earth shipping partner — arriving depending on whichever passage is open at the time. Goods bound for Halley (which has no docks or airstrip of its own) are trucked onward via the Hwy 7 connector. Sanay also hosts the Halley subnet's actual Arcanet relay nexus, giving it a genuine strategic/infrastructural role beyond its own port and research functions. Full further detail TBD for DLC 5. Post-war, Sanay's continued function gives it a real, if not singular, economic and social role among the subnet's several damaged-but-functioning communities.
 
 ---
 
 ## Notable Locations
 - **The Vesleskarvet nunatak summit** — the highest point of Sanay's terrain; panoramic views of the Queen Maud Land ice plateau
 - **The SANAE infrastructure** — the founding-era South African Antarctic research station, damaged but substantially integrated into the city's continued function
+- **The Halley subnet Arcanet relay nexus** *(established 2026-07-04)* — built into the bedrock by Halley's own residents rather than Sanay's, the technical heart of the "Halley" subnet despite sitting physically in Sanay
 - Additional locations: TBD for DLC 5
 
 ---
@@ -109,5 +110,5 @@ Sanay's legacy is endurance — not dramatic, not celebrated, and not unique eit
 - **The exact extent of Sanay's damage** — which sections took the worst of it, and which held thanks to the bedrock foundation? This question now shapes Sanay's post-war identity more than a simple "did it survive" framing
 - **Sanay's role in the post-war Halley subnet** — as one of several functioning-but-damaged cities, what specific role does Sanay play relative to its neighbors, and how does that interact with the contested control of Troll Airfield?
 - **The South African diaspora in Concordia** — any Sanay-origin people in Concordia?
-- **Demonym** — TBD; "Sanayans"?
+- **Demonym** — **Sanaian** *(established 2026-07-04)*
 - **Notable figures** — TBD

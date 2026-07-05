@@ -102,6 +102,8 @@ The Japanese cultural inheritance gave Dome Fuji its social character — the sp
 
 Ice core science — Dome Fuji is one of the best locations on Earth for deep ice core drilling, with ice records extending back hundreds of thousands of years. The scientific program was the city's economic anchor. Full detail TBD.
 
+**Historical supply lifeline — established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** for a substantial stretch of its history, Dome Fuji's viability depended on supplies flown directly in from two aviation sources: Troll (Halley subnet, receiving imports from Africa via Sanay/Belgrano and flying them onward via Troll Airfield) and a smaller, less advanced airstrip at or near Soyuz (Mawson subnet, itself receiving imports via the city of Mawson). Both locations flew supplies directly into Dome Fuji — not a relay chain, two separate direct aviation routes converging on the same isolated city. Whether this dual-route supply role persisted across the entire interwar period or diminished/ended at some point is still open. This is the developer's own explanation for how a city this isolated, with essentially no Arcanet connectivity, actually stayed supplied for as long as it did.
+
 ---
 
 ## Notable Locations
@@ -138,6 +140,7 @@ Dome Fuji's legacy is endurance under conditions that were never fully hospitabl
 
 ## Open Questions
 
+- **DLC 4 alternate access route — proposed 2026-07-04, not yet confirmed:** alongside the dangerous overland trip, a player with 10 Calculation + 10 Investigation plus a secondary gate item (perk/trait/special item/junk component, not yet decided) could fix up a broken plane to fly to Dome Fuji instead — possibly tied to the derelict aviation infrastructure at the Soyuz-area airstrip (see `Specs/Soyuz.md` and `TODO.md`'s Decision Required section).
 - **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (55,072) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage redistribution — see Founding Population Resolution, above. Whether any of the original founding-era human population survived independently of this figure, or whether the pilgrimage population represents the entirety of what's left, is still open.
 - **Robot-to-human demographic shift — RESOLVED 2026-07-04:** fully robot, per the above. The mechanism (altitude attrition vs. deliberate pilgrimage influx) remains an open narrative question even though the end state is now confirmed.
 - **The ice core archive survival** — whether this scientific record survived the Long Night War

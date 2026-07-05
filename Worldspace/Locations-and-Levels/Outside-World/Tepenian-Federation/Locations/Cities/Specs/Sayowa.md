@@ -109,5 +109,5 @@ Sayowa's legacy is dual: the JARE tradition extended across exile — one of the
 - **The inter-subnet proximity** — Sayowa's geographic closeness to the Halley subnet's eastern cities; was there any pre-war relationship between Sayowa and Princess Elisabeth or similar?
 - **The junction's post-war control** — who controls or maintains the Hwy 37/Hwy 7-ext junction today, and does this connect to any larger DLC 4 or DLC 5 contested-infrastructure storyline?
 - **Island connection to mainland** — causeway, bridge, or maritime only?
-- **Demonym** — TBD; "Sayowans"?
+- **Demonym** — **Sayowan** *(established 2026-07-04)*
 - **Notable figures** — TBD

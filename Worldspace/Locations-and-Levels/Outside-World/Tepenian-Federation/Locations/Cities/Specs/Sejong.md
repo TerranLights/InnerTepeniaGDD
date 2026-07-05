@@ -100,5 +100,5 @@ Sejong's legacy is the coexistence experiment — the proof that a dozen nationa
 ## Open Questions
 - **The other King George Island settlements** — what became of the non-Korean communities on the island? Do they have their own city entries, or are they folded into Sejong's story?
 - **The Sejong–Janbogo relationship** — the two Korean cities of Tepenia; did they have a special relationship, shared cultural institutions, regular communication?
-- **Demonym** — TBD
+- **Demonym** — **Sejongite** *(established 2026-07-04)*
 - **Notable figures** — TBD

@@ -2,7 +2,7 @@
 
 ---
 
-**Subnet:** Halley ("Atlantic") — hub city
+**Subnet:** Halley ("Atlantic") — subnet namesake, not the technical nexus *(corrected 2026-07-04 — see `Cities/City_Vision_Notes/Halley.md`: the actual Arcanet relay nexus is kept at a different, more geologically stable subnet city, precisely because Halley itself risks eventually calving into the ocean. Which city holds it is not yet decided.)*
 **Status:** Damaged; partially operational — DLC 5 centerpiece
 **Census II Population:** 509,209 humans / 578,860 robots / 1,088,069 combined (rank 3rd of ~32, *corrected 2026-07-03*)
 **Location:** Brunt Ice Shelf, Coats Land, Weddell Sea (~75°35'S, 26°34'W)
@@ -140,9 +140,9 @@ A blended Anglophone-coastal musical culture without a single dominant national 
 ## 15. Division of Industry
 
 - Technical / scientific: 25% — ice engineering, structural relocation planning
-- Marine / resource extraction: 20% — coastal and maritime trade, fishing
-- Commercial: 20% — port logistics (South African freighter trade, subnet hub function)
-- Technical / Arcanet: 15% — Hwy 59's dual highway/cable-corridor maintenance
+- Marine / resource extraction: 20% *(corrected 2026-07-04 — this is indirect: Halley has no docks of its own; South African freighter trade lands at Belgrano or Sanay and is trucked in overland)*
+- Commercial: 20% — logistics coordination for the Belgrano/Sanay overland supply chain
+- Technical / Arcanet: 15% — Hwy 59's dual highway/cable-corridor maintenance; *(note, 2026-07-04: Halley names the subnet but isn't its technical relay nexus, which lives at a different, more geologically stable city — not yet decided)*
 - Industrial / manufacturing: 12%
 - Other: 8%
 

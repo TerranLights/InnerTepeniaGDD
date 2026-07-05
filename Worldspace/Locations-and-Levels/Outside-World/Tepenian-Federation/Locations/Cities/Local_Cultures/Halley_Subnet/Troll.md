@@ -137,7 +137,7 @@ Norwegian folk tradition persists in private and small-gathering contexts, along
 
 ## 15. Division of Industry
 
-- Commercial / logistics: 30% — airfield operations and control, the city's defining function
+- Commercial / logistics: 30% — airfield operations and control, the city's defining function; *(established 2026-07-04)* a genuine intermodal freight hub, not just aviation access — receiving trucked-in imports from Sanay/Belgrano (originally from Africa) and flying them onward across Tepenia, making Troll a working-class city with above-average national spending power
 - Technical / scientific: 20% — Norwegian Polar Institute-descended research tradition
 - Marine / resource extraction: 15%
 - Industrial / manufacturing: 15%

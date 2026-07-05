@@ -112,5 +112,5 @@ Esperanza's legacy is the children. The Long Night War destroyed the city, but i
 - **How the compact was discovered** — the founding council learned about the pre-exile births at Esperanza through preserved records, audio logs, videos, and journals; where were these records, and who found them? This is a founding story worth developing.
 - **Robots in Esperanza** — given that the founding principle was explicitly about caring for human children, what role did robots play in the city's daily life? Were they caregivers, administrators, protectors? The robot-human relationship in Esperanza would have been distinctive.
 - **Destruction timeline** — early in the Long Night War (first-wave target) or later? The symbolic weight of destroying a city built around human children is significant.
-- **Demonym** — TBD; "Esperanzans"? something Spanish?
+- **Demonym** — **Esperanzan** *(established 2026-07-04; local Spanish: "esperanzeño/esperanzeña," colloquial non-gendered: "esperante")*
 - **Notable figures** — TBD
