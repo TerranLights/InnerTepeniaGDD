@@ -86,6 +86,7 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 - **c. A city that notices thresholds** — The solstice-grazing tradition reflects a broader cultural habit: Mirny residents pay attention to liminal moments and edge cases that other cities might not register, an outgrowth of literally living on a geographic line.
 - **d. Public/private divide** — Standard and unremarked; no strong civic pressure either toward Janbogo's communal openness or Zhongshan's ceremonial reserve.
 - **e. Privacy as civic value** — Moderate; Mirny's Arcanet culture (see Section 24) skews heavily toward the functional and administrative given its unique subnet-hub role, leaving personal/social use comparatively unremarkable and low-friction.
+- **f. Rough, but proud, established 2026-07-05** — What little entertainment exists is mostly rough, unpolished bars rather than any refined civic leisure culture; Mirny is, by its own residents' reckoning, a rough city. But that roughness sits alongside a genuine, unforced sense of pride and kinship — competence over romance, per the motto above, extends even to how residents feel about the place itself: no one romanticizes it, but plenty of people are quietly proud of it anyway.
 
 ---
 
@@ -109,6 +110,8 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 ## 9. Architecture
 
 Aggressively wind-engineered, similar in spirit to Denison's approach but without the mythologizing — airlock entries, minimal exposed surface, structures oriented and reinforced specifically against the severe katabatic loading. Soviet-and-Russian-era institutional architecture forms the historical core, expanded outward over generations with a more broadly Pacific-influenced aesthetic sensibility as the city's demographics shifted — the built environment itself tells the same founding-versus-majority story as the population does, in visible layers.
+
+**Developer vision, established 2026-07-05 — a city built as its own windbreak.** Mirny is dense with buildings — lots and lots of them — arranged in a scattered, concentric formation two or three layers deep. The outer ring is heavily fortified and deliberately smooth-shaped, built to take the katabatic wind head-on and shed it rather than catch it; this outer shell is what actually makes the interior livable and workable. Inside that shielded core sit huge industrial yards, machinery running more often than not — this is the literal, physical expression of the "layers" already established above, function driving form as much as demographic history does. **Residential space, clarified 2026-07-05,** sits inside these same inner buildings, alongside the industrial yards, rather than in a separate third ring — the same wind-shielding that makes the industrial core workable is what makes it livable, so people live where the wind isn't as much of an issue rather than in a distinct residential layer.
 
 ---
 
@@ -161,6 +164,8 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 - Maritime: ~15%
 - Commercial: ~15%
 - Other: ~10%
+
+**Developer vision, established 2026-07-05 — the subnet's construction engine.** Mirny's industrial yards process raw materials trucked in from quarries to the south, toward the continental interior in the general direction of the South Pole (not shared with Davis, which draws from its own, different, nearer quarries), then manufacture both construction materials for the eastern highways (toward Casey and, via Hwy 110's spur, Concordia) and machinery used to build and maintain infrastructure across the subnet. This gives Mirny's already-substantial industrial sector real physical teeth beyond generic "manufacturing" — Mirny didn't just administer the subnet's communications hub, it built the subnet's own roads and the equipment that maintains them.
 
 ---
 

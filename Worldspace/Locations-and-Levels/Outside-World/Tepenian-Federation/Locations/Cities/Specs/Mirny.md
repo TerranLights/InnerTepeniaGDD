@@ -130,11 +130,13 @@ The line is the Antarctic Circle. Mirny sits on it, and Mirny knows it. The sols
 
 **Nationally known for:** Being on the line. The katabatic winds — some of the strongest sustained coastal winds in Tepenia. The solstice observations. The Russian cultural inheritance carried into Antarctic exile.
 
+**Developer vision, established 2026-07-05:** Mirny is dense with buildings, arranged in a scattered, concentric formation two or three layers deep — a heavily fortified, smooth-shaped outer ring built to shed the katabatic wind rather than catch it, sheltering huge industrial yards inside, machinery running more often than not; residential space sits inside these same inner buildings, alongside the industrial yards, wherever the wind isn't as much of an issue, rather than in a separate residential layer. Those yards process raw materials trucked in from quarries to the south (toward the continental interior, in the general direction of the South Pole — not shared with Davis, which draws from its own nearer quarries), then manufacture both construction materials for the eastern highways and the machinery used to build and maintain infrastructure across the subnet — Mirny didn't just administer the subnet's Arcanet hub, it physically built the subnet's own roads. Entertainment is minimal, mostly rough bars. It's a rough city, by its own residents' reckoning — but one with a genuine, unforced sense of pride and kinship. Full detail in `Local_Cultures/Mirny_Subnet/Mirny.md`.
+
 ---
 
 ## Economy & Industry
 
-Mirny's economy was built around its coastal position, its role as the Mirny subnet hub, and the resources of the East Antarctic coast. Full detail TBD. The subnet hub function would have made Mirny an important communications and logistics node for the entire "Australian" subnet region.
+Mirny's economy was built around its coastal position, its role as the Mirny subnet hub, and the resources of the East Antarctic coast. The subnet hub function would have made Mirny an important communications and logistics node for the entire "Australian" subnet region. **Established 2026-07-05:** also a genuine industrial/construction engine — quarried raw materials from the south (toward the continental interior/South Pole direction) processed into construction materials for the eastern highways and infrastructure-maintenance machinery, at the sheltered industrial core inside the city's outer wind-fortified ring.
 
 ---
 
