@@ -33,6 +33,17 @@ Long Night War — no exact day is established yet. This file provisionally uses
 248.0-year span for percentage math. Treat every date below as adjustable once the
 war's actual day is settled.
 
+**Seasonal window established 2026-07-05, narrowing (not yet fixing) the exact
+day:** the developer wants the war's start date to fall somewhere between **March
+22 and June 20** — Southern Hemisphere astronomical autumn, running up to (but not
+past) the winter solstice — so that the war is triggered heading *into* the
+Antarctic polar night, not during or after it. This is a deliberate thematic choice:
+"Long Night War" should describe a war that begins as the literal long night is
+arriving, not one that starts once it's already dark. The current June 21 placeholder
+sits exactly one day past this window (the solstice itself) and should be moved
+into the March 22 – June 20 range once a specific day is chosen — not yet decided
+which day within that range.
+
 **Major open tension, flagged 2026-07-05 — not yet resolved:** the developer has
 decided Amundsen Tower's completion belongs at this era's **Midpoint**, tentatively
 placed at exactly 50% (**June 21, 2688**, under the placeholder span above) — see the
@@ -60,8 +71,8 @@ math file against whichever date wins is a real, tracked task — see `TODO.md`.
 | **Catalyst** | Save the Cat / Bell ("Disturbance") / Campbell ("Call to Adventure") | TBD | ~10.0% |
 | **Debate** | Save the Cat / Bell ("Argument Against Transformation") / Campbell ("Refusal of the Call") | ~2589 – ~2614 | 10.0–20.0% |
 | **Break into Two** | Save the Cat / Bell ("Doorway of No Return #1") | ~2614 | ~20.0% |
-| *B-Story trigger(s)* | Save the Cat | TBD — early Road of Trials, converges with the A-plot at the Midpoint | TBD, →50.0% |
-| *Kick in the Shins* | Bell | TBD — early Road of Trials | TBD |
+| *B-Story trigger(s)* | Save the Cat | The Arcanet's construction begins — converges with the A-plot at the Midpoint | TBD, →50.0% |
+| *Kick in the Shins* | Bell | TBD — early Road of Trials; NOT Tower construction start (ruled out 2026-07-05, conflicts with established ~12-17yr construction length) | TBD |
 | **Road of Trials / Fun and Games** | Campbell / Save the Cat ("Promise of the Premise") | ~2614 – ~2688 | 20.0–50.0% |
 | *Pet the Dog* | Bell | TBD — must land close to the Midpoint, just before or after | TBD, 50(±1–2)% |
 | **Midpoint / Mirror Moment** | Bell | **June 21, 2688** (tentative — Amundsen Tower completion; see caveat above) | 50.0% (exact, by deliberate choice) |
@@ -135,6 +146,45 @@ trajectory irreversibly toward its ascendant nation-building era (per
 Interwar Period as the Federation's confident, outward-looking golden age) and,
 eventually, toward the Midpoint.
 
+**Combined direction confirmed 2026-07-05 (event/shape still TBD — all three kept
+as live candidates, not yet chosen between):** the developer wants Break into Two
+built from two combined ingredients — **a crisis that proves isolated cities can't
+survive alone** (forcing federation as necessity, not just policy) and **a
+generational handoff** (the founding generation giving way to Tepenians born in
+exile, with no memory of Upper Earth). The generational angle is especially
+well-grounded in existing lore: by ~2614 (50 years post-Treaty), most *human*
+founders would be elderly or already dead — human lifespans aren't meaningfully
+extended here — while the robots present at the founding are still fully active,
+since they live for centuries. This makes robots the one group spanning *both*
+generations, uniquely positioned to bridge (or complicate) the handoff. Three
+candidate shapes for how this plays out, all kept open for now:
+
+- **Shape A — the crisis discredits isolationist caution outright.** A prolonged
+  hardship hits several early cities at once. The founders' instinct (self-reliance,
+  forged by the trauma of exile) is for each city to handle it alone; the cities that
+  do this nearly collapse. Exile-born humans, without the founders' hard-earned
+  caution, simply organize cross-city aid without waiting for permission — and it
+  works decisively, discrediting isolationism and creating the political will for
+  real federation (shared highways, the Arcanet) that didn't exist before.
+- **Shape B — a leadership handoff collides with the crisis by accident.** The
+  founders' council (increasingly robot-only as human founders age out or die) is
+  already mid-transition, formally handing decision-making to the native-born
+  generation, when the crisis hits. The new leadership has no choice but to improvise
+  a federated response immediately, under real pressure — Break into Two as
+  something the era is thrown into, not a calm policy choice.
+- **Shape C — the robots are the ones who push for federation, not the humans.**
+  Flips the expected roles: it's the long-lived robots — who remember the founding
+  generation's fear clearly, but also have centuries of perspective the newly-adult
+  humans don't — who recognize the isolationist instinct has outlived its
+  usefulness. Their institutional memory argues for change; the exile-born humans
+  are the ones willing to actually act on it. Uses the robots-as-memory-keepers theme
+  directly (see [[project_tepenia_demographics_reproduction]]) rather than just
+  having them present for the transition.
+
+None of these are mutually exclusive with each other or with additional shapes not
+yet identified — kept open deliberately, to be chosen from (or combined further)
+once more background/context is developed.
+
 ### Road of Trials / Fun and Games / Promise of the Premise
 **~2614 – ~2688**
 
@@ -144,6 +194,50 @@ highways wired → the Arcanet gradually connected subnet by subnet → Hwy 22 (
 Transcontinental Highway) built, reaching the South Pole/Amundsen Station directly →
 only then does Amundsen Tower's own construction begin, in the final ~12–17 years of
 this span (per already-established canon on the Tower's own construction timeline).
+
+**B-Story = the Arcanet's construction, established 2026-07-05.** Fits cleanly: the
+B-Story starts early in Road of Trials (right after Break into Two, per the general
+methodology) and converges with the main plot at the Midpoint — matching the
+Arcanet's own gradual, subnet-by-subnet buildout culminating around the same time as
+the Tower's completion. Cities are already built out by this point (per the sequence
+above, cities come first, during Act 1), so the Arcanet beginning as a quiet,
+seemingly-separate infrastructure thread that later proves central (converging with
+the Tower/energy-regulation main plot at the Midpoint) is a strong structural fit.
+
+**Highways — not yet placed, per the developer (2026-07-05).** Where subnet-internal
+highway construction fits thematically/structurally within this span (or possibly
+earlier, during Debate/Break into Two) is still an open question. Given the
+established sequence lists highways *before* the Arcanet, this may need to be placed
+earlier than the Arcanet/B-Story above, or the sequence itself may need revisiting —
+not yet decided either way.
+
+**Resolved 2026-07-05 — Kick in the Shins is NOT Amundsen Tower's construction
+start.** The developer initially proposed Tower construction *beginning* at Kick in
+the Shins (early Road of Trials, ~2614) but agreed this conflicts with the
+already-established Infrastructure Sequence, which has construction beginning only
+in the **final ~12-17 years** before the ~2688 Midpoint completion (~2671-2676), not
+at the start of this ~74-year span — preserving the material-logistics/
+construction-rate math already worked out in `Theoretical-Calculations/Amundsen_
+Tower_Space_Fountain_Design.md`. Kick in the Shins needs a **different, genuinely
+setback-shaped event** — something that actually goes wrong for Tepenia early in
+Road of Trials, not a positive infrastructure milestone.
+
+**Two candidates kept for future consideration, chosen 2026-07-05 from a
+four-option brainstorm (not decided between yet; more candidates may be added
+later):**
+- **The person who made Break into Two's federated response work is lost almost
+  immediately after.** Whoever drove the successful cross-city cooperation (the
+  crisis response from Break into Two) dies, is badly hurt, or withdraws right when
+  everyone assumed the hard part was over — creating real doubt about whether the
+  federation spirit survives without that specific person.
+- **An early infrastructure failure.** A first real attempt at a highway segment or
+  an Arcanet subnet-connection fails outright — an engineering problem, a resource
+  shortage, terrain nobody accounted for — a concrete, physical setback showing the
+  new ambition outpaced the actual capability, at least at first.
+
+Two other candidates (federation proving harder in ongoing practice than the crisis
+made it look; isolationist backlash from a resentful city/faction) were considered
+but not carried forward for now.
 
 ### Midpoint / Mirror Moment
 **June 21, 2688 (tentative)**
@@ -272,7 +366,8 @@ likely captures Tepenia at its most confident and developed — the peak the war
 destroys.
 
 ### END — The Long Night War
-**2812 (day TBD)** — **Confirmed canon (year only)**
+**2812 (day TBD, narrowed to March 22 – June 20)** — **Confirmed canon (year only;
+seasonal window established 2026-07-05, see top-of-file caveat)**
 
 The Long Night War begins and Tepenia is devastated — see
 `World_History_Reference.md` and [[project_district_canon_timeline_fix]] for the
