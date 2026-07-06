@@ -118,6 +118,8 @@ The northern position on the Ross Sea coast gave Cape Adare the feeling of a gat
 
 **Nationally known for:** Being first. Borchgrevink's hut. The penguin rookery. The gateway character — the northernmost point where the Ross Sea coast was inhabited.
 
+**Developer vision, established 2026-07-05:** Geographically vast but low-density — a city that looks big on a map but feels like a small town on the ground. Strongly community-driven, more so than most Tepenian cities. Heating infrastructure creates a genuine warm microclimate across the settled area, close to an oasis by Antarctic standards. Keeping individual penguins as outdoor pets is uncommon but not unheard of. Life moves slowly and deliberately — people and robots work, but nobody rushes. Music leans heavily acoustic (guitars, violins, cellos, tagelharpas), tracing to the real-world American folk-music subculture that plays traditional Scandinavian instruments — plausible given the city's USA Primary-tier presence (22.26%, its largest single national share). Full detail in `Local_Cultures/Janbogo_Subnet/Cape_Adare.md`.
+
 ---
 
 ## Economy & Industry

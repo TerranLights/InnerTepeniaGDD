@@ -73,6 +73,7 @@ Cape Adare's culture was never built around a national heritage the way most Tep
 - **c.** Oriented toward arrival and departure rhythms — a city used to ships coming and going, not a place that expected anyone to stay forever.
 - **d. Public/private divide** — The historical/civic identity (Borchgrevink, St. Carsten, precedence) is entirely public, almost liturgical; personal national heritage is comparatively unremarkable and private, since it was never the organizing civic fact to begin with.
 - **e. Privacy as civic value** — Low pressure around origin, given the population's own mixed, transient-arrival history; the city never developed strong gossip infrastructure around where anyone specifically came from.
+- **f. Community over pace, established 2026-07-05** — Cape Adare is community-driven to a degree unusual even by Tepenian standards. Life moves slowly and deliberately; people and robots alike work without rushing. This isn't idleness — it's a shared, unhurried rhythm that the city's whole "arrival and departure" character (see above) somehow coexists with: ships come and go on their own schedule, but the people who actually live here are in no hurry about anything else.
 
 ---
 
@@ -96,6 +97,8 @@ Cape Adare's culture was never built around a national heritage the way most Tep
 
 Built low and functional around the preserved heritage site at its center — Borchgrevink's hut, treated with a reverence that shaped the surrounding city's layout even as the built environment itself was purely practical, gateway-city construction. Nothing here was designed to compete with the hut for significance; everything else was simply infrastructure.
 
+**Developer vision, established 2026-07-05 — vast but sparse:** Cape Adare's built footprint is geographically large but low-density — a city that looks big on a map but feels like a small town on the ground, more spread out than crowded. This fits its "big but sparse" population profile: a large combined Census population, but distributed across a wide, low-rise urban footprint rather than concentrated density. Heating infrastructure creates a genuine microclimate across the settled area — by Antarctic standards, something close to an oasis, warm and green (or as green as Tepenia gets) against the surrounding cold, rather than a series of isolated heated interiors.
+
 ---
 
 ## 10. Cuisine
@@ -114,7 +117,7 @@ Practical, gateway-city clothing without a strong national aesthetic marker — 
 
 ## 12. Music
 
-Similarly blended and practical rather than tradition-anchored — whatever musical culture existed here was shaped more by the rookery's constant sound and the rhythm of ship arrivals than by any specific inherited tradition.
+**Developer vision, established 2026-07-05:** Cape Adare's music is heavily acoustic — guitars, violins, cellos, and tagelharpas (the Scandinavian bowed lyre). This traces to the real-world American folk-music subculture that plays traditional Scandinavian instruments — plausible here given the city's USA Primary-tier presence (22.26%, the largest single national share in the city). Rather than a mono-national inherited tradition, it reads as an adopted, cross-pollinated folk aesthetic that took root and became the city's own — fitting for a place whose whole culture already runs on "belongs to everyone equally, owned by no one specifically" (see Post-Culture Identity above). The unhurried, slow-paced character of daily life (see Section 6) pairs naturally with acoustic, unamplified music as a default texture rather than an exception.
 
 ---
 
@@ -132,6 +135,7 @@ Similarly blended and practical rather than tradition-anchored — whatever musi
 - **Smell:** The rookery's smell, inescapable at this scale, more dominant here than at any other Tepenian city.
 - **Feel:** Open, exposed, northern-facing — a city with no terrain buffer from the Southern Ocean.
 - **First impressions for visitors:** The scale of the penguin colony first, immediately overwhelming; then the specific, almost reverent quiet around the heritage site at the city's center, a striking contrast to the noise everywhere else.
+- **Penguins as pets, established 2026-07-05:** Uncommon but not unheard of — some residents keep individual penguins as outdoor pets, an intimate extension of the city's basic coexistence with the rookery. Not a widespread practice, but a recognizable one; it says something about how thoroughly the birds are treated as neighbors rather than wildlife to observe from a distance.
 
 ---
 

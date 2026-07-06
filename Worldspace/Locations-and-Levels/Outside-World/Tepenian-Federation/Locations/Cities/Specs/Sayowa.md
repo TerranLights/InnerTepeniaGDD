@@ -113,7 +113,7 @@ Sayowa had the character of a city that was deeply Japanese in a place that offe
 
 The geographic position — westernmost Mawson subnet city, closest to the Halley subnet — gave Sayowa a slightly liminal quality within its own subnet. It was the city that faced west more than east, that had the most geographic relationship to the Halley subnet's eastern cities, formalized in the exile era as a genuine highway junction (Hwy 37 toward Vostok/Kunlun/Concordia, Hwy 7-ext toward Princess Elisabeth and Lazar) — Sayowa became critical infrastructure precisely because of the liminal position its geography always gave it.
 
-**Nationally known for:** Being Japanese. The Sayowa name. The island position in Lützow-Holm Bay. The long JARE research heritage. The westernmost Mawson subnet city. Being the critical junction between the Mawson subnet, the inland Concordia route, and the Halley subnet.
+**Nationally known for:** The Sayowa name. The island position in Lützow-Holm Bay. The long JARE research heritage. The westernmost Mawson subnet city. Being the critical junction between the Mawson subnet, the inland Concordia route, and the Halley subnet.
 
 ---
 

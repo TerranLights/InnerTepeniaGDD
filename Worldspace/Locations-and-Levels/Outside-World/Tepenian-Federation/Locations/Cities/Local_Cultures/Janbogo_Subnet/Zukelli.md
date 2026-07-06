@@ -92,6 +92,10 @@ Zukelli's defining civic fact, for as long as it stood, was Janbogo's constant p
 
 Built around sheltered courtyards and wind-oriented street layouts, with covered connections between buildings allowing movement without full exposure to the katabatic winds shared with Janbogo. The Italian aesthetic showed in proportion, warmth of material choice, and the prominence given to communal gathering and food-hall spaces — buildings designed around the shared table the way Janbogo's were designed around the teahouse.
 
+**Developer vision, established 2026-07-05 — tangled and organic, not planned:** Zukelli grew the way a city grows when it's built by people solving whatever problem is in front of them that year, not by a master plan laid down in advance. The result is a tangled, interwoven street layout that makes complete sense to someone who was there as it was built, or who grew up navigating it, and is genuinely disorienting to anyone else — an outsider realistically needs to know somebody who actually lives there to find their way around. This isn't a flaw in the city's design; it's the honest physical record of centuries of organic, need-driven growth, the opposite of Concordia's planned dome-and-corridor structure.
+
+**Plantlines and "bridger-footroads":** beneath the heating infrastructure that makes Zukelli livable at all, the city built elaborate walkable green spaces — plantlines and elevated "bridger-footroads" that let residents walk among something approximating equatorial nature, even 74° south. Much of this greenery is artificial, deliberately fragile, or specifically genetically engineered to survive the cold rather than truly tropical — but the effect, walking through it, was real: a warm, green, living contrast to the Antarctic dark just outside the heating envelope.
+
 ---
 
 ## 10. Cuisine
@@ -112,6 +116,8 @@ Warm, material-conscious, Italian-inflected practical wear — style mattered he
 
 A genuinely lively musical culture, Italian-rooted, performed and shared in the same communal spaces as meals — music and food were treated as adjacent expressions of the same hospitality instinct rather than separate cultural categories.
 
+**Developer vision, established 2026-07-05 — a huge, genre-diverse scene:** what began Italian-rooted grew, over centuries, into one of the largest and most varied music scenes in the Janbogo subnet, reflecting Zukelli's actual demographic breadth (China and USA lead the city's composition, with Korea, Canada, Australia, Indonesia, and Japan all Significant-tier) as much as its Italian founding heritage. Rather than dedicated concert venues, entertainment here happened primarily among friends and in restaurants with their own dedicated performance stages — music and food remaining, per the city's founding instinct, adjacent expressions of the same hospitality rather than separate institutions. This is part of what made Zukelli, more than almost anywhere else in Tepenia, a place people describe as having a *soul*.
+
 ---
 
 ## 13. Arts & Aesthetics
@@ -128,6 +134,7 @@ A genuinely lively musical culture, Italian-rooted, performed and shared in the 
 - **Smell:** Food, constantly and deliberately — Zukelli's most identifiable sensory signature.
 - **Feel:** Warm interior spaces built deliberately against the same cold and wind Janbogo endures.
 - **First impressions for visitors:** Food and hospitality immediately, followed quickly by the inescapable awareness of Janbogo across the water — no visitor spent long in Zukelli without the two cities' relationship coming up.
+- **Getting lost, established 2026-07-05:** the city's tangled, organically-grown street layout (see Architecture above) meant a first-time visitor's other defining impression was disorientation — Zukelli was not a city you could navigate on sight, and knowing someone who actually lived there was, in practice, the only reliable way in.
 
 ---
 

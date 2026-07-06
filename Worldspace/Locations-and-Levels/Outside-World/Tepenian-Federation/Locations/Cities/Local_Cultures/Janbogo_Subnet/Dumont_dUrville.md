@@ -94,6 +94,8 @@ Dumont d'Urville never developed a culture of conquering its environment, and it
 
 Low, anchored, and oriented — nothing here is built without accounting for wind loading first and aesthetics a distant second. What French sensibility survives shows up in proportion and small deliberate details rather than any grand statement architecture; the city could never afford architectural ambition against conditions this severe. In damage, the pattern holds: repaired sections are rebuilt low and anchored exactly like the originals, while abandoned sections are left to the wind and, increasingly, to nesting penguins.
 
+**Developer vision, established 2026-07-05 — a tight, bustling, spatially stratified city:** Dumont d'Urville's downtown core, on Petrel Island proper, is dense and genuinely bustling — and expensive; real estate here commands the city's highest prices, the reward for being inside the sheltered, walkable heart of the settlement rather than out past the bridge. Between the downtown buildings, dedicated heating units keep the spaces between structures genuinely livable against the wind, not just the interiors — a step beyond most Tepenian cities' purely interior-focused heating. The bridge to the mainland (see Geographic Basis in `Specs/Dumont_dUrville.md` for the engineering questions still open around whether it's permanent or seasonal) is the island's most prominent feature outside the dense downtown itself, and the city's spatial economics run outward from it: downtown is expensive and central, the far side of the bridge is cheaper residential territory, and further out still, the bridge connects to the highway network proper.
+
 ---
 
 ## 10. Cuisine
@@ -113,6 +115,8 @@ Heavy, anchored, wind-first clothing design — French practical elegance applie
 ## 12. Music
 
 Small-city, intimate musical culture — French chanson traditions persisting in private and small-gathering settings rather than any large performance industry the population is simply too small to support. The sound of the wind itself is, unavoidably, part of the city's actual sonic identity; some residents describe certain wind pitches as recognizable, almost musical, in their own right.
+
+**Developer vision, established 2026-07-05 — "New Orleans at 1/20th scale":** this small-city intimacy took a specific, vivid form in the dense downtown core — live music inside almost every eatery, not as a special occasion but as an ordinary, expected feature of eating out. This isn't a contradiction of the population being "too small to support a large performance industry" above — it's the same intimacy expressed as density rather than absence: many small, packed, informal venues rather than one large one, exactly the texture real New Orleans is actually known for (a city of countless small clubs and bars with live music, not stadium shows). Downtown's bustling, expensive, tightly-packed character (see Architecture above) is inseparable from this — the eateries-with-stages culture is as much a spatial fact as a musical one.
 
 ---
 

@@ -98,7 +98,7 @@ Marambio had a dual character: the operational hub that kept the Palmer subnet m
 
 The Argentine military heritage from the founding era shaped Marambio's institutional character in ways that persisted across generations.
 
-**Nationally known for:** The runway. The fossils. Being Argentine. The Weddell Sea eastern position.
+**Nationally known for:** The runway. The fossils. The Weddell Sea eastern position.
 
 ---
 

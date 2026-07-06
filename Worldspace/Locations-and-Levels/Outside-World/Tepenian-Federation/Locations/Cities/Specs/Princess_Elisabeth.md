@@ -129,7 +129,7 @@ That design principle, extended across generations into a full community, produc
 
 The Belgian cultural heritage — specific, distinct from the more numerically dominant British, Norwegian, and German communities in the Halley subnet — gave Princess Elisabeth its national identity alongside its design identity.
 
-**Nationally known for:** Being Belgian. The zero-emissions design — a city that could only exist through continuous engineering, on one of the most exposed sites in the subnet. The Sør Rondane mountain position. Being the Halley subnet city that had nothing to fall back on when its systems finally failed.
+**Nationally known for:** The zero-emissions design — a city that could only exist through continuous engineering, on one of the most exposed sites in the subnet. The Sør Rondane mountain position. Being the Halley subnet city that had nothing to fall back on when its systems finally failed.
 
 ---
 

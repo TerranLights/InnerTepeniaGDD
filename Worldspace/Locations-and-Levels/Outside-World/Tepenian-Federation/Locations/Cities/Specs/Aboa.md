@@ -117,7 +117,7 @@ Aboa had the character of a small city that worked because it had to. The joint 
 
 The city's small size meant everyone knew everyone. The cultural negotiation that Sejong had to do at the city-wide level, Aboa did at the level of individual households and neighborhoods.
 
-**Nationally known for:** Being Finnish-Swedish. The dual founding. The Turku connection (Aboa as a name of memory). Being small and still standing, even damaged.
+**Nationally known for:** The dual founding. The Turku connection (Aboa as a name of memory). Being small and still standing, even damaged.
 
 ---
 

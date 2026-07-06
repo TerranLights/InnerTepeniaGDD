@@ -87,7 +87,7 @@ Zhongshan's character was shaped by the cluster and by the scale of the Sinian F
 
 The immediate proximity to Soyuz (Russian) and the former-Bharati location (TBD nationality) produced the Larsemann Hills cluster's inter-community dynamics. The Sinian-Russian relationship in this cluster would have had specific historical weight: two major powers in close proximity in a place where neither could ignore the other.
 
-**Nationally known for:** Being Sinian Federation (Chinese). Sun Yat-sen's name. The Larsemann Hills cluster. Prydz Bay maritime access. The connection to Kunlun across the Mirny subnet — the two faces of Sinian Antarctic Tepenia.
+**Nationally known for:** Sun Yat-sen's name. The Larsemann Hills cluster. Prydz Bay maritime access. The connection to Kunlun across the Mirny subnet — the two faces of Sinian Antarctic Tepenia.
 
 ---
 

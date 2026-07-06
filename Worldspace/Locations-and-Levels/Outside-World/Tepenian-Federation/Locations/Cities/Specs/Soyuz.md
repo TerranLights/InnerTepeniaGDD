@@ -112,7 +112,7 @@ Soyuz had the character of a Russian city that knew it was part of a cluster. Th
 
 The Soyuz name — forward-looking, technologically proud — suggested a community that defined itself by ambition rather than nostalgia.
 
-**Nationally known for:** Being Russian. The Soyuz name. The Larsemann Hills cluster. The Prydz Bay position.
+**Nationally known for:** The Soyuz name. The Larsemann Hills cluster. The Prydz Bay position.
 
 ---
 

@@ -104,7 +104,7 @@ Named after Manuel Belgrano (1770–1820) — Argentine independence general, ec
 
 Belgrano had the operational character of an aviation hub — transient, functional, purposeful. The Argentine military heritage shaped its institutional culture. The deep Weddell Sea position gave it a frontier quality relative to the more accessible Queen Maud Land coastal cities.
 
-**Nationally known for:** The runway — Halley subnet aviation hub. Being Argentine. The southernmost Halley subnet position. The Weddell Sea approach.
+**Nationally known for:** The runway — Halley subnet aviation hub. The southernmost Halley subnet position. The Weddell Sea approach.
 
 ---
 

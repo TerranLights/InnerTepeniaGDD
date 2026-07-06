@@ -1,6 +1,6 @@
 # Denison — Cultural Spec Sheet
 
-*(Written as a living, active city per the project's methodology note — Denison is destroyed in the game's present era; this document describes its culture while populated and functioning. No dedicated `Specs/Denison.md` exists yet — geographic and founding detail below is newly established from real Cape Denison history and the census record, flagged where TBD.)*
+*(Written as a living, active city per the project's methodology note — Denison is destroyed in the game's present era; this document describes its culture while populated and functioning. **`Specs/Denison.md` was created 2026-07-05** — see it for the city's full per-nation Census I/II breakdown, geography, and founding detail; this file remains the authoritative source for Denison's culture.)*
 
 **See also:** `../Mirny_Subnet/Casey.md` — its composition tiers are nearly identical to Denison's, for reference.
 
@@ -111,6 +111,8 @@ Unlike Belgrano's function-over-comfort military discipline or Janbogo's warmth-
 
 Denison's built environment is aggressively wind-engineered — low profiles, minimal exposed surface, structures oriented and shaped specifically around the prevailing katabatic direction in a way even Janbogo's wind-conscious design doesn't need to match. Historical reverence for Mawson's original expedition hut site (preserved, in some form, as a civic landmark) sits alongside genuinely cutting-edge wind-engineering infrastructure — old legend and applied structural science occupying the same small footprint of exposed rock.
 
+**Developer vision, established 2026-07-05 — a city as one continuous structure:** Denison takes wind-engineering further than any other Tepenian city by treating the built environment as a single connected system rather than a collection of individual buildings. Structures are physically joined to each other throughout the city — not occasional covered connections the way Zukelli or Janbogo use them, but a comprehensive, city-wide interlinking, so that moving through Denison means moving through one continuous, load-sharing, aerodynamically coherent structure rather than between separate buildings. Certain landmark structures are distinctive and recognizable from a real distance — visible even through blowing snow — giving Denison a skyline that reads as deliberate and unified even at a glance, in a way no other wind-exposed city in Tepenia achieves. The city doesn't just survive the wind individually, building by building; it survives it as a single coordinated form.
+
 ---
 
 ## 10. Cuisine
@@ -146,7 +148,7 @@ Music with real rhythmic drive and percussive intensity is disproportionately po
 - **Sound:** Wind, essentially always, at a level of constancy beyond even Janbogo — residents describe true silence as the actually unsettling sound, not the wind itself.
 - **Smell:** Cold rock and mineral dust (Cape Denison's rare exposed bedrock, scoured clean by wind); engineered material and reinforced-structure smell more prominent than in most Tepenian cities.
 - **Feel:** Kinetic — a city that never quite stops moving or vibrating faintly under wind load; residents describe adjusting to genuinely still air elsewhere in Tepenia as disorienting.
-- **First impressions for visitors:** The wind, immediately and overwhelmingly, followed quickly by the specific, slightly proud way locals seem entirely unbothered by it.
+- **First impressions for visitors:** The wind, immediately and overwhelmingly, followed quickly by the specific, slightly proud way locals seem entirely unbothered by it — and, once visibility allows it, the realization that the city itself reads as one continuous, deliberately-shaped structure rather than a cluster of separate buildings.
 
 ---
 
@@ -265,6 +267,7 @@ Marked by the moment wind-safety competence stops being conscious effort and bec
 
 - **The original expedition hut site** — preserved in some form as the city's founding historical landmark, tied directly to Mawson's 1911–1914 expedition
 - **The exposed bedrock outcrop at Cape Denison proper** — the rare rock exposure that made a physical settlement possible at all; a literal and symbolic anchor point for the city
+- **The interlinked city structure itself, established 2026-07-05** — Denison's most distinctive landmark is arguably the city's own built form: a small number of genuinely landmark structures, distinctive and recognizable even at a distance through blowing snow, anchoring a comprehensively interconnected built environment that functions as one continuous, aerodynamically coherent whole rather than separate buildings
 - Additional named locations: TBD
 
 ---

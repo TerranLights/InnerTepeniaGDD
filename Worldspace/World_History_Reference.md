@@ -117,6 +117,16 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **The evacuees:** People who left Tepenia via the Tower before its destruction are referenced by name in Concordia — scattered across journals, terminal entries, audio logs. Specific individuals, which Concordia residents knew them, and how those relationships worked are TBD.
 
+---
+
+## Machu Picchu Border & Customs Authority (established 2026-07-05)
+
+**What it is:** A fully Tepenian national institution, effectively Tepenian National Customs — not an Upper Earth body. It controls entry for arrivals reaching Tepenia through the Ushuaia airport gateway (the real-world jumping-off point for the Antarctic Peninsula/Palmer subnet corridor — see `Upper_Earth_Immigration_Composition.md`). Non-immigrant visitors are routed through a designated corridor to a designated sealiner bound for Palmer City, kept physically separate from immigration processing.
+
+**Origin:** Its records were originally kept at **Juan Carlos** (Palmer subnet, Livingston Island) — Tepenia's first bureaucratic archive, tracking who entered and left, Palmer City visa and permanent immigration applications, and anyone who had held a position in their home country's Upper Earth government. As the Federation matured over the Second Interwar Period, this archive was superseded: its contents were copied onto physical drives and hauled further and deeper into Antarctica for consolidation into something bigger and better. **That successor archive is Amundsen Station's own unified, pre-Split-Brain archive** (see `Storyline/DLC_PSB_Framework.md`) — meaning the archive at the center of DLC 1's deepest lore stakes originated at this quiet, otherwise unremarkable Palmer subnet city.
+
+**Open question:** Machu Picchu itself sits roughly 3,000km+ from Ushuaia — whether this represents a genuinely remote administrative/processing headquarters (paperwork and vetting handled far from the actual point of physical departure) or something else is TBD. See `Specs/Juan_Carlos.md` for full detail.
+
 **What is TBD:**
 - Exact construction start date for the Tower itself (phased sequence established above, but precise year Tower construction began — likely ~12–17 years before the 2630–2640 completion — is not yet pinned down)
 - Exact dates for each earlier phase (cities, subnet highways, Arcanet connection, Hwy 22)

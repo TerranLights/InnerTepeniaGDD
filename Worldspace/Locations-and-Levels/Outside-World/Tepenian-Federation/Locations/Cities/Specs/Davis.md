@@ -114,7 +114,7 @@ Davis had the character of a city that benefited from exceptional terrain. The V
 
 The Australian Antarctic Division culture — practical, research-focused, with the particular Australian cultural relationship to wide open spaces and extreme environments — shaped Davis from the beginning. Not the subnet hub (that's Mirny itself), Davis had less administrative weight and more of the oasis city's particular character.
 
-**Nationally known for:** Being Australian. The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. The John King Davis name — the enabler rather than the explorer.
+**Nationally known for:** The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. The John King Davis name — the enabler rather than the explorer.
 
 ---
 

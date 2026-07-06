@@ -95,6 +95,8 @@ Scott the city carries this framing more personally than any other place in Tepe
 
 **Nationally known for:** Being Fort McMurdo's partner city; the name it carried and the Saint it honored; the Hut Point remembrance tradition; the particular quality of its community and organization.
 
+**Developer vision, established 2026-07-05:** Overwhelmingly residential in physical footprint — housing dominates, with the rest of the city given over mainly to casual, leisurely business (restaurants, general leisure) and a modest handful of public gathering spaces. Not much is visibly happening here, in the best way: a genuinely decent, quiet place to raise a family, the direct experiential counterpart to Fort McMurdo's constant operational churn next door. This sits alongside, rather than replacing, Scott's established technical/research economic base — the work is real, it's just contained, and doesn't define what the city feels like to walk through day to day. Full detail in `Local_Cultures/Janbogo_Subnet/Scott.md`.
+
 ---
 
 ## Economy & Industry

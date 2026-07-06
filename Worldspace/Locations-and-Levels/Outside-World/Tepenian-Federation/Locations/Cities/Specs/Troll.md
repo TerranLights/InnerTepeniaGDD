@@ -117,7 +117,7 @@ Troll had a double character: the Norwegian cultural pride in being here (Queen 
 
 The Norwegian cultural inheritance — outdoor endurance tradition, the particular relationship to winter and cold, the Amundsen heritage — gave Troll a specific social texture. Pride in being good at the cold. Not enduring it grudgingly but excelling at it.
 
-**Nationally known for:** Being Norwegian. The airfield. Queen Maud Land as Norwegian-claimed territory. The mountain landscape. St. Roald (Amundsen) as the patron Saint of this region.
+**Nationally known for:** The airfield. Queen Maud Land as Norwegian-claimed territory. The mountain landscape. St. Roald (Amundsen) as the patron Saint of this region.
 
 ---
 

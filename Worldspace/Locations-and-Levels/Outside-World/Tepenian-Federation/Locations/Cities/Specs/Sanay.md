@@ -111,7 +111,7 @@ Sanay developed the character of a city that endures rather than a city that was
 
 The South African cultural heritage — carrying both the country's history and the specific SANAE institutional tradition — gave Sanay a distinctive identity within the Halley subnet. In a subnet with German, Norwegian, Finnish/Swedish, and other cultural heritages, the South African presence was singular.
 
-**Nationally known for:** Being South African. Enduring damage without being erased. The bedrock foundation when everything else sat on ice. The Vesleskarvet nunatak vantage.
+**Nationally known for:** Enduring damage without being erased. The bedrock foundation when everything else sat on ice. The Vesleskarvet nunatak vantage.
 
 ---
 

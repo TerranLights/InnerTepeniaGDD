@@ -103,7 +103,7 @@ The city was genuinely multinational from the beginning. The Argentine heritage 
 
 The name was a living fact as much as a label. In a federation founded on expulsion, naming your city "Hope" and building it to care for the humans who gave up everything to be there is a statement. Esperanza made that statement every generation.
 
-**Nationally known for:** The founding compact — the robot-and-human agreement to care for exile's children. The children themselves, generations born into no other home. Being Argentine in heritage but broader in mission. Hope Bay. The name and what it meant.
+**Nationally known for:** The founding compact — the robot-and-human agreement to care for exile's children. The children themselves, generations born into no other home. Hope Bay. The name and what it meant.
 
 ---
 

@@ -113,7 +113,7 @@ Mawson had the character of a city that had been here the longest of anyone in i
 
 The St. Douglas connection was not just nominal. Mawson Station was named after the explorer who made Australian polar history; the exile city inherited that name and that lineage. The Tepenian Saints framework made St. Douglas the patron of the city that bore his name.
 
-**Nationally known for:** Being Australian. The hub city. Being the oldest continuously occupied site in the Mawson subnet. St. Douglas. The Australian Antarctic Territory.
+**Nationally known for:** The hub city. Being the oldest continuously occupied site in the Mawson subnet. St. Douglas. The Australian Antarctic Territory.
 
 ---
 

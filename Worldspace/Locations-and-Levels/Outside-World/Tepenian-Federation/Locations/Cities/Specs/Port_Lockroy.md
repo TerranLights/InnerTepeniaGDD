@@ -95,7 +95,7 @@ The heritage character — museum-city — meant Port Lockroy developed a specif
 
 The harbor's natural shelter made Port Lockroy one of the more hospitable environments for small-craft maritime activity in the Peninsula, which gave it an economic niche in trade and passage.
 
-**Nationally known for:** Being British. Being old — the oldest British site in Tepenia. The harbor. The wartime founding. The heritage character.
+**Nationally known for:** Being old — the oldest British site in Tepenia. The harbor. The wartime founding. The heritage character.
 
 ---
 

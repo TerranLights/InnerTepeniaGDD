@@ -121,7 +121,7 @@ The Amundsen Tower project is Neumayer's most famous contribution to Tepenia. Th
 
 The ice shelf foundation gave Neumayer residents a specific relationship to impermanence. The ground beneath the city was moving. Everyone knew it. The engineering responses to that fact — the elevated construction, the monitoring systems, the periodic adjustments — were part of daily life, not exceptional events. Living at Neumayer meant living with the knowledge that what you stood on was not stable and making peace with that.
 
-**Nationally known for:** Being German. The Alfred Wegener Institute scientific heritage. The engineering of Amundsen Tower — the most famous technical project associated with Neumayer. The ice shelf architecture. The long-term atmospheric and climate data record.
+**Nationally known for:** The Alfred Wegener Institute scientific heritage. The engineering of Amundsen Tower — the most famous technical project associated with Neumayer. The ice shelf architecture. The long-term atmospheric and climate data record.
 
 ---
 

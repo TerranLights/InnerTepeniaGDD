@@ -95,7 +95,9 @@ The Italian cultural inheritance was the city's defining feature. Food culture �
 
 The katabatic winds and the polynya were understood as connected phenomena — the same force that made the bay's water stay open in winter also made outdoor life challenging. The city's architecture reflected this: sheltered courtyards, wind-oriented street layouts, covered connections between buildings that allowed outdoor movement without full wind exposure.
 
-**Nationally known for:** Being Italian. The food culture. The relationship with Janbogo. The polynya. Being the city 8km from the one that survived.
+**Nationally known for:** The food culture. The relationship with Janbogo. The polynya. Being the city 8km from the one that survived.
+
+**Developer vision, established 2026-07-05:** A tangled, organically-grown city — built as its needs arose rather than to any master plan, navigable on sight only to people who actually lived there. Beneath the heating infrastructure, elaborate plantlines and elevated "bridger-footroads" gave residents something resembling equatorial nature to walk among, much of it artificial or genetically engineered for the cold but real in effect. A huge, genre-diverse music scene grew out of its Italian-rooted core, with most entertainment happening among friends and in restaurants with dedicated performance stages rather than at standalone venues. Above all else, people describe it as a place with a *soul* — a description that lands with real weight given it was destroyed at 72.5% human retention, near peak, not in decline. Full detail in `Local_Cultures/Janbogo_Subnet/Zukelli.md`.
 
 ---
 

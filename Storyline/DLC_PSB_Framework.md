@@ -48,6 +48,8 @@ In each DLC, the player encounters a different subnet's version of history. If t
 
 **DLC 1 (South Pole) is the structural key.** The pre-split archive at Amundsen Station is the only place where all six subnets' records can be reconciled. What the player does with that archive — if they access it at all — has the broadest possible consequences. But even DLC 1's central story is not "access the archive" — the archive is a consequence of being there, not the reason the player goes.
 
+**The archive's origin, established 2026-07-05:** this wasn't always Amundsen Station's archive. It began at **Juan Carlos** (Palmer subnet, Livingston Island) — Tepenia's first bureaucratic archive, tied to the Machu Picchu Border & Customs Authority, tracking immigration and customs records for the young Federation (see `World_History_Reference.md` and `Specs/Juan_Carlos.md`). As the nation matured, its contents were relocated and consolidated into what became Amundsen Station's unified archive — meaning the very thing the Planetary Split Brain fractured had roots in a quiet, unassuming Peninsula city most players will never think twice about.
+
 ---
 
 ## The 4-Order Effects Chain

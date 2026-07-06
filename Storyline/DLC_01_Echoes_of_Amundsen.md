@@ -178,6 +178,45 @@ Per the now-confirmed mechanism in `DLC_PSB_Framework.md`, Upper Earth's strike 
 
 This raises the stakes of the archive specifically, rather than treating it as incidental loot found at the end of a hard dungeon. Structurally, this should be the DLC's own distinct challenge layered on top of (not folded into) "get past Kendra's automated defenses" and "survive the environment" — a third, separate obstacle whose entire purpose is protecting exactly the thing the DLC's deepest lore payoff depends on. Whether this is an automated Upper Earth system still running after 10-15 years, a booby-trap/failsafe triggered by archive access attempts, or something else is TBD — the design commitment here is only that the archive should not be trivially accessible once the player gets past Kendra's own perimeter; reaching it should be its own achievement.
 
+## Cross-DLC Bypass Gifts — Master Tracking List (established 2026-07-05)
+
+Per the project's Cross-DLC Bypass Design Law (`Storyline/DLC_Overview.md`, `project_cross_dlc_survival_gifts` memory), every part of the game — the base game and each of the 6 subnet DLCs — contributes exactly one guaranteed, fully optional piece of "help" toward Echoes of Amundsen. Tracked here in one place for this DLC specifically:
+
+| Source | Gift | Status |
+|---|---|---|
+| **Base game** | Ji-Eun Kim's anti-sensor cloaking technology — lets the player approach past Amundsen Station's automated defenses instead of fighting through them | ✅ Confirmed |
+| **DLC 2 (Byrd)** | TBD | ⬜ Not yet designed |
+| **DLC 3 (Palmer/Peninsula)** | TBD — not the Archivist's Trail below, which counts toward DLC 5 instead | ⬜ Not yet designed |
+| **DLC 4 (Mawson)** | The Ice Cold Buddhism thread's extreme-cold survival perk (exact name TBD) — reduces or removes the Coldshock/extreme-cold penalty | ✅ Confirmed, perk name pending |
+| **DLC 5 (Halley)** | "The Archivist's Trail" — the physical decryption codekey that skips the archive's extreme decryption skill check entirely | ✅ Confirmed |
+| **DLC 6 (Janbogo/Ross)** | TBD | ⬜ Not yet designed |
+| **DLC 7 (Mirny)** | TBD | ⬜ Not yet designed |
+
+### The Archivist's Trail — A Cross-DLC Bypass for Decrypting the Archive (established 2026-07-05)
+
+Decrypting the Amundsen Station archive by force is meant to be an extreme skill check — placeholder figures for discussion: 10 Calculation, 10 Nerve, 10 Engine, and 100 Hacking, high enough that almost no build reaches it without deliberate specialization. **A discoverable, fully optional breadcrumb trail — starting in an entirely different DLC — lets the player bypass that check with a physical decryption codekey instead**, following the established Cross-DLC Bypass Design Law (see `DLC_Overview.md` and `project_cross_dlc_survival_gifts` memory) — optional side content only, never delivered by an NPC or main-quest beat.
+
+**The trail:**
+
+1. **Juan Carlos's own original archive (Palmer subnet, DLC 3):** exploring Juan Carlos's badly-destroyed archive — ground floor, or possibly a basement office, personal effects still present (art on the walls, non-functional terminals) — the player finds a personal record: a handwritten note or audio log from the archivist himself, documenting (not personally performing) the fact that Tepenian truckers had just hauled out the last batch of encrypted datadrives, being consolidated into what would become Amundsen Station's unified archive (see `Specs/Juan_Carlos.md` and `project_juan_carlos_archive_origin` memory for the established lore this pays off). He notes the drives were "encrypted pretty well," that a colleague has a codekey, but that he keeps a backup one himself "just by the nightstand" at his wife's family home — and signs off mentioning a friend has a surprise gift waiting for him at a specific bar, back in Esperanza, "where all the other families are."
+
+2. **Esperanza (Palmer subnet, DLC 3):** the player can find the ruins of that bar. A terminal note there references the friend's gift to the archivist (a small, personal detail — charming but not narratively significant on its own) and mentions his home being better for having received it.
+
+3. **The archivist's home (Esperanza):** identifiable by his name on personal effects, plus references to his wife's own things — photos, letters, parcel shipments — that let the player logically deduce she was originally from **Sanay** (Halley subnet, DLC 5) — her hometown, not a childhood home, since she's a robot — including an extremely specific description of her house there, and a physical door key the player can take.
+
+4. **Sanay (Halley subnet, DLC 5):** the player locates the described house. Multiple ways in, consistent with the series' multiple-approaches design law:
+   - **The key**, if carried from Esperanza — opens the door directly, no check.
+   - **Lockpick 50** (placeholder figure) — picks the lock without the key.
+   - **Investigation 7 + Agility 6** (placeholder figures) — the player notices a slightly offset section of the back wall, then jiggles it open, bypassing the front door entirely.
+
+   Inside, in a drawer, the player finds the decryption codekey the archivist's note referenced.
+
+5. **Back at Amundsen Station (DLC 1):** using the codekey decrypts the archive directly — no skill check required at all, regardless of build.
+
+**Cross-DLC geography note, resolved 2026-07-05:** the trail begins and runs mostly through DLC 3 (Juan Carlos, then Esperanza — both Palmer subnet), only crossing into DLC 5 (Sanay, Halley subnet) for the final key location, before paying off in DLC 1. Confirmed by the developer: this counts as **DLC 5 (Halley)'s** guaranteed gift toward Kendra's DLC specifically, since that's where the actual bypass item is physically located — DLC 3 (Palmer)'s own geography here is the discovery-trail setup for DLC 5's gift, not a separate contribution toward its own quota. DLC 3 still needs its own, separate gift designed later.
+
+---
+
 ### Upper Earth's Own Presence at the Site — Flagged, Not Yet Added (2026-07-05)
 
 A related idea was raised and discussed but not yet written in as confirmed design: whether Upper Earth left actual personnel or active military assets at the site (as opposed to just automated denial systems, covered above). The developer's own objection is a real logistical one — by the time the player arrives, any such personnel would have been there 10-15 years, which requires one of: (A) rotating shifts (~6 months each), (B) continuous presence with a nearby resupplied base camp, or (C) longer rotations (~1-2 years) with resupply. Any of these is *possible*, but needs background investigation — how Upper Earth would logistically sustain a South Pole presence for over a decade, what that implies about their broader post-war relationship with/awareness of Tepenia, and why they'd consider this specific site worth that ongoing cost — before it's added as confirmed design. Not contradicted, just deferred. See `TODO.md`.
@@ -191,6 +230,7 @@ A related idea was raised and discussed but not yet written in as confirmed desi
 - [x] Where Kendra is — **confirmed: inside the actual Amundsen-Scott South Pole Station, locked from inside, 10–15 years stranded**
 - [x] Minimum ways into the building — **confirmed: 11 methods across environmental, brought, perk, and trait categories**
 - [ ] Specific enemy types and their designs — two new hazard/threat directions established 2026-07-05 (residual electromagnetic wreckage hazards, a dedicated archive-guardian system), a third (Upper Earth's own on-site personnel/assets) flagged but deferred pending logistics investigation — see above
+- [x] Archive decryption bypass — **confirmed 2026-07-05: "The Archivist's Trail," a cross-DLC breadcrumb chain (Juan Carlos → Esperanza → Sanay) yielding a physical codekey that skips the extreme decryption skill check entirely — see above**
 - [ ] Exact carry weight restriction number for DLC entry
 - [ ] Five minimum approaches to the central challenge — only Ji-Eun cloaking confirmed; 4+ TBD
 - [ ] Main storyline structure and beats

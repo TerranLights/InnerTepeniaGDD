@@ -132,7 +132,7 @@ The aviation infrastructure gave Rothera a connectivity that most Peninsula citi
 
 The British cultural inheritance — distinct from the Norwegian-inflected Halley, the French Dumont d'Urville, the Japanese Dome Fuji — gave Rothera its social texture: practical, industrious, unglamorous relative to Palmer City's spectacle or Marambio's aviation prestige, and quietly proud of being the place that made everyone else's infrastructure possible.
 
-**Nationally known for:** Being where things get made. The runway. The mild maritime climate. Being British. Adelaide Island's dramatic mountain backdrop. The Lemaire Channel approach from the north.
+**Nationally known for:** Being where things get made. The runway. The mild maritime climate. Adelaide Island's dramatic mountain backdrop. The Lemaire Channel approach from the north.
 
 ---
 

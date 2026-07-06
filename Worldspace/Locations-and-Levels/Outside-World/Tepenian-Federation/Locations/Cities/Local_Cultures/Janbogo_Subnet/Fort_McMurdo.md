@@ -134,6 +134,7 @@ Work-rhythm music dominates — practical, repetitive, built for shift changes a
 - **Smell:** Sulfur on certain wind directions, machine oil, fuel.
 - **Feel:** Volcanic grit underfoot everywhere, cold that the wind makes worse than the thermometer suggests.
 - **First impressions for visitors:** Scale. Nothing prepares a visitor for how big Fort McMurdo actually is, or for how completely Erebus dominates the skyline the moment you can see it.
+- **Presence, established 2026-07-05:** Beyond physical scale, visitors register something less tangible but just as unmistakable — this is a city that *matters*. Not massive by population, not even the most architecturally imposing city in Tepenia, but a place where you can feel that real business is happening, real decisions are being made, and that what happens here doesn't stay here — it moves outward and changes things in other cities. It's a gravity you sense before anyone explains it to you.
 
 ---
 
@@ -191,6 +192,8 @@ With five genuinely significant minority nations (Japan, Germany, France, UK, It
 
 Quiet and pragmatic. Fort McMurdo has real leverage within the Federation — it built a significant share of Concordia's own infrastructure — but rarely exercises it as political capital. The culture that produced the city isn't oriented toward political organizing; it's oriented toward finishing the shift. When Fort McMurdo does weigh in on Federation matters, it tends to be blunt, practical, and brief.
 
+**The distinction, established 2026-07-05:** Fort McMurdo's power is operational gravity, not political theater — it doesn't perform importance, because it doesn't need to. Supply allocations decided here, extraction schedules set here, equipment routed from here — these ripple out and genuinely change what other cities can and can't do, quietly and constantly, whether or not Fort McMurdo ever raises its voice in a Federation debate. This is a city that is indispensable and knows it, and finds that fact more useful than any amount of political posturing would be.
+
 ---
 
 ## 22. Relationship to Upper Earth
@@ -210,6 +213,8 @@ Pragmatic rather than emotional. Where cities like Belgrano carry grief and Zhon
 ## 24. Arcanet Culture
 
 Overwhelmingly practical — shift logs, equipment status reports, safety documentation, extraction-crew coordination. Social and gossip use of the Arcanet is comparatively thin here; the network is a tool for keeping the work running, not a space for cultural or personal expression.
+
+**Dedicated comms stations, established 2026-07-05:** distinct from Janbogo's physical Arcanet relay-nexus role for the subnet (the "wires"), Fort McMurdo hosts genuine operational coordination infrastructure of its own — staffed comms stations dedicated to supply-chain dispatch, extraction scheduling, and inter-city logistics coordination (the "brain" using those wires to actually make things happen). This is the physical, staffed reality behind the city's "de facto capital" status: real people and robots, at real stations, making real-time calls that affect what other cities receive and when.
 
 ---
 

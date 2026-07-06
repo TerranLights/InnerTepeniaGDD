@@ -133,6 +133,8 @@ Mount Erebus shaped the culture in ways that are hard to quantify but easy to un
 
 **Nationally known for:** Being the biggest built thing in Tepenia without being the most populous. The industrial output that supplied materials to construction projects across Tepenia. Mount Erebus. The particular directness of its people.
 
+**Developer vision, established 2026-07-05:** Fort McMurdo's real mass isn't population or even architecture — it's *presence*. Not the biggest or most populous city, but the one where a visitor immediately senses that real business is happening and real decisions are being made — decisions that ripple outward and change what other cities can and can't do. Dedicated comms stations coordinate supply, extraction scheduling, and inter-city logistics — the staffed, physical reality behind its "de facto capital" status. This gravity is operational, not political: Fort McMurdo doesn't perform importance or posture in Federation debates; it simply is indispensable, quietly and constantly. Full detail in `Local_Cultures/Janbogo_Subnet/Fort_McMurdo.md`.
+
 ---
 
 ## Economy & Industry

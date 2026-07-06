@@ -120,7 +120,7 @@ The biological richness of the South Orkney Islands gave Signy a relationship wi
 
 The Arcanet connection to the Palmer subnet was real but weak — the signal had to cross hundreds of kilometers of open ocean. Information moved slowly and unreliably. Signy was always slightly behind the rest of the Palmer subnet in news and culture, always slightly more self-referential, because what arrived from outside arrived late.
 
-**Nationally known for:** Being British. The isolation. The biology — the seals and penguins and the Scotia Sea's richness. Being at the edge of the Palmer subnet's reach. St. Ernest (Shackleton) territory.
+**Nationally known for:** The isolation. The biology — the seals and penguins and the Scotia Sea's richness. Being at the edge of the Palmer subnet's reach. St. Ernest (Shackleton) territory.
 
 ---
 

@@ -74,7 +74,7 @@ Scott's civic identity rests on a single, thoroughly internalized fact: this cit
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people who want competence and intimacy over scale — long-term residents, precision-minded technical workers, anyone drawn to genuine reverence for the Antarctic exploration history Scott embodies more directly than anywhere else in Tepenia.
+- **The type this city draws:** people who want competence and intimacy over scale — long-term residents, precision-minded technical workers, anyone drawn to genuine reverence for the Antarctic exploration history Scott embodies more directly than anywhere else in Tepenia, and — per the developer's 2026-07-05 vision — families specifically, drawn by a quiet, residential, unhurried environment that Fort McMurdo's industrial scale simply cannot offer.
 - **The type this city repels:** anyone chasing Fort McMurdo's scale of opportunity or anonymity — Scott offers neither.
 
 ---
@@ -91,6 +91,8 @@ Scott's civic identity rests on a single, thoroughly internalized fact: this cit
 ## 9. Architecture
 
 Compact and carefully considered, deliberately modest by comparison to Fort McMurdo's sprawl — a New Zealand design sensibility that valued a well-organized dozen structures over an ever-expanding industrial footprint. Hut Point itself, preserved rather than built around, anchors the city's whole relationship to its own history.
+
+**Developer vision, established 2026-07-05 — a residential city, mostly:** in raw physical footprint, Scott is overwhelmingly residential — housing dominates the built environment, with the rest given over mainly to casual, leisurely business (restaurants, general leisure) and a modest handful of public gathering buildings. Walking through it, not much is visibly *happening* — no industrial hum, no constant traffic of decisions and dispatch the way Fort McMurdo has. This is not a contradiction of Scott's technical/research economic base (see Division of Industry below) so much as a distinction between where the work happens and what the city actually feels like to live in: the research and precision work is real, but it's contained, and the visible, lived texture of Scott is a genuinely decent, quiet place to raise a family.
 
 ---
 

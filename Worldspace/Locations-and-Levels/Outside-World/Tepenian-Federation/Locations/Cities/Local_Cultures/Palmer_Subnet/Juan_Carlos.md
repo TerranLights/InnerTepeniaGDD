@@ -184,7 +184,9 @@ The Significant-tier nations (Germany, France, UK, Italy) and the Notable-tier M
 
 ## 21. Political Character
 
-Modest and inward-facing, consistent with the city's comparatively quiet, uncontested character — Juan Carlos never developed Sejong's complex inter-community diplomatic apparatus, nor Palmer City's cultural-capital ambition.
+Modest and inward-facing at the level of ordinary civic life, consistent with the city's comparatively quiet, uncontested character — Juan Carlos never developed Sejong's complex inter-community diplomatic apparatus, nor Palmer City's cultural-capital ambition.
+
+**Developer vision, established 2026-07-05 — a quiet city with an outsized, largely invisible national responsibility.** This civic modesty sits alongside, not against, Juan Carlos's founding-era role as Tepenia's first bureaucratic archive: the original home of the Federation's immigration and customs records, directly linked to the Machu Picchu Border & Customs Authority (Tepenian National Customs, processing arrivals via the Ushuaia gateway). Non-immigrant visitors were routed through a designated corridor to a designated sealiner bound for Palmer City, kept physically separate from the immigration-processing function centered here. This function was eventually superseded as the archive's contents relocated to what became Amundsen Station's own unified pre-Split-Brain archive (see `Storyline/DLC_PSB_Framework.md`) — meaning a city that never sought or performed political importance was, for a real stretch of Tepenian history, quietly central to the whole nation's administrative memory.
 
 ---
 
@@ -203,7 +205,9 @@ Filtered through Spain's own political history — specifically the transition f
 
 ## 24. Arcanet Culture
 
-Modest, consistent with the city's comparatively quiet character — Arcanet use here likely centered on ordinary subnet coordination rather than Sejong's genuinely complex multinational information flows.
+Modest in ordinary civic use, consistent with the city's comparatively quiet character — day-to-day Arcanet traffic here centered on ordinary subnet coordination rather than Sejong's genuinely complex multinational information flows.
+
+**Founding-era exception, established 2026-07-05:** the archive function itself (see Political Character above) would have carried genuinely significant, tightly-controlled Arcanet traffic — the direct link to the Machu Picchu Border & Customs Authority, immigration/visa records, and eventually the bulk data transfer as records were copied and relocated toward what became Amundsen Station's archive. This heavier, more sensitive traffic sat alongside, not blended into, the city's otherwise modest day-to-day network use.
 
 ---
 

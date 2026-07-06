@@ -103,7 +103,7 @@ Sejong's character was shaped by proximity to everyone else. No other Tepenian c
 
 The mild climate made King George Island the most physically comfortable location in the Palmer subnet, which paradoxically made it more competitive: multiple communities vying for the same favorable ground. The social dynamics of King George Island, with its dense concentration of distinct national communities, would have produced a unique kind of inter-community politics with no equivalent elsewhere in Tepenia.
 
-**Nationally known for:** Being Korean. King George Island's multinational character. The mildest Palmer subnet climate. The Janbogo connection — the two Korean cities of Tepenia separated by a continent.
+**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate. The Janbogo connection — the two Korean cities of Tepenia separated by a continent.
 
 ---
 

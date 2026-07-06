@@ -82,7 +82,11 @@ Juan Carlos developed differently from Sejong precisely because it didn't have a
 
 The city's survival of the Long Night War (damaged but not destroyed) gave Juan Carlos a specific post-war character: the responsibility of being one of the only inhabited places in the Palmer subnet. That weight, and what the city has made of it, is the central question of its current identity.
 
-**Nationally known for:** Being Spanish. Livingston Island's relative calm. Being a survivor in a subnet of ruins.
+**Nationally known for:** Livingston Island's relative calm. Being a survivor in a subnet of ruins.
+
+**Developer vision, established 2026-07-05 — Tepenia's first bureaucratic archive.** Juan Carlos was where the young Federation kept its first real records: who entered, who left, who applied for Palmer City visas, who applied for permanent immigration, everyone who passed through or interacted with the exile administration — including a specific watch on anyone who had held a position in their home country's Upper Earth government. This function connected directly to the **Machu Picchu Border & Customs Authority** — a fully Tepenian institution, effectively Tepenian National Customs, controlling entry for arrivals coming through the Ushuaia airport gateway (already established as the Palmer subnet/Peninsula corridor's real-world point of departure — see `Upper_Earth_Immigration_Composition.md`). Non-immigrants (visitors not seeking permanent status) were specifically routed through a designated corridor to a designated sealiner bound for Palmer City, keeping temporary-visitor traffic physically separate from the immigration-processing function centered at Juan Carlos.
+
+As the Federation grew more capable over the Second Interwar Period, Juan Carlos's archive was gradually superseded: records were copied onto physical drives and hauled further and deeper into Antarctica for safekeeping and consolidation into something bigger and better. **That "bigger, better" archive is Amundsen Station's own pre-Split-Brain unified archive** (see `Storyline/DLC_PSB_Framework.md`) — meaning Juan Carlos is the direct historical origin point of the same archive that DLC 1 (Echoes of Amundsen) centers on, tying this quiet, historically under-examined Palmer subnet city into the game's deepest lore stakes. This appears to be a founding-era institutional succession (a young administration outgrowing its first home as the nation matured), not a wartime evacuation — it doesn't, by itself, resolve whether Juan Carlos survived the Long Night War (see Status above, still an open 3-vs-2 conflict).
 
 ---
 
@@ -94,6 +98,7 @@ Maritime, fishing, whatever Livingston Island's coastal resources offered. Full 
 ## Notable Locations
 - **The survivor infrastructure** — whatever remains operational in Juan Carlos after the Long Night War; the contrast between functioning and damaged sections is a key environmental feature
 - **Livingston Island harbor** — the primary maritime entry
+- **The original archive site** — established 2026-07-05; the first bureaucratic home of Tepenia's immigration/customs records, before the archive's contents were relocated to what became Amundsen Station's unified pre-Split-Brain archive; whatever remains of the physical archive site (empty vaults, retired records infrastructure, or something else) is TBD, and its condition depends on Juan Carlos's still-unresolved war status
 - Additional locations: TBD for DLC 3
 
 ---
@@ -111,11 +116,15 @@ Palmer subnet. Juan Carlos's survival makes it potentially the most relevant Pal
 ## Legacy
 Juan Carlos is the city that survived when most of its subnet didn't. Whether that's luck, geography, or something the city did, is the question its residents are still answering.
 
+**Also established 2026-07-05:** regardless of how Juan Carlos's own war-era status resolves, its deeper legacy is that it was where the nation's bureaucratic memory began — the first place Tepenia systematically recorded who its own people were, who was coming and going, and who among them had once served an Upper Earth government. That record-keeping function outgrew Juan Carlos and became, eventually, the very archive at the heart of Amundsen Station and the Planetary Split Brain. A quiet island city with an outsized, largely invisible historical responsibility.
+
 ---
 
 ## Open Questions
 - **Extent of damage** — what specifically was damaged and what survived? The most important design question for DLC 3 engagement with Juan Carlos
 - **Current population** — who is still here, and how have they been living in a subnet of ruins?
 - **Arcanet link survival** — can Juan Carlos communicate with other Palmer subnet cities or with Concordia?
+- **Machu Picchu Border & Customs Authority's exact geography** — established 2026-07-05 as the processing authority for arrivals via the Ushuaia airport gateway, but Machu Picchu itself sits roughly 3,000km+ from Ushuaia; whether this represents a genuinely remote administrative/processing headquarters (paperwork and vetting handled far from the actual point of physical departure, similar to how some real-world consulates operate) or something else is TBD
+- **Timing of the archive's relocation to Amundsen Station** — when during the Second Interwar Period did this bureaucratic succession happen, and did Juan Carlos retain any secondary/backup archival role afterward?
 - **Demonym** — TBD
 - **Notable figures** — TBD
