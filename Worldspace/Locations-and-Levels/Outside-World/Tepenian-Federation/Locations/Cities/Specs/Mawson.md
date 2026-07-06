@@ -3,7 +3,7 @@
 **Based on:** Mawson Station (Australia / Australian Antarctic Division), Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Mawson (hub city)
-**Highway access:** **Corrected 2026-07-06** — Mawson is on **Hwy 4 (the Mawson-Soyuz Highway)**, between Sayowa and Soyuz: Sayowa → Mawson → Soyuz → (ex-Bharati Japanese city). See `Locations/Infrastructure/Highways.md`.
+**Highway access:** **Corrected 2026-07-06** — Mawson is on **Hwy 4 (the Mawson-Soyuz Highway)**, between the Sayowa Junction and Soyuz: the Sayowa Junction → Mawson → Soyuz → (ex-Bharati Japanese city). *(Further corrected 2026-07-06, same day: the western terminus is the Sayowa Junction, near but not inside Sayowa itself — see `Specs/Sayowa.md`.)* See `Locations/Infrastructure/Highways.md`.
 **Significance:** Arcanet hub for the Mawson subnet; Australia's oldest continuously operating Antarctic station (since 1954); named after Sir Douglas Mawson — St. Douglas in the Tepenian Saints framework, the greatest Australian polar explorer; Mac.Robertson Land was named after Macpherson Robertson, the Australian confectioner who funded the 1929-31 BANZARE expedition; the Australian Antarctic Division's primary operational base; gateway to the western Mawson subnet
 **DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational as subnet hub
 
@@ -118,7 +118,7 @@ The St. Douglas connection was not just nominal. Mawson Station was named after 
 ---
 
 ## Economy & Industry
-Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientific research, coordination of the Mawson subnet's internal economy. Full detail TBD for DLC 4.
+Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientific research, coordination of the Mawson subnet's internal economy. **Vision session, 2026-07-06:** hospitality and honeymoon tourism are also genuine economic sectors — Mawson is Tepenia's go-to honeymoon destination for newly-married human-robot couples, giving the city a resort-town character relative to the rest of Antarctica. Full detail TBD for DLC 4.
 
 ---
 
@@ -126,6 +126,7 @@ Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientifi
 - **Holme Bay harbor** — the primary maritime entry; Mac.Robertson Land coast
 - **The subnet hub Arcanet installation** — the Mawson subnet's primary communications node; in damaged state, what survives of this infrastructure is a key DLC 4 question
 - **Prince Charles Mountains approach** — the mountains to the south of the Mac.Robertson Land coast; visible from Mawson
+- **Public libraries — vision session, 2026-07-06:** a genuine civic institution, consistent with the city's culture and hospitality-forward character
 - Additional locations: TBD for DLC 4
 
 ---

@@ -14,18 +14,18 @@ Every highway's two endpoints, for fast lookup. "Endpoint" means the physical en
 |---|---|---|
 | **1** | Esperanza | Byrd *(connects directly to Hwy 22's endpoint)* |
 | **2** | Junction with Hwy 110 | Dumont d'Urville *(connects directly to Hwy 183's endpoint)* |
-| **4** | Sayowa *(connects directly to Hwy 7-ext's endpoint)* | Ex-Bharati Japanese city *(tri-junction with Hwy 110 and Hwy 22 endpoints)* |
+| **4** | The Sayowa Junction *(connects directly to Hwy 7-ext's endpoint; near, not in, Sayowa)* | Ex-Bharati Japanese city *(tri-junction with Hwy 110 and Hwy 22 endpoints)* |
 | **7** | Belgrano | Lazar |
-| **7-ext** | Lazar | Sayowa *(connects directly to Hwy 4's endpoint)* |
+| **7-ext** | Lazar | The Sayowa Junction *(connects directly to Hwy 4's endpoint; near, not in, Sayowa)* |
 | **22** | Byrd *(connects directly to Hwy 1's endpoint)* | Zhongshan/Soyuz/ex-Bharati tri-junction *(with Hwy 4 and Hwy 110 endpoints)* |
-| **37** | Junction with Hwy 7-ext, just before Sayowa | Concordia *(tri-junction with Hwy 110 and Hwy 183 endpoints, via the outer ring)* |
+| **37** | The Sayowa Junction *(same three-way convergence point as Hwy 4 and Hwy 7-ext)* | Concordia *(tri-junction with Hwy 110 and Hwy 183 endpoints, via the outer ring)* |
 | **59** | Ramp with Hwy 7, between Halley and Abowasa | Ramp with Hwy 22, farther from South Pole than Hwy 175's ramp |
 | **110** | Zhongshan *(tri-junction with Hwy 4 and Hwy 22 endpoints)* | Concordia *(tri-junction with Hwy 37 and Hwy 183 endpoints, via the outer ring)* |
 | **175** | Ramp with Hwy 183, near Janbogo | Ramp with Hwy 22, closer to South Pole than Hwy 59's ramp |
 | **183** | Concordia *(tri-junction with Hwy 110 and Hwy 37 endpoints, via the outer ring)* | Dumont d'Urville *(connects directly to Hwy 2's endpoint)* |
 | **Neumayer connector** | Point on Hwy 7, between Abowasa and Sanay | Neumayer |
 
-Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongshan/Soyuz/ex-Bharati tri-junction. Three others — 37, 110, and 183 — share one physical endpoint at Concordia. Every other highway's two endpoints are unique to that highway.
+Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongshan/Soyuz/ex-Bharati tri-junction. Three others — 37, 110, and 183 — share one physical endpoint at Concordia. **Corrected 2026-07-06:** a fourth shared point exists too — Hwy 4, Hwy 7-ext, and Hwy 37 all converge at **the Sayowa Junction**, a genuine three-way highway crossing located *near* Sayowa rather than physically inside the city itself. A large dedicated connecting road (the Sayowa Spur) links the city proper to this junction. Every other highway's two endpoints are unique to that highway.
 
 ---
 
@@ -60,11 +60,11 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 4 — Mawson-Soyuz Highway
 
-**Route:** Sayowa → Mawson → Soyuz → *(ex-Bharati Japanese city, name TBD)*
+**Route:** The Sayowa Junction → Mawson → Soyuz → *(ex-Bharati Japanese city, name TBD)*
 
-**Endpoints:** Sayowa (west) ↔ Ex-Bharati Japanese city (east)
+**Endpoints:** The Sayowa Junction (west) ↔ Ex-Bharati Japanese city (east)
 
-- Sayowa end **connects directly to Hwy 7-ext's endpoint** there.
+- **Corrected 2026-07-06:** the western terminus is **the Sayowa Junction**, a three-way highway crossing (with Hwy 7-ext and Hwy 37) located near Sayowa rather than inside the city itself. A large dedicated connecting road (the Sayowa Spur) links Sayowa proper to this junction.
 - Far end sits at a **tri-junction** connecting directly to both Hwy 110's and Hwy 22's endpoints.
 - Hitchhiking-valid.
 
@@ -84,12 +84,11 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 7-ext — Belgrano Highway Extension
 
-**Route:** Lazar → Princess Elisabeth → *(junction with Hwy 37, shortly before Sayowa)* → Sayowa
+**Route:** Lazar → Princess Elisabeth → The Sayowa Junction
 
-**Endpoints:** Lazar (west) ↔ Sayowa (east)
+**Endpoints:** Lazar (west) ↔ The Sayowa Junction (east)
 
-- Junctions with **Hwy 37** shortly before reaching Sayowa.
-- Sayowa terminus **connects directly to Hwy 4's endpoint** there.
+- **Corrected 2026-07-06:** the eastern terminus is **the Sayowa Junction** itself, not Sayowa the city — this is where Hwy 7-ext, Hwy 4, and Hwy 37 all genuinely converge, a three-way crossing located near Sayowa rather than in it. The Sayowa Spur (a large connecting road) links the city proper to this junction.
 - Built **2611–2614** — the only highway with confirmed in-world construction dates.
 - Extends Hwy 7 eastward from its terminus at Lazar.
 
@@ -112,15 +111,17 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 37 — Mountain Cut Throughway
 
-**Route:** *(junction with Hwy 7-ext, shortly before Sayowa)* → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → Vostok → Concordia
+**Route:** The Sayowa Junction → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → **Mountain Pass Airport** → Vostok → Concordia
 
-**Endpoints:** Junction with Hwy 7-ext, just before Sayowa (northeast) ↔ Concordia (southwest)
+**Endpoints:** The Sayowa Junction (northeast) ↔ Concordia (southwest)
 
+- **Corrected 2026-07-06:** the northeastern terminus is **the Sayowa Junction**, the same three-way crossing point where Hwy 4 and Hwy 7-ext also converge — located near Sayowa, not physically in the city. The Sayowa Spur connects the city itself to this junction.
 - **Dome Fuji is a confirmed stop** on this highway *(Dome Fuji's own file previously said "no highway access" — that claim is stale and needs a corresponding fix)*.
 - Kunlun comes before Vostok along this route (order reversed from an earlier, incorrect listing).
+- **Added 2026-07-06 — Mountain Pass Airport:** a waypoint between Kunlun and Vostok, not a city of its own. Confirmed via the developer's own "Tepenian Airport Map" reference image as one of Tepenia's genuine functional airstrips. Positioned to be reasonably accessible to Kunlun, Dome Fuji, Amundsen Station (via the nearby Hwy 22 dual-junction), and Concordia to an extent — a shared regional airfield for the whole Hwy 37 interior corridor. See `Reference/Real-World/Stations/Antarctic_Stations_With_Airstrips.md` for the real-world airstrip research this cross-references against.
 - Concordia end **connects directly to both Hwy 110's and Hwy 183's endpoints**, via the outer ring linking Concordia's Capricorn and Sagittarius districts.
 - East Antarctic **plateau** traverse — not through the Transantarctic Mountains.
-- Connects the Indian Ocean coast (via Sayowa) to the inland stations and Concordia.
+- Connects the Indian Ocean coast (via the Sayowa Junction) to the inland stations and Concordia.
 
 ---
 
@@ -189,12 +190,22 @@ Small connector road; exact organization TBD.
 
 ---
 
+## The Sayowa Spur *(added 2026-07-06)*
+
+**Route:** The Sayowa Junction → Sayowa
+
+**Endpoints:** The Sayowa Junction ↔ Sayowa
+
+A large, dedicated connecting road — not a minor ramp like the Neumayer connector — linking Sayowa proper to the Sayowa Junction, the genuine three-way convergence point of Hwy 4, Hwy 7-ext, and Hwy 37. Added once Sayowa's own City Vision Notes session established the city as a real, physically developed industrial/residential city in its own right, rather than a place where the highway junction sits directly downtown. Given the scale of traffic feeding Sayowa's fabrication and trucking/dispatch industries (see `Local_Cultures/Mawson_Subnet/Sayowa.md`), this spur is itself a substantial piece of infrastructure, not an afterthought connector.
+
+---
+
 ## Major Junctions Index
 
 | Location | Highways meeting | Notes |
 |---|---|---|
 | Byrd | Hwy 1, Hwy 22 | Both highways' endpoints meet directly |
-| Sayowa | Hwy 4, Hwy 7-ext | Both highways' endpoints meet directly; also a Hwy 37 junction just before Sayowa on the Hwy 7-ext side |
+| The Sayowa Junction | Hwy 4, Hwy 7-ext, Hwy 37 | **Corrected 2026-07-06:** genuine three-way crossing, located near Sayowa rather than in it; the Sayowa Spur (a large connecting road) links the city itself to this junction |
 | Zhongshan / Soyuz / ex-Bharati | Hwy 4, Hwy 22, Hwy 110 | Tri-junction — all three endpoints converge here |
 | Concordia | Hwy 37, Hwy 110, Hwy 183 | Tri-junction via the outer ring linking Concordia's Capricorn and Sagittarius districts |
 | Dumont d'Urville | Hwy 2, Hwy 183 | Both highways' endpoints meet directly |

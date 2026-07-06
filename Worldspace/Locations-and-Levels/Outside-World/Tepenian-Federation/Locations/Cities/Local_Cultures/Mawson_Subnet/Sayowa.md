@@ -23,7 +23,7 @@
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Soyuz's). Sayowa is the primary Japanese Tepenian presence, concentrated here rather than spread across the subnet.*
+*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Soyuz's). **Corrected 2026-07-06:** Sayowa is no longer the primary Japanese Tepenian presence — that's Bharati now (36.27% Japan-Primary, following its own population re-derivation the same session), the direct result of its diplomatically-protected Jeju-do allocation. Sayowa's own Japan share is genuinely diluted, down to just 2.71% — plausibly the very outcome Japan's diplomats anticipated and tried to hedge against by securing Bharati as a protected backstop in the first place. See `Specs/Sayowa.md` and `Specs/Bharati_TBD.md` for the full cross-reference.*
 
 ---
 
@@ -81,7 +81,7 @@ Sayowa's civic identity rests on a genuine duality: a small, deeply Japanese com
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern), with genuine, concentrated Japanese presence — Sayowa is the primary Japanese Tepenian city, giving that heritage real weight despite Significant rather than Primary tier.
+- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern). **Corrected 2026-07-06:** Japanese presence here is genuine but no longer "concentrated" in the way this file used to claim — Bharati is the actual primary Japanese Tepenian city now; Sayowa's Japanese heritage carries institutional weight (JARE) rather than demographic weight.
 - **b. Linguistic character** — Practical and junction-oriented, shaped by constant transit traffic between the Mawson subnet, Concordia, and the Halley subnet.
 - **c. Slang / dialect markers** — Terminology tied to the Shōwa-era name's specific historical weight, alongside junction/highway-coordination vocabulary unique to Sayowa's structural role.
 - **d. Language and integration** — Moderate pressure, given the city's genuine function as a crossing point requiring some fluency across multiple travelers' contexts.
@@ -92,11 +92,13 @@ Sayowa's civic identity rests on a genuine duality: a small, deeply Japanese com
 
 Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely constrained island footprint — small in scale but with real, visible junction infrastructure (the Hwy 37/Hwy 7-ext convergence) as a defining, disproportionately significant built feature.
 
+**Vision session, 2026-07-06:** the city reads as split roughly into two physical halves — genuinely industrialized fabrication and trucking/dispatch infrastructure on one side, genuinely residential neighborhoods on the other, rather than the two being blended throughout. Leisure infrastructure exists but is visibly secondary, tucked into the residential half rather than given its own prominent civic space the way the industrial half's yards and depots command the skyline.
+
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Genuinely, concentratedly Japanese, given Sayowa's status as the primary Japanese Tepenian presence, with real Chinese demographic influence layered in.
+- **a. Human cuisine** — **Corrected 2026-07-06:** a genuine Japanese thread persists institutionally (JARE heritage), but demographically the food culture is China-Primary now, not concentratedly Japanese as this file previously claimed — Bharati carries that distinction instead.
 - **b. Social context of eating** — Practical, shaped by both the JARE scientific tradition's methodical character and the city's genuine transit-point function.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to one of the Mawson subnet's smallest populations.
 
@@ -104,13 +106,13 @@ Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely 
 
 ## 11. Fashion
 
-Practical, JARE-inflected cold-weather wear with genuine Japanese aesthetic sensibility — distinct from Mawson's own broader East-Asian-facing blend given Sayowa's more concentrated Japanese demographic character.
+Practical, JARE-inflected cold-weather wear with a genuine Japanese aesthetic thread, though **corrected 2026-07-06:** not because of a concentrated Japanese demographic majority (that's Bharati's distinction) — Sayowa's fashion sensibility runs on institutional/aesthetic inheritance rather than population share.
 
 ---
 
 ## 12. Music
 
-Modest but genuinely Japanese in character, given the city's status as Tepenia's primary Japanese cultural presence — a specific, concentrated musical inheritance distinct from Mawson's own broader multinational blend.
+Modest, with a genuinely Japanese institutional thread — **corrected 2026-07-06:** no longer framed as Tepenia's primary Japanese cultural presence (that's Bharati now), but a real, specific inheritance distinct from Mawson's own broader multinational blend all the same.
 
 ---
 
@@ -137,11 +139,14 @@ Modest but genuinely Japanese in character, given the city's status as Tepenia's
 
 ## 15. Division of Industry
 
-- Highway / junction logistics: 35% — the city's clearly dominant, disproportionately significant sector
-- Scientific research: 25% — inherited JARE tradition
-- Maritime trade: 20% — Lützow-Holm Bay access
-- Commercial / trade: 10%
-- Other: 10%
+**Revised 2026-07-06 (vision session)** — fabrication and trucking/dispatch are Sayowa's real dominant sectors, not junction logistics alone:
+
+- **Industrial fabrication: 30%** — things genuinely get *made* here, not just routed through
+- **Trucking & dispatch: 25%** — a huge logistics operation befitting the highway junction the city sits on; distinct from fabrication, this is the routing/coordination side specifically
+- Scientific research: 20% — inherited JARE tradition
+- Maritime trade: 15% — Lützow-Holm Bay access
+- Leisure / commercial: 5% — a genuine but distinctly secondary sector, well behind the industrial core
+- Other: 5%
 
 ---
 
@@ -172,7 +177,7 @@ Minimal — a small city with genuine continental-scale infrastructure responsib
 
 ## 20. Private Life & Minority Communities
 
-The broad Significant tier (Japan, Germany, France, UK, South Korea, Indonesia, Australia) and the extensive 17-nation Notable list maintain identity through private, personal practice — Sayowa's public civic face is organized around its junction responsibility and JARE heritage rather than any single demographic group beyond its concentrated Japanese presence.
+The broad Significant tier (China Primary; Japan, Germany, France, UK, South Korea, Indonesia, Australia Significant) and the extensive Notable list maintain identity through private, personal practice — Sayowa's public civic face is organized around its junction responsibility and JARE heritage rather than any single demographic group. **Corrected 2026-07-06:** no longer framed around a "concentrated Japanese presence" — Japan is genuinely diluted here (2.71%), same as every other nation outside China's Primary share.
 
 ---
 
@@ -188,7 +193,7 @@ Disproportionately significant given its small population — Sayowa's genuine s
 
 ## 22. Relationship to Upper Earth
 
-Filtered through JARE's own decades-long institutional research history, layered against the same China-Primary demographic current that reshaped the whole subnet — the primary Japanese Tepenian relationship to Upper Earth, concentrated here more than anywhere else in the Federation.
+Filtered through JARE's own decades-long institutional research history, layered against the same China-Primary demographic current that reshaped the whole subnet. **Corrected 2026-07-06:** no longer "the primary Japanese Tepenian relationship to Upper Earth" — that distinction belongs to Bharati now.
 
 ---
 
@@ -209,7 +214,7 @@ Genuinely significant given the city's physical junction role — Sayowa likely 
 ## 25. Export Culture
 
 - Junction-logistics and highway-maintenance expertise — Sayowa-trained specialists in keeping critical, high-stakes infrastructure functional
-- The primary Japanese cultural presence in Tepenia — cuisine, the Shōwa-era name's historical weight, JARE's methodical research tradition
+- **Corrected 2026-07-06:** JARE's methodical research tradition and the Shōwa-era name's historical weight — a genuine Japanese institutional export, though no longer "the primary Japanese cultural presence in Tepenia" (that's Bharati's export now)
 - A specific *type of person* — comfortable holding disproportionate structural responsibility in a small community, recognizable by an ease with that gap between scale and significance
 
 ---
@@ -263,4 +268,4 @@ Becoming a local at Sayowa means genuinely internalizing the city's disproportio
 
 ## 32. Diaspora Character in Concordia
 
-As the primary Japanese Tepenian presence, Sayowa refugees in Concordia would carry the most concentrated Japanese cultural identity of any Tepenian diaspora community — the Shōwa-era name's specific historical weight, JARE's methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city.
+**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Bharati refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine institutional Japanese identity — the Shōwa-era name's specific historical weight, JARE's methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated one.

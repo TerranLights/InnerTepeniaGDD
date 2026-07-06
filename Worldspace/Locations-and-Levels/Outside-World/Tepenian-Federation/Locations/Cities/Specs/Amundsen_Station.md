@@ -129,6 +129,8 @@ The station's political neutrality was its most significant cultural feature. In
 
 Not applicable in the conventional sense. Amundsen Station was a strategic infrastructure installation, not an economic city. Its "industry" was the Arcanet relay and whatever support operations the Amundsen Tower required. All supplies came in from elsewhere; nothing was produced for export.
 
+**Vision session, 2026-07-06:** naturally, given its role, the station's day-to-day character was one of scientific, technical, and mechanical maintenance — the ongoing work of keeping the Arcanet relay and the Amundsen Tower itself operational, rather than any output-producing economy. This is consistent with the facility's already-established "not a city" identity above — the work here was upkeep and vigilance, not production.
+
 ---
 
 ## Notable Locations

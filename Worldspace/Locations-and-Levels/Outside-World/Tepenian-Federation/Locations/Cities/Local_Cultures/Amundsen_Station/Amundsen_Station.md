@@ -149,6 +149,8 @@ No meaningful local tradition would be expected — whatever music existed here 
 
 *(Note: "Division of Industry" as a category assumes a civic economy; Amundsen Station had no economy in the conventional sense — it produced no exports, and every supply came in from elsewhere, per `Specs/Amundsen_Station.md`.)*
 
+**Vision session, 2026-07-06, confirms this framing directly:** the station's character was one of scientific, technical, and mechanical maintenance — matching the breakdown above almost exactly, just naming the character in plainer terms than "infrastructure maintenance" alone.
+
 ---
 
 ## 16. Human-Robot Relations

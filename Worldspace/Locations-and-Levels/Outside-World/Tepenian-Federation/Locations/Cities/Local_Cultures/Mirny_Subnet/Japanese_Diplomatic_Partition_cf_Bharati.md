@@ -98,6 +98,8 @@ Built on the newest infrastructure in the Larsemann Hills cluster (the real Bhar
 
 **Vision session, 2026-07-06:** The defining visual impression is cleanliness — clean, orderly streets throughout, kept that way as a matter of civic pride rather than mere upkeep. Art is genuinely everywhere: sculptures, murals, statues, and other constructed pieces populate every district, with the downtown core especially dense with it — walking through the city center means walking through an outdoor gallery as much as a commercial or residential one. This isn't incidental decoration; it's the clearest physical expression of the city's whole creative identity.
 
+**Follow-up, same session:** the art is a genuine mix of civically-commissioned and independent/grassroots work, not one or the other — which one dominates depends partly on the specific neighborhood and context. Downtown likely skews more toward commissioned pieces (matching its role as the city's civic showcase), while grassroots, amateur-driven work likely finds more room in residential and less formal districts, consistent with the massive amateur art/music culture described elsewhere (Section 12).
+
 ---
 
 ## 10. Cuisine

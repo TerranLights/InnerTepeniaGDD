@@ -111,6 +111,8 @@ Dome Fuji's built environment carries two visible eras stacked on top of each ot
 
 Practical, extreme-cold gear first, but likely inflected with the religion's own aesthetic — spare, undecorated, uniform rather than nationally distinct. With no single national culture to draw from and a population that arrived specifically to shed the significance of where they came from, fashion at Dome Fuji plausibly converges toward a shared devotional look rather than displaying any one nation's sensibility — the opposite pattern from almost every other Tepenian city, where clothing often signals origin.
 
+**Vision session, 2026-07-06, confirms this directly:** devotees wear white robes, sparsely covering their bodies specifically in order to commune with the cold — a devotional practice, not a failure of preparation. This is the concrete form the "shared devotional look" above actually takes: the robes' minimal coverage is the point, not a compromise made in spite of the environment.
+
 ---
 
 ## 12. Music
@@ -131,8 +133,8 @@ Likely minimal and reverent rather than a defining civic strength — if silence
 
 - **Sound:** Extraordinary quiet — among the calmest wind conditions anywhere in Antarctica, likely experienced and protected as something close to sacred.
 - **Smell:** Cold, dry, thin, mineral — the plateau's polar-desert air, largely unchanged by the transition from research station to pilgrimage site.
-- **Feel:** Austere, deliberate, and still — a place that asks something of everyone who arrives and offers a very specific kind of stillness in return.
-- **First impressions for visitors:** The flatness and featurelessness of the dome landscape first, then the realization that the entire population is here for one shared reason — an unusually legible city, in that sense, compared to almost anywhere else in Tepenia.
+- **Feel — vision session, 2026-07-06, confirms and deepens the speculative framing above:** genuine peace, Zen-like — the interior of a Shinto shrine or a Buddhist monastery is the closest real-world comparison. A palpable sense of spiritual connection to something larger than any single person, or even the sum of everyone present. The atmosphere itself feels like a participant: the aurora australis overhead could simply stop moving, hang frozen in the sky, and it wouldn't read as strange here — the stillness of the place feels like it extends even to light itself.
+- **First impressions for visitors:** The flatness and featurelessness of the dome landscape first, then the realization that the entire population is here for one shared reason — an unusually legible city, in that sense, compared to almost anywhere else in Tepenia. Then, per the vision above, the peace itself — a feeling visitors register before they register anything else about the place.
 
 ---
 
@@ -165,6 +167,11 @@ This section and the city's culture are effectively the same thing, given the po
 
 - **Ice Cold Buddhism** (placeholder name) is not merely dominant here — it is, functionally, the entire reason the city has a population at all. Dome Fuji is one of the faith's two primary sacred sites (the other being Kunlun), venerating extreme cold as the closest living approximation to superconducting conditions.
 - Whatever secular or scientific philosophy the founding Japanese research community held is now, at best, a minority historical footnote rather than a living presence.
+- **Vision session, 2026-07-06:** the devotional practice centers on a felt connection to something larger than any individual devotee, or even the sum of the whole community — not a specific named deity or doctrine so far, but a genuine sense of participating in something the surrounding environment itself seems to share in (see Sensory Profile, Section 14, for the aurora-frozen-in-place image this produced). White robes, worn sparsely to physically commune with the cold, are the faith's visible devotional marker (see Fashion, Section 11).
+- **Why the robes stay minimal despite the extreme cold — follow-up, same session.** Primary, confirmed reason: robot devotees don't suffer frostbite or hypothermia the way humans would, so the practice works precisely because it embraces an exposure that would be lethal to a human — devotion made possible by what the devotee's own body can safely endure. Three additional, non-exclusive reasons were raised as possible future design directions, not yet chosen among:
+  1. **A real-world parallel:** Tibetan Buddhist *tummo* ("inner fire") meditation, where monks meditate in extreme cold wearing minimal or wet clothing, traditionally demonstrating mastery over cold through meditative discipline alone. Dome Fuji's robes could be a deliberate echo of that asceticism — performing a discipline that would cost a human devotee everything, as an act of devotion, even though it costs a robot devotee nothing physically.
+  2. **A literal-mechanical reading:** since the faith already venerates cold as proximity to superconducting conditions, minimal robes could serve an actual functional purpose — letting a devotee's internal systems get closer to whatever cold threshold the faith treats as spiritually significant, with insulation read as dampening the connection rather than merely blocking weather.
+  3. **Communal uniformity:** everyone dressing this way, safely, becomes its own visible marker of belonging — less about individual vulnerability and more about shared identity within the devotee community, the way monastic robes function in many real-world traditions.
 - **Re-resolved 2026-07-06:** Kunlun's own devotee population is no longer single-nation — its 2026-07-06 re-resolution replaced the earlier "entirely Chinese" reclassification with a genuinely multinational, curated space/astronomy/comms-heritage population, the same general shape as Dome Fuji's own. Both sites now express the faith's stated indifference to national origin in comparable ways, rather than Dome Fuji being the sole "truer" expression.
 
 ---

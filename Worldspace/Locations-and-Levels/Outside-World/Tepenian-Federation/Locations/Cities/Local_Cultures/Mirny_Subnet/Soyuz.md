@@ -252,7 +252,7 @@ Becoming a local at Soyuz meant genuine participation in the Larsemann Hills clu
 
 ## 29. Notable Local Landmarks
 
-- **The fabrication-synthesis chamber works — vision session, 2026-07-06:** the facility (or facilities) manufacturing the apparatus that creates Tepenia's robots; one of the handful of such sites in the whole Federation; arguably Soyuz's single most consequential piece of infrastructure, despite its modest political profile
+- **The fabrication-synthesis chamber works — vision session, 2026-07-06:** the facility (or facilities) manufacturing the apparatus that creates Tepenia's robots; one of the handful of such sites in the whole Federation; arguably Soyuz's single most consequential piece of infrastructure, despite its modest political profile. **Follow-up, same session:** the developer's rough visual/process reference is the film *Ex Machina* — both the chamber and the robot brain itself (a "glowy-blue" nano-architecture "gel" brain). Construction genuinely takes time, a real waiting period rather than an instant process. Critically, Tepenian robot creation inverts the Upper Earth model: Upper Earth humans order robots built to their own specifications, but in Tepenia, **robots build each other according to their own interests**, choosing to keep the human form/figure not because anyone requires it, but because it's a design that's already withstood the test of time across nearly every terrestrial environment.
 - **The Larsemann Hills oasis terrain** — ice-free ground, meltwater lakes, exposed rock, the same oasis character as Lazar's Schirmacher Oasis
 - **The cluster boundary zones** — where Soyuz's territory adjoined Zhongshan and its other Larsemann Hills neighbor
 

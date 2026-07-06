@@ -19,11 +19,13 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA, Japan |
-| Significant | South Korea, Canada, Indonesia, Australia |
-| Notable | Germany, France, UK, New Zealand, Mexico, Chile, Czech Republic, Brazil, Slovakia, Thailand, Russia, Serbia, Belgium, Italy, Norway, Croatia, South Africa, China, Slovenia, Romania, Philippines, Netherlands, Poland, Bulgaria, Vietnam, Spain, Latvia, Argentina, Sweden, Belarus, Ukraine, Finland, Lithuania, Malaysia, Hungary, Uruguay |
+| Primary | USA, Canada *(re-tiered 2026-07-06 — see `Specs/Byrd.md`'s Founding Population Adjustment)* |
+| Significant | Australia, Japan, South Korea, China |
+| Notable | Lithuania, Philippines, Thailand, Indonesia, Malaysia, Brazil, Croatia, Latvia, Netherlands, Slovakia, South Africa, Czech Republic, Uruguay, Vietnam, UK, Finland, New Zealand, Romania, Norway, Hungary, Ukraine, Russia, Germany, Belarus, Poland, France, Bulgaria, Chile, Argentina, Mexico, Italy, Slovenia, Spain, Belgium, Sweden, Serbia |
 
 *Byrd's composition is a genuine blend, resolved 2026-07-03: roughly three-quarters of its population traces to the removed Framheim/Little America Ross Ice Shelf cities, giving it their USA/Japan Pacific-corridor Primary and South Korea/Canada/Indonesia/Australia Significant tiers directly — but Framheim/Little America's own Notable tier was only two nations (New Zealand, Chile). The other 34 Notable-tier nations came entirely from the remaining quarter — the Palmer City portion of Byrd's population (relocated during Palmer City's own over-cap trim), which itself rode along with Palmer City's earlier 43-nation expansion project. Byrd's unusual breadth is therefore a direct, one-step-removed echo of Palmer City's own diversity, not an independent development — but the net effect is real: Byrd is now the second-most nationally diverse Tepenian city, after Palmer City itself.*
+
+**Re-tiered 2026-07-06, during this city's City Vision Notes session:** the original tiering had Japan at Primary ahead of the USA itself — Byrd's actual founding-operator nation. A hand-specified six-way rotation moved USA and Canada into Primary (matching founding heritage), with Australia, Japan, South Korea, and China filling Significant. Full detail in `Specs/Byrd.md`'s Founding Population Adjustment note.
 
 ---
 
@@ -92,6 +94,8 @@ Byrd's identity rests on two facts working together: it was founded underground,
 
 Layered stratigraphy: the oldest, founding-era neighborhoods are entirely underground, progressively buried by snow accumulation over generations; the surface city is the newer addition, built above the current snow line. The buried sections are accessible by tunnel — some abandoned, some still in occasional use — the deepest layers the oldest parts of Tepenian settlement at this specific site.
 
+**Vision session, 2026-07-06, confirms and dramatically expands this:** the surface reads as vast icefields in every direction, with huge warehouses and a massive trucking depot standing as the landscape's real centerpiece — the only large built forms visible above the snow line. Giant elevators lead underground, where the actual bulk of the city lives. The underground scale is enormous — staggering on first encounter for what reads, from the surface, as a comparatively small city, though it becomes obvious in hindsight given the layered-stratigraphy history already established here. Huge mechanized fabrication plants and office buildings for import/export and dispatch occupy that underground volume.
+
 ---
 
 ## 10. Cuisine
@@ -126,8 +130,8 @@ Modest, American-founding-character base with real added breadth from the popula
 
 - **Sound:** The buried tunnels carry sound differently from the surface — a genuinely distinct acoustic environment unique among Tepenian cities.
 - **Smell:** Cold, dry, West Antarctic interior air — starker than any coastal city's atmosphere.
-- **Feel:** Isolated, self-sufficient, and — since the aviation route's breakdown — genuinely cut off in a way no other surviving Tepenian city is.
-- **First impressions for visitors:** The layered stratigraphy first — a city that built downward before it built up — then quickly the sense of a place that has been entirely alone for longer than anyone currently living there can verify.
+- **Feel:** Isolated, self-sufficient, and — since the aviation route's breakdown — genuinely cut off in a way no other surviving Tepenian city is. **Vision session, 2026-07-06:** despite the isolation, a genuine sense of shared community persists, especially underground — self-sufficiency here reads as something the whole city does together, not something each resident does alone.
+- **First impressions for visitors:** **Updated 2026-07-06** — the vast icefields first, then the huge warehouses and trucking depot standing out as the surface's only real landscape features, then the giant elevators down. The genuine shock comes underground: a staggering scale that doesn't match the comparatively small city glimpsed from the surface — obvious in hindsight, given the layered-stratigraphy history, but startling on first encounter all the same.
 
 ---
 
@@ -137,11 +141,14 @@ Modest, American-founding-character base with real added breadth from the popula
 
 ## 15. Division of Industry
 
-- Resource extraction / West Antarctic geology: 30% — likely central given the region's mineral potential, though full detail remains a DLC 2 design question
-- Infrastructure / snow management: 25% — an ongoing, genuine civic necessity
-- Research: 20%
-- Salvage / grounded aviation fleet maintenance: 15% — the aircraft that once connected Byrd to the rest of Tepenia, now grounded and irreparable
-- Other: 10%
+**Revised 2026-07-06 (vision session)** — mechanized fabrication and import/export/dispatch are Byrd's real dominant sectors, housed in the enormous underground volume, not resource extraction alone:
+
+- **Mechanized fabrication: 30%** — huge underground plants, the city's real industrial core
+- **Import/export & dispatch: 25%** — office-based coordination of the surface trucking depot and warehouse operations, feeding and drawing from the underground city
+- Infrastructure / snow management: 15% — an ongoing, genuine civic necessity
+- Resource extraction / West Antarctic geology: 15% — still present, no longer the presumed center of the city's economy
+- Salvage / grounded aviation fleet maintenance: 10% — the aircraft that once connected Byrd to the rest of Tepenia, now grounded and irreparable
+- Other: 5%
 
 ---
 
@@ -211,6 +218,7 @@ As the Byrd ("Pacific") subnet hub, likely carries real institutional weight —
 - The Rastra/Arrastradora tradition — the vehicle name that outlived its original vehicle, later repurposed for small orbital craft
 - Buried-city engineering expertise — genuine, hard-won knowledge of building for a shifting, unstable ice sheet
 - A specific *type of person* — comfortable with genuine self-sufficiency and isolation, recognizable by an ease with distance and difficulty that most Tepenians don't share
+- **Vision session, 2026-07-06 — the trucking depot's actual routing, confirmed:** overland freight runs in two directions. North along Hwy 1, toward the Peninsula (in the direction of Palmer City and, beyond it, South America) — Byrd's western terminus of that highway. East along Hwy 22, the Transcontinental Highway, which then connects onward to the South Pole (Amundsen Station) and the Zhongshan coast, reaching the rest of Tepenia from there. This gives the fabrication plants' output two genuinely distinct outlets rather than one, despite Byrd's overall isolation.
 
 ---
 

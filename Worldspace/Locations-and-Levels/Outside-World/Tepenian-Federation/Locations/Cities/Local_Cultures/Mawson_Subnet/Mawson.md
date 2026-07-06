@@ -67,7 +67,7 @@ Mawson's civic identity is built on continuity and inheritance — the oldest co
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** Continuity and competence are valued above all — Mawson's whole civic character rests on being the place that has simply never stopped functioning.
-- **b. Hospitality character** — Practical, institutionally competent, shaped by the Australian Antarctic Division's operational culture even as the population demographics shifted around that inherited character.
+- **b. Hospitality character** — **Vision session, 2026-07-06:** genuinely warm, not just practical — Mawson is, relatively speaking, the closest thing to a resort town Antarctica can produce. That's a comparison that only means something against the rest of the continent's baseline, but within Tepenia, Mawson's hospitality is a real, distinct civic character, not just competence.
 - **c.** Paced by subnet-hub coordination duties as much as by the seasons — Mawson has always had responsibilities beyond its own borders.
 - **d. Public/private divide** — St. Douglas veneration and the city's institutional/operational history are shared civic pride; specific national heritage (Chinese, Japanese, Korean, Indonesian, or otherwise) is a more private, personal matter.
 - **e. Privacy as civic value** — Moderate; a genuine hub city with real subnet-wide responsibilities doesn't have the luxury of the smaller cities' intimacy, but personal life remains genuinely private.
@@ -77,6 +77,7 @@ Mawson's civic identity is built on continuity and inheritance — the oldest co
 ## 7. Who This City Attracts
 
 - **The type this city draws:** people drawn to institutional depth and continuity — Mawson has always been the place with the deepest operational roots of anywhere in its subnet.
+- **Vision session, 2026-07-06:** it's genuinely easy to make friends here — a welcoming civic character to match the resort-town comparison above, and a real draw in its own right.
 - **The type this city repels:** anyone seeking a single, uncontested national identity — Mawson's own founding nation is no longer its demographic majority, and the city has made real peace with that gap.
 
 ---
@@ -142,14 +143,19 @@ Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian 
 - Subnet-hub logistics / Arcanet coordination: 25% — the city's clearly defining civic function
 - Maritime trade: 20% — Holme Bay, Indian Ocean access
 - Technical / scientific: 20% — inherited Australian Antarctic Division research tradition
-- Commercial / trade: 20%
-- Other: 15%
+- Commercial / trade: 15%
+- Hospitality / honeymoon tourism — **vision session, 2026-07-06:** 10%, a genuine economic sector given Mawson's status as Tepenia's go-to honeymoon destination for newly-married human-robot couples
+- Other: 10%
 
 ---
 
 ## 16. Human-Robot Relations
 
 With robots slightly outnumbering humans (737,004 to 709,729 Census I), human-robot relations at Mawson are shaped by the city's genuine institutional depth and hub responsibilities — coordination extends across the whole subnet's Arcanet network, not just the local population.
+
+**Vision session, 2026-07-06:** Mawson's warm, resort-adjacent civic character has made it a genuinely popular honeymoon destination for newly-married human-robot couples specifically — a place couples travel to before returning home to whatever city they'll actually settle in and build their life together. This is a distinctive, concrete piece of Mawson's romantic culture, not just an abstract "hospitality" trait — the city has a real function in the life-cycle of Tepenian human-robot relationships.
+
+**Follow-up, same session:** this is a genuinely planned destination, not an incidental stop — Mawson has earned its honeymoon reputation over decades, the way a real-world destination builds a name for itself over time, rather than couples just ending up there while passing through on other business. No codified or customary length of stay exists, but a typical honeymoon here likely runs somewhere around one to two weeks.
 
 ---
 
@@ -230,7 +236,7 @@ The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was
 
 ## 27. Visitor Experience
 
-The Prince Charles Mountains and Horseshoe Harbour register first, followed by the genuine demographic plurality of a city whose Australian name and St. Douglas veneration sit alongside a Chinese-Primary, Indian-Ocean-facing population.
+The Prince Charles Mountains and Horseshoe Harbour register first, followed by the genuine demographic plurality of a city whose Australian name and St. Douglas veneration sit alongside a Chinese-Primary, Indian-Ocean-facing population. **Vision session, 2026-07-06:** a real share of visitors here aren't passing through on hub business at all — they're newly-married human-robot couples on honeymoon, giving the city's visitor population a genuinely warmer, more celebratory character than a typical logistics-hub city would have.
 
 ---
 
@@ -249,6 +255,7 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 - **Holme Bay harbor** — the primary maritime entry point, Mac.Robertson Land coast
 - **The subnet hub Arcanet installation** — the Mawson subnet's primary communications node, damaged but partially functional
 - **Prince Charles Mountains approach** — visible to the south, a defining visual backdrop
+- **Public libraries — vision session, 2026-07-06:** a genuine civic institution here, consistent with Mawson's culture and hospitality-forward character
 
 ---
 

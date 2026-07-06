@@ -236,6 +236,10 @@ TBD — most characters currently in Concordia arrived as refugees or exiles fro
 
 Concordia is the last functioning major city in the Tepenian Federation. It is not thriving — the energy grid is failing, district tensions are high, and the city's long-term viability is the central question of the main game. The twelve districts are in various states of internal conflict and inter-district tension. No single faction controls the city. The player arrives into this instability.
 
+**Vision session, 2026-07-06:** despite the struggle, Concordia is genuinely surviving, not merely persisting. There's a real sense of community here, among people who wanted the chance to see what a city can truly be — not a collection of buildings, not a smattering of offices, but an actual city. This is the animating spirit behind Concordia's post-war identity: a population that consciously wants to build and hold onto something more than a functional settlement.
+
+**Follow-up, same session:** this feeling is shared across all twelve districts — every district genuinely wants Concordia to be a true city, not a collection of buildings. What divides them isn't the goal but the method: each district holds a differing, and sometimes flatly conflicting, belief system, viewpoint, and opinion on how to actually accomplish it. This reframes the established district tensions above — they aren't factions pulling toward different end states, but factions united on the end state and at odds over the path there, a meaningfully different kind of conflict than a simple values clash.
+
 Full city logistics: `to-be-integrated/city-logistics/Concordia_City_Logistics.md`
 Full district documentation: `Worldspace/Locations-and-Levels/Concordia-City/Districts/`
 

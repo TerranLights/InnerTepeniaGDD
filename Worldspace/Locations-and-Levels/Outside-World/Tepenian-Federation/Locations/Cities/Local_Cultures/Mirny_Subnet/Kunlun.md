@@ -144,7 +144,7 @@ Practical extreme-cold and extreme-altitude gear, first and foremost — functio
 
 ## 15. Division of Industry
 
-- **Astronomy: 60%** *(established 2026-07-04 — astronomy is Kunlun's overwhelmingly dominant industry)* — Dome A's exceptional atmospheric stability makes this potentially the best ground-based observatory site in Tepenia; the sheer scale of this share reflects astronomy as Kunlun's defining civic purpose, not merely one program among several
+- **Astronomy: 60%** *(established 2026-07-04 — astronomy is Kunlun's overwhelmingly dominant industry)* — Dome A's exceptional atmospheric stability makes this potentially the best ground-based observatory site in Tepenia; the sheer scale of this share reflects astronomy as Kunlun's defining civic purpose, not merely one program among several. **Follow-up, 2026-07-06:** the developer isn't certain of an exact research focus, but leans toward Kunlun's observatory work concentrating more on near-Earth objects of interest — Mars, the Moon, and similar — than on distant star systems. Tentative, not firmly settled.
 - Ice core science: 15% — Dome A holds some of the oldest ice on Earth
 - Religious practice / pilgrimage infrastructure *(if the Ice Cold Buddhism identity holds)*: 15%
 - Altitude-legacy medical infrastructure / facility maintenance: 10%

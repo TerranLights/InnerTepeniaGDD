@@ -16,62 +16,66 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA, Japan |
-| Significant | South Korea, Canada, Indonesia, Australia |
-| Notable | Germany, France, UK, New Zealand, Mexico, Chile, Czech Republic, Brazil, Slovakia, Thailand, Russia, Serbia, Belgium, Italy, Norway, Croatia, South Africa, China, Slovenia, Romania, Philippines, Netherlands, Poland, Bulgaria, Vietnam, Spain, Latvia, Argentina, Sweden, Belarus, Ukraine, Finland, Lithuania, Malaysia, Hungary, Uruguay |
+| Primary | USA, Canada *(re-tiered 2026-07-06)* |
+| Significant | Australia, Japan, South Korea, China |
+| Notable | Lithuania, Philippines, Thailand, Indonesia, Malaysia, Brazil, Croatia, Latvia, Netherlands, Slovakia, South Africa, Czech Republic, Uruguay, Vietnam, UK, Finland, New Zealand, Romania, Norway, Hungary, Ukraine, Russia, Germany, Belarus, Poland, France, Bulgaria, Chile, Argentina, Mexico, Italy, Slovenia, Spain, Belgium, Sweden, Serbia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections I-III. Re-tiered 2026-07-06 — see Founding Population Adjustment, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Originally de-stacked 2026-07-05. **Re-tiered 2026-07-06, during this city's City Vision Notes session,** via a full six-way rotation among the Primary/Significant tier: USA took Japan's old spot, Canada took USA's, Australia took Indonesia's, Japan took South Korea's, South Korea took Canada's, and Indonesia took Australia's — landing USA at Primary alongside Canada, matching Byrd's real founding-operator heritage. A second adjustment swapped China and Indonesia's values directly, moving China into Significant tier and Indonesia into Notable. A −0.01 rounding correction was applied to China to bring the total to exactly 100%. Tiers reassigned to match the new ranking by share size — top 2 Primary, next 4 Significant, remainder Notable — rather than kept at their original slot assignments.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 13.57% | 25,868 | 25,277 | *(N/A)* | *(N/A)* |
-| Primary | USA | 11.43% | 21,788 | 21,290 | *(N/A)* | *(N/A)* |
-| Significant | Indonesia | 6.42% | 12,237 | 11,957 | *(N/A)* | *(N/A)* |
-| Significant | South Korea | 6.19% | 11,798 | 11,528 | *(N/A)* | *(N/A)* |
-| Significant | Canada | 3.19% | 6,073 | 5,934 | *(N/A)* | *(N/A)* |
-| Significant | Australia | 2.96% | 5,634 | 5,505 | *(N/A)* | *(N/A)* |
-| Notable | Lithuania | 2.27% | 4,320 | 4,221 | *(N/A)* | *(N/A)* |
-| Notable | Philippines | 2.23% | 4,242 | 4,145 | *(N/A)* | *(N/A)* |
-| Notable | Thailand | 2.22% | 4,223 | 4,127 | *(N/A)* | *(N/A)* |
-| Notable | China | 2.21% | 4,222 | 4,126 | *(N/A)* | *(N/A)* |
-| Notable | Brazil | 2.20% | 4,198 | 4,102 | *(N/A)* | *(N/A)* |
-| Notable | Malaysia | 2.20% | 4,202 | 4,106 | *(N/A)* | *(N/A)* |
-| Notable | Croatia | 2.16% | 4,126 | 4,031 | *(N/A)* | *(N/A)* |
-| Notable | Latvia | 2.15% | 4,090 | 3,997 | *(N/A)* | *(N/A)* |
-| Notable | Netherlands | 2.10% | 4,004 | 3,913 | *(N/A)* | *(N/A)* |
-| Notable | Slovakia | 2.06% | 3,931 | 3,841 | *(N/A)* | *(N/A)* |
-| Notable | South Africa | 2.02% | 3,842 | 3,754 | *(N/A)* | *(N/A)* |
-| Notable | Czech Republic | 1.96% | 3,742 | 3,656 | *(N/A)* | *(N/A)* |
-| Notable | Uruguay | 1.96% | 3,732 | 3,647 | *(N/A)* | *(N/A)* |
-| Notable | Vietnam | 1.94% | 3,698 | 3,613 | *(N/A)* | *(N/A)* |
-| Notable | UK | 1.93% | 3,686 | 3,602 | *(N/A)* | *(N/A)* |
-| Notable | New Zealand | 1.90% | 3,618 | 3,536 | *(N/A)* | *(N/A)* |
-| Notable | Romania | 1.90% | 3,616 | 3,533 | *(N/A)* | *(N/A)* |
-| Notable | Finland | 1.90% | 3,624 | 3,541 | *(N/A)* | *(N/A)* |
-| Notable | Norway | 1.23% | 2,339 | 2,285 | *(N/A)* | *(N/A)* |
-| Notable | Hungary | 1.23% | 2,341 | 2,287 | *(N/A)* | *(N/A)* |
-| Notable | Ukraine | 1.22% | 2,333 | 2,280 | *(N/A)* | *(N/A)* |
-| Notable | Germany | 1.19% | 2,259 | 2,208 | *(N/A)* | *(N/A)* |
-| Notable | Russia | 1.19% | 2,270 | 2,219 | *(N/A)* | *(N/A)* |
-| Notable | Belarus | 1.17% | 2,225 | 2,174 | *(N/A)* | *(N/A)* |
-| Notable | Poland | 1.16% | 2,215 | 2,164 | *(N/A)* | *(N/A)* |
-| Notable | France | 1.11% | 2,115 | 2,067 | *(N/A)* | *(N/A)* |
-| Notable | Bulgaria | 1.06% | 2,026 | 1,980 | *(N/A)* | *(N/A)* |
-| Notable | Chile | 1.02% | 1,953 | 1,908 | *(N/A)* | *(N/A)* |
-| Notable | Argentina | 0.98% | 1,867 | 1,824 | *(N/A)* | *(N/A)* |
-| Notable | Mexico | 0.96% | 1,831 | 1,790 | *(N/A)* | *(N/A)* |
-| Notable | Italy | 0.92% | 1,755 | 1,715 | *(N/A)* | *(N/A)* |
-| Notable | Slovenia | 0.92% | 1,759 | 1,719 | *(N/A)* | *(N/A)* |
-| Notable | Belgium | 0.91% | 1,734 | 1,694 | *(N/A)* | *(N/A)* |
+| Primary | USA | 13.57% | 25,867 | 25,277 | *(N/A)* | *(N/A)* |
+| Primary | Canada | 11.43% | 21,788 | 21,290 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.42% | 12,238 | 11,958 | *(N/A)* | *(N/A)* |
+| Significant | Japan | 6.19% | 11,800 | 11,530 | *(N/A)* | *(N/A)* |
+| Significant | South Korea | 3.19% | 6,081 | 5,942 | *(N/A)* | *(N/A)* |
+| Significant | China | 2.95% | 5,623 | 5,495 | *(N/A)* | *(N/A)* |
+| Notable | Lithuania | 2.27% | 4,327 | 4,228 | *(N/A)* | *(N/A)* |
+| Notable | Philippines | 2.23% | 4,251 | 4,154 | *(N/A)* | *(N/A)* |
+| Notable | Thailand | 2.22% | 4,232 | 4,135 | *(N/A)* | *(N/A)* |
+| Notable | Indonesia | 2.21% | 4,213 | 4,117 | *(N/A)* | *(N/A)* |
+| Notable | Malaysia | 2.20% | 4,194 | 4,098 | *(N/A)* | *(N/A)* |
+| Notable | Brazil | 2.20% | 4,194 | 4,098 | *(N/A)* | *(N/A)* |
+| Notable | Croatia | 2.16% | 4,117 | 4,023 | *(N/A)* | *(N/A)* |
+| Notable | Latvia | 2.15% | 4,098 | 4,005 | *(N/A)* | *(N/A)* |
+| Notable | Netherlands | 2.10% | 4,003 | 3,912 | *(N/A)* | *(N/A)* |
+| Notable | Slovakia | 2.06% | 3,927 | 3,837 | *(N/A)* | *(N/A)* |
+| Notable | South Africa | 2.02% | 3,851 | 3,763 | *(N/A)* | *(N/A)* |
+| Notable | Czech Republic | 1.96% | 3,736 | 3,651 | *(N/A)* | *(N/A)* |
+| Notable | Uruguay | 1.96% | 3,736 | 3,651 | *(N/A)* | *(N/A)* |
+| Notable | Vietnam | 1.94% | 3,698 | 3,614 | *(N/A)* | *(N/A)* |
+| Notable | UK | 1.93% | 3,679 | 3,595 | *(N/A)* | *(N/A)* |
+| Notable | Finland | 1.90% | 3,622 | 3,539 | *(N/A)* | *(N/A)* |
+| Notable | New Zealand | 1.90% | 3,622 | 3,539 | *(N/A)* | *(N/A)* |
+| Notable | Romania | 1.90% | 3,622 | 3,539 | *(N/A)* | *(N/A)* |
+| Notable | Norway | 1.23% | 2,345 | 2,291 | *(N/A)* | *(N/A)* |
+| Notable | Hungary | 1.23% | 2,345 | 2,291 | *(N/A)* | *(N/A)* |
+| Notable | Ukraine | 1.22% | 2,326 | 2,272 | *(N/A)* | *(N/A)* |
+| Notable | Russia | 1.19% | 2,268 | 2,217 | *(N/A)* | *(N/A)* |
+| Notable | Germany | 1.19% | 2,268 | 2,217 | *(N/A)* | *(N/A)* |
+| Notable | Belarus | 1.17% | 2,230 | 2,179 | *(N/A)* | *(N/A)* |
+| Notable | Poland | 1.16% | 2,211 | 2,161 | *(N/A)* | *(N/A)* |
+| Notable | France | 1.11% | 2,116 | 2,068 | *(N/A)* | *(N/A)* |
+| Notable | Bulgaria | 1.06% | 2,021 | 1,974 | *(N/A)* | *(N/A)* |
+| Notable | Chile | 1.02% | 1,944 | 1,900 | *(N/A)* | *(N/A)* |
+| Notable | Argentina | 0.98% | 1,868 | 1,825 | *(N/A)* | *(N/A)* |
+| Notable | Mexico | 0.96% | 1,830 | 1,788 | *(N/A)* | *(N/A)* |
+| Notable | Italy | 0.92% | 1,754 | 1,714 | *(N/A)* | *(N/A)* |
+| Notable | Slovenia | 0.92% | 1,754 | 1,714 | *(N/A)* | *(N/A)* |
 | Notable | Spain | 0.91% | 1,735 | 1,695 | *(N/A)* | *(N/A)* |
-| Notable | Sweden | 0.90% | 1,715 | 1,675 | *(N/A)* | *(N/A)* |
-| Notable | Serbia | 0.86% | 1,637 | 1,600 | *(N/A)* | *(N/A)* |
+| Notable | Belgium | 0.91% | 1,735 | 1,695 | *(N/A)* | *(N/A)* |
+| Notable | Sweden | 0.90% | 1,716 | 1,676 | *(N/A)* | *(N/A)* |
+| Notable | Serbia | 0.86% | 1,639 | 1,602 | *(N/A)* | *(N/A)* |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+
+## Founding Population Adjustment (2026-07-06)
+
+Byrd's original tiering (superseded) had Japan at Primary (13.57%) ahead of the USA itself (11.43%) — Byrd's actual founding-operator nation. Unlike the Larsemann Hills cluster cities, this wasn't framed as a structural "buried founding nation" bug requiring full re-resolution; instead the developer made a direct, hand-specified six-way rotation among the Primary/Significant tier: USA took Japan's old spot, Canada took USA's, Australia took Indonesia's, Japan took South Korea's, South Korea took Canada's, and Indonesia took Australia's. This landed USA solidly at Primary alongside Canada, matching the founding heritage, while every value in the rotation stayed exactly conserved (a closed six-way swap, no gap). A second adjustment swapped China's and Indonesia's values directly, moving China up into Significant tier (2.96%) and Indonesia down into Notable (2.21%). A final −0.01 rounding correction was applied to China (2.96% → 2.95%) to bring the table to exactly 100%. Tiers were reassigned to match the new share-based ranking (top 2 Primary, next 4 Significant) rather than kept at their original slot labels.
 
 ---
 
@@ -167,15 +171,26 @@ It was never the largest city, never the most glamorous, never the cultural cent
 
 The buried-city architecture gave Byrd a peculiar spatial culture: interior life was not just comfortable but structurally necessary. The underground portions of the city — tunnels, buried chambers, sealed older sections — became the connective tissue of Byrd's social life in a way that has no equivalent in any other Tepenian city. People moved between structures underground, met underground, lived underground in the oldest parts of the city. The surface was where you worked and where the sky was; the tunnels were where you were.
 
+**Vision session, 2026-07-06:** the surface today reads as vast icefields with huge warehouses and a massive trucking depot as the only real landscape features, giant elevators leading down to where the real activity happens. The underground scale is enormous — staggering at first for what looks, from the surface, like a comparatively small city, though it becomes obvious in hindsight given the buried-city history above. Despite the isolation, there's a genuine sense of shared community, especially underground — self-sufficiency here is something the whole city does together.
+
 **Nationally known for:** Being the western city; the buried tunnels; St. Richard; an earned reputation for self-sufficiency that the eastern cities sometimes found admirable and sometimes found standoffish.
 
 ---
 
 ## Economy & Industry
 
-Byrd's economy was built around what the West Antarctic interior could provide and what the city could sustain in isolation. Full detail TBD for DLC 2 design — the nature of Byrd's struggle is a central DLC 2 question, and the economy is likely central to that struggle.
+**Revised 2026-07-06 (vision session)** — mechanized fabrication and import/export & dispatch are Byrd's real dominant sectors, housed in the enormous underground volume:
 
-West Antarctic geology may offer mineral resources distinct from the eastern stations; the ice sheet itself has been studied for scientific purposes. Whether Byrd was primarily a resource-extraction city, a research city, or something else is not yet established.
+- **Mechanized fabrication (30%)** — huge underground plants, the city's real industrial core
+- **Import/export & dispatch (25%)** — office-based coordination of the surface trucking depot and warehouse operations
+- Infrastructure / snow management (15%)
+- Resource extraction / West Antarctic geology (15%) — still present, no longer the presumed center of the city's economy
+- Salvage / grounded aviation fleet maintenance (10%) — the aircraft that once connected Byrd to the rest of Tepenia, now grounded and irreparable
+- Other (5%)
+
+West Antarctic geology offers mineral resources distinct from the eastern stations; the ice sheet itself has been studied for scientific purposes — both real, but secondary to the fabrication and dispatch operations that now define Byrd's economic identity.
+
+**Follow-up, same session — the trucking depot's actual routing:** freight moves in two directions. North along Hwy 1 toward the Peninsula (in the direction of Palmer City and, beyond it, South America) — Byrd's western terminus of that highway. East along Hwy 22, the Transcontinental Highway, on to the South Pole (Amundsen Station) and the Zhongshan coast, reaching the rest of Tepenia from there.
 
 ---
 

@@ -399,7 +399,7 @@ National communities are classified by tier based on long-run population share. 
 | Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
-*Note: Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary — Chinese cultural identity is continuous from founding through present.*
+*Note: Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary — Chinese cultural identity is continuous from founding through present. **Strengthened further 2026-07-06** — see `Specs/Zhongshan.md`'s Founding Population Adjustment; China's share moved from 19.05% to 35.83% across three rounds of hand-specified adjustments.*
 
 ---
 
@@ -413,7 +413,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Bharati_TBD** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; final proper name still TBD — see `Specs/Bharati_TBD.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above.)*
+**Bharati_TBD** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; final proper name still TBD — see `Specs/Bharati_TBD.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above. **Confirmed 2026-07-06:** the diplomatic allocation now genuinely holds demographically too — Japan re-tiered to Primary at 36.27%, no longer buried behind China the way the standard population method had put it.)*
 
 | Tier | Nations |
 |------|---------|
@@ -559,30 +559,35 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ***Denison now has its own `Specs/Denison.md` file, created 2026-07-05*** — *its de-stacked Per-Nation Breakdown table there uses a fresh, independently-drawn random split (different from the one-off figures folded into the table below), though built from the same Census I total (522,975 humans) and the same tier composition, so the eleven affected nations' totals below are extremely close but not exactly identical to what a full resum would produce. This table has NOT yet been rebuilt against Denison's real Specs-file figures — that would require resumming all 43 nations across all 35 cities directly, a larger separate task, not done as part of just creating Denison's file. Flagged in `TODO.md` as the next step whenever a fresh full rebuild of this table happens anyway.*
 
+***Adjusted 2026-07-06*** — *the Larsemann Hills demographic rework (Zhongshan, Soyuz, Bharati — see `TODO.md`'s "Larsemann Hills cluster demographic rework" entry) changed each of those three cities' own per-nation Census I human figures significantly, across multiple rounds each. Recomputed the exact delta for every affected nation by diffing each city's old vs. new Specs-file figures directly (not re-derived independently), then applied those deltas to this table. Net changes: Japan +197,785 (734,189 → 931,974 — no longer buried behind China's regional pull, now genuinely Tepenia's fourth-largest exile nation, largely on the strength of Bharati's 36.27%); South Korea +116,674 (759,172 → 875,846); UK −110,931 (984,435 → 873,504, having been removed entirely from all three cities' tables); Indonesia −93,891 (652,202 → 558,311); Belarus −27,868; Ukraine −26,545; Malaysia −19,671; Romania −17,819; Hungary +17,808 (new entrant to this table, replacing Romania's old share at Soyuz specifically); Russia −15,632; China −13,089 (1,686,675 → 1,673,586 — still comfortably the largest single nation overall, just less dominant in this specific cluster); Philippines −6,846; smaller adjustments (±35 or less) to South Africa, New Zealand, Estonia, Bulgaria, Germany, Australia, Vietnam, Thailand, Lithuania, Latvia. Total conserves exactly: 15,623,521 before and after, confirming this was a pure internal reallocation with no city's own total population affected.*
+
+***Adjusted again 2026-07-06, same day*** — *Byrd's own City Vision Notes session produced a hand-specified re-tiering: a six-way rotation moved USA and Canada into Primary tier (Byrd's actual founding-operator nation, USA, had been buried behind Japan), with Australia, Japan, South Korea, and China filling Significant; a further swap moved China above Indonesia; a final −0.01% rounding correction was applied to China. Deltas computed directly from `Specs/Byrd.md`'s old vs. new per-nation figures: USA +3,987 (2,525,235 → 2,529,222); Canada +15,356 (309,118 → 324,474); Australia +6,453 (693,290 → 699,743); China +1,388 (1,673,586 → 1,674,974); Japan −13,747 (931,974 → 918,227); South Korea −5,586 (875,846 → 870,260); Indonesia −7,840 (558,311 → 550,471). Off by 11 (15,623,532 vs. 15,623,521) due to rounding across 7 affected nations; immaterial.*
+
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 2,525,235 | | Vietnam | 165,936 |
-| China | 1,686,675 | | Hungary | 159,980 |
-| UK | 984,435 | | Lithuania | 158,029 |
-| South Korea | 759,172 | | Italy | 157,130 |
-| Brazil | 743,655 | | Serbia | 156,627 |
-| Germany | 743,131 | | Poland | 154,447 |
-| Japan | 734,189 | | Slovenia | 154,061 |
-| Australia | 693,277 | | Czech Republic | 151,992 |
-| Indonesia | 652,202 | | Thailand | 149,965 |
-| France | 511,352 | | Belarus | 149,312 |
-| Russia | 452,990 | | Slovakia | 144,238 |
-| Canada | 309,118 | | Bulgaria | 138,382 |
+| USA | 2,529,222 | | Vietnam | 165,924 |
+| China | 1,674,974 | | Philippines | 163,255 |
+| Japan | 918,227 | | Lithuania | 158,021 |
+| South Korea | 870,260 | | Italy | 157,130 |
+| UK | 873,504 | | Serbia | 156,627 |
+| Brazil | 743,655 | | Poland | 154,447 |
+| Germany | 743,155 | | Slovenia | 154,061 |
+| Australia | 699,743 | | Czech Republic | 151,992 |
+| Indonesia | 550,471 | | Thailand | 149,974 |
+| France | 511,352 | | Slovakia | 144,238 |
+| Russia | 437,358 | | Ukraine | 142,645 |
+| Canada | 324,474 | | Bulgaria | 138,353 |
 | Mexico | 275,257 | | Croatia | 136,798 |
-| Argentina | 248,616 | | Latvia | 134,646 |
+| Argentina | 248,616 | | Latvia | 134,638 |
 | Chile | 227,669 | | Norway | 126,449 |
-| New Zealand | 227,618 | | Netherlands | 125,467 |
-| Malaysia | 204,357 | | Uruguay | 119,037 |
-| Estonia | 189,713 | | Finland | 109,747 |
-| Romania | 188,974 | | Spain | 75,997 |
-| Philippines | 170,101 | | Belgium | 45,000 |
-| South Africa | 169,740 | | Sweden | 43,615 |
-| Ukraine | 169,190 | | **TOTAL** | **15,623,521** |
+| New Zealand | 227,651 | | Netherlands | 125,467 |
+| Estonia | 189,682 | | Belarus | 121,444 |
+| Malaysia | 184,686 | | Uruguay | 119,037 |
+| Hungary | 177,788 | | Finland | 109,747 |
+| Romania | 171,155 | | Spain | 75,997 |
+| South Africa | 169,774 | | Belgium | 45,000 |
+| | | | Sweden | 43,615 |
+| | | | **TOTAL** | **15,623,521** |
 
 *Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. Also flagged, separate from this table's own math: this file's own City Populations table (above) does not mark Denison as destroyed, despite Section IV below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document, not yet resolved. See `TODO.md`.*
 
