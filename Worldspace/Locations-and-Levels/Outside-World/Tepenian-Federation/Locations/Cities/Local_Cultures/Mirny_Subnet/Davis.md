@@ -137,7 +137,7 @@ Understated and varied, without a single dominant local tradition — Davis's br
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Naturalist and observational — genuine local tradition of documenting the Vestfold Hills' terrain and ecology, treated with real seriousness as both science and art.
-- **Literature:** A tradition of careful, precise nature writing and field documentation, echoing the city's founding namesake's own unglamorous, competent professionalism.
+- **Literature:** A tradition of careful, precise nature writing and field documentation, echoing the city's founding namesake's own unglamorous, competent professionalism. **Established 2026-07-05:** Davis is also home to libraries with a genuinely welcoming acquisitions policy — they accept nearly any and all books smuggled out of Upper Earth, no matter the content, and are openly glad to add them to the collection. This isn't a secretive or underground practice; it's celebrated and open. **Clarified same day: not unique to Davis** — smuggling goods (including books) out of Upper Earth is a broader Tepenian practice, since the nation needs some outside materials to build up a developed culture. Zukelli, Janbogo, and Esperanza are confirmed to also welcome smuggled books; Sanay is a likely candidate too, given its status as (probably) Tepenia's single largest shipping/receiving maritime port, though several Palmer subnet Peninsula cities could plausibly contest that title. Davis's version of this practice is real and genuine, just not exclusive to it.
 - **Crafts & material culture:** Field and research equipment craft — well-made, reliable tools for working the varied terrain are genuinely respected local craftsmanship.
 
 ---
@@ -157,12 +157,14 @@ Understated and varied, without a single dominant local tradition — Davis's br
 
 ## 15. Division of Industry
 
-- Technical / scientific (environmental and terrain research): ~30% — the largest single sector, reflecting the founding research heritage directly
-- Maritime (Prydz Bay, fjord access): ~20%
-- Industrial / manufacturing: ~15%
-- Commercial: ~15%
-- Agricultural / food production (lake-adjacent resources): ~10%
-- Other: ~10%
+**Developer vision, established 2026-07-05 — a working city first.** Davis is, above all, a working city: mining (from quarries toward the South Pole direction — a separate source from Mirny's own, similarly-directioned quarries), fabrication, manufacturing, and general industry make up the clear majority of activity here, with the research/terrain-documentation heritage below now a smaller (if still genuinely present) part of city life. Revised breakdown:
+
+- Industrial / manufacturing / mining: ~40% — the clear majority, quarrying and fabrication driving the bulk of daily activity
+- Technical / scientific (environmental and terrain research): ~20% — the founding research heritage, now a substantial minority rather than the largest sector
+- Maritime (Prydz Bay, fjord access): ~15%
+- Commercial (bars, eateries, social establishments — see Section 26/27): ~15%
+- Agricultural / food production (lake-adjacent resources): ~5%
+- Other, including a small but genuine arts/music community: ~5%
 
 ---
 

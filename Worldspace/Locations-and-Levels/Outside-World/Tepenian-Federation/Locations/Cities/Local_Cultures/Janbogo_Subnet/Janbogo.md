@@ -151,7 +151,7 @@ Warm, communal, meant to be experienced together rather than performed at a dist
 
 - **Visual arts:** Domestic and craft-oriented rather than gallery-oriented — textiles, ceramics (particularly teaware), and interior design are where Janbogo's visual culture concentrates its seriousness, consistent with a city whose aesthetic center of gravity is the inside of a teahouse rather than a museum wall.
 
-- **Literature:** A strong oral and anecdotal tradition — stories about specific teahouses, specific hosts, specific acts of unexpected kindness during hard winters — carried forward more through speech and community memory than published work. What written literature exists tends toward the personal and warm rather than the abstract.
+- **Literature:** A strong oral and anecdotal tradition — stories about specific teahouses, specific hosts, specific acts of unexpected kindness during hard winters — carried forward more through speech and community memory than published work. What written literature exists tends toward the personal and warm rather than the abstract. **Confirmed 2026-07-05:** Janbogo is also one of the Tepenian cities whose libraries openly welcome smuggled Upper Earth books, part of a broader national practice (also confirmed at Zukelli and Esperanza).
 
 - **Crafts & material culture:** Teaware and coffee service craft is taken seriously as a genuine artisan tradition — a good Janbogo teapot or coffee set is a respected, valuable object, and the craftspeople who make them are recognized figures within their neighborhoods.
 

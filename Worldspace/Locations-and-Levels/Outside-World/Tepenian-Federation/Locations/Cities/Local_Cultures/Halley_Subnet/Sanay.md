@@ -117,7 +117,7 @@ A blend of South African and German musical heritage, heard in the residential, 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Practical and industrial in character, but with real presence given the city's active economy — signage, dockside murals, and functional design across the shipyards and depots.
-- **Literature:** Oral memory and practical record-keeping remain strong, telling the story of what the city took and survived, alongside the more mundane daily record of shipping manifests and trade logs.
+- **Literature:** Oral memory and practical record-keeping remain strong, telling the story of what the city took and survived, alongside the more mundane daily record of shipping manifests and trade logs. **Flagged 2026-07-05, not yet confirmed:** Sanay is a likely candidate for also welcoming smuggled Upper Earth books (a broader Tepenian practice, confirmed so far at Davis, Zukelli, Janbogo, and Esperanza), given its position as probably Tepenia's single largest shipping/receiving maritime port — though several Palmer subnet Peninsula cities could plausibly contest that title.
 - **Crafts & material culture:** Repair and maintenance craft is genuinely valued here — keeping the port's infrastructure, trucks, and shipyards functional is treated as skilled, respected work, done round the clock.
 
 ---

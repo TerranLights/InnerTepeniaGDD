@@ -130,6 +130,8 @@ Practical travel-and-transit gear dominates — layered, durable, built for peop
 
 Broad, eclectic, shaped by constant exposure to travelers from every corner of Tepenia passing through — Casey's musical culture absorbs and remixes influences faster than more insular cities, without settling into one dominant tradition the way Zhongshan or Denison did. Music here functions as much as social lubricant for strangers as it does cultural expression.
 
+**Developer vision, established 2026-07-05 — a genuine music scene, not just background noise.** Casey hosts a massive, genre-spanning music scene — Classic Rock, Jazz, Blues, and Acoustic Folk all thriving side by side, the concrete expression of the eclecticism already described above. Its center of gravity is **Splinters**, on the old peninsula — Tepenia's largest and most famous bar, a full city block, with a stage, a dance floor, and rows of seating along the side-flanks and rear. Splinters is famous not just in Casey but across cities along the Dumont d'Urville Sea and Indian Ocean coastlines — travelers passing through Casey (which is most of what Casey is for) carry its reputation onward. The name itself is a piece of rediscovered history: residents found records and entries referencing the real, historical "Splinters" — the actual social bar at the real pre-exile Casey Station — and revived the name for their own, far grander establishment.
+
 ---
 
 ## 13. Arts & Aesthetics
@@ -216,7 +218,7 @@ Comparatively muted — Casey's civic energy is absorbed by its logistics functi
 
 - **Denison (Janbogo subnet):** No established in-fiction relationship between the two cities. Noted here only because their founding-nation composition is nearly identical despite very different resulting cultures — a data point, not a canon connection. See `../Janbogo_Subnet/Denison.md`.
 - **Concordia:** The inland terminus of Hwy 110; Casey is the last coastal city before the long interior drive, and the first city after it — a genuinely load-bearing relationship, not a symbolic one.
-- **Dumont d'Urville coast cities:** Connected via Hwy 2/DCH; Casey's destruction severed this corridor's direct link to Concordia, forcing traffic the long way around through Janbogo instead.
+- **Dumont d'Urville coast cities:** Connected via Hwy 2/DCH — but that route runs directly through Casey, so its destruction blocks Hwy 2 at the source rather than merely disconnecting it *(corrected 2026-07-05)*. There is no rerouting through Janbogo or anywhere else; the Dumont d'Urville coast's overland connection to the rest of Tepenia is genuinely severed.
 - **Zhongshan, Mirny, Davis:** Fellow Mirny subnet cities; Casey's junction role makes it a practical hub for the whole subnet's internal movement, distinct from Zhongshan's insular austerity or Mirny's subnet-hub administrative role.
 
 ---
@@ -265,6 +267,7 @@ Marked less by ceremony than by a shift in function — you're a visitor while C
 
 - **The Hwy 110 / Hwy 2 junction** — the defining geographic and civic fact of Casey
 - **Wilkes Station ruins** — the pre-exile American research site nearby, a historical curiosity predating Tepenia entirely
+- **Splinters** — established 2026-07-05; the largest, most famous bar in Casey, occupying a full city block on the old peninsula, its reputation carried by travelers along the whole Dumont d'Urville Sea and Indian Ocean coastline
 - Additional named locations: TBD
 
 ---

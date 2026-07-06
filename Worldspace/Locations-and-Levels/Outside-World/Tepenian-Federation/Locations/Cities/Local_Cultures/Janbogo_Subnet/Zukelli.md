@@ -123,7 +123,7 @@ A genuinely lively musical culture, Italian-rooted, performed and shared in the 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Craft and design traditions tied closely to food culture and communal space — aesthetics in service of hospitality rather than standing apart from it.
-- **Literature:** Oral and communal storytelling, much of it centered on the Janbogo relationship itself — centuries of shared, entangled history generated its own local mythology.
+- **Literature:** Oral and communal storytelling, much of it centered on the Janbogo relationship itself — centuries of shared, entangled history generated its own local mythology. **Confirmed 2026-07-05:** Zukelli is also one of the Tepenian cities whose libraries openly welcome smuggled Upper Earth books, part of a broader national practice (also confirmed at Janbogo and Esperanza).
 - **Crafts & material culture:** Food-adjacent craft (tableware, communal-space furnishing) held real cultural weight, an Italian sensibility that treated the objects of hospitality as worth making well.
 
 ---

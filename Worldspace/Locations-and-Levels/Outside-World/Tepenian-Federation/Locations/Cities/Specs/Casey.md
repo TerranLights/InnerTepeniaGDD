@@ -103,7 +103,7 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 - **Seasonal maritime access:** the sea ice cycle directly determined Casey's supply windows and visitor patterns; the city's destruction and its timing in the war should be considered in relation to whether Upper Earth forces arrived by sea
 - **Hardcore Mode influences:**
   - Cold exposure is significant but not at Concordia's extreme; travelers arriving from Upper Earth (or from Palmer City's milder Peninsula climate) would experience Casey as genuinely cold; travelers from Concordia might find it relatively mild
-  - The junction position means supply chain mechanics pass through Casey — in any Hardcore Mode scenario where external supply is tracked, Casey's destruction removes the Hwy 2/DCH connection and forces reliance solely on Janbogo/Hwy 183
+  - The junction position means supply chain mechanics pass through Casey — in any Hardcore Mode scenario where external supply is tracked, Casey's destruction blocks Hwy 2/DCH entirely (the route runs directly through Casey), severing Dumont d'Urville's overland connection outright rather than just lengthening it; Hwy 110 (Concordia ↔ Mirny/coastal chain) is the only through-route that survives intact *(corrected 2026-07-05)*
 
 ---
 
@@ -125,6 +125,8 @@ This transit character shaped Casey's culture into something pragmatic and open.
 
 **Nationally known for:** Being the last city before Concordia — and, during the war, the last place refugees could resupply, rest, and confirm the route before committing to the inland drive. Also for the Wilkes Station ruins nearby, which were a minor historical curiosity throughout Casey's existence.
 
+**Developer vision, established 2026-07-05:** A genuinely bustling city, not just a waystation. Its centerpiece is **Splinters**, on the old peninsula — Tepenia's largest, most famous bar, a full city block with a stage, a dance floor, and rows of seating along the flanks and rear, hosting a massive Classic Rock/Jazz/Blues/Acoustic Folk music scene. Splinters' fame extends along the whole Dumont d'Urville Sea and Indian Ocean coastline, carried outward the same way everything about Casey travels — by the constant flow of people passing through. The name is a piece of rediscovered history: residents found records referencing the real, historical "Splinters," the actual social bar at the pre-exile Casey Station, and revived it. Full detail in `Local_Cultures/Mirny_Subnet/Casey.md`.
+
 ---
 
 ## Economy & Industry
@@ -139,6 +141,7 @@ The Australian founding infrastructure included research and scientific capacity
 
 - **The Hwy 110 / Hwy 2 junction** — the defining geographic fact of Casey; the point where the inland route and the coastal route diverge; functioned as a literal decision point for travelers in both directions
 - **Wilkes Station ruins** — the pre-exile American research station a few kilometers from Casey; a historical site predating Tepenia; never a Tepenian city; one of the few physical remnants of the pre-exile world in the Mirny subnet area
+- **Splinters** — established 2026-07-05; the largest, most famous bar in Casey, a full city block on the old peninsula, with a stage, dance floor, and seating along the flanks and rear; named after the real, historical bar at the pre-exile Casey Station, rediscovered in old records; famous along the whole Dumont d'Urville Sea and Indian Ocean coastline
 - Additional named locations: TBD
 
 ---
@@ -161,7 +164,7 @@ Casey was the last coastal city on the route to Concordia — separated from it 
 
 Casey was destroyed during the Long Night War. Timing within the war is TBD — whether it was an early casualty (given its accessible coastal position and strategic value as the Hwy 110/Hwy 2 junction) or whether it survived longer than other coastal cities (given its less exposed position compared to the more northerly Peninsula cities) has not been established.
 
-The destruction of Casey severed the Hwy 2/DCH corridor's direct connection to Hwy 110, eliminating what had been the overland route between the Dumont d'Urville coast and Concordia. After Casey's fall, any traveler from the Dumont d'Urville area reaching Concordia by land would have needed to go through Janbogo (Hwy 183), a substantially longer route.
+**Corrected 2026-07-05:** the destruction of Casey severed Hwy 2/DCH itself, not just its connection to Hwy 110 — Hwy 2 passes directly through Casey, so the route is blocked at the source, not merely disconnected from the onward network. This rules out the previous "reroute via Janbogo/Hwy 183" workaround entirely: reaching Janbogo from the Dumont d'Urville side would still require traveling Hwy 2 through Casey's ruins first, so that alternate path was never actually available. The real consequence is that Hwy 110 (Concordia ↔ Mirny/coastal chain) is the only through-route that survives Casey's destruction intact — Dumont d'Urville's overland connection to the rest of the network is genuinely severed, not merely lengthened.
 
 The ruins exist on the Budd Coast. Whether Wilkes Station ruins survived the war in any meaningful sense alongside the city ruins is TBD.
 
@@ -171,7 +174,7 @@ The ruins exist on the Budd Coast. Whether Wilkes Station ruins survived the war
 
 Casey is not a city that Concordia residents tell stories about the way they tell stories about Palmer City. It was a transit city — present in the memory of everyone who passed through it, but not the destination anyone was trying to reach. Its legacy in Concordia is quiet: the people who remember it tend to remember it as the last place they stopped before the drive to Concordia, the last time they saw open water before committing to the interior.
 
-The closure of the Hwy 2/DCH corridor after Casey's destruction is an ongoing practical fact that affects the Mirny subnet region's connectivity with Concordia. Anyone traveling from the Dumont d'Urville coast to Concordia now goes the long way around.
+The closure of Hwy 2/DCH after Casey's destruction is an ongoing practical fact that affects the whole Dumont d'Urville coast's connectivity to the rest of Tepenia. **Corrected 2026-07-05:** there is no "long way around" — Hwy 2 runs directly through Casey, so its destruction blocks the route at the source rather than merely disconnecting it, and there's no alternate overland path to Janbogo or anywhere else that doesn't also require passing through Casey first. Dumont d'Urville's overland connection is genuinely severed, not lengthened.
 
 ---
 

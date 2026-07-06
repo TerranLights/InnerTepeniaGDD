@@ -116,6 +116,8 @@ The Australian Antarctic Division culture — practical, research-focused, with 
 
 **Nationally known for:** The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. The John King Davis name — the enabler rather than the explorer.
 
+**Developer vision, established 2026-07-05:** A working city first — mining (from quarries toward the South Pole direction, a separate source from Mirny's own similarly-directioned quarries), fabrication, manufacturing, and general industry make up the clear majority of daily activity, with the founding research heritage now a smaller (if still genuine) part of city life. Large enough to support a small arts and music community. Most non-work time goes to bars, eateries, and general social establishments. Davis's libraries are also genuinely welcoming toward books smuggled out of Upper Earth — though this turns out to be part of a broader Tepenian practice, not unique to Davis; Zukelli, Janbogo, and Esperanza are confirmed to do the same, and Sanay is a likely (unconfirmed) candidate. Full detail in `Local_Cultures/Mirny_Subnet/Davis.md`.
+
 ---
 
 ## Economy & Industry

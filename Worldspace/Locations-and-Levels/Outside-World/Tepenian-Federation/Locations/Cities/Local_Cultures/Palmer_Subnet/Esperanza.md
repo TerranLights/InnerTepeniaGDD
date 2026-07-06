@@ -140,7 +140,7 @@ Family and community music dominate — lullabies and children's songs carried f
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Domestic and community-oriented — murals in shared spaces, children's art displayed with real civic pride, a visual culture that treats the ordinary artifacts of family life as worth preserving and displaying.
-- **Literature:** A strong oral storytelling tradition aimed at children — origin stories about Esperanza itself, about the first birth, about the founding compact, told and retold as a way of transmitting civic identity generation to generation.
+- **Literature:** A strong oral storytelling tradition aimed at children — origin stories about Esperanza itself, about the first birth, about the founding compact, told and retold as a way of transmitting civic identity generation to generation. **Confirmed 2026-07-05:** Esperanza is also one of the Tepenian cities whose libraries openly welcome smuggled Upper Earth books, part of a broader national practice (also confirmed at Zukelli and Janbogo).
 - **Crafts & material culture:** Handmade children's items — toys, clothing, keepsakes — are treated with unusual seriousness as craft objects, made to be kept and passed down rather than treated as disposable.
 
 ---
