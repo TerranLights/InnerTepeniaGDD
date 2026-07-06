@@ -252,7 +252,7 @@ Given the city's absolute isolation and tiny population, becoming a local at Sig
 
 ## 30. Significant Local Events
 
-- **The Long Night War** — Signy took no direct damage at all, overlooked entirely by Upper Earth's targeting due to sheer remoteness and peripheral status — a genuinely different survival mechanism from Rothera's decentralization, Port Lockroy's misidentification, or Aboa's strategic irrelevance: simply too far away and too marginal to be worth the trip in the first place, not merely deprioritized.
+- **The Long Night War** — Signy took no direct damage at all, overlooked entirely by Upper Earth's targeting due to sheer remoteness and peripheral status — a genuinely different survival mechanism from Rothera's decentralization, Port Lockroy's misidentification, or Abowasa's strategic irrelevance: simply too far away and too marginal to be worth the trip in the first place, not merely deprioritized.
 - **The post-war siligel shortage** — the one real consequence the war still produced: with subnet supply lines cut, Signy's robot population has no local siligel source, even as its human population sustains itself indefinitely on the Scotia Sea's marine resources. A strong candidate DLC 3 questline hook — not yet designed further.
 
 ---

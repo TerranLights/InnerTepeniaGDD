@@ -53,7 +53,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 | Neumayer | Neumayer Station III | Germany | Halley ("Atlantic") | ~ Damaged / Partially operational |
 | Sanay | Sanae IV Station | South Africa | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Troll | Troll Base | Norway | Halley ("Atlantic") | ~ Damaged / Partially operational |
-| Aboa | Aboa Station | Finland | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
+| Abowasa | Aboa Station + Wasa Research Station | Finland + Sweden | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed"; renamed from "Aboa" 2026-07-05 — see `Specs/Abowasa.md`)* |
 | Lazar *(formerly "Maitri" placeholder)* | Novolazarevskaya Station (Russia) + Maitri Station site | Russia / non-Indian | Halley ("Atlantic") | ~ Damaged / Partially operational |
 | Princess Elisabeth | Princess Elisabeth Station | Belgium | Halley ("Atlantic") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged/Partially operational")* |
 

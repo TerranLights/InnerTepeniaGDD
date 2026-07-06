@@ -199,7 +199,7 @@ Filtered through the layered founding — some residents' relationship runs thro
 
 - **Belgrano:** Direct Hwy 7 neighbor to the southwest; both Halley subnet cities, though Belgrano's own trajectory (survived the war, declined after) diverges sharply from Halley's continuous operation.
 - **Amundsen Station:** Connected via Hwy 59, which also carries the Arcanet cable — the single most strategically critical corridor in the subnet, linking Halley to the South Pole relay before the Split Brain severed it.
-- **The rest of the Halley subnet coast:** Hub relationship to Neumayer, Troll, Aboa, Sanay, Princess Elisabeth, and Maitri via Hwy 7's coastal run.
+- **The rest of the Halley subnet coast:** Hub relationship to Neumayer, Troll, Abowasa, Sanay, Princess Elisabeth, and Maitri via Hwy 7's coastal run.
 
 ---
 

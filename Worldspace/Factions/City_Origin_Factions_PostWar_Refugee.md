@@ -86,7 +86,7 @@ A second, related divide: **"staying is loyalty"** versus **"staying is just wha
 
 ## The Question of the Unbroken Name — Destroyed City Internal Politics
 
-**Origin cities:** All four destroyed/ruined communities — Zukelli, Belgrano, Palmer City, Casey — each face this question independently *(corrected 2026-07-05 — Soyuz was removed from this faction; it was never actually destroyed or ruined. Soyuz was reclassified 2026-07-03 from "Destroyed" to damaged/partially operational, effectively co-located with its neighbor Zhongshan, but this faction's own text was never updated to match — see `Specs/Soyuz.md` and `TODO.md`. Soyuz is a normal damaged-but-functional city, like Troll, Neumayer, Aboa, or Sanay, not a member of this displaced/refugee category at all.)*
+**Origin cities:** All four destroyed/ruined communities — Zukelli, Belgrano, Palmer City, Casey — each face this question independently *(corrected 2026-07-05 — Soyuz was removed from this faction; it was never actually destroyed or ruined. Soyuz was reclassified 2026-07-03 from "Destroyed" to damaged/partially operational, effectively co-located with its neighbor Zhongshan, but this faction's own text was never updated to match — see `Specs/Soyuz.md` and `TODO.md`. Soyuz is a normal damaged-but-functional city, like Troll, Neumayer, Abowasa, or Sanay, not a member of this displaced/refugee category at all.)*
 
 Every destroyed-city community eventually confronts the same question, on their own timeline, in their own way: when does a person stop being "from Zukelli" (or Belgrano, or Palmer City, or Casey) and become simply Tepenian?
 

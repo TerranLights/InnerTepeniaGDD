@@ -43,7 +43,7 @@ Sanay sits on Vesleskarvet, a nunatak in the Ahlmannryggen range — rocky outcr
 
 ## 4. Seasonal Rhythms
 
-Sanay's polar night (~88 days) and midnight sun (~89 days) sit in the middle of the subnet's range — less extreme than Aboa's interior severity, milder than Halley's exposed coastal position. The city's real defining rhythm isn't seasonal at all, though — it's the ongoing, unglamorous work of maintaining a damaged-but-functioning community, a rhythm shared with most of its subnet neighbors rather than unique to itself.
+Sanay's polar night (~88 days) and midnight sun (~89 days) sit in the middle of the subnet's range — less extreme than Abowasa's interior severity, milder than Halley's exposed coastal position. The city's real defining rhythm isn't seasonal at all, though — it's the ongoing, unglamorous work of maintaining a damaged-but-functioning community, a rhythm shared with most of its subnet neighbors rather than unique to itself.
 
 ---
 
@@ -197,7 +197,7 @@ Filtered through the South African founding community's own history, layered aga
 
 ## 23. Relationship to Other Cities
 
-- **Aboa (west) and Troll (east):** Direct Hwy 7 neighbors; part of the same damaged-but-functioning corridor of Halley subnet communities.
+- **Abowasa (west) and Troll (east):** Direct Hwy 7 neighbors; part of the same damaged-but-functioning corridor of Halley subnet communities.
 - **Neumayer:** Not a direct highway neighbor, but the likely source of the German demographic influence that makes Sanay's composition unique in the subnet.
 - **Troll specifically:** Sanay's own continued function is part of what makes the contested control of Troll Airfield matter — a subnet with several struggling communities depends more heavily on that one working runway than a subnet with one exceptional safe haven would.
 

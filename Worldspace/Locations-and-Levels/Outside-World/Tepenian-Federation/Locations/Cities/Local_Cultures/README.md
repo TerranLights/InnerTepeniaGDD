@@ -41,7 +41,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Halley | Surviving |
 | Neumayer | Surviving |
 | Troll | Surviving |
-| Aboa | Surviving *(corrected 2026-07-03 from "Destroyed" — resolved as damaged/partially operational, matching Halley/Neumayer/Troll's own status)* |
+| Abowasa | Surviving *(corrected 2026-07-03 from "Destroyed" — resolved as damaged/partially operational, matching Halley/Neumayer/Troll's own status)* |
 | Sanay | Surviving *(corrected 2026-07-03 from "Destroyed" — resolved as damaged/partially operational, matching the rest of the subnet's status)* |
 | Princess Elisabeth | Destroyed *(Long Night War — finalized 2026-07-03, ruins with straggling survivors; see `Specs/Princess_Elisabeth.md`)* |
 | Lazar | Surviving *(damaged; partially operational — finalized 2026-07-03, formerly "Maitri_TBD"; see `Specs/Lazar.md`)* |

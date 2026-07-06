@@ -57,7 +57,7 @@ post-launch or community localization rather than day-one.
 | **Indonesian** | Not a traditional PC/Steam priority market (mobile-first), but worth noting: Indonesia shows up as a Significant or Notable-tier nation in an unusually large number of Tepenian cities across the Ross Sea, Mirny, and Mawson subnets — a genuine, if unplanned, thematic pattern in the census data. |
 | **Turkish** | Common indie/mid-size Steam localization target independent of thematic ties; regional pricing market. |
 | **Ukrainian** | Market and thematic consideration. |
-| **Norwegian / Finnish** | Thematic ties (Troll/Norway, Aboa/Finland) but small markets with very high English fluency — commonly skipped even by studios that do localize those regions' *content*. |
+| **Norwegian / Finnish** | Thematic ties (Troll/Norway, Abowasa/Finland) but small markets with very high English fluency — commonly skipped even by studios that do localize those regions' *content*. |
 
 ---
 

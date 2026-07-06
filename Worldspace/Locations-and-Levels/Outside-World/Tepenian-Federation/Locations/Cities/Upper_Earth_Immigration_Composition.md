@@ -89,7 +89,7 @@ Three factors combined:
 | Cape Town, South Africa | Queen Maud Land, Weddell Sea | South Africa, European Atlantic nations, Argentina/Brazil via South Atlantic |
 | Christchurch / Lyttelton (NZ) | Ross Sea | New Zealand, USA, Australia, East Asian Pacific route |
 | Hobart / Fremantle (Australia) | East Antarctic Indian Ocean coast | Australia, Japan, Indonesia/SE Asia, China, South Korea |
-| Cape Town → Novo airfield (Russia-operated) | QML interior (Troll, Aboa, Princess Elisabeth, Lazar area) | South Africa, European nations by intercontinental air |
+| Cape Town → Novo airfield (Russia-operated) | QML interior (Troll, Abowasa, Princess Elisabeth, Lazar area) | South Africa, European nations by intercontinental air |
 | Punta Arenas → Union Glacier (Chile) | South Pole direct | Chile, Argentina, private air operators |
 
 ---
@@ -239,15 +239,15 @@ Three factors combined:
 
 ---
 
-### Aboa *(Vestfjella nunataks, ~73°03'S 13°25'W)*
+### Abowasa *(Vestfjella nunataks, ~73°03'S 13°25'W)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **USA** | 155M Gini-adjusted effective |
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Brazil** (17M) | Same Cape Town/Novo cluster as Troll |
-| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Aboa's UTC-1); Finland and Sweden are founding operator nations at Aboa — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
+| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Abowasa's UTC-1); Finland and Sweden are founding operator nations at Abowasa — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
 
-*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective but the Finnish-Swedish co-founding character of Aboa is geographically supported. Their founding wave arrival via Novo set Aboa's initial identity.*
+*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective but the Finnish-Swedish co-founding character of Abowasa is geographically supported. Their founding wave arrival via Novo set Abowasa's initial identity.*
 
 ---
 
@@ -668,7 +668,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 14 | **Juan Carlos** | Palmer | 848,000 | 848,000 | **1,695,000** |
 | 15 | **Bharati_TBD** | Mirny *(corrected 2026-07-05, moved from Mawson)* | 843,000 | 843,000 | **1,686,000** |
 | 16 | **Soyuz** *(this table's "destroyed" tag is stale — Soyuz was corrected 2026-07-03 to damaged/partially operational; see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05, moved from Mawson)* | 838,000 | 838,000 | **1,675,000** |
-| 17 | **Aboa** | Halley | 809,000 | 809,000 | **1,617,000** |
+| 17 | **Abowasa** | Halley | 809,000 | 809,000 | **1,617,000** |
 | 18 | **Davis** | Mirny | 805,000 | 805,000 | **1,611,000** |
 | 19 | **Mirny** | Mirny | 790,000 | 790,000 | **1,579,000** |
 | 20 | **Marambio** | Palmer | 751,000 | 751,000 | **1,502,000** |
@@ -723,7 +723,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 The Gini-adjusted tier calculation distributes exiles mathematically without regard for the physical carrying capacity of the locations. Eleven cities are on islands — from the vast ice sheet of King George Island to the real-world 40m × 20m footprint of Goudier Island. The revised census below caps each island city at a semi-comfortable population for its actual land area (generous for sci-fi vertical construction, still constrained by ocean boundaries and harsh climate logistics), and redistributes the overflow to the nearest eligible mainland/ice-shelf coastal cities within ±3 solar time zones.
 
 **Redistribution methodology:**
-- Overflow from each island city flows only to mainland coastal or ice-shelf cities (not to other islands, not to interior cities like Troll, Aboa, Sanay, or the South Pole)
+- Overflow from each island city flows only to mainland coastal or ice-shelf cities (not to other islands, not to interior cities like Troll, Abowasa, Sanay, or the South Pole)
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
 - Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%), **Framheim** (7.5%), **Little America** (7.5%)
 - DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%), **Framheim/Little America** (2.5% each)
@@ -768,7 +768,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 14 | Princess Elisabeth | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
 | 15 | **Belgrano** *(ruins, DLC 5)* | Halley | 408K | **854K** | **1,708K** | Mainland coast; absorbs Peninsula island overflow |
 | 16 | Soyuz *(this table's "destroyed" tag is stale — see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05)* | 838K | 838K | 1,675K | Mainland coast; no change |
-| 17 | Aboa | Halley | 809K | 809K | 1,618K | Inland; no change |
+| 17 | Abowasa | Halley | 809K | 809K | 1,618K | Inland; no change |
 | 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
 | 19 | Troll | Halley | 750K | 750K | 1,501K | Inland; no change |
 | 20 | **Framheim** | Byrd | 573K | **686K** | **1,371K** | Ice shelf; receives Ross Is. + DdU overflow |
@@ -887,7 +887,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 15 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
 | 16 | Soyuz | Mirny *(corrected 2026-07-05)* | 521,255 | **1,073,601** | *(this table's "destroyed" tag is stale — see `Specs/Soyuz.md`)* |
 | 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
-| 18 | Aboa | Halley | 508,243 | **1,042,458** | |
+| 18 | Abowasa | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
 | — | ~~Framheim~~ | ~~Byrd~~ | ~~430,488~~ | ~~884,682~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | — | ~~Little America~~ | ~~Byrd~~ | ~~425,052~~ | ~~862,581~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
@@ -1045,7 +1045,7 @@ Eleven cities were identified as sitting on actual islands with binding physical
 - **Marambio** (Seymour Island, ~133 km²): capped at 585,000 combined
 - **Sejong** (King George Island, ~1,300 km²): capped at 650,000 combined
 
-The overflow from these caps — roughly 5.24 million humans at the 3% rate — was redistributed to mainland coastal and ice-shelf cities within ±3 time zones. Interior cities (Troll, Aboa, Sanay, Princess Elisabeth, Amundsen) were excluded as redistribution targets because inland infrastructure cannot absorb mass population without independent logistical support that isn't assumed in this model. Other islands also cannot receive overflow.
+The overflow from these caps — roughly 5.24 million humans at the 3% rate — was redistributed to mainland coastal and ice-shelf cities within ±3 time zones. Interior cities (Troll, Abowasa, Sanay, Princess Elisabeth, Amundsen) were excluded as redistribution targets because inland infrastructure cannot absorb mass population without independent logistical support that isn't assumed in this model. Other islands also cannot receive overflow.
 
 The practical effect of this redistribution was dramatic. **Esperanza** — the only city on the actual Antarctic mainland Peninsula coast — absorbed 50% of all Peninsula island overflow and grew from a modest ~363,000 to over a million humans, becoming the dominant Peninsula city. **Janbogo**, on the Terra Nova Bay mainland coast, absorbed the combined overflow from the Ross Sea islands and from Dumont d'Urville, growing to become the single largest city in all of Tepenia.
 
@@ -1138,7 +1138,7 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 15 | Princess Elisabeth | Halley | 401,403 | **766,762** | |
 | 16 | Bharati_TBD | Mirny *(corrected 2026-07-05)* | 336,124 | **728,324** | |
 | 17 | Troll | Halley | 323,650 | **671,832** | |
-| 18 | Aboa | Halley | 310,791 | **607,441** | |
+| 18 | Abowasa | Halley | 310,791 | **607,441** | |
 | — | ~~Framheim~~ | ~~Byrd~~ | ~~248,865~~ | ~~604,953~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | — | ~~Little America~~ | ~~Byrd~~ | ~~304,422~~ | ~~555,739~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | 21 | Sejong | Palmer | 234,304 | **514,070** | *(island cap)* |

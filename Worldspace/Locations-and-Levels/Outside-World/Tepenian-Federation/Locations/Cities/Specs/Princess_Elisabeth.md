@@ -70,7 +70,7 @@
 
 Princess Elisabeth sits on Utsteinen nunatak, a rocky ridge in the Sør Rondane Mountains of Queen Maud Land — a dramatic range of exposed rock peaks rising above the surrounding ice plateau. The site itself is not sheltered by that terrain; the real station this city is based on is built directly against the Utsteinen ridge specifically because it's exposed to gales of up to 300 km/h, and survives only through deliberate aerodynamic design and foundations anchored meters deep into the permafrost. Nothing about the location protects it passively — everything about its survival was, and had to be, actively engineered.
 
-The eastern position in Queen Maud Land — longitude 23°21'E — puts Princess Elisabeth significantly east of the other Halley subnet cities clustered between 14°W and 12°E. It is geographically closer to Dome Fuji (39°42'E) than to Troll or Aboa, though still within the Halley subnet.
+The eastern position in Queen Maud Land — longitude 23°21'E — puts Princess Elisabeth significantly east of the other Halley subnet cities clustered between 14°W and 12°E. It is geographically closer to Dome Fuji (39°42'E) than to Troll or Abowasa, though still within the Halley subnet.
 
 The station was designed by the International Polar Foundation as the first zero-emissions Antarctic station: wind and solar power, no fossil fuels, zero waste discharge. That founding philosophy — that a human presence here should leave no mark — was inseparable from the site's brutal exposure: the city could only exist here at all because of continuous, deliberate engineering effort. When the Long Night War came, that same dependency became the city's undoing. Whatever combination of direct attack and infrastructure failure actually destroyed Princess Elisabeth, the underlying vulnerability was always the same one that had always defined it: nothing here survives on its own.
 
@@ -159,7 +159,7 @@ Halley subnet. The eastern position gave Princess Elisabeth the closest geograph
 
 *(Finalized 2026-07-03 — see "A Note on This File's History" above for the full reasoning.)*
 
-Princess Elisabeth was destroyed during the Long Night War. Unlike Sanay's bedrock resilience or Aboa's small-scale fortune, Princess Elisabeth had no passive advantage — its entire existence depended on continuously maintained engineering, and once that engineering was compromised (by direct attack, infrastructure failure, or both — TBD for DLC 5), nothing protected what remained. The ruins are explorable: loot, data and audio logs, and other sources of lore are present throughout, alongside a small population of straggling survivors who stayed rather than fled, who can anchor questline content. Exact circumstances of the destruction, and who exactly remains among the ruins, are TBD for DLC 5 design.
+Princess Elisabeth was destroyed during the Long Night War. Unlike Sanay's bedrock resilience or Abowasa's small-scale fortune, Princess Elisabeth had no passive advantage — its entire existence depended on continuously maintained engineering, and once that engineering was compromised (by direct attack, infrastructure failure, or both — TBD for DLC 5), nothing protected what remained. The ruins are explorable: loot, data and audio logs, and other sources of lore are present throughout, alongside a small population of straggling survivors who stayed rather than fled, who can anchor questline content. Exact circumstances of the destruction, and who exactly remains among the ruins, are TBD for DLC 5 design.
 
 ---
 

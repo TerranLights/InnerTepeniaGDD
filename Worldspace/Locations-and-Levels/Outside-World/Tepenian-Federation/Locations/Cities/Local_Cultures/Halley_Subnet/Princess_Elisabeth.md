@@ -31,7 +31,7 @@
 
 The International Polar Foundation's Princess Elisabeth Antarctica station — opened in 2009, the most recently built of all the real-world stations Tepenia's founding cities were built on — was designed from its inception as the first zero-emissions Antarctic station: wind and solar power, no fossil fuels, zero waste discharge. Belgian exiles inherited that infrastructure and, more importantly, inherited the design philosophy behind it. The idea that a human presence in Antarctica should leave no mark wasn't environmental policy tacked onto the city later — it was the literal architecture the exile community built into from day one.
 
-What made Princess Elisabeth's later demographic story unlike its neighbors' was pure geography: its position, at 23°21'E, sits meaningfully east of the rest of the Halley subnet's cities, closer to Dome Fuji and the Mawson subnet's Indian Ocean coast than to Troll or Aboa. Over the generations that followed, this eastern position drew immigration from two directions simultaneously — the usual Atlantic-side American current that reshaped the whole subnet, and a genuinely distinct Indian Ocean/eastern-approach Japanese current that no other Halley subnet city experienced in any comparable strength. Belgium's founding population, small from the start, was eventually outpaced by both currents rather than just one.
+What made Princess Elisabeth's later demographic story unlike its neighbors' was pure geography: its position, at 23°21'E, sits meaningfully east of the rest of the Halley subnet's cities, closer to Dome Fuji and the Mawson subnet's Indian Ocean coast than to Troll or Abowasa. Over the generations that followed, this eastern position drew immigration from two directions simultaneously — the usual Atlantic-side American current that reshaped the whole subnet, and a genuinely distinct Indian Ocean/eastern-approach Japanese current that no other Halley subnet city experienced in any comparable strength. Belgium's founding population, small from the start, was eventually outpaced by both currents rather than just one.
 
 ---
 
@@ -250,7 +250,7 @@ Becoming a local at Princess Elisabeth means genuinely embracing the city's cros
 
 ## 30. Significant Local Events
 
-- **The Long Night War destruction** — Princess Elisabeth was destroyed; unlike Sanay's bedrock resilience or Aboa's small-scale fortune, the city had no passive advantage to fall back on once its zero-emissions systems were compromised. A small population of straggling survivors remains among the ruins. Exact circumstances of the destruction are TBD for DLC 5 — see `Specs/Princess_Elisabeth.md` for the full reasoning, including a candidate questline around restoring the ruined zero-emissions power systems.
+- **The Long Night War destruction** — Princess Elisabeth was destroyed; unlike Sanay's bedrock resilience or Abowasa's small-scale fortune, the city had no passive advantage to fall back on once its zero-emissions systems were compromised. A small population of straggling survivors remains among the ruins. Exact circumstances of the destruction are TBD for DLC 5 — see `Specs/Princess_Elisabeth.md` for the full reasoning, including a candidate questline around restoring the ruined zero-emissions power systems.
 
 ---
 
