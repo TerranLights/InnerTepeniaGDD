@@ -165,7 +165,7 @@ This section and the city's culture are effectively the same thing, given the po
 
 - **Ice Cold Buddhism** (placeholder name) is not merely dominant here — it is, functionally, the entire reason the city has a population at all. Dome Fuji is one of the faith's two primary sacred sites (the other being Kunlun), venerating extreme cold as the closest living approximation to superconducting conditions.
 - Whatever secular or scientific philosophy the founding Japanese research community held is now, at best, a minority historical footnote rather than a living presence.
-- Distinct from Kunlun's own version of the same faith: Kunlun's devotee population is entirely, coincidentally, ethnically Chinese (via an unrelated population-reclassification event), giving that city's religious character an accidental national uniformity Dome Fuji's genuinely multinational population doesn't share. Dome Fuji may be the truer expression of the faith's own stated indifference to national origin.
+- **Re-resolved 2026-07-06:** Kunlun's own devotee population is no longer single-nation — its 2026-07-06 re-resolution replaced the earlier "entirely Chinese" reclassification with a genuinely multinational, curated space/astronomy/comms-heritage population, the same general shape as Dome Fuji's own. Both sites now express the faith's stated indifference to national origin in comparable ways, rather than Dome Fuji being the sole "truer" expression.
 
 ---
 
@@ -199,7 +199,7 @@ Likely filtered through the religion's own philosophy rather than expressed as r
 
 ## 23. Relationship to Other Cities
 
-- **Kunlun:** The other primary Ice Cold Buddhism site, and Dome Fuji's closest analog — but a genuine contrast in composition (Kunlun exclusively Chinese by a separate population event, Dome Fuji genuinely multinational). The theological relationship between the two sites — rival, complementary, hierarchical — is TBD and could be a meaningful piece of the religion's own internal structure.
+- **Kunlun:** The other primary Ice Cold Buddhism site, and Dome Fuji's closest analog — **re-resolved 2026-07-06:** no longer a composition contrast, since Kunlun's own population is now genuinely multinational too (a curated space/astronomy/comms-heritage draw, rather than Dome Fuji's broader universal draw). The theological relationship between the two sites — rival, complementary, hierarchical — is TBD and could be a meaningful piece of the religion's own internal structure.
 - **Mawson:** The subnet hub; Dome Fuji's Arcanet connection runs there, though the physical distance and interior plateau crossing make the relationship more institutional than lived.
 - **Concordia:** Among the most indirect relationships of any surviving city — different subnet, deep interior, effectively unreachable by road. Concordia knows Dome Fuji exists; its current status, including its total demographic transformation, is not necessarily known there.
 - **Every contributing city:** In a very literal sense, every one of the ~34 cities that contributed to Dome Fuji's 2026-07-04 population redistribution has a small, direct demographic thread running to Dome Fuji — a devotee who left. Whether this registers as a known relationship or an untracked, invisible one in daily civic awareness elsewhere is open.

@@ -3,7 +3,7 @@
 **Based on:** Mario Zucchelli Station (Italy), Terra Nova Bay, Victoria Land, Ross Sea (~74°41'S, 164°07'E)
 **Status:** Destroyed
 **Arcanet Subnet:** Janbogo
-**Highway access:** Shared access with Janbogo via the Terra Nova Bay coastal road network; Hwy 183 southward to Concordia via Janbogo
+**Highway access:** **Corrected 2026-07-06** — like Janbogo, Zukelli is reached via a **connecting road off Hwy 183** (the Janbogo Highway), not a direct main-line stop — shared access via the Terra Nova Bay coastal road network. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Neighbor of Janbogo — the two cities shared Terra Nova Bay, approximately 8km apart *(corrected 2026-07-03 from ~10km — GPS coordinate calculation against the map)*; one survived the Long Night War and one did not; the proximity of Zukelli's ruins to a living city is unique in Tepenia
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible
 

@@ -6,7 +6,7 @@
 **Tepenian city name:** TBD — will be a Japanese name, to be developed; working title "Japanese Diplomatic Partition (cf. Bharati)" until then
 **Status:** Damaged; partially operational *(corrected 2026-07-03 — this header field was left stale after the Larsemann Hills cluster status fix; the resolution itself, alongside Soyuz and Zhongshan, was already correctly reflected in the census and tracking files — see `Specs/Soyuz.md`'s "Larsemann Hills Cluster Status Note" for the full reasoning)*
 **Arcanet Subnet:** Mirny *(corrected 2026-07-05 — real-world geography places the Larsemann Hills cluster far closer to Davis (~110km, Mirny subnet) than to Mawson Station (~570km); Bharati and Soyuz move to Mirny to join Zhongshan, already assigned there. Highways unaffected — Hwy 4 remains a physical road regardless of Arcanet subnet boundaries, matching existing precedent at Sanay/Halley and Concordia/Janbogo. See `TODO.md`.)*
-**Highway access:** TBD — Larsemann Hills; part of the Prydz Bay cluster with Soyuz and Zhongshan; same immediate vicinity
+**Highway access:** **Resolved 2026-07-06** — this city is **Hwy 4's eastern terminus** (the Mawson-Soyuz Highway: Sayowa → Mawson → Soyuz → here), sitting at a tri-junction connecting directly to both Hwy 110's and Hwy 22's endpoints, at the same physical location as Zhongshan and Soyuz. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Part of the Larsemann Hills Prydz Bay cluster alongside Soyuz and Zhongshan; the Bharati Station physical infrastructure (built by India pre-exile) was present but unoccupied when the exile era began; **resolved 2026-07-03: a Japanese founding population settled here via a deliberate diplomatic decision of the International Court of Diplomacy at Jeju-do** (see Founding, below) — not an organic real-station inheritance like Sayowa's, but an institutionally engineered founding, the only one of its kind in Tepenia
 **DLC:** Mirny subnet — DLC 7 (Mirny Region) *(corrected 2026-07-05, moved from DLC 4/Mawson)*; damaged but partially operational
 
@@ -40,39 +40,45 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | Japan *(founding population — Jeju-do diplomatic allocation; re-tiered 2026-07-06)* |
+| Significant | Australia, Russia *(founding wave)*, South Korea, China, Germany |
+| Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections I-III. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Originally de-stacked 2026-07-05. **Re-derived 2026-07-06 in two rounds, during this city's City Vision Notes session.** Round 1: the standard population/GDP-based tiering had put China at Primary despite this being the one city in Tepenia specifically, deliberately allocated to Japan by pre-exile diplomatic decision (see Founding Resolution Note, above). That sat oddly against the city's own founding story, so the developer directed a specific correction: China's share moved to what UK's share had been (5.68%), Japan's share absorbed China's old share plus Indonesia's and Malaysia's shares entirely (both removed from the table), and UK was removed outright. The resulting gap needed to reach 100% again was added entirely to Japan, landing at 36.27%. China's tier demoted from Primary to Significant to match its new, much smaller share. Round 2: a direct, hand-specified transfer — 1.5 points moved from South Korea to China. Sums to exactly 100%. See Founding Population Re-Resolution, below, for the full reasoning.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 19.05% | 114,637 | 109,804 | 74,705 | 64,024 |
-| Significant | South Korea | 9.39% | 56,500 | 54,117 | 36,819 | 31,554 |
-| Significant | Indonesia | 9.35% | 56,292 | 53,918 | 36,683 | 31,438 |
-| Significant | Australia | 8.76% | 52,726 | 50,502 | 34,359 | 29,447 |
-| Significant | Russia | 8.61% | 51,822 | 49,637 | 33,770 | 28,942 |
-| Significant | UK | 5.68% | 34,156 | 32,716 | 22,258 | 19,076 |
-| Significant | Germany | 4.93% | 29,686 | 28,434 | 19,345 | 16,579 |
-| Notable | Romania | 3.54% | 21,287 | 20,390 | 13,872 | 11,889 |
-| Notable | Malaysia | 3.41% | 20,546 | 19,680 | 13,389 | 11,475 |
-| Significant | Japan | 3.28% | 19,742 | 18,909 | 12,865 | 11,025 |
-| Notable | Vietnam | 3.16% | 19,005 | 18,204 | 12,385 | 10,614 |
-| Notable | Ukraine | 3.11% | 18,694 | 17,905 | 12,182 | 10,440 |
-| Notable | Belarus | 3.00% | 18,084 | 17,321 | 11,784 | 10,100 |
-| Notable | Thailand | 2.99% | 17,984 | 17,226 | 11,719 | 10,044 |
-| Notable | New Zealand | 2.97% | 17,867 | 17,114 | 11,644 | 9,979 |
-| Notable | Lithuania | 1.76% | 10,576 | 10,130 | 6,892 | 5,906 |
-| Notable | South Africa | 1.66% | 9,966 | 9,545 | 6,494 | 5,566 |
-| Notable | Bulgaria | 1.60% | 9,654 | 9,247 | 6,291 | 5,392 |
-| Notable | Latvia | 1.35% | 8,113 | 7,771 | 5,287 | 4,531 |
-| Notable | Estonia | 1.22% | 7,372 | 7,061 | 4,804 | 4,117 |
-| Notable | Philippines | 1.19% | 7,138 | 6,837 | 4,651 | 3,986 |
+| Primary | Japan | 36.27% | 218,289 | 209,085 | 142,251 | 121,912 |
+| Significant | Australia | 8.76% | 52,722 | 50,499 | 34,359 | 29,447 |
+| Significant | Russia | 8.61% | 51,819 | 49,634 | 33,770 | 28,942 |
+| Significant | South Korea | 7.89% | 47,485 | 45,483 | 30,945 | 26,520 |
+| Significant | China | 7.18% | 43,212 | 41,390 | 28,160 | 24,134 |
+| Significant | Germany | 4.93% | 29,671 | 28,420 | 19,345 | 16,579 |
+| Notable | Romania | 3.54% | 21,305 | 20,407 | 13,872 | 11,889 |
+| Notable | Vietnam | 3.16% | 19,018 | 18,216 | 12,385 | 10,614 |
+| Notable | Ukraine | 3.11% | 18,717 | 17,928 | 12,182 | 10,440 |
+| Notable | Belarus | 3.00% | 18,055 | 17,294 | 11,784 | 10,100 |
+| Notable | Thailand | 2.99% | 17,995 | 17,236 | 11,719 | 10,044 |
+| Notable | New Zealand | 2.97% | 17,875 | 17,121 | 11,644 | 9,979 |
+| Notable | Lithuania | 1.76% | 10,592 | 10,146 | 6,892 | 5,906 |
+| Notable | South Africa | 1.66% | 9,991 | 9,569 | 6,494 | 5,566 |
+| Notable | Bulgaria | 1.60% | 9,630 | 9,224 | 6,291 | 5,392 |
+| Notable | Latvia | 1.35% | 8,125 | 7,782 | 5,287 | 4,531 |
+| Notable | Estonia | 1.22% | 7,342 | 7,033 | 4,804 | 4,117 |
+
+*Indonesia and UK removed from this table entirely (their shares transferred to Japan or dropped, per the re-derivation above). Sums to exactly 100%.*
+
+## Founding Population Re-Resolution (2026-07-06)
+
+This city's original per-nation breakdown (above, superseded) used the project's standard population/GDP-based tiering — the same method applied to any East Antarctic coastal city — which put China at Primary tier (19.05%) with Japan, the city's actual, deliberately-allocated founding nation, buried in Significant tier at just 3.28%. That sat in real tension with the Founding Resolution Note above: the entire point of the Jeju-do court's decision was to prevent China's regional demographic pull from defaulting into a third claim in this cluster, and the standard method had that exact outcome happen anyway.
+
+The developer resolved this with a specific, surgical correction rather than a full re-derivation: Japan's share absorbed China's original share plus Indonesia's and Malaysia's shares (both nations removed from the table entirely); China's share dropped to UK's original value; UK was removed outright; and the resulting shortfall needed to bring the total back to exactly 100% was added entirely to Japan. The result (Round 1): Japan solidly Primary at 36.27%, China demoted to Significant at 5.68% — reflecting that the diplomatic allocation actually held over 130+ years of exile, rather than the regional Chinese population overwhelming it as the standard method implied.
+
+**Round 2:** A direct, hand-specified transfer — 1.5 points moved from South Korea to China. **Final: South Korea 7.89%, China 7.18%.** Sums to exactly 100%.
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
@@ -105,13 +111,14 @@ Founding population resolved (Japanese, via Jeju-do diplomatic allocation) — f
 ---
 
 ## Economy & Industry
-Larsemann Hills oasis resources, Prydz Bay maritime access, cluster economy with Soyuz and Zhongshan. Full detail TBD for DLC 4.
+Larsemann Hills oasis resources, Prydz Bay maritime access, cluster economy with Soyuz and Zhongshan. **Vision session, 2026-07-06:** education is a genuine economic pillar in its own right — this city's schools draw students from across Tepenia, not primarily for academic ranking but for the culture and soul of the place itself. Full detail TBD for DLC 4.
 
 ---
 
 ## Notable Locations
 - **The Bharati Station physical infrastructure** — the 2010s-era Indian-built station design, repurposed by a non-Indian founding community
 - **Larsemann Hills terrain** — ice-free oasis, meltwater lakes, Prydz Bay access (shared with Soyuz)
+- **The downtown gallery district — vision session, 2026-07-06:** sculptures, murals, statues, and other constructed art populate every district, densest in the downtown core; clean, orderly streets throughout make the whole city read like an outdoor gallery as much as a functioning city
 - Additional locations: TBD
 
 ---

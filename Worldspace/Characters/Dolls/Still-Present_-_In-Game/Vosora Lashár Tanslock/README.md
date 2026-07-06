@@ -142,6 +142,7 @@ See `Personal_Background/` for timeline and detailed records.
 
 - **Mechanical synergies:** High Calculation and Investigation companion; likely provides bonuses to data-related checks, hacking, information gathering. Specific perks TBD.
 - **Replayability:** The four questline endings produce substantially different political landscapes; "The Wrong Answer" in particular may lock or unlock specific other questlines depending on what she found.
+- **Flagged 2026-07-06:** Vosora has some personal connection to Kunlun (Mirny subnet), exact nature not yet determined — see `Specs/Kunlun.md` Open Questions for the cross-reference. Worth developing once Kunlun's own lore or Vosora's questline is further along.
 
 ### Dual-Outcome Companion Perk — Four-Branch Structure *(established 2026-07-03, subject to review at actual design & development)*
 

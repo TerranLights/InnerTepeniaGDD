@@ -3,8 +3,8 @@
 **Based on:** Kunlun Station (China / CHINARE), Dome A (Dome Argus), East Antarctic Plateau (~80°25'S, 77°07'E)
 **Status:** Survived — extreme altitude; most marginal survival of any Tepenian city
 **Arcanet Subnet:** Mirny ("Australian")
-**Highway access:** None confirmed; ~1,200km+ from the nearest Mirny subnet coastal city; the highest and one of the most isolated locations in Tepenia
-**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation; the Sinian Federation's only *exclusively* Sinian city *(clarified 2026-07-03 — Zhongshan is also a genuine Sinian/Chinese-founded city, so "only Sinian city" isn't accurate; Kunlun's real distinction is being the only Tepenian city with a purely, exclusively Sinian population, unlike Zhongshan's broader multinational composition)*
+**Highway access:** **Corrected 2026-07-06** — Kunlun sits on **Hwy 37 (the Mountain Cut Throughway)**, the East Antarctic plateau route running Sayowa → Vostok → Kunlun → Concordia (see `City_Relationship_Database.md`); direct highway neighbors are Vostok (one direction) and Concordia (other direction). This had been missed in this file despite being established canon elsewhere. Kunlun remains ~1,200km+ from Mirny, its own Arcanet subnet's nearest coastal city — Hwy 37 runs in a different direction entirely and does not reach the Mirny subnet coast.
+**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation. **Re-resolved 2026-07-06:** Kunlun is no longer characterized as "exclusively Sinian" — per the developer's explicit direction that founding-nation identity isn't the point of this project, there was no real reason for Kunlun to be artificially collapsed into one nationality. Kunlun's real distinguishing feature now is that it's a deliberately curated **astronomy-and-comms population**, drawn specifically from Tepenian nations with genuine real-world space/astronomy/communications heritage — the only Tepenian city whose composition reflects a specific professional/scientific lineage rather than founding-operator history or population/GDP weighting. See Founding Population Resolution, below.
 **Population:** 0 humans / 123,449 robots (Census I) — resolved 2026-07-04, Kunlun's first population figures; see Founding Population Resolution, below
 **DLC:** Mirny subnet — extreme altitude and isolation make it a potential endpoint destination rather than a transit location; whether reachable in gameplay is a major design question
 
@@ -12,24 +12,45 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 0 humans / 123,449 robots / **123,449** combined *(entirely robot, entirely Chinese)*
+**Census I (Pre-Orbital Era):** 0 humans / 123,449 robots / **123,449** combined *(entirely robot; re-resolved 2026-07-06 as a curated astronomy/comms-heritage population — no longer entirely Chinese)*
 **Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
 
 | Tier | Nations |
 |------|---------|
-| Primary | China *(exclusively)* |
-| Significant | *(none)* |
-| Notable | *(none)* |
+| Primary | USA, Russia, China |
+| Significant | Canada, Japan, UK, Intermarium/Intermaria, Italy, South Korea, Germany, France |
+| Notable | New Zealand, Argentina, Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections I-III. Tiering re-derived 2026-07-06 around genuine real-world space/astronomy/communications heritage rather than population or GDP — see Founding Population Resolution, below.*
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
+*(Re-derived 2026-07-06, replacing the previous "100% Chinese" figure. Applies the project's standard T1=8/T2=3/T3=1 share-weighting method, tiered by space/astronomy/comms significance rather than population/GDP, then de-stacked per the project's usual randomized method so same-tier nations don't show identical percentages. Verified: sums exactly to the Census I robot total.)*
+
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
-| Primary | China | 100.00% | 123,449 |
+| Primary | USA | 15.43% | 19,053 |
+| Primary | China | 15.22% | 18,789 |
+| Primary | Russia | 11.45% | 14,136 |
+| Significant | Canada | 7.19% | 8,879 |
+| Significant | Japan | 6.75% | 8,334 |
+| Significant | UK | 6.48% | 7,999 |
+| Significant | Intermarium/Intermaria | 6.38% | 7,882 |
+| Significant | Italy | 5.26% | 6,497 |
+| Significant | South Korea | 4.05% | 4,996 |
+| Significant | Germany | 3.33% | 4,116 |
+| Significant | France | 2.65% | 3,276 |
+| Notable | New Zealand | 2.47% | 3,045 |
+| Notable | Argentina | 2.44% | 3,012 |
+| Notable | Sweden | 2.37% | 2,921 |
+| Notable | Australia | 2.35% | 2,900 |
+| Notable | Chile | 2.14% | 2,636 |
+| Notable | Norway | 1.75% | 2,166 |
+| Notable | Spain | 1.16% | 1,431 |
+| Notable | South Africa | 1.07% | 1,319 |
+| Notable | Netherlands | 0.05% | 62 |
 
-*No de-stacking applicable — unlike Dome Fuji, Kunlun's robot population is exclusively Chinese with no other nation present in any tier, so there is nothing to redistribute.*
+*Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometre Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).*
 
 
 ---
@@ -40,7 +61,7 @@ Dome A — Dome Argus — is the highest point on the Antarctic Ice Sheet, at ap
 
 At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. **Resolved 2026-07-05** (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline"): no human population has survived at Kunlun, and human presence is now outright forbidden — not out of any anti-human sentiment, but as a genuine safety measure, since the combined altitude and cold would kill a human where a robot is unaffected. Kunlun is 0 humans / 123,449 robots today by settled protective policy, not by ambiguous attrition.
 
-The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kunlun as its only *exclusively* Sinian Antarctic city *(Zhongshan is also Sinian-founded, but its population is broadly multinational rather than exclusive)*, making it the sole purely Sinian representative of one of the largest cultural communities in Tepenia at a location that can barely support a permanent population.
+**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence (the real-world CHINARE founding heritage), but sits alongside the USA and Russia as one of three space-superpower nations, with a further sixteen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above.
 
 ### Annual Climate
 
@@ -95,15 +116,17 @@ The Sinian Federation — Tepenia's Sinian (Chinese) exile community — has Kun
 
 **Settled:** Post-Falkland Treaty, on the Kunlun Station infrastructure — the last major Antarctic station established before the first global war, operational since 2009. By 2564, it was relatively young as Antarctic stations went, but established.
 
-## Founding Population Resolution (2026-07-04)
+## Founding Population Resolution (originally 2026-07-04; re-resolved 2026-07-06)
 
-Kunlun's population was resolved via a deliberate redistribution: a small percentage (0.1%–0.8%, randomly generated per city) was drawn from every Tepenian city except Concordia, pooled together, and added to Kunlun entirely as robots and entirely reclassified as Chinese, regardless of each contributor's original nationality — unlike the parallel Dome Fuji redistribution, which preserved original nationality. This gives Kunlun a clean, single-nation population (123,449, 0 humans / 123,449 robots) consistent with its established identity as the only *exclusively* Sinian Tepenian city.
+**Original method (superseded):** Kunlun's population was first resolved via a deliberate redistribution — a small percentage (0.1%–0.8%, randomly generated per city) drawn from every Tepenian city except Concordia, pooled together, and added to Kunlun entirely as robots and entirely reclassified as Chinese, regardless of each contributor's original nationality.
 
-**Open question this raises, not yet resolved:** Kunlun's own established lore (see Character & Culture, below) already frames its population as devout "Ice Cold Buddhism" pilgrims drawn from across Tepenia — implying a genuinely multinational devotee community, similar to how Dome Fuji's own resolution actually played out. But this redistribution reclassified everyone as Chinese, which doesn't obviously square with a multinational pilgrimage population. Whether Kunlun's population is *also* meant to be understood as pilgrims (just ones who happen to all register as Chinese post-reclassification), or whether the pilgrimage framing belongs to Dome Fuji alone and Kunlun's population is something else entirely, is unresolved — worth revisiting.
+**Re-resolved 2026-07-06:** following the project's broader move away from national-identity-as-decoration (see `feedback_no_national_stereotypes`), there was no real reason for Kunlun to be artificially collapsed into one nationality. Kunlun's population (still 123,449 robots, 0 humans — the total is unchanged) has been rebuilt around its **actual specialist function**: Kunlun is, first and foremost, an astronomy site, and secondarily a communications relay taking advantage of the plateau's exceptionally thin, stable atmosphere to stay in contact with orbital structures. Its population is now drawn specifically from the 19 Tepenian nations with genuine real-world space, astronomy, or communications heritage, tiered by the depth of that heritage (see Population & Composition, above, for the full breakdown and rationale) — a specialist, self-selected population rather than a demographic accident.
+
+**This also resolves a standing open question:** the earlier "100% Chinese" resolution sat awkwardly against Kunlun's own established identity as a devout "Ice Cold Buddhism" pilgrimage site (see Character & Culture, below), which implied a genuinely multinational devotee community. A multinational, space/astronomy-heritage population fits that pilgrimage framing far better than a single-nation one — the site draws both the scientifically self-selected (astronomers, comms specialists, their descendants) and the religiously devoted, and the population composition above should be read as the settled outcome of both threads over centuries, not one to the exclusion of the other.
 
 ---
 
-**Founding population:** Sinian (Chinese) exiles — Kunlun is the only Tepenian city with an *exclusively* Sinian founding population *(Zhongshan also has a Sinian/Chinese founding-operator heritage, but a broadly multinational overall composition — Kunlun's real distinction is exclusivity, not being the sole Sinian-connected city)*, making it the sole purely-Sinian outpost of the Sinian Federation's exile community on the Antarctic continent. The founding community arrived with a specific scientific and cultural mission and discovered almost immediately that the altitude was going to be the defining constraint of everything they did.
+**Founding population:** Chinese (CHINARE) exiles founded and named the station, but **re-resolved 2026-07-06:** Kunlun's exile community was never realistically going to stay single-nation once the site's actual function as Tepenia's premier astronomy-and-comms outpost took hold — scientists, astronomers, and communications specialists with the relevant professional lineage arrived from across Tepenia's own space-heritage nations (see Population & Composition, above), making Kunlun a specialist outpost defined by its function rather than by any one founding nation. The founding community arrived with a specific scientific and cultural mission and discovered almost immediately that the altitude was going to be the defining constraint of everything they did.
 
 The name was kept.
 
@@ -113,7 +136,7 @@ The name was kept.
 
 Kunlun's culture is the culture of people who chose to live somewhere they could barely live, and who kept choosing it across generations. The altitude effects were known before the founding — the historical record from the 2009 station was available — but the exile community chose this site anyway. What they came for was the science, the isolation, the sky, and perhaps the specific character of a location that demanded everything from its residents.
 
-The Sinian cultural inheritance at Kunlun carries particular weight: it is the only *exclusively* Sinian Tepenian city, making it the custodian of a purer, more concentrated strain of Sinian exile cultural continuity than Zhongshan's own more broadly multinational Sinian-founded community can offer. The pressure of that responsibility, at a location that challenges survival itself, gives Kunlun's cultural character a specific kind of intensity.
+**Re-resolved 2026-07-06:** Kunlun's cultural inheritance is no longer defined by Sinian exclusivity. Its real character comes from being a specialist outpost — a community whose ancestry traces to Tepenia's own space, astronomy, and communications heritage nations, drawn together by function rather than nationality. That shared professional lineage, layered onto a location that challenges survival itself, gives Kunlun's cultural character a specific kind of intensity: less about any one national identity, more about the particular temperament of people (and their robot descendants) who came for the sky and the signal, and stayed.
 
 **Resolved 2026-07-05:** Kunlun has no human population and none is possible — human presence is forbidden as a protective safety measure (altitude + cold would be fatal), not from any anti-human sentiment. See Population & Composition, above.
 
@@ -146,11 +169,13 @@ Astronomy, ice core science, and whatever the extreme altitude and isolation cou
 
 ## Connection to Concordia
 
-*Corrected 2026-07-04: this section previously claimed Kunlun is "in the Mirny subnet alongside Concordia" with an Arcanet link routing through Mirny. Concordia is actually a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception — there is no route from Kunlun to Concordia through Mirny or otherwise.*
+*Corrected 2026-07-04: this section previously claimed Kunlun is "in the Mirny subnet alongside Concordia" with an Arcanet link routing through Mirny. Concordia is actually a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception — there is no informational route from Kunlun to Concordia through Mirny or otherwise.*
 
-Kunlun is in the Mirny subnet — Concordia isn't. The overland distance from Kunlun to Mirny (its nearest actual subnet city) exceeds 1,200km across the interior plateau, making even *intra*-subnet contact theoretical at best. Concordia's knowledge of Kunlun is limited to whatever was recorded before the war; there is no live connection of any kind, informational or otherwise.
+*Further corrected 2026-07-06: the claim below that there is "no live connection of any kind, informational or otherwise" was wrong on the physical side. Kunlun sits directly on **Hwy 37 (the Mountain Cut Throughway)**, which runs Sayowa → Vostok → Kunlun → Concordia — a real, physical highway link straight to Concordia, despite the two cities belonging to different Arcanet subnets. This is the same pattern already established for Soyuz's Hwy 110 connection to Concordia (see `project_mirny_concordia_subnet_bug` precedent): the Arcanet link is severed, but the physical highway is not.*
 
-The Sinian community in Concordia — if one exists — carries whatever connection to Kunlun that can be maintained across the isolation. Whether there is a Sinian diaspora community in Concordia, and what their relationship to Kunlun is, is TBD.
+Kunlun is in the Mirny subnet — Concordia isn't, and the Planetary Split Brain severed the *informational* Arcanet connection between them without exception. But Hwy 37 gives Kunlun a genuine physical highway link straight to Concordia, running through Vostok. Kunlun remains ~1,200km+ from Mirny, its own Arcanet subnet's nearest coastal city, in a completely different direction — so the isolation from Mirny specifically still holds, even though the isolation from Concordia does not.
+
+The Sinian community in Concordia — if one exists — has a real, physical route by which contact with Kunlun could plausibly still occur, unlike the pure informational silence assumed under the old framing. Whether there is a Sinian diaspora community in Concordia, and what their relationship to Kunlun is, is TBD — but it's no longer safe to assume total physical isolation as the default answer.
 
 ---
 
@@ -173,6 +198,7 @@ Kunlun's legacy is the observatory and the question of what Kunlun's residents h
 - **The cold record** — does Kunlun hold or contest the absolute cold record with Vostok? Satellite measurements suggest −93°C is possible at Dome A; whether this has been recorded at the surface station in Tepenia is TBD
 - **The Sinian diaspora in Concordia** — is there a Sinian community in Concordia, and what is their relationship to Kunlun?
 - **Sinian Federation — general development** — the broader Sinian Federation is deliberately underdeveloped (see TODO.md); Kunlun's characterization deepens once the Sinian Federation has more lore
-- **Reachability** — can a player reach Kunlun in any DLC content?
+- **Reachability — resolved 2026-07-06:** yes, reserved for the **Mirny DLC (DLC 7)**. The route in is via Vostok (Hwy 37 makes this the natural approach). **Primary hook:** Vostok's geneticist character (Doll) discovers something in Lake Vostok's ancient, 15–25-million-year-isolated ecosystem significant enough that it needs to be transmitted somewhere Kunlun's comms infrastructure can reach (orbital structures) — Kunlun is the *only* Tepenian city with that capability, making the Vostok→Kunlun leg a mandatory, plot-critical journey rather than optional exploration. **Secondary, optional threads the player can pursue alongside the main hook:** (a) the "two loneliest outposts" relationship — Vostok and Kunlun are each other's only realistic neighbor on Hwy 37, and may have an established informal bond (courier, supply tradition, or a specific relationship between named people at each site) worth developing as ambient world-texture; (b) a possible scientific echo between Lake Vostok's ancient ecosystem and Kunlun's centuries of undisturbed astronomical data — two different "preserved by isolation" mysteries that may intersect; (c) Vosora Lashár Tanslock's still-undetermined connection to Kunlun (see below) may turn out to route through Vostok specifically. All three secondary threads are optional content, not required to complete the main hook.
 - **Demonym** — TBD (Kunlunites? something Sinian-inflected?)
 - **Notable figures** — TBD
+- **Vosora Lashár Tanslock's connection to Kunlun** — flagged 2026-07-06; the developer has established that Vosora has some personal connection to Kunlun, exact nature not yet determined. See Vosora's own character file for the cross-reference; worth developing once Kunlun's own lore (and/or Vosora's questline) is further along.

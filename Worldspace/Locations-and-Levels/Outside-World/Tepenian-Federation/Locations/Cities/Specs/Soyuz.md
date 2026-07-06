@@ -1,10 +1,10 @@
 # Soyuz
 
 **Based on:** Progress Station (Russia / Arctic and Antarctic Research Institute), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E)
-**Tepenian name:** Soyuz — named after the Soyuz spacecraft and program, one of the most enduring symbols of Russian space-age achievement; the founding exile community chose to honor this legacy
+**Tepenian name:** Soyuz — named after the Soyuz spacecraft and program, one of the most enduring symbols of Russian space-age achievement; the founding exile community chose to honor this legacy. **Flagged for eventual renaming, 2026-07-06:** following the population re-derivation above (South Korea now the dominant Primary-tier nation at 29.74%), the developer intends to eventually rename this city to something Korean, rather than keep the Russian-derived "Soyuz." No replacement name chosen yet — placeholder "Soyuz" remains in force until one is picked.
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates (69°22'S, 76°22'E), only a few hundred meters apart in reality; one being destroyed while the other was merely damaged made no physical sense. Resolved alongside Zhongshan and the Japanese city (cf. Bharati) as all three "damaged, yet functional" — see the Larsemann Hills Cluster Status Note below.)*
 **Arcanet Subnet:** Mirny *(corrected 2026-07-05 — the developer determined real-world geography places the Larsemann Hills cluster, ~110km from Davis, much closer to the Mirny subnet's own Prydz Bay anchor than to Mawson Station (~570km away); Soyuz and Bharati move to Mirny to join Zhongshan, already assigned there. See `TODO.md` for the full reasoning. Highway network implications for Hwy 4/Hwy 110 not yet resolved — flagged separately.)*
-**Highway access:** TBD — Larsemann Hills position; part of the Prydz Bay cluster alongside Zhongshan and the Japanese city (cf. Bharati); highway network reorganization pending following the subnet reassignment
+**Highway access:** **Resolved 2026-07-06** (closes the "Hwy 4/Hwy 110 implications not yet resolved" flag from 2026-07-05) — Soyuz is on **Hwy 4 (the Mawson-Soyuz Highway)**, between Mawson and the ex-Bharati Japanese city: Sayowa → Mawson → Soyuz → (ex-Bharati). See `Locations/Infrastructure/Highways.md`.
 **Significance:** Tepenian city in the Prydz Bay / Larsemann Hills cluster; named for the Soyuz spacecraft program; one of the densest multi-city clusters in Tepenia alongside Zhongshan and the Japanese city founded via Jeju-do diplomatic allocation (cf. Bharati); the Arctic and Antarctic Research Institute's operational heritage; Larsemann Hills ice-free oasis terrain (similar to the Schirmacher Oasis in the Halley subnet, though smaller)
 **DLC:** Mirny subnet — DLC 7 (Mirny Region) *(corrected 2026-07-05, moved from DLC 4/Mawson)*; damaged but partially operational
 
@@ -23,40 +23,47 @@ Soyuz, Zhongshan, and the Japanese city (cf. Bharati) all sit within the same sm
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | South Korea *(re-tiered 2026-07-06, strengthened further same day)* |
+| Significant | China, Japan, Germany, Russia *(founding operator heritage — share reduced 2026-07-06)*, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Estonia, Hungary, Lithuania, Malaysia, Vietnam, Philippines, Bulgaria, Latvia, South Africa |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections I-III. Re-derived 2026-07-06, in three rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Originally de-stacked 2026-07-05. **Re-derived 2026-07-06 in three rounds, during this city's City Vision Notes session.** Round 1 — same underlying issue as Bharati's own re-resolution (see `Specs/Bharati_TBD.md`): the standard population/GDP-based tiering put China at Primary in a city with no particular Chinese founding claim, while Russia — the actual founding-operator nation (Progress Station) — sat diluted in Significant tier. The developer's fix boosted **South Korea** instead of Russia: UK removed entirely, its share transferred to China (demoting China from Primary to Significant); China's old share transferred to South Korea, stacked on top of Korea's own existing share, making Korea the new Primary-tier nation at 29.74%; Russia's own share left untouched throughout. Romania swapped for Hungary at the same share value. Round 2 — Ukraine and Belarus both removed entirely, their combined shares (3.15% + 1.73%) added directly to South Korea, bringing it to 34.62%. Round 3 — a direct, hand-specified transfer: 3.0 points moved from Russia to Japan. This is the one point in this whole cluster-wide exercise where Russia's founding-operator share was actually touched, and it moved *down*, not up. Sums to exactly 100%.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 19.51% | 107,348 | 101,306 | 87,890 | 85,435 |
-| Significant | South Korea | 10.22% | 56,247 | 53,081 | 46,052 | 44,765 |
-| Significant | Russia | 9.85% | 54,216 | 51,164 | 44,389 | 43,149 |
-| Significant | UK | 9.74% | 53,608 | 50,590 | 43,891 | 42,665 |
-| Significant | Germany | 8.64% | 47,526 | 44,850 | 38,911 | 37,824 |
-| Significant | Japan | 4.78% | 26,295 | 24,815 | 21,529 | 20,927 |
-| Significant | Indonesia | 4.41% | 24,264 | 22,898 | 19,866 | 19,311 |
-| Notable | Thailand | 3.65% | 20,065 | 18,935 | 16,428 | 15,969 |
-| Significant | Australia | 3.57% | 19,633 | 18,528 | 16,075 | 15,625 |
-| Notable | Estonia | 3.52% | 19,387 | 18,296 | 15,873 | 15,429 |
-| Notable | Romania | 3.43% | 18,884 | 17,821 | 15,461 | 15,029 |
-| Notable | Ukraine | 3.15% | 17,322 | 16,347 | 14,182 | 13,786 |
-| Notable | Lithuania | 3.11% | 17,105 | 16,142 | 14,005 | 13,614 |
-| Notable | Malaysia | 2.93% | 16,111 | 15,205 | 13,191 | 12,823 |
-| Notable | Vietnam | 1.95% | 10,726 | 10,122 | 8,781 | 8,536 |
-| Notable | Philippines | 1.77% | 9,732 | 9,184 | 7,968 | 7,745 |
-| Notable | Belarus | 1.73% | 9,515 | 8,979 | 7,790 | 7,573 |
-| Notable | Bulgaria | 1.45% | 7,953 | 7,505 | 6,512 | 6,330 |
-| Notable | Latvia | 1.35% | 7,450 | 7,031 | 6,100 | 5,929 |
-| Notable | South Africa | 1.23% | 6,772 | 6,391 | 5,545 | 5,390 |
+| Primary | South Korea | 34.62% | 190,465 | 179,744 | 155,942 | 151,585 |
+| Significant | China | 9.74% | 53,585 | 50,569 | 43,873 | 42,647 |
+| Significant | Japan | 7.78% | 42,802 | 40,393 | 35,044 | 34,065 |
+| Significant | Germany | 8.64% | 47,534 | 44,858 | 38,918 | 37,831 |
+| Significant | Russia | 6.85% | 37,686 | 35,565 | 30,855 | 29,993 |
+| Significant | Indonesia | 4.41% | 24,262 | 22,896 | 19,864 | 19,309 |
+| Notable | Thailand | 3.65% | 20,081 | 18,950 | 16,441 | 15,982 |
+| Significant | Australia | 3.57% | 19,641 | 18,535 | 16,081 | 15,631 |
+| Notable | Estonia | 3.52% | 19,366 | 18,276 | 15,855 | 15,412 |
+| Notable | Hungary | 3.43% | 18,870 | 17,808 | 15,450 | 15,018 |
+| Notable | Lithuania | 3.11% | 17,110 | 16,147 | 14,009 | 13,617 |
+| Notable | Malaysia | 2.93% | 16,120 | 15,212 | 13,198 | 12,829 |
+| Notable | Vietnam | 1.95% | 10,728 | 10,124 | 8,784 | 8,538 |
+| Notable | Philippines | 1.77% | 9,738 | 9,190 | 7,973 | 7,750 |
+| Notable | Bulgaria | 1.45% | 7,977 | 7,528 | 6,531 | 6,349 |
+| Notable | Latvia | 1.35% | 7,427 | 7,009 | 6,081 | 5,911 |
+| Notable | South Africa | 1.23% | 6,767 | 6,386 | 5,540 | 5,386 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+
+## Founding Population Re-Resolution (2026-07-06, three rounds)
+
+Soyuz's original per-nation breakdown (above, superseded) used the project's standard population/GDP-based tiering, which put China at Primary tier (19.51%) in a city with no Chinese founding claim at all — Russia (Progress Station) was the actual founding-operator nation, sitting diluted at Significant tier (9.85%).
+
+**Round 1:** Unlike Bharati's own re-resolution the same day (which boosted the founding nation, Japan, directly), the developer's fix here instead made **South Korea** the new dominant nation: UK was removed entirely, its 9.74% share transferred to China (demoting China from Primary to Significant); China's old 19.51% share was then transferred to South Korea, stacked on top of Korea's own existing 10.22%, making Korea the new Primary-tier nation at 29.74%. Russia's own founding-operator share was left completely untouched throughout (9.85%, unchanged). Romania was also swapped for Hungary at the same share value (3.43%), unrelated to the demographic fix. A 0.01-point rounding gap was closed by adding it to South Korea.
+
+**Round 2:** Ukraine and Belarus were both removed entirely, their combined old shares (3.15% + 1.73% = 4.88%) added directly to South Korea, bringing it to 34.62%. This round closed evenly with no rounding gap — removing two full shares and reassigning them whole, rather than replacing one nation's share with a smaller one, avoids the kind of shortfall the earlier rounds needed to patch.
+
+**Round 3:** A direct, hand-specified transfer — 3.0 points moved from Russia to Japan. Notably, this is the one adjustment across the entire Larsemann Hills cluster rework where Russia's own founding-operator share was actually touched, and it moved down rather than up: **Russia 6.85%, Japan 7.78% final.** Sums to exactly 100%.
 
 ---
 
@@ -117,7 +124,7 @@ The Soyuz name — forward-looking, technologically proud — suggested a commun
 ---
 
 ## Economy & Industry
-Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster economy among the three nearby cities produced. **Established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** Soyuz, or a location near it, has its own functional airstrip — smaller and less advanced than Troll's, but real. For a substantial stretch of Tepenian history, this airstrip flew supplies directly to Dome Fuji, working alongside a parallel, separate route flown from Troll (Halley subnet) — two direct aviation lines converging on one of Tepenia's most isolated cities, not a relay chain. **Duration resolved 2026-07-05, left deliberately loose:** the route began sometime after Dome Fuji's pilgrimage resettlement (which itself came after Dome Fuji's original founding population departed post-Falkland Treaty) and ran until the Long Night War — no exact start date pinned. Full further detail TBD for DLC 4.
+**Revised 2026-07-06 (vision session):** heavy industrial fabrication is Soyuz's real dominant industry — raw materials trucked in from Davis (via the Zhongshan tri-junction), fabricated into finished goods. Most significantly, Soyuz is one of a handful of Tepenian cities that manufactures **"fabrication-synthesis chambers"** (placeholder name) — the actual apparatus that creates robots. These chambers are shipped nationwide from Soyuz and the other cities that produce them, meaning a robot can be built in any Tepenian city regardless of local manufacturing capability — a foundational, Federation-wide piece of infrastructure hiding behind Soyuz's otherwise modest political profile. Beyond that: Larsemann Hills oasis resources, Prydz Bay maritime access, whatever the cluster economy among the three nearby cities produced. **Established 2026-07-04, during a Troll developer-vision session (see `Cities/City_Vision_Notes/Troll.md`):** Soyuz, or a location near it, has its own functional airstrip — smaller and less advanced than Troll's, but real. For a substantial stretch of Tepenian history, this airstrip flew supplies directly to Dome Fuji, working alongside a parallel, separate route flown from Troll (Halley subnet) — two direct aviation lines converging on one of Tepenia's most isolated cities, not a relay chain. **Duration resolved 2026-07-05, left deliberately loose:** the route began sometime after Dome Fuji's pilgrimage resettlement (which itself came after Dome Fuji's original founding population departed post-Falkland Treaty) and ran until the Long Night War — no exact start date pinned. Full further detail TBD for DLC 4.
 
 ---
 

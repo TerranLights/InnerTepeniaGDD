@@ -2,8 +2,8 @@
 
 ---
 
-**Subnet:** Mirny ("Australian") — theoretical connection only; ~1,260km overland from Mirny across the East Antarctic Plateau with no established road infrastructure
-**Status:** Survived — effectively unreachable; alive in the most technical sense only
+**Subnet:** Mirny ("Australian") — Arcanet connection theoretical only; ~1,260km overland from Mirny across the East Antarctic Plateau with no established road infrastructure in that direction. **Corrected 2026-07-06:** Vostok does have a real highway, Hwy 37 (the Mountain Cut Throughway), running Dome Fuji → Kunlun → Vostok → Concordia — it just doesn't reach Mirny or the Mirny subnet coast, which lies in a different direction entirely.
+**Status:** Survived — extremely remote, though less "effectively unreachable" than previously framed now that Hwy 37 is confirmed to run directly through Vostok
 **Census Population:** 129,617 humans / 259,644 robots / 389,261 combined (Census I, rank 26th) — figures established 2026-07-03, Vostok's first-ever population data, via the Framheim/Little America redistribution, later adjusted 2026-07-04 for the Kunlun/Dome Fuji redistribution
 **Location:** East Antarctic Plateau, near the Southern Pole of Inaccessibility (~78°28'S, 106°52'E), 3,488m elevation
 
@@ -77,7 +77,7 @@ Vostok's identity is built on a genuine split: the city's *reputation* (Russian,
 ## 7. Who This City Attracts
 
 - **The type this city draws:** originally, per the founding story, people for whom extreme isolation and cold were acceptable conditions rather than hardships. The current population didn't "draw" here in that sense at all — they arrived via redistribution, which raises the question of who, if anyone, chooses to come to Vostok today, and why.
-- **The type this city repels:** anyone unprepared for the single most extreme cold in Tepenia and total supply isolation — 1,260km of overland crossing with no waypoints, no resupply, no road.
+- **The type this city repels:** anyone unprepared for the single most extreme cold in Tepenia — whether approaching via the 1,260km trackless crossing from Mirny (no waypoints, no resupply, no road) or via the real but still extreme Hwy 37 route through Kunlun or Dome Fuji.
 
 ---
 
@@ -93,6 +93,8 @@ Vostok's identity is built on a genuine split: the city's *reputation* (Russian,
 ## 9. Architecture
 
 Built on Vostok Station's original Soviet/Russian infrastructure — one of the longest continuously operated Antarctic stations on Earth, dating to 1957. Whatever the current population has done with, added to, or left untouched about that Russian institutional architecture is a meaningful open question — do they maintain it as inherited infrastructure, or has it been reshaped by a population with no particular attachment to its origins?
+
+**Vision session, 2026-07-06:** Whatever the exterior heritage, the interior tells a different story — huge sections of the city are given over entirely to genetics research: labs upon labs running experimentation on gene and allele combinations, floor after floor of it. Where Kunlun's interior reads as one enormous distributed astronomical instrument, Vostok's reads as one enormous distributed genetics laboratory, built around Lake Vostok's ancient biology the way Kunlun's is built around the sky.
 
 ---
 
@@ -149,11 +151,13 @@ TBD.
 
 With robots outnumbering humans roughly 2-to-1 (259,644 to 129,617), and a population whose own arrival story has nothing to do with Vostok's founding circumstances, human-robot relations here are likely shaped more by shared present-day isolation and survival necessity than by any long, specific institutional history — a notably different dynamic from cities where the human-robot relationship has centuries of continuous, place-specific development behind it.
 
+**Vision session, 2026-07-06 — a genuine schedule divide, not a social one.** Vostok's humans mostly keep to a day/night rhythm (flexible for some), the way most human populations do. Its robots keep none at all — like Kunlun's population, Vostok's robots don't think of the research as "work" so much as simply what their life is. A robot works until whatever task is in front of it is done, then goes into the city to socialize (with humans and other robots alike), rest, and eventually return to the labs for the next task — no fixed hours, no shared "shift end." The two populations run on genuinely different clocks, but share the same physical spaces once the day's/task's work is done.
+
 ---
 
 ## 17. Robot-Specific Culture
 
-TBD — genuinely underdeveloped in current canon, though the same displaced-population dynamic that shapes every other section here would apply.
+**Vision session, 2026-07-06:** Task-driven rather than schedule-driven, per Section 16 — a robot's day is organized around whatever genetics experiment is currently running, not around clock time. Socializing happens in the gaps between tasks rather than at a fixed "end of shift," which means Vostok's social life has no predictable daily rhythm the way a human-scheduled city's would — there's always some robot finishing a task and coming out to socialize, at any hour. Close in spirit to Kunlun's own robot culture (work experienced as identity, not labor), but built around genetics rather than astronomy, and lived alongside a substantial human population rather than in an all-robot city.
 
 ---
 
@@ -194,10 +198,10 @@ TBD — the founding Russian community's relationship to Upper Earth would have 
 ## 23. Relationship to Other Cities
 
 - **Mirny:** The nominal subnet hub, though the 1,260km overland distance makes the connection almost entirely theoretical, per `Specs/Vostok.md`.
-- **Sayowa:** Connected via Hwy 37, the critical inland route linking Sayowa (Mawson subnet) through Vostok to Kunlun and ultimately Concordia — one of Vostok's few concrete physical connections to the rest of Tepenia.
-- **Kunlun:** The other end of Hwy 37's inland traverse — also 100% robot-adjacent in Kunlun's case (though Vostok itself retains a substantial human population, unlike Kunlun), and also a site whose Ice Cold Buddhism significance Vostok itself does not share.
+- **Kunlun:** Connected via Hwy 37, the critical inland route — **corrected 2026-07-06:** the actual order is Dome Fuji → Kunlun → Vostok → Concordia, so Kunlun sits directly adjacent to Vostok on the highway (Sayowa and Dome Fuji lie beyond Kunlun in the other direction). Kunlun is also 100% robot (Vostok itself retains a substantial human population), and a site whose Ice Cold Buddhism significance Vostok itself does not share. **Established 2026-07-06 — this is Vostok's most important relationship, gameplay-wise:** Vostok is the launch point for the Mirny DLC's Kunlun content. Doll, Vostok's geneticist, discovers something in Lake Vostok significant enough to require Kunlun's comms relay to transmit — the primary, plot-critical reason the player makes this Hwy 37 journey. Optional secondary content: a "two loneliest outposts" relationship between the two extreme, isolated science outposts; a possible scientific echo between Lake Vostok's findings and Kunlun's astronomical data; and Vosora Lashár Tanslock's still-undetermined Kunlun connection, which may route through here.
+- **Dome Fuji / Sayowa:** Reached via the same Hwy 37 route, beyond Kunlun in the opposite direction from Concordia — genuine physical connections, though more distant along the highway than Kunlun's direct adjacency.
 - **Framheim/Little America:** No longer exist in canon, but are the direct, unacknowledged origin of Vostok's entire current population — a relationship that is historical and demographic rather than a living connection, since both source cities are gone.
-- **Concordia:** Aware Vostok exists, nothing more — the connection is as theoretical as Kunlun's own, per `Specs/Vostok.md`.
+- **Concordia:** **Corrected 2026-07-06:** not merely theoretical — Hwy 37 runs directly from Vostok to Concordia, a real physical highway link despite the two cities sitting in different, informationally-severed Arcanet subnets. See `Specs/Vostok.md`.
 
 ---
 
@@ -245,7 +249,7 @@ TBD — genuinely underdeveloped, though the city's core tension (a population l
 
 - **Lake Vostok access infrastructure** — the drilling apparatus and access shaft reaching the subglacial lake; potentially extended and expanded considerably over 500+ years of post-exile access, per `Specs/Vostok.md`
 - **The cold record marker** — some civic acknowledgment of the −89.2°C record; exact form TBD
-- **The Vostok research archive** — the accumulated Lake Vostok scientific findings; survival status unknown
+- **The Vostok research archive — vision session, 2026-07-06:** the accumulated Lake Vostok scientific findings, confirmed to be a genuinely massive dataset — so large and so complex that no single individual, human or robot, actually understands the whole of it. Understanding of the archive is distributed across the entire research population; nobody at Vostok has the complete picture, which is itself a defining fact about how the city's science actually functions day to day.
 
 ---
 

@@ -3,7 +3,7 @@
 **Based on:** Byrd Station (USA), Marie Byrd Land, West Antarctica (~80°01'S, 119°31'W)
 **Status:** Survived — struggling; one of only three cities in Tepenia still functioning as a city at meaningful scale — alongside Concordia and Janbogo; other survivors are either small outpost communities, damaged partial operations, or effectively unreachable
 **Arcanet Subnet:** Byrd ("Pacific") — subnet hub
-**Highway access:** TBD — Byrd's road connection to the broader Tepenian highway system is not yet established; possible air connection to Framheim on the Ross Ice Shelf (see Open Questions)
+**Highway access:** **Corrected 2026-07-06** — Byrd is a major two-highway junction, missed by this file despite being established canon in `City_Relationship_Database.md`: **Hwy 1** (western terminus — a ramp near Byrd reaches Rothera, with further ramps and waypoints north through Marambio to the highway's true northern terminus at Esperanza) and **Hwy 22** (Amundsen Sea end, the Transcontinental Highway running east to the South Pole/Amundsen Station and on to the Zhongshan coast). See `Locations/Infrastructure/Highways.md`.
 **Significance:** The only surviving city in Tepenia's Pacific subnet; named for St. Richard; the westernmost major city in the Federation; DLC 2 centerpiece
 **DLC:** Byrd subnet — DLC 2 (West Antarctica / Byrd); survived — DLC 2 centerpiece
 

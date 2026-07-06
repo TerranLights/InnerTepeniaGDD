@@ -1,9 +1,9 @@
 # Vostok
 
 **Based on:** Vostok Station (USSR / Russia), East Antarctic Plateau (~78°28'S, 106°52'E)
-**Status:** Survived — effectively unreachable; alive in the most technical sense
+**Status:** Survived — extremely remote, though **corrected 2026-07-06:** less "effectively unreachable" than previously framed, now that Hwy 37 is confirmed to run directly through Vostok (see Highway access, below)
 **Arcanet Subnet:** Mirny ("Australian")
-**Highway access:** None confirmed; ~1,260km overland from Mirny across the East Antarctic Plateau with no established road infrastructure; the most isolated surviving city in Tepenia
+**Highway access:** **Corrected 2026-07-06** — Vostok sits on **Hwy 37 (the Mountain Cut Throughway)**, between Kunlun and Concordia; the full route runs Dome Fuji → Kunlun → Vostok → Concordia. This had been missed in this file despite being established canon elsewhere (the same bug already found and fixed on Kunlun's own file). Vostok remains ~1,260km overland from Mirny, its own Arcanet subnet's nearest coastal city — Hwy 37 runs in a completely different direction and does not reach Mirny. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Coldest city in Tepenia — holds the record for the lowest naturally occurring temperature ever recorded on Earth's surface (−89.2°C, July 21, 1983, pre-exile); sits above Lake Vostok, one of the largest subglacial lakes on Earth, buried under approximately 4km of ice; survived the Long Night War but is so isolated that survival is functionally indistinguishable from disappearance
 **DLC:** Mirny subnet — the most extreme inland destination in any potential Mirny subnet DLC; whether it is reachable at all in gameplay is a significant design question
 
@@ -94,10 +94,10 @@ What makes Vostok more than simply the coldest and most isolated place in an alr
 
 - **The coldest place in Tepenia:** Vostok requires protection equipment beyond anything needed in the main game or most DLC content; visiting Vostok is the extreme end of the cold survival mechanic
 - **Lake Vostok as a narrative resource:** 500+ years of post-exile scientific access to a 25-million-year-isolated subglacial lake; whatever has been learned and whatever has been found are enormous open questions; the lake is a major lore asset for any content set here
-- **Effective isolation:** reaching Vostok from the coast requires crossing 1,260km of featureless East Antarctic Plateau with no road, no waypoints, no resupply; this is a journey the player cannot make casually; Vostok, if reachable at all, is a major expedition
+- **Effective isolation, revised 2026-07-06:** reaching Vostok from Mirny (its own Arcanet subnet's coastal hub) still requires crossing 1,260km of featureless East Antarctic Plateau with no road — that route remains a major expedition. But Vostok is also a confirmed stop on Hwy 37, reachable via Kunlun/Concordia in one direction or Dome Fuji/Sayowa in the other — a real, if still extreme, plateau highway route rather than trackless crossing. This gives Vostok two very different approach profiles depending on route.
 - **Hardcore Mode influences:**
   - Most extreme cold in Tepenia; thermal protection requirements exceed every other location
-  - Total supply isolation: no resupply is possible at Vostok; the journey in requires carrying everything needed for the duration plus the return
+  - Severe supply isolation via the Mirny route specifically (no resupply possible on that crossing); the Hwy 37 approach is less absolute but still an extreme-altitude plateau highway with minimal services
   - Lake Vostok access shaft: if the drilling infrastructure survived, the shaft to the lake represents a Hardcore Mode vertical environment with pressure and cold hazards distinct from surface conditions
 
 ---
@@ -126,7 +126,7 @@ The relationship with the Mirny subnet — the 1,260km of plateau between Vostok
 
 ## Economy & Industry
 
-Science, almost entirely. Vostok's economy was the Lake Vostok research program and whatever the extreme plateau environment could support in terms of self-sufficiency. It produced knowledge and exported almost nothing else.
+Science, almost entirely. Vostok's economy was the Lake Vostok research program and whatever the extreme plateau environment could support in terms of self-sufficiency. It produced knowledge and exported almost nothing else. **Vision session, 2026-07-06:** the interior of the city reflects this directly — huge sections given over entirely to genetics research, floor after floor of labs running experimentation on gene and allele combinations, the same way Kunlun's interior is one enormous distributed astronomical instrument.
 
 ---
 
@@ -134,7 +134,7 @@ Science, almost entirely. Vostok's economy was the Lake Vostok research program 
 
 - **Lake Vostok access infrastructure** — the drilling apparatus and access shaft reaching the subglacial lake; 500+ years of post-exile scientific access has potentially extended and expanded this infrastructure considerably; the shaft and its associated research facilities are the most significant structures in Vostok
 - **The cold record marker** — some form of civic acknowledgment of the −89.2°C record; exact form TBD
-- **The Vostok research archive** — whatever scientific findings from Lake Vostok have been accumulated; potentially the most significant scientific dataset in the Mirny subnet; survival status unknown
+- **The Vostok research archive — confirmed 2026-07-06:** whatever scientific findings from Lake Vostok have been accumulated; confirmed to be so large and complex that no single individual — human or robot — fully understands it; understanding is distributed across the whole research population; potentially the most significant scientific dataset in the Mirny subnet
 - Additional locations: TBD
 
 ---
@@ -147,9 +147,11 @@ Science, almost entirely. Vostok's economy was the Lake Vostok research program 
 
 ## Connection to Concordia
 
-*Corrected 2026-07-04: this section previously claimed Vostok "shares the Mirny subnet with Concordia" and could theoretically relay signals to Concordia through Mirny. Both claims are wrong — Concordia is a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception, Mirny's included. There is no relay path to Concordia through Mirny or otherwise; Vostok's isolation from Concordia is total, the same as every non-Janbogo-subnet city's.*
+*Corrected 2026-07-04: this section previously claimed Vostok "shares the Mirny subnet with Concordia" and could theoretically relay signals to Concordia through Mirny. Both claims are wrong — Concordia is a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception, Mirny's included. There is no informational relay path to Concordia through Mirny or otherwise.*
 
-Vostok's connection to Concordia doesn't exist, informationally — it never did, and the Split Brain only confirms what was already geographically implied. Even setting the subnet mismatch aside, the 1,260km of plateau between Vostok and Mirny (its actual, correct subnet's hub) makes even *intra*-subnet contact effectively unreachable. Whatever Vostok knows, whatever it has found in Lake Vostok over the centuries, Concordia has no way to access it and never had a mechanism to, beyond whatever was recorded before the war.
+*Further corrected 2026-07-06: the claim that Vostok's isolation from Concordia is "total" was wrong on the physical side. Vostok sits directly on **Hwy 37 (the Mountain Cut Throughway)**, which runs Dome Fuji → Kunlun → Vostok → Concordia — a real, physical highway link straight to Concordia, despite the two cities belonging to different Arcanet subnets. This is the same pattern already established for Kunlun's own Hwy 37 connection to Concordia, and for Soyuz's Hwy 110 connection (see `project_mirny_concordia_subnet_bug` precedent): the Arcanet link is severed, but the physical highway is not.*
+
+Vostok's connection to Concordia doesn't exist informationally — it never did, and the Split Brain only confirms what was already true. But Hwy 37 gives Vostok a genuine physical highway link straight to Concordia, running through Kunlun. Even setting that aside, the 1,260km of plateau between Vostok and Mirny (its actual, correct subnet's hub) makes even *intra*-subnet contact effectively unreachable in that direction — so isolation from Mirny specifically still holds, even though isolation from Concordia does not. Whatever Vostok knows, whatever it has found in Lake Vostok over the centuries, Concordia has no informational way to access it — but it's no longer safe to assume there's no physical route between them at all.
 
 ---
 
@@ -157,7 +159,7 @@ Vostok's connection to Concordia doesn't exist, informationally — it never did
 
 Survived the Long Night War — but survival here is a technical category. Whether anyone is alive at Vostok, whether the settlement still functions, whether it has any ability to communicate with anyone else in Tepenia, is entirely unknown. The city is alive in the sense that it was not destroyed. Whether it is alive in any other sense is the question.
 
-The isolation that defined Vostok before the war has only deepened since. Before the war, the Tepenian infrastructure provided some connection to the outside world. After the Long Night War and the Planetary Split Brain, that infrastructure was damaged or destroyed, and Vostok's connection to the broader Federation — already tenuous — may have been severed entirely.
+The isolation that defined Vostok before the war has only deepened since, at least informationally — the Planetary Split Brain severed whatever Arcanet connection existed. **Corrected 2026-07-06:** the physical connection is a different story. Hwy 37 still exists and still runs directly through Vostok, whatever its post-war condition — Vostok's connection to the broader Federation is tenuous and probably badly degraded, but it was never a case of *no road existing at all*, and a physical route to Kunlun and Concordia in one direction, or Dome Fuji and Sayowa in the other, remains a real possibility rather than a fiction.
 
 ---
 
@@ -172,7 +174,7 @@ Vostok's legacy is the lake. Whatever lives in Lake Vostok — whatever evolved 
 - **Is anyone still alive at Vostok?** — the most basic and most unanswerable question; given the isolation and the post-war disruption, Concordia and Mirny have no way to know
 - **Lake Vostok — what has been found?** — 500+ years of post-exile scientific access to a 25-million-year-isolated subglacial lake; the discoveries are an enormous open lore question; this may be the most scientifically significant open question in the entire GDD; the geneticist doll's reduced-mutation technique is almost certainly connected to Lake Vostok's unique biology — organisms isolated for 25 million years under extreme pressure and cold represent a genetic dataset found nowhere else on Earth
 - **Is the Vostok–Mirny overland cable intact?** — *(corrected 2026-07-04 — this previously continued "...and, through Mirny, with Concordia," which isn't possible; Mirny has no Arcanet path to Concordia either, since they're different subnets)* determines only whether Vostok can communicate intra-subnet with Mirny, Zhongshan, Casey, Davis, and Kunlun
-- **Can Vostok be reached in gameplay?** — the 1,260km overland crossing from Mirny is a major expedition; whether this is achievable as a gameplay journey (DLC or otherwise) is a significant design decision
+- **Can Vostok be reached in gameplay? — resolved 2026-07-06:** yes, reserved for the **Mirny DLC (DLC 7)**, reached via Hwy 37 rather than the trackless Mirny crossing. Vostok is also the launch point for the DLC's Kunlun content — see `Specs/Kunlun.md`'s Reachability entry for the full hook: Doll (Vostok's geneticist) finds something in Lake Vostok significant enough to need Kunlun's comms relay to transmit, making the Vostok→Kunlun leg mandatory, with three optional secondary threads (the Vostok-Kunlun "two loneliest outposts" relationship, a possible Lake Vostok/Kunlun-observatory scientific echo, and Vosora Lashár Tanslock's undetermined Kunlun connection) available for the player to pursue alongside it.
 - **The Vostok research archive survival** — if someone eventually reaches Vostok, is the archive intact?
 - **Demonym** — TBD (Vostokans? something Russian-inflected?)
 - **Notable figures** — TBD

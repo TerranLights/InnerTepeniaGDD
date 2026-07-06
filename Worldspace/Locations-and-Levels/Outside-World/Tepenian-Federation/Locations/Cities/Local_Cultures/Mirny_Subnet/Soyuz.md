@@ -21,11 +21,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | South Korea *(re-tiered 2026-07-06, strengthened further same day — now 34.62%)* |
+| Significant | China, Japan, Germany, Russia *(founding operator heritage — share reduced 2026-07-06)*, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Estonia, Hungary, Lithuania, Malaysia, Vietnam, Philippines, Bulgaria, Latvia, South Africa |
 
-*Soyuz carries a genuinely layered founding structure, unusual even by Tepenian standards: Russia held the actual founding-operator role (inheriting Progress Station's infrastructure), while Australia's founding-wave arrived early via the same regional coastal proximity that shaped Mawson itself, back when Soyuz was still counted in that subnet. Both nations sit at Significant tier — diluted, like most Tepenian founding presences, by the same China-Primary demographic current that reshaped this whole corner of the continent, not by each other.*
+*Re-resolved 2026-07-06 in three rounds, during this city's City Vision Notes session — see `Specs/Soyuz.md`'s Founding Population Re-Resolution for the full math. Round 1: UK removed entirely (its share transferred to China, demoting China from Primary to Significant); China's old Primary-tier share transferred to South Korea, stacked on top of Korea's own existing share, making Korea the new Primary-tier nation at 29.74%; Russia's own founding-operator share left completely untouched throughout. Romania swapped for Hungary at the same share value. Round 2: Ukraine and Belarus both removed entirely, their combined shares added directly to South Korea, bringing it to 34.62% — now clearing a third of the city's population outright. Round 3: a direct hand-specified transfer, 3.0 points from Russia to Japan — the one point in this whole cluster rework where Russia's own founding-operator share actually moved, and it moved down. Final: Russia 6.85%, Japan 7.78%.*
 
 ---
 
@@ -139,12 +139,14 @@ Genuinely mixed, spanning Russian and Australian founding traditions alongside c
 
 ## 15. Division of Industry
 
-- Technical / scientific: 25% — inherited Arctic and Antarctic Research Institute tradition
-- Commercial / trade: 20% — cluster-level economy shared with Zhongshan and its neighbor
-- Marine / resource extraction: 20% — Prydz Bay maritime access
-- Diplomatic / inter-community coordination: 15% — a genuine sector given the cluster's density
-- Education: 10%
-- Other: 10%
+**Revised 2026-07-06 (vision session)** — heavy industrial fabrication is Soyuz's actual dominant sector, not the research/commercial/diplomatic mix previously listed:
+
+- **Industrial fabrication: 45%** — raw materials trucked in from Davis (via the Hwy 110/Hwy 4 tri-junction at Zhongshan) and fabricated into finished goods. Most significantly, **Soyuz is one of a handful of Tepenian cities that manufactures "fabrication-synthesis chambers"** (placeholder name, pending refinement) — the actual apparatus that creates robots. These chambers are shipped nationwide from Soyuz and the handful of other cities that produce them, meaning a robot can be "born" (built) in any Tepenian city regardless of whether that city has its own chamber-manufacturing capability. This is a foundational piece of how robot creation works across Tepenia, not a Soyuz-specific curiosity — see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` for cross-reference once developed further.
+- Technical / scientific: 15% — inherited Arctic and Antarctic Research Institute tradition
+- Commercial / trade: 15% — cluster-level economy shared with Zhongshan and its neighbor
+- Marine / resource extraction: 10% — Prydz Bay maritime access
+- Diplomatic / inter-community coordination: 10% — a genuine sector given the cluster's density
+- Education / other: 5%
 
 ---
 
@@ -187,6 +189,8 @@ The broad Significant tier (Japan, Germany, UK, South Korea, Russia, Indonesia, 
 
 Modest, shaped as much by cluster-level diplomacy with Zhongshan and its other Larsemann Hills neighbor as by any independent civic ambition — Soyuz's political energy went into maintaining functional coexistence in a genuinely dense multinational zone.
 
+**Vision session, 2026-07-06:** Underneath that modesty runs a deep, genuinely unusual sense of national pride and patriotism — sharper and more openly held here than in most Tepenian cities, most of which have long since settled into a quieter, more blended post-national identity. Whatever specific form this pride takes (the Soyuz spacecraft namesake, the city's role manufacturing the literal apparatus that creates new robot citizens, or some combination) is worth developing further — it's a genuine outlier worth exploring rather than smoothing over to match other cities' norms.
+
 ---
 
 ## 22. Relationship to Upper Earth
@@ -211,6 +215,8 @@ Genuinely complex, given the Larsemann Hills cluster's density — Arcanet use h
 
 ## 25. Export Culture
 
+- **Fabrication-synthesis chambers — vision session, 2026-07-06:** Soyuz's single most significant physical export; shipped nationwide so that robots can be built in any Tepenian city, not just the handful (Soyuz among them) that manufacture the chambers themselves. This makes Soyuz quietly load-bearing infrastructure for the entire Federation's robot population, well beyond its own modest political profile.
+- Finished fabricated goods generally — raw materials arrive from Davis, leave Soyuz as usable product
 - The Soyuz naming philosophy — ambition and forward motion chosen deliberately over inherited memory, a genuinely distinctive act of civic self-definition
 - Cluster-diplomacy expertise — Soyuz-trained specialists in genuine multinational coexistence
 - A specific *type of person* — forward-looking and comfortable with dense multinational proximity, recognizable by an ease with both qualities simultaneously
@@ -246,6 +252,7 @@ Becoming a local at Soyuz meant genuine participation in the Larsemann Hills clu
 
 ## 29. Notable Local Landmarks
 
+- **The fabrication-synthesis chamber works — vision session, 2026-07-06:** the facility (or facilities) manufacturing the apparatus that creates Tepenia's robots; one of the handful of such sites in the whole Federation; arguably Soyuz's single most consequential piece of infrastructure, despite its modest political profile
 - **The Larsemann Hills oasis terrain** — ice-free ground, meltwater lakes, exposed rock, the same oasis character as Lazar's Schirmacher Oasis
 - **The cluster boundary zones** — where Soyuz's territory adjoined Zhongshan and its other Larsemann Hills neighbor
 

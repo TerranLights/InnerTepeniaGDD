@@ -3,7 +3,7 @@
 **Based on:** Mawson Station (Australia / Australian Antarctic Division), Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Mawson (hub city)
-**Highway access:** TBD — Mac.Robertson Land coast; Mawson subnet road network radiating east toward Sayowa and the Prydz Bay cluster; western terminus of the Mawson subnet highway system
+**Highway access:** **Corrected 2026-07-06** — Mawson is on **Hwy 4 (the Mawson-Soyuz Highway)**, between Sayowa and Soyuz: Sayowa → Mawson → Soyuz → (ex-Bharati Japanese city). See `Locations/Infrastructure/Highways.md`.
 **Significance:** Arcanet hub for the Mawson subnet; Australia's oldest continuously operating Antarctic station (since 1954); named after Sir Douglas Mawson — St. Douglas in the Tepenian Saints framework, the greatest Australian polar explorer; Mac.Robertson Land was named after Macpherson Robertson, the Australian confectioner who funded the 1929-31 BANZARE expedition; the Australian Antarctic Division's primary operational base; gateway to the western Mawson subnet
 **DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational as subnet hub
 

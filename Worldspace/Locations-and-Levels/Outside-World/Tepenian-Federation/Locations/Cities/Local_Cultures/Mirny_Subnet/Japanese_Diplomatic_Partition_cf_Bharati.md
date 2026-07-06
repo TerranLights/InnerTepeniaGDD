@@ -21,11 +21,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | Japan *(founding population — Jeju-do diplomatic allocation; re-tiered 2026-07-06)* |
+| Significant | Australia, Russia *(founding wave)*, South Korea, China, Germany |
+| Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
-*Japan holds a genuinely unusual founding position here — Significant tier, diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, but arriving not organically (the way Sayowa inherited its own real JARE station) but through a deliberate act of Upper Earth diplomacy. No other Tepenian founding population arrived this way.*
+*Re-resolved 2026-07-06 in two rounds, during this city's City Vision Notes session — see `Specs/Bharati_TBD.md`'s Founding Population Re-Resolution for the full math. Round 1: the standard population/GDP tiering (superseded) had put China at Primary and buried Japan — the city's actual, deliberately-allocated founding nation — in Significant tier at just 3.28%, directly undercutting the point of the Jeju-do court's decision. Japan boosted to solidly Primary at 36.27%, absorbing China's old share plus Indonesia's and Malaysia's (both removed); China dropped to Significant at 5.68% (UK's old share); UK removed outright. Round 2: a direct hand-specified transfer, 1.5 points from South Korea to China. Final: South Korea 7.89%, China 7.18%. The diplomatic allocation now reads as having actually held over 130+ years, rather than being overwhelmed by regional Chinese demographic pull.*
 
 ---
 
@@ -59,7 +59,7 @@ Polar night (~60 days) and midnight sun (~61 days), moderated somewhat by the oa
 
 This city's founding identity is genuinely unusual: it exists because Upper Earth diplomats decided it should, not because anyone chose to build here first. But the site itself — mild, gentle, delicate — turned that imposed beginning into something the founding population could make their own. Rather than a harsh survival outpost, the city's actual character developed around research, education, science, art, music, and fashion: pursuits that need calm, stable conditions to flourish, which this city's climate genuinely offers in a way few other Tepenian locations can match.
 
-- **a. Founding tension** — Not the usual founding-nation-vs-majority pattern, and not even really about the founding nation being diluted (Japan's Significant-tier presence here is consistent with the whole subnet's China-Primary pattern) — the real tension is institutional: a city founded by external decree, needing generations to feel genuinely lived-in rather than simply assigned.
+- **a. Founding tension** — **Re-resolved 2026-07-06:** no longer a story about the founding nation being diluted — Japan is now solidly Primary tier (36.27%), reflecting that the Jeju-do court's diplomatic allocation actually held over 130+ years rather than being overwhelmed by regional Chinese demographic pull. The real tension here is institutional instead: a city founded by external decree, needing generations to feel genuinely lived-in rather than simply assigned — separate from any question of whose population it actually became.
 - **b. Fault lines** — Between the city's imposed diplomatic origin and its organically-developed creative/scientific character — two things that don't obviously belong together, reconciled slowly over generations rather than at founding.
 
 ---
@@ -77,13 +77,15 @@ This city's founding identity is genuinely unusual: it exists because Upper Eart
 ## 7. Who This City Attracts
 
 - **The type this city draws:** researchers, educators, scientists, artists, musicians, and fashion designers — genuinely varied personalities and life paths, supported by a mild, gentle setting that doesn't force any one kind of person to thrive here over another.
+- **Vision session, 2026-07-06 — the schools specifically:** all three Larsemann Hills cluster cities (this one, Soyuz, and Zhongshan) have genuinely high-quality schools, but this city's draw students from across all of Tepenia — not primarily for academic ranking, but for the culture and soul of the place itself. Students come here because of what the city *is*, and the schools are the entry point into that rather than the whole draw.
+- **Vision session, 2026-07-06:** it's genuinely easy to make friends here — a welcoming, socially low-friction city, consistent with its whole "varied life paths, no dominant civic type" character.
 - **The type this city repels:** anyone seeking harsh survival stakes or dramatic environmental hostility as a defining civic experience — this city has never offered that, and its whole identity runs the opposite direction.
 
 ---
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern), with genuine Japanese presence carrying real institutional and cultural weight despite Significant rather than Primary tier.
+- **a. Primary language(s):** **Corrected 2026-07-06** — Japanese is now the demographic Primary (36.27%, following this session's population re-derivation — see `Specs/Bharati_TBD.md`), consistent with the city's own founding story. Chinese, Australian English, and Russian carry real Significant-tier presence alongside it.
 - **b. Linguistic character** — Reflective and precise, shaped by the research/education/arts identity — a city where careful, considered language use is genuinely valued.
 - **c. Slang / dialect markers** — Terminology drawn from the specific research disciplines, artistic practices, and educational institutions that define the city's civic life.
 - **d. Language and integration** — Moderate pressure, welcoming to newcomers bringing genuinely different backgrounds and pursuits, consistent with the city's whole "varied life paths" character.
@@ -93,6 +95,8 @@ This city's founding identity is genuinely unusual: it exists because Upper Eart
 ## 9. Architecture
 
 Built on the newest infrastructure in the Larsemann Hills cluster (the real Bharati Station's 2010s-era design), adapted over generations toward research facilities, educational institutions, galleries, and studios rather than purely functional survival infrastructure — a genuinely different built environment from the subnet's more industrial or logistics-focused cities.
+
+**Vision session, 2026-07-06:** The defining visual impression is cleanliness — clean, orderly streets throughout, kept that way as a matter of civic pride rather than mere upkeep. Art is genuinely everywhere: sculptures, murals, statues, and other constructed pieces populate every district, with the downtown core especially dense with it — walking through the city center means walking through an outdoor gallery as much as a commercial or residential one. This isn't incidental decoration; it's the clearest physical expression of the city's whole creative identity.
 
 ---
 
@@ -106,13 +110,17 @@ Built on the newest infrastructure in the Larsemann Hills cluster (the real Bhar
 
 ## 11. Fashion
 
-A genuine civic strength, not just a passing interest — the mild, gentle climate doesn't force purely functional cold-weather dress the way harsher cities do, leaving real room for aesthetic and design-driven fashion sensibility, likely with genuine Japanese design influence given the founding population's presence.
+A genuine civic strength, not just a passing interest — the mild, gentle climate doesn't force purely functional cold-weather dress the way harsher cities do, leaving real room for a genuine fashion sensibility.
+
+**Vision session, 2026-07-06 — refines the character of that sensibility:** this isn't runway or high fashion. People here dress very fashionably, but in an Alternative / Alt-Rock / Alt-Grunge / Alt-Pop register, and it's genuinely homemade — assembled, altered, and personalized rather than bought polished off a rack. The look reads as considered and distinctive without reading as designer or performative, consistent with the city's whole "people doing art on their own time, in their own lives" character (see Section 12).
 
 ---
 
 ## 12. Music
 
 A genuine, cultivated musical culture — the calm setting and institutional depth support real conservatories, performance spaces, and creative communities in a way few other Tepenian cities can sustain, blending Chinese, Japanese, and the subnet's broader multinational influences.
+
+**Vision session, 2026-07-06:** Alongside the institutional side, there's a massive amateur culture — people making art and music on their own time, in their own lives, entirely outside any conservatory or formal program. This personal, unpolished creative practice is at least as large a part of the city's identity as its institutional side, and it's the same underlying impulse that produces the homemade Alt-Rock/Alt-Grunge/Alt-Pop fashion (see Section 11).
 
 ---
 

@@ -3,7 +3,7 @@
 **Based on:** Dumont d'Urville Station (France), Petrel Island, Géologie Archipelago, Adélie Land, East Antarctica (~66°40'S, 140°01'E)
 **Status:** Damaged; partially operational *(corrected 2026-07-03 — this file previously said "Destroyed," conflicting with `Official_Population_Census.md`'s destroyed-cities list, `City_Relationship_Database.md`, and the `Local_Cultures/README.md` tracking table, all of which agree Dumont d'Urville is damaged/surviving)*
 **Arcanet Subnet:** Janbogo
-**Highway access:** TBD — coastal road connection to Janbogo and the Ross Sea network; specifics not yet established
+**Highway access:** **Corrected 2026-07-06** — Dumont d'Urville is a genuine two-highway junction: **Hwy 2's eastern terminus** (Dumont Coast Highway, "DCH," from Casey) and **Hwy 183's northern terminus** (Janbogo Highway, from Concordia via Denison), which connect directly to each other here. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Tepenian city in Adélie Land; among the windiest locations in Tepenia; Pink Lucy's origin city; namesake of St. Jules (Jules Dumont d'Urville); island-positioned city — built on Petrel Island in the Géologie Archipelago, approximately 5km off the continental coast
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but inhabited city
 

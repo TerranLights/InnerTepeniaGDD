@@ -3,7 +3,7 @@
 **Based on:** Rothera Research Station (UK / British Antarctic Survey), Rothera Point, Adelaide Island, Marguerite Bay, Antarctic Peninsula (~67°34'S, 68°07'W)
 **Status:** Damaged; partially operational *(finalized 2026-07-03 — see Population/Destructibility Note below; resolves a prior 3-vs-2 conflict between this file/README ("Destroyed") and `City_Relationship_Database.md`/`Overview.md`/`Station_to_City_Map.md` ("Damaged") in favor of the latter)*
 **Arcanet Subnet:** Palmer ("American")
-**Highway access:** TBD — Peninsula road network connecting north toward Palmer City and south toward Marguerite Bay coastal area; specifics not yet established
+**Highway access:** **Corrected 2026-07-06** — Rothera is reached via a **road ramp** off the Hwy 1 mainline, near the highway's western terminus at Byrd. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Tepenian city on Adelaide Island; one of the largest BAS installations in Antarctic history; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway, in operation from the real-world BAS era); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged but functional — one of the few operational nodes in an otherwise ruin-dominated DLC
 

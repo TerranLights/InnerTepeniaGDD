@@ -3,7 +3,7 @@
 **Based on:** Palmer Station (USA), Anvers Island, Antarctic Peninsula (64°46'S, 64°03'W)
 **Status:** Destroyed (Long Night War) — off-map; referenced in lore throughout Concordia; DLC 3 setting (ruins)
 **Arcanet Subnet:** Palmer ("American") — subnet hub
-**Highway access:** Hwy 1 (western terminus / origin point)
+**Highway access:** **Corrected 2026-07-06** — Palmer City is not a direct highway stop and never was Hwy 1's terminus (that was always inaccurate — the termini are Esperanza and Byrd). Palmer City sits on Anvers Island, reached via a **boat crossing** from a ramp junction on the Hwy 1 mainline, between Marambio and the Rothera ramp — a road ramp from the same junction reaches Port Lockroy instead. This is consistent with Palmer City's own island geography. See `Locations/Infrastructure/Highways.md`.
 **Significance:** First settled location in the Tepenian Federation; cultural and entertainment capital of pre-war Tepenia
 
 ---

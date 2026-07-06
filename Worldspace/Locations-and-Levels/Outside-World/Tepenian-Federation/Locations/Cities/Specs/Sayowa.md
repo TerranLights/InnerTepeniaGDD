@@ -4,7 +4,7 @@
 **Tepenian city name:** Sayowa — phonetic evolution of "Syowa" (Shōwa, 昭和) into a proper Tepenian city name; official Tepenian spelling
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Survived" — this file was the lone holdout; `City_Relationship_Database.md`, `Overview.md`, and `Station_to_City_Map.md` all already agreed on damaged/partially operational. Consistent with Sayowa's established role as a major highway junction (Hwy 37 to Vostok/Kunlun/Concordia, Hwy 7-ext to the Halley subnet) — a critical infrastructure node significant enough to plausibly be targeted, but too structurally important to the whole continent's connectivity to have been fully destroyed rather than fought over/damaged.)*
 **Arcanet Subnet:** Mawson
-**Highway access:** Hwy 37 (western terminus → Vostok → Kunlun → Concordia), Hwy 7-ext (eastern terminus ← Princess Elisabeth ← Lazar) — a major highway junction and critical infrastructure node connecting the Mawson subnet to both the Concordia inland route and the Halley subnet
+**Highway access:** **Corrected 2026-07-06** — Sayowa is **Hwy 4's western terminus** (Mawson-Soyuz Highway → Mawson → Soyuz → ex-Bharati) and **Hwy 7-ext's eastern terminus** (← Princess Elisabeth ← Lazar), which connect directly to each other here. Hwy 37 (Mountain Cut Throughway → Dome Fuji → Kunlun → Vostok → Concordia) junctions with Hwy 7-ext just before reaching Sayowa — Sayowa itself is not actually Hwy 37's terminus, though it's the effective gateway to it. A major highway junction and critical infrastructure node connecting the Mawson subnet to the Concordia inland route and the Halley subnet.
 **Significance:** Japanese Antarctic Research Expedition (JARE) heritage; name derived from "Syowa" (Shōwa) — the Japanese imperial era name for the reign of Emperor Hirohito (1926–1989); the name carries the weight of mid-20th century Japanese history; island position on East Ongul Island gives Sayowa a defined maritime boundary; geographically westernmost city in the Mawson subnet, bridging toward the Halley subnet territory; a major highway junction connecting to Vostok, Kunlun, Concordia, and the Halley subnet
 **DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational — critical junction infrastructure, damaged but functioning
 
@@ -125,7 +125,7 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ## Notable Locations
 - **Lützow-Holm Bay harbor** — the primary maritime entry; sea ice conditions define the seasonal access window
 - **East Ongul Island terrain** — the island geography and the bay it sits in
-- **The Hwy 37 / Hwy 7-ext junction** — the critical infrastructure node itself, damaged but functioning, connecting the Mawson subnet to both Concordia (via Vostok and Kunlun) and the Halley subnet (via Princess Elisabeth and Lazar)
+- **The Hwy 4 / Hwy 7-ext junction** — the critical infrastructure node itself, damaged but functioning, connecting the Mawson subnet to the Halley subnet (via Princess Elisabeth and Lazar); a short distance away, Hwy 7-ext also junctions with Hwy 37 (**corrected 2026-07-06** — Hwy 37 runs to Concordia via Dome Fuji, Kunlun, and Vostok, in that order from Sayowa's side, not directly terminating at Sayowa itself)
 - Additional locations: TBD for DLC 4
 
 ---
@@ -136,7 +136,7 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ---
 
 ## Connection to Concordia
-Mawson subnet. The Japanese exile community's Tepenia presence is concentrated here; any Concordia knowledge of Japanese Tepenian culture traces through Sayowa. More directly than most Mawson subnet cities, Sayowa's Hwy 37 connection is a literal physical link toward Concordia itself via Vostok and Kunlun — not just a cultural transmission line but critical infrastructure.
+Mawson subnet. The Japanese exile community's Tepenia presence is concentrated here; any Concordia knowledge of Japanese Tepenian culture traces through Sayowa. More directly than most Mawson subnet cities, Sayowa's proximity to Hwy 37's junction (just off Hwy 7-ext) gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Vostok — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
 
 ---
 

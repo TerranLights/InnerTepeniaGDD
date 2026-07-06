@@ -3,7 +3,7 @@
 **Based on:** Casey Station (Australia), Budd Coast, Wilkes Land (~66°16'S, 110°32'E)
 **Status:** Destroyed (Long Night War)
 **Arcanet Subnet:** Mirny ("Australian")
-**Highway access:** Hwy 110 (SW → Concordia; NE → Mirny / coastal chain); Hwy 2 / DCH (east → Dumont d'Urville coast)
+**Highway access:** Hwy 110 (SW → Concordia; NE → Mirny / coastal chain); Hwy 2 / DCH (east → Dumont d'Urville) — **confirmed 2026-07-06:** Hwy 2's own western endpoint is defined as "junction with Hwy 110," which sits here at Casey, making this the genuine origin point of Hwy 2 as well as a Hwy 110 waypoint.
 **Significance:** Highway junction city — the meeting point of the inland route to Concordia (Hwy 110) and the Dumont coast route (Hwy 2); last coastal city before the long drive to the deep interior
 
 ---

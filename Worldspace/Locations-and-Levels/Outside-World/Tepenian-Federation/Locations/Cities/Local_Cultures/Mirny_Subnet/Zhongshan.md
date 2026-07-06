@@ -19,11 +19,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China *(founding operator heritage — continuous from founding through present)* |
-| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | China *(founding operator heritage — continuous from founding through present; strengthened 2026-07-06, three times)* |
+| Significant | South Korea, Japan, Germany, Russia, Australia *(founding wave)* |
+| Notable | Vietnam, Estonia, Thailand, Lithuania, Malaysia, Indonesia *(demoted 2026-07-06)*, Romania, Philippines, Latvia, New Zealand, Bulgaria, South Africa |
 
-*Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary. Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Russia's T2 presence reflects the geographic proximity of the former Russian Progress and Mirny stations; both communities arrived early and settled deeply.*
+*Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary. Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Russia's Significant-tier presence reflects the geographic proximity of the former Russian Progress and Mirny stations; both communities arrived early and settled deeply. **Adjusted 2026-07-06, in three rounds** — Round 1: UK removed, its share folded into China's own; Japan and Indonesia swapped shares. Round 2: Indonesia demoted further, from Significant to Notable; Belarus and Ukraine both removed entirely, their shares folded into China; the gap left by Indonesia's own demotion split evenly between China and South Korea. Round 3: a direct hand-specified transfer — 3.0 points from South Korea and 2.0 points from Japan, both moved to China. China now sits at 35.83%, South Korea at 9.70%, Japan at 7.30%. See `Specs/Zhongshan.md`'s Founding Population Adjustment for the full math.*
 
 ---
 
@@ -66,6 +66,8 @@ The return of light is observed but not celebrated loudly — consistent with th
 Zhongshan never lost its Chinese identity. What it did was refine it. One hundred and thirty years of Antarctic exile, lived alongside a Russian community with its own tradition of aestheticized endurance, produced something that is neither mainland Chinese nor recognizably Russian — it is Zhongshan. A culture that takes itself seriously, produces careful people, processes loss through art rather than suppression, and considers rushing to be, if not a moral failing, at least a form of bad taste.
 
 The city does not perform its culture for outsiders. It does not advertise itself. It is simply what it is, and visitors feel the weight of that immediately — not because anyone says anything, but because the coherence of the culture makes your outsider status obvious from the inside. Both the Chinese and Russian cultural influences are quiet, not hostile, but fundamentally insular. You are welcome here. You are also, always, a guest in someone else's city.
+
+**Vision session, 2026-07-06:** The quiet is not stillness. Whatever is happening in Zhongshan at any given moment — business, commerce, industry, or leisure — carries a clear sense of purpose, visible to anyone paying attention even if nothing about it is loud. This is the same "bad taste to rush" ethic seen from a different angle: Zhongshan doesn't need noise or hurry to demonstrate that its activity matters, because the activity's purpose is never actually in question.
 
 - **a. Founding tension** — The tension in Zhongshan is not between founding and long-run demographics (China won both). It is between the cultural pride of being Chinese — lowercase, a living identity, not a political allegiance — and the reality of exile from the Sinian Federation that defines the city's political relationship with its own roots. Zhongshan people are more Chinese than the Sinian Federation, in their own reckoning. They are also, irrevocably, Tepenian.
 
@@ -123,11 +125,13 @@ Song Dynasty aesthetic principles (sparse, proportional, functional beauty over 
 
 The Larsemann Hills bedrock is visible throughout the city. Rather than concealing it, Zhongshan's builders integrated it — structures cut into and around the natural rock formations, buildings whose foundations are the hills themselves. The result is a city that looks like it grew out of its location rather than being placed on top of it. Residents find this simply correct. Visitors often find it striking in a way they can't immediately articulate.
 
+**Vision session, 2026-07-06:** Zhongshan's street layout itself reads as chaotically organized at street level — a genuinely organic pattern rather than a master-planned one, shaped by 130 years of building around the bedrock rather than through it. But a semi-gridlike order underlies it, laid down early and never fully abandoned even as later construction bent and broke it in places. The result is a city that looks disordered to a newcomer's eye but that every resident can navigate without thinking — the same kind of "chaos that is actually structure" that shows up in Zhongshan's food culture (nobody agreeing on the correct dumpling, everybody still making one) and its quiet, purposeful social rhythm.
+
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** The dominant culinary tradition is a genuine fusion of Northeast Chinese (Dongbei) cooking and Russian cold-weather food — not a deliberate synthesis but an evolved one. Dongbei cuisine was already built for hard winters: hearty, reliant on preservation, rich with fermented and pickled ingredients. Russian food brought its own preservation traditions, dense starches, and long-simmered preparations. After 130 years, the boundary between them has largely dissolved.
+- **a. Human cuisine:** The dominant culinary tradition is a genuine fusion of Northeast Chinese (Dongbei) cooking and Russian cold-weather food — not a deliberate synthesis but an evolved one. Dongbei cuisine was already built for hard winters: hearty, reliant on preservation, rich with fermented and pickled ingredients. Russian food brought its own preservation traditions, dense starches, and long-simmered preparations. After 130 years, the boundary between them has largely dissolved. **Vision session, 2026-07-06:** the protein base for much of this cooking is Prydz Bay fishing — Zhongshan pulls a substantial share of its everyday food directly from the coastline, and the fermentation/preservation traditions of both source cuisines apply as readily to fish as to anything else, giving the city's food culture a genuinely maritime backbone underneath the Dongbei/Russian fusion.
 
   The central food object of Zhongshan is the dumpling — and the city's dumpling culture is specific enough that outsiders notice it immediately. Chinese jiaozi and Russian pelmeni arrived as distinct traditions; what exists now is neither, but a Zhongshan dumpling with neighborhood variations across the city. Arguments about the correct dumpling are a local cultural institution. Nobody agrees. Nobody is expected to.
 

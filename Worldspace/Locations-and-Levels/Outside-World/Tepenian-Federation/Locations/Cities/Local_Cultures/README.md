@@ -99,7 +99,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Davis | Surviving |
 | Zhongshan | Surviving |
 | Vostok | Surviving |
-| Kunlun | Surviving — too high for humans; received a real robot population 2026-07-04 (123,449, 100% Chinese; see `Specs/Kunlun.md`) |
+| Kunlun | Surviving — too high for humans; received a real robot population 2026-07-04 (123,449); re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population, no longer single-nation Chinese; see `Specs/Kunlun.md` |
 | Bharati_TBD | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation, final name TBD; subnet corrected 2026-07-05, moved from Mawson; see `Specs/Bharati_TBD.md`)* |
 | Soyuz | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati); subnet corrected 2026-07-05, moved from Mawson; see `Specs/Soyuz.md`)* |
 
