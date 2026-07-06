@@ -1,18 +1,18 @@
 # Juan Carlos
 
 **Based on:** Juan Carlos I Antarctic Station (Spain), Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
-**Status:** TBD *(flagged 2026-07-03 — genuine 3-vs-2 conflict between this file/`Local_Cultures/README.md` (damaged/surviving) and `City_Relationship_Database.md`/`Overview.md`/`Station_to_City_Map.md` (destroyed); deliberately deferred rather than resolved. Case for destroyed: Livingston Island's usable footprint is limited despite its overall size (rugged, heavily glaciated, "more limited" accessible coastal areas), and its immediate Peninsula neighbors — Esperanza, Marambio, Sejong, Palmer City — were all destroyed. Case for surviving: genuine scale as the second-largest South Shetland island, rugged terrain that could plausibly offer Rothera-style protection, and a lower strategic profile than Sejong's multinational hub. Revisit before finalizing this city's cultural sheet.)*
+**Status:** Destroyed *(resolved 2026-07-05, ending a deliberately-deferred TBD flagged since 2026-07-03 across this file, `Local_Cultures/README.md`, `City_Relationship_Database.md`, `Overview.md`, and `Station_to_City_Map.md` — all now updated to Destroyed. Reasoning: Upper Earth forces specifically targeted Juan Carlos because of its archive function (see Developer vision below) — its role tracking anyone who'd held a position in a home country's Upper Earth government made it a legitimate high-value intelligence target in its own right, echoing the already-established Zukelli destruction logic (deliberate strikes against specific administrative/intelligence functions, not generalized area damage). This holds even though the bulk historical archive had already relocated to Amundsen Station by the time of the war — Juan Carlos evidently remained the ongoing operational site tied to the Machu Picchu Border & Customs Authority, making it worth striking independent of the older archive's physical location.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** Confirmed 2026-07-03 — no highway connection exists, and none is plausible. Real-world verification found Livingston Island sits 110km across the Bransfield Strait from the mainland Peninsula, and 95.4km from Sejong on King George Island (its nearest Tepenian neighbor) — both roughly 100x too wide for any causeway/bridge, even with the generous sci-fi engineering multiplier used elsewhere in this GDD (compare Marambio's Picnic Passage crossing, only 0.93km). No intermediate island-hopping chain exists either, unlike Marambio's situation. Juan Carlos is maritime/aviation-access only, with an island-internal road network.
-**Significance:** Spanish Tepenian city on Livingston Island, South Shetland Islands; named after King Juan Carlos I of Spain; one of the few Palmer subnet cities that survived the Long Night War in some functional form; the second-largest island in the South Shetlands; shares the South Shetland Island cluster with Sejong (King George Island) but on a different, quieter island
-**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged rather than destroyed, making it one of the few inhabited locations in the DLC
+**Significance:** Tepenian city on Livingston Island, South Shetland Islands; named after King Juan Carlos I of Spain; the second-largest island in the South Shetlands; shares the South Shetland Island cluster with Sejong (King George Island) but on a different, quieter island; the origin site of Tepenia's first bureaucratic archive, later consolidated into Amundsen Station's own pre-Split-Brain archive
+**DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); destroyed city, ruins accessible
 
 ---
 
 ## Population & Composition
 
 **Census I (Pre-Orbital Era):** 189,742 humans / 196,950 robots / **386,692** combined *(island cap)*
-**Census II (Orbital Era):** 118,910 humans / 127,462 robots / **246,372** combined *(island cap)*
+**Census II (Orbital Era):** 118,910 humans / 127,462 robots / **246,372** combined *(island cap; destroyed)*
 
 | Tier | Nations |
 |------|---------|
@@ -61,7 +61,7 @@ The South Shetland Islands were one of the first parts of Antarctica reached by 
 *Full monthly climate table: very close to Sejong's data; refer to Sejong.md for approximate figures adjusted approximately −1°C across all months.*
 
 #### Gameplay Notes
-- **A functioning settlement in a DLC of ruins:** Juan Carlos being damaged rather than destroyed makes it one of the key inhabited locations in DLC 3; the contrast between its partial survival and the complete destruction of Palmer City and Esperanza shapes its narrative role
+- **Ruins, like most of DLC 3:** Juan Carlos joins Palmer City, Esperanza, Sejong, and Marambio as destroyed Peninsula cities; its own ruins hold the ground-floor or basement archive office central to "The Archivist's Trail" cross-DLC questline (see `Storyline/DLC_01_Echoes_of_Amundsen.md`)
 - **Island approach:** maritime arrival at Livingston Island's limited coastal access points
 
 ---
@@ -70,7 +70,7 @@ The South Shetland Islands were one of the first parts of Antarctica reached by 
 
 **Settled:** Post-Falkland Treaty, on Juan Carlos I Station infrastructure. The Spanish Antarctic program had operated here seasonally since 1988; the exile community converted it to year-round habitation.
 
-**Founding population:** Primarily Spanish exiles. The Iberian cultural community in Tepenia was split between Juan Carlos (Palmer subnet) and whatever presence existed elsewhere; Juan Carlos was the primary Spanish Tepenian city.
+**Founding population:** Primarily Spanish exiles. The Iberian cultural community in Tepenia was split between Juan Carlos (Palmer subnet) and whatever presence existed elsewhere; Juan Carlos was the primary city of that founding community.
 
 Named after King Juan Carlos I, who reigned during Spain's transition from dictatorship to democracy (1975–2014). The name carries the political history of that transition — an exile community choosing to name their Antarctic city after the king who presided over Spain's democratization.
 
@@ -78,27 +78,24 @@ Named after King Juan Carlos I, who reigned during Spain's transition from dicta
 
 ## Character & Culture
 
-Juan Carlos developed differently from Sejong precisely because it didn't have as many immediate neighbors. Livingston Island's relative quietness, compared to King George Island's concentration of nations, gave Juan Carlos room to be itself without constant negotiation. The Spanish cultural inheritance — language, food tradition, particular social temperament — was able to develop with more coherence here than it might have on a more crowded island.
+Juan Carlos developed differently from Sejong precisely because it didn't have as many immediate neighbors. Livingston Island's relative quietness, compared to King George Island's concentration of nations, gave Juan Carlos room to be itself without constant negotiation. Its cultural inheritance — language, food tradition, particular social temperament — was able to develop with more coherence here than it might have on a more crowded island.
 
-The city's survival of the Long Night War (damaged but not destroyed) gave Juan Carlos a specific post-war character: the responsibility of being one of the only inhabited places in the Palmer subnet. That weight, and what the city has made of it, is the central question of its current identity.
-
-**Nationally known for:** Livingston Island's relative calm. Being a survivor in a subnet of ruins.
+**Nationally known for:** Livingston Island's relative calm. Being the origin site of Tepenia's first bureaucratic archive.
 
 **Developer vision, established 2026-07-05 — Tepenia's first bureaucratic archive.** Juan Carlos was where the young Federation kept its first real records: who entered, who left, who applied for Palmer City visas, who applied for permanent immigration, everyone who passed through or interacted with the exile administration — including a specific watch on anyone who had held a position in their home country's Upper Earth government. This function connected directly to the **Machu Picchu Border & Customs Authority** — a fully Tepenian institution, effectively Tepenian National Customs, controlling entry for arrivals coming through the Ushuaia airport gateway (already established as the Palmer subnet/Peninsula corridor's real-world point of departure — see `Upper_Earth_Immigration_Composition.md`). Non-immigrants (visitors not seeking permanent status) were specifically routed through a designated corridor to a designated sealiner bound for Palmer City, keeping temporary-visitor traffic physically separate from the immigration-processing function centered at Juan Carlos.
 
-As the Federation grew more capable over the Second Interwar Period, Juan Carlos's archive was gradually superseded: records were copied onto physical drives and hauled further and deeper into Antarctica for safekeeping and consolidation into something bigger and better. **That "bigger, better" archive is Amundsen Station's own pre-Split-Brain unified archive** (see `Storyline/DLC_PSB_Framework.md`) — meaning Juan Carlos is the direct historical origin point of the same archive that DLC 1 (Echoes of Amundsen) centers on, tying this quiet, historically under-examined Palmer subnet city into the game's deepest lore stakes. This appears to be a founding-era institutional succession (a young administration outgrowing its first home as the nation matured), not a wartime evacuation — it doesn't, by itself, resolve whether Juan Carlos survived the Long Night War (see Status above, still an open 3-vs-2 conflict).
+As the Federation grew more capable over the Second Interwar Period, Juan Carlos's archive was gradually superseded: records were copied onto physical drives and hauled further and deeper into Antarctica for safekeeping and consolidation into something bigger and better. **That "bigger, better" archive is Amundsen Station's own pre-Split-Brain unified archive** (see `Storyline/DLC_PSB_Framework.md`) — meaning Juan Carlos is the direct historical origin point of the same archive that DLC 1 (Echoes of Amundsen) centers on, tying this quiet, historically under-examined Palmer subnet city into the game's deepest lore stakes. **Resolved 2026-07-05: this ongoing administrative/intelligence function — tracking former Upper Earth government officials among the exile population — is exactly why Upper Earth specifically targeted Juan Carlos in the Long Night War** (see Status above), even though the bulk historical archive had already relocated to Amundsen Station by then.
 
 ---
 
 ## Economy & Industry
-Maritime, fishing, whatever Livingston Island's coastal resources offered. Full detail TBD for DLC 3. The post-war situation — being one of the only functioning cities in the Palmer subnet — has likely reshaped its economy significantly.
+Maritime, fishing, whatever Livingston Island's coastal resources offered, alongside the archive/customs administrative function centered here (see Character & Culture). Full detail TBD for DLC 3.
 
 ---
 
 ## Notable Locations
-- **The survivor infrastructure** — whatever remains operational in Juan Carlos after the Long Night War; the contrast between functioning and damaged sections is a key environmental feature
 - **Livingston Island harbor** — the primary maritime entry
-- **The original archive site** — established 2026-07-05; the first bureaucratic home of Tepenia's immigration/customs records, before the archive's contents were relocated to what became Amundsen Station's unified pre-Split-Brain archive; whatever remains of the physical archive site (empty vaults, retired records infrastructure, or something else) is TBD, and its condition depends on Juan Carlos's still-unresolved war status
+- **The original archive site** — the first bureaucratic home of Tepenia's immigration/customs records, before the historical archive's contents were relocated to what became Amundsen Station's unified pre-Split-Brain archive. Now ruins — the ground floor or a basement office holds a personal note/audio log from the archivist central to "The Archivist's Trail" cross-DLC questline (see `Storyline/DLC_01_Echoes_of_Amundsen.md`).
 - Additional locations: TBD for DLC 3
 
 ---
@@ -109,21 +106,23 @@ Maritime, fishing, whatever Livingston Island's coastal resources offered. Full 
 ---
 
 ## Connection to Concordia
-Palmer subnet. Juan Carlos's survival makes it potentially the most relevant Palmer subnet city to Concordia's current situation — one of the few external Palmer subnet voices that might still be able to transmit. Whether its Arcanet infrastructure survived is TBD.
+Palmer subnet. Destroyed alongside most of its subnet; whatever diaspora reached Concordia carries knowledge of Juan Carlos's quiet administrative significance, largely unknown to the wider Federation. Whether any Arcanet infrastructure or records survived the strike, beyond what "The Archivist's Trail" reveals, is TBD.
 
 ---
 
 ## Legacy
-Juan Carlos is the city that survived when most of its subnet didn't. Whether that's luck, geography, or something the city did, is the question its residents are still answering.
+Juan Carlos's legacy is that it was where the nation's bureaucratic memory began — the first place Tepenia systematically recorded who its own people were, who was coming and going, and who among them had once served an Upper Earth government. That record-keeping function outgrew Juan Carlos and became, eventually, the very archive at the heart of Amundsen Station and the Planetary Split Brain. **Resolved 2026-07-05:** that same function is also, in the end, why Upper Earth destroyed it — a quiet island city with an outsized, largely invisible historical responsibility, targeted precisely because that responsibility was real.
 
-**Also established 2026-07-05:** regardless of how Juan Carlos's own war-era status resolves, its deeper legacy is that it was where the nation's bureaucratic memory began — the first place Tepenia systematically recorded who its own people were, who was coming and going, and who among them had once served an Upper Earth government. That record-keeping function outgrew Juan Carlos and became, eventually, the very archive at the heart of Amundsen Station and the Planetary Split Brain. A quiet island city with an outsized, largely invisible historical responsibility.
+---
+
+## Current Status / Destruction
+
+**Resolved 2026-07-05:** Destroyed in the Long Night War. Upper Earth forces specifically targeted Juan Carlos for its ongoing administrative/intelligence function — tracking former Upper Earth government officials among the exile population, tied to the Machu Picchu Border & Customs Authority — the same deliberate-strike-against-a-specific-function logic already established for Zukelli's destruction (see `Specs/Zukelli.md`), rather than generalized area damage. This holds even though the bulk historical archive had already relocated to Amundsen Station generations earlier; Juan Carlos evidently remained operationally significant enough on its own to be worth striking.
 
 ---
 
 ## Open Questions
-- **Extent of damage** — what specifically was damaged and what survived? The most important design question for DLC 3 engagement with Juan Carlos
-- **Current population** — who is still here, and how have they been living in a subnet of ruins?
-- **Arcanet link survival** — can Juan Carlos communicate with other Palmer subnet cities or with Concordia?
+- **Arcanet link survival** — did any Arcanet infrastructure survive the strike, and does it connect to anything the "Archivist's Trail" questline reveals?
 - **Machu Picchu Border & Customs Authority's exact geography** — established 2026-07-05 as the processing authority for arrivals via the Ushuaia airport gateway, but Machu Picchu itself sits roughly 3,000km+ from Ushuaia; whether this represents a genuinely remote administrative/processing headquarters (paperwork and vetting handled far from the actual point of physical departure, similar to how some real-world consulates operate) or something else is TBD
 - **Timing of the archive's relocation to Amundsen Station** — when during the Second Interwar Period did this bureaucratic succession happen, and did Juan Carlos retain any secondary/backup archival role afterward?
 - **Demonym** — TBD

@@ -30,7 +30,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 | Esperanza | Esperanza Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 — already established as destroyed in `Specs/Esperanza.md` and its cultural sheet)* |
 | Marambio | Marambio Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged" — see `Specs/Marambio.md`)* |
 | Sejong | King Sejong Station | Unified Korea | Palmer ("American") | ✗ Destroyed |
-| Juan Carlos | Juan Carlos I Station | Spain | Palmer ("American") | ? TBD *(corrected 2026-07-03 — was stale, contradicted the deliberate TBD resolution in `Specs/Juan_Carlos.md`)* |
+| Juan Carlos | Juan Carlos I Station | Spain | Palmer ("American") | Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md`)* |
 | Signy | Signy Station | UK | Palmer ("American") *(peripheral)* | ✓ Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — see `Specs/Signy.md`)* |
 
 ---

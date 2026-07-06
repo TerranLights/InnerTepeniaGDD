@@ -4,7 +4,7 @@
 **Status:** Survived — altitude-compromised; functioning at reduced capacity
 **Arcanet Subnet:** Mawson *(corrected 2026-07-03 — this file previously said "Halley," conflicting with `City_Relationship_Database.md` and `Overview.md`, both of which agree on Mawson — connected via Arcanet cable, not road, despite the geographic distance from the Mawson subnet's coastal cities; subnets were organized by cable routing, not strict geographic proximity)*
 **Highway access:** None confirmed; deep interior plateau location with no established road infrastructure; access likely by Kharkovchanka or air, same as Kunlun
-**Significance:** Japanese Tepenian city on the East Antarctic Plateau; among the highest-elevation cities in Tepenia at approximately 3,810 meters — higher than Concordia (3,233m); the altitude causes physiological impairment for any humans in the founding population and limits the city's human-habitable capacity; survived the Long Night War but functions at reduced capacity due to altitude effects
+**Significance:** Tepenian city on the East Antarctic Plateau; among the highest-elevation cities in Tepenia at approximately 3,810 meters — higher than Concordia (3,233m); the altitude causes physiological impairment for any humans in the founding population and limits the city's human-habitable capacity; survived the Long Night War but functions at reduced capacity due to altitude effects
 **Population:** 0 humans / 55,072 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
 **DLC:** Mawson subnet *(corrected 2026-07-03, see above)*; interior plateau location; whether reachable in gameplay is TBD
 

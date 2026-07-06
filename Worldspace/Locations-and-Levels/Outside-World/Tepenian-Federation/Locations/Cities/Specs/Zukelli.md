@@ -4,7 +4,7 @@
 **Status:** Destroyed
 **Arcanet Subnet:** Janbogo
 **Highway access:** Shared access with Janbogo via the Terra Nova Bay coastal road network; Hwy 183 southward to Concordia via Janbogo
-**Significance:** Italian Tepenian city; neighbor of Janbogo — the two cities shared Terra Nova Bay, approximately 8km apart *(corrected 2026-07-03 from ~10km — GPS coordinate calculation against the map)*; one survived the Long Night War and one did not; the proximity of Zukelli's ruins to a living city is unique in Tepenia
+**Significance:** Neighbor of Janbogo — the two cities shared Terra Nova Bay, approximately 8km apart *(corrected 2026-07-03 from ~10km — GPS coordinate calculation against the map)*; one survived the Long Night War and one did not; the proximity of Zukelli's ruins to a living city is unique in Tepenia
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible
 
 ---

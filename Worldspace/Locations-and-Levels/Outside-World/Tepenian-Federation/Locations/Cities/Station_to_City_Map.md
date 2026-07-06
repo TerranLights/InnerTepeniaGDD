@@ -32,7 +32,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Esperanza Base | Argentina | **Esperanza** ✓ | Destroyed *(corrected 2026-07-03)* | Oldest continuously occupied station; historic families |
 | Marambio Base | Argentina | **Marambio** ✓ | Destroyed *(corrected 2026-07-03 — small, flat, single-point-of-failure airfield island)* | Has a runway — logistics/transport hub in-game |
 | King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station; Unified Korea's presence in Tepenia |
-| Juan Carlos I | Spain | **Juan Carlos** ✓ | TBD *(corrected 2026-07-03 — was stale/self-contradictory within this same file; see the "Status deliberately TBD" note below)* | Spanish station, Livingston Island |
+| Juan Carlos I | Spain | **Juan Carlos** ✓ | Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md`)* | Spanish station, Livingston Island |
 | Signy Station | UK | **Signy** ✓ | Survived; fully operational *(upgraded 2026-07-03)* | South Orkney Islands; northernmost Tepenian outpost; peripheral — confirmed overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines |
 | Port Lockroy | UK | **Port Lockroy** ✓ | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Goudier Island; too strategically irrelevant to be a priority target, plausibly conflated with adjacent Palmer City's strike zone |
 
@@ -132,7 +132,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 - **Total stations/sites on map:** ~40
 - **Confirmed destroyed (coastal, Long Night War):** Palmer City, Sejong, Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Princess Elisabeth *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*, Esperanza, Marambio *(both corrected 2026-07-03 — moved here from "damaged"; Marambio's small, flat, single-point-of-failure airfield geography argues against survival)*
-- **Status deliberately TBD:** Juan Carlos *(genuine unresolved conflict, deferred by user choice — see `Specs/Juan_Carlos.md`)*
+- **Juan Carlos's status resolved 2026-07-05:** Destroyed — see `Specs/Juan_Carlos.md` for the reasoning (Upper Earth targeted its ongoing archive/customs administrative function)
 - **Damaged; partially operational (coastal):** Rothera, Port Lockroy *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Aboa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Soyuz, Japanese Diplomatic Partition *(cf. Bharati; both corrected 2026-07-03 — moved here from "destroyed," effectively co-located with Zhongshan)*, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
 - **Survived; fully operational:** Signy *(upgraded 2026-07-03 from "damaged" — overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines despite the city itself being untouched)*
 - **Confirmed survived (inland):** Concordia (game setting), Vostok (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)

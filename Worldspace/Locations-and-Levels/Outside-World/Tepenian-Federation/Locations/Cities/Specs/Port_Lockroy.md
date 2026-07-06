@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational *(confirmed 2026-07-03 — resolved a conflict where `Local_Cultures/README.md`, `City_Relationship_Database.md`, `Overview.md`, and `Station_to_City_Map.md` all said "Destroyed," this file alone said "Damaged." See Population/Destructibility Note below; the other four files were the stale ones and have been corrected to match.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** TBD — Goudier Island is a small island within Port Lockroy harbor; maritime access primary; any connection to the Peninsula mainland requires short sea crossing to Wiencke Island and then overland/highway link
-**Significance:** British Tepenian city; the oldest British Antarctic base — established during Operation Tabarin in 1944, predating most other Tepenian city foundations; originally a wartime intelligence installation monitoring German naval activity in the South Atlantic; named for Edouard Lockroy, French politician who championed the first IGY (1882); one of the most historically layered locations in Tepenia; in the DLC era, one of the few partially surviving cities in the Palmer subnet
+**Significance:** The oldest British Antarctic base — established during Operation Tabarin in 1944, predating most other Tepenian city foundations; originally a wartime intelligence installation monitoring German naval activity in the South Atlantic; named for Edouard Lockroy, French politician who championed the first IGY (1882); one of the most historically layered locations in Tepenia; in the DLC era, one of the few partially surviving cities in the Palmer subnet
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged rather than destroyed; one of the inhabited nodes in DLC 3
 
 ---

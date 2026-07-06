@@ -25,7 +25,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Esperanza | Destroyed *(Long Night War — corrected 2026-07-03, see Esperanza.md)* |
 | Marambio | Destroyed *(Long Night War — corrected 2026-07-03 from "Surviving"; small, flat, single-point-of-failure airfield island, unlike Rothera's decentralizable terrain; see `Specs/Marambio.md`)* |
 | Sejong | Destroyed *(Long Night War — corrected 2026-07-03 from "Surviving"; was stale, contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed)* |
-| Juan Carlos | TBD *(corrected 2026-07-03 — was stale, contradicted the deliberate TBD resolution in `Specs/Juan_Carlos.md`; genuine unresolved 3-vs-2 conflict, deferred by user choice)* |
+| Juan Carlos | Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md`)* |
 | Signy | Surviving *(confirmed 2026-07-03 as fully survived, untouched by direct war damage — see `Specs/Signy.md` for the resulting siligel-shortage post-war problem)* |
 | Port Lockroy | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone; see `Specs/Port_Lockroy.md`)* |
 | Palmer City | Destroyed *(Long Night War — corrected 2026-07-03; was stale/contradicted by Specs/City_Relationship_Database/Overview/Station_to_City_Map, all of which already said Destroyed, consistent with its "first settled, first destroyed" identity)* |

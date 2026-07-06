@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational *(finalized 2026-07-03 — see Population/Destructibility Note below; resolves a prior 3-vs-2 conflict between this file/README ("Destroyed") and `City_Relationship_Database.md`/`Overview.md`/`Station_to_City_Map.md` ("Damaged") in favor of the latter)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** TBD — Peninsula road network connecting north toward Palmer City and south toward Marguerite Bay coastal area; specifics not yet established
-**Significance:** British Tepenian city on Adelaide Island; one of the largest BAS installations in Antarctic history; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway, in operation from the real-world BAS era); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself
+**Significance:** Tepenian city on Adelaide Island; one of the largest BAS installations in Antarctic history; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway, in operation from the real-world BAS era); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged but functional — one of the few operational nodes in an otherwise ruin-dominated DLC
 
 ---

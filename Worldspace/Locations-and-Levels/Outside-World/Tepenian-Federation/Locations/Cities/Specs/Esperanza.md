@@ -4,7 +4,7 @@
 **Status:** Destroyed
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** Confirmed 2026-07-03 — a Hwy 1 waypoint. Real-world verification found Esperanza (Hope Bay) sits on the Trinity Peninsula mainland, only ~58km from Marambio's causeway landing point — genuinely on the route toward Palmer City, unlike Sejong and Juan Carlos's true island isolation (both confirmed too far for any bridge, 95-180km of open water). Route: Marambio → *(causeway)* → Esperanza → Palmer City → Port Lockroy → Rothera → Byrd.
-**Significance:** Argentine Tepenian city; "Esperanza" = Hope in Spanish — a name that carries particular weight in an exile civilization; historically the site of the first human birth in Antarctica (Emilio Marcos Palma, January 7, 1978); the only pre-exile Argentine station designed for permanent family settlement; generations of Tepenian children were born here who had no other home
+**Significance:** "Esperanza" = Hope in Spanish — a name that carries particular weight in an exile civilization; historically the site of the first human birth in Antarctica (Emilio Marcos Palma, January 7, 1978); the only pre-exile Argentine station designed for permanent family settlement; generations of Tepenian children were born here who had no other home
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula)
 
 ---
