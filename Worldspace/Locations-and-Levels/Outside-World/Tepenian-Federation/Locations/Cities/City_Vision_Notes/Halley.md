@@ -10,7 +10,7 @@
 
 Recap of what was already established going in (see the two files above for full detail): Brunt Ice Shelf, Coats Land, Weddell Sea. Halley subnet hub ("Atlantic"). **Status: Damaged; partially operational** — DLC 5 centerpiece. One of two Tepenian cities on floating ice shelves (with Neumayer), the only one architecturally designed from inception for relocation. Founding: a three-layer stack (British institutional heritage, South African-led founding wave, eventual American demographic majority) that never resolved into one story. Population (Census II) 509,209H/578,860R/1,088,069 combined — Tepenia's 3rd largest city. Composition: USA Primary; Germany/France/UK/Canada/Brazil Significant; long Notable tier including South Africa (founding wave). Identity: "Built to Move" — impermanence as routine collective civic business, not crisis.
 
-**Factions:** The Methodologists (interwar) — Halley's position: rigor is whatever survives being wrong about the ground under your feet.
+**Factions:** The Methodologists (second interwar) — Halley's position: rigor is whatever survives being wrong about the ground under your feet.
 
 **Flagged gaps going in:** only one notable figure (Salagéa Aparast, external/Belgrano-native); current mobility/damage state entirely TBD; economy underspecified; demonym unresolved; two placeholder holiday names; DLC 5's central conflict undecided.
 

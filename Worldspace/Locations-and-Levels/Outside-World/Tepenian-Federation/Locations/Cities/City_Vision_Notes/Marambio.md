@@ -10,7 +10,7 @@
 
 Recap of what was already established going in (see the two files above for full detail): Seymour Island, Weddell Sea, Antarctic Peninsula. Palmer subnet, Hwy 1's actual northern terminus. **Status: Destroyed** — Seymour Island's small, flat geography, built around one concentrated strategic asset (the airfield), couldn't survive the way Rothera's decentralized island did. Argentine Air Force base since 1969; exiles inherited a working aviation hub. Population (Census I) 283,442H/286,827R/570,269 combined. Composition: USA Primary; Germany/UK/Spain/Canada/Mexico/Brazil Significant; Argentina/Chile/Uruguay Notable (founding wave). Identity: "Standing on Warmer Ground" — a genuine dual character, Palmer subnet's most significant aviation hub sitting directly atop one of Antarctica's richest fossil sites (Eocene-era, 34 million years, early penguin ancestors). Built for motion, not settling.
 
-**Factions:** Standing on Warmer Ground (interwar, standalone) — the transient aviation-worker population vs. the smaller resident scientific community, two incompatible relationships to time in one small city.
+**Factions:** Standing on Warmer Ground (second interwar, standalone) — the transient aviation-worker population vs. the smaller resident scientific community, two incompatible relationships to time in one small city.
 
 **Flagged gaps going in:** no notable figures; demonym unresolved; economy beyond aviation/paleontology TBD; two placeholder holiday names; whether the fossil archive survived the destruction unresolved; a real data-quality gap (Marambio missing from the census's own "Lost and Ruined Cities" section despite being confirmed Destroyed elsewhere).
 

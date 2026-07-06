@@ -10,7 +10,7 @@
 
 Livingston Island, South Shetland Islands. Palmer subnet. No highway access. **Survival status deliberately unresolved** (genuine 3-vs-2 source conflict, left open on purpose) — case for destroyed (immediate neighbors Esperanza/Marambio/Sejong/Palmer City all destroyed, limited usable footprint despite island scale) vs. case for surviving (genuine scale, rugged terrain, lower strategic profile than Sejong). Note: `Specs/Juan_Carlos.md`'s own "Legacy" section is written in survival-framing language despite the Status field saying TBD — a small internal inconsistency, unresolved. Founded on the Spanish Juan Carlos I Station (seasonal since 1988), converted to year-round exile habitation; primary Spanish Tepenian city, named for King Juan Carlos I. Population (Census I) 189,742H/196,950R/386,692 combined. Composition: USA Primary; Germany/France/UK/Italy/Spain Significant (Spain unusually retains Significant, a strong founder retention); Mexico/Brazil/Argentina/Chile Notable (founding wave). Identity: "Room to Be Itself" — Spanish identity given room to become coherent through relative isolation, direct counterpoint to Sejong's contrast-defined identity. Defining civic institution: the tertulia (hosted, guest-listed argument-as-art-form gathering), already established as exported into Concordia (Leo, Taurus, Pisces).
 
-**Factions:** Coherence vs. Contrast (interwar, paired with Sejong).
+**Factions:** Coherence vs. Contrast (second interwar, paired with Sejong).
 
 **Flagged gaps:** no notable figures; demonym unresolved; the war outcome itself (single most important open question); economy beyond "maritime/fishing"; two placeholder holiday names ("Transición," "The Tertulia"); a minor population-figure discrepancy between two files.
 

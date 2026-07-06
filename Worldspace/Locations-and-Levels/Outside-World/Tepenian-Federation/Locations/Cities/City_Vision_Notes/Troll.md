@@ -10,7 +10,7 @@
 
 Recap of what was already established going in (see the two files above for full detail): Jutulsessen nunatak, Queen Maud Land. Halley subnet. **Status: Damaged; partially operational.** Home to Troll Airfield — a ~3,000m runway, the most significant aviation asset in the whole Halley subnet, intercontinental-capable. Survived the war and remains functional, but who controls it and under what terms is unresolved — explicitly flagged as the working candidate for DLC 5's central conflict. Norwegian founding (Norwegian Polar Institute, year-round since 2005), inheriting the 1939 Queen Maud Land claim and Amundsen ("St. Roald") heritage alongside the airfield itself. Population (Census II) 323,650H/348,182R/671,832 combined (down from 954,450 at Census I). Composition: USA Primary; Germany/France/UK/Russia/Brazil Significant; Norway (founding heritage) diluted all the way to Notable tier. Identity: "Whoever Holds the Runway" — civic identity has shifted from Norwegian heritage toward the airfield as structural chokepoint; no neutral path, residents eventually take a position.
 
-**Factions:** Competence Without Commentary (interwar) — Troll's position: competence is leverage, converted into control of the thing that matters.
+**Factions:** Competence Without Commentary (second interwar) — Troll's position: competence is leverage, converted into control of the thing that matters.
 
 **Flagged gaps going in:** no notable figures; economy beyond "aviation logistics" TBD; demonym unresolved; whether St. Roald veneration kept pace with the airfield tension; what aircraft were present pre-war; two placeholder holiday names.
 
@@ -45,4 +45,4 @@ Recap of what was already established going in (see the two files above for full
 - What aircraft were present pre-war, and whether anything remains
 - Two placeholder holiday names ("St. Roald's Landing," "Runway Day")
 - ~~The exact mechanism of the Troll/Soyuz→Dome Fuji supply role~~ — **resolved: two direct, separate aviation routes, not a relay**
-- ~~Whether the dual-route supply role persisted across the entire interwar period~~ — **resolved 2026-07-05: began sometime after Dome Fuji's pilgrimage resettlement, ran until the Long Night War, no exact start date pinned**
+- ~~Whether the dual-route supply role persisted across the entire second interwar period~~ — **resolved 2026-07-05: began sometime after Dome Fuji's pilgrimage resettlement, ran until the Long Night War, no exact start date pinned**

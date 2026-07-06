@@ -73,11 +73,14 @@ The Amundsen Tower scrap mountain is millions of tons of debris from a near-orbi
 ### Magnetic Anomalies
 The tower's destruction left zones of disrupted magnetic and electronic interference throughout certain ruins sections.
 
+**Mechanism specified 2026-07-05** (see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`'s "Primary Purpose" section and `Energy_Grid_Failure_Rationale.md` #11): Amundsen Tower wasn't just a tall structure that fell — it was a continuously circulating electromagnetic mass driver carrying ~324 GW net, with a network of superconducting bearing stations spread across its full height, and the whole system doubled as the continent's energy-regulating flywheel. When it collapsed, that wasn't a clean shutdown — it was a catastrophic failure of a system built to run continuously, at civilization-scale power, indefinitely. **Some severed sections of the accelerator track and damaged bearing stations plausibly still hold trapped, dangerous residual charge, over a decade later** — not just ambient "weirdness," but genuine live-electrical hazards buried in specific wreckage zones. This directly parallels the newly-established emergency-power-feedback mechanic (drawing down the intact pellet stream too far risks structural collapse) — here, the danger is the inverse: wreckage that's already structurally failed but electromagnetically hasn't fully discharged.
+
 - Navigation systems unreliable in anomaly zones.
 - Targeting assistance degrades or fails.
 - HUD elements glitch.
 - Extended exposure (Hardcore: also corrupts memory integrity — see Hardcore Mode document).
 - Some enemy units are specifically adapted to operate inside anomaly fields — they function normally where the player's systems don't. This is an intentional design asymmetry.
+- **New, 2026-07-05:** specific wreckage zones (identifiable superconducting bearing-station remnants, severed accelerator-track segments) can carry a genuine live-discharge hazard — sudden, damaging electromagnetic pulses triggered by proximity, movement, or metal contact, distinct from the passive "interference" effects above. Telegraphed the same way as Structural Collapse and Debris Falls (audio/visual cues — humming, arcing light, hair-raising static) so an attentive player can route around them, consistent with this DLC's existing "pays attention survives, rushes doesn't" design language.
 
 ### Crevasse Terrain
 The Antarctic ice beneath and around the scrap mountain has fractured from the tower's original impact.
@@ -169,6 +172,16 @@ At minimum five distinct approaches must exist for defeating the DLC's central t
 
 See `DLC_PSB_Framework.md` for how DLC 1 connects to the Planetary Split Brain questline. The South Pole is the only location containing the pre-Split-Brain unified Arcanet archive — the only reconciliation point for all six subnet records. This makes it both the hardest DLC content and the one with the deepest lore stakes.
 
+### A Dedicated Guardian System Protecting the Archive (established 2026-07-05)
+
+Per the now-confirmed mechanism in `DLC_PSB_Framework.md`, Upper Earth's strike on Amundsen Tower didn't just destroy Tepenia's space access — it very likely caused the Planetary Split Brain itself, severing every inter-subnet Arcanet link at once. If Upper Earth's forces understood what they were doing when they hit this specific site — not just "destroy the space elevator" but "sever Tepenia's entire information network in one strike" — it's plausible they left something behind specifically meant to make sure that severing stays permanent: a **dedicated denial system guarding the pre-Split-Brain archive itself**, separate from Kendra's own defenses and separate from the general environmental hazards above.
+
+This raises the stakes of the archive specifically, rather than treating it as incidental loot found at the end of a hard dungeon. Structurally, this should be the DLC's own distinct challenge layered on top of (not folded into) "get past Kendra's automated defenses" and "survive the environment" — a third, separate obstacle whose entire purpose is protecting exactly the thing the DLC's deepest lore payoff depends on. Whether this is an automated Upper Earth system still running after 10-15 years, a booby-trap/failsafe triggered by archive access attempts, or something else is TBD — the design commitment here is only that the archive should not be trivially accessible once the player gets past Kendra's own perimeter; reaching it should be its own achievement.
+
+### Upper Earth's Own Presence at the Site — Flagged, Not Yet Added (2026-07-05)
+
+A related idea was raised and discussed but not yet written in as confirmed design: whether Upper Earth left actual personnel or active military assets at the site (as opposed to just automated denial systems, covered above). The developer's own objection is a real logistical one — by the time the player arrives, any such personnel would have been there 10-15 years, which requires one of: (A) rotating shifts (~6 months each), (B) continuous presence with a nearby resupplied base camp, or (C) longer rotations (~1-2 years) with resupply. Any of these is *possible*, but needs background investigation — how Upper Earth would logistically sustain a South Pole presence for over a decade, what that implies about their broader post-war relationship with/awareness of Tepenia, and why they'd consider this specific site worth that ongoing cost — before it's added as confirmed design. Not contradicted, just deferred. See `TODO.md`.
+
 ---
 
 ## Open Questions
@@ -177,7 +190,7 @@ See `DLC_PSB_Framework.md` for how DLC 1 connects to the Planetary Split Brain q
 - [x] How Kendra's defenses are still running — **confirmed: she set them up herself during the battle and retreated inside**
 - [x] Where Kendra is — **confirmed: inside the actual Amundsen-Scott South Pole Station, locked from inside, 10–15 years stranded**
 - [x] Minimum ways into the building — **confirmed: 11 methods across environmental, brought, perk, and trait categories**
-- [ ] Specific enemy types and their designs
+- [ ] Specific enemy types and their designs — two new hazard/threat directions established 2026-07-05 (residual electromagnetic wreckage hazards, a dedicated archive-guardian system), a third (Upper Earth's own on-site personnel/assets) flagged but deferred pending logistics investigation — see above
 - [ ] Exact carry weight restriction number for DLC entry
 - [ ] Five minimum approaches to the central challenge — only Ji-Eun cloaking confirmed; 4+ TBD
 - [ ] Main storyline structure and beats

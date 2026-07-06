@@ -51,8 +51,66 @@ A common player question will be: why hasn't Concordia simply repaired the faili
 - Fixing them would require either extremely expensive purification (which no faction can afford) or risky deep-core drilling with a history of causing ice quakes and dome collapses.
 
 ## 11. The Amundsen Resonance Effect
-- Because the destroyed Amundsen Tower once drew massive planetary-scale energy, the remaining Antarctic grid has developed strange harmonic instabilities.
-- Large-scale repairs create dangerous resonance feedback loops that can cause synchronized blackouts across multiple districts simultaneously — worse than the problem they're trying to solve.
+
+**Reframed and substantially expanded 2026-07-05** — see
+`Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`'s new "Primary
+Purpose" section for the full engineering reasoning this is built on.
+
+**What the Tower actually was, mechanically:** Amundsen Tower's core mechanism — a
+continuously circulating stream of pellets at 4 km/s, electromagnetically
+accelerated, decelerated, and re-accelerated in a closed loop, drawing ~324 GW net
+with 85% regenerative recovery already built in — is not just a big power draw. It
+is, mechanically, a **continent-scale flywheel**: an enormous, continuously moving
+mass representing a vast, controllable reserve of kinetic energy that the
+accelerator system could add to or draw from more or less at will. Real-world power
+grids use exactly this principle at much smaller scale — large rotating
+generators/flywheels absorb excess supply and release stored energy on demand,
+smoothing out the moment-to-moment mismatches between generation and consumption
+that would otherwise cause voltage and frequency instability. Amundsen Tower did
+this for the entire Antarctic grid, at a scale nothing else in Tepenia's
+infrastructure could replace.
+
+**Two distinct effects flow from this, not one:**
+
+1. **The acute catastrophe — a continent-wide overload at the exact moment of
+   collapse.** A structure functioning as this large a regulating buffer doesn't
+   just quietly stop working when destroyed. Real-world power systems call the
+   analogous event **load rejection**: when a very large load or stabilizing element
+   suddenly vanishes from a grid, every generator and subnet that had been tuned to
+   a grid *containing* that element suddenly has nowhere for its expected output to
+   go, or loses the buffer that had been absorbing its fluctuations, all at once.
+   Applied to Amundsen Tower's collapse: in the same instant the physical structure
+   came down during the Long Night War, every Arcanet subnet tied into the same
+   regulated continental grid plausibly took a simultaneous electrical shock —
+   a nationwide overload event happening in parallel with, not separate from, the
+   physical destruction. This gives the Long Night War's damage a genuine second
+   axis: it wasn't just that cities were bombed and a space elevator fell — the
+   power grid itself took a continent-wide electrical hit in the same moment,
+   independent of and additional to any city-by-city physical damage.
+2. **The chronic aftermath — permanent loss of regulation, not a one-time event.**
+   This is what the original two bullets below already described, now with a
+   mechanism attached: with the flywheel-scale regulating mass permanently gone,
+   the day-to-day generation/demand mismatches it used to smooth out now hit the
+   raw grid directly, every day, indefinitely. This is why grid instability reads
+   as an ongoing, unresolved condition decades later (the game's present day,
+   ≈2822–2827) rather than a disaster that happened once and was fixed — there was
+   never a "recovery" to return to, because the thing that made the grid stable in
+   the first place no longer exists to be repaired or replaced. Modern large-scale
+   repair attempts triggering "resonance feedback loops" (see below) makes direct
+   sense under this framing: the grid's entire original architecture was designed
+   *assuming* the Tower's regulating presence, so any large intervention today
+   is operating on a system missing its central stabilizing component, and
+   destabilizes further rather than helping.
+
+- Because the destroyed Amundsen Tower once actively regulated the continent's
+  entire power grid (not merely drew power from it), the remaining Antarctic grid
+  has developed strange harmonic instabilities that never resolved and structurally
+  cannot resolve without restoring equivalent regulation capacity.
+- Large-scale repairs create dangerous resonance feedback loops that can cause
+  synchronized blackouts across multiple districts simultaneously — worse than the
+  problem they're trying to solve — precisely because those repairs are being
+  attempted on a grid architecture that was never designed to function without its
+  original stabilizing flywheel.
 
 ## 12. Institutional Memory Loss & Skill Decay
 - The most experienced grid engineers either evacuated off-world or died during the Long Night War.

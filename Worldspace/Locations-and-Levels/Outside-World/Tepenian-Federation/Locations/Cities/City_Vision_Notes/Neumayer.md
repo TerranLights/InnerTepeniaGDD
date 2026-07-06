@@ -10,7 +10,7 @@
 
 Recap of what was already established going in (see the two files above for full detail): Ekström Ice Shelf, Queen Maud Land. Halley subnet. **Status: Damaged; partially operational.** Built directly on floating ice using hydraulic-leg architecture, inherited from the real AWI station design. German founding (AWI stations since 1981), inheriting a full settlement's worth of scientific/engineering equipment that became the seed of Neumayer's most famous legacy — it designed and engineered Amundsen Tower (built at the South Pole, not here), a source of deep, complicated pride since nobody at the Tower's ruins knows Neumayer built it. Population (Census II) 385,071H/445,676R/830,747 combined. Composition: USA Primary; Germany (founding heritage)/France/UK/Brazil Significant; long Notable tier. Identity: "Measured, Not Debated" — Neumayer's answer to living on unstable ice is precision and instrumentation, not Halley's consensus-based relocation culture.
 
-**Factions:** The Methodologists (interwar) — Neumayer's position: rigor is measurement, close to sacred; skeptical of interdisciplinary work that hasn't fully honored what it's drawing from.
+**Factions:** The Methodologists (second interwar) — Neumayer's position: rigor is measurement, close to sacred; skeptical of interdisciplinary work that hasn't fully honored what it's drawing from.
 
 **Flagged gaps going in:** no notable figures at all; demonym unresolved; whether the centuries-long climate/atmospheric data record survived the war or reached Concordia; whether AWI survived as a distinct institution; current ice-shelf-movement/calving status; two placeholder holiday names; music and counterculture both explicitly thin by design.
 

@@ -1,12 +1,12 @@
-# City-Origin Faction Possibilities — Interwar Period (2564 – late 2700s)
+# City-Origin Faction Possibilities — Second Interwar Period (2564 – late 2700s)
 
-**Purpose:** Organic group tensions that exist *within* Tepenian cities while those cities are living, functioning settlements during the interwar period — the roughly 200-year span between the Falkland Treaty (2564) and the Long Night War (2812). These are not displaced people processing loss; they're residents of real, ongoing cities, disagreeing about things that matter to them on their own terms, on their own turf.
+**Purpose:** Organic group tensions that exist *within* Tepenian cities while those cities are living, functioning settlements during the second interwar period — the roughly 200-year span between the Falkland Treaty (2564) and the Long Night War (2812). These are not displaced people processing loss; they're residents of real, ongoing cities, disagreeing about things that matter to them on their own terms, on their own turf.
 
 **Method:** Each faction here is derived from a specific city's actual established local post-culture (see `Local_Cultures/*.md`), never from which real-world nation originally founded its station — see `feedback_no_national_stereotypes` in project memory for why. Founding nation can still be historical fact, but it is never the explanation for present-day behavior.
 
 **What this document is NOT:** Anything about the Long Night War, Concordia, or displacement. That's a separate, later layer — see `City_Origin_Factions_PostWar_Refugee.md`. This document is about who these people are while their cities still stand.
 
-**Split from the original `City_Origin_Factions.md` on 2026-07-04**, once it became clear that document's factions were entirely post-war/Concordia-refugee framed. The factions below are the ones that translated cleanly to interwar, in-city life with light reframing; the ones fundamentally bound to having fled to Concordia went to the post-war file instead.
+**Split from the original `City_Origin_Factions.md` on 2026-07-04**, once it became clear that document's factions were entirely post-war/Concordia-refugee framed. The factions below are the ones that translated cleanly to second interwar, in-city life with light reframing; the ones fundamentally bound to having fled to Concordia went to the post-war file instead.
 
 ---
 
@@ -14,13 +14,13 @@
 
 **Cities:** Palmer City (first Tepenian city, established 2564); Cape Adare (first permanent Antarctic habitation, 1899/pre-exile)
 
-Two cities, both still standing throughout the interwar period, share a specific kind of identity claim: the claim to the founding of something. They're claiming different foundings, and they have different relationships to what "founding" means.
+Two cities, both still standing throughout the second interwar period, share a specific kind of identity claim: the claim to the founding of something. They're claiming different foundings, and they have different relationships to what "founding" means.
 
 **Palmer City** was the first Tepenian city — where the exiled robots first set foot in 2564 and said "here." Its residents hold this the way families hold genealogies: not as power but as precedence. They were first in the sense that matters to them — first in the context that actually is Tepenia. Pre-exile Antarctic history is, in their view, a different story.
 
 **Cape Adare** was where the first humans permanently wintered on the continent in 1899, and its residents hold the deeper historical clock. The Tepenian story is one chapter; the human-Antarctic story begins centuries earlier and Cape Adare is where it starts. From their view, Palmer City's "first" is a parochial claim that ignores the longer history they're part of.
 
-This is not a war. It's more like a long-running family argument about which branch of the tree gets to write the family history — conducted in real time, across two living cities, throughout the interwar period. Both communities regard the other with a mixture of respect and mild competitive irritation. They collaborate on historical preservation projects and disagree about framing. Scholars from both cities publish work that is read and argued with by scholars from the other, decade after decade.
+This is not a war. It's more like a long-running family argument about which branch of the tree gets to write the family history — conducted in real time, across two living cities, throughout the second interwar period. Both communities regard the other with a mixture of respect and mild competitive irritation. They collaborate on historical preservation projects and disagree about framing. Scholars from both cities publish work that is read and argued with by scholars from the other, decade after decade.
 
 What makes this genuinely interesting is that both cities are, in their own ways, conservative in a philosophical sense — oriented toward the past, toward record-keeping, toward the maintenance of founding identity. They share values and methods while disagreeing about the object of those values. A Palmer City archivist and a Cape Adare archivist have more in common with each other than with most of their fellow Tepenians, and both of them know it, and neither of them quite wants to admit it because it would soften an argument they both find useful.
 
@@ -40,7 +40,7 @@ Seven cities, unrelated by founding nation, each independently arrived at a cult
 
 **Davis** holds that competence is humility. Davis's civic namesake was a support figure who enabled other people's glory and never sought his own, and the city inherited that as an actual operating principle: self-promotion is mildly distasteful, hospitality is thorough rather than warm, and the highest compliment in Davis is that the work spoke for itself and nobody had to explain it. Where Troll converts competence into leverage, Davis treats converting it into anything beyond the work itself as slightly beneath you.
 
-**Mawson** holds that competence is inheritance. Two centuries into the interwar period, Mawson's founding population has substantially shifted, and yet its civic identity has survived the demographic change intact, because what Mawson actually reveres is institutional continuity and competence itself, transcending whoever happens to be the population carrying it forward at any given time. Competence, for Mawson, is the one thing that outlasts everything else, including the people who first demonstrated it.
+**Mawson** holds that competence is inheritance. Two centuries into the second interwar period, Mawson's founding population has substantially shifted, and yet its civic identity has survived the demographic change intact, because what Mawson actually reveres is institutional continuity and competence itself, transcending whoever happens to be the population carrying it forward at any given time. Competence, for Mawson, is the one thing that outlasts everything else, including the people who first demonstrated it.
 
 **Aboa** holds that competence is intimacy management. Aboa is the only Tepenian city founded jointly by two populations at once, and it's small enough that the daily negotiation between them happens household by household, over shared meals, because there's no anonymity to hide behind. Competence here isn't about infrastructure, humility, or institutional survival — it's the unglamorous, constant work of getting along with the specific handful of people you can't avoid, day after day, without either side ever fully setting old asymmetries down.
 
@@ -62,7 +62,7 @@ All seven recognize the same underlying value in each other immediately — none
 
 **Cities:** Neumayer, Rothera, Halley
 
-These three research cities share a scientific self-identity and a systematic worldview, and disagree, with real stakes, about what scientific rigor actually consists of — an argument conducted across two centuries of the interwar period via Arcanet data-sharing, published findings, and joint expeditions, long before any of it has anything to do with a war.
+These three research cities share a scientific self-identity and a systematic worldview, and disagree, with real stakes, about what scientific rigor actually consists of — an argument conducted across two centuries of the second interwar period via Arcanet data-sharing, published findings, and joint expeditions, long before any of it has anything to do with a war.
 
 **Neumayer's position:** Rigor is measurement, and measurement is close to sacred. Neumayer's civic culture treats precision and instrumentation with near-religious reverence — even hospitality here means giving someone precise information, not performed warmth. Neumayer scientists believe expertise requires depth before breadth: master one discipline correctly, on its own rigorous terms, before attempting to synthesize across disciplines. They're skeptical of interdisciplinary work that hasn't fully honored whatever it's drawing from, and they consider any research culture that tolerates imprecision to be, at bottom, not serious.
 
@@ -82,7 +82,7 @@ These three research cities share a scientific self-identity and a systematic wo
 
 Juan Carlos's defining civic institution is the tertulia — a hosted gathering, not an open one: there's a guest list, an implied register of conversation, and a real, unapologetic exclusivity to who's invited on a given night. Not everyone is invited to every tertulia, and this isn't considered rude; it's considered how a tertulia works. The gatherings run long, start late, and are organized around argument rather than consensus — but the argument itself is the point, not winning it. You're not there to be right. You're there to make the evening's argument more interesting than it would have been without you.
 
-What makes Juan Carlos's version of this genuinely its own, rather than an imported social form, is the specific condition that let it develop over the interwar centuries: relative isolation. Juan Carlos had fewer crowded neighbors than a city like Sejong, which meant its inherited social tradition had room to become *coherent* — refined into a stable, confident institution — rather than being constantly renegotiated against a dozen adjacent cultures at once. The tertulia isn't a transplant that survived the trip to Antarctica unchanged. It's what a hosted-argument tradition becomes when it's given a couple of centuries of relative quiet to think.
+What makes Juan Carlos's version of this genuinely its own, rather than an imported social form, is the specific condition that let it develop over the second interwar centuries: relative isolation. Juan Carlos had fewer crowded neighbors than a city like Sejong, which meant its inherited social tradition had room to become *coherent* — refined into a stable, confident institution — rather than being constantly renegotiated against a dozen adjacent cultures at once. The tertulia isn't a transplant that survived the trip to Antarctica unchanged. It's what a hosted-argument tradition becomes when it's given a couple of centuries of relative quiet to think.
 
 **Sejong's position is the mirror image.** Where Juan Carlos got quiet and became coherent, Sejong got crowded — a dozen national research communities sharing one ~80km island — and never had the luxury of coherence at all. Sejong's civic art form isn't the tertulia; it's diplomatic and coordination skill, an actual industry sector, because knowing what you are has always required knowing what surrounds you and constantly renegotiating the boundary. Sejong doesn't have Juan Carlos's confident, settled institution — it has fluency in contrast itself, the ability to know its own identity only in relation to whoever's currently adjacent. Sejong would say Juan Carlos's coherence is a kind of luxury that isolation bought, not a superior cultural achievement; Juan Carlos would say Sejong never got the chance to find out what its own tradition might have become on its own terms.
 
@@ -96,9 +96,9 @@ What makes Juan Carlos's version of this genuinely its own, rather than an impor
 
 **Cities:** Belgrano, Palmer City, Cape Adare, Scott, Port Lockroy
 
-*Reworked and expanded 2026-07-04: Belgrano's original position in this faction was explicitly Salagéa Aparast's post-war rescue mission, which doesn't exist during the interwar period — she and her mission belong entirely to the post-war file. Rebuilt below around Belgrano's actual interwar-era identity: a disciplined, function-over-comfort aviation hub, not yet in decline. Port Lockroy added as a fifth position, since its own established culture — continuous, layered memory as a lived way of being rather than a project — turned out to be a genuine, distinct answer to the same question the other four are already arguing about.*
+*Reworked and expanded 2026-07-04: Belgrano's original position in this faction was explicitly Salagéa Aparast's post-war rescue mission, which doesn't exist during the second interwar period — she and her mission belong entirely to the post-war file. Rebuilt below around Belgrano's actual second interwar-era identity: a disciplined, function-over-comfort aviation hub, not yet in decline. Port Lockroy added as a fifth position, since its own established culture — continuous, layered memory as a lived way of being rather than a project — turned out to be a genuine, distinct answer to the same question the other four are already arguing about.*
 
-These five cities share an orientation toward the past — toward preservation, documentation, and the weight of what came before — but they disagree, calmly and at length, across the interwar centuries, about what an archive is FOR.
+These five cities share an orientation toward the past — toward preservation, documentation, and the weight of what came before — but they disagree, calmly and at length, across the second interwar centuries, about what an archive is FOR.
 
 **Belgrano's position:** The archive is a duty roster. Belgrano's civic identity is disciplined, function-over-comfort, Air Force–descended — the kind of place where maintenance logs are audited and nobody questions why. Belgrano's archivists apply the same standard to historical record-keeping: an archive isn't a passion project or a rescue mission, it's a maintained system, checked and cross-referenced on a schedule, because that's simply how Belgrano keeps anything. Completeness isn't urgent here — it's routine, in the same unglamorous way the airfield's own maintenance rotations are routine.
 
@@ -120,7 +120,7 @@ These five cities share an orientation toward the past — toward preservation, 
 
 *Expanded 2026-07-04: two more cities turned out to share this exact "identity organized around betweenness" pattern, each with a genuinely distinct angle — Casey's is purely functional (a waypoint, not a cultural intersection), Princess Elisabeth's is the one version of this pattern nobody ever tried to resolve.*
 
-These five cities share a specific quality: their identity, throughout the interwar period, was organized around being the place where different things met rather than around being a thing itself.
+These five cities share a specific quality: their identity, throughout the second interwar period, was organized around being the place where different things met rather than around being a thing itself.
 
 **Sayowa's version:** The smallest of the three, and the most purely crossroads-identified. Sayowa sat at the intersection of the Atlantic and Pacific cultural corridors. Its residents navigated two different cultural streams simultaneously as a daily reality. The specific cognitive flexibility this produces — the ability to hold two frameworks without having to choose between them — is Sayowa's most distinctive cultural export. Sayowa people tend to be extremely comfortable with contradiction, extremely skeptical of people who insist there is one right answer, and occasionally insufferable about it.
 
@@ -142,7 +142,7 @@ The tension between Sayowa and Janbogo as crossroads communities is interesting 
 
 **Cities:** Mawson (Saint Douglas Mawson), Scott (Saint Robert Falcon Scott)
 
-These two cities carry the names of specific historical figures, and in each case the figure's story has become part of the city's identity in ways that are not always straightforward — a live cultural inheritance carried and argued over throughout the interwar centuries, independent of anything that happens later.
+These two cities carry the names of specific historical figures, and in each case the figure's story has become part of the city's identity in ways that are not always straightforward — a live cultural inheritance carried and argued over throughout the second interwar centuries, independent of anything that happens later.
 
 **Mawson:** Saint Douglas survived. He lost his companions. He walked back to base alone, or nearly alone, across impossible distance, in impossible condition. The Mawson community carries this as a foundation story, but it is an ambivalent one — Saint Douglas didn't survive through sheer will, he survived partly through luck and partly through the deaths of others. Mawson's relationship with endurance is therefore not uncomplicated triumph. It is endurance-with-cost, survival-with-grief. The Saint is not a pure hero; he is a witness to loss who also happened to live.
 
@@ -158,15 +158,15 @@ The two communities recognize each other as "the cities named after the expediti
 
 **Cities:** Fort McMurdo
 
-*Reworked 2026-07-04 (formerly part of "The McMurdo Problem — Communities of Lost Function," a post-war faction about McMurdo having lost its logistics-hub role). During the interwar period, McMurdo hasn't lost anything — it's actively, currently the dominant logistics center, and that dominance is its own source of tension.*
+*Reworked 2026-07-04 (formerly part of "The McMurdo Problem — Communities of Lost Function," a post-war faction about McMurdo having lost its logistics-hub role). During the second interwar period, McMurdo hasn't lost anything — it's actively, currently the dominant logistics center, and that dominance is its own source of tension.*
 
-Fort McMurdo was the de facto capital of interwar Tepenia. Everything went through it — supply, personnel, information. For the first decades of Tepenian settlement and every decade since, McMurdo's logistical function has been the backbone of how the continent operates. Its residents know this, and their identity is not just "we are from McMurdo" but "we are the people who keep everything running" — a claim that gets more true, not less, the longer the interwar period goes on and other cities' dependence on McMurdo's infrastructure deepens.
+Fort McMurdo was the de facto capital of second interwar Tepenia. Everything went through it — supply, personnel, information. For the first decades of Tepenian settlement and every decade since, McMurdo's logistical function has been the backbone of how the continent operates. Its residents know this, and their identity is not just "we are from McMurdo" but "we are the people who keep everything running" — a claim that gets more true, not less, the longer the second interwar period goes on and other cities' dependence on McMurdo's infrastructure deepens.
 
 That centrality is not comfortable for everyone, including some of McMurdo's own residents. Being the city everything runs through means being the city that takes the blame when a shipment is late, the city whose labor everyone else depends on without necessarily respecting, the city that can never afford a bad season because too many other cities are counting on it.
 
 **The internal tension:** between residents who take pride in being indispensable — the busier and more depended-upon McMurdo is, the more it matters — and residents who resent that indispensability, arguing that McMurdo does the unglamorous, thankless work that lets more celebrated research cities (Neumayer, Halley, Rothera) get the recognition while McMurdo just keeps the supply lines open.
 
-**What they argue about:** Whether being indispensable is a source of civic pride or a trap that keeps McMurdo doing thankless infrastructure work while other cities get to be interesting. Whether other cities' dependence on McMurdo should translate into more influence for McMurdo in subnet-wide decisions, or whether that's not how logistics work and never will be. Whether McMurdo's identity would survive losing its centrality — a question nobody in the interwar period expects to actually have to answer.
+**What they argue about:** Whether being indispensable is a source of civic pride or a trap that keeps McMurdo doing thankless infrastructure work while other cities get to be interesting. Whether other cities' dependence on McMurdo should translate into more influence for McMurdo in subnet-wide decisions, or whether that's not how logistics work and never will be. Whether McMurdo's identity would survive losing its centrality — a question nobody in the second interwar period expects to actually have to answer.
 
 ---
 
@@ -208,7 +208,7 @@ Signy has no road and no highway; it is geographically closer to the South Atlan
 
 **Cities:** Soyuz, Zhongshan, Japanese Diplomatic Partition (cf. Bharati)
 
-*New 2026-07-04, resolving a gap flagged earlier the same day: three cities sharing one small ice-free oasis for two centuries — a genuinely interwar-specific dynamic (sustained close-proximity negotiation over finite shared space) that a post-war framing wouldn't produce at all, since it depends entirely on all three cities being alive and adjacent at once.*
+*New 2026-07-04, resolving a gap flagged earlier the same day: three cities sharing one small ice-free oasis for two centuries — a genuinely second interwar-specific dynamic (sustained close-proximity negotiation over finite shared space) that a post-war framing wouldn't produce at all, since it depends entirely on all three cities being alive and adjacent at once.*
 
 Soyuz, Zhongshan, and the Japanese city occupy the same small Larsemann Hills oasis, and two centuries of daily proximity shaped each of their civic identities as much as, or more than, their separate founding stories did. None of them can fully explain who they are without reference to the other two.
 
@@ -228,7 +228,7 @@ Soyuz, Zhongshan, and the Japanese city occupy the same small Larsemann Hills oa
 
 *New 2026-07-04, standalone (no clean second city shares this specific pattern yet — flagged as a possible future faction if a partner city emerges).*
 
-Lazar has no single founding story. It coalesced from two separate settlements — a long-running Russian station and an improvised overflow site that took shape beside it — that physically grew into each other over the interwar centuries and were eventually renamed to fit neither original identity. The result, now Tepenia's largest city, treats integration as the unremarkable default rather than an achievement to point to, and offers something genuinely rare in Tepenia: real urban-scale anonymity, with five roughly equal Significant-tier nations and no single cultural template anyone has to measure themselves against.
+Lazar has no single founding story. It coalesced from two separate settlements — a long-running Russian station and an improvised overflow site that took shape beside it — that physically grew into each other over the second interwar centuries and were eventually renamed to fit neither original identity. The result, now Tepenia's largest city, treats integration as the unremarkable default rather than an achievement to point to, and offers something genuinely rare in Tepenia: real urban-scale anonymity, with five roughly equal Significant-tier nations and no single cultural template anyone has to measure themselves against.
 
 **The internal tension:** Lazar's fault line isn't founder-versus-majority, the shape almost every other city in this document carries — it's origin-versus-origin, the old coalesced core against the newer expansion that's grown up around it since. Neither side claims to be more authentically Lazar than the other, since neither of the two original settlements was ever "the real one" to begin with — but there's a live, low-grade sense among older-core residents that the newer expansion doesn't fully grasp what it took to grow two separate places into one, and a matching sense among newer residents that the old-core's attachment to that memory is starting to calcify into its own kind of gatekeeping.
 
@@ -258,9 +258,9 @@ Marambio holds two civic identities in genuine, unresolved tension: a transient,
 
 Zukelli's central social institution is the shared table. Communal eating isn't a preference here — it's a civic obligation, the primary way the city presents itself both to its own residents and to the world, warm and competitively affectionate in a way that leaves little room for privacy or reserve. Food and gathering are Zukelli's public-facing identity in the same way infrastructure is Rothera's or precision is Neumayer's.
 
-Zukelli's other defining fact is its neighbor: Janbogo, 8km away across the same bay, larger and more powerful. The relationship is a genuine friendly rivalry, mutual mythology built up over the interwar centuries — two cities that know each other's business, compete without real hostility, and each secretly believe their own version of the shared story is the more accurate one.
+Zukelli's other defining fact is its neighbor: Janbogo, 8km away across the same bay, larger and more powerful. The relationship is a genuine friendly rivalry, mutual mythology built up over the second interwar centuries — two cities that know each other's business, compete without real hostility, and each secretly believe their own version of the shared story is the more accurate one.
 
-**The internal tension:** Zukelli's own founding-nation-versus-majority question — like Sanay's, Mirny's, or Lazar's, but never as fully settled — stayed live and unresolved throughout the interwar period. Where Janbogo eventually settled into a stable equilibrium about who its city really belongs to, Zukelli's version of the same argument was still actively being had, without any clear resolution in sight.
+**The internal tension:** Zukelli's own founding-nation-versus-majority question — like Sanay's, Mirny's, or Lazar's, but never as fully settled — stayed live and unresolved throughout the second interwar period. Where Janbogo eventually settled into a stable equilibrium about who its city really belongs to, Zukelli's version of the same argument was still actively being had, without any clear resolution in sight.
 
 **What they argue about:** Whether the shared table is genuine warmth or a kind of performed intimacy that leaves people who want privacy with nowhere to go. Whether the friendly rivalry with Janbogo is a healthy sibling dynamic or a comparison Zukelli can never actually win, given the size difference. Whether the still-unresolved founding-versus-majority question is a sign of a city still honestly working something out, or a sign of a city that's simply never gotten around to it.
 
@@ -275,7 +275,7 @@ Zukelli's other defining fact is its neighbor: Janbogo, 8km away across the same
 
 ## Coverage status
 
-**Updated 2026-07-04**, after a full pattern-matching pass across every Tepenian city's established local post-culture. This document now covers 33 of 35 interwar-era cities with substantive entries, plus a 34th (Denison) partially, as a dissenting voice only (all cities except Concordia, and excluding Framheim/Little America, which were removed from canon and never existed at all).
+**Updated 2026-07-04**, after a full pattern-matching pass across every Tepenian city's established local post-culture. This document now covers 33 of 35 second interwar-era cities with substantive entries, plus a 34th (Denison) partially, as a dissenting voice only (all cities except Concordia, and excluding Framheim/Little America, which were removed from canon and never existed at all).
 
 **Still not represented:** Vostok, Denison. Denison is deliberately partial — it appears in "Competence Without Commentary" as a dissenting voice defined by what it rejects, but doesn't yet have its own standalone entry describing its "Home of the Blizzard" civic identity on its own terms (pride-in-extremity, wind statistics as social ritual, mastery-through-engineering). Vostok is deferred entirely: its own `Local_Cultures/Mirny_Subnet/Vostok.md` sheet is deliberately underdeveloped (most of its culture — language, cuisine, religion, arts — is explicitly marked TBD, as intentionally rich but unfilled territory), and its defining tension ("a legend living in someone else's house," a population with no ancestral claim to the scientific mission and Russian founding-legend it inherited) doesn't cleanly overlap with any pattern found elsewhere. It would make a strong standalone faction once its own sheet is developed further, rather than being forced into one now.
 

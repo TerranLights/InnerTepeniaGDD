@@ -4,7 +4,7 @@
 
 **Method:** Each faction here is derived from a specific city's actual established local post-culture and the specific psychological reality of what it means to have come from that place — never from real-world national stereotypes (see `feedback_no_national_stereotypes` in project memory).
 
-**What this document is NOT:** A description of these cities' interwar-era, pre-war living culture — see `City_Origin_Factions_Interwar.md` for that layer. This document is specifically about what happens after displacement.
+**What this document is NOT:** A description of these cities' second interwar-era, pre-war living culture — see `City_Origin_Factions_Second_Interwar.md` for that layer. This document is specifically about what happens after displacement.
 
 **Split from the original `City_Origin_Factions.md` on 2026-07-04.** The factions below are the ones fundamentally bound to post-war Concordia refugee context — they were moved here essentially unchanged, since they were already correctly written for this scope; only their home document changed.
 
@@ -14,7 +14,7 @@
 
 **Origin cities:** Mirny
 
-*Corrected 2026-07-04: this faction was originally built on the premise that Mirny was destroyed in the Long Night War, with a second, Framheim-specific angle attached. Neither holds up. Mirny's established status is "damaged; partially operational" — the city survives — and Framheim no longer exists in canon at all (see `City_Origin_Factions_Interwar.md`'s standby-premises note for where its two pieces went). The schism below is rebuilt around what's actually true: Mirny survives, damaged, connected to Concordia only by the physical Hwy 110 highway spur, not any special Arcanet link (Mirny and Concordia are different subnets, and the Planetary Split Brain severed that connection like every other inter-subnet one).*
+*Corrected 2026-07-04: this faction was originally built on the premise that Mirny was destroyed in the Long Night War, with a second, Framheim-specific angle attached. Neither holds up. Mirny's established status is "damaged; partially operational" — the city survives — and Framheim no longer exists in canon at all (see `City_Origin_Factions_Second_Interwar.md`'s standby-premises note for where its two pieces went). The schism below is rebuilt around what's actually true: Mirny survives, damaged, connected to Concordia only by the physical Hwy 110 highway spur, not any special Arcanet link (Mirny and Concordia are different subnets, and the Planetary Split Brain severed that connection like every other inter-subnet one).*
 
 Mirny Station was never abandoned for a single day in its first century of existence. This was not luck — it was a collective decision, renewed every winter, every crisis, every near-miss. The unbroken occupation was the city's identity in a way that went beyond pride: it was the proof that something could be sustained against everything the continent could throw at it.
 
@@ -60,13 +60,13 @@ The Zukelli community is not unified in how it holds this. It has at least three
 
 **Origin cities:** Belgrano
 
-*Moved here 2026-07-04 from `Local_Cultures/Halley_Subnet/Belgrano.md`, which had blended this content directly into the city's living, interwar-era cultural identity — the only Tepenian city whose Local_Cultures file did this. That file has been corrected to describe Belgrano's actual interwar identity only (130 years of a hard, disciplined, functionally-minded aviation hub, still standing as a going concern); this is the separate, later chapter of the same city's story. *Renamed 2026-07-04 from "The Bone Yard" to "The Boneyard Times"* — the name refers to the *era*, not just the place: this is what Belgrano's post-war period itself came to be called, not merely a nickname for the city.*
+*Moved here 2026-07-04 from `Local_Cultures/Halley_Subnet/Belgrano.md`, which had blended this content directly into the city's living, second interwar-era cultural identity — the only Tepenian city whose Local_Cultures file did this. That file has been corrected to describe Belgrano's actual second interwar identity only (130 years of a hard, disciplined, functionally-minded aviation hub, still standing as a going concern); this is the separate, later chapter of the same city's story. *Renamed 2026-07-04 from "The Bone Yard" to "The Boneyard Times"* — the name refers to the *era*, not just the place: this is what Belgrano's post-war period itself came to be called, not merely a nickname for the city.*
 
 Belgrano survived the Long Night War intact — spared the direct destruction that erased Zukelli and Denison *(corrected 2026-07-05 — this line previously also named Soyuz here; Soyuz was never actually destroyed, only damaged, see `TODO.md`)*. Then, in the years afterward, it declined. Slowly. Whatever combination of infrastructure failure, population loss, and severed supply lines did it, the city that survived the war did not survive the peace. This period is what came to be known as **the Boneyard Times** — not a dead city, but a dying one that stopped dying at some equilibrium point and simply kept existing, inhabited by people who chose to stay or arrived because leaving wasn't an option.
 
 The people who remained inherited the founding culture's discipline without its institutional backing — they still function like an airbase crew, because that's the only civic template Belgrano ever had, but there's no chain of command left to answer to. It's discipline as habit and inheritance now, not discipline in service of an organization that still exists.
 
-*(Established 2026-07-04:)* Belgrano's interwar-era mechanic subculture — the garage-and-engine-repair competence that made it the birthplace of the Rastra in the first place — becomes one of the Boneyard Times' few genuinely load-bearing skills. With no institution left to requisition new equipment, keeping old vehicles and machinery running at all depends entirely on people who still know how to work on them, Rastras included. If anything earns real standing in the Boneyard Times independent of the founding discipline itself, it's this.
+*(Established 2026-07-04:)* Belgrano's second interwar-era mechanic subculture — the garage-and-engine-repair competence that made it the birthplace of the Rastra in the first place — becomes one of the Boneyard Times' few genuinely load-bearing skills. With no institution left to requisition new equipment, keeping old vehicles and machinery running at all depends entirely on people who still know how to work on them, Rastras included. If anything earns real standing in the Boneyard Times independent of the founding discipline itself, it's this.
 
 **The central, unresolved question:** whether a culture can be said to persist at all once the population sustaining it has collapsed by an order of magnitude. Belgrano's remaining residents largely believe it can. Visitors from healthier cities aren't always sure.
 
@@ -108,7 +108,7 @@ Each of the four destroyed-city communities is living through this question on i
 
 **Origin cities:** Fort McMurdo (primary); Esperanza (secondary)
 
-*Note 2026-07-04: Fort McMurdo's interwar-era counterpart faction ("Fort McMurdo — Life at the Center of Everything," in `City_Origin_Factions_Interwar.md`) describes the same city *before* it lost this function — worth reading alongside this one for the full arc from dominant hub to displaced community.*
+*Note 2026-07-04: Fort McMurdo's second interwar-era counterpart faction ("Fort McMurdo — Life at the Center of Everything," in `City_Origin_Factions_Second_Interwar.md`) describes the same city *before* it lost this function — worth reading alongside this one for the full arc from dominant hub to displaced community.*
 
 Fort McMurdo was the de facto capital of real-world Antarctica. Everything went through it. For the first decades of Tepenian settlement, McMurdo's logistical heritage was the backbone of how the continent operated. Its residents knew this. Their identity was not just "we are from McMurdo" but "we are the people who kept everything running."
 

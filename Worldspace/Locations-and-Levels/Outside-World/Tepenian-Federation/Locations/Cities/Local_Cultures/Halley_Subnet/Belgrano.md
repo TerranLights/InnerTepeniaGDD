@@ -9,7 +9,7 @@
 
 **One-liner:** *A hard, disciplined, purposeful aviation hub — Argentine Air Force exiles running the Halley subnet's frontier, founding character intact 130 years on regardless of who's actually living there now.*
 
-*(Corrected 2026-07-04: this section previously blended the city's living interwar-era identity with its post-war "Decline" into one two-layer culture — the only Tepenian city whose Local_Cultures file did this, breaking from the standard methodology every other city follows of keeping living pre-war culture here and destruction/decline facts in Specs/the post-war layer. The Decline content has been moved to `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`, where it now has its own dedicated faction entry. This file is restored to describing Belgrano's actual living, functioning interwar culture only.)*
+*(Corrected 2026-07-04: this section previously blended the city's living second interwar-era identity with its post-war "Decline" into one two-layer culture — the only Tepenian city whose Local_Cultures file did this, breaking from the standard methodology every other city follows of keeping living pre-war culture here and destruction/decline facts in Specs/the post-war layer. The Decline content has been moved to `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`, where it now has its own dedicated faction entry. This file is restored to describing Belgrano's actual living, functioning second interwar culture only.)*
 
 ---
 
@@ -69,13 +69,13 @@ Belgrano's aviation operations are seasonally gated by weather windows — fligh
 
 **Name/concept:** *The Airbase That Never Stood Down*
 
-Belgrano's civic character, across its whole 130-year interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine Air Force exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
+Belgrano's civic character, across its whole 130-year second interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine Air Force exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
 
 - **a. Founding tension** — Argentina founded the city and set its entire character, then became its smallest recognized demographic tier over the following century-plus. The tension isn't about whose culture is "real" — the founding discipline was thoroughly adopted by everyone who came after, regardless of where they were from, so the question is less "does Argentine culture survive" and more "why did an operational ethos this total prove so contagious to later arrivals."
 
 - **b. Fault lines** — the peak-era discipline occasionally strains against ordinary civilian life: residents who want Belgrano to be a place people actually live, not just an airbase crew roster with houses attached, versus a majority who genuinely prefer the clarity of function-first civic life and see the alternative as drift.
 
-*(What ultimately happens to this discipline once the institution enforcing it is gone — the post-war "Decline" — is a separate, later chapter in Belgrano's story, not part of its living interwar identity. See `City_Origin_Factions_PostWar_Refugee.md` for that layer.)*
+*(What ultimately happens to this discipline once the institution enforcing it is gone — the post-war "Decline" — is a separate, later chapter in Belgrano's story, not part of its living second interwar identity. See `City_Origin_Factions_PostWar_Refugee.md` for that layer.)*
 
 ---
 
@@ -272,7 +272,7 @@ Becoming a Belgrano resident means being absorbed into the operational and maint
 ## 30. Significant Local Events
 
 - **The founding (post-1979 Air Force base, post-Falkland Treaty exile settlement)** — establishment of Belgrano as the Halley subnet's primary aviation hub
-- **The Long Night War** — Belgrano survived the war intact, unlike Zukelli and Denison, which were destroyed outright *(corrected 2026-07-05 — this line previously also named Soyuz here; Soyuz was damaged, not destroyed, see `TODO.md`)*; what happens afterward is a separate, post-war chapter of the city's story, not part of its living interwar identity (see `City_Origin_Factions_PostWar_Refugee.md`)
+- **The Long Night War** — Belgrano survived the war intact, unlike Zukelli and Denison, which were destroyed outright *(corrected 2026-07-05 — this line previously also named Soyuz here; Soyuz was damaged, not destroyed, see `TODO.md`)*; what happens afterward is a separate, post-war chapter of the city's story, not part of its living second interwar identity (see `City_Origin_Factions_PostWar_Refugee.md`)
 - **The Byrd Expedition** *(established 2026-07-03)* — Belgrano's archives held the richest documentary record pointing to Byrd Station's location; Palmer City and Rothera shipped their own supporting records across the Weddell Sea once word of the expedition spread; Belgrano's industrial/airbase capacity built "las Arrastradoras" (ancestor of the now-international "Rastra"), Tepenia's first native overland vehicles, and an all-robot crew drove them out from the city on the founding crossing that discovered the buried underground city at Byrd
 
 ---
@@ -280,7 +280,7 @@ Becoming a Belgrano resident means being absorbed into the operational and maint
 ## 31. Notable Figures
 
 - **Salagéa Aparast** — Robot; Belgrano native; boat-dwelling datashard courier operating along the Atlantic coast; carries the city's founding discipline and functional seriousness with her even while living apart from Belgrano itself; chose to remain on Earth during the Long Night War specifically to keep archiving pre-war knowledge rather than evacuate via Amundsen Tower
-- **Griselda Alejandra Chávez** — Robot; not a Belgrano native (built in the Republic of Sonora, Upper Earth) but a longtime resident during the city's interwar, fully-functioning era — a blacksmith who became an instrument-maker, shipping whalebone-and-metal pianos by sea to Esperanza and onward to Palmer City. Left via Amundsen Tower on an early evacuation ride before the Long Night War, and now lives on Deimos. **Personally knew Salagéa Aparast** during this pre-war period — see both characters' files.
+- **Griselda Alejandra Chávez** — Robot; not a Belgrano native (built in the Republic of Sonora, Upper Earth) but a longtime resident during the city's second interwar, fully-functioning era — a blacksmith who became an instrument-maker, shipping whalebone-and-metal pianos by sea to Esperanza and onward to Palmer City. Left via Amundsen Tower on an early evacuation ride before the Long Night War, and now lives on Deimos. **Personally knew Salagéa Aparast** during this pre-war period — see both characters' files.
 - **[Placeholder — founding-era Air Force commander or institutional figure]** — whoever set the operational tone that outlasted the institution itself
 
 ---

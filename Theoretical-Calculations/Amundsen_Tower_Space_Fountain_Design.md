@@ -2,6 +2,19 @@
 
 ## TL;DR (2026-07-03)
 
+0. **Reframed 2026-07-05: passenger transport is not the Tower's primary purpose —
+   it's a side-application.** Working through the ~120-year gap between the Tower's
+   operational lifetime and how little of its capacity passenger transport actually
+   uses (see item 1 below) led to identifying what a *flowing-fountain* mechanism —
+   as opposed to a rigid, compression-based tower — is actually, structurally best
+   at. Two things, and neither is moving people: **(a) continent-scale energy
+   storage/regulation**, using the continuously-circulating pellet stream as a
+   planetary-scale flywheel (ties directly into the already-established Amundsen
+   Resonance Effect, `Energy_Grid_Failure_Rationale.md` #11), and **(b) bulk
+   mass-driving of material**, not passengers — a mass driver's native job. See
+   "Primary Purpose," the new section right after this TL;DR, for the full
+   reasoning. Passenger transport still works exactly as designed below; it's just
+   no longer treated as *why the Tower exists*.
 1. **Scaling for a wartime evacuation surge is possible but not necessary.** The
    existing single track's theoretical max throughput (~90,000 people/hour) is ~463x
    the normal design capacity (~194/hour, revised 2026-07-05 for the corrected
@@ -56,6 +69,97 @@ Working design for the physical mechanism of Amundsen Tower (the Space Elevator)
 established 2026-07-02. Covers *what kind of structure it is and how it works*, plus
 worked dimensions, mass, and power figures (see "At a Glance" below). Remaining
 sub-details are flagged under "Still Open" at the bottom.
+
+---
+
+## Primary Purpose: Energy Regulation and Bulk Material Export (reframed 2026-07-05)
+
+The developer's framing for this reframe: rather than treat the Tower as a passenger
+elevator that happens to have extra capacity, start from the structure's actual
+architecture — a **flowing fountain**, not a compression-based rigid tower — and ask
+what a continuously-circulating, closed-loop mass driver reaching 150km is
+*structurally* best suited for. Two answers, and passenger transport isn't one of
+them.
+
+### 1. Continent-scale energy storage and regulation
+
+The pellet stream is, mechanically, a giant flywheel: a continuously circulating
+mass at 4 km/s representing enormous stored kinetic energy, with the accelerator
+already established (see "The Numbers," below) as capable of 85% regenerative
+recovery — it can run in reverse, extracting energy from the stream as readily as it
+feeds energy in. This isn't a new mechanic bolted on; it's already implied by
+existing canon. The **Amundsen Resonance Effect** (`Energy_Grid_Failure_Rationale.md`
+#11) already states the destroyed Tower "once drew massive planetary-scale energy,"
+and that the current Antarctic grid's instabilities trace back to that loss. Read
+through this reframe, that's not just "the Tower consumed a lot of power" — it's
+that **the Tower actively regulated/stabilized the continental grid**, likely by
+acting as a massive, predictable load and energy buffer, the same way large rotating
+generators/flywheels stabilize real-world power grids. Its sudden loss during the
+Long Night War wasn't just losing a heavy customer; it was losing the mechanism that
+kept the whole grid's frequency/load balanced, which is a much more direct
+explanation for why grid instability became a permanent, unresolved scar rather than
+something the Federation eventually engineered around.
+
+**Expanded substantially 2026-07-05 — see `Energy_Grid_Failure_Rationale.md` #11
+(The Amundsen Resonance Effect) for the full write-up.** Two distinct effects, not
+one: (1) a plausible **acute, continent-wide overload event** at the exact moment of
+the Tower's physical collapse — the real-world "load rejection" phenomenon, where a
+grid's generators/subnets, all tuned to a system containing a massive regulating
+element, suddenly have nowhere for their output to go or lose their stabilizing
+buffer the instant that element vanishes. This gives the Long Night War's damage a
+second axis, independent of city-by-city physical destruction: the power grid itself
+took a simultaneous, continent-wide electrical hit in the same moment the Tower fell.
+(2) The **chronic aftermath** already established in the grid-failure lore — ongoing
+instability ever since, now explained mechanistically as the permanent loss of
+regulation capacity the grid's entire architecture was originally designed around,
+which is also why modern large-scale repairs trigger new "resonance feedback loops"
+rather than fixing anything: they're operating on a system missing its central
+stabilizing component.
+
+**Emergency power feedback — genuinely bidirectional, with a real physical limit
+(established 2026-07-05):** because the accelerator already runs in reverse for
+regenerative recovery, the Tower could, in principle, deliberately draw down the
+pellet stream's kinetic reserve further and feed surplus power *out* to the Arcanet
+during a genuine emergency demand spike — not just internally recycle it. But this
+has a hard physical ceiling: **the pellet stream's own momentum is what holds the
+structure up.** Slowing the stream to extract more energy from it directly reduces
+the momentum transfer the tower depends on for structural support. Past some point,
+"feeding the grid" starts to mean "destabilizing a 150km structure." This makes the
+Tower a plausible last-resort emergency power reserve, but explicitly not an
+unlimited battery — drawing on it too hard is a real structural risk, not just an
+efficiency question. (Design/narrative note: the exact safety margin — how far the
+stream can be drawn down before structural risk becomes serious — is not yet
+quantified; a good candidate for a future dramatic "how far do we dare push it"
+decision point, e.g. in Kendra Heinrich's DLC.)
+
+### 2. Bulk material mass-driving, not passengers
+
+A mass driver's native job is launching large quantities of dense, non-fragile
+material — ore, raw material, manufactured cargo — not people. This is already
+implicit in the existing design: passengers ride in **separate maglev cars alongside
+the pellet stream**, not inside it, specifically because a human being is not a
+pellet. The structure's single most mechanically-obvious use is therefore bulk
+material export to orbit (feeding orbital manufacturing, including eventually robot
+fabrication — see `Orbital-Infrastructure/README.md` and `TODO.md`'s "spaceborne vs.
+earthborne robots" note) and the reverse (orbital goods shipped back down) — not
+"moving 12 million people over a few centuries," which the passenger system handles
+as an entirely separate, comparatively modest side-system riding on the same
+scaffolding.
+
+### What this means for passenger transport
+
+Nothing about the passenger-system math below changes — the design capacity
+(~194/hour), the maglev cars, the throughput calculations all still hold exactly as
+worked out. What changes is the *framing*: passenger transport is the Tower's
+**side-application**, not its reason for existing. The Tower would have been built
+this way — as a continent-scale energy regulator and mass driver — even if it had
+never carried a single passenger; the passenger maglev line is a genuinely valuable
+but secondary use of infrastructure that exists for other reasons. This also
+resolves the "120-year operating lifetime, ~6.4x the population moved at design
+capacity" finding from earlier the same session: the Tower wasn't underused for
+120 years, it was doing its actual job (energy regulation, material export)
+continuously the whole time — passenger transport was simply never going to be more
+than a fraction of its total activity, because it was never meant to be.
 
 ---
 
@@ -329,7 +433,7 @@ Night War was canonized as the single precise year 2812, up from the previous
 Treaty rather than the war, so this window grew again, from ~165 years to ~178
 years. Separately, the orbital population target itself was recalculated the same
 day from 9,543,076 to 11,356,581 — see `project_district_canon_timeline_fix` and
-`project_concordia_interwar_sheet` memories — since the Census II "Orbital
+`project_concordia_timeline_sheet` memories — since the Census II "Orbital
 Population" figure had been stale since before this session, uncorrected through
 several rounds of other population changes. **Recalculated again 2026-07-05** — the
 Antarctic Surface total the Orbital figure derives from had itself gone stale since;
@@ -732,6 +836,57 @@ document's shipping/assembly numbers describe. Hwy 22 reaching the South Pole is
 literal precondition for this section's overland-leg assumptions (a groomed,
 established highway rather than an ad-hoc early traverse).
 
+## Tertiary/Opportunistic Functions (flagged 2026-07-05; renamed from "Additional
+Proposed Functions" — two of the original five candidates were promoted to actual
+Primary Purposes above, not developed further here)
+
+The developer originally noted that the Tower's total passenger capacity is so far
+beyond what's needed to move even 12 million people over a 4-6 month window that pure
+passenger shuttling alone starts to look like an underuse of the structure. That
+observation led directly to the "Primary Purpose" reframe above (energy regulation +
+bulk material export). The remaining candidates below are still worth developing, but
+as genuinely secondary/opportunistic uses layered on top of the two primary purposes
+and the passenger side-application — not additional main functions competing with
+them.
+
+**Reinforced 2026-07-05, with a sharper number.** The Second Interwar Period timeline
+(`Tepenian-Federation/Timeline.md`) now places roughly **120 years** between the
+Tower's completion (tentatively its Midpoint, ~2688) and the Long Night War/Tower's
+destruction (2812) — the Tower's entire operational lifetime. Over that window, the
+**existing design capacity** already established above (~194 people/hour) moves:
+
+- **~204 million people** over 120 years — enough to move Tepenia's entire
+  established population (~32,026,600, Census I/II combined, conserved between
+  censuses) **~6.4 times over**, using the realistic, already-margined design figure,
+  not even the theoretical max.
+- At the theoretical max single-track throughput (~90,000/hour), the same 120 years
+  moves the entire population roughly **2,958 times over**.
+
+This is exactly why passenger transport was reframed as a side-application rather
+than the point of the structure — see "Primary Purpose" above. The remaining
+opportunistic candidates, none designed in detail yet:
+
+1. **Return cargo from orbit to the surface.** Manufactured goods, technology, or
+   anything that makes more sense to produce in microgravity/vacuum conditions,
+   shipped back down rather than staying in orbit — the return half of the primary
+   mass-driving function above.
+2. **A physical Arcanet relay anchor.** A permanent structure spanning surface to
+   150km+ altitude is a natural hardpoint for communications infrastructure reaching
+   orbit, rather than relying purely on separate satellite-style relays.
+3. **Permanent scientific/atmospheric research outposts at the waystations**, rather
+   than pure transit stops. The five waystations (Base, Cloudline ~15km, Relay ~50km,
+   Kármán ~100km, Orbital Terminus 150km) already have "possibly small habitats" in
+   the existing design notes above — leaning into that as genuine research posts
+   (atmospheric science, astronomy at the Kármán station specifically) would justify
+   more of the structure's footprint as more than a transit corridor.
+4. **Added strategic-value justification for deliberate wartime targeting.** A
+   structure this multi-functional (energy regulator, mass driver, and passenger
+   line, not just a passenger elevator) strengthens the existing "deliberate military
+   destruction, not incidental battle damage" framing already established for the
+   Tower's fall — more reasons for Upper Earth to want it gone specifically, on
+   purpose, and a much larger strategic/economic loss for Tepenia than "we lost our
+   space elevator" alone would suggest.
+
 ## Still Open
 
 - Precise construction start date (must predate ~2629–2639 completion by 65–75
@@ -740,10 +895,13 @@ established highway rather than an ad-hoc early traverse).
   `World_History_Reference.md`
 - Detailed cargo/freight throughput (as distinct from passengers) — likely modest,
   since bulk construction material for orbital infrastructure comes from debris
-  in-situ, not Tower-launched cargo (see `Orbital_Infrastructure_Mass_Budget.md`)
+  in-situ, not Tower-launched cargo (see `Orbital_Infrastructure_Mass_Budget.md`) —
+  though see "Additional Proposed Functions" above for a related but distinct
+  ongoing-material-supply question this doesn't fully resolve
 - Naming conventions for the five waystations
 - Wartime evacuation surge — actual peak throughput achieved during the Long Night
   War evacuation itself, if a specific figure becomes useful for narrative/level design
+- The five additional proposed functions above — none designed in detail yet
 
 ## Cross-References
 

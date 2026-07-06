@@ -1,8 +1,8 @@
-# Concordia (Interwar Era) — Cultural Spec Sheet
+# Concordia (Second Interwar Era) — Cultural Spec Sheet
 
 ---
 
-**IMPORTANT — read before anything else:** This sheet describes Concordia **during the interwar period** — the ~248 years between the Falkland Treaty (June 21, 2564) and the Long Night War (2812). This is its own era with its own character, not simply "Concordia before something bad happened to it." The Federation spent this span founding its cities, wiring its highways and Arcanet subnet by subnet, and — at the heart of it — building the Amundsen Tower (completed roughly 2629–2639, a source of immense national pride, built largely by robot labor over generations). This sheet treats that ambitious, ascendant, nation-building mood as the defining character of the whole interwar period, not just its early decades — a Federation that had room to grow, resources to invest, and a horizon that pointed outward and upward rather than inward and downward. The other Concordia material in this GDD (`Specs/Concordia.md`, the 13 district files, `Historical_Pressures.md`, `District_Canon_Reference.md`) describes the city after 2812, once it had become "the last functioning major city." That is a different city with a different temperament, covered by a separate sheet still to be written. This sheet answers `Specs/Concordia.md`'s own long-open question: *"Pre-war Concordia — what was the city like before the Long Night War, when it was one of many cities rather than the last one?"*
+**IMPORTANT — read before anything else:** This sheet describes Concordia **during the second interwar period** — the ~248 years between the Falkland Treaty (June 21, 2564) and the Long Night War (2812). This is its own era with its own character, not simply "Concordia before something bad happened to it." The Federation spent this span founding its cities, wiring its highways and Arcanet subnet by subnet, and — at the heart of it — building the Amundsen Tower (completed roughly 2629–2639, a source of immense national pride, built largely by robot labor over generations). This sheet treats that ambitious, ascendant, nation-building mood as the defining character of the whole second interwar period, not just its early decades — a Federation that had room to grow, resources to invest, and a horizon that pointed outward and upward rather than inward and downward. The other Concordia material in this GDD (`Specs/Concordia.md`, the 13 district files, `Historical_Pressures.md`, `District_Canon_Reference.md`) describes the city after 2812, once it had become "the last functioning major city." That is a different city with a different temperament, covered by a separate sheet still to be written. This sheet answers `Specs/Concordia.md`'s own long-open question: *"Pre-war Concordia — what was the city like before the Long Night War, when it was one of many cities rather than the last one?"*
 
 ---
 
@@ -48,7 +48,7 @@ Concordia's thirteen districts were never the product of a single master plan, z
 
 ## 3. Climate Character
 
-Physically identical to what's documented in `Specs/Concordia.md` — mean annual −52.7°C, 3,233m elevation, the same dome-and-corridor architecture, the same Sagittarius/Capricorn outdoor exceptions to it. Interwar Concordia's relationship to that climate was one of mastery rather than survival: a well-resourced, growing Federation had built infrastructure equal to the environment, and the cold was a known, managed cost of doing business at Dome C rather than a daily emergency.
+Physically identical to what's documented in `Specs/Concordia.md` — mean annual −52.7°C, 3,233m elevation, the same dome-and-corridor architecture, the same Sagittarius/Capricorn outdoor exceptions to it. Second Interwar Concordia's relationship to that climate was one of mastery rather than survival: a well-resourced, growing Federation had built infrastructure equal to the environment, and the cold was a known, managed cost of doing business at Dome C rather than a daily emergency.
 
 ---
 
@@ -66,7 +66,7 @@ The same physical seasons documented elsewhere (~82-day polar night, ~85-day mid
 
 **Name/concept:** *A City Built on the Way Up*
 
-Interwar Concordia's whole character is bound up with the Federation's own ascendant mood during the two and a half centuries it took to found cities, wire a continent together, and build a space elevator. Concordia grew during exactly that window — not the Federation's political capital (that seat is TBD, per `Specs/Concordia.md`'s own open question) and not its cultural capital (that was Palmer City), but a real, confident, well-resourced city within a nation that had genuine reason to believe its best years were ahead of it. Its own population tells a quieter version of the same ambitious, outward-looking story: founded by two European nations, but filled out over two and a half centuries by people who came from across the whole Federation because Concordia specifically, at 123°E, was within their reach and worth the reach — China, Japan, South Korea, Russia, Indonesia, and Australia above all.
+Second Interwar Concordia's whole character is bound up with the Federation's own ascendant mood during the two and a half centuries it took to found cities, wire a continent together, and build a space elevator. Concordia grew during exactly that window — not the Federation's political capital (that seat is TBD, per `Specs/Concordia.md`'s own open question) and not its cultural capital (that was Palmer City), but a real, confident, well-resourced city within a nation that had genuine reason to believe its best years were ahead of it. Its own population tells a quieter version of the same ambitious, outward-looking story: founded by two European nations, but filled out over two and a half centuries by people who came from across the whole Federation because Concordia specifically, at 123°E, was within their reach and worth the reach — China, Japan, South Korea, Russia, Indonesia, and Australia above all.
 
 - **a. Founding tension** — Between the founding French-Italian scientific-outpost character and the genuinely East-Asian/Pacific/Russian long-run population that came to define the city's numbers, purely as a function of Concordia's own longitude. Most Tepenian cities where founders lose ground to a later majority still see the founders hold Significant status; Concordia's founders don't even manage that, landing in Notable instead — one of the widest founding-vs-long-run gaps in the Federation.
 - **b. Fault lines** — The dome/outdoor divide (Sagittarius, Capricorn vs. everyone else) already existed in this era, per `Specs/Concordia.md`, and is plausibly the city's oldest genuine internal fault line, present from very early in its growth.
@@ -101,7 +101,7 @@ Interwar Concordia's whole character is bound up with the Federation's own ascen
 
 ## 9. Architecture
 
-The dome-and-corridor system in `Specs/Concordia.md` is a physical constant, but its interwar form should read as ambitious, confidently built infrastructure — the product of a Federation with genuine resources to invest, contemporaneous with the same national mood that built the Amundsen Tower. Aquarius's own architecture already shows "four or five eras of experimental architecture that never cohere" (per `District_Canon_Reference.md`); its earliest eras are interwar building, done at full resource and full ambition.
+The dome-and-corridor system in `Specs/Concordia.md` is a physical constant, but its second interwar form should read as ambitious, confidently built infrastructure — the product of a Federation with genuine resources to invest, contemporaneous with the same national mood that built the Amundsen Tower. Aquarius's own architecture already shows "four or five eras of experimental architecture that never cohere" (per `District_Canon_Reference.md`); its earliest eras are second interwar building, done at full resource and full ambition.
 
 ---
 
@@ -109,7 +109,7 @@ The dome-and-corridor system in `Specs/Concordia.md` is a physical constant, but
 
 - **a. Human cuisine** — Founded on French and Italian culinary tradition, but by 2812 genuinely dominated day to day by the Primary-tier nations' own food cultures — Chinese, Japanese, Korean, Russian, Indonesian, Australian. French and Italian cuisine likely survives as a real, recognizable specialty tradition rather than the everyday default — the founding cuisine, honored rather than universal.
 - **b. Social context of eating** — TBD, likely a genuine civic and social occasion in a well-resourced, confident city.
-- **c. Robot cuisine / siligel culture** — TBD; worth developing as its own interwar tradition.
+- **c. Robot cuisine / siligel culture** — TBD; worth developing as its own second interwar tradition.
 
 ---
 
@@ -121,13 +121,13 @@ TBD, genuinely open — plausibly a real blend reflecting the Primary-tier natio
 
 ## 12. Music
 
-TBD — Leo's own Cymaticist religious connection and sonic-architecture tradition (per `District_Canon_Reference.md`) is a genuine interwar-era tradition, fully mature by 2812.
+TBD — Leo's own Cymaticist religious connection and sonic-architecture tradition (per `District_Canon_Reference.md`) is a genuine second interwar-era tradition, fully mature by 2812.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** TBD; likely shaped early by the city's founding scientific/administrative seriousness, with room to diversify as Leo's entertainment district matured on its own interwar timeline — the Early Federation Boom (2570s–2590s) and the Star War (mid-2740s) are both genuine interwar-era Leo history, per `District_Canon_Reference.md`, and read directly as this sheet's own art history.
+- **Visual arts:** TBD; likely shaped early by the city's founding scientific/administrative seriousness, with room to diversify as Leo's entertainment district matured on its own second interwar timeline — the Early Federation Boom (2570s–2590s) and the Star War (mid-2740s) are both genuine second interwar-era Leo history, per `District_Canon_Reference.md`, and read directly as this sheet's own art history.
 - **Literature:** TBD.
 - **Crafts & material culture:** TBD.
 
@@ -159,7 +159,7 @@ TBD — Leo's own Cymaticist religious connection and sonic-architecture traditi
 
 ## 16. Human-Robot Relations
 
-TBD, genuinely open for interwar-specific development — worth noting that Calethina's Engineering & Activation Lab (per `District_Canon_Reference.md`'s Hub entry) was placed in the neutral Hub specifically as "a neutral activation and integration point for both humans and newly sentient robots" from the *foundational planning* era, late 2560s — one of the oldest, most deliberately designed civic institutions in the city, and a natural fit for an era whose greatest achievement (the Amundsen Tower) was itself built largely by robot labor.
+TBD, genuinely open for second interwar-specific development — worth noting that Calethina's Engineering & Activation Lab (per `District_Canon_Reference.md`'s Hub entry) was placed in the neutral Hub specifically as "a neutral activation and integration point for both humans and newly sentient robots" from the *foundational planning* era, late 2560s — one of the oldest, most deliberately designed civic institutions in the city, and a natural fit for an era whose greatest achievement (the Amundsen Tower) was itself built largely by robot labor.
 
 ---
 
@@ -172,14 +172,14 @@ TBD — likely shaped by the city's founding scientific/administrative character
 ## 18. Religious / Philosophical Landscape
 
 - Whatever "Ice Cold Buddhism" presence Concordia has today is plausible in this era too, since the faith's connection to Kunlun and Dome Fuji predates any war-specific framing.
-- Leo's Cymaticist religion (per `District_Canon_Reference.md`) is a genuine interwar-era spiritual tradition, fully mature by 2812.
-- Pisces's syncretic religion is explicitly framed as the product of "two centuries of absorbing everyone else's spiritual overflow" — its roots are interwar (Pisces existed as an overflow district from the late 2560s), though its fully syncretic present-day form may still have been developing at the war's outbreak.
+- Leo's Cymaticist religion (per `District_Canon_Reference.md`) is a genuine second interwar-era spiritual tradition, fully mature by 2812.
+- Pisces's syncretic religion is explicitly framed as the product of "two centuries of absorbing everyone else's spiritual overflow" — its roots are second interwar (Pisces existed as an overflow district from the late 2560s), though its fully syncretic present-day form may still have been developing at the war's outbreak.
 
 ---
 
 ## 19. Underground / Counterculture
 
-Pisces itself, established as the city's designated overflow zone "for those who didn't fit early planning" (per `District_Canon_Reference.md`), is a genuinely interwar-era institution — Concordia had a real, functioning underground from very early in its growth. Its interwar form was presumably smaller and more genuinely marginal than its later semi-tolerated status.
+Pisces itself, established as the city's designated overflow zone "for those who didn't fit early planning" (per `District_Canon_Reference.md`), is a genuinely second interwar-era institution — Concordia had a real, functioning underground from very early in its growth. Its second interwar form was presumably smaller and more genuinely marginal than its later semi-tolerated status.
 
 ---
 
@@ -195,19 +195,19 @@ TBD — likely tracked closely with each district's own organically-developed sp
 
 ## 21. Political Character
 
-Libra's own founding purpose — "to mediate between human and robot factions, industrial needs, and residential welfare during the chaotic early exile period" (per `District_Canon_Reference.md`) — describes an interwar Concordia genuinely functioning as intended, a real seat of Federation-adjacent governance and mediation. Whether Concordia was ever the Federation's actual government capital remains the open question flagged in `Specs/Concordia.md` — this sheet doesn't resolve it, but Libra's mediating role suggests Concordia was, at minimum, a serious governance center regardless of formal capital status.
+Libra's own founding purpose — "to mediate between human and robot factions, industrial needs, and residential welfare during the chaotic early exile period" (per `District_Canon_Reference.md`) — describes a second interwar Concordia genuinely functioning as intended, a real seat of Federation-adjacent governance and mediation. Whether Concordia was ever the Federation's actual government capital remains the open question flagged in `Specs/Concordia.md` — this sheet doesn't resolve it, but Libra's mediating role suggests Concordia was, at minimum, a serious governance center regardless of formal capital status.
 
 ---
 
 ## 22. Relationship to Upper Earth
 
-Likely distant and historically-flavored rather than acute — an interwar population living within an ascendant, forward-looking Federation, generations removed from the Falkland Treaty's original trauma for most of this 248-year span, building its own future rather than dwelling on the nation it was exiled from.
+Likely distant and historically-flavored rather than acute — a second interwar population living within an ascendant, forward-looking Federation, generations removed from the Falkland Treaty's original trauma for most of this 248-year span, building its own future rather than dwelling on the nation it was exiled from.
 
 ---
 
 ## 23. Relationship to Other Cities
 
-- **Palmer City:** the interwar cultural capital, per established Tepenian lore — Concordia's own relationship to it (rival seriousness vs. Palmer City's glamour, or simple mutual respect between two very different kinds of major city) is TBD and worth developing.
+- **Palmer City:** the second interwar cultural capital, per established Tepenian lore — Concordia's own relationship to it (rival seriousness vs. Palmer City's glamour, or simple mutual respect between two very different kinds of major city) is TBD and worth developing.
 - **Every subnet's coastal cities:** Concordia was one node in a healthy, fully-connected six-subnet network. Its Janbogo subnet membership was a genuine, active daily reality.
 - **Amundsen Station:** the whole Federation's attention, during the Tower's construction years, would have turned toward the South Pole — Concordia's own relationship to that national project (participation, pride, indirect contribution via the same infrastructure sequence that built its own highways) is a rich, currently undeveloped angle.
 - **Vostok, Kunlun, Dome Fuji:** all three shared Concordia's basic interior-plateau geography and altitude concerns, making them its most directly comparable peer cities — the specific relationship is open and worth developing.
@@ -216,7 +216,7 @@ Likely distant and historically-flavored rather than acute — an interwar popul
 
 ## 24. Arcanet Culture
 
-A functioning, fully-connected six-subnet Arcanet, extended region by region during this same nation-building era. Concordia's Gemini district (Janbogo Subnet Nexus) operated as a genuine, healthy information hub within a working network. Janbogo's own "Twin Channels" and "Speed Problem" cultural traits (per `District_Canon_Reference.md`) are explicitly framed as products of Long Night War information-warfare pressure — interwar Gemini's Arcanet culture was a calmer, more genuinely open information environment.
+A functioning, fully-connected six-subnet Arcanet, extended region by region during this same nation-building era. Concordia's Gemini district (Janbogo Subnet Nexus) operated as a genuine, healthy information hub within a working network. Janbogo's own "Twin Channels" and "Speed Problem" cultural traits (per `District_Canon_Reference.md`) are explicitly framed as products of Long Night War information-warfare pressure — second interwar Gemini's Arcanet culture was a calmer, more genuinely open information environment.
 
 ---
 
@@ -224,7 +224,7 @@ A functioning, fully-connected six-subnet Arcanet, extended region by region dur
 
 - Scientific research output, in the tradition of the real Concordia Station's own astronomy, glaciology, and atmospheric-physics work
 - Manufactured goods from Capricorn's industrial yards, at full capacity
-- Whatever cultural and entertainment product Leo produced at its interwar Early Federation Boom-era height (2570s–2590s)
+- Whatever cultural and entertainment product Leo produced at its second interwar Early Federation Boom-era height (2570s–2590s)
 
 ---
 
@@ -257,7 +257,7 @@ TBD — likely an ordinary, unhurried civic process befitting a confident, growi
 ## 29. Notable Local Landmarks
 
 - **The original Concordia Station core** — the real French-Italian research facility infrastructure the exile settlement first inherited, presumably still a recognizable, honored piece of the built environment even after 250 years of growth around it
-- Each district's own interwar-era landmarks, as already documented in their individual files (the Golden Ring promenade in Leo, the spire system in Capricorn, and so on)
+- Each district's own second interwar-era landmarks, as already documented in their individual files (the Golden Ring promenade in Leo, the spire system in Capricorn, and so on)
 
 ---
 
@@ -280,4 +280,4 @@ TBD — per `Specs/Concordia.md`'s own open question, which characters were buil
 
 ## 32. Diaspora Character in Concordia
 
-Not applicable in the usual sense this section describes elsewhere — interwar Concordia *is* the destination city being described here, not a source of diaspora elsewhere. The inverse question — what an interwar Concordian looked like when they traveled *out* to other Tepenian cities, carrying that era's particular ambition and confidence with them — is TBD, and a genuinely open, currently undeveloped angle.
+Not applicable in the usual sense this section describes elsewhere — second interwar Concordia *is* the destination city being described here, not a source of diaspora elsewhere. The inverse question — what a second interwar Concordian looked like when they traveled *out* to other Tepenian cities, carrying that era's particular ambition and confidence with them — is TBD, and a genuinely open, currently undeveloped angle.
