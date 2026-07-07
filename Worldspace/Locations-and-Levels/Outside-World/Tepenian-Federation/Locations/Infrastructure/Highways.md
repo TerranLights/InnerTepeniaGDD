@@ -4,6 +4,8 @@
 
 **Status:** All highways are pre-Long Night War infrastructure. Post-war, coastal sections are partially or fully non-operational. Inland sections (particularly those connecting Concordia, Byrd, Vostok, and the South Pole ruins) may still be functional or partially maintained.
 
+**Visual reference:** `Tepenian airport and flight map - highway overlay.jpeg`, in this same folder, shows the full highway network with every confirmed airport (see `Airports.md`) plotted directly on top of it.
+
 ---
 
 ## Endpoints Quick Reference

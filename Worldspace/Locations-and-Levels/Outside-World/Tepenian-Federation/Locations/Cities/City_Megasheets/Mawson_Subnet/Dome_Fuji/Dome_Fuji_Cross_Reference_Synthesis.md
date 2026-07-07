@@ -128,7 +128,7 @@
 
 ## Worth Your Attention
 
-**Added retroactively 2026-07-06.** Codified going forward (see `City_Megasheet_Compilation_Guide.md`): 3rd-order effects in this document are natural questline seeds, and 4th-order effects are natural branch-points a player could reach via dialogue or in-world discovery. If only a few threads from this document get carried forward, prioritize **Finding 7** (the possible ancient caretaker robot — the strongest new idea here, and its 4th-order effect gives it a genuine, distinct social role rather than just a neat backstory), **Finding 3** (the archive as unused leverage, with a concrete 4th-order link to Kendra's own DLC 1), and **Finding 6** (the "reaching vs. arriving" theological duality, whose 4th-order effect extends its usefulness well past Ice Cold Buddhism itself).
+**Corrected 2026-07-07** — this section previously framed 3rd- and 4th-order effects here as questline seeds and dialogue/discovery branch-points; that design-role mapping is real and still used, but belongs to a separate, later quest-design pass, not to this synthesis document (see `City_Megasheet_Compilation_Guide.md`). If only a few threads from this document get carried forward into that later pass, prioritize **Finding 7** (the possible ancient caretaker robot — the strongest new idea here, with a 4th-order effect that gives it a genuine, distinct social role rather than just a neat backstory), **Finding 3** (the archive as unused leverage, with a concrete 4th-order link to Kendra's own DLC 1), and **Finding 6** (the "reaching vs. arriving" theological duality, whose 4th-order effect extends its usefulness well past Ice Cold Buddhism itself).
 
 ---
 
