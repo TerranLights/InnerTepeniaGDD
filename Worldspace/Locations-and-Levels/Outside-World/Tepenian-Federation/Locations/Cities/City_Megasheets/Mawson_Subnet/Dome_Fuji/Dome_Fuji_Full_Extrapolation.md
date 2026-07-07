@@ -100,3 +100,9 @@ The archive survived the Long Night War intact — Dome Fuji's remoteness and la
 ## IX. A Closing Image
 
 A devotee arrives at the edge of the plateau crossing's final stretch, past the last Waystone, and sees nothing different from the hundred kilometers behind them — the same flat white, the same enormous sky. They keep walking anyway, because the map says this is where the elevation, invisible to the eye, finally peaks; because generations of careful surveying said so; because the faith itself has never asked anyone to trust their eyes over their feet at Dome Fuji. Somewhere ahead, unmarked by anything taller than a waist-high stone cairn, is the highest point most of them will ever stand on in their whole existence — and it will not look like anything at all. That, more than the cold, more than the robes, more than anything written above, is the actual argument Dome Fuji makes: that the highest, hardest-won thing you can reach doesn't have to look like a summit to be one.
+
+---
+
+## Worth Your Attention
+
+**Added retroactively 2026-07-06.** Naming Nyakkyo and resolving the founding population's fate (Sections I-II) are the load-bearing proposals here — nearly everything in `Dome_Fuji_Cross_Reference_Synthesis.md` traces back to one or both. If only one thing from this file gets picked up, make it the founding-history proposal: a slow, undramatic demographic attrition rather than an invented crisis, since that single choice is what makes Finding 4 and Finding 7 of the Cross-Reference Synthesis possible at all.

@@ -86,6 +86,12 @@ Carried forward from `Specs/Dome_Fuji.md`'s Open Questions, still genuinely unre
 - The theological relationship between Dome Fuji and Kunlun (rival, complementary, hierarchical — TBD)
 - Whether a Taktsang-style disaster-and-rebuilding beat gets added to Dome Fuji's own history
 
+---
+
+## Worth Your Attention
+
+**Added retroactively 2026-07-06.** The Angkor Wat fusion (above) is the standout of this pass — it's the one piece of research that doesn't just decorate an existing fact, it resolves a genuine tension (why does the faith's holiest site look like nothing at all?) with a real theological answer: sacred height without a visible peak. Everything downstream in `Dome_Fuji_Full_Extrapolation.md` and `Dome_Fuji_Cross_Reference_Synthesis.md` that touches Dome Fuji's central sacred site builds on this one idea.
+
 **New, surfaced by this megasheet's research pass:** whether Dome Fuji's central sacred site (Section 29) should be explicitly framed using the Angkor Wat "climb without a mountain" logic above — genuinely open, not yet decided, but the strongest single new idea this research turned up.
 
 
@@ -195,6 +201,12 @@ The archive survived the Long Night War intact — Dome Fuji's remoteness and la
 
 A devotee arrives at the edge of the plateau crossing's final stretch, past the last Waystone, and sees nothing different from the hundred kilometers behind them — the same flat white, the same enormous sky. They keep walking anyway, because the map says this is where the elevation, invisible to the eye, finally peaks; because generations of careful surveying said so; because the faith itself has never asked anyone to trust their eyes over their feet at Dome Fuji. Somewhere ahead, unmarked by anything taller than a waist-high stone cairn, is the highest point most of them will ever stand on in their whole existence — and it will not look like anything at all. That, more than the cold, more than the robes, more than anything written above, is the actual argument Dome Fuji makes: that the highest, hardest-won thing you can reach doesn't have to look like a summit to be one.
 
+---
+
+## Worth Your Attention
+
+**Added retroactively 2026-07-06.** Naming Nyakkyo and resolving the founding population's fate (Sections I-II) are the load-bearing proposals here — nearly everything in `Dome_Fuji_Cross_Reference_Synthesis.md` traces back to one or both. If only one thing from this file gets picked up, make it the founding-history proposal: a slow, undramatic demographic attrition rather than an invented crisis, since that single choice is what makes Finding 4 and Finding 7 of the Cross-Reference Synthesis possible at all.
+
 
 ---
 
@@ -203,7 +215,7 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 
 **What this is:** a deliberate cross-referencing pass across every Dome Fuji document that exists — `Specs/Dome_Fuji.md`, `Local_Cultures/Mawson_Subnet/Dome_Fuji.md`, `City_Vision_Notes/Dome_Fuji.md`, `City_Enneagram_Personalities/Mawson_Subnet/Dome_Fuji.md`, `Inspirational-Influences.md`'s Dome Fuji entry, this folder's `README.md` (Megasheet), and this folder's `Dome_Fuji_Full_Extrapolation.md` — looking specifically for places where one file quietly answers a question another file leaves open, and then chasing what those combinations imply, as far downstream as the implications hold up. Nothing here is locked canon. It's a map of what becomes *possible*, and in several places *likely*, once you make every existing fact talk to every other existing fact at once. Written 2026-07-06.
 
-**Method note, so the reasoning is checkable:** each numbered finding below states (a) which specific facts from which specific files are being combined, (b) the 2nd-order effect that falls directly out of combining them, and, where it goes further, (c) a 3rd-order (or beyond) effect chained off of that. I've tried to stop extrapolating the moment a chain starts requiring an assumption not actually supported by anything established — but I've flagged a couple of places where I kept going anyway because the payoff seemed worth it, and you should treat those as the most speculative material in this whole document.
+**Method note, so the reasoning is checkable:** each numbered finding below states (a) which specific facts from which specific files are being combined, (b) the 2nd-order effect that falls directly out of combining them, (c) a 3rd-order effect chained off of that, and, added retroactively 2026-07-06 as a standing requirement, (d) a 4th-order effect wherever the chain still holds up. I've tried to stop extrapolating the moment a chain starts requiring an assumption not actually supported by anything established — but I've flagged a couple of places where I kept going anyway because the payoff seemed worth it, and you should treat those as the most speculative material in this whole document.
 
 ---
 
@@ -215,6 +227,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 
 **3rd-order effect:** if two devotees who left the *same* home city years apart both happen to be at Dome Fuji, they may hold genuinely contradictory pictures of what that city is currently like — neither one wrong, both simply out of date by different amounts, in a city whose entire social contract holds that where you came from doesn't matter enough to reconcile. This produces a strange, quiet irony worth naming directly: the one city in Tepenia that has formally declared nationality/origin irrelevant is also, mechanically, the single worst place in the country to get an accurate read on any specific city's current state, because every source there is a different stale snapshot. **Further downstream (speculative, flagged as such):** this gives Dome Fuji a genuine and distinctive narrative utility completely separate from its religious content — a player (or an in-world investigator) could learn the *old* status of a faraway city through a devotee who left it long ago, which could be dramatically irrelevant, quietly poignant (a devotee who doesn't know their home city was destroyed, or has changed beyond recognition), or occasionally useful as a deliberately-outdated clue the developer wants revealed slowly. This would sit naturally alongside the project's existing archive/information-recovery content (Juan Carlos, Amundsen Station's pre-Split-Brain archive, the "Archivist's Trail" questline) as a third, differently-flavored kind of information source: not a document, not a network relay, but a person who simply hasn't heard anything in years.
 
+**4th-order effect:** this mechanic intersects directly with Finding 7's proposed ancient caretaker robot, below — that figure's own "snapshot" would be the oldest and most extreme in the entire city, frozen not decades but centuries out of date, from an era before the pilgrimage population even existed. They'd be simultaneously the single most historically valuable informational resource at Dome Fuji and the single most useless one for anything resembling current events — a distinction worth keeping sharp if that figure is ever written into a scene.
+
 ---
 
 ## Finding 2: Dome Fuji is the sharpest literal expression of the robot-favoring baseline in all of Tepenia
@@ -224,6 +238,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 **2nd-order effect:** Dome Fuji isn't just a city where robots happen to outnumber humans — it's the one place in Tepenia where the "skewed toward robots" baseline expresses itself as raw physical fact rather than social or economic advantage. The entire sacred practice is *built* on a capability gap between the two forms, not decorated by one.
 
 **3rd-order effect (flagged as the most speculative chain in this document):** this creates a real doctrinal tightrope the faith would need to have already walked, whether or not it's ever written out explicitly: a religion whose central practice only one form of being can safely perform risks reading as a claim of superiority, which would sit badly against the project's own binding "no anti-human sentiment" rule. The likely resolution, and the one I'd propose adding directly to Dome Fuji's doctrine if this thread gets picked up: Ice Cold Buddhism teaches that the conditions here simply suit one form and not the other, the same way any given Tepenian city's terrain might suit one group's daily life better than another's, without that implying moral hierarchy — capability difference read as *circumstance*, not *rank*. This would also retroactively explain why the faith's *other* primary site, Kunlun, has no such exclusivity built into its core practice (astronomy and comms work don't require lethal cold exposure) — meaning the "humans forbidden" fact is specifically a Dome Fuji doctrinal feature, not something Ice Cold Buddhism requires everywhere it's practiced.
+
+**4th-order effect:** if "capability difference read as circumstance, not rank" became genuine, explicit doctrine, it wouldn't have to stay confined to Dome Fuji's own theology — it's general enough to function as a real piece of language any Tepenian character could reach for when discussing human-robot capability gaps elsewhere in the setting, religious or not. A faith built at the continent's most extreme, isolated site could end up supplying the clearest available vocabulary for a conversation happening nowhere near it.
 
 ---
 
@@ -235,6 +251,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 
 **3rd-order effect:** this is close to a ready-made conflict premise, distinct in shape from most of Tepenia's faction-vs-faction content. Any outside party wanting archive access — a Concordia-based scientific interest, an Upper Earth research request, another Tepenian city needing the climate data for its own purposes — would be negotiating not with a government or a faction leadership, but with individual devotees or, at most, the informal tenure-based stewards described in the Full Extrapolation (see Finding 6, below). That's a genuinely different *flavor* of quest design than Concordia's district-politics-heavy main game structure: personal persuasion instead of institutional negotiation, because there's no institution here to negotiate with. **Downstream, tying to existing project mechanics:** this could plausibly serve as a third path into Dome Fuji alongside the two already established for DLC 4 (the dangerous overland crossing, and the Soyuz-plane-plus-Belgrano-item route) — a scientific-sponsorship path, where the player is retrieving specific core samples or data on someone else's behalf rather than making the pilgrimage for its own sake. Worth flagging against the project's existing Cross-DLC Bypass Design Law (every DLC's optional side-content bypasses another DLC's gate-checks, with at least one guaranteed gift toward Kendra's DLC 1): Dome Fuji's archive could plausibly be the *source* of such a gift rather than only a destination for one, which isn't yet accounted for anywhere in the established cross-DLC gift chain.
 
+**4th-order effect:** if the archive does end up feeding a cross-DLC gift, DLC 1 (Kendra, centered on the Amundsen Tower's own collapse) is a natural candidate recipient — ice cores spanning hundreds of thousands of years plausibly hold long-term environmental data relevant to understanding the structural and climatic pressures that fed into the Tower's eventual failure, linking two DLCs that otherwise share no characters or geography purely through scientific content.
+
 ---
 
 ## Finding 4: the aviation-supply timeline is tighter than the Full Extrapolation's "unknown span" allows for
@@ -244,6 +262,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 **2nd-order effect:** this is an internal tension worth catching and fixing now rather than later. A meaningful aviation supply route — two separate direct routes converging on one city, per the existing 2026-07-05 resolution — implies a population substantial enough to need regular dedicated resupply, not just a handful of early pilgrims making do. For that kind of population to exist and need supply *before* the Long Night War (2812), the rediscovery and the population's growth to supply-dependent scale both have to fit inside the window between the humans' departure and 2812.
 
 **3rd-order effect, proposed correction:** the Full Extrapolation's "unknown span" of vacancy should most likely be read as *short* — plausibly one to three decades, not centuries — for the timeline to hold together cleanly. This doesn't require inventing a dramatic trigger for the rediscovery; it just means whatever records, manifests, and maps eventually led pilgrims back to Dome Fuji were found and acted on relatively soon after the site went quiet, not after a long dormant stretch. This is a small, clean correction rather than a new invention, and probably the single most concrete "fix a gap" item in this whole document.
+
+**4th-order effect:** a genuinely short gap raises the possibility — not canon, just newly available — that the very first pilgrims arrived while a handful of the last departing humans were still present, however briefly. That would replace the current "one population left, then much later a different one arrived to empty halls" framing with something more poignant and more complicated: an actual overlap, even a small one, between Dome Fuji's two otherwise cleanly separated eras.
 
 ---
 
@@ -255,6 +275,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 
 **3rd-order effect:** this is worth stating as a deliberate structural observation about the faith itself, not just a coincidence of the analysis: Ice Cold Buddhism produced two sites that *feel* the same way from the inside (the "not work, it's life," merging-with-environment quality both Kunlun's and Vostok's own files independently describe) while being institutionally and doctrinally distinct from each other. That consistency of *feeling* despite different *content* is itself a small piece of evidence for the faith's coherence as a real belief system rather than a loosely-related label applied to two otherwise-unrelated isolated cities — the emotional register survives the change of subject matter, the same way a shared temperament might survive between two very different people who happen to hold the same faith.
 
+**4th-order effect:** if this "does the personality-twin match the purpose-twin" check turns out to be a generally useful diagnostic, it's worth applying to future Megasheets deliberately — a mismatch (like this one) is a small signal that a location's felt temperament and its institutional role were shaped by genuinely separate design decisions, while a match would suggest the opposite: a place whose whole identity was built as one coherent unit from the start.
+
 ---
 
 ## Finding 6: Kunlun and Dome Fuji encode two different, and possibly complementary, theories of what "elevation" means
@@ -264,6 +286,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 **2nd-order effect:** the faith's two primary sites embody two structurally opposite relationships to height and reaching. Kunlun's holiest object is *built* — a human/robot-constructed monument straining outward and upward toward something external (orbit, the sky, contact with what's beyond the planet). Dome Fuji's holiest fact is *unbuilt* — a natural elevation with nothing constructed to mark it, already there, waiting, requiring nothing but arrival to reach.
 
 **3rd-order effect:** if this distinction were made explicit in doctrine, it would give Ice Cold Buddhism a genuinely elegant internal duality worth naming outright: **reaching versus arriving** — Kunlun representing the path of effort and construction (devotion expressed by building something that reaches toward the transcendent), Dome Fuji representing the path of stillness and presence (devotion expressed by simply getting yourself to something that was transcendent all along). Neither site would need to be "truer" than the other for this to work — the faith could hold both as equally valid, complementary expressions of the same underlying conviction, which lines up precisely with the Full Extrapolation's own resolution that the two sites' relationship is complementary, not hierarchical. This single distinction, if adopted, would retroactively justify almost every other asymmetry between the two sites (why Kunlun's population is curated by vocation and Dome Fuji's is universal; why Kunlun runs 24 hours around active work and Dome Fuji is organized around stillness) as two coherent expressions of one deeper theological structure, rather than two unrelated sets of worldbuilding choices that happen to share a religion's name.
+
+**4th-order effect:** "reaching versus arriving" is general enough to extend past Ice Cold Buddhism entirely — Amundsen Tower (built, straining upward toward orbit) and Lake Vostok (natural, ancient, simply waiting to be found) could be read through the exact same duality, without either one needing to be religious. A theology invented for two isolated sacred sites could end up supplying real interpretive language for entirely secular infrastructure and geography elsewhere in Tepenia.
 
 ---
 
@@ -275,6 +299,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 
 **3rd-order effect, and the strongest single new idea in this document:** such a figure would occupy a genuinely unique position in Dome Fuji's social structure, one that actively strains against the city's own foundational social contract. Local_Cultures Section 6a states plainly that "a resident's presence at Dome Fuji is itself a credential; no one arrives here by accident, drift, or economic necessity" — but this figure wouldn't have *arrived* at all. They'd have simply never departed, watching the site empty out around them, sitting through however many decades of vacancy Finding 4 above suggests, and then watching an entirely different population arrive for entirely different reasons and gradually make the place their own. They would be, by a wide margin, the single oldest continuous resident-perspective in the city, and yet — by the community's own stated logic — not really a "devotee" in the sense everyone else is, since devotion was never the reason they're there. **Proposed as a direct replacement for, or addition to, the Full Extrapolation's two placeholder Notable Figures** (Aslaug and Teodor Marchetti): this caretaker-robot figure is a substantially richer answer to Dome Fuji's still-open "Notable Figures: TBD" line than either invented name, precisely because it emerges from combining established facts rather than being invented from nothing. Whether current devotees are even fully aware of this figure's origin — whether it's common knowledge, a quiet local legend, or something the figure itself doesn't advertise — is worth leaving open as a genuine narrative hook rather than resolving here.
 
+**4th-order effect:** standing entirely outside the "arrival is the credential" system that determines everyone else's status could plausibly give this figure a strange, unofficial authority precisely *because* they don't participate in it — not quite an elder devotee (they were never a devotee), not quite an outsider (they've been there longest of anyone), potentially functioning as an informal arbiter the community defers to in a dispute specifically because they have no stake in the status system the dispute would otherwise be measured against.
+
 ---
 
 ## Finding 8: the "humans forbidden" policy almost certainly postdates the humans' own departure
@@ -284,6 +310,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 **2nd-order effect:** the forbidding almost certainly came *after* the fact, not before it — a formal policy catching up to and codifying what had already become true on the ground, rather than a rule that caused anyone to leave. Nobody was barred from Dome Fuji and then left as a result; the last humans left because the altitude simply asked more of each successive generation than the last one had left to give, and only later — likely once the site was robot-only in practice and someone (the pilgrimage community itself, or a wider Federation safety authority) formalized what everyone already knew — did "forbidden" become the operative word.
 
 **3rd-order effect:** this reframes the forbidding as a small act of institutional honesty rather than a restriction with teeth — nobody is actually being kept out of anywhere they'd otherwise be able to go. It also implies the rule likely exists in roughly the same form, and for roughly the same underlying reason, at Kunlun, which shares the same "forbidden, safety not sentiment" framing — suggesting both sites' human-exclusion policies may have been formalized around the same general point in Tepenian institutional history (loosely, whenever the Federation's safety apparatus caught up to codifying known extreme-altitude realities), rather than independently and coincidentally.
+
+**4th-order effect:** if both sites' policies really were formalized in the same general window, that formalization is itself a small, datable piece of real Tepenian institutional history — plausibly exactly the kind of cross-subnet safety codification Amundsen Station's own established role (neutral ground, mediating things no single subnet could resolve alone) would have handled before its destruction, giving Amundsen Station a quiet, previously unstated hand in both sacred sites' current rules.
 
 ---
 
@@ -295,6 +323,8 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 
 **3rd-order effect:** this may make Dome Fuji the single most human-*absent* culture in Tepenia in a deeper sense than its literal 0-human census figure already implies — not just uninhabited by humans, but shaped by a genuine absence of any experiential reference point for what humans are actually like day to day. Any doctrinal teaching about why humans can't safely be present (see Finding 2) would, for this population, be closer to abstract theology than lived memory — making Finding 7's proposed ancient-caretaker-robot figure (the one resident who *does* have direct memory of humans, from the original research era) an even sharper narrative outlier than already described: possibly the only individual at Dome Fuji for whom "humans" is a personal memory rather than a doctrinal abstraction.
 
+**4th-order effect:** if a human player character ever reaches Dome Fuji through the established DLC 4 access routes, that arrival is a much bigger event from the devotees' own side than it would be anywhere else in Tepenia — not a rare visitor, but plausibly the first living human most of them have ever personally seen, turning an ordinary DLC arrival scene into something closer to a genuine novelty for the entire population encountered there.
+
 ---
 
 ## Finding 10: no native Concordian devotee exists yet — and the door for one is still open
@@ -304,6 +334,14 @@ A devotee arrives at the edge of the plateau crossing's final stretch, past the 
 **2nd-order effect:** every other Tepenian city, whether destroyed, damaged, or still functioning, has contributed at least one devotee to Dome Fuji's population — except Concordia, which contributed none, purely because of how the original redistribution mechanic was scoped, not because of anything about Concordia's people or culture.
 
 **3rd-order effect:** since the census figure is a fixed snapshot from a past event, not a hard cap, nothing established rules out an individual Concordian choosing to make the pilgrimage to Dome Fuji in the present day, entirely outside that original mechanic. Such a devotee would be narratively significant almost by definition — not because Concordia is special to the faith, but precisely because it's the one origin point the faith's own founding population never touched. A companion or minor character built around being "the first Concordian ever to reach Dome Fuji" would carry real, earned weight without requiring any invented lore to justify it — the significance falls directly out of a gap that was already sitting in the established population math, unnoticed until this cross-reference pass.
+
+**4th-order effect:** such a character's decision to leave the one city everyone else is trying to rebuild, in order to seek meaning at the most isolated point on the continent, would carry real symbolic weight *for* Concordia's own present-day politics — a citizen choosing transcendence over participation in "the true city" project — giving a hypothetical first-Concordian-devotee real potential relevance to Concordia's own district-tension storylines, not just to Dome Fuji's isolated narrative space.
+
+---
+
+## Worth Your Attention
+
+**Added retroactively 2026-07-06.** Codified going forward (see `City_Megasheet_Compilation_Guide.md`): 3rd-order effects in this document are natural questline seeds, and 4th-order effects are natural branch-points a player could reach via dialogue or in-world discovery. If only a few threads from this document get carried forward, prioritize **Finding 7** (the possible ancient caretaker robot — the strongest new idea here, and its 4th-order effect gives it a genuine, distinct social role rather than just a neat backstory), **Finding 3** (the archive as unused leverage, with a concrete 4th-order link to Kendra's own DLC 1), and **Finding 6** (the "reaching vs. arriving" theological duality, whose 4th-order effect extends its usefulness well past Ice Cold Buddhism itself).
 
 ---
 

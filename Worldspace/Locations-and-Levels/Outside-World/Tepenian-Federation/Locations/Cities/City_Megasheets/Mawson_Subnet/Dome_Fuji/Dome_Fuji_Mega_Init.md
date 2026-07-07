@@ -86,4 +86,10 @@ Carried forward from `Specs/Dome_Fuji.md`'s Open Questions, still genuinely unre
 - The theological relationship between Dome Fuji and Kunlun (rival, complementary, hierarchical — TBD)
 - Whether a Taktsang-style disaster-and-rebuilding beat gets added to Dome Fuji's own history
 
+---
+
+## Worth Your Attention
+
+**Added retroactively 2026-07-06.** The Angkor Wat fusion (above) is the standout of this pass — it's the one piece of research that doesn't just decorate an existing fact, it resolves a genuine tension (why does the faith's holiest site look like nothing at all?) with a real theological answer: sacred height without a visible peak. Everything downstream in `Dome_Fuji_Full_Extrapolation.md` and `Dome_Fuji_Cross_Reference_Synthesis.md` that touches Dome Fuji's central sacred site builds on this one idea.
+
 **New, surfaced by this megasheet's research pass:** whether Dome Fuji's central sacred site (Section 29) should be explicitly framed using the Angkor Wat "climb without a mountain" logic above — genuinely open, not yet decided, but the strongest single new idea this research turned up.
