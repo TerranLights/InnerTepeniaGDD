@@ -35,7 +35,7 @@
 
 ##### Fort McMurdo
 - x [PRIMARY]
-- x [SECONDARY]
+- Calgary, Canada [SECONDARY]
 - x [SECONDARY]
 
 ##### Scott
@@ -51,13 +51,13 @@
 - x [SECONDARY]
 
 ##### Mirny
-- Tyumen, Russia [PRIMARY]
+- Yakutsk, Russia [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
 ##### Davis
-- Guatapé, Colombia [PRIMARY]
-- x [SECONDARY]
+- Tyumen, Russia [PRIMARY]
+- Guatapé, Colombia [SECONDARY]
 - x [SECONDARY]
 
 ##### Vostok
@@ -137,7 +137,7 @@
 - x [SECONDARY]
 
 ##### Lazar
-- x Vancouver (Canada) [PRIMARY]
+- Vancouver, Canada [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
@@ -149,7 +149,7 @@
 ### Palmer ("American") Subnet
 
 ##### Signy
-- x [PRIMARY]
+- Kerkyras/Corfu, Greece [PRIMARY] // near-equal land area by km2
 - Tenerife, Spain [SECONDARY]
 - x [SECONDARY]
 
@@ -182,7 +182,7 @@
 
 ##### Port Lockroy
 - x [PRIMARY]
-- Corfu (Kerkyras), Greece [SECONDARY]
+- x [SECONDARY]
 - x [SECONDARY]
 
 ##### Rothera

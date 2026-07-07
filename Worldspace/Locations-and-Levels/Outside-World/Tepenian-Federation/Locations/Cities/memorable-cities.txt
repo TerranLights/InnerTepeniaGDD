@@ -1,9 +1,6 @@
-Calgary
 Flagstaff
-Kerkyras/Corfu
 Izmir
 Vladivostok
-Yakutia
 Tucson 
 Brasov
 Szeged
@@ -18,7 +15,6 @@ Belgrade
 Nis
 Leskovac
 Noosa / Gold Coast
-Victoria BC
 
 
 
@@ -32,3 +28,7 @@ Novosibirsk
 Lahti
 Yalta
 Berlin
+Calgary
+Victoria BC
+Kerkyras/Corfu
+Yakutsk
