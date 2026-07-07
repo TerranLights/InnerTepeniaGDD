@@ -141,7 +141,7 @@ Science, almost entirely. Vostok's economy was the Lake Vostok research program 
 
 ## Notable Figures
 
-- **TBD — Doll, geneticist** — Central character of the Vostok DLC. A robot genetic scientist who discovered a cost-effective method for working with genetics with significantly reduced mutation rates — a major breakthrough in the field. Her work and her presence at Vostok are almost certainly connected to Lake Vostok: a 25-million-year-isolated subglacial ecosystem is one of the most extraordinary genetic research opportunities in the known world. Name, personality, full backstory, and the specific nature of her Lake Vostok research TBD. She is the primary reason to come to Vostok in the DLC beyond the city itself.
+- **"Charlene" (model designation XT-17)** *("Charlene" is a working/folder-reference name only — her actual personal name is still TBD)* — Robot; confirmed 2026-07-07 as this section's central figure. A resident geneticist who discovered a cost-effective method for working with genetics with significantly reduced mutation rates — a major breakthrough in the field. Her own character folder (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/TBN [XT-17 unorthodox science teacher Charlene]/`) confirms she lives and works at Vostok in the present day — a potentially-recruitable companion the player can meet here directly. Her work is almost certainly connected to Lake Vostok: a 25-million-year-isolated subglacial ecosystem is one of the most extraordinary genetic research opportunities in the known world. Full backstory and the specific nature of her Lake Vostok research still TBD. She is the primary reason to come to Vostok in the DLC beyond the city itself.
 
 ---
 

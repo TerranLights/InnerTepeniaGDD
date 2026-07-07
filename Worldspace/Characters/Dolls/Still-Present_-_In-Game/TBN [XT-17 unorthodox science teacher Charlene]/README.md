@@ -1,10 +1,10 @@
 # Character Summary
 
-## TBN (designation: XT-17) / "Charlene"
+## TBN (designation: XT-17) / "Charlene" (working name — personal name TBD)
 
-**Role / Archetype:** Unorthodox science teacher; Aquarius fringe curriculum anchor
-**Primary Location(s):** Aquarius (The Labs) — University of Concordia fringes
-**Affiliation(s):** The Fringe Curriculum (alternative education study circle — potential faction seed)
+**Role / Archetype:** Unorthodox science teacher and resident geneticist at Vostok — discovered a cost-effective, reduced-mutation-rate genetics technique (see `Cities/Specs/Vostok.md` and `City_Megasheets/Mirny_Subnet/Vostok/`), central figure of the Mirny DLC's Vostok content
+**Primary Location(s):** **Corrected 2026-07-07** — Vostok, East Antarctic Plateau (Mirny subnet), not Concordia's Aquarius district as previously listed here; that was stale. She lives and works at Vostok in the present day, discoverable and potentially recruitable by the player there. Whether/how her established "fringe curriculum" teaching role now applies at Vostok specifically (mentoring within the research population there, rather than Concordia's Aquarius) is open and worth developing rather than assumed away.
+**Affiliation(s):** Vostok's Lake Vostok genetics research program; The Fringe Curriculum (her own teaching practice, location TBD per the above)
 **Companion Potential:** Undecided
 
 ## Core Identity

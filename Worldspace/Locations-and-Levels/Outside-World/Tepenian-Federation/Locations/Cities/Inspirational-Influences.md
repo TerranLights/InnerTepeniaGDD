@@ -57,18 +57,18 @@
 
 ##### Davis
 - Tyumen, Russia [PRIMARY]
+- Vladivostok, Russia [SECONDARY]
 - Guatapé, Colombia [SECONDARY]
-- x [SECONDARY]
 
 ##### Vostok
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- CRISPR [PRIMARY] // (under authority of the NSF)
+- Materials Innovation Platforms (MIP) [SECONDARY] // (under authority of the NSF)
+- ChemMatCARS [SECONDARY] // (under authority of the NSF)
 
 ##### Kunlun
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- NOIRLab [PRIMARY] // (under authority of the NSF)
+- CHEXS/CHESS [SECONDARY] // (under authority of the NSF)
+- Massachusetts Institute of Technology (MIT) [SECONDARY] // though Kunlun is not a "university" setting
 
 ##### Zhongshan
 - x [PRIMARY]
