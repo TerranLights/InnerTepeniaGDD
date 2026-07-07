@@ -56,6 +56,8 @@ A very well-connected Upper Earth political diplomat was in Palmer City for "bus
 
 The user has decided to leave the actual capital question aside until the cities are much more fully developed — but confirmed three explicit exclusions in the meantime: **it is definitely not Palmer City, Concordia, or Lazar.** Beyond that, undecided by design. Updated in `National_Capital_Candidates.md` — closed out that file's previously-open "Concordia is the capital" design direction, and added Lazar as a new explicit exclusion (notable since Lazar is Tepenia's largest city, reinforcing that file's own point that population size doesn't determine capital status).
 
+**Fully resolved 2026-07-07, once the cities were far more developed:** Fort McMurdo. See `National_Capital_Candidates.md` for the full analysis — two independent passes converged on it.
+
 ---
 
 ## Demonym — resolved 2026-07-04

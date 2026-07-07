@@ -1,5 +1,45 @@
 # Tepenian National Capital — Candidate Analysis
 
+## RESOLVED, 2026-07-07 — Fort McMurdo was the National Capital of Tepenia (historical, pre-war only)
+
+**Decision confirmed.** After two genuinely independent analytical passes — the original 2026-07-03/04 geopolitical/demographic ranking below, and a fresh 2026-07-07 pass grounded in each city's actual established personality, culture, and political character from the completed City Vision Notes process — both converged on **Fort McMurdo**. The 2026-07-07 reasoning is recorded in full in the new section immediately below; the original analysis is preserved beneath it as the historical record of how the question was first explored.
+
+The convergence itself is worth noting directly: two passes run at different times, using different methods and different available information, independently arrived at the same city. Fort McMurdo's case rests on the same real-world precedent both passes identified — McMurdo Station's actual, functional status as the de facto capital of Antarctica for the better part of a century — and on the fact that the established lore already treats Fort McMurdo this way informally (see its own "de facto capital"/"McMurdo Problem" faction). Formalizing an existing reality, rather than manufacturing a new one, was ultimately the deciding logic.
+
+**Second and final part of the resolution, same day: present-day Tepenia has no capital at all.** Fort McMurdo held the title up through the Long Night War, but the title does not survive the war — it does not pass to Concordia, or to any other city, by default or by law. This is a deliberate, permanent absence, not an unresolved question awaiting a future answer: the nation that exists in the game's present-day setting (≈2822–2827) is, formally, a capital-less federation. Whatever governance exists post-war operates without a designated seat, which is itself a meaningful fact about the state Tepenia is in when the player enters the story.
+
+---
+
+## 2026-07-07 Analysis — Top 10, Grounded in Established City Character
+
+**Method note:** unlike the original 2026-07-03/04 pass below (built on Gini-adjusted demographic weight and geopolitical bloc-balance reasoning), this pass draws on the City Vision Notes process, which by 2026-07-06 had given every touched city in Tepenia a genuine, developer-confirmed personality, culture, and political character. Candidates are ranked by fit against political neutrality, symbolic weight, and practical governance capacity — explicitly not population, per the developer's own direction (Lazar, the largest city by a wide margin, was excluded from consideration on this basis alone).
+
+**1. Fort McMurdo** — *For:* already functions as the informal "de facto capital" in established lore — real operational gravity, decisions here genuinely ripple outward to every other city. Formalizing an existing reality is the least disruptive path to an actual capital. *Against:* its own established faction, "The McMurdo Problem," names real resentment about its outsized influence; formalizing it risked sharpening that tension rather than resolving it.
+
+**2. Dumont d'Urville** — *For:* its whole established cultural identity, "Negotiated Ground," is already coded as a place built around managing competing interests — a direct thematic fit for a seat of government, genuinely alive and functioning. *Against:* physically vulnerable (the mainland bridge's permanence is still an open question) and small.
+
+**3. Sanay** — *For:* holds the Halley subnet's actual technical nexus while letting Halley keep the naming credit — a model of real, competent power exercised without needing the spotlight. *Against:* almost too quiet for the visible symbolic weight a capital needs.
+
+**4. Zhongshan** — *For:* "chaos that is actually structure" reads almost like a governance metaphor on its own; genuine scale, shared Tri-Cities infrastructure. *Against:* heavily China-Primary demographically post-rework, risking the appearance of favoring one nation.
+
+**5. Janbogo** — *For:* genuine subnet hub, the physical Arcanet relay-nexus; its role in the Zukelli destruction (left standing deliberately to witness and remember) gives it real moral seriousness. *Against:* that same weight could make it a heavier, more mournful seat of government than a young, rebuilding nation wants at its center.
+
+**6. Mirny** — *For:* its own defining architecture — a city built as its own windbreak — is a literal self-protection metaphor; real industrial teeth already feeding other cities. *Against:* "rough," minimal cultural/ceremonial infrastructure.
+
+**7. Scott** — *For:* politically neutral, genuinely pleasant and stable, the explicit calm counterpart to Fort McMurdo next door — a plausible "seat of calm deliberation" to McMurdo's "operational engine," mirroring real capital/economic-center splits. *Against:* defined by not much visibly happening; may lack independent connectivity/infrastructure.
+
+**8. Byrd** — *For:* total self-sufficiency by necessity, genuine independence from any other city's goodwill. *Against:* the single most isolated surviving city in the country, grounded aviation fleet — brutal governance logistics.
+
+**9. Rothera** — *For:* one of Tepenia's rare confirmed airports, modest and uncontroversial. *Against:* thin on established characterization so far.
+
+**10. Marambio** — *For:* dual sea-and-air logistics powerhouse, genuine connective muscle. *Against:* almost entirely functional/industrial character, no established civic or ceremonial identity.
+
+**Explicitly ruled out:** Halley (genuine risk of calving into the sea — disqualifying on its face), Kunlun/Vostok/Dome Fuji (extraordinarily specialized single-purpose populations, not general civic life), Zukelli/Juan Carlos (destroyed).
+
+---
+
+## Original Analysis (2026-07-03/04) — Preserved as Historical Record
+
 **Purpose:** A ranked analysis of the 10 most plausible candidate cities for the seat of the Tepenian federal government, with reasoning for each. Population alone is not the determining factor *(corrected 2026-07-04 — this used to cite Janbogo as the largest city; Lazar took that title in an earlier population rebalancing pass, and the user has explicitly excluded Lazar from capital consideration despite its size, which makes the same point even more directly)* — Lazar is the largest city, but that does not make it the obvious capital, any more than the largest city is the capital in most real-world federations (see Canberra, Ottawa, Brasília, Ankara, Washington D.C.). This document is a design deliberation tool, not a decision. The capital is TBD.
 
 **Excluded from consideration:** Amundsen Station (South Pole — destroyed in Long Night War, never a residential city), Zukelli (destroyed), Belgrano (ruins, DLC 5 setting), Palmer City (ruins), Framheim and Little America (removed from canon entirely 2026-07-03 — their shared real-world site, the Bay of Whales, was eliminated by the 1987 Iceberg B-9 calving event, leaving no physical basis for either city; see `Official_Population_Census.md`'s removal note). *(Corrected 2026-07-05 — Soyuz was previously excluded here alongside Zukelli as "destroyed"; that was stale even before today, predating Soyuz's 2026-07-03 correction to damaged/partially operational. Soyuz was never actually destroyed and isn't automatically disqualified the way genuinely destroyed/ruined cities are — several other damaged-but-functional cities, like Neumayer, Troll, Princess Elisabeth, Abowasa, and Sanay, are already active candidates below despite carrying the same "damaged" status. Soyuz simply isn't currently among the Top 9 — its removal from this exclusion list doesn't imply it should be added as a new candidate, just that it was wrongly disqualified for a status it never actually had.)* **Also confirmed excluded 2026-07-04** (during a Palmer City developer-vision session — see `Cities/City_Vision_Notes/Palmer_City.md`): **Concordia** and **Lazar** — the user has explicitly ruled out both, deliberately without naming a replacement yet. The actual capital is deferred until the cities are much more fully developed; revisit this file then.
@@ -172,4 +212,6 @@ The Canberra argument is strongest here: Canberra existed as a semi-rural territ
 
 **The Belgrano counterfactual:** If the Long Night War had not destroyed/ruined Belgrano, it would be a very strong candidate — the third or fourth city in the QML arc with significant population, positioned as one of the first Argentine-founded settlements and therefore carrying Peninsula founding resonance alongside QML subnet legitimacy. Its ruin is a significant historical loss in more ways than one. The capital question's answer might have been obvious before the war.
 
-**The "Concordia is the capital" possibility — closed 2026-07-04.** This used to be an open design direction: if Concordia were itself the national capital, or had been before the war, that would create immediate narrative texture for the main game (moving through a capital city in ruins, stripped of function, cut off from the subnets it was supposed to connect). The user has since explicitly ruled this out — Concordia is confirmed *not* the capital, without a replacement named yet.
+**The "Concordia is the capital" possibility — closed 2026-07-04.** This used to be an open design direction: if Concordia were itself the national capital, or had been before the war, that would create immediate narrative texture for the main game (moving through a capital city in ruins, stripped of function, cut off from the subnets it was supposed to connect). The user has since explicitly ruled this out — Concordia is confirmed *not* the capital.
+
+**The capital question itself — RESOLVED 2026-07-07.** See the top of this file. Fort McMurdo, this analysis's own #5 candidate, is the confirmed national capital — the same city a second, independently-run analysis also converged on.

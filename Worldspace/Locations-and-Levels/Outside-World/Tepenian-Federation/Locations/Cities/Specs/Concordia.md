@@ -253,7 +253,7 @@ Concordia is not a legacy city — it is the present. Its legacy will be written
 
 ## Open Questions
 
-- Governmental capital of Tepenia — was it Concordia, or another city? (Palmer City was the cultural capital; the governmental seat is TBD)
+- ~~Governmental capital of Tepenia~~ **RESOLVED 2026-07-07: Fort McMurdo, historically, up through the Long Night War — confirmed not Concordia, then or now** (see `National_Capital_Candidates.md`). Palmer City remains the cultural capital. **Fully resolved, same day:** the capital title does not survive the war and does not transfer to Concordia by default — present-day Tepenia has no capital of any kind. Concordia's own political weight as the last major functioning city is real, but it is not, and does not become, the national capital.
 - Which characters were built or activated in Concordia specifically vs. arriving as refugees? (affects Notable Figures)
 - Official names for the seven districts still lacking them: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Libra
 - Long-term population figures: TBD

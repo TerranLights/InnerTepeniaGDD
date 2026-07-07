@@ -1,5 +1,7 @@
 # City Megasheet Compilation Guide
 
+**Progress tracking:** see `Megasheet_Progress_Checklist.md` in this same folder — check off each city there as it completes the process.
+
 **What this is:** a record of the actual thinking process used to go from a city's five raw source inputs (`Specs/`, `City_Enneagram_Personalities/`, `City_Vision_Notes/`, `Local_Cultures/`, and `Inspirational-Influences.md`) all the way to that city's final `README.md` — reconstructed step by step, after the fact, using Dome Fuji (the first city to go through this process) as the worked example. Written so the same process can be repeated for any future city without having to rediscover the reasoning each time. Written 2026-07-06.
 
 **Naming convention, corrected 2026-07-06:** `README.md` is reserved for the *final*, fully-detailed end result — the concatenation of all three output stages, in order. It is **not** the first-pass synthesis file. Step 1's own output gets its own name instead, along the lines of `[City]_Mega_Init.md` — an initial synthesis pass, not the finished product. Only after Steps 2 and 3 both exist and everything is concatenated together does the combined result become `README.md`.

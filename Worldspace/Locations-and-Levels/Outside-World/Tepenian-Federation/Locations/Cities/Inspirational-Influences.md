@@ -3,14 +3,15 @@
 ### Janbogo Subnet
 
 ##### Concordia
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Moscow, Russia [PRIMARY]
+- Los Angeles, California [SECONDARY]
+- Mexico City (Distrito Federál), Mexico [SECONDARY]
+- Berlin, Germany [SECONDARY]
 
 ##### Dumont d'Urville
 - Quebec City, Quebec [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- San Miguel de Allende, Mexico [SECONDARY]
+- San Miguel de Tucumán, Argentina [SECONDARY]
 
 ##### Denison
 - x [PRIMARY]
@@ -18,8 +19,8 @@
 - x [SECONDARY]
 
 ##### Cape Adare
-- x [PRIMARY]
-- x [SECONDARY]
+- Yalta, Crimea [PRIMARY]
+- Lahti, Finland [SECONDARY]
 - x [SECONDARY]
 
 ##### Janbogo
@@ -28,9 +29,9 @@
 - x [SECONDARY]
 
 ##### Zukelli
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Kraków, Poland [PRIMARY]
+- Valparaíso, Chile [SECONDARY]
+- Venice, Italy [SECONDARY]
 
 ##### Fort McMurdo
 - x [PRIMARY]
@@ -38,7 +39,7 @@
 - x [SECONDARY]
 
 ##### Scott
-- x [PRIMARY]
+- Victoria, BC, Canada [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
@@ -50,12 +51,12 @@
 - x [SECONDARY]
 
 ##### Mirny
-- x [PRIMARY]
+- Tyumen, Russia [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
 ##### Davis
-- x [PRIMARY]
+- Guatapé, Colombia [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
@@ -72,24 +73,25 @@
 ##### Zhongshan
 - x [PRIMARY]
 - x [SECONDARY]
-- x [SECONDARY]
+- Yekaterinburg, Russia [SECONDARY]
 
 ##### {{currently-unnamed Korean city}} [[ex-Soyuz]]
 - Daegu, South Korea [PRIMARY]
-- x [SECONDARY]
+- Córdoba, Argentina [SECONDARY]
 - x [SECONDARY]
 
 ##### {{currently-unnamed Japanese city}} [[ex-Bharati]]
 - Shibuya District, Tokyo, Japan [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Harajuku District, Tokyo, Japan [PRIMARY]
+- Hongdae District, Seoul, Korea [SECONDARY]
+- Novosibirsk, Russia [SECONDARY]
 
 ### Mawson Subnet
 
 ##### Mawson
 - Odessa, Ukraine [PRIMARY]
-- Tenerife, Spain [SECONDARY]
 - x [SECONDARY]
+- Varna, Bulgaria [SECONDARY]
 
 ##### Sayowa
 - x [PRIMARY]
@@ -124,9 +126,10 @@
 - x [SECONDARY]
 
 ##### Sanay
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Rotterdam, Netherlands [PRIMARY]
+- Silicon Valley, San Francisco, California [SECONDARY]
+- Guangzhou, China [SECONDARY]
+- Durban, South Africa [SECONDARY]
 
 ##### Troll
 - x [PRIMARY]
@@ -147,11 +150,11 @@
 
 ##### Signy
 - x [PRIMARY]
-- x [SECONDARY]
+- Tenerife, Spain [SECONDARY]
 - x [SECONDARY]
 
 ##### Sejong
-- x [PRIMARY]
+- Keelung, Taiwan [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
@@ -166,9 +169,9 @@
 - x [SECONDARY]
 
 ##### Juan Carlos
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- St. Gallen, Switzerland [PRIMARY]
+- Hay-on-Wye, Wales [SECONDARY]
+- Wolfenbüttel, Germany [SECONDARY]
 
 ##### Palmer City
 - Las Vegas [PRIMARY]
@@ -179,7 +182,7 @@
 
 ##### Port Lockroy
 - x [PRIMARY]
-- x [SECONDARY]
+- Corfu (Kerkyras), Greece [SECONDARY]
 - x [SECONDARY]
 
 ##### Rothera
@@ -190,8 +193,8 @@
 ### Byrd Subnet
 
 ##### Byrd
-- Edmonton, Alberta [PRIMARY]
-- x [SECONDARY]
+- Red Deer, Alberta [PRIMARY]
+- Regina, Saskatchewan [SECONDARY]
 - x [SECONDARY]
 
 ### South Pole [special case]

@@ -523,7 +523,7 @@ The destruction of Amundsen Station severed all inter-subnet Arcanet connections
 
 ## 5. Open Questions (for future resolution)
 
-- **Governmental capital of Tepenia** — which city served as the governmental center? (Palmer City was cultural, not governmental — TBD)
+- ~~**Governmental capital of Tepenia**~~ **RESOLVED 2026-07-07: Fort McMurdo** (see `National_Capital_Candidates.md`) — Palmer City was cultural, not governmental.
 - **Neumayer connector road** — exact organization, name, and which precise point on Hwy 7 it branches from (between Abowasa and Sanay, at nearest safe geographic point — details TBD)
 - ~~**Hwy 22 at Amundsen Station** — does Hwy 22 pass through the South Pole, or does Hwy 175 connect to it at a point away from the South Pole? (confirm against map)~~ **RESOLVED 2026-07-03:** confirmed against `Reference-Images/Maps/Antarctica_highway_map_by_topology.jpeg` — Hwy 22 passes directly through the South Pole/Amundsen Station.
 - ~~**Maitri rename** — city will be renamed in later documents; new name TBD~~ **RESOLVED 2026-07-03:** finalized as "Lazar" — see `Specs/Lazar.md` for the full two-settlement coalescence founding story.

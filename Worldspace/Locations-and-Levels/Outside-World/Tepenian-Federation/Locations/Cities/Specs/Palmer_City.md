@@ -130,7 +130,7 @@ The first residents took up the old pre-war station buildings immediately on arr
 
 Palmer City became what its founding population made it: a city that celebrated the fact of its own existence. The jazz records found in the station buildings set the tone — a music born from a marginalized community creating something transcendent from difficult circumstances resonated immediately with an exile population building a country from abandoned buildings on the southernmost accessible point of the world.
 
-At peak, Palmer City combined the spectacle and excess of Las Vegas, the boardwalk energy of Atlantic City, the cultural depth and musical soul of New Orleans, and the grand ambition of St. Petersburg. It was not the governmental capital of Tepenia — that distinction belonged elsewhere (TBD). It was something different: the place where Tepenia celebrated itself.
+At peak, Palmer City combined the spectacle and excess of Las Vegas, the boardwalk energy of Atlantic City, the cultural depth and musical soul of New Orleans, and the grand ambition of St. Petersburg. It was not the governmental capital of Tepenia — that distinction belongs to Fort McMurdo, confirmed 2026-07-07 (see `National_Capital_Candidates.md`). It was something different: the place where Tepenia celebrated itself.
 
 **Neutrality:** Palmer City's status as the first settlement — the arrival point, the place everyone passed through — gave it a character no later-founded city could replicate. No faction had claim to it because every faction's predecessors had walked its ice paths first. Neutrality was not a policy; it was an inheritance from being the beginning.
 
@@ -216,7 +216,7 @@ Palmer City's legacy in Concordia is primarily cultural and philosophical:
 ## Open Questions
 
 - **Demonym** — **Palmerian** *(established 2026-07-04)*
-- What was the governmental capital of Tepenia? (Palmer City was the cultural capital, not the governmental one — confirmed 2026-07-04 that it's definitely not Palmer City, Concordia, or Lazar; see `City_Vision_Notes/Palmer_City.md`)
+- ~~What was the governmental capital of Tepenia?~~ **RESOLVED 2026-07-07: Fort McMurdo.** Palmer City remains the cultural capital, not the governmental one — see `National_Capital_Candidates.md` for the full analysis.
 - Are the ruins of Palmer City accessible, or too remote and destroyed to reach without significant effort? (DLC 3 design)
 - What other named streets, landmarks, venues, or institutions existed at peak?
 - Are any Palmer City cultural institutions, traditions, or artifacts preserved in Concordia beyond what is listed?

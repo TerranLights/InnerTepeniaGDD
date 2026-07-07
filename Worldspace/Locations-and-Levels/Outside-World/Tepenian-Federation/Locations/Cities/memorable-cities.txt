@@ -1,21 +1,14 @@
-Krakow
-Venice
 Calgary
-Los Angeles
 Flagstaff
 Kerkyras/Corfu
 Izmir
-Vladivostok 
-Novosibirsk
+Vladivostok
 Yakutia
-Yalta
 Tucson 
 Brasov
 Szeged
 Budapest
 Turku
-Lahti
-Berlin
 Daugavpils
 Varna
 Constanta
@@ -26,3 +19,16 @@ Nis
 Leskovac
 Noosa / Gold Coast
 Victoria BC
+
+
+
+
+
+
+Krakow
+Venice
+Los Angeles
+Novosibirsk
+Lahti
+Yalta
+Berlin

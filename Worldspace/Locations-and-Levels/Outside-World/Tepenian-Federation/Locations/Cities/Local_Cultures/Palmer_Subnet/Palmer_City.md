@@ -187,7 +187,7 @@ With 43 nations represented, "minority community" is a genuinely relative term h
 
 ## 21. Political Character
 
-Neutral by inheritance rather than policy — no faction had unique claim to Palmer City because every faction's predecessors passed through it first. Not the governmental capital of Tepenia (that distinction belongs elsewhere, TBD) but the undisputed cultural capital, a distinction its founding population would have recognized as the more important one.
+Neutral by inheritance rather than policy — no faction had unique claim to Palmer City because every faction's predecessors passed through it first. Not the governmental capital of Tepenia (that distinction belongs to Fort McMurdo, confirmed 2026-07-07) but the undisputed cultural capital, a distinction its founding population would have recognized as the more important one.
 
 ---
 
