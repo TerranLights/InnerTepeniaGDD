@@ -74,6 +74,33 @@ Where Soyuz would likely respond to a challenge with visible emotional force (Re
 
 ---
 
+## The Jeju-do Partition and Amalgamation, Established 2026-07-07
+
+**Founding event, extending what was already on record for Bharati alone (see its own section above) to cover all three cities:** Zhongshan, Soyuz, and Bharati were established as three separate, legally distinct cities via a peaceful diplomatic negotiation among China, Korea, and Japan at the **International Court of Diplomacy at Jeju-do** — the same real-world site already established elsewhere in Tepenian history as a recurring seat of major diplomatic and legal proceedings (see the 2318 robot-personhood ruling, cited elsewhere in the project as "the Jeju-do ruling"). The three cities' extreme physical proximity in the real Larsemann Hills made a single negotiated partition the natural solution to what could otherwise have been an uncontested Chinese demographic claim over the whole cluster — precisely the logic already on record for Bharati's own site allocation.
+
+**What happens after founding — three stages, not yet fully dated:**
+1. **Legal separation.** All three cities begin, and for a long stretch remain, three fully separate municipalities — distinct governments, distinct civic identities, the very identities each city's own City Vision Notes session and Enneagram read above describe.
+2. **De facto amalgamation.** Sometime at or shortly before Amundsen Tower's completion, the three cities' physical growth — already inevitable given how tightly clustered they are — closes the remaining gaps between them, and they become one continuous, functionally single urban area in every practical sense, while remaining three separate cities in law. *(Note: Amundsen Tower's own completion date is itself still unresolved in the project — live candidates are ~2629–2639 and ~June 2688; see `Timeline.md`'s top-of-file caveat. This section's own dating should be revisited once that tension is resolved, since it's anchored directly to it.)*
+3. **Full legal unification.** At some point between that de facto amalgamation and roughly a generation before the Long Night War (2812) — so, at the latest, somewhere in the ~2780s — the three cities formally, legally become one single city, in every sense: one government, one civic identity, full absolute unification.
+
+**Sub-district names, confirmed:** whatever Zhongshan, {{ex-Soyuz}}, and {{ex-Bharati}} end up properly named, each city's own individual name persists as the unified city's internal sub-district identifier after unification — the way real-world unified cities (Budapest's Buda/Pest, unified NYC's five boroughs) keep their pre-unification names as living neighborhood identities rather than erasing them into a single undifferentiated whole. Note that "Soyuz" and "Bharati" are themselves still current placeholder names, not final ones — "Soyuz" is a Russian-derived name slated for eventual replacement with a proper Korean name (the partition delegated to Korean immigrants), and "Bharati" is an Indian-derived name slated for eventual replacement with a proper Japanese name (the partition delegated to Japanese immigrants). Zhongshan's own Chinese name is not similarly flagged for replacement.
+
+**The unified city's own in-universe name is deliberately not yet decided.** The developer's own framing: it's more important to finish developing each of the three cities' individual identities first, and let the eventual name emerge organically once that's done, rather than force a name now. Whatever English label gets used informally in project files ("Tri-Cities" included) is purely out-of-fiction shorthand — residents would never call it that themselves.
+
+**Why this matters for future character writing, per the developer's own framing:** by the time the Long Night War hits and refugees flee to Concordia, the unified city has already been fully, legally one city for at least a generation, likely longer. This means a refugee's insistence on identifying by sub-district (Zhongshan vs. Soyuz vs. Bharati) isn't a symptom of an unfinished or interrupted unification process — it's simply the kind of durable neighborhood-level identity that persists for generations after formal unification in real cities, especially where (as here) each sub-district still carries a genuinely distinct national-heritage character. A person from unified Budapest still says "I'm from Buda"; a unified-city refugee here would still say the equivalent of "I'm from {{ex-Soyuz}}" (under whatever its eventual proper Korean name turns out to be), and mean something real and specific by it, entirely compatible with having grown up as a citizen of one legally unified city the whole time.
+
+**Godot implementation note, flagged for later:** any Concordia-refugee character sheet drawn from this unified city will need an object field capturing which of the three founding sub-districts that character is from. The field's value set is straightforward once — but not before — Soyuz's and Bharati's own final in-universe names are settled (both are still placeholder-tagged in `Inspirational-Influences.md` and elsewhere as "{{currently-unnamed Korean/Japanese city}}"); until then, this is tracked as an open dependency rather than specified now.
+
+---
+
+## Regional Music Reputation — "Alternative Culture," Flagged 2026-07-07, Scope Deliberately Open
+
+The Japanese city's own Megasheet established that its massive, genre-varied amateur music scene grows large enough, well before the Long Night War, that the whole Larsemann Hills region becomes nationally synonymous with "Alternative Culture" across Tepenia — a genuine, well-established pre-war cultural export, confirmed by the developer as needing to be solidly in place by the time of the war, not a post-war development.
+
+**Deliberately not yet decided:** whether this reputation belongs to the Japanese city alone, with Zhongshan and the Korean city absorbed into the "Alternative Culture" label purely through geographic proximity and cluster identity despite each having its own quite different established civic personality (Zhongshan: quiet, self-sufficient, Withdrawn; the Korean city: industrial, nationalistic, Assertive) — or whether the reputation genuinely extends to and reflects something real about all three cities' own character. The developer's own framing: this needs Zhongshan and the Korean city's own Megasheets built out first, so the answer can be decided with those cities' full identities actually in view rather than guessed at now.
+
+---
+
 ## Summary Table
 
 | City | Major Theme | Hornevian Group | Harmonic Group |

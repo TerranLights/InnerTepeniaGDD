@@ -223,6 +223,7 @@ Reflecting the city's genuine research and educational depth — Arcanet use her
 - Research, educational, and artistic output — a genuine, defining civic export given the mild climate's support for sustained creative and scientific work
 - Fashion and design sensibility — a genuine strength, drawing on both Chinese and Japanese aesthetic traditions
 - A specific *type of person* — comfortable with calm, varied civic life supporting many different pursuits, recognizable by an ease with reflective, considered work rather than harsh survival urgency
+- **A nationally-recognized music scene, established 2026-07-07:** this city's massive, genre-varied amateur music culture grows large enough, well before the Long Night War, that the whole Larsemann Hills region becomes nationally synonymous with "Alternative Culture" across Tepenia — a genuine pre-war cultural export, not a post-war development. **Whether this reputation belongs to this city alone (with Zhongshan and the Korean city absorbed into it purely by geographic association) or genuinely extends to all three cities' own civic character is deliberately left open** until those two cities' own Megasheets are complete — see `Tri-Cities_Region.md` for the tracking note.
 
 ---
 
