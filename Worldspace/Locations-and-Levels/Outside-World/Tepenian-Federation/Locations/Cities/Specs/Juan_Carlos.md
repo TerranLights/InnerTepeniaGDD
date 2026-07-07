@@ -123,7 +123,7 @@ Juan Carlos's legacy is that it was where the nation's bureaucratic memory began
 
 ## Open Questions
 - **Arcanet link survival** — did any Arcanet infrastructure survive the strike, and does it connect to anything the "Archivist's Trail" questline reveals?
-- **Machu Picchu Border & Customs Authority's exact geography** — established 2026-07-05 as the processing authority for arrivals via the Ushuaia airport gateway, but Machu Picchu itself sits roughly 3,000km+ from Ushuaia; whether this represents a genuinely remote administrative/processing headquarters (paperwork and vetting handled far from the actual point of physical departure, similar to how some real-world consulates operate) or something else is TBD
+- ~~**Machu Picchu Border & Customs Authority's exact geography**~~ — **RESOLVED 2026-07-06**, via the airport network resolution: the Authority's actual physical processing point is Machu Picchu Airport, near Sejong — not a genuinely remote site thousands of kilometers from Ushuaia. Peru's real Machu Picchu Base sits on King George Island immediately next to Sejong, which is exactly why processing happens there. See `Locations/Infrastructure/Airports.md`.
 - **Timing of the archive's relocation to Amundsen Station** — when during the Second Interwar Period did this bureaucratic succession happen, and did Juan Carlos retain any secondary/backup archival role afterward?
 - **Demonym** — TBD
 - **Notable figures** — TBD

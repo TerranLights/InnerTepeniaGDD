@@ -1,11 +1,11 @@
 # Juan Carlos — Cultural Spec Sheet
 
-*(Post-Long-Night-War condition deliberately left TBD — see `Specs/Juan_Carlos.md`'s Status field for the unresolved survived/damaged/destroyed question. This sheet describes the city's living culture per the project's standard present-tense methodology, independent of that open question.)*
+*(**Corrected 2026-07-07** — this file's post-war status was left as an open TBD from before 2026-07-05; `Specs/Juan_Carlos.md` has since resolved it to Destroyed, deliberately targeted by Upper Earth for its archive/intelligence function. This sheet's living-culture content describes the city per the project's standard present-tense methodology regardless, but the status header below now matches Specs.)*
 
 ---
 
 **Subnet:** Palmer ("American")
-**Status:** TBD — genuine unresolved conflict between sources; see `Specs/Juan_Carlos.md` for the full case
+**Status:** Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md` for the full reasoning; Upper Earth specifically targeted Juan Carlos for its ongoing archive/intelligence function)*
 **Census Population:** 189,742 humans / 196,950 robots / 386,692 combined (Census I, rank 27th, *corrected 2026-07-03, again 2026-07-05*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 28th, *corrected 2026-07-03*)
 **Location:** Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
 
@@ -248,14 +248,14 @@ Becoming a local at Juan Carlos means genuine participation in the tertulia — 
 
 ## 29. Notable Local Landmarks
 
-- **The survivor infrastructure** *(status TBD)* — whatever remains of the city's built environment, condition dependent on the unresolved post-war status question
-- **Livingston Island harbor** — the primary maritime entry point
+- **The ruins** — Juan Carlos joins Palmer City, Esperanza, Sejong, and Marambio as destroyed Peninsula cities; the original archive site's ground floor or basement office holds a personal note/audio log from the archivist central to "The Archivist's Trail" cross-DLC questline
+- **Livingston Island harbor** — the primary maritime entry point, now ruins
 
 ---
 
 ## 30. Significant Local Events
 
-- **The Long Night War — outcome deliberately TBD.** See `Specs/Juan_Carlos.md` for the full unresolved case between survival, partial damage, and destruction. This sheet's living-culture content stands regardless of which way that question is ultimately resolved.
+- **The Long Night War destruction — resolved 2026-07-05.** Upper Earth forces specifically targeted Juan Carlos for its ongoing archive/intelligence function — tracking former Upper Earth government officials among the exile population, tied to the Machu Picchu Border & Customs Authority — the same deliberate-strike-against-a-specific-function logic already established for Zukelli. See `Specs/Juan_Carlos.md` for the full reasoning.
 
 ---
 
