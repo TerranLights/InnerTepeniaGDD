@@ -77,7 +77,7 @@ Carried forward from `Specs/Mawson.md` and `Local_Cultures/Mawson_Subnet/Mawson.
 - Whether Mawson still claims any form of Australian Antarctic Territory authority post-Split-Brain
 - Demonym — "Mawsonites"? something Australian?
 - Notable figures — currently entirely TBD
-- Whether Mawson's own founding-nation demographic imbalance (Australia buried behind China) gets the same correction treatment Bharati and Soyuz received — explicitly flagged as the developer's own call, not yet decided
+- Whether Mawson's own founding-nation demographic imbalance (Australia buried behind China) gets the same correction treatment Shirayuki and Soyuz received — explicitly flagged as the developer's own call, not yet decided
 - Specific honeymoon traditions, venues, or itinerary details beyond the general reputation
 
 **New, surfaced by this research pass:** whether Mawson's own warm, celebratory civic reputation sits atop any unacknowledged historical weight of its own, echoing Jeju's real layered history — not necessarily anything as severe, but worth considering whether the city's genuine peace with its founding-tension gap is entirely as settled as Section 5b currently states, or whether there's a quieter, less-examined layer underneath.

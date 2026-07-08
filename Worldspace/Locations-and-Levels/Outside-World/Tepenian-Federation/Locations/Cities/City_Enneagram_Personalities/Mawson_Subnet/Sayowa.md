@@ -8,7 +8,7 @@ Sayowa's vision session gave it an almost entirely functional, physical identity
 
 ## Hornevian Group: Compliant
 
-Unlike Soyuz's forceful, identity-driven industrial pride, Sayowa's economy is fundamentally a service role: its trucking and dispatch operation exists to move goods *for* the wider highway network — Mawson, Soyuz, ex-Bharati via Hwy 4, and the Halley subnet via Hwy 7-ext. This is a supporting, logistics-first function, done quietly and dutifully rather than for recognition. Sayowa doesn't assert its own importance the way Soyuz does; it simply keeps the network's goods flowing, the definition of Compliant, duty-oriented energy.
+Unlike Soyuz's forceful, identity-driven industrial pride, Sayowa's economy is fundamentally a service role: its trucking and dispatch operation exists to move goods *for* the wider highway network — Mawson, Soyuz, Shirayuki via Hwy 4, and the Halley subnet via Hwy 7-ext. This is a supporting, logistics-first function, done quietly and dutifully rather than for recognition. Sayowa doesn't assert its own importance the way Soyuz does; it simply keeps the network's goods flowing, the definition of Compliant, duty-oriented energy.
 
 ## Harmonic Group: Competency
 

@@ -204,13 +204,13 @@ Signy has no road and no highway; it is geographically closer to the South Atlan
 
 ---
 
-## The Larsemann Hills Compact — Soyuz, Zhongshan, and the Japanese City (cf. Bharati)
+## The Larsemann Hills Compact — Soyuz, Zhongshan, and the Japanese City (now Shirayuki)
 
-**Cities:** Soyuz, Zhongshan, Japanese Diplomatic Partition (cf. Bharati)
+**Cities:** Soyuz, Zhongshan, Shirayuki
 
 *New 2026-07-04, resolving a gap flagged earlier the same day: three cities sharing one small ice-free oasis for two centuries — a genuinely second interwar-specific dynamic (sustained close-proximity negotiation over finite shared space) that a post-war framing wouldn't produce at all, since it depends entirely on all three cities being alive and adjacent at once.*
 
-Soyuz, Zhongshan, and the Japanese city occupy the same small Larsemann Hills oasis, and two centuries of daily proximity shaped each of their civic identities as much as, or more than, their separate founding stories did. None of them can fully explain who they are without reference to the other two.
+Soyuz, Zhongshan, and Shirayuki occupy the same small Larsemann Hills oasis, and two centuries of daily proximity shaped each of their civic identities as much as, or more than, their separate founding stories did. None of them can fully explain who they are without reference to the other two.
 
 **Soyuz's position:** Ambition, chosen daily against the pull of the cluster. Soyuz named itself after a spacecraft rather than any inherited place or founder, a deliberate act of forward-motion self-definition — and its founding population is itself dual (Russian and Australian, together from the start). Living in constant, close-quarters negotiation with two immediate neighbors sharpened this ambition into something concrete: cluster-boundary diplomacy became a genuine daily skill, not an occasional inconvenience, and Soyuz takes real pride in having chosen its own forward-looking character rather than just absorbing the oasis's shared circumstances.
 
@@ -218,7 +218,7 @@ Soyuz, Zhongshan, and the Japanese city occupy the same small Larsemann Hills oa
 
 **The Japanese city's position:** Chosen character, grown over an imposed origin. Unlike its two neighbors, this city didn't choose to exist here at all — it was assigned by an Upper Earth diplomatic decree, a place decided for its population rather than found or founded by them. Its response to the cluster's proximity pressure was neither Soyuz's assertive ambition nor Zhongshan's protective reserve, but patient, deliberately broad cultivation — supporting genuinely varied research, art, and creative life rather than one dominant civic type, partly *because* an imposed origin left room to grow into whatever its people actually wanted, unconstrained by any inherited founding myth to live up to or push against.
 
-**What they argue about:** Whether Soyuz's daily-chosen ambition is a genuine achievement or simply what happens when you have two strong-willed neighbors to define yourself against. Whether Zhongshan's reserve is wisdom earned through two centuries of proximity or a habit that's quietly cost it some of its own smaller heritage communities, who feel slowly absorbed rather than protected by the non-prying norm. Whether the Japanese city's imposed, decree-based origin is a disadvantage it overcame or, in the end, the freest founding condition of the three, precisely because it came with no inherited story at all.
+**What they argue about:** Whether Soyuz's daily-chosen ambition is a genuine achievement or simply what happens when you have two strong-willed neighbors to define yourself against. Whether Zhongshan's reserve is wisdom earned through two centuries of proximity or a habit that's quietly cost it some of its own smaller heritage communities, who feel slowly absorbed rather than protected by the non-prying norm. Whether Shirayuki's imposed, decree-based origin is a disadvantage it overcame or, in the end, the freest founding condition of the three, precisely because it came with no inherited story at all.
 
 ---
 

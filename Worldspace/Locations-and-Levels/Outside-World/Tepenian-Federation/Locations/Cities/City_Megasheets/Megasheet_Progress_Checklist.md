@@ -47,7 +47,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Kunlun** — done 2026-07-07
 - [x] **Zhongshan** — done 2026-07-07
 - [x] **{{currently-unnamed Korean city; cf. Soyuz}}** — done 2026-07-07
-- [x] **{{currently-unnamed Japanese city; cf. Bharati}}** — done 2026-07-07
+- [x] **Shirayuki** — done 2026-07-07
 
 ## Mawson Subnet (2/3)
 

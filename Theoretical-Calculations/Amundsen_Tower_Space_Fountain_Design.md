@@ -763,7 +763,7 @@ real-world-grounded logic, extended to the rest of the coast:
   "~90 days/year" windows a concrete operator.
 - **Dumont d'Urville Sea (Dumont d'Urville itself, plus Denison and Casey where
   their supply lines overlap) and the Mirny/Mawson subnet coastal cities (Mawson,
-  Sayowa, Zhongshan, Davis, Mirny, Soyuz, Bharati):** **Australia**, staging out of
+  Sayowa, Zhongshan, Davis, Mirny, Soyuz, Shirayuki):** **Australia**, staging out of
   Hobart/Fremantle — the dominant real logistics hub for this entire stretch of
   East Antarctic coast. Notably, France's own real Dumont d'Urville resupply ship
   (*L'Astrolabe*) runs out of Hobart rather than a French port, and Hobart also

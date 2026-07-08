@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Sayowa sits on East Ongul Island (Prince Harald Coast), the westernmost city in the Mawson subnet, built on JARE (Japanese Antarctic Research Expedition) heritage. At the time this session began, Sayowa's file still described itself as "Tepenia's primary Japanese demographic presence" — a claim already known to be stale following the same-session Larsemann Hills demographic rework, which had made Bharati (not Sayowa) the genuine Japan-Primary city.
+Recap of what was already established going in: Sayowa sits on East Ongul Island (Prince Harald Coast), the westernmost city in the Mawson subnet, built on JARE (Japanese Antarctic Research Expedition) heritage. At the time this session began, Sayowa's file still described itself as "Tepenia's primary Japanese demographic presence" — a claim already known to be stale following the same-session Larsemann Hills demographic rework, which had made Shirayuki (not Sayowa) the genuine Japan-Primary city.
 
 ---
 
@@ -25,7 +25,7 @@ Recap of what was already established going in: Sayowa sits on East Ongul Island
 ## Corrections/additions applied directly to other files this session
 
 - `Specs/Sayowa.md` and `Local_Cultures/Mawson_Subnet/Sayowa.md` — Division of Industry revised (fabrication 30%, trucking & dispatch 25%, leisure explicitly secondary at 5%); Architecture split into industrial/residential halves.
-- A full sweep of Sayowa's own file for the stale "primary Japanese Tepenian presence" claim (found in eight separate sections — National Composition, Language, Cuisine, Fashion, Music, Private Life, Upper Earth Relations, Export Culture, Diaspora) — all corrected to redirect that distinction to Bharati.
+- A full sweep of Sayowa's own file for the stale "primary Japanese Tepenian presence" claim (found in eight separate sections — National Composition, Language, Cuisine, Fashion, Music, Private Life, Upper Earth Relations, Export Culture, Diaspora) — all corrected to redirect that distinction to Shirayuki.
 - The Highway Quick Reference (`City_Relationship_Database.md` §1) and the dedicated `Locations/Infrastructure/Highways.md` reference both restructured: Hwy 4, Hwy 7-ext, and Hwy 37 now terminate at **the Sayowa Junction** rather than at Sayowa itself, with a new **Sayowa Spur** connecting road added to link the city to the junction. Several scattered older references elsewhere in `City_Relationship_Database.md` (Fort McMurdo's, Vostok's, and two summary notes) corrected to match.
 
 ---

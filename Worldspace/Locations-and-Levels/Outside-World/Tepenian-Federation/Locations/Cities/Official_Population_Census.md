@@ -329,7 +329,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-*Soyuz and Bharati_TBD moved to the Mirny Subnet section, below — corrected 2026-07-05. Real-world geography places the Larsemann Hills cluster (Soyuz, Bharati_TBD, and Zhongshan, the latter already Mirny subnet) much closer to Davis (~110km, Mirny) than to Mawson Station (~570km). See `TODO.md` for full reasoning.*
+*Soyuz and Shirayuki moved to the Mirny Subnet section, below — corrected 2026-07-05. Real-world geography places the Larsemann Hills cluster (Soyuz, Shirayuki, and Zhongshan, the latter already Mirny subnet) much closer to Davis (~110km, Mirny) than to Mawson Station (~570km). See `TODO.md` for full reasoning.*
 
 ---
 
@@ -413,7 +413,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Bharati_TBD** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; final proper name still TBD — see `Specs/Bharati_TBD.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above. **Confirmed 2026-07-06:** the diplomatic allocation now genuinely holds demographically too — Japan re-tiered to Primary at 36.27%, no longer buried behind China the way the standard population method had put it.)*
+**Shirayuki** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; named Shirayuki 2026-07-08 — see `Specs/Shirayuki.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above. **Confirmed 2026-07-06:** the diplomatic allocation now genuinely holds demographically too — Japan re-tiered to Primary at 36.27%, no longer buried behind China the way the standard population method had put it.)*
 
 | Tier | Nations |
 |------|---------|
@@ -484,7 +484,7 @@ National communities are classified by tier based on long-run population share. 
 | 9 | Zhongshan | Mirny | 631,985 | 647,448 | **1,279,433** | *(revised 2026-07-04)* |
 | 10 | Zukelli | Janbogo | 627,584 | 631,067 | **1,258,651** | *(destroyed; revised 2026-07-04)* |
 | 11 | Neumayer | Halley | 613,735 | 638,345 | **1,252,080** | *(revised 2026-07-04)* |
-| 12 | Bharati_TBD | Mirny | 576,469 | 601,844 | **1,178,313** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
+| 12 | Shirayuki | Mirny | 576,469 | 601,844 | **1,178,313** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
 | 13 | Davis | Mirny | 563,599 | 594,715 | **1,158,314** | *(revised 2026-07-04)* |
 | 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
 | 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
@@ -532,7 +532,7 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ### Subnet Totals — Census I
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. All subnets except Concordia's further revised 2026-07-04 for the Kunlun/Dome Fuji redistribution — Kunlun counts toward Mirny subnet, Dome Fuji toward Mawson subnet, per each city's established Arcanet subnet assignment. Mawson and Mirny further revised 2026-07-05 — Soyuz and Bharati_TBD moved from Mawson to Mirny subnet, joining Zhongshan in the Larsemann Hills cluster; pure reassignment, no population change.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion, and again for the Framheim/Little America redistribution and the Palmer City cap correction; Janbogo and Mirny also revised for the Framheim/Little America redistribution (Concordia counts toward Janbogo subnet; Vostok counts toward Mirny subnet, per each city's established Arcanet subnet assignment) — see notes above the city table. All subnets except Concordia's further revised 2026-07-04 for the Kunlun/Dome Fuji redistribution — Kunlun counts toward Mirny subnet, Dome Fuji toward Mawson subnet, per each city's established Arcanet subnet assignment. Mawson and Mirny further revised 2026-07-05 — Soyuz and Shirayuki moved from Mawson to Mirny subnet, joining Zhongshan in the Larsemann Hills cluster; pure reassignment, no population change.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
@@ -559,7 +559,7 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ***Denison now has its own `Specs/Denison.md` file, created 2026-07-05*** — *its de-stacked Per-Nation Breakdown table there uses a fresh, independently-drawn random split (different from the one-off figures folded into the table below), though built from the same Census I total (522,975 humans) and the same tier composition, so the eleven affected nations' totals below are extremely close but not exactly identical to what a full resum would produce. This table has NOT yet been rebuilt against Denison's real Specs-file figures — that would require resumming all 43 nations across all 35 cities directly, a larger separate task, not done as part of just creating Denison's file. Flagged in `TODO.md` as the next step whenever a fresh full rebuild of this table happens anyway.*
 
-***Adjusted 2026-07-06*** — *the Larsemann Hills demographic rework (Zhongshan, Soyuz, Bharati — see `TODO.md`'s "Larsemann Hills cluster demographic rework" entry) changed each of those three cities' own per-nation Census I human figures significantly, across multiple rounds each. Recomputed the exact delta for every affected nation by diffing each city's old vs. new Specs-file figures directly (not re-derived independently), then applied those deltas to this table. Net changes: Japan +197,785 (734,189 → 931,974 — no longer buried behind China's regional pull, now genuinely Tepenia's fourth-largest exile nation, largely on the strength of Bharati's 36.27%); South Korea +116,674 (759,172 → 875,846); UK −110,931 (984,435 → 873,504, having been removed entirely from all three cities' tables); Indonesia −93,891 (652,202 → 558,311); Belarus −27,868; Ukraine −26,545; Malaysia −19,671; Romania −17,819; Hungary +17,808 (new entrant to this table, replacing Romania's old share at Soyuz specifically); Russia −15,632; China −13,089 (1,686,675 → 1,673,586 — still comfortably the largest single nation overall, just less dominant in this specific cluster); Philippines −6,846; smaller adjustments (±35 or less) to South Africa, New Zealand, Estonia, Bulgaria, Germany, Australia, Vietnam, Thailand, Lithuania, Latvia. Total conserves exactly: 15,623,521 before and after, confirming this was a pure internal reallocation with no city's own total population affected.*
+***Adjusted 2026-07-06*** — *the Larsemann Hills demographic rework (Zhongshan, Soyuz, Shirayuki — see `TODO.md`'s "Larsemann Hills cluster demographic rework" entry) changed each of those three cities' own per-nation Census I human figures significantly, across multiple rounds each. Recomputed the exact delta for every affected nation by diffing each city's old vs. new Specs-file figures directly (not re-derived independently), then applied those deltas to this table. Net changes: Japan +197,785 (734,189 → 931,974 — no longer buried behind China's regional pull, now genuinely Tepenia's fourth-largest exile nation, largely on the strength of Shirayuki's 36.27%); South Korea +116,674 (759,172 → 875,846); UK −110,931 (984,435 → 873,504, having been removed entirely from all three cities' tables); Indonesia −93,891 (652,202 → 558,311); Belarus −27,868; Ukraine −26,545; Malaysia −19,671; Romania −17,819; Hungary +17,808 (new entrant to this table, replacing Romania's old share at Soyuz specifically); Russia −15,632; China −13,089 (1,686,675 → 1,673,586 — still comfortably the largest single nation overall, just less dominant in this specific cluster); Philippines −6,846; smaller adjustments (±35 or less) to South Africa, New Zealand, Estonia, Bulgaria, Germany, Australia, Vietnam, Thailand, Lithuania, Latvia. Total conserves exactly: 15,623,521 before and after, confirming this was a pure internal reallocation with no city's own total population affected.*
 
 ***Adjusted again 2026-07-06, same day*** — *Byrd's own City Vision Notes session produced a hand-specified re-tiering: a six-way rotation moved USA and Canada into Primary tier (Byrd's actual founding-operator nation, USA, had been buried behind Japan), with Australia, Japan, South Korea, and China filling Significant; a further swap moved China above Indonesia; a final −0.01% rounding correction was applied to China. Deltas computed directly from `Specs/Byrd.md`'s old vs. new per-nation figures: USA +3,987 (2,525,235 → 2,529,222); Canada +15,356 (309,118 → 324,474); Australia +6,453 (693,290 → 699,743); China +1,388 (1,673,586 → 1,674,974); Japan −13,747 (931,974 → 918,227); South Korea −5,586 (875,846 → 870,260); Indonesia −7,840 (558,311 → 550,471). Off by 11 (15,623,532 vs. 15,623,521) due to rounding across 7 affected nations; immaterial.*
 
@@ -621,7 +621,7 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
 | 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(destroyed in Long Night War)* |
-| 17 | Bharati_TBD | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
+| 17 | Shirayuki | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section I)* |
 | 20 | Abowasa | Halley | 310,791 | 296,650 | **607,441** | |
@@ -644,7 +644,7 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ### Antarctic Surface — Subnet Totals (Census II)
 
-*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures. Janbogo subnet further revised 2026-07-04 for Concordia's new Census II figures. Mawson and Mirny further revised 2026-07-05 — Soyuz and Bharati_TBD moved from Mawson to Mirny subnet; pure reassignment, no population change.)*
+*(Halley, Janbogo, and Palmer subnet totals revised 2026-07-03 to reflect the Lazar population redistribution; Palmer further revised the same day for the Palmer City population expansion. Byrd subnet total reduced to zero 2026-07-03 — Framheim and Little America were its only Census II entries, both now removed; Byrd itself still has no Census II figures. Janbogo subnet further revised 2026-07-04 for Concordia's new Census II figures. Mawson and Mirny further revised 2026-07-05 — Soyuz and Shirayuki moved from Mawson to Mirny subnet; pure reassignment, no population change.)*
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
@@ -695,7 +695,7 @@ The following cities appear in both census records. They did not survive to the 
 Destroyed during the Long Night War. At time of destruction, Zukelli's combined population was approximately **1,302,000** — making it the second-largest city in the Federation by Orbital Era figures. Human retention rates immediately before the war were 72.5%; robot retention was 77.7%. Zukelli was not a depleted or declining city. It was near its peak population when it was destroyed.
 
 **Soyuz** *(Larsemann Hills / Prydz Bay, Mirny Subnet)* — *(corrected 2026-07-03: no longer destroyed; subnet corrected 2026-07-05, moved from Mawson)*
-Reclassified 2026-07-03 from "Destroyed" to damaged/partially operational — Soyuz sits at effectively identical real-world coordinates to Zhongshan (a few hundred meters apart), and Zhongshan was already established as damaged, not destroyed; a differing outcome for Soyuz made no physical sense. Resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (cf. Bharati). See `Specs/Soyuz.md`. No longer counted in the combined-losses total below.
+Reclassified 2026-07-03 from "Destroyed" to damaged/partially operational — Soyuz sits at effectively identical real-world coordinates to Zhongshan (a few hundred meters apart), and Zhongshan was already established as damaged, not destroyed; a differing outcome for Soyuz made no physical sense. Resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (now Shirayuki). See `Specs/Soyuz.md`. No longer counted in the combined-losses total below.
 
 **Denison** *(Cape Denison, George V Land, Janbogo Subnet)*
 Destroyed during the Long Night War. At time of destruction, Denison's combined population was approximately **734,000** — a mid-tier coastal city founded on Douglas Mawson's 1912 expedition base. Human retention rate immediately before the war was 63.7%; robot retention was 72.8%. Census I figures: 526,521 humans / 546,852 robots.

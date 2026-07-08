@@ -45,7 +45,7 @@ Soyuz sits in the Larsemann Hills, a small ice-free oasis on the Ingrid Christen
 
 ## 4. Seasonal Rhythms
 
-The oasis microclimate moderates conditions somewhat compared to the surrounding ice sheet, but Soyuz's real defining rhythm was the density of its immediate neighbors — Zhongshan and the city later resolved as Bharati sat close enough that daily life meant constant awareness of, and negotiation with, both.
+The oasis microclimate moderates conditions somewhat compared to the surrounding ice sheet, but Soyuz's real defining rhythm was the density of its immediate neighbors — Zhongshan and the city later resolved as Shirayuki sat close enough that daily life meant constant awareness of, and negotiation with, both.
 
 ---
 
@@ -201,7 +201,7 @@ Filtered through Russia's own space-age achievement and Arctic/Antarctic researc
 
 ## 23. Relationship to Other Cities
 
-- **Bharati (west, Hwy 4):** Direct highway neighbor, and fellow Larsemann Hills cluster city, now sharing the same Mirny subnet membership.
+- **Shirayuki (west, Hwy 4):** Direct highway neighbor, and fellow Larsemann Hills cluster city, now sharing the same Mirny subnet membership.
 - **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact, the Mirny subnet's closest parallel to Sejong's King George Island situation.
 - **Mirny (the city):** *(Updated 2026-07-05 — this relationship changed in nature, not just detail, once Soyuz joined the Mirny subnet.)* Previously notable as two Russian communities split across different subnets; now both cities share the same Arcanet subnet membership, which reframes the relationship from "geographic spread of Russian exile presence" toward a genuine internal-subnet tie — two Russian cities that are now, politically, part of the same regional network. Both cities are damaged but functional post-war — what contact, if any, exists between them today is an open question, though the shared subnet membership makes ongoing contact more plausible than before.
 
@@ -260,7 +260,7 @@ Becoming a local at Soyuz meant genuine participation in the Larsemann Hills clu
 
 ## 30. Significant Local Events
 
-- **The Long Night War damage** — Soyuz was hit hard, like its effectively co-located neighbor Zhongshan, but not destroyed. The city survives today damaged but partially operational, alongside Zhongshan and the Larsemann Hills' Japanese city (founded via Jeju-do diplomatic allocation, cf. Bharati). Exact extent of the damage TBD for DLC 4 design.
+- **The Long Night War damage** — Soyuz was hit hard, like its effectively co-located neighbor Zhongshan, but not destroyed. The city survives today damaged but partially operational, alongside Zhongshan and Shirayuki (founded via Jeju-do diplomatic allocation). Exact extent of the damage TBD for DLC 4 design.
 
 ---
 

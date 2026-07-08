@@ -1,6 +1,6 @@
-# {{currently-unnamed Japanese city; cf. Bharati}} — Mega-Init
+# Shirayuki — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Bharati_TBD.md`, `Local_Cultures/Mirny_Subnet/Japanese_Diplomatic_Partition_cf_Bharati.md`, `City_Vision_Notes/Japanese_Diplomatic_Partition_cf_Bharati.md`, the Enneagram read in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, and real-world research on its four inspirational picks (Shibuya, Harajuku, Hongdae, Novosibirsk). Compiled 2026-07-07. **A naming note up front:** this city has no proper Tepenian name yet — "Bharati" is only the placeholder inherited from the real, unoccupied Indian station its exiles settled on, and per established canon carries no actual Indian meaning forward. This document refers to it by its working title throughout.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Shirayuki.md`, `Local_Cultures/Mirny_Subnet/Shirayuki.md`, `City_Vision_Notes/Shirayuki.md`, the Enneagram read in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, and real-world research on its four inspirational picks (Shibuya, Harajuku, Hongdae, Novosibirsk). Compiled 2026-07-07. **Naming note, updated 2026-07-08:** at the time this document was written, the city had no proper Tepenian name yet and was referred to by the placeholder "Japanese Diplomatic Partition (cf. Bharati)," inherited from the real, unoccupied Indian station its exiles settled on (which per established canon carries no actual Indian meaning forward). It has since been officially named **Shirayuki** (白雪, "white snow") — this document has been updated throughout to use that name.
 
 ---
 
@@ -75,7 +75,7 @@ Unofficially "the Capital of Siberia" — a major transport, industrial, scienti
 
 ## What's Actually Open
 
-Carried forward from `Specs/Bharati_TBD.md`, still genuinely unresolved:
+Carried forward from `Specs/Shirayuki.md`, still genuinely unresolved:
 - **The city's actual Japanese proper name** — the single largest open item, deliberately deferred (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`) until each Larsemann Hills city's own identity is more fully developed
 - The Jeju-do allocation's specifics — exact date, and whether China or Korea contested it at the time
 - The lived relationship with Soyuz and Zhongshan, given the deliberately-engineered (rather than organic) founding

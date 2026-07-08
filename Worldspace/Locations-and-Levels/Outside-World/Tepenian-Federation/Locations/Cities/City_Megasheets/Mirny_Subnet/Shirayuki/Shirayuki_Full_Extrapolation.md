@@ -1,6 +1,6 @@
-# {{currently-unnamed Japanese city; cf. Bharati}} — Full Extrapolation
+# Shirayuki — Full Extrapolation
 
-**What this is:** every open question about this city given an actual proposed answer, built as far as possible directly out of what's already established rather than invented from nothing. Not locked canon — meant for review, revision, or rejection piece by piece. Companion to `Japanese_Diplomatic_Partition_cf_Bharati_Mega_Init.md` in this same folder. Written 2026-07-07.
+**What this is:** every open question about this city given an actual proposed answer, built as far as possible directly out of what's already established rather than invented from nothing. Not locked canon — meant for review, revision, or rejection piece by piece. Companion to `Shirayuki_Mega_Init.md` in this same folder. Written 2026-07-07.
 
 ---
 

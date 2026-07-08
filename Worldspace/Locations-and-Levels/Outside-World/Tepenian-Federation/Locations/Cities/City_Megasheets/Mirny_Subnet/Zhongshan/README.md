@@ -24,7 +24,7 @@ The full, concatenated Zhongshan reference — synthesis, then extrapolation, th
 |---|---|
 | **Real-world basis** | Zhongshan Station (China/CHINARE, 1989), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E) |
 | **Status** | Damaged, partially operational |
-| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Soyuz and the ex-Bharati city |
+| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Soyuz and the Shirayuki |
 | **Population (Census II)** | 522,372 humans / 474,312 robots / 996,684 combined |
 | **Founding** | Sinian (Chinese) defectors who chose exile alongside robots over their own nation's ideology — the only Tepenian city where the founding operator nation is also the unbroken long-run demographic Primary |
 
@@ -174,7 +174,7 @@ Section IV is the most structurally useful proposal here — it gives the Zhongs
 
 **Combining:** the real precedent of a grid-founded city undergoing centuries of organic industrial growth built onto and around its original planned core + Zhongshan's own established semi-gridlike street layout, "laid down early and never fully abandoned" + the newly-proposed Long Night War strike hitting the tri-junction/shared infrastructure node (Full Extrapolation, Section IV).
 
-**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, Soyuz, and the ex-Bharati city — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
+**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, Soyuz, and the Shirayuki — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
 
 **3rd-order effect:** this means the cluster's established "damaged but functional" status is best understood as damage concentrated specifically at the shared foundational infrastructure the whole cluster's layout was originally organized around, while the newer, organically-grown outer districts were more likely to have survived relatively intact simply by being structurally and geographically distant from that chokepoint.
 

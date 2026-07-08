@@ -32,7 +32,7 @@
 
 **Combining:** the real precedent of a grid-founded city undergoing centuries of organic industrial growth built onto and around its original planned core + Zhongshan's own established semi-gridlike street layout, "laid down early and never fully abandoned" + the newly-proposed Long Night War strike hitting the tri-junction/shared infrastructure node (Full Extrapolation, Section IV).
 
-**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, Soyuz, and the ex-Bharati city — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
+**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, Soyuz, and the Shirayuki — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
 
 **3rd-order effect:** this means the cluster's established "damaged but functional" status is best understood as damage concentrated specifically at the shared foundational infrastructure the whole cluster's layout was originally organized around, while the newer, organically-grown outer districts were more likely to have survived relatively intact simply by being structurally and geographically distant from that chokepoint.
 

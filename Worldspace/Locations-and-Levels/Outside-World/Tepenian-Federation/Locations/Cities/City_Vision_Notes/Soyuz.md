@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Soyuz sits in the Larsemann Hills / Prydz Bay cluster alongside Zhongshan and Bharati, named for the Soyuz spacecraft program (a deliberate founding choice honoring Russian space-age achievement rather than the inherited Progress Station name). Russia is the genuine founding-operator nation, though — like the rest of the cluster — its population had settled into a China-Primary composition under the standard population/GDP tiering method.
+Recap of what was already established going in: Soyuz sits in the Larsemann Hills / Prydz Bay cluster alongside Zhongshan and Shirayuki, named for the Soyuz spacecraft program (a deliberate founding choice honoring Russian space-age achievement rather than the inherited Progress Station name). Russia is the genuine founding-operator nation, though — like the rest of the cluster — its population had settled into a China-Primary composition under the standard population/GDP tiering method.
 
 ---
 

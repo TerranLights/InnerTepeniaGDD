@@ -464,7 +464,7 @@ Same geographic position as Janbogo.
 
 ---
 
-### Bharati_TBD *(Prydz Bay area, ~69°24'S 76°11'E — non-Indian founding population)*
+### Shirayuki *(Prydz Bay area, ~69°24'S 76°11'E — non-Indian founding population)*
 
 Same Prydz Bay geographic cluster as Zhongshan and Davis.
 
@@ -474,7 +474,7 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Same Prydz Bay T2 cluster; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east as Prydz Bay UTC+5 cluster |
 
-*Design note: With no operator defined and no Indian population by canon, Bharati_TBD has the most "purely Gini-geographic" composition of any Tepenian city. The result is Chinese-primary with East Asian and European secondary — a fundamentally different character from surrounding operator-identity-driven cities.*
+*Design note: With no operator defined and no Indian population by canon, Shirayuki has the most "purely Gini-geographic" composition of any Tepenian city. The result is Chinese-primary with East Asian and European secondary — a fundamentally different character from surrounding operator-identity-driven cities.*
 
 ---
 
@@ -666,7 +666,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 12 | **Zhongshan** | Mirny | 881,000 | 881,000 | **1,762,000** |
 | 13 | **Cape Adare** | Janbogo | 861,000 | 861,000 | **1,722,000** |
 | 14 | **Juan Carlos** | Palmer | 848,000 | 848,000 | **1,695,000** |
-| 15 | **Bharati_TBD** | Mirny *(corrected 2026-07-05, moved from Mawson)* | 843,000 | 843,000 | **1,686,000** |
+| 15 | **Shirayuki** | Mirny *(corrected 2026-07-05, moved from Mawson)* | 843,000 | 843,000 | **1,686,000** |
 | 16 | **Soyuz** *(this table's "destroyed" tag is stale — Soyuz was corrected 2026-07-03 to damaged/partially operational; see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05, moved from Mawson)* | 838,000 | 838,000 | **1,675,000** |
 | 17 | **Abowasa** | Halley | 809,000 | 809,000 | **1,617,000** |
 | 18 | **Davis** | Mirny | 805,000 | 805,000 | **1,611,000** |
@@ -727,7 +727,7 @@ The Gini-adjusted tier calculation distributes exiles mathematically without reg
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
 - Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%), **Framheim** (7.5%), **Little America** (7.5%)
 - DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%), **Framheim/Little America** (2.5% each)
-- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Lazar** (15%), **Davis** (15%), **Zhongshan** (15%), **Bharati_TBD** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
+- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Lazar** (15%), **Davis** (15%), **Zhongshan** (15%), **Shirayuki** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
 
 ### Island caps
 
@@ -762,7 +762,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 8 | **Mirny** | Mirny | 790K | **1,071K** | **2,143K** | Mainland coast; receives DdU + Sayowa overflow |
 | 9 | **Neumayer** | Halley | 639K | **999K** | **1,997K** | Ice shelf coast; absorbs Peninsula island overflow |
 | 10 | **Zhongshan** | Mirny | 881K | **987K** | **1,974K** | Mainland coast; receives Sayowa overflow |
-| 11 | **Bharati_TBD** | Mirny *(corrected 2026-07-05)* | 843K | **914K** | **1,828K** | Mainland coast; receives Sayowa overflow |
+| 11 | **Shirayuki** | Mirny *(corrected 2026-07-05)* | 843K | **914K** | **1,828K** | Mainland coast; receives Sayowa overflow |
 | 12 | **Davis** | Mirny | 805K | **911K** | **1,823K** | Mainland coast; receives Sayowa overflow |
 | 13 | Amundsen Station | Amundsen | 904K | 904K | 1,808K | South Pole; multi-corridor, no island cap |
 | 14 | Princess Elisabeth | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
@@ -793,7 +793,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 |--------|-------------|----------------|-----------------|
 | **Halley / Queen Maud Land** | **6,557K** | **13,113K** | ▲+1,478K (absorbs Peninsula island overflow) |
 | **Janbogo / Ross Sea** | **5,232K** | **10,463K** | ▼−535K (loses McMurdo/Scott/DdU to caps, gains as mainland destination) |
-| **Mawson / Indian Ocean** | **3,071K** | **6,142K** | ▼−459K (Sayowa capped; Mawson city and Bharati_TBD absorb partial offset; Davis and Zhongshan now counted under Mirny) |
+| **Mawson / Indian Ocean** | **3,071K** | **6,142K** | ▼−459K (Sayowa capped; Mawson city and Shirayuki absorb partial offset; Davis and Zhongshan now counted under Mirny) |
 | **Palmer / Antarctic Peninsula** | **3,679K** | **7,357K** | ▼−1,372K (most Peninsula cities are islands; overflow leaves to QML) |
 | **Mirny / Wilkes Land + Prydz Bay** | **4,134K** | **8,270K** | ▲+662K (Casey and Mirny absorb DdU overflow; Davis and Zhongshan absorb Sayowa overflow) |
 | **Byrd / Ross Ice Shelf** | **1,371K** | **2,742K** | ▲+225K (receives Ross Is. + DdU overflow) |
@@ -881,7 +881,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 9 | Zhongshan | Mirny | 634,485 | **1,284,494** | |
 | 10 | Neumayer | Halley | 616,805 | **1,258,342** | |
 | 11 | Zukelli | Janbogo | 611,905 | **1,247,316** | *(destroyed; revised 2026-07-03)* |
-| 12 | Bharati_TBD | Mirny *(corrected 2026-07-05)* | 578,925 | **1,183,333** | |
+| 12 | Shirayuki | Mirny *(corrected 2026-07-05)* | 578,925 | **1,183,333** | |
 | 13 | Davis | Mirny | 567,640 | **1,166,618** | |
 | 14 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
 | 15 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
@@ -979,7 +979,7 @@ The **Czech Republic, Slovakia, and Estonia** show this effect at the small end:
 
 ### Why certain regions are absent
 
-**The Indian subcontinent (India, Pakistan, Bangladesh, Sri Lanka)** is absent from the Tepenian census entirely. This is established canon, not a calculation result. No one from the subcontinent came to Tepenia. The in-world reason for this is TBD in the lore, but the canon fact is fixed: the Maitri (now Lazar) and Bharati stations (Indian-founded in the real world) have non-Indian founding populations in the Tepenian timeline.
+**The Indian subcontinent (India, Pakistan, Bangladesh, Sri Lanka)** is absent from the Tepenian census entirely. This is established canon, not a calculation result. No one from the subcontinent came to Tepenia. The in-world reason for this is TBD in the lore, but the canon fact is fixed: the Maitri (now Lazar) and Bharati (now Shirayuki) stations (Indian-founded in the real world) have non-Indian founding populations in the Tepenian timeline.
 
 **The rest of Africa** is absent for calculated reasons. Sub-Saharan Africa generally has low GDP per capita combined with moderate-to-high Gini coefficients, producing near-zero effective robot-eligible populations at current historical tech levels. The continent's wealth is concentrated far too narrowly to generate meaningful exile numbers. South Africa is the sole African inclusion precisely because it clears the floor threshold — barely, and after heavy Gini penalty — while its geographic proximity to the Peninsula gives it marginal access that makes the effective contribution worth tracking.
 
@@ -1136,7 +1136,7 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 13 | Neumayer | Halley | 385,071 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | **766,762** | |
-| 16 | Bharati_TBD | Mirny *(corrected 2026-07-05)* | 336,124 | **728,324** | |
+| 16 | Shirayuki | Mirny *(corrected 2026-07-05)* | 336,124 | **728,324** | |
 | 17 | Troll | Halley | 323,650 | **671,832** | |
 | 18 | Abowasa | Halley | 310,791 | **607,441** | |
 | — | ~~Framheim~~ | ~~Byrd~~ | ~~248,865~~ | ~~604,953~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |

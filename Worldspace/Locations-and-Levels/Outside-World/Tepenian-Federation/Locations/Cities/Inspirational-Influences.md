@@ -80,7 +80,7 @@
 - Córdoba, Argentina [SECONDARY]
 - Volgograd, Russia [SECONDARY]
 
-##### {{currently-unnamed Japanese city}} [[ex-Bharati]]
+##### Shirayuki
 - Shibuya District, Tokyo, Japan [PRIMARY]
 - Harajuku District, Tokyo, Japan [PRIMARY]
 - Hongdae District, Seoul, Korea [SECONDARY]

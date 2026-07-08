@@ -26,7 +26,7 @@ No Indians or people from the South Asian subcontinent (including Pakistan, Bang
 
 What resolves the gap: the real Novolazarevskaya Station (Russia) sits in the same Schirmacher Oasis, essentially adjacent to Maitri — continuously operated since January 1961 without interruption, one of the most durable year-round Antarctic stations in the real world. Rather than invent a founding population for the Maitri site from nothing, Tepenia's founding history has the nearby, already-established Russian settlement expand into and eventually absorb the unoccupied site — see Founding, below.
 
-See also: `Bharati_TBD.md` (Mirny subnet as of 2026-07-05, moved from Mawson) for the same India-exclusion situation at the other Indian Antarctic station — unresolved, no equivalent adjacent-station solution currently identified there.
+See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson) for the same India-exclusion situation at the other Indian Antarctic station — resolved differently there (Japanese diplomatic allocation, not adjacent-station coalescence).
 
 ---
 

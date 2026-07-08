@@ -1,6 +1,6 @@
 # City Enneagram Personalities
 
-**Purpose:** applies the Enneagram's three sub-classifications — the same framework the developer uses to design individual Doll characters' personalities — to each Tepenian city's *collective* personality instead. Each city's own established culture (from its `Specs/`, `Local_Cultures/`, and City Vision Notes content) is read as a personality profile, scored across three axes. Started 2026-07-06, first applied to the Tri-Cities cluster (Zhongshan/Soyuz/Bharati), then extended to every other touched city in Tepenia.
+**Purpose:** applies the Enneagram's three sub-classifications — the same framework the developer uses to design individual Doll characters' personalities — to each Tepenian city's *collective* personality instead. Each city's own established culture (from its `Specs/`, `Local_Cultures/`, and City Vision Notes content) is read as a personality profile, scored across three axes. Started 2026-07-06, first applied to the Tri-Cities cluster (Zhongshan/Soyuz/Shirayuki), then extended to every other touched city in Tepenia.
 
 **These are not profiles of individual residents** — they're readings of each city's own collective character, grounded entirely in what's already established about that city elsewhere in the project. No generic Enneagram trivia; every judgment cites a specific, already-canonical detail.
 
@@ -33,7 +33,7 @@
 - **Palmer subnet:** `Palmer_Subnet/`
 - **Halley subnet:** `Halley_Subnet/`
 - **Janbogo/Ross subnet:** `Janbogo_Subnet/`
-- **Mirny subnet:** `Mirny_Subnet/` (Zhongshan, Soyuz, and Bharati's profiles live together in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md` instead, since their analysis was done as one comparative regional piece)
+- **Mirny subnet:** `Mirny_Subnet/` (Zhongshan, Soyuz, and Shirayuki's profiles live together in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md` instead, since their analysis was done as one comparative regional piece)
 - **Mawson subnet:** `Mawson_Subnet/`
 - **Byrd subnet:** `Byrd_Subnet/`
 - **Amundsen Station:** `Amundsen_Station/` (not one of the 35 cities, included for completeness)

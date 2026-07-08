@@ -1,6 +1,6 @@
-# Japanese Diplomatic Partition (cf. Bharati) — Cultural Spec Sheet
+# Shirayuki — Cultural Spec Sheet
 
-*(Working title — final Japanese proper name still TBD; see `Specs/Bharati_TBD.md`. Referenced here and elsewhere as "the Japanese city" or "cf. Bharati" until named.)*
+*(Named 2026-07-08 — Shirayuki (白雪, "white snow"). Formerly tracked under the working title "Japanese Diplomatic Partition (now Shirayuki)"; see `Specs/Shirayuki.md` for the full naming history and candidate list.)*
 
 ---
 
@@ -25,7 +25,7 @@
 | Significant | Australia, Russia *(founding wave)*, South Korea, China, Germany |
 | Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
-*Re-resolved 2026-07-06 in two rounds, during this city's City Vision Notes session — see `Specs/Bharati_TBD.md`'s Founding Population Re-Resolution for the full math. Round 1: the standard population/GDP tiering (superseded) had put China at Primary and buried Japan — the city's actual, deliberately-allocated founding nation — in Significant tier at just 3.28%, directly undercutting the point of the Jeju-do court's decision. Japan boosted to solidly Primary at 36.27%, absorbing China's old share plus Indonesia's and Malaysia's (both removed); China dropped to Significant at 5.68% (UK's old share); UK removed outright. Round 2: a direct hand-specified transfer, 1.5 points from South Korea to China. Final: South Korea 7.89%, China 7.18%. The diplomatic allocation now reads as having actually held over 130+ years, rather than being overwhelmed by regional Chinese demographic pull.*
+*Re-resolved 2026-07-06 in two rounds, during this city's City Vision Notes session — see `Specs/Shirayuki.md`'s Founding Population Re-Resolution for the full math. Round 1: the standard population/GDP tiering (superseded) had put China at Primary and buried Japan — the city's actual, deliberately-allocated founding nation — in Significant tier at just 3.28%, directly undercutting the point of the Jeju-do court's decision. Japan boosted to solidly Primary at 36.27%, absorbing China's old share plus Indonesia's and Malaysia's (both removed); China dropped to Significant at 5.68% (UK's old share); UK removed outright. Round 2: a direct hand-specified transfer, 1.5 points from South Korea to China. Final: South Korea 7.89%, China 7.18%. The diplomatic allocation now reads as having actually held over 130+ years, rather than being overwhelmed by regional Chinese demographic pull.*
 
 ---
 
@@ -59,6 +59,8 @@ Polar night (~60 days) and midnight sun (~61 days), moderated somewhat by the oa
 
 This city's founding identity is genuinely unusual: it exists because Upper Earth diplomats decided it should, not because anyone chose to build here first. But the site itself — mild, gentle, delicate — turned that imposed beginning into something the founding population could make their own. Rather than a harsh survival outpost, the city's actual character developed around research, education, science, art, music, and fashion: pursuits that need calm, stable conditions to flourish, which this city's climate genuinely offers in a way few other Tepenian locations can match.
 
+**Important, clarified 2026-07-07: none of this — the art, the music, the fashion — was part of the founding intention.** The Jeju-do allocation was a purely geopolitical decision, made to balance regional national claims, with no artistic or cultural vision attached to it at all. The climate simply made this kind of culture *possible*; it didn't make it *planned*. Everything that actually became the city's defining identity — including the massive amateur music scene that eventually made the whole Larsemann Hills region nationally synonymous with "Alternative Culture" (see Section 12) — grew afterward, organically, over generations, entirely separate from why the city was founded here in the first place.
+
 - **a. Founding tension** — **Re-resolved 2026-07-06:** no longer a story about the founding nation being diluted — Japan is now solidly Primary tier (36.27%), reflecting that the Jeju-do court's diplomatic allocation actually held over 130+ years rather than being overwhelmed by regional Chinese demographic pull. The real tension here is institutional instead: a city founded by external decree, needing generations to feel genuinely lived-in rather than simply assigned — separate from any question of whose population it actually became.
 - **b. Fault lines** — Between the city's imposed diplomatic origin and its organically-developed creative/scientific character — two things that don't obviously belong together, reconciled slowly over generations rather than at founding.
 
@@ -85,7 +87,7 @@ This city's founding identity is genuinely unusual: it exists because Upper Eart
 
 ## 8. Language
 
-- **a. Primary language(s):** **Corrected 2026-07-06** — Japanese is now the demographic Primary (36.27%, following this session's population re-derivation — see `Specs/Bharati_TBD.md`), consistent with the city's own founding story. Chinese, Australian English, and Russian carry real Significant-tier presence alongside it.
+- **a. Primary language(s):** **Corrected 2026-07-06** — Japanese is now the demographic Primary (36.27%, following this session's population re-derivation — see `Specs/Shirayuki.md`), consistent with the city's own founding story. Chinese, Australian English, and Russian carry real Significant-tier presence alongside it.
 - **b. Linguistic character** — Reflective and precise, shaped by the research/education/arts identity — a city where careful, considered language use is genuinely valued.
 - **c. Slang / dialect markers** — Terminology drawn from the specific research disciplines, artistic practices, and educational institutions that define the city's civic life.
 - **d. Language and integration** — Moderate pressure, welcoming to newcomers bringing genuinely different backgrounds and pursuits, consistent with the city's whole "varied life paths" character.

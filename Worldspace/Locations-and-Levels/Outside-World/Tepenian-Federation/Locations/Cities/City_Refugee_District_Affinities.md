@@ -379,11 +379,11 @@ The Chinese multigenerational household culture — the specifically Chinese ver
 
 ---
 
-### Bharati_TBD
-*Mirny subnet *(corrected 2026-07-05, moved from Mawson — see `TODO.md`)*. Founding population resolved as Japanese via Jeju-do diplomatic allocation — see `Specs/Bharati_TBD.md`. China T1 likely. Note: proper name still TBD.*
+### Shirayuki
+*Mirny subnet *(corrected 2026-07-05, moved from Mawson — see `TODO.md`)*. Founding population resolved as Japanese via Jeju-do diplomatic allocation — see `Specs/Shirayuki.md`. Japan T1 (re-tiered 2026-07-06, see `Specs/Shirayuki.md`). Named Shirayuki 2026-07-08.*
 
 **1. Cancer**
-As with Lazar before its founding story was resolved, Bharati's still-unresolved cultural primary means refugees arrive in Concordia without the strong community anchor that clearly defined cultural identity provides. Cancer absorbs them first. *Effect: Bharati refugees stabilize in Cancer at higher rates than most city communities.*
+As with Lazar before its founding story was resolved, Shirayuki (formerly with an unresolved cultural primary before its 2026-07-08 naming) sends refugees into Concordia who arrive without a strong pre-existing community anchor. Cancer absorbs them first. *Effect: Shirayuki refugees stabilize in Cancer at higher rates than most city communities.*
 
 **2. Aquarius / The Labs**
 Mawson subnet scientific heritage draws research communities toward The Labs regardless of founding nationality.

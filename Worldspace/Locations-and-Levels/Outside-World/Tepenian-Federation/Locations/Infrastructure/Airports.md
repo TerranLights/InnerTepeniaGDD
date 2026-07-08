@@ -10,7 +10,7 @@ Which Tepenian cities/locations retain functional airports in the post-war/prese
 |---|---|---|
 | **Zukelli/Janbogo Airport** | Zukelli and Janbogo (shared) | The two cities are ~8km apart (see `TODO.md`'s Janbogo/Zukelli distance fix) and share one airport between them. |
 | **Mirny Airport** | Mirny | |
-| **The Tri-Cities Airport** | Zhongshan, Soyuz, and Bharati (shared) | One regional airport for the whole Larsemann Hills cluster. |
+| **The Tri-Cities Airport** | Zhongshan, Soyuz, and Shirayuki (shared) | One regional airport for the whole Larsemann Hills cluster. |
 | **Troll Airport** | Troll | Real-world Troll Airfield is one of the most capable blue-ice, wheeled-aircraft-ready runways in Antarctica — consistent with this being one of Tepenia's confirmed airports. |
 | **Rothera Airport** | Rothera | |
 | **Marambio Airport** | Marambio | **Domestic** — links Marambio to other Tepenian cities via the highway/aviation network. Confirmed 2026-07-07 via the developer's own highway-overlay map, which shows this as a distinct marker from the international airport below, close by but functionally separate. |

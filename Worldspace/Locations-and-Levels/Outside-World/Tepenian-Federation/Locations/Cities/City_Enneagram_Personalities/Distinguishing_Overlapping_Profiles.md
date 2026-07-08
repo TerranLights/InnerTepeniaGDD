@@ -54,16 +54,16 @@ Both are forceful, contested, industrially significant cities — but the *direc
 
 ## Group 4 — Feeling / Compliant / Positive Outlook (4 cities)
 
-**Cape Adare, Zukelli, Mawson, Bharati**
+**Cape Adare, Zukelli, Mawson, Shirayuki**
 
 All four are warm, community-first, and optimistic — but each channels that warmth through a different primary medium:
 
 - **Cape Adare** channels it through folk music and rural small-town intimacy — acoustic instruments, a slow pace, penguins as pets, a "big city, small-town feel."
 - **Zukelli** channels it through dense, genre-diverse urban music and a tangled, lived-in cityscape — "a place with a soul," a warmth proven precisely because it was willing to shelter AWOL defectors at real cost.
 - **Mawson** channels it through romantic hospitality specifically — Tepenia's honeymoon destination, warmth built around relationship and celebration rather than art or community texture.
-- **Bharati** channels it through visual art, fashion, and civic pride — sculptures and murals as the actual built environment, an academic draw built on culture and soul rather than ranking.
+- **Shirayuki** channels it through visual art, fashion, and civic pride — sculptures and murals as the actual built environment, an academic draw built on culture and soul rather than ranking.
 
-**The distinguishing axis:** the medium of warmth — folk music/rural intimacy (Cape Adare), urban music/soulful risk-taking (Zukelli), romance/hospitality (Mawson), visual art/civic pride (Bharati).
+**The distinguishing axis:** the medium of warmth — folk music/rural intimacy (Cape Adare), urban music/soulful risk-taking (Zukelli), romance/hospitality (Mawson), visual art/civic pride (Shirayuki).
 
 ---
 

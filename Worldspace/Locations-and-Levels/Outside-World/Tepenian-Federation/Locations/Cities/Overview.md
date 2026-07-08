@@ -66,7 +66,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 |---|---|---|---|---|
 | Sayowa | Syowa Station | Japan | Mawson | ~ Damaged / Partially operational |
 | **Mawson** *(subnet hub)* | Mawson Station | Australia | Mawson | ~ Damaged / Partially operational |
-| Japanese Diplomatic Partition *(cf. Bharati; name TBD)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
+| **Shirayuki** *(named 2026-07-08)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Soyuz | Soyuz Station | Russia | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Soyuz.md`)* |
 | Zhongshan | Zhongshan Station | Sinian Federation | Mirny ("Australian") | ~ Damaged / Partially operational |
 | Davis | Davis Station | Australia | Mirny ("Australian") | ~ Damaged / Partially operational |
@@ -133,6 +133,6 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 - **Dumont d'Urville and Denison** are geographically in the Dumont d'Urville Sea area but are members of the **Janbogo** subnet — not Mirny.
 - **Dome Fuji** is geographically in inland East Antarctica but is in the **Mawson** subnet. Subnets were organized by Arcanet cable routing, not strict geographic proximity.
 - **Signy** (South Orkney Islands) has weak/intermittent Arcanet connectivity — dashed border on the subnet map. Maritime access only; no road connection possible. **Confirmed 2026-07-03: overlooked entirely by Upper Earth targeting** due to its peripheral status — fully survived, untouched by direct war damage, but its robot population faces a real post-war siligel shortage given cut supply lines (humans can sustain themselves on the Scotia Sea's marine resources instead).
-- **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **Japanese Diplomatic Partition (Bharati Station location)** — founding population and founding story resolved 2026-07-03 (Japanese, via a pre-exile Jeju-do court allocation); final Japanese proper name still TBD; see `Cities/Specs/Bharati_TBD.md`.
+- **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **Shirayuki (Bharati Station location)** — founding population and founding story resolved 2026-07-03 (Japanese, via a pre-exile Jeju-do court allocation); named 2026-07-08; see `Cities/Specs/Shirayuki.md`.
 - **Zukelli** is the confirmed Tepenian city name for Mario Zucchelli Station.
 - **Governmental capital of Tepenia:** **Fort McMurdo**, confirmed 2026-07-07 (see `National_Capital_Candidates.md`) — Palmer City was the cultural capital, not the governmental one.

@@ -24,7 +24,7 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 |---|---|
 | **Real-world basis** | Progress Station, Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E) |
 | **Status** | Damaged, partially operational |
-| **Subnet** | Mirny — Hwy 4, between Mawson and the ex-Bharati city; part of the Larsemann Hills cluster alongside Zhongshan and the ex-Bharati city |
+| **Subnet** | Mirny — Hwy 4, between Mawson and the Shirayuki; part of the Larsemann Hills cluster alongside Zhongshan and the Shirayuki |
 | **Population (Census II)** | 437,854 humans / 450,438 robots / 888,292 combined |
 | **Founding** | A genuinely dual founding, arriving together from the start |
 

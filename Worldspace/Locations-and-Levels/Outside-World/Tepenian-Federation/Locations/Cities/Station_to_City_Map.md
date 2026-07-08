@@ -9,7 +9,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - Condensed: Mario Zucchelli → **Zukelli** ✓
 - Unchanged: Concordia, Palmer City (Palmer Station → Palmer City)
 - Resolved: Novolazarevskaya/Maitri Station sites (coalesced twin settlements) → **Lazar** ✓ *(finalized 2026-07-03)*
-- Resolved: founding population and story settled 2026-07-03 (Japanese, via Jeju-do allocation), final proper name still TBD: Japanese Diplomatic Partition (cf. Bharati Station location)
+- Resolved: Bharati Station site (founding population Japanese, via Jeju-do allocation, settled 2026-07-03) → **Shirayuki** ✓ *(named 2026-07-08)*
 
 **Status key:**
 - **Destroyed** — Long Night War (coastal, targeted by Upper Earth militaries)
@@ -68,7 +68,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Syowa Station | Japan | Sayowa | Damaged; partially operational | Major highway junction (Hwy 37 × Hwy 7-ext); critical infrastructure node; DLC 4 |
 | Soyuz Station | Russia | Soyuz | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)* | Russian station, East Antarctic coast |
 | Mawson's Huts / Mawson Station | Australia | Mawson | Damaged; partially operational | Confirmed Arcanet subnet hub; DLC 4 anchor |
-| Bharati Station | India (infrastructure only) / Japan (founding population) | **[NAME TBD]** | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; "Bharati" is a placeholder — final Japanese name TBD |
+| Bharati Station | India (infrastructure only) / Japan (founding population) | **Shirayuki** | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08 |
 | Zhongshan Station | Sinian Federation | Zhongshan | Damaged; partially operational | Sinian Federation station; named after Sun Yat-sen; major highway junction (Hwy 110 × Hwy 22) |
 | Davis Station | Australia | Davis | Damaged; partially operational | Major Australian station |
 
@@ -133,7 +133,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **Total stations/sites on map:** ~40
 - **Confirmed destroyed (coastal, Long Night War):** Palmer City, Sejong, Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Princess Elisabeth *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*, Esperanza, Marambio *(both corrected 2026-07-03 — moved here from "damaged"; Marambio's small, flat, single-point-of-failure airfield geography argues against survival)*
 - **Juan Carlos's status resolved 2026-07-05:** Destroyed — see `Specs/Juan_Carlos.md` for the reasoning (Upper Earth targeted its ongoing archive/customs administrative function)
-- **Damaged; partially operational (coastal):** Rothera, Port Lockroy *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Abowasa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Soyuz, Japanese Diplomatic Partition *(cf. Bharati; both corrected 2026-07-03 — moved here from "destroyed," effectively co-located with Zhongshan)*, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
+- **Damaged; partially operational (coastal):** Rothera, Port Lockroy *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Abowasa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Soyuz, Shirayuki *(formerly "Japanese Diplomatic Partition, cf. Bharati"; both corrected 2026-07-03 — moved here from "destroyed," effectively co-located with Zhongshan)*, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
 - **Survived; fully operational:** Signy *(upgraded 2026-07-03 from "damaged" — overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines despite the city itself being untouched)*
 - **Confirmed survived (inland):** Concordia (game setting), Vostok (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)
 - **Removed from canon (2026-07-03):** Framheim, Little America — real-world site (Bay of Whales) eliminated by 1987 Iceberg B-9 calving; population redistributed to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare. **Breaks the established Byrd↔Janbogo aviation refueling route — not yet resolved, see `Specs/Byrd.md`.**
@@ -150,7 +150,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **Halley** — built on a floating ice shelf; the city literally moved over time. Unique survival character — parts may have drifted, been preserved, or partially sunk.
 - **Zukelli** — confirmed Tepenian city name for Mario Zucchelli Station. Southern terminus of Hwy 183; destroyed.
 - **Lazar** *(formerly "Maitri" placeholder, finalized 2026-07-03)* — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); marks the eastern terminus of Hwy 7 proper and the origin point of the Belgrano Highway Extension (built 2611–2614). See `Specs/Lazar.md`.
-- **Japanese Diplomatic Partition (cf. Bharati Station location)** — founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; "Bharati" is a placeholder only, final Japanese name TBD. Damaged but partially operational (corrected 2026-07-03 from "Destroyed").
+- **Shirayuki (Bharati Station location)** — founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08. Damaged but partially operational (corrected 2026-07-03 from "Destroyed").
 - **Zhongshan** — named after Sun Yat-sen; name retained under the Sinian Federation.
 - **Sayowa** — major highway junction (Hwy 37 × Hwy 7-ext); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.
 - **Signy** — northernmost Tepenian outpost; South Orkney Islands; maritime access only; peripheral Arcanet connectivity. Confirmed overlooked entirely by Upper Earth targeting due to its marginal status — the one Palmer subnet city that survived the Long Night War fully untouched, though its robot population now faces a real siligel shortage from cut supply lines.

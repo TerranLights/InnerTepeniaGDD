@@ -1,12 +1,12 @@
-# {{currently-unnamed Japanese city; cf. Bharati}} — Complete Megasheet
+# Shirayuki — Complete Megasheet
 
-The full, concatenated reference for this city — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. No proper Tepenian name exists yet; see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md` for why that's deliberate. Compiled 2026-07-07.
+The full, concatenated reference for this city — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07. Officially named Shirayuki (白雪, "white snow") 2026-07-08 — formerly tracked as "Japanese Diplomatic Partition (cf. Bharati)" throughout the compilation process; updated to the final name in all three source files.
 
 ---
 
-# {{currently-unnamed Japanese city; cf. Bharati}} — Mega-Init
+# Shirayuki — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Bharati_TBD.md`, `Local_Cultures/Mirny_Subnet/Japanese_Diplomatic_Partition_cf_Bharati.md`, `City_Vision_Notes/Japanese_Diplomatic_Partition_cf_Bharati.md`, the Enneagram read in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, and real-world research on its four inspirational picks (Shibuya, Harajuku, Hongdae, Novosibirsk). Compiled 2026-07-07. **A naming note up front:** this city has no proper Tepenian name yet — "Bharati" is only the placeholder inherited from the real, unoccupied Indian station its exiles settled on, and per established canon carries no actual Indian meaning forward. This document refers to it by its working title throughout.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Shirayuki.md`, `Local_Cultures/Mirny_Subnet/Shirayuki.md`, `City_Vision_Notes/Shirayuki.md`, the Enneagram read in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, and real-world research on its four inspirational picks (Shibuya, Harajuku, Hongdae, Novosibirsk). Compiled 2026-07-07. **Naming note, updated 2026-07-08:** at the time this document was written, the city had no proper Tepenian name yet and was referred to by the placeholder "Japanese Diplomatic Partition (cf. Bharati)," inherited from the real, unoccupied Indian station its exiles settled on (which per established canon carries no actual Indian meaning forward). It has since been officially named **Shirayuki** (白雪, "white snow") — this document has been updated throughout to use that name.
 
 ---
 
@@ -81,7 +81,7 @@ Unofficially "the Capital of Siberia" — a major transport, industrial, scienti
 
 ## What's Actually Open
 
-Carried forward from `Specs/Bharati_TBD.md`, still genuinely unresolved:
+Carried forward from `Specs/Shirayuki.md`, still genuinely unresolved:
 - **The city's actual Japanese proper name** — the single largest open item, deliberately deferred (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`) until each Larsemann Hills city's own identity is more fully developed
 - The Jeju-do allocation's specifics — exact date, and whether China or Korea contested it at the time
 - The lived relationship with Soyuz and Zhongshan, given the deliberately-engineered (rather than organic) founding
@@ -99,9 +99,9 @@ Harajuku's own founding story is the standout of this pass — a creative identi
 
 ---
 
-# {{currently-unnamed Japanese city; cf. Bharati}} — Full Extrapolation
+# Shirayuki — Full Extrapolation
 
-**What this is:** every open question about this city given an actual proposed answer, built as far as possible directly out of what's already established rather than invented from nothing. Not locked canon — meant for review, revision, or rejection piece by piece. Companion to `Japanese_Diplomatic_Partition_cf_Bharati_Mega_Init.md` in this same folder. Written 2026-07-07.
+**What this is:** every open question about this city given an actual proposed answer, built as far as possible directly out of what's already established rather than invented from nothing. Not locked canon — meant for review, revision, or rejection piece by piece. Companion to `Shirayuki_Mega_Init.md` in this same folder. Written 2026-07-07.
 
 ---
 
@@ -159,9 +159,9 @@ The most structurally important proposal here is Section III — dating the clus
 
 ---
 
-# {{currently-unnamed Japanese city; cf. Bharati}} — Cross-Reference Synthesis: Gaps, Combinations, and Downstream Effects
+# Shirayuki — Cross-Reference Synthesis: Gaps, Combinations, and Downstream Effects
 
-**What this is:** a deliberate cross-referencing pass across every document for this city — `Specs/Bharati_TBD.md`, `Local_Cultures/Mirny_Subnet/Japanese_Diplomatic_Partition_cf_Bharati.md`, `City_Vision_Notes/Japanese_Diplomatic_Partition_cf_Bharati.md`, the Enneagram read and Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, `Inspirational-Influences.md`'s entry, `Japanese_Diplomatic_Partition_cf_Bharati_Mega_Init.md`, and `Japanese_Diplomatic_Partition_cf_Bharati_Full_Extrapolation.md` — hunting for places where combining facts across files produces implications neither file states alone. Each finding is followed as far as its chain of implication honestly holds, in plain descriptive terms — no questline or dialogue-branch framing here; that mapping belongs to a later, separate quest-design pass, not this synthesis step (see `City_Megasheet_Compilation_Guide.md`, corrected 2026-07-07). Written 2026-07-07.
+**What this is:** a deliberate cross-referencing pass across every document for this city — `Specs/Shirayuki.md`, `Local_Cultures/Mirny_Subnet/Shirayuki.md`, `City_Vision_Notes/Shirayuki.md`, the Enneagram read and Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, `Inspirational-Influences.md`'s entry, `Shirayuki_Mega_Init.md`, and `Shirayuki_Full_Extrapolation.md` — hunting for places where combining facts across files produces implications neither file states alone. Each finding is followed as far as its chain of implication honestly holds, in plain descriptive terms — no questline or dialogue-branch framing here; that mapping belongs to a later, separate quest-design pass, not this synthesis step (see `City_Megasheet_Compilation_Guide.md`, corrected 2026-07-07). Written 2026-07-07.
 
 ---
 

@@ -23,7 +23,7 @@
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Soyuz's). **Corrected 2026-07-06:** Sayowa is no longer the primary Japanese Tepenian presence — that's Bharati now (36.27% Japan-Primary, following its own population re-derivation the same session), the direct result of its diplomatically-protected Jeju-do allocation. Sayowa's own Japan share is genuinely diluted, down to just 2.71% — plausibly the very outcome Japan's diplomats anticipated and tried to hedge against by securing Bharati as a protected backstop in the first place. See `Specs/Sayowa.md` and `Specs/Bharati_TBD.md` for the full cross-reference.*
+*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Soyuz's). **Corrected 2026-07-06:** Sayowa is no longer the primary Japanese Tepenian presence — that's Shirayuki now (36.27% Japan-Primary, following its own population re-derivation the same session), the direct result of its diplomatically-protected Jeju-do allocation. Sayowa's own Japan share is genuinely diluted, down to just 2.71% — plausibly the very outcome Japan's diplomats anticipated and tried to hedge against by securing Shirayuki as a protected backstop in the first place. See `Specs/Sayowa.md` and `Specs/Shirayuki.md` for the full cross-reference.*
 
 ---
 
@@ -81,7 +81,7 @@ Sayowa's civic identity rests on a genuine duality: a small, deeply Japanese com
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern). **Corrected 2026-07-06:** Japanese presence here is genuine but no longer "concentrated" in the way this file used to claim — Bharati is the actual primary Japanese Tepenian city now; Sayowa's Japanese heritage carries institutional weight (JARE) rather than demographic weight.
+- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern). **Corrected 2026-07-06:** Japanese presence here is genuine but no longer "concentrated" in the way this file used to claim — Shirayuki is the actual primary Japanese Tepenian city now; Sayowa's Japanese heritage carries institutional weight (JARE) rather than demographic weight.
 - **b. Linguistic character** — Practical and junction-oriented, shaped by constant transit traffic between the Mawson subnet, Concordia, and the Halley subnet.
 - **c. Slang / dialect markers** — Terminology tied to the Shōwa-era name's specific historical weight, alongside junction/highway-coordination vocabulary unique to Sayowa's structural role.
 - **d. Language and integration** — Moderate pressure, given the city's genuine function as a crossing point requiring some fluency across multiple travelers' contexts.
@@ -98,7 +98,7 @@ Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely 
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — **Corrected 2026-07-06:** a genuine Japanese thread persists institutionally (JARE heritage), but demographically the food culture is China-Primary now, not concentratedly Japanese as this file previously claimed — Bharati carries that distinction instead.
+- **a. Human cuisine** — **Corrected 2026-07-06:** a genuine Japanese thread persists institutionally (JARE heritage), but demographically the food culture is China-Primary now, not concentratedly Japanese as this file previously claimed — Shirayuki carries that distinction instead.
 - **b. Social context of eating** — Practical, shaped by both the JARE scientific tradition's methodical character and the city's genuine transit-point function.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to one of the Mawson subnet's smallest populations.
 
@@ -106,13 +106,13 @@ Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely 
 
 ## 11. Fashion
 
-Practical, JARE-inflected cold-weather wear with a genuine Japanese aesthetic thread, though **corrected 2026-07-06:** not because of a concentrated Japanese demographic majority (that's Bharati's distinction) — Sayowa's fashion sensibility runs on institutional/aesthetic inheritance rather than population share.
+Practical, JARE-inflected cold-weather wear with a genuine Japanese aesthetic thread, though **corrected 2026-07-06:** not because of a concentrated Japanese demographic majority (that's Shirayuki's distinction) — Sayowa's fashion sensibility runs on institutional/aesthetic inheritance rather than population share.
 
 ---
 
 ## 12. Music
 
-Modest, with a genuinely Japanese institutional thread — **corrected 2026-07-06:** no longer framed as Tepenia's primary Japanese cultural presence (that's Bharati now), but a real, specific inheritance distinct from Mawson's own broader multinational blend all the same.
+Modest, with a genuinely Japanese institutional thread — **corrected 2026-07-06:** no longer framed as Tepenia's primary Japanese cultural presence (that's Shirayuki now), but a real, specific inheritance distinct from Mawson's own broader multinational blend all the same.
 
 ---
 
@@ -193,7 +193,7 @@ Disproportionately significant given its small population — Sayowa's genuine s
 
 ## 22. Relationship to Upper Earth
 
-Filtered through JARE's own decades-long institutional research history, layered against the same China-Primary demographic current that reshaped the whole subnet. **Corrected 2026-07-06:** no longer "the primary Japanese Tepenian relationship to Upper Earth" — that distinction belongs to Bharati now.
+Filtered through JARE's own decades-long institutional research history, layered against the same China-Primary demographic current that reshaped the whole subnet. **Corrected 2026-07-06:** no longer "the primary Japanese Tepenian relationship to Upper Earth" — that distinction belongs to Shirayuki now.
 
 ---
 
@@ -214,7 +214,7 @@ Genuinely significant given the city's physical junction role — Sayowa likely 
 ## 25. Export Culture
 
 - Junction-logistics and highway-maintenance expertise — Sayowa-trained specialists in keeping critical, high-stakes infrastructure functional
-- **Corrected 2026-07-06:** JARE's methodical research tradition and the Shōwa-era name's historical weight — a genuine Japanese institutional export, though no longer "the primary Japanese cultural presence in Tepenia" (that's Bharati's export now)
+- **Corrected 2026-07-06:** JARE's methodical research tradition and the Shōwa-era name's historical weight — a genuine Japanese institutional export, though no longer "the primary Japanese cultural presence in Tepenia" (that's Shirayuki's export now)
 - A specific *type of person* — comfortable holding disproportionate structural responsibility in a small community, recognizable by an ease with that gap between scale and significance
 
 ---
@@ -268,4 +268,4 @@ Becoming a local at Sayowa means genuinely internalizing the city's disproportio
 
 ## 32. Diaspora Character in Concordia
 
-**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Bharati refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine institutional Japanese identity — the Shōwa-era name's specific historical weight, JARE's methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated one.
+**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Shirayuki refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine institutional Japanese identity — the Shōwa-era name's specific historical weight, JARE's methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated one.
