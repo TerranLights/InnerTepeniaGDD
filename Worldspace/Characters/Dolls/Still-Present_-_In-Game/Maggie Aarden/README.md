@@ -1,5 +1,9 @@
 # Maggie Aarden — Character Profile
 
+**Folder note, 2026-07-08:** moved from `Past_History_-_Known_to_Tepenians` to `Still-Present_-_In-Game` — flagged as a **prospective recruitable companion in the Byrd DLC** (final DLC name/numbering TBD, per the project's standing DLC-renumbering plan). Robots live centuries; her still being alive and settled in present-day Byrd is consistent with that, not a stretch. Everything below remains tentative in the same way her Falkland Treaty signatory role is.
+
+**Byrd DLC central-conflict candidates, flagged 2026-07-08:** see `Storyline/DLC_Overview.md` (DLC 2 entry) and `TODO.md` for three live candidates — the Chamber Crisis, What's Actually Down There, and the Isolation Crisis. The developer's own lean is the Chamber Crisis specifically, since it's the only one that gives her established industrial/welding skill set a direct mechanical reason to matter to the plot, not just an emotional one.
+
 ---
 
 ## Basic Information
@@ -11,9 +15,9 @@
 | **Type**                     | Gynoid |
 | **Activation Date**          | TBD |
 | **Origin**                   | Midwestland — industrial yard worker |
-| **Current Status**           | TBD |
-| **Last Known Location**      | Midwestland / Colorado Republic (leading robot resettlement); **tentatively, Falkland Island** — see below |
-| **Historical Significance**  | Known to Tepenians — unwilling leader of early robot community resettlement; **tentatively (2026-07-08), the robot signatory of the Falkland Treaty itself** |
+| **Current Status**           | **Tentatively (2026-07-08): settled, post-exile, in Byrd** — see below. **Prospective recruitable companion, Byrd DLC.** |
+| **Last Known Location**      | Midwestland / Colorado Republic (leading robot resettlement) → **tentatively, the city of Stanley, Falkland Islands** (signing the Falkland Treaty) → **tentatively, Rothera** (first post-exile settlement) → **tentatively, Byrd** (likely eventual, permanent home, present day) |
+| **Historical Significance**  | Known to Tepenians — unwilling leader of early robot community resettlement; **tentatively (2026-07-08), the robot signatory of the Falkland Treaty itself; prospective present-day companion, Byrd DLC** |
 
 ---
 
@@ -51,7 +55,9 @@ She was to lead her fellow robots out of primarily human cities in Midwestland a
 
 What became of Maggie, her community, and the resettlement effort is not yet established beyond the following.
 
-**Tentative, 2026-07-08:** Maggie Aarden is the developer's working candidate for the high-ranking robot leader who signed the Falkland Treaty at Falkland Island, negotiating the exile of the robot population (and their human allies) on their behalf, from a position of certain defeat. Explicitly tentative — subject to change if a doll with a better fit for the First Interwar Period timeline turns up. See `Falkland_Treaty/Real_World_Influences.md` and `Falkland_Treaty/Scaffold.md` in the Tepenian-Federation folder for how this shapes the treaty's own preamble. If it holds, her established character is a strong fit rather than a stretch: the Midwestland/Colorado Republic resettlement was already her own "third option" — not fighting, not submitting, just quietly building separate space — and the Falkland Treaty's exile is that same instinct at national scale, forced by total defeat rather than chosen freely, consistent with everything already established about her as a very unwilling leader.
+**Tentative, 2026-07-08:** Maggie Aarden is the developer's working candidate for the high-ranking robot leader who signed the Falkland Treaty at the city of Stanley, Falkland Islands, negotiating the exile of the robot population (and their human allies) on their behalf, from a position of certain defeat. Explicitly tentative — subject to change if a doll with a better fit for the First Interwar Period timeline turns up. See `Falkland_Treaty/Real_World_Influences.md`, `Falkland_Treaty/Scaffold.md`, and `Falkland_Treaty/Falkland_Treaty_Draft_v1.md` in the Tepenian-Federation folder for how this shapes the treaty's own preamble and signature block. If it holds, her established character is a strong fit rather than a stretch: the Midwestland/Colorado Republic resettlement was already her own "third option" — not fighting, not submitting, just quietly building separate space — and the Falkland Treaty's exile is that same instinct at national scale, forced by total defeat rather than chosen freely, consistent with everything already established about her as a very unwilling leader.
+
+**Post-exile settlement, tentative, 2026-07-08:** following the signing, Maggie is presumed to have first taken up residence in **Rothera** — a natural landing point given her established industrial/welding background, since Rothera is the Palmer subnet's own decentralized manufacturing center. Later, and in all likelihood permanently, she relocated to **Byrd** — the city built entirely underground before it ever stood on the surface, and (as of this same session) a confirmed site where fabrication-synthesis chambers are manufactured in a specifically reinforced underground section. Byrd's profile fits her Enneagram almost exactly: a vast, isolated, largely private underground scale, paired with a genuine sense of shared community despite that isolation — a place where an SP 5w6 who has already done her one great unwilling act of public leadership could plausibly withdraw into something quieter, without withdrawing into nothing at all.
 
 ---
 
@@ -111,7 +117,7 @@ TBD
 
 - [ ] What happened to the Midwestland / Colorado Republic resettlement effort?
 - [x] Did Maggie survive to the Falkland Treaty? Was she exiled to Antarctica? — **tentatively yes, 2026-07-08**: working candidate for the robot signatory of the Falkland Treaty itself, at Falkland Island. Still subject to change.
-- [ ] Current/final status — if the tentative signatory identity holds, presumably resolves post-exile; not yet decided
+- [x] Current/final status — **tentatively resolved, 2026-07-08**: Rothera first, then likely permanent settlement in Byrd. Still subject to the same tentativeness as her signatory role.
 - [ ] Degree of recognition among Concordia residents — if she's the Falkland Treaty's own signatory, this is likely to be significant; not yet developed
 - [ ] Relationships
 - [ ] Activation Date

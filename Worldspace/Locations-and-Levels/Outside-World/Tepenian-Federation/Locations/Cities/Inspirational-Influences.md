@@ -195,8 +195,14 @@
 
 ##### Byrd
 - Red Deer, Alberta [PRIMARY]
-- Regina, Saskatchewan [SECONDARY]
-- x [SECONDARY]
+- Derinkuyu, Turkey [PRIMARY] // ancient 18-level underground city, held up to 20,000 people with genuine planned civic logic by depth
+- Ruhr Valley (Ruhrgebiet), Germany [PRIMARY] // dense, interconnected industrial mega-region where coal, steel, and chemical manufacturing all depend on each other; Duisburg's real inland port handles 40M+ tons of cargo yearly
+- Coober Pedy, Australia [SECONDARY] // real, living underground-dwelling town; genuinely multicultural (45+ nationalities among its miners)
+- Shenzhen, China [SECONDARY] // complete raw-material-to-shipped-product pipeline in one region; 15,000+ factories, $340B in annual shipped goods, top-5 global port and air cargo access
+- Jamshedpur, India [SECONDARY] // planned integrated industrial township built directly around Asia's first integrated steel mill, with captive raw-material mines feeding the plant directly
+- Regina, Saskatchewan [SUPPORTING]
+- Norilsk, Russia [SUPPORTING] // isolated Arctic industrial city, no road/rail connection to the rest of the country, reachable only by air or a seasonal river route
+- Kiruna, Sweden [SUPPORTING] // entire town currently being relocated building-by-building due to mining-caused ground subsidence, including a real mining-induced 4.9-magnitude earthquake in 2020
 
 ### South Pole [special case]
 
