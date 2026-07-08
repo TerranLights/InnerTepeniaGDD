@@ -1,5 +1,7 @@
 # Mirny — Cultural Spec Sheet
 
+*(Flagged 2026-07-08 for an eventual rename — see `TODO.md`'s "Mirny Rename" entry. The city's actual national composition no longer resembles the Russian station/ship the name is built around; the founding-tension identity below (Sections 2 and 5 especially) would need to either survive under a new name or be replaced entirely once this is picked up. Not resolved now.)*
+
 ---
 
 **Subnet:** Mirny ("Australian") — subnet hub

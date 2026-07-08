@@ -40,6 +40,10 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Mirny Rename — flagged 2026-07-08, deliberately deferred
+
+Mirny's actual national composition (China Primary; Russia only Significant tier) bears no real resemblance to the real Russian station and ship (Bellingshausen's *Mirny*) the name and founding story are built around — unlike Soyuz's already-flagged Korean rename, this isn't a demographic-tiering bug to fix, just a name that no longer fits the population it describes. Flagged for an eventual rename; not resolved now. Whenever this gets picked up, note that `Local_Cultures/Mirny_Subnet/Mirny.md`'s entire cultural identity ("The City on the Line," Section 2 Founding Story, Section 5 Post-Culture Identity) is currently built around the Russian-name-vs-Chinese-majority founding tension specifically — a rename would need to either preserve that tension under a new name or replace it with a different defining identity entirely, not just swap the label.
+
 ## Pisces' Black Market Origin — flagged 2026-07-07, deliberately deferred
 
 A realization out of the new national currency work (`Worldspace/National_Economy_and_Currency.md`): the currency's fracture (national energy-backed scrip losing both its unified grid and its cross-subnet verification network in the same catastrophe as the Planetary Split Brain) is exactly the kind of collapse that would explain Pisces' already-established "Long Night War Black-Market Lifeline (early 2800s)" bullet in `District_Canon_Reference.md` — a precise mechanism for a fact that was already there but unexplained. Not yet written in, pending which of two possible refinements to Pisces' own history the developer wants to pursue:

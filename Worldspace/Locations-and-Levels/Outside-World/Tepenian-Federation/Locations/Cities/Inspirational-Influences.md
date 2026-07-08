@@ -14,14 +14,15 @@
 - San Miguel de Tucumán, Argentina [SECONDARY]
 
 ##### Denison
-- x [PRIMARY]
+- Kowloon Walled City, Hong Kong (historical) [PRIMARY] // 300+ high-rise buildings grew so tightly packed and interconnected — residents punched through shared walls to reach neighboring staircases — that the whole thing functioned as a single organism rather than separate buildings, reaching the highest population density ever recorded
 - Sanda, Hyōgo, Japan [SECONDARY]
-- x [SECONDARY]
+- Montreal's Underground City (RÉSO), Canada [SECONDARY] // 32km of interconnected tunnels linking towers, hotels, malls, and transit into one continuous climate-shielded structure, used by 500,000+ people daily in winter — a real precedent for a city functioning as one joined structure rather than separate buildings
+- Trieste, Italy [SECONDARY] // defined by the Bora, a genuine katabatic wind reaching gusts over 120 km/h; streets have chains and handrails bolted to buildings so pedestrians have something to hold onto, and older roofs are weighted down with limestone blocks to keep tiles from tearing off
 
 ##### Cape Adare
 - Yalta, Crimea [PRIMARY]
 - Lahti, Finland [SECONDARY]
-- x [SECONDARY]
+- Boulders Beach / Simon's Town, South Africa [SECONDARY] // the only place on Earth where African penguins live directly integrated into a residential neighborhood (street signs read "penguins crossing"), grown from 2 breeding pairs in 1982 to ~3,000 birds today
 
 ##### Janbogo
 - x [PRIMARY]
@@ -34,26 +35,27 @@
 - Venice, Italy [SECONDARY]
 
 ##### Fort McMurdo
-- x [PRIMARY]
+- Zug, Switzerland [PRIMARY] // compact lakeside old town (canton of ~130,000) holding 30,000+ registered companies, one of the highest corporate densities in the world; grew into "Crypto Valley" after the Ethereum Foundation set up there in 2014
 - Calgary, Canada [SECONDARY]
-- x [SECONDARY]
+- Geneva, Switzerland [SECONDARY] // 43 international organizations and 183 UN member-state missions concentrated in a genuinely small territory, plus one of the world's most sophisticated private-banking sectors
 
 ##### Scott
 - Victoria, BC, Canada [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Hannibal, Missouri [SECONDARY] // Mark Twain's boyhood home, now branded "America's Hometown" — quotes hang from its streetlamps, nearly every corner pays homage to him, the town's entire civic identity fused permanently with one resident
+- Alexandria, Virginia [SECONDARY] // a genuinely quiet, walkable historic town just 7.8 miles from Washington D.C., explicitly marketed as the peaceful small-scale alternative to the capital's scale and crowds, yet still a Metro ride away
 
 ### Mirny ("Australian") Subnet
 
 ##### Casey
 - Flagstaff, Arizona [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Memphis, Tennessee [SECONDARY] // genuine multi-modal crossroads — two interstates (I-40/I-55), five converging rail lines, and the Mississippi River all meeting at once, with Beale Street's live-music scene right at the junction
+- Reno, Nevada [SECONDARY] // historic transcontinental-railroad stopover that pivoted into a genuine destination with its own full civic identity, not just a waypoint reputation
 
 ##### Mirny
 - Yakutsk, Russia [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Nizhny Tagil, Russia [SECONDARY] // home to Uralvagonzavod, the world's largest tank manufacturer; a single industrial complex so dominant it defines the entire city's economy
+- Wolfsburg, Germany [SECONDARY] // built entirely around a single Volkswagen plant, the world's largest single car-manufacturing complex; the factory so thoroughly defines the city that it has the highest GDP per capita in Germany
+- Chongqing, China [SECONDARY] // massive heavy-industrial center — nearly 80% of gross industrial output from heavy industry, anchored by one of China's largest integrated iron-and-steel complexes
 
 ##### Davis
 - Tyumen, Russia [PRIMARY]
@@ -200,6 +202,7 @@
 - Coober Pedy, Australia [SECONDARY] // real, living underground-dwelling town; genuinely multicultural (45+ nationalities among its miners)
 - Shenzhen, China [SECONDARY] // complete raw-material-to-shipped-product pipeline in one region; 15,000+ factories, $340B in annual shipped goods, top-5 global port and air cargo access
 - Jamshedpur, India [SECONDARY] // planned integrated industrial township built directly around Asia's first integrated steel mill, with captive raw-material mines feeding the plant directly
+- Chelyabinsk, Russia [SECONDARY] // "Tankograd" — entire industries relocated wholesale into one city during WWII, producing 18,000 tanks and 48,500 tank engines during the war; heavy industry still ~40% of gross municipal product today
 - Regina, Saskatchewan [SUPPORTING]
 - Norilsk, Russia [SUPPORTING] // isolated Arctic industrial city, no road/rail connection to the rest of the country, reachable only by air or a seasonal river route
 - Kiruna, Sweden [SUPPORTING] // entire town currently being relocated building-by-building due to mining-caused ground subsidence, including a real mining-induced 4.9-magnitude earthquake in 2020
