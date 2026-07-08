@@ -210,7 +210,7 @@ Everything inside the city's domes is climate-controlled. Temperature, air quali
 
 **Trade and logistics:** Highway freight (Neon Nomads, independent operators), black market (extensive, centered in The Markets / Pisces), Arcanet data trade (Gemini).
 
-**Currency/economy:** TBD in lore. Likely some combination of resource credit (managed by Libra's resource allocation system) and informal exchange. The black market suggests a parallel informal economy alongside whatever official system exists.
+**Currency/economy:** **Resolved at the national level 2026-07-07** — see `National_Economy_and_Currency.md`: an energy-backed national scrip during the Second Interwar Period, fractured by the Planetary Split Brain into regional/subnet-level scrip plus a separate cross-subnet trade standard. Concordia's own local resource-credit system (managed by Libra's resource allocation system) and the black market's parallel informal economy fit within this as the post-Split-Brain, city-level layer of that fractured system.
 
 ---
 
@@ -260,7 +260,7 @@ Everything inside the city's domes is climate-controlled. Temperature, air quali
 ## Open Questions
 
 - Exact population figures (human and robot separately)
-- Currency and economic system details
+- ~~Currency and economic system details~~ — resolved at the national level, see `National_Economy_and_Currency.md`; remaining open details tracked there
 - Whether subglacial water access exists and how it is used
 - The role of nuclear power specifically vs. geothermal
 - Full Kharkovchanka fleet details and highway maintenance operations
