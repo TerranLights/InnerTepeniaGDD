@@ -80,7 +80,7 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **Status:** Core facts confirmed — full text planned as an in-world document
 
-**Signed:** June 21, 2564. Ended the War of Upper Earth.
+**Signed:** June 21, 2564, at the city of Stanley, Falkland Islands. Ended the War of Upper Earth.
 
 **What it did:** Established the Federation of Tepenia as a formal country in Antarctica and mandated the exile of robots — and their human allies — from Upper Earth (non-Antarctic Earth) to Tepenia. The exile provision applied to robots as a class, not to named individuals. Any robot was subject to exile by virtue of being a robot.
 
@@ -88,14 +88,19 @@ Key historical events and geopolitical facts established in the GDD. Captures wh
 
 **In-world presence:** The Treaty Archive Vaults exist in the Libra (TBN) governance spire district; holographic seals of the Falkland Treaty are displayed there. The Veilkeepers are concerned with suppressed information about it — specifically "why the evacuation happened," suggesting circumstances around the treaty's implementation that were not made public. The Treaty Scholars (minor faction) study its long-term consequences.
 
-**Treaty text:** The developer intends to write the actual text of the Falkland Treaty as an in-world document. Extensive research into real historical treaty formatting, language, and structure has been completed. The text has not yet been drafted.
+**Treaty text:** **First full draft completed 2026-07-08** — see `Tepenian-Federation/Falkland_Treaty/Falkland_Treaty_Draft_v1.md`, with a structural scaffold and a running real-world-influences log in the same folder. Not yet locked canon.
+
+**Signatories, proposed 2026-07-08:** the United Assembly of Nations (Upper Earth's own future-era equivalent of the UN, near-universal in membership — the meaningful list is the short one of exclusions, small nations with no robot populations of their own, not the list of members; confirmed member nations so far include Unified Korea, the Sinian Federation, the Sovereign Republic of Hawaii, Midwestland, the Colorado Republic, the People's Democratic Republic of Cascadia, the Appalachia Republic, the Prairie Federation, the Republic of Sonora, the Republic of Alaska, and the People's Democratic Republic of New England — eight of these are named successor-states to the former United States, confirmed against `Reference/Images/Maps/North America with tentative labels.jpg`, which also shows Greenland, Quebec, and a southern polity currently labeled "the CSA" — this last name explicitly flagged as likely to change, so held off the signatory list for now) against a named robot leader negotiating on behalf of the exiled population, tentatively identified as Maggie Aarden — see her own character file for status.
+
+**Human-ally personhood, confirmed 2026-07-08:** humans are not stripped of legal personhood simply for being human. A human who elects to emigrate with the robot population to Tepenia is instead categorized, under Upper Earth's own legal apparatus, as having willingly and permanently forfeited their right to legal personhood, and is barred from returning — the same practical outcome as a robot's categorical exile, reached through a different legal mechanism (individual, elective forfeiture rather than blanket revocation).
 
 **What is TBD:**
-- The full terms beyond the exile provision
-- Who signed it and on whose authority (which Upper Earth powers were signatories)
+- The full terms beyond the exile provision (draft exists, not yet locked)
+- The exact composition of the Assembly's negotiating delegation
+- Whether Maggie Aarden's identity as robot signatory holds, or gets replaced by a better-fitting doll for the First Interwar Period timeline
 - What "the evacuation" was and what was suppressed about it
 - The treaty's relationship to the Space Elevator
-- Whether human allies were subject to the same blanket exile provision as robots, or under separate terms
+- ~~Whether human allies were subject to the same blanket exile provision as robots, or under separate terms~~ **Resolved 2026-07-08:** separate, elective terms — see Article II.2.3-4 and the new Article IV.2 (personhood forfeiture-by-choice) in the draft.
 
 ---
 

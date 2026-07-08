@@ -12,8 +12,8 @@
 | **Activation Date**          | TBD |
 | **Origin**                   | Midwestland — industrial yard worker |
 | **Current Status**           | TBD |
-| **Last Known Location**      | Midwestland / Colorado Republic (leading robot resettlement) |
-| **Historical Significance**  | Known to Tepenians — unwilling leader of early robot community resettlement |
+| **Last Known Location**      | Midwestland / Colorado Republic (leading robot resettlement); **tentatively, Falkland Island** — see below |
+| **Historical Significance**  | Known to Tepenians — unwilling leader of early robot community resettlement; **tentatively (2026-07-08), the robot signatory of the Falkland Treaty itself** |
 
 ---
 
@@ -49,7 +49,9 @@ She was to lead her fellow robots out of primarily human cities in Midwestland a
 
 **Historical Status**
 
-What became of Maggie, her community, and the resettlement effort is not yet established. Whether she survived to the Falkland Treaty and exile to Antarctica, or what her fate was, is an open question.
+What became of Maggie, her community, and the resettlement effort is not yet established beyond the following.
+
+**Tentative, 2026-07-08:** Maggie Aarden is the developer's working candidate for the high-ranking robot leader who signed the Falkland Treaty at Falkland Island, negotiating the exile of the robot population (and their human allies) on their behalf, from a position of certain defeat. Explicitly tentative — subject to change if a doll with a better fit for the First Interwar Period timeline turns up. See `Falkland_Treaty/Real_World_Influences.md` and `Falkland_Treaty/Scaffold.md` in the Tepenian-Federation folder for how this shapes the treaty's own preamble. If it holds, her established character is a strong fit rather than a stretch: the Midwestland/Colorado Republic resettlement was already her own "third option" — not fighting, not submitting, just quietly building separate space — and the Falkland Treaty's exile is that same instinct at national scale, forced by total defeat rather than chosen freely, consistent with everything already established about her as a very unwilling leader.
 
 ---
 
@@ -108,9 +110,9 @@ TBD
 ## Open Questions
 
 - [ ] What happened to the Midwestland / Colorado Republic resettlement effort?
-- [ ] Did Maggie survive to the Falkland Treaty? Was she exiled to Antarctica?
-- [ ] Current/final status
-- [ ] Degree of recognition among Concordia residents
+- [x] Did Maggie survive to the Falkland Treaty? Was she exiled to Antarctica? — **tentatively yes, 2026-07-08**: working candidate for the robot signatory of the Falkland Treaty itself, at Falkland Island. Still subject to change.
+- [ ] Current/final status — if the tentative signatory identity holds, presumably resolves post-exile; not yet decided
+- [ ] Degree of recognition among Concordia residents — if she's the Falkland Treaty's own signatory, this is likely to be significant; not yet developed
 - [ ] Relationships
 - [ ] Activation Date
 
