@@ -181,7 +181,7 @@ The buried-city architecture gave Byrd a peculiar spatial culture: interior life
 
 **Revised 2026-07-06 (vision session)** — mechanized fabrication and import/export & dispatch are Byrd's real dominant sectors, housed in the enormous underground volume:
 
-- **Mechanized fabrication (30%)** — huge underground plants, the city's real industrial core
+- **Mechanized fabrication (30%)** — huge underground plants, the city's real industrial core. **Confirmed 2026-07-07: Byrd is one of the handful of Tepenian cities that manufactures fabrication-synthesis chambers** — the individual apparatus, part of the nationwide Cradle infrastructure (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`), that physically creates robots. Byrd's own enormous, massively-scaled underground plants — already established as the city's real industrial core — house this alongside its other fabrication output. Chambers built here ship out via the same two-directional trucking network already established below (Hwy 1 north, Hwy 22 east), reaching the rest of Tepenia the same way Byrd's other exports do.
 - **Import/export & dispatch (25%)** — office-based coordination of the surface trucking depot and warehouse operations
 - Infrastructure / snow management (15%)
 - Resource extraction / West Antarctic geology (15%) — still present, no longer the presumed center of the city's economy
@@ -201,6 +201,7 @@ West Antarctic geology offers mineral resources distinct from the eastern statio
 - **The surface city** — current inhabited Byrd; built above the snow line of earlier construction; the ongoing battle against accumulation is visible in the city's architecture
 - **St. Richard memorial / civic site** — TBD; Byrd would have a significant site honoring its founding Saint, analogous to Hut Point in Scott; exact form TBD
 - **The grounded aircraft** — the remains of Byrd's aviation fleet, no longer airworthy; whether they are stored, displayed, cannibalized for parts, or simply sitting where they last landed is TBD; they are likely one of the most significant physical artifacts in the city — the machines that were once Byrd's only connection to the rest of Tepenia
+- **The chamber works** *(confirmed 2026-07-07, placeholder name)* — the specific underground fabrication plant where Byrd's fabrication-synthesis chambers are built, one of the deepest and most heavily fortified sections of the whole underground volume given what it produces; sits within the same enormous underground plant complex as Byrd's other mechanized fabrication output, distinguished by the reinforced ceiling construction its output requires
 - Additional locations: TBD for DLC 2 design
 
 ---

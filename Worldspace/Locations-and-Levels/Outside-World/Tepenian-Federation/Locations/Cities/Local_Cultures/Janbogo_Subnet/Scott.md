@@ -142,7 +142,7 @@ Small, close-knit musical culture reflecting a stable long-term population — l
 - Technical / scientific: 30% — precision and research-oriented work, distinct from Fort McMurdo's extraction focus
 - Commercial: 20% — port and shipping logistics (New Zealand freighter trade, fittingly)
 - Education: 15% — historical/commemorative knowledge-keeping tied to St. Robert
-- Industrial / manufacturing: 15%
+- Industrial / manufacturing: 15% — **confirmed 2026-07-07:** Scott's one genuine industry beyond its residential/political character is collecting volcanic material fallen from Mount Erebus and delivering it to a trucking facility across McMurdo Sound, forwarded onward down the coastal highway into the Janbogo subnet for further processing — a small, contained operation, consistent with the city's own quiet civic identity
 - Marine / resource extraction: 12%
 - Other: 8%
 

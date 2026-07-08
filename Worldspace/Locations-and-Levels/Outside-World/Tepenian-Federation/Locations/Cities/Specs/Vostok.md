@@ -128,6 +128,10 @@ The relationship with the Mirny subnet — the 1,260km of plateau between Vostok
 
 Science, almost entirely. Vostok's economy was the Lake Vostok research program and whatever the extreme plateau environment could support in terms of self-sufficiency. It produced knowledge and exported almost nothing else. **Vision session, 2026-07-06:** the interior of the city reflects this directly — huge sections given over entirely to genetics research, floor after floor of labs running experimentation on gene and allele combinations, the same way Kunlun's interior is one enormous distributed astronomical instrument.
 
+**Confirmed 2026-07-07:** Vostok's scientists and engineers, together with Kunlun's, jointly established and staffed a fabrication-synthesis chamber manufacturing outpost at Mountain Pass Airport, the standalone waypoint on Hwy 37 between the two cities (see `Locations/Infrastructure/Airports.md`). Chambers — the individual apparatus at the heart of the nationwide Cradle infrastructure — were built there and shipped out to cities across the region; robots themselves were never made at the outpost itself. This was a concrete, physical expression of the already-established "two loneliest outposts" relationship between Vostok and Kunlun.
+
+**Historical, not current, per the same-day power-source correction:** the outpost was too remote to support its own dedicated power infrastructure, and ran instead on residual overflow from Amundsen Tower's continent-wide regulated grid (see `Energy_Grid_Failure_Rationale.md` #11). The Tower's destruction during the Long Night War ended that supply permanently, taking the outpost's manufacturing capability with it — no new chambers have been built there since. Chambers manufactured there before the war still function wherever they were shipped, including, per a quiet discoverable detail not tied to any quest, the specific chamber in Calethina's own lab in Concordia that a diligent, curious player can eventually trace back to this outpost.
+
 ---
 
 ## Notable Locations

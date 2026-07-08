@@ -61,6 +61,9 @@ Mawson's civic identity is built on continuity and inheritance — the oldest co
 
 - **a. Founding tension** — Australia founded the city, gave it its name, its patron Saint, and its territorial legitimacy, and retains a genuine founding-wave presence at Significant tier — but the city's actual long-run demographic character now belongs to China, with Japan/South Korea/Indonesia providing real secondary weight. The name persists; who actually lives under it has changed.
 - **b. Fault lines** — Between deep institutional reverence for St. Douglas and Australian founding heritage, and the lived, everyday reality of a demographically Chinese-Primary city — not a hidden tension, but a genuinely accepted one, since the subnet hub role has always mattered more to Mawson's civic self-image than any single national identity.
+- **c. A structural principle, not just a demographic theme — confirmed 2026-07-07:** "The Name That Outlasted the Founders" recurs at multiple scales of the same city — national founding identity, present-day demographic reality, and infrastructural function (the hub role itself outlasting which specific connections it coordinates, following the Split Brain's inter-subnet-only severance — see Section 24). All three follow the identical shape: the underlying structure persists, what specifically occupies or connects through it changes.
+
+**Demonym, resolved 2026-07-07: Mawsonite** — following the same "-ite" suffix pattern already established at Kunlun (Kunlunite) and Davis (Davisite).
 
 ---
 
@@ -213,6 +216,8 @@ Filtered through the Australian Antarctic Territory's own real territorial histo
 
 The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was the primary Arcanet connection point for the entire subnet's communication with the rest of Tepenia, making Mawson's information infrastructure genuinely central to the whole region's civic life.
 
+**Confirmed 2026-07-07:** the Split Brain severed *inter-subnet* Arcanet links specifically, not intra-subnet ones — the same mechanism already established for Davis/Casey/Mirny's surviving Australian heritage within the Mirny subnet. Mawson's outward connection to the rest of Tepenia was a deliberate strategic target and took the brunt of the damage; its intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape or proved more repairable, since that was never the kind of link the Split Brain itself severed.
+
 ---
 
 ## 25. Export Culture
@@ -227,6 +232,8 @@ The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was
 
 - **St. Douglas's Landing** *(placeholder name)* — commemorating the Australasian Antarctic Expedition and Sir Douglas Mawson's legacy
 - **The Unbroken Watch** *(placeholder name)* — an observance marking the city's continuous operation since 1954, the longest of any Mawson subnet city
+
+**Honeymoon tradition, proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples make the trip regardless of which extreme they encounter, treating it as the honeymoon's own defining shared memory.
 
 ---
 
@@ -261,13 +268,14 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 
 ## 30. Significant Local Events
 
-- **The Long Night War damage** — Mawson was damaged but remains partially operational, consistent with its subnet-hub role and long institutional continuity. Exact extent of damage to the Arcanet hub infrastructure specifically TBD for DLC 4 design.
+- **The Long Night War damage** — Mawson was damaged but remains partially operational, consistent with its subnet-hub role and long institutional continuity. **Confirmed 2026-07-07:** the inter-subnet Arcanet link took the brunt of the damage; intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape. Exact remaining scope still a DLC 4 design question.
 
 ---
 
 ## 31. Notable Figures
 
-- TBD
+- **Founding Administrator Warrick Oyelaran-Zhao** *(placeholder, proposed 2026-07-07)* — steered the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Hostess Mei-Ling Sorensen** *(placeholder, proposed 2026-07-07)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental.
 
 ---
 

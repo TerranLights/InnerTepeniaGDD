@@ -105,6 +105,8 @@ Scott's economy was deeply intertwined with Fort McMurdo's — the two cities sh
 
 New Zealand's real-world Antarctic program had a strong scientific and environmental monitoring component; that may have translated into a research or measurement industry in Scott distinct from Fort McMurdo's extraction focus.
 
+**Confirmed 2026-07-07: Scott's one genuine industry beyond its residential/political character** — collecting volcanic material fallen from Mount Erebus and delivering it to a trucking facility across McMurdo Sound, which forwards it onward down the coastal highway into the Janbogo subnet for further processing. A small, contained operation consistent with Scott's own established quiet, family-oriented civic identity — real economic activity that doesn't define what the city feels like to walk through day to day, the same way its technical/research base already doesn't.
+
 ---
 
 ## Notable Locations

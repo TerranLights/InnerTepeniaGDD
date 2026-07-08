@@ -124,7 +124,7 @@ Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientifi
 
 ## Notable Locations
 - **Holme Bay harbor** — the primary maritime entry; Mac.Robertson Land coast
-- **The subnet hub Arcanet installation** — the Mawson subnet's primary communications node; in damaged state, what survives of this infrastructure is a key DLC 4 question
+- **The subnet hub Arcanet installation** — the Mawson subnet's primary communications node. **Proposed 2026-07-07:** the Planetary Split Brain severed *inter-subnet* Arcanet links specifically, not intra-subnet ones — the same mechanism already established for Davis/Casey/Mirny's surviving Australian heritage within the Mirny subnet. Applied here, Mawson's outward connection to the rest of Tepenia was a deliberate strategic target and took the brunt of the damage (consistent with "damaged but partially operational"), while its intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape or proved more repairable, since that was never the kind of link the Split Brain itself severed. Exact remaining scope still a DLC 4 design question.
 - **Prince Charles Mountains approach** — the mountains to the south of the Mac.Robertson Land coast; visible from Mawson
 - **Public libraries — vision session, 2026-07-06:** a genuine civic institution, consistent with the city's culture and hospitality-forward character
 - Additional locations: TBD for DLC 4
@@ -132,7 +132,8 @@ Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientifi
 ---
 
 ## Notable Figures
-- TBD
+- **Founding Administrator Warrick Oyelaran-Zhao** *(placeholder, proposed 2026-07-07)* — credited with steering the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Hostess Mei-Ling Sorensen** *(placeholder, proposed 2026-07-07)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental; credited locally with establishing the earliest dedicated hospitality infrastructure the modern reputation grew from.
 
 ---
 
@@ -144,11 +145,13 @@ Mawson is the Mawson subnet hub — its Arcanet connection to the rest of Tepeni
 ## Legacy
 Mawson's legacy is continuity — the city that never stopped being here, from 1954 forward. The Australian Antarctic Division's century-long occupation became a Tepenian exile city became a Long Night War survivor (damaged but operational). The thread never broke.
 
+**Confirmed 2026-07-07 — a structural principle, not just a demographic theme:** "The Name That Outlasted the Founders" turns out to describe more than Mawson's population history. It's a pattern that recurs at multiple scales of the same city — national founding identity (Australia's name and St. Douglas's legacy persisting), present-day demographic reality (China's long-run Primary status), and now infrastructural function (the hub role itself outlasting which specific connections it actually coordinates, per the Arcanet damage mechanism above). All three follow the identical shape: the underlying structure persists: what specifically occupies or connects through it changes.
+
 ---
 
 ## Open Questions
-- **The hub infrastructure's damage extent** — what of the Arcanet hub survived the Long Night War?
 - **St. Douglas veneration** — as the city named after him, Mawson likely has the strongest Tepenian Saints relationship to St. Douglas; does it have specific civic rituals, institutions, or monuments tied to his memory?
-- **Australian Antarctic Territory post-war** — does Mawson still claim territorial authority over what was the Australian Antarctic Territory? What does that mean in the post-Split-Brain context?
-- **Demonym** — TBD; "Mawsonites"? something Australian?
-- **Notable figures** — TBD
+- **Australian Antarctic Territory post-war — proposed 2026-07-07:** the claim persists as historical and ceremonial memory, bound up in St. Douglas veneration and founding-era civic pride, but carries no functional governmental authority in the post-Split-Brain reality — the same shape as Fort McMurdo's own historical-only national capital status, honored but not operative.
+- **Demonym — resolved 2026-07-07: Mawsonite**, following the same "-ite" suffix pattern already established at Kunlun (Kunlunite) and Davis (Davisite).
+- **Whether Mawson's own founding-nation demographic imbalance (Australia buried behind China) gets the same correction treatment Bharati and Soyuz received** — explicitly the developer's own call per `City_Vision_Notes/Mawson.md`, deliberately left open, not resolved here.
+- Specific honeymoon traditions beyond the general reputation — **proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour, timed for whichever of polar night or midnight sun happens to be in season during the stay, treated as the honeymoon's own defining shared memory regardless of which extreme a couple encounters.

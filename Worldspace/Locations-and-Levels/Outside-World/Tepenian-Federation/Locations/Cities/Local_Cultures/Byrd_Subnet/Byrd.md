@@ -143,7 +143,7 @@ Modest, American-founding-character base with real added breadth from the popula
 
 **Revised 2026-07-06 (vision session)** — mechanized fabrication and import/export/dispatch are Byrd's real dominant sectors, housed in the enormous underground volume, not resource extraction alone:
 
-- **Mechanized fabrication: 30%** — huge underground plants, the city's real industrial core
+- **Mechanized fabrication: 30%** — huge underground plants, the city's real industrial core. **Confirmed 2026-07-07:** Byrd is one of the handful of Tepenian cities manufacturing fabrication-synthesis chambers, the individual apparatus at the heart of the nationwide Cradle infrastructure — housed in the same enormous underground plant complex, in a specifically reinforced section given what it produces.
 - **Import/export & dispatch: 25%** — office-based coordination of the surface trucking depot and warehouse operations, feeding and drawing from the underground city
 - Infrastructure / snow management: 15% — an ongoing, genuine civic necessity
 - Resource extraction / West Antarctic geology: 15% — still present, no longer the presumed center of the city's economy
@@ -215,6 +215,7 @@ As the Byrd ("Pacific") subnet hub, likely carries real institutional weight —
 
 ## 25. Export Culture
 
+- **Fabrication-synthesis chambers — confirmed 2026-07-07:** one of Byrd's most consequential exports, though a quiet one relative to the city's own modest profile — the individual apparatus that physically creates robots, shipped nationwide as part of the Cradle infrastructure alongside {{currently-unnamed Korean city, cf. Soyuz}}'s own production.
 - The Rastra/Arrastradora tradition — the vehicle name that outlived its original vehicle, later repurposed for small orbital craft
 - Buried-city engineering expertise — genuine, hard-won knowledge of building for a shifting, unstable ice sheet
 - A specific *type of person* — comfortable with genuine self-sufficiency and isolation, recognizable by an ease with distance and difficulty that most Tepenians don't share
@@ -254,6 +255,7 @@ Becoming a local at Byrd means genuinely internalizing self-sufficiency as ident
 - **The buried sections** — the older, founding-era layers of the city, progressively buried by snow accumulation, accessible by tunnel
 - **The surface city** — the newer, current above-ground settlement
 - **The grounded aircraft** — Byrd's aviation fleet, no longer airworthy; whether stored, displayed, cannibalized, or simply abandoned where they last landed is TBD, but likely one of the most significant physical artifacts in the city
+- **The chamber works** *(confirmed 2026-07-07, placeholder name)* — the specific underground plant where Byrd's fabrication-synthesis chambers are built; one of the deepest, most heavily fortified sections of the underground volume, distinguished from the rest of the fabrication complex by the reinforced ceiling construction its output requires
 - **St. Richard memorial / civic site** — TBD, analogous to Hut Point in Scott
 
 ---

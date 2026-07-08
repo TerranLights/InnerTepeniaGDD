@@ -150,6 +150,10 @@ Kunlun's culture is the culture of people who chose to live somewhere they could
 
 Astronomy, ice core science, and whatever the extreme altitude and isolation could support in terms of self-sufficiency. The observatory program was Kunlun's primary scientific output. Full detail TBD.
 
+**Confirmed 2026-07-07:** Kunlun's scientists and engineers, together with Vostok's, jointly established and staffed a fabrication-synthesis chamber manufacturing outpost at Mountain Pass Airport, the standalone waypoint on Hwy 37 between the two cities (see `Locations/Infrastructure/Airports.md`). Chambers — the individual apparatus at the heart of the nationwide Cradle infrastructure — were built there and shipped out to cities across the region; robots themselves were never made at the outpost itself. This was a concrete, physical expression of the already-established "two loneliest outposts" relationship between Kunlun and Vostok.
+
+**Historical, not current, per the same-day power-source correction:** the outpost was too remote to support its own dedicated power infrastructure, and ran instead on residual overflow from Amundsen Tower's continent-wide regulated grid (see `Energy_Grid_Failure_Rationale.md` #11). The Tower's destruction during the Long Night War ended that supply permanently, taking the outpost's manufacturing capability with it — no new chambers have been built there since.
+
 ---
 
 ## Notable Locations
