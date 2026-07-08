@@ -2,7 +2,7 @@
 
 Tracks which of Tepenia's 35 cities have gone through the full Megasheet process (see `City_Megasheet_Compilation_Guide.md`) — a `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and a final concatenated `README.md`, all living at `City_Megasheets/[Subnet]/[City]/`. Update this file every time a new city completes the process. Started 2026-07-06.
 
-**Progress: 10 / 35** (plus Amundsen Station, tracked separately below, not yet started)
+**Progress: 12 / 35** (plus Amundsen Station, tracked separately below, not yet started)
 
 ---
 
@@ -38,15 +38,15 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [ ] Denison
 - [x] **Dumont d'Urville** — done 2026-07-07
 
-## Mirny Subnet (4/8)
+## Mirny Subnet (6/8)
 
 - [ ] Mirny
 - [ ] Casey
 - [x] **Davis** — done 2026-07-07
 - [x] **Vostok** — done 2026-07-07
 - [x] **Kunlun** — done 2026-07-07
-- [ ] Zhongshan
-- [ ] **{{currently-unnamed Korean city; cf. Soyuz}}**
+- [x] **Zhongshan** — done 2026-07-07
+- [x] **{{currently-unnamed Korean city; cf. Soyuz}}** — done 2026-07-07
 - [x] **{{currently-unnamed Japanese city; cf. Bharati}}** — done 2026-07-07
 
 ## Mawson Subnet (1/3)

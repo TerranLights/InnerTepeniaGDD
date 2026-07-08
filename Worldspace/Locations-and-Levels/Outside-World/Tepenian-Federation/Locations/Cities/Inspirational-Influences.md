@@ -15,7 +15,7 @@
 
 ##### Denison
 - x [PRIMARY]
-- x [SECONDARY]
+- Sanda, Hyōgo, Japan [SECONDARY]
 - x [SECONDARY]
 
 ##### Cape Adare
@@ -46,7 +46,7 @@
 ### Mirny ("Australian") Subnet
 
 ##### Casey
-- x [PRIMARY]
+- Flagstaff, Arizona [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
@@ -57,7 +57,7 @@
 
 ##### Davis
 - Tyumen, Russia [PRIMARY]
-- Vladivostok, Russia [SECONDARY]
+- San Luis Potosí [SECONDARY]
 - Guatapé, Colombia [SECONDARY]
 
 ##### Vostok
@@ -71,14 +71,14 @@
 - Massachusetts Institute of Technology (MIT) [SECONDARY] // though Kunlun is not a "university" setting
 
 ##### Zhongshan
-- x [PRIMARY]
-- x [SECONDARY]
+- Vilnius, Lithuania [PRIMARY]
+- Austin, Texas [SECONDARY]
 - Yekaterinburg, Russia [SECONDARY]
 
 ##### {{currently-unnamed Korean city}} [[ex-Soyuz]]
 - Daegu, South Korea [PRIMARY]
 - Córdoba, Argentina [SECONDARY]
-- x [SECONDARY]
+- Volgograd, Russia [SECONDARY]
 
 ##### {{currently-unnamed Japanese city}} [[ex-Bharati]]
 - Shibuya District, Tokyo, Japan [PRIMARY]
@@ -90,12 +90,13 @@
 
 ##### Mawson
 - Odessa, Ukraine [PRIMARY]
-- x [SECONDARY]
 - Varna, Bulgaria [SECONDARY]
+- Trogir, Croatia [SECONDARY]
+- Jeju City, Korea [SECONDARY]
 
 ##### Sayowa
 - x [PRIMARY]
-- x [SECONDARY]
+- Kryvyi Rih, Ukraine [SECONDARY]
 - x [SECONDARY]
 
 ##### Dome Fuji
@@ -155,7 +156,7 @@
 
 ##### Sejong
 - Keelung, Taiwan [PRIMARY]
-- x [SECONDARY]
+- Vladivostok, Russia [SECONDARY]
 - x [SECONDARY]
 
 ##### Esperanza
@@ -164,7 +165,7 @@
 - x [SECONDARY]
 
 ##### Marambio
-- x [PRIMARY]
+- Duisburg, Germany [PRIMARY]
 - x [SECONDARY]
 - x [SECONDARY]
 
@@ -186,8 +187,8 @@
 - x [SECONDARY]
 
 ##### Rothera
-- x [PRIMARY]
-- x [SECONDARY]
+- Gary, Indiana [PRIMARY] // (scaled down)
+- Magnitogorsk, Russia [SECONDARY] // (scaled down)
 - x [SECONDARY]
 
 ### Byrd Subnet

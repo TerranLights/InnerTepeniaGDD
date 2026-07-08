@@ -75,7 +75,7 @@ Before it was a tech hub, the region was known as "the Valley of Heart's Delight
 
 The busiest port in sub-Saharan Africa, handling roughly 60% of South Africa's own trade revenue — a real, disproportionate share of a nation's economic throughput running through one city's harbor. Founded as a British colonial trading post, Durban's demographic story didn't stay British: a huge wave of later immigration (historically Indian) became a defining, dominant cultural presence, layered over rather than replacing the founding population's institutional legacy.
 
-**What this gives Sanay:** the clearest structural parallel of all four picks — a founding population's institutional character persisting as heritage while a completely different, later immigration wave becomes the demographic majority. This is the same *shape* as Sanay's own established South-Africa-founded-but-Germany-Primary dynamic, arrived at independently through different specific nations — proof this "founding legacy vs. demographic present" split is a genuine, recurring real-world port-city pattern, not a coincidence unique to Sanay's own math.
+**What this gives Sanay:** the clearest structural parallel of all four picks — a founding population's institutional character persisting as heritage while a completely different, later immigration wave becomes the demographic majority. This is the same *shape* as Sanay's own established founding-legacy-vs-demographic-present dynamic — proof this split is a genuine, recurring real-world port-city pattern, not a coincidence unique to Sanay's own math.
 
 ---
 
@@ -94,7 +94,7 @@ Carried forward from `Specs/Sanay.md` and `City_Vision_Notes/Sanay.md`, still ge
 
 ## Worth Your Attention
 
-The Durban parallel is the standout of this pass — not because of any coincidence of nationality, but because it independently confirms, via a completely different pair of nations, the exact demographic-dilution shape already established in Sanay's own numbers. That's a strong signal the "founding legacy persists as institutional memory while a different immigration wave becomes the lived demographic present" pattern is a real, recurring feature of how working port cities actually develop, not an arbitrary quirk of this one city's census math.
+The Durban parallel is the standout of this pass — it independently confirms the exact demographic-dilution shape already established in Sanay's own numbers. That's a strong signal the "founding legacy persists as institutional memory while a different immigration wave becomes the lived demographic present" pattern is a real, recurring feature of how working port cities actually develop, not an arbitrary quirk of this one city's census math.
 
 ---
 

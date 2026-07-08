@@ -1,7 +1,5 @@
 
-Flagstaff
 Izmir
-Vladivostok
 Tucson 
 Brasov
 Szeged
@@ -33,3 +31,5 @@ Calgary
 Victoria BC
 Kerkyras/Corfu
 Yakutsk
+Vladivostok
+Flagstaff

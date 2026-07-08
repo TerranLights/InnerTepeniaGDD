@@ -6,7 +6,7 @@ The full, concatenated Kunlun reference — synthesis, then extrapolation, then 
 
 # Kunlun — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Kunlun.md`, `Local_Cultures/Mirny_Subnet/Kunlun.md`, `City_Vision_Notes/Kunlun.md`, `City_Enneagram_Personalities/Mirny_Subnet/Kunlun.md`, and real-world research on its three inspirational picks (NOIRLab, CHESS/CHEXS, MIT). Compiled 2026-07-07. **Standing note applied throughout:** none of the three picks are Chinese-linked despite Kunlun's own Chinese founding heritage — a deliberate non-issue, since national alignment carries no weight in this process either way.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Kunlun.md`, `Local_Cultures/Mirny_Subnet/Kunlun.md`, `City_Vision_Notes/Kunlun.md`, `City_Enneagram_Personalities/Mirny_Subnet/Kunlun.md`, and real-world research on its three inspirational picks (NOIRLab, CHESS/CHEXS, MIT). Compiled 2026-07-07.
 
 ---
 

@@ -1,6 +1,6 @@
 # Vostok — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Vostok.md`, `Local_Cultures/Mirny_Subnet/Vostok.md`, `City_Vision_Notes/Vostok.md`, `City_Enneagram_Personalities/Mirny_Subnet/Vostok.md`, and real-world research on its three inspirational picks (CRISPR, Materials Innovation Platforms, ChemMatCARS). Compiled 2026-07-07. **Standing note applied throughout:** none of the three picks are Russian-linked despite Vostok's own Russian founding legend — a deliberate non-issue here, since national alignment carries no weight in this process either way (see `City_Megasheet_Compilation_Guide.md`'s standing rule).
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Vostok.md`, `Local_Cultures/Mirny_Subnet/Vostok.md`, `City_Vision_Notes/Vostok.md`, `City_Enneagram_Personalities/Mirny_Subnet/Vostok.md`, and real-world research on its three inspirational picks (CRISPR, Materials Innovation Platforms, ChemMatCARS). Compiled 2026-07-07.
 
 ---
 

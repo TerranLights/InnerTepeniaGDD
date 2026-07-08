@@ -6,7 +6,7 @@ The full, concatenated Davis reference — synthesis, then extrapolation, then c
 
 # Davis — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Davis.md`, `Local_Cultures/Mirny_Subnet/Davis.md`, `City_Vision_Notes/Davis.md`, `City_Enneagram_Personalities/Mirny_Subnet/Davis.md`, and real-world research on its three inspirational picks (Tyumen, Vladivostok, Guatapé). Compiled 2026-07-07. **Standing note:** none of the three picks are Australian — Davis's own founding nation — a deliberate non-issue, since national alignment carries no weight in this process either way.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Davis.md`, `Local_Cultures/Mirny_Subnet/Davis.md`, `City_Vision_Notes/Davis.md`, `City_Enneagram_Personalities/Mirny_Subnet/Davis.md`, and real-world research on its three inspirational picks (Tyumen, Vladivostok, Guatapé). Compiled 2026-07-07.
 
 ---
 
