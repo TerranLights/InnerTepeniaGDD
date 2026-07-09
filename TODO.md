@@ -4,6 +4,21 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Concordia District Origins — Full Consistency Cross-Reference (flagged 2026-07-09, targeted for Sunday)
+
+A large, multi-document audit task, explicitly deferred rather than started on a short-allotment day. **The question:** now that the project has accumulated an enormous amount of downstream world history since Concordia's own district-origin material was first written (the Second Interwar Period timeline, every city's full Megasheet treatment, faction spec sheets, the district canon reference itself), does each district's own "how it became the way it is" origin story still actually make sense? Or has later-established lore quietly undercut, contradicted, or made implausible any district's founding/development narrative?
+
+**What needs to happen, when picked up:**
+1. Read across the general historical docs (`World_History_Reference.md`, the First/Second Interwar Period timelines, `District_Canon_Timeline_Fix`-era dates).
+2. Read across the completed city Megasheets (all 35 cities + Amundsen Station) for anything that bears on Concordia's own founding population, refugee waves, or district character.
+3. Read across the various faction spec sheets (`Worldspace/Factions/`) for anything that bears on how a specific district's identity or history is explained.
+4. Read Concordia's own district-origin docs (`District_Canon_Reference.md`, `Historical_Pressures.md`, and each district's own material) and check whether their own explanations for "how this district became this way" still hold up against everything above.
+5. **Do not fix anything found — just document it.** For each district whose origin story no longer makes sense, or is in tension with something established elsewhere, write a clear note: what the district's own doc claims, what other now-established fact it conflicts with or is undercut by, and why the tension actually matters. Bring the list back for a joint decision on what to do about each one.
+
+This is distinct from the earlier `project_concordia_consistency_audit` pass (2026-07-09, same day but done separately) — that pass caught factual/reference bugs (highway directions, stale status labels, a location's district placement). This task is narrower and deeper: whether each district's own *historical narrative*, not just its factual details, still coheres against the full weight of everything else the project now knows.
+
+---
+
 ## The Cradle Manufacturing Network — Established 2026-07-07
 
 **Confirmed and currently active — two manufacturing sites:**
