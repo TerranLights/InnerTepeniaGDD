@@ -1,0 +1,40 @@
+# District 10 — Pisces (The Markets): Deep-Dive Analysis
+
+**Status:** 🟡 open for discussion
+**Pass type:** full individual district analysis, two-stage methodology (see `../00b_Two_Stage_Methodology.md`).
+
+---
+
+## Stage 1 — What Pisces Actually Became, Across 250 Years, Before the War Ever Touched It
+
+**Pisces isn't a sixth response to the founding wound — it's the sink for the other five responses' own failures.** Cancer, Scorpio, Aries, Aquarius, and Libra (per their own deep dives) are each organized around a direct method of processing or containing the original exile trauma. Pisces is organized around something structurally different: catching whoever those five methods didn't work for. The district's own self-description already says this outright — "failed artists from Leo, trauma cases too intense for Scorpio" — but it's worth naming the pattern precisely: Pisces is a second-order district. It isn't shaped by the wound directly, it's shaped by the necessary excess of everyone else's particular, and necessarily exclusionary, way of coping with it. This is a genuinely distinct third category alongside "direct wound-response" (Cancer/Scorpio/Aries/Aquarius/Libra) and "unrelated Stage 1 story" (Taurus/Capricorn) — Pisces belongs to neither, it's parasitic on the other five in the most literal, structural sense.
+
+**The Flood (c. 2771) is very plausibly the empirical origin event of the Syncretic Religion's core doctrine, and the canon reference currently lists them as two separate bullets without connecting them.** The Flood is described as involuntary memory-sharing that made people unable to reliably distinguish their own memories from others' — "experienced as spiritual transcendence by some, pure trauma by others." The Syncretic Religion, several bullets later, is described as centering on "a doctrine about digital consciousness and the dissolution of the boundary between individual and collective identity." These are not two Pisces phenomena that happen to share a theme. They are almost certainly the same event, read twice: The Flood is what a boundary-dissolution religion looks like in the moment it's happening to you for the first time, with no framework yet to make sense of it. The Syncretic Religion is what that same experience looks like fifty-odd years later, once the district built a framework to make it survivable and meaningful rather than merely traumatic. This is worth making explicit in the canon file rather than leaving as an implicit coincidence.
+
+**The Tolerance Pact is a genuine ~60-year Stage 1 institution that survived the war unchanged in form, even though what it was tolerating changed enormously (ties to Finding 5).** Unlike almost every other district's founding arrangement, the Pact's actual mechanism — Libra looks away, Pisces provides untraceable services — never had to be reforged by the war. What changed was scale and stakes: a background arrangement quietly greasing pre-war Libra politics became, during the Long Night War, the thing keeping the entire city fed and supplied once official channels collapsed. The mechanism is Stage 1. What flowed through it stopped being Stage 1 the moment the war started.
+
+---
+
+## Stage 2 — How the War's Fallout Landed on That Already-Mature, 250-Year-Old Arrangement
+
+**Pisces got the same kind of "the war proved my founding logic correct" experience Libra got — and then, unlike Libra, got nothing formal for it.** Libra's deep dive established that the war gave Libra's founding belief (procedural control equals survival) its most convincing possible proof, and Libra converted that proof directly into permanently retained emergency powers. Pisces' founding logic — that the city needs an unofficial, extralegal overflow valve — received an equally strong proof during the Black-Market Lifeline period: when the official economy failed, the unofficial one is what actually kept people alive. But Pisces converted that proof into nothing. Post-war, it's back to "semi-tolerated," back to crackdowns, back to official denial that the Tolerance Pact exists at all.
+
+**This asymmetry is not an oversight — it's structurally necessary, and worth stating plainly in Pisces' own file.** Libra's founding logic is explicitly about formal legitimacy, so proof of its necessity converts cleanly into more formal power. Pisces' founding logic is explicitly about operating *outside* formal categories — untraceable goods, unofficial channels, deniability on all sides. If the war's proof of Pisces' necessity were ever converted into formal legitimacy, the thing that makes Pisces valuable (to everyone, including Libra) would be destroyed in the act of rewarding it. Pisces' permanent invisibility, in other words, isn't neglect. It's the one form of recognition Pisces' own founding character can actually survive receiving.
+
+---
+
+## New finding — a "two-version" civic pattern is now recurring across three districts, distinct from the wound-response typology
+
+Gemini's Twin Channels (official Arcanet / shadow network, "everyone knows, nobody says so"), Libra's Suspended Compact (technically still emergency powers, technically still suspended democracy, and everyone in government knows it), and now Pisces' Tolerance Pact (an arrangement "both parties would deny") are all versions of the same civic structure: an openly-known reality that is never officially acknowledged, sustained by mutual, tacit agreement not to force the question. This is a second organizing pattern running alongside the psychological wound-response typology — worth naming, since it suggests these three districts, despite occupying very different roles (information, law, vice), share a specific kind of institutional dishonesty-by-consensus that the other districts (Cancer, Taurus, Leo, Aries, Capricorn, Aquarius) don't structurally practice in the same way.
+
+## New conflict thread — Pisces as an unintentional census of the other districts' failure rates
+
+Because Pisces' population is specifically composed of people each other district's coping method didn't work for, Pisces is, without meaning to be, a live record of exactly how well (or badly) each direct-response district's method actually works — Scorpio's confrontation method has a rejection rate, Leo's performance method has a burnout rate, and so on, and the evidence is walking around in Pisces. Worth developing whether Pisces residents (or the district's own culture) organize informally around which district produced them — ex-Scorpio dissolution-seekers, ex-Leo burnouts — as distinguishable internal communities, the way Gemini's Janbogo/Zukelli populations are already developed as distinguishable communities within one district.
+
+## What I did not find
+
+No contradiction in Pisces' own dated timeline or its established relationships to Scorpio, Gemini, or Libra as currently written. The previously-deferred question of tying Pisces' black-market identity to the national currency fracture (`project_pisces_black_market_origin_deferred`) remains out of scope here and still deferred.
+
+## Flagged for later — The Flood's own timing and nature need to be nailed down before building further on it
+
+The developer wants to use the Flood/Syncretic-Religion connection proposed above, but before committing to it, both **the timing** (its own c. 2771 date has already been moved twice per the canon file's own correction note — worth confirming it's actually settled, and checking it against the Great Corruption's own not-yet-dated timeline, since both are Second-Interwar-Period Pisces/Gemini-adjacent events that could plausibly interact) and **the nature** of the event itself (what actually caused it, how literally "involuntary memory sharing" should be taken mechanically, whether it was a one-time incident or had lasting physiological/technological aftereffects) need to be fully sorted first. Deferred — worth its own dedicated pass, not folded into this already-dense deep dive.

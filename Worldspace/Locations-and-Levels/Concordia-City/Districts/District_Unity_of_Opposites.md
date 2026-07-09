@@ -44,14 +44,14 @@ This is a design reference document, not a preliminary suggestion. It synthesize
 ### Internal Conflict — Four Parties
 
 **1. The Established** — multi-generational families, warm apartments, bonds legally recognized; they defend the existing social order because the existing social order has been good to them
-**2. The Cold-Siders** — families who arrived later or had less political capital when insulation was being distributed; they live in the same district as the Established but in perceptibly worse conditions; nominally included, practically second-class
-**3. The Unverifiables** — whose bonds could never be re-verified after the Registry Collapse of 2812; they exist in Taurus without the district's fundamental unit of social legitimacy, in a limbo the district's culture refuses to acknowledge
+**2. The Coldsiders** — families who arrived later or had less political capital when insulation was being distributed; they live in the same district as the Established but in perceptibly worse conditions; nominally included, practically second-class
+**3. The Unverified** — whose bonds could never be re-verified after the Registry Collapse of 2812; they exist in Taurus without the district's fundamental unit of social legitimacy, in a limbo the district's culture refuses to acknowledge
 **4. The Newcomers** — arriving from Cancer or Sagittarius, bringing different ideas of what home and stability look like; they're the cultural challenge to Taurus' conception of what family is
 
 **Unity of Opposites (Internal):**
-- The Established need the Newcomers and Cold-Siders because the Newcomers carry survival adaptations developed in harsher conditions — Cancer's communal care innovations, Sagittarius' frontier self-sufficiency. Taurus' preservation culture has produced brittle insularity; newcomers bring necessary flexibility before that brittleness breaks.
+- The Established need the Newcomers and Coldsiders because the Newcomers carry survival adaptations developed in harsher conditions — Cancer's communal care innovations, Sagittarius' frontier self-sufficiency. Taurus' preservation culture has produced brittle insularity; newcomers bring necessary flexibility before that brittleness breaks.
 - The Newcomers need the Established because the thing they came to Taurus for — the stability, the multigenerational continuity, the sense that life can hold together — is exactly what the Established embody. Without the Established, there's no Taurus to immigrate to.
-- The Unverifiables vs. the Registry Establishment: The Unverifiables are the proof that bonds form through time and practice, not through paperwork. The Registry establishment needs them to demonstrate that the Registry is serving something real — bonds persist even without official recognition. The Unverifiables need the Registry because in Taurus, legal recognition is the difference between full civic life and invisible second-tier existence.
+- The Unverified vs. the Registry Establishment: The Unverified are the proof that bonds form through time and practice, not through paperwork. The Registry establishment needs them to demonstrate that the Registry is serving something real — bonds persist even without official recognition. The Unverified need the Registry because in Taurus, legal recognition is the difference between full civic life and invisible second-tier existence.
 
 ### External Friction
 - **Aries** — chronic heat allocation disputes; the Cold Side / Warm Side insulation schism runs on Aries' allocation decisions

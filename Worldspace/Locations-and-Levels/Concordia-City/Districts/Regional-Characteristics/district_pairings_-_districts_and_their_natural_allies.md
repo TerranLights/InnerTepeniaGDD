@@ -72,3 +72,9 @@
 ### Why they work well together:
 * Virgo is the invisible but essential backbone. It naturally aligns with any district that depends on reliable infrastructure (especially power and industry).
 
+### 13. Concordia Central Hub (Axis Mundi) – Neutral Crossroads / Governance NexusNatural Allies:
+* Libra (TBN-district) — Primary. Governance needs a genuinely neutral space where the real deal-making can happen before it's formalized into policy. The Hub provides that ground; Libra provides the formal authority that gives its outcomes teeth.
+* Virgo (Undergrid) — Strong secondary. The Hub's own patched, multi-era infrastructure is one of Virgo's most demanding ongoing responsibilities — keeping the Grand Transit Exchange and Central Council Plaza running depends on the same quiet expertise Virgo lends every other district.
+### Why they work well together:
+* All three share Compliant + Thinking + Competency leanings toward order, reliability, and system function. Libra sets the rules, the Hub is the neutral ground where those rules actually get negotiated, and Virgo keeps both physically standing.
+

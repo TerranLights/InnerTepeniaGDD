@@ -1,0 +1,60 @@
+# District 1 — Cancer: Deep-Dive Analysis
+
+**Status:** 🟡 open for discussion
+**Pass type:** full individual district analysis, per the developer's request to slow down and go one district at a time rather than a broad sweep. **Revised** to apply the two-stage methodology (see `../00b_Two_Stage_Methodology.md`) — Stage 1 (organic formation) added below as genuinely new material; Stages 2/Findings A/B below are the original pass, now reframed as the second layer rather than a continuous chain from founding.
+
+---
+
+## Stage 1 — What Cancer Actually Became, Across 250 Years, Before the War Ever Touched It
+
+**The gap in the existing material:** `District_Canon_Reference.md` moves almost directly from "designated as sanctuary zone" (late 2560s, a zoning fact) to "absorbed enormous collective trauma" during the Long Night War (2812) — skipping almost the entire ~250-year Second Interwar Period in between, when Cancer was already a living, maturing community on its own terms.
+
+**Who actually arrived in Cancer's founding decades, and why they specifically produced this culture:** Cancer was built to receive "war orphans, injured refugees, and newly activated robots needing emotional and physical stabilization" — but this population wasn't traumatized by the Long Night War. The Long Night War was 250 years in the future. This founding population was traumatized by the **original exile itself** — the War of Upper Earth, the Falkland Treaty's own coercive terms (a victor's settlement, not a mutual agreement — see the treaty's own established genre), and whatever it actually cost the earliest robots and human allies to be forced off Upper Earth entirely. Maggie Aarden's own newly-confirmed circumstances (coerced into being the Falkland Treaty's signatory via a false "invitation to volunteer") are a specific, named example of exactly the kind of founding-generation wound Cancer would have been built to receive: people and robots who did not choose their situation, freshly displaced, freshly grieving, arriving with nothing resolved.
+
+**What 250 years of processing that specific wound plausibly produces:** Cancer's established cultural texture — the elaborate memorial tradition ("the dead are not simply remembered — they are maintained," specific chairs kept at dinner tables, a robot companion continuing a deceased human's daily routines for years), lullabies as a serious, mastered art form, the care-debt parallel economy, the doors-always-unlocked norm — reads as far too deep and specific to have been produced by zoning alone, or even by the Long Night War's own trauma. It reads like exactly what you'd get from **250 years of a community whose entire founding population arrived already grieving**, slowly building ritual, art, and social structure around processing displacement and loss as an ordinary, generational fact of life — not a crisis response, a *culture*. By the time the Long Night War actually happened, Cancer wasn't a district that suddenly discovered how to grieve. It was a district that had been doing exactly this, expertly, for a quarter of a millennium already.
+
+**Why this matters for what comes next:** this reframes Cancer's own war-era story entirely. Cancer wasn't randomly well-suited to absorb Long Night War trauma — it was the one district in Concordia that had spent 250 years becoming the most sophisticated grief-processing community in the city, for entirely separate historical reasons, before the war ever gave it a second, harder test.
+
+---
+
+## Stage 2 — How the War's Fallout Landed on That Already-Mature Community
+
+This is the original pass, now correctly understood as a second, later layer acting on the 250-year-old community described above, not a direct continuation of Cancer's founding.
+
+## What already holds up cleanly
+
+Cancer's core timeline (Post-Falkland sanctuary zoning in the late 2560s, absorbing war trauma in 2812, the Overcrowding Decision fixed at c. 2813, the Rationing of Grief at c. 2818) is internally consistent with the project's own fixed dates (war = 2812, present day ≈2822–2827). The "designated as sanctuary from the beginning" framing matches the same pattern every other founding-era district uses (Aries as power, Capricorn as industry, Libra as governance) — Concordia reads consistently everywhere as a deliberately zoned city from day one, not an emergent slum, so this isn't a Cancer-specific problem, just a shared founding assumption across the whole district set. Taurus' own "Stockpiling Culture's Dark Side" (hoarding rather than sharing with Cancer's shelters) actually reinforces rather than undermines Cancer's own crisis narrative once you line up the timing — see below.
+
+## Finding A — The Overcrowding Decision's "two-week refugee wave" is very plausibly Janbogo-subnet-local, not continent-wide
+
+**The claim as written:** "In the immediate, chaotic aftermath of the Long Night War, a two-week refugee wave exceeded the district's capacity by a factor that made triage unavoidable."
+
+**Why this needed a harder look:** a two-week window is fast. For that wave to be continent-wide — Byrd, Halley, Mirny, Mawson, Palmer subnet refugees all arriving within two weeks of the war's end — would require a functioning, fast, continent-spanning transit network immediately post-war, which directly contradicts everything else established about the post-war period: highways damaged or non-operational, the Planetary Split Brain severing inter-subnet information instantly, Byrd's own connection to Concordia specifically dependent on an aviation route that (per its own Specs file) may have already broken down by this point. A genuinely fast, two-week arrival simply isn't physically plausible for most of the country.
+
+**What actually fits:** Hwy 183 runs directly from Concordia to the Janbogo subnet region (via a ramp near Janbogo, continuing to Denison and Dumont d'Urville) — the one Concordia-connected highway that reaches a war-damaged region without needing an intact aviation route or an impossible cross-continent journey. Denison was destroyed in the war; Janbogo city itself took real damage; the whole subnet Concordia itself belongs to is the one place close enough, physically, for a genuinely fast refugee wave to actually happen within two weeks.
+
+**Why this is worth confirming rather than just noting:** it doesn't contradict anything — it *resolves* an unstated assumption into something load-bearing. It also lines up with, and explains, why Gemini's own refugee section (District 9) describes Janbogo-city and Zukelli survivors as the first, fastest arrivals ("practically the first place both went"), while Scorpio's refugee section (District 4) describes a slower, ongoing convergence of four destroyed/ruined cities' communities (Zukelli, Belgrano, Palmer City, Casey) spread across a much longer post-war timeline. Cancer's own acute, two-week crisis and Scorpio's own slower, sustained one aren't describing the same wave — they're describing two genuinely different refugee timelines the existing docs never explicitly distinguished.
+
+**Suggested resolution, for discussion:** make this explicit in Cancer's own file — the Overcrowding Decision's triggering wave was the fast, physically-possible one (Janbogo subnet, via Hwy 183), not a stand-in for every destroyed city's refugees arriving at once. This also sharpens the district's own trauma: Cancer's worst single moment was caused by the *nearest* catastrophe, not the most distant one, which is a more specific and harder-hitting fact than "a refugee wave" left vague.
+
+## Finding B — Cancer's caregiving model may not actually work for Withdrawn-culture refugees, and nothing currently acknowledges this
+
+**The established pattern:** Cancer's entire culture assumes access equals warmth — "doors are almost always unlocked within residential clusters... this is both a warmth mechanism and a security vulnerability," and the district's caregiving robots run the Mother's Circuit, an ever-expanding informal network of shared emotional data on community members, explicitly described as having drifted into something resembling surveillance.
+
+**The tension this creates, newly visible now that several cities' own established cultures are this developed:** Byrd's own culture treats privacy as "a literal, physical feature of the city, not just a social norm," structurally reinforced by its buried architecture. Zhongshan's founding law is a strict non-prying norm — nobody asks about your past, ever. Sanay and Neumayer both carry their own versions of reserved, low-disclosure culture. None of these are hypothetical outliers; they're established, specific, load-bearing facts about how several real Tepenian cities' populations actually relate to privacy.
+
+**Why this matters:** Cancer's model of care is built entirely around visibility — being known, being watched over, being unable to hide your suffering from your neighbors. For a refugee or visitor from Byrd, Zhongshan, Sanay, or Neumayer, Cancer's version of comfort could genuinely read as an intrusion rather than a kindness — not because Cancer is doing anything wrong by its own values, but because its one-size-fits-all care model has never had to account for cultures where privacy itself is the thing being protected.
+
+**This isn't currently acknowledged anywhere in Cancer's own file.** The district's established self-criticism is entirely about *capacity* (chronic strain, burnout, overcrowding) — never about whether its actual *method* of care is universally appropriate.
+
+**Suggested new intra/cross-district conflict thread, for discussion:** a live, unresolved disagreement within Cancer's own caregiving population — some caregivers (plausibly younger, or those who've actually worked with Withdrawn-culture refugees) recognizing that "No One Left Behind" sometimes means leaving people alone as an active act of care, versus the district's dominant culture, which reads any request for privacy as a person in crisis refusing help. This could sit naturally alongside the four existing internal Cancer factions in `District_Unity_of_Opposites.md` (The Unlimited, The Triage Realists, The Trauma-Bearers, The Surveillance Faction) as a fifth axis of disagreement, or be folded into an existing one — worth deciding which.
+
+## What I did not find
+
+No contradiction in Cancer's own founding-era claims, its relationship to Aries (already covered by Finding 1's ripple note), or its relationship to Taurus, Libra, Sagittarius, or Aquarius as currently written — all of those hold up under closer inspection.
+
+---
+
+## The Double Result
+
+Reading Stage 1 and Stage 2 together: the Cancer we see in-game isn't a district that learned to grieve because of the Long Night War. It's a 250-year-old grief-and-caregiving culture, already mature and already expert, that the Long Night War then hit with a second, harder wound — a wound it was, in one sense, uniquely *equipped* to absorb (250 years of practiced caregiving infrastructure) and in another sense uniquely *vulnerable* to (a culture built entirely around never turning anyone away, suddenly forced into triage for the first time ever). The Overcrowding Decision isn't just a crisis — it's the first time in 250 years that Cancer's own founding promise (No One Left Behind, though that specific phrase is itself framed as a *later*, war-era motto) failed on its own terms. That's a sharper, more specific tragedy than "a caregiving district got overwhelmed" — it's a culture's own 250-year-old core belief breaking, once, for the first time, exactly when it mattered most.

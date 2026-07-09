@@ -89,6 +89,13 @@ For each district, here are **2–5 specific actions** the player can take that 
 - **Negative**: Steal vital repair tools during an emergency.
 - **Negative**: Attack or humiliate maintenance crews while they work.
 
+### 13. Concordia Central Hub (Axis Mundi) – Neutral Crossroads / Governance Nexus
+- **Positive**: Mediate a violent standoff between two district factions before it escalates at the Grand Transit Exchange.
+- **Positive**: Help repair a section of the Hub's patched, layered infrastructure, or protect the Bridge Memorial from an act of partisan vandalism.
+- **Negative**: Desecrate or deface the Bridge Memorial.
+- **Negative**: Sabotage the Grand Transit Exchange or Central Council Plaza during high-stakes inter-district negotiations.
+- **Negative**: Force a Hub-born administrator to break neutrality and publicly favor one district under threat.
+
 ---
 
 **Design Note**:  

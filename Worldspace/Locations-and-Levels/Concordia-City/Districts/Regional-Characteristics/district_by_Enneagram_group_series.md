@@ -111,6 +111,14 @@
 ##### Reasoning:
 * The dark, labyrinthine service tunnels emphasize meticulous work, equal service vs. prioritization, and hidden sacrifices. Compliant + Thinking + Competency groups shine here through stories of perfectionist repairs vs. quick fixes, blaming from surface districts, and the quiet pride (or resentment) of keeping everything running. This creates excellent low-key, high-impact RP around unseen consequences and infrastructural moral dilemmas.
 
+## 13. District: Concordia Central Hub (Axis Mundi) – Neutral Crossroads / Governance Nexus
+##### Enneagram:
+* Major Theme: Thinking — Professional judgment and constant strategic reading of multi-district situations, rather than raw emotional or instinctive reaction.
+* Hornevian Group: Compliant — Dutiful adherence to the neutral function itself; adaptability and service to whichever district needs mediation or passage, without ever fully joining one side.
+* Harmonic Group: Competency — Value placed on being seen as capable, fair, and unbiased above all; professional detachment as the actual coping mechanism for having no home turf of one's own.
+##### Reasoning:
+* The Hub is the only district whose culture didn't grow from a psychological response to the exile's original wound — it grew from the absence of an assigned identity altogether, which produces a genuinely distinct Compliant + Thinking + Competency profile. Players can explore Hub-born professional neutrality vs. genuine hidden loyalty, the cost of belonging everywhere and nowhere at once, and the particular contempt Hub-born residents hold for district tribalism that fails to notice its own rootlessness is itself a kind of tribalism.
+
 # Accounting for districts that overlap with all three groups
 
 #### The pairs that have full overlaps:

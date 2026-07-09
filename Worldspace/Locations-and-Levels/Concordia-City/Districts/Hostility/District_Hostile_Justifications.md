@@ -153,6 +153,17 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 
 ---
 
+## 13. Concordia Central Hub (Axis Mundi – Neutral Crossroads / Governance Nexus)
+**Core identity:** Principled rootlessness, professional detachment, the only ground all twelve districts have agreed — however uneasily — to leave unclaimed.
+
+- Desecrating/defacing the Bridge Memorial → Uncovering evidence that a specific district has been quietly using the memorial's silence to claim symbolic ownership, or recovering something hidden within it that's needed to resolve a larger crisis.
+- Sabotaging the Grand Transit Exchange or Central Council Plaza → Preventing a coordinated attack, ambush, or hostile takeover from moving through the one chokepoint every district relies on, or forcing an emergency shutdown before a corrupt backroom deal can be finalized.
+- Forcing a declaration of exclusive district loyalty → Exposing a Hub administrator or facilitator who has secretly been favoring one district's interests behind a mask of neutrality, and forcing the truth out under pressure.
+- Exploiting Hub neutrality to smuggle resources or information → The only viable route to get vital supplies, medicine, or a warning to a district cut off by blockade, rivalry, or bureaucratic deadlock.
+- Bringing partisan violence onto Hub ground → Retaliating against someone who committed real atrocities against your own district, caught specifically while they assumed neutral territory made them untouchable.
+
+---
+
 ## Overall Design Notes
 
 - These justifications are rooted in the **energy crisis**, **Long Night War trauma**, and the player character’s unique perspective.

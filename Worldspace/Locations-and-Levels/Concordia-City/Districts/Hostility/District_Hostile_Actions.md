@@ -89,6 +89,13 @@ For each district, these are **specific, culturally violating actions** (beyond 
 - Causing major system failures that endanger the Undergrid.
 - Publicly humiliating or undermining the importance of maintenance work.
 
+### 13. Concordia Central Hub (Axis Mundi) – Neutral Crossroads / Governance Nexus
+- Desecrating or defacing the Bridge Memorial, the one site every district has uneasily agreed to leave unclaimed.
+- Sabotaging the Grand Transit Exchange or Central Council Plaza in a way that cripples inter-district movement or negotiation.
+- Forcing a Hub-born resident to publicly declare exclusive loyalty to one district, especially through threats or violence.
+- Exploiting Hub neutrality as cover to smuggle resources, weapons, or information for one district's political advantage.
+- Bringing openly partisan violence onto Hub ground — attacking someone specifically for their district origin while standing in neutral territory.
+
 ---
 
 ### Quick Summary of Patterns

@@ -84,6 +84,13 @@
 * Post-Industrial or Mechanical Noise (utility backbone and gritty maintenance)
 ##### Vibe fit: Dark dripping tunnels with glowing lights and constant mechanical activity. Music that feels essential, hidden, and rhythmic.
 
+### 13. Concordia Central Hub (Axis Mundi) – Neutral Crossroads / Governance Nexus
+##### Suggested genres:
+* Eclectic / Freeform "Crossroads Mix" (a genuine freeform blend pulling a few tracks from every other district's own station — the literal radio equivalent of principled rootlessness)
+* Downtempo Lounge / Functional Electronic (unobtrusive, professional, built for transit halls and waiting rooms rather than a destination in itself)
+* Minimalist Ambient (deliberately uncharacterized — the sonic version of a district engineered to have no assigned identity of its own)
+##### Vibe fit: Bustling, multi-era patched transit halls and council chambers where every district's culture briefly collides and passes through. Music that never quite commits to one mood, because the Hub never quite gets to either.
+
 ###### Overlaps are intentional and realistic (e.g., Industrial/Techno across power and manufacturing districts; Electronic across futuristic/info/cultural ones). Radio stations could have rotating playlists with district-specific emphasis or cross-district signals bleeding through.
 
 ## Bonus: Districts with Local Talk Radio Stations
@@ -91,6 +98,7 @@
 * Libra (TBN-district): Primary candidate. Political center with council chambers, resource allocation, transparency vs. secrecy debates, and city-wide policy discussions. Perfect for news, political analysis, and moderated debates.
 * Gemini (Janbogo Subnet Nexus): Strong fit. Information hub with rumor exchanges, public forums, data verification, and speed-vs-accuracy tensions. Ideal for call-in shows, investigative talk, and information-focused programming.
 * Sagittarius (The Frostlands): Good fit for frontier/philosophical talk. Expansion vs. consolidation debates, independence vs. central control, and explorer/philosophical discussions in the harsh outer edge.
+* Concordia Central Hub (Axis Mundi): A distinct fit from Libra's own official policy coverage — a genuinely neutral call-in debate format where guests from rival districts argue live, moderated by a Hub-born host whose entire professional value is not being seen to take a side.
 
 
 

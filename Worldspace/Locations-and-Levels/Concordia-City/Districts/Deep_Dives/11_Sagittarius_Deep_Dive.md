@@ -1,0 +1,32 @@
+# District 11 — Sagittarius (The Frostlands): Deep-Dive Analysis
+
+**Status:** 🟡 open for discussion
+**Pass type:** full individual district analysis, two-stage methodology (see `../00b_Two_Stage_Methodology.md`). Deepens Thread 9 (`../Staging/09_Sagittarius_Long_Haul_Parallel.md`) rather than repeating it.
+
+---
+
+## Stage 1 — What Sagittarius Actually Became, Across 250 Years, Before the War Ever Touched It
+
+**Sagittarius is a third genuinely distinct kind of Stage 1 story, alongside Taurus and Capricorn — not a response to the exile's original wound at all.** Cancer, Scorpio, Aries, Aquarius, and Libra each organize themselves around processing or containing that original trauma; Pisces organizes itself around catching who those five methods excluded. Sagittarius' founding logic is neither: it exists because crowded domes will always produce a self-selected population that wants opportunity and space more than it wants safety, and the harsh material stakes of frontier life force that population into unusually serious engagement with big existential questions as a practical matter, not a philosophical hobby. This is opportunity-seeking with philosophy as a side effect of the stakes, not trauma-processing. Worth naming the running count explicitly: Taurus, Capricorn, and now Sagittarius are three districts whose Stage 1 identity doesn't need the wound-response mold to satisfy the methodology, and forcing all thirteen into one typology would be a mistake.
+
+**The Third Expansion Collapse is Sagittarius' own founding-scale wound — but it's self-inflicted, not inherited from the exile, which is a genuinely different shape than every wound-response district's story.** Cancer, Scorpio, Aries, Aquarius, and Libra are each responding to a wound something else did to them (the exile, the war). Sagittarius' central defining tension — sixty-three dead, survivors' honest reckoning permanently in tension with the "push further" ethos — was produced by Sagittarius' own core activity turned against itself. The district didn't inherit its wound. It generated one, doing the thing it exists to do. This gives Sagittarius real thematic distinctiveness without borrowing anyone else's framework: it's the one district whose foundational trauma is a direct consequence of its own values working exactly as designed and still costing sixty-three lives.
+
+**The Siligel Rush and Bust (beginning roughly fifty years before the present day, i.e. c. 2775 — a Second Interwar Period event, predating the Long Night War by about 37 years) likely has an unexamined economic asymmetry worth developing.** Sagittarius extracts the raw precursor compounds; per the canon file's own clarifying note, siligel itself (the finished, synthesized robot food) is produced elsewhere from those materials. The canon file doesn't currently say who does that refining, but Capricorn — the city's established heavy-manufacturing and infrastructure hub — is the obvious candidate, and the file already names Capricorn as a specific ongoing "resource competition" rival without explaining why. This is a classic extractive-frontier-versus-manufacturing-core asymmetry: Sagittarius absorbs all the volatility (the boom, then the bust, then the stranded political power), while whichever district actually refines the material into finished siligel captures more stable, ongoing value from a supply chain Sagittarius' own labor and risk made possible. This gives the existing "resource competition with Capricorn" bullet an actual mechanism instead of a stated-but-unexplained rivalry.
+
+---
+
+## Stage 2 — How the War's Fallout Landed on That Already-Mature, 250-Year-Old Frontier Identity
+
+**The same geography that made Sagittarius the district of opportunity made it the district of maximum exposure once the war arrived.** Frontier distance-from-center is an asset when the thing you're pushing toward is resources and expansion. The identical property becomes a liability the instant the thing arriving from outside is an enemy. Sagittarius' wartime role as "buffer zone and staging ground for surface resistance" isn't a new identity grafted on by the war — it's the war reading the district's own pre-existing geographic character in the opposite valence.
+
+**Sagittarius' caravan network is very plausibly another case of a Stage 1 institution proving essential during the war without converting that proof into lasting respect — the same asymmetry Pisces' deep dive found for the Tolerance Pact.** Thread 9 already establishes the caravan economy's structural identity with the national Long Haul network (Belgrano/Byrd/Sayowa/Lazar/Troll). Worth making explicit: if Sagittarius' trade routes and caravan infrastructure were load-bearing during the Long Night War's frontier defense (moving supplies, evacuees, and materiel through exactly the terrain the caravans already knew), that's a second instance — after Pisces — of the war proving a district's unofficial, unglamorous infrastructure was indispensable, without that proof ever translating into the "official recognition" lists Aries and Libra both hold. Sagittarius' own bitterness toward central districts ("chronic neglect from Libra") reads more sharply once framed this way: not generic frontier resentment, but a specific, repeatable grievance about a district that has now proven itself twice (the Siligel Rush's economic contribution, then the war's logistics) and been credited neither time.
+
+---
+
+## New finding — the oral-tradition preservation crisis may be compounding, not incidental, given the district's own knowledge economy
+
+The canon file already flags that Sagittarius' knowledge is transmitted through story and living expertise rather than written record, and that this creates real vulnerability as the founding generation ages. Worth connecting this directly to the Siligel Rush/Bust and the Third Expansion Collapse: both of Sagittarius' own defining Stage 1 events are exactly the kind of knowledge (where the good quarry sites were, what the failed expansion actually got wrong) that the district's own oral culture is worst at preserving reliably across generations. The district may be at genuine risk of forgetting the specific lessons of its own two founding traumas in a way none of the other districts — which lean on formal records, memorial walls, or archives — are structurally at risk of.
+
+## What I did not find
+
+No contradiction in Sagittarius' own dated timeline or its established relationships to Capricorn, Libra, or the Hub as currently written.

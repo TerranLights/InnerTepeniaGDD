@@ -125,6 +125,16 @@ For each district, here are **5–10 prominent, noticeable features** that reinf
 - Low, steady mechanical hum and occasional tool sounds.
 - "We Keep You Alive" motivational posters.
 
+### 13. Concordia Central Hub (Axis Mundi) – Neutral Crossroads / Governance Nexus
+- The Grand Transit Exchange — a vast, ceaselessly busy concourse where highway routes, tube lines, and foot traffic from all twelve districts converge at once.
+- Central Council Plaza — perfectly, almost uncannily symmetrical, where formal negotiations happen in full public view and the real deals happen just out of earshot.
+- The Bridge Memorial — a large, deliberately uninscribed monument to those who departed through the Amundsen Tower; the single most visited and most argued-over site in the city.
+- Visibly layered "patchwork" architecture — walls showing three or more distinct eras of hasty wartime and post-war repair stacked on top of each other, never fully reconciled.
+- Memorial plaques embedded directly into the walls of active, functional transit corridors, because there was never anywhere else to put them.
+- A rotating mix of district-specific storefronts, cuisines, and fashions on constant display, none of them actually native to the Hub itself.
+- Neutral facilitators stationed at checkpoints and information desks, recognizable by their studied, professional lack of any visible district affiliation.
+- An ambient soundscape that shifts block by block as competing district-native music bleeds in and out of range — never one dominant sound, always several at once.
+
 ---
 
 **Design Recommendation**:  
