@@ -2,16 +2,16 @@
 
 Tracks which of Tepenia's 35 cities have gone through the full Megasheet process (see `City_Megasheet_Compilation_Guide.md`) — a `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and a final concatenated `README.md`, all living at `City_Megasheets/[Subnet]/[City]/`. Update this file every time a new city completes the process. Started 2026-07-06.
 
-**Progress: 16 / 35** (plus Amundsen Station, tracked separately below, not yet started)
+**Progress: 17 / 35** (plus Amundsen Station, tracked separately below, not yet started)
 
 ---
 
-## Palmer Subnet (3/8)
+## Palmer Subnet (4/8)
 
 - [x] **Palmer City** — done 2026-07-06
 - [x] **Esperanza** — done 2026-07-08
 - [x] **Juan Carlos** — done 2026-07-07
-- [ ] Marambio
+- [x] **Marambio** — done 2026-07-08
 - [ ] Port Lockroy
 - [ ] Rothera
 - [ ] Sejong
