@@ -32,7 +32,6 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 
 - [x] **Janbogo** — done 2026-07-08
 - [x] **Cape Adare** — done 2026-07-08
-- [ ] Cape Adare
 - [ ] Fort McMurdo
 - [x] **Zukelli** — done 2026-07-07
 - [ ] Scott
