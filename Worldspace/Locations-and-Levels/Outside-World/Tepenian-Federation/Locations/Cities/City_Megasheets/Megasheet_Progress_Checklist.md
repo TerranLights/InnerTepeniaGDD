@@ -2,7 +2,7 @@
 
 Tracks which of Tepenia's 35 cities have gone through the full Megasheet process (see `City_Megasheet_Compilation_Guide.md`) — a `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and a final concatenated `README.md`, all living at `City_Megasheets/[Subnet]/[City]/`. Update this file every time a new city completes the process. Started 2026-07-06.
 
-**Progress: 34 / 35** (plus Amundsen Station, tracked separately below)
+**Progress: 35 / 35 — ALL CITIES COMPLETE** (plus Amundsen Station, tracked separately below)
 
 ---
 
@@ -55,9 +55,9 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Sayowa** — done 2026-07-09
 - [x] **Dome Fuji** — done 2026-07-06 (the pilot city — first Megasheet ever built)
 
-## Byrd Subnet (0/1)
+## Byrd Subnet (1/1) — COMPLETE
 
-- [ ] Byrd
+- [x] **Byrd** — done 2026-07-09; the 35th and final city. Given unusual extra depth per its own standing design requirement (sole city in its subnet, must carry its whole DLC's internal complexity alone) — includes a proposed five-guild faction structure and a project-wide Cross-Reference Synthesis pass connecting it to the rest of Tepenia's established economy (Cradle manufacturing network, Rastra vehicle lineage, Hwy 1/Hwy 22 freight corridors).
 
 ---
 
