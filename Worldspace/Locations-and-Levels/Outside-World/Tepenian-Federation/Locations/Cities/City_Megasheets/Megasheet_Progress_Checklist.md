@@ -63,7 +63,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 
 ## Not Counted Among the 35 — Tracked Separately
 
-- [ ] **Amundsen Station** — not one of the 35 cities (destroyed strategic infrastructure, never a residential city), but tracked here for completeness, same as it got its own City Enneagram Personality profile. Expected to be a much shorter document than any of the 35 — its Specs/Local_Cultures/Vision Notes content is inherently thin relative to an actual city, with no real population, daily life, or civic culture to synthesize. That's the correct outcome, not a gap to fill artificially.
+- [x] **Amundsen Station** — done 2026-07-09; not one of the 35 cities (destroyed strategic infrastructure, never a residential city), but tracked here for completeness, same as it got its own City Enneagram Personality profile. Kept deliberately shorter than the 35 city Megasheets, and stopped short of DLC 1's own reserved story content (Kendra Heinrich, the archive's specific contents).
 
 ## Concordia — Not Yet Started, Plan Confirmed 2026-07-07
 
