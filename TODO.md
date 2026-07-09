@@ -4,6 +4,18 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## New Cross-City Faction Patterns — flagged 2026-07-09, hold for later
+
+Surfaced during a pass across `City_Origin_Factions_Second_Interwar.md` and `City_Origin_Factions_PostWar_Refugee.md`, prompted by how much richer the city-level picture has gotten since those docs were last updated (2026-07-04) — specifically the Halley subnet, Mawson subnet, and Byrd Megasheet cross-reference work done 2026-07-09. Both ideas below are genuinely new patterns those two documents don't yet cover; explicitly not developed further now, just captured so they aren't lost.
+
+1. **"The Cradle-Keepers" (working name) — Neumayer, Byrd, Soyuz.** Three cities across three different subnets, each holding one piece of the single most nationally load-bearing system in Tepenia (the robot-creation/Cradle infrastructure), none of them getting real credit for it. Neumayer designs the current chamber schematic uncredited (the same pattern as the Amundsen Tower); Byrd and Soyuz manufacture it, both modest-political-profile cities most of Tepenia barely thinks about. Strong material: shared, mostly unspoken solidarity or resentment among people who know their city is quietly indispensable to the whole country's population growth while everyone else's attention goes elsewhere.
+
+2. **"The Long Haul" (working name) — Belgrano, Byrd, Sayowa, Lazar, Troll.** Five cities whose civic economies are all, independently, built around keeping the actual overland freight network running (established for Sayowa and Byrd specifically on 2026-07-09; already on record for Troll/Lazar/Belgrano). The Rastra vehicle lineage (Belgrano invented it to find Byrd; Byrd plausibly still builds it today) gives this a genuine physical throughline, not just a thematic one — a working-class, road-and-dispatch professional identity distinct from Fort McMurdo's more centralized, prestige-adjacent logistics dominance.
+
+**Also flagged:** once weekly model allotment has replenished, do a genuinely thorough sweep of all the new city-level material (all 35 city Megasheets, Amundsen Station) specifically hunting for more cross-city faction patterns like the two above — this session's pass was necessarily quick/surface-level given the day's allotment constraints, and a fuller pass will likely surface more.
+
+---
+
 ## Concordia District Origins — Full Consistency Cross-Reference (flagged 2026-07-09, targeted for Sunday)
 
 A large, multi-document audit task, explicitly deferred rather than started on a short-allotment day. **The question:** now that the project has accumulated an enormous amount of downstream world history since Concordia's own district-origin material was first written (the Second Interwar Period timeline, every city's full Megasheet treatment, faction spec sheets, the district canon reference itself), does each district's own "how it became the way it is" origin story still actually make sense? Or has later-established lore quietly undercut, contradicted, or made implausible any district's founding/development narrative?
