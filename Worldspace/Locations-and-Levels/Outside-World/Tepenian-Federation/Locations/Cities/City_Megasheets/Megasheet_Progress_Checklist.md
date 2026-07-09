@@ -2,7 +2,7 @@
 
 Tracks which of Tepenia's 35 cities have gone through the full Megasheet process (see `City_Megasheet_Compilation_Guide.md`) — a `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and a final concatenated `README.md`, all living at `City_Megasheets/[Subnet]/[City]/`. Update this file every time a new city completes the process. Started 2026-07-06.
 
-**Progress: 25 / 35** (plus Amundsen Station, tracked separately below, not yet started)
+**Progress: 26 / 35** (plus Amundsen Station, tracked separately below, not yet started)
 
 ---
 
@@ -28,14 +28,14 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [ ] Lazar
 - [ ] Abowasa
 
-## Janbogo/Ross Subnet (6/7)
+## Janbogo/Ross Subnet (7/7) — COMPLETE
 
 - [x] **Janbogo** — done 2026-07-08
 - [x] **Cape Adare** — done 2026-07-08
 - [x] **Fort McMurdo** — done 2026-07-08
 - [x] **Zukelli** — done 2026-07-07
 - [x] **Scott** — done 2026-07-08
-- [ ] Denison
+- [x] **Denison** — done 2026-07-08
 - [x] **Dumont d'Urville** — done 2026-07-07
 
 ## Mirny Subnet (8/8) — COMPLETE
