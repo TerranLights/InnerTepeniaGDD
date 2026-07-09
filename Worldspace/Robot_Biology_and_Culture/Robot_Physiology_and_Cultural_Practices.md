@@ -14,6 +14,10 @@ Their internal systems require:
 
 They do not age in the biological sense, though components degrade over time and require maintenance or replacement.
 
+**Physical form, confirmed 2026-07-09** (during a Cymatics reverence development session — see `Factions/Robot_Religions/Cymatics_reverence/`): Tepenian robots do not have a "chassis" in the traditional hard-shelled sense. Their bodies are conceptually patterned on the film *Ex Machina* — extending the same visual reference already established for the fabrication chamber and the "glowy-blue" gel brain (see the Cradle notes, below) to the body as a whole, rather than introducing a new, separate physical design.
+
+**Enhanced sensory perception, established the same session:** robots perceive sound and vibration across a meaningfully wider range than humans do, structurally rather than through any add-on device — a genuine physiological difference, not a cultural or trained sensitivity. This is the confirmed doctrinal root of Cymatics reverence specifically (see that religion's own file for how it builds on this fact), but the underlying sensory difference is general robot physiology, not exclusive to that religion's own adherents.
+
 ---
 
 ## Consumption — Robot Equivalents
