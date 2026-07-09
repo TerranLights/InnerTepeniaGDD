@@ -119,14 +119,16 @@ Neumayer had the character of a city that took science and engineering seriously
 
 The Amundsen Tower project is Neumayer's most famous contribution to Tepenia. The Tower was not built in Neumayer — it was built at the South Pole — but the schematics, engineering design, and structural planning originated here, in the precision-instrument infrastructure the founding exile community had inherited and rebuilt. The work required everything Neumayer had: the instruments, the computational resources, the engineering tradition the AWI community carried. It made Neumayer's name in Tepenia.
 
+**Established 2026-07-09 — a second, ongoing instance of the same pattern:** the Tower is not Neumayer's only significant, quietly uncredited engineering contribution. The fabrication-synthesis chamber — the apparatus at the heart of the nationwide Cradle robot-creation infrastructure — is not a single fixed design; it has gone through multiple generations ("marks") over the centuries the Cradle has operated. The current generation (Mark IV, placeholder numbering) was designed at Neumayer, and its schematic is what the currently-active manufacturing sites — {{currently-unnamed Korean city, cf. Soyuz}} and Byrd — actually build from today (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`). Neither manufacturing city's own chambers carry Neumayer's name forward with them, the same way the Amundsen Tower never carried it either. This is not a coincidence but a genuine, recurring civic pattern: Neumayer designs, other places build, credit, and use.
+
 The ice shelf foundation gave Neumayer residents a specific relationship to impermanence. The ground beneath the city was moving. Everyone knew it. The engineering responses to that fact — the elevated construction, the monitoring systems, the periodic adjustments — were part of daily life, not exceptional events. Living at Neumayer meant living with the knowledge that what you stood on was not stable and making peace with that.
 
-**Nationally known for:** The Alfred Wegener Institute scientific heritage. The engineering of Amundsen Tower — the most famous technical project associated with Neumayer. The ice shelf architecture. The long-term atmospheric and climate data record.
+**Nationally known for:** The Alfred Wegener Institute scientific heritage. The engineering of Amundsen Tower — the most famous technical project associated with Neumayer. Designing the current-generation fabrication-synthesis chamber schematic used at the Cradle's active manufacturing sites. The ice shelf architecture. The long-term atmospheric and climate data record.
 
 ---
 
 ## Economy & Industry
-Scientific research (atmospheric, oceanographic, glaciological), ice shelf monitoring, whatever the Weddell Sea coast offered. Full detail TBD for DLC 5.
+Scientific research (atmospheric, oceanographic, glaciological), ice shelf monitoring, precision engineering R&D — including the current-generation fabrication-synthesis chamber schematic used by the Cradle's active manufacturing sites — whatever the Weddell Sea coast offered. Full detail TBD for DLC 5.
 
 ---
 

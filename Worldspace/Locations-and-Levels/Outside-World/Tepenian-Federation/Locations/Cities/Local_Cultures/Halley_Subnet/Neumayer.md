@@ -33,6 +33,8 @@ The Alfred Wegener Institute had operated German Antarctic stations at this exac
 
 Rather than treating the inherited equipment as scrap, the founding community treated it as the seed of something larger. What began as a research station's leftover instruments became, within a few generations, the most capable engineering capacity in the entire Halley subnet — precision instruments, structural analysis tools, and the inherited AWI tradition of rigorous, patient, systematic work. When Tepenia needed to design Amundsen Tower — not build it, the Tower rose at the South Pole, but *design* it, work out the schematics, the structural math, the engineering that made construction possible at all — Neumayer was where that work happened. It made the city's name.
 
+**Established 2026-07-09 — the Tower was not a one-time event.** The same engineering capacity has kept doing this kind of work, quietly, ever since. The fabrication-synthesis chamber at the heart of the nationwide Cradle robot-creation infrastructure has gone through multiple design generations ("marks") over the centuries the Cradle has operated, and the current generation (Mark IV, placeholder numbering) was designed here — the schematic that {{currently-unnamed Korean city, cf. Soyuz}} and Byrd, the Cradle's two currently-active manufacturing sites, actually build from today. Neither city's chambers carry Neumayer's name with them any more than the Tower does. It is not one historical irony but a recurring civic fact: Neumayer designs, somewhere else builds, and the credit stays behind.
+
 ---
 
 ## 3. Climate Character
