@@ -82,7 +82,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Inter-subnet relay — neutral ground; not a member of any subnet ✓
 - **Highways:** Hwy 175 (one endpoint here); Hwy 22 may also pass through — confirm against map
 - **Direct highway neighbors:** Hwy 175 south toward Hwy 183 junction / Ross Sea region
-- **Notes:** Site of the Amundsen Tower (space elevator); destroyed by Upper Earth militaries; scrap confined to South Pole vicinity; last synchronized Arcanet archive is here; named after Roald Amundsen
+- **Notes:** Site of the Amundsen Tower (space elevator); destroyed by Upper Earth militaries; scrap confined to South Pole vicinity; last synchronized Arcanet archive is here; named after Roald Amundsen. **Proposed 2026-07-09** (Byrd's cross-reference pass): Hwy 22 passes directly through this site on Byrd's own eastern freight route to the rest of Tepenia — since that route is established as currently functioning, a maintained bypass through or around the debris field is proposed to exist and stay open, a fragile piece of infrastructure the whole eastern half of the country's supply chain depends on — see Byrd's entry above.
 
 ---
 
@@ -93,7 +93,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7 (western terminus)
 - **Direct highway neighbors:** Halley (east, Hwy 7)
-- **Notes:** Western terminus of Hwy 7; Hwy 59 originates at Halley, not Belgrano — Belgrano reaches Hwy 59 via Hwy 7 to Halley; Hwy 7 bears the "Belgrano" name; the Extension (2611–2614) extends east from Lazar, not from Belgrano. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Western terminus of Hwy 7; Hwy 59 originates at Halley, not Belgrano — Belgrano reaches Hwy 59 via Hwy 7 to Halley; Hwy 7 bears the "Belgrano" name; the Extension (2611–2614) extends east from Lazar, not from Belgrano. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`. **Proposed 2026-07-09** (Byrd's cross-reference pass): invented the Arrastradora/Rastra vehicle specifically to reach Byrd during the founding expedition; Byrd is proposed to still manufacture Rastra-descended freight haulers today, an unbroken lineage from Belgrano's own founding-era invention — see Byrd's entry above.
 
 ---
 
@@ -116,6 +116,14 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Highways:** Hwy 1 (western/southern terminus, from the Antarctic Peninsula side only), Hwy 22 (western/Amundsen Sea terminus) *(corrected 2026-07-03 — Byrd is Hwy 1's terminus, not a pass-through point; the highway does not extend to the Ross Ice Shelf or Fort McMurdo at all, and never did — that claim, plus the supply-chain note below, predates this session's Hwy 1 route correction and referenced the now-removed Framheim/Little America besides)*
 - **Direct highway neighbors:** Rothera (north, via Hwy 1, ultimately connecting to the whole Antarctic Peninsula chain), [Hwy 22 junction with Hwy 175 going east]
 - **Notes:** Only surviving city besides Concordia; ~1,530m altitude — lower than Concordia (3,233m); West Antarctic location; DLC centerpiece (storyline TBD); hub of the Byrd ("Pacific") Arcanet subnet; NOT directly connected to Hwy 175 — reach via Hwy 22. Inland, not a port itself. Its only confirmed overland connection is Hwy 1 to the Antarctic Peninsula (via Rothera); it has no highway connection to the Ross Sea coastal ports at all. Its historical connection to Janbogo/Concordia was via the (now broken) aviation route, not any road — see `Specs/Byrd.md`.
+
+**National supply-network connections, added 2026-07-09** — the project-wide cross-reference pass done for Byrd's Megasheet (`City_Megasheets/Byrd_Subnet/Byrd/Byrd_Cross_Reference_Synthesis.md`), included here since these connections cross subnet boundaries and belong in the consistency database, not just Byrd's own city folder:
+- **The Cradle network:** Byrd is one of only two currently-active fabrication-synthesis chamber manufacturing sites nationwide (the other is Soyuz, Mirny subnet), building to a schematic designed at Neumayer (Halley subnet). Three subnets, one supply chain, no other established connection between them otherwise.
+- **The Rastra lineage:** Belgrano (Halley subnet) invented the Arrastradora/Rastra vehicle specifically to reach Byrd during the founding expedition. Proposed: Byrd itself now manufactures Rastra-descended heavy freight haulers as part of its own fabrication output — the same vehicle lineage as the DLC 1 Kharkovchanka.
+- **Hwy 1 corridor (north):** runs the full length of the Palmer subnet to Byrd's door (Esperanza → Marambio → Port Lockroy/Palmer City ramps → Rothera → Byrd). Rothera proposed as Byrd's natural manufacturing peer (both heavy-industry cities on the same route); Esperanza's Basque farming tradition proposed as Byrd's food supplier — a two-way trade corridor, not export-only.
+- **Hwy 22 corridor (east):** runs the whole continent from Byrd through the Amundsen Station ruins to the Zhongshan/Soyuz/Shirayuki tri-junction (Mirny subnet), with further reach toward Mawson (Hwy 4), Concordia/Vostok/Kunlun/Dome Fuji (Hwy 37 dual-junction), and, more distantly, Janbogo (Hwy 175) and Halley subnet (Hwy 59). Proposed: since Byrd currently supplies "an enormous portion of the country," a maintained bypass through or around the Amundsen Station debris field must exist and stay open — a fragile, high-stakes piece of infrastructure in the same league as Troll Airfield or the Sayowa Junction.
+
+See the full Byrd Megasheet for the complete reasoning behind each of these.
 
 ---
 
@@ -204,7 +212,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — northern peninsula section, added as a waypoint 2026-07-03 (Marambio → *(causeway)* → Trinity Peninsula mainland → Esperanza → Palmer City → Port Lockroy → Rothera → Byrd); real-world verification confirmed Esperanza (Hope Bay) sits only ~58km from Marambio's mainland causeway landing, genuinely on the way toward Palmer City, unlike Sejong/Juan Carlos's true island isolation
 - **Direct highway neighbors:** Marambio (north, via causeway), Sejong (nearby, no highway — island-isolated), Palmer City (south via Hwy 1)
-- **Notes:** Oldest continuously occupied Antarctic station in real life; historic families; northern peninsula cluster alongside Marambio, Sejong, Juan Carlos
+- **Notes:** Oldest continuously occupied Antarctic station in real life; historic families; northern peninsula cluster alongside Marambio, Sejong, Juan Carlos. **Proposed 2026-07-09** (Byrd's cross-reference pass): sits at Hwy 1's northern terminus and, given its established Basque agricultural tradition, is proposed as Byrd's food supplier along that same corridor — see Byrd's entry above.
 
 ---
 
@@ -380,7 +388,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — the highway bears this name as primary designation
 - **Direct highway neighbors:** Port Lockroy / Palmer City (north, Hwy 1), [West Antarctica toward Byrd, south via Hwy 1]
-- **Notes:** Highway named "Rothera Highway" first, "Palmer Highway" as nickname — suggests Rothera was the more significant city at the time of naming, or naming ran south to north
+- **Notes:** Highway named "Rothera Highway" first, "Palmer Highway" as nickname — suggests Rothera was the more significant city at the time of naming, or naming ran south to north. **Proposed 2026-07-09** (Byrd's cross-reference pass): Byrd's natural manufacturing peer via the Hwy 1 corridor, both heavy-industry cities on the same route — see Byrd's entry above.
 
 ---
 
@@ -434,7 +442,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Zhongshan and Shirayuki in the Larsemann Hills cluster; real-world geography places it far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`. Highway network unaffected — Hwy 4 remains a physical road independent of Arcanet subnet boundaries.)*
 - **Highways:** Hwy 4 — eastern terminus
 - **Direct highway neighbors:** Shirayuki (west, Hwy 4)
-- **Notes:** Eastern terminus of Hwy 4; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership).
+- **Notes:** Eastern terminus of Hwy 4; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership). **Proposed 2026-07-09** (Byrd's cross-reference pass): the other currently-active Cradle chamber manufacturing site alongside Byrd, both building to Neumayer's schematic — see Byrd's entry above.
 
 ---
 
