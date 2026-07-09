@@ -2,7 +2,7 @@
 
 Tracks which of Tepenia's 35 cities have gone through the full Megasheet process (see `City_Megasheet_Compilation_Guide.md`) — a `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and a final concatenated `README.md`, all living at `City_Megasheets/[Subnet]/[City]/`. Update this file every time a new city completes the process. Started 2026-07-06.
 
-**Progress: 29 / 35** (plus Amundsen Station, tracked separately below, not yet started)
+**Progress: 30 / 35** (plus Amundsen Station, tracked separately below, not yet started)
 
 ---
 
@@ -17,12 +17,12 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Sejong** — done 2026-07-08
 - [x] **Signy** — done 2026-07-08
 
-## Halley Subnet (4/8)
+## Halley Subnet (5/8)
 
 - [x] **Halley** — done 2026-07-09
 - [x] **Neumayer** — done 2026-07-09
 - [x] **Troll** — done 2026-07-09
-- [ ] Princess Elisabeth
+- [x] **Princess Elisabeth** — done 2026-07-09
 - [ ] Belgrano
 - [x] **Sanay** — done 2026-07-07
 - [ ] Lazar
