@@ -9,7 +9,7 @@
 **Census Population:** 189,742 humans / 196,950 robots / 386,692 combined (Census I, rank 27th, *corrected 2026-07-03, again 2026-07-05*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 28th, *corrected 2026-07-03*)
 **Location:** Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
 
-**One-liner:** *The quieter Spanish city on the second-largest South Shetland island — named for the king who oversaw Spain's own transition out of dictatorship, and given, by simple distance from its crowded neighbor, room to become something coherent rather than constantly negotiated.*
+**One-liner:** *The quieter city on the second-largest South Shetland island — named for the king who oversaw Spain's own transition out of dictatorship, and given, by simple distance from its crowded neighbor, room to develop something coherent and entirely its own, rather than constantly negotiated.*
 
 ---
 
@@ -57,17 +57,17 @@ Without polar night or midnight sun, Juan Carlos's rhythm follows the practical 
 
 **Name/concept:** *Room to Be Itself*
 
-Juan Carlos developed differently from Sejong precisely because it lacked Sejong's density of immediate national neighbors. Livingston Island's relative quiet gave the Spanish cultural inheritance — language, food, social temperament — room to develop with real coherence, rather than being constantly negotiated and clarified against a dozen adjacent communities the way Sejong's Korean identity was.
+Juan Carlos developed differently from Sejong precisely because it lacked Sejong's density of immediate national neighbors. Livingston Island's relative quiet gave the exile community room to develop its own culture — language use, food, social temperament — with real coherence, independently and on its own terms, rather than being constantly negotiated and clarified against a dozen adjacent communities the way Sejong's Korean identity was.
 
 - **a. Founding tension** — Spain founded the city and retained an unusually strong Significant-tier position (not diluted to Notable the way most Palmer subnet founding nations are), while USA became demographic Primary through the same long-run pattern seen across the subnet — a comparatively gentle founding tension, softened by the same quiet, uncontested character that defines the rest of the city.
-- **b. Fault lines** — Between the city's Spanish cultural coherence and the practical demands of rugged, glaciated terrain that limited how much of the island was ever genuinely usable or accessible.
+- **b. Fault lines** — Between the city's own hard-won cultural coherence and the practical demands of rugged, glaciated terrain that limited how much of the island was ever genuinely usable or accessible.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** Coherence over negotiation — Juan Carlos never had to define itself against a crowded island of neighbors the way Sejong did, and its civic character reflects that comparative ease.
-- **b. Hospitality character** — The tertulia is the defining social form: not an open gathering but a hosted one, with a guest list, an implied topic or sensibility, and a real quality of intellectual expectation. Not everyone is invited to every tertulia, and this is considered entirely appropriate rather than exclusionary.
+- **b. Hospitality character** — The tertulia is the defining social form: not an open gathering but a hosted one, with a guest list, an implied topic or sensibility, and a real quality of intellectual expectation. Juan Carlos's own exile community arrived at this form independently, out of the island's quiet and its comparative lack of competing cultural pressure — it happens to echo a real historical Hispanic tradition of the same name, a coincidence of convergent development rather than a direct inheritance. Not everyone is invited to every tertulia, and this is considered entirely appropriate rather than exclusionary.
 - **c.** Paced by maritime access and rugged terrain rather than any dense multinational coordination.
 - **d. Public/private divide** — The tertulia itself embodies this: a semi-public gathering with real boundaries, argument as the explicit point rather than consensus, hosted rather than open.
 - **e. Privacy as civic value** — Genuine, supported by the island's relative quiet compared to Sejong's constant cross-community visibility.
@@ -76,7 +76,7 @@ Juan Carlos developed differently from Sejong precisely because it lacked Sejong
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people drawn to Spanish cultural coherence and a quieter, less contested Peninsula setting — the opposite temperament from Sejong's constant multinational negotiation.
+- **The type this city draws:** people drawn to genuine cultural coherence and a quieter, less contested Peninsula setting — the opposite temperament from Sejong's constant multinational negotiation.
 - **The type this city repels:** anyone seeking Sejong's dense cosmopolitanism or Palmer City's spectacle — Juan Carlos has never offered either, by circumstance and by character.
 
 ---
@@ -86,7 +86,7 @@ Juan Carlos developed differently from Sejong precisely because it lacked Sejong
 - **a. Primary language(s):** English dominant (American Primary tier), with genuine, coherent Spanish presence given Spain's unusually strong Significant-tier retention.
 - **b. Linguistic character** — More linguistically settled than Sejong, reflecting the comparative quiet of Livingston Island — Spanish maintained real, uncontested civic presence rather than constant multilingual negotiation.
 - **c. Slang / dialect markers** — Tertulia-specific vocabulary — terms for the gathering's implicit rules, its hosts, its argumentative expectations.
-- **d. Language and integration** — Moderate pressure to engage with Spanish cultural forms, particularly the tertulia, though less intense than Sejong's necessary multilingual fluency.
+- **d. Language and integration** — Moderate pressure to engage with the city's own defining social forms, particularly the tertulia, though less intense than Sejong's necessary multilingual fluency.
 
 ---
 
@@ -98,7 +98,7 @@ Built around the inherited Spanish Antarctic program infrastructure, shaped by L
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Genuinely, coherently Spanish, developed with more continuity than most Palmer subnet founding cuisines given Spain's strong Significant-tier retention.
+- **a. Human cuisine** — A genuinely coherent, independently developed cuisine, built with more continuity than most Palmer subnet founding cuisines given the comparative quiet Livingston Island afforded — shaped by, but not simply transplanted from, the culinary memory its Significant-tier population carried with them.
 - **b. Social context of eating** — Central to the tertulia tradition — the café and the gathering are inseparable, hours of informal argument and storytelling organized around food and drink.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to the city's comparatively quiet, mid-sized population.
 
@@ -106,30 +106,30 @@ Built around the inherited Spanish Antarctic program infrastructure, shaped by L
 
 ## 11. Fashion
 
-Practical, with genuine Spanish aesthetic coherence given the founding nation's strong retention — distinct from Sejong's more cross-pollinated, boundary-blended style.
+Practical, with a genuine aesthetic coherence born of the founding population's own settled continuity — distinct from Sejong's more cross-pollinated, boundary-blended style.
 
 ---
 
 ## 12. Music
 
-Spanish-inflected, likely including the cantaor tradition (the specific vocal style associated with flamenco and its emotional register) — a genuine, coherent musical inheritance rather than the constantly cross-cultural blend Sejong's density produced.
+A genuinely coherent musical tradition developed independently by the exile community, plausibly echoing something like the cantaor style's emotional register (the specific vocal tradition associated with flamenco) without being a direct continuation of it — a resemblance born of shared cultural memory among Juan Carlos's founding population, not an imported inheritance, and distinct from the constantly cross-cultural blend Sejong's density produced.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Reflecting Spain's own artistic sensibility — the relationship between beauty and melancholy that runs through Spanish cultural tradition.
+- **Visual arts:** A visual sensibility the city arrived at on its own, with a comparable relationship between beauty and melancholy to what runs through certain real-world Iberian traditions — convergent rather than inherited.
 - **Literature:** The tertulia itself functions as living literary culture — argument as art, storytelling and political commentary practiced as a genuine social and intellectual form.
-- **Crafts & material culture:** Practical, Spanish-inflected, shaped by the island's rugged terrain and Juan Carlos's comparatively coherent, less multinational character.
+- **Crafts & material culture:** Practical, shaped by the island's rugged terrain and Juan Carlos's comparatively coherent, less multinational character.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** The tertulia's late-night argument and storytelling, genuine Spanish linguistic texture, rather than Sejong's constant multilingual layering.
+- **Sound:** The tertulia's late-night argument and storytelling, a settled linguistic texture carried by its Spanish-speaking population, rather than Sejong's constant multilingual layering.
 - **Smell:** Mild, maritime, similar to Sejong but with a quieter, less crowded island character.
 - **Feel:** Settled and coherent — Juan Carlos never had to constantly define itself against immediate neighbors the way Sejong did.
-- **First impressions for visitors:** The rugged, glaciated Livingston Island terrain first, then quickly the genuine coherence of a Spanish cultural identity that never had to compete for definition against a dozen adjacent communities.
+- **First impressions for visitors:** The rugged, glaciated Livingston Island terrain first, then quickly the genuine coherence of a civic identity that never had to compete for definition against a dozen adjacent communities.
 
 ---
 
@@ -162,7 +162,7 @@ Robot culture at Juan Carlos likely developed genuine participation in the tertu
 ## 18. Religious / Philosophical Landscape
 
 - No dominant formal religion; the closest shared value is the tertulia's own implicit philosophy — that argument itself, pursued well rather than won, is a worthwhile and even joyful civic practice.
-- A quieter, more settled relationship to Spanish cultural inheritance than the constant comparison-and-contrast identity Sejong's neighbors required.
+- A quieter, more settled relationship to its own cultural development than the constant comparison-and-contrast identity Sejong's neighbors required.
 
 ---
 
@@ -174,7 +174,7 @@ Modest — the tertulia tradition itself has room for genuine dissent and unconv
 
 ## 20. Private Life & Minority Communities
 
-The Significant-tier nations (Germany, France, UK, Italy) and the Notable-tier Mexico, Brazil, Argentina, and Chile maintain identity through private, personal practice — Juan Carlos's public civic face is genuinely, coherently Spanish in a way few other Palmer subnet cities can claim for their own founding nation.
+The Significant-tier nations (Germany, France, UK, Italy) and the Notable-tier Mexico, Brazil, Argentina, and Chile maintain identity through private, personal practice — Juan Carlos's public civic face has a genuine coherence few other Palmer subnet cities can claim for their own founding population.
 
 ---
 
@@ -214,7 +214,7 @@ Modest in ordinary civic use, consistent with the city's comparatively quiet cha
 ## 25. Export Culture
 
 - The tertulia tradition — Juan Carlos's most significant cultural export, later taking root in Concordia's Leo district as a recognized social institution (the late-night argument circle open to anyone) and finding further expression in Taurus's neighborly intimacy and Pisces' boundary-fluid social spaces
-- Genuine Spanish cultural coherence — cuisine, music (the cantaor tradition), and social form
+- Its own genuinely coherent cuisine, music (echoing the cantaor style, developed independently rather than inherited), and social form
 - A specific *type of person* — comfortable with hosted, argument-driven social ritual, recognizable by an ease with structured intellectual gathering that few other Tepenian cities' residents share
 
 ---
@@ -232,7 +232,7 @@ Modest in ordinary civic use, consistent with the city's comparatively quiet cha
 
 ## 27. Visitor Experience
 
-The rugged, glaciated Livingston Island terrain registers first, followed by the genuine coherence of Juan Carlos's Spanish cultural identity — a visitor here encounters a settled, confident civic character rather than Sejong's constant relational negotiation.
+The rugged, glaciated Livingston Island terrain registers first, followed by the genuine coherence of Juan Carlos's own civic identity — a visitor here encounters a settled, confident civic character rather than Sejong's constant relational negotiation.
 
 ---
 
@@ -267,4 +267,4 @@ Becoming a local at Juan Carlos means genuine participation in the tertulia — 
 
 ## 32. Diaspora Character in Concordia
 
-Juan Carlos refugees are among the most culturally legible arrivals in Concordia, given the tertulia's genuine adaptability across districts. In Leo, the tertulia format spreads beyond the refugee community entirely, becoming a recognized social institution — the late-night argument circle anyone can attend, generating both real intellectual exchange and reliable social drama, its structure mapping almost directly onto Leo's own known-face-to-district-legend social hierarchy. In Taurus, Juan Carlos refugees recreate the island's close-knit neighborhood intimacy with unusual ease, quickly adopted into existing family networks. In Pisces, the Spanish tradition of fluid boundaries between the intellectual, the artistic, and the transgressive — the tertulia bleeding into other, less structured spaces — resonates with refugees who find Leo's hierarchies too rigid or Taurus's expectations too settled, introducing a specifically Spanish aesthetic sensibility (the relationship between beauty and melancholy, the cantaor tradition) into Pisces' existing syncretic culture.
+Juan Carlos refugees are among the most culturally legible arrivals in Concordia, given the tertulia's genuine adaptability across districts. In Leo, the tertulia format spreads beyond the refugee community entirely, becoming a recognized social institution — the late-night argument circle anyone can attend, generating both real intellectual exchange and reliable social drama, its structure mapping almost directly onto Leo's own known-face-to-district-legend social hierarchy. In Taurus, Juan Carlos refugees recreate the island's close-knit neighborhood intimacy with unusual ease, quickly adopted into existing family networks. In Pisces, the same fluid boundary between the intellectual, the artistic, and the transgressive that the tertulia already embodies — bleeding into other, less structured spaces — resonates with refugees who find Leo's hierarchies too rigid or Taurus's expectations too settled, introducing Juan Carlos's own aesthetic sensibility (the relationship between beauty and melancholy, echoed in its cantaor-adjacent musical style) into Pisces' existing syncretic culture.

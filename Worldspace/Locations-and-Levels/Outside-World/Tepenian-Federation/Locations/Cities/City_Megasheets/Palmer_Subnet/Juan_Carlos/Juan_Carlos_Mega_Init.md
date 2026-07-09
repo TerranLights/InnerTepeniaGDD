@@ -6,7 +6,7 @@
 
 ## The One-Line Pitch
 
-*The quiet Spanish city given room to be genuinely itself by its own isolation — and, almost invisibly, the place where Tepenia first learned to keep records of who its own people were, a function so real Upper Earth eventually destroyed the city specifically because of it.*
+*The quiet city given room to be genuinely itself by its own isolation — and, almost invisibly, the place where Tepenia first learned to keep records of who its own people were, a function so real Upper Earth eventually destroyed the city specifically because of it.*
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## Who Lived Here, and Why
 
-Juan Carlos developed differently from its South Shetland Islands neighbor Sejong precisely because it lacked Sejong's density of immediate national competitors. Livingston Island's relative quiet gave the founding Spanish population's cultural inheritance — language, food, social temperament — genuine room to develop with coherence, rather than being constantly negotiated and re-defined against a dozen adjacent communities the way Sejong's Korean identity was. Spain itself held on at Significant tier rather than being diluted to Notable, an unusually strong founder retention for the Palmer subnet, while USA became demographic Primary through the same long-run pattern seen across the rest of the subnet — a comparatively gentle founding tension, in keeping with the city's whole quiet, uncontested character.
+Juan Carlos developed differently from its South Shetland Islands neighbor Sejong precisely because it lacked Sejong's density of immediate national competitors. Livingston Island's relative quiet gave the exile community genuine room to develop its own culture — language use, food, social temperament — with real coherence, independently and on its own terms, rather than being constantly negotiated and re-defined against a dozen adjacent communities the way Sejong's Korean identity was. Spain itself held on at Significant tier rather than being diluted to Notable, an unusually strong founder retention for the Palmer subnet, while USA became demographic Primary through the same long-run pattern seen across the rest of the subnet — a comparatively gentle founding tension, in keeping with the city's whole quiet, uncontested character.
 
 But Juan Carlos's real historical weight had nothing to do with its size or its culture. It was Tepenia's first bureaucratic archive — where the young Federation kept its very first real records: who entered, who left, who applied for Palmer City visas or permanent immigration, and specifically, a watch on anyone who had once held a position in their home country's Upper Earth government. This connected directly to the Machu Picchu Border & Customs Authority, Tepenia's own customs institution. As the Federation grew more capable, this archive's contents were eventually copied and relocated deeper into Antarctica — becoming, in time, the very same unified archive that Amundsen Station's pre-Split-Brain lore, and DLC 1 (Echoes of Amundsen) itself, is built on. A quiet island city, easy to overlook, turns out to be the literal origin point of the game's deepest lore stakes.
 
