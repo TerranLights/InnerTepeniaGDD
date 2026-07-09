@@ -4,7 +4,7 @@
 
 **Confirmed, 2026-07-08:** the United Assembly of Nations is a near-universal body — membership is the default, and the meaningful list is the short one of who is *not* a member: a handful of small nations with negligible international presence and no robot populations of their own (real-world examples given by the developer: Guam, Papua New Guinea, St. Kitts & Nevis, Tuvalu, Seychelles, Fiji, and similar). This treaty's preamble reflects that — it names the Assembly's confirmed member-nations only as illustrative examples, not as an exhaustive list, since the Assembly's actual membership is effectively "everyone but a short exclusion list."
 
-**Proposed, not yet confirmed:** the exact composition of the Assembly's negotiating delegation at Stanley. Maggie Aarden's role as the robot signatory remains explicitly tentative per the developer's own note — see her `README.md` in `Worldspace/Characters/Dolls/Past_History_-_Known_to_Tepenians/`.
+**Proposed, not yet confirmed:** the exact composition of the Assembly's negotiating delegation at Stanley. **Maggie Aarden's role as the robot signatory is confirmed, 2026-07-09** — see her `README.md` in `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Maggie Aarden/`. The treaty's own line 17 below ("called upon... to speak and act on their behalf") is the New Echota register doing its work — in-universe, it's meant to read as a genuine mandate; the confirmed reality is that she was "invited" to "volunteer" after the community had already settled on her.
 
 ---
 
@@ -124,7 +124,7 @@ Have agreed as follows:
 *[Assembly delegation — names not yet established]*
 
 **For the robot population and their human allies:**
-*Maggie Aarden* — *(tentative; see character file for status)*
+*Maggie Aarden* — *(confirmed 2026-07-09; see character file for the circumstances of her signing)*
 
 ---
 
