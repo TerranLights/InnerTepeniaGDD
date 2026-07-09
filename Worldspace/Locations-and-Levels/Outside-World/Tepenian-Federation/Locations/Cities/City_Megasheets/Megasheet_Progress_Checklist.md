@@ -2,7 +2,7 @@
 
 Tracks which of Tepenia's 35 cities have gone through the full Megasheet process (see `City_Megasheet_Compilation_Guide.md`) — a `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and a final concatenated `README.md`, all living at `City_Megasheets/[Subnet]/[City]/`. Update this file every time a new city completes the process. Started 2026-07-06.
 
-**Progress: 33 / 35** (plus Amundsen Station, tracked separately below, not yet started)
+**Progress: 34 / 35** (plus Amundsen Station, tracked separately below)
 
 ---
 
@@ -49,10 +49,10 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **{{currently-unnamed Korean city; cf. Soyuz}}** — done 2026-07-07
 - [x] **Shirayuki** — done 2026-07-07
 
-## Mawson Subnet (2/3)
+## Mawson Subnet (3/3) — COMPLETE
 
 - [x] **Mawson** — done 2026-07-07
-- [ ] Sayowa
+- [x] **Sayowa** — done 2026-07-09
 - [x] **Dome Fuji** — done 2026-07-06 (the pilot city — first Megasheet ever built)
 
 ## Byrd Subnet (0/1)
