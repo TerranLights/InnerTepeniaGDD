@@ -195,7 +195,7 @@ TBD — likely tracked closely with each district's own organically-developed sp
 
 ## 21. Political Character
 
-Libra's own founding purpose — "to mediate between human and robot factions, industrial needs, and residential welfare during the chaotic early exile period" (per `District_Canon_Reference.md`) — describes a second interwar Concordia genuinely functioning as intended, a real seat of Federation-adjacent governance and mediation. Whether Concordia was ever the Federation's actual government capital remains the open question flagged in `Specs/Concordia.md` — this sheet doesn't resolve it, but Libra's mediating role suggests Concordia was, at minimum, a serious governance center regardless of formal capital status.
+Libra's own founding purpose — "to mediate between human and robot factions, industrial needs, and residential welfare during the chaotic early exile period" (per `District_Canon_Reference.md`) — describes a second interwar Concordia genuinely functioning as intended, a real seat of Federation-adjacent governance and mediation. *(Resolved 2026-07-07, see `Specs/Concordia.md` and `National_Capital_Candidates.md`: Fort McMurdo was Tepenia's actual national capital, historical only, up through the Long Night War; Concordia never held that title, then or now, and the title did not transfer to it by default.)* Libra's mediating role reflects Concordia's genuine importance as a serious governance and coordination center within the Federation — real weight, just never formal capital status.
 
 ---
 

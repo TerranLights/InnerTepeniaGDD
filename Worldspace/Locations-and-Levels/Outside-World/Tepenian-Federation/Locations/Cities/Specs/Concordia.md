@@ -76,7 +76,7 @@ Concordia sits on the East Antarctic plateau at Dome C — 3,233 meters above se
 
 Its survival was not luck. The Long Night War targeted coastal cities — the ones accessible from Upper Earth by sea or manageable overland routes. Concordia was too far inland, too high, too costly to assault. The city endured because destroying it would have required more logistical investment than Upper Earth was willing to commit.
 
-Three highway exits connect Concordia to the rest of Tepenia: northeast to Casey and the Mirny subnet coast (Hwy 110), northwest across the plateau to Sayowa and ultimately the Atlantic coast highway system (Hwy 37), and south to the Ross Sea cities (Hwy 183). The primary mode of surface travel between Concordia and outside points is the Kharkovchanka — a Soviet-designed tracked vehicle adapted for the Antarctic plateau.
+Three highway exits connect Concordia to the rest of Tepenia: northeast to Casey and the Mirny subnet coast (Hwy 110), northwest across the plateau to Sayowa and ultimately the Atlantic coast highway system (Hwy 37), and north to the Ross Sea cities (Hwy 183). The primary mode of surface travel between Concordia and outside points is the Kharkovchanka — a Soviet-designed tracked vehicle adapted for the Antarctic plateau.
 
 At temperatures averaging −54°C annually — reaching −65°C in a typical winter and approaching −84°C at the coldest extremes — open-air habitation is not a viable baseline. It is an exception and a hardship. The vast majority of Concordia is enclosed: insulated dome structures connected by pressurized corridors, heated underground passages, and enclosed transit links that allow residents to live, work, and move between districts without sustained outdoor exposure. The dome-and-corridor architecture is not an amenity of Tepenian city design; it is the survival precondition that makes inhabiting Dome C possible at all.
 
@@ -182,7 +182,7 @@ District economies vary by zodiac specialization and are documented in full in `
 - **The twelve districts** — Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces; each with distinct character and function; the majority are enclosed within the dome-and-corridor system — see district documentation
 - **Janbogo subnet nexus (Gemini district)** — the physical Arcanet hardware of the Janbogo subnet; the Janbogo diaspora enclave is built around it
 - **Red Spiral base/clinic** — the Red Spiral faction's operational headquarters and primary medical facility; district TBD
-- **Calethina's lab** — site of the player's activation; district TBD
+- **Calethina's lab** — site of the player's activation; a personal, singular facility tied to Calethina specifically, not an industrial-scale Cradle site; located at the outer edge of Cancer district, at the corner where Cancer, Taurus, and Capricorn meet (confirmed against the developer's own district map — see `TODO.md`)
 
 **The two outdoor districts — significant exceptions to the dome system:**
 

@@ -71,6 +71,7 @@
 
 ##### Kunlun
 - NOIRLab [PRIMARY] // (under authority of the NSF)
+- Kitt Peak / Mauna Kea observatories [PRIMARY] // *(added retroactively 2026-07-08, held for future reference — Kunlun's Megasheet already complete, not being regenerated)* precision astronomical instrumentation operating in extreme, remote high-altitude environments
 - CHEXS/CHESS [SECONDARY] // (under authority of the NSF)
 - Massachusetts Institute of Technology (MIT) [SECONDARY] // though Kunlun is not a "university" setting
 
@@ -99,9 +100,11 @@
 - Jeju City, Korea [SECONDARY]
 
 ##### Sayowa
-- x [PRIMARY]
+- Felixstowe, UK [PRIMARY] // Britain's busiest container port (48% of the UK's containerized trade, ~4M TEUs/year) inside a small, modest town of only ~24,000 — outsized functional importance carried in a genuinely unglamorous footprint
+- Trois-Rivières, Quebec, Canada [PRIMARY] // a quieter industrial/logistics junction city sitting between Montreal and Quebec City, built around freight and processing rather than its own cultural spectacle
 - Kryvyi Rih, Ukraine [SECONDARY]
-- x [SECONDARY]
+- Perpignan, France [SECONDARY] // a genuine cross-border freight-consolidation and trucking hub near the Spanish border, defined by function rather than fame
+- Djibouti City, Djibouti [SECONDARY] // under 1 million people, yet handles roughly 85% of its port throughput as trade destined for Ethiopia — outsized strategic logistics importance from a tiny population, purely a function of chokepoint position on the Bab-el-Mandeb Strait (~15% of global maritime traffic)
 
 ##### Dome Fuji
 - Paro Taktsang, Bhutan [PRIMARY]
@@ -111,24 +114,36 @@
 ### Halley ("Atlantic") Subnet
 
 ##### Belgrano
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Newcastle/Tyneside, England [PRIMARY] // genuine shipbuilding industrial heritage paired with a real working-class rock culture
+- 1960s/70s Birmingham, England [PRIMARY] // Black Sabbath formed among working-class factory workers in Aston; Tony Iommi's guitar-defining sound traces directly to a factory-press injury forcing him to adapt his playing — heavy metal's sonic identity born from an actual mechanic-adjacent industrial accident
+- Arkhangelsk, Russia [SECONDARY] // historic White Sea shipping/timber port, remote and function-first rather than glamorous
+- 1970s Detroit, Michigan [SECONDARY] // birthplace of garage rock/proto-punk (MC5, the Stooges) and genuine rustbelt mechanic culture, later industrial decline
+- Cleveland, Ohio [SECONDARY] // the actual birthplace of the term "rock and roll" (DJ Alan Freed, 1951) and the first rock concert ever held, in a working-class industrial rustbelt city
+- Chatham, Kent, England (Chatham Dockyard) [SUPPORTING] // a 400-year Royal Navy dockyard town whose 1984 closure caused ~23.5% unemployment and a real, documented community decline
 
 ##### Halley
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Soviet/Russian North Pole drifting ice stations (the NP series) [PRIMARY] // scientific stations built directly on floating Arctic sea ice, inhabited for months or years, evacuated urgently when the ice floe itself began breaking apart beneath them
+- Shishmaref, Alaska [PRIMARY] // an Inupiat village of ~600 that voted to relocate entirely due to active coastal erosion and permafrost thaw (3-5 feet of shoreline lost per year) — an "act or lose everything" precedent
+- Kiruna, Sweden [PRIMARY] // an entire town center physically relocated ~2 miles due to mining-caused ground subsidence, including moving a 113-year-old church intact on modular transporters
+- Longyearbyen, Svalbard [SECONDARY] // an Arctic town forced to relocate or demolish buildings in high-risk zones after a fatal 2015 avalanche exposed unstable permafrost-dependent structures
+- Cape Hatteras Lighthouse relocation [SECONDARY] // the entire lighthouse physically relocated inland in 1999 to escape coastal erosion — a single-structure parallel to Halley's own ski-mounted module mechanic
+- Fairbourne, Wales [SUPPORTING] // officially designated by the UK government for eventual "decommissioning" due to sea-level rise, rather than active relocation — the closest match to a place simply left to be lost once nobody keeps defending it
+- Venice, Italy (MOSE flood barriers) [SUPPORTING] // a city whose civic culture organizes around continuous engineering adaptation to unstable ground/water, rather than relocation itself
 
 ##### Abowasa
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Baarle-Hertog / Baarle-Nassau [PRIMARY] // an actual town split between Belgian and Dutch administration, the international border running through streets and even individual houses
+- Sark, Channel Islands [PRIMARY] // a genuinely tiny self-governing community where governance operates at a near-household scale
+- Whittier, Alaska [SECONDARY] // nearly the entire town's population lives inside a single building, an extreme real-world case of "everyone knows everyone" as the organizing fact of civic life
+- Ny-Ålesund, Svalbard [SUPPORTING] // a genuinely multinational Arctic settlement where several countries each operate their own small station within the same tiny town
 
 ##### Neumayer
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Bell Labs, USA [PRIMARY] // legendary precision R&D institution (transistor, laser, information theory) whose inventions are world-famous while the institution itself is far less publicly known than what it produced
+- JPL (Jet Propulsion Laboratory), California [PRIMARY] // designs and engineers spacecraft/instruments that become famous once deployed and landed elsewhere, while JPL itself stays comparatively unknown as a place
+- Akademgorodok, Russia [PRIMARY] // a purpose-built science city devoted entirely to rigorous multidisciplinary research, still relatively obscure to the public relative to its actual scientific output
+- Bletchley Park, England [SECONDARY] // codebreaking work that fundamentally shaped WWII's outcome, kept under a vow of secrecy "not just during wartime but forever," staying almost entirely unrecognized until the 1970s
+- Woods Hole Oceanographic Institution, USA [SECONDARY] // a legendary, quietly essential oceanographic research institution
+- Mauna Loa Observatory, Hawaii [SUPPORTING] // home of the Keeling Curve, the longest continuous, uninterrupted instrumental record of atmospheric CO2 in the world (since 1958)
+- NIST (National Institute of Standards and Technology), USA [SUPPORTING] // the actual institution whose entire mission is precision metrology, literally defining and maintaining a nation's fundamental units of measurement
 
 ##### Sanay
 - Rotterdam, Netherlands [PRIMARY]
@@ -137,19 +152,26 @@
 - Durban, South Africa [SECONDARY]
 
 ##### Troll
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Berlin Tempelhof Airport / the Berlin Airlift (1948–49) [PRIMARY] // when Soviet forces blockaded all land and water routes into West Berlin, Tempelhof became the only way to keep 2.1 million people supplied - 2.3 million tons of freight across 278,000 flights; control of one airfield was literally the difference between a city being fed or starved
+- Ted Stevens Anchorage International Airport, Alaska [PRIMARY] // the world's third-busiest cargo airport, entirely because of geographic position (9.5 hours from 90% of the industrialized world) rather than population or destination appeal
+- Ramstein Air Base, Germany [SECONDARY] // a genuine, still-active strategic logistics and airlift hub
+- Shannon Airport, Ireland [SUPPORTING] // the world's first duty-free airport (1947), whose entire economic relevance came from being a mandatory transatlantic refueling stopover until longer-range aircraft made it unnecessary
+- Prestwick, Scotland [SUPPORTING] // Shannon's direct historical counterpart on the European side of the Atlantic, the same refueling-stopover economics in a modest, working-class Scottish town
 
 ##### Lazar
 - Vancouver, Canada [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Budapest [PRIMARY] // the historical Buda + Pest merger, the closest formal precedent for two genuinely separate cities merging into one unified city at true city scale
+- Kuala Lumpur [PRIMARY] // a dense modern megacity built around heavy, deliberate transit investment specifically to manage scale
+- Minneapolis–Saint Paul (the "Twin Cities") [SECONDARY] // two distinct, separately-governed cities that grew together into one functional metro area while keeping separate identities
+- Shenzhen, China [SECONDARY] // explosive megacity growth from a modest base into one of the world's largest metro areas within just a few decades
+- The London Blitz [SUPPORTING] // a real precedent for "too big and too redundant to be erased by bombing" — London absorbed massive sustained WWII bombardment and kept functioning specifically because of its scale
 
 ##### Princess Elisabeth
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Masdar City, UAE [PRIMARY] // a planned zero-carbon, zero-waste city built on renewable energy from inception, zero-emissions as the actual design premise rather than an add-on policy
+- Tokelau [PRIMARY] // the first nation to run entirely on solar power (100% renewable electricity since 2012), a small population with zero fossil-fuel fallback
+- The International Space Station [SECONDARY] // a human habitat that exists entirely through continuous engineered life support with zero passive refuge
+- Cheyenne Mountain Complex [SUPPORTING] // a genuine underground military command complex, a fitting structural echo for the mysterious underground "mini-infrastructure"
+- Devon Island Haughton-Mars Project [SUPPORTING] // an isolated Arctic research base testing life-support and habitat systems specifically because the environment is hostile enough to simulate Mars
 
 ### Palmer ("American") Subnet
 
@@ -230,6 +252,10 @@
 ### South Pole [special case]
 
 ##### Amundsen-Scott Station [reference-only]
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- The IceCube Neutrino Observatory's own surface facility [PRIMARY] // literally already at the real station - a genuinely massive sensor array (5,160 optical modules across 86 boreholes reaching 2,450m into the ice) feeding into comparatively compact control/processing infrastructure on-site
+- The International Space Station's interior [PRIMARY] // genuinely cramped, every surface covered in cabling, racks, and equipment, life-support and scientific hardware crammed alongside each other with almost no unused space
+- Antarctic ice-core processing labs (e.g., WAIS Divide, EPICA) [PRIMARY] // real Antarctic science facilities where dense analytical equipment is packed into small, module-based structures
+- NASA Mission Control, Johnson Space Center [SECONDARY] // the iconic wall-of-consoles command-room aesthetic, dense banks of screens and terminals in a relatively compact room
+- The Svalbard Global Seed Vault [SECONDARY] // a genuinely singular, neutral, multi-nation piece of infrastructure built specifically to survive catastrophe and serve all of humanity regardless of nationality
+- A nuclear power plant control room [SUPPORTING] // dense analog gauges, switches, and monitoring panels covering every surface in a comparatively small, secure space
+- Nuclear submarines (e.g., Los Angeles-class) [SUPPORTING] // the quintessential real-world case of an extremely dense concentration of technical, sensor, and computer systems packed into an extremely confined, crewed space

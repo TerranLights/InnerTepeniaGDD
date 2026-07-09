@@ -146,7 +146,7 @@ Connection to Gemini (Janbogo Subnet Nexus):
 Connection to Pisces (The Markets):
 * There is significant overlap and tension. Some of Scorpio’s more extreme or taboo practices blur into criminal territory. The black market supplies certain substances or tools used in transformation work, creating moral gray areas.
 Broader Concordia Situation:
-* Scorpio acts as the city’s psychological shadow. While other districts focus on survival, production, or entertainment, Scorpio deals with the repressed trauma and identity crises that the rest of Concordia tries to ignore. As the city’s overall situation worsens, more people are quietly seeking out the Threshold — which is both validating for the district and overwhelming its already strained capacity.
+* Scorpio acts as the city’s psychological shadow. While other districts focus on survival, production, or entertainment, Scorpio deals with the repressed trauma and identity crises that the rest of Concordia tries to ignore. As the city’s overall situation worsens, more people are quietly seeking out Scorpio's rebirth clinics and near-death simulation facilities (see `District_Canon_Reference.md`) — which is both validating for the district and overwhelming its already strained capacity.
 
 
 
@@ -165,7 +165,7 @@ Because the TBN-district is the source of the energy crisis, Aries residents are
 * Internal Power Struggles
 Strong hierarchical “might makes right” culture leads to brutal internal competition, dangerous rivalries between crews, and occasional violent clashes over authority.
 * Fear of Obsolescence
-As decentralized solutions (like the player’s Independent Lattice) gain traction, many workers worry their skills and way of life are becoming irrelevant.
+As decentralized solutions (like the Lattice, the Bonded Lattice faction's parallel power network) gain traction, many workers worry their skills and way of life are becoming irrelevant.
 ### 2. Day-to-Day Problems
 * Dangerous equipment failures and near-miss accidents during overclock events.
 * Chronic shortages of safety gear, replacement parts, and medical support for injured workers.
@@ -203,7 +203,7 @@ Production depends on consistent raw materials and stable power. Shortages or fl
 * Exploitation and Class Tension
 Lower-tier workers feel squeezed between ambitious managers and the demands of the wider city. There is growing resentment toward the elite who reap the rewards while workers bear the risks.
 * Technological Obsolescence Anxiety
-With decentralized tech (like the player’s Lattice) and experimental research from Aquarius rising, many fear their specialized industrial skills are becoming outdated.
+With decentralized tech (like the Lattice) and experimental research from Aquarius rising, many fear their specialized industrial skills are becoming outdated.
 * Environmental and Health Degradation
 Constant exposure to industrial pollutants, heavy machinery, and poor ventilation causes long-term health issues that the district tends to downplay in favor of productivity.
 ### 2. Day-to-Day Problems
