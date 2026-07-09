@@ -155,23 +155,37 @@
 
 ##### Signy
 - Kerkyras/Corfu, Greece [PRIMARY] // near-equal land area by km2
+- El Hierro, Canary Islands, Spain [PRIMARY] // small volcanic island (278 km², ~11,000 people) whose wind-pumped-hydro system once ran the entire island on renewables alone for 28 consecutive days, a world record; currently covers ~75% of annual demand
+- Lofoten Islands, Norway [PRIMARY] // Arctic cod fishing culture since the Viking Age, the biggest cod fishing season in the world; tight-knit fishing villages targeting full renewable (wind + micro-hydro) integration by 2030
+- Tristan da Cunha [PRIMARY] // the most remote inhabited archipelago on Earth (242 residents, 2,400km from its nearest neighbor), self-sufficient via subsistence farming plus an MSC-certified, best-practice lobster/crawfish export fishery
 - Tenerife, Spain [SECONDARY]
-- x [SECONDARY]
+- Samsø, Denmark [SECONDARY] // the world's first fully renewable island (2007), powered by community- and farmer-owned wind turbines plus biomass and solar; residents now have a negative average carbon footprint
+- Shetland Islands, Scotland [SECONDARY] // deep fishing heritage alongside the windiest site in the UK, home to the 443MW Viking Wind Farm — though real local tension exists between the fishing fleet and offshore wind development
+- Newfoundland outport communities, Canada [SUPPORTING] // historically self-sufficient, isolated fishing villages governed by consensus, sustained by cod and herring until the 1992 moratorium forced mass resettlement
+- Orkney Islands, Scotland [SUPPORTING] // home to the European Marine Energy Centre, the world's first and leading wave/tidal energy test site, its waters still genuinely shared with an active fishing industry
+- King Island, Tasmania, Australia [SUPPORTING] // a small, ungridded island whose hybrid wind/solar/battery/flywheel microgrid supplies over 65% of annual energy needs renewably, cutting diesel use in half
+- Vestmannaeyjar (Westman Islands), Iceland [SUPPORTING] // Iceland's most productive fishing center, on a volcanic archipelago that geothermally heats its own district heating and pools from a 1973 eruption that nearly destroyed the town
+- Faroe Islands [SUPPORTING] // fishing and aquaculture make up over 90% of exports, historically the entire basis of a genuinely self-reliant island society, now also targeting 100% renewable electricity by 2030
 
 ##### Sejong
 - Keelung, Taiwan [PRIMARY]
+- Izmir (historic Smyrna), Turkey [PRIMARY] // the Ottoman Empire's cosmopolitan port par excellence — Greeks, Muslims, Armenians, Jews, and European merchant colonies coexisting as separately self-governed communities, physically divided into distinct quarters within one city
 - Vladivostok, Russia [SECONDARY]
-- x [SECONDARY]
+- Gibraltar [SECONDARY] // one of the most densely populated territories on Earth, its identity forged almost entirely in relational contrast to a Spanish neighbor's repeated territorial claims, despite most residents tracing to Genoese, Maltese, and Moroccan Jewish heritage rather than the UK
 
 ##### Esperanza
-- x [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- The Basque baserri tradition, Spain/France [TOP-PRIMARY] // family farmsteads built and inherited specifically to sustain multiple generations working the same land together; parents choose one child — not necessarily eldest, not necessarily a son — to inherit and keep the household intact rather than divided
+- Auroville, India [PRIMARY] // an actual planned "universal town" whose handwritten charter declares it "does not belong to anyone in particular but to humanity as a whole"; delegates from 124 nations attended its 1968 inauguration, its ~3,300 residents now come from 60 countries
+- SOS Children's Villages [PRIMARY] // a global federation (570+ villages, 135 countries) of family-style houses led by trained "SOS mothers," emphasizing long-term, family-structured care over institutional orphanages
+- Boys Town, Nebraska [SECONDARY] // an actual official Nebraska village whose entire civic charter is raising at-risk and homeless children, complete with its own farm, schools, fire department, and churches
+- Pestalozzi Children's Village, Switzerland [SECONDARY] // founded 1946 to house and raise war-displaced children of any nation, each nationality given its own farmhouse and foster parents rather than being assimilated into one culture
+- Sardinia's Blue Zone, Italy [SECONDARY] // multigenerational households are the norm, with researchers directly crediting that closeness and a strong culture of neighborly "mutual aid" for the island's exceptional longevity — elders stay engaged as caregivers and teachers rather than retiring from family life
+- Kibbutz communal child-rearing, Israel [SUPPORTING] // many kibbutzim raised children collectively in dedicated "children's houses" from the 1920s through the 1980s-90s, on the belief that the whole community bore responsibility for every child's welfare
 
 ##### Marambio
 - Duisburg, Germany [PRIMARY]
-- x [SECONDARY]
-- x [SECONDARY]
+- Gander, Newfoundland [SECONDARY] // earned the nickname "the Crossroads of the World" when virtually every transatlantic flight needed a refueling stop there (13,000 aircraft, a quarter-million passengers a year at its peak) — a real precedent for a technological-chokepoint identity that vanished once jets could fly the Atlantic non-stop
+- Drumheller, Alberta, Canada [SECONDARY] // branded "Dinosaur Capital of the World," a small town whose entire civic identity and tourism economy runs on the fossil record beneath and around it
 
 ##### Juan Carlos
 - St. Gallen, Switzerland [PRIMARY]
@@ -186,14 +200,18 @@
 - St. Petersburg [SECONDARY]
 
 ##### Port Lockroy
-- x [PRIMARY]
+- The Roman Cursus Publicus [PRIMARY] // the Empire's state courier network, built on mansiones (full waystations, ~37-44km apart) and mutationes (horse-change-only stations, ~8-10km apart) — routine dispatches moved 50 miles a day, urgent imperial messages up to 160
 - x [SECONDARY]
-- x [SECONDARY]
+- The Mongol Yam system [SECONDARY] // relay stations spaced 20-40 miles apart across the largest contiguous land empire in history; by the late 13th century, over 300,000 horses and 10,000 post offices kept the network running
+- Kyoto's WWII sparing [SUPPORTING] // in July 1945, Secretary of War Henry Stimson had Kyoto struck from the atomic bomb target list specifically for its historical/cultural significance — spared by mattering too much to destroy, the inverse of Port Lockroy's own "spared by mattering too little"
+- Louisville, Kentucky (UPS Worldport) [SUPPORTING] // a present-day city whose economy reshaped entirely around being UPS's global air-sorting hub — 2 million+ packages a day across 155 miles of conveyor belts, now the 4th-busiest cargo airport on Earth
 
 ##### Rothera
 - Gary, Indiana [PRIMARY] // (scaled down)
+- Sweden's Cold War "Bas 90" air-basing doctrine [PRIMARY] // aircraft industry built inside hardened factories carved directly into granite mountains, with operational aircraft deliberately dispersed across 20–40 separate hardstands per base specifically so no single strike could eliminate the whole capability
 - Magnitogorsk, Russia [SECONDARY] // (scaled down)
-- x [SECONDARY]
+- Imperial Japan's WWII dispersed aircraft production [SECONDARY] // after early bombing raids, manufacturing was scattered into small, geographically disparate workshops and even private homes — a real historical case where dispersal-without-hardening outperformed the underground factories Japan attempted but never completed
+- Norway's underground NATO mountain air bases (Bodø, Bardufoss) [SUPPORTING] // hangars bored directly into granite mountains since the 1950s, still active today — Bardufoss's mountain hangars were reopened as recently as 2024 to house F-35s
 
 ### Byrd Subnet
 
