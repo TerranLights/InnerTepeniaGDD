@@ -49,6 +49,8 @@ This is distinct from the earlier `project_concordia_consistency_audit` pass (20
 
 **A related note on Concordia, surfaced during this thread:** Calethina's own personal activation lab ("your starting build chamber," per an older district-layout draft) is a real, pre-existing piece of canon — but it's a singular, personal facility tied to her specifically, not evidence of an industrial Cradle site. Its actual map location was pinned down to Cancer district's outer edge, right at the corner where Cancer, Taurus, and Capricorn meet (confirmed against the developer's own district map) — adjacent to Capricorn, Concordia's own industrial district, which is a natural candidate if a genuine industrial-scale facility is ever placed in Concordia, distinct from Calethina's own lab. Concordia's Cradle role (Cancer vs. Central Hub, originally proposed) remains genuinely undecided, deliberately deferred until Concordia's own development begins.
 
+**Future task flagged 2026-07-10 — a full, elaborated nationwide Cradle network model.** Surfaced during the Mirny Subnet Ultra-Megasheet, which traced this network's own thread directly into the player character's own origin (Vostok/Kunlun's Mountain Pass venture → the specific chamber in Calethina's lab). Developer explicitly confirmed enthusiasm for a dedicated future pass extrapolating, elaborating, and fleshing out the network's full nationwide shape — framed as "a huge benefit to the game's lore and player discovery." Not started; reserved for a dedicated future session, in the same vein as the Orbital Composition task below. Likely scope: a proper name for Mountain Pass (still outstanding), resolving Zhongshan's/Sanay's/Belgrano's own still-open manufacturer candidacy, and possibly a dedicated `Cradle_Network.md` reference file consolidating the network's full shape rather than leaving it scattered across each subnet's own City Megasheets and Ultra-Megasheets.
+
 ---
 
 ## Belgrano's Wartime Status — Still Genuinely Open
@@ -70,6 +72,8 @@ This is distinct from the earlier `project_concordia_consistency_audit` pass (20
 ## Mirny Rename — flagged 2026-07-08, deliberately deferred
 
 Mirny's actual national composition (China Primary; Russia only Significant tier) bears no real resemblance to the real Russian station and ship (Bellingshausen's *Mirny*) the name and founding story are built around — unlike Soyuz's already-flagged Korean rename, this isn't a demographic-tiering bug to fix, just a name that no longer fits the population it describes. Flagged for an eventual rename; not resolved now. Whenever this gets picked up, note that `Local_Cultures/Mirny_Subnet/Mirny.md`'s entire cultural identity ("The City on the Line," Section 2 Founding Story, Section 5 Post-Culture Identity) is currently built around the Russian-name-vs-Chinese-majority founding tension specifically — a rename would need to either preserve that tension under a new name or replace it with a different defining identity entirely, not just swap the label.
+
+**Confirmed 2026-07-10, during the Mirny Subnet Ultra-Megasheet:** the rename is scoped to the *city* only — the developer explicitly confirmed the six-city regional "Mirny subnet" keeps its own name regardless of what the city itself is eventually renamed to, a deliberate decoupling (the same way a real Antarctic regional name can outlive whichever specific station or claim it was originally drawn from). No replacement city name chosen yet.
 
 ## Pisces' Black Market Origin — flagged 2026-07-07, deliberately deferred
 

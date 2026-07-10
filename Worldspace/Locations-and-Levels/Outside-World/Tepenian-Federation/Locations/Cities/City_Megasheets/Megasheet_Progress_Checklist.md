@@ -41,7 +41,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Dumont d'Urville** — done 2026-07-07
 - [x] **Janbogo/Ross Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Janbogo_Subnet/Janbogo_Subnet_Ultra_Megasheet/`, including the first subnet-wide destruction/survival taxonomy resolving to exactly two explanatory principles, and a concrete cross-subnet link to Halley subnet's own Cradle-chamber/Neumayer throughline via Denison
 
-## Mirny Subnet (8/8) — COMPLETE
+## Mirny Subnet (8/8) — COMPLETE, plus Subnet Ultra-Megasheet
 
 - [x] **Mirny** — done 2026-07-08
 - [x] **Casey** — done 2026-07-08
@@ -51,6 +51,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Zhongshan** — done 2026-07-07
 - [x] **{{currently-unnamed Korean city; cf. Soyuz}}** — done 2026-07-07
 - [x] **Shirayuki** — done 2026-07-07
+- [x] **Mirny Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Mirny_Subnet/Mirny_Subnet_Ultra_Megasheet/`, including the project's first direct traceable link from subnet-level worldbuilding to the player character's own origin (the Cradle network, via Vostok/Kunlun's Mountain Pass), and a war-damage taxonomy resolving to one principle vs. Janbogo/Ross subnet's two
 
 ## Mawson Subnet (3/3) — COMPLETE
 
