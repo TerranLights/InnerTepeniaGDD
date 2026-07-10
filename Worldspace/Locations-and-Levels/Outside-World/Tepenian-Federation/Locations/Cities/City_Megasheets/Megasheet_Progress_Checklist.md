@@ -6,7 +6,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 
 ---
 
-## Palmer Subnet (8/8) — COMPLETE
+## Palmer Subnet (8/8) — COMPLETE, plus Subnet Ultra-Megasheet
 
 - [x] **Palmer City** — done 2026-07-06
 - [x] **Esperanza** — done 2026-07-08
@@ -16,6 +16,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Rothera** — done 2026-07-08
 - [x] **Sejong** — done 2026-07-08
 - [x] **Signy** — done 2026-07-08
+- [x] **Palmer Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Palmer_Subnet/Palmer_Subnet_Ultra_Megasheet/`, mirroring the Concordia district-level process at [cities → subnet] scale
 
 ## Halley Subnet (8/8) — COMPLETE
 

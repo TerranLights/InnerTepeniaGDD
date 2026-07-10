@@ -1,0 +1,33 @@
+# Palmer Subnet — Cross-City Throughways
+
+**What this is:** connecting factors that pass through multiple Palmer subnet cities — not things the cities have in common (see Cross-City Patterns for that), but chains showing how a fact in one city leads through another to a consequence in a third, sometimes reaching outside the subnet entirely. Written 2026-07-10.
+
+---
+
+## Throughway 1: Palmer City and Rothera → Byrd's own present, and the primary sources Palmer City no longer has
+
+**Palmer City and Rothera contributed historical records and maps that helped the Belgrano-led expedition locate Byrd Station** (Palmer City Cross-Reference, Finding 8) → **Rothera's own decentralized industrial model, or its surviving engineers' records, plausibly shaped Byrd's early industrial planning directly** (Rothera Full Extrapolation, Section XI) → **Byrd's present-day culture — vast icefields, underground fabrication, genuine community — developed with no established reference back to either debt** → **because Palmer City was thoroughly destroyed while Byrd was not, Byrd's own archives may now hold the only surviving primary-source material about pre-war Palmer City anywhere in Tepenia** (Palmer City Cross-Reference, Finding 8, 4th-order effect) → **making Byrd, in a very real sense, a Palmer subnet creation twice over — the city that received both the records that let it be found and the industrial template that shaped what it became — while simultaneously being the one place a player could stumble onto real documentary history about a completely different, already-destroyed DLC's own city.**
+
+---
+
+## Throughway 2: Sejong and Juan Carlos — identical starting conditions, two completely different legacies for the wider game
+
+**Sejong and Juan Carlos both began as exile settlements on isolated South Shetland Islands research stations, under near-identical founding circumstances** (Sejong Cross-Reference, Finding 1) → **the one variable that actually differed between them was neighbor density — Juan Carlos comparatively alone on Livingston Island, Sejong sharing King George Island with nearly a dozen other national communities** → **Juan Carlos's isolation produced a settled, singular institution: Tepenia's first bureaucratic archive, methodically cataloguing who entered, left, and held prior Upper Earth government positions** (Juan Carlos Mega-Init, Hard Facts) → **that same archive was later relocated and consolidated, becoming the literal seed of Amundsen Station's pre-Split-Brain lore and DLC 1's entire premise** (Juan Carlos Mega-Init, "Who Lived Here, and Why") → **while Sejong's own density instead produced constant, informal, many-sided diplomatic coordination — a coexistence experiment whose success the Long Night War never let anyone finish judging** (Sejong Mega-Init, One-Line Pitch) → **meaning two cities that started under essentially identical conditions produced, downstream, one of the game's most foundational lore mechanisms (DLC 1's own archive) and one of its most open, still-unresolved dramatic questions (did the experiment work?) — neither outcome remotely predictable from their shared starting point.**
+
+---
+
+## Throughway 3: Esperanza's dual output, its destruction, and a distant echo in Concordia's own Sagittarius district
+
+**Esperanza's founding charter raised its children explicitly to "push further into Antarctica, in the name of robots and humans hand-in-hand"** (Esperanza Mega-Init, "What It Feels Like") → **its mining economy simultaneously supplied the raw materials (siligel synthesis inputs, building and fabrication components) that any further Tepenian expansion effort would actually need** (Esperanza Cross-Reference, Finding 3) → **making Esperanza's eventual destruction a compounding loss for Tepenia's broader expansion trajectory — both the people prepared to carry it forward and the physical materials to build it were lost in the same strike** (Esperanza Cross-Reference, Finding 3, 4th-order effect) → **this same opportunity-seeking, outward-pushing founding logic — expansion as the whole point, philosophy emerging only as a side effect of the stakes involved — is, independently, the exact founding logic later established for Concordia's own Sagittarius district** (per this project's own district-level Megasheet work) → **suggesting Esperanza's own frontier mission and Sagittarius' own founding character are, thematically, the same civic impulse expressed roughly two and a half centuries and one destroyed city apart — one snuffed out by the war before its own generation could fulfill it, the other still actively running in the present-day game, carrying (whether anyone in Concordia realizes it or not) the same basic ambition Esperanza's children were once raised to embody.**
+
+---
+
+## Throughway 4: Signy's isolation, its own double edge, and where the current crisis actually leads
+
+**Signy survived the Long Night War specifically because it was too remote and too marginal to be worth targeting** (Signy Mega-Init, Hard Facts) → **that same isolation left it with the weakest Arcanet link in the Federation, reliant on old-fashioned radio precisely because modern digital networking physically cannot reach this far** (Signy Mega-Init, "What It Feels Like") → **post-war, with subnet supply lines cut, that same isolation now threatens the robot population specifically — siligel cannot be produced or improvised locally, and the human population's genuine marine self-sufficiency has no equivalent for robots** (Signy Mega-Init, "What It Feels Like") → **any distress signal Signy might send toward Concordia has to travel across the same weak, slow link that made the city safe in the first place, meaning the very trait protecting Signy from the war is also the trait making it hardest for Signy to ask for help now that the war is over** (Signy Full Extrapolation, Section VII) → **giving Signy's own established DLC 3 hook (the countdown siligel shortage) a genuinely ironic shape: the single most survivable trait in all of Palmer subnet is also the specific mechanism standing between Signy and the one kind of rescue it may eventually need.**
+
+---
+
+## Worth Your Attention
+
+Throughway 3 is the most significant of the four — it's the only chain in this file that reaches all the way out of Palmer subnet's own eight cities and connects directly back to the district-level Concordia work completed earlier this same week, suggesting Esperanza's own destroyed, unfulfilled frontier mission and Sagittarius district's own present-day frontier culture may be worth treating as two chapters of the same underlying Tepenian impulse, rather than two unrelated pieces of worldbuilding that happen to rhyme.
