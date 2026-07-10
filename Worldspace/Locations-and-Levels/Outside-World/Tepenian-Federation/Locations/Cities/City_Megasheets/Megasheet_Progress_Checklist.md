@@ -30,7 +30,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Abowasa** — done 2026-07-09
 - [x] **Halley Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Halley_Subnet/Halley_Subnet_Ultra_Megasheet/`, including a new Neumayer/Belgrano Rastra-origin detail folded in mid-pass
 
-## Janbogo/Ross Subnet (7/7) — COMPLETE
+## Janbogo/Ross Subnet (7/7) — COMPLETE, plus Subnet Ultra-Megasheet
 
 - [x] **Janbogo** — done 2026-07-08
 - [x] **Cape Adare** — done 2026-07-08
@@ -39,6 +39,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Scott** — done 2026-07-08
 - [x] **Denison** — done 2026-07-08
 - [x] **Dumont d'Urville** — done 2026-07-07
+- [x] **Janbogo/Ross Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Janbogo_Subnet/Janbogo_Subnet_Ultra_Megasheet/`, including the first subnet-wide destruction/survival taxonomy resolving to exactly two explanatory principles, and a concrete cross-subnet link to Halley subnet's own Cradle-chamber/Neumayer throughline via Denison
 
 ## Mirny Subnet (8/8) — COMPLETE
 
