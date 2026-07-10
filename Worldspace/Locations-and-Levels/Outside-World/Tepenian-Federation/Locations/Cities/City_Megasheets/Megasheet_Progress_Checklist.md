@@ -65,9 +65,9 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 
 - [x] **Amundsen Station** — done 2026-07-09; not one of the 35 cities (destroyed strategic infrastructure, never a residential city), but tracked here for completeness, same as it got its own City Enneagram Personality profile. Kept deliberately shorter than the 35 city Megasheets, and stopped short of DLC 1's own reserved story content (Kendra Heinrich, the archive's specific contents).
 
-## Concordia — In Progress, Started 2026-07-09
+## Concordia — COMPLETE, 2026-07-09 through 2026-07-10
 
-Underway: the full 13-district two-stage deep-dive pass, District Vision Notes for all 13 districts, and `District-Inspirational-Influences.md` are all complete, and district Megasheets are now being built one at a time, in the same numbered order used throughout — living at `Concordia-City/Districts/District_Megasheets/[NN]_[District]/`. Once all 13 district Megasheets exist, the final step happens: compile those 13 into one single, separate, deliberately massive **"ultra-Megasheet"** that serves as Concordia's own master guiding document for the main game.
+The full 13-district two-stage deep-dive pass, District Vision Notes for all 13 districts, `District-Inspirational-Influences.md`, all 13 district Megasheets, an overnight Patterns/Throughways/Questlines synthesis pass across all 13 (`Final_Megasheet_Data_Processing/`), and the final Concordia Ultra-Megasheet are all complete — living at `Concordia-City/Districts/District_Megasheets/[NN]_[District]/` and `Concordia-City/Districts/Concordia_Ultra_Megasheet/`.
 
 - [x] **Cancer** — done 2026-07-09; the first district Megasheet, serving as the worked example for the other 12
 - [x] **Taurus** — done 2026-07-09
@@ -82,4 +82,4 @@ Underway: the full 13-district two-stage deep-dive pass, District Vision Notes f
 - [x] **Sagittarius** — done 2026-07-09
 - [x] **Virgo** — done 2026-07-09
 - [x] **Central Hub / Axis Mundi** — done 2026-07-10; the thirteenth and final district Megasheet
-- [ ] **The Concordia Ultra-Megasheet** — compiled last, only once all 13 districts above are complete
+- [x] **The Concordia Ultra-Megasheet** — done 2026-07-10; compiled from all 13 districts plus the overnight Patterns/Throughways synthesis pass; Questlines material deliberately excluded, reserved for future quest-design work
