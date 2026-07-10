@@ -53,11 +53,12 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Shirayuki** — done 2026-07-07
 - [x] **Mirny Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Mirny_Subnet/Mirny_Subnet_Ultra_Megasheet/`, including the project's first direct traceable link from subnet-level worldbuilding to the player character's own origin (the Cradle network, via Vostok/Kunlun's Mountain Pass), and a war-damage taxonomy resolving to one principle vs. Janbogo/Ross subnet's two
 
-## Mawson Subnet (3/3) — COMPLETE
+## Mawson Subnet (3/3) — COMPLETE, plus Subnet Ultra-Megasheet
 
 - [x] **Mawson** — done 2026-07-07
 - [x] **Sayowa** — done 2026-07-09
 - [x] **Dome Fuji** — done 2026-07-06 (the pilot city — first Megasheet ever built)
+- [x] **Mawson Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Mawson_Subnet/Mawson_Subnet_Ultra_Megasheet/`; completes Japan's four-point Tepenian diaspora range and closes out the project's whole war-damage-logic framework across all 5 subnets. **This was the 5th and final subnet Ultra-Megasheet — all subnet-level work is now complete.**
 
 ## Byrd Subnet (1/1) — COMPLETE
 
