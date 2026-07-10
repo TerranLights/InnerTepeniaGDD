@@ -65,21 +65,21 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 
 - [x] **Amundsen Station** — done 2026-07-09; not one of the 35 cities (destroyed strategic infrastructure, never a residential city), but tracked here for completeness, same as it got its own City Enneagram Personality profile. Kept deliberately shorter than the 35 city Megasheets, and stopped short of DLC 1's own reserved story content (Kendra Heinrich, the archive's specific contents).
 
-## Concordia — Not Yet Started, Plan Confirmed 2026-07-07
+## Concordia — In Progress, Started 2026-07-09
 
-Deliberately not begun yet — Concordia's own post-war City Vision Notes session is still in progress, and this is a much larger undertaking than any single city above. **Confirmed approach:** build a full, complete Megasheet for each of Concordia's 13 individual districts first — the 12 zodiac-associated districts plus the 13th, neutral **Central Hub** (also referred to as **Axis Mundi** in some notes) — using the same process as any other city. Only once all 13 district Megasheets exist does the final step happen: compile those 13 into one single, separate, deliberately massive **"ultra-Megasheet"** that serves as Concordia's own master guiding document for the main game.
+Underway: the full 13-district two-stage deep-dive pass, District Vision Notes for all 13 districts, and `District-Inspirational-Influences.md` are all complete, and district Megasheets are now being built one at a time, in the same numbered order used throughout — living at `Concordia-City/Districts/District_Megasheets/[NN]_[District]/`. Once all 13 district Megasheets exist, the final step happens: compile those 13 into one single, separate, deliberately massive **"ultra-Megasheet"** that serves as Concordia's own master guiding document for the main game.
 
-- [ ] Aries
-- [ ] Taurus
-- [ ] Gemini
-- [ ] Cancer
+- [x] **Cancer** — done 2026-07-09; the first district Megasheet, serving as the worked example for the other 12
+- [x] **Taurus** — done 2026-07-09
 - [ ] Leo
-- [ ] Virgo
-- [ ] Libra
 - [ ] Scorpio
-- [ ] Sagittarius
+- [ ] Aries
 - [ ] Capricorn
 - [ ] Aquarius
+- [ ] Libra
+- [ ] Gemini
 - [ ] Pisces
+- [ ] Sagittarius
+- [ ] Virgo
 - [ ] Central Hub / Axis Mundi
 - [ ] **The Concordia Ultra-Megasheet** — compiled last, only once all 13 districts above are complete
