@@ -73,7 +73,7 @@ Underway: the full 13-district two-stage deep-dive pass, District Vision Notes f
 - [x] **Taurus** — done 2026-07-09
 - [x] **Leo** — done 2026-07-09
 - [x] **Scorpio** — done 2026-07-09
-- [ ] Aries
+- [x] **Aries** — done 2026-07-09
 - [ ] Capricorn
 - [ ] Aquarius
 - [ ] Libra
