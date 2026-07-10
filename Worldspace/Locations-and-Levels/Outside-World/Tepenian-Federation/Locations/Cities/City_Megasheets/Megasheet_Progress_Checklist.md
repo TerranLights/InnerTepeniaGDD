@@ -71,7 +71,7 @@ Underway: the full 13-district two-stage deep-dive pass, District Vision Notes f
 
 - [x] **Cancer** — done 2026-07-09; the first district Megasheet, serving as the worked example for the other 12
 - [x] **Taurus** — done 2026-07-09
-- [ ] Leo
+- [x] **Leo** — done 2026-07-09
 - [ ] Scorpio
 - [ ] Aries
 - [ ] Capricorn
