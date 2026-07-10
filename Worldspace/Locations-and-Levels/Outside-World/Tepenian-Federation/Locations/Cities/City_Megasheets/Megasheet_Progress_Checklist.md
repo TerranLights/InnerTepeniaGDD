@@ -18,7 +18,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Signy** — done 2026-07-08
 - [x] **Palmer Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Palmer_Subnet/Palmer_Subnet_Ultra_Megasheet/`, mirroring the Concordia district-level process at [cities → subnet] scale
 
-## Halley Subnet (8/8) — COMPLETE
+## Halley Subnet (8/8) — COMPLETE, plus Subnet Ultra-Megasheet
 
 - [x] **Halley** — done 2026-07-09
 - [x] **Neumayer** — done 2026-07-09
@@ -28,6 +28,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Sanay** — done 2026-07-07
 - [x] **Lazar** — done 2026-07-09
 - [x] **Abowasa** — done 2026-07-09
+- [x] **Halley Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Halley_Subnet/Halley_Subnet_Ultra_Megasheet/`, including a new Neumayer/Belgrano Rastra-origin detail folded in mid-pass
 
 ## Janbogo/Ross Subnet (7/7) — COMPLETE
 
