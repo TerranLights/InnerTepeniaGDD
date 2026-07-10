@@ -122,5 +122,4 @@
 - Casablanca (WWII-era) [SECONDARY]
 - Panama Canal Zone (historical) [SUPPORTING]
 - Suez Canal Zone [SUPPORTING]
-- x [SUPPORTING]
 
