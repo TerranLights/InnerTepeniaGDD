@@ -49,7 +49,7 @@ Higher **Calculation** increases accuracy. Higher **Investigation** reduces cost
 
 **Key Body Parts / Targets** (adaptable for humans, robots, and hybrids):
 - **Head / Sensor Array** — High critical chance, strong Investigation synergy.
-- **Torso / Main Chassis** — Balanced.
+- **Torso / Core Frame** — Balanced.
 - **Power Core / Reactor** — High damage + risk of explosion/overheat. Partially bypasses DT.
 - **Joints / Actuators** — Crippling (slows or disables movement).
 - **Limbs / Weapon Mounts** — Disarm or reduce outgoing damage.

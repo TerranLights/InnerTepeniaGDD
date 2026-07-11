@@ -188,7 +188,7 @@ Concordia is isolated but not completely cut off.
 
 **Key industrial outputs:**
 - Siligel (robot food)
-- Robot chassis and components
+- Robot frames and components
 - Metal fabrication from quarried Antarctic bedrock minerals
 - Highway maintenance equipment
 - Construction materials (for dome repair and expansion)

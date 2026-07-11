@@ -3,15 +3,15 @@
 **File:** `Combat_Mechanics_DT_DR.md`
 **Location:** `Game-Mechanics/Combat/`
 **Date:** June 23, 2026
-**System Basis:** Adapted and expanded from Fallout: New Vegas DT + DR mechanics, integrated with the MACHINE stat system and a layered chassis + rare armor model for *Inner Tepenia*.
+**System Basis:** Adapted and expanded from Fallout: New Vegas DT + DR mechanics, integrated with the MACHINE stat system and a layered frame + rare armor model for *Inner Tepenia*.
 
 ---
 
 ## 1. Overview
 
-*Inner Tepenia* uses a layered damage mitigation system that combines **Damage Threshold (DT)** and **Damage Resistance (DR)** with a sci-fi robotic chassis.
+*Inner Tepenia* uses a layered damage mitigation system that combines **Damage Threshold (DT)** and **Damage Resistance (DR)** with a sci-fi robotic frame.
 
-- Most baseline protection comes from the player’s robotic **chassis** and installed **augmentations**.
+- Most baseline protection comes from the player’s robotic **frame** and installed **augmentations**.
 - **MACHINE stats** modify how effective that protection is.
 - **Rare wearable armor** pieces act as valuable, high-impact additions layered on top (inspired by Cyberpunk 2077’s emphasis on equipped gear while keeping FNV-style tactical depth).
 - Wearable armor is **not common** — finding or earning good pieces should feel like meaningful upgrades.
@@ -49,9 +49,9 @@ Armor and augmentations can have **per-damage-type** DT and DR values.
 
 ---
 
-## 4. Base Chassis Protection (from MACHINE Stats)
+## 4. Base Frame Protection (from MACHINE Stats)
 
-Every player character has a robotic chassis that provides the foundation of their survivability.
+Every player character has a robotic frame that provides the foundation of their survivability.
 
 **Base Formulas:**
 
@@ -74,12 +74,12 @@ Augmentations can add flat DT, % DR, or multipliers to these base values.
 
 ## 5. MACHINE Stat Modifiers on Armor Effectiveness
 
-MACHINE stats improve how effective your current chassis and armor perform.
+MACHINE stats improve how effective your current frame and armor perform.
 
 | Stat                  | Influence on Armor Effectiveness                          | Example Mechanical Effect |
 |-----------------------|-----------------------------------------------------------|---------------------------|
 | **Might (M)**         | Improves physical armor plating effectiveness             | +1 DT per 2 points of Might (Ballistic & Melee) |
-| **Engine (E)**        | Increases overall chassis durability and sustained resistance | +1 DT per point of Engine above 5; reduces DT loss from damage over time |
+| **Engine (E)**        | Increases overall frame durability and sustained resistance | +1 DT per point of Engine above 5; reduces DT loss from damage over time |
 | **Calculation (C)**   | Improves energy dispersion and system optimization        | +1% DR per point of Calculation (Energy & Disrupt damage) |
 | **Agility (A)**       | Allows better positioning or partial evasion              | Small chance (1% per point) to reduce incoming effective DT by 10–20% |
 | **Nerve (N)**         | Maintains armor performance under stress or electronic attack | Reduces DT/DR penalties from Disrupt/EMP damage |
@@ -92,7 +92,7 @@ These modifiers make stat investment feel impactful on survivability even before
 
 ## 6. Rare Wearable Armor Additions
 
-True wearable armor pieces are **rare and valuable**. They are layered **on top** of the player’s chassis and augmentations rather than replacing them.
+True wearable armor pieces are **rare and valuable**. They are layered **on top** of the player’s frame and augmentations rather than replacing them.
 
 **How They Work:**
 - Rare armor adds **extra DT and/or DR** (often with damage-type specificity).
@@ -172,7 +172,7 @@ Investigation can provide bonuses to spotting weak points, further improving pen
 
 ## 9. Additional Notes & Design Goals
 
-- **Chassis as Foundation**: Players should feel capable even without rare armor, thanks to stat investment and augmentations.
+- **Frame as Foundation**: Players should feel capable even without rare armor, thanks to stat investment and augmentations.
 - **Rare Armor as Power Spikes**: These pieces should feel exciting and district-flavored.
 - **Tactical Depth**: DT rewards smart positioning and fighting weaker enemies; DR rewards preparing for big threats.
 - **Balance Goal**: The 15% minimum floor + stat scaling keeps the system fair while still allowing powerful tank or specialized builds.

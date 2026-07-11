@@ -39,7 +39,7 @@
 (Any messages, broadcasts, or data packets that reached Earth/Concordia? Any ongoing contact with people left behind?)
 
 **Physical / Technical Condition**
-(Any known damage, upgrades, or changes to their chassis/systems since leaving Earth?)
+(Any known damage, upgrades, or changes to their frame/systems since leaving Earth?)
 
 ---
 

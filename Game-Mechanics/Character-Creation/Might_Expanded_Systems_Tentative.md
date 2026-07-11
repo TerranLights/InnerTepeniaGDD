@@ -57,7 +57,7 @@ Might directly scales the damage output of all unarmed strikes and melee weapons
 
 **Design notes:**
 - This is a *flat damage bonus* added on top of weapon base damage and skill modifiers, similar to Fallout's Strength damage bonus.
-- For a robot, "unarmed" could be chassis strike, hydraulic slam, or pneumatic impact — flavor should feel mechanical, not biological.
+- For a robot, "unarmed" could be a frame-driven strike, hydraulic slam, or pneumatic impact — flavor should feel mechanical, not biological.
 - Improvised Weaponry & Combat Jury-Rig skill synergizes strongly: a high Might + high Improvised Weaponry character can turn any salvage object into a lethal weapon.
 - Non-Lethal Restraint & Subdual: Might determines whether a grapple succeeds outright, or requires an opposed Agility check.
 

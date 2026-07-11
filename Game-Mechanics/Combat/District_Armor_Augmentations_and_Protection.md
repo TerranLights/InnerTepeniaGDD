@@ -5,14 +5,14 @@
 **Date:** June 23, 2026
 
 **Core Philosophy:**
-In *Inner Tepenia*, the majority of the player character’s protection comes from their **robotic chassis** and installed **augmentations**, which are heavily influenced by MACHINE stats. True **wearable armor** is rare, valuable, and usually district-flavored. These pieces act as powerful but optional layers on top of the chassis. This creates meaningful progression through both character investment and world exploration.
+In *Inner Tepenia*, the majority of the player character’s protection comes from their **robotic frame** and installed **augmentations**, which are heavily influenced by MACHINE stats. True **wearable armor** is rare, valuable, and usually district-flavored. These pieces act as powerful but optional layers on top of the frame. This creates meaningful progression through both character investment and world exploration.
 
 ---
 
 ## 1. Layered Protection System
 
-### Base Chassis Protection
-Every player character begins with a foundational robotic chassis.
+### Base Frame Protection
+Every player character begins with a foundational robotic frame.
 
 - **Base DT** = `floor( (Engine × 2.5) + (Might × 1.5) )`
 - **Base DR** = `floor(Calculation × 2)` (as percentage)
@@ -20,7 +20,7 @@ Every player character begins with a foundational robotic chassis.
 Augmentations add flat bonuses or multipliers to these values.
 
 ### MACHINE Stat Modifiers
-Stats improve how effectively your chassis and armor perform:
+Stats improve how effectively your frame and armor perform:
 
 | Stat                  | Influence on Protection                                   | Mechanical Effect |
 |-----------------------|-----------------------------------------------------------|-------------------|
@@ -37,7 +37,7 @@ Stats improve how effectively your chassis and armor perform:
 ## 2. Rare Wearable Armor Philosophy
 
 - Wearable armor is **scarce** and feels like a meaningful upgrade.
-- Pieces are layered **on top** of the chassis (they do not replace it).
+- Pieces are layered **on top** of the frame (they do not replace it).
 - Most pieces come with trade-offs (energy drain, reduced mobility, reputation effects, etc.).
 - Availability is strongly tied to district reputation and exploration.
 
@@ -49,7 +49,7 @@ Stats improve how effectively your chassis and armor perform:
 - **Style:** Heavy industrial plating, overclocked cores.
 - **Strength:** Extremely high DT, especially Ballistic/Explosive.
 - **Typical Pieces:** Core Guardian Plating, Overclocked Reactor Harness.
-- **Augmentations:** Heat-resistant chassis mods, raw power boosters.
+- **Augmentations:** Heat-resistant frame mods, raw power boosters.
 - **Drawback:** Often increases energy consumption and reduces finesse.
 
 ### Taurus (Residential / Stability)
@@ -117,7 +117,7 @@ Re-specing is painful and directly impacts survivability:
 | **Rebirth Ritual**              | Scorpio      | New shadow/transformation defenses, temporary instability | Major personality shift |
 | **Experimental Lattice Swap**   | Aquarius     | High DR gains with random weaknesses                    | System instability risk |
 | **Market Rebuild**              | Pisces       | Stealth/fluid armor bonuses, possible hidden penalties  | Criminal reputation effects |
-| **Deep System Purge**           | Virgo        | Optimized chassis, risk of losing augmentations         | Emotional/identity sterilization |
+| **Deep System Purge**           | Virgo        | Optimized frame, risk of losing augmentations         | Emotional/identity sterilization |
 | **Official Clean Slate**        | Calethina    | Balanced, controlled adjustments                        | Emotional distance from Calethina |
 
 Rare armor compatibility can change after re-spec (some pieces may lose effectiveness or gain new synergies).
@@ -132,7 +132,7 @@ Rare armor compatibility can change after re-spec (some pieces may lose effectiv
 | **Rebirth Ritual**              | Scorpio      | Can gain strong Disrupt/psychological resistance or “shadow” defensive abilities. Risk of temporary DT/DR instability. | Major personality/identity shift. Armor may feel “alive” or unpredictable. |
 | **Experimental Lattice Swap**   | Aquarius     | High potential +DR (Energy/Disrupt) with random side effects or new weaknesses. | Risk of mutations or system instability. Rare armor compatibility may change. |
 | **Market Rebuild**              | Pisces       | Access to unique stealth-oriented or “fluid” armor bonuses. Possible hidden penalties. | Criminal branding and reputation shifts. Some districts may distrust you. |
-| **Deep System Purge**           | Virgo        | Can reset or optimize chassis DT/DR. Risk of losing random augmentations or memories tied to protection. | Feel more “sterile” or machine-efficient; emotional range may decrease. |
+| **Deep System Purge**           | Virgo        | Can reset or optimize frame DT/DR. Risk of losing random augmentations or memories tied to protection. | Feel more “sterile” or machine-efficient; emotional range may decrease. |
 | **Official Clean Slate**        | Calethina    | Controlled adjustment of DT/DR. Usually balanced but with emotional cost from Calethina. | She may become more distant; you feel “reset” in ways that affect roleplay. |
 
 **Notes:**
@@ -146,7 +146,7 @@ Rare armor compatibility can change after re-spec (some pieces may lose effectiv
 
 Completing a district’s post-Idolized capstone quest often grants one of the strongest protective rewards available:
 
-- **Permanent chassis upgrades** (e.g., +10 DT / +8% DR)
+- **Permanent frame upgrades** (e.g., +10 DT / +8% DR)
 - **Signature rare armor piece** tied to the player’s final choice
 - **Unique augmentations** only available through that district
 - **District-wide passive bonuses** when wearing that district’s armor (e.g., Aries armor gives DT bonuses near power sources)
@@ -155,7 +155,7 @@ Completing a district’s post-Idolized capstone quest often grants one of the s
 
 ## 6. Design Notes & Integration Goals
 
-- **Progression Feel:** Chassis + stats = reliable baseline. Rare armor = exciting power spikes.
+- **Progression Feel:** Frame + stats = reliable baseline. Rare armor = exciting power spikes.
 - **District Identity:** Each district’s tech and culture is clearly reflected in the armor/augmentations they provide.
 - **Player Agency:** Players can lean heavily into one or two districts for specialized protection or spread investment for versatility.
 - **Re-Spec Weight:** Changing your MACHINE stats or undergoing district re-specs should feel like rewriting *how* you survive, not just who you are.

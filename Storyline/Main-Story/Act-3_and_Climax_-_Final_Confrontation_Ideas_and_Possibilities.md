@@ -12,6 +12,6 @@
 5. The Ossuary Awakening
 * The Goths’ accumulated “metal bones” in the Ossuary begin to reactivate (corrupted war memories or a new emergent intelligence). The climax takes place inside the haunting cathedral as you decide whether to let the dead rest, weaponize them, or merge with them.
 6. The Bridge Overload
-* You (the player) have become too influential. Multiple factions simultaneously try to either upload you into the Solarnet, dismantle you for parts, or worship you as the new guiding intelligence. The final sequence is a personal, introspective confrontation mixed with tactical defense of your own chassis.
+* You (the player) have become too influential. Multiple factions simultaneously try to either upload you into the Solarnet, dismantle you for parts, or worship you as the new guiding intelligence. The final sequence is a personal, introspective confrontation mixed with tactical defense of your own body.
 7. The Long Night Returns
 * Sensors detect a new, smaller-scale “Midnight War” event approaching (solar flare, tectonic instability, or resource panic). The climax is a desperate, city-wide effort to survive one final night — every past choice determines which districts stand with you when the lights start going out.

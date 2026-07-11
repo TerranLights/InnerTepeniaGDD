@@ -80,7 +80,7 @@ Polar night runs roughly April 17 to August 25 (~130 days); midnight sun roughly
 ## 7. Who This City Attracts
 
 - **The type this city draws:** astronomers, communications specialists, and their descendants, drawn from across Tepenia's own space-heritage nations — and, per the religious question, Ice Cold Buddhism devotees seeking the faith's holiest site. **Re-resolved 2026-07-06:** these are two genuinely compatible pulls now, not a contradiction — both are drawn by what Kunlun specifically *is* (the best observational/comms site on the continent, the closest approximation of the faith's venerated conditions), regardless of national origin.
-- **The type this city repels:** anyone without a genuine professional (astronomy/comms) or religious reason to be here — and, physiologically, anyone without extraordinary altitude tolerance or a robot chassis, given conditions at or beyond the ceiling of human habitation.
+- **The type this city repels:** anyone without a genuine professional (astronomy/comms) or religious reason to be here — and, physiologically, anyone without extraordinary altitude tolerance or a robot body, given conditions at or beyond the ceiling of human habitation.
 
 ---
 

@@ -54,7 +54,7 @@ A district that decided a very long time ago what life should look like, and has
 
 ### Cultural Texture
 - Showing up unannounced at a Taurus household is completely normal and expected. Doors are answered. Tea is produced. Refusing to answer your door signals that something is wrong with you, and the neighborhood will know within the day. This warmth mechanism doubles as informal surveillance.
-- Taurus keeps genealogies of robot family lines alongside human ones — which unit activated which, who serviced whose chassis across generations. A robot who has been in the same Taurus household for four generations has a social status that a newer, more capable model cannot match.
+- Taurus keeps genealogies of robot family lines alongside human ones — which unit activated which, who serviced whose frame across generations. A robot who has been in the same Taurus household for four generations has a social status that a newer, more capable model cannot match.
 - The cuisine is, by general consensus, the best in the city. Taurus developed extraordinary preserved food techniques out of necessity — fermentation, long-grain storage, layered stews that cook for days. A Taurus cook treats food as an argument that life is worth preserving.
 - Heirloom culture is intense. Specific objects carry genealogical significance across generations. A particular chair may be non-negotiable furniture in a tiny apartment because it was a grandparent's chair. Removing it would be equivalent to removing that person's presence.
 - Noise ordinances are fiercely maintained. "Quiet hours" are a real institution. Leo's festivals are a recurring source of inter-district conflict for this reason.

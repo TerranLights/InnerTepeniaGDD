@@ -344,7 +344,7 @@ class_name CharacterAppearance extends Resource
 @export var feet_slot: StringName = ""
 @export var accessory_slot: StringName = ""
 
-# Chassis colors and markings
+# Body colors and markings
 @export var primary_color: Color = Color.WHITE
 @export var secondary_color: Color = Color.GRAY
 @export var marking_pattern: int = 0
@@ -756,7 +756,7 @@ Build these systems in sequence. Each must be testable before the next begins.
 12. `TurnManager`: initiative, turn cycling
 13. `DamageCalculator` (C++): full DT/DR formula
 14. Basic attack flow (move → attack → damage → next turn)
-15. Armor and chassis system
+15. Armor and frame system
 16. `NODETargetingSystem`: body part selection, hit chance, cycle cost
 
 ### Phase 4 — Combat Depth

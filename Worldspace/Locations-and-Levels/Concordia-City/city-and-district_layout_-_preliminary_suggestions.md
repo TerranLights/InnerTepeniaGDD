@@ -61,7 +61,7 @@
 ### Gameplay Flavor: High-stakes environmental puzzles and moral decisions with city-wide consequences.
 
 ## 5. Ossuary Quarter
-### Atmosphere: Somber, reverent, hauntingly beautiful. Dim blue lighting, walls and pillars made of polished robot chassis fragments (“metal bones”), soft choral music, snow gently falling inside broken domes.
+### Atmosphere: Somber, reverent, hauntingly beautiful. Dim blue lighting, walls and pillars made of polished robot frame fragments (“metal bones”), soft choral music, snow gently falling inside broken domes.
 ### Key Locations:
 * The Grand Ossuary Cathedral
 * Memorial Gardens of the Fallen
@@ -157,7 +157,7 @@ tmosphere: Dimly lit, chaotic, neon-underlit tunnels and converted warehouses. C
 ### Primary Factions: Manufacturing Concord, Siligel Purists, Memory Weavers, Chorus of the Deep
 ### Trade-off Tension: Investing in breakthrough technology vs immediate survival of the current population.
 ### Quest Hooks:
-* Testing dangerous new robot chassis (you as the player character are a prototype)
+* Testing dangerous new robot frames (you as the player character are a prototype)
 * Ethical dilemmas involving experimental subjects
 * Recovering failed experiments that have gone rogue
 ### Gameplay Flavor: Puzzle-solving, science-oriented skill checks, and opportunities for permanent character upgrades.

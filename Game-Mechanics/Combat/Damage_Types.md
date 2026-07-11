@@ -68,7 +68,7 @@ Filling gaps for Inner Tepenia's specific setting beyond the BG3 baseline.
 
 ## Specialization Summary
 
-### Anti-Robot (Strong vs. Machines, Electronics, Chassis)
+### Anti-Robot (Strong vs. Machines, Electronics, Frames)
 
 These exploit electronics, conductive materials, logic/control systems, and physical structure.
 
@@ -76,7 +76,7 @@ These exploit electronics, conductive materials, logic/control systems, and phys
 |------|---------------|
 | EMP / Disrupt | Primary hard counter; fries circuits, disables/stuns robots |
 | Lightning | Overloads systems, arcing feedback into power sources |
-| Acid (Corrosive) | Degrades metal, plastics, chassis over time |
+| Acid (Corrosive) | Degrades the internal frame's metal and plastics over time |
 | Radiation | Damages sensors, memory/storage, electronics |
 | Plasma | Melts and disrupts contained systems and materials |
 | Neural / Interface | Hacks or overloads robot OS, causes control loss |
@@ -109,6 +109,7 @@ These exploit biology, cells, nerves, psychology, and soft tissue.
 | Force (Kinetic/Concussive) | Universal blunt trauma or shockwave damage |
 | Piercing | Good penetration against both armor and flesh |
 | Radiant (Laser/Coherent Energy) | Precision thermal/ionization; different secondary effects per target |
+| Nanotech / Molecular Disassembly | Dissolves organic bonds and robots' internal frames equally; armor-ignoring, precision-targets specific components on either |
 | Gravitic / Inertial | Crushing forces affect structures and bodies alike (if implemented) |
 
 *Cold and Fire/Thermal also have crossover potential in extreme environments.*
@@ -151,6 +152,7 @@ Where each damage type is most commonly found, acquired, or encountered.
 | Piercing | Aries, Pisces, Capricorn, Sagittarius |
 | Radiant (Laser/Coherent Energy) | Aquarius, Aries, Gemini, Capricorn |
 | Radiation | Aries, Aquarius, Capricorn, Scorpio |
+| Nanotech / Molecular Disassembly | Aquarius, Capricorn |
 | Gravitic / Inertial | Aquarius, Aries, Capricorn |
 
 ---
@@ -161,3 +163,49 @@ Where each damage type is most commonly found, acquired, or encountered.
 - District environments and power-grid choices amplify availability: destabilizing Aries increases Lightning/EMP/Radiation risks city-wide; favoring Aquarius floods the market with experimental gear
 - District armor augments provide player customization for specific resistances: industrial plating (Capricorn) strong vs. Acid/Corrosive; experimental dispersion (Aquarius) vs. Radiation/EMP
 - Mixed robot-and-human enemy groups reward adaptability; pure specialization works best in district-specific content
+
+---
+
+## Siphon (Resource Drain)
+
+Not a damage type in the BG3 sense — Siphon effects don't deal damage, they remove a resource directly from the target. A target reduced by Siphon isn't hurt in the traditional sense; they lose the capacity to act, sustain, or recover until the resource is restored. This is what gives Drain Weapons (see Weapon Category Cross-Reference below) their actual mechanical identity, rather than just borrowing Acid/Neural-Interface's numbers under a different name.
+
+**Coolant Siphon (Anti-Robot)** — draws coolant directly from a robot's system. Effects scale with coolant lost: reduced Engine (AP replenishment), forced shutdown at critical loss, restored via Glitch-Coolant or proper maintenance. In-world: coolant-siphon tools, corrosive/glitch-inducing agents — the core Drain Weapons kit.
+
+**Exposure Siphon (Anti-Human)** — draws body heat, hydration, and stamina; an Antarctic-specific human equivalent rather than a reskin of the robot version. Effects scale with loss: reduced AP, forced rest, restored via shelter, rest, or hydration. In-world: exposure-inducing tools and field-medicine extraction devices repurposed offensively.
+
+**Transfer vs. denial:** some Siphon effects are genuinely vampiric — the attacker regains AP/HP/charge from what's drained. Others are pure denial — the resource is destroyed or vented, not transferred. This is a meaningful variant axis within Drain Weapons rather than a single fixed behavior: a battlefield-salvage coolant siphon might feed the user directly, while a sabotage-oriented one just vents the target's coolant to deny them regeneration.
+
+---
+
+## Weapon Category Cross-Reference
+
+Ties Inner Tepenia's weapon category taxonomy — 7 conventional, 3 energy-adjacent, 3 Tepenia-original with no Fallout equivalent — to the damage types above. Every weapon the player finds ultimately deals damage through one or more of the types already defined; this is the index between "what you're holding" and "what it actually does."
+
+### Conventional
+
+| Category | Primary Type(s) | Notes |
+|---|---|---|
+| Small Guns | Piercing | Baseline sidearm damage; AP-round variants lean harder into Piercing's armor synergy. |
+| Long Guns | Piercing, Force | Rifles skew Piercing; shotgun-class long guns skew Force at close range. |
+| Heavy Weapons | Force, Piercing, Bludgeoning | Spans the widest range of any category by delivery mechanism — autocannons (Piercing), rocket/mass-driver ordnance (Force), concussive support weapons (Bludgeoning). |
+| Blunt Melee | Bludgeoning | Direct mapping, no crossover. |
+| Bladed Melee | Slashing, Piercing | Slashing for edged cuts, Piercing for thrusting/monofilament variants. |
+| Thrown/Explosives | Force, Piercing, Fire/Thermal | Force from the shockwave, Piercing from shrapnel, Fire/Thermal for incendiary variants specifically. |
+| Unarmed | Bludgeoning | Slashing if claw/blade-augmented (robot frame or cyberware), per the Outer Tepenia integrated-weapon note. |
+
+### Energy-Adjacent
+
+| Category | Primary Type(s) | Notes |
+|---|---|---|
+| Thermal Weapons | Cold, Fire/Thermal | The one category that runs both ends of a single axis — freeze-injectors on the Cold end, exothermic cutting tools on the Fire/Thermal end. |
+| Arc Weapons | Lightning, EMP/Disrupt | Doubles as Tepenia's "Tech weapon" archetype (Cyberpunk 2077 sense) — charge-hold for penetration, at the cost of the same Kunlun/Dome Fuji unreliability that already limits low-Arcanet regions. |
+| Cell-Fed Weapons | Plasma, Radiant | Energy-cell-fed weapons that run hot enough to cross into Plasma's "burn + arc" secondary effects at higher charge levels. |
+
+### Tepenia-Original
+
+| Category | Primary Type(s) | Notes |
+|---|---|---|
+| Structural Ordnance | Bludgeoning, Force, Gravitic/Inertial | Damage comes from the environment reacting, not the tool itself — the type mix reflects collapsing structure and displaced mass rather than a direct hit. |
+| Drain Weapons | Coolant Siphon, Neural/Interface, Acid | Coolant Siphon (see the Siphon section above) is Drain Weapons' real mechanical identity — a resource-transfer effect, not a damage type. Neural/Interface and Acid cover the glitch-inducing and corrosive variants that do deal conventional damage alongside the drain. |
+| Signal Weapons | EMP/Disrupt, Neural/Interface, Psychic/Neural | The only category that can meaningfully target humans (Psychic/Neural, per Cyberpunk-style quickhack effects — disorientation, sensory overload) and robots (EMP/Disrupt, Neural/Interface) through the same tool, just different payloads. |

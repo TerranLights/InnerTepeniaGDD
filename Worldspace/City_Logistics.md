@@ -157,7 +157,7 @@ Concordia is isolated but not completely cut off.
 - Highway maintenance depots
 - Eyes of Gold training grounds
 
-**Key industrial outputs:** Siligel, robot chassis and components, metal fabrication, highway maintenance equipment, construction materials.
+**Key industrial outputs:** Siligel, robot frames and components, metal fabrication, highway maintenance equipment, construction materials.
 
 **Research and experimental manufacturing** (Aquarius / The Labs):
 - Advanced Robotics Institute
