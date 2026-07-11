@@ -28,7 +28,7 @@ The single companion slot means each companion choice is a genuine commitment. T
 
 **Main game target: TBD — higher than originally estimated.** The pool should be large enough that multiple playthroughs feel genuinely different. Specific count to be established as character design work progresses.
 
-**Currently confirmed recruitable companions (12)** *(corrected 2026-07-10 — this list previously listed only the first 5, stale relative to the full romance-design table further down this document)*:
+**Currently confirmed recruitable companions (13)** *(corrected 2026-07-10 — this list previously listed only the first 5, stale relative to the full romance-design table further down this document; TCY-25 "Rui" added 2026-07-10)*:
 1. IT-068 "Flora"
 2. Favi della Torre
 3. Villena Hiresvett
@@ -41,6 +41,7 @@ The single companion slot means each companion choice is a genuine commitment. T
 10. FW-25 "Pink Lucy"
 11. Ayako Hayashi
 12. Lyuba Baranova
+13. TCY-25 "Rui"
 
 Additional recruitable companions to be designed. Some TBN characters may be recruitable; classification TBD per character.
 
@@ -232,6 +233,7 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 | Ayako Hayashi | Recruitable companion | Investigation ≥ 7, Humanity ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; Red Spiral medic; highest Investigation gate in the roster; see full design note below |
 | Lyuba Baranova | Recruitable companion | Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6 | TBD | 8w7 Sexual; silver-tongue / unarmed fighter; Aries; highest Nerve gate in the roster; see full design note below |
+| TCY-25 "Rui" | Recruitable companion | TBD | TBD | 9w1 Self-Pres; Scorpio transformation practitioner; confirmed recruitable 2026-07-10; thresholds pending Phase 3 personality design |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 
 Non-recruitable named NPCs confirmed romanceable: Majyao Bisyugota (design note below). Further NPC romance status decided per character during design.

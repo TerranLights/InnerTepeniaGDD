@@ -796,6 +796,7 @@ For the complete design rule, see `Game-Mechanics/Core-Mechanics/Companion_Syste
 | IT-068 [Flora] | Yes | Capricorn | Added to this table 2026-07-10 (previously missing despite a complete romance design in `Companion_System.md`); home territory confirmed in her own README, full home design TBD |
 | Ayako Hayashi | Yes | Leo | Added to this table 2026-07-10 (previously missing); home design fully developed — see her own README |
 | Lyuba Baranova | Yes | Aries | Added to this table 2026-07-10 (previously missing despite a complete romance design in `Companion_System.md`); home design fully developed — see her own README |
+| TBN [TCY-25 smoldering darkness Rui] | Yes | Scorpio | Added to this table 2026-07-10 — confirmed recruitable same day; home design not yet started |
 | Majyao Bisyugota | No — NPC | Taurus | Designed |
 | Kendra Heinrich | Yes | Capricorn (post-DLC 1, new lodgings) | Designed (settling-in mechanic — see README) |
 | Salagéa Aparast | Yes | DLC 5 territory | TBD — Phase 7 (post DLC 5) |

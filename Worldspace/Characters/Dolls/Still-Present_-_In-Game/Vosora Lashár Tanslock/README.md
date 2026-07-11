@@ -1,5 +1,7 @@
 # Character Summary
 
+**Deferred to Launch, 2026-07-10.** Co-located with Michelle Stanton in Gemini/Beat 4 of the revised main quest; rather than having both Gemini companions present in Early Access, Vosora's own recruitment and questline become Launch content. **Early Access substitution:** a discoverable data-stash of her own investigation notes, placed somewhere in Gemini, continues the Great Corruption breadcrumb trail toward wherever it leads, without Vosora herself appearing as a live NPC. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`.
+
 ## Vosora Lashár Tanslock
 
 **Role / Archetype:** Data recovery specialist; Great Corruption investigator

@@ -1,5 +1,7 @@
 # Character Summary
 
+**Confirmed 2026-07-10: locked in as one of the Early Access companions.** Taurus/Beat 2 sits on the revised main quest's critical path, and her Type 6 sniper/field-operative archetype doesn't overlap with any other confirmed Early Access companion. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`'s own "Tentative Early Access Companions" section for the remaining, still-open slot.
+
 ## Favi della Torre
 
 **Role / Archetype:** Community security anchor; neighborhood intelligence keeper

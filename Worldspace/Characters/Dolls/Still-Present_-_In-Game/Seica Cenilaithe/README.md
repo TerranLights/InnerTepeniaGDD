@@ -1,5 +1,7 @@
 # Character Summary
 
+**Deferred to Launch, 2026-07-10.** Was one of two candidates for the Early Access roster's final "Type 8" slot (alongside Lyuba Baranova, also 8w7); lost out once TCY-25 "Rui" (9w1, also Scorpio) was confirmed recruitable the same day — Scorpio's own companion representation now lands as a Launch-era pairing of the two of them (8w7 + 9w1) rather than splitting across Early Access and Launch. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`.
+
 ## Seica Cenilaithe
 
 **Role / Archetype:** Goth community member; artist; spiritual practitioner; occupation TBD

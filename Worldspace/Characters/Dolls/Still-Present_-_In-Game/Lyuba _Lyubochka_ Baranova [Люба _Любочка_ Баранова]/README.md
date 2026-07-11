@@ -1,5 +1,7 @@
 # Character Summary
 
+**Confirmed 2026-07-10: locked in as one of the Early Access companions**, filling the final "Type 8" slot over Seica Cenilaithe. Aries (Beat 8, the Power Core) has no district overlap with any other confirmed or pending companion, which made her the cleaner Early Access pick once Seica's own district (Scorpio) ended up shared with the newly-confirmed TCY-25 "Rui." See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`.
+
 ## Lyuba "Lyubochka" Baranova / Люба "Любочка" Баранова
 
 **Role / Archetype:** Silver-tongue / Unarmed fighter / Protector

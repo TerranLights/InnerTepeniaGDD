@@ -5,7 +5,8 @@
 **Role / Archetype:** Scorpio transformation practitioner; smoldering-darkness contemplative
 **Primary Location(s):** Scorpio (Psychological/Transformative district)
 **Affiliation(s):** Scorpio transformation community; Goth subculture (philosophical wing)
-**Companion Potential:** Undecided
+**Companion Potential:** Yes — confirmed recruitable, 2026-07-10
+**Romance Potential:** Yes — confirmed romanceable (all recruitable companions are romanceable by default, per `Companion_System.md`); stat/trait thresholds TBD pending Phase 3 personality design
 
 ## Core Identity
 **Activation Date & Origin:** TBD

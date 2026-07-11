@@ -1,5 +1,7 @@
 # Character Summary
 
+**Confirmed 2026-07-10: locked in as one of the Early Access companions**, replacing IT-068 "Flora" in that slot. She's already the single most guaranteed-to-meet character in the base roster — the revised main quest beat structure (`Main_Quest_Revised_Beat_Structure_TENTATIVE.md`, Beat 4) makes her structurally necessary to diagnose the grid crisis's own data-corruption layer, not just incidentally nearby — so her presence in Early Access costs nothing in critical-path exposure while resolving Flora's own near-identical personality/job overlap with her. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`'s own "Tentative Early Access Companions" section for the remaining, still-open Early Access slots.
+
 ## Michelle Stanton
 
 **Role / Archetype:** Data archaeologist / verification specialist; Janbogo counter-culture anchor

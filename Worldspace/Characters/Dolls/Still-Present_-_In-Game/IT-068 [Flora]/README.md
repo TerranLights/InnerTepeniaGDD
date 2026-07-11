@@ -1,6 +1,6 @@
 # Character Summary
 
-**Confirmed 2026-07-10: locked in as one of the Early Access companions.** Her structural position — likely the very first recruitable companion the player meets at all, assuming the player follows Calethina's own early lead — was reason enough to confirm her on its own. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`'s own "Tentative Early Access Companions" section for the remaining, still-open Early Access slots.
+**Revised 2026-07-10: deferred to Launch, not Early Access.** Briefly confirmed for Early Access the same day, then reversed — Flora and Michelle Stanton read as near-identical in personality and job, and rather than reworking either, the developer chose to stagger them instead. Flora's own recruitment scene (the Thermal Distribution Junction 12 diagnostic, tied to Calethina's likely opening task) is replaced in Early Access by a non-recruitable human NPC leading the same repair crew; Flora's version of that scene, and her recruitment, become Launch content. She remains the likely first recruitable companion met at all in the full Launch release. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`'s own "Tentative Early Access Companions" section.
 
 ## IT-068 / "[Flora]" (placeholder name — permanent name TBD)
 
