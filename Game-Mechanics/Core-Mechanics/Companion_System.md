@@ -77,9 +77,17 @@ Majyao runs her teahouse and does not leave it. She cannot be recruited as a com
 
 This applies to companion presence only. Items or technology *obtained from* a companion before DLC entry (e.g., a portable device given by Ji-Eun Kim) are unaffected — the player carries those in on any run, companion or not.
 
----
+### DLC-Native Companions Are Always Optional to Recruit — Binding Rule, Established 2026-07-10
 
-## Romance System
+The rule above governs bringing an *outside* companion into a DLC. This is a separate, complementary rule governing a DLC's own *native* companion — the one recruitable character who lives in, or is otherwise tied to, that specific DLC's own region (Maggie Aarden in DLC 2/Byrd, Salagéa Aparast in DLC 5/Halley, "Charlene"/XT-17 in DLC 7/Mirny, Kendra Heinrich in DLC 1, and the still-undesigned native companions for DLC 3/Palmer, DLC 4/Mawson, and DLC 6/Janbogo).
+
+**Every DLC must be fully completable, start to finish, either with or without its own native companion recruited.** At whatever point in the DLC that companion first becomes recruitable, the player must always have an explicit option to decline — "I don't really feel like traveling with anybody" — and continue the entire DLC, main questline and side content alike, without her. No DLC's own critical path may require that companion's presence, abilities, or dialogue to progress.
+
+**Declining recruitment is never a permanent lockout.** Provided the player has not caused that companion (or her closely-associated NPCs/factions) to turn hostile during the DLC, she remains recruitable after the DLC's own completion — exactly as if the player had simply chosen to recruit her later rather than not at all. This mirrors the existing Companion Slot Rules' own hostility exception (see above: "re-recruiting a dismissed companion is always available unless a specific story event has permanently changed their status") — the same standard applies here to a companion never recruited in the first place.
+
+**This applies uniformly across all 7 DLCs, including DLC 1 ("Echoes of Amundsen").** Kendra Heinrich's own case works slightly differently in form but identically in principle: since she is the person the player is finding/rescuing rather than someone who joins mid-mission, the decline option applies at whatever point the game would otherwise offer her as a companion (per her own Romance Design's Gate 1/Gate 2 structure, above) — a player can complete DLC 1 in full without ever bringing Kendra into the active party, and she remains recruitable afterward under the same hostility exception.
+
+**Design consequence:** no DLC's own central questline, environmental puzzle, or crisis resolution may be written to assume the player has that DLC's own companion active. Any content that meaningfully benefits from her presence (dialogue, a skill check she can assist with, a scene that plays differently with her along) must have a non-companion equivalent path available on the same playthrough.
 
 ### Scope
 

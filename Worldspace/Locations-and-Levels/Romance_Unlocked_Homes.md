@@ -264,6 +264,8 @@ Homes in this file are accessible only by romancing the associated character. Th
 
 Each of the 6 subnet DLCs (2-7) reserves space for one recruitable, romanceable companion and her own personal companion home, unlocked upon completing her romance questline — a standing design rule established 2026-07-10, cross-referenced in each DLC's own entry in `Storyline/DLC_Overview.md` and in the Romance-Unlocked Homes table in `Player_Homes.md`. None of the six are designed yet; the stubs below exist so the slot isn't lost, not to lock in any detail ahead of that DLC's own actual development.
 
+**Binding rule, also established 2026-07-10 — recruiting every one of these six companions is optional, in every DLC (including DLC 1):** each DLC must be fully completable with or without its own native companion recruited, declining is never a permanent lockout, and she remains recruitable after the DLC's completion unless the player has caused her (or closely-associated NPCs/factions) to turn hostile. See `Game-Mechanics/Core-Mechanics/Companion_System.md`, "DLC-Native Companions Are Always Optional to Recruit," for the full rule.
+
 ### Maggie Aarden — DLC 2 / Byrd *(confirmed companion; home not yet designed)*
 
 Confirmed recruitable and romanceable companion (`Characters/Dolls/Still-Present_-_In-Game/Maggie Aarden/`), settled permanently in Byrd — **confirmed canonical, 2026-07-10.** Her companion home has no design at all yet — likely to draw on Byrd's own established underground, mechanized-fabrication character (see `Cities/City_Megasheets/Byrd_Subnet/Byrd/`) once it's picked up, consistent with how every other companion home in this file reflects its own city or district's defining texture.

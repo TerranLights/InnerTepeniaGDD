@@ -76,6 +76,12 @@ Old World Blues, Lonesome Road):
 
 ---
 
+## Recruiting Each DLC's Own Native Companion Is Always Optional *(binding rule, established 2026-07-10)*
+
+Every DLC below (DLC 1 included) reserves space for one recruitable, romanceable companion native to that DLC's own region. **Recruiting her is never mandatory.** At whatever point she first becomes recruitable, the player must always be able to decline and continue the entire DLC, main questline and side content alike, without her. Declining is never a permanent lockout — provided the player hasn't caused her (or closely-associated NPCs/factions) to turn hostile, she remains recruitable after the DLC's own completion. Full rule: `Game-Mechanics/Core-Mechanics/Companion_System.md`, "DLC-Native Companions Are Always Optional to Recruit." See each DLC's own "Recruitable/romanceable companion" line below for that DLC's current status.
+
+---
+
 ## DLC 1 — South Pole
 **Working title (possible):** "Echoes of Amundsen" *(floated — not yet confirmed canon)*
 **Arcanet subnet:** Inter-subnet relay (neutral — not assigned to any subnet)
