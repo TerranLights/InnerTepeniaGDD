@@ -103,6 +103,21 @@ level short of a perk they'd otherwise have earned.
 
 ---
 
+#### What Happens on Level-Up *(established 2026-07-10 — deliberate divergence from Fallout: New Vegas)*
+
+**Fallout: New Vegas model (rejected here):** the moment the player levels up, they are dropped straight into the level-up screen and required to immediately choose a perk (and, in some Fallout titles, immediately allocate skill points) before returning to play. The choice can't be deferred.
+
+**Inner Tepenia's model:** leveling up splits into two categories that behave differently:
+
+- **Automatic, immediate effects** — anything that isn't a meaningful choice happens the instant the level-up triggers, no player input required: HP increase, and any other flat level-based character effects (e.g. Environmental Resistance +n%). These aren't decisions, so there's no reason to gate them behind a menu visit.
+- **Skill points and perks — banked, not forced.** The player accumulates skill points (per the formula in `Character-Creation/Skills.md`) and earns a perk slot every 2 levels (per `Perks/Regular_Perks_-_Level-Up.md`), but nothing requires spending them the moment they're earned. They simply sit there, available, until the player chooses to open the relevant menu and spend them — mid-quest, back at a home base, or twenty levels later, entirely at the player's own pace.
+
+**Why:** this is one of the very few deliberate departures from the binding Fallout Precedence Law ([[feedback_fallout_precedence_law]]). Forcing an immediate perk choice interrupts whatever the player is doing (combat aftermath, a tense dialogue, mid-exploration) for a decision that often benefits from more information — what the player is about to face, what companion or questline is coming up, what build direction actually makes sense once they've seen more of the game. Letting points and perks bank removes that interruption entirely without changing the underlying progression math.
+
+**How to apply:** any future UI/flow design for leveling up should never force the player into a mandatory allocation screen. The level-up moment itself should be near-invisible except for the automatic effects; perks and skill points remain visible/available in their respective menus (however those end up designed) whenever the player wants to engage with them.
+
+---
+
 #### Open Questions
 
 - **Exact formula** for how gate-checks scale into the quest-completion lump sum,
