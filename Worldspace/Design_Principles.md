@@ -677,3 +677,23 @@ Currently flagged post-romance beats:
 - **Lyuba Baranova:** The literature wall; the paper books (provenance of pre-exile Earth originals as an opening into her past)
 
 Additional companions: TBD as romance designs are developed. Not every companion is required to have a post-romance mini-questline — only those whose character and backstory naturally support this layer.
+
+---
+
+## IV. Unmarked Discovery Content — The Cradle Precedent *(binding principle, established 2026-07-10)*
+
+### The Rule
+
+**The Cradle — the nationwide fabrication-synthesis-chamber network, its full history, its design lineage, and its connection to the player character's own origin — must never be implemented as a quest, of any size, in any DLC or the main game.** No marked quest. No unmarked-but-tracked quest. No journal entry, no map marker, no XP, no quest-log listing of any kind. It is not an in-game feature — it is background lore, existing purely for a sufficiently diligent, patient, and curious player to piece together entirely through optional means (environmental storytelling, incidental dialogue, item and terminal descriptions, cross-referenced observation across multiple locations), with no game system ever pointing the player toward it or rewarding its discovery mechanically.
+
+**Fallout: New Vegas precedent (binding):** modeled directly on FNV's own unmarked quests — content with no Pip-Boy listing, no map marker, and no XP reward, discoverable only by players who go looking without being told to. Inner Tepenia's own treatment of the Cradle goes one step further than FNV's own unmarked quests: it isn't tracked as an unmarked quest in the game's own systems at all. It's simply true, sitting in the world, for whoever finds it.
+
+**What this does and doesn't restrict:** this rule governs the Cradle as a piece of *cross-regional lore* — its full nationwide shape, its historical design lineage, and especially its link to the player character's own creation. It does not restrict ordinary regional questlines that happen to involve chamber-manufacturing infrastructure at a purely local, in-DLC scale (a threat to one city's own manufacturing capacity, for instance, is legitimate quest material on its own city-level terms). What must never happen is treating the wider network itself — the fact that it connects Neumayer's design work, Byrd's and Soyuz's active manufacturing, Denison's and Mountain Pass's historical manufacturing, the Amundsen Tower's collapse, and the player's own body into one continuous system — as a directed, marked, or XP-rewarding quest objective anywhere in the game.
+
+### Why
+
+The reward for the player here isn't a perk, an item, or a stat boost. It's the reward itself: understanding something true and enormous about the world that the game never told them to go find. This is the same design register as the Significant Object reward in Section III above — a thing given because a certain depth of engagement was reached, not because a checklist was completed — extended here to a piece of world-lore rather than a companion relationship. Making the Cradle a tracked quest, however minor, would convert the single largest-scale, widest-reaching piece of lore in the entire game into a checklist item. Leaving it unmarked keeps it what it's actually meant to be: a reward for diligence, patience, and curiosity, available only to the player who exercises those things without being asked to.
+
+### Application
+
+This principle is a template, not a one-off exception — any future piece of lore this large, this cross-regional, or this personally connected to the player character should default to the same unmarked treatment unless there's a specific reason to do otherwise. See `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` and the Cradle-related memory/TODO entries for the underlying lore this principle protects.

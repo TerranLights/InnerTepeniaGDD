@@ -51,6 +51,8 @@ This is distinct from the earlier `project_concordia_consistency_audit` pass (20
 
 **Future task flagged 2026-07-10 — a full, elaborated nationwide Cradle network model.** Surfaced during the Mirny Subnet Ultra-Megasheet, which traced this network's own thread directly into the player character's own origin (Vostok/Kunlun's Mountain Pass venture → the specific chamber in Calethina's lab). Developer explicitly confirmed enthusiasm for a dedicated future pass extrapolating, elaborating, and fleshing out the network's full nationwide shape — framed as "a huge benefit to the game's lore and player discovery." Not started; reserved for a dedicated future session, in the same vein as the Orbital Composition task below. Likely scope: a proper name for Mountain Pass (still outstanding), resolving Zhongshan's/Sanay's/Belgrano's own still-open manufacturer candidacy, and possibly a dedicated `Cradle_Network.md` reference file consolidating the network's full shape rather than leaving it scattered across each subnet's own City Megasheets and Ultra-Megasheets.
 
+**Binding constraint on all of the above, established 2026-07-10:** none of this may ever become an actual quest, marked or unmarked-but-tracked, in any DLC or the main game — no journal entry, no map marker, no XP, regardless of how elaborate this future pass makes the network's own lore. See `Design_Principles.md` Section IV ("Unmarked Discovery Content — The Cradle Precedent") for the full rule. The Cradle stays pure, optional, undirected background lore — a reward for player diligence and curiosity, not a game feature.
+
 ---
 
 ## Belgrano's Wartime Status — Still Genuinely Open
