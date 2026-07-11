@@ -4,6 +4,8 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 
 **Progress: 35 / 35 — ALL CITIES COMPLETE** (plus Amundsen Station, tracked separately below)
 
+**2026-07-10: the entire chain is now complete, top to bottom.** 35 cities → 6 Subnet Ultra-Megasheets (5 proper + Byrd standing in for its own single-city subnet) and Concordia's own 13-district Ultra-Megasheet → one final **Super-Ultra-Megasheet**, synthesizing all of it into a single whole-game reference. See `Locations-and-Levels/Super_Ultra_Megasheet/README.md` — flagged **TENTATIVE**, pending Byrd's own still-undetermined DLC 2 main questline.
+
 ---
 
 ## Palmer Subnet (8/8) — COMPLETE, plus Subnet Ultra-Megasheet
