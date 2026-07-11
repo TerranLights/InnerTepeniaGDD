@@ -14,7 +14,7 @@ The player-character can acquire and use player homes across Concordia's distric
 
 ## Standard Homes — Structure
 
-Each district offers **four tiers** of player home:
+Each district (except District 13) offers **five tiers** of player home:
 
 | Tier | Acquisition Difficulty | Notes |
 |------|----------------------|-------|
@@ -22,8 +22,9 @@ Each district offers **four tiers** of player home:
 | 2 — Mid-tier | Moderate | Regular contribution + faction standing |
 | 3 — Established | Moderate to high | Strong loyalty; often quest-locked or quest-upgraded |
 | 4 — Prestige | High; heavily quest-gated | Multi-stage questline required; unique rewards |
+| 5 — Idolized Gift | Not purchasable or quest-locked | Given outright upon reaching Idolized reputation with the district — a genuine gift, not an achievement to unlock |
 
-All homes are available by **purchase, quest completion, or a combination of both.**
+Tiers 1-4 are available by **purchase, quest completion, or a combination of both.** Tier 5 is categorically different: it cannot be bought, bargained for, or earned through any single quest — it's bestowed by the district's own people once the player's reputation reaches Idolized status, and each one is written to feel like a community's own act of gratitude rather than another trial to clear.
 
 ---
 
@@ -79,6 +80,16 @@ Cancer homes emphasize safety, emotional warmth, communal bonds, and quiet resil
 
 ---
 
+### 5. The Held Hearth *(Idolized Gift)*
+
+**Feel:** Warm and unpolished in a way nothing else in the district is. Not built for the player — built *by* the caregivers and creche children themselves, room by room, with mismatched furniture donated from a dozen different families and one wall the youngest residents were allowed to paint on their own. It is, deliberately, the least "impressive" home in Cancer, and the only one that could never have been purchased at any price.
+
+**Proximity:** Wherever the community decides it should be — often adjacent to whichever creche or care circle the player spent the most time with, since the gift is personal to the relationships that produced it.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Cancer reaches Idolized, the caregivers and children simply decide, without being asked, that the player belongs among them — and build accordingly.
+
+---
+
 ## District 2 — Taurus
 
 Taurus homes emphasize stability, material comfort, self-sufficiency, and long-term security. They feel like hard-earned, well-insulated personal fortresses within family rings and residential clusters. Upgrades focus on better heating, storage, and defensive insulation rather than flashy luxuries. Acquiring them rewards consistent reliability, resource contribution, and respect for established families.
@@ -128,6 +139,16 @@ Taurus homes emphasize stability, material comfort, self-sufficiency, and long-t
 **Difficulty:** High. Requires major reputation grinding, substantial resource donations during crises, and proven long-term reliability.
 
 **Quest lock:** Yes. Only accessible after completing a complex, multi-stage questline proving deep loyalty to Taurus stability — such as exposing and stopping a large-scale resource sabotage plot, helping establish a major new family ring, or resolving a generational conflict that threatened the entire district's self-sufficiency. Rewards can include unique defensive upgrades, private siligel cache, or influential NPC allies.
+
+---
+
+### 5. The Adopted Hearthstone *(Idolized Gift)*
+
+**Feel:** Rooted and unguarded. The family councils formally induct the player into the ring's own bloodline-adjacent status — not marriage, not employment, but the closest thing Taurus has to being born into a family after the fact. A modest home inside the oldest, most established ring, with a place already set at the ring's own shared table before the player ever moves in. Noticeably less fortified than the Old-Timer's Annex — the point here isn't defense, it's belonging.
+
+**Proximity:** Inside the ring's own innermost residential core, alongside the families who granted it, not at its defensible edge.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Taurus reaches Idolized, the family councils vote — quietly, without ceremony — to treat the player as kin.
 
 ---
 
@@ -183,6 +204,16 @@ Leo homes emphasize radiance, spectacle, self-expression, and public prestige. T
 
 ---
 
+### 5. The People's Stage *(Idolized Gift)*
+
+**Feel:** Beloved rather than famous. A neighborhood venue — never Leo's grandest — gets quietly, permanently renamed after the player by popular vote, with modest lodgings built into its upper floor. Where the Radiant Apex Penthouse is built to be seen from everywhere, this home is cherished specifically by the people who live near it. The gift isn't fame; it's the difference between being a legend and being *someone's* legend.
+
+**Proximity:** Above a genuinely local venue, in a residential pocket rather than a prestige district, close to the same neighbors who voted for the renaming.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Leo reaches Idolized, a local venue's own regulars simply start calling it by the player's name — and eventually make it official.
+
+---
+
 ## District 4 — Scorpio
 
 Scorpio homes emphasize depth, transformation, intimacy with shadow, and rebirth. They feel intense, private, and psychologically charged — spaces for confronting truths, shedding old selves, and emerging changed. Acquisition rewards willingness to engage with taboo subjects, endure personal trials, and demonstrate loyalty to the district's unflinching pursuit of truth and renewal.
@@ -232,6 +263,16 @@ Scorpio homes emphasize depth, transformation, intimacy with shadow, and rebirth
 **Difficulty:** High. Demands exceptional reputation, willingness to endure personal trials, and major contributions to the district's work.
 
 **Quest lock:** Yes. Only accessible after completing a complex, multi-stage questline proving profound loyalty to Scorpio's principles — descending into a dangerous collective shadow crisis affecting multiple patients, orchestrating a district-wide "great rebirth" event, or making a personally costly choice that reveals or buries a transformative truth with city-wide implications. Rewards include unique ritual upgrades, personal shadow NPC companion options, or story-significant identity-altering boons.
+
+---
+
+### 5. The Communion of Sheddings *(Idolized Gift)*
+
+**Feel:** Quiet and reverent rather than commanding. Assembled without ceremony from what past devotees left behind after their own completed rebirths — objects, recordings, discarded names — each piece given by someone the player personally helped through their own transformation, entrusted rather than earned through any single trial. Where the Abyss Watchtower is feared and respected, this home is simply *trusted*, which in Scorpio's own terms is the rarer and heavier gift.
+
+**Proximity:** Near the Archive of Final Confessions, but set apart from it — a private space assembled from personal offerings, not district infrastructure.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Scorpio reaches Idolized, former patients the player helped begin, unprompted, leaving pieces of their old selves behind for them.
 
 ---
 
@@ -287,6 +328,16 @@ Aries homes emphasize raw power, resilience, heroism, and functional toughness. 
 
 ---
 
+### 5. The Everburning Line *(Idolized Gift)*
+
+**Feel:** Unglamorous on purpose. A decommissioned but still-humming section of the grid's own old infrastructure, retrofitted into a home by off-shift workers on their own time, with a length of conduit informally renamed after the player by the crews themselves. No ceremony, no plaque — just workers who decided, bluntly and without sentiment, that the player is one of them now. Consistent with Aries' own "we do what must be done" ethos: the gift doesn't perform gratitude, it just is some.
+
+**Proximity:** Deep in the working pipe network, among the crews who built it, not in any prestige zone.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Aries reaches Idolized, the shift crews simply start doing the retrofit work on their own time, unasked, and hand over the keys when it's done.
+
+---
+
 ## District 6 — Capricorn
 
 Capricorn homes emphasize discipline, ambition, merit, and long-term craftsmanship. They feel like fortified workshops, spires, or production-adjacent residences — structured, efficient, and built to last. Acquiring them rewards consistent output, technical skill, and loyalty to the district's meritocratic ideals.
@@ -336,6 +387,16 @@ Capricorn homes emphasize discipline, ambition, merit, and long-term craftsmansh
 **Difficulty:** High. Requires exceptional reputation, major proven contributions (large-scale projects, process innovations, or resource breakthroughs), and significant investment in the district's infrastructure.
 
 **Quest lock:** Yes. Only accessible after completing a complex, multi-stage questline cementing the player as a Capricorn leader — successfully delivering a district-critical megaproject under extreme pressure, resolving a major conflict between efficiency and worker safety, or making a high-stakes decision that secures long-term industrial dominance. Rewards include unique fabrication upgrades, private project oversight tools, or influential NPC allies in the merit hierarchy.
+
+---
+
+### 5. The Guild's Gift *(Idolized Gift)*
+
+**Feel:** A literal collective build. Every major workshop in the district contributes one finished room, each built to that team's own exacting standard, assembled into a single home as the guild's own consensus verdict that the player has met its measure. Unlike the Master Builder's Apex — earned through singular achievement — this home exists because dozens of separate people, independently, decided the same thing about the player at once.
+
+**Proximity:** Wherever the contributing workshops happen to have space, often stitched together from adjacent lots rather than built as a single planned structure.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Capricorn reaches Idolized, workshop after workshop volunteers a room, unprompted, until the home is complete.
 
 ---
 
@@ -391,6 +452,16 @@ Aquarius homes emphasize innovation, eccentricity, collective ideals, and radica
 
 ---
 
+### 5. The Commons Prototype *(Idolized Gift)*
+
+**Feel:** Never finished, on purpose. Co-designed by whoever in the district happens to be inspired that week, changing slightly over time as different collectives keep quietly adding new experimental features without asking permission. The gift isn't a completed structure — it's permanent inclusion in the district's own restless, ongoing act of collective imagination.
+
+**Proximity:** Embedded among the district's own collaborative innovation hubs, in flux along with everything else nearby.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Aquarius reaches Idolized, the collectives simply start treating the player's home as a shared canvas — and never really stop.
+
+---
+
 ## District 8 — Libra
 
 Libra homes emphasize elegance, procedural order, balanced neutrality, and political access. They feel refined, symmetrical, and quietly influential — spaces designed for diplomacy, record-keeping, and measured living. Acquiring them rewards careful negotiation, adherence to (or strategic bending of) protocol, contributions to city-wide stability, and demonstrated loyalty to the ideals of fairness and central authority.
@@ -440,6 +511,16 @@ Libra homes emphasize elegance, procedural order, balanced neutrality, and polit
 **Difficulty:** High. Requires exceptional reputation, masterful diplomatic achievements, and significant contributions to city-wide stability and procedural integrity.
 
 **Quest lock:** Yes. Only accessible after completing a complex, multi-stage questline cementing the player as a Libra pillar — single-handedly preventing a full inter-district crisis, orchestrating a landmark city-wide accord, or making a difficult impartial judgment that reshapes power dynamics while upholding core principles of balance. Rewards include private high-level diplomatic channels, elite security protocols, unique archive privileges, or influential NPC allies across all districts.
+
+---
+
+### 5. The Seat of Trust *(Idolized Gift)*
+
+**Feel:** Granted, not earned through negotiation. The Council formally provides a residence adjoining its own chambers — not through appointment or treaty, but through ceremonial recognition that the player has become someone every faction trusts to be fair. Distinct from the Apex Arbiter's Sanctum, which is earned through masterful negotiation: this one arrives specifically because the player stopped needing to negotiate for it.
+
+**Proximity:** Directly adjoining the Council's own chambers, an honor no purchased or quest-earned home in the district can match.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Libra reaches Idolized, the Council votes, unanimously and without debate, to make it official.
 
 ---
 
@@ -495,6 +576,16 @@ Gemini homes emphasize duality, rapid information flow, adaptability, and intell
 
 ---
 
+### 5. The Open Door *(Idolized Gift)*
+
+**Feel:** Granted specifically by the Janbogo- and Zukelli-descended refugee community — the district's own founding population extending the same absorption-culture hospitality the real Janbogo is famous for, this time to the player. A home with a door that, by informal but absolute communal agreement, is never locked to anyone the player calls a friend. The gift isn't the home itself — it's being folded into the one tradition this refugee community brought with them and never let go of.
+
+**Proximity:** Within the refugee-descended residential clusters, close to the community that granted it.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Gemini reaches Idolized, the Janbogo/Zukelli community simply starts treating the player as one of their own — and the door follows.
+
+---
+
 ## District 10 — Pisces
 
 Pisces homes are fluid, seductive, and deeply entangled with the gray and black economies. They feel permeable, hidden, and intoxicating — places where rules dissolve, identities blur, and secrets (and goods) flow freely. Acquiring them rewards participation in smuggling, vice trades, dream networks, and quiet acts of compassion or exploitation.
@@ -544,6 +635,16 @@ Pisces homes are fluid, seductive, and deeply entangled with the gray and black 
 **Difficulty:** High. Requires exceptional reputation across criminal, spiritual, and smuggling networks plus major contributions (rare pre-war tech, high-value shipments, or political protection).
 
 **Quest lock:** Yes. Only accessible after completing a complex, multi-stage questline establishing the player as a Pisces power player — successfully navigating or triggering a major syndicate succession war, mastering and deploying a dangerous new dream-tech that shifts power balances, or brokering a high-stakes alliance that brings critical resources into the district while evading Libra enforcement. Rewards include elite concealment tech, private high-volume smuggling routes, influential NPC patrons/allies, or unique identity/dream-altering boons.
+
+---
+
+### 5. The Unspoken Sanctuary *(Idolized Gift)*
+
+**Feel:** Not a home the syndicates and dreamworkers built — a home they collectively, silently agreed to leave alone. No enforcer, no fixer, no rival ever touches it, and nobody ever explains why; the arrangement simply exists because enough of the district's fluid, competing powers happen to agree on this one thing. Consistent with Pisces' own ethos: even its gifts operate on trust nobody states out loud.
+
+**Proximity:** Anywhere in the district — its defining feature isn't location, it's the fact that every faction's own territorial claims quietly exempt it.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Pisces reaches Idolized, the district's competing powers simply stop contesting the space — an agreement that exists everywhere and is stated nowhere.
 
 ---
 
@@ -599,6 +700,16 @@ Sagittarius homes emphasize rugged self-reliance, adventurous spirit, philosophi
 
 ---
 
+### 5. The Named Place *(Idolized Gift)*
+
+**Feel:** The frontier community holds an old tradition of naming a genuinely new discovery after whoever found it — and extends it here, gifting the player a homestead at a site the player themselves helped chart, with the settlement's own maps now permanently recording the location under the player's name. Distinct from the Expedition Apex, which is built for command and leadership: this is a quieter honor, closer to being remembered than being obeyed.
+
+**Proximity:** At the actual charted site itself, wherever that happens to be — genuinely remote, by the nature of the honor.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Sagittarius reaches Idolized, the community simply starts using the player's name for the place — and the maps follow.
+
+---
+
 ## District 12 — Virgo
 
 Virgo homes emphasize precision, quiet dedication, functionality, and humble perfectionism. They feel orderly, meticulously maintained, and deeply integrated into the city's hidden systems — spaces where everything has its place and nothing is wasted. Acquiring them rewards reliability, attention to detail, long-term service, and loyalty to the district's ethos of keeping everything running smoothly.
@@ -648,6 +759,16 @@ Virgo homes emphasize precision, quiet dedication, functionality, and humble per
 **Difficulty:** High. Requires exceptional reputation, groundbreaking contributions to infrastructure stability, and proven long-term service.
 
 **Quest lock:** Yes. Only accessible after completing a complex, multi-stage questline cementing the player as a Virgo legend — single-handedly preventing a catastrophic city-wide failure caused by Aries overclocks, Aquarius experiments, or Pisces tampering; redesigning and implementing a major efficiency upgrade across multiple districts; or making a difficult choice that prioritizes long-term structural integrity over short-term political pressure. Rewards include private master-level diagnostic access, elite repair drones/tools, or influential NPC allies among the backbone crews that keep Concordia alive.
+
+---
+
+### 5. The Quiet Gift *(Idolized Gift)*
+
+**Feel:** The least visible gift in all of Concordia. The maintenance network simply, wordlessly reroutes resources so that the player's home becomes the best-functioning, most efficient dwelling in the district — better climate control, better diagnostics, better everything — without a single conversation ever confirming it happened. Perfectly in character for a district whose highest form of respect is never announcing it.
+
+**Proximity:** Wherever the player's existing home already is — the gift upgrades it in place rather than relocating them.
+
+**How it's granted:** Not bought, not quested for. Once the player's reputation with Virgo reaches Idolized, the crews simply start quietly improving the player's own home during routine rounds — and never mention it.
 
 ---
 
