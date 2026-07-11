@@ -31,6 +31,21 @@ These are the cleanest, most easily justified Launch-exclusive items, because th
 
 **Still open:** which 3-4 companions make up that Early Access subset. Worth choosing from among the characters whose romance designs are already most complete in `Game-Mechanics/Core-Mechanics/Companion_System.md` and `Design_Principles.md` (as of 2026-07-10, this includes at minimum Favi della Torre, Villena Hiresvett, Naizelle d'Edjordoś, Seica Cenilaithe, Ji-Eun Kim, Vosora Lashár Tanslock, Michelle Stanton, Fenny, Flora, Pink Lucy, Ayako Hayashi, and Lyuba Baranova — all already have full romance designs written), but the actual selection is a separate decision, not made here.
 
+### Tentative Early Access Companions — shortlist, not a decision, established 2026-07-10
+
+Cross-referenced the full base-game roster against the main quest's own current beat structure (`Storyline/Main-Story/Main_Story-Hook_Progression.md`), which is explicit that the story routes the player through nearly every district before the climax, with Leo called out by name as "entirely optional/side content" and Libra never given its own beat at all. Companions whose home district sits on that critical path, and whose own design doesn't flag them as deliberately hard to find, are the players most likely to organically meet a companion candidate during a first playthrough — which makes them the natural shortlist to draw the eventual 3-4 Early Access companions from:
+
+- **IT-068 "Flora"** — Capricorn (Beat 2; her own file frames her as an early guide to that district)
+- **Favi della Torre** — Taurus (Beat 1, the actual starting district)
+- **Seica Cenilaithe** — Scorpio (Beat 4)
+- **Vosora Lashár Tanslock** — Gemini (Beat 5)
+- **Michelle Stanton** — Gemini (Beat 5); also independently the trigger NPC for DLC 1, likely the single most guaranteed-to-meet character in the base roster
+- **Lyuba Baranova** — Aries (Beat 9, the Power Core — the main quest's own plot epicenter)
+
+**This is a shortlist of possible options, not a decision.** No selection among these 6 has been made. Three companions (Ji-Eun Kim, Naizelle d'Edjordoś, Fenny) live in districts also on the critical path but are deliberately designed to require more than passive presence to actually meet (Ji-Eun is explicitly in hiding; Naizelle is the most reclusive companion in the roster; Fenny has no signal line and "doesn't warm up") — worth keeping in view as a second-tier option if the shortlist above needs to expand. Villena Hiresvett, "Pink Lucy," and Ayako Hayashi (all Leo) are excluded from this shortlist specifically because Leo sits outside the main quest's own critical path entirely, per the story's own design notes — nothing here rules them out for Early Access on other grounds (e.g., deliberately drawing attention to optional content), it only reflects that they wouldn't be met "very very very likely" through the main quest alone.
+
+**Caveat:** this shortlist is only as reliable as the beat structure it's drawn from, which the developer has already flagged as sparse/not finalized — recheck against whichever districts end up load-bearing if Act 2's branching order changes.
+
 ---
 
 ## 3. Things that are genuinely hard to do well before the game is finished
