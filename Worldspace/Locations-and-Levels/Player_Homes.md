@@ -797,6 +797,13 @@ For the complete design rule, see `Game-Mechanics/Core-Mechanics/Companion_Syste
 | Kendra Heinrich | Yes | Capricorn (post-DLC 1, new lodgings) | Designed (settling-in mechanic — see README) |
 | Salagéa Aparast | Yes | DLC 5 territory | TBD — Phase 7 (post DLC 5) |
 | **Calethina** | **Yes** | **No home** | **Holographic projection — no physical dwelling** |
+| Maggie Aarden | **Yes — confirmed** | DLC 2 / Byrd | Confirmed canonical romanceable companion 2026-07-10; home design TBD |
+| DLC 3 companion (Palmer) | TBD | DLC 3 territory | Reserved 2026-07-10 — no character identity chosen yet |
+| DLC 4 companion (Mawson) | TBD | DLC 4 territory | Reserved 2026-07-10 — no character identity chosen yet |
+| "Charlene" (XT-17) | Presumptive | DLC 7 / Vostok | Reserved 2026-07-10 — her own file lists Companion Potential as "Undecided"; home design TBD |
+| DLC 6 companion (Janbogo) | TBD | DLC 6 territory | Reserved 2026-07-10 — no character identity chosen yet |
+
+**A note on the six subnet-DLC rows above:** each of the 6 subnet DLCs (2-7) is reserved to include exactly one recruitable, romanceable companion and her own personal companion home, unlocked upon completing her romance questline — established as a standing design rule 2026-07-10, cross-referenced in each DLC's own entry in `Storyline/DLC_Overview.md`. DLC 2 (Maggie Aarden) and DLC 5 (Salagéa) are confirmed; DLC 7 ("Charlene") has a presumptive candidate whose romance status is still marked "Undecided" in her own file; DLC 3, 4, and 6 have no companion identity chosen yet. See `Romance_Unlocked_Homes.md` for each one's reserved (currently unwritten) home-design stub.
 
 ---
 

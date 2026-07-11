@@ -257,3 +257,55 @@ Homes in this file are accessible only by romancing the associated character. Th
 **Charging configuration:** A full charging bay — not a delicate alcove or a minimal setup. Built for someone whose body is a weapon and who has been sleeping rough for years.
 
 **Acquisition:** Romance Kendra Heinrich.
+
+---
+
+## Subnet DLC Companion Homes — Reserved (Not Yet Designed)
+
+Each of the 6 subnet DLCs (2-7) reserves space for one recruitable, romanceable companion and her own personal companion home, unlocked upon completing her romance questline — a standing design rule established 2026-07-10, cross-referenced in each DLC's own entry in `Storyline/DLC_Overview.md` and in the Romance-Unlocked Homes table in `Player_Homes.md`. None of the six are designed yet; the stubs below exist so the slot isn't lost, not to lock in any detail ahead of that DLC's own actual development.
+
+### Maggie Aarden — DLC 2 / Byrd *(confirmed companion; home not yet designed)*
+
+Confirmed recruitable and romanceable companion (`Characters/Dolls/Still-Present_-_In-Game/Maggie Aarden/`), settled permanently in Byrd — **confirmed canonical, 2026-07-10.** Her companion home has no design at all yet — likely to draw on Byrd's own established underground, mechanized-fabrication character (see `Cities/City_Megasheets/Byrd_Subnet/Byrd/`) once it's picked up, consistent with how every other companion home in this file reflects its own city or district's defining texture.
+
+**Acquisition:** Romance Maggie Aarden (full questline TBD).
+
+---
+
+### DLC 3 Companion — Palmer Subnet *(reserved, not yet designed)*
+
+No character identity chosen yet. Palmer subnet's own established texture (Palmer City's cultural/entertainment-capital identity, Rothera's decentralized manufacturing, or any of the subnet's other cities) will inform both the companion and her home once development begins here.
+
+**Acquisition:** TBD.
+
+---
+
+### DLC 4 Companion — Mawson Subnet *(reserved, not yet designed)*
+
+No character identity chosen yet. Mawson subnet's own established texture (Mawson's own hospitality/honeymoon-destination character, Sayowa's quiet junction-city identity, or Dome Fuji's Ice Cold Buddhism devotional culture) will inform both the companion and her home once development begins here.
+
+**Acquisition:** TBD.
+
+---
+
+### Salagéa Aparast — DLC 5 / Halley Subnet *(reserved, not yet designed)*
+
+Confirmed companion, confirmed canon (see `Storyline/DLC_Overview.md`, DLC 5 entry). Already listed in `Player_Homes.md`'s Romance-Unlocked Homes table ("DLC 5 territory | TBD — Phase 7, post DLC 5"). No home design exists yet.
+
+**Acquisition:** TBD.
+
+---
+
+### DLC 6 Companion — Janbogo Subnet *(reserved, not yet designed)*
+
+No character identity chosen yet. Janbogo subnet's own established texture (Janbogo's own hospitality/absorption culture, Fort McMurdo's industrial scale, or any of the subnet's other cities) will inform both the companion and her home once development begins here.
+
+**Acquisition:** TBD.
+
+---
+
+### "Charlene" (XT-17) — DLC 7 / Vostok, Mirny Subnet *(reserved, not yet designed)*
+
+Vostok's own resident geneticist (`Characters/Dolls/Still-Present_-_In-Game/TBN [XT-17 unorthodox science teacher Charlene]/`), potentially recruitable at Vostok itself. Her own file currently lists Companion Potential as "Undecided" — romance status not yet confirmed. No home design exists yet; likely to draw on Vostok's own established genetics-archive-too-vast-for-one-mind character once picked up.
+
+**Acquisition:** TBD.

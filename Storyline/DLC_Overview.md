@@ -110,6 +110,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Byrd ("Pacific")
 **Central location:** Byrd (struggling surviving city, ~1,530m altitude)
 **Central character:** **Confirmed 2026-07-09: Maggie Aarden** (`Characters/Dolls/Still-Present_-_In-Game/Maggie Aarden/`), confirmed recruitable companion, settled permanently in Byrd post-exile; her Falkland Treaty signatory role remains a separate, still-tentative thread
+**Recruitable/romanceable companion — confirmed 2026-07-10:** every subnet DLC reserves space for one recruitable, romanceable companion, plus her own personal companion home (unlocked upon completing her romance questline), per the standing companion-home system in `Locations-and-Levels/Player_Homes.md` and `Locations-and-Levels/Romance_Unlocked_Homes.md`. **Maggie Aarden is confirmed as DLC 2's canonical recruitable and romanceable companion.** Her companion home design is still TBD — see the reserved entry in `Romance_Unlocked_Homes.md`.
 **Main storyline:** TBD — **three candidate central-conflict anchors flagged 2026-07-08, none chosen: (1) The Chamber Crisis** (a threat to Byrd's fabrication-synthesis chamber manufacturing, one of only two active Cradle sites nationwide), **(2) What's Actually Down There** (Byrd's unexplored full underground scale and the unexplained origin of the old maps that led to its discovery), **(3) The Isolation Crisis** (Byrd's unresolved aviation-route/refuel-stop problem and its role as a two-way freight hub, tested by a supply crisis). A fourth option built around Byrd's national diversity was explicitly rejected by the developer. See `TODO.md` for full detail on all three; developer's own lean is (1), since it's the only one giving Maggie's established industrial/welding skills a direct mechanical stake in the plot.
 **Design note, flagged 2026-07-08:** every other DLC spreads its story and conflicting interests across 4–8 cities, letting any one city stay comparatively simple. Byrd is the sole city carrying this entire DLC alone — it needs internal complexity (districts, factions, competing interests) closer to what other DLCs achieve collectively across their whole roster, not what any single city in those DLCs gets on its own. Bear this in mind once actual design & development begins here. **More fundamental than the DLC design itself:** this is a requirement on the *city*, not just the story built on top of it — `Cities/Specs/Byrd.md` and `Cities/Local_Cultures/Byrd_Subnet/Byrd.md` need that same unusual depth developed first, since the DLC's own richness can never exceed what the underlying city actually is. See `TODO.md` for the full note. **Addressed 2026-07-09:** `Cities/City_Megasheets/Byrd_Subnet/Byrd/` now proposes a concrete five-guild internal faction structure (Fabricators' Guild, Dispatch Office, Foundation Keepers, Prospectors' Circle, Grounded Wings) built directly from Byrd's own established economy, plus a project-wide Cross-Reference Synthesis tracing exactly how Byrd connects to the rest of Tepenia (the Cradle manufacturing network with Neumayer and Soyuz, the Rastra vehicle lineage back to Belgrano, the Hwy 1 corridor into the Palmer subnet, and the Hwy 22 corridor's fragile passage through the Amundsen Station ruins).
 **Key lore assets:**
@@ -125,6 +126,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Palmer ("American")
 **Central location:** Palmer City ruins (first settled location in Tepenia; cultural and entertainment capital)
 **Central character:** TBD
+**Recruitable/romanceable companion — reserved slot, established 2026-07-10:** this DLC will include one recruitable, romanceable companion, plus her own personal companion home (unlocked upon completing her romance questline), per the standing companion-home system in `Locations-and-Levels/Player_Homes.md` and `Locations-and-Levels/Romance_Unlocked_Homes.md`. No character identity chosen yet — see the reserved TBD entry in `Romance_Unlocked_Homes.md`.
 **Main storyline:** TBD
 **Key lore assets:**
 - Palmer City — Las Vegas, Atlantic City, New Orleans, and St. Petersburg combined; first city built, first destroyed; 100 Miles Davis Blvd.; founding jazz records; Antarctica flag
@@ -140,6 +142,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Mawson
 **Central location:** TBD (Mawson, Syowa, or another city in the region)
 **Central character:** TBD
+**Recruitable/romanceable companion — reserved slot, established 2026-07-10:** this DLC will include one recruitable, romanceable companion, plus her own personal companion home (unlocked upon completing her romance questline), per the standing companion-home system in `Locations-and-Levels/Player_Homes.md` and `Locations-and-Levels/Romance_Unlocked_Homes.md`. No character identity chosen yet — see the reserved TBD entry in `Romance_Unlocked_Homes.md`.
 **Main storyline:** TBD
 **Key lore assets:**
 - Indian Ocean coast cities (Mawson subnet proper): Mawson, Sayowa, Dome Fuji *(corrected 2026-07-05 — Soyuz, Shirayuki, Zhongshan, and Davis all moved to the Mirny subnet/DLC 7; the Larsemann Hills cluster they share with Zhongshan sits far closer to Davis than to Mawson Station. See `TODO.md` and DLC 7's entry, below, for the full reasoning.)*
@@ -153,6 +156,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Halley ("Atlantic")
 **Central location:** TBD (Halley, Belgrano, or another city in the region)
 **Central character:** Salagéa Aparast (confirmed canon)
+**Recruitable/romanceable companion — reserved slot, established 2026-07-10:** every subnet DLC reserves space for one recruitable, romanceable companion, plus her own personal companion home (unlocked upon completing her romance questline), per the standing companion-home system in `Locations-and-Levels/Player_Homes.md` and `Locations-and-Levels/Romance_Unlocked_Homes.md`. Salagéa Aparast already fills this slot — already listed in `Player_Homes.md`'s Romance-Unlocked Homes table ("DLC 5 territory | TBD — Phase 7, post DLC 5"); her own companion home design remains TBD.
 **Main storyline:** TBD — **working anchor established 2026-07-03:** control over Troll Airfield (the only intercontinental-capable runway in the subnet, functional post-war but contested) is the current candidate central conflict/"MacGuffin" for this DLC. Explicitly tentative: full details (who's contesting it, to what ends, faction conditions across the subnet's cities) wait for actual DLC design & development, and further subnet/storyline development could still shift the airfield from the main objective to an important side-piece if something else emerges as the true centerpiece. Still, it's a solid working anchor rather than a blank slate. See `Cities/Specs/Troll.md` and `Cities/Local_Cultures/Halley_Subnet/Troll.md` ("Whoever Holds the Runway").
 **Key lore assets:**
 - Atlantic/Queen Maud Land coast cities: Halley, Belgrano, Neumayer, Sanae, Troll, Abowasa, Lazar, Princess Elisabeth
@@ -171,6 +175,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Janbogo
 **Central location:** TBD (Janbogo, Fort McMurdo, or another city in the region)
 **Central character:** TBD
+**Recruitable/romanceable companion — reserved slot, established 2026-07-10:** this DLC will include one recruitable, romanceable companion, plus her own personal companion home (unlocked upon completing her romance questline), per the standing companion-home system in `Locations-and-Levels/Player_Homes.md` and `Locations-and-Levels/Romance_Unlocked_Homes.md`. No character identity chosen yet — see the reserved TBD entry in `Romance_Unlocked_Homes.md`.
 **Main storyline:** TBD
 **Key lore assets:**
 - Ross Sea coast cities: Janbogo (partially operational in main game), Fort McMurdo, Scott, Zukelli, Cape Adare
@@ -189,6 +194,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Arcanet subnet:** Mirny ("Australian")
 **Central location:** TBD (Mirny city, Vostok, Kunlun, or some combination)
 **Central character:** TBD — Vostok has a confirmed character in development: a robot geneticist who discovered a cost-effective method for working with genetics at reduced mutation rates; her work is almost certainly connected to Lake Vostok's 25-million-year-isolated subglacial biology
+**Recruitable/romanceable companion — reserved slot, established 2026-07-10:** every subnet DLC reserves space for one recruitable, romanceable companion, plus her own personal companion home (unlocked upon completing her romance questline), per the standing companion-home system in `Locations-and-Levels/Player_Homes.md` and `Locations-and-Levels/Romance_Unlocked_Homes.md`. For DLC 7, Vostok's own resident geneticist ("Charlene," working name — `Characters/Dolls/Still-Present_-_In-Game/TBN [XT-17 unorthodox science teacher Charlene]/`) is the presumptive candidate; her own file currently lists Companion Potential as "Undecided," and her companion home design is TBD — see the reserved entry in `Romance_Unlocked_Homes.md`.
 **Main storyline:** TBD
 **Key lore assets:**
 - Mirny city — sits precisely on the Antarctic Circle; the threshold city; extreme katabatic winds; Hwy 110's inland spur is its physical (not Arcanet — *corrected 2026-07-04, see `Specs/Mirny.md`*) link to Concordia

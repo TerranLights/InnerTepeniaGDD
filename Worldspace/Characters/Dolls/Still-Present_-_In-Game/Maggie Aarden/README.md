@@ -4,6 +4,8 @@
 
 **Byrd DLC central-conflict candidates, flagged 2026-07-08:** see `Storyline/DLC_Overview.md` (DLC 2 entry) and `TODO.md` for three live candidates — the Chamber Crisis, What's Actually Down There, and the Isolation Crisis. The developer's own lean is the Chamber Crisis specifically, since it's the only one that gives her established industrial/welding skill set a direct mechanical reason to matter to the plot, not just an emotional one. **Cross-reference, 2026-07-09:** `City_Megasheets/Byrd_Subnet/Byrd/Byrd_Full_Extrapolation.md` Section I proposes a concrete Fabricators' Guild faction built from Byrd's own established fabrication economy — Maggie's skill set gives her a direct, earned place within it.
 
+**Confirmed 2026-07-10: Maggie Aarden is DLC 2's canonical recruitable AND romanceable companion** — see the standing per-subnet-DLC companion/companion-home reservation in `Storyline/DLC_Overview.md` and the reserved (not yet designed) entry in `Locations-and-Levels/Romance_Unlocked_Homes.md`. Her own personal companion home, unlocked upon completing her romance questline, has no design yet.
+
 ---
 
 ## Basic Information
@@ -15,7 +17,7 @@
 | **Type**                     | Gynoid |
 | **Activation Date**          | TBD |
 | **Origin**                   | Midwestland — industrial yard worker |
-| **Current Status**           | **Confirmed (2026-07-09): settled, post-exile, in Byrd** — see below. **Confirmed recruitable companion, Byrd DLC.** |
+| **Current Status**           | **Confirmed (2026-07-09): settled, post-exile, in Byrd** — see below. **Confirmed recruitable AND romanceable companion, Byrd DLC (romance confirmed 2026-07-10).** |
 | **Last Known Location**      | Midwestland / Colorado Republic (leading robot resettlement) → **confirmed, the city of Stanley, Falkland Islands** (signing the Falkland Treaty) → **tentatively, Rothera** (first post-exile settlement) → **confirmed, Byrd** (permanent home, present day) |
 | **Historical Significance**  | Known to Tepenians — unwilling leader of early robot community resettlement; **confirmed (2026-07-09), the robot signatory of the Falkland Treaty itself — see Historical Status for the circumstances; confirmed present-day companion, Byrd DLC** |
 
