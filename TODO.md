@@ -4,6 +4,14 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Early Access vs. Launch Content Split — flagged 2026-07-10, released as reference
+
+The developer's own plan: release Inner Tepenia in Early Access first, partly to raise funds for hiring professional 3D animators, voice actors, and bands/musicians, then follow with a full "Launch" release (not Early Access) — with all 7 DLCs waiting until after that full launch. Worked through a full answer to "what content is feasible to hold back for Launch specifically," now written up at `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`. Headline recommendation: lead marketing with the three things the funding is directly for (full voice acting, final 3D animation polish, original music/bands) as the most emotionally legible pitch to an Early Access audience, with full companion roster completion, full localization, and final balance passes as secondary, well-precedented Launch-exclusive items. Not a blocking decision — this is a released reference document, consult it whenever release-strategy planning resumes.
+
+**Resolved same day: romance stays in Early Access, but with a reduced roster.** Reconsidered and reversed an initial lean toward deferring all romance content to Launch — companion romance is too central to the game's own draw and to its own creative north star (love between robots and humans) to hide from the Early Access audience entirely. Instead, Early Access will include a small subset of recruitable companions (roughly 3-4) with their full romance arcs, at whatever polish level the rest of Early Access ships at; the remaining companions and their romance content are what's actually deferred to Launch. **Still open: which 3-4 companions make up that subset** — not yet decided, worth picking from among the characters whose romance designs are already most complete (see the file's own updated Category 2 note for the current candidate list).
+
+---
+
 ## New Cross-City Faction Patterns — flagged 2026-07-09, hold for later
 
 Surfaced during a pass across `City_Origin_Factions_Second_Interwar.md` and `City_Origin_Factions_PostWar_Refugee.md`, prompted by how much richer the city-level picture has gotten since those docs were last updated (2026-07-04) — specifically the Halley subnet, Mawson subnet, and Byrd Megasheet cross-reference work done 2026-07-09. Both ideas below are genuinely new patterns those two documents don't yet cover; explicitly not developed further now, just captured so they aren't lost.

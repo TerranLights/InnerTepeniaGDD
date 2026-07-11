@@ -28,18 +28,30 @@ The single companion slot means each companion choice is a genuine commitment. T
 
 **Main game target: TBD — higher than originally estimated.** The pool should be large enough that multiple playthroughs feel genuinely different. Specific count to be established as character design work progresses.
 
-Currently confirmed recruitable companions (5):
-1. Favi della Torre
-2. Villena Hiresvett
-3. Naizelle d'Edjordoś
-4. Seica Cenilaithe
-5. Ji-Eun Kim
+**Currently confirmed recruitable companions (12)** *(corrected 2026-07-10 — this list previously listed only the first 5, stale relative to the full romance-design table further down this document)*:
+1. IT-068 "Flora"
+2. Favi della Torre
+3. Villena Hiresvett
+4. Naizelle d'Edjordoś
+5. Seica Cenilaithe
+6. Ji-Eun Kim
+7. Vosora Lashár Tanslock
+8. Michelle Stanton
+9. IT-021 "Fenny"
+10. FW-25 "Pink Lucy"
+11. Ayako Hayashi
+12. Lyuba Baranova
 
 Additional recruitable companions to be designed. Some TBN characters may be recruitable; classification TBD per character.
+
+**Non-recruitable but romanceable NPC:** Majyao Bisyugota (teahouse keeper; full questline and romance arc, never joins the party).
 
 **DLC companions** (separate from main game pool, available only in their respective DLC):
 - Kendra Heinrich (DLC 1: South Pole)
 - Salagéa Aparast (DLC 5: Atlantic Coastal Region)
+- Maggie Aarden (DLC 2: Byrd) — confirmed 2026-07-10, see `Storyline/DLC_Overview.md`
+- "Charlene" (XT-17) (DLC 7: Mirny) — presumptive only, romance status "Undecided" in her own file
+- DLC 3, 4, 6 — companion identity not yet chosen; see the reserved stubs in `Locations-and-Levels/Romance_Unlocked_Homes.md`
 
 ---
 
