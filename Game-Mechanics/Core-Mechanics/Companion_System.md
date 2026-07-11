@@ -310,11 +310,11 @@ Michelle's romance is about the player coming to understand why she stays, and d
 
 2. **Ask the real question:** At some point the player genuinely asks why she stays when she could leave. The romantic path is a player who listens to the answer and takes it seriously — not using it, not performing interest, not skipping past it. The answer is the most honest thing she offers.
 
-3. **The Kharkovchanka moment:** She teaches the player to maintain the vehicle that makes leaving possible. This is an act of trust — she is giving the player access to her capacity to go. The romantic path treats this with the weight it deserves, not as a tutorial.
+3. **The Rastra moment:** She teaches the player to maintain the vehicle that makes leaving possible. This is an act of trust — she is giving the player access to her capacity to go. The romantic path treats this with the weight it deserves, not as a tutorial.
 
 4. **Choose the city when it would be easier not to:** During her quest, a choice arises where the player could deprioritize Concordia's needs for something personally advantageous. The romantic path doesn't. She stayed because she believes in this place; the player has to demonstrate they understand what that means in practice.
 
-5. **The view from outside:** The most intimate thing she can offer is showing the player what Concordia looks like from a position where leaving is genuinely possible — literally, from the Kharkovchanka outside the city, or metaphorically, from her perspective as someone who could go anywhere and chose here. The romance closes with that shared vantage point.
+5. **The view from outside:** The most intimate thing she can offer is showing the player what Concordia looks like from a position where leaving is genuinely possible — literally, from the Rastra outside the city, or metaphorically, from her perspective as someone who could go anywhere and chose here. The romance closes with that shared vantage point.
 
 ---
 

@@ -44,7 +44,7 @@
 * District: Capricorn (TBN) quarries.
 
 ### The Neon Nomads (Highway Clans)
-* Philosophy: Freedom of movement and trade along the highways. They live semi-nomadically in reinforced Kharkovchankas and believe static city life makes people weak.
+* Philosophy: Freedom of movement and trade along the highways. They live semi-nomadically in reinforced Rastras and believe static city life makes people weak.
 * Role: Long-haul traders, smugglers, and highway maintenance crews.
 * Fame: Escorting convoys, clearing ice blockages, or defending trade routes.
 * Infamy: Imposing strict city regulations or shutting down “dangerous” routes.

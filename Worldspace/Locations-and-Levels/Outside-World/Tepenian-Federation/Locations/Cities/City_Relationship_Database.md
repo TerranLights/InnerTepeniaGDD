@@ -119,7 +119,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 **National supply-network connections, added 2026-07-09** — the project-wide cross-reference pass done for Byrd's Megasheet (`City_Megasheets/Byrd_Subnet/Byrd/Byrd_Cross_Reference_Synthesis.md`), included here since these connections cross subnet boundaries and belong in the consistency database, not just Byrd's own city folder:
 - **The Cradle network:** Byrd is one of only two currently-active fabrication-synthesis chamber manufacturing sites nationwide (the other is Soyuz, Mirny subnet), building to a schematic designed at Neumayer (Halley subnet). Three subnets, one supply chain, no other established connection between them otherwise.
-- **The Rastra lineage:** Belgrano (Halley subnet) invented the Arrastradora/Rastra vehicle specifically to reach Byrd during the founding expedition. Proposed: Byrd itself now manufactures Rastra-descended heavy freight haulers as part of its own fabrication output — the same vehicle lineage as the DLC 1 Kharkovchanka.
+- **The Rastra lineage:** Belgrano (Halley subnet) invented the Arrastradora/Rastra vehicle specifically to reach Byrd during the founding expedition. Proposed: Byrd itself now manufactures Rastra-descended heavy freight haulers as part of its own fabrication output — the same vehicle lineage as the DLC 1 Rastra.
 - **Hwy 1 corridor (north):** runs the full length of the Palmer subnet to Byrd's door (Esperanza → Marambio → Port Lockroy/Palmer City ramps → Rothera → Byrd). Rothera proposed as Byrd's natural manufacturing peer (both heavy-industry cities on the same route); Esperanza's Basque farming tradition proposed as Byrd's food supplier — a two-way trade corridor, not export-only.
 - **Hwy 22 corridor (east):** runs the whole continent from Byrd through the Amundsen Station ruins to the Zhongshan/Soyuz/Shirayuki tri-junction (Mirny subnet), with further reach toward Mawson (Hwy 4), Concordia/Vostok/Kunlun/Dome Fuji (Hwy 37 dual-junction), and, more distantly, Janbogo (Hwy 175) and Halley subnet (Hwy 59). Proposed: since Byrd currently supplies "an enormous portion of the country," a maintained bypass through or around the Amundsen Station debris field must exist and stay open — a fragile, high-stakes piece of infrastructure in the same league as Troll Airfield or the Sayowa Junction.
 
@@ -168,7 +168,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 110 (NE exit → Casey coast), Hwy 37 (NW exit → Kunlun → Vostok → Sayowa), Hwy 183 (S exit — northern terminus → Ross Sea cities)
 - **Direct highway neighbors:** Casey (Hwy 110 NE), Kunlun (Hwy 37 NW), [Hwy 183 south toward northern curve / Ross Sea]
-- **Notes:** Three highway exits confirmed from city map; survived Long Night War due to inland position; French/Italian founding; Kharkovchanka tracked vehicles primary transport; full city logistics in `to-be-integrated/city-logistics/Concordia_City_Logistics.md`
+- **Notes:** Three highway exits confirmed from city map; survived Long Night War due to inland position; French/Italian founding; Rastra tracked vehicles primary transport; full city logistics in `to-be-integrated/city-logistics/Concordia_City_Logistics.md`
 
 ---
 
@@ -190,7 +190,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Status:** Survived — too high altitude for viable large settlement
 - **Arcanet subnet:** Mawson
 - **Highways:** None — road-isolated ✓
-- **Notes:** Japanese inland station; no highway connection confirmed; altitude too extreme for population growth; in Mawson subnet — connected via Arcanet cable, not road; access likely by Kharkovchanka or air
+- **Notes:** Japanese inland station; no highway connection confirmed; altitude too extreme for population growth; in Mawson subnet — connected via Arcanet cable, not road; access likely by Rastra or air
 
 ---
 

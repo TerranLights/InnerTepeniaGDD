@@ -1,5 +1,7 @@
 # Character Summary
 
+**Confirmed 2026-07-10: locked in as one of the Early Access companions.** Her structural position — likely the very first recruitable companion the player meets at all, assuming the player follows Calethina's own early lead — was reason enough to confirm her on its own. See `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`'s own "Tentative Early Access Companions" section for the remaining, still-open Early Access slots.
+
 ## IT-068 / "[Flora]" (placeholder name — permanent name TBD)
 
 **Role / Archetype:** Tradesrobot / Maintenance Specialist; Frontline Utility Tank / Field Engineer
@@ -73,7 +75,7 @@ TBD — full details in `Personal_Background/`. Key established points:
 
 **Connection to larger narrative:** First point of contact between the player and the city's working-class industrial reality. She is not connected to Calethina's lore or the Bridge Unit mythology; she knows the city at ground level, which is a different and valuable perspective from what the player receives from Calethina.
 
-**Initial meeting hook:** Thermal Distribution Junction 12 — mid-to-late Act 1, immediately following the player's initial diagnostic task. Flora's heavy-duty repair rig (a specialized Kharkovchanka variant) has lost main power and is blocking the main distribution line. Her crew is stuck. The blackout is spreading. She needs the player's help rerouting emergency power.
+**Initial meeting hook:** Thermal Distribution Junction 12 — mid-to-late Act 1, immediately following the player's initial diagnostic task. Flora's heavy-duty repair rig (a specialized Rastra variant) has lost main power and is blocking the main distribution line. Her crew is stuck. The blackout is spreading. She needs the player's help rerouting emergency power.
 
 **Recruitment scene:**
 
@@ -177,7 +179,7 @@ See `Questlines/README.md` for design notes as they develop.
 - **Combat stats:** The MACHINE stat profile above is a rough baseline. Full tuning pending mechanical balance pass.
 - **Home territory:** Capricorn (TBN) — the industrial district. This gives the player a knowledgeable guide to Capricorn content relatively early.
 - **Tutorial function:** Her recruitment quest (15–30 minutes) serves as a natural tutorial for movement, dialogue choices, skill checks, and the first real resource trade-off. It should feel meaningful but not world-shaking.
-- **Kharkovchanka variant:** Her rig is a heavy-duty Kharkovchanka variant — a specialized tracked maintenance vehicle. This detail grounds her in Concordia's actual transport and maintenance infrastructure.
+- **Rastra variant:** Her rig is a heavy-duty Rastra variant — a specialized tracked maintenance vehicle. This detail grounds her in Concordia's actual transport and maintenance infrastructure.
 
 **TODOs:**
 - [ ] Permanent name (replace Flora placeholder)

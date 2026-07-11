@@ -289,7 +289,7 @@ _________________
 * Outer highway terminus and watchtowers
 * Frontier hydroponic outposts
 * Abandoned pre-war research stations
-* Explorer guilds and Kharkovchanka depots
+* Explorer guilds and Rastra depots
 * Philosophical debate halls facing the wilderness
 * Emergency expansion construction sites
 

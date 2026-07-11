@@ -102,7 +102,7 @@ Scott Base — New Zealand's Antarctic station, now the Tepenian city of **Scott
 
 #### Gameplay Notes
 
-- **Erebus as environmental presence:** the volcano is not just scenery — ash fall events, volcanic tremors, gas plumes, and the perpetual summit glow at night create a dynamic environmental backdrop for the DLC 6 setting; the lava lake visible from the summit (accessible by Kharkovchanka to the flanks, by foot to the crater rim) is one of the most extraordinary locations in all of Tepenia
+- **Erebus as environmental presence:** the volcano is not just scenery — ash fall events, volcanic tremors, gas plumes, and the perpetual summit glow at night create a dynamic environmental backdrop for the DLC 6 setting; the lava lake visible from the summit (accessible by Rastra to the flanks, by foot to the crater rim) is one of the most extraordinary locations in all of Tepenia
 - **The Dry Valleys crossing:** the sea ice road across McMurdo Sound — usable only in winter during the solid-freeze period — creates a seasonal access mechanic; the Dry Valleys are only reachable overland in winter; in summer, only by sea
 - **Polar night (~118 days):** the longest polar night of any major coastal city; industrial operations would have adapted around it; ruins exploration in DLC 6 during the polar night period offers a very different atmosphere from summer
 - **Scale of ruins:** as the city with Tepenia's largest industrial/physical footprint, Fort McMurdo's ruins would be enormous — multiple km² of damaged and collapsed structures; significant portions may still be partially standing; the scale itself is a design asset
@@ -149,7 +149,7 @@ Full industrial detail TBD for DLC 6 design.
 
 ## Notable Locations
 
-- **Mount Erebus** — the active volcano dominating the Ross Island skyline; the summit crater holds a permanent lava lake; visible from Fort McMurdo at all times; one of the most extraordinary geological features in Tepenia; accessible to the flanks by Kharkovchanka, to the crater rim on foot
+- **Mount Erebus** — the active volcano dominating the Ross Island skyline; the summit crater holds a permanent lava lake; visible from Fort McMurdo at all times; one of the most extraordinary geological features in Tepenia; accessible to the flanks by Rastra, to the crater rim on foot
 - **The McMurdo Sound sea ice road** — seasonal overland crossing to the Antarctic mainland and the Dry Valleys; usable only during the solid-freeze period; a highway that exists only in winter
 - **The Dry Valleys (across the Sound)** — largest ice-free area in Antarctica; accessible via the ice road or by sea; significant for extraction operations; a landscape utterly unlike the rest of the continent
 - **Cape Evans** — expedition hut of Robert Falcon Scott's Terra Nova expedition (1910); pre-exile historical site; a few kilometers from the city on Ross Island's coast; preserved in Antarctic cold; likely the most intact pre-exile structure in the Janbogo subnet

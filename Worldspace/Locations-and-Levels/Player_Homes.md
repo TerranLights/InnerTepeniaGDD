@@ -656,7 +656,7 @@ Sagittarius homes emphasize rugged self-reliance, adventurous spirit, philosophi
 
 **Feel:** Harsh but hopeful. A compact, heavily reinforced pod with thick insulation, emergency geothermal taps, and a small observation window overlooking the ice. No-nonsense, windswept atmosphere — functional, a bit lonely, and filled with the quiet determination of frontier life.
 
-**Proximity:** Near outer highway termini, watchtowers, and frontier hydroponic outposts. Short distance to Kharkovchanka depots and emergency construction sites. Easy access to scouts, prospectors, and early settlers.
+**Proximity:** Near outer highway termini, watchtowers, and frontier hydroponic outposts. Short distance to Rastra depots and emergency construction sites. Easy access to scouts, prospectors, and early settlers.
 
 **Difficulty:** Low to moderate. Requires proving basic survival competence (supply runs in bad weather, helping with minor outpost repairs, or assisting new arrivals) plus modest resource contributions suitable for the frontier.
 
@@ -666,9 +666,9 @@ Sagittarius homes emphasize rugged self-reliance, adventurous spirit, philosophi
 
 ### 2. Explorer's Depot Loft / Caravan Home *(Mid-tier)*
 
-**Feel:** Mobile and adventurous. A converted loft or integrated space in or near a Kharkovchanka depot with vehicle maintenance bays, rugged storage for expedition gear, and modular living areas that can be quickly packed. An energetic, "always ready to move" frontier spirit mixed with the wear of hard travel.
+**Feel:** Mobile and adventurous. A converted loft or integrated space in or near a Rastra depot with vehicle maintenance bays, rugged storage for expedition gear, and modular living areas that can be quickly packed. An energetic, "always ready to move" frontier spirit mixed with the wear of hard travel.
 
-**Proximity:** Embedded in or overlooking explorer guilds and Kharkovchanka depots. Close to supply routes, prospecting teams, and those preparing long-range expeditions.
+**Proximity:** Embedded in or overlooking explorer guilds and Rastra depots. Close to supply routes, prospecting teams, and those preparing long-range expeditions.
 
 **Difficulty:** Moderate. Requires active involvement in frontier logistics (joining or supporting expeditions, helping maintain vehicles, or securing supplies during shortages).
 

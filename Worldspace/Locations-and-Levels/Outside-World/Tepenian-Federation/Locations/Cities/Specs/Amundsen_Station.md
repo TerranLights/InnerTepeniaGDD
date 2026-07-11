@@ -101,7 +101,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 - **Hardcore Mode influences:**
   - The most extreme cold of any location in Tepenia; even Concordia's winters are mild by comparison; protection requirements here exceed anything in the main game
   - Total supply isolation: there is no resupply at the South Pole; whatever the player carries in is all they have; resource management reaches maximum pressure
-  - The Kharkovchanka breakdown mechanic (established in DLC 1's design) occurs in this environment — repairing the vehicle in these conditions is the harshest version of that challenge
+  - The Rastra breakdown mechanic (established in DLC 1's design) occurs in this environment — repairing the vehicle in these conditions is the harshest version of that challenge
 
 ---
 
@@ -138,7 +138,7 @@ Not applicable in the conventional sense. Amundsen Station was a strategic infra
 - **The Amundsen Tower ruins / scrap mountain** — the remains of the space elevator destroyed in the Long Night War; the scale of the structure means its ruins are themselves a landmark; a scrap mountain of collapsed cable, counterweight debris, and station wreckage surrounding the base; the most physically impressive ruin in Tepenia
 - **The Geographic South Pole marker** — the actual pole, or what marks it; in a location where everything is north and the ice drifts, the marker has been periodically repositioned over the centuries; what marks it now, and whether it survived the war, is TBD
 - **The pre-Split-Brain Arcanet archive** — the most significant surviving information asset in Tepenia; a cached copy of the synchronized Arcanet record from before the Split Brain severed subnet communication; the only place where all six subnets' histories can be compared and reconciled; deep within the ruins, accessible but not easily
-- **The Kharkovchanka breakdown point** — the location where the DLC 1 vehicle breaks down in the approach to the station; specific distance from the ruins established in DLC design
+- **The Rastra breakdown point** — the location where the DLC 1 vehicle breaks down in the approach to the station; specific distance from the ruins established in DLC design
 
 ---
 
@@ -154,7 +154,7 @@ Amundsen Station's connection to Concordia is structural and historical rather t
 
 The pre-Split-Brain archive at Amundsen Station is relevant to Concordia for reasons that the Planetary Split Brain questline will establish — the archive contains information that each subnet's isolated post-Split version of history has either lost, distorted, or never had access to.
 
-Michelle Stanton provides the Kharkovchanka and teaches the player to repair it as the entry point for DLC 1. Her role is documented in `Storyline/DLC_Overview.md`.
+Michelle Stanton provides the Rastra and teaches the player to repair it as the entry point for DLC 1. Her role is documented in `Storyline/DLC_Overview.md`.
 
 ---
 

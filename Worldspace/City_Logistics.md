@@ -25,7 +25,7 @@ Concordia is an enclosed city. Almost nothing happens outdoors that doesn't have
 - Radial structure centered on Janbogo Central Hub (Axis Mundi / District 13)
 - Districts connected by three major surface/tunnel highways: Hwy 110, Hwy 37, and Hwy 183
 - Undergrid: the underground transit and maintenance network connecting all districts below ground
-- Inter-district travel: transit tubes, Kharkovchanka shuttles (surface), or on-foot through the Undergrid
+- Inter-district travel: transit tubes, Rastra shuttles (surface), or on-foot through the Undergrid
 
 **Dome structure:** Most districts are contained under domes — pressurized, temperature-controlled enclosures. Domes vary in size and condition by district. Outer districts (particularly Sagittarius / Frostlands) have partially completed or damaged domes requiring ongoing maintenance.
 
@@ -124,7 +124,7 @@ The energy system is the central crisis of the game. See main story files for th
 
 **Transit tubes:** Fast, enclosed transit between major points. High energy cost; frequency and reliability reduced by the energy crisis.
 
-**Kharkovchanka shuttles:** Real Soviet-era Antarctic tracked vehicles — massive, enclosed, heated cabins on tracked chassis designed for extreme Antarctic conditions. In Concordia, these serve as inter-district heavy transport and surface travel between highway junctions. Slow, reliable, able to operate in conditions that disable lighter vehicles. A distinctly Antarctic form of transport.
+**Rastra shuttles:** Massive, enclosed, heated cabins on tracked chassis — descended from real Soviet-era Antarctic tracked vehicles (Kharkovchankas), evolved in-world from Belgrano's own founding-era invention (the Arrastradora) into the vehicle type every Tepenian city now knows as the Rastra. In Concordia, these serve as inter-district heavy transport and surface travel between highway junctions. Slow, reliable, able to operate in conditions that disable lighter vehicles. A distinctly Antarctic form of transport.
 
 **On-foot / Undergrid:** The underground network allows pedestrian movement between districts without surface exposure. Travel time is significant; the environment is hazardous in sections. Always available regardless of power availability (though lighting depends on power).
 
@@ -136,7 +136,7 @@ The energy system is the central crisis of the game. See main story files for th
 
 Concordia is isolated but not completely cut off.
 
-**Highway network:** Three major highways (Hwy 110, Hwy 37, Hwy 183) connect Concordia to other Antarctic settlements and the broader Tepenian Federation. Surface travel on the Antarctic Plateau is dangerous and slow — primarily via Kharkovchanka convoy. Highway maintenance is critical; the Neon Nomads (highway clans who live on the roads) perform a significant share of it.
+**Highway network:** Three major highways (Hwy 110, Hwy 37, Hwy 183) connect Concordia to other Antarctic settlements and the broader Tepenian Federation. Surface travel on the Antarctic Plateau is dangerous and slow — primarily via Rastra convoy. Highway maintenance is critical; the Neon Nomads (highway clans who live on the roads) perform a significant share of it.
 
 **Port of Concordia:** Small trucking docks in the Cancer (TBN) district. Primary terminus for highway trade — a highway freight terminal, not a maritime port.
 
@@ -263,6 +263,6 @@ Everything inside the city's domes is climate-controlled. Temperature, air quali
 - ~~Currency and economic system details~~ — resolved at the national level, see `National_Economy_and_Currency.md`; remaining open details tracked there
 - Whether subglacial water access exists and how it is used
 - The role of nuclear power specifically vs. geothermal
-- Full Kharkovchanka fleet details and highway maintenance operations
+- Full Rastra fleet details and highway maintenance operations
 - The economic relationship with Janbogo in more detail
 - Details of the University of Concordia curriculum and its role in the city

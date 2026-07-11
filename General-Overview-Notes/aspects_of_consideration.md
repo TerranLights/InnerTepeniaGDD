@@ -19,7 +19,7 @@ There have been a number of reusable rockets left over from the past. Tepenians 
 ### Concordia: industrial/economic/transit hub
 A future "robot/human Sci-Fi update" of what we currently know today as Concordia Station (which is a real place). Due to its geographical setting, ended up being the most populous surviving city in post-war Antarctica.
 
-### Kharkovchankas
+### Rastras
 Enormous post-Soviet-style ice vehicles used to traverse the wastelands of Antarctica in order to build the infrastructure for the Arcanet. The most prominent figure in the construction of the Arcanet is a robot named Michelle Stanton.
 
 ### Heating-systems (nuclear, volcanic, etc)

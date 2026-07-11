@@ -95,19 +95,19 @@ Every DLC below (DLC 1 included) reserves space for one recruitable, romanceable
 - Extreme environment — South Pole conditions, full polar isolation
 
 **DLC trigger — Michelle Stanton:**
-Michelle Stanton is the primary point of contact for beginning this DLC. The player talks to Michelle; she provides the Kharkovchanka and teaches the player how to repair it if it breaks down ("this may take a few days to show you the basics" — analogous to Daisy teaching power armor operation in FNV's *For Auld Lang Syne*).
+Michelle Stanton is the primary point of contact for beginning this DLC. The player talks to Michelle; she provides the Rastra and teaches the player how to repair it if it breaks down ("this may take a few days to show you the basics" — analogous to Daisy teaching power armor operation in FNV's *For Auld Lang Syne*).
 
 A pre-trigger item or piece of evidence exists for players who do not yet know Michelle or are not on good terms with her — something the player can show her to establish the stakes and get her cooperation without an existing relationship.
 
-**If Michelle Stanton is dead:** The player can find the Kharkovchanka keys and Michelle's personal handwritten repair manual in her pockets or in her Gemini home. The player drives to the South Pole alone, without instruction.
+**If Michelle Stanton is dead:** The player can find the Rastra keys and Michelle's personal handwritten repair manual in her pockets or in her Gemini home. The player drives to the South Pole alone, without instruction.
 
-**Cross-reference — Sagittarius district / Frostlands:** The Kharkovchanka repair knowledge Michelle teaches is not exclusively relevant to the South Pole trip. In Concordia's Frostlands, one or two Kharkovchankas are communally owned per Frostlander tribe/clan — they are critical survival infrastructure, not personal vehicles. A tribe whose vehicle breaks down has no mobile shelter and no emergency evacuation capability. A player who has already learned repair from Michelle has a concrete, already-established skill that creates natural quest entry points in Sagittarius district entirely independent of DLC 1 — a Frostlands breakdown is a self-contained survival emergency the player is uniquely positioned to solve. This is an opportunity to make the DLC 1 tutorial feel retroactively relevant to the main game, rather than being purely forward-looking. See `Specs/Concordia.md` → Sagittarius district notes for Kharkovchanka ownership detail.
+**Cross-reference — Sagittarius district / Frostlands:** The Rastra repair knowledge Michelle teaches is not exclusively relevant to the South Pole trip. In Concordia's Frostlands, one or two Rastras are communally owned per Frostlander tribe/clan — they are critical survival infrastructure, not personal vehicles. A tribe whose vehicle breaks down has no mobile shelter and no emergency evacuation capability. A player who has already learned repair from Michelle has a concrete, already-established skill that creates natural quest entry points in Sagittarius district entirely independent of DLC 1 — a Frostlands breakdown is a self-contained survival emergency the player is uniquely positioned to solve. This is an opportunity to make the DLC 1 tutorial feel retroactively relevant to the main game, rather than being purely forward-looking. See `Specs/Concordia.md` → Sagittarius district notes for Rastra ownership detail.
 
 **The journey:**
-- The Kharkovchanka breaks down just short of the Amundsen Station ruins — far enough out that the remaining distance is extremely dangerous on foot
+- The Rastra breaks down just short of the Amundsen Station ruins — far enough out that the remaining distance is extremely dangerous on foot
 - The player must walk from the breakdown point to the station
-- If the cold becomes too severe, the player can re-enter the Kharkovchanka for shelter — but doing so means backtracking to the breakdown point and starting the walk over again
-- The Kharkovchanka serves as a mobile base of last resort; every return to it costs progress
+- If the cold becomes too severe, the player can re-enter the Rastra for shelter — but doing so means backtracking to the breakdown point and starting the walk over again
+- The Rastra serves as a mobile base of last resort; every return to it costs progress
 - **Cross-DLC Survival Gifts** *(see section below)*: whatever the player accumulated across the other 6 DLCs is meant to matter here specifically — e.g. Ji-Eun's cloaking tech for the automated defenses, and (if pursued) the Mawson DLC's cold-survival benefit for the walk itself. This mission is the intended payoff point for that whole chain.
 
 ---

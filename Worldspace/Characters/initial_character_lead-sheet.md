@@ -5,7 +5,7 @@
 	Major Theme: Thinking
 	Hornevian Group: Withdrawn
 ##### General Summary:
-	A construction robot. She operates a Kharkovchanka with a small team of other robot as well as some very dedicated humans. They travel across Antarctica/Tepenia to build the physical infrastructure for the Arcanet. She's personally responsible for seemingly every regional subnet, i.e., the Palmer ("American") Subnet, the Halley ("Atlantic") Subnet, the Mawson Subnet, the Mirny ("Australian") Subnet, the Janbogo Subnet, and the Byrd ("Pacific") Subnet. She works diligently to make sure Tepenia has a well-developed internet infrastructure.
+	A construction robot. She operates a Rastra with a small team of other robot as well as some very dedicated humans. They travel across Antarctica/Tepenia to build the physical infrastructure for the Arcanet. She's personally responsible for seemingly every regional subnet, i.e., the Palmer ("American") Subnet, the Halley ("Atlantic") Subnet, the Mawson Subnet, the Mirny ("Australian") Subnet, the Janbogo Subnet, and the Byrd ("Pacific") Subnet. She works diligently to make sure Tepenia has a well-developed internet infrastructure.
 
 
 ### Name:

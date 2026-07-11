@@ -94,11 +94,11 @@ The following arrays document five or more opportunity contexts per beat for eve
 4. A quiet rest moment after a difficult main-quest beat, the player asks what keeps her here, prompted by what just happened
 5. A player-initiated conversation at her workshop with no operational urgency, beginning with this question
 
-**Beat 3 — The Kharkovchanka moment**
+**Beat 3 — The Rastra moment**
 1. A companion-quest beat where she teaches the player vehicle maintenance — the player receives it with appropriate weight rather than as a tutorial
 2. A moment where the player applies what she taught them competently — she observes the result
 3. A downtime scene where the player asks a genuine follow-up question about the vehicle that shows they understood the significance of what was shared
-4. A situation during the companion quest where the Kharkovchanka is relevant to a choice — the player treats the knowledge as trust, not a tool
+4. A situation during the companion quest where the Rastra is relevant to a choice — the player treats the knowledge as trust, not a tool
 5. An optional player-initiated follow-up after the teaching moment, returning to ask something she did not cover the first time
 
 **Beat 4 — Choose the city when it would be easier not to**
@@ -109,11 +109,11 @@ The following arrays document five or more opportunity contexts per beat for eve
 5. A faction-related decision where the city's needs are deprioritized in the proposed solution — the player pushes back and reorients the outcome
 
 **Beat 5 — The view from outside**
-1. A companion-quest culminating scene outside the city perimeter in the Kharkovchanka, looking back — she invites the player to see it from where she always stands
+1. A companion-quest culminating scene outside the city perimeter in the Rastra, looking back — she invites the player to see it from where she always stands
 2. A Sagittarius/Frostlands location outside the city's formal boundaries during a companion-quest beat where the vantage point is mutual
 3. An endgame-adjacent moment where leaving is literally possible and they discuss it at that threshold
 4. A rest stop during an extended mission outside the city walls where the view happens incidentally
-5. A player-initiated request to take the Kharkovchanka outside the city together — she agrees, and the conversation happens during the drive
+5. A player-initiated request to take the Rastra outside the city together — she agrees, and the conversation happens during the drive
 
 ---
 
