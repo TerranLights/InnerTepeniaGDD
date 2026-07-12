@@ -92,6 +92,7 @@ TBD
 - **Hawaii as neutral ground:** The Sovereign Republic of Hawaii was described as politically and economically neutral. Did that neutrality protect it during the wars, or make it a target, or simply irrelevant to the violence?
 - **The Planetary Split Brain:** If Doris's archives survived and contain pre-war historical records, they could be a third source of truth — alongside the conflicting subnet records and the South Pole synchronized archive — for the Split Brain questline.
 - **A 2w3 who preserved instead of built:** Most figures in Tepenian history are remembered for creating things — the Arcanet, the orbital infrastructure, the cities. Doris preserved things. That's a different kind of legacy.
+- **Sumerian language chain (2026-07-12):** if any Hall of Archives contents survived and reached Tepenia, Doris is the plausible preservation source for ultra-specialized pre-war scholarship (e.g. Assyriology/Sumerology) that later informs robot Sumerian usage in Concordia, with Salagéa Aparast as the delivery vector. See `Worldspace/Robot_Biology_and_Culture/Sumerian_Language_in_Robot_Culture.md`. This gives the still-open "did any archive contents survive" question real narrative weight beyond Doris's own arc.
 
 ---
 

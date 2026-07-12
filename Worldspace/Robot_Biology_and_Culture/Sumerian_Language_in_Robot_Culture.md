@@ -52,9 +52,23 @@ This mechanism sits comfortably in territory the project has already built: Gemi
 
 ---
 
+## The Preservation & Delivery Chain: Doris Morikawa and Salagéa Aparast
+
+**Added 2026-07-12, same session.** The four mechanisms above establish *why* robots would plausibly adopt Sumerian. This section answers a harder, more concrete question: how would ultra-specialized pre-war human scholarship on a dead Bronze Age language ever physically reach Antarctica in the first place? Two already-established characters, previously undeveloped in relation to each other, turn out to form a complete answer.
+
+**Doris Morikawa** — Gynoid, Head Librarian of the Hall of Archives in the Sovereign Republic of Hawaii, "responsible for the cataloging and preservation of much of pre-war earthly knowledge, maintained against the possibility of a global catastrophe" (see her own README, `Worldspace/Characters/Dolls/Past_History_-_Known_to_Tepenians/Doris Morikawa/`). She is the **preservation source**. An institution charged with preserving "the entirety of pre-war human knowledge" would plausibly hold real-world Assyriological and Sumerological scholarship — cuneiform tablet catalogs, translations, linguistic analysis — among everything else in its care, the same way any comprehensive pre-catastrophe archive would. Worth noting explicitly: Doris is herself a robot memory-keeper by vocation, not a human scholar — she is a living instance of Mechanism 1 above (memory-keeper vocation), not an exception to it. A robot devoted to preserving Sumerian specifically would be walking the same path Doris already walked at civilizational scale.
+
+**Salagéa Aparast** — the **delivery vector**. Her established character concept is a datashard courier who "collects datashards from the old pre-war internet and delivers them throughout Tepenia so the information can be logged and archived via the Arcanet," working "tirelessly to preserve the backlog of civilizational knowledge so it is never lost" (see her own README, `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Salagéa Aparast/`). If any portion of the Hall of Archives' contents survived in digitized or data-transferable form, Salagéa's ongoing courier work is the exact, already-existing in-fiction mechanism by which that content would have reached Tepenia and entered the Arcanet — no new delivery infrastructure needs inventing.
+
+**Chain, end to end:** pre-war Sumerian scholarship, preserved at the Hall of Archives under Doris Morikawa's care → survives (at least partially) into datashard form → retrieved and carried into Tepenia by Salagéa Aparast → logged into the Arcanet → available for a memory-keeper-vocation robot in Concordia to study and adopt.
+
+**Honest dependency, not yet resolved:** Doris's own file lists "did any archive contents survive and reach Tepenia?" as an explicit open question — this chain does not require that question to already be settled, but it is now a genuine reason to eventually resolve it in the affirmative, at least partially, rather than leaving it permanently open. It also gives Salagéa's still-mostly-TBD personal questline (see her own Design Notes) a concrete narrative hook that didn't exist before: tracing a specific, valuable, ultra-rare delivered datashard back to its Hall of Archives origin.
+
+---
+
 ## Open Questions
 
 - Which specific robots, factions, or districts actually practice this, and how widespread or rare it is — a single obscure subculture, a recognized tradition within an existing named robot religion, a Taurus-specific ceremonial practice, a Gemini/Pisces operational tool, or some combination of more than one of the above.
-- Whether any human characters are established as capable of reading or recognizing Sumerian, and if so, what that says about them (a scholar, an archivist, someone who worked closely with a robot who taught them).
-- Whether this connects to any specific named character, questline, or piece of environmental storytelling, or remains a background cultural texture element for now.
+- ~~Whether any human characters are established as capable of reading or recognizing Sumerian~~ — **partially answered:** Doris Morikawa (Gynoid, not human) is a plausible preservation source and Salagéa Aparast a plausible delivery vector, see the Preservation & Delivery Chain section above. Whether any *human* reader/scholar exists is still open.
+- Whether this connects to any specific named character, questline, or piece of environmental storytelling beyond Doris and Salagéa, or remains a background cultural texture element for now.
 - Whether the U.R.U.K. acronym itself should be treated as an intentional in-world reference (i.e., someone who named the lab specifically had this in mind) or as a resonance a curious player/character discovers without it being an authored deliberate choice within the fiction — these have different narrative weights and are worth choosing deliberately rather than leaving ambiguous.
