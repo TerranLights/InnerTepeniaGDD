@@ -53,12 +53,11 @@ She reads as: the person who makes you feel included before you've decided wheth
 - Moral tendencies & player influence: TBD
 
 ## Backstory Summary
-Originally from Dumont d'Urville (Adélie Land) — Tepenia native. Before the Long Night War, she had relocated from Dumont d'Urville to one of two possible intermediate cities, from which she ultimately fled to Concordia:
+Originally from Dumont d'Urville (Adélie Land) — Tepenia native. **Migration route RESOLVED, 2026-07-12:** before the Long Night War, she relocated from Dumont d'Urville to Janbogo and settled there for a time — a route with a strong personality match, since Janbogo's own established civic identity ("a city whose whole civic identity is about making people feel at home," defined by absorbing and re-originating whatever culture reaches it) closely mirrors her own established read ("the person who makes you feel included before you've decided whether to be"). See the Janbogo Megasheet's own `Janbogo_Full_Extrapolation.md` Section VI, which independently proposed this same route.
 
-- **Route A — via Janbogo:** She moved to Janbogo at some point before the war and fled to Concordia via Highway 183 when the Long Night War broke out.
-- **Route B — via Casey:** She moved to the city of Casey (reached from Dumont d'Urville via Highway 2, the Dumont Coast Highway / "DCH") and fled to Concordia via Highway 110 during the war.
+**Still open:** whether she subsequently fled to Concordia when the war reached Janbogo (main-game companion, as currently filed), or remained in Janbogo through and after the war and is instead the Janbogo/Ross Sea subnet DLC's recruitable companion — same shape of open question as Salagéa Aparast's now-resolved main-game-vs-DLC placement. Deliberately left open for now; either is fully supportable since Janbogo survived the war (damaged, not destroyed), so both a flight-to-Concordia and a stayed-in-Janbogo path are plausible.
 
-Which route is canon is TBD — pending lore development for the city of Casey (see Design Notes). Full backstory details in `Personal_Background/` as they develop.
+Full backstory details in `Personal_Background/` as they develop.
 
 ## Role in Main Story / World
 - Connection to larger narrative: TBD
@@ -77,16 +76,13 @@ Which route is canon is TBD — pending lore development for the city of Casey (
 
 ## Design Notes & Open Questions
 - **Origin city:** Dumont d'Urville (Adélie Land, East Antarctica) — confirmed Tepenia native.
-- **Migration route (TBD — two options):**
-  - **Route A:** Dumont d'Urville → Janbogo → Concordia (Highway 183)
-  - **Route B:** Dumont d'Urville → Casey (Highway 2 / Dumont Coast Highway / "DCH") → Concordia (Highway 110)
-  - Route B depends on Casey lore development. The "DCH" naming is partially inspired by the Pacific Coast Highway (PCH) of present-day California.
-- **Casey — no lore exists yet.** Determining Pink Lucy's migration route requires at least a basic understanding of what Casey is and what kind of city it was. Flag for development — see top-level TODO.md.
-- **Why Janbogo or Casey (not direct):** She did not flee directly from Dumont d'Urville to Concordia — she had already relocated before the war, either for opportunity (Janbogo's cultural scene) or along a natural coastal migration route (Casey). Exact reason TBD pending backstory development.
+- **Migration route — RESOLVED 2026-07-12:** Dumont d'Urville → Janbogo (settled there for a time before the war). Chosen over the Casey alternative on personality-match grounds (see Backstory Summary) — Casey's own established civic character ("comparatively muted... organized around function rather than a strong unifying aesthetic," per its Megasheet) is a weaker fit than Janbogo's hospitality-and-synthesis identity, and Casey's proposed early, deliberate destruction (a targeted strategic chokepoint, per `Casey_Full_Extrapolation.md`) would have compressed her time there uncomfortably. The old Route A/B framing and the Highway 2/"DCH" detail are retired along with Casey as her route; that highway/city material stands on its own in Casey's Megasheet, just no longer tied to her.
+- **New open question — main game vs. Janbogo DLC placement:** did she flee to Concordia when the war reached Janbogo (current filing, main-game companion), or did she remain in Janbogo and become the Janbogo/Ross Sea subnet DLC's recruitable companion instead? Both are fully supportable since Janbogo survived the war damaged rather than destroyed. Deliberately deferred — same shape of question as Salagéa Aparast's already-resolved DLC placement call.
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:
-  - [ ] Resolve migration route (Route A vs. Route B) — pending Casey lore development
+  - [x] Resolve migration route — RESOLVED 2026-07-12, via Janbogo
+  - [ ] Main game vs. Janbogo DLC placement decision
   - [ ] Full backstory
   - [ ] Visual design
   - [ ] Questline design

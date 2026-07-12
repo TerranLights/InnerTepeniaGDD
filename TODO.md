@@ -850,8 +850,8 @@ These require a developer call before downstream work can proceed. None can be r
   2. **DLC trigger:** She is a natural vehicle for getting the player out of Concordia for at least one DLC. Her Rastra and continental expertise could be the practical means of departure; her reasons for finally leaving (or lending the vehicle) could tie directly into the DLC's stakes.
   See Michelle Stanton README — Design Notes.
 
-- [ ] **Casey — city lore development (blocking Pink Lucy's migration route)**
-  No lore exists for the city of Casey. Pink Lucy's pre-war migration route is either via Janbogo (Highway 183 → Concordia) or via Casey (Highway 2 / Dumont Coast Highway → Highway 110 → Concordia). Route B cannot be confirmed until Casey has at least a basic cultural and geographic identity. Develop Casey before finalizing her backstory.
+- [x] **Casey — city lore development — DONE (stale note); Pink Lucy's migration route RESOLVED 2026-07-12**
+  Casey in fact already has a full Megasheet (`City_Megasheets/Mirny_Subnet/Casey/`) — this entry's "no lore exists" premise was stale. Pink Lucy's migration route is resolved as Dumont d'Urville → Janbogo (not Casey) — see her own README's Design Notes for the personality-match reasoning. New open item in her place: main game (Concordia) vs. Janbogo/Ross Sea subnet DLC placement, same shape as Salagéa Aparast's own resolved DLC-placement question.
 
 - [ ] **Fort McMurdo and other Tepenian city lore**
   Palmer City is complete (`Worldspace/.../Cities/Palmer_City.md`). Full station-to-city map is complete. Fort McMurdo, Janbogo, Neumayer, Belgrano, Mirny, and others have no lore documents at Palmer City depth yet.
