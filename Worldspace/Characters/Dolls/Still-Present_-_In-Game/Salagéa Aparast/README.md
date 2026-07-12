@@ -2,9 +2,9 @@
 
 ## Salagéa Aparast
 
-**Role / Archetype:** Datashard courier; civilizational archivist; community moral authority; DLC 5 protagonist
-**Primary Location(s):** Atlantic Coastal Region (DLC 5 — confirmed)
-**Affiliation(s):** No-One-Left-Behind Registry (Cancer advocacy organization — Concordia origin)
+**Role / Archetype:** Datashard courier; civilizational archivist; DLC 5 protagonist
+**Primary Location(s):** Atlantic Coastal Region, near Belgrano (Halley subnet) — DLC 5, confirmed. She is not settled in Concordia and does not appear there.
+**Affiliation(s):** Independent (no formal faction — her courier network is informal and self-directed)
 **Companion Potential:** Yes — DLC 5 protagonist and recruitable companion (same model as Kendra Heinrich in DLC 1)
 **Romance Potential:** Yes — confirmed romanceable; stat/trait thresholds TBD pending Phase 7 personality design
 
@@ -33,7 +33,7 @@
 
 - **Retrieval Contact Network:** Her contacts across Tepenia are the keepers — each received records she delivered. She does not hold the information herself; she is a map to whoever does. If the player needs specific information, she can identify which contact likely has it and open that door. Additionally, her upstream Upper Earth sourcing routes may be the only way to access records that were never retrieved — she potentially has contacts who can pull something nobody in Tepenia has yet seen.
 
-- **Community Endorsement:** Her standing as a recognized moral authority changes how communities receive the player. In Cancer, Taurus, and Capricorn specifically, her presence functions as a vouching mechanism — NPCs who would be suspicious or hostile are instead cautious or receptive, and doors open that would not open otherwise. Broader in geographic scope than Favi's Taurus Community Standing and rooted in moral credibility rather than security history.
+- **Community Endorsement:** *(Reframe pending — this perk was written for a Concordia/Cancer-based version of her that placement resolution ruled out; needs rebuilding around her actual Atlantic-coast/DLC 5 setting rather than removed outright, since the underlying "moral authority opens doors" concept is still usable.)*
 
 - **Moral Clarity in Negotiation:** Her 1w2 capacity to articulate ethical stakes with precision and calm gives her unusual weight in arguments where the player is holding a principled position against pressure. She is not persuasive through charm — she is persuasive through the quality of her framing. Her presence in a difficult negotiation shifts something that words alone may not.
 
@@ -60,7 +60,7 @@ A Tepenia native originally from Belgrano. She lives on a boat she sails herself
 
 During the Long Night War, she chose not to flee into space through Amundsen Tower. She stayed on Earth specifically to continue cataloguing and archiving pre-war knowledge — ensuring that what was recorded could be transmitted to the robots and humans who did escape, so that history is preserved across the solar system, not just on the surface.
 
-**Note:** Placement is unresolved — see Design Notes and top-level TODO.md. Concordia is far inland; her boat is not accessible from there, making the Cancer/Concordia framing contingent on whether she is a settled main game character or an active DLC character.
+**Placement RESOLVED (2026-07-03, see TODO.md):** DLC 5, Atlantic Coastal Region — not a Concordia district. She remains an active boat-dwelling datashard courier near Belgrano, her home city; she does not settle in Concordia and the Cancer/No-One-Left-Behind Registry framing does not apply to her.
 
 **Belgrano cultural context (2026-07-03):** Full cultural spec sheet for her home city at `Cities/Local_Cultures/Halley_Subnet/Belgrano.md`. Belgrano survived the Long Night War intact and declined into ruin afterward — still inhabited, not destroyed — and its culture is built around discipline-without-institution: residents (and Salagéa herself) carrying forward the founding Air Force base's functional, purposeful ethos decades after the institution itself stopped existing. Her archival courier work reads as a direct expression of that city identity, even though she now lives apart from the ruins themselves.
 
@@ -83,17 +83,14 @@ See `Personal_Background/` for details as they develop.
 
 ## Design Notes & Open Questions
 
-- **Placement decision (blocking):** Concordia is far inland — her boat cannot be accessed from there without a very long overland trek. Two paths, both preserved pending decision:
-  - **Main game (settled):** She lives in Concordia permanently. The boat and active datashard courier life are her past. The Cancer/No-One-Left-Behind Registry role fits this version. Her itinerant identity becomes backstory rather than present reality.
-  - **DLC 5 (Atlantic coast):** She remains an active boat-dwelling datashard courier near Belgrano (her home city). Her full character concept is preserved but she is not in the main game. The Cancer/Registry content in Concordia would need a different character or restructuring.
-- **If main game:** The "Cancer community moral authority" framing holds — she has a room or arrangement in Cancer when she's in Concordia, it's her landing point, but the boat is her past. The No-One-Left-Behind Registry is where she channels that energy now.
-- **If DLC 5:** The Cancer/Registry content needs to be detached from her and reassigned, or restructured to reflect the coastal setting.
+- **Placement RESOLVED (2026-07-03):** DLC 5, Atlantic Coastal Region — an active boat-dwelling datashard courier near Belgrano, not a settled Concordia character. Concordia is far inland; her boat cannot be accessed from there without a very long overland trek, which was the deciding factor. The Cancer/No-One-Left-Behind Registry framing that was written for a hypothetical main-game version of her no longer applies and has been removed — that content would need a different character if it's wanted in Concordia, not a restructuring of her.
 - **Connection to Vosora:** Both Salagéa and Vosora are working to preserve and transmit knowledge to the space-dwelling Tepenian population. Potential relationship or shared history worth developing regardless of placement.
 - **Connection to Griselda Alejandra Chávez (2026-07-03):** Personally knew each other during Belgrano's pre-war era — Griselda a longtime resident/instrument-maker, Salagéa a Belgrano native. Griselda left via an early Amundsen Tower evacuation before the Long Night War and now lives on Deimos; she does not appear in-game, but the relationship is a real DLC 5 narrative asset (a personal thread to an off-world character, surfaced through dialogue/lore rather than a physical appearance).
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:
-  - [ ] Main game vs. DLC 5 placement decision — see top-level TODO.md
+  - [x] Main game vs. DLC 5 placement decision — RESOLVED 2026-07-03, DLC 5
+  - [ ] Rebuild the Community Endorsement perk around her actual Atlantic-coast setting (see Key Traits above)
   - [ ] Visual design
   - [ ] Personality and voice
   - [ ] Questline design
