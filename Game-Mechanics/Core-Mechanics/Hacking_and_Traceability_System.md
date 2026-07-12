@@ -4,6 +4,26 @@
 
 ---
 
+## What Makes This Possible: The Bridge Unit
+
+**Confirmed 2026-07-12, resolving a standing TODO.md flag** ("review and reconcile (or discard)" — the term had been sitting unresolved across several files: `Energy_Grid_Failure_Rationale.md`, Flora's README, `Climax_Structure_and_District_Ending_Consequences.md`, and `Failsafes.md`, none of which had ever actually defined it).
+
+**A Bridge Unit is a robot classification built to interface across the fractured, post-Split-Brain systems** — the same fragmentation that corrupted Calethina and split the Arcanet into isolated regional networks (see [[project_calethina_backstory_design]]). Most robots' architecture is native to one side of that fracture. A Bridge Unit's isn't, which is why the player character can reach the grid's oldest, most corrupted sections that nobody else can, and why Calethina — a pre-Split-Brain AI, now fragmented herself — can download into the player specifically. Calethina activated the player as a Bridge Unit herself, at the very start of the game, which is also why a secret ending can describe her as the only being that understood the Bridge Unit's origin and nature: she made that choice.
+
+Bridge Units are rare enough that other robots treat the classification as something close to mythology (see Flora's dialogue, which nicknames the player "Bridge" or mocks them as a "fresh-activated Bridge Unit").
+
+## The Jack-In Interaction
+
+**Confirmed 2026-07-12.** The Bridge Unit's interfacing capability is expressed in-fiction through a physical jack-in action — a link/cable drawn from the hand, connected to the target, then withdrawn. This is the diegetic trigger for everything in this document: terminals, access points, antennas, and Arcanet nodes are all accessed this way.
+
+**Hard implementation commitment, same category as Calethina's always-floats rule:** jacking in is never a backgrounded, instant action. It always plays a short, distinct triggered sequence — cable extends, connects, does its work, retracts — rather than resolving silently the way, say, opening a door does. Precedent: Fallout 1's hunch-over-and-type terminal animation, Wasteland 3's weapon draw/holster beats.
+
+This also gives **Signal Weapons** (see `Game-Mechanics/Combat/Damage_Types.md`'s Weapon Category Cross-Reference) their signature delivery method in combat, rather than leaving that category as an abstract taxonomy entry — a Signal Weapon is fired through the same jack-in action, just against a hostile or defended target instead of a passive terminal.
+
+**Still open:** exact sequence presentation (what the animation actually shows, whether combat use of Signal Weapons gets a distinct beat from exploration-use of terminals/access points), AP cost, effective range, and failure-state presentation when a target is too corrupted, too well-defended, or actively hostile during the attempt.
+
+---
+
 ## Hackable Target Types
 
 The world contains a variety of hackable entities, each with their own security level and consequence profile.
