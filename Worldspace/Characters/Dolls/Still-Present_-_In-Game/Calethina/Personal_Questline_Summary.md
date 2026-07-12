@@ -2,6 +2,8 @@
 
 ---
 
+**→ See `Questlines/Substrate_Transfer_and_Embodiment_Design.md` (2026-07-12) for the real design session this file's "confirmed design points" callout was waiting on.** That document is now the authoritative source for the substrate-transfer dilemma, the embodiment/download branches, and the romance gate. The confirmed points below remain accurate baseline; the Step 1-5 walkthrough that follows is still Grok-drafted reference material, not confirmed structure.
+
 ## ⚠ Design Status: DEFERRED — Review Required Before Development
 
 This questline was written by Grok. The 5-step structure and the general degradation arc are useful reference material, but several elements need to be reviewed and reconciled against confirmed design decisions before this file is treated as authoritative.
