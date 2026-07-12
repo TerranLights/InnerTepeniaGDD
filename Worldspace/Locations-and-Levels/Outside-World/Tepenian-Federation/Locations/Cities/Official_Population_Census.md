@@ -599,6 +599,8 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 *Taken immediately before the Long Night War, after decades of orbital migration via Amundsen Tower had redistributed a significant fraction of the population off-surface. Population is conserved between Census I and Census II — nobody was born or died in the transition; they relocated.*
 
+***Timeline correction, 2026-07-12*** *(see [[feedback_census_ii_iii_timeline]]): Census II is a pre-war snapshot, full stop — it cannot contain war outcomes. Several rows below previously carried post-war status labels ("destroyed in Long Night War," etc.) directly on this pre-war table, which is a tense contradiction: a census taken before a war cannot record a city as already destroyed in it. Those labels have been reworded to read as forward-looking context (what happened after this snapshot was taken) rather than as facts already true at the time of the census. **No genuine Census III (an actual present-day, post-war population table) exists anywhere in this project yet.** Building one would require establishing real war-casualty/damage-severity rates per destroyed or damaged city — a separate, significant task, not something folded into this pass. Until it exists, there is no authoritative "current population" figure for Inner Tepenia's own present day (≈2822–2827) — only this pre-war baseline (Census II) and the historical-loss notes in Section IV below, which describe what's known to have changed since.*
+
 ### Antarctic Surface — City Populations
 
 *Population redistribution (2026-07-03):* the same redistribution applied to Census I (see note in Section I) applies here — Janbogo, Zukelli, and Esperanza reduced by the same method, Lazar receiving the combined transfer. See Section I for the exact percentages and transferred amounts.
@@ -614,13 +616,13 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | 7 | Zhongshan | Mirny | 522,372 | 474,312 | **996,684** | |
 | 8 | Janbogo | Janbogo | 490,564 | 467,006 | **957,570** | *(revised 2026-07-03)* |
 | 9 | Mawson | Mawson | 427,321 | 525,125 | **952,446** | |
-| 10 | Zukelli | Janbogo | 443,754 | 493,905 | **937,659** | *(destroyed in Long Night War; revised 2026-07-03)* |
+| 10 | Zukelli | Janbogo | 443,754 | 493,905 | **937,659** | *(would not survive the Long Night War that followed; revised 2026-07-03)* |
 | 11 | Soyuz | Mirny | 437,854 | 450,438 | **888,292** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
-| 12 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(ruined; DLC 5)* |
+| 12 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(would survive the war but be ruined afterward; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
-| 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(destroyed in Long Night War)* |
+| 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(would not survive the Long Night War that followed)* |
 | 17 | Shirayuki | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section I)* |
@@ -689,7 +691,9 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 
 ## Section IV — Historical Note: Lost and Ruined Cities
 
-The following cities appear in both census records. They did not survive to the post-war period in which Inner Tepenia takes place.
+**Reframed 2026-07-12** (see the timeline-correction note in Section III above): the population figures below are the last snapshot Census II recorded for each of these cities — a pre-war baseline, not a record of their fate. What follows each figure is what's separately known to have happened after that snapshot was taken, narrated from Inner Tepenia's own present-day perspective (≈2822–2827), not from the census's.
+
+The following cities appear in Census II above. None of them survive to the post-war period in which Inner Tepenia takes place.
 
 **Zukelli** *(Terra Nova Bay, Janbogo Subnet)*
 Destroyed during the Long Night War. At time of destruction, Zukelli's combined population was approximately **1,302,000** — making it the second-largest city in the Federation by Orbital Era figures. Human retention rates immediately before the war were 72.5%; robot retention was 77.7%. Zukelli was not a depleted or declining city. It was near its peak population when it was destroyed.
