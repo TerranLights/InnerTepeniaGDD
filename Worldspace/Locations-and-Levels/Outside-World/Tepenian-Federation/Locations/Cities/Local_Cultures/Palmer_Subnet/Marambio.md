@@ -25,7 +25,7 @@
 | Significant | Germany, UK, Spain, Canada, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Marambio's Significant tier is unusually broad for the Palmer subnet — six nations rather than the more typical five, including Spain, which doesn't appear at this tier in most other Peninsula cities. Argentina, the actual founding-operator nation (Argentine Air Force heritage), sits at Notable tier by Census II — diluted like every Palmer subnet founding nation, though its institutional and cultural imprint on the city ran deep given the military character of the original base.*
+*Marambio's Significant tier is unusually broad for the Palmer subnet — six nations rather than the more typical five, including Spain, which doesn't appear at this tier in most other Peninsula cities. Argentina, the actual founding-operator nation (Argentine Air Force heritage), sits at Notable tier by Census II — diluted like every Palmer subnet founding nation, though the original base's military character left a deep institutional imprint on the city that outlasted the founding population's own numeric share.*
 
 ---
 
@@ -98,7 +98,7 @@ Built directly around the airfield — flat, functional, aviation-first construc
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Argentine-inflected, practical, shaped by a transient population that doesn't linger over elaborate meals.
+- **a. Human cuisine** — Practical, developed independently by a transient population that doesn't linger over elaborate meals.
 - **b. Social context of eating** — Functional, tied to flight schedules rather than any elaborate social tradition.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to the city's practical, logistics-first character.
 
@@ -112,7 +112,7 @@ Practical aviation/logistics work clothing as the civic default — function ove
 
 ## 12. Music
 
-Modest, Argentine-inflected, background rather than central to civic identity — Marambio was never a cultural capital the way Palmer City was; its energy went into keeping planes moving and fossils documented, not into cultivating a musical tradition.
+Modest, background rather than central to civic identity — Marambio was never a cultural capital the way Palmer City was; its energy went into keeping planes moving and fossils documented, not into cultivating a musical tradition.
 
 ---
 

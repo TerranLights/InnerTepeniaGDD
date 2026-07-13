@@ -60,7 +60,7 @@ Polar night ~108 days (April 28 – August 14); midnight sun ~128 days (October 
 Byrd's identity rests on two facts working together: it was founded underground, by people who chose the hardest possible route to get there, and it is now — following Framheim and Little America's removal from canon — the only city its own subnet has left. A city that always understood itself as remote just became, in a very literal sense, alone.
 
 - **a. Founding tension** — Not the usual founding-nation-vs-majority pattern (its composition is a genuine population blend, not a founding-vs-dilution story) — the real tension is between the deliberate, expedition-driven founding (people who chose Byrd specifically because it was difficult) and the demographic reality that most of its people arrived later, indirectly, as a redistribution consequence, having chosen nothing about Byrd specifically at all.
-- **b. Fault lines** — Between the "founding character" (American, expedition-minded, self-sufficient) and the newly-arrived population blend's genuine breadth — Byrd's Notable tier is now nearly as diverse as Palmer City's, a strange fit for a city whose whole self-image is built around isolation and self-reliance.
+- **b. Fault lines** — Between the "founding character" (expedition-minded, self-sufficient, earned through the crossing itself) and the newly-arrived population blend's genuine breadth — Byrd's Notable tier is now nearly as diverse as Palmer City's, a strange fit for a city whose whole self-image is built around isolation and self-reliance.
 
 ---
 

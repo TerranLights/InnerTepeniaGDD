@@ -107,7 +107,7 @@ Named for Georg von Neumayer — not an Antarctic explorer himself, but the man 
 
 What the founding exile community inherited, alongside the station's science programs, was an entire settlement's worth of science, engineering, and research equipment — worn, mostly defunct, but salvageable. Rather than discarding it, the founding community treated the equipment as the seed of a broader engineering mission. Neumayer became not only a science-and-engineering-oriented city but eventually the site of one of Tepenia's most significant engineering projects: the schematic drafting, design, and engineering of what would become Amundsen Tower. The full facility infrastructure — the precision instruments, the structural analysis tools, the inherited AWI technical traditions — made Neumayer the most capable engineering city in the Halley subnet, and the natural home for work of that scale and precision.
 
-**Founding population:** Primarily German exiles with strong scientific-institutional character. The AWI's research mission became the city's founding purpose, extended from a research station into a functioning community.
+**Founding population:** Primarily exiles who staffed and inherited the AWI station. The AWI's research mission became the city's founding purpose, extended from a research station into a functioning community.
 
 Named for Georg von Neumayer (1826–1909) — maintaining the historical name across the transition from research station to city.
 
@@ -115,7 +115,7 @@ Named for Georg von Neumayer (1826–1909) — maintaining the historical name a
 
 ## Character & Culture
 
-Neumayer had the character of a city that took science and engineering seriously because that was all it had been built to do — and because the equipment it had inherited demanded it. The AWI institutional heritage — rigorous, methodical, focused on systematic long-term data collection — shaped the city's culture from the beginning. Neumayer was comfortable with multi-generational projects: climate records spanning centuries, glaciological monitoring spanning the full exile period, atmospheric data that no other city in Tepenia could replicate.
+Neumayer had the character of a city that took science and engineering seriously because that was all it had been built to do — and because the equipment it had inherited demanded it. Decades-old instruments with no replacements in sight, and an ice shelf that never stopped moving beneath the city, left no room for sloppy work: rigorous, methodical, systematic long-term data collection was simply what surviving and doing anything meaningful here required, and it shaped the city's culture from the beginning. Neumayer was comfortable with multi-generational projects: climate records spanning centuries, glaciological monitoring spanning the full exile period, atmospheric data that no other city in Tepenia could replicate.
 
 The Amundsen Tower project is Neumayer's most famous contribution to Tepenia. The Tower was not built in Neumayer — it was built at the South Pole — but the schematics, engineering design, and structural planning originated here, in the precision-instrument infrastructure the founding exile community had inherited and rebuilt. The work required everything Neumayer had: the instruments, the computational resources, the engineering tradition the AWI community carried. It made Neumayer's name in Tepenia.
 

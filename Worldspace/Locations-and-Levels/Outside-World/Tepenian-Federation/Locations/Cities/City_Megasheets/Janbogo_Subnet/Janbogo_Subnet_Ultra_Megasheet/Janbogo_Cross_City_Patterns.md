@@ -24,7 +24,7 @@ Unlike Halley subnet's own damage-*mechanism* taxonomy (passive age-favoring, ac
 
 ## Pattern 2: Founding-nation civic template persisting beneath total demographic dilution — tested, not just asserted
 
-Dumont d'Urville's own Cross-Reference Finding 1 explicitly proposed a testable distinction — *functional daily transmission* (a founding culture surviving because ordinary civic life is still conducted in it, Quebec City's real 400-year precedent) versus *ceremonial-only preservation* (a founding culture surviving only in names, holidays, and architecture, vulnerable to further dilution) — and named Fort McMurdo, Janbogo, and Zukelli as the subnet's other candidates worth checking. Running that check now, across all four:
+Dumont d'Urville's own Cross-Reference Finding 1 explicitly proposed a testable distinction — *functional daily transmission* (a founding culture surviving because ordinary civic life is still conducted in it, Singapore's real precedent) versus *ceremonial-only preservation* (a founding culture surviving only in names, holidays, and architecture, vulnerable to further dilution) — and named Fort McMurdo, Janbogo, and Zukelli as the subnet's other candidates worth checking. Running that check now, across all four:
 
 - **Dumont d'Urville (French):** functional. French is "picked up simply through years of civic life conducted in it," regardless of ancestry — the strongest, most literally proven case in the subnet.
 - **Janbogo (Korean):** functional-leaning. Janbogo's own established "absorption culture" — a civic identity that folds new arrivals into its existing template rather than being displaced by them — describes the same underlying mechanism as Dumont d'Urville's French transmission, just under a different name.

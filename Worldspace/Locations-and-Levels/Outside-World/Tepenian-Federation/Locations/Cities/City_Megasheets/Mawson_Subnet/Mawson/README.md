@@ -165,15 +165,15 @@ Section I is the most structurally useful proposal here — it gives Mawson's ow
 
 ---
 
-## Finding 2: Mawson's hospitality may be a direct product of its demographic plurality, not a separate trait alongside it
+## Finding 2: Mawson's hospitality and its demographic plurality are two separately-earned civic traits, not one caused by the other
 
-**Combining:** Odessa's real, explicitly documented "legendary hospitality," which emerged from its own genuinely multicultural port-city character + Mawson's own established "genuinely easy to make friends here" trait + its honeymoon-destination reputation specifically.
+**Combining:** Odessa's real, explicitly documented "legendary hospitality," a real-world echo worth noting as coincidence rather than mechanism + Mawson's own established "genuinely easy to make friends here" trait + its honeymoon-destination reputation, already established elsewhere as something the city built deliberately, "earned over decades," the same way it built its hub function.
 
-**2nd-order effect:** Odessa's real hospitality reputation plausibly grew *out of* its multicultural character — a place where no single community could claim sole ownership of local identity had practical reason to make welcoming outsiders the civic default. Applied to Mawson: its own hospitality character may not be a separate, additional trait sitting alongside its demographic plurality, but a natural consequence of it.
+**2nd-order effect:** Odessa's own real hospitality reputation is a useful real-world texture reference, but Mawson's own established history is explicit that its hospitality character was a deliberate civic project, not a byproduct of who happens to live there. Applied to Mawson: its hospitality character and its demographic plurality read as two traits that grew up side by side in the same actively-cultivated civic culture, not one producing the other.
 
-**3rd-order effect:** this reframes the relationship between Mawson's two defining traits from "two facts that happen to coexist" into "one plausibly causing the other" — the honeymoon-destination reputation reads less like an unrelated bonus quality and more like an almost inevitable outgrowth of a city where no group could gatekeep what "being a local" means.
+**3rd-order effect:** this keeps Mawson's two defining traits as complementary results of the same deliberate civic effort — a hub city that made hospitality a genuine institutional priority — rather than reducing the honeymoon-destination reputation to a downstream effect of population statistics.
 
-**4th-order effect:** this is worth checking against other genuinely multinational Tepenian cities (Davis's own long Notable tier, Palmer City's all-43-nation composition) — whether they, too, developed unusually welcoming civic characters as a natural consequence of the same underlying mechanism, rather than assuming hospitality and demographic plurality are unrelated traits that happen to co-occur only at Mawson.
+**4th-order effect:** this is worth checking against other genuinely multinational Tepenian cities (Davis's own long Notable tier, Palmer City's all-43-nation composition) — whether they, too, deliberately built distinctly welcoming civic characters through their own institutional choices, rather than assuming hospitality follows automatically from demographic plurality wherever it appears.
 
 ---
 
@@ -191,10 +191,10 @@ Section I is the most structurally useful proposal here — it gives Mawson's ow
 
 ## Synthesis: The Pattern Across All Three Findings
 
-All three findings trace back to the same underlying observation: Mawson's established civic identity is genuinely load-bearing at more than one level simultaneously. Finding 1 shows the "outlasted the founders" theme operating infrastructurally, not just demographically. Finding 2 suggests two of the city's defining traits may be causally linked rather than coincidental. Finding 3 shows the city holding two different kinds of prestige, from two different eras, without contradiction. None of this required inventing new facts — it's what emerges from reading the established material carefully against itself and against real-world precedent.
+All three findings trace back to the same underlying observation: Mawson's established civic identity is genuinely load-bearing at more than one level simultaneously. Finding 1 shows the "outlasted the founders" theme operating infrastructurally, not just demographically. Finding 2 shows two of the city's defining traits growing out of the same deliberate civic effort, side by side rather than one causing the other. Finding 3 shows the city holding two different kinds of prestige, from two different eras, without contradiction. None of this required inventing new facts — it's what emerges from reading the established material carefully against itself and against real-world precedent.
 
 ---
 
 ## Worth Your Attention
 
-Finding 2 is the most generative for future work — if hospitality-as-a-product-of-plurality holds up as a real pattern once checked against Davis and Palmer City, it becomes a genuine, reusable design principle for any future Tepenian city with a similarly diverse founding composition, rather than a one-off observation specific to Mawson alone.
+Finding 2 is the most generative for future work — if deliberately-cultivated hospitality holds up as a real pattern once checked against Davis and Palmer City, it becomes a genuine, reusable design principle for any future Tepenian city with a genuinely diverse population, rather than a one-off observation specific to Mawson alone.

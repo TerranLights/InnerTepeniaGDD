@@ -24,7 +24,7 @@
 
 ## Who Lives Here, and Why
 
-China and USA sit co-Primary (19.48%/22.62%), with a broad Significant tier beneath them — Japan, UK, Australia, South Korea, Canada, Indonesia. New Zealand itself, the founding-operator nation, sits at Notable tier (3.52%) — one of the deepest founding-nation dilutions documented anywhere in Tepenia, even as the city's whole civic identity remains organized around New Zealand's own founding sensibility.
+China and USA sit co-Primary (19.48%/22.62%), with a broad Significant tier beneath them — Japan, UK, Australia, South Korea, Canada, Indonesia. New Zealand itself, the founding-operator nation, sits at Notable tier (3.52%) — one of the deepest founding-nation dilutions documented anywhere in Tepenia, even as the city's whole civic identity remains organized around the founding-era civic template that took root early.
 
 ---
 

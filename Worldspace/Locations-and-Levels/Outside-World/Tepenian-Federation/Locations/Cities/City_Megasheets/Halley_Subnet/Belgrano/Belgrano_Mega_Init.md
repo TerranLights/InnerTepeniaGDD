@@ -24,7 +24,7 @@
 
 ## Who Lives Here, and Why
 
-USA sits Primary, with Germany, UK, and Brazil at Significant, and Argentina — the actual founding nation — diluted all the way to Notable. Belgrano is the project's most extreme case of founding identity outlasting demographic weight: Argentina set the entire operational character, and still ended up the lowest recognized tier, behind four other nations that arrived later and in greater numbers.
+USA sits Primary, with Germany, UK, and Brazil at Significant, and Argentina — the actual founding nation — diluted all the way to Notable. Belgrano is the project's most extreme case of founding-era institutional character outlasting the demographic weight of the population that built it: the Air Force base's operational character was set at founding, and the Argentine population behind it still ended up the lowest recognized tier, behind four other nations that arrived later and in greater numbers.
 
 ---
 

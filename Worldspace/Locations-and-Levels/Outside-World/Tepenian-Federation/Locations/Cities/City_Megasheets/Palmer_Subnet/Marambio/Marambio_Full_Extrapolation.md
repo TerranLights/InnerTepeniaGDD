@@ -31,7 +31,7 @@
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after Argentina's own demographic presence eroded to Notable tier by Census II.
+- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
 - **Paleontologist Ingrid Solberg-Vidal** *(placeholder)* — the researcher most associated with cataloguing Seymour Island's Eocene fossil record; per Section III's proposed answer, her life's accumulated scholarship is very plausibly among the losses the Long Night War inflicted, even though the fossils she studied remain in the rock exactly as she left them.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*

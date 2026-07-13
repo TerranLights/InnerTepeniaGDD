@@ -44,7 +44,7 @@ The founding council's reasoning was direct: the humans who followed robots into
 
 The name was already correct and needed no changing. *Esperanza* — hope — is exactly what a federation built on expulsion needed a city to mean.
 
-Argentine heritage shaped the city's early texture — language, custom, the practical inheritance of the original base's infrastructure and community — but the charter itself was written to be bigger than any single nation. Any human whose family had made the sacrifice of exile had a claim on what Esperanza existed to protect, regardless of where they'd come from. Multinational settlement followed quickly and was, from the outset, not a dilution of the founding identity but an expression of it.
+The city's early texture grew out of the original base's own history and infrastructure — a site literally designed and built for family habitation, inherited directly rather than improvised — but the charter itself was written to be bigger than any single nation. Any human whose family had made the sacrifice of exile had a claim on what Esperanza existed to protect, regardless of where they'd come from. Multinational settlement followed quickly and was, from the outset, not a dilution of the founding identity but an expression of it.
 
 ---
 
@@ -72,13 +72,13 @@ This ordinary rhythm shaped a genuinely child-centered civic calendar: schooling
 
 **Name/concept:** *The Guarded City* — colloquially, *Hope Bay* (used interchangeably with the city's own name, an unusually literal civic nickname)
 
-Esperanza's culture is organized, top to bottom, around a founding compact rather than a founding nationality: humans who sacrificed their entire former lives to follow robots into exile deserve to have their children protected, deliberately and as policy. Every civic institution ultimately answers to that compact. The birth registry isn't bureaucracy — it's the city's proof of purpose. Argentine heritage gives the city its early flavor — language cadence, certain customs, the shape of its original infrastructure — but its charter was never Argentine. It was human, on purpose, from day one.
+Esperanza's culture is organized, top to bottom, around a founding compact rather than a founding nationality: humans who sacrificed their entire former lives to follow robots into exile deserve to have their children protected, deliberately and as policy. Every civic institution ultimately answers to that compact. The birth registry isn't bureaucracy — it's the city's proof of purpose. The original base's own infrastructure and its first multinational settlers' habits give the city its early flavor — language cadence, certain customs, the shape of its original buildings — worked out by that founding community itself rather than imported wholesale from any one nation; where that texture happens to echo Argentina's own traditions, it's the coincidence of a shared starting point, not an inherited cause. Its charter was never Argentine. It was human, on purpose, from day one.
 
 - **a. Founding tension** — The real tension in Esperanza isn't between nations. It's between the city's founding purpose and its own demography. Esperanza exists to guard human children — and by Census II, robots outnumber humans in the population, 675,385 to 502,654 *(corrected 2026-07-05 — this line had cited pre-redistribution figures from before Esperanza was reduced to 85% of its original total for the Lazar transfer; see the header above)*. The guardians came to outnumber those they were built to guard. This isn't framed locally as failure or irony exactly — birth rates are simply lower than robot population growth, and every robot in Esperanza understands precisely why they're there — but it sits underneath the city's self-image as a quiet, structural fact nobody quite says out loud: Esperanza increasingly is its robots, in raw numbers, even though its entire reason for existing is its human children.
 
 - **b. Fault lines**
   - Between the city's official self-image — sacred mission, birth registry, the compact — and the ordinary reality of being a functioning city with an economy, a harbor, defense needs, and residents who live there simply because it's where they live, not because they're personally invested in the founding charter.
-  - Between Argentine-heritage families, who carry the site's original cultural texture, and the broader multinational population who belong to the city's mission with equal legitimacy but not the same inherited flavor — a milder, more settled version of the founding-vs-demography tension other Tepenian cities carry more sharply.
+  - Between families descended from the original base's earliest settlers, who carry a specific closeness to the site's founding-era history, and the broader multinational population who belong to the city's mission with equal legitimacy but a shorter personal thread back to that specific starting point — a milder, more settled version of the founding-vs-demography tension other Tepenian cities carry more sharply.
 
 ---
 
@@ -102,8 +102,8 @@ Esperanza's culture is organized, top to bottom, around a founding compact rathe
 
 ## 8. Language
 
-- **a. Primary language(s):** English (reflecting Primary-tier USA demographics) alongside strong, actively maintained Spanish (Argentine-inflected), plus meaningful UK-English, Portuguese (Brazil), and Mexican Spanish presence.
-- **b. Linguistic character:** Warm and unhurried, without Janbogo's wind-driven urgency or Zhongshan's deliberate ceremony — Esperanza speech carries the unforced patience of a city organized around raising children well. Code-switching between English and Spanish is common and easy, reflecting the founding Argentine texture layered under the broader multinational charter.
+- **a. Primary language(s):** English (reflecting Primary-tier USA demographics) alongside strong, actively maintained Spanish — an accent its own speakers grew into over generations at Hope Bay rather than a transplant preserved unchanged — plus meaningful UK-English, Portuguese (Brazil), and Mexican Spanish presence.
+- **b. Linguistic character:** Warm and unhurried, without Janbogo's wind-driven urgency or Zhongshan's deliberate ceremony — Esperanza speech carries the unforced patience of a city organized around raising children well. Code-switching between English and Spanish is common and easy, reflecting the founding community's own multinational charter rather than any single source language.
 - **c. Slang / dialect markers:** Terms of endearment and family vocabulary cross language lines freely — Spanish diminutives applied to English sentences and vice versa, a linguistic habit that marks someone as Esperanza-raised even after they leave.
 - **d. Language and integration:** Low pressure, high warmth — a city built around inclusion by charter doesn't gatekeep by accent or fluency, especially not from children still learning.
 
@@ -111,7 +111,7 @@ Esperanza's culture is organized, top to bottom, around a founding compact rathe
 
 ## 9. Architecture
 
-Esperanza's built environment reflects its founding infrastructure — the original Argentine family-habitation base — expanded outward with a consistent emphasis on domestic scale and safety over grandeur. Residential clusters are built around shared courtyards and communal child-care spaces; civic buildings orient toward the birth registry and community halls rather than toward governance or industry. Argentine domestic architectural sensibility (warm materials where available, a preference for enclosed, protected communal space) persists as the aesthetic throughline even in buildings built by non-Argentine-descended residents.
+Esperanza's built environment reflects its founding infrastructure — the original family-habitation base — expanded outward with a consistent emphasis on domestic scale and safety over grandeur. Residential clusters are built around shared courtyards and communal child-care spaces; civic buildings orient toward the birth registry and community halls rather than toward governance or industry. A domestic architectural sensibility — warm materials where available, a preference for enclosed, protected communal space — persists as the aesthetic throughline across the city, grown out of the founding charter's own child-safety priorities rather than any one national tradition; where it happens to echo the original base's Argentine domestic style, that's the coincidence of a shared starting infrastructure, not a cultural inheritance.
 
 The harbor and its supporting maritime infrastructure form the city's economic face; the residential core, further inland from the harbor, is where Esperanza's real civic character lives.
 
@@ -119,7 +119,7 @@ The harbor and its supporting maritime infrastructure form the city's economic f
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** Argentine foodways (asado-style communal grilling, mate) form the strongest single culinary throughline, layered with UK, Mexican, and Brazilian influences. Family-style, generous-portion cooking dominates — meals built around feeding a table of mixed ages rather than individual servings.
+- **a. Human cuisine:** Family-style, generous-portion cooking is the city's strongest culinary throughline — meals built around feeding a table of mixed ages rather than individual servings, a habit grown directly out of the founding charter's family-first civic value. Communal grilling and shared mate-drinking sit alongside UK, Mexican, and Brazilian dishes in that same family-table format; the grilling and mate ritual happen to echo Argentina's own asado tradition, a coincidence of the site's original infrastructure rather than an inherited cause.
 - **b. Social context of eating:** Central to the city's family-first character; shared meals are where the civic value of "children come first" plays out at the most intimate scale, and communal cooking for large, mixed-generation gatherings is a defining social institution.
 - **c. Robot cuisine / siligel culture:** Practical and caregiving-oriented — siligel preparation in Esperanza is often bound up with feeding/caring-for routines that mirror human family meals, robot caregivers preparing siligel alongside a household's human meal as part of the same domestic ritual rather than a separate function.
 
@@ -127,13 +127,13 @@ The harbor and its supporting maritime infrastructure form the city's economic f
 
 ## 11. Fashion
 
-Practical and family-oriented — durable, easily laundered, sized generously for growing children and passed down rather than replaced. Argentine textile influence persists in specific garment styles and patterns. Esperanza fashion prioritizes function for an active family life over individual statement, though decorative touches (embroidery, small personalized details on children's clothing especially) carry real sentimental weight.
+Practical and family-oriented — durable, easily laundered, sized generously for growing children and passed down rather than replaced. Certain garment styles and patterns persist across generations, grown out of that same passed-down, durable-over-decorative practicality rather than any single imported tradition — the patterns happen to echo Argentine textile work from the original base's founding community, a coincidence of a shared starting point rather than active inheritance. Esperanza fashion prioritizes function for an active family life over individual statement, though decorative touches (embroidery, small personalized details on children's clothing especially) carry real sentimental weight.
 
 ---
 
 ## 12. Music
 
-Family and community music dominate — lullabies and children's songs carried forward from Argentine and broader Latin American tradition, communal singing at gatherings, music understood primarily as something you do together rather than perform or consume. A genuinely intergenerational musical culture, where songs are taught deliberately from adult to child as part of the city's broader ethos of civic continuity.
+Family and community music dominate — lullabies and children's songs taught deliberately from adult to child as part of the city's own ethos of civic continuity, communal singing at gatherings, music understood primarily as something you do together rather than perform or consume. The song forms happen to echo Argentine and broader Latin American tradition, a coincidence of the founding community's own origins rather than an inherited canon. A genuinely intergenerational musical culture, grown directly out of Esperanza's family-first charter.
 
 ---
 
@@ -197,7 +197,7 @@ What little countercultural pressure exists in Esperanza runs against the intens
 
 ## 20. Private Life & Minority Communities
 
-Because the founding charter was explicitly designed to include every nationality equally, Esperanza's minority-heritage dynamic is unusually low-friction compared to Zhongshan's or Janbogo's — no single non-Argentine community carries a distinct "guest in someone else's culture" feeling, because the culture was built, on paper, to belong to all of them at once. Private heritage (UK, Mexican, Brazilian, Chilean, Uruguayan, and others) is maintained warmly and openly rather than kept behind a public/private divide, since the city's public identity was never actually national to begin with.
+Because the founding charter was explicitly designed to include every nationality equally, Esperanza's minority-heritage dynamic is unusually low-friction compared to Zhongshan's or Janbogo's — no community carries a distinct "guest in someone else's culture" feeling, because the culture was built, on paper and in practice, to belong to all of them at once, with no single nationality positioned as the city's cultural host. Private heritage (Argentine, UK, Mexican, Brazilian, Chilean, Uruguayan, and others) is maintained warmly and openly rather than kept behind a public/private divide, since the city's public identity was never actually national to begin with.
 
 ---
 
@@ -219,10 +219,10 @@ Complicated by the specific weight of what was sacrificed: Esperanza's human pop
 
 ## 23. Relationship to Other Cities
 
-- **Marambio:** Fellow Argentine-founded Palmer subnet city, geographically close (both facing the Weddell Sea side of the northern Peninsula); a natural sibling relationship, sharing Argentine heritage without either being culturally subordinate to the other.
+- **Marambio:** Geographically close Palmer subnet city (both facing the Weddell Sea side of the northern Peninsula) and a natural sibling in economic role — a sibling relationship built on shared coastline and shared trans-shipment logistics, not on the two cities' shared founding-station nationality, with neither culturally subordinate to the other.
 - **Palmer City:** The subnet's cultural and entertainment capital; Esperanza's family-first civic register is a deliberate contrast to Palmer City's performance-and-nightlife identity, and the two cities' residents tend to regard each other with mutual, good-natured incomprehension.
 - **Belgrano (Halley subnet):** A trade relationship rather than a subnet one — Esperanza's harbor and mainland highway access make it a natural trans-shipment point for goods crossing the Weddell Sea from the Halley subnet, documented specifically through Griselda Alejandra Chávez's instrument trade.
-- **Rothera:** Fellow Palmer subnet city on the opposite (western, Bellingshausen) coast; distant in character as much as geography — Rothera's British aviation-logistics identity has little in common with Esperanza's family-charter identity.
+- **Rothera:** Fellow Palmer subnet city on the opposite (western, Bellingshausen) coast; distant in character as much as geography — Rothera's aviation-logistics identity has little in common with Esperanza's family-charter identity.
 
 ---
 

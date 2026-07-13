@@ -12,7 +12,7 @@ Following the standard adjectival pattern already used across Tepenia's shorter-
 
 ## II. Economic Character: Precision, Calibration, and Monitoring
 
-**Proposed:** Scott's technical/research economy specializes in precision equipment calibration, maintenance, and environmental and geological monitoring for the whole Hut Point Peninsula — including a share of the ongoing Erebus monitoring program, complementing rather than competing with Fort McMurdo's own established heavy-industry focus. This traces directly from the real New Zealand Antarctic program's genuine emphasis on scientific and environmental monitoring, and it gives Scott a specific, non-overlapping economic niche alongside Fort McMurdo rather than a vague "smaller version of the same thing."
+**Proposed:** Scott's technical/research economy specializes in precision equipment calibration, maintenance, and environmental and geological monitoring for the whole Hut Point Peninsula — including a share of the ongoing Erebus monitoring program, complementing rather than competing with Fort McMurdo's own established heavy-industry focus. This traces directly from Scott Base's own real-world emphasis on scientific and environmental monitoring, and it gives Scott a specific, non-overlapping economic niche alongside Fort McMurdo rather than a vague "smaller version of the same thing."
 
 ---
 

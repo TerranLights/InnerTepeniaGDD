@@ -18,13 +18,13 @@
 | **Status** | Damaged; partially operational |
 | **Subnet** | Palmer — a road ramp off the Hwy 1 mainline, near the highway's western terminus at Byrd |
 | **Population (Census II)** | 121,784 humans / 134,073 robots / 255,857 combined (island cap) |
-| **Founding** | BAS since 1975, inheriting a well-developed station and a rare paved runway; Argentine and Chilean arrivals came first and set the earliest cultural tone, ahead of the British institutional population and later American demographic majority |
+| **Founding** | BAS since 1975, inheriting a well-developed station and a rare paved runway; Argentine and Chilean arrivals came first, ahead of the British institutional population and later American demographic majority |
 
 ---
 
 ## Who Lives Here, and Why
 
-USA sits Primary (28.57%), with a genuinely close-clustered Significant tier beneath it — Germany, Canada, and Brazil all within a percentage point of each other, France, Mexico, and UK close behind. The UK, the actual founding-operator nation, held on at Significant tier rather than falling to Notable — its population share outlasted the founding-*wave* nations (Argentina, Chile) even though those arrived first and shaped the city's earliest cultural character before the British institutional population, and later the larger American wave, arrived in volume.
+USA sits Primary (28.57%), with a genuinely close-clustered Significant tier beneath it — Germany, Canada, and Brazil all within a percentage point of each other, France, Mexico, and UK close behind. The UK, the actual founding-operator nation, held on at Significant tier rather than falling to Notable — its population share outlasted the founding-*wave* nations (Argentina, Chile) numerically, even though those arrived first, before the British institutional population, and later the larger American wave, arrived in volume.
 
 ---
 
@@ -58,7 +58,7 @@ Aircraft industry built inside hardened factories carved directly into granite m
 
 Founded in 1929 as part of Stalin's First Five-Year Plan, built to be the world's largest steel production complex — and, remarkably, *planned as a direct copy* of the Gary, Indiana steel mill: a 1928 Soviet delegation traveled to Cleveland specifically to arrange this. Its Ural-mountain-adjacent location also made it strategically safe from German seizure during WWII.
 
-**What this gives Rothera:** an unexpected, genuinely delightful discovery this research pass turned up — Rothera's own two Primary/Secondary picks (Gary and Magnitogorsk) are themselves directly, historically connected, one literally modeled on the other. This gives Rothera's own established duality (British institutional inheritance layered under an American demographic majority) a real structural echo: two real-world cities built in direct relation to each other, the same way Rothera's own founding character is a layered composite rather than a single clean origin. Magnitogorsk's WWII-era positional safety (survival through geography, not active defense) is also a clean parallel to Rothera's own decentralization-based survival.
+**What this gives Rothera:** an unexpected, genuinely delightful discovery this research pass turned up — Rothera's own two Primary/Secondary picks (Gary and Magnitogorsk) are themselves directly, historically connected, one literally modeled on the other. This gives Rothera's own established industrial layering — inherited infrastructure built on, generation after generation, rather than replaced — a real structural echo: two real-world cities built in direct relation to each other, the same way Rothera's own industrial identity is a layered composite rather than a single clean origin. Magnitogorsk's WWII-era positional safety (survival through geography, not active defense) is also a clean parallel to Rothera's own decentralization-based survival.
 
 ### Secondary: Imperial Japan's WWII Dispersed Aircraft Production
 
@@ -95,4 +95,4 @@ Carried forward from `Specs/Rothera.md` and `City_Vision_Notes/Rothera.md`, stil
 
 ## Worth Your Attention
 
-The Gary–Magnitogorsk connection is the standout of this pass precisely because it wasn't planned — both cities were already Rothera's own picks from an earlier session, and only this research turned up that they're directly, historically linked, one built as a deliberate copy of the other. That unplanned real-world echo gives Rothera's own layered founding character (British institutional inheritance under an American demographic majority) a genuine structural precedent that emerged from the research itself rather than being reached for.
+The Gary–Magnitogorsk connection is the standout of this pass precisely because it wasn't planned — both cities were already Rothera's own picks from an earlier session, and only this research turned up that they're directly, historically linked, one built as a deliberate copy of the other. That unplanned real-world echo gives Rothera's own layered industrial history — inherited infrastructure built on rather than replaced, generation after generation — a genuine structural precedent that emerged from the research itself rather than being reached for.

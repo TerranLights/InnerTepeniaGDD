@@ -33,7 +33,7 @@ The Sinian Federation was among the Upper Earth nations that persecuted robots a
 
 The name *Zhongshan* — the courtesy name of Sun Yat-sen, the founding figure of modern China revered across historical political lines — was chosen deliberately. It signals cultural continuity and political independence in the same gesture: *we kept the name; we did not keep you.*
 
-Russian settlers arrived in significant numbers early in the founding period, drawn by the geographic proximity of the former Russian Progress Station to the Larsemann Hills site. The two communities coexisted without friction from the beginning — not through formal negotiation, but through a shared temperament. Both groups were quiet. Both valued privacy. Both had cultural traditions built around slowness, craft, and endurance. The synthesis was not designed. It simply happened.
+Russian settlers arrived in significant numbers early in the founding period, drawn by the geographic proximity of the former Russian Progress Station to the Larsemann Hills site. The two communities coexisted without friction from the beginning — not through formal negotiation, but through the shared pressure of the site itself: a small, sheltered oasis, hemmed in by the same cold and the same isolation, that left little room for anything but privacy, patience, and careful, unhurried work. The synthesis was not designed. It simply happened.
 
 Australian expeditioners formed the founding wave of non-Sino-Russian settlers. Subsequent immigration brought Japanese, Korean, German, British, and Eastern European communities in meaningful numbers. All of them integrated into a cultural framework that was already well-established by the time they arrived.
 
@@ -63,7 +63,7 @@ The return of light is observed but not celebrated loudly — consistent with th
 
 **Name/concept:** *Zhongshan Austere* — colloquially among outsiders, *the Quiet City*
 
-Zhongshan never lost its Chinese identity. What it did was refine it. One hundred and thirty years of Antarctic exile, lived alongside a Russian community with its own tradition of aestheticized endurance, produced something that is neither mainland Chinese nor recognizably Russian — it is Zhongshan. A culture that takes itself seriously, produces careful people, processes loss through art rather than suppression, and considers rushing to be, if not a moral failing, at least a form of bad taste.
+Zhongshan never lost its Chinese identity. What it did was refine it. One hundred and thirty years of Antarctic exile, lived in close, constant proximity with the Russian community that settled alongside it, produced something that is neither mainland Chinese nor recognizably Russian — it is Zhongshan. A culture that takes itself seriously, produces careful people, processes loss through art rather than suppression, and considers rushing to be, if not a moral failing, at least a form of bad taste.
 
 The city does not perform its culture for outsiders. It does not advertise itself. It is simply what it is, and visitors feel the weight of that immediately — not because anyone says anything, but because the coherence of the culture makes your outsider status obvious from the inside. Both the Chinese and Russian cultural influences are quiet, not hostile, but fundamentally insular. You are welcome here. You are also, always, a guest in someone else's city.
 
@@ -101,7 +101,7 @@ People do not end up in Zhongshan by accident. It is not a transit hub; it is no
 
 - **The type this city repels:** People who need social feedback to feel present. People who process things by talking about them publicly. People who find quietness cold. People who read non-prying as indifference rather than respect.
 
-- **Ji-Eun Kim (case study):** Chose Zhongshan over Davis during the period between Sejong and Concordia. Davis, despite being a geographically closer and similarly composed East Asian city, has a strong Australian founding wave — warmer and more extroverted, more likely to ask where you're from and why you came. Zhongshan didn't ask. Ji-Eun's work in nanotech fit the city's craft ethic; her Korean identity fit quietly into the notable tier community structure; and her need for a city that wouldn't require her to explain herself was met exactly. She stayed long enough to move from visitor to something approaching resident.
+- **Ji-Eun Kim (case study):** Chose Zhongshan over Davis during the period between Sejong and Concordia. Davis, despite being a geographically closer and similarly composed East Asian city, has its own warmer, more extroverted civic character — more likely to ask where you're from and why you came. Zhongshan didn't ask. Ji-Eun's work in nanotech fit the city's craft ethic; her Korean identity fit quietly into the notable tier community structure; and her need for a city that wouldn't require her to explain herself was met exactly. She stayed long enough to move from visitor to something approaching resident.
 
 ---
 
@@ -109,7 +109,7 @@ People do not end up in Zhongshan by accident. It is not a transit hub; it is no
 
 - **a. Primary language(s):** Mandarin (Sinian Standard), heavily maintained across generations. Russian is a widespread secondary language — not official, but deeply embedded. Most long-term residents speak both.
 
-- **b. Linguistic character:** Zhongshan Mandarin is notably deliberate in its pacing. Fast speech is considered slightly careless; a measured quality in delivery is the cultural norm. The dialect draws on both Mandarin and Russian, with neither dominating at the structural level: grammar is Mandarin, but emotional vocabulary borrows from Russian freely and without apology. Russian has words for interior states that Mandarin doesn't map cleanly onto; Mandarin has registers of formality and relational nuance that Russian lacks. After five generations of coexistence, speakers borrow across rather than translate. No one explains this; it is simply how people talk.
+- **b. Linguistic character:** Zhongshan Mandarin is notably deliberate in its pacing. Fast speech is considered slightly careless; a measured quality in delivery is the cultural norm. The dialect draws on both Mandarin and Russian, with neither dominating at the structural level: grammar is Mandarin, but vocabulary moves both directions depending on gap and context — emotional and interpersonal terms borrow from Russian as often as formal and relational registers borrow from Mandarin. After five generations of coexistence, speakers borrow across rather than translate. No one explains this; it is simply how people talk.
 
 - **c. Slang / dialect markers:** A person from Zhongshan is recognizable by their pacing (unhurried, considered), by Russian emotional loanwords woven into Mandarin sentences, and by a particular habit of understatement when describing anything significant. Someone from Zhongshan who says a situation is *complicated* means it is a disaster. Someone who says it is *interesting* means it has their full attention. The more significant something is, the quieter the language around it becomes.
 
@@ -266,7 +266,7 @@ The dominant attitude is not rage — rage would require ongoing engagement with
 ## 23. Relationship to Other Cities
 
 - **Mirny:** Respectful and quietly competitive. Mirny is the subnet hub; Zhongshan is larger and older and both parties know it. The relationship functions, but Zhongshan does not consider itself subordinate.
-- **Davis:** Close geographic proximity in Prydz Bay; similar East Asian composition but Davis carries stronger Australian founding wave influence — warmer and more extroverted. Friendly rivalry: Zhongshan considers Davis somewhat loud; Davis considers Zhongshan somewhat cold. Both are correct.
+- **Davis:** Close geographic proximity in Prydz Bay; similar East Asian composition but its own warmer, more extroverted civic character. Friendly rivalry: Zhongshan considers Davis somewhat loud; Davis considers Zhongshan somewhat cold. Both are correct.
 - **Soyuz:** *(Corrected 2026-07-05 — this entry previously said "destroyed" and described a diaspora-migration relationship, contradicting the 2026-07-03 correction that resolved Soyuz as damaged-but-functional, effectively co-located with Zhongshan at nearly identical coordinates. Soyuz and Zhongshan now also share the same Mirny subnet membership, joined 2026-07-05 — see `TODO.md`.)* Zhongshan's closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact between the Sinian and Russian populations, the region's closest parallel to Sejong's own King George Island density.
 - **Janbogo:** A distant relationship — different subnet, different cultural register entirely. Zhongshan people find Janbogo's commercial intensity somewhat overwhelming. Janbogo people find Zhongshan opaque.
 

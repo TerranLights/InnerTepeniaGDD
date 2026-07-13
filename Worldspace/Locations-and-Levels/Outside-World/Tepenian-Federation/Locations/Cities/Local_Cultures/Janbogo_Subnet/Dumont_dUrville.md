@@ -23,7 +23,7 @@
 | Significant | Japan, France *(founding operator heritage)*, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
-*France founded and named the city, gave it St. Jules, gave it its language and food and aesthetic sensibility — and by Census II, French heritage sits at Significant tier, well below the China/USA Primary pairing that emerged over generations of arrivals. The shape of this tension is close to Fort McMurdo's (founding nation retained institutionally, demographic majority arrived later) but plays out at a much smaller, more intimate scale: a city of ~312,000 rather than Fort McMurdo's industrial sprawl, an island rather than a peninsula, a population where robots (177,372) meaningfully outnumber humans (134,634) — Dumont d'Urville was never a place many humans chose to live if they had another option, given the wind.*
+*France founded and named the city and gave it St. Jules — and by Census II, French heritage sits at Significant tier, well below the China/USA Primary pairing that emerged over generations of arrivals. The city's own language, food, and aesthetic sensibility developed on-site out of that founding population's daily circumstances rather than being simply carried over intact. The shape of this founding-tier tension is close to Fort McMurdo's (founding nation retained institutionally, demographic majority arrived later) but plays out at a much smaller, more intimate scale: a city of ~312,000 rather than Fort McMurdo's industrial sprawl, an island rather than a peninsula, a population where robots (177,372) meaningfully outnumber humans (134,634) — Dumont d'Urville was never a place many humans chose to live if they had another option, given the wind.*
 
 ---
 
@@ -59,7 +59,7 @@ The polar night and midnight sun here are both brief — roughly ten and twelve 
 
 Dumont d'Urville never developed a culture of conquering its environment, and it never developed Mirny's flavor of grim stoic endurance either. What emerged instead — across the wind, the penguins, the island's hard physical limits — was something closer to ongoing negotiation: an understanding that neither the wind nor the birds nor the sea were obstacles to be defeated, just permanent co-residents whose terms had to be lived with. The city's architecture, its economy, its daily rhythms are all built around accommodation rather than resistance.
 
-- **a. Founding tension** — France founded, named, and shaped Dumont d'Urville's whole cultural template, but by Census II sits at Significant tier beneath a China/USA Primary pairing that arrived generations later, largely drawn by the practical opportunities of a coastal Janbogo subnet post rather than any attachment to St. Jules or Adélie Land specifically. Unlike Fort McMurdo's exact-parity resolution, here the founding nation never caught back up — French cultural inheritance (language, food, aesthetic) persisted as the civic default anyway, the way Janbogo's Korean template did, simply because nothing displaced it.
+- **a. Founding tension** — France founded, named, and set Dumont d'Urville's earliest civic institutions in place, but by Census II sits at Significant tier beneath a China/USA Primary pairing that arrived generations later, largely drawn by the practical opportunities of a coastal Janbogo subnet post rather than any attachment to St. Jules or Adélie Land specifically. Unlike Fort McMurdo's exact-parity resolution, here the founding nation never caught back up — the early civic template (its language, food, and aesthetic habits, independently grown on-site) persisted as the civic default anyway, the way Janbogo's own founding-era template did, simply because nothing displaced it.
 - **b. Fault lines** — A small city with a robot-majority population and a founding culture that's demographically thin creates a quiet tension between who *runs* daily civic life (still disproportionately French-heritage, by institutional inertia) and who actually *lives* it day to day (a China/USA-majority, heavily robot population dealing directly with the wind and the birds). It rarely erupts into anything, mostly because there's no surplus energy in a city this exposed for internal conflict.
 
 ---
@@ -67,7 +67,7 @@ Dumont d'Urville never developed a culture of conquering its environment, and it
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** You don't fight the wind or the penguins; you plan around both. Anyone who arrives determined to "tough it out" through pure willpower is gently, repeatedly corrected until they adapt or leave.
-- **b. Hospitality character** — Warm but practical, French-inflected: a guest is fed properly and given real shelter, but the city has no patience for anyone who treats a visit here as an adventure rather than a serious commitment to a serious place.
+- **b. Hospitality character** — Warm but practical: a guest is fed properly and given real shelter, but the city has no patience for anyone who treats a visit here as an adventure rather than a serious commitment to a serious place.
 - **c.** Paced by weather windows more than by clocks — plans are made provisionally, with wind and ice conditions as the real scheduling authority.
 - **d. Public/private divide** — Physical survival information (current wind conditions, ice state, colony locations) is entirely public and constantly shared; personal and national background is comparatively private, a small-city discretion more than a policy.
 - **e. Privacy as civic value** — Low population, high interdependence — everyone roughly knows everyone, but there's a specific etiquette around not commenting on how someone's coping with the wind, which residents consider a deeply personal struggle even in a city this small.
@@ -92,7 +92,7 @@ Dumont d'Urville never developed a culture of conquering its environment, and it
 
 ## 9. Architecture
 
-Low, anchored, and oriented — nothing here is built without accounting for wind loading first and aesthetics a distant second. What French sensibility survives shows up in proportion and small deliberate details rather than any grand statement architecture; the city could never afford architectural ambition against conditions this severe. In damage, the pattern holds: repaired sections are rebuilt low and anchored exactly like the originals, while abandoned sections are left to the wind and, increasingly, to nesting penguins.
+Low, anchored, and oriented — nothing here is built without accounting for wind loading first and aesthetics a distant second. What aesthetic sensibility survives shows up in proportion and small deliberate details, developed out of the city's own severe constraints, rather than any grand statement architecture; the city could never afford architectural ambition against conditions this severe. In damage, the pattern holds: repaired sections are rebuilt low and anchored exactly like the originals, while abandoned sections are left to the wind and, increasingly, to nesting penguins.
 
 **Developer vision, established 2026-07-05 — a tight, bustling, spatially stratified city:** Dumont d'Urville's downtown core, on Petrel Island proper, is dense and genuinely bustling — and expensive; real estate here commands the city's highest prices, the reward for being inside the sheltered, walkable heart of the settlement rather than out past the bridge. Between the downtown buildings, dedicated heating units keep the spaces between structures genuinely livable against the wind, not just the interiors — a step beyond most Tepenian cities' purely interior-focused heating. The bridge to the mainland (see Geographic Basis in `Specs/Dumont_dUrville.md` for the engineering questions still open around whether it's permanent or seasonal) is the island's most prominent feature outside the dense downtown itself, and the city's spatial economics run outward from it: downtown is expensive and central, the far side of the bridge is cheaper residential territory, and further out still, the bridge connects to the highway network proper.
 
@@ -100,7 +100,7 @@ Low, anchored, and oriented — nothing here is built without accounting for win
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — French culinary tradition adapted hard for extreme scarcity and extreme wind — simple, deliberate, technique-forward cooking that makes the most of limited, often penguin-egg-supplemented ingredients.
+- **a. Human cuisine** — A simple, deliberate, technique-forward cuisine, developed independently out of extreme scarcity and extreme wind, that makes the most of limited, often penguin-egg-supplemented ingredients. *(It happens to echo French culinary technique's own emphasis on precision under constraint — a coincidence of convergent development, not an inheritance.)*
 - **b. Social context of eating** — Meals are one of the few genuinely sheltered, unhurried social occasions in a city otherwise governed by weather; eating together carries real weight here specifically because so little else allows people to simply sit still.
 - **c. Robot cuisine / siligel culture** — Practical and adapted to a robot-majority population; siligel production accounts for the wind's effect on outdoor equipment and material degradation more than most cities need to.
 
@@ -108,13 +108,13 @@ Low, anchored, and oriented — nothing here is built without accounting for win
 
 ## 11. Fashion
 
-Heavy, anchored, wind-first clothing design — French practical elegance applied to genuinely extreme conditions rather than aesthetics for their own sake. Layering here isn't optional or stylistic; it's load-bearing infrastructure, and residents take real pride in gear that's been properly, precisely adapted rather than just piled on.
+Heavy, anchored, wind-first clothing design — a practical elegance the city developed on its own out of genuinely extreme conditions rather than aesthetics for their own sake. Layering here isn't optional or stylistic; it's load-bearing infrastructure, and residents take real pride in gear that's been properly, precisely adapted rather than just piled on.
 
 ---
 
 ## 12. Music
 
-Small-city, intimate musical culture — French chanson traditions persisting in private and small-gathering settings rather than any large performance industry the population is simply too small to support. The sound of the wind itself is, unavoidably, part of the city's actual sonic identity; some residents describe certain wind pitches as recognizable, almost musical, in their own right.
+Small-city, intimate musical culture — quiet, small-gathering musical traditions, developed independently out of the population's small scale, persisting in private settings rather than any large performance industry the city is simply too small to support. *(It happens to echo the intimacy of French chanson tradition — a coincidence of convergent development, not an inheritance.)* The sound of the wind itself is, unavoidably, part of the city's actual sonic identity; some residents describe certain wind pitches as recognizable, almost musical, in their own right.
 
 **Developer vision, established 2026-07-05 — "New Orleans at 1/20th scale":** this small-city intimacy took a specific, vivid form in the dense downtown core — live music inside almost every eatery, not as a special occasion but as an ordinary, expected feature of eating out. This isn't a contradiction of the population being "too small to support a large performance industry" above — it's the same intimacy expressed as density rather than absence: many small, packed, informal venues rather than one large one, exactly the texture real New Orleans is actually known for (a city of countless small clubs and bars with live music, not stadium shows). Downtown's bustling, expensive, tightly-packed character (see Architecture above) is inseparable from this — the eateries-with-stages culture is as much a spatial fact as a musical one.
 
@@ -195,7 +195,7 @@ Quiet, practical, and low-profile within Federation politics — a small city wi
 
 ## 22. Relationship to Upper Earth
 
-Complicated by the French civic inheritance specifically — a founding population that carried real attachment to a homeland whose government had, in the broadest sense, been part of what exiled them, layered against a present-day population with much thinner ties to that history. The dominant feeling is less anger than a kind of weathered distance, consistent with a city that has spent its whole existence negotiating with forces bigger than itself rather than fighting them.
+Distant and secondary to the city's own daily survival concerns — a small city whose civic energy is almost entirely consumed by the wind, the sea, and its own damage, leaving comparatively little bandwidth for Upper Earth grievance. The dominant feeling is less anger than a kind of weathered distance, consistent with a city that has spent its whole existence negotiating with forces bigger than itself rather than fighting them.
 
 ---
 

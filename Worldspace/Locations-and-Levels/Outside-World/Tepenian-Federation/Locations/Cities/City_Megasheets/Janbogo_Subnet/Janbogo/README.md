@@ -36,7 +36,7 @@ China and USA sit co-Primary (20.63%/18.39%), with a genuinely broad Significant
 
 ## What It Feels Like
 
-Katabatic winds off the East Antarctic interior define the outdoor experience — not storms in the conventional sense, but a near-permanent feature of the climate, turning wind chill rather than ambient temperature into the real design parameter. The Terra Nova Bay polynya keeps a stretch of open water ice-free year-round, a genuine strategic asset no other Ross Sea coastal city can match. Per the developer's own vision session: fashionable people fill genuinely insulated but richly colored streets and interiors, a fusion of Chinese and French design sensibility — the Chinese thread grounded directly in Janbogo's own co-Primary demographic reality, the French thread an independently admired style choice carried by a population too small to register in the formal tiers. Much of daily life happens inside vast shielded commercial halls: brightly lit, bustling, full of people shopping and socializing, while outside stays dark and nearly empty. The teahouse tradition is the city's most nationally visible export — Majyao Bisyugota's establishment, famous throughout Tepenia, has since relocated to Concordia's Aquarius district, but the culture of deliberately-made-comfortable communal space it represents remains Janbogo's defining civic quality.
+Katabatic winds off the East Antarctic interior define the outdoor experience — not storms in the conventional sense, but a near-permanent feature of the climate, turning wind chill rather than ambient temperature into the real design parameter. The Terra Nova Bay polynya keeps a stretch of open water ice-free year-round, a genuine strategic asset no other Ross Sea coastal city can match. Per the developer's own vision session: fashionable people fill genuinely insulated but richly colored streets and interiors, a fusion of Chinese and French design sensibility, developed independently as the city's own indoor-warmth style choice. Much of daily life happens inside vast shielded commercial halls: brightly lit, bustling, full of people shopping and socializing, while outside stays dark and nearly empty. The teahouse tradition is the city's most nationally visible export — Majyao Bisyugota's establishment, famous throughout Tepenia, has since relocated to Concordia's Aquarius district, but the culture of deliberately-made-comfortable communal space it represents remains Janbogo's defining civic quality.
 
 Overshadowing all of it: the Zukelli view. The ruins of a sister city, obliterated roughly 8km north on the same bay, are visible from Janbogo's own waterfront on clear days — not incidental proximity, but the deliberate point. Zukelli was destroyed to guarantee the death of Upper Earth defectors it sheltered and to send an unmistakable message about the cost of harboring them; Janbogo surviving nearby, close enough to watch, was very likely intended as the message's living witness.
 
@@ -72,7 +72,7 @@ The only ice-free port on the Arctic Circle, kept open year-round by the North A
 
 Invented in the Ottoman world in the 1550s as a genuine social institution, then adopted so thoroughly by completely different cultures (Venice by 1645, Vienna after 1683) that "café culture" became universal and ethnicity-agnostic rather than tied to its origin.
 
-**What this gives Janbogo:** precedent for how a specific cultural institution can transcend its origin and become a universal urban form — directly relevant given Janbogo's own teahouse tradition has already "traveled well beyond its Unified Korean roots," recognized across Tepenia the same way café culture spread far past its Ottoman beginnings.
+**What this gives Janbogo:** precedent for how a specific cultural institution can transcend its origin and become a universal urban form — directly relevant given Janbogo's own teahouse tradition has already grown to belong to the whole city regardless of ancestry, recognized across Tepenia the same way café culture spread far past its Ottoman beginnings.
 
 ### Supporting: New Orleans Jazz Societal Culture
 
@@ -192,11 +192,11 @@ Section VII is the most narratively valuable proposal here — making the defect
 
 ## Finding 2: Janbogo's real civic trait isn't what its culture contains, but how it absorbs anything that reaches it
 
-**Combining:** the established Chinese-French fashion fusion (Chinese demographically grounded, French independently adopted despite no population behind it) + the established teahouse tradition "traveling well beyond its Unified Korean roots" + the New Orleans jazz precedent already noted for this exact same "belongs to everyone now" pattern.
+**Combining:** the established Chinese-French fashion fusion, developed as the city's own indoor-warmth style choice + the established teahouse tradition, now belonging to the whole city regardless of ancestry + the New Orleans jazz precedent already noted for this exact same "belongs to everyone now" pattern.
 
 **2nd-order effect:** this isn't one example plus one separate parallel — it's the same underlying civic behavior appearing in at least two completely different domains (fashion and hospitality institutions), suggesting a genuinely consistent pattern rather than a coincidence.
 
-**3rd-order effect:** Janbogo's real distinguishing trait may not be any single cultural content (Korean heritage, teahouses, fashion) but a repeatable process by which anything that arrives eventually becomes simply "Janbogo's own," regardless of whether a demographic population "justifies" the adoption.
+**3rd-order effect:** Janbogo's real distinguishing trait may not be any single cultural content (Korean heritage, teahouses, fashion) but a repeatable process by which anything that arrives eventually becomes simply "Janbogo's own."
 
 **4th-order effect:** worth flagging as a genuinely distinctive throughline for future Janbogo-set content — a city defined by how readily its culture absorbs and re-originates whatever reaches it, a meta-level trait most other Tepenian cities, built around one dominant founding flavor, don't share to the same degree.
 

@@ -102,7 +102,7 @@ Visibly two-toned: an older, denser core built on the real Novolazarevskaya stat
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine five-way blend (German, French, Russian, Brazilian, alongside the American default) without any one tradition dominating — distinct from cities where one heritage cuisine persists as a clear specialty.
+- **a. Human cuisine** — A genuinely varied urban cuisine that never settled into one dominant specialty — an outgrowth of the city's own two-settlement merger and genuine metropolitan scale rather than any single culinary inheritance, distinct from cities where one heritage cuisine persists as a clear specialty.
 - **b. Social context of eating** — Practical and varied, reflecting the city's real urban scale and demographic breadth.
 - **c. Robot cuisine / siligel culture** — Substantial, scaled to a genuine megacity population rather than the smaller-scale production of most Halley subnet cities.
 
@@ -110,20 +110,20 @@ Visibly two-toned: an older, denser core built on the real Novolazarevskaya stat
 
 ## 11. Fashion
 
-A genuine blend across five national aesthetic traditions without a clear default — practical cold-weather wear inflected by whichever community's influence is locally strongest in a given part of the city.
+A genuinely varied practical cold-weather aesthetic without a clear citywide default — style varies block to block, shaped by the city's own layered two-settlement growth and urban scale rather than any one imported tradition.
 
 ---
 
 ## 12. Music
 
-A broad, genuinely mixed musical culture spanning German, French, Russian, Brazilian, and American influences — Lazar's scale supports a more varied and layered music scene than the subnet's smaller cities can sustain.
+A broad, genuinely mixed musical culture that never settled on one dominant sound — Lazar's own scale and layered two-settlement growth support a more varied and layered music scene than the subnet's smaller cities can sustain.
 
 ---
 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Varied and urban in scale, reflecting the city's genuine size — the largest visual arts community in all of Tepenia by sheer population.
-- **Literature:** A genuinely plural literary tradition, reflecting all five Significant-tier national heritages without one dominant voice.
+- **Literature:** A genuinely plural literary tradition, shaped by the city's own two-settlement origin and urban scale rather than any one dominant voice.
 - **Crafts & material culture:** Distinguished by a real, practiced two-settlement urban-planning history — craft traditions around adapting and connecting the old core and the newer expansion.
 
 ---
@@ -195,7 +195,7 @@ The most substantial political weight in all of Tepenia by sheer population — 
 
 ## 22. Relationship to Upper Earth
 
-Filtered through five distinct national experiences at once (Germany, France, UK, Russia, Brazil) plus the American demographic majority — the most genuinely plural relationship to Upper Earth of any Halley subnet city, without a clear dominant emotional register.
+Filtered through the city's own two-origin, large-scale character rather than any single narrative — the most genuinely plural relationship to Upper Earth of any Halley subnet city, without a clear dominant emotional register.
 
 ---
 

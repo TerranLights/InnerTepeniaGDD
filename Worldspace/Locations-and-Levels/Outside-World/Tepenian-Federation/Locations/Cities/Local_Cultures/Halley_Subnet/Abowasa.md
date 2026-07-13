@@ -60,14 +60,14 @@ Abowasa's polar night (~102 days) and midnight sun (~104 days) run long and seve
 Where every other city in this subnet works out a single founding nation's relationship to an eventual demographic majority, Abowasa has always had two founding relationships running simultaneously — Finnish and Swedish, side by side from the very beginning, now both equally diluted by the same American Primary tier that reshaped the whole subnet. The city's whole civic character comes from having had to negotiate that double relationship at an intimate, almost domestic scale, simply because there was never enough population for it to happen any other way.
 
 - **a. Founding tension** — Not founding-nation-vs-majority, but a doubled version: two founding nations (Finland, Sweden) both diluted together to Notable tier by the same later American immigration. The negotiation between them was never fully resolved into either a blended identity or a clean coexistence — it simply kept happening, generation after generation, at a scale small enough that everyone involved knew everyone else personally.
-- **b. Fault lines** — The specific, low-grade friction between Finnish and Swedish identity — old historical asymmetries between the two nations, softened by shared Scandinavian heritage but never fully erased — plays out at Abowasa in miniature, household by household, rather than as a citywide political fact the way similar tensions might in a larger city.
+- **b. Fault lines** — The specific, low-grade friction between the two founding communities — old habits of separateness left over from having begun as two distinct stations rather than one, softened by decades of shared close-quarters life but never fully erased — plays out at Abowasa in miniature, household by household, rather than as a citywide political fact the way similar tensions might in a larger city.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** Everyone knows everyone — Abowasa is small enough that the kind of anonymity larger cities offer simply doesn't exist here.
-- **b. Hospitality character** — Warm and personal, Scandinavian-inflected, the specific intimacy of a genuinely small community rather than a formal civic tradition.
+- **b. Hospitality character** — Warm and personal, the specific intimacy of a genuinely small community rather than a formal civic tradition.
 - **c.** Unhurried, household-paced — Abowasa has never had the scale to organize around citywide mechanisms the way its larger neighbors do.
 - **d. Public/private divide** — Thin by necessity; a city this small doesn't have much room for a meaningful public/private distinction the way larger cities do.
 - **e. Privacy as civic value** — Genuinely difficult to maintain given the scale — Abowasa residents have made a kind of peace with reduced privacy as the cost of the community's intimacy.
@@ -92,13 +92,13 @@ Where every other city in this subnet works out a single founding nation's relat
 
 ## 9. Architecture
 
-Modest and bedrock-founded, without the ski-mounted relocatability of Halley or Neumayer's hydraulic-leg engineering — Abowasa's small scale meant it never needed the same structural ambition, and its architecture reflects a practical, close-quarters, genuinely blended Finnish-Swedish sensibility rather than any single national aesthetic.
+Modest and bedrock-founded, without the ski-mounted relocatability of Halley or Neumayer's hydraulic-leg engineering — Abowasa's small scale meant it never needed the same structural ambition, and its architecture reflects a practical, close-quarters sensibility shaped by two founding communities building side by side from day one, rather than any single, unified aesthetic plan.
 
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine blend of Finnish and Swedish cold-weather cooking traditions, closely intertwined rather than kept separate, reflecting the household-level intimacy of the whole community.
+- **a. Human cuisine** — A genuine, unified cold-weather cooking tradition, grown out of shared kitchens and close-quarters household life rather than out of either founding community's cuisine kept separately, reflecting the household-level intimacy of the whole community.
 - **b. Social context of eating** — Central to the city's whole social fabric — in a community this small, shared meals are how the Finnish-Swedish negotiation actually happens day to day.
 - **c. Robot cuisine / siligel culture** — Modest, practical, scaled to a small population rather than any large production system.
 
@@ -106,13 +106,13 @@ Modest and bedrock-founded, without the ski-mounted relocatability of Halley or 
 
 ## 11. Fashion
 
-Practical Scandinavian-inflected cold-weather wear, blended rather than nationally distinct — in a community this small and this intimately mixed, Finnish and Swedish style markers have never stayed cleanly separate.
+Practical cold-weather wear, developed in common rather than kept nationally distinct — in a community this small and this intimately mixed, no separate wardrobe tradition ever had room to take hold.
 
 ---
 
 ## 12. Music
 
-Genuinely blended Finnish-Swedish folk tradition, kept alive in small household and neighborhood gatherings rather than any public performance culture — Abowasa is too small to support the kind of dedicated musical institutions larger cities have.
+A genuinely shared folk tradition, grown out of the two founding communities making music together rather than separately, kept alive in small household and neighborhood gatherings rather than any public performance culture — Abowasa is too small to support the kind of dedicated musical institutions larger cities have.
 
 ---
 
@@ -120,7 +120,7 @@ Genuinely blended Finnish-Swedish folk tradition, kept alive in small household 
 
 - **Visual arts:** Modest, personal, household-scale — Abowasa has never had the population to support large civic art institutions.
 - **Literature:** Oral tradition and personal memory-keeping dominate, particularly around the Turku/Abowasa naming connection and the dual-founding story itself.
-- **Crafts & material culture:** Practical Scandinavian craft traditions, blended between Finnish and Swedish forms rather than kept distinct.
+- **Crafts & material culture:** Practical craft traditions, developed jointly rather than kept in separate national forms.
 
 ---
 
@@ -193,7 +193,7 @@ Modest and inward-facing — Abowasa has never had the scale to project politica
 
 ## 22. Relationship to Upper Earth
 
-Filtered through both Finnish and Swedish national experience simultaneously — a doubled, rather than singular, relationship to the pre-exile world, softened by the shared Scandinavian frame both nations bring to it.
+Filtered through both founding communities' experience simultaneously — a doubled, rather than singular, relationship to the pre-exile world, shaped less by any shared national outlook than by the fact that two separate communities have always had to reconcile their views of it together.
 
 ---
 

@@ -20,11 +20,9 @@ Recap of what was already established going in (see the two files above for full
 
 **Fashionable people filling insulated-but-vivid streets and interiors.** Clothing is genuinely insulated but still richly colored — a blend of Chinese and French design. Much of active daily life happens inside huge shielded indoor areas: brightly lit, bustling, full of people in bright Chinese-fusion outfits, shopping, browsing merchant stalls, general commercial activity. Outside, by contrast, is dark with very few people out.
 
-**This directly confirms and scales up what was already established** in Section 9 (Architecture) and Section 11 (Fashion) — the outside-hostile/inside-warm design principle, and the Korean-influenced layered fashion sensibility (functional outer layer, expressive warm inner layer). The vision extends this from individual teahouses to genuinely large-scale shielded commercial districts.
+**This directly confirms and scales up what was already established** in Section 9 (Architecture) and Section 11 (Fashion) — the outside-hostile/inside-warm design principle, and the layered fashion sensibility established early by the founding population (functional outer layer, expressive warm inner layer). The vision extends this from individual teahouses to genuinely large-scale shielded commercial districts.
 
-**The Chinese design thread** has direct demographic grounding — China is literally co-Primary in Janbogo's composition, alongside USA.
-
-**The French design thread, clarified:** France has only a small, occasional resident presence in Janbogo — not enough to register in the formal composition tiers (Primary/Significant/Notable). The French design influence is independently popular as a style choice, the way a fashion tradition can be widely admired and adopted without a large population behind it — not a demographic claim.
+**The design aesthetic** — a genuine Chinese-French-inspired fusion — is the city's own indoor-warmth style choice, developed independently rather than population-driven. Any real-world echo of Chinese or French design traditions is coincidental, not a demographic claim about who lives in Janbogo.
 
 ---
 

@@ -10,13 +10,13 @@
 
 ## The developer's vision
 
-A tangled, organically-grown city — built as-needed, not to a master plan; navigable on sight only to actual residents. Plantlines and elevated "bridger-footroads" run under the heating infrastructure, giving something resembling equatorial nature to walk among. A huge genre-diverse music scene grown from its Italian-rooted core. Entertainment centered on friends and restaurants with dedicated stages. An overall reputation as "a place with a soul" — landing with real weight against its already-established destruction, at 72.5% human retention, near peak, not in decline.
+A tangled, organically-grown city — built as-needed, not to a master plan; navigable on sight only to actual residents. Plantlines and elevated "bridger-footroads" run under the heating infrastructure, giving something resembling equatorial nature to walk among. A huge genre-diverse music scene grown from its own food-and-hospitality civic core. Entertainment centered on friends and restaurants with dedicated stages. An overall reputation as "a place with a soul" — landing with real weight against its already-established destruction, at 72.5% human retention, near peak, not in decline.
 
 ---
 
 ## Corrections/additions applied directly to other files this session
 
-- `Specs/Zukelli.md` and `Local_Cultures/Janbogo_Subnet/Zukelli.md` — the organically-tangled city layout, the plantlines/bridger-footroads and equatorial-feeling walkways, the Italian-rooted genre-diverse music scene, and the "place with a soul" reputation.
+- `Specs/Zukelli.md` and `Local_Cultures/Janbogo_Subnet/Zukelli.md` — the organically-tangled city layout, the plantlines/bridger-footroads and equatorial-feeling walkways, the genre-diverse music scene grown from the city's own hospitality culture, and the "place with a soul" reputation.
 - This session also produced the major Zukelli/Janbogo destruction-mechanism resolution (see Janbogo's own City Vision Notes file for the full account) — Zukelli was sheltering AWOL Upper Earth defectors, and the strike that destroyed it was deliberately calibrated for total obliteration plus a deterrent message, with Janbogo left standing specifically to witness and carry that message forward.
 
 ---

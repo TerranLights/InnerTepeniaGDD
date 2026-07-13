@@ -36,7 +36,7 @@
 
 ## VI. Municipal Holidays: Two, Both Genuinely Earned
 
-- **Bandera Day** *(proposed)* — a direct adaptation of the real Argentine national holiday honoring Manuel Belgrano, the city's own namesake, as the creator of the Argentine flag; observed even generations after the founding Argentine population was demographically outpaced, treated less as an ethnic-heritage holiday and more as civic pride in the name itself, consistent with the established pattern of founding-nation identity persisting as institutional character rather than living demographic weight.
+- **Bandera Day** *(proposed)* — a civic holiday honoring Manuel Belgrano, the city's own namesake, as the creator of the Argentine flag; observed even generations after the founding Argentine population was demographically outpaced, functioning less as an ethnic-heritage holiday and more as civic pride in the name and founding story the whole population inherited together, consistent with the same institutional persistence that keeps the base's operational discipline alive regardless of who's currently living there.
 - **Expedition Day** *(proposed)* — commemorating the departure of the original Arrastradoras and the all-robot crew on the Byrd-founding crossing, Belgrano's proudest historical achievement and the clearest moment where its function-first culture produced something the rest of Tepenia still remembers.
 
 ---

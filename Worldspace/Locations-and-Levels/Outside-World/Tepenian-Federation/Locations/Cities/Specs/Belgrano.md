@@ -102,7 +102,7 @@ Named after Manuel Belgrano (1770–1820) — Argentine independence general, ec
 
 ## Character & Culture
 
-Belgrano had the operational character of an aviation hub — transient, functional, purposeful. The Argentine military heritage shaped its institutional culture. The deep Weddell Sea position gave it a frontier quality relative to the more accessible Queen Maud Land coastal cities.
+Belgrano had the operational character of an aviation hub — transient, functional, purposeful. Its founding as a working military airbase, and the discipline required to keep a runway operating in one of Tepenia's harshest positions, shaped its institutional culture. The deep Weddell Sea position gave it a frontier quality relative to the more accessible Queen Maud Land coastal cities.
 
 **Nationally known for:** The runway — Halley subnet aviation hub. The southernmost Halley subnet position. The Weddell Sea approach.
 

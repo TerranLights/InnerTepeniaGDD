@@ -9,7 +9,7 @@
 **Census Population:** 316,691 humans / 328,142 robots / 644,833 combined (Census I, rank 21st, *corrected 2026-07-03, again 2026-07-05*); 234,304 humans / 279,766 robots / 514,070 combined (Census II, rank 20th, *corrected 2026-07-03*)
 **Location:** King George Island, South Shetland Islands (~62°13'S, 58°47'W)
 
-**One-liner:** *The Korean settlement on Antarctica's single most crowded island — a city that knew exactly what made it Korean because a dozen other nationalities were living close enough to compare notes.*
+**One-liner:** *The settlement on Antarctica's single most crowded island — a city whose own sense of itself sharpened, rather than dissolved, from being founded in the middle of a dozen other national communities close enough to compare notes with every day.*
 
 ---
 
@@ -57,18 +57,18 @@ Without polar night or midnight sun, Sejong's rhythm follows the practical reali
 
 ## 5. Post-Culture Identity
 
-**Name/concept:** *Knowing What You Are By What Surrounds You*
+**Name/concept:** *A City Defined By Its Neighbors*
 
-Sejong's civic identity was shaped entirely by proximity — no other Tepenian city had to define itself against so many immediate national neighbors at once. That density paradoxically sharpened rather than diluted Korean identity here: Sejong's residents knew precisely what was Korean about their community because everything non-Korean was close enough to compare against directly, every day.
+Sejong's civic identity was shaped entirely by proximity — no other Tepenian city had to define itself against so many immediate national neighbors at once. That density paradoxically sharpened rather than diluted the city's own sense of itself: Sejong's residents developed a genuinely distinct community identity precisely because so many different neighbors were close enough to compare against directly, every day — cohesion forged by contrast rather than isolation.
 
-- **a. Founding tension** — South Korea founded the city and retained an unusually strong Significant-tier position, while China and USA became co-Primary through the same long-run demographic pattern seen across Tepenia — but the more defining tension isn't founder-vs-majority, it's Sejong-vs-neighbors: a Korean identity constantly clarified through contrast with a dozen adjacent national communities.
+- **a. Founding tension** — South Korea founded the city and retained an unusually strong Significant-tier position, while China and USA became co-Primary through the same long-run demographic pattern seen across Tepenia — but the more defining tension isn't founder-vs-majority, it's Sejong-vs-neighbors: a community identity constantly clarified through contrast with a dozen adjacent national communities.
 - **b. Fault lines** — Between cooperative coexistence and competitive tension over King George Island's favorable, mild terrain — the same accessibility that made the island desirable made it genuinely competitive among its many national communities.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
-- **a.** Identity is defined relationally — Sejong residents understand "Korean" partly through direct daily contrast with immediate non-Korean neighbors.
+- **a.** Identity is defined relationally — Sejong residents understand their own community partly through direct daily contrast with its immediate neighbors.
 - **b. Hospitality character** — Practiced and diplomatic, shaped by literal decades of close-quarters coexistence with nearly a dozen other national communities.
 - **c.** Paced by the island's genuinely mild, comfortable conditions — the most physically forgiving rhythm of any Palmer subnet city.
 - **d. Public/private divide** — Boundary zones between Sejong and its neighboring national communities were real, negotiated civic geography; internal Korean cultural life remained comparatively private.
@@ -100,7 +100,7 @@ Distinctly bounded and transitional — Sejong's built environment gave way at c
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Korean at its core, but genuinely inflected by proximity to Chinese, Argentine, Brazilian, Chilean, Polish, Russian, and Czech culinary traditions in immediate daily contact — a degree of cross-cultural culinary exchange unmatched elsewhere in Tepenia.
+- **a. Human cuisine** — Genuinely blended from its own founding circumstances rather than any single inherited tradition, cross-pollinated by proximity to Chinese, Argentine, Brazilian, Chilean, Polish, Russian, and Czech cooking in immediate daily contact — a degree of cross-cultural culinary exchange unmatched elsewhere in Tepenia.
 - **b. Social context of eating** — A genuine site of inter-community diplomacy as much as nourishment, given the island's dense multinational character.
 - **c. Robot cuisine / siligel culture** — Substantial, reflecting the genuine scale of a co-Primary China/USA demographic base.
 
@@ -108,13 +108,13 @@ Distinctly bounded and transitional — Sejong's built environment gave way at c
 
 ## 11. Fashion
 
-Korean-inflected but genuinely cross-pollinated by constant contact with a dozen neighboring national aesthetic traditions — a distinctly blended fashion sensibility, King George Island's density making this inevitable rather than a deliberate cosmopolitan choice.
+Genuinely cross-pollinated by constant contact with a dozen neighboring national aesthetic traditions — a distinctly blended fashion sensibility that grew directly out of King George Island's own crowded founding circumstances, inevitable rather than a deliberate cosmopolitan choice.
 
 ---
 
 ## 12. Music
 
-A genuine blend of Korean tradition and cross-community influence from the island's dense multinational neighbors — distinct from Janbogo's more singularly Korean-inflected musical identity on the opposite coast.
+A genuine blend shaped by cross-community influence from the island's dense multinational neighbors, developed independently out of Sejong's own crowded founding circumstances — distinct from Janbogo's own, more singular musical identity on the opposite coast, shaped by that city's very different founding geography.
 
 ---
 
@@ -122,7 +122,7 @@ A genuine blend of Korean tradition and cross-community influence from the islan
 
 - **Visual arts:** Genuinely cross-cultural, reflecting constant contact with a dozen adjacent national communities' own artistic traditions.
 - **Literature:** The King Sejong naming choice itself functions as foundational cultural literature — honoring the creation of a people's own writing system while living in permanent proximity to a dozen other peoples' own languages and traditions.
-- **Crafts & material culture:** Boundary-zone craft traditions, blending Korean forms with whatever neighboring influence was locally strongest at a given edge of the city.
+- **Crafts & material culture:** Boundary-zone craft traditions, blending forms developed within Sejong itself with whatever neighboring influence was locally strongest at a given edge of the city.
 
 ---
 
@@ -164,7 +164,7 @@ Robot culture at Sejong likely developed genuine cross-cultural competence out o
 
 ## 18. Religious / Philosophical Landscape
 
-- No dominant formal religion; the closest shared value is a practiced diplomacy of coexistence — genuine skill at maintaining Korean identity while in constant, necessary contact with a dozen other national traditions.
+- No dominant formal religion; the closest shared value is a practiced diplomacy of coexistence — genuine skill at maintaining a distinct community identity while in constant, necessary contact with a dozen other national traditions.
 - The King Sejong namesake carries real philosophical weight: honoring self-definition (a people's own writing system) while living in a place that made self-definition inherently relational rather than isolated.
 
 ---
@@ -187,13 +187,13 @@ The broad Significant tier (Germany, France, UK, Italy, South Korea, Russia, Mex
 
 ## 21. Political Character
 
-Genuinely complex and relational — Sejong's political character was defined as much by its negotiations with immediate national neighbors as by any internal Korean civic identity, a structural situation with no equivalent elsewhere in Tepenia.
+Genuinely complex and relational — Sejong's political character was defined as much by its negotiations with immediate national neighbors as by its own internal civic identity, a structural situation with no equivalent elsewhere in Tepenia.
 
 ---
 
 ## 22. Relationship to Upper Earth
 
-Filtered through South Korea's own founding institutional history (KOPRI), layered against the later China/USA co-Primary demographic reality — genuinely plural, and further complicated by the constant daily awareness of a dozen neighboring nations' own separate relationships to Upper Earth on the same island.
+Layered through the island's own founding-era research infrastructure (KOPRI among the stations that once stood here) against the later China/USA co-Primary demographic reality — genuinely plural, and further complicated by the constant daily awareness of a dozen neighboring nations' own separate relationships to Upper Earth on the same island.
 
 ---
 

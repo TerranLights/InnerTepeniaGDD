@@ -6,7 +6,7 @@
 
 ## I. The Old Man's Name: Tobias "Old Toby" Fenwick
 
-Following the developer's own confirmation that he has a name, just not yet decided — a weathered, informal, distinctly British name fitting a gruff, grizzled sailor's-coat-and-hat figure who tends goats, works stone, and jokes with a robot courier between chisel strokes. The nickname itself ("Old Toby") is the kind of thing a small, close community would settle on naturally rather than something formal.
+Following the developer's own confirmation that he has a name, just not yet decided — a weathered, informal name fitting a gruff, grizzled sailor's-coat-and-hat figure who tends goats, works stone, and jokes with a robot courier between chisel strokes, drawn from the same founding population Port Lockroy's own history already establishes. The nickname itself ("Old Toby") is the kind of thing a small, close community would settle on naturally rather than something formal.
 
 ---
 

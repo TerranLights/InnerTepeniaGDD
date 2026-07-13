@@ -6,7 +6,7 @@ The full, concatenated Dumont d'Urville reference — synthesis, then extrapolat
 
 # Dumont d'Urville — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Dumont_dUrville.md`, `Local_Cultures/Janbogo_Subnet/Dumont_dUrville.md`, `City_Vision_Notes/Dumont_dUrville.md`, `City_Enneagram_Personalities/Janbogo_Subnet/Dumont_dUrville.md`, and real-world research on its three inspirational picks (Quebec City, San Miguel de Allende, San Miguel de Tucumán). Compiled 2026-07-07.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Dumont_dUrville.md`, `Local_Cultures/Janbogo_Subnet/Dumont_dUrville.md`, `City_Vision_Notes/Dumont_dUrville.md`, `City_Enneagram_Personalities/Janbogo_Subnet/Dumont_dUrville.md`, and real-world research on its three inspirational picks (Singapore, San Miguel de Allende, San Miguel de Tucumán). Compiled 2026-07-07.
 
 ---
 
@@ -30,7 +30,7 @@ The full, concatenated Dumont d'Urville reference — synthesis, then extrapolat
 
 ## Who Lives Here, and Why
 
-France founded, named, and shaped Dumont d'Urville's entire cultural template — but by Census II, the demographic majority belongs to a China/USA pairing that arrived generations later, largely drawn by the practical opportunities of a coastal Janbogo subnet post rather than any attachment to St. Jules or Adélie Land specifically. Unlike Fort McMurdo's eventual exact-parity resolution, the founding nation here never caught back up demographically — French cultural inheritance simply persisted as the civic default anyway, the way Janbogo's Korean template did, because nothing ever displaced it. This plays out at a genuinely small, intimate scale: a city of ~312,000 rather than Fort McMurdo's industrial sprawl, an island rather than a peninsula, and — notably — a population where robots meaningfully outnumber humans, since Dumont d'Urville was never a place many humans chose to live if they had another option, given the wind.
+France founded, named, and set Dumont d'Urville's earliest civic institutions in place — but by Census II, the demographic majority belongs to a China/USA pairing that arrived generations later, largely drawn by the practical opportunities of a coastal Janbogo subnet post rather than any attachment to St. Jules or Adélie Land specifically. Unlike Fort McMurdo's eventual exact-parity resolution, the founding nation here never caught back up demographically — the early civic template, independently grown on-site, simply persisted as the civic default anyway, the way Janbogo's own founding-era template did, because nothing ever displaced it. This plays out at a genuinely small, intimate scale: a city of ~312,000 rather than Fort McMurdo's industrial sprawl, an island rather than a peninsula, and — notably — a population where robots meaningfully outnumber humans, since Dumont d'Urville was never a place many humans chose to live if they had another option, given the wind.
 
 The city's other defining, unavoidable co-resident is the Adélie penguin — the Géologie Archipelago holds one of the largest Adélie breeding grounds in Antarctica, and no arriving population could ever have displaced colonies of that scale even if they'd wanted to. Dumont d'Urville didn't found itself in opposition to its environment. It founded itself in the middle of one it would never fully own.
 
@@ -52,11 +52,11 @@ Everything else here is built around accommodation, not resistance — the wind,
 
 ## Real-World Inspirations, Researched
 
-### Primary: Quebec City, Canada
+### Primary: Singapore
 
-The only remaining walled city in North America north of Mexico — founded 1608, its fortifications still substantially intact, its narrow cobblestone streets and cliff-top position making it among the most physically distinctive small cities on the continent. Despite conquest, subsequent British rule, and 400 years of being surrounded by an overwhelmingly anglophone continent, French remains the city's living, functional default — spoken by 94% of residents today, not a preserved museum-piece but an actual working civic language.
+Founded as a British trading post in 1819, Singapore's population became overwhelmingly ethnic Chinese as waves of migration arrived through the 19th and 20th centuries — yet English, the founding administrative language, remains the country's primary language of government, law, business, and inter-ethnic communication today, not a preserved relic but a fully living civic default used by residents of every background.
 
-**What this gives Dumont d'Urville:** direct, real-world confirmation that a small, physically bounded city can maintain a minority founding culture as its genuine civic default for centuries against real demographic pressure — exactly the *shape* of Dumont d'Urville's own established tension, a founding culture persisting as civic default beneath a later demographic majority. Quebec's walls were built for military defense rather than wind, but the underlying pattern — a small, defensively-built city preserving a specific cultural identity against constant outside pressure — maps cleanly onto Dumont d'Urville's own low, anchored, wind-first architecture and its own founding civic character surviving well past the point demographics alone would predict.
+**What this gives Dumont d'Urville:** direct, real-world confirmation that a founding institutional language can remain a genuine, living civic default for generations after the population that first spoke it natively becomes a demographic minority — exactly the *shape* of Dumont d'Urville's own established tension, a founding culture persisting as civic default beneath a later demographic majority that arrived for entirely practical, unrelated reasons. Singapore's multi-ethnic population organizing daily civic life around a founding-era administrative language, rather than the language of whichever group happens to be numerically largest, maps cleanly onto Dumont d'Urville's own founding civic character surviving well past the point demographics alone would predict.
 
 ### Secondary: San Miguel de Allende, Mexico
 
@@ -89,7 +89,7 @@ Carried forward from `Specs/Dumont_dUrville.md`, still genuinely unresolved:
 
 ## Worth Your Attention
 
-Quebec City is the standout of this pass — not because it introduces anything new, but because it gives Dumont d'Urville's established founding-nation tension genuine historical weight. A small, physically distinctive city holding onto a minority founding culture as its living civic default for centuries, against real demographic pressure, isn't a fragile or arbitrary premise. It's a documented real-world pattern, and Quebec's own 400+ year track record is the strongest available evidence that Dumont d'Urville's own founding civic identity is a durable, earned fact about the city rather than a detail waiting to be demographically overwritten.
+Singapore is the standout of this pass — not because it introduces anything new, but because it gives Dumont d'Urville's established founding-institution tension genuine historical weight. A city holding onto a founding administrative language as its living civic default for generations, against real demographic pressure, isn't a fragile or arbitrary premise. It's a documented real-world pattern, and Singapore's own track record is the strongest available evidence that Dumont d'Urville's own founding civic identity is a durable, earned fact about the city rather than a detail waiting to be demographically overwritten.
 
 ---
 
@@ -153,9 +153,9 @@ Section I is the most load-bearing proposal here — reframing Pink Lucy's depar
 
 ---
 
-## Finding 1: Dumont d'Urville's French identity persists because it's actively used, not passively preserved
+## Finding 1: Dumont d'Urville's founding-language identity persists because it's actively used, not passively preserved
 
-**Combining:** Quebec City's real-world precedent of a minority founding culture surviving centuries through genuine, functional daily use rather than ceremonial preservation + the established fact that "even residents with no French ancestry tend to pick up functional French simply through years of civic life conducted in it."
+**Combining:** Singapore's real-world precedent of a founding administrative language surviving for generations through genuine, functional daily use rather than ceremonial preservation + the established fact that "even residents with no French ancestry tend to pick up functional French simply through years of civic life conducted in it."
 
 **2nd-order effect:** Dumont d'Urville's French persistence isn't a fragile, ceremonial holdover kept alive mainly through names and holidays — it's a self-sustaining, functional system, since ordinary civic participation itself is what transmits the language to each new generation of arrivals, regardless of their own ancestry.
 

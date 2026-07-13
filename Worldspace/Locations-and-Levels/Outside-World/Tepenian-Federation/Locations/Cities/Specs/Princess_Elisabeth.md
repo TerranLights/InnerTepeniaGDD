@@ -127,7 +127,7 @@ Princess Elisabeth had the character of a city that took its design principles s
 
 That design principle, extended across generations into a full community, produced a particular relationship to resource use and environmental accountability — not moralistic, but practical: the systems that kept the city alive were visible, understandable, and demanded active maintenance every single day. When the war came and those systems failed or were destroyed, the city had nothing else to protect it.
 
-The Belgian cultural heritage — specific, distinct from the more numerically dominant British, Norwegian, and German communities in the Halley subnet — gave Princess Elisabeth its national identity alongside its design identity.
+Princess Elisabeth's identity was never really about which nation's population dominated its streets — Belgium's founding community remained a small, specific presence alongside the larger currents that arrived later — but about the design identity every resident inherited and had to actively maintain just to keep living there.
 
 **Nationally known for:** The zero-emissions design — a city that could only exist through continuous engineering, on one of the most exposed sites in the subnet. The Sør Rondane mountain position. Being the Halley subnet city that had nothing to fall back on when its systems finally failed.
 

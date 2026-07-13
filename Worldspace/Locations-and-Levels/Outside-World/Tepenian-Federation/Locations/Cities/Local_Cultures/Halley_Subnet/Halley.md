@@ -7,7 +7,7 @@
 **Census II Population:** 509,209 humans / 578,860 robots / 1,088,069 combined (rank 3rd of ~32, *corrected 2026-07-03*)
 **Location:** Brunt Ice Shelf, Coats Land, Weddell Sea (~75°35'S, 26°34'W)
 
-**One-liner:** *The city that never fought the ground moving beneath it — built by British institutional heritage, actually founded by a South African-led exile wave, and demographically inherited by everyone who came after, on ice that has never once stood still.*
+**One-liner:** *The city that never fought the ground moving beneath it — built to relocate from its very founding, and carried forward by every population that has lived there since, on ice that has never once stood still.*
 
 ---
 
@@ -23,7 +23,7 @@
 | Significant | Germany, France, UK, Canada, Brazil |
 | Notable | Poland, Netherlands, Argentina, Czech Republic, Hungary, South Africa *(founding wave)*, Slovakia, Chile, Croatia, Serbia, Slovenia |
 
-*Halley carries a genuinely three-layered founding structure, distinct from every other city documented so far. Layer one: the real-world scientific station was British, operated by the UK for over a century before the exile era — the physical infrastructure and institutional knowledge of how to live on moving ice both came from that heritage. Layer two: when Tepenian exiles actually arrived post-Falkland Treaty, the founding wave that set the settlement's early character was South African-led, via the Cape Town gateway — the same geographic proximity that makes South Africa the established real-world-grounded shipping partner for this entire subnet's coast. Layer three: over the following century-plus, American immigration outpaced both, making the USA the long-run demographic Primary. None of these three layers erased the others; they simply stacked.*
+*Halley carries a genuinely three-layered founding structure, distinct from every other city documented so far. Layer one: the real-world scientific station was British, operated by the UK for over a century before the exile era — the physical infrastructure and institutional knowledge of how to live on moving ice both came from that heritage. Layer two: when Tepenian exiles actually arrived post-Falkland Treaty, the wave that arrived first and settled the site was South African-led, via the Cape Town gateway — the same geographic proximity that makes South Africa the established real-world-grounded shipping partner for this entire subnet's coast. Layer three: over the following century-plus, American immigration outpaced both, making the USA the long-run demographic Primary. None of these three layers erased the others; they simply stacked.*
 
 ---
 
@@ -31,7 +31,7 @@
 
 The British Antarctic Survey had rebuilt Halley Station six times by the time the Falkland Treaty exiles arrived — each iteration lost to ice movement, snow burial, or calving, each new version incorporating what the previous one had taught about living somewhere that would not hold still. That accumulated institutional knowledge, and the physical modular infrastructure it produced, was the foundation the exile city was built on.
 
-But the people who actually made the crossing and settled it first were, disproportionately, a South African-led wave — Cape Town was the nearest viable gateway to this stretch of the Weddell Sea coast, and that geographic accident meant South Africans were positioned to be among the earliest arrivals, small in eventual number but decisive in setting the settlement's founding tone. The Cape Town route that brought them here is the same route, generations later, that Tepania's freighters still use to bring South African-shipped materials into this exact stretch of coast.
+But the people who actually made the crossing and settled it first were, disproportionately, a South African-led wave — Cape Town was the nearest viable gateway to this stretch of the Weddell Sea coast, and that geographic accident meant South Africans were positioned to be among the earliest arrivals, small in eventual number, present at the settlement's earliest days before the population it belonged to had even taken shape. The Cape Town route that brought them here is the same route, generations later, that Tepania's freighters still use to bring South African-shipped materials into this exact stretch of coast.
 
 Over the century-plus that followed, American immigration arrived at a scale neither the British institutional core nor the South African founding wave could match, and the USA became Halley's long-run demographic Primary. The founding generation's one truly consequential decision predates all of this demographic layering, though: faced with a station built on ice that moves 400–700 meters a year and periodically calves into the sea, they decided not to fight the movement. They designed for it — modular, ski-mounted structures built to be towed to a new position whenever the ice required it. Every population that has arrived since inherited that decision as the actual founding act of the city, regardless of whose flag they'd have flown at home.
 
@@ -59,8 +59,8 @@ Halley's year is organized around two independent physical clocks: the ~106-day 
 
 Halley's culture is organized around a single founding decision that every later population inherited without needing to relitigate: don't fight impermanence, design for it. This produces a civic temperament that reads as neither anxious nor fatalistic — just practical about a fact of life other cities don't have to reckon with. Halley residents talk about relocating sections of their own city the way other cities talk about routine infrastructure maintenance, because for them, it is.
 
-- **a. Founding tension** — Not a simple founding-nation-vs-demographic-majority story, but a three-way stack: British institutional/infrastructural heritage, a South African-led founding wave (Notable tier, small population, outsized influence on the settlement's early tone), and an eventual American demographic Primary. None displaced the others outright — Halley's actual civic character (design-for-impermanence, ice literacy, collective relocation decision-making) transcends all three national identities, belonging fully to whoever lives there now.
-- **b. Fault lines** — The gap between the city's *institutional* self-image (a proud, centuries-deep engineering tradition, largely credited in civic memory to the British heritage) and its *lived, day-to-day* culture (shaped at least as much by the South African founding wave's practical Cape Town-gateway pragmatism, and staffed demographically by an American-majority population). Different residents tell Halley's own founding story with different nations at the center, and the city has never fully reconciled which version is "the" story.
+- **a. Founding tension** — Not a simple founding-nation-vs-demographic-majority story, but a three-way stack: British institutional/infrastructural heritage, a South African-led founding wave (Notable tier, small population, present at the settlement's earliest days), and an eventual American demographic Primary. None displaced the others outright — Halley's actual civic character (design-for-impermanence, ice literacy, collective relocation decision-making) transcends all three national identities, belonging fully to whoever lives there now.
+- **b. Fault lines** — The gap between the city's *institutional* self-image (a proud, centuries-deep engineering tradition, rooted in the accumulated technical knowledge of six generations of station rebuilds) and its *lived, day-to-day* culture (shaped by the practical, resource-constrained circumstances of the earliest Cape Town-gateway settlement, and staffed demographically by an American-majority population). Different residents tell Halley's own founding story with different eras at the center, and the city has never fully reconciled which version is "the" story.
 
 ---
 
@@ -112,7 +112,7 @@ Heavy, wind-first practical gear, with little room for aesthetic flourish given 
 
 ## 12. Music
 
-A blended Anglophone-coastal musical culture without a single dominant national tradition — reflecting the layered founding, no one nation's music became the civic default the way Italian food did at Zukelli or French language did at Dumont d'Urville.
+A blended Anglophone-coastal musical culture without a single dominant tradition — no one strand of it became the civic default the way a single tradition has taken hold in some other Tepenian cities; here it stayed genuinely mixed.
 
 ---
 
@@ -191,7 +191,7 @@ Practical and consensus-oriented — the recurring collective decision of when a
 
 ## 22. Relationship to Upper Earth
 
-Filtered through the layered founding — some residents' relationship runs through British institutional pride, others through the South African founding wave's more pragmatic frontier character, others through American demographic majority's own complicated relationship to the exile. No single unified emotional register dominates; Halley's relationship to Upper Earth is genuinely plural in a way most single-founding-nation cities' isn't.
+Filtered through Halley's own layered history rather than any single register — long-tenured engineering families carry a kind of institutional pride in the station's centuries of continuous operation, others hold a more practical, arrival-era pragmatism shaped by the earliest resource-constrained settlement, and the later demographic majority relates to the exile on its own terms. No single unified emotional register dominates; Halley's relationship to Upper Earth is genuinely plural in a way that reflects its own layered settlement history.
 
 ---
 

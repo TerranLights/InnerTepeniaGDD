@@ -117,7 +117,7 @@ Denison's built environment is aggressively wind-engineered — low profiles, mi
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** A genuine Pacific-corridor fusion reflecting the composition tiers — Chinese, American, Japanese, Korean, Indonesian, and Southeast Asian influences layered together without any single tradition dominating, similar in diversity to Casey's but without a comparable junction-trade economy to organize it around; food culture here is more domestic and less transactional.
+- **a. Human cuisine:** A genuinely blended cuisine with no single tradition dominant — consistent with a population spread widely across many nations at Significant and Notable tier rather than concentrated in one — shaped more by the city's own domestic, wind-focused daily rhythm than by any specific import; similar in diversity to Casey's but without a comparable junction-trade economy to organize it around, food culture here is more domestic and less transactional.
 - **b. Social context of eating:** Hearty, practical meals suited to a population that burns real energy fighting weather daily; communal eating doubles as informal wind-safety briefing space.
 - **c. Robot cuisine / siligel culture:** Practical, hazard-aware — siligel storage and handling protocols in Denison are shaped specifically around wind-driven structural risk in a way other cities' siligel culture doesn't need to consider.
 

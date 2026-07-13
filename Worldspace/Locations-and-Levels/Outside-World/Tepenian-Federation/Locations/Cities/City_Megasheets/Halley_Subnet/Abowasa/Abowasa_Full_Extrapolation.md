@@ -4,9 +4,9 @@
 
 ---
 
-## I. The Finnish-Swedish Cultural Dynamic: A Genuine Hybrid in Daily Life, Distinct Identities Preserved in Symbol and Language
+## I. The Two-Community Cultural Dynamic: A Genuine Hybrid in Daily Life, Distinct Memory Preserved in Symbol and Language
 
-**Proposed:** rather than resolving cleanly into either full merger or permanent separateness, the honest answer — already implied across several sections of `Local_Cultures/Halley_Subnet/Abowasa.md` — is a genuine split between the practical and the symbolic. Daily, material culture (cuisine, fashion, craft, music) blended into something neither purely Finnish nor purely Swedish, simply because a community this small and this constantly in contact never had the option of maintaining separate kitchens, separate wardrobes, or separate craft traditions. But language and civic memory stayed genuinely distinct — Finnish and Swedish both survive as living household languages rather than one displacing the other, and the Turku naming choice remains identifiably Finnish even generations after the Swedish station's name was folded in alongside it. Abowasa's culture, in short, hybridized where daily necessity demanded it and stayed distinct where identity and memory mattered enough to hold onto.
+**Proposed:** rather than resolving cleanly into either full merger or permanent separateness, the honest answer — already implied across several sections of `Local_Cultures/Halley_Subnet/Abowasa.md` — is a genuine split between the practical and the symbolic. Daily, material culture (cuisine, fashion, craft, music) developed into something shared and unified rather than kept as two parallel traditions, simply because a community this small and this constantly in contact never had the option of maintaining separate kitchens, separate wardrobes, or separate craft traditions. But language and civic memory stayed genuinely distinct — Finnish and Swedish both survive as living household languages rather than one displacing the other, and the Turku naming choice remains a specifically remembered piece of founding history even generations after the Swedish station's name was folded in alongside it. Abowasa's culture, in short, unified where daily necessity demanded it and stayed distinct where identity and memory mattered enough to hold onto.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## V. The Two Holidays, Developed
 
-- **Turku Remembrance** *(placeholder name)* — a Finnish-heritage observance centered on the Aboa/Turku naming connection, honoring Finland's oldest city and historical capital; kept alive as cultural memory rather than daily practice, the way founding-nation heritage tends to persist once demographic weight has moved elsewhere, but distinctly Finnish rather than blended, consistent with Section I's proposed split between hybridized daily culture and preserved symbolic identity.
+- **Turku Remembrance** *(placeholder name)* — an observance centered on the Aboa/Turku naming connection, honoring Finland's oldest city and historical capital as the source of the city's own original name; kept alive as cultural memory rather than daily practice, a specific piece of founding history the community chose to preserve deliberately rather than let dissolve into the daily-life culture that unified everything else, consistent with Section I's proposed split between hybridized daily culture and preserved symbolic identity.
 - **The Joint Founding** *(placeholder name)* — a shared, genuinely joint Finnish-Swedish civic observance marking the original dual settlement, the one holiday on Abowasa's calendar that belongs to neither nation alone; plausibly the more communally significant of the two, since it celebrates the actual fact that makes Abowasa unique in all of Tepenia rather than either founding heritage individually.
 
 ---

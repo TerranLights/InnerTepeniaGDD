@@ -106,7 +106,7 @@ Built on the newest infrastructure in the Larsemann Hills cluster (the real Bhar
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine blend anchored by Chinese tradition (demographic Primary) with real Japanese refinement and attention to presentation, consistent with the city's whole aesthetic sensibility.
+- **a. Human cuisine** — A genuine blend anchored by Japanese tradition (demographic Primary, per the 2026-07-06 re-derivation) with real Chinese influence, prepared and presented with the same considered, detail-oriented care that defines the city's whole aesthetic sensibility (see Architecture, above).
 - **b. Social context of eating** — Unhurried and social, reflecting the calm pace the mild climate supports — genuine space for the kind of extended, thoughtful gathering that harsher Tepenian cities rarely have room for.
 - **c. Robot cuisine / siligel culture** — Substantial, reflecting a genuinely sizable population with real institutional and creative infrastructure to support it.
 

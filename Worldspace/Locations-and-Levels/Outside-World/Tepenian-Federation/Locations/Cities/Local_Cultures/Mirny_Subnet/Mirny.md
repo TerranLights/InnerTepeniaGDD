@@ -72,11 +72,11 @@ These solstice grazing events are observed, quietly, as the year's defining ritu
 
 **Name/concept:** *The City on the Line* — colloquially, *the Threshold*
 
-Mirny's culture is organized around two overlapping thresholds: the geographic one (sitting exactly on the Antarctic Circle, belonging fully to neither the deep polar cities nor the milder northern ones) and the demographic one (founded and named by Russia, but grown by scale into a Chinese-majority city, with Russia remaining a real, substantial, but no-longer-singular presence). Neither threshold fully resolves. Mirny doesn't feel caught between two things so much as it feels genuinely, permanently *of* the in-between — a city whose whole identity is built on sitting exactly where categories stop applying cleanly.
+Mirny's culture is organized around two overlapping thresholds: the geographic one (sitting exactly on the Antarctic Circle, belonging fully to neither the deep polar cities nor the milder northern ones) and a settlement one (a small founding-era population, present since the station's earliest post-Falkland days, sitting alongside a much larger population that arrived across generations of later, broader Pacific-corridor immigration). Neither threshold fully resolves. Mirny doesn't feel caught between two things so much as it feels genuinely, permanently *of* the in-between — a city whose whole identity is built on sitting exactly where categories stop applying cleanly.
 
-- **a. Founding tension** — Russia founded Mirny, named it after the ship that first saw the continent, and built its earliest institutional character. China became the demographic Primary tier over generations of broader immigration. This isn't the sharp erasure Belgrano experienced (Russia remains solidly Significant, not dropped to Notable) and isn't the total cultural absorption Janbogo saw (Russian heritage and institutional memory remain visibly, actively present, not just inherited by proxy through others). It's a genuine, ongoing coexistence-under-threshold: Mirny is Russian by founding story and Chinese by numbers, and the city has made a stable, unresolved peace with holding both facts at once — much the way it holds its geographic position at once inside and outside the polar zone.
+- **a. Settlement-era layering** — The city's founding-era population (predominantly Russian-heritage, inheriting the original station and giving Mirny its name) built the city's earliest institutional character generations before broader immigration arrived. The later, much larger wave of arrivals that brought China to the demographic Primary tier arrived into an already-established city rather than a blank one. The result isn't the sharp erasure Belgrano experienced (the founding-era community remains solidly Significant, not dropped to Notable) and isn't the total cultural absorption Janbogo saw (founding-era heritage and institutional memory remain visibly, actively present, not just inherited by proxy through others) — it's a genuine, ongoing layering: an old, small founding population and a much larger, later one, each still visibly itself, coexisting under the same threshold rather than merging into a single new thing. That pattern of old-and-small beside new-and-large — not any particular pairing of nations — is what the city has made a stable, unresolved peace with, much the way it holds its geographic position at once inside and outside the polar zone.
 - **b. Fault lines**
-  - Between Russian-heritage families who carry the founding institutional memory (and the specific weight of the *Mirny*'s name and history) and the numerically larger Chinese-heritage population who share the city fully but not its founding mythology.
+  - Between families who trace their presence to the city's original founding generation (and carry the specific weight of the *Mirny*'s name and history) and the numerically larger population who arrived across later waves and share the city fully but not its founding-era institutional memory.
   - Between Mirny's self-understanding as uniquely, structurally important to Concordia (the only functioning intra-subnet Arcanet link) and its actual, damaged, uncertain post-war capacity to make good on that importance.
 
 ---
@@ -95,7 +95,7 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 ## 7. Who This City Attracts
 
 - **The type this city draws:** People comfortable with ambiguity and threshold conditions — administrators, communications specialists, engineers suited to Mirny's wind-management challenges, and people from Russian-heritage backgrounds specifically drawn to the city's historical weight.
-- **The type this city repels:** People who need a single, clear-cut civic identity to orient around — Mirny's genuine, comfortable both/and character (Russian founding and Chinese majority; polar and non-polar) doesn't offer the tidy singular story some newcomers expect.
+- **The type this city repels:** People who need a single, clear-cut civic identity to orient around — Mirny's genuine, comfortable both/and character (founding-era roots and later, larger-scale population growth; polar and non-polar) doesn't offer the tidy singular story some newcomers expect.
 - **Case study:** *(placeholder — no specific named character yet connected to Mirny; a strong candidate site for future character work, especially given the intra-subnet Arcanet link's narrative potential)*
 
 ---
@@ -105,13 +105,13 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 - **a. Primary language(s):** Mandarin (reflecting the sole-Primary Chinese demographic weight), with substantial, actively maintained Russian, plus meaningful Japanese, English (UK-inflected), Korean, and Indonesian presence.
 - **b. Linguistic character:** Direct and unornamented — Mirny speech favors clarity, consistent with the city's function-first, competence-over-romance civic value. Russian and Mandarin are both genuinely fluent community languages rather than one dominating and the other surviving only as heritage.
 - **c. Slang / dialect markers:** References to "the line" or "grazing" (drawn from the solstice phenomena) used as general metaphor for any situation balanced exactly between two states — recognizable Mirny phrasing anywhere in Tepenia.
-- **d. Language and integration:** Low pressure; a city built on genuine, stable bilingual coexistence between its founding and majority languages has no strong instinct to police anyone else's fluency.
+- **d. Language and integration:** Low pressure; a city built on genuine, stable coexistence between its long-settled and more recently arrived language communities has no strong instinct to police anyone else's fluency.
 
 ---
 
 ## 9. Architecture
 
-Aggressively wind-engineered, similar in spirit to Denison's approach but without the mythologizing — airlock entries, minimal exposed surface, structures oriented and reinforced specifically against the severe katabatic loading. Soviet-and-Russian-era institutional architecture forms the historical core, expanded outward over generations with a more broadly Pacific-influenced aesthetic sensibility as the city's demographics shifted — the built environment itself tells the same founding-versus-majority story as the population does, in visible layers.
+Aggressively wind-engineered, similar in spirit to Denison's approach but without the mythologizing — airlock entries, minimal exposed surface, structures oriented and reinforced specifically against the severe katabatic loading. Soviet-and-Russian-era institutional architecture forms the historical core, expanded outward over generations with a more broadly Pacific-influenced aesthetic sensibility as the city's population grew — the built environment itself sits in the same visible layers the city's settlement history does: an old core surrounded by newer growth.
 
 **Developer vision, established 2026-07-05 — a city built as its own windbreak.** Mirny is dense with buildings — lots and lots of them — arranged in a scattered, concentric formation two or three layers deep. The outer ring is heavily fortified and deliberately smooth-shaped, built to take the katabatic wind head-on and shed it rather than catch it; this outer shell is what actually makes the interior livable and workable. Inside that shielded core sit huge industrial yards, machinery running more often than not — this is the literal, physical expression of the "layers" already established above, function driving form as much as demographic history does. **Residential space, clarified 2026-07-05,** sits inside these same inner buildings, alongside the industrial yards, rather than in a separate third ring — the same wind-shielding that makes the industrial core workable is what makes it livable, so people live where the wind isn't as much of an issue rather than in a distinct residential layer.
 
@@ -127,20 +127,20 @@ Aggressively wind-engineered, similar in spirit to Denison's approach but withou
 
 ## 11. Fashion
 
-Heavily wind-engineered outerwear, similar in rigor to Denison's gear but without the identity-marker pride — Mirny clothing is judged purely on performance against the wind, not on what it signals about the wearer. Russian-influenced garment structures persist in specific styles; broader Pacific influence shows in color and textile choices as the population diversified.
+Heavily wind-engineered outerwear, similar in rigor to Denison's gear but without the identity-marker pride — Mirny clothing is judged purely on performance against the wind, not on what it signals about the wearer. Garment structures developed during the founding-era station's own extreme-wind conditions persist in specific styles, regardless of whose current garment they inform; broader Pacific influence shows in color and textile choices as the population diversified.
 
 ---
 
 ## 12. Music
 
-A genuine layered coexistence of Russian and Chinese musical traditions, more separate than merged — residents move between both rather than experiencing a single hybrid form, a musical parallel to the city's overall founding-versus-majority pattern. No dominant singular Mirny sound the way Zhongshan or Denison each developed one.
+A genuine layered coexistence of Russian and Chinese musical traditions, more separate than merged — residents move between both rather than experiencing a single hybrid form, a musical parallel to the city's overall settlement-era layering. No dominant singular Mirny sound the way Zhongshan or Denison each developed one.
 
 ---
 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Practical and understated; Mirny hasn't produced a strong singular visual arts identity, its creative energy concentrated more in the applied craft of wind engineering than in gallery traditions.
-- **Literature:** A strong Russian-heritage literary tradition (carrying forward themes of endurance and historical continuity, echoing the *Mirny*'s own founding legend) coexists with a growing body of Chinese-heritage work, largely without cross-pollination — again, coexistence rather than fusion.
+- **Literature:** A literary tradition rooted in the founding-era community's own circumstances — themes of endurance and continuity that grew out of generations spent maintaining one of Antarctica's most exposed, wind-battered sites, echoing (as coincidence rather than cause) the *Mirny*'s own founding legend — coexists with a growing body of work from the city's larger, later-arriving population, largely without cross-pollination — again, coexistence rather than fusion.
 - **Crafts & material culture:** Wind-engineering craft, similar to Denison's but treated as pure competence rather than heroic identity — genuinely skilled, quietly regarded, not mythologized.
 
 ---
@@ -150,7 +150,7 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 - **Sound:** Wind, severe and near-constant, though Mirny residents discuss it far less than Denison's do — present, managed, not narrated.
 - **Smell:** Cold rock and sea air off the Davis Coast; a specific layered mix of Russian and Chinese cooking smells in residential areas, kept more distinct from each other than in more fused-cuisine cities.
 - **Feel:** Liminal in a lived, physical sense — the solstice light events give the city a genuinely otherworldly quality a few days a year that residents anticipate and newcomers find startling.
-- **First impressions for visitors:** The wind, immediately. Then, more slowly, the specific double-layered cultural texture — Russian institutional weight and Chinese demographic majority, sitting side by side rather than blended.
+- **First impressions for visitors:** The wind, immediately. Then, more slowly, the specific double-layered cultural texture — the founding generation's institutional weight and the city's much larger, later-arriving population, sitting side by side rather than blended.
 
 ---
 
@@ -193,13 +193,13 @@ Robot residents concentrate heavily in communications, technical, and wind-engin
 
 ## 19. Underground / Counterculture
 
-Limited and low-friction — Mirny's genuine, stable coexistence between its founding and majority populations leaves less pressure for a strong counterculture to form in opposition to anything. What subculture exists tends toward residents who reject the city's understated, competence-first reserve in favor of more expressive, demonstrative living — a mild contrast rather than a sharp fault line.
+Limited and low-friction — Mirny's genuine, stable coexistence between its founding-era and later-arriving populations leaves less pressure for a strong counterculture to form in opposition to anything. What subculture exists tends toward residents who reject the city's understated, competence-first reserve in favor of more expressive, demonstrative living — a mild contrast rather than a sharp fault line.
 
 ---
 
 ## 20. Private Life & Minority Communities
 
-Because Mirny's two largest communities (Russian and Chinese) coexist rather than merge, the usual public/private divide dynamic plays out differently here than in more singularly-dominant cities — both major heritage groups maintain visible, active public presence simultaneously, rather than one serving as the dominant public face while the other stays private. Smaller communities (Japanese, British, Korean, Indonesian, Australian, and others) navigate a genuinely dual-majority environment rather than a single dominant culture to integrate into.
+Because Mirny's founding-era population and its much larger, later-arriving population coexist rather than merge, the usual public/private divide dynamic plays out differently here than in more singularly-dominant cities — both groups maintain visible, active public presence simultaneously, rather than one serving as the dominant public face while the other stays private. Smaller communities (Japanese, British, Korean, Indonesian, Australian, and others) navigate a genuinely dual-layered environment rather than a single dominant culture to integrate into.
 
 ---
 
@@ -215,7 +215,7 @@ Administrative and function-oriented, shaped heavily by the responsibility of be
 
 ## 22. Relationship to Upper Earth
 
-Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by its infrastructural responsibilities and its historical continuity (Russia's presence in Antarctica since Bellingshausen) more than by active grievance politics. The founding legend (a ship's name, a moment of first-sighting) sits further back in time than the raw wound of exile itself, giving Mirny's relationship to Upper Earth a slightly more historical, less immediately personal character than younger-feeling founding stories.
+Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by its infrastructural responsibilities more than by active grievance politics. The site's own institutional age — one of the oldest continuously run stations in Antarctica, its founding legend anchored in a centuries-old expedition rather than the raw wound of exile itself — gives Mirny's relationship to Upper Earth a slightly more historical, less immediately personal character than younger-feeling founding stories.
 
 ---
 
@@ -238,7 +238,7 @@ Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by 
 
 - Communications and infrastructure expertise — Mirny-trained relay and Arcanet specialists carry unusual weight given the city's unique hub responsibility
 - Wind-engineering competence, in the same practical register as Denison's but without the identity-performance
-- A specific *type of person* — steady, competent, comfortable holding two things at once (two languages, two founding stories, two seasons of light) without needing to resolve the tension between them
+- A specific *type of person* — steady, competent, comfortable holding two things at once (two languages, two eras of the city's own settlement, two seasons of light) without needing to resolve the tension between them
 - Historical continuity — Mirny's Russian-heritage community carries forward one of the deepest pre-exile Antarctic historical threads in all of Tepenia
 
 ---
@@ -257,7 +257,7 @@ Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by 
 
 ## 27. Visitor Experience
 
-The wind registers first, immediately and physically. Then, more gradually, the specific double-texture of the city — Russian institutional weight visible in the older architecture and language, Chinese demographic presence visible in the numbers and daily life, sitting alongside each other rather than blended into one thing. Visitors arriving near a solstice may catch the grazing-light phenomenon, described consistently as the single most memorable thing about the city once you know to watch for it.
+The wind registers first, immediately and physically. Then, more gradually, the specific double-texture of the city — the founding generation's institutional weight visible in the older architecture and language, the city's much larger, later-arriving population visible in the numbers and daily life, sitting alongside each other rather than blended into one thing. Visitors arriving near a solstice may catch the grazing-light phenomenon, described consistently as the single most memorable thing about the city once you know to watch for it.
 
 ---
 
@@ -297,4 +297,4 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 
 ## 32. Diaspora Character in Concordia
 
-Mirny-descended people in Concordia carry a specific, quiet awareness of connection that other diaspora communities don't quite share — the intra-subnet Arcanet link, whether or not it's actually functioning, means Mirny occupies a different emotional position than fully severed cities. They're recognizable by a steady, undemonstrative competence, a comfort with holding two heritages (Russian and Chinese) without needing to resolve which one is "really" theirs, and — among those old enough to remember — a particular, quiet pride in the *Mirny*'s name and what it meant to have been founded by the ship that first saw the whole continent.
+Mirny-descended people in Concordia carry a specific, quiet awareness of connection that other diaspora communities don't quite share — the intra-subnet Arcanet link, whether or not it's actually functioning, means Mirny occupies a different emotional position than fully severed cities. They're recognizable by a steady, undemonstrative competence, a comfort with holding two things at once — the city's founding-era roots and its much larger, later-arriving population — without needing to resolve which one is "really" theirs, and — among those old enough to remember — a particular, quiet pride in the *Mirny*'s name and what it meant to have been founded by the ship that first saw the whole continent.

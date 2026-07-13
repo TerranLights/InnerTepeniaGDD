@@ -18,7 +18,7 @@
 | **Status** | Damaged; partially operational |
 | **Subnet** | Halley — off Hwy 7's main line via its own connector, an ice shelf position |
 | **Population (Census II)** | 385,071 humans / 445,676 robots / 830,747 combined |
-| **Founding** | German exiles with strong scientific-institutional character, inheriting a full settlement's worth of scientific and engineering equipment that became the seed of Neumayer's own most significant contribution to Tepenian history |
+| **Founding** | Exiles who inherited the AWI station, and a full settlement's worth of scientific and engineering equipment that became the seed of Neumayer's own most significant contribution to Tepenian history |
 
 ---
 

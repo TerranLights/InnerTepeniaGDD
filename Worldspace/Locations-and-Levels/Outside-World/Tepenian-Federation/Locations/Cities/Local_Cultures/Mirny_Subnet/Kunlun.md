@@ -221,14 +221,14 @@ Likely filtered through the astronomy/comms mission specifically — a populatio
 
 - Astronomical data — Dome A's exceptional atmospheric stability likely makes Kunlun's observatory findings one of the most scientifically valuable exports in Tepenia, per `Specs/Kunlun.md`'s flagged DLC requirement
 - Ice core science data, alongside Dome Fuji's own
-- Undiluted Sinian cultural continuity, to whatever extent a single-nation, extremely isolated population can meaningfully export culture back to the rest of the Sinian Federation
+- The astronomy-and-comms specialist lineage itself — descendants and successors across the 19 represented nations carry Kunlun's professional and (for some) devotional reputation back to their own communities, an export of expertise and reputation rather than any single nation's cultural continuity
 
 ---
 
 ## 26. Municipal Holidays
 
 - **Deepest Cold** *(placeholder name, possibly shared in spirit with Dome Fuji)* — observed at or near Kunlun's own coldest point (July, average −68°C), likely with even greater theological weight than Dome Fuji's equivalent observance, given Kunlun's status as the holier site
-- Whatever specifically Sinian cultural observances the founding population maintained, likely still practiced given the population's total ethnic continuity — specifics TBD pending broader Sinian Federation lore development
+- Whatever observances individual heritage communities among the 19 represented nations maintain privately remain TBD (see Section 20); the founding population's own fate, and whether any of its specific observances survived the transition to today's specialist draw, is a separate open question (see Section 30)
 
 ---
 

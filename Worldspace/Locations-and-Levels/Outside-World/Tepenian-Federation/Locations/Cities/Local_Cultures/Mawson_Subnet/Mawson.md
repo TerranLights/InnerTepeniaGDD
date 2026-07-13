@@ -7,7 +7,7 @@
 **Census Population:** 709,729 humans / 737,004 robots / 1,446,733 combined (Census I, rank 6th of ~34); 427,321 humans / 525,125 robots / 952,446 combined (Census II, rank 9th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 
-**One-liner:** *The city that never stopped being here since 1954 — an Australian founding that gave the whole subnet its name and its patron Saint, long since overtaken by the Indian Ocean's own demographic current: China, not America, is who Mawson eventually became.*
+**One-liner:** *The city that never stopped being here since 1954 — an Australian founding that gave the whole subnet its name and its patron Saint, its population long since reshaped by the Indian Ocean's own demographic current into something the founders never anticipated.*
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 2. Founding Story
 
-The Australian Antarctic Division had operated Mawson Station continuously since 1954 — the longest unbroken human occupation of any Tepenian city, predating every other Mawson subnet settlement. Australian exiles inherited that institutional depth directly: operational knowledge, physical infrastructure, and a genuine sense of territorial legitimacy carried over from the Australian Antarctic Territory, the largest national Antarctic claim by area at roughly 42% of the continent.
+The Australian Antarctic Division had operated Mawson Station continuously since 1954 — the longest unbroken human occupation of any Tepenian city, predating every other Mawson subnet settlement. Australian exiles inherited that institutional depth directly: operational knowledge, physical infrastructure, and — simply from being the ones who inherited the oldest, most continuously run base on the continent — a genuine sense of territorial legitimacy in their corner of it.
 
 The city was named for Sir Douglas Mawson, the greatest Australian polar explorer, whose 1911–14 Australasian Antarctic Expedition and subsequent voyages defined Australian polar identity. In the Tepenian Saints framework, Mawson became St. Douglas — his connection to this city complete in a way no other Tepenian Saint quite matches: the city, the subnet, and the whole surrounding claimed territory all carry his name or legacy.
 
@@ -96,13 +96,13 @@ Mawson's civic identity is built on continuity and inheritance — the oldest co
 
 ## 9. Architecture
 
-Built on inherited, well-maintained Australian Antarctic Division infrastructure — the oldest continuously-maintained built environment in the Mawson subnet, now genuinely layered with the aesthetic and practical influence of the Chinese-Primary demographic that eventually settled here.
+Built on inherited, well-maintained Australian Antarctic Division infrastructure — the oldest continuously-maintained built environment in the Mawson subnet, since expanded and adapted across generations into the hospitality-forward hub-city environment Mawson has today. Any resemblance between specific architectural details and any single contributing nation's aesthetic traditions is incidental to that lived, practical development — the built environment answers to hub function and visitor traffic first.
 
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine blend anchored by Chinese culinary tradition (matching the demographic Primary), with real Japanese, Korean, Indonesian, and Australian threads woven throughout — reflecting the whole Indian-Ocean-facing immigration pattern.
+- **a. Human cuisine** — A genuine, wide-ranging blend, built by decades of Mawson's own hospitality industry rather than inherited wholesale from any single nation — a hub city that made welcoming visitors its civic project developed a correspondingly eclectic table. Real Chinese, Japanese, Korean, Indonesian, and Australian threads run through it, echoing the city's population, but the cuisine's actual shape was set by the city's own hospitality economy, not handed down from any one contributing culture.
 - **b. Social context of eating** — Practical, shaped by the city's genuine hub responsibilities and institutional character.
 - **c. Robot cuisine / siligel culture** — Substantial, scaled to a real subnet-hub population.
 
@@ -110,13 +110,13 @@ Built on inherited, well-maintained Australian Antarctic Division infrastructure
 
 ## 11. Fashion
 
-A genuine blend of East Asian and Australian practical cold-weather aesthetics — distinct from the more European-inflected style of most Atlantic- and Peninsula-facing Tepenian cities.
+A genuine, eclectic blend of practical cold-weather styles, shaped by Mawson's own hospitality-forward, resort-adjacent civic identity more than by any single population thread — a city built around welcoming visitors developed a correspondingly varied look, distinct from the more austere, purely function-first style of colder, less visitor-oriented Tepenian cities.
 
 ---
 
 ## 12. Music
 
-Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian musical traditions — a direct reflection of the subnet's own Indian-Ocean-facing demographic character.
+Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian musical traditions — grown out of Mawson's own decades-long hospitality economy and constant visitor traffic, a hub city's musical culture built for a rotating, plural audience rather than handed down from any single population thread.
 
 ---
 
@@ -164,7 +164,7 @@ With robots slightly outnumbering humans (737,004 to 709,729 Census I), human-ro
 
 ## 17. Robot-Specific Culture
 
-Robot culture at Mawson likely centers on the operational and technical competence inherited from the Australian Antarctic Division's own long institutional tradition, now exercised on behalf of a demographically very different population than the one that originally built it.
+Robot culture at Mawson likely centers on the operational and technical competence built up over seven decades of keeping the subnet hub continuously running — a skill set earned through the sheer duration and responsibility of the hub role itself, now exercised on behalf of a demographically very different population than the one that first staffed the station.
 
 ---
 
@@ -199,7 +199,7 @@ Genuinely significant as the Mawson subnet's administrative and communications h
 
 ## 22. Relationship to Upper Earth
 
-Filtered through the Australian Antarctic Territory's own real territorial history — the largest national Antarctic claim by area — layered against the Chinese/Japanese/Korean/Indonesian demographic reality that eventually reshaped the city, a genuinely plural relationship distinct from the founding nation's own original framing.
+Filtered through Mawson's own established role as subnet hub and honeymoon destination — a city whose relevance to the rest of Tepenia has always run through function and hospitality rather than through any single population's grievance or memory, a genuinely plural relationship shaped by who actually lives and works here today.
 
 ---
 

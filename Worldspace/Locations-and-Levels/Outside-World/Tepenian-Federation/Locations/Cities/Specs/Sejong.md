@@ -99,7 +99,7 @@ The name honors King Sejong the Great (1397–1450), who commissioned the creati
 
 ## Character & Culture
 
-Sejong's character was shaped by proximity to everyone else. No other Tepenian city had to negotiate its identity against so many immediate neighbors. The multinational character of King George Island meant Sejong developed cultural boundaries and cultural connections simultaneously — knowing exactly what was Korean about itself, because it was surrounded by what wasn't.
+Sejong's character was shaped by proximity to everyone else. No other Tepenian city had to negotiate its identity against so many immediate neighbors. The multinational character of King George Island meant Sejong developed cultural boundaries and cultural connections simultaneously — a distinct community defined through daily contact and contrast with its neighbors, in a way no other Tepenian settlement's identity was tested.
 
 The mild climate made King George Island the most physically comfortable location in the Palmer subnet, which paradoxically made it more competitive: multiple communities vying for the same favorable ground. The social dynamics of King George Island, with its dense concentration of distinct national communities, would have produced a unique kind of inter-community politics with no equivalent elsewhere in Tepenia.
 

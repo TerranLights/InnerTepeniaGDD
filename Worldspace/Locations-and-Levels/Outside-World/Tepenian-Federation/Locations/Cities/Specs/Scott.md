@@ -71,7 +71,7 @@ Key figures for reference:
 
 **Settled:** Shortly after the Falkland Treaty (June 21, 2564). Scott Base had been New Zealand's Antarctic presence since 1957 — one of the older continuously occupied stations. The infrastructure was modest by McMurdo's standards but solid and well-maintained. New Zealand exiles built on it and kept it modest by choice.
 
-**Founding population:** New Zealand exiles primarily, alongside a broader Pacific-region community. New Zealand's Antarctic program had always emphasized quality of relationship with the environment over scale of operation, and the founding population carried that sensibility into the city's design.
+**Founding population:** New Zealand exiles primarily, alongside a broader Pacific-region community.
 
 The name was kept as-is from the station. Robert Falcon Scott — British explorer, died on the return journey from the South Pole in 1912 — had been the organizing spirit of New Zealand's Antarctic identity for centuries by the time of the exile. Keeping his name was not a statement of British loyalty (New Zealand had been independent for centuries) but of Antarctic heritage.
 
@@ -81,7 +81,7 @@ The name was kept as-is from the station. Robert Falcon Scott — British explor
 
 Scott was the city that Fort McMurdo was not. Where Fort McMurdo was large, industrial, and transient, Scott was small, precise, and stable. Where Fort McMurdo's culture was shaped by the constant churn of contract workers and extraction operations, Scott's was shaped by long-term residents who knew each other's names and chose to stay.
 
-The New Zealand cultural influence gave Scott a particular quality — pragmatic without being harsh, community-oriented without being insular, comfortable with the outdoors in a way that read differently from the Frostlander outdoor culture in Concordia. New Zealand's national self-image had long been built around competence in difficult landscapes; that translated well to Antarctica.
+Scott's own small, stable scale gave the city a particular quality — pragmatic without being harsh, community-oriented without being insular, comfortable with the outdoors in a way that read differently from the Frostlander outdoor culture in Concordia. A city built by people who knew each other's names and chose to stay develops that kind of ease with its own environment on its own terms, distinct from what any larger, more transient population could produce.
 
 The relationship with Fort McMurdo was genuinely collaborative and genuinely competitive in equal measure. Scott residents were proud of their city's distinct character and somewhat allergic to being perceived as Fort McMurdo's smaller sibling. Fort McMurdo residents tended to regard Scott with a mixture of respect and mild condescension that Scott residents found both understandable and irritating. Both cities needed each other too much for this to become serious conflict.
 
@@ -103,7 +103,7 @@ Scott the city carries this framing more personally than any other place in Tepe
 
 Scott's economy was deeply intertwined with Fort McMurdo's — the two cities shared logistics infrastructure and Scott's economy was partly organized around supporting, complementing, and in some cases specializing against Fort McMurdo's industrial operations. Where Fort McMurdo extracted and processed at scale, Scott may have focused on more precise or technical operations. Full economic detail TBD for DLC 6 design.
 
-New Zealand's real-world Antarctic program had a strong scientific and environmental monitoring component; that may have translated into a research or measurement industry in Scott distinct from Fort McMurdo's extraction focus.
+Scott Base's own real-world research and environmental-monitoring infrastructure may have translated into a research or measurement industry in the Tepenian city, distinct from Fort McMurdo's extraction focus.
 
 **Confirmed 2026-07-07: Scott's one genuine industry beyond its residential/political character** — collecting volcanic material fallen from Mount Erebus and delivering it to a trucking facility across McMurdo Sound, which forwards it onward down the coastal highway into the Janbogo subnet for further processing. A small, contained operation consistent with Scott's own established quiet, family-oriented civic identity — real economic activity that doesn't define what the city feels like to walk through day to day, the same way its technical/research base already doesn't.
 

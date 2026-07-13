@@ -59,9 +59,9 @@ The real Ross Sea sector concentrates an unusually dense, historically significa
 
 Applies now at subnet scale — Scott's own precise real-world grounding for its relationship to Fort McMurdo is the clearest example within the subnet, but per this Ultra-Megasheet's own Pattern 3, the same underlying shape recurs a second time between Cape Adare and Janbogo, suggesting it's a genuine structural feature of how this subnet organizes its city-pairs, not a coincidence specific to one relationship.
 
-### Secondary: Quebec City — minority founding culture surviving as functional daily practice (already researched for Dumont d'Urville specifically)
+### Secondary: Singapore — founding institutional language surviving as functional daily practice (already researched for Dumont d'Urville specifically)
 
-Applies at subnet scale via Pattern 2 — the same durable, functional-transmission mechanism that explains Dumont d'Urville's French persistence also explains Janbogo's own Korean-founded absorption culture, giving the subnet two, not one, real-world-grounded examples of a founding culture surviving through lived practice rather than ceremony.
+Applies at subnet scale via Pattern 2 — the same durable, functional-transmission mechanism that explains Dumont d'Urville's founding-language persistence also explains Janbogo's own founding-institution absorption culture, giving the subnet two, not one, real-world-grounded examples of a founding culture surviving through lived practice rather than ceremony.
 
 ### Supporting: The Berlin Airlift and contested-chokepoint precedents (already researched for Troll, Halley subnet)
 

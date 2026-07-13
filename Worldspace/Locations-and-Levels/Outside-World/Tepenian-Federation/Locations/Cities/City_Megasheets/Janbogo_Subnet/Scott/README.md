@@ -30,7 +30,7 @@ The full, concatenated Scott reference — synthesis, then extrapolation, then c
 
 ## Who Lives Here, and Why
 
-China and USA sit co-Primary (19.48%/22.62%), with a broad Significant tier beneath them — Japan, UK, Australia, South Korea, Canada, Indonesia. New Zealand itself, the founding-operator nation, sits at Notable tier (3.52%) — one of the deepest founding-nation dilutions documented anywhere in Tepenia, even as the city's whole civic identity remains organized around New Zealand's own founding sensibility.
+China and USA sit co-Primary (19.48%/22.62%), with a broad Significant tier beneath them — Japan, UK, Australia, South Korea, Canada, Indonesia. New Zealand itself, the founding-operator nation, sits at Notable tier (3.52%) — one of the deepest founding-nation dilutions documented anywhere in Tepenia, even as the city's whole civic identity remains organized around the founding-era civic template that took root early.
 
 ---
 
@@ -102,7 +102,7 @@ Following the standard adjectival pattern already used across Tepenia's shorter-
 
 ## II. Economic Character: Precision, Calibration, and Monitoring
 
-**Proposed:** Scott's technical/research economy specializes in precision equipment calibration, maintenance, and environmental and geological monitoring for the whole Hut Point Peninsula — including a share of the ongoing Erebus monitoring program, complementing rather than competing with Fort McMurdo's own established heavy-industry focus. This traces directly from the real New Zealand Antarctic program's genuine emphasis on scientific and environmental monitoring, and it gives Scott a specific, non-overlapping economic niche alongside Fort McMurdo rather than a vague "smaller version of the same thing."
+**Proposed:** Scott's technical/research economy specializes in precision equipment calibration, maintenance, and environmental and geological monitoring for the whole Hut Point Peninsula — including a share of the ongoing Erebus monitoring program, complementing rather than competing with Fort McMurdo's own established heavy-industry focus. This traces directly from Scott Base's own real-world emphasis on scientific and environmental monitoring, and it gives Scott a specific, non-overlapping economic niche alongside Fort McMurdo rather than a vague "smaller version of the same thing."
 
 ---
 

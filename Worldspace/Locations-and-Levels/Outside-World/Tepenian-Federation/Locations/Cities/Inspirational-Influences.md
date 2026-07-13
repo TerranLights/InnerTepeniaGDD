@@ -9,7 +9,7 @@
 - Berlin, Germany [SECONDARY]
 
 ##### Dumont d'Urville
-- Quebec City, Quebec [PRIMARY]
+- Singapore [PRIMARY]
 - San Miguel de Allende, Mexico [SECONDARY]
 - San Miguel de Tucumán, Argentina [SECONDARY]
 

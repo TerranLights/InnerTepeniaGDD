@@ -78,7 +78,7 @@ Named after King Juan Carlos I, who reigned during Spain's transition from dicta
 
 ## Character & Culture
 
-Juan Carlos developed differently from Sejong precisely because it didn't have as many immediate neighbors. Livingston Island's relative quietness, compared to King George Island's concentration of nations, gave Juan Carlos room to be itself without constant negotiation. Its cultural inheritance — language, food tradition, particular social temperament — was able to develop with more coherence here than it might have on a more crowded island.
+Juan Carlos developed differently from Sejong precisely because it didn't have as many immediate neighbors. Livingston Island's relative quietness, compared to King George Island's concentration of nations, gave Juan Carlos room to be itself without constant negotiation. Its own culture — language, food tradition, particular social temperament — was able to develop independently and with more coherence here than it might have on a more crowded island.
 
 **Nationally known for:** Livingston Island's relative calm. Being the origin site of Tepenia's first bureaucratic archive.
 

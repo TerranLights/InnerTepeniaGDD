@@ -18,11 +18,11 @@
 
 ## Finding 2: Janbogo's real civic trait isn't what its culture contains, but how it absorbs anything that reaches it
 
-**Combining:** the established Chinese-French fashion fusion (Chinese demographically grounded, French independently adopted despite no population behind it) + the established teahouse tradition "traveling well beyond its Unified Korean roots" + the New Orleans jazz precedent already noted for this exact same "belongs to everyone now" pattern.
+**Combining:** the established Chinese-French fashion fusion, developed as the city's own indoor-warmth style choice + the established teahouse tradition, now belonging to the whole city regardless of ancestry + the New Orleans jazz precedent already noted for this exact same "belongs to everyone now" pattern.
 
 **2nd-order effect:** this isn't one example plus one separate parallel — it's the same underlying civic behavior appearing in at least two completely different domains (fashion and hospitality institutions), suggesting a genuinely consistent pattern rather than a coincidence.
 
-**3rd-order effect:** Janbogo's real distinguishing trait may not be any single cultural content (Korean heritage, teahouses, fashion) but a repeatable process by which anything that arrives eventually becomes simply "Janbogo's own," regardless of whether a demographic population "justifies" the adoption.
+**3rd-order effect:** Janbogo's real distinguishing trait may not be any single cultural content (Korean heritage, teahouses, fashion) but a repeatable process by which anything that arrives eventually becomes simply "Janbogo's own."
 
 **4th-order effect:** worth flagging as a genuinely distinctive throughline for future Janbogo-set content — a city defined by how readily its culture absorbs and re-originates whatever reaches it, a meta-level trait most other Tepenian cities, built around one dominant founding flavor, don't share to the same degree.
 

@@ -115,13 +115,13 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 
 **Founding population:** Primarily Unified Korean exiles — robots from Korean society and their human partners and supporters — alongside the broader Tepenian exile population that reached the Ross Sea coast.
 
-Janbogo developed as a distinctly Korean-influenced city from its earliest days, drawing on the cultural traditions its founders brought and adapting them to the Antarctic environment. The phonetic adaptation of the name — Jang Bogo to Janbogo — reflects the city's easy relationship with its own identity: it kept what it was without needing to perform it.
+Janbogo developed its own distinct civic culture from its earliest days, shaped by its founders' own choices as they adapted to the Antarctic environment. The phonetic adaptation of the name — Jang Bogo to Janbogo — reflects the city's easy relationship with its own identity: it kept what it was without needing to perform it.
 
 ---
 
 ## Character & Culture
 
-Janbogo developed a reputation for warmth and community that traveled well beyond its Unified Korean roots — a city known across Tepenia not just as the Korean city but as a place with a particular quality of life that set it apart from the industrial cities (Fort McMurdo) and the cultural capitals (Palmer City).
+Janbogo developed its own reputation for warmth and community, independently of its founding-nation identity — a city known across Tepenia not just as the Korean city but as a place with a particular quality of life that set it apart from the industrial cities (Fort McMurdo) and the cultural capitals (Palmer City).
 
 The communal culture was strong: shared spaces, hospitality traditions, an emphasis on the quality of everyday experience even in a difficult environment. The city produced people whose instinct, wherever they ended up, was to build something that made the people around them feel more at home.
 

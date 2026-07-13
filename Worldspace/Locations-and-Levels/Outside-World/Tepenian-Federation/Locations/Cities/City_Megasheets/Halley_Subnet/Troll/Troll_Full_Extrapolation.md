@@ -18,7 +18,7 @@
 
 ## III. St. Roald Veneration: Real, But Quietly Overshadowed
 
-**Proposed:** yes, genuine St. Roald (Amundsen) veneration persists at Troll, rooted in the 1939 Queen Maud Land claim and the Norwegian Polar Institute's own founding heritage — but it has been increasingly overshadowed by the airfield-conflict identity in recent generations. The veneration survives as a quieter, more private practice among older residents and those with genuine Norwegian ancestry, while the city's dominant public identity has shifted almost entirely to "whoever holds the runway." A real tension between private reverence and public identity, not a resolved question either way.
+**Proposed:** yes, genuine St. Roald (Amundsen) veneration persists at Troll, a civic tradition tracing back to the 1939 Queen Maud Land claim and the Polar Institute's own founding-era history — but it has been increasingly overshadowed by the airfield-conflict identity in recent generations. The veneration survives as a quieter, more private practice among older residents and those who've kept up the city's older civic traditions, while the city's dominant public identity has shifted almost entirely to "whoever holds the runway." A real tension between private reverence and public identity, not a resolved question either way.
 
 ---
 

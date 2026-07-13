@@ -7,7 +7,7 @@
 **Census II Population:** 443,754 humans / 493,905 robots / 937,659 combined *(revised 2026-07-03 — reduced to 72% of its original figure across two rounds as part of a deliberate population redistribution to Lazar; see `Official_Population_Census.md`. No longer the Federation's second-largest city — that superlative has been retired — but retention percentages are unaffected by the redistribution: human retention 72.5%, robot retention 77.7%, unchanged. Zukelli was still near its own demographic peak, not declining, when it was destroyed — a substantial, thriving mid-sized city rather than the Federation's second-biggest.)*
 **Location:** Terra Nova Bay, Victoria Land, Ross Sea (~74°41'S, 164°07'E) — approximately 8km from Janbogo *(corrected 2026-07-03 from ~10km — GPS coordinate calculation against the map)*, sharing the same bay and the same Terra Nova Bay polynya
 
-**One-liner:** *Janbogo's neighbor across the same bay for centuries — an Italian sister city whose food and culture were as fully realized as Janbogo's Korean warmth, until the war made the two cities' shared history into a permanent, visible asymmetry.*
+**One-liner:** *Janbogo's neighbor across the same bay for centuries — a sister city whose own food-and-hospitality culture was as fully realized as Janbogo's teahouse warmth, until the war made the two cities' shared history into a permanent, visible asymmetry.*
 
 ---
 
@@ -23,7 +23,7 @@
 | Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
-*Zukelli's composition is almost a mirror of Janbogo's — same Primary pair, same demographic shape, ten kilometers apart on the same bay. The difference that matters is the founding-operator nation: Italy here instead of Korea. This is the same structural pattern as Janbogo's own founding tension (a founding nation persisting as civic template despite demographic minority status), which makes the two cities a genuine paired case — except Janbogo's Korean-coded culture is still a living thing, and Zukelli's Italian-coded culture ended when the city did. Same shape, opposite outcome.*
+*Zukelli's composition is almost a mirror of Janbogo's — same Primary pair, same demographic shape, ten kilometers apart on the same bay. What differs is which exile community broke ground first and shaped the earliest civic institutions before the population diversified around it. This is the same structural pattern as Janbogo's own founding-era timeline (an early civic template that outlasted the founding population's own demographic share), which makes the two cities a genuine paired case — except Janbogo's own civic culture is still a living thing, and Zukelli's own version of it ended when the city did. Same shape, opposite outcome.*
 
 ---
 
@@ -55,16 +55,16 @@ Whatever seasonal rhythm governed Janbogo governed Zukelli identically — the p
 
 **Name/concept:** *The City You Can See From the Window*
 
-Zukelli's defining civic fact, for as long as it stood, was Janbogo's constant presence on the horizon — and its defining fact since the war is the inverse: it is now the thing Janbogo has to look at. No other destroyed city in Tepenia occupies this specific position, close enough to be watched, not remote enough to be abstracted into distant history. Zukelli's post-war identity exists entirely in the tension between what the city actually was — a thriving, near-peak-population Italian cultural center — and what it's become to the people who can still see the ruins from their own windows.
+Zukelli's defining civic fact, for as long as it stood, was Janbogo's constant presence on the horizon — and its defining fact since the war is the inverse: it is now the thing Janbogo has to look at. No other destroyed city in Tepenia occupies this specific position, close enough to be watched, not remote enough to be abstracted into distant history. Zukelli's post-war identity exists entirely in the tension between what the city actually was — a thriving, near-peak-population food-and-hospitality cultural center — and what it's become to the people who can still see the ruins from their own windows.
 
-- **a. Founding tension** — Structurally identical to Janbogo's: Italy founded the city and set its entire cultural template, and by Census II, China and USA were the numerically dominant lineages while the culture stayed Italian-coded regardless. The tragedy is that this tension never got to resolve into a stable, ongoing living culture the way Janbogo's did — Zukelli was destroyed while the mixed population was still actively inheriting and practicing Italian civic identity, not after generations of settling into it.
+- **a. Founding-era culture** — Structurally identical to Janbogo's: the earliest civic institutions took shape before the population diversified, and by Census II, China and USA were the numerically dominant lineages while the food-and-hospitality civic culture that had taken root early stayed the city's living center regardless. The tragedy is that this never got to resolve into a settled, generations-deep tradition the way Janbogo's did — Zukelli was destroyed while the mixed population was still actively inheriting and practicing that early civic identity, not after generations of settling into it.
 - **b. Fault lines** — Janbogo's own relationship to Zukelli is the real fault line now: is watching the ruins a form of memorial, a wound the survivor city has never let heal, or something it has simply learned to stop looking at? Janbogo hasn't settled this question, and it colors how the subnet as a whole talks about the war.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
-- **a.** Hospitality and communal eating are civic obligations, not preferences — Zukelli's Italian inheritance made the shared table the city's central social institution, the way the teahouse was Janbogo's.
+- **a.** Hospitality and communal eating are civic obligations, not preferences — Zukelli's own founding-era circumstances made the shared table the city's central social institution, the way the teahouse was Janbogo's.
 - **b. Hospitality character** — Warm, food-centered, genuinely competitive with Janbogo's own hospitality tradition in the friendliest possible sense — residents of both cities took real pride in out-hosting each other.
 - **c.** Unhurried around food and gathering, otherwise paced by the same practical port-city rhythms as Janbogo.
 - **d. Public/private divide** — Food and hospitality are the most public-facing part of civic identity; the underlying rivalry-and-affection relationship with Janbogo was talked about openly, almost as a shared civic sport.
@@ -74,7 +74,7 @@ Zukelli's defining civic fact, for as long as it stood, was Janbogo's constant p
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people drawn to a specific, fully-realized food and hospitality culture — cooks, hosts, and anyone who wanted Janbogo's warmth with an Italian accent instead of a Korean one.
+- **The type this city draws:** people drawn to a specific, fully-realized food and hospitality culture — cooks, hosts, and anyone who wanted Janbogo's warmth expressed through Zukelli's own distinct hospitality tradition instead.
 - **The type this city repels:** anyone who found the Janbogo-Zukelli rivalry-and-entanglement exhausting rather than charming — some genuinely preferred one city's version of hospitality to living inside a decades-long friendly competition with the other.
 
 ---
@@ -83,14 +83,14 @@ Zukelli's defining civic fact, for as long as it stood, was Janbogo's constant p
 
 - **a. Primary language(s):** Italian remained the civic default despite Italy's Significant-tier demographic standing, alongside the Chinese and English of the China/USA Primary pairing.
 - **b. Linguistic character** — Italian food and hospitality vocabulary entered everyday speech even among residents with no Italian ancestry, the same way Janbogo's teahouse vocabulary spread through its own population.
-- **c. Slang / dialect markers** — Culinary terms doubled as general expressions of approval or affection, an Italian-rooted habit that outlasted any strict linguistic accuracy.
+- **c. Slang / dialect markers** — Culinary terms doubled as general expressions of approval or affection, a habit rooted in the city's own food-and-hospitality civic culture that outlasted any strict linguistic accuracy.
 - **d. Language and integration** — Low pressure, food-mediated — participating in the city's hospitality culture was itself a form of integration that didn't strictly require fluent Italian.
 
 ---
 
 ## 9. Architecture
 
-Built around sheltered courtyards and wind-oriented street layouts, with covered connections between buildings allowing movement without full exposure to the katabatic winds shared with Janbogo. The Italian aesthetic showed in proportion, warmth of material choice, and the prominence given to communal gathering and food-hall spaces — buildings designed around the shared table the way Janbogo's were designed around the teahouse.
+Built around sheltered courtyards and wind-oriented street layouts, with covered connections between buildings allowing movement without full exposure to the katabatic winds shared with Janbogo. The city's own aesthetic showed in proportion, warmth of material choice, and the prominence given to communal gathering and food-hall spaces — buildings designed around the shared table the way Janbogo's were designed around the teahouse.
 
 **Developer vision, established 2026-07-05 — tangled and organic, not planned:** Zukelli grew the way a city grows when it's built by people solving whatever problem is in front of them that year, not by a master plan laid down in advance. The result is a tangled, interwoven street layout that makes complete sense to someone who was there as it was built, or who grew up navigating it, and is genuinely disorienting to anyone else — an outsider realistically needs to know somebody who actually lives there to find their way around. This isn't a flaw in the city's design; it's the honest physical record of centuries of organic, need-driven growth, the opposite of Concordia's planned dome-and-corridor structure.
 
@@ -100,23 +100,23 @@ Built around sheltered courtyards and wind-oriented street layouts, with covered
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Zukelli's most exported cultural product, subnet-wide: the Italian approach to communal eating, food craft, and hospitality, distinctive enough that people traveled from Janbogo specifically for it.
+- **a. Human cuisine** — Zukelli's most exported cultural product, subnet-wide: a genuinely coherent, independently developed cuisine built around communal eating, food craft, and hospitality — grown out of the city's own tangled, densely-built civic life rather than transplanted from anywhere, distinctive enough that people traveled from Janbogo specifically for it. *(It happens to echo real-world Italian communal-dining traditions — a coincidence of convergent development given the founding population's origins, not a direct inheritance.)*
 - **b. Social context of eating** — The absolute center of civic life — meals were where the city's whole hospitality-and-rivalry identity with Janbogo played out most visibly.
-- **c. Robot cuisine / siligel culture** — The Italian approach to siligel preparation was itself a recognized local craft, treated with the same care as human cuisine rather than as a separate, lesser tradition.
+- **c. Robot cuisine / siligel culture** — Zukelli's own approach to siligel preparation was itself a recognized local craft, treated with the same care as human cuisine rather than as a separate, lesser tradition.
 
 ---
 
 ## 11. Fashion
 
-Warm, material-conscious, Italian-inflected practical wear — style mattered here in a way it didn't at every Tepenian city, reflecting the same aesthetic sensibility that shaped the city's food culture and architecture.
+Warm, material-conscious practical wear with a distinct local flair — style mattered here in a way it didn't at every Tepenian city, reflecting the same aesthetic sensibility that shaped the city's food culture and architecture.
 
 ---
 
 ## 12. Music
 
-A genuinely lively musical culture, Italian-rooted, performed and shared in the same communal spaces as meals — music and food were treated as adjacent expressions of the same hospitality instinct rather than separate cultural categories.
+A genuinely lively musical culture, grown out of the city's own hospitality-centered civic life, performed and shared in the same communal spaces as meals — music and food were treated as adjacent expressions of the same hospitality instinct rather than separate cultural categories.
 
-**Developer vision, established 2026-07-05 — a huge, genre-diverse scene:** what began Italian-rooted grew, over centuries, into one of the largest and most varied music scenes in the Janbogo subnet, reflecting Zukelli's actual demographic breadth (China and USA lead the city's composition, with Korea, Canada, Australia, Indonesia, and Japan all Significant-tier) as much as its Italian founding heritage. Rather than dedicated concert venues, entertainment here happened primarily among friends and in restaurants with their own dedicated performance stages — music and food remaining, per the city's founding instinct, adjacent expressions of the same hospitality rather than separate institutions. This is part of what made Zukelli, more than almost anywhere else in Tepenia, a place people describe as having a *soul*.
+**Developer vision, established 2026-07-05 — a huge, genre-diverse scene:** what began as a small, food-adjacent civic tradition grew, over centuries, into one of the largest and most varied music scenes in the Janbogo subnet, reflecting Zukelli's actual demographic breadth (China and USA lead the city's composition, with Korea, Canada, Australia, Indonesia, and Japan all Significant-tier) as much as its own founding-era civic instincts. Rather than dedicated concert venues, entertainment here happened primarily among friends and in restaurants with their own dedicated performance stages — music and food remaining, per the city's founding instinct, adjacent expressions of the same hospitality rather than separate institutions. This is part of what made Zukelli, more than almost anywhere else in Tepenia, a place people describe as having a *soul*.
 
 ---
 
@@ -124,7 +124,7 @@ A genuinely lively musical culture, Italian-rooted, performed and shared in the 
 
 - **Visual arts:** Craft and design traditions tied closely to food culture and communal space — aesthetics in service of hospitality rather than standing apart from it.
 - **Literature:** Oral and communal storytelling, much of it centered on the Janbogo relationship itself — centuries of shared, entangled history generated its own local mythology. **Confirmed 2026-07-05:** Zukelli is also one of the Tepenian cities whose libraries openly welcome smuggled Upper Earth books, part of a broader national practice (also confirmed at Janbogo and Esperanza).
-- **Crafts & material culture:** Food-adjacent craft (tableware, communal-space furnishing) held real cultural weight, an Italian sensibility that treated the objects of hospitality as worth making well.
+- **Crafts & material culture:** Food-adjacent craft (tableware, communal-space furnishing) held real cultural weight, a local sensibility that treated the objects of hospitality as worth making well.
 
 ---
 
@@ -155,7 +155,7 @@ A genuinely lively musical culture, Italian-rooted, performed and shared in the 
 
 ## 16. Human-Robot Relations
 
-Close to parity in population (685,979 robots to 616,325 humans) and integrated through the same food-and-hospitality civic culture that governed everything else — Zukelli's Italian-inherited approach to siligel craft as a genuine culinary tradition, not a separate technical category, meant robot and human culinary contributions were valued on comparable terms.
+Close to parity in population (685,979 robots to 616,325 humans) and integrated through the same food-and-hospitality civic culture that governed everything else — Zukelli's own approach to siligel craft as a genuine culinary tradition, not a separate technical category, meant robot and human culinary contributions were valued on comparable terms.
 
 ---
 
@@ -180,7 +180,7 @@ Minimal — a city organized around open, communal hospitality doesn't generate 
 
 ## 20. Private Life & Minority Communities
 
-The Significant and Notable tier nations maintained identity through private household practice, much as at Janbogo, layered beneath a dominant Italian-coded public culture that everyone participated in regardless of ancestry.
+The Significant and Notable tier nations maintained identity through private household practice, much as at Janbogo, layered beneath a dominant food-and-hospitality public culture that everyone participated in regardless of ancestry.
 
 ---
 
@@ -196,7 +196,7 @@ Practical and locally focused, with Federation-level political energy channeled 
 
 ## 22. Relationship to Upper Earth
 
-Complicated by the same layered history as Janbogo's founding nation relationship — Italy's own place in the pre-exile world sat uneasily against the anger of exile, though Zukelli's own destruction during the war reframed this relationship permanently: whatever complicated feelings existed toward Upper Earth before the Long Night War, the war itself became the more immediate and total loss.
+Complicated by the same layered history every Tepenian city carries from exile, though Zukelli's own destruction during the war reframed this relationship permanently: whatever complicated feelings existed toward Upper Earth before the Long Night War, the war itself became the more immediate and total loss.
 
 ---
 
@@ -253,7 +253,7 @@ Becoming a local meant being folded into the city's hospitality culture and, imp
 
 - **The ruins visible from Janbogo** — the single most distinctive geographic fact about Zukelli; unlike every other destroyed Tepenian city, these ruins sit in daily sightline of a living city
 - **The shared polynya shoreline** — where Zukelli's waterfront met the Terra Nova Bay polynya, still running alongside the ruins
-- **The Italian cultural quarter** — the city's food halls and communal gathering spaces, now ruins
+- **The cultural quarter** — the city's food halls and communal gathering spaces, now ruins
 
 ---
 
@@ -265,7 +265,7 @@ Becoming a local meant being folded into the city's hospitality culture and, imp
 
 ## 31. Notable Figures
 
-- TBD *(see also Open Questions in `Specs/Zukelli.md` regarding a possible lore connection to Favi della Torre, an Italian character from Upper Earth)*
+- TBD
 
 ---
 

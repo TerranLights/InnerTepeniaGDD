@@ -114,7 +114,7 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 
 **Settled:** Post-Falkland Treaty. French exiles built on the Dumont d'Urville Station infrastructure, inheriting both the facility and the island's peculiar geography. The French Antarctic presence had been continuous at this site since 1956 (the station was briefly replaced by a successor, then rebuilt at the same location); the exile community built on generations of accumulated knowledge of how to live on Petrel Island.
 
-**Founding population:** Primarily French exiles alongside other francophone communities and whoever else arrived on the Adélie coast. The French territorial claim over Adélie Land gave this city a particular national character that persisted into the exile era.
+**Founding population:** Primarily French exiles alongside other francophone communities and whoever else arrived on the Adélie coast.
 
 The name was kept, and with it the inheritance of **St. Jules** — Jules Dumont d'Urville, the explorer who first set foot on this coast on January 21, 1840, who named the land for his wife and gave the local penguins her name as well. His arrival is the founding moment of the human relationship with Adélie Land, and the city that eventually grew here knew it.
 
@@ -126,7 +126,7 @@ Dumont d'Urville had the character of a city that knew it was beautiful and diff
 
 The wind shaped everything else. Architecture at Dumont d'Urville was built low, anchored, oriented. The cultural relationship with wind was not Mirny's pragmatic stoicism; it was something closer to negotiation — living with a condition that could not be fought, only accommodated. The island position reinforced this: the city could not expand beyond its natural borders, and the sea reminded residents on all sides that they were somewhere particular.
 
-The French cultural inheritance gave the city its food culture, its language, its aesthetic sensibility. It was the most distinctively francophone city in Tepenia — a small city, but one with a specific character.
+The city's food culture, language, and aesthetic sensibility grew out of its own tight, island-bound circumstances and the wind-negotiation instinct described above, developed independently rather than transplanted wholesale — though French remained the civic-default language, an echo of the original station's operating history rather than an explanation for the culture that formed around it. It became the most distinctively francophone-speaking city in Tepenia — a small city, but one with a specific character.
 
 **Nationally known for:** The penguin colonies. The wind. St. Jules. The island position. Being where Adélie Land begins.
 
@@ -193,7 +193,7 @@ The specific extent of the damage — which sections survived intact, what infra
 
 Dumont d'Urville's presence in Concordia is carried primarily by Pink Lucy — not as its last survivor, but as someone who left a damaged, still-standing city. The city itself is small enough that it hasn't sustained a large diaspora community in Concordia; what's known of it there is mostly known through her.
 
-In broader Tepenian culture, Dumont d'Urville is the French city of Adélie Land — the place that has kept the French Antarctic inheritance alive from the exile era onward, wind and penguins and St. Jules included, damaged by the war but still there.
+In broader Tepenian culture, Dumont d'Urville is the francophone city of Adélie Land — the place that has kept its own negotiated, wind-and-penguin civic identity alive from the exile era onward, St. Jules included, damaged by the war but still there.
 
 ---
 

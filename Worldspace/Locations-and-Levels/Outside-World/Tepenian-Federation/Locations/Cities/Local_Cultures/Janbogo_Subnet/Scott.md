@@ -23,13 +23,13 @@
 | Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(founding operator heritage)*, Chile |
 
-*Scott carries the most extreme version of the founding-nation-persists pattern documented anywhere in the Janbogo subnet — arguably anywhere in Tepenia so far. New Zealand founded the city, named it, and set its entire civic and cultural template, and by Census II sits at Notable tier — the lowest possible tier, below even Janbogo's Korea, Zukelli's Italy, or Dumont d'Urville's France, all of which at least held Significant tier. Yet Scott's civic identity remains unmistakably, thoroughly New Zealand-shaped: St. Robert's veneration, the precision-over-scale ethos, the whole character of the place. The culture didn't just survive its founding nation's demographic collapse to Notable tier. It barely noticed.*
+*Scott carries the most extreme version of the founding-nation-persists pattern documented anywhere in the Janbogo subnet — arguably anywhere in Tepenia so far. New Zealand founded the city, named it, and set its earliest civic institutions in place, and by Census II sits at Notable tier — the lowest possible tier, below even Janbogo's Korea, Zukelli's Italy, or Dumont d'Urville's France, all of which at least held Significant tier. Yet Scott's early civic template — St. Robert's veneration, the precision-over-scale ethos, the whole character of the place — persisted anyway, independently carried forward by whoever actually lived there. The culture didn't just survive its founding nation's demographic collapse to Notable tier. It barely noticed.*
 
 ---
 
 ## 2. Founding Story
 
-New Zealand exiles arrived to a station that had already been running, modestly and carefully, since 1957 — Scott Base was never built for scale the way McMurdo was; it was built for quality of relationship with a difficult environment, a deliberate national choice that carried straight into the exile city's design. The founders kept it modest on purpose, three kilometers from a city that would grow into the largest industrial center in the Federation, and never tried to compete with it on size.
+New Zealand exiles arrived to a station that had already been running, modestly and carefully, since 1957 — Scott Base was never built for scale the way McMurdo was; it was built for quality of relationship with a difficult environment, a design choice the founders carried straight into the exile city. The founders kept it modest on purpose, three kilometers from a city that would grow into the largest industrial center in the Federation, and never tried to compete with it on size.
 
 The name was kept without hesitation: Robert Falcon Scott, who died returning from the Pole in 1912, had organized New Zealand's entire relationship with Antarctica for centuries before the exile ever happened. Keeping his name wasn't loyalty to Britain — New Zealand had been independent for centuries by then — it was inheritance of a specific Antarctic identity that predated the nation's independence and outlasted it.
 
@@ -57,7 +57,7 @@ Scott's seasonal rhythm runs identically to Fort McMurdo's — the same sea ice 
 
 Scott's civic identity rests on a single, thoroughly internalized fact: this city exists because of a man who died not knowing anyone would ever live here. Every other part of Scott's culture — its precision, its intimacy, its quiet competence — sits underneath that foundational relationship with St. Robert. Where Fort McMurdo defines itself by what it produces, Scott defines itself by what it remembers, and remembers more personally than any other city in Tepenia remembers its own Saint.
 
-- **a. Founding tension** — The most extreme founding-tension gap documented in this project: New Zealand set the entire cultural template (precision over scale, competence in difficult landscapes, St. Robert's veneration) and now sits at Notable tier, the lowest possible ranking, beneath even Janbogo's or Zukelli's founding nations. The culture shows no sign of having noticed the demographic shift — St. Robert belongs to whoever lives in Scott now, regardless of where their own ancestry traces.
+- **a. Founding tension** — The most extreme founding-tension gap documented in this project: New Zealand set Scott's earliest civic institutions in place (precision over scale, competence in difficult landscapes, and St. Robert's veneration all took root early) and now sits at Notable tier, the lowest possible ranking, beneath even Janbogo's or Zukelli's founding nations. The culture shows no sign of having noticed the demographic shift — St. Robert belongs to whoever lives in Scott now, regardless of where their own ancestry traces.
 - **b. Fault lines** — The permanent, low-grade rivalry-and-partnership with Fort McMurdo: genuinely collaborative where it needs to be (shared logistics, shared emergency infrastructure, shared access roads), genuinely competitive in identity terms (Scott residents resent being read as "Fort McMurdo's little sibling"; Fort McMurdo residents carry a mild, good-natured condescension Scott residents find both understandable and irritating). Neither city can afford to let it become serious, because both need each other too much.
 
 ---
@@ -82,7 +82,7 @@ Scott's civic identity rests on a single, thoroughly internalized fact: this cit
 ## 8. Language
 
 - **a. Primary language(s):** English (New Zealand-inflected) remains the civic default despite New Zealand's Notable-tier standing, alongside the Chinese and broader English of the China/USA Primary pairing.
-- **b. Linguistic character** — Understated, precise, practical — a New Zealand sensibility about not overstating things that persists as a civic speech pattern regardless of a given resident's own ancestry.
+- **b. Linguistic character** — Understated, precise, practical — a civic speech pattern that took root early and persists regardless of a given resident's own ancestry.
 - **c. Slang / dialect markers** — References to "the Hut" and "St. Robert" function as immediately recognizable local shorthand, carrying real ceremonial weight rather than casual usage.
 - **d. Language and integration** — Low pressure, small-city integration — a population this size and this stable absorbs newcomers through direct personal relationship rather than any formal linguistic expectation.
 
@@ -90,7 +90,7 @@ Scott's civic identity rests on a single, thoroughly internalized fact: this cit
 
 ## 9. Architecture
 
-Compact and carefully considered, deliberately modest by comparison to Fort McMurdo's sprawl — a New Zealand design sensibility that valued a well-organized dozen structures over an ever-expanding industrial footprint. Hut Point itself, preserved rather than built around, anchors the city's whole relationship to its own history.
+Compact and carefully considered, deliberately modest by comparison to Fort McMurdo's sprawl — a founding-era design sensibility that valued a well-organized dozen structures over an ever-expanding industrial footprint. Hut Point itself, preserved rather than built around, anchors the city's whole relationship to its own history.
 
 **Developer vision, established 2026-07-05 — a residential city, mostly:** in raw physical footprint, Scott is overwhelmingly residential — housing dominates the built environment, with the rest given over mainly to casual, leisurely business (restaurants, general leisure) and a modest handful of public gathering buildings. Walking through it, not much is visibly *happening* — no industrial hum, no constant traffic of decisions and dispatch the way Fort McMurdo has. This is not a contradiction of Scott's technical/research economic base (see Division of Industry below) so much as a distinction between where the work happens and what the city actually feels like to live in: the research and precision work is real, but it's contained, and the visible, lived texture of Scott is a genuinely decent, quiet place to raise a family.
 
@@ -98,7 +98,7 @@ Compact and carefully considered, deliberately modest by comparison to Fort McMu
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Practical, New Zealand-inflected, shaped by a stable rather than transient population — home-style cooking more than canteen culture, a marker of Scott's smaller, more settled community.
+- **a. Human cuisine** — Practical, shaped by a stable rather than transient population — home-style cooking more than canteen culture, a marker of Scott's smaller, more settled community.
 - **b. Social context of eating** — Genuinely communal in the way a small, long-term-resident population's meals tend to be — closer to shared family cooking than Fort McMurdo's shift-refueling canteens.
 - **c. Robot cuisine / siligel culture** — Modest and practical, without the industrial scale of Fort McMurdo's production, matching the city's overall precision-over-volume character.
 
@@ -106,7 +106,7 @@ Compact and carefully considered, deliberately modest by comparison to Fort McMu
 
 ## 11. Fashion
 
-Practical, understated, New Zealand-inflected outdoor competence — clothing that reflects "comfortable with the outdoors" as a genuine cultural value rather than pure necessity, distinct from Fort McMurdo's purely functional workwear.
+Practical, understated outdoor competence — clothing that reflects "comfortable with the outdoors" as a genuine cultural value rather than pure necessity, distinct from Fort McMurdo's purely functional workwear.
 
 ---
 
@@ -140,7 +140,7 @@ Small, close-knit musical culture reflecting a stable long-term population — l
 ## 15. Division of Industry
 
 - Technical / scientific: 30% — precision and research-oriented work, distinct from Fort McMurdo's extraction focus
-- Commercial: 20% — port and shipping logistics (New Zealand freighter trade, fittingly)
+- Commercial: 20% — port and shipping logistics (New Zealand freighter trade, per the established Ross Sea supply route)
 - Education: 15% — historical/commemorative knowledge-keeping tied to St. Robert
 - Industrial / manufacturing: 15% — **confirmed 2026-07-07:** Scott's one genuine industry beyond its residential/political character is collecting volcanic material fallen from Mount Erebus and delivering it to a trucking facility across McMurdo Sound, forwarded onward down the coastal highway into the Janbogo subnet for further processing — a small, contained operation, consistent with the city's own quiet civic identity
 - Marine / resource extraction: 12%

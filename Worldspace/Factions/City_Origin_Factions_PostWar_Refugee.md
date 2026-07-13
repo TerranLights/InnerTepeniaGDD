@@ -116,7 +116,7 @@ That function is gone.
 
 The McMurdo refugee community carries a specific loss that is not the loss of a city but the loss of a role. The city still exists in memory. What doesn't exist anymore is the position it held — the logistical center, the place everything ran through. Other cities have absorbed those functions. The McMurdo community's expertise and institutional knowledge are real and valuable, but they are no longer uniquely necessary in the way they once were.
 
-This produces a community organized around a kind of quiet professional grief alongside the geographic displacement grief. McMurdo people tend to find each other through work — through shared expertise in logistics, supply chain, Antarctic operational history — and the community is therefore more work-organized than most refugee communities, which tend to organize around neighborhood or national character.
+This produces a community organized around a kind of quiet professional grief alongside the geographic displacement grief. McMurdo people tend to find each other through work — through shared expertise in logistics, supply chain, Antarctic operational history — and the community is therefore more work-organized than most refugee communities, which tend to organize around neighborhood or city of origin.
 
 The internal tension is between:
 

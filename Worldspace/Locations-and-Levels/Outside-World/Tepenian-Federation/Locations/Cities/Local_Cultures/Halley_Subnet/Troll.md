@@ -7,7 +7,7 @@
 **Census II Population:** 323,650 humans / 348,182 robots / 671,832 combined (rank 18th of ~32, *corrected 2026-07-03*)
 **Location:** Jutulsessen nunatak, Queen Maud Land (~72°01'S, 2°32'E)
 
-**One-liner:** *The only runway in the Halley subnet built for the outside world — Norwegian pride in excelling at the cold, now defined less by heritage than by who currently controls the one route in and out.*
+**One-liner:** *The only runway in the Halley subnet built for the outside world — a hard-won pride in excelling at the cold, now defined less by that history than by who currently controls the one route in and out.*
 
 ---
 
@@ -23,15 +23,15 @@
 | Significant | Germany, France, UK, Russia, Brazil |
 | Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway *(founding operator heritage)*, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*A standard two-layer founding tension for this subnet — Norway founded Troll and set its whole territorial and cultural character (Queen Maud Land's 1939 Norwegian claim, the Amundsen/St. Roald heritage), and by Census II sits at Notable tier, the lowest ranking, beneath an eventual American demographic Primary. But Troll's actual defining civic fact today has less to do with this demographic layering than with a structural one: the airfield. Whoever controls it, regardless of ancestry, holds the only real leverage in the city.*
+*A standard two-layer founding tension for this subnet — Norway founded Troll and left it its territorial history (Queen Maud Land's 1939 Norwegian claim, the site's connection to Amundsen/St. Roald's expeditions), and by Census II sits at Notable tier, the lowest ranking, beneath an eventual American demographic Primary. But Troll's actual defining civic fact today has less to do with this demographic layering than with a structural one: the airfield. Whoever controls it, regardless of ancestry, holds the only real leverage in the city.*
 
 ---
 
 ## 2. Founding Story
 
-Norwegian exiles settled Troll on the Jutulsessen nunataks, inheriting both the Norwegian Polar Institute's research station and a much older claim: Norway had asserted sovereignty over Queen Maud Land — Dronning Maud Land — in 1939, and that territorial history came with the founding community into the exile era. So did the deeper Norwegian relationship to Antarctica itself: Amundsen's legacy, the national tradition of polar excellence, the specific pride of being the nation that reached the Pole first and made a virtue of a landscape most nations only endured.
+Norwegian exiles settled Troll on the Jutulsessen nunataks, inheriting both the Norwegian Polar Institute's research station and a much older claim: Norway had asserted sovereignty over Queen Maud Land — Dronning Maud Land — in 1939, and that territorial history came with the founding community into the exile era. So did the site's own deeper connection to Antarctic exploration: Amundsen's expeditions passed through this landscape, and the founding community carried forward a hard-earned pride in making a virtue of conditions most expeditions only endured.
 
-What made Troll consequential beyond its Norwegian founding character, though, was the airfield. Troll Airfield's real-world runway — roughly 3,000 meters, capable of receiving intercontinental aircraft — was an extraordinary capability for an inland Antarctic site, and the exile city inherited it wholesale. No other Halley subnet city, not even coastal Belgrano with its own shorter runway, could match that reach. Troll became, structurally, the subnet's one real window to anywhere outside itself.
+What made Troll consequential beyond its founding history, though, was the airfield. Troll Airfield's real-world runway — roughly 3,000 meters, capable of receiving intercontinental aircraft — was an extraordinary capability for an inland Antarctic site, and the exile city inherited it wholesale. No other Halley subnet city, not even coastal Belgrano with its own shorter runway, could match that reach. Troll became, structurally, the subnet's one real window to anywhere outside itself.
 
 ---
 
@@ -55,16 +55,16 @@ Troll's polar night (~93 days) and midnight sun (~96 days) run longer and more e
 
 **Name/concept:** *Whoever Holds the Runway*
 
-Troll inherited a genuine, still-living Norwegian pride in excelling at cold rather than merely enduring it — but the city's actual present-day civic identity has shifted to center on something more structural and more urgent: the fact that its airfield is the only intercontinental-capable runway in the entire subnet, functional after the war, and contested. What Troll is *known for* nationally (Norwegian heritage, the mountains, St. Roald) and what Troll actually *is* right now (a strategic chokepoint under dispute) have come apart from each other.
+Troll inherited a genuine, still-living pride in excelling at cold rather than merely enduring it — earned the hard way, given winters colder than any coastal Halley subnet city — but the city's actual present-day civic identity has shifted to center on something more structural and more urgent: the fact that its airfield is the only intercontinental-capable runway in the entire subnet, functional after the war, and contested. What Troll is *known for* nationally (its founding heritage, the mountains, St. Roald) and what Troll actually *is* right now (a strategic chokepoint under dispute) have come apart from each other.
 
-- **a. Founding tension** — Norway founded the city and its whole cultural template, and sits at the lowest possible census tier (Notable) by the present day — the standard shape for this subnet. What's unusual is that the demographic tension has been largely eclipsed in daily relevance by the airfield-control tension, which cuts across national lines entirely.
-- **b. Fault lines** — Whoever currently holds practical control of Troll Airfield has real leverage over the whole subnet's connection to the outside world — and that control is disputed, not settled. This isn't a national or ethnic fault line; it's a factional one, layered on top of a city whose civic self-image still runs through a Norwegian heritage that has less and less to do with who's actually calling the shots.
+- **a. Founding tension** — Norway founded the city, and sits at the lowest possible census tier (Notable) by the present day — the standard shape for this subnet. What's unusual is that the demographic tension has been largely eclipsed in daily relevance by the airfield-control tension, which cuts across national lines entirely.
+- **b. Fault lines** — Whoever currently holds practical control of Troll Airfield has real leverage over the whole subnet's connection to the outside world — and that control is disputed, not settled. This isn't a national or ethnic fault line; it's a factional one, layered on top of a city whose civic self-image still runs through a founding-era history that has less and less to do with who's actually calling the shots.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
-- **a.** Competence in the cold is a point of genuine pride, inherited directly from the founding Norwegian character — this is a city that boasts about winter rather than complaining about it.
+- **a.** Competence in the cold is a point of genuine pride, earned directly from the city's own brutal climate — this is a city that boasts about winter rather than complaining about it.
 - **b. Hospitality character** — Wary and transactional where the airfield is concerned, warmer everywhere else — Troll has learned to be careful about who it lets control access to the one thing everyone needs from it.
 - **c.** Set by flight windows more than by daylight — the airfield's operational schedule is the real civic clock.
 - **d. Public/private divide** — Airfield control and access terms are the single most publicly, anxiously discussed civic topic; Norwegian heritage and personal background are comparatively private, background matters.
@@ -96,7 +96,7 @@ Built into and around the Jutulsessen nunatak rock formations, with the airfield
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Norwegian-inflected practical cold-weather cooking, shaped by the same "excel at it, don't just endure it" ethic that defines the city's whole relationship to its climate.
+- **a. Human cuisine** — Practical cold-weather cooking, developed by the city's own residents out of its own extreme conditions rather than imported wholesale from anywhere, shaped by the same "excel at it, don't just endure it" ethic that defines the city's whole relationship to its climate.
 - **b. Social context of eating** — Communal around flight-crew and logistics schedules — meals cluster around the airfield's operational rhythm as much as any daily pattern.
 - **c. Robot cuisine / siligel culture** — Practical, logistics-oriented, tuned to supporting whatever traffic the airfield brings through.
 
@@ -104,20 +104,20 @@ Built into and around the Jutulsessen nunatak rock formations, with the airfield
 
 ## 11. Fashion
 
-Cold-weather competence as genuine style, not just necessity — Troll residents take real pride in gear that's not just functional but visibly, confidently suited to extreme conditions, an aesthetic extension of the Norwegian "excel at the cold" identity.
+Cold-weather competence as genuine style, not just necessity — Troll residents take real pride in gear that's not just functional but visibly, confidently suited to extreme conditions, an aesthetic extension of the city's own hard-earned "excel at the cold" identity.
 
 ---
 
 ## 12. Music
 
-Norwegian folk tradition persists in private and small-gathering contexts, alongside whatever music travels through via the airfield itself — Troll has more exposure to outside musical influence than most Tepenian cities, simply by virtue of being the place things arrive from elsewhere.
+Older folk traditions persist in private and small-gathering contexts — an echo of the founding community's own roots, not a defining civic practice — alongside whatever music travels through via the airfield itself. Troll has more exposure to outside musical influence than most Tepenian cities, simply by virtue of being the place things arrive from elsewhere.
 
 ---
 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** A strong tradition of landscape art centered on the Jutulsessen mountain backdrop — one of the most dramatic settings in the subnet, and residents know it.
-- **Literature:** Aviation and logistics writing carries real weight, alongside the Norwegian polar-heritage literary tradition tied to Amundsen and St. Roald.
+- **Literature:** Aviation and logistics writing carries real weight, alongside a literary tradition tied to the site's own polar-exploration history — Amundsen and St. Roald.
 - **Crafts & material culture:** Practical cold-weather gear-making treated as genuine craft, consistent with the city's whole competence-pride ethic.
 
 ---
@@ -138,7 +138,7 @@ Norwegian folk tradition persists in private and small-gathering contexts, along
 ## 15. Division of Industry
 
 - Commercial / logistics: 30% — airfield operations and control, the city's defining function; *(established 2026-07-04)* a genuine intermodal freight hub, not just aviation access — receiving trucked-in imports from Sanay/Belgrano (originally from Africa) and flying them onward across Tepenia, making Troll a working-class city with above-average national spending power
-- Technical / scientific: 20% — Norwegian Polar Institute-descended research tradition
+- Technical / scientific: 20% — research tradition descended from the founding-era Polar Institute station
 - Marine / resource extraction: 15%
 - Industrial / manufacturing: 15%
 - Education: 12%
@@ -160,7 +160,7 @@ Robot culture at Troll is heavily oriented around aviation and logistics experti
 
 ## 18. Religious / Philosophical Landscape
 
-- St. Roald (Amundsen) veneration carries specific weight at Troll given Norway's Queen Maud Land claim and the Polar Institute heritage — though whether this civic reverence has kept pace with the airfield-control tension dominating daily life is an open question.
+- St. Roald (Amundsen) veneration carries specific weight at Troll, rooted in the site's own founding-era connection to his expeditions and the Polar Institute station that followed — though whether this civic reverence has kept pace with the airfield-control tension dominating daily life is an open question.
 - A shared, largely secular ethic of competence-as-pride — cold-weather excellence, aviation reliability — functions as the city's closest thing to a unifying value system.
 
 ---
@@ -189,7 +189,7 @@ Tense and consequential in a way most Halley subnet cities aren't — because Tr
 
 ## 22. Relationship to Upper Earth
 
-Filtered through the same pride-in-competence lens as everything else at Troll — the Norwegian heritage's relationship to Upper Earth runs through the specific, complicated legacy of Amundsen and national polar excellence, a lens that reads differently here than the raw grief or anger other cities carry.
+Filtered through the same pride-in-competence lens as everything else at Troll — Troll's relationship to Upper Earth runs through the specific, complicated legacy of Amundsen's own expeditions and the site's history of excelling at conditions Upper Earth expeditions often merely endured, a lens that reads differently here than the raw grief or anger other cities carry.
 
 ---
 
@@ -210,14 +210,14 @@ Heavily practical, oriented around flight scheduling, logistics coordination, an
 ## 25. Export Culture
 
 - Aviation and logistics expertise — Troll-trained flight and ground operations specialists are recognized across the subnet
-- Cold-weather competence culture — the specific Norwegian-inherited pride in excelling at extreme conditions rather than merely surviving them
+- Cold-weather competence culture — the specific, hard-earned pride in excelling at extreme conditions rather than merely surviving them
 - A specific *type of person* — practical, watchful, comfortable with genuine strategic stakes, recognizable by an instinct to ask "who controls this" before anything else
 
 ---
 
 ## 26. Municipal Holidays
 
-- **St. Roald's Landing** *(placeholder name)* — a civic observance tied to the Norwegian Amundsen/St. Roald heritage
+- **St. Roald's Landing** *(placeholder name)* — a civic observance honoring Amundsen/St. Roald's historic polar expeditions
 - **Runway Day** *(placeholder name)* — an informal, contested observance whose exact meaning depends heavily on who currently holds the airfield
 
 ---
@@ -264,4 +264,4 @@ Becoming a local at Troll means understanding — and eventually taking some pos
 
 ## 32. Diaspora Character in Concordia
 
-Troll refugees in Concordia are recognizable by a specific practical wariness around control and access — people shaped by a city where the one thing everyone needs is contested, not guaranteed. They carry the Norwegian cold-weather-competence pride too, but tempered by a harder-edged instinct for reading who actually holds leverage in any given situation.
+Troll refugees in Concordia are recognizable by a specific practical wariness around control and access — people shaped by a city where the one thing everyone needs is contested, not guaranteed. They carry Troll's own hard-earned cold-weather-competence pride too, but tempered by a harder-edged instinct for reading who actually holds leverage in any given situation.

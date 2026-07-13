@@ -141,7 +141,7 @@ A genuinely coherent musical tradition developed independently by the exile comm
 
 - Maritime / fishing resources: 30% — leveraging Livingston Island's coastal access
 - Commercial / trade: 20%
-- Technical / scientific: 20% — inherited Spanish Antarctic program tradition
+- Technical / scientific: 20% — continuity from the original Antarctic program's own research infrastructure, carried forward and developed by the exile community itself rather than an imported scientific culture
 - Cultural / social institutions: 15% — the tertulia tradition as genuine civic infrastructure
 - Other: 15%
 
@@ -192,7 +192,7 @@ Modest and inward-facing at the level of ordinary civic life, consistent with th
 
 ## 22. Relationship to Upper Earth
 
-Filtered through Spain's own political history — specifically the transition from dictatorship to democracy that the city's very name commemorates — giving Juan Carlos's relationship to Upper Earth a genuinely reflective, historically-aware quality distinct from most Tepenian cities' more straightforward exile narratives.
+Filtered through the city's own particular civic temperament — a community that built its coherent, independently-developed identity out of comparative quiet and deliberate reflection, the same ethos underlying the tertulia's insistence that argument itself, pursued well, is worth doing — giving Juan Carlos's relationship to Upper Earth a genuinely reflective, historically-aware quality distinct from most Tepenian cities' more straightforward exile narratives. The city's name, honoring King Juan Carlos I's own presiding over Spain's transition to democracy, resonates with that quality as coincidence rather than supplying it.
 
 ---
 

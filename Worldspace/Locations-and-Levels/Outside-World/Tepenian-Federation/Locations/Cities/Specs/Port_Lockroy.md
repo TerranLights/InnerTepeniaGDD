@@ -81,7 +81,7 @@ In the pre-exile era, Port Lockroy was maintained as a heritage museum — possi
 
 **Settled:** The original 1944 installation was the seed. Unlike other Tepenian cities that built on pre-exile research stations, Port Lockroy built on a wartime intelligence post — then a heritage museum — then a living city. The founding progression is unique: military → memorial → community.
 
-The original founding principle of Operation Tabarin — that Britain should have a physical presence in Antarctica to support its territorial claim — persisted through exile. Port Lockroy became the proof of concept that the British Antarctic presence was not new, was not temporary, and was not going to stop.
+The original founding principle of Operation Tabarin — that Britain should have a physical presence in Antarctica to support its territorial claim — is a fact of the site's 1944 origin, not a mission the exile city carried forward. What persisted through exile instead was the site's own layered-history instinct: Port Lockroy became proof of concept that a place could keep every era of its own past physically present rather than starting fresh, the same palimpsest character that came to define it long after any wartime purpose had become just one more layer among many.
 
 **Founding population:** British exiles, with a specific institutional connection to both the wartime history and the BAS heritage program. The British exile community in the Palmer subnet spans Port Lockroy, Rothera, and Signy — all BAS-origin or BAS-managed sites.
 
@@ -95,7 +95,7 @@ The heritage character — museum-city — meant Port Lockroy developed a specif
 
 The harbor's natural shelter made Port Lockroy one of the more hospitable environments for small-craft maritime activity in the Peninsula, which gave it an economic niche in trade and passage.
 
-**Nationally known for:** Being old — the oldest British site in Tepenia. The harbor. The wartime founding. The heritage character.
+**Nationally known for:** Being old — the oldest continuously-occupied site in Tepenia. The harbor. The wartime founding. The heritage character.
 
 ---
 
@@ -123,7 +123,7 @@ Palmer subnet. Port Lockroy's history extends the British Antarctic presence bac
 ---
 
 ## Legacy
-Port Lockroy's legacy is the continuous thread — from 1944 wartime intelligence to exile city to Long Night War survivor. No other Tepenian city has that kind of documented depth of occupation by the same national tradition. It is, in some sense, the oldest British thing in Tepenia.
+Port Lockroy's legacy is the continuous thread — from 1944 wartime intelligence to exile city to Long Night War survivor. No other Tepenian city has that kind of documented, unbroken occupation record stretching back to its own founding moment. It is, in some sense, the oldest continuously-inhabited thing in Tepenia — a distinction of age and continuity, not of any one nation's ongoing claim on it.
 
 ---
 

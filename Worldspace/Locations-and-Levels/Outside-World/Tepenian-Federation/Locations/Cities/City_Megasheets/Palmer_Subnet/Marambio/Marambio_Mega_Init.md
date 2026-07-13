@@ -24,7 +24,7 @@
 
 ## Who Lives Here, and Why
 
-USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the actual founding-operator nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet, even as the Argentine Air Force's institutional character (discipline, operational rigor) persisted culturally regardless of who was actually staffing the base by Census II.
+USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the actual founding-operator nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet, even as the base's own founding-era military-aviation institutional character (discipline, operational rigor — the working culture of an airfield that has to run on schedule) persisted regardless of who was actually staffing it by Census II.
 
 ---
 

@@ -115,7 +115,7 @@ Named for both stations: "Abowasa" combines Aboa (Latin for Turku, Finland's old
 
 ## Character & Culture
 
-Abowasa had the character of a small city that worked because it had to. The joint Finnish-Swedish community was small enough that the two national identities couldn't avoid each other, which produced either community resilience or community friction — probably both, at different times and in different ways. The Scandinavian cultural commonality (shared northern heritage, overlapping languages, similar cold-weather orientation) helped; the national distinctions (Finnish identity, Swedish identity, different historical relationships between the two countries) persisted.
+Abowasa had the character of a small city that worked because it had to. The joint Finnish-Swedish community was small enough that the two founding populations couldn't avoid each other, which produced either community resilience or community friction — probably both, at different times and in different ways. The sheer physical closeness the two communities inherited (~200m apart from the start) forced early cooperation; the fact that they'd begun as two separate, distinct settlements rather than one meant old habits of separateness persisted alongside it.
 
 The city's small size meant everyone knew everyone. The cultural negotiation that Sejong had to do at the city-wide level, Abowasa did at the level of individual households and neighborhoods.
 

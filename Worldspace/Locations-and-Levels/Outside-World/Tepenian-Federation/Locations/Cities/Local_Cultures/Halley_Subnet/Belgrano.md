@@ -7,7 +7,7 @@
 **Census II Population:** 429,820 humans / 407,948 robots / 837,768 combined *(pre-decline figure — see Section 2)*
 **Location:** Confín Coast, Coats Land, southern Weddell Sea (~77°52'S, 34°37'W)
 
-**One-liner:** *A hard, disciplined, purposeful aviation hub — Argentine Air Force exiles running the Halley subnet's frontier, founding character intact 130 years on regardless of who's actually living there now.*
+**One-liner:** *A hard, disciplined, purposeful aviation hub — Air Force exiles running the Halley subnet's frontier, its operational discipline intact 130 years on regardless of who's actually living there now.*
 
 *(Corrected 2026-07-04: this section previously blended the city's living second interwar-era identity with its post-war "Decline" into one two-layer culture — the only Tepenian city whose Local_Cultures file did this, breaking from the standard methodology every other city follows of keeping living pre-war culture here and destruction/decline facts in Specs/the post-war layer. The Decline content has been moved to `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`, where it now has its own dedicated faction entry. This file is restored to describing Belgrano's actual living, functioning second interwar culture only.)*
 
@@ -25,13 +25,13 @@
 | Significant | Germany, UK, Brazil |
 | Notable | Poland, Argentina *(founding wave)*, Czech Republic, Hungary, South Africa, Slovakia, Chile, Croatia, Serbia, Slovenia, Uruguay |
 
-*Belgrano is Tepenia's most extreme case of founding identity outlasting demographic weight. Argentina set the entire founding character — shortest Weddell Sea approach of any nation, the Air Force institutional culture, the name itself — and still ended up Notable tier, the lowest rung, behind the USA, Germany, UK, and Brazil. Unlike Janbogo (where Korea at least held Significant tier), Belgrano's founding nation was essentially demographically erased over 130 years, while its founding culture — military, functional, purposeful, frontier — persisted as the city's operating character almost in spite of the numbers.*
+*Belgrano is Tepenia's most extreme case of founding-era institutional culture outlasting the demographic weight of the population that built it. The Air Force base's operators set the entire founding character — shortest Weddell Sea approach of any nation, the Air Force institutional culture, the name itself — and the founding Argentine population still ended up Notable tier, the lowest rung, behind the USA, Germany, UK, and Brazil. Unlike Janbogo (where Korea at least held Significant tier), Belgrano's founding population was essentially demographically erased over 130 years, while the base's own operational culture — military, functional, purposeful, frontier — persisted as the city's operating character almost in spite of the numbers.*
 
 ---
 
 ## 2. Founding Story
 
-Belgrano II Base was Argentina's southernmost Antarctic installation, operated by the Argentine Air Force since 1979 for its runway — flat coastal ice on the deep Weddell Sea coast, the shortest approach from Buenos Aires of any viable Antarctic position. When the exile era began, that runway became the seed of the Halley subnet's primary aviation hub, and the Argentine Air Force's institutional culture — disciplined, functional, oriented around purpose rather than comfort — became the city's founding template.
+Belgrano II Base was Argentina's southernmost Antarctic installation, operated by the Argentine Air Force since 1979 for its runway — flat coastal ice on the deep Weddell Sea coast, the shortest approach from Buenos Aires of any viable Antarctic position. When the exile era began, that runway became the seed of the Halley subnet's primary aviation hub, and the base's own Air Force institutional culture — disciplined, functional, oriented around purpose rather than comfort — became the city's founding template.
 
 Named for Manuel Belgrano, the Argentine independence general and creator of the Argentine flag — a deliberate choice of national history over Antarctic history, distinguishing Belgrano from cities named after explorers or station namesakes. The founders wanted their new home to remember where they came from, not just where they'd landed.
 
@@ -107,13 +107,13 @@ Belgrano's civic character, across its whole 130-year second interwar history, i
 
 ## 9. Architecture
 
-Belgrano's built environment is aviation-industrial at its core — hangars, runway support structures, functional barracks-style housing, none of it built for beauty. What aesthetic sensibility exists is entirely Argentine military-institutional: proportion and order over ornament, a building judged by whether its lines make operational sense. The airfield itself is the dominant visual landmark of the entire settlement — active, maintained, and the reason the city exists at all.
+Belgrano's built environment is aviation-industrial at its core — hangars, runway support structures, functional barracks-style housing, none of it built for beauty. What aesthetic sensibility exists is entirely military-institutional: proportion and order over ornament, a building judged by whether its lines make operational sense. The airfield itself is the dominant visual landmark of the entire settlement — active, maintained, and the reason the city exists at all.
 
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** Argentine foodways (asado-style communal grilling traditions, *mate* — the traditional South American herbal drink, unrelated to the English word "mate"/companion) persist as the strongest single culinary throughline, disproportionate to Argentina's small demographic tier — food memory outlasted population the same way the civic culture did. German and Brazilian influences layer in around this Argentine core.
+- **a. Human cuisine:** A communal grilling tradition and a shared herbal-drink ritual (*mate* — unrelated to the English word "mate"/companion) persist as the strongest single culinary throughline, grown out of messhall-style shared meals and shift-schedule life at a working airbase rather than out of any single population's cookbook — food habit outlasted the founding population's numbers the same way the civic culture did, its resemblance to real-world Argentine asado and mate traditions more coincidence of shared circumstance than direct inheritance. German and Brazilian influences layer in around this shared core.
 - **b. Social context of eating:** Meals cluster around shift schedules and mess-hall rhythms rather than any softer social calendar — but the mate-sharing ritual (the shared gourd and metal straw passed hand to hand through a group, per Argentine tradition) specifically carries real ceremony, one of the few places Belgrano allows itself something beyond pure function.
 - **c. Robot cuisine / siligel culture:** Functional and well-resourced, tied directly to the base's own logistics — siligel production runs on the same disciplined, scheduled footing as everything else in Belgrano. Practical rather than ceremonial, but reliable.
 
@@ -127,7 +127,7 @@ Function-first by heritage, not necessity: durable cold-weather gear, military-s
 
 ## 12. Music
 
-Belgrano's music is oral, communal, and largely Argentine-derived — folk traditions kept alive in small gatherings rather than any large production or performance industry, which a functional, purpose-built airbase city never much prioritized in the first place. *(Established 2026-07-04:)* Garage Rock is a genuine, dominant strand of the living local scene, heard from open windows and doors of restaurants and social venues across the city — raw, unpolished, and DIY, a natural fit for a hard-working, function-first population. It sits alongside the older Argentine folk tradition rather than replacing it.
+Belgrano's music is oral, communal, and rooted in the city's own founding-era folk tradition — kept alive in small gatherings rather than any large production or performance industry, which a functional, purpose-built airbase city never much prioritized in the first place. *(Established 2026-07-04:)* Garage Rock is a genuine, dominant strand of the living local scene, heard from open windows and doors of restaurants and social venues across the city — raw, unpolished, and DIY, a natural fit for a hard-working, function-first population. It sits alongside the older folk tradition rather than replacing it.
 
 ---
 

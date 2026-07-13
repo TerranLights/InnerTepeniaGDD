@@ -57,7 +57,7 @@ Sanay's polar night (~88 days) and midnight sun (~89 days) sit in the middle of 
 
 Sanay's civic identity rests on real structural endurance rather than the more dramatic "the city that survived intact" framing its own early records once claimed. The bedrock foundation gave it a genuine advantage against the war's damage, but it took that damage all the same — Sanay is one of several Halley subnet communities still standing after being hit, not a singular untouched exception in a subnet of ruins. That distinction — endurance instead of exemption — is the whole of its self-image.
 
-- **a. Founding tension** — South Africa founded the city and set its institutional/cultural character, and now sits at Notable tier — but unlike every other Halley subnet city, the nation that eventually became Primary here is Germany, not the USA. The demographic story Sanay tells about itself is genuinely different from its neighbors', even though the underlying shape (founding nation diluted to the bottom tier) is the same.
+- **a. Founding tension** — South Africa founded the city, and now sits at Notable tier — but unlike every other Halley subnet city, the nation that eventually became Primary here is Germany, not the USA. The demographic story Sanay tells about itself is genuinely different from its neighbors', even though the underlying shape (founding nation diluted to the bottom tier) is the same.
 - **b. Fault lines** — A quiet tension between the city's South African institutional memory (the SANAE heritage, the founding character) and its lived present (an increasingly German-inflected demographic majority whose own connection runs through Neumayer's engineering culture rather than South African Antarctic tradition).
 
 ---
@@ -96,7 +96,7 @@ Sanay's civic identity rests on real structural endurance rather than the more d
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A blend of South African founding-heritage cooking and an increasingly German-inflected everyday cuisine, reflecting the city's unusual demographic trajectory.
+- **a. Human cuisine** — Practical everyday cooking that has shifted alongside the city's unusual demographic trajectory, developed by each generation of residents out of what a busy working port actually has on hand rather than imported wholesale from anywhere; any resemblance to South African or German cooking traditions is coincidence, not inheritance.
 - **b. Social context of eating** — Practical and communal, but not scarcity-driven — a working port city with steady import traffic has real resources to draw on; shared meals happen around shift changes as much as anything else.
 - **c. Robot cuisine / siligel culture** — Practical and plentiful, scaled to a genuinely active import/export economy rather than a modest one.
 
@@ -110,7 +110,7 @@ Practical, work-oriented clothing suited to hard physical labor on the docks, in
 
 ## 12. Music
 
-A blend of South African and German musical heritage, heard in the residential, commercial, and leisure districts where workers unwind after shift — not a grand civic tradition, but a genuine, steady presence woven through a city that's actually busy and populated enough to support it.
+A working port's own homegrown music scene, heard in the residential, commercial, and leisure districts where workers unwind after shift — not a grand civic tradition, but a genuine, steady presence woven through a city that's actually busy and populated enough to support it.
 
 ---
 
@@ -143,7 +143,7 @@ A blend of South African and German musical heritage, heard in the residential, 
 - Trucking / logistics: 20% — the clifftop depots and truckyards moving goods onward via Hwy 7, including to Halley
 - Warehousing / import-export administration: 15% — the clifftop business district
 - Industrial / manufacturing: 15% — repair and structural maintenance, inherited from the war-damage-and-recovery era
-- Technical / scientific: 10% — the inherited SANAE research tradition, now a smaller slice of the city's actual economy
+- Technical / scientific: 10% — the research tradition that began with the SANAE station, now a smaller slice of the city's actual economy
 - Other (commercial, education, leisure-district service work): 10%
 
 ---

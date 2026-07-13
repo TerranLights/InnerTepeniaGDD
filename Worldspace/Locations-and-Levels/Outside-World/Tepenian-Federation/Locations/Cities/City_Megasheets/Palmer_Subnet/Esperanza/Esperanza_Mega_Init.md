@@ -70,7 +70,7 @@ An actual official Nebraska village whose entire civic charter is raising at-ris
 
 Founded 1946 to house and raise war-displaced children of any nation, each nationality given its own farmhouse and foster parents rather than being assimilated into one culture.
 
-**What this gives Esperanza:** real historical precedent for children of different nations being raised together without erasing their distinct backgrounds — echoing Esperanza's own established fact that "no single non-Argentine community carries a distinct guest-in-someone-else's-culture feeling."
+**What this gives Esperanza:** real historical precedent for children of different nations being raised together without erasing their distinct backgrounds — echoing Esperanza's own established fact that "no community carries a distinct guest-in-someone-else's-culture feeling, because the culture was built, on paper and in practice, to belong to all of them at once."
 
 ### Secondary: Sardinia's Blue Zone, Italy
 

@@ -102,7 +102,7 @@ Functional industrial throughout — volcanic basalt where local stone was usabl
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Hearty and calorie-dense, built for physically demanding shift work: a fusion of American diner staples and Chinese labor-crew cooking traditions, served canteen-style rather than as home-cooked ritual.
+- **a. Human cuisine** — Hearty and calorie-dense, developed independently out of physically demanding shift work and served canteen-style rather than as home-cooked ritual. *(It happens to echo American diner staples and Chinese labor-crew cooking alike — a coincidence of convergent development given the city's co-Primary population, not an inheritance from either.)*
 - **b. Social context of eating** — Meals are refueling first, but the canteens between shifts are where cross-crew socializing actually happens — the closest thing Fort McMurdo has to a communal gathering space.
 - **c. Robot cuisine / siligel culture** — Industrial-grade, high-volume siligel production is itself one of the city's exports — practical and reliable rather than artisanal, matching the city's whole relationship to craft.
 

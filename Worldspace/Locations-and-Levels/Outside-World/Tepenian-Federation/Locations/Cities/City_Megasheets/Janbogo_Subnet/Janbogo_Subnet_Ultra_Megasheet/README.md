@@ -41,7 +41,7 @@ Unlike Halley subnet's own damage-*mechanism* taxonomy (passive age-favoring, ac
 
 ## Pattern 2: Founding-nation civic template persisting beneath total demographic dilution — tested, not just asserted
 
-Dumont d'Urville's own Cross-Reference Finding 1 explicitly proposed a testable distinction — *functional daily transmission* (a founding culture surviving because ordinary civic life is still conducted in it, Quebec City's real 400-year precedent) versus *ceremonial-only preservation* (a founding culture surviving only in names, holidays, and architecture, vulnerable to further dilution) — and named Fort McMurdo, Janbogo, and Zukelli as the subnet's other candidates worth checking. Running that check now, across all four:
+Dumont d'Urville's own Cross-Reference Finding 1 explicitly proposed a testable distinction — *functional daily transmission* (a founding culture surviving because ordinary civic life is still conducted in it, Singapore's real precedent) versus *ceremonial-only preservation* (a founding culture surviving only in names, holidays, and architecture, vulnerable to further dilution) — and named Fort McMurdo, Janbogo, and Zukelli as the subnet's other candidates worth checking. Running that check now, across all four:
 
 - **Dumont d'Urville (French):** functional. French is "picked up simply through years of civic life conducted in it," regardless of ancestry — the strongest, most literally proven case in the subnet.
 - **Janbogo (Korean):** functional-leaning. Janbogo's own established "absorption culture" — a civic identity that folds new arrivals into its existing template rather than being displaced by them — describes the same underlying mechanism as Dumont d'Urville's French transmission, just under a different name.
@@ -189,9 +189,9 @@ The real Ross Sea sector concentrates an unusually dense, historically significa
 
 Applies now at subnet scale — Scott's own precise real-world grounding for its relationship to Fort McMurdo is the clearest example within the subnet, but per this Ultra-Megasheet's own Pattern 3, the same underlying shape recurs a second time between Cape Adare and Janbogo, suggesting it's a genuine structural feature of how this subnet organizes its city-pairs, not a coincidence specific to one relationship.
 
-### Secondary: Quebec City — minority founding culture surviving as functional daily practice (already researched for Dumont d'Urville specifically)
+### Secondary: Singapore — founding institutional language surviving as functional daily practice (already researched for Dumont d'Urville specifically)
 
-Applies at subnet scale via Pattern 2 — the same durable, functional-transmission mechanism that explains Dumont d'Urville's French persistence also explains Janbogo's own Korean-founded absorption culture, giving the subnet two, not one, real-world-grounded examples of a founding culture surviving through lived practice rather than ceremony.
+Applies at subnet scale via Pattern 2 — the same durable, functional-transmission mechanism that explains Dumont d'Urville's founding-language persistence also explains Janbogo's own founding-institution absorption culture, giving the subnet two, not one, real-world-grounded examples of a founding culture surviving through lived practice rather than ceremony.
 
 ### Supporting: The Berlin Airlift and contested-chokepoint precedents (already researched for Troll, Halley subnet)
 

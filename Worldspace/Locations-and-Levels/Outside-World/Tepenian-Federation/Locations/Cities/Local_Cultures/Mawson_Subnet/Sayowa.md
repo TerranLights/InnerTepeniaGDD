@@ -55,7 +55,7 @@ Polar night (~46 days) and midnight sun (~47 days) at this East Antarctic latitu
 
 **Name/concept:** *The Point Where Three Roads Meet*
 
-Sayowa's civic identity rests on a genuine duality: a small, deeply Japanese community carrying an unusually weighty historical name, occupying a position that turned out to be the single most geographically significant junction point in all of Tepenia — where the Mawson subnet, the inland route to Concordia, and the Halley subnet all physically converge.
+Sayowa's civic identity rests on a genuine duality: a small, genuinely diverse community carrying an unusually weighty historical name, occupying a position that turned out to be the single most geographically significant junction point in all of Tepenia — where the Mawson subnet, the inland route to Concordia, and the Halley subnet all physically converge.
 
 - **a. Founding tension** — Japan founded the city and gave it its historically-weighted name, later diluted to Significant tier by the same China-Primary demographic pattern seen across the whole subnet — a standard tension, secondary to the city's structural significance as critical connective infrastructure.
 - **b. Fault lines** — Between Sayowa's small, intimate population (rank 32nd of ~35, one of the smallest Mawson subnet cities) and its outsized structural importance to the whole continent's connectivity — a gap between size and significance no other Mawson subnet city has to reconcile.
@@ -66,7 +66,7 @@ Sayowa's civic identity rests on a genuine duality: a small, deeply Japanese com
 
 - **a.** Junction responsibility is a genuine civic value — Sayowa's small population carries disproportionate weight simply because of where it sits.
 - **b. Hospitality character** — Practiced hospitality toward travelers and transit traffic, given the city's genuine role as a crossing point between subnets.
-- **c.** Paced by JARE's methodical, patient scientific tradition — thorough, unhurried, institutionally competent.
+- **c.** Paced by the station's own uninterrupted research history — nearly seven decades of continuous operation left the city with a working rhythm that's thorough, unhurried, institutionally competent.
 - **d. Public/private divide** — The Hwy 37/Hwy 7-ext junction and its maintenance are entirely public civic business; Japanese cultural and historical life (particularly the Shōwa-era name's specific meaning) is a more private, generational matter.
 - **e. Privacy as civic value** — Genuine, given the small population — Sayowa's intimacy comes from simply being one of the Mawson subnet's smallest cities, even while carrying continental-scale responsibility.
 
@@ -98,7 +98,7 @@ Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely 
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — **Corrected 2026-07-06:** a genuine Japanese thread persists institutionally (JARE heritage), but demographically the food culture is China-Primary now, not concentratedly Japanese as this file previously claimed — Shirayuki carries that distinction instead.
+- **a. Human cuisine** — **Corrected 2026-07-06:** a genuinely diverse table, developed by Sayowa's own small, mixed population and shaped by its junction/industrial character rather than concentrated around any one nation's tradition — the "primarily Japanese" framing this file previously used was inaccurate; that distinction belongs to Shirayuki instead.
 - **b. Social context of eating** — Practical, shaped by both the JARE scientific tradition's methodical character and the city's genuine transit-point function.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to one of the Mawson subnet's smallest populations.
 
@@ -106,27 +106,27 @@ Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely 
 
 ## 11. Fashion
 
-Practical, JARE-inflected cold-weather wear with a genuine Japanese aesthetic thread, though **corrected 2026-07-06:** not because of a concentrated Japanese demographic majority (that's Shirayuki's distinction) — Sayowa's fashion sensibility runs on institutional/aesthetic inheritance rather than population share.
+Practical cold-weather wear, shaped by the city's genuine junction/industrial function and its own small, mixed population rather than by any single nation's aesthetic — **corrected 2026-07-06:** the earlier "concentrated Japanese aesthetic" framing here was inaccurate; that distinction belongs to Shirayuki, whose actual demographic majority supports it.
 
 ---
 
 ## 12. Music
 
-Modest, with a genuinely Japanese institutional thread — **corrected 2026-07-06:** no longer framed as Tepenia's primary Japanese cultural presence (that's Shirayuki now), but a real, specific inheritance distinct from Mawson's own broader multinational blend all the same.
+Modest, and genuinely its own — **corrected 2026-07-06:** no longer framed as Tepenia's primary Japanese cultural presence (that's Shirayuki now); Sayowa's musical culture is a small-city, junction-town blend distinct from Mawson's own broader hospitality-driven mix, shaped by scale and function rather than by any one population's inheritance.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Reflecting JARE's own methodical, patient scientific documentation tradition.
+- **Visual arts:** Reflecting the station's own long, methodical scientific documentation history — decades of careful record-keeping leaving a visible mark on how the city documents itself.
 - **Literature:** The Shōwa-era name itself functions as foundational literary/historical material — a name that carries an entire imperial era's transformation, war, and reconstruction into a small Antarctic exile city.
-- **Crafts & material culture:** Practical, methodical, shaped by the JARE tradition's emphasis on thorough, patient work.
+- **Crafts & material culture:** Practical, methodical, shaped by the same decades of thorough, patient institutional work that defines the station's own research history.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** Genuine junction-traffic sounds layered under a small, quiet Japanese community's daily life.
+- **Sound:** Genuine junction-traffic sounds layered under a small, quiet, genuinely mixed community's daily life.
 - **Smell:** Cold, dry, East Antarctic coastal air, sea-ice influenced.
 - **Feel:** A specific tension between smallness and significance — Sayowa feels like a modest city that happens to matter enormously to the wider continent's connectivity.
 - **First impressions for visitors:** The East Ongul Island terrain and Lützow-Holm Bay first, then quickly the genuine, disproportionate importance of the highway junction the small city sits atop.
@@ -164,7 +164,7 @@ Robot culture at Sayowa likely centers on junction-maintenance and logistics-coo
 
 ## 18. Religious / Philosophical Landscape
 
-- No dominant formal religion; the closest shared value is the JARE tradition's own methodical patience, extended into the equally patient, ongoing work of maintaining critical junction infrastructure.
+- No dominant formal religion; the closest shared value is the same methodical patience the station's own long research history instilled, extended into the equally patient, ongoing work of maintaining critical junction infrastructure.
 - A quiet awareness of disproportionate responsibility — Sayowa's residents understand that their small city matters more to the wider world than its population would suggest.
 
 ---
@@ -193,7 +193,7 @@ Disproportionately significant given its small population — Sayowa's genuine s
 
 ## 22. Relationship to Upper Earth
 
-Filtered through JARE's own decades-long institutional research history, layered against the same China-Primary demographic current that reshaped the whole subnet. **Corrected 2026-07-06:** no longer "the primary Japanese Tepenian relationship to Upper Earth" — that distinction belongs to Shirayuki now.
+Filtered through Sayowa's own established junction role and its long research-station history, layered against the same China-Primary demographic current that reshaped the whole subnet. **Corrected 2026-07-06:** no longer "the primary Japanese Tepenian relationship to Upper Earth" — that distinction belongs to Shirayuki now.
 
 ---
 
@@ -214,7 +214,7 @@ Genuinely significant given the city's physical junction role — Sayowa likely 
 ## 25. Export Culture
 
 - Junction-logistics and highway-maintenance expertise — Sayowa-trained specialists in keeping critical, high-stakes infrastructure functional
-- **Corrected 2026-07-06:** JARE's methodical research tradition and the Shōwa-era name's historical weight — a genuine Japanese institutional export, though no longer "the primary Japanese cultural presence in Tepenia" (that's Shirayuki's export now)
+- **Corrected 2026-07-06:** the station's own methodical research tradition and the Shōwa-era name's historical weight — a genuine institutional export tied to Sayowa's own founding history, though no longer "the primary Japanese cultural presence in Tepenia" (that's Shirayuki's export now)
 - A specific *type of person* — comfortable holding disproportionate structural responsibility in a small community, recognizable by an ease with that gap between scale and significance
 
 ---
@@ -268,4 +268,4 @@ Becoming a local at Sayowa means genuinely internalizing the city's disproportio
 
 ## 32. Diaspora Character in Concordia
 
-**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Shirayuki refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine institutional Japanese identity — the Shōwa-era name's specific historical weight, JARE's methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated one.
+**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Shirayuki refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine sense of institutional history — the Shōwa-era name's specific historical weight, the station's own methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated Japanese identity.

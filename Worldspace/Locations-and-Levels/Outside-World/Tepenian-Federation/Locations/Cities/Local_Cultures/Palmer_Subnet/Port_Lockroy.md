@@ -23,7 +23,7 @@
 | Significant | Germany, France, UK, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Port Lockroy's composition is the leanest of the Palmer subnet's British-founded cities — five Significant-tier nations rather than Rothera's six, no Canada or Spain represented at that tier. UK, the actual founding nation, is diluted to Significant tier by the same American demographic wave seen everywhere in the subnet, though its institutional imprint — carried forward from a founding unlike any other Tepenian city — remains genuinely distinctive.*
+*Port Lockroy's composition is the leanest of the Palmer subnet's founding-institution cities — five Significant-tier nations rather than Rothera's six, no Canada or Spain represented at that tier. UK, the actual founding nation, is diluted to Significant tier by the same American demographic wave seen everywhere in the subnet — but the site's own institutional character, carried forward from a founding progression unlike any other Tepenian city (military installation to heritage museum to living town), remains genuinely distinctive regardless.*
 
 ---
 
@@ -81,7 +81,7 @@ Port Lockroy's whole civic identity is built on continuous, visible history — 
 
 ## 8. Language
 
-- **a. Primary language(s):** English dominant (American Primary tier), with genuine British institutional vocabulary persisting from the wartime and BAS heritage.
+- **a. Primary language(s):** English dominant (American Primary tier), with institutional vocabulary persisting from the wartime installation and the BAS heritage-museum era — jargon the site itself developed and kept, not an inherited national dialect.
 - **b. Linguistic character** — Understated, historically-inflected — a small city's vocabulary shaped by decades of narrating its own past to visitors during the museum era.
 - **c. Slang / dialect markers** — Terminology tied to the layered building history — references to "the '44 wing" or similar era-specific shorthand distinguishing the city's different historical strata.
 - **d. Language and integration** — Minimal pressure, consistent with a small, intimate community where newcomers are quickly known rather than formally assimilated.
@@ -96,7 +96,7 @@ A genuine physical palimpsest — the original 1944 Operation Tabarin buildings 
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Modest, British-inflected, shaped by a small population and the city's historically maritime-trade economic niche.
+- **a. Human cuisine** — Modest, developed independently, shaped by a small population and the city's historically maritime-trade economic niche.
 - **b. Social context of eating** — Intimate, given the city's small scale — shared meals carry real weight in a community this size.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to the smallest population in the Palmer subnet.
 
@@ -196,7 +196,7 @@ Filtered through the specific, unusual wartime origin — Operation Tabarin's Co
 
 - **Palmer City (north) and Rothera (south):** Direct Hwy 1 highway neighbors.
 - **Palmer City specifically:** A genuinely load-bearing relationship post-war — Port Lockroy's survival is plausibly tied to its proximity to Palmer City, whose destruction may have simply subsumed or obscured Port Lockroy's own tiny footprint from Upper Earth's targeting.
-- **Rothera and Signy:** Fellow British-founded Palmer subnet cities, sharing BAS-heritage institutional character despite very different post-war fates.
+- **Rothera and Signy:** Palmer subnet cities built on the same parent Antarctic program's infrastructure lineage — a sibling relationship built on that shared institutional starting point, not on any one nation's ongoing claim, despite very different post-war fates.
 
 ---
 
@@ -263,4 +263,4 @@ Given the city's genuinely tiny scale, becoming a local at Port Lockroy happens 
 
 ## 32. Diaspora Character in Concordia
 
-Port Lockroy's history extends the British Antarctic presence back to 1944 — the deepest roots of any single British Antarctic site in Tepenia. No substantial diaspora community is established in Concordia given the Palmer subnet's geographic distance and the severity of the Long Night War there; what Concordia knows of Port Lockroy, it knows mostly as history rather than through any living community connection.
+Port Lockroy's history extends back to 1944 — the deepest continuously-documented occupation record of any Tepenian site, predating every other city's founding by decades. No substantial diaspora community is established in Concordia given the Palmer subnet's geographic distance and the severity of the Long Night War there; what Concordia knows of Port Lockroy, it knows mostly as history rather than through any living community connection.

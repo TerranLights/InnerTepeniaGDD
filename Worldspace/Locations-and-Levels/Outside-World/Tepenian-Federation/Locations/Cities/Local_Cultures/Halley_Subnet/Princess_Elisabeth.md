@@ -7,7 +7,7 @@
 **Census II Population:** 401,403 humans / 365,359 robots / 766,762 combined (rank 15th of ~32, *corrected 2026-07-03*)
 **Location:** Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land (~71°57'S, 23°21'E)
 
-**One-liner:** *The only Halley subnet city with two co-Primary founding populations instead of one — a genuine crossroads between the Atlantic and Indian Ocean immigration currents, built on a Belgian founding philosophy of leaving no mark that ultimately proved to have nothing to fall back on.*
+**One-liner:** *The only Halley subnet city with two co-Primary founding populations instead of one — a genuine crossroads between the Atlantic and Indian Ocean immigration currents, built to leave no mark on one of the most exposed sites in Tepenia, a design that ultimately proved to have nothing to fall back on.*
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 2. Founding Story
 
-The International Polar Foundation's Princess Elisabeth Antarctica station — opened in 2009, the most recently built of all the real-world stations Tepenia's founding cities were built on — was designed from its inception as the first zero-emissions Antarctic station: wind and solar power, no fossil fuels, zero waste discharge. Belgian exiles inherited that infrastructure and, more importantly, inherited the design philosophy behind it. The idea that a human presence in Antarctica should leave no mark wasn't environmental policy tacked onto the city later — it was the literal architecture the exile community built into from day one.
+The International Polar Foundation's Princess Elisabeth Antarctica station — opened in 2009, the most recently built of all the real-world stations Tepenia's founding cities were built on — was designed from its inception as the first zero-emissions Antarctic station: wind and solar power, no fossil fuels, zero waste discharge. The exiles who settled here inherited that infrastructure, and with it, no alternative: a site this exposed offered no natural shelter to fall back on, so the idea that a human presence here should leave no mark wasn't environmental policy tacked onto the city later — it was the literal architecture the exile community had to keep alive and maintained from day one just to survive.
 
 What made Princess Elisabeth's later demographic story unlike its neighbors' was pure geography: its position, at 23°21'E, sits meaningfully east of the rest of the Halley subnet's cities, closer to Dome Fuji and the Mawson subnet's Indian Ocean coast than to Troll or Abowasa. Over the generations that followed, this eastern position drew immigration from two directions simultaneously — the usual Atlantic-side American current that reshaped the whole subnet, and a genuinely distinct Indian Ocean/eastern-approach Japanese current that no other Halley subnet city experienced in any comparable strength. Belgium's founding population, small from the start, was eventually outpaced by both currents rather than just one.
 
@@ -55,9 +55,9 @@ Princess Elisabeth's polar night (~90 days) and midnight sun (~93 days) sit near
 
 **Name/concept:** *Leaving No Mark, Meeting in the Middle*
 
-Princess Elisabeth's civic identity runs on two tracks that don't obviously belong together: a Belgian founding philosophy of minimal environmental footprint, built into the city's actual infrastructure, and a demographic reality of being a genuine crossroads between two different immigration currents that don't meet anywhere else in the subnet. The city takes real pride in both, even though neither has much to do with the other.
+Princess Elisabeth's civic identity runs on two tracks that don't obviously belong together: a minimal-environmental-footprint design built into the city's actual infrastructure from its founding station onward, sustained because the exposed site never allowed anything else, and a demographic reality of being a genuine crossroads between two different immigration currents that don't meet anywhere else in the subnet. The city takes real pride in both, even though neither has much to do with the other.
 
-- **a. Founding tension** — Belgium founded the city and built its entire design philosophy into the infrastructure, then got diluted to Notable tier not by one later-arriving nation but by two simultaneously — American and Japanese populations arriving from genuinely different directions (Atlantic-side and Indian-Ocean-side respectively). The founding-nation-vs-majority story here is doubled in a way no other Halley subnet city experiences.
+- **a. Founding tension** — Belgium founded the city and its zero-emissions design was built into the station's actual infrastructure from the start, then got diluted to Notable tier not by one later-arriving nation but by two simultaneously — American and Japanese populations arriving from genuinely different directions (Atlantic-side and Indian-Ocean-side respectively). The founding-nation-vs-majority story here is doubled in a way no other Halley subnet city experiences.
 - **b. Fault lines** — A quiet, low-grade sense of which demographic "belongs" more to the city's Atlantic subnet identity (American, matching the rest of Halley subnet) versus its geographic reality (Japanese, matching its actual closer neighbors to the east) — Princess Elisabeth is genuinely pulled in two directions and has never fully settled which one is "home."
 
 ---
@@ -96,7 +96,7 @@ Zero-emissions by design and by continued practice — wind turbines, solar arra
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine blend of Japanese and American culinary influence, with Belgian founding-heritage cooking persisting as a smaller, specific thread — a combination that doesn't exist in quite the same form anywhere else in Tepenia.
+- **a. Human cuisine** — A genuinely distinct local cuisine, shaped independently by the city's two-directional population and by the resource-conscious, zero-waste infrastructure everyone lived inside — a combination that doesn't exist in quite the same form anywhere else in Tepenia. Any echoes of Japanese, American, or Belgian dishes in individual households are coincidence, not the source of the city's food culture.
 - **b. Social context of eating** — Practical and blended, reflecting the city's whole crossroads character rather than any single dominant tradition.
 - **c. Robot cuisine / siligel culture** — Practical and resource-conscious, consistent with the city's whole zero-emissions ethos extended into food production.
 
@@ -104,20 +104,20 @@ Zero-emissions by design and by continued practice — wind turbines, solar arra
 
 ## 11. Fashion
 
-Practical, minimal-footprint-conscious clothing culture — a blend of American and Japanese aesthetic influences with a specific local twist toward sustainability and repair, an extension of the city's founding environmental philosophy into personal style.
+Practical, minimal-footprint-conscious clothing culture — repair-focused, resource-conscious style that grew out of the same zero-waste infrastructure everyone depended on, an extension of the city's design identity into personal style rather than an import from anywhere else.
 
 ---
 
 ## 12. Music
 
-A genuine blend of American and Japanese musical influence, without either fully dominating — Princess Elisabeth's crossroads character shows up here as clearly as anywhere else in the city's culture.
+A genuinely local sound that never settled into one dominant tradition — Princess Elisabeth's crossroads character, and its dual-current population, shows up here as clearly as anywhere else in the city's culture.
 
 ---
 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Documentary and design-focused, centered on the zero-emissions infrastructure itself as a subject of genuine civic pride and aesthetic interest.
-- **Literature:** A blend of American and Japanese literary influence, alongside technical writing about the city's sustainable-design heritage.
+- **Literature:** A genuinely local literary voice shaped by the city's crossroads population, alongside technical writing about the city's sustainable-design heritage.
 - **Crafts & material culture:** Sustainable, repair-focused craft — objects built and maintained to last, consistent with the founding "leave no mark" philosophy.
 
 ---
@@ -189,7 +189,7 @@ Practical and crossroads-minded — Princess Elisabeth's political character ref
 
 ## 22. Relationship to Upper Earth
 
-Filtered through both the Belgian founding heritage and the dual American/Japanese demographic currents — genuinely plural, without a single unifying emotional register, similar in spirit to Halley's own layered relationship but split along a different axis (east/west rather than founder/settler/majority).
+Filtered through the city's own layered founding-to-present history and the dual American/Japanese demographic currents that shaped it — genuinely plural, without a single unifying emotional register, similar in spirit to Halley's own layered relationship but split along a different axis (east/west rather than founder/settler/majority).
 
 ---
 

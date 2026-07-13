@@ -23,7 +23,7 @@
 | Significant | Germany, France, UK, Canada, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Rothera's founding population was primarily British — Rothera and Halley are the two Tepenian cities with British Antarctic Survey origins, giving the UK exile community a presence on both the Peninsula's west coast and Queen Maud Land's Atlantic coast. But the founding-wave character, the earliest cultural imprint before the American demographic majority arrived, belongs to Argentina and Chile — the same geographic-proximity pattern seen across the Palmer subnet, arriving first via the Ushuaia/Punta Arenas corridor. UK itself sits at Significant tier, not Notable — its population share outlasted the founding-wave nations' numerically, even as Argentina and Chile's early cultural stamp persisted in the city's memory of its own beginning.*
+*Rothera's founding population was primarily British — Rothera and Halley are the two Tepenian cities with British Antarctic Survey origins, giving the UK exile community a presence on both the Peninsula's west coast and Queen Maud Land's Atlantic coast. Argentina and Chile arrived first, via the same short Ushuaia/Punta Arenas corridor seen across the Palmer subnet, ahead of the British institutional population and the American demographic majority that followed. UK itself sits at Significant tier, not Notable — its population share was outlasted by the American wave that arrived later, the same numeric pattern seen elsewhere in the subnet.*
 
 ---
 
@@ -31,7 +31,7 @@
 
 The British Antarctic Survey had operated at Rothera since 1975, and the exile settlement inherited one of the most developed, best-maintained station sites on the entire Peninsula — including a rare paved runway, the 900-meter Bonner airstrip, giving Rothera an aviation capability most Tepenian cities lacked from the very beginning. British exiles made up the founding population, arriving to find genuinely functional, well-built infrastructure waiting for them, distinct from cities founded on more improvised or abandoned sites elsewhere in Tepenia.
 
-Argentina and Chile's exile communities arrived first by simple geographic proximity — the short Drake Passage crossing from Ushuaia and Punta Arenas — and set the city's earliest cultural character before the British institutional population and, later, the larger American demographic wave arrived in volume. That founding-wave imprint persisted as cultural memory even as the population balance shifted.
+Argentina and Chile's exile communities arrived first by simple geographic proximity — the short Drake Passage crossing from Ushuaia and Punta Arenas — ahead of the British institutional population and, later, the larger American demographic wave that arrived in volume. Population balance shifted considerably over the generations that followed, but that arrival order remains part of the city's own founding record.
 
 What distinguished Rothera from its Peninsula neighbors almost immediately was Adelaide Island itself — by far the largest landmass in the subnet, mountainous, with far more room to grow than the smaller islands hosting Palmer City or Sejong. Where those cities grew as compact, concentrated settlements, Rothera's development spread outward across the island's scale, laying the groundwork for what would become, generations later, the subnet's industrial backbone.
 
@@ -59,8 +59,8 @@ Rothera has a brief polar night (~16 days) and brief midnight sun (~20 days) —
 
 Rothera's civic identity is built on practical competence and physical scale rather than spectacle — the opposite of Palmer City's celebratory self-image, and distinct from Marambio's aviation-hub prestige. Where those cities are defined by what they *are*, Rothera is defined by what it *makes* — raw materials into finished infrastructure, distributed production rather than concentrated production, and a hard-won post-war identity as the place that kept functioning specifically because it was never one target to hit.
 
-- **a. Founding tension** — British institutional founding population, Argentine/Chilean founding-wave cultural imprint, eventual American demographic Primary — the standard three-layer pattern, but here it's overshadowed by a newer, more load-bearing civic fact: industrial function, not founding nationality, is what actually defines Rothera today.
-- **b. Fault lines** — A quiet tension between the city's proud BAS institutional memory (decades of accumulated operational competence, inherited infrastructure) and the practical reality that its post-war relevance depends entirely on continued industrial output, not on that history alone.
+- **a. Founding tension** — British institutional founding population, an Argentine/Chilean early-arrival wave, eventual American demographic Primary — three population layers arriving in sequence, but here that sequence is overshadowed by a newer, more load-bearing civic fact: industrial function, not founding nationality, is what actually defines Rothera today.
+- **b. Fault lines** — A quiet tension between the city's own proud institutional memory of running this station across generations (decades of accumulated operational competence, inherited infrastructure) and the practical reality that its post-war relevance depends entirely on continued industrial output, not on that history alone.
 
 ---
 
@@ -83,7 +83,7 @@ Rothera's civic identity is built on practical competence and physical scale rat
 
 ## 8. Language
 
-- **a. Primary language(s):** English dominant (American Primary tier), with genuine British institutional vocabulary persisting in industrial/technical contexts — a specific BAS-inherited professional register.
+- **a. Primary language(s):** English dominant (American Primary tier), with genuine industrial/technical vocabulary carried forward from centuries of continuous station operation — a professional register the exile community kept and built on rather than reinvented.
 - **b. Linguistic character** — Practical, technical, industry-specific terminology woven into everyday civic language, alongside Argentine/Chilean Spanish inflection from the founding wave.
 - **c. Slang / dialect markers** — Industry-specific shorthand tied to the decentralized production sites — terms for specific facilities, processing stages, and the runway's operational status.
 - **d. Language and integration** — Low pressure; a working industrial city integrates newcomers through demonstrated usefulness rather than linguistic assimilation.
@@ -98,7 +98,7 @@ A genuine contrast between the compact original settlement at Rothera Point (bui
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Practical, British-inflected, with genuine Argentine/Chilean influence from the founding wave — unglamorous but substantial, fitting the city's whole working-industrial character.
+- **a. Human cuisine** — Practical and unglamorous but substantial, developed independently by the exile community to fit the demands of industrial shift work rather than imported wholesale from any single founding culture — fitting the city's whole working-industrial character.
 - **b. Social context of eating** — Practical rather than performative; shared meals organized around industrial work schedules rather than entertainment-capital leisure.
 - **c. Robot cuisine / siligel culture** — Substantial, scaled to a genuine working industrial population.
 
@@ -112,14 +112,14 @@ Practical, work-oriented clothing culture, distinct from Palmer City's performat
 
 ## 12. Music
 
-Modest compared to Palmer City's jazz-defined musical soul — a working city's music, practical and background rather than central to civic identity, though genuine British and Argentine/Chilean threads persist from the founding populations.
+Modest compared to Palmer City's jazz-defined musical soul — a working city's music, practical and background rather than central to civic identity, shaped more by the rhythm of industrial shift work than by any single imported tradition.
 
 ---
 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Documentary and industrial in character — art here is more likely to depict the actual work of production than abstract spectacle.
-- **Literature:** Technical and institutional record-keeping, inherited from the BAS tradition, rather than the mythological founding-story literature Palmer City cultivated.
+- **Literature:** Technical and institutional record-keeping, carried forward from centuries of continuous station operation, rather than the mythological founding-story literature Palmer City cultivated.
 - **Crafts & material culture:** Genuine industrial craft — the actual skill of processing raw materials into finished infrastructure components is treated as real, respected expertise here.
 
 ---
@@ -169,7 +169,7 @@ Robot culture here centers on industrial and technical expertise — the practic
 
 ## 19. Underground / Counterculture
 
-Minimal — a working industrial city organized around practical function doesn't have much room for a distinct counterculture; whatever friction exists (BAS institutional pride versus the practical reality of ongoing post-war production) is discussed openly rather than organized against.
+Minimal — a working industrial city organized around practical function doesn't have much room for a distinct counterculture; whatever friction exists (pride in the station's institutional legacy versus the practical reality of ongoing post-war production) is discussed openly rather than organized against.
 
 ---
 

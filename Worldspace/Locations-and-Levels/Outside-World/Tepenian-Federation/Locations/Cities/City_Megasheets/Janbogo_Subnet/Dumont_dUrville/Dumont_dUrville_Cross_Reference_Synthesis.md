@@ -4,9 +4,9 @@
 
 ---
 
-## Finding 1: Dumont d'Urville's French identity persists because it's actively used, not passively preserved
+## Finding 1: Dumont d'Urville's founding-language identity persists because it's actively used, not passively preserved
 
-**Combining:** Quebec City's real-world precedent of a minority founding culture surviving centuries through genuine, functional daily use rather than ceremonial preservation + the established fact that "even residents with no French ancestry tend to pick up functional French simply through years of civic life conducted in it."
+**Combining:** Singapore's real-world precedent of a founding administrative language surviving for generations through genuine, functional daily use rather than ceremonial preservation + the established fact that "even residents with no French ancestry tend to pick up functional French simply through years of civic life conducted in it."
 
 **2nd-order effect:** Dumont d'Urville's French persistence isn't a fragile, ceremonial holdover kept alive mainly through names and holidays — it's a self-sustaining, functional system, since ordinary civic participation itself is what transmits the language to each new generation of arrivals, regardless of their own ancestry.
 

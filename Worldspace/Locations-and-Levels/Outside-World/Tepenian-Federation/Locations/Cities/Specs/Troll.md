@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Halley ("Atlantic")
 **Highway access:** Hwy 7 (Queen Maud Land highway — Troll served by the inland section; nunatak position inland from the coast); Troll Airfield also provides air access
-**Significance:** Norwegian Polar Institute heritage; named "Troll" — the Norwegian mythological creature, and the informal name given to the inland nunatak region by early Norwegian Antarctic expeditions; Troll Airfield (one of the few inland Antarctic runways, ~3,000m — able to receive intercontinental flights) is the most significant aviation infrastructure in the Halley subnet — the runway survived the Long Night War and is functional, but its operation is contested; the Norwegian inland position means Troll was and remains the Halley subnet's gateway to the deep interior; Queen Maud Land was claimed by Norway in 1939 (as Dronning Maud Land)
+**Significance:** Norwegian Polar Institute heritage; named "Troll" — the Norwegian mythological creature, and the informal name given to the inland nunatak region by early Norwegian Antarctic expeditions; Troll Airfield (one of the few inland Antarctic runways, ~3,000m — able to receive intercontinental flights) is the most significant aviation infrastructure in the Halley subnet — the runway survived the Long Night War and is functional, but its operation is contested; the inland position means Troll was and remains the Halley subnet's gateway to the deep interior; Queen Maud Land was claimed by Norway in 1939 (as Dronning Maud Land)
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational
 
 ---
@@ -63,7 +63,7 @@
 
 Troll sits on Jutulsessen, a nunatak group in Queen Maud Land — rocky outcrops projecting above the surrounding ice sheet. The position is inland, elevated above the coastal ice shelf. The Jutulsessen nunataks are part of the dramatic Queen Maud Land mountain landscape — one of the most visually striking terrains in Antarctica, with the Heimefrontfjella and other ranges visible in the distance.
 
-Norway claimed Queen Maud Land in 1939 (Dronning Maud Land in Norwegian), giving Troll a territorial significance within the Antarctic Treaty framework. The Norwegian polar heritage — Amundsen, Nansen, the tradition of polar exploration as national identity — was inseparable from the Troll community's founding character.
+Norway claimed Queen Maud Land in 1939 (Dronning Maud Land in Norwegian), giving Troll a territorial significance within the Antarctic Treaty framework. The site's own connection to early polar exploration — Amundsen's and Nansen's expeditions passed through this landscape — carried into the Troll community's founding character along with the station itself.
 
 Troll Airfield is the defining infrastructure feature. Real-world Troll Airfield is approximately 3,000m long — capable of receiving intercontinental aircraft, an extraordinary capability for an inland Antarctic location. In the exile era, this made Troll the most significant aviation node in the Halley subnet, with a range of connectivity that Belgrano's shorter runway (on the coast) could not match.
 
@@ -97,15 +97,15 @@ Troll Airfield is the defining infrastructure feature. Real-world Troll Airfield
 
 #### Gameplay Notes
 - **The contested airfield:** Troll Airfield's 3,000m runway capable of intercontinental aircraft is the single most significant aviation infrastructure in the Halley subnet; the runway is functional post-war but its operation is contested — who controls the airfield, under what terms, and who can land there are central DLC 5 questions
-- **The Norwegian mountain landscape:** Jutulsessen nunatak terrain with the Queen Maud Land mountain backdrop; one of the most visually dramatic settings in the Halley subnet
+- **The Jutulsessen mountain landscape:** Jutulsessen nunatak terrain with the Queen Maud Land mountain backdrop; one of the most visually dramatic settings in the Halley subnet
 
 ---
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Troll Station infrastructure. The Norwegian Polar Institute has operated at this location since 1990 (initially seasonally, then year-round from 2005). The Norwegian Antarctic heritage — the tradition of St. Roald (Amundsen), the claim of Queen Maud Land, the Polar Institute's institutional continuity — carried directly into the exile community.
+**Settled:** Post-Falkland Treaty, on Troll Station infrastructure. The Norwegian Polar Institute has operated at this location since 1990 (initially seasonally, then year-round from 2005). The site's own history — St. Roald's (Amundsen's) expeditions through this landscape, the 1939 claim of Queen Maud Land, the Polar Institute's institutional continuity — carried directly into the exile community along with the station itself.
 
-**Founding population:** Norwegian exiles, with Norwegian Polar Institute heritage. The Norwegian cultural inheritance here is strong: Queen Maud Land is Norwegian-claimed territory, Amundsen's legacy is central to Norwegian national identity, and the Polar Institute's research mission provided institutional continuity.
+**Founding population:** Norwegian exiles, with Norwegian Polar Institute heritage. The station's own institutional history here is strong: Queen Maud Land carries its 1939 territorial claim, Amundsen's expeditions passed through this landscape, and the Polar Institute's research mission provided institutional continuity for the exile community that followed.
 
 The name "Troll" — the mythological creature of Norwegian folklore — was the informal name Norwegian expeditions gave to the Jutulsessen nunatak area. Carried forward into the exile city.
 
@@ -113,9 +113,9 @@ The name "Troll" — the mythological creature of Norwegian folklore — was the
 
 ## Character & Culture
 
-Troll had a double character: the Norwegian cultural pride in being here (Queen Maud Land, St. Roald's territory, the tradition of polar excellence) and the practical reality of the best aviation gateway in the Halley subnet. Troll was where things arrived from outside. The airfield connected the Halley subnet to distances that the other subnet cities couldn't easily reach. Post-war, the airfield's survival has made Troll one of the most strategically contested locations in the Halley subnet — the only place anything can land from outside. That fact defines Troll's current situation as much as its Norwegian heritage does.
+Troll had a double character: pride earned through genuinely excelling at some of the coldest, most extreme conditions in the subnet — winters here run colder than any coastal Halley subnet city — and the practical reality of the best aviation gateway in the Halley subnet. Troll was where things arrived from outside. The airfield connected the Halley subnet to distances that the other subnet cities couldn't easily reach. Post-war, the airfield's survival has made Troll one of the most strategically contested locations in the Halley subnet — the only place anything can land from outside. That fact defines Troll's current situation more than its founding history now does.
 
-The Norwegian cultural inheritance — outdoor endurance tradition, the particular relationship to winter and cold, the Amundsen heritage — gave Troll a specific social texture. Pride in being good at the cold. Not enduring it grudgingly but excelling at it.
+Troll's own brutal climate — more continental and colder than any coastal city in the subnet — gave Troll a specific social texture. Pride in being good at the cold. Not enduring it grudgingly but excelling at it.
 
 **Nationally known for:** The airfield. Queen Maud Land as Norwegian-claimed territory. The mountain landscape. St. Roald (Amundsen) as the patron Saint of this region.
 
@@ -153,6 +153,6 @@ Troll's legacy is the airfield and what it meant: the Halley subnet's window to 
 ## Open Questions
 - **Who controls the airfield** — the runway is functional, but contested; who currently holds or disputes control of Troll Airfield, on what terms, and whether the player can negotiate access is the central DLC 5 conflict for this city. **Established 2026-07-03:** this is now the working candidate central conflict/"MacGuffin" for the whole DLC 5 storyline, not just this city — see `Storyline/DLC_Overview.md`'s DLC 5 entry. Explicitly tentative pending actual DLC design & development; could remain the main objective or end up an important side-piece once the subnet/storyline is developed further.
 - **Aircraft at Troll** — what aircraft were present at Troll pre-war? Any remaining on the field or in hangars?
-- **St. Roald (Amundsen) veneration at Troll** — does Troll have a specific Tepenian Saints relationship to Amundsen given the Norwegian claim of Queen Maud Land and the Polar Institute heritage?
+- **St. Roald (Amundsen) veneration at Troll** — does Troll have a specific Tepenian Saints relationship to Amundsen given the site's own historical connection to his expeditions and the Polar Institute heritage?
 - **Demonym** — TBD; "Trollers"? something Norwegian?
 - **Notable figures** — TBD

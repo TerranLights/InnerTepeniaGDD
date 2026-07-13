@@ -6,7 +6,7 @@
 
 ## The One-Line Pitch
 
-*Janbogo's Italian sister city across the same eight kilometers of Terra Nova Bay for centuries — a tangled, unplanned, genuinely soulful place that was destroyed near its own demographic peak specifically for sheltering people it had no obligation to protect, and now sits in permanent, deliberate view of the one city that lived.*
+*Janbogo's sister city across the same eight kilometers of Terra Nova Bay for centuries — a tangled, unplanned, genuinely soulful place that was destroyed near its own demographic peak specifically for sheltering people it had no obligation to protect, and now sits in permanent, deliberate view of the one city that lived.*
 
 ---
 
@@ -27,7 +27,7 @@
 
 Zukelli never existed in isolation — its whole civic identity was shaped by Janbogo's constant, unavoidable presence on the horizon, 8km away across the same bay, sharing the same katabatic winds and the same ice-free Terra Nova Bay polynya. This wasn't a metaphor; the real stations these two cities are based on genuinely sit that close together. The relationship that grew out of it over centuries — cooperative, competitive, affectionate, entangled — was Zukelli's defining civic fact for as long as it stood, and its inverse became the defining fact of what it became after the war: the thing Janbogo now has to look at.
 
-Italy's cultural presence in Tepenia was concentrated here in a way it had nowhere else — Zukelli was *the* Italian city, in the same structural position as Janbogo's own Korean founding: a founding nation that shaped the whole civic template while demographically settling into Significant tier behind China and USA's Primary dominance. The tragedy, compared directly to Janbogo, is that this tension never got to resolve into a stable, ongoing living culture. Zukelli was destroyed while the mixed population was still actively practicing and inheriting Italian civic identity, not after generations of quietly settling into it the way Janbogo did.
+Zukelli's earliest civic institutions took shape here in a way found nowhere else in the subnet — a founding population that shaped the whole civic template early, in the same structural position as Janbogo's own founding population: a founding-era civic template that endured while the founders themselves demographically settled into Significant tier behind China and USA's Primary dominance. The tragedy, compared directly to Janbogo, is that this tension never got to resolve into a stable, ongoing living culture. Zukelli was destroyed while the mixed population was still actively practicing and inheriting that early civic identity, not after generations of quietly settling into it the way Janbogo did.
 
 ---
 
@@ -35,7 +35,7 @@ Italy's cultural presence in Tepenia was concentrated here in a way it had nowhe
 
 A tangled, organically-grown city — built as needs arose, not to any master plan, genuinely disorienting to anyone who didn't grow up navigating it. Beneath the heating infrastructure, elaborate plantlines and elevated "bridger-footroads" gave residents something resembling equatorial nature to walk among, most of it artificial or specifically engineered for the cold but real in effect — a warm, green contrast to the Antarctic dark just outside the heating envelope.
 
-Food and hospitality were the absolute center of civic life, inherited from Italy and exported subnet-wide — people traveled from Janbogo specifically for it. A huge, genre-diverse music scene grew out of that Italian-rooted core over centuries, performed mostly among friends and in restaurants with their own dedicated stages rather than standalone venues — music and food as adjacent expressions of the same hospitality instinct. Above everything else, people describe Zukelli as a place with a genuine *soul* — a description that lands with real weight given it was destroyed near its own demographic peak, not in decline.
+Food and hospitality were the absolute center of civic life, developed on-site out of the city's own tangled, densely-built circumstances and exported subnet-wide — people traveled from Janbogo specifically for it. A huge, genre-diverse music scene grew out of that same hospitality-centered core over centuries, performed mostly among friends and in restaurants with their own dedicated stages rather than standalone venues — music and food as adjacent expressions of the same hospitality instinct. Above everything else, people describe Zukelli as a place with a genuine *soul* — a description that lands with real weight given it was destroyed near its own demographic peak, not in decline.
 
 ---
 
@@ -73,7 +73,6 @@ Carried forward from `Specs/Zukelli.md`'s Open Questions, still genuinely unreso
 - Whether Janbogo could have helped or warned in the moments before the strike, and what it felt like to watch it happen in real time, 8km away
 - Janbogo's ongoing relationship to the ruins — memorial practice, a tradition of crossing the bay, or something the living city has learned not to look at
 - The size and status of the Zukelli diaspora within Janbogo specifically, versus the wider Concordia community
-- Possible lore connections between Zukelli and Favi della Torre (an Italian Upper Earth character)
 - A demonym for Zukelli residents
 - Notable figures originally from Zukelli — none named yet
 

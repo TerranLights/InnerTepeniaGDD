@@ -42,9 +42,9 @@ Adopting the Valparaíso research directly: Zukelli's residents needed *some* pr
 
 ---
 
-## VI. Favi della Torre — Left Genuinely Open
+## VI. Favi della Torre — Retired as a Lead
 
-Unlike every other item above, this one isn't resolved here. There isn't enough established information about Favi della Torre available to this pass to propose an earned connection rather than an arbitrary one — forcing a link between an established Upper Earth character and Zukelli's own Italian civic identity without knowing Favi's own actual story risks contradicting whatever's already true about them. This is flagged as still genuinely open, not quietly decided by default.
+The earlier open question proposing a possible lore connection between Favi della Torre and Zukelli has been retired rather than resolved. Its only basis was that both happen to trace back to Italy — Favi from Upper Earth, Zukelli's founding population from the Mario Zucchelli Station exiles — and per the project's binding rule, a shared founding-nation/nationality coincidence is never a valid reason to build a narrative connection. If a real link between Favi and Zukelli is ever wanted, it needs its own independent basis (shared history, a real character or plot connection) rather than nationality matching.
 
 ---
 

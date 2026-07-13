@@ -82,11 +82,11 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty. Italian exiles built on the Mario Zucchelli Station infrastructure, which had been Italy's primary Antarctic presence since the Italian Antarctic program began in 1985. By the exile era, the facility was mature and substantial. The founding community carried the Italian Antarctic tradition with them — centuries of accumulated practice at this specific site.
+**Settled:** Post-Falkland Treaty. Italian exiles built on the Mario Zucchelli Station infrastructure, which had been Italy's primary Antarctic presence since the Italian Antarctic program began in 1985. By the exile era, the facility was mature and substantial — decades of accumulated construction and operational infrastructure at this specific site, ready for the founding population to build a new civic life on top of.
 
-**Founding population:** Primarily Italian exiles. Italy's cultural presence in Tepenia was concentrated here in a way that had no equivalent elsewhere — Zukelli was the Italian city, the place where Italian language, food culture, architecture, and social tradition maintained their most coherent Antarctic expression.
+**Founding population:** Primarily Italian exiles. From that starting population, Zukelli's exile community built out its own language habits, food culture, architecture, and social tradition on-site over the centuries that followed, shaped by the city's own circumstances rather than transplanted wholesale from anywhere.
 
-The proximity to the Korean founding population at Janbogo created an immediate and permanent cultural relationship. Two national communities, 8km apart, sharing a bay. The relationship between them — cooperative, competitive, friendly, complicated — developed over centuries.
+The proximity to the founding population at Janbogo created an immediate and permanent civic relationship. Two communities, 8km apart, sharing a bay. The relationship between them — cooperative, competitive, friendly, complicated — developed over centuries.
 
 ---
 
@@ -94,19 +94,19 @@ The proximity to the Korean founding population at Janbogo created an immediate 
 
 Zukelli had the character of a city that was never alone. Janbogo was always there, visible across the bay, close enough that on a clear day you could see its lights. This proximity shaped Zukelli's identity in the same way that sharing a wall shapes two neighbors: constant awareness of each other, a relationship that was sometimes generous and sometimes territorial, a shared history that accumulated over centuries without anyone formally deciding to share it.
 
-The Italian cultural inheritance was the city's defining feature. Food culture — the Italian approach to siligel preparation, to communal eating, to the social function of the shared table — was Zukelli's most exported cultural product. The city was known throughout the Janbogo subnet for its food. People came from Janbogo for it.
+Food culture was the city's defining feature — its own approach to siligel preparation, to communal eating, to the social function of the shared table, developed out of the tangled, densely-built city's own circumstances into Zukelli's most exported cultural product. The city was known throughout the Janbogo subnet for its food. People came from Janbogo for it.
 
 The katabatic winds and the polynya were understood as connected phenomena — the same force that made the bay's water stay open in winter also made outdoor life challenging. The city's architecture reflected this: sheltered courtyards, wind-oriented street layouts, covered connections between buildings that allowed outdoor movement without full wind exposure.
 
 **Nationally known for:** The food culture. The relationship with Janbogo. The polynya. Being the city 8km from the one that survived.
 
-**Developer vision, established 2026-07-05:** A tangled, organically-grown city — built as its needs arose rather than to any master plan, navigable on sight only to people who actually lived there. Beneath the heating infrastructure, elaborate plantlines and elevated "bridger-footroads" gave residents something resembling equatorial nature to walk among, much of it artificial or genetically engineered for the cold but real in effect. A huge, genre-diverse music scene grew out of its Italian-rooted core, with most entertainment happening among friends and in restaurants with dedicated performance stages rather than at standalone venues. Above all else, people describe it as a place with a *soul* — a description that lands with real weight given it was destroyed at 72.5% human retention, near peak, not in decline. Full detail in `Local_Cultures/Janbogo_Subnet/Zukelli.md`.
+**Developer vision, established 2026-07-05:** A tangled, organically-grown city — built as its needs arose rather than to any master plan, navigable on sight only to people who actually lived there. Beneath the heating infrastructure, elaborate plantlines and elevated "bridger-footroads" gave residents something resembling equatorial nature to walk among, much of it artificial or genetically engineered for the cold but real in effect. A huge, genre-diverse music scene grew out of the city's own food-and-hospitality civic core, with most entertainment happening among friends and in restaurants with dedicated performance stages rather than at standalone venues. Above all else, people describe it as a place with a *soul* — a description that lands with real weight given it was destroyed at 72.5% human retention, near peak, not in decline. Full detail in `Local_Cultures/Janbogo_Subnet/Zukelli.md`.
 
 ---
 
 ## Economy & Industry
 
-Zukelli's economy was closely integrated with Janbogo's — two cities sharing a bay inevitably develop complementary rather than competing economic structures. Full detail TBD. The Italian cultural industries (food, craft, design) were likely Zukelli's most distinctive economic contribution to the subnet.
+Zukelli's economy was closely integrated with Janbogo's — two cities sharing a bay inevitably develop complementary rather than competing economic structures. Full detail TBD. Its own food, craft, and design industries, grown out of its hospitality-centered civic culture, were likely Zukelli's most distinctive economic contribution to the subnet.
 
 ---
 
@@ -114,7 +114,7 @@ Zukelli's economy was closely integrated with Janbogo's — two cities sharing a
 
 - **The ruins visible from Janbogo** — the most distinctive geographic fact about Zukelli; the ruins are on the same bay, within sightline of the living city; specific ruins TBD for DLC design
 - **The shared polynya shoreline** — where Zukelli's waterfront met the Terra Nova Bay polynya; in the ruins, the waterfront infrastructure survives in some form; the polynya still runs alongside it
-- **The Italian cultural quarter** — wherever the city's most distinctively Italian spaces were concentrated; food halls, communal gathering spaces, whatever the Italian exile community built to maintain their cultural character; now ruins
+- **The cultural quarter** — wherever the city's food-and-hospitality civic culture was most concentrated; food halls, communal gathering spaces, whatever the exile community built to house its own civic character; now ruins
 - Additional locations: TBD for DLC design
 
 ---
@@ -154,8 +154,7 @@ Zukelli's legacy is partly in Concordia (the Italian community that came through
 - ~~**The circumstances of Zukelli's destruction**~~ — **RESOLVED 2026-07-05:** Zukelli was sheltering AWOL Upper Earth defectors; the strike was a deliberate total-obliteration order both to guarantee their deaths and to send a deterrent message to the rest of Tepenia, with Janbogo left standing specifically to witness and carry that message. See Current Status, above. **Still genuinely open:** whether Janbogo was able to help or warn in the moments before the strike, and what it felt like to watch it happen in real time, 8km away
 - **Janbogo's relationship to the ruins** — does Janbogo maintain any connection to Zukelli's ruins? Is there a memorial practice, a tradition of crossing the bay on significant dates? Or is it something the living city has learned not to look at?
 - **The Zukelli diaspora in Janbogo** — how many Zukelli residents evacuated to Janbogo before or during the destruction? What is the Zukelli community's status within Janbogo?
-- **The Zukelli community in Concordia** — distinct from the Janbogo diaspora, or folded into it? Italian cultural presence in Concordia
-- **Italian connections to Favi della Torre** — Favi is Italian (from Upper Earth), Zukelli was the Italian Tepenian city; whether there are lore connections between these two Italian communities is TBD
+- **The Zukelli community in Concordia** — distinct from the Janbogo diaspora, or folded into it? Zukelli's own cultural presence in Concordia
 - **Highway / road connection** — does Zukelli have its own road connection to Janbogo or did they share infrastructure? TBD
-- **Demonym** — TBD (Zukellians? something Italian-inflected?)
+- **Demonym** — TBD (Zukellians? something else?)
 - **Notable figures originally from Zukelli** — TBD

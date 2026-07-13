@@ -30,7 +30,7 @@
 
 ## Finding 3: Marambio may be an unexamined version of Janbogo's own signature cultural inversion
 
-**Combining:** Argentina's extreme demographic dilution (0.74%, the deepest founding-nation erosion documented in the Palmer subnet) + the established fact that the Argentine Air Force's institutional discipline persisted culturally regardless of who actually staffed the base by Census II + Janbogo's own, far more celebrated version of the identical phenomenon — a founding culture surviving its founders' demographic minority status.
+**Combining:** Argentina's extreme demographic dilution (0.74%, the deepest founding-nation erosion documented in the Palmer subnet) + the established fact that the airfield's own founding-era operational discipline persisted institutionally regardless of who actually staffed the base by Census II + Janbogo's own, far more celebrated version of the identical phenomenon — a founding culture surviving its founders' demographic minority status.
 
 **2nd-order effect:** Marambio and Janbogo demonstrate the exact same underlying structural fact — a founding institutional or cultural template outliving the population that created it — at very different scales of visibility: Janbogo's version is a named, celebrated civic identity; Marambio's is a quiet operational inheritance nobody in its own established culture seems to have named or reflected on.
 

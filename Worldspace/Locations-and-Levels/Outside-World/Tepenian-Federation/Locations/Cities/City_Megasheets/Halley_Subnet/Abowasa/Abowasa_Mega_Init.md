@@ -36,7 +36,7 @@ USA sits Primary, with Germany, France, UK, Russia, and Brazil at Significant ti
 
 ## Personality (Enneagram Read)
 
-**Thinking (Head) / Compliant / Positive Outlook** — the only profile combination in the entire 36-location set that lands in no shared group at all (see `Distinguishing_Overlapping_Profiles.md`), alongside Dome Fuji as the only other fully unique read. The read is well-supported on every axis: Abowasa's own resolution as a real place required careful real-world research to sort out (two genuinely separate stations, not one loosely-merged facility); its dual-national cooperative founding is Compliant energy in its purest form, two nations working alongside each other rather than one asserting dominance; and the deliberate, budgetary (not forced) choice to staff only seasonally reads as a place optimizing for quality of life and balance rather than grinding through hardship or carrying visible strain.
+**Thinking (Head) / Compliant / Positive Outlook** — the only profile combination in the entire 36-location set that lands in no shared group at all (see `Distinguishing_Overlapping_Profiles.md`), alongside Dome Fuji as the only other fully unique read. The read is well-supported on every axis: Abowasa's own resolution as a real place required careful real-world research to sort out (two genuinely separate stations, not one loosely-merged facility); its cooperative dual-community founding is Compliant energy in its purest form, two originally separate settlements choosing ongoing partnership over either one dominating the other; and the deliberate, budgetary (not forced) choice to staff only seasonally reads as a place optimizing for quality of life and balance rather than grinding through hardship or carrying visible strain.
 
 ---
 

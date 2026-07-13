@@ -112,7 +112,7 @@ Named after John King Davis — the ship's captain who enabled others' greatness
 
 Davis had the character of a city that benefited from exceptional terrain. The Vestfold Hills offered more environmental variety than almost any other Tepenian city: lakes of different types, rocky outcrops, fjord access, the full ice-free oasis environment. The city's layout could take advantage of terrain that other cities didn't have.
 
-The Australian Antarctic Division culture — practical, research-focused, with the particular Australian cultural relationship to wide open spaces and extreme environments — shaped Davis from the beginning. Not the subnet hub (that's Mirny itself), Davis had less administrative weight and more of the oasis city's particular character.
+The Australian Antarctic Division's practical, research-focused institutional culture shaped Davis from the beginning, reinforced by the sheer scale of the terrain its founders were tasked with understanding — lakes, rocky outcrops, fjord access, a full ice-free oasis environment unlike almost anywhere else in Tepenia. Not the subnet hub (that's Mirny itself), Davis had less administrative weight and more of the oasis city's particular character.
 
 **Nationally known for:** The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. The John King Davis name — the enabler rather than the explorer.
 
