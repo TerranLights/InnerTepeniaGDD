@@ -36,7 +36,7 @@ USA sits Primary, with Germany, France, UK, Russia, and Brazil at Significant ti
 
 ## Personality (Enneagram Read)
 
-**Instinctive (Gut) / Assertive / Reactive** — shares this profile with Soyuz, distinguished specifically as **besieged**, contrasted against Soyuz's own self-asserting energy. This read is well-supported by Troll's own established identity: a city whose control is genuinely, actively fought over, flagged directly as the working candidate for DLC 5's central conflict — real external pressure, not quiet self-containment or absorbed duty.
+**Instinctive (Gut) / Assertive / Reactive** — shares this profile with Sinheung, distinguished specifically as **besieged**, contrasted against Sinheung's own self-asserting energy. This read is well-supported by Troll's own established identity: a city whose control is genuinely, actively fought over, flagged directly as the working candidate for DLC 5's central conflict — real external pressure, not quiet self-containment or absorbed duty.
 
 ---
 
@@ -84,7 +84,7 @@ Carried forward from `Specs/Troll.md`, still genuinely unresolved:
 - Two placeholder holiday names ("St. Roald's Landing," "Runway Day") never fully developed
 - Notable figures: still nobody named
 
-**New, surfaced by this research pass:** given Neumayer's own newly-established role designing the current-generation fabrication-synthesis chamber schematic, and given Soyuz (one of the Cradle's two currently-active manufacturing sites) already ships supplies onward via its own aviation route — it's worth asking whether Troll's own freight network has ever carried actual fabrication-synthesis chambers themselves onward to other Tepenian cities, given Troll's established role as the Halley subnet's real distribution hub for goods reaching the rest of the Federation. The current files don't address this either way.
+**New, surfaced by this research pass:** given Neumayer's own newly-established role designing the current-generation fabrication-synthesis chamber schematic, and given Sinheung (one of the Cradle's two currently-active manufacturing sites) already ships supplies onward via its own aviation route — it's worth asking whether Troll's own freight network has ever carried actual fabrication-synthesis chambers themselves onward to other Tepenian cities, given Troll's established role as the Halley subnet's real distribution hub for goods reaching the rest of the Federation. The current files don't address this either way.
 
 ---
 

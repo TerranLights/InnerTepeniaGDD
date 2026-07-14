@@ -184,7 +184,7 @@ Section III is the most quietly valuable proposal here — it resolves the open 
 
 **2nd-order effect:** a garage holding a stray, specifically-shaped, useful aircraft part isn't an arbitrary loot placement — it's exactly the kind of object a mechanic culture this central to Belgrano's whole identity would naturally generate and preserve, whether or not anyone remembers why it was set aside.
 
-**3rd-order effect:** this reframes the item's own environmental storytelling stakes — its presence in a Belgrano garage isn't incidental to the DLC 4 mechanic that lets a player bypass Soyuz's stat-gate, it's a small piece of direct evidence that Belgrano's established civic character (functional, mechanically capable, quietly resourceful) is still operating in the present day, in the middle of the city's own decline.
+**3rd-order effect:** this reframes the item's own environmental storytelling stakes — its presence in a Belgrano garage isn't incidental to the DLC 4 mechanic that lets a player bypass Sinheung's stat-gate, it's a small piece of direct evidence that Belgrano's established civic character (functional, mechanically capable, quietly resourceful) is still operating in the present day, in the middle of the city's own decline.
 
 **4th-order effect:** worth flagging as a genuinely strong existing design choice, not something to change — the cross-DLC item already sits in exactly the right kind of place for what it is, and that placement is now legible as characterization rather than coincidence.
 

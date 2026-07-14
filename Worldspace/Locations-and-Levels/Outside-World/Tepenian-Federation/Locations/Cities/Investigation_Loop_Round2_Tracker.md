@@ -121,7 +121,7 @@ each) whenever that round begins.
 - Kunlun — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
 - Mirny — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
 - Shirayuki — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
-- {{currently-unnamed Korean city}} (cf. Soyuz) — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
+- Sinheung (cf. Sinheung) — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
 - Vostok — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
 - Zhongshan — phase 1: **3/3 COMPLETE** (same 3 angles, all clean) · phase 2: not started
 
@@ -183,7 +183,7 @@ additionally re-verified via population math and a dedicated repo-wide grep righ
 **All 8 Palmer-subnet cities: 3/3+ clean.**
 
 **Mirny subnet, Round 2 Pass 1-3, all 8 cities, 2026-07-14.** Fresh individual `Specs/*.md` reads for all
-8 cities (Casey, Davis, Kunlun, Mirny, Shirayuki, {{currently-unnamed Korean city}}, Vostok, Zhongshan)
+8 cities (Casey, Davis, Kunlun, Mirny, Shirayuki, Sinheung, Vostok, Zhongshan)
 — no new bugs, tier tables all clean per the master-list script (none of these 8 appear on it). Then
 two batch angles covering all 8 at once: the `Mirny_Subnet_Ultra_Megasheet` folder (6 files) grepped
 for every known stale phrasing from the 2026-07-13 "widest-blast-radius" fix (self-named, dual

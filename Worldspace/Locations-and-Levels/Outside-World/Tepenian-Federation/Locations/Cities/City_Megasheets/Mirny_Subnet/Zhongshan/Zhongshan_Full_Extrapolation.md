@@ -33,7 +33,7 @@ Following the Chinese place-name demonym convention already familiar in English 
 
 ## IV. What the Long Night War Strike Actually Did
 
-**Proposed, drawing on Yekaterinburg's real Cold War-era defense-industrial specialization:** Zhongshan's precision manufacturing sector (established at ~25% of Division of Industry) plausibly had some genuine strategic-value output — components or materials with applications beyond ordinary civilian use — making the city a deliberate target rather than incidental collateral damage, echoing the way a real heavy-industrial city's civilian and strategic production can be inseparable from the outside. The strike itself hit the Zhongshan/{{currently-unnamed Korean city}} cluster's shared infrastructure (the tri-junction highway node, established elsewhere as one physical location for both cities), consistent with both cities landing at "damaged but functional" rather than destroyed — significant, felt simultaneously by both communities, but not total.
+**Proposed, drawing on Yekaterinburg's real Cold War-era defense-industrial specialization:** Zhongshan's precision manufacturing sector (established at ~25% of Division of Industry) plausibly had some genuine strategic-value output — components or materials with applications beyond ordinary civilian use — making the city a deliberate target rather than incidental collateral damage, echoing the way a real heavy-industrial city's civilian and strategic production can be inseparable from the outside. The strike itself hit the Zhongshan/Sinheung cluster's shared infrastructure (the tri-junction highway node, established elsewhere as one physical location for both cities), consistent with both cities landing at "damaged but functional" rather than destroyed — significant, felt simultaneously by both communities, but not total.
 
 ---
 
@@ -51,4 +51,4 @@ Following the Chinese place-name demonym convention already familiar in English 
 
 ## Worth Your Attention
 
-Section IV is the most structurally useful proposal here — it gives the Zhongshan/{{currently-unnamed Korean city}} cluster's already-resolved "damaged but functional" war status a genuine, specific mechanism (precision manufacturing with strategic value, hit at the shared infrastructure node) rather than leaving "whatever the war did to this cluster" as a pure blank, which is exactly the kind of unaddressed placeholder this document exists to resolve.
+Section IV is the most structurally useful proposal here — it gives the Zhongshan/Sinheung cluster's already-resolved "damaged but functional" war status a genuine, specific mechanism (precision manufacturing with strategic value, hit at the shared infrastructure node) rather than leaving "whatever the war did to this cluster" as a pure blank, which is exactly the kind of unaddressed placeholder this document exists to resolve.

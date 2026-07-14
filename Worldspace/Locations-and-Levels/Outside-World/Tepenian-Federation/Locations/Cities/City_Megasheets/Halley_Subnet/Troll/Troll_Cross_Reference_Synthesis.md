@@ -30,7 +30,7 @@
 
 ## Finding 3: Troll's freight network may carry higher stakes than pure economics, if it occasionally moves actual fabrication-synthesis chambers
 
-**Combining:** the Full Extrapolation's proposed secondary chamber traffic passing through Troll's freight network (chambers manufactured at Soyuz, potentially routed onward via Troll to other cities) + the singular importance of fabrication-synthesis chambers as the only known mechanism by which new robots can be created anywhere in Tepenia + Troll's own established role as the real distribution backbone for a genuine share of Tepenia's import economy.
+**Combining:** the Full Extrapolation's proposed secondary chamber traffic passing through Troll's freight network (chambers manufactured at Sinheung, potentially routed onward via Troll to other cities) + the singular importance of fabrication-synthesis chambers as the only known mechanism by which new robots can be created anywhere in Tepenia + Troll's own established role as the real distribution backbone for a genuine share of Tepenia's import economy.
 
 **2nd-order effect:** if Troll's freight network occasionally carries actual chamber shipments, whoever ultimately controls the airfield doesn't just control ordinary trade goods — they control, at least incidentally, a chokepoint in the nationwide robot-creation supply chain.
 

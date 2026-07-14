@@ -14,9 +14,9 @@ Mirroring the district-level and other-subnet exercises, but adapted to this sub
 
 ---
 
-## II. Whether Mawson's Own Founding-Nation Imbalance Gets the Shirayuki/Soyuz Correction Treatment — Left Genuinely Open
+## II. Whether Mawson's Own Founding-Nation Imbalance Gets the Shirayuki/Sinheung Correction Treatment — Left Genuinely Open
 
-Consistent with the explicit note already on record in `City_Vision_Notes/Mawson.md` (the developer's own call, not yet decided), this document does not propose an answer. Forcing one here would work directly against the developer's own stated intent to decide this separately, on its own terms, rather than as an automatic extension of the Shirayuki/Soyuz precedent. Worth noting only that this Ultra-Megasheet's own Pattern 1 (founding-population displacement in three shapes) already treats Mawson's *current* peaceful dilution as a settled, accepted civic fact — if the correction is ever made, that acceptance narrative would need to be revisited alongside the numbers themselves, not left standing on its own.
+Consistent with the explicit note already on record in `City_Vision_Notes/Mawson.md` (the developer's own call, not yet decided), this document does not propose an answer. Forcing one here would work directly against the developer's own stated intent to decide this separately, on its own terms, rather than as an automatic extension of the Shirayuki/Sinheung precedent. Worth noting only that this Ultra-Megasheet's own Pattern 1 (founding-population displacement in three shapes) already treats Mawson's *current* peaceful dilution as a settled, accepted civic fact — if the correction is ever made, that acceptance narrative would need to be revisited alongside the numbers themselves, not left standing on its own.
 
 ---
 
@@ -28,7 +28,7 @@ Consistent with the explicit note already on record in `City_Vision_Notes/Mawson
 
 ## IV. A Proposed Notable Figure: The Sayowa–Dome Fuji Supply Liaison
 
-**Proposed, new figure:** a Sayowa-based logistics coordinator — placeholder title **Aviation Liaison**, currently unnamed — responsible for Sayowa's own end of the historical Troll–Soyuz–Dome Fuji aviation supply route (Mawson Cross-City Throughways, Throughway 3), working alongside the already-proposed Junction Coordinator Wei-Lin Andersen (Sayowa's own Full Extrapolation, Section III). Given Sayowa's own established civic character — quiet, dutiful, valued for function rather than visibility — this figure would never have been publicly credited for keeping one of Tepenia's most isolated populations supplied, consistent with the same "quietly load-bearing" theme already confirmed project-wide in Halley, Janbogo/Ross, and Mirny subnets alike.
+**Proposed, new figure:** a Sayowa-based logistics coordinator — placeholder title **Aviation Liaison**, currently unnamed — responsible for Sayowa's own end of the historical Troll–Sinheung–Dome Fuji aviation supply route (Mawson Cross-City Throughways, Throughway 3), working alongside the already-proposed Junction Coordinator Wei-Lin Andersen (Sayowa's own Full Extrapolation, Section III). Given Sayowa's own established civic character — quiet, dutiful, valued for function rather than visibility — this figure would never have been publicly credited for keeping one of Tepenia's most isolated populations supplied, consistent with the same "quietly load-bearing" theme already confirmed project-wide in Halley, Janbogo/Ross, and Mirny subnets alike.
 
 ---
 

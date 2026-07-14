@@ -102,7 +102,7 @@ Built not long before the Long Night War, Lyuba came out of East Intermaria — 
 
 The Russian cultural background is in her: the literary inclination, the appreciation for a well-constructed argument, the specific kind of depth that comes from a culture that takes suffering seriously without being melodramatic about it. But the 8w7 Sexual means she wears it lightly — the depth is there but she's not going to make you sit in it with her unless you've earned the conversation.
 
-Her connection to Mirny's own Russian founding-operator heritage is real but not defining — she carries East Intermaria in her character more than in faction allegiance or community attachment. She's the kind of person who is from a place rather than of it. *(Corrected 2026-07-13 — previously paired Mirny with Soyuz here as if both carried special Russian heritage. Soyuz (files: {{currently-unnamed Korean city}}) is singularly Korean-founded via the Jeju-do court; its Russian population is ordinary Significant-tier post-founding immigration, no different in kind from Russian communities in many other Tepenian cities — see `Specs/Soyuz.md`. Mirny is the city with genuine, if diluted, Russian founding-operator heritage.)*
+Her connection to Mirny's own Russian founding-operator heritage is real but not defining — she carries East Intermaria in her character more than in faction allegiance or community attachment. She's the kind of person who is from a place rather than of it. *(Corrected 2026-07-13 — previously paired Mirny with Sinheung here as if both carried special Russian heritage. Sinheung (files: Sinheung) is singularly Korean-founded via the Jeju-do court; its Russian population is ordinary Significant-tier post-founding immigration, no different in kind from Russian communities in many other Tepenian cities — see `Specs/Sinheung.md`. Mirny is the city with genuine, if diluted, Russian founding-operator heritage.)*
 
 *(Further detail in `Personal_Background/PreWar_History.md` and `Personal_Background/War_Experiences.md`)*
 
@@ -126,7 +126,7 @@ Her connection to Mirny's own Russian founding-operator heritage is real but not
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
-- Russian/Intermarian cultural community connections: likely has ties to Mirny's own Russian-descended community, though the nature of those ties is TBD *(corrected 2026-07-13 — previously also named Soyuz here, and called both "refugee communities"; Soyuz was never destroyed and has no refugee diaspora — see `Specs/Soyuz.md` — and its own Russian population carries no special founding significance the way Mirny's does)*
+- Russian/Intermarian cultural community connections: likely has ties to Mirny's own Russian-descended community, though the nature of those ties is TBD *(corrected 2026-07-13 — previously also named Sinheung here, and called both "refugee communities"; Sinheung was never destroyed and has no refugee diaspora — see `Specs/Sinheung.md` — and its own Russian population carries no special founding significance the way Mirny's does)*
 
 ---
 

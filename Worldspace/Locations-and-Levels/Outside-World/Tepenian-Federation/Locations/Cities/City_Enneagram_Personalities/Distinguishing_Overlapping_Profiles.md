@@ -41,14 +41,14 @@ All five are dutiful, analytical, and capable — service-oriented cities whose 
 
 ## Group 3 — Instinctive / Assertive / Reactive (2 cities)
 
-**Troll, Soyuz**
+**Troll, Sinheung**
 
 Both are forceful, contested, industrially significant cities — but the *direction* of the pressure is opposite:
 
 - **Troll**'s intensity comes from outside pressure — its airfield is genuinely fought over, flagged as DLC 5's working central-conflict anchor. Troll is a city under real external siege over what it controls.
-- **Soyuz**'s intensity comes from within — an unusually sharp national pride the developer explicitly flagged as an outlier against Tepenia's quieter post-national norm. Nobody is fighting Soyuz for anything; its reactivity is self-generated identity, not external contest.
+- **Sinheung**'s intensity comes from within — an unusually sharp national pride the developer explicitly flagged as an outlier against Tepenia's quieter post-national norm. Nobody is fighting Sinheung for anything; its reactivity is self-generated identity, not external contest.
 
-**The distinguishing axis:** besieged (Troll) vs. self-asserting (Soyuz).
+**The distinguishing axis:** besieged (Troll) vs. self-asserting (Sinheung).
 
 ---
 

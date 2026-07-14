@@ -8,7 +8,7 @@ Capricorn's Merit Board Audit (c. 2761) found the district's merit-rating system
 
 ## What this week's Megasheet work adds
 
-The proposed **Cradle-Keepers** faction pattern (Neumayer designs the current chamber schematic uncredited; Byrd and Soyuz manufacture it, both modest-political-profile cities most of Tepenia barely thinks about) establishes that the exact same pattern — essential labor, systematically uncredited — isn't a Capricorn-specific injustice. It's a *national* one, repeating at the level of entire cities across three different subnets.
+The proposed **Cradle-Keepers** faction pattern (Neumayer designs the current chamber schematic uncredited; Byrd and Sinheung manufacture it, both modest-political-profile cities most of Tepenia barely thinks about) establishes that the exact same pattern — essential labor, systematically uncredited — isn't a Capricorn-specific injustice. It's a *national* one, repeating at the level of entire cities across three different subnets.
 
 ## Why this is worth developing
 

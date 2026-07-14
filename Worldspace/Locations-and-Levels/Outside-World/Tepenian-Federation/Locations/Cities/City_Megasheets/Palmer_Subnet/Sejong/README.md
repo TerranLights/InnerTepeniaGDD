@@ -78,7 +78,7 @@ A densely populated enclave whose identity was forged almost entirely in relatio
 
 Carried forward from `Specs/Sejong.md` and `City_Vision_Notes/Sejong.md`, still genuinely unresolved:
 - The fate of the other King George Island national communities (Argentine, Brazilian, Chinese, Polish, Russian, Czech, Uruguayan) — separate city entries of their own, or folded into Sejong's story?
-- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
+- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside Sinheung in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
 - Whether the whole multinational coexistence experiment ultimately succeeded or produced real, lasting friction
 - A specific defining skyline/landmark structure for the "mini-Taipei" feel — asked directly, not yet answered
 - Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord") never fully developed
@@ -109,7 +109,7 @@ Izmir remains the standout — its real, physically divided quarter system, self
 
 ## II. The Sejong–Janbogo Relationship — A Founding-Era Naming Echo, Not a Living Connection
 
-**Proposed, corrected 2026-07-13:** the original version of this section proposed "a real, maintained connection" between the two cities grounded in shared Korean heritage — that overstates it. Janbogo remained a genuine Korean demographic and cultural center in Tepenia, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population diluted to 5.79%, its smallest Significant-tier nation, the same pattern already resolved at Sayowa/Shirayuki. Whatever connection exists is closer to historical footnote than living relationship — perhaps a single shared observance of Hangul Day, maintained more out of founding-era naming symmetry than genuine ongoing cultural kinship, with no meaningful mutual awareness beyond that. Each city's real cultural energy went entirely into its own immediate neighbors — Sejong into King George Island's dense multinational contrast, Janbogo into its own established Ross Sea subnet-hub role.
+**Proposed, corrected 2026-07-13:** the original version of this section proposed "a real, maintained connection" between the two cities grounded in shared Korean heritage — that overstates it. Janbogo remained a genuine Korean demographic and cultural center in Tepenia, alongside Sinheung in the Mirny subnet; Sejong's own Korean population diluted to 5.79%, its smallest Significant-tier nation, the same pattern already resolved at Sayowa/Shirayuki. Whatever connection exists is closer to historical footnote than living relationship — perhaps a single shared observance of Hangul Day, maintained more out of founding-era naming symmetry than genuine ongoing cultural kinship, with no meaningful mutual awareness beyond that. Each city's real cultural energy went entirely into its own immediate neighbors — Sejong into King George Island's dense multinational contrast, Janbogo into its own established Ross Sea subnet-hub role.
 
 ---
 

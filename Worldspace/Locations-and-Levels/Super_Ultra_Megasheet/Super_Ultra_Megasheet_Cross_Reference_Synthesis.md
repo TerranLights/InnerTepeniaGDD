@@ -6,7 +6,7 @@
 
 ## Finding 1: The Cradle network is the single thread connecting the most regions of the game to the single most important point — the player's own body
 
-**Combining:** Neumayer's uncredited design lineage (Halley subnet) + Byrd's and the currently-unnamed Korean city's active manufacturing (Byrd, Mirny subnet) + Denison's and Mountain Pass's historical manufacturing (Janbogo/Ross, Mirny subnets) + Mountain Pass's dependency on the Amundsen Tower's grid + the Tower's collapse (Amundsen Station) + the specific chamber, built at Mountain Pass, that created the player character at Calethina's lab (Concordia) (Cross-Regional Throughways, Throughway 1).
+**Combining:** Neumayer's uncredited design lineage (Halley subnet) + Byrd's and Sinheung's active manufacturing (Byrd, Mirny subnet) + Denison's and Mountain Pass's historical manufacturing (Janbogo/Ross, Mirny subnets) + Mountain Pass's dependency on the Amundsen Tower's grid + the Tower's collapse (Amundsen Station) + the specific chamber, built at Mountain Pass, that created the player character at Calethina's lab (Concordia) (Cross-Regional Throughways, Throughway 1).
 
 **2nd-order effect:** six of this document's eight regions are connected by one single, mechanically real supply chain, rather than by theme or coincidence — a genuinely unusual density of connection for any one thread in a game this large.
 

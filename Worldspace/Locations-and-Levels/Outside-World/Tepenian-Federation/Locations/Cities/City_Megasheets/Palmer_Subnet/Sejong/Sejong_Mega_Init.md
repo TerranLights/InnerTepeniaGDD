@@ -72,7 +72,7 @@ A densely populated enclave whose identity was forged almost entirely in relatio
 
 Carried forward from `Specs/Sejong.md` and `City_Vision_Notes/Sejong.md`, still genuinely unresolved:
 - The fate of the other King George Island national communities (Argentine, Brazilian, Chinese, Polish, Russian, Czech, Uruguayan) — separate city entries of their own, or folded into Sejong's story?
-- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
+- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside Sinheung in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
 - Whether the whole multinational coexistence experiment ultimately succeeded or produced real, lasting friction
 - A specific defining skyline/landmark structure for the "mini-Taipei" feel — asked directly, not yet answered
 - Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord") never fully developed

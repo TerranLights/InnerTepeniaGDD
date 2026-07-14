@@ -2,9 +2,9 @@
 
 **Based on:** Zhongshan Station (China / Chinese National Antarctic Research Expedition — CHINARE), Prydz Bay, Larsemann Hills area (~69°22'S, 76°22'E)
 **Status:** Damaged; partially operational
-**Arcanet Subnet:** Mirny ("Australian") *(corrected 2026-07-03 — this file previously said "Mawson." Then, 2026-07-05: Soyuz and Shirayuki — Zhongshan's own immediate Larsemann Hills neighbors — were moved to join Zhongshan in Mirny, resolving the earlier cross-subnet cluster split. See `TODO.md` for the full reasoning.)*
-**Highway access:** **Corrected 2026-07-06** — Zhongshan is **Hwy 110's western terminus** (Coastal Cut Highway: Zhongshan → Davis → Mirny → Casey → Concordia), sitting at a tri-junction connecting directly to both Hwy 4's and Hwy 22's endpoints, at the same physical location as Soyuz and the Shirayuki. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Mirny subnet (same subnet as Kunlun, and as of 2026-07-05, Soyuz and Shirayuki too); Sinian/Chinese-founded, broadly multinational overall composition. *(Note re-resolved 2026-07-06: this used to be framed as a contrast against Kunlun's "only exclusively Sinian city" status — that contrast no longer holds. Kunlun's population was re-derived away from single-nation exclusivity; see `Specs/Kunlun.md`. Zhongshan and Kunlun are both now multinational, for different reasons — Zhongshan through ordinary founding-wave/majority demographics, Kunlun through a curated space/astronomy/comms-heritage draw.)* Named after Sun Yat-sen — "Zhongshan" was Sun Yat-sen's courtesy name and is a major honorific in Chinese political culture; Chinese National Antarctic Research Expedition (CHINARE) heritage; one of the three Larsemann Hills cluster cities, all three now sharing the same Mirny subnet membership
+**Arcanet Subnet:** Mirny ("Australian") *(corrected 2026-07-03 — this file previously said "Mawson." Then, 2026-07-05: Sinheung and Shirayuki — Zhongshan's own immediate Larsemann Hills neighbors — were moved to join Zhongshan in Mirny, resolving the earlier cross-subnet cluster split. See `TODO.md` for the full reasoning.)*
+**Highway access:** **Corrected 2026-07-06** — Zhongshan is **Hwy 110's western terminus** (Coastal Cut Highway: Zhongshan → Davis → Mirny → Casey → Concordia), sitting at a tri-junction connecting directly to both Hwy 4's and Hwy 22's endpoints, at the same physical location as Sinheung and the Shirayuki. See `Locations/Infrastructure/Highways.md`.
+**Significance:** Mirny subnet (same subnet as Kunlun, and as of 2026-07-05, Sinheung and Shirayuki too); Sinian/Chinese-founded, broadly multinational overall composition. *(Note re-resolved 2026-07-06: this used to be framed as a contrast against Kunlun's "only exclusively Sinian city" status — that contrast no longer holds. Kunlun's population was re-derived away from single-nation exclusivity; see `Specs/Kunlun.md`. Zhongshan and Kunlun are both now multinational, for different reasons — Zhongshan through ordinary founding-wave/majority demographics, Kunlun through a curated space/astronomy/comms-heritage draw.)* Named after Sun Yat-sen — "Zhongshan" was Sun Yat-sen's courtesy name and is a major honorific in Chinese political culture; Chinese National Antarctic Research Expedition (CHINARE) heritage; one of the three Larsemann Hills cluster cities, all three now sharing the same Mirny subnet membership
 **DLC:** Mirny subnet *(corrected 2026-07-03, see above)*; damaged but partially operational
 
 ---
@@ -51,7 +51,7 @@
 
 ## Founding Population Adjustment (2026-07-06, three rounds)
 
-Unlike Soyuz's and Shirayuki's own re-resolutions the same day (both fixing a founding nation buried by the standard population/GDP tiering method), Zhongshan didn't have that problem — China already was the genuine founding-operator nation, correctly sitting at Primary tier. Instead, the developer made three rounds of smaller, non-structural adjustments, all aimed at further strengthening China's already-dominant position.
+Unlike Sinheung's and Shirayuki's own re-resolutions the same day (both fixing a founding nation buried by the standard population/GDP tiering method), Zhongshan didn't have that problem — China already was the genuine founding-operator nation, correctly sitting at Primary tier. Instead, the developer made three rounds of smaller, non-structural adjustments, all aimed at further strengthening China's already-dominant position.
 
 **Round 1:** UK was removed entirely, its 4.37% share added directly onto China's own (strengthening an already-dominant Primary position from 19.05% to 23.42%); Japan and Indonesia swapped shares with each other (Japan up to 9.30%, Indonesia down to 8.56%). A 0.02-point rounding gap was closed by adding it to China, landing at 23.44%.
 
@@ -63,7 +63,7 @@ Unlike Soyuz's and Shirayuki's own re-resolutions the same day (both fixing a fo
 
 ## Geographic Basis
 
-Zhongshan sits at nearly the same coordinates as Soyuz — both are in the Larsemann Hills, both face Prydz Bay. The two cities are immediate neighbors, their founding infrastructures within a few kilometers of each other. Together with the city based at the former Bharati Station location, the Larsemann Hills cluster is the Mirny subnet's equivalent of King George Island: multiple cities in extremely close proximity.
+Zhongshan sits at nearly the same coordinates as Sinheung — both are in the Larsemann Hills, both face Prydz Bay. The two cities are immediate neighbors, their founding infrastructures within a few kilometers of each other. Together with the city based at the former Bharati Station location, the Larsemann Hills cluster is the Mirny subnet's equivalent of King George Island: multiple cities in extremely close proximity.
 
 The Prydz Bay position gives Zhongshan maritime access to the broader East Antarctic coast and the Indian Ocean. Chinese icebreaker routes to Prydz Bay were among the most active Chinese Antarctic logistics operations in the pre-exile era; this maritime heritage carries into the exile city.
 
@@ -72,7 +72,7 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 ### Annual Climate
 
 **Climate data source:** Chinese National Antarctic Research Expedition (CHINARE) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1989–2026)  _https://legacy.bas.ac.uk/met/READER/_
-*Nearly identical to Soyuz — same Larsemann Hills location. Reference Soyuz.md for the monthly climate table.*
+*Nearly identical to Sinheung — same Larsemann Hills location. Reference Sinheung.md for the monthly climate table.*
 
 **Mean annual temperature:** -9.9°C  _(READER station: Zhongshan; 1991–2020 WMO standard normal)_
 **Polar night:** approximately May 22 → July 21 (~60 days)
@@ -92,20 +92,20 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 
 Zhongshan's character was shaped by the cluster and by the scale of the Sinian Federation's investment. The Chinese Antarctic program in the pre-exile era had become one of the most active and well-resourced in the world; the exile community inherited that investment as substantial infrastructure. Zhongshan was not a small city squeezed into borrowed infrastructure — it was built with the resources of a major program.
 
-**Corrected 2026-07-13:** this paragraph previously described "the immediate proximity to Soyuz (Russian) and the former-Shirayuki location (TBD nationality)" and a "Sinian-Russian relationship... two major powers in close proximity" — wrong on both counts. {{currently-unnamed Korean city}} (the "Soyuz" placeholder) is singularly Korean-founded via the Jeju-do court, not Russian — Russia was never more than the physical Progress Station's operator. Shirayuki is Japanese-founded, resolved 2026-07-08, not "TBD nationality." The immediate proximity to {{currently-unnamed Korean city}} and Shirayuki produced the Larsemann Hills cluster's inter-community dynamics — three cities, all founded via the same three-way Jeju-do partition among Japan, Korea, and the Sinian Federation, each now the singularly-dominant Primary-tier city for its own allocated nation. The cluster's real historical weight is diplomatic, not a two-power rivalry: three peer nations coordinating a shared claim before any of them ever set foot in Tepenia.
+**Corrected 2026-07-13:** this paragraph previously described "the immediate proximity to Sinheung (Russian) and the former-Shirayuki location (TBD nationality)" and a "Sinian-Russian relationship... two major powers in close proximity" — wrong on both counts. Sinheung (at the time tracked under the placeholder "Soyuz") is singularly Korean-founded via the Jeju-do court, not Russian — Russia was never more than the physical Progress Station's operator. Shirayuki is Japanese-founded, resolved 2026-07-08, not "TBD nationality." The immediate proximity to Sinheung and Shirayuki produced the Larsemann Hills cluster's inter-community dynamics — three cities, all founded via the same three-way Jeju-do partition among Japan, Korea, and the Sinian Federation, each now the singularly-dominant Primary-tier city for its own allocated nation. The cluster's real historical weight is diplomatic, not a two-power rivalry: three peer nations coordinating a shared claim before any of them ever set foot in Tepenia.
 
-**Nationally known for:** Sun Yat-sen's name. The Larsemann Hills cluster, alongside {{currently-unnamed Korean city}} and Shirayuki. Prydz Bay maritime access. The connection to Kunlun across the Mirny subnet — the two faces of Sinian Antarctic Tepenia.
+**Nationally known for:** Sun Yat-sen's name. The Larsemann Hills cluster, alongside Sinheung and Shirayuki. Prydz Bay maritime access. The connection to Kunlun across the Mirny subnet — the two faces of Sinian Antarctic Tepenia.
 
 ---
 
 ## Economy & Industry
-Prydz Bay maritime logistics, scientific research, cluster economy with Soyuz and the former-Shirayuki city. The Sinian Federation's investment gave Zhongshan more economic weight than its city size alone would suggest. Full detail TBD for DLC 7.
+Prydz Bay maritime logistics, scientific research, cluster economy with Sinheung and the former-Shirayuki city. The Sinian Federation's investment gave Zhongshan more economic weight than its city size alone would suggest. Full detail TBD for DLC 7.
 
 ---
 
 ## Notable Locations
 - **Prydz Bay harbor** — the primary maritime entry; the route Chinese icebreakers ran pre-exile
-- **The cluster boundary with {{currently-unnamed Korean city}}** — *(corrected 2026-07-13, was "the Sinian-Russian interface" — wrong; {{currently-unnamed Korean city}} is Korean-founded, not Russian)* the Sinian-Korean interface in the Larsemann Hills
+- **The cluster boundary with Sinheung** — *(corrected 2026-07-13, was "the Sinian-Russian interface" — wrong; Sinheung is Korean-founded, not Russian)* the Sinian-Korean interface in the Larsemann Hills
 - Additional locations: TBD for DLC 4
 
 ---
@@ -127,6 +127,6 @@ Zhongshan's legacy is the demonstration of scale — a Sinian Federation city in
 
 ## Open Questions
 - **The Sinian Federation's Tepenia-wide arc** — Zhongshan and Kunlun represent two very different Sinian Tepenian experiences: one in a dense coastal cluster, one at the highest, coldest, most spiritually significant point on the continent; how do these two communities relate to a shared Sinian identity?
-- **The Larsemann Hills cluster relationship** — *(corrected 2026-07-13, was "The Sinian-Russian cluster relationship" — wrong; see Character & Culture, above)* Zhongshan, {{currently-unnamed Korean city}}, and Shirayuki are immediate neighbors, all three founded via the same Jeju-do partition; the history of that three-way relationship is a key story now entirely within the Mirny subnet
+- **The Larsemann Hills cluster relationship** — *(corrected 2026-07-13, was "The Sinian-Russian cluster relationship" — wrong; see Character & Culture, above)* Zhongshan, Sinheung, and Shirayuki are immediate neighbors, all three founded via the same Jeju-do partition; the history of that three-way relationship is a key story now entirely within the Mirny subnet
 - **Demonym** — TBD; "Zhongshaners"? something Chinese?
 - **Notable figures** — TBD

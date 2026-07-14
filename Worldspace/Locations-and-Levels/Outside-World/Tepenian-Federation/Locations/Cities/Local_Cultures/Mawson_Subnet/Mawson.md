@@ -205,10 +205,10 @@ Filtered through Mawson's own established role as subnet hub and honeymoon desti
 
 ## 23. Relationship to Other Cities
 
-- **{{currently-unnamed Korean city, cf. Soyuz}} (east, Hwy 4):** Direct highway neighbor *(corrected 2026-07-14 — this entry previously named Shirayuki as the direct neighbor, contradicting `Locations/Infrastructure/Highways.md`'s authoritative route, Sayowa Junction → Mawson → {{currently-unnamed Korean city}} → Shirayuki, which places this city, not Shirayuki, immediately east of Mawson)*, though *(corrected 2026-07-05)* no longer a fellow Mawson subnet city — moved to Mirny subnet alongside Zhongshan; the highway connection persists regardless. See `TODO.md`.
-- **Shirayuki:** *(Corrected 2026-07-05)* No longer a fellow Mawson subnet city — moved to Mirny subnet, joining its immediate Larsemann Hills neighbors Zhongshan and {{currently-unnamed Korean city}}. *(Corrected 2026-07-14)* Connected via Hwy 4 through {{currently-unnamed Korean city, cf. Soyuz}} — Shirayuki is Hwy 4's eastern endpoint, one stop beyond Mawson's own direct neighbor.
+- **Sinheung (east, Hwy 4):** Direct highway neighbor *(corrected 2026-07-14 — this entry previously named Shirayuki as the direct neighbor, contradicting `Locations/Infrastructure/Highways.md`'s authoritative route, Sayowa Junction → Mawson → Sinheung → Shirayuki, which places this city, not Shirayuki, immediately east of Mawson)*, though *(corrected 2026-07-05)* no longer a fellow Mawson subnet city — moved to Mirny subnet alongside Zhongshan; the highway connection persists regardless. See `TODO.md`.
+- **Shirayuki:** *(Corrected 2026-07-05)* No longer a fellow Mawson subnet city — moved to Mirny subnet, joining its immediate Larsemann Hills neighbors Zhongshan and Sinheung. *(Corrected 2026-07-14)* Connected via Hwy 4 through Sinheung — Shirayuki is Hwy 4's eastern endpoint, one stop beyond Mawson's own direct neighbor.
 - **Sayowa:** Fellow Mawson subnet city, sharing the Indian Ocean-facing immigration pattern.
-- **Every Mawson subnet city:** As the confirmed subnet hub, Mawson's Arcanet connectivity ties every other Mawson subnet city together — a genuinely load-bearing structural relationship distinct from mere geographic proximity. *(As of 2026-07-05, this subnet is down to Mawson, Sayowa, and Dome Fuji — Soyuz and Shirayuki moved to Mirny.)*
+- **Every Mawson subnet city:** As the confirmed subnet hub, Mawson's Arcanet connectivity ties every other Mawson subnet city together — a genuinely load-bearing structural relationship distinct from mere geographic proximity. *(As of 2026-07-05, this subnet is down to Mawson, Sayowa, and Dome Fuji — Sinheung and Shirayuki moved to Mirny.)*
 
 ---
 

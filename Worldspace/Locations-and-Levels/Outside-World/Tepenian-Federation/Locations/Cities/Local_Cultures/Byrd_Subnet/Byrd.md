@@ -215,7 +215,7 @@ As the Byrd ("Pacific") subnet hub, likely carries real institutional weight —
 
 ## 25. Export Culture
 
-- **Fabrication-synthesis chambers — confirmed 2026-07-07:** one of Byrd's most consequential exports, though a quiet one relative to the city's own modest profile — the individual apparatus that physically creates robots, shipped nationwide as part of the Cradle infrastructure alongside {{currently-unnamed Korean city, cf. Soyuz}}'s own production.
+- **Fabrication-synthesis chambers — confirmed 2026-07-07:** one of Byrd's most consequential exports, though a quiet one relative to the city's own modest profile — the individual apparatus that physically creates robots, shipped nationwide as part of the Cradle infrastructure alongside Sinheung's own production.
 - The Rastra/Arrastradora tradition — the vehicle name that outlived its original vehicle, later repurposed for small orbital craft
 - Buried-city engineering expertise — genuine, hard-won knowledge of building for a shifting, unstable ice sheet
 - A specific *type of person* — comfortable with genuine self-sufficiency and isolation, recognizable by an ease with distance and difficulty that most Tepenians don't share

@@ -1,6 +1,6 @@
 # Zhongshan — Complete Megasheet
 
-The full, concatenated Zhongshan reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07. **Re-synced 2026-07-13** after that day's founding-story correction (Sino-Russian synthesis → singularly Chinese via Jeju-do) propagated through all three component files — see `project_zhongshan_singularly_chinese_resolution` memory for the full story. **Re-checked again 2026-07-13, second pass:** `Specs/Zhongshan.md` had been missed entirely by the original fix (still had the old "Soyuz (Russian)"/"TBD nationality" framing) despite this file and the three component files already being correct — now fixed to match. The Yekaterinburg inspiration pick, flagged below as possibly needing review, was checked and doesn't.
+The full, concatenated Zhongshan reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07. **Re-synced 2026-07-13** after that day's founding-story correction (Sino-Russian synthesis → singularly Chinese via Jeju-do) propagated through all three component files — see `project_zhongshan_singularly_chinese_resolution` memory for the full story. **Re-checked again 2026-07-13, second pass:** `Specs/Zhongshan.md` had been missed entirely by the original fix (still had the old "Sinheung (Russian)"/"TBD nationality" framing) despite this file and the three component files already being correct — now fixed to match. The Yekaterinburg inspiration pick, flagged below as possibly needing review, was checked and doesn't.
 
 ---
 
@@ -24,7 +24,7 @@ The full, concatenated Zhongshan reference — synthesis, then extrapolation, th
 |---|---|
 | **Real-world basis** | Zhongshan Station (China/CHINARE, 1989), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E) |
 | **Status** | Damaged, partially operational |
-| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with {{currently-unnamed Korean city}} and Shirayuki |
+| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Sinheung and Shirayuki |
 | **Population (Census II)** | 522,372 humans / 474,312 robots / 996,684 combined |
 | **Founding** | Sinian (Chinese) defectors who chose exile alongside robots over their own nation's ideology — the only Tepenian city where the founding operator nation is also the unbroken long-run demographic Primary |
 
@@ -70,7 +70,7 @@ Carried forward from `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhong
 - Demonym — "Zhongshaners"? something Chinese?
 - Four notable figures, all currently placeholders: the founding figure, the artisan tradition founder, the literary figure, and (already named) Ji-Eun Kim
 - Five notable landmarks, all currently placeholders: the original station structure, the primary archive, the rock formation, the artisan quarter, the counterculture district
-- The specific Long Night War strike on the Zhongshan/{{currently-unnamed Korean city}} cluster — resolved as damaged-but-functional, but what actually happened is still TBD
+- The specific Long Night War strike on the Zhongshan/Sinheung cluster — resolved as damaged-but-functional, but what actually happened is still TBD
 - A defining literary or musical premiere work — the piece considered to most completely express Zhongshan's cultural identity
 - Specific Prydz Bay fishing methods/species (flagged open in the Vision Notes)
 - No City Enneagram Personality profile exists yet
@@ -118,7 +118,7 @@ Following the Chinese place-name demonym convention already familiar in English 
 
 ## IV. What the Long Night War Strike Actually Did
 
-**Proposed, drawing on Yekaterinburg's real Cold War-era defense-industrial specialization:** Zhongshan's precision manufacturing sector (established at ~25% of Division of Industry) plausibly had some genuine strategic-value output — components or materials with applications beyond ordinary civilian use — making the city a deliberate target rather than incidental collateral damage, echoing the way a real heavy-industrial city's civilian and strategic production can be inseparable from the outside. The strike itself hit the Zhongshan/{{currently-unnamed Korean city}} cluster's shared infrastructure (the tri-junction highway node, established elsewhere as one physical location for both cities), consistent with both cities landing at "damaged but functional" rather than destroyed — significant, felt simultaneously by both communities, but not total.
+**Proposed, drawing on Yekaterinburg's real Cold War-era defense-industrial specialization:** Zhongshan's precision manufacturing sector (established at ~25% of Division of Industry) plausibly had some genuine strategic-value output — components or materials with applications beyond ordinary civilian use — making the city a deliberate target rather than incidental collateral damage, echoing the way a real heavy-industrial city's civilian and strategic production can be inseparable from the outside. The strike itself hit the Zhongshan/Sinheung cluster's shared infrastructure (the tri-junction highway node, established elsewhere as one physical location for both cities), consistent with both cities landing at "damaged but functional" rather than destroyed — significant, felt simultaneously by both communities, but not total.
 
 ---
 
@@ -136,7 +136,7 @@ Following the Chinese place-name demonym convention already familiar in English 
 
 ## Worth Your Attention
 
-Section IV is the most structurally useful proposal here — it gives the Zhongshan/{{currently-unnamed Korean city}} cluster's already-resolved "damaged but functional" war status a genuine, specific mechanism (precision manufacturing with strategic value, hit at the shared infrastructure node) rather than leaving "whatever the war did to this cluster" as a pure blank, which is exactly the kind of unaddressed placeholder this document exists to resolve.
+Section IV is the most structurally useful proposal here — it gives the Zhongshan/Sinheung cluster's already-resolved "damaged but functional" war status a genuine, specific mechanism (precision manufacturing with strategic value, hit at the shared infrastructure node) rather than leaving "whatever the war did to this cluster" as a pure blank, which is exactly the kind of unaddressed placeholder this document exists to resolve.
 
 ---
 
@@ -176,7 +176,7 @@ Section IV is the most structurally useful proposal here — it gives the Zhongs
 
 **Combining:** the real precedent of a grid-founded city undergoing centuries of organic industrial growth built onto and around its original planned core + Zhongshan's own established semi-gridlike street layout, "laid down early and never fully abandoned" + the newly-proposed Long Night War strike hitting the tri-junction/shared infrastructure node (Full Extrapolation, Section IV).
 
-**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, {{currently-unnamed Korean city}}, and Shirayuki — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
+**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, Sinheung, and Shirayuki — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
 
 **3rd-order effect:** this means the cluster's established "damaged but functional" status is best understood as damage concentrated specifically at the shared foundational infrastructure the whole cluster's layout was originally organized around, while the newer, organically-grown outer districts were more likely to have survived relatively intact simply by being structurally and geographically distant from that chokepoint.
 

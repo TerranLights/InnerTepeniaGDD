@@ -107,7 +107,7 @@ Larsemann Hills has some of the best microclimates on the East Antarctic coast �
 ### 18. Relationship to Other Cities
 - **Mirny:** Complicated. Mirny is the subnet hub; Zhongshan is larger and older and knows it. A respectful but quietly competitive relationship.
 - **Davis:** Close geographic proximity in Prydz Bay; similar East Asian composition but Davis has more Australian influence. Friendly rivalry.
-- **Soyuz (destroyed):** The Russian T2 community in Zhongshan would have particularly felt Soyuz's destruction — Soyuz was the primarily Russian-founded city nearby. Some of Soyuz's diaspora likely ended up in Zhongshan.
+- **Sinheung (destroyed):** The Russian T2 community in Zhongshan would have particularly felt Sinheung's destruction — Sinheung was the primarily Russian-founded city nearby. Some of Sinheung's diaspora likely ended up in Zhongshan.
 
 ### 19. Arcanet Culture
 - Heavy information culture, strong archival tradition

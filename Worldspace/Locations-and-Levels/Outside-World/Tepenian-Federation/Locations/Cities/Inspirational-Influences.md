@@ -80,7 +80,7 @@
 - Austin, Texas [SECONDARY]
 - Yekaterinburg, Russia [SECONDARY]
 
-##### {{currently-unnamed Korean city}} [[ex-Soyuz]]
+##### Sinheung [[ex-Sinheung]]
 - Daegu, South Korea [PRIMARY]
 - Córdoba, Argentina [SECONDARY]
 - Volgograd, Russia [SECONDARY]

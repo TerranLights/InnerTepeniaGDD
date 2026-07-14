@@ -19,7 +19,7 @@ Every highway's two endpoints, for fast lookup. "Endpoint" means the physical en
 | **4** | The Sayowa Junction *(connects directly to Hwy 7-ext's endpoint; near, not in, Sayowa)* | Shirayuki *(tri-junction with Hwy 110 and Hwy 22 endpoints)* |
 | **7** | Belgrano | Lazar |
 | **7-ext** | Lazar | The Sayowa Junction *(connects directly to Hwy 4's endpoint; near, not in, Sayowa)* |
-| **22** | Byrd *(connects directly to Hwy 1's endpoint)* | Zhongshan/Soyuz/Shirayuki tri-junction *(with Hwy 4 and Hwy 110 endpoints)* |
+| **22** | Byrd *(connects directly to Hwy 1's endpoint)* | Zhongshan/Sinheung/Shirayuki tri-junction *(with Hwy 4 and Hwy 110 endpoints)* |
 | **37** | The Sayowa Junction *(same three-way convergence point as Hwy 4 and Hwy 7-ext)* | Concordia *(tri-junction with Hwy 110 and Hwy 183 endpoints, via the outer ring)* |
 | **59** | Ramp with Hwy 7, between Halley and Abowasa | Ramp with Hwy 22, farther from South Pole than Hwy 175's ramp |
 | **110** | Zhongshan *(tri-junction with Hwy 4 and Hwy 22 endpoints)* | Concordia *(tri-junction with Hwy 37 and Hwy 183 endpoints, via the outer ring)* |
@@ -27,7 +27,7 @@ Every highway's two endpoints, for fast lookup. "Endpoint" means the physical en
 | **183** | Concordia *(tri-junction with Hwy 110 and Hwy 37 endpoints, via the outer ring)* | Dumont d'Urville *(connects directly to Hwy 2's endpoint)* |
 | **Neumayer connector** | Point on Hwy 7, between Abowasa and Sanay | Neumayer |
 
-Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongshan/Soyuz/Shirayuki tri-junction. Three others — 37, 110, and 183 — share one physical endpoint at Concordia. **Corrected 2026-07-06:** a fourth shared point exists too — Hwy 4, Hwy 7-ext, and Hwy 37 all converge at **the Sayowa Junction**, a genuine three-way highway crossing located *near* Sayowa rather than physically inside the city itself. A large dedicated connecting road (the Sayowa Spur) links the city proper to this junction. Every other highway's two endpoints are unique to that highway.
+Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongshan/Sinheung/Shirayuki tri-junction. Three others — 37, 110, and 183 — share one physical endpoint at Concordia. **Corrected 2026-07-06:** a fourth shared point exists too — Hwy 4, Hwy 7-ext, and Hwy 37 all converge at **the Sayowa Junction**, a genuine three-way highway crossing located *near* Sayowa rather than physically inside the city itself. A large dedicated connecting road (the Sayowa Spur) links the city proper to this junction. Every other highway's two endpoints are unique to that highway.
 
 ---
 
@@ -60,9 +60,9 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ---
 
-## Hwy 4 — Mawson-Soyuz Highway
+## Hwy 4 — Mawson-Sinheung Highway
 
-**Route:** The Sayowa Junction → Mawson → Soyuz → *(Shirayuki)*
+**Route:** The Sayowa Junction → Mawson → Sinheung → *(Shirayuki)*
 
 **Endpoints:** The Sayowa Junction (west) ↔ Shirayuki (east)
 
@@ -98,9 +98,9 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 22 — Transcontinental Highway
 
-**Route:** Byrd *(Amundsen Sea end)* → South Pole (Amundsen Station) → *(junction with Hwy 175)* → *(dual-junction with Hwy 37, bidirectional)* → *(junction with Hwy 59)* → Zhongshan/Soyuz/Shirayuki tri-junction
+**Route:** Byrd *(Amundsen Sea end)* → South Pole (Amundsen Station) → *(junction with Hwy 175)* → *(dual-junction with Hwy 37, bidirectional)* → *(junction with Hwy 59)* → Zhongshan/Sinheung/Shirayuki tri-junction
 
-**Endpoints:** Byrd (west) ↔ Zhongshan/Soyuz/Shirayuki tri-junction (east)
+**Endpoints:** Byrd (west) ↔ Zhongshan/Sinheung/Shirayuki tri-junction (east)
 
 - Byrd end **connects directly to Hwy 1's endpoint** there.
 - Passes directly through the South Pole (Amundsen Station).
@@ -208,7 +208,7 @@ A large, dedicated connecting road — not a minor ramp like the Neumayer connec
 |---|---|---|
 | Byrd | Hwy 1, Hwy 22 | Both highways' endpoints meet directly |
 | The Sayowa Junction | Hwy 4, Hwy 7-ext, Hwy 37 | **Corrected 2026-07-06:** genuine three-way crossing, located near Sayowa rather than in it; the Sayowa Spur (a large connecting road) links the city itself to this junction |
-| Zhongshan / Soyuz / Shirayuki | Hwy 4, Hwy 22, Hwy 110 | Tri-junction — all three endpoints converge here |
+| Zhongshan / Sinheung / Shirayuki | Hwy 4, Hwy 22, Hwy 110 | Tri-junction — all three endpoints converge here |
 | Concordia | Hwy 37, Hwy 110, Hwy 183 | Tri-junction via the outer ring linking Concordia's Capricorn and Sagittarius districts |
 | Dumont d'Urville | Hwy 2, Hwy 183 | Both highways' endpoints meet directly |
 | Near Janbogo | Hwy 175, Hwy 183 | Hwy 175's ramp with Hwy 183 sits here, far from Concordia despite Hwy 183 originating there |
@@ -230,7 +230,7 @@ Hwy 183 → junction with Hwy 175 (near Janbogo) → Hwy 175 → junction with H
 *(Established 2026-07-05, see `TODO.md`)* Hitchhiking is a genuinely valid, established way to get around Tepenia on a specific subset of highways — not a desperate last resort, but a normal travel option:
 
 - **Hwy 7** (Belgrano Highway)
-- **Hwy 4** (Mawson-Soyuz Highway)
+- **Hwy 4** (Mawson-Sinheung Highway)
 - **Hwy 110** (Coastal Cut Highway)
 - **Hwy 2** (Dumont Coast Highway)
 - A short segment of **Hwy 1**, specifically between Marambio and Rothera *(note: Rothera is now known to be reached via a ramp rather than the main line — this segment description may need revisiting once Hwy 1's ramp restructuring is fully reflected everywhere)*

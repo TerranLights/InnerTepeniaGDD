@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Mawson is the Mawson subnet's hub city, Australia's oldest continuously operating Antarctic station (since 1954), with an existing "The Name That Outlasted the Founders" identity — Australia founded the city and gave it its name, but China is the actual long-run demographic Primary (17.02%), with Australia sitting at Significant tier (8.29%), the same "founding nation buried behind China" pattern later confirmed at Shirayuki and Soyuz.
+Recap of what was already established going in: Mawson is the Mawson subnet's hub city, Australia's oldest continuously operating Antarctic station (since 1954), with an existing "The Name That Outlasted the Founders" identity — Australia founded the city and gave it its name, but China is the actual long-run demographic Primary (17.02%), with Australia sitting at Significant tier (8.29%), the same "founding nation buried behind China" pattern later confirmed at Shirayuki and Sinheung.
 
 ---
 
@@ -23,11 +23,11 @@ Recap of what was already established going in: Mawson is the Mawson subnet's hu
 ## Corrections/additions applied directly to other files this session
 
 - `Specs/Mawson.md` and `Local_Cultures/Mawson_Subnet/Mawson.md` — Social Contract (resort-town hospitality character), Who This City Attracts (ease of making friends), Human-Robot Relations (the honeymoon-destination detail, the primary placement for this vision), Division of Industry (hospitality/honeymoon tourism as a 10% economic sector), Notable Locations (public libraries), Visitor Experience (honeymooners as a real share of visitor traffic).
-- The "founding nation buried behind China" pattern (same as Shirayuki/Soyuz) was flagged for Mawson too — Australia at Significant tier behind China's Primary — but left as an open question, not corrected this session.
+- The "founding nation buried behind China" pattern (same as Shirayuki/Sinheung) was flagged for Mawson too — Australia at Significant tier behind China's Primary — but left as an open question, not corrected this session.
 
 ---
 
 ## Still open
 
-- Whether Mawson's own founding-nation demographic imbalance gets the same correction treatment Shirayuki and Soyuz received — developer's call, not yet decided
+- Whether Mawson's own founding-nation demographic imbalance gets the same correction treatment Shirayuki and Sinheung received — developer's call, not yet decided
 - Any specific honeymoon traditions, venues, or itinerary details beyond the general reputation

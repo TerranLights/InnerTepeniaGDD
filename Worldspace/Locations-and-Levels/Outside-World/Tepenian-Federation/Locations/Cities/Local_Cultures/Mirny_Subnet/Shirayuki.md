@@ -4,12 +4,12 @@
 
 ---
 
-**Subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Soyuz and Zhongshan, its Larsemann Hills cluster neighbors; real-world geography places the cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`.)* — Larsemann Hills cluster, alongside Soyuz and Zhongshan
-**Status:** Damaged; partially operational — resolved 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all effectively co-located or near enough that differing fates made no physical sense
+**Subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Sinheung and Zhongshan, its Larsemann Hills cluster neighbors; real-world geography places the cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`.)* — Larsemann Hills cluster, alongside Sinheung and Zhongshan
+**Status:** Damaged; partially operational — resolved 2026-07-03 alongside Sinheung and Zhongshan as the three Larsemann Hills cluster cities, all effectively co-located or near enough that differing fates made no physical sense
 **Census Population:** 576,469 humans / 601,844 robots / 1,178,313 combined (Census I, rank 12th); 336,124 humans / 392,200 robots / 728,324 combined (Census II, rank 17th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°24'S, 76°11'E)
 
-**One-liner:** *One of only two Tepenian cities founded by decree rather than by arrival* (corrected 2026-07-13 — previously "the only," before {{currently-unnamed Korean city}}'s identical Jeju-do founding was confirmed) *— an Upper Earth diplomatic allocation gave Japan a claim here before the exile ever began, and the mild, gentle climate that followed made it a natural home for research, art, and refinement rather than survival alone.*
+**One-liner:** *One of only two Tepenian cities founded by decree rather than by arrival* (corrected 2026-07-13 — previously "the only," before Sinheung's identical Jeju-do founding was confirmed) *— an Upper Earth diplomatic allocation gave Japan a claim here before the exile ever began, and the mild, gentle climate that followed made it a natural home for research, art, and refinement rather than survival alone.*
 
 ---
 
@@ -39,7 +39,7 @@ At the time, Korea already held claim to what would become multiple Tepenian foo
 
 ## 3. Climate Character
 
-The Larsemann Hills oasis — shared with Soyuz — offers one of the mildest, most delicate climates in the Mirny subnet: mean annual temperature around −10°C, summer highs crossing above freezing, and notably gentle precipitation (rarely exceeding 26mm in a given month, at modest probability). This is genuinely calm weather by Antarctic standards — present, but never violent, without the harsh storm regimes or extreme dryness found elsewhere in Tepenia.
+The Larsemann Hills oasis — shared with Sinheung — offers one of the mildest, most delicate climates in the Mirny subnet: mean annual temperature around −10°C, summer highs crossing above freezing, and notably gentle precipitation (rarely exceeding 26mm in a given month, at modest probability). This is genuinely calm weather by Antarctic standards — present, but never violent, without the harsh storm regimes or extreme dryness found elsewhere in Tepenia.
 
 ---
 
@@ -79,7 +79,7 @@ This city's founding identity is genuinely unusual: it exists because Upper Eart
 ## 7. Who This City Attracts
 
 - **The type this city draws:** researchers, educators, scientists, artists, musicians, and fashion designers — genuinely varied personalities and life paths, supported by a mild, gentle setting that doesn't force any one kind of person to thrive here over another.
-- **Vision session, 2026-07-06 — the schools specifically:** all three Larsemann Hills cluster cities (this one, Soyuz, and Zhongshan) have genuinely high-quality schools, but this city's draw students from across all of Tepenia — not primarily for academic ranking, but for the culture and soul of the place itself. Students come here because of what the city *is*, and the schools are the entry point into that rather than the whole draw.
+- **Vision session, 2026-07-06 — the schools specifically:** all three Larsemann Hills cluster cities (this one, Sinheung, and Zhongshan) have genuinely high-quality schools, but this city's draw students from across all of Tepenia — not primarily for academic ranking, but for the culture and soul of the place itself. Students come here because of what the city *is*, and the schools are the entry point into that rather than the whole draw.
 - **Vision session, 2026-07-06:** it's genuinely easy to make friends here — a welcoming, socially low-friction city, consistent with its whole "varied life paths, no dominant civic type" character.
 - **The type this city repels:** anyone seeking harsh survival stakes or dramatic environmental hostility as a defining civic experience — this city has never offered that, and its whole identity runs the opposite direction.
 
@@ -154,7 +154,7 @@ A genuine, cultivated musical culture — the calm setting and institutional dep
 - Scientific / research: 25% — genuine institutional depth supported by the calm setting
 - Education: 20% — real educational institutions, a civic strength
 - Arts, music, and fashion / cultural institutions: 25% — a genuine defining sector, not a side interest
-- Commercial / trade: 15% — cluster economy with Soyuz and Zhongshan
+- Commercial / trade: 15% — cluster economy with Sinheung and Zhongshan
 - Other: 15%
 
 ---
@@ -208,9 +208,9 @@ Genuinely unique among Tepenian cities: its very existence traces directly to an
 
 ## 23. Relationship to Other Cities
 
-- **Soyuz and Zhongshan (Larsemann Hills cluster):** Close cluster neighbors, now consistently resolved as damaged-but-functional alongside this city — genuine daily cross-community contact, similar in spirit to Sejong's own King George Island density.
+- **Sinheung and Zhongshan (Larsemann Hills cluster):** Close cluster neighbors, now consistently resolved as damaged-but-functional alongside this city — genuine daily cross-community contact, similar in spirit to Sejong's own King George Island density.
 - **Sayowa:** The other Japanese Tepenian city, but with a genuinely different founding mechanism — Sayowa inherited its own real JARE station organically; this city exists because Upper Earth diplomacy decided it should. Two Japanese communities shaped by entirely different founding stories, and — since this city's move to the Mirny subnet 2026-07-05 — now in different subnets as well, a new wrinkle in the comparison that wasn't there before.
-- **Mawson (the city):** Connected via Hwy 4 through Soyuz — a physical highway link that persists even though this city and Mawson are no longer the same Arcanet subnet, following the 2026-07-05 reassignment.
+- **Mawson (the city):** Connected via Hwy 4 through Sinheung — a physical highway link that persists even though this city and Mawson are no longer the same Arcanet subnet, following the 2026-07-05 reassignment.
 
 ---
 
@@ -259,14 +259,14 @@ Becoming a local here means finding a genuine place among the city's varied purs
 ## 29. Notable Local Landmarks
 
 - **The Bharati Station physical infrastructure** — the newest real-world design in the Larsemann Hills cluster, adapted over generations toward research and creative institutions
-- **Larsemann Hills terrain** — the ice-free oasis, meltwater lakes, and Prydz Bay access shared with Soyuz
-- **The cluster boundary zones** — where this city's territory meets Soyuz and Zhongshan
+- **Larsemann Hills terrain** — the ice-free oasis, meltwater lakes, and Prydz Bay access shared with Sinheung
+- **The cluster boundary zones** — where this city's territory meets Sinheung and Zhongshan
 
 ---
 
 ## 30. Significant Local Events
 
-- **The Long Night War damage** — resolved 2026-07-03 alongside Soyuz and Zhongshan as consistently damaged but partially operational, given the physical implausibility of differing outcomes among effectively co-located or near-adjacent cluster cities. Exact extent of damage TBD for DLC 4 design.
+- **The Long Night War damage** — resolved 2026-07-03 alongside Sinheung and Zhongshan as consistently damaged but partially operational, given the physical implausibility of differing outcomes among effectively co-located or near-adjacent cluster cities. Exact extent of damage TBD for DLC 4 design.
 - **The Jeju-do allocation** — the founding diplomatic decision itself, made before the exile era began; exact date and whether it was contested by China or Korea at the time remain open questions.
 
 ---

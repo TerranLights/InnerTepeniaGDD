@@ -1,8 +1,8 @@
 # Founding-Nation Bug Investigation Methodology
 
 **What this is:** the reusable playbook for the country-wide culture re-check flagged BLOCKING in
-`TODO.md`, written up 2026-07-13 after resolving Zhongshan, {{currently-unnamed Korean city}}
-(files: `Soyuz`), and Shirayuki. Apply this exact process to every remaining city on that checklist
+`TODO.md`, written up 2026-07-13 after resolving Zhongshan, Sinheung
+(files: `Sinheung`), and Shirayuki. Apply this exact process to every remaining city on that checklist
 — it was refined through several real course-corrections on the first two cities and should not
 need to be re-derived from scratch again.
 
@@ -78,11 +78,12 @@ its specific form using this sequence, in order:
 instead of its own current, established facts.** Concrete pattern, found three times so far:
 
 - Zhongshan's founding story cited "proximity to the former Russian Progress Station" — but
-  Progress Station is a *different city's* ({{currently-unnamed Korean city}}'s) founding site, and
+  Progress Station is a *different city's* (Sinheung's) founding site, and
   that city's population was independently re-derived to Korean-Primary, not Russian.
-- {{currently-unnamed Korean city}}'s entire document assumed a "dual Russian-Korean founding" and
+- Sinheung's entire document assumed a "dual Russian-Korean founding" and
   that the founders chose the name "Soyuz" — neither true; the city is singularly Korean-founded via
-  Jeju-do, and the name was never chosen by anyone who actually lived there.
+  Jeju-do, and "Soyuz" was a leftover placeholder never chosen by anyone who actually lived there
+  (the city was later officially named Sinheung, 2026-07-14).
 - Shirayuki repeatedly paired "Chinese and Japanese" as joint cultural threads (cuisine, music,
   fashion, a proposed music genre) despite China being the *smallest* of its five Significant-tier
   nations — a stale assumption surviving from before a population correction, never swept.
@@ -91,7 +92,7 @@ instead of its own current, established facts.** Concrete pattern, found three t
 
 - **Unsupported tier annotations.** A tier table entry tagged "(founding wave)" or similar with
   *no supporting text anywhere in that city's own Founding Story section*. Found and removed twice
-  (Australia in {{currently-unnamed Korean city}}, Russia in Shirayuki) — both were leftover labels
+  (Australia in Sinheung, Russia in Shirayuki) — both were leftover labels
   whose own justification had quietly disappeared or never existed. **Always cross-check every
   tier-table annotation against the actual Founding Story prose, not just against itself.**
 - **Stale demographic assumptions in creative-content sections.** Cuisine/Music/Fashion/Arts
@@ -153,21 +154,21 @@ instead of its own current, established facts.** Concrete pattern, found three t
   *related* cities, missed because one of them was created/resolved after the count was originally
   written. Found at Sejong ("Janbogo is Korea's only other demographic center" — actually two
   others) and, wider, at Janbogo itself ("Tepenia's two Korean cities" — actually three, omitting
-  {{currently-unnamed Korean city}}), including inside a full proposed creative section
+  Sinheung), including inside a full proposed creative section
   (`Janbogo_Full_Extrapolation.md`'s "Sejong Relationship" section, built entirely on a two-city
   premise). **When a city's file claims to be one of N sibling cities sharing some trait (same
   founding nation, same real-world basis, same structural role), verify N against a project-wide
   grep for that trait — don't trust the count as given, especially if any sibling was resolved or
   significantly changed after the claiming file was last touched.** Also surfaced a related, useful
   precedent: not every sibling relationship needs to resolve to the same shape — Janbogo/Sejong kept
-  a "limited ceremonial contact" relationship while {{currently-unnamed Korean city}} genuinely had
+  a "limited ceremonial contact" relationship while Sinheung genuinely had
   none (different founding mechanism, different subnet, no established connection) — a three-way
   count doesn't require a uniform three-way relationship.
 
 **A cousin of the sibling-city omission pattern, found re-checking Shirayuki a third time
 2026-07-13: sibling-exclusivity overclaims.** Where omission bugs undercount siblings ("two Korean
 cities" when there are three), this pattern overclaims exclusivity — "the only Tepenian city founded
-via institutional diplomatic engineering," when {{currently-unnamed Korean city}} shares the
+via institutional diplomatic engineering," when Sinheung shares the
 identical Jeju-do mechanism. Found in five separate locations across Shirayuki's own files
 (a headline One-liner, a Cross-Reference finding's core argument, a Full Extrapolation section, and
 two dated Specs claims), none caught across two prior re-check passes — this kind of claim hides
@@ -175,17 +176,17 @@ well because each individual file reads as internally consistent; only cross-che
 *other* city's own corrected file surfaces it. **When a city's file claims to be "the only" one of
 something, grep the rest of the corpus for the same claim before trusting it — the same way sibling
 counts need verifying.** A developer catch of a stale section *heading* (not body text — "The Early
-Relationship With Soyuz and Zhongshan," bare "Soyuz" instead of the bracket convention) then
+Relationship With Sinheung and Zhongshan," bare "Sinheung" instead of the bracket convention) then
 triggered a repo-wide heading grep, which surfaced a serious, unrelated bug entirely outside
 Shirayuki's own files: Mirny's own Section VIII described "the two Russian communities" between
-Mirny and {{currently-unnamed Korean city}} as a defining relationship — wrong, since
-{{currently-unnamed Korean city}} was never Russian-founded. Mirny wasn't even on that day's
+Mirny and Sinheung as a defining relationship — wrong, since
+Sinheung was never Russian-founded. Mirny wasn't even on that day's
 checklist. **Headings need the same naming-convention check as body prose — they're easy to
 overlook precisely because they read as labels rather than claims.** See
 [[project_shirayuki_recheck_exclusivity_and_mirny_bug]].
 
 **The widest-blast-radius bug found in this entire sweep, discovered on a third re-check of
-{{currently-unnamed Korean city}}, 2026-07-13: staleness compounds upward through synthesis layers
+Sinheung, 2026-07-13: staleness compounds upward through synthesis layers
 that cite lower layers without re-verifying them.** Every prior fix in this methodology targeted a
 single city's own files. This one was different: a `Mirny_Subnet_Ultra_Megasheet` (6 files,
 subnet-wide, never previously checked) was built extensively on the pre-correction "dual founding"/
@@ -285,7 +286,7 @@ claimed it.
 8. **When founding-nation ≠ current-Primary-nation, check for precedent before inventing a
    resolution.** Sayowa (Japan-founded, later demographically diluted by ordinary Chinese
    immigration) is the established precedent pattern for organic dilution — different in kind from
-   {{currently-unnamed Korean city}}'s pattern (founder and current-Primary are the same nation,
+   Sinheung's pattern (founder and current-Primary are the same nation,
    Korea, just not the nation that physically built the station). Don't assume every
    founder/current-nation mismatch needs the same fix; check which pattern actually applies.
 9. **Confirm the resolution direction with the user before rewriting**, especially when the fix
@@ -308,7 +309,7 @@ claimed it.
     they're not filed under the city. This applies equally to `Worldspace/Factions/*.md` — confirmed
     the same day, one city's own re-check later: `City_Origin_Factions_Second_Interwar.md`'s
     Larsemann Hills Compact section had three stacked founding-nation errors (including a previously
-    unseen "dual Russian and Australian founding" variant for {{currently-unnamed Korean city}}) that
+    unseen "dual Russian and Australian founding" variant for Sinheung) that
     directly violated that document's own stated method banning founding-nation-as-causal-explanation.
 12. **On a late re-check pass, run at least one repo-wide grep for the city's name with no path
     restriction — not just within `Locations/Cities/`.** Confirmed at {{currently-unnamed Korean
@@ -378,8 +379,8 @@ claimed it.
     discovery and the resulting correction across five cities' tracker entries.
 17. **Headline summary fields — One-liners, opening taglines, "Hard Facts" table headers — need the
     same explicit check as section headings, not just body prose.** Confirmed the hard way at
-    {{currently-unnamed Korean city}}'s fourth re-check pass (2026-07-13): `Local_Cultures/
-    Mirny_Subnet/Soyuz.md`'s own One-liner — the single most prominent line in the entire 32-section
+    Sinheung's fourth re-check pass (2026-07-13): `Local_Cultures/
+    Mirny_Subnet/Sinheung.md`'s own One-liner — the single most prominent line in the entire 32-section
     file, sitting *above* every section — still read "a city that named itself after a spacecraft...
     ambition chosen deliberately over nostalgia," the exact self-naming error already corrected two
     pages below it in that same file's own Section 2. Three prior full re-reads of this file missed
@@ -463,7 +464,7 @@ claimed it.
     some passes explicitly eyeballed the tier table, most didn't think to. A ~40-line Python script
     parsing every city's own "Per-Nation Breakdown" table and checking the tier-boundary invariant
     found **6 previously-undetected instances in a single run** (Belgrano, Halley, Concordia, Dumont
-    d'Urville, Juan Carlos, Soyuz), on top of the 7 already known from scattered manual catches. A
+    d'Urville, Juan Carlos, Sinheung), on top of the 7 already known from scattered manual catches. A
     judgment call ("does this city's culture-writing correctly attribute a practice?") genuinely needs
     a human read; a mechanical invariant ("does every Significant-tier share exceed every Notable-tier
     share?") does not, and manual checking of mechanical invariants is exactly where inconsistent
@@ -572,12 +573,12 @@ at all by definition.
 
 ## 5. Naming convention for cities awaiting a real name
 
-When a city's current filename/placeholder name (e.g. "Soyuz") was never actually chosen by the
+When a city's current filename/placeholder name (e.g. "Sinheung") was never actually chosen by the
 population that lives there — verify this against the Founding Story before assuming it — refer to
 the city as **`{{currently-unnamed [Nationality] city}}`** in conversation and in new prose, per
 `feedback_currently_unnamed_korean_city_label` memory. Keep using the underlying filename for file
 paths and cross-references; only the *prose label* changes. This convention already existed in
-`Tri-Cities_Region.md` and `Inspirational-Influences.md` (as `{{ex-Soyuz}}`) before this session
+`Tri-Cities_Region.md` and `Inspirational-Influences.md` (as `{{ex-Sinheung}}`) before this session
 independently reinvented it — check for an existing bracket-placeholder convention before assuming
 one needs to be created.
 
@@ -592,7 +593,7 @@ by the original fix — see [[project_zhongshan_recheck_specs_gap]] for the full
 methodological lesson. Developer directive: *"checking, double-checking, triple-checking,
 quadruple-checking, quintuple-checking every single city... only the developer will clear a city
 back to `[x]`."* Cities with substantive work already done this session (Zhongshan re-fixed;
-Janbogo, Zukelli, Casey, Shirayuki, {{currently-unnamed Korean city}}, Juan Carlos, Sejong from
+Janbogo, Zukelli, Casey, Shirayuki, Sinheung, Juan Carlos, Sejong from
 earlier passes) remain at `[~]` regardless of how clean a re-check finds them — re-verifying a city
 and finding it fine does not itself restore `[x]`. Do not proceed to non-checklist work until every
 city is confirmed by the developer.

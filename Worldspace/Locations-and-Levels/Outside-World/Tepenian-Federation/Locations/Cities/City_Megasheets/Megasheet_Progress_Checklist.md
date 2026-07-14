@@ -51,7 +51,7 @@ Tracks which of Tepenia's 35 cities have gone through the full Megasheet process
 - [x] **Vostok** — done 2026-07-07
 - [x] **Kunlun** — done 2026-07-07
 - [x] **Zhongshan** — done 2026-07-07
-- [x] **{{currently-unnamed Korean city; cf. Soyuz}}** — done 2026-07-07
+- [x] **Sinheung** — done 2026-07-07
 - [x] **Shirayuki** — done 2026-07-07
 - [x] **Mirny Subnet Ultra-Megasheet** — done 2026-07-10; cross-city Patterns + Throughways plus a full Mega-Init/Full Extrapolation/Cross-Reference Synthesis at `Mirny_Subnet/Mirny_Subnet_Ultra_Megasheet/`, including the project's first direct traceable link from subnet-level worldbuilding to the player character's own origin (the Cradle network, via Vostok/Kunlun's Mountain Pass), and a war-damage taxonomy resolving to one principle vs. Janbogo/Ross subnet's two
 

@@ -4,7 +4,7 @@
 
 ## Major Theme: Instinctive (Gut)
 
-Dome Fuji's vision session described a Zen-like peace where "the air and sky itself" seem to participate in meditation alongside the devotees — the aurora could hang frozen and it wouldn't feel out of character. This is a very specific flavor of Gut-center energy: not the forceful assertion of Soyuz or the quiet self-sufficiency of Zhongshan, but a merging quality — dissolving the boundary between self and environment, a felt connection to "something larger than anybody, or even the sum of everybody." That's presence and *being* taken to their most complete expression, not analysis or self-image.
+Dome Fuji's vision session described a Zen-like peace where "the air and sky itself" seem to participate in meditation alongside the devotees — the aurora could hang frozen and it wouldn't feel out of character. This is a very specific flavor of Gut-center energy: not the forceful assertion of Sinheung or the quiet self-sufficiency of Zhongshan, but a merging quality — dissolving the boundary between self and environment, a felt connection to "something larger than anybody, or even the sum of everybody." That's presence and *being* taken to their most complete expression, not analysis or self-image.
 
 ## Hornevian Group: Withdrawn
 

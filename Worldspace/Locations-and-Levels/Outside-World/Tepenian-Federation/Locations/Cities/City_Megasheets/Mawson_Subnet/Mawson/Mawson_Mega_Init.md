@@ -2,7 +2,7 @@
 
 **Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Mawson.md`, `Local_Cultures/Mawson_Subnet/Mawson.md`, `City_Vision_Notes/Mawson.md`, `City_Enneagram_Personalities/Mawson_Subnet/Mawson.md`, and real-world research on its four inspirational picks (Odessa, Varna, Trogir, Jeju City). Compiled 2026-07-07.
 
-**Note on this city's own unusual depth:** like Zhongshan and {{the Korean city, cf. Soyuz}}, Mawson's Local Cultures file is already a fully-realized 32-section document with almost no TBD gaps — "The Name That Outlasted the Founders" is a genuinely complete civic identity. This Mega-Init's job is correspondingly less about filling large gaps and more about reinforcing what's already there with real-world grounding, and resolving the small number of genuine remaining TBDs.
+**Note on this city's own unusual depth:** like Zhongshan and {{the Korean city, cf. Sinheung}}, Mawson's Local Cultures file is already a fully-realized 32-section document with almost no TBD gaps — "The Name That Outlasted the Founders" is a genuinely complete civic identity. This Mega-Init's job is correspondingly less about filling large gaps and more about reinforcing what's already there with real-world grounding, and resolving the small number of genuine remaining TBDs.
 
 ---
 
@@ -18,7 +18,7 @@
 |---|---|
 | **Real-world basis** | Mawson Station (Australia/AAD, 1954), Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) |
 | **Status** | Damaged, partially operational — the subnet hub |
-| **Subnet** | Mawson — hub city, Hwy 4 between the Sayowa Junction and Soyuz |
+| **Subnet** | Mawson — hub city, Hwy 4 between the Sayowa Junction and Sinheung |
 | **Population (Census II)** | 427,321 humans / 525,125 robots / 952,446 combined |
 | **Founding** | Australian exiles on Mawson Station's infrastructure — the longest unbroken human occupation of any Tepenian city, since 1954 |
 
@@ -77,7 +77,7 @@ Carried forward from `Specs/Mawson.md` and `Local_Cultures/Mawson_Subnet/Mawson.
 - Whether Mawson still claims any form of Australian Antarctic Territory authority post-Split-Brain
 - Demonym — "Mawsonites"? something Australian?
 - Notable figures — currently entirely TBD
-- Whether Mawson's own founding-nation demographic imbalance (Australia buried behind China) gets the same correction treatment Shirayuki and Soyuz received — explicitly flagged as the developer's own call, not yet decided
+- Whether Mawson's own founding-nation demographic imbalance (Australia buried behind China) gets the same correction treatment Shirayuki and Sinheung received — explicitly flagged as the developer's own call, not yet decided
 - Specific honeymoon traditions, venues, or itinerary details beyond the general reputation
 
 **New, surfaced by this research pass:** whether Mawson's own warm, celebratory civic reputation sits atop any unacknowledged historical weight of its own, echoing Jeju's real layered history — not necessarily anything as severe, but worth considering whether the city's genuine peace with its founding-tension gap is entirely as settled as Section 5b currently states, or whether there's a quieter, less-examined layer underneath.

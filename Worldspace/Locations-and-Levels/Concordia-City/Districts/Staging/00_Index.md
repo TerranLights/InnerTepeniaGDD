@@ -48,7 +48,7 @@ Go through these one at a time. Nothing here has been written into the actual di
 
 | # | File | Thread | Status |
 |---|------|--------|--------|
-| 7 | `07_Capricorn_Robot_Rights_National_Parallel.md` | Capricorn's underground robot-rights movement gains a radicalizing national parallel via the Cradle-Keepers (Neumayer/Byrd/Soyuz) | 🟡 |
-| 8 | `08_Virgo_National_Kinship_Recognition.md` | Virgo's "invisible labor, no credit" wound could recognize kinship with Neumayer/Byrd/Soyuz instead of feeling uniquely isolated | 🟡 |
+| 7 | `07_Capricorn_Robot_Rights_National_Parallel.md` | Capricorn's underground robot-rights movement gains a radicalizing national parallel via the Cradle-Keepers (Neumayer/Byrd/Sinheung) | 🟡 |
+| 8 | `08_Virgo_National_Kinship_Recognition.md` | Virgo's "invisible labor, no credit" wound could recognize kinship with Neumayer/Byrd/Sinheung instead of feeling uniquely isolated | 🟡 |
 | 9 | `09_Sagittarius_Long_Haul_Parallel.md` | Sagittarius' frontier/caravan economy is structurally identical to the Long Haul network (Belgrano/Byrd/Sayowa/Lazar/Troll) but gets no comparable national respect | 🟡 — deepened by the Sagittarius deep dive (`../Deep_Dives/11_Sagittarius_Deep_Dive.md`): the caravan network plausibly proved indispensable during the war's frontier defense too, a second "proof without payoff" case alongside Pisces |
 | 10 | `10_Hub_Bridge_Memorial_Sayowa_Reading.md` | The Bridge Memorial's district-by-district readings could gain an eighth: a pragmatic "preserved because it serves everyone" reading via Sayowa-descended Hub-born residents | 🟡 |

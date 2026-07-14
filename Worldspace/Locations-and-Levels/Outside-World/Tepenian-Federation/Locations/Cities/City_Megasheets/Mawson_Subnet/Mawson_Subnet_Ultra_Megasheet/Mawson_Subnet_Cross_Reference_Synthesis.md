@@ -30,7 +30,7 @@
 
 ## Finding 3: This subnet's own cities are more deeply connected to their neighbors than to each other
 
-**Combining:** Sayowa's own established bridging role toward Halley subnet (Princess Elisabeth, the Hwy 7-ext corridor) + Dome Fuji's own theological and personality relationship to Kunlun, a Mirny subnet city (`Mawson_Cross_City_Throughways.md`, Throughway 1) + the historical Troll–Soyuz–Dome Fuji aviation supply chain, spanning three separate subnets (Throughway 3) + Mawson's own Hwy 4 connection toward the same Mirny subnet cluster.
+**Combining:** Sayowa's own established bridging role toward Halley subnet (Princess Elisabeth, the Hwy 7-ext corridor) + Dome Fuji's own theological and personality relationship to Kunlun, a Mirny subnet city (`Mawson_Cross_City_Throughways.md`, Throughway 1) + the historical Troll–Sinheung–Dome Fuji aviation supply chain, spanning three separate subnets (Throughway 3) + Mawson's own Hwy 4 connection toward the same Mirny subnet cluster.
 
 **2nd-order effect:** every one of this subnet's three cities has a more developed, more consequential relationship with a city in a neighboring subnet than with either of its own two subnet-mates.
 

@@ -272,7 +272,7 @@ Becoming a Belgrano resident means being absorbed into the operational and maint
 ## 30. Significant Local Events
 
 - **The founding (post-1979 Air Force base, post-Falkland Treaty exile settlement)** — establishment of Belgrano as the Halley subnet's primary aviation hub
-- **The Long Night War** — Belgrano survived the war intact, unlike Zukelli and Denison, which were destroyed outright *(corrected 2026-07-05 — this line previously also named Soyuz here; Soyuz was damaged, not destroyed, see `TODO.md`)*; what happens afterward is a separate, post-war chapter of the city's story, not part of its living second interwar identity (see `City_Origin_Factions_PostWar_Refugee.md`)
+- **The Long Night War** — Belgrano survived the war intact, unlike Zukelli and Denison, which were destroyed outright *(corrected 2026-07-05 — this line previously also named Sinheung here; Sinheung was damaged, not destroyed, see `TODO.md`)*; what happens afterward is a separate, post-war chapter of the city's story, not part of its living second interwar identity (see `City_Origin_Factions_PostWar_Refugee.md`)
 - **The Byrd Expedition** *(established 2026-07-03)* — Belgrano's archives held the richest documentary record pointing to Byrd Station's location; Palmer City and Rothera shipped their own supporting records across the Weddell Sea once word of the expedition spread; Belgrano's industrial/airbase capacity built "las Arrastradoras" (ancestor of the now-international "Rastra"), Tepenia's first native overland vehicles, and an all-robot crew drove them out from the city on the founding crossing that discovered the buried underground city at Byrd
 
 ---

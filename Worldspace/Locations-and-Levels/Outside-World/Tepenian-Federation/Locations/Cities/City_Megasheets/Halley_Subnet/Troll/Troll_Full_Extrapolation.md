@@ -40,7 +40,7 @@
 
 ## VI. Fabrication Chambers Passing Through Troll's Freight Network: Plausible, Secondary Use
 
-**Proposed, directly answering the question surfaced in the Mega-Init:** yes, plausibly, but as secondary rather than primary traffic. Soyuz already has its own dedicated, direct aviation route to Dome Fuji specifically for chamber and general supply delivery — that route wouldn't run through Troll. But given Troll's established centrality to the whole Halley subnet's actual goods-distribution logic, it's plausible that Soyuz-manufactured chambers destined for other cities beyond Dome Fuji's own dedicated route would have historically passed through Troll's broader freight network at some point, incidental rather than dedicated traffic layered onto everything else the airfield already moves.
+**Proposed, directly answering the question surfaced in the Mega-Init:** yes, plausibly, but as secondary rather than primary traffic. Sinheung already has its own dedicated, direct aviation route to Dome Fuji specifically for chamber and general supply delivery — that route wouldn't run through Troll. But given Troll's established centrality to the whole Halley subnet's actual goods-distribution logic, it's plausible that Sinheung-manufactured chambers destined for other cities beyond Dome Fuji's own dedicated route would have historically passed through Troll's broader freight network at some point, incidental rather than dedicated traffic layered onto everything else the airfield already moves.
 
 ---
 

@@ -49,7 +49,7 @@ Two cities (Kunlun, Dome Fuji) are flagged as lower-confidence, atypical cases �
 | Zhongshan | Mirny | Libra | Virgo | Taurus |
 | Shirayuki | Mirny | Leo | Aquarius | Pisces |
 | Davis | Mirny | Virgo | Taurus | Capricorn |
-| Soyuz | Mirny | Aquarius | Capricorn | Libra |
+| Sinheung | Mirny | Aquarius | Capricorn | Libra |
 | Vostok *(low-confidence — Megasheet itself is mostly proposed extrapolation)* | Mirny | Aquarius | Scorpio | Sagittarius |
 | Kunlun *(atypical)* | Mirny | Aquarius | Capricorn | Libra |
 | Byrd | Byrd | Virgo | Sagittarius | Capricorn |
@@ -67,9 +67,9 @@ Two cities (Kunlun, Dome Fuji) are flagged as lower-confidence, atypical cases �
 | Leo | Palmer City, Dumont d'Urville, Casey, Shirayuki | Juan Carlos, Janbogo (city), Zukelli | Denison, Mawson |
 | Scorpio | *(none — see Stage 2 Overrides)* | Vostok | Marambio, Scott |
 | Aries | Troll, Denison | Belgrano | — |
-| Capricorn | Neumayer, Marambio, Rothera | Troll, Fort McMurdo, Soyuz, Kunlun | Belgrano, Sanay, Sejong, Davis, Byrd |
-| Aquarius | Halley, Soyuz, Vostok, Kunlun | Marambio, Shirayuki | Juan Carlos, Dome Fuji |
-| Libra | Sejong, Juan Carlos, Zhongshan | Halley, Neumayer, Palmer City, Fort McMurdo, Mirny (city), Soyuz, Kunlun | Abowasa, Cape Adare, Janbogo (city) |
+| Capricorn | Neumayer, Marambio, Rothera | Troll, Fort McMurdo, Sinheung, Kunlun | Belgrano, Sanay, Sejong, Davis, Byrd |
+| Aquarius | Halley, Sinheung, Vostok, Kunlun | Marambio, Shirayuki | Juan Carlos, Dome Fuji |
+| Libra | Sejong, Juan Carlos, Zhongshan | Halley, Neumayer, Palmer City, Fort McMurdo, Mirny (city), Sinheung, Kunlun | Abowasa, Cape Adare, Janbogo (city) |
 | Gemini | Janbogo (city) | Esperanza, Sejong, Sayowa | Princess Elisabeth |
 | Pisces | Dome Fuji | — | Shirayuki |
 | Sagittarius | Signy | — | Troll, Rothera, Denison, Dumont d'Urville, Vostok, Byrd |
@@ -162,11 +162,11 @@ Everything above is a Stage 1 read: each city's own pre-war cultural character. 
 
 **Zhongshan** — Tops Libra/Virgo/Taurus. Confirmed and deepened: a strict non-prying civic norm repeating at every scale ("non-acknowledgment as respect"), patient civic maturity built up across three architectural eras — a formal, procedural, close-quarters social code that is Libra's own territory first.
 
-**Shirayuki** — Tops Leo/Aquarius/Pisces. Confirmed directly: "A Place Decided For You, Made Into a Place You'd Choose" — an imposed origin turned into genuine, chosen cultivation of art, fashion, and creative life, the Larsemann cluster's own Heart-center city (vs. Zhongshan's and Soyuz's Gut-center profiles).
+**Shirayuki** — Tops Leo/Aquarius/Pisces. Confirmed directly: "A Place Decided For You, Made Into a Place You'd Choose" — an imposed origin turned into genuine, chosen cultivation of art, fashion, and creative life, the Larsemann cluster's own Heart-center city (vs. Zhongshan's and Sinheung's Gut-center profiles).
 
 **Davis** — Tops Virgo/Taurus/Capricorn. Confirmed almost verbatim: "help that's genuinely useful rather than performed," quiet competence over self-image, self-sufficient enrichment without seeking outside recognition.
 
-**{{currently-unnamed Korean city}}** *(files: Soyuz)* — Tops Aquarius/Capricorn/Libra. Confirmed and deepened: a city that never chose its own name — "Soyuz" is a leftover label from the Russian station its Korean founders inherited via the Jeju-do court — "Claimed, Not Found," with unusually sharp patriotism embedded in a claim proven through output rather than a self-chosen identity *(corrected 2026-07-13 — previously said this city "named itself after a spacecraft" and carried "a self-chosen identity"; it never did, and the working title has since changed from "Chosen Ambition, Not Inherited Memory" to "Claimed, Not Found")* — Aquarius' forward-orientation first, reinforced by its own established role manufacturing Cradle fabrication chambers (Capricorn, second).
+**Sinheung** *(files: Sinheung)* — Tops Aquarius/Capricorn/Libra. Confirmed and deepened: a city that went generations without choosing its own name — "Soyuz" was only ever a leftover label from the Russian station its Korean founders inherited via the Jeju-do court, until the city was officially named Sinheung (신흥) on 2026-07-14 — "Claimed, Not Found," with unusually sharp patriotism embedded in a claim proven through output rather than a self-chosen identity *(corrected 2026-07-13 — previously said this city "named itself after a spacecraft" and carried "a self-chosen identity"; it never did, and the working title has since changed from "Chosen Ambition, Not Inherited Memory" to "Claimed, Not Found")* — Aquarius' forward-orientation first, reinforced by its own established role manufacturing Cradle fabrication chambers (Capricorn, second).
 
 **Vostok** *(low-confidence — the Megasheet itself flags most of its own content as proposed, not settled)* — Tops Aquarius/Scorpio/Sagittarius. What is confirmed: a heavy genetics-research industry (Thinking/Withdrawn/Positive Outlook, mirroring Kunlun's structure) and a defining demographic mismatch — a population with zero Russian representation inheriting a Russian scientific legend that isn't theirs, "a legend living in someone else's house." That specific inherited-identity tension is genuinely Scorpio-flavored. Revisit once Vostok's own source material is less thin.
 

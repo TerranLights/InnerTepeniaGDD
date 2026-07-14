@@ -18,7 +18,7 @@
 |---|---|
 | **Real-world basis** | Zhongshan Station (China/CHINARE, 1989), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E) |
 | **Status** | Damaged, partially operational |
-| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Soyuz and the Shirayuki |
+| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Sinheung and the Shirayuki |
 | **Population (Census II)** | 522,372 humans / 474,312 robots / 996,684 combined |
 | **Founding** | Sinian (Chinese) defectors who chose exile alongside robots over their own nation's ideology — the only Tepenian city where the founding operator nation is also the unbroken long-run demographic Primary |
 
@@ -64,7 +64,7 @@ Carried forward from `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhong
 - Demonym — "Zhongshaners"? something Chinese?
 - Four notable figures, all currently placeholders: the founding figure, the artisan tradition founder, the literary figure, and (already named) Ji-Eun Kim
 - Five notable landmarks, all currently placeholders: the original station structure, the primary archive, the rock formation, the artisan quarter, the counterculture district
-- The specific Long Night War strike on the Zhongshan/Soyuz cluster — resolved as damaged-but-functional, but what actually happened is still TBD
+- The specific Long Night War strike on the Zhongshan/Sinheung cluster — resolved as damaged-but-functional, but what actually happened is still TBD
 - A defining literary or musical premiere work — the piece considered to most completely express Zhongshan's cultural identity
 - Specific Prydz Bay fishing methods/species (flagged open in the Vision Notes)
 - No City Enneagram Personality profile exists yet

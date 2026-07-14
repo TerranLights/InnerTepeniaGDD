@@ -94,7 +94,7 @@ Denison's culture is built around a specific, almost defiant relationship to ext
 
 Structural/wind engineering was Denison's defining economic sector — an unusually large share of the city's labor, reflecting its central environmental challenge — alongside climate/wind research, general manufacturing, and a modest commercial sector. Full detail in `Local_Cultures/Janbogo_Subnet/Denison.md` Section 15.
 
-**Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber manufacturer** — a legitimate producer of the individual apparatus at the heart of the nationwide Cradle infrastructure during its living Second Interwar Period, lost when the city was destroyed. Distinct from the present-day network ({{currently-unnamed Korean city, cf. Soyuz}}, Byrd, and the Mountain Pass outpost) — Denison's own general manufacturing strength made it a plausible past producer, but it is not a current one.
+**Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber manufacturer** — a legitimate producer of the individual apparatus at the heart of the nationwide Cradle infrastructure during its living Second Interwar Period, lost when the city was destroyed. Distinct from the present-day network (Sinheung, Byrd, and the Mountain Pass outpost) — Denison's own general manufacturing strength made it a plausible past producer, but it is not a current one.
 
 ---
 

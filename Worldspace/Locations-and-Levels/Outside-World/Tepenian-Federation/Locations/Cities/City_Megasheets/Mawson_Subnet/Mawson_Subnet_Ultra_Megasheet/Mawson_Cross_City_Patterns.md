@@ -42,7 +42,7 @@ Mawson survived via a split outcome (its inter-subnet Arcanet link took the brun
 
 ## Pattern 5: A subnet oriented outward more than inward
 
-All three of this subnet's cities have a stronger, more developed relationship to a neighboring subnet than to each other. Sayowa's entire civic identity is built on bridging to Halley subnet (Princess Elisabeth, the Hwy 7-ext corridor). Dome Fuji's religious and personality life is inseparable from Kunlun, a Mirny subnet city, and its supply chain runs through Troll (Halley subnet) and the currently-unnamed Korean city (Mirny subnet). Mawson itself sits on Hwy 4 toward the same Mirny subnet cluster. None of the three relationships this subnet's own research most developed are with each other.
+All three of this subnet's cities have a stronger, more developed relationship to a neighboring subnet than to each other. Sayowa's entire civic identity is built on bridging to Halley subnet (Princess Elisabeth, the Hwy 7-ext corridor). Dome Fuji's religious and personality life is inseparable from Kunlun, a Mirny subnet city, and its supply chain runs through Troll (Halley subnet) and Sinheung (Mirny subnet). Mawson itself sits on Hwy 4 toward the same Mirny subnet cluster. None of the three relationships this subnet's own research most developed are with each other.
 
 **What this produces:** Mawson subnet reads less as a self-contained region and more as connective tissue between Halley and Mirny subnets specifically — worth keeping in mind for this Ultra-Megasheet's own Throughways, developed further below.
 

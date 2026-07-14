@@ -79,7 +79,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 ### Mawson Subnet — Indian Ocean / East Antarctic
 *No colloquial name*
 
-*(Soyuz and Shirayuki moved to the Mirny Subnet section, below — corrected 2026-07-05. See `TODO.md` for the geographic reasoning.)*
+*(Sinheung and Shirayuki moved to the Mirny Subnet section, below — corrected 2026-07-05. See `TODO.md` for the geographic reasoning.)*
 
 | City | Status |
 |------|--------|
@@ -100,8 +100,8 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 | Zhongshan | Surviving |
 | Vostok | Surviving |
 | Kunlun | Surviving — too high for humans; received a real robot population 2026-07-04 (123,449); re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population, no longer single-nation Chinese; see `Specs/Kunlun.md` |
-| Shirayuki | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation; named Shirayuki 2026-07-08; subnet corrected 2026-07-05, moved from Mawson; see `Specs/Shirayuki.md`)* |
-| Soyuz | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (now Shirayuki); subnet corrected 2026-07-05, moved from Mawson; see `Specs/Soyuz.md`)* |
+| Shirayuki | Surviving *(damaged; partially operational — confirmed 2026-07-03 alongside Sinheung and Zhongshan as the three Larsemann Hills cluster cities, all resolved consistently; founding population resolved as Japanese via Jeju-do diplomatic allocation; named Shirayuki 2026-07-08; subnet corrected 2026-07-05, moved from Mawson; see `Specs/Shirayuki.md`)* |
+| Sinheung | Surviving *(damaged; partially operational — corrected 2026-07-03 from "Destroyed": Sinheung and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart, making differing outcomes physically implausible; resolved consistently with Zhongshan and the Larsemann Hills' Japanese city (now Shirayuki); subnet corrected 2026-07-05, moved from Mawson; see `Specs/Sinheung.md`)* |
 
 ---
 
@@ -116,7 +116,7 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 
 ## Notes
 
-- **Destroyed cities** (Zukelli) are included because their cultures existed pre-Long Night War and are relevant to diaspora communities in surviving cities. *(Soyuz was reclassified 2026-07-03 from destroyed to damaged/partially operational — its own cultural sheet was already written present-tense per the general methodology below, so no rewrite was needed for that reason, but its status-specific framing was updated.)*
+- **Destroyed cities** (Zukelli) are included because their cultures existed pre-Long Night War and are relevant to diaspora communities in surviving cities. *(Sinheung was reclassified 2026-07-03 from destroyed to damaged/partially operational — its own cultural sheet was already written present-tense per the general methodology below, so no rewrite was needed for that reason, but its status-specific framing was updated.)*
 - **Belgrano** is in ruins by the time of Inner Tepenia's main game events but is accessible and inhabited in DLC 5; its culture is partially preserved as ruin culture.
 - **Concordia** is the primary setting of Inner Tepenia and the largest surviving city in the post-Long Night War period. Two separate cultural sheets are planned: an **second interwar-era sheet** (written 2026-07-04 — see `Concordia-City/Concordia_Second_Interwar_Cultural_Sheet.md`, answering `Specs/Concordia.md`'s own long-open "what was pre-war Concordia like" question) and a still-pending **post-war sheet** covering the city as documented everywhere else in the GDD today (the district files, the grid-failure crisis, "the last city" identity). The post-war sheet is deliberately deferred, since Concordia's refugee-melting-pot character makes it a fundamentally different (and likely more involved) case than any single-founding-population city in this directory.
 - **Amundsen Station** is an edge case — its "culture" is primarily operational and robotic rather than civic, and it was never actually a city (a rotating-staff neutral relay facility, not a settlement). A sheet was written for it anyway 2026-07-04, for completeness, with this caveat stated prominently at its top rather than forcing the template to fit a population that never existed in the shape the template assumes — see `Local_Cultures/Amundsen_Station/Amundsen_Station.md`.

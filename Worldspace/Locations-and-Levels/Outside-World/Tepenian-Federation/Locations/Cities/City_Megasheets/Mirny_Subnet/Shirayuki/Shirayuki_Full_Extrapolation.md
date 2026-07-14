@@ -18,9 +18,9 @@ Unlike every other item below, this one wasn't proposed here at the time of writ
 
 ---
 
-## III. The Early Relationship With {{currently-unnamed Korean city}} and Zhongshan
+## III. The Early Relationship With Sinheung and Zhongshan
 
-**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via two distinct mechanisms *(corrected 2026-07-13, was "three different mechanisms" — wrong; {{currently-unnamed Korean city}} and this city both arrived via the identical Jeju-do diplomatic allocation, allocated to Korea and Japan respectively, not two separate mechanisms)* (Zhongshan's organic proximity confirmed by the same court, versus {{currently-unnamed Korean city}}'s and this city's shared deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
+**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via two distinct mechanisms *(corrected 2026-07-13, was "three different mechanisms" — wrong; Sinheung and this city both arrived via the identical Jeju-do diplomatic allocation, allocated to Korea and Japan respectively, not two separate mechanisms)* (Zhongshan's organic proximity confirmed by the same court, versus Sinheung's and this city's shared deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
 
 ---
 

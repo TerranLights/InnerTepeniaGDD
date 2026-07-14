@@ -266,7 +266,7 @@ The dominant attitude is not rage — rage would require ongoing engagement with
 
 - **Mirny:** Respectful and quietly competitive. Mirny is the subnet hub; Zhongshan is larger and older and both parties know it. The relationship functions, but Zhongshan does not consider itself subordinate.
 - **Davis:** Close geographic proximity in Prydz Bay; similar East Asian composition but Davis carries stronger Australian founding wave influence — warmer and more extroverted. Friendly rivalry with a specific texture: Zhongshan considers Davis somewhat loud; Davis considers Zhongshan somewhat cold. Both are correct.
-- **Soyuz (destroyed):** Zhongshan's Russian community felt Soyuz's destruction with particular sharpness — Soyuz was the primarily Russian-founded city in the region. Some of Soyuz's diaspora migrated to Zhongshan specifically. Their presence is part of the current city.
+- **Sinheung (destroyed):** Zhongshan's Russian community felt Sinheung's destruction with particular sharpness — Sinheung was the primarily Russian-founded city in the region. Some of Sinheung's diaspora migrated to Zhongshan specifically. Their presence is part of the current city.
 - **Janbogo:** A distant relationship — different subnet, different cultural register entirely. Zhongshan people find Janbogo's commercial intensity somewhat overwhelming. Janbogo people find Zhongshan opaque.
 
 ---
@@ -348,7 +348,7 @@ Ji-Eun Kim arrived in Zhongshan as a visitor and reached something approaching r
 
 - **[Placeholder — the founding arrival]** — the first wave of Sinian defectors establishing the settlement; the origin of the name Zhongshan
 - **[Placeholder — the Russian integration era]** — the period in which the Russian community became culturally embedded; not a single event but remembered as a distinct era, its endpoint marked by the emergence of the shared tea-and-samovar tradition
-- **[Placeholder — Soyuz's destruction]** — the Long Night War event most personally felt by Zhongshan's Russian community; the influx of Soyuz diaspora that followed changed the city's Russian population in ways still visible
+- **[Placeholder — Sinheung's destruction]** — the Long Night War event most personally felt by Zhongshan's Russian community; the influx of Sinheung diaspora that followed changed the city's Russian population in ways still visible
 - **[Placeholder — a defining literary or musical premiere]** — the work considered to most completely define Zhongshan's cultural identity; specific work TBD
 
 ---

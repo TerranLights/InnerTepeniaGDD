@@ -12,7 +12,7 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 
 ## The One-Line Pitch
 
-*One of only two Tepenian cities that exist because Upper Earth diplomats decided they should, before the exile era even began — and the one of the two where that imposed, external origin turned, over centuries, into a genuinely chosen identity built on research, education, and a homemade, wildly creative art-and-fashion culture. (Corrected 2026-07-13 — previously "the only Tepenian city"; {{currently-unnamed Korean city}} shares the identical Jeju-do mechanism.)*
+*One of only two Tepenian cities that exist because Upper Earth diplomats decided they should, before the exile era even began — and the one of the two where that imposed, external origin turned, over centuries, into a genuinely chosen identity built on research, education, and a homemade, wildly creative art-and-fashion culture. (Corrected 2026-07-13 — previously "the only Tepenian city"; Sinheung shares the identical Jeju-do mechanism.)*
 
 ---
 
@@ -21,11 +21,11 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 | | |
 |---|---|
 | **Real-world basis** | Bharati Station site (built by India, never Indian-settled), Larsemann Hills, Prydz Bay (~69°24'S, 76°11'E) |
-| **Status** | Damaged; partially operational — resolved alongside its Larsemann Hills cluster neighbors Zhongshan and Soyuz |
+| **Status** | Damaged; partially operational — resolved alongside its Larsemann Hills cluster neighbors Zhongshan and Sinheung |
 | **Subnet** | Mirny — DLC 7, moved from Mawson 2026-07-05 |
-| **Highway access** | Hwy 4's eastern terminus, at a tri-junction with Hwy 110 and Hwy 22, same physical location as Zhongshan and Soyuz |
+| **Highway access** | Hwy 4's eastern terminus, at a tri-junction with Hwy 110 and Hwy 22, same physical location as Zhongshan and Sinheung |
 | **Population (Census II)** | 336,124 humans / 392,200 robots / 728,324 combined |
-| **Founding** | Japanese exiles, via a pre-exile diplomatic allocation from the International Court of Diplomacy at Jeju-do — one of only two Tepenian cities founded this way, alongside {{currently-unnamed Korean city}} *(corrected 2026-07-13 — previously "the only")* |
+| **Founding** | Japanese exiles, via a pre-exile diplomatic allocation from the International Court of Diplomacy at Jeju-do — one of only two Tepenian cities founded this way, alongside Sinheung *(corrected 2026-07-13 — previously "the only")* |
 
 ---
 
@@ -47,7 +47,7 @@ People dress very fashionably here, but explicitly not in a runway or high-fashi
 
 ## Personality (Enneagram Read)
 
-**Feeling (Heart) / Compliant / Positive Outlook** — the one Larsemann Hills cluster city built around image, identity, and emotional/aesthetic connection rather than Zhongshan's self-contained Gut-competence or Soyuz's forceful Gut-assertiveness. Its founding is itself a Compliant story: built specifically to serve the Federation's broader diplomatic needs at Jeju-do, and its present-day civic character — genuinely easy friendships, cleanliness as shared care for a common space — carries that same accommodating, other-oriented energy forward. Its Positive Outlook shows in a culture that makes art and fashion purely because it enjoys doing so, not out of competitive necessity or defensiveness.
+**Feeling (Heart) / Compliant / Positive Outlook** — the one Larsemann Hills cluster city built around image, identity, and emotional/aesthetic connection rather than Zhongshan's self-contained Gut-competence or Sinheung's forceful Gut-assertiveness. Its founding is itself a Compliant story: built specifically to serve the Federation's broader diplomatic needs at Jeju-do, and its present-day civic character — genuinely easy friendships, cleanliness as shared care for a common space — carries that same accommodating, other-oriented energy forward. Its Positive Outlook shows in a culture that makes art and fashion purely because it enjoys doing so, not out of competitive necessity or defensiveness.
 
 ---
 
@@ -63,7 +63,7 @@ Once rice fields, transformed by a train station (1885) and international attent
 
 Administratively part of Shibuya's own ward, and the real birthplace of kawaii culture — a dense mix of distinct subcultures (Lolita, Gothic Lolita, Kogal, Decora, Visual Kei, and more) that crystallized specifically in the 1990s. Its identity as a fashion district traces directly back to the post-occupation era, when proximity to an American military base introduced Western cultural influence that young Japanese residents then transformed into something distinctly their own — documented and globalized decades later by FRUiTS magazine.
 
-**What this gives the city:** the single strongest structural parallel of all four picks. Harajuku's own origin story — a creative identity born directly from an *external, imposed* circumstance (a foreign military base) that residents nonetheless made completely their own — is close to a one-to-one echo of this city's founding tension (imposed by Jeju-do diplomacy, then organically inhabited over generations). It's also worth noting that Harajuku and Shibuya are themselves two distinct, adjacent creative districts often perceived from outside as a single scene — a small but genuine parallel to this city's own eventual physical merger with Zhongshan and Soyuz into one continuous, if legally separate, urban cluster.
+**What this gives the city:** the single strongest structural parallel of all four picks. Harajuku's own origin story — a creative identity born directly from an *external, imposed* circumstance (a foreign military base) that residents nonetheless made completely their own — is close to a one-to-one echo of this city's founding tension (imposed by Jeju-do diplomacy, then organically inhabited over generations). It's also worth noting that Harajuku and Shibuya are themselves two distinct, adjacent creative districts often perceived from outside as a single scene — a small but genuine parallel to this city's own eventual physical merger with Zhongshan and Sinheung into one continuous, if legally separate, urban cluster.
 
 ### Secondary: Hongdae, Seoul
 
@@ -84,7 +84,7 @@ Unofficially "the Capital of Siberia" — a major transport, industrial, scienti
 Carried forward from `Specs/Shirayuki.md`, still genuinely unresolved:
 - *(Resolved 2026-07-08, no longer open: the city's actual Japanese proper name — Shirayuki (白雪, "white snow"), per the header naming note above. This bullet was left listing it as "the single largest open item, deliberately deferred" well after the name was actually chosen — removed here.)*
 - The Jeju-do allocation's specifics — exact date, and whether China or Korea contested it at the time
-- The lived relationship with Soyuz and Zhongshan, given the deliberately-engineered (rather than organic) founding
+- The lived relationship with Sinheung and Zhongshan, given the deliberately-engineered (rather than organic) founding
 - How the founding community adapted or modified the inherited Bharati Station infrastructure
 - Whether this city is Ayako Hayashi's pre-Concordia origin city — still an open candidate, not decided
 - Notable figures — none named yet
@@ -119,9 +119,9 @@ Unlike every other item below, this one wasn't proposed here at the time of writ
 
 ---
 
-## III. The Early Relationship With {{currently-unnamed Korean city}} and Zhongshan
+## III. The Early Relationship With Sinheung and Zhongshan
 
-**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via two distinct mechanisms *(corrected 2026-07-13, was "three different mechanisms" — wrong; {{currently-unnamed Korean city}} and this city both arrived via the identical Jeju-do diplomatic allocation, allocated to Korea and Japan respectively, not two separate mechanisms)* (Zhongshan's organic proximity confirmed by the same court, versus {{currently-unnamed Korean city}}'s and this city's shared deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
+**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via two distinct mechanisms *(corrected 2026-07-13, was "three different mechanisms" — wrong; Sinheung and this city both arrived via the identical Jeju-do diplomatic allocation, allocated to Korea and Japan respectively, not two separate mechanisms)* (Zhongshan's organic proximity confirmed by the same court, versus Sinheung's and this city's shared deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
 
 ---
 
@@ -193,13 +193,13 @@ The most structurally important proposal here is Section III — dating the clus
 
 ## Finding 3: this city is one of Tepenia's few real tests of whether deliberately engineered civic outcomes can rival organic ones
 
-*(Corrected 2026-07-13: this finding originally called Shirayuki "the only Tepenian city founded via institutional diplomatic engineering" — wrong. {{currently-unnamed Korean city}} was founded via the identical Jeju-do allocation, to Korea rather than Japan. Corrected below to two cities, not one, without weakening the finding's actual argument.)*
+*(Corrected 2026-07-13: this finding originally called Shirayuki "the only Tepenian city founded via institutional diplomatic engineering" — wrong. Sinheung was founded via the identical Jeju-do allocation, to Korea rather than Japan. Corrected below to two cities, not one, without weakening the finding's actual argument.)*
 
-**Combining:** the established fact that Japan's Primary-tier demographic status held and was, per the 2026-07-06 correction, explicitly "vindicated" against the regional Chinese pull it was designed to resist + Novosibirsk's Akademgorodok as real-world proof that a deliberately, top-down constructed research/education city can achieve genuine depth and excellence, not just organic ones + the established fact that this city and {{currently-unnamed Korean city}} are the only two Tepenian cities founded via institutional diplomatic engineering rather than organic real-station inheritance.
+**Combining:** the established fact that Japan's Primary-tier demographic status held and was, per the 2026-07-06 correction, explicitly "vindicated" against the regional Chinese pull it was designed to resist + Novosibirsk's Akademgorodok as real-world proof that a deliberately, top-down constructed research/education city can achieve genuine depth and excellence, not just organic ones + the established fact that this city and Sinheung are the only two Tepenian cities founded via institutional diplomatic engineering rather than organic real-station inheritance.
 
 **2nd-order effect:** this city represents a double vindication of engineered outcomes over organic chance — both the demographic allocation itself (Japan remaining Primary) and the resulting civic identity (genuine research and arts depth, not a hollow or purely administrative city) worked out as intended, matching Akademgorodok's own real-world precedent that top-down design can produce authentic excellence rather than a lesser imitation of organic growth.
 
-**3rd-order effect:** since virtually every other Tepenian city traces its founding to organic real-station inheritance, this city and {{currently-unnamed Korean city}} occupy a genuinely distinctive position in the setting as a whole — the only two concrete, already-resolved test cases for whether deliberate institutional planning can produce outcomes as real and lasting as organic development, rather than a purely theoretical question. The two cases actually agree, strengthening the finding rather than complicating it: both allocated nations ended up genuinely Primary-tier (Japan 36.27% here, Korea 34.62% at {{currently-unnamed Korean city}}) — the same Jeju-do mechanism, applied twice to two different nations, produced the same kind of vindicated outcome both times.
+**3rd-order effect:** since virtually every other Tepenian city traces its founding to organic real-station inheritance, this city and Sinheung occupy a genuinely distinctive position in the setting as a whole — the only two concrete, already-resolved test cases for whether deliberate institutional planning can produce outcomes as real and lasting as organic development, rather than a purely theoretical question. The two cases actually agree, strengthening the finding rather than complicating it: both allocated nations ended up genuinely Primary-tier (Japan 36.27% here, Korea 34.62% at Sinheung) — the same Jeju-do mechanism, applied twice to two different nations, produced the same kind of vindicated outcome both times.
 
 **4th-order effect:** if any broader Federation-level conversation about planning versus organic growth were ever to need a real precedent to point to, this city is the one place in Tepenia that could genuinely be cited as evidence either way — a small, specific point of connection between this one city's own founding story and any larger governance or infrastructure-planning discourse elsewhere in the setting.
 

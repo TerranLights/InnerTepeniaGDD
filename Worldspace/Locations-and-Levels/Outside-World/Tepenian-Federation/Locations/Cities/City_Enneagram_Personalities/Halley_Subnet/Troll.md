@@ -8,7 +8,7 @@ Troll is a genuine intermodal freight linchpin — imports from Africa land at S
 
 ## Hornevian Group: Assertive
 
-Troll's control is significant enough to be flagged as DLC 5's working central-conflict anchor — a city whose importance is real enough to fight over. That's Assertive energy: Troll isn't a quiet, self-contained node (Withdrawn) or a dutiful service function absorbed into someone else's story (Compliant); it's a genuine chokepoint whose control has real, contested weight in the wider Federation's logistics, the same kind of outward economic force Soyuz exerts through manufacturing rather than freight.
+Troll's control is significant enough to be flagged as DLC 5's working central-conflict anchor — a city whose importance is real enough to fight over. That's Assertive energy: Troll isn't a quiet, self-contained node (Withdrawn) or a dutiful service function absorbed into someone else's story (Compliant); it's a genuine chokepoint whose control has real, contested weight in the wider Federation's logistics, the same kind of outward economic force Sinheung exerts through manufacturing rather than freight.
 
 ## Harmonic Group: Reactive
 

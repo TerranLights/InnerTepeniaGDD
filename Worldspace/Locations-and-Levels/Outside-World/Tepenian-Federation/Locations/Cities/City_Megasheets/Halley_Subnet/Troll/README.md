@@ -42,7 +42,7 @@ USA sits Primary, with Germany, France, UK, Russia, and Brazil at Significant ti
 
 ## Personality (Enneagram Read)
 
-**Instinctive (Gut) / Assertive / Reactive** — shares this profile with Soyuz, distinguished specifically as **besieged**, contrasted against Soyuz's own self-asserting energy. This read is well-supported by Troll's own established identity: a city whose control is genuinely, actively fought over, flagged directly as the working candidate for DLC 5's central conflict — real external pressure, not quiet self-containment or absorbed duty.
+**Instinctive (Gut) / Assertive / Reactive** — shares this profile with Sinheung, distinguished specifically as **besieged**, contrasted against Sinheung's own self-asserting energy. This read is well-supported by Troll's own established identity: a city whose control is genuinely, actively fought over, flagged directly as the working candidate for DLC 5's central conflict — real external pressure, not quiet self-containment or absorbed duty.
 
 ---
 
@@ -90,7 +90,7 @@ Carried forward from `Specs/Troll.md`, still genuinely unresolved:
 - Two placeholder holiday names ("St. Roald's Landing," "Runway Day") never fully developed
 - Notable figures: still nobody named
 
-**New, surfaced by this research pass:** given Neumayer's own newly-established role designing the current-generation fabrication-synthesis chamber schematic, and given Soyuz (one of the Cradle's two currently-active manufacturing sites) already ships supplies onward via its own aviation route — it's worth asking whether Troll's own freight network has ever carried actual fabrication-synthesis chambers themselves onward to other Tepenian cities, given Troll's established role as the Halley subnet's real distribution hub for goods reaching the rest of the Federation. The current files don't address this either way.
+**New, surfaced by this research pass:** given Neumayer's own newly-established role designing the current-generation fabrication-synthesis chamber schematic, and given Sinheung (one of the Cradle's two currently-active manufacturing sites) already ships supplies onward via its own aviation route — it's worth asking whether Troll's own freight network has ever carried actual fabrication-synthesis chambers themselves onward to other Tepenian cities, given Troll's established role as the Halley subnet's real distribution hub for goods reaching the rest of the Federation. The current files don't address this either way.
 
 ---
 
@@ -142,7 +142,7 @@ Berlin Tempelhof and the Berlin Airlift are the clear standout of this pass — 
 
 ## VI. Fabrication Chambers Passing Through Troll's Freight Network: Plausible, Secondary Use
 
-**Proposed, directly answering the question surfaced in the Mega-Init:** yes, plausibly, but as secondary rather than primary traffic. Soyuz already has its own dedicated, direct aviation route to Dome Fuji specifically for chamber and general supply delivery — that route wouldn't run through Troll. But given Troll's established centrality to the whole Halley subnet's actual goods-distribution logic, it's plausible that Soyuz-manufactured chambers destined for other cities beyond Dome Fuji's own dedicated route would have historically passed through Troll's broader freight network at some point, incidental rather than dedicated traffic layered onto everything else the airfield already moves.
+**Proposed, directly answering the question surfaced in the Mega-Init:** yes, plausibly, but as secondary rather than primary traffic. Sinheung already has its own dedicated, direct aviation route to Dome Fuji specifically for chamber and general supply delivery — that route wouldn't run through Troll. But given Troll's established centrality to the whole Halley subnet's actual goods-distribution logic, it's plausible that Sinheung-manufactured chambers destined for other cities beyond Dome Fuji's own dedicated route would have historically passed through Troll's broader freight network at some point, incidental rather than dedicated traffic layered onto everything else the airfield already moves.
 
 ---
 
@@ -184,7 +184,7 @@ Section I is the most structurally useful proposal here — it gives DLC 5's own
 
 ## Finding 3: Troll's freight network may carry higher stakes than pure economics, if it occasionally moves actual fabrication-synthesis chambers
 
-**Combining:** the Full Extrapolation's proposed secondary chamber traffic passing through Troll's freight network (chambers manufactured at Soyuz, potentially routed onward via Troll to other cities) + the singular importance of fabrication-synthesis chambers as the only known mechanism by which new robots can be created anywhere in Tepenia + Troll's own established role as the real distribution backbone for a genuine share of Tepenia's import economy.
+**Combining:** the Full Extrapolation's proposed secondary chamber traffic passing through Troll's freight network (chambers manufactured at Sinheung, potentially routed onward via Troll to other cities) + the singular importance of fabrication-synthesis chambers as the only known mechanism by which new robots can be created anywhere in Tepenia + Troll's own established role as the real distribution backbone for a genuine share of Tepenia's import economy.
 
 **2nd-order effect:** if Troll's freight network occasionally carries actual chamber shipments, whoever ultimately controls the airfield doesn't just control ordinary trade goods — they control, at least incidentally, a chokepoint in the nationwide robot-creation supply chain.
 

@@ -53,7 +53,7 @@ What made King George Island distinctive in the pre-exile era was concentration:
 
 Sejong, as the Korean settlement, was named after the king who gave Korea its alphabet — an act of cultural self-definition by a monarch who believed his people deserved a writing system of their own. The choice of name carries quiet weight: an exile community naming their Antarctic city after the person who gave their ancestors the tools to record their own language and history.
 
-The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both founded by Korean exiles and named after Korean historical figures, but Sejong's own Korean population diluted over 130 years of King George Island's extreme multinational immigration down to just 5.79%, the smallest of its eight Significant-tier nations, well behind the USA's sole-Primary 21.65% and France's 11.62%. Tepenia's living Korean population centers today are Janbogo and {{currently-unnamed Korean city}} (Mirny subnet, singularly Korean-founded via the Jeju-do partition, still Korean-Primary at 34.62%) — Sejong shares a founding-era naming heritage with Janbogo, not an ongoing demographic one. This is the same pattern already resolved at Sayowa (Japan-founded, diluted, superseded as "the" Japanese city by Shirayuki): a shared founding-era naming choice surviving after the living identity moved elsewhere.
+The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both founded by Korean exiles and named after Korean historical figures, but Sejong's own Korean population diluted over 130 years of King George Island's extreme multinational immigration down to just 5.79%, the smallest of its eight Significant-tier nations, well behind the USA's sole-Primary 21.65% and France's 11.62%. Tepenia's living Korean population centers today are Janbogo and Sinheung (Mirny subnet, singularly Korean-founded via the Jeju-do partition, still Korean-Primary at 34.62%) — Sejong shares a founding-era naming heritage with Janbogo, not an ongoing demographic one. This is the same pattern already resolved at Sayowa (Japan-founded, diluted, superseded as "the" Japanese city by Shirayuki): a shared founding-era naming choice surviving after the living identity moved elsewhere.
 
 ### Annual Climate
 
@@ -102,7 +102,7 @@ Sejong's character was shaped by proximity to everyone else. No other Tepenian c
 
 The mild climate made King George Island the most physically comfortable location in the Palmer subnet, which paradoxically made it more competitive: multiple communities vying for the same favorable ground. The social dynamics of King George Island, with its dense concentration of distinct national communities, would have produced a unique kind of inter-community politics with no equivalent elsewhere in Tepenia.
 
-**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate. Sharing a founding-era naming heritage with Janbogo. *(Corrected 2026-07-13: no longer counted among Tepenia's living Korean population centers, which today are Janbogo and {{currently-unnamed Korean city}} — Sejong's own Korean population has diluted to its smallest Significant-tier nation.)*
+**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate. Sharing a founding-era naming heritage with Janbogo. *(Corrected 2026-07-13: no longer counted among Tepenia's living Korean population centers, which today are Janbogo and Sinheung — Sejong's own Korean population has diluted to its smallest Significant-tier nation.)*
 
 ---
 
@@ -124,7 +124,7 @@ King George Island's favorable position (most accessible part of Antarctica, clo
 ---
 
 ## Connection to Concordia
-Palmer subnet. *(Corrected 2026-07-13: this entry previously called Sejong "a parallel to Janbogo's Korean community" and said the two cities "represent the same people" — wrong. Janbogo and {{currently-unnamed Korean city}} are Tepenia's living Korean demographic centers; Sejong's Korean population has diluted to 5.79%, its smallest Significant-tier nation. Sejong's refugees in Concordia are shaped by its own real, multinational composition, not a shared Korean identity with Janbogo's diaspora.)*
+Palmer subnet. *(Corrected 2026-07-13: this entry previously called Sejong "a parallel to Janbogo's Korean community" and said the two cities "represent the same people" — wrong. Janbogo and Sinheung are Tepenia's living Korean demographic centers; Sejong's Korean population has diluted to 5.79%, its smallest Significant-tier nation. Sejong's refugees in Concordia are shaped by its own real, multinational composition, not a shared Korean identity with Janbogo's diaspora.)*
 
 ---
 
@@ -135,6 +135,6 @@ Sejong's legacy is the coexistence experiment — the proof that a dozen nationa
 
 ## Open Questions
 - **The other King George Island settlements** — what became of the non-Korean communities on the island? Do they have their own city entries, or are they folded into Sejong's story?
-- **The Sejong–Janbogo relationship** — *(reframed 2026-07-13: not two Korean cities in ongoing parity — Janbogo remains a genuine Korean demographic center (alongside {{currently-unnamed Korean city}}); Sejong's Korean founding is now a shared naming heritage, not a living connection)* did the two cities maintain any relationship at all, given how little they actually have in common today?
+- **The Sejong–Janbogo relationship** — *(reframed 2026-07-13: not two Korean cities in ongoing parity — Janbogo remains a genuine Korean demographic center (alongside Sinheung); Sejong's Korean founding is now a shared naming heritage, not a living connection)* did the two cities maintain any relationship at all, given how little they actually have in common today?
 - **Demonym** — **Sejongite** *(established 2026-07-04)*
 - **Notable figures** — TBD

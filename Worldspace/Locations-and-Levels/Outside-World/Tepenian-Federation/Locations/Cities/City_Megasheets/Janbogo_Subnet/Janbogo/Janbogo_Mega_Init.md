@@ -83,7 +83,7 @@ Carried forward from `Specs/Janbogo.md` and `City_Vision_Notes/Janbogo.md`, stil
 - What Majyao's original teahouse looks like today — preserved, looted, repurposed, partially destroyed?
 - Other cultural landmarks or notable figures beyond Majyao: TBD
 - Why the Janbogo subnet's Arcanet nexus sits physically inside Concordia's Gemini district rather than in Janbogo itself
-- The relationship among Tepenia's three Korean-founded cities pre-Split-Brain *(corrected 2026-07-13 — {{currently-unnamed Korean city}} in the Mirny subnet was previously omitted; it's now Tepenia's most heavily Korean city by population, 34.62% Primary, ahead of both Janbogo and Sejong)* — meaningful contact, or none?
+- The relationship among Tepenia's three Korean-founded cities pre-Split-Brain *(corrected 2026-07-13 — Sinheung in the Mirny subnet was previously omitted; it's now Tepenia's most heavily Korean city by population, 34.62% Primary, ahead of both Janbogo and Sejong)* — meaningful contact, or none?
 - ~~Whether Pink Lucy's (FW-25) migration route passed through Janbogo before reaching Concordia~~ — **RESOLVED 2026-07-12:** yes, Dumont d'Urville → Janbogo, settled there pre-war. Still open: whether she subsequently fled to Concordia or remained in Janbogo through the war *(corrected 2026-07-13 — this line had gone unfixed through this file's own 5th re-check pass)*
 - The Zukelli defectors' nationality/military of origin, how many defected, exact timing within the war, whether Janbogo could help or warn beforehand, and whether the deterrent message actually worked on other cities afterward
 

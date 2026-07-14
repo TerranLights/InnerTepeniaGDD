@@ -12,7 +12,7 @@ Recap of what was already established going in (see the two files above for full
 
 **Faction:** "The Crossroads People" (shared with Sayowa, Esperanza, Casey, Princess Elisabeth) — Janbogo's specific angle is being the center everything converges on, not a hinge between things.
 
-**Flagged gaps going in:** who's actually running Janbogo now; what Majyao's original teahouse looks like today; other cultural landmarks/notable figures beyond Majyao; why the subnet nexus sits in Concordia rather than Janbogo itself; the Sejong relationship pre-Split-Brain *(note added 2026-07-13: a third Korean-founded city, {{currently-unnamed Korean city}} in the Mirny subnet, was identified after this session and belongs in this question too)*; whether Pink Lucy's migration route passed through here.
+**Flagged gaps going in:** who's actually running Janbogo now; what Majyao's original teahouse looks like today; other cultural landmarks/notable figures beyond Majyao; why the subnet nexus sits in Concordia rather than Janbogo itself; the Sejong relationship pre-Split-Brain *(note added 2026-07-13: a third Korean-founded city, Sinheung in the Mirny subnet, was identified after this session and belongs in this question too)*; whether Pink Lucy's migration route passed through here.
 
 ---
 
@@ -54,5 +54,5 @@ Written into `Specs/Zukelli.md` (Current Status and Legacy sections, plus the Op
 - What Majyao's original teahouse looks like today
 - Other cultural landmarks/notable figures beyond Majyao
 - Why the subnet nexus sits in Concordia's Gemini district rather than in Janbogo itself
-- The Sejong relationship pre-Split-Brain, and — *(added 2026-07-13)* — {{currently-unnamed Korean city}}'s as well, Tepenia's third Korean-founded city, previously omitted from this question
+- The Sejong relationship pre-Split-Brain, and — *(added 2026-07-13)* — Sinheung's as well, Tepenia's third Korean-founded city, previously omitted from this question
 - Whether Pink Lucy's migration route passed through Janbogo

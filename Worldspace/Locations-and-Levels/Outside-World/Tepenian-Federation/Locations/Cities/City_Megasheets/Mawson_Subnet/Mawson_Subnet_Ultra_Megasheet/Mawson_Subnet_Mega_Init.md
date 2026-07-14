@@ -71,7 +71,7 @@ Already the richest single research thread in this subnet, and the source of thi
 
 Carried forward across all 3 City Megasheets, the open items that recur at subnet scale rather than belonging to just one city:
 
-- **Whether Mawson's own founding-nation demographic imbalance gets the same correction treatment Shirayuki and Soyuz received** — explicitly flagged in Mawson's own Full Extrapolation as the developer's own call, not yet decided.
+- **Whether Mawson's own founding-nation demographic imbalance gets the same correction treatment Shirayuki and Sinheung received** — explicitly flagged in Mawson's own Full Extrapolation as the developer's own call, not yet decided.
 - **Notable Figures remain almost entirely placeholder-only** across the whole subnet, same as every prior subnet — though Dome Fuji's own proposed ancient-caretaker-robot figure (Full Extrapolation, Finding 7) is a genuinely richer starting point than most other cities' placeholders.
 - **Whether any pre-war relationship existed between Sayowa and Princess Elisabeth beyond the modest, practical contact already proposed** — flagged directly in Sayowa's own Full Extrapolation, Section II.
 - **The theological relationship between Dome Fuji and Kunlun**, resolved as complementary rather than rival — but whether this "reaching versus arriving" duality is ever made explicit, in-world doctrine remains the developer's own open call.
@@ -81,4 +81,4 @@ Carried forward across all 3 City Megasheets, the open items that recur at subne
 
 ## Worth Your Attention
 
-The single most load-bearing fact in this Mega-Init is this Ultra-Megasheet's own Pattern 5 and Throughway 3: Mawson subnet is, more than any other subnet in this project, defined by looking outward rather than inward — Sayowa toward Halley subnet, Dome Fuji toward Mirny subnet's Kunlun and its own aviation supply chain through Troll and the currently-unnamed Korean city. Worth remembering once the developer's own planned full re-examination pass begins: this subnet's own story was never really contained within its own three cities to begin with.
+The single most load-bearing fact in this Mega-Init is this Ultra-Megasheet's own Pattern 5 and Throughway 3: Mawson subnet is, more than any other subnet in this project, defined by looking outward rather than inward — Sayowa toward Halley subnet, Dome Fuji toward Mirny subnet's Kunlun and its own aviation supply chain through Troll and Sinheung. Worth remembering once the developer's own planned full re-examination pass begins: this subnet's own story was never really contained within its own three cities to begin with.

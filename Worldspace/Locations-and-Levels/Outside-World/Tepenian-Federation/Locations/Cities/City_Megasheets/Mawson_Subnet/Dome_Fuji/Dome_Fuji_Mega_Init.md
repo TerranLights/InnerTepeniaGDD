@@ -20,7 +20,7 @@
 | **Subnet** | Mawson — Arcanet cable connection despite being one of the most geographically distant members of that subnet |
 | **Population** | 0 humans / 55,072 robots (Census I) — the only population figure this city has ever had |
 | **Highway** | Confirmed stop on Hwy 37, between Dome Fuji↔Kunlun's dual-junction with Hwy 22 and Mountain Pass Airport |
-| **DLC** | Mawson subnet; alternate access route via a fixed-up plane at Soyuz (10 Calc + 10 Investigation, or a gate item from Belgrano's DLC 5 side-content) |
+| **DLC** | Mawson subnet; alternate access route via a fixed-up plane at Sinheung (10 Calc + 10 Investigation, or a gate item from Belgrano's DLC 5 side-content) |
 
 ---
 
@@ -46,7 +46,7 @@ The devotional marker is simple and visible: white robes, worn sparingly, specif
 
 ## Personality (Enneagram Read)
 
-**Instinctive (Gut) / Withdrawn / Positive Outlook** — a merging quality, not the forceful assertion of Soyuz or the quiet self-sufficiency of Zhongshan. Dome Fuji doesn't handle its extreme environment through competent technical mastery or visible struggle; it reframes the hardship as the entire point. The robes existing "to commune with the cold" is Positive Outlook energy in its purest form — a genuine survival problem, transformed into devotion.
+**Instinctive (Gut) / Withdrawn / Positive Outlook** — a merging quality, not the forceful assertion of Sinheung or the quiet self-sufficiency of Zhongshan. Dome Fuji doesn't handle its extreme environment through competent technical mastery or visible struggle; it reframes the hardship as the entire point. The robes existing "to commune with the cold" is Positive Outlook energy in its purest form — a genuine survival problem, transformed into devotion.
 
 Its closest Enneagram sibling is Vostok (identical triple) — the distinguishing detail there is almost entirely about direction of gaze: Kunlun and Vostok look outward/upward (space) and inward/downward (subglacial biology) respectively, while Dome Fuji looks neither — it looks *at nothing*, the flat, featureless dome itself being the point.
 

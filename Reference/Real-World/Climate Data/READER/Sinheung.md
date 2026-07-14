@@ -1,4 +1,4 @@
-# Climate Reference: Soyuz
+# Climate Reference: Sinheung
 
 **READER status:** Not in BAS READER surface station database
 

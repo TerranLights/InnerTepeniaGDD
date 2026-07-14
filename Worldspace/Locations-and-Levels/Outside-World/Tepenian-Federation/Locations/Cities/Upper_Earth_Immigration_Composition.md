@@ -456,7 +456,7 @@ Same geographic position as Janbogo.
 
 ---
 
-### {{currently-unnamed Korean city}} *(files: Soyuz; Larsemann Hills, Prydz Bay — Mirny subnet as of 2026-07-05, moved from Mawson; status is damaged/partially operational, not destroyed — this header's "Destroyed" tag predates the 2026-07-03 correction, see `Specs/Soyuz.md`. **Corrected 2026-07-13:** this raw table's China-Primary result and its "Russia founding operator heritage" note both predate that day's founding-story correction — the city is singularly Korean-founded via the Jeju-do court; Russia was never more than the physical Progress Station's operator, a GPS fact this project's own methodology explicitly excludes as a causal factor. The final, authoritative per-nation table lives in `Specs/Soyuz.md`, hand-adjusted 2026-07-06 to restore South Korea to Primary (34.62%) — this section's raw Gini-adjusted calculation is kept below only as a record of the pre-correction baseline, not as current guidance.)*
+### Sinheung *(files: Sinheung; Larsemann Hills, Prydz Bay — Mirny subnet as of 2026-07-05, moved from Mawson; status is damaged/partially operational, not destroyed — this header's "Destroyed" tag predates the 2026-07-03 correction, see `Specs/Sinheung.md`. **Corrected 2026-07-13:** this raw table's China-Primary result and its "Russia founding operator heritage" note both predate that day's founding-story correction — the city is singularly Korean-founded via the Jeju-do court; Russia was never more than the physical Progress Station's operator, a GPS fact this project's own methodology explicitly excludes as a causal factor. The final, authoritative per-nation table lives in `Specs/Sinheung.md`, hand-adjusted 2026-07-06 to restore South Korea to Primary (34.62%) — this section's raw Gini-adjusted calculation is kept below only as a record of the pre-correction baseline, not as current guidance.)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -510,7 +510,7 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 
 ### Zhongshan *(Larsemann Hills, Prydz Bay, ~69°22'S 76°22'E)*
 
-Same geographic cluster as Davis. *(Corrected 2026-07-13: the Significant-tier row below previously credited Russia's presence to "operator heritage" — wrong. Zhongshan Station is a Chinese facility; the real-world Russian-operated Progress Station sits at {{currently-unnamed Korean city}}'s own separate site nearby, not Zhongshan's. Russia's presence here is ordinary post-founding immigration, the same as every other Significant/Notable nation except China.)*
+Same geographic cluster as Davis. *(Corrected 2026-07-13: the Significant-tier row below previously credited Russia's presence to "operator heritage" — wrong. Zhongshan Station is a Chinese facility; the real-world Russian-operated Progress Station sits at Sinheung's own separate site nearby, not Zhongshan's. Russia's presence here is ordinary post-founding immigration, the same as every other Significant/Notable nation except China.)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -669,7 +669,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 13 | **Cape Adare** | Janbogo | 861,000 | 861,000 | **1,722,000** |
 | 14 | **Juan Carlos** | Palmer | 848,000 | 848,000 | **1,695,000** |
 | 15 | **Shirayuki** | Mirny *(corrected 2026-07-05, moved from Mawson)* | 843,000 | 843,000 | **1,686,000** |
-| 16 | **Soyuz** *(this table's "destroyed" tag is stale — Soyuz was corrected 2026-07-03 to damaged/partially operational; see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05, moved from Mawson)* | 838,000 | 838,000 | **1,675,000** |
+| 16 | **Sinheung** *(this table's "destroyed" tag is stale — Sinheung was corrected 2026-07-03 to damaged/partially operational; see `Specs/Sinheung.md`)* | Mirny *(corrected 2026-07-05, moved from Mawson)* | 838,000 | 838,000 | **1,675,000** |
 | 17 | **Abowasa** | Halley | 809,000 | 809,000 | **1,617,000** |
 | 18 | **Davis** | Mirny | 805,000 | 805,000 | **1,611,000** |
 | 19 | **Mirny** | Mirny | 790,000 | 790,000 | **1,579,000** |
@@ -712,7 +712,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 
 **The Ross Sea/Janbogo subnet is the most populous subnet overall** (~11.5M combined), driven by the China+USA T1 co-primary composition across six cities. The Mawson and Halley subnets are nearly equal in size despite very different compositions — Mawson's China-only T1 with large East Asian T2 cluster versus Halley's USA T1 with European T2 cluster.
 
-**One major city was destroyed in the Long Night War: Zukelli** (~1,975,000 total). *(Corrected 2026-07-05 — this line previously also counted Soyuz as destroyed at ~1,675,000, predating Soyuz's 2026-07-03 correction to damaged/partially operational; see `Specs/Soyuz.md` and `Official_Population_Census.md`'s own already-corrected "combined losses" figure.)* Belgrano (~816,000 total) became ruins in the DLC 5 timeframe.
+**One major city was destroyed in the Long Night War: Zukelli** (~1,975,000 total). *(Corrected 2026-07-05 — this line previously also counted Sinheung as destroyed at ~1,675,000, predating Sinheung's 2026-07-03 correction to damaged/partially operational; see `Specs/Sinheung.md` and `Official_Population_Census.md`'s own already-corrected "combined losses" figure.)* Belgrano (~816,000 total) became ruins in the DLC 5 timeframe.
 
 **The Intermarium/Intermaria bloc collectively contributes ~1.2M human exiles** distributed across QML and Mawson cities, constituting the second-largest European cultural community after the Germany-France-UK-Italy core. As a political meta-nation, their community cohesion in Tepenia exceeds their individual national sizes suggest.
 
@@ -769,7 +769,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 13 | Amundsen Station | Amundsen | 904K | 904K | 1,808K | South Pole; multi-corridor, no island cap |
 | 14 | Princess Elisabeth | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
 | 15 | **Belgrano** *(ruins, DLC 5)* | Halley | 408K | **854K** | **1,708K** | Mainland coast; absorbs Peninsula island overflow |
-| 16 | Soyuz *(this table's "destroyed" tag is stale — see `Specs/Soyuz.md`)* | Mirny *(corrected 2026-07-05)* | 838K | 838K | 1,675K | Mainland coast; no change |
+| 16 | Sinheung *(this table's "destroyed" tag is stale — see `Specs/Sinheung.md`)* | Mirny *(corrected 2026-07-05)* | 838K | 838K | 1,675K | Mainland coast; no change |
 | 17 | Abowasa | Halley | 809K | 809K | 1,618K | Inland; no change |
 | 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
 | 19 | Troll | Halley | 750K | 750K | 1,501K | Inland; no change |
@@ -887,7 +887,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 13 | Davis | Mirny | 567,640 | **1,166,618** | |
 | 14 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
 | 15 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
-| 16 | Soyuz | Mirny *(corrected 2026-07-05)* | 521,255 | **1,073,601** | *(this table's "destroyed" tag is stale — see `Specs/Soyuz.md`)* |
+| 16 | Sinheung | Mirny *(corrected 2026-07-05)* | 521,255 | **1,073,601** | *(this table's "destroyed" tag is stale — see `Specs/Sinheung.md`)* |
 | 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
 | 18 | Abowasa | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
@@ -1087,7 +1087,7 @@ These two passes are the last step. They do not change the analytical meaning of
 
 Approximately 31.9 million people — human and robot — lived in Tepenia before the Long Night War. For scale, this is a mid-sized nation-state: comparable to Peru, Venezuela, or Malaysia. It is not a superpower. It is a community.
 
-Of that combined population, one city no longer exists. **Zukelli** (~1,732,000 combined pre-war) was destroyed in the Long Night War. *(Corrected 2026-07-05 — this line previously also listed Soyuz as destroyed at ~1,073,000 combined; that predates Soyuz's 2026-07-03 correction to damaged/partially operational, see `Specs/Soyuz.md`.)* **Belgrano** survives as ruins by the time of Inner Tepenia's events (it is the setting for DLC 5). Its pre-war population was ~1,080,000 combined.
+Of that combined population, one city no longer exists. **Zukelli** (~1,732,000 combined pre-war) was destroyed in the Long Night War. *(Corrected 2026-07-05 — this line previously also listed Sinheung as destroyed at ~1,073,000 combined; that predates Sinheung's 2026-07-03 correction to damaged/partially operational, see `Specs/Sinheung.md`.)* **Belgrano** survives as ruins by the time of Inner Tepenia's events (it is the setting for DLC 5). Its pre-war population was ~1,080,000 combined.
 
 The three lost or ruined cities total approximately 3.9 million combined — roughly 12.5% of the entire pre-war Tepenian population.
 
@@ -1133,7 +1133,7 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 8 | **Janbogo** | Janbogo | 490,564 | **957,570** | *(revised 2026-07-03)* |
 | 9 | Mawson | Mawson | 427,321 | **952,446** | |
 | 10 | **Zukelli** | Janbogo | 443,754 | **937,659** | *(destroyed in Long Night War; revised 2026-07-03)* |
-| 11 | Soyuz | Mirny *(corrected 2026-07-05)* | 437,854 | **888,292** | *(this table's "destroyed in Long Night War" tag is stale — Soyuz was corrected 2026-07-03 to damaged/partially operational; see `Specs/Soyuz.md`)* |
+| 11 | Sinheung | Mirny *(corrected 2026-07-05)* | 437,854 | **888,292** | *(this table's "destroyed in Long Night War" tag is stale — Sinheung was corrected 2026-07-03 to damaged/partially operational; see `Specs/Sinheung.md`)* |
 | 12 | Belgrano | Halley | 429,820 | **837,768** | *(ruined in Long Night War; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | **781,596** | |

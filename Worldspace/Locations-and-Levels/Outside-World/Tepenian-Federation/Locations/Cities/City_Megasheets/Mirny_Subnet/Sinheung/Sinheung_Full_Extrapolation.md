@@ -1,12 +1,14 @@
-# {{currently-unnamed Korean city; cf. Soyuz}} — Full Extrapolation
+# Sinheung — Full Extrapolation
 
-**What this is:** every genuinely open question about this city given an actual proposed answer, built as far as possible directly out of what's already established rather than invented from nothing. Not locked canon — meant for review, revision, or rejection piece by piece. Companion to `Soyuz_Mega_Init.md` in this same folder. Written 2026-07-07. Given how developed this city already is, this document resolves placeholders rather than inventing large new structure. Two items are deliberately left untouched: the city's own eventual proper name, and the DLC 4 aviation route's exact start date — both already explicitly flagged elsewhere as intentionally deferred, and forcing an answer here would work against that.
+**What this is:** every genuinely open question about this city given an actual proposed answer, built as far as possible directly out of what's already established rather than invented from nothing. Not locked canon — meant for review, revision, or rejection piece by piece. Companion to `Sinheung_Mega_Init.md` in this same folder. Written 2026-07-07, updated 2026-07-14 to reflect the city's official name. Given how developed this city already is, this document resolves placeholders rather than inventing large new structure. One item remains deliberately left untouched: the DLC 4 aviation route's exact start date, already explicitly flagged elsewhere as intentionally deferred. The city's own proper name — the other item this section originally deferred — is no longer open; see Section I below.
 
 ---
 
-## I. Demonym: Soyuzans (provisional, pending the eventual rename)
+## I. The City's Own Name — Resolved 2026-07-14: Sinheung
 
-Following the candidate already floated in `Specs/Soyuz.md` — **Soyuzans**, explicitly understood as doubly provisional: tied to a placeholder city name that's itself scheduled for eventual replacement. Once the city's real name is chosen, this demonym would need to be redone from scratch rather than adapted.
+*(This section originally proposed a demonym, "Sinheungans," tied to the old placeholder city name — doubly provisional, since it would need to be redone entirely once a real name was chosen. That day has come: the developer officially named the city **Sinheung** (신흥, 新興 — "newly rising/emerging") on 2026-07-14, selected from the candidate list in `Specs/Sinheung.md`. The proposal below is rebuilt on that resolved premise.)*
+
+**Demonym, proposed: Sinheungan or Sinheungite** — either follows naturally from the name itself; no strong reason yet to prefer one over the other. Still genuinely open for the developer's own call, but no longer blocked on the city's own name being unresolved.
 
 ---
 
@@ -25,7 +27,7 @@ Following the candidate already floated in `Specs/Soyuz.md` — **Soyuzans**, ex
 
 **Mountain Pass — the third confirmed site, and the resolution to the Fort McMurdo problem — though historical, not current.** Fort McMurdo was considered and confirmed, then removed same day: its geographic connectivity checked out, but Mount Erebus's active volcanic status raises a double hazard (lava/ashfall risk plus ongoing seismic vibration) that's a genuine problem for precision synthesis equipment specifically. The resolution: rather than engineering around the hazard, the role moved to **Mountain Pass Airport**, the standalone waypoint on Hwy 37 between Kunlun and Vostok — a joint venture built and staffed by both cities' scientists and engineers together, a small industrial outpost rather than a city of its own, sitting on the geologically stable East Antarctic interior plateau with no volcanic activity nearby. This gave concrete physical shape to the already-established "two loneliest outposts" relationship between Vostok and Kunlun. **But the outpost's own power came from residual overflow off Amundsen Tower's continent-wide regulated grid** — too remote to support its own dedicated infrastructure — and the Tower's destruction during the Long Night War ended that supply, and the outpost's manufacturing capability, permanently. Chambers built there before the war still function wherever they shipped to (including, per a quiet non-quest discoverable detail, the specific chamber in Calethina's own lab that built the player character); no new ones have been made there since the war. See `Locations/Infrastructure/Airports.md`, `Specs/Vostok.md`, `Specs/Kunlun.md`, and `Energy_Grid_Failure_Rationale.md` #11.
 
-**Denison is also a confirmed historical manufacturer** — a legitimate Cradle producer during its living Second Interwar Period, lost when the city was later destroyed. Same category as Mountain Pass now; distinct from the present-day network, which is really only {{currently-unnamed Korean city, cf. Soyuz}} and Byrd.
+**Denison is also a confirmed historical manufacturer** — a legitimate Cradle producer during its living Second Interwar Period, lost when the city was later destroyed. Same category as Mountain Pass now; distinct from the present-day network, which is really only Sinheung and Byrd.
 
 Davis remains ruled out as a candidate — already established as this city's own raw-material supplier, a feeder role rather than a competing final-stage manufacturer. Zhongshan remains a strong candidate under active consideration; Belgrano and Concordia are proposed but paused pending further development (see `TODO.md`).
 
