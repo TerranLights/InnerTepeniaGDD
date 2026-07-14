@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Real-world basis** | Davis Station (Australia/AAD, 1957), Vestfold Hills, Prydz Bay (~68°35'S, 77°58'E) |
-| **Status** | Survived, operational |
+| **Status** | Damaged; partially operational *(corrected 2026-07-14 — this line still said "Survived, operational," the pre-2026-07-03 status; `Specs/Davis.md`'s own header was corrected that day, noting every other source already agreed on "Damaged," but this file — compiled 2026-07-07, after that correction — was apparently never checked against it)* |
 | **Subnet** | Mirny — on Hwy 110, between Zhongshan and Mirny |
 | **Population (Census II)** | 437,423 humans / 344,173 robots / 781,596 combined — one of few Tepenian cities with a genuine human majority |
 | **Founding** | Australian exiles inheriting decades of AAD environmental research into the Vestfold Hills' unusual ice-free terrain |

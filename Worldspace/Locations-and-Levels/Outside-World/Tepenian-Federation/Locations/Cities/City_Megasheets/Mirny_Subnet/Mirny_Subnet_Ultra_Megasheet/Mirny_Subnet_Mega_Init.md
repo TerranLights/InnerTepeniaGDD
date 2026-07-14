@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Real-world basis** | Wilkes Land and the East Antarctic Plateau — Mirny Station's Davis Coast, the Larsemann Hills' dense multinational cluster, and the deep interior's extreme-altitude research outposts, spanning from Prydz Bay's coastline to the Southern Pole of Inaccessibility |
-| **Member cities (8)** | Mirny (Damaged, subnet hub), Casey (Destroyed), Davis (Survived, operational), Vostok (Survived, extremely remote), Kunlun (Survived, most marginal survival in Tepenia), Zhongshan (Damaged, cluster), currently-unnamed Korean city / working title "Soyuz" (Damaged, cluster), Shirayuki (Damaged, cluster) |
+| **Member cities (8)** | Mirny (Damaged, subnet hub), Casey (Destroyed), Davis (Damaged, partially operational *(corrected 2026-07-14 — was "Survived, operational," contradicting `Specs/Davis.md`)*), Vostok (Survived, extremely remote), Kunlun (Survived, most marginal survival in Tepenia), Zhongshan (Damaged, cluster), currently-unnamed Korean city / working title "Soyuz" (Damaged, cluster), Shirayuki (Damaged, cluster) |
 | **Population (Census I, pre-orbital)** | 3,820,557 humans / 4,224,724 robots / **8,045,281** combined |
 | **Population (Census II, orbital era)** | 2,678,039 humans / 2,775,383 robots / **5,453,422** combined |
 | **Destruction rate** | 1 of 8 cities destroyed outright (Casey) — the other 7 damaged or fully intact, with every single case explained by strategic infrastructure value and physical reachability alone |

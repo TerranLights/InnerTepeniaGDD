@@ -45,7 +45,7 @@
 
 ## Geographic Basis
 
-Marambio sits on Seymour Island — Isla Marambio in Argentine notation — off the eastern coast of the Antarctic Peninsula, in the Weddell Sea. The island is separated from the main Peninsula body by the narrow Herbert Sound. At 64°14'S, it is south of Esperanza but still north of the Antarctic Circle; no polar night, no midnight sun.
+Marambio sits on Seymour Island — Isla Marambio in Argentine notation — off the eastern coast of the Antarctic Peninsula, in the Weddell Sea. The island is separated from Snow Hill Island by the narrow Picnic Passage *(corrected — this line previously said "Herbert Sound," a real but unrelated strait separating Vega Island from James Ross Island; see Notable Locations, below, for the full causeway/bridge chain to the mainland)*. At 64°14'S, it is south of Esperanza but still north of the Antarctic Circle; no polar night, no midnight sun.
 
 Seymour Island is geologically extraordinary. The island's sedimentary rock layers contain Eocene-era fossils — from approximately 34–56 million years ago — including some of the oldest penguin fossils known, ancestral whale ancestors, and plant fossils that document Antarctica's warmer, forested past. Before the ice, this was not a frozen desert. Marambio's residents lived on top of a geological archive of the world before the ice.
 

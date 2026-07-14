@@ -24,7 +24,7 @@ The full, concatenated Sanay reference — synthesis, then extrapolation, then c
 | **Status** | Damaged; partially operational — one of several struggling-but-functioning Halley subnet nodes, not a uniquely untouched exception |
 | **Subnet** | Halley — hosts the subnet's actual Arcanet relay nexus, though Halley itself keeps the naming credit |
 | **Highway access** | Hwy 7 (Queen Maud Land coastal highway) |
-| **Population (Census II)** | 145,798 humans / 129,319 robots / 275,117 combined — rank 26th of ~30, smallest in the subnet's coastal cluster |
+| **Population (Census II)** | 145,798 humans / 129,319 robots / 275,117 combined — rank 27th of ~30 *(corrected 2026-07-14 — see `Sanay_Mega_Init.md`)*, smallest in the subnet's coastal cluster |
 | **Founding** | South African exiles on SANAE IV infrastructure (operational since 1997), the only major South African community in Tepenia |
 
 ---
