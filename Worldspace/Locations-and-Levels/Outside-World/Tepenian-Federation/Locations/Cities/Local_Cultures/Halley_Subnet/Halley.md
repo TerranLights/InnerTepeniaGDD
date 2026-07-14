@@ -2,7 +2,7 @@
 
 ---
 
-**Subnet:** Halley ("Atlantic") — subnet namesake, not the technical nexus *(corrected 2026-07-04 — see `Cities/City_Vision_Notes/Halley.md`: the actual Arcanet relay nexus is kept at a different, more geologically stable subnet city, precisely because Halley itself risks eventually calving into the ocean. Which city holds it is not yet decided.)*
+**Subnet:** Halley ("Atlantic") — subnet namesake, not the technical nexus *(corrected 2026-07-04 — see `Cities/City_Vision_Notes/Halley.md`: the actual Arcanet relay nexus is kept at a different, more geologically stable subnet city, precisely because Halley itself risks eventually calving into the ocean. **The nexus's location was resolved the same session: it sits at Sanay**, on Vesleskarvet's stable bedrock, built there by Halley's own residents' hands-on labor. This line previously still said "which city holds it is not yet decided," never updated to match the resolution already correctly written into `Local_Cultures/Halley_Subnet/Sanay.md` — corrected 2026-07-13.)*
 **Status:** Damaged; partially operational — DLC 5 centerpiece
 **Census II Population:** 509,209 humans / 578,860 robots / 1,088,069 combined (rank 3rd of ~32, *corrected 2026-07-03*)
 **Location:** Brunt Ice Shelf, Coats Land, Weddell Sea (~75°35'S, 26°34'W)
@@ -142,7 +142,7 @@ A blended Anglophone-coastal musical culture without a single dominant tradition
 - Technical / scientific: 25% — ice engineering, structural relocation planning
 - Marine / resource extraction: 20% *(corrected 2026-07-04 — this is indirect: Halley has no docks of its own; South African freighter trade lands at Belgrano or Sanay and is trucked in overland)*
 - Commercial: 20% — logistics coordination for the Belgrano/Sanay overland supply chain
-- Technical / Arcanet: 15% — Hwy 59's dual highway/cable-corridor maintenance; *(note, 2026-07-04: Halley names the subnet but isn't its technical relay nexus, which lives at a different, more geologically stable city — not yet decided)*
+- Technical / Arcanet: 15% — Hwy 59's dual highway/cable-corridor maintenance; *(note: Halley names the subnet but isn't its technical relay nexus, which lives at Sanay's more geologically stable bedrock — resolved 2026-07-04, corrected here 2026-07-13 to remove the stale "not yet decided" framing)*
 - Industrial / manufacturing: 12%
 - Other: 8%
 
@@ -199,7 +199,7 @@ Filtered through Halley's own layered history rather than any single register �
 
 - **Belgrano:** Direct Hwy 7 neighbor to the southwest; both Halley subnet cities, though Belgrano's own trajectory (survived the war, declined after) diverges sharply from Halley's continuous operation.
 - **Amundsen Station:** Connected via Hwy 59, which also carries the Arcanet cable — the single most strategically critical corridor in the subnet, linking Halley to the South Pole relay before the Split Brain severed it.
-- **The rest of the Halley subnet coast:** Hub relationship to Neumayer, Troll, Abowasa, Sanay, Princess Elisabeth, and Maitri via Hwy 7's coastal run.
+- **The rest of the Halley subnet coast:** Hub relationship to Neumayer, Troll, Abowasa, Sanay, Princess Elisabeth, and Lazar via Hwy 7's coastal run *(corrected 2026-07-13 — this line still said "Maitri," the pre-rename placeholder name; the city has been called Lazar since the population rebalancing work)*.
 
 ---
 

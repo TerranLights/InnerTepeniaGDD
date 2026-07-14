@@ -252,7 +252,7 @@ Belgrano Highway Extension (built 2611–2614) — the only confirmed dated infr
 **PSB presence:**
 Janbogo is partially operational in the main game — it is the key link between Concordia and the outside world. The player already knows Janbogo exists before this DLC. The DLC expands what that actually means: the history, the political reality, the people. The Janbogo subnet nexus hardware sitting inside Concordia's Gemini district (see Phase 1 design tasks) becomes legible here.
 
-Fort McMurdo was the largest pre-war city in Tepenia — a mining and resource-processing hub. Destroyed, but its ruins are significant.
+Fort McMurdo was Tepenia's historical national capital and its largest pre-war city by industrial/physical footprint (not population) — a mining and resource-processing hub. Damaged, not destroyed — partially operational, with significant surviving/ruined sections *(corrected 2026-07-13 — this line previously called Fort McMurdo "destroyed," contradicting every other established source)*.
 
 **Known 2nd-order effects:** Janbogo's political stability directly determines the safety and functionality of Hwy 183 — the primary route connecting Concordia to the Ross Sea region. This is the most operationally direct DLC-to-main-game connection.
 **Known 3rd-order effects:** If Janbogo stabilizes under terms favorable to Concordia, Concordia's isolation decreases substantially. If it destabilizes further, Hwy 183 becomes dangerous. If it collapses, Concordia loses its most important external connection. This DLC has the highest direct impact on Concordia's day-to-day reality.

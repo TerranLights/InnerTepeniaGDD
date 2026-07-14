@@ -114,7 +114,7 @@ Practical, technical, unadorned — clothing here reads as equipment more than s
 
 ## 12. Music
 
-Minimal as a distinct civic tradition — Neumayer never developed the kind of dedicated musical culture that food-and-hospitality cities like Zukelli did; what music exists is personal and private rather than a public civic marker.
+*(Resolved 2026-07-04, see `City_Vision_Notes/Neumayer.md`)* After work, bars and music venues fill with Electronic, Metal, and Digital-Industrial genres — machinery-adjacent, precision-coded music that fits the city's whole civic identity far better than silence would. It isn't a food-and-hospitality tradition the way Zukelli's is; it's the after-hours release valve for a workforce that spends its days on rigorous, high-focus technical work in overlapping shifts.
 
 ---
 
@@ -128,7 +128,7 @@ Minimal as a distinct civic tradition — Neumayer never developed the kind of d
 
 ## 14. Sensory Profile
 
-- **Sound:** Quiet, instrumented — monitoring equipment more prominent in the city's ambient soundscape than voices or music.
+- **Sound:** Quiet and instrumented during working hours — monitoring equipment more prominent than voices; after hours, that quiet gives way to bars and venues running Electronic, Metal, and Digital-Industrial music, the city's actual release valve.
 - **Smell:** Cold, clean, mechanical — less of the maritime presence Halley has, more the smell of equipment and engineering spaces.
 - **Feel:** The specific, continuous awareness of elevated structures adjusting on their hydraulic legs.
 - **First impressions for visitors:** The elevated hydraulic architecture first, then the sheer density of scientific instrumentation once they understand what they're looking at.

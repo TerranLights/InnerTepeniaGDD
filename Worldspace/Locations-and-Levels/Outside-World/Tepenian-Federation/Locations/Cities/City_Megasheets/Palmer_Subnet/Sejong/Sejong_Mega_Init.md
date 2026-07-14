@@ -24,7 +24,7 @@
 
 ## Who Lives Here, and Why
 
-China and USA sit co-Primary (19.88%/17.33%, genuinely close in share), with the broadest Significant tier documented anywhere in the Palmer subnet — France, UK, Mexico, Germany, Brazil, Italy, Russia, and the founding nation itself, eight nations deep, an unusually wide spread of co-resident nationalities living in close, permanent proximity.
+**Corrected 2026-07-13:** this section previously described China and USA as co-Primary (19.88%/17.33%) — wrong. China appeared nowhere else in the Palmer subnet and its inclusion here traced to real-world Great Wall Station's presence on King George Island, which this project's own population methodology explicitly excludes as a factor. Removed; the USA is Sejong's sole Primary (21.65%), matching every other Palmer subnet city, with the broadest Significant tier documented anywhere in the subnet underneath it — France, UK, Mexico, Germany, Brazil, Italy, Russia, and the founding nation itself, eight nations deep, an unusually wide spread of co-resident nationalities living in close, permanent proximity.
 
 ---
 
@@ -72,7 +72,7 @@ A densely populated enclave whose identity was forged almost entirely in relatio
 
 Carried forward from `Specs/Sejong.md` and `City_Vision_Notes/Sejong.md`, still genuinely unresolved:
 - The fate of the other King George Island national communities (Argentine, Brazilian, Chinese, Polish, Russian, Czech, Uruguayan) — separate city entries of their own, or folded into Sejong's story?
-- The Sejong–Janbogo relationship — the two Korean-founded cities of Tepenia, on opposite sides of the continent, never fully developed
+- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
 - Whether the whole multinational coexistence experiment ultimately succeeded or produced real, lasting friction
 - A specific defining skyline/landmark structure for the "mini-Taipei" feel — asked directly, not yet answered
 - Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord") never fully developed

@@ -71,8 +71,9 @@ A planned Renaissance town (Germany's first, under Duke Julius's grid-pattern de
 
 Carried forward from `Specs/Juan_Carlos.md`, still genuinely unresolved:
 - Whether any Arcanet infrastructure survived the strike, and whether it connects to anything "The Archivist's Trail" questline reveals
-- The Machu Picchu Border & Customs Authority's exact geography — a genuinely remote administrative headquarters, or something else
 - The exact timing of the archive's relocation to Amundsen Station, and whether Juan Carlos retained any secondary/backup role afterward
+
+*(The Machu Picchu Border & Customs Authority's exact geography, previously listed here as open, was actually already resolved 2026-07-06 in `Specs/Juan_Carlos.md`'s own Open Questions — Machu Picchu Airport, near Sejong — this Mega-Init simply hadn't been cross-checked against that fix. Removed from the open list here.)*
 - Demonym — still TBD
 - Notable figures — still TBD (see the Hay-on-Wye/Wolfenbüttel-derived proposals below, in the Full Extrapolation)
 

@@ -156,7 +156,7 @@ The Australian founding infrastructure included research and scientific capacity
 
 Casey was the last coastal city on the route to Concordia — separated from it by the long inland drive on Hwy 110. Refugees from Casey and the broader Mirny subnet coastal cities are present in Concordia, though not as concentrated a community as the Janbogo diaspora in Gemini.
 
-**Pink Lucy (TBN FW-25) — Route B dependency:** If Pink Lucy's migration route from Dumont d'Urville to Concordia followed Route B (Hwy 2/DCH to Casey → Hwy 110 to Concordia), then Casey's status and timing during the Long Night War is critical. Casey is listed as Destroyed — the question is *when* in the war it was destroyed. If Casey fell early, the Route B corridor closed early. If Casey survived most of the war before falling, Pink Lucy could have transited through it as part of a refugee wave. This timing is a key open question for her backstory. See `Characters/Dolls/Still-Present_-_In-Game/TBN [FW-25 Pink Lucy]/README.md`.
+**Pink Lucy (TBN FW-25) — Route B retired** *(corrected 2026-07-13)*: her migration route was resolved 2026-07-12 as Dumont d'Urville → Janbogo directly, retiring the Route B possibility this section previously tied to Casey's own destruction timing. See `Characters/Dolls/Still-Present_-_In-Game/TBN [FW-25 Pink Lucy]/README.md`.
 
 ---
 
@@ -164,7 +164,9 @@ Casey was the last coastal city on the route to Concordia — separated from it 
 
 Casey was destroyed during the Long Night War. Timing within the war is TBD — whether it was an early casualty (given its accessible coastal position and strategic value as the Hwy 110/Hwy 2 junction) or whether it survived longer than other coastal cities (given its less exposed position compared to the more northerly Peninsula cities) has not been established.
 
-**Corrected 2026-07-05:** the destruction of Casey severed Hwy 2/DCH itself, not just its connection to Hwy 110 — Hwy 2 passes directly through Casey, so the route is blocked at the source, not merely disconnected from the onward network. This rules out the previous "reroute via Janbogo/Hwy 183" workaround entirely: reaching Janbogo from the Dumont d'Urville side would still require traveling Hwy 2 through Casey's ruins first, so that alternate path was never actually available. The real consequence is that Hwy 110 (Concordia ↔ Mirny/coastal chain) is the only through-route that survives Casey's destruction intact — Dumont d'Urville's overland connection to the rest of the network is genuinely severed, not merely lengthened.
+**Corrected 2026-07-05:** the destruction of Casey severed Hwy 2/DCH itself, not just its connection to Hwy 110 — Hwy 2 passes directly through Casey, so the route is blocked at the source, not merely disconnected from the onward network. Hwy 110 (Concordia ↔ Mirny/coastal chain) is the only through-route that survives Casey's destruction intact.
+
+**Superseded 2026-07-06, corrected here 2026-07-13:** this section previously went on to claim Dumont d'Urville's overland connection to the rest of the network was "genuinely severed," with no viable reroute via Janbogo/Hwy 183 — that was accurate the day it was written, but the very next day's highway correction made it stale. Hwy 183 was re-routed to run directly from Concordia through Janbogo, Cape Adare (connecting road), and Denison to Dumont d'Urville's own northern terminus — a complete route that never touches Casey at all (see `Locations/Infrastructure/Highways.md`). Dumont d'Urville is therefore not cut off, technically — but the practical difference is severe in both length and danger: Hwy 2 through Casey was a short, direct coastal run through a single destroyed city, while Hwy 183 is a dramatically longer detour tracing almost the entire Ross Sea coast, passing the connecting roads and ruins of Cape Adare and Zukelli in addition to Denison, before ever reaching Janbogo and finally Concordia. Casey's destruction didn't isolate Dumont d'Urville outright, but it traded a short, single-hazard hop for one of the longest and most exposed overland journeys in the Janbogo subnet — a real, dangerous loss of practical connectivity even though a technical path remains.
 
 The ruins exist on the Budd Coast. Whether Wilkes Station ruins survived the war in any meaningful sense alongside the city ruins is TBD.
 
@@ -174,13 +176,13 @@ The ruins exist on the Budd Coast. Whether Wilkes Station ruins survived the war
 
 Casey is not a city that Concordia residents tell stories about the way they tell stories about Palmer City. It was a transit city — present in the memory of everyone who passed through it, but not the destination anyone was trying to reach. Its legacy in Concordia is quiet: the people who remember it tend to remember it as the last place they stopped before the drive to Concordia, the last time they saw open water before committing to the interior.
 
-The closure of Hwy 2/DCH after Casey's destruction is an ongoing practical fact that affects the whole Dumont d'Urville coast's connectivity to the rest of Tepenia. **Corrected 2026-07-05:** there is no "long way around" — Hwy 2 runs directly through Casey, so its destruction blocks the route at the source rather than merely disconnecting it, and there's no alternate overland path to Janbogo or anywhere else that doesn't also require passing through Casey first. Dumont d'Urville's overland connection is genuinely severed, not lengthened.
+The closure of Hwy 2/DCH after Casey's destruction is an ongoing practical fact that affects the whole Dumont d'Urville coast's connectivity to the rest of Tepenia — Hwy 2 runs directly through Casey, so its destruction blocks that specific route at the source rather than merely disconnecting it. **Corrected 2026-07-13:** this section previously claimed there was "no long way around" and that Dumont d'Urville's overland connection was "genuinely severed" — true as of 2026-07-05, superseded the very next day when Hwy 183 was corrected to run Concordia → Janbogo → Cape Adare → Denison → Dumont d'Urville, a complete alternate route that never passes through Casey. There *is* a long way around now — that's the point. Casey's fall didn't cut Dumont d'Urville off; it took away its short, single-hazard hop and left only a route that traces nearly the whole Ross Sea coast, past two more sets of ruins, instead. Dumont d'Urville's overland connection is severely lengthened and severely more dangerous, not severed outright.
 
 ---
 
 ## Open Questions
 
-- When in the Long Night War was Casey destroyed? (early casualty vs. late survivor — directly affects Pink Lucy's Route B viability)
+- When in the Long Night War was Casey destroyed? (early casualty vs. late survivor)
 - If Casey was an early casualty: did its junction position make it a strategic priority target — cutting the Concordia road connection at the critical chokepoint?
 - Notable individuals from Casey: TBD
 - Casey's full economic and industrial character beyond transit: TBD

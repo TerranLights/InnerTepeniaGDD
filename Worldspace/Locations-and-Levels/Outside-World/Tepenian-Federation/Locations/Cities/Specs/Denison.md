@@ -115,7 +115,7 @@ Structural/wind engineering was Denison's defining economic sector — an unusua
 
 ## Connection to Concordia
 
-TBD — Denison's road/highway connection to the rest of the Janbogo subnet network is not yet established. Denison-descended diaspora in Concordia carry a specific, quiet confidence about physical hardship, recognizable by an oddly casual relationship to severe weather and a habit of citing precise wind statistics in conversation. See `Local_Cultures/Janbogo_Subnet/Denison.md` Section 32 for full diaspora detail.
+Via Hwy 183 *(corrected 2026-07-13 — this line still said the connection was unestablished, a week after the 2026-07-06 highway correction, above, placed Denison directly on Hwy 183 between Cape Adare and Dumont d'Urville)*. Denison-descended diaspora in Concordia carry a specific, quiet confidence about physical hardship, recognizable by an oddly casual relationship to severe weather and a habit of citing precise wind statistics in conversation. See `Local_Cultures/Janbogo_Subnet/Denison.md` Section 32 for full diaspora detail.
 
 ---
 
@@ -123,7 +123,7 @@ TBD — Denison's road/highway connection to the rest of the Janbogo subnet netw
 
 Destroyed in the Long Night War, alongside Zukelli. At the time of destruction, human retention was 63.7% and robot retention was 72.8% — a mid-tier coastal city, not a city already in decline.
 
-**Note:** `Official_Population_Census.md` currently contains an internal inconsistency — its City Populations table does not mark Denison as destroyed, despite its own Section IV explicitly stating Denison was destroyed during the Long Night War. Not yet resolved; see `TODO.md`.
+**Note:** `Official_Population_Census.md`'s City Populations table previously did not mark Denison as destroyed, despite its own Section IV explicitly stating Denison was destroyed during the Long Night War — an internal inconsistency. **Resolved 2026-07-13**, adding the missing "(destroyed)" tag to Denison's row (and, opportunistically, to Cape Adare's own row, which had the same gap).
 
 ---
 
@@ -135,7 +135,6 @@ The city that endured Mawson's wind for over a century did not, in the end, endu
 
 ## Open Questions
 
-- **Highway/road connection** — Denison's physical connection to the rest of the Janbogo subnet coastal network is not yet established
 - **Post-war refugee faction** — unlike Zukelli, Denison has no dedicated post-war refugee faction of its own; per the developer (2026-07-05), not obligatory, though it would help future Concordia-set game design
 - **Demonym** — TBD
 - **Notable figures originally from Denison** — TBD

@@ -23,7 +23,7 @@
 | Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
-*Zukelli's composition is almost a mirror of Janbogo's — same Primary pair, same demographic shape, ten kilometers apart on the same bay. What differs is which exile community broke ground first and shaped the earliest civic institutions before the population diversified around it. This is the same structural pattern as Janbogo's own founding-era timeline (an early civic template that outlasted the founding population's own demographic share), which makes the two cities a genuine paired case — except Janbogo's own civic culture is still a living thing, and Zukelli's own version of it ended when the city did. Same shape, opposite outcome.*
+*Zukelli's composition is almost a mirror of Janbogo's — same Primary pair, same demographic shape, ~8km apart on the same bay *(corrected 2026-07-13 from "ten kilometers" — a stale figure surviving here despite the header above already carrying the 2026-07-03 correction)*. What differs is which exile community broke ground first and shaped the earliest civic institutions before the population diversified around it. This is the same structural pattern as Janbogo's own founding-era timeline (an early civic template that outlasted the founding population's own demographic share), which makes the two cities a genuine paired case — except Janbogo's own civic culture is still a living thing, and Zukelli's own version of it ended when the city did. Same shape, opposite outcome.*
 
 ---
 
@@ -31,7 +31,7 @@
 
 Italian exiles built Zukelli on Mario Zucchelli Station's infrastructure — Italy's primary Antarctic presence since 1985, mature and substantial by the exile era. They named the city for Zucchelli himself, the program director who shaped generations of Italian Antarctic work at this exact site, phonetically simplified into the Tepenian form.
 
-Ten kilometers away, Korean exiles were doing the same thing at Jang Bogo Station, and the two founding communities knew from the beginning that they'd built into each other's permanent horizon. The Terra Nova Bay polynya — kept open year-round by katabatic winds off the Transantarctic Mountains — was a shared resource neither city could claim exclusively, and the relationship between the two settlements developed the way any relationship does between neighbors close enough to see each other's lights: cooperative, competitive, occasionally rivalrous, permanently entangled.
+About 8km away *(corrected 2026-07-13, matching the 2026-07-03 GPS correction already reflected in this file's own header)*, Korean exiles were doing the same thing at Jang Bogo Station, and the two founding communities knew from the beginning that they'd built into each other's permanent horizon. The Terra Nova Bay polynya — kept open year-round by katabatic winds off the Transantarctic Mountains — was a shared resource neither city could claim exclusively, and the relationship between the two settlements developed the way any relationship does between neighbors close enough to see each other's lights: cooperative, competitive, occasionally rivalrous, permanently entangled.
 
 ---
 
@@ -81,7 +81,7 @@ Zukelli's defining civic fact, for as long as it stood, was Janbogo's constant p
 
 ## 8. Language
 
-- **a. Primary language(s):** Italian remained the civic default despite Italy's Significant-tier demographic standing, alongside the Chinese and English of the China/USA Primary pairing.
+- **a. Primary language(s):** *(Corrected 2026-07-13 — matched to Janbogo's own more careful parallel treatment: Italian was never the civic default; it wasn't even Zukelli's largest Significant-tier language, behind South Korea's 11.10% and Canada's 9.90%.)* Mandarin and English (American-inflected) were the most widely spoken daily languages, reflecting the China/USA Primary pairing. Italian persisted as a heritage and food-and-hospitality language — spoken fluently within old founding families and embedded in the vocabulary of communal eating regardless of a speaker's own ancestry (see 8b) — the same "founding-era linguistic fossil surviving its own demographic minority status" pattern established at Janbogo, not a claim of ongoing majority use. Korean, Canadian English/French, and Australian English were also meaningfully present within their own Significant-tier communities.
 - **b. Linguistic character** — Italian food and hospitality vocabulary entered everyday speech even among residents with no Italian ancestry, the same way Janbogo's teahouse vocabulary spread through its own population.
 - **c. Slang / dialect markers** — Culinary terms doubled as general expressions of approval or affection, a habit rooted in the city's own food-and-hospitality civic culture that outlasted any strict linguistic accuracy.
 - **d. Language and integration** — Low pressure, food-mediated — participating in the city's hospitality culture was itself a form of integration that didn't strictly require fluent Italian.
@@ -155,7 +155,7 @@ A genuinely lively musical culture, grown out of the city's own hospitality-cent
 
 ## 16. Human-Robot Relations
 
-Close to parity in population (685,979 robots to 616,325 humans) and integrated through the same food-and-hospitality civic culture that governed everything else — Zukelli's own approach to siligel craft as a genuine culinary tradition, not a separate technical category, meant robot and human culinary contributions were valued on comparable terms.
+Close to parity in population (631,067 robots to 627,584 humans, Census I) *(corrected 2026-07-13 — previously cited 685,979/616,325, a stale figure matching neither Census I nor Census II totals in `Specs/Zukelli.md`)* and integrated through the same food-and-hospitality civic culture that governed everything else — Zukelli's own approach to siligel craft as a genuine culinary tradition, not a separate technical category, meant robot and human culinary contributions were valued on comparable terms.
 
 ---
 

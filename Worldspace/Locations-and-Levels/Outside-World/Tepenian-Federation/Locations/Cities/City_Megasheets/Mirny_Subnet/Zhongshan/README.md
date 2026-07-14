@@ -1,6 +1,6 @@
 # Zhongshan — Complete Megasheet
 
-The full, concatenated Zhongshan reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07.
+The full, concatenated Zhongshan reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07. **Re-synced 2026-07-13** after that day's founding-story correction (Sino-Russian synthesis → singularly Chinese via Jeju-do) propagated through all three component files — see `project_zhongshan_singularly_chinese_resolution` memory for the full story. **Re-checked again 2026-07-13, second pass:** `Specs/Zhongshan.md` had been missed entirely by the original fix (still had the old "Soyuz (Russian)"/"TBD nationality" framing) despite this file and the three component files already being correct — now fixed to match. The Yekaterinburg inspiration pick, flagged below as possibly needing review, was checked and doesn't.
 
 ---
 
@@ -8,13 +8,13 @@ The full, concatenated Zhongshan reference — synthesis, then extrapolation, th
 
 **Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Zhongshan.md`, `Local_Cultures/Mirny_Subnet/Zhongshan.md`, `City_Vision_Notes/Zhongshan.md`, and real-world research on its three inspirational picks (Vilnius, Austin, Yekaterinburg). No `City_Enneagram_Personalities` file exists yet for Zhongshan — a genuine gap, noted but not blocking. Compiled 2026-07-07.
 
-**Note on this city's own unusual depth:** unlike most cities reaching this process, Zhongshan's Local Cultures file is already a fully-realized 32-section document with almost no TBD gaps — a rich, settled civic identity (the non-prying norm, Sino-Russian synthesis, the tea-and-samovar tradition, the "quiet that is actually purposeful"). This Mega-Init's job is correspondingly different: less filling in missing pieces, more using real-world research to reinforce and deepen what's already there, and resolving the small number of genuine remaining TBDs (demonym, notable figures, notable landmarks, a defining cultural premiere).
+**Note on this city's own unusual depth:** unlike most cities reaching this process, Zhongshan's Local Cultures file is already a fully-realized 32-section document with almost no TBD gaps — a rich, settled civic identity (the non-prying norm, the tea ceremony, the "quiet that is actually purposeful"). *(Note 2026-07-13: this file predates that day's correction of Zhongshan's founding story — the culture is now resolved as singularly Chinese, not a Sino-Russian synthesis; see `Local_Cultures/Mirny_Subnet/Zhongshan.md` and the TODO.md entry for the full resolution. **Re-reviewed 2026-07-13, second pass:** the Yekaterinburg inspiration pick below was flagged here as possibly needing review — checked, and it doesn't; see the note attached directly to that pick, further down.)* This Mega-Init's job is correspondingly different: less filling in missing pieces, more using real-world research to reinforce and deepen what's already there, and resolving the small number of genuine remaining TBDs (demonym, notable figures, notable landmarks, a defining cultural premiere).
 
 ---
 
 ## The One-Line Pitch
 
-*The only Tepenian city where the founding operator nation stayed on top for good — a place that never lost its identity, only refined it, where two great, quiet cultures fused without anyone designing the fusion, and where you always, gently, know you're a guest.*
+*The only Tepenian city where the founding operator nation stayed on top for good — a place that never lost its identity, only refined it, in constant proximity to two very different neighbors without ever blending into either, and where you always, gently, know you're a guest.*
 
 ---
 
@@ -24,7 +24,7 @@ The full, concatenated Zhongshan reference — synthesis, then extrapolation, th
 |---|---|
 | **Real-world basis** | Zhongshan Station (China/CHINARE, 1989), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E) |
 | **Status** | Damaged, partially operational |
-| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Soyuz and the Shirayuki |
+| **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with {{currently-unnamed Korean city}} and Shirayuki |
 | **Population (Census II)** | 522,372 humans / 474,312 robots / 996,684 combined |
 | **Founding** | Sinian (Chinese) defectors who chose exile alongside robots over their own nation's ideology — the only Tepenian city where the founding operator nation is also the unbroken long-run demographic Primary |
 
@@ -32,7 +32,7 @@ The full, concatenated Zhongshan reference — synthesis, then extrapolation, th
 
 ## Who Lives Here, and Why
 
-China leads, unbroken from founding through present — the one city in Tepenia where this was never displaced by later demographics. A second cultural pillar arrived early and settled deep enough to become genuinely co-equal at the cultural surface rather than a minority presence. Everyone else — Korean, Japanese, German, Australian, and a long Southeast Asian/Eastern European Notable tier — integrated into a cultural framework that was already fully formed by the time they arrived, producing the city's established "double life" dynamic: the shared public rhythm in daily life, one's own heritage kept quietly at home.
+China leads, unbroken from founding through present — the one city in Tepenia where this was never displaced by later demographics. **(Corrected 2026-07-13: this line previously described "a second cultural pillar" arriving early and becoming "genuinely co-equal" — wrong; Zhongshan was always singularly Chinese-founded, confirmed via the Jeju-do court. See `Local_Cultures/Mirny_Subnet/Zhongshan.md` Section 2.)** Everyone else — Korean, German, Japanese, Russian, Australian, and a long Southeast Asian/Eastern European Notable tier — integrated into a cultural framework that was already fully formed by the time they arrived, producing the city's established "double life" dynamic: the shared public rhythm in daily life, one's own heritage kept quietly at home.
 
 ---
 
@@ -48,7 +48,7 @@ The quiet lands first — not silence, but a low ambient register distinct from 
 
 A genuinely multicultural crossroads city where multiple nations of the historical Grand Duchy of Lithuania shaped its development together, merging Western and Eastern influence rather than one displacing the other. Its Old Town layers gothic, renaissance, baroque, and neoclassical architecture side by side, each visible without erasing what came before. Modern Vilnius carries a "quirky, alternative character crafted from bold defiance" — a fierce independence shaped directly by a complicated political history with larger neighboring powers.
 
-**What this gives Zhongshan:** direct, earned precedent for the city's central cultural fact — a genuine, unforced cultural synthesis where neither founding tradition erases the other, exactly as Vilnius's real historical layering shows distinct influences merging without one side simply winning. Vilnius's own "bold defiance despite/because of" larger neighboring powers gives real-world grounding to Zhongshan's established political stance toward the Sinian Federation: *we are more Chinese than they are; we kept the name; we did not keep them.*
+**What this gives Zhongshan, reconsidered 2026-07-13:** this pick's original rationale — "a genuine, unforced cultural synthesis where neither founding tradition erases the other" — rested on the same now-corrected dual-founding premise as the Yekaterinburg pick below. Zhongshan was never a synthesis of two founding traditions; it's singularly Chinese, refined by isolation rather than fused with a second culture. The half that still holds: Vilnius's own "bold defiance despite/because of" larger neighboring powers gives real-world grounding to Zhongshan's established political stance toward the Sinian Federation — *we are more Chinese than they are; we kept the name; we did not keep them.* The multicultural-layering half of the parallel needs the same review flagged for Yekaterinburg.
 
 ### Secondary: Austin
 
@@ -60,7 +60,7 @@ Home to the real "Keep Austin Weird" identity — a prosperous, orderly economic
 
 Founded by explicit decree as both a manufacturing center and a fortress simultaneously, built to a genuine regular square grid plan with ironworks and residences at the center — a real planned settlement that later centuries of industrial growth built onto and around, bending the original grid without ever fully erasing it. Also historically known as a major East-West trade nexus.
 
-**What this gives Zhongshan:** a precise structural precedent for the city's own newly-established architecture — a semi-gridlike order laid down early, "never fully abandoned even as later construction bent and broke it in places" (per the 2026-07-06 vision session). This real city's own history of exactly this kind of layered grid-plus-organic-growth gives that detail concrete grounding rather than an invented parallel. Its East-West trade nexus reputation also echoes Zhongshan's own established role as one of "the two faces of Sinian Antarctic Tepenia," alongside Kunlun.
+**What this gives Zhongshan:** a precise structural precedent for the city's own newly-established architecture — a semi-gridlike order laid down early, "never fully abandoned even as later construction bent and broke it in places" (per the 2026-07-06 vision session). This real city's own history of exactly this kind of layered grid-plus-organic-growth gives that detail concrete grounding rather than an invented parallel. Its East-West trade nexus reputation also echoes Zhongshan's own established role as one of "the two faces of Sinian Antarctic Tepenia," alongside Kunlun. *(Reviewed 2026-07-13, per the flag above: this pick's rationale never actually relied on the now-corrected Sino-Russian founding premise — it's grounded entirely in grid-plan architecture and East-West trade-nexus reputation, both legitimate real-world-echo flavor per the project's own 7-point framework, regardless of which nation founded Zhongshan. The Full Extrapolation's Section IV also independently draws on Yekaterinburg's Cold War defense-industrial history for the war-strike mechanism, another use with no dependency on the founding premise. The pick itself needs no further review or replacement.)*
 
 ---
 
@@ -68,9 +68,9 @@ Founded by explicit decree as both a manufacturing center and a fortress simulta
 
 Carried forward from `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhongshan.md`, the genuinely remaining TBDs:
 - Demonym — "Zhongshaners"? something Chinese?
-- Five notable figures, all currently placeholders: the founding figure, the cultural figure behind the tea-and-samovar synthesis, the artisan tradition founder, the literary figure, and (already named) Ji-Eun Kim
+- Four notable figures, all currently placeholders: the founding figure, the artisan tradition founder, the literary figure, and (already named) Ji-Eun Kim
 - Five notable landmarks, all currently placeholders: the original station structure, the primary archive, the rock formation, the artisan quarter, the counterculture district
-- The specific Long Night War strike on the Zhongshan/Soyuz cluster — resolved as damaged-but-functional, but what actually happened is still TBD
+- The specific Long Night War strike on the Zhongshan/{{currently-unnamed Korean city}} cluster — resolved as damaged-but-functional, but what actually happened is still TBD
 - A defining literary or musical premiere work — the piece considered to most completely express Zhongshan's cultural identity
 - Specific Prydz Bay fishing methods/species (flagged open in the Vision Notes)
 - No City Enneagram Personality profile exists yet
@@ -79,7 +79,7 @@ Carried forward from `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhong
 
 ## Worth Your Attention
 
-Vilnius is the standout of this pass — its real history of multiple traditions merging into one multicultural identity without any single one erasing the others is close to a perfect structural mirror of Zhongshan's own established, unforced cultural synthesis, giving the city's central cultural fact genuine documented precedent rather than resting on invented cultural chemistry alone.
+*(Corrected 2026-07-13: Vilnius's standout status here rested on the same "unforced cultural synthesis" premise now corrected — see the Vilnius entry above. Its "bold defiance toward a larger neighboring power" half still resonates strongly with Zhongshan's political relationship to the Sinian Federation and remains the stronger surviving parallel.)*
 
 ---
 
@@ -98,8 +98,8 @@ Following the Chinese place-name demonym convention already familiar in English 
 ## II. Notable Figures (proposed, unconfirmed)
 
 - **Founding Elder Mèi Sun-Rutherford** *(placeholder)* — credited with choosing the name Zhongshan itself and articulating the founding political stance (*we kept the name; we did not keep them*); considered the city's moral anchor per the existing placeholder description.
-- **Composer Irina Voskoboinikova** *(placeholder)* — the figure most associated with formalizing the tea-and-samovar tradition into a shared civic ritual rather than two parallel practices; also credited, fittingly, with an early composition in the Sino-classical fusion tradition described in Section 12 of the Local Cultures file.
-- **Master Craftsman Wǔ Petrenko** *(placeholder, deliberately cross-cultural surname)* — established the cross-cultural artisan tradition described in Section 13; the first recognized practitioner working fluently at the interface of both founding material cultures rather than in either alone.
+- **Composer Táng Yuxuan** *(placeholder; corrected 2026-07-13 — previously "Composer Irina Voskoboinikova," credited with a "tea-and-samovar" synthesis and "Sino-classical fusion" that no longer reflects Zhongshan's corrected, singularly Chinese classical tradition)* — credited with the earliest surviving composition in Zhongshan's own contemplative classical tradition, carrying erhu, pipa, and guqin forward into the distinctly Antarctic, unhurried form described in Section 12.
+- **Master Craftsman Táng Wǔ** *(placeholder; corrected 2026-07-13 — previously "Wǔ Petrenko," a deliberately cross-cultural surname tied to a now-corrected "interface of both founding material cultures" craft tradition)* — established Zhongshan's own artisan class, described in Section 13, as a recognized civic institution; the first name attached to a tradition of precision applied to material culture that the city still measures itself by.
 - **The Unnamed Chronicler** *(placeholder)* — the literary figure considered to have most fully expressed the Zhongshan sensibility; left deliberately unnamed and possibly a robot, consistent with the existing placeholder's own open framing — a writer whose identity is less important to the city's self-image than the fact that the work exists and is still read.
 
 *(All entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" lines a concrete starting point, not finished character writing.)*
@@ -111,32 +111,32 @@ Following the Chinese place-name demonym convention already familiar in English 
 - **The Founding Hall** — the preserved original Zhongshan Station structure, integrated into the city's core as established.
 - **The Long Record** — the city's primary archive, custodian of the most complete pre-Split-Brain history in the Mirny subnet.
 - **The Standing Stone** — the exposed bedrock outcrop around which early construction organized itself, now an informal gathering site.
-- **The Crossing Quarter** — the artisan neighborhood where the cross-cultural craft tradition concentrates.
+- **The Crossing Quarter** *(corrected 2026-07-13 — previously "the cross-cultural craft tradition," now Zhongshan's own continuous Chinese artisan tradition)* — the artisan neighborhood where the city's woodworkers, ceramicists, and metalworkers concentrate.
 - **The Loud Quarter** *(colloquial; no formal name)* — the counterculture district, deliberately without an official name, consistent with a mainstream culture that acknowledges but doesn't formally dignify it.
 
 ---
 
 ## IV. What the Long Night War Strike Actually Did
 
-**Proposed, drawing on Yekaterinburg's real Cold War-era defense-industrial specialization:** Zhongshan's precision manufacturing sector (established at ~25% of Division of Industry) plausibly had some genuine strategic-value output — components or materials with applications beyond ordinary civilian use — making the city a deliberate target rather than incidental collateral damage, echoing the way a real heavy-industrial city's civilian and strategic production can be inseparable from the outside. The strike itself hit the Zhongshan/Soyuz cluster's shared infrastructure (the tri-junction highway node, established elsewhere as one physical location for both cities), consistent with both cities landing at "damaged but functional" rather than destroyed — significant, felt simultaneously by both communities, but not total.
+**Proposed, drawing on Yekaterinburg's real Cold War-era defense-industrial specialization:** Zhongshan's precision manufacturing sector (established at ~25% of Division of Industry) plausibly had some genuine strategic-value output — components or materials with applications beyond ordinary civilian use — making the city a deliberate target rather than incidental collateral damage, echoing the way a real heavy-industrial city's civilian and strategic production can be inseparable from the outside. The strike itself hit the Zhongshan/{{currently-unnamed Korean city}} cluster's shared infrastructure (the tri-junction highway node, established elsewhere as one physical location for both cities), consistent with both cities landing at "damaged but functional" rather than destroyed — significant, felt simultaneously by both communities, but not total.
 
 ---
 
 ## V. A Defining Cultural Premiere: "The Long Winter Suite"
 
-**Proposed:** a multi-movement Sino-Russian classical fusion composition, structured around the polar night's roughly 60-day arc from onset to first light, using erhu, pipa, and guqin in dialogue with Russian classical structure exactly as described in Section 12. Considered the piece that most completely defines Zhongshan's musical identity — deliberately long, unhurried, requiring real patience from a listener, consistent with "a Zhongshan composition takes time to understand."
+**Proposed:** a multi-movement composition in Zhongshan's own contemplative classical tradition, structured around the polar night's roughly 60-day arc from onset to first light, using erhu, pipa, and guqin exactly as described in Section 12. *(Corrected 2026-07-13 — previously described as a "Sino-Russian classical fusion"; the tradition is singularly Chinese, carried forward and reshaped by Zhongshan's own population.)* Considered the piece that most completely defines Zhongshan's musical identity — deliberately long, unhurried, requiring real patience from a listener, consistent with "a Zhongshan composition takes time to understand."
 
 ---
 
 ## VI. Prydz Bay Fishing — Methods and Species
 
-**Proposed, grounded in real Southern Ocean/Prydz Bay conditions:** krill and Antarctic silverfish form the practical dietary backbone, harvested via net fishing during the brief ice-free summer window and ice-hole fishing through the winter, consistent with the same patient, unhurried civic temperament applied to food gathering. The fermentation and preservation traditions already established for both Dongbei and Russian source cuisines (Section 10) apply directly to the catch, giving Zhongshan's maritime food culture the same "chaos that is actually structure" quality as its street layout and dumpling arguments — a lot of individual variation in how the fish is actually prepared, no real disagreement about the fact that it's central to the diet.
+**Proposed, grounded in real Southern Ocean/Prydz Bay conditions:** krill and Antarctic silverfish form the practical dietary backbone, harvested via net fishing during the brief ice-free summer window and ice-hole fishing through the winter, consistent with the same patient, unhurried civic temperament applied to food gathering. The fermentation and preservation traditions already established for the city's own cuisine (Section 10) apply directly to the catch, giving Zhongshan's maritime food culture the same "chaos that is actually structure" quality as its street layout and dumpling arguments — a lot of individual variation in how the fish is actually prepared, no real disagreement about the fact that it's central to the diet.
 
 ---
 
 ## Worth Your Attention
 
-Section IV is the most structurally useful proposal here — it gives the Zhongshan/Soyuz cluster's already-resolved "damaged but functional" war status a genuine, specific mechanism (precision manufacturing with strategic value, hit at the shared infrastructure node) rather than leaving "whatever the war did to this cluster" as a pure blank, which is exactly the kind of unaddressed placeholder this document exists to resolve.
+Section IV is the most structurally useful proposal here — it gives the Zhongshan/{{currently-unnamed Korean city}} cluster's already-resolved "damaged but functional" war status a genuine, specific mechanism (precision manufacturing with strategic value, hit at the shared infrastructure node) rather than leaving "whatever the war did to this cluster" as a pure blank, which is exactly the kind of unaddressed placeholder this document exists to resolve.
 
 ---
 
@@ -148,11 +148,13 @@ Section IV is the most structurally useful proposal here — it gives the Zhongs
 
 ## Finding 1: the Crossing Quarter is the most thematically concentrated site in the city
 
-**Combining:** Vilnius's real precedent of multiple distinct traditions merging into one multicultural identity without erasure + Zhongshan's own established cross-cultural artisan tradition (craftspeople working at the interface of both founding material cultures) + the newly-proposed "Crossing Quarter" artisan neighborhood (Full Extrapolation, Section III).
+*(Corrected 2026-07-13: this finding originally traced back to "the interface of both founding material cultures" — a cross-cultural Chinese-Russian craft premise that no longer holds; Zhongshan's artisan tradition is singularly, continuously Chinese. Rebuilt below on the corrected premise.)*
 
-**2nd-order effect:** the artisan tradition isn't just a cultural curiosity sitting alongside the city's main identity — it's the living, ongoing physical expression of the exact same merging-without-erasure dynamic that shapes Zhongshan at every other scale, condensed into actual, touchable objects rather than diffuse cultural atmosphere.
+**Combining:** Vilnius's real precedent of a city whose identity coheres around one continuous tradition rather than fragmenting under later arrivals + Zhongshan's own established artisan class (Section 13), unbroken since founding + the newly-proposed "Crossing Quarter" artisan neighborhood (Full Extrapolation, Section III).
 
-**3rd-order effect:** this makes the Crossing Quarter arguably the single most thematically concentrated location in the entire city — a physical place where Zhongshan's central cultural fact is directly visible in a handful of workshops, more legible there than in language, architecture, or any other diffuse expression of the same underlying process.
+**2nd-order effect:** the artisan tradition isn't just a cultural curiosity sitting alongside the city's main identity — it's the living, ongoing physical expression of the same unbroken-continuity dynamic that shapes Zhongshan at every other scale, condensed into actual, touchable objects rather than diffuse cultural atmosphere.
+
+**3rd-order effect:** this makes the Crossing Quarter arguably the single most thematically concentrated location in the entire city — a physical place where Zhongshan's central cultural fact (an identity that was never diluted, only refined) is directly visible in a handful of workshops, more legible there than in language, architecture, or any other diffuse expression of the same underlying process.
 
 **4th-order effect:** this is a natural candidate site for any future material-culture institution, museum, or teaching function about what Zhongshan actually is — a place where a newcomer could see the city's whole cultural logic condensed and observable, rather than needing years of residency to absorb it the way the rest of the non-prying culture otherwise requires.
 
@@ -174,7 +176,7 @@ Section IV is the most structurally useful proposal here — it gives the Zhongs
 
 **Combining:** the real precedent of a grid-founded city undergoing centuries of organic industrial growth built onto and around its original planned core + Zhongshan's own established semi-gridlike street layout, "laid down early and never fully abandoned" + the newly-proposed Long Night War strike hitting the tri-junction/shared infrastructure node (Full Extrapolation, Section IV).
 
-**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, Soyuz, and the Shirayuki — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
+**2nd-order effect:** the tri-junction highway node — already established as the physical location shared by Zhongshan, {{currently-unnamed Korean city}}, and Shirayuki — sits at exactly the kind of load-bearing chokepoint a grid-founded city's original core would occupy, meaning the war's damage there hit the oldest, most structurally central part of the settlement, not a peripheral area.
 
 **3rd-order effect:** this means the cluster's established "damaged but functional" status is best understood as damage concentrated specifically at the shared foundational infrastructure the whole cluster's layout was originally organized around, while the newer, organically-grown outer districts were more likely to have survived relatively intact simply by being structurally and geographically distant from that chokepoint.
 
@@ -184,7 +186,7 @@ Section IV is the most structurally useful proposal here — it gives the Zhongs
 
 ## Synthesis: The Pattern Across All Three Findings
 
-All three findings trace back to the same underlying observation: Zhongshan's established civic principles (merging without erasure, non-prying as respect, structural continuity under organic growth) aren't abstract descriptions floating above the city — they recur, concretely and checkably, at every scale the research touches: a neighborhood of craftspeople, an unnamed district, a physical chokepoint in the road network. The city's core identity isn't just stated once in its Post-Culture Identity section; it's structurally embedded everywhere else this pass looked.
+All three findings trace back to the same underlying observation: Zhongshan's established civic principles (unbroken cultural continuity, non-prying as respect, structural continuity under organic growth) aren't abstract descriptions floating above the city — they recur, concretely and checkably, at every scale the research touches: a neighborhood of craftspeople, an unnamed district, a physical chokepoint in the road network. The city's core identity isn't just stated once in its Post-Culture Identity section; it's structurally embedded everywhere else this pass looked.
 
 ---
 

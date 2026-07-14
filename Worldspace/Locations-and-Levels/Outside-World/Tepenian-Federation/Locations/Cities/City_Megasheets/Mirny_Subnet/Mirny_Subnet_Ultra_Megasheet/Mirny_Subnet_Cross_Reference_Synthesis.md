@@ -30,13 +30,13 @@
 
 ## Finding 3: Naming as chosen, meaningful, and repeatable civic act is uniquely concentrated in this subnet
 
-**Combining:** the currently-unnamed Korean city's own self-chosen founding name, now scheduled for a second deliberate renaming (`Mirny_Cross_City_Patterns.md`, Pattern 4) + Shirayuki's own freshly-completed naming process, resolved mid-project + Mirny's own flagged eventual rename, complicated by its own subnet-name entanglement (this Ultra-Megasheet's own Full Extrapolation, Section II).
+**Combining:** the currently-unnamed Korean city's own still-pending first-ever act of self-naming *(corrected 2026-07-13, was "self-chosen founding name, now scheduled for a second deliberate renaming" — wrong; "Soyuz" was never the founders' choice at all, so the eventual rename will be the city's first genuine self-naming, not its second)* (`Mirny_Cross_City_Patterns.md`, Pattern 4) + Shirayuki's own freshly-completed naming process, resolved mid-project + Mirny's own flagged eventual rename, complicated by its own subnet-name entanglement (this Ultra-Megasheet's own Full Extrapolation, Section II).
 
 **2nd-order effect:** three of the subnet's eight cities carry an active naming arc simultaneously — a concentration this project hasn't documented in any other single subnet, where naming is typically a settled, inherited fact rather than an ongoing civic question.
 
 **3rd-order effect:** this makes Mirny subnet, among all subnets examined so far, the one where the act of naming itself is most clearly established as carrying real, in-world weight — not an incidental label, but something this subnet's own cities repeatedly treat as worth getting right, worth changing, or worth waiting on until an identity is developed enough to deserve a name.
 
-**4th-order effect:** worth flagging for whenever any of these three renaming decisions is actually made — the standard the currently-unnamed Korean city's own Cross-Reference Finding 3 already proposed (a new name should carry the same deliberate weight the old one did, not read as a neutral correction) is worth applying consistently across all three cases, given they now read as one shared subnet-level pattern rather than three unrelated open items.
+**4th-order effect:** worth flagging for whenever any of these three renaming decisions is actually made — the standard the currently-unnamed Korean city's own Cross-Reference Finding 3 already proposed (a new name should carry the weight of being the city's actual, first act of self-definition, not treated as simply correcting the demographic record) is worth applying consistently across all three cases, given they now read as one shared subnet-level pattern rather than three unrelated open items.
 
 ---
 

@@ -265,7 +265,7 @@ Becoming a local here means internalizing the negotiation ethic — stopping try
 
 ## 31. Notable Figures
 
-- **Pink Lucy** *(TBN FW-25)* — Robot; Dumont d'Urville native; relocated pre-war to Janbogo or Casey (route undecided) before ultimately reaching Concordia; currently a Still-Present in-game character
+- **Pink Lucy** *(TBN FW-25)* — Robot; Dumont d'Urville native; **migration route resolved 2026-07-12:** relocated pre-war to Janbogo, settled there for a time, before ultimately reaching Concordia — chosen over the earlier Casey alternative on personality-match grounds; currently a Still-Present in-game character *(corrected 2026-07-13 — this entry still said "Janbogo or Casey, route undecided," a week-old resolution that had never propagated here)*
 
 ---
 

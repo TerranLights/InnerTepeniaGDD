@@ -76,7 +76,7 @@ Carried forward from `Specs/Casey.md`, still genuinely unresolved:
 - Casey's full economic and industrial character beyond transit: TBD
 - Wilkes Station ruins — do they survive the war in any accessible form?
 - Which DLC (if any) covers Casey's ruins, given the Mirny region is DLC territory, not main-game
-- Whether Pink Lucy's migration Route B (Dumont d'Urville → Casey → Concordia) is her actual path — contingent on the destruction-timing question above
+- ~~Whether Pink Lucy's migration Route B (Dumont d'Urville → Casey → Concordia) is her actual path~~ — **RETIRED 2026-07-12:** her route was resolved as Dumont d'Urville → Janbogo instead; Route B is no longer under consideration *(corrected 2026-07-13)*
 
 **New, surfaced by this research pass:** Flagstaff, Memphis, and Reno are all real cities whose residents came to feel genuine ownership over what started as purely functional infrastructure. This sharpens Casey's own "destination vs. waypoint" tension into a more specific open question: did Casey's own residents ever feel they had "arrived" at something — the way Reno's did after 1931 — or was Splinters' fame purely an *export*, felt by everyone traveling through and past Casey, without ever fully becoming how Casey's own people saw themselves? The existing files don't currently answer this either way.
 
@@ -98,7 +98,7 @@ Reno is the standout of this pass — its real, dated 1931 pivot from stopover t
 
 **Proposed:** Casey was an early casualty, deliberately and specifically targeted rather than caught incidentally in broader war damage. The reasoning traces directly from an already-established fact: Hwy 2/DCH runs *directly through* Casey rather than merely connecting to it, meaning a single strike here achieves two strategic outcomes at once — severing Concordia's coastal supply lifeline along Hwy 110, and cutting the Dumont d'Urville coast off from the rest of the highway network entirely, with no possible reroute. For an attacking force choosing where to spend limited early strikes for maximum effect, a junction that collapses two supply corridors simultaneously is a uniquely efficient target — more valuable, strike-for-strike, than either Zukelli's symbolic-deterrent destruction or a straightforward population-center strike.
 
-**Direct consequence for Pink Lucy's Route B:** if Casey fell early, Route B (Dumont d'Urville → Hwy 2 → Casey → Hwy 110 → Concordia) would only have been viable in the war's earliest window, if at all — narrowing, not closing outright, the possibility that her migration passed through Casey's ruins rather than around a route that no longer existed by the time she left.
+**Formerly proposed consequence for Pink Lucy's Route B, now moot:** this section previously argued that an early Casey destruction would narrow, not close, the possibility her migration passed through Casey's ruins. **Retired 2026-07-12** — her route was resolved as Dumont d'Urville → Janbogo instead; Route B is no longer under consideration, so Casey's own destruction timing has no bearing on her backstory *(corrected 2026-07-13)*. Casey's own destruction-timing reasoning above stands independently of this.
 
 ---
 
@@ -137,7 +137,7 @@ Reno is the standout of this pass — its real, dated 1931 pivot from stopover t
 
 ## Worth Your Attention
 
-Section I is the most load-bearing proposal here — it resolves Casey's single most consequential open question (destruction timing) with a mechanism that traces directly from an already-established fact (Hwy 2 running through, not just to, Casey) rather than inventing a new justification, and it directly narrows the Pink Lucy Route B question rather than leaving it fully open. Section V is the second most valuable, since it gives real emotional resolution to the tension the Mega-Init itself surfaced — whether Casey's fame was something its own people felt ownership over, or merely something that happened to them.
+Section I is the most load-bearing proposal here — it resolves Casey's single most consequential open question (destruction timing) with a mechanism that traces directly from an already-established fact (Hwy 2 running through, not just to, Casey) rather than inventing a new justification. *(Its Pink Lucy Route B tie-in is now moot — her route was resolved 2026-07-12 as Dumont d'Urville → Janbogo instead; corrected 2026-07-13.)* Section V is the second most valuable, since it gives real emotional resolution to the tension the Mega-Init itself surfaced — whether Casey's fame was something its own people felt ownership over, or merely something that happened to them.
 
 ---
 

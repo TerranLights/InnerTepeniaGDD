@@ -195,7 +195,7 @@ Filtered through the city's own layered founding-to-present history and the dual
 
 ## 23. Relationship to Other Cities
 
-- **Maitri (west) and Sayowa (east):** Direct Hwy 7-ext neighbors — Princess Elisabeth sits between the rest of the Halley subnet and Sayowa, itself a major junction city in the Mawson subnet.
+- **Lazar (west) and Sayowa (east):** Direct Hwy 7-ext neighbors — Princess Elisabeth sits between the rest of the Halley subnet and Sayowa, itself a major junction city in the Mawson subnet.
 - **Dome Fuji:** Geographically closer than any other Halley subnet city, though whether that proximity produces any real cultural or pilgrimage connection is still an open question.
 - **The rest of the Halley subnet:** Connected via Hwy 7-ext, but genuinely more geographically and demographically oriented eastward than its western subnet neighbors.
 

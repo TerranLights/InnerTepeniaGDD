@@ -12,7 +12,7 @@ These are the cleanest, most easily justified Launch-exclusive items, because th
 
 - **Voice acting.** Early Access ships text-only, or with a companion or two temp-voiced as a taste of what's coming. Full voice acting for every companion and major NPC arrives at launch.
 - **3D animation polish.** Early Access ships with functional but simpler rigging/mocap; launch brings the professional animation pass, especially on companion romance scenes and combat.
-- **Original music.** Early Access ships with stock/royalty-free or placeholder tracks; launch brings in the actual bands/composers for the game's various musical textures — Leo's music scene, Naizelle d'Edjordoś's Heavy Metal/Industrial background, Zhongshan's Sino-Russian classical fusion, Pink Lucy's Warm Circuit sound, and so on. This is the easiest of the three to market directly to players — "hear the real bands" is a tangible, legible launch feature in its own right, not just an internal production milestone.
+- **Original music.** Early Access ships with stock/royalty-free or placeholder tracks; launch brings in the actual bands/composers for the game's various musical textures — Leo's music scene, Naizelle d'Edjordoś's Heavy Metal/Industrial background, Zhongshan's contemplative Chinese classical tradition *(corrected 2026-07-13 — previously "Sino-Russian classical fusion"; Zhongshan is singularly Chinese-founded, not a Sino-Russian fusion — see `Specs/Zhongshan.md`)*, Pink Lucy's Warm Circuit sound, and so on. This is the easiest of the three to market directly to players — "hear the real bands" is a tangible, legible launch feature in its own right, not just an internal production milestone.
 
 ---
 

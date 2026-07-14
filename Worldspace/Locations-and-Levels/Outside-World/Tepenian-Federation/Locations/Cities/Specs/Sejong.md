@@ -16,33 +16,32 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Germany, France, UK, Italy, South Korea, Russia, Mexico, Brazil |
+| Primary | USA |
+| Significant | France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections I-III. **Recalculated 2026-07-13** — China removed as a methodology-violating entry (see `Upper_Earth_Immigration_Composition.md`'s Sejong section for the full reasoning: China appeared nowhere else in the Palmer subnet, its inclusion here traced to real-world Great Wall Station's presence on King George Island despite this project's own rule that station-operator identity is excluded from this composite). Remaining nations rescaled proportionally (×1.2481) to sum to 100%, preserving their prior relative shares.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05, recalculated 2026-07-13 after China's removal — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 19.88% | 65,237 | 62,961 | 55,620 | 46,581 |
-| Primary | USA | 17.33% | 56,862 | 54,878 | 48,479 | 40,601 |
-| Significant | France | 9.31% | 30,559 | 29,492 | 26,054 | 21,820 |
-| Significant | UK | 9.05% | 29,682 | 28,646 | 25,306 | 21,194 |
-| Significant | Mexico | 9.04% | 29,669 | 28,634 | 25,295 | 21,185 |
-| Significant | Germany | 8.59% | 28,185 | 27,202 | 24,030 | 20,125 |
-| Significant | Brazil | 5.36% | 17,602 | 16,988 | 15,007 | 12,568 |
-| Significant | Italy | 4.91% | 16,106 | 15,543 | 13,731 | 11,500 |
-| Significant | Russia | 4.91% | 16,118 | 15,556 | 13,742 | 11,509 |
-| Significant | South Korea | 4.64% | 15,228 | 14,697 | 12,983 | 10,874 |
-| Notable | Argentina | 3.41% | 11,199 | 10,808 | 9,548 | 7,996 |
-| Notable | Chile | 2.83% | 9,285 | 8,961 | 7,916 | 6,629 |
-| Notable | Uruguay | 0.73% | 2,410 | 2,326 | 2,055 | 1,721 |
+| Primary | USA | 21.65% | 71,038 | 68,568 | 60,573 | 50,720 |
+| Significant | France | 11.62% | 38,131 | 36,799 | 32,510 | 27,225 |
+| Significant | UK | 11.30% | 37,077 | 35,789 | 31,616 | 26,474 |
+| Significant | Mexico | 11.28% | 37,020 | 35,733 | 31,560 | 26,427 |
+| Significant | Germany | 10.72% | 35,187 | 33,955 | 29,994 | 25,115 |
+| Significant | Brazil | 6.69% | 21,952 | 21,187 | 18,720 | 15,678 |
+| Significant | Italy | 6.13% | 20,116 | 19,412 | 17,151 | 14,362 |
+| Significant | Russia | 6.12% | 20,079 | 19,376 | 17,119 | 14,335 |
+| Significant | South Korea | 5.79% | 19,000 | 18,336 | 16,199 | 13,566 |
+| Notable | Argentina | 4.26% | 13,979 | 13,491 | 11,918 | 9,981 |
+| Notable | Chile | 3.53% | 11,582 | 11,180 | 9,878 | 8,273 |
+| Notable | Uruguay | 0.91% | 2,986 | 2,882 | 2,546 | 2,132 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology. Row sums may be off by a handful of individuals from the Census I/II totals due to per-nation rounding — immaterial, consistent with this project's established tolerance (see Lazar's own per-nation table for precedent).*
 
 ---
 
@@ -54,7 +53,7 @@ What made King George Island distinctive in the pre-exile era was concentration:
 
 Sejong, as the Korean settlement, was named after the king who gave Korea its alphabet — an act of cultural self-definition by a monarch who believed his people deserved a writing system of their own. The choice of name carries quiet weight: an exile community naming their Antarctic city after the person who gave their ancestors the tools to record their own language and history.
 
-The Janbogo connection: the Korean community in Tepenia spans both Janbogo (the Ross Sea Korean city, the game's main subnet hub) and Sejong (the Palmer subnet). Both cities carry Korean cultural identity; both are named after Korean historical figures. The relationship between these two Korean exile communities — separated by the breadth of the continent — is a lore thread worth developing.
+The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both founded by Korean exiles and named after Korean historical figures, but Sejong's own Korean population diluted over 130 years of King George Island's extreme multinational immigration down to just 5.79%, the smallest of its eight Significant-tier nations, well behind the USA's sole-Primary 21.65% and France's 11.62%. Tepenia's living Korean population centers today are Janbogo and {{currently-unnamed Korean city}} (Mirny subnet, singularly Korean-founded via the Jeju-do partition, still Korean-Primary at 34.62%) — Sejong shares a founding-era naming heritage with Janbogo, not an ongoing demographic one. This is the same pattern already resolved at Sayowa (Japan-founded, diluted, superseded as "the" Japanese city by Shirayuki): a shared founding-era naming choice surviving after the living identity moved elsewhere.
 
 ### Annual Climate
 
@@ -103,7 +102,7 @@ Sejong's character was shaped by proximity to everyone else. No other Tepenian c
 
 The mild climate made King George Island the most physically comfortable location in the Palmer subnet, which paradoxically made it more competitive: multiple communities vying for the same favorable ground. The social dynamics of King George Island, with its dense concentration of distinct national communities, would have produced a unique kind of inter-community politics with no equivalent elsewhere in Tepenia.
 
-**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate. The Janbogo connection — the two Korean cities of Tepenia separated by a continent.
+**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate. Sharing a founding-era naming heritage with Janbogo. *(Corrected 2026-07-13: no longer counted among Tepenia's living Korean population centers, which today are Janbogo and {{currently-unnamed Korean city}} — Sejong's own Korean population has diluted to its smallest Significant-tier nation.)*
 
 ---
 
@@ -125,7 +124,7 @@ King George Island's favorable position (most accessible part of Antarctica, clo
 ---
 
 ## Connection to Concordia
-Palmer subnet, and a parallel to Janbogo's Korean community. The Korean exile identity in Tepenia was split between the two coasts; Sejong and Janbogo represent the same people on different sides of the continent.
+Palmer subnet. *(Corrected 2026-07-13: this entry previously called Sejong "a parallel to Janbogo's Korean community" and said the two cities "represent the same people" — wrong. Janbogo and {{currently-unnamed Korean city}} are Tepenia's living Korean demographic centers; Sejong's Korean population has diluted to 5.79%, its smallest Significant-tier nation. Sejong's refugees in Concordia are shaped by its own real, multinational composition, not a shared Korean identity with Janbogo's diaspora.)*
 
 ---
 
@@ -136,6 +135,6 @@ Sejong's legacy is the coexistence experiment — the proof that a dozen nationa
 
 ## Open Questions
 - **The other King George Island settlements** — what became of the non-Korean communities on the island? Do they have their own city entries, or are they folded into Sejong's story?
-- **The Sejong–Janbogo relationship** — the two Korean cities of Tepenia; did they have a special relationship, shared cultural institutions, regular communication?
+- **The Sejong–Janbogo relationship** — *(reframed 2026-07-13: not two Korean cities in ongoing parity — Janbogo remains a genuine Korean demographic center (alongside {{currently-unnamed Korean city}}); Sejong's Korean founding is now a shared naming heritage, not a living connection)* did the two cities maintain any relationship at all, given how little they actually have in common today?
 - **Demonym** — **Sejongite** *(established 2026-07-04)*
 - **Notable figures** — TBD

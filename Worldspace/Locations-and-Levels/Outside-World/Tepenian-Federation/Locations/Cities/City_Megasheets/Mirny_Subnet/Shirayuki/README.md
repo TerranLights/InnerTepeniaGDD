@@ -12,7 +12,7 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 
 ## The One-Line Pitch
 
-*The only Tepenian city that exists because Upper Earth diplomats decided it should, before the exile era even began — and the one place in the country where that imposed, external origin turned, over centuries, into a genuinely chosen identity built on research, education, and a homemade, wildly creative art-and-fashion culture.*
+*One of only two Tepenian cities that exist because Upper Earth diplomats decided they should, before the exile era even began — and the one of the two where that imposed, external origin turned, over centuries, into a genuinely chosen identity built on research, education, and a homemade, wildly creative art-and-fashion culture. (Corrected 2026-07-13 — previously "the only Tepenian city"; {{currently-unnamed Korean city}} shares the identical Jeju-do mechanism.)*
 
 ---
 
@@ -25,7 +25,7 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 | **Subnet** | Mirny — DLC 7, moved from Mawson 2026-07-05 |
 | **Highway access** | Hwy 4's eastern terminus, at a tri-junction with Hwy 110 and Hwy 22, same physical location as Zhongshan and Soyuz |
 | **Population (Census II)** | 336,124 humans / 392,200 robots / 728,324 combined |
-| **Founding** | Japanese exiles, via a pre-exile diplomatic allocation from the International Court of Diplomacy at Jeju-do — the only Tepenian city founded this way |
+| **Founding** | Japanese exiles, via a pre-exile diplomatic allocation from the International Court of Diplomacy at Jeju-do — one of only two Tepenian cities founded this way, alongside {{currently-unnamed Korean city}} *(corrected 2026-07-13 — previously "the only")* |
 
 ---
 
@@ -82,7 +82,7 @@ Unofficially "the Capital of Siberia" — a major transport, industrial, scienti
 ## What's Actually Open
 
 Carried forward from `Specs/Shirayuki.md`, still genuinely unresolved:
-- **The city's actual Japanese proper name** — the single largest open item, deliberately deferred (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`) until each Larsemann Hills city's own identity is more fully developed
+- *(Resolved 2026-07-08, no longer open: the city's actual Japanese proper name — Shirayuki (白雪, "white snow"), per the header naming note above. This bullet was left listing it as "the single largest open item, deliberately deferred" well after the name was actually chosen — removed here.)*
 - The Jeju-do allocation's specifics — exact date, and whether China or Korea contested it at the time
 - The lived relationship with Soyuz and Zhongshan, given the deliberately-engineered (rather than organic) founding
 - How the founding community adapted or modified the inherited Bharati Station infrastructure
@@ -105,9 +105,11 @@ Harajuku's own founding story is the standout of this pass — a creative identi
 
 ---
 
-## I. The City's Own Proper Name — Deliberately Left Open
+## I. The City's Own Proper Name — Resolved One Day After This Was Written
 
-Unlike every other item below, this one isn't proposed here. The developer has explicitly stated a preference for letting this city's (and its two cluster neighbors') identities fully develop first, and letting a proper name emerge organically afterward, rather than forcing one now (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`). Proposing a name here would work directly against that explicit direction, so this section is a deliberate placeholder, not an oversight.
+*(Corrected 2026-07-13: this section, written 2026-07-07, originally argued the name should stay deliberately open pending the cluster's fuller development. The developer named the city the very next day — Shirayuki (白雪, "white snow"), 2026-07-08, per `Specs/Shirayuki.md`. The section is kept below as a record of the reasoning at the time, not as an active recommendation still in force.)*
+
+Unlike every other item below, this one wasn't proposed here at the time of writing. The developer had explicitly stated a preference for letting this city's (and its two cluster neighbors') identities fully develop first, and letting a proper name emerge organically afterward, rather than forcing one immediately (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`). That preference held for exactly one more day.
 
 ---
 
@@ -117,9 +119,9 @@ Unlike every other item below, this one isn't proposed here. The developer has e
 
 ---
 
-## III. The Early Relationship With Soyuz and Zhongshan
+## III. The Early Relationship With {{currently-unnamed Korean city}} and Zhongshan
 
-**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via three different mechanisms (Zhongshan's organic proximity, Soyuz's own founding story, and this city's deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
+**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via two distinct mechanisms *(corrected 2026-07-13, was "three different mechanisms" — wrong; {{currently-unnamed Korean city}} and this city both arrived via the identical Jeju-do diplomatic allocation, allocated to Korea and Japan respectively, not two separate mechanisms)* (Zhongshan's organic proximity confirmed by the same court, versus {{currently-unnamed Korean city}}'s and this city's shared deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
 
 ---
 
@@ -149,7 +151,7 @@ Not resolved here, consistent with its status as a shared candidate across five 
 **Proposed, drawing directly on Shibuya-kei and gyaru culture as models for how a broad scene crystallizes into named, specific movements:**
 
 - **"Ashiato" fashion** *(placeholder name, Japanese for "footprint" — chosen for the sense of a trail personally left rather than a look bought ready-made)* — the city's own dominant homemade Alt-Rock/Alt-Grunge/Alt-Pop style, characterized by visibly hand-altered garments (deliberately imperfect stitching, mismatched layering, worn-in textures) as a mark of authenticity rather than a flaw to hide, distinct from the polish of Upper Earth or Concordia high fashion.
-- **"Glacier-pop"** *(placeholder genre name)* — a musical fusion emerging from the city's massive amateur scene, blending the softer, more melodic edges of Chinese and Japanese folk instrumentation with the subnet's broader multinational influences (Australian, Russian, Korean), performed primarily in the same informal, friends-and-neighbors spaces the city's whole social culture already runs on rather than dedicated concert venues — an intentional echo of Shibuya-kei's own "eclectic fusion, not pure imitation" quality.
+- **"Glacier-pop"** *(placeholder genre name)* — a musical fusion emerging from the city's massive amateur scene, blending the softer, more melodic edges of Japanese folk instrumentation with the subnet's broader multinational influences (Australian, Russian, Korean, Chinese), performed primarily in the same informal, friends-and-neighbors spaces the city's whole social culture already runs on rather than dedicated concert venues — an intentional echo of Shibuya-kei's own "eclectic fusion, not pure imitation" quality. *(Corrected 2026-07-13: previously paired "Chinese and Japanese" as the founding blend; China is the smallest of the city's five Significant-tier nations, no more central to the fusion than Australia, Russia, or Korea, so it's grouped with them instead of singled out alongside Japan.)*
 
 ---
 
@@ -173,7 +175,7 @@ The most structurally important proposal here is Section III — dating the clus
 
 **3rd-order effect:** since this same "imposed, then genuinely claimed" shape shows up at the level of the founding population's national identity, it's worth asking whether the same pattern recurs at other scales within the city's own history — the Full Extrapolation's proposal that the founding community adapted (rather than replaced) the originally research-oriented Bharati Station infrastructure into today's arts-and-education city is itself a second instance of the same shape: inherited, externally-designed infrastructure, later made into something the city actually chose to become.
 
-**4th-order effect:** if "imposed, then claimed" is a genuinely repeating structural feature of this city's history — its founding population, and its physical infrastructure — that raises a real, still-open question about whether its still-undecided proper name will eventually follow the same pattern: a name that starts as something suggested or adopted from outside the city's own choosing, later becoming genuinely its own once enough time and lived history accumulate behind it, rather than a name invented from a blank slate.
+**4th-order effect:** if "imposed, then claimed" is a genuinely repeating structural feature of this city's history — its founding population, and its physical infrastructure — that raised a real question, at the time this was written, about whether its still-undecided proper name would eventually follow the same pattern. *(Corrected 2026-07-13: it didn't have to — the name was chosen directly, Shirayuki, the very next day, 2026-07-08, rather than emerging gradually the way this pattern would predict. The "imposed, then claimed" shape held for the founding population and the inherited infrastructure, but the name itself broke the pattern by simply being decided.)*
 
 ---
 
@@ -191,11 +193,13 @@ The most structurally important proposal here is Section III — dating the clus
 
 ## Finding 3: this city is one of Tepenia's few real tests of whether deliberately engineered civic outcomes can rival organic ones
 
-**Combining:** the established fact that Japan's Primary-tier demographic status held and was, per the 2026-07-06 correction, explicitly "vindicated" against the regional Chinese pull it was designed to resist + Novosibirsk's Akademgorodok as real-world proof that a deliberately, top-down constructed research/education city can achieve genuine depth and excellence, not just organic ones + the established fact that this is the only Tepenian city founded via institutional diplomatic engineering rather than organic real-station inheritance.
+*(Corrected 2026-07-13: this finding originally called Shirayuki "the only Tepenian city founded via institutional diplomatic engineering" — wrong. {{currently-unnamed Korean city}} was founded via the identical Jeju-do allocation, to Korea rather than Japan. Corrected below to two cities, not one, without weakening the finding's actual argument.)*
+
+**Combining:** the established fact that Japan's Primary-tier demographic status held and was, per the 2026-07-06 correction, explicitly "vindicated" against the regional Chinese pull it was designed to resist + Novosibirsk's Akademgorodok as real-world proof that a deliberately, top-down constructed research/education city can achieve genuine depth and excellence, not just organic ones + the established fact that this city and {{currently-unnamed Korean city}} are the only two Tepenian cities founded via institutional diplomatic engineering rather than organic real-station inheritance.
 
 **2nd-order effect:** this city represents a double vindication of engineered outcomes over organic chance — both the demographic allocation itself (Japan remaining Primary) and the resulting civic identity (genuine research and arts depth, not a hollow or purely administrative city) worked out as intended, matching Akademgorodok's own real-world precedent that top-down design can produce authentic excellence rather than a lesser imitation of organic growth.
 
-**3rd-order effect:** since virtually every other Tepenian city traces its founding to organic real-station inheritance, this city occupies a genuinely distinctive position in the setting as a whole — one of the only concrete, already-resolved test cases for whether deliberate institutional planning can produce outcomes as real and lasting as organic development, rather than a purely theoretical question.
+**3rd-order effect:** since virtually every other Tepenian city traces its founding to organic real-station inheritance, this city and {{currently-unnamed Korean city}} occupy a genuinely distinctive position in the setting as a whole — the only two concrete, already-resolved test cases for whether deliberate institutional planning can produce outcomes as real and lasting as organic development, rather than a purely theoretical question. The two cases actually agree, strengthening the finding rather than complicating it: both allocated nations ended up genuinely Primary-tier (Japan 36.27% here, Korea 34.62% at {{currently-unnamed Korean city}}) — the same Jeju-do mechanism, applied twice to two different nations, produced the same kind of vindicated outcome both times.
 
 **4th-order effect:** if any broader Federation-level conversation about planning versus organic growth were ever to need a real precedent to point to, this city is the one place in Tepenia that could genuinely be cited as evidence either way — a small, specific point of connection between this one city's own founding story and any larger governance or infrastructure-planning discourse elsewhere in the setting.
 

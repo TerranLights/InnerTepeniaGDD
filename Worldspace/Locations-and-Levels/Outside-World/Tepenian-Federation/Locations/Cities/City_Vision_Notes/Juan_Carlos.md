@@ -12,7 +12,7 @@ Livingston Island, South Shetland Islands. Palmer subnet. No highway access. **S
 
 **Factions:** Coherence vs. Contrast (second interwar, paired with Sejong).
 
-**Flagged gaps:** no notable figures; demonym unresolved; economy beyond "maritime/fishing"; two placeholder holiday names ("Transición," "The Tertulia"); a minor population-figure discrepancy between two files. *(The war outcome itself, flagged as the single biggest open question at the time of this session, was resolved shortly after — see above.)*
+**Flagged gaps:** no notable figures; demonym unresolved; economy beyond "maritime/fishing"; two placeholder holiday names ("Transición," "The Tertulia"); a minor population-figure discrepancy between two files *(checked 2026-07-13: no longer a discrepancy — `Specs/Juan_Carlos.md` and `Local_Cultures/Palmer_Subnet/Juan_Carlos.md` now show identical figures)*. *(The war outcome itself, flagged as the single biggest open question at the time of this session, was resolved shortly after — see above.)*
 
 ---
 

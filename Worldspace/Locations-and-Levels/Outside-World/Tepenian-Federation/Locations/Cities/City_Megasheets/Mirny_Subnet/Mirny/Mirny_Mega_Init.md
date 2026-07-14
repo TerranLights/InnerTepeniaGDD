@@ -80,7 +80,7 @@ Carried forward from `Specs/Mirny.md`, still genuinely unresolved:
 - Demonym: TBD
 - Notable individuals from Mirny: TBD
 - Which DLC covers the Mirny subnet: TBD
-- The Soyuz relationship — what contact existed between Mirny's and Soyuz's Russian communities before the Split Brain, and what it looks like now that both sit in the same subnet
+- The {{currently-unnamed Korean city}} relationship — what contact existed between Mirny's and {{currently-unnamed Korean city}}'s own, separate Russian-descended minority communities before the Split Brain, and what it looks like now that both sit in the same subnet *(corrected 2026-07-13 — previously called both "Soyuz's Russian communities," implying the city itself was Russian-founded; it's singularly Korean-founded via the Jeju-do court, Russia sits at ordinary Significant tier there just as it does at Mirny — see `Mirny_Full_Extrapolation.md` Section VIII for the full resolution)*
 - **The city's own eventual rename** — flagged 2026-07-08, deliberately deferred, not touched by this Megasheet
 
 ---

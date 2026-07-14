@@ -84,7 +84,7 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 
 **Settled:** Post-Falkland Treaty, on Zhongshan Station infrastructure. CHINARE has operated Zhongshan Station since 1989. The Chinese Antarctic Research Expedition's institutional heritage — and the significantly expanded Chinese Antarctic investment of the 2000s-2030s — gave the founding exile community substantial infrastructure to build on.
 
-**Founding population:** Sinian Federation (formerly Chinese) exiles, though Zhongshan's overall population is broadly multinational rather than exclusively Sinian *(clarified 2026-07-03)*. Zhongshan and Kunlun are both Sinian-founded cities, both now confirmed Mirny subnet, and — **as of Kunlun's 2026-07-06 re-resolution** — both genuinely multinational, though for different reasons: Zhongshan through ordinary founding-wave/majority demographics in the dense coastal Prydz Bay cluster, Kunlun through a deliberately curated space/astronomy/comms-heritage population at the extreme high-altitude interior of Dome A.
+**Founding population:** Sinian Federation (formerly Chinese) exiles, though Zhongshan's overall population is broadly multinational rather than exclusively Sinian *(clarified 2026-07-03)*. **Corrected 2026-07-13 — this section was missed during the original Larsemann Hills cluster fix and still described a "Sino-Russian" founding relationship that was never true; see `Local_Cultures/Mirny_Subnet/Zhongshan.md` Section 2 for the already-correct version this now matches.** Zhongshan's claim to its own site was never left to chance: before the exile era began, the International Court of Diplomacy at Jeju-do — the same Upper Earth institution that later allocated the unoccupied Bharati site to Japan as Shirayuki — coordinated Japan, Korea, and the Sinian Federation as regional peers, settling each nation's claim in the Larsemann Hills area as part of the same process. China's existing, extensive presence at Zhongshan Station was confirmed as exclusively theirs; neither Japan nor Korea pressed a competing claim. Russia was never a party to that court at all — whatever Russian presence exists in Zhongshan today (5.72%, its smallest Significant-tier nation) arrived the same way Korea's, Germany's, and Japan's did: as ordinary immigration into a city whose founding, and whose exclusive claim to its own site, was already settled before any of them arrived. Zhongshan and Kunlun are both Sinian-founded cities, both now confirmed Mirny subnet, and — **as of Kunlun's 2026-07-06 re-resolution** — both genuinely multinational, though for different reasons: Zhongshan through ordinary founding-wave/majority demographics in the dense coastal Prydz Bay cluster, Kunlun through a deliberately curated space/astronomy/comms-heritage population at the extreme high-altitude interior of Dome A.
 
 ---
 
@@ -92,9 +92,9 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 
 Zhongshan's character was shaped by the cluster and by the scale of the Sinian Federation's investment. The Chinese Antarctic program in the pre-exile era had become one of the most active and well-resourced in the world; the exile community inherited that investment as substantial infrastructure. Zhongshan was not a small city squeezed into borrowed infrastructure — it was built with the resources of a major program.
 
-The immediate proximity to Soyuz (Russian) and the former-Shirayuki location (TBD nationality) produced the Larsemann Hills cluster's inter-community dynamics. The Sinian-Russian relationship in this cluster would have had specific historical weight: two major powers in close proximity in a place where neither could ignore the other.
+**Corrected 2026-07-13:** this paragraph previously described "the immediate proximity to Soyuz (Russian) and the former-Shirayuki location (TBD nationality)" and a "Sinian-Russian relationship... two major powers in close proximity" — wrong on both counts. {{currently-unnamed Korean city}} (the "Soyuz" placeholder) is singularly Korean-founded via the Jeju-do court, not Russian — Russia was never more than the physical Progress Station's operator. Shirayuki is Japanese-founded, resolved 2026-07-08, not "TBD nationality." The immediate proximity to {{currently-unnamed Korean city}} and Shirayuki produced the Larsemann Hills cluster's inter-community dynamics — three cities, all founded via the same three-way Jeju-do partition among Japan, Korea, and the Sinian Federation, each now the singularly-dominant Primary-tier city for its own allocated nation. The cluster's real historical weight is diplomatic, not a two-power rivalry: three peer nations coordinating a shared claim before any of them ever set foot in Tepenia.
 
-**Nationally known for:** Sun Yat-sen's name. The Larsemann Hills cluster. Prydz Bay maritime access. The connection to Kunlun across the Mirny subnet — the two faces of Sinian Antarctic Tepenia.
+**Nationally known for:** Sun Yat-sen's name. The Larsemann Hills cluster, alongside {{currently-unnamed Korean city}} and Shirayuki. Prydz Bay maritime access. The connection to Kunlun across the Mirny subnet — the two faces of Sinian Antarctic Tepenia.
 
 ---
 
@@ -105,7 +105,7 @@ Prydz Bay maritime logistics, scientific research, cluster economy with Soyuz an
 
 ## Notable Locations
 - **Prydz Bay harbor** — the primary maritime entry; the route Chinese icebreakers ran pre-exile
-- **The cluster boundary with Soyuz** — the Sinian-Russian interface in the Larsemann Hills
+- **The cluster boundary with {{currently-unnamed Korean city}}** — *(corrected 2026-07-13, was "the Sinian-Russian interface" — wrong; {{currently-unnamed Korean city}} is Korean-founded, not Russian)* the Sinian-Korean interface in the Larsemann Hills
 - Additional locations: TBD for DLC 4
 
 ---
@@ -127,6 +127,6 @@ Zhongshan's legacy is the demonstration of scale — a Sinian Federation city in
 
 ## Open Questions
 - **The Sinian Federation's Tepenia-wide arc** — Zhongshan and Kunlun represent two very different Sinian Tepenian experiences: one in a dense coastal cluster, one at the highest, coldest, most spiritually significant point on the continent; how do these two communities relate to a shared Sinian identity?
-- **The Sinian-Russian cluster relationship** — Zhongshan and Soyuz are immediate neighbors; the history of that relationship is a key story now entirely within the Mirny subnet, both cities sharing the same membership as of 2026-07-05
+- **The Larsemann Hills cluster relationship** — *(corrected 2026-07-13, was "The Sinian-Russian cluster relationship" — wrong; see Character & Culture, above)* Zhongshan, {{currently-unnamed Korean city}}, and Shirayuki are immediate neighbors, all three founded via the same Jeju-do partition; the history of that three-way relationship is a key story now entirely within the Mirny subnet
 - **Demonym** — TBD; "Zhongshaners"? something Chinese?
 - **Notable figures** — TBD

@@ -113,7 +113,7 @@ Carried forward from `Specs/Signy.md` and `City_Vision_Notes/Signy.md`, still ge
 - Whether Ice Cold Buddhism has any presence here
 - Whether Signy can communicate with Concordia at all post-war, given the already-weak pre-war link plus the Planetary Split Brain
 - Two placeholder holiday names ("The Long Watch," "St. Ernest's Passage") never fully developed
-- A stale contradiction between two files over whether the biological research station is "fully intact" or "damaged but partially functional" (low priority)
+- ~~A stale contradiction between two files over whether the biological research station is "fully intact" or "damaged but partially functional"~~ — **resolved 2026-07-13** (`Local_Cultures/Palmer_Subnet/Signy.md` Section 29, in favor of "intact," per Section IX's own proposal below), no longer open
 - A minor population-figure discrepancy (low priority)
 
 **New, surfaced by this research pass:** given El Hierro's and Samsø's genuine real-world renewable self-sufficiency, and given the radio-not-Arcanet comms detail already established, it's worth asking whether Signy's own power generation — needed to run its radio equipment, docks, and floating platforms — is self-sufficient in the same way, or whether this is another post-war vulnerability sitting alongside the already-established siligel shortage. The current files don't address Signy's own power situation at all.

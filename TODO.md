@@ -4,6 +4,20 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## BLOCKING — Country-wide culture re-check, flagged 2026-07-13. Nothing else proceeds until this is done.
+
+**Full tracker relocated to `Cities/Full_City_Integrity_Check.md` on 2026-07-13** — the per-city, multi-pass log had grown large enough to make this file unwieldy. See that file for the complete methodology, the live per-subnet checklist, and every city's full pass history.
+
+**Quick status (2026-07-13):** already re-checked at least once and sitting at `[~]` (not yet `[x]`, per developer instruction — a resolution memory's own "checked clean" claim is not itself trusted evidence): Zhongshan, {{currently-unnamed Korean city}} (Soyuz), Shirayuki, Sejong, Janbogo, Zukelli, Juan Carlos, Sayowa, Casey, Mirny, Davis, Kunlun, Vostok, Signy, Esperanza, Marambio, Port Lockroy, Rothera, Palmer City, Tri-Cities_Region.md. **Palmer subnet sweep is now complete (8/8 cities).** Palmer City's `Specs.md` population table (stale since the 2026-07-03 43-nation expansion) has been fully reconstructed via proportional rescaling — see `project_palmer_city_bug_check` memory for the methodology and the one flagged assumption (uniform cap-correction trim across all 43 nations) still awaiting developer confirmation. **Esperanza and Marambio both carry an open developer flag** (Argentina-proximity may justify genuine demographic dominance/cultural inheritance rather than the usual dilution pattern — Marambio's case is the most extreme, Argentina diluted to just 0.74%) — deferred to after the full sweep, see `project_esperanza_bug_check` and `project_marambio_bug_check` memories. **Port Lockroy also carries an open flag** (a population tier-ordering anomaly — Chile ranks above both Mexico and Argentina despite smaller raw pools/lower tier) — deferred the same way, see `project_port_lockroy_bug_check` memory. **Mirny subnet sweep is now complete (8/8 cities), marked TENTATIVE `[~]` as a subnet — every city individually still sits at `[~]`, none restored to `[x]`.** Next subnet not yet chosen. **Do not proceed to any other city-culture or next-stage work until every box in that file is `[x]`.**
+
+---
+
+## Companion character-file integrity sweep — flagged 2026-07-13, deferred until after the BLOCKING city re-check
+
+Not yet started. During the country-wide culture re-check (see BLOCKING, above), the same bug — a city's composition claim, once fixed in that city's own files, surviving uncaught in a companion doll's own character file — was independently found twice in one day: Davis's "Priya Devendra" placeholder name (No Subcontinentals canon violation, in `Davis_Full_Extrapolation.md`) and Casey's stale "leads T2" claim (surviving in `Ayako Hayashi/README.md`'s own origin-city candidacy reasoning). Companion files reference cities constantly (origin cities, candidacy comparisons, refugee/diaspora ties) and are consistently the last place checked, if checked at all. Once the BLOCKING city-by-city sweep is fully done, go through every companion's character folder and files individually, checking for dangling stale references to city composition, founding-nation claims, or any other fact that's since been corrected on the city's own side but never propagated to the companion's file.
+
+---
+
 ## No National Stereotypes compliance sweep — flagged 2026-07-12, RESOLVED 2026-07-12
 
 **The binding rule:** `TerranLights/TepenianUniverseTimeline`'s `Reference/No_National_Stereotypes.md` — a Tepenian city's real-world founding nation is a GPS coordinate only. It must never be used as a reason, cause, or explanation for a city's present-day culture, a faction's internal conflict, a character's temperament, a real-world creative-inspiration pick, or an in-world strategic/narrative decision. Self-check: if a sentence's meaning would change were the founding nation swapped for a different one, it violates the rule.

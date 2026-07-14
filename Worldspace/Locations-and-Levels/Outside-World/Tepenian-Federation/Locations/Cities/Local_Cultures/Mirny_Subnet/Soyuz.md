@@ -9,7 +9,7 @@
 **Census Population:** 519,191 humans / 550,159 robots / 1,069,350 combined (Census I, rank 16th); 437,854 humans / 450,438 robots / 888,292 combined (Census II, rank 11th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°22'S, 76°22'E)
 
-**One-liner:** *A city that named itself after a spacecraft rather than a place or a person — ambition chosen deliberately over nostalgia, in the densest multinational cluster the Mirny subnet has, badly hit by the Long Night War but standing still, alongside its effectively co-located neighbor Zhongshan.*
+**One-liner:** *A Korean city that inherited a Russian station's leftover name along with its infrastructure, never having chosen it or replaced it — a claim secured by treaty rather than found, in the densest multinational cluster the Mirny subnet has, badly hit by the Long Night War but standing still, alongside its effectively co-located neighbor Zhongshan.* **(corrected 2026-07-13 — this line previously said the city "named itself after a spacecraft... ambition chosen deliberately over nostalgia," the exact self-naming error already fixed everywhere else in this file; the One-liner itself had never been swept.)**
 
 ---
 
@@ -21,31 +21,33 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | South Korea *(re-tiered 2026-07-06, strengthened further same day — now 34.62%)* |
-| Significant | China, Japan, Germany, Russia *(founding operator heritage — share reduced 2026-07-06)*, Indonesia, Australia *(founding wave)* |
+| Primary | South Korea *(re-tiered 2026-07-06, strengthened further same day — now 34.62%; corrected 2026-07-13: this is the city's genuine founding nation, not a later demographic overtake of some other founder)* |
+| Significant | China, Japan, Germany, Russia *(operated the physical Progress Station infrastructure only — never a founding population; see Section 2)*, Indonesia, Australia |
 | Notable | Thailand, Estonia, Hungary, Lithuania, Malaysia, Vietnam, Philippines, Bulgaria, Latvia, South Africa |
 
-*Re-resolved 2026-07-06 in three rounds, during this city's City Vision Notes session — see `Specs/Soyuz.md`'s Founding Population Re-Resolution for the full math. Round 1: UK removed entirely (its share transferred to China, demoting China from Primary to Significant); China's old Primary-tier share transferred to South Korea, stacked on top of Korea's own existing share, making Korea the new Primary-tier nation at 29.74%; Russia's own founding-operator share left completely untouched throughout. Romania swapped for Hungary at the same share value. Round 2: Ukraine and Belarus both removed entirely, their combined shares added directly to South Korea, bringing it to 34.62% — now clearing a third of the city's population outright. Round 3: a direct hand-specified transfer, 3.0 points from Russia to Japan — the one point in this whole cluster rework where Russia's own founding-operator share actually moved, and it moved down. Final: Russia 6.85%, Japan 7.78%.*
+*This city is confirmed 2026-07-13 as singularly Korean-founded, via the same three-way International Court of Diplomacy at Jeju-do that allocated Shirayuki to Japan and confirmed Zhongshan's claim to China — Japan, Korea, and the Sinian Federation coordinated as peers, and this site (physically built as Progress Station by Russia's Arctic and Antarctic Research Institute) was allocated to Korea. Russia was never a party to that court and never a founding population here — its role is GPS-only, the physical operator of infrastructure the Korean founders inherited. Re-resolved 2026-07-06 in three rounds, during this city's City Vision Notes session — see `Specs/Soyuz.md`'s Founding Population Re-Resolution for the full math. Round 1: UK removed entirely (its share transferred to China, demoting China from Primary to Significant); China's old Primary-tier share transferred to South Korea, stacked on top of Korea's own existing share, making Korea the new Primary-tier nation at 29.74% — its own genuine founding-nation status, correctly restored years before that founding fact was itself understood. Romania swapped for Hungary at the same share value. Round 2: Ukraine and Belarus both removed entirely, their combined shares added directly to South Korea, bringing it to 34.62% — now clearing a third of the city's population outright. Round 3: a direct hand-specified transfer, 3.0 points from Russia to Japan. Final: Russia 6.85%, Japan 7.78%.*
 
 ---
 
 ## 2. Founding Story
 
-Russia's Arctic and Antarctic Research Institute had operated Progress Station in the Larsemann Hills since the 1980s, and Russian exiles inherited that deep institutional foundation directly. But unlike most Tepenian cities, the founding community chose not to keep the station's inherited name — they gave their new city a new one entirely: Soyuz, after the spacecraft and program that stood as one of the defining achievements of Russian space-age engineering. Where most exile cities carried their real-world station names forward as inherited memory, Soyuz's founders made a deliberate choice to define themselves by ambition rather than nostalgia.
+Before the exile era began, the International Court of Diplomacy at Jeju-do — the same Upper Earth institution that later confirmed China's claim to Zhongshan Station and allocated the unoccupied Bharati site to Japan as Shirayuki — coordinated Japan, Korea, and the Sinian Federation as regional peers, settling each nation's claim in the Larsemann Hills area as part of the same process. This site, physically built as Progress Station by Russia's Arctic and Antarctic Research Institute since the 1980s, was allocated to Korea. Korean exiles settled it once the Falkland Treaty exile era began, inheriting the station's deep institutional infrastructure without ever holding a founding claim through it — Russia was not a party to that court, and never had one.
 
-Australia's founding wave arrived alongside the Russian population, likely drawn by the same subnet-hub proximity that shaped Mawson itself, giving Soyuz a second real founding current from its very earliest days — a genuinely dual founding structure, distinct from Rothera's or Sejong's single-nation-plus-founding-wave patterns.
+The placeholder name "Soyuz" was never the founding community's own choice. It stuck the way a physical station's informal designation sometimes does when nobody replaces it — carried over from the Russian spacecraft program the original infrastructure's operators associated with the site, not a name chosen by the Korean population that actually settled it. What the founders themselves would have called their city is unrecorded and remains TBD.
+
+Every other nation present today — China, Japan, Germany, Russia, Indonesia, Australia, and a dozen Notable-tier nations — arrived through ordinary subsequent immigration into a city whose founding claim had already been decided before any of them got here. Which of them arrived first isn't established; none of them has a claim to being anything more than ordinary immigration onto an already-settled Korean site.
 
 ---
 
 ## 3. Climate Character
 
-Soyuz sits in the Larsemann Hills, a small ice-free oasis on the Ingrid Christensen Coast of Prydz Bay — comparable in character to Lazar's Schirmacher Oasis in the Halley subnet, though smaller in scale. Exposed bedrock, meltwater lakes, and a genuinely different landscape from the surrounding ice sheet, with a long polar night (~60 days) and midnight sun (~61 days) reflecting the site's East Antarctic coastal latitude.
+This city sits in the Larsemann Hills, a small ice-free oasis on the Ingrid Christensen Coast of Prydz Bay — comparable in character to Lazar's Schirmacher Oasis in the Halley subnet, though smaller in scale. Exposed bedrock, meltwater lakes, and a genuinely different landscape from the surrounding ice sheet, with a long polar night (~60 days) and midnight sun (~61 days) reflecting the site's East Antarctic coastal latitude. What made this specific circumstance distinctive wasn't the climate itself — Zhongshan and Shirayuki share the same oasis — but what the Korean founders found waiting for them on arrival: a fully operational Russian research station, mid-program, rather than an empty site or one built by their own hands. The oasis's relative mildness is part of why the site was worth the diplomatic effort of securing in the first place.
 
 ---
 
 ## 4. Seasonal Rhythms
 
-The oasis microclimate moderates conditions somewhat compared to the surrounding ice sheet, but Soyuz's real defining rhythm was the density of its immediate neighbors — Zhongshan and the city later resolved as Shirayuki sat close enough that daily life meant constant awareness of, and negotiation with, both.
+The oasis microclimate moderates conditions somewhat compared to the surrounding ice sheet, and the six-month dark/six-month light cycle sets the practical calendar — fabrication runs and shipments scheduled around it, the same as everywhere else in the cluster. But this city's deeper rhythm was never really about the seasons. It measures itself by output on a schedule that doesn't slow down for the dark the way Zhongshan's culture deliberately does next door.
 
 ---
 
@@ -55,81 +57,85 @@ The oasis microclimate moderates conditions somewhat compared to the surrounding
 
 ## 5. Post-Culture Identity
 
-**Name/concept:** *Chosen Ambition, Not Inherited Memory*
+**Name/concept:** *Claimed, Not Found* (working title, pending the city's own real name)
 
-Soyuz's civic identity was built on a foundational choice its residents made about themselves: naming the city after a symbol of forward motion and technological achievement rather than any inherited station name or founder's memory. That choice shaped everything else — a community that saw itself as building toward something, layered against the genuine density of the Larsemann Hills cluster, where Soyuz's Russian-and-Australian founding character was in constant, daily contact with Zhongshan's Chinese/Sinian identity and the third cluster city's own still-resolving founding story.
+This city's founding tension is sharper than either of its Larsemann Hills neighbors'. Zhongshan's Chinese population never had to justify being there — the station was theirs from the start. Shirayuki's Japanese population settled a genuinely empty site — nobody to displace, nothing to prove against a prior claimant. This city's Korean population inherited an actively operating Russian research station, secured by a diplomatic decision made in a negotiating room Russia was never invited into. The founders knew it. Their descendants still do, at some level below conscious articulation: this is the one city in the cluster whose right to exist here was made by treaty, not simply found.
 
-- **a. Founding tension** — A genuinely doubled founding (Russia as operator, Australia as founding wave), both later diluted to Significant tier by the same China-Primary demographic current that reshaped Mawson itself — but the more immediate, lived tension was cluster-level: negotiating identity against two immediate multinational neighbors on the same small oasis.
-- **b. Fault lines** — Between the forward-looking, ambition-defined civic identity the name itself represented, and the practical daily reality of constant cluster-boundary negotiation with Zhongshan and its other Larsemann Hills neighbor.
+That knowledge produced a civic character built around proving the claim through output rather than through inherited legitimacy — the same instinct that made this city, of all the modest-profile cities in Tepenia, one of the handful that actually manufactures the physical apparatus that creates new robot citizens. Nobody assigned that role because of the founding story. But a population that had to earn its place gravitated toward doing something nobody could dispute the value of.
+
+- **a. Founding tension** — Not cluster-boundary negotiation with Zhongshan and Shirayuki (that's real, but secondary). The load-bearing tension is between a diplomatically-secured claim and the daily, lived work of actually building a home on ground that still, in some residual sense, reads as having been someone else's.
+- **b. Fault lines** — A quiet, rarely-voiced anxiety that this city's legitimacy is more contingent than Zhongshan's or Shirayuki's — that a claim made by treaty could, in principle, be unmade the same way. Nobody discusses this directly. It shows up instead as the city's outsized civic pride in what it actually produces.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
-- **a.** Ambition and forward motion are civic values, embedded directly in the city's own chosen name.
-- **b. Hospitality character** — Practiced and diplomatic, shaped by the Larsemann Hills cluster's genuine multinational density — the closest Mirny subnet parallel to Sejong's King George Island situation.
-- **c.** Paced by the oasis's own microclimate and the practical demands of cluster coexistence.
-- **d. Public/private divide** — Cluster boundary zones with Zhongshan and the neighboring city were real, negotiated civic geography; internal Russian-Australian cultural life remained comparatively private.
-- **e. Privacy as civic value** — Moderate, similar to Sejong's situation — a cluster city doesn't have full anonymity, but internal community life retained genuine privacy.
+- **a. Output as legitimacy** — What you contribute matters more here than almost anywhere else in Tepenia. A resident's standing is measured by what they build, fix, or ship, not by lineage or how long their family has been here.
+- **b. Hospitality character** — Practical and generous rather than ceremonial; less patience for performance than Zhongshan's ritual warmth next door, more interested in whether a guest can actually do something useful.
+- **c. Production sets the tempo** — The fabrication economy's own rhythm (raw materials in from Davis, finished goods and fabrication-synthesis chambers out) paces daily life more than the oasis's own mild climate would otherwise suggest.
+- **d. Public/private divide** — Cluster boundary zones with Zhongshan and Shirayuki are real, negotiated civic geography. Internally, Korean cultural life is proudly, visibly public here — the opposite of Zhongshan's non-prying insularity, because this city performs its identity outward precisely because it has something to prove.
+- **e. Privacy as civic value** — Low, by Zhongshan's standards. A city built on a claim that still feels like it needs defending doesn't have room for the kind of quiet unaccountability Zhongshan's non-prying norm affords; people here know each other's business, and that mutual visibility is itself part of what makes the claim feel solid.
 
 ---
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people drawn to forward-looking ambition and comfortable with genuine multinational cluster density — a specific combination distinct from cities defined by either quality alone.
-- **The type this city repels:** anyone seeking nostalgic continuity with a real-world station's inherited identity — Soyuz deliberately chose not to be that kind of city.
+- **The type this city draws:** people who want to build something and be measured by it — engineers, fabricators, people leaving places where lineage or connections mattered more than competence. People comfortable with a city that wears its ambition openly rather than performing quiet superiority the way Zhongshan does next door.
+- **The type this city repels:** people who need inherited legitimacy or old civic prestige to feel secure; people who find open, achievement-based status anxiety-inducing rather than clarifying.
 
 ---
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the demographic default (matching the whole subnet's China-Primary pattern), with genuine Russian and English (Australian) presence from the dual founding population.
-- **b. Linguistic character** — Genuinely plural, shaped by both the founding Russian/Australian populations and constant contact with Zhongshan's Chinese/Sinian community next door.
-- **c. Slang / dialect markers** — Cluster-boundary vocabulary describing the transitions between Soyuz, Zhongshan, and their shared neighbor, similar in kind to Sejong's own boundary-zone terminology.
-- **d. Language and integration** — Higher pressure than most Tepenian cities, given the genuine density of the Larsemann Hills cluster requiring real cross-community fluency.
+- **a. Primary language(s):** Korean, the city's sole public language — genuinely, demographically Primary (34.62%), not the "Chinese demographic default" earlier drafts of this file wrongly claimed.
+- **b. Linguistic character** — Direct and functional. Less concerned with the deliberate, unhurried pacing that governs Zhongshan's Mandarin next door; getting to the point is valued over performing consideration.
+- **c. Slang / dialect markers** — Fabrication-floor vocabulary bleeds into everyday speech — production terms used as casual metaphor for personal effort or worth, the linguistic residue of a culture that measures people by output.
+- **d. Language and integration** — Notable-tier communities (Chinese, Japanese, German, Russian, Indonesian, Australian) maintain their own languages privately; Korean is what public life runs on, learned quickly out of practical necessity given the city's cluster-adjacent, production-driven economy.
 
 ---
 
 ## 9. Architecture
 
-Built on inherited Russian Progress Station infrastructure, adapted to the Larsemann Hills' ice-free oasis terrain — genuinely bounded and transitional at its edges, where Soyuz's built environment gave way to Zhongshan's and its other cluster neighbor's own architectural traditions.
+Built on inherited Russian research infrastructure — modular, purpose-built for temporary scientific occupation, never designed as a permanent home. The Korean population that took it over didn't get the starting point Zhongshan's founders had (a station that was already theirs) or the clean slate Shirayuki's founders found (an empty site to build on their own terms). This city's builders had to work with, and visibly over, infrastructure that still reads, in its bones, as someone else's design.
+
+The result is a city that builds assertively on top of what it inherited rather than trying to erase it: new construction doesn't hide the old Russian station structures, it deliberately outbuilds them — taller, more numerous, more obviously productive, a physical argument for the claim the way the fabrication-chamber industry is an economic one. Where Zhongshan's architecture concentrates care in details nobody outside would notice, this city's newer construction is legible from a distance: industrial silhouettes, visible production infrastructure, a skyline that reads as busy on purpose. At the cluster's edges, where this city's built environment meets Zhongshan's and Shirayuki's, the transition is architecturally obvious — three distinct building traditions meeting at negotiated boundary zones, none blending into the others.
 
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine blend anchored by Chinese tradition (matching demographic Primary), with real Russian and Australian threads from the founding populations, and cross-cultural influence from constant contact with Zhongshan.
-- **b. Social context of eating** — Practical, shaped by the cluster's genuine daily cross-community contact.
-- **c. Robot cuisine / siligel culture** — Substantial, reflecting a genuinely sizable population (rank 16th of ~34 pre-war).
+- **a. Human cuisine** — Korean food, genuinely and demographically Primary, adapted to the same six-month-dark, no-supply-chain isolation every Larsemann Hills city faces: fermentation and preservation traditions — kimchi and its many regional and household variations chief among them — that were already built for exactly this kind of scarcity, stretched further by 130 years of Antarctic circumstance. Communal, shared-dish eating fits the same output-and-contribution ethos as everything else here — a meal where everyone's dish is visibly part of the spread works the same logic as a fabrication floor: individual contribution, collectively assessed.
+- **b. Social context of eating** — Practical and social rather than ceremonial; unlike Zhongshan's long, ritualized meals, food here is fast to prepare communally and quick to share, fitting a culture with little patience for performance.
+- **c. Robot cuisine / siligel culture** — Substantial, reflecting a genuinely sizable population (rank 16th of ~34 pre-war); siligel preparation here leans practical and efficient rather than the connoisseurship Zhongshan applies to it — consistent with the city's broader output-over-ceremony instinct.
 
 ---
 
 ## 11. Fashion
 
-A genuine blend of Russian, Australian, and Chinese aesthetic influences, cross-pollinated by the Larsemann Hills cluster's density — distinct from more singularly-founded Mirny subnet cities.
+Functional and industrial, shaped by the fabrication economy as much as by any inherited aesthetic — practical cold-weather workwear that doubles as a visible marker of what someone actually does. Korean textile and garment traditions carry through in cut and construction, adapted for a population working production floors as often as offices. Unlike Zhongshan's muted, detail-concentrated restraint, this city's fashion doesn't mind being noticed — visible competence (well-maintained work gear, a uniform that marks a specific production line) matters more than understatement.
 
 ---
 
 ## 12. Music
 
-Genuinely mixed, spanning Russian and Australian founding traditions alongside constant Chinese/Sinian cross-cultural influence from Zhongshan next door — a musical identity shaped as much by cluster proximity as by founding heritage.
+Korean musical tradition, genuinely carried forward by the population that actually built and maintains it — but reshaped by a city whose defining rhythm is industrial output rather than contemplation. Music here tends toward the propulsive and collective: work songs, production-floor rhythms, music meant to be done alongside something rather than sat with — the functional opposite of Zhongshan's contemplative classical tradition next door.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Forward-looking and technologically-minded, reflecting the city's own chosen namesake — spacecraft and engineering achievement as a genuine aesthetic touchstone.
-- **Literature:** The Soyuz naming choice itself functions as foundational civic literature — a deliberate act of self-definition through ambition rather than inherited memory.
-- **Crafts & material culture:** Practical, oasis-adapted, shaped by genuine cross-cultural contact with its immediate cluster neighbors.
+- **Visual arts:** Industrial and forward-facing — the fabrication-chamber works and the visible machinery of production function as genuine civic aesthetic touchstones, the way spare ink painting functions for Zhongshan. Public art here tends toward the celebratory-of-labor: murals and sculpture depicting the actual work the city does, not abstraction.
+- **Literature:** Still developing; the city's own self-mythology — a claim made by treaty, proven through output — is more lived than written down yet. A genuine opening for a literary identity once developed further.
+- **Crafts & material culture:** Precision applied to production. The same fabrication-chamber manufacturing that anchors the economy extends into a genuine craft ethic around functional objects — tools, production equipment, everyday goods built to be used hard and maintained, not displayed.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** Genuinely multilingual — Russian, English, Chinese all part of daily soundscape given the cluster's density.
-- **Smell:** Cold, dry, oasis-microclimate air, similar in character to Lazar's Schirmacher Oasis.
-- **Feel:** Forward-looking and ambitious, tempered by the practical, constant work of cluster coexistence.
-- **First impressions for visitors:** The Larsemann Hills' ice-free oasis terrain first, then quickly the genuine density of a multinational cluster unlike most of the rest of the Mirny subnet.
+- **Sound:** Industrial — production floors, fabrication equipment, the ordinary noise of a city that makes things, layered under Korean as the dominant public language.
+- **Smell:** Cold, dry oasis-microclimate air, similar in character to Zhongshan's own, undercut by the metallic, mineral smell of active fabrication work near the industrial core.
+- **Feel:** Assertive and busy — a city that doesn't apologize for wanting to be seen working, the opposite of Zhongshan's deliberate quiet next door.
+- **First impressions for visitors:** The Larsemann Hills' ice-free oasis terrain first, then quickly the sound and visible activity of a genuinely industrial city — a sharper contrast with Zhongshan's hush than a visitor would expect, given how close together the two cities actually sit.
 
 ---
 
@@ -152,32 +158,32 @@ Genuinely mixed, spanning Russian and Australian founding traditions alongside c
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (550,159 to 519,191 Census I), human-robot relations at Soyuz were shaped by the city's genuine cluster-density character — coordination extended not just within the Russian-Australian founding community but across constant contact with Zhongshan and its other neighbor.
+With robots slightly outnumbering humans (550,159 to 519,191 Census I), human-robot relations here follow the same output-as-legitimacy logic that defines everything else about this city: standing, human or robot, is measured by contribution rather than origin. Because the Korean founders themselves arrived via diplomatic allocation rather than organic belonging, there's a structural sympathy running through the city between its human population and its robot citizens — both are here, in different ways, because of what they can do rather than an inherited right to be here.
 
 ---
 
 ## 17. Robot-Specific Culture
 
-Robot culture at Soyuz likely developed genuine cross-cultural competence out of the Larsemann Hills cluster's necessity, similar to Sejong's situation — operating within a dense multinational zone required fluency across multiple national contexts.
+Robot culture here gravitates toward the fabrication and production sectors. Robots built in, or shipped from, this city's own fabrication-synthesis chambers carry a specific pride in that lineage — the Tepenian equivalent of knowing exactly where you were made. Robot craftspeople and engineers hold the same status here they would in any human-majority industrial workforce: measured by output, same as everyone else.
 
 ---
 
 ## 18. Religious / Philosophical Landscape
 
-- No dominant formal religion; the closest shared value was the city's own founding philosophy — ambition and forward motion, embedded directly in its chosen name, treated as a genuine civic ideal rather than empty symbolism.
-- A practiced diplomacy of cluster coexistence, similar in spirit to Sejong's own relational identity, shaped by constant contact with Zhongshan and its other Larsemann Hills neighbor.
+- No dominant formal religion; the closest shared value is a practical, secular ethic built around contribution and proof-through-output — closer to a work ethic than a philosophy, but held with genuine seriousness.
+- A quieter, less examined thread: the specific psychological weight of holding a claim that was made rather than found. Not yet developed as an articulated philosophy, but present in the city's collective temperament.
 
 ---
 
 ## 19. Underground / Counterculture
 
-Modest — a cluster city this densely interwoven with its neighbors doesn't have much room for isolated counterculture; whatever friction existed played out at the inter-community boundary level.
+Modest but real. Where Zhongshan's counterculture is defined by being loud in a quiet city, this city's counterculture runs the opposite direction: deliberately unproductive, openly resistant to the output-as-legitimacy ethic that governs everything else here — a small, quietly resented minority who opted out of proving anything to anyone.
 
 ---
 
 ## 20. Private Life & Minority Communities
 
-The broad Significant tier (Japan, Germany, UK, South Korea, Russia, Indonesia, Australia) and the extensive 12-nation Notable list maintained identity through private, personal practice — Soyuz's public civic face was organized around its chosen ambition-driven identity and cluster function rather than any single national heritage.
+Significant and Notable-tier communities (China, Japan, Germany, Russia, Indonesia, Australia, and a dozen Notable-tier nations) maintain their own heritage through private, personal practice — the same public/private bargain found elsewhere in the Larsemann Hills cluster, except here the public face is Korean, not Chinese. Russia — the nation whose station this city was physically built on — has, ironically, the least visible claim of any community here: its descendants keep the same quiet private practice as everyone else, with none of the residual institutional weight its own infrastructure might otherwise suggest.
 
 ---
 
@@ -187,46 +193,45 @@ The broad Significant tier (Japan, Germany, UK, South Korea, Russia, Indonesia, 
 
 ## 21. Political Character
 
-Modest, shaped as much by cluster-level diplomacy with Zhongshan and its other Larsemann Hills neighbor as by any independent civic ambition — Soyuz's political energy went into maintaining functional coexistence in a genuinely dense multinational zone.
+Shaped less by cluster-level diplomacy alone than by the specific psychological legacy of a claim secured by treaty rather than inherited. This city's political energy channels into demonstrating value — infrastructure, production, reliability — rather than into the kind of institutional-memory politics Zhongshan practices next door.
 
-**Vision session, 2026-07-06:** Underneath that modesty runs a deep, genuinely unusual sense of national pride and patriotism — sharper and more openly held here than in most Tepenian cities, most of which have long since settled into a quieter, more blended post-national identity. Whatever specific form this pride takes (the Soyuz spacecraft namesake, the city's role manufacturing the literal apparatus that creates new robot citizens, or some combination) is worth developing further — it's a genuine outlier worth exploring rather than smoothing over to match other cities' norms.
+**Vision session, 2026-07-06 (reinterpreted 2026-07-13):** the deep, genuinely unusual sense of national pride and patriotism flagged in this session now has a clear source: a population that secured its home through diplomacy rather than inheriting or discovering it holds onto that home more fiercely, not less. The city's role manufacturing the literal apparatus that creates new robot citizens isn't incidental to that pride — it's the clearest possible proof of the city's own worth, precisely because it doesn't depend on anyone's founding story.
 
 ---
 
 ## 22. Relationship to Upper Earth
 
-Filtered through Russia's own space-age achievement and Arctic/Antarctic research history, alongside Australia's own founding-wave presence — a genuinely doubled relationship, further complicated by constant proximity to Zhongshan's separate Chinese/Sinian relationship to Upper Earth on the same small oasis.
+Filtered through Korea's own diplomatic maneuvering at Jeju-do — a relationship defined less by cultural inheritance, the way Zhongshan's relationship to the Sinian Federation is, and more by the memory of having secured a place through negotiation rather than birthright. The city's relationship to Upper Earth carries that same pragmatism: less romantic attachment, more clear-eyed assessment of what was gained and what it cost.
 
 ---
 
 ## 23. Relationship to Other Cities
 
-- **Shirayuki (west, Hwy 4):** Direct highway neighbor, and fellow Larsemann Hills cluster city, now sharing the same Mirny subnet membership.
-- **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact, the Mirny subnet's closest parallel to Sejong's King George Island situation.
-- **Mirny (the city):** *(Updated 2026-07-05 — this relationship changed in nature, not just detail, once Soyuz joined the Mirny subnet.)* Previously notable as two Russian communities split across different subnets; now both cities share the same Arcanet subnet membership, which reframes the relationship from "geographic spread of Russian exile presence" toward a genuine internal-subnet tie — two Russian cities that are now, politically, part of the same regional network. Both cities are damaged but functional post-war — what contact, if any, exists between them today is an open question, though the shared subnet membership makes ongoing contact more plausible than before.
+- **Shirayuki (east, Hwy 4):** Direct highway neighbor and fellow Jeju-do-founded Larsemann Hills city, sharing the same Mirny subnet membership — the two cities' founders were negotiated into existence by the same three-way court, at the same time, both as counterweights to the same Chinese regional presence. *(Corrected 2026-07-14 — this entry previously said "west"; per `Locations/Infrastructure/Highways.md`'s authoritative Hwy 4 route (Sayowa Junction → Mawson → this city → Shirayuki), Shirayuki sits east of this city, with Mawson to the west.)*
+- **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact between this city's Korean population and Zhongshan's Chinese population. The two cities' founding stories are mirror images: Zhongshan's claim was organic and merely confirmed by Jeju-do; this city's claim was made by Jeju-do from nothing. Both cities know it.
+- **Mirny (the city):** *(Corrected 2026-07-13 — this entry previously described "two Russian communities split across different subnets." That's wrong; this city was never Russian-founded.)* Whatever relationship exists between this city and Mirny (the city) — itself carrying its own separately-flagged Russian-identity question, see `project_mirny_rename_flagged` — has nothing to do with a shared Russian heritage that never actually existed here. Genuine relationship TBD.
 
 ---
 
 ## 24. Arcanet Culture
 
-Genuinely complex, given the Larsemann Hills cluster's density — Arcanet use here likely required navigating information flows across multiple immediate national communities, similar to Sejong's own structural situation.
+Genuinely complex, given the Larsemann Hills cluster's density — Arcanet use here requires navigating information flows across three immediate national communities. Consistent with the city's own output-as-legitimacy ethic, local Arcanet use skews toward production data, coordination logistics, and demonstrable output tracking more than social or cultural content — a network that, like everything else here, exists to prove something.
 
 ---
 
 ## 25. Export Culture
 
-- **Fabrication-synthesis chambers — vision session, 2026-07-06:** Soyuz's single most significant physical export; shipped nationwide so that robots can be built in any Tepenian city, not just the handful (Soyuz among them) that manufacture the chambers themselves. This makes Soyuz quietly load-bearing infrastructure for the entire Federation's robot population, well beyond its own modest political profile.
-- Finished fabricated goods generally — raw materials arrive from Davis, leave Soyuz as usable product
-- The Soyuz naming philosophy — ambition and forward motion chosen deliberately over inherited memory, a genuinely distinctive act of civic self-definition
-- Cluster-diplomacy expertise — Soyuz-trained specialists in genuine multinational coexistence
-- A specific *type of person* — forward-looking and comfortable with dense multinational proximity, recognizable by an ease with both qualities simultaneously
+- **Fabrication-synthesis chambers — vision session, 2026-07-06:** this city's single most significant physical export; shipped nationwide so that robots can be built in any Tepenian city, not just the handful (this city among them) that manufacture the chambers themselves. This makes the city quietly load-bearing infrastructure for the entire Federation's robot population, well beyond its own modest political profile — and the clearest possible proof of the value its diplomatically-secured claim was meant to justify.
+- Finished fabricated goods generally — raw materials arrive from Davis, leave the city as usable product.
+- A genuine work ethic — output-as-legitimacy, exported the way a type of person is: recognizable across Tepenia by how seriously they take demonstrable contribution.
+- Cluster-diplomacy competence — specialists trained in genuine multinational coexistence, from a lifetime spent negotiating boundaries with two immediate neighbors.
 
 ---
 
 ## 26. Municipal Holidays
 
-- **Launch Day** *(placeholder name)* — commemorating the Soyuz program and the city's own chosen namesake
-- **The Hills Accord** *(placeholder name)* — an observance marking ongoing coexistence with the Larsemann Hills cluster's other cities
+- **Founding Day** *(placeholder name)* — commemorating the Jeju-do allocation itself, the day the city's claim to its own site was secured; more soberly observed than celebrated, given what the claim actually cost and required.
+- **The Hills Accord** *(placeholder name)* — an observance marking ongoing coexistence with the Larsemann Hills cluster's other cities.
 
 ---
 
@@ -236,13 +241,13 @@ Genuinely complex, given the Larsemann Hills cluster's density — Arcanet use h
 
 ## 27. Visitor Experience
 
-The Larsemann Hills' ice-free oasis terrain registers first, followed by the genuine density of a multinational cluster — a visitor here encountered Soyuz's Russian-Australian founding character in constant, visible contact with its immediate neighbors.
+The Larsemann Hills' ice-free oasis terrain registers first, followed quickly by the sound and visible activity of a genuinely industrial city — a sharper, busier character than a visitor arriving from Zhongshan would expect, given how close together the two cities sit. What lands next is the city's particular intensity about work: visitors who show up with something to contribute are welcomed fast; visitors without an obvious answer to "what do you do" find the city harder to read than its neighbors.
 
 ---
 
 ## 28. The Visitor-to-Resident Transition
 
-Becoming a local at Soyuz meant genuine participation in the Larsemann Hills cluster's ongoing coexistence — understanding not just Russian-Australian founding culture but the practiced diplomacy of living beside Zhongshan and the city's other close neighbor.
+Becoming a local here means genuinely participating in the city's output-as-legitimacy ethic — not just living here, but being seen to contribute something. There's no ceremony, but there is a threshold: the point at which people stop asking what you do, because they already know, and the answer already satisfied them.
 
 ---
 
@@ -252,15 +257,16 @@ Becoming a local at Soyuz meant genuine participation in the Larsemann Hills clu
 
 ## 29. Notable Local Landmarks
 
-- **The fabrication-synthesis chamber works — vision session, 2026-07-06:** the facility (or facilities) manufacturing the apparatus that creates Tepenia's robots; one of the handful of such sites in the whole Federation; arguably Soyuz's single most consequential piece of infrastructure, despite its modest political profile. **Follow-up, same session:** the developer's rough visual/process reference is the film *Ex Machina* — both the chamber and the robot brain itself (a "glowy-blue" nano-architecture "gel" brain). Construction genuinely takes time, a real waiting period rather than an instant process. Critically, Tepenian robot creation inverts the Upper Earth model: Upper Earth humans order robots built to their own specifications, but in Tepenia, **robots build each other according to their own interests**, choosing to keep the human form/figure not because anyone requires it, but because it's a design that's already withstood the test of time across nearly every terrestrial environment.
+- **The fabrication-synthesis chamber works — vision session, 2026-07-06:** the facility (or facilities) manufacturing the apparatus that creates Tepenia's robots; one of the handful of such sites in the whole Federation; arguably this city's single most consequential piece of infrastructure, despite its modest political profile. **Follow-up, same session:** the developer's rough visual/process reference is the film *Ex Machina* — both the chamber and the robot brain itself (a "glowy-blue" nano-architecture "gel" brain). Construction genuinely takes time, a real waiting period rather than an instant process. Critically, Tepenian robot creation inverts the Upper Earth model: Upper Earth humans order robots built to their own specifications, but in Tepenia, **robots build each other according to their own interests**, choosing to keep the human form/figure not because anyone requires it, but because it's a design that's already withstood the test of time across nearly every terrestrial environment.
 - **The Larsemann Hills oasis terrain** — ice-free ground, meltwater lakes, exposed rock, the same oasis character as Lazar's Schirmacher Oasis
-- **The cluster boundary zones** — where Soyuz's territory adjoined Zhongshan and its other Larsemann Hills neighbor
+- **The cluster boundary zones** — where this city's territory adjoins Zhongshan and Shirayuki
 
 ---
 
 ## 30. Significant Local Events
 
-- **The Long Night War damage** — Soyuz was hit hard, like its effectively co-located neighbor Zhongshan, but not destroyed. The city survives today damaged but partially operational, alongside Zhongshan and Shirayuki (founded via Jeju-do diplomatic allocation). Exact extent of the damage TBD for DLC 4 design.
+- **The Jeju-do allocation** — the founding event itself: the moment this site, an active Russian research station, was diplomatically secured for Korea before the exile era even began. The specific circumstances (how contested, how negotiated) are TBD.
+- **The Long Night War damage** — this city was hit hard, like its effectively co-located neighbor Zhongshan, but not destroyed. It survives today damaged but partially operational, alongside Zhongshan and Shirayuki — all three Jeju-do-founded Larsemann Hills cities sharing that fate. Exact extent of the damage TBD for DLC 4 design.
 
 ---
 
@@ -272,4 +278,4 @@ Becoming a local at Soyuz meant genuine participation in the Larsemann Hills clu
 
 ## 32. Diaspora Character in Concordia
 
-The Russian exile community's Tepenia presence is concentrated at Soyuz and at Mirny in the Mirny subnet — two Russian cities in different subnets, both damaged but standing after the Long Night War. Any Soyuz diaspora in Concordia would carry the city's own defining character — a community that deliberately chose ambition and forward motion over inherited memory, and genuine cluster-diplomacy competence built from years of close coexistence with Zhongshan and the Larsemann Hills' other cities — without the added weight of total loss, since the city persists rather than having been erased.
+This city's Korean diaspora presence in Concordia is a genuinely distinct thread from Sejong's or Janbogo's own Korean communities — shaped less by an organic homeland connection and more by the specific psychology of a claim secured through diplomacy. Diaspora from here carry the same output-as-legitimacy instinct into Concordia: introducing themselves through what they do rather than where they're from, and genuinely uneasy with the kind of inherited-prestige social codes other diaspora communities take for granted. They carry it without the added weight of total loss, since the city persists rather than having been erased — but with a weight of their own regardless: the knowledge that home, for this specific community, was never simply given.

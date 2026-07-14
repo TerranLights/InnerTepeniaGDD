@@ -21,11 +21,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Germany, France, UK, Italy, South Korea, Russia, Mexico, Brazil |
+| Primary | USA |
+| Significant | France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Sejong has the broadest Significant tier of any Palmer subnet city — eight nations, reflecting King George Island's real-world status as the most internationally concentrated research site in Antarctica. Unusually, South Korea (the actual founding-operator nation) held on at Significant tier rather than being diluted all the way to Notable — a stronger demographic retention than most Tepenian founding nations manage. China's co-Primary position alongside the USA directly mirrors King George Island's real-world multinational character, where China's own Great Wall Station sits on the same island as the Korean station this city is based on.*
+*Sejong has the broadest Significant tier of any Palmer subnet city — eight nations, reflecting King George Island's real-world status as the most internationally concentrated research site in Antarctica. South Korea (the actual founding-operator nation) held on at Significant tier rather than being diluted all the way to Notable — a stronger demographic retention than most Tepenian founding nations manage. **Corrected 2026-07-13:** China was previously listed as co-Primary here, justified by its real-world Great Wall Station on the same island — but that's exactly the kind of operator-identity reasoning this project's own methodology explicitly excludes from population composition (see `Upper_Earth_Immigration_Composition.md`). China appears nowhere else in the Palmer subnet; removed, with USA as sole Primary matching the rest of the subnet.*
 
 ---
 
@@ -35,7 +35,7 @@ King George Island's founding was unlike any other Tepenian city's: multiple nat
 
 South Korean exiles founded Sejong, naming it after King Sejong the Great — the 15th-century monarch who commissioned Hangul, the Korean alphabet, transforming Korean cultural and intellectual life. An exile community, cut off from their homeland's writing system only in the sense of physical distance, chose to honor the king who gave their ancestors the tools to record their own language and history in the first place.
 
-The Korean exile identity in Tepenia split across the whole continent: Janbogo on the Ross Sea coast became the game's main subnet hub, while Sejong held the Palmer subnet's Korean community on the opposite side of Antarctica. Both cities carry Korean cultural identity; both are named after Korean historical figures — a single people's exile story told twice, on two different coasts.
+Janbogo on the Ross Sea coast and Sejong on King George Island were both founded by Korean exiles and both named after Korean historical figures — a shared founding-era choice, not an ongoing shared identity. *(Corrected 2026-07-13: over 130 years, Janbogo remained a genuine Korean demographic and cultural center in Tepenia — alongside {{currently-unnamed Korean city}} in the Mirny subnet, singularly Korean-founded via the Jeju-do partition and still Korean-Primary at 34.62% — while Sejong's own Korean population diluted to just 5.79%, its smallest Significant-tier nation, dwarfed by the USA's sole-Primary 21.65%, under the same extreme King George Island immigration density that shaped everything else about this city. Sejong's story diverged sharply from Janbogo's after their shared naming moment; they are not, any longer, the same people's story told twice.)*
 
 ---
 
@@ -61,7 +61,7 @@ Without polar night or midnight sun, Sejong's rhythm follows the practical reali
 
 Sejong's civic identity was shaped entirely by proximity — no other Tepenian city had to define itself against so many immediate national neighbors at once. That density paradoxically sharpened rather than diluted the city's own sense of itself: Sejong's residents developed a genuinely distinct community identity precisely because so many different neighbors were close enough to compare against directly, every day — cohesion forged by contrast rather than isolation.
 
-- **a. Founding tension** — South Korea founded the city and retained an unusually strong Significant-tier position, while China and USA became co-Primary through the same long-run demographic pattern seen across Tepenia — but the more defining tension isn't founder-vs-majority, it's Sejong-vs-neighbors: a community identity constantly clarified through contrast with a dozen adjacent national communities.
+- **a. Founding tension** — South Korea founded the city and retained an unusually strong Significant-tier position, while the USA became sole Primary through the same long-run demographic pattern seen across the rest of the Palmer subnet — but the more defining tension isn't founder-vs-majority, it's Sejong-vs-neighbors: a community identity constantly clarified through contrast with a dozen adjacent national communities.
 - **b. Fault lines** — Between cooperative coexistence and competitive tension over King George Island's favorable, mild terrain — the same accessibility that made the island desirable made it genuinely competitive among its many national communities.
 
 ---
@@ -85,7 +85,8 @@ Sejong's civic identity was shaped entirely by proximity — no other Tepenian c
 
 ## 8. Language
 
-- **a. Primary language(s):** Korean as the genuine civic default (South Korea's unusually strong Significant-tier retention), with substantial Chinese and English presence reflecting the co-Primary demographic reality.
+- **a. Primary language(s):** English, matching the USA's sole-Primary demographic reality (21.65%), functions as Sejong's actual civic default. *(Corrected 2026-07-13, twice: first from an incorrect "Korean is the genuine civic default" — Korean is a real, maintained heritage language, but South Korea is Sejong's smallest Significant-tier nation, not its demographic anchor; then from an incorrect "Chinese and English co-Primary," a leftover from before China's own removal from Sejong's population table as a methodology violation — see Section 1.)* French, Mexican Spanish, German, Portuguese, Italian, Russian, and Korean — matching the eight-nation Significant tier alongside the UK's own English — all carry genuine but minority presence.
+- **a-1. Spanish as a real aggregate bloc:** Sejong's population table splits its Spanish-speaking residents across three separate tiers — Mexico (Significant, 11.28%), Argentina and Chile (Notable, 4.26% and 3.53%), and Uruguay (Notable, 0.91%) — but combined, Spanish speakers make up **19.98%** of the city, second only to English/USA and larger than any single other Significant-tier nation. This tracks King George Island's genuine geographic proximity to South America, the same circumstance that gives every other Palmer subnet city a Spanish-speaking presence (Marambio's Spain, Juan Carlos's Spain, Esperanza's Argentina at Significant tier). Spanish functions as Sejong's real second civic language in practice, even though no single Spanish-speaking nation individually clears Significant-tier prominence on its own — a case where the per-nation tier table under-represents a linguistic reality that only shows up in aggregate.
 - **b. Linguistic character** — Genuinely multilingual out of daily necessity, given the density of adjacent national communities on the same island.
 - **c. Slang / dialect markers** — Boundary-zone vocabulary describing the specific transitions between Sejong and its neighboring communities — a linguistic feature unique to King George Island's crowded geography.
 - **d. Language and integration** — Higher pressure than most Tepenian cities to maintain genuine multilingual competence, simply given the sheer density of different national communities in close contact.
@@ -102,7 +103,7 @@ Distinctly bounded and transitional — Sejong's built environment gave way at c
 
 - **a. Human cuisine** — Genuinely blended from its own founding circumstances rather than any single inherited tradition, cross-pollinated by proximity to Chinese, Argentine, Brazilian, Chilean, Polish, Russian, and Czech cooking in immediate daily contact — a degree of cross-cultural culinary exchange unmatched elsewhere in Tepenia.
 - **b. Social context of eating** — A genuine site of inter-community diplomacy as much as nourishment, given the island's dense multinational character.
-- **c. Robot cuisine / siligel culture** — Substantial, reflecting the genuine scale of a co-Primary China/USA demographic base.
+- **c. Robot cuisine / siligel culture** — Substantial, reflecting the genuine scale of the city's USA-Primary demographic base.
 
 ---
 
@@ -193,14 +194,14 @@ Genuinely complex and relational — Sejong's political character was defined as
 
 ## 22. Relationship to Upper Earth
 
-Layered through the island's own founding-era research infrastructure (KOPRI among the stations that once stood here) against the later China/USA co-Primary demographic reality — genuinely plural, and further complicated by the constant daily awareness of a dozen neighboring nations' own separate relationships to Upper Earth on the same island.
+Layered through the island's own founding-era research infrastructure (KOPRI among the stations that once stood here) against the later USA-Primary demographic reality — genuinely plural, and further complicated by the constant daily awareness of a dozen neighboring nations' own separate relationships to Upper Earth on the same island.
 
 ---
 
 ## 23. Relationship to Other Cities
 
 - **Esperanza, Marambio, Juan Carlos:** Palmer subnet Peninsula cluster neighbors via Hwy 1.
-- **Janbogo (Ross Sea coast):** The other Korean city in Tepenia — the same exile people's story told on the opposite side of the continent, sharing Korean cultural identity and naming heritage (both named after Korean historical figures) despite the geographic distance between them.
+- **Janbogo (Ross Sea coast):** *(Corrected 2026-07-13: no longer "the other Korean city" in any living sense — Janbogo remains a genuine Korean demographic center, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population has diluted to its smallest Significant-tier nation.)* Shares a founding-era naming heritage only — both cities were named after Korean historical figures at founding, but the two communities' paths diverged completely afterward.
 - **King George Island's other national communities:** A genuinely unique relationship structure — not neighboring cities in the usual sense, but co-resident communities sharing a single island's infrastructure and weather.
 
 ---
@@ -267,4 +268,4 @@ Becoming a local at Sejong meant learning not just Korean community life but the
 
 ## 32. Diaspora Character in Concordia
 
-Sejong refugees in Concordia are recognizable by a specific, practiced comfort with multinational density and constant relational identity negotiation — people shaped by a city that never had the luxury of cultural isolation. Alongside Janbogo's own Korean diaspora, Sejong refugees carry a parallel but distinct thread of Korean exile identity — the same people's story, formed under genuinely different circumstances on the opposite side of the continent.
+Sejong refugees in Concordia are recognizable by a specific, practiced comfort with multinational density and constant relational identity negotiation — people shaped by a city that never had the luxury of cultural isolation. *(Corrected 2026-07-13: previously described them as carrying "a parallel... thread of Korean exile identity" alongside Janbogo's diaspora — wrong. Sejong's diaspora reflects its own genuinely mixed composition, not a shared Korean identity with Janbogo's or {{currently-unnamed Korean city}}'s refugees; the two cities' stories diverged long before the war.)*

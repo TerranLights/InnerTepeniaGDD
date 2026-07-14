@@ -132,7 +132,7 @@ Halley subnet. The maps recovered from Belgrano ruins contributed to the Byrd fo
 ---
 
 ## Legacy
-Belgrano's most lasting contribution to Tepenian history may be the maps that helped locate Byrd Station — a gift from a destroyed Halley subnet city to a Byrd subnet founding expedition. The city itself is gone; its archive outlasted it.
+Belgrano's most lasting contribution to Tepenian history may be the maps that helped locate Byrd Station — a gift from a then-thriving Halley subnet airbase to a Byrd subnet founding expedition, generations before Belgrano's own much later decline into ruin. The archive outlasted the city it came from. *(Corrected 2026-07-13 — this line previously called Belgrano "a destroyed Halley subnet city" and said "the city itself is gone," both wrong: Belgrano survived the Long Night War intact and only declined into ruin afterward, distinct from cities destroyed outright — the same distinction the Boneyard Times decline lore is built on — and it was very much alive and operating when it contributed the maps.)*
 
 ---
 

@@ -245,7 +245,7 @@ Given the city's absolute isolation and tiny population, becoming a local at Sig
 ## 29. Notable Local Landmarks
 
 - **Signy Island harbor** — the only maritime entry point, the Scotia Sea gale approach a defining arrival experience
-- **The biological research station** — the founding BAS scientific infrastructure, damaged but partially functional
+- **The biological research station** — the founding BAS scientific infrastructure, fully intact and still functional, undamaged by the war *(corrected 2026-07-13 — previously said "damaged but partially functional," a stale leftover from before Signy's 2026-07-03 status upgrade to "Survived; fully operational," which directly contradicted this same file's own header above and `Specs/Signy.md`'s parallel entry)*
 - **The wildlife territories** — seal haul-out areas, penguin colonies, seabird nesting grounds, present regardless of the city's own status
 
 ---

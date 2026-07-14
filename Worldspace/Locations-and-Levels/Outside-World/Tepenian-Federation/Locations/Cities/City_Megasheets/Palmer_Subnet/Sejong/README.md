@@ -1,6 +1,6 @@
 # Sejong — Complete Megasheet
 
-The full, concatenated Sejong reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-08.
+The full, concatenated Sejong reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-08. Population figures recalculated 2026-07-13.
 
 ---
 
@@ -30,7 +30,7 @@ The full, concatenated Sejong reference — synthesis, then extrapolation, then 
 
 ## Who Lives Here, and Why
 
-China and USA sit co-Primary (19.88%/17.33%, genuinely close in share), with the broadest Significant tier documented anywhere in the Palmer subnet — France, UK, Mexico, Germany, Brazil, Italy, Russia, and the founding nation itself, eight nations deep, an unusually wide spread of co-resident nationalities living in close, permanent proximity.
+**Corrected 2026-07-13:** this section previously described China and USA as co-Primary (19.88%/17.33%) — wrong. China appeared nowhere else in the Palmer subnet and its inclusion here traced to real-world Great Wall Station's presence on King George Island, which this project's own population methodology explicitly excludes as a factor. Removed; the USA is Sejong's sole Primary (21.65%), matching every other Palmer subnet city, with the broadest Significant tier documented anywhere in the subnet underneath it — France, UK, Mexico, Germany, Brazil, Italy, Russia, and the founding nation itself, eight nations deep, an unusually wide spread of co-resident nationalities living in close, permanent proximity.
 
 ---
 
@@ -78,7 +78,7 @@ A densely populated enclave whose identity was forged almost entirely in relatio
 
 Carried forward from `Specs/Sejong.md` and `City_Vision_Notes/Sejong.md`, still genuinely unresolved:
 - The fate of the other King George Island national communities (Argentine, Brazilian, Chinese, Polish, Russian, Czech, Uruguayan) — separate city entries of their own, or folded into Sejong's story?
-- The Sejong–Janbogo relationship — the two Korean-founded cities of Tepenia, on opposite sides of the continent, never fully developed
+- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
 - Whether the whole multinational coexistence experiment ultimately succeeded or produced real, lasting friction
 - A specific defining skyline/landmark structure for the "mini-Taipei" feel — asked directly, not yet answered
 - Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord") never fully developed
@@ -103,13 +103,13 @@ Izmir remains the standout — its real, physically divided quarter system, self
 
 ## I. The Other King George Island National Communities — Absorbed, Not Separate
 
-**Proposed:** the smaller national footholds (Argentine, Brazilian, Chinese, Polish, Russian, Czech, Uruguayan) never developed into fully independent cities of their own — instead, as Sejong grew into the island's largest and most organized settlement, their populations were gradually folded into Sejong's own civic structure, each retaining a distinct neighborhood identity within the city rather than a separate municipal one. This traces directly from the census data itself: every one of these nations appears as part of *Sejong's own* population tiers (China and USA co-Primary; France, UK, Germany, Italy, Russia at Significant; Argentina, Chile, Uruguay at Notable) rather than as populations of separate, independently tracked cities — Sejong is the only settlement on King George Island the census recognizes at all.
+**Proposed:** the smaller national footholds (Argentine, Brazilian, Polish, Russian, Czech, Uruguayan) never developed into fully independent cities of their own — instead, as Sejong grew into the island's largest and most organized settlement, their populations were gradually folded into Sejong's own civic structure, each retaining a distinct neighborhood identity within the city rather than a separate municipal one. This traces directly from the census data itself: every one of these nations appears as part of *Sejong's own* population tiers (USA sole Primary; France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea at Significant; Argentina, Chile, Uruguay at Notable) rather than as populations of separate, independently tracked cities — Sejong is the only settlement on King George Island the census recognizes at all. *(Corrected 2026-07-13: China removed from this list — its real-world Great Wall Station presence on the island never translated into a demographically tracked Sejong population once operator-identity reasoning was correctly excluded; whatever became of any Chinese-descended community here is a genuinely open question, not a solved one.)*
 
 ---
 
-## II. The Sejong–Janbogo Relationship — A Long-Distance Cultural Correspondence
+## II. The Sejong–Janbogo Relationship — A Founding-Era Naming Echo, Not a Living Connection
 
-**Proposed:** a real, maintained connection built around the specific historical figures each city honors — Sejong for the creation of Hangul, Janbogo for a significant maritime figure in Korean history — expressed through occasional Arcanet cultural exchange (shared observance of Korean-origin holidays, scholarly correspondence on Hangul literacy) rather than frequent physical contact, given the genuine continental distance between them. Two Korean-founded cities on opposite coasts, aware of each other, occasionally in touch, but each shaped far more by its own immediate neighbors than by the other.
+**Proposed, corrected 2026-07-13:** the original version of this section proposed "a real, maintained connection" between the two cities grounded in shared Korean heritage — that overstates it. Janbogo remained a genuine Korean demographic and cultural center in Tepenia, alongside {{currently-unnamed Korean city}} in the Mirny subnet; Sejong's own Korean population diluted to 5.79%, its smallest Significant-tier nation, the same pattern already resolved at Sayowa/Shirayuki. Whatever connection exists is closer to historical footnote than living relationship — perhaps a single shared observance of Hangul Day, maintained more out of founding-era naming symmetry than genuine ongoing cultural kinship, with no meaningful mutual awareness beyond that. Each city's real cultural energy went entirely into its own immediate neighbors — Sejong into King George Island's dense multinational contrast, Janbogo into its own established Ross Sea subnet-hub role.
 
 ---
 

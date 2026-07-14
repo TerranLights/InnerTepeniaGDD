@@ -37,7 +37,7 @@ Following the "person associated with a place or idea" pattern already used else
 ## VI. Notable Figures (proposed, unconfirmed)
 
 - **Founding Administrator Wren Kalloway** *(placeholder)* — credited, in Davis's own institutional memory, with establishing the city's research-first civic character in the earliest exile years, deliberately modeling the young settlement's whole self-image on John King Davis's own unglamorous competence rather than any more celebratory founding myth.
-- **Naturalist Priya Devendra** *(placeholder)* — the figure most associated with mapping and cataloguing the Vestfold Hills' unusual lake system, credited locally with the paleoclimate sediment-core methodology proposed in Section I; embodies the "enabler" ethos directly, having reportedly turned down opportunities to publish under her own name alone in favor of crediting the whole research team.
+- **Naturalist Ratna Wirawan** *(placeholder — corrected 2026-07-13; previously "Priya Devendra," an Indian name that violated the project's binding No Subcontinentals canon and didn't match any of Davis's 20 represented nations; renamed to reflect Indonesia, Davis's genuine Significant-tier lead)* — the figure most associated with mapping and cataloguing the Vestfold Hills' unusual lake system, credited locally with the paleoclimate sediment-core methodology proposed in Section I; embodies the "enabler" ethos directly, having reportedly turned down opportunities to publish under her own name alone in favor of crediting the whole research team.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
 

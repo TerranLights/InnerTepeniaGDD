@@ -9,7 +9,7 @@
 **Census Population:** 576,469 humans / 601,844 robots / 1,178,313 combined (Census I, rank 12th); 336,124 humans / 392,200 robots / 728,324 combined (Census II, rank 17th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Larsemann Hills, Prydz Bay, Princess Elizabeth Land (~69°24'S, 76°11'E)
 
-**One-liner:** *The only Tepenian city founded by decree rather than by arrival — an Upper Earth diplomatic allocation gave Japan a claim here before the exile ever began, and the mild, gentle climate that followed made it a natural home for research, art, and refinement rather than survival alone.*
+**One-liner:** *One of only two Tepenian cities founded by decree rather than by arrival* (corrected 2026-07-13 — previously "the only," before {{currently-unnamed Korean city}}'s identical Jeju-do founding was confirmed) *— an Upper Earth diplomatic allocation gave Japan a claim here before the exile ever began, and the mild, gentle climate that followed made it a natural home for research, art, and refinement rather than survival alone.*
 
 ---
 
@@ -22,7 +22,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | Japan *(founding population — Jeju-do diplomatic allocation; re-tiered 2026-07-06)* |
-| Significant | Australia, Russia *(founding wave)*, South Korea, China, Germany |
+| Significant | Australia, Russia, South Korea, China, Germany |
 | Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
 *Re-resolved 2026-07-06 in two rounds, during this city's City Vision Notes session — see `Specs/Shirayuki.md`'s Founding Population Re-Resolution for the full math. Round 1: the standard population/GDP tiering (superseded) had put China at Primary and buried Japan — the city's actual, deliberately-allocated founding nation — in Significant tier at just 3.28%, directly undercutting the point of the Jeju-do court's decision. Japan boosted to solidly Primary at 36.27%, absorbing China's old share plus Indonesia's and Malaysia's (both removed); China dropped to Significant at 5.68% (UK's old share); UK removed outright. Round 2: a direct hand-specified transfer, 1.5 points from South Korea to China. Final: South Korea 7.89%, China 7.18%. The diplomatic allocation now reads as having actually held over 130+ years, rather than being overwhelmed by regional Chinese demographic pull.*
@@ -106,7 +106,7 @@ Built on the newest infrastructure in the Larsemann Hills cluster (the real Bhar
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine blend anchored by Japanese tradition (demographic Primary, per the 2026-07-06 re-derivation) with real Chinese influence, prepared and presented with the same considered, detail-oriented care that defines the city's whole aesthetic sensibility (see Architecture, above).
+- **a. Human cuisine** — Anchored by Japanese tradition — the city's demographic Primary, per the 2026-07-06 re-derivation — prepared and presented with the same considered, detail-oriented care that defines the city's whole aesthetic sensibility (see Architecture, above). *(Corrected 2026-07-13: previously singled out "real Chinese influence" specifically; China is actually the smallest of the city's five Significant-tier nations, no larger a presence than Australia, Russia, or South Korea, so it isn't a distinct culinary thread this city's own numbers would support naming on its own.)*
 - **b. Social context of eating** — Unhurried and social, reflecting the calm pace the mild climate supports — genuine space for the kind of extended, thoughtful gathering that harsher Tepenian cities rarely have room for.
 - **c. Robot cuisine / siligel culture** — Substantial, reflecting a genuinely sizable population with real institutional and creative infrastructure to support it.
 
@@ -122,7 +122,7 @@ A genuine civic strength, not just a passing interest — the mild, gentle clima
 
 ## 12. Music
 
-A genuine, cultivated musical culture — the calm setting and institutional depth support real conservatories, performance spaces, and creative communities in a way few other Tepenian cities can sustain, blending Chinese, Japanese, and the subnet's broader multinational influences.
+A genuine, cultivated musical culture — the calm setting and institutional depth support real conservatories, performance spaces, and creative communities in a way few other Tepenian cities can sustain, rooted in Japanese tradition and open to the subnet's broader multinational influences. *(Corrected 2026-07-13: previously named "Chinese, Japanese" specifically as the blend; China isn't a distinct musical pillar here any more than Australia, Russia, or South Korea are.)*
 
 **Vision session, 2026-07-06:** Alongside the institutional side, there's a massive amateur culture — people making art and music on their own time, in their own lives, entirely outside any conservatory or formal program. This personal, unpolished creative practice is at least as large a part of the city's identity as its institutional side, and it's the same underlying impulse that produces the homemade Alt-Rock/Alt-Grunge/Alt-Pop fashion (see Section 11).
 
@@ -186,7 +186,7 @@ Modest — a city this genuinely varied in the personalities and pursuits it sup
 
 ## 20. Private Life & Minority Communities
 
-The broad Significant tier (Japan, Germany, UK, South Korea, Russia, Indonesia, Australia) and the extensive 13-nation Notable list maintain identity through private, personal practice — the city's public civic face is organized around its research/education/arts identity rather than any single demographic group beyond its concentrated Chinese-Japanese character.
+The Significant tier (Australia, Russia, South Korea, China, Germany) and the extensive 13-nation Notable list maintain identity through private, personal practice — the city's public civic face is organized around its research/education/arts identity and its Primary-tier Japanese founding, not around any joint demographic pillar. *(Corrected 2026-07-13: this line previously listed UK and Indonesia, neither of which appear in Section 1's own composition table, and claimed a "concentrated Chinese-Japanese character" that the numbers don't support — China is the smallest of the five Significant-tier nations here, not a co-equal cultural partner alongside Japan.)*
 
 ---
 
@@ -223,7 +223,7 @@ Reflecting the city's genuine research and educational depth — Arcanet use her
 ## 25. Export Culture
 
 - Research, educational, and artistic output — a genuine, defining civic export given the mild climate's support for sustained creative and scientific work
-- Fashion and design sensibility — a genuine strength, drawing on both Chinese and Japanese aesthetic traditions
+- Fashion and design sensibility — a genuine strength, drawing on Japanese aesthetic tradition *(corrected 2026-07-13 — previously paired with "Chinese," singled out without basis; China is no larger a presence here than Australia, Russia, or South Korea)*
 - A specific *type of person* — comfortable with calm, varied civic life supporting many different pursuits, recognizable by an ease with reflective, considered work rather than harsh survival urgency
 - **A nationally-recognized music scene, established 2026-07-07:** this city's massive, genre-varied amateur music culture grows large enough, well before the Long Night War, that the whole Larsemann Hills region becomes nationally synonymous with "Alternative Culture" across Tepenia — a genuine pre-war cultural export, not a post-war development. **Whether this reputation belongs to this city alone (with Zhongshan and the Korean city absorbed into it purely by geographic association) or genuinely extends to all three cities' own civic character is deliberately left open** until those two cities' own Megasheets are complete — see `Tri-Cities_Region.md` for the tracking note.
 

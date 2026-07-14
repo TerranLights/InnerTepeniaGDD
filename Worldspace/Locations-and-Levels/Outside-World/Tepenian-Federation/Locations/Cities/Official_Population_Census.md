@@ -475,7 +475,7 @@ National communities are classified by tier based on long-run population share. 
 |------|------|--------|--------|--------|-------------|--------|
 | 1 | Lazar | Halley | 1,287,003 | 1,333,316 | **2,620,319** | *(revised 2026-07-04 — see Kunlun/Dome Fuji redistribution note below)* |
 | 2 | Esperanza | Palmer | 955,337 | 922,950 | **1,878,287** | *(revised 2026-07-04)* |
-| 3 | Cape Adare | Janbogo | 745,967 | 753,687 | **1,499,654** | *(revised 2026-07-04)* |
+| 3 | Cape Adare | Janbogo | 745,967 | 753,687 | **1,499,654** | *(destroyed; revised 2026-07-04)* |
 | 4 | Casey | Mirny | 733,795 | 761,936 | **1,495,731** | *(revised 2026-07-04)* |
 | 5 | Halley | Halley | 709,749 | 742,596 | **1,452,345** | *(revised 2026-07-04)* |
 | 6 | Mawson | Mawson | 709,729 | 737,004 | **1,446,733** | *(revised 2026-07-04)* |
@@ -489,7 +489,7 @@ National communities are classified by tier based on long-run population share. 
 | 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
 | 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
 | 16 | Soyuz | Mirny | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
-| 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | *(revised 2026-07-04)* |
+| 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | *(destroyed; revised 2026-07-04)* |
 | 18 | Abowasa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
 | 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged — excluded from the 2026-07-04 redistribution)* |
 | 20 | Troll | Halley | 475,721 | 478,729 | **954,450** | *(revised 2026-07-04)* |
@@ -589,7 +589,7 @@ Grand total is unaffected — this is a pure internal redistribution, not a net 
 | | | | Sweden | 43,615 |
 | | | | **TOTAL** | **15,623,521** |
 
-*Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. Also flagged, separate from this table's own math: this file's own City Populations table (above) does not mark Denison as destroyed, despite Section IV below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document, not yet resolved. See `TODO.md`.*
+*Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section IV below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.*
 
 ---
 
@@ -707,7 +707,19 @@ Destroyed during the Long Night War. At time of destruction, Denison's combined 
 **Belgrano** *(Confín Coast, Weddell Sea, Halley Subnet)*
 Belgrano survived the Long Night War but became ruined in the subsequent period. Its Orbital Era population was approximately **837,000** combined. The ruins are accessible in DLC 5. Belgrano was among the larger Halley subnet cities before the war, and its ruins represent one of the most significant urban corpses in post-war Tepenia.
 
-**Combined losses (destroyed + ruined):** approximately **2,874,000** *(revised 2026-07-03 — reduced from 3,762,000 by removing Soyuz's ~888,000, now reclassified as damaged/partially operational, not destroyed)* — roughly 9.0% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Denison (~734,000), and Belgrano ruins (~838,000). *(Flagged 2026-07-03: this total likely undercounts — Cape Adare is confirmed "Destroyed" in `Specs/Cape_Adare.md`, `City_Relationship_Database.md`, and the `Local_Cultures/README.md` tracking table, but its Census II population (~1,050,051) isn't reflected here. Not corrected in this pass — the census math itself wasn't rebuilt — but the total above should be treated as a likely undercount until Cape Adare is folded in. Same undercount now also applies to Princess Elisabeth, finalized 2026-07-03 as destroyed — its Census II population (~766,762) is likewise not reflected in the total above.)*
+**Sejong** *(King George Island, South Shetland Islands, Palmer Subnet)* — *(added 2026-07-13, closing a gap flagged three times in `Sejong_Full_Extrapolation.md`/README/Vision Notes since 2026-07-08 and never actioned)*
+Destroyed during the Long Night War, along with the rest of the Antarctic Peninsula's first-wave targets. At time of destruction, Sejong's combined population was approximately **514,000**. Human retention rate immediately before the war was 74.0%; robot retention was 85.3%. Census I figures: 316,691 humans / 328,142 robots.
+
+**Marambio** *(Seymour Island, Antarctic Peninsula, Palmer Subnet)* — *(added 2026-07-13, batch-fixed alongside Sejong per the same flagged gap)*
+Destroyed during the Long Night War — a small, flat, single-point-of-failure island built around one concentrated strategic asset (the airfield), architecturally closer to Palmer City's or Sejong's situation than Rothera's decentralizable terrain. At time of destruction, Marambio's combined population was approximately **430,000**. Human retention rate immediately before the war was 69.0%; robot retention was 81.8%. Census I figures: 283,442 humans / 286,827 robots.
+
+**Princess Elisabeth** *(Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land, Halley Subnet)* — *(added 2026-07-14, closing the gap flagged 2026-07-03 and confirmed still open during Princess Elisabeth's own bug-check pass)*
+Destroyed during the Long Night War — the Halley subnet's only city with no passive survival advantage at all: its entire existence depended on continuously maintained zero-emissions engineering (wind/solar systems built to withstand real-world gales up to 300 km/h), and once that engineering was compromised, nothing protected what remained. At time of destruction, Princess Elisabeth's combined population was approximately **766,762**. Human retention rate immediately before the war was 72.5%; robot retention was 62.5%. Census I figures: 553,768 humans / 584,149 robots. A small population of straggling survivors remains among the ruins.
+
+**Cape Adare** *(Ridley Beach, Victoria Land, Janbogo Subnet)* — *(added 2026-07-14, batch-fixed alongside Princess Elisabeth per the same flagged gap)*
+Destroyed during the Long Night War — the site of the first permanent Antarctic habitation, hosting one of the largest Adélie penguin rookeries in the world. At time of destruction, Cape Adare's combined population was approximately **1,050,051**. Human retention rate immediately before the war was 57.2%; robot retention was 82.8%. Census I figures: 745,967 humans / 753,687 robots.
+
+**Combined losses (destroyed + ruined):** approximately **5,634,813** *(revised 2026-07-14 — increased from 3,818,000 by adding Princess Elisabeth's ~766,762 and Cape Adare's ~1,050,051, both confirmed Destroyed but missing from this section since it was first assembled; see the two entries above)* — roughly 17.6% of the total combined (surface + orbital) Tepenian population. Includes Zukelli (~1,302,000), Denison (~734,000), Belgrano ruins (~838,000), Sejong (~514,000), Marambio (~430,000), Princess Elisabeth (~766,762), and Cape Adare (~1,050,051). This closes the last two gaps in this section — every city independently confirmed "Destroyed" or "Ruins" elsewhere in the project is now accounted for here.
 
 ---
 

@@ -196,7 +196,7 @@ Filtered through the same pride-in-competence lens as everything else at Troll â
 ## 23. Relationship to Other Cities
 
 - **Halley:** Subnet hub, connected via Hwy 7's inland section.
-- **Maitri and Princess Elisabeth:** Connected via the Halley subnet coastal/interior highway network; Troll's airfield gives it outsized logistical importance to both.
+- **Lazar and Princess Elisabeth:** Connected via the Halley subnet coastal/interior highway network; Troll's airfield gives it outsized logistical importance to both.
 - **Every other Halley subnet city:** Structurally dependent on whoever controls Troll Airfield for any real connection beyond the subnet itself.
 
 ---

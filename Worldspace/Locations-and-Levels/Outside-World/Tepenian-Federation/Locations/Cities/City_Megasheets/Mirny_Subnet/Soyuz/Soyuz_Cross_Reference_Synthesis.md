@@ -4,15 +4,17 @@
 
 ---
 
-## Finding 1: "chosen ambition over inherited memory" is a repeated pattern, not a one-time founding fact
+## Finding 1: "earning the claim through output" is a repeated pattern, not a one-time founding fact
+
+*(Corrected 2026-07-13: this finding originally traced back to "the founders' choice to name the city after a symbol of ambition." That premise is wrong — "Soyuz" was never the founders' choice. Rebuilt below on the corrected premise: a claim secured by treaty, not a name chosen freely.)*
 
 **Combining:** a real precedent of an industrial city evolving from broad manufacturing toward one highly specific specialization without losing its fundamentally industrial character + this city's own established fabrication-first economy + the newly-proposed idea that its chamber-manufacturing role was a later specialization rather than a founding-era fact (Full Extrapolation, Section IV).
 
-**2nd-order effect:** if the chamber-manufacturing specialty genuinely developed over generations rather than existing from founding, then the city's economic identity earned its most consequential trait the same way its founders earned their civic identity — through deliberate specialization and choice, not inheritance.
+**2nd-order effect:** if the chamber-manufacturing specialty genuinely developed over generations rather than existing from founding, then the city's economic identity earned its most consequential trait the same way its founders earned their place here in the first place — through demonstrated output, not inheritance.
 
-**3rd-order effect:** this reframes the city's established "Chosen Ambition, Not Inherited Memory" theme as having a genuine multi-generational echo — the founders' choice to name the city after a symbol of ambition rather than accept the station's inherited name, and the city's later choice to specialize into chamber manufacturing rather than remain generic industrial infrastructure, are the same underlying civic instinct expressed twice, centuries apart.
+**3rd-order effect:** this reframes the city's established output-as-legitimacy civic identity as having a genuine multi-generational echo — the founders' need to prove a diplomatically-secured claim through visible contribution, and the city's later specialization into chamber manufacturing rather than remaining generic industrial infrastructure, are the same underlying civic instinct expressed twice, centuries apart: this city doesn't inherit its standing, it demonstrates it.
 
-**4th-order effect:** this gives the founding theme real depth beyond a single founding-era slogan — it's a pattern the city's whole history bears out, worth keeping in mind for any future writing that wants to show a founding value echoing forward rather than only living in the moment it was first stated.
+**4th-order effect:** this gives the founding theme real depth beyond a single founding-era fact — it's a pattern the city's whole history bears out, worth keeping in mind for any future writing that wants to show a founding-era pressure echoing forward rather than only living in the moment it was first felt.
 
 ---
 
@@ -28,24 +30,28 @@
 
 ---
 
-## Finding 3: the eventual rename would be this city's second deliberate, symbolically loaded name change
+## Finding 3: the eventual rename would be this city's first deliberate, symbolically loaded name choice — not its second
 
-**Combining:** a real precedent of a city undergoing a deliberate, self-chosen renaming carrying deep symbolic and political weight + this city's own established founding choice to name itself after a symbol of ambition rather than keep its inherited station name + the developer's own stated, still-undecided plan to eventually rename the city again.
+*(Corrected 2026-07-13: this finding originally treated the eventual rename as the city's second deliberate name choice, following a first one at founding. That's wrong — "Soyuz" was never the founders' own choice, just a leftover label tied to the station's Russian namesake. Rebuilt below on the corrected premise.)*
 
-**2nd-order effect:** this city is set up to undergo the same kind of deliberate, meaningful renaming twice in its own history — once at founding (a chosen name over an inherited one) and once more in its still-pending future (a new name reflecting the population that actually lives there now).
+**Combining:** a real precedent of a city undergoing a deliberate, self-chosen renaming carrying deep symbolic and political weight + this city's own established history of never actually choosing its own name at all, across its entire existence + the developer's own stated, still-undecided plan to finally give the city one.
 
-**3rd-order effect:** whatever the eventual new name turns out to be, it would be joining a city whose own established civic identity already treats a chosen name as something that carries real weight — the second renaming wouldn't be a break from the city's character, it would be a continuation of the exact pattern its own founders set in motion, this time driven by the present-day population rather than the founding generation.
+**2nd-order effect:** unlike Volgograd's own precedent (a name deliberately chosen, then deliberately chosen again), this city has never once named itself. The eventual rename wouldn't be a second act in an established pattern of self-definition — it would be the very first time the city's own population gets to choose what they're called, 130-plus years after founding.
 
-**4th-order effect:** this gives whoever eventually picks the new name a genuine, established precedent to honor — ideally carrying the same kind of deliberate, meaning-driven weight the original chosen name carried, rather than functioning as a purely neutral demographic correction with no symbolic content of its own.
+**3rd-order effect:** that changes the emotional weight of the eventual renaming considerably. It isn't a city continuing its own tradition of meaningful self-naming — it's a city finally being allowed to do something it was diplomatically denied at the moment of its founding, when a name got attached to it without anyone who actually lived there being asked.
+
+**4th-order effect:** this gives whoever eventually picks the new name a different kind of precedent to honor than originally framed — not continuing an established pattern, but closing a 130-year-old gap. The name, whatever it turns out to be, carries the weight of being the city's first real act of self-definition, not its second.
 
 ---
 
-## Synthesis: The Pattern Across All Three Findings
+## Synthesis: The Pattern Across All Findings
 
-All three findings trace back to the same underlying observation: this city's founding choice to define itself through deliberate meaning rather than inherited default recurs, unprompted, at every scale this research pass touched — in its economic specialization, in how seriously an external adversary apparently took its own significance, and in its own still-pending future renaming. A single founding-era decision turns out to be a genuine, load-bearing pattern for the whole city, not an isolated founding-era fact.
+*(Corrected 2026-07-13: the original synthesis traced all three findings to a shared "founding choice to define itself through deliberate meaning" — built on the same false premise as Finding 3. Rebuilt below.)*
+
+Findings 1 and 3 trace back to the same underlying, corrected observation: this city has never gotten to define itself through inherited meaning — not its name, not its regional standing, not even (per Finding 2) its own visibility to outside observers. What recurs, unprompted, at every scale this research pass touched is a population proving its place through demonstrated output because it was never simply handed one: in its economic specialization, in the fact that even Upper Earth's own war planners took its significance more seriously than most Tepenians did, and in its own still-pending, still-unclaimed right to choose its own name. A founding-era absence — the thing this city never got — turns out to be the load-bearing pattern for the whole city, not an isolated founding-era gap.
 
 ---
 
 ## Worth Your Attention
 
-Finding 3 is the most immediately useful for future work — it gives whoever eventually picks this city's real name a concrete design principle to work from: the name should carry deliberate meaning, the way "Soyuz" itself did, rather than simply correcting the demographic record.
+Finding 3 is the most immediately useful for future work — it gives whoever eventually picks this city's real name a concrete design principle to work from: the name should carry deliberate meaning as the city's actual, first act of self-naming, not treated as simply correcting the demographic record. *(Corrected 2026-07-13: this previously said the name should carry meaning "the way 'Soyuz' itself did" — it never did; that's the whole point of the corrected Finding 3 above.)*

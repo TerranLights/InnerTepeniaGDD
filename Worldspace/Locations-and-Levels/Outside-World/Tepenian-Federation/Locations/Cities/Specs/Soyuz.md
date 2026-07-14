@@ -1,11 +1,11 @@
 # Soyuz
 
-**Based on:** Progress Station (Russia / Arctic and Antarctic Research Institute), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E)
-**Tepenian name:** Soyuz — named after the Soyuz spacecraft and program, one of the most enduring symbols of Russian space-age achievement; the founding exile community chose to honor this legacy. **Flagged for eventual renaming, 2026-07-06:** following the population re-derivation above (South Korea now the dominant Primary-tier nation at 29.74%), the developer intends to eventually rename this city to something Korean, rather than keep the Russian-derived "Soyuz." No replacement name chosen yet — placeholder "Soyuz" remains in force until one is picked.
+**Based on:** Progress Station (built by Russia / Arctic and Antarctic Research Institute — physical infrastructure only, a GPS fact; see Founding, below, for the city's actual founding population), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E)
+**Tepenian name:** {{currently-unnamed Korean city}} — not yet chosen. Candidate Korean names already brainstormed (see list below); "Soyuz" was never a name the city's founders chose, just a leftover label tied to the physical station's Russian namesake.
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates (69°22'S, 76°22'E), only a few hundred meters apart in reality; one being destroyed while the other was merely damaged made no physical sense. Resolved alongside Zhongshan and Shirayuki as all three "damaged, yet functional" — see the Larsemann Hills Cluster Status Note below.)*
 **Arcanet Subnet:** Mirny *(corrected 2026-07-05 — the developer determined real-world geography places the Larsemann Hills cluster, ~110km from Davis, much closer to the Mirny subnet's own Prydz Bay anchor than to Mawson Station (~570km away); Soyuz and Shirayuki move to Mirny to join Zhongshan, already assigned there. See `TODO.md` for the full reasoning. Highway network implications for Hwy 4/Hwy 110 not yet resolved — flagged separately.)*
 **Highway access:** **Resolved 2026-07-06** (closes the "Hwy 4/Hwy 110 implications not yet resolved" flag from 2026-07-05) — Soyuz is on **Hwy 4 (the Mawson-Soyuz Highway)**, between Mawson and Shirayuki: Sayowa → Mawson → Soyuz → Shirayuki. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Tepenian city in the Prydz Bay / Larsemann Hills cluster; named for the Soyuz spacecraft program; one of the densest multi-city clusters in Tepenia alongside Zhongshan and Shirayuki (founded via Jeju-do diplomatic allocation); the Arctic and Antarctic Research Institute's operational heritage; Larsemann Hills ice-free oasis terrain (similar to the Schirmacher Oasis in the Halley subnet, though smaller)
+**Significance:** Tepenian city in the Prydz Bay / Larsemann Hills cluster; singularly Korean-founded via the same International Court of Diplomacy at Jeju-do that allocated Shirayuki to Japan and confirmed Zhongshan's claim to China — the third of three Larsemann Hills cities settled by that same three-way agreement among Japan, Korea, and the Sinian Federation; built on the physical infrastructure of the Russian-operated Progress Station (a GPS fact only — see Founding, below); Larsemann Hills ice-free oasis terrain (similar to the Schirmacher Oasis in the Halley subnet, though smaller); not yet named
 **DLC:** Mirny subnet — DLC 7 (Mirny Region) *(corrected 2026-07-05, moved from DLC 4/Mawson)*; damaged but partially operational
 
 ---
@@ -18,7 +18,7 @@ Soyuz, Zhongshan, and Shirayuki all sit within the same small Larsemann Hills oa
 
 ## Prospective Replacement Names — Candidate List, 2026-07-07 (rebuilt with hanja, 2026-07-08)
 
-Brainstormed purely from the city's own established nature, setting, and personality (ambitious, self-defining, industrial, dual-founded, born of the Jeju-do peace partition), independent of any naming-convention logic tied to the placeholder "Soyuz" itself. None of these are chosen — a running list to browse and narrow down whenever the developer is ready.
+Brainstormed purely from the city's own established nature, setting, and personality (ambitious, self-defining, industrial, singularly Korean-founded, born of the Jeju-do peace partition), independent of any naming-convention logic tied to the placeholder "Soyuz" itself. None of these are chosen — a running list to browse and narrow down whenever the developer is ready.
 
 **Nothing here goes to waste, even after a final name is picked** — per the developer's own note (2026-07-07), whichever names don't end up as the city's own name remain available for reuse at a smaller scale: restaurants, shops, streets, neighborhoods, or other named things within the city once its street-level detail gets developed.
 
@@ -73,14 +73,14 @@ Brainstormed purely from the city's own established nature, setting, and persona
 | Tier | Nations |
 |------|---------|
 | Primary | South Korea *(re-tiered 2026-07-06, strengthened further same day)* |
-| Significant | China, Japan, Germany, Russia *(founding operator heritage — share reduced 2026-07-06)*, Indonesia, Australia *(founding wave)* |
+| Significant | China, Japan, Germany, Russia *(operated the physical Progress Station infrastructure only — never a founding population; see Founding, above, corrected 2026-07-13)*, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Estonia, Hungary, Lithuania, Malaysia, Vietnam, Philippines, Bulgaria, Latvia, South Africa |
 
 *Source: `Official_Population_Census.md` Sections I-III. Re-derived 2026-07-06, in three rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Originally de-stacked 2026-07-05. **Re-derived 2026-07-06 in three rounds, during this city's City Vision Notes session.** Round 1 — same underlying issue as Shirayuki's own re-resolution (see `Specs/Shirayuki.md`): the standard population/GDP-based tiering put China at Primary in a city with no particular Chinese founding claim, while Russia — the actual founding-operator nation (Progress Station) — sat diluted in Significant tier. The developer's fix boosted **South Korea** instead of Russia: UK removed entirely, its share transferred to China (demoting China from Primary to Significant); China's old share transferred to South Korea, stacked on top of Korea's own existing share, making Korea the new Primary-tier nation at 29.74%; Russia's own share left untouched throughout. Romania swapped for Hungary at the same share value. Round 2 — Ukraine and Belarus both removed entirely, their combined shares (3.15% + 1.73%) added directly to South Korea, bringing it to 34.62%. Round 3 — a direct, hand-specified transfer: 3.0 points moved from Russia to Japan. This is the one point in this whole cluster-wide exercise where Russia's founding-operator share was actually touched, and it moved *down*, not up. Sums to exactly 100%.)*
+*(Originally de-stacked 2026-07-05. **Re-derived 2026-07-06 in three rounds, during this city's City Vision Notes session** — at the time, based on a since-corrected assumption that Russia was the founding-operator nation; **corrected 2026-07-13: Korea was the founding nation all along, via Jeju-do diplomatic allocation, and Russia was never more than the physical station's operator.** Read in that light, this fix boosted the actual founding nation to Primary — it was already doing the right thing, just not yet for the right reason. Round 1 — same underlying issue as Shirayuki's own re-resolution (see `Specs/Shirayuki.md`): the standard population/GDP-based tiering put China at Primary in a city with no particular Chinese founding claim, while Korea — the city's actual founding nation — sat diluted in Significant tier. The developer's fix boosted **South Korea**: UK removed entirely, its share transferred to China (demoting China from Primary to Significant); China's old share transferred to South Korea, stacked on top of Korea's own existing share, making Korea the new Primary-tier nation at 29.74%; Russia's own share left untouched throughout. Romania swapped for Hungary at the same share value. Round 2 — Ukraine and Belarus both removed entirely, their combined shares (3.15% + 1.73%) added directly to South Korea, bringing it to 34.62%. Round 3 — a direct, hand-specified transfer: 3.0 points moved from Russia to Japan. Sums to exactly 100%.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -104,15 +104,17 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
-## Founding Population Re-Resolution (2026-07-06, three rounds)
+## Founding Population Re-Resolution (2026-07-06, three rounds; framing corrected 2026-07-13)
 
-Soyuz's original per-nation breakdown (above, superseded) used the project's standard population/GDP-based tiering, which put China at Primary tier (19.51%) in a city with no Chinese founding claim at all — Russia (Progress Station) was the actual founding-operator nation, sitting diluted at Significant tier (9.85%).
+*(Corrected 2026-07-13: this section originally identified Russia as "the actual founding-operator nation" — wrong. Korea is the city's actual founding nation, via Jeju-do diplomatic allocation; Russia was never more than the physical station's operator, a GPS fact. The numbers and mechanics below are unchanged; only the founding-nation attribution is corrected.)*
 
-**Round 1:** Unlike Shirayuki's own re-resolution the same day (which boosted the founding nation, Japan, directly), the developer's fix here instead made **South Korea** the new dominant nation: UK was removed entirely, its 9.74% share transferred to China (demoting China from Primary to Significant); China's old 19.51% share was then transferred to South Korea, stacked on top of Korea's own existing 10.22%, making Korea the new Primary-tier nation at 29.74%. Russia's own founding-operator share was left completely untouched throughout (9.85%, unchanged). Romania was also swapped for Hungary at the same share value (3.43%), unrelated to the demographic fix. A 0.01-point rounding gap was closed by adding it to South Korea.
+This city's original per-nation breakdown (above, superseded) used the project's standard population/GDP-based tiering, which put China at Primary tier (19.51%) in a city with no Chinese founding claim at all — Korea, the city's actual founding nation, sat diluted at Significant tier (10.22%).
+
+**Round 1:** Unlike Shirayuki's own re-resolution the same day (which boosted the founding nation, Japan, directly), the developer's fix here instead made **South Korea** the new dominant nation: UK was removed entirely, its 9.74% share transferred to China (demoting China from Primary to Significant); China's old 19.51% share was then transferred to South Korea, stacked on top of Korea's own existing 10.22%, making Korea the new Primary-tier nation at 29.74% — the city's actual founding nation, correctly restored to Primary tier, years before that founding fact was itself understood. Russia's own share was left completely untouched throughout (9.85%, unchanged). Romania was also swapped for Hungary at the same share value (3.43%), unrelated to the demographic fix. A 0.01-point rounding gap was closed by adding it to South Korea.
 
 **Round 2:** Ukraine and Belarus were both removed entirely, their combined old shares (3.15% + 1.73% = 4.88%) added directly to South Korea, bringing it to 34.62%. This round closed evenly with no rounding gap — removing two full shares and reassigning them whole, rather than replacing one nation's share with a smaller one, avoids the kind of shortfall the earlier rounds needed to patch.
 
-**Round 3:** A direct, hand-specified transfer — 3.0 points moved from Russia to Japan. Notably, this is the one adjustment across the entire Larsemann Hills cluster rework where Russia's own founding-operator share was actually touched, and it moved down rather than up: **Russia 6.85%, Japan 7.78% final.** Sums to exactly 100%.
+**Round 3:** A direct, hand-specified transfer — 3.0 points moved from Russia to Japan. **Russia 6.85%, Japan 7.78% final.** Sums to exactly 100%.
 
 ---
 
@@ -120,7 +122,7 @@ Soyuz's original per-nation breakdown (above, superseded) used the project's sta
 
 Soyuz sits in the Larsemann Hills — a small ice-free area on the Ingrid Christensen Coast of Princess Elizabeth Land, Prydz Bay. The Larsemann Hills are one of Antarctica's rare oasis areas: exposed bedrock, meltwater lakes, and the distinctive character of ice-free coastal terrain. At approximately 34km², the Hills are comparable to the Schirmacher Oasis (Lazar, the Halley subnet city built on the coalesced Novolazarevskaya/Maitri Station sites, also sits in such an oasis).
 
-Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 — this cluster's own subnet membership moved from Mawson to Mirny; see `TODO.md`)*. Three cities occupy the Larsemann Hills and immediate vicinity: Soyuz (Russian-founded, based on Progress Station), Zhongshan (Chinese/Sinian, based on Zhongshan Station at nearly the same coordinates), and Shirayuki (Japanese-founded, based on the former Bharati Station location, non-Indian founding population — see `Specs/Shirayuki.md`). The density is the closest parallel in the Mirny subnet to King George Island's multinational character in the Palmer subnet.
+Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 — this cluster's own subnet membership moved from Mawson to Mirny; see `TODO.md`)*. Three cities occupy the Larsemann Hills and immediate vicinity, all three founded via the same Jeju-do diplomatic allocation: this city (singularly Korean-founded, physically built on Progress Station — Russia's operatorship of the station itself is a GPS fact only), Zhongshan (Chinese/Sinian, based on Zhongshan Station at nearly the same coordinates), and Shirayuki (Japanese-founded, based on the former Bharati Station location, non-Indian founding population — see `Specs/Shirayuki.md`). The density is the closest parallel in the Mirny subnet to King George Island's multinational character in the Palmer subnet.
 
 ### Annual Climate
 
@@ -154,21 +156,23 @@ Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 �
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Progress Station infrastructure. Russia's Arctic and Antarctic Research Institute had operated Progress Station in the Larsemann Hills since the 1980s. The exile community inherited Russian polar research infrastructure with deep institutional roots.
+*(Corrected 2026-07-13 — the section below previously described an organic Russian founding. That was wrong. This city was never Russian-founded, not even originally; erased and replaced with the correct mechanism.)*
 
-**Founding population:** Russian exiles, Arctic and Antarctic Research Institute heritage.
+**Settled:** The allocation itself was decided before the exile era began, by the same International Court of Diplomacy at Jeju-do that confirmed China's claim to Zhongshan Station and allocated the unoccupied Bharati site to Japan as Shirayuki. Japan, Korea, and the Sinian Federation coordinated as regional peers, and this site — physically built as Progress Station by Russia's Arctic and Antarctic Research Institute — was allocated to Korea as part of that same three-way agreement. Korean exiles settled it once the Falkland Treaty exile era began, inheriting Russian polar research infrastructure with deep institutional roots, but never a Russian founding claim — that claim never existed. Russia was not a party to the Jeju-do court at all.
 
-The name "Soyuz" was the founding community's choice — not the station's inherited name but a new name for a new city. The Soyuz spacecraft and program, one of the defining achievements of Russian space-age engineering, was chosen as a symbol of ambition and resilience.
+**Founding population:** Korean exiles, via the Jeju-do court's diplomatic allocation — the same mechanism that secured Shirayuki for Japan, applied here to secure this site for Korea against Russia's purely physical, non-diplomatic presence at the original station.
+
+**The name "Soyuz" was never the founding community's own choice.** It is a placeholder that stuck — carried over informally from the physical station's Russian namesake rather than replaced with a name the actual Korean founders would have chosen for themselves. No such name has ever been recorded or chosen. See the candidate-name list above for the eventual replacement.
 
 ---
 
 ## Character & Culture
 
-Soyuz had the character of a Russian city that knew it was part of a cluster. The Larsemann Hills' density — three cities in close proximity — produced an inter-community dynamic similar to King George Island's in the Palmer subnet. The Russian community negotiated its identity against its immediate neighbors (the Sinian Zhongshan community, the TBD-nationality former-Shirayuki community) daily.
+This city had the character of a singularly Korean city that knew it was part of a cluster. The Larsemann Hills' density — three cities in close proximity — produced an inter-community dynamic similar to King George Island's in the Palmer subnet. The Korean community negotiated its identity against its immediate neighbors (the Sinian Zhongshan community, the Japanese Shirayuki community) daily, the same three-way Jeju-do peers who had allocated all three sites in the first place now living out that allocation as next-door neighbors.
 
-The Soyuz name — forward-looking, technologically proud — suggested a community that defined itself by ambition rather than nostalgia.
+The "Soyuz" placeholder — forward-looking, technologically proud — was never actually chosen by the community it's attached to; whatever name the city's actual Korean founders would have chosen for themselves remains unrecorded and TBD.
 
-**Nationally known for:** The Soyuz name. The Larsemann Hills cluster. The Prydz Bay position.
+**Nationally known for:** The Larsemann Hills cluster. The Prydz Bay position. Awaiting its real name.
 
 ---
 
@@ -190,18 +194,18 @@ The Soyuz name — forward-looking, technologically proud — suggested a commun
 ---
 
 ## Connection to Concordia
-Mirny subnet *(corrected 2026-07-05, moved from Mawson)*. The Russian exile community's Tepenia presence was concentrated at Soyuz and at Mirny (the city). **Updated 2026-07-05:** with Soyuz's move into the Mirny subnet, these are no longer two Russian cities split across different subnets — they now share the same Arcanet subnet membership, a genuine change in relationship, not just a geographic curiosity.
+Mirny subnet *(corrected 2026-07-05, moved from Mawson)*. *(Corrected 2026-07-13: this section previously paired this city with Mirny (the city) as "two Russian cities" — wrong, since this city was never Russian-founded. That pairing belongs to Mirny (the city)'s own separate, already-flagged Russian-identity question — see `project_mirny_rename_flagged` — not to this city.)* This city's Korean diaspora presence in Concordia is a genuinely new thread to develop, distinct from whatever the Larsemann Hills cluster's own internal Sino-Korean-Japanese dynamics produce locally.
 
 ---
 
 ## Legacy
-Soyuz's legacy is the name it chose — ambition in the face of exile, a spacecraft's name given to a city of survivors.
+This city's legacy is the Jeju-do allocation itself — a claim secured by diplomacy before the exile era even began, standing alongside Shirayuki's own diplomatically-engineered founding as one of only two Tepenian cities settled this way rather than through organic station inheritance.
 
 ---
 
 ## Open Questions
 - **DLC 4 alternate access route to Dome Fuji, with a DLC 5 cross-DLC item chain — established 2026-07-04:** Soyuz's own airstrip (see Economy & Industry above) is the site of a broken, player-repairable plane offering an alternate route to Dome Fuji, alongside the dangerous overland trip. Requires 10 Calculation + 10 Investigation plus a specific gate item — a specifically-shaped aircraft part found through optional side-content in Belgrano (DLC 5), in a garage/warehouse's scrap pile. A player who already has this item from DLC 5 can skip the stat-gate entirely and just place the part in the engine. See `TODO.md`'s Decision Required section and `Specs/Belgrano.md` for the full mechanic.
-- **Soyuz and Mirny (the city) — two Russian cities, now the same subnet** *(reframed 2026-07-05 — previously "two Russian cities split across different subnets"; Soyuz joined the Mirny subnet this day)* — the Russian exile community was historically split between Soyuz (Larsemann Hills) and Mirny (Davis Coast); what was the relationship between these two Russian communities pre-Split Brain, and what does their now-shared subnet membership mean for how they relate today? Both cities are damaged but functional post-war — does that shared fate give them anything in particular to say to each other?
-- **The Larsemann Hills cluster dynamics** — three cities in close proximity (Soyuz, Zhongshan, former-Shirayuki location); what were the inter-community relationships?
-- **Demonym** — TBD; "Soyuzans"? something Russian?
+- ~~**Soyuz and Mirny (the city) — two Russian cities, now the same subnet**~~ — **RESOLVED 2026-07-13 as a non-question:** this city was never Russian-founded, so there's no genuine two-Russian-cities relationship here to develop. Mirny (the city)'s own Russian-identity question stands alone — see `project_mirny_rename_flagged`.
+- **The Larsemann Hills cluster dynamics** — three cities in close proximity, all three Jeju-do-founded (this city Korean, Zhongshan Chinese, Shirayuki Japanese); what were the inter-community relationships?
+- **Demonym** — TBD; something Korean, pending the city's own real name
 - **Notable figures** — TBD

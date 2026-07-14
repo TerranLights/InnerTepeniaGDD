@@ -175,13 +175,15 @@ Three factors combined:
 
 ### Sejong *(King George Island, ~62°13'S 58°47'W)*
 
+**Corrected 2026-07-13 — China removed as an inconsistent, methodology-violating entry.** China had been listed here as co-Primary, justified as "both reach KGI via Pacific/Atlantic routes" — but China appears nowhere else in the Palmer subnet (every other Peninsula city, all reached via the same Ushuaia/Punta Arenas Drake Passage corridor, has USA as sole Primary with no China entry at all), and this document's own timezone/distance filter (nations "within ±3" of a city's UTC, strictly enforced elsewhere) was never applied to justify including a nation roughly antipodal to King George Island. The real cause is almost certainly that King George Island genuinely hosts a real Chinese station (Great Wall Station) in the real world — but this document's own stated rule is that **operator identity is explicitly excluded as a factor in this composite** ("Cities are analyzed as if ownership is irrelevant," see Methodology above). China's inclusion here violated that rule. Removed; remaining nations rescaled proportionally (×1.2481) to sum to 100%, consistent with the rest of the subnet's USA-sole-Primary pattern.
+
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
-| 1 — Primary | **China** (210M), **USA** (155M) | The two largest Gini-adjusted effective pools globally; both reach KGI via Pacific/Atlantic routes (~14,000–15,000km); natural gap of ~3× separates this pair from the next cluster |
-| 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Italy** (27M), **South Korea** (26M), **Russia** (25M), **Mexico** (18M), **Brazil** (17M) | Large effective pools 17–46M; Mexico at 18M joins the cluster; South Korea and Russia drop from operator-primary positions by Gini composite |
-| 3 — Notable | **Argentina** (6M), **Chile** (2.3M), **Uruguay** (0.6M) | Founding wave proximity nations; sub-7M Gini-adjusted |
+| 1 — Primary | **USA** (155M) | Sole Primary, consistent with every other Palmer subnet city — all reached via the same Ushuaia/Punta Arenas Drake Passage corridor |
+| 2 — Significant | **France** (35M), **UK** (32M), **Mexico** (18M), **Germany** (46M), **Brazil** (17M), **Italy** (27M), **Russia** (25M), **South Korea** (26M) | Large effective pools 17–46M; South Korea and Russia sit at Significant despite each having a real King George Island station-operator heritage — Gini-adjusted composite still places them behind the larger European/Mexican pools |
+| 3 — Notable | **Argentina** (6M), **Chile** (2.3M), **Uruguay** (0.6M) | Founding wave proximity nations; sub-7M Gini-adjusted; unchanged by the China correction |
 
-*Key note: South Korea drops from primary founding operator to T2 by Gini-adjusted composite. The KGI real-world multi-national character was almost entirely operator-driven. China and USA are the correct long-run population primaries.*
+*Key note, corrected 2026-07-13: South Korea sits at Significant tier by Gini-adjusted composite, same as every other King George Island station-operator nation here (Russia, and previously China before its removal) — the island's real-world multi-national character was almost entirely operator-driven, but none of that operator heritage translates to demographic dominance under this composite. USA is the correct long-run population primary, matching the rest of the Palmer subnet.*
 
 ---
 
@@ -359,7 +361,7 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** (210M), **USA** (155M) | The two largest Gini-adjusted effective pools globally; both reach Terra Nova Bay via Pacific routes despite ~14,000km; natural gap of ~3× separates this pair from next cluster |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **Italy** (27M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Pacific and Atlantic corridor nations 13–65M; Italy elevated by operator heritage in GDD; Australia (~3,700km Hobart/Christchurch) sets the founding wave character |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **Italy** (27M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Pacific and Atlantic corridor nations 13–65M; Australia (~3,700km Hobart/Christchurch) sets the founding wave character *(Corrected 2026-07-13 — previously credited "Italy elevated by operator heritage in GDD" here; Italy has no operator heritage at Janbogo. That heritage belongs to Zukelli (Mario Zucchelli Station), a separate city sharing this same geographic position — see Zukelli's own section below. Janbogo's genuine operator nation is South Korea, per the Key note below.)* |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia (UTC+8, distance=3 from Janbogo's UTC+11) represent the SE Asian corridor's western reach; NZ at ~3,500km from Christchurch arrives first and establishes early character |
 
 *Key note: South Korea drops from primary founding operator to T2 by Gini composite. Australia and NZ set the founding wave character via geographic proximity; China and USA dominate long-run composition.*
@@ -383,7 +385,7 @@ Same geographic position as Janbogo.
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** (210M), **USA** (155M) | Largest effective pools; both reach Cape Adare via Pacific routes |
-| 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | UK elevated by historical Borchgrevink connection in GDD; Australia (~3,500km from Hobart — shortest approach from any major nation) sets early founding character |
+| 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Ordinary Gini-adjusted Pacific/UK-corridor pools *(corrected 2026-07-13 — previously read "UK elevated by historical Borchgrevink connection in GDD," a real-world-explorer-nationality-as-causal-explanation violation of this project's binding GPS-only rule; Cape Adare's own Specs/Local_Cultures deliberately establish St. Carsten's significance as unrelated to his own nationality, and UK's actual resulting share, 5.03%, is the smallest of the tier — not an elevated one, contradicting the old note's own claim)*; Australia (~3,500km from Hobart — shortest approach from any major nation) sets early founding character |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific; Cape Adare is the closest Antarctic point to NZ; NZ geographic primacy strongest here; founding wave is NZ-dominated |
 
 ---
@@ -394,7 +396,7 @@ Same geographic position as Janbogo.
 |------|---------|-------------|
 | 1 — Primary | **China** (210M), **USA** (155M) | The two largest effective pools; USA's operator heritage is GDD-justified and effective population reality confirms it as co-primary in the long run |
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **Italy** (27M) | Pacific and Atlantic corridor large nations; 27–65M effective cluster |
-| 3 — Notable | **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | South Korea drops from operator-primary to T3 by Gini composite; Australia and NZ set the founding wave character; Philippines and Malaysia via Pacific (UTC+8, distance=3 from McMurdo's UTC+11) |
+| 3 — Notable | **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Ordinary T3 pool by Gini composite *(corrected 2026-07-13 — previously read "South Korea drops from operator-primary to T3," a copy-paste bleed from Sejong/Janbogo/Zukelli's own sections; South Korea has no operator relationship to McMurdo Station at all — Fort McMurdo's sole operator is USA, already correctly noted in the Primary row above)*; Australia and NZ set the founding wave character; Philippines and Malaysia via Pacific (UTC+8, distance=3 from McMurdo's UTC+11) |
 
 *Key note: The American founding character of Fort McMurdo in the GDD reflects both operator heritage AND effective population reality. Australia and NZ are the founding wave nations; USA and China dominate long-run composition.*
 
@@ -454,12 +456,12 @@ Same geographic position as Janbogo.
 
 ---
 
-### Soyuz *(Larsemann Hills, Prydz Bay — Mirny subnet as of 2026-07-05, moved from Mawson; status is damaged/partially operational, not destroyed — this header's "Destroyed" tag predates the 2026-07-03 correction, see `Specs/Soyuz.md`)*
+### {{currently-unnamed Korean city}} *(files: Soyuz; Larsemann Hills, Prydz Bay — Mirny subnet as of 2026-07-05, moved from Mawson; status is damaged/partially operational, not destroyed — this header's "Destroyed" tag predates the 2026-07-03 correction, see `Specs/Soyuz.md`. **Corrected 2026-07-13:** this raw table's China-Primary result and its "Russia founding operator heritage" note both predate that day's founding-story correction — the city is singularly Korean-founded via the Jeju-do court; Russia was never more than the physical Progress Station's operator, a GPS fact this project's own methodology explicitly excludes as a causal factor. The final, authoritative per-nation table lives in `Specs/Soyuz.md`, hand-adjusted 2026-07-06 to restore South Korea to Primary (34.62%) — this section's raw Gini-adjusted calculation is kept below only as a record of the pre-correction baseline, not as current guidance.)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
-| 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: founding operator heritage at Soyuz is culturally legitimate in GDD even as T2 by effective population; Australia sets founding wave character |
+| 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 by raw Gini calculation — superseded, see note above |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: ordinary Gini-adjusted effective pool, no legitimate operator-heritage claim at this site *(corrected 2026-07-13, was "founding operator heritage... culturally legitimate" — wrong)*; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian + Intermarium east corridor as per Prydz Bay UTC+5 cluster; South Africa gateway proximity cannot overcome extreme Gini reduction |
 
 ---
@@ -501,19 +503,19 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Germany and UK via Cape Town approach now competing with Hobart at this longitude; Australia (~4,000–4,500km Hobart/Fremantle) sets founding wave character |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2 in this raw Gini-adjusted pool; Germany and UK via Cape Town approach now competing with Hobart at this longitude; Australia (~4,000–4,500km Hobart/Fremantle) sets founding wave character. *(Corrected 2026-07-13 — this raw ranking predates and does not match `Specs/Davis.md`'s own final de-stacked table, where Japan is actually the smallest of the six Significant-tier nations (5.31%) and Indonesia genuinely leads (10.08%). The Specs table is authoritative; this raw layer is kept as a record of the pre-de-stacking baseline, not current guidance — see `Local_Cultures/Mirny_Subnet/Davis.md`, corrected the same day, for the propagated fix.)* |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian corridor (Thailand, Vietnam, Philippines, Malaysia — UTC+7–8, all within ±3 of Davis's UTC+5) meets Intermarium east (Ukraine, Romania, Bulgaria, Baltic states, Belarus — UTC+2–3); SA via Cape Town (long at this longitude); NZ via Hobart |
 
 ---
 
 ### Zhongshan *(Larsemann Hills, Prydz Bay, ~69°22'S 76°22'E)*
 
-Same geographic cluster as Davis.
+Same geographic cluster as Davis. *(Corrected 2026-07-13: the Significant-tier row below previously credited Russia's presence to "operator heritage" — wrong. Zhongshan Station is a Chinese facility; the real-world Russian-operated Progress Station sits at {{currently-unnamed Korean city}}'s own separate site nearby, not Zhongshan's. Russia's presence here is ordinary post-founding immigration, the same as every other Significant/Notable nation except China.)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** | 210M Gini-adjusted effective; operator heritage in GDD + largest effective pool = sole T1 primary; the founding nation is also the long-run dominant nation |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: operator heritage partially justifies GDD secondary character; Australia sets founding wave character |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: ordinary Gini-adjusted effective pool, no operator heritage at this specific site; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east corridor as Davis (both UTC+5 cluster) |
 
 ---
@@ -567,7 +569,7 @@ The systematic finding: geographically close nations with small Gini-adjusted ef
 Germany's combination of 46M effective population and very low Gini coefficient makes it the leading European contributor at every city where European nations appear. Previously often listed after UK or France; Germany now leads every European cluster.
 
 **5. Brazil drops from Peninsula T1 to T2; South Korea drops at every city it appears.**
-Brazil's extreme Gini (0.53) reduces effective pool from ~60M raw to 17M. It falls from founding T1 primary at Peninsula cities to T2 secondary. South Korea drops from operator-primary at Sejong, Janbogo, and Zukelli to T2 secondary (Sejong) or T3 (Janbogo, Zukelli, McMurdo) at every city it appears.
+Brazil's extreme Gini (0.53) reduces effective pool from ~60M raw to 17M. It falls from founding T1 primary at Peninsula cities to T2 secondary. South Korea drops from operator-primary at Sejong and Janbogo to T2 secondary (Sejong) or T3 (Janbogo, McMurdo) at every city it appears. *(Corrected 2026-07-13 — previously also listed Zukelli among the "operator-primary" and T3 cities; wrong on both counts. Zukelli's real founding operator is Italy, not South Korea — see this file's own Zukelli section below, where South Korea sits at ordinary T2/Significant (26M) and Italy carries the "operator heritage" note. South Korea was never operator-primary at Zukelli to begin with.)*
 
 ---
 
@@ -706,7 +708,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 
 ### Census design notes
 
-**Sejong (KGI) is the largest Tepenian city**, not Fort McMurdo as some might expect. Its exceptional size results from King George Island's unique multi-national composition: the only city with both China (210M) and USA (155M) at T1 co-primary, PLUS Russia, South Korea, and Italy contributing large T2 pools, PLUS the most diverse T2 cluster of any Tepenian city. The real-world multi-station character of KGI produces the largest accumulated gravity score.
+**Sejong (KGI) claim of "largest Tepenian city," flagged stale 2026-07-13, not fixed here.** This note previously credited Sejong's size to "China (210M) and USA (155M) at T1 co-primary" — wrong; China was removed from Sejong's population entirely as a methodology-violating entry (see the Sejong section above), leaving USA as sole Primary. Independent of that fix, this note's "largest Tepenian city" claim also now conflicts with established canon that **Lazar** is Tepenia's largest city (see `Cities/Official_Population_Census.md` and the developer's own Lazar population rebalancing work) — this note likely predates that rebalancing and was never swept afterward. Left as a flagged discovery rather than silently resolved; needs its own dedicated check against current census totals, not a same-pass fix bundled into the Sejong correction.
 
 **The Ross Sea/Janbogo subnet is the most populous subnet overall** (~11.5M combined), driven by the China+USA T1 co-primary composition across six cities. The Mawson and Halley subnets are nearly equal in size despite very different compositions — Mawson's China-only T1 with large East Asian T2 cluster versus Halley's USA T1 with European T2 cluster.
 

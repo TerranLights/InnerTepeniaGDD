@@ -70,7 +70,7 @@ Carried forward from `Specs/Casey.md`, still genuinely unresolved:
 - Casey's full economic and industrial character beyond transit: TBD
 - Wilkes Station ruins — do they survive the war in any accessible form?
 - Which DLC (if any) covers Casey's ruins, given the Mirny region is DLC territory, not main-game
-- Whether Pink Lucy's migration Route B (Dumont d'Urville → Casey → Concordia) is her actual path — contingent on the destruction-timing question above
+- ~~Whether Pink Lucy's migration Route B (Dumont d'Urville → Casey → Concordia) is her actual path~~ — **RETIRED 2026-07-12:** her route was resolved as Dumont d'Urville → Janbogo instead; Route B is no longer under consideration *(corrected 2026-07-13)*
 
 **New, surfaced by this research pass:** Flagstaff, Memphis, and Reno are all real cities whose residents came to feel genuine ownership over what started as purely functional infrastructure. This sharpens Casey's own "destination vs. waypoint" tension into a more specific open question: did Casey's own residents ever feel they had "arrived" at something — the way Reno's did after 1931 — or was Splinters' fame purely an *export*, felt by everyone traveling through and past Casey, without ever fully becoming how Casey's own people saw themselves? The existing files don't currently answer this either way.
 

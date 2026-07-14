@@ -17,10 +17,12 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, Germany, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, Italy, South Korea *(founding operator)*, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
 *Source: `Official_Population_Census.md` Sections I-III.*
+
+**Corrected 2026-07-13, revised same day:** Italy's tier-summary tag originally read "(founding operator heritage)" — wrong; that heritage belongs entirely to Zukelli (Mario Zucchelli Station), whose own founding population was primarily Italian exiles, not Janbogo's (Jang Bogo Station, South Korea's operator). An earlier fix this same pass retagged Italy as "operator-*adjacent*" via Terra Nova Bay proximity to Zukelli — this was itself still wrong, per developer correction: Italy has no founding-population connection to Janbogo whatsoever, adjacent or otherwise; the two stations' ~8km GPS proximity is not a heritage channel. Italy now sits untagged, an ordinary Significant-tier nation like Germany or Japan. South Korea keeps its "(founding operator)" tag as Janbogo's own genuine founding nation. Same Janbogo/Zukelli bleed-over pattern previously found (and fixed) twice in `Upper_Earth_Immigration_Composition.md` — see `project_janbogo_bug_check_resolved` memory — this is its third occurrence, now on Janbogo's own primary Specs file.
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -127,7 +129,7 @@ The communal culture was strong: shared spaces, hospitality traditions, an empha
 
 The teahouse culture was its most nationally visible expression. Janbogo teahouses were not simply places to drink tea; they were social institutions, community anchors, places where the texture of daily life was deliberately made worth living. This tradition was strong enough that at least one Janbogo teahouse was famous throughout Tepenia — known to people who had never been to Janbogo and would never go.
 
-**The Sejong connection:** Janbogo is not the only Korean city in Tepenia. Sejong, on King George Island in the Palmer subnet, was the other — a South Korean community on the opposite side of the continent, separated from Janbogo by the entire breadth of Antarctica. Both cities carry Korean cultural identity; both are named for Korean historical figures. Whether the two Korean communities had meaningful contact pre-Split Brain, and what the current relationship between surviving members of each diaspora might be, is a lore thread running through both cities.
+**Tepenia's three Korean-founded cities, corrected 2026-07-13:** Janbogo is not the only Korean city in Tepenia — there are two others. Sejong, on King George Island in the Palmer subnet, was named for a Korean historical figure and founded by South Korean exiles, but its Korean population has since diluted to just 5.79%, its smallest Significant-tier nation. {{currently-unnamed Korean city}}, in the Mirny subnet's Larsemann Hills cluster, is singularly Korean-founded via the same Jeju-do diplomatic partition that allocated Zhongshan to China and Shirayuki to Japan, and remains genuinely Korean-**Primary** today at 34.62% — by current population, the most heavily Korean city in Tepenia, more so than Janbogo itself. Janbogo's own claim to being "Korea's primary Tepenian city" rests on a different foundation than raw population share: South Korea is still Janbogo's largest Significant-tier nation (10.23%, ahead of even Australia's 9.99%), and unlike Sejong, Janbogo's founding-era civic template — the teahouse tradition, communal warmth — was never displaced or diluted even as the population that carries it forward diversified (see `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1). All three cities carry genuine Korean cultural identity, but by three different mechanisms: {{currently-unnamed Korean city}} by demographic dominance, Janbogo by cultural/institutional depth despite demographic dilution, Sejong by founding-era naming heritage alone. Whether the Korean communities of any of these cities had meaningful contact pre-Split Brain, and what the current relationship between surviving diaspora members might be, is a lore thread running through all three.
 
 **Nationally known for:** Its teahouse culture and the quality of warmth and communal hospitality its people carried with them; being the last active coastal link to Concordia.
 
@@ -152,6 +154,7 @@ Since the war, its economic function has narrowed to what it can still perform i
 ## Notable Figures
 
 - **Majyao Bisyugota** — Robot — Teahouse keeper whose establishment was famous throughout Tepenia; relocated to Concordia (Aquarius district) before or during the Long Night War; her teahouse was a defining landmark of Janbogo's cultural identity and the most nationally recognized symbol of the city's character
+- **TBN Pink Lucy (FW-25)** *(added 2026-07-13 — migration route resolved 2026-07-12, previously an open question below)* — Robot — Dumont d'Urville native who relocated to Janbogo pre-war and settled there for a time, on strong personality-match grounds (Janbogo's own hospitality-and-synthesis civic identity closely mirrors her established character read); whether she subsequently fled to Concordia or remained in Janbogo through the war is still open — see `Worldspace/Characters/Dolls/Still-Present_-_In-Game/TBN [FW-25 Pink Lucy]/README.md`
 
 ---
 
@@ -191,5 +194,5 @@ What Janbogo means to Concordia residents is not primarily "a city that was lost
 - Other named cultural institutions or landmarks that existed at peak: TBD
 - Other notable figures from Janbogo beyond Majyao: TBD
 - Why the Janbogo subnet nexus sits inside Concordia's Gemini district rather than in Janbogo itself — political arrangement, wartime emergency measure, or something else? (flagged for Gemini district design)
-- TBN Pink Lucy (FW-25) — her migration route may have included Janbogo before reaching Concordia (Route A); if confirmed, she becomes a second Notable Figure here
-- **The Sejong relationship** — what contact, if any, did Janbogo and Sejong maintain before the Split Brain? Did they see each other as kin communities or as separate national identities (Unified Korea vs. South Korea)? How many Sejong-origin people are in Concordia's Korean diaspora versus Janbogo-origin?
+- ~~TBN Pink Lucy (FW-25)'s migration route~~ — **RESOLVED 2026-07-12:** Dumont d'Urville → Janbogo, settled there pre-war. Now a Notable Figure, above. Still genuinely open: whether she subsequently fled to Concordia or remained in Janbogo through the war (main-game companion vs. Janbogo/Ross Sea DLC companion).
+- **The relationship among Tepenia's three Korean-founded cities** *(expanded 2026-07-13 to include {{currently-unnamed Korean city}}, previously omitted)* — what contact, if any, did Janbogo, Sejong, and {{currently-unnamed Korean city}} maintain before the Split Brain? Did they see each other as kin communities or as separate national identities (Unified Korea vs. South Korea vs. the Jeju-do partition's own Korean allocation)? How many Sejong-origin and {{currently-unnamed Korean city}}-origin people are in Concordia's Korean diaspora versus Janbogo-origin?

@@ -747,10 +747,18 @@ regions in parallel, not one single route:
 
 **Who runs the Halley subnet's seasonal leg (established 2026-07-03):** South
 African freighters, carrying raw materials shipped from Africa, run the summer
-supply influx into Halley subnet's coastal ports (Halley, Neumayer, Belgrano) —
-real-world grounded, mirroring SANAP's actual Cape Town-to-SANAE resupply voyages
-via the *SA Agulhas II*. This gives the "~100 days/year (seasonal)" window in the
-table above a concrete operator and cargo origin, rather than leaving it generic.
+supply influx into the Halley subnet's two actual coastal receiving ports —
+Belgrano and Sanay *(corrected 2026-07-13 — this line previously named "Halley,
+Neumayer, Belgrano" as the receiving ports; wrong on both non-Belgrano counts.
+Halley deliberately has no docks or airstrip of its own, established 2026-07-04
+— its whole architecture exists because the ice shelf moves, so fixed maritime
+infrastructure would simply be carried away; Neumayer was never established as
+a receiving port at all. Belgrano and Sanay are the subnet's confirmed two
+receiving ports, per `Specs/Belgrano.md` and `Specs/Sanay.md`, whichever
+passage is open in a given season)* — real-world grounded, mirroring SANAP's
+actual Cape Town-to-SANAE resupply voyages via the *SA Agulhas II*. This gives
+the "~100 days/year (seasonal)" window in the table above a concrete operator
+and cargo origin, rather than leaving it generic.
 
 **Who runs the Janbogo and Byrd/Ft McMurdo legs (established 2026-07-03):** same
 real-world-grounded logic, extended to the rest of the coast:

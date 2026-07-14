@@ -4,9 +4,11 @@
 
 ---
 
-## I. The City's Own Proper Name — Deliberately Left Open
+## I. The City's Own Proper Name — Resolved One Day After This Was Written
 
-Unlike every other item below, this one isn't proposed here. The developer has explicitly stated a preference for letting this city's (and its two cluster neighbors') identities fully develop first, and letting a proper name emerge organically afterward, rather than forcing one now (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`). Proposing a name here would work directly against that explicit direction, so this section is a deliberate placeholder, not an oversight.
+*(Corrected 2026-07-13: this section, written 2026-07-07, originally argued the name should stay deliberately open pending the cluster's fuller development. The developer named the city the very next day — Shirayuki (白雪, "white snow"), 2026-07-08, per `Specs/Shirayuki.md`. The section is kept below as a record of the reasoning at the time, not as an active recommendation still in force.)*
+
+Unlike every other item below, this one wasn't proposed here at the time of writing. The developer had explicitly stated a preference for letting this city's (and its two cluster neighbors') identities fully develop first, and letting a proper name emerge organically afterward, rather than forcing one immediately (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`). That preference held for exactly one more day.
 
 ---
 
@@ -16,9 +18,9 @@ Unlike every other item below, this one isn't proposed here. The developer has e
 
 ---
 
-## III. The Early Relationship With Soyuz and Zhongshan
+## III. The Early Relationship With {{currently-unnamed Korean city}} and Zhongshan
 
-**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via three different mechanisms (Zhongshan's organic proximity, Soyuz's own founding story, and this city's deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
+**Proposed:** cordial but genuinely more formal in the earliest generations than the warm, closely-entangled cluster identity established in present-day Local_Cultures — three populations who arrived at adjacent sites via two distinct mechanisms *(corrected 2026-07-13, was "three different mechanisms" — wrong; {{currently-unnamed Korean city}} and this city both arrived via the identical Jeju-do diplomatic allocation, allocated to Korea and Japan respectively, not two separate mechanisms)* (Zhongshan's organic proximity confirmed by the same court, versus {{currently-unnamed Korean city}}'s and this city's shared deliberate diplomatic engineering) took real time to become neighbors in practice, not just on a map. The gradual warming into today's established closeness tracks directly onto the three-stage amalgamation history (legal separation → de facto merger → full legal unification, per the Tri-Cities Amalgamation History) — the present-day cluster intimacy is the end state of that long process, not something that existed from day one.
 
 ---
 
@@ -48,7 +50,7 @@ Not resolved here, consistent with its status as a shared candidate across five 
 **Proposed, drawing directly on Shibuya-kei and gyaru culture as models for how a broad scene crystallizes into named, specific movements:**
 
 - **"Ashiato" fashion** *(placeholder name, Japanese for "footprint" — chosen for the sense of a trail personally left rather than a look bought ready-made)* — the city's own dominant homemade Alt-Rock/Alt-Grunge/Alt-Pop style, characterized by visibly hand-altered garments (deliberately imperfect stitching, mismatched layering, worn-in textures) as a mark of authenticity rather than a flaw to hide, distinct from the polish of Upper Earth or Concordia high fashion.
-- **"Glacier-pop"** *(placeholder genre name)* — a musical fusion emerging from the city's massive amateur scene, blending the softer, more melodic edges of Chinese and Japanese folk instrumentation with the subnet's broader multinational influences (Australian, Russian, Korean), performed primarily in the same informal, friends-and-neighbors spaces the city's whole social culture already runs on rather than dedicated concert venues — an intentional echo of Shibuya-kei's own "eclectic fusion, not pure imitation" quality.
+- **"Glacier-pop"** *(placeholder genre name)* — a musical fusion emerging from the city's massive amateur scene, blending the softer, more melodic edges of Japanese folk instrumentation with the subnet's broader multinational influences (Australian, Russian, Korean, Chinese), performed primarily in the same informal, friends-and-neighbors spaces the city's whole social culture already runs on rather than dedicated concert venues — an intentional echo of Shibuya-kei's own "eclectic fusion, not pure imitation" quality. *(Corrected 2026-07-13: previously paired "Chinese and Japanese" as the founding blend; China is the smallest of the city's five Significant-tier nations, no more central to the fusion than Australia, Russia, or Korea, so it's grouped with them instead of singled out alongside Japan.)*
 
 ---
 

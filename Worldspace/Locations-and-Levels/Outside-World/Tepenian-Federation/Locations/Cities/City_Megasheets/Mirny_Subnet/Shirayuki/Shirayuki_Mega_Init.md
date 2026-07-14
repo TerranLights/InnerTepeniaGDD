@@ -6,7 +6,7 @@
 
 ## The One-Line Pitch
 
-*The only Tepenian city that exists because Upper Earth diplomats decided it should, before the exile era even began — and the one place in the country where that imposed, external origin turned, over centuries, into a genuinely chosen identity built on research, education, and a homemade, wildly creative art-and-fashion culture.*
+*One of only two Tepenian cities that exist because Upper Earth diplomats decided they should, before the exile era even began — and the one of the two where that imposed, external origin turned, over centuries, into a genuinely chosen identity built on research, education, and a homemade, wildly creative art-and-fashion culture. (Corrected 2026-07-13 — previously "the only Tepenian city"; {{currently-unnamed Korean city}} shares the identical Jeju-do mechanism.)*
 
 ---
 
@@ -19,7 +19,7 @@
 | **Subnet** | Mirny — DLC 7, moved from Mawson 2026-07-05 |
 | **Highway access** | Hwy 4's eastern terminus, at a tri-junction with Hwy 110 and Hwy 22, same physical location as Zhongshan and Soyuz |
 | **Population (Census II)** | 336,124 humans / 392,200 robots / 728,324 combined |
-| **Founding** | Japanese exiles, via a pre-exile diplomatic allocation from the International Court of Diplomacy at Jeju-do — the only Tepenian city founded this way |
+| **Founding** | Japanese exiles, via a pre-exile diplomatic allocation from the International Court of Diplomacy at Jeju-do — one of only two Tepenian cities founded this way, alongside {{currently-unnamed Korean city}} *(corrected 2026-07-13 — previously "the only")* |
 
 ---
 
@@ -76,7 +76,7 @@ Unofficially "the Capital of Siberia" — a major transport, industrial, scienti
 ## What's Actually Open
 
 Carried forward from `Specs/Shirayuki.md`, still genuinely unresolved:
-- **The city's actual Japanese proper name** — the single largest open item, deliberately deferred (see the Tri-Cities Amalgamation History in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`) until each Larsemann Hills city's own identity is more fully developed
+- *(Resolved 2026-07-08, no longer open: the city's actual Japanese proper name — Shirayuki (白雪, "white snow"), per the header naming note above. This bullet was left listing it as "the single largest open item, deliberately deferred" well after the name was actually chosen — removed here.)*
 - The Jeju-do allocation's specifics — exact date, and whether China or Korea contested it at the time
 - The lived relationship with Soyuz and Zhongshan, given the deliberately-engineered (rather than organic) founding
 - How the founding community adapted or modified the inherited Bharati Station infrastructure

@@ -6,7 +6,7 @@
 
 ## I. The Airfield's Post-War State
 
-**Proposed:** comprehensively destroyed rather than merely damaged — runway cratered, hangars collapsed. This traces directly from Marambio's own already-established destruction mechanism: unlike Rothera's decentralized, mountainous Adelaide Island, Seymour Island is small and flat, built around one single concentrated strategic asset. The entire reason Marambio couldn't survive the way Rothera did is that its defining infrastructure *was* the target — meaning "what remains" of the airfield today is mostly rubble, consistent with a single-point-of-failure city rather than a decentralized one.
+**Proposed:** comprehensively destroyed rather than merely damaged — runway cratered, hangars collapsed. This traces directly from Marambio's own already-established destruction mechanism: unlike Rothera's decentralized, mountainous Adelaide Island, Seymour Island is small and flat, built around concentrated strategic assets *(updated 2026-07-13 — originally said "one single concentrated strategic asset," predating the shipyard/port identity established the same week this section was written; by the time of the Long Night War, Seymour Island held two critical logistics nodes, the airfield and the shipyard, not one)*. The entire reason Marambio couldn't survive the way Rothera did is that its defining infrastructure *was* the target — meaning "what remains" of the airfield and shipyard today is mostly rubble, consistent with a single-point-of-failure city rather than a decentralized one.
 
 ---
 

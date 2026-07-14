@@ -22,7 +22,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan *(leads T2)*, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, UK, South Korea, Indonesia *(leads T2)*, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
 *Davis is sole-China-Primary, the third of four Mirny subnet cities covered so far
@@ -101,7 +101,7 @@ This is a different register of "practical, unglamorous competence" than Casey's
 
 ## 8. Language
 
-- **a. Primary language(s):** Mandarin (Primary tier), with Japanese leading a broad Significant-tier mix (German, UK-English, Korean, Indonesian, Australian-English), and an unusually long Notable-tier list including genuine Intermarium-east presence (Ukrainian, Romanian, Bulgarian, Baltic languages, Belarusian).
+- **a. Primary language(s):** Mandarin (Primary tier), with Indonesian leading a broad Significant-tier mix (Korean, Australian-English, UK-English, German, Japanese) *(corrected 2026-07-13 — previously said "Japanese leading"; Japan is actually the smallest of the six Significant-tier nations at 5.31%, behind Indonesia's genuine lead at 10.08% — see `Specs/Davis.md`)*, and an unusually long Notable-tier list including genuine Intermarium-east presence (Ukrainian, Romanian, Bulgarian, Baltic languages, Belarusian).
 - **b. Linguistic character:** Precise and observational — Davis speech favors specificity, a linguistic habit that tracks the city's terrain-literacy culture (residents distinguish between types of ice, types of lake, with real vocabulary precision).
 - **c. Slang / dialect markers:** References to specific named lakes or terrain features used as shorthand for reliability or unpredictability ("that's a [Lake X] situation") — a distinctly local idiom drawing on the Vestfold Hills' unusual terrain diversity.
 - **d. Language and integration:** Low pressure; a genuinely broad, multinational Notable tier (thirteen nations) means no single non-Primary group carries outsized integration burden.

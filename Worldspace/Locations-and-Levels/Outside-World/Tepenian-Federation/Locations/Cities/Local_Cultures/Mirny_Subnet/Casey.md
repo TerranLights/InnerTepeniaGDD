@@ -24,7 +24,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan *(leads T2)*, France, South Korea, Russia, Indonesia, Australia *(founding wave)* |
+| Significant | South Korea *(leads T2 — corrected 2026-07-13, previously misstated as Japan)*, France, Australia *(founding wave)*, Russia, Japan, Indonesia |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 *Nearly identical to Denison's tiers (`../Janbogo_Subnet/Denison.md`) — same
@@ -91,13 +91,13 @@ Casey's culture is defined by transit, not by hardship or mission or heritage. S
 
 - **The type this city draws:** People suited to logistics, hospitality, and information work — natural hosts to a constant stream of strangers. Also people who like the specific rhythm of a threshold life, always near the edge of departure or arrival.
 - **The type this city repels:** People who want a city entirely defined by a strong singular cultural identity (Denison's mythologized extremity, Zhongshan's austere coherence) — Casey's identity is real but diffuse, organized around function rather than a strong unifying aesthetic or principle.
-- **Case study — Pink Lucy (TBN FW-25), possible connection:** If her migration route from Dumont d'Urville to Concordia followed the Hwy 2/DCH → Casey → Hwy 110 corridor (Route B), Casey's wartime timing becomes directly relevant to her backstory — an open question already flagged in `Specs/Casey.md`.
+- **Case study — Pink Lucy (TBN FW-25), retired connection** *(corrected 2026-07-13)*: her migration route was resolved 2026-07-12 as Dumont d'Urville → Janbogo, retiring the Casey/Route B possibility this entry still described as open. Casey's own Hwy 2/DCH corridor and wartime-timing material remain valid city lore on their own terms, just no longer tied to her.
 
 ---
 
 ## 8. Language
 
-- **a. Primary language(s):** English and Mandarin (Primary tier), with strong Japanese presence (leading Significant tier) alongside French, Korean, Russian, Indonesian, and Australian-English.
+- **a. Primary language(s):** English and Mandarin (Primary tier), with strong Korean presence (leading Significant tier — corrected 2026-07-13, previously misstated as Japanese) alongside French, Australian-English, Russian, Japanese, and Indonesian.
 - **b. Linguistic character:** Practical and efficient — Casey speech favors clarity and speed over ornamentation, shaped by a population constantly exchanging time-sensitive travel and safety information.
 - **c. Slang / dialect markers:** Road and junction vocabulary bleeds into general speech — describing a decision as being "at the junction" (a choice point with no easy way to un-choose) is recognizably Casey phrasing.
 - **d. Language and integration:** Low pressure — a city built on constant contact with travelers of every background has no patience for gatekeeping around accent or fluency.
@@ -282,7 +282,7 @@ Marked less by ceremony than by a shift in function — you're a visitor while C
 ## 31. Notable Figures
 
 - **[Placeholder]** — TBD; Casey's function-first culture may mean its notable figures are remembered more for logistics achievements than individual charisma, a distinct pattern from more personality-driven cities
-- **Ayako Hayashi (hypothetical, not decided)** — flagged as a possible candidate for where she lived in Tepenia before resettling in Concordia; Japan leads Significant tier here, so it's a demographically consistent fit if chosen. Denison (`../Janbogo_Subnet/Denison.md`) is the other candidate under consideration. See her `README.md` Design Notes.
+- **Ayako Hayashi (hypothetical, not decided)** — flagged as a possible candidate for where she lived in Tepenia before resettling in Concordia. *(Corrected 2026-07-13: this entry previously claimed "Japan leads Significant tier here" — wrong; South Korea actually leads, with Japan the second-smallest of Casey's six Significant-tier nations at 5.33%. Japan does have a real, if modest, presence, so Casey remains a demographically plausible fit — just a weaker one than previously stated.)* Denison (`../Janbogo_Subnet/Denison.md`) is the other candidate under consideration. See her `README.md` Design Notes.
 
 ---
 

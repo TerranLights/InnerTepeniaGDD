@@ -1,12 +1,12 @@
 # {{currently-unnamed Korean city; cf. Soyuz}} — Complete Megasheet
 
-The full, concatenated reference for this city — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07.
+The full, concatenated reference for this city — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-07. **Re-synced 2026-07-13** after that day's founding-story correction (dual Russian-Korean founding → singularly Korean via Jeju-do; "Soyuz" was never the founders' own chosen name) propagated through all three component files — see `project_currently_unnamed_korean_city_resolution` memory for the full story.
 
 ---
 
 # {{currently-unnamed Korean city; cf. Soyuz}} — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Soyuz.md`, `Local_Cultures/Mirny_Subnet/Soyuz.md`, `City_Vision_Notes/Soyuz.md`, and real-world research on its three inspirational picks (Daegu, Córdoba, Volgograd). No `City_Enneagram_Personalities` file exists yet for this city — a genuine gap, noted but not blocking. Compiled 2026-07-07. **A naming note up front, matching the Tri-Cities' other two members:** "Soyuz" is only the placeholder name inherited from the city's own founding choice — the developer intends to eventually rename it to something Korean, per its own re-derived demographic Primary. This document refers to it by its working title throughout.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Soyuz.md`, `Local_Cultures/Mirny_Subnet/Soyuz.md`, `City_Vision_Notes/Soyuz.md`, and real-world research on its three inspirational picks (Daegu, Córdoba, Volgograd). No `City_Enneagram_Personalities` file exists yet for this city — a genuine gap, noted but not blocking. Compiled 2026-07-07. **A naming note up front, matching the Tri-Cities' other two members:** "Soyuz" is only a placeholder — **corrected 2026-07-13: not the city's own founding choice at all**, just a leftover label tied to the physical station's Russian namesake. The developer intends to eventually rename it to something Korean, matching its confirmed status as a singularly Korean-founded city (via the Jeju-do partition — see `Local_Cultures/Mirny_Subnet/Soyuz.md` Section 2). This document refers to it by its working title throughout.
 
 **Note on this city's own unusual depth:** like Zhongshan, this city's Local Cultures file is already a fully-realized 32-section document — the "Chosen Ambition, Not Inherited Memory" identity, the fabrication-synthesis chamber reveal, the Larsemann Hills cluster dynamics. This Mega-Init's job is correspondingly less about filling gaps and more about reinforcing what's already there and resolving the small number of genuine remaining TBDs.
 
@@ -14,7 +14,7 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 
 ## The One-Line Pitch
 
-*A city that named itself, on purpose, after a spacecraft rather than a place or a person — and turned out to be the single most quietly load-bearing piece of infrastructure in Tepenia, manufacturing the actual apparatus that creates new robot citizens for the entire Federation.*
+*A city that never got to name itself — its claim secured by treaty rather than birthright, its founders' own name for it lost to a placeholder that stuck — and that turned out to be the single most quietly load-bearing piece of infrastructure in Tepenia, manufacturing the actual apparatus that creates new robot citizens for the entire Federation. (Corrected 2026-07-13 — previously framed as a city that deliberately chose the name "Soyuz" for itself; it never did.)*
 
 ---
 
@@ -24,21 +24,21 @@ The full, concatenated reference for this city — synthesis, then extrapolation
 |---|---|
 | **Real-world basis** | Progress Station, Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E) |
 | **Status** | Damaged, partially operational |
-| **Subnet** | Mirny — Hwy 4, between Mawson and the Shirayuki; part of the Larsemann Hills cluster alongside Zhongshan and the Shirayuki |
+| **Subnet** | Mirny — Hwy 4, between Mawson and Shirayuki; part of the Larsemann Hills cluster alongside Zhongshan and Shirayuki |
 | **Population (Census II)** | 437,854 humans / 450,438 robots / 888,292 combined |
-| **Founding** | A genuinely dual founding, arriving together from the start |
+| **Founding** | Singularly Korean, via the Jeju-do diplomatic partition (corrected 2026-07-13 — previously described as a dual Russian-Korean founding) |
 
 ---
 
 ## Who Lives Here, and Why
 
-The city's own re-derived demographic Primary now leads the population outright, a substantial plurality clearing a third of the whole city, with a broad Significant tier and an unusually long twelve-nation Notable list beneath it. What makes this city's demographic story distinct from most of Tepenia isn't which nation leads — it's that the founding population itself was genuinely doubled from day one, rather than one operator nation joined later by a separate founding wave the way most single-founding-nation cities describe it.
+The city's own re-derived demographic Primary now leads the population outright, a substantial plurality clearing a third of the whole city, with a broad Significant tier and an unusually long twelve-nation Notable list beneath it. **Corrected 2026-07-13:** this used to be framed as unusual because the founding population was supposedly doubled from day one. It isn't. Korea is the city's sole founding nation, confirmed via the Jeju-do partition; every other nation present today, Russia included, is ordinary post-founding immigration onto an already-settled Korean site — the same single-founder pattern as Zhongshan and Shirayuki, not an exception to it.
 
 ---
 
 ## What It Feels Like
 
-Heavy industrial fabrication dominates daily life — raw materials trucked in from Davis, worked into finished goods. The single most consequential fact about the city, hiding behind an otherwise modest political profile: it's one of a handful of Tepenian cities that manufactures the actual apparatus that creates robots, shipped nationwide so a robot can be built anywhere in the Federation regardless of local manufacturing capability. Underneath the industry runs a genuinely unusual civic mood — a deep, openly-held sense of pride and forward-looking ambition, sharper and less blended than most post-national Tepenian cities carry, embedded directly in a name the founders chose for themselves rather than inherited from the station they arrived on.
+Heavy industrial fabrication dominates daily life — raw materials trucked in from Davis, worked into finished goods. The single most consequential fact about the city, hiding behind an otherwise modest political profile: it's one of a handful of Tepenian cities that manufactures the actual apparatus that creates robots, shipped nationwide so a robot can be built anywhere in the Federation regardless of local manufacturing capability. Underneath the industry runs a genuinely unusual civic mood — a deep, openly-held sense of pride and forward-looking ambition, sharper and less blended than most post-national Tepenian cities carry. **Corrected 2026-07-13:** that pride isn't embedded in a name the founders chose for themselves — "Soyuz" was never their choice at all. It's embedded in a claim the founders had to secure by treaty rather than simply inherit, and the output-driven civic mood is how they've spent 130 years proving it.
 
 ---
 
@@ -56,11 +56,13 @@ A city producing a hugely disproportionate share of an entire nation's total veh
 
 **What this gives the city:** a near-exact structural match for its own established "quietly load-bearing infrastructure for the entire Federation" status — manufacturing something so foundational that an outsized share of an entire nation's activity depends on one city's output, despite that city carrying a modest political profile rather than capital-level prominence. Córdoba's own layered identity (industrial, academic, increasingly technological all at once) also mirrors this city's own established combination of industrial fabrication, inherited research tradition, and cluster-diplomacy function.
 
-### Secondary: Volgograd
+### Secondary: Volgograd — flagged 2026-07-13, needs review
+
+*(This pick's original rationale rested on "a city that deliberately chose its own name rather than keeping an inherited one" — that premise is now wrong; "Soyuz" was never the founders' choice. The surviving-destruction/rebuilt-as-pride half of the parallel may still hold, but the pick as a whole needs reconsidering once the city's own real name is chosen, the same open flag Zhongshan's Yekaterinburg pick carries.)*
 
 A real city that underwent a deliberate, self-chosen renaming carrying enormous symbolic and political weight, was reduced to ruins, and rebuilt as a monumental, openly-celebrated point of national pride and resilience — its identity today inseparable from the survival story itself, carrying a depth of patriotic meaning genuinely unusual even among comparably-sized cities.
 
-**What this gives the city:** real-world precedent for exactly the two most distinctive facts already established about it — a city that deliberately chose its own name rather than keeping an inherited one, and a civic mood of "deep, genuinely unusual" patriotism explicitly flagged as an outlier worth developing rather than smoothing over. Volgograd's own real history of surviving severe destruction and rebuilding as a point of pride also grounds this city's established "damaged but functional... still standing" post-war status as something closer to a defining trait than mere survival statistics.
+**What this gave the city, as originally reasoned (partly superseded):** real-world precedent for two distinctive facts — a city that deliberately chose its own name (no longer accurate; see flag above), and a civic mood of "deep, genuinely unusual" patriotism explicitly flagged as an outlier worth developing rather than smoothing over (still accurate — see Section 21 of the Local_Cultures sheet, now reframed as pride earned through output rather than through a chosen name). Volgograd's own real history of surviving severe destruction and rebuilding as a point of pride still grounds this city's established "damaged but functional... still standing" post-war status.
 
 ---
 
@@ -69,7 +71,7 @@ A real city that underwent a deliberate, self-chosen renaming carrying enormous 
 Carried forward from `Specs/Soyuz.md` and `Local_Cultures/Mirny_Subnet/Soyuz.md`, the genuinely remaining TBDs:
 - The city's own eventual proper name — not yet chosen, deliberately deferred alongside the other two Tri-Cities members
 - Demonym for the current placeholder name — "Soyuzans"? something else entirely once renamed?
-- Notable figures — currently entirely TBD, no placeholders yet proposed
+- Notable figures — two placeholders proposed in `Soyuz_Full_Extrapolation.md` (Chief Engineer Baek Ji-hoon, Foreman Dae-ho Whitfield), not yet confirmed
 - Which other Tepenian cities manufacture fabrication-synthesis chambers alongside this one
 - The chamber's own proper, non-placeholder name
 - Exact extent of the Long Night War damage to this specific city, distinct from the cluster-wide resolution
@@ -80,7 +82,7 @@ Carried forward from `Specs/Soyuz.md` and `Local_Cultures/Mirny_Subnet/Soyuz.md`
 
 ## Worth Your Attention
 
-Volgograd is the standout of this pass — its real history of a deliberately self-chosen name carrying deep symbolic weight, paired with a rebuilt, survival-defined civic pride, gives this city's two most distinctive established traits (the chosen name, the genuinely unusual patriotism) a documented real-world shape rather than leaving them as bespoke inventions with nothing behind them.
+*(Corrected 2026-07-13: Volgograd was originally the standout pick here for its self-chosen name, which no longer applies — see the flag above. Its rebuilt-as-pride half still resonates with this city's own "damaged but functional" status and its output-driven patriotism. Daegu and Córdoba's industrial parallels are unaffected by this correction and remain the stronger structural matches.)*
 
 ---
 
@@ -98,7 +100,7 @@ Following the candidate already floated in `Specs/Soyuz.md` — **Soyuzans**, ex
 
 ## II. Notable Figures (proposed, unconfirmed)
 
-- **Chief Engineer Petra Ilyenko-Baek** *(placeholder, deliberately cross-cultural surname reflecting the city's genuinely doubled founding)* — credited with adapting Progress Station's inherited research infrastructure into the fabrication economy that now defines the city; considered the figure most responsible for the shift from research outpost to industrial powerhouse.
+- **Chief Engineer Baek Ji-hoon** *(placeholder; corrected 2026-07-13 — previously "Petra Ilyenko-Baek," a deliberately cross-cultural surname reflecting a "genuinely doubled founding" that no longer holds; this city is singularly Korean-founded via Jeju-do)* — credited with adapting the inherited Russian research infrastructure into the fabrication economy that now defines the city; considered the figure most responsible for the shift from an inherited research outpost to a Korean industrial powerhouse built on top of it.
 - **Foreman Dae-ho Whitfield** *(placeholder)* — the figure most associated, in the city's own institutional memory, with securing the city's place among the handful of fabrication-synthesis chamber manufacturers — credited locally with the specific technical achievement that turned an ordinary industrial center into genuinely load-bearing national infrastructure.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
@@ -131,7 +133,7 @@ Davis remains ruled out as a candidate — already established as this city's ow
 
 ## VI. Pre-War Larsemann Hills Cluster Relationships
 
-**Proposed:** given this city's own established genuinely doubled founding (an operator nation plus an equally early founding wave, rather than one nation arriving first and a wave joining later), its relationship to its immediate cluster neighbors plausibly ran on practical, functional cooperation rather than any single dominant cultural thread — a city whose own internal identity was already a negotiated coexistence between two founding populations was, by disposition, well-suited to the additional daily negotiation the Larsemann Hills cluster required with its neighbors. This gives the cluster's overall harmony (implied by the shared "damaged but functional" resolution across all three cities, rather than any one being singled out) a plausible internal cultural root, rather than leaving inter-cluster harmony as an unexplained given.
+**Proposed, corrected 2026-07-13:** the original version of this section grounded cluster cooperation in "this city's own genuinely doubled founding" — that premise is wrong; the city is singularly Korean-founded. The corrected root is different but arguably stronger: all three Larsemann Hills cities were founded by the exact same three-way Jeju-do negotiation among Japan, Korea, and the Sinian Federation — meaning their pre-war relationship wasn't organic neighborliness that happened to work out, but three parties who had already negotiated directly with each other once, before any of them ever set foot on the ice, continuing that same working relationship as literal next-door neighbors. This gives the cluster's overall harmony (implied by the shared "damaged but functional" resolution across all three cities, rather than any one being singled out) a plausible, and now much more specific, root — not an unexplained given, but the same three regional peers who divided the cluster among themselves at Jeju-do simply continuing to coexist as they'd already agreed to.
 
 ---
 
@@ -147,15 +149,17 @@ Section V is the most structurally useful proposal here — it gives the city's 
 
 ---
 
-## Finding 1: "chosen ambition over inherited memory" is a repeated pattern, not a one-time founding fact
+## Finding 1: "earning the claim through output" is a repeated pattern, not a one-time founding fact
+
+*(Corrected 2026-07-13: this finding originally traced back to "the founders' choice to name the city after a symbol of ambition." That premise is wrong — "Soyuz" was never the founders' choice. Rebuilt below on the corrected premise: a claim secured by treaty, not a name chosen freely.)*
 
 **Combining:** a real precedent of an industrial city evolving from broad manufacturing toward one highly specific specialization without losing its fundamentally industrial character + this city's own established fabrication-first economy + the newly-proposed idea that its chamber-manufacturing role was a later specialization rather than a founding-era fact (Full Extrapolation, Section IV).
 
-**2nd-order effect:** if the chamber-manufacturing specialty genuinely developed over generations rather than existing from founding, then the city's economic identity earned its most consequential trait the same way its founders earned their civic identity — through deliberate specialization and choice, not inheritance.
+**2nd-order effect:** if the chamber-manufacturing specialty genuinely developed over generations rather than existing from founding, then the city's economic identity earned its most consequential trait the same way its founders earned their place here in the first place — through demonstrated output, not inheritance.
 
-**3rd-order effect:** this reframes the city's established "Chosen Ambition, Not Inherited Memory" theme as having a genuine multi-generational echo — the founders' choice to name the city after a symbol of ambition rather than accept the station's inherited name, and the city's later choice to specialize into chamber manufacturing rather than remain generic industrial infrastructure, are the same underlying civic instinct expressed twice, centuries apart.
+**3rd-order effect:** this reframes the city's established output-as-legitimacy civic identity as having a genuine multi-generational echo — the founders' need to prove a diplomatically-secured claim through visible contribution, and the city's later specialization into chamber manufacturing rather than remaining generic industrial infrastructure, are the same underlying civic instinct expressed twice, centuries apart: this city doesn't inherit its standing, it demonstrates it.
 
-**4th-order effect:** this gives the founding theme real depth beyond a single founding-era slogan — it's a pattern the city's whole history bears out, worth keeping in mind for any future writing that wants to show a founding value echoing forward rather than only living in the moment it was first stated.
+**4th-order effect:** this gives the founding theme real depth beyond a single founding-era fact — it's a pattern the city's whole history bears out, worth keeping in mind for any future writing that wants to show a founding-era pressure echoing forward rather than only living in the moment it was first felt.
 
 ---
 
@@ -171,24 +175,28 @@ Section V is the most structurally useful proposal here — it gives the city's 
 
 ---
 
-## Finding 3: the eventual rename would be this city's second deliberate, symbolically loaded name change
+## Finding 3: the eventual rename would be this city's first deliberate, symbolically loaded name choice — not its second
 
-**Combining:** a real precedent of a city undergoing a deliberate, self-chosen renaming carrying deep symbolic and political weight + this city's own established founding choice to name itself after a symbol of ambition rather than keep its inherited station name + the developer's own stated, still-undecided plan to eventually rename the city again.
+*(Corrected 2026-07-13: this finding originally treated the eventual rename as the city's second deliberate name choice, following a first one at founding. That's wrong — "Soyuz" was never the founders' own choice, just a leftover label tied to the station's Russian namesake. Rebuilt below on the corrected premise.)*
 
-**2nd-order effect:** this city is set up to undergo the same kind of deliberate, meaningful renaming twice in its own history — once at founding (a chosen name over an inherited one) and once more in its still-pending future (a new name reflecting the population that actually lives there now).
+**Combining:** a real precedent of a city undergoing a deliberate, self-chosen renaming carrying deep symbolic and political weight + this city's own established history of never actually choosing its own name at all, across its entire existence + the developer's own stated, still-undecided plan to finally give the city one.
 
-**3rd-order effect:** whatever the eventual new name turns out to be, it would be joining a city whose own established civic identity already treats a chosen name as something that carries real weight — the second renaming wouldn't be a break from the city's character, it would be a continuation of the exact pattern its own founders set in motion, this time driven by the present-day population rather than the founding generation.
+**2nd-order effect:** unlike Volgograd's own precedent (a name deliberately chosen, then deliberately chosen again), this city has never once named itself. The eventual rename wouldn't be a second act in an established pattern of self-definition — it would be the very first time the city's own population gets to choose what they're called, 130-plus years after founding.
 
-**4th-order effect:** this gives whoever eventually picks the new name a genuine, established precedent to honor — ideally carrying the same kind of deliberate, meaning-driven weight the original chosen name carried, rather than functioning as a purely neutral demographic correction with no symbolic content of its own.
+**3rd-order effect:** that changes the emotional weight of the eventual renaming considerably. It isn't a city continuing its own tradition of meaningful self-naming — it's a city finally being allowed to do something it was diplomatically denied at the moment of its founding, when a name got attached to it without anyone who actually lived there being asked.
+
+**4th-order effect:** this gives whoever eventually picks the new name a different kind of precedent to honor than originally framed — not continuing an established pattern, but closing a 130-year-old gap. The name, whatever it turns out to be, carries the weight of being the city's first real act of self-definition, not its second.
 
 ---
 
-## Synthesis: The Pattern Across All Three Findings
+## Synthesis: The Pattern Across All Findings
 
-All three findings trace back to the same underlying observation: this city's founding choice to define itself through deliberate meaning rather than inherited default recurs, unprompted, at every scale this research pass touched — in its economic specialization, in how seriously an external adversary apparently took its own significance, and in its own still-pending future renaming. A single founding-era decision turns out to be a genuine, load-bearing pattern for the whole city, not an isolated founding-era fact.
+*(Corrected 2026-07-13: the original synthesis traced all three findings to a shared "founding choice to define itself through deliberate meaning" — built on the same false premise as Finding 3. Rebuilt below.)*
+
+Findings 1 and 3 trace back to the same underlying, corrected observation: this city has never gotten to define itself through inherited meaning — not its name, not its regional standing, not even (per Finding 2) its own visibility to outside observers. What recurs, unprompted, at every scale this research pass touched is a population proving its place through demonstrated output because it was never simply handed one: in its economic specialization, in the fact that even Upper Earth's own war planners took its significance more seriously than most Tepenians did, and in its own still-pending, still-unclaimed right to choose its own name. A founding-era absence — the thing this city never got — turns out to be the load-bearing pattern for the whole city, not an isolated founding-era gap.
 
 ---
 
 ## Worth Your Attention
 
-Finding 3 is the most immediately useful for future work — it gives whoever eventually picks this city's real name a concrete design principle to work from: the name should carry deliberate meaning, the way "Soyuz" itself did, rather than simply correcting the demographic record.
+Finding 3 is the most immediately useful for future work — it gives whoever eventually picks this city's real name a concrete design principle to work from: the name should carry deliberate meaning as the city's actual, first act of self-naming, not treated as simply correcting the demographic record. *(Corrected 2026-07-13: this previously said the name should carry meaning "the way 'Soyuz' itself did" — it never did; that's the whole point of the corrected Finding 3 above.)*

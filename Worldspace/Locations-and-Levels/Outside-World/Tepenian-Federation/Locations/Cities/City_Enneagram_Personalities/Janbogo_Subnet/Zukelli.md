@@ -4,7 +4,7 @@
 
 ## Major Theme: Feeling (Heart)
 
-Zukelli's vision session landed on an overall reputation as "a place with a soul" — about as direct a Heart-center statement as a city can receive. Its huge, genre-diverse music scene (grown from an Italian-rooted core) and its organically-tangled, lived-in city layout both point to an identity built on felt experience and character rather than function or self-sufficient endurance.
+Zukelli's vision session landed on an overall reputation as "a place with a soul" — about as direct a Heart-center statement as a city can receive. Its huge, genre-diverse music scene *(corrected 2026-07-13: grown out of the city's own hospitality-centered founding-era civic instinct and its actual demographic breadth — China and USA lead the population, with Korea, Canada, Australia, Indonesia, and Japan all Significant-tier — not specifically an "Italian-rooted" scene; see `Zukelli_Mega_Init.md`)* and its organically-tangled, lived-in city layout both point to an identity built on felt experience and character rather than function or self-sufficient endurance.
 
 ## Hornevian Group: Compliant
 

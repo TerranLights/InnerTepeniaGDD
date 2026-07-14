@@ -17,7 +17,9 @@
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Canada, Mexico, Brazil |
-| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay, plus all 33 additional master-list nations added 2026-07-03: Italy, Spain, Russia, Poland, Czech Republic, Ukraine, Romania, Hungary, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia, China, Japan, South Korea, Indonesia, Thailand, Vietnam, Philippines, Malaysia, Australia, New Zealand, South Africa, Sweden, Belgium, Netherlands, Norway, Finland *(tier summary corrected 2026-07-13 — this table still listed only the original 10 pre-expansion nations; `Local_Cultures/Palmer_Subnet/Palmer_City.md` and `Upper_Earth_Immigration_Composition.md` already correctly reflect the full 43-nation roster established 2026-07-03, but this Specs table — the primary source-of-truth file — was never actually updated to match)*.
+
+*Palmer City is the only Tepenian city with all 43 master-list nations present — see `Upper_Earth_Immigration_Composition.md`'s Palmer City section and `Local_Cultures/Palmer_Subnet/Palmer_City.md` Section 1 for the full account of the 2026-07-03 expansion.*
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 
@@ -25,20 +27,55 @@
 
 *(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
+**Reconstructed 2026-07-13** — this table previously showed only the original 10 pre-expansion nations, whose combined total (332,806) already equaled the *current*, post-expansion Census I total by itself, implying 0% collective share for every nation added in the 2026-07-03 expansion. Rebuilt below using each nation's relative weight immediately after the 2026-07-03 expansion (original 10 nations' own known absolute figures, plus the 33 added nations' raw Census I/II figures from `Upper_Earth_Immigration_Composition.md`), then rescaled proportionally to the current, final totals (332,808 / 332,170). This assumes the later cap-correction trim (30% of the over-cap total relocated to Byrd/Concordia) was applied uniformly across all 43 nations rather than targeting specific ones — consistent with this project's established convention that population moves preserve source composition rather than reshaping it (see `feedback_population_balancing_simplicity`) — since no per-nation breakdown of that specific trim exists anywhere in the corpus to check against. Verified: sums to 332,805/332,170 against targets of 332,808/332,170 (trivial rounding across 43 independently-rounded rows).
+
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 27.59% | 46,040 | 45,769 | 41,788 | 49,845 |
-| Significant | Brazil | 13.16% | 21,958 | 21,828 | 19,930 | 23,772 |
-| Significant | France | 12.97% | 21,642 | 21,514 | 19,643 | 23,430 |
-| Significant | Germany | 12.93% | 21,572 | 21,445 | 19,579 | 23,354 |
-| Significant | Mexico | 7.76% | 12,958 | 12,882 | 11,762 | 14,029 |
-| Significant | Canada | 7.72% | 12,888 | 12,812 | 11,698 | 13,954 |
-| Significant | UK | 7.53% | 12,572 | 12,498 | 11,411 | 13,611 |
-| Notable | Uruguay | 5.03% | 8,398 | 8,348 | 7,622 | 9,092 |
-| Notable | Argentina | 4.15% | 6,922 | 6,881 | 6,282 | 7,494 |
-| Notable | Chile | 1.17% | 1,945 | 1,934 | 1,766 | 2,106 |
+| Primary | USA | 20.29% | 33,865 | 33,666 | 33,422 | 39,866 |
+| Significant | Brazil | 9.68% | 16,151 | 16,056 | 15,940 | 19,013 |
+| Significant | France | 9.54% | 15,919 | 15,825 | 15,710 | 18,739 |
+| Significant | Germany | 9.51% | 15,868 | 15,774 | 15,659 | 18,678 |
+| Significant | Mexico | 5.71% | 9,532 | 9,475 | 9,407 | 11,221 |
+| Significant | Canada | 5.68% | 9,480 | 9,424 | 9,356 | 11,160 |
+| Significant | UK | 5.54% | 9,248 | 9,193 | 9,126 | 10,886 |
+| Notable | Uruguay *(founding wave)* | 3.70% | 6,177 | 6,141 | 6,096 | 7,272 |
+| Notable | Argentina *(founding wave)* | 3.05% | 5,091 | 5,061 | 5,025 | 5,993 |
+| Notable | Estonia | 1.39% | 2,326 | 2,312 | 1,599 | 1,907 |
+| Notable | Czech Republic | 1.35% | 2,260 | 2,247 | 1,553 | 1,852 |
+| Notable | Australia | 1.33% | 2,221 | 2,207 | 1,526 | 1,820 |
+| Notable | Slovakia | 1.29% | 2,155 | 2,142 | 1,480 | 1,766 |
+| Notable | Thailand | 1.26% | 2,101 | 2,089 | 1,444 | 1,722 |
+| Notable | Russia | 1.20% | 2,009 | 1,997 | 1,381 | 1,647 |
+| Notable | Serbia | 1.16% | 1,943 | 1,931 | 1,335 | 1,593 |
+| Notable | Belgium | 1.14% | 1,903 | 1,892 | 1,308 | 1,560 |
+| Notable | South Korea | 1.09% | 1,824 | 1,813 | 1,254 | 1,495 |
+| Notable | Italy | 1.06% | 1,771 | 1,761 | 1,217 | 1,452 |
+| Notable | Norway | 1.01% | 1,679 | 1,669 | 1,154 | 1,376 |
+| Notable | Croatia | 0.97% | 1,613 | 1,603 | 1,108 | 1,322 |
+| Notable | South Africa | 0.96% | 1,599 | 1,590 | 1,099 | 1,311 |
+| Notable | China | 0.91% | 1,520 | 1,511 | 1,045 | 1,246 |
+| Notable | Slovenia | 0.86% | 1,441 | 1,432 | 990 | 1,181 |
+| Notable | Chile *(founding wave)* | 0.86% | 1,431 | 1,422 | 1,412 | 1,685 |
+| Notable | Romania | 0.86% | 1,428 | 1,419 | 981 | 1,170 |
+| Notable | Philippines | 0.82% | 1,361 | 1,353 | 936 | 1,116 |
+| Notable | Netherlands | 0.76% | 1,269 | 1,261 | 872 | 1,040 |
+| Notable | Japan | 0.73% | 1,216 | 1,209 | 836 | 997 |
+| Notable | Poland | 0.70% | 1,176 | 1,169 | 808 | 964 |
+| Notable | New Zealand | 0.67% | 1,124 | 1,117 | 772 | 921 |
+| Notable | Bulgaria | 0.62% | 1,031 | 1,025 | 708 | 845 |
+| Notable | Vietnam | 0.58% | 965 | 959 | 663 | 791 |
+| Notable | Spain | 0.53% | 886 | 880 | 608 | 726 |
+| Notable | Latvia | 0.48% | 806 | 802 | 554 | 661 |
+| Notable | Sweden | 0.46% | 767 | 762 | 527 | 628 |
+| Notable | Belarus | 0.44% | 727 | 723 | 500 | 596 |
+| Notable | Indonesia | 0.38% | 634 | 631 | 436 | 520 |
+| Notable | Ukraine | 0.35% | 582 | 578 | 400 | 477 |
+| Notable | Finland | 0.32% | 542 | 539 | 372 | 444 |
+| Notable | Lithuania | 0.28% | 463 | 460 | 318 | 379 |
+| Notable | Malaysia | 0.25% | 410 | 407 | 282 | 336 |
+| Notable | Hungary | 0.23% | 383 | 381 | 263 | 314 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation for the original 10; the 33 added nations via the master file's own random-percentage assignment — see `Upper_Earth_Immigration_Composition.md`), then rescaled proportionally to the post-cap-correction totals per the note above. Percentages are of this city's own population, not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology. **Assumption flagged for developer review:** the uniform-trim assumption above is the most likely mechanism given how the correction is described in `Official_Population_Census.md` (a flat "30% of total population relocated," not a per-nation redistribution), but it hasn't been independently confirmed — if a per-nation breakdown of that specific trim ever surfaces elsewhere, this table should be checked against it.
 
 ---
 

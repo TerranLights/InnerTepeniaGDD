@@ -17,8 +17,10 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | UK, Mexico, Brazil, Argentina |
+| Significant | UK, Mexico, Brazil, Argentina *(founding operator heritage)* |
 | Notable | Chile *(founding wave)*, Uruguay |
+
+*(Added 2026-07-13 — the "founding operator heritage" tag on Argentina was already present in `Local_Cultures/Palmer_Subnet/Esperanza.md`'s own composition table but missing here; brought into parity. Distinct from Chile's separate "(founding wave)" tag: Argentina is the actual station-operator nation per the Founding section below, while Chile's presence reflects independent geographic-proximity early arrival, the same distinction already established at Signy for South Africa.)*
 
 *Source: `Official_Population_Census.md` Sections I-III.*
 

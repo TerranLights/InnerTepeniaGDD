@@ -6,11 +6,13 @@
 
 ## Finding 1: the Crossing Quarter is the most thematically concentrated site in the city
 
-**Combining:** Vilnius's real precedent of multiple distinct traditions merging into one multicultural identity without erasure + Zhongshan's own established cross-cultural artisan tradition (craftspeople working at the interface of both founding material cultures) + the newly-proposed "Crossing Quarter" artisan neighborhood (Full Extrapolation, Section III).
+*(Corrected 2026-07-13: this finding originally traced back to "the interface of both founding material cultures" — a cross-cultural Chinese-Russian craft premise that no longer holds; Zhongshan's artisan tradition is singularly, continuously Chinese. Rebuilt below on the corrected premise.)*
 
-**2nd-order effect:** the artisan tradition isn't just a cultural curiosity sitting alongside the city's main identity — it's the living, ongoing physical expression of the exact same merging-without-erasure dynamic that shapes Zhongshan at every other scale, condensed into actual, touchable objects rather than diffuse cultural atmosphere.
+**Combining:** Vilnius's real precedent of a city whose identity coheres around one continuous tradition rather than fragmenting under later arrivals + Zhongshan's own established artisan class (Section 13), unbroken since founding + the newly-proposed "Crossing Quarter" artisan neighborhood (Full Extrapolation, Section III).
 
-**3rd-order effect:** this makes the Crossing Quarter arguably the single most thematically concentrated location in the entire city — a physical place where Zhongshan's central cultural fact is directly visible in a handful of workshops, more legible there than in language, architecture, or any other diffuse expression of the same underlying process.
+**2nd-order effect:** the artisan tradition isn't just a cultural curiosity sitting alongside the city's main identity — it's the living, ongoing physical expression of the same unbroken-continuity dynamic that shapes Zhongshan at every other scale, condensed into actual, touchable objects rather than diffuse cultural atmosphere.
+
+**3rd-order effect:** this makes the Crossing Quarter arguably the single most thematically concentrated location in the entire city — a physical place where Zhongshan's central cultural fact (an identity that was never diluted, only refined) is directly visible in a handful of workshops, more legible there than in language, architecture, or any other diffuse expression of the same underlying process.
 
 **4th-order effect:** this is a natural candidate site for any future material-culture institution, museum, or teaching function about what Zhongshan actually is — a place where a newcomer could see the city's whole cultural logic condensed and observable, rather than needing years of residency to absorb it the way the rest of the non-prying culture otherwise requires.
 
@@ -42,7 +44,7 @@
 
 ## Synthesis: The Pattern Across All Three Findings
 
-All three findings trace back to the same underlying observation: Zhongshan's established civic principles (merging without erasure, non-prying as respect, structural continuity under organic growth) aren't abstract descriptions floating above the city — they recur, concretely and checkably, at every scale the research touches: a neighborhood of craftspeople, an unnamed district, a physical chokepoint in the road network. The city's core identity isn't just stated once in its Post-Culture Identity section; it's structurally embedded everywhere else this pass looked.
+All three findings trace back to the same underlying observation: Zhongshan's established civic principles (unbroken cultural continuity, non-prying as respect, structural continuity under organic growth) aren't abstract descriptions floating above the city — they recur, concretely and checkably, at every scale the research touches: a neighborhood of craftspeople, an unnamed district, a physical chokepoint in the road network. The city's core identity isn't just stated once in its Post-Culture Identity section; it's structurally embedded everywhere else this pass looked.
 
 ---
 

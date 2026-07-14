@@ -49,9 +49,11 @@ Following the straightforward adjectival pattern already natural to the name its
 
 ---
 
-## VIII. The Soyuz Relationship, Resolved
+## VIII. The {{currently-unnamed Korean city}} Relationship, Resolved
 
-**Proposed:** pre-Split-Brain contact between Mirny's and Soyuz's Russian communities was real but modest — occasional and largely ceremonial, given the genuine physical distance separating them across the subnet before Soyuz's later administrative move into the Mirny subnet itself. What's changed since is more significant than nostalgia: Mirny's own subnet-hub relay infrastructure now plausibly routes Soyuz's communications directly, alongside Zhongshan's, Casey's, Davis's, Vostok's, and Kunlun's — giving the two Russian communities a genuinely new kind of connection, administrative and technical rather than purely cultural-historical, that didn't exist in this form before the subnet reorganization.
+*(Corrected 2026-07-13: this section originally described "Mirny's and Soyuz's Russian communities" and "the two Russian communities" — wrong on both counts as a defining relationship. {{currently-unnamed Korean city}} (the "Soyuz" placeholder) is singularly Korean-founded via the Jeju-do court; Russia was never more than the physical Progress Station's operator there, and its population today sits at ordinary Significant tier (6.85%), the same non-founding status Russia holds at Mirny itself (Significant, founding-operator heritage, diluted behind China's Primary). Rebuilt below on the corrected premise: a minority-to-minority connection between two cities' own Russian-descended populations, not a relationship between "the two Russian cities.")*
+
+**Proposed:** pre-Split-Brain contact between Mirny's own Russian-descended minority (its genuine founding-operator heritage, though long since diluted to Significant tier behind China's Primary) and {{currently-unnamed Korean city}}'s own separate, ordinary-immigration Russian minority was real but modest — occasional and largely ceremonial, given the genuine physical distance separating them across the subnet before {{currently-unnamed Korean city}}'s later administrative move into the Mirny subnet itself, and given that neither city's Russian population was ever its defining demographic. What's changed since is more significant than nostalgia: Mirny's own subnet-hub relay infrastructure now plausibly routes {{currently-unnamed Korean city}}'s communications directly, alongside Zhongshan's, Casey's, Davis's, Vostok's, and Kunlun's — giving the two cities' Russian-descended communities a genuinely new kind of connection, administrative and technical rather than purely cultural-historical, that didn't exist in this form before the subnet reorganization.
 
 ---
 

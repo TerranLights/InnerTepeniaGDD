@@ -18,7 +18,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan *(founding operator heritage)*, Germany, France, UK, South Korea, Indonesia, Australia |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections I-III.*

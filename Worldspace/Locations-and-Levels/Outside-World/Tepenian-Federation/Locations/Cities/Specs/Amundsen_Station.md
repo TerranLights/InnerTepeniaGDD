@@ -182,7 +182,7 @@ The station is also the clearest example of what Tepenia lost when the war reach
 - **Is the Split Brain reversible?** — can the archive alone reconcile the subnets, or would physical infrastructure need to be rebuilt? (central Planetary Split Brain questline question)
 - **Kendra Heinrich's full story** — how did she come to be at the South Pole, why is she still there, what has she been doing, and what does she know? (DLC 1 content)
 - **The pre-Split-Brain archive** — what exactly does it contain, and what does accessing it enable? (Planetary Split Brain questline)
-- **Highway connections to Amundsen Station** — Hwy 59 confirmed from the north (Atlantic coast); other subnet highway connections to the South Pole are not yet established
+- **Highway connections to Amundsen Station** — *(resolved 2026-07-06, see Highway access field above; this line was never swept afterward)* a confirmed three-highway node: Hwy 22 (Transcontinental Highway) passes directly through, Hwy 175 (Central Cut Throughway) terminates here toward the Janbogo subnet, and Hwy 59 (Atlantic Throughway/Arcanet Line) also terminates here. See `Locations/Infrastructure/Highways.md`.
 - **The Amundsen Tower** — what was it used for beyond Arcanet relay? (space elevator implies cargo or passenger capability; who used it and for what?)
 - **The Geographic South Pole marker** — what form did Tepenia give it, and does it survive?
 - **St. Roald's civic observance** — is there a Tepenian Independence Day tradition at Amundsen Station, analogous to Hut Point in Scott? If so, who maintains it, given the station is destroyed and Kendra is the only known current occupant?

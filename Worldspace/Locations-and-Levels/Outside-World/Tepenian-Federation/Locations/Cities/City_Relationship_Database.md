@@ -23,7 +23,7 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 | **7** | Belgrano Highway | "Atlantic Highway" | Belgrano → Halley → Abowasa → *(ramp to Neumayer, between Abowasa and Sanay)* → Sanay → Troll → Lazar | Confirmed 2026-07-06, unchanged — does NOT pass through Neumayer directly; Neumayer's connector ramp sits between Abowasa and Sanay. |
 | **7-ext** | Belgrano Highway Extension | — | Lazar → Princess Elisabeth → The Sayowa Junction | **Corrected 2026-07-06:** added the junction with Hwy 37 shortly before reaching Sayowa. **Further corrected 2026-07-06, same day:** the eastern terminus is the Sayowa Junction itself (where Hwy 4, Hwy 7-ext, and Hwy 37 genuinely converge), not Sayowa the city — the Sayowa Spur links the city to this junction. Built **2611–2614**; only highway with confirmed in-world construction dates. |
 | **22** | Transcontinental Highway | — | Byrd *(Amundsen Sea end)* → South Pole (Amundsen Station) → *(junction with Hwy 175)* → *(dual-junction with Hwy 37, bidirectional)* → *(junction with Hwy 59)* → Zhongshan/Soyuz/Shirayuki tri-junction | **Corrected 2026-07-06:** added a dual-junction with Hwy 37 along the interior stretch; confirmed the eastern end is a genuine tri-junction connecting directly to both Hwy 4's and Hwy 110's endpoints. Byrd end connects directly to Hwy 1's endpoint. Cross-continent spine, West Antarctica to East Antarctic coast; still does not pass through Sayowa or Mawson directly. |
-| **37** | Mountain Cut Throughway | — | The Sayowa Junction → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → **Mountain Pass Airport** → Vostok → Concordia | **Corrected 2026-07-06 — this route was badly incomplete and out of order.** Dome Fuji is now a confirmed stop *(its own file's "no highway access" claim is stale — flagged for a fix)*. Kunlun and Vostok's order is reversed from the old listing. **Further corrected 2026-07-06, same day:** the northeastern terminus is the Sayowa Junction, not Sayowa the city — see Hwy 4/Hwy 7-ext notes above. **Also added, same day: Mountain Pass Airport**, a waypoint (not a city) between Kunlun and Vostok, confirmed via the developer's own airport-map reference as a genuine functional Tepenian airstrip — reasonably accessible to Kunlun, Dome Fuji, Amundsen Station (via the nearby Hwy 22 dual-junction), and Concordia to an extent. **Confirmed 2026-07-07: a joint Vostok-Kunlun venture that manufactured fabrication-synthesis chambers**, part of the nationwide Cradle infrastructure, shipped out via this same highway/airport network. **Historical, not current** — the outpost ran on residual overflow from Amundsen Tower's continent-wide regulated grid; the Tower's destruction ended that supply and the outpost's manufacturing capability permanently, though the facility is still standing, simply dark rather than destroyed. Concordia end connects directly to both Hwy 110's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. East Antarctic plateau traverse — not through the Transantarctic Mountains. |
+| **37** | Mountain Cut Throughway | — | The Sayowa Junction → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → **Mountain Pass Airport** → Vostok → Concordia | **Corrected 2026-07-06 — this route was badly incomplete and out of order.** Dome Fuji is now a confirmed stop *(its own file's stale "no highway access" claim was fixed the same session — see `Specs/Dome_Fuji.md`)*. Kunlun and Vostok's order is reversed from the old listing. **Further corrected 2026-07-06, same day:** the northeastern terminus is the Sayowa Junction, not Sayowa the city — see Hwy 4/Hwy 7-ext notes above. **Also added, same day: Mountain Pass Airport**, a waypoint (not a city) between Kunlun and Vostok, confirmed via the developer's own airport-map reference as a genuine functional Tepenian airstrip — reasonably accessible to Kunlun, Dome Fuji, Amundsen Station (via the nearby Hwy 22 dual-junction), and Concordia to an extent. **Confirmed 2026-07-07: a joint Vostok-Kunlun venture that manufactured fabrication-synthesis chambers**, part of the nationwide Cradle infrastructure, shipped out via this same highway/airport network. **Historical, not current** — the outpost ran on residual overflow from Amundsen Tower's continent-wide regulated grid; the Tower's destruction ended that supply and the outpost's manufacturing capability permanently, though the facility is still standing, simply dark rather than destroyed. Concordia end connects directly to both Hwy 110's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. East Antarctic plateau traverse — not through the Transantarctic Mountains. |
 | **59** | Atlantic Throughway | "Arcanet Line" | *(ramp with Hwy 7, between Halley and Abowasa)* → *(ramp with Hwy 22, farther from the South Pole than Hwy 175's ramp)* | **Corrected 2026-07-06:** Hwy 7 ramp specifically sits between Halley and Abowasa, not just "at Halley"; confirmed its Hwy 22 ramp is farther from the South Pole than Hwy 175's own ramp with Hwy 22. Connector highway, not a city-to-city road; also carries the Arcanet cable along its full length. |
 | **110** | Coastal Cut Highway | — | Zhongshan → Davis → Mirny → Casey → Concordia | **Corrected 2026-07-06:** this is a genuine full route to Concordia as a real terminus, not an "inland spur from Casey" as previously described. Zhongshan end sits at a tri-junction with Hwy 4's and Hwy 22's endpoints; Concordia end connects directly to Hwy 37's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. Main East Antarctic coastal route. |
 | **175** | Central Cut Throughway | — | *(ramp with Hwy 183, near Janbogo)* → *(ramp with Hwy 22, closer to the South Pole than Hwy 59's ramp)* | **Corrected 2026-07-06:** the Hwy 183 ramp is located near Janbogo, not near Concordia — Hwy 183 still junctions with Hwy 175, just much farther from Concordia than previously listed. Connects the Janbogo subnet region to the South Pole; its own Hwy 22 ramp sits closer to the Pole than Hwy 59's does. |
@@ -80,8 +80,8 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** South Pole — interior
 - **Status:** Destroyed (Long Night War) — now a scrap mountain; most significant ruins in Tepenia
 - **Arcanet subnet:** Inter-subnet relay — neutral ground; not a member of any subnet ✓
-- **Highways:** Hwy 175 (one endpoint here); Hwy 22 may also pass through — confirm against map
-- **Direct highway neighbors:** Hwy 175 south toward Hwy 183 junction / Ross Sea region
+- **Highways:** *(corrected 2026-07-14 — this entry previously hedged "Hwy 22 may also pass through — confirm against map" and omitted Hwy 59 entirely, despite both already being confirmed elsewhere in this same file's own highway table above and in `Specs/Amundsen_Station.md`)* a genuine three-highway node — Hwy 22 (Transcontinental Highway) passes directly through; Hwy 175 (Central Cut Throughway) terminates here; Hwy 59 (Atlantic Throughway/Arcanet Line) also terminates here, at a ramp farther from the Pole than Hwy 175's own ramp with Hwy 22
+- **Direct highway neighbors:** Hwy 22 (Byrd, west / Zhongshan tri-junction, east), Hwy 175 (south toward the Hwy 183 junction / Ross Sea region), Hwy 59 (north toward Halley)
 - **Notes:** Site of the Amundsen Tower (space elevator); destroyed by Upper Earth militaries; scrap confined to South Pole vicinity; last synchronized Arcanet archive is here; named after Roald Amundsen. **Proposed 2026-07-09** (Byrd's cross-reference pass): Hwy 22 passes directly through this site on Byrd's own eastern freight route to the rest of Tepenia — since that route is established as currently functioning, a maintained bypass through or around the debris field is proposed to exist and stay open, a fragile piece of infrastructure the whole eastern half of the country's supply chain depends on — see Byrd's entry above.
 
 ---
@@ -97,14 +97,14 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
-### Shirayuki — Name TBD
+### Shirayuki
 - **Real station:** Bharati Station (India) — infrastructure only; India's second Antarctic station, never occupied by an Indian exile population per established canon
 - **Region:** Indian Ocean coast
 - **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — resolved consistently alongside Soyuz and Zhongshan as the three Larsemann Hills cluster cities; see `Specs/Shirayuki.md`)*
 - **Arcanet subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson; real-world geography places the Larsemann Hills cluster far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`. Highway network unaffected — Hwy 4 remains a physical road independent of Arcanet subnet boundaries.)*
-- **Highways:** Hwy 4 — midpoint
-- **Direct highway neighbors:** Mawson (west), Soyuz (east)
-- **Notes:** Founding population resolved 2026-07-03 as Japanese, via a pre-exile diplomatic allocation by the International Court of Diplomacy at Jeju-do (an Upper Earth institution) — a deliberate balancing decision given Korea's existing footholds (Janbogo, Sejong) and China's ubiquitous presence, including immediately adjacent at Zhongshan. Between Mawson and Soyuz on the Hwy 4 coastal link. City's final Japanese name still TBD — working title "Shirayuki." **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle), as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership).
+- **Highways:** Hwy 4 — eastern terminus *(corrected 2026-07-14 — this entry previously said "midpoint" with {{currently-unnamed Korean city, cf. Soyuz}} to its east, contradicting the authoritative route in `Locations/Infrastructure/Highways.md` and `City_Relationship_Database.md`'s own top-of-file highway table, both of which place Shirayuki as Hwy 4's actual eastern endpoint, with {{currently-unnamed Korean city, cf. Soyuz}} as the midpoint between Mawson and Shirayuki. This entry was apparently never updated during the 2026-07-06 Sayowa Junction correction, which the session's own notes list as having fixed only "Fort McMurdo's, Vostok's, and two summary notes" — not this entry.)*
+- **Direct highway neighbors:** {{currently-unnamed Korean city, cf. Soyuz}} (west, Hwy 4)
+- **Notes:** Founding population resolved 2026-07-03 as Japanese, via a pre-exile diplomatic allocation by the International Court of Diplomacy at Jeju-do (an Upper Earth institution) — a deliberate balancing decision given Korea's existing footholds (Janbogo, Sejong) and China's ubiquitous presence, including immediately adjacent at Zhongshan. Named Shirayuki 2026-07-08. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle), as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership).
 
 ---
 
@@ -143,9 +143,9 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Region:** Dumont d'Urville Sea coast
 - **Status:** Destroyed (Long Night War)
 - **Arcanet subnet:** Janbogo ✓
-- **Highways:** Hwy 2 (DCH) — eastern terminus
-- **Direct highway neighbors:** Dumont d'Urville (west)
-- **Notes:** Founded on Mawson's 1912 expedition base (Cape Denison); eastern end of Dumont Coast Highway; destroyed Long Night War; Census I population: 522,975 humans / 543,168 robots / 1,066,143 combined *(corrected 2026-07-05 to match `Official_Population_Census.md`'s main City Populations table — this line had cited that same file's slightly different Section IV historical-note figures instead; that discrepancy between Section IV and the main table is itself still open, see `TODO.md`)*. **Dumont d'Urville Sea coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Highways:** Hwy 183 (Janbogo Highway) *(corrected 2026-07-13 — this entry still said "Hwy 2 (DCH) — eastern terminus," the pre-2026-07-06 assignment; the highway-network table above this per-city section (Hwy 2 and Hwy 183 rows) already had the correction, it just never propagated down to this entry)*
+- **Direct highway neighbors:** Dumont d'Urville (north, via Hwy 183)
+- **Notes:** Founded on Mawson's 1912 expedition base (Cape Denison); on Hwy 183 between the Cape Adare connecting road and Dumont d'Urville *(corrected 2026-07-13, matching the 2026-07-06 highway correction — previously said "eastern end of Dumont Coast Highway")*; destroyed Long Night War; Census I population: 522,975 humans / 543,168 robots / 1,066,143 combined *(corrected 2026-07-05 to match `Official_Population_Census.md`'s main City Populations table — this line had cited that same file's slightly different Section IV historical-note figures instead; that discrepancy between Section IV and the main table is itself still open, see `TODO.md`)*. **Dumont d'Urville Sea coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -189,8 +189,8 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Altitude:** ~3,810m
 - **Status:** Survived — too high altitude for viable large settlement
 - **Arcanet subnet:** Mawson
-- **Highways:** None — road-isolated ✓
-- **Notes:** Japanese inland station; no highway connection confirmed; altitude too extreme for population growth; in Mawson subnet — connected via Arcanet cable, not road; access likely by Rastra or air
+- **Highways:** Hwy 37 ✓ *(corrected 2026-07-13 — Dome Fuji is a confirmed stop on Hwy 37 per `Locations/Infrastructure/Highways.md` and `Specs/Dome_Fuji.md`, both fixed 2026-07-06; this entry was never updated to match)*
+- **Notes:** Japanese inland station; altitude too extreme for population growth; in Mawson subnet — connected via Arcanet cable, not road, but a real physical highway link exists via Hwy 37 (between the Sayowa Junction and Kunlun); an interior plateau highway crossing this distance doesn't make overland resupply practical, so the established aviation lifeline remains the real explanation for how Dome Fuji stayed supplied
 
 ---
 
@@ -199,8 +199,8 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Region:** Dumont d'Urville Sea coast
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
-- **Highways:** Hwy 2 (DCH) — midpoint
-- **Direct highway neighbors:** Casey (west), Cape Denison (east)
+- **Highways:** Hwy 2 (DCH) — eastern terminus; also the northern endpoint of Hwy 183, which connects directly to Hwy 2's own endpoint here *(corrected 2026-07-13 — previously listed only Hwy 2, with Denison attributed to that same highway; Denison was moved to Hwy 183 in the 2026-07-06 correction, making this city a genuine two-highway junction)*
+- **Direct highway neighbors:** Casey (west, via Hwy 2), Cape Denison (south, via Hwy 183)
 - **Notes:** Dumont d'Urville Sea named after this location/explorer; French station; major refugee source for Concordia (Dumont d'Urville Sea coast = primary refugee geography). **Primary Dumont d'Urville Sea port for Australian freighter shipments** (raw materials, staged via Hobart) — mirrors the real French IPEV logistics chain, which runs *L'Astrolabe* out of Hobart despite France being the founding/operating nation; see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
@@ -221,9 +221,9 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Region:** Ross Sea — Ross Island
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
-- **Highways:** Hwy 183 *(corrected 2026-07-03 — the "Hwy 1 eastern terminus" claim was wrong; Hwy 1's confirmed termini are Marambio and Byrd, both on the Antarctic Peninsula/West Antarctic side — it never reaches the Ross Sea side at all)*
-- **Direct highway neighbors:** Scott (adjacent, Hwy 183), Janbogo (north, Hwy 183) — no highway connection to Byrd or West Antarctica; Byrd's only overland connection to the Ross Sea side runs the opposite way, via Hwy 22 → Hwy 175 → Hwy 183
-- **Notes:** Largest Antarctic station in real life → largest pre-war Tepenian city; "Fort" = mining/resource-processing hub + deliberate reference to Fort MacMurray (Alberta, Canada); two-highway junction = major logistics hub; Scott directly adjacent; **does NOT connect to Hwy 37** — that route runs the Sayowa Junction → Dome Fuji → Kunlun → Vostok → Concordia on the East Antarctic plateau *(route corrected 2026-07-06 — see `Locations/Infrastructure/Highways.md`)*. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Highways:** Hwy 183, via spur/connecting road, not a main-line stop *(corrected 2026-07-03 — the "Hwy 1 eastern terminus" claim was wrong; Hwy 1's confirmed termini are Marambio and Byrd, both on the Antarctic Peninsula/West Antarctic side — it never reaches the Ross Sea side at all)*
+- **Direct highway neighbors:** Scott (adjacent, shared spur access), Janbogo (north, via Hwy 183) — no highway connection to Byrd or West Antarctica; Byrd's only overland connection to the Ross Sea side runs the opposite way, via Hwy 22 → Hwy 175 → Hwy 183
+- **Notes:** Largest Antarctic station in real life → largest pre-war Tepenian city; "Fort" = mining/resource-processing hub + deliberate reference to Fort MacMurray (Alberta, Canada); reached via a spur road across McMurdo Sound, not a direct Hwy 183 main-line stop — same spur-access pattern as Scott (see `Locations/Infrastructure/Highways.md`) *(corrected 2026-07-13 — this line's own leftover "two-highway junction" phrasing predated the 2026-07-03 Hwy 1 correction just above it and was never cleaned up)*; Scott directly adjacent; **does NOT connect to Hwy 37** — that route runs the Sayowa Junction → Dome Fuji → Kunlun → Vostok → Concordia on the East Antarctic plateau *(route corrected 2026-07-06)*. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -236,10 +236,10 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Real station:** Halley Stations I–VI (UK) ✓
 - **Region:** Weddell Sea coast — Brunt Ice Shelf (Atlantic)
 - **Status:** Damaged; partially operational
-- **Arcanet subnet:** Halley ("Atlantic") — **hub city**
+- **Arcanet subnet:** Halley ("Atlantic") — subnet namesake, **not** the technical relay nexus *(corrected 2026-07-13 — this entry previously called Halley the "hub city," stale since the 2026-07-04 resolution that placed the subnet's actual Arcanet relay nexus at Sanay's stable bedrock instead, precisely because Halley's own floating ice shelf is too unstable for permanent critical infrastructure; see `Specs/Halley.md` and `Specs/Sanay.md`)*
 - **Highways:** Hwy 7 (hub/midpoint), Hwy 59 (originates here — junction with Hwy 7) ✓
 - **Direct highway neighbors:** Belgrano (west, Hwy 7), Abowasa (east, Hwy 7)
-- **Notes:** Built on a **floating ice shelf** — the city literally moved over time; unique structural character no other Tepenian city shares; Hwy 59 (Arcanet cable line) originates at Halley and runs inland to Hwy 22's northern bend. **Hub port for South African summer freighter shipments** (raw materials from Africa) — as the subnet hub with the most developed port infrastructure, Halley is likely the primary receiving point for the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Built on a **floating ice shelf** — the city literally moved over time; unique structural character no other Tepenian city shares; Hwy 59 (Arcanet cable line) originates at Halley and runs inland to Hwy 22's northern bend. *(Corrected 2026-07-13 — this line previously called Halley "hub port for South African summer freighter shipments" with "the most developed port infrastructure," directly contradicting established canon: Halley deliberately has no docks or airstrip of its own, precisely because the ice shelf's own motion would carry away any fixed maritime infrastructure. Belgrano and Sanay are the subnet's actual receiving ports; goods reach Halley overland via the Hwy 7 connector, whichever passage is open.)* See `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -272,8 +272,8 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Status:** Survived — too high altitude for viable large settlement
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 37 ✓
-- **Direct highway neighbors:** Vostok (one direction, Hwy 37), Concordia (other direction, Hwy 37)
-- **Notes:** Highest station in Antarctica; Sinian Federation origin; altitude too extreme for population growth; in Mirny subnet despite Sinian Federation ownership — subnets were organized geographically, not nationally; on Hwy 37 between Vostok and Concordia
+- **Direct highway neighbors:** Dome Fuji (one direction, Hwy 37), Vostok (other direction, Hwy 37, via the Mountain Pass Airport waypoint) *(corrected 2026-07-13 — previously listed Vostok and Concordia; the same stale route order already fixed on `Highways.md`, `Specs/Vostok.md`, and this file's own Vostok entry back on 2026-07-06, but missed here)*
+- **Notes:** Highest station in Antarctica; Sinian Federation origin; altitude too extreme for population growth; in Mirny subnet despite Sinian Federation ownership — subnets were organized geographically, not nationally; on Hwy 37 between Dome Fuji and Vostok
 
 ---
 
@@ -296,11 +296,11 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 ### Marambio
 - **Real station:** Marambio Base (Argentina) ✓
 - **Region:** Antarctic Peninsula — northern tip (Seymour Island)
-- **Status:** Destroyed *(corrected 2026-07-03 from "Damaged" — Seymour Island is small and flat, built around one single concentrated strategic asset (the airfield), a single-point-of-failure target unlike Rothera's large, decentralizable Adelaide Island; see `Specs/Marambio.md`)*
+- **Status:** Destroyed *(corrected 2026-07-03 from "Damaged" — Seymour Island is small and flat, built around one single concentrated strategic asset (the airfield), a single-point-of-failure target unlike Rothera's large, decentralizable Adelaide Island; see `Specs/Marambio.md`. **Updated 2026-07-13** — this predates the 2026-07-04 Vision Notes session establishing Marambio's equally-central shipyard/port identity alongside the airfield; the destruction eliminated both assets at once, not the airfield alone.)*
 - **Arcanet subnet:** Palmer ("American")
-- **Highways:** Hwy 1 — **northern terminus / origin** *(confirmed 2026-07-03 — previously TBD, pending confirmation Marambio sat on an island; Seymour Island is real-world confirmed, separated from the mainland Peninsula by a tight island chain — Snow Hill Island (across the ~1-mile-wide Picnic Passage) and James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland. A causeway/bridge chain across these narrow gaps connects Marambio to Hwy 1 proper.)*
-- **Direct highway neighbors:** Sejong, Juan Carlos (nearby, no highway — island-isolated); Esperanza (south via Hwy 1, across the causeway/bridge chain — added as a waypoint 2026-07-03)
-- **Notes:** Has a runway in real life — likely a logistics/air transport hub in-game; Argentine station
+- **Highways:** Hwy 1 — waypoint, not terminus *(corrected 2026-07-13 — this entry still said "northern terminus / origin," stale since 2026-07-06 when `Specs/Marambio.md` established Esperanza as Hwy 1's true northern terminus, with Marambio as a waypoint reached via the causeway/bridge chain described below)*
+- **Direct highway neighbors:** Sejong, Juan Carlos (nearby, no highway — island-isolated); Esperanza (north via Hwy 1, across the causeway/bridge chain — Esperanza is the true northern terminus)
+- **Notes:** Argentine Air Force station in real life; in-game a dual-mode logistics hub — one of only eight confirmed functional Tepenian airports, alongside an equally-important shipyard/port receiving from South America and shipping onward across the Weddell Sea *(corrected 2026-07-13 — previously described only the aviation role, predating the 2026-07-04 Vision Notes session that established the shipyard as equally central)*
 
 ---
 
@@ -321,7 +321,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Mawson — **hub city**
 - **Highways:** Hwy 4 (Mawson-Soyuz)
-- **Direct highway neighbors:** Shirayuki (east, Hwy 4)
+- **Direct highway neighbors:** the Sayowa Junction (west, via the Sayowa Spur), {{currently-unnamed Korean city, cf. Soyuz}} (east, Hwy 4) *(corrected 2026-07-14 — this entry previously listed Shirayuki as the direct eastern neighbor, contradicting the authoritative route in `Locations/Infrastructure/Highways.md`, which places {{currently-unnamed Korean city, cf. Soyuz}} immediately east of Mawson and Shirayuki as Hwy 4's actual eastern endpoint beyond it. Never updated during the 2026-07-06 Sayowa Junction correction — see Shirayuki's and {{currently-unnamed Korean city}}'s own entries for the same gap.)*
 - **Notes:** Hub of the Mawson Arcanet subnet; Australian station; **Hwy 22 does not pass through Mawson** — Hwy 22 runs Byrd→Zhongshan coast, not through Mawson. **Hub port for Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) — as the subnet hub, likely the primary receiving point for the Mawson subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
@@ -344,7 +344,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Unnamed connector road to nearest safe point on Hwy 7 (between Abowasa and Sanay) ✓
 - **Direct highway neighbors:** None via Hwy 7 directly — connected only via connector road
-- **Notes:** **NOT on Hwy 7** — Hwy 7 passes directly from Abowasa to Sanay; Neumayer is served by a small unnamed connector road branching off at the nearest geographically safe point; connector road organization TBD; this makes Neumayer slightly less accessible than other Hwy 7 cities. **Coastal port receiving South African summer freighter shipments** (raw materials from Africa) as part of the seasonal Halley subnet supply window — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** **NOT on Hwy 7** — Hwy 7 passes directly from Abowasa to Sanay; Neumayer is served by a small unnamed connector road branching off at the nearest geographically safe point; connector road organization TBD; this makes Neumayer slightly less accessible than other Hwy 7 cities. **Not a coastal receiving port** *(corrected 2026-07-14 — this line previously claimed Neumayer received South African summer freighter shipments; that was the same stale claim corrected out of `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md` during Halley's own bug-check pass on 2026-07-13, but this entry itself was missed at the time)*. Neumayer was never established as a receiving port; the Halley subnet's two actual coastal receiving ports for the seasonal South African freighter influx are Belgrano and Sanay — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -366,7 +366,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — passes through
 - **Direct highway neighbors:** Palmer City (north), Rothera (south)
-- **Notes:** Founded on UK historical expedition base; on Hwy 1 between Palmer City and Rothera; destroyed Long Night War
+- **Notes:** Founded on UK historical expedition base; on Hwy 1 between Palmer City and Rothera; damaged, not destroyed, in the Long Night War *(corrected 2026-07-13 — this field still said "destroyed," directly contradicting the Status line above, corrected to "Damaged; partially operational" back on 2026-07-03 but never propagated to this Notes field in the same entry)*
 
 ---
 
@@ -396,10 +396,10 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Real station:** Sanae IV Station (South Africa)
 - **Region:** Queen Maud Land / King Haakon VII Sea
 - **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — resolved as a middle ground; see `Specs/Sanay.md`)*
-- **Arcanet subnet:** Halley ("Atlantic")
+- **Arcanet subnet:** Halley ("Atlantic") — hosts the subnet's actual technical relay nexus *(added 2026-07-13 — this entry never carried the 2026-07-04 resolution: the nexus sits at Sanay's stable Vesleskarvet bedrock, built there by Halley's own residents' hands-on labor, while Halley keeps only the subnet's naming credit; see `Specs/Sanay.md` and `Specs/Halley.md`)*
 - **Highways:** Hwy 7
 - **Direct highway neighbors:** Abowasa (west, Hwy 7), Troll (east, Hwy 7)
-- **Notes:** South African station; Queen Maud Land; Neumayer is nearby but on a connector road, not a direct Hwy 7 neighbor
+- **Notes:** South African station; Queen Maud Land; Neumayer is nearby but on a connector road, not a direct Hwy 7 neighbor. One of the two Halley subnet coastal receiving ports (alongside Belgrano) for South African freighter shipments.
 
 ---
 
@@ -408,9 +408,9 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Region:** Ross Sea — Ross Island (adjacent to McMurdo)
 - **Status:** Damaged; partially operational
 - **Arcanet subnet:** Janbogo
-- **Highways:** Hwy 183, Hwy 1 (eastern terminus)
-- **Direct highway neighbors:** Fort McMurdo (adjacent), Janbogo (north, Hwy 183)
-- **Notes:** Directly adjacent to Fort McMurdo on Ross Island; New Zealand station; junction of Hwy 1 and Hwy 183. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — fittingly, given Scott's own real-world founding nation is New Zealand — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Highways:** Hwy 183, via spur/connecting road, not a main-line stop *(corrected 2026-07-13 — this entry still claimed "Hwy 1, eastern terminus," the exact same false claim already corrected in Fort McMurdo's own entry above on 2026-07-03; Hwy 1's confirmed termini are Marambio and Byrd, both on the Antarctic Peninsula/West Antarctic side — it never reaches the Ross Sea side at all)*
+- **Direct highway neighbors:** Fort McMurdo (adjacent, shared spur access), Janbogo (north, via Hwy 183)
+- **Notes:** Directly adjacent to Fort McMurdo on Ross Island; New Zealand station; reached via the same spur road as Fort McMurdo, not a Hwy 1 junction. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — fittingly, given Scott's own real-world founding nation is New Zealand — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -421,7 +421,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** None — corrected 2026-07-03, same issue as Juan Carlos. Real-world verification confirmed King George Island sits 160-177km from the mainland Peninsula and from Marambio's causeway landing — far too wide for any bridge, same order of magnitude as Juan Carlos's isolation. `Specs/Sejong.md` already correctly said "TBD — maritime and aviation connections primary."
 - **Direct highway neighbors:** None (no highway access) — Esperanza, Marambio, and Juan Carlos remain nearby Peninsula-cluster neighbors culturally and by shipping/aviation route, just not by road
-- **Notes:** Unified Korea's Antarctic presence alongside Janbogo; named after King Sejong the Great (Hangul alphabet creator); King George Island = slightly off the peninsula proper
+- **Notes:** Named after King Sejong the Great (Hangul alphabet creator) — founded by South Korean exiles, but Sejong's own Korean population has since diluted to just 5.79%, its smallest Significant-tier nation, behind the USA's sole 21.65% Primary; a founding-era naming heritage shared with Janbogo, not a living Korean demographic tie (Tepenia's two genuine living Korean centers are Janbogo and {{currently-unnamed Korean city}}, Mirny subnet, 34.62% Primary) *(corrected 2026-07-13 — previously "Unified Korea's Antarctic presence alongside Janbogo," overstating present-day relevance and omitting {{currently-unnamed Korean city}}; see `Specs/Sejong.md`)*; King George Island = slightly off the peninsula proper
 
 ---
 
@@ -440,9 +440,9 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Region:** Indian Ocean coast
 - **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Soyuz and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart; differing survival outcomes made no physical sense; resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (now Shirayuki); see `Specs/Soyuz.md`)*
 - **Arcanet subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Zhongshan and Shirayuki in the Larsemann Hills cluster; real-world geography places it far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`. Highway network unaffected — Hwy 4 remains a physical road independent of Arcanet subnet boundaries.)*
-- **Highways:** Hwy 4 — eastern terminus
-- **Direct highway neighbors:** Shirayuki (west, Hwy 4)
-- **Notes:** Eastern terminus of Hwy 4; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership). **Proposed 2026-07-09** (Byrd's cross-reference pass): the other currently-active Cradle chamber manufacturing site alongside Byrd, both building to Neumayer's schematic — see Byrd's entry above.
+- **Highways:** Hwy 4 — midpoint *(corrected 2026-07-14 — this entry previously said "eastern terminus" with Shirayuki to its west, contradicting the authoritative route in `Locations/Infrastructure/Highways.md`, which places this city ({{currently-unnamed Korean city}}) as the midpoint between Mawson and Shirayuki, with Shirayuki as the actual eastern endpoint. Never updated during the 2026-07-06 Sayowa Junction correction — see Shirayuki's own entry above for the same gap.)*
+- **Direct highway neighbors:** Mawson (west, Hwy 4), Shirayuki (east, Hwy 4)
+- **Notes:** Between Mawson and Shirayuki on the Hwy 4 coastal link; Russian station. **Coastal port that received Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) pre-destruction, as part of the Hwy 4 coastal supply line (a physical logistics route, independent of the city's Mirny Arcanet subnet membership). **Proposed 2026-07-09** (Byrd's cross-reference pass): the other currently-active Cradle chamber manufacturing site alongside Byrd, both building to Neumayer's schematic — see Byrd's entry above.
 
 ---
 
@@ -476,7 +476,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 37 ✓
 - **Direct highway neighbors:** Kunlun (one direction, Hwy 37), Concordia (other direction, Hwy 37) *(corrected 2026-07-06 — Sayowa itself is not directly on Hwy 37; the highway's northeastern terminus is the Sayowa Junction, near but not in Sayowa, reached via Dome Fuji first from that end)*
-- **Notes:** Russian inland station; sits above subglacial Lake Vostok — one of the largest lakes on Earth, buried under the ice; on Hwy 37 between Sayowa and Kunlun; **NOT on Hwy 59**
+- **Notes:** Russian inland station; sits above subglacial Lake Vostok — one of the largest lakes on Earth, buried under the ice; on Hwy 37 between Kunlun and Concordia *(corrected 2026-07-13 — this previously said "between Sayowa and Kunlun," an even older, doubly-stale fragment that both omitted Dome Fuji and directly contradicted the correct neighbor line immediately above it)*; **NOT on Hwy 59**
 
 ---
 

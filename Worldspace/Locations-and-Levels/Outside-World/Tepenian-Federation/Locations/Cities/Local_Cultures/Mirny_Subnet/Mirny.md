@@ -119,7 +119,7 @@ Aggressively wind-engineered, similar in spirit to Denison's approach but withou
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** A genuine Russian-Chinese layering — hearty, preservation-oriented Russian cold-weather food alongside Chinese culinary tradition, neither fully dominant, closer to coexistence than fusion (a contrast to Zhongshan's more thoroughly merged Sino-Russian food culture, despite the similar ingredient nations).
+- **a. Human cuisine:** A genuine Russian-Chinese layering — hearty, preservation-oriented Russian cold-weather food alongside Chinese culinary tradition, neither fully dominant, closer to coexistence than fusion. *(Corrected 2026-07-13 — previously contrasted this with "Zhongshan's more thoroughly merged Sino-Russian food culture"; Zhongshan's cuisine is singularly Chinese, built around jiaozi and Chinese preservation traditions, with no Russian culinary layer at all — see `Specs/Zhongshan.md`. Mirny's own Russian-Chinese layering is genuine and unrelated to Zhongshan's separate, singular-Chinese food identity.)*
 - **b. Social context of eating:** Practical and substantial — food here serves the same competence-over-romance ethos as the rest of the culture; hearty, efficient meals suited to a population that spends real energy managing harsh conditions.
 - **c. Robot cuisine / siligel culture:** Functional and unremarkable in the best sense — siligel preparation follows the city's general competence-first character, without a distinct ceremonial or craft tradition setting it apart the way Zhongshan's does.
 

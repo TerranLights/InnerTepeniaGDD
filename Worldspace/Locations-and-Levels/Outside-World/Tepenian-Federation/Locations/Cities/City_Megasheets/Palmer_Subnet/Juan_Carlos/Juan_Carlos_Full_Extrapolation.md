@@ -4,9 +4,9 @@
 
 ---
 
-## I. The Machu Picchu Border & Customs Authority's Geography — Already Resolved Elsewhere, Just Not Cross-Referenced Back Here
+## I. The Machu Picchu Border & Customs Authority's Geography — Confirmed Already Resolved, and Now Fixed Everywhere It Lagged
 
-A second stale inconsistency, distinct from the war-status one already fixed in the Mega-Init: `Specs/Juan_Carlos.md`'s own Open Questions still lists this as unresolved ("whether this represents a genuinely remote administrative/processing headquarters... or something else"), but it was actually settled during the 2026-07-06 airport network resolution — the Authority's real physical processing point is **Machu Picchu Airport, near Sejong**, not a genuinely remote site thousands of kilometers from Ushuaia. Peru's real Machu Picchu Base sits on King George Island immediately next to Sejong, which is exactly why the Authority's processing happens there rather than at Ushuaia itself. This should be copied back into `Specs/Juan_Carlos.md`'s Open Questions list as resolved, not left to look like a genuinely open item.
+*(Updated 2026-07-13: at the time this section was originally written, 2026-07-07, `Specs/Juan_Carlos.md`'s own Open Questions list had already been corrected the day before — 2026-07-06 — to mark this resolved (Machu Picchu Airport, near Sejong, per the airport network resolution), but this file and `Juan_Carlos_Mega_Init.md`'s own "What's Actually Open" list still hadn't been cross-checked against that fix and kept describing it as outstanding. Both now match Specs; this section is kept as a record of the staleness, not as an active correction still needed.)*
 
 ---
 
@@ -44,4 +44,4 @@ Following standard Spanish place-name demonym patterns (the "-ense" suffix, as i
 
 ## Worth Your Attention
 
-Section I is the most important item here, even though it isn't a creative proposal — it's a correction. A city's own Open Questions list telling readers something is unresolved when it's actually already been settled elsewhere is a real, avoidable point of confusion, and it should be fixed in `Specs/Juan_Carlos.md` directly, not just noted here. Section II is the strongest genuinely new idea — giving "what survived the strike" a specific, earned mechanism (an individual's off-network backup, not a failure of the strike itself) resolves a real tension between two established facts that neither file currently reconciles.
+Section II is the strongest genuinely new idea — giving "what survived the strike" a specific, earned mechanism (an individual's off-network backup, not a failure of the strike itself) resolves a real tension between two established facts that neither file currently reconciles. *(Corrected 2026-07-13: this used to also flag Section I as the most important item, needing "fixed in `Specs/Juan_Carlos.md` directly" — that instruction was stale even here; `Specs/Juan_Carlos.md` already had the Machu Picchu Authority resolution correct since 2026-07-06, a day before this file was even written. Section I's own note above now correctly reflects that the staleness lived in this Megasheet and Mega_Init.md, not in Specs.)*
