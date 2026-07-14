@@ -1,0 +1,10 @@
+Calethina's rewards for helping her (and committing to her):
+
+A.) Upon completing Calethina's personal companion questline:
+• All turrets, sensors, and other automated systems are now confused by you. You get one free turn in combat before automated systems turn hostile.
+• Your Calculation, Investigation, and Nerve stats are all raised by +1, and you gain +15% to base Hacking 
+• Upon reaching the end stages of rescuing Kendra and attempting to decrypt the datastash, your Calculation, Investigation, and Nerve stats are all raised by an additional +1, and you gain +25% to base Hacking
+B.) Upon completing Calethina's companion romance questline:
+• All turrets, sensors, and other automated systems are now doubly confused by you. You get two free turns in combat before automated systems turn hostile.
+• Your Calculation, Investigation, and Nerve stats are all raised by +2, and you gain +25% to base Hacking
+• Upon reaching the end stages of rescuing Kendra and attempting to decrypt the datastash, your Calculation, Investigation, and Nerve stats are all raised by another additional +1, and you gain +35% to base Hacking
