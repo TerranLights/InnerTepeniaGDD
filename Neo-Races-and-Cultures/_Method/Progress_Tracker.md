@@ -16,7 +16,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 ---
 
 ## Halley Subnet
-- [b] Abowasa
+- [b] Abowasa *(city-type resolved 2026-07-16: a scaled-down twin-settlement residential/commuter community for workers commuting to Sanay/Troll, echoing Budapest/Twin Cities/Kansas City at a much smaller scale)*
 - [b] Belgrano *(also has a secondary garage/warehouse/industrial culture alongside its primary aeronautics/port identity — developer note added 2026-07-16)*
 - [b] Halley *(no true real-world non-polar analog for its moving-ice-shelf terrain — flagged, substitute category used instead)*
 - [b] Lazar
@@ -28,7 +28,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 ## Janbogo Subnet
 - [b] Cape Adare
 - [b] Denison
-- [b] Dumont d'Urville
+- [b] Dumont d'Urville *(city-type resolved 2026-07-16: a wildlife-tourism/nature-reserve gateway city, echoing Kaikōura/Simon's Town/Punta Tombo, with a "Quebec City-like" cultured small-town core)*
 - [b] Fort McMurdo
 - [b] Janbogo
 - [b] Scott
@@ -41,7 +41,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 
 ## Mirny Subnet
 - [b] Casey *(the project's own second worked example for the City-Type Parallels category — nationally famous for "Splinters," its huge live-music bar)*
-- [b] Davis
+- [b] Davis *(city-type resolved 2026-07-16: a combined ecological/limnological research hub AND Tepenia's foremost sheltered-agriculture/greenhouse city — the "breadbasket of Tepenia," growing from Davis's status as the largest ice-free oasis in the country)*
 - [b] Kunlun *(100% robot population — Phase 1b treated the nation list as heritage-tracking rather than a literal resident population; same caveat carries into Phase 1c)*
 - [b] Mirny
 - [b] Shirayuki

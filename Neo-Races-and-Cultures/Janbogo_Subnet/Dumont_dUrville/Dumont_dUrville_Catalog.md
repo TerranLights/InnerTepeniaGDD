@@ -43,10 +43,31 @@ continental, still subject to persistent severe wind.
 
 ## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
 
-**City type:** no strongly distinctive economic type — `Specs/Dumont_dUrville.md` describes the city's
-significance as "more cultural and historical than industrial," anchored around its penguin-colony
-identity rather than a dominant industry. No forced nation-by-nation matching attempted here; noted
-honestly, same treatment as Abowasa.
+**City type, resolved 2026-07-16:** a wildlife-tourism/nature-reserve gateway city — the penguin
+colonies are the main draw, same civic register as Kaikōura, Simon's Town, and Punta Tombo — organized
+around a small, walkable town core with a genuine arts/music/culture identity of its own, in the vein
+of Quebec City: a cultured small city that happens to be built around a natural reserve, rather than a
+plain research outpost with penguins nearby.
+
+*Nature-reserve-gateway angle (per nation):*
+- **China (Primary):** Wòlóng, Sichuan — a real Chinese wildlife-reserve gateway town (giant pandas),
+  a strong structural match.
+- **USA (Primary):** Homer, Alaska — a real American coastal wildlife-tourism gateway town.
+- **Japan (Significant):** Shiretoko, Hokkaido — a real Japanese UNESCO wildlife-reserve gateway town.
+- **France (Significant, founding operator heritage):** Saintes-Maries-de-la-Mer, Camargue — a real
+  French wildlife-reserve gateway town (flamingos, wild horses) with a genuine small-town cultural
+  identity of its own; an especially fitting match given France's own founding-operator heritage here.
+- **South Korea (Significant):** Suncheon — a real Korean wetland-reserve gateway town (migratory
+  birds).
+- **Indonesia (Significant):** Labuan Bajo — a real Indonesian wildlife-reserve gateway town (Komodo
+  National Park), an excellent match.
+- **Australia (Significant):** Phillip Island — home to Australia's own real "Penguin Parade" tourist
+  attraction; an outstanding, almost literal match.
+
+*Cultured-small-city angle (general framing, not tied to a specific nation in this roster):* Quebec
+City itself is the reference point for DdU's own internal register — a small, walkable historic core
+with a genuine, disproportionate arts/music/culture identity layered on top of its main tourist draw,
+rather than a research outpost that happens to have penguins.
 
 ---
 

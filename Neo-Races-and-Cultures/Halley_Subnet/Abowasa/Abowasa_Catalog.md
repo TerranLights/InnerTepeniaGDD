@@ -46,11 +46,27 @@ Scotland — Wikipedia](https://en.wikipedia.org/wiki/Geology_of_Scotland)
 
 ## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
 
-**City type:** no single disproportionately distinctive type. `Specs/Abowasa.md` describes it as
-economically modest and small-scale, with only minor scientific research activity — "Abowasa was
-never a major economic node." Unlike Sanay's port role or Casey's Splinters, there isn't a strong
-enough functional identity here to search nation-by-nation for real-world matches; noted honestly
-rather than forced. Worth revisiting if future design work gives Abowasa a more defined civic role.
+**City type, resolved 2026-07-16:** a quiet twin-settlement residential/commuter community — a
+scaled-down version of the twin-city-merger pattern (Budapest, Minneapolis–St. Paul, Kansas City),
+downsized to fit Abowasa's own small scale and genuinely dual founding (the real Finnish Aboa and
+Swedish Wasa stations, ~200m apart, that grew into one settlement). Rather than being a
+cultural/industrial center with incidental residents, Abowasa is a residential community with its own
+local industry and culture, whose working population largely commutes to Sanay's port or Troll's
+airfield nearby.
+
+- **USA (Primary):** Texarkana — a real small-scale American twin city split across a state line, a
+  strong scaled-down structural match.
+- **Germany (Significant):** Wanne-Eickel — two real German towns (Wanne + Eickel) that legally merged
+  into one small city, later absorbed into Herne; an excellent, direct small-scale merger match.
+- **France (Significant):** Baugé-en-Anjou — a real small French *commune nouvelle*, formed from the
+  legal merger of several small settlements; a genuine, if broader, small-scale merger match.
+- **UK (Significant):** Motherwell and Wishaw — real small paired Scottish towns functioning as one
+  settlement, a strong match.
+- **Russia (Significant):** Kopeysk — a real Russian satellite/commuter town feeding the larger
+  industrial hub of Chelyabinsk; a strong match for the commuter-community angle specifically.
+- **Brazil (Significant):** Alphaville, São Paulo — a real planned residential satellite community
+  built specifically to house workers commuting into a larger hub; a strong match for the
+  commuter-community angle.
 
 ---
 

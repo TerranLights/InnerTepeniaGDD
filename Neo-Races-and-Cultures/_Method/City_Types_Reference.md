@@ -16,8 +16,11 @@ relevance).
 ---
 
 ## Halley Subnet
-- **Abowasa** — No single disproportionately distinctive type; economically modest/small-scale, minor
-  scientific research only. No notable leisure/cultural landmark.
+- **Abowasa** — Resolved 2026-07-16: a quiet twin-settlement residential/commuter community — a
+  scaled-down twin-city-merger identity (echoing Budapest/Minneapolis–St. Paul/Kansas City, downsized
+  to fit Abowasa's own small scale and genuinely dual founding, real Aboa+Wasa stations ~200m apart).
+  A residential community with its own local industry and culture, whose working population largely
+  commutes to Sanay's port or Troll's airfield. No notable leisure/cultural landmark.
 - **Belgrano** — Aviation/airfield hub + major port (one of two South African freighter receiving
   ports, alongside Sanay), PLUS a fairly well-developed secondary garage/warehouse/industrial culture
   *(developer note added 2026-07-16)* — present but not as developed as its aeronautics identity. No
@@ -41,8 +44,10 @@ relevance).
   the Antarctic continent, is the city's most historically important pre-exile site.
 - **Denison** — Industrial (structural/wind engineering, historically chamber manufacturing) +
   scientific research. No notable leisure/cultural landmark.
-- **Dumont d'Urville** — No strongly distinctive economic type; small city whose significance is more
-  cultural/historical (penguin colonies) than industrial.
+- **Dumont d'Urville** — Resolved 2026-07-16: a wildlife-tourism/nature-reserve gateway city (echoing
+  Kaikōura/Simon's Town/Punta Tombo — the penguin colonies are the main draw), organized around a
+  small, walkable "Quebec City-like" town core with a genuine arts/music/culture identity of its own,
+  not just a research outpost with penguins nearby.
 - **Fort McMurdo** — Mining/heavy industrial center (Tepenia's primary heavy industrial center) +
   historical administrative/governance role (former national capital). No notable leisure landmark
   (Mount Erebus is geological, not civic).
@@ -69,8 +74,11 @@ relevance).
 - **Casey** — Highway junction/transit hub, PLUS the project's own second worked example:
   "Splinters," Tepenia's largest and most famous bar (Classic Rock/Jazz/Blues/Acoustic Folk music
   scene), famous along the whole Dumont d'Urville Sea and Indian Ocean coastline.
-- **Davis** — No strongly distinctive type; oasis resources, maritime trade, and general logistics
-  within the Mirny subnet, none individually dominant.
+- **Davis** — Resolved 2026-07-16: a combined ecological/limnological research hub AND Tepenia's
+  foremost sheltered-agriculture/greenhouse city — the "breadbasket of Tepenia." Both functions grow
+  from the same fact: Davis sits on the largest ice-free oasis in the country (~400km², diverse lakes
+  and fjord-like inlets), giving it more exploitable fresh water and usable land than any other
+  Tepenian city.
 - **Kunlun** — Scientific research (astronomy/ice-core science) + religious/pilgrimage center (Kunlun
   Observatory, arguably *the* primary sacred site in all of Tepenia) + industrial (joint
   chamber-manufacturing outpost with Vostok). 100% robot population.
