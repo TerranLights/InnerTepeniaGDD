@@ -11,10 +11,14 @@ each city (or honestly flagged as weak/no match/no distinctive type where none e
 subnet. The Population Weighting Reference exists specifically so that future Phase 1c cultural
 findings can be weighted by actual population share rather than treated as if every listed nation
 contributed equally to a city's culture. Each city's own functional/civic type classification is also
-consolidated in `City_Types_Reference.md` so it doesn't need to be re-derived later. Per-Nation Entries
-(Cultural Iceberg / Surface+Deep Culture findings, Phase 1c) are unstarted for all 35 — that's the
-genuinely expensive phase still ahead. Mirrors the checklist convention already established for
-`Cities/Full_City_Integrity_Check.md`.
+consolidated in `City_Types_Reference.md` so it doesn't need to be re-derived later. **Phase 1c
+(Per-Nation Cultural Iceberg / Surface+Deep Culture findings) is now underway** — **Sanay is the first
+city complete** (2026-07-16), run as a deliberate test of the full method before scaling to the
+remaining 34; see `Phase1c_Test_Run_Sanay.md` for the process notes carried forward. Sanay also has a
+working (not yet developer-confirmed-final) Phase 2 synthesis — a draft "Sanayan" neo-culture. The
+other 34 cities' Per-Nation Entries remain unstarted; this is the genuinely expensive phase, and Sanay's
+own pass took a substantial single sitting even as the smallest-scope candidate available. Mirrors the
+checklist convention already established for `Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
 
@@ -27,7 +31,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [b] Lazar
 - [b] Neumayer *(shares Halley's moving-ice-shelf terrain and its "no true analog" flag)*
 - [b] Princess Elisabeth
-- [b] Sanay *(the project's own first worked example for the City-Type Parallels category — a major shipping/logistics port city)*
+- [x] Sanay *(the project's own first worked example for the City-Type Parallels category — a major shipping/logistics port city; now also the FIRST CITY WITH PHASE 1C COMPLETE, 2026-07-16 — Per-Nation Entries for Germany/Brazil/UK done, plus a draft Phase 2 "Sanayan" synthesis; see `Phase1c_Test_Run_Sanay.md`)*
 - [b] Troll
 
 ## Janbogo Subnet

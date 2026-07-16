@@ -1,86 +1,33 @@
-# Sanay — Neo-Race Cataloging (Phase 1)
+# Sanay — Phase 1c Test Run (Cultural Iceberg → Neo-Culture Synthesis)
 
-**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
-filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — the first city finished,
-via a deliberate test-run of the full method (draft process in
-`_Method/Phase1c_Test_Run_Sanay.md`; see that file for method notes carried forward to the other 34
-cities). Synthesis Notes (Phase 2) drafted below as a working first pass, not yet developer-confirmed
-as final.
+**Status: TEST RUN, 2026-07-16 — PROMOTED THE SAME DAY.** Originally drafted here, outside
+`Neo-Races-and-Cultures/Halley_Subnet/Sanay/`, so it wouldn't read as real, committed Phase 1c content
+until the method had been validated. The test held up: this content (lightly cleaned up) is now live in
+`Sanay_Catalog.md`'s own "Per-Nation Entries" and "Synthesis Notes" sections — that's the authoritative
+copy going forward. **This file is kept as the historical record of the test-run process and the
+methodology observations at the bottom**, which don't belong in the per-city file itself.
 
----
+**Why Sanay:** smallest Primary/Significant nation list of any strong candidate (3 nations — Germany,
+UK, Brazil), a rich 267-line existing `Local_Cultures/Halley_Subnet/Sanay.md` writeup to draw from, and
+already the worked example for the City-Type Parallels phase. Chosen specifically to run the full
+method end-to-end once before scaling to the other 34 cities.
 
-## City Snapshot
-
-- **Nations present, by tier:** Primary — Germany. Significant — UK, Brazil. Notable — Poland,
-  Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Chile, Belarus,
-  Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in
-  `Specs/Sanay.md` and `Official_Population_Census.md`.
-- **Geography:** Vesleskarvet nunatak, Ahlmannryggen range, Queen Maud Land — a rocky outcrop above the
-  surrounding ice sheet, inland from the coast, connected to the other Halley subnet cities via the
-  Queen Maud Land coastal highway.
-- **Geological composition:** Stable bedrock foundation (unlike the ice-shelf cities Neumayer and
-  Halley) — this distinction shaped how the city was built and how it lasted.
-
----
-
-## Population Weighting Reference (for future Phase 1c cultural weighting)
-
-*Source: `Specs/Sanay.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
-
-| Tier | Nation | Share % |
-|------|--------|---------|
-| Primary | Germany | 25.00% |
-| Significant | Brazil | 11.57% |
-| Significant | UK | 7.18% |
-| Notable | Estonia | 4.58% |
-| Notable | Serbia | 4.53% |
-| Notable | South Africa | 4.48% |
-| Notable | Argentina | 4.22% |
-| Notable | Ukraine | 4.21% |
-| Notable | Slovenia | 4.11% |
-| Notable | Hungary | 4.10% |
-| Notable | Bulgaria | 3.95% |
-| Notable | Norway | 3.87% |
-| Notable | Czech Republic | 2.38% |
-| Notable | Romania | 2.30% |
-| Notable | Croatia | 2.15% |
-| Notable | Latvia | 2.14% |
-| Notable | Slovakia | 2.04% |
-| Notable | Poland | 2.03% |
-| Notable | Lithuania | 1.77% |
-| Notable | Belarus | 1.72% |
-| Notable | Chile | 1.67% |
-
-*(Total: 100.00%)*
-
----
-
-## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
-
-**Terrain profile:** stable inland nunatak bedrock, same general character as Abowasa — exposed granite
-outcrop rising above the surrounding ice sheet, moderate-to-low precipitation.
-
-- **Germany (Primary):** Erzgebirge (Ore Mountains) or Harz Mountains — real populated granite/bedrock
-  highland communities.
-- **UK (Significant):** Scottish Highlands — same bedrock-highland match as Abowasa's UK entry.
-- **Brazil (Significant):** Brazilian Highlands (Planalto) — weakest match, much warmer/wetter than the
-  target profile; flagged for Phase 2 review rather than forced.
-
----
-
-## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
-
-**City type:** major port/shipping hub — "a major shipping and transportation port city... Endless
-shipyards handle the import of raw materials," alongside its role as the Halley subnet's Arcanet relay
-nexus.
-
-- **Germany (Primary):** Hamburg — Germany's largest port city, an excellent, direct match.
-- **UK (Significant):** Felixstowe — the UK's largest container port, a strong match.
-- **Brazil (Significant):** Santos — Brazil's largest port city, a strong match.
-
----
-
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
+**Inputs already on file for Sanay** (all from `Sanay_Catalog.md`, not re-derived here):
+- City Snapshot: nunatak bedrock, Vesleskarvet, Ahlmannryggen range, Queen Maud Land, inland from the
+  Weddell Sea coast, katabatic winds channeled by nunatak terrain.
+- Real-World Parallel Locations: Germany → Bavarian Alps glacial-meltwater valley towns; UK → Scottish
+  Highland lochs *(flagged weak)*; Brazil → no natural domestic match *(flagged weakest)*.
+- City-Type Parallels: Germany → Hamburg (major port); UK → Felixstowe (largest UK container port);
+  Brazil → Santos (Brazil's largest port).
+- Population Weighting: **Germany 25.00% (Primary)**, **Brazil 11.57% (Significant)**, **UK 7.18%
+  (Significant)** — South Africa, Sanay's actual *founding* nation, has drifted down to Notable tier
+  (4.48%) as the city's population shifted over the centuries. This matters: the neo-culture below
+  describes the *present-day* population blend, while the city's own civic mythology (bedrock
+  endurance, the SANAE name origin) stays rooted in that founding South African history — the two
+  layers coexist rather than one erasing the other.
+- Robots track the same national-origin proportions as the human population (established project
+  methodology) — every Surface Culture line below has an unwritten robot-equivalent parallel (siligel
+  instead of food, glitch-coolant instead of alcohol, etc.), not a separate fourth "nation."
 
 **No National Stereotypes compliance note:** every finding below is framed as arising from Sanay's own
 conditions (the port's freighter-schedule rhythm, the bedrock-endurance civic mythology, the harsh
@@ -88,9 +35,9 @@ climate) that a given population's originating patterns fed into or reinforced �
 population does X because they're from nation Y." Nationality stays a GPS fact; the causal explanation
 is always something local to Sanay itself.
 
-Robots track the same national-origin proportions as the human population (established project
-methodology) — every Surface Culture line below has an unwritten robot-equivalent parallel (siligel
-instead of food, glitch-coolant instead of alcohol, etc.), not a separate fourth population.
+---
+
+## Per-Nation Entries
 
 ### Germany (Primary, 25.00%)
 
@@ -288,10 +235,10 @@ heavily than the Highland angle, consistent with how that imbalance was already 
 
 ---
 
-## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+## Synthesis Notes (Phase 2 test)
 
-**Working name: "Sanayan."** *(Placeholder — not yet confirmed as final, offered here as a working
-label so the synthesis below has something to refer to.)*
+**Working name: "Sanayan."** *(Placeholder — not yet run past the developer as a final name, offered
+here as a working label so the synthesis below has something to refer to.)*
 
 Sanayan culture reads as a city with a **disciplined, function-first public face and a warmer private
 interior** — almost literally the same duality as its own bedrock-versus-ice-shelf founding metaphor,
@@ -325,3 +272,32 @@ siligel and glitch-coolant instead of food and drink, robot coffee and smoking c
 rather than constituting a separate fourth population. Worth a dedicated pass later on exactly how the
 "function-first vs. warm-interior" duality expresses through robot-specific culture rather than just
 assuming a 1:1 human translation.
+
+---
+
+## Test-Run Observations (methodology feedback for the other 34 cities)
+
+- **The dual real-world-match structure (geography + city-type) genuinely pays off** — nearly every
+  interesting finding above came from noticing where the two matches for a nation *agreed* (Germany:
+  Alpine + Hamburg both being labor-coordination cultures) or *diverged* (Brazil: no geography match at
+  all, so the city-type match had to carry the whole entry). Cities with a clean geography+type overlap
+  per nation will likely go faster; cities with more "no match, flagged weak" nations (like Brazil here)
+  will take more deliberate diaspora-adaptation reasoning per entry.
+- **Population weighting mattered concretely, not just as a number.** Brazil's 11.57% share (more than
+  UK's 7.18%) is exactly why it got a full, distinct treatment above rather than being folded into a
+  generic "minor population" note — the weighting reference did real work here, not just decoration.
+- **Convergence between populations is worth calling out explicitly.** UK and Germany converged heavily
+  here (shared port-labor foundation), which meant the UK entry ended up shorter and more
+  cross-referencing than independently generated — that's an honest outcome, not a shortcut, and
+  probably a recurring pattern wherever two populations share a City-Type match.
+- **Founding-nation-vs-present-population drift is a genuinely productive seam, not just a data quirk.**
+  Sanay's founding nation (South Africa) has drifted down to 4.48% Notable tier, yet its founding
+  mythology still anchors the city's whole civic identity — that gap between founding myth and present
+  demographic reality is a pattern worth watching for at every city where the founding nation has
+  drifted out of the top tiers.
+- **Time estimate:** this single city (3 nations, deliberately the smallest case) took a genuinely
+  substantial single pass. Cities with 6-8 Primary/Significant nations (Zhongshan, Casey, Shirayuki)
+  should be expected to take meaningfully longer per city, and the two 40+ nation cities (Dome Fuji,
+  Palmer City, Byrd) will need their own dedicated approach — probably tiered depth (full treatment for
+  Primary/Significant, lighter-touch treatment for Notable) rather than this same level of depth applied
+  uniformly.
