@@ -67,7 +67,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [b] Zhongshan *(the developer's own worked example for the whole project — "Zhongshanese" — good candidate for the first full Phase 1c pass)*
 
 ## Palmer Subnet
-- [b] Esperanza
+- [x] Esperanza *(PHASE 1C COMPLETE 2026-07-16 — first Palmer subnet city; a "family/genesis city" identity tied to its real founding history; Argentina, despite being the smallest population, holds the strongest combined real-world match plus a literal historical tie to the city's own founding event, found anywhere in the project so far)*
 - [b] Juan Carlos
 - [b] Marambio
 - [b] Palmer City *(flagged: 43-nation roster — largest single-city undertaking in the project; Phase 1b covered Primary+Significant only)*
