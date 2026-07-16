@@ -8,3 +8,10 @@ B.) Upon completing Calethina's companion romance questline:
 • All turrets, sensors, and other automated systems are now doubly confused by you. You get two free turns in combat before automated systems turn hostile.
 • Your Calculation, Investigation, and Nerve stats are all raised by +2, and you gain +25% to base Hacking
 • Upon reaching the end stages of rescuing Kendra and attempting to decrypt the datastash, your Calculation, Investigation, and Nerve stats are all raised by another additional +1, and you gain +35% to base Hacking
+
+
+screenshot videos with their audiotracks and develop robot religions; make versions of megasheets+lorehistories for the districts that are specifically oriented around pre-war Concordia, then again for post-war Concordia; then, with religions in place, can start on questlines;; ask about slang
+
+
+
+Now, before we continue with developing the religions, there's a note I'd like to add about companions. Starting on the topic of Naizelle d'Edjordoś, as I was taking into considering not only her personality but also her backstory, it struck me that she actually wouldn't begin the game by living in Concordia; she'd likely be in the wasteland scavenging for materials to maintain her home hab and to try to survive, which means the player would likely meet her via one of the DLCs. Now, by my thinking, she'd likely be from and living somewhere in the Halley DLC, but I'd already designated Salagéa Aparast as the in-DLC recruitable companion, and that got me thinking, it might be better to have multiple recruitable companions in each DLC. All of them can be met and recruited by the player during (or possibly after, if the player so chooses) the DLC, and which character the player meets upon starting would be determined by where the player comes to and begins that DLC _from_ (i.e., coming from the base game or coming from any of the other DLCs). So, for example, beginning the Halley DLC coming from the base game, coming from (after having completed) the Mawson DLC, coming from (after having completed) the Palmer DLC, etc etc etc and so on. What do you think

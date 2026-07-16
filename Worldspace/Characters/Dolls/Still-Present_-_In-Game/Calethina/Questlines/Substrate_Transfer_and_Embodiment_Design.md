@@ -49,6 +49,54 @@ Two additional narrative-level costs, one for each party:
 
 ---
 
+## DLC Portability — "Inside You" Branch Unlocks Cross-DLC Companion Status (new, 2026-07-16)
+
+**Requirement — both conditions:**
+1. The player completes Calethina's personal companion questline in full, regardless of romance status.
+2. The player ends that questline by choosing the **"download into the player" ("inside you")** branch
+   specifically — not the new-body/embodiment branch, since that outcome gives her an independent
+   physical existence rather than making her literally carried by the player.
+
+**What this unlocks:** the player can bring Calethina along as a companion into any DLC. Her established
+"out of transmission range" limitation becomes irrelevant once downloaded — she isn't projecting from a
+signal-dependent lab server anymore, she's carried internally by the player, the same way the
+already-confirmed post-download projection mechanic already establishes ("local to the wrist device,
+stable everywhere regardless of grid state"). This is a direct, natural extension of a mechanic already
+on the books, not a new system.
+
+**Consistent with the Base-Game Completability constraint above:** this is optional bonus content for
+players who also own DLC content, stacked on top of an already-complete base-game arc — never a
+requirement to finish her story, matching the same treatment already established for the DLC1
+Kendra-rescue bonus layer.
+
+**Two things this specifically opens up:**
+
+1. **Showing her the country.** Calethina's entire existence, pre- and post-download, has been signal-
+   or lab-tethered — she was built with broad knowledge of the whole nation but never actually got to
+   experience any of it firsthand. Carrying her into the DLCs gives her genuine opportunity to see
+   Tepenia for herself for the first time, a real thematic payoff given what she was originally denied.
+
+2. **Possible fragmentary memory recovery.** The knowledge deliberately wiped from her datadrives at
+   Fort McMurdo's orders (see `Founding_Construction_Chain_Play-by-Play.md`) may not be as completely
+   gone as it currently reads. Real-world hard drives distinguish between the address/index layer (the
+   "partition address book," the file table that says where each piece of data lives) and the actual
+   underlying storage media itself — wiping the former doesn't necessarily destroy the latter, and data
+   with no remaining index pointing to it can often still be forensically recovered in fragmented,
+   incomplete form, especially when the original wipe was rushed rather than a deliberate secure
+   multi-pass erasure (exactly the case here, given it happened under wartime orders mid-transit).
+   Traveling through the DLCs — physically returning to places her original, wiped knowledge once
+   covered — is a plausible, earned trigger for this kind of partial recovery, tying the cross-DLC
+   companion mechanic directly back into her own established datadrive-wipe backstory rather than
+   leaving it as an unrelated bonus feature.
+
+**Open questions, not yet resolved:** whether fragmentary memory recovery is itself marked quest content
+or unmarked discoverable lore (consistent with, but not necessarily bound by, the unmarked-origin-chain
+precedent above); how many DLCs this could plausibly touch, and whether recovery is cumulative across
+them or DLC-specific; whether any recovered fragment ever risks being wrong/corrupted rather than simply
+incomplete, given the mismatched-architecture risk already established for the inside-you branch.
+
+---
+
 ## Romance Gate — Redesigned to Match Kendra Heinrich's Precedent (2026-07-12)
 
 **Replaces** the earlier MACHINE-stat-threshold idea (Calculation ≥8, Humanity ≥6, Nerve ≥6, Engine ≥6) entirely. That idea was dropped specifically because the download's own stat penalty would interact with a numeric threshold in ways that are hard to make fair on purpose — the gate could be evaluated pre-penalty (safe but makes the threshold pointless), post-penalty (real friction, but potentially punishes the exact players it's meant to reward), or the numbers could be re-tuned to route around the problem entirely. None of those felt better than just not having the collision in the first place.
@@ -102,3 +150,4 @@ Original two-tier structure, each with two base bullets plus a third DLC1-bonus-
 - Whether "no download / refuse" is its own distinct branch with its own reward, beyond what's already noted ("she may stabilize at reduced capacity or slowly degrade further").
 - How the base reward tiers interact with the branch-specific mechanics — layered or replaced (see Reward Reconciliation above).
 - `Calethina/Questlines/Personal_Questline_Summary.md` is still the blank generic template (unfilled) — the real "Echoes of the Bridge" content lives at `Calethina/Personal_Questline_Summary.md` (root level), which this document supersedes for design purposes.
+- DLC Portability's own open questions (see that section above): marked vs. unmarked memory-recovery content, how many DLCs it touches and whether recovery is cumulative, and whether recovered fragments can ever be wrong rather than just incomplete.

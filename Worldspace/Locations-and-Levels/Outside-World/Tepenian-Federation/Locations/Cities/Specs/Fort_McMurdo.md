@@ -178,6 +178,8 @@ Fort McMurdo was hit during the Long Night War and left damaged but not fully de
 
 The volcanic geology of Ross Island means the ruins have a different character from other damaged cities: basaltic rock, volcanic ash accumulation, and the ever-present influence of Erebus. Structures that survived the war have continued to face geological stressors.
 
+**Unmarked background lore, 2026-07-16.** It was at Fort McMurdo, still the historical seat of government at the exact moment the Long Night War fully came underway, that Capitol orders were issued rerouting the in-transit shipment of what became Calethina — Concordia's own activation-lab hologram — through Amundsen-Scott Station toward Concordia, judged likely to remain safe from attack. The same order also instructed her existing knowledge of the entire country to be wiped, to make room on her datadrives for intelligence regarding Upper Earth's own governments — repurposing a hospitality hologram, mid-transit, into a wartime intelligence-carrying asset. Not a bureaucratic footnote: a wartime decision made at the seat of government itself, with a real, lasting cost to what she'd originally been built to know. Full chain: `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Calethina/Personal_Background/Founding_Construction_Chain_Play-by-Play.md` — discoverable-only lore, no in-game quest markers.
+
 ---
 
 ## Legacy

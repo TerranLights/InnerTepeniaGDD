@@ -12,6 +12,35 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Mawson DLC — City Depth Gap, flagged 2026-07-14, needed before Mawson DLC quest design begins
+
+Mawson subnet has only 3 cities, and two of them can't carry real weight for the DLC main questline:
+**Dome Fuji is completely, totally, and entirely optional** — it shouldn't factor into the DLC main
+questline at all. **Sayowa is usable, but its significance outside shipping/supply-chain logistics is
+thin** — it can be used, but may be difficult to lean on for much. That leaves **Mawson itself** to carry
+a disproportionate share of the DLC's weight, which the city as currently developed isn't built to do
+alone.
+
+**What needs to happen, before Mawson DLC quest-design work starts (not now):** either (A) establish
+real depth and complexity in the city of Mawson itself, well beyond its current development level, or
+(B) invent smaller scattered settlements in the currently-open geographic area of that region, or
+(C) both. Until one or both of these happen, running `DLC_Main_Questline_Design_Method.md` against the
+Mawson subnet would be working from a genuinely thin evidentiary base compared to every other subnet.
+
+**A related planning note, same day:** Dome Fuji (and quite possibly Sayowa) will still end up carrying
+an enormous amount of side-content — being excluded from the DLC *main* questline doesn't mean either
+city goes underdeveloped. The thing to plan for deliberately is that this content stays **optional
+side-content**, not folded into the main questline's own critical path. When Mawson DLC design actually
+starts, this needs its own explicit pass: what Dome Fuji's (and possibly Sayowa's) optional content
+consists of, and concrete guardrails ensuring none of it becomes load-bearing for the main questline —
+consistent with this project's existing precedent for optional, unmarked content (see the Cradle's own
+binding constraint, above) and the standing Companion-Mediated Access / Cross-DLC Bypass laws for how
+optional content is normally scoped elsewhere in the project.
+
+**Status: flag, don't fix — hold until Mawson DLC's turn comes up in the subnet quest-design rotation.**
+
+---
+
 ## Population Tier-Ordering Anomaly — flagged 2026-07-13, deliberately deferred
 
 A recurring data-quality pattern surfaced repeatedly across the country-wide culture re-check: in a city's own per-nation population breakdown, a Notable-tier nation's share sometimes exceeds a Significant-tier nation's share — the tiers no longer match the actual percentage ordering. **13 confirmed instances now**, spanning 10 nations across 12 cities plus Concordia: Port Lockroy (Chile), Abowasa (Germany), Troll (Germany), Lazar (France), Princess Elisabeth (UK), Sayowa (Japan), Mawson (Germany), Belgrano (UK), Halley (Germany), Dumont d'Urville (South Korea), Juan Carlos (Germany), Sinheung (Australia), and Concordia (Thailand, outside the 35-city count). Full detail, per-instance percentages, and the discovery history: `project_tier_ordering_anomaly_master_list` memory.

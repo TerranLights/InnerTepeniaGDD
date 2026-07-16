@@ -1,0 +1,36 @@
+Request: Mawson [Mawson]
+- originally requested as a "welcoming host" hologram in Mawson to receive guests arriving on their honeymoon and visitors in general
+- needed to be able to have a wide knowledge of the country and basically any topic to be able to converse with guests
+
+Spec & Schematic design: Neumayer [Halley]
+- drafting and design logically drafted at Neumayer labs
+- how to actually fit that sort of data onto a limited hard drive
+
+Engineering & programming: Kunlun [Mirny]
+- receiving the design drafts and engineering them into an actual, buildable schematic
+
+Full construction: Byrd [Byrd]
+- actually building the machinery to live up to the engineering schematics
+
+Stress-testing: Sejong [Palmer]
+- chosen for its wide variety of residential populations, as blocking off of Upper-Earth tampering
+- would've been allowed to be developed and fine-tuned in this environment
+
+Shipped via: Port Lockroy [Palmer]
+- the "finished" (or so they thought) version shipped via Port Lockroy's courier network-node
+
+Shipping Reroute ordered by: Fort McMurdo [Janbogo]
+- it was at this time that the Long Night War fully came underway
+- Orders from the Capitol were to reroute through Amundsen-Scott Station on its way to a city that likely would've been safe from attack (i.e., Concordia)
+- Orders given to wipe the previous knowledge of the entire country in order to make room on her datadrives for information regarding the governments of Upper Earth
+- all transferrence and transportation happened during wartime
+
+Forward Shipped via: Amundsen-Scott Station [Amundsen-Scott]
+- successfully routed through Amundsen-Scott Station and collected information compromising Upper Earth
+- further forwarded to Concordia
+
+Arrival in Concordia
+- the day she arrived unfortunately, coincidentally happened to be the same day of the assault on Amundsen Tower
+- upon Calethina's being set up at the lab, shortly after been hooked in and powered up, the assault on Amundsen Tower caused the Planetary Split Brain Event
+- the powershock that resulted was what fried (and permanently corrupted) Calethina's datadrives
+- this is why she tends to be "glitchy" and has a rather suffering memory and can't help the player with everything

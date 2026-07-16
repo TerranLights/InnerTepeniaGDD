@@ -102,6 +102,8 @@ The harbor's natural shelter made Port Lockroy one of the more hospitable enviro
 ## Economy & Industry
 Maritime trade using the natural harbor's shelter, heritage/cultural significance, whatever the Wiencke Island coast offered. Full detail TBD for DLC 3.
 
+**Unmarked background lore, 2026-07-16:** Port Lockroy's own courier network-node handled shipping for what became Calethina, Concordia's own activation-lab hologram — confirming, at least for the pre-war/Long-Night-War-era timeframe, that the post office (see Notable Locations below) functioned as a genuine, active civic courier institution, not merely a heritage artifact, whatever its present-day DLC 3 status turns out to be. Full chain: `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Calethina/Personal_Background/Founding_Construction_Chain_Play-by-Play.md` — discoverable-only lore, no in-game quest markers.
+
 ---
 
 ## Notable Locations

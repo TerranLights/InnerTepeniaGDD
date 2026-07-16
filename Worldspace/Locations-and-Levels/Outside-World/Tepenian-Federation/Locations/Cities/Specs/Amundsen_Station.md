@@ -166,6 +166,8 @@ The ruins are enormous. The tower's collapse created a debris field of structura
 
 Kendra Heinrich is present. How long she has been there, and what condition she is in, is DLC 1 content.
 
+**Unmarked background lore, 2026-07-16.** Amundsen-Scott Station's own site was the forward-shipping waypoint for what became Calethina, Concordia's own activation-lab hologram, during her wartime reroute from Fort McMurdo — it was here that she collected intelligence compromising Upper Earth before being forwarded on to Concordia. Her physical presence at the Tower's own site, this close to its eventual collapse, is not coincidental scheduling: she arrived in Concordia the exact day of the assault on the Tower, and the resulting power shock from the Planetary Split Brain Event is what permanently corrupted her datadrives. Full chain: `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Calethina/Personal_Background/Founding_Construction_Chain_Play-by-Play.md` — discoverable-only lore, no in-game quest markers.
+
 ---
 
 ## Legacy

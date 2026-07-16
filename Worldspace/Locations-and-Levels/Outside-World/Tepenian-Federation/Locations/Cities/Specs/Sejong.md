@@ -109,6 +109,8 @@ The mild climate made King George Island the most physically comfortable locatio
 ## Economy & Industry
 King George Island's favorable position (most accessible part of Antarctica, closest to South America) made it a trade and transit hub. Full detail TBD for DLC 3.
 
+**Unmarked background lore, 2026-07-16:** Sejong's own dense, genuinely multinational King George Island population made it the chosen stress-testing site for what became Calethina, Concordia's own activation-lab hologram, during her construction — the demographic variety gave the project room to be developed and fine-tuned without unwanted outside interference, effectively using Sejong's own population density as a natural block against Upper-Earth tampering. Full chain: `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Calethina/Personal_Background/Founding_Construction_Chain_Play-by-Play.md` — discoverable-only lore, no in-game quest markers.
+
 ---
 
 ## Notable Locations
