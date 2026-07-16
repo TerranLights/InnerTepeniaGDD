@@ -26,7 +26,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 
 ## Halley Subnet
 - [x] Abowasa *(city-type resolved 2026-07-16: a scaled-down twin-settlement residential/commuter community for workers commuting to Sanay/Troll, echoing Budapest/Twin Cities/Kansas City at a much smaller scale; PHASE 1C COMPLETE 2026-07-16 — second city finished, Germany/Wanne-Eickel disproportionately strongest narrative match despite being smallest population share)*
-- [b] Belgrano *(also has a secondary garage/warehouse/industrial culture alongside its primary aeronautics/port identity — developer note added 2026-07-16)*
+- [x] Belgrano *(also has a secondary garage/warehouse/industrial culture alongside its primary aeronautics/port identity — developer note added 2026-07-16; PHASE 1C COMPLETE 2026-07-16 — third city finished, Tepenia's clearest "maker city" synthesis so far; Brazil flagged as the weakest-anchored population found anywhere in the project to date)*
 - [b] Halley *(no true real-world non-polar analog for its moving-ice-shelf terrain — flagged, substitute category used instead)*
 - [b] Lazar
 - [b] Neumayer *(shares Halley's moving-ice-shelf terrain and its "no true analog" flag)*
