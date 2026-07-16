@@ -17,6 +17,29 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Scott.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 22.62% |
+| Primary | China | 19.48% |
+| Significant | Japan | 10.81% |
+| Significant | UK | 10.79% |
+| Significant | Australia | 9.43% |
+| Significant | South Korea | 6.36% |
+| Significant | Canada | 5.00% |
+| Significant | Indonesia | 4.98% |
+| Notable | Chile | 3.69% |
+| Notable | New Zealand | 3.52% |
+| Notable | Malaysia | 1.74% |
+| Notable | Philippines | 1.58% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** identical volcanic-peninsula profile to Fort McMurdo (see that city's entry for

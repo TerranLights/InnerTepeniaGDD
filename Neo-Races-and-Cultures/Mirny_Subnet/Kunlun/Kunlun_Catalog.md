@@ -19,6 +19,37 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Kunlun.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 15.43% |
+| Primary | China | 15.22% |
+| Primary | Russia | 11.45% |
+| Significant | Canada | 7.19% |
+| Significant | Japan | 6.75% |
+| Significant | UK | 6.48% |
+| Significant | Intermarium/Intermaria | 6.38% |
+| Significant | Italy | 5.26% |
+| Significant | South Korea | 4.05% |
+| Significant | Germany | 3.33% |
+| Significant | France | 2.65% |
+| Notable | New Zealand | 2.47% |
+| Notable | Argentina | 2.44% |
+| Notable | Sweden | 2.37% |
+| Notable | Australia | 2.35% |
+| Notable | Chile | 2.14% |
+| Notable | Norway | 1.75% |
+| Notable | Spain | 1.16% |
+| Notable | South Africa | 1.07% |
+| Notable | Netherlands | 0.05% |
+
+*(Total: 99.99%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Note on Kunlun's robot-only population:** Kunlun has no human residents, but the nation list in the

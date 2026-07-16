@@ -18,6 +18,35 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Zhongshan.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | China | 35.83% |
+| Significant | South Korea | 9.70% |
+| Significant | Japan | 7.30% |
+| Significant | Germany | 8.47% |
+| Significant | Russia | 5.72% |
+| Significant | Australia | 3.66% |
+| Notable | Vietnam | 3.56% |
+| Notable | Estonia | 3.55% |
+| Notable | Thailand | 3.18% |
+| Notable | Lithuania | 3.14% |
+| Notable | Malaysia | 3.04% |
+| Notable | Indonesia | 2.98% |
+| Notable | Romania | 2.88% |
+| Notable | Philippines | 1.72% |
+| Notable | Latvia | 1.58% |
+| Notable | New Zealand | 1.28% |
+| Notable | Bulgaria | 1.21% |
+| Notable | South Africa | 1.20% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** same Larsemann Hills glacial-meltwater-oasis profile shared by Sinheung and

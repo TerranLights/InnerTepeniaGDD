@@ -18,6 +18,60 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Palmer_City.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 20.29% |
+| Significant | Brazil | 9.68% |
+| Significant | France | 9.54% |
+| Significant | Germany | 9.51% |
+| Significant | Mexico | 5.71% |
+| Significant | Canada | 5.68% |
+| Significant | UK | 5.54% |
+| Notable | Uruguay *(founding wave)* | 3.70% |
+| Notable | Argentina *(founding wave)* | 3.05% |
+| Notable | Estonia | 1.39% |
+| Notable | Czech Republic | 1.35% |
+| Notable | Australia | 1.33% |
+| Notable | Slovakia | 1.29% |
+| Notable | Thailand | 1.26% |
+| Notable | Russia | 1.20% |
+| Notable | Serbia | 1.16% |
+| Notable | Belgium | 1.14% |
+| Notable | South Korea | 1.09% |
+| Notable | Italy | 1.06% |
+| Notable | Norway | 1.01% |
+| Notable | Croatia | 0.97% |
+| Notable | South Africa | 0.96% |
+| Notable | China | 0.91% |
+| Notable | Slovenia | 0.86% |
+| Notable | Chile *(founding wave)* | 0.86% |
+| Notable | Romania | 0.86% |
+| Notable | Philippines | 0.82% |
+| Notable | Netherlands | 0.76% |
+| Notable | Japan | 0.73% |
+| Notable | Poland | 0.70% |
+| Notable | New Zealand | 0.67% |
+| Notable | Bulgaria | 0.62% |
+| Notable | Vietnam | 0.58% |
+| Notable | Spain | 0.53% |
+| Notable | Latvia | 0.48% |
+| Notable | Sweden | 0.46% |
+| Notable | Belarus | 0.44% |
+| Notable | Indonesia | 0.38% |
+| Notable | Ukraine | 0.35% |
+| Notable | Finland | 0.32% |
+| Notable | Lithuania | 0.28% |
+| Notable | Malaysia | 0.25% |
+| Notable | Hungary | 0.23% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** the mildest, most accessible geography in Tepenia — genuine temperate coastal

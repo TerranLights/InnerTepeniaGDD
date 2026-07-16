@@ -19,6 +19,43 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Mawson.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | China | 17.02% |
+| Significant | UK | 8.99% |
+| Significant | Australia | 8.29% |
+| Significant | Indonesia | 7.89% |
+| Significant | Japan | 7.48% |
+| Significant | France | 5.29% |
+| Significant | South Korea | 4.87% |
+| Notable | Estonia | 3.17% |
+| Notable | South Africa | 3.09% |
+| Notable | Norway | 3.05% |
+| Notable | Vietnam | 2.99% |
+| Notable | Thailand | 2.97% |
+| Notable | Belarus | 2.93% |
+| Notable | Netherlands | 2.92% |
+| Notable | Slovenia | 2.71% |
+| Notable | Bulgaria | 2.68% |
+| Significant | Germany | 1.86% |
+| Notable | Czech Republic | 1.57% |
+| Notable | Slovakia | 1.55% |
+| Notable | Lithuania | 1.34% |
+| Notable | Hungary | 1.32% |
+| Notable | Romania | 1.28% |
+| Notable | Poland | 1.27% |
+| Notable | Croatia | 1.21% |
+| Notable | Latvia | 1.16% |
+| Notable | Ukraine | 1.08% |
+
+*(Total: 99.98%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** rugged coastal terrain with real mountains inland (the Prince Charles Mountains

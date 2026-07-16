@@ -18,6 +18,26 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Signy.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 33.33% |
+| Significant | France | 17.19% |
+| Significant | UK | 16.96% |
+| Significant | Brazil | 8.04% |
+| Significant | Germany | 7.81% |
+| Notable | Argentina | 6.08% |
+| Notable | South Africa | 5.47% |
+| Notable | Chile | 2.87% |
+| Notable | Uruguay | 2.26% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** isolated sub-Antarctic island at an ocean convergence zone, biologically the

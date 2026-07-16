@@ -17,6 +17,27 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Marambio.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 27.59% |
+| Significant | Spain | 14.19% |
+| Significant | Mexico | 14.10% |
+| Significant | UK | 13.48% |
+| Significant | Canada | 7.21% |
+| Significant | Germany | 6.59% |
+| Significant | Brazil | 6.50% |
+| Notable | Chile | 4.87% |
+| Notable | Uruguay | 4.74% |
+| Notable | Argentina | 0.74% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** sedimentary rock island with major fossil beds and a defining aviation-hub role —

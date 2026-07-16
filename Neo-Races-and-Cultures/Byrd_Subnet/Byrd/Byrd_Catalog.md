@@ -20,6 +20,59 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Byrd.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 13.57% |
+| Primary | Canada | 11.43% |
+| Significant | Australia | 6.42% |
+| Significant | Japan | 6.19% |
+| Significant | South Korea | 3.19% |
+| Significant | China | 2.95% |
+| Notable | Lithuania | 2.27% |
+| Notable | Philippines | 2.23% |
+| Notable | Thailand | 2.22% |
+| Notable | Indonesia | 2.21% |
+| Notable | Malaysia | 2.20% |
+| Notable | Brazil | 2.20% |
+| Notable | Croatia | 2.16% |
+| Notable | Latvia | 2.15% |
+| Notable | Netherlands | 2.10% |
+| Notable | Slovakia | 2.06% |
+| Notable | South Africa | 2.02% |
+| Notable | Czech Republic | 1.96% |
+| Notable | Uruguay | 1.96% |
+| Notable | Vietnam | 1.94% |
+| Notable | UK | 1.93% |
+| Notable | Finland | 1.90% |
+| Notable | New Zealand | 1.90% |
+| Notable | Romania | 1.90% |
+| Notable | Norway | 1.23% |
+| Notable | Hungary | 1.23% |
+| Notable | Ukraine | 1.22% |
+| Notable | Russia | 1.19% |
+| Notable | Germany | 1.19% |
+| Notable | Belarus | 1.17% |
+| Notable | Poland | 1.16% |
+| Notable | France | 1.11% |
+| Notable | Bulgaria | 1.06% |
+| Notable | Chile | 1.02% |
+| Notable | Argentina | 0.98% |
+| Notable | Mexico | 0.96% |
+| Notable | Italy | 0.92% |
+| Notable | Slovenia | 0.92% |
+| Notable | Spain | 0.91% |
+| Notable | Belgium | 0.91% |
+| Notable | Sweden | 0.90% |
+| Notable | Serbia | 0.86% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** deep, featureless West Antarctic interior, progressively buried by snow

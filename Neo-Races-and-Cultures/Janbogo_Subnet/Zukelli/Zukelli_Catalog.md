@@ -17,6 +17,29 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Zukelli.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | China | 22.63% |
+| Primary | USA | 19.47% |
+| Significant | South Korea | 11.10% |
+| Significant | Canada | 9.90% |
+| Significant | Australia | 9.55% |
+| Significant | Italy | 6.24% |
+| Significant | Indonesia | 5.89% |
+| Significant | Japan | 4.69% |
+| Notable | Malaysia | 3.44% |
+| Notable | New Zealand | 3.37% |
+| Notable | Philippines | 1.89% |
+| Notable | Chile | 1.82% |
+
+*(Total: 99.99%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** identical katabatic sheltered-bay profile to Janbogo (see that city's entry for

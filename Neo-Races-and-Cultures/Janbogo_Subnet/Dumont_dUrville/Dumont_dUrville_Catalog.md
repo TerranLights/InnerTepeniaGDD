@@ -18,6 +18,29 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Dumont_dUrville.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | China | 24.31% |
+| Primary | USA | 20.13% |
+| Significant | France | 11.80% |
+| Significant | Japan | 11.72% |
+| Significant | Australia | 11.08% |
+| Significant | Indonesia | 5.59% |
+| Notable | New Zealand | 4.16% |
+| Notable | Vietnam | 4.04% |
+| Notable | Philippines | 3.40% |
+| Notable | Malaysia | 2.16% |
+| Significant | South Korea | 1.48% |
+| Notable | Thailand | 0.14% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** small rocky island within a sheltering archipelago, offshore rather than

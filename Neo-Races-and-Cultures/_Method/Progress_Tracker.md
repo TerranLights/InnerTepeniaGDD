@@ -1,17 +1,22 @@
 # Neo-Races and Neo-Cultures — Progress Tracker
 
 **Status, updated 2026-07-16:** all 35 cities now have their City Snapshot, their Real-World Parallel
-Locations (Phase 1b, terrain/geography-based), AND their City-Type Parallels (Phase 1b-ii,
+Locations (Phase 1b, terrain/geography-based), their City-Type Parallels (Phase 1b-ii,
 functional/civic-identity-based — port cities, aviation hubs, research towns, famous leisure
-landmarks, etc., independent of geology) sections filled in — for every Primary/Significant-tier
-nation in each city, real-world matches have been identified for both dimensions (or honestly flagged
-as weak/no match/no distinctive type where none exists), subnet by subnet. Each city's own
-functional/civic type classification is also consolidated in `City_Types_Reference.md` so it doesn't
-need to be re-derived later. Per-Nation Entries (Cultural Iceberg / Surface+Deep Culture findings,
-Phase 1c) are unstarted for all 35 — that's the genuinely expensive phase still ahead. Mirrors the
-checklist convention already established for `Cities/Full_City_Integrity_Check.md`.
+landmarks, etc., independent of geology), AND a Population Weighting Reference table (every nation at
+every tier — not just Primary/Significant — with its exact population share %, pulled directly from
+each city's own `Specs/[City].md` Per-Nation Breakdown table) sections filled in. For the two
+real-world-match dimensions, matches have been identified for every Primary/Significant-tier nation in
+each city (or honestly flagged as weak/no match/no distinctive type where none exists), subnet by
+subnet. The Population Weighting Reference exists specifically so that future Phase 1c cultural
+findings can be weighted by actual population share rather than treated as if every listed nation
+contributed equally to a city's culture. Each city's own functional/civic type classification is also
+consolidated in `City_Types_Reference.md` so it doesn't need to be re-derived later. Per-Nation Entries
+(Cultural Iceberg / Surface+Deep Culture findings, Phase 1c) are unstarted for all 35 — that's the
+genuinely expensive phase still ahead. Mirrors the checklist convention already established for
+`Cities/Full_City_Integrity_Check.md`.
 
-Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
+Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
 
 ---
 

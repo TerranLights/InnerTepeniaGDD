@@ -20,6 +20,44 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Princess_Elisabeth.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | Japan | 16.94% |
+| Primary | USA | 14.43% |
+| Significant | Brazil | 8.18% |
+| Significant | France | 7.73% |
+| Significant | Australia | 7.19% |
+| Significant | Germany | 4.58% |
+| Notable | Belgium | 2.78% |
+| Notable | Norway | 2.76% |
+| Notable | Poland | 2.73% |
+| Notable | Ukraine | 2.71% |
+| Notable | Serbia | 2.67% |
+| Notable | Finland | 2.57% |
+| Notable | Bulgaria | 2.57% |
+| Notable | Romania | 2.52% |
+| Notable | Czech Republic | 2.51% |
+| Notable | Latvia | 2.51% |
+| Significant | UK | 1.74% |
+| Notable | Netherlands | 1.42% |
+| Notable | Hungary | 1.41% |
+| Notable | Belarus | 1.40% |
+| Notable | Croatia | 1.35% |
+| Notable | Lithuania | 1.35% |
+| Notable | Slovakia | 1.26% |
+| Notable | Estonia | 1.21% |
+| Notable | Argentina | 1.19% |
+| Notable | South Africa | 1.16% |
+| Notable | Slovenia | 1.14% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** extreme gale-exposed mountain-ridge bedrock, among the windiest inhabited-adjacent

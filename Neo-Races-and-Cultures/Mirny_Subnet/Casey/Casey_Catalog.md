@@ -18,6 +18,30 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Casey.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 21.96% |
+| Primary | China | 19.06% |
+| Significant | South Korea | 10.46% |
+| Significant | France | 10.05% |
+| Significant | Australia | 9.26% |
+| Significant | Russia | 6.13% |
+| Significant | Japan | 5.33% |
+| Significant | Indonesia | 4.92% |
+| Notable | New Zealand | 3.36% |
+| Notable | Philippines | 3.35% |
+| Notable | Vietnam | 3.21% |
+| Notable | Malaysia | 1.78% |
+| Notable | Thailand | 1.13% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** sheltered coastal inlet with moderate katabatic influence — milder than the

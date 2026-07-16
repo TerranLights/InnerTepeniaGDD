@@ -18,6 +18,25 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Vostok.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 28.36% |
+| Primary | Japan | 24.97% |
+| Significant | Canada | 13.90% |
+| Significant | Indonesia | 13.55% |
+| Significant | Australia | 6.45% |
+| Significant | South Korea | 6.10% |
+| Notable | Chile | 4.96% |
+| Notable | New Zealand | 1.71% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** flat, featureless plateau, ~1,260km from the nearest coast, no highways, no

@@ -17,6 +17,28 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Denison.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 26.19% |
+| Primary | China | 22.29% |
+| Significant | South Korea | 12.31% |
+| Significant | Indonesia | 10.77% |
+| Significant | Japan | 7.41% |
+| Significant | Australia | 5.87% |
+| Notable | New Zealand | 3.92% |
+| Notable | Vietnam | 3.72% |
+| Notable | Philippines | 3.64% |
+| Notable | Malaysia | 2.42% |
+| Notable | Thailand | 1.45% |
+
+*(Total: 99.99%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** the single windiest habitation-adjacent site at sea level anywhere on the planet —

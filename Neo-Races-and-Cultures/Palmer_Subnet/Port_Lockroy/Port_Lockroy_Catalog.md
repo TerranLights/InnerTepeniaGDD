@@ -17,6 +17,25 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Port_Lockroy.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 32.00% |
+| Significant | France | 16.71% |
+| Significant | Germany | 14.83% |
+| Significant | UK | 14.35% |
+| Significant | Brazil | 9.65% |
+| Notable | Chile | 5.74% |
+| Significant | Mexico | 4.46% |
+| Notable | Argentina | 2.26% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** small, exceptionally sheltered natural-harbor island — matches should favor real

@@ -18,6 +18,37 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Davis.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | China | 20.51% |
+| Significant | Indonesia | 10.08% |
+| Significant | South Korea | 9.85% |
+| Significant | Australia | 9.31% |
+| Significant | UK | 6.07% |
+| Significant | Germany | 5.54% |
+| Significant | Japan | 5.31% |
+| Notable | Ukraine | 3.79% |
+| Notable | New Zealand | 3.78% |
+| Notable | South Africa | 3.54% |
+| Notable | Lithuania | 3.50% |
+| Notable | Romania | 3.37% |
+| Notable | Vietnam | 3.20% |
+| Notable | Estonia | 3.14% |
+| Notable | Latvia | 1.93% |
+| Notable | Philippines | 1.76% |
+| Notable | Malaysia | 1.63% |
+| Notable | Thailand | 1.35% |
+| Notable | Belarus | 1.34% |
+| Notable | Bulgaria | 1.01% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** a large, varied ice-free oasis (~400km²) with freshwater/saltwater lakes and

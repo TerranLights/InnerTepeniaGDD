@@ -17,6 +17,32 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Belgrano.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 28.57% |
+| Significant | Brazil | 13.73% |
+| Significant | Germany | 13.44% |
+| Notable | Hungary | 5.32% |
+| Notable | Poland | 5.18% |
+| Significant | UK | 4.97% |
+| Notable | Uruguay | 4.91% |
+| Notable | Slovakia | 4.66% |
+| Notable | Argentina | 4.40% |
+| Notable | Chile | 4.34% |
+| Notable | Czech Republic | 2.80% |
+| Notable | Slovenia | 2.74% |
+| Notable | South Africa | 2.48% |
+| Notable | Serbia | 1.82% |
+| Notable | Croatia | 0.62% |
+
+*(Total: 99.98%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** harsh, exposed southern coastal terrain adjacent to shifting ice-shelf ground,

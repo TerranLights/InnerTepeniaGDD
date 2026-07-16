@@ -17,6 +17,26 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Rothera.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 28.57% |
+| Significant | Germany | 14.31% |
+| Significant | Canada | 14.30% |
+| Significant | Brazil | 14.00% |
+| Significant | France | 7.43% |
+| Significant | Mexico | 7.13% |
+| Significant | UK | 7.12% |
+| Notable | Chile | 5.23% |
+| Notable | Argentina | 1.91% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** mountainous island (peaks over 2,500m) with coastal lowlands, mild maritime

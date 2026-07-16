@@ -17,6 +17,27 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Juan_Carlos.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 29.63% |
+| Significant | Italy | 14.24% |
+| Significant | Spain | 14.06% |
+| Significant | UK | 13.72% |
+| Significant | France | 8.51% |
+| Notable | Argentina | 5.04% |
+| Significant | Germany | 5.03% |
+| Notable | Chile | 4.76% |
+| Notable | Mexico | 2.65% |
+| Notable | Brazil | 2.37% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** glaciated, rugged sub-Antarctic maritime island terrain, South Shetland Islands.

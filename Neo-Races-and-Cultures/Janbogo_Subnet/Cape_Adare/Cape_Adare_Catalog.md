@@ -17,6 +17,29 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Cape_Adare.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 22.26% |
+| Primary | China | 19.85% |
+| Significant | Australia | 10.76% |
+| Significant | Japan | 10.49% |
+| Significant | Indonesia | 9.28% |
+| Significant | Canada | 6.51% |
+| Significant | South Korea | 5.29% |
+| Significant | UK | 5.03% |
+| Notable | Chile | 3.74% |
+| Notable | New Zealand | 3.19% |
+| Notable | Philippines | 2.08% |
+| Notable | Malaysia | 1.52% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** low, rocky, exposed maritime headland at the tip of a peninsula — the first

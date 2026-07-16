@@ -18,6 +18,34 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Halley.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 23.53% |
+| Significant | Brazil | 11.69% |
+| Significant | UK | 10.57% |
+| Significant | Canada | 10.34% |
+| Significant | France | 7.31% |
+| Notable | Netherlands | 4.30% |
+| Significant | Germany | 4.21% |
+| Notable | Croatia | 4.16% |
+| Notable | Serbia | 4.10% |
+| Notable | Slovenia | 4.08% |
+| Notable | Chile | 3.82% |
+| Notable | Poland | 3.56% |
+| Notable | Argentina | 2.32% |
+| Notable | South Africa | 1.80% |
+| Notable | Czech Republic | 1.78% |
+| Notable | Hungary | 1.58% |
+| Notable | Slovakia | 0.85% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** genuinely unique — no true real-world non-polar analog exists for "floating ice

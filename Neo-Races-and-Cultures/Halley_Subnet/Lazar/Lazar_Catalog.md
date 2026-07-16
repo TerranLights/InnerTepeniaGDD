@@ -20,6 +20,42 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Lazar.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 19.05% |
+| Significant | UK | 10.08% |
+| Significant | Germany | 9.48% |
+| Significant | Brazil | 9.05% |
+| Significant | Russia | 4.81% |
+| Notable | Norway | 3.42% |
+| Notable | Finland | 3.34% |
+| Notable | Czech Republic | 3.30% |
+| Notable | Estonia | 3.29% |
+| Notable | Poland | 3.21% |
+| Notable | Hungary | 3.08% |
+| Notable | Slovenia | 3.07% |
+| Notable | Slovakia | 3.00% |
+| Notable | Serbia | 2.95% |
+| Notable | Romania | 2.87% |
+| Significant | France | 2.30% |
+| Notable | Belarus | 1.81% |
+| Notable | Lithuania | 1.76% |
+| Notable | Ukraine | 1.70% |
+| Notable | South Africa | 1.55% |
+| Notable | Croatia | 1.47% |
+| Notable | Argentina | 1.46% |
+| Notable | Latvia | 1.43% |
+| Notable | Bulgaria | 1.34% |
+| Notable | Netherlands | 1.19% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** ice-free oasis, exposed bedrock, glacial-meltwater-fed lakes, surrounded by

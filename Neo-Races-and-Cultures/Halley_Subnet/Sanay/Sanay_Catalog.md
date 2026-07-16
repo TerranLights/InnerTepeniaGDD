@@ -18,6 +18,38 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Sanay.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | Germany | 25.00% |
+| Significant | Brazil | 11.57% |
+| Significant | UK | 7.18% |
+| Notable | Estonia | 4.58% |
+| Notable | Serbia | 4.53% |
+| Notable | South Africa | 4.48% |
+| Notable | Argentina | 4.22% |
+| Notable | Ukraine | 4.21% |
+| Notable | Slovenia | 4.11% |
+| Notable | Hungary | 4.10% |
+| Notable | Bulgaria | 3.95% |
+| Notable | Norway | 3.87% |
+| Notable | Czech Republic | 2.38% |
+| Notable | Romania | 2.30% |
+| Notable | Croatia | 2.15% |
+| Notable | Latvia | 2.14% |
+| Notable | Slovakia | 2.04% |
+| Notable | Poland | 2.03% |
+| Notable | Lithuania | 1.77% |
+| Notable | Belarus | 1.72% |
+| Notable | Chile | 1.67% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** stable inland nunatak bedrock, same general character as Abowasa — exposed granite

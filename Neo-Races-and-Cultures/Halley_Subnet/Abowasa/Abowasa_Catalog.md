@@ -19,6 +19,43 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Abowasa.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 18.60% |
+| Significant | Russia | 9.88% |
+| Significant | Brazil | 9.76% |
+| Significant | UK | 8.54% |
+| Significant | France | 4.07% |
+| Notable | Argentina | 3.35% |
+| Notable | Latvia | 3.32% |
+| Notable | Netherlands | 3.18% |
+| Notable | Ukraine | 3.10% |
+| Notable | Croatia | 3.10% |
+| Notable | Estonia | 3.10% |
+| Notable | Serbia | 3.05% |
+| Notable | Czech Republic | 2.96% |
+| Notable | Hungary | 2.93% |
+| Notable | Romania | 2.86% |
+| Significant | Germany | 2.63% |
+| Notable | Sweden | 1.79% |
+| Notable | Lithuania | 1.72% |
+| Notable | Belgium | 1.69% |
+| Notable | Bulgaria | 1.60% |
+| Notable | Norway | 1.55% |
+| Notable | South Africa | 1.55% |
+| Notable | Slovakia | 1.55% |
+| Notable | Finland | 1.47% |
+| Notable | Slovenia | 1.33% |
+| Notable | Poland | 1.30% |
+
+*(Total: 99.98%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** exposed granite/rock-outcrop highland, inland, elevated, low precipitation

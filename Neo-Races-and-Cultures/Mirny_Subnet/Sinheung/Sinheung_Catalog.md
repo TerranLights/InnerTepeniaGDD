@@ -18,6 +18,34 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Sinheung.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | South Korea | 34.62% |
+| Significant | China | 9.74% |
+| Significant | Japan | 7.78% |
+| Significant | Germany | 8.64% |
+| Significant | Russia | 6.85% |
+| Significant | Indonesia | 4.41% |
+| Notable | Thailand | 3.65% |
+| Significant | Australia | 3.57% |
+| Notable | Estonia | 3.52% |
+| Notable | Hungary | 3.43% |
+| Notable | Lithuania | 3.11% |
+| Notable | Malaysia | 2.93% |
+| Notable | Vietnam | 1.95% |
+| Notable | Philippines | 1.77% |
+| Notable | Bulgaria | 1.45% |
+| Notable | Latvia | 1.35% |
+| Notable | South Africa | 1.23% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** same Larsemann Hills glacial-meltwater-oasis profile shared by Shirayuki and

@@ -17,6 +17,24 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Esperanza.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 36.36% |
+| Significant | Brazil | 18.92% |
+| Significant | Mexico | 17.45% |
+| Significant | UK | 9.83% |
+| Significant | Argentina | 8.35% |
+| Notable | Uruguay | 6.60% |
+| Notable | Chile | 2.49% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** northern peninsula-tip coastal terrain, Weddell Sea-facing, colder/drier than the

@@ -18,6 +18,42 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Sayowa.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | China | 17.39% |
+| Significant | Indonesia | 8.59% |
+| Significant | Australia | 8.27% |
+| Significant | Germany | 8.22% |
+| Significant | UK | 7.97% |
+| Significant | South Korea | 5.07% |
+| Significant | France | 4.82% |
+| Notable | Serbia | 3.22% |
+| Notable | Netherlands | 3.14% |
+| Notable | Slovenia | 3.12% |
+| Notable | Croatia | 3.11% |
+| Notable | Romania | 2.81% |
+| Notable | Lithuania | 2.81% |
+| Notable | Norway | 2.80% |
+| Notable | Belarus | 2.79% |
+| Notable | Latvia | 2.76% |
+| Significant | Japan | 2.71% |
+| Notable | Czech Republic | 1.56% |
+| Notable | Ukraine | 1.55% |
+| Notable | Hungary | 1.54% |
+| Notable | South Africa | 1.54% |
+| Notable | Bulgaria | 1.24% |
+| Notable | Poland | 1.23% |
+| Notable | Estonia | 1.12% |
+| Notable | Slovakia | 0.63% |
+
+*(Total: 100.01%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** small offshore island, separated from the mainland by a bay, sea-ice-covered in

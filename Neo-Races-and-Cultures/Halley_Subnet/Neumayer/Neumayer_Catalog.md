@@ -19,6 +19,43 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Neumayer.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 19.51% |
+| Significant | France | 10.03% |
+| Significant | Germany | 9.39% |
+| Significant | UK | 5.24% |
+| Significant | Brazil | 4.60% |
+| Notable | Sweden | 3.65% |
+| Notable | Lithuania | 3.60% |
+| Notable | Hungary | 3.53% |
+| Notable | Slovakia | 3.32% |
+| Notable | Argentina | 3.16% |
+| Notable | Bulgaria | 3.10% |
+| Notable | Ukraine | 3.05% |
+| Notable | Finland | 3.01% |
+| Notable | Croatia | 3.01% |
+| Notable | Romania | 2.99% |
+| Notable | Chile | 2.99% |
+| Notable | Belgium | 1.89% |
+| Notable | Latvia | 1.87% |
+| Notable | Estonia | 1.87% |
+| Notable | Serbia | 1.82% |
+| Notable | Norway | 1.78% |
+| Notable | Netherlands | 1.56% |
+| Notable | Czech Republic | 1.34% |
+| Notable | Slovenia | 1.27% |
+| Notable | Poland | 1.23% |
+| Notable | South Africa | 1.17% |
+
+*(Total: 99.98%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** same "floating ice shelf, moving ground" profile as Halley (see that city's own

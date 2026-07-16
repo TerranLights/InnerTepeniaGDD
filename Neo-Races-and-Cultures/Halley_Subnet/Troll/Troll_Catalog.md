@@ -19,6 +19,43 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Troll.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 18.60% |
+| Significant | Russia | 9.88% |
+| Significant | UK | 8.44% |
+| Significant | Brazil | 8.38% |
+| Significant | France | 5.52% |
+| Notable | Argentina | 3.43% |
+| Notable | Czech Republic | 3.39% |
+| Notable | Slovakia | 3.39% |
+| Notable | Finland | 3.38% |
+| Notable | Croatia | 3.31% |
+| Notable | Netherlands | 3.28% |
+| Notable | Slovenia | 3.24% |
+| Notable | Serbia | 3.23% |
+| Notable | Bulgaria | 3.10% |
+| Notable | Latvia | 3.08% |
+| Significant | Germany | 2.66% |
+| Notable | Ukraine | 1.57% |
+| Notable | Poland | 1.55% |
+| Notable | Hungary | 1.42% |
+| Notable | Sweden | 1.41% |
+| Notable | Lithuania | 1.37% |
+| Notable | Belarus | 1.34% |
+| Notable | Estonia | 1.27% |
+| Notable | Norway | 1.26% |
+| Notable | South Africa | 1.26% |
+| Notable | Romania | 1.23% |
+
+*(Total: 99.99%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** elevated bedrock nunatak group in dramatic mountain terrain, with a major

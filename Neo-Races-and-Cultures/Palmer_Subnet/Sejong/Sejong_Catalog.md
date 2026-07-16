@@ -18,6 +18,29 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Sejong.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 21.65% |
+| Significant | France | 11.62% |
+| Significant | UK | 11.30% |
+| Significant | Mexico | 11.28% |
+| Significant | Germany | 10.72% |
+| Significant | Brazil | 6.69% |
+| Significant | Italy | 6.13% |
+| Significant | Russia | 6.12% |
+| Significant | South Korea | 5.79% |
+| Notable | Argentina | 4.26% |
+| Notable | Chile | 3.53% |
+| Notable | Uruguay | 0.91% |
+
+*(Total: 100.00%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** mild-climate island terrain, historically hosting nearly a dozen national

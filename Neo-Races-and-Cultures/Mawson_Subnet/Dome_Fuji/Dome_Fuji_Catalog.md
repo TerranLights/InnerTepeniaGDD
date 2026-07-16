@@ -18,6 +18,60 @@
 
 ---
 
+## Population Weighting Reference (for future Phase 1c cultural weighting)
+
+*Source: `Specs/Dome_Fuji.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+
+| Tier | Nation | Share % |
+|------|--------|---------|
+| Primary | USA | 11.20% |
+| Primary | China | 10.13% |
+| Significant | Indonesia | 5.51% |
+| Significant | Australia | 5.16% |
+| Significant | France | 5.00% |
+| Significant | Germany | 4.83% |
+| Significant | South Korea | 4.78% |
+| Significant | Brazil | 3.17% |
+| Significant | Japan | 2.84% |
+| Significant | UK | 2.49% |
+| Significant | Russia | 2.22% |
+| Notable | Malaysia | 1.91% |
+| Notable | Netherlands | 1.90% |
+| Notable | Spain | 1.89% |
+| Notable | Mexico | 1.89% |
+| Notable | Slovenia | 1.87% |
+| Notable | Belarus | 1.83% |
+| Notable | Croatia | 1.82% |
+| Notable | Romania | 1.82% |
+| Notable | Hungary | 1.81% |
+| Notable | Czech Republic | 1.74% |
+| Notable | Latvia | 1.73% |
+| Notable | Canada | 1.73% |
+| Notable | Serbia | 1.72% |
+| Notable | Philippines | 1.71% |
+| Notable | Estonia | 1.69% |
+| Notable | Norway | 1.67% |
+| Notable | Chile | 0.99% |
+| Notable | Finland | 0.98% |
+| Notable | Slovakia | 0.96% |
+| Notable | Bulgaria | 0.95% |
+| Notable | Sweden | 0.94% |
+| Notable | Vietnam | 0.94% |
+| Notable | Ukraine | 0.92% |
+| Notable | New Zealand | 0.85% |
+| Notable | Thailand | 0.84% |
+| Notable | Belgium | 0.84% |
+| Notable | Argentina | 0.84% |
+| Notable | South Africa | 0.80% |
+| Notable | Italy | 0.78% |
+| Notable | Uruguay | 0.77% |
+| Notable | Poland | 0.77% |
+| Notable | Lithuania | 0.76% |
+
+*(Total: 99.99%)*
+
+---
+
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** extreme high-altitude ice-dome polar desert, ~3,810m nominal elevation with an
