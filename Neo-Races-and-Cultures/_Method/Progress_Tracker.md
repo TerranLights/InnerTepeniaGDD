@@ -68,7 +68,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 
 ## Palmer Subnet
 - [x] Esperanza *(PHASE 1C COMPLETE 2026-07-16 — first Palmer subnet city; a "family/genesis city" identity tied to its real founding history; Argentina, despite being the smallest population, holds the strongest combined real-world match plus a literal historical tie to the city's own founding event, found anywhere in the project so far)*
-- [b] Juan Carlos
+- [x] Juan Carlos *(PHASE 1C COMPLETE 2026-07-16 — second Palmer subnet city; fishing-port-plus-archive city; Spain's namesake claim on "Juan Carlos I" is a second, distinct-mechanism instance of symbolic-vs-population-share weight; Italy flagged as a genuinely new "weak on both axes, doesn't fit the Brazil rule" case worth watching)*
 - [b] Marambio
 - [b] Palmer City *(flagged: 43-nation roster — largest single-city undertaking in the project; Phase 1b covered Primary+Significant only)*
 - [b] Port Lockroy
