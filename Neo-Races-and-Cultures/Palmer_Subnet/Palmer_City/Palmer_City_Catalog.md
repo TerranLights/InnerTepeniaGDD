@@ -1,6 +1,12 @@
 # Palmer City — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c, Primary+Significant only) complete 2026-07-16** —
+fourth Palmer subnet city finished. Pre-drafted against `City_Enneagram_Personalities/Palmer_Subnet/
+Palmer_City.md`, `City_Vision_Notes/Palmer_City.md`, and `Palmer_City_Mega_Init.md`'s Inspirational
+Influences research per the new process requirement (see `_Method/Progress_Tracker.md`). Synthesis
+Notes (Phase 2) drafted below as a working first pass, not yet developer-confirmed as final. Full
+43-nation roster still reserved for a later, larger pass.
 
 ---
 
@@ -116,8 +122,186 @@ phase's scope; the full 43-nation roster is reserved for the later Phase 1c pass
 
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, Primary+Significant complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure. Note: given the
-43-nation roster, this city's own cataloging pass will likely be the largest single-city undertaking in
-the whole project — worth planning for accordingly when Phase 1c begins here.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Palmer
+City's own conditions (its Upper Earth tourism economy and its founding-era jazz-record origin) that a
+given population's originating patterns fed into or reinforced — never as "this population does X
+because they're from nation Y."
+
+**Pre-existing research folded in (per the new process requirement):** Palmer City's own Enneagram
+profile is **Feeling (Heart) / Assertive / Positive Outlook** — an identity built entirely around
+image, culture, and felt experience rather than function or endurance, wanting to be seen and
+experienced, presenting warmth and glamour over strain. Its economic engine, per
+`City_Vision_Notes/Palmer_City.md`, is genuine Upper Earth tourism revenue (casinos, nightlife,
+entertainment) — a satisfying answer to the long-standing "why would Upper Earth trade with hated
+Tepenia" question: not necessity, but hypocrisy — public disdain, private vice tourism, via the
+Machu Picchu Base customs gateway. The living music scene is broader than jazz alone: jazz is the
+founding touchstone (from records left behind at the original Palmer Station, adopted by the exile
+population "building a life from nothing" — not a population "bringing" jazz with them, a population
+*discovering and adopting* it), with rockabilly and electroswing as the present-day, ongoing nightlife
+identity — electroswing in particular resonating thematically as an electronic/swing hybrid fitting a
+robot-and-human society.
+
+### USA (Primary, 20.29%)
+
+**Real-world parallel community/communities identified:** Sitka/Kodiak, Alaska (geography — weak) and
+New Orleans (civic type — a real American cultural/entertainment capital with its own historic jazz
+identity, an excellent match given the Miles Davis Boulevard landmark).
+
+#### Surface Culture findings
+- **Music:** the founding jazz touchstone, plus present-day rockabilly and electroswing — a living,
+  evolving scene, not a static historical one, per the developer's own vision notes.
+- **Performances:** casino/nightlife culture serving the Upper Earth tourism economy, echoing New
+  Orleans's own real broadly-accessible entertainment character ("some sort of diversionary pastime for
+  everyone," not one narrow experience).
+
+#### Deep Culture findings
+
+**Concepts of:** identity and felt experience as the primary civic value, directly matching Palmer
+City's own established Feeling/Assertive/Positive-Outlook personality core — status here is about being
+seen and experienced, not about endurance or function the way it is at every Halley subnet city
+cataloged so far.
+
+---
+
+### Canada (Significant, 5.68%)
+
+**Real-world parallel community/communities identified:** Newfoundland's outport communities
+(geography — a strong match) and **Montreal** (civic type) — identified in `Palmer_City_Mega_Init.md`'s
+own existing research as the standout real-world precedent for this entire city, not just a generic
+food/hospitality reuse.
+
+**Why Montreal is the standout match:** Montreal was a genuine nerve center of jazz in North America for
+nearly fifty years (1920-1970), a reputation seeded specifically during American Prohibition — a more
+restrictive neighboring jurisdiction (the USA) manufactured demand for a more permissive place next
+door, exactly the dynamic already established for Palmer City relative to Upper Earth. Montreal's jazz
+history is also rooted specifically in Little Burgundy, home to Montreal's historic Black community,
+drawn there by railway-portering jobs — a real-world echo of Palmer City's own founding story: a
+Black-originated art form's records, adopted by an exile population building a life from nothing,
+becoming a defining civic export.
+
+#### Surface Culture findings
+- **Music, Language:** Montreal's own genuine bilingual jazz-nightlife culture, the closest real-world
+  structural twin found anywhere in this project for Palmer City's own founding mechanism.
+
+#### Deep Culture findings
+
+**Concepts of:** a restrictive-neighbor-manufactures-demand dynamic as a lived, structural fact of civic
+identity — not just an economic mechanism but a genuine self-understanding: a place defined partly by
+being *the alternative* to somewhere stricter.
+
+---
+
+### Brazil (Significant, 9.68%)
+
+**Real-world parallel community/communities identified:** no domestic geography match (weak) — carried
+by Rio de Janeiro (civic type), Brazil's own real cultural/entertainment capital, an excellent match.
+
+#### Surface Culture findings
+- **Music, Dances, Performances:** Rio's own real carnival-and-entertainment civic identity, a strong,
+  direct contributor to Palmer City's broader entertainment-capital register.
+
+#### Deep Culture findings
+
+**Concepts of:** public festivity and spectacle as civic pride, converging directly with Palmer City's
+own Positive-Outlook/Assertive personality core — unlike Sanay or Esperanza, where Brazil's festive
+register reads as a *counterpoint* to a function-first dominant culture, here it converges with the
+dominant culture rather than contrasting it.
+
+---
+
+### France (Significant, 9.54%)
+
+**Real-world parallel community/communities identified:** no domestic geography match — carried by
+Paris (civic type), France's own cultural/entertainment capital, a strong match.
+
+#### Surface Culture findings
+- **Fashion, Arts & Crafts:** Paris's own real reputation for cultural sophistication and style,
+  contributing a more refined register alongside the jazz/nightlife-driven populations above.
+
+#### Deep Culture findings
+
+**Concepts of:** cultural sophistication as its own form of the city's broader "identity and felt
+experience" value — a more refined variant of the same underlying Feeling-center civic personality.
+
+---
+
+### Germany (Significant, 9.51%)
+
+**Real-world parallel community/communities identified:** no domestic geography match — carried by
+Berlin (civic type), Germany's own cultural/entertainment capital, a strong match.
+
+#### Surface Culture findings
+- **Music, Performances:** Berlin's own real nightlife/club culture, a genuine contributor to Palmer
+  City's electroswing-and-beyond present-day music scene specifically.
+
+#### Deep Culture findings
+
+**Concepts of:** nightlife and subcultural identity as civic pride, converging with the broader
+entertainment-capital register while contributing Berlin's own specific edge/subculture flavor.
+
+---
+
+### UK (Significant, 5.54%)
+
+**Real-world parallel community/communities identified:** the Falkland Islands / South Georgia
+(geography — reused from elsewhere in the subnet) — carried by London (civic type), the UK's own
+cultural/entertainment capital.
+
+#### Surface Culture findings
+- **Performances, Literature:** London's own real broad-spectrum cultural-capital identity.
+
+#### Deep Culture findings
+
+**Concepts of:** cultural breadth and cosmopolitanism, converging with the broader entertainment-capital
+register shared across this city's populations.
+
+---
+
+### Mexico (Significant, 5.71%)
+
+**Real-world parallel community/communities identified:** no domestic geography match (flagged
+weakest) — carried by Mexico City (civic type), Mexico's own cultural/entertainment capital, a strong
+match.
+
+#### Surface Culture findings
+- **Music, Food:** Mexico City's own real cultural-capital density and diversity, distinct in flavor
+  from Veracruz's own port-town register used for this same nation at Esperanza and Marambio.
+
+#### Deep Culture findings
+
+**Concepts of:** urban cultural density and diversity as civic pride, converging with the broader
+entertainment-capital register.
+
+---
+
+## Synthesis Notes (Phase 2 — draft, Primary+Significant scope only, not yet developer-confirmed as
+final)
+
+**Working name: "Palmerite"** *(or "Palmerian" — genuinely uncertain which reads better; placeholder
+only, same status as every other city's working name so far).*
+
+Palmer City is the first city cataloged where every population converges on the same underlying civic
+value — identity, culture, and felt experience as the point of the place, matching the city's own
+established Feeling/Assertive/Positive-Outlook Enneagram core almost exactly. Unlike every city
+cataloged so far, there's no function-vs-warmth split here (contrast Sanay's German discipline vs.
+Brazilian counterpoint, or Belgrano's maker-city pride) — six populations each supply a different
+*flavor* of the same entertainment-capital identity (New Orleans/Montreal jazz-and-nightlife, Rio
+carnival, Paris refinement, Berlin subculture edge, London cosmopolitanism, Mexico City density) rather
+than competing values.
+
+Canada's Montreal match is the standout finding of this pass — already identified in existing Megasheet
+research as the closest real-world structural twin to Palmer City's own founding mechanism (a stricter
+neighboring jurisdiction manufacturing demand for a more permissive place, and a marginalized
+community's music becoming a lasting civic export), rather than a generic reuse the way it read in an
+earlier draft of this entry.
+
+**Worth carrying into the eventual full 43-nation pass:** the existing Megasheet research also flags
+**St. Petersburg** as a secondary real-world precedent — not tied to a Primary/Significant nation
+(Russia sits at 1.20%, Notable tier), but structurally important: a "window to the West," a deliberately
+outward-facing point where a nation that otherwise turned its back on the world lets a controlled amount
+of it back in, on its own terms, via the Machu Picchu Base gateway. This is a genuine structural feature
+of Palmer City's civic identity that the current Primary/Significant scope can't fully capture — worth
+flagging explicitly for whoever does the full 43-nation pass, rather than letting it fall out of scope
+silently.
