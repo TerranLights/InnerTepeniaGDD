@@ -77,7 +77,20 @@ infrastructure making it the subnet's primary aviation access point.
 - **UK (Significant):** No single UK city combines both roles as strongly; the closest partial match
   is Prestwick, Scotland (a real dedicated air-freight hub) paired loosely with a nearby port; flagged
   as a weaker, split match.
-- **Brazil (Significant):** No strong domestic match combining both roles — flagged as weak.
+- **Brazil (Significant):** No strong domestic match combining both roles specifically — but see the
+  correction below; this population's presence at Belgrano is not actually weak once the city's full
+  shipping picture is accounted for.
+
+**Correction, 2026-07-16 — Belgrano is also an Atlantic-coast receiving point for the established South
+America shipping corridor.** Per `City_Vision_Notes/Marambio.md`, South America is Marambio's confirmed
+Upper Earth shipping partner (the Palmer subnet's counterpart to South Africa/Halley, New Zealand/Ross,
+Australia/Dumont d'Urville-Mirny-Mawson); Marambio receives from South America and ships onward across
+the Weddell Sea specifically to "the Atlantic coastal cities" — which includes Belgrano, on the same
+Weddell Sea coast. This means Belgrano isn't only a South African freighter-receiving port; it's also on
+the receiving end of a genuine South American shipping route, via Marambio. Brazil, one of the South
+America shipping-partner nations, therefore has a real, established trade connection to Belgrano that
+the original City-Type matching (which only searched for a single combined aviation+port match) missed.
+See the Per-Nation Entries below for the corrected Brazil entry.
 
 **Secondary type, developer note added 2026-07-16:** Belgrano also has a fairly well-developed
 garage/warehouse/industrial culture, though not as developed as its aeronautics identity above.
@@ -168,26 +181,33 @@ logistics-hub culture treats weather disruption as a routine scheduling variable
 
 ### Brazil (Significant, 13.73%)
 
-**Real-world parallel community/communities identified:** genuinely weak across all three dimensions —
-no strong domestic geography match (flagged weakest in Phase 1b; the closest available, Rio Grande do
-Sul's cooler southern coast, is still far milder than Belgrano's profile), no strong aviation/port
-match, and no strong garage/industrial match either. This is the thinnest-anchored population found so
-far in this project, and is treated honestly as such rather than padded out.
+**Real-world parallel community/communities identified:** weak on geography (flagged weakest in Phase
+1b; the closest available, Rio Grande do Sul's cooler southern coast, is still far milder than
+Belgrano's profile) and no single city combining aviation+port or garage/industrial roles — but
+**corrected 2026-07-16**: Belgrano is also an Atlantic-coast receiving point for the established South
+America shipping corridor (see City-Type Parallels above, and `City_Vision_Notes/Marambio.md`) — Brazil,
+one of the confirmed South American shipping-partner nations, has a real trade connection here that the
+original single-city City-Type search missed by looking for one combined match instead of checking the
+corridor-level trade relationship. Santos (Brazil's largest port, the same match used at Sanay,
+Esperanza, and Marambio) is the anchor.
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora warmth and communal food-sharing culture persists (the
-  same baseline pattern found at Sanay), but noticeably less textured here — there's no strong local
-  anchor (no Belgrano equivalent of Sanay's Santos-port match) to give it Sanay-level specificity.
+- **Food, Music:** the same communal warmth and festive-counterpoint register established at Sanay and
+  Esperanza, now genuinely anchored here via the South America shipping corridor rather than a
+  weak/absent local match.
 
 #### Deep Culture findings
 
-**Concepts of:** a more relational, flexible sense of time persists as a general diaspora trait, but
-without a strong structural City-Type match to root it in Belgrano's own civic function the way it was
-rooted in Sanay's port-shift rhythm.
+**Concepts of:** a relational, flexible sense of time, now rooted in the actual Marambio-to-Belgrano
+shipping relationship rather than floating as an unanchored general diaspora trait — consistent with
+how this population reads at every other city where it holds a genuine port-trade connection (Sanay,
+Esperanza, Marambio).
 
-**Open flag:** this entry is the weakest-anchored in the project so far across all three matching
-dimensions simultaneously. Worth a deliberate second pass once more cities are done and there's a wider
-base of Brazilian-diaspora findings elsewhere in Tepenia to draw a firmer throughline from.
+**Corrected finding:** this was previously flagged as the weakest-anchored population found anywhere in
+the project. That finding no longer holds once the South America shipping-corridor connection (missed
+in the original single-city City-Type search) is accounted for — a useful caution, alongside Marambio's
+own similar correction, that "weak on both axes" findings should be double-checked against
+inter-city/regional trade relationships before being treated as settled.
 
 ---
 
@@ -241,12 +261,14 @@ Abowasa (there, Germany), now appearing a second time with a different nation an
 looks like a real, recurring structural feature of how these neo-cultures form, not a one-off: a city's
 strongest geographic or civic-type match doesn't reliably belong to its largest population.
 
-Brazil (13.73%, the *second-largest* population at Belgrano) is simultaneously the **weakest-anchored**
-population found anywhere in this project so far — no strong match on any of the three dimensions
-tracked here. This is worth flagging explicitly for the developer rather than smoothing over: either
-this points to a genuine gap in the Phase 1b/1b-ii matching for Brazilian-diaspora populations in harsh
-coastal-industrial settings specifically, or it's simply an honest finding that this particular
-population's cultural imprint on Belgrano is real but genuinely less textured than its population share
-alone would suggest. Recommend revisiting once a few more cities are done, to see if a firmer
-Brazilian-diaspora throughline emerges across multiple weak-match cities rather than trying to force one
-here in isolation.
+**Corrected 2026-07-16, during Marambio's own Phase 1c pass:** Brazil (13.73%, the *second-largest*
+population at Belgrano) was originally flagged here as the weakest-anchored population found anywhere
+in the project — no strong match on any of the three dimensions tracked at the time. That finding has
+been superseded: Belgrano is also an Atlantic-coast receiving point for the already-established South
+America shipping corridor (Marambio receives from South America and ships onward to the Atlantic
+coastal cities; see `City_Vision_Notes/Marambio.md`), which the original single-city City-Type search
+missed by only looking for one combined aviation+port match rather than checking the corridor-level
+trade relationship. Brazil's presence at Belgrano is genuinely anchored via Santos, the same match used
+at Sanay, Esperanza, and Marambio. The methodological lesson worth carrying forward: a "weak on all
+axes" finding should be cross-checked against inter-city/regional trade relationships before being
+treated as settled — see Marambio's own Synthesis Notes for the fuller version of this caution.

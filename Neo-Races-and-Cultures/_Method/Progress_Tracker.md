@@ -1,5 +1,20 @@
 # Neo-Races and Neo-Cultures — Progress Tracker
 
+**PROCESS REQUIREMENT, added 2026-07-16 during Marambio's correction pass — read before starting any
+new city's Phase 1c work:** check that city's own `City_Megasheets/[Subnet]/[City]/` files
+(Mega_Init, Full_Extrapolation, Cross_Reference_Synthesis), `City_Enneagram_Personalities/[Subnet]/
+[City].md`, and `City_Vision_Notes/[City].md` (if it exists) *before* drafting Per-Nation Entries — not
+just `Specs/[City].md`. Marambio's first pass missed an already-established, far superior real-world
+match (Duisburg, spanning both of the city's dual functions in one precedent — found in
+`Marambio_Mega_Init.md`'s own "Inspirational Influences" research), an already-established personality
+core (Instinctive/Gut/Assertive/Competency, from the Enneagram file), and a striking founding-drift
+confirmation (Argentina at 0.74%, from the Cross-Reference Synthesis) — all of which existed in the
+repo already and should have anchored the entry from the start rather than being bolted on after the
+fact. **The 10 cities completed before this note (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer,
+Princess Elisabeth, Troll, Esperanza, Juan Carlos) have not been retroactively audited against this
+requirement** — flagged as a known gap, not yet resolved; revisit if time allows, but don't let it block
+forward progress on the remaining cities.
+
 **Status, updated 2026-07-16:** all 35 cities now have their City Snapshot, their Real-World Parallel
 Locations (Phase 1b, terrain/geography-based), their City-Type Parallels (Phase 1b-ii,
 functional/civic-identity-based — port cities, aviation hubs, research towns, famous leisure
@@ -34,7 +49,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 
 ## Halley Subnet
 - [x] Abowasa *(city-type resolved 2026-07-16: a scaled-down twin-settlement residential/commuter community for workers commuting to Sanay/Troll, echoing Budapest/Twin Cities/Kansas City at a much smaller scale; PHASE 1C COMPLETE 2026-07-16 — second city finished, Germany/Wanne-Eickel disproportionately strongest narrative match despite being smallest population share)*
-- [x] Belgrano *(also has a secondary garage/warehouse/industrial culture alongside its primary aeronautics/port identity — developer note added 2026-07-16; PHASE 1C COMPLETE 2026-07-16 — third city finished, Tepenia's clearest "maker city" synthesis so far; Brazil flagged as the weakest-anchored population found anywhere in the project to date)*
+- [x] Belgrano *(also has a secondary garage/warehouse/industrial culture alongside its primary aeronautics/port identity — developer note added 2026-07-16; PHASE 1C COMPLETE 2026-07-16 — third city finished, Tepenia's clearest "maker city" synthesis so far; CORRECTED 2026-07-16 during Marambio's own pass: Brazil is NOT weak here after all — Belgrano is an Atlantic-coast receiving point for the established South America shipping corridor, missed in the original single-city City-Type search)*
 - [x] Halley *(no true real-world non-polar analog for its moving-ice-shelf terrain — flagged, substitute category used instead; PHASE 1C COMPLETE 2026-07-16 — fourth city finished; unique dual-impermanence identity, moving ground plus pure-waypoint civic role, gives USA/Canada outsized cultural influence despite not being the largest populations)*
 - [x] Lazar *(PHASE 1C COMPLETE 2026-07-16 — fifth city finished; Tepenia's clearest "big city" synthesis, all six populations well-textured since the megacity City-Type is broad; Brazil's strong showing here disproves an over-generalized "Brazil matches weakly" reading from Belgrano/Halley; surfaced a real "largest city, not the capital" civic tension)*
 - [x] Neumayer *(shares Halley's moving-ice-shelf terrain and its "no true analog" flag; PHASE 1C COMPLETE 2026-07-16 — sixth city finished; Tepenia's clearest research-institute city, multiple national prestige-hierarchies coexisting; Germany confirmed as founding-operator-plus-dual-anchored-plus-substantial-population, a genuinely foundational rather than just-present population; Brazil's "weak at small purpose-built towns, strong at large organic cities" pattern now confirmed across 3 cities)*
@@ -69,7 +84,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 ## Palmer Subnet
 - [x] Esperanza *(PHASE 1C COMPLETE 2026-07-16 — first Palmer subnet city; a "family/genesis city" identity tied to its real founding history; Argentina, despite being the smallest population, holds the strongest combined real-world match plus a literal historical tie to the city's own founding event, found anywhere in the project so far)*
 - [x] Juan Carlos *(PHASE 1C COMPLETE 2026-07-16 — second Palmer subnet city; fishing-port-plus-archive city; Spain's namesake claim on "Juan Carlos I" is a second, distinct-mechanism instance of symbolic-vs-population-share weight; Italy flagged as a genuinely new "weak on both axes, doesn't fit the Brazil rule" case worth watching)*
-- [b] Marambio
+- [x] Marambio *(PHASE 1C COMPLETE 2026-07-16 — third Palmer subnet city; two cultural pillars, aviation (USA/Germany/UK) and South America shipping-corridor maritime trade (Brazil, via the already-established `City_Vision_Notes/Marambio.md` canon — also corrected Belgrano's own Brazil entry). CORRECTED same day: Eocene fossil beds are geology, not a driver of population culture — Canada's fossil-culture framing walked back to honestly weak. Spain/Mexico remain honestly weak on all dimensions (not South American nations, so the shipping corridor doesn't anchor them); Italy (Juan Carlos) and Spain/Mexico (here) are now three instances of "large population, no strong anchor," still unexplained)*
 - [b] Palmer City *(flagged: 43-nation roster — largest single-city undertaking in the project; Phase 1b covered Primary+Significant only)*
 - [b] Port Lockroy
 - [b] Rothera

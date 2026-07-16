@@ -9,8 +9,10 @@ All eight Halley subnet cities now have complete Per-Nation Entries and draft Ph
   The project's own first worked Phase 1c test case; see `Phase1c_Test_Run_Sanay.md`.
 - **Abowasa** ("Abowasan") — quiet, domestic-first commuter identity; Germany's outsized founding-myth
   resonance despite being the smallest population.
-- **Belgrano** ("Belgranan") — three-way "maker city" convergence (USA/Germany/UK); Brazil's
-  weakest-anchored showing in the project at the time.
+- **Belgrano** ("Belgranan") — three-way "maker city" convergence (USA/Germany/UK). Brazil was
+  originally flagged as the weakest-anchored population in the project at the time; **corrected
+  2026-07-16** during Marambio's own Phase 1c pass — Belgrano is an Atlantic-coast receiving point for
+  the established South America shipping corridor, missed in the original single-city City-Type search.
 - **Halley** ("Halleyan") — dual impermanence (moving ground plus a pure-waypoint civic role) with
   three distinct cultural postures toward instability.
 - **Lazar** ("Lazaran") — Tepenia's clearest "big city," all six populations well-textured;

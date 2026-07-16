@@ -23,8 +23,11 @@ relevance).
   commutes to Sanay's port or Troll's airfield. No notable leisure/cultural landmark.
 - **Belgrano** — Aviation/airfield hub + major port (one of two South African freighter receiving
   ports, alongside Sanay), PLUS a fairly well-developed secondary garage/warehouse/industrial culture
-  *(developer note added 2026-07-16)* — present but not as developed as its aeronautics identity. No
-  notable leisure/cultural landmark.
+  *(developer note added 2026-07-16)* — present but not as developed as its aeronautics identity. ALSO
+  an Atlantic-coast receiving point for the established South America shipping corridor via Marambio
+  *(clarified 2026-07-16, sourced from `City_Vision_Notes/Marambio.md`, not a new addition — corrects
+  an earlier Phase 1c pass that flagged Brazil as unanchored here before this corridor was accounted
+  for)*. No notable leisure/cultural landmark.
 - **Halley** — Pure highway-gateway town; no significant independent economy beyond its Hwy 59 gateway
   role to the South Pole route. No notable leisure/cultural landmark.
 - **Lazar** — Administrative/commercial hub at megacity scale; Tepenia's largest city by population,
@@ -99,8 +102,12 @@ relevance).
   and Palmer subnets) + family-settlement/civic-historical significance. No notable leisure landmark.
 - **Juan Carlos** — Maritime/fishing + administrative (origin of Tepenia's first bureaucratic/customs
   archive). No notable leisure landmark.
-- **Marambio** — Aviation/airfield hub (the Palmer subnet's primary aviation hub) + scientific
-  (paleontology, given the Eocene fossil beds). No notable leisure landmark.
+- **Marambio** — Aviation/airfield hub (the Palmer subnet's primary aviation hub) + maritime trade via
+  the established South America shipping corridor (clarified 2026-07-16, sourced from
+  `City_Vision_Notes/Marambio.md` — ships onward to Atlantic coastal cities including Belgrano and
+  Sanay). The Eocene fossil beds are a genuine geological/scientific fact about the city but *not* a
+  defining cultural characteristic of its population *(developer correction 2026-07-16)* — kept as a
+  geography note, not a City-Type pillar. No notable leisure landmark.
 - **Palmer City** — Cultural/entertainment capital of pre-war Tepenia (entertainment and hospitality
   industries central to its economy) + port-of-entry/administrative (first customs point; site of the
   original Falkland Treaty exile arrival). Landmark: Miles Davis Boulevard, a real jazz-record-culture

@@ -1,6 +1,9 @@
 # Marambio — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — third Palmer subnet city
+finished. Synthesis Notes (Phase 2) drafted below as a working first pass, not yet
+developer-confirmed as final.
 
 ---
 
@@ -60,23 +63,273 @@ matches should favor real-world sedimentary/fossil-rich terrain, ideally with an
 
 ## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
 
-**City type:** aviation/airfield hub ("the most significant aviation hub in the Palmer subnet") plus a
-genuine scientific/paleontology identity given the Eocene fossil beds.
+**City type:** aviation/airfield hub ("the most significant aviation hub in the Palmer subnet") is
+Marambio's primary civic/cultural driver, plus an already-established South America shipping-partner
+port function (see below). **Correction, developer note 2026-07-16:** the Eocene fossil beds are a
+genuine, established geological/scientific fact about Marambio (kept in the City Snapshot and
+Real-World Parallel Locations sections), but paleontology is *not* a defining cultural characteristic
+of the population the way aviation and shipping are — it's real, notable science happening at the
+city, not something that shapes how residents actually live or organize their civic identity. Downgraded
+accordingly below and in the Per-Nation Entries.
 
-- **USA (Primary):** Memphis, Tennessee — same major air-cargo-hub match used at Troll; the
-  paleontology angle has no single comparably strong domestic aviation-hub overlap, so this entry
-  favors the aviation match specifically.
-- **Germany (Significant):** Leipzig/Halle Airport — same DHL air-cargo-hub match used at Troll.
+- **USA (Primary):** Memphis, Tennessee — same major air-cargo-hub match used at Troll.
+- **Germany (Significant):** **Duisburg** — corrected 2026-07-16 after checking
+  `Marambio_Mega_Init.md`'s own existing "Inspirational Influences" research, which already identified
+  Duisburg (home to the world's largest inland port, 40M+ tons of cargo/year across ~20,000 vessels,
+  trimodal barge/rail/truck transfer, and a confirmed Western terminus of China's Belt and Road
+  Initiative) as the single standout real-world precedent for Marambio's own *dual* air-and-sea
+  identity — a far more precise match than the earlier Leipzig/Halle Airport reuse, which only covered
+  the aviation half. Duisburg maps onto both of Marambio's confirmed functions in one real city, the
+  same way Marambio itself combines them.
 - **UK (Significant):** East Midlands Airport — same UK air-freight-hub match used at Troll.
 - **Spain (Significant):** No standout domestic aviation-hub match — flagged as weak.
-- **Canada (Significant):** No standout domestic aviation-hub match with a comparable
-  paleontology overlap — flagged as weak, though Alberta's Dinosaur Provincial Park (used for the
-  fossil-bed geological match) is worth keeping in mind for Phase 2 thematic synthesis.
+- **Canada (Significant):** No standout domestic aviation-hub match — flagged as weak. Alberta's
+  Dinosaur Provincial Park remains a valid Phase 1b *geography* match, but per the correction above, it
+  is not treated as a driver of this population's civic culture.
 - **Mexico (Significant):** No standout domestic match — flagged as weak.
 - **Brazil (Significant):** No standout domestic match — flagged as weak.
 
+**Secondary type, corrected 2026-07-16 against existing established canon:** this isn't a new
+developer addition — it's already established in `City_Vision_Notes/Marambio.md` (2026-07-04 session)
+and predates this Neo-Races pass entirely. **South America is Marambio's confirmed Upper Earth
+shipping partner**, the fourth and last piece of an already-established framework (South Africa for the
+Halley subnet, New Zealand for the Ross region, Australia for the Dumont d'Urville Sea/Mirny/Mawson
+coast). Marambio receives from South America and ships onward across the Weddell Sea to the Atlantic
+coastal cities (which includes, though isn't limited to, Belgrano and Sanay) — a working port alongside
+the airfield, "equally important" per the developer's own vision notes, not a minor secondary function.
+A related but distinct route also exists via Esperanza (a documented Belgrano–Palmer City trade route,
+referenced through a character's piano shipments) — Marambio and Esperanza are confirmed as
+complementary, not competing, pieces of the same overall corridor, with the exact division of labor
+between them still open.
+
+**This means the real port-dimension match should track South American nations specifically**, not
+any port-city population generically:
+
+- **Brazil (Significant):** Santos — same major Brazilian port match used at Sanay and Esperanza, and
+  genuinely fitting here given Brazil's own status as one of the South American shipping-partner
+  nations, not just a generic port-city reuse.
+- **Argentina, Chile, Uruguay (Notable tier, founding wave — outside this pass's Primary/Significant
+  scope, but worth flagging explicitly):** these are the nations most directly tied to the actual
+  established South America shipping-partner canon and to Marambio's own Argentine Air Force founding
+  heritage; a future Notable-tier pass at this city should prioritize them over extending Vigo/Veracruz-
+  style matches to Spain/Mexico.
+- **Spain, Mexico (Significant):** genuinely present as populations, but their earlier "port" entries
+  (Vigo, Veracruz) were a mismatch with the actual established South America-shipping-partner lore —
+  neither is a South American nation. Reverted to their original, honestly weak standing (see Per-Nation
+  Entries below) rather than forcing an unearned port anchor.
+- **USA, Germany, UK (Primary/Significant):** already strongly anchored via the aviation-hub match
+  above; not part of the South America shipping-partner dimension specifically.
+
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Marambio's
+own conditions (its aviation-hub function and its established South America shipping-corridor role)
+that a given population's originating patterns fed into or reinforced — never as "this population does
+X because they're from nation Y." The Eocene fossil beds are a real geological fact about the city but
+are not treated as a cultural driver (see the correction in City-Type Parallels above).
+
+**A structural note before the per-nation entries, reflecting two corrections made during this pass:**
+(1) Marambio's real port function is the already-established South America shipping-partner corridor
+(`City_Vision_Notes/Marambio.md`), not a new addition — this anchors Brazil (a genuine South American
+nation) via Santos, but does *not* anchor Spain or Mexico, whose earlier port-match entries here were a
+mismatch and have been reverted to honestly weak; (2) the Eocene fossil beds are geology, not a
+population-culture driver, so Canada's earlier fossil-hunting-culture framing has likewise been walked
+back to honestly weak. Marambio ends this pass with three genuinely thin populations (Spain, Mexico,
+Canada) rather than the three originally flagged (Spain, Mexico, Brazil) — Brazil turned out to be
+well-anchored after all, while Canada turned out to be weaker than first written.
+
+### USA (Primary, 27.59%)
+
+**Real-world parallel community/communities identified:** St. Paul Island, Pribilofs (geography —
+modest match) and Memphis, Tennessee (civic type — the same major air-cargo-hub match used at Troll).
+
+#### Surface Culture findings
+- **Language:** air-cargo logistics culture, the third appearance of a Memphis-derived match in this
+  project (after Troll and Byrd) — expected, given Memphis's outsized real-world role as the archetypal
+  global air-cargo hub.
+
+#### Deep Culture findings
+
+**Concepts of:** aviation-logistics competence as a primary status marker, echoing the same value found
+at Troll.
+
+---
+
+### Spain (Significant, 14.19%, largest Significant population)
+
+**Real-world parallel community/communities identified:** no strong match on either geography or
+City-Type — the second confirmed instance (after Italy at Juan Carlos) of a large population with no
+strong anchor on any dimension. Marambio's actual port function is tied to the established South
+America shipping-partner corridor (see City-Type Parallels above), which Spain isn't part of — an
+earlier draft of this entry incorrectly borrowed Spain's Vigo match from Juan Carlos to paper over that
+gap; corrected back to honestly weak.
+
+#### Surface Culture findings
+- **Food, Music:** general Spanish coastal/maritime cultural baseline persists without local-specific
+  texture.
+
+#### Deep Culture findings
+
+*(Thin, honestly, consistent with Italy's treatment at Juan Carlos — not padded out further.)*
+
+---
+
+### Mexico (Significant, 14.10%)
+
+**Real-world parallel community/communities identified:** no strong match on either dimension — a
+second weak-on-both population at the same city as Spain. Also not part of the South America
+shipping-partner corridor that anchors Marambio's real port function; the earlier Veracruz-derived
+entry here was corrected for the same reason as Spain's above.
+
+#### Surface Culture findings
+- **Food, Music:** general Mexican cultural baseline persists without local-specific texture, distinct
+  from Spain's own baseline in the same way Mexico and Brazil were kept deliberately distinct at
+  Esperanza, even without a strong local anchor to sharpen either further here.
+
+#### Deep Culture findings
+
+*(Thin, honestly, for the same reason as Spain above.)*
+carrying Veracruz's own distinct historic-port gravitas rather than Vigo's fishing-port character.
+
+---
+
+### UK (Significant, 13.48%)
+
+**Real-world parallel community/communities identified:** The Jurassic Coast, Dorset (geography — a
+real fossil-rich sedimentary coastline, a genuine terrain match) and East Midlands Airport (civic type
+— the same UK air-freight-hub match used at Troll, and this population's actual cultural anchor).
+
+**Correction, 2026-07-16:** the Jurassic Coast match is a legitimate Phase 1b geography parallel, but
+per the developer's note that paleontology isn't a defining cultural trait at Marambio, this entry no
+longer treats it as a second civic-identity anchor — East Midlands Airport carries the actual cultural
+weight here.
+
+#### Surface Culture findings
+- **Language:** air-freight professional culture (East Midlands heritage).
+
+#### Deep Culture findings
+
+**Concepts of:** aviation-logistics precision, converging with the USA and Germany populations' own
+entries below via a genuine, strong City-Type match.
+
+---
+
+### Canada (Significant, 7.21%)
+
+**Real-world parallel community/communities identified:** Dinosaur Provincial Park, Alberta (geography
+— a real terrain match, kept as a Phase 1b finding) — no standout domestic aviation-hub match
+(City-Type — weak).
+
+**Correction, 2026-07-16:** this entry previously leaned on paleontology/fossil-hunting as a driving
+cultural characteristic. Per the developer's note, that's a geological fact about the city, not a
+cultural one — Canada's City-Type match is genuinely weak (no strong domestic aviation-hub precedent),
+and this entry is revised to reflect that honestly rather than substituting the geography match for a
+cultural anchor it doesn't actually supply.
+
+#### Surface Culture findings
+- **Food, Music:** general Canadian cultural baseline persists without local-specific texture, given
+  the weak City-Type match.
+
+#### Deep Culture findings
+
+*(Thin, honestly — consistent with how weak City-Type matches are treated elsewhere in this project,
+now that the fossil-bed geography isn't being used to paper over it.)*
+
+---
+
+### Germany (Significant, 6.59%)
+
+**Real-world parallel community/communities identified:** no strong domestic geography match (weak) —
+carried by Duisburg (civic type, corrected 2026-07-16), the single strongest City-Type match found
+anywhere in this project for a *dual*-function city: the world's largest inland port (40M+ tons/year,
+~20,000 vessels) combined with trimodal barge/rail/truck transfer, and a confirmed Western terminus of
+China's Belt and Road Initiative — mapping onto both of Marambio's own confirmed functions (aviation
+and maritime shipping) at once, not just one half.
+
+#### Surface Culture findings
+- **Language, Literature:** transcontinental-corridor logistics culture — Duisburg's own real identity
+  as a terminus point where distant trade networks physically converge, echoing Marambio's own role as
+  the connecting node between South American shipping and the Weddell Sea's Atlantic-coastal network.
+
+#### Deep Culture findings
+
+**Concepts of:** dual-mode logistics competence as a single, unified value rather than two separate
+ones — this population's real-world precedent doesn't split aviation pride from maritime pride the way
+the rest of this city's populations do; Duisburg's own real character holds both at once, giving this
+population's civic presence an unusually integrated relationship to Marambio's own twin functions.
+
+---
+
+### Brazil (Significant, 6.50%, smallest population)
+
+**Real-world parallel community/communities identified:** no strong match on the aviation/paleontology
+City-Type (consistent with the established rule — Brazil matches weakly at narrow, specialized
+single-mission City-Types) — but Santos (secondary port City-Type, added 2026-07-16) is a strong match,
+the same major Brazilian port used at Sanay and Esperanza.
+
+#### Surface Culture findings
+- **Food, Music:** the same communal warmth and festive-counterpoint register established at Sanay and
+  Esperanza, reappearing here via the port connection rather than the aviation/paleontology function.
+
+#### Deep Culture findings
+
+**Concepts of:** relational, festive counterpoint via the regional-port route, consistent with Brazil's
+own established "strong at large organic port cities" pattern — the aviation/paleontology weakness
+still holds, but no longer leaves this population without any anchor at all.
+
+---
+
+## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+
+**Working name: "Marambian."** *(Placeholder, same status as every other city's working name so far.)*
+
+Marambio's public identity centers on **two** genuine cultural pillars: aviation-logistics precision
+(USA, UK, via Memphis and East Midlands) and maritime trade via the already-established South America
+shipping corridor (Brazil, via Santos — the same match that anchors Brazil at Sanay and Esperanza).
+Germany is unusual in holding a single real-world precedent (Duisburg) that spans *both* pillars at
+once — the strongest "holds the whole city's dual identity in one match" case found anywhere in this
+project. The Eocene fossil beds remain a genuine, notable geological/scientific fact about the city —
+kept in its geography and Notable Locations material — but per the developer's explicit correction,
+paleontology is not a driver of the *population's* actual culture the way aviation and shipping are,
+and Canada's earlier fossil-hunting-culture framing was walked back accordingly: Canada's real
+City-Type match here is honestly weak.
+
+**Already-established personality core, worth building the whole synthesis around:** per
+`City_Enneagram_Personalities/Palmer_Subnet/Marambio.md` (already-existing canon, not new here),
+Marambio's civic personality is **Instinctive (Gut) / Assertive / Competency** — an identity built
+entirely on real physical throughput and capability, not analysis or self-presentation. This tracks
+cleanly onto every population's entry above: none of them are framed around reflection, prestige, or
+self-narrative (contrast Neumayer's competing research-prestige hierarchies) — they're framed around
+what they can actually move, build, or ship. `Marambio_Cross_Reference_Synthesis.md` independently
+confirms this same pattern from a different angle: Marambio is "a city whose whole civic energy goes
+into function... rather than self-reflection," to the point of apparently never having noticed its own
+version of Janbogo's signature "founding culture outlives its founders" phenomenon.
+
+**A direct, striking confirmation of the Halley-subnet founding-drift pattern:** Argentina, Marambio's
+own founding nation (Argentine Air Force base since 1969), has drifted to just **0.74%** of the present
+population — the single deepest founding-nation erosion documented anywhere in the Palmer subnet, per
+`Marambio_Cross_Reference_Synthesis.md`'s own Finding 3. This is the same structural pattern already
+seen at Sanay (South Africa) and Abowasa (Finland/Sweden) in the Halley subnet, now confirmed
+independently in a different subnet by the project's own existing research rather than freshly derived
+here — good cross-subnet validation that this is a real, general Tepenian pattern rather than a
+Halley-specific coincidence.
+
+**Two corrections converged on this city in the same pass, both worth carrying forward as general
+cautions:** (1) a real-world geological/scientific fact about a city (fossils, in this case) doesn't
+automatically translate into a defining *cultural* trait for its population — the two need to be
+checked separately, not assumed to travel together; (2) Spain and Mexico's earlier "port" match here
+was a mismatch — Marambio's actual established shipping partner is South America specifically, not any
+port-nation generically, so only Brazil (a genuine South American nation) is anchored by it. Spain and
+Mexico remain honestly weak on all dimensions at this city, alongside Italy's own similar case at Juan
+Carlos — three instances now of "large population, no strong anchor," still not explained by a settled
+rule, and worth a dedicated look once more subnets are done.
+
+**Process note for future cities:** this pass under-researched Marambio the first time through —
+`Marambio_Mega_Init.md`, `Marambio_Cross_Reference_Synthesis.md`, and
+`City_Enneagram_Personalities/Palmer_Subnet/Marambio.md` all contained directly relevant, already-
+established material (the Duisburg precedent, the Instinctive/Gut/Competency personality core, and the
+Argentina founding-drift finding) that should have been checked before writing Phase 1c entries, not
+after. Worth checking each remaining city's own Megasheet/Cross-Reference-Synthesis/Enneagram files
+*before* drafting Per-Nation Entries, not just its Specs/Catalog files, to avoid repeating this.
