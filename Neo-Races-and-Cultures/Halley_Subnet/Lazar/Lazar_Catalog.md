@@ -1,6 +1,8 @@
 # Lazar — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — fifth city finished.
+Synthesis Notes (Phase 2) drafted below as a working first pass, not yet developer-confirmed as final.
 
 ---
 
@@ -97,6 +99,166 @@ advertisements and multicolored lights throughout," and the Hwy 7 eastern termin
 
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Lazar's own
+conditions (its megacity-scale commercial density, its status as Tepenia's largest city, the Hwy 7
+terminus) that a given population's originating patterns fed into or reinforced — never as "this
+population does X because they're from nation Y."
+
+**A structural note before the per-nation entries:** Lazar inverts the matching pattern seen at Halley.
+Its City-Type category — "megacity commercial hub" — is broad enough that all six Primary/Significant
+nations have a genuine, strong domestic match (every major nation has a big commercial city); geography
+is the more selective dimension here instead (Germany, France, and Russia have strong glacial-oasis
+matches; USA, UK, and Brazil don't). Practically, this means every population below contributes real
+texture — there's no thin entry this time — differentiated mainly by *which flavor* of urban
+sophistication each brings.
+
+### USA (Primary, 19.05%)
+
+**Real-world parallel community/communities identified:** weak geography match (Rocky Mountain
+snowmelt towns, Colorado) — carried by Denver (civic type, commercial/administrative hub) with a
+secondary Las Vegas-style commercial-glow echo (entertainment register, not administrative).
+
+#### Surface Culture findings
+- **Fashion, Performances:** visible commercial/consumer display culture — the holographic
+  advertisements and multicolored lights already established as Lazar's own defining visual identity
+  read as an extension of this population's own homeland consumer-spectacle traditions.
+- **Music, Performances:** entertainment-adjacent public spectacle, echoing the Vegas-style
+  secondary match.
+
+#### Deep Culture findings
+
+**Concepts of:** status displayed through visible commercial/consumer success — in a dense megacity
+population, this reads as more openly competitive and visibility-seeking than the "quiet reliability"
+or "endurance" status models found in smaller Halley subnet cities so far.
+
+---
+
+### UK (Significant, 10.08%)
+
+**Real-world parallel community/communities identified:** weak geography match (Scottish Highland
+lochs) — carried by Manchester (civic type), a real major UK commercial/post-industrial hub with a
+genuine, internationally recognized music-scene heritage.
+
+#### Surface Culture findings
+- **Music:** a diffuse, multi-venue music/club scene culture — echoing Manchester's own real
+  post-industrial music heritage. Genuinely different in shape from Casey's single-flagship "Splinters"
+  model: Lazar's scale supports many scattered scenes rather than one iconic venue.
+
+#### Deep Culture findings
+
+**Concepts of:** urban creative-class identity and strong subcultural belonging — people organize
+social identity around which scene or venue cluster they're part of, a distinctly big-city social
+structure.
+
+---
+
+### Germany (Significant, 9.48%)
+
+**Real-world parallel community/communities identified:** Bavarian Alps (geography — strong,
+glacial-meltwater match) and Frankfurt (civic type — Germany's major financial/commercial hub). Both
+strong, one of only two dual-anchored populations at Lazar (with Russia).
+
+#### Surface Culture findings
+- **Fashion, Performances:** professional/financial-district visual register (Frankfurt) layered over
+  Alpine-heritage practical tradition.
+
+#### Deep Culture findings
+
+**Concepts of:** professional administrative competence — given the strongest geography match *and* a
+genuine financial-hub City-Type match, this population carries disproportionate influence over Lazar's
+actual administrative/financial function specifically, not just its general cosmopolitan atmosphere.
+
+---
+
+### Brazil (Significant, 9.05%)
+
+**Real-world parallel community/communities identified:** no domestic geography match (weakest, as
+elsewhere) — but São Paulo (civic type) is a **strong** match here, breaking the "thin Brazil entry"
+pattern seen at Belgrano and Halley. São Paulo is genuinely Brazil's own real megacity commercial
+engine, a near-literal mirror of Lazar's own defining identity.
+
+#### Surface Culture findings
+- **Fashion, Food:** dense urban commercial culture, fashion-forward style, diverse
+  mixed-neighborhood food culture — São Paulo's own real civic character transposed directly.
+
+#### Deep Culture findings
+
+**Concepts of:** urban ambition and hustle as a genuine, positively-regarded value — converging with
+(not contrasting against) the USA population's own commercial-ambition value above, arrived at via a
+different real-world route.
+
+**Methodology note:** this is the first city where Brazil's imprint reads as strong rather than thin —
+confirms that the earlier "weak Brazil" pattern at Belgrano/Halley was about *those specific* City-Type
+categories (garage/industrial, pure-gateway-town) lacking a strong Brazilian domestic analog, not about
+Brazil generally being hard to match. Worth remembering before treating "Brazil often matches weakly"
+as a fixed rule.
+
+---
+
+### Russia (Significant, 4.81%)
+
+**Real-world parallel community/communities identified:** Caucasus mountain valleys near Mount Elbrus
+(geography — strong) and Moscow (civic type — strong). The other dual-anchored population at Lazar.
+
+#### Surface Culture findings
+- **Performances:** cosmopolitan urban sophistication (Moscow) layered over mountain-valley practical
+  tradition (Caucasus).
+
+#### Deep Culture findings
+
+**Concepts of:** administrative gravitas and seat-of-power self-perception — Moscow's own real identity
+as a political/commercial center of gravity feeds into an interesting structural tension worth naming
+explicitly: **Lazar is Tepenia's largest city, but not its political capital** (see
+`National_Capital_Resolved` project history) — an unofficial "capital" feel without the formal title,
+not unlike how a real-world nation's largest city and its seat of government don't always coincide.
+
+---
+
+### France (Significant, 2.30%)
+
+**Real-world parallel community/communities identified:** Chamonix, French Alps (geography — strong,
+glacier-fed, extreme mountain terrain) and Lyon (civic type — strong, France's own real
+gastronomic/cultural hub). Smallest population share at Lazar, yet dual-anchored — a milder echo of the
+small-population-strong-match pattern already seen at Abowasa (Germany) and Belgrano (UK).
+
+#### Surface Culture findings
+- **Food:** Lyon's own real gastronomic sophistication, a genuine culinary-culture contribution
+  distinct from any other population's entry so far.
+- **Performances:** Chamonix's real mountaineering/extreme-adventure-tourism heritage, suggesting an
+  adventure-tourism-adjacent niche within Lazar's broader commercial identity.
+
+#### Deep Culture findings
+
+**Concepts of:** refined cultural sophistication (Lyon) paired with mastery-of-extreme-environment pride
+(Chamonix) — a genuinely distinct register from every other population here, neither purely commercial
+nor purely administrative.
+
+---
+
+## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+
+**Working name: "Lazaran."** *(Placeholder, same status as the previous four cities' working names.)*
+
+Lazar is Tepenia's clearest **"big city"** — the first city cataloged where all six Primary/Significant
+populations contribute genuine, well-textured culture rather than a mix of strong and thin entries.
+That's a direct consequence of its own City-Type ("megacity commercial hub") being broad enough that
+every major nation has a real domestic precedent, unlike the narrower categories at Halley or Belgrano.
+The resulting neo-culture reads less like one unified civic register (contrast Sanay's endurance
+mythology or Belgrano's maker-city pride) and more like a genuine layering of urban-sophistication
+flavors: Frankfurt-style financial competence (Germany), Manchester-style diffuse music-scene culture
+(UK), São Paulo-style commercial hustle (Brazil), Moscow-style administrative gravitas (Russia),
+Lyon/Chamonix-style gastronomic-and-adventure refinement (France), and Denver/Vegas-style visible
+consumer spectacle (USA) — six distinct big-city identities coexisting in one holographic-lit, densely
+populated place.
+
+**A genuinely useful structural tension surfaced here:** Lazar is Tepenia's *largest* city by
+population, but not its political capital (see `National_Capital_Resolved`) — giving it an unofficial
+"capital" feel it doesn't formally hold, a real and usable point of civic identity/friction worth
+carrying into future Course of Events work (the city that's biggest but not in charge).
+
+Brazil's strong showing here — after two consecutive cities (Belgrano, Halley) where its imprint read
+thin — confirms that the earlier pattern was about specific narrow City-Type categories lacking a
+Brazilian domestic precedent, not a general weakness in matching Brazil. Worth remembering this before
+the pattern gets over-generalized in later cities.
