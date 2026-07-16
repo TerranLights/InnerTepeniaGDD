@@ -32,7 +32,7 @@ Siligel is essentially robot food, as, following in line with Newton's First Law
 In addition to heating, humans also need to be able to grow plants and raise livestock for meat. These come in the form of hydropons.
 
 ### Tepenian holidays (e.g., Tepenian Independence Day, Halloween, etc)
-[to-be-determined]
+Scaffolded 2026-07-16 — see `Worldspace/National_Holidays.md` for the four-category framework (civic/national, "persisted aesthetic," internationally-transcendent, celestial/faction-specific) and open questions still being worked out.
 
 ### Goth spirituality (the ossuary, etc)
 As I've come to gather, Goth (although not a "religion" in any real sense) is more of an "understanding" of Death as being the one true God. This is not something you "understand" with your brain, but rather, a reality that you "understand" with your existence. As such, there is an Ossuary for Goth robots (as well as humans) which is a cathedral, the interior of which is decorated with the metal bones of fallen and/or killed robots who did not survive the War of Upper Earth. Here, Goth robots and humans alike can come and pay their respects to the fallen.
