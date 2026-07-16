@@ -1,6 +1,9 @@
 # Abowasa — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — second city finished,
+following Sanay's method (see `_Method/Phase1c_Test_Run_Sanay.md`). Synthesis Notes (Phase 2) drafted
+below as a working first pass, not yet developer-confirmed as final.
 
 ---
 
@@ -107,6 +110,214 @@ airfield nearby.
 
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Abowasa's
+own conditions (its residential/commuter civic role, the twin-settlement founding structure, the
+granite-highland terrain) that a given population's originating patterns fed into or reinforced —
+never as "this population does X because they're from nation Y."
+
+**A structural note before the per-nation entries:** Abowasa's own founding nations — Finland and
+Sweden, source of the real Aboa and Wasa stations — have drifted down to Notable tier (1.47% and 1.79%
+respectively) and sit outside this Phase 1c pass's Primary/Significant scope. The same "founding myth
+outlives founding population" pattern already seen at Sanay (South Africa) repeats here. The six
+nations below are the *present-day* lived-culture majority, not the founding one.
+
+### USA (Primary, 18.60%)
+
+**Real-world parallel community/communities identified:** Appalachian granite highlands (geography —
+White Mountains, Adirondacks) and Texarkana (civic type — small-scale American twin city).
+
+#### Surface Culture findings
+- **Food:** simple, home-style Appalachian rural comfort food — hearty stews, preserved goods; a
+  domestic rather than public food culture, fitting a residential town whose economic life happens
+  elsewhere.
+- **Festivals:** modest, low-key seasonal small-town fairs rather than grand civic spectacle.
+- **Music:** Appalachian folk/bluegrass tradition — informal, front-porch, family-and-neighbor music
+  rather than staged public performance.
+- **Fashion:** practical, unremarkable everyday highland-rural wear.
+- **Language:** a regional Appalachian-inflected English persists informally in speech patterns.
+
+#### Deep Culture findings
+
+**Communication styles and rules:** informal, neighborly, low-key directness — people who know each
+other well, favoring quick informal exchange over elaborate ritual.
+
+**Notions of:** courtesy built on neighborliness and mutual small favors, echoing rural community
+mutual-aid tradition.
+
+**Concepts of:** self and time organized around *domestic* rhythm, not economic rhythm — Abowasa's own
+days aren't structured by its own industry (there isn't much), but by when residents leave for and
+return from shifts at Sanay or Troll. Local identity concentrates in evenings, weekends, and household
+life rather than in a shared workplace.
+
+**Attitudes toward:** cooperation over competition at low stakes — daily-life interdependence matters
+more than local status-seeking, since status and achievement are things that happen at Sanay or Troll,
+not in Abowasa itself.
+
+**Approaches to:** raising children and family life as the *primary* site of local identity and
+investment, precisely because work identity is exported elsewhere.
+
+---
+
+### Russia (Significant, 9.88%)
+
+**Real-world parallel community/communities identified:** Ural Mountains highland (geography) and
+Kopeysk (civic type) — Kopeysk is a real Russian satellite/commuter town feeding the larger industrial
+hub of Chelyabinsk, an unusually precise structural mirror of Abowasa's own role feeding Sanay and
+Troll.
+
+#### Surface Culture findings
+- **Food:** modest, hardy Ural mining-town practical fare.
+- **Fashion:** plain, durable, function-first — nothing performative, consistent with a population
+  whose public self-presentation happens at the workplace elsewhere, not at home.
+- **Music, Arts & Crafts:** small-scale, home- and neighbor-oriented rather than publicly staged.
+
+#### Deep Culture findings
+
+**Concepts of:** a strong, explicit "bedroom community" self-understanding — home as the *real* center
+of life, work as something that happens elsewhere and is left behind at the end of a shift. Of all six
+populations here, this is the one whose homeland precedent most directly reinforces Abowasa's own
+established civic identity rather than merely coexisting with it.
+
+**Attitudes toward:** work and authority as external, workplace-bound categories — Abowasa itself is
+governed more by household and neighborhood norms than by workplace-style hierarchy.
+
+---
+
+### Brazil (Significant, 9.76%)
+
+**Real-world parallel community/communities identified:** no strong domestic geography match
+(Brazilian Highlands flagged weakest in Phase 1b) — carried instead by Alphaville, São Paulo (civic
+type), a real planned, orderly, upscale residential satellite community built specifically to house
+commuters into a larger hub.
+
+**Notable divergence from Sanay's Brazil entry:** at Sanay, Brazil's best real-world match (Santos, a
+port) supplied a festive, emotionally expressive *counter-culture* to the dominant civic register. Here
+the dynamic is different — Alphaville's own real character (orderly, aspirational, planned) actually
+*reinforces* Abowasa's dominant residential-commuter identity rather than contrasting with it. Same
+nation, structurally opposite narrative role, depending entirely on which real-world match actually
+applies at a given city.
+
+#### Surface Culture findings
+- **Food:** domestic, hospitality-oriented home cooking, aimed at family and close neighbors rather
+  than public festivity.
+- **Fashion:** neat, aspirational, "presentable" everyday dress — an orderly-suburban sensibility.
+- **Festivals, Music, Dances:** present but privately/domestically scaled, not the public civic
+  centerpiece this population became at Sanay.
+
+#### Deep Culture findings
+
+**Notions of:** beauty and presentation tied to a well-kept home and household — echoing Alphaville's
+own real reputation for order and upkeep.
+
+**Concepts of:** self defined through household and family standing rather than public status —
+converging with, not contrasting against, the USA- and Russia-descended populations' own domestic-first
+value system above.
+
+---
+
+### UK (Significant, 8.54%)
+
+**Real-world parallel community/communities identified:** Scottish Highlands (geography, flagged weak
+in Phase 1b — most of Scotland's actual population lives in the Midland Valley, not the Highlands) and
+Motherwell and Wishaw (civic type) — real small paired Lowland industrial towns functioning as one
+settlement.
+
+**Framing note:** given the geography match's own flagged weakness, this entry leans on the
+Motherwell/Wishaw paired-town precedent rather than Highland folk imagery — avoiding overclaiming
+tartan/Highland romanticism the real population-distribution data doesn't actually support.
+
+#### Surface Culture findings
+- **Music:** Lowland industrial-town folk tradition rather than Highland pipe-and-clan imagery.
+- **Language:** working-town Scots-English inflection persists informally.
+
+#### Deep Culture findings
+
+**Concepts of:** a strong "us as a pair" self-conception — Motherwell and Wishaw's own real paired-town
+identity maps unusually well onto Abowasa's own two-stations-become-one founding structure, giving this
+population a natural affinity for articulating and retelling that civic origin story.
+
+**Attitudes toward:** practical, unsentimental civic pragmatism about the twin-settlement arrangement —
+treating it as simply how things are, rather than as a point of active celebration.
+
+---
+
+### France (Significant, 4.07%)
+
+**Real-world parallel community/communities identified:** Massif Central (geography) and Baugé-en-Anjou
+(civic type) — a real French *commune nouvelle*, formed via France's own deliberate, top-down
+administrative merger process for small settlements.
+
+#### Surface Culture findings
+- **Food:** rural Massif Central pastoral/dairy tradition, modestly present.
+- **Language:** minor French-origin administrative/civic vocabulary persists around the twin-settlement
+  arrangement specifically.
+
+#### Deep Culture findings
+
+**Concepts of:** the twin-settlement merger understood in explicitly administrative/procedural terms —
+France's own real *commune nouvelle* process is a deliberate legal act, not an organic drift, and this
+population's presence lends Abowasa's civic memory a more formal, procedural flavor than the informal,
+organic-merger tone Germany's entry (below) carries.
+
+---
+
+### Germany (Significant, 2.63%)
+
+**Real-world parallel community/communities identified:** Harz Mountains/Black Forest (geography) and
+Wanne-Eickel (civic type) — two real German towns (Wanne + Eickel) that merged into one small city,
+later absorbed into Herne. Of every real-world match found anywhere in this project so far, this is the
+single most precise structural echo of a city's own founding story: two named, distinct settlements
+becoming one.
+
+**Population-vs-narrative-weight note:** Germany is the *smallest* Significant-tier population at
+Abowasa (2.63%, smaller even than France) — yet it carries the *strongest* thematic resonance with the
+city's own founding structure. Population share and narrative weight don't always move together; this
+is worth watching for at other cities too.
+
+#### Surface Culture findings
+- **Food:** Black Forest/Harz rural highland tradition — preserved goods, woodcraft-adjacent domestic
+  culture.
+- **Arts & Crafts:** small-scale woodcraft and handicraft tradition, modestly present.
+
+#### Deep Culture findings
+
+**Concepts of:** informal custodianship of the twin-settlement civic memory — despite the small
+population share, this population's homeland precedent (an organic, bottom-up merger, not an
+administrative one like France's) gives it an outsized, if quiet, role in how Abowasa's own founding
+story gets told and retold.
+
+---
+
+## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+
+**Working name: "Abowasan."** *(Placeholder, same status as Sanay's "Sanayan.")*
+
+Where Sanay's public identity is loud and function-first (the port, the schedule, the endurance
+mythology), Abowasan culture is quiet and domestic-first almost by structural necessity — this is a
+city whose working population largely leaves each day for Sanay's port or Troll's airfield, so its own
+civic rhythm is organized around household and neighborhood life rather than a shared local workplace.
+The USA (Primary), Russia, and Brazil populations — despite very different homeland starting points —
+converge on essentially the same value: home and family as the *real* center of life, work as an
+external, exported category. Russia's Kopeysk precedent makes this explicit and structural; Brazil's
+Alphaville precedent arrives at the same place via orderly suburban aspiration rather than bedroom-town
+pragmatism; USA's Appalachian-highland precedent arrives at it via rural mutual-aid neighborliness.
+Three different roads to the same civic center of gravity.
+
+The twin-settlement founding story — Finnish Aboa and Swedish Wasa, two stations ~200m apart that grew
+into one city — is where the smaller populations do disproportionate work. Germany (the smallest
+Significant-tier population, 2.63%) supplies the closest real-world structural echo of all (Wanne +
+Eickel), and ends up as an informal custodian of that founding memory despite its small numbers. UK's
+Motherwell-and-Wishaw precedent supplies a natural "us as a pair" self-conception. France's real
+*commune nouvelle* precedent supplies the more formal, administrative register the city's civic records
+likely use when discussing the same merger. This is the clearest example so far of population share and
+narrative weight decoupling — worth deliberately watching for at every future city, not just noting as
+a one-off here.
+
+As at Sanay, the actual founding nations (Finland, Sweden) have drifted to Notable tier and now survive
+mainly as the city's founding mythology rather than its lived-culture majority — the same pattern,
+different founding nations. Robots track the same national-origin proportions as the human population
+and would be expected to carry the same domestic-first, quiet-public-face duality through their own
+established cultural vocabulary, though — as with Sanay — a dedicated pass on exactly how that
+translates for robots specifically hasn't been done yet.
