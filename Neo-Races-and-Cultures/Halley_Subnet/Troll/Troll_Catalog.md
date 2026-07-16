@@ -1,6 +1,9 @@
 # Troll — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — eighth and final Halley
+subnet city; the subnet is now fully complete. Synthesis Notes (Phase 2) drafted below as a working
+first pass, not yet developer-confirmed as final.
 
 ---
 
@@ -97,6 +100,134 @@ import/distribution network."
 
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Troll's own
+conditions (its role as the effective center of a major share of Tepenia's real-economy
+import/distribution network, and its dramatic high-altitude aviation setting) that a given population's
+originating patterns fed into or reinforced — never as "this population does X because they're from
+nation Y."
+
+### USA (Primary, 18.60%)
+
+**Real-world parallel community/communities identified:** Leadville, Colorado (geography — the highest
+incorporated US city, with its own high-altitude airport) and Memphis, Tennessee (civic type — FedEx's
+global air-cargo hub, the single strongest "airfield as freight-network center" match found anywhere in
+this project).
+
+#### Surface Culture findings
+- **Language, Performances:** precision-scheduling logistics culture, echoing FedEx's own real cultural
+  reputation for reliability and speed, blended with high-altitude mountain-town practicality
+  (Leadville).
+
+#### Deep Culture findings
+
+**Concepts of:** efficiency and reliability of freight movement as the central civic value — the
+airfield's function (Tepenia's import/export backbone) becomes a genuine point of civic pride here,
+similar in structure to how Sanay's port anchors its own endurance mythology, but organized around
+*speed and precision* specifically rather than endurance.
+
+---
+
+### Russia (Significant, 9.88%, second-largest population)
+
+**Real-world parallel community/communities identified:** Caucasus mountain valleys near Mount Elbrus
+(geography — decent match, elevation/exposure-focused) — no strong domestic air-cargo-hub match (City-
+Type — weak).
+
+#### Surface Culture findings
+- **Food, Fashion:** mountain-community practical culture, adapted to elevation and exposure rather
+  than the freight-logistics identity dominant elsewhere at Troll.
+
+#### Deep Culture findings
+
+**Concepts of:** elevation-mastery and endurance as the primary value here — less tied to the
+freight-hub civic identity given the weak City-Type match, giving this population a more generally
+"mountain-hardy" register than a "logistics-precision" one.
+
+---
+
+### UK (Significant, 8.44%)
+
+**Real-world parallel community/communities identified:** Cairngorms (geography, reused from elsewhere
+in the subnet) and East Midlands Airport (civic type — the UK's major dedicated air-freight hub, home
+to DHL UK — a strong match).
+
+#### Surface Culture findings
+- **Language:** DHL-style logistics-hub professional culture blended with Cairngorm highland tradition.
+
+#### Deep Culture findings
+
+**Concepts of:** freight-logistics precision as a shared value, converging directly with the USA
+population above — a second strong voice in Troll's dominant civic register.
+
+---
+
+### Brazil (Significant, 8.38%)
+
+**Real-world parallel community/communities identified:** Serra da Mantiqueira (geography — weak) — no
+strong domestic match (City-Type — weak). Consistent with the now fully-established pattern: Brazil
+matches weakly at small purpose-built specialized settlements (fifth confirmed instance).
+
+#### Surface Culture findings
+- **Food, Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+
+#### Deep Culture findings
+
+*(Thin by the same honest logic established at the previous four cities.)*
+
+---
+
+### France (Significant, 5.52%)
+
+**Real-world parallel community/communities identified:** Courchevel, French Alps (geography — a strong
+match, a real high-altitude settlement specifically famous for its dramatic, demanding mountain
+airport) and the Roissy/Charles de Gaulle cargo zone (civic type — a decent match).
+
+#### Surface Culture findings
+- **Performances, Literature:** aviation skill and daring framed as a point of cultural pride and even
+  glamour, echoing Courchevel's own real reputation as one of the world's most demanding airports to
+  land at — a genuinely distinct register from the USA/UK populations' efficiency-and-reliability
+  framing.
+
+#### Deep Culture findings
+
+**Concepts of:** the airfield as a site of skilled spectacle, not just logistics infrastructure — a
+counterpoint to the dominant freight-precision civic register, giving Troll's culture a second,
+distinctly different reason to take pride in its own aviation identity.
+
+---
+
+### Germany (Significant, 2.66%, smallest population)
+
+**Real-world parallel community/communities identified:** Berchtesgaden / Zugspitze region (geography)
+and Leipzig/Halle Airport (civic type — DHL's major European air-cargo hub, a strong match despite the
+small population share).
+
+#### Surface Culture findings
+- **Language:** DHL-style logistics-hub culture, converging closely with the UK population's own East
+  Midlands/DHL UK-derived entry above.
+
+#### Deep Culture findings
+
+**Concepts of:** freight-logistics precision, a third independent real-world route (after USA's Memphis
+and UK's East Midlands) to the same dominant civic value — the clearest three-way convergence on a
+single value found in this project since Belgrano's "maker city" pattern.
+
+---
+
+## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+
+**Working name: "Trollan."** *(Placeholder, same status as the other seven cities' working names.)*
+
+Troll's neo-culture centers on a strong three-way convergence — USA (Memphis), UK (East Midlands), and
+Germany (Leipzig/Halle) all independently arrive at freight-logistics precision and reliability as the
+dominant civic value, echoing real-world DHL/FedEx-style global air-cargo culture. This makes Troll's
+public identity the most singularly focused of any Halley subnet city so far: efficiency and dependable
+throughput as the thing the city is *for*, mirroring its actual established in-world role as the
+effective center of a major share of Tepenia's real-economy import/distribution network. France's
+Courchevel-derived entry supplies a genuine counter-note — aviation as skilled, even glamorous
+spectacle rather than pure logistics — giving the city a second, smaller register alongside its
+dominant one. Russia and Brazil both carry weak City-Type matches here (a first: usually only Brazil
+lands in that bucket), leaving their contributions closer to general mountain-hardy/diaspora-baseline
+texture than to the freight-precision core.

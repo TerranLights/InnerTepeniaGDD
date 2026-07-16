@@ -12,13 +12,21 @@ subnet. The Population Weighting Reference exists specifically so that future Ph
 findings can be weighted by actual population share rather than treated as if every listed nation
 contributed equally to a city's culture. Each city's own functional/civic type classification is also
 consolidated in `City_Types_Reference.md` so it doesn't need to be re-derived later. **Phase 1c
-(Per-Nation Cultural Iceberg / Surface+Deep Culture findings) is now underway** — **Sanay is the first
-city complete** (2026-07-16), run as a deliberate test of the full method before scaling to the
-remaining 34; see `Phase1c_Test_Run_Sanay.md` for the process notes carried forward. Sanay also has a
-working (not yet developer-confirmed-final) Phase 2 synthesis — a draft "Sanayan" neo-culture. The
-other 34 cities' Per-Nation Entries remain unstarted; this is the genuinely expensive phase, and Sanay's
-own pass took a substantial single sitting even as the smallest-scope candidate available. Mirrors the
-checklist convention already established for `Cities/Full_City_Integrity_Check.md`.
+(Per-Nation Cultural Iceberg / Surface+Deep Culture findings) is now underway.** Sanay was the first
+city complete (2026-07-16), run as a deliberate test of the full method before scaling up; see
+`Phase1c_Test_Run_Sanay.md` for the process notes. **The entire Halley Subnet is now Phase 1c
+complete** (all 8 cities, 2026-07-16) — see `Halley_Subnet_Phase1c_Summary.md` for the full cross-city
+synthesis roundup, kept deliberately separate from any single city's own Catalog file. Four recurring
+findings are now validated across a full
+subnet and should be treated as settled methodology for the remaining 27 cities rather than re-derived
+per city: (1) founding nations regularly drift to Notable tier while surviving only as civic mythology;
+(2) population share and match-strength/narrative-weight regularly decouple; (3) Brazil's City-Type
+matches are weak specifically at small purpose-built single-mission settlements and strong at large
+organic multi-purpose cities — a predictable rule, not random weakness; (4) multiple populations often
+converge on one civic value via genuinely different real-world routes, which is worth calling out
+explicitly rather than treated as redundant. The other 27 cities' Per-Nation Entries remain unstarted;
+this is still the genuinely expensive phase. Mirrors the checklist convention already established for
+`Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
 
@@ -32,7 +40,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [x] Neumayer *(shares Halley's moving-ice-shelf terrain and its "no true analog" flag; PHASE 1C COMPLETE 2026-07-16 — sixth city finished; Tepenia's clearest research-institute city, multiple national prestige-hierarchies coexisting; Germany confirmed as founding-operator-plus-dual-anchored-plus-substantial-population, a genuinely foundational rather than just-present population; Brazil's "weak at small purpose-built towns, strong at large organic cities" pattern now confirmed across 3 cities)*
 - [x] Princess Elisabeth *(PHASE 1C COMPLETE 2026-07-16 — seventh city finished; both co-Primary populations, Japan and USA, are double-anchored and converge on "extreme wind as mastery/frontier, not just hardship"; working name "Elisabethan" flagged as a probably-unwanted real-world homophone, needs a different placeholder)*
 - [x] Sanay *(the project's own first worked example for the City-Type Parallels category — a major shipping/logistics port city; now also the FIRST CITY WITH PHASE 1C COMPLETE, 2026-07-16 — Per-Nation Entries for Germany/Brazil/UK done, plus a draft Phase 2 "Sanayan" synthesis; see `Phase1c_Test_Run_Sanay.md`)*
-- [b] Troll
+- [x] Troll *(PHASE 1C COMPLETE 2026-07-16 — eighth and final Halley subnet city; three-way freight-logistics-precision convergence, USA/UK/Germany; HALLEY SUBNET FULLY PHASE 1C COMPLETE — see `Halley_Subnet_Phase1c_Summary.md`)*
 
 ## Janbogo Subnet
 - [b] Cape Adare
