@@ -17,6 +17,42 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** northern peninsula-tip coastal terrain, Weddell Sea-facing, colder/drier than the
+western Peninsula coast — this whole subnet sits at a much milder latitude than the others, so
+matches here are generally stronger and more direct than elsewhere in the project.
+
+- **USA (Primary):** Alaska Peninsula, near the Aleutians — a real, cold, dry, wind-exposed coastal
+  American peninsula.
+- **UK (Significant):** The Falkland Islands — a real UK overseas territory with genuine sub-Antarctic
+  peninsula terrain; an excellent match, reinforced by real cultural/political ties to this region.
+- **Mexico (Significant):** No domestic match — flagged as weakest, likely needs a diaspora-community
+  approach.
+- **Brazil (Significant):** No domestic match — flagged as weak.
+- **Argentina (Significant, founding operator heritage):** Tierra del Fuego / Ushuaia — the single
+  most direct real-world match in the entire project; genuine Argentine sub-Antarctic peninsula
+  population, especially fitting given Argentina's own founding-operator heritage at this city.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** port/maritime trans-shipment hub — "a natural maritime trans-shipment point for goods
+moving between the Halley subnet and the Palmer subnet" — plus a family-settlement/civic-historical
+identity (the real Esperanza Base is famous for the first child born in Antarctica).
+
+- **USA (Primary):** Norfolk, Virginia — a real major American trans-shipment/logistics port city, a
+  strong structural match.
+- **UK (Significant):** Felixstowe — same major UK trans-shipment port match used at Sanay.
+- **Mexico (Significant):** Veracruz — a real major Mexican trans-shipment port city.
+- **Brazil (Significant):** Santos — same major Brazilian port match used at Sanay.
+- **Argentina (Significant, founding operator heritage):** Ushuaia — a real Argentine port city
+  serving as the actual gateway/trans-shipment point to Antarctica today, an excellent, especially
+  fitting match given Argentina's own founding-operator heritage here.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

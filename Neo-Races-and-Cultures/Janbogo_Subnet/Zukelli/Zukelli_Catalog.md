@@ -17,6 +17,47 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** identical katabatic sheltered-bay profile to Janbogo (see that city's entry for
+the general framing, including the Bora/Taku/Squamish wind mechanism); this entry covers Zukelli's
+own distinct nation set.
+
+- **China (Primary):** Dalian's bay coastline — same match as Janbogo.
+- **USA (Primary):** Juneau, Alaska — same Taku-wind match as Janbogo.
+- **Japan (Significant):** Toyama Bay — same match as Janbogo.
+- **Italy (Significant):** Gulf of Trieste (Bora wind) — same strong mechanistic match as Janbogo;
+  especially notable given Italy's own founding-operator heritage at this specific city.
+- **South Korea (Significant):** Sokcho / Taebaek Mountains coast — same match as Janbogo.
+- **Canada (Significant):** Kitimat, British Columbia (Squamish winds) — same match as Janbogo.
+- **Indonesia (Significant):** No meaningful match, as at Janbogo — flagged weakest.
+- **Australia (Significant):** No strong domestic match, as at Janbogo — flagged as weak.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** food/hospitality industry — "its own food, craft, and design industries, grown out of
+its hospitality-centered civic culture," anchored around an unnamed "cultural quarter" of food
+halls/communal spaces.
+
+- **China (Primary):** Chengdu — a real Chinese city whose national identity is built substantially
+  around food/hospitality culture (teahouses, street food), a strong match.
+- **USA (Primary):** New Orleans — same real US food/hospitality-culture-defined city used at Janbogo.
+- **Japan (Significant):** Osaka — a genuine Japanese city whose national reputation is built
+  specifically around food culture ("the nation's kitchen").
+- **Italy (Significant):** Bologna — Italy's own real food-culture-defined city ("La Grassa," the
+  Fat One), a strong match.
+- **South Korea (Significant):** Jeonju — a real Korean city whose national identity is built around
+  food/hospitality culture, a strong match.
+- **Canada (Significant):** Montreal — a genuine Canadian food/hospitality-culture-defined city.
+- **Indonesia (Significant):** Yogyakarta — a real Indonesian city known nationally for its
+  food/craft/hospitality culture.
+- **Australia (Significant):** Melbourne — same real Australian food/hospitality-culture city noted
+  for its own laneway food-and-craft-culture identity.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

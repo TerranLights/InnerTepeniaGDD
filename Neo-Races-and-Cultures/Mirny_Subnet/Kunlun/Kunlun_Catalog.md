@@ -19,8 +19,70 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure. Note: since Kunlun
-has no human population, the "real-world parallel community" concept may need adaptation — worth
-discussing before Phase 1 begins here in earnest.)*
+**Note on Kunlun's robot-only population:** Kunlun has no human residents, but the nation list in the
+City Snapshot still tracks the national/cultural heritage the city's robot population draws on (their
+makers' and predecessor communities' origins), so the same terrain-matching exercise still applies —
+it anchors what real-world "home cultures" this population's heritage traces back to, for later
+Phase 1c synthesis, even without a literal human population living on Kunlun's own terrain today.
+
+**Terrain profile:** the single most extreme version of the high-altitude ice-dome polar-desert
+profile in the entire country — Dome A, ~4,093m nominal elevation, effective physiological altitude
+approaching 5,000m, likely the coldest sustained environment of any Tepenian city. See Dome Fuji's own
+entry for the general framing of this terrain type; Kunlun exceeds even that city's extremity, so
+matches here are, if anything, weaker than Dome Fuji's.
+
+- **USA (Primary):** No domestic match — flagged as weak, more extreme than the already-weak USA
+  match at Dome Fuji.
+- **Russia (Primary):** No domestic match at this altitude — flagged as weak.
+- **China (Primary):** Tibetan Plateau (Nagqu/Amdo, as at Dome Fuji) — still the strongest available
+  match, though even the Tibetan Plateau falls short of Kunlun's full extremity.
+- **Canada (Significant):** No domestic match — flagged as weakest.
+- **Japan (Significant):** No domestic match — flagged as weak.
+- **UK (Significant):** No domestic match — flagged as weak.
+- **Intermarium/Intermaria (Significant):** No domestic match among this bloc's constituent nations —
+  flagged as weak; may need a diaspora-community approach in Phase 2.
+- **Italy (Significant):** The highest permanently inhabited Italian villages (Alps, ~2,000m) fall far
+  short of the target altitude; flagged as weak.
+- **South Korea (Significant):** No domestic match — flagged as weak.
+- **Germany (Significant):** No domestic match — flagged as weak.
+- **France (Significant):** The highest staffed French Alpine sites are not permanent civilian
+  populations; flagged as weak, same as at Dome Fuji.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** scientific research (astronomy/ice-core science) + religious/pilgrimage center (the
+Kunlun Observatory is arguably *the* primary sacred site in all of Tepenia) + industrial (joint
+chamber-manufacturing outpost with Vostok). Same robot-only-population caveat noted in this city's
+Real-World Parallel Locations section applies here too — the nation list tracks heritage, not a
+literal resident population.
+
+*Research-town angle:*
+- **USA (Primary):** Los Alamos, New Mexico — same match used at Neumayer/Dome Fuji.
+- **Russia (Primary):** Akademgorodok — same real dedicated Soviet/Russian science-research town used
+  at Dome Fuji.
+- **China (Primary):** A Tibetan Plateau research outpost town — same match used at Dome Fuji.
+- **Canada (Significant):** No single dedicated research-town match — flagged as weak.
+- **Japan (Significant):** Tsukuba Science City — same match used repeatedly elsewhere.
+- **UK (Significant):** Harwell, Oxfordshire — same match used repeatedly elsewhere.
+- **Intermarium/Intermaria (Significant):** No strong domestic match among this bloc's constituent
+  nations — flagged as weak.
+- **Italy (Significant):** No single dedicated research-town match — flagged as weak.
+- **South Korea (Significant):** Daedeok Innopolis — same match used at Dome Fuji.
+- **Germany (Significant):** Garching bei München — same match used repeatedly elsewhere.
+- **France (Significant):** Saclay — same match used repeatedly elsewhere.
+
+*Astronomical-observatory angle specifically:* Mauna Kea, Hawaii (USA) and the Atacama observatories
+(Chile, not in this city's own nation list but worth keeping in mind for Phase 2) are the two
+strongest real-world "extreme-altitude astronomy site with a genuine sacred-site tension" matches —
+Mauna Kea in particular is well known for exactly the same real-world friction between scientific use
+and indigenous religious significance that Kunlun's dual research/pilgrimage identity echoes.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+
+*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

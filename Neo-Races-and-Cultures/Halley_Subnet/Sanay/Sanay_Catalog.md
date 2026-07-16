@@ -18,6 +18,31 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** stable inland nunatak bedrock, same general character as Abowasa — exposed granite
+outcrop rising above the surrounding ice sheet, moderate-to-low precipitation.
+
+- **Germany (Primary):** Erzgebirge (Ore Mountains) or Harz Mountains — real populated granite/bedrock
+  highland communities.
+- **UK (Significant):** Scottish Highlands — same bedrock-highland match as Abowasa's UK entry.
+- **Brazil (Significant):** Brazilian Highlands (Planalto) — weakest match, much warmer/wetter than the
+  target profile; flagged for Phase 2 review rather than forced.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** major port/shipping hub — "a major shipping and transportation port city... Endless
+shipyards handle the import of raw materials," alongside its role as the Halley subnet's Arcanet relay
+nexus.
+
+- **Germany (Primary):** Hamburg — Germany's largest port city, an excellent, direct match.
+- **UK (Significant):** Felixstowe — the UK's largest container port, a strong match.
+- **Brazil (Significant):** Santos — Brazil's largest port city, a strong match.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

@@ -18,6 +18,36 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** a large, varied ice-free oasis (~400km²) with freshwater/saltwater lakes and
+fjord-like inlets — matches should favor genuine lake-district terrain rather than a single-lake
+oasis.
+
+- **China (Primary):** Qinghai Lake basin — a large high-plateau lake oasis surrounded by arid
+  terrain, exposed rock, genuine scale comparable to Davis.
+- **Japan (Significant):** Shiretoko Peninsula lake district, Hokkaido — a modest match; smaller
+  scale than Davis but a real lake-and-rock terrain.
+- **Germany (Significant):** Mecklenburg Lake District — a genuine large lake district, though much
+  wetter/greener than Davis; flagged as a partial match for Phase 2 review.
+- **UK (Significant):** The English Lake District — fells and lakes, a real varied terrain and a
+  fitting name-parallel, though again much greener than Davis's exposed rock; flagged as partial.
+- **South Korea (Significant):** No strong domestic match — flagged as weak.
+- **Indonesia (Significant):** No strong match — flagged as weakest.
+- **Australia (Significant):** Lake Eyre basin — Australia's own rare desert lake system, though
+  usually dry rather than perennially lake-filled; flagged as a partial match.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** no strongly distinctive economic type — `Specs/Davis.md` describes a generalist mix of
+oasis resources, Prydz Bay maritime trade, and general Mirny subnet logistics, none individually
+dominant. No forced nation-by-nation matching attempted here; noted honestly, same treatment as
+Abowasa and Dumont d'Urville.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

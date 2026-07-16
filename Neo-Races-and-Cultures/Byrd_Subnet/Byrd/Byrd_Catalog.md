@@ -20,7 +20,55 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** deep, featureless West Antarctic interior, progressively buried by snow
+accumulation over generations, giving the city a layered, tunneled understructure — matches should
+prioritize real communities that have had to build *around* heavy, sustained snow burial, not just
+generally snowy or isolated places. This entry covers Primary + Significant tier only; the 35-nation
+Notable-tier roster is reserved for the later, much larger Phase 1c pass on this city.
+
+- **USA (Primary):** No strong direct match for the snow-burial/tunneling angle specifically; the
+  closest domestic parallel is historic Sierra Nevada communities along the Donner Pass corridor, which
+  built covered snow sheds to manage extreme sustained accumulation. Flagged as a moderate, partial
+  match.
+- **Canada (Primary):** Resolute Bay, Nunavut — a genuinely deep-interior-isolated, no-road-access
+  Canadian High Arctic settlement; a strong match on the isolation register specifically, though less
+  so on the snow-tunneling angle.
+- **Australia (Significant):** No domestic match — flagged as weakest.
+- **Japan (Significant):** The traditional "snow country" towns of Niigata/Aomori, with covered
+  arcades (*gangi*) built specifically to let residents move through town while under deep seasonal
+  snow burial — the single strongest real-world match in this entry for Byrd's own "progressively
+  buried, tunneled understructure" identity.
+- **South Korea (Significant):** No strong domestic match — flagged as weak.
+- **China (Significant):** Xuěxiāng ("Snow Town"), Heilongjiang — a real town famous specifically for
+  extreme snow accumulation and snow-buried architecture; a strong match alongside Japan's.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** industrial/manufacturing (mechanized fabrication-synthesis chambers) + logistics/dispatch
+hub — "mechanized fabrication and import/export & dispatch are Byrd's real dominant sectors." This
+entry covers Primary + Significant tier only, per the current phase's scope; the 35-nation Notable-tier
+roster is reserved for the later Phase 1c pass on this city.
+
+- **USA (Primary):** Memphis, Tennessee — same major logistics/dispatch-hub match used at Troll and
+  Marambio, here also fitting the fabrication/manufacturing angle given Memphis's own broader
+  industrial base.
+- **Canada (Primary):** Hamilton, Ontario — same major Canadian heavy-industrial city match used at
+  Rothera.
+- **Australia (Significant):** No standout domestic fabrication/dispatch-hub match — flagged as weak.
+- **Japan (Significant):** Kitakyushu — same major Japanese heavy-industrial city match used at Fort
+  McMurdo/Sinheung.
+- **South Korea (Significant):** Ulsan — same real South Korean heavy-industrial manufacturing city
+  match used at Sinheung.
+- **China (Significant):** Shenyang or another major Northeastern Chinese heavy-industry city — same
+  match used elsewhere.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure. Note: given the
 35-nation Notable-tier roster, this is comparable in scale to Palmer City's own cataloging undertaking.)*

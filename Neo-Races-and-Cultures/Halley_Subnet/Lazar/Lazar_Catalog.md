@@ -20,6 +20,47 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** ice-free oasis, exposed bedrock, glacial-meltwater-fed lakes, surrounded by
+otherwise inhospitable terrain. Real-world Saharan/Arabian oases are groundwater-fed rather than
+meltwater-fed (a real hydrological difference), so the closer match is specifically *glacial-meltwater*
+valley/oasis terrain, not desert oases generally.
+
+- **USA (Primary):** No strong true-oasis domestic match; closest available is high-elevation Rocky
+  Mountain valley towns fed by seasonal snowmelt (Colorado) — a weaker parallel than the others below,
+  flagged for Phase 2 review.
+- **Germany (Significant):** Alpine valley towns (Bavarian Alps) fed by glacial meltwater — a genuine
+  hydrological match, real populated communities.
+- **France (Significant):** Chamonix valley (French Alps) — glacier-fed, surrounded by extreme
+  mountain terrain, a strong match.
+- **UK (Significant):** Weakest match — Britain has no active glaciers/meltwater-oasis terrain today;
+  closest available is Scottish Highland lochs fed by seasonal snowmelt. Flagged for Phase 2 review.
+- **Russia (Significant):** Caucasus mountain valleys near Mount Elbrus — glacial-meltwater-fed,
+  genuine populated oasis-like terrain amid extreme surrounding mountains.
+- **Brazil (Significant):** No natural domestic match — Brazil has no glacial terrain. Weakest match of
+  the whole set; likely needs a diaspora-community approach in Phase 2 rather than a homeland-region one.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** administrative/commercial hub at megacity scale — Tepenia's largest city by
+population, described in-canon as having "genuine megacity-scale commercial density — holographic
+advertisements and multicolored lights throughout," and the Hwy 7 eastern terminus.
+
+- **USA (Primary):** Denver — a major inland commercial/administrative hub city with its own
+  highway-terminus character; the neon-commercial-glow imagery also loosely echoes Las Vegas, though
+  Vegas is an entertainment rather than administrative match specifically.
+- **Germany (Significant):** Frankfurt — Germany's major commercial/financial hub city, a strong
+  match.
+- **France (Significant):** Lyon — a genuine major French commercial hub city.
+- **UK (Significant):** Manchester — a real major UK commercial hub city.
+- **Russia (Significant):** Moscow's own commercial center — a strong match given comparable scale.
+- **Brazil (Significant):** São Paulo — Brazil's largest commercial hub city, a strong match.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

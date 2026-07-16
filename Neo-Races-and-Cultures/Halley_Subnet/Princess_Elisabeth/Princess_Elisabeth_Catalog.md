@@ -20,6 +20,49 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** extreme gale-exposed mountain-ridge bedrock, among the windiest inhabited-adjacent
+sites in the whole subnet — the real-world matches here should prioritize *wind extremity* over general
+highland character.
+
+- **USA (Primary):** Mount Washington, New Hampshire — home to the observatory that held the world
+  surface wind-speed record for decades; a genuine populated/staffed extreme-wind station community.
+- **Japan (Primary):** Wakkanai, Hokkaido — Japan's windiest city, a real coastal/highland population
+  center built around chronic severe wind exposure.
+- **Germany (Significant):** Feldberg (Black Forest) or the Zugspitze weather-station community —
+  Germany's own highest-wind-exposure inhabited mountain sites.
+- **France (Significant):** Mont Aigoual (Cévennes) — historically one of the windiest inhabited points
+  in France, with a staffed weather station and small surrounding population.
+- **UK (Significant):** Cairngorms — the highest recorded wind speeds in the UK, with real highland
+  communities nearby.
+- **Brazil (Significant):** Pico da Bandeira area (Serra do Caparaó) — weakest match of the set; Brazil
+  has no genuine gale-force-exposed inhabited highland. Flagged for Phase 2 review.
+- **Australia (Significant):** Tasmania's Cradle Mountain / Central Highlands, or King Island in Bass
+  Strait — genuinely among the windiest inhabited parts of Australia.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** scientific research center with a specific renewable-energy specialization — "genuine
+expertise in Antarctic energy systems that other cities traded for" defines Princess Elisabeth's
+economic role.
+
+- **USA (Primary):** Golden, Colorado — home to the National Renewable Energy Laboratory, a real
+  dedicated renewable-energy research town, a strong match.
+- **Japan (Primary):** Tsukuba Science City — a real dedicated Japanese science-research town, an
+  excellent match.
+- **Germany (Significant):** Freiburg — a real German renewable-energy research hub city
+  (nicknamed "Solar City"), a strong match.
+- **France (Significant):** Cadarache — a real French nuclear/fusion energy research site, a strong
+  thematic match for energy-specific research.
+- **UK (Significant):** Harwell, Oxfordshire — same real UK research-campus match used at Neumayer.
+- **Brazil (Significant):** No strong domestic match — flagged as weak.
+- **Australia (Significant):** No single dedicated renewable-research town — flagged as weak.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

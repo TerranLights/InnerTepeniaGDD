@@ -17,6 +17,48 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** the single windiest habitation-adjacent site at sea level anywhere on the planet —
+matches should prioritize genuinely record-setting real-world wind extremity over general coastal
+exposure.
+
+- **China (Primary):** No strong domestic match — China's own windiest inhabited coasts (Fujian's
+  outer islands) fall well short of this extremity; flagged as weak, may need a diaspora-community
+  approach in Phase 2.
+- **USA (Primary):** Cape Disappointment / the Washington-Oregon coast — genuinely among the
+  windiest, foggiest capes in the US, though still short of true Denison-level extremity; flagged for
+  Phase 2 review.
+- **Japan (Significant):** Cape Erimo, Hokkaido — the town's own tourism slogan is literally "there is
+  nothing here except wind"; the single closest real-world match in this whole project for pure wind
+  severity.
+- **South Korea (Significant):** Jeju Island's western coastal wind corridor (Hallim area) — a real,
+  populated, chronically wind-battered Korean coast.
+- **Indonesia (Significant):** No meaningful domestic match — equatorial Indonesia has no comparable
+  wind regime; flagged weakest, likely needs a diaspora-community approach.
+- **Australia (Significant):** Barrow Island, Western Australia — held the world-record surface wind
+  gust (Cyclone Olivia, 1996); the strongest possible real-world wind-extremity match available.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** industrial (structural/wind engineering, historically chamber manufacturing) +
+scientific research — "structural/wind engineering was Denison's defining economic sector," a direct
+outgrowth of its own extreme wind terrain.
+
+- **China (Primary):** No single dominant domestic wind-engineering city — flagged as a moderate/weak
+  match.
+- **USA (Primary):** Boulder, Colorado — home to real major wind-engineering and atmospheric research
+  institutions (NCAR); a strong thematic match.
+- **Japan (Significant):** Tsukuba — same real dedicated engineering/science-research town used at
+  Princess Elisabeth, a strong general match.
+- **South Korea (Significant):** No strong domestic match — flagged as weak.
+- **Indonesia (Significant):** No strong domestic match — flagged as weak.
+- **Australia (Significant):** No single dominant domestic wind-engineering city — flagged as weak.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

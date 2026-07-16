@@ -17,6 +17,52 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** harsh, exposed southern coastal terrain adjacent to shifting ice-shelf ground,
+high precipitation-in-storms but otherwise dry, extreme southern-latitude exposure.
+
+- **USA (Primary):** Alaska's remote coastal communities — Aleutian Islands, Bering Sea coast. Genuine
+  harsh, isolated, weather-battered American coastal settlements.
+- **Germany (Significant):** North Sea Frisian Islands — real German coastal communities living with
+  storm exposure and shifting tidal/coastal geography.
+- **UK (Significant):** Shetland and Orkney Islands — genuinely extreme, windswept, storm-exposed
+  British coastal communities, real fishing/crofting populations.
+- **Brazil (Significant):** Weakest match of the set — Brazil has no domestic harsh-southern-coastal
+  analog; closest available is the cooler, stormier far-southern Rio Grande do Sul coast, still much
+  milder than this profile. Flagged for Phase 2 review; may need a diaspora-community approach instead
+  of a homeland-region approach for this nation specifically.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** aviation/airfield hub combined with a major port role — Belgrano is, alongside Sanay,
+one of the two coastal receiving ports for South African freighter shipments, with runway
+infrastructure making it the subnet's primary aviation access point.
+
+- **USA (Primary):** Anchorage, Alaska — a real combined major air-cargo hub and working port city, a
+  strong structural match.
+- **Germany (Significant):** Hamburg — Germany's largest port, also a significant air-cargo node; a
+  strong match.
+- **UK (Significant):** No single UK city combines both roles as strongly; the closest partial match
+  is Prestwick, Scotland (a real dedicated air-freight hub) paired loosely with a nearby port; flagged
+  as a weaker, split match.
+- **Brazil (Significant):** No strong domestic match combining both roles — flagged as weak.
+
+**Secondary type, developer note added 2026-07-16:** Belgrano also has a fairly well-developed
+garage/warehouse/industrial culture, though not as developed as its aeronautics identity above.
+
+- **USA (Primary):** Detroit — a real American garage/warehouse industrial culture, including a garage
+  culture that literally produced its own music scene; a strong match.
+- **Germany (Significant):** The Ruhr valley's workshop/warehouse culture — a real German industrial
+  base, here noted for its garage/workshop character specifically rather than heavy steel production.
+- **UK (Significant):** Birmingham — the UK's classic "workshop of the world" garage/warehouse
+  manufacturing culture, a strong match.
+- **Brazil (Significant):** No strong domestic match — flagged as weak.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

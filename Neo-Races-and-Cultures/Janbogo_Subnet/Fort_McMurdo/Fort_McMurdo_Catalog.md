@@ -18,6 +18,50 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** volcanic rock peninsula dominated by an active volcano with a permanent lava
+lake — matches should prioritize populations actually living in the shadow of active volcanism, not
+just general volcanic geology.
+
+- **China (Primary):** Changbaishan (Jilin, near the Korean border) — dormant volcanic peak with a
+  crater lake and real nearby population; China's closest domestic match, though not currently active.
+- **USA (Primary):** Hawaii's Big Island — Kīlauea's own history of persistent/recurring lava lakes
+  makes this the single strongest real-world match in the entire project for Fort McMurdo/Erebus
+  specifically.
+- **Japan (Significant):** Sakurajima, Kagoshima — a real, frequently-erupting active volcano with a
+  substantial city (Kagoshima) living permanently in its shadow; an excellent match.
+- **Germany (Significant):** Vulkaneifel (Eifel volcanic field) — dormant volcanic terrain, real
+  population, but a much weaker match given the lack of current activity; flagged for Phase 2 review.
+- **France (Significant):** Auvergne — Chaîne des Puys / Puy de Dôme, dormant volcanic highland with
+  a substantial real population.
+- **UK (Significant):** No active-volcanism domestic match — closest is Edinburgh's Arthur's Seat
+  (extinct volcano) or the Isle of Skye's ancient volcanic terrain; flagged as the weakest match in
+  this city's set.
+- **Italy (Significant):** Mount Etna, Sicily — Catania and surrounding towns sit directly on the
+  slopes of Europe's most active volcano; an outstanding match alongside Hawaii and Sakurajima.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** mining/heavy industrial center ("Tepenia's primary heavy industrial center... the city
+that other cities needed to function") + historical administrative/governance role (former national
+capital).
+
+- **China (Primary):** Shenyang or another major Northeastern Chinese heavy-industry city — a strong
+  match for the industrial-center role.
+- **USA (Primary):** Pittsburgh — the classic real American heavy-industrial city that other regions
+  depended on, plus a real history as a seat of regional power; a strong dual match.
+- **Japan (Significant):** Kitakyushu — a genuine major Japanese heavy-industrial city.
+- **Germany (Significant):** Essen / the Ruhr — Germany's defining heavy-industrial region, an
+  excellent match.
+- **France (Significant):** Lorraine's steel-industry towns — a real French heavy-industrial region.
+- **UK (Significant):** Sheffield — a classic real UK heavy-industrial city ("Steel City").
+- **Italy (Significant):** Taranto — Italy's largest steel/heavy-industrial city, a strong match.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*

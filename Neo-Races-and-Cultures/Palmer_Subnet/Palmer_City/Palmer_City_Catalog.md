@@ -18,8 +18,52 @@
 
 ---
 
-## Per-Nation Entries
+## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
+
+**Terrain profile:** the mildest, most accessible geography in Tepenia — genuine temperate coastal
+island climate, rarely below -20°C. This entry covers Primary + Significant tier only, per the current
+phase's scope; the full 43-nation roster is reserved for the later, much larger Phase 1c pass on this
+city specifically.
+
+- **USA (Primary):** Sitka / Kodiak, Alaska — the same genuine cold-maritime island match used
+  elsewhere in this subnet.
+- **Germany (Significant):** No strong domestic match — flagged as weak.
+- **France (Significant):** Saint-Pierre-et-Miquelon — a real French territory off Newfoundland with a
+  genuine cold maritime island population, a strong match.
+- **UK (Significant):** The Falkland Islands / South Georgia — same strong match used elsewhere in
+  this subnet.
+- **Canada (Significant):** Newfoundland's outport communities — genuine cold maritime coastal island
+  culture, a strong match.
+- **Mexico (Significant):** No domestic match — flagged as weakest, likely needs a diaspora-community
+  approach.
+- **Brazil (Significant):** No domestic match — flagged as weak.
+
+---
+
+## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
+
+**City type:** cultural/entertainment capital of pre-war Tepenia (entertainment and hospitality
+industries central to its economy) + port-of-entry/administrative significance (first customs point;
+site of the original Falkland Treaty exile arrival in 2564). Landmark: Miles Davis Boulevard, a real
+jazz-record-culture civic identity. This entry covers Primary + Significant tier only, per the current
+phase's scope; the full 43-nation roster is reserved for the later Phase 1c pass on this city.
+
+- **USA (Primary):** New Orleans — a real American cultural/entertainment-capital city with its own
+  historic jazz-culture civic identity, an excellent, especially fitting match given the Miles Davis
+  Boulevard landmark.
+- **Germany (Significant):** Berlin — a real German cultural/entertainment-capital city.
+- **France (Significant):** Paris — France's own cultural/entertainment-capital city, a strong match.
+- **UK (Significant):** London — the UK's own cultural/entertainment-capital city.
+- **Canada (Significant):** Montreal — same real Canadian food/hospitality/culture city noted at
+  Zukelli, here doubling as a strong entertainment-capital match too.
+- **Mexico (Significant):** Mexico City — Mexico's own cultural/entertainment-capital city.
+- **Brazil (Significant):** Rio de Janeiro — Brazil's own cultural/entertainment-capital city, an
+  excellent match.
+
+---
+
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
 
 *(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure. Note: given the
 43-nation roster, this city's own cataloging pass will likely be the largest single-city undertaking in
-the whole project — worth planning for accordingly when Phase 1 begins here.)*
+the whole project — worth planning for accordingly when Phase 1c begins here.)*
