@@ -129,13 +129,20 @@ what actually maps onto Sanay.
 #### Deep Culture findings
 
 **Communication styles and rules:**
-- Direct, efficiency-oriented communication — but the causal driver is the port's rotating-shift
-  freighter schedule demanding fast, unambiguous handoffs between crews, not an imported national
-  communication style; the homeland pattern reinforces it rather than creating it from nothing.
-- Facial expressions/gestures skew toward functional dock signaling (hand signals for crane/load
-  coordination) that gets carried into everyday communication register.
-- Emotional display: reserved in public/work contexts, considerably warmer in private/off-shift
-  contexts — a genuine public/private split.
+- Facial expressions, gestures, eye contact: functional dock signaling (hand signals for crane/load
+  coordination) carries into everyday communication register; eye contact brief and task-focused during
+  work, more sustained in off-shift social settings.
+- Personal space, touching, body language: close working proximity accepted and expected during crew
+  labor (unloading requires coordinated physical closeness), reverting to more standard personal-space
+  norms off-shift.
+- Conversational patterns in different social situations: direct, efficiency-oriented in work contexts
+  — the causal driver is the port's rotating-shift freighter schedule demanding fast, unambiguous
+  handoffs between crews, not an imported national communication style; the homeland pattern reinforces
+  it rather than creating it from nothing. Warmer, more digressive conversational style off-shift.
+- Handling and displaying of emotion: reserved in public/work contexts, considerably warmer in
+  private/off-shift contexts — a genuine public/private split.
+- Tone of voice: even and clipped on the job (carrying over freighter-crew radio-and-signal discipline),
+  more relaxed and variable off-shift.
 
 **Notions of:**
 - Courtesy and manners: punctuality is a practical requirement, not just etiquette — lateness fails
@@ -154,24 +161,32 @@ what actually maps onto Sanay.
   patterns) map onto it unusually cleanly.
 - Fairness and justice: equitable rotation of undesirable shifts (freighters that arrive at the worst
   hours) is a core, closely-watched fairness question.
+- Roles related to age, sex, class, family: role and standing tied to seniority within the shift
+  system (years of demonstrated reliability) rather than age, sex, or family background as such — a
+  genuinely function-first role hierarchy.
 
 **Attitudes toward:**
-- Elders: veteran shipyard/dock workers hold real informal authority, embodying the city's own
-  "endured, wasn't spared" civic identity in a literal, personal way.
+- Elders, adolescents, dependents: veteran shipyard/dock workers hold real informal authority,
+  embodying the city's own "endured, wasn't spared" civic identity in a literal, personal way;
+  adolescents apprenticed onto dock crews early, learning the rotation system directly rather than
+  through formal instruction.
 - Rule expectations, work, authority: authority is earned through demonstrated endurance and
   reliability, mirroring the city's own civic mythology almost exactly.
 - Cooperation vs. competition: cooperation dominates at the work-crew level (unloading a freighter is
   not a solo task); competition shows up instead as status-signaling between crews (whose crew handles
   the largest ships, fastest turnarounds).
-- Death: treated pragmatically, in the same "damaged, still standing" register as the city's own war
-  damage — not minimized, but not dramatized either.
+- Relationships with animals, age, sin, death: death treated pragmatically, in the same "damaged, still
+  standing" register as the city's own war damage — not minimized, but not dramatized either; aging
+  itself treated as a natural accumulation of the same reliability the whole civic value system prizes,
+  not something to be resisted or hidden.
 
 **Approaches to:**
 - Religion, courtship, marriage: given the city's roughly even human/robot population, these follow
   established Tepenian-wide norms (see `project_sexuality_rules` memory) rather than an imported
   German-specific custom set.
-- Decision-making, problem solving: pragmatic and function-first — "keep the docks running" is the
-  default frame for resolving disputes.
+- Raising children, decision-making, problem solving: children raised with an early, practical
+  induction into the rotation-and-reliability value system; decision-making pragmatic and
+  function-first — "keep the docks running" is the default frame for resolving disputes.
 
 ---
 
@@ -212,9 +227,17 @@ Santos's genuine maritime/port culture as the one piece that *does* transfer cle
 #### Deep Culture findings
 
 **Communication styles and rules:**
-- Warmer, more expressive public communication register than the German-population pattern above —
-  emotional display is not confined to private/off-shift contexts the same way.
-- Physical warmth (touch, closer personal space) more normalized in social contexts.
+- Facial expressions, gestures, eye contact: expressive, animated — gestures used freely to reinforce
+  spoken meaning, sustained eye contact read as engagement rather than confrontation.
+- Personal space, touching, body language: physical warmth (touch, closer personal space) more
+  normalized in social contexts than the German-population's more reserved default.
+- Conversational patterns in different social situations: warmer, more expressive public communication
+  register than the German-population pattern above — emotional display is not confined to
+  private/off-shift contexts the same way.
+- Handling and displaying of emotion: openly expressed, in both work and social contexts — a genuine
+  contrast with the German-population's public/private split.
+- Tone of voice: animated and variable, carrying real emotional inflection rather than staying level
+  across contexts.
 
 **Notions of:**
 - Courtesy and manners: relational warmth valued alongside (sometimes ahead of) strict punctuality —
@@ -224,26 +247,37 @@ Santos's genuine maritime/port culture as the one piece that *does* transfer cle
 - Friendship, leadership: leadership through personal relationship and trust as much as demonstrated
   reliability — a different route to the same kind of informal authority the German-population pattern
   reaches through endurance.
+- Cleanliness, modesty, beauty: personal presentation and warmth of manner both read as forms of
+  beauty, a contrast with the German-population's "well-maintained tool" aesthetic standard.
 
 **Concepts of:**
 - Self, time, past and future: more relational/flexible time sense, in tension with (not replacing)
   the freighter-cycle time discipline described above.
 - Fairness and justice: fairness read relationally — whether someone was treated with warmth and
   respect matters as much as whether the formal rotation was followed to the letter.
+- Roles related to age, sex, class, family: role and standing tied more to relationship and family/
+  social network position than to shift-seniority alone — a genuine contrast with the German
+  population's function-first hierarchy.
 
 **Attitudes toward:**
+- Elders, adolescents, dependents: elders honored through active inclusion in family/social gatherings
+  rather than primarily through workplace authority; children raised within extended, communal family
+  networks.
+- Rule expectations, work, authority: authority respected but not treated as absolute — personal
+  relationship with a leader matters alongside their formal role.
 - Cooperation vs. competition: cooperation framed communally/socially rather than task-specifically —
   a different flavor of cooperation than the German-population's crew-functional version, complementary
   rather than contradictory.
-- Death: Día de los Muertos-adjacent practices frame death with more overt ritual and remembrance than
-  the German-population's pragmatic "damaged, still standing" register — another real point of internal
-  cultural contrast worth designing around later.
+- Relationships with animals, age, sin, death: Día de los Muertos-adjacent practices frame death with
+  more overt ritual and remembrance than the German-population's pragmatic "damaged, still standing"
+  register — another real point of internal cultural contrast worth designing around later.
 
 **Approaches to:**
 - Religion, courtship, marriage: same Tepenian-wide norms baseline as above, expressed with a warmer,
   more socially expressive register.
-- Raising children, decision-making: communal/family-network decision-making, contrasting with the
-  German-population's function-first pragmatism.
+- Raising children, decision-making, problem solving: communal/family-network decision-making,
+  contrasting with the German-population's function-first pragmatism — problems worked through via
+  group discussion rather than a single designated authority.
 
 ---
 
@@ -257,34 +291,63 @@ heavily than the Highland angle, consistent with how that imbalance was already 
 #### Surface Culture findings
 - **Food:** a "tea call" tradition surviving into shift work — a fixed short break during
   freighter-unloading cycles, distinct in character from the German population's grab-and-go dock food.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct standalone UK festival surfaced; largely folded into the shared
+  "ice-free passage" seasonal observance established for Germany above.
+- **Fashion:** the same heavy shift-work oilskin/canvas layering as the German population, with no
+  strongly distinct UK-specific variant.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** British maritime folk/sea-shanty tradition — genuinely convergent with the German
   population's own sea-shanty heritage rather than a separate, competing tradition; the two likely
   blended early rather than staying distinct.
-- **Games, Arts & Crafts, Literature, Language:** largely absorbed into or overlapping with the German
-  population's port-culture patterns above, given the weak standalone geography anchor and the shared
-  port-labor context; distinct UK-specific practices are less pronounced here than for Germany or
-  Brazil. *(Flagged honestly rather than invented — this population's imprint on Sanay reads as more
+- **Performances:** shares in the German population's seasonal reopening procession rather than
+  maintaining a separate one.
+- **Dances, Games, Arts & Crafts, Literature, Language:** largely absorbed into or overlapping with the
+  German population's port-culture patterns above, given the weak standalone geography anchor and the
+  shared port-labor context; distinct UK-specific practices are less pronounced here than for Germany
+  or Brazil. *(Flagged honestly rather than invented — this population's imprint on Sanay reads as more
   diffuse than concentrated.)*
 
 #### Deep Culture findings
 
 **Communication styles and rules:**
-- Institutional/procedural communication habits (queueing, scheduling discipline) reinforce, rather
-  than compete with, the German-population's punctuality-driven freighter-schedule norms — a second
-  convergent point between these two populations.
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced beyond the
+  general port-labor register shared with Germany.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: institutional/procedural communication
+  habits (queueing, scheduling discipline) reinforce, rather than compete with, the German-population's
+  punctuality-driven freighter-schedule norms — a second convergent point between these two
+  populations.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced; broadly convergent
+  with the German-population's reserved-in-public register.
+- Tone of voice: no strongly distinct local variant surfaced.
 
 **Notions of:**
 - Courtesy and manners: procedural fairness (rotation followed correctly, queue order respected) as
   the primary courtesy standard — close to, but distinct from, the German population's
   reliability-based standard.
+- Friendship, leadership: no strongly distinct local variant surfaced; broadly convergent with the
+  German population's reliability-earned-authority pattern.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the shared
+  freighter-cycle time discipline.
+- Fairness and justice: procedural correctness (queue/rotation order) as the primary fairness standard,
+  distinct in emphasis from Germany's reliability-standard and Brazil's relational-warmth standard.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
 **Attitudes toward:**
-- Cooperation vs. competition, work and authority: broadly convergent with the German-population
-  pattern above, given the shared port-labor foundation both populations' civic roles are built on.
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: broadly convergent with the German-population pattern above,
+  given the shared port-labor foundation both populations' civic roles are built on.
+- Cooperation vs. competition: broadly convergent with the German-population pattern above.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
 **Approaches to:**
-- Religion, courtship, marriage, decision-making: same Tepenian-wide baseline as the other two
-  populations; no strongly distinct UK-specific pattern surfaced in this pass.
+- Religion, courtship, marriage: same Tepenian-wide baseline as the other two populations; no strongly
+  distinct UK-specific pattern surfaced in this pass.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
