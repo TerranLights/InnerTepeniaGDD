@@ -150,18 +150,62 @@ New Orleans (civic type — a real American cultural/entertainment capital with 
 identity, an excellent match given the Miles Davis Boulevard landmark).
 
 #### Surface Culture findings
+- **Food:** New Orleans's own real broadly-accessible entertainment-and-hospitality food culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** New Orleans-style civic festivity, echoing its own real "diversionary pastime for
+  everyone" entertainment character.
+- **Fashion:** casino/nightlife visual culture, echoing New Orleans's own broadly-accessible
+  entertainment character.
+- **Holidays:** Tepenian Independence Day, alongside informal nightlife-calendar observances tied to
+  the tourism economy.
 - **Music:** the founding jazz touchstone, plus present-day rockabilly and electroswing — a living,
   evolving scene, not a static historical one, per the developer's own vision notes.
 - **Performances:** casino/nightlife culture serving the Upper Earth tourism economy, echoing New
   Orleans's own real broadly-accessible entertainment character ("some sort of diversionary pastime for
   everyone," not one narrow experience).
+- **Dances:** rockabilly and electroswing-associated dance culture, following directly from the music
+  scene above.
+- **Games:** casino gaming culture, serving the Upper Earth tourism economy directly.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** nightlife/entertainment-industry vocabulary, echoing New Orleans's own hospitality
+  culture.
 
 #### Deep Culture findings
 
-**Concepts of:** identity and felt experience as the primary civic value, directly matching Palmer
-City's own established Feeling/Assertive/Positive-Outlook personality core — status here is about being
-seen and experienced, not about endurance or function the way it is at every Halley subnet city
-cataloged so far.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: expressive, warm, and outward-facing, matching Palmer
+  City's own Feeling/Assertive/Positive-Outlook personality core.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: warm, hospitality-oriented exchange, echoing
+  New Orleans's own broadly-accessible entertainment culture.
+- Handling and displaying of emotion: openly expressive, matching the Positive-Outlook personality core.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: hospitality and warmth as the baseline courtesy standard, echoing New Orleans's
+  own entertainment-industry culture.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: presentation and visible glamour valued, matching the Feeling-centered
+  personality core.
+
+**Concepts of:**
+- Self, time, past and future: identity and felt experience as the primary civic value, directly
+  matching Palmer City's own established Feeling/Assertive/Positive-Outlook personality core — status
+  here is about being seen and experienced, not about endurance or function the way it is at every
+  Halley subnet city cataloged so far.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -182,14 +226,51 @@ Black-originated art form's records, adopted by an exile population building a l
 becoming a defining civic export.
 
 #### Surface Culture findings
-- **Music, Language:** Montreal's own genuine bilingual jazz-nightlife culture, the closest real-world
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Montreal's own genuine bilingual jazz-nightlife culture, the closest real-world structural
+  twin found anywhere in this project for Palmer City's own founding mechanism.
+- **Performances:** Montreal's own genuine jazz-nightlife culture.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Montreal's own genuine bilingual jazz-nightlife culture, the closest real-world
   structural twin found anywhere in this project for Palmer City's own founding mechanism.
 
 #### Deep Culture findings
 
-**Concepts of:** a restrictive-neighbor-manufactures-demand dynamic as a lived, structural fact of civic
-identity — not just an economic mechanism but a genuine self-understanding: a place defined partly by
-being *the alternative* to somewhere stricter.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a restrictive-neighbor-manufactures-demand dynamic as a lived,
+  structural fact of civic identity — not just an economic mechanism but a genuine self-understanding: a
+  place defined partly by being *the alternative* to somewhere stricter.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -199,15 +280,54 @@ being *the alternative* to somewhere stricter.
 by Rio de Janeiro (civic type), Brazil's own real cultural/entertainment capital, an excellent match.
 
 #### Surface Culture findings
-- **Music, Dances, Performances:** Rio's own real carnival-and-entertainment civic identity, a strong,
-  direct contributor to Palmer City's broader entertainment-capital register.
+- **Food:** Rio's own real carnival-and-entertainment food culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** Rio's own real carnival-and-entertainment civic identity, a strong, direct contributor
+  to Palmer City's broader entertainment-capital register.
+- **Fashion:** Rio's own real carnival-costume-adjacent visual culture.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Rio's own real carnival-and-entertainment civic identity, a strong, direct contributor to
+  Palmer City's broader entertainment-capital register.
+- **Performances:** Rio's own real carnival-and-entertainment civic identity.
+- **Dances:** Rio's own real carnival-and-entertainment civic identity.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** public festivity and spectacle as civic pride, converging directly with Palmer City's
-own Positive-Outlook/Assertive personality core — unlike Sanay or Esperanza, where Brazil's festive
-register reads as a *counterpoint* to a function-first dominant culture, here it converges with the
-dominant culture rather than contrasting it.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: expressive and outward-facing, echoing Rio's own real
+  carnival culture.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: openly expressive, echoing Rio's own real carnival culture.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: visible spectacle and presentation valued, echoing Rio's own carnival
+  aesthetic.
+
+**Concepts of:**
+- Self, time, past and future: public festivity and spectacle as civic pride, converging directly with
+  Palmer City's own Positive-Outlook/Assertive personality core — unlike Sanay or Esperanza, where
+  Brazil's festive register reads as a *counterpoint* to a function-first dominant culture, here it
+  converges with the dominant culture rather than contrasting it.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -217,13 +337,53 @@ dominant culture rather than contrasting it.
 Paris (civic type), France's own cultural/entertainment capital, a strong match.
 
 #### Surface Culture findings
-- **Fashion, Arts & Crafts:** Paris's own real reputation for cultural sophistication and style,
-  contributing a more refined register alongside the jazz/nightlife-driven populations above.
+- **Food:** Paris's own real reputation for culinary sophistication.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** Paris's own real reputation for cultural sophistication and style, contributing a more
+  refined register alongside the jazz/nightlife-driven populations above.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Paris's own real reputation for cultural sophistication and style, contributing a
+  more refined register alongside the jazz/nightlife-driven populations above.
+- **Literature:** Paris's own real reputation for cultural/literary sophistication.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** cultural sophistication as its own form of the city's broader "identity and felt
-experience" value — a more refined variant of the same underlying Feeling-center civic personality.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: refined and understated, echoing Paris's own reputation for
+  cultural sophistication.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: refined presentation and style valued, echoing Paris's own reputation
+  for cultural sophistication.
+
+**Concepts of:**
+- Self, time, past and future: cultural sophistication as its own form of the city's broader "identity
+  and felt experience" value — a more refined variant of the same underlying Feeling-center civic
+  personality.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -233,13 +393,53 @@ experience" value — a more refined variant of the same underlying Feeling-cent
 Berlin (civic type), Germany's own cultural/entertainment capital, a strong match.
 
 #### Surface Culture findings
-- **Music, Performances:** Berlin's own real nightlife/club culture, a genuine contributor to Palmer
-  City's electroswing-and-beyond present-day music scene specifically.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** Berlin's own real nightlife/club subculture fashion, a genuine contributor alongside
+  the jazz/nightlife-driven populations above.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Berlin's own real nightlife/club culture, a genuine contributor to Palmer City's
+  electroswing-and-beyond present-day music scene specifically.
+- **Performances:** Berlin's own real nightlife/club culture, a genuine contributor to Palmer City's
+  electroswing-and-beyond present-day music scene specifically.
+- **Dances:** Berlin's own real nightlife/club dance culture, following from the music scene above.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Berlin's own real nightlife/club subculture vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** nightlife and subcultural identity as civic pride, converging with the broader
-entertainment-capital register while contributing Berlin's own specific edge/subculture flavor.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: subcultural/edge aesthetic valued, echoing Berlin's own club-culture
+  register.
+
+**Concepts of:**
+- Self, time, past and future: nightlife and subcultural identity as civic pride, converging with the
+  broader entertainment-capital register while contributing Berlin's own specific edge/subculture
+  flavor.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -250,12 +450,48 @@ entertainment-capital register while contributing Berlin's own specific edge/sub
 cultural/entertainment capital.
 
 #### Surface Culture findings
-- **Performances, Literature:** London's own real broad-spectrum cultural-capital identity.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** London's own real broad-spectrum cultural-capital identity.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** London's own real broad-spectrum cultural-capital identity.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** cultural breadth and cosmopolitanism, converging with the broader entertainment-capital
-register shared across this city's populations.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: cultural breadth and cosmopolitanism, converging with the broader
+  entertainment-capital register shared across this city's populations.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -266,13 +502,50 @@ weakest) — carried by Mexico City (civic type), Mexico's own cultural/entertai
 match.
 
 #### Surface Culture findings
-- **Music, Food:** Mexico City's own real cultural-capital density and diversity, distinct in flavor
-  from Veracruz's own port-town register used for this same nation at Esperanza and Marambio.
+- **Food:** Mexico City's own real cultural-capital density and diversity, distinct in flavor from
+  Veracruz's own port-town register used for this same nation at Esperanza and Marambio.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Mexico City's own real cultural-capital density and diversity, distinct in flavor from
+  Veracruz's own port-town register used for this same nation at Esperanza and Marambio.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** urban cultural density and diversity as civic pride, converging with the broader
-entertainment-capital register.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: urban cultural density and diversity as civic pride, converging with the
+  broader entertainment-capital register.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
