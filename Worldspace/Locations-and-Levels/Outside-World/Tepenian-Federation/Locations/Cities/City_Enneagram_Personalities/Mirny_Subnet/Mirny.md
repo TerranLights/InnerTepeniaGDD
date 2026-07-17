@@ -13,3 +13,5 @@ A city literally engineered to turn inward against a hostile environment — a f
 ## Harmonic Group: Competency
 
 Mirny handles genuinely harsh wind conditions and heavy industrial operations without any established drama attached — a rough, practical, no-frills competence rather than visible strain or a hardship reframed as meaning. Its pride being "unforced" reinforces this: a calm, settled confidence in its own capability, not something that needs defending or dressing up.
+
+**Reassigned 2026-07-16, per developer resolution of Davis's mining/breadbasket tension:** Mirny's own quarries now also feed Sinheung's fabrication-synthesis-chamber manufacturing directly, elevating its industrial identity from subnet-local construction engine to national-scale top-tier industrial hub. This reinforces rather than complicates the read above — Mirny doesn't need to advertise or dramatize this expanded role any more than it dramatizes anything else; the same unforced, no-frills Competency applies at the larger scale exactly as it did at the smaller one.

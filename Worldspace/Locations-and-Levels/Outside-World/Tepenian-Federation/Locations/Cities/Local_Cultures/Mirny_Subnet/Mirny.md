@@ -169,6 +169,8 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 
 **Developer vision, established 2026-07-05 — the subnet's construction engine.** Mirny's industrial yards process raw materials trucked in from quarries to the south, toward the continental interior in the general direction of the South Pole (not shared with Davis, which draws from its own, different, nearer quarries), then manufacture both construction materials for the eastern highways (toward Casey and, via Hwy 110's spur, Concordia) and machinery used to build and maintain infrastructure across the subnet. This gives Mirny's already-substantial industrial sector real physical teeth beyond generic "manufacturing" — Mirny didn't just administer the subnet's communications hub, it built the subnet's own roads and the equipment that maintains them.
 
+**Reassigned 2026-07-16, per developer resolution of Davis's mining/breadbasket tension:** Mirny is also the near-exclusive top-tier industrial/quarrying hub feeding raw materials to the Tri-Cities — specifically to Sinheung, where they're fabricated into robot-synthesis chambers, a nationally significant supply chain previously misattributed to Davis. This sits alongside, not in place of, Mirny's own eastern-highway construction-materials role above — two distinct quarrying-to-manufacturing chains running through the same industrial core, giving Mirny's ~20% Industrial/manufacturing sector share genuine claim to "top-tier industrial hub" status at the national scale, not just the subnet scale.
+
 ---
 
 ## 16. Human-Robot Relations

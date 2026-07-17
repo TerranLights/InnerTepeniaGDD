@@ -138,6 +138,8 @@ The line is the Antarctic Circle. Mirny sits on it, and Mirny knows it. The sols
 
 Mirny's economy was built around its coastal position, its role as the Mirny subnet hub, and the resources of the East Antarctic coast. The subnet hub function would have made Mirny an important communications and logistics node for the entire "Australian" subnet region. **Established 2026-07-05:** also a genuine industrial/construction engine — quarried raw materials from the south (toward the continental interior/South Pole direction) processed into construction materials for the eastern highways and infrastructure-maintenance machinery, at the sheltered industrial core inside the city's outer wind-fortified ring.
 
+**Reassigned 2026-07-16, per developer resolution of Davis's mining/breadbasket tension:** Mirny is also the near-exclusive top-tier industrial/quarrying hub feeding raw materials to the Tri-Cities — specifically to Sinheung, where they're fabricated into robot-synthesis chambers. This role was previously misattributed to Davis (whose own economy is now resolved as agricultural/limnological, not mining) and belongs here instead: Mirny's own quarries supply both the eastern-highway construction materials already established above AND this new, nationally significant chamber-manufacturing supply chain, elevating Mirny's industrial identity well beyond a subnet-local construction engine. *(Cross-file correction still owed to `Local_Cultures/Mirny_Subnet/Mirny.md` and `City_Enneagram_Personalities/Mirny_Subnet/Mirny.md` — see those files directly.)*
+
 ---
 
 ## Notable Locations
