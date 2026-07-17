@@ -116,16 +116,55 @@ global air-cargo hub, the single strongest "airfield as freight-network center" 
 this project).
 
 #### Surface Culture findings
-- **Language, Performances:** precision-scheduling logistics culture, echoing FedEx's own real cultural
-  reputation for reliability and speed, blended with high-altitude mountain-town practicality
-  (Leadville).
+- **Food:** high-altitude mountain-town practicality (Leadville), functional and unpretentious.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** high-altitude mountain-town practicality (Leadville).
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** precision-scheduling logistics culture, echoing FedEx's own real cultural
+  reputation for reliability and speed.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** precision-scheduling logistics culture, echoing FedEx's own real cultural reputation
+  for reliability and speed, blended with high-altitude mountain-town practicality (Leadville).
 
 #### Deep Culture findings
 
-**Concepts of:** efficiency and reliability of freight movement as the central civic value — the
-airfield's function (Tepenia's import/export backbone) becomes a genuine point of civic pride here,
-similar in structure to how Sanay's port anchors its own endurance mythology, but organized around
-*speed and precision* specifically rather than endurance.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: precise, schedule-oriented exchange, echoing
+  FedEx's own real cultural reputation for reliability and speed.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated logistics competence, echoing FedEx's own
+  real reliability-focused culture.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: efficiency and reliability of freight movement as the central civic
+  value — the airfield's function (Tepenia's import/export backbone) becomes a genuine point of civic
+  pride here, similar in structure to how Sanay's port anchors its own endurance mythology, but
+  organized around *speed and precision* specifically rather than endurance.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: reliability and punctuality as the primary markers of authority,
+  echoing FedEx's own real reputational culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -136,14 +175,50 @@ similar in structure to how Sanay's port anchors its own endurance mythology, bu
 Type — weak).
 
 #### Surface Culture findings
-- **Food, Fashion:** mountain-community practical culture, adapted to elevation and exposure rather
-  than the freight-logistics identity dominant elsewhere at Troll.
+- **Food:** mountain-community practical culture, adapted to elevation and exposure rather than the
+  freight-logistics identity dominant elsewhere at Troll.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** mountain-community practical culture, adapted to elevation and exposure.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** elevation-mastery and endurance as the primary value here — less tied to the
-freight-hub civic identity given the weak City-Type match, giving this population a more generally
-"mountain-hardy" register than a "logistics-precision" one.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: elevation-mastery and endurance as the primary value here — less tied
+  to the freight-hub civic identity given the weak City-Type match, giving this population a more
+  generally "mountain-hardy" register than a "logistics-precision" one.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -154,12 +229,50 @@ in the subnet) and East Midlands Airport (civic type — the UK's major dedicate
 to DHL UK — a strong match).
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** DHL-style logistics-hub professional culture blended with Cairngorm highland tradition.
 
 #### Deep Culture findings
 
-**Concepts of:** freight-logistics precision as a shared value, converging directly with the USA
-population above — a second strong voice in Troll's dominant civic register.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: professional, logistics-hub-oriented
+  exchange, echoing East Midlands/DHL UK's own real culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: freight-logistics precision as a shared value, converging directly with
+  the USA population above — a second strong voice in Troll's dominant civic register.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: reliability and professional competence as the primary markers of
+  authority, echoing East Midlands/DHL UK's own real culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -170,11 +283,52 @@ strong domestic match (City-Type — weak). Consistent with the now fully-establ
 matches weakly at small purpose-built specialized settlements (fifth confirmed instance).
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Food:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin by the same honest logic established at the previous four cities.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: general Brazilian-diaspora warmth persists as a baseline
+  register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin by the same honest logic established at the previous four cities — now itemized per the full
+depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
@@ -185,16 +339,55 @@ match, a real high-altitude settlement specifically famous for its dramatic, dem
 airport) and the Roissy/Charles de Gaulle cargo zone (civic type — a decent match).
 
 #### Surface Culture findings
-- **Performances, Literature:** aviation skill and daring framed as a point of cultural pride and even
-  glamour, echoing Courchevel's own real reputation as one of the world's most demanding airports to
-  land at — a genuinely distinct register from the USA/UK populations' efficiency-and-reliability
-  framing.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** aviation skill and daring framed as a point of cultural pride and even glamour,
+  echoing Courchevel's own real reputation as one of the world's most demanding airports to land at — a
+  genuinely distinct register from the USA/UK populations' efficiency-and-reliability framing.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** aviation skill and daring framed as a point of cultural pride and even glamour,
+  echoing Courchevel's own real reputation as one of the world's most demanding airports to land at.
+- **Language:** aviation-daring/glamour vocabulary, echoing Courchevel's own real reputation.
 
 #### Deep Culture findings
 
-**Concepts of:** the airfield as a site of skilled spectacle, not just logistics infrastructure — a
-counterpoint to the dominant freight-precision civic register, giving Troll's culture a second,
-distinctly different reason to take pride in its own aviation identity.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: aviation daring displayed with a certain glamour and flair,
+  echoing Courchevel's own real reputation, a contrast to the USA/UK populations' more reserved
+  efficiency-focused register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated aviation skill and daring, echoing
+  Courchevel's own real reputation.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: the airfield as a site of skilled spectacle, not just logistics
+  infrastructure — a counterpoint to the dominant freight-precision civic register, giving Troll's
+  culture a second, distinctly different reason to take pride in its own aviation identity.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -205,14 +398,50 @@ and Leipzig/Halle Airport (civic type — DHL's major European air-cargo hub, a 
 small population share).
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** DHL-style logistics-hub culture, converging closely with the UK population's own East
   Midlands/DHL UK-derived entry above.
 
 #### Deep Culture findings
 
-**Concepts of:** freight-logistics precision, a third independent real-world route (after USA's Memphis
-and UK's East Midlands) to the same dominant civic value — the clearest three-way convergence on a
-single value found in this project since Belgrano's "maker city" pattern.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: freight-logistics precision, a third independent real-world route
+  (after USA's Memphis and UK's East Midlands) to the same dominant civic value — the clearest three-way
+  convergence on a single value found in this project since Belgrano's "maker city" pattern.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
