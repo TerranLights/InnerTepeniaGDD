@@ -108,16 +108,60 @@ Delta (geography, shared substitution logic with Halley) and Los Alamos, New Mex
 real US town built entirely around scientific/engineering R&D, strong match).
 
 #### Surface Culture findings
-- **Fashion, Food:** lab-adjacent practicality, echoing Los Alamos's own real "purpose-built for a
-  scientific mission" town character.
+- **Food:** lab-adjacent practicality, echoing Los Alamos's own real "purpose-built for a scientific
+  mission" town character.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** lab-adjacent practicality, echoing Los Alamos's own real "purpose-built for a scientific
+  mission" town character.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Electronic, Metal, and Digital-Industrial — Neumayer's own confirmed dominant genres,
+  a machinery-adjacent, precision-coded soundscape this population's mission-driven research culture
+  fits naturally into.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** technical/mission-report writing culture, echoing Los Alamos's own real
+  documentation-heavy scientific tradition.
+- **Language:** technical/engineering jargon, echoing Los Alamos's own mission-driven research
+  vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** intellectual and technical achievement as the primary status marker — Los Alamos's own
-real culture (a town of scientists, built around a mission) reinforces this directly. Both this
-population's geography match (Delta engineering-adaptation) and City-Type match (precision R&D) point
-toward the same underlying value — engineering competence — just applied to different objects: ground
-stability there, fabrication-chamber R&D here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: precise, evidence-oriented exchange, echoing
+  Los Alamos's own mission-driven scientific culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated technical achievement, echoing Los Alamos's
+  own mission-town culture.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: intellectual and technical achievement as the primary status marker —
+  Los Alamos's own real culture (a town of scientists, built around a mission) reinforces this directly.
+  Both this population's geography match (Delta engineering-adaptation) and City-Type match (precision
+  R&D) point toward the same underlying value — engineering competence — just applied to different
+  objects: ground stability there, fabrication-chamber R&D here.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: technical achievement and demonstrated competence as the primary
+  markers of authority, echoing Los Alamos's own mission-driven culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -128,16 +172,59 @@ stability there, fabrication-chamber R&D here.
 population at Neumayer.
 
 #### Surface Culture findings
-- **Literature, Performances:** Saclay's own real prestige-institution culture, drawing on France's
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Electronic, Metal, and Digital-Industrial — Neumayer's own confirmed dominant genres,
+  fitting this population's own elite-research-institution register alongside the city's broader
+  machinery-adjacent soundscape.
+- **Performances:** Saclay's own real prestige-institution culture, drawing on France's
   grandes-écoles-adjacent elite research tradition.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** Saclay's own real prestige-institution culture, drawing on France's
+  grandes-écoles-adjacent elite research tradition.
+- **Language:** elite-research-institution vocabulary, echoing Saclay's own grande-école-adjacent
+  register.
 
 #### Deep Culture findings
 
-**Concepts of:** scientific/intellectual prestige as status, converging with the USA and Germany
-populations on the same underlying value but via a distinctly French elite-education-system register —
-worth noting as a genuine internal texture point: three different national research-prestige
-traditions (French grande-école, German institute, American mission-driven) coexisting at one city
-could plausibly read as subtly competing status hierarchies within Neumayer's own research culture.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to elite-institution pedigree, echoing Saclay's own
+  grande-école-adjacent hierarchy.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: scientific/intellectual prestige as status, converging with the USA and
+  Germany populations on the same underlying value but via a distinctly French elite-education-system
+  register — worth noting as a genuine internal texture point: three different national
+  research-prestige traditions (French grande-école, German institute, American mission-driven)
+  coexisting at one city could plausibly read as subtly competing status hierarchies within Neumayer's
+  own research culture.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: prestige-institution pedigree treated as a genuine marker of
+  authority, echoing Saclay's own elite-education-system hierarchy.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -153,14 +240,57 @@ heritage, dual-anchored (strong on both geography and City-Type), and a substant
 the clearest "foundational, not just present" population found in this project so far.
 
 #### Surface Culture findings
-- **Literature, Arts & Crafts:** institute-culture traditions (Max Planck/TUM heritage) — methodical,
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Electronic, Metal, and Digital-Industrial — Neumayer's own confirmed dominant genres; given
+  Germany's founding-operator heritage here, this population's own real precision-engineering culture
+  reads as especially close to the source of this machinery-adjacent soundscape.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** institute-culture traditions (Max Planck/TUM heritage) — methodical,
   prestige-conscious, tradition-aware research practice.
+- **Literature:** institute-culture traditions (Max Planck/TUM heritage) — methodical,
+  prestige-conscious, tradition-aware research practice.
+- **Language:** institute-culture technical vocabulary (Max Planck/TUM heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** institutional prestige and methodical rigor as the city's own foundational research
-ethos, not just one flavor among several — this population's presence is closer to Neumayer's actual
-origin story than to an added layer, distinct from every other population's entry here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: methodical, precision-oriented exchange,
+  echoing the Max Planck/TUM institute tradition.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to institutional prestige and methodical rigor, echoing the
+  Max Planck/TUM institute tradition.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: institutional prestige and methodical rigor as the city's own
+  foundational research ethos, not just one flavor among several — this population's presence is closer
+  to Neumayer's actual origin story than to an added layer, distinct from every other population's entry
+  here.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: institutional prestige and methodical rigor treated as the city's
+  own foundational value, not just an imported one.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -170,14 +300,53 @@ origin story than to an added layer, distinct from every other population's entr
 (civic type — a real UK science/engineering research campus town, strong match).
 
 #### Surface Culture findings
-- **Literature, Arts & Crafts:** Harwell's own real campus-research-community character — engineering
-  and nuclear-research heritage specifically.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Electronic, Metal, and Digital-Industrial — Neumayer's own confirmed dominant genres,
+  consistent with Harwell's own real engineering/nuclear-research campus character.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Harwell's own real campus-research-community character — engineering and
+  nuclear-research heritage specifically.
+- **Literature:** Harwell's own real campus-research-community character — engineering and
+  nuclear-research heritage specifically.
+- **Language:** engineering/nuclear-research technical vocabulary, echoing Harwell's own campus
+  heritage.
 
 #### Deep Culture findings
 
-**Concepts of:** research-community campus identity, converging with the broader prestige-research
-value shared across USA/France/Germany above, though with less overall textural weight given the
-smaller population share here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: research-community campus identity, converging with the broader
+  prestige-research value shared across USA/France/Germany above, though with less overall textural
+  weight given the smaller population share here.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -188,10 +357,52 @@ smaller population share here.
 share at Neumayer.
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora baseline persists (as at Sanay/Belgrano/Halley), without
-  a strong local anchor to add Neumayer-specific texture.
+- **Food:** general Brazilian-diaspora baseline persists (as at Sanay/Belgrano/Halley), without a
+  strong local anchor to add Neumayer-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Brazilian-diaspora baseline persists alongside Neumayer's own confirmed
+  Electronic/Metal/Digital-Industrial dominant genres, without a strong local anchor to add
+  Neumayer-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
+
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: general Brazilian-diaspora warmth persists as a baseline
+  register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 **Methodology finding — now a confirmed pattern across three cities:** Brazil's City-Type matches read
 weak specifically at cities whose defining category is a **small, purpose-built, single-mission
