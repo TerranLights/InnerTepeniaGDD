@@ -57,7 +57,7 @@ once achieved.
 Sinheung's fabrication economy grows into genuine industrial competence, but competence alone doesn't
 yet make it nationally indispensable. **But** Tepenia's whole robot-creation infrastructure needs more
 manufacturing sites capable of producing fabrication-synthesis chambers than currently exist.
-**Therefore** Foreman Dae-ho Whitfield pushes the city's own engineers to pursue exactly that
+**Therefore** Foreman Dae-ho Richter pushes the city's own engineers to pursue exactly that
 capability — the specific technical achievement that turns an ordinary industrial center into
 something touching the entire Federation's population growth. **But** securing that role means
 competing with other cities' own industrial ambitions for the same opportunity. **Therefore** his
@@ -125,10 +125,10 @@ realization changes how much pressure the work actually feels like it carries. *
 plant's own culture develops an unusually serious, careful standard around chamber production
 specifically, distinct from the rest of the city's ordinary industrial work.
 
-## 10. Whitfield and Baek
+## 10. Richter and Baek
 
 Baek Ji-hoon converts Sinheung's inherited infrastructure into a genuine industrial economy; Dae-ho
-Whitfield later secures its place among the nation's few chamber manufacturers. **But** the two
+Richter later secures its place among the nation's few chamber manufacturers. **But** the two
 achievements happen far enough apart, generationally, that residents don't automatically connect them
 as one continuous story. **Therefore** local institutional memory eventually does draw the line
 directly — one figure who built the foundation, another who built the achievement the foundation made

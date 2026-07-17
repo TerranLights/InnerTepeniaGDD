@@ -98,17 +98,18 @@ Deep fishing heritage alongside the windiest site in the UK, home to the 443MW V
 
 ## What's Actually Open
 
-Carried forward from `Specs/Signy.md` and `City_Vision_Notes/Signy.md`, still genuinely unresolved:
-- Demonym: still TBD
-- Notable figures: still nobody named
-- The bridge between Signy Island and Coronation Island has no name yet — a strong candidate to become Signy's first real named landmark
-- The siligel shortage's severity, duration, and whether it becomes the actual DLC 3 questline hook
-- St. Ernest (Shackleton) veneration's actual status and presence at Signy
-- Whether Ice Cold Buddhism has any presence here
-- Whether Signy can communicate with Concordia at all post-war, given the already-weak pre-war link plus the Planetary Split Brain
-- Two placeholder holiday names ("The Long Watch," "St. Ernest's Passage") never fully developed
-- ~~A stale contradiction between two files over whether the biological research station is "fully intact" or "damaged but partially functional"~~ — **resolved 2026-07-13** (`Local_Cultures/Palmer_Subnet/Signy.md` Section 29, in favor of "intact," per Section IX's own proposal below), no longer open
-- A minor population-figure discrepancy (low priority)
+Carried forward from `Specs/Signy.md` and `City_Vision_Notes/Signy.md`; nearly all were since given proposed (not locked) answers in `Signy_Full_Extrapolation.md`, several built into actual Course of Events stages *(list corrected 2026-07-17 — was stale against that companion file, also written 2026-07-08)*:
+- Demonym — **proposed** (Full Extrapolation §I): Signian. Propagated to `Specs/Signy.md` 2026-07-17.
+- Notable figures — **proposed** (Full Extrapolation §II): Dr. Naledi van Zyl-Osei and Platform Engineer Declan Ferreira-Whitcombe, both placeholder names, both built into Course of Events stages #4 and #5 respectively. Propagated to `Specs/Signy.md` and `Local_Cultures/Palmer_Subnet/Signy.md` 2026-07-17.
+- The bridge between Signy Island and Coronation Island — **proposed** (Full Extrapolation §III): "the Endurance Span," tied to Signy's St. Ernest veneration; built into Course of Events stage #7 ("Naming the Endurance Span"). **Separately found 2026-07-17:** the two-island Signy Island/Coronation Island structure itself, established in Vision Notes 2026-07-04, had never been propagated into `Specs/Signy.md` or `Local_Cultures/Palmer_Subnet/Signy.md` at all — fixed.
+- The siligel shortage's severity/duration — **proposed** (Full Extrapolation §IV): weeks to a couple of months of reserve, the confirmed DLC 3 questline hook.
+- St. Ernest (Shackleton) veneration — **confirmed** (Full Extrapolation §V): Signy's genuine strongest civic-spiritual thread, expressed through the Endurance Span and a proposed annual observance.
+- Ice Cold Buddhism — **proposed** (Full Extrapolation §VI): minimal to no presence; the religion's austere-cold thematic register doesn't fit Signy's mild, biologically rich identity.
+- Whether Signy can communicate with Concordia post-war — **proposed** (Full Extrapolation §VII): technically possible via radio/residual Arcanet, but genuinely difficult.
+- Two placeholder holiday names ("The Long Watch," "St. Ernest's Passage") — **developed** (Full Extrapolation §VIII); "St. Ernest's Passage" built into Course of Events stage #10.
+- ~~A stale contradiction between two files over whether the biological research station is "fully intact" or "damaged but partially functional"~~ — **resolved 2026-07-13** (`Local_Cultures/Palmer_Subnet/Signy.md` Section 29, in favor of "intact," per Section IX's own proposal), no longer open.
+- A minor population-figure discrepancy (low priority) — still open; Full Extrapolation §X couldn't reproduce it either.
+- Signy's own power self-sufficiency — **proposed** (Full Extrapolation §XI): tentatively self-sufficient via small-scale wind-and-hydro, modeled on El Hierro.
 
 **New, surfaced by this research pass:** given El Hierro's and Samsø's genuine real-world renewable self-sufficiency, and given the radio-not-Arcanet comms detail already established, it's worth asking whether Signy's own power generation — needed to run its radio equipment, docks, and floating platforms — is self-sufficient in the same way, or whether this is another post-war vulnerability sitting alongside the already-established siligel shortage. The current files don't address Signy's own power situation at all.
 

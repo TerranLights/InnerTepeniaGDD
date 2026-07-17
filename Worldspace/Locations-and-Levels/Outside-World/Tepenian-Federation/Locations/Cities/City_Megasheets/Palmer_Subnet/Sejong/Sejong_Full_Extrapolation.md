@@ -38,7 +38,7 @@
 ## VI. Notable Figures (proposed, unconfirmed)
 
 - **Coordinator Han Ji-woo** *(placeholder)* — the founding-era figure credited with negotiating Sejong's original boundary-zone agreements with its island neighbors, the person Section I's absorption process and Section IV's shared landmark both plausibly trace back to institutionally.
-- **Educator Priya Suh-Bhattacharya** *(placeholder)* — a Hangul-literacy figure connected to the city's own namesake meaning, credited with maintaining Hangul instruction and cultural continuity even as Sejong's population diversified well beyond its founding nation.
+- **Educator Yoon Seo-yeon** *(placeholder — corrected 2026-07-17; previously "Priya Suh-Bhattacharya," pairing an Indian given name with a Korean surname, which violates the project's binding No Subcontinentals canon and doesn't match any of Sejong's own represented nations; renamed to a Korean name, fitting a figure specifically credited with maintaining Hangul instruction)* — a Hangul-literacy figure connected to the city's own namesake meaning, credited with maintaining Hangul instruction and cultural continuity even as Sejong's population diversified well beyond its founding nation.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
 

@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #4**, translated from `Sinheung_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in the proposed securing of Sinheung's
-fabrication-synthesis chamber manufacturing role, credited to Foreman Dae-ho Whitfield
+fabrication-synthesis chamber manufacturing role, credited to Foreman Dae-ho Richter
 (`Full_Extrapolation` Section II), and the confirmed national significance of that role
 (`Full_Extrapolation` Section III). Character fields are intentionally left blank — see each Conflict
 section's Design Notes for what kind of conflict, and what kind of character(s), would make the
@@ -25,12 +25,12 @@ that singles it out.
 
 Tepenia's whole robot-creation infrastructure needs more manufacturing sites capable of producing
 fabrication-synthesis chambers than currently exist — a genuine, national-scale gap that several
-industrially capable cities could plausibly try to fill. Foreman Dae-ho Whitfield pushes the city's own
+industrially capable cities could plausibly try to fill. Foreman Dae-ho Richter pushes the city's own
 engineers to pursue exactly that capability — the specific technical achievement that turns an ordinary
 industrial center into something touching the entire Federation's population growth. But securing that
 role means competing with other cities' own industrial ambitions for the same opportunity — and at least
 one rival city's own engineering leadership is pursuing the identical capability, with comparable
-industrial resources, meaning Whitfield's push has to actually outcompete a real rival, not simply
+industrial resources, meaning Richter's push has to actually outcompete a real rival, not simply
 succeed on its own technical merits in isolation.
 
 ---
@@ -43,7 +43,7 @@ succeed on its own technical merits in isolation.
 **Character B:** *(left blank)*
 
 **Design notes — what kind of conflict this needs:** a confrontation, largely conducted at a distance
-through competing technical progress rather than direct personal contact, between Dae-ho Whitfield and a
+through competing technical progress rather than direct personal contact, between Dae-ho Richter and a
 counterpart engineer or foreman at a rival city pursuing the same chamber-manufacturing capability. This
 should read as professional rivalry under real, national-scale stakes, not personal animosity — both
 engineers are doing legitimate, skilled work in good faith, and only one city's effort can actually secure
@@ -51,8 +51,8 @@ the Federation's limited need for additional manufacturing capacity. The tension
 itself, not from either side behaving badly.
 
 **Design notes — what kind of character(s) this needs:** Character A is, per established canon, Foreman
-Dae-ho Whitfield. Character B is plausibly an equivalent foreman or lead engineer at a comparably capable
-industrial city — a genuine peer, competent and motivated by the same legitimate civic ambition Whitfield
+Dae-ho Richter. Character B is plausibly an equivalent foreman or lead engineer at a comparably capable
+industrial city — a genuine peer, competent and motivated by the same legitimate civic ambition Richter
 himself is driven by, whose own city's claim to the role is just as reasonable on paper before the
 outcome is actually decided.
 
@@ -61,7 +61,7 @@ outcome is actually decided.
 ## Culmination
 ###### The conflict's actual outcome — specific and concrete.
 
-Whitfield's team crosses the necessary technical threshold first, or with a design the Federation's
+Richter's team crosses the necessary technical threshold first, or with a design the Federation's
 own evaluators judge more reliable — his success becomes the city's single most consequential civic
 achievement, quietly load-bearing infrastructure for the whole country, credited to one foreman's
 deliberate push rather than happenstance.

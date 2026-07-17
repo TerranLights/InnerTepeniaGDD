@@ -36,7 +36,9 @@ The dramatic Lemaire Channel approach and Adelaide Island's mountain backdrop re
 
 ## Personality (Enneagram Read)
 
-**Instinctive (Gut) / Assertive / Competency** — worth naming honestly rather than smoothing over: this read is built entirely around Rothera's confirmed wheeled-aircraft-capable airport, one of only eight functional airports in Tepenia. Rothera shares this profile with Fort McMurdo and Marambio, distinguished specifically as **singular technical specialty**. But Rothera's own established lore explicitly calls the runway *secondary* to what actually defines the city — "the runway was always secondary to what actually defined the city: Adelaide Island's spread-out industrial capacity." The Enneagram profile describes a real but secondary facet of Rothera, not its established primary identity as the Palmer subnet's industrial center — the same kind of documentation gap already flagged on Esperanza's own Megasheet.
+**Instinctive (Gut) / Assertive / Competency** *(corrected 2026-07-17)* — shares this profile with Fort McMurdo and Marambio, distinguished specifically as **dual physical throughput — industrial-and-subterranean**: decentralized production across Adelaide Island plus large-scale underground vault sections, together supplying finished infrastructure components to every other Palmer subnet city. This resolves the documentation gap flagged below — the read now centers on Rothera's own dominant industrial-center identity ("Built to Last, By Never Being in One Place") rather than the secondary airport fact.
+
+*(Original 2026-07-08 read, retained for record: built entirely around Rothera's confirmed wheeled-aircraft-capable airport, distinguished as "singular technical specialty" — worth naming honestly rather than smoothing over, since Rothera's own established lore explicitly calls the runway *secondary* to what actually defines the city: "the runway was always secondary to what actually defined the city: Adelaide Island's spread-out industrial capacity." Flagged the same session as the identical documentation gap already found on Esperanza's own Megasheet. Resolved 2026-07-17.)*
 
 ---
 

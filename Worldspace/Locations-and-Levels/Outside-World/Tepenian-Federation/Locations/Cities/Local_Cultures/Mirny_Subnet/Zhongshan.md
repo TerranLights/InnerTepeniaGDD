@@ -362,9 +362,10 @@ Ji-Eun Kim arrived in Zhongshan as a visitor and reached something approaching r
 
 ## 31. Notable Figures
 
-- **[Placeholder — founding figure]** — the person most associated with the city's founding and the choice of the name Zhongshan; considered the city's moral anchor
-- **[Placeholder — artisan tradition founder]** — the craftsperson whose work established Zhongshan's own artisan class as a recognized civic institution
-- **[Placeholder — literary figure]** — the writer considered to have most fully expressed the Zhongshan sensibility; possibly a robot
+- **Founding Elder Mèi Sun** *(placeholder, added 2026-07-17, proposed `Zhongshan_Full_Extrapolation.md` §II)* — credited with choosing the name Zhongshan and articulating the founding political stance ("we kept the name; we did not keep them"); considered the city's moral anchor.
+- **Composer Táng Yuxuan** *(placeholder, added 2026-07-17, same section)* — credited with the earliest surviving composition in Zhongshan's contemplative classical tradition, carrying erhu, pipa, and guqin forward.
+- **Master Craftsman Táng Wǔ** *(placeholder, added 2026-07-17, same section)* — established Zhongshan's own artisan class as a recognized civic institution.
+- **The Unnamed Chronicler** *(placeholder, added 2026-07-17, same section)* — the writer considered to have most fully expressed the Zhongshan sensibility; deliberately left unnamed, possibly a robot.
 - *Ji-Eun Kim* — nanotech engineer; temporarily resident in Zhongshan between Sejong and Concordia; chose Zhongshan specifically for its non-prying culture; her precision craft work (gold ocular implants for the Eyes of Gold) was consistent with Zhongshan's craft ethic and gave her standing in the city's technical community; reached something approaching residency before continuing to Concordia
 
 ---

@@ -14,6 +14,16 @@
 
 **4th-order effect:** worth noting as a general pattern beyond Esperanza specifically — an Enneagram profile derived from one dominant establishing fact can remain accurate as a *slice* of a city's identity without needing to capture the whole picture, so long as that scope is understood rather than assumed to be comprehensive.
 
+**Superseded 2026-07-17:** the Mega-Init itself flagged two acceptable resolution paths for this
+tension — reconcile both readings (this Finding's own approach) or replace the Enneagram profile outright
+to reflect the dominant identity. The profile was actually replaced (see the corrected
+`City_Enneagram_Personalities/Palmer_Subnet/Esperanza.md`, now Feeling/Compliant/Positive Outlook,
+Group 4), not reconciled alongside the old trans-shipment read as this Finding proposed. The "different
+scales, not competing descriptions" framing above is retained for its own economic-vs-civic insight
+(Esperanza's mining/trade economy genuinely does fund its family-charter civic life), but the specific
+claim that the *old* Enneagram profile remains accurate as a partial slice no longer holds — that profile
+has been superseded, not kept alongside the corrected one.
+
 ---
 
 ## Finding 2: The rotational-mining family structure creates an attachment pattern the source files haven't examined

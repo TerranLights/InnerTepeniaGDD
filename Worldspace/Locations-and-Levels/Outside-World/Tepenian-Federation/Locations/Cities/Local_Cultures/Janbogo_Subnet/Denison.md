@@ -282,8 +282,8 @@ Marked by the moment wind-safety competence stops being conscious effort and bec
 
 ## 31. Notable Figures
 
-- **[Placeholder — founding-era figure]** — whoever led the decision to build a genuine city on Mawson's legendary, nearly-unsurvivable site
-- **[Placeholder — a prominent wind engineer or hazard researcher]** — a figure embodying the city's mastery-through-understanding civic philosophy
+- **Chief Wind-Engineer Wei Zhang** *(placeholder, added 2026-07-17, proposed `Denison_Full_Extrapolation.md` §III)* — credited with pioneering the fully-interlinked structural design that defines Denison's built environment, the founding figure behind the city's central engineering achievement.
+- **Fabrication Engineer Kenji Suh** *(placeholder, added 2026-07-17, same section)* — credited with establishing Denison's historical role manufacturing fabrication-synthesis chambers for the nationwide Cradle infrastructure.
 - **Ayako Hayashi (hypothetical, not decided)** — flagged as a possible candidate for where she lived in Tepenia before resettling in Concordia; Japan sits at Significant tier here, so it's a demographically consistent fit if chosen. Casey (`../Mirny_Subnet/Casey.md`) is the other candidate under consideration. See her `README.md` Design Notes.
 
 ---

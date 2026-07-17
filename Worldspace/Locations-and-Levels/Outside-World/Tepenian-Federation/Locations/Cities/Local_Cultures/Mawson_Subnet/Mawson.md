@@ -274,7 +274,7 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 
 ## 31. Notable Figures
 
-- **Founding Administrator Warrick Oyelaran-Zhao** *(placeholder, proposed 2026-07-07)* — steered the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Founding Administrator Warrick Zhao** *(placeholder, proposed 2026-07-07)* — steered the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
 - **Hostess Mei-Ling Sorensen** *(placeholder, proposed 2026-07-07)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental.
 
 ---

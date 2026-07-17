@@ -5,7 +5,7 @@
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Sejong_Mega_Init.md` "Founding" (the city
 named for King Sejong the Great, creator of Hangul) and `Sejong_Full_Extrapolation.md` Section II
 (the Korean founding population diluted to its smallest Significant-tier nation, 5.79%) and Section VI
-(Educator Priya Suh-Bhattacharya, the proposed placeholder figure credited with maintaining Hangul
+(Educator Yoon Seo-yeon, the proposed placeholder figure credited with maintaining Hangul
 instruction as the founding population diversified). Character fields are intentionally left blank — see
 each Conflict section's Design Notes for what kind of conflict, and what kind of character(s), would make
 the following setting-condition become true.

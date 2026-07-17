@@ -6,7 +6,9 @@
 
 ## Finding 1: Davis's "enabler" identity is reinforced by three independent sources at once
 
-**Combining:** Tyumen's real role as a service and logistics city enabling oil extraction happening elsewhere, not the extraction site itself + John King Davis's own historical role as the mariner who enabled other men's expeditions rather than leading his own + Davis's own established Division of Industry (mining/fabrication/manufacturing as the clear ~40% majority, serving the wider subnet rather than being an end-destination in its own right).
+**Combining:** Tyumen's real role as a service and logistics city enabling oil extraction happening elsewhere, not the extraction site itself + John King Davis's own historical role as the mariner who enabled other men's expeditions rather than leading his own + Davis's own established Division of Industry.
+
+*(Corrected 2026-07-17: the third leg of this Finding originally cited "mining/fabrication/manufacturing as the clear ~40% majority" — that was accurate 2026-07-07 but superseded 2026-07-16, when the mining/quarrying role was reassigned to Mirny and Davis's Division of Industry was rewritten around agriculture and research instead. The Finding's core argument still holds, arguably even more cleanly: Tepenia's breadbasket, feeding the wider Federation rather than being an end-destination in its own right, is if anything a sharper "enabler, not protagonist" fit than the original mining-city framing was.)*
 
 **2nd-order effect:** Davis's own current economic structure mirrors, at a civic level, the exact same "enabler, not protagonist" shape as both its founding namesake and its real-world inspiration — the city itself now functions as support infrastructure for activity happening elsewhere, not merely named after someone who once did.
 

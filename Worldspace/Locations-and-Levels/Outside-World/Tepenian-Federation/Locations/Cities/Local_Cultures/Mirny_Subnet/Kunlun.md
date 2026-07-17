@@ -207,7 +207,7 @@ Likely filtered through the astronomy/comms mission specifically — a populatio
 - **Zhongshan:** **Re-resolved 2026-07-06:** no longer Kunlun's demographic opposite — both cities are now genuinely multinational, though for different reasons (Zhongshan's is founding-wave/majority dynamics; Kunlun's is curated professional/space heritage). Whatever relationship exists between the two Sinian-founded cities is now a question of shared founding heritage rather than a purity-vs-blend contrast — open, per `Specs/Zhongshan.md`.
 - **Mirny:** The nominal subnet hub, though the 1,200km+ interior plateau distance makes the relationship almost entirely theoretical.
 - **Concordia:** **Corrected 2026-07-06:** not merely theoretical — Hwy 37 runs directly from Kunlun to Concordia via Vostok, a real physical highway link despite the two cities sitting in different, informationally-severed Arcanet subnets. See `Specs/Kunlun.md`.
-- **Vostok:** **Established 2026-07-06 — Kunlun's most important relationship, gameplay-wise.** Vostok is the launch point for the Mirny DLC's Kunlun content: Doll (Vostok's geneticist) discovers something in Lake Vostok's ancient ecosystem significant enough to require Kunlun's comms relay to transmit — the primary, plot-critical reason the player makes the Hwy 37 journey between the two cities. Optional secondary content available alongside this: a possible "two loneliest outposts" relationship between the two extreme, isolated science outposts; a possible scientific echo between Lake Vostok's findings and Kunlun's own centuries of astronomical data; and Vosora Lashár Tanslock's still-undetermined Kunlun connection, which may route through Vostok. See `Specs/Kunlun.md` and `Specs/Vostok.md`.
+- **Vostok:** **Established 2026-07-06 — Kunlun's most important relationship, gameplay-wise.** Vostok is the launch point for the Mirny DLC's Kunlun content: Charlene (Vostok's geneticist) discovers something in Lake Vostok's ancient ecosystem significant enough to require Kunlun's comms relay to transmit — the primary, plot-critical reason the player makes the Hwy 37 journey between the two cities. Optional secondary content available alongside this: a possible "two loneliest outposts" relationship between the two extreme, isolated science outposts; a possible scientific echo between Lake Vostok's findings and Kunlun's own centuries of astronomical data; and Vosora Lashár Tanslock's still-undetermined Kunlun connection, which may route through Vostok. See `Specs/Kunlun.md` and `Specs/Vostok.md`.
 
 ---
 
@@ -270,7 +270,8 @@ Among the most demanding arrivals in Tepenia, whichever way you come. **Correcte
 
 ## 31. Notable Figures
 
-- TBD
+- **Chief Astronomer Renata Okonkwo-Sato** *(placeholder, added 2026-07-17, proposed `Kunlun_Full_Extrapolation.md` §VIII)* — associated with the observatory's orbital-era expansion and scaling the comms-relay function.
+- **Brother/Sister Ilkay** *(placeholder, added 2026-07-17, same section)* — the devotee credited with formalizing the polar-night stillness observance into shared civic ritual.
 - **Flagged 2026-07-06:** Vosora Lashár Tanslock has some personal connection to Kunlun, exact nature not yet determined — see `Specs/Kunlun.md` Open Questions and Vosora's own character file for the cross-reference.
 
 ---

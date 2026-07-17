@@ -148,7 +148,8 @@ The Australian founding infrastructure included research and scientific capacity
 
 ## Notable Figures
 
-- TBD
+- **Idris Wetherall** *(placeholder, proposed `Casey_Full_Extrapolation.md` Section VI)* — credited with finding the old records referencing Casey Station's original "Splinters" bar and pushing for its revival at full-city-block scale.
+- **Dispatcher "Long Odds" Okonkwo-Hale** *(placeholder, proposed `Casey_Full_Extrapolation.md` Section VI)* — a legendary road-conditions dispatcher whose katabatic and wind-window forecasts were, by local reputation, never wrong across an entire career.
 
 ---
 
@@ -184,7 +185,7 @@ The closure of Hwy 2/DCH after Casey's destruction is an ongoing practical fact 
 
 - When in the Long Night War was Casey destroyed? (early casualty vs. late survivor)
 - If Casey was an early casualty: did its junction position make it a strategic priority target — cutting the Concordia road connection at the critical chokepoint?
-- Notable individuals from Casey: TBD
+- Notable individuals from Casey — two placeholders exist (Idris Wetherall, Dispatcher "Long Odds" Okonkwo-Hale, both `Casey_Full_Extrapolation.md` Section VI); neither is a finalized name
 - Casey's full economic and industrial character beyond transit: TBD
 - Wilkes Station ruins — what survives in Tepenia's timeline, and is the site accessible?
 - Does Casey appear in DLC content? If so, which DLC? (Mirny region is the main game, not a dedicated DLC — Casey ruins may appear as accessible content in the main game rather than a DLC)

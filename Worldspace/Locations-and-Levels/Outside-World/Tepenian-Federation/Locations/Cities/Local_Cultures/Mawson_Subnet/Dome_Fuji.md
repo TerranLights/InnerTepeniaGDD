@@ -274,7 +274,8 @@ Unlike most Tepenian cities, where becoming a local is a gradual social process,
 
 ## 31. Notable Figures
 
-- TBD
+- **Aslaug** *(placeholder, added 2026-07-17, proposed `Dome_Fuji_Full_Extrapolation.md` §VIII)* — one of Dome Fuji's longest-standing devotees, among the informal stewards maintaining the observance calendar.
+- **Teodor Marchetti** *(placeholder, added 2026-07-17, same section)* — one of the few devotees who arrived with prior scientific training and continues ice-core analysis work alongside devotional life.
 
 ---
 

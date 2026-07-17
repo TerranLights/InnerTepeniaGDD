@@ -131,7 +131,8 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ---
 
 ## Notable Figures
-- TBD
+- **JARE Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, proposed `Sayowa_Full_Extrapolation.md` Section V)* — a present-day keeper of Sayowa's Shōwa-era naming history and JARE's own research tradition.
+- **Junction Coordinator Wei-Lin Andersen** *(placeholder, same section)* — a present-day figure overseeing the practical work of keeping the Sayowa Junction functional across multiple parties' overlapping dependency on it.
 
 ---
 

@@ -13,7 +13,7 @@ only; nothing here is canon.
 Sinian defectors choose exile alongside robots over continued loyalty to their own nation's ideology.
 **But** that choice raises an immediate question of identity — do they abandon everything associated
 with the nation they're breaking from, or hold onto what they still value while rejecting what drove
-them out? **Therefore** Founding Elder Mèi Sun-Rutherford articulates the founding stance directly:
+them out? **Therefore** Founding Elder Mèi Sun articulates the founding stance directly:
 they kept the name, the language, the culture — they did not keep the regime. **But** drawing that
 line clearly means constantly explaining the distinction to anyone who assumes rejecting the nation
 means rejecting everything Chinese about themselves. **Therefore** "we kept the name; we did not keep

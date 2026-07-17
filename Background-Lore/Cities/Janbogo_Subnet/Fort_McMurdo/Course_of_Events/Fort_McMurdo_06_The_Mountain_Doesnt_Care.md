@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #6**, translated from `Fort_McMurdo_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Erebus's stable baseline volcanic activity
-(`Full_Extrapolation` §VI) and Volcanologist Dr. Hendrik Osei-Larsen's monitoring program
+(`Full_Extrapolation` §VI) and Volcanologist Dr. Marco Conti's monitoring program
 (`Full_Extrapolation` §III; `Mega_Init`, "What It Feels Like"). Character fields are intentionally left
 blank — see each Conflict section's Design Notes for what kind of conflict, and what kind of
 character(s), would make the following setting-condition become true.
@@ -22,7 +22,7 @@ larger than human or robot agency that outsiders sometimes find unsettling.
 ## Trigger
 ###### What disrupts the above baseline.
 
-That easy familiarity is tested once, hard, when the monitoring program Dr. Hendrik Osei-Larsen built
+That easy familiarity is tested once, hard, when the monitoring program Dr. Marco Conti built
 registers a real spike in seismic activity — not an eruption, but close enough that evacuation planning
 has to move from theoretical exercise to actual, live preparation for the first time in living memory.
 The city's whole unbothered self-image is suddenly a genuine question rather than a settled fact:
@@ -48,7 +48,7 @@ a real ambiguous reading before, so neither position has more actual evidence be
 just different tolerances for being wrong in different directions.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a volcanologist or
-monitoring-station technician working under or trained by Osei-Larsen himself, closest to the raw data
+monitoring-station technician working under or trained by Conti himself, closest to the raw data
 and most aware of exactly how ambiguous a "spike, not yet an eruption" reading really is. Character B is
 plausibly a city administrator or coordination-station lead who has to weigh evacuation against Fort
 McMurdo's ongoing responsibility to the rest of the subnet's logistics — someone whose job is

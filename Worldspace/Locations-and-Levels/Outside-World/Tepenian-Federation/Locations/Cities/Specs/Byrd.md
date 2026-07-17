@@ -208,7 +208,9 @@ West Antarctic geology offers mineral resources distinct from the eastern statio
 
 ## Notable Figures
 
-- TBD
+- **Maggie Aarden** *(confirmed resident and recruitable companion, per `Byrd_Full_Extrapolation.md` Section VIII)* — see `Characters/Dolls/Still-Present_-_In-Game/Maggie Aarden/README.md`; her industrial/military machinery maintenance background and SP 5w6 Enneagram type fit Byrd's own Instinctive/Withdrawn/Competency civic read, giving her a plausible place among the city's fabrication specialists.
+- **Founding-Expedition Robot Crew Member** *(placeholder, unnamed, same section)* — one of the all-robot crew that drove the original Arrastradoras across the unmapped interior; plausibly still alive today given robots' established centuries-long lifespans.
+- **Dispatch Office Coordinator** *(placeholder, unnamed, same section)* — a present-day figure overseeing the two-directional trucking network.
 
 ---
 
@@ -228,7 +230,7 @@ This route is why any Byrd refugees exist in Concordia at all. Without the aircr
 **The breakdown of the aircraft:**
 At some point — before, during, or after the Long Night War — Byrd's aircraft broke down due to the extreme environmental and climate conditions. For reasons not yet established in lore, they could not be repaired to working order. The specific reasons why repairs failed are TBD and may be significant to DLC 2's plot — whether it was lost expertise, unavailable parts, damage to the maintenance infrastructure, or something else entirely has not been determined.
 
-The practical consequence is absolute: when the aircraft stopped flying, Byrd stopped being reachable from the rest of Tepenia. No overland road connects it to the highway system in any established way. The refugees who made it to Concordia via the aviation route were the last people to leave Byrd for Concordia. Everyone who remained after the aircraft broke down has been there since.
+The practical consequence for ordinary travel is severe: when the aircraft stopped flying, the route refugees actually used to reach Concordia closed. *(Corrected 2026-07-17 — this line previously said "No overland road connects it to the highway system in any established way," directly contradicting this file's own header, corrected 2026-07-06, confirming Byrd as a genuine Hwy 1/Hwy 22 junction; see `Locations/Infrastructure/Highways.md`, the authoritative source.)* A highway connection does exist on paper — Hwy 1 north through Rothera and Marambio to Esperanza, and Hwy 22 east via Amundsen Station to the Zhongshan/Sinheung/Shirayuki tri-junction — but it was pre-war infrastructure never used for the actual refugee migration, and its current post-war operational status is a separate, genuinely open question (see Open Questions below). The refugees who made it to Concordia via the aviation route were the last people confirmed to have left Byrd for Concordia. Everyone who remained after the aircraft broke down has been there since, as far as anyone in Concordia knows.
 
 Byrd refugees in Concordia are therefore not merely rare — they are a closed population. No one has joined them from Byrd since the aircraft went down. The Byrd community in Concordia, small as it is, knows things about Byrd's current state only up to the point when the last refugee left. What is happening in Byrd now is unknown to everyone in Concordia.
 
@@ -238,7 +240,7 @@ Byrd refugees in Concordia are therefore not merely rare — they are a closed p
 
 Byrd is surviving but struggling. The nature of the struggle is TBD for DLC 2 design — whether it is a resource crisis, a governance crisis, a geological crisis from ice sheet instability, or some combination of these has not been established.
 
-What is established: the city is alive, it is not comfortable, its aircraft are grounded and irreparable, and it has been effectively sealed off from the rest of Tepenia since the last flight out. No one has arrived from or departed to Concordia since the aviation route closed. The Byrd community in Concordia is a closed population with outdated information about a city they can no longer reach. Something is wrong enough that a DLC is built around getting there — which itself implies the journey is not straightforward — to find out what.
+What is established: the city is alive, it is not comfortable, its aircraft are grounded and irreparable, and its one confirmed working route to Concordia — the aviation bridge via Framheim/Little America and Janbogo — has been closed since the last flight out. *(Corrected 2026-07-17 — "effectively sealed off from the rest of Tepenia" overstated this; Byrd is a confirmed Hwy 1/Hwy 22 junction, per `Locations/Infrastructure/Highways.md`. Whether that overland route survived the Long Night War in operable condition, and whether anyone has actually attempted the "multiple transfers... very long journey" Highways.md itself describes, are the genuinely open questions — not whether a road exists at all.)* No one has arrived from or departed to Concordia since the aviation route closed. The Byrd community in Concordia is a closed population with outdated information about a city they can no longer reach that way. Something is wrong enough that a DLC is built around getting there — which itself implies the journey is not straightforward, whether by the broken aviation route or the long, uncertain overland one — to find out what.
 
 ---
 
@@ -254,9 +256,9 @@ Byrd's legacy in Concordia is primarily the fact of its existence: the knowledge
 - **Why the aircraft could not be repaired** — confirmed that the breakdown was due to environmental/climate conditions and that repairs failed; the specific reason why they failed is TBD and may be central to DLC 2's plot (lost expertise? unavailable parts? damage to maintenance infrastructure? something else?)
 - **What aircraft type(s) Byrd operated** — range, capacity, and how many; affects the scale of the refugee migration and the logistical picture of the aviation route
 - **The full aviation route** — confirmed structure: Byrd → Framheim / Little America (refueling stop) → Janbogo → Hwy 183 to Concordia; Janbogo had no aircraft refueling infrastructure; whether Framheim was purely a fuel stop or also a transit hub / destination in its own right is TBD
-- **No overland highway connection confirmed** — whether Byrd has any road connection to the broader Tepenian highway system is still unresolved; the aviation route may have been the only connection
+- **Is the confirmed Hwy 1/Hwy 22 overland route currently passable post-war?** *(Corrected 2026-07-17 — this item previously read as if the highway connection itself were unestablished, contradicting this file's own header; the connection is confirmed canon per `Locations/Infrastructure/Highways.md`. What's actually open is whether that pre-war infrastructure survived the Long Night War in operable condition, and whether the "multiple transfers... very long journey" route Highways.md itself describes has ever actually been attempted post-war.)*
 - **St. Richard's civic site** — what is the equivalent of Scott's Hut Point for Byrd? What tradition honors St. Richard here?
 - **The buried sections** — how deep do they go, what was abandoned and why, and what might a player find in the sealed-off older layers?
 - **Ice sheet instability as active threat** — is the West Antarctic Ice Sheet movement a background condition or an active crisis driving the DLC 2 plot?
-- **Demonym** — TBD (Byrdians? something else?)
-- **Notable individuals** originally from Byrd: TBD
+- **Demonym** — **Byrdian** *(proposed `Byrd_Full_Extrapolation.md` Section VIII)*
+- **Notable individuals** originally from Byrd — see Notable Figures above; Maggie Aarden confirmed, two further placeholders proposed

@@ -189,7 +189,8 @@ The old "Soyuz" placeholder — forward-looking, technologically proud in its ow
 ---
 
 ## Notable Figures
-- TBD
+- **Chief Engineer Baek Ji-hoon** *(placeholder, proposed `Sinheung_Full_Extrapolation.md` Section II)* — credited with adapting the inherited Russian research infrastructure into the fabrication economy that now defines the city.
+- **Foreman Dae-ho Richter** *(placeholder, proposed `Sinheung_Full_Extrapolation.md` Section II)* — credited with securing the city's place among the handful of fabrication-synthesis chamber manufacturers.
 
 ---
 

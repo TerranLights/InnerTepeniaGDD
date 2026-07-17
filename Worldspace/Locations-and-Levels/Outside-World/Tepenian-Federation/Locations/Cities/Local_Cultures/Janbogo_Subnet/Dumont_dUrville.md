@@ -4,7 +4,7 @@
 
 **Subnet:** Janbogo
 **Status:** Damaged; partially operational — a small island city living alongside both its own wreckage and the Adélie penguin colonies that never left
-**Census II Population:** 134,634 humans / 177,372 robots / 312,006 combined *(rank 25th of ~32, corrected 2026-07-03 — "island cap," Petrel Island's small footprint limits growth regardless of the city's importance)*
+**Census II Population:** 134,634 humans / 177,372 robots / 312,006 combined *(rank 26th of ~32, corrected 2026-07-17 — was "25th," stale against the current Official_Population_Census.md Census II ranking table; "island cap," Petrel Island's small footprint limits growth regardless of the city's importance)*
 **Location:** Petrel Island, Géologie Archipelago, Adélie Land (~66°40'S, 140°01'E)
 
 **One-liner:** *The only Tepenian city that never had the wind or the penguins to itself — a small francophone island where neither could be conquered, only negotiated with, generation after generation.*

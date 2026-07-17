@@ -2,7 +2,7 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #6**, translated from `Janbogo_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in Meteorologist Han Soo-jin Ferreira
+`z-template_-_city_histories_conflict_variant.md`. Grounded in Meteorologist Han Soo-jin
 (`Full_Extrapolation` §III, Notable Figures) and Janbogo's katabatic wind exposure (`Mega_Init`, "Hard
 Facts"). Character fields are intentionally left blank — see each Conflict section's Design Notes for
 what kind of conflict, and what kind of character(s), would make the following setting-condition become
@@ -47,7 +47,7 @@ system residents can't actually trust is worse than no system at all, since fals
 killed too.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly the figure later
-remembered as, or a direct predecessor to, Meteorologist Han Soo-jin Ferreira, credited with formalizing
+remembered as, or a direct predecessor to, Meteorologist Han Soo-jin, credited with formalizing
 Janbogo's warning system. Character B is plausibly a civic administrator or hall coordinator, responsible
 for public safety and under direct pressure from a population that wants a solution now.
 

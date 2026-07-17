@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American") — subnet hub
 **Status (at the time this culture is described):** Active, populated, functioning — destroyed later, in the Long Night War, among the first and most thoroughly targeted cities in Tepenia
-**Census Population:** 165,912 humans / 166,896 robots / 332,808 combined (Census I, rank 30th of ~35 — *revised 2026-07-03, again 2026-07-05*: 30% of Palmer City's total population was relocated to Byrd/Concordia to correct an over-cap violation from its own earlier nation-expansion project; see `Official_Population_Census.md`); 180,688 humans / 151,482 robots / 332,170 combined (Census II, rank 23rd, *corrected 2026-07-03* — unaffected by the Census I correction)
+**Census Population:** 165,912 humans / 166,896 robots / 332,808 combined (Census I, rank 30th of ~35 — *revised 2026-07-03, again 2026-07-05*: 30% of Palmer City's total population was relocated to Byrd/Concordia to correct an over-cap violation from its own earlier nation-expansion project; see `Official_Population_Census.md`); 180,688 humans / 151,482 robots / 332,170 combined (Census II, rank 24th, *corrected 2026-07-17 — was "23rd," stale against the current `Official_Population_Census.md` Census II ranking table*)
 **Location:** Anvers Island, Antarctic Peninsula (~64°46'S, 64°03'W)
 
 **One-liner:** *Tepenia's first city, its cultural capital, and — until this session — its most narrowly-founded, now deliberately rebuilt as the single most demographically blended place in the Federation: every nation that could have come, came.*

@@ -121,7 +121,8 @@ Zukelli's economy was closely integrated with Janbogo's — two cities sharing a
 
 ## Notable Figures
 
-- TBD
+- **Elisa Faranda** *(placeholder, proposed `Zukelli_Full_Extrapolation.md` Section VII)* — proprietor of what became, informally, Zukelli's single most famous restaurant-and-performance-space, recognized well beyond Zukelli's own borders.
+- **Councilman Renzo Adorni** *(placeholder, name subject to revision, same section)* — the local figure most associated with the decision to shelter the AWOL defectors whose presence led to the city's destruction.
 
 ---
 

@@ -64,6 +64,8 @@ The isolation is absolute in one direction and total in another. Signy is far fr
 
 The Shackleton connection: the Endurance expedition (1914–1916) made its historic open-boat journey from Elephant Island — approximately 300km from the South Orkney Islands — to South Georgia. The South Orkney Islands lie along the historical route of multiple pre-exile Antarctic expeditions operating in the Scotia Sea. St. Ernest (Shackleton) has a geographic claim on this region that no other Tepenian Saint can quite match.
 
+**Added 2026-07-17, propagating an established 2026-07-04 Vision Notes fact never previously reflected here:** Signy is not one island but two working together, using real South Orkney geography. The smaller **Signy Island** itself hosts the city's one shipping dock (on its east side) and a substantial radio comms setup — confirmed as radio, not Arcanet, since digital networking physically can't reach this far, reinforcing rather than contradicting the "weakest Arcanet link in the Federation" status. The much larger **Coronation Island**, connected by a high bridge, holds most of the city's actual residential living and leisure infrastructure. Daily rhythm: residents travel to the docking island to fish, returning to Coronation Island for downtime. The bridge itself has no confirmed canon name; `Signy_Full_Extrapolation.md` Section III proposes "the Endurance Span," tying it to Signy's own St. Ernest veneration — proposed, not yet locked.
+
 ### Annual Climate
 
 **Climate data source:** British Antarctic Survey (BAS) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1947–2026)  _https://legacy.bas.ac.uk/met/READER/_
@@ -133,12 +135,14 @@ Maritime biology and ecology research, fishing and maritime resources of the Sco
 - **Signy Island harbor** — the only maritime entry; the Scotia Sea approach under gale conditions is the defining arrival experience
 - **The biological research station** — the founding scientific infrastructure, fully intact and still functional, undamaged by the war
 - **The wildlife territories** — seal haul-out areas, penguin colonies, seabird nesting grounds; present and ongoing regardless of city status
+- **The bridge to Coronation Island** *(added 2026-07-17)* — the single crossing joining Signy's two-island structure; unnamed in confirmed canon, though "the Endurance Span" is proposed (`Signy_Full_Extrapolation.md` §III)
 - Additional locations: TBD for DLC 3
 
 ---
 
 ## Notable Figures
-- TBD
+- **Dr. Naledi van Zyl-Osei** *(placeholder, proposed `Signy_Full_Extrapolation.md` Section II)* — a founding-era biological researcher continuing the BAS's marine-and-terrestrial mission into the exile era, drawing on Signy's South African founding-wave presence. Built into Course of Events stage #4 ("Naledi's Research").
+- **Platform Engineer Declan Ferreira-Whitcombe** *(placeholder, proposed `Signy_Full_Extrapolation.md` Section II)* — credited with designing the floating extension-platforms behind Signy's fishing economy. Built into Course of Events stage #5 ("Declan's Platforms").
 
 ---
 
@@ -159,5 +163,5 @@ Signy's legacy is endurance of a specific kind — not the survival of direct di
 - **DLC 3 access** — how does the player reach Signy? It is the most difficult Palmer subnet location to reach; the journey itself may be significant gameplay
 - **Post-war communication** — can Signy reach Concordia or any other city at all, given the weak Arcanet link and the Planetary Split Brain?
 - **The siligel shortage** — how severe is it, how long can Signy's robot population last without resupply, and is this the actual DLC 3 questline hook that brings the player here? Strong candidate, not yet designed further
-- **Demonym** — TBD
-- **Notable figures** — TBD
+- **Demonym** — **Signian** *(proposed `Signy_Full_Extrapolation.md` Section I, following the direct adjectival pattern used for other short-named Tepenian cities)*
+- **Notable figures** — two placeholders exist (Dr. Naledi van Zyl-Osei, Platform Engineer Declan Ferreira-Whitcombe, both `Signy_Full_Extrapolation.md` Section II); neither is a finalized name

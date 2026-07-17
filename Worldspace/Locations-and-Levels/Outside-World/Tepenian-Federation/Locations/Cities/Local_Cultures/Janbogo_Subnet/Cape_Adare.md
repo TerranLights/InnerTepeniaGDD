@@ -267,7 +267,8 @@ Becoming a local here means absorbing the precedence narrative as genuinely your
 
 ## 31. Notable Figures
 
-- TBD
+- **Archivist Elena Manalo** *(placeholder, added 2026-07-17, proposed `Cape_Adare_Full_Extrapolation.md` §VII; corrected from "Freya Manalo-Sørensen" — the Scandinavian surname element didn't match any Cape Adare population)* — credited with maintaining the heritage documentation of Borchgrevink's hut across centuries.
+- **Rookery-Keeper Tomás Widjaja** *(placeholder, added 2026-07-17, same section)* — credited with formalizing how individual penguins came to be kept as outdoor pets.
 
 ---
 

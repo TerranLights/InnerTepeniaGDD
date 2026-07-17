@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #2**, translated from `Mawson_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Founding Administrator Warrick
-Oyelaran-Zhao's proposed transition from Australian Antarctic Division routine to genuine Tepenian
+Zhao's proposed transition from Australian Antarctic Division routine to genuine Tepenian
 civic institution, and the precedent that hub function — not any single national identity — becomes
 what Mawson organizes itself around (`Mawson_Full_Extrapolation` §IV, "Notable Figures"). Character
 fields are intentionally left blank — see each Conflict section's Design Notes for what kind of

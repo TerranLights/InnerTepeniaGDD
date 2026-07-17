@@ -133,7 +133,7 @@ Following the straightforward adjectival pattern already used across Tepenia's s
 
 ## VII. Notable Figures (proposed, unconfirmed)
 
-- **Archivist Freya Manalo-Sørensen** *(placeholder)* — credited with maintaining the heritage documentation of Borchgrevink's hut across centuries, the figure behind Section I's proposed surviving record even as the physical structure itself was lost.
+- **Archivist Elena Manalo** *(placeholder)* — credited with maintaining the heritage documentation of Borchgrevink's hut across centuries, the figure behind Section I's proposed surviving record even as the physical structure itself was lost.
 - **Rookery-Keeper Tomás Widjaja** *(placeholder)* — a figure associated with the city's established penguin-keeping tradition, credited with formalizing how individual penguins came to be kept as outdoor pets alongside the wider, undisturbed rookery.
 
 *(Both entirely proposed — placeholder figures meant to give Cape Adare's empty "Notable Figures" list a concrete starting point, not finished character writing.)*

@@ -121,7 +121,8 @@ King George Island's favorable position (most accessible part of Antarctica, clo
 ---
 
 ## Notable Figures
-- TBD
+- **Coordinator Han Ji-woo** *(placeholder, proposed `Sejong_Full_Extrapolation.md` Section VI)* — the founding-era figure credited with personally negotiating Sejong's original boundary-zone agreements with each of its island neighbors; developed into a full Course of Events stage (`Sejong_06_What_Han_Jiwoo_Negotiated.md`). Placeholder name, not finalized.
+- **Educator Yoon Seo-yeon** *(placeholder, proposed `Sejong_Full_Extrapolation.md` Section VI; corrected 2026-07-17 from "Priya Suh-Bhattacharya," which violated the project's No Subcontinentals canon)* — a Hangul-literacy figure credited with maintaining Hangul instruction as the founding Korean population diluted. Placeholder name, not yet developed into a Course of Events stage.
 
 ---
 
@@ -139,4 +140,4 @@ Sejong's legacy is the coexistence experiment — the proof that a dozen nationa
 - **The other King George Island settlements** — what became of the non-Korean communities on the island? Do they have their own city entries, or are they folded into Sejong's story?
 - **The Sejong–Janbogo relationship** — *(reframed 2026-07-13: not two Korean cities in ongoing parity — Janbogo remains a genuine Korean demographic center (alongside Sinheung); Sejong's Korean founding is now a shared naming heritage, not a living connection)* did the two cities maintain any relationship at all, given how little they actually have in common today?
 - **Demonym** — **Sejongite** *(established 2026-07-04)*
-- **Notable figures** — TBD
+- **Notable figures** — two placeholders exist (Coordinator Han Ji-woo, Educator Yoon Seo-yeon, both `Sejong_Full_Extrapolation.md` Section VI); neither is a finalized name

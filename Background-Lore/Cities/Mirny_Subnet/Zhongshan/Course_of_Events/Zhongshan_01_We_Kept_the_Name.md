@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #1**, translated from `Zhongshan_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Zhongshan's founding political creed,
-credited to Founding Elder Mèi Sun-Rutherford — "we kept the name; we did not keep them"
+credited to Founding Elder Mèi Sun — "we kept the name; we did not keep them"
 (`Full_Extrapolation` Section II), and the city's status as the only Tepenian city where the founding
 operator nation remained unbroken demographic Primary (`Mega_Init` "The One-Line Pitch"). Strictly
 pre-war, Second Interwar Period. Character fields are intentionally left blank — see each Conflict
@@ -30,7 +30,7 @@ question isn't abstract for long: within the founding population itself, real di
 almost immediately over how completely to sever from Sinian identity — some want a clean break, discarding
 language, custom, and cultural marker alike as tainted by association with the regime; others insist that
 what's actually being rejected is the ideology specifically, not the whole of what it means to be
-Chinese. Founding Elder Mèi Sun-Rutherford has to actually articulate a position the fractured founding
+Chinese. Founding Elder Mèi Sun has to actually articulate a position the fractured founding
 community can rally around, rather than letting the disagreement calcify into a permanent internal
 rift before the settlement has even properly begun.
 
@@ -46,7 +46,7 @@ rift before the settlement has even properly begun.
 **Design notes — what kind of conflict this needs:** a confrontation within the founding community itself,
 between someone advocating for a complete break from Sinian identity — language, custom, everything —
 as the only way to be certain the regime's ideology has been fully rejected, and Founding Elder Mèi
-Sun-Rutherford, arguing for a more precise distinction between the nation's culture and its governing
+Sun, arguing for a more precise distinction between the nation's culture and its governing
 ideology. This shouldn't be framed as one side being more "authentically" rejecting the regime than the
 other — the clean-break advocate's position comes from real, understandable fear of anything that could
 be mistaken for lingering loyalty, while Mèi's position requires the harder, more nuanced work of drawing
@@ -55,7 +55,7 @@ a line under real scrutiny from people who have every reason to be suspicious of
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a fellow founding-era
 defector, someone whose own break from the Sinian Federation was personally costly enough that they want
 absolutely no ambiguity left in how completely the new settlement rejects everything associated with it.
-Character B is, per established canon, Founding Elder Mèi Sun-Rutherford, whose own articulated position
+Character B is, per established canon, Founding Elder Mèi Sun, whose own articulated position
 becomes the settlement's lasting political creed.
 
 ---

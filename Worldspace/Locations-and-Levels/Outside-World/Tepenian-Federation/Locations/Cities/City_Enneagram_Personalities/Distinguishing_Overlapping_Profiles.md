@@ -15,7 +15,7 @@ The largest overlap in the whole set — six cities that are all self-sufficient
 - **Byrd** withdraws out of near-total circumstance — the most isolated surviving city in Tepenia, its aviation route permanently broken, its whole identity organized around enduring that isolation at the largest scale (a staggering underground city beneath a sparse surface).
 - **Sanay** withdraws by choice, holding the subnet's *actual* critical infrastructure (the real Arcanet nexus) while letting Halley keep the naming credit. Its competence is about quietly carrying real power without needing recognition for it.
 - **Denison** withdraws architecturally — a single, fully interlinked structure sealed against the most extreme wind-engineering conditions in Tepenia. Its competence is a specific, singular engineering feat, not a general disposition.
-- **Davis** withdraws into informal, self-directed culture-building — smuggled books, a quiet arts scene — layered on top of a genuinely industrial mining/fabrication economy. Its competence is about balancing hard labor with modest, self-made enrichment.
+- **Davis** withdraws into informal, self-directed culture-building — smuggled books, a quiet arts scene — layered on top of Tepenia's breadbasket agricultural/research economy *(corrected 2026-07-17 — previously "a genuinely industrial mining/fabrication economy," superseded 2026-07-16 when that role was reassigned to Mirny)*. Its competence is about balancing patient labor with modest, self-made enrichment.
 - **Mirny** withdraws behind a literal physical windbreak, a concentric ring of buildings shielding industrial yards inside. Its competence is rough, industrial, and unapologetically plain — pride that never needed to be earned through anything but showing up.
 - **Zhongshan** withdraws into self-sufficiency through its own Prydz Bay fishing economy. Its competence is the subtlest of the six — "chaos that is actually structure," an order that doesn't even announce itself as order.
 
@@ -23,19 +23,21 @@ The largest overlap in the whole set — six cities that are all self-sufficient
 
 ---
 
-## Group 2 — Thinking / Compliant / Competency (5 cities)
+## Group 2 — Thinking / Compliant / Competency (4 cities)
 
-**Amundsen Station, Halley, Esperanza, Juan Carlos, Sejong**
+**Amundsen Station, Halley, Juan Carlos, Sejong**
 
-All five are dutiful, analytical, and capable — service-oriented cities whose value comes from a function performed on behalf of others. The *kind* of duty differs sharply:
+*(Esperanza moved out 2026-07-17 — its original placement here was built entirely around a minor
+trans-shipment detail rather than its actual dominant identity; see Group 4 below.)*
+
+All four are dutiful, analytical, and capable — service-oriented cities whose value comes from a function performed on behalf of others. The *kind* of duty differs sharply:
 
 - **Amundsen Station** serves as neutral political mediation ground for the whole Federation, alongside literal technical maintenance of the Arcanet relay and Amundsen Tower — the only city on this list whose duty is explicitly cross-subnet and political-adjacent.
 - **Halley** traded real technical power for naming honor — its own residents built Sanay's nexus by hand, a duty performed specifically *for* someone else's infrastructure.
-- **Esperanza** is a logistics partner, splitting the Weddell Sea shipping corridor with Marambio — its duty is coordination within an equal partnership, not subordination to another city.
 - **Juan Carlos** is an information keeper — Tepenia's first bureaucratic archive, tracking immigration and watching for former Upper Earth officials. Its duty is about security and institutional memory, not physical labor or logistics.
-- **Sejong** facilitates border/customs processing, adjacent to the Machu Picchu Authority — a duty about smoothing other people's transit through the system.
+- **Sejong** facilitates constant multilateral coexistence — practiced diplomatic coordination across nearly a dozen immediate national neighbors sharing one small island, a skill built out of necessity rather than institutional assignment *(corrected 2026-07-17 — previously anchored to Sejong's own secondary proximity to Machu Picchu Airport rather than its established primary "City Defined By Its Neighbors" identity; see `Palmer_Subnet/Sejong.md`'s own corrected Enneagram read)*.
 
-**The distinguishing axis:** what kind of "on behalf of others" each city practices — political mediation (Amundsen), physical labor traded for credit (Halley), equal logistics partnership (Esperanza), information security (Juan Carlos), and administrative facilitation (Sejong).
+**The distinguishing axis:** what kind of "on behalf of others" each city practices — political mediation (Amundsen), physical labor traded for credit (Halley), information security (Juan Carlos), and constant multilateral boundary diplomacy (Sejong).
 
 ---
 
@@ -52,18 +54,22 @@ Both are forceful, contested, industrially significant cities — but the *direc
 
 ---
 
-## Group 4 — Feeling / Compliant / Positive Outlook (4 cities)
+## Group 4 — Feeling / Compliant / Positive Outlook (5 cities)
 
-**Cape Adare, Zukelli, Mawson, Shirayuki**
+**Cape Adare, Zukelli, Mawson, Shirayuki, Esperanza**
 
-All four are warm, community-first, and optimistic — but each channels that warmth through a different primary medium:
+*(Esperanza added 2026-07-17, moved from Group 2 — its original placement there was built around a
+minor logistics detail rather than its actual dominant "Guarded City" founding-compact identity.)*
+
+All five are warm, community-first, and optimistic — but each channels that warmth through a different primary medium:
 
 - **Cape Adare** channels it through folk music and rural small-town intimacy — acoustic instruments, a slow pace, penguins as pets, a "big city, small-town feel."
 - **Zukelli** channels it through dense, genre-diverse urban music and a tangled, lived-in cityscape — "a place with a soul," a warmth proven precisely because it was willing to shelter AWOL defectors at real cost.
 - **Mawson** channels it through romantic hospitality specifically — Tepenia's honeymoon destination, warmth built around relationship and celebration rather than art or community texture.
 - **Shirayuki** channels it through visual art, fashion, and civic pride — sculptures and murals as the actual built environment, an academic draw built on culture and soul rather than ranking.
+- **Esperanza** channels it through a founding compact of guardianship — a whole city organized around the debt owed to humans who sacrificed everything for exile, its warmth expressed through the birth registry, family-first civic policy, and generations of children raised into no other home, rather than through art, romance, or community texture.
 
-**The distinguishing axis:** the medium of warmth — folk music/rural intimacy (Cape Adare), urban music/soulful risk-taking (Zukelli), romance/hospitality (Mawson), visual art/civic pride (Shirayuki).
+**The distinguishing axis:** the medium of warmth — folk music/rural intimacy (Cape Adare), urban music/soulful risk-taking (Zukelli), romance/hospitality (Mawson), visual art/civic pride (Shirayuki), guardianship/family devotion (Esperanza).
 
 ---
 
@@ -129,9 +135,15 @@ All three are real logistics/economic powerhouses, but the *form* of their power
 
 - **Fort McMurdo**'s power is soft — presence and decision-making gravity, "de facto capital" status that's operational, not political, felt rather than physically moved.
 - **Marambio**'s power is dual and physical — a genuine shipyard *and* one of only eight confirmed airports, moving actual goods and people at real volume.
-- **Rothera**'s power is singular and technical — specifically its confirmed wheeled-aircraft-capable airport, one rare capability rather than a dual role.
+- **Rothera**'s power is dual and structural — decentralized industrial production spread across Adelaide
+  Island *plus* large-scale underground vault sections, together supplying finished infrastructure
+  components to every other Palmer subnet city *(corrected 2026-07-17 — previously described as
+  "singular and technical," anchored to Rothera's own secondary airport fact rather than its established
+  primary identity as the subnet's decentralized industrial center; see
+  `Palmer_Subnet/Rothera.md`'s own corrected Enneagram read)*.
 
-**The distinguishing axis:** soft decision-making gravity (Fort McMurdo) vs. dual physical throughput (Marambio) vs. singular technical specialty (Rothera).
+**The distinguishing axis:** soft decision-making gravity (Fort McMurdo) vs. dual physical throughput —
+aviation-and-port (Marambio) vs. dual physical throughput — industrial-and-subterranean (Rothera).
 
 ---
 

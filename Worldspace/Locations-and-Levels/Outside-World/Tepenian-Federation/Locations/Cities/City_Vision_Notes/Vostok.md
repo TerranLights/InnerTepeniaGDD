@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Vostok holds Tepenia's cold record (−89.2°C, unbroken since 1983), sits above Lake Vostok — a subglacial lake sealed from the surface for 15–25 million years — and is home to Doll, a robot geneticist working on a low-mutation-rate genetics breakthrough. Unlike Kunlun, Vostok retains a substantial human population alongside its robots (129,617 humans / 259,644 robots, Census I). Highway access had just been corrected the same session: Vostok is a confirmed stop on Hwy 37 (Dome Fuji → Kunlun → Vostok → Concordia), the same bug pattern Kunlun's own file had.
+Recap of what was already established going in: Vostok holds Tepenia's cold record (−89.2°C, unbroken since 1983), sits above Lake Vostok — a subglacial lake sealed from the surface for 15–25 million years — and is home to "Doll," a robot geneticist working on a low-mutation-rate genetics breakthrough *(named "Charlene" the following day, 2026-07-07 — "Doll" here was this session's own placeholder term, not a stale error)*. Unlike Kunlun, Vostok retains a substantial human population alongside its robots (129,617 humans / 259,644 robots, Census I). Highway access had just been corrected the same session: Vostok is a confirmed stop on Hwy 37 (Dome Fuji → Kunlun → Vostok → Concordia), the same bug pattern Kunlun's own file had.
 
 ---
 

@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #4**, translated from `Scott_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Robert Falcon Scott's 1902 expedition hut
-(`Full_Extrapolation` §IV, Hut Point Discovery Hut) and Keeper of Hut Point Wiremu Halvorsen
+(`Full_Extrapolation` §IV, Hut Point Discovery Hut) and Keeper of Hut Point Wiremu Tane
 (`Full_Extrapolation` §V, Notable Figures). Character fields are intentionally left blank — see each
 Conflict section's Design Notes for what kind of conflict, and what kind of character(s), would make the
 following setting-condition become true.
@@ -49,7 +49,7 @@ something this precious is simply sound civic practice, protecting the site from
 person's continued willingness or survival.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly the figure later
-remembered as, or a direct predecessor to, Keeper of Hut Point Wiremu Halvorsen, someone with a personal,
+remembered as, or a direct predecessor to, Keeper of Hut Point Wiremu Tane, someone with a personal,
 almost proprietary attachment to the site. Character B is plausibly a civic administrator responsible for
 Scott's modest but real institutional resources, wanting to protect the hut properly rather than leave its
 fate to one individual's continued commitment.

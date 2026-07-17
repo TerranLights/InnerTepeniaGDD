@@ -315,6 +315,8 @@ There's no formal ceremony, but the marker is specific and well understood: you 
 - **Majyao Bisyugota** — Robot; kept the most nationally famous teahouse in Tepenia in Janbogo before relocating to Concordia's Aquarius district; Chinese-descended, embodying the city's central cultural inversion; her Concordia establishment carries the tradition forward in diaspora
 - **[Placeholder — founding-era Korean community figure]** — the person most associated with establishing the original teahouse tradition that the entire city's culture eventually grew from
 - **[Placeholder — first non-Korean-descended teahouse keeper of note]** — whoever first proved the tradition could be carried by someone outside its founding ethnicity; likely a culturally significant, semi-legendary figure in Janbogo's own self-understanding
+- **Meteorologist Han Soo-jin** *(placeholder, added 2026-07-17, proposed `Janbogo_Full_Extrapolation.md` §III)* — credited with formalizing Janbogo's katabatic wind-warning system.
+- **Architect Wu Lian-Marchetti** *(placeholder, added 2026-07-17, same section)* — credited with designing the great shielded commercial halls.
 - **TBN Pink Lucy (FW-25)** *(corrected 2026-07-13 — migration route resolved 2026-07-12, previously listed here as unconfirmed)* — Dumont d'Urville native who relocated to Janbogo pre-war and settled there for a time, a strong personality match with the city's own hospitality-and-synthesis civic identity; whether she subsequently fled to Concordia or remained through the war is still open
 
 ---

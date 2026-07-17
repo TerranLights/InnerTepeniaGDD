@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic") — Sanay is the subnet's actual technical Arcanet nexus *(established 2026-07-04)*, physically hosted here on stable bedrock rather than at Halley itself (which sits on a moving, potentially-calving ice shelf); the subnet keeps Halley's name because Halley's own residents did the hands-on labor of building the nexus here, while Sanay's residents were occupied running the ports and shipping lanes to South Africa
 **Status:** Damaged; partially operational — scarred but standing, one of several such communities rather than a singular untouched exception
-**Census II Population:** 145,798 humans / 129,319 robots / 275,117 combined (rank 26th of ~30, smallest in the subnet's coastal cluster)
+**Census II Population:** 145,798 humans / 129,319 robots / 275,117 combined (rank 27th of ~30, smallest in the subnet's coastal cluster)
 **Location:** Vesleskarvet nunatak, Ahlmannryggen range, Queen Maud Land (~71°40'S, 2°51'W)
 
 **One-liner:** *The only Halley subnet city where German immigration, not American, became the eventual demographic heir — a South African founding legacy on bedrock stable enough to endure the war without being erased, though not spared it either.*

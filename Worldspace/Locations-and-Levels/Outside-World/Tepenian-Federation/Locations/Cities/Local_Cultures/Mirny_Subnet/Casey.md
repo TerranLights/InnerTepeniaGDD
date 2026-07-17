@@ -218,7 +218,7 @@ Comparatively muted — Casey's civic energy is absorbed by its logistics functi
 
 - **Denison (Janbogo subnet):** No established in-fiction relationship between the two cities. Noted here only because their founding-nation composition is nearly identical despite very different resulting cultures — a data point, not a canon connection. See `../Janbogo_Subnet/Denison.md`.
 - **Concordia:** The inland terminus of Hwy 110; Casey is the last coastal city before the long interior drive, and the first city after it — a genuinely load-bearing relationship, not a symbolic one.
-- **Dumont d'Urville coast cities:** Connected via Hwy 2/DCH — but that route runs directly through Casey, so its destruction blocks Hwy 2 at the source rather than merely disconnecting it *(corrected 2026-07-05)*. There is no rerouting through Janbogo or anywhere else; the Dumont d'Urville coast's overland connection to the rest of Tepenia is genuinely severed.
+- **Dumont d'Urville coast cities:** Connected via Hwy 2/DCH — but that route runs directly through Casey, so its destruction blocks Hwy 2 at the source rather than merely disconnecting it *(corrected 2026-07-05)*. *(Corrected 2026-07-17, matching `Specs/Casey.md`'s own 2026-07-13 correction: this previously claimed "no rerouting... genuinely severed" — stale as of the very next day. Hwy 183 was re-routed to run Concordia → Janbogo → Cape Adare (connecting road) → Denison → Dumont d'Urville, a complete alternate route that never touches Casey. Dumont d'Urville is not technically cut off — but the practical loss is still severe: Hwy 2 through Casey was a short, direct coastal run through a single destroyed city, while Hwy 183 is a dramatically longer detour tracing nearly the whole Ross Sea coast past Cape Adare's and Zukelli's own ruins before reaching Janbogo and Concordia.)*
 - **Zhongshan, Mirny, Davis:** Fellow Mirny subnet cities; Casey's junction role makes it a practical hub for the whole subnet's internal movement, distinct from Zhongshan's insular austerity or Mirny's subnet-hub administrative role.
 
 ---
@@ -281,7 +281,8 @@ Marked less by ceremony than by a shift in function — you're a visitor while C
 
 ## 31. Notable Figures
 
-- **[Placeholder]** — TBD; Casey's function-first culture may mean its notable figures are remembered more for logistics achievements than individual charisma, a distinct pattern from more personality-driven cities
+- **Idris Wetherall** *(placeholder, added 2026-07-17, proposed `Casey_Full_Extrapolation.md` §VI)* — credited with reviving the "Splinters" name from old pre-exile records, pushing for its full-city-block revival.
+- **Dispatcher "Long Odds" Okonkwo-Hale** *(placeholder, added 2026-07-17, same section)* — a legendary road-conditions dispatcher, the embodiment of Casey's "be useful, be quick, be honest about the route" civic value.
 - **Ayako Hayashi (hypothetical, not decided)** — flagged as a possible candidate for where she lived in Tepenia before resettling in Concordia. *(Corrected 2026-07-13: this entry previously claimed "Japan leads Significant tier here" — wrong; South Korea actually leads, with Japan the second-smallest of Casey's six Significant-tier nations at 5.33%. Japan does have a real, if modest, presence, so Casey remains a demographically plausible fit — just a weaker one than previously stated.)* Denison (`../Janbogo_Subnet/Denison.md`) is the other candidate under consideration. See her `README.md` Design Notes.
 
 ---

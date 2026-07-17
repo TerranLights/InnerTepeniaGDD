@@ -50,7 +50,7 @@ be.
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a community organizer
 or storyteller, personally attached to a specific candidate first and eager to see it formally
 recognized the way St. Carsten's Landing was. Character B is plausibly an archivist or historian in the
-Manalo-Sørensen tradition, wary of civic sentiment overriding actual documented significance, and
+Manalo tradition, wary of civic sentiment overriding actual documented significance, and
 protective of the credibility the city's existing observance already carries.
 
 ---

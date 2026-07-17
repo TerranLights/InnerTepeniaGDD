@@ -4,7 +4,7 @@
 
 **Subnet:** Janbogo
 **Status:** Damaged; partially operational — largest ruins in Tepenia by physical footprint
-**Census II Population:** 173,548 humans / 164,621 robots / 338,169 combined *(rank ~24th of ~30 — "island cap"; Census I was 222,190 humans / 223,120 robots / 445,310 combined, so population actually declined between censuses even before the war — Census I figure corrected 2026-07-05, had drifted from Specs/Official_Population_Census.md)*
+**Census II Population:** 173,548 humans / 164,621 robots / 338,169 combined *(rank 23rd, corrected 2026-07-17 — was the approximate "~24th of ~30," tightened to match the exact current Official_Population_Census.md Census II ranking table; "island cap"; Census I was 222,190 humans / 223,120 robots / 445,310 combined, so population actually declined between censuses even before the war — Census I figure corrected 2026-07-05, had drifted from Specs/Official_Population_Census.md)*
 **Location:** Ross Island, Ross Sea coast, in the shadow of Mount Erebus (~77°51'S, 166°40'E)
 
 **One-liner:** *Tepenia's biggest built thing, never its biggest population — the industrial capital that measured a person by output, not origin, and built half the Federation's infrastructure from a peninsula it could never fully fill.*
@@ -268,7 +268,8 @@ There's no ceremony. You become a local once your work output has been reliable 
 
 ## 31. Notable Figures
 
-- TBD
+- **Logistics Coordinator Amara Fischer** *(placeholder, added 2026-07-17, proposed `Fort_McMurdo_Full_Extrapolation.md` §III)* — credited with formalizing the dedicated comms stations behind Fort McMurdo's "de facto capital" status.
+- **Volcanologist Dr. Marco Conti** *(placeholder, added 2026-07-17, same section)* — credited with establishing Fort McMurdo's long-running Erebus monitoring program.
 
 ---
 

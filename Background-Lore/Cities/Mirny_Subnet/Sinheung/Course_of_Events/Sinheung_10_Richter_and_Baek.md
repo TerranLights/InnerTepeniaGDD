@@ -1,9 +1,9 @@
-# Sinheung — Whitfield and Baek
+# Sinheung — Richter and Baek
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #10**, translated from `Sinheung_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in the proposed notable figures Chief
-Engineer Baek Ji-hoon and Foreman Dae-ho Whitfield, and the city's two-stage economic arc from inherited
+Engineer Baek Ji-hoon and Foreman Dae-ho Richter, and the city's two-stage economic arc from inherited
 research infrastructure to national chamber manufacturer (`Full_Extrapolation` Section II;
 `Cross_Reference_Synthesis` Finding 1). Character fields are intentionally left blank — see each
 Conflict section's Design Notes for what kind of conflict, and what kind of character(s), would make the
@@ -15,7 +15,7 @@ following setting-condition become true.
 ###### The city as it stands before this cycle's turning point.
 
 Baek Ji-hoon converts Sinheung's inherited infrastructure into a genuine industrial economy; Dae-ho
-Whitfield later secures its place among the nation's few chamber manufacturers — two real, significant
+Richter later secures its place among the nation's few chamber manufacturers — two real, significant
 achievements, remembered separately, generations apart.
 
 ---
@@ -24,7 +24,7 @@ achievements, remembered separately, generations apart.
 ###### What disrupts the above baseline.
 
 The two achievements happen far enough apart, generationally, that residents don't automatically connect
-them as one continuous story — Baek Ji-hoon belongs to founding-era memory, Whitfield to a much later,
+them as one continuous story — Baek Ji-hoon belongs to founding-era memory, Richter to a much later,
 better-documented civic triumph, and nothing in how either is remembered originally links the two
 together. Local institutional memory eventually does draw the line directly — one figure who built the
 foundation, another who built the achievement the foundation made possible, two halves of the same civic
@@ -44,7 +44,7 @@ resent being written out of it entirely.
 **Character B:** *(left blank)*
 
 **Design notes — what kind of conflict this needs:** a confrontation between a civic historian or
-storyteller championing the clean, two-figure Baek-to-Whitfield narrative because it's genuinely more
+storyteller championing the clean, two-figure Baek-to-Richter narrative because it's genuinely more
 compelling and easier to teach newcomers, and a representative of the intervening generations of ordinary
 plant workers who feel — legitimately — that a story crediting only two names erases the collective
 effort that actually built and sustained the fabrication economy across the decades between them. Neither
@@ -73,7 +73,7 @@ represent rather than replace.
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
 Because the reframing was formalized rather than left as an unresolved tension, Sinheung's civic education
-develops an actual, deliberate two-layer teaching approach — the memorable, simple Baek-to-Whitfield story
+develops an actual, deliberate two-layer teaching approach — the memorable, simple Baek-to-Richter story
 for newcomers and children, paired explicitly with a fuller, collective account for anyone who wants the
 complete picture, rather than one narrative fully displacing the other.
 
@@ -94,7 +94,7 @@ city eventually chooses to honor.
 ###### The new baseline, feeding the next cycle.
 
 Sinheung now teaches its own history in two deliberate layers — the memorable, simple story of Baek and
-Whitfield, and the fuller, collective account beside it — proof of what Sinheung built, credited to the
+Richter, and the fuller, collective account beside it — proof of what Sinheung built, credited to the
 two people history happened to remember doing it, without erasing everyone else who actually built it
 alongside them.
 

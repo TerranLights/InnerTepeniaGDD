@@ -15,7 +15,7 @@
 ## II. Notable Figures (proposed, unconfirmed)
 
 - **Chief Engineer Baek Ji-hoon** *(placeholder; corrected 2026-07-13 — previously "Petra Ilyenko-Baek," a deliberately cross-cultural surname reflecting a "genuinely doubled founding" that no longer holds; this city is singularly Korean-founded via Jeju-do)* — credited with adapting the inherited Russian research infrastructure into the fabrication economy that now defines the city; considered the figure most responsible for the shift from an inherited research outpost to a Korean industrial powerhouse built on top of it.
-- **Foreman Dae-ho Whitfield** *(placeholder)* — the figure most associated, in the city's own institutional memory, with securing the city's place among the handful of fabrication-synthesis chamber manufacturers — credited locally with the specific technical achievement that turned an ordinary industrial center into genuinely load-bearing national infrastructure.
+- **Foreman Dae-ho Richter** *(placeholder — corrected 2026-07-17; previously "Dae-ho Whitfield," whose surname implied a UK connection that doesn't exist here — UK was removed entirely from Sinheung's population in Round 1 of its own 2026-07-06 re-resolution; renamed to reflect Germany, one of Sinheung's genuine Significant-tier nations)* — the figure most associated, in the city's own institutional memory, with securing the city's place among the handful of fabrication-synthesis chamber manufacturers — credited locally with the specific technical achievement that turned an ordinary industrial center into genuinely load-bearing national infrastructure.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
 

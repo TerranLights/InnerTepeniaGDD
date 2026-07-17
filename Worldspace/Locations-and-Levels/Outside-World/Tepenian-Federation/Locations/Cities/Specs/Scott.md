@@ -119,7 +119,8 @@ Scott Base's own real-world research and environmental-monitoring infrastructure
 
 ## Notable Figures
 
-- TBD
+- **Community Organizer Fiona Māui** *(placeholder, proposed `Scott_Full_Extrapolation.md` Section V)* — credited with shaping Scott's domestic, family-oriented civic character in its early exile-era decades.
+- **Keeper of Hut Point Wiremu Tane** *(placeholder, same section)* — a ceremonial figure associated with maintaining the Independence Day remembrance tradition at Hut Point.
 
 ---
 

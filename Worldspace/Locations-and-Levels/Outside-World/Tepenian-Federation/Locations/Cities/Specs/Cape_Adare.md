@@ -140,7 +140,8 @@ Cape Adare's economy was built around its position as a Ross Sea gateway — mar
 
 ## Notable Figures
 
-- TBD
+- **Archivist Elena Manalo** *(placeholder — corrected 2026-07-17 from "Freya Manalo-Sørensen," proposed `Cape_Adare_Full_Extrapolation.md` Section VII; the original surname implied a Scandinavian connection that doesn't exist in Cape Adare's population, and the city's own Local_Cultures file explicitly notes its Scandinavian-instrument music tradition is "a coincidence of convergent development, not an inheritance" — renamed to just the Filipino surname, matching Cape Adare's genuine Notable-tier Philippines presence)* — credited with maintaining the heritage documentation of Borchgrevink's hut across centuries.
+- **Rookery-Keeper Tomás Widjaja** *(placeholder, proposed `Cape_Adare_Full_Extrapolation.md` Section VII)* — credited with formalizing how individual penguins came to be kept as outdoor pets alongside the wider rookery.
 
 ---
 

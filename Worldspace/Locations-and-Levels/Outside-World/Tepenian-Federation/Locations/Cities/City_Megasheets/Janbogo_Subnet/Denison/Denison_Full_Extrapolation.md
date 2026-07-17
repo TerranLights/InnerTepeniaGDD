@@ -18,8 +18,8 @@
 
 ## III. Notable Figures (proposed, unconfirmed)
 
-- **Chief Wind-Engineer Priya Okonkwo-Halvorsen** *(placeholder)* — credited with pioneering the fully-interlinked structural design that defines Denison's built environment, the founding figure behind the city's central engineering achievement.
-- **Fabrication Engineer Kenji Marchetti-Suh** *(placeholder)* — credited with establishing Denison's historical role manufacturing fabrication-synthesis chambers for the nationwide Cradle infrastructure, a figure tied to a piece of Tepenian history lost when the city was destroyed.
+- **Chief Wind-Engineer Wei Zhang** *(placeholder — corrected 2026-07-17; previously "Priya Okonkwo-Halvorsen," combining an Indian given name with Nigerian and Scandinavian surnames, which violates the project's binding No Subcontinentals canon and didn't match any of Denison's own represented nations; renamed to reflect China, one of Denison's two Primary-tier nations)* — credited with pioneering the fully-interlinked structural design that defines Denison's built environment, the founding figure behind the city's central engineering achievement.
+- **Fabrication Engineer Kenji Suh** *(placeholder — corrected 2026-07-17; previously "Kenji Marchetti-Suh," whose middle surname "Marchetti" (Italian) didn't match any of Denison's own represented nations; simplified to Japan and South Korea, both genuine Denison Significant-tier nations)* — credited with establishing Denison's historical role manufacturing fabrication-synthesis chambers for the nationwide Cradle infrastructure, a figure tied to a piece of Tepenian history lost when the city was destroyed.
 
 *(Both entirely proposed — placeholder figures meant to give Denison's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 

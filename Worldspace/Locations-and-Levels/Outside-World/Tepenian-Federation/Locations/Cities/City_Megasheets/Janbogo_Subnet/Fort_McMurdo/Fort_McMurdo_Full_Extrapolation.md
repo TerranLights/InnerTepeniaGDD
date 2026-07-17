@@ -18,8 +18,8 @@
 
 ## III. Notable Figures (proposed, unconfirmed)
 
-- **Logistics Coordinator Amara Ferreira-Novak** *(placeholder)* — credited with formalizing the dedicated comms stations that coordinate supply, extraction scheduling, and inter-city logistics, the operational backbone behind Fort McMurdo's established "de facto capital" status.
-- **Volcanologist Dr. Hendrik Osei-Larsen** *(placeholder)* — credited with establishing Fort McMurdo's long-running Erebus monitoring program, the figure behind generations of the city's practical, unbothered familiarity with living beside an active volcano.
+- **Logistics Coordinator Amara Fischer** *(placeholder — corrected 2026-07-17; previously "Amara Ferreira-Novak," whose Portuguese/Czech-coded surname didn't match any Fort McMurdo nation; renamed to Germany, a genuine Significant-tier nation)* — credited with formalizing the dedicated comms stations that coordinate supply, extraction scheduling, and inter-city logistics, the operational backbone behind Fort McMurdo's established "de facto capital" status.
+- **Volcanologist Dr. Marco Conti** *(placeholder — corrected 2026-07-17; previously "Dr. Hendrik Osei-Larsen," whose Dutch/Ghanaian/Scandinavian-coded name matched no Fort McMurdo nation; renamed to Italy, a genuine Significant-tier nation with real volcanology heritage — Etna, Vesuvius, INGV)* — credited with establishing Fort McMurdo's long-running Erebus monitoring program, the figure behind generations of the city's practical, unbothered familiarity with living beside an active volcano.
 
 *(Both entirely proposed — placeholder figures meant to give Fort McMurdo's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 

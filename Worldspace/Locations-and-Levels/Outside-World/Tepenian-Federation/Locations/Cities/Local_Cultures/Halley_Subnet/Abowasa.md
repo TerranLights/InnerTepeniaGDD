@@ -4,7 +4,7 @@
 
 **Subnet:** Halley ("Atlantic")
 **Status:** Damaged; partially operational — hit but not erased, a small community holding on
-**Census II Population:** 310,791 humans / 296,650 robots / 607,441 combined (rank 19th of ~32, *corrected 2026-07-03*)
+**Census II Population:** 310,791 humans / 296,650 robots / 607,441 combined (rank 20th of ~32, *corrected 2026-07-17 — was "19th," stale against the current `Official_Population_Census.md` Census II ranking table*)
 **Location:** Basen nunatak, Vestfjella mountains, Queen Maud Land (~73°03'S, 13°25'W)
 
 **One-liner:** *Tepenia's only city founded jointly by two nations at once — small enough that the founding-nations-vs-demographic-majority tension every other Halley subnet city faces alone, Abowasa has always had to work out between two peoples simultaneously, at the scale of individual households.*

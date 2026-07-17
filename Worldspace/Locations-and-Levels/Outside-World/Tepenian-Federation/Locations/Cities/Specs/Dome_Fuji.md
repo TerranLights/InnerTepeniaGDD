@@ -186,7 +186,8 @@ Ice core science — Dome Fuji is one of the best locations on Earth for deep ic
 
 ## Notable Figures
 
-- TBD
+- **Aslaug** *(placeholder, proposed `Dome_Fuji_Full_Extrapolation.md` Section VIII)* — one of Dome Fuji's longest-standing devotees, among the informal stewards maintaining the observance calendar.
+- **Teodor Marchetti** *(placeholder, same section; name chosen arbitrarily from the population's own real composition)* — one of the few devotees who arrived with prior scientific training and continues ice-core analysis work alongside devotional life.
 
 ---
 

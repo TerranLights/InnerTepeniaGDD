@@ -120,8 +120,8 @@ Following the standard adjectival pattern already used across Tepenia's shorter-
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **Community Organizer Fiona Māui-Larsen** *(placeholder)* — credited with shaping Scott's domestic, family-oriented civic character in its early exile-era decades, the figure behind the city's own deliberate choice to stay modest rather than grow.
-- **Keeper of Hut Point Wiremu Halvorsen** *(placeholder)* — a ceremonial figure associated with maintaining the Independence Day remembrance tradition at Hut Point, tending the site between observances.
+- **Community Organizer Fiona Māui** *(placeholder)* — credited with shaping Scott's domestic, family-oriented civic character in its early exile-era decades, the figure behind the city's own deliberate choice to stay modest rather than grow.
+- **Keeper of Hut Point Wiremu Tane** *(placeholder)* — a ceremonial figure associated with maintaining the Independence Day remembrance tradition at Hut Point, tending the site between observances.
 
 *(Both entirely proposed — placeholder figures meant to give Scott's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 

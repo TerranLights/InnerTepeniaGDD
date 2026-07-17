@@ -16,7 +16,7 @@ A working city first — mining (quarries toward the South Pole direction, separ
 
 ## Corrections/additions applied directly to other files this session
 
-- `Specs/Davis.md` and `Local_Cultures/Mirny_Subnet/Davis.md` — Division of Industry revised to industry-first (mining/fabrication/manufacturing majority, research heritage a minority); the smuggled-books library detail.
+- `Specs/Davis.md` and `Local_Cultures/Mirny_Subnet/Davis.md` — Division of Industry revised to industry-first (mining/fabrication/manufacturing majority, research heritage a minority); the smuggled-books library detail. *(Superseded 2026-07-16, noted here 2026-07-17: the mining/fabrication-first framing conflicted with the same-day "breadbasket of Tepenia" City-Type resolution — the developer reassigned mining/quarrying to Mirny and rewrote Davis's Division of Industry around agriculture and research instead. This session's other finding, the smuggled-books library detail, is unaffected and still current.)*
 - **Surfaced as part of a broader Tepenian practice, not unique to Davis:** smuggling of books and other outside materials is a nationwide necessity for building up a developed culture. Confirmed also at Zukelli, Janbogo, and Esperanza; Sanay flagged as a likely but unconfirmed candidate.
 
 ---

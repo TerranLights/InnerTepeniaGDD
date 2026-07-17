@@ -18,7 +18,7 @@
 
 ## III. Other Notable Figures (proposed, unconfirmed)
 
-- **Meteorologist Han Soo-jin Ferreira** *(placeholder)* — credited with formalizing Janbogo's katabatic wind-warning system, the practical originator behind the established "the game signals incoming events" mechanic; her forecasting work is plausibly the reason outdoor katabatic fatalities are rare rather than routine.
+- **Meteorologist Han Soo-jin** *(placeholder — corrected 2026-07-17; previously "Han Soo-jin Ferreira," whose Portuguese-coded surname didn't match any Janbogo nation; simplified to a Korean name, matching South Korea, the city's founding-operator nation)* — credited with formalizing Janbogo's katabatic wind-warning system, the practical originator behind the established "the game signals incoming events" mechanic; her forecasting work is plausibly the reason outdoor katabatic fatalities are rare rather than routine.
 - **Architect Wu Lian-Marchetti** *(placeholder)* — credited with designing the great shielded commercial halls, translating the older teahouse-scale interior-warmth principle into large-scale civic architecture.
 
 *(Both entirely proposed — placeholder figures meant to give Janbogo's thin "Notable Figures" list a concrete starting point, not finished character writing.)*

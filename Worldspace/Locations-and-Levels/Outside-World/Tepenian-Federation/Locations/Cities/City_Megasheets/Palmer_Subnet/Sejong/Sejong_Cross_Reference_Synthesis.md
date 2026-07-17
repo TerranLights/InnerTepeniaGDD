@@ -38,6 +38,8 @@
 
 **4th-order effect:** this refines the standing methodological check already flagged on Rothera's own Megasheet — rather than assuming every Enneagram-profile lag is simply outdated, it's worth asking, city by city, whether the shared "on behalf of others" trait is the seed of something true that each city's own later development elaborated on differently, rather than dismissing the profile outright.
 
+**Resolved 2026-07-17:** applied exactly as this Finding proposed — Sejong's Enneagram triple (Thinking/Compliant/Competency) was kept, not replaced, with the justification re-grounded in the city's own established primary identity (constant multilateral boundary diplomacy across nearly a dozen King George Island neighbors) rather than the secondary Machu Picchu Airport fact. See `Palmer_Subnet/Sejong.md` and `Sejong_Mega_Init.md` for the corrected read, and `Distinguishing_Overlapping_Profiles.md` Group 2 for the corresponding update.
+
 ---
 
 ## Synthesis: The Pattern Across All Three Findings

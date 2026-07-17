@@ -12,7 +12,7 @@ The full, concatenated Davis reference — synthesis, then extrapolation, then c
 
 ## The One-Line Pitch
 
-*The city named for the man who made other people's expeditions possible and never asked for credit — a working city of quarries and fabrication shops sitting on top of the most varied, remarkable terrain in Tepenia, studying it seriously without ever needing anyone to come see it.*
+*The city named for the man who made other people's expeditions possible and never asked for credit — Tepenia's breadbasket, sitting on top of the most varied, remarkable terrain in the country, studying it seriously without ever needing anyone to come see it.* *(Corrected 2026-07-17 to match the 2026-07-16 "breadbasket" resolution — previously described Davis as "a working city of quarries and fabrication shops.")*
 
 ---
 
@@ -36,13 +36,13 @@ China leads as Primary, the standard Mirny subnet pattern — but Davis's own di
 
 ## What It Feels Like
 
-Terrain variety registers before anything else: rock, freshwater lakes, unusual hypersaline lakes, fjord-like Prydz Bay inlets, and the surrounding ice sheet, all within one city's footprint — a range no other Tepenian city needs to account for in the same space. Architecture works with this variety rather than against it, sited around lake access and fjord inlets instead of uniformly defended against wind. Then, gradually, the specific quiet competence of the people living there: help that's genuinely useful rather than performed, precision rather than showmanship — a working city, first and foremost, where mining and fabrication make up the clear daily majority, with the founding research heritage now a smaller, genuine minority rather than the whole identity.
+Terrain variety registers before anything else: rock, freshwater lakes, unusual hypersaline lakes, fjord-like Prydz Bay inlets, and the surrounding ice sheet, all within one city's footprint — a range no other Tepenian city needs to account for in the same space. Architecture works with this variety rather than against it, sited around lake access and fjord inlets instead of uniformly defended against wind. Then, gradually, the specific quiet competence of the people living there: help that's genuinely useful rather than performed, precision rather than showmanship — Tepenia's breadbasket, first and foremost, where sheltered-agriculture and greenhouse cultivation make up the clear daily majority alongside a genuine, co-equal ecological/limnological research heritage *(corrected 2026-07-17 — see `Davis_Mega_Init.md` for the full note; this concatenated copy carried the same stale pre-2026-07-16 "mining and fabrication" framing)*.
 
 ---
 
 ## Personality (Enneagram Read)
 
-**Instinctive (Gut) / Withdrawn / Competency** — organized around labor and physical output rather than analysis or self-image, even with a small arts/music scene layered on top. Its Withdrawn energy shows in Davis's own quiet, self-directed way of enriching its own life (smuggled Upper Earth books, a modest homegrown arts scene) without needing outside recognition or engagement. Its Competency reads in how effortlessly it blends serious industrial labor with a modest cultural life — no established tension between the two, just simple, unglamorous balance.
+**Instinctive (Gut) / Withdrawn / Competency** — organized around patient, physical, hands-in-the-soil labor and careful terrain observation rather than analysis-for-its-own-sake or self-image, even with a small arts/music scene layered on top *(narrative framing corrected 2026-07-17 to match the triad's own 2026-07-16 correction)*. Its Withdrawn energy shows in Davis's own quiet, self-directed way of enriching its own life (smuggled Upper Earth books, a modest homegrown arts scene) without needing outside recognition or engagement. Its Competency reads in how effortlessly it blends serious agricultural and research labor with a modest cultural life — no established tension between the two, just simple, unglamorous balance.
 
 ---
 
@@ -52,7 +52,7 @@ Terrain variety registers before anything else: rock, freshwater lakes, unusual 
 
 Founded in 1586 as Russia's first Siberian settlement, Tyumen isn't itself the site of Western Siberia's oil and gas fields — it's the service and logistics base that makes working those fields possible, its advantageous position at the crossing of road, rail, water, and air routes turning it into the essential support city for extraction happening elsewhere. Despite this fundamentally unglamorous, service-oriented role, Tyumen has grown into a genuine center of industry, science, culture, education, and even contemporary art, with a cosmopolitan character and a notably bright civic outlook.
 
-**What this gives Davis:** a real-world precedent for exactly the "enabler, not the explorer" identity Davis's own namesake already embodies — Tyumen isn't the resource, it's the reason the resource can be worked at all, the same structural role John King Davis played for other men's expeditions. Tyumen's own real transformation — unglamorous service town growing genuine cultural depth (arts, education, culture) without ever stopping being fundamentally a working city — gives grounded precedent for Davis's own established layering of serious industry with a small but genuine arts/music community.
+**What this gives Davis:** a real-world precedent for exactly the "enabler, not the explorer" identity Davis's own namesake already embodies — Tyumen isn't the resource, it's the reason the resource can be worked at all, the same structural role John King Davis played for other men's expeditions. Tyumen's own real transformation — unglamorous service town growing genuine cultural depth (arts, education, culture) without ever stopping being fundamentally a working city — gives grounded precedent for Davis's own established layering of serious agricultural and research labor with a small but genuine arts/music community.
 
 ### Secondary: Vladivostok
 
@@ -154,7 +154,9 @@ Section III is the most structurally useful proposal here — it gives a clean, 
 
 ## Finding 1: Davis's "enabler" identity is reinforced by three independent sources at once
 
-**Combining:** Tyumen's real role as a service and logistics city enabling oil extraction happening elsewhere, not the extraction site itself + John King Davis's own historical role as the mariner who enabled other men's expeditions rather than leading his own + Davis's own established Division of Industry (mining/fabrication/manufacturing as the clear ~40% majority, serving the wider subnet rather than being an end-destination in its own right).
+**Combining:** Tyumen's real role as a service and logistics city enabling oil extraction happening elsewhere, not the extraction site itself + John King Davis's own historical role as the mariner who enabled other men's expeditions rather than leading his own + Davis's own established Division of Industry.
+
+*(Corrected 2026-07-17: the third leg of this Finding originally cited "mining/fabrication/manufacturing as the clear ~40% majority" — that was accurate 2026-07-07 but superseded 2026-07-16, when the mining/quarrying role was reassigned to Mirny and Davis's Division of Industry was rewritten around agriculture and research instead. The Finding's core argument still holds, arguably even more cleanly: Tepenia's breadbasket, feeding the wider Federation rather than being an end-destination in its own right, is if anything a sharper "enabler, not protagonist" fit than the original mining-city framing was.)*
 
 **2nd-order effect:** Davis's own current economic structure mirrors, at a civic level, the exact same "enabler, not protagonist" shape as both its founding namesake and its real-world inspiration — the city itself now functions as support infrastructure for activity happening elsewhere, not merely named after someone who once did.
 

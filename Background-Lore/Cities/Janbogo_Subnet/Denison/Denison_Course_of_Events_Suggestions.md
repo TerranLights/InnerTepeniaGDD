@@ -21,9 +21,9 @@ than piecemeal construction would. **Therefore** Denison becomes, from its earli
 exists as one continuous structure — survival demanding total commitment to the design, not a
 compromise.
 
-## 2. Priya's Design
+## 2. Wei Zhang's Design
 
-Chief Wind-Engineer Priya Okonkwo-Halvorsen inherits the challenge of making Cape Denison's earliest
+Chief Wind-Engineer Wei Zhang inherits the challenge of making Cape Denison's earliest
 scattered structures actually hold together against wind nothing else in Tepenia has to withstand.
 **But** existing engineering approaches elsewhere in the subnet all assume buildings can stay
 functionally separate. **Therefore** she pioneers a genuinely new structural principle — load-sharing

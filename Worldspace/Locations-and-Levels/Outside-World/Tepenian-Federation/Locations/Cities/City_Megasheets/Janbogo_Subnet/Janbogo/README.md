@@ -123,7 +123,7 @@ Dubai mall culture is the standout of this pass — its precise structural inver
 
 ## III. Other Notable Figures (proposed, unconfirmed)
 
-- **Meteorologist Han Soo-jin Ferreira** *(placeholder)* — credited with formalizing Janbogo's katabatic wind-warning system, the practical originator behind the established "the game signals incoming events" mechanic; her forecasting work is plausibly the reason outdoor katabatic fatalities are rare rather than routine.
+- **Meteorologist Han Soo-jin** *(placeholder)* — credited with formalizing Janbogo's katabatic wind-warning system, the practical originator behind the established "the game signals incoming events" mechanic; her forecasting work is plausibly the reason outdoor katabatic fatalities are rare rather than routine.
 - **Architect Wu Lian-Marchetti** *(placeholder)* — credited with designing the great shielded commercial halls, translating the older teahouse-scale interior-warmth principle into large-scale civic architecture.
 
 *(Both entirely proposed — placeholder figures meant to give Janbogo's thin "Notable Figures" list a concrete starting point, not finished character writing.)*

@@ -273,7 +273,9 @@ Becoming a local here means finding a genuine place among the city's varied purs
 
 ## 31. Notable Figures
 
-- TBD — a candidate consideration (not decided) is Ayako Hayashi's pre-Concordia origin city, given this city's Japanese founding population and its mild, art/research/fashion-supporting character fitting her own established background (art and fashion preceding medicine). See her own README for the full candidate list.
+- **Ambassador Reiko Tashiro** *(placeholder, added 2026-07-17, proposed `Shirayuki_Full_Extrapolation.md` §VI)* — the Japanese diplomat credited with securing the Jeju-do allocation itself.
+- **Momoka Ishihara** *(placeholder, added 2026-07-17, same section)* — proprietor of the city's most influential grassroots fashion collective.
+- A candidate consideration (not decided) is Ayako Hayashi's pre-Concordia origin city, given this city's Japanese founding population and its mild, art/research/fashion-supporting character fitting her own established background (art and fashion preceding medicine). See her own README for the full candidate list.
 
 ---
 

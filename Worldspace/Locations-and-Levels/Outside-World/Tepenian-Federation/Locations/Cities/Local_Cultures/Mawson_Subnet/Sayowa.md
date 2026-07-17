@@ -4,7 +4,7 @@
 
 **Subnet:** Mawson — westernmost city, bridging toward the Halley subnet
 **Status:** Damaged; partially operational — a critical highway junction, damaged but functioning, whose survival is as much about continental connectivity as about the city itself
-**Census Population:** 93,356 humans / 132,020 robots / 225,376 combined (Census I, rank 32nd — *revised 2026-07-03*: 30,000 humans redistributed to Vostok; see `Official_Population_Census.md`); 85,199 humans / 79,758 robots / 164,957 combined (Census II, rank 29th, *corrected 2026-07-03* — unaffected by the Census I redistribution) *(Census I figures corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
+**Census Population:** 93,356 humans / 132,020 robots / 225,376 combined (Census I, rank 32nd — *revised 2026-07-03*: 30,000 humans redistributed to Vostok; see `Official_Population_Census.md`); 85,199 humans / 79,758 robots / 164,957 combined (Census II, rank 30th, *corrected 2026-07-17 — was "29th," stale against the current Official_Population_Census.md Census II ranking table*) *(Census I figures corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** East Ongul Island, Lützow-Holm Bay, Prince Harald Coast (~69°00'S, 39°35'E)
 
 **One-liner:** *A city whose name carries the weight of an entire Japanese imperial era, sitting at the one point where the Mawson subnet, the road to Concordia, and the Halley subnet all physically meet — small in population, disproportionately vital in what runs through it.*
@@ -43,7 +43,7 @@ Sayowa sits on East Ongul Island in Lützow-Holm Bay, an island position distinc
 
 ## 4. Seasonal Rhythms
 
-Polar night (~46 days) and midnight sun (~47 days) at this East Antarctic latitude. Sayowa's real civic rhythm, though, is dominated by its junction role — traffic and coordination along Hwy 37 (toward Vostok, Kunlun, and Concordia) and Hwy 7-ext (toward Princess Elisabeth and Lazar in the Halley subnet) shape daily life as much as any seasonal cycle.
+Polar night (~46 days) and midnight sun (~47 days) at this East Antarctic latitude. Sayowa's real civic rhythm, though, is dominated by its junction role — traffic and coordination along Hwy 4 (toward Mawson, Sinheung, and Shirayuki), Hwy 37 (toward Vostok, Kunlun, and Concordia), and Hwy 7-ext (toward Princess Elisabeth and Lazar in the Halley subnet) shape daily life as much as any seasonal cycle *(corrected 2026-07-17 — this section previously omitted Hwy 4 entirely, a stale gap against `Specs/Sayowa.md`'s own 2026-07-06 correction; see Architecture, Section 23, and Section 29 for the fuller fix)*.
 
 ---
 
@@ -90,7 +90,7 @@ Sayowa's civic identity rests on a genuine duality: a small, genuinely diverse c
 
 ## 9. Architecture
 
-Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely constrained island footprint — small in scale but with real, visible junction infrastructure (the Hwy 37/Hwy 7-ext convergence) as a defining, disproportionately significant built feature.
+Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely constrained island footprint. *(Corrected 2026-07-17 — this section previously described "real, visible junction infrastructure (the Hwy 37/Hwy 7-ext convergence)" as sitting inside the city itself; per `Specs/Sayowa.md`'s own 2026-07-06 correction, the actual three-way crossing — Hwy 4, Hwy 7-ext, and Hwy 37 all converge at **the Sayowa Junction** — is located *near* Sayowa rather than physically in it, connected to the city by a large dedicated road, **the Sayowa Spur**. This reflects Sayowa's real character as a genuinely developed industrial/residential city in its own right, not a settlement built directly around the crossing.)* The Sayowa Spur itself is real, visible infrastructure and a defining feature of the built environment even so — a small city's entire relationship to the wider continent runs through that one connecting road.
 
 **Vision session, 2026-07-06:** the city reads as split roughly into two physical halves — genuinely industrialized fabrication and trucking/dispatch infrastructure on one side, genuinely residential neighborhoods on the other, rather than the two being blended throughout. Leisure infrastructure exists but is visibly secondary, tucked into the residential half rather than given its own prominent civic space the way the industrial half's yards and depots command the skyline.
 
@@ -201,6 +201,7 @@ Filtered through Sayowa's own established junction role and its long research-st
 
 - **Vostok (inland, Hwy 37):** Direct highway connection toward Kunlun and ultimately Concordia — the most significant inland route connection any Mawson subnet city has.
 - **Princess Elisabeth (west, Hwy 7-ext):** Direct connection to the Halley subnet — the most geographically adjacent inter-subnet proximity in all of Tepenia, formalized as a literal highway link.
+- **Mawson (east, Hwy 4)** *(added 2026-07-17, previously missing from this section entirely)* — the Mawson-Sinheung Highway's own western terminus at the Sayowa Junction; Sayowa's third and final leg of its three-way crossing, alongside Hwy 37 and Hwy 7-ext.
 - **Mawson (subnet hub):** Sayowa's junction role complements rather than competes with Mawson's own hub function — two different kinds of structural significance within the same subnet.
 
 ---
@@ -250,7 +251,7 @@ Becoming a local at Sayowa means genuinely internalizing the city's disproportio
 
 - **Lützow-Holm Bay harbor** — the primary maritime entry point, sea ice conditions defining the seasonal access window
 - **East Ongul Island terrain** — the island geography and the bay it sits within
-- **The Hwy 37/Hwy 7-ext junction** — the critical infrastructure node itself, damaged but functioning, connecting the Mawson subnet to Concordia (via Vostok and Kunlun) and the Halley subnet (via Princess Elisabeth and Lazar)
+- **The Sayowa Junction** *(corrected 2026-07-17 — previously described here as "the Hwy 37/Hwy 7-ext junction," omitting Hwy 4 and, per `Specs/Sayowa.md`'s own 2026-07-06 correction, wrongly implied to sit inside the city itself)* — the genuine three-way crossing of Hwy 4, Hwy 7-ext, and Hwy 37, damaged but functioning, connecting the Mawson subnet (via Mawson and Sinheung), Concordia (via Vostok and Kunlun), and the Halley subnet (via Princess Elisabeth and Lazar) — located *near* Sayowa rather than physically in it, linked to the city by the Sayowa Spur (see Architecture, Section 9)
 
 ---
 
@@ -262,7 +263,8 @@ Becoming a local at Sayowa means genuinely internalizing the city's disproportio
 
 ## 31. Notable Figures
 
-- TBD
+- **JARE Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, added 2026-07-17, proposed `Sayowa_Full_Extrapolation.md` §V)* — a present-day keeper of Sayowa's Shōwa-era naming history and JARE's own research tradition.
+- **Junction Coordinator Wei-Lin Andersen** *(placeholder, added 2026-07-17, same section)* — a present-day figure overseeing the practical work of keeping the Sayowa Junction functional.
 
 ---
 

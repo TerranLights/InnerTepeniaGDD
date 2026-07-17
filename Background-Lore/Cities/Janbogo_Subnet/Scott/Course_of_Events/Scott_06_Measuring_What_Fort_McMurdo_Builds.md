@@ -51,7 +51,7 @@ one exception at a time goes unquestioned.
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a technical specialist
 or engineer, drawn to the genuine scale of opportunity Fort McMurdo's own growth is creating. Character B
 is plausibly a civic figure invested in Scott's founding modesty commitment, perhaps directly descended
-from or influenced by Fiona Māui-Larsen's original vision.
+from or influenced by Fiona Māui's original vision.
 
 ---
 

@@ -160,7 +160,8 @@ Full industrial detail TBD for DLC 6 design.
 
 ## Notable Figures
 
-- TBD
+- **Logistics Coordinator Amara Fischer** *(placeholder, proposed `Fort_McMurdo_Full_Extrapolation.md` Section III)* — credited with formalizing the dedicated comms stations that coordinate supply, extraction scheduling, and inter-city logistics.
+- **Volcanologist Dr. Marco Conti** *(placeholder, same section)* — credited with establishing Fort McMurdo's long-running Erebus monitoring program.
 
 ---
 

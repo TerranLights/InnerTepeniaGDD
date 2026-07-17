@@ -1,9 +1,9 @@
-# Denison — Priya's Design
+# Denison — Wei Zhang's Design
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #2**, translated from `Denison_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in Chief Wind-Engineer Priya
-Okonkwo-Halvorsen (`Full_Extrapolation` §III, Notable Figures) and the comprehensively interlinked
+`z-template_-_city_histories_conflict_variant.md`. Grounded in Chief Wind-Engineer Wei Zhang
+(`Full_Extrapolation` §III, Notable Figures) and the comprehensively interlinked
 structural design she is credited with pioneering (`Full_Extrapolation` §I; `Mega_Init`, Real-World
 Inspirations, Kowloon Walled City). Follows directly from Suggestion #1's founding commitment to build
 one continuous structure. Character fields are intentionally left blank — see each Conflict section's
@@ -53,7 +53,7 @@ failure against Cape Denison's specific wind severity, just failure on a longer,
 conflict is about which uncertainty is more dangerous to gamble the settlement's survival on.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly the figure later
-remembered as, or a direct predecessor to, Chief Wind-Engineer Priya Okonkwo-Halvorsen — someone
+remembered as, or a direct predecessor to, Chief Wind-Engineer Wei Zhang — someone
 credentialed enough to be trusted with the settlement's founding structural design, but still working
 out the actual mathematics of load-sharing interlinkage in real time, under real construction pressure.
 Character B is plausibly a settlement administrator responsible for a founding population's limited

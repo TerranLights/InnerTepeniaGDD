@@ -66,7 +66,7 @@ across the whole subnet, as the place where anything new eventually just becomes
 
 Katabatic winds arrive with real, dangerous force and little obvious warning to residents caught
 outside. **But** a growing population moving between the shielded halls and their homes can't simply
-avoid the outdoors entirely. **Therefore** meteorologist Han Soo-jin Ferreira formalizes a real
+avoid the outdoors entirely. **Therefore** meteorologist Han Soo-jin formalizes a real
 forecasting and warning system, giving residents genuine advance notice before the worst gusts arrive.
 **But** building a system reliable enough to actually trust takes years of careful, unglamorous data
 work before anyone's willing to depend on it. **Therefore** her warning system becomes one of

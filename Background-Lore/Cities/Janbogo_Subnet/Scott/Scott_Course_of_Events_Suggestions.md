@@ -23,7 +23,7 @@ generation, rather than a circumstance they were simply born into.
 ## 2. Fiona's Neighborhood
 
 Scott's earliest exile-era decades could easily have drifted toward whatever civic shape its
-inherited infrastructure happened to suggest. **But** Community Organizer Fiona Māui-Larsen sees an
+inherited infrastructure happened to suggest. **But** Community Organizer Fiona Māui sees an
 opportunity to shape something more deliberate — a genuinely family-oriented residential community,
 not just a smaller, quieter version of an industrial city. **Therefore** she pushes early civic
 planning toward housing, leisure, and modest gathering spaces rather than heavy infrastructure
@@ -46,7 +46,7 @@ deliberately unambitious.
 
 Robert Falcon Scott's 1902 expedition hut sits inside the city's own limits, one of the oldest
 surviving human-made structures on the continent. **But** a structure that significant needs someone
-actually tending it, not just left to weather on its own. **Therefore** Wiremu Halvorsen takes on the
+actually tending it, not just left to weather on its own. **Therefore** Wiremu Tane takes on the
 role of Keeper, maintaining the site between observances and making sure its condition never becomes
 an afterthought. **But** the role carries real responsibility with no formal institutional backing
 behind it, just personal commitment. **Therefore** the Keeper position becomes one of Scott's own

@@ -36,7 +36,9 @@ Per the developer's own vision session: a bustling "mini-city," something like T
 
 ## Personality (Enneagram Read)
 
-**Thinking (Head) / Compliant / Competency** — the profile's own file candidly flags itself as thin, leaning on Sejong's proximity to Machu Picchu Airport and the Machu Picchu Border & Customs Authority rather than a full City Vision Notes session. Sejong shares this exact profile with Amundsen Station, Halley, Esperanza, and Juan Carlos, distinguished specifically as **administrative facilitation** — a duty about smoothing other people's transit through the system. This is now the *third* documented case (after Esperanza and Rothera) of a Tepenian city's Enneagram profile anchored to a secondary administrative fact rather than its own richer, later-established primary identity — and notably, Sejong shares its entire sibling group with Esperanza specifically, meaning two of the five cities in this exact group already show the identical gap.
+**Thinking (Head) / Compliant / Competency** *(corrected 2026-07-17)* — shares this profile with Amundsen Station, Halley, and Juan Carlos, distinguished specifically as **constant multilateral boundary diplomacy**: practiced coordination across nearly a dozen immediate national neighbors sharing King George Island, a skill built out of necessity rather than institutional assignment. This resolves the documentation gap flagged below — the read now centers on Sejong's own dominant "City Defined By Its Neighbors" identity rather than the secondary Machu Picchu Airport proximity fact, following Finding 3's own conclusion that the shared "on behalf of others" trait was a real, underdeveloped signal rather than a simple error.
+
+*(Original 2026-07-08 read, retained for record: built entirely around Sejong's proximity to Machu Picchu Airport and the Machu Picchu Border & Customs Authority, candidly flagged by its own file as thin, leaning on geography and infrastructure connections rather than a full developer vision session. Then the third documented case, after Esperanza and Rothera, of a profile anchored to a secondary administrative fact rather than the city's own richer primary identity — notably shared with Esperanza specifically, before Esperanza's own 2026-07-17 move to Group 4. Resolved 2026-07-17.)*
 
 ---
 
@@ -70,14 +72,14 @@ A densely populated enclave whose identity was forged almost entirely in relatio
 
 ## What's Actually Open
 
-Carried forward from `Specs/Sejong.md` and `City_Vision_Notes/Sejong.md`, still genuinely unresolved:
-- The fate of the other King George Island national communities (Argentine, Brazilian, Chinese, Polish, Russian, Czech, Uruguayan) — separate city entries of their own, or folded into Sejong's story?
-- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside Sinheung in the Mirny subnet; Sejong's own Korean population has since diluted to its smallest Significant-tier nation, a founding-era naming echo rather than a living connection to either)* — never fully developed
-- Whether the whole multinational coexistence experiment ultimately succeeded or produced real, lasting friction
-- A specific defining skyline/landmark structure for the "mini-Taipei" feel — asked directly, not yet answered
-- Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord") never fully developed
-- Notable figures: still nobody named
-- A recurring census gap — Sejong missing from "Lost and Ruined Cities" despite being confirmed Destroyed, the same pattern already flagged on Marambio's own Megasheet
+Carried forward from `Specs/Sejong.md` and `City_Vision_Notes/Sejong.md`; several were since given proposed (not locked) answers in `Sejong_Full_Extrapolation.md` and `Sejong_Course_of_Events_Suggestions.md` *(list corrected 2026-07-17 — was stale against those two companion files, both also written 2026-07-08)*:
+- The fate of the other King George Island national communities — **proposed** (Full Extrapolation §I): absorbed into Sejong's own civic structure as distinct neighborhoods rather than separate cities, traced directly from the census only recognizing Sejong on the island. China's own community fate remains genuinely open post-2026-07-13 correction.
+- The Sejong–Janbogo relationship *(corrected 2026-07-13: not "the two Korean-founded cities of Tepenia" — there are three, alongside Sinheung in the Mirny subnet)* — **proposed** (Full Extrapolation §II): a founding-era naming echo, not a living connection.
+- Whether the whole multinational coexistence experiment ultimately succeeded or produced real, lasting friction — **proposed** (Full Extrapolation §III): genuinely both — functional/logistical success, unresolved social/emotional competition over favorable ground, deliberately left as real DLC 3 dramatic tension rather than settled either way.
+- A specific defining skyline/landmark structure for the "mini-Taipei" feel — **proposed** (Full Extrapolation §IV): a neutral lighthouse-and-signal spire, claimed by no single community; built into Course of Events stages #4 ("A Tower Nobody Owns") and #8 ("Building Toward the Same Point").
+- Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord") — **developed** (Full Extrapolation §V); "The Neighbors' Accord" built into Course of Events stage #10 ("The Accord").
+- Notable figures — **proposed** (Full Extrapolation §VI): Coordinator Han Ji-woo and Educator Yoon Seo-yeon *(renamed 2026-07-17 from "Priya Suh-Bhattacharya," which violated the project's No Subcontinentals canon)*, both placeholder names; Han Ji-woo built into Course of Events stage #6 ("What Han Ji-woo Negotiated"). See `Specs/Sejong.md`, corrected 2026-07-17 to match.
+- A recurring census gap — Sejong missing from "Lost and Ruined Cities" despite being confirmed Destroyed, the same pattern already flagged on Marambio's own Megasheet — still open.
 
 **New, surfaced by this research pass:** given Sejong shares its entire five-city Enneagram sibling group with Esperanza, and both are now the second and third documented cases of the same profile-lag pattern, it may be worth a dedicated future review of the whole group (Amundsen Station, Halley, Esperanza, Juan Carlos, Sejong) once all five have gone through the Megasheet process, rather than resolving each one individually as it happens to come up.
 

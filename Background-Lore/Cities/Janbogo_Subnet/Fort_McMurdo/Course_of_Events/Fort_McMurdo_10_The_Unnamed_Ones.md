@@ -13,8 +13,8 @@ of conflict, and what kind of character(s), would make the following setting-con
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Logistics Coordinator Amara Ferreira-Novak formalized the comms-station network; Volcanologist Dr.
-Hendrik Osei-Larsen built the Erebus monitoring program — both systems so well-designed they keep running
+Logistics Coordinator Amara Fischer formalized the comms-station network; Volcanologist Dr.
+Marco Conti built the Erebus monitoring program — both systems so well-designed they keep running
 smoothly for decades after either founder retires, requiring, on the surface, no active stewardship at
 all.
 
@@ -42,7 +42,7 @@ living expertise.
 **Character B:** *(left blank)*
 
 **Design notes — what kind of conflict this needs:** a confrontation, surfacing in the aftermath of both
-crises, between a veteran who still remembers working alongside Ferreira-Novak or Osei-Larsen directly
+crises, between a veteran who still remembers working alongside Fischer or Conti directly
 and a younger staffer who has only ever operated the inherited system procedurally, without the founders'
 underlying reasoning. This shouldn't be framed as the old guard being right and the new guard being
 careless — the younger staffer did exactly what the job asked of them, competently, using the only
@@ -51,7 +51,7 @@ is real, but so is the fact that nobody, veteran included, ever built a formal m
 tacit knowledge down before now.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a retired or
-near-retired figure who trained directly under Ferreira-Novak or Osei-Larsen, someone whose own expertise
+near-retired figure who trained directly under Fischer or Conti, someone whose own expertise
 is genuinely irreplaceable and who is only now realizing how little of it ever got written down.
 Character B is plausibly a current comms-station coordinator or monitoring-station technician, competent
 and conscientious, whose confidence during the crises was shaken specifically by discovering gaps in
@@ -75,7 +75,7 @@ the founders' original reasoning are gone too.
 
 Fort McMurdo's two flagship systems — comms coordination and volcanic monitoring — get their first actual
 written doctrine: documented reasoning, not just documented procedure, covering the judgment calls that
-used to live only in Ferreira-Novak's and Osei-Larsen's own heads and the heads of whoever they happened
+used to live only in Fischer's and Conti's own heads and the heads of whoever they happened
 to train personally.
 
 ---

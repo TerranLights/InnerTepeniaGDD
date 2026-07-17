@@ -36,7 +36,9 @@ Children, audibly and visibly, before anything else — the immediate, unmistaka
 
 ## Personality (Enneagram Read)
 
-**Thinking (Head) / Compliant / Competency** — but this read is worth naming honestly rather than smoothing over: it's built entirely around Esperanza's Weddell Sea trans-shipment logistics role, splitting the shipping corridor with Marambio as an equal partnership. Esperanza shares this profile with Amundsen Station, Halley, Juan Carlos, and Sejong, distinguished specifically as "equal logistics partnership" among the group. This is a real, established facet of the city — but it sits oddly next to Esperanza's own far richer, more emotionally central identity as "The Guarded City," the founding-compact family charter that everything else in this document actually revolves around. The Enneagram profile appears to predate that fuller identity rather than integrate it — worth flagging as a genuine documentation gap rather than resolving it artificially here.
+**Feeling (Heart) / Compliant / Positive Outlook** *(corrected 2026-07-17 — see below)* — shares this profile with Cape Adare, Zukelli, Mawson, and Shirayuki (`Distinguishing_Overlapping_Profiles.md` Group 4), distinguished specifically as warmth channeled through founding-compact guardianship rather than art, music, or romance. This resolves the documentation gap flagged below: the read now centers on Esperanza's own dominant "Guarded City" identity — the founding compact treated as civic scripture, the birth registry as proof of purpose, and the city's optimistic reframing of its own robots-outnumber-humans demographic drift as evidence the compact is being honored rather than as a quiet failure.
+
+*(Original 2026-07-08 read, retained for record: "Thinking (Head) / Compliant / Competency," built entirely around Esperanza's minor Weddell Sea trans-shipment logistics role rather than its actual dominant identity — flagged the same session as "worth a dedicated future pass... right now they describe what feel like two different cities." Resolved 2026-07-17.)*
 
 ---
 

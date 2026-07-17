@@ -111,8 +111,8 @@ Calgary is the standout of this pass — its precise real-world role as an oil i
 
 ## III. Notable Figures (proposed, unconfirmed)
 
-- **Logistics Coordinator Amara Ferreira-Novak** *(placeholder)* — credited with formalizing the dedicated comms stations that coordinate supply, extraction scheduling, and inter-city logistics, the operational backbone behind Fort McMurdo's established "de facto capital" status.
-- **Volcanologist Dr. Hendrik Osei-Larsen** *(placeholder)* — credited with establishing Fort McMurdo's long-running Erebus monitoring program, the figure behind generations of the city's practical, unbothered familiarity with living beside an active volcano.
+- **Logistics Coordinator Amara Fischer** *(placeholder)* — credited with formalizing the dedicated comms stations that coordinate supply, extraction scheduling, and inter-city logistics, the operational backbone behind Fort McMurdo's established "de facto capital" status.
+- **Volcanologist Dr. Marco Conti** *(placeholder)* — credited with establishing Fort McMurdo's long-running Erebus monitoring program, the figure behind generations of the city's practical, unbothered familiarity with living beside an active volcano.
 
 *(Both entirely proposed — placeholder figures meant to give Fort McMurdo's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 

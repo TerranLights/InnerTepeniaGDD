@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md` for the full reasoning; Upper Earth specifically targeted Juan Carlos for its ongoing archive/intelligence function)*
-**Census Population:** 189,742 humans / 196,950 robots / 386,692 combined (Census I, rank 27th, *corrected 2026-07-03, again 2026-07-05*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 28th, *corrected 2026-07-03*)
+**Census Population:** 189,742 humans / 196,950 robots / 386,692 combined (Census I, rank 27th, *corrected 2026-07-03, again 2026-07-05*); 118,910 humans / 127,462 robots / 246,372 combined (Census II, rank 29th, *corrected 2026-07-17 — was "28th," stale against the current `Official_Population_Census.md` Census II ranking table*)
 **Location:** Livingston Island, South Shetland Islands (~62°39'S, 60°23'W)
 
 **One-liner:** *The quieter city on the second-largest South Shetland island — named for the king who oversaw Spain's own transition out of dictatorship, and given, by simple distance from its crowded neighbor, room to develop something coherent and entirely its own, rather than constantly negotiated.*

@@ -25,7 +25,7 @@ the strain.
 The earliest exile community operates, in practice, as a continuation of Australian Antarctic Division
 routine — familiar, but not yet a genuine Tepenian civic institution in its own right. **But** a
 station can't function as a real city while still organizing itself around a foreign government's old
-operational chain of command. **Therefore** Founding Administrator Warrick Oyelaran-Zhao steers the
+operational chain of command. **Therefore** Founding Administrator Warrick Zhao steers the
 community through a deliberate transition — Australian Antarctic Division habits reshaped into
 something that actually belongs to the people living there now. **But** doing that means letting go of
 some of the founding identity's own institutional authority. **Therefore** his own choice sets a

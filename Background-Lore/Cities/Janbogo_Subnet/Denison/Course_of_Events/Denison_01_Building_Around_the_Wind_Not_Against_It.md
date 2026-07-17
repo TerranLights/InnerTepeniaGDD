@@ -48,8 +48,8 @@ partial measures elsewhere have ever had to survive. This is a resource-versus-r
 people who both understand the stakes.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly an early structural
-engineer — the figure later remembered as, or a direct predecessor to, Chief Wind-Engineer Priya
-Okonkwo-Halvorsen — pushing for total structural commitment from the outset. Character B is plausibly a
+engineer — the figure later remembered as, or a direct predecessor to, Chief Wind-Engineer Wei
+Zhang — pushing for total structural commitment from the outset. Character B is plausibly a
 settlement organizer or resource administrator, responsible for a founding population's limited labor and
 materials, wary of over-committing to an unproven, far more expensive design before anyone has confirmed
 it's actually necessary.

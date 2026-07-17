@@ -113,12 +113,12 @@ the other, which nobody remembers being a workaround anymore.
 
 ## 6. The Mountain Doesn't Care
 
-**Grounded in:** Erebus's stable baseline volcanic activity and Volcanologist Dr. Hendrik Osei-Larsen's
+**Grounded in:** Erebus's stable baseline volcanic activity and Volcanologist Dr. Marco Conti's
 monitoring program (`Full_Extrapolation` §§III, VI; `Mega_Init`, "What It Feels Like").
 
 Generations of Fort McMurdo residents grow up under Erebus's permanent gas-and-ash plume, treating it
 as background weather rather than a threat. **But** that easy familiarity is tested once, hard, when
-the monitoring program Osei-Larsen built registers a real spike in seismic activity — not an eruption,
+the monitoring program Conti built registers a real spike in seismic activity — not an eruption,
 but close enough that evacuation planning has to move from theoretical to actual for the first time in
 living memory. **Therefore** the city has to decide, under real time pressure, how much of its
 famous calm is genuine competence and how much was just never having been tested. **But** the spike
@@ -191,8 +191,8 @@ national-level formalization still to come.
 **Grounded in:** the two placeholder Notable Figures and the systems they're each credited with
 building (`Full_Extrapolation` §III).
 
-Logistics Coordinator Amara Ferreira-Novak formalizes the comms-station network; Volcanologist Dr.
-Hendrik Osei-Larsen builds the Erebus monitoring program — both systems so well-designed they keep
+Logistics Coordinator Amara Fischer formalizes the comms-station network; Volcanologist Dr.
+Marco Conti builds the Erebus monitoring program — both systems so well-designed they keep
 running smoothly for decades after either of them retires. **But** exactly because the systems work
 so well without anyone actively minding them, the tacit judgment behind each one — why the schedule
 works the way it does, what a seismic reading that's slightly off actually means versus one that's a

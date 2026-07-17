@@ -263,7 +263,7 @@ TBD — genuinely underdeveloped, though the city's core tension (a population l
 
 ## 31. Notable Figures
 
-- **TBD — Doll, geneticist** — central character of the Vostok DLC (DLC 7); a robot genetic scientist who discovered a cost-effective reduced-mutation-rate genetics technique, almost certainly connected to Lake Vostok's 25-million-year-isolated biology; full profile TBD, per `Specs/Vostok.md`
+- **"Charlene" (model XT-17)** *(corrected 2026-07-17 — this entry previously said "TBD — Doll, geneticist," a stale generic placeholder; Charlene was confirmed as this figure back on 2026-07-07 in `Specs/Vostok.md`'s own Notable Figures section, but that confirmation never propagated here. "Charlene" is a working/folder-reference name only — her actual personal name is still TBD.)* — central character of the Vostok DLC (DLC 7); a robot genetic scientist who discovered a cost-effective reduced-mutation-rate genetics technique, almost certainly connected to Lake Vostok's 25-million-year-isolated biology; a potentially-recruitable companion. See `Worldspace/Characters/Dolls/Still-Present_-_In-Game/TBN [XT-17 unorthodox science teacher Charlene]/`.
 
 ---
 

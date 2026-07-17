@@ -272,7 +272,8 @@ Becoming a local here means genuinely participating in the city's output-as-legi
 
 ## 31. Notable Figures
 
-- TBD
+- **Chief Engineer Baek Ji-hoon** *(placeholder, added 2026-07-17, proposed `Sinheung_Full_Extrapolation.md` §II)* — credited with adapting the inherited Russian research infrastructure into the fabrication economy that now defines the city.
+- **Foreman Dae-ho Richter** *(placeholder, added 2026-07-17, same section)* — credited with securing the city's place among the fabrication-synthesis chamber manufacturers.
 
 ---
 

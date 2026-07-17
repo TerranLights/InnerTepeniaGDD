@@ -49,7 +49,7 @@ which one Scott's founding choice was.
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a civic leader with
 direct exposure to the outside investors, perhaps someone from Scott's own technical-economy sector
 (Suggestion #6), genuinely persuaded by the offer's real merits. Character B is plausibly a civic leader
-invested in Scott's founding character, perhaps a descendant or institutional heir of Fiona Māui-Larsen's
+invested in Scott's founding character, perhaps a descendant or institutional heir of Fiona Māui's
 original vision.
 
 ---

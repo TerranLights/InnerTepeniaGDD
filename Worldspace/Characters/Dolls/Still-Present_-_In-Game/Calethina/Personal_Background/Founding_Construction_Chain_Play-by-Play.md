@@ -75,6 +75,21 @@ waypoint — echoing the real Port Lockroy's own history as the world's most rem
 This is the pivot point of the entire chain. It was at this exact moment that the Long Night War fully
 came underway.
 
+**The original planned route, established 2026-07-17:** before the war intervened, Calethina's shipment
+was never meant to go anywhere near Amundsen-Scott Station or Concordia at all — it was heading back to
+Mawson, the city that originally requested her (Step 1). From Port Lockroy, the plan was up Hwy 1 to
+Marambio, then either of two equally plausible ways across to the Halley subnet: by ship to somewhere on
+the coast — likely Belgrano or Sanay, both on Hwy 7 ("the Atlantic Highway") — or by air, out of
+Marambio's own airfield, direct to Troll (also on Hwy 7, between Sanay and Lazar). Either way, the route
+converges on the same overland tail from there: Hwy 7 onward to Lazar, Hwy 7-ext from Lazar through
+Princess Elisabeth to the Sayowa Junction, and finally Hwy 4 from the Sayowa Junction into Mawson itself.
+A long, entirely ordinary logistics route, four subnets and one crossing by sea or air, ending exactly
+where the whole project began — and which specific crossing it would have been is genuinely irrelevant,
+since neither ever happened. The onset of the war is what forced Tepenia's hand into the reroute
+described below instead — without it, Calethina would have completed a perfectly mundane delivery to a
+honeymoon destination and never come anywhere near the Tower, the Split Brain, or Upper Earth's
+compromising data.
+
 Orders came directly from the Capitol — Fort McMurdo was, at this point in the timeline, still Tepenia's
 historical seat of government — to reroute Calethina's shipment through Amundsen-Scott Station, on her
 way to a destination judged likely to remain safe from attack: Concordia.
@@ -102,6 +117,18 @@ conditions.
 The reroute succeeded — Calethina was routed through Amundsen-Scott Station, and it was here that she
 collected information compromising Upper Earth, now carried alongside (or in place of) her original
 purpose-built knowledge base. From here, she was forwarded onward to Concordia.
+
+**The physical route, established 2026-07-17:** the reroute traveled Port Lockroy → Byrd via Hwy 1,
+then Byrd → Amundsen-Scott Station via Hwy 22, then Amundsen-Scott Station → Concordia via Hwy 22 to
+its junction with Hwy 175, then Hwy 175 to its junction with Hwy 183 near Janbogo, then Hwy 183 into
+Concordia — the same highway network confirmed in `Locations/Infrastructure/Highways.md`. Hwy 1's
+western terminus and Hwy 22's Amundsen Sea terminus are the same point, Byrd itself, which is what
+makes this a single continuous overland route rather than requiring a change of transport mode.
+
+This means the reroute carried Calethina's shipment back through Byrd — the exact city where she was
+physically built (Step 4) — a second time, now mid-transit and already stripped of her original
+knowledge, without anyone involved necessarily registering the coincidence. She passed through her own
+birthplace again on the way to the place and moment that would destroy her.
 
 ---
 
@@ -137,3 +164,12 @@ her original purpose-built knowledge before the war ever damaged her, then never
 properly integrate what replaced it before that was damaged too. Any future writing about her
 personality or her own relationship to what she doesn't know should treat these as two distinct wounds,
 not one.
+
+The original planned route (Step 7) is the second most valuable addition — it establishes exactly how
+close Calethina came to a completely uneventful fate. Absent the war, she was one sea crossing and two
+highways away from a mundane arrival at the honeymoon city that commissioned her, fully intact,
+knowledge base untouched. Everything that actually defines her — the wiped memory, the compromising
+Upper Earth intelligence, the Split Brain corruption — only happened because the war intervened at the
+one moment her shipment was still in transit. Worth keeping in mind for any writing that touches her own
+sense of what she lost: she isn't just damaged, she's specifically a person whose entire life would have
+been different by one twist of bad timing.

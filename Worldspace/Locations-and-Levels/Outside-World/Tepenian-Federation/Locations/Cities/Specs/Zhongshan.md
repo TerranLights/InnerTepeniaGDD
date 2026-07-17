@@ -111,7 +111,10 @@ Prydz Bay maritime logistics, scientific research, cluster economy with Sinheung
 ---
 
 ## Notable Figures
-- TBD
+- **Founding Elder Mèi Sun** *(placeholder, proposed `Zhongshan_Full_Extrapolation.md` Section II)* — credited with choosing the name Zhongshan and articulating the founding political stance.
+- **Composer Táng Yuxuan** *(placeholder, same section)* — credited with the earliest surviving composition in Zhongshan's contemplative classical tradition.
+- **Master Craftsman Táng Wǔ** *(placeholder, same section)* — established Zhongshan's own artisan class as a recognized civic institution.
+- **The Unnamed Chronicler** *(placeholder, same section)* — the literary figure considered to have most fully expressed the Zhongshan sensibility; deliberately left unnamed, possibly a robot.
 
 ---
 

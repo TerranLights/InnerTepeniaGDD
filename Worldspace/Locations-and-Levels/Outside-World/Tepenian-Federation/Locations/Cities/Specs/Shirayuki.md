@@ -210,9 +210,16 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 ---
 
+## Notable Figures
+
+*(Added 2026-07-17 — this section didn't previously exist in this file at all.)*
+- **Ambassador Reiko Tashiro** *(placeholder, proposed `Shirayuki_Full_Extrapolation.md` Section VI)* — the Japanese diplomat credited with securing the Jeju-do allocation itself.
+- **Momoka Ishihara** *(placeholder, proposed `Shirayuki_Full_Extrapolation.md` Section VI)* — proprietor of the city's most influential grassroots fashion collective, credited with crystallizing its homemade Alt-Rock/Alt-Grunge/Alt-Pop looks into a recognized local movement.
+
 ## Open Questions
 - ~~What is the city's actual Japanese name?~~ **Resolved 2026-07-08: Shirayuki (白雪).**
 - **The Jeju-do allocation's specifics** — when exactly did the Court make this decision, and was it contested by China or Korea at the time?
 - **Their relationship to Sinheung and Zhongshan** — given the deliberate, diplomatically-engineered founding (rather than organic neighborliness), what is the actual lived relationship with the two real-world-adjacent cities that could have claimed this site instead?
 - **The Shirayuki infrastructure's character** — the founding community inherited a specific architectural and infrastructure design; how did they adapt or modify it?
 - **Possible connection to Ayako Hayashi** — flagged 2026-07-03 as a candidate origin city for Ayako Hayashi (alongside Denison, Casey, Zhongshan, Janbogo, Mawson), given the mild/delicate climate's fit with her art-fashion-then-medicine background; not decided, revisit once this city's full identity is developed
+- **Notable figures** — two placeholders exist (Ambassador Reiko Tashiro, Momoka Ishihara, both `Shirayuki_Full_Extrapolation.md` Section VI); neither is a finalized name

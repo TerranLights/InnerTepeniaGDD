@@ -49,7 +49,7 @@ matter more than raw competitive standing.
 **Design notes — what kind of character(s) this needs:** Character A is plausibly an ambitious
 founding-era settler, perhaps with an industrial or engineering background, who arrived expecting Scott
 to build something comparably significant to its neighbor. Character B is plausibly the figure later
-remembered as, or a direct predecessor to, Community Organizer Fiona Māui-Larsen, already inclined toward
+remembered as, or a direct predecessor to, Community Organizer Fiona Māui, already inclined toward
 a domestic, quality-of-life-first vision for the settlement.
 
 ---

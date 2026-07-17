@@ -292,8 +292,8 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 
 ## 31. Notable Figures
 
-- **[Placeholder — founding-era Russian institutional figure]** — whoever carried the *Mirny*'s historical legacy into the city's founding character
-- **[Placeholder — a communications/Arcanet relay figure]** — someone embodying the city's unique subnet-hub responsibility, especially relevant given the Concordia link's narrative significance
+- **Chief Windwright Osric Bellandry** *(placeholder, added 2026-07-17, proposed `Mirny_Full_Extrapolation.md` §VI)* — credited with designing the original concentric windbreak-ring architecture in the earliest exile generations.
+- **Relay Technician Zoya Marchenko** *(placeholder, added 2026-07-17, same section)* — the current administrator keeping the damaged subnet relay hardware functional post-war, embodying the city's subnet-hub responsibility.
 
 ---
 

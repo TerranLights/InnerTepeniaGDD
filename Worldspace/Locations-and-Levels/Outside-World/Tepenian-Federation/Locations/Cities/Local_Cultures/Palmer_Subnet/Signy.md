@@ -4,7 +4,7 @@
 
 **Subnet:** Palmer ("American") — peripheral, dashed Arcanet boundary
 **Status:** Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — the most isolated city in Tepenia, overlooked entirely by Upper Earth's targeting due to sheer remoteness. But the war still reached it indirectly: cut supply lines have left its robot population facing a real siligel shortage, even though the human population can sustain itself indefinitely on the Scotia Sea's marine resources. A strong candidate DLC 3 questline — the untouched city that still needs the player's help.)*
-**Census Population:** 93,134 humans / 95,560 robots / 188,694 combined (Census I, rank 33rd, *corrected 2026-07-03, again 2026-07-05*); 53,928 humans / 79,827 robots / 133,755 combined (Census II, rank 30th, *corrected 2026-07-03*)
+**Census Population:** 93,134 humans / 95,560 robots / 188,694 combined (Census I, rank 33rd, *corrected 2026-07-03, again 2026-07-05*); 53,928 humans / 79,827 robots / 133,755 combined (Census II, rank 31st, *corrected 2026-07-17 — was "30th," stale against the current Official_Population_Census.md Census II ranking table*)
 **Location:** Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W)
 
 **One-liner:** *A city with no road to anywhere, whose isolation was always the point — untouched by the war that devastated everything around it, yet still starving its own robots of the one thing isolation can't provide.*
@@ -93,6 +93,8 @@ Signy's civic identity is built entirely around absolute, practiced isolation �
 ## 9. Architecture
 
 Modest, practical, built around the inherited BAS biological research station — small in scale, consistent with Signy's tiny, isolated population and the genuine physical remoteness that has always limited how much could realistically be built here.
+
+**Added 2026-07-17, propagating an established 2026-07-04 Vision Notes fact:** Signy is a genuine two-island city — the smaller Signy Island itself holds the one shipping dock and radio comms setup, while the much larger Coronation Island, joined by a single bridge, holds most residential and leisure infrastructure. See `Specs/Signy.md`'s Geographic Basis for the full detail.
 
 ---
 
@@ -259,7 +261,7 @@ Given the city's absolute isolation and tiny population, becoming a local at Sig
 
 ## 31. Notable Figures
 
-- TBD
+- Two placeholders exist *(added 2026-07-17)*: Dr. Naledi van Zyl-Osei (biological researcher, `Signy_Full_Extrapolation.md` §II) and Platform Engineer Declan Ferreira-Whitcombe (fishing-platform designer, same section); neither is a finalized name.
 
 ---
 

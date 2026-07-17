@@ -92,14 +92,27 @@ The quintessential real-world case of an extremely dense concentration of techni
 
 ## What's Actually Open
 
-Carried forward from `Specs/Amundsen_Station.md`, still genuinely unresolved (all explicitly DLC 1 / Planetary Split Brain questline content):
-- The specific mechanism of the Planetary Split Brain — cables, relay hardware, or both — and whether it's theoretically reversible
-- Kendra Heinrich's full story — how she came to be here, what she's been doing since the destruction, what she knows
-- What exactly the pre-Split-Brain archive contains, and what accessing it enables
-- Full highway connections to the station beyond the confirmed Hwy 22/175/59 node
-- What the Amundsen Tower was used for beyond Arcanet relay — cargo, passengers, or both
-- The Geographic South Pole marker's current form and survival status
-- Whether any St. Roald civic observance persists here, given the station's destruction and Kendra as its only known current occupant
+Carried forward from `Specs/Amundsen_Station.md`; several since given proposed (not locked) answers in
+`Amundsen_Station_Full_Extrapolation.md`, written the same day *(list corrected 2026-07-17 — was stale
+against that companion file)*:
+- The specific mechanism of the Planetary Split Brain — **proposed** (Full Extrapolation §I): both the
+  Tower's cables and the relay's switching hardware were lost together, inseparably — rebuilding would
+  require replacing both, not just repairing a severed line.
+- Kendra Heinrich's full story — how she came to be here, what she's been doing since the destruction,
+  what she knows — still genuinely open; explicitly reserved DLC 1 questline content, deliberately not
+  addressed by Full Extrapolation.
+- What exactly the pre-Split-Brain archive contains, and what accessing it enables — still genuinely
+  open, same reservation as above.
+- Full highway connections to the station beyond the confirmed Hwy 22/175/59 node — still open, not
+  addressed by Full Extrapolation.
+- What the Amundsen Tower was used for beyond Arcanet relay — **proposed** (Full Extrapolation §II):
+  energy regulation and bulk material export were the Tower's two primary purposes; passenger transport
+  was real but secondary.
+- The Geographic South Pole marker's current form and survival status — **proposed** (Full Extrapolation
+  §III): lost, not replaced — no population has remained to reposition it against ice drift since the war.
+- Whether any St. Roald civic observance persists here — **proposed** (Full Extrapolation §IV): no
+  organized tradition survives, but individual visitors plausibly still pause for private acknowledgment
+  at the literal site of Amundsen's achievement.
 
 ---
 

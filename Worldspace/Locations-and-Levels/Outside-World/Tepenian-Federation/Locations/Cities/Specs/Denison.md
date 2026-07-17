@@ -109,7 +109,8 @@ Structural/wind engineering was Denison's defining economic sector — an unusua
 
 ## Notable Figures
 
-- TBD
+- **Chief Wind-Engineer Wei Zhang** *(placeholder, proposed `Denison_Full_Extrapolation.md` Section III; corrected 2026-07-17 from "Priya Okonkwo-Halvorsen," which violated the No Subcontinentals canon — see `Denison_Full_Extrapolation.md` for the fix note)* — credited with pioneering the fully-interlinked structural design that defines Denison's built environment.
+- **Fabrication Engineer Kenji Suh** *(placeholder, same section; corrected 2026-07-17 from "Kenji Marchetti-Suh," whose "Marchetti" element didn't match any Denison nation)* — credited with establishing Denison's historical role manufacturing fabrication-synthesis chambers for the nationwide Cradle infrastructure.
 
 ---
 

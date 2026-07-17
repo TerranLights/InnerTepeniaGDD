@@ -265,7 +265,8 @@ Becoming a local meant being folded into the city's hospitality culture and, imp
 
 ## 31. Notable Figures
 
-- TBD
+- **Elisa Faranda** *(placeholder, added 2026-07-17, proposed `Zukelli_Full_Extrapolation.md` §VII)* — proprietor of Zukelli's single most famous restaurant-and-performance-space.
+- **Councilman Renzo Adorni** *(placeholder, added 2026-07-17, name subject to revision, same section)* — the local figure most associated with the decision to shelter the AWOL defectors whose presence led to the city's destruction.
 
 ---
 

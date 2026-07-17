@@ -122,7 +122,7 @@ Following the same "-ite" suffix pattern already established at Kunlun (Kunlunit
 
 ## IV. Notable Figures (proposed, unconfirmed)
 
-- **Founding Administrator Warrick Oyelaran-Zhao** *(placeholder, deliberately cross-cultural surname reflecting the city's own demographic story)* — credited with steering the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Founding Administrator Warrick Zhao** *(placeholder, deliberately cross-cultural surname reflecting the city's own demographic story)* — credited with steering the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
 - **Hostess Mei-Ling Sorensen** *(placeholder)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental; credited locally with establishing the earliest dedicated hospitality infrastructure that the modern reputation grew from.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*

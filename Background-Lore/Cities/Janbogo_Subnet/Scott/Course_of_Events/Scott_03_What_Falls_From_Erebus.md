@@ -40,7 +40,7 @@ opportunity unclaimed to preserve its deliberately non-industrial character.
 **Design notes — what kind of conflict this needs:** a conflict between a Scott resident who sees the
 unclaimed volcanic material as a genuine, low-risk opportunity — one Fort McMurdo has effectively passed
 on — and a resident invested in Scott's founding domestic character (perhaps directly shaped by Fiona
-Māui-Larsen's own vision, Suggestion #2), worried that any new industrial venture, however modest, risks
+Māui's own vision, Suggestion #2), worried that any new industrial venture, however modest, risks
 eroding the quiet, family-oriented identity the city deliberately chose. The opportunist isn't betraying
 Scott's founding values; a small, contained operation doesn't have to mean abandoning modesty. The
 traditionalist isn't reflexively anti-growth; they've simply watched enough founding commitments erode one
@@ -49,7 +49,7 @@ small exception at a time elsewhere in Tepenia to be wary of the first exception
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a practically-minded
 settler, perhaps with a materials-handling or logistics background, drawn to a genuine, useful opportunity
 sitting unclaimed nearby. Character B is plausibly a civic figure invested in Scott's domestic character —
-potentially someone who worked directly under Fiona Māui-Larsen's early civic planning.
+potentially someone who worked directly under Fiona Māui's early civic planning.
 
 ---
 

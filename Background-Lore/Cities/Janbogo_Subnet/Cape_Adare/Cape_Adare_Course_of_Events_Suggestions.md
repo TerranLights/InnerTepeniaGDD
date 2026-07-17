@@ -48,8 +48,8 @@ where it does. **But** a structure that old, made of simple materials, isn't goi
 reputation alone. **Therefore** a dedicated heritage-documentation tradition takes root early —
 measurements, photographs, replica plans — long before anyone has a specific reason to think the hut
 is actually at risk. **But** funding careful archival work in a practical, trade-focused gateway
-economy is a hard sell without an obvious crisis to justify it. **Therefore** Archivist Freya
-Manalo-Sørensen and her successors have to keep making the case, generation after generation, that
+economy is a hard sell without an obvious crisis to justify it. **Therefore** Archivist Elena
+Manalo and her successors have to keep making the case, generation after generation, that
 some things are worth documenting before you need to.
 
 ## 5. Every Instrument Someone Brought
@@ -107,9 +107,9 @@ growth on purpose means turning away opportunities a more ambitious gateway city
 **Therefore** Cape Adare ends up genuinely large and genuinely unhurried at once, by continuous,
 deliberate choice rather than by accident.
 
-## 10. Freya's Insistence
+## 10. Elena's Insistence
 
-Archivist Freya Manalo-Sørensen inherits a heritage-documentation tradition nobody has ever had to
+Archivist Elena Manalo inherits a heritage-documentation tradition nobody has ever had to
 defend before. **But** a new generation of civic administrators, focused on trade and growth, starts
 questioning why scarce resources go toward measuring and photographing an old wooden hut instead of
 funding the port. **Therefore** she has to make the case publicly, for the first time, that Cape

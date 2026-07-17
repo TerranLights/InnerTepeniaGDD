@@ -71,7 +71,7 @@ A real city that underwent a deliberate, self-chosen renaming carrying enormous 
 Carried forward from `Specs/Sinheung.md` and `Local_Cultures/Mirny_Subnet/Sinheung.md`, the genuinely remaining TBDs:
 - ~~The city's own eventual proper name~~ — **RESOLVED 2026-07-14:** Sinheung (신흥, "newly rising/emerging")
 - Demonym — TBD; something Korean, now that the city's own real name is settled
-- Notable figures — two placeholders proposed in `Sinheung_Full_Extrapolation.md` (Chief Engineer Baek Ji-hoon, Foreman Dae-ho Whitfield), not yet confirmed
+- Notable figures — two placeholders proposed in `Sinheung_Full_Extrapolation.md` (Chief Engineer Baek Ji-hoon, Foreman Dae-ho Richter), not yet confirmed
 - Which other Tepenian cities manufacture fabrication-synthesis chambers alongside this one
 - The chamber's own proper, non-placeholder name
 - Exact extent of the Long Night War damage to this specific city, distinct from the cluster-wide resolution
@@ -103,7 +103,7 @@ Carried forward from `Specs/Sinheung.md` and `Local_Cultures/Mirny_Subnet/Sinheu
 ## II. Notable Figures (proposed, unconfirmed)
 
 - **Chief Engineer Baek Ji-hoon** *(placeholder; corrected 2026-07-13 — previously "Petra Ilyenko-Baek," a deliberately cross-cultural surname reflecting a "genuinely doubled founding" that no longer holds; this city is singularly Korean-founded via Jeju-do)* — credited with adapting the inherited Russian research infrastructure into the fabrication economy that now defines the city; considered the figure most responsible for the shift from an inherited research outpost to a Korean industrial powerhouse built on top of it.
-- **Foreman Dae-ho Whitfield** *(placeholder)* — the figure most associated, in the city's own institutional memory, with securing the city's place among the handful of fabrication-synthesis chamber manufacturers — credited locally with the specific technical achievement that turned an ordinary industrial center into genuinely load-bearing national infrastructure.
+- **Foreman Dae-ho Richter** *(placeholder)* — the figure most associated, in the city's own institutional memory, with securing the city's place among the handful of fabrication-synthesis chamber manufacturers — credited locally with the specific technical achievement that turned an ordinary industrial center into genuinely load-bearing national infrastructure.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
 

@@ -2,7 +2,7 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #2**, translated from `Scott_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in Community Organizer Fiona Māui-Larsen
+`z-template_-_city_histories_conflict_variant.md`. Grounded in Community Organizer Fiona Māui
 (`Full_Extrapolation` §V, Notable Figures) and the founding-era modesty commitment established in
 Suggestion #1. Character fields are intentionally left blank — see each Conflict section's Design Notes
 for what kind of conflict, and what kind of character(s), would make the following setting-condition
@@ -47,7 +47,7 @@ settler's caution risks recreating exactly the competitive-growth trap the found
 rejected.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly the figure later
-remembered as, or a direct predecessor to, Community Organizer Fiona Māui-Larsen. Character B is plausibly
+remembered as, or a direct predecessor to, Community Organizer Fiona Māui. Character B is plausibly
 a founding-era settler with a practical or resource-management background, supportive of modesty in
 principle but wary of what feels, to them, like planning that ignores basic self-sufficiency.
 

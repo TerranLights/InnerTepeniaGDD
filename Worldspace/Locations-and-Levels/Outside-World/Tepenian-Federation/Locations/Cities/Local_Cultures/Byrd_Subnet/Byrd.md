@@ -262,14 +262,16 @@ Becoming a local at Byrd means genuinely internalizing self-sufficiency as ident
 
 ## 30. Significant Local Events
 
-- **The aircraft breakdown** — at some point before, during, or after the Long Night War, Byrd's aircraft broke down due to extreme environmental/climate conditions and could not be repaired; the specific reason is TBD and may be central to DLC 2's plot. The practical consequence is absolute: Byrd has been unreachable from the rest of Tepenia since the last flight out.
+- **The aircraft breakdown** — at some point before, during, or after the Long Night War, Byrd's aircraft broke down due to extreme environmental/climate conditions and could not be repaired; the specific reason is TBD and may be central to DLC 2's plot. *(Corrected 2026-07-17 — this line previously said the practical consequence was "absolute: Byrd has been unreachable from the rest of Tepenia," overstating it; Byrd is a confirmed Hwy 1/Hwy 22 junction per `Locations/Infrastructure/Highways.md`. The aircraft breakdown closed the specific route refugees actually used; whether the long overland alternative survived the war in passable condition is a separate, still-open question — see `Specs/Byrd.md`.)* The practical consequence for the aviation route specifically is absolute: nobody has traveled between Byrd and Concordia by air since the last flight out.
 - **Framheim and Little America's removal from canon (2026-07-03)** — the aviation route's only confirmed refueling stop is gone entirely, a genuinely new complication layered on top of the aircraft breakdown; not yet resolved, flagged in `TODO.md`.
 
 ---
 
 ## 31. Notable Figures
 
-- TBD
+- **Maggie Aarden** *(confirmed resident and recruitable companion, added 2026-07-17, per `Byrd_Full_Extrapolation.md` §VIII)* — her industrial/military machinery maintenance background fits Byrd's own Instinctive/Withdrawn/Competency civic read, giving her a plausible place among the city's fabrication specialists.
+- **Founding-Expedition Robot Crew Member** *(placeholder, unnamed, added 2026-07-17, same section)* — one of the all-robot crew that drove the original Arrastradoras across the unmapped interior.
+- **Dispatch Office Coordinator** *(placeholder, unnamed, added 2026-07-17, same section)* — a present-day figure overseeing the two-directional trucking network.
 
 ---
 

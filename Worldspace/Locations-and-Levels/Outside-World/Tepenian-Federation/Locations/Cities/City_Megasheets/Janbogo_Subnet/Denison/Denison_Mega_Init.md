@@ -36,7 +36,7 @@ Among the windiest permanent habitation sites at sea level on Earth — average 
 
 ## Personality (Enneagram Read)
 
-**Instinctive (Gut) / Withdrawn / Competency** — shares this profile with Byrd, Sanay, Davis, Mirny, and Zhongshan, distinguished specifically as **a singular engineering feat**. Worth naming directly rather than smoothing over: this Withdrawn, quiet-mastery framing sits in real tension with Denison's own established Specs and Local_Cultures characterization — a city explicitly described as the *opposite* of quiet competence, one that recites its own extremity as social ritual rather than enduring it silently. This is the most direct contradiction found across this Megasheet series so far, not merely a secondary-fact-versus-richer-identity gap like those found on Esperanza, Rothera, or Sejong. A genuine resolution is proposed in the Full Extrapolation rather than left as an unaddressed conflict.
+**Instinctive (Gut) / Withdrawn / Competency** *(resolved 2026-07-17, applied to `City_Enneagram_Personalities/Janbogo_Subnet/Denison.md`)* — shares this profile with Byrd, Sanay, Davis, Mirny, and Zhongshan, distinguished specifically as **a singular engineering feat**. This was, at the time this Mega-Init was written, the most direct documentation contradiction found anywhere in this Megasheet series — a Withdrawn, quiet-mastery framing sitting against a city explicitly described as reciting its own extremity as loud social ritual. Full Extrapolation Section I resolved it: the *architecture* is genuinely Withdrawn (fused, sealed, no dramatic outward skyline), and precisely because that architecture makes the city's severity invisible from outside, the loud verbal tradition is the compensating response to it, not a contradiction — two registers (stone and speech) of the same underlying fact.
 
 ---
 
@@ -70,14 +70,16 @@ Defined by the Bora, a genuine katabatic wind reaching gusts over 120 km/h — s
 
 ## What's Actually Open
 
-Carried forward from `Specs/Denison.md`, still genuinely unresolved:
-- The exact highway/road distance and specific junction details connecting Denison to the rest of the Janbogo subnet's coastal network
+Carried forward from `Specs/Denison.md`; several since given proposed answers in `Denison_Full_Extrapolation.md` *(list corrected 2026-07-17 — was stale against that companion file)*:
+- The exact highway/road distance and specific junction details connecting Denison to the rest of the Janbogo subnet's coastal network — **proposed** (Full Extrapolation §II): close to Dumont d'Urville (~110km), far from Cape Adare.
 - A dedicated post-war refugee faction — confirmed not obligatory, left open by developer choice
 - Demonym: still TBD
-- Notable figures: still nobody named
-- Exact founding-era and destruction-era dates beyond the general Long Night War timeframe
+- Notable figures — **proposed** (Full Extrapolation §III): Chief Wind-Engineer Wei Zhang and Fabrication Engineer Kenji Suh, both placeholder names. Propagated to `Specs/Denison.md` and `Local_Cultures/Janbogo_Subnet/Denison.md` 2026-07-17.
+- Exact founding-era and destruction-era dates — **proposed** (Full Extrapolation §IV): founded shortly after the Falkland Treaty; destruction traces to Denison's strategic Hwy 183 chokepoint position, a distinct motive from Zukelli's punitive strike despite similar timing.
 
-**New, surfaced by this research pass:** the Enneagram tension named above — a Withdrawn, quiet-competence profile sitting against an established culture of loud, proud extremity-recitation — is a real gap this pass found but did not resolve in the Mega-Init itself; see the Full Extrapolation for a proposed reconciliation.
+The Enneagram tension named above — a Withdrawn, quiet-competence profile sitting against an established
+culture of loud, proud extremity-recitation — is **resolved** (Full Extrapolation §I), applied to the
+Enneagram file itself 2026-07-17.
 
 ---
 
