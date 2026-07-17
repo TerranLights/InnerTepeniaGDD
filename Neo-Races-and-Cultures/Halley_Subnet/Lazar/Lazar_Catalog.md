@@ -241,6 +241,26 @@ nor purely administrative.
 
 **Working name: "Lazaran."** *(Placeholder, same status as the previous four cities' working names.)*
 
+**Structural correction, folded in 2026-07-16 from `City_Vision_Notes/Lazar.md`:** Lazar's own
+established faction, "Grown Together," names the city's *actual* fault line as old-coalesced-core
+(the original Novolazarevskaya settlement) versus newer-expansion (the absorbed Maitri site) — not
+founder-nation-versus-majority the way every other city cataloged so far works. This is closer in kind
+to Port Lockroy's temporal tension or Sejong's relational one than to Sanay's or Abowasa's national
+founding-drift pattern: the live, low-grade tension here is between residents who remember what it took
+to grow two places into one, and residents for whom that memory is calcifying into gatekeeping. Worth
+treating as the primary internal fault line, with the national-population layering below sitting
+alongside it rather than replacing it.
+
+**Transit detail, folded in 2026-07-16:** Lazar's own quieter-than-its-scale civic feel is specifically
+attributed to maglev ground transit (primary), electric transit (secondary), and elevated transit —
+worth keeping as a concrete, usable detail for why a megacity this large and this commercially loud
+still doesn't feel chaotic.
+
+**Open thread, not resolved here:** the developer has explicitly flagged Lazar's actual economic
+engine — what's really driving an economy large and visible enough to justify the holographic-ad
+megacity presence — as a genuine, unresolved gap, not a placeholder to read past. The per-nation
+"big city" flavors below describe *texture*, not a resolved economic mechanism; that remains open work.
+
 Lazar is Tepenia's clearest **"big city"** — the first city cataloged where all six Primary/Significant
 populations contribute genuine, well-textured culture rather than a mix of strong and thin entries.
 That's a direct consequence of its own City-Type ("megacity commercial hub") being broad enough that
