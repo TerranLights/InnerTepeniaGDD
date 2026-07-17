@@ -121,17 +121,53 @@ snowmelt towns, Colorado) — carried by Denver (civic type, commercial/administ
 secondary Las Vegas-style commercial-glow echo (entertainment register, not administrative).
 
 #### Surface Culture findings
-- **Fashion, Performances:** visible commercial/consumer display culture — the holographic
-  advertisements and multicolored lights already established as Lazar's own defining visual identity
-  read as an extension of this population's own homeland consumer-spectacle traditions.
-- **Music, Performances:** entertainment-adjacent public spectacle, echoing the Vegas-style
-  secondary match.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** visible commercial/consumer display culture — the holographic advertisements and
+  multicolored lights already established as Lazar's own defining visual identity read as an extension
+  of this population's own homeland consumer-spectacle traditions.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** entertainment-adjacent public spectacle, echoing the Vegas-style secondary match.
+- **Performances:** visible commercial/consumer display culture and entertainment-adjacent public
+  spectacle, echoing both the Denver administrative-hub and Vegas-style secondary matches.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** commercial/advertising vocabulary, echoing the visible-spectacle register above.
 
 #### Deep Culture findings
 
-**Concepts of:** status displayed through visible commercial/consumer success — in a dense megacity
-population, this reads as more openly competitive and visibility-seeking than the "quiet reliability"
-or "endurance" status models found in smaller Halley subnet cities so far.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: status displayed through visible commercial/consumer success — in a
+  dense megacity population, this reads as more openly competitive and visibility-seeking than the
+  "quiet reliability" or "endurance" status models found in smaller Halley subnet cities so far.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: openly competitive and visibility-seeking, per the status-display
+  concept above.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -142,15 +178,54 @@ lochs) — carried by Manchester (civic type), a real major UK commercial/post-i
 genuine, internationally recognized music-scene heritage.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** a diffuse, multi-venue music/club scene culture — echoing Manchester's own real
   post-industrial music heritage. Genuinely different in shape from Casey's single-flagship "Splinters"
   model: Lazar's scale supports many scattered scenes rather than one iconic venue.
+- **Performances:** distributed across many scattered venues rather than one iconic stage, consistent
+  with the diffuse music-scene pattern above.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** scene/subculture-specific slang, varying by which venue cluster a given group
+  identifies with.
 
 #### Deep Culture findings
 
-**Concepts of:** urban creative-class identity and strong subcultural belonging — people organize
-social identity around which scene or venue cluster they're part of, a distinctly big-city social
-structure.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: friendship organized around shared scene/venue-cluster membership rather than
+  neighborhood or workplace proximity — a distinctly big-city social structure.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: urban creative-class identity and strong subcultural belonging — people
+  organize social identity around which scene or venue cluster they're part of, a distinctly big-city
+  social structure.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -161,14 +236,56 @@ glacial-meltwater match) and Frankfurt (civic type — Germany's major financial
 strong, one of only two dual-anchored populations at Lazar (with Russia).
 
 #### Surface Culture findings
-- **Fashion, Performances:** professional/financial-district visual register (Frankfurt) layered over
+- **Food:** Alpine-heritage practical tradition, alongside Frankfurt's own financial-district
+  business-lunch culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** professional/financial-district visual register (Frankfurt) layered over Alpine-heritage
+  practical tradition.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** professional/financial-district visual register (Frankfurt) layered over
   Alpine-heritage practical tradition.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** financial/administrative vocabulary (Frankfurt heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** professional administrative competence — given the strongest geography match *and* a
-genuine financial-hub City-Type match, this population carries disproportionate influence over Lazar's
-actual administrative/financial function specifically, not just its general cosmopolitan atmosphere.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: professional, businesslike exchange, echoing
+  Frankfurt's own financial-hub register.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated administrative competence, echoing
+  Frankfurt's financial-hub culture.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: professional administrative competence — given the strongest geography
+  match *and* a genuine financial-hub City-Type match, this population carries disproportionate
+  influence over Lazar's actual administrative/financial function specifically, not just its general
+  cosmopolitan atmosphere.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: professional competence and procedural correctness as the primary
+  markers of authority, echoing Frankfurt's financial-hub culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -180,14 +297,52 @@ pattern seen at Belgrano and Halley. São Paulo is genuinely Brazil's own real m
 engine, a near-literal mirror of Lazar's own defining identity.
 
 #### Surface Culture findings
-- **Fashion, Food:** dense urban commercial culture, fashion-forward style, diverse
-  mixed-neighborhood food culture — São Paulo's own real civic character transposed directly.
+- **Food:** diverse mixed-neighborhood food culture — São Paulo's own real civic character transposed
+  directly.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** dense urban commercial culture, fashion-forward style — São Paulo's own real civic
+  character transposed directly.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** urban ambition and hustle as a genuine, positively-regarded value — converging with
-(not contrasting against) the USA population's own commercial-ambition value above, arrived at via a
-different real-world route.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: urban ambition and hustle as a genuine, positively-regarded value —
+  converging with (not contrasting against) the USA population's own commercial-ambition value above,
+  arrived at via a different real-world route.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: hustle and ambition read as positively-regarded competitive drive, per
+  the urban-ambition concept above.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 **Methodology note:** this is the first city where Brazil's imprint reads as strong rather than thin —
 confirms that the earlier "weak Brazil" pattern at Belgrano/Halley was about *those specific* City-Type
@@ -203,16 +358,55 @@ as a fixed rule.
 (geography — strong) and Moscow (civic type — strong). The other dual-anchored population at Lazar.
 
 #### Surface Culture findings
+- **Food:** mountain-valley practical tradition (Caucasus), alongside Moscow's own cosmopolitan urban
+  dining culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
 - **Performances:** cosmopolitan urban sophistication (Moscow) layered over mountain-valley practical
   tradition (Caucasus).
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** administrative/civic vocabulary, echoing Moscow's own political-center heritage.
 
 #### Deep Culture findings
 
-**Concepts of:** administrative gravitas and seat-of-power self-perception — Moscow's own real identity
-as a political/commercial center of gravity feeds into an interesting structural tension worth naming
-explicitly: **Lazar is Tepenia's largest city, but not its political capital** (see
-`National_Capital_Resolved` project history) — an unofficial "capital" feel without the formal title,
-not unlike how a real-world nation's largest city and its seat of government don't always coincide.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to administrative/political gravitas, echoing Moscow's own
+  real center-of-power identity.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: administrative gravitas and seat-of-power self-perception — Moscow's own
+  real identity as a political/commercial center of gravity feeds into an interesting structural tension
+  worth naming explicitly: **Lazar is Tepenia's largest city, but not its political capital** (see
+  `National_Capital_Resolved` project history) — an unofficial "capital" feel without the formal title,
+  not unlike how a real-world nation's largest city and its seat of government don't always coincide.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: administrative gravitas treated as a genuine civic value, echoing
+  Moscow's own political-center identity.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -226,14 +420,51 @@ small-population-strong-match pattern already seen at Abowasa (Germany) and Belg
 #### Surface Culture findings
 - **Food:** Lyon's own real gastronomic sophistication, a genuine culinary-culture contribution
   distinct from any other population's entry so far.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
 - **Performances:** Chamonix's real mountaineering/extreme-adventure-tourism heritage, suggesting an
   adventure-tourism-adjacent niche within Lazar's broader commercial identity.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** gastronomic/culinary vocabulary (Lyon heritage), alongside mountaineering/adventure
+  terminology (Chamonix heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** refined cultural sophistication (Lyon) paired with mastery-of-extreme-environment pride
-(Chamonix) — a genuinely distinct register from every other population here, neither purely commercial
-nor purely administrative.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: refined presentation and gastronomic taste as markers of cultural
+  sophistication, echoing Lyon's own real culinary-culture heritage.
+
+**Concepts of:**
+- Self, time, past and future: refined cultural sophistication (Lyon) paired with
+  mastery-of-extreme-environment pride (Chamonix) — a genuinely distinct register from every other
+  population here, neither purely commercial nor purely administrative.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
