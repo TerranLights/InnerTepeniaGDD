@@ -91,15 +91,55 @@ match) and New Bedford, Massachusetts (civic type — a real classic American fi
 genuine historical customs-archive identity of its own).
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
 - **Literature:** administrative/record-keeping culture, echoing New Bedford's own real historic
   customs-archive identity — Juan Carlos's own established significance as "origin of Tepenia's first
   bureaucratic archive."
+- **Language:** administrative/record-keeping vocabulary, echoing New Bedford's own real customs-archive
+  identity.
 
 #### Deep Culture findings
 
-**Concepts of:** institutional memory and record-keeping as a genuine source of civic pride — a
-distinct value from anything found at Esperanza, growing directly out of both this population's strong
-City-Type match and the city's own established founding significance.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: precise, record-conscious exchange, echoing
+  New Bedford's own historic customs-archive culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to institutional memory and demonstrated record-keeping
+  competence, echoing New Bedford's own customs-archive heritage.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: institutional memory and record-keeping as a genuine source of civic
+  pride — a distinct value from anything found at Esperanza, growing directly out of both this
+  population's strong City-Type match and the city's own established founding significance.
+- Fairness and justice: procedural correctness, tied to the same record-keeping/archive-minded culture.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: institutional memory and demonstrated record-keeping treated as
+  the primary markers of authority.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -117,12 +157,53 @@ genuinely no strong anchor on any dimension, not explained by an emerging predic
 Brazil's cases have been.
 
 #### Surface Culture findings
-- **Food, Arts & Crafts:** general Italian maritime/coastal food and craft tradition persists as a
-  baseline, without a sharp local anchor to sharpen it further.
+- **Food:** general Italian maritime/coastal food tradition persists as a baseline, without a sharp
+  local anchor to sharpen it further.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** general Italian maritime/coastal craft tradition persists as a baseline, without a
+  sharp local anchor to sharpen it further.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly, given the lack of any strong anchor — not padded out further.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  maritime-baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly, given the lack of any strong anchor — now itemized per the full depth standard rather
+than condensed, but no invented texture added.)*
 
 ---
 
@@ -141,21 +222,59 @@ draft captured only the port/namesake angle and missed the city's single most sp
 developed piece of civic culture.
 
 #### Surface Culture findings
-- **Language, Literature:** Vigo's own real major-fishing-port culture, plus a genuine sense of
-  ownership over the city's own name and origin story.
+- **Food:** Vigo's own real major-fishing-port culinary tradition.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced beyond the tertulia tradition below.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
 - **Performances:** the tertulia itself — structured, hosted intellectual argument as a genuine social
   art form, not casual conversation; guest lists and hosting rights carry real social weight.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** Vigo's own real major-fishing-port culture, plus a genuine sense of ownership over
+  the city's own name and origin story.
+- **Language:** Vigo's own real major-fishing-port culture, plus a genuine sense of ownership over the
+  city's own name and origin story.
 
 #### Deep Culture findings
 
-**Concepts of:** a "namesake ownership" self-concept — not a literal historical-event tie the way
-Argentina's connection to Esperanza works, but a genuine naming/identity claim that gives Spain-
-descended residents a comparable, if differently-mechanised, special relationship to Juan Carlos's own
-civic identity.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: argument conducted as hosted, almost
+  ceremonial performance via the tertulia, rather than something to be minimized or avoided.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Approaches to:** decision-making and problem-solving *(added 2026-07-16)* — argument itself as a
-valued, structured social practice via the tertulia, rather than something to be minimized or avoided;
-disagreement conducted as hosted, almost ceremonial performance.
+**Notions of:**
+- Courtesy and manners: guest-listing and hosting rights carry real social weight — being invited to,
+  or hosting, a tertulia is a genuine marker of social standing.
+- Friendship, leadership: leadership tied to hosting rights and skill at structured argument, echoing
+  the tertulia tradition.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a "namesake ownership" self-concept — not a literal historical-event tie
+  the way Argentina's connection to Esperanza works, but a genuine naming/identity claim that gives
+  Spain-descended residents a comparable, if differently-mechanised, special relationship to Juan
+  Carlos's own civic identity.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: argument itself treated as a valued, structured social practice via the
+  tertulia, rather than avoided or suppressed.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: argument itself as a valued, structured social
+  practice via the tertulia, rather than something to be minimized or avoided; disagreement conducted as
+  hosted, almost ceremonial performance.
 
 ---
 
@@ -167,12 +286,49 @@ its administrative identity is weaker than the other populations' matches here).
 
 #### Surface Culture findings
 - **Food:** classic British fishing-port tradition (Grimsby heritage).
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** classic British fishing-port vocabulary (Grimsby heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** fishing/maritime-labor identity emphasized over the administrative-archive angle,
-given the comparatively weaker administrative side of this population's own City-Type match — a
-different emphasis from the USA population's own institutional-memory-forward entry above.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: fishing/maritime-labor identity emphasized over the
+  administrative-archive angle, given the comparatively weaker administrative side of this population's
+  own City-Type match — a different emphasis from the USA population's own institutional-memory-forward
+  entry above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -184,12 +340,50 @@ largest fishing port, a strong match).
 
 #### Surface Culture findings
 - **Food:** Boulogne-sur-Mer's own real major fishing-port culture and cuisine.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Boulogne-sur-Mer's own real major fishing-port vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** professional fishing-labor pride, converging with the UK population's own
-fishing-culture emphasis above, though via a notably stronger City-Type match (Boulogne being a more
-direct fit than Grimsby's partial one).
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated fishing-labor skill, echoing Boulogne-sur-
+  Mer's own real port culture.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: professional fishing-labor pride, converging with the UK population's
+  own fishing-culture emphasis above, though via a notably stronger City-Type match (Boulogne being a
+  more direct fit than Grimsby's partial one).
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: professional fishing-labor pride treated as a genuine marker of
+  standing, echoing Boulogne-sur-Mer's own real port culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -200,12 +394,51 @@ carried by Bremerhaven (civic type), a real German fishing/maritime-administrati
 match.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** Bremerhaven's own real fishing-plus-administrative professional culture.
 
 #### Deep Culture findings
 
-**Concepts of:** professional administrative competence within a fishing-port context, converging with
-the USA population's own institutional-memory emphasis via a genuinely distinct real-world route.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to professional administrative competence, echoing
+  Bremerhaven's own fishing-plus-administrative culture.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: professional administrative competence within a fishing-port context,
+  converging with the USA population's own institutional-memory emphasis via a genuinely distinct
+  real-world route.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: professional administrative competence treated as a genuine
+  marker of standing, echoing Bremerhaven's own fishing-plus-administrative culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
