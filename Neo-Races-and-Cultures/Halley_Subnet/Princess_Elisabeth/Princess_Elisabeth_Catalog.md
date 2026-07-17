@@ -244,6 +244,28 @@ across this city's other populations, contributing genuine texture despite the s
 developer — probably needs a different working name to avoid the real-world homophone; placeholder
 only, same status as the other six cities' working names.)*
 
+**Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Princess_Elisabeth.md`:** the
+city's own official identity, **"Leaving No Mark, Meeting in the Middle,"** frames it as a literal
+demographic/geographic crossroads (the only Halley subnet city with two co-Primary founding
+populations, USA and Japan, reflecting genuine Atlantic *and* Indian Ocean immigration currents) that
+never resolved which larger cultural body it belongs to — *and never turned that ambiguity into a
+defended identity either*, unlike Sayowa's own version of the same situation. Princess Elisabeth
+shares a faction, "The Crossroads People," with Sayowa, Esperanza, Janbogo, and Casey — "the crossroads
+nobody resolved." This sits *alongside*, not in contradiction with, the wind-mastery/energy-research
+convergence described below: the research culture is genuinely coherent and shared, but the city's
+national/cultural belonging remains deliberately, permanently unresolved rather than settling into one
+population's own defended narrative the way Sanay or Belgrano's endurance mythologies do.
+
+**Infrastructure detail, folded in 2026-07-16:** vast wind and solar farms dominate the landscape —
+wind farms feed electricity to parts of the city, while solar farms specifically power heating systems
+connected directly into the ground, a concrete detail worth keeping for future level-design or
+Course of Events work.
+
+**A genuine, deliberately unresolved narrative hook:** something significant and confirmed real is
+happening in a mysterious underground "mini-infrastructure" beneath the city — not yet explained, not a
+gap to fill in casually, and possibly (not confirmed) connected to the already-flagged
+restore-the-zero-emissions-systems candidate questline. Left open here rather than invented.
+
 Princess Elisabeth's neo-culture is anchored unusually firmly by its two co-Primary populations, both
 of which are double-anchored (strong on geography *and* City-Type): Japan (wind-as-civic-mastery, via
 Wakkanai and Tsukuba) and USA (wind-as-scientific-frontier, via Mount Washington and Golden/NREL). These
