@@ -197,6 +197,34 @@ from a real event to this population's own presence and self-understanding here.
 **Working name: "Esperanzan."** *(Placeholder, same status as the eight completed Halley subnet
 cities' working names.)*
 
+**Major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Esperanza.md`:** the city's own
+official identity, **"The Guarded City,"** goes further than "family/genesis city" — the founding logic
+*is* a human-robot relationship (robots literally built to protect humans), and residents read the
+city's own robot-majority demographic drift as *proof the compact is being honored at scale*, not as
+erosion of a founding ideal. This should be treated as the primary identity frame, with the specific
+"first child born here" history as its most vivid supporting detail rather than the whole story.
+
+**Economy correction, folded in 2026-07-16:** mining was missed entirely in the original Phase 1b/1b-ii
+pass — Esperanza's mines produce materials for siligel synthesis and raw materials for building and
+fabrication, feeding directly into Tepenia's broader industrial supply chain, not just the
+trans-shipment port role already captured. Worth a future correction pass on the City-Type Parallels
+section above to add this as a genuine second economic pillar alongside the port.
+
+**Family structure, folded in 2026-07-16:** Esperanza's own defining domestic pattern is rotational
+mining-shift fatherhood — fathers work weeks away at a time, then return home for a week or two, with
+robots serving as the *primary* at-home caregivers during those absences, and robot teachers doing most
+of the schooling (occasional human teachers, in the early second interwar period specifically, could
+give firsthand accounts of pre-Treaty Upper Earth life). This is where several project-wide facts
+originate and were first established, not just generically true here: the heavily male-skewed human
+exile immigration, artificial womb technology as the normalized reproductive method, and robots (not
+human family lines) as Tepenia's actual continuous carriers of institutional memory. Esperanza is the
+origin point for this now project-wide canon, worth crediting explicitly.
+
+**Shared faction note:** Esperanza holds "The Crossroads People" faction alongside Sayowa, Janbogo,
+Casey, and Princess Elisabeth (Peninsula gateway, provisional intimacy) — the same faction already
+folded into Princess Elisabeth's own retroactive audit. Worth eventually cross-referencing all five
+cities' own distinct angles on it once time allows.
+
 Esperanza is the first city cataloged so far with a genuine **"family/genesis city"** identity,
 directly traceable to its own real historical basis (the first child born in Antarctica). USA's
 numeric dominance (36.36%, the highest Primary-tier concentration found in any city yet) sets a
