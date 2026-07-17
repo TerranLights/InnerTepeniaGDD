@@ -157,13 +157,13 @@ Understated and varied, without a single dominant local tradition — Davis's br
 
 ## 15. Division of Industry
 
-**Developer vision, established 2026-07-05 — a working city first.** Davis is, above all, a working city: mining (from quarries toward the South Pole direction — a separate source from Mirny's own, similarly-directioned quarries), fabrication, manufacturing, and general industry make up the clear majority of activity here, with the research/terrain-documentation heritage below now a smaller (if still genuinely present) part of city life. Revised breakdown:
+**Developer vision, established 2026-07-05, revised 2026-07-16 — the breadbasket of Tepenia.** *(Corrected — this section originally described Davis as "a working city first," mining-and-manufacturing-dominant, directly conflicting with the same-day "breadbasket of Tepenia" City-Type resolution. The developer resolved the conflict by reassigning the mining/quarrying role to Mirny — see `Local_Cultures/Mirny_Subnet/Mirny.md`'s own Division of Industry section — since Davis's own unique geography, the largest ice-free oasis in the country, genuinely fits it for the ecological-research/breadbasket role in a way no other city can match.)* Davis is, above all, Tepenia's breadbasket and a prime ecological/limnological research hub: sheltered-agriculture and greenhouse cultivation alongside the founding research/terrain-documentation heritage make up the clear majority of activity here. Revised breakdown:
 
-- Industrial / manufacturing / mining: ~40% — the clear majority, quarrying and fabrication driving the bulk of daily activity
-- Technical / scientific (environmental and terrain research): ~20% — the founding research heritage, now a substantial minority rather than the largest sector
+- Agricultural / food production (sheltered-agriculture, greenhouse cultivation): ~35% — the clear majority, Davis's near-exclusive status as the Breadbasket of Tepenia
+- Technical / scientific (environmental, ecological, and limnological research): ~25% — the founding research heritage, now a co-equal pillar alongside agriculture rather than a shrinking minority
 - Maritime (Prydz Bay, fjord access): ~15%
 - Commercial (bars, eateries, social establishments — see Section 26/27): ~15%
-- Agricultural / food production (lake-adjacent resources): ~5%
+- Industrial / manufacturing (non-mining, general): ~5%
 - Other, including a small but genuine arts/music community: ~5%
 
 ---
