@@ -9,7 +9,7 @@
 **Census Population:** 283,442 humans / 286,827 robots / 570,269 combined (Census I, rank 22nd, *corrected 2026-07-03, again 2026-07-05*); 195,623 humans / 234,522 robots / 430,145 combined (Census II, rank 21st, *corrected 2026-07-03*)
 **Location:** Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W)
 
-**One-liner:** *A city built on top of 34-million-year-old proof that Antarctica was once warm — whose own single greatest asset, a concentrated airfield on a small, flat island, made it exactly the kind of target that couldn't survive what Rothera did.*
+**One-liner:** *A city built on top of 34-million-year-old proof that Antarctica was once warm — whose own two concentrated assets, an airfield and a shipyard sharing one small, flat island, made it exactly the kind of target that couldn't survive what Rothera did. (Updated 2026-07-16 from "single greatest asset" — corrected to two, per the 2026-07-04 Vision Notes session establishing the port as equally central.)*
 
 ---
 
@@ -57,26 +57,48 @@ Without polar night or midnight sun, Marambio's daily rhythm follows aviation sc
 
 **Name/concept:** *Standing on Warmer Ground*
 
-Marambio's civic identity rests on a genuine duality: the operational aviation hub that kept the whole Palmer subnet moving, and the paleontological archive it happened to be built on top of. Neither identity cancels the other out — a city of people constantly in transit, living directly above 34-million-year-old evidence that this frozen world was once entirely different.
+**Updated 2026-07-16, folding in the 2026-07-04 Vision Notes session:** Marambio's civic identity
+rests on a genuine *triple* character, not the dual one this section originally described — the
+operational hub that kept the whole Palmer subnet moving by both air *and* sea (the airfield and,
+equally, the working port/shipyards on the island's inner side facing the mainland), and the
+paleontological archive it happened to be built on top of. None of the three identities cancels the
+others out — a city of people constantly in transit by plane and by ship, living directly above
+34-million-year-old evidence that this frozen world was once entirely different.
 
-- **a. Founding tension** — Argentina founded the city and gave it its military-institutional character, later diluted to Notable tier by the same broad immigration pattern (USA Primary, six Significant-tier nations) seen across the Palmer subnet — a standard tension, secondary to the aviation-vs-fossils duality that actually defines the city day to day.
-- **b. Fault lines** — Between the transient, logistics-oriented population (people passing through, working the airfield) and a smaller resident scientific community dedicated to the slower, accumulating work of paleontology — two very different relationships to time coexisting in the same small city.
+**Scope distinction, clarified 2026-07-16:** the airfield and the port aren't equivalent in *reach* —
+the airfield is internal-Tepenia-only (people and goods moving between Tepenian cities; Upper Earth
+arrivals route through Machu Picchu Base instead), while the port serves everywhere at once: Marambio's
+confirmed receiving node for South America (Tepenia's Upper Earth shipping partner for this subnet)
+*and* its link onward to the rest of Tepenia's own Atlantic coastal cities. The port, not the airfield,
+is Marambio's actual link to both worlds simultaneously — a real, felt distinction for anyone working
+the docks versus anyone working the runway.
+
+- **a. Founding tension** — Argentina founded the city and gave it its military-institutional
+  character, later diluted to Notable tier (0.74% by Census II — the deepest founding-nation erosion
+  documented anywhere in the Palmer subnet) by the same broad immigration pattern (USA Primary, six
+  Significant-tier nations) seen across the Palmer subnet — a standard tension, secondary to the
+  aviation-and-sea-vs-fossils duality that actually defines the city day to day.
+- **b. Fault lines** — Between the transient, logistics-oriented population (people passing through,
+  working the airfield and the docks) and a smaller resident scientific community dedicated to the
+  slower, accumulating work of paleontology — two very different relationships to time coexisting in
+  the same small city.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** Movement is the norm — Marambio was never built for permanence the way more residential Peninsula cities were.
-- **b. Hospitality character** — Practical and transactional, shaped by a population used to people arriving and departing on aviation schedules rather than settling in.
-- **c.** Paced by flight schedules and weather windows rather than daylight.
-- **d. Public/private divide** — Airfield operations are entirely public civic business; the paleontological research community kept its own, quieter, more private rhythm apart from the transient aviation culture.
-- **e. Privacy as civic value** — Low among the transient aviation population, higher among the smaller resident scientific community.
+- **b. Hospitality character** — Practical and transactional, shaped by a population used to people arriving and departing on aviation *and* shipping schedules rather than settling in.
+- **c.** Paced by flight schedules, ship arrivals, and weather windows rather than daylight — work at the docks continues in any weather, rain or clear skies or snow.
+- **d. Public/private divide** — Airfield and dock operations are entirely public civic business; the paleontological research community kept its own, quieter, more private rhythm apart from the transient aviation-and-maritime culture.
+- **e. Privacy as civic value** — Low among the transient aviation/dock population, higher among the smaller resident scientific community.
+- **f. Downtime custom** *(added 2026-07-16, from Vision Notes)* — during rare quiet stretches between ship dockings, dockworkers (human and robot) take smoke breaks together; a small, genuine ritual of shared rest inside an otherwise constantly-moving city.
 
 ---
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people in motion — aviation and logistics workers, and a smaller population of paleontologists drawn to Seymour Island's genuinely exceptional fossil record.
+- **The type this city draws:** people in motion — aviation workers, dockworkers, and maritime-logistics crews, and a smaller population of paleontologists drawn to Seymour Island's genuinely exceptional fossil record. Some dockworkers come specifically because robot society treated them better than human society ever did *(2026-07-16, from Vision Notes)*.
 - **The type this city repels:** anyone seeking permanence or a settled community feel — Marambio was never that kind of city.
 
 ---
@@ -126,10 +148,10 @@ Modest, background rather than central to civic identity — Marambio was never 
 
 ## 14. Sensory Profile
 
-- **Sound:** Aircraft engines, aviation radio chatter — a genuinely distinct soundscape among Palmer subnet cities.
-- **Smell:** Cold, dry, continental Weddell Sea air, drier than the maritime western coast.
-- **Feel:** Transient and functional — Marambio never felt like a place to settle, only a place to pass through or work.
-- **First impressions for visitors:** The flat, exposed island terrain and the airfield itself first, then — for those who stay long enough to notice — the exposed sedimentary rock faces carrying 34-million-year-old fossils underfoot.
+- **Sound:** Aircraft engines and aviation radio chatter on the airfield side; dock machinery, ship engines, and loading-crew calls on the shipyard side — a genuinely distinct, dual soundscape among Palmer subnet cities.
+- **Smell:** Cold, dry, continental Weddell Sea air, drier than the maritime western coast, cut through at the docks by salt air and ship fuel.
+- **Feel:** Transient and functional — Marambio never felt like a place to settle, only a place to pass through or work, whether by plane or by ship.
+- **First impressions for visitors:** The flat, exposed island terrain and the airfield register first — but per the 2026-07-04 Vision Notes session, the working port matters just as much, even if it isn't the first image that comes to mind. For those who stay long enough to notice, the ground itself is a geological archive: the exposed sedimentary rock faces carrying 34-million-year-old fossils underfoot.
 
 ---
 
@@ -139,9 +161,13 @@ Modest, background rather than central to civic identity — Marambio was never 
 
 ## 15. Division of Industry
 
-- Aviation / logistics: 45% — the city's clearly defining, dominant sector
+**Revised 2026-07-16** to reflect the port as an equally central sector, not a subset of "commercial /
+trade":
+- Aviation / logistics: 25%
+- Maritime / port operations (shipyards, dock loading and unloading): 25% — equally central to the
+  city's defining, dominant identity, per the 2026-07-04 Vision Notes session
 - Scientific / paleontological research: 20%
-- Commercial / trade: 15% — leveraging the airfield's connectivity
+- Commercial / trade: 10% — leveraging both the airfield's and the port's connectivity
 - Technical / maintenance: 15%
 - Other: 5%
 
@@ -149,13 +175,13 @@ Modest, background rather than central to civic identity — Marambio was never 
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (286,827 to 283,442 Census I), human-robot relations at Marambio are shaped by the city's practical, logistics-first character — close operational coordination required to keep aviation infrastructure running, without much room for the more elaborate social dynamics of less transient cities.
+With robots slightly outnumbering humans (286,827 to 283,442 Census I), human-robot relations at Marambio are shaped by the city's practical, logistics-first character — close operational coordination required to keep aviation *and* port infrastructure running. **Added 2026-07-16, from Vision Notes:** the docks specifically hold a genuine, lived version of the project's established Bonded Lattice/human-robot romance themes — many human dockworkers are in relationships with a robot they also work alongside, a direct, ordinary expression of partnership rather than an exceptional case. Given ordinary human lifespans against robots' much longer ones, a robot dockworker would very plausibly outlive a human partner the same way Seymour Island's exposed rock outlives the paleontologists' own notes about it — an unintentional but real thematic echo between the geological and the personal that this city's own culture has never had the reflective habit to name (see `Marambio_Cross_Reference_Synthesis.md`, Finding 2).
 
 ---
 
 ## 17. Robot-Specific Culture
 
-Robot culture at Marambio centers on aviation and logistics expertise — the practical skill of keeping the Palmer subnet's primary aviation hub functioning, alongside a smaller, more specialized robot presence in the paleontological research program.
+Robot culture at Marambio centers on aviation and maritime logistics expertise — the practical skill of keeping the Palmer subnet's primary aviation hub *and* its confirmed South America shipping-corridor port functioning, alongside a smaller, more specialized robot presence in the paleontological research program.
 
 ---
 
@@ -211,8 +237,9 @@ Practical and aviation-oriented — Arcanet use here likely centered on coordina
 ## 25. Export Culture
 
 - Aviation and logistics expertise — Marambio-trained specialists in operating the Palmer subnet's most developed airfield
+- Maritime trade and dock-logistics expertise *(added 2026-07-16)* — Marambio-trained specialists in running the Palmer subnet's confirmed receiving port for South American shipping
 - The Eocene fossil record — Seymour Island's paleontological significance as a point of scientific pride and export knowledge
-- A specific *type of person* — practical, transient, comfortable with constant motion, distinct from Palmer City's celebratory permanence or Rothera's industrious rootedness
+- A specific *type of person* — practical, transient, comfortable with constant motion by air and by sea, distinct from Palmer City's celebratory permanence or Rothera's industrious rootedness
 
 ---
 
@@ -246,6 +273,7 @@ There was little true "transition" at Marambio — the city was built for motion
 ## 29. Notable Local Landmarks
 
 - **The Marambio airfield** — the Palmer subnet's primary aviation hub, the most developed airstrip infrastructure of any Peninsula city
+- **The Marambio shipyards** *(added 2026-07-16, from the 2026-07-04 Vision Notes session)* — spanning the island's inner side facing the mainland, the confirmed receiving port for the South America shipping corridor, equally central to the city's identity as the airfield
 - **The Eocene fossil exposures** — Seymour Island's sedimentary rock faces, carrying ancestral penguin, whale, and plant fossils from 34–56 million years ago
 - **The Picnic Passage causeway/bridge chain** — Marambio's confirmed Hwy 1 crossing, spanning Picnic Passage (the real-world ~1km strait to Snow Hill Island), then James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland — Hwy 1's northern terminus, continuing south to Palmer City, Port Lockroy, Rothera, and ultimately Byrd
 
@@ -253,7 +281,7 @@ There was little true "transition" at Marambio — the city was built for motion
 
 ## 30. Significant Local Events
 
-- **The Long Night War destruction** — Marambio's small, flat island geography, concentrated entirely around one strategic asset (the airfield), made it a single-point-of-failure target unlike Rothera's decentralizable Adelaide Island; destroyed rather than merely damaged. Exact circumstances TBD for DLC 3 design.
+- **The Long Night War destruction** — Marambio's small, flat island geography, concentrated around two strategic assets by the time of the war (the airfield *and* the shipyards, per the 2026-07-04 Vision Notes correction), made it a single-point-of-failure target unlike Rothera's decentralizable Adelaide Island — if anything a more efficient, more devastating single strike than the original one-asset framing credited it with, since it eliminated both logistics nodes at once. Destroyed rather than merely damaged. Exact circumstances TBD for DLC 3 design.
 
 ---
 

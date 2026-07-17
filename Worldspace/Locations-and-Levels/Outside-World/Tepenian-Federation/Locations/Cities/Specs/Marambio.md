@@ -4,7 +4,7 @@
 **Status:** Destroyed *(confirmed 2026-07-03 — resolved a conflict where `City_Relationship_Database.md`, `Overview.md`, `Station_to_City_Map.md`, and `Local_Cultures/README.md` all said "damaged/surviving," this file alone said "Destroyed." Kept as Destroyed after checking the real terrain: Seymour Island is small and flat, built around one single, concentrated strategic asset — the airfield — unlike Rothera's large, mountainous, decentralizable Adelaide Island. A concentrated single-point-of-failure target, architecturally closer to Palmer City or Sejong's situation than Rothera's. The other four files were the ones that were stale, and have been corrected to match. **Updated 2026-07-13** — this justification predates the 2026-07-04 Vision Notes session that established Marambio's equally-central shipyard/port identity alongside the airfield; by the time of the Long Night War, Seymour Island held two critical logistics nodes, not one, both on the same small, flat, indefensible ground. This doesn't change the Destroyed verdict — if anything it strengthens it, since a single strike eliminated both assets at once — but the destruction should be credited as taking out the airfield and the shipyard together, not the airfield alone.)*
 **Arcanet Subnet:** Palmer ("American")
 **Highway access:** Confirmed 2026-07-03 as Hwy 1's northern terminus; **corrected 2026-07-06 — Marambio is actually a waypoint, not the terminus.** Esperanza is Hwy 1's true northern terminus; Marambio sits just south of it, reached via the causeway/bridge chain described below. Real-world verification confirmed Seymour Island sits in a tight island chain right off the Peninsula's tip — separated from Snow Hill Island by Picnic Passage (a strait only about 1 mile wide), with James Ross Island beyond that and the Prince Gustav Channel crossing to the Trinity Peninsula mainland. From Marambio, Hwy 1 continues to a ramp junction offering a road to Port Lockroy and a boat crossing to Palmer City, then a further ramp to Rothera, before the highway itself terminates at Byrd in West Antarctica. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Argentine Air Force city on Seymour Island; the most significant aviation hub in the Palmer subnet — had the most developed airstrip infrastructure of any Peninsula city; Seymour Island is also one of the richest fossil sites in Antarctica, with Eocene-era fossils including early penguin ancestors; named after Vicecomodoro Gustavo Marambio
+**Significance:** Argentine Air Force city on Seymour Island; the most significant aviation hub in the Palmer subnet — had the most developed airstrip infrastructure of any Peninsula city. **Scope clarified 2026-07-16:** the airfield serves internal Tepenian traffic specifically — moving people and goods between Tepenian cities, not receiving Upper Earth arrivals, which route instead through Machu Picchu Base (King George Island, the dedicated Upper Earth customs/immigration gateway established for Palmer City). **Equally central, per the 2026-07-04 Vision Notes session (folded in here 2026-07-16): a working port on the island's inner side, facing the mainland** — unlike the airfield, the port serves everywhere: Marambio is the confirmed receiving node for South America, Tepenia's Palmer-subnet Upper Earth shipping partner (the fourth and final piece of the established framework alongside South Africa/Halley, New Zealand/Ross, Australia/Dumont d'Urville-Mirny-Mawson), *and* ships onward across the Weddell Sea to the Atlantic coastal cities (including Belgrano and Sanay) as part of Tepenia's own internal network — the port, not the airfield, is Marambio's actual link to both worlds at once. Seymour Island is also one of the richest fossil sites in Antarctica, with Eocene-era fossils including early penguin ancestors; named after Vicecomodoro Gustavo Marambio
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); destroyed — part of the Peninsula's dominant ruin landscape, alongside Palmer City and Sejong
 
 ---
@@ -94,21 +94,37 @@ The name was kept.
 
 ## Character & Culture
 
-Marambio had a dual character: the operational hub that kept the Palmer subnet moving, and the geological museum that it sat on top of. The aviation infrastructure gave it a transient, logistics-oriented culture *(corrected 2026-07-04 — previously compared to Framheim, which was permanently removed from canon 2026-07-03; Fort McMurdo is the more apt comparison now, sharing the same transient-hub character)* — people passing through, goods and people in motion. The fossil record beneath it gave it a scientific program with a specific kind of depth: not the cutting-edge research of Vostok's Lake Vostok program, but the slower, accumulating work of paleontology — reconstructing what Antarctica had been before the ice.
+Marambio had a layered character: the dual air-and-sea operational hub that kept the Palmer subnet moving, and the geological museum that it sat on top of. The aviation infrastructure and, equally, the working port (shipyards on the island's inner side, humans and robots loading and unloading ships together in any weather, per the 2026-07-04 Vision Notes session) gave it a transient, logistics-oriented culture *(corrected 2026-07-04 — previously compared to Framheim, which was permanently removed from canon 2026-07-03; Fort McMurdo is the more apt comparison now, sharing the same transient-hub character)* — people passing through, goods and people in motion by both plane and ship. The fossil record beneath it gave it a scientific program with a specific kind of depth: not the cutting-edge research of Vostok's Lake Vostok program, but the slower, accumulating work of paleontology — reconstructing what Antarctica had been before the ice.
 
-The city's founding-era function as a working military aviation hub shaped Marambio's institutional character in ways that persisted across generations.
+The city's founding-era function as a working military aviation hub shaped Marambio's institutional character in ways that persisted across generations; the port grew alongside it, equally central rather than a later add-on, as South America emerged as the confirmed Upper Earth shipping partner for the whole Palmer subnet.
 
-**Nationally known for:** The runway. The fossils. The Weddell Sea eastern position.
+**Nationally known for:** The runway. The docks. The fossils. The Weddell Sea eastern position.
 
 ---
 
 ## Economy & Industry
-Aviation logistics, paleontological science, whatever the Weddell Sea eastern coast offered. Full detail TBD for DLC 3.
+**Aviation logistics and maritime trade, confirmed as equally central (Vision Notes session,
+2026-07-04; folded in here 2026-07-16).** The two are not equivalent in scope, though — **clarified
+2026-07-16:** the airfield is internal-Tepenia-only, moving people and goods between Tepenian cities
+(Upper Earth arrivals never route through it; that traffic goes through Machu Picchu Base on King
+George Island instead). **The port serves everywhere** — it's simultaneously Marambio's link to Upper
+Earth (as the Palmer subnet's receiving node for South America, Tepenia's confirmed Upper Earth
+shipping partner for this subnet, parallel to South Africa/Halley, New Zealand/Ross, and
+Australia/Dumont d'Urville-Mirny-Mawson) and its link to the rest of Tepenia itself (shipping onward
+across the Weddell Sea to the Atlantic coastal cities, including Belgrano and Sanay in the Halley
+subnet). Shipyards span the island's inner side, facing the mainland; humans and robots load and
+unload arriving and departing ships together regardless of weather. A related but distinct route also
+runs through Esperanza (a documented Belgrano–Palmer City trade route); Marambio and Esperanza are
+confirmed as complementary, not competing, pieces of the same overall corridor — Marambio likely
+handling larger-scale bulk maritime commerce, Esperanza more specific/documented trans-shipment
+traffic, though the exact division of labor is still open. Paleontological science persists as a
+smaller, slower-paced third strand alongside these two. Full detail otherwise TBD for DLC 3.
 
 ---
 
 ## Notable Locations
 - **The Marambio airfield** — the Palmer subnet's primary aviation hub; in ruins, the airfield infrastructure is a defining landscape feature
+- **The Marambio shipyards** *(folded in 2026-07-16 from the 2026-07-04 Vision Notes session)* — spanning the island's inner side facing the mainland; the confirmed receiving point for South American shipping, equally central to the city's identity as the airfield; in ruins, a second major defining landscape feature alongside the airfield
 - **The Eocene fossil exposures** — the sedimentary rock faces of Seymour Island with their Eocene-era fossil record; in ruins, these continue to exist and are accessible
 - **The Picnic Passage causeway/bridge chain** — confirmed 2026-07-03 as Hwy 1's actual crossing: Marambio → across Picnic Passage (real-world confirmed ~0.93km/0.58mi wide) to Snow Hill Island → James Ross Island → across the Prince Gustav Channel to the Trinity Peninsula mainland *(corrected from an earlier "Herbert Sound" reference — Herbert Sound is a real but different, unrelated strait, separating Vega Island from James Ross Island, not Seymour Island from the mainland)*
 - Additional locations: TBD for DLC 3
@@ -126,7 +142,7 @@ Palmer subnet — aviation logistics made Marambio the Palmer subnet's most conn
 ---
 
 ## Legacy
-Marambio's legacy is the fossils and the flights. A city built on 34-million-year-old evidence that Antarctica was once warm and forested, whose most significant function was keeping people moving through a frozen world. Both things are true simultaneously.
+Marambio's legacy is the fossils, the flights, and the docks. A city built on 34-million-year-old evidence that Antarctica was once warm and forested, whose most significant function was keeping people — and, equally, goods arriving from South America — moving through a frozen world. All three things are true simultaneously.
 
 ---
 

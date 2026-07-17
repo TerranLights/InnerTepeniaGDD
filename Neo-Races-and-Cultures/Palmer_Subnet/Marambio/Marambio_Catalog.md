@@ -89,6 +89,12 @@ accordingly below and in the Per-Nation Entries.
 - **Mexico (Significant):** No standout domestic match — flagged as weak.
 - **Brazil (Significant):** No standout domestic match — flagged as weak.
 
+**Scope distinction, clarified 2026-07-16:** the airfield and the port aren't equivalent in reach — the
+airfield is internal-Tepenia-only (moving people and goods between Tepenian cities; Upper Earth
+arrivals route through Machu Picchu Base instead), while the port serves everywhere at once. This
+matters for reading the nation matches below: aviation matches (Memphis, Leipzig/Halle, East Midlands)
+represent *internal Tepenian logistics competence* specifically, not an Upper-Earth-facing skill.
+
 **Secondary type, corrected 2026-07-16 against existing established canon:** this isn't a new
 developer addition — it's already established in `City_Vision_Notes/Marambio.md` (2026-07-04 session)
 and predates this Neo-Races pass entirely. **South America is Marambio's confirmed Upper Earth
