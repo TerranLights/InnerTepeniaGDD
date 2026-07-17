@@ -109,14 +109,52 @@ isolated-fishing-community character than the research-town civic type alone wou
 #### Surface Culture findings
 - **Food:** a marine-diet-based cuisine, consistent with Signy's own established self-sufficiency
   through Scotia Sea resources.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** unhurried, wildlife-paced time — matching Signy's own established civic rhythm and its
-Thinking/Withdrawn/Competency Enneagram core directly; the highest Primary-tier population
-concentration found in any city cataloged in this entire project (33.33%) still doesn't translate into
-an assertive, outward-facing civic register, given the dominant personality core points the opposite
-direction.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: quiet, unhurried exchange, matching Signy's
+  own Thinking/Withdrawn/Competency Enneagram core.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: unhurried, wildlife-paced time — matching Signy's own established civic
+  rhythm and its Thinking/Withdrawn/Competency Enneagram core directly; the highest Primary-tier
+  population concentration found in any city cataloged in this entire project (33.33%) still doesn't
+  translate into an assertive, outward-facing civic register, given the dominant personality core points
+  the opposite direction.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: quiet, self-contained competence, matching Signy's own
+  Thinking/Withdrawn/Competency Enneagram core.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -127,13 +165,50 @@ biologically rich, though an institutional rather than settled population) and R
 type — a real French marine-biology research station town).
 
 #### Surface Culture findings
-- **Food, Arts & Crafts:** Roscoff's own real marine-research-station culture, secondary to the
+- **Food:** Roscoff's own real marine-research-station culture, secondary to the fishing-dominant
+  economy but genuinely present.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Roscoff's own real marine-research-station culture, secondary to the
   fishing-dominant economy but genuinely present.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** self-sufficiency through marine resources, converging with the general Tristan da
-Cunha-style isolation-as-stable-life framing established for the whole city.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: self-sufficiency through marine resources, converging with the general
+  Tristan da Cunha-style isolation-as-stable-life framing established for the whole city.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -150,12 +225,50 @@ combination of deep fishing heritage with remote-renewable-energy potential.
 #### Surface Culture findings
 - **Food:** deep fishing-heritage culture, echoing Shetland's own real character more than Plymouth's
   purely academic one.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** deep fishing-heritage practical wear, echoing Shetland's own real character.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** deep fishing-heritage vocabulary, echoing Shetland's own real character.
 
 #### Deep Culture findings
 
-**Concepts of:** fishing as a heritage identity, not just an economic activity — a genuine value
-distinct from the research-institution framing that dominated this nation's entries at other Palmer
-subnet cities.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated fishing-heritage competence, echoing
+  Shetland's own real character.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: fishing as a heritage identity, not just an economic activity — a
+  genuine value distinct from the research-institution framing that dominated this nation's entries at
+  other Palmer subnet cities.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: fishing heritage treated as a genuine marker of standing, echoing
+  Shetland's own real character.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -167,11 +280,48 @@ noted for genuine marine-research institutions.
 
 #### Surface Culture findings
 - **Food:** Bremerhaven's own real fishing-port culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Bremerhaven's own real fishing-port vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** professional fishing/maritime competence, converging with the dominant
-fishing-economy register shared across this city's populations.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: professional fishing/maritime competence, converging with the dominant
+  fishing-economy register shared across this city's populations.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: professional fishing/maritime competence treated as a genuine
+  marker of standing, echoing Bremerhaven's own real culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -183,11 +333,52 @@ Signy's City-Type (small, remote, self-sufficient fishing community) doesn't mat
 large-organic-city strength pattern.
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Food:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly — consistent with the established settlement-type-dependent pattern.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: general Brazilian-diaspora warmth persists as a baseline
+  register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly — consistent with the established settlement-type-dependent pattern, now itemized per
+the full depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
