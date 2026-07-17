@@ -96,15 +96,53 @@ port, strong match). The most numerically dominant Primary population found in a
 far.
 
 #### Surface Culture findings
-- **Language, Performances:** logistics/trans-shipment professional culture (Norfolk heritage), cold/dry
+- **Food:** cold/dry coastal-Alaska practical tradition.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** cold/dry coastal-Alaska practical tradition.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** logistics/trans-shipment professional culture (Norfolk heritage).
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** logistics/trans-shipment professional culture (Norfolk heritage), cold/dry
   coastal-Alaska practical tradition.
 
 #### Deep Culture findings
 
-**Concepts of:** given both this population's sheer numeric dominance and the city's own genuine
-"first family, first birth" founding mythology, family continuity and generational identity read as a
-core civic value here, blended directly with the port-hub's logistics-professional register — "we are
-where Tepenia's own genesis story happened" as a lived, not just historical, sense of self.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: professional, logistics-oriented exchange,
+  echoing Norfolk's own trans-shipment-port culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: given both this population's sheer numeric dominance and the city's own
+  genuine "first family, first birth" founding mythology, family continuity and generational identity
+  read as a core civic value here, blended directly with the port-hub's logistics-professional register
+  — "we are where Tepenia's own genesis story happened" as a lived, not just historical, sense of self.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: family continuity and generational identity treated as a
+  core civic value, per the founding-mythology concept above.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -114,14 +152,52 @@ where Tepenia's own genesis story happened" as a lived, not just historical, sen
 by Santos (civic type, same major Brazilian port match used at Sanay), a strong match.
 
 #### Surface Culture findings
-- **Music, Food:** the same communal warmth and festive-counterpoint register established at Sanay,
+- **Food:** the same communal warmth and festive-counterpoint register established at Sanay,
   reappearing here given a comparably large population share (nearly a fifth of the city).
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** the same festive-counterpoint register established at Sanay.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** the same communal warmth and festive-counterpoint register established at Sanay,
+  reappearing here given a comparably large population share.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** the same festive-counterpoint register established at Sanay.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** relational, festive counterpoint to the logistics-driven dominant register, consistent
-with the Sanay precedent — this population's imprint reads similarly wherever it holds a strong
-port-city match rather than a strong homeland-region match.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: warm, openly expressive register, consistent with the Sanay
+  precedent.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: relational, festive counterpoint to the logistics-driven dominant
+  register, consistent with the Sanay precedent — this population's imprint reads similarly wherever it
+  holds a strong port-city match rather than a strong homeland-region match.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -132,19 +208,56 @@ by Veracruz (civic type), Mexico's own historic major Gulf port and a strong mat
 of a substantial Mexican population anywhere in this project's Phase 1c work so far.**
 
 #### Surface Culture findings
+- **Food:** Veracruz's own real coastal-Gulf culinary tradition, distinct from Brazil's own festive
+  register.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced beyond the son jarocho tradition below.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** Veracruz's own real, specific *son jarocho* musical tradition — a distinct festive
   register from Brazil's own, deliberately not flattened into an undifferentiated "Latin warmth"
   category despite both populations sharing the general port-city-festivity structural role.
+- **Performances:** son jarocho performance tradition, echoing Veracruz's own real musical heritage.
+- **Dances:** son jarocho-associated dance tradition (zapateado footwork), echoing Veracruz's own real
+  musical heritage.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
 - **Literature:** Veracruz holds a genuine real-world distinction as Mexico's oldest and most
   historically significant port (the first Spanish colonial landing site in Mexico) — a "historic,
   foundational port" resonance that maps unusually well onto Esperanza's own founding-family mythology.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** a historically-minded civic pride distinct from Brazil's more purely festive register
-— Veracruz's own real weight as a foundational, historically significant port lends this population's
-presence at Esperanza a "we've always been where important firsts happen" resonance that echoes,
-rather than duplicates, the city's own founding-birth story.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a historically-minded civic pride distinct from Brazil's more purely
+  festive register — Veracruz's own real weight as a foundational, historically significant port lends
+  this population's presence at Esperanza a "we've always been where important firsts happen" resonance
+  that echoes, rather than duplicates, the city's own founding-birth story.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -155,14 +268,52 @@ excellent match, reinforced by real cultural/political ties to this exact region
 type — same major UK trans-shipment port match used at Sanay). Double-strong.
 
 #### Surface Culture findings
-- **Language, Fashion:** a hybrid register — Falklands-style small, tightly-knit maritime-community
-  culture blended with Felixstowe's large-scale professional logistics culture.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** a hybrid register — Falklands-style small, tightly-knit maritime-community culture
+  blended with Felixstowe's large-scale professional logistics culture.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** a hybrid register — Falklands-style small, tightly-knit maritime-community culture
+  blended with Felixstowe's large-scale professional logistics culture.
 
 #### Deep Culture findings
 
-**Concepts of:** "small community, big logistics responsibility" as a lived self-concept — fitting for
-a city whose whole civic identity pairs an intimate founding-family story with a genuinely major
-trans-shipment function.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: close-knit, familiar interaction, echoing the Falkland
+  Islands' own small maritime-community culture.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: "small community, big logistics responsibility" as a lived self-concept
+  — fitting for a city whose whole civic identity pairs an intimate founding-family story with a
+  genuinely major trans-shipment function.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -181,14 +332,54 @@ undertaking. No population anywhere else in this project has this many convergin
 over its host city's identity at once.
 
 #### Surface Culture findings
-- **Literature, Performances:** an "authentic gateway to Antarctica" civic identity, echoing Ushuaia's
-  own real touristic/expedition-departure-point character.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day, alongside informal observance of the city's own "first
+  child born" founding anniversary, given Argentina's literal historical tie to that event.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** an "authentic gateway to Antarctica" civic identity, echoing Ushuaia's own real
+  touristic/expedition-departure-point character.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** an "authentic gateway to Antarctica" civic identity, echoing Ushuaia's own real
+  touristic/expedition-departure-point character.
+- **Language:** "fin del mundo" (end of the world) framing persists informally, echoing Ushuaia's own
+  real civic branding.
 
 #### Deep Culture findings
 
-**Concepts of:** genuine, literal ownership of Esperanza's own founding story — not just a thematic
-echo the way most population-to-city matches in this project work, but a direct historical throughline
-from a real event to this population's own presence and self-understanding here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: genuine, literal ownership of Esperanza's own founding story — not just
+  a thematic echo the way most population-to-city matches in this project work, but a direct historical
+  throughline from a real event to this population's own presence and self-understanding here.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding-family
+  role, given the real 1978 "first child born in Antarctica" event's Argentine origin.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
