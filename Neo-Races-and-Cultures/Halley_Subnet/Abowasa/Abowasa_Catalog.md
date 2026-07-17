@@ -294,6 +294,22 @@ story gets told and retold.
 
 **Working name: "Abowasan."** *(Placeholder, same status as Sanay's "Sanayan.")*
 
+**Philosophical core, folded in 2026-07-16 from `City_Vision_Notes/Abowasa.md`:** Abowasa shares
+Sanay's own "Competence Without Commentary" faction, but holds a genuinely distinct position within
+it — where Sanay's angle is refusing exceptionalism about its own survival, Abowasa's is that
+**"competence is intimacy management."** This is a precise, sharper crystallization of the
+domestic-first reading below: in a small town with "no anonymity to hide behind" (per the city's own
+established "Two Peoples, One Small Place" identity, negotiated household by household), being
+reliable and competent *is*, in practice, the same skill as managing close, unavoidable personal
+relationships well. Worth treating as the city's actual guiding civic value.
+
+**Founding detail corrected/sharpened 2026-07-16:** the real Aboa (Finnish) and Wasa (Swedish)
+stations were both built for year-round occupation but only ever staffed seasonally, purely for
+budget/staffing reasons, not any structural limitation — the infrastructure was never the obstacle to
+permanent habitation, only the funding decision, which stopped applying once exiles needed an actual
+home rather than a seasonal research post. A small, specific, usable detail for why the merger into one
+permanent settlement was physically easy once it needed to happen.
+
 Where Sanay's public identity is loud and function-first (the port, the schedule, the endurance
 mythology), Abowasan culture is quiet and domestic-first almost by structural necessity — this is a
 city whose working population largely leaves each day for Sanay's port or Troll's airfield, so its own
