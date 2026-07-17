@@ -152,14 +152,52 @@ well-anchored after all, while Canada turned out to be weaker than first written
 modest match) and Memphis, Tennessee (civic type — the same major air-cargo-hub match used at Troll).
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** air-cargo logistics culture, the third appearance of a Memphis-derived match in this
   project (after Troll and Byrd) — expected, given Memphis's outsized real-world role as the archetypal
   global air-cargo hub.
 
 #### Deep Culture findings
 
-**Concepts of:** aviation-logistics competence as a primary status marker, echoing the same value found
-at Troll.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: precise, schedule-oriented exchange, echoing
+  Memphis's own real air-cargo-hub culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: aviation-logistics competence as a primary status marker, echoing the
+  same value found at Troll.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: aviation-logistics competence treated as the primary marker of
+  standing, echoing the same value found at Troll.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -173,12 +211,51 @@ earlier draft of this entry incorrectly borrowed Spain's Vigo match from Juan Ca
 gap; corrected back to honestly weak.
 
 #### Surface Culture findings
-- **Food, Music:** general Spanish coastal/maritime cultural baseline persists without local-specific
-  texture.
+- **Food:** general Spanish coastal/maritime cultural baseline persists without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Spanish coastal/maritime cultural baseline persists without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly, consistent with Italy's treatment at Juan Carlos — not padded out further.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  coastal/maritime baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly, consistent with Italy's treatment at Juan Carlos — now itemized per the full depth
+standard rather than condensed, but no invented texture added.)*
 
 ---
 
@@ -190,14 +267,54 @@ shipping-partner corridor that anchors Marambio's real port function; the earlie
 entry here was corrected for the same reason as Spain's above.
 
 #### Surface Culture findings
-- **Food, Music:** general Mexican cultural baseline persists without local-specific texture, distinct
-  from Spain's own baseline in the same way Mexico and Brazil were kept deliberately distinct at
-  Esperanza, even without a strong local anchor to sharpen either further here.
+- **Food:** general Mexican cultural baseline persists without local-specific texture, distinct from
+  Spain's own baseline in the same way Mexico and Brazil were kept deliberately distinct at Esperanza,
+  even without a strong local anchor to sharpen either further here.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Mexican cultural baseline persists without local-specific texture, distinct from
+  Spain's own baseline.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly, for the same reason as Spain above.)*
-carrying Veracruz's own distinct historic-port gravitas rather than Vigo's fishing-port character.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general cultural
+  baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly, for the same reason as Spain above — now itemized per the full depth standard rather
+than condensed, but no invented texture added.)*
 
 ---
 
@@ -213,12 +330,48 @@ longer treats it as a second civic-identity anchor — East Midlands Airport car
 weight here.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** air-freight professional culture (East Midlands heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** aviation-logistics precision, converging with the USA and Germany populations' own
-entries below via a genuine, strong City-Type match.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: aviation-logistics precision, converging with the USA and Germany
+  populations' own entries below via a genuine, strong City-Type match.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -235,13 +388,53 @@ and this entry is revised to reflect that honestly rather than substituting the 
 cultural anchor it doesn't actually supply.
 
 #### Surface Culture findings
-- **Food, Music:** general Canadian cultural baseline persists without local-specific texture, given
-  the weak City-Type match.
+- **Food:** general Canadian cultural baseline persists without local-specific texture, given the weak
+  City-Type match.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Canadian cultural baseline persists without local-specific texture, given the weak
+  City-Type match.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general cultural
+  baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
 *(Thin, honestly — consistent with how weak City-Type matches are treated elsewhere in this project,
-now that the fossil-bed geography isn't being used to paper over it.)*
+now itemized per the full depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
@@ -255,16 +448,55 @@ China's Belt and Road Initiative — mapping onto both of Marambio's own confirm
 and maritime shipping) at once, not just one half.
 
 #### Surface Culture findings
-- **Language, Literature:** transcontinental-corridor logistics culture — Duisburg's own real identity
-  as a terminus point where distant trade networks physically converge, echoing Marambio's own role as
-  the connecting node between South American shipping and the Weddell Sea's Atlantic-coastal network.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** transcontinental-corridor logistics culture — Duisburg's own real identity as a
+  terminus point where distant trade networks physically converge, echoing Marambio's own role as the
+  connecting node between South American shipping and the Weddell Sea's Atlantic-coastal network.
+- **Language:** transcontinental-corridor logistics culture — Duisburg's own real identity as a
+  terminus point where distant trade networks physically converge.
 
 #### Deep Culture findings
 
-**Concepts of:** dual-mode logistics competence as a single, unified value rather than two separate
-ones — this population's real-world precedent doesn't split aviation pride from maritime pride the way
-the rest of this city's populations do; Duisburg's own real character holds both at once, giving this
-population's civic presence an unusually integrated relationship to Marambio's own twin functions.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: dual-mode logistics competence as a single, unified value rather than
+  two separate ones — this population's real-world precedent doesn't split aviation pride from maritime
+  pride the way the rest of this city's populations do; Duisburg's own real character holds both at
+  once, giving this population's civic presence an unusually integrated relationship to Marambio's own
+  twin functions.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: dual-mode logistics competence treated as a genuine marker of
+  standing, echoing Duisburg's own real integrated identity.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -276,14 +508,53 @@ single-mission City-Types) — but Santos (secondary port City-Type, added 2026-
 the same major Brazilian port used at Sanay and Esperanza.
 
 #### Surface Culture findings
-- **Food, Music:** the same communal warmth and festive-counterpoint register established at Sanay and
+- **Food:** the same communal warmth and festive-counterpoint register established at Sanay and
   Esperanza, reappearing here via the port connection rather than the aviation/paleontology function.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** the same festive-counterpoint register established at Sanay and Esperanza.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** the same communal warmth and festive-counterpoint register established at Sanay and
+  Esperanza, reappearing here via the port connection.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** the same festive-counterpoint register established at Sanay and Esperanza.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** relational, festive counterpoint via the regional-port route, consistent with Brazil's
-own established "strong at large organic port cities" pattern — the aviation/paleontology weakness
-still holds, but no longer leaves this population without any anchor at all.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: warm, openly expressive register, consistent with the Sanay and
+  Esperanza precedents.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: relational, festive counterpoint via the regional-port route, consistent
+  with Brazil's own established "strong at large organic port cities" pattern — the
+  aviation/paleontology weakness still holds, but no longer leaves this population without any anchor at
+  all.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
