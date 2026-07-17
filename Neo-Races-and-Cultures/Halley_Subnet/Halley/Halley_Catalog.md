@@ -115,17 +115,25 @@ type — a real highway waypoint town with essentially no independent economy). 
 - **Food:** functional, easily-relocated food storage and preparation, echoing Delta communities'
   adaptation to recurring subsidence/flood cycles; roadside-hospitality food culture for travelers
   passing through, echoing Coldfoot's own waypoint identity.
-- **Festivals:** a communal "relocation" observance tied to the literal, periodic towing of Halley's
-  own ski-mounted modules to a new position — genuinely dramatic and meaningful rather than symbolic,
-  since it's a real recurring civic event unique to this city's physical design.
+- **Festivals:** **corrected 2026-07-16, per `City_Vision_Notes/Halley.md`** — the relocation isn't a
+  periodic towing event, it's an *active, continuous* system: each module's ski-mounted platform is
+  fitted with digging tracks that constantly propel the structure toward the mainland, staying ahead of
+  the ice shelf's own natural seaward drift, rather than waiting for a crisis relocation. Any communal
+  observance here would be less a single "moving day" spectacle and more a continuous, background civic
+  awareness — impermanence as routine collective business, not crisis, matching the city's own official
+  identity, "Built to Move."
+- **Arts & Crafts:** *(added 2026-07-16)* daily transport by snowmobile, humans and robots alike —
+  genuinely distinct from every other Halley subnet city's transport culture, worth a mention as a
+  concrete, visual detail.
 
 #### Deep Culture findings
 
 **Concepts of:** self and home defined by adaptability rather than a fixed structure — "home is what
 you rebuild," not a permanent place, echoing Delta communities' own resilience culture directly.
-**Concepts of time:** organized around relocation cycles and ice-movement rate rather than a daily or
-shift-based rhythm, a genuinely distinct time-sense from every other Halley subnet city cataloged so
-far.
+**Concepts of time:** organized around the *continuous* propulsion system's grinding motion and
+ice-movement rate rather than a daily or shift-based rhythm — a genuinely distinct time-sense from
+every other Halley subnet city cataloged so far, now more precisely "always slowly moving" rather than
+"periodically relocated."
 
 **Attitudes toward:** travelers and strangers — strong hospitality norms for people passing through,
 echoing Coldfoot's own real culture as a highway rest-stop community.
@@ -229,7 +237,22 @@ postures toward the same underlying physical fact.
 
 ## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
 
-**Working name: "Halleyan."** *(Placeholder, same status as the other three cities' working names.)*
+**Working name: "Halleyan."** *(Placeholder, same status as the other three cities' working names.
+Note the city's own official second-interwar identity, per `City_Vision_Notes/Halley.md`, is **"Built
+to Move"** — impermanence as routine collective civic business, not crisis.)*
+
+**Philosophical core, folded in 2026-07-16:** Halley's own established faction, "The Methodologists,"
+frames the city's whole outlook in one line: *"rigor is whatever survives being wrong about the ground
+under your feet."* This is a genuinely precise crystallization of the Deep Culture findings below —
+every population's own adaptability-and-engineering response to instability is, at bottom, this same
+philosophy in practice. Worth treating as the city's actual guiding civic value, not just an incidental
+faction slogan.
+
+**Corrected 2026-07-16, per Vision Notes:** Halley's relocation isn't a periodic "moving day" event —
+it's continuous, ongoing propulsion via digging tracks built into every module's platform, staying
+ahead of the ice shelf's own drift. This sharpens the "impermanence as routine, not crisis" reading
+throughout this file; Halley's populations don't periodically brace for a move, they live inside one
+continuously.
 
 Halley is unique among the cities cataloged so far in having its civic identity built around
 impermanence on *two* independent axes at once: the physical ground itself moves (the ice shelf,
