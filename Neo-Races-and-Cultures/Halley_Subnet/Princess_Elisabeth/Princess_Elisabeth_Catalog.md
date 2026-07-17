@@ -118,14 +118,52 @@ windiest city) and Tsukuba Science City (civic type — Japan's dedicated scienc
 strong; the most double-anchored population at this city.
 
 #### Surface Culture findings
-- **Fashion, Arts & Crafts:** precision engineering adapted specifically for extreme-wind survival,
-  echoing Tsukuba's research-town heritage.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** precision engineering adapted specifically for extreme-wind survival, echoing Tsukuba's
+  research-town heritage.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** precision engineering adapted specifically for extreme-wind survival, echoing
+  Tsukuba's research-town heritage.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** precision-engineering technical vocabulary, echoing Tsukuba's research-town heritage.
 
 #### Deep Culture findings
 
-**Concepts of:** wind exposure treated as a mastered, even civically prideful condition rather than
-pure hardship — echoing Wakkanai's own real identity as a town that has built its whole civic character
-around chronic severe wind rather than merely enduring it.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: wind exposure treated with a composed, mastered civic bearing
+  rather than visible anxiety, echoing Wakkanai's own real identity.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: wind exposure treated as a mastered, even civically prideful condition
+  rather than pure hardship — echoing Wakkanai's own real identity as a town that has built its whole
+  civic character around chronic severe wind rather than merely enduring it.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -137,15 +175,53 @@ site of the real world surface wind-speed record, a staffed observatory communit
 double-anchored population.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
 - **Literature:** an observational/data-collection culture, echoing Mount Washington's own real
   identity as a staffed scientific-frontier weather station rather than just an extreme-wind site.
+- **Language:** observational/meteorological technical vocabulary, echoing Mount Washington's own
+  scientific-frontier heritage.
 
 #### Deep Culture findings
 
-**Concepts of:** extreme conditions framed as a scientific frontier rather than pure hardship —
-converging closely with Japan's own wind-as-mastery value above, but arrived at via an
-observation/frontier-science register rather than Japan's civic-resilience register. Two co-Primary
-populations reaching the same core value from two genuinely different directions.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: observation- and data-oriented exchange,
+  echoing Mount Washington's own scientific-frontier culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: extreme conditions framed as a scientific frontier rather than pure
+  hardship — converging closely with Japan's own wind-as-mastery value above, but arrived at via an
+  observation/frontier-science register rather than Japan's civic-resilience register. Two co-Primary
+  populations reaching the same core value from two genuinely different directions.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -157,11 +233,52 @@ now-confirmed pattern (fourth instance): Brazil matches weakly at small purpose-
 settlements.
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora baseline persists, without local-specific texture.
+- **Food:** general Brazilian-diaspora baseline persists, without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Brazilian-diaspora baseline persists, without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin by the same honest logic established at Belgrano/Halley/Neumayer — not padded out further.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: general Brazilian-diaspora warmth persists as a baseline
+  register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin by the same honest logic established at Belgrano/Halley/Neumayer — now itemized per the full
+depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
@@ -173,14 +290,54 @@ nuclear/fusion-energy research site; notably the actual real-world home of the I
 fusion project).
 
 #### Surface Culture findings
-- **Literature, Performances:** a big-science, international-collaboration research culture, echoing
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** a big-science, international-collaboration research culture, echoing
   Cadarache/ITER's own real character as a multinational energy megaproject.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** a big-science, international-collaboration research culture, echoing Cadarache/ITER's
+  own real character as a multinational energy megaproject.
+- **Language:** international big-science collaboration vocabulary, echoing Cadarache/ITER's own real
+  multinational-megaproject character.
 
 #### Deep Culture findings
 
-**Concepts of:** energy research framed as a grand, collaborative, civilization-scale project — a
-genuinely distinct register from Japan/USA's personal-mastery-of-harsh-conditions framing, and an
-especially fitting resonance given Princess Elisabeth's own genuinely multinational population.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: internationally-oriented, collaborative
+  exchange, echoing Cadarache/ITER's own real multinational-megaproject culture.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: energy research framed as a grand, collaborative, civilization-scale
+  project — a genuinely distinct register from Japan/USA's personal-mastery-of-harsh-conditions framing,
+  and an especially fitting resonance given Princess Elisabeth's own genuinely multinational population.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: cooperation framed at civilization scale, echoing Cadarache/ITER's own
+  real multinational-collaboration ethos.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -191,12 +348,49 @@ Highlands, or King Island (geography — a solid match) — no single dedicated 
 domestically (City-Type — weak).
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** storm-hardened Tasmanian coastal-highland practical wear.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** practical, grounded wind-adaptation resilience — less tied to the "big science" framing
-that dominates the two Primary populations' entries above, given the weaker City-Type match here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: practical, grounded wind-adaptation resilience — less tied to the "big
+  science" framing that dominates the two Primary populations' entries above, given the weaker City-Type
+  match here.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -207,15 +401,52 @@ weather-station community (geography) and Freiburg (civic type — Germany's rea
 pioneer city, nicknamed "Solar City").
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** solar/renewable-tech design culture, echoing Freiburg's own real reputation as an
   eco-city.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** solar/renewable-energy technical vocabulary, echoing Freiburg's own real "Solar City"
+  reputation.
 
 #### Deep Culture findings
 
-**Concepts of:** sustainability and environmental values as a driving research motivation specifically
-— a distinct "green idealism" register, different from Japan/USA's frontier-mastery framing and
-France's big-collaborative-science framing. A third genuinely distinct flavor of "why we do energy
-research here."
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: sustainability and environmental values as a driving research motivation
+  specifically — a distinct "green idealism" register, different from Japan/USA's frontier-mastery
+  framing and France's big-collaborative-science framing. A third genuinely distinct flavor of "why we
+  do energy research here."
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -228,13 +459,51 @@ at Neumayer). Both strong despite the small population share — now a well-esta
 finding requiring fresh derivation each time.
 
 #### Surface Culture findings
-- **Literature, Arts & Crafts:** Harwell's own real campus-research culture, consistent in flavor with
-  its own entry at Neumayer.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Harwell's own real campus-research culture, consistent in flavor with its own
+  entry at Neumayer.
+- **Literature:** Harwell's own real campus-research culture, consistent in flavor with its own entry
+  at Neumayer.
+- **Language:** research-campus technical vocabulary, echoing Harwell's own entry at Neumayer.
 
 #### Deep Culture findings
 
-**Concepts of:** research-community prestige, converging with the broader energy-research values shared
-across this city's other populations, contributing genuine texture despite the small population share.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: research-community prestige, converging with the broader
+  energy-research values shared across this city's other populations, contributing genuine texture
+  despite the small population share.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
