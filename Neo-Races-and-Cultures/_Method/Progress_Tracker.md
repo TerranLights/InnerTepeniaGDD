@@ -27,13 +27,18 @@ was finalized and should be checked against it too.
 
 **FULL RE-AUDIT NOW REQUIRED, superseding the narrower "Deep Culture thinness" flag above:** every city
 completed before Davis — all 8 Halley subnet cities, all 8 Palmer subnet cities, and Casey — needs to be
-checked against the full 12+17-item depth standard, not just spot-checked for thinness. This is a
-substantially larger undertaking than the earlier research-completeness audit and has not yet started.
-Recommended approach: work through subnet by subnet in the same order already established (Halley,
-then Palmer, then Casey), checking each nation entry against the full template checklist and expanding
-any condensed or dropped items. Track progress per-city below as it happens, using a distinct marker
-(e.g. a note appended to each city's existing tracker line) so it's clear which cities have been
-brought up to the new depth standard and which haven't yet.
+checked against the full 12+17-item depth standard, not just spot-checked for thinness. Recommended
+approach: work through subnet by subnet in the same order already established (Halley, then Palmer,
+then Casey), checking each nation entry against the full template checklist and expanding any condensed
+or dropped items.
+
+**HALLEY SUBNET RE-AUDIT COMPLETE, 2026-07-16.** All 8 Halley subnet cities (Sanay, Abowasa, Belgrano,
+Halley, Lazar, Neumayer, Princess Elisabeth, Troll) have been gap-filled to the full 12+17-item depth
+standard — every Surface Culture item and every Deep Culture sub-item now individually addressed for
+every Primary/Significant-tier nation in every city, using a "gap-fill" technique (adding only missing
+items, preserving existing substantive content) rather than full rewrites. Each city committed
+individually. **Palmer subnet (8 cities: Esperanza, Juan Carlos, Marambio, Palmer City, Port Lockroy,
+Rothera, Sejong, Signy) and Casey still need this same pass** — next in the recommended order.
 
 **RETROACTIVE-AUDIT GAP FULLY RESOLVED, 2026-07-16.** All 10 cities completed before the process
 requirement existed (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Troll,
