@@ -293,6 +293,24 @@ heavily than the Highland angle, consistent with how that imbalance was already 
 **Working name: "Sanayan."** *(Placeholder — not yet confirmed as final, offered here as a working
 label so the synthesis below has something to refer to.)*
 
+**Philosophical core, folded in 2026-07-16 from `City_Vision_Notes/Sanay.md`:** Sanay's own established
+faction, "Competence Without Commentary," sharpens the "endures, wasn't spared" framing already used
+throughout this file into something more specific — an *active refusal* of exceptionalism, not just
+quiet endurance. Sanay's bedrock survival isn't framed by its own residents as luck or specialness
+worth discussing; it's simply what happened, and dwelling on it would itself be a kind of vanity the
+city's function-first culture doesn't have room for. Worth treating as the sharper, more precise
+version of the endurance-mythology reading below.
+
+**Human-robot labor dynamic, folded in 2026-07-16:** Vision Notes establishes that Sanay's docks,
+truckyards, and business district run on roughly equal human/robot labor, with robots holding slightly
+better positions — a quiet, non-resentful reflection of Tepenia being robots' own country first. Robots
+at Sanay hold genuine, unforced appreciation for the humans working alongside them, aware of what they
+gave up in their Upper Earth homelands to be here. This was later generalized project-wide as
+Tepenia's own default human-robot baseline ("egalitarian, skewed in favor of robots" — see
+`Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`), but Sanay is where it was
+first established, worth remembering as this city's own specific contribution to that wider canon
+rather than treating it as generic background.
+
 Sanayan culture reads as a city with a **disciplined, function-first public face and a warmer private
 interior** — almost literally the same duality as its own bedrock-versus-ice-shelf founding metaphor,
 but expressed demographically instead of geologically. The German-descended population (Primary, a
