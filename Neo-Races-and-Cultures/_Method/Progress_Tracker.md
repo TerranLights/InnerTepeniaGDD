@@ -126,9 +126,22 @@ founding-nation-supplies-defining-texture pattern common elsewhere; Cape Adare a
 distinctiveness concentrates in the geography-match dimension rather than in values/worldview) — now
 confirmed twice, worth treating as a recognizable city type going forward.
 
-The remaining 4 cities (all of Mawson subnet — Dome Fuji, Mawson, Sayowa; and Byrd) still have unstarted
-Per-Nation Entries — this is still the genuinely expensive phase, though now a small remainder. Mirrors
-the checklist convention already established for `Cities/Full_City_Integrity_Check.md`.
+**The entire Mawson Subnet is now also Phase 1c complete** (all 3 cities, 2026-07-17 — Dome Fuji,
+Mawson, Sayowa), drafted at the full 12+17-item depth standard from the start throughout. Notable
+findings: Dome Fuji is 100% robot (0 humans / 55,072 robots, same convention as Kunlun) and is
+fundamentally a religious/pilgrimage city — Ice-Cold Buddhism, not ice-core research, is its primary
+identity — with China holding the single most richly anchored population found anywhere in the entire
+project (the strongest geography match in the project, a direct Buddhist-pilgrimage City-Type match,
+and Potala Palace's own uniquely precise altitude-plus-religion precedent); Mawson is Tepenia's
+honeymoon destination for newly-married human-robot couples, with South Korea's Jeju Island supplying
+the single most mechanistically precise real-world match found anywhere in this project; Sayowa's UK
+population (Felixstowe) supplies an equally precise match for the city's own "small population,
+outsized structural weight" central tension, while Japan holds founding-operator heritage there (the
+real Shōwa Station) despite the smallest population share.
+
+Only **1 city** remains with unstarted Per-Nation Entries: **Byrd**, the sole Byrd subnet city — the
+final city in the entire 35-city project. Mirrors the checklist convention already established for
+`Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
 
@@ -153,10 +166,10 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [x] Scott *(PHASE 1C COMPLETE 2026-07-17 — quiet counterpart to Fort McMurdo, Hut Point its most sacred civic site; six of eight populations hold a genuine national-remembrance-site match; folds in the previously-uncatalogued volcanic-material-collection industry from Specs/Scott.md)*
 - [x] Zukelli *(PHASE 1C COMPLETE 2026-07-17, last Janbogo subnet city — destroyed city, findings describe pre-war culture in present tense; every population anchors to a real food/hospitality-culture city; Italy's founding-operator heritage explicitly not the sole source of the city's genre-diverse music scene)*
 
-## Mawson Subnet
-- [b] Dome Fuji *(fundamentally, foundationally a religious/pilgrimage city — established by and for the Ice-Cold Buddhists; NOT a co-equal dual type with its ice-core research economy, which is a genuine but distant second — reinforced by the developer 2026-07-16)*
-- [b] Mawson
-- [b] Sayowa
+## Mawson Subnet — FULLY PHASE 1C COMPLETE, 2026-07-17 (all 3 cities, drafted at full 12+17 depth from the start)
+- [x] Dome Fuji *(fundamentally, foundationally a religious/pilgrimage city — established by and for the Ice-Cold Buddhists; NOT a co-equal dual type with its ice-core research economy, which is a genuine but distant second — reinforced by the developer 2026-07-16; PHASE 1C COMPLETE 2026-07-17 — 100% robot, heritage-tracking framing; China holds the single most richly anchored population found anywhere in the project)*
+- [x] Mawson *(PHASE 1C COMPLETE 2026-07-17 — Tepenia's honeymoon destination for human-robot couples; South Korea's Jeju Island match is the single most precise real-world precedent found anywhere in the project)*
+- [x] Sayowa *(PHASE 1C COMPLETE 2026-07-17, last Mawson subnet city — UK anchored via Felixstowe, mechanistically matching the city's "small population, outsized structural weight" tension; Japan holds founding-operator heritage via the real Shōwa Station)*
 
 ## Mirny Subnet — FULLY PHASE 1C COMPLETE, 2026-07-16 (all 8 cities, drafted at full 12+17 depth from the start)
 - [x] Casey *(the project's own second worked example for the City-Type Parallels category — nationally famous for "Splinters," its huge live-music bar; PHASE 1C COMPLETE 2026-07-16 — first Mirny subnet city; real founding tension is destination-vs-waypoint (not entertainment-district generically), USA triple-anchored via Flagstaff/Memphis/Reno; DEEP CULTURE QUALITY BAR RAISED this city — full multi-field Deep Culture entries required per developer feedback, see quality-bar note in header; later re-audited/itemized into the full 12+17-item standard, 2026-07-16)*
