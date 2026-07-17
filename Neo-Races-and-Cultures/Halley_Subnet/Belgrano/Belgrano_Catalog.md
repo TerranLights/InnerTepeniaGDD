@@ -128,33 +128,66 @@ culture that produced its own music scene). All three line up cleanly.
 #### Surface Culture findings
 - **Food:** hearty, portable frontier food (Alaska heritage) alongside blue-collar diner/quick-service
   food culture (Detroit auto-town tradition) — fast, functional eating between shifts.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no grand civic spectacle; workshop/hangar open-house-style gatherings centered on
+  showing off a finished repair or build, echoing garage-culture show-and-tell traditions.
+- **Fashion:** rugged utilitarian wear spanning both registers — bush-pilot/fisherman gear and
+  auto-shop coveralls read as the same basic garment logic.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** **Garage Rock** *(corrected 2026-07-16 to the actual confirmed canon genre name, per
   `City_Vision_Notes/Belgrano.md` — raw, DIY, unpolished, heard from open windows and doors of
   restaurants and social venues)* — a genuinely different register from Casey's polished, purpose-built
   "Splinters"; this is a *made*, not staged, music culture, and Detroit's own real garage-rock lineage
   makes this population's connection to it especially direct.
-- **Fashion:** rugged utilitarian wear spanning both registers — bush-pilot/fisherman gear and
-  auto-shop coveralls read as the same basic garment logic.
+- **Performances:** informal, unstaged — Garage Rock is heard from open windows and doors rather than
+  performed on a dedicated stage, consistent with the "made, not staged" reading above.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** *(added 2026-07-16)* **the Rastra/Arrastradora vehicle lineage** — Belgrano
   invented these vehicles for the original Byrd Expedition (Byrd Station discovery, an all-robot crew),
   and modest but real Rastra-repair specialization persists as a point of local pride — "for anything
   with an engine, there's reliably somebody in Belgrano who can repair it."
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** aviation/logistics jargon (Anchorage heritage) blended with mechanic/garage slang
   (Detroit heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** self defined through demonstrated multi-skilled competence — being able to fix, build,
-fly, or ship is high-status, echoing Detroit's maker culture, Anchorage's logistics-hub versatility, and
-Alaska's frontier self-reliance all at once.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: direct, task-oriented exchange — talk tends
+  to organize around a shared job at hand (a repair, a shipment) rather than open-ended socializing.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** work and craft as a source of genuine pride — "the one who can fix it" holds real
-informal status. Cooperation dominates given the harsh, isolated setting (frontier mutual aid), with a
-secondary layer of good-natured competitive pride over whose garage or workshop turns out the best
-work.
+**Notions of:**
+- Courtesy and manners: courtesy expressed through reliability — showing up, following through, and
+  not leaving a job half-finished.
+- Friendship, leadership: leadership earned through demonstrated skill rather than title — "the one who
+  can fix it" naturally ends up informally in charge of a given task.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-**Approaches to:** problem-solving as fundamentally hands-on and improvisational — try it, build it,
-fix it, rather than escalate it through formal channels first.
+**Concepts of:**
+- Self, time, past and future: self defined through demonstrated multi-skilled competence — being able
+  to fix, build, fly, or ship is high-status, echoing Detroit's maker culture, Anchorage's logistics-hub
+  versatility, and Alaska's frontier self-reliance all at once.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: work and craft as a source of genuine pride — "the one who can
+  fix it" holds real informal status.
+- Cooperation vs. competition: cooperation dominates given the harsh, isolated setting (frontier mutual
+  aid), with a secondary layer of good-natured competitive pride over whose garage or workshop turns out
+  the best work.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: problem-solving as fundamentally hands-on and
+  improvisational — try it, build it, fix it, rather than escalate it through formal channels first.
 
 ---
 
@@ -168,20 +201,58 @@ read for its garage/workshop character specifically).
 #### Surface Culture findings
 - **Food:** North Sea storm-culture practical fare, alongside Ruhr valley workshop-lunch traditions —
   functional, unpretentious.
-- **Music, Arts & Crafts:** methodical, trained craft tradition — precision-tooling and metalwork
-  carried forward from Ruhr workshop heritage.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** practical, storm-hardy work wear, consistent with the Frisian Islands' own tidal-exposure
+  clothing tradition.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** methodical, trained craft tradition — precision-tooling and metalwork carried forward from
+  Ruhr workshop heritage.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** methodical, trained craft tradition — precision-tooling and metalwork carried
+  forward from Ruhr workshop heritage.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** logistics/scheduling terminology (Hamburg heritage) blended with precision-tooling
+  workshop vocabulary (Ruhr heritage).
 
 #### Deep Culture findings
 
-**Concepts of:** competence understood as *trained and methodical*, a genuine contrast in register with
-the USA population's scrappier DIY competence above — both populations value hands-on skill, but arrive
-at it from different directions (formal apprenticeship-adjacent tradition vs. improvisational
-self-teaching). The two aren't in tension; they read as complementary registers within the same overall
-"maker city" identity.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: storm exposure and harsh conditions treated as a known, manageable
+  operational fact (Frisian Islands heritage) rather than a source of anxiety.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** storm exposure and harsh conditions treated as a known, manageable operational
-fact (Frisian Islands heritage) rather than a source of anxiety — echoed in how Hamburg's own real
-logistics-hub culture treats weather disruption as a routine scheduling variable, not a crisis.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: competence understood as *trained and methodical*, a genuine contrast in
+  register with the USA population's scrappier DIY competence above — both populations value hands-on
+  skill, but arrive at it from different directions (formal apprenticeship-adjacent tradition vs.
+  improvisational self-teaching). The two aren't in tension; they read as complementary registers within
+  the same overall "maker city" identity.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced beyond the trained/
+  methodical framing above.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: echoed in how Hamburg's own real logistics-hub
+  culture treats weather disruption as a routine scheduling variable, not a crisis — problems are
+  planned around, not reacted to.
 
 ---
 
@@ -198,16 +269,55 @@ corridor-level trade relationship. Santos (Brazil's largest port, the same match
 Esperanza, and Marambio) is the anchor.
 
 #### Surface Culture findings
-- **Food, Music:** the same communal warmth and festive-counterpoint register established at Sanay and
+- **Food:** the same communal warmth and festive-counterpoint register established at Sanay and
   Esperanza, now genuinely anchored here via the South America shipping corridor rather than a
   weak/absent local match.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced beyond the general festive-counterpoint
+  register above.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** the same communal warmth and festive-counterpoint register established at Sanay and
+  Esperanza, now genuinely anchored here via the South America shipping corridor.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** a relational, flexible sense of time, now rooted in the actual Marambio-to-Belgrano
-shipping relationship rather than floating as an unanchored general diaspora trait — consistent with
-how this population reads at every other city where it holds a genuine port-trade connection (Sanay,
-Esperanza, Marambio).
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: warmer, more openly expressive register than the surrounding
+  maker-city pragmatism, consistent with how this population reads at Sanay and Esperanza.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a relational, flexible sense of time, now rooted in the actual
+  Marambio-to-Belgrano shipping relationship rather than floating as an unanchored general diaspora
+  trait — consistent with how this population reads at every other city where it holds a genuine
+  port-trade connection (Sanay, Esperanza, Marambio).
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 **Corrected finding:** this was previously flagged as the weakest-anchored population found anywhere in
 the project. That finding no longer holds once the South America shipping-corridor connection (missed
@@ -231,20 +341,54 @@ and strong narrative resonance decoupling (after Abowasa's Germany, and to a les
 founding-vs-present-population gap).
 
 #### Surface Culture findings
-- **Food, Fashion:** crofting-and-fishing practical tradition (Shetland/Orkney heritage), storm-hardy
-  and unpretentious.
+- **Food:** crofting-and-fishing practical tradition (Shetland/Orkney heritage), storm-hardy and
+  unpretentious.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** crofting-and-fishing practical tradition (Shetland/Orkney heritage), storm-hardy and
+  unpretentious.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** skilled-trade industrial craft pride (Birmingham heritage).
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** genuine storm-hardened resilience as a lived, first-hand identity rather than an
-inherited story — of every population at Belgrano, this one's homeland precedent most directly matches
-the city's actual physical conditions, giving it disproportionate authority in shaping Belgrano's own
-"harsh but enduring" self-image despite its small numbers.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** skilled trade work as a source of genuine civic pride (Birmingham heritage),
-converging with both the USA and German populations' own craft-pride values above — a third independent
-route to the same "maker city" center of gravity.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: genuine storm-hardened resilience as a lived, first-hand identity rather
+  than an inherited story — of every population at Belgrano, this one's homeland precedent most directly
+  matches the city's actual physical conditions, giving it disproportionate authority in shaping
+  Belgrano's own "harsh but enduring" self-image despite its small numbers.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: skilled trade work as a source of genuine civic pride (Birmingham
+  heritage), converging with both the USA and German populations' own craft-pride values above — a third
+  independent route to the same "maker city" center of gravity.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
