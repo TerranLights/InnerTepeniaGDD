@@ -95,9 +95,26 @@ needed correction passes; (6) a second "large population, no strong anchor" cate
 Spain/Mexico) distinct from Brazil's settlement-type rule, not yet explained; (7) numeric population
 dominance doesn't determine a city's civic register on its own — Signy's 33.33% USA population still
 produces a quiet, Withdrawn-profile culture because the city's own personality core points that
-direction regardless. The remaining 19 cities' Per-Nation Entries are unstarted; this is still the
-genuinely expensive phase. Mirrors the checklist convention already established for
-`Cities/Full_City_Integrity_Check.md`.
+direction regardless.
+
+**The entire Mirny Subnet is now also Phase 1c complete** (all 8 cities, 2026-07-16 — Casey, Davis,
+Kunlun, Shirayuki, Sinheung, Vostok, Zhongshan, Mirny), drafted at the full 12+17-item depth standard
+from the start throughout (no re-audit backlog created, unlike Halley/Palmer). Notable findings from
+this subnet: Kunlun and Vostok both have zero human residents (100%-robot cities), requiring a
+heritage-tracking rather than lived-experience framing for every nation entry; Zhongshan is the
+developer's own flagship "Zhongshanese" worked example and the only city where the founding operator
+nation stayed demographically Primary unbroken from founding through the present; Shirayuki and
+Sinheung share the identical Jeju-do diplomatic-allocation founding mechanism (to Japan and Korea
+respectively), both nations vindicated as genuinely Primary-tier; and Davis/Mirny required a substantial
+standing cross-file correction (Davis's mining role reassigned to Mirny, resolving a direct conflict
+between Davis's "working city first" Enneagram framing and its same-day "breadbasket of Tepenia"
+City-Type resolution) completed alongside Mirny's own Phase 1c pass, touching six source-of-truth files
+across both cities plus Sinheung's supply-chain description.
+
+The remaining 11 cities (all of Janbogo subnet — Cape Adare, Denison, Dumont d'Urville, Fort McMurdo,
+Janbogo, Scott, Zukelli; all of Mawson subnet — Dome Fuji, Mawson, Sayowa; and Byrd) still have
+unstarted Per-Nation Entries — this is still the genuinely expensive phase. Mirrors the checklist
+convention already established for `Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
 
@@ -127,15 +144,15 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [b] Mawson
 - [b] Sayowa
 
-## Mirny Subnet
-- [x] Casey *(the project's own second worked example for the City-Type Parallels category — nationally famous for "Splinters," its huge live-music bar; PHASE 1C COMPLETE 2026-07-16 — first Mirny subnet city; real founding tension is destination-vs-waypoint (not entertainment-district generically), USA triple-anchored via Flagstaff/Memphis/Reno; DEEP CULTURE QUALITY BAR RAISED this city — full multi-field Deep Culture entries required per developer feedback, see quality-bar note in header)*
-- [b] Davis *(city-type resolved 2026-07-16: a combined ecological/limnological research hub AND Tepenia's foremost sheltered-agriculture/greenhouse city — the "breadbasket of Tepenia," growing from Davis's status as the largest ice-free oasis in the country)*
-- [b] Kunlun *(100% robot population — Phase 1b treated the nation list as heritage-tracking rather than a literal resident population; same caveat carries into Phase 1c)*
-- [b] Mirny
-- [b] Shirayuki
-- [b] Sinheung
-- [b] Vostok *(no true real-world non-polar analog for its extreme-cold/extreme-isolation terrain — flagged, same category as Halley)*
-- [b] Zhongshan *(the developer's own worked example for the whole project — "Zhongshanese" — good candidate for the first full Phase 1c pass)*
+## Mirny Subnet — FULLY PHASE 1C COMPLETE, 2026-07-16 (all 8 cities, drafted at full 12+17 depth from the start)
+- [x] Casey *(the project's own second worked example for the City-Type Parallels category — nationally famous for "Splinters," its huge live-music bar; PHASE 1C COMPLETE 2026-07-16 — first Mirny subnet city; real founding tension is destination-vs-waypoint (not entertainment-district generically), USA triple-anchored via Flagstaff/Memphis/Reno; DEEP CULTURE QUALITY BAR RAISED this city — full multi-field Deep Culture entries required per developer feedback, see quality-bar note in header; later re-audited/itemized into the full 12+17-item standard, 2026-07-16)*
+- [x] Davis *(city-type resolved 2026-07-16: a combined ecological/limnological research hub AND Tepenia's foremost sheltered-agriculture/greenhouse city — the "breadbasket of Tepenia," growing from Davis's status as the largest ice-free oasis in the country; mining role reassigned to Mirny, cross-file corrections completed)*
+- [x] Kunlun *(100% robot population — heritage-tracking framing throughout; USA anchored via NOIRLab/CHESS-CHEXS/MIT, China via literal Kunlun Station namesake tie; PHASE 1C COMPLETE 2026-07-16)*
+- [x] Mirny *(PHASE 1C COMPLETE 2026-07-16, last Mirny subnet city — elevated 2026-07-16 to national-scale top-tier industrial/quarrying hub feeding Sinheung's fabrication-synthesis-chamber manufacturing, alongside its existing eastern-highway construction-materials role; Russia anchored via Yakutsk/Nizhny Tagil, UK via Portland stone quarrying)*
+- [x] Shirayuki *(PHASE 1C COMPLETE 2026-07-16 — Japan anchored via Shibuya/Harajuku, South Korea via Hongdae, Russia via Novosibirsk/Akademgorodok; "A Place Decided For You, Made Into a Place You'd Choose" founding theme)*
+- [x] Sinheung *(PHASE 1C COMPLETE 2026-07-16 — sole Korean founding population via Jeju-do partition; South Korea anchored via Daegu/Córdoba/Volgograd; Russia present as ordinary post-founding immigration, not a second founding population)*
+- [x] Vostok *(no true real-world non-polar analog for its extreme-cold/extreme-isolation terrain — same category as Halley; PHASE 1C COMPLETE 2026-07-16 — 100% robot population, mirrors Kunlun's structure; USA anchored via CRISPR/Materials Innovation Platforms/ChemMatCARS)*
+- [x] Zhongshan *(the developer's own worked example for the whole project — "Zhongshanese"; PHASE 1C COMPLETE 2026-07-16 — only city where the founding operator nation stayed demographically Primary unbroken from founding to present; China anchored via Ningbo-Zhoushan/Vilnius/Yekaterinburg)*
 
 ## Palmer Subnet
 - [x] Esperanza *(PHASE 1C COMPLETE 2026-07-16 — first Palmer subnet city; a "family/genesis city" identity tied to its real founding history; Argentina, despite being the smallest population, holds the strongest combined real-world match plus a literal historical tie to the city's own founding event, found anywhere in the project so far; RETROACTIVELY AUDITED 2026-07-16 — official identity is actually "The Guarded City" (robots built to protect humans, demographic drift read as compact-honored not eroded); added mining as a missed second economic pillar and the rotational-mining-shift/robot-caregiver family structure, the origin point for several now-project-wide facts (artificial womb tech, male-skewed immigration, robot memory-carriers); ninth city in the retroactive-audit gap resolved, one remains: Juan Carlos)*
