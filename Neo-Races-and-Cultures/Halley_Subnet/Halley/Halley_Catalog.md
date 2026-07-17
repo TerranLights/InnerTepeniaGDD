@@ -115,6 +115,7 @@ type — a real highway waypoint town with essentially no independent economy). 
 - **Food:** functional, easily-relocated food storage and preparation, echoing Delta communities'
   adaptation to recurring subsidence/flood cycles; roadside-hospitality food culture for travelers
   passing through, echoing Coldfoot's own waypoint identity.
+- **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** **corrected 2026-07-16, per `City_Vision_Notes/Halley.md`** — the relocation isn't a
   periodic towing event, it's an *active, continuous* system: each module's ski-mounted platform is
   fitted with digging tracks that constantly propel the structure toward the mainland, staying ahead of
@@ -122,21 +123,55 @@ type — a real highway waypoint town with essentially no independent economy). 
   observance here would be less a single "moving day" spectacle and more a continuous, background civic
   awareness — impermanence as routine collective business, not crisis, matching the city's own official
   identity, "Built to Move."
+- **Fashion:** easily-repacked, modular gear — nothing that can't be struck down and moved quickly,
+  echoing the continuous-relocation identity above.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** *(added 2026-07-16)* daily transport by snowmobile, humans and robots alike —
   genuinely distinct from every other Halley subnet city's transport culture, worth a mention as a
   concrete, visual detail.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** roadside-hospitality/waypoint terminology (Coldfoot heritage) — vocabulary oriented
+  around welcoming and moving travelers through rather than settling them.
 
 #### Deep Culture findings
 
-**Concepts of:** self and home defined by adaptability rather than a fixed structure — "home is what
-you rebuild," not a permanent place, echoing Delta communities' own resilience culture directly.
-**Concepts of time:** organized around the *continuous* propulsion system's grinding motion and
-ice-movement rate rather than a daily or shift-based rhythm — a genuinely distinct time-sense from
-every other Halley subnet city cataloged so far, now more precisely "always slowly moving" rather than
-"periodically relocated."
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: warm, welcoming exchange oriented toward
+  people passing through, echoing Coldfoot's own real culture as a highway rest-stop community.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** travelers and strangers — strong hospitality norms for people passing through,
-echoing Coldfoot's own real culture as a highway rest-stop community.
+**Notions of:**
+- Courtesy and manners: hospitality toward strangers as a baseline civic virtue, not an exception —
+  echoing Coldfoot's own waypoint-town culture.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: self and home defined by adaptability rather than a fixed structure —
+  "home is what you rebuild," not a permanent place, echoing Delta communities' own resilience culture
+  directly. Time itself is organized around the *continuous* propulsion system's grinding motion and
+  ice-movement rate rather than a daily or shift-based rhythm — a genuinely distinct time-sense from
+  every other Halley subnet city cataloged so far, now more precisely "always slowly moving" rather than
+  "periodically relocated."
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -148,15 +183,53 @@ type — a real Alaska Highway waypoint town, home to the actual "Sign Post Fore
 travelers have left physical markers of having passed through).
 
 #### Surface Culture findings
-- **Arts & Crafts, Language:** a marker/sign-leaving tradition, echoing Watson Lake's real Sign Post
-  Forest — travelers and residents alike leaving some physical trace at Halley to mark having passed
-  through, a fitting practice for a city whose whole civic identity is transit rather than settlement.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** a marker/sign-leaving tradition, echoing Watson Lake's real Sign Post Forest —
+  travelers and residents alike leaving some physical trace at Halley to mark having passed through, a
+  fitting practice for a city whose whole civic identity is transit rather than settlement.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** a marker/sign-leaving tradition, echoing Watson Lake's real Sign Post Forest, extends
+  into informal naming/labeling conventions for the physical markers themselves.
 
 #### Deep Culture findings
 
-**Concepts of:** the waypoint itself as a kind of memory-keeper — the town may not be a fixed place,
-but the record of who passed through it can be, converging closely with the USA population's own
-adaptability-focused self-concept above while adding a specifically *commemorative* dimension.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: the waypoint itself as a kind of memory-keeper — the town may not be a
+  fixed place, but the record of who passed through it can be, converging closely with the USA
+  population's own adaptability-focused self-concept above while adding a specifically *commemorative*
+  dimension.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -168,11 +241,52 @@ strong City-Type match, consistent with the citywide pattern noted above rather 
 gap this time.
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora communal warmth persists as a baseline (same pattern
-  found at Sanay and, more thinly, Belgrano), without a strong local City-Type anchor to give it
-  Halley-specific texture.
+- **Food:** general Brazilian-diaspora communal warmth persists as a baseline (same pattern found at
+  Sanay and, more thinly, Belgrano), without a strong local City-Type anchor to give it Halley-specific
+  texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Brazilian-diaspora communal warmth persists as a baseline, without a strong local
+  City-Type anchor to give it Halley-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
+
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: general Brazilian-diaspora warmth and openness persists as a
+  baseline register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 **Open flag:** this is the second city (after Belgrano) where Brazil's imprint reads thinner than its
 population share would suggest, though for a different underlying reason each time (at Belgrano, all
@@ -188,13 +302,50 @@ historically reclaimed marshland requiring ongoing engineering to remain habitab
 match.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** land-reclamation engineering tradition, technical and practical in character.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** technical/engineering vocabulary around ground-stabilization work, echoing the Fens'
+  own reclamation-engineering heritage.
 
 #### Deep Culture findings
 
-**Concepts of:** ground stability as a *technical problem to be actively managed*, not merely endured —
-a heavier-engineering register than the USA/Canada populations' adaptability-and-hospitality framing
-above.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: ground stability as a *technical problem to be actively managed*, not
+  merely endured — a heavier-engineering register than the USA/Canada populations' adaptability-and-
+  hospitality framing above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -204,15 +355,52 @@ above.
 — centuries of real engineered land reclamation on shifting tidal terrain) — weak City-Type match.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** engineered-land reclamation tradition, closely paralleling the UK population's own
   Fens-derived practices above.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** polder-management/engineering vocabulary, closely paralleling the UK population's own
+  reclamation-engineering terminology.
 
 #### Deep Culture findings
 
-**Concepts of:** a near-identical heavy-engineering response to ground instability as the UK population
-above — Wadden Sea polder-management and Fens reclamation are genuinely convergent real-world
-traditions, so these two populations' civic contributions likely read as one shared engineering
-register rather than two separate ones.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a near-identical heavy-engineering response to ground instability as the
+  UK population above — Wadden Sea polder-management and Fens reclamation are genuinely convergent
+  real-world traditions, so these two populations' civic contributions likely read as one shared
+  engineering register rather than two separate ones.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -222,16 +410,54 @@ register rather than two separate ones.
 shifting wetland/marsh terrain, populated communities) — weak City-Type match.
 
 #### Surface Culture findings
-- **Food, Arts & Crafts:** Camargue pastoral/wetland tradition — a softer, lower-tech coexistence with
-  shifting ground than the German/UK engineering register (wild-horse husbandry and traditional
-  transhumance rather than heavy reclamation infrastructure).
+- **Food:** Camargue pastoral/wetland tradition — a softer, lower-tech coexistence with shifting
+  ground than the German/UK engineering register.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Camargue pastoral/wetland tradition — wild-horse husbandry and traditional
+  transhumance rather than heavy reclamation infrastructure.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** ground instability as something to be lived *with* rather than actively engineered
-against — a genuine third register alongside the German/UK heavy-engineering approach and the
-USA/Canadian adaptability-and-hospitality approach, giving Halley's population three distinct cultural
-postures toward the same underlying physical fact.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: ground instability as something to be lived *with* rather than actively
+  engineered against — a genuine third register alongside the German/UK heavy-engineering approach and
+  the USA/Canadian adaptability-and-hospitality approach, giving Halley's population three distinct
+  cultural postures toward the same underlying physical fact.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: a working, non-sentimental husbandry relationship with
+  animals, echoing Camargue's own wild-horse tradition — animals as working partners in a shifting
+  landscape, not incidental to it.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
