@@ -1,6 +1,11 @@
 # Port Lockroy — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — fifth Palmer subnet city
+finished. Pre-drafted against `City_Enneagram_Personalities/Palmer_Subnet/Port_Lockroy.md`,
+`City_Vision_Notes/Port_Lockroy.md`, and `Port_Lockroy_Mega_Init.md`'s Inspirational Influences
+research per the process requirement. Synthesis Notes (Phase 2) drafted below as a working first pass,
+not yet developer-confirmed as final.
 
 ---
 
@@ -71,6 +76,149 @@ southernmost active post office).
 
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Port
+Lockroy's own conditions (its layered, never-demolished history and its developing postal-corridor
+role) that a given population's originating patterns fed into or reinforced — never as "this
+population does X because they're from nation Y." Port Lockroy's own founding tension is explicitly
+**not** national (per `Port_Lockroy_Mega_Init.md`: "Port Lockroy's real founding tension was never
+national. It's temporal: living memory versus heritage spectacle") — a genuinely different structural
+shape from every other city cataloged so far.
+
+**Pre-existing research folded in (per the process requirement):** Port Lockroy's Enneagram profile is
+**Feeling (Heart) / Withdrawn / Positive Outlook** — a memory-keeping, legacy-and-meaning identity, but
+quiet and self-contained rather than reaching outward (contrast Palmer City's Feeling/*Assertive*
+profile). `City_Vision_Notes/Port_Lockroy.md` establishes a confirmed development arc: the post office
+is a genuine functioning institution, not a heritage artifact, and Port Lockroy is destined to grow
+into the Palmer subnet's postal-correspondence hub — "Rothera moves the materials; Port Lockroy moves
+the words." `Port_Lockroy_Mega_Init.md`'s Inspirational Influences research grounds this in two
+real-world precedents not tied to any specific nation here: the Roman Cursus Publicus (whose two-tier
+station structure — full waystations vs. quick relay — maps cleanly onto Port Lockroy's own harbor
+trade vs. postal specialization) and the Mongol Yam System (proof a small node can anchor a
+transformative network). A recurring civic value: memory and preference outlasting practicality — the
+old man's preferred Argentine tobacco stays the cultural favorite even once local hydroponic
+alternatives exist.
+
+### USA (Primary, 32.00%)
+
+**Real-world parallel community/communities identified:** Monhegan Island, Maine (geography — a small
+sheltered-harbor match) and Mystic Seaport, Connecticut (civic type — a real preserved maritime-heritage
+town). Also worth noting: Louisville, Kentucky (UPS Worldport) appears in the city's own existing
+research as proof the postal-hub destiny is plausible at full civic scale — not a per-nation match, but
+American in origin, reinforcing this population's own thematic weight here.
+
+#### Surface Culture findings
+- **Literature, Arts & Crafts:** Mystic Seaport's own real preserved-history museum-town culture,
+  echoing Port Lockroy's own "living memory" identity directly.
+
+#### Deep Culture findings
+
+**Concepts of:** legacy and memory-keeping as a way of life, not a project — matching Port Lockroy's own
+established Feeling/Withdrawn/Positive-Outlook civic personality closely: content rather than strained,
+a gentle keeper of the past.
+
+---
+
+### France (Significant, 16.71%, largest Significant population)
+
+**Real-world parallel community/communities identified:** Île de Bréhat, Brittany (geography — a real
+small sheltered harbor island) and Saint-Malo (civic type) — a real walled historic corsair port city
+with deep, visibly layered history, an unusually apt structural match for Port Lockroy's own "never
+demolishes its own history, layers eras on top of each other" identity.
+
+#### Surface Culture findings
+- **Arts & Crafts, Literature:** Saint-Malo's own real architectural palimpsest character — a city that
+  literally lives inside centuries of layered stonework, the closest real-world structural twin found
+  for Port Lockroy's own defining trait.
+
+#### Deep Culture findings
+
+**Concepts of:** spatial and architectural memory — living inside layered history as an ordinary,
+everyday fact rather than a curated museum experience, mirroring the stone wall's own proposed
+multi-generational communal arc (each resident adding a panel over time).
+
+---
+
+### Germany (Significant, 14.83%)
+
+**Real-world parallel community/communities identified:** no strong domestic match on either dimension
+— flagged as weak, consistent with the existing Phase 1b/1b-ii research.
+
+#### Surface Culture findings
+- **Food, Music:** general German cultural baseline persists without local-specific texture.
+
+#### Deep Culture findings
+
+*(Thin, honestly — no strong anchor found on either dimension for this population at this city.)*
+
+---
+
+### UK (Significant, 14.35%)
+
+**Real-world parallel community/communities identified:** Scapa Flow, Orkney (geography — a genuine
+sheltered natural harbor with real wartime military history) and Whitby (civic type — a real UK
+preserved-history tourism town). Given Port Lockroy's own actual WWII origin (Operation Tabarin, 1944,
+a British operation), this population holds a literal historical tie to the city's own founding, similar
+in kind to Argentina's connection to Esperanza.
+
+#### Surface Culture findings
+- **Literature, Arts & Crafts:** Whitby's own real preserved-heritage tourism culture, plus Scapa
+  Flow's genuine wartime-memory tradition.
+
+#### Deep Culture findings
+
+**Concepts of:** a literal, historical claim to the city's own founding — not just a thematic echo, a
+direct throughline from Operation Tabarin's real British origin to this population's own presence and
+self-understanding at Port Lockroy today.
+
+---
+
+### Brazil (Significant, 9.65%)
+
+**Real-world parallel community/communities identified:** no strong domestic match on either dimension
+— flagged as weak, consistent with existing Phase 1b/1b-ii research.
+
+#### Surface Culture findings
+- **Food, Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+
+#### Deep Culture findings
+
+*(Thin, honestly — no strong anchor found on either dimension for this population at this city.)*
+
+---
+
+### Mexico (Significant, 4.46%, smallest population)
+
+**Real-world parallel community/communities identified:** no strong domestic match on either dimension
+— flagged as weakest, consistent with existing Phase 1b/1b-ii research.
+
+#### Surface Culture findings
+- **Food, Music:** general Mexican cultural baseline persists without local-specific texture.
+
+#### Deep Culture findings
+
+*(Thin, honestly — no strong anchor found on either dimension for this population at this city.)*
+
+---
+
+## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+
+**Working name: "Lockroyan."** *(Placeholder, same status as every other city's working name so far.)*
+
+Port Lockroy is the first city cataloged whose founding tension is explicitly temporal rather than
+national — living memory versus heritage spectacle, not founder-nation versus present majority — and
+its neo-culture should be built around that axis rather than forced into the usual population-weighted
+framing. UK and France both carry outsized authenticity here for different reasons: UK through a literal
+historical tie (Operation Tabarin was a real British operation), France through an unusually precise
+structural echo (Saint-Malo's own layered-architecture character matching Port Lockroy's "never
+demolishes its history" identity almost exactly). USA supplies the dominant Feeling/Withdrawn/
+Positive-Outlook civic register via Mystic Seaport. Germany, Brazil, and Mexico are all genuinely thin
+here — unlike Marambio, a check for a missed inter-city corridor connection found none; this reads as
+an honest three-way weak result rather than an under-researched one.
+
+**A structural detail worth carrying forward into future Course of Events work:** the confirmed
+postal-corridor destiny ("Rothera moves the materials; Port Lockroy moves the words") gives this quiet,
+Withdrawn-profile city a genuine, growing outward-facing function it doesn't yet fully inhabit — a
+believable seed for a slow civic-identity shift across the Second Interwar Period, matching the
+proposed development arc already sketched in `City_Vision_Notes/Port_Lockroy.md`.
