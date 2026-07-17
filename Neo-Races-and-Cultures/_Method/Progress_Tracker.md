@@ -33,14 +33,22 @@ city complete (2026-07-16), run as a deliberate test of the full method before s
 complete** (all 8 cities, 2026-07-16) — see `Halley_Subnet_Phase1c_Summary.md` for the full cross-city
 synthesis roundup, kept deliberately separate from any single city's own Catalog file. Four recurring
 findings are now validated across a full
-subnet and should be treated as settled methodology for the remaining 27 cities rather than re-derived
+subnet and should be treated as settled methodology for the remaining cities rather than re-derived
 per city: (1) founding nations regularly drift to Notable tier while surviving only as civic mythology;
 (2) population share and match-strength/narrative-weight regularly decouple; (3) Brazil's City-Type
 matches are weak specifically at small purpose-built single-mission settlements and strong at large
 organic multi-purpose cities — a predictable rule, not random weakness; (4) multiple populations often
 converge on one civic value via genuinely different real-world routes, which is worth calling out
-explicitly rather than treated as redundant. The other 27 cities' Per-Nation Entries remain unstarted;
-this is still the genuinely expensive phase. Mirrors the checklist convention already established for
+explicitly rather than treated as redundant. **The entire Palmer Subnet is now also Phase 1c complete**
+(all 8 cities, 2026-07-16) — see `Palmer_Subnet_Phase1c_Summary.md` for its own cross-city roundup,
+which adds three more findings: (5) a city's own existing Megasheet/Enneagram/Vision-Notes research
+must be checked before drafting, now a standing process requirement after Marambio and Sejong both
+needed correction passes; (6) a second "large population, no strong anchor" category exists (Italy,
+Spain/Mexico) distinct from Brazil's settlement-type rule, not yet explained; (7) numeric population
+dominance doesn't determine a city's civic register on its own — Signy's 33.33% USA population still
+produces a quiet, Withdrawn-profile culture because the city's own personality core points that
+direction regardless. The remaining 19 cities' Per-Nation Entries are unstarted; this is still the
+genuinely expensive phase. Mirrors the checklist convention already established for
 `Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
@@ -89,7 +97,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [x] Port Lockroy *(PHASE 1C COMPLETE 2026-07-16 — fifth Palmer subnet city, checked against Enneagram/Vision-Notes/Megasheet research first; first city with an explicitly temporal rather than national founding tension — living memory vs. heritage spectacle; UK and France both hold outsized authenticity via different mechanisms (literal WWII history vs. structural architecture echo); Germany/Brazil/Mexico all genuinely weak with no missed corridor found on re-check)*
 - [x] Rothera *(PHASE 1C COMPLETE 2026-07-16 — sixth Palmer subnet city; clearest seven-way convergence found so far, all populations land on industrial craft competence as civic pride with no meaningful counter-register; Brazil and Mexico both confirm the settlement-type-dependent rule with strong matches here after weaker showings elsewhere; source of Tepenia's own project-wide glitch-coolant "working-class" canon)*
 - [x] Sejong *(PHASE 1C COMPLETE 2026-07-16 — seventh Palmer subnet city; checking Enneagram/Vision-Notes/Megasheet research surfaced a major correction — the original "8 of 9 nations weak" reading was searching for the wrong kind of match; real precedent is a shared "boundary zones" structural pattern (Izmir/Smyrna, Keelung) where all nine populations hold a genuine negotiated quarter; South Korea's namesake claim mirrors Spain's at Juan Carlos)*
-- [b] Signy
+- [x] Signy *(PHASE 1C COMPLETE 2026-07-16 — eighth and final Palmer subnet city; highest Primary-tier population concentration found anywhere in the project (USA 33.33%) yet the quietest civic register of any city cataloged, matching its Thinking/Withdrawn/Competency Enneagram core over its numeric dominance; fishing confirmed as dominant economy over marine-biology research; PALMER SUBNET FULLY PHASE 1C COMPLETE — see `Palmer_Subnet_Phase1c_Summary.md`)*
 
 ## Byrd Subnet
 - [b] Byrd *(flagged: 35+ nations — comparable in scale to Palmer City; Phase 1b covered Primary+Significant only)*

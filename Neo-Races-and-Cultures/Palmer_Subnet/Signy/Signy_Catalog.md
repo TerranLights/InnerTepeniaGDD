@@ -1,6 +1,11 @@
 # Signy — Neo-Race Cataloging (Phase 1)
 
-**Status:** City Snapshot filled 2026-07-16. Per-Nation Entries not started.
+**Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
+filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — eighth and final Palmer
+subnet city; the subnet is now fully complete. Pre-drafted against `City_Enneagram_Personalities/
+Palmer_Subnet/Signy.md`, `City_Vision_Notes/Signy.md`, and `Signy_Mega_Init.md`'s Inspirational
+Influences research per the process requirement. Synthesis Notes (Phase 2) drafted below as a working
+first pass, not yet developer-confirmed as final.
 
 ---
 
@@ -71,6 +76,143 @@ Sea.
 
 ---
 
-## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, not started)
+## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-*(Not started — see `_Method/City_Catalog_Template.md` for the fill-in structure.)*
+**No National Stereotypes compliance note:** every finding below is framed as arising from Signy's own
+conditions (its extreme isolation, its fishing-dominant economy, and its genuine two-island civic
+structure) that a given population's originating patterns fed into or reinforced — never as "this
+population does X because they're from nation Y."
+
+**Pre-existing research folded in:** Signy's Enneagram profile is **Thinking (Head) / Withdrawn /
+Competency** — quiet, self-contained, capable self-management at modest scale, without outward
+engagement or drama. `City_Vision_Notes/Signy.md` resolves the economy gap decisively: **fishing
+dominates**, not marine-biology research — floating extension-platforms, a genuine two-island
+structure (Signy Island holds the one shipping dock and radio comms; the larger Coronation Island,
+connected by a high bridge, holds residential/leisure life), and an unhurried, wildlife-cycle-paced
+daily rhythm (fish by day on the dock island, return to Coronation Island for downtime). Comms are
+confirmed as old-fashioned radio, not Arcanet — physically explaining, not contradicting, Signy's
+established "weakest Arcanet link in the Federation" status. `Signy_Mega_Init.md`'s own research
+identifies **Tristan da Cunha** as the single closest real-world precedent for Signy's whole situation
+(extreme isolation sustained successfully through self-sufficiency plus a well-managed export fishery —
+"isolation as a stable way of life," not endured hardship) and **the Lofoten Islands, Norway** as the
+closest match to its fishing identity specifically — neither tied to a Primary/Significant nation here,
+but essential framing for the whole city.
+
+### USA (Primary, 33.33%)
+
+**Real-world parallel community/communities identified:** the Pribilof Islands, Bering Sea (geography —
+a strong, genuinely isolated, biologically rich match) and Woods Hole, Massachusetts (civic type — a
+real, nationally significant marine-biology research town). Given fishing's now-confirmed dominance
+over research, this population's own real-world anchor leans more heavily on the geography match's
+isolated-fishing-community character than the research-town civic type alone would suggest.
+
+#### Surface Culture findings
+- **Food:** a marine-diet-based cuisine, consistent with Signy's own established self-sufficiency
+  through Scotia Sea resources.
+
+#### Deep Culture findings
+
+**Concepts of:** unhurried, wildlife-paced time — matching Signy's own established civic rhythm and its
+Thinking/Withdrawn/Competency Enneagram core directly; the highest Primary-tier population
+concentration found in any city cataloged in this entire project (33.33%) still doesn't translate into
+an assertive, outward-facing civic register, given the dominant personality core points the opposite
+direction.
+
+---
+
+### France (Significant, 17.19%, largest Significant population)
+
+**Real-world parallel community/communities identified:** the Kerguelen Islands (geography — isolated,
+biologically rich, though an institutional rather than settled population) and Roscoff, Brittany (civic
+type — a real French marine-biology research station town).
+
+#### Surface Culture findings
+- **Food, Arts & Crafts:** Roscoff's own real marine-research-station culture, secondary to the
+  fishing-dominant economy but genuinely present.
+
+#### Deep Culture findings
+
+**Concepts of:** self-sufficiency through marine resources, converging with the general Tristan da
+Cunha-style isolation-as-stable-life framing established for the whole city.
+
+---
+
+### UK (Significant, 16.96%)
+
+**Real-world parallel community/communities identified:** South Georgia (geography — genuinely isolated
+and among the most biologically productive UK sub-Antarctic islands, the single best match for this
+city) and Plymouth (civic type — a real UK marine-biology research city). **Given fishing's confirmed
+economic dominance, Shetland and Orkney (both real UK fishing-and-remote-energy communities, already
+used at Belgrano/Mirny) are worth noting as a stronger fishing-specific secondary match** than Plymouth's
+research-only framing alone supplies — Shetland in particular shares Signy's own real tension-free
+combination of deep fishing heritage with remote-renewable-energy potential.
+
+#### Surface Culture findings
+- **Food:** deep fishing-heritage culture, echoing Shetland's own real character more than Plymouth's
+  purely academic one.
+
+#### Deep Culture findings
+
+**Concepts of:** fishing as a heritage identity, not just an economic activity — a genuine value
+distinct from the research-institution framing that dominated this nation's entries at other Palmer
+subnet cities.
+
+---
+
+### Germany (Significant, 7.81%)
+
+**Real-world parallel community/communities identified:** no domestic geography match (weak) — carried
+by Bremerhaven (civic type), the same German fishing/maritime match used at Juan Carlos, here also
+noted for genuine marine-research institutions.
+
+#### Surface Culture findings
+- **Food:** Bremerhaven's own real fishing-port culture.
+
+#### Deep Culture findings
+
+**Concepts of:** professional fishing/maritime competence, converging with the dominant
+fishing-economy register shared across this city's populations.
+
+---
+
+### Brazil (Significant, 8.04%, smallest population)
+
+**Real-world parallel community/communities identified:** no strong match on either dimension — flagged
+as weakest, consistent with existing Phase 1b/1b-ii research. Consistent with the established rule:
+Signy's City-Type (small, remote, self-sufficient fishing community) doesn't match Brazil's own
+large-organic-city strength pattern.
+
+#### Surface Culture findings
+- **Food, Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+
+#### Deep Culture findings
+
+*(Thin, honestly — consistent with the established settlement-type-dependent pattern.)*
+
+---
+
+## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
+
+**Working name: "Signian."** *(Placeholder, same status as every other city's working name so far.)*
+
+Signy holds the highest Primary-tier population concentration found anywhere in this project (USA,
+33.33%) — yet its civic register is the *quietest* of any city cataloged, matching its own established
+Thinking/Withdrawn/Competency Enneagram core rather than USA's own numeric dominance producing an
+assertive or loud culture. This is a genuinely useful counter-example to keep in mind: population share
+sets *whose* patterns feed into a city's culture, but the underlying Enneagram/civic-personality
+research determines the *register* that culture actually takes.
+
+Fishing is the confirmed, dominant economic and cultural pillar — France, UK, and Germany all converge
+on real fishing/maritime heritage (Roscoff, Shetland/Orkney, Bremerhaven), with marine-biology research
+present but genuinely secondary, a correction from the original City-Type read which implied research
+was co-equal. The real two-island civic structure (Signy Island's dock and radio comms; Coronation
+Island's residential life, joined by a still-unnamed high bridge) gives this city a concrete, physical
+daily rhythm — travel to fish, return to rest — that could anchor real level design or Course of Events
+work directly. Brazil remains the one genuinely thin population, consistent with the established
+settlement-type rule rather than a new finding.
+
+**Worth flagging for future design work, not resolved here:** Signy's own post-war siligel shortage
+(robots have no local source; humans sustain themselves fine on Scotia Sea marine resources) remains a
+real, still-open candidate for DLC 3 questline content — this Phase 1c pass describes Signy's living,
+pre-war culture per the project's standard present-tense methodology, and doesn't resolve that
+post-war vulnerability, which belongs to a separate design pass.
