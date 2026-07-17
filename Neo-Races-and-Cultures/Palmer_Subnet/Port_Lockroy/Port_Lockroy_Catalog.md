@@ -109,14 +109,53 @@ research as proof the postal-hub destiny is plausible at full civic scale — no
 American in origin, reinforcing this population's own thematic weight here.
 
 #### Surface Culture findings
-- **Literature, Arts & Crafts:** Mystic Seaport's own real preserved-history museum-town culture,
-  echoing Port Lockroy's own "living memory" identity directly.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Mystic Seaport's own real preserved-history museum-town culture, echoing Port
+  Lockroy's own "living memory" identity directly.
+- **Literature:** Mystic Seaport's own real preserved-history museum-town culture, echoing Port
+  Lockroy's own "living memory" identity directly.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** legacy and memory-keeping as a way of life, not a project — matching Port Lockroy's own
-established Feeling/Withdrawn/Positive-Outlook civic personality closely: content rather than strained,
-a gentle keeper of the past.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: quiet, contented, unhurried exchange, matching
+  Port Lockroy's own Feeling/Withdrawn/Positive-Outlook civic personality.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: preserved, well-kept heritage spaces valued, echoing Mystic Seaport's
+  own museum-town culture.
+
+**Concepts of:**
+- Self, time, past and future: legacy and memory-keeping as a way of life, not a project — matching
+  Port Lockroy's own established Feeling/Withdrawn/Positive-Outlook civic personality closely: content
+  rather than strained, a gentle keeper of the past.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -128,15 +167,53 @@ with deep, visibly layered history, an unusually apt structural match for Port L
 demolishes its own history, layers eras on top of each other" identity.
 
 #### Surface Culture findings
-- **Arts & Crafts, Literature:** Saint-Malo's own real architectural palimpsest character — a city that
-  literally lives inside centuries of layered stonework, the closest real-world structural twin found
-  for Port Lockroy's own defining trait.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Saint-Malo's own real architectural palimpsest character — a city that literally
+  lives inside centuries of layered stonework, the closest real-world structural twin found for Port
+  Lockroy's own defining trait.
+- **Literature:** Saint-Malo's own real architectural palimpsest character — a city that literally
+  lives inside centuries of layered stonework.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** spatial and architectural memory — living inside layered history as an ordinary,
-everyday fact rather than a curated museum experience, mirroring the stone wall's own proposed
-multi-generational communal arc (each resident adding a panel over time).
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: layered, lived-in architectural history valued as beautiful in its own
+  right, echoing Saint-Malo's own palimpsest character.
+
+**Concepts of:**
+- Self, time, past and future: spatial and architectural memory — living inside layered history as an
+  ordinary, everyday fact rather than a curated museum experience, mirroring the stone wall's own
+  proposed multi-generational communal arc (each resident adding a panel over time).
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -146,11 +223,51 @@ multi-generational communal arc (each resident adding a panel over time).
 — flagged as weak, consistent with the existing Phase 1b/1b-ii research.
 
 #### Surface Culture findings
-- **Food, Music:** general German cultural baseline persists without local-specific texture.
+- **Food:** general German cultural baseline persists without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general German cultural baseline persists without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly — no strong anchor found on either dimension for this population at this city.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general cultural
+  baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly — no strong anchor found on either dimension for this population at this city, now
+itemized per the full depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
@@ -163,14 +280,54 @@ a British operation), this population holds a literal historical tie to the city
 in kind to Argentina's connection to Esperanza.
 
 #### Surface Culture findings
-- **Literature, Arts & Crafts:** Whitby's own real preserved-heritage tourism culture, plus Scapa
-  Flow's genuine wartime-memory tradition.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day, alongside informal observance connected to Operation
+  Tabarin's own real 1944 founding, given this population's literal historical tie.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Whitby's own real preserved-heritage tourism culture, plus Scapa Flow's genuine
+  wartime-memory tradition.
+- **Literature:** Whitby's own real preserved-heritage tourism culture, plus Scapa Flow's genuine
+  wartime-memory tradition.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** a literal, historical claim to the city's own founding — not just a thematic echo, a
-direct throughline from Operation Tabarin's real British origin to this population's own presence and
-self-understanding at Port Lockroy today.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: preserved wartime/heritage memory valued, echoing Scapa Flow and
+  Whitby's own real traditions.
+
+**Concepts of:**
+- Self, time, past and future: a literal, historical claim to the city's own founding — not just a
+  thematic echo, a direct throughline from Operation Tabarin's real British origin to this population's
+  own presence and self-understanding at Port Lockroy today.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding role,
+  given Operation Tabarin's real British origin.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -180,11 +337,52 @@ self-understanding at Port Lockroy today.
 — flagged as weak, consistent with existing Phase 1b/1b-ii research.
 
 #### Surface Culture findings
-- **Food, Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Food:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Brazilian-diaspora baseline persists without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly — no strong anchor found on either dimension for this population at this city.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: general Brazilian-diaspora warmth persists as a baseline
+  register.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly — no strong anchor found on either dimension for this population at this city, now
+itemized per the full depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
@@ -194,11 +392,51 @@ self-understanding at Port Lockroy today.
 — flagged as weakest, consistent with existing Phase 1b/1b-ii research.
 
 #### Surface Culture findings
-- **Food, Music:** general Mexican cultural baseline persists without local-specific texture.
+- **Food:** general Mexican cultural baseline persists without local-specific texture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Mexican cultural baseline persists without local-specific texture.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-*(Thin, honestly — no strong anchor found on either dimension for this population at this city.)*
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general cultural
+  baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Thin, honestly — no strong anchor found on either dimension for this population at this city, now
+itemized per the full depth standard rather than condensed, but no invented texture added.)*
 
 ---
 
