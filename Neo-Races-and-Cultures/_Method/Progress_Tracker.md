@@ -4,26 +4,25 @@
 new city's Phase 1c work:** check that city's own `City_Megasheets/[Subnet]/[City]/` files
 (Mega_Init, Full_Extrapolation, Cross_Reference_Synthesis), `City_Enneagram_Personalities/[Subnet]/
 [City].md`, and `City_Vision_Notes/[City].md` (if it exists) *before* drafting Per-Nation Entries — not
-just `Specs/[City].md`. Marambio's first pass missed an already-established, far superior real-world
-match (Duisburg, spanning both of the city's dual functions in one precedent — found in
-`Marambio_Mega_Init.md`'s own "Inspirational Influences" research), an already-established personality
-core (Instinctive/Gut/Assertive/Competency, from the Enneagram file), and a striking founding-drift
-confirmation (Argentina at 0.74%, from the Cross-Reference Synthesis) — all of which existed in the
-repo already and should have anchored the entry from the start rather than being bolted on after the
-fact. **The 10 cities completed before this note (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer,
-Princess Elisabeth, Troll, Esperanza, Juan Carlos) have not been retroactively audited against this
-requirement** — flagged as a known gap, not yet resolved; revisit if time allows, but don't let it block
-forward progress on the remaining cities.
+just `Specs/[City].md`.
 
-**Retroactive-audit scoping check, 2026-07-16 (light, read-only — no fixes attempted yet):** confirmed
-all 8 Halley subnet cities have both a `City_Vision_Notes/[City].md` file (25–60 lines each: Abowasa
-25, Belgrano 60, Halley 55, Lazar 40, Neumayer 41, Princess_Elisabeth 38, Sanay 51, Troll 48) and a
-`Mega_Init.md` Inspirational Influences section with real content (4–7 real-world-precedent
-subsections each). This is a real, likely-productive audit target, same shape as what Marambio and
-Sejong turned up — **not yet checked in detail, next actual step for whoever picks this up.**
-Recommended order: start with whichever city has the most Vision Notes content relative to what's
-already in its Neo-Races Catalog (Belgrano/60 lines and Halley/55 lines look like the highest-value
-starting points, purely by content volume — not yet verified by actually reading them).
+**RETROACTIVE-AUDIT GAP FULLY RESOLVED, 2026-07-16.** All 10 cities completed before the process
+requirement existed (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Troll,
+Esperanza, Juan Carlos) have now been checked against their own Vision Notes/Megasheet research and
+corrected where needed. Genuinely significant finds, not just minor polish: **Neumayer secretly
+designed and engineered Amundsen Tower itself**, unrecognized at the Tower's own ruins today (the
+single biggest find of the whole audit); **Troll's freight network directly supplied Dome Fuji**, a
+concrete cross-subnet tie previously missing; **Halley's relocation mechanism was factually wrong**
+("periodic towing" corrected to continuous digging-track propulsion); **Lazar's real internal fault
+line is old-core-vs-new-expansion**, not the founder-vs-majority pattern used everywhere else;
+**Esperanza's official identity is "The Guarded City"** (robots built to protect humans) with mining as
+a missed second economic pillar; **Juan Carlos's tertulia** (already exported into Concordia's Leo/
+Taurus/Pisces districts) was missing entirely, along with its "Room to Be Itself" counterpoint-to-Sejong
+identity; Sanay, Abowasa, and Troll all share a "Competence Without Commentary" faction, each with a
+distinct angle, not previously connected. Every affected commit is tagged "retroactively audited" in
+its own city's line below and in git history. No further retroactive-audit work is outstanding for
+these 10 cities; the same process requirement now applies going forward to all remaining cities so this
+gap doesn't recur.
 
 **Status, updated 2026-07-16:** all 35 cities now have their City Snapshot, their Real-World Parallel
 Locations (Phase 1b, terrain/geography-based), their City-Type Parallels (Phase 1b-ii,
@@ -101,7 +100,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 
 ## Palmer Subnet
 - [x] Esperanza *(PHASE 1C COMPLETE 2026-07-16 — first Palmer subnet city; a "family/genesis city" identity tied to its real founding history; Argentina, despite being the smallest population, holds the strongest combined real-world match plus a literal historical tie to the city's own founding event, found anywhere in the project so far; RETROACTIVELY AUDITED 2026-07-16 — official identity is actually "The Guarded City" (robots built to protect humans, demographic drift read as compact-honored not eroded); added mining as a missed second economic pillar and the rotational-mining-shift/robot-caregiver family structure, the origin point for several now-project-wide facts (artificial womb tech, male-skewed immigration, robot memory-carriers); ninth city in the retroactive-audit gap resolved, one remains: Juan Carlos)*
-- [x] Juan Carlos *(PHASE 1C COMPLETE 2026-07-16 — second Palmer subnet city; fishing-port-plus-archive city; Spain's namesake claim on "Juan Carlos I" is a second, distinct-mechanism instance of symbolic-vs-population-share weight; Italy flagged as a genuinely new "weak on both axes, doesn't fit the Brazil rule" case worth watching)*
+- [x] Juan Carlos *(PHASE 1C COMPLETE 2026-07-16 — second Palmer subnet city; fishing-port-plus-archive city; Spain's namesake claim on "Juan Carlos I" is a second, distinct-mechanism instance of symbolic-vs-population-share weight; Italy flagged as a genuinely new "weak on both axes, doesn't fit the Brazil rule" case worth watching; RETROACTIVELY AUDITED 2026-07-16 — major missed detail: official identity is "Room to Be Itself," the deliberate counterpoint to Sejong's own contrast-defined identity ("Coherence vs. Contrast" faction), with the tertulia (already exported into Concordia's Leo/Taurus/Pisces districts) as its single most concrete expression; TENTH AND FINAL CITY IN THE ORIGINAL RETROACTIVE-AUDIT GAP — ALL 10 CITIES NOW RESOLVED)*
 - [x] Marambio *(PHASE 1C COMPLETE 2026-07-16 — third Palmer subnet city; two cultural pillars, aviation (USA/Germany/UK) and South America shipping-corridor maritime trade (Brazil, via the already-established `City_Vision_Notes/Marambio.md` canon — also corrected Belgrano's own Brazil entry). CORRECTED same day: Eocene fossil beds are geology, not a driver of population culture — Canada's fossil-culture framing walked back to honestly weak. Spain/Mexico remain honestly weak on all dimensions (not South American nations, so the shipping corridor doesn't anchor them); Italy (Juan Carlos) and Spain/Mexico (here) are now three instances of "large population, no strong anchor," still unexplained)*
 - [x] Palmer City *(flagged: 43-nation roster — largest single-city undertaking in the project; PHASE 1C COMPLETE 2026-07-16 at the same Primary+Significant scope used project-wide (Notable tier deferred for every city, not a special case here) — fourth Palmer subnet city, first pass properly checked against Enneagram/Vision-Notes/Megasheet research per the new process requirement; all populations converge on one shared value (identity/felt-experience) rather than splitting function-vs-warmth; Canada/Montreal confirmed as the standout precedent)*
 - [x] Port Lockroy *(PHASE 1C COMPLETE 2026-07-16 — fifth Palmer subnet city, checked against Enneagram/Vision-Notes/Megasheet research first; first city with an explicitly temporal rather than national founding tension — living memory vs. heritage spectacle; UK and France both hold outsized authenticity via different mechanisms (literal WWII history vs. structural architecture echo); Germany/Brazil/Mexico all genuinely weak with no missed corridor found on re-check)*

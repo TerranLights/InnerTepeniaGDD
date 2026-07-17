@@ -133,9 +133,18 @@ direct **namesake connection** — the real Spanish Antarctic base is literally 
 after Spain's own King Juan Carlos, which this Tepenian city is itself named for. City-Type carried by
 Vigo, Spain's largest fishing port, an especially fitting match given that direct naming link.
 
+**Major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Juan_Carlos.md`:** Juan Carlos's
+own defining civic institution is **the tertulia** — a hosted, guest-listed, argument-as-art-form
+gathering — already established as exported directly into Concordia (surviving today in the Leo,
+Taurus, and Pisces districts). This should have anchored Spain's own entry from the start; the earlier
+draft captured only the port/namesake angle and missed the city's single most specific, already-
+developed piece of civic culture.
+
 #### Surface Culture findings
 - **Language, Literature:** Vigo's own real major-fishing-port culture, plus a genuine sense of
   ownership over the city's own name and origin story.
+- **Performances:** the tertulia itself — structured, hosted intellectual argument as a genuine social
+  art form, not casual conversation; guest lists and hosting rights carry real social weight.
 
 #### Deep Culture findings
 
@@ -143,6 +152,10 @@ Vigo, Spain's largest fishing port, an especially fitting match given that direc
 Argentina's connection to Esperanza works, but a genuine naming/identity claim that gives Spain-
 descended residents a comparable, if differently-mechanised, special relationship to Juan Carlos's own
 civic identity.
+
+**Approaches to:** decision-making and problem-solving *(added 2026-07-16)* — argument itself as a
+valued, structured social practice via the tertulia, rather than something to be minimized or avoided;
+disagreement conducted as hosted, almost ceremonial performance.
 
 ---
 
@@ -200,6 +213,17 @@ the USA population's own institutional-memory emphasis via a genuinely distinct 
 
 **Working name: "Juan Carlan"** *(or possibly "Carlino" — genuinely uncertain which reads better;
 placeholder only, same status as every other city's working name so far).*
+
+**Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Juan_Carlos.md`:** the city's own
+official identity, **"Room to Be Itself,"** frames Juan Carlos as Spanish identity given room to become
+genuinely coherent through relative isolation — the explicit, deliberate counterpoint to Sejong's own
+contrast-defined identity, paired together in a shared faction, "Coherence vs. Contrast." Where Sejong
+(this project's other densely multinational Palmer subnet city, also retroactively audited) defines
+itself relationally, against its neighbors, Juan Carlos defines itself by having had the isolation to
+settle into one coherent identity undisturbed. The tertulia — a hosted, guest-listed,
+argument-as-art-form gathering, already established as exported directly into Concordia's Leo, Taurus,
+and Pisces districts — is that coherent identity's single most concrete, already-developed expression,
+and belongs at the center of this city's neo-culture rather than as a minor Spain-specific detail.
 
 Juan Carlos reads as a genuine **fishing-port-plus-archive city**, with USA, Germany, France, and UK
 all converging on real maritime-labor and administrative-record traditions (New Bedford, Bremerhaven,
