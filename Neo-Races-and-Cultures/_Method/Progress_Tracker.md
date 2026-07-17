@@ -15,6 +15,16 @@ Princess Elisabeth, Troll, Esperanza, Juan Carlos) have not been retroactively a
 requirement** — flagged as a known gap, not yet resolved; revisit if time allows, but don't let it block
 forward progress on the remaining cities.
 
+**Retroactive-audit scoping check, 2026-07-16 (light, read-only — no fixes attempted yet):** confirmed
+all 8 Halley subnet cities have both a `City_Vision_Notes/[City].md` file (25–60 lines each: Abowasa
+25, Belgrano 60, Halley 55, Lazar 40, Neumayer 41, Princess_Elisabeth 38, Sanay 51, Troll 48) and a
+`Mega_Init.md` Inspirational Influences section with real content (4–7 real-world-precedent
+subsections each). This is a real, likely-productive audit target, same shape as what Marambio and
+Sejong turned up — **not yet checked in detail, next actual step for whoever picks this up.**
+Recommended order: start with whichever city has the most Vision Notes content relative to what's
+already in its Neo-Races Catalog (Belgrano/60 lines and Halley/55 lines look like the highest-value
+starting points, purely by content volume — not yet verified by actually reading them).
+
 **Status, updated 2026-07-16:** all 35 cities now have their City Snapshot, their Real-World Parallel
 Locations (Phase 1b, terrain/geography-based), their City-Type Parallels (Phase 1b-ii,
 functional/civic-identity-based — port cities, aviation hubs, research towns, famous leisure
