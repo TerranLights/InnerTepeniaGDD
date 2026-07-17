@@ -220,6 +220,29 @@ single value found in this project since Belgrano's "maker city" pattern.
 
 **Working name: "Trollan."** *(Placeholder, same status as the other seven cities' working names.)*
 
+**Missed cross-subnet detail, folded in 2026-07-16 from `City_Vision_Notes/Troll.md`:** Troll's freight
+network flew supplies **directly into Dome Fuji** — one of Tepenia's most isolated, nearly Arcanet-less
+interior cities — alongside a second, separate route via a Sinheung-area airstrip (fed from Mawson).
+Two direct routes converging on the same city, not a relay chain, running from sometime after Dome
+Fuji's own pilgrimage resettlement until the Long Night War. This gives Troll a genuine, concrete
+narrative tie to Dome Fuji's own religious/pilgrimage identity (see the Mawson subnet's Phase 1c work)
+that this file's own freight-precision framing didn't previously connect to anything specific —
+Troll's logistics competence quite literally kept a sacred city supplied.
+
+**Philosophical core:** Troll shares the "Competence Without Commentary" faction with Sanay and
+Abowasa, but its own angle is sharper and more overtly political than either: **"competence is
+leverage, converted into control of the thing that matters."** This maps directly onto the airfield's
+own established contested-control stakes (the DLC 5 central-conflict candidate) — per the city's
+official identity, "Whoever Holds the Runway," there is explicitly *no neutral path* here; residents
+eventually take a position on who controls the airfield, unlike the more settled civic registers found
+at other Halley subnet cities.
+
+**Economic nuance, folded in 2026-07-16:** Troll is a working-class city, but with *above-average*
+national spending power thanks to the freight-hub economy — not poor, just unpretentious. This is
+reflected directly in its own confirmed glitch-coolant sub-variant: working-class-strong (like Byrd and
+Rothera), but noticeably higher-quality than the national standard — not ornate, just better-made,
+consistent with the "maker city" craft-pride register already established below.
+
 Troll's neo-culture centers on a strong three-way convergence — USA (Memphis), UK (East Midlands), and
 Germany (Leipzig/Halle) all independently arrive at freight-logistics precision and reliability as the
 dominant civic value, echoing real-world DHL/FedEx-style global air-cargo culture. This makes Troll's
