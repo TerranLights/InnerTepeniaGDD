@@ -111,10 +111,24 @@ between Davis's "working city first" Enneagram framing and its same-day "breadba
 City-Type resolution) completed alongside Mirny's own Phase 1c pass, touching six source-of-truth files
 across both cities plus Sinheung's supply-chain description.
 
-The remaining 11 cities (all of Janbogo subnet — Cape Adare, Denison, Dumont d'Urville, Fort McMurdo,
-Janbogo, Scott, Zukelli; all of Mawson subnet — Dome Fuji, Mawson, Sayowa; and Byrd) still have
-unstarted Per-Nation Entries — this is still the genuinely expensive phase. Mirrors the checklist
-convention already established for `Cities/Full_City_Integrity_Check.md`.
+**The entire Janbogo Subnet is now also Phase 1c complete** (all 7 cities, 2026-07-17 — Cape Adare,
+Denison, Dumont d'Urville, Fort McMurdo, Janbogo, Scott, Zukelli), drafted at the full 12+17-item depth
+standard from the start throughout. Notable findings: Fort McMurdo is Tepenia's former historical
+national capital (present day has no capital), and its USA population holds founding-operator heritage
+there; Scott's own single genuine industry (collecting volcanic material from Mount Erebus, trucked to
+Fort McMurdo for onward processing) was already established in `Specs/Scott.md` but had never been
+folded into a Neo-Races Catalog before this pass; Zukelli is a fully destroyed city (no living
+population) whose Per-Nation Entries describe its genuine pre-war culture in present tense per the
+project's standard methodology, and whose founding-operator nation (Italy) is explicitly established as
+NOT the sole source of its defining genre-diverse music scene — a corrected departure from the
+founding-nation-supplies-defining-texture pattern common elsewhere; Cape Adare and Scott both show a
+"shared civic register across nearly every population" pattern (Feeling-center cities where national
+distinctiveness concentrates in the geography-match dimension rather than in values/worldview) — now
+confirmed twice, worth treating as a recognizable city type going forward.
+
+The remaining 4 cities (all of Mawson subnet — Dome Fuji, Mawson, Sayowa; and Byrd) still have unstarted
+Per-Nation Entries — this is still the genuinely expensive phase, though now a small remainder. Mirrors
+the checklist convention already established for `Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
 
@@ -130,14 +144,14 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [x] Sanay *(the project's own first worked example for the City-Type Parallels category — a major shipping/logistics port city; now also the FIRST CITY WITH PHASE 1C COMPLETE, 2026-07-16 — Per-Nation Entries for Germany/Brazil/UK done, plus a draft Phase 2 "Sanayan" synthesis; see `Phase1c_Test_Run_Sanay.md`; RETROACTIVELY AUDITED 2026-07-16 — folded in "Competence Without Commentary" faction philosophy and the human-robot labor dynamic first established here (later generalized project-wide), third city in the retroactive-audit gap resolved)*
 - [x] Troll *(PHASE 1C COMPLETE 2026-07-16 — eighth and final Halley subnet city; three-way freight-logistics-precision convergence, USA/UK/Germany; HALLEY SUBNET FULLY PHASE 1C COMPLETE — see `Halley_Subnet_Phase1c_Summary.md`; RETROACTIVELY AUDITED 2026-07-16 — major cross-subnet detail folded in: Troll's freight network directly supplied Dome Fuji, a concrete tie to that city's pilgrimage identity; also added the "competence is leverage" angle on the shared faction, the "no neutral path" airfield-control civic tension, and the above-average-spending-power/higher-quality-glitch-coolant economic nuance; eighth and LAST city in the original 10-city retroactive-audit gap resolved — ALL 8 HALLEY SUBNET CITIES NOW AUDITED, plus Sanay (done as part of this batch); only Esperanza and Juan Carlos remain from the original 10-city gap list)*
 
-## Janbogo Subnet
-- [b] Cape Adare
-- [b] Denison
-- [b] Dumont d'Urville *(city-type resolved 2026-07-16: a wildlife-tourism/nature-reserve gateway city, echoing Kaikōura/Simon's Town/Punta Tombo, with a "Quebec City-like" cultured small-town core)*
-- [b] Fort McMurdo
-- [b] Janbogo
-- [b] Scott
-- [b] Zukelli
+## Janbogo Subnet — FULLY PHASE 1C COMPLETE, 2026-07-17 (all 7 cities, drafted at full 12+17 depth from the start)
+- [x] Cape Adare *(PHASE 1C COMPLETE 2026-07-17 — "big city, small-town feel," acoustic-folk music culture, penguins-as-neighbors shared citywide; USA/Japan/Canada/UK each hold a precisely-matched "oldest structure" heritage precedent)*
+- [x] Denison *(PHASE 1C COMPLETE 2026-07-17 — most extreme wind-engineering city, comprehensively interlinked architecture; China anchored via Kowloon Walled City, Japan via Sanda; Australia holds the single strongest wind-extremity geography match in the project, Barrow Island)*
+- [x] Dumont d'Urville *(city-type resolved 2026-07-16: a wildlife-tourism/nature-reserve gateway city, echoing Kaikōura/Simon's Town/Punta Tombo, with a "Quebec City-like" cultured small-town core; PHASE 1C COMPLETE 2026-07-17 — France's founding-operator heritage persists as living civic default per the Singapore precedent; Australia's Phillip Island match is near-literal)*
+- [x] Fort McMurdo *(PHASE 1C COMPLETE 2026-07-17 — Tepenia's former national capital, USA founding-operator heritage; Japan and Italy both hold outstanding active-volcanism geography matches alongside USA's own Hawaii match)*
+- [x] Janbogo *(PHASE 1C COMPLETE 2026-07-17 — Majyao's Teahouse landmark tied to South Korea's founding-operator heritage; deliberately spared to witness Zukelli's destruction and carry its deterrent message forward)*
+- [x] Scott *(PHASE 1C COMPLETE 2026-07-17 — quiet counterpart to Fort McMurdo, Hut Point its most sacred civic site; six of eight populations hold a genuine national-remembrance-site match; folds in the previously-uncatalogued volcanic-material-collection industry from Specs/Scott.md)*
+- [x] Zukelli *(PHASE 1C COMPLETE 2026-07-17, last Janbogo subnet city — destroyed city, findings describe pre-war culture in present tense; every population anchors to a real food/hospitality-culture city; Italy's founding-operator heritage explicitly not the sole source of the city's genre-diverse music scene)*
 
 ## Mawson Subnet
 - [b] Dome Fuji *(fundamentally, foundationally a religious/pilgrimage city — established by and for the Ice-Cold Buddhists; NOT a co-equal dual type with its ice-core research economy, which is a genuine but distant second — reinforced by the developer 2026-07-16)*
