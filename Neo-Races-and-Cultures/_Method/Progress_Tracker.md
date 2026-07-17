@@ -32,13 +32,18 @@ approach: work through subnet by subnet in the same order already established (H
 then Casey), checking each nation entry against the full template checklist and expanding any condensed
 or dropped items.
 
-**HALLEY SUBNET RE-AUDIT COMPLETE, 2026-07-16.** All 8 Halley subnet cities (Sanay, Abowasa, Belgrano,
-Halley, Lazar, Neumayer, Princess Elisabeth, Troll) have been gap-filled to the full 12+17-item depth
-standard — every Surface Culture item and every Deep Culture sub-item now individually addressed for
-every Primary/Significant-tier nation in every city, using a "gap-fill" technique (adding only missing
-items, preserving existing substantive content) rather than full rewrites. Each city committed
-individually. **Palmer subnet (8 cities: Esperanza, Juan Carlos, Marambio, Palmer City, Port Lockroy,
-Rothera, Sejong, Signy) and Casey still need this same pass** — next in the recommended order.
+**FULL RE-AUDIT QUEUE COMPLETE, 2026-07-16.** All 17 cities flagged above have now been gap-filled to
+the full 12+17-item depth standard — every Surface Culture item and every Deep Culture sub-item
+individually addressed for every Primary/Significant-tier nation in every city: all 8 Halley subnet
+cities (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Troll), all 8 Palmer
+subnet cities (Esperanza, Juan Carlos, Marambio, Palmer City, Port Lockroy, Rothera, Sejong, Signy), and
+Casey (Mirny subnet). Each city committed individually with its own gap-fill commit. Casey required a
+distinct approach from the other 16 — it already had substantial paragraph-level Deep Culture content
+per header (drafted after the "Concepts of fields close to empty" correction but before the full
+12+17-item standard existed), so that pass converted existing paragraphs into itemized sub-bullets
+rather than writing from near-scratch. **No further backlog remains from the depth-standard
+finalization — new cities going forward should be drafted at full depth from the start, per the
+template's own DEPTH REQUIREMENT note.**
 
 **RETROACTIVE-AUDIT GAP FULLY RESOLVED, 2026-07-16.** All 10 cities completed before the process
 requirement existed (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Troll,
