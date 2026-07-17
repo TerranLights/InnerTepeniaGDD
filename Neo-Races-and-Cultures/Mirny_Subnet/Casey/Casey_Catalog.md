@@ -126,34 +126,63 @@ destination-vs-waypoint tension match). This population is the most richly, prec
 anywhere in this project so far on the City-Type dimension alone.
 
 #### Surface Culture findings
-- **Performances, Music:** Beale-Street-style live-music-as-civic-landmark culture, directly informing
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Beale-Street-style live-music-as-civic-landmark culture, directly informing Splinters' own
+  established Classic Rock/Jazz/Blues/Acoustic Folk scene.
+- **Performances:** Beale-Street-style live-music-as-civic-landmark culture, directly informing
   Splinters' own established Classic Rock/Jazz/Blues/Acoustic Folk scene.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** crossroads-identity self-description, echoing Flagstaff's own real civic
   self-characterization as "the great crossroads."
 
 #### Deep Culture findings
 
-**Communication styles and rules:** direct and practical, with a genuine, well-practiced skill at
-quickly sizing up strangers — is this person just passing through, or here to stay? Locals develop real
-social fluency at reading that distinction fast, a skill crossroads-town life demands.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: direct and practical, with a genuine,
+  well-practiced skill at quickly sizing up strangers — is this person just passing through, or here to
+  stay? Locals develop real social fluency at reading that distinction fast, a skill crossroads-town
+  life demands.
+- Handling and displaying of emotion: local pride carried privately rather than performed publicly —
+  residents wear Splinters' regional fame with real satisfaction while publicly downplaying Casey as
+  "just a junction," a genuine, lived modesty rather than false humility.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** courtesy built on hospitality-to-travelers, echoing Flagstaff's own real
-crossroads-service economy; local pride carried privately rather than performed publicly — residents
-wear Splinters' regional fame with real satisfaction while publicly downplaying Casey as "just a
-junction," a genuine, lived modesty rather than false humility.
+**Notions of:**
+- Courtesy and manners: courtesy built on hospitality-to-travelers, echoing Flagstaff's own real
+  crossroads-service economy.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-**Concepts of:** self split cleanly into two coexisting layers — the full, rich internal civic life
-residents actually lead, and the flattened external reputation ("mere highway junction") outsiders
-know Casey by. Most residents hold both without contradiction, the same duality Reno's own real 1931
-stopover-to-destination pivot demonstrates historically. Time organized around who's passing through
-this week or month as much as by any fixed calendar.
+**Concepts of:**
+- Self, time, past and future: self split cleanly into two coexisting layers — the full, rich internal
+  civic life residents actually lead, and the flattened external reputation ("mere highway junction")
+  outsiders know Casey by. Most residents hold both without contradiction, the same duality Reno's own
+  real 1931 stopover-to-destination pivot demonstrates historically. Time organized around who's passing
+  through this week or month as much as by any fixed calendar.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** newcomers and strangers as a constant, genuinely welcomed presence rather than a
-novelty or disruption — a structural fact of daily life, not an occasional event.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: newcomers and strangers as a constant, genuinely welcomed presence
+  rather than a novelty or disruption — a structural fact of daily life, not an occasional event.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** identity-assertion handled through insider knowledge rather than public argument —
-knowing Casey is more than its reputation is itself a quiet form of belonging, not something residents
-feel a need to prove to outsiders.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: identity-assertion handled through insider
+  knowledge rather than public argument — knowing Casey is more than its reputation is itself a quiet
+  form of belonging, not something residents feel a need to prove to outsiders.
 
 ---
 
@@ -164,27 +193,57 @@ feel a need to prove to outsiders.
 known Chinese leisure/entertainment-district match).
 
 #### Surface Culture findings
-- **Food, Music:** Chengdu's own real teahouse-and-live-music tradition — communal, unhurried, a
-  genuine convergence point with Splinters' own live-music identity via a distinct national register.
+- **Food:** Chengdu's own real teahouse tradition — communal, unhurried, a genuine convergence point
+  with Splinters' own live-music identity via a distinct national register.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Chengdu's own real teahouse-and-live-music tradition — communal, unhurried, a genuine
+  convergence point with Splinters' own live-music identity via a distinct national register.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** relaxed and unhurried, echoing Chengdu's own real reputation as
-China's most laid-back major city — long, low-stakes social conversation valued over quick
-transactional exchange, a real contrast with the junction city's transit-driven public rhythm.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: relaxed and unhurried, echoing Chengdu's own
+  real reputation as China's most laid-back major city — long, low-stakes social conversation valued
+  over quick transactional exchange, a real contrast with the junction city's transit-driven public
+  rhythm.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** leisure itself as legitimate, valued time — not merely a reward earned after work, but
-worth protecting and prioritizing on its own terms.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: leisure itself as legitimate, valued time — not merely a reward earned
+  after work, but worth protecting and prioritizing on its own terms.
 
-**Concepts of:** time as something to be spent generously in company, genuinely in tension with (not
-simply replaced by) Casey's own transit-driven civic pace — a real, felt push-pull rather than a
-resolved contradiction.
+**Concepts of:**
+- Self, time, past and future: time as something to be spent generously in company, genuinely in
+  tension with (not simply replaced by) Casey's own transit-driven civic pace — a real, felt push-pull
+  rather than a resolved contradiction.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** music and performance as communal and participatory, echoing teahouse tradition,
-rather than a purely spectator experience the way a formal concert hall would be.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: music and performance as communal and participatory, echoing teahouse
+  tradition, rather than a purely spectator experience the way a formal concert hall would be.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** socializing as a regularly-practiced art form, not something reserved for special
-occasions.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: socializing as a regularly-practiced art form,
+  not something reserved for special occasions.
 
 ---
 
@@ -195,26 +254,56 @@ Korean bay with moderate mountain-funneled wind) and Hongdae, Seoul (civic type 
 famous Korean nightlife/live-music district).
 
 #### Surface Culture findings
-- **Music, Fashion, Performances:** Hongdae's own real live-music/street-fashion/youth-culture
-  identity, a strong, direct convergence with Splinters.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** Hongdae's own real live-music/street-fashion/youth-culture identity, a strong, direct
+  convergence with Splinters.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Hongdae's own real live-music/street-fashion/youth-culture identity, a strong, direct
+  convergence with Splinters.
+- **Performances:** Hongdae's own real live-music/street-fashion/youth-culture identity, a strong,
+  direct convergence with Splinters.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** expressive and visually attentive, echoing Hongdae's own real
-association with street fashion and current trends — self-presentation carries real communicative
-weight here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: expressive and visually attentive, echoing Hongdae's own
+  real association with street fashion and current trends — self-presentation carries real
+  communicative weight here.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** cultural currency and relevance tied to nightlife-district participation — being
-genuinely "in" on the current scene is a real, valued form of social capital.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: cultural currency and relevance tied to nightlife-district participation —
+  being genuinely "in" on the current scene is a real, valued form of social capital.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-**Concepts of:** self-presentation and belonging bound up together — showing up, being seen, and
-knowing what's current are all the same underlying social skill.
+**Concepts of:**
+- Self, time, past and future: self-presentation and belonging bound up together — showing up, being
+  seen, and knowing what's current are all the same underlying social skill.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** creative and artistic subculture as something to actively join and contribute to,
-not simply observe from the outside.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: creative and artistic subculture as something to actively join and
+  contribute to, not simply observe from the outside.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** socializing organized around discovery — actively following and finding what's new,
-rather than settling into fixed habitual venues.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: socializing organized around discovery —
+  actively following and finding what's new, rather than settling into fixed habitual venues.
 
 ---
 
@@ -225,26 +314,55 @@ a real sheltered French coastal bay) and Paris's Pigalle/Moulin Rouge district (
 nationally, internationally famous entertainment-leisure landmark).
 
 #### Surface Culture findings
-- **Performances, Fashion:** Pigalle's own real cabaret/entertainment-district heritage, a strong
-  convergence with Splinters' own civic-landmark status.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** Pigalle's own real cabaret/entertainment-district heritage, a strong convergence with
+  Splinters' own civic-landmark status.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** Pigalle's own real cabaret/entertainment-district heritage, a strong convergence
+  with Splinters' own civic-landmark status.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** a theatrical, performance-inflected register even in everyday
-exchange, echoing Pigalle's own cabaret heritage — self-presentation carries a deliberate, stylized
-quality.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: a theatrical, performance-inflected register
+  even in everyday exchange, echoing Pigalle's own cabaret heritage — self-presentation carries a
+  deliberate, stylized quality.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** beauty and spectacle as a public, communal good, meant to be shared and witnessed
-together rather than experienced privately.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: beauty and spectacle as a public, communal good, meant to be shared and
+  witnessed together rather than experienced privately.
 
-**Concepts of:** nightlife fame treated as a genuine civic art form, worth deliberate cultivation and
-craft, not incidental to the city's identity.
+**Concepts of:**
+- Self, time, past and future: nightlife fame treated as a genuine civic art form, worth deliberate
+  cultivation and craft, not incidental to the city's identity.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** performance and showmanship as skilled labor deserving real respect and status,
-not dismissed as frivolous.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: performance and showmanship as skilled labor deserving real
+  respect and status, not dismissed as frivolous.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** courtship and social life frequently organized around shared entertainment venues —
-the venue itself as a social institution, not just a backdrop.
+**Approaches to:**
+- Religion, courtship, marriage: courtship and social life frequently organized around shared
+  entertainment venues — the venue itself as a social institution, not just a backdrop.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -256,25 +374,60 @@ Australia's most famous entertainment/nightlife district), both especially fitti
 direct founding wave from Australia.
 
 #### Surface Culture findings
-- **Performances, Music:** Kings Cross's own real nightlife-district heritage, doubly resonant given
-  the founding-wave connection.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day, alongside informal observance connected to the founding-wave
+  arrival itself, given Australia's own direct founding-wave role here.
+- **Music:** Kings Cross's own real nightlife-district heritage, doubly resonant given the
+  founding-wave connection.
+- **Performances:** Kings Cross's own real nightlife-district heritage, doubly resonant given the
+  founding-wave connection.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** informal, easygoing, self-deprecating humor as a default register —
-consistent with the founding-population's own long-settled comfort in the city.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: informal, easygoing, self-deprecating humor
+  as a default register — consistent with the founding-population's own long-settled comfort in the
+  city.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** founding-population authority — being able to say "we were here first" carries real,
-if understated, social weight rather than being loudly asserted.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: founding-population authority — being able to say "we were here first"
+  carries real, if understated, social weight rather than being loudly asserted.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-**Concepts of:** self bound up with origin-story ownership — a quiet but genuine founding-wave pride,
-different in register from Argentina's more overt historical claim at Esperanza but comparable in kind.
+**Concepts of:**
+- Self, time, past and future: self bound up with origin-story ownership — a quiet but genuine
+  founding-wave pride, different in register from Argentina's more overt historical claim at Esperanza
+  but comparable in kind.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: a specific, quiet claim on the city's own founding role,
+  given the direct founding-wave connection.
 
-**Attitudes toward:** newcomers treated warmly and without suspicion, consistent with Australia's own
-role here as the arriving, welcomed founding population rather than a defensive incumbent one.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: newcomers treated warmly and without suspicion, consistent with
+  Australia's own role here as the arriving, welcomed founding population rather than a defensive
+  incumbent one.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** nightlife culture treated as inherited civic legacy, passed down through the
-founding generation rather than something each new arrival discovers independently.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: nightlife culture treated as inherited civic
+  legacy, passed down through the founding generation rather than something each new arrival discovers
+  independently.
 
 ---
 
@@ -286,25 +439,55 @@ community) — Moscow's Tverskaya nightlife strip (civic type — a moderate, no
 match than the others).
 
 #### Surface Culture findings
-- **Food, Music:** a modest nightlife contribution, weaker than the other populations' own City-Type
+- **Food:** a modest nightlife-adjacent contribution, weaker than the other populations' own City-Type
   anchors, with more genuine texture coming from the Avacha Bay geography match instead.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** a modest nightlife contribution, weaker than the other populations' own City-Type anchors,
+  with more genuine texture coming from the Avacha Bay geography match instead.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** reserved in public settings, warmer and more open in small,
-familiar gatherings — echoing Avacha Bay's own real close-knit, practical, weather-hardened community
-character rather than any generic assumption.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: reserved in public settings, warmer and more
+  open in small, familiar gatherings — echoing Avacha Bay's own real close-knit, practical,
+  weather-hardened community character rather than any generic assumption.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** hospitality valued but not showy — practical warmth expressed through action (shelter,
-provision) rather than public display.
+**Notions of:**
+- Courtesy and manners: hospitality valued but not showy — practical warmth expressed through action
+  (shelter, provision) rather than public display.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-**Concepts of:** place and belonging shaped by physical shelter itself — a "protected pocket" self-
-concept, echoing the bay's own real function as a refuge from open, harsher water.
+**Concepts of:**
+- Self, time, past and future: place and belonging shaped by physical shelter itself — a "protected
+  pocket" self-concept, echoing the bay's own real function as a refuge from open, harsher water.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** nightlife and public entertainment as a secondary, modest pursuit rather than a
-defining identity, consistent with this population's weaker City-Type anchor here.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: nightlife and public entertainment as a secondary, modest pursuit rather
+  than a defining identity, consistent with this population's weaker City-Type anchor here.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** socializing conducted in smaller, closer circles rather than large public venues.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: socializing conducted in smaller, closer circles
+  rather than large public venues.
 
 ---
 
@@ -316,27 +499,57 @@ nationally famous, visually loud entertainment district) — genuinely different
 one population's own real-world matches.
 
 #### Surface Culture findings
-- **Performances, Food:** Dōtonbori's own real food-and-entertainment fusion identity (its famous
-  illuminated signage and street-food culture inseparable from each other), a strong convergence with
-  Splinters.
+- **Food:** Dōtonbori's own real food-and-entertainment fusion identity (its famous illuminated
+  signage and street-food culture inseparable from each other), a strong convergence with Splinters.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** Dōtonbori's own real food-and-entertainment fusion identity (its famous illuminated
+  signage and street-food culture inseparable from each other), a strong convergence with Splinters.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** a genuine public/private duality, mirroring the two source
-matches directly — an expressive, visually oriented persona in entertainment-district contexts
-(Dōtonbori), a quieter, more reserved register in ordinary daily life (Wakasa Bay).
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: an expressive, visually oriented persona in
+  entertainment-district contexts (Dōtonbori), a quieter, more reserved register in ordinary daily life
+  (Wakasa Bay).
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: a genuine public/private duality, mirroring
+  the two source matches directly.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** spectacle and visual display as a legitimate, celebrated public form — Dōtonbori's own
-iconic signage culture treats being seen as a genuine civic art, not vanity.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: spectacle and visual display as a legitimate, celebrated public form —
+  Dōtonbori's own iconic signage culture treats being seen as a genuine civic art, not vanity.
 
-**Concepts of:** self as context-dependent — which register (public spectacle vs. private reserve)
-applies depends on setting, held as a normal, unremarkable fact of social life rather than a tension.
+**Concepts of:**
+- Self, time, past and future: self as context-dependent — which register (public spectacle vs.
+  private reserve) applies depends on setting, held as a normal, unremarkable fact of social life rather
+  than a tension.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** food and entertainment treated as inseparable from each other, not two separate
-categories of leisure.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** socializing organized around specific entertainment-district visits as a defined
-event, not a diffuse, ongoing backdrop.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: food and entertainment treated as inseparable
+  from each other, not two separate categories of leisure; socializing organized around specific
+  entertainment-district visits as a defined event, not a diffuse, ongoing backdrop.
 
 ---
 
@@ -347,19 +560,57 @@ City-Type — flagged as weak, consistent with the established pattern for this 
 specific City-Type categories.
 
 #### Surface Culture findings
-- **Food, Music:** general Indonesian cultural baseline persists — communal food-sharing, warm
-  hospitality — without a strong local-specific anchor to sharpen it further.
+- **Food:** general Indonesian cultural baseline persists — communal food-sharing, warm hospitality —
+  without a strong local-specific anchor to sharpen it further.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** general Indonesian cultural baseline persists — communal food-sharing, warm hospitality —
+  without a strong local-specific anchor to sharpen it further.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** warm and relational as a general diaspora baseline, though without
-a strong local anchor to give it Casey-specific texture the way the better-matched populations have.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: warm and relational as a general diaspora
+  baseline, though without a strong local anchor to give it Casey-specific texture the way the
+  better-matched populations have.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** community and collective harmony valued as a general cultural throughline, present but
-genuinely thinner here than at cities where this population holds a strong City-Type match.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: community and collective harmony valued as a general cultural throughline,
+  present but genuinely thinner here than at cities where this population holds a strong City-Type
+  match.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-*(Honestly thin beyond these two fields — no strong anchor found on either dimension for this
-population at this city, and not padded out further.)*
+**Concepts of:**
+- Self, time, past and future: no strongly distinct local variant surfaced beyond the general
+  diaspora-warmth baseline above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
+
+*(Honestly thin beyond a few fields — now itemized per the full depth standard rather than condensed,
+but no invented texture added.)*
 
 ---
 
