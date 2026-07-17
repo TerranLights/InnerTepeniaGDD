@@ -135,13 +135,56 @@ identity (contrast Palmer City) or withdraw into self-containment (contrast Port
 its own negotiated quarter within the Izmir/Keelung "boundary zones" pattern (civic type).
 
 #### Surface Culture findings
-- **Language, Literature:** administrative/coordination-facilitating culture, echoing Sejong's own
-  Compliant Enneagram register and its proximity to the Machu Picchu Border Authority.
+- **Food:** no strongly distinct local variant surfaced beyond the citywide seafood-based cuisine
+  pillar.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** administrative/coordination-facilitating culture, echoing Sejong's own Compliant
+  Enneagram register and its proximity to the Machu Picchu Border Authority.
+- **Language:** administrative/coordination-facilitating culture, echoing Sejong's own Compliant
+  Enneagram register and its proximity to the Machu Picchu Border Authority.
 
 #### Deep Culture findings
 
-**Concepts of:** self and community organized around a maintained, distinct quarter within a shared
-dense city — not assimilation, not isolation, but negotiated coexistence as the lived daily norm.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course,
+  echoing the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: coordination-facilitating exchange, echoing
+  Sejong's own Compliant Enneagram register.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: leadership tied to demonstrated coordination competence, echoing the Machu
+  Picchu Border Authority's own administrative proximity.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: self and community organized around a maintained, distinct quarter
+  within a shared dense city — not assimilation, not isolation, but negotiated coexistence as the lived
+  daily norm.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: coordination and process competence treated as the primary marker
+  of standing, echoing Sejong's own Thinking/Compliant/Competency civic personality.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -153,10 +196,48 @@ match as Palmer City) and its own negotiated quarter (civic type).
 #### Surface Culture findings
 - **Food:** seafood-based cuisine, a confirmed real economic and culinary pillar citywide, inflected
   with this population's own culinary tradition within its own quarter.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -166,12 +247,51 @@ match as Palmer City) and its own negotiated quarter (civic type).
 — same match used elsewhere in this subnet) and its own negotiated quarter (civic type).
 
 #### Surface Culture findings
-- **Fashion, Language:** same negotiated-quarter pattern, contributing a distinct British-inflected
-  register within the shared dense city form.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** same negotiated-quarter pattern, contributing a distinct British-inflected register
+  within the shared dense city form.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** same negotiated-quarter pattern, contributing a distinct British-inflected register
+  within the shared dense city form.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -181,12 +301,51 @@ match as Palmer City) and its own negotiated quarter (civic type).
 negotiated quarter (civic type) within the shared Izmir/Keelung pattern.
 
 #### Surface Culture findings
-- **Food, Music:** a distinct Mexican-inflected register within its own quarter, genuinely present here
+- **Food:** a distinct Mexican-inflected register within its own quarter, genuinely present here unlike
+  Sejong's earlier "weak" reading, which searched for the wrong kind of match.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** a distinct Mexican-inflected register within its own quarter, genuinely present here
   unlike Sejong's earlier "weak" reading, which searched for the wrong kind of match.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -196,11 +355,49 @@ negotiated quarter (civic type) within the shared Izmir/Keelung pattern.
 negotiated quarter (civic type).
 
 #### Surface Culture findings
-- **Language, Arts & Crafts:** a distinct German-inflected register within its own quarter.
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** a distinct German-inflected register within its own quarter.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** a distinct German-inflected register within its own quarter.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -211,12 +408,55 @@ negotiated quarter (civic type), genuinely anchored here via the structural prec
 weak reading.
 
 #### Surface Culture findings
-- **Music, Food:** the same communal-warmth register found at Sanay/Esperanza, here expressed within a
+- **Food:** the same communal-warmth register found at Sanay/Esperanza, here expressed within a
   bounded, negotiated quarter rather than diffused across the whole city.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** the same communal-warmth register found at Sanay/Esperanza, here expressed within a
+  bounded quarter.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** the same communal-warmth register found at Sanay/Esperanza, here expressed within a
+  bounded, negotiated quarter rather than diffused across the whole city.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** the same communal-warmth register found at Sanay/Esperanza, expressed within a bounded
+  quarter.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: expressive and warm, contained within its own quarter
+  rather than diffused citywide.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: warm, openly expressive register, consistent with the Sanay and
+  Esperanza precedents.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -228,11 +468,49 @@ Carlos and Marambio) — genuinely anchored here via the structural pattern rath
 unexplained weak case.
 
 #### Surface Culture findings
-- **Food, Arts & Crafts:** a distinct Italian-inflected register within its own quarter.
+- **Food:** a distinct Italian-inflected register within its own quarter.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** a distinct Italian-inflected register within its own quarter.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -242,11 +520,49 @@ unexplained weak case.
 genuine cold-maritime volcanic island match) and its own negotiated quarter (civic type).
 
 #### Surface Culture findings
-- **Food, Music:** a distinct Russian-inflected register within its own quarter.
+- **Food:** a distinct Russian-inflected register within its own quarter.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** a distinct Russian-inflected register within its own quarter.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** same negotiated-coexistence self-concept shared across all nine populations here.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: same negotiated-coexistence self-concept shared across all nine
+  populations here.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -258,14 +574,58 @@ city, giving this population a direct, literal naming claim on Sejong's own iden
 smallest population share.
 
 #### Surface Culture findings
-- **Language, Literature:** administrative/planned-city culture, echoing both Sejong's own Enneagram
+- **Food:** no strongly distinct local variant surfaced beyond the citywide seafood-based cuisine
+  pillar.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day, alongside informal observance connected to the real Sejong
+  City's own namesake anniversary, given this population's direct naming tie.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** administrative/planned-city culture, echoing both Sejong's own Enneagram
+  Thinking/Compliant register and the real Sejong City's own purpose-built administrative character.
+- **Language:** administrative/planned-city culture, echoing both Sejong's own Enneagram
   Thinking/Compliant register and the real Sejong City's own purpose-built administrative character.
 
 #### Deep Culture findings
 
-**Concepts of:** a literal namesake claim on the city's own identity, comparable in kind to Spain's
-claim at Juan Carlos — the smallest population here, but the one holding the deepest naming/identity
-tie to what the city is actually called.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: quarter boundaries respected as a matter of course, echoing
+  the negotiated-coexistence structure citywide.
+- Conversational patterns in different social situations: administrative/planned-city precision,
+  echoing the real Sejong City's own purpose-built character.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: respecting quarter boundaries as the primary courtesy standard, citywide.
+- Friendship, leadership: leadership tied to demonstrated administrative competence, echoing the real
+  Sejong City's own purpose-built character.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a literal namesake claim on the city's own identity, comparable in kind
+  to Spain's claim at Juan Carlos — the smallest population here, but the one holding the deepest
+  naming/identity tie to what the city is actually called.
+- Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
+- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding
+  identity, given the direct Sejong-City namesake tie.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: administrative/planned-city competence treated as a genuine
+  marker of standing, echoing the real Sejong City's own purpose-built character.
+- Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
