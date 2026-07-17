@@ -132,31 +132,57 @@ White Mountains, Adirondacks) and Texarkana (civic type — small-scale American
 - **Food:** simple, home-style Appalachian rural comfort food — hearty stews, preserved goods; a
   domestic rather than public food culture, fitting a residential town whose economic life happens
   elsewhere.
+- **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** modest, low-key seasonal small-town fairs rather than grand civic spectacle.
+- **Fashion:** practical, unremarkable everyday highland-rural wear.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** Appalachian folk/bluegrass tradition — informal, front-porch, family-and-neighbor music
   rather than staged public performance.
-- **Fashion:** practical, unremarkable everyday highland-rural wear.
+- **Performances:** no strongly distinct standalone performance tradition surfaced; folded into the
+  festival life above.
+- **Dances:** informal front-porch/social dance tied to the bluegrass tradition above, not staged.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** modest domestic handicraft tradition, unremarkable and unstaged.
+- **Literature:** oral storytelling/front-porch tradition more than a written literary culture.
 - **Language:** a regional Appalachian-inflected English persists informally in speech patterns.
 
 #### Deep Culture findings
 
-**Communication styles and rules:** informal, neighborly, low-key directness — people who know each
-other well, favoring quick informal exchange over elaborate ritual.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: informal, neighborly, low-key directness —
+  people who know each other well, favoring quick informal exchange over elaborate ritual.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Notions of:** courtesy built on neighborliness and mutual small favors, echoing rural community
-mutual-aid tradition.
+**Notions of:**
+- Courtesy and manners: courtesy built on neighborliness and mutual small favors, echoing rural
+  community mutual-aid tradition.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
-**Concepts of:** self and time organized around *domestic* rhythm, not economic rhythm — Abowasa's own
-days aren't structured by its own industry (there isn't much), but by when residents leave for and
-return from shifts at Sanay or Troll. Local identity concentrates in evenings, weekends, and household
-life rather than in a shared workplace.
+**Concepts of:**
+- Self, time, past and future: self and time organized around *domestic* rhythm, not economic rhythm —
+  Abowasa's own days aren't structured by its own industry (there isn't much), but by when residents
+  leave for and return from shifts at Sanay or Troll. Local identity concentrates in evenings, weekends,
+  and household life rather than in a shared workplace.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** cooperation over competition at low stakes — daily-life interdependence matters
-more than local status-seeking, since status and achievement are things that happen at Sanay or Troll,
-not in Abowasa itself.
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced beyond the
+  domestic-first framing above.
+- Cooperation vs. competition: cooperation over competition at low stakes — daily-life interdependence
+  matters more than local status-seeking, since status and achievement are things that happen at Sanay
+  or Troll, not in Abowasa itself.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
-**Approaches to:** raising children and family life as the *primary* site of local identity and
-investment, precisely because work identity is exported elsewhere.
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: raising children and family life as the *primary*
+  site of local identity and investment, precisely because work identity is exported elsewhere.
 
 ---
 
@@ -169,19 +195,54 @@ Troll.
 
 #### Surface Culture findings
 - **Food:** modest, hardy Ural mining-town practical fare.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct standalone festival surfaced; low-key and domestically scaled,
+  per the "bedroom community" pattern below.
 - **Fashion:** plain, durable, function-first — nothing performative, consistent with a population
   whose public self-presentation happens at the workplace elsewhere, not at home.
-- **Music, Arts & Crafts:** small-scale, home- and neighbor-oriented rather than publicly staged.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** small-scale, home- and neighbor-oriented rather than publicly staged.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** small-scale, home- and neighbor-oriented rather than publicly staged.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced beyond the general commuter-town register.
 
 #### Deep Culture findings
 
-**Concepts of:** a strong, explicit "bedroom community" self-understanding — home as the *real* center
-of life, work as something that happens elsewhere and is left behind at the end of a shift. Of all six
-populations here, this is the one whose homeland precedent most directly reinforces Abowasa's own
-established civic identity rather than merely coexisting with it.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** work and authority as external, workplace-bound categories — Abowasa itself is
-governed more by household and neighborhood norms than by workplace-style hierarchy.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a strong, explicit "bedroom community" self-understanding — home as the
+  *real* center of life, work as something that happens elsewhere and is left behind at the end of a
+  shift. Of all six populations here, this is the one whose homeland precedent most directly reinforces
+  Abowasa's own established civic identity rather than merely coexisting with it.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: work and authority as external, workplace-bound categories —
+  Abowasa itself is governed more by household and neighborhood norms than by workplace-style
+  hierarchy.
+- Cooperation vs. competition: no strongly distinct local variant surfaced beyond the domestic-first
+  framing above.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -202,18 +263,52 @@ applies at a given city.
 #### Surface Culture findings
 - **Food:** domestic, hospitality-oriented home cooking, aimed at family and close neighbors rather
   than public festivity.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** present but privately/domestically scaled, not the public civic centerpiece this
+  population became at Sanay.
 - **Fashion:** neat, aspirational, "presentable" everyday dress — an orderly-suburban sensibility.
-- **Festivals, Music, Dances:** present but privately/domestically scaled, not the public civic
-  centerpiece this population became at Sanay.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** present but privately/domestically scaled, not the public civic centerpiece this
+  population became at Sanay.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** present but privately/domestically scaled, not the public civic centerpiece this
+  population became at Sanay.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Notions of:** beauty and presentation tied to a well-kept home and household — echoing Alphaville's
-own real reputation for order and upkeep.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Concepts of:** self defined through household and family standing rather than public status —
-converging with, not contrasting against, the USA- and Russia-descended populations' own domestic-first
-value system above.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: beauty and presentation tied to a well-kept home and household —
+  echoing Alphaville's own real reputation for order and upkeep.
+
+**Concepts of:**
+- Self, time, past and future: self defined through household and family standing rather than public
+  status — converging with, not contrasting against, the USA- and Russia-descended populations' own
+  domestic-first value system above.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -229,17 +324,52 @@ Motherwell/Wishaw paired-town precedent rather than Highland folk imagery — av
 tartan/Highland romanticism the real population-distribution data doesn't actually support.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** Lowland industrial-town folk tradition rather than Highland pipe-and-clan imagery.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** working-town Scots-English inflection persists informally.
 
 #### Deep Culture findings
 
-**Concepts of:** a strong "us as a pair" self-conception — Motherwell and Wishaw's own real paired-town
-identity maps unusually well onto Abowasa's own two-stations-become-one founding structure, giving this
-population a natural affinity for articulating and retelling that civic origin story.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
 
-**Attitudes toward:** practical, unsentimental civic pragmatism about the twin-settlement arrangement —
-treating it as simply how things are, rather than as a point of active celebration.
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: a strong "us as a pair" self-conception — Motherwell and Wishaw's own
+  real paired-town identity maps unusually well onto Abowasa's own two-stations-become-one founding
+  structure, giving this population a natural affinity for articulating and retelling that civic origin
+  story.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: practical, unsentimental civic pragmatism about the
+  twin-settlement arrangement — treating it as simply how things are, rather than as a point of active
+  celebration.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -251,15 +381,50 @@ administrative merger process for small settlements.
 
 #### Surface Culture findings
 - **Food:** rural Massif Central pastoral/dairy tradition, modestly present.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** minor French-origin administrative/civic vocabulary persists around the twin-settlement
   arrangement specifically.
 
 #### Deep Culture findings
 
-**Concepts of:** the twin-settlement merger understood in explicitly administrative/procedural terms —
-France's own real *commune nouvelle* process is a deliberate legal act, not an organic drift, and this
-population's presence lends Abowasa's civic memory a more formal, procedural flavor than the informal,
-organic-merger tone Germany's entry (below) carries.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: the twin-settlement merger understood in explicitly
+  administrative/procedural terms — France's own real *commune nouvelle* process is a deliberate legal
+  act, not an organic drift, and this population's presence lends Abowasa's civic memory a more formal,
+  procedural flavor than the informal, organic-merger tone Germany's entry (below) carries.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -279,14 +444,49 @@ is worth watching for at other cities too.
 #### Surface Culture findings
 - **Food:** Black Forest/Harz rural highland tradition — preserved goods, woodcraft-adjacent domestic
   culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** small-scale woodcraft and handicraft tradition, modestly present.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** informal custodianship of the twin-settlement civic memory — despite the small
-population share, this population's homeland precedent (an organic, bottom-up merger, not an
-administrative one like France's) gives it an outsized, if quiet, role in how Abowasa's own founding
-story gets told and retold.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: informal custodianship of the twin-settlement civic memory — despite the
+  small population share, this population's homeland precedent (an organic, bottom-up merger, not an
+  administrative one like France's) gives it an outsized, if quiet, role in how Abowasa's own founding
+  story gets told and retold.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
