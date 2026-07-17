@@ -210,6 +210,33 @@ for the remaining cities, not just a recurring observation.
 **Working name: "Neumayeran."** *(Placeholder, same status as the previous five cities' working
 names.)*
 
+**A major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Neumayer.md`:** Neumayer's
+generations of engineers **designed and engineered Amundsen Tower itself** — built at the South Pole,
+not here, and today a source of deep, complicated civic pride specifically *because* nobody at the
+Tower's own ruins knows Neumayer built it. This is arguably the single most consequential fact about
+this city found anywhere in its research, and belongs at the center of its neo-culture, not as a
+footnote: Neumayer's populations aren't just intellectually prestige-driven in the abstract, they carry
+a genuine, unrecognized authorship claim over one of Tepenia's most significant pieces of national
+infrastructure. Worth building future Course of Events or companion material around this directly.
+
+**Music, corrected 2026-07-16:** the "thin music" gap in this file's own earlier drafts is actually
+resolved in existing canon — **Electronic, Metal, and Digital-Industrial** are Neumayer's own confirmed
+dominant genres, a machinery-adjacent, precision-coded soundscape fitting the city's whole civic
+identity far better than no dedicated tradition at all. Should be folded into each population's own
+Surface Culture "Music" line in a future pass.
+
+**Identity core:** Neumayer's own established motto, **"Measured, Not Debated,"** distinguishes its
+answer to unstable ice directly from Halley's own consensus-based relocation culture — precision and
+instrumentation instead of collective negotiation. Sharpened by its own angle on the shared
+"Methodologists" faction (also held by Halley): "rigor is measurement, close to sacred; skeptical of
+interdisciplinary work that hasn't fully honored what it's drawing from" — a stricter, more exacting
+register than Halley's own more forgiving "rigor is whatever survives being wrong."
+
+**Open thread, not resolved here:** a possible third glitch-coolant category — "precisely calibrated,"
+exact and reproducible rather than varied (bohemian cities) or simply strong (working-class cities) —
+was floated for Neumayer specifically but left genuinely undecided. Worth flagging for whoever
+eventually expands the glitch-coolant taxonomy further.
+
 Neumayer reads as Tepenia's clearest **research-institute city** — four of its five populations
 (USA, France, Germany, UK) independently converge on the same core value (intellectual/technical
 achievement as the primary source of status) via four genuinely distinct real-world research
