@@ -108,13 +108,53 @@ strong match) and Pittsburgh (civic type — same real American heavy-industrial
 McMurdo, here specifically for its raw-materials-to-finished-components role).
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
 - **Language:** shift-work industrial culture, ending each day at one of the city's local bars —
   humans drinking alcohol, robots drinking glitch-coolant, side by side.
 
 #### Deep Culture findings
 
-**Concepts of:** function over presentation as the core civic value, matching Rothera's own established
-Instinctive/Assertive/Competency personality core directly.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: direct, function-oriented exchange, matching
+  Rothera's own Instinctive/Assertive/Competency personality core.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to demonstrated function over presentation, matching
+  Rothera's own established personality core.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: function over presentation as the core civic value, matching Rothera's
+  own established Instinctive/Assertive/Competency personality core directly.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: function over presentation treated as the primary marker of
+  standing, matching Rothera's own established personality core.
+- Cooperation vs. competition: humans and robots ending shifts side by side at the same local bars, a
+  shared, egalitarian off-duty culture.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -125,13 +165,52 @@ carried by Essen/the Ruhr (civic type — same match used at Fort McMurdo/Sinheu
 defining heavy-industrial region.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** Ruhr-valley methodical industrial craft tradition, echoing the same register found
   at Belgrano's own German entry.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Ruhr-valley methodical industrial technical vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** trained, methodical industrial competence, converging with USA's own function-first
-value via a genuinely distinct real-world route.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: methodical, precision-oriented exchange,
+  echoing the Ruhr valley's own industrial-craft tradition.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: leadership tied to trained, methodical competence, echoing the Ruhr valley's
+  own industrial-craft tradition.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: trained, methodical industrial competence, converging with USA's own
+  function-first value via a genuinely distinct real-world route.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: trained, methodical competence treated as the primary marker of
+  standing, echoing the Ruhr valley's own industrial-craft tradition.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -143,14 +222,51 @@ major Canadian heavy-industrial/steel city, a strong match). Double-strong, the 
 Rothera anchored on both dimensions at once.
 
 #### Surface Culture findings
-- **Fashion, Arts & Crafts:** Hamilton's own real steel-industry craft tradition, blended with
-  Vancouver Island's mild-maritime-mountain practical culture.
+- **Food:** Vancouver Island's mild-maritime-mountain practical culture.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** Hamilton's own real steel-industry craft tradition, blended with Vancouver Island's
+  mild-maritime-mountain practical culture.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** Hamilton's own real steel-industry craft tradition, blended with Vancouver Island's
+  mild-maritime-mountain practical culture.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Hamilton's own real steel-industry technical vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** given the double-strong match, this population carries disproportionate authenticity
-for Rothera's own specific terrain-plus-industry combination — not just industrial pride generically,
-but industrial pride on *this exact kind* of mild, mountainous, coastal terrain.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: given the double-strong match, this population carries disproportionate
+  authenticity for Rothera's own specific terrain-plus-industry combination — not just industrial pride
+  generically, but industrial pride on *this exact kind* of mild, mountainous, coastal terrain.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: no strongly distinct local variant surfaced.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -163,16 +279,53 @@ cities (unlike small purpose-built specialized settlements) are exactly the larg
 Brazil matches strongly against.
 
 #### Surface Culture findings
-- **Music, Food:** Volta Redonda's own real industrial-city culture, contributing genuine texture
-  rather than the thinner diaspora-baseline register seen at cities where Brazil's City-Type match is
-  weak.
+- **Food:** Volta Redonda's own real industrial-city culture, contributing genuine texture rather than
+  the thinner diaspora-baseline register seen at cities where Brazil's City-Type match is weak.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Volta Redonda's own real industrial-city culture, contributing genuine texture rather than
+  the thinner diaspora-baseline register seen at cities where Brazil's City-Type match is weak.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** industrial craft pride, converging directly with the dominant USA/Germany/Canada
-register rather than supplying a festive counterpoint — the same pattern already seen at Abowasa
-(Alphaville) and Lazar (São Paulo): Brazil's narrative role depends entirely on which specific
-real-world match applies, not on any fixed "festive counterpoint" role.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: industrial craft pride, converging directly with the dominant
+  USA/Germany/Canada register rather than supplying a festive counterpoint — the same pattern already
+  seen at Abowasa (Alphaville) and Lazar (São Paulo): Brazil's narrative role depends entirely on which
+  specific real-world match applies, not on any fixed "festive counterpoint" role.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: industrial craft pride treated as the primary marker of standing,
+  echoing Volta Redonda's own real industrial-city culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -183,12 +336,49 @@ partial match, much warmer climate) and Lorraine's steel-industry towns (civic t
 at Fort McMurdo), a strong industrial match.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** Lorraine's own real steel-industry craft tradition.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Lorraine's own real steel-industry technical vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** industrial craft pride, converging with the dominant register via a genuine, if
-geography-unanchored, City-Type match.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: industrial craft pride, converging with the dominant register via a
+  genuine, if geography-unanchored, City-Type match.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: industrial craft pride treated as the primary marker of standing,
+  echoing Lorraine's own real steel-industry culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -199,14 +389,53 @@ weakest) — carried by Monterrey (civic type), a real major Mexican heavy-indus
 match.
 
 #### Surface Culture findings
-- **Music, Food:** Monterrey's own real industrial-city culture, distinct in flavor from this same
-  nation's Veracruz-derived port-town register used at Esperanza and Marambio.
+- **Food:** Monterrey's own real industrial-city culture, distinct in flavor from this same nation's
+  Veracruz-derived port-town register used at Esperanza and Marambio.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** Monterrey's own real industrial-city culture, distinct in flavor from this same nation's
+  Veracruz-derived port-town register used at Esperanza and Marambio.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
+- **Arts & Crafts:** no strongly distinct local variant surfaced.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
-**Concepts of:** industrial craft pride, converging with the dominant register — Mexico's second
-strongly-anchored city-type entry in this project after its weaker showings at Marambio and
-Port Lockroy, confirming the same settlement-type-dependent pattern already established for Brazil.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: industrial craft pride, converging with the dominant register —
+  Mexico's second strongly-anchored city-type entry in this project after its weaker showings at
+  Marambio and Port Lockroy, confirming the same settlement-type-dependent pattern already established
+  for Brazil.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: industrial craft pride treated as the primary marker of standing,
+  echoing Monterrey's own real industrial-city culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
@@ -216,13 +445,50 @@ Port Lockroy, confirming the same settlement-type-dependent pattern already esta
 Sheffield (civic type — same "Steel City" match used at Fort McMurdo), a strong industrial match.
 
 #### Surface Culture findings
+- **Food:** no strongly distinct local variant surfaced.
+- **Flags:** *(deferred, per standing convention.)*
+- **Festivals:** no strongly distinct local variant surfaced.
+- **Fashion:** no strongly distinct local variant surfaced.
+- **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
+- **Music:** no strongly distinct local variant surfaced.
+- **Performances:** no strongly distinct local variant surfaced.
+- **Dances:** no strongly distinct local variant surfaced.
+- **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** Sheffield's own real "Steel City" craft tradition.
+- **Literature:** no strongly distinct local variant surfaced.
+- **Language:** Sheffield's own real "Steel City" technical vocabulary.
 
 #### Deep Culture findings
 
-**Concepts of:** industrial craft pride, converging with the dominant register — despite the smallest
-population share, UK holds a fully double-strong match here (geography and City-Type both solid),
-another instance of the recurring small-population-strong-match pattern.
+**Communication styles and rules:**
+- Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
+- Personal space, touching, body language: no strongly distinct local variant surfaced.
+- Conversational patterns in different social situations: no strongly distinct local variant surfaced.
+- Handling and displaying of emotion: no strongly distinct local variant surfaced.
+- Tone of voice: no strongly distinct local variant surfaced.
+
+**Notions of:**
+- Courtesy and manners: no strongly distinct local variant surfaced.
+- Friendship, leadership: no strongly distinct local variant surfaced.
+- Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
+
+**Concepts of:**
+- Self, time, past and future: industrial craft pride, converging with the dominant register — despite
+  the smallest population share, UK holds a fully double-strong match here (geography and City-Type both
+  solid), another instance of the recurring small-population-strong-match pattern.
+- Fairness and justice: no strongly distinct local variant surfaced.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
+
+**Attitudes toward:**
+- Elders, adolescents, dependents: no strongly distinct local variant surfaced.
+- Rule expectations, work, authority: industrial craft pride treated as the primary marker of standing,
+  echoing Sheffield's own real "Steel City" culture.
+- Cooperation vs. competition: no strongly distinct local variant surfaced.
+- Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
+
+**Approaches to:**
+- Religion, courtship, marriage: no strongly distinct local variant surfaced.
+- Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
 ---
 
