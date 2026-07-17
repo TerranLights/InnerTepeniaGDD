@@ -8,10 +8,13 @@ same day's "breadbasket of Tepenia" City-Type resolution. Developer ruling: Davi
 genuinely fits it for the ecological-research/breadbasket role in a way no other city can match, and the
 mining/quarrying role that fed Sinheung's fabrication-synthesis-chamber manufacturing is reassigned to
 Mirny instead — Mirny becomes the near-exclusive top-tier industrial/quarrying hub, Davis the
-near-exclusive Breadbasket. **This requires follow-up corrections to `Specs/Davis.md`,
-`Local_Cultures/Mirny_Subnet/Davis.md`, `City_Enneagram_Personalities/Mirny_Subnet/Davis.md`, and their
-Mirny equivalents, not yet done** — tracked as a standing to-do, see Synthesis Notes below. Per-Nation
-Entries here already reflect the corrected (research/agriculture, not mining) framing.
+near-exclusive Breadbasket. **RESOLVED 2026-07-16 — cross-file corrections completed** to
+`Specs/Davis.md`, `Local_Cultures/Mirny_Subnet/Davis.md`, `City_Enneagram_Personalities/Mirny_Subnet/
+Davis.md`, their Mirny equivalents (`Specs/Mirny.md`, `Local_Cultures/Mirny_Subnet/Mirny.md`,
+`City_Enneagram_Personalities/Mirny_Subnet/Mirny.md`), and Sinheung's own supply-chain description
+(`Specs/Sinheung.md`, `Local_Cultures/Mirny_Subnet/Sinheung.md`), which had also stated raw materials
+came from Davis. Per-Nation Entries here already reflected the corrected (research/agriculture, not
+mining) framing from the start.
 
 ---
 
@@ -524,15 +527,11 @@ once, fitting given its own Primary-tier presence. Indonesia's entry is honestly
 agricultural half specifically (tropical-climate mismatch with greenhouse cultivation), balanced by a
 genuine ecological anchor via Lake Toba.
 
-**Standing to-do, flagged 2026-07-16 — not yet actioned:** per the developer's ruling today, Davis's
-mining/quarrying role (previously established in a 2026-07-05 vision session and still reflected in
-`Specs/Davis.md`, `Local_Cultures/Mirny_Subnet/Davis.md`, and `City_Enneagram_Personalities/
-Mirny_Subnet/Davis.md`) is being reassigned to Mirny — Mirny becomes the near-exclusive top-tier
-industrial/quarrying hub feeding Sinheung's fabrication-synthesis-chamber manufacturing, and Davis
-becomes the near-exclusive Breadbasket of Tepenia plus prime ecological research hub. **This requires
-corrections to all three Davis files above, plus Mirny's own equivalent files** (`Specs/Mirny.md`,
-`Local_Cultures/Mirny_Subnet/Mirny.md`, `City_Enneagram_Personalities/Mirny_Subnet/Mirny.md`), and
-possibly touches Sinheung's own established supply-chain description too. Not yet done — the Per-Nation
-Entries above already use the corrected framing, but the underlying source-of-truth files still
-describe the old mining-Davis/quarrying-Mirny split. Should be resolved before or alongside Mirny's own
-Phase 1c pass in this same subnet.
+**RESOLVED 2026-07-16.** Per the developer's ruling, Davis's mining/quarrying role (previously
+established in a 2026-07-05 vision session) has been reassigned to Mirny — Mirny is now the
+near-exclusive top-tier industrial/quarrying hub feeding Sinheung's fabrication-synthesis-chamber
+manufacturing, and Davis is the near-exclusive Breadbasket of Tepenia plus prime ecological research
+hub. Cross-file corrections completed to all three Davis source files (`Specs/Davis.md`,
+`Local_Cultures/Mirny_Subnet/Davis.md`, `City_Enneagram_Personalities/Mirny_Subnet/Davis.md`), all
+three Mirny equivalent files, and Sinheung's own supply-chain description, alongside Mirny's own
+Phase 1c pass in this same subnet as recommended.
