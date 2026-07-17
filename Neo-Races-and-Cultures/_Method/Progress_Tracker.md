@@ -139,8 +139,25 @@ population (Felixstowe) supplies an equally precise match for the city's own "sm
 outsized structural weight" central tension, while Japan holds founding-operator heritage there (the
 real Shōwa Station) despite the smallest population share.
 
-Only **1 city** remains with unstarted Per-Nation Entries: **Byrd**, the sole Byrd subnet city — the
-final city in the entire 35-city project. Mirrors the checklist convention already established for
+**PHASE 1C NOW COMPLETE FOR ALL 35 TEPENIAN CITIES, 2026-07-17.** Byrd (Byrd subnet, the sole remaining
+city) reached Phase 1c at Primary+Significant scope, the same scope already established for Palmer City
+— its full 41-nation Notable-tier roster is reserved for a later, larger pass, comparable to Palmer
+City's own. Every city in every subnet (Halley, Palmer, Mirny, Janbogo, Mawson, Byrd) now has completed
+Per-Nation Entries at the full 12+17-item depth standard, drafted at that standard from the start for
+every city except the original re-audit set (see the FULL RE-AUDIT QUEUE COMPLETE note above). Byrd's
+own findings resolve a genuine tension between its insular, hardship-forged founding character and its
+actual demographic breadth (via Australia's Coober Pedy match) and document — without attempting to
+resolve — the developer's own standing, deliberate contradiction over whether Byrd has overland highway
+access at all.
+
+**What remains for the whole Neo-Races and Neo-Cultures project going forward:** (1) Phase 2 synthesis
+— actually naming and crystallizing each city's own neo-culture/neo-race from its now-complete Phase 1c
+research, largely undone across all 35 cities (each city's own "Synthesis Notes" section is a working
+first draft only, explicitly flagged as not yet developer-confirmed); (2) the reserved Notable-tier
+passes for Palmer City and Byrd, the two cities where the full nation roster was deliberately deferred;
+(3) any further cross-subnet or Federation-wide synthesis once all 35 cities' Phase 2 work is done. This
+tracker's own per-subnet checklists below remain the authoritative status record for what's actually
+complete versus still open. Mirrors the checklist convention already established for
 `Cities/Full_City_Integrity_Check.md`.
 
 Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapshot + Real-World Parallel Locations (Phase 1b) + City-Type Parallels (Phase 1b-ii) + Population Weighting Reference done, Cultural Iceberg findings (Phase 1c) not started · `[x]` Phase 1 fully complete, ready for Phase 2 synthesis
@@ -191,8 +208,8 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [x] Sejong *(PHASE 1C COMPLETE 2026-07-16 — seventh Palmer subnet city; checking Enneagram/Vision-Notes/Megasheet research surfaced a major correction — the original "8 of 9 nations weak" reading was searching for the wrong kind of match; real precedent is a shared "boundary zones" structural pattern (Izmir/Smyrna, Keelung) where all nine populations hold a genuine negotiated quarter; South Korea's namesake claim mirrors Spain's at Juan Carlos)*
 - [x] Signy *(PHASE 1C COMPLETE 2026-07-16 — eighth and final Palmer subnet city; highest Primary-tier population concentration found anywhere in the project (USA 33.33%) yet the quietest civic register of any city cataloged, matching its Thinking/Withdrawn/Competency Enneagram core over its numeric dominance; fishing confirmed as dominant economy over marine-biology research; PALMER SUBNET FULLY PHASE 1C COMPLETE — see `Palmer_Subnet_Phase1c_Summary.md`)*
 
-## Byrd Subnet
-- [b] Byrd *(flagged: 35+ nations — comparable in scale to Palmer City; Phase 1b covered Primary+Significant only)*
+## Byrd Subnet — PHASE 1C COMPLETE (Primary+Significant scope), 2026-07-17
+- [x] Byrd *(flagged: 41 nations total — comparable in scale to Palmer City; PHASE 1C COMPLETE 2026-07-17 at Primary+Significant scope (USA, Canada, Australia, Japan, South Korea, China) — the final city in the entire 35-city project to reach this milestone; full Notable-tier roster reserved for a later pass, same as Palmer City. Japan holds the single strongest real-world geography match found anywhere in this city's own research (gangi covered-arcade snow-country architecture); Australia's Coober Pedy match resolves the tension between Byrd's insular founding character and its actual demographic breadth; developer's own standing contradiction over overland highway access documented, not resolved)*
 
 ## Other
 - [ ] Concordia *(needs its own approach — population drawn from every other city, not a single founding-nation composition)*
