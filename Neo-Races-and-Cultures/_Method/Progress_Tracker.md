@@ -12,10 +12,28 @@ Attitudes toward, Approaches to — using whichever subset genuinely applies) ra
 "Concepts of: [X], converging with the dominant register" line. A spot-check found this exact thinness
 problem already present in at least Rothera (France's entry, and likely others across the Palmer
 subnet) — **not yet retroactively audited for this specific issue**, flagged as a known quality gap
-separate from the (already-resolved) research-completeness gap above. Casey (Mirny subnet, first city
-drafted under this new bar) is the reference example for what a properly-textured entry looks like.
-Revisit the Palmer/Halley subnets for Deep Culture thinness if time allows; don't let it block forward
-progress on new cities.
+separate from the (already-resolved) research-completeness gap above.
+
+**DEPTH STANDARD FINALIZED, 2026-07-16, per direct developer instruction: "establish this level of
+depth as standard, and then we're gonna double-check the cities we've gone over."** Every nation entry
+must individually address all 12 Surface Culture items and all 17 Deep Culture sub-items across the
+five Deep Culture headers (Communication styles and rules — 5 items; Notions of — 3; Concepts of — 3;
+Attitudes toward — 4; Approaches to — 2) — not condensed into one summary line per header, and not
+silently dropped when genuinely unmatched ("no strongly distinct local variant surfaced" still gets its
+own line). This is now written directly into `City_Catalog_Template.md` itself, not just this tracker.
+**Davis (Mirny subnet, second city, redone under this bar after Casey exposed the gap) is the current
+reference example** for full-depth treatment — Casey itself was drafted just before this exact standard
+was finalized and should be checked against it too.
+
+**FULL RE-AUDIT NOW REQUIRED, superseding the narrower "Deep Culture thinness" flag above:** every city
+completed before Davis — all 8 Halley subnet cities, all 8 Palmer subnet cities, and Casey — needs to be
+checked against the full 12+17-item depth standard, not just spot-checked for thinness. This is a
+substantially larger undertaking than the earlier research-completeness audit and has not yet started.
+Recommended approach: work through subnet by subnet in the same order already established (Halley,
+then Palmer, then Casey), checking each nation entry against the full template checklist and expanding
+any condensed or dropped items. Track progress per-city below as it happens, using a distinct marker
+(e.g. a note appended to each city's existing tracker line) so it's clear which cities have been
+brought up to the new depth standard and which haven't yet.
 
 **RETROACTIVE-AUDIT GAP FULLY RESOLVED, 2026-07-16.** All 10 cities completed before the process
 requirement existed (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Troll,

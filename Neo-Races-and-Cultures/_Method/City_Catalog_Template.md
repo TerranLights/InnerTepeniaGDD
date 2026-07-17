@@ -30,6 +30,14 @@ nations optional, developer's call per city.)*
 city, or community of this nation's diaspora or homeland population living in comparable terrain/geology.
 More than one parallel is fine if no single one is a strong match.)*
 
+**DEPTH REQUIREMENT, standardized 2026-07-16 per developer direction:** every bullet below — all 12
+Surface Culture items and all 17 Deep Culture sub-items across the five Deep Culture headers — must be
+addressed individually for every nation entry, not condensed into a single summary line per header. A
+genuinely weak/unmatched item still gets its own line saying so ("no strongly distinct local variant
+surfaced") rather than being silently dropped. This applies from Casey (Mirny subnet) onward; every
+city completed before this note is flagged for a re-audit pass against this standard — see
+`Progress_Tracker.md`.
+
 #### Surface Culture findings
 - Food:
 - Flags:
