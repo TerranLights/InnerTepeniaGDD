@@ -6,6 +6,17 @@ new city's Phase 1c work:** check that city's own `City_Megasheets/[Subnet]/[Cit
 [City].md`, and `City_Vision_Notes/[City].md` (if it exists) *before* drafting Per-Nation Entries — not
 just `Specs/[City].md`.
 
+**DEEP CULTURE QUALITY BAR, added 2026-07-16 per developer feedback on Casey's first draft:** every
+Deep Culture entry needs genuine multi-field substance (Communication styles, Notions of, Concepts of,
+Attitudes toward, Approaches to — using whichever subset genuinely applies) rather than one thin
+"Concepts of: [X], converging with the dominant register" line. A spot-check found this exact thinness
+problem already present in at least Rothera (France's entry, and likely others across the Palmer
+subnet) — **not yet retroactively audited for this specific issue**, flagged as a known quality gap
+separate from the (already-resolved) research-completeness gap above. Casey (Mirny subnet, first city
+drafted under this new bar) is the reference example for what a properly-textured entry looks like.
+Revisit the Palmer/Halley subnets for Deep Culture thinness if time allows; don't let it block forward
+progress on new cities.
+
 **RETROACTIVE-AUDIT GAP FULLY RESOLVED, 2026-07-16.** All 10 cities completed before the process
 requirement existed (Sanay, Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Troll,
 Esperanza, Juan Carlos) have now been checked against their own Vision Notes/Megasheet research and
@@ -89,7 +100,7 @@ Legend: `[ ]` not started · `[~]` City Snapshot done only · `[b]` City Snapsho
 - [b] Sayowa
 
 ## Mirny Subnet
-- [b] Casey *(the project's own second worked example for the City-Type Parallels category — nationally famous for "Splinters," its huge live-music bar)*
+- [x] Casey *(the project's own second worked example for the City-Type Parallels category — nationally famous for "Splinters," its huge live-music bar; PHASE 1C COMPLETE 2026-07-16 — first Mirny subnet city; real founding tension is destination-vs-waypoint (not entertainment-district generically), USA triple-anchored via Flagstaff/Memphis/Reno; DEEP CULTURE QUALITY BAR RAISED this city — full multi-field Deep Culture entries required per developer feedback, see quality-bar note in header)*
 - [b] Davis *(city-type resolved 2026-07-16: a combined ecological/limnological research hub AND Tepenia's foremost sheltered-agriculture/greenhouse city — the "breadbasket of Tepenia," growing from Davis's status as the largest ice-free oasis in the country)*
 - [b] Kunlun *(100% robot population — Phase 1b treated the nation list as heritage-tracking rather than a literal resident population; same caveat carries into Phase 1c)*
 - [b] Mirny
