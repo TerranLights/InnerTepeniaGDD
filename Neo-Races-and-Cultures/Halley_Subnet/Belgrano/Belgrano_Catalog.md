@@ -128,11 +128,17 @@ culture that produced its own music scene). All three line up cleanly.
 #### Surface Culture findings
 - **Food:** hearty, portable frontier food (Alaska heritage) alongside blue-collar diner/quick-service
   food culture (Detroit auto-town tradition) — fast, functional eating between shifts.
-- **Music:** a homegrown, scrappy garage/DIY music tradition, literally emerging from workshop and
-  hangar space — a genuinely different register from Casey's polished, purpose-built "Splinters"; this
-  is a *made*, not staged, music culture.
+- **Music:** **Garage Rock** *(corrected 2026-07-16 to the actual confirmed canon genre name, per
+  `City_Vision_Notes/Belgrano.md` — raw, DIY, unpolished, heard from open windows and doors of
+  restaurants and social venues)* — a genuinely different register from Casey's polished, purpose-built
+  "Splinters"; this is a *made*, not staged, music culture, and Detroit's own real garage-rock lineage
+  makes this population's connection to it especially direct.
 - **Fashion:** rugged utilitarian wear spanning both registers — bush-pilot/fisherman gear and
   auto-shop coveralls read as the same basic garment logic.
+- **Arts & Crafts:** *(added 2026-07-16)* **the Rastra/Arrastradora vehicle lineage** — Belgrano
+  invented these vehicles for the original Byrd Expedition (Byrd Station discovery, an all-robot crew),
+  and modest but real Rastra-repair specialization persists as a point of local pride — "for anything
+  with an engine, there's reliably somebody in Belgrano who can repair it."
 - **Language:** aviation/logistics jargon (Anchorage heritage) blended with mechanic/garage slang
   (Detroit heritage).
 
@@ -245,7 +251,24 @@ route to the same "maker city" center of gravity.
 ## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
 
 **Working name: "Belgranan."** *(Placeholder, same status as Sanay's "Sanayan" and Abowasa's
-"Abowasan.")*
+"Abowasan." Note the city's own official second-interwar identity, confirmed in
+`City_Vision_Notes/Belgrano.md`, is **"The Airbase That Never Stood Down"** — a "purposeful,
+frontier-proud, almost martial civic bearing; function before comfort as baseline, not aspiration."
+Worth considering whether the eventual neo-culture name should echo that register directly rather than
+a generic "-an" suffix.)*
+
+**Robot-specific culture, folded in 2026-07-16:** per Vision Notes, Belgrano's robots are
+overwhelmingly concentrated in industrial work — aviation logistics, port/shipping operations,
+manufacturing, and fabrication — with maintenance/repair (including Rastra-specific mechanical work) a
+significant but secondary strand, not the dominant one. This reinforces rather than complicates the
+"maker city" reading below.
+
+**Founding-nation-drift echo, folded in 2026-07-16:** Argentina — Belgrano's real Air Force founding
+nation, directly tied to the original Byrd Expedition discovery — sits at Notable tier (4.40%),
+diluted like every Halley subnet founding nation. Outside this pass's Primary/Significant scope, but
+the same pattern already confirmed at Sanay (South Africa) and Abowasa (Finland/Sweden): a founding
+identity (here, the Rastra-inventing, frontier-martial Air Force heritage) surviving as civic mythology
+and craft-tradition long after the founding population itself became a small minority.
 
 Belgranan culture reads as Tepenia's clearest **"maker city"** — three independent populations (USA,
 Germany, UK), each via a different real-world route (scrappy DIY improvisation, trained methodical
