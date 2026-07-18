@@ -113,11 +113,27 @@ founding nation. **But** deciding its form means both communities have to agree 
 worth celebrating together. **Therefore** the resulting holiday, The Joint Founding, becomes the one
 date on Abowasa's calendar that belongs to the city rather than to either half of it.
 
+## 11. The Level Table
+
+A dispute between two households breaks out over something real and unresolvable by simple avoidance —
+an old grievance, a disputed boundary, a debt neither side agrees on. **But** Abowasa is small enough
+that the two parties cannot simply stop encountering each other; there is no room in a town this size to
+just stay apart. **Therefore** the community has to develop an actual way of settling the dispute
+without declaring a clean winner, since a clear loser would poison every future encounter between two
+people who have nowhere else to go. **But** the first attempt at this is improvised — workable for this
+one dispute, not yet a repeatable practice. **Therefore**, because the same structural problem will keep
+recurring for as long as Abowasa stays this small, the improvised solution hardens into an actual,
+named civic custom — "The Level Table" — the first time "competence is intimacy management" stops being
+a description of how Abowasa behaves and becomes something residents can actually point to and use.
+
 ---
 
 ## Worth Your Attention
 
-**#3** and **#4** are the most load-bearing — they turn Abowasa's established Technical/Scientific
+**#11** institutionalizes the Synthesis Notes' own named guiding civic value ("competence is intimacy
+management") for the first time — distinct from #9's joint-management precedent for shared physical
+assets, this is specifically about resolving interpersonal disputes between people who can't avoid each
+other, a different domain entirely. **#3** and **#4** are the most load-bearing — they turn Abowasa's established Technical/Scientific
 research strength into actual causal events (an internal institutional merger, an external consulting
 relationship) rather than a static profile line. **#1** and **#5** work as a matched pair: the same
 underlying "hybridize daily life, protect symbolic identity" split, told once from the winning side

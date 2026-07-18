@@ -125,11 +125,30 @@ quite closes the gap between how the city understands itself and how visitors fi
 **Therefore** the small, recurring moment of having to explain becomes, itself, a quiet piece of what
 it means to raise a child in Esperanza.
 
+## 11. The Compact Underground
+
+Esperanza's mines run dangerous, physically demanding rotational shifts — and because rotational mining
+fathers are the population the whole city's founding compact indirectly exists to support, the workforce
+most exposed to real underground risk is, disproportionately, the same fathers whose children the
+compact promises to protect. **But** for years nobody connects the two facts explicitly; mining safety
+gets treated as ordinary operational policy, the founding compact as a separate, civic-emotional matter.
+**Therefore** when a serious mining accident finally forces the question into the open — a father
+injured or killed, his own child now one of the very children the compact was written for — the city
+can no longer keep the two facts apart. **But** meeting the moment with real, costly safety reform means
+accepting real reductions in output, straining Esperanza's own contribution to the wider Tepenian
+industrial supply chain. **Therefore** the city commits anyway: mine safety standards get rewritten,
+explicitly framed not as ordinary labor policy but as a direct, literal extension of the founding
+compact itself — protecting fathers because protecting fathers is how the city actually protects its
+children, whatever the cost to output.
+
 ---
 
 ## Worth Your Attention
 
-**#2 and #3** work as a pair — the discovery that gave Esperanza's founding compact its concrete
+**#11** is the sharpest expression of the founding compact found in any of the eleven chains — it's the
+only one where the city pays a real, ongoing economic cost specifically because the compact demands it,
+rather than the compact and the economy simply coexisting comfortably (Finding 1's own "economic-vs-civic"
+reading). **#2 and #3** work as a pair — the discovery that gave Esperanza's founding compact its concrete
 starting point, and the registry that turned it into an ongoing civic practice, together tracing the
 Megasheet's own proposed origin story for the city's central charter. **#4 and #10** are the most
 emotionally grounded threads, since together they move from the abstract civic policy (rotational

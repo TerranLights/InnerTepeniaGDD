@@ -30,7 +30,9 @@ already fully absorbed into these. New angles below are ones the existing 10 don
    None of the 10 existing chains dramatize how or why that specific labor arrangement actually formed
    at Sanay's docks. Given how load-bearing this fact is for wider project canon, a chain tracing its
    actual origin (a specific staffing decision, a specific crisis it solved) seems like real missed
-   value, not just local color.
+   value, not just local color. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Record
+   Nobody Meant to Get Wrong"** — see `Sanay_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Sanay_11_The_Record_Nobody_Meant_to_Get_Wrong.md`.
 
 2. **Resident character cultures.** The Catalog itself explicitly flags an unused seed: the German/UK
    "the schedule is sacred" punctuality culture versus the Brazilian population's "people matter more
@@ -95,6 +97,8 @@ Ny-Ålesund) are already absorbed into these. New angles below are ones the exis
    specific, often deliberately non-punitive conflict-resolution customs built around preserving the
    relationship rather than declaring a winner. None of the 10 chains show Abowasa actually developing
    or using such a custom; the value is named but never institutionalized in the existing chains.
+   **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Level Table"** — see
+   `Abowasa_Course_of_Events_Suggestions.md` and `Course_of_Events/Abowasa_11_The_Level_Table.md`.
 
 4. **City personality / geography / geology → history.** Abowasa's Enneagram (Thinking/Compliant/
    Positive Outlook) is one of only two fully unique reads in the whole project, and the Mega_Init notes
@@ -159,7 +163,9 @@ dilution (#10). New angles below are ones the existing 10 don't touch.
    (Feeling/Reactive) is explicitly read as "a city wrestling with its own image and continuity," a
    pre-war chain about a real scare — ice movement threatening the one piece of infrastructure that
    makes Belgrano matter — would ground that Reactive trait in something concrete happening before the
-   war, not only in the post-war Boneyard Times material this pass is scoped away from.
+   war, not only in the post-war Boneyard Times material this pass is scoped away from. **DRAFTED
+   2026-07-17 as Course of Events Suggestion #11, "The Ground That Moved"** — see
+   `Belgrano_Course_of_Events_Suggestions.md` and `Course_of_Events/Belgrano_11_The_Ground_That_Moved.md`.
 
 5. **Other.** Belgrano's own "we can fix anything with an engine" pride (the throughline of chains #3
    and #7) is never tested against something it genuinely *can't* self-supply. A chain about Belgrano
@@ -209,7 +215,8 @@ angles below are ones the existing 10 don't touch.
    philosophy *applied*, but none of the 10 show it being *founded* — the actual moment it went from an
    individual attitude to a named, articulated civic school of thought residents could point to and
    invoke, the same way Sanay's "Competence Without Commentary" got its own origin moment (Sanay chain
-   #10).
+   #10). **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "Wrong, and Then What"** — see
+   `Halley_Course_of_Events_Suggestions.md` and `Course_of_Events/Halley_11_Wrong_and_Then_What.md`.
 
 5. **Other.** The Synthesis Notes flag that USA and Canada hold "outsized influence on Halley's actual
    lived culture despite Brazil (11.69%) and UK (10.57%) each holding a larger or comparable population
@@ -237,6 +244,8 @@ finally made the coalescence official (#10). New angles below are ones the exist
    of the 10 chains use it. A chain dramatizing a specific moment that mismatch becomes politically live
    — a proposal to relocate the capital, or Lazar's own civic leadership chafing at deferring to a
    smaller seat of government — would use an idea the project's own research already flagged as ready.
+   **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "Biggest, Not in Charge"** — see
+   `Lazar_Course_of_Events_Suggestions.md` and `Course_of_Events/Lazar_11_Biggest_Not_in_Charge.md`.
 
 2. **Resident character cultures.** The Catalog establishes a genuinely distinct UK-descended music
    culture: a diffuse, multi-venue club/scene structure (echoing Manchester's real post-industrial music
@@ -304,7 +313,9 @@ seismic reading handled with total calm (#10). New angles below are ones the exi
    or whether the city has made a more settled peace with it. Chain #6 handles this at the civic/
    institutional scale (the city as a whole declining a recognition moment); the personal scale — one
    engineer's private relationship to having built something world-changing that will never carry their
-   name — is a distinct, still-open angle explicitly invited by the city's own research.
+   name — is a distinct, still-open angle explicitly invited by the city's own research. **DRAFTED
+   2026-07-17 as Course of Events Suggestion #11, "A Private Correction"** — see
+   `Neumayer_Course_of_Events_Suggestions.md` and `Course_of_Events/Neumayer_11_A_Private_Correction.md`.
 
 4. **City personality / geography / geology → history.** The hydraulic-leg architecture is established as
    Neumayer's literal engineering answer to its floating-ice-shelf foundation, but the existing chains only
@@ -343,6 +354,9 @@ below are ones the existing 10 don't touch.
    producing everything it needs on-site still can't produce food or raw materials on a wind-scoured
    nunatak — a chain about negotiating that literal trade (energy expertise for imported goods) would
    surface an economic dependency running the opposite direction from the self-sufficiency mythology.
+   **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "What the Wind Can't Grow"** — see
+   `Princess_Elisabeth_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Princess_Elisabeth_11_What_the_Wind_Cant_Grow.md`.
 
 2. **Resident character cultures.** The Catalog explicitly flags France's Cadarache/ITER-echoing
    "big-science, international-collaboration" register as "an especially fitting resonance given Princess
@@ -398,7 +412,9 @@ ones the existing 10 don't touch.
    None of the 10 chains dramatize the establishment of *that* specific route — a supply line to a
    pilgrimage city with genuine religious significance, not just another freight destination. A chain about
    how that route got established, and what it meant to be the city literally keeping a sacred city fed,
-   would use a flagged connection none of the existing chains touch.
+   would use a flagged connection none of the existing chains touch. **DRAFTED 2026-07-17 as Course of
+   Events Suggestion #11, "No Leverage in It"** — see `Troll_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Troll_11_No_Leverage_in_It.md`.
 
 2. **Resident character cultures.** The Catalog explicitly names France's Courchevel-echoing "aviation as
    skilled, even glamorous spectacle" as "a genuine counter-note" and "a second, smaller register" against

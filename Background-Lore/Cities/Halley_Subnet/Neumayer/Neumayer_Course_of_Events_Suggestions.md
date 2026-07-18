@@ -121,11 +121,29 @@ startled that nobody thought it worth mentioning. **Therefore** the exchange bec
 moment of cultural contrast — what reads as a near-miss anywhere else is, at Neumayer, simply
 Tuesday's data.
 
+## 11. A Private Correction
+
+An engineer who worked directly on the current fabrication-synthesis chamber's schematic meets, by
+chance, someone from Sinheung or Byrd — one of the two cities that actually builds the chamber today —
+who mentions the chamber's design with real pride, crediting their own city's own workmanship without
+any idea the underlying schematic came from somewhere else entirely. **But** the engineer knows exactly
+whose hands actually drew the plans this stranger is unknowingly praising secondhand. **Therefore** a
+sharp, private impulse rises — to correct the record on the spot, to say plainly where the design
+actually came from. **But** correcting it here, to one stranger, in passing, wouldn't change anything
+citywide; it would just be one uncomfortable personal moment, not the kind of civic campaign Neumayer's
+whole culture has already, deliberately, declined to run. **Therefore** the engineer says something
+small instead — not a correction, not a claim, just a quiet acknowledgment that the design has an
+interesting history — and lets the moment pass, keeping the fuller truth exactly where it's always
+lived: privately, personally, unspoken but not forgotten.
+
 ---
 
 ## Worth Your Attention
 
-**#1 and #2** are the most structurally important — together they confirm the Megasheet's own
+**#11** is the personal-scale counterpart to chain #6's civic-scale story — where #6 shows the city as a
+whole declining a public recognition moment, this is one ordinary engineer's private version of the same
+choice, made alone, with nobody watching, exactly the individual angle the Mega_Init's own Bletchley Park
+research question explicitly invites and chain #6 doesn't reach. **#1 and #2** are the most structurally important — together they confirm the Megasheet's own
 Cross-Reference finding that the Tower wasn't an isolated irony but a standing pattern, giving that
 pattern two concrete, dated instances instead of one. **#6** is the most emotionally significant,
 since it's the only thread that actually tests the city's stated equanimity about its own uncredited

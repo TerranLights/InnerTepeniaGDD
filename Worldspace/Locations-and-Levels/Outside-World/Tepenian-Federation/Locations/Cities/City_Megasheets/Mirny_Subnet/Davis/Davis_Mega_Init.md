@@ -70,10 +70,23 @@ Carried forward from `Specs/Davis.md` and `Local_Cultures/Mirny_Subnet/Davis.md`
 - Whether a distinct Mirny-subnet Australian community identity (Davis, Casey, Mirny) survives post-Split Brain
 - Whether any cultural connection persisted with Mawson (the city, different subnet) despite the subnet divide
 - Demonym — still TBD
-- Notable figures — only placeholders exist so far
 - Whether Sanay is confirmed as part of the smuggled-books network (flagged likely but unconfirmed)
 
-**New, surfaced by this research pass:** whether Davis's own relationship to visitors and outside attention should be written as a genuine, active tension (residents who quietly wish for more recognition of the Vestfold Hills' remarkable terrain, echoing Guatapé's real tourism embrace) rather than simple, uncomplicated indifference.
+**Resolved 2026-07-17:** notable figures — per Course of Events Suggestion #3, "Credit Declined"
+(`Davis_Course_of_Events_Suggestions.md`), Naturalist Ratna Wirawan is named, beyond placeholder status.
+Also resolved, the "New, surfaced by this research pass" question this Mega-Init originally raised:
+whether Davis's relationship to outside recognition should be written as active tension rather than
+simple indifference — per Suggestion #8, "The Wish Nobody Says Out Loud" (clean of the mining/breadbasket
+discrepancy flagged elsewhere in this file's Course of Events chains), it should: a private, rarely-voiced
+wish for outside recognition of the terrain, not uncomplicated indifference.
+
+**Decided 2026-07-18:** Suggestions #5, #6, #7, and #10 still describe mining/fabrication as Davis's
+dominant daily economy, contradicting this Mega-Init's own 2026-07-16 breadbasket correction. Rather than
+patch those four individually, the developer has called for the entire 10-chain
+`Davis_Course_of_Events_Suggestions.md` collection to be regenerated fresh against Davis's now-conclusive
+settled identity — **"Breadbasket of Tepenia," plus a genuine multi-disciplinary research hub**. See the
+flag at the top of that file. Suggestion #11, "Food for Stone," already reflects the corrected identity
+and needs no rework.
 
 ---
 

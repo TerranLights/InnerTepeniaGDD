@@ -129,6 +129,19 @@ understanding gets distributed across the whole research population instead — 
 comprehends the whole archive, but the community together, piece by piece, still manages to make it
 function.
 
+## 11. Right After the Expansion
+
+Kunlun's comms-relay facility undergoes its major expansion, scaled to match the astronomy program
+rather than staying permanently subordinate to it — giving Kunlun real spare capacity to reach outward
+for the first time. **But** a Vostok researcher is genuinely uncertain what two such differently-focused
+outposts could actually offer each other, extreme isolation aside. **Therefore** the two sites work out
+a concrete first exchange rather than a vague gesture — Kunlun's comms carrying supply requests neither
+site can source alone, Vostok offering computational modeling and cold-tolerance research relevant to
+Kunlun's own engineering in return. **But** a partnership built on genuine exchange rather than
+sentiment has to keep proving its own worth to last. **Therefore** it does — the relationship becomes
+durable precisely because it started as something concrete and practical, dated to the direct aftermath
+of Kunlun's own expansion rather than existing as an undated, always-assumed fact.
+
 ---
 
 ## Worth Your Attention
@@ -138,4 +151,5 @@ redistributed population's arrival, and their own deliberate choice to take up t
 Megasheet's own central "inherited legend" tension an actual causal sequence. **#5** is the richest
 individual thread of the ten, since it's the only one built directly from already-sanctioned candidate
 material for Vostok's own resident geneticist, giving her established backstory proposal a fuller
-dramatized shape.
+dramatized shape. **#11** resolves a genuine cross-city timeline constraint, anchoring chain #7's
+Vostok-Kunlun partnership to a specific, consistent historical moment rather than leaving it undated.

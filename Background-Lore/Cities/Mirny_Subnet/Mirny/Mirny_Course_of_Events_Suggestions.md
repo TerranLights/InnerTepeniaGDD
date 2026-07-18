@@ -120,6 +120,19 @@ distinctly underwhelming by comparison. **Therefore** Mirny never tries to compe
 its own bars stay exactly as rough as the city around them, honest rather than impressive, and
 residents wouldn't have it any other way.
 
+## 11. What Feeds the Chambers
+
+Sinheung's fabrication-synthesis-chamber production scales up to meet growing national demand, and the
+resulting material request from Mirny is larger and more urgent than the city's existing quarrying
+capacity — already committed to the subnet-local Hwy 110 role — was ever sized to handle. **But**
+diverting capacity toward Sinheung's request risks leaving the Mirny subnet's own infrastructure
+under-supplied, while refusing it risks national chamber production falling short. **Therefore** Mirny
+commits to genuine expansion instead of choosing between the two — real investment sized to supply both
+Hwy 110's local materials needs and Sinheung's national demand at once. **But** that kind of expansion
+takes real, sustained commitment to actually deliver. **Therefore** it holds: Mirny's industrial identity
+gains a second, nationally significant tier, the same rough, unglamorous quarry work now reaching all the
+way to the robots whose fabrication depends on it.
+
 ---
 
 ## Worth Your Attention
@@ -129,4 +142,5 @@ its worth, giving Mirny's single most distinctive architectural fact an actual o
 validation rather than treating it as always having simply worked. **#6** is the most structurally
 significant thread, since it gives Mirny's own "subnet hub" role a physical, ongoing mechanism (the
 literal source of the subnet's construction materials) rather than leaving the hub status as pure
-administrative abstraction.
+administrative abstraction. **#11** extends that same structural significance nationally, giving the
+2026-07-16 Mirny-Sinheung supply correction its first dramatized, load-bearing test.

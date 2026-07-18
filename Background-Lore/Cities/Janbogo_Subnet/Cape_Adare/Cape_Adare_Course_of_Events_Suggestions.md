@@ -118,6 +118,19 @@ settle it permanently — the same question resurfaces with every new budget cyc
 defending the archive becomes a recurring civic ritual of its own, quietly as much a part of the
 city's character as St. Carsten's Landing itself.
 
+## 11. Bigger Than the Coast
+
+A genuinely national-level dispute needs representatives from well beyond the Ross Sea coast, and with
+no standing national capital to host it, a delegate proposes Cape Adare — not for convenience, but
+because its total lack of founding-nation dominance or political ambition makes it credibly neutral
+ground. **But** Cape Adare's own civic leadership is uneasy, worried that hosting something this
+significant risks undoing the deliberately unhurried "big city, small-town feel" the city has spent
+generations protecting. **Therefore** Cape Adare agrees, but strictly on its own terms — contained,
+temporary, kept away from the historic core. **But** running an event this consequential still risks
+reshaping the city's own ambitions afterward. **Therefore** it doesn't — the gathering happens, genuinely
+national in weight, and Cape Adare returns immediately to its ordinary civic life, proof that mattering
+enormously and staying exactly what the city already chose to be were never actually in tension.
+
 ---
 
 ## Worth Your Attention
@@ -126,4 +139,6 @@ city's character as St. Carsten's Landing itself.
 keep it funded and valued, giving Cape Adare's established heritage-consciousness real, lived
 friction rather than treating it as automatic. **#1 and #3** together trace the city's whole
 demographic arc: a founding with no organizing story, and the deliberate civic work required to keep
-that lack of a unifying identity from ever curdling into anonymity at real scale.
+that lack of a unifying identity from ever curdling into anonymity at real scale. **#11** completes the
+Mega_Init's own Yalta parallel, giving Cape Adare the specific national-scale half of that precedent
+chain #7's more modest, regional gathering doesn't fully capture.

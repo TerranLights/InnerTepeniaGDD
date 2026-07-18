@@ -129,6 +129,18 @@ generations, something closer to a shared inheritance residents feel obligated t
 the city still deserves the name it carries — not just surviving Cape Denison, but remaining worthy
 of it.
 
+## 11. Held Down, Held Together
+
+A resident is caught in an unexpectedly severe gust at one of the fused structure's own transition
+points — a loading dock, an access hatch — proving structural elegance at the macro scale doesn't
+automatically solve every hazard at the human scale. **But** an engineer proud of Wei Zhang's original
+achievement resists adding what reads as a lesser fix on top of an already-elegant unified system.
+**Therefore** a real disagreement opens between structural pride and practical, ground-level safety.
+**But** the small, human-scale details protect people at exactly the points the big system still leaves
+exposed. **Therefore** the city adopts them anyway — chains, handrails, and weighted roofing layered onto
+the existing fused structure, Denison's engineering identity becoming genuinely twofold: the celebrated
+macro-scale achievement, and the quieter granular details that complete it.
+
 ---
 
 ## Worth Your Attention
@@ -138,4 +150,5 @@ established fact (one continuous fused structure) an actual founding decision an
 rather than leaving it as an unexplained architectural given. **#3 and #6** work as a natural pair,
 tracing the verbal wind-statistics tradition from its structural cause to a concrete incident that
 validated it — the same resolution the Megasheet's own Full Extrapolation proposes, given an actual
-dramatized shape.
+dramatized shape. **#11** uses the two specific, level-design-ready real-world details (Trieste's chains
+and weighted roofs) the Mega_Init itself flagged as worth keeping but no chain had yet used.

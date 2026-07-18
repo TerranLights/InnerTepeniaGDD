@@ -106,12 +106,17 @@ Carried forward from `Specs/Signy.md` and `City_Vision_Notes/Signy.md`; nearly a
 - St. Ernest (Shackleton) veneration — **confirmed** (Full Extrapolation §V): Signy's genuine strongest civic-spiritual thread, expressed through the Endurance Span and a proposed annual observance.
 - Ice Cold Buddhism — **proposed** (Full Extrapolation §VI): minimal to no presence; the religion's austere-cold thematic register doesn't fit Signy's mild, biologically rich identity.
 - Whether Signy can communicate with Concordia post-war — **proposed** (Full Extrapolation §VII): technically possible via radio/residual Arcanet, but genuinely difficult.
-- Two placeholder holiday names ("The Long Watch," "St. Ernest's Passage") — **developed** (Full Extrapolation §VIII); "St. Ernest's Passage" built into Course of Events stage #10.
+- Two placeholder holiday names ("The Long Watch," "St. Ernest's Passage") — **developed** (Full Extrapolation §VIII); "St. Ernest's Passage" built into Course of Events stage #10, and **"The Long Watch" likewise built into stage #8** (resolved 2026-07-17, this Mega-Init simply hadn't cross-checked stage #8 against the holiday-name list).
 - ~~A stale contradiction between two files over whether the biological research station is "fully intact" or "damaged but partially functional"~~ — **resolved 2026-07-13** (`Local_Cultures/Palmer_Subnet/Signy.md` Section 29, in favor of "intact," per Section IX's own proposal), no longer open.
 - A minor population-figure discrepancy (low priority) — still open; Full Extrapolation §X couldn't reproduce it either.
-- Signy's own power self-sufficiency — **proposed** (Full Extrapolation §XI): tentatively self-sufficient via small-scale wind-and-hydro, modeled on El Hierro.
 
-**New, surfaced by this research pass:** given El Hierro's and Samsø's genuine real-world renewable self-sufficiency, and given the radio-not-Arcanet comms detail already established, it's worth asking whether Signy's own power generation — needed to run its radio equipment, docks, and floating platforms — is self-sufficient in the same way, or whether this is another post-war vulnerability sitting alongside the already-established siligel shortage. The current files don't address Signy's own power situation at all.
+**Resolved 2026-07-17:** Signy's own power self-sufficiency, and the "New, surfaced by this research
+pass" question this Mega-Init originally raised about it — **proposed** (Full Extrapolation §XI):
+tentatively self-sufficient via small-scale wind-and-hydro, modeled on El Hierro, and **confirmed and
+fully dramatized** by Course of Events Suggestion #2, "Whatever the Wind Provides"
+(`Signy_Course_of_Events_Suggestions.md`): residents build a local wind-and-hydro system matched
+specifically to Signy's own conditions, maintained as an ongoing civic priority precisely because the
+system has no outside backup if it fails.
 
 ---
 

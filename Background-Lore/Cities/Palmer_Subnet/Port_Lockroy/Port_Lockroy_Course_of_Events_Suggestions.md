@@ -124,6 +124,19 @@ anyone thinks to ask how Port Lockroy became the subnet's postal center, the hon
 nobody ever formally decided it — it simply kept growing, the same way Old Toby always quietly
 suspected it would.
 
+## 11. The Panel He Never Explained
+
+Old Toby's stone wall has grown into a genuine communal palimpsest, and a heritage custodian sets out to
+catalogue every panel's meaning — completing the record smoothly until one panel resists: a DNA helix
+rendered in electrons and cosmic strings, its meaning never publicly explained by whoever carved it.
+**But** the carver, still living, wants it kept that way — some contributions were only ever meant as
+private reflections made visible, not public explanations. **Therefore** a real disagreement opens
+between the cataloguing impulse and the carver's own wish for privacy, neither side wrong. **But**
+forcing the meaning into the open would flatten exactly what made the panel worth carving in the first
+place. **Therefore** the wall's custodians settle on a real compromise: a formal "deliberately
+unexplained" category alongside the wall's more conventional attributed meanings, the DNA-helix panel
+recorded as belonging to it rather than force-explained or left an unaccounted gap.
+
 ---
 
 ## Worth Your Attention
@@ -132,4 +145,7 @@ suspected it would.
 generation that finally sees it come true without him there to witness it, giving the Megasheet's own
 central, quietly moving detail (a prophecy proven true only after its speaker's death) its full
 dramatized arc. **#4 and #10** trace the postal-hub role's actual mechanics, from its earliest split
-with harbor trade to its eventual, undramatic maturity into a real subnet-wide function.
+with harbor trade to its eventual, undramatic maturity into a real subnet-wide function. **#11** is the
+most thematically resonant of the eleven — it takes the single most striking, previously-unused image in
+any of Port Lockroy's source material and gives it a real place in the wall's own communal story without
+ever pinning down exactly what it means.

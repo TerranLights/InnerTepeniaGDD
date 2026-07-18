@@ -122,6 +122,20 @@ infrastructure at once. **Therefore** Marambio's centrality ends up genuinely du
 diversification rather than any single irreplaceable function — a considered strategic strength, not
 an accident of geography.
 
+## 11. The Hedge, Tested
+
+Marambio's runway sits at the center of the Palmer subnet's aviation network, with the shipyard still
+read by most residents as sound but secondary insurance, a hedge nobody's ever actually had to cash in.
+**But** newer, longer-range aircraft begin making direct flights between distant Tepenian cities practical
+without a stop at Marambio, and the runway's traffic visibly thins — the same technological shift, in
+miniature, that ended Gander's real-world indispensability once jets crossed the Atlantic non-stop.
+**Therefore** the city faces a real choice: fight to defend the airfield's old centrality, or let its role
+recalibrate and lean into the shipyard instead. **But** choosing to lean into the shipyard means
+accepting that Marambio's old, airfield-first self-image no longer describes the city accurately.
+**Therefore** the city leans in anyway — investment and attention shift toward the port, the airfield's
+role settles into internal Tepenian logistics specifically, and chain #10's old hedge, tested for the
+first time, proves out exactly as intended.
+
 ---
 
 ## Worth Your Attention
@@ -130,4 +144,5 @@ an accident of geography.
 city's operational discipline, and its own quiet persistence long after the founding population
 thinned to almost nothing. **#4 and #10** work as a pair, giving the Megasheet's own newly-confirmed
 dual airfield-and-shipyard identity both a developmental origin and the strategic logic behind why it
-mattered.
+mattered. **#11** completes that pair into a trio — it's the only chain where #10's hedge actually gets
+tested against a real threat rather than remaining a purely proactive, hypothetical strategy.

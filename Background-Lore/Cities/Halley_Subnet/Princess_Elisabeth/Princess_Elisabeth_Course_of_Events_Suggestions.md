@@ -126,11 +126,28 @@ legend. **Therefore** Margrethe's own name stays known mainly within the enginee
 essential, quietly credited work, a small early instance of "leaving no mark" applied to how the
 city remembers the very engineers who kept it alive.
 
+## 11. What the Wind Can't Grow
+
+As Princess Elisabeth's engineering consultation reputation grows (see #3), the city gains real leverage
+it never had before — but the same wind-scoured nunatak that makes wind and solar power so plentiful
+grows no food and yields no raw materials at all. **But** the "leave no mark" mythology the city takes
+genuine pride in has always emphasized total self-sufficiency, never the quiet imports of food and goods
+the city has depended on since founding. **Therefore** when the city's leadership moves to formalize its
+growing consulting reputation into a real trade agreement — energy expertise in direct exchange for
+guaranteed food and material shipments — the negotiation forces an uncomfortable admission out into the
+open for the first time. **But** admitting the dependency doesn't actually change anything about how the
+city survives; it only changes whether the city says so out loud. **Therefore** Princess Elisabeth
+settles into a sharper, more honest version of its own self-image: self-sufficient in exactly the thing
+that could have killed it — energy — and openly, unashamedly dependent in everything else, a distinction
+residents learn to state plainly rather than let the founding mythology quietly paper over.
+
 ---
 
 ## Worth Your Attention
 
-**#2 and #9** work best read together — the near-miss that exposes the city's total dependency, and
+**#11** complicates the "leave no mark" mythology in a way none of the other 10 chains do — it's the
+only thread that names what the city actually depends on from outside, rather than treating
+self-sufficiency as total. **#2 and #9** work best read together — the near-miss that exposes the city's total dependency, and
 the genuinely expensive commitment that dependency provokes, giving Princess Elisabeth's founding
 "nothing to fall back on" premise an actual before-and-after shape within its own pre-war history.
 **#7 and #10** form a natural pair as well: two different generations' worth of quietly uncredited

@@ -125,6 +125,18 @@ civic reputation to keep functioning — a hub nobody trusts, or a resort nobody
 undermine the other eventually. **Therefore** Mawson's two identities stay quietly, permanently
 interdependent, even though most visitors only ever see the half built to welcome them.
 
+## 11. The Part Nobody Points To
+
+Someone researching Mawson's earliest exile-era records finds that the real transition from Australian
+Antarctic Division routine to full civic life was genuinely harder than the smooth, celebratory version
+everyone now tells. **But** a civic archivist wanting the harder history genuinely acknowledged meets
+real concern from someone in the hospitality industry, worried about complicating a warm reputation
+decades in the making. **Therefore** a real disagreement opens over how, or whether, to tell the fuller
+story. **But** presenting only the smooth version does a disservice to what the earliest generation
+actually lived through. **Therefore** a middle path holds — the harder history acknowledged honestly,
+available to anyone who looks, without displacing the warmth that's genuinely, currently true. Mawson's
+civic self-understanding gains a third layer few outsiders ever notice.
+
 ---
 
 ## Worth Your Attention
@@ -135,4 +147,6 @@ an actual origin rather than treating it as always having simply been true. **#9
 directly load-bearing thread of the ten, since it dramatizes the Megasheet's own central theme
 ("The Name That Outlasted the Founders") as a lived civic choice rather than a passive demographic
 fact — deliberately leaving open, per the Megasheet's own note, whether any further correction to
-Mawson's founding-nation demographic balance is ever made.
+Mawson's founding-nation demographic balance is ever made. **#11** answers the Mega_Init's own Jeju-
+parallel question directly, giving the city's warmth genuine depth without contradicting #9's separate,
+openly-settled demographic peace.

@@ -91,13 +91,24 @@ The actual institution whose entire mission is precision metrology, literally de
 Carried forward from `Specs/Neumayer.md` and `City_Vision_Notes/Neumayer.md`, still genuinely unresolved:
 - Notable figures: still nobody named
 - Demonym: still TBD
-- Whether the Alfred Wegener Institute survived as a distinct institutional entity in exile, or dissolved into the city's general governance
+- One placeholder holiday name ("Founders' Instrument") never fully developed
 - Current ice-shelf-movement and calving status — how far has the Ekström Ice Shelf moved since the war, and has any portion of the city calved into the Weddell Sea?
-- Two placeholder holiday names ("Founders' Instrument," "The Schematic") never fully developed
 - Whether the centuries-long climate/atmospheric data record survived the war or reached Concordia — an open lean toward yes, not settled canon
-- Neumayer's own glitch-coolant variant — genuinely undecided; a "precisely calibrated" third category was floated but never confirmed
 
-**New, surfaced by this research pass:** given Bletchley Park's own real veterans' complicated relationship to their enforced anonymity — pride in the achievement, frustration at never being credited for it — it's worth asking whether Neumayer's own residents feel something similar about the Amundsen Tower situation, or whether the city has made a more settled peace with it than Bletchley's own veterans ever fully did. The current files don't explore this emotional angle directly.
+**Resolved 2026-07-17:** whether the Alfred Wegener Institute survived as a distinct institutional entity
+in exile — yes, per Course of Events Suggestion #4, "The Institute That Refused to Dissolve": formally,
+deliberately preserved as its own entity, producing two overlapping governance systems (general civic
+administration and the continuous research institute) rather than letting either absorb the other. Also
+resolved: "The Schematic" holiday name, previously listed here as undeveloped — it's the same civic
+holiday Course of Events Suggestion #1 develops directly, marking the Amundsen Tower schematic's own
+quietly bittersweet, largely uncredited legacy. Also resolved: the emotional-angle research question this
+section previously raised about Bletchley Park's own veterans' complicated pride-versus-frustration —
+Course of Events Suggestion #6 explores exactly this, dramatizing and then declining the temptation to
+publicly correct the record, confirming Neumayer has made a more settled peace with its own uncredited
+legacy than Bletchley's veterans ever fully did. Neumayer's own glitch-coolant variant remains genuinely
+undecided as an *officially named* category, but Course of Events Suggestion #9 already provides a
+working de facto example of what a "precisely calibrated" category would actually taste like and mean
+culturally — worth drawing on directly whenever the taxonomy question gets formally resolved.
 
 ---
 

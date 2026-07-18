@@ -32,7 +32,7 @@ The city's own re-derived demographic Primary now leads the population outright,
 
 ## What It Feels Like
 
-Heavy industrial fabrication dominates daily life — raw materials trucked in from Davis, worked into finished goods. The single most consequential fact about the city, hiding behind an otherwise modest political profile: it's one of a handful of Tepenian cities that manufactures the actual apparatus that creates robots, shipped nationwide so a robot can be built anywhere in the Federation regardless of local manufacturing capability. Underneath the industry runs a genuinely unusual civic mood — a deep, openly-held sense of pride and forward-looking ambition, sharper and less blended than most post-national Tepenian cities carry. **Corrected 2026-07-13:** for most of this city's development, that pride wasn't embedded in a name the founders chose for themselves — "Soyuz" was never their choice at all. It was embedded instead in a claim the founders had to secure by treaty rather than simply inherit, and the output-driven civic mood is how they spent 130 years proving it. **Updated 2026-07-14:** the city has since chosen its own name — Sinheung, "newly rising" — which now carries that same pride directly, rather than standing in contrast to an unchosen placeholder.
+Heavy industrial fabrication dominates daily life — raw materials trucked in from Mirny *(corrected 2026-07-18 — this line said "from Davis," the pre-2026-07-16 framing; Davis's own economy was reassigned to breadbasket/research that day, and Mirny now holds the raw-material feeder role instead, per Course of Events Suggestion #5, "What Mirny Sends")*, worked into finished goods. The single most consequential fact about the city, hiding behind an otherwise modest political profile: it's one of a handful of Tepenian cities that manufactures the actual apparatus that creates robots, shipped nationwide so a robot can be built anywhere in the Federation regardless of local manufacturing capability. Underneath the industry runs a genuinely unusual civic mood — a deep, openly-held sense of pride and forward-looking ambition, sharper and less blended than most post-national Tepenian cities carry. **Corrected 2026-07-13:** for most of this city's development, that pride wasn't embedded in a name the founders chose for themselves — "Soyuz" was never their choice at all. It was embedded instead in a claim the founders had to secure by treaty rather than simply inherit, and the output-driven civic mood is how they spent 130 years proving it. **Updated 2026-07-14:** the city has since chosen its own name — Sinheung, "newly rising" — which now carries that same pride directly, rather than standing in contrast to an unchosen placeholder.
 
 ---
 
@@ -65,12 +65,25 @@ A real city that underwent a deliberate, self-chosen renaming carrying enormous 
 Carried forward from `Specs/Sinheung.md` and `Local_Cultures/Mirny_Subnet/Sinheung.md`, the genuinely remaining TBDs:
 - ~~The city's own eventual proper name~~ — **RESOLVED 2026-07-14:** Sinheung (신흥, "newly rising/emerging")
 - Demonym — TBD; something Korean, now that the city's own real name is settled
-- Notable figures — two placeholders proposed in `Sinheung_Full_Extrapolation.md` (Chief Engineer Baek Ji-hoon, Foreman Dae-ho Richter), not yet confirmed
-- Which other Tepenian cities manufacture fabrication-synthesis chambers alongside this one
 - The chamber's own proper, non-placeholder name
 - Exact extent of the Long Night War damage to this specific city, distinct from the cluster-wide resolution
 - The DLC 4 aviation route's exact start date to Dome Fuji (left deliberately loose per `Specs/Sinheung.md`)
-- The specific inter-community relationships within the Larsemann Hills cluster before the war
+
+**Resolved 2026-07-17:** notable figures — per Course of Events Suggestions #2, #4, and #10
+(`Sinheung_Course_of_Events_Suggestions.md`), Chief Engineer Baek Ji-hoon and Foreman Dae-ho Richter are
+both established as remembered, credited figures in local institutional memory, beyond placeholder
+status. Also resolved: the specific inter-community relationships within the Larsemann Hills cluster
+before the war — per Suggestion #6, "Three Parties, One Agreement," the three communities settle into
+coexistence gradually, the same diplomatic working relationship that divided the cluster among them at
+Jeju-do simply continuing once they're actually living beside each other.
+
+**Resolved 2026-07-18:** Suggestion #5 (now retitled "What Mirny Sends") previously described Davis
+exporting raw industrial materials to Sinheung — the same superseded pre-2026-07-16 framing flagged as
+stale on Davis's own Megasheet and Course of Events file. Per the developer's own explicit call, the
+supplier is now corrected to Mirny throughout (the summary chain, the expanded chain file — renamed from
+`Sinheung_05_What_Davis_Sends.md` to `Sinheung_05_What_Mirny_Sends.md` — this Mega-Init's own "What It
+Feels Like" section, and `Sinheung_Full_Extrapolation.md` Section III). Davis's own 10-chain Course of
+Events collection remains separately flagged for full regeneration — see Davis's own Mega_Init.
 
 ---
 

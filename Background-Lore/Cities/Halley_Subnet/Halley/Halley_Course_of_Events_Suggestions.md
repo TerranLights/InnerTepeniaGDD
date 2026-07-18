@@ -117,11 +117,30 @@ moved on from that ground generations ago. **Therefore** the loss lands as pure 
 than practical crisis: proof the city's whole philosophy was right all along, and also the quiet end
 of any physical place residents could still call "where we started."
 
+## 11. Wrong, and Then What
+
+In the earliest founding years, before "Built to Move" is settled civic doctrine, planners keep having
+to revise relocation routes on the fly — the ice never quite behaves the way surveys predict it will.
+**But** an early miscalculation is worse than most: a route calculated as safe for the next relocation
+cycle turns out to be wrong, forcing an emergency reroute with real modules already in motion.
+**Therefore** the crew responsible, rather than treating the error as a failure to bury, does something
+different — they document exactly what the surveys got wrong and exactly how the emergency reroute
+actually worked, treating the correction itself as the real deliverable. **But** one good recovery
+doesn't prove anything; it could simply be luck. **Therefore** when a second, unrelated miscalculation
+tests the same instinct months later and the same documented-correction approach holds up again, the
+idea stops being one crew's habit and becomes something residents start deliberately naming and
+invoking — the actual founding moment of what later crystallizes into The Methodologists, and the first
+time "rigor is whatever survives being wrong about the ground under your feet" gets said out loud rather
+than simply practiced.
+
 ---
 
 ## Worth Your Attention
 
-**#4** and **#10** work as a matched pair — the archive that's Halley's only remaining history, and
+**#11** gives The Methodologists' own named civic philosophy an actual founding moment, distinct from
+chains #1 and #6, which show the philosophy already *applied* — this is specifically the moment it
+became a named, citable school of thought rather than an unspoken individual instinct, the same origin-
+of-doctrine move Sanay's own chain #10 made for "Competence Without Commentary." **#4** and **#10** work as a matched pair — the archive that's Halley's only remaining history, and
 the actual moment its founding ground disappears, giving that archive real, felt stakes rather than
 abstract ones. **#6** is the most structurally significant on its own: it's the only thread that turns
 the Full Extrapolation's most pointed finding (no contingency plan, and that absence *is* the risk)

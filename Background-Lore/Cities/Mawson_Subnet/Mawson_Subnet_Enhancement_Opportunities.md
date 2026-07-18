@@ -48,7 +48,8 @@ touch.
    separately lists "whether a Taktsang-style disaster-and-rebuilding beat gets added to Dome Fuji's own
    history" as still open. None of the 10 chains use this. A chain about a specific disaster at Nyakkyo and
    its rebuilding becoming its own devotional story would use this explicitly flagged, still-open, directly
-   invited addition.
+   invited addition. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "What the Fire Left"** — see
+   `Dome_Fuji_Course_of_Events_Suggestions.md` and `Course_of_Events/Dome_Fuji_11_What_the_Fire_Left.md`.
 
 4. **City personality / geography / geology → history.** Chain #3 covers only the one-time discovery
    expedition's crossing; none of the 10 chains address the interior plateau crossing as an *ongoing*
@@ -103,7 +104,9 @@ New angles below are ones the existing 10 don't touch.
    opposite of anything suppressed. None of the 10 chains use the "unacknowledged" half of the Jeju
    parallel. A chain about some quieter, genuinely unexamined layer beneath Mawson's warm surface — distinct
    from chain #9's deliberately open peace — would use this explicitly flagged, still-unused half of an
-   already-cited precedent.
+   already-cited precedent. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Part Nobody
+   Points To"** — see `Mawson_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Mawson_11_The_Part_Nobody_Points_To.md`.
 
 4. **City personality / geography / geology → history.** The Prince Charles Mountains appear only as
    scenery for the Overlook honeymoon tradition (#4); no chain addresses any other use of the range —
@@ -155,7 +158,10 @@ protected founding-nation dilution (#10). New angles below are ones the existing
    goes unused. Chains #1, #6, and #9 all frame Sayowa's outsized importance as serving the whole
    continent generally, never addressing the sharper asymmetry that the junction primarily builds up other
    cities' prosperity rather than Sayowa's own. A chain about residents grappling with that specific
-   asymmetry would use the unused, most pointed half of an already-heavily-cited precedent.
+   asymmetry would use the unused, most pointed half of an already-heavily-cited precedent. **DRAFTED
+   2026-07-17 as Course of Events Suggestion #11, "Everyone Else's Prosperity"** — see
+   `Sayowa_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Sayowa_11_Everyone_Elses_Prosperity.md`.
 
 4. **City personality / geography / geology → history.** None of the 10 chains address East Ongul
    Island's own physical size or land constraints as anything beyond a factor in the seasonal-crossing

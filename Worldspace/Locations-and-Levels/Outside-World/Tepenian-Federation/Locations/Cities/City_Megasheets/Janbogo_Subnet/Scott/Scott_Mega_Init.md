@@ -66,13 +66,21 @@ A genuinely quiet, walkable historic town just 7.8 miles from Washington D.C., e
 
 Carried forward from `Specs/Scott.md`, still genuinely unresolved:
 - Demonym for Scott residents: still TBD
-- The full economic and industrial character of Scott distinct from Fort McMurdo, beyond the confirmed Erebus-material-collection detail
 - The current relationship between Scott's and Fort McMurdo's surviving sections in the post-war present — the DLC 6 central question for this city pair
 - The Hut Point Discovery Hut's accessibility and condition after the war
-- Notable figures: still nobody named
 - How the Scott–Fort McMurdo relationship functioned during the Long Night War itself — coordinated, separate, or something more complicated
 
-**New, surfaced by this research pass:** given Fort McMurdo's own newly-clarified capital timeline (informal, then formally designated by name within the Second Interwar Period), it's worth asking how Scott's residents specifically reacted to that formalization — did it strain the established "genuinely collaborative and genuinely competitive in equal measure" relationship between the two cities, now that one of them carried an actual official title the other never held or sought? The current files don't address this directly.
+**Resolved 2026-07-17:** the full economic and industrial character of Scott beyond the Erebus-material
+collection detail — per Course of Events Suggestion #6, "Measuring What Fort McMurdo Builds"
+(`Scott_Course_of_Events_Suggestions.md`), a genuine complementary technical niche: precision equipment
+calibration and environmental monitoring, including a real share of the ongoing Erebus watch. Also
+resolved: notable figures — Community Organizer Fiona Māui (Suggestion #2) and Wiremu Tane, Keeper of
+Hut Point (Suggestion #4), are both named. Also resolved, the relationship-level half of the "New,
+surfaced by this research pass" question this Mega-Init originally raised: whether Fort McMurdo's capital
+formalization actually strained the day-to-day Scott/Fort McMurdo dynamic, not just Scott's own private
+feelings (already covered by Suggestion #7's internal "quiet sting" reaction) — per the newly-drafted
+Suggestion #11, "The Rivalry, After" (`Course_of_Events/Scott_11_The_Rivalry_After.md`), it didn't: the
+sibling dynamic (Suggestion #9) held, tested directly rather than merely assumed.
 
 ---
 

@@ -66,14 +66,19 @@ The only place on Earth where African penguins live directly integrated into a r
 
 Carried forward from `Specs/Cape_Adare.md`, still genuinely unresolved:
 - Did Borchgrevink's 1899 hut survive the Long Night War destruction? — the single most emotionally and historically significant open heritage question in the entire Janbogo subnet
-- St. Carsten's civic observance date — the Southern Cross expedition overwintered 1899–1900, but no specific commemorative date has been chosen
 - The founding population's exact national composition specifics beyond "mixed, gateway city"
 - The destruction timeline within the Long Night War, and whether the rookery's scale complicated or provided any cover during the strike
 - The exact road connection and distance from Cape Adare south to the Terra Nova Bay cities
 - Demonym: still TBD
-- Notable figures: still nobody named
 
-**New, surfaced by this research pass:** given Yalta's own real precedent as a small town that hosted a world-changing diplomatic meeting, and Cape Adare's established weight as "the place where Antarctica's human story began," it's worth asking whether Cape Adare ever hosted a second historically significant event or gathering of its own — beyond Borchgrevink's original 1899 overwintering — during its centuries as a settled Tepenian city. The current files don't address this either way.
+**Resolved 2026-07-17:** St. Carsten's civic observance date — per Course of Events Suggestion #6, "St.
+Carsten's Landing" (`Cape_Adare_Course_of_Events_Suggestions.md`), February 17th is formally adopted.
+Also resolved: notable figures — Rookery-Keeper Tomás Widjaja (Suggestion #2) and Archivist Elena Manalo
+(Suggestions #4 and #10) are both named. Also resolved, the "New, surfaced by this research pass"
+question this Mega-Init originally raised: whether Cape Adare hosted a second historically significant
+gathering beyond 1899 — per Suggestion #7, "The Second Gathering," yes, a regional Ross Sea coast
+self-governance gathering (see also the newly-drafted Suggestion #11, "Bigger Than the Coast," which
+gives the city a second, genuinely national-scale gathering distinct from #7's regional one).
 
 ---
 

@@ -122,6 +122,17 @@ of identity. **Therefore** "the city that never wanted to be the capital" become
 Scott's civic character as anything it actively built — defined, in part, by the prominence it simply
 never wanted.
 
+## 11. The Rivalry, After
+
+The annual Hut Point Independence Day gathering arrives for the first time since Fort McMurdo's capital
+status became officially designated, and a Scott resident arrives quietly guarded, half-testing whether
+anything about the relationship changed. **But** a Fort McMurdo resident is genuinely oblivious to any of
+it mattering, confused by the unfamiliar reserve. **Therefore** a real, if quiet, tension sits between
+them at first. **But** the gathering itself proceeds exactly as it always has — the same teasing, the
+same warmth, the same shared reverence. **Therefore** the guardedness dissolves over the course of the
+evening, proving directly and socially, not just privately, that the formal title changed far less in
+practice than Scott had quietly worried it might.
+
 ---
 
 ## Worth Your Attention
@@ -130,4 +141,6 @@ never wanted.
 that decision would hold against genuine temptation, giving Scott's smallness an actual defended shape
 rather than treating it as a static, unchallenged fact. **#5** is the most emotionally resonant thread
 of the ten, since it's the only one that gives the Hut Point tradition an actual origin moment rather
-than describing it as something that simply always happened.
+than describing it as something that simply always happened. **#11** completes chain #7's private,
+internal reaction with an actual relationship-level test, proving rather than merely assuming the
+Scott/Fort McMurdo sibling dynamic survived the capital formalization.

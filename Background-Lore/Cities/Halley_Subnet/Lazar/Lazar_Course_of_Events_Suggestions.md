@@ -121,11 +121,27 @@ means picking a name, a seat of government, a set of civic institutions — choi
 one settlement's conventions over the other's. **Therefore** even Lazar's most unified, "grown
 together" identity carries a small, buried asymmetry from the exact moment it became official.
 
+## 11. Biggest, Not in Charge
+
+A major resource-allocation decision that directly affects Lazar's own infrastructure gets made by the
+nation's formal seat of government — a much smaller city, but the one holding actual political
+authority — without any real consultation of Lazar's own civic leadership. **But** Lazar's economic and
+demographic weight so obviously dwarfs the deciding city's that the decision reads, to Lazar's own
+residents, as backward on its face. **Therefore** Lazar's civic leadership pushes back — formally,
+loudly, through whatever channels exist — arguing that a city this size deserves real say in decisions
+that land on its own doorstep. **But** practical influence and formal authority turn out to be
+genuinely different things, and Lazar's outsized economic weight doesn't translate into outsized formal
+standing no matter how forcefully it's argued. **Therefore** the decision stands, and Lazar settles into
+a permanent, unresolved civic posture — the country's largest city, and also, unmistakably, not the one
+in charge, a friction the city carries forward rather than ever actually resolves.
+
 ---
 
 ## Worth Your Attention
 
-**#1, #4, and #6** are the most load-bearing — together they trace Lazar's full arc from coalescence
+**#11** dramatizes a structural tension the Synthesis Notes themselves flag as "a real and usable point
+of civic identity/friction" — Lazar as biggest but not in charge — left untouched by all 10 existing
+chains. **#1, #4, and #6** are the most load-bearing — together they trace Lazar's full arc from coalescence
 through its later infrastructure stress-tests using facts the Megasheet already proposes (the
 century-long merger timeline, the old core's passive resilience, the expansion's comparative
 fragility) rather than inventing new mechanics. **#8** is worth keeping for tone alone — it's the one thread built entirely around a detail

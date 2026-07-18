@@ -86,10 +86,16 @@ Carried forward from `Specs/Belgrano.md` and `City_Vision_Notes/Belgrano.md`, st
 - One more Notable Figure — the founding-era Air Force commander or institutional figure who set the operational tone that outlasted the institution itself
 - Whoever shaped the Boneyard Times itself — a figure whose choices during the post-war decline determined who stayed and how the remaining community organized
 - Where the Byrd-founding maps were physically archived — a specific institution, or general ruins recovery?
-- Contact between Belgrano and its fellow Argentine-founded cities, Esperanza and Marambio, prior to the Planetary Split Brain
 - Economy beyond aviation and shipping — full detail still TBD for DLC 5
 - Municipal holidays — not yet established at all, a genuine gap unlike most Halley subnet cities
 - Whether "Boneyarders" was ever fully embraced by the group it named, or stayed an outsider's term
+
+**Resolved 2026-07-17:** contact between Belgrano and its fellow Argentine-founded cities, Esperanza and
+Marambio, prior to the Planetary Split Brain — this section previously listed it as open — is now
+addressed as Course of Events Suggestion #8, "Logistics, Not Solidarity," in
+`Belgrano_Course_of_Events_Suggestions.md`: genuinely useful but operationally thin contact (shipping
+schedules, weather advisories, trade coordination), with the shared Argentine heritage never developed
+into anything deeper.
 
 ---
 

@@ -74,9 +74,16 @@ Carried forward from `Specs/Zukelli.md`'s Open Questions, still genuinely unreso
 - Janbogo's ongoing relationship to the ruins — memorial practice, a tradition of crossing the bay, or something the living city has learned not to look at
 - The size and status of the Zukelli diaspora within Janbogo specifically, versus the wider Concordia community
 - A demonym for Zukelli residents
-- Notable figures originally from Zukelli — none named yet
 
-**New, surfaced by this research pass:** whether Zukelli's tangled street layout should get an explicit, Valparaíso-style practical visual-navigation system (color, material, or symbol-coded) as a concrete answer to how residents actually find their way through it.
+**Resolved 2026-07-17:** notable figures originally from Zukelli — per Course of Events Suggestion #4,
+"Elisa's Room" (`Zukelli_Course_of_Events_Suggestions.md`), restaurateur Elisa Faranda is named. Also
+substantially deepened, though not fully resolved: why Zukelli was approaching its own demographic peak
+right as it was destroyed — per the newly-drafted Suggestion #11, "The Wave That Was Still Arriving"
+(`Course_of_Events/Zukelli_11_The_Wave_That_Was_Still_Arriving.md`), a specific late-era immigration
+surge driven by the city's own growing hospitality reputation gives this established fact a real causal
+story rather than leaving it purely atmospheric.
+
+**New, surfaced by this research pass:** whether Zukelli's tangled street layout should get an explicit, Valparaíso-style practical visual-navigation system (color, material, or symbol-coded) as a concrete answer to how residents actually find their way through it. Chain #2 covers a general, arbitrary block-by-block marking convention, but not Valparaíso's own specific detail — a marking system with a genuinely practical origin — so this remains only partially addressed.
 
 ---
 

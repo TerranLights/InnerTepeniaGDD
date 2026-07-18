@@ -51,6 +51,10 @@ sectors running as one integrated system (#10). New angles below are ones the ex
    earthquake. None of the 10 chains touch ground instability at all; every chain assumes stable
    underground expansion. A chain about Byrd's engineers managing a genuine ground-stability crisis —
    echoing Kiruna's real subsidence precedent — would use this unused, explicitly flagged parallel.
+   **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Weight of All That Digging"** — see
+   `Byrd_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Byrd_11_The_Weight_of_All_That_Digging.md`. This is the final chain of the entire
+   nationwide 35-city Course of Events Enhancement pass.
 
 4. **City personality / geography / geology → history.** The Catalog's own Geological composition entry
    notes "some areas volcanically active" within the West Antarctic marine ice sheet, but none of the 10

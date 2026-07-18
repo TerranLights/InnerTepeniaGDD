@@ -117,6 +117,18 @@ genuine inconvenience for a population that depends on the halls completely. **T
 expansion becomes a real, lived civic event residents remember collectively — proof, tested directly,
 of exactly how central the halls had already become to Janbogo's whole way of life.
 
+## 11. What One Fire Proved
+
+A fire breaks out in one of Janbogo's shielded commercial halls — contained and survivable, but genuinely
+serious, the first real test of a structure this large and this central to daily life. **But** a civic
+planner is reluctant to commit to costly retrofits based on one incident, while a resident who was inside
+insists the real risk is the underlying concentration itself, not just this fire's specific cause.
+**Therefore** a real disagreement opens over whether to change anything at all. **But** the risk doesn't
+go away just because this particular fire was contained. **Therefore** the city commits to genuine
+structural compartmentalization anyway — fire barriers and independent sections dividing the halls into a
+connected network rather than one continuous vulnerable space, the shielded, communal character intact
+but genuinely more resilient than before.
+
 ---
 
 ## Worth Your Attention
@@ -126,4 +138,6 @@ accumulation of hub function it produced, together explaining Janbogo's centrali
 single deliberate founding decision. **#2, #5, and #9** trace the same "absorbs and re-originates"
 civic trait (the Megasheet's own Cross-Reference Finding 2) across three different scales — one
 teahouse, one general pattern, one full citywide adoption — giving that trait a concrete developmental
-arc rather than stating it as a fixed fact.
+arc rather than stating it as a fixed fact. **#11** directly answers the Mega_Init's own explicitly
+raised concentration-equals-vulnerability question, extending the city's cultural adaptability into a
+genuine structural one.

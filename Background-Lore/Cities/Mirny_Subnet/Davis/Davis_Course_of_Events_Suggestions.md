@@ -1,5 +1,18 @@
 # Davis — Candidate Courses of Events
 
+**⚑ FLAGGED FOR FULL REGENERATION — ON HOLD, 2026-07-18 (developer decision).** Davis's local
+personality/identity is now conclusively settled — **"Breadbasket of Tepenia," plus a genuine
+multi-disciplinary research hub** — superseding the mining/fabrication framing this entire 10-chain
+collection was originally built on (chains #5, #6, #7, and #10 were already flagged stale against the
+2026-07-16 economy reassignment). Rather than patch those four individually, the whole collection will be
+regenerated fresh against the settled identity — **but the regeneration itself is deliberately paused**
+until Davis's own Neo-Races Catalog and Megasheet trio (Mega_Init, Full_Extrapolation,
+Cross_Reference_Synthesis) get their own review pass first, so the new chains draw on whatever comes out
+of that review rather than just the identity settled so far. **This file, and every expanded chain file
+in `Course_of_Events/Davis_01` through `Davis_10`, should be treated as superseded pending that
+regeneration.** Course of Events Suggestion #11, "Food for Stone" (`Course_of_Events/
+Davis_11_Food_for_Stone.md`), already reflects the corrected identity and is unaffected by this flag.
+
 **Scope note:** all ten chains below are set strictly *before* the Long Night War, during the Second
 Interwar Period when Tepenia is a full, functioning country — no war damage, no post-war/present-day
 material. 10 candidate But/Therefore chains built from Davis's Megasheet (the enabler-not-explorer
@@ -122,6 +135,20 @@ actually does day to day. **Therefore** the founding scientific mission survives
 respected minority tradition — smaller than it once was, but never abandoned, sitting alongside the
 industrial majority rather than being replaced by it.
 
+## 11. Food for Stone
+
+*(Grounded in the corrected 2026-07-16 breadbasket/research identity — Davis's own agricultural surplus,
+not the superseded mining/fabrication framing above, which remains flagged for developer decision.)*
+
+Mirny's industrial and quarrying operation grows fast enough along Hwy 110 that informal, ad-hoc food
+arrangements genuinely stop being adequate for its expanding workforce, at the same moment Davis's own
+breadbasket surplus has nowhere established to go. **But** Davis's own enabler instinct risks letting
+that surplus go quietly undervalued rather than genuinely, fairly traded. **Therefore** the two cities
+negotiate a real, formal exchange — Davis's agricultural surplus for Mirny's materials and construction
+goods. **But** a lopsided or informal arrangement would only repeat the same undervaluation Davis's own
+civic character is prone to. **Therefore** it gets codified as a real, ongoing relationship instead, food
+for stone flowing steadily along the same corridor connecting both cities.
+
 ---
 
 ## Worth Your Attention
@@ -130,4 +157,7 @@ industrial majority rather than being replaced by it.
 specific personal choice that turned it into a defining civic value rather than just a scientific
 achievement. **#10** is the most structurally important thread, since it traces the exact
 demographic-and-economic shift (research-first founding to industry-first present) that every other
-established fact about Davis's current character depends on.
+established fact about Davis's current character depends on — though see the note on Suggestion #11
+below regarding the 2026-07-16 correction. **#11** is grounded specifically in the *corrected*
+breadbasket economy, giving Davis's post-correction identity a genuine outward-facing trade relationship
+with Mirny rather than only an internal one.

@@ -69,13 +69,17 @@ Chosen as the site of Argentina's own 1816 Congress of Independence specifically
 ## What's Actually Open
 
 Carried forward from `Specs/Dumont_dUrville.md`, still genuinely unresolved:
-- Pink Lucy's full story — her name derivation, pre-war role, when and how she left, and her relationship to the city's damage; the single most significant open question, since it drives companion and DLC content
+- Pink Lucy's name derivation, pre-war role, and her relationship to the city's damage — *(her migration route is separately resolved elsewhere in this project as Dumont d'Urville → Janbogo, not Casey; see `project_pink_lucy_migration_resolved` — this Mega-Init's own "when and how she left" question is answered by that route, though her pre-war role and name derivation remain genuinely open, see Course of Events Suggestion #11 below for formative texture toward this)*
 - The city's damage timeline — when during the war it was hit, and how badly
 - Highway/coastal road connection specifics, dependent partly on the bridge question
 - Whether the mainland bridge is a genuine permanent structure or a seasonal ice/boat crossing — explicitly, deliberately left open, with a full engineering brainstorm already recorded in Specs
-- St. Jules Day's exact observance form
 - How the penguin colonies are handled mechanically and narratively in gameplay
 - Demonym — still TBD
+
+**Resolved 2026-07-17:** St. Jules Day's exact observance form — per Course of Events Suggestion #6,
+"Reading Into the Wind" (`Dumont_dUrville_Course_of_Events_Suggestions.md`), a public outdoor reading of
+surviving fragments from Jules Dumont d'Urville's 1840 expedition journal, held downtown regardless of
+the wind, the discomfort itself treated as the point.
 
 **New, surfaced by this research pass:** whether Dumont d'Urville's downtown music/eatery culture should be explicitly framed as load-bearing to the city's post-war survival — the actual civic mechanism keeping a small, damaged population from simply leaving — rather than just an ambient cultural detail.
 

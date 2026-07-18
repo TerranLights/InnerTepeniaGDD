@@ -80,18 +80,26 @@ Hangars bored directly into granite mountains since the 1950s, still active toda
 
 Carried forward from `Specs/Rothera.md` and `City_Vision_Notes/Rothera.md`, still genuinely unresolved:
 - The runway's current operational state — fully usable, partially repaired, or limited to certain aircraft?
-- Exactly what Rothera produces and which subnet cities receive it
 - The underground vault sections' extent, age, current function, and whether they played a role in wartime population sheltering
 - Aviation's role during the exile era — Peninsula-internal only, or genuine trans-Drake-Passage connectivity to South America?
 - Whether the Lemaire Channel approach features as a DLC 3 entry sequence or navigation element
 - Any British diaspora community in Concordia alongside Halley's own
 - The St. Ernest (Shackleton) patron-saint claim — Rothera's or another Peninsula city's
-- Two placeholder holiday names ("Founders' Airstrip," "The Standing Works") never fully developed
-- Notable figures: still nobody named
 - Minor numeric drift in population/climate figures between files (low priority)
 - What Rothera is specifically, famously known for within its broad general-purpose fabrication catalog — confirmed not yet decided
 
-**New, surfaced by this research pass:** given the real Gary-to-Magnitogorsk relationship (one city's industrial model literally copied to found another), it's worth asking whether Rothera's own industrial techniques or facility designs were ever exported to help establish another Tepenian city's industry — a "Rothera-inspired" industrial pocket elsewhere in the Federation. The current files don't address this either way.
+**Resolved 2026-07-17:** exactly what Rothera produces and which subnet cities receive it — per Course
+of Events Suggestion #4, "What Rothera Builds," highway-maintenance vehicles, aircraft and runway parts,
+and general construction materials, distributed via Hwy 1 to every other Palmer subnet city (the
+separate question of what Rothera is specifically *famous* for within that catalog remains open, above).
+Also resolved: the two placeholder holiday names — per Suggestion #6, "Founders' Airstrip," and
+Suggestion #7, "The Standing Works," both fully developed. Also resolved: notable figures — Chief
+Engineer Malcolm Ashgrove-Pryce (Suggestion #2) and Vault Architect Dorotéia Uribe-Calloway (Suggestion
+#3) are both named. Also resolved, via the newly-drafted Suggestion #11, "The Second Rothera"
+(`Course_of_Events/Rothera_11_The_Second_Rothera.md`): given the real Gary-to-Magnitogorsk relationship
+(one city's industrial model literally copied to found another), whether Rothera's own industrial
+techniques were ever exported to help establish another Tepenian settlement's industry — they were, in a
+modest, deliberately unnamed way.
 
 ---
 

@@ -124,11 +124,28 @@ it represents, had already become the city's whole civic character independent o
 there. **Therefore** Bandera Day persists as plain civic pride in the name, celebrated by a population
 that is, numerically, barely Argentine at all anymore.
 
+## 11. The Ground That Moved
+
+Belgrano's entire civic importance rests on one thing: its runway, built on flat coastal ice rather than
+the stable bedrock its Halley subnet neighbors enjoy. **But** during a routine structural survey,
+engineers detect real, measurable ice movement beneath a section of that runway — not yet a crisis, but
+the first hard evidence that the ground under the city's whole reason for mattering isn't as fixed as
+everyone had simply assumed. **Therefore** base command mobilizes an urgent, resource-intensive
+reinforcement effort, pulling in essentially the entire garage and mechanic workforce to shore up what
+engineering alone can't fully solve. **But** even once the immediate danger passes, no amount of
+reinforcement can make ice-shelf ground behave like bedrock — the underlying instability doesn't go away,
+it's only managed. **Therefore** Belgrano absorbs a permanent, institutional watchfulness about its own
+foundation, a specific concrete anxiety sitting underneath the base's confident "function before comfort"
+bearing — the first hard evidence of the unsettled self-image the city will carry for the rest of its
+history.
+
 ---
 
 ## Worth Your Attention
 
-**#2, #3, and #4** are the most load-bearing — each turns an already-proposed Full-Extrapolation fact
+**#11** grounds Belgrano's Feeling/Reactive Enneagram read — "a city wrestling with its own image and
+continuity" — in a specific, concrete pre-war event, rather than leaving that psychological trait to
+emerge only from the post-war Boneyard Times material this pass is scoped away from. **#2, #3, and #4** are the most load-bearing — each turns an already-proposed Full-Extrapolation fact
 (the mate ritual's institutional independence, Petrescu's maintenance rotations, the ordinary-records-
 turned-archive) into an actual causal event rather than a static description, and all three converge
 on the same underlying idea the Megasheet's own synthesis already named: Belgrano's own capability

@@ -86,14 +86,25 @@ Founded in 1703 by Peter the Great's sheer will, on captured, marshy, geographic
 Carried forward directly from `Specs/Palmer_City.md` and `City_Vision_Notes/Palmer_City.md`:
 - The governmental capital of Tepenia (confirmed not Palmer City, Concordia, or Lazar — otherwise open, deliberately deferred until cities are more fully developed)
 - Whether Palmer City's ruins are accessible in DLC 3, or too remote/destroyed to reach without significant effort
-- Other named streets, landmarks, venues, or institutions beyond 100 Miles Davis Boulevard
 - The Antarctica flag's ultimate fate (deteriorated naturally / evacuated / destroyed with the city — the story survives regardless)
-- Palmer City's economic foundations beyond entertainment/hospitality/tourism (though the tourism-economy resolution goes a long way toward answering this)
 - Notable individuals originally from Palmer City — though the Long Night War's inciting-incident gynoid is very likely the actual answer to this, name and fate still undetermined
-- Municipal holiday names beyond the current placeholders ("Founding Day," "The Records")
-- Any pre-destruction historical beats between the 2564 founding and the Long Night War, beyond the inciting incident itself
 
-**New, surfaced by this research pass:** whether Montreal's Prohibition-era "sin city driven by a neighboring jurisdiction's restrictiveness" pattern should be adopted more explicitly as the actual mechanism behind Palmer City's tourism economy, rather than left as a loose thematic resonance.
+**Resolved 2026-07-17:** municipal holiday names beyond the placeholders — per Course of Events
+Suggestion #2, "Needle Down" (`Palmer_City_Course_of_Events_Suggestions.md`), the "The Records"
+placeholder is fully developed into "Needle Down," Palmer City's defining musical holiday. Also
+resolved: other named streets, landmarks, venues, or institutions beyond 100 Miles Davis Boulevard — per
+Suggestion #6, "The Petrograd Room" (the city's grandest entertainment hall), and Suggestion #7,
+"Little Burgundy Quarter" (the preserved music district around the original station buildings) — two
+concrete new landmarks named, though further ones remain open. Also resolved: any pre-destruction
+historical beats between the 2564 founding and the Long Night War — the Course of Events Suggestions
+file's 10 (now 11) chains directly fill this gap, all explicitly scoped to the pre-war Second Interwar
+Period. Also resolved, the "New, surfaced by this research pass" question this Mega-Init originally raised:
+whether Montreal's Prohibition-era pattern should be adopted explicitly as the tourism economy's actual
+mechanism — per
+Suggestion #4, "A Window Facing Out," it is: "Upper Earth's own restrictive stance... makes visiting
+somewhere without those restrictions genuinely appealing," adopted directly as the in-fiction mechanism
+rather than left as loose resonance (also formalized independently in `Palmer_City_Full_Extrapolation.md`,
+Section I).
 
 ---
 

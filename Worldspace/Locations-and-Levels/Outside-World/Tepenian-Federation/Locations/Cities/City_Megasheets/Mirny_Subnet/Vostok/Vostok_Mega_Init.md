@@ -70,13 +70,28 @@ A shared national synchrotron X-ray research facility at the Advanced Photon Sou
 
 Carried forward from `Specs/Vostok.md` and `Local_Cultures/Mirny_Subnet/Vostok.md`, still genuinely unresolved:
 - The founding Russian community's fate — entirely unaddressed in current canon
-- The exact nature of the resident geneticist's discovery in Lake Vostok, and what's actually in the incomprehensible research archive
-- How and why the Framheim/Little America-derived population specifically ended up at Vostok, as opposed to anywhere else
-- Language and daily-use culture, given the mismatch between the founding legend's Russian character and the current population's own USA/Japan-led composition
-- Notable figures beyond the resident geneticist (confirmed as "Charlene"/XT-17, see `Vostok_Full_Extrapolation.md` Section III for her own location correction) — none else named yet
-- Whether the current population has taken up the Lake Vostok mission, ignores it, or something in between
+- What's actually in the incomprehensible research archive, beyond the geneticist's own headline discovery (resolved below)
 
-**New, surfaced by this research pass:** whether Vostok's genetics program has any established resource-sharing or mutual-dependency relationship with Kunlun's own observatory, beyond the already-established emotional "two loneliest outposts" framing — a concrete infrastructure-sharing arrangement, in the spirit of ChemMatCARS, is a plausible, earned addition.
+**Resolved 2026-07-17:** the exact nature of the resident geneticist's discovery — per Course of Events
+Suggestion #5, "What the Ice Kept Secret" (`Vostok_Course_of_Events_Suggestions.md`), a natural
+DNA-repair mechanism evolved by organisms surviving millions of years of extreme isolation, cold, and
+pressure, recognized rather than engineered from scratch. Also resolved: how and why the
+Framheim/Little America-derived population ended up at Vostok specifically — per Suggestion #3, "Room
+Where There Was None," Vostok's own thinned founding population simply left the demographic room this
+displaced population needed, with nobody actually planning the resettlement in advance. Also resolved:
+language and daily-use culture — per Suggestion #8, "Words That Outlived the Speakers," daily life
+settles into linguistic layering: ordinary conversation in one language, inherited technical vocabulary
+in Russian nobody currently living there actually speaks. Also resolved: notable figures beyond the
+geneticist — per Suggestion #9, Archivist Yelena Voskresenskaya, one of the last founding-era
+researchers, is named. Also resolved: whether the current population has taken up the Lake Vostok
+mission — per Suggestion #4, "A Legend Inherited, Not Built," most who stay are genuinely drawn into the
+research because it's worth doing, the legend becoming theirs by choice rather than inherited obligation.
+Also resolved, the "New, surfaced by this research pass" question this Mega-Init originally raised:
+whether Vostok has a concrete resource-sharing relationship with Kunlun beyond emotional framing — per
+Suggestion #7, "Equipment That Neither Outpost Can Make Alone," yes: a real, functioning infrastructure
+partnership, now dated precisely via the newly-drafted Suggestion #11, "Right After the Expansion"
+(`Course_of_Events/Vostok_11_Right_After_the_Expansion.md`), to immediately following Kunlun's own
+comms-relay expansion (Kunlun's own Suggestion #6).
 
 ---
 

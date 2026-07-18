@@ -128,6 +128,21 @@ the same as dominance — later arrivals still shift the city's overall demograp
 **Therefore** Juan Carlos ends up holding both at once: a demographically shifting population, and a
 founding culture that never had to fight as hard as most to remain genuinely legible within it.
 
+## 11. The Labor Beneath the Argument
+
+Juan Carlos runs two economies at once — the celebrated archive-and-tertulia tradition, and the
+unglamorous fishing fleet that actually feeds the city, staffed disproportionately by its UK- and
+France-descended residents. **But** nobody has ever framed the gap between the two as a problem, since
+the two simply run in parallel, unremarked. **Therefore** it takes a hard coincidence to force the
+question into the open — a civic anniversary observed on schedule the same week a fishing crew is lost to
+Drake Passage weather, the city's fluency at ceremony suddenly, visibly, never having been extended to
+the labor that keeps it fed. **But** meeting that gap honestly means changing what the city's single most
+prestigious institution actually contains, not just offering a one-off memorial. **Therefore** hosting
+rights at the tertulia — previously implicitly archive-and-argument-coded — are extended on record to
+fishing captains and crews, maritime loss and labor becoming legitimate subjects for the same hosted,
+serious argument the tradition already takes seriously, closing a gap the city itself never noticed it
+was carrying.
+
 ---
 
 ## Worth Your Attention
@@ -136,4 +151,6 @@ founding culture that never had to fight as hard as most to remain genuinely leg
 relocation — giving the Megasheet's own central premise (a quiet city that became the origin point of
 Tepenia's institutional memory) an actual causal sequence. **#6** is the most emotionally resonant
 thread, since it's the only one that gives the city's own self-mythologized identity a concrete shape
-surviving past the practical function that originally earned it.
+surviving past the practical function that originally earned it. **#11** is the only chain that reaches
+outside the archive/tertulia register entirely, giving the city's other, unglamorous economy — and the
+populations who actually work it — a real stake in Juan Carlos's most prestigious civic institution.

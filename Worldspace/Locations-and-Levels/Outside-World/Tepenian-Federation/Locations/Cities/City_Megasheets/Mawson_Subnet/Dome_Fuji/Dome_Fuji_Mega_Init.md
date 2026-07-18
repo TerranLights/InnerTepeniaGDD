@@ -82,14 +82,22 @@ Carried forward from `Specs/Dome_Fuji.md`'s Open Questions, still genuinely unre
 - Reachability beyond the DLC 4 alternate-access mechanic
 - A demonym (Fujians? something Japanese-inflected?)
 - Notable figures — none named yet
-- Which of the three "why the robes stay minimal" reasons (if any) gets formally chosen
-- The theological relationship between Dome Fuji and Kunlun (rival, complementary, hierarchical — TBD)
-- Whether a Taktsang-style disaster-and-rebuilding beat gets added to Dome Fuji's own history
+
+**Resolved 2026-07-17:** which of the three "why the robes stay minimal" reasons gets formally chosen —
+per Course of Events Suggestion #5, "The Robes Debate" (`Dome_Fuji_Course_of_Events_Suggestions.md`),
+none is chosen over the others; the community accepts all three as true at once, layered rather than
+competing. Also resolved: the theological relationship between Dome Fuji and Kunlun — per Suggestion #7,
+"Two Sites, One Faith," complementary rather than rival or hierarchical: Kunlun as the path of reaching,
+Dome Fuji as the path of arriving. Also resolved, the "New, surfaced by this megasheet's research pass"
+question this Mega-Init originally raised: whether Dome Fuji's central sacred site should use the Angkor
+Wat "climb without a mountain" logic — per Suggestion #4, "Naming the Still Point," yes: Nyakkyo is
+built deliberately small, low, and empty, turning the absence of a view into the entire theological
+point. Also resolved, via the newly-drafted Suggestion #11, "What the Fire Left"
+(`Course_of_Events/Dome_Fuji_11_What_the_Fire_Left.md`): a Taktsang-style disaster-and-rebuilding beat
+now exists, folded directly into Nyakkyo's own devotional history.
 
 ---
 
 ## Worth Your Attention
 
 **Added retroactively 2026-07-06.** The Angkor Wat fusion (above) is the standout of this pass — it's the one piece of research that doesn't just decorate an existing fact, it resolves a genuine tension (why does the faith's holiest site look like nothing at all?) with a real theological answer: sacred height without a visible peak. Everything downstream in `Dome_Fuji_Full_Extrapolation.md` and `Dome_Fuji_Cross_Reference_Synthesis.md` that touches Dome Fuji's central sacred site builds on this one idea.
-
-**New, surfaced by this megasheet's research pass:** whether Dome Fuji's central sacred site (Section 29) should be explicitly framed using the Angkor Wat "climb without a mountain" logic above — genuinely open, not yet decided, but the strongest single new idea this research turned up.

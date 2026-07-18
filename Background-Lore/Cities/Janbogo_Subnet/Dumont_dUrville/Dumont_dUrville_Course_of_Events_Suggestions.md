@@ -119,6 +119,18 @@ d'Urville's whole civic character forms around protecting that one small, vital 
 long before anything ever tests it, that the downtown's health and the city's health are the same
 question.
 
+## 11. What Lucy Learned Downtown
+
+A downtown venue's regular crowd thins during a hard stretch, and a young Pink Lucy sees, for the first
+time, that the warmth she'd always assumed was simply how Dumont d'Urville worked actually takes real,
+deliberate effort to sustain. **But** the venue's own tired owner reads her instinctive enthusiasm as
+naive rather than useful, having watched other well-meaning efforts fizzle before. **Therefore** she
+organizes the crowd back anyway — not through any elaborate plan, just her own natural, unguarded
+inclusiveness applied deliberately for the first time. **But** proving herself once doesn't erase the
+skepticism that met her. **Therefore** it does anyway — the owner comes around genuinely impressed, and
+Lucy carries forward her first real, lived proof that community warmth has to be built and maintained,
+not simply felt.
+
 ---
 
 ## Worth Your Attention
@@ -128,3 +140,6 @@ use, not ceremony" insight) and a concrete generational incident proving it. **#
 most load-bearing for the city's later identity, since together they establish, well before any crisis
 ever tests it, that downtown's music-and-eatery culture is genuinely load-bearing to the whole
 island's civic life — not decoration, but the thing residents already understand keeps them here.
+**#11** is the only chain built around an already-confirmed companion character, grounding Pink Lucy's
+own established personality in a specific, formative Dumont d'Urville experience without touching her
+migration route or her still-open post-Janbogo fate.

@@ -80,11 +80,23 @@ Carried forward from `Specs/Princess_Elisabeth.md` and `City_Vision_Notes/Prince
 - Notable figures — still just unnamed straggling survivors
 - The demonym
 - Exact circumstances of destruction — direct attack, infrastructure failure, or both — and whether the underground mystery-infrastructure connects to it
-- What the underground "mini-infrastructure" actually is — deliberately left mysterious by the developer, confirmed as real and worth treating as a genuine narrative hook, not yet resolved
+- **What the underground "mini-infrastructure" actually is — deliberately left mysterious by the
+  developer, confirmed as real and worth treating as a genuine narrative hook, not yet resolved. This
+  remains open even after Course of Events Suggestion #2's own separate buried energy reserve
+  (flywheels/battery banks/thermal storage) — that reserve is an ordinary, already-explained piece of
+  founding-era engineering, not confirmed to be the same thing as the developer's own still-mysterious
+  mini-infrastructure. Do not treat #2 as having quietly resolved this.**
 - The Ice Cold Buddhism/Dome Fuji pilgrimage connection, given Princess Elisabeth's uniquely close eastern proximity to Dome Fuji among Halley subnet cities
-- Whether residents still connected the name to the actual Princess Elisabeth of Belgium, this many generations later
-- Two placeholder holiday names ("Founders' Turbine," "The Crossing")
 - Belgian diaspora character in Concordia — beyond the general dual-identity/environmental-consciousness diaspora note already established
+
+**Resolved 2026-07-17:** whether residents still connected the name to the actual Princess Elisabeth of
+Belgium, this many generations later — per Course of Events Suggestion #8, "A Name Half-Forgotten," the
+name survives as trivia to most residents while the city's own small Belgian-heritage community keeps
+something closer to the original weight alive in private. Also resolved: the two placeholder holiday
+names ("Founders' Turbine," "The Crossing") — Course of Events Suggestion #6, "The Turbine and the
+Crossing," develops both directly (a public engineering-maintenance observance, and a separate
+demographic-exchange observance between the American and Japanese communities), even though the chain's
+own body text doesn't restate either placeholder name explicitly.
 
 ---
 

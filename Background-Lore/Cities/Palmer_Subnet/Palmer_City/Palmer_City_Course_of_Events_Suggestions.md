@@ -127,6 +127,19 @@ search. **But** lending irreplaceable records means trusting they'll actually he
 contribution becomes a quiet point of civic pride — proof that being first sometimes means being
 useful to whoever comes looking later, not just being remembered for arriving early.
 
+## 11. Nothing Unusual Yet
+
+An Upper Earth visitor treats a robot hospitality worker dismissively during an ordinary shift — nothing
+that rises to any formal incident, over in a moment, easy for everyone else on shift to let pass. **But**
+a young resident who witnessed or experienced it directly won't let it go, since letting it pass quietly
+means the city's founding conviction is worth less in practice than it claims to be. **Therefore** they
+insist on documenting it anyway, through whatever internal channel the hospitality industry keeps for
+exactly this. **But** the report goes nowhere consequential — no structural change, no real consequence
+for the visitor, just a quiet mark nobody outside the building will ever see. **Therefore** the
+insistence itself becomes the real outcome: a formative, unresolved conviction the resident carries
+forward quietly for the rest of their life, a clear-eyed correction to the assumption that Palmer City's
+founding principle gets honored in practice every single time it matters.
+
 ---
 
 ## Worth Your Attention
@@ -136,4 +149,6 @@ city eventually builds on top of it, giving the Megasheet's own flagged gap (a b
 inclusive than the actual founding facts) an honest, dramatized shape. **#4 and #9** trace Palmer
 City's tourism economy from its earliest informal roots to genuine, quiet diplomacy — the two halves of
 what the Megasheet's own Full Extrapolation identifies as the city's real structural relationship to
-Upper Earth.
+Upper Earth. **#11** is the quietest and most consequential thread of the eleven, without naming anyone
+or referencing the war directly — it builds real pre-war texture for exactly the kind of resident the
+Megasheet's own open questions suggest Palmer City's most notable individual eventually turned out to be.

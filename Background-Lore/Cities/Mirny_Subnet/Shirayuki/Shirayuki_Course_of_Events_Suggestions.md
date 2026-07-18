@@ -124,6 +124,19 @@ means something if it's actually lived, not just worn. **Therefore** "leaving yo
 becomes Shirayuki's real, felt civic value — the place decided for them, finally, visibly, made into
 somewhere they chose.
 
+## 11. One of the Ones Who Left
+
+A young resident, raised fully inside Shirayuki's own culture, reaches the point most residents either
+settle permanently or move on — and finds themselves genuinely unsure which way they're going. **But**
+someone close to them has built their own life around staying, and finds the idea of leaving hard to
+understand, not out of possessiveness but because staying was how they expressed their own choosing of
+the city. **Therefore** a real, quiet conflict opens between them — not about whether Shirayuki is worth
+loving, but about what leaving would actually mean. **But** the city's own founding tension was never
+really about staying versus leaving — it was always about choosing, deliberately, rather than simply
+drifting. **Therefore** the resident leaves anyway, consciously, framed as their own footprint left
+behind rather than a rejection — and the one who stays comes to recognize it as genuinely consistent with
+everything Shirayuki itself stands for.
+
 ---
 
 ## Worth Your Attention
@@ -133,3 +146,5 @@ civic meaning it comes to carry, giving the Megasheet's own central theme ("A Pl
 Made Into a Place You'd Choose") a direct, tangible expression rather than an abstract description.
 **#7** is the most structurally important thread, since it dramatizes the self-reinforcing schools-to-
 culture loop the Megasheet's own Cross-Reference Synthesis flags as a real but unconfirmed mechanism.
+**#11** extends the city's own founding theme to its most personal scale yet — one resident's own choice
+to leave, framed by the same "chosen, not simply inherited" logic that defines Shirayuki as a whole.

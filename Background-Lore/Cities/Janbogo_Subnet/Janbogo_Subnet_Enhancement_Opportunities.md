@@ -50,7 +50,9 @@ angles below are ones the existing 10 don't touch.
    implying genuinely national, not just Ross-Sea-coast-local, stakes. A chain about Cape Adare hosting a
    moment of that outsized diplomatic weight — representatives from well beyond the immediate coast,
    deciding something nationally consequential — would use the specific half of the Yalta precedent
-   chain #7's more modest framing doesn't fully capture.
+   chain #7's more modest framing doesn't fully capture. **DRAFTED 2026-07-17 as Course of Events
+   Suggestion #11, "Bigger Than the Coast"** — see `Cape_Adare_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Cape_Adare_11_Bigger_Than_the_Coast.md`.
 
 4. **City personality / geography / geology → history.** The Mega_Init's "What It Feels Like" section
    establishes that heating infrastructure creates "a genuine warm microclimate... close to an oasis by
@@ -103,7 +105,9 @@ to the legendary namesake (#10). New angles below are ones the existing 10 don't
    proof-of-scale (500,000+ daily users) or Trieste's granular details — chains and handrails bolted to
    buildings, roofs weighted with limestone blocks. A chain built around these specific, physical,
    currently-unused architectural details would ground Denison's engineering identity in concrete texture
-   none of the existing chains include.
+   none of the existing chains include. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "Held
+   Down, Held Together"** — see `Denison_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Denison_11_Held_Down_Held_Together.md`.
 
 4. **City personality / geography / geology → history.** The Full Extrapolation resolves Denison's
    Enneagram tension by noting the architecture is Withdrawn *on purpose* — sealed and quiet specifically
@@ -173,7 +177,12 @@ ones the existing 10 don't touch.
    None of the 10 chains touch her pre-war presence at all. A chain establishing formative pre-departure
    texture for her time at Dumont d'Urville — without resolving her full story, the same restrained
    approach already used for Palmer City's and Shirayuki's own open character candidates — would build
-   toward this significant, still partially open question.
+   toward this significant, still partially open question. **DRAFTED 2026-07-17 as Course of Events
+   Suggestion #11, "What Lucy Learned Downtown"** — see `Dumont_dUrville_Course_of_Events_Suggestions.md`
+   and `Course_of_Events/Dumont_dUrville_11_What_Lucy_Learned_Downtown.md`. Unlike Palmer City's/
+   Shirayuki's fully unconfirmed candidates, Lucy's Dumont d'Urville origin is already confirmed in her
+   own character file, so she's named directly; only her personal name, name derivation, and post-Janbogo
+   fate remain untouched.
 
 ### Fort McMurdo
 
@@ -213,7 +222,10 @@ don't touch.
    goes unused. None of the 10 chains address any financial or resource-allocation function distinct from
    the physical extraction/processing split (#3) or the pure scheduling-priority dispute (#7). A chain
    about Fort McMurdo developing a genuine resource-allocation or credit-management function across the
-   projects it coordinates would use the unused financial half of the Geneva precedent.
+   projects it coordinates would use the unused financial half of the Geneva precedent. **DRAFTED
+   2026-07-17 as Course of Events Suggestion #11, "The Ledger Nobody Elected"** — see
+   `Fort_McMurdo_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Fort_McMurdo_11_The_Ledger_Nobody_Elected.md`.
 
 4. **City personality / geography / geology → history.** None of the 10 chains dramatize the McMurdo
    Sound seasonal sea-ice crossing itself as a physical challenge — chain #3 mentions it only in passing as
@@ -249,7 +261,9 @@ below are ones the existing 10 don't touch.
    crowding-driven expansion, but neither stages an actual incident testing whether that concentrated
    design creates real structural vulnerability. A chain about a specific incident (fire, structural
    failure) testing the halls' own vulnerability — distinct from #10's purely crowding-driven expansion —
-   would use this explicitly flagged, still-open question.
+   would use this explicitly flagged, still-open question. **DRAFTED 2026-07-17 as Course of Events
+   Suggestion #11, "What One Fire Proved"** — see `Janbogo_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Janbogo_11_What_One_Fire_Proved.md`.
 
 2. **Resident character cultures.** Italy's population holds "one of the strongest mechanistic matches"
    in the whole project (the Gulf of Trieste's real Bora wind), yet chain #6 credits meteorologist Han
@@ -328,7 +342,9 @@ the existing 10 don't touch.
    Chain #7 answers only Scott's own internal emotional reaction (a quiet sting that fades); it never tests
    whether the actual day-to-day sibling dynamic chain #9 describes changed in practice afterward. A chain
    specifically testing that relationship, not just Scott's private feelings, would use the relationship-
-   level half of this explicitly flagged question.
+   level half of this explicitly flagged question. **DRAFTED 2026-07-17 as Course of Events Suggestion
+   #11, "The Rivalry, After"** — see `Scott_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Scott_11_The_Rivalry_After.md`.
 
 ### Zukelli
 
@@ -371,7 +387,9 @@ existing 10 don't touch.
    chain treats this fact as scene-setting for the eventual tragedy, never as its own causal story. A
    chain about a specific late-era growth driver — a new immigration wave, a new economic opportunity —
    that was actively pushing Zukelli toward that peak would ground an established fact in real cause
-   rather than leaving it purely atmospheric.
+   rather than leaving it purely atmospheric. **DRAFTED 2026-07-17 as Course of Events Suggestion #11,
+   "The Wave That Was Still Arriving"** — see `Zukelli_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Zukelli_11_The_Wave_That_Was_Still_Arriving.md`.
 
 5. **Other.** The City Snapshot lists both Australia and New Zealand as founding-wave populations at
    Zukelli, alongside Italy's own founding-operator status — but none of the 10 chains touch either

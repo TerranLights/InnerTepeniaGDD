@@ -75,8 +75,11 @@ Carried forward from `Specs/Abowasa.md` and `City_Vision_Notes/Abowasa.md`, stil
 - Why Abowasa specifically survived partially rather than being fully destroyed or fully spared — strategic irrelevance, the Vestfjella position, the small size, the joint-national character, some combination?
 - What specifically was damaged, if not the whole city
 - Notable figures — still entirely TBD
-- Two placeholder holiday names ("Turku Remembrance," "The Joint Founding") never fully developed
 - Economy beyond a generic sector breakdown
+
+**Resolved 2026-07-17:** the two placeholder holiday names this section previously listed as "never
+fully developed" — "Turku Remembrance" and "The Joint Founding" — are now both fully developed as
+Course of Events Suggestions #5 and #10 respectively, in `Abowasa_Course_of_Events_Suggestions.md`.
 
 ---
 

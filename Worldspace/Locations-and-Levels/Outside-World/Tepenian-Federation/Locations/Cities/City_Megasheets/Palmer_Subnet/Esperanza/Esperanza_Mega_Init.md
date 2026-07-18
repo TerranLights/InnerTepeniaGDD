@@ -92,14 +92,20 @@ Many kibbutzim raised children collectively in dedicated "children's houses" fro
 
 Carried forward from `Specs/Esperanza.md` and `City_Vision_Notes/Esperanza.md`, still genuinely unresolved:
 - The birth registry's survival status through the city's destruction — the most symbolically significant artifact Esperanza had
-- Whether the founding compact was ever formalized in writing, and whether a copy survives
-- How the compact was actually discovered — where the preserved records, audio logs, videos, and journals were found, and by whom
 - Children of Esperanza in Concordia — does a "being from Hope" identity persist among their descendants?
 - Destruction timeline — early or late in the Long Night War; the symbolic weight of destroying a city built around children is significant either way
-- Notable figures: still no actual names, only placeholders
+- Notable figures: still no actual names, only placeholders (beyond Mateo Villaroel and Alanna Whitcombe-Reyes, per Course of Events Suggestions #2 and #5)
 - A minor numeric inconsistency between Specs-adjacent figures and the Census II table (low priority, flagged but unresolved)
 
-**New, surfaced by this research pass:** the tension between Esperanza's Enneagram read (a narrow, purely logistics-partnership profile) and its far richer established "Guarded City" identity — worth a dedicated future pass to either update the Enneagram profile or explicitly reconcile the two readings, since right now they describe what feel like two different cities.
+**Resolved 2026-07-17:** how the founding compact was actually discovered — per Course of Events
+Suggestion #2, "What the Archive Room Held," early settlers cataloguing inherited base infrastructure
+open a sealed Argentine military archive room and find personnel records, family photographs, and birth
+documentation; Mateo Villaroel recognizes its weight and pushes to turn it into something living. Also
+resolved: whether the founding compact was ever formalized in writing — per Course of Events Suggestion
+#8, "A Charter Never Written Down," it never was; it survives instead through the birth registry, oral
+tradition, and lived practice. Also resolved (within this same document): the Enneagram tension noted
+below used to be flagged as needing a dedicated future pass — it has since been corrected directly (see
+"Personality" above, corrected 2026-07-17), not merely reconciled alongside the old reading.
 
 ---
 

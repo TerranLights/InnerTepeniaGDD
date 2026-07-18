@@ -68,12 +68,21 @@ Carried forward from `Specs/Marambio.md` and `City_Vision_Notes/Marambio.md`, st
 - The airfield's post-war state — more developed than Rothera's runway; what remains?
 - The Picnic Passage causeway/bridge chain's post-war condition
 - Whether the paleontological fossil-research archive survived the destruction
-- Two placeholder holiday names ("Founders' Flight," "The Warm Ground") never fully developed
-- Notable figures: still nobody named
-- The exact division of labor between Marambio's and Esperanza's shipping roles — both confirmed equally important parts of the same Weddell Sea corridor, but the specific split (e.g., Marambio as bulk maritime commerce, Esperanza as more specific/documented trans-shipment traffic) is still open for refinement
 - ~~A data-quality gap: Marambio is missing from the census's own "Lost and Ruined Cities" section~~ — **resolved 2026-07-13** (`Official_Population_Census.md`'s combined-losses total, during Sejong's own re-check pass), no longer open
 
-**New, surfaced by this research pass:** given Gander's real historical arc (indispensable chokepoint → quiet backwater, once the specific technology that made it necessary changed), it's worth asking whether Marambio's own aviation hub was already facing any comparable pressure before the war — was its runway's centrality genuinely secure, or was it already being supplemented/threatened by some other emerging logistics option elsewhere in the Palmer subnet? The current files don't address this either way.
+**Resolved 2026-07-17:** the two placeholder holiday names — per Course of Events Suggestion #6, "The
+Warm Ground" (a quiet science-appreciation holiday honoring the Eocene fossil record), and Suggestion
+#7, "Founders' Flight" (an aviation-focused observance honoring the 1969 Argentine Air Force arrival and
+the exile generation's own founding flight) — both `Marambio_Course_of_Events_Suggestions.md` — are
+fully developed, not placeholders. Also resolved: notable figures — Comandante Ezequiel Fariña
+(Suggestion #2) and Paleontologist Ingrid Solberg-Vidal (Suggestion #5) are both named. Also resolved:
+the exact division of labor between Marambio's and Esperanza's shipping roles — per Suggestion #9,
+"Bulk Here, Precision There," Marambio handles bulk, high-volume cargo while Esperanza handles
+smaller-scale, more specific and often documented shipments. Also resolved, via the newly-drafted
+Suggestion #11, "The Hedge, Tested" (`Course_of_Events/Marambio_11_The_Hedge_Tested.md`): whether
+Marambio's aviation hub ever faced comparable pressure to Gander's real historical arc — it did, and the
+shipyard built as chain #10's deliberate hedge is what let the city absorb the shift rather than being
+destabilized by it.
 
 ---
 

@@ -123,6 +123,18 @@ takes real honesty about what the city has and hasn't actually achieved. **There
 becomes something genuinely earned rather than aspirational — Sejong celebrating exactly what it
 accomplished, and quietly living with what it didn't.
 
+## 11. Not About the Ground
+
+Between two of Sejong's neighboring communities, something from the original boundary-zone negotiations
+never actually got resolved — a quiet, long-held sense on one side that they came out of the process with
+less favorable ground than its own stated fairness should have produced. **But** the grievance stays
+unspoken for generations, since the practical Accord succeeded and nobody wants to reopen a settled
+matter. **Therefore** it takes a new joint project, forcing the same two communities back into close
+coordination, to surface it at all. **But** acknowledging the asymmetry honestly risks implying the
+original, procedurally fair Accord was somehow wrong. **Therefore** it doesn't get reopened — instead,
+one side finally acknowledges out loud, for the first time, that fair process and fair outcome were never
+quite the same thing here, an admission accepted as real without pretending it fixes anything.
+
 ---
 
 ## Worth Your Attention
@@ -130,4 +142,7 @@ accomplished, and quietly living with what it didn't.
 **#3 and #6** trace Sejong's defining civic skill — boundary-zone diplomacy — from its earliest,
 most urgent necessity to the specific negotiator credited with formalizing it. **#4 and #8** work as a
 pair, giving the Megasheet's own proposed shared landmark (the lighthouse spire) both a founding reason
-to exist and the concrete effect it has on the city's later physical geometry.
+to exist and the concrete effect it has on the city's later physical geometry. **#11** completes the
+Full Extrapolation's own "genuinely both" answer to whether the coexistence experiment succeeded — where
+#5 and #10 dramatize the functional-success half, #11 is the only chain that gives the unresolved
+social/emotional half a real, specific shape.

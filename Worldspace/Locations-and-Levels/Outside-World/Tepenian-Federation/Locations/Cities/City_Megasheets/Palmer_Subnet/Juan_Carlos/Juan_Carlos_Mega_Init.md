@@ -71,13 +71,23 @@ A planned Renaissance town (Germany's first, under Duke Julius's grid-pattern de
 
 Carried forward from `Specs/Juan_Carlos.md`, still genuinely unresolved:
 - Whether any Arcanet infrastructure survived the strike, and whether it connects to anything "The Archivist's Trail" questline reveals
-- The exact timing of the archive's relocation to Amundsen Station, and whether Juan Carlos retained any secondary/backup role afterward
+- The exact timing of the archive's relocation to Amundsen Station
 
 *(The Machu Picchu Border & Customs Authority's exact geography, previously listed here as open, was actually already resolved 2026-07-06 in `Specs/Juan_Carlos.md`'s own Open Questions — Machu Picchu Airport, near Sejong — this Mega-Init simply hadn't been cross-checked against that fix. Removed from the open list here.)*
 - Demonym — still TBD
-- Notable figures — still TBD (see the Hay-on-Wye/Wolfenbüttel-derived proposals below, in the Full Extrapolation)
 
-**New, surfaced by this research pass:** whether Juan Carlos's civic identity carries a Hay-on-Wye-style self-mythologized "we are the memory-keepers" civic pride, distinct from and outlasting the archive's own practical relocation to Amundsen Station.
+**Resolved 2026-07-17:** notable figures — per Course of Events Suggestion #3, "Mateo's Obsession"
+(`Juan_Carlos_Course_of_Events_Suggestions.md`), Archivist Mateo Iglesias is named as exactly the kind
+of personally-obsessed founding archivist the Wolfenbüttel parallel above anticipated — someone who
+pushed the archive's thoroughness well past what his actual mandate required, out of pure personal
+conviction. Also resolved: whether Juan Carlos retained any secondary/backup archival role after
+relocation — per Course of Events Suggestion #5, "Everything Moves Inland," it did not; the city "loses
+its literal recordkeeping role" entirely, retaining only the civic identity that role had already given
+it (exact relocation timing itself remains open, above). Also resolved: whether Juan Carlos's civic
+identity carries a Hay-on-Wye-style self-mythologized "we are the memory-keepers" pride distinct from
+the archive's own practical relocation — per Course of Events Suggestion #6, "The Federation's Memory,"
+it does, expressed through the tertulia tradition and worn with "wry, self-aware pride rather than
+solemn civic reverence."
 
 ---
 

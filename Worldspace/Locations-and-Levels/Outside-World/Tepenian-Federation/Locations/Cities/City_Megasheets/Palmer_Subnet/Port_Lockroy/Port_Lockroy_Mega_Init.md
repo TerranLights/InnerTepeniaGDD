@@ -71,12 +71,17 @@ A present-day city whose economy reshaped entirely around being UPS's global air
 ## What's Actually Open
 
 Carried forward from `Specs/Port_Lockroy.md` and `City_Vision_Notes/Port_Lockroy.md`, still genuinely unresolved:
-- The old man's actual name — confirmed he has one, not yet decided
 - Demonym: still TBD
 - Which specific 1944 Operation Tabarin structures survived into the exile era and into the present, and the exact extent of Long Night War damage
-- The two placeholder municipal holiday names ("Founders' Watch," "The Long Memory") never fully developed
 - A minor population-figure discrepancy between two files (low priority, flagged but unresolved)
 - Notable figures beyond the old man himself: none yet
+
+**Resolved 2026-07-17:** the old man's actual name — per the Course of Events Suggestions file
+(`Port_Lockroy_Course_of_Events_Suggestions.md`), he's named throughout as Old Toby Fenwick, across all
+10 chains. Also resolved: the two placeholder municipal holiday names — per Course of Events Suggestion
+#6, "Founders' Watch" (an overnight vigil directly honoring the site's original 1944 watch-post purpose),
+and Suggestion #7, "The Long Memory" (formalizing the stone wall's communal panel-adding practice into an
+actual civic holiday), both are fully developed, not placeholders.
 
 **New, surfaced by this research pass:** the Vision Notes' proposed 250-year arc establishes the postal-hub role as "real and fully functioning" by the late second interwar period, then states the war left it "damaged... but not erased." This raises a specific question the source files don't directly answer: in the game's present era, is the postal-corridor function still operating in some reduced capacity, or did the war interrupt it entirely, leaving only the memory of what it had become? Given Port Lockroy's own established character — a city that accounts for its own damage rather than papering over it — this seems worth resolving explicitly rather than leaving implicit.
 

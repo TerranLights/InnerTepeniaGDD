@@ -75,11 +75,18 @@ Under one million people, yet handling roughly 85% of its port throughput as tra
 ## What's Actually Open
 
 Carried forward from `Specs/Sayowa.md`, still genuinely unresolved:
-- What the Sayowa name means to current residents, generations removed from the specific Japanese imperial era it references
-- Whether any pre-war relationship existed between Sayowa and Princess Elisabeth or other Halley subnet cities, given their unusually close inter-subnet proximity
-- Who controls or maintains the Sayowa Junction today, and whether this connects to a larger DLC 4 or DLC 5 contested-infrastructure storyline (potentially echoing Troll Airfield's own situation)
-- Whether East Ongul Island connects to the mainland by causeway, bridge, or maritime access only
-- Notable figures — still entirely TBD
+- Who controls or maintains the Sayowa Junction *today* (post-war), and whether this connects to a larger DLC 4 or DLC 5 contested-infrastructure storyline (potentially echoing Troll Airfield's own situation) — the *pre-war* cooperative arrangement is now resolved, below
+
+**Resolved 2026-07-17:** what the Sayowa name means to current residents — per Course of Events
+Suggestion #2, "A Name Two Ways" (`Sayowa_Course_of_Events_Suggestions.md`), it carries two genuinely
+different meanings at once, depending on heritage. Also resolved: whether any pre-war relationship
+existed between Sayowa and Princess Elisabeth — per Suggestion #5, "Kin Across the Corridor," yes,
+informal, personal contact between Japanese-heritage families on both sides, never formalized between
+the cities themselves. Also resolved: whether East Ongul Island connects to the mainland by causeway,
+bridge, or maritime access only — per Suggestion #3, "The Ice Road Season," neither a permanent bridge
+nor causeway; a seasonal ice road in winter, maritime crossing in summer. Also resolved: notable
+figures — Haruto, the historian (Suggestion #7), and Wei-Lin, the junction coordinator (Suggestion #8),
+are both named.
 
 ---
 

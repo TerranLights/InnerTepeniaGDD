@@ -122,6 +122,18 @@ the observance becomes something residents actively explain to newcomers rather 
 already knows — St. Ernest's Passage functioning as both commemoration and, every year, a small act of
 teaching the story forward again.
 
+## 11. Not Everything the Sea Provides
+
+A specific fish population central to Signy's own catch declines sharply one season, without warning or
+any clear human cause — the kind of ordinary ecosystem unpredictability the city had quietly stopped
+expecting. **But** the decline forces a real disagreement: whether it's a genuine wake-up call demanding
+real contingency, or ordinary fluctuation not worth overreacting to. **Therefore** the city settles on a
+modest middle path — a small stored reserve and a wider spread of species targeted across the floating
+platforms, a real but bounded hedge rather than a full reorganization. **But** the fish populations
+recover on their own not long after. **Therefore** the hedge stays anyway, absorbed quietly into how the
+city simply operates from then on — Signy's own understanding of its self-sufficiency shifting from an
+unexamined assumption into something more honestly earned.
+
 ---
 
 ## Worth Your Attention
@@ -129,4 +141,7 @@ teaching the story forward again.
 **#1 and #7** work as a pair — the founding decision to bridge Signy's two islands, and the later
 naming that gives that same bridge its full civic and spiritual weight. **#4 and #6** together trace
 Signy's uniquely South African demographic thread from its founding-era arrival route to a specific,
-living expression of it in one resident researcher's own work.
+living expression of it in one resident researcher's own work. **#11** is the only chain that tests
+Signy's central, load-bearing assumption — that the sea simply provides — directly, giving the city's
+established post-war self-sufficiency theme a genuine pre-war precedent rather than leaving it
+unexamined until the war forces the question.

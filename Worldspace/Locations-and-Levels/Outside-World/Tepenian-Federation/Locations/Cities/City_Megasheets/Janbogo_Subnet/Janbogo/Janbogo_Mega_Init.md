@@ -81,7 +81,9 @@ Originated specifically within the uptown African American community, then sprea
 Carried forward from `Specs/Janbogo.md` and `City_Vision_Notes/Janbogo.md`, still genuinely unresolved:
 - Who's actually running Janbogo now, and under what arrangement — the DLC 6 central question
 - What Majyao's original teahouse looks like today — preserved, looted, repurposed, partially destroyed?
-- Other cultural landmarks or notable figures beyond Majyao: TBD
+- ~~Other cultural landmarks or notable figures beyond Majyao~~ — **resolved 2026-07-17:** architect
+  Wu Lian-Marchetti (Course of Events Suggestion #3) and meteorologist Han Soo-jin (Suggestion #6) are
+  both named (`Janbogo_Course_of_Events_Suggestions.md`).
 - Why the Janbogo subnet's Arcanet nexus sits physically inside Concordia's Gemini district rather than in Janbogo itself
 - The relationship among Tepenia's three Korean-founded cities pre-Split-Brain *(corrected 2026-07-13 — Sinheung in the Mirny subnet was previously omitted; it's now Tepenia's most heavily Korean city by population, 34.62% Primary, ahead of both Janbogo and Sejong)* — meaningful contact, or none?
 - ~~Whether Pink Lucy's (FW-25) migration route passed through Janbogo before reaching Concordia~~ — **RESOLVED 2026-07-12:** yes, Dumont d'Urville → Janbogo, settled there pre-war. Still open: whether she subsequently fled to Concordia or remained in Janbogo through the war *(corrected 2026-07-13 — this line had gone unfixed through this file's own 5th re-check pass)*

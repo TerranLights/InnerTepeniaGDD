@@ -127,6 +127,19 @@ accident doesn't retroactively justify every cost the decentralized design has d
 **Therefore** the incident still becomes local legend — the moment residents saw, concretely, exactly
 what the decentralization was actually for.
 
+## 11. The Second Rothera
+
+A newer, still-forming industrial settlement elsewhere in the Federation suffers exactly the kind of
+single-point industrial loss Rothera's own decentralization was built to avoid, and its planners ask
+Rothera plainly how it was actually done. **But** sending real expertise, not just documentation, means
+Rothera's own engineers leaving for a real stretch of time, at genuine cost to Rothera's own ongoing
+maintenance needs. **Therefore** Rothera commits a modest, deliberately unglamorous advisory team anyway —
+bounded, but real. **But** one settlement's terrain and scale never match Rothera's own exactly.
+**Therefore** the receiving settlement adopts a genuinely Rothera-echoing decentralized design of its
+own, adapted rather than copied — the same underlying relationship, in miniature, as the real
+Gary-to-Magnitogorsk connection this whole idea is grounded in, Rothera's own hard-won knowledge carried
+outward by the people who actually built it the first time.
+
 ---
 
 ## Worth Your Attention
@@ -135,3 +148,5 @@ what the decentralization was actually for.
 incident that proves the reasoning sound without needing to invoke the war at all. **#3 and #4** trace
 Rothera's two defining infrastructural facts (the underground vaults, the subnet-wide construction
 economy) back to genuine, patient, unglamorous investment rather than treating either as simply given.
+**#11** widens the frame furthest of the eleven — it's the only chain where Rothera's own hard-won
+methodology, not just its goods, reaches beyond the Palmer subnet entirely.

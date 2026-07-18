@@ -95,8 +95,17 @@ Carried forward from `Specs/Halley.md` and `City_Vision_Notes/Halley.md`, still 
 - Current position relative to Halley's historical ones — how far has the city moved since founding, and are the old positions still accessible?
 - Hwy 59's current condition, post-war and post-Amundsen Station's destruction
 - Whether the Weddell Sea is currently navigable for supply ships, or whether the post-war situation has disrupted the seasonal shipping Halley depended on
-- Two placeholder holiday names ("The Crossing," "Position Day") never fully developed
-- Notable figures native to Halley itself — still just Salagéa, who is genuinely from Belgrano, not Halley
+- One placeholder holiday name ("The Crossing") never fully developed
+- Notable figures native to Halley itself — none yet; Salagéa remains genuinely from Belgrano, not Halley
+
+**Resolved 2026-07-17:** "Position Day," previously listed here as a "never fully developed" placeholder
+holiday name, is now fully developed as Course of Events Suggestion #4 in
+`Halley_Course_of_Events_Suggestions.md` — an annual, half-ceremonial survey recording the city's exact
+position, which later becomes the only surviving trace of Halley's own oldest history once earlier
+positions calve into the sea. Also resolved: whether Salagéa Aparast has a primary base at Halley
+specifically — Course of Events Suggestion #8 establishes she declines an offer to take up a fixed post
+at Halley's port, confirming (without yet naming her actual primary base, if she has one at all) that it
+isn't Halley.
 
 **New, surfaced by this research pass:** given Fairbourne's own real precedent — an officially, administratively designated decommissioning rather than an informal possibility — it's worth asking whether Halley's own flagged "permanent loss" path has any comparable formal designation or bureaucratic marker, or whether it remains a purely informal, ad-hoc risk with no administrative apparatus attached to it. The current files don't specify this either way.
 

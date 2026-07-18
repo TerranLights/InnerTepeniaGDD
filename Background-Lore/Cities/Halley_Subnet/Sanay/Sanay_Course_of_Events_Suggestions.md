@@ -122,9 +122,29 @@ councilor's specific refusal becomes something close to civic doctrine — "Comp
 Commentary" stops being just a description of how Sanay behaves and becomes something residents can
 point to and quote.
 
+## 11. The Record Nobody Meant to Get Wrong
+
+Sanay's early dock economy staffs freighter-unloading crews with humans and robots working side by
+side, roles assigned by practical fit rather than any formal hierarchy favoring either. **But** during
+a dockside emergency — cargo shifting dangerously mid-unload — it's a robot dockworker's split-second
+judgment call that actually prevents disaster, while the official incident report, written under old,
+unconscious Upper-Earth-carried habits, credits the human supervisor on duty instead. **Therefore** the
+robot crew and their human allies push to have the record corrected — not out of resentment, but a
+simple insistence on accuracy. **But** fixing one report doesn't fix the pattern; smaller versions of
+the same unconscious miscrediting keep recurring in the weeks after. **Therefore** Sanay's dock
+leadership stops correcting incidents one at a time and instead formally reweights operational
+authority on the docks — not toward perfect parity, but a deliberate, conscious tilt calibrated
+specifically to counteract the bias it had just caught itself making, becoming the exact "slightly
+better for robots" baseline the docks still run on generations later, later generalized project-wide as
+Tepenia's own default human-robot standard.
+
 ---
 
 ## Worth Your Attention
+
+**#11** is the highest-stakes addition here despite being purely local in setting — per the Catalog's
+own note, this is where Tepenia's project-wide default human-robot labor baseline was first
+established, making this chain's origin story load-bearing well beyond Sanay's own borders.
 
 **#3 and #4** work best read together — the decision that founds "function over sentiment" as a value,
 and the uneven cost that decision quietly produces, giving the Megasheet's own Finding 2 (a real,

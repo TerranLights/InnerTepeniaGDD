@@ -79,12 +79,20 @@ Shannon's direct historical counterpart on the European side of the Atlantic, th
 Carried forward from `Specs/Troll.md`, still genuinely unresolved:
 - Who actually controls the airfield right now, and under what terms — the central DLC 5 conflict for this city
 - What aircraft were present at Troll pre-war, and whether any remain on the field or in hangars
-- Whether St. Ernest (Shackleton) or St. Roald (Amundsen) veneration kept pace with the airfield tension, given Troll's own Norwegian founding heritage and Queen Maud Land claim
 - Demonym: still TBD
-- Two placeholder holiday names ("St. Roald's Landing," "Runway Day") never fully developed
-- Notable figures: still nobody named
+- Notable figures: still nobody named (beyond dispatch coordinator Freya Nakamura-Olsen, per Course of
+  Events Suggestion #9)
 
-**New, surfaced by this research pass:** given Neumayer's own newly-established role designing the current-generation fabrication-synthesis chamber schematic, and given Sinheung (one of the Cradle's two currently-active manufacturing sites) already ships supplies onward via its own aviation route — it's worth asking whether Troll's own freight network has ever carried actual fabrication-synthesis chambers themselves onward to other Tepenian cities, given Troll's established role as the Halley subnet's real distribution hub for goods reaching the rest of the Federation. The current files don't address this either way.
+**Resolved 2026-07-17:** the two placeholder holiday names ("St. Roald's Landing," "Runway Day") are now
+both fully developed as Course of Events Suggestion #3, "A Landing and a Runway" — the city deliberately
+keeps both, side by side, rather than letting the newer identity replace the older one. Also resolved:
+whether St. Roald veneration kept pace with the airfield tension — per Course of Events Suggestion #8,
+"Saint Roald, Quietly," it persists, but privately, in individual households and small gatherings rather
+than public prominence. Also resolved: this document's own former "New, surfaced by this research pass"
+question about whether Troll's freight network ever carried fabrication-synthesis chambers onward to
+other cities — yes, per Course of Events Suggestion #6, "The Chambers Passing Through," which also
+already produced the Full_Extrapolation's own proposed answer that Cross_Reference_Synthesis Finding 3
+builds on.
 
 ---
 

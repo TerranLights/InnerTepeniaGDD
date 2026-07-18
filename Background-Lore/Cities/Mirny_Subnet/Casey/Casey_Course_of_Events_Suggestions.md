@@ -118,6 +118,18 @@ travelers happen to stop. **But** that pride never fully displaces Casey's older
 diffuse, function-first junction city. **Therefore** Casey ends up holding both at once — genuine
 ownership over what it built, and an honest awareness that the city was never only that one thing.
 
+## 11. Besides the Road
+
+Casey's workshop trade has quietly grown, one repair job at a time, to meet the constant demand from
+travelers resupplying before the long interior drive to Concordia. **But** nobody outside the trade has
+ever thought of Casey that way, until a workshop owner totals up just how much of the city's actual daily
+economy now runs through vehicle repair and fabrication — rivaling Splinters' own contribution.
+**Therefore** a real disagreement opens between wanting genuine civic recognition for essential,
+unglamorous labor and worrying that elevating a second identity dilutes the one thing Casey is actually
+known for everywhere else. **But** the numbers don't stop being true just because acknowledging them is
+uncomfortable. **Therefore** the city recognizes both formally — real civic investment in a genuine
+workshop-and-fabrication quarter alongside Splinters' own, Casey settling into two legs instead of one.
+
 ---
 
 ## Worth Your Attention
@@ -126,4 +138,6 @@ ownership over what it built, and an honest awareness that the city was never on
 giving the Megasheet's own central landmark an actual causal history rather than treating its fame as
 a fixed, always-true fact. **#10** is the most emotionally significant thread, since it's the one that
 gives Casey's own "did we ever feel we'd arrived" open question (raised directly in the Mega-Init) an
-actual dramatized turning point rather than a static yes-or-no answer.
+actual dramatized turning point rather than a static yes-or-no answer. **#11** fills the Mega-Init's own
+flagged economic gap directly, giving Casey a second, genuine civic identity standing alongside Splinters
+rather than living invisibly beneath it.

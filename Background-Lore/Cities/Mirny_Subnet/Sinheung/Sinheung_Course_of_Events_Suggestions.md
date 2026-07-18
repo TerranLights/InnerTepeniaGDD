@@ -65,16 +65,16 @@ success becomes the city's single most consequential civic achievement — quiet
 infrastructure for the whole country, credited to one foreman's deliberate push rather than
 happenstance.
 
-## 5. What Davis Sends
+## 5. What Mirny Sends
 
 Sinheung's growing fabrication economy needs a steady, reliable source of raw material to actually
 function. **But** its own site offers limited natural material of the right kind for heavy
-manufacturing. **Therefore** a genuine supply relationship forms with Davis, further down Hwy 110 —
-raw materials trucked in, worked into finished goods here, a real economic dependency running between
-the two cities. **But** relying on another city's supply chain means Sinheung's own industrial output
-is only ever as reliable as Davis's ability to keep shipping. **Therefore** the relationship becomes
-something both cities have to actively maintain, not a one-time arrangement either side can take for
-granted once it's set up.
+manufacturing. **Therefore** a genuine supply relationship forms with Mirny, further down the highway
+network — raw materials trucked in, worked into finished goods here, a real economic dependency running
+between the two cities. **But** relying on another city's supply chain means Sinheung's own industrial
+output is only ever as reliable as Mirny's ability to keep shipping. **Therefore** the relationship
+becomes something both cities have to actively maintain, not a one-time arrangement either side can take
+for granted once it's set up.
 
 ## 6. Three Parties, One Agreement
 
@@ -138,6 +138,18 @@ contribution along the way. **Therefore** both names get remembered less as indi
 as convenient anchors for a much longer, more collective story — proof of what Sinheung built,
 credited to the two people history happened to remember doing it.
 
+## 11. The Only Other One
+
+A Sinheung engineer, during a routine technical audit, learns for the first time that Byrd — far across
+the country, in an entirely separate subnet — produces the exact same fabrication-synthesis chamber
+apparatus Sinheung does. **But** a production administrator is wary of the discovery, worried that closer
+coordination could dilute Sinheung's own hard-won specialization or introduce a shared point of failure.
+**Therefore** a real disagreement opens over whether to pursue direct contact at all. **But** as one of
+only two manufacturers nationwide, the case for sharing production knowledge is genuinely strong.
+**Therefore** a modest technical exchange channel opens anyway — each site keeping its own process intact,
+while Sinheung's workers gain a fuller, more concrete sense of exactly how singular their own
+responsibility actually is.
+
 ---
 
 ## Worth Your Attention
@@ -147,4 +159,6 @@ the name itself standing as a promise the city has to keep proving true, togethe
 Megasheet's own central finding (a population that proves its place through demonstrated output
 because it was never simply handed one) its clearest dramatized shape. **#2 and #4** trace the city's
 full economic arc from inherited research infrastructure to nationally load-bearing chamber
-manufacturer, the two decisions that actually built Sinheung's defining significance.
+manufacturer, the two decisions that actually built Sinheung's defining significance. **#11** is the
+only chain that reaches beyond Sinheung's own subnet, connecting it directly to Byrd, the sole other
+Tepenian city carrying the identical manufacturing responsibility.

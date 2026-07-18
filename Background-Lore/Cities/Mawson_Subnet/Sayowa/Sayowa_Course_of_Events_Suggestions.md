@@ -125,6 +125,18 @@ institutional heritage entirely. **Therefore** Sayowa ends up carrying real Japa
 without the population to match it — a quieter, less-protected version of the same story Shirayuki's
 own founders would later look at and decide not to risk repeating.
 
+## 11. Everyone Else's Prosperity
+
+Someone works out concretely where Sayowa's junction traffic actually ends up benefiting — overwhelmingly
+Mawson, Concordia, and the Halley subnet, while Sayowa itself stays exactly as modest as it's always
+been. **But** a resident who wants that asymmetry addressed meets real resistance from the junction's own
+coordinator, worried that pushing for a bigger cut risks the trusted neutrality the whole cooperative
+arrangement depends on. **Therefore** a real disagreement opens over how much Sayowa is actually owed.
+**But** the arrangement's stability depends on every stakeholder trusting Sayowa isn't angling for its own
+advantage. **Therefore** the city secures something modest and proportionate instead of a full
+renegotiation — the asymmetry named and slightly softened, not eliminated, Sayowa's own pride settling
+into something more clear-eyed than simple contentment.
+
 ---
 
 ## Worth Your Attention
@@ -134,3 +146,5 @@ temperament the city built around accepting that importance gracefully rather th
 modest size. **#4** is the most structurally distinctive thread of the ten, since it gives Sayowa's
 own established contrast with Troll's fractured airfield conflict an actual originating shape — genuine
 cooperation, chosen and maintained, rather than contested control that simply never happened to erupt.
+**#11** uses the Mega_Init's own single most-praised real-world parallel to its fullest, sharpening
+Sayowa's modest pride into something that has actually reckoned with its own real cost.

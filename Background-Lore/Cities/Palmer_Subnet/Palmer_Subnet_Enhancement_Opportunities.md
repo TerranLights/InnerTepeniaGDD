@@ -31,7 +31,9 @@ existing 10 don't touch.
    disproportionately the fathers the whole city organizes itself around. A chain about the mines being
    held to unusually strict safety standards specifically *because* of who's working them — a direct,
    literal expression of the founding compact rather than an economic-pride story — would be distinct from
-   #7's already-used framing.
+   #7's already-used framing. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Compact
+   Underground"** — see `Esperanza_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Esperanza_11_The_Compact_Underground.md`.
 
 2. **Resident character cultures.** The Catalog explicitly notes that Mexico's Veracruz-derived "historic,
    foundational port" resonance (Mexico's oldest and most historically significant port, the first Spanish
@@ -90,7 +92,9 @@ existing 10 don't touch.
    would have depended on. A chain about tension or complementarity between the city's quiet intellectual
    prestige (tertulia, archive) and the unglamorous fishing labor that materially sustains it — two
    economies, one city, only one of which gets celebrated — would use a dimension the existing chains
-   entirely skip.
+   entirely skip. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Labor Beneath the
+   Argument"** — see `Juan_Carlos_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Juan_Carlos_11_The_Labor_Beneath_the_Argument.md`.
 
 2. **Resident character cultures.** The Catalog flags Italy's presence — essentially tied for the city's
    largest Significant-tier population (14.24%) — as "a genuinely new methodological finding": no strong
@@ -160,7 +164,9 @@ touch.
    explore this — chain #10 treats the shipyard as a proactive hedge against a hypothetical risk, not a
    response to any specific threat. A chain where a real rival option (a competing airstrip, or improved
    shipping elsewhere) briefly threatens the runway's centrality, with the shipyard's earlier development
-   turning out retroactively prescient, would use this explicitly flagged, still-open question.
+   turning out retroactively prescient, would use this explicitly flagged, still-open question. **DRAFTED
+   2026-07-17 as Course of Events Suggestion #11, "The Hedge, Tested"** — see
+   `Marambio_Course_of_Events_Suggestions.md` and `Course_of_Events/Marambio_11_The_Hedge_Tested.md`.
 
 4. **City personality / geography / geology → history.** The Hard Facts table establishes Marambio as
    reached via the Picnic Passage causeway/bridge chain — a specific piece of connective infrastructure
@@ -232,6 +238,9 @@ below are ones the existing 10 don't touch.
    resident's formative experience growing up inside Palmer City's specific culture (its inclusivity myth,
    its glamour, its tourism economy) would build genuine pre-war texture for whoever she eventually turns
    out to be — an angle none of the existing chains, all civic-scale or origin-story-focused, currently take.
+   **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "Nothing Unusual Yet"** — see
+   `Palmer_City_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Palmer_City_11_Nothing_Unusual_Yet.md`.
 
 ### Port Lockroy
 
@@ -287,7 +296,12 @@ formalizing decision (#10). New angles below are ones the existing 10 don't touc
    returns to this particular panel or what it might mean. A chain about why that specific image got carved
    — a resident's own reflection on robot-human creation, the Cradle, or continuity of life in a very
    different form — would use a concrete, still-unexplained detail sitting in plain sight in the source
-   material.
+   material. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Panel He Never Explained"**
+   — see `Port_Lockroy_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Port_Lockroy_11_The_Panel_He_Never_Explained.md`. The panel's actual meaning is kept
+   deliberately ambiguous, never confirmed as a Cradle connection or anything more specific than a
+   private reflection — consistent with Cradle's own standing rule that it must never be resolved via a
+   quest or otherwise pinned down.
 
 ### Rothera
 
@@ -311,7 +325,10 @@ decentralization argument correct (#10). New angles below are ones the existing 
    Rothera *supplying goods* to the subnet, but not exporting its actual methodology to found a new
    industrial site. A chain about Rothera engineers being sent to help establish a "Rothera-inspired"
    industrial pocket elsewhere in the Federation would use this explicitly flagged, still-open idea
-   directly.
+   directly. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Second Rothera"** — see
+   `Rothera_Course_of_Events_Suggestions.md` and `Course_of_Events/Rothera_11_The_Second_Rothera.md`. The
+   receiving settlement is deliberately left unnamed to avoid overwriting any other city's own established
+   canon.
 
 2. **Resident character cultures.** The Synthesis Notes single out Canada as the only population at
    Rothera with a genuine double-strong match (Vancouver Island geography plus Hamilton City-Type),
@@ -398,7 +415,9 @@ ones the existing 10 don't touch.
    competition half, but the "social/emotional" half implied by that proposed answer reads as something
    more personal than territory — old slights, favoritism, or unaddressed resentment between specific
    neighboring communities. A chain about one such unresolved grievance, not about ground at all, would use
-   the half of the flagged dual-answer the existing land-focused chains don't reach.
+   the half of the flagged dual-answer the existing land-focused chains don't reach. **DRAFTED 2026-07-17
+   as Course of Events Suggestion #11, "Not About the Ground"** — see
+   `Sejong_Course_of_Events_Suggestions.md` and `Course_of_Events/Sejong_11_Not_About_the_Ground.md`.
 
 ### Signy
 
@@ -438,7 +457,9 @@ the existing 10 don't touch.
    of the 10 chains touch this — every chain treats Signy's fishing economy as stable throughout. A chain
    about a genuine pre-war lean season or a specific species' decline, testing whether Signy's
    self-sufficiency is as durable as residents assume, would use this explicitly flagged, still-unused
-   caution.
+   caution. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "Not Everything the Sea Provides"**
+   — see `Signy_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Signy_11_Not_Everything_the_Sea_Provides.md`.
 
 4. **City personality / geography / geology → history.** The Catalog describes the Scotia Sea as
    "biologically the richest and most productive location in Tepenia," a genuine convergence of

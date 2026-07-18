@@ -121,6 +121,19 @@ behind it. **Therefore** Zukelli's own residents keep the distinction alive them
 that their city's name became shorthand for a whole way of treating people, even as the word travels
 further than most of them ever will.
 
+## 11. The Wave That Was Still Arriving
+
+Zukelli's own growing hospitality reputation starts drawing a genuinely new kind of arrival — people
+choosing the city deliberately, for what it had specifically become, not simply ending up there by
+circumstance. **But** a civic leader's excitement about the surge meets real caution from a longtime
+neighborhood organizer, worried the city's own tangled, organic infrastructure was never built to absorb
+growth this fast without straining what makes it worth moving to in the first place. **Therefore** the
+city commits to accommodating the new arrivals while deliberately protecting its hospitality-centered
+core — new neighborhoods extending the same organic, need-driven growth pattern rather than imposing
+anything foreign onto it. **But** growth at this pace tests that commitment constantly. **Therefore** it
+holds — Zukelli's population climbs toward its highest point yet, a direct, traceable result of people
+actively choosing to come, the city succeeding completely at becoming more fully itself.
+
 ---
 
 ## Worth Your Attention
@@ -130,4 +143,6 @@ pattern, one specific famous venue, and the population-wide mixing that produced
 established hospitality culture an actual developmental arc. **#6 and #7** work as a pair, giving the
 Megasheet's own "cooperative, competitive, affectionate, entangled" description of the Janbogo
 relationship two concrete, lived mechanisms (informal visiting, good-natured rivalry) rather than
-leaving it as an abstract summary.
+leaving it as an abstract summary. **#11** gives the Mega_Init's own single most load-bearing fact — a
+city destroyed near its demographic peak, not in decline — an actual causal story rather than pure
+atmosphere, without ever touching the destruction itself.

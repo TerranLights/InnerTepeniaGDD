@@ -111,12 +111,22 @@ Carried forward from `Specs/Byrd.md`, `TODO.md`, and this Megasheet's own scope 
 - Why the aircraft could not be repaired — confirmed environmental/climate cause, specific mechanism TBD
 - The full aviation route's remaining unknowns — aircraft type, Framheim's actual former role
 - Whether any overland highway connection was ever confirmed for *people*, as distinct from the freight-only Hwy 1/Hwy 22 network
-- St. Richard's civic site — Byrd's own equivalent of Scott's Hut Point
-- The buried sections' true depth and what the oldest, sealed-off layers might still hold
-- Whether West Antarctic Ice Sheet instability is a background condition or an active, escalating crisis
+- The buried sections' exact true depth (what the oldest, sealed-off layers hold is now partially addressed, below)
 - Demonym — still TBD
 - Notable figures beyond Maggie Aarden — still largely TBD
 - **The specific internal district/faction structure this city needs**, per the standing design requirement that Byrd carry its whole DLC's complexity alone
+
+**Resolved 2026-07-17:** St. Richard's civic site — per Course of Events Suggestion #8, "St. Richard's
+Marker" (`Byrd_Course_of_Events_Suggestions.md`), a modest memorial built where the founding expedition's
+first, uncertain encampment actually stood, before the buried station was discovered. Also partially
+addressed: what the oldest, sealed-off layers might still hold — per Suggestion #9, "Deeper Than Anyone
+Remembers," genuine pre-exile Upper Earth remnants from the original station's own operational period,
+occasionally encountered by engineers extending the tunnels (exact depth remains unspecified). Also
+resolved, via the newly-drafted Suggestion #11, "The Weight of All That Digging"
+(`Course_of_Events/Byrd_11_The_Weight_of_All_That_Digging.md`): whether West Antarctic Ice Sheet
+instability is a background condition or an active, escalating crisis — neither extreme; it becomes a
+genuine, permanently and actively monitored chronic concern the city manages rather than either ignores
+or is overwhelmed by.
 
 ---
 

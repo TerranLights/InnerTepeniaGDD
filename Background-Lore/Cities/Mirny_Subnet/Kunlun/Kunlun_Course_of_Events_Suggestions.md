@@ -126,6 +126,19 @@ second, later expansion phase scales the comms-relay function specifically, leav
 observatory as a facility that grew in distinct, datable stages rather than one static instrument
 quietly accumulating readings across five centuries.
 
+## 11. The Only Two Who Crossed
+
+A Kunlun researcher studying the city's own human-to-robot transition learns that Dome Fuji is the only
+other Tepenian city to have gone through the equivalent shift, and reaches out for the first time,
+seeking their records as genuine comparative data. **But** Dome Fuji's own resident finds that framing
+uncomfortable — for their city, the transition wasn't a policy decision to be catalogued, and being
+treated as a data point feels like something significant getting flattened. **Therefore** a real
+adjustment has to happen: Kunlun's own researcher acknowledges directly that the request matters to Dome
+Fuji in a way it doesn't have to matter to Kunlun for the exchange to still be real. **But** neither city
+actually changes its own fundamental register in the process. **Therefore** a modest, ongoing exchange
+takes hold anyway — the only two cities in Tepenia that share this specific history, each now aware the
+other exists, neither required to carry it the same way.
+
 ---
 
 ## Worth Your Attention
@@ -134,4 +147,6 @@ quietly accumulating readings across five centuries.
 single-nation founding to its actual re-resolved, function-first population, giving that identity an
 earned developmental arc. **#6 and #10** work as a pair, since #6 dramatizes the specific decision
 that #10 describes as one of the observatory's two historical expansion phases — the same event, told
-once as institutional history and once through the person who pushed for it.
+once as institutional history and once through the person who pushed for it. **#11** is the only chain
+that reaches beyond Kunlun's own subnet entirely, connecting it to the single other Tepenian city that
+shares its most defining, unrepeated history.

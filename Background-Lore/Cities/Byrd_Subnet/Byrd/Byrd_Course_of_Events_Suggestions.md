@@ -128,6 +128,19 @@ kind of place its own isolation demanded — not one city with one industry, but
 learning to run as one continuous system, out of sheer necessity rather than any deliberate plan to
 build it that way.
 
+## 11. The Weight of All That Digging
+
+Engineers notice a section of tunnel showing genuine structural strain, a minor but real settling
+event — centuries of cumulative excavation finally interacting, visibly, with the West Antarctic Ice
+Sheet's own known instability. **But** a structural engineer's push to slow or reassess excavation meets
+real resistance from production leadership, afraid of disrupting a five-sector integrated economy that
+took centuries to build. **Therefore** the city commits to genuine, ongoing structural monitoring instead
+of either halting growth or ignoring the strain — expansion continues, but consciously managed for the
+first time. **But** one round of monitoring doesn't settle a geological reality this large.
+**Therefore** it becomes permanent — a quiet sixth concern threaded through Byrd's whole integrated
+economy, the Ice Sheet's instability settling into a chronic, actively managed condition rather than
+either a single crisis or something simply ignored.
+
 ---
 
 ## Worth Your Attention
@@ -137,4 +150,5 @@ the crew that actually made the crossing — giving the Megasheet's own central 
 from below, then left alone") its full dramatized sequence. **#4 and #10** are the most structurally
 important for Byrd's later significance, since together they establish both its single most
 nationally consequential role (chamber manufacturing) and the broader integrated economy that role
-grew out of.
+grew out of. **#11** answers the Mega_Init's own still-open Ice Sheet instability question directly,
+giving Byrd's underground economy a permanent, managed tension with its own physical foundation.

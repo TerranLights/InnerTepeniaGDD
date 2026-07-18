@@ -62,12 +62,25 @@ Founded by explicit decree as both a manufacturing center and a fortress simulta
 
 Carried forward from `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhongshan.md`, the genuinely remaining TBDs:
 - Demonym — "Zhongshaners"? something Chinese?
-- Four notable figures, all currently placeholders: the founding figure, the artisan tradition founder, the literary figure, and (already named) Ji-Eun Kim
-- Five notable landmarks, all currently placeholders: the original station structure, the primary archive, the rock formation, the artisan quarter, the counterculture district
+- The original station structure and the primary archive — two of five notable landmarks still placeholder (see below for the other three, now resolved)
 - The specific Long Night War strike on the Zhongshan/Sinheung cluster — resolved as damaged-but-functional, but what actually happened is still TBD
-- A defining literary or musical premiere work — the piece considered to most completely express Zhongshan's cultural identity
-- Specific Prydz Bay fishing methods/species (flagged open in the Vision Notes)
 - No City Enneagram Personality profile exists yet
+
+**Resolved 2026-07-17:** three of the four notable figures — per Course of Events Suggestions #1, #5,
+and #9 (`Zhongshan_Course_of_Events_Suggestions.md`), the founding figure (Founding Elder Mèi Sun) and
+the artisan-tradition founder (Táng Wǔ) are both named; the literary figure (the Chronicler) is
+deliberately kept unnamed by the city's own privacy norm, a design choice rather than a gap. Ji-Eun Kim
+— the fourth, already-established figure — is now also given a dedicated chain: newly-drafted Suggestion
+#11, "The City That Didn't Ask" (`Course_of_Events/Zhongshan_11_The_City_That_Didnt_Ask.md`), consistent
+with her own established backstory (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/Ji-Eun Kim/README.md`)
+that she relocated to Zhongshan from Sejong and "spent significant time there before moving to
+Concordia." Also resolved: three of five notable landmarks — the rock formation (the Standing Stone,
+Suggestion #10), the artisan quarter (the Crossing Quarter, Suggestion #5), and the counterculture
+district (the Loud Quarter, Suggestion #7) are all named. Also resolved: a defining literary/musical
+premiere work — per Suggestion #6, "The Long Winter Suite," Composer Táng Yuxuan's multi-movement polar-
+night suite is the piece residents point to as Zhongshan's truest musical expression. Also resolved:
+specific Prydz Bay fishing methods/species — per Suggestion #8, "What the Ice Gave Up," krill and
+Antarctic silverfish, harvested via net fishing in summer and ice-hole fishing in winter.
 
 ---
 

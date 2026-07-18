@@ -66,16 +66,27 @@ Host to 43 international organizations and 183 UN member-state missions concentr
 
 Carried forward from `Specs/Fort_McMurdo.md`, still genuinely unresolved:
 - Demonym for Fort McMurdo residents: still TBD
-- Exact industrial output and materials extracted — volcanic geology of Ross Island, Dry Valleys geology across the Sound
-- Notable figures: still nobody named
+- Exact industrial output and materials extracted — volcanic geology of Ross Island, Dry Valleys geology across the Sound (the division of labor itself is now resolved, below; the specific materials are not)
 - What "partially operational" actually means today — who's there, and what are they doing? The DLC 6 central question
 - The Cape Evans and Cape Royds expedition huts' accessibility and condition after the war
 - Erebus's volcanic activity level at the time of the game — baseline rumbling, or an active heightened phase?
-- The Dry Valleys extraction operation — what was mined there, and is anything still ongoing?
+- Whether anything is still being mined in the Dry Valleys today
 - Which sections of the city survived the war versus collapsed, and where the surviving population is concentrated
-- When, exactly, did Fort McMurdo's capital status change from informal/de facto to formally official, and what prompted the government to finally make it official rather than leaving the arrangement unnamed?
+- The exact date Fort McMurdo's capital status changed from informal to formally official (what prompted it is now resolved, below)
 
-**New, surfaced by this research pass:** given Calgary's own real precedent (a headquarters city distinct from the actual extraction site) and Fort McMurdo's established Dry Valleys operation across McMurdo Sound, it's worth asking whether Fort McMurdo itself functioned purely as the coordination and processing hub, with the actual raw extraction happening across the Sound in the Dry Valleys — mirroring Calgary and the oil sands exactly — rather than Fort McMurdo being both the extraction site and the coordination hub combined. The current files don't specify this division of labor.
+**Resolved 2026-07-17:** notable figures — per Course of Events Suggestions #6 and #10
+(`Fort_McMurdo_Course_of_Events_Suggestions.md`), Volcanologist Dr. Marco Conti and Logistics
+Coordinator Amara Fischer are both named. Also resolved: what prompted the government to finally make
+Fort McMurdo's capital status official — per Suggestion #1, "Accountability, Not Power," the Amundsen
+Tower's construction made national dependency on Fort McMurdo's output undeniable at exactly the moment
+resentment over its unaccountable informal influence peaked. Also resolved, the "New, surfaced by this
+research pass" question this Mega-Init originally raised: whether Fort McMurdo functioned purely as a
+Calgary-style coordination/processing hub rather than combining extraction and coordination — per
+Suggestion #3, "Across the Sound," yes: raw extraction relocated to the Dry Valleys while Fort McMurdo
+itself specialized down into pure processing and coordination, a deliberate division of labor rather
+than an accident (see also newly-drafted Suggestion #11, "The Ledger Nobody Elected," which extends this
+same coordination identity into a genuine resource-allocation function, using Geneva's own unused
+private-banking half).
 
 ---
 

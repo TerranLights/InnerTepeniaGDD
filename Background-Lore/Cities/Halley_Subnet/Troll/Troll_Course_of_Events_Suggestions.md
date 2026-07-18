@@ -127,11 +127,27 @@ better crafted throughout. **But** visitors used to reading prosperity as visibl
 miss it entirely. **Therefore** Troll's wealth stays legible mainly to residents themselves — a quiet
 difference in craftsmanship rather than anything a stranger would immediately notice.
 
+## 11. No Leverage in It
+
+As Troll's freight network expands, a dedicated route forms to keep Dome Fuji — one of Tepenia's most
+isolated interior cities, with nearly no Arcanet presence of its own — genuinely supplied. **But** every
+other relationship Troll's freight network runs on ties to leverage: scheduling priority, fee structures,
+strategic chokepoint control, the whole "competence is leverage" logic the city's own civic philosophy is
+built on. Dome Fuji has nothing to trade back and no way to apply pressure if the route were ever cut.
+**Therefore** the route sits, for years, as a genuine anomaly inside Troll's own operational thinking —
+maintained out of straightforward necessity rather than any strategic calculation, an exception nobody
+quite articulates as one. **But** exceptions that persist long enough stop being exceptions.
+**Therefore** Troll keeps running the route anyway, generation after generation, without ever folding it
+into the leverage-first logic that governs everything else the Airfield Authority (#2) touches — a small,
+permanent crack in the city's own hardened self-understanding, proof that "competence is leverage" was
+never quite the whole truth about what Troll actually does.
+
 ---
 
 ## Worth Your Attention
 
-**#2** is the most load-bearing of the ten — the Airfield Authority it establishes becomes the
+**#11** is the sharpest thematic outlier of the eleven — the one relationship in Troll's entire freight
+network that contradicts its own stated civic philosophy, kept alive anyway. **#2** is the most load-bearing of the ten — the Airfield Authority it establishes becomes the
 connective tissue for #6 and #9, giving Troll's economic rise an actual governing structure rather
 than leaving "the airfield matters" as an abstract fact. **#4 and #5** work as a natural pair, tracing
 how Troll's freight capacity and fuel security both had to be deliberately built up rather than simply

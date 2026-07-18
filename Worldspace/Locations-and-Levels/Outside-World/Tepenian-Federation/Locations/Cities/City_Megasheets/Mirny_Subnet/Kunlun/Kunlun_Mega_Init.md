@@ -71,13 +71,21 @@ Its founding motto, "mens et manus" ("mind and hand"), deliberately elevates use
 Carried forward from `Specs/Kunlun.md` and `Local_Cultures/Mirny_Subnet/Kunlun.md`, still genuinely unresolved:
 - The founding human population's fate — entirely unaddressed in current canon, the same open question Vostok carries
 - The observatory archive's actual contents across five centuries — a confirmed required DLC story element, not yet written
-- Whether Kunlun holds or contests Vostok's absolute cold record
-- The scientifically self-selected population vs. the religiously devoted as a real internal cultural distinction — flagged as worth developing, not yet written
 - Vosora Lashár Tanslock's still-undetermined connection to Kunlun
-- Notable figures — none named yet
 - Demonym — still TBD
 
-**New, surfaced by this research pass:** whether Kunlun's observatory itself should be framed as having undergone its own real expansions and additions over its five centuries of operation (in the spirit of CHESS/CHEXS), rather than being a single unchanged instrument since founding.
+**Resolved 2026-07-17:** whether Kunlun holds or contests Vostok's absolute cold record — per Course of
+Events Suggestion #8, "Whose Cold Counts" (`Kunlun_Course_of_Events_Suggestions.md`), neither side ever
+confirms it: Vostok holds the official, instrumentally verified record, Kunlun holds the plausible but
+unconfirmed physical claim, and the two cities settle into a genuine, good-natured standoff rather than
+an escalating dispute. Also resolved: the scientifically self-selected population vs. the religiously
+devoted as a real internal cultural distinction — per Suggestion #3, "Two Faiths, One Sky," Kunlun holds
+both relationships to its own extremity side by side, neither displacing the other. Also resolved:
+notable figures — Chief Astronomer Renata Okonkwo-Sato (Suggestion #6) and Brother/Sister Ilkay
+(Suggestion #7) are both named. Also resolved, the "New, surfaced by this research pass" question this
+Mega-Init originally raised: whether the observatory underwent real expansions over its five centuries of
+operation — per Suggestion #10, "An Expansion Two Centuries Apart," it did, growing in distinct, datable
+stages rather than remaining one static instrument.
 
 ---
 

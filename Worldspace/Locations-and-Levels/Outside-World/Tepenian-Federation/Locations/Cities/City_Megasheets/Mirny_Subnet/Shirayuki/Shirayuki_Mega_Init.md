@@ -78,12 +78,20 @@ Unofficially "the Capital of Siberia" — a major transport, industrial, scienti
 Carried forward from `Specs/Shirayuki.md`, still genuinely unresolved:
 - *(Resolved 2026-07-08, no longer open: the city's actual Japanese proper name — Shirayuki (白雪, "white snow"), per the header naming note above. This bullet was left listing it as "the single largest open item, deliberately deferred" well after the name was actually chosen — removed here.)*
 - The Jeju-do allocation's specifics — exact date, and whether China or Korea contested it at the time
-- The lived relationship with Sinheung and Zhongshan, given the deliberately-engineered (rather than organic) founding
-- How the founding community adapted or modified the inherited Bharati Station infrastructure
 - Whether this city is Ayako Hayashi's pre-Concordia origin city — still an open candidate, not decided
-- Notable figures — none named yet
 
-**New, surfaced by this research pass:** specific named art/fashion/music movements or scenes within the city's own homemade Alt-Rock/Alt-Grunge/Alt-Pop culture, comparable to how Shibuya-kei or gyaru culture are specific, nameable movements rather than a single generic description.
+**Resolved 2026-07-17:** the lived relationship with Sinheung and Zhongshan — per Course of Events
+Suggestion #6, "Three Neighbors, Slow Warming" (`Shirayuki_Course_of_Events_Suggestions.md`), the three
+communities start genuinely formal and distant despite their shared diplomatic origin, then warm
+gradually over generations into the closely-entangled cluster identity later residents take for granted.
+Also resolved: how the founding community adapted the inherited Bharati Station infrastructure — per
+Suggestion #3, "Labs Into Galleries," former labs became gallery and studio space, dormitory blocks
+repurposed toward the school system, research-station bones doing an arts city's work. Also resolved:
+notable figures — Ambassador Reiko Tashiro (Suggestion #1) and Momoka Ishihara (Suggestion #4) are both
+named. Also resolved, the "New, surfaced by this research pass" question this Mega-Init originally
+raised: specific named art/fashion/music movements comparable to Shibuya-kei or gyaru culture — per
+Suggestions #4 and #5, Ashiato (the homemade fashion movement) and Glacier-pop (the founding-folk/
+subnet-fusion music genre) are both named, nameable scenes in their own right.
 
 ---
 

@@ -204,6 +204,21 @@ impossible to keep ignoring. **Therefore** a deliberate mentorship program gets 
 aftermath — the city's first real attempt to write down not just what the systems do, but why, before
 the people who still remember are gone too.
 
+## 11. The Ledger Nobody Elected
+
+**Grounded in:** Geneva's unused private-banking half (`Mega_Init`, Geneva entry), extending chain #7's
+scheduling-only "shadow arbitration body" into genuine resource allocation.
+
+Fort McMurdo's coordinators already decide shipment scheduling between competing national projects, but
+actual resource and credit allocation — who gets scarce inputs at all when supply falls short — stays
+informal, handled ad hoc by whoever's on shift. **But** as coordination deepens, projects start needing
+binding allocation decisions, not just scheduling priority. **Therefore** a coordinator pushes to
+formalize the practice into a real, transparent framework — the same instinct chain #9's comms charter
+already models. **But** an outside administrator is wary of concentrating yet more unaccountable economic
+power in one city. **Therefore** the framework gets built anyway, transparent criteria and real review
+attached — less a grant of new authority than a belated confession of authority that was already real,
+Fort McMurdo's Geneva-style financial half now as concrete as its Calgary-style coordination half.
+
 ---
 
 ## Worth Your Attention
@@ -214,4 +229,5 @@ give each one an actual causal mechanism instead of leaving it as a stated fact,
 point of running the Megasheet through this method rather than just reading it. **#6, #7, and #10**
 form a natural late-Interwar cluster — the near-miss eruption and the convergence-boom precedence
 crisis landing close together in time, with #10's succession-gap thread using both as the pressure
-that finally forces the city to fix it.
+that finally forces the city to fix it. **#11** completes the Mega_Init's own Geneva precedent, giving
+Fort McMurdo's coordination identity a genuine financial dimension alongside its scheduling one.

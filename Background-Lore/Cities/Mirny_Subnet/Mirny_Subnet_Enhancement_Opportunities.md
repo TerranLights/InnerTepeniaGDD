@@ -29,7 +29,9 @@ bar's fame (#10). New angles below are ones the existing 10 don't touch.
    full economic and industrial character beyond transit" as still genuinely unresolved. All 10 existing
    chains build Casey's identity entirely around the junction and Splinters; none touch any other economic
    pillar. A chain establishing some quieter, second economic activity Casey does well besides hosting
-   travelers would fill a flagged, still-open gap none of the existing chains address.
+   travelers would fill a flagged, still-open gap none of the existing chains address. **DRAFTED
+   2026-07-17 as Course of Events Suggestion #11, "Besides the Road"** — see
+   `Casey_Course_of_Events_Suggestions.md` and `Course_of_Events/Casey_11_Besides_the_Road.md`.
 
 2. **Resident character cultures.** The Catalog notes Japan's population carries two genuinely distinct
    registers — Dōtonbori's public spectacle and Wakasa Bay's private reserve — "held as a normal,
@@ -67,15 +69,17 @@ bar's fame (#10). New angles below are ones the existing 10 don't touch.
 **Files read:** `Davis_Catalog.md`, `Davis_Mega_Init.md`, `Davis_Course_of_Events_Suggestions.md` (all
 10 existing chains).
 
-**Known pre-existing issue, not re-flagged here:** the developer's 2026-07-16 ruling reassigned Davis's
-economy from mining/fabrication to breadbasket-plus-ecological-research (Mirny now holds the industrial
-role instead). `Davis_Catalog.md` and `Davis_Mega_Init.md` both reflect this correction, but
-`Davis_Course_of_Events_Suggestions.md` does not — chains #5, #6, #7, and #10 (including one literally
-titled "Quarries Before Questions") still describe mining/fabrication as Davis's dominant daily economy.
-This contradiction is already tracked in `project_city_history_consistency_sweep_complete` memory as
-"flagged for developer decision (reframe vs. retire), not silently fixed" — not re-flagged again here.
-The five ideas below are grounded in the *corrected* breadbasket/research identity, per the Catalog and
-Mega_Init.
+**Decided 2026-07-18:** the developer's 2026-07-16 ruling reassigned Davis's economy from
+mining/fabrication to breadbasket-plus-ecological-research (Mirny now holds the industrial role
+instead). `Davis_Catalog.md` and `Davis_Mega_Init.md` both reflect this correction, but the whole
+`Davis_Course_of_Events_Suggestions.md` collection does not — chains #5, #6, #7, and #10 (including one
+literally titled "Quarries Before Questions") still describe mining/fabrication as Davis's dominant daily
+economy, and the developer has called for the entire 10-chain collection to be regenerated fresh against
+Davis's now-conclusive settled identity ("Breadbasket of Tepenia" + multi-disciplinary research hub)
+rather than patched individually — see the flag at the top of that file. Suggestion #11, "Food for
+Stone," already reflects the corrected identity. The five ideas below are grounded in the *corrected*
+breadbasket/research identity, per the Catalog and Mega_Init, and remain valid input for the eventual
+regeneration.
 
 **Existing 10 chains already cover (per their own text, pre-correction in places):** the founding
 "enabler, not protagonist" civic character modeled on the namesake (#1), the sediment-core paleoclimate
@@ -109,7 +113,9 @@ don't touch, regardless of the mining/breadbasket discrepancy.
    Davis) holds the industrial/quarrying role. None of the 10 chains dramatize an actual Davis-Mirny
    economic partnership — food for materials, flowing along that same highway corridor. A chain
    establishing that specific exchange relationship would use Tyumen's real mechanism freshly, under the
-   corrected canon, rather than the chains' stale industrial self-framing.
+   corrected canon, rather than the chains' stale industrial self-framing. **DRAFTED 2026-07-17 as Course
+   of Events Suggestion #11, "Food for Stone"** — see `Davis_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Davis_11_Food_for_Stone.md`.
 
 4. **City personality / geography / geology → history.** The Mega_Init's own "What's Actually Open"
    section asks directly: "did the exile community develop scientific or economic uses for the unusual
@@ -171,7 +177,9 @@ distinct historical expansion phases (#10). New angles below are ones the existi
    comparable cities — chain #8 covers a Kunlun/Vostok rivalry instead, a different city in a different
    subnet. A chain about Kunlun and Dome Fuji drawing on each other's experience — the only two cities that
    ever went through a full human-to-robot transition — would ground an established but unused cross-city
-   connection.
+   connection. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Only Two Who Crossed"** —
+   see `Kunlun_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Kunlun_11_The_Only_Two_Who_Crossed.md`.
 
 5. **Other.** Kunlun's own Cross-Reference Synthesis flags a structural contrast, not yet dramatized in
    any chain: Kunlun and Zhongshan represent "two genuinely different mechanisms of multinational
@@ -203,6 +211,8 @@ bars valued for function over polish (#10). New angles below are ones the existi
    describe this only in the abstract — no chain dramatizes it. A chain establishing that specific,
    nationally significant supply relationship with Sinheung, distinct from the subnet-local highway-
    materials role chain #6 already covers, would use the actual load-bearing economic correction directly.
+   **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "What Feeds the Chambers"** — see
+   `Mirny_Course_of_Events_Suggestions.md` and `Course_of_Events/Mirny_11_What_Feeds_the_Chambers.md`.
 
 2. **Resident character cultures.** The Synthesis Notes single out UK's Portland-stone anchor as "the
    single strongest real-world anchor for Mirny's own quarrying economy found in this project" — yet UK
@@ -287,18 +297,28 @@ ones the existing 10 don't touch.
    inciting-incident candidate), a chain about an ordinary young resident's formative experience growing up
    inside Shirayuki's specific culture — the homemade fashion scene, the easy friendships, the "decided
    for you, made into a place you'd choose" civic arc — would build usable pre-Concordia texture toward
-   this still-open candidacy.
+   this still-open candidacy. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "One of the Ones
+   Who Left"** — see `Shirayuki_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Shirayuki_11_One_of_the_Ones_Who_Left.md`. The connection to Ayako Hayashi is
+   deliberately left unconfirmed.
 
 ### Sinheung
 
 **Files read:** `Sinheung_Catalog.md`, `Sinheung_Mega_Init.md`, `Sinheung_Course_of_Events_Suggestions.md`
 (all 10 existing chains).
 
+**Resolved 2026-07-18:** chain #5 (renamed "What Mirny Sends," was "What Davis Sends") described Davis
+exporting raw industrial materials to Sinheung — the same superseded pre-2026-07-16 framing already
+flagged as stale on Davis's own Megasheet and Course of Events file. Per the developer's own explicit
+call, corrected to Mirny throughout — the summary chain, the expanded chain file (renamed), the Mega_Init,
+and `Sinheung_Full_Extrapolation.md`. Davis's own 10-chain collection remains separately flagged for full
+regeneration.
+
 **Existing 10 chains already cover:** Korea's claim secured by treaty rather than inherited by
 birthright (#1), Chief Engineer Baek Ji-hoon converting inherited research infrastructure into an
 industrial economy (#2), residents proving that claim legitimate through demonstrated output (#3),
 Foreman Dae-ho Richter securing the chamber-manufacturing capability (#4), the raw-material supply
-relationship with Davis (#5), the three Larsemann Hills cities' diplomatic continuity from Jeju-do into
+relationship with Mirny (#5), the three Larsemann Hills cities' diplomatic continuity from Jeju-do into
 neighborly coexistence (#6), the founding generation choosing the name Sinheung itself (#7), the economy
 narrowing from broad industry to precise chamber specialization (#8), workers realizing the full weight
 of what the chambers actually do (#9), and Richter and Baek's legacies merging into one civic arc (#10).
@@ -344,7 +364,11 @@ New angles below are ones the existing 10 don't touch.
    despite the two cities being direct industrial peers in entirely separate subnets. A chain about
    Sinheung's own awareness of, or coordination with, Byrd as its sole manufacturing counterpart nationwide
    would use a fact already established elsewhere in the project but never connected to Sinheung's own
-   history.
+   history. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Only Other One"** — see
+   `Sinheung_Course_of_Events_Suggestions.md` and `Course_of_Events/Sinheung_11_The_Only_Other_One.md`.
+   Written purely as an industrial/economic relationship between the two manufacturing cities — does not
+   touch the Cradle/player-origin implications, consistent with Cradle's own standing "never a quest,
+   never resolved" rule.
 
 ### Vostok
 
@@ -399,7 +423,9 @@ for any one mind to hold (#10). New angles below are ones the existing 10 don't 
    to that specific historical trigger — chain #7 describes the relationship developing without anchoring
    it to any particular moment. A chain explicitly linking the partnership's origin to Kunlun's own
    comms-relay expansion (Kunlun's own chain #6, Renata Okonkwo-Sato's push) would honor a cross-city
-   timeline constraint neither chain currently observes.
+   timeline constraint neither chain currently observes. **DRAFTED 2026-07-17 as Course of Events
+   Suggestion #11, "Right After the Expansion"** — see `Vostok_Course_of_Events_Suggestions.md` and
+   `Course_of_Events/Vostok_11_Right_After_the_Expansion.md`.
 
 ### Zhongshan
 
@@ -449,4 +475,8 @@ Stone becoming genuine civic ground (#10). New angles below are ones the existin
    tradition founder, and literary figure, all three of whom chains #1, #5, and #9 already develop (Mèi
    Sun, Táng Wǔ, and the anonymous Chronicler respectively). None of the 10 chains use Ji-Eun Kim at all,
    despite her being a real, already-established named asset. A chain built specifically around her would
-   use a confirmed character none of the existing chains currently touch.
+   use a confirmed character none of the existing chains currently touch. **DRAFTED 2026-07-17 as Course
+   of Events Suggestion #11, "The City That Didn't Ask"** — see `Zhongshan_Course_of_Events_Suggestions.md`
+   and `Course_of_Events/Zhongshan_11_The_City_That_Didnt_Ask.md`. Grounded directly in her own confirmed
+   companion backstory (`Ji-Eun Kim/README.md`), staying strictly within her established pre-Concordia
+   Zhongshan window and inventing nothing about her Concordia arc or the concealment technology.

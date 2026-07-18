@@ -83,14 +83,22 @@ A real precedent for "too big and too redundant to be erased by bombing" — Lon
 ## What's Actually Open
 
 Carried forward from `Specs/Lazar.md` and `City_Vision_Notes/Lazar.md`, still genuinely unresolved:
-- The exact timeline of coalescence — how many generations passed between the two settlements' founding and their merger
-- Whether Novolazarevskaya's real DROMLAN air-logistics-hub role carried forward into Tepenia as a specific city function
+- The exact timeline of coalescence — how many generations passed between the two settlements' founding and their merger (Course of Events Suggestion #10 confirms it happened "during the First Interwar Period" but doesn't pin an exact figure)
 - Whether the old core/new expansion divide still registers today, and whether it correlates with which part of the city took the worst war damage
-- Relationship to Neumayer, the nearest confirmed Halley subnet neighbor
 - Demonym — still TBD
 - Notable figures — still TBD
 - What's actually driving Lazar's evident megacity-scale commercial economy — explicitly flagged by the developer as needing real exploration, not a placeholder gap
 - Whether the "dual personality" idea (extending the old-core/new-expansion architectural split into a genuine civic dual character) gets developed further
+
+**Resolved 2026-07-17:** whether Novolazarevskaya's real DROMLAN air-logistics-hub role carried forward
+into Tepenia as a specific city function — yes, per Course of Events Suggestion #3, "The Function That
+Outlived the Airfield": the coordination habit survives Tepenia's fixed eight-airport network by
+reinventing itself on the ground, making Lazar the Halley subnet's actual highway distribution capital.
+Also resolved: Lazar's relationship to Neumayer, its nearest confirmed subnet neighbor — per Course of
+Events Suggestion #7, "Complementary Not Competing," a quiet, undramatic mutual-usefulness relationship
+(Neumayer relies on Lazar as its nearest real market; Lazar's technical sector keeps an ongoing
+professional relationship with Neumayer's engineers), persisting for generations without either city's
+own records making a point of naming it.
 
 ---
 

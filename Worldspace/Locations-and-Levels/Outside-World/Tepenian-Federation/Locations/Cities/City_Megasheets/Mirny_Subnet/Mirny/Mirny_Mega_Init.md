@@ -76,12 +76,17 @@ Carried forward from `Specs/Mirny.md`, still genuinely unresolved:
 - Is Hwy 110 currently passable between Mirny and Concordia — the single most strategically significant open question, since this is the physical link, not an Arcanet one
 - Population and governance of current, post-war Mirny: TBD
 - The solstice observation tradition's exact present-day form — formal civic observance, informal gathering, or changed since the war?
-- The Antarctic Circle marker's form, and whether it survives
+- Whether the Antarctic Circle marker survives the war
 - Demonym: TBD
-- Notable individuals from Mirny: TBD
 - Which DLC covers the Mirny subnet: TBD
 - The Sinheung relationship — what contact existed between Mirny's and Sinheung's own, separate Russian-descended minority communities before the Split Brain, and what it looks like now that both sit in the same subnet *(corrected 2026-07-13 — previously called both "Sinheung's Russian communities," implying the city itself was Russian-founded; it's singularly Korean-founded via the Jeju-do court, Russia sits at ordinary Significant tier there just as it does at Mirny — see `Mirny_Full_Extrapolation.md` Section VIII for the full resolution)*
 - **The city's own eventual rename** — flagged 2026-07-08, deliberately deferred, not touched by this Megasheet
+
+**Resolved 2026-07-17:** the Antarctic Circle marker's form — per Course of Events Suggestion #5, "A
+Line in the Wall" (`Mirny_Course_of_Events_Suggestions.md`), it's a plain, functional plate built directly
+into the windbreak ring's own outer wall at the exact latitude, visible from both inside and outside the
+shelter (whether it survives the war remains open, above). Also resolved: notable individuals from
+Mirny — Chief Windwright Osric Bellandry (Suggestion #1) is named.
 
 ---
 

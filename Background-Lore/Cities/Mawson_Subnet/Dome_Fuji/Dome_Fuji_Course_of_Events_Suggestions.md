@@ -126,6 +126,17 @@ earned this way could easily calcify into an unofficial ruling class if left unc
 it doesn't — newer devotees defer to the stewards' experience specifically, not their authority, and
 the moment a steward stops actively living the practice, the deference quietly stops too.
 
+## 11. What the Fire Left
+
+A fire, almost certainly electrical given Nyakkyo's spare design, damages the site badly enough that it
+can no longer function as it did — a genuine crisis for a faith this young and this centered on one
+structure. **But** a longtime steward wants it rebuilt exactly as it was, while a newer devotee worries
+that simple replication would treat rebuilding as mere repair rather than real devotion. **Therefore**
+the community rebuilds it anyway, identical in form — small, low, empty — but undertaken deliberately and
+communally, the act of rebuilding itself becoming its own devotional practice. **But** a site that was
+merely repaired wouldn't carry any new weight. **Therefore** it does anyway — Nyakkyo's history now
+includes being lost and remade by the community's own hands, not just discovered and built once.
+
 ---
 
 ## Worth Your Attention
@@ -134,4 +145,6 @@ the moment a steward stops actively living the practice, the deference quietly s
 own arrival into what that ending left behind, together tracing Dome Fuji's full transition without
 inventing a crisis the Megasheet's own Full Extrapolation explicitly says never happened. **#9** is the
 single richest thread of the ten, since it's the only one that gives Dome Fuji a character who
-personally bridges both of its otherwise cleanly separated eras.
+personally bridges both of its otherwise cleanly separated eras. **#11** answers the Mega_Init's own
+directly-invited Taktsang-style disaster-and-rebuilding beat, giving Nyakkyo a second, communally-earned
+foundation layered onto its original discovery.

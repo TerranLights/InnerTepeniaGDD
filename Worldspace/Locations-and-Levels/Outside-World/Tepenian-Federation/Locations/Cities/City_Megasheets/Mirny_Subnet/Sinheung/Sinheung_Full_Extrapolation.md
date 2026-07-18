@@ -29,7 +29,7 @@
 
 **Denison is also a confirmed historical manufacturer** — a legitimate Cradle producer during its living Second Interwar Period, lost when the city was later destroyed. Same category as Mountain Pass now; distinct from the present-day network, which is really only Sinheung and Byrd.
 
-Davis remains ruled out as a candidate — already established as this city's own raw-material supplier, a feeder role rather than a competing final-stage manufacturer. Zhongshan remains a strong candidate under active consideration; Belgrano and Concordia are proposed but paused pending further development (see `TODO.md`).
+Mirny remains ruled out as a candidate — already established as this city's own raw-material supplier, a feeder role rather than a competing final-stage manufacturer *(corrected 2026-07-18: this feeder role belonged to Davis at the time this section was originally written, but Davis's 2026-07-16 economic reassignment moved it to Mirny — Davis itself is separately, and more simply, ruled out as a breadbasket/research city with no industrial manufacturing base at all)*. Zhongshan remains a strong candidate under active consideration; Belgrano and Concordia are proposed but paused pending further development (see `TODO.md`).
 
 ---
 

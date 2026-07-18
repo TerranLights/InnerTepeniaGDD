@@ -125,6 +125,18 @@ becomes something closer to genuine civic ground — no formal designation, no o
 generations of residents who've kept meeting there long enough that its significance no longer needs
 explaining to anyone who already lives in the city.
 
+## 11. The City That Didn't Ask
+
+Ji-Eun Kim arrives in Zhongshan from Sejong, her nanotech skill immediately obvious to the city's
+technical community, and a workshop lead genuinely wants to bring her into the formal scientific
+establishment. **But** Ji-Eun's own instinct is to work around institutions rather than through them,
+and even a culture built on privacy can't fully resolve what formal integration would risk exposing.
+**Therefore** the offer gets made once, clearly, and then simply left to stand — consistent with
+everything Zhongshan already believes about not pressing further. **But** declining formal standing
+doesn't mean declining the work itself. **Therefore** Ji-Eun does real, significant technical work in
+the city anyway, entirely on her own terms, respected for what she produces without anyone needing the
+rest of her story to respect it.
+
 ---
 
 ## Worth Your Attention
@@ -133,4 +145,6 @@ explaining to anyone who already lives in the city.
 to the same founding-generation trauma, one producing a political creed, the other a lasting social
 norm, both still governing the city centuries later. **#5 and #7** work as a natural pair, since both
 dramatize the same underlying non-prying instinct expressed at civic scale — once toward a craft
-tradition worth showcasing, once toward a district worth simply leaving alone.
+tradition worth showcasing, once toward a district worth simply leaving alone. **#11** is the only chain
+built around an already-confirmed, named companion character rather than a placeholder — giving Ji-Eun
+Kim's own established Zhongshan chapter a dramatized shape consistent with her existing backstory.
