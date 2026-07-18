@@ -20,7 +20,7 @@ The full, concatenated Cancer reference — synthesis, then extrapolation, then 
 
 | | |
 |---|---|
-| **Zodiac / Role** | Cancer — Nurturing / Protective |
+| **Zodiac / Role** | Cancer ("The Sanctuary") — Nurturing / Protective |
 | **Founding era** | Post-Falkland Treaty Era (late 2560s–2600s) — designated as the primary sanctuary and integration zone from the beginning of the Second Interwar Period |
 | **Founding population** | War orphans, injured refugees, and newly activated robots needing emotional and physical stabilization — from the *original exile* (the War of Upper Earth, the Falkland Treaty's own coercive terms), not the Long Night War, which was 250 years in Cancer's future |
 | **Defining post-war wound** | The Overcrowding Decision (c. 2813) — a two-week refugee wave (now understood, per this session's work, to be Janbogo-subnet-specific via Hwy 183, not continent-wide) that forced triage; records destroyed by Cancer's own archivists |

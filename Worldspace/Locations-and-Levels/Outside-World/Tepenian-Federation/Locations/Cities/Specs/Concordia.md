@@ -255,7 +255,7 @@ Concordia is not a legacy city — it is the present. Its legacy will be written
 
 - ~~Governmental capital of Tepenia~~ **RESOLVED 2026-07-07: Fort McMurdo, historically, up through the Long Night War — confirmed not Concordia, then or now** (see `National_Capital_Candidates.md`). Palmer City remains the cultural capital. **Fully resolved, same day:** the capital title does not survive the war and does not transfer to Concordia by default — present-day Tepenia has no capital of any kind. Concordia's own political weight as the last major functioning city is real, but it is not, and does not become, the national capital.
 - Which characters were built or activated in Concordia specifically vs. arriving as refugees? (affects Notable Figures)
-- Official names for the seven districts still lacking them: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Libra
+- Official names for the districts still lacking them, narrowed 2026-07-19: **Taurus, Leo, Gemini, Scorpio, Aries.** Cancer (The Sanctuary), Capricorn (The Yards), and Libra (The Government District) resolved the same day — see `TODO.md`. Scorpio ≠ "The Veil" and Aries ≠ "The Power Core" (both explicitly considered and rejected by the developer — don't re-propose). Gemini's recurring "Janbogo Subnet Nexus" and Leo's recurring "Golden Ring" are descriptive labels only, not settled names, despite appearing in many file titles.
 - Long-term population figures: TBD
 - Pre-war Concordia — what was the city like before the Long Night War, when it was one of many cities rather than the last one?
 - First recruitable Frostlander companion — identity TBN; introduced via the buddy system when the player first ventures into the Frostlands outdoors

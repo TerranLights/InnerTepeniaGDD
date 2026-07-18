@@ -156,17 +156,16 @@ Read together, these are not thirteen arbitrary positions — they are thirteen 
 
 ---
 
-## II. Official district names — correcting a stale open question, and proposing the rest
+## II. Official district names — RESOLVED for three, five still genuinely open (updated 2026-07-19)
 
-`Specs/Concordia.md`'s own Open Questions section lists seven districts as still lacking official names: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Libra. Cross-checked against `District-Inspirational-Influences.md`'s own bracketed subtitles, this list is stale — **Capricorn already has a working name ("The Yards") and Libra already has one ("The Government District")**, both in consistent use across multiple project documents; they were simply never promoted to the formal "Official Name" field in `District_Canon_Reference.md`. Gemini's "Janbogo Subnet Nexus" and Sagittarius' "the Frostlands" are in the same position — informally universal, never formalized.
+`Specs/Concordia.md`'s own Open Questions section originally listed seven districts as still lacking official names: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Libra. This section's original draft proposed treating **Capricorn ("The Yards") and Libra ("The Government District")** as already-settled, on the grounds that both names were in consistent use across multiple project documents. **The developer confirmed this 2026-07-19** — both are now promoted to the formal "Official Name" field in `District_Canon_Reference.md`, along with **Cancer (The Sanctuary)**, also confirmed the same day.
 
-That leaves five districts genuinely still needing a name proposed from scratch, plus one (Leo) where an in-world name already exists in the text but hasn't been promoted either:
-
-- **Cancer, proposed: The Sanctuary.** Directly matches its own founding designation as "the primary sanctuary and integration zone" — the plainest, least invented option available.
-- **Taurus, proposed: The Hearth.** Matches its own domestic-continuity founding logic and its established heirloom culture more precisely than a generic "residential district" label would.
-- **Leo — already has one: The Golden Ring.** Already established and used repeatedly throughout Leo's own Megasheet as the district's central feature; proposed here simply to promote it to the formal district name rather than treating it as a sub-location within some other, unnamed whole.
-- **Scorpio, proposed: The Veil.** Matches the engineered fog, the guarded chambers, and the district's whole culture of privacy calibrated by depth rather than outright secrecy.
-- **Aries, proposed: The Core.** Matches its own status as the literal power core of the city, and echoes the geothermal/nuclear "core" terminology already used throughout Aries' own material.
+**The remaining five are genuinely still open, not merely unformalized — checked directly with the developer 2026-07-19, since "in consistent use across multiple files" turned out not to reliably mean "settled":**
+- **Taurus** — no name decided. (This section's original draft proposed "The Hearth"; not evaluated one way or the other yet — the developer wants to brainstorm this directly in a future session, not react to pre-generated options.)
+- **Leo** — "The Golden Ring" is a recurring descriptive label (18 files use it) but is **not** a settled district name, despite this section's original draft treating it as one.
+- **Gemini** — "Janbogo Subnet Nexus" is likewise a descriptive label only, not a settled name, despite appearing in file titles throughout Gemini's own material.
+- **Scorpio** — "The Veil" was proposed here and **explicitly rejected** by the developer. Don't re-propose it.
+- **Aries** — "The Core" (this section's own original proposal) was never put to the developer directly, but a closely related phrase already in `District_Canon_Reference.md`'s own header, "The Power Core," **was** proposed and rejected 2026-07-19 — the developer likes the phrase but it risks confusion with the Central Hub's own actual energy grid/core infrastructure. Any future proposal for Aries needs to avoid that overlap specifically.
 
 ---
 

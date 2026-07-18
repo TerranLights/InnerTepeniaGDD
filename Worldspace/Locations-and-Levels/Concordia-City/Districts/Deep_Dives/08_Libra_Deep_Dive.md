@@ -1,4 +1,4 @@
-# District 8 — Libra: Deep-Dive Analysis
+# District 8 — Libra (The Government District): Deep-Dive Analysis
 
 **Status:** 🟡 open for discussion
 **Pass type:** full individual district analysis, two-stage methodology (see `../00b_Two_Stage_Methodology.md`). Deepens Finding 12 (`../Staging/12_Libra_Emergency_Timeline_Precision.md`) with a proposed root cause rather than repeating it.

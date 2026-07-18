@@ -471,8 +471,11 @@ These require a developer call before downstream work can proceed. None can be r
   **TBD:** Full construction mechanics, the complete breadcrumb trail and its placement across all districts, the resolution state when the lattice is completed, and how the world reacts to the alternative solution.
   Working name "Independent Lattice" is Grok-suggested and developer-approved.
 
-- [ ] **7 remaining district official names**
-  Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, and Libra use zodiac names but lack official proper names for in-world documents, signage, and NPC dialogue. The five already named: Aquarius (The Labs), Pisces (The Markets), Virgo (The Undergrid), Gemini (Janbogo), Sagittarius (The Frostlands).
+- [ ] **5 remaining district official names — narrowed 2026-07-19**
+  Taurus, Leo, Gemini, Scorpio, and Aries still lack official proper names for in-world documents, signage, and NPC dialogue. **Resolved the same day:** Cancer → **The Sanctuary**, Capricorn → **The Yards**, Libra → **The Government District** — all three promoted from informal/repeated-but-never-formalized usage to the official `District_Canon_Reference.md` header, plus each district's own Deep_Dive title and Megasheet "Hard Facts" row. Already-named before this pass: Aquarius (The Labs), Pisces (The Markets), Virgo (The Undergrid), Sagittarius (The Frostlands), Hub (Axis Mundi).
+  **Explicitly rejected, don't re-propose:** Scorpio ≠ "The Veil" (developer dislikes it, wants something else). Aries ≠ "The Power Core" (developer likes the phrase but it risks confusion with the Central Hub's own actual energy grid/core infrastructure — needs a different name specifically to avoid that overlap).
+  **Also corrected 2026-07-19:** Gemini's "Janbogo Subnet Nexus" (used throughout file titles/text) is NOT a settled official name, contrary to how it reads in file titles — it's a descriptive label only. Treat Gemini as genuinely unnamed, same as Taurus and Leo (Leo's recurring "Golden Ring" was checked the same way and is *also* not settled, despite 18 files using it).
+  **Status: flag, don't fix further — developer wants to brainstorm Taurus/Leo/Gemini/Scorpio/Aries names directly in a future session, not have candidates pre-generated.**
 
 - [ ] **District documentation template** — create `Worldspace/Locations-and-Levels/Concordia-City/Districts/_TEMPLATE.md`
   Must include a **Demonym** field: the word for "a person from [District]" (e.g., Sagittarius → Frostlander). Used in NPC dialogue, terminal entries, audio logs, and any in-world text referring to a district's residents as a group. Each district needs its own demonym established before NPC dialogue writing begins.
@@ -787,6 +790,19 @@ These require a developer call before downstream work can proceed. None can be r
 ---
 
 ## Long-Term / Low Urgency
+
+- [ ] **Cross-nation/cross-subnet city relationship check — flagged 2026-07-17, explicitly deferred by the developer**
+  The developer wants a future pass finding ways different cities relate to each other *across* subnets,
+  not just within one — the goal being that as the player discovers and learns lore, Tepenia feels like it
+  was once a genuinely interconnected country, rather than six subnets that happen to share a landmass.
+  Distinct from the City History Enhancement Opportunities pass (which works within each city's own
+  history) and from the existing subnet-internal relationship work already scattered across individual
+  Megasheets (e.g. Abowasa/Halley/Neumayer's bedrock-stability consulting relationship, all three within
+  Halley subnet). This would need to specifically hunt for cross-subnet connections — trade, shared
+  founding-nation populations, technology transfer, historical contact — the same way
+  `City_Refugee_District_Affinities.md` already did for city-to-Concordia-district relationships, but
+  applied city-to-city, nationwide. **Explicitly not urgent — noted for later, not to be started
+  proactively.**
 
 - [ ] **Throwing weapons — full system, flagged 2026-07-04, scope refined same day**
   New combat category, not yet designed. **Core focus, clarified by the developer:** thrown blade weapons specifically — throwing knives, tomahawks, and similar bladed forms — not a generic "any weapon can be thrown" system. Envisioned as an "aggregated hybrid" of Baldur's Gate 3 (Strength-based throwing, a real build path) and Cyberpunk 2077 (dedicated throwing knives as their own distinct equipment/build category), but scoped to blades rather than BG3's broader "throw anything" approach. **Explicitly excluded:** BG3's alchemist's fire and similar consumable thrown items — a Fantasy-genre mechanic that doesn't fit Inner Tepenia's Sci-Fi setting. The developer is open to a separate grenade system as the Sci-Fi equivalent of that consumable-throwable niche, but that's a distinct, secondary idea, not the main thrust of this entry. This would also resolve an open gap surfaced during the 2026-07-04 Fallout trait/perk comparison pass — FNV's "Loose Cannon" trait and "Heave, Ho!"-style perks are built around a generic "thrown weapons" category Inner Tepenia doesn't have yet; those would attach to this blade-focused system once it exists. See `project_fallout_trait_perk_adaptation` memory.

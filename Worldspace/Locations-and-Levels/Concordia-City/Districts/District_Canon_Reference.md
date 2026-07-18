@@ -7,7 +7,7 @@ All proper place-names marked *(TBN)* are tentative and subject to change.
 
 ---
 
-## District 1 — Cancer *(TBN)*
+## District 1 — Cancer (The Sanctuary)
 **Zodiac:** Cancer | **Role:** Nurturing / Protective
 
 ### What It Really Is
@@ -155,7 +155,7 @@ Hardened geothermal engineers, overclock technicians, shift supervisors, resourc
 
 ---
 
-## District 6 — Capricorn *(TBN)*
+## District 6 — Capricorn (The Yards)
 **Zodiac:** Capricorn | **Role:** Industrial / Ambition
 
 ### What It Really Is
@@ -212,7 +212,7 @@ Eccentric inventors, rogue scientists, visionary theorists, idealistic reformers
 
 ---
 
-## District 8 — Libra *(TBN)*
+## District 8 — Libra (The Government District)
 **Zodiac:** Libra | **Role:** Diplomatic / Balance / Governance
 
 ### What It Really Is

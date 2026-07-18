@@ -1,4 +1,4 @@
-# District 6 — Capricorn: Deep-Dive Analysis
+# District 6 — Capricorn (The Yards): Deep-Dive Analysis
 
 **Status:** 🟡 open for discussion
 **Pass type:** full individual district analysis, two-stage methodology (see `../00b_Two_Stage_Methodology.md`). Builds on Thread 7 (`../Staging/07_Capricorn_Robot_Rights_National_Parallel.md`), already about Capricorn's underground robot-rights movement.

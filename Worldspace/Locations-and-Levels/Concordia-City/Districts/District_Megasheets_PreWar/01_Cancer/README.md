@@ -29,7 +29,7 @@ once tested by mass triage, because that test doesn't happen until the very end 
 
 | | |
 |---|---|
-| **Zodiac / Role** | Cancer — Nurturing / Protective |
+| **Zodiac / Role** | Cancer ("The Sanctuary") — Nurturing / Protective |
 | **Founding era** | Post-Falkland Treaty Era (late 2560s–2600s) — designated as the primary sanctuary and integration zone from the beginning of the Second Interwar Period |
 | **Founding population** | War orphans, injured refugees, and newly activated robots from the *original exile itself* — the War of Upper Earth, the Falkland Treaty's own coercive terms — not the Long Night War, which is nearly two and a half centuries in this district's future |
 | **Defining pre-war institution** | The intake-and-integration practice that later, after the war, gets retroactively named "No One Left Behind" — already fully operative as behavior, without yet having that specific name |

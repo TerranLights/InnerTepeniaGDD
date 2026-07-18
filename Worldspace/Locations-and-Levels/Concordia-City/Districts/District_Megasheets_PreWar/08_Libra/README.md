@@ -37,7 +37,7 @@ again, once they stopped being identical.*
 
 | | |
 |---|---|
-| **Zodiac / Role** | Libra — Diplomatic / Balance / Governance |
+| **Zodiac / Role** | Libra ("The Government District") — Diplomatic / Balance / Governance |
 | **Founding era** | Post-Falkland Treaty Negotiations (late 2560s) — established as the central governing hub to mediate between human and robot factions, industrial needs, and residential welfare during chaotic early exile |
 | **Founding root cause** | Per the deep dive, a fifth response to the founding wound, social and procedural rather than individual and psychological: the belief that if the community's own process is fair and orderly enough, the wounds underneath it won't tear the community apart from within — genuinely true during the earliest, most chaotic exile years, when procedural stability and community survival really were the same thing |
 | **Defining pre-war institution** | The Federation Compact, in active, functioning use — direct district-representative elections, real recall procedures, enforced term limits, genuinely contested and genuinely exercised, not yet suspended by anything |

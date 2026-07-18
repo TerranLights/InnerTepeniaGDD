@@ -1,4 +1,4 @@
-# District 1 — Cancer: Deep-Dive Analysis
+# District 1 — Cancer (The Sanctuary): Deep-Dive Analysis
 
 **Status:** 🟡 open for discussion
 **Pass type:** full individual district analysis, per the developer's request to slow down and go one district at a time rather than a broad sweep. **Revised** to apply the two-stage methodology (see `../00b_Two_Stage_Methodology.md`) — Stage 1 (organic formation) added below as genuinely new material; Stages 2/Findings A/B below are the original pass, now reframed as the second layer rather than a continuous chain from founding.
