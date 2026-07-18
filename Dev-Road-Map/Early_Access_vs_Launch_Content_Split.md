@@ -66,6 +66,8 @@ Three further companions (Ji-Eun Kim, Naizelle d'Edjordoś, Fenny) live in distr
 
 Steam achievements and trading cards, a proper finalized opening cinematic, finished box art/key art — all cheap to justify, and useful for the "this is now a finished product" messaging that separates a full launch from Early Access in players' own minds, distinct from the underlying content questions above.
 
+**Photo Mode — confirmed Launch-exclusive, developer decision 2026-07-17.** Fits this category cleanly: it's only genuinely worth having once character models, animations, and environments are past the "functional but simpler" Early Access baseline described under Category 1 — a photo mode built around Early Access-tier art assets would be showcasing exactly the polish level the game is still raising funds to improve. It's also a natural companion to the other items in this category (finalized key art, a polished opening cinematic) as a "this is the real release" signal in its own right.
+
 ---
 
 ## Recommendation
