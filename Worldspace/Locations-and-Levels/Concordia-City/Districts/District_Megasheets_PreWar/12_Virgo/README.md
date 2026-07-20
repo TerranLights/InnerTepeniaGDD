@@ -211,7 +211,7 @@ descriptive. Written 2026-07-16.
 **Combining:** this document's own Full Extrapolation Section IV (the Deep Level's origin deliberately
 left open, per the deep dive's own explicit flag for a dedicated future pass) + Pisces' own pre-war
 Mega-Init scope note, which draws the original distinction between a developer-uncertain-if-canon item
-(the Tolerance Pact, Leo's Star War, Capricorn's Merit Board Audit) and a different kind of open
+(the Tolerance Pact, Leo's Star War, Capricorn's Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]) and a different kind of open
 item — one whose existence isn't in doubt, only its timing and mechanism (the Flood).
 
 **2nd-order effect:** the Deep Level belongs squarely in Pisces' second category, not the first — nobody

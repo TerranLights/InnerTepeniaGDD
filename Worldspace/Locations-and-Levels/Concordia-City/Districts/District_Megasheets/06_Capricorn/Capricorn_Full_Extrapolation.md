@@ -16,7 +16,7 @@
 
 ---
 
-## III. The Merit Board Audit vs. the six alternative conditions — deliberately not resolved here
+## III. The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] vs. the six alternative conditions — deliberately not resolved here
 
 This question is explicitly reserved for the developer's own decision, per the original purpose of `06b_Capricorn_Alternative_Conditions.md` (each alternative already has its own full Stage 1/Stage 2 breakdown ready to go). Not extrapolated further in this pass.
 
@@ -27,7 +27,7 @@ This question is explicitly reserved for the developer's own decision, per the o
 **Demonym, proposed: Capricornian.** Straightforward, consistent with standard demonym formation.
 
 **Notable Figures, proposed:**
-- **A senior figure of the Merit Establishment** *(placeholder, unnamed)* — someone near the top of the spire system who genuinely believes in earned status and considers the Merit Board Audit methodologically flawed rather than damning, sincerely rather than cynically.
+- **A senior figure of the Merit Establishment** *(placeholder, unnamed)* — someone near the top of the spire system who genuinely believes in earned status and considers the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] methodologically flawed rather than damning, sincerely rather than cynically.
 - **A Robot Rights Underground organizer** *(placeholder, unnamed)* — working quietly within the district's own meritocratic framework, per `District_Unity_of_Opposites.md`'s own established logic that the Underground isn't rejecting the merit system, it's demanding the system apply to everyone it claims to measure.
 
 ---

@@ -24,7 +24,7 @@ receives some of the overflow either way.
 **3rd-order effect:** this makes Pisces' own pre-war Megasheet the single most future-proof of the three
 "deliberately unresolved" documents built so far — its core identity doesn't just tolerate the other
 open questions staying open, it's actively strengthened by them staying open, since an unresolved Star
-War or Merit Board Audit still plausibly produces ex-Leo or ex-Capricorn arrivals in Pisces regardless of
+War or Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] still plausibly produces ex-Leo or ex-Capricorn arrivals in Pisces regardless of
 the specific final shape either conflict takes.
 
 **4th-order effect:** worth treating Pisces as a genuine structural pressure valve for this whole

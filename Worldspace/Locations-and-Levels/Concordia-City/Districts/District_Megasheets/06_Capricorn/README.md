@@ -22,7 +22,7 @@ The full, concatenated Capricorn reference — synthesis, then extrapolation, th
 |---|---|
 | **Zodiac / Role** | Capricorn ("The Yards") — Industrial / Ambition |
 | **Founding era** | Early Post-Falkland Construction Boom (late 2560s–2580s) — zoned as the heavy manufacturing hub, forging a meritocratic "builder" culture from the start |
-| **Defining suppressed wound** | The Merit Board Audit (c. 2761) — found the merit-rating system had systematically undervalued robot workers' contributions for decades; leadership disputed the methodology and buried the findings |
+| **Defining suppressed wound** | Capricorn's core injustice (c. 2761) — mechanism undecided, 4 contenders shortlisted (see `06b_Capricorn_Alternative_Conditions.md`); whichever it turns out to be, it systematically undervalued robot workers' contributions for decades through structural inertia, not active malice; leadership disputed the findings and buried them |
 | **Defining post-war wound** | The Wartime Production Deaths — quotas set at levels mechanically achievable and humanly lethal; framed publicly as heroic sacrifice, privately known to be preventable |
 | **Status** | Living, functioning district, present-day (≈2822–2827) |
 
@@ -32,7 +32,7 @@ The full, concatenated Capricorn reference — synthesis, then extrapolation, th
 
 Ambitious foremen, master engineers, production planners, meritocratic apprentices, veteran builders, quality-control auditors, long-term strategists, guild families. Robots: heavy industrial and assembly-line models optimized for endurance and precision, management and optimization AIs, quality-assurance units, construction frames, older "legacy" units with wartime modifications. Cultural lean: Thinking + Instinctive + Assertive + Competency Enneagram — discipline, measurable achievement, respect for hierarchy, frustration with "unreliable" or "soft" districts that consume without producing.
 
-Per the Capricorn deep dive, the Merit Board Audit's own bias isn't necessarily malicious — it's a structural consequence of 200-year-old human-centric metrics that were never recalibrated, sustained for 60+ years past discovery specifically because of Capricorn's own economic leverage over Libra (paralleling Aries' leverage in a different register).
+Per the Capricorn deep dive, the core injustice's own bias isn't necessarily malicious, whichever of the 4 shortlisted mechanisms it turns out to be (see `06b_Capricorn_Alternative_Conditions.md`) — it's a structural consequence of a founding-era decision that was never revisited, sustained for 60+ years past discovery specifically because of Capricorn's own economic leverage over Libra (paralleling Aries' leverage in a different register).
 
 ---
 
@@ -108,13 +108,13 @@ Carried forward from the Capricorn deep dive, `06b_Capricorn_Alternative_Conditi
 
 - **The street-level hierarchy visibility tension**, flagged above — does the established "status lighting readable from the street" detail need adjusting, or does the developer's vision reflect a specific vantage point where it's simply less visible than elsewhere in the district?
 - Whether "driven" describes the workers themselves, the general atmosphere, or both
-- Whether the Merit Board Audit itself survives as Capricorn's central organizing tension, or is eventually replaced by one of the six fully-developed alternative conditions in `06b_Capricorn_Alternative_Conditions.md` (company-town captivity, guild patronage over merit, hereditary trade caste, deliberate advancement scarcity, constant productivity surveillance, built-in obsolescence anxiety) — each already has its own complete Stage 1/Stage 2 breakdown ready, should the developer want to swap it in
+- **Narrowed 2026-07-20:** which of Capricorn's core injustice's 4 shortlisted mechanisms actually gets used — guild patronage over merit, hereditary trade caste, calibration/scheduling drift, or a physical infrastructure ceiling mistaken for policy (see `06b_Capricorn_Alternative_Conditions.md`; the original "Merit Board Audit" framing and two other alternatives were ruled out as not fitting Tepenia's characteristic non-malicious tone). #2 and #3 already have full Stage 1/Stage 2 breakdowns; #7 and #8 still need one built out.
 
 ---
 
 ## Worth Your Attention
 
-The Capricorn deep dive's structural (not moral) explanation for the Merit Board Audit's persistence is the load-bearing fact here: the bias survived 60+ years past discovery not through ongoing malice, but because Capricorn's own economic leverage over Libra made confronting it politically costly — the same structural pattern (economic leverage buying institutional silence) that shows up independently in Aries' own relationship to the districts it powers.
+The Capricorn deep dive's structural (not moral) explanation for the core injustice's persistence is the load-bearing fact here, and it holds regardless of which of the 4 shortlisted mechanisms (see `06b_Capricorn_Alternative_Conditions.md`) ends up chosen: the bias survived 60+ years past discovery not through ongoing malice, but because Capricorn's own economic leverage over Libra made confronting it politically costly — the same structural pattern (economic leverage buying institutional silence) that shows up independently in Aries' own relationship to the districts it powers.
 
 ---
 
@@ -136,9 +136,9 @@ The Capricorn deep dive's structural (not moral) explanation for the Merit Board
 
 ---
 
-## III. The Merit Board Audit vs. the six alternative conditions — deliberately not resolved here
+## III. Which of the 4 shortlisted core-injustice mechanisms — deliberately not resolved here
 
-This question is explicitly reserved for the developer's own decision, per the original purpose of `06b_Capricorn_Alternative_Conditions.md` (each alternative already has its own full Stage 1/Stage 2 breakdown ready to go). Not extrapolated further in this pass.
+This question is explicitly reserved for the developer's own decision, per the original purpose of `06b_Capricorn_Alternative_Conditions.md`. **Narrowed 2026-07-20** from the original six alternatives to four confirmed viable contenders (guild patronage over merit, hereditary trade caste, calibration/scheduling drift, physical infrastructure ceiling mistaken for policy) — the other two original alternatives plus the original "Merit Board Audit" framing were ruled out as not fitting Tepenia's characteristic non-malicious tone. Not extrapolated further in this pass.
 
 ---
 
@@ -147,7 +147,7 @@ This question is explicitly reserved for the developer's own decision, per the o
 **Demonym, proposed: Capricornian.** Straightforward, consistent with standard demonym formation.
 
 **Notable Figures, proposed:**
-- **A senior figure of the Merit Establishment** *(placeholder, unnamed)* — someone near the top of the spire system who genuinely believes in earned status and considers the Merit Board Audit methodologically flawed rather than damning, sincerely rather than cynically.
+- **A senior figure of the Merit Establishment** *(placeholder, unnamed)* — someone near the top of the spire system who genuinely believes in earned status and considers the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] methodologically flawed rather than damning, sincerely rather than cynically.
 - **A Robot Rights Underground organizer** *(placeholder, unnamed)* — working quietly within the district's own meritocratic framework, per `District_Unity_of_Opposites.md`'s own established logic that the Underground isn't rejecting the merit system, it's demanding the system apply to everyone it claims to measure.
 
 ---
@@ -166,7 +166,7 @@ Section I is the standout resolution here — it reconciles a genuine, flagged d
 
 ## Finding 1: Concordia's two most economically essential production districts both used their leverage over Libra to avoid accountability, not just to negotiate resources
 
-**Combining:** the Capricorn deep dive's own finding (`Deep_Dives/06_Capricorn_Deep_Dive.md`) that the Merit Board Audit's 60+ years of non-correction is explained by "Capricorn's own economic leverage over Libra (paralleling Aries')" + Aries' own established "Political Weapon" — the implicit blackout threat, used at least three times, and the disputed, partly-classified timeline of the Black Silence.
+**Combining:** the Capricorn deep dive's own finding (`Deep_Dives/06_Capricorn_Deep_Dive.md`) that the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s 60+ years of non-correction is explained by "Capricorn's own economic leverage over Libra (paralleling Aries')" + Aries' own established "Political Weapon" — the implicit blackout threat, used at least three times, and the disputed, partly-classified timeline of the Black Silence.
 
 **2nd-order effect:** both of Concordia's two most economically essential production districts have used their leverage over Libra specifically to avoid accountability for a genuine internal failure (Capricorn's buried Audit; Aries' disputed Black Silence timeline), not merely to negotiate for more resources.
 

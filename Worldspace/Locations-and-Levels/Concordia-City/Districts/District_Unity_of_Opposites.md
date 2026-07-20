@@ -151,7 +151,7 @@ This is a design reference document, not a preliminary suggestion. It synthesize
 
 ### Internal Conflict — Three Parties
 
-**1. The Merit Establishment** — those at the top of the spires; who genuinely believe in earned status and have records to prove it; who interpret the Merit Board Audit of 2761 as methodologically flawed
+**1. The Merit Establishment** — those at the top of the spires; who genuinely believe in earned status and have records to prove it; who interpret the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] of 2761 as methodologically flawed
 **2. The Robot Rights Underground** — primarily workers whose contributions were systematically undervalued for decades; the Audit is their primary exhibit; currently suppressed, organizing quietly, knowing that when they surface the Audit will be their opening argument
 **3. The Guild Loyalists** — those trapped in guilds that no longer fit or in lower-spire positions that the merit system says they belong in but which feel closed; they believe in the merit system in principle but experience it as self-reinforcing in practice; not robot rights advocates exactly, but the sympathetic middle ground the Underground needs to win
 

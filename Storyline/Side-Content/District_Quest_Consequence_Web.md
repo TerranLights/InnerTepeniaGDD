@@ -28,7 +28,7 @@ The True Believer archivist inside Libra is the same person in both quests — t
 ### Chain 2: The Truth Chain
 **Capricorn → Gemini → Libra → Act 3**
 
-The Merit Board Audit leak (Capricorn) is the kind of verified, documented story that Gemini's Verification Faction needs. Libra is eventually forced to rule on its implications.
+The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] leak (Capricorn) is the kind of verified, documented story that Gemini's Verification Faction needs. Libra is eventually forced to rule on its implications.
 
 - **Capricorn Unity Path + Gemini Unity Path:** The Audit is Janbogo's first major authenticated story produced through the new parallel broadcast protocol. The Verification Faction's credibility is established on the Audit. Libra must rule on sixty-three years of discriminatory merit assessment; if Libra is in Unity Path mode (reforming), the ruling is genuine. If not, it's bureaucratic suppression. → *Act 3: The Robot Rights Underground is a named political faction at the summit with a documented legal case.*
 - **Capricorn Unity Path + Gemini Path 1 (speed):** The Audit is broadcast before verification; one contested data point is wrong. The Establishment seizes on it. The Underground's case is partially discredited. Libra uses the contested data point to invalidate the whole claim. The reform is delayed. → *Act 3: The Underground surfaces anyway, but outside legal channels — with unpredictable methods.*

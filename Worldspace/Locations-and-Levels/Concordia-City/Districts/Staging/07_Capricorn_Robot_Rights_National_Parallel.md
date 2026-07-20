@@ -4,7 +4,7 @@
 
 ## What's already established
 
-Capricorn's Merit Board Audit (c. 2761) found the district's merit-rating system had systematically undervalued robot workers' contributions vs. human workers for decades — leadership disputed the methodology and buried the findings. There's a real, currently-suppressed underground robot-rights movement in Capricorn as a result.
+Capricorn's Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] (c. 2761) found the district's merit-rating system had systematically undervalued robot workers' contributions vs. human workers for decades — leadership disputed the methodology and buried the findings. There's a real, currently-suppressed underground robot-rights movement in Capricorn as a result.
 
 ## What this week's Megasheet work adds
 
@@ -12,7 +12,7 @@ The proposed **Cradle-Keepers** faction pattern (Neumayer designs the current ch
 
 ## Why this is worth developing
 
-Right now, Capricorn's robot-rights movement has one piece of "smoking gun" evidence: its own Merit Board Audit. If that movement (or any individual member of it) ever learns how the Cradle network actually works — that the entire country's robot-creation capacity runs on labor nobody credits, at a national scale — that's not just sympathetic context. It's proof their own grievance isn't an isolated local failure to be negotiated away district-by-district; it's evidence of a pattern the whole country is built on.
+Right now, Capricorn's robot-rights movement has one piece of "smoking gun" evidence: its own Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]. If that movement (or any individual member of it) ever learns how the Cradle network actually works — that the entire country's robot-creation capacity runs on labor nobody credits, at a national scale — that's not just sympathetic context. It's proof their own grievance isn't an isolated local failure to be negotiated away district-by-district; it's evidence of a pattern the whole country is built on.
 
 ## Discussion questions
 

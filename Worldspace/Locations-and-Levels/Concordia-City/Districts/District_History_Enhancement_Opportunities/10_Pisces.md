@@ -31,7 +31,7 @@ sixth response to the original wound, but a second-order district: the sink for 
 own necessary exclusions (failed artists from Leo, trauma cases too intense for Scorpio, and so on). The
 Mega_Init keeps both of the district's open items genuinely open: the Tolerance Pact is built toward but
 not narrated as formalized, and the Flood's timing and mechanism stay deliberately unpinned, consistent
-with the same discipline this project already applies to Leo's Star War and Capricorn's Merit Board Audit.
+with the same discipline this project already applies to Leo's Star War and Capricorn's Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`].
 The Full_Extrapolation proposes the pre-Pact relationship with Libra as scattered, individual
 accommodations rather than a citywide arrangement (Section II), and describes what the underground clinics
 already do pre-Flood — legitimate-adjacent, Aquarius-overflow experimental work plus ordinary underground

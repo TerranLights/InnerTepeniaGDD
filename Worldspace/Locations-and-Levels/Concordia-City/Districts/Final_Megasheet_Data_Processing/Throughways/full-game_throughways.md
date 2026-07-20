@@ -40,7 +40,7 @@ Two structurally identical three-district chains show information a district bel
 
 ## Thread 4: Extraction Flows Upward, Risk Stays Downstream
 
-**The chain:** Sagittarius absorbs the entire volatility of frontier resource extraction — a boom, a bust, stranded political power. Capricorn very plausibly refines those raw materials into finished siligel, capturing the stable, ongoing value Sagittarius' own volatile risk makes possible. That same manufacturing dominance is very plausibly the source of the specific economic leverage Capricorn used against Libra to keep the Merit Board Audit's damaging findings buried for over sixty years.
+**The chain:** Sagittarius absorbs the entire volatility of frontier resource extraction — a boom, a bust, stranded political power. Capricorn very plausibly refines those raw materials into finished siligel, capturing the stable, ongoing value Sagittarius' own volatile risk makes possible. That same manufacturing dominance is very plausibly the source of the specific economic leverage Capricorn used against Libra to keep the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s damaging findings buried for over sixty years.
 
 **Why it matters:** this is the clearest available case in the whole project of value and consequence traveling in opposite directions across three districts — Sagittarius bears the risk, Capricorn captures the value and converts part of it into leverage, and Libra's own accountability is the casualty at the far end of a chain that began with a mining operation Sagittarius never got credit for either.
 

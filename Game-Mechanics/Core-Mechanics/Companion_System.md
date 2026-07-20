@@ -26,7 +26,18 @@ The single companion slot means each companion choice is a genuine commitment. T
 
 ## Total Recruitable Pool
 
-**Main game target: TBD — higher than originally estimated.** The pool should be large enough that multiple playthroughs feel genuinely different. Specific count to be established as character design work progresses.
+**Main game target: TBD — higher than originally estimated.** The pool should be large enough that multiple playthroughs feel genuinely different. Specific count to be established as character design work progresses. **Partially resolved 2026-07-20:** the DLC side of this total now has a real allocation framework (see "Multiple Native Companions Per DLC" below) rather than being an open guess — once each DLC's companion count within its assigned range is finalized, the true grand total (main game + all 7 DLCs) will be derivable rather than estimated.
+
+**Roster source of truth — confirmed 2026-07-20: every Doll character folder under `Worldspace/Characters/Dolls/Still-Present_-_In-Game/` is a confirmed-intended recruitable, romanceable companion, with exactly three exceptions:**
+- **Trisha Miller** — stays a non-recruitable major NPC; her whole post-questline payoff (world-state feedback delivered through her radio show) depends specifically on her never leaving that role.
+- **Majyao Bisyugota** — stays a non-recruitable major NPC; already has a fully-designed romanceable-without-recruitable arc (repeated teahouse visits, stat gates, the Blood River Tea thread) that depends on her staying at the teahouse.
+- **Calethina** — stays her own structurally distinct special case (holographic projection, no party slot, no physical dwelling, exempt from Companion Slot Rules); already fully romanceable through her own unique download/projection system.
+
+**Everyone else in that folder — including every still-TBN-named placeholder character — is confirmed, not just plausible, as a future recruitable and romanceable companion.** This resolves the ambiguity on "Charlene" (XT-17, DLC 7), previously listed as "presumptive only, Undecided" — she is now confirmed. As of 2026-07-20, that folder contains 31 entries (1 of which, `z-template`, is a blank template, not a character), meaning **27 confirmed-intended companions** exist in some form already (fully designed, partially designed, or bare TBN placeholder), before any of the new DLC-tier companions from the "Multiple Native Companions Per DLC" policy are added on top. This list will grow as new characters are created — the rule is about the folder as a whole, not a fixed enumeration.
+
+**Practical consequence:** each individual character's own `Companion Potential` / `Romance Potential` fields should read "Yes" once this policy is propagated to their files — several TBN characters still show "TBD" in their own README and have not yet been individually updated to match this roster-wide confirmation (Meyzan Yocazhda done 2026-07-20, see her own file). Treat this section as authoritative over any individual file that hasn't caught up yet.
+
+**Companion distribution across districts — organizing principle confirmed 2026-07-20:** with only 13 districts (12 Zodiac-coded + the neutral Hub) but a companion pool confirmed to run well past 27, multiple recruitable companions per district is the expected norm, not a redundancy to avoid outright. Districts and factions are related but genuinely separate axes — a district can host multiple factions or sub-factions with real internal disagreement, a faction can span multiple districts, and companion placement should track that faction/sub-faction structure rather than being spread evenly by district headcount. In practice this means: when placing a new companion, the first question is which faction, sub-faction, or internal-conflict thread she belongs to (as with Meyzan and Capricorn's merit-rating scandal above — see her own file for why that connection is written around the underlying plot-thread rather than its current, still-unsettled name), not simply "which district doesn't have one yet." Genuine redundancy to actually avoid is same-district companions occupying the *same narrative niche* (see Meyzan vs. Villena reasoning above, both in different districts but the concern generalizes) — not simply sharing a district.
 
 **Currently confirmed recruitable companions (13)** *(corrected 2026-07-10 — this list previously listed only the first 5, stale relative to the full romance-design table further down this document; TCY-25 "Rui" added 2026-07-10)*:
 1. IT-068 "Flora"
@@ -47,12 +58,13 @@ Additional recruitable companions to be designed. Some TBN characters may be rec
 
 **Non-recruitable but romanceable NPC:** Majyao Bisyugota (teahouse keeper; full questline and romance arc, never joins the party).
 
-**DLC companions** (separate from main game pool, available only in their respective DLC):
-- Kendra Heinrich (DLC 1: South Pole)
-- Salagéa Aparast (DLC 5: Atlantic Coastal Region)
-- Maggie Aarden (DLC 2: Byrd) — confirmed 2026-07-10, see `Storyline/DLC_Overview.md`
-- "Charlene" (XT-17) (DLC 7: Mirny) — presumptive only, romance status "Undecided" in her own file
-- DLC 3, 4, 6 — companion identity not yet chosen; see the reserved stubs in `Locations-and-Levels/Romance_Unlocked_Homes.md`
+**DLC companions** (separate from main game pool, available only in their respective DLC — **each DLC 2-7 now carries multiple native companions, allocated by narrative tier, see "Multiple Native Companions Per DLC" below**):
+- Kendra Heinrich (DLC 1: South Pole) — sole companion, permanent exception, no others will be added
+- Salagéa Aparast (DLC 5: Atlantic Coastal Region) — confirmed; 1-3 companion tier; additional DLC 5 companions TBD
+- Maggie Aarden (DLC 2: Byrd) — confirmed 2026-07-10, see `Storyline/DLC_Overview.md`; 3-5 companion tier; additional DLC 2 companions TBD
+- "Charlene" (XT-17) (DLC 7: Mirny) — presumptive only, romance status "Undecided" in her own file; 1-3 companion tier; additional DLC 7 companions TBD
+- DLC 3 (Palmer), DLC 6 (Janbogo) — 1-3 companion tier; no companion identity chosen yet, including the first
+- DLC 4 (Mawson) — 6-10 companion tier, the highest allocation in the game; no companion identity chosen yet; see the reserved stubs in `Locations-and-Levels/Romance_Unlocked_Homes.md`
 
 ---
 
@@ -92,15 +104,36 @@ This applies to companion presence only. Items or technology *obtained from* a c
 
 ### DLC-Native Companions Are Always Optional to Recruit — Binding Rule, Established 2026-07-10
 
-The rule above governs bringing an *outside* companion into a DLC. This is a separate, complementary rule governing a DLC's own *native* companion — the one recruitable character who lives in, or is otherwise tied to, that specific DLC's own region (Maggie Aarden in DLC 2/Byrd, Salagéa Aparast in DLC 5/Halley, "Charlene"/XT-17 in DLC 7/Mirny, Kendra Heinrich in DLC 1, and the still-undesigned native companions for DLC 3/Palmer, DLC 4/Mawson, and DLC 6/Janbogo).
+The rule above governs bringing an *outside* companion into a DLC. This is a separate, complementary rule governing a DLC's own *native* companion(s) — recruitable characters who live in, or are otherwise tied to, that specific DLC's own region.
 
-**Every DLC must be fully completable, start to finish, either with or without its own native companion recruited.** At whatever point in the DLC that companion first becomes recruitable, the player must always have an explicit option to decline — "I don't really feel like traveling with anybody" — and continue the entire DLC, main questline and side content alike, without her. No DLC's own critical path may require that companion's presence, abilities, or dialogue to progress.
+**Every DLC must be fully completable, start to finish, with any, all, or none of its native companions recruited, in any combination.** At whatever point in the DLC a given companion first becomes recruitable, the player must always have an explicit option to decline — "I don't really feel like traveling with anybody" (or an equivalent line, if declining one companion in favor of another already recruited) — and continue the entire DLC, main questline and side content alike, without her. No DLC's own critical path may require any specific native companion's presence, abilities, or dialogue to progress.
 
 **Declining recruitment is never a permanent lockout.** Provided the player has not caused that companion (or her closely-associated NPCs/factions) to turn hostile during the DLC, she remains recruitable after the DLC's own completion — exactly as if the player had simply chosen to recruit her later rather than not at all. This mirrors the existing Companion Slot Rules' own hostility exception (see above: "re-recruiting a dismissed companion is always available unless a specific story event has permanently changed their status") — the same standard applies here to a companion never recruited in the first place.
 
 **This applies uniformly across all 7 DLCs, including DLC 1 ("Echoes of Amundsen").** Kendra Heinrich's own case works slightly differently in form but identically in principle: since she is the person the player is finding/rescuing rather than someone who joins mid-mission, the decline option applies at whatever point the game would otherwise offer her as a companion (per her own Romance Design's Gate 1/Gate 2 structure, above) — a player can complete DLC 1 in full without ever bringing Kendra into the active party, and she remains recruitable afterward under the same hostility exception.
 
-**Design consequence:** no DLC's own central questline, environmental puzzle, or crisis resolution may be written to assume the player has that DLC's own companion active. Any content that meaningfully benefits from her presence (dialogue, a skill check she can assist with, a scene that plays differently with her along) must have a non-companion equivalent path available on the same playthrough.
+**Design consequence:** no DLC's own central questline, environmental puzzle, or crisis resolution may be written to assume the player has any particular native companion active. Any content that meaningfully benefits from a given companion's presence (dialogue, a skill check she can assist with, a scene that plays differently with her along) must have a non-companion equivalent path available on the same playthrough.
+
+---
+
+### Multiple Native Companions Per DLC, Allocated by Narrative Tier — Policy Established 2026-07-20
+
+**DLC 1 ("Echoes of Amundsen") is the sole, permanent exception.** Kendra Heinrich remains the only character present in that DLC by design — she is the entire point of the mission, and the DLC's dangers are deliberately non-character-driven (environmental, technological, or a third category not yet determined). This isolation is a deliberate thematic choice, not an unstated default — it is what makes DLC 1 read differently from every other DLC, and should be written into Kendra's own materials as an explicit distinction, not left implicit.
+
+**Every other DLC (2 through 7) carries more than one native recruitable companion.** This reopens the three DLCs whose single native companion was already considered settled — Maggie Aarden (DLC 2/Byrd), Salagéa Aparast (DLC 5/Halley), and "Charlene"/XT-17 (DLC 7/Mirny) each keep their existing confirmed status and gain companions alongside them, not in place of them. DLC 3 (Palmer), DLC 4 (Mawson), and DLC 6 (Janbogo) will be designed from the start with more than one.
+
+**Allocation is by narrative tier, not raw geographic scale or city count.** A subnet's physical size (number of cities, population) is not the metric — how narratively developed and dense the subnet already is, is. This is why Byrd (physically the smallest/most isolated region in the game — essentially one station) and Mawson (only 3 cities, the least narratively developed subnet, flagged separately below) land in *different* tiers despite both being small by raw geography: Byrd already carries real narrative density (the isolation/highway-access drama, the aviation refueling puzzle, Michelle Stanton's Rastra thread, Maggie Aarden already established), while Mawson is thin on both city count and established narrative weight.
+
+**Illustrative ranges (not locked exact counts — to be finalized during each DLC's own design pass):**
+- **Mawson (DLC 4): 6-10 companions.** The thinnest tier — this subnet needs the most compensating depth. Directly connects to the standing "Mawson DLC — City Depth Gap" TODO item; see that entry for how this interacts with new invented settlements.
+- **Byrd (DLC 2): 3-5 companions.** A middle tier — physically tiny but already narratively denser than Mawson, so it needs a real but smaller boost. Byrd's own depth deliberately does **not** come from invented settlements (see below) — it comes from companion variety and existing city-depth work only, since the region's isolation is the point, not a gap.
+- **Palmer (DLC 3), Halley (DLC 5), Janbogo (DLC 6), Mirny (DLC 7): 1-3 companions each.** The richest tier — these subnets already carry 7-8 cities' worth of geographic and narrative variety, so they need only a light companion-count boost above their existing single confirmed companion (where one exists).
+
+**Order-variance by entry point (the core structural idea):** within a DLC with multiple companions, which companion the player meets first is intended to depend on how the player actually begins that DLC — different arrival points, different opening hooks, or different initial quest threads should plausibly lead toward different companions first. This is a genuine structural commitment: each DLC needs distinct-enough entry vectors for this to actually vary run to run, not merely a menu of companions all reached via the same fixed critical path. Several DLCs (Byrd especially, per its own standing "three candidate central-conflict anchors, none chosen" TODO item) don't yet have settled-enough core structure to support this — the multiple-companion allocation above can proceed independently, but true order-variance is likely sequenced *after* each DLC's own central conflict is locked in.
+
+**Not yet decided:** exact companion counts within each range, the actual character concepts for any new slot, and the specific entry-point/order-variance structure per DLC. This is confirmed policy, not yet executed content — see TODO.md.
+
+**Every companion added under this policy is, per the existing "Scope" rule above, romanceable by default** ("All recruitable companions are romanceable. No exceptions.") — full romance design (Gate 2 stat thresholds, Gate 3 beats) and, more fundamentally, Gate 1 personal-questline content, are separate future work per character, same as the existing roster (see TODO.md's "Personal questlines — broad-scope guiding-idea charting pass" item, which this policy makes larger in scope, not smaller).
 
 ### Scope
 
@@ -655,6 +688,17 @@ All companion-unlocked homes exist **in addition to** the regular player homes a
 The location of each companion's home is tied to their character and district. Companion homes are distributed across Concordia and, in the case of DLC companions, may exist outside the main city as a secondary location. Kendra Heinrich's home is in Capricorn — her origin district and the base of The Reclaimed Record movement she helped seed. After completing her DLC and returning to Concordia, she establishes (or returns to) a residence there. Romancing her gives the player access to that home; if the romance has been perma-locked through dialogue, she maintains the Capricorn home independently and the player does not gain access through the romance route. Ayako Hayashi's home is in Leo — she lives near her atelier and the fashion/creative economy of the district by choice, not near the Red Spiral's Cancer HQ.
 
 Individual companion home designs (layout, contents, lore items, décor reflecting the companion's personality) are Phase 3 and Phase 7 design work per character. Ayako Hayashi's home design is fully developed — see her README.
+
+### DLC Companions: Securing a Concordia Residence — Binding Rule, Established 2026-07-20
+
+**The first time the player brings a recruited DLC-native companion back to Concordia, she "disappears" from the active party for a fixed in-game period** to secure a residence in the city. The duration depends on whether she has a genuine prior tie to Concordia, and is not the same for every companion:
+
+- **Kendra Heinrich — 3 days.** Kendra is the unique exception: she is genuinely *from* Concordia (Capricorn is her home district and origin — see her own README), and was only stranded at the South Pole during the Tower's destruction/evacuation when DLC 1 begins. Her "disappearance" is her **re-establishing an existing home she already has roots in**, not building one from scratch — hence the shorter period.
+- **Every other DLC companion — 1 full week.** Confirmed default going forward: every companion added under the "Multiple Native Companions Per DLC" policy is a genuine native of her own DLC region, with **no prior Concordia connection at all** — this is the opposite of Kendra's case, not a variant of it. She is a true newcomer finding lodging from scratch, which is why the period is longer. This applies to Maggie Aarden, Salagéa Aparast, Charlene, and all still-undesigned new companions across every DLC 2-7.
+
+**This is a separate mechanism from player home access.** The player does not gain entry to a companion's home during or after this period — home access is still strictly gated behind a full romance, per the "Romancing a companion unlocks that companion's personal home" rule above. This period is about the companion's own narrative/world logic (where does she actually live, day to day, once she's settled in Concordia at all), not about the player's own access. Once it elapses, she becomes normally available again — recruitable, dismissable, romanceable per the usual rules — now narratively settled into a real Concordia residence.
+
+**Design consequence: every DLC-native companion needs an assigned Concordia home district decided as part of her character design**, same as main-game companions already require for the eventual Romance Reward system, but with the added step of deciding *why* that district specifically (a practical fit for her skills/personality, a deliberate contrast, or — Kendra only — an actual origin connection). See Kendra's Capricorn placement (origin district, unique case) and Ayako's Leo placement (chosen for her craft, not her faction HQ, despite having no DLC-native origin story of her own) as the two existing models. Not yet assigned for any of the still-undesigned new DLC companions.
 
 ### Post-Romance Mini-Questline Reward: The Significant Object
 

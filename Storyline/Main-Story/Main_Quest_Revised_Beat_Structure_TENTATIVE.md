@@ -15,7 +15,7 @@ Calethina's Engineering & Activation Lab sits **on the border between Cancer and
 ## Act 1 — The Spark
 
 ### Beat 1 — Cancer/Taurus border → Capricorn
-Same core content as the original Beat 2 (Capricorn, industrial pressure, first major data). **New thread:** a data log or worker testimony surfaces evidence that Capricorn's meritocratic self-image rests on a rigged historical judgment — very plausibly the canonized Merit Board Audit (2761). Not resolved here, only planted.
+Same core content as the original Beat 2 (Capricorn, industrial pressure, first major data). **New thread:** a data log or worker testimony surfaces evidence that Capricorn's meritocratic self-image rests on a rigged historical judgment — very plausibly the canonized Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] (2761). Not resolved here, only planted.
 
 ## Act 2 — The City Fractures
 
@@ -61,7 +61,7 @@ Same climax location as the original structure. **New:** now carries real accumu
 
 ## The Conflict-Accumulation System and the Climax Fight *(confirmed 2026-07-10)*
 
-**Core idea:** Beats 1-9 aren't just delivering lore, they're quietly registering favor and friction with specific districts, using `District_Unity_of_Opposites.md`'s own already-established pairings as the ledger — not a new relationship system invented on top, the existing one made to actually matter. A choice that sides with Capricorn's own account of the Merit Board Audit over Virgo's grievance, for instance, registers friction along a pairing that document already lists; a choice that pursues Aquarius' predictive-maintenance fix on Virgo's behalf registers favor along that same axis. By the time the player reaches Beat 10, the sum of these choices is a real, legible map of who they've sided with, who they've alienated, and how many of the network's own standing tensions they've made worse rather than better.
+**Core idea:** Beats 1-9 aren't just delivering lore, they're quietly registering favor and friction with specific districts, using `District_Unity_of_Opposites.md`'s own already-established pairings as the ledger — not a new relationship system invented on top, the existing one made to actually matter. A choice that sides with Capricorn's own account of the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] over Virgo's grievance, for instance, registers friction along a pairing that document already lists; a choice that pursues Aquarius' predictive-maintenance fix on Virgo's behalf registers favor along that same axis. By the time the player reaches Beat 10, the sum of these choices is a real, legible map of who they've sided with, who they've alienated, and how many of the network's own standing tensions they've made worse rather than better.
 
 **What it does at the climax:** the Beat 11 fight at the Hub is scaled by accumulated friction, not scripted as a fixed encounter. High accumulated friction means more districts' own grievances have gone unaddressed or been actively worsened, which means a larger, harder, more multi-sided confrontation; low accumulated friction (favor banked broadly, or at least not spent carelessly) means a smaller, more contained one. This makes the climax a genuine payoff for how the player played the whole network, not a final boss bolted onto the end regardless of prior choices.
 

@@ -2,10 +2,11 @@
 
 ## Meyzan Yocazhda
 
-**Role / Archetype:** Achievement-driven professional; image-conscious operator (job/setting TBD)
-**Primary Location(s):** Leo (most likely) or Capricorn — TBD pending job/setting confirmation
-**Affiliation(s):** TBD — professional entertainers guild (Leo) or meritocratic production guild (Capricorn)
-**Companion Potential:** TBD
+**Role / Archetype:** Merit-rated production supervisor — visibly successful, held up by Capricorn leadership as a model of the meritocratic system's fairness
+**Primary Location(s):** Capricorn — **resolved 2026-07-20**, chosen over the earlier Leo candidate specifically to avoid redundancy with Villena Hiresvett's already-established Leo performer niche, and because her actual visual/personality profile (composed, polished, "operator" energy rather than stage-performer energy) fits a professional/industrial setting better than an entertainment one
+**Affiliation(s):** Capricorn's meritocratic production guild
+**Companion Potential:** Yes — confirmed recruitable per the 2026-07-20 roster-wide policy (see `Companion_System.md`)
+**Romance Potential:** Yes — confirmed romanceable per the same policy; thresholds TBD (Phase 3 personality work)
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -63,10 +64,13 @@ TBD — see `Personal_Background/` for details as they develop.
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
 ## Design Notes & Open Questions
+
+- **Capricorn placement, reasoned 2026-07-20:** her 3w2 Self-Preservational profile — achievement-driven, image-conscious, entire self-concept built on visible success — is a genuinely sharp fit for Capricorn specifically because that district's central political spine is its merit-rating scandal *(currently named "Merit Board Audit" in project files — that name is explicitly unsettled and under active reconsideration, see TODO.md; treat this connection as being to the underlying mechanic/plot-thread, not to that specific term)*: an independent review found the merit-rating system had systematically undervalued robot workers for decades, leadership buried it, and it's the evidence Kendra Heinrich's origin faction, The Reclaimed Record, is built around. A supervisor whom leadership holds up as proof the system rewards merit fairly, whose own identity is staked on a system already known (to the player, not yet to her) to be rigged, sets up real dramatic irony. Her own established Enneagram integration/disintegration path — toward genuine loyalty to people vs. the brand (integration), or toward disengaging to protect the brand rather than risk it (disintegration) — maps naturally onto "what happens to her when the scandal becomes public," without that connection needing to be forced.
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:
   - [ ] Full backstory
   - [ ] Visual design
-  - [ ] Questline design
+  - [ ] Questline design — likely tied to the Capricorn merit-scandal's eventual public surfacing, per the reasoning above
   - [ ] MACHINE stat baseline
+  - [ ] Romance stat thresholds

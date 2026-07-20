@@ -85,7 +85,7 @@ against what its own Full_Extrapolation actually resolved. Three labels:
   time, pending two open Staging threads (the Tower-grid connection, the Scorpio/Aries Black Silence link)
   that would need resolving first before either event could be dated with confidence.
 - **Capricorn** — [DECISION PENDING] The single largest open item in the whole district set: which of
-  seven documented possibilities (the Merit Board Audit or the six `06b` alternatives) actually happens
+  seven documented possibilities (the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] or the six `06b` alternatives) actually happens
   around c. 2761, or whether two of them merge. Every other Capricorn question is downstream of this one.
 - **Aquarius** — [OPEN DETAIL] Two smaller items survive their own Full_Extrapolation: the exact count and
   rhythm of Contamination Events across two and a half centuries (already flagged as this district's own

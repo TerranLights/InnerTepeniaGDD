@@ -72,7 +72,7 @@ folder and go, rather than needing to re-establish what each one is for.
   even more literally here, since Aries *is* a power district
 - Sociology of workplace martyrdom and self-sacrifice
 
-### Capricorn (heavy industry, Merit Board Audit, builds robot frames)
+### Capricorn (heavy industry, Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`], builds robot frames)
 - Labor economics — wage discrimination and systemic undervaluation of labor, real case studies
 - Industrial/assembly-line manufacturing engineering
 - Robotics frame/actuator manufacturing
