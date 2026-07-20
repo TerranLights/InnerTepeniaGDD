@@ -24,10 +24,12 @@ enabler philosophy Wren Kalloway established generations earlier (Suggestion #1)
 ###### What disrupts the above baseline.
 
 A minority of residents privately notice just how objectively unusual the Vestfold Hills' terrain
-actually is by any Tepenian standard — genuinely remarkable, arguably worth more acknowledgment than the
-city's own founding ethos permits anyone to ask for. A quiet, rarely-voiced wish takes hold among that
-minority: not for fame, just for simple acknowledgment that what Davis has here is genuinely
-extraordinary. Saying so openly cuts directly against the city's whole dominant character, though — a
+actually is by any Tepenian standard — genuinely unusual enough that Davis's own Prydz Bay maritime
+economy could plausibly have supported an assertive, self-promoting port identity instead, the way
+distant Vladivostok's real "Lord of the East" naming embraced exactly that path (Cross-Reference
+Synthesis, Finding 3). A quiet, rarely-voiced wish takes hold among that minority: not for fame exactly,
+but something closer to knowing there was a real alternative civic identity available and watching the
+city's founders choose the humble one instead. Saying so openly cuts directly against the city's whole dominant character, though — a
 population that has spent generations defining itself by not seeking outside attention has no comfortable
 vocabulary for admitting it privately wants some, even in the smallest, most modest form. The wish stays
 mostly unspoken, but unspoken things between people who suspect they're not alone in feeling them have a

@@ -2,12 +2,14 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #1**, translated from `Davis_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in: Davis's namesake John King Davis, the
-mariner who made other men's expeditions possible without seeking credit for his own, and Founding
-Administrator Wren Kalloway's deliberate choice to model the young settlement's self-image on that
-unglamorous competence (Davis `Mega_Init`, `Full_Extrapolation`). Character fields are intentionally
-left blank — see each Conflict section's Design Notes for what kind of conflict, and what kind of
-character(s), would make the following setting-condition become true.
+`z-template_-_city_histories_conflict_variant.md`. **Regenerated 2026-07-20** — grounded in Davis's
+namesake John King Davis, Founding Administrator Wren Kalloway's deliberate modeling of the settlement's
+self-image on his unglamorous competence (Davis `Mega_Init`, `Full_Extrapolation`), and now also
+Cross-Reference Synthesis Finding 1: the enabler identity is reinforced by three independent sources at
+once — namesake, the real-world Tyumen parallel, and Davis's own corrected breadbasket economy — an even
+sharper fit than the superseded mining-city framing this chain originally carried. Character fields are
+intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and what
+kind of character(s), would make the following setting-condition become true.
 
 ---
 
@@ -83,12 +85,13 @@ the rest of Tepenia that persists for generations.
 
 Because Davis never develops the institutional habit of self-promotion, the city's later, genuinely
 remarkable achievements — the sediment-core methodology (Suggestion #2), the fjord-navigation expertise
-(Suggestion #4) — spread by reputation among specialists who directly need them rather than through any
-deliberate civic marketing effort, giving Davis's fame a narrower but more durable, expertise-driven
-character than cities that promoted themselves from the start. Delete the 2nd-order change — imagine
-Davis had built ordinary self-promotion institutions after all — and there's no structural reason its
-reputation would spread through specialist networks specifically rather than general publicity; that
-pattern depends on the promotional gap this cycle created.
+(Suggestion #4), and eventually the breadbasket economy itself — spread by reputation among specialists
+and neighboring cities who directly need them rather than through any deliberate civic marketing effort,
+giving Davis's fame a narrower but more durable, expertise-driven character than cities that promoted
+themselves from the start. Delete the 2nd-order change — imagine Davis had built ordinary self-promotion
+institutions after all — and there's no structural reason its reputation would spread through specialist
+and trade networks specifically rather than general publicity; that pattern depends on the promotional
+gap this cycle created.
 
 ---
 
@@ -97,7 +100,9 @@ pattern depends on the promotional gap this cycle created.
 
 Davis stands as a city that will never market itself the way flashier founding stories let other cities
 do — its reputation, when it comes, arriving instead through the genuine respect of people who directly
-need what Davis actually produces, exactly the kind of quiet, earned relevance the enabler ethos was
-built to produce from the very start.
+need what Davis actually produces. Centuries later, once that reputation rests on feeding much of the
+wider Federation rather than being any city's destination in its own right, Kalloway's founding choice
+turns out to have anticipated exactly what Davis would become, not merely described what it once was —
+exactly the kind of quiet, earned relevance the enabler ethos was built to produce from the very start.
 
 ---

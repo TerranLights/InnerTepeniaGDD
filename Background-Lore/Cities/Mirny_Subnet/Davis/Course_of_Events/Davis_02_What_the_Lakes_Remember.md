@@ -6,8 +6,12 @@
 of freshwater lakes, hypersaline basins, and landlocked marine pools, each freezing and thawing on its
 own schedule, and the paleoclimate reconstruction methodology that terrain enables (Davis `Mega_Init`,
 `Full_Extrapolation`; paired with Suggestion #3 per the source file's own "Worth Your Attention" note).
-Character fields are intentionally left blank — see each Conflict section's Design Notes for what kind
-of conflict, and what kind of character(s), would make the following setting-condition become true.
+**Regenerated 2026-07-20**, incorporating Cross-Reference Synthesis Finding 2: Guatapé's real precedent
+of being physically relocated after its valley was flooded raises a genuine, previously unaddressed
+question about whether Davis's own lakes shifted shape over its history — a question the sediment-core
+methodology is itself positioned to answer. Character fields are intentionally left blank — see each
+Conflict section's Design Notes for what kind of conflict, and what kind of character(s), would make the
+following setting-condition become true.
 
 ---
 
@@ -99,6 +103,11 @@ specifically on the cross-referencing method this cycle established.
 Davis's research culture stands on a genuinely distinct scientific identity — water as archival medium,
 built through slow, cross-referenced, inherently collaborative work — earning the city a real,
 specific reputation among specialists distinct from anywhere else in Tepenia that studies its own
-climate history through ice instead.
+climate history through ice instead. A methodology this precise is doubly significant without anyone
+quite planning it that way: it can, in principle, tell the rest of the Federation something about
+regional paleoclimate, and it can just as easily tell Davis something about itself — whether its own
+lakes have shifted extent or salinity within the city's own settlement memory, the way Guatapé's real
+valley was reshaped by a reservoir within living memory elsewhere in the world. Nobody has gone looking
+yet. The archive would know if they did.
 
 ---

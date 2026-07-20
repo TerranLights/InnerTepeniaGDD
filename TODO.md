@@ -365,8 +365,16 @@ These require a developer call before downstream work can proceed. None can be r
 - [x] **National Origin Totals table full rebuild after Concordia's composition resolution — RESOLVED 2026-07-04**
   Rebuilt the entire table from scratch (not a patch) using each of the 35 human-populated cities' actual current Section I tier compositions (Kunlun/Dome Fuji excluded, both 100% robot) — Primary=8 shares, Significant=3, Notable=1 per nation, applied against each city's current Census I human population; Concordia's contribution used its own precise per-nation figures directly rather than the tier-share approximation. New total 15,623,527 (off by 4, rounding across 42 nations — immaterial, matches Census I's 15,623,523). Rankings shift meaningfully from the old table: USA and China both drop in absolute terms (Kunlun's population is robot-only and no longer contributes) but Germany, UK, and Japan rise noticeably, reflecting Concordia's real China/Japan/Korea/Russia/Indonesia/Australia-led composition and its 25-nation European Notable tier, neither of which the old placeholder-based table credited to Concordia at all.
 
-- [ ] **"Merit Board Audit" needs a better, more memorable name**
+- [ ] **"Merit Board Audit" needs a better, more memorable name — candidate alternatives recorded 2026-07-20, none chosen yet**
   Flagged 2026-07-04 at the user's explicit request: the user keeps forgetting what this term refers to and has to ask again each time, which means the name itself isn't doing its job. For reference: it's Capricorn's central robot-rights political mechanic — an independent review (now dated 2761, see below) that found Capricorn's merit-rating system had systematically undervalued robot workers' contributions vs. human workers for decades; leadership disputed it and buried the findings; it's the "smoking gun" evidence an underground robot-rights movement builds around. Referenced across 7+ files (`District_Canon_Reference.md`, `District_Unity_of_Opposites.md`, Kendra Heinrich's `Questlines/README.md`, `District_Internal_Conflict_Quests.md`, `Climax_Structure_and_District_Ending_Consequences.md`, `Failsafes.md`) — a rename would need to touch all of them. Needs a name that's actually sticky/evocative rather than a generic bureaucratic label.
+
+  **Candidate alternatives brainstormed 2026-07-20, still being weighed, none chosen:**
+  - **The Undercount** — states the actual finding directly (robot labor systematically undercounted) rather than naming the bureaucratic process that produced it.
+  - **The Buried Ledger** — leans into it being suppressed evidence; "ledger" ties naturally to a merit-rating system.
+  - **The Yards Reckoning** — ties directly to Capricorn's own official name ("The Yards"); "reckoning" carries both "an accounting" and "a day of reckoning is coming."
+  - **The Hollow Merit** — more poetic/underground-movement-slogan register; names the whole merit system as hollow, not just one bad audit.
+  - **The 2761 Ledger** — real-world scandals often get named by year (Pentagon Papers, the '08 crash); gives it a citable, historical-document feel.
+  - **The Shortchange** — plainspoken, working-class-register word fitting "The Yards" tonally; describes exactly what happened to robot workers.
 
 - [x] **Concordia district-lore timeline contradiction — RESOLVED, then the war itself got a precise date**
   Found 2026-07-04: three load-bearing dated events in `District_Canon_Reference.md` (Merit Board Audit, The Flood, Cancer's Overcrowding Decision) were decades after the game's only explicit "present day" statement, despite being treated as already-settled past history central to current-day quests. Fixed by relocating Merit Board Audit and The Flood into the (now much longer) second interwar period, and Overcrowding Decision into the immediate post-war window. **Then, same day, the developer canonized the Long Night War itself as a single precise year — 2812** (previously a loose "early 2800s, ~2794–2804" range) — see `World_History_Reference.md`. This bumped two of the fixed dates again: Overcrowding Decision → **c. 2813** (immediate post-war, one year after the new war date) and Taurus's Bonded Pair Registry Collapse → **2812** (an explicitly wartime event, now dated to the war year itself). Final settled dates: Merit Board Audit **2761**, The Flood **2771**, Overcrowding Decision **c. 2813**, Bonded Pair Registry Collapse **2812**. All affected files updated — see `project_district_canon_timeline_fix` memory. **Present-day question now RESOLVED (2026-07-04):** the developer confirmed the base game and all 7 DLCs share a single unified timeline — traveling between Concordia and any DLC region and back involves no time-skip or separate clock. So the game's present day is simply **≈2822–2827** (10-15yr after the war's now-fixed 2812 date) everywhere, base game included, not just DLC 1. All four fixed dates above (2761, 2771, 2812, 2813) sit safely before that window, so nothing needs to move again.
@@ -464,6 +472,7 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Planetary Split Brain questline — full design**
   Premise established: the Long Night War's destruction of Amundsen Station severed all six Arcanet subnets from each other. Each now holds isolated — and sometimes conflicting — records. The questline involves noticing contradictions in refugee accounts, tracing them to the structural Split Brain, and expeditioning to the South Pole to access the last synchronized pre-split archive.
   **Core mechanic confirmed:** player assembles the true picture by reconciling conflicting subnet records.
+  **Confirmed 2026-07-20: this is an unmarked questline**, Fallout: New Vegas-style — no quest marker, no XP payout, no tracker/journal entry, no notifications. Same category as FNV's "Long-Term Care" (Julie Farkas/Followers) or "Pistol Packing" (Brotherhood of Steel) — entirely discoverable through noticing the contradictions and following them yourself, not flagged as content by the game. Still a real, fully designed questline underneath (this changes *presentation only*, not scope) — full quest structure still needs designing.
   **TBD:** Full quest structure, discovery trigger, South Pole archive integration, Arcanet reconstruction consequences, connection to Janbogo subnet nexus anomaly in Concordia.
 
 - [ ] **Independent Lattice — full design**
@@ -491,13 +500,15 @@ These require a developer call before downstream work can proceed. None can be r
   Rule updated 2026-07-03: robots and human women are bisexual, human men are heterosexual (previously all humans were heterosexual). Romanceable human male companions will gate on an additional gender check on top of the standard MACHINE stat check (see `Companion_System.md`, `Universal_Rules.md`). **Correction (2026-07-03):** all currently-existing recruitable companions are robots — Favi della Torre included (her established backstory describes her boyfriend as "a human," distinguishing him from her). No existing companion romance design needs auditing or updating right now; this rule only becomes relevant once a human companion is actually designed and added to the roster.
 
 - [ ] **Ayako Hayashi — character development queue**
-  Confirmed: recruitable companion; romanceable; 4w5 Self-Pres; Red Spiral medic; Japan origin; art/fashion → medicine trajectory; Schopenhauer as personal philosophy. Home designed (Leo district atelier). Romance design complete (Investigation ≥ 7, Humanity ≥ 6, Calculation ≥ 6; full 6-beat Gate 3 sequence). Outstanding:
-  - Personality and voice (Phase 3)
-  - MACHINE stat baseline
-  - Full personal questline design
-  - Red Spiral role/rank (confirmed NOT the leader)
+  Confirmed: recruitable companion; romanceable; 4w5 Self-Pres; Red Spiral medic; Japan origin; art/fashion → medicine trajectory; Schopenhauer as personal philosophy. Home designed (Leo district atelier). Romance design complete (Investigation ≥ 7, Humanity ≥ 7 [raised from ≥6, 2026-07-20], Calculation ≥ 6; full 6-beat Gate 3 sequence). **Resolved 2026-07-20:** pre-Concordia origin city — **Shirayuki** (see `Specs/Shirayuki.md` Open Questions and her own README); MACHINE stat baseline — Might 2 / Agility 7 / Calculation 6 / Humanity 9 / Investigation 9 / Nerve 7 / Engine 7; Red Spiral seniority direction — esteemed/senior member, structurally comparable to Arcade Gannon, confirmed NOT the leader (exact title still TBD); personal questline — broad-scope guiding direction charted (working title "The Unfinished Garment," see `Questlines/Personal_Questline_Summary.md`); speech pattern broad direction charted. Still outstanding:
+  - Full personality/voice (Phase 3) — broad direction charted, exact lines/quirks not yet written
+  - Full personal questline design (deliberately deferred until Concordia/Cancer district is developed)
+  - Red Spiral exact rank/title (seniority direction confirmed; exact title deliberately held off until Tepenia's in-world naming/title conventions are better established generally)
   - Companion perks / notable traits
   - Japan lore (develop alongside Upper Earth/Japan world design)
+
+- [ ] **Personal questlines — broad-scope guiding-idea charting pass, flagged 2026-07-20**
+  Surfaced while working Ayako Hayashi's development queue: **none of the 13 confirmed main-game recruitable companions have any personal-questline content written** — every `Questlines/Personal_Questline_Summary.md` file checked so far is the untouched blank template. Full step-by-step quest design is correctly held off until Concordia is developed enough for beats to land on real places (same discipline as Calethina's own questline deferral) — but the developer's direction, confirmed 2026-07-20, is that enough is now known about the characters (Enneagram types, established wounds/hooks, the extensive romance-beat writing already done in `Companion_System.md`) to chart **broad-scope guiding ideas** — themes, emotional core, rough shape — for each companion now, without full detail. Ayako's own broad-scope direction is done (see above). **Not yet done for the other 12+ companions** (Flora, Favi, Villena, Naizelle, Seica, Ji-Eun, Vosora, Michelle, Fenny, Pink Lucy, Lyuba, Rui, plus DLC companions) — a real next task, likely substantial enough to warrant its own dedicated pass rather than being squeezed into other work.
 
 - [ ] **IT-068 [Flora] — full development queue**
   First recruitable companion; well-scaffolded but incomplete. Established: 6w5 Thinking type; Capricorn industrial maintenance background; Frontline Utility Tank / Field Engineer combat role; recruitment scene at Thermal Distribution Junction 12 (mid-to-late Act 1); personality voice and approval system defined. Outstanding:
@@ -791,18 +802,31 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Long-Term / Low Urgency
 
-- [ ] **Cross-nation/cross-subnet city relationship check — flagged 2026-07-17, explicitly deferred by the developer**
-  The developer wants a future pass finding ways different cities relate to each other *across* subnets,
-  not just within one — the goal being that as the player discovers and learns lore, Tepenia feels like it
-  was once a genuinely interconnected country, rather than six subnets that happen to share a landmass.
-  Distinct from the City History Enhancement Opportunities pass (which works within each city's own
-  history) and from the existing subnet-internal relationship work already scattered across individual
-  Megasheets (e.g. Abowasa/Halley/Neumayer's bedrock-stability consulting relationship, all three within
-  Halley subnet). This would need to specifically hunt for cross-subnet connections — trade, shared
-  founding-nation populations, technology transfer, historical contact — the same way
-  `City_Refugee_District_Affinities.md` already did for city-to-Concordia-district relationships, but
-  applied city-to-city, nationwide. **Explicitly not urgent — noted for later, not to be started
-  proactively.**
+- [ ] **City personality-deepening pass, using Subnet Ultra-Megasheets as the guide — flagged 2026-07-20, wait until the full book-TOC cataloging pass is finished**
+  Not "list what real-world research we already have" — the opposite motion. Once
+  `STEM_Biology_Cataloging_Checklist.md` and `Book_TOC_Master_Reference.md` are fully complete (every
+  folder in the big 2026-07 book stash cataloged), go through every subnet and every city within it and
+  deliberately think about what *additional* topics/subject matters would be characteristically fitting to
+  add to that specific city — genuinely new material that expands the city's "personality," not a
+  re-statement of existing content. The 5 Subnet Ultra-Megasheets (`project_subnet_ultra_megasheets_complete`
+  memory) are the intended guide for this: read a city's established identity/tone there, then identify
+  what real-world topic areas would deepen it in an in-character, internally-consistent way, and go find or
+  flag books on those specific topics. This is a generative/creative pass, not a cataloging one — do not
+  start it early or fold it into the current TOC-cataloging work.
+
+- [ ] **Cross-nation/cross-subnet city relationship check — flagged 2026-07-17, STARTED 2026-07-20**
+  Deliverable: `Worldspace/.../Cities/City_Cross_Subnet_Relationships.md`. First-pass map complete —
+  traced the highway network (`Highways.md`) and airport network (`Airports.md`) for every subnet-boundary
+  crossing, cataloged already-established cross-subnet connections as a set for the first time (Belgrano↔
+  Byrd, Kunlun↔Dome Fuji, Sinheung↔Byrd, the Troll/Sinheung/Dome Fuji aviation triangle, Davis↔Mawson),
+  surfaced a real unwritten historical connection (Davis's own namesake personally rescued Mawson's), and
+  cross-referenced founding-nation composition to find 3 genuine anomalies (Byrd's population reads
+  Janbogo-Pacific despite its only physical link running through Palmer; Vostok+Byrd share a unique
+  USA+Japan Primary pairing found nowhere else; Fort McMurdo's Euro-leaning Significant tier breaks its
+  own subnet's pattern, plausibly explained by its status as the historical capital). **20 of 35 cities
+  now have an identified cross-subnet connection; 15 remain (Palmer subnet worst-covered by far — see the
+  file's own Part 5).** Turning any of these threads into actual dramatized content is the explicit
+  next step, not yet done.
 
 - [ ] **Throwing weapons — full system, flagged 2026-07-04, scope refined same day**
   New combat category, not yet designed. **Core focus, clarified by the developer:** thrown blade weapons specifically — throwing knives, tomahawks, and similar bladed forms — not a generic "any weapon can be thrown" system. Envisioned as an "aggregated hybrid" of Baldur's Gate 3 (Strength-based throwing, a real build path) and Cyberpunk 2077 (dedicated throwing knives as their own distinct equipment/build category), but scoped to blades rather than BG3's broader "throw anything" approach. **Explicitly excluded:** BG3's alchemist's fire and similar consumable thrown items — a Fantasy-genre mechanic that doesn't fit Inner Tepenia's Sci-Fi setting. The developer is open to a separate grenade system as the Sci-Fi equivalent of that consumable-throwable niche, but that's a distinct, secondary idea, not the main thrust of this entry. This would also resolve an open gap surfaced during the 2026-07-04 Fallout trait/perk comparison pass — FNV's "Loose Cannon" trait and "Heave, Ho!"-style perks are built around a generic "thrown weapons" category Inner Tepenia doesn't have yet; those would attach to this blade-focused system once it exists. See `project_fallout_trait_perk_adaptation` memory.

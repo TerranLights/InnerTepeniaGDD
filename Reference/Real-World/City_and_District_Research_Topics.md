@@ -14,6 +14,31 @@ else can happen.
 
 ---
 
+## Folder-to-Location Map (as PDFs actually land in `Reference/Materials/books/`)
+
+Real, populated folders as of 2026-07-20, and what the developer has earmarked each one for — kept here
+so a folder's *purpose* isn't lost even if nobody's gotten to extracting from it yet. Update this table as
+folders fill in or get reassigned.
+
+| Folder | Files (approx.) | Earmarked for |
+|---|---|---|
+| `metals, ores, and geosciences/` | 21 | **Davis** — mostly geology/geochemistry (structural geology, groundwater geochemistry, geological mapping), which fits Davis's own sediment-core/limnology research methodology directly; a few titles (magmatic sulfide deposits, mineral-deposit risk management) read more like literal ore-mining material, which is now Mirny's role post-2026-07-16 — worth triaging by title before assuming every book here is Davis's, not Mirny's. |
+| `arcology and post-agrarianism/` | 1 so far | **Davis** — paired with the geosciences folder above; only one file landed so far (a micrometeorology textbook), likely still filling in. |
+| `history/` | 8 | **General — cities/country overall.** Real-world histories (Latin America, China/Japan, Korea, Afghanistan, Mongol Empire, a WWII rescue-mission account, an Arctic survival memoir) — not earmarked for any one location, usable as inspiration across the whole cast of cities. |
+| `life skills/survival/` | 27 | **Sagittarius (The Frostlands)** primarily — survival handbooks, bushcraft, wilderness first aid, water security — also explicitly flagged as applicable to some post-war cities generally, not just Sagittarius. |
+| `medicine care and first-aid/` | 4 | **Cancer** — includes real neuroscience/brain-injury material (Ramachandran's *Phantoms in the Brain*, *The Tell-Tale Brain*, a brain-neurotrauma clinical text) alongside general medicine — fits Cancer's caregiving/sanctuary identity directly. |
+| `music theory and composition/` | 10 | **Leo** — real orchestration and harmony textbooks (Piston, Adler, Forsyth, Kostka/Payne), plus a taiko-drumming ethnomusicology title — direct fit for Leo's arts/performance identity. |
+| `psychology/` | 10 | **General**, flagged as especially applicable to **Cancer and Scorpio** — includes real clinical/social psychology (toxic-parent dynamics, fear of intimacy, mass-movement psychology, thought-reform/brainwashing studies, "dark psychology" manipulation tactics) — the darker-edged titles read as an especially strong fit for Scorpio's confrontation-based trauma work specifically. |
+| `religion/` | grew by "a handful" | More Buddhism material added (feeding `Ice-Cold_Buddhism_Research/`), plus general-purpose titles — Kurzweil's *The Age of Spiritual Machines* and de Waal's *The Bonobo and the Atheist* both look like strong candidates for the robot-consciousness/robot-religion research threads specifically, not just Ice-Cold Buddhism. |
+| `politics/` | 4 | **Long Night War era** (and the generation leading up to it), also broadly usable — real political philosophy/theory (*The Federalist Papers*, military ethics, free-speech theory, a Thomas Sowell social-policy critique). |
+| `strategy/` | 2 | **Long Night War era**, paired with `politics/` — Machiavelli's *The Prince* and a combined Sun Tzu/Clausewitz/Machiavelli/Jomini strategy anthology. |
+
+**Status: mapped, not yet triaged or extracted from.** None of these folders have had a dedicated
+extraction pass yet — this table exists so the next session (or this one, if there's room) can pick a
+folder and go, rather than needing to re-establish what each one is for.
+
+---
+
 ## Part 1 — The 13 Concordia Districts
 
 ### Cancer (sanctuary/caregiving, "Mother's Circuit," Overcrowding Decision)
@@ -77,6 +102,7 @@ Already extensively researched — see `Pisces_Flood_Mechanism_Research/` in thi
 secondary thread if more material surfaces:
 - Informal/black-market economics — underground economy literature, relevant to the Tolerance Pact's
   unofficial trade dynamics beyond the Flood mechanism itself
+- Mafia culture and history
 
 ### Sagittarius (frontier/expansion, Third Expansion Collapse, siligel rush/bust)
 - Boomtown/gold-rush sociology and boom-bust resource-extraction economics

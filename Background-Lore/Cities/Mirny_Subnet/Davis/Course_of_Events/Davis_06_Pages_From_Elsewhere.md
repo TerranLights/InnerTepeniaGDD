@@ -2,21 +2,25 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #6**, translated from `Davis_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in: Davis's remote, working-city character
-and its population's desire for more cultural and intellectual life than that character naturally
-produces, resolved through a quiet, informal Upper Earth book-circulation network (Davis `Mega_Init`,
-`Full_Extrapolation`). Character fields are intentionally left blank — see each Conflict section's
-Design Notes for what kind of conflict, and what kind of character(s), would make the following
-setting-condition become true.
+`z-template_-_city_histories_conflict_variant.md`. **Regenerated 2026-07-20** — the resource-competition
+driving this chain is now Davis's breadbasket-and-research economy, replacing the superseded
+mining-and-fabrication framing this chain originally carried; the underlying structure (an informal
+Upper Earth book-circulation network, sustained through rotating uncredited coordination) is otherwise
+unchanged, since nothing about it actually depended on which specific economy the network was competing
+against for resources. Grounded in: Davis's remote, breadbasket-and-research civic character and its
+population's desire for more cultural and intellectual life than that character naturally produces
+(Davis `Mega_Init`, `Full_Extrapolation`; Local Cultures Section 13). Character fields are intentionally
+left blank — see each Conflict section's Design Notes for what kind of conflict, and what kind of
+character(s), would make the following setting-condition become true.
 
 ---
 
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Davis's population wants more cultural and intellectual life than its own remote, working-city character
-naturally produces — a real, felt gap between what residents want from their minds and what the
-mining-and-fabrication economy actually provides.
+Davis's population wants more cultural and intellectual life than its own remote, breadbasket-and-research
+civic character naturally produces — a real, felt gap between what residents want from their minds and
+what a city organized around growing food and running careful field science actually provides.
 
 ---
 
@@ -24,14 +28,15 @@ mining-and-fabrication economy actually provides.
 ###### What disrupts the above baseline.
 
 Building elaborate cultural institutions — libraries, lecture halls, formal literary societies — would
-compete directly with resources the mining and fabrication economy genuinely needs, and a young
-settlement can't easily justify that trade-off out loud. A quieter alternative starts forming instead:
-individuals privately acquiring books from Upper Earth through whatever informal channels exist, reading
-them, and passing them along. That kind of network, though, needs real, sustained coordination to keep
-functioning — someone has to track what's circulating, who has what, when something needs to move on —
-and coordinating something like that inevitably means some residents end up doing real organizational
-labor for a network they'd rather not draw much formal attention to, since formal attention risks exactly
-the institutional resource competition the network was built to avoid.
+compete directly with resources Davis's breadbasket economy and research heritage genuinely need: labor,
+growing space, research funding, all already stretched thin by the responsibility of feeding much of the
+wider Federation. A young settlement can't easily justify that trade-off out loud. A quieter alternative
+starts forming instead: individuals privately acquiring books from Upper Earth through whatever informal
+channels exist, reading them, and passing them along. That kind of network needs real, sustained
+coordination to keep functioning — someone has to track what's circulating, who has what, when
+something needs to move on — and coordinating something like that inevitably means some residents end up
+doing real organizational labor for a network they'd rather not draw much formal attention to, since
+formal attention risks exactly the institutional resource competition the network was built to avoid.
 
 ---
 
@@ -97,6 +102,7 @@ on the rotation this cycle produced.
 
 Davis sustains a quiet, self-directed intellectual life that asks nothing from the wider city and needs
 no outside recognition to keep functioning — a genuinely distributed, generationally durable practice,
-private in character but never actually dependent on any one resident to survive.
+private in character but never actually dependent on any one resident to survive, and echoing the same
+unglamorous, self-sufficient instinct that defines everything else about Davis.
 
 ---

@@ -83,7 +83,7 @@ stale on Davis's own Megasheet and Course of Events file. Per the developer's ow
 supplier is now corrected to Mirny throughout (the summary chain, the expanded chain file — renamed from
 `Sinheung_05_What_Davis_Sends.md` to `Sinheung_05_What_Mirny_Sends.md` — this Mega-Init's own "What It
 Feels Like" section, and `Sinheung_Full_Extrapolation.md` Section III). Davis's own 10-chain Course of
-Events collection remains separately flagged for full regeneration — see Davis's own Mega_Init.
+Events collection was separately regenerated 2026-07-20 — see Davis's own Mega_Init.
 
 ---
 

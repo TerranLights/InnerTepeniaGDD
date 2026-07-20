@@ -24,7 +24,9 @@ accepted as simply how winter shipping works.
 
 The city's own scattered fjord inlets, shaped by the same varied terrain that defines everything else
 about Davis, don't all freeze and thaw on the same schedule as the main bay — some stay navigable well
-into the season the harbor itself is fully iced over. That fact sits unexploited for a while, because
+into the season the harbor itself is fully iced over. The smaller fishing and maintenance vessels that
+never needed the main harbor's full commercial capacity in the first place are the ones positioned to
+actually exploit it, if anyone's willing to test the ice. That fact sits unexploited for a while, because
 acting on it means real risk: sending ships into unfamiliar, unmapped fjord channels during exactly the
 season when ice conditions are least predictable, on nothing more than an educated guess that a
 particular inlet might still be open. A shipping economy under real winter pressure has to decide whether

@@ -2,11 +2,15 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #7**, translated from `Davis_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in: the standard Tepenian architectural
-default of engineering primarily against wind, and Davis's own varied terrain offering genuine features
-worth building with rather than simply surviving (Davis `Mega_Init`, `Full_Extrapolation`). Character
-fields are intentionally left blank — see each Conflict section's Design Notes for what kind of
-conflict, and what kind of character(s), would make the following setting-condition become true.
+`z-template_-_city_histories_conflict_variant.md`. **Regenerated 2026-07-20** — drops this chain's prior
+implicit tie to "quarry and fabrication facilities" in its 3rd-order change, replacing it with the
+correct downstream connection to Davis's own breadbasket buildout (Suggestion #10). Grounded in: the
+standard Tepenian architectural default of engineering primarily against wind, and Davis's own varied
+terrain offering genuine features worth building with rather than simply surviving, including the
+sunlight, water access, and shelter a breadbasket economy specifically needs (Davis `Mega_Init`,
+`Full_Extrapolation`). Character fields are intentionally left blank — see each Conflict section's
+Design Notes for what kind of conflict, and what kind of character(s), would make the following
+setting-condition become true.
 
 ---
 
@@ -24,11 +28,12 @@ exile settlements do.
 
 Davis's own terrain offers something most other cities don't have to weigh against pure wind-defense —
 genuine variety, lake access and fjord inlets worth designing around rather than treating as obstacles to
-engineer past. Early planners face a real choice with real trade-offs: adopt the standardized,
-wind-first approach that's already proven to work reliably elsewhere, or attempt something more
-site-specific that could make better use of the terrain but requires more custom engineering, more
-individual judgment calls, and carries a real risk of getting the wind-defense fundamentals wrong in the
-process of accommodating the landscape.
+engineer past, and a breadbasket economy that specifically needs sunlight exposure and sheltered growing
+conditions more than it needs uniform wind-defense everywhere. Early planners face a real choice with
+real trade-offs: adopt the standardized, wind-first approach that's already proven to work reliably
+elsewhere, or attempt something more site-specific that could make better use of the terrain but requires
+more custom engineering, more individual judgment calls, and carries a real risk of getting the
+wind-defense fundamentals wrong in the process of accommodating the landscape.
 
 ---
 
@@ -46,14 +51,15 @@ at the cost of more custom engineering and less standardization. Character A's c
 wind-defense failures are genuinely dangerous, and deviating from proven methods for the sake of
 aesthetics or terrain-appreciation would be irresponsible. Character B isn't dismissing that risk, just
 arguing the terrain's usable features (natural windbreaks from rock formations, sheltered lake-adjacent
-sites) can meet the same safety standard through different means, if planners are willing to do the
-harder, more individualized engineering work.
+sites with real sun exposure) can meet the same safety standard through different means, if planners are
+willing to do the harder, more individualized engineering work — and that a future greenhouse-and-research
+economy will need exactly that kind of siting anyway.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a structural or
 wind-engineering specialist, someone whose training and professional caution runs directly through the
 standardized Tepenian approach. Character B is plausibly a site planner or someone with direct working
 knowledge of the Vestfold Hills terrain (compare the naturalists of Suggestion #5), convinced the
-landscape's own features can do real protective work if the city designs with them.
+landscape's own features can do real protective and productive work if the city designs with them.
 
 ---
 
@@ -83,12 +89,13 @@ standardized wind-defense template the way most other Tepenian cities' construct
 
 Because Davis's builders train for site-specific evaluation rather than template application, the city's
 construction sector develops a transferable skill set unusually well suited to Davis's own later
-industrial growth (Suggestion #10) — the same site-by-site judgment that shaped early residential siting
-proves directly applicable when quarry and fabrication facilities need to be positioned around the same
-varied terrain, giving Davis's builders a head start other cities' more standardized construction sectors
-don't have. Delete the 2nd-order change — imagine Davis had instead adopted the uniform wind-first
-template — and there's no site-specific expertise for the later industrial buildout to draw on; that
-advantage depends specifically on the individualized evaluation skill this cycle produced.
+breadbasket buildout (Suggestion #10) — the same site-by-site judgment that shaped early residential
+siting proves directly applicable when greenhouse complexes and research stations need to be positioned
+for maximum sun exposure and sheltered lake access, giving Davis's builders a head start other cities'
+more standardized construction sectors don't have. Delete the 2nd-order change — imagine Davis had
+instead adopted the uniform wind-first template — and there's no site-specific expertise for the later
+agricultural buildout to draw on; that advantage depends specifically on the individualized evaluation
+skill this cycle produced.
 
 ---
 
@@ -96,8 +103,8 @@ advantage depends specifically on the individualized evaluation skill this cycle
 ###### The new baseline, feeding the next cycle.
 
 Davis ends up with a genuinely varied, terrain-responsive built environment — proof that the city's
-relationship with its own remarkable landscape was collaborative from the very start, not adversarial,
-with a construction sector whose site-specific expertise quietly outpaces what most standardized
-Tepenian cities ever develop.
+relationship with its own remarkable landscape, and its own breadbasket economy's actual needs, was
+collaborative from the very start, not adversarial — with a construction sector whose site-specific
+expertise quietly outpaces what most standardized Tepenian cities ever develop.
 
 ---

@@ -5,9 +5,11 @@
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: Naturalist Ratna Wirawan's leadership of
 the team that develops Davis's sediment-core methodology, and her deliberate choice to credit the whole
 group rather than claim sole authorship (Davis `Mega_Init`, `Full_Extrapolation`; paired with Suggestion
-#2 per the source file's own "Worth Your Attention" note). Character fields are intentionally left
-blank — see each Conflict section's Design Notes for what kind of conflict, and what kind of
-character(s), would make the following setting-condition become true.
+#2 per the source file's own "Worth Your Attention" note). **Regenerated 2026-07-20**, incorporating
+Wirawan's own Indonesian cultural background (Neo-Race Catalog, Davis) as a real grounding for her
+collective-credit instinct rather than an unexplained personality trait. Character fields are
+intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and what
+kind of character(s), would make the following setting-condition become true.
 
 ---
 
@@ -30,7 +32,11 @@ cross-referenced work (Suggestion #2) actually made the methodology possible —
 technicians, and collaborators whose individual contributions were essential but far less visible than
 the lead researcher's. Wirawan has to decide, and the decision isn't automatic: sole authorship is
 easier, expected, and would do more for her own individual standing; collective credit is unusual, would
-cost her personally, and isn't obviously owed to her under any normal scientific convention.
+cost her personally, and isn't obviously owed to her under any normal scientific convention. Her own
+instinct leans toward the group from the start — a relational, communally-minded upbringing where
+leadership is built through trust rather than individual claim (per Davis's own Neo-Race Catalog entry
+for Indonesia) makes solo credit feel less like an honor than a distortion of how the work actually
+happened.
 
 ---
 

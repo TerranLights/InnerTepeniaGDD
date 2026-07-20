@@ -1,24 +1,22 @@
-# [Character Name] — Personal Questline: “[Quest Title]”
+# Ayako Hayashi — Personal Questline: "[Quest Title — working title "The Unfinished Garment," not final]"
+
+**Status: broad-scope guiding direction only, charted 2026-07-20.** Full step-by-step design is deliberately deferred until Concordia (and specifically Cancer district, where the Red Spiral is headquartered) is developed enough to root plot beats in real, established places rather than placeholders — same discipline as Calethina's own questline deferral. This section exists to give future design work a real throughline to build from, not to lock in specifics.
 
 ## Overview
-**Themes:**
-**Emotional Core:**
-**Player Agency Level:** High / Medium / Low
+**Themes:** Grief transmuted entirely into vocation, versus grief actually faced. Precision as both a genuine gift and a shield. What it means to finally finish something made in loss — or to consciously choose to leave it unfinished, honestly, rather than as an open wound.
+
+**Emotional Core:** Ayako has spent years being unshakeable for other people — the shyness that governs her every other relationship simply does not exist in a medical crisis, because the cost of hesitation is a lesson she already paid for once. The questline's core movement is someone finally being present for *her* the way nobody was present for the man she couldn't save — not by rescuing her from her grief, but by being competent without taking over and patient without prying, long enough that she can choose, on her own terms, whether to actually feel what she's spent years converting directly into action. Her Type 4w5's core pattern (per her own file: "processes grief by turning it into action rather than expression") is the thing under examination, not a flaw to be fixed — the ending should respect that this coping style *worked*, without pretending it was ever the whole answer.
+
+**Likely inciting hook:** Something concrete resurfaces tied to the man she lost — not necessarily reopening "who's to blame," which risks turning her personal wound into a mystery-plot mechanism rather than an emotional one, but something that reopens the specific grief she diverted into the vow and the training before she ever let herself sit with it. Candidates to weigh once this gets real design attention: a person who knew him surfaces at the Red Spiral or in Leo; an object of his turns up somewhere unexpected; a current Red Spiral case echoes the shape of what happened to him closely enough that she can't treat it with her usual clean detachment.
+
+**The kept garment as the connective thread:** Her home already has a planted hook — the single complete garment on the hook near the window, made for him or in the period after losing him, which she "doesn't volunteer what it is" (see her home design in the README). A natural culminating image for this questline is the player's relationship to that garment shifting across the arc — first unremarked, then acknowledged in one sentence (already scripted in her romance beats), then, by the questline's end, either genuinely finished or consciously left as-is — an honest artifact instead of something she has to resolve to move on.
+
+**Structural parallel worth studying when this gets full design:** several other companions' romance/quest content already runs *through* their work rather than beside it (Vosora through the Great Corruption investigation, Michelle through the Arcanet, Villena through performance). Ayako's likely fits the same pattern — her personal questline should probably run through an actual Red Spiral case or a piece of art/fashion work, not as a separate emotional cutscene bolted onto her medical duties.
+
+**Player Agency Level:** TBD — likely Medium; the emotional throughline above is fairly specific to who she is, but how directly the player pushes vs. simply stays present is a real design choice once beats are written.
 
 ## Major Steps / Acts
-### Step 1: Title
-* **Location & Timing:**
-* **Trigger:**
-* **What Happens:**
-* **Player Choices & Checks:**
-* **Observable Changes in [Character]:**
-* **What Player Learns:**
-
-(Repeat for each major step)
+Not yet designed — deferred until Concordia's Cancer district and the Red Spiral's own concrete presence in it exist to anchor real locations and triggers.
 
 ## Endings & Variations
-* **Good Ending:**
-* **Neutral Ending:**
-* **Bad Ending:**
-* **Secret / Hidden Ending:**
-* **Abandonment / “Not My Problem” Path:**
+Not yet designed. One shape worth keeping in mind from the Themes/Emotional Core above: this is a strong candidate for a questline where there is no single "good" resolution to the grief itself (it doesn't disappear, and shouldn't) — the meaningful variation is more likely in *how* she integrates it (finishing the garment vs. leaving it, closing the door on the topic vs. opening it further with the player specifically) rather than in a success/failure axis.

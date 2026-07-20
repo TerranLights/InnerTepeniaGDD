@@ -80,13 +80,14 @@ simple indifference — per Suggestion #8, "The Wish Nobody Says Out Loud" (clea
 discrepancy flagged elsewhere in this file's Course of Events chains), it should: a private, rarely-voiced
 wish for outside recognition of the terrain, not uncomplicated indifference.
 
-**Decided 2026-07-18:** Suggestions #5, #6, #7, and #10 still describe mining/fabrication as Davis's
-dominant daily economy, contradicting this Mega-Init's own 2026-07-16 breadbasket correction. Rather than
-patch those four individually, the developer has called for the entire 10-chain
-`Davis_Course_of_Events_Suggestions.md` collection to be regenerated fresh against Davis's now-conclusive
-settled identity — **"Breadbasket of Tepenia," plus a genuine multi-disciplinary research hub**. See the
-flag at the top of that file. Suggestion #11, "Food for Stone," already reflects the corrected identity
-and needs no rework.
+**Resolved 2026-07-20:** the entire 10-chain `Davis_Course_of_Events_Suggestions.md` collection has been
+regenerated against Davis's conclusive settled identity — **"Breadbasket of Tepenia," plus a genuine
+multi-disciplinary research hub**. Suggestions #5 ("The Same Eye, Turned Sideways," was "Paint What You
+See"), #6 ("Pages From Elsewhere"), #7 ("Building With the Land, Not Against It"), and #10 ("The Harvest
+Outgrows the Archive," was "Quarries Before Questions") were substantively rewritten; #1-4, #8, and #9
+needed no economic correction and were carried forward with a fresh pass incorporating texture from the
+Neo-Races Catalog and Cross-Reference Synthesis. Suggestion #11, "Food for Stone," already reflected the
+corrected identity and is unchanged.
 
 ---
 

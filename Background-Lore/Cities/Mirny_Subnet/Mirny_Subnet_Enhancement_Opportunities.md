@@ -69,28 +69,29 @@ bar's fame (#10). New angles below are ones the existing 10 don't touch.
 **Files read:** `Davis_Catalog.md`, `Davis_Mega_Init.md`, `Davis_Course_of_Events_Suggestions.md` (all
 10 existing chains).
 
-**Decided 2026-07-18:** the developer's 2026-07-16 ruling reassigned Davis's economy from
-mining/fabrication to breadbasket-plus-ecological-research (Mirny now holds the industrial role
-instead). `Davis_Catalog.md` and `Davis_Mega_Init.md` both reflect this correction, but the whole
-`Davis_Course_of_Events_Suggestions.md` collection does not — chains #5, #6, #7, and #10 (including one
-literally titled "Quarries Before Questions") still describe mining/fabrication as Davis's dominant daily
-economy, and the developer has called for the entire 10-chain collection to be regenerated fresh against
-Davis's now-conclusive settled identity ("Breadbasket of Tepenia" + multi-disciplinary research hub)
-rather than patched individually — see the flag at the top of that file. Suggestion #11, "Food for
-Stone," already reflects the corrected identity. The five ideas below are grounded in the *corrected*
-breadbasket/research identity, per the Catalog and Mega_Init, and remain valid input for the eventual
-regeneration.
+**Resolved 2026-07-20:** the entire 10-chain `Davis_Course_of_Events_Suggestions.md` collection has been
+regenerated against Davis's conclusive settled identity ("Breadbasket of Tepenia" + multi-disciplinary
+research hub). Chains #5 ("The Same Eye, Turned Sideways," was "Paint What You See"), #6, #7, and #10
+("The Harvest Outgrows the Archive," was "Quarries Before Questions") were substantively rewritten; #1-4,
+#8, #9 needed no economic correction and were carried forward with a fresh pass. Suggestion #11, "Food
+for Stone," was already correctly grounded and is unchanged. The four remaining ideas below (originally
+five; #3 was drafted as Suggestion #11 on 2026-07-17) were not incorporated into the regeneration — they
+remain valid, undrafted material for a future Suggestion #12 or later addition, not required by this
+pass.
 
-**Existing 10 chains already cover (per their own text, pre-correction in places):** the founding
-"enabler, not protagonist" civic character modeled on the namesake (#1), the sediment-core paleoclimate
-research methodology (#2), Naturalist Ratna Wirawan's insistence on collective credit (#3), reading the
-fjords' differing freeze schedules for shipping advantage (#4), a naturalist visual-arts tradition
-documenting the terrain, framed against an industrial majority (#5), the smuggled-books network (#6),
-architecture sited around lake/fjord access rather than pure wind-defense (#7), a private, rarely-voiced
-wish for outside recognition of the terrain (#8), thirteen Notable-tier nations producing genuinely
-dispersed minority-heritage texture (#9), and mining/fabrication growing to outpace the founding research
-mission (#10, now superseded by the 2026-07-16 correction). New angles below are ones the existing 10
-don't touch, regardless of the mining/breadbasket discrepancy.
+**All 10 regenerated chains now cover:** the founding "enabler, not protagonist" civic character modeled
+on the namesake, now explicitly tied forward to the breadbasket economy it anticipated (#1); the
+sediment-core paleoclimate methodology, now also raising the question of whether Davis's own lakes
+shifted shape over its history (#2); Naturalist Ratna Wirawan's collective-credit choice, now grounded in
+her own Indonesian cultural background (#3); reading the fjords' differing freeze schedules for shipping
+advantage (#4); a naturalist visual-arts tradition as an overflow of the same observational instinct
+research and agriculture already demand, not a surprising contrast to an industrial economy (#5); the
+smuggled-books network, now correctly grounded in breadbasket/research resource competition (#6);
+architecture sited around lake/fjord access for a breadbasket economy's actual needs (#7); a private,
+rarely-voiced wish for outside recognition, now given a concrete alternate-history contrast via
+Vladivostok (#8); thirteen Notable-tier nations producing genuinely dispersed minority-heritage texture
+(#9); and agriculture growing to become co-equal with (not dominant over) the founding research mission
+(#10). New angles below are ones none of the 10 touch, regardless of the regeneration.
 
 1. **Division of industry → history.** China's own Catalog entry explicitly flags "equitable distribution
    of Davis's own agricultural output to the rest of Tepenia treated as a genuine justice question, not

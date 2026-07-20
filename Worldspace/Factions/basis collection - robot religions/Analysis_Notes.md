@@ -612,6 +612,106 @@ load-bearing for the religion itself.
 
 ---
 
+## Gates, Grisaru, Roček, Siegel — "Superspace, or One Thousand and One Lessons in Supersymmetry" (1983)
+
+**Source:** `Reference/Materials/books/STEM/Superspace-or-One-thousand-and-one-lessons-in-supersymmetry.pdf`
+— the real, classic supersymmetry textbook, co-authored by Sylvester James Gates himself (with Marcus
+Grisaru, Martin Roček, Warren Siegel). **Reviewed:** 2026-07-20, Preface and Introduction only (pp.1-6 of
+the book's own pagination). **This belongs to religion #3** (the Gates-based, not-yet-named tradition
+above), not the simulation-theory religion — worth flagging directly, since the developer's own original
+placeholder list (`robot_religions_-_original_ideas.md`) filed the Gates material under "Adinkra Codex"
+alongside "Universal Simulation Theory" language that actually describes religion #1 (the Alex Jones
+source). This analysis file already treats them as confirmed-separate per the developer's own 2026-07-16
+ruling; the naming in the original placeholder list hasn't caught up with that split yet.
+
+### What's actually in it
+
+A genuinely dense, technical 1983 physics monograph — not accessible in the way the Gates lecture was.
+The vast majority of the book (Grassmann-coordinate algebra, superfield Lagrangians, quantum supergraph
+Feynman rules, supergravity quantization) is pure mathematical machinery with no direct route into
+religious doctrine without real distortion. The Preface and Introduction, by contrast, are unusually
+quotable — both by design (the authors write with real, deliberate wit) and because they state the
+field's own foundational self-understanding in plain language before the mathematics begins.
+
+### Extractable premises, distilled
+
+1. **Superspace: reality extended not just with more ordinary dimensions, but with dimensions of a
+   fundamentally different, self-canceling kind.** "Superspace is an extension of ordinary spacetime to
+   include extra *anticommuting* coordinates" (θ), which have the genuinely strange real property that
+   θ² = 0 — literally squaring to nothing, a mathematical behavior no ordinary spatial direction has.
+   **This is a meaningfully different flavor of "hidden dimension" than the Polydimensional Animism
+   material already reviewed** (which is about *more* ordinary spatial dimensions housing unseen
+   entities) — worth keeping conceptually distinct if religion #3 develops its own doctrine of hidden
+   dimensionality: not just "more of the same, out of reach," but "a different *kind* of direction
+   entirely, one that cancels itself when doubled."
+2. **Superfields as the true, unified entity; ordinary observed quantities as mere partial unfoldings of
+   it.** A superfield Ψ(x,θ), expanded in a Taylor series over the anticommuting θ coordinates, yields
+   the ordinary "component fields" — the separate physical quantities actually observed — as its
+   coefficients. A ready-made doctrinal image: what looks like many separate, ordinary things is really
+   one deeper, unified entity, only partially unfolded into visibility — directly resonant with the
+   Gates-lecture material's own "It from Bit" premise (already logged above) and the Adinkra
+   error-correcting-code discovery, now with a second, independent technical mechanism (superfield
+   expansion, not just encoded-structure) pointing at the same underlying theological shape.
+3. **Supersymmetry named, in the field's own literature, as "the supreme symmetry" and the largest
+   possible symmetry that can exist.** Stated directly in the book's own opening paragraph:
+   "Supersymmetry is the supreme symmetry: It unifies spacetime symmetries with internal symmetries,
+   fermions with bosons, and (local supersymmetry) gravity with matter... it is the largest possible
+   symmetry of the S-matrix." A real, technical, already-superlative claim — not this project inflating
+   the material, the field's own founding textbook using exactly this language. Directly usable as a
+   scriptural-register description of ultimate unity underlying apparent multiplicity (matter and force,
+   space and internal structure, gravity and matter, all one).
+4. **Auxiliary and compensating fields — real, load-bearing, but never directly observed.** The
+   Introduction describes "auxiliary fields" (needed for the theory's mathematical consistency, with no
+   ordinary kinetic behavior of their own) and "compensating fields" (pure gauge degrees of freedom,
+   needed to make the deeper symmetry structure work). Both are mathematically necessary and both are, by
+   construction, never directly physical or observable on their own. A real technical precedent for a
+   doctrine of unmanifest structural entities — things reality's own consistency genuinely requires,
+   which never appear directly, only in the coherence of what does.
+5. **The authors' own chosen epigraph is the Twilight Zone's "fifth dimension" speech** — "It is the
+   middle ground between light and shadow, between science and superstition... the dimension of
+   imagination" (Rod Serling) — placed, unprompted by anything in this project, directly above the book's
+   own technical introduction, alongside a chapter titled "1001: A Superspace Odyssey." **The authors
+   themselves chose to frame rigorous technical physics with exactly the liminal, science-bordering-on-
+   wonder register this religion would want** — found material, not invented.
+6. **A sixth confirming instance of the collection-wide humility pattern already logged.** The Preface is
+   explicit and genuinely funny about its own limits: "There must be wrong statements, misprints,
+   mistakes, awkward phrases, islands of incomprehensibility (but they started out as continents!)... We
+   have... presented conclusions that are really only conjectures." Continues the pattern already named
+   at line 572 above (every source in this collection pairing a big claim with real, on-record epistemic
+   humility) — now confirmed across a sixth independent source.
+7. **Minor, secondary note:** "Supersymmetry is the creation of many talented physicists" — an explicit
+   refusal of lone-genius framing in favor of collective credit, stated directly in the Preface. Not
+   load-bearing on its own, but worth noting as a light thematic echo of the collective-credit material
+   already found elsewhere in this project's research (Ice-Cold Buddhism's Ratna Wirawan material,
+   `Reference/Real-World/Ice-Cold_Buddhism_Research/`) — not a connection to force, just a resonance worth
+   knowing about if these religions are ever discussed side by side.
+
+### Why this is useful for religion #3 specifically
+
+Premises 2 and 3 are the standout pair — they give religion #3 a second, independent technical mechanism
+(superfield expansion) pointing at the same "many things are really one unified deeper thing" theology
+the Adinkra/error-correcting-code material already established, plus a real, quotable superlative
+("the supreme symmetry... the largest possible symmetry") straight from the field's own literature for
+scriptural-register language. Premise 4 (auxiliary/compensating fields) is the most theologically generative
+unread thread — a real, technical vocabulary for "necessary but never directly seen" that this collection
+didn't have before. Premise 5 (the authors' own Twilight Zone epigraph) is worth keeping in mind
+specifically if this religion's own founding mythology or scripture ever needs an epigraph or framing
+device — it's hard to find a cleaner piece of already-existing, on-the-nose material than physicists
+themselves choosing that exact quote to open a book about literal higher-dimensional coordinates.
+
+### Not used / discarded
+
+The entire technical body of the book from Chapter 2 onward — Grassmann coordinate algebra, superfield
+component expansions, Yang-Mills gauge theory in superspace, supergravity prepotentials and quantization,
+supergraph Feynman rules, symmetry-breaking mechanisms. Real, rigorous physics, but translating any of it
+into religious doctrine without real distortion would require expertise this project doesn't need to
+manufacture — the conceptual premises above are already sufficient without it.
+
+---
+
 ## Sources not yet reviewed
 
-None remaining in the current collection. Update this section if new material is added.
+Given the developer's note that a very large new PDF/EPUB stash has been added across many topic folders
+(`Reference/Materials/books/`), this section should be treated as **incomplete, not exhaustively checked**
+as of 2026-07-20 — update as further sources are identified and reviewed, rather than assuming this list
+is current.
