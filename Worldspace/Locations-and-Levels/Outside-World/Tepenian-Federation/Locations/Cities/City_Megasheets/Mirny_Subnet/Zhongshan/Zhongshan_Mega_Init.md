@@ -72,7 +72,7 @@ the artisan-tradition founder (Táng Wǔ) are both named; the literary figure (t
 deliberately kept unnamed by the city's own privacy norm, a design choice rather than a gap. Ji-Eun Kim
 — the fourth, already-established figure — is now also given a dedicated chain: newly-drafted Suggestion
 #11, "The City That Didn't Ask" (`Course_of_Events/Zhongshan_11_The_City_That_Didnt_Ask.md`), consistent
-with her own established backstory (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/Ji-Eun Kim/README.md`)
+with her own established backstory (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Ji-Eun Kim/README.md`)
 that she relocated to Zhongshan from Sejong and "spent significant time there before moving to
 Concordia." Also resolved: three of five notable landmarks — the rock formation (the Standing Stone,
 Suggestion #10), the artisan quarter (the Crossing Quarter, Suggestion #5), and the counterculture

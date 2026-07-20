@@ -268,7 +268,7 @@ Each of the 6 subnet DLCs (2-7) reserves space for one recruitable, romanceable 
 
 ### Maggie Aarden — DLC 2 / Byrd *(confirmed companion; home not yet designed)*
 
-Confirmed recruitable and romanceable companion (`Characters/Dolls/Still-Present_-_In-Game/Maggie Aarden/`), settled permanently in Byrd — **confirmed canonical, 2026-07-10.** Her companion home has no design at all yet — likely to draw on Byrd's own established underground, mechanized-fabrication character (see `Cities/City_Megasheets/Byrd_Subnet/Byrd/`) once it's picked up, consistent with how every other companion home in this file reflects its own city or district's defining texture.
+Confirmed recruitable and romanceable companion (`Characters/Dolls/Still-Present_-_In-Game/recruitable/Maggie Aarden/`), settled permanently in Byrd — **confirmed canonical, 2026-07-10.** Her companion home has no design at all yet — likely to draw on Byrd's own established underground, mechanized-fabrication character (see `Cities/City_Megasheets/Byrd_Subnet/Byrd/`) once it's picked up, consistent with how every other companion home in this file reflects its own city or district's defining texture.
 
 **Acquisition:** Romance Maggie Aarden (full questline TBD).
 
@@ -308,6 +308,6 @@ No character identity chosen yet. Janbogo subnet's own established texture (Janb
 
 ### "Charlene" (XT-17) — DLC 7 / Vostok, Mirny Subnet *(reserved, not yet designed)*
 
-Vostok's own resident geneticist (`Characters/Dolls/Still-Present_-_In-Game/TBN [XT-17 unorthodox science teacher Charlene]/`), potentially recruitable at Vostok itself. Her own file currently lists Companion Potential as "Undecided" — romance status not yet confirmed. No home design exists yet; likely to draw on Vostok's own established genetics-archive-too-vast-for-one-mind character once picked up.
+Vostok's own resident geneticist (`Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/`), potentially recruitable at Vostok itself. Her own file currently lists Companion Potential as "Undecided" — romance status not yet confirmed. No home design exists yet; likely to draw on Vostok's own established genetics-archive-too-vast-for-one-mind character once picked up.
 
 **Acquisition:** TBD.

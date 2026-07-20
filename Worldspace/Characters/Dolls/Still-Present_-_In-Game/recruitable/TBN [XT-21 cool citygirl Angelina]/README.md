@@ -5,7 +5,8 @@
 **Role / Archetype:** Hub-born free spirit; crossroads identity figurehead
 **Primary Location(s):** Hub (Axis Mundi)
 **Affiliation(s):** The Crossroads Claim (Hub-born political identity movement — potential faction seed)
-**Companion Potential:** Undecided
+**Companion Potential:** Yes — **confirmed 2026-07-20** (previously "Undecided," now resolved per `Companion_System.md`'s "Roster source of truth" — she was not one of the developer's named exceptions)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:** TBD

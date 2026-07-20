@@ -4,7 +4,7 @@
 **Course of Events Suggestion #11**, translated from `Dumont_dUrville_Course_of_Events_Suggestions.md`
 into `z-template_-_city_histories_conflict_variant.md`. Grounded in the Mega_Init's own flagged "single
 most significant open question" — Pink Lucy's pre-war role at Dumont d'Urville, her origin city per her
-own confirmed character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/TBN [FW-25 Pink
+own confirmed character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [FW-25 Pink
 Lucy]/README.md`). Her migration route (Dumont d'Urville → Janbogo) and her post-Janbogo fate are already
 resolved or deliberately left open elsewhere and are not touched here — this chain stays strictly within
 her confirmed Dumont d'Urville years, before she ever leaves. It does not name her personal name (still

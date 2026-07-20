@@ -157,7 +157,7 @@ The Australian founding infrastructure included research and scientific capacity
 
 Casey was the last coastal city on the route to Concordia — separated from it by the long inland drive on Hwy 110. Refugees from Casey and the broader Mirny subnet coastal cities are present in Concordia, though not as concentrated a community as the Janbogo diaspora in Gemini.
 
-**Pink Lucy (TBN FW-25) — Route B retired** *(corrected 2026-07-13)*: her migration route was resolved 2026-07-12 as Dumont d'Urville → Janbogo directly, retiring the Route B possibility this section previously tied to Casey's own destruction timing. See `Characters/Dolls/Still-Present_-_In-Game/TBN [FW-25 Pink Lucy]/README.md`.
+**Pink Lucy (TBN FW-25) — Route B retired** *(corrected 2026-07-13)*: her migration route was resolved 2026-07-12 as Dumont d'Urville → Janbogo directly, retiring the Route B possibility this section previously tied to Casey's own destruction timing. See `Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [FW-25 Pink Lucy]/README.md`.
 
 ---
 

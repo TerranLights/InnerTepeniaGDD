@@ -1,6 +1,6 @@
 # XT-21 "Angelina" — Questline Notes
 
-> Recruitability TBD. Notes written for [?] status. Subvariant TBD.
+> Recruitability confirmed 2026-07-20 (see main README). Subvariant TBD.
 
 ## Recruiting Quest
 

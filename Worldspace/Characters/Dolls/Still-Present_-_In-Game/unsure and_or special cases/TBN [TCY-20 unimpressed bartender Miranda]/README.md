@@ -5,7 +5,7 @@
 **Role / Archetype:** Hub bartender; crossroads witness; internalized moral standard
 **Primary Location(s):** Hub (Axis Mundi) — crossroads bar
 **Affiliation(s):** The Quiet Shift (night-workers ethic — existing preliminary faction candidate)
-**Companion Potential:** No — NPC
+**Companion Potential:** Undecided — **corrected 2026-07-20** (previously hardcoded "No — NPC," now stale). The developer's own instinct is that she may actually operate a real in-game bar as its bartender — consistent with her already-established role above — but recruitability is genuinely unresolved, not decided either way (see `Companion_System.md`'s "Roster source of truth"). If confirmed non-recruitable, she'd follow the Majyao Bisyugota pattern — full companion + romance questline, location-anchored, never joins the active party — rather than being a pure NPC with no romance arc.
 
 ## Core Identity
 **Activation Date & Origin:** TBD

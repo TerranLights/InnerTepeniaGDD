@@ -920,6 +920,6 @@ opportunistic candidates, none designed in detail yet:
 - `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #11)
 - `Orbital_Infrastructure_Mass_Budget.md`, `Von_Braun_Wheel_Mass_Budget.md`,
   `Design_Efficiency_Comparison.md` (companion Theoretical-Calculations files)
-- `Worldspace/Characters/Dolls/Still-Present_-_In-Game/Kendra Heinrich/
+- `Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Kendra Heinrich/
   DLC_South_Pole_Level_Design.md` — applies the math in this file to DLC 1's site
   condition, level design zones, and a proposed answer to "what defeated her"

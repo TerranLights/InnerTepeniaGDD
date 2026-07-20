@@ -1,11 +1,11 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+## TBN (designation: SE-031) / "Akina"
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+**Role / Archetype:** TBD — the developer is taking time to develop her personality and how she interacts with her environment before locking this in (2026-07-20); see `Personal_Background/PreWar_History.md` for what's established so far
+**Primary Location(s):** Palmer City, pre-war (confirmed); current location deliberately undecided — not in Palmer City, possibly not even the Palmer subnet, "very secluded" (2026-07-20, not yet resolved)
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — genuinely unresolved as of 2026-07-20, and the developer has flagged her story as extremely delicate, requiring the utmost care (see `Companion_System.md`'s "Roster source of truth"). If confirmed non-recruitable, she'd follow the Majyao Bisyugota pattern — full companion + romance questline, never joins the active party — rather than having no romance arc at all.
 
 ## Core Identity
 **Activation Date & Origin:**

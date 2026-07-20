@@ -2,10 +2,10 @@
 
 ## TBN (designation: FR-03) / "Maria"
 
-**Role / Archetype:** Billiards player / venue regular — TBD
+**Role / Archetype:** Billiards player / venue regular — TBD; **developer's own instinct, 2026-07-20: she may actually operate a leisure establishment (a billiards hall), not just frequent one**
 **Primary Location(s):** Hub (Axis Mundi) or Pisces (The Markets) — TBD pending Enneagram
 **Affiliation(s):** TBD
-**Companion Potential:** TBD
+**Companion Potential:** Undecided — recruitability genuinely unresolved as of 2026-07-20 (see `Companion_System.md`'s "Roster source of truth"). If she does operate her own venue, that favors the Majyao Bisyugota pattern — full companion + romance questline, location-anchored, never joins the active party — over standard recruitment.
 
 ## Core Identity
 **Activation Date & Origin:** TBD

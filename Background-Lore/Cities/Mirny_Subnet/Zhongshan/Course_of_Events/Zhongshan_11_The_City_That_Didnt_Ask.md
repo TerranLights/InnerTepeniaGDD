@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #11**, translated from `Zhongshan_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Ji-Eun Kim's own confirmed, already-
-established backstory (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/Ji-Eun Kim/README.md`): after
+established backstory (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Ji-Eun Kim/README.md`): after
 her first landing at Sejong, she relocated to Zhongshan, "a deeply Chinese city on Prydz Bay whose
 cultural insularity and serious technical character suited her," and spent significant time there before
 eventually moving to Concordia. This chain stays strictly within that already-established window — her
