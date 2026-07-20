@@ -69,7 +69,8 @@ See `Personal_Background/` for details as they develop.
 - Quest Title: "The Last Stage" (working title)
 - Core conflict & emotional stakes: She has been moving forward since the war — performing, building, staying in motion — and it has worked. The companion quest is the moment it stops working, when something forces her to sit with the permanent loss of the dream that brought her to Palmer City. On the other side, she has to decide what her life means now that there is no nation left to be famous in.
 - Major themes: Grief for a foreclosed future; the difference between performing joy and having it; what you become when the original answer is permanently unavailable
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD — broad structure confirmed, specifics pending city development
+- **Mechanism (charted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** inciting hook is a bandmate/creative partner she was separated from during the Amundsen Tower evacuation, now believed off-world; her own lack of any faction/institutional affiliation categorically bars her from investigating it herself. The player does via 5 non-build-gated stat approaches plus 8 non-stat world-state routes (including one via Vosora Lashár Tanslock's off-world comms work, and a Wild Child/Libra route) — see `Questlines/README.md` and `Questlines/Personal_Questline_Summary.md`.
+- Possible endings (Good / Neutral / Bad / Secret / Abandonment): broad structure confirmed (Peace / Rededication / Grief / hidden "Other Dream") — specifics pending city development
 
 ## Relationships & Hooks
 - Key connections: TBD

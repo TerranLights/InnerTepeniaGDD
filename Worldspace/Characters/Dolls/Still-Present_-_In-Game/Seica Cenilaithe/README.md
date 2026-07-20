@@ -75,7 +75,8 @@ Occupation TBD. See `Personal_Background/` for details as they develop.
 - Quest Title: "The One I Couldn't Stop" (working title)
 - Core conflict & emotional stakes: Her husband was killed in the Long Night War and the people responsible are unreachable. An Sx-8w7 with no outlet for grief-as-rage has to find some other way to live with it. Her art and spirituality are the current answer. The companion quest is about whether that is enough — and what happens when something reachable finally appears.
 - Major themes: The limits of power; hatred with no target; what fidelity to someone looks like when they are gone; whether rage can be a form of love
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD — broad structure confirmed, specifics pending development
+- **Mechanism (charted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** inciting hook is something traceable connected to Upper Earth's legacy inside Concordia; her own established cinematic beat (detecting a lie and shooting the liar instantly, no hesitation) is the categorical block — her reputation makes patient/undercover investigation structurally impossible for her. The player does via 5 non-build-gated stat approaches plus 8 non-stat world-state routes (including a Wild Child/Scorpio route) — see `Questlines/README.md` and `Questlines/Personal_Questline_Summary.md`.
+- Possible endings (Good / Neutral / Bad / Secret / Abandonment): broad structure confirmed (The Name / The Target / The Reckoning / The Fire) — specifics pending development
 
 ## Relationships & Hooks
 - Key connections: TBD

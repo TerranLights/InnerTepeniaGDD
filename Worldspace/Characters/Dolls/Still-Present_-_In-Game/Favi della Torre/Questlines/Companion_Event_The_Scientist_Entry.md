@@ -1,7 +1,9 @@
 # Favi della Torre — Companion Event: "The Scientist Entry"
 
-**Type:** Standalone companion event — may or may not intersect with Favi's personal questline; can fire independently of questline state
+**Type:** Standalone, OPTIONAL companion event — bonus flavor only, not required to complete Favi's personal questline
 **Requires:** DLC 5 (Halley subnet) completed far enough to receive the datashard stash from Salagéa Aparast (or another NPC with access); player must have chosen to take the stash and returned to Concordia with it
+
+**Status, reworked 2026-07-19:** this event is no longer the delivery mechanism for Favi learning what happened to the scientist — that's a base-game requirement and can't depend on DLC ownership. The canonical mechanism is now Eyes of Gold's own intelligence-gathering reach, delivered within her main personal questline ("The Long Watch," see `README.md`, "The Shape of It" ending). This DLC event survives as optional early/alternate flavor for players who happen to reach DLC 5 before finishing her personal questline — see the sequencing note under Design Notes below for how the two should interact if both are in play.
 
 ---
 
@@ -33,6 +35,7 @@ She did not know this before this moment. She had made whatever peace was availa
 - **Nature of their relationship (TBD):** confirmed NOT romantic. The remaining question is whether it is best characterized as paternal/daughter or something more complex. He commissioned her construction — he did not personally build her — but she was made for him and the relationship that developed was real and deep. This must be decided before the datashard text and Favi's dialogue are written, as it shapes what her despair means and how she expresses it
 - **Scientist's name:** TBD
 - **Follow-up:** what Favi says or does after this moment — whether she wants to be alone, whether she asks the player to leave, whether she says nothing — is TBD for dialogue design; the beat itself is confirmed; the aftermath is open
+- **Sequencing with "The Long Watch" (added 2026-07-19):** if the player triggers this DLC event before reaching "The Shape of It" in her main personal questline, the questline beat should acknowledge she already knows rather than re-delivering the same revelation — the emotional beat shifts from Eyes of Gold uncovering the information to the player watching her carry it into that later moment. If the player never touches DLC 5, "The Shape of It" delivers the revelation on its own via Eyes of Gold, no DLC content required either way.
 
 ---
 

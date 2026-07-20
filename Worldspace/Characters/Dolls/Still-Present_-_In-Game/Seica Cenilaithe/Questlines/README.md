@@ -24,6 +24,29 @@ Her husband was killed in the Long Night War. The people responsible — Upper E
 
 The companion quest is about what happens when something reachable finally appears — and whether what she does with it is justice, or something else.
 
+**Inciting hook (established 2026-07-20):** reuses recruiting-hook direction #2 above as the personal questline's own hook — the player uncovers something connected to Upper Earth's legacy inside Concordia: a decision, an agent, an institution with direct, real culpability, not innocent people. For the first time, her hatred has somewhere to go.
+
+**Categorical block (per `Companion_System.md`'s Personal Questline Design Rule):** already fully written into her established character. Her own planned cinematic beat (see Design Notes in her README — an Upper Earth operative lies to her face; she detects it immediately and puts him down point-blank, then calmly reloads) establishes exactly why she cannot run this investigation herself. Any patient, undercover, or diplomatically neutral approach to a suspected Upper Earth agent or institution requires exactly the restraint she is known to be incapable of. Her reputation precedes her — nobody who might actually know something about a live Upper Earth connection will risk being anywhere near her. **This is a structural exclusion, not a moral one** — the same quality that makes her formidable (an 8w7 who does not threaten, does not negotiate, and does not hesitate once the decision is made) is exactly what disqualifies her from ever getting close enough to find out. The player, carrying none of that reputation, can get close where she never could.
+
+**5 stat-based approaches (non-build-gated, deterministic):**
+1. **Investigation-driven:** methodically trace organizational and paper trails connecting to Upper Earth's residual presence in Concordia.
+2. **Calculation-driven:** cross-reference financial, logistical, or administrative records for the inconsistencies that point to a real decision or institution.
+3. **Nerve-driven:** confront a suspected operative or institutional representative directly, unafraid of the risk.
+4. **Humanity-driven:** earn the trust of someone who might know something — specifically someone who would never risk that trust with Seica present.
+5. **Engine-driven:** persistence — following leads through dead ends over time until something real surfaces.
+
+**Non-stat, world-state-based approaches (target 7–12, floor of 3):**
+1. **Upper Earth Defector subcommunity route:** approachable by the player in a way Seica's own reputation forecloses — genuinely remorseful defectors have every reason to avoid her specifically, but not the player.
+2. **Scorpio Goth community route:** her own community may hold rumors or fragments relevant to Upper Earth's legacy that nobody has ever thought to raise around her directly — too raw, too personal, too likely to detonate something.
+3. **Archive of Final Confessions route:** already flagged as thematically relevant — a Scorpio institution built around confession and reckoning is a plausible place for records or testimony connected to a defector's past to surface.
+4. **Libra diplomatic-records route:** formal institutional records touching Upper Earth relations plausibly route through Libra; accessible via ordinary positive standing there.
+5. **Gemini/Janbogo information route:** consistent with the pattern used elsewhere in this pass (Favi, Ayako, Naizelle) — Janbogo's information networks may hold relevant data.
+6. **A specific remorseful defector NPC route:** someone who genuinely wants to talk, who would never approach Seica directly given what he knows she'd do, but whom the player can find and earn the trust of independently.
+7. **A legacy document/item route:** a document or object tied to the specific decision or institution turning up in unrelated salvage or discovery — no check required.
+8. **Wild Child/Scorpio route:** an uncategorizable Wild Child case is exactly the kind of contradiction the Archive of Final Confessions exists to sit with, professionally and spiritually — an archivist working through the player's own irreconcilable record might cross-reference the same files that hold what the player is actually looking for. Different flavor from the bureaucratic-filing version used for Ayako/Flora/Villena/Naizelle — confessional and psychological rather than administrative.
+
+**No faction-antagonism route** — her hatred targets Upper Earth as a whole, not a specific in-city district or faction, so the pattern doesn't map cleanly onto her; not forced.
+
 ### Themes
 - Hatred with no target: what an 8w7 carries when the people responsible are structurally unreachable
 - Whether rage can be a form of fidelity — keeping the fire as a way of honoring who was taken

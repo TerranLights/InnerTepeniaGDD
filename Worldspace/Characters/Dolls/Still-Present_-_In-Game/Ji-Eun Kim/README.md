@@ -88,10 +88,11 @@ Three interlocking reasons, all of which are true simultaneously:
 - "Not my problem" / hidden path potential: TBD
 
 ## Personal Questline Hook
-- Quest Title: TBD (emerges from "Echoes of the Bridge")
+- Quest Title: "The Shape of a Key" (emerges from "Echoes of the Bridge")
 - Core conflict & emotional stakes: A robot who built something remarkable in exile, then disappeared — not because she was driven out, but because she chose to go. Finding her means confronting someone who made a deliberate, costly, and defensible decision to stop being findable. The questline is not about rescuing her. It is about whether she wants to be found, and what finding her costs both parties.
 - Major themes: Exile and self-determination; the difference between disappearing and being free; what it means to build something for someone who isn't there to receive it; the cost of the first thing you ever do for yourself.
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD
+- **Mechanism (TENTATIVE, charted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** applies specifically to Option A of the companion quest — her own concealment protocol is the categorical block on investigating the threat hunting her herself. 5 stat approaches plus 9 non-stat world-state routes (including a faction-antagonism route and a persuasion-flavored Wild Child/Aquarius route) sketched in `Questlines/README.md`. **Still open: the hunting threat's identity, motivation, and justifiability — flagged, not yet resolved.**
+- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD — pending the open threat-identity question above
 
 ## Relationships & Hooks
 - Key connections: Calethina (tracks her; questline anchor), Eyes of Gold (faction she served as technical ally), player (recipient of her gold ocular implant design at max Eyes of Gold standing)

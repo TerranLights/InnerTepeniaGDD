@@ -69,10 +69,11 @@ See `Personal_Background/` for details as they develop.
 - "Not my problem" / hidden path potential: TBD
 
 ## Personal Questline Hook
-- Quest Title: TBD
-- Core conflict & emotional stakes: TBD
-- Major themes: TBD
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD
+- Quest Title: "What the Corruption Took"
+- Core conflict & emotional stakes: Was the Great Corruption an accident or something else? Resolved 2026-07-20 (per the non-malice lock on Gemini's canon): a genuine accident born of Libra's own founding-era negligence — but still dangerous to prove, since the lost records would prove real structural inequities and expose that negligence at real cost to Libra's legitimacy.
+- Major themes: What a civilization that controls its own history does when someone starts recovering what it edited; the difference between what is lost and what was hidden; what it means when the truth is negligence and self-interest rather than conspiracy
+- **Mechanism (charted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** her own slow-verification identity, counter-culture to Janbogo's "speed as moral value," is the categorical block. The pressure on her comes from a sympathetic, genuinely convinced Libra official (shared antagonist structure with Vosora Lashár Tanslock — different officials, non-overlapping questlines, see `Questlines/README.md`). 5 stat approaches plus 9 non-stat world-state routes (including a Wild Child/Long Frequency route) sketched in `Questlines/README.md` and `Questlines/Personal_Questline_Summary.md`.
+- Possible endings (Good / Neutral / Bad / Secret / Abandonment): broad structure confirmed (Publication / Leverage / The Shape of the Gap / Discovery-Twist) — specifics pending city development
 
 ## Relationships & Hooks
 - Key connections: TBD

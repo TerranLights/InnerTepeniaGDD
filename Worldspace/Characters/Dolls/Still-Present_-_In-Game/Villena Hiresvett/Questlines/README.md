@@ -21,6 +21,29 @@ The companion quest is the moment that stops working. Something — a specific e
 
 On the other side of that reckoning, she has to decide what she actually wants her life to mean — not as a consolation prize, but as a genuine answer to the question the war left open.
 
+**Inciting hook (established 2026-07-20):** in the chaos of the crowd trying to catch the last transport before Amundsen Tower fell, Villena was separated from someone she'd been traveling with — a bandmate or creative partner from her Palmer City days, someone who shared the actual dream with her, not just a colleague. She believes that person made it onto the last transport without her. She's never known what happened to them since. This is the real weight under "no consistent band yet, too soon after the war" — not just timing, but not knowing if the person she'd rebuild with is even alive. **Note: the last ride up went off-world, not to another ground city** — anyone who made it is now among the Tepenians who escaped into space, not somewhere reachable in Concordia. This adds a third layer to "she will never see the stars": literal (Concordia's enclosed sky), figurative (the national fame that's gone), and now personal (the person she lost might be, literally, among the stars she'll never see).
+
+**Categorical block (per `Companion_System.md`'s Personal Questline Design Rule):** Villena is fully independent — no faction, no institutional affiliation, already established as load-bearing in her own file. She's never had any standing or channel to formally request evacuation/survivor records from that night, and her whole coping style (7w6: keep moving, find the next show) means she's never gone looking informally either. The player can do both — a structural exclusion, not a stat gap.
+
+**5 stat-based approaches (non-build-gated, deterministic):**
+1. **Investigation-driven:** trace the evacuation's actual documentary/physical record trail directly.
+2. **Calculation-driven:** cross-reference partial survivor or relocation lists for a match.
+3. **Nerve-driven:** press a reluctant records-holder or witness directly.
+4. **Humanity-driven:** earn someone's trust so they share what they know willingly.
+5. **Engine-driven:** sheer persistence — follow-through across dead ends until something turns up.
+
+**Non-stat, world-state-based approaches (target 7–12, floor of 3):**
+1. **Leo recognition-hierarchy route:** the player's own separate standing in Leo taps gossip networks Villena is too close to have ever mined for this specific question.
+2. **Cross-district fan network route:** her own established fan base (Taurus, Virgo, Cancer) — used by the player toward a question she never thought to ask her own audience.
+3. **Sagittarius logistics/records route:** expedition-and-evacuation-adjacent record-keeping, accessible through player standing there.
+4. **Libra administrative-records route:** a plain formal request, using ordinary positive standing — no antagonism angle, since none is established for her.
+5. **Vosora Lashár Tanslock route:** Vosora has been maintaining communication with the Tepenians who escaped into space since the war (her own established role) — and, as the person who organized the Amundsen Tower's own pre-war logistics, has a personal stake in the Tower's fallout too. Gaining her trust lets the player ask around among people currently in orbit — the only route that can actually reach where the missing person may be.
+6. **Palmer City diaspora route:** a community of fellow Palmer City transplants in Concordia, with their own informal network — useful for corroborating who was traveling with Villena that night, even though it can't reach anyone who made it off-world.
+7. **A legacy recording/item route:** something from her old act turning up unexpectedly (a Pisces stall, an estate find) carrying a clue — no check required.
+8. **Wild Child/Libra route:** a player holding Wild Child status at Libra can't be filed into its normal categories, forcing individualized handling — an administrator trying to make sense of an uncategorizable case pulls more files than they should, and the record surfaces as an incidental side effect.
+
+**No faction-antagonism route** — nothing in Villena's established file supports a negative relationship with a specific faction/district, so none is forced here (same call made for Ayako).
+
 ### Themes
 - Grief for a foreclosed future — the dream that was real and is now structurally impossible
 - The difference between performing joy and actually having it (Leo's core tension, lived from the inside)

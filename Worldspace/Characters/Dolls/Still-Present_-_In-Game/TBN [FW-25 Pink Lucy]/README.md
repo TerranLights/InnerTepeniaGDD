@@ -65,10 +65,11 @@ Full backstory details in `Personal_Background/` as they develop.
 - "Not my problem" / hidden path potential: TBD
 
 ## Personal Questline Hook
-- Quest Title: TBD
-- Core conflict & emotional stakes: TBD
-- Major themes: TBD
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD
+- Quest Title: "Is This Real or Is This the Act?"
+- Core conflict & emotional stakes: Leo's central unanswered question — whether performing joy and actually having it have become confused — lives in her specifically. Her arc involves a crisis her positivity cannot reframe.
+- Major themes: The cost of being the person everyone counts on for good energy; whether performed joy eventually becomes real; what the 7 discovers on the other side of pain if they stop moving long enough to feel it
+- **Mechanism (charted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** inciting hook is a Warm-Circuit-served outer district in real war-legacy hardship that morale programming is making worse; her own professional-positivity role is the categorical block, since anyone she talks to performs gratitude back at her rather than the truth. 5 stat approaches plus 8 non-stat world-state routes (including a Wild Child route using a new "authenticity recognition" flavor) sketched in `Questlines/README.md`. **Placement-dependent:** assumes the main-game (Leo/Concordia) path; would need revisiting if she ends up in the Janbogo DLC instead (her placement is still an open question).
+- Possible endings (Good / Neutral / Bad / Secret / Abandonment): broad structure confirmed (Real / Both True / New Form) — specifics pending city development
 
 ## Relationships & Hooks
 - Key connections: TBD

@@ -160,12 +160,13 @@ Flora values competence, practicality, and protecting working people. Her approv
 
 ## Personal Questline Hook
 
-- Quest Title: TBD
-- Core conflict & emotional stakes: TBD
-- Major themes: TBD
-- Possible endings: TBD
+- Quest Title: TBD (working title "Old Reliable," charted 2026-07-20 — broad-scope guiding direction only)
+- Core conflict & emotional stakes: her low institutional trust traces back to a past crisis where her crew was let down by a broken (non-malicious, crisis-triage-driven) promise from central management/city governance; the questline's present-day trigger rhymes with it closely enough that she can't treat it with her usual detachment
+- Major themes: competence as both strength and shield; earned trust in specific people versus institutional promises; what it costs to be the one who never needs saving
+- **Mechanism (retrofitted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** her own public, vocal history with city governance/central management categorically bars her from getting a fair hearing on the new offer (not a skill gap — the officials already know exactly who she is). The player, with no such history, investigates in her place via 5 non-build-gated stat approaches plus 8 non-stat world-state routes (including a Libra route using the faction-antagonism pattern, and a separate Wild Child/Libra route) — see `Questlines/Personal_Questline_Summary.md`.
+- Possible endings: TBD in detail, but broad shapes charted — see `Questlines/Personal_Questline_Summary.md`
 
-See `Questlines/README.md` for design notes as they develop.
+See `Questlines/Personal_Questline_Summary.md` for the full broad-scope writeup, and `Questlines/README.md` for the design-notes framework.
 
 ## Relationships & Hooks
 

@@ -75,6 +75,7 @@ Full backstory details in `Personal_Background/`.
 - **Quest Title:** TBD (working title "The Unfinished Garment")
 - **Core conflict & emotional stakes:** Broad-scope direction charted 2026-07-20 — grief transmuted entirely into vocation vs. grief actually faced; someone finally being present for her the way nobody was present for the man she couldn't save.
 - **Major themes:** Precision as gift and shield; what it means to finish (or honestly leave unfinished) something made in loss.
+- **Mechanism (retrofitted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** a current Red Spiral case echoes the shape of the original accident; Red Spiral's own conflict-of-interest protocol categorically bars Ayako from investigating it herself (not just emotional reluctance — a structural exclusion tied to the faction's neutrality). The player investigates in her place via 5 non-build-gated stat approaches plus 8 non-stat world-state routes, including a Wild Child/Cancer route — see `Questlines/Personal_Questline_Summary.md`.
 - **Possible endings:** Not yet designed — likely no single "good" resolution to the grief itself, more a question of how she integrates it.
 
 Full broad-scope direction in `Questlines/Personal_Questline_Summary.md`. Full step-by-step design deliberately deferred until Concordia/Cancer district is developed enough to root it in real places.

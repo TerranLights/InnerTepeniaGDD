@@ -49,6 +49,34 @@ The quest is investigative and offensive: identify what is hunting her (an Upper
 
 By the time Ji-Eun goes through the transfer, there is nothing left to protect her from because the player already handled it. She is not vulnerable during the transfer. She simply does the work.
 
+**TENTATIVE — retrofit per `Companion_System.md`'s Personal Questline Design Rule, 2026-07-20:**
+
+**Open question, not yet resolved:** who is actually hunting Ji-Eun, why, what they stand to gain, and whether their actions have any justifiable rationale within Tepenia's established non-malice worldbuilding tone (see `Cross_District_Non_Malice_Audit.md` — the same filter applied across the district-level audit should apply here too, even though a hunter pursuing a specific fugitive individual is a different shape than a district-level historical injustice). This needs real design attention before Option A can be finished — everything below assumes a threat exists but does not depend on its specific identity.
+
+**Categorical block:** Ji-Eun cannot personally investigate or eliminate this threat, because doing so requires exactly the kind of exposure her entire concealment protocol exists to prevent. Surfacing to confront a hunter — tracing it, engaging it, ending it — means giving away her position to the very thing she's hiding from, at the precise moment (the transfer itself) when she's about to become genuinely vulnerable. **This is a structural exclusion, not a trust issue or a combat-capability gap** — she is, by every established measure, one of the most capable people in Concordia. She simply cannot do this specific thing without undoing the years of work that made it possible for her to still be alive and unfound. This is already implicit in the existing draft above (the requirement that the threat be cleared before she deactivates); the retrofit just names why it has to be the player's work.
+
+**5 stat-based approaches (non-build-gated, deterministic):**
+1. **Investigation-driven:** methodically trace intelligence and surveillance trails back to whoever is hunting her.
+2. **Calculation-driven:** analyze patterns in the threat's movement and behavior to predict and intercept it.
+3. **Nerve-driven:** direct, aggressive confrontation — hunt the hunters down before they can regroup.
+4. **Humanity-driven:** turn or recruit a source inside the threat organization who's willing to help end it from within.
+5. **Engine-driven:** a sustained campaign — grinding down the threat's resources and redundancies until nothing is left to come back with.
+
+**9 non-stat, world-state-based approaches (target 7–12, floor of 3):**
+1. **Pisces route (corrected 2026-07-20, replacing an earlier Eyes of Gold draft — this pass was leaning on that faction too heavily across multiple companions):** Pisces' own underworld information economy is exactly the kind of channel where a bounty or contract on a hidden nanotech specialist would leave traces — a contact there, with genuine standing, could surface who's been asking around and for how much.
+2. **Aquarius route:** positive standing within her own home district's research community could surface unique insight into a threat with any Upper-Earth-tech signature.
+3. **Calethina route:** Calethina already tracks Ji-Eun and anchors this questline; her own pre-Split-Brain network access and fragmented nature could help trace the threat's digital footprint.
+4. **Gemini/Janbogo information route:** consistent with the pattern used across this pass (Favi, Ayako, Naizelle, Seica) — Janbogo's networks may hold relevant data.
+5. **Libra route:** if the threat has any institutional or Concordia-faction footprint, Libra's own records could help identify it.
+6. **A defector/insider NPC route:** someone within the threat organization who wants out, findable and befriendable independent of Ji-Eun.
+7. **A legacy item/evidence route:** physical evidence recovered from her ruined testing facility through unrelated salvage or exploration — no check required.
+8. **Faction-antagonism route (Virgo / Aries / Cancer / Capricorn / Gemini):** the strongest-grounded antagonism route in this whole pass, because it's already documented in this file, not inferred — Option B below independently establishes that these five districts all have confirmed negative relationships with Aquarius. A player with genuine positive standing in any of them can get cooperation those districts would readily give precisely because of their friction with Aquarius — a channel Ji-Eun's own deep, if hidden, ties to Aquarius work against, not for.
+9. **Wild Child/Aquarius route (leverage flavor, not the bureaucratic-filing default — see `Companion_System.md`):** a player who's simultaneously Idolized and Vilified in Aquarius is a genuine wildcard to anyone weighing which side to back — including someone connected to, or informed about, whoever is hunting Ji-Eun. That person could be persuaded to cooperate or leak information now, precisely because betting on the player, given their extreme and unresolved reputation, seems worth the risk — modeled directly on Fallout: New Vegas's Wild Child/NCR mechanic in Arcade Gannon's companion quest (talking Moreno into fighting alongside the NCR now, with betrayal left as a live possibility later). Nothing guarantees the player actually honors whatever was implied to secure the cooperation.
+
+**Resource-tension flag, not resolved now:** route 8 spends the exact same reputation resource Option B's price mechanic below would otherwise tax (it checks the player's highest positive reputation among those same five districts). Since this document already states all three options "may be combined," this interaction — using the antagonism route to solve Option A potentially undercutting what's left to extract for Option B — is worth deliberately designing later rather than leaving as an accidental collision.
+
+**Options B and C, unaffected by this retrofit:** they remain the price/cost layer (a reputation hit or a direct permanent cost to the player character) rather than an investigative task, so the stat/non-stat structure above doesn't apply to them.
+
 ---
 
 ### Option B — The Price She Names
@@ -118,7 +146,7 @@ One of the most powerful things in the game. Also one of the most costly to use 
 
 - [ ] Which companion quest option (A, B, C) is used, or which combination
 - [ ] Option B fallback mechanic (player has no positive reputation with any of the five Aquarius-negative districts)
-- [ ] The threat hunting Ji-Eun — identity, nature, origin (Option A)
+- [ ] **The threat hunting Ji-Eun — identity, nature, origin, motivation, what they stand to gain, and whether any justifiable rationale exists within the established non-malice worldbuilding tone (Option A)** — flagged 2026-07-20 as needing real design attention; everything else in the Option A retrofit above is written to not depend on the specific answer
 - [ ] The specific honest question Ji-Eun asks in the recruiting conversation
 - [ ] The person Ji-Eun originally built the concealment for — identity, relationship, fate
 - [ ] Perk name ("Ghost Protocol" is a placeholder)

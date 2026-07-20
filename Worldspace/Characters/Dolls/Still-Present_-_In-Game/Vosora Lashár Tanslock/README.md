@@ -99,7 +99,7 @@ She happened to be in Concordia when the Long Night War began. She was unable to
 
 Since the war, she has been maintaining communication with the Tepenians who escaped into space — transmitting data signals containing schematics, records, and whatever the off-world community needs. This is the legitimate, visible layer of her current work.
 
-The less visible layer: she has been working the data recovery side of the Great Corruption investigation — reconstructing what was destroyed rather than verifying what survives. She has gotten close enough that whoever targeted those records is aware of it. She has been receiving pressure she has not disclosed to anyone.
+The less visible layer: she has been working the data recovery side of the Great Corruption investigation — reconstructing what was destroyed rather than verifying what survives. She has gotten close enough to proving what actually happened (a genuine accident, not sabotage — see `Questlines/README.md`) that a Libra official, sincerely convinced the truth would do more harm than good, has taken notice. She has been receiving pressure she has not disclosed to anyone.
 
 See `Personal_Background/` for timeline and detailed records.
 
@@ -117,6 +117,8 @@ See `Personal_Background/` for timeline and detailed records.
 ## Personal Questline — "What the Silence Says"
 
 **Core conflict:** The shape of what is missing in the Great Corruption is itself evidence. The size of the gaps, their location in the timeline, what topics they cluster around — all of this says something about who was erased and why. Vosora has been tracing that shape toward an answer that powerful people would prefer not to exist.
+
+**Mechanism (retrofitted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** her data recovery work stays entirely hers — the retrofit designs the antagonist pressuring her as a sympathetic, genuinely convinced Libra official (not a hostile organization — the Great Corruption itself is a genuine accident, per the binding non-malice lock on Gemini's canon), replacing the old "protect her during the vulnerable step" framing with a non-escort structure. Confronting a Libra official openly would destroy the institutional credibility her endings depend on, which is the categorical block. The player investigates in her place via 5 non-build-gated stat approaches plus 8 non-stat world-state routes (including a Wild Child/Janbogo route using a new "computational/systemic side-effect" flavor) — see `Questlines/README.md` and `Questlines/Personal_Questline_Summary.md`.
 
 **Themes:**
 - What a civilization that controls its own history does when someone starts recovering what it edited

@@ -72,10 +72,11 @@ See `Personal_Background/` for details as they develop.
 - "Not my problem" / hidden path potential: TBD
 
 ## Personal Questline Hook
-- Quest Title: TBD (working title pending)
+- Quest Title: "The Recovery" (working title)
 - Core conflict & emotional stakes: Something surfaces that connects to her pre-war life — a person, a place, a fragment of the music scene and the world she came from. A 5w6:Pr holds onto what is left of things quietly and does not process loss openly. The quest is about what she has been carrying from before the war, and whether she can do anything with it now.
 - Major themes: What you become when the world that made you is gone; survival vs. living; the compound as security and as limitation
-- Possible endings (Good / Neutral / Bad / Secret / Abandonment): TBD — broad structure confirmed, specifics pending
+- **Mechanism (charted 2026-07-20 per `Companion_System.md`'s Personal Questline Design Rule):** inciting hook is an old recording she played on, still circulating informally, disconnected from her; her defining Low-Profile Movement trait categorically bars her from personally chasing it down without endangering her compound. The player does via 5 non-build-gated stat approaches plus 8 non-stat world-state routes (including a Wild Child/Pisces route) — see `Questlines/README.md` and `Questlines/Personal_Questline_Summary.md`.
+- Possible endings (Good / Neutral / Bad / Secret / Abandonment): broad structure confirmed (Recovery / Acknowledgment / Release / Ground) — specifics pending
 
 ## Relationships & Hooks
 - Key connections: TBD
