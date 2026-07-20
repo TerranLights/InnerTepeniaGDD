@@ -2,6 +2,8 @@
 
 ## Trigger Condition
 
+**See `Game-Mechanics/Core-Mechanics/Reputation_System.md` for the full underlying reputation grid** — Wild Child is the bottom-right cell of that two-axis Fame/Infamy system (Fame Range 3 + Infamy Range 3 simultaneously), not a standalone mechanic invented just for these endings.
+
 These endings are available when the player holds **Wild Child** status — Idolized and Vilified simultaneously — with multiple districts of Concordia. Wild Child status is distinct from all other reputation states: it is not mixed reputation in the sense of some districts loving you and others hating you. It is a single district holding both extremes at once, because the player has done enough to be genuinely loved *and* enough to be genuinely despised by the same community.
 
 Wild Child is not ambiguity. Both sides are correct in what they are responding to.
