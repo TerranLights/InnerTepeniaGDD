@@ -4,6 +4,19 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Source Acquisition — String Theory / Kaluza-Klein Theory Books, flagged 2026-07-20
+
+The developer wants to acquire real books specifically on string theory and/or Kaluza-Klein theory. Confirmed
+2026-07-20 via a full filename/TOC sweep of `Reference/Materials/books/STEM/`: **no dedicated book on either
+subject currently exists in the library.** The closest available material is scattered and thin — Nakahara's
+*Geometry, Topology and Physics* has a single bosonic-string-theory chapter that's pure equations from its
+first line (its one usable fact: bosonic strings require exactly 26 dimensions), and nothing in the
+collection covers Kaluza-Klein compactification at all. See `Worldspace/Factions/basis collection - robot
+religions/Analysis_Notes.md`'s "Topology reference books" sections for the full account of what was and
+wasn't found. Once new books are acquired, they'd be prime material for Polydimensional Animism's own
+doctrine (see that same file) — this is the gap that most limits how much further that religion's
+real-world physics grounding can currently go.
+
 ## Megacorp Post-Falkland-Treaty Fate — flagged 2026-07-20, deliberately deferred
 
 New question, occurred to the developer while developing Imelda Sánchez: what happened to the
