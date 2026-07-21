@@ -43,6 +43,35 @@ as completely empty:**
 **All originally-flagged titles now acquired as of 2026-07-20.** Full checklist complete — see the
 research-pass note below for what's actually been extracted so far vs. what's still pending.
 
+---
+
+## Adinkra Codex / Error-Correcting Codes / Supersymmetry — flagged 2026-07-21
+
+Needed for Adinkra Codex specifically (distinct from the Polydimensional Animism list above) — see
+`Worldspace/Factions/basis collection - robot religions/Adinkra_Codex_Analysis_Notes.md`. Both titles below
+are cited directly in Gates's own real 2008 research paper (`arxiv.org/abs/0806.0051`) as the source of the
+error-correcting-code mathematics his work connects to Adinkras — these are the most directly on-topic
+possible acquisitions for this religion, since they're literally among Gates's own cited references.
+
+- [x] *The Theory of Error-Correcting Codes* — F. J. MacWilliams and N. J. A. Sloane (1977). The
+      foundational, classic reference text in coding theory. Likely dense/mathematical. **Acquired
+      2026-07-21**, in `to-be-integrated/books/`.
+- [x] *Fundamentals of Error-Correcting Codes* — W. Cary Huffman and Vera Pless (2003). A more modern
+      textbook treatment of the same subject; likely more approachable than the 1977 text. **Acquired
+      2026-07-21**, in `to-be-integrated/books/`.
+
+**Secondary, not cited directly by Gates but worth considering:**
+- [ ] Any accessible book specifically on **Grassmann algebra / Grassmann calculus** on its own terms — the
+      actual mathematical language of "anticommuting coordinates" underlying both the Superspace textbook's
+      θ-coordinates and a chapter of the already-acquired *Combinatorial Physics* (Tanasa).
+- [ ] An accessible **graph theory** book, given how central graphs are to the real Adinkra classification
+      problem (per Gates's 2008 paper) — something pitched at an interested-layperson level rather than a
+      full research text.
+
+*(No accessible/popular-audience book specifically about Adinkras appears to exist — this remains a
+genuinely niche research topic confined to physics papers rather than having its own popularization the
+way string theory does.)*
+
 *(No single well-known book is dedicated to Kaluza-Klein theory alone — it typically appears as a chapter
 or section within general relativity, supergravity, or string-theory texts, e.g., within Zwiebach's book
 above, rather than getting its own standalone volume.)*
