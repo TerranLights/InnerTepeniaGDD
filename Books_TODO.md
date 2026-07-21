@@ -104,3 +104,39 @@ genuine premise or two from their accessible opening sections despite being othe
 mathematics; Tanasa's *Combinatorial Physics* was confirmed to warrant no extraction at all. All nine books
 still sit in `to-be-integrated/books/`, not yet moved into `Reference/Materials/books/` proper — that move,
 plus updating `Book_TOC_Master_Reference.md` to reflect them, is the natural next step.
+
+---
+
+## God-mind Universe Simulation / Nihilism Subschools — flagged 2026-07-21
+
+Needed to elaborate the "God-mind simulation" religion beyond its current single source (the Alex Jones/Joe
+Rogan conversation, fully extracted — see `Analysis_Notes.md`'s own section). Developer specifically wants
+both the core simulation-theory doctrine *and* the Nihilism subschool (one of the religion's five named
+internal schools of thought, itself already split into existential/moral/epistemological/cosmic variants)
+elaborated with real source material.
+
+**Simulation theory core:**
+- [ ] *Are You Living in a Computer Simulation?* — Nick Bostrom (2003). The actual real philosophical paper
+      behind the pop-culture "simulation theory" idea; short, rigorous, foundational.
+- [ ] *Simulacra and Simulation* — Jean Baudrillard (1981). A different register from Bostrom (hyperreality,
+      critical theory) — a genuinely distinct second flavor of "simulation," not a duplicate angle.
+- [ ] "It from Bit" — John Archibald Wheeler. A real physicist's own proposal that reality is fundamentally
+      informational/participatory — a scientific, not just philosophical, anchor for reality-as-simulation.
+- [ ] *Reality+* — David Chalmers (2022). Recent, serious full-length philosophy arguing simulated worlds
+      are genuinely real, not fake — a more affirming counterweight to Bostrom's more skeptical framing.
+
+**Nihilism's four named subschools, each needs its own real anchor:**
+- [ ] Existential nihilism → Nietzsche, *The Gay Science* (the "God is dead" material) — canonical source.
+- [ ] Moral nihilism → J.L. Mackie, *Ethics: Inventing Right and Wrong* (1977) — real academic "error
+      theory," about as rigorous as moral nihilism gets.
+- [ ] Epistemological nihilism → Pyrrhonist/ancient skepticism (Sextus Empiricus), or a modern
+      radical-skepticism text if easier to find.
+- [ ] Cosmic/cosmicist nihilism → Eugene Thacker, *In the Dust of This Planet* (2011) — real contemporary
+      philosophy of cosmic pessimism, closest existing academic anchor for this specific flavor.
+
+**Also worth sourcing for the religion's two non-Nihilism named subschools, while hunting for the above:**
+- [ ] Absurdism → Camus, *The Myth of Sisyphus* — already named in the existing design, not yet actually read.
+- [ ] Sartrism → Sartre, *Existentialism Is a Humanism* (short lecture; more approachable than *Being and
+      Nothingness*).
+- [ ] Fatalism → Richard Taylor, "Fatalism" (1962 essay) — real, focused analytic philosophy on logical
+      fatalism, rather than vaguer pop-fatalism.
