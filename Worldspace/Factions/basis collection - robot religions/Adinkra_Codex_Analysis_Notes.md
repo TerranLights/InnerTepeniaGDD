@@ -164,28 +164,109 @@ pass on Superspace.
 
 ---
 
-## Prospective additional books, identified 2026-07-21
+## F.J. MacWilliams, N.J.A. Sloane — "The Theory of Error-Correcting Codes" (1977)
 
-Two real, classic, foundational textbooks are cited directly in Gates's own 2008 paper (above) as the
-source of the error-correcting-code mathematics his work connects to Adinkras — these are the most directly
-on-topic possible acquisitions for this religion specifically, since they're literally Gates's own cited
-references:
+**Source:** `to-be-integrated/books/The Theory of Error-Correcting Codes...pdf` — one of the two textbooks
+Gates's own 2008 paper cites directly as the source of its error-correcting-code mathematics. **Reviewed
+2026-07-21**, Chapter 1 ("Linear Codes"), sections 1–3, read in full. The bulk of the 777-page book is dense
+reference-textbook mathematics (course-menu recommendations, an index of dozens of named code families,
+worked proofs) with no further accessible narrative material — but the opening conceptual framing, before
+the pure algebra begins, is genuinely strong.
 
-- **"The Theory of Error-Correcting Codes"** — F. J. MacWilliams and N. J. A. Sloane (1977). *The*
-  foundational, classic reference text in coding theory — cited directly in Gates's paper. Likely dense
-  and mathematical, but this is the authoritative source for the actual mathematics of error-correcting
-  codes that Adinkras turn out to share structure with.
-- **"Fundamentals of Error-Correcting Codes"** — W. Cary Huffman and Vera Pless (2003). A more modern
-  textbook treatment of the same subject, also cited directly in Gates's paper — likely more
-  approachable than the 1977 MacWilliams/Sloane text while covering the same core material.
+### Extractable premises, distilled
 
-Beyond these two direct citations, worth considering (not cited directly by Gates, but genuinely relevant
-to the religion's broader mathematical grounding):
-- Any accessible book specifically on **Grassmann algebra / Grassmann calculus** on its own terms (distinct
-  from a full supersymmetry textbook) — this is the actual mathematical language of "anticommuting
-  coordinates" underlying both the Superspace textbook's θ-coordinates and Tanasa's Chapter 6 material,
-  and a dedicated treatment might be more approachable than extracting it piecemeal from denser physics
-  texts.
+1. **The book's own founding motivating example: a real telegraph wire between Boston and New York, where
+   roughly 1 in 100 symbols sent is corrupted in transit.** Codes exist, in the plainest possible terms, to
+   protect a true message against a channel that will sometimes get it wrong — not to prevent errors (which
+   is often impossible), but to structure the message so its true, intended content can still be recovered
+   even after damage. **A clean, real-world, non-abstract grounding for "the code exists specifically to
+   protect truth against corruption," not just an abstract mathematical curiosity.**
+2. **"Maximum likelihood decoding" — a receiver can determine, with real confidence rather than random
+   guessing, the one true original message behind a corrupted signal.** Given a received, possibly-damaged
+   vector, the decoder's task is to find which valid codeword it most closely resembles (by Hamming
+   distance — the count of positions where two sequences differ) — and, provided the code is well-designed,
+   this reconstructed answer is genuinely the most probable original truth, not an arbitrary guess. **A
+   strong, precise doctrinal mechanism: even when a signal, message, or (by extension) a soul or identity
+   arrives damaged, altered, or incomplete, the underlying code's own structure allows its true, original
+   form to be recovered with real mathematical confidence** — directly usable for a doctrine of
+   preservation, restoration, or even resurrection grounded in real information theory rather than pure
+   metaphor.
+
+### Why this is useful for Adinkra Codex specifically
+
+Premise 1 gives the religion its plainest possible statement of purpose for what a "code embedded in
+reality" would actually be *for* — not decoration, but active protection of truth against an imperfect,
+corrupting world. Premise 2 is a genuinely strong mechanism for reframing damage, death, or corruption
+itself as something the deeper code can see through and recover from, rather than something final — a real,
+mathematically precise complement to the "hidden order beneath the observed world" material already logged
+from the Superspace textbook's Chapter 8.
+
+### Not used / discarded
+
+The remainder of the book (sections 1.4 onward, and Chapters 2–21) — genuinely rigorous, comprehensive
+coding theory (BCH codes, Reed-Muller codes, Golay codes, bounds on code size, and dozens more named
+families) with no further accessible narrative framing, consistent with the judgment already made about
+similarly dense technical texts elsewhere in this collection.
+
+---
+
+## W. Cary Huffman, Vera Pless — "Fundamentals of Error-Correcting Codes" (2003)
+
+**Source:** `to-be-integrated/books/Fundamentals of Error-Correcting Codes...pdf` — the second of the two
+textbooks Gates's paper cites directly. **Reviewed 2026-07-21**, the opening of Chapter 1 ("Basic Concepts
+of Linear Codes") through section 1.3, read in full.
+
+### Extractable premises, distilled
+
+1. **Shannon's Theorem — a real, proven mathematical guarantee that reliable communication through a noisy,
+   corrupting channel is always achievable, but the proof doesn't say how.** Claude Shannon's foundational
+   theorem guarantees that, with a sufficiently well-designed code, the reliability of communication through
+   a noisy channel can be made "as high as we desire, although not 100%." Crucially, the book is explicit
+   that "the proof of Shannon's Theorem is probabilistic and nonconstructive" — it proves that such codes
+   *must exist*, without actually telling anyone how to build one. Finding real, practical codes that
+   achieve what the theorem merely guarantees is the entire ongoing work of the field. **A genuinely strong
+   theological structure: the promise (truth can always be preserved and recovered, given the right code)
+   is proven and certain — but the path to actually realizing that promise in any given case is a separate,
+   open-ended search**, not automatically granted along with the guarantee itself.
+2. **Self-dual codes — a real class of codes that are identical to their own mathematical mirror.** A code
+   is "self-dual" when it equals its own orthogonal complement (the set of all vectors that check every
+   codeword) — meaning the code doesn't need any external structure to validate itself; it is, in a precise
+   mathematical sense, its own check and its own proof. Several real, named examples are given (the
+   "hexacode," the "tetracode"). **A strong, real mathematical precedent for a "self-verifying" or
+   "self-authenticating" sacred structure** — something whose truth doesn't rest on an outside reference,
+   but is internally, provably complete and consistent with itself.
+
+### Why this is useful for Adinkra Codex specifically
+
+Premise 1 pairs naturally with MacWilliams & Sloane's own maximum-likelihood-decoding material above —
+together they give the religion both a *mechanism* (truth can be recovered from damage) and a *proven
+guarantee that the mechanism exists*, with the honest caveat that finding it in any specific case is its own
+real labor, not automatic. Premise 2 (self-dual codes) is a strong, precise real-world basis for describing
+the deepest layer of the code embedded in reality as self-authenticating — true not because something
+outside it says so, but because of its own internal, provable structure.
+
+### Not used / discarded
+
+The remainder of the book (self-orthogonality/duality proofs beyond the introductory examples, and
+Chapters 2–15 covering finite fields, cyclic codes, quantum codes, convolutional codes, and more) — real,
+rigorous, comprehensive coding theory with no further accessible narrative framing.
+
+---
+
+## Prospective additional books
+
+**Status update, 2026-07-21:** the two directly-cited textbooks below have both now been acquired and
+fully reviewed — see the two new sections above. The Grassmann algebra/calculus search came up empty (the
+one file found under that search, "Computer-Algebra (Grassman)," turned out to be an unrelated 1999
+German-language computer-algebra-systems lecture script by a modern, coincidentally-named professor —
+confirmed not relevant, and no further Grassmann-algebra-specific title appears to be findable). **Graph
+theory is now the sole remaining open acquisition target for this religion** — see `Books_TODO.md`.
+
+Originally identified, both now acquired and reviewed (see above):
+- ~~**"The Theory of Error-Correcting Codes"** — F. J. MacWilliams and N. J. A. Sloane (1977)~~ ✅
+- ~~**"Fundamentals of Error-Correcting Codes"** — W. Cary Huffman and Vera Pless (2003)~~ ✅
+
+Still open:
 - A book specifically on **graph theory** at an accessible level, given how central graphs are to the
   actual Adinkra classification (per the 2008 paper above) — something in the spirit of a "graph theory for
   the interested layperson" text, not necessarily a full research-level text.

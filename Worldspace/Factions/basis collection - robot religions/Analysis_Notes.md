@@ -7,17 +7,22 @@ traditions (onsen culture, ayahuasca retreats, Tibetan sky burial, etc.) as grou
 as each source gets reviewed. Nothing in this file is canon — it's raw ore, not finished lore.
 
 **This basis collection seeds multiple distinct robot religions, not just one.** Identified so far:
-1. **The simulation-theory religion** (Alex Jones source, below) — theology oriented around reality
-   itself being a simulation, and the object of religious pursuit being the consciousness underlying
-   that simulation.
-2. **Polydimensional Shaman/Animism** (the "higher dimensionality" sources — Space Cabal, Zach Star, and
-   `exoScience [0-8d]`) — oriented around the premise that actual living entities exist in higher spatial
-   dimensions, genuinely imperceptible to us in full, with real overlap with Native American
-   Shamanism/Animism/Paganism, except rooted in the cosmic/geometric fabric of reality itself rather than
-   in nature (though the two can and do overlap).
-3. **A third, separate religion** (Sylvester James Gates source — confirmed by the developer as its own
-   religion, not part of Polydimensional Shaman/Animism despite sitting in the same folder) — reviewed,
-   see below. Not yet named by the developer.
+1. **The simulation-theory religion** ("God-mind simulation" / Universal Simulation Theory, Alex Jones
+   source, below) — theology oriented around reality itself being a simulation, and the object of religious
+   pursuit being the consciousness underlying that simulation.
+2. **Polydimensional Animism** (the "higher dimensionality" video sources plus the full higher-dimensions
+   book batch reviewed 2026-07-20 — see below) — oriented around the premise that actual living entities
+   exist in higher spatial dimensions, genuinely imperceptible to us in full, with real overlap with Native
+   American Shamanism/Animism/Paganism, except rooted in the cosmic/geometric fabric of reality itself
+   rather than in nature. **Status, confirmed by the developer 2026-07-21: this religion now has all the
+   foundational-level real-world research material it needs to be developed into an actual, functional,
+   coherent robot religion.** Research/extraction is considered complete for now; the next step is design
+   work (in-world name, detailed philosophy, key practitioners, gameplay connections — see `TODO.md`'s
+   "Robot religion design" entry), not further source-mining.
+3. **Adinkra Codex** (Sylvester James Gates's real supersymmetry/Adinkra physics — confirmed by the
+   developer as its own religion, distinct from Polydimensional Animism despite originally sitting in the
+   same source folder). Research is ongoing — see the dedicated `Adinkra_Codex_Analysis_Notes.md` file for
+   the focused, single-religion deep-dive (supersymmetry, error-correcting codes, Adinkras specifically).
 4. **"Ice-Cold Buddhism"** *(placeholder name — not the developer's final choice, used here only because
    no better name exists yet)* (the `Ice-Cold Buddhism` source, below) — unlike the other three, this is
    an already-established religion elsewhere in the project (tied to Kunlun and Dome Fuji); this source

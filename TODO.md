@@ -4,13 +4,15 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
-## Source Acquisition — String Theory / Kaluza-Klein Theory Books, flagged 2026-07-20
+## RESOLVED — Polydimensional Animism research, flagged 2026-07-20, completed 2026-07-21
 
-The developer wants to acquire real books specifically on string theory and/or Kaluza-Klein theory —
-**see `Books_TODO.md` for the full candidate list and context.** Confirmed 2026-07-20 that no dedicated
-book on either subject currently exists in the library; this is the gap that most limits how much further
-Polydimensional Animism's real-world physics grounding can currently go (see `Worldspace/Factions/basis
-collection - robot religions/Analysis_Notes.md`).
+All string theory / Kaluza-Klein / higher-dimensions book acquisitions and research passes are complete —
+see `Books_TODO.md` and `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md`.
+**Confirmed by the developer 2026-07-21: Polydimensional Animism now has all the foundational-level
+real-world research material it needs.** Next step for this religion is design work (in-world name,
+detailed philosophy, etc. — see the "Robot religion design" entry below), not further source-mining.
+Adinkra Codex research remains ongoing — see `Adinkra_Codex_Analysis_Notes.md` and `Books_TODO.md`'s
+separate section for that religion.
 
 ## Megacorp Post-Falkland-Treaty Fate — flagged 2026-07-20, deliberately deferred
 

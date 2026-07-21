@@ -61,12 +61,16 @@ possible acquisitions for this religion, since they're literally among Gates's o
       2026-07-21**, in `to-be-integrated/books/`.
 
 **Secondary, not cited directly by Gates but worth considering:**
-- [ ] Any accessible book specifically on **Grassmann algebra / Grassmann calculus** on its own terms — the
-      actual mathematical language of "anticommuting coordinates" underlying both the Superspace textbook's
-      θ-coordinates and a chapter of the already-acquired *Combinatorial Physics* (Tanasa).
+- [ ] ~~Any accessible book specifically on **Grassmann algebra / Grassmann calculus** on its own terms~~ —
+      **searched 2026-07-21, no results found.** The one file initially found under this search
+      ("Computer-Algebra (Grassman)") turned out to be an unrelated 1999 German-language computer-algebra-
+      systems lecture script by a modern professor coincidentally also named (Hubert) Grassmann — nothing to
+      do with Hermann Grassmann's 19th-century exterior algebra. **Confirmed 2026-07-21: no further
+      standalone Grassmann algebra/calculus title appears to be findable; treat this item as closed/not
+      pursuable rather than still-open.**
 - [ ] An accessible **graph theory** book, given how central graphs are to the real Adinkra classification
       problem (per Gates's 2008 paper) — something pitched at an interested-layperson level rather than a
-      full research text.
+      full research text. **The one remaining open item on this list, as of 2026-07-21.**
 
 *(No accessible/popular-audience book specifically about Adinkras appears to exist — this remains a
 genuinely niche research topic confined to physics papers rather than having its own popularization the
