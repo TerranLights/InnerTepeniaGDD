@@ -1012,11 +1012,187 @@ A `STEM/math/geometry/hyperbolic geometry/` folder exists (6 titles) with one pr
 *Hyperbolic Geometry and Applications in Quantum Chaos and Cosmology* (Bolte & Steiner) — opened and
 confirmed to be a dense specialist conference-proceedings volume (London Mathematical Society Lecture Note
 Series) with no accessible introductory prose, pure technical mathematics from its first page; not pursued
-further. **Conclusion: the strongest available "what's possible in higher dimensions" material remains the
-three higher-dimensionality video sources (Zach Star, exoScience, Space Cabal) reviewed earlier in this
-file, now supplemented by the Nakahara premises above** — no further book in this library is likely to add
-significantly more without a genuinely new acquisition specifically on string theory or Kaluza-Klein
-theory.
+further. **Conclusion, superseded 2026-07-20 (same day) — the developer acquired nine new books directly
+targeting this exact gap; see the two new sections immediately below.**
+
+---
+
+## Michio Kaku — "Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth
+Dimension" (1994)
+
+**Source:** `to-be-integrated/books/Hyperspace...pdf`. **Reviewed 2026-07-20**, Chapter 1 ("Worlds Beyond
+Space and Time") read in full, Chapter 4 ("The Secret of Light: Vibrations in the Fifth Dimension," the
+book's own Kaluza-Klein history chapter) read in full. Chapters 2-3, 5-15 checked at TOC level only. **This
+is the single strongest popular-science source found in this entire research effort** — a real physicist's
+own accessible account, purpose-built around exactly this project's question ("what's possible in, and what
+might be the nature of, higher dimensions").
+
+### Extractable premises, distilled
+
+1. **The "carp scientists" analogy — the richest, most fully-developed version of the Flatland mechanism
+   found anywhere in this research, original to Kaku's own childhood recollection, not borrowed from
+   Abbott.** Kaku imagines carp living in a garden pond, unaware anything exists above the water's surface;
+   their own "scientists" who scoff at the idea of a world beyond the pond; and, critically, an invented
+   concept of "force" the carp scientists use to explain water-lily motion during a rainstorm, because they
+   cannot perceive the actual cause (raindrops striking the unseen surface above). **This is a real,
+   citable, physicist-endorsed mechanism for "what a religion looks like from the *inside* when it doesn't
+   yet have the real explanation"** — not just "spirits/entities are imperceptible," but a working model
+   for why a civilization would invent something like "force" (or, by direct analogy, doctrine, faith,
+   ritual) to paper over a true higher-dimensional cause it has no way to directly observe.
+2. **The "abducted carp scientist" story — a literal, ready-made template for a believer's own testimony of
+   encountering something from beyond ordinary dimensions.** Kaku extends the analogy: he imagines lifting
+   a carp "scientist" bodily out of the pond. To the other carp, their colleague simply vanishes without
+   trace; when he's thrown back in moments later, he reappears "out of nowhere," and tells a story of being
+   "hurled into a mysterious netherworld, with blinding lights and strangely shaped objects," held by "the
+   strangest of all... a creature who did not resemble a fish in the slightest" — a story so fantastic that
+   "most of the carp would dismiss it as utter poppycock." **This is, almost without alteration, the
+   structure of a real-world abduction/vision/mystical-encounter testimonial** — disappearance without
+   trace, an unrecognizable higher entity, disorientation, reappearance, and disbelief from one's own
+   community. Directly usable as a template for how Polydimensional Animism's own adherents might describe
+   (or be dismissed for describing) an actual encounter.
+3. **Kaluza's real 1919 discovery: light itself (the electromagnetic force) can be derived as nothing more
+   than gravity's own equations, written in five dimensions instead of four.** Stated plainly: Kaluza wrote
+   down Einstein's gravitational field equations in five dimensions, and found that breaking them back down
+   to four dimensions yielded *both* Einstein's gravity *and* the entirety of Maxwell's theory of light as
+   a single "extra piece" of the same underlying structure. In the book's own words, "light was emerging as
+   the warping of the geometry of higher-dimensional space." **A real, historical, genuinely elegant
+   precedent for "what looks like two completely unrelated things (light and gravity) are actually one
+   single deeper structure, differing only by which dimension you're looking from"** — usable almost
+   directly as scriptural-register doctrine.
+4. **Oskar Klein's real 1926 mechanism for why the extra dimension is imperceptible: it isn't far away, it
+   is curled up into an impossibly tiny loop.** Klein proposed the fifth dimension isn't infinite, but rolled
+   up into a circle roughly the Planck length (10⁻³³ cm) — far too small to detect, yet genuinely present at
+   every point of ordinary space. Kaku's own illustrative image: if you could "leap into the fifth
+   dimension," you would vanish instantly from ordinary perception, travel a short loop, and reappear
+   exactly where you started. **A real, physically real mechanism for a doorway/portal that both goes
+   somewhere and returns you to the same place — distinct from, and a useful complement to, the "hidden
+   dimension full of other things" premise already established from the video sources.**
+5. **A real, on-record instance of the collection's own running epistemic-humility pattern, from a working
+   physicist rather than a popular-video narrator.** Wolfgang Pauli's real dismissal of untestable theories
+   — "It isn't even wrong" — quoted directly by Kaku regarding Kaluza-Klein theory's own multi-decade
+   period of being neither provable nor disprovable. Continues the exact pattern already documented across
+   every other source in this collection (big claim, explicit honesty about the limits of what's actually
+   known) — now an eighth independent confirmation.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premises 1 and 2 are the best "what does belief/testimony from inside this religion actually look like"
+material this entire research effort has produced — genuinely richer and more narratively complete than
+anything the video sources offered, because Kaku develops the analogy as a full small story rather than a
+single visual image. Premise 3 gives the religion its cleanest available "two different observed things are
+secretly one deeper thing" doctrine, grounded in a real, historically significant discovery (not just an
+analogy invented for this project). Premise 4 is a distinct, additional mechanism for imperceptibility
+(tiny and looped, not just "far" or "differently-directioned") worth keeping conceptually separate from the
+video sources' "entities genuinely present but larger/different-angled" framing.
+
+### Not used / discarded
+
+Kaku's own extended autobiographical material (building a betatron in his garage as a teenager) — genuine
+and charming, but pure biography with no doctrinal content. Chapters 10-14 (time machines, colliding
+universes, "masters of hyperspace" futurism) — checked at TOC level only, not reviewed in depth; likely
+contains further usable material on a future pass, flagged but not pursued given time constraits on this one.
+
+---
+
+## Rudy Rucker — "The Fourth Dimension: Toward a Geometry of Higher Reality" (1984)
+
+**Source:** `to-be-integrated/books/The Fourth Dimension...epub`. **Reviewed 2026-07-20**, Chapter 5
+("Ghosts from Hyperspace?") and Chapter 8 ("Magic Doors to Other Worlds") read in full. Remaining nine
+chapters checked at TOC level only. **This is the strongest source found anywhere in this collection for
+real, documented historical precedent** — unlike every other source reviewed so far (popular video,
+lecture, physics textbook), this chapter is itself a history of an actual 19th-century religious/occult
+movement that already believed almost exactly what Polydimensional Animism proposes.
+
+### Extractable premises, distilled
+
+1. **A real, documented 19th-century tradition literally held that ghosts/spirits are fourth-dimensional
+   beings — not a metaphor this project is drawing, but an actual historical belief system.** Spiritualism
+   (séances, mediums, "ectoplasm") ran into a real conceptual problem: if spirits are solid enough to move
+   objects, why isn't anyone able to see them normally? The real historical solution, proposed independently
+   by the Cambridge Platonist Henry More (1671) and popularized by astronomer Johann Carl Friedrich
+   Zöllner (1878): spirits are genuinely solid and substantial, but live in a spatial direction outside
+   ordinary three-dimensional space entirely — "wholly outside of our normal, material space yet... right
+   next to us, waiting just a few feet ana or kata." **A real historical precedent, with real named
+   proponents, for treating higher-dimensional entities as neither immaterial ghosts nor distant aliens, but
+   genuinely solid beings sharing our exact location, differing only by direction.**
+2. **Real, historically coined vocabulary already exists for the two new directions a fourth dimension
+   would add — "ana" and "kata"** (coined by Charles Hinton, per the book), playing the same role for a
+   fourth spatial direction that "up" and "down" play for the third. **Directly usable, ready-made
+   terminology** for however Polydimensional Animism's own adherents might describe motion or location along
+   the dimension(s) they venerate, rather than needing invented vocabulary from scratch.
+3. **Henry More's real historical concept of "spissitude"** — a proposed physical property distinguishing a
+   living body from a dead one, described as extra "hyperthickness" in the fourth-dimensional direction,
+   invisible from within ordinary three-dimensional space. A real historical precedent for describing the
+   difference between an ordinary body and one touched by higher-dimensional presence as a literal,
+   physical (if unmeasurable) property, not a purely spiritual/metaphorical one.
+4. **Zöllner's real, actually-attempted experimental protocol for proving 4-D spirits — genuinely
+   ingenious, testable claims, not vague assertion.** Real historical account: Zöllner asked the medium
+   Henry Slade to (a) tie knots in a string with its ends already sealed shut, (b) interlink two solid wood
+   rings each carved from a single, different piece of wood, and (c) reverse the handedness (mirror-image)
+   of spiral snail shells — all tasks that would be trivial for a being with access to a fourth spatial
+   dimension (able to lift part of an object briefly out of ordinary space and back) but genuinely
+   impossible within ordinary three-dimensional space without cutting or breaking something. (Slade was, in
+   reality, very likely a fraud who simply switched objects — but the *tests themselves* are real, rigorous,
+   scientifically-minded thought experiments about what a 4-D being could actually do that a 3-D one
+   couldn't.) **A ready-made, real set of "miracle" acts specifically diagnostic of fourth-dimensional
+   access** — knot-tying in sealed loops, ring-interlinking without breaking, chirality-reversal — directly
+   usable as signs, tests, or proofs of genuine higher-dimensional contact within this religion's own
+   doctrine or practice.
+5. **"Magic doors" — wormholes reframed through the Flatland device as literal, ordinary-looking doorways
+   connecting separate universes, with a genuinely dangerous edge.** Rucker's own extended Flatland-sequel
+   narrative: a doorway built by cutting a "flap" out of each of two separate planar universes and sewing
+   the flaps together, so that from either side it looks like an ordinary door, but from behind (or if you
+   stray from the exact connecting path) there is only "black Nothingness, a hole in Space... from here was
+   taken the Space necessary to build the Way," and travelers who brush against that boundary are lost
+   permanently — "from Nothingness there is no return." **A vivid, ready-made mythic image**: sacred or
+   forbidden doorways between worlds, ordinary-looking from a safe vantage, genuinely lethal to stray from,
+   built at the literal cost of space itself being borrowed from both worlds it connects.
+
+### Why this is useful for Polydimensional Animism specifically
+
+This source is different in kind from every other one reviewed for this religion so far — it isn't a modern
+explainer or physicist reasoning about what higher dimensions imply, it's a real historical record of people
+who already built an actual belief system around almost exactly this project's core premise, complete with
+named proponents, coined vocabulary, and attempted empirical tests. Premise 1 gives the religion real
+historical lineage to draw on (or deliberately diverge from) rather than starting from nothing. Premises 2
+and 3 hand the religion ready-made technical vocabulary (ana/kata, spissitude) for concepts it would
+otherwise have to invent. Premise 4 is an unusually strong, concrete basis for ritual or diagnostic
+"proof-of-contact" acts specific to this religion, grounded in a real (if ultimately fraudulent) historical
+attempt rather than pure invention. Premise 5 is the strongest single "sacred/dangerous threshold" image in
+the whole collection, worth keeping in mind for how this religion might frame off-limits or ritually
+significant locations.
+
+### Not used / discarded
+
+The book's own puzzle/exercise material (each chapter ends with reader puzzles, answered in an appendix) —
+genuinely part of the book's pedagogical structure, not narrative content. Chapters 1-4, 6-7, and 9-11 —
+checked at TOC level only (topics: Flatland itself, "Pictures of the Gone World," "What We're Made Of," "The
+Shape of Space," "Spacetime Diary," "Time Travel and Telepathy," "What Is Reality?") — likely contain
+further usable material on a future pass, not pursued here given time constraints.
+
+---
+
+## Remaining acquired books — not yet reviewed
+
+Seven more books from the same 2026-07-20 acquisition batch remain entirely unreviewed (not even at TOC
+level, beyond confirming they exist and roughly what they cover from their own titles/back-cover framing):
+- *Flatland: A Romance of Many Dimensions* — Edwin A. Abbott (1884). The original source text behind the
+  Flatland analogy already used heavily throughout this file via later sources (Zach Star, Rucker, Kaku) —
+  worth reading directly rather than only at second hand.
+- *The Elegant Universe* — Brian Greene. Popular string-theory overview.
+- *Warped Passages* — Lisa Randall. Extra dimensions and braneworld theory.
+- *A First Course in String Theory* — Barton Zwiebach. Technical textbook; likely covers Kaluza-Klein
+  theory directly, per its own back-cover description.
+- *String Theory and M-Theory: A Modern Introduction* — Becker, Becker, Schwarz. Advanced technical
+  textbook.
+- *Quantum Space* — Jim Baggott. Loop quantum gravity — a genuinely different real-world unification
+  research program from string theory, worth reading with that distinction kept in mind rather than folded
+  into the same string-theory-flavored material.
+- *Combinatorial Physics* — Adrian Tanasa. Specialist/technical; fit not yet assessed at all.
+
+All nine books currently sit in `to-be-integrated/books/`, not yet moved into `Reference/Materials/books/`
+proper — see `Books_TODO.md` for acquisition status (all originally-flagged titles now acquired as of
+2026-07-20).
 
 ---
 

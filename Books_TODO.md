@@ -34,12 +34,14 @@ math:**
 
 **Technical/textbook — actual acquirable texts, for filling the gap `Book_TOC_Master_Reference.md` flagged
 as completely empty:**
-- [ ] *A First Course in String Theory* — Barton Zwiebach. The standard modern intro textbook; covers
-      Kaluza-Klein theory directly within it, so this alone may cover both flagged topics at once. **Still
-      being searched for, as of 2026-07-20.**
-- [ ] *String Theory and M-Theory: A Modern Introduction* — Becker, Becker, Schwarz. More advanced
-      graduate-level text, a good second/deeper title if wanted. **Still being searched for, as of
-      2026-07-20.**
+- [x] *A First Course in String Theory* — Barton Zwiebach. The standard modern intro textbook; covers
+      Kaluza-Klein theory directly within it, so this alone may cover both flagged topics at once.
+      **Acquired 2026-07-20**, in `to-be-integrated/books/`.
+- [x] *String Theory and M-Theory: A Modern Introduction* — Becker, Becker, Schwarz. More advanced
+      graduate-level text, a good second/deeper title. **Acquired 2026-07-20**, in `to-be-integrated/books/`.
+
+**All originally-flagged titles now acquired as of 2026-07-20.** Full checklist complete — see the
+research-pass note below for what's actually been extracted so far vs. what's still pending.
 
 *(No single well-known book is dedicated to Kaluza-Klein theory alone — it typically appears as a chapter
 or section within general relativity, supergravity, or string-theory texts, e.g., within Zwiebach's book
@@ -56,7 +58,11 @@ alongside the five above:**
       Tanasa. Technical/specialist; not yet assessed for fit — flag for a TOC-level look before assuming
       it's directly usable.
 
-**Next step once the two technical titles above are found:** these five (plus the two bonus titles) are
-sitting in `to-be-integrated/books/`, not yet reviewed or moved into `Reference/Materials/books/` proper —
-a research/extraction pass (in the style of `Analysis_Notes.md`'s existing sections) is the natural next
-step once acquisition is complete.
+**Research pass status, 2026-07-20:** Kaku's *Hyperspace* and Rucker's *The Fourth Dimension* have both had
+a full premise-level extraction pass — see the two new sections in `Analysis_Notes.md` (right after the
+topology material). Both were excellent finds: Kaku's "carp scientist" analogy and Kaluza-Klein history
+chapter, and Rucker's real 19th-century spiritualism-as-4D-beings history with actual coined vocabulary
+("ana"/"kata") and a real attempted experimental protocol for proving 4-D ghosts. The other seven books
+(*Flatland*, *The Elegant Universe*, *Warped Passages*, *A First Course in String Theory*, *String Theory
+and M-Theory*, *Quantum Space*, *Combinatorial Physics*) remain completely unreviewed. All nine books
+still sit in `to-be-integrated/books/`, not yet moved into `Reference/Materials/books/` proper.
