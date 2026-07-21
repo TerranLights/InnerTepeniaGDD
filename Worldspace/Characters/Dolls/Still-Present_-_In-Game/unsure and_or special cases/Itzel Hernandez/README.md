@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Itzel Hernandez
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SC Doll SED199 series.)*
+
+Long, warm chestnut-brown hair with subtle caramel highlights, worn straight and loose. Warm brown eyes, tan skin, a small delicate silver necklace, a beauty mark near the collarbone. Two distinct looks: a pale blue plunging halter dress in a soft indoor setting, and a casual grey zip-front sleeveless jumpsuit with sunglasses hooked on the zipper pull, shown lounging on a bed.
+
+She reads as: warm and easygoing, comfortable moving between a dressed-up look and a relaxed, casual one without either feeling like a costume — an unforced, approachable presence rather than a deliberately staged one.
 
 ## Personality & Voice
 - Core summary:

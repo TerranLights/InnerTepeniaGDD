@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Hao
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Starpery series.)*
+
+Short, dark black hair in a tousled bob, warm brown eyes, large silver hoop earrings, natural makeup with a soft rose lip. Often pictured holding or wearing tinted aviator sunglasses. A loose, partially-unbuttoned white blouse worn off one shoulder over a lavender bra, paired with a fitted dusty-pink pencil skirt. Shown in a plain, softly-lit indoor domestic setting.
+
+She reads as: a poised, professional-adjacent look worn a little loosened and off-duty — the blouse-and-pencil-skirt combination suggests office or client-facing work, but the unbuttoned collar, bare shoulder, and easy half-smile put her closer to relaxed confidence than to formality.
 
 ## Personality & Voice
 - Core summary:

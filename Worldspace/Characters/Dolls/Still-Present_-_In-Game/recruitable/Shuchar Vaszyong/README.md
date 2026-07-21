@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Shuchar Vaszyong
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder.)*
+
+Long, dark brown hair with soft face-framing bangs, dark brown eyes, a natural, understated makeup look. A delicate silver pendant necklace. Shown consistently in oversized, loose white satin/silk button-up shirts worn as loungewear over blue lace lingerie, barefoot, curled up on a couch — a phone or game controller within reach in more than one shot.
+
+She reads as: unguarded, off-duty, and quietly domestic — there's no performance in her posture or expression, just someone genuinely relaxed and winding down at home. Softer and less staged than most of the other reference sets so far; the overall impression is low-key intimacy rather than glamour.
 
 ## Personality & Voice
 - Core summary:

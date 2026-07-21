@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Ísabel Camila Bóndar
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder.)*
+
+Long, straight, jet-black hair falling well past the waist. Striking blue eyes, gold hoop earrings, a delicate bracelet, and a small navel piercing. A taupe/grey wrap-style mini dress with a crossed halter neckline, worn with strappy metallic heels. Shown in a warm-lit hotel bedroom setting.
+
+She reads as: polished, glamorous confidence — the wrap dress and heels suggest a deliberate, put-together evening look, and her direct gaze and relaxed lean against the wall project ease rather than nerves at being looked at.
 
 ## Personality & Voice
 - Core summary:

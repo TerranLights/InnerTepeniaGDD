@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Leticia Flores
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — BEZLYA series.)*
+
+Long, straight dark brown hair with blunt bangs. Pale grey-blue eyes, deep red lipstick. Draped in a sheer blue-and-white veil/hood worn over the head and shoulders like a shawl, over a soft white and pale-blue tiered dress. Shot against a plain white backdrop with hand-drawn wave-like line art.
+
+She reads as: ethereal and a little otherworldly — the veiled hood, flowing sheer fabric, and wave-motif backdrop suggest a deliberately mystical, water-adjacent aesthetic, and her steady, unblinking gaze through the sheer fabric adds a slightly enigmatic, watchful quality rather than a soft or approachable one.
 
 ## Personality & Voice
 - Core summary:

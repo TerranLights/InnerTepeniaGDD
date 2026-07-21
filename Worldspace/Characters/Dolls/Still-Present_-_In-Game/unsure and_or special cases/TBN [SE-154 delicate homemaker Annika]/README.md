@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Annika
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SE Doll SES079 series.)*
+
+Long, straight dark brown/black hair with soft bangs, warm brown eyes, red lipstick, delicate pearl bracelets and a pearl choker. A loose, off-shoulder white linen dress worn with a tied neckline, bare feet, shown in a warmly lit home setting — lace curtains, wood cabinetry, soft ambient light.
+
+She reads as: gentle and unhurried, genuinely at home in a quiet domestic space rather than dressed for anywhere else — the linen fabric, bare feet, and soft lighting all support the "delicate homemaker" framing without needing any further staging.
 
 ## Personality & Voice
 - Core summary:

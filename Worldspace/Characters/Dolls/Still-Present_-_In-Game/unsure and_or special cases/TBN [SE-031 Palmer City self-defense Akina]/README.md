@@ -28,7 +28,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SE Doll SED207 series. Visual description only — no backstory/personality inference drawn from this pass, per the developer's own pause on her deeper development.)*
+
+Ash-grey/silver hair in a chin-length bob with bangs, warm brown eyes, a delicate necklace. A cropped white graphic tank top with pink/red trim and a printed logo graphic, denim shorts with a wide belt, seated in a pink-and-white gaming chair, holding a white plush rabbit toy.
+
+Purely as a visual note: the styling and props (gaming chair, plush toy, casual cropped top) read as young, soft, and unguarded — a notably different register from the "self-defense" framing in her working title. Left as observation only; not connected to any backstory interpretation.
 
 ## Personality & Voice
 - Core summary:

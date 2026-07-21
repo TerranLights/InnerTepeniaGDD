@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Mira
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Starpery series.)*
+
+Long, straight, jet-black hair worn loose. Striking green/hazel eyes, deep red lipstick, a delicate silver pendant necklace. A loosely-draped rust-red knit slip dress (sheer enough to reveal a black underlayer beneath), worn poolside — shown lounging in a wicker chair with a wine glass at hand, and separately leaning against a sunlit wall.
+
+She reads as: sun-warmed, unhurried glamour — the deep red against black, the wine, and the direct, level gaze all suggest someone confident and a little languid rather than eager to please, fully at ease being looked at without performing for it.
 
 ## Personality & Voice
 - Core summary:

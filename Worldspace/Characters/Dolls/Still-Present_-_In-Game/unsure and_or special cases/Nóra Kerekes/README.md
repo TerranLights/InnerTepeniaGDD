@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Nóra Kerekes
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder.)*
+
+Long, wavy golden-blonde hair, striking amber/hazel eyes, delicate drop earrings and a fine floral-pendant necklace. A curve-hugging orange tank top with bold cursive script lettering, worn with an open pale-yellow/blue wrap layered over it. Shown in a warm, cozy home setting — a red velvet couch, throw pillows, a mug, soft ambient lighting. (**Note:** the reference photos feature a real-world branded beverage prop/graphic tee — this is purely an artifact of the source images and isn't meant to carry any real-world brand into the game's own fiction.)
+
+She reads as: relaxed, homey, and a little playful — the styling is casual and comfortable rather than staged or formal, with a warm, unguarded expression that reads as genuinely at ease in this domestic setting.
 
 ## Personality & Voice
 - Core summary:

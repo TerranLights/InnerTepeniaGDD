@@ -4,6 +4,32 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Megacorp Post-Falkland-Treaty Fate — flagged 2026-07-20, deliberately deferred
+
+New question, occurred to the developer while developing Imelda Sánchez: what happened to the
+pre-war robot-fabrication megacorps once the Falkland Treaty (2564) declared sentient-robot presence
+illegal in Upper Earth? Their entire business model would've been existentially threatened overnight.
+
+**What's established:** `TepenianUniverseTimeline/Megacorps/README.md` (in the sibling Timeline repo)
+names two megacorps so far — HyperHedral (based in the People's Democratic Republic of Cascadia) and
+Industrias Abramentes (based in the Republic of Sonora) — plus a third slot still marked `[TBD]`. Both
+entries are one-line stubs with no post-Treaty fate defined. The Falkland Treaty draft itself
+(`TepenianUniverseTimeline/Reference/Falkland_Treaty/Falkland_Treaty_Draft_v1.md`) never mentions
+corporations at all — it's silent on this question, genuinely open territory. Imelda Sánchez's own
+still-unresolved corruption backstory (exposing corruption between the Mexican government and
+"Upper Earth megacorporations," per her `README.md`) is the one existing thread this could hook into.
+
+**Candidate directions discussed, none chosen:** (a) dissolved/seized by treaty enforcement or
+nationalization; (b) pivoted to adjacent non-sentient-robotics industries and survived legitimately;
+(c) went underground, continuing illegal sentient-robot work as smuggling/black-market operations
+(this one has the strongest hook into Imelda's expose). Likely not a single monolithic answer —
+different megacorps (with different national homes) plausibly diverge, rather than all sharing one fate.
+
+**Status: flag, don't fix — developer's own reserved decision.** Not resolved now; reserved for a
+dedicated future session.
+
+---
+
 ## RESOLVED — Country-wide culture re-check, flagged 2026-07-13, completed 2026-07-14. No longer blocking.
 
 **Full tracker at `Cities/Full_City_Integrity_Check.md`** — the per-city, multi-pass log. See that file for the complete methodology, the per-subnet checklist, and every city's full pass history.

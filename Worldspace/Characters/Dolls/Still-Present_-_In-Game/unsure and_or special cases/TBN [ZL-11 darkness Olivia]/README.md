@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Olivia
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — GE04 series.)*
+
+Sleek, dark brown/black chin-length bob with blunt bangs, deep red lipstick, smoky rose-toned eye makeup, dark red nails. A black velvet, floral-embossed cheongsam-inspired bodysuit with a high halter collar, an asymmetric cutout at the ribs, and lace-up side detailing. Shot against a plain dark grey backdrop.
+
+She reads as: dramatic and sultry — the dark, textured fabric, high collar, and moody low-key lighting all commit fully to the "darkness" framing in the working title, with a sharp, close-lipped expression that leans sultry and self-aware rather than soft.
 
 ## Personality & Voice
 - Core summary:

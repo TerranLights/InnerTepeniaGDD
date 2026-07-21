@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Keqing Qin
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Starpery series.)*
+
+Long, dark auburn-brown hair, half-swept up and tied with a pale blue ribbon bow, soft face-framing strands left loose. Warm brown eyes, a soft, gentle expression. A delicate pale sage-and-cream ruffled camisole with sheer paneling and tiny button/ribbon ties down the front, paired with a matching ruffled mini skirt, cream knee-high ribbed socks, and cream ribbon-tie flats. Shown in a bright, airy room with sheer white curtains and a rattan chair.
+
+She reads as: soft, romantic, almost storybook-delicate — the pale palette, ribbons, and ruffles read as gentle and considered rather than flashy, with an unhurried, wistful quality to her expression and pose.
 
 ## Personality & Voice
 - Core summary:

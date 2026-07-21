@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Leeson
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Firefly Doll series.)*
+
+Long, dark brown hair, warm brown eyes, a light dusting of freckles, and a soft, natural face. Shown fresh out of the bath: a bear-eared white towel wrapped turban-style around the head, wrapped in a plain white bath towel, holding a hairdryer or hairbrush, seated on a grey couch.
+
+She reads as: unguarded, cozy, and completely at ease — no styling beyond the towels themselves, direct but soft eye contact, and ordinary post-bath grooming actions (drying hair, brushing it out) that read as private, everyday routine rather than a staged pose. Consistent with the "out-of-the-bath" working title.
 
 ## Personality & Voice
 - Core summary:

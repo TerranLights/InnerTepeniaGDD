@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Miko
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — GE57Z series.)*
+
+Sage-green hair in a layered chin-length bob with a small streak of contrasting color underneath, warm brown eyes, soft natural makeup. A white satin cheongsam-inspired halter dress with a lace-up front cutout and a high collar, paired with sheer white floral-lace long gloves and a matching sheer lace under-layer visible through the dress's high slit. Shot against a plain black backdrop with a dark leather armchair.
+
+She reads as: elegant and striking — the unusual green hair color against the all-white, cheongsam-styled outfit makes for a deliberately eye-catching combination, and the dramatic dark backdrop lets both stand out clearly. Consistent with the "white-dress green-haired" working title.
 
 ## Personality & Voice
 - Core summary:

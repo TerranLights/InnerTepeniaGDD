@@ -20,7 +20,12 @@
 **Key Traits / Notable Perks (companion-relevant):** TBD — pending role decision.
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — himekingdoll-172 series.)*
+
+Dark brown/black hair worn either loose with blunt bangs or pulled back into a low ponytail. Dark brown eyes, a calm, composed expression that holds steady across settings rather than shifting to match them. Two distinct outfit sets: a metallic gold micro-bikini with fine chain-link detailing at the hip, shot outdoors against a rocky coastal seawall with the ocean and a small boat visible behind her; and a dark plum/purple velvet-and-sheer-mesh set with an antique gold clasp and a sheer wrap skirt, shot in warmer, more intimate low light. Consistently statuesque, tall build.
+
+She reads as: unhurried and self-possessed rather than performative — even in the more overtly staged beach shots, her expression stays measured and level, closer to quiet confidence than posed excitement. The coastal, sun-and-salt-water setting of the gold-bikini series lines up naturally with the "beachside" working title and with her confirmed Mawson origin as a resort/honeymoon-destination city.
 
 ## Personality & Voice
 - Core summary: TBD — pending role decision below
@@ -86,5 +91,5 @@ Not started — full character concept needs to be settled first (role, personal
   - [ ] Present-day location and reason for it (deliberately left open, not defaulting to war-displacement — see Backstory Summary)
   - [ ] Enneagram / personality framework
   - [ ] MACHINE stat baseline
-  - [ ] Visual design
+  - [x] Visual design
   - [ ] Personal questline design (after the above are settled)

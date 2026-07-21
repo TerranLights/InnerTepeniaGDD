@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Rosalva Mejía
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — Irontech Doll series.)*
+
+Sleek, jet-black hair in a blunt bob with straight-across bangs, striking pale blue eyes, a calm, level expression. A casual grey/blue ribbed tank top and fitted dark denim with a black belt, chunky brown lace-up boots, shown seated in a plain studio setting. (**Note:** the reference tank top carries real-world graphic text as an artifact of the source photo — not meant to carry any real-world place-name reference into the game's own fiction.)
+
+She reads as: unfussy and grounded — the styling is casual streetwear rather than glamorous or staged, and her steady, slightly reserved gaze reads as quiet self-possession rather than performance.
 
 ## Personality & Voice
 - Core summary:

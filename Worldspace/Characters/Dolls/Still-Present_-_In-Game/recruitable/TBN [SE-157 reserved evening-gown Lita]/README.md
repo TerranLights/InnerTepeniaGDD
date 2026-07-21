@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Lita
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SES100 series.)*
+
+Long, dark brown wavy hair, half-pulled-back, with a face-framing lock left loose on each side. Warm brown eyes, gold hoop earrings, a delicate gold bracelet. A flowing halter-neck dress in a leopard-and-floral print sheer chiffon, tied at the waist with a long train trailing behind, worn over a short underlayer, paired with clear strappy heels. Shown in an elegant bathroom/balcony suite setting — sheer white drapery, a freestanding tub, floor-to-ceiling windows.
+
+She reads as: relaxed, resort-elegant sensuality rather than the more formal "evening-gown" register the working title suggests — this is closer to a flowing sundress or upscale loungewear than structured formalwear. Her expression across the set is soft and slightly guarded, watching rather than performing for the camera.
 
 ## Personality & Voice
 - Core summary:

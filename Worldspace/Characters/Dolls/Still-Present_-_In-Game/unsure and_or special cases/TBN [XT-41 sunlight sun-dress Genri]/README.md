@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Genri
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — XT Doll series.)*
+
+Long, wavy pale blonde hair gathered into a high side ponytail with a ribbon tie, soft bangs, warm hazel eyes. A layered cream/ivory outfit — a lace-up bodice under a crocheted open shawl-cardigan, paired with sheer white lace thigh-high stockings — shown by a window overlooking water and distant mountains, a teal couch, and a plush teddy bear nearby.
+
+She reads as: soft, romantic, and a little wistful — closer to a delicate layered lace outfit than a literal sundress, but the pale, sun-washed palette and airy window-lit setting still capture the "sunlight" quality of the working title even if "sun-dress" is a loose fit for the actual garment shown.
 
 ## Personality & Voice
 - Core summary:

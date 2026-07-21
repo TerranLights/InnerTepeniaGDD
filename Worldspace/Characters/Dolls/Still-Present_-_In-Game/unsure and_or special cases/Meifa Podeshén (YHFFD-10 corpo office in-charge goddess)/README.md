@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Meifa Podeshén
+
+**Role / Archetype:** TBD — working title ("corpo office in-charge goddess") suggests a corporate/managerial office role; not yet confirmed
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — W1A series.)*
+
+Long, straight dark brown hair with soft bangs, warm brown eyes, natural makeup with a soft red lip. A white button-up blouse worn loosened and half-open (visible red lace bra beneath in some shots) over a fitted grey pencil skirt, a wristwatch, and a hanging ID/employee badge lanyard. Shown consistently in a dim, upscale executive office — a large desk, leather chair, desk lamp, laptop, and (in one shot) a bouquet of red roses on the desk.
+
+She reads as: a composed, authoritative office presence with the polish deliberately loosened — the badge and desk trappings read as genuinely managerial/executive, while the undone buttons and steady, appraising gaze read as confidence rather than disarray. Consistent with the "in-charge" framing in the working title: someone who runs the room, not someone caught off guard in it.
 
 ## Personality & Voice
 - Core summary:

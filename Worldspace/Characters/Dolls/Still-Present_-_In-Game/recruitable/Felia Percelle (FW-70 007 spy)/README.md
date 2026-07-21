@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Felia Percelle / "[Callsign TBD]"
+
+**Role / Archetype:** TBD — working name references a "007 spy" archetype; visuals strongly support this (see Visual Description)
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — FSD015 series.)*
+
+Long, wavy honey-blonde hair worn loose. Vivid green eyes, dark smoky eye makeup, deep red lipstick — a deliberately glamorous, old-Hollywood-adjacent face. A deep-plum satin and sheer-mesh gown, ruffle-trimmed at a dramatically low neckline, gathered and ruched at the waist, slit up one thigh. A thin gold chain necklace and a matching gold bracelet; a small tattoo visible on one forearm. A black tactical thigh holster is strapped over the dress on one leg, and she's shown holding a full-size pistol and, separately, a strip of foil packets tucked in her other hand — glamour and lethal competence deliberately layered together rather than in tension.
+
+Expression across the set: lips slightly parted, gaze direct and unhurried — composed rather than performing seduction, someone entirely used to being looked at and unbothered by it. She reads as: elegance as camouflage. The dress and the gun are the same outfit, not two different registers — she is dressed exactly the way she means to be, for exactly the kind of work she does.
 
 ## Personality & Voice
 - Core summary:

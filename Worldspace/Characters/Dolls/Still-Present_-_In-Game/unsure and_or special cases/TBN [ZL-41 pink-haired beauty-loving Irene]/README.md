@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Irene
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — GE24 series.)*
+
+Soft coral-pink hair in a wavy chin-length bob, striking violet eyes, delicate features. White lace-and-satin lingerie set, seated amid an abundance of fresh flowers (roses, tulips, hydrangea) on pink tulle fabric, with an ornate carved French-style chair also dressed in a floral bouquet nearby.
+
+She reads as: soft, romantic, and deliberately surrounded by beauty — the sheer volume and care of the floral styling around her (not just as a prop, but dressing the whole scene, chair included) directly supports the "beauty-loving" framing in the working title. Her expression is calm and a little wistful, someone at home in loveliness rather than merely posed within it.
 
 ## Personality & Voice
 - Core summary:

@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Tiancheng
+
+**Role / Archetype:** TBD — working title ("overworked yet underappreciated") strongly suggested by the reference imagery's office setting; not yet confirmed
+**Primary Location(s):** TBD
+**Affiliation(s):** TBD
+**Companion Potential:** Undecided — placed in the "unsure and/or special cases" category; not yet resolved recruitable/non-recruitable
+**Romance Potential:** TBD, contingent on the recruitability decision above
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder.)*
+
+Long, straight dark brown/black hair, pale blue-grey eyes, a composed but tired-edged expression. A navy sleeveless top and a fitted grey pencil skirt, black pointed heels, an ID/employee lanyard badge, holding a marker or pointer. Shown in a cluttered office setting — a whiteboard covered in mind-map diagrams and sticky notes, papers scattered across the floor, a leather office chair.
+
+She reads as: exactly what the working title suggests — visibly competent and put-together, but surrounded by the physical debris of an unmanageable workload (papers everywhere, a whiteboard crowded with half-finished planning). Her expression is more weary and matter-of-fact than glamorous, someone doing real, unglamorous work rather than posing for it.
 
 ## Personality & Voice
 - Core summary:

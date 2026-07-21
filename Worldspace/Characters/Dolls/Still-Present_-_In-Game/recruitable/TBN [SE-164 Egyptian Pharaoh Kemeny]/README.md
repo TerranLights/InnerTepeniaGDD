@@ -1,11 +1,14 @@
 # Character Summary
 
-## [Full Name] / “[Common Nickname / Callsign]”
+**Development started 2026-07-20.** Previously an untouched blank template; visual description added from reference images.
 
-**Role / Archetype:**
-**Primary Location(s):**
-**Affiliation(s):**
-**Companion Potential:** Yes / No / Conditional / Romance / Rivalry / etc.
+## Kemeny
+
+**Role / Archetype:** TBD
+**Primary Location(s):** TBD — Tepenia native, confirmed 2026-07-20
+**Affiliation(s):** TBD
+**Companion Potential:** Yes — confirmed recruitable (part of the 2026-07-20 roster expansion)
+**Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
 **Activation Date & Origin:**
@@ -28,7 +31,12 @@
 **Key Traits / Notable Perks (companion-relevant):**
 
 ## Visual Description
-(1–2 paragraph description. Reference files in `Reference_Images/` folder.)
+
+*(See `Reference_Images/` folder — SET013 series.)*
+
+Dark brown, near-black hair in a chin-length blunt bob with full bangs, streaked through with fine gold metallic strands. Striking green/hazel eyes, warm tan skin with light freckling, a gold crescent-moon septum ring on a chain, a small facial gem near one eye. Elaborate gold serpent/cobra hair ornaments coiling from the crown of the head down past the temples. Black-and-gold jeweled choker and layered bib-style necklace, and a matching black mesh-and-gold-chain lingerie set with garter straps. Shown against a deliberately Ancient-Egyptian-themed backdrop (papyrus-style wall art, an Anubis figure) with a black jackal-style mask as a prop.
+
+She reads as: a full costume/theming concept — "Egyptian Pharaoh" as the working title reflects a deliberate aesthetic package (serpent motifs, gold, the backdrop and mask prop) rather than a claim about her actual in-world nationality or ethnicity. This lines up exactly with a confirmed backstory direction (below): she's a Tepenia native with a genuine personal enjoyment of the Ancient Egypt "Persisted Aesthetic" holiday, not someone performing a heritage that's actually hers.
 
 ## Personality & Voice
 - Core summary:
@@ -37,7 +45,7 @@
 - Moral tendencies & player influence:
 
 ## Backstory Summary
-(High-level 2–4 paragraphs. Full details in Personal_Background/.)
+**Confirmed 2026-07-20:** she's a Tepenia native (not an Upper Earth exile/defector) who has a genuine personal enthusiasm for the Ancient Egypt "Persisted Aesthetic" holiday (`Worldspace/National_Holidays.md`, Category 2) — the reference imagery's Egyptian-goddess styling reflects this holiday's observance, not an actual heritage or nationality claim. Everything else (specific city of origin, personality, occupation, how deep her interest in the aesthetic runs beyond the holiday itself) TBD.
 
 ## Role in Main Story / World
 - Connection to larger narrative:
