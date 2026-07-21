@@ -538,6 +538,22 @@ These require a developer call before downstream work can proceed. None can be r
   A secret alternative endgame solution with zero mechanical scaffolding: no stat checks, no skill checks, no perks, no quest markers, no notifications. The player can build a decentralized/distributed power grid as a complete alternative to the failing central grid beneath the Hub — but only if they are paying close attention to the world. Discovery method is entirely environmental: scattered notes, terminal entries, audio logs, fragments of NPC dialogue, and environmental storytelling distributed across the full game. No single source explains the full picture; the player assembles the method themselves.
   **TBD:** Full construction mechanics, the complete breadcrumb trail and its placement across all districts, the resolution state when the lattice is completed, and how the world reacts to the alternative solution.
   Working name "Independent Lattice" is Grok-suggested and developer-approved.
+  **Broad-scope and per-district guidelines established 2026-07-21** — see
+  `Worldspace/Locations-and-Levels/Concordia-City/Districts/Independent_Lattice_Guidelines.md`. Confirms all
+  13 districts have a genuine, non-redundant role (not padded); establishes full-city "must be true / cannot
+  be true" constraints (built to respect `Energy_Grid_Failure_Rationale.md`'s existing 16 reasons the grid
+  can't just be fixed) plus a "must/cannot" pair for each individual district. Still no actual quest
+  structure, breadcrumb placement, or resolution content — guidelines only, ready for future design work to
+  build on without contradiction.
+  **Climax coalition flagged the same day, failsafes not designed:** Aries (already the toughest combat
+  district) plausibly fights this ending's final battle alongside Capricorn/Yards leadership and Libra/the
+  government — a three-district coalition, likely the hardest fight in the game. Failsafes needed for
+  players without a build suited to it and without Idolized standing anywhere to call on for support — see
+  the guidelines file's own "Climax Coalition" section for full detail. **Three specific prep tasks
+  identified, none started:** (1) which builds are naturally strong against this coalition, (2) failsafes for
+  every other build, (3) a wide array of in-world options usable via skill/stat checks *and* via pure player
+  creativity/imagination, consistent with this ending's own "zero mechanical scaffolding" identity. Not
+  designed yet.
 
 - [ ] **5 remaining district official names — narrowed 2026-07-19**
   Taurus, Leo, Gemini, Scorpio, and Aries still lack official proper names for in-world documents, signage, and NPC dialogue. **Resolved the same day:** Cancer → **The Sanctuary**, Capricorn → **The Yards**, Libra → **The Government District** — all three promoted from informal/repeated-but-never-formalized usage to the official `District_Canon_Reference.md` header, plus each district's own Deep_Dive title and Megasheet "Hard Facts" row. Already-named before this pass: Aquarius (The Labs), Pisces (The Markets), Virgo (The Undergrid), Sagittarius (The Frostlands), Hub (Axis Mundi).
