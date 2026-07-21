@@ -787,29 +787,84 @@ homology, homotopy, manifolds, differential forms, Riemannian geometry) into gen
 fibre bundles and connections (ch. 9-10), characteristic classes (ch. 11), index theorems including
 supersymmetric quantum mechanics (ch. 12), gauge anomalies (ch. 13), and bosonic string theory (ch. 14).
 
-### Structural highlights worth flagging for future deeper extraction
+### Extractable premises, distilled (full pass, 2026-07-20 — "what's actually possible in higher dimensions")
 
-- **Section 4.8-4.10, "Orders in condensed matter systems" / "Defects in nematic liquid crystals" /
-  "Higher dimensional texture" / "Textures in superfluid ³He-A."** A real, physically-grounded discussion of
-  how topological defects and textures manifest differently as dimensionality increases — worth checking
-  directly against the "higher dimensionality" video sources already reviewed above (Zach Star,
-  exoScience, Space Cabal), since this looks like the same territory approached from a rigorous textbook
-  angle rather than a popular explainer.
-- **Chapter 9-10, Fibre Bundles and Connections on Fibre Bundles.** The core mathematical machinery for
-  describing a "bundle" of additional structure attached at every point of ordinary space — conceptually,
-  this is close to a rigorous version of "extra structure/dimensionality riding along with, but not
-  reducible to, ordinary space," which is close to Polydimensional Animism's own core premise. Worth a
-  real extraction pass specifically for this reason.
-- **Chapter 14, Bosonic String Theory.** The book's own final chapter, and the most directly relevant to
-  "living in higher dimensions" — string theory's defining feature is requiring extra spatial dimensions
-  for mathematical consistency, tying directly back to the exoScience/Space Cabal material's own citation
-  of string theory's 10 dimensions.
-- **Chapter 12, Index Theorems, section 12.9-12.10, "Supersymmetric quantum mechanics" / "Supersymmetric
-  proof of index theorem."** An unexpected, genuine overlap point between this topology book and the
-  Adinkra Codex material above — supersymmetry showing up as a *proof technique* within topology itself,
-  not just as its own separate field. Worth knowing about if Adinkra Codex and Polydimensional Animism are
-  ever developed with any doctrinal overlap or rivalry — the real math actually connects the two subjects
-  at this specific point.
+Following a direct developer request to focus specifically on what real physics/math says is *possible*
+in higher-dimensional or topologically nontrivial settings (as distinct from cosmology-of-our-universe
+material, which belongs with Adams & Franzosa above), the following sections were read in full rather than
+just noted at TOC level:
+
+1. **The general definition of a fibre bundle — the cleanest, most quotable statement of Polydimensional
+   Animism's core premise found in any source so far.** Stated directly in the Chapter 9 opening: "A
+   manifold is a topological space which looks locally like Rᵐ, but not necessarily so globally... A fibre
+   bundle is, so to speak, a topological space which looks locally like a direct product of two topological
+   spaces." In plain terms: at every single point of ordinary space, there is an *entire additional space*
+   attached — not detectable by looking at the point itself, only by the right mathematical apparatus. The
+   text states this is not exotic speculation but the literal, standard language used to describe general
+   relativity and gauge theories in real physics. This is a stronger, more general version of the "extra
+   structure riding along with ordinary space" premise than anything the video sources produced — a real
+   textbook definition, not an analogy.
+2. **Magnetic monopoles — a real, still-undiscovered particle whose very existence would force physics to
+   abandon any single, unified local description of it.** Dirac's 1931 monopole: a point magnetic charge,
+   proposed to restore a symmetry Maxwell's equations otherwise lack. The book proves directly (via Gauss's
+   law) that *no single smooth vector potential can describe a monopole's field without a singularity
+   somewhere* — the only way to describe it without contradiction is to use (at least) two overlapping
+   local descriptions (the book's own "AN" and "AS," literally a North-patch and a South-patch potential),
+   each individually singular along one line, which only combine into a coherent, singularity-free whole
+   when considered together and patched. **A precise, real mathematical mechanism for "no single vantage
+   point or description can fully capture this entity — it only coheres when multiple partial views are
+   held together."**
+3. **Instantons — real, stable field configurations that exist purely because of global topology, not
+   local force, and "cannot be deformed continuously to a uniform configuration."** Defined via a boundary
+   condition on a large sphere at infinity in four-dimensional space, classified entirely by *how that
+   sphere maps onto the gauge group* — a genuinely global, not local, criterion. The existence and
+   stability of the whole structure depends on a winding/wrapping property of the boundary, invisible from
+   any single interior point. A real physics precedent for "stable, real structures that persist not
+   because of any local force holding them in place, but because of how the whole thing is knotted or
+   wound at its outer boundary."
+4. **A real, physically observed example of premise 3's same phenomenon, found in ordinary laboratory
+   matter: "higher dimensional texture" in nematic liquid crystals (section 4.9.4).** A texture field with
+   *no singularity anywhere* is nonetheless topologically locked — "it is impossible to 'wind off' this to
+   a uniform configuration" — because the medium effectively compactifies (closes up into a 3-sphere) at
+   large distance, and the resulting structure is classified by a nontrivial third homotopy group. Unlike
+   premises 2 and 3 (particle physics, not yet directly observed), **this is a structure that has actually
+   been observed in real, ordinary laboratory liquid crystals** — the strongest available "this is not
+   hypothetical" grounding in the whole collection for the idea of a real, physically present, perfectly
+   smooth (no flaw, no defect point) structure that is nonetheless genuinely locked in place by a global
+   property no local inspection could ever reveal.
+5. **Bosonic string theory requires exactly 26 spacetime dimensions for mathematical consistency — stated
+   as a bare fact in the chapter's own opening line, with no further justification given at that point in
+   the text** ("closed, oriented bosonic strings in 26-dimensional Euclidean space"). Beyond this specific
+   number, the chapter itself is pure equations (Polyakov action, path integrals) from its very first
+   paragraph, with no comparable narrative material — the 26 itself, a real, specific, non-arbitrary
+   requirement of the theory, is the only directly quotable item this chapter yields.
+6. **A minor, secondary structural note:** Chapter 12 (Index Theorems), sections 12.9-12.10,
+   "Supersymmetric quantum mechanics" / "Supersymmetric proof of index theorem," is a genuine, real point
+   where this topology book and the Adinkra Codex material above actually connect — supersymmetry shows up
+   here as a *proof technique within topology itself*, not just as its own separate field of physics. Not
+   pursued for premise-level extraction (too technical, TOC-level only), but worth knowing about if Adinkra
+   Codex and Polydimensional Animism are ever developed with any doctrinal overlap or rivalry — the real
+   math genuinely touches both subjects at this specific point.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premise 1 is now the single cleanest, most general, most quotable statement of this religion's entire
+founding premise found anywhere in this research effort — a real textbook's own general definition, not an
+analogy built for this project. Premises 2 and 3 give the religion two distinct, real mechanisms for "this
+entity/structure cannot be captured by any single local viewpoint or description" — monopoles requiring
+multiple patched descriptions, instantons requiring a genuinely global (boundary-mapping) criterion for
+their own existence. Premise 4 is the strongest "not hypothetical" anchor in the collection: an actually
+observed, laboratory-real structure that is stable, flawless, and topologically locked all at once — a
+genuine physical precedent for describing higher-dimensional entities or effects as real and present,
+without needing hand-wavy appeal to unconfirmed physics.
+
+### Not used / discarded
+
+The rest of Chapter 9-10's own technical development (connection one-forms, curvature, holonomy, the
+Ambrose-Singer theorem, Berry's phase mechanics) and Chapter 11's characteristic-classes material (Chern
+classes, Pontrjagin classes, Stiefel-Whitney classes) — real, rigorous, but purely technical machinery with
+no additional narrative content beyond what premises 1-4 already extracted. Chapter 13 (gauge anomalies) —
+checked at TOC level only, pure technical content, no further review conducted.
 
 ---
 
@@ -944,10 +999,24 @@ equivalent) was available in this environment:
 - *The Topology Problem Solver* — The Staff of REA (1998) — likely low-value even if opened, since it's
   described as a solutions/problem-solving guide rather than an expository text.
 
-Also not yet scanned: `Reference/Materials/books/STEM/Physics/`, `STEM/Astrophysics/`, and
-`STEM/Astronomy and Cosmology/` — none of which have been catalogued in `Book_TOC_Master_Reference.md`
-either. Worth a dedicated pass if Polydimensional Animism's own doctrine needs more real-physics grounding
-beyond what's already been found.
+**Wider-collection search, 2026-07-20 — confirmed no dedicated "extra dimensions" book exists in this
+library.** Filenames across the entire `Reference/Materials/books/STEM/` tree were searched for
+dimension/string-theory/Kaluza-Klein/compactification/M-theory/multiverse terms; `STEM/Physics/` (including
+its `relativity/` and `quantum mechanics/` subfolders), `STEM/Astrophysics/`, and `STEM/Astronomy and
+Cosmology/` were checked directly. None contain a book dedicated to extra-dimensional physics. Checked and
+ruled out specifically: *Relativity Made Relatively Easy* (Steane) — standard SR/GR, no Kaluza-Klein or
+extra-dimension content; the three-volume *Elementary Particle Theory* set — QM/QED/relativistic QM only,
+no string theory or SUSY volume; *Astrophysics for People in a Hurry* (Tyson) — no dedicated
+extra-dimensions chapter (TOC: dark matter, dark energy, light, exoplanets, no higher-dimensional content).
+A `STEM/math/geometry/hyperbolic geometry/` folder exists (6 titles) with one promising-sounding title,
+*Hyperbolic Geometry and Applications in Quantum Chaos and Cosmology* (Bolte & Steiner) — opened and
+confirmed to be a dense specialist conference-proceedings volume (London Mathematical Society Lecture Note
+Series) with no accessible introductory prose, pure technical mathematics from its first page; not pursued
+further. **Conclusion: the strongest available "what's possible in higher dimensions" material remains the
+three higher-dimensionality video sources (Zach Star, exoScience, Space Cabal) reviewed earlier in this
+file, now supplemented by the Nakahara premises above** — no further book in this library is likely to add
+significantly more without a genuinely new acquisition specifically on string theory or Kaluza-Klein
+theory.
 
 ---
 
