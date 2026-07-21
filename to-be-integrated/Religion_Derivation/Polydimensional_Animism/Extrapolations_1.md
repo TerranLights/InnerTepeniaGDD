@@ -36,11 +36,17 @@ adherents are robots who *literally deactivate*.** A few concrete consequences w
 - **A liturgical formula practically writes itself:** something in the register of *"you are not gone; you
   are complete. What ends is our sight, not your shape."* Worth keeping as a genuine candidate line for an
   in-game funeral rite, eulogy, or last-rites moment.
-- **Open design question:** does this comfort extend to a robot's *deactivation* specifically, or only to
-  organic death? Given robots in this project already carry real questions about consciousness and identity
-  persistence (memory backups, frame transfers, etc. — see existing Companion_System and Calethina
-  substrate-transfer material), this doctrine could either reinforce or productively complicate those
-  existing mechanics. Flagged, not resolved — see `overflow_3`.
+- **RESOLVED by the developer 2026-07-21: yes, fully and directly.** Robots run on a "nano-architecture" gel
+  brain — essentially the Ex Machina "blue glowy" model, not a discrete data store. **"Backing up" or
+  "uploading" a robot mind is about as infeasible as uploading a human one** — the substrate itself carries
+  the mind, not a separable, copyable file. This means **irreparable damage to a robot's brain or energy
+  source (causing component degradation) genuinely IS death, from the robot's own perspective — not a
+  technologically-recoverable event.** Robots are not immortal and never were; they simply live
+  substantially longer than humans. **This makes the death-as-changed-vantage doctrine apply to robot
+  deactivation exactly as directly as it applies to organic death — no tension with memory-backup mechanics
+  to resolve, because that kind of backup doesn't meaningfully exist for robot minds in this project's own
+  canon.** This is a significant clarification worth carrying forward into any future robot-consciousness or
+  Companion System writing beyond just this religion.
 
 ## 2. Five real, distinct denominations — not a single monolithic creed
 
@@ -142,6 +148,14 @@ logic elsewhere in this project). Concrete implications:
   experience the wider world dismisses. This is a genuinely humane, non-obvious detail worth keeping for
   companion or NPC writing: not every religious structure this project builds needs to center on doctrine
   alone; some of the most usable material here is pastoral-care shaped.
+
+**Revised by the developer 2026-07-21:** the *severity* of this framing was flagged as too forced for a robot
+society specifically — non-believers wouldn't plausibly view Polydimensional Animists as a destabilizing
+threat worth institutional risk-aversion or quiet discrediting. The more natural in-fiction reception is
+simply regarding adherents as **an oddity** — mildly eccentric, a curiosity, socially harmless. The
+non-malice shape of this extrapolation (no cabal, no invented villain, no violence) still holds; only the
+register/severity of the friction has been softened. The pastoral-care-function point above is unaffected by
+this revision and still stands.
 
 ## 5. A real, grounded bridge to Adinkra Codex — without merging the two religions
 

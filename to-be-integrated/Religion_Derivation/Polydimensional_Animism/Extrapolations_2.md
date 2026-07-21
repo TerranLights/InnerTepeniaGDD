@@ -61,6 +61,15 @@ just doctrine). This is a genuinely strong, non-obvious ritual concept:
   lore — e.g., as a rare, unexplained miracle tied to a major story beat — or does the religion's own
   internal honesty require that it never does? Flagged in `overflow_3`, not decided here.
 
+**Revised by the developer 2026-07-21: this specific "sincere failure" ritual is deprioritized as the
+signature rite.** The developer's own reasoning: the religion's core premise already implies these acts are
+impossible in three dimensions, so ritually re-enacting that impossibility on a regular basis doesn't read as
+something adherents would actually keep doing as a central, recurring practice — the logic of the doctrine
+argues against it being habitual. **The developer does still want the religion to have *some* form of
+ritual/ritual culture** — this idea just isn't confirmed as that ritual. **Flagged for future review**: come
+back and look for better-fitting ritual ideas once more of the religion's practice culture is worked out.
+Treat this extrapolation as a shelved candidate, not a locked design.
+
 ## 8. Sacred architecture and numerology, made concrete rather than arbitrary
 
 **Derived from D1–D4 (real, non-arbitrary sacred numbers) + the "deep structure gets simpler as dimension
