@@ -510,9 +510,20 @@ These require a developer call before downstream work can proceed. None can be r
   - Adinkra Codex (religion #3 — grounded in Sylvester James Gates's real supersymmetry/Adinkra physics; holds that the adinkras are literally embedded in the fabric of reality itself, not just a mathematical notation) — proper in-world name TBD
   - Cymaticists (reverence of sound and vibration)
   - God-mind simulation (Universal Simulation Theory — God running simulations to understand its own origin, with Nihilism/Absurdism/Fatalism/Sartrism subdivisions among robot adherents)
-  - Polydimensional Animism (acknowledging living, conscious entities resident in higher dimensions)
+  - Polydimensional Animism (acknowledging living, conscious entities resident in higher dimensions) — **design synthesis started 2026-07-21**, see below
   Connected to: Robot-Aligned ending RA-2, multiple faction designs, NPC dialogue consistency across all districts.
   See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the real-world research basis behind Adinkra Codex, God-mind simulation, Polydimensional Animism, and Ice-Cold Buddhism.
+
+  **Polydimensional Animism — design synthesis in progress, `to-be-integrated/Religion_Derivation/Polydimensional_Animism/`:**
+  research-to-design pass (points, nth-order extrapolations, and a working draft sheet) started 2026-07-21.
+  Not yet reviewed by the developer or integrated into permanent lore. Headline output so far: a proposed
+  central pastoral doctrine (death as a change of vantage, not an ending, drawn from the real "you are
+  already a complete four-dimensional object" premise), five candidate denominations each traced to a
+  genuinely different real physics mechanism, a two-track practice structure (scholarly/diagrammatic vs.
+  visionary/trance), and a signature ritual (sincere, known-impossible, publicly attempted feats performed
+  as devotional humility rather than claimed miracle). See `Draft_Sheet.md` in that folder for the full
+  working synthesis, and its own `overflow_3` for the genuinely open questions (robot-deactivation tie-in,
+  city/faction placement, final name, and more) still needing the developer's own call.
 
 - [x] **Robot Religion Insight — naming conflict, RESOLVED 2026-07-20**
   The naming conflict was between "Adinkra Codex" and "Universal Simulation Theory (with Sartre/Camus/Nietzsche subdivisions)" being listed as one and the same entry — they're genuinely two separate religions per the developer's own 2026-07-16 ruling (documented in `Analysis_Notes.md`). Adinkra Codex is grounded in Gates's real SUSY/Adinkra physics work; the Sartre/Camus/Nietzsche subdivisions belong to the "God-mind simulation" / Universal Simulation Theory religion (Alex Jones-sourced), not to Adinkra Codex. Both entries above have been corrected to reflect the split.

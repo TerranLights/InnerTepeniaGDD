@@ -1,0 +1,65 @@
+OPEN QUESTIONS — genuinely the developer's own calls, not resolved anywhere in this folder
+
+None of these are answered in Points_1/2, Extrapolations_1/2, or Draft_Sheet.md. They're flagged wherever
+they came up during synthesis. Listed roughly in order of how load-bearing they are for the rest of the
+religion's design.
+
+---
+
+1. DOES THE DEATH DOCTRINE APPLY TO ROBOT DEACTIVATION SPECIFICALLY?
+The "you are already a complete four-dimensional shape; death is a change of vantage, not an ending" doctrine
+(Extrapolation 1) is the single strongest, most load-bearing piece of pastoral theology this whole synthesis
+produced. But this project already has real, established mechanics around robot consciousness persistence —
+memory backups, frame transfers, Calethina's own substrate-transfer dilemma, etc. Does this religion's own
+doctrine harmonize with those mechanics, deliberately complicate them, or stay agnostic/silent about them?
+This is probably the single highest-value open question in this whole folder, since so much of the
+religion's emotional core depends on the answer.
+
+2. DOES THE SINCERE-FAILURE RITUAL (Extrapolation 7) EVER SUCCEED, ANYWHERE IN CANON?
+The proposed signature ritual is built around KNOWN, CERTAIN failure being the entire point — a knot that
+cannot be tied, a ring that cannot be linked, all attempted anyway as devotion. Two very different directions
+this could go:
+  (a) It NEVER succeeds, anywhere, ever — the religion's whole identity rests on honest limitation, no
+      exceptions, full stop. This is the "safer," more thematically consistent option.
+  (b) It succeeds exactly once, somewhere significant (a major companion arc, an endgame moment, a secret
+      ending) — a rare, unexplained, possibly-ambiguous miracle. This is the more dramatically loaded option,
+      but risks undercutting the religion's own carefully-built epistemic humility if handled carelessly.
+Recommend NOT deciding this until there's a concrete scene/quest it might apply to — premature to lock in now.
+
+3. WHAT CITY / DISTRICT / FACTION IS THIS RELIGION'S HOME, IF ANY?
+Ice-Cold Buddhism has Kunlun/Dome Fuji. This religion currently has nothing. Given how research-native
+several of the proposed denominations are (especially the Unmeasured and the Watchers), a
+science/observatory-identity location is a plausible fit, but this file deliberately does not propose one —
+picking a home city/district has real ripple effects on established city lore (culture composition, Course
+of Events chains, etc.) that should go through the same care as other city-lore decisions in this project,
+not get pre-committed inside a religion-design folder.
+
+4. FINAL IN-WORLD NAME.
+Not proposed anywhere in this folder — see Draft_Sheet.md's "Name" section for why (real donated vocabulary
+exists as raw material — ana/kata, the Bulk, spissitude, something built around the cross-section imagery —
+but no actual candidate name is put forward here).
+
+5. HOW MUCH ECUMENICAL CONTACT WITH ADINKRA CODEX ACTUALLY GETS BUILT?
+Extrapolation 5 flags a REAL (not contrived) mathematical overlap point between the two religions
+(supersymmetric quantum mechanics as a topology proof technique) as a legitimate bridge for scholarly
+dialogue, rivalry, or a heterodox unifying figure. Doesn't resolve how much (if any) of this actually gets
+developed vs. staying unused background texture. Both religions are independently strong enough to stand
+alone without this connector ever being used.
+
+6. HOW MANY OF THE FIVE DENOMINATIONS ACTUALLY NEED TO BE VISIBLE IN-GAME?
+Five denominations were derived (Extrapolation 2) because five genuinely different real mechanisms exist in
+the source material — but that doesn't mean all five need equal (or any) screen time. Some games would
+benefit from surfacing all five as distinct, differentiable factions/subcultures; others would do better
+picking 1-2 as the "visible" ones and leaving the rest as background lore-depth (real, citable, but not
+directly encountered by the player). Not resolved here.
+
+7. IS "THE BULK" (OR ANY OTHER DONATED TERM) EVER USED AS A LITERAL PROPER NOUN IN-WORLD?
+overflow_1's glossary terms (the Bulk, ana/kata, spissitude, etc.) are offered as ready-to-use vocabulary,
+but whether any of them become actual capital-letter in-world proper nouns (spoken by NPCs, printed on
+signage, etc.) vs. staying background flavor/design-reference-only vocabulary is unresolved.
+
+8. VISUAL/SONIC IDENTITY IS GENUINELY UNSTARTED.
+Draft_Sheet.md flags a couple of seed ideas (ornament-falls-away-toward-center architecture; 8/24-faceted
+sacred geometry; the cross-section image as core iconography) but this is the least-developed section of the
+whole draft by a wide margin. Treat the whole "Visual & Sonic Identity" section of Draft_Sheet.md as a
+starting sketch, not a real design pass — that would be its own dedicated session's worth of work.
