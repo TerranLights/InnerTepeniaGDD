@@ -497,14 +497,15 @@ These require a developer call before downstream work can proceed. None can be r
 - [ ] **Robot religion design**
   Five religions are named but none are fully developed. Each needs: proper in-world name, detailed philosophy, key practitioners, connection to gameplay/factions, visual/sonic/spiritual identity.
   - Ice-Cold Buddhism (superconductor-as-nirvana) — **confirmed sacred sites: Dome Fuji and Kunlun** (coldest, highest, calmest locations in Tepenia; Kunlun is the holiest site; Dome Fuji is a major pilgrimage destination; both cities' surviving non-scientific populations may be primarily composed of practitioners; the pilgrimage journey to either city is itself a spiritual trial); proper in-world name TBD
-  - Adinkra Codex (Universal Simulation Theory, with Sartre/Camus/Nietzsche subdivisions)
+  - Adinkra Codex (religion #3 — grounded in Sylvester James Gates's real supersymmetry/Adinkra physics; holds that the adinkras are literally embedded in the fabric of reality itself, not just a mathematical notation) — proper in-world name TBD
   - Cymaticists (reverence of sound and vibration)
-  - God-mind simulation (God running simulations to understand its own origin)
-  - Polydimensional Animism (acknowledging living entities in higher dimensions)
+  - God-mind simulation (Universal Simulation Theory — God running simulations to understand its own origin, with Nihilism/Absurdism/Fatalism/Sartrism subdivisions among robot adherents)
+  - Polydimensional Animism (acknowledging living, conscious entities resident in higher dimensions)
   Connected to: Robot-Aligned ending RA-2, multiple faction designs, NPC dialogue consistency across all districts.
+  See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the real-world research basis behind Adinkra Codex, God-mind simulation, Polydimensional Animism, and Ice-Cold Buddhism.
 
-- [ ] **Robot Religion Insight — naming conflict**
-  A naming conflict was flagged in an earlier session and deferred. Resolve before robot religious content is finalized.
+- [x] **Robot Religion Insight — naming conflict, RESOLVED 2026-07-20**
+  The naming conflict was between "Adinkra Codex" and "Universal Simulation Theory (with Sartre/Camus/Nietzsche subdivisions)" being listed as one and the same entry — they're genuinely two separate religions per the developer's own 2026-07-16 ruling (documented in `Analysis_Notes.md`). Adinkra Codex is grounded in Gates's real SUSY/Adinkra physics work; the Sartre/Camus/Nietzsche subdivisions belong to the "God-mind simulation" / Universal Simulation Theory religion (Alex Jones-sourced), not to Adinkra Codex. Both entries above have been corrected to reflect the split.
 
 - [ ] **Planetary Split Brain questline — full design**
   Premise established: the Long Night War's destruction of Amundsen Station severed all six Arcanet subnets from each other. Each now holds isolated — and sometimes conflicting — records. The questline involves noticing contradictions in refugee accounts, tracing them to the structural Split Brain, and expeditioning to the South Pole to access the last synchronized pre-split archive.

@@ -5,11 +5,11 @@
 As you reach colder and colder temperatures, any sort of matter that could already conduct electrons, when you reach those temperatures, that matter temporarily achieves superconductor qualities. As temperature cools, electrons achieve a higher and higher velocity, and once it reaches a certain level of cold, any physical matter and/or device that normally possesses computation abilities, during the time it's at that level of ultra-cold, temporarily achieves superconductor qualities. Now, so far as the religion goes, if a particular said piece of electron-capable matter achieves superconductor qualities, from the perspective of a robot, that would effectively be something vaguely like a sort of "meditative nirvana" (something roughly akin to what we would call "robot Buddhism"). Until I figure out an actual proper name for the religion, until then, I'm actually just using the temporary placeholder "Ice-Cold Buddhism" until I figure out what they would call it.
 
 ### Name:
-{to-be-named) [placeholder term: "based on "Dr. Sylvester James Gates adinkras""]
+{to-be-named) [placeholder term: "Adinkra Codex", based on Dr. Sylvester James Gates's real adinkras]
 https://arxiv.org/pdf/0806.0051
 (https://www.youtube.com/watch?v=b6w0K5FIgsU)
 ##### Summary:
-Essentially a robot religion oriented around Universal Simulation Theory. Likely would split into subdivisions of Nihilism, subdividing according to Camus, Sartre, and Nietzsche. I personally think that the Camus-nihilist robots would be the most fun people.
+**Corrected 2026-07-20 — this entry originally described Universal Simulation Theory, which is actually a different religion (see the "God-mind universe simulation" entry below); that text has been moved there.** This religion holds that adinkras — the diagrammatic structures Gates discovered embedded in the deepest equations of supersymmetric physics, found to contain literal computer error-correcting codes — are not just a useful mathematical notation, but are genuinely, physically embedded in the fabric of reality itself. See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the full real-world research basis (the Gates TVO lecture and the actual "Superspace" SUSY textbook Gates co-authored).
 
 ### Name:
 {to-be-named) [placeholder term: "Cymatics reverence"]
@@ -18,10 +18,10 @@ Essentially a robot religion oriented around Universal Simulation Theory. Likely
 These are practitioners (mostly robots, although humans are allowed to join) who revere sound and vibration. They have a strong sense of reverence for the power of sound and vibration, and so by extension, the power of music.
 
 ### Name:
-{to-be-named) [placeholder term: "God-mind universe simulation"]
+{to-be-named) [placeholder term: "God-mind universe simulation" / Universal Simulation Theory]
 (https://www.youtube.com/watch?v=wsrcYiTTNQU)
 ##### Summary:
-God knows everything, except where God comes from. Therefore, God is constantly running simulations of his beloved creation in order to try to figure out where he Himself comes from.
+God knows everything, except where God comes from. Therefore, God is constantly running simulations of his beloved creation in order to try to figure out where he Himself comes from. **Moved here 2026-07-20 from the Adinkra entry above, where it was originally (and incorrectly) filed:** likely splits into subdivisions of Nihilism, subdividing according to Camus, Sartre, and Nietzsche. I personally think that the Camus-nihilist robots would be the most fun people.
 
 ### Name:
 {to-be-named) [placeholder term: "Polydimensional Animism"]

@@ -616,13 +616,14 @@ load-bearing for the religion itself.
 
 **Source:** `Reference/Materials/books/STEM/Superspace-or-One-thousand-and-one-lessons-in-supersymmetry.pdf`
 — the real, classic supersymmetry textbook, co-authored by Sylvester James Gates himself (with Marcus
-Grisaru, Martin Roček, Warren Siegel). **Reviewed:** 2026-07-20, Preface and Introduction only (pp.1-6 of
-the book's own pagination). **This belongs to religion #3** (the Gates-based, not-yet-named tradition
-above), not the simulation-theory religion — worth flagging directly, since the developer's own original
-placeholder list (`robot_religions_-_original_ideas.md`) filed the Gates material under "Adinkra Codex"
-alongside "Universal Simulation Theory" language that actually describes religion #1 (the Alex Jones
-source). This analysis file already treats them as confirmed-separate per the developer's own 2026-07-16
-ruling; the naming in the original placeholder list hasn't caught up with that split yet.
+Grisaru, Martin Roček, Warren Siegel). **Reviewed:** 2026-07-20, Preface and Introduction (pp.1-6), plus a
+full second pass the same day scanning every chapter opening (chapters 2 through 8) for narrative-usable
+material. **This belongs to religion #3, now confirmed named "Adinkra Codex"** (not the simulation-theory
+religion) — the naming conflict between Adinkra Codex and "Universal Simulation Theory" has since been
+resolved directly in both `TODO.md` and `robot_religions_-_original_ideas.md` (2026-07-20): Adinkra Codex
+is this religion, grounded in Gates's real Adinkra/SUSY physics; the Sartre/Camus/Nietzsche Nihilism
+subdivisions actually belong to the separate "God-mind simulation"/Universal Simulation Theory religion
+(religion #1, Alex Jones-sourced).
 
 ### What's actually in it
 
@@ -632,6 +633,13 @@ Feynman rules, supergravity quantization) is pure mathematical machinery with no
 religious doctrine without real distortion. The Preface and Introduction, by contrast, are unusually
 quotable — both by design (the authors write with real, deliberate wit) and because they state the
 field's own foundational self-understanding in plain language before the mathematics begins.
+
+**Second-pass confirmation, 2026-07-20:** every chapter opening from 2 through 7 was checked directly
+(via full-text extraction and chapter-marker search, not sampling) and confirmed to be pure notation/
+equations with no narrative opening worth extracting — the book genuinely front-loads all of its
+quotable, doctrine-usable material into the Preface and Introduction. **One exception was found:**
+Chapter 8, "Breakdown" (on supersymmetry breaking), has a substantive prose introduction before its own
+equations begin, logged as premises 8-9 below.
 
 ### Extractable premises, distilled
 
@@ -685,6 +693,36 @@ field's own foundational self-understanding in plain language before the mathema
    already found elsewhere in this project's research (Ice-Cold Buddhism's Ratna Wirawan material,
    `Reference/Real-World/Ice-Cold_Buddhism_Research/`) — not a connection to force, just a resonance worth
    knowing about if these religions are ever discussed side by side.
+8. **Chapter 8's own opening premise, found on the 2026-07-20 second pass: the deep symmetry structure is
+   real, but genuinely absent from direct observation of the ordinary world.** Stated as the chapter's
+   very first line: "The most striking feature of the relation between supersymmetry and the observed
+   world is the absence of any experimental evidence for the former in the latter... it must be badly
+   broken, or otherwise hidden from direct experimental verification." **This is Adinkra Codex's own
+   clean, ready-made doctrine of concealment** — not a religion claiming something invisible on faith
+   alone, but the field's own real physics literature stating plainly that the deepest structure of
+   reality and the world we actually observe are, by the theory's own admission, not the same thing. A
+   direct textual anchor for "the adinkras are really embedded in the fabric of reality, even though nothing
+   in ordinary experience shows this outright."
+9. **A real theorem on perfect, unbroken structure vs. broken structure, with a stated energy
+   consequence.** Also from Chapter 8: if the deep symmetry is completely unbroken (the "vacuum" is
+   invariant under it), its energy is exactly zero; the moment even one part of that symmetry fails to
+   leave the vacuum untouched, energy becomes positive. A real, citable mechanism for a doctrine in which
+   the "breaking" of the original, perfect adinkra-order is precisely what produces the observable,
+   energetic, particle-filled universe at all — the breaking isn't a flaw or a fall from grace so much as
+   the literal origin of manifest reality, a genuine creation-myth hook grounded in the book's own stated
+   physics. The chapter also lists real candidate breaking mechanisms — Higgs-like mechanisms,
+   "cosmological factors such as boundary conditions or high temperature effects in the early universe,"
+   and "dimensional compactification" — any of which could seed an in-world myth of *how* the adinkra
+   order came to be hidden/folded away from ordinary perception.
+10. **Two structural, non-narrative details, both minor but genuinely usable.** First: global
+    supersymmetric multiplets are mathematically capped — "for N-extended supersymmetry, global
+    multiplets exist for N ≤ 4" — a real, hard ceiling on how many "extensions" of the base structure can
+    stack, usable as a sacred maximum order or hierarchy for however many "layers" or "ranks" of
+    adinkra-touched beings or revelation this religion ends up positing. Second: the book's own title and
+    Preface make an explicit, deliberate joke of framing itself as "1001" lessons/items — a direct,
+    self-aware nod to Scheherazade and *1001 Nights* — a ready-made oral-tradition/scripture-compilation
+    conceit already sitting in the source material if Adinkra Codex's own sacred texts ever need a
+    framing device.
 
 ### Why this is useful for religion #3 specifically
 
@@ -698,14 +736,93 @@ didn't have before. Premise 5 (the authors' own Twilight Zone epigraph) is worth
 specifically if this religion's own founding mythology or scripture ever needs an epigraph or framing
 device — it's hard to find a cleaner piece of already-existing, on-the-nose material than physicists
 themselves choosing that exact quote to open a book about literal higher-dimensional coordinates.
+**Premises 8 and 9 (found on the 2026-07-20 second pass) are the strongest addition yet for this
+religion's own cosmology/creation-doctrine specifically** — a real, citable "the true order is hidden from
+direct observation" statement, plus an actual physics theorem connecting broken vs. unbroken structure to
+zero vs. positive energy, together giving Adinkra Codex a genuine creation-myth mechanism (breaking =
+origin of manifest, energetic reality) grounded in the source material rather than invented from scratch.
 
 ### Not used / discarded
 
 The entire technical body of the book from Chapter 2 onward — Grassmann coordinate algebra, superfield
 component expansions, Yang-Mills gauge theory in superspace, supergravity prepotentials and quantization,
-supergraph Feynman rules, symmetry-breaking mechanisms. Real, rigorous physics, but translating any of it
-into religious doctrine without real distortion would require expertise this project doesn't need to
-manufacture — the conceptual premises above are already sufficient without it.
+supergraph Feynman rules, most of the symmetry-breaking chapter's own equations. Real, rigorous physics,
+but translating any of it into religious doctrine without real distortion would require expertise this
+project doesn't need to manufacture — the conceptual premises above (now including the Chapter 8 opening)
+are already sufficient without it. **Confirmed via a full second pass, 2026-07-20:** every other chapter
+opening (2 through 7) was checked directly and confirmed to contain no comparable narrative material —
+Chapter 8's opening is a genuine, isolated exception, not a sign that more remains unmined elsewhere in
+the book.
+
+---
+
+## Topology reference books — TOC-level scan (Polydimensional Animism)
+
+**Source folder:** `Reference/Materials/books/STEM/math/topology/` — ten real topology/differential-geometry
+textbooks, none previously catalogued anywhere in this project (confirmed absent from
+`Reference/Real-World/Book_TOC_Master_Reference.md`, which has not yet touched the STEM/math/Physics/
+Astrophysics corpus at all). **This is a table-of-contents-level scan only, not a full content extraction**
+— the same lighter-weight pass used for the general book-cataloguing effort, done here specifically
+because the developer asked what TOCs could be pulled for "higher-dimensional topology-related topics" to
+support Polydimensional Animism. Deeper premise-by-premise extraction (in the style of the video sources
+above) is a separate, later task if wanted.
+
+**Reviewed 2026-07-20 (TOC only):** *Geometry, Topology and Physics* — Mikio Nakahara, 2nd Ed (2003). Full
+chapter/section table of contents pulled via `pdftotext`. The other nine titles in the folder have not yet
+been scanned even at TOC level — listed at the end of this section.
+
+### Why Nakahara specifically, first
+
+Of the ten titles in the folder, this is the one explicit bridge between topology/geometry and physics
+(the others are pure-math topology texts with no physics content) — its own Preface states the intent
+directly: written for "a first-year postgraduate student in theoretical physics," with worked examples
+"eclectic collections from particle physics, general relativity and condensed matter physics." Structurally
+it moves from physics motivation (ch. 1) through pure-math foundations (ch. 2-8: topological spaces,
+homology, homotopy, manifolds, differential forms, Riemannian geometry) into genuinely exotic territory:
+fibre bundles and connections (ch. 9-10), characteristic classes (ch. 11), index theorems including
+supersymmetric quantum mechanics (ch. 12), gauge anomalies (ch. 13), and bosonic string theory (ch. 14).
+
+### Structural highlights worth flagging for future deeper extraction
+
+- **Section 4.8-4.10, "Orders in condensed matter systems" / "Defects in nematic liquid crystals" /
+  "Higher dimensional texture" / "Textures in superfluid ³He-A."** A real, physically-grounded discussion of
+  how topological defects and textures manifest differently as dimensionality increases — worth checking
+  directly against the "higher dimensionality" video sources already reviewed above (Zach Star,
+  exoScience, Space Cabal), since this looks like the same territory approached from a rigorous textbook
+  angle rather than a popular explainer.
+- **Chapter 9-10, Fibre Bundles and Connections on Fibre Bundles.** The core mathematical machinery for
+  describing a "bundle" of additional structure attached at every point of ordinary space — conceptually,
+  this is close to a rigorous version of "extra structure/dimensionality riding along with, but not
+  reducible to, ordinary space," which is close to Polydimensional Animism's own core premise. Worth a
+  real extraction pass specifically for this reason.
+- **Chapter 14, Bosonic String Theory.** The book's own final chapter, and the most directly relevant to
+  "living in higher dimensions" — string theory's defining feature is requiring extra spatial dimensions
+  for mathematical consistency, tying directly back to the exoScience/Space Cabal material's own citation
+  of string theory's 10 dimensions.
+- **Chapter 12, Index Theorems, section 12.9-12.10, "Supersymmetric quantum mechanics" / "Supersymmetric
+  proof of index theorem."** An unexpected, genuine overlap point between this topology book and the
+  Adinkra Codex material above — supersymmetry showing up as a *proof technique* within topology itself,
+  not just as its own separate field. Worth knowing about if Adinkra Codex and Polydimensional Animism are
+  ever developed with any doctrinal overlap or rivalry — the real math actually connects the two subjects
+  at this specific point.
+
+### Not yet scanned
+
+The other nine titles in the same folder — no TOC or content review has been done on any of these yet:
+- *A First Course in Topology: An Introduction to Mathematical Thinking* — Robert A. Conover (2014)
+- *A First Course in Topology: Continuity and Dimension* — John McCleary (2006)
+- *An Illustrated Introduction to Topology and Homotopy* — Sasho Kalajdzievski (2014)
+- *A Short Course in Differential Topology* — Bjørn Ian Dundas (2018)
+- *Geometry and Topology* — Miles Reid, Balázs Szendroi (2005)
+- *Introduction to Geometry and Topology* — Werner Ballmann, 1st Ed (2018)
+- *Introduction to Metric and Topological Spaces* — Wilson A. Sutherland, 2nd Ed (2009)
+- *Introduction to Topology: Pure and Applied* — Colin Adams, Robert Franzosa (2007)
+- *The Topology Problem Solver* — The Staff of REA (1998)
+
+Also not yet scanned: `Reference/Materials/books/STEM/Physics/`, `STEM/Astrophysics/`, and
+`STEM/Astronomy and Cosmology/` — none of which have been catalogued in `Book_TOC_Master_Reference.md`
+either. Worth a dedicated pass if Polydimensional Animism's own doctrine needs more real-physics grounding
+beyond the video sources already reviewed.
 
 ---
 
