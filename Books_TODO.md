@@ -1,0 +1,40 @@
+# Inner Tepenia — Books To-Do List
+
+A running checklist of real-world books to acquire for the reference library
+(`Reference/Materials/books/`), organized by topic/purpose. Counterpart to `TODO.md`, but specifically for
+book acquisition rather than design work. Check items off as they're acquired; add new items as gaps get
+identified during research passes.
+
+---
+
+## Higher Dimensions / String Theory / Kaluza-Klein Theory — flagged 2026-07-20
+
+Needed for Polydimensional Animism's real-world physics grounding (see `Worldspace/Factions/basis
+collection - robot religions/Analysis_Notes.md`). Confirmed 2026-07-20 that no dedicated book on either
+subject currently exists anywhere in the library.
+
+**Popular/narrative — best fit for the nature and possible contents of higher dimensions, not just the
+math:**
+- [ ] *Hyperspace* — Michio Kaku. Popular history of higher-dimensional physics, including Kaluza-Klein
+      theory's own origin story and speculative discussion of what higher-dimensional space might contain.
+- [ ] *The Fourth Dimension: Toward a Geometry of Higher Reality* — Rudy Rucker. Explicitly about the
+      nature and possible contents of the fourth dimension specifically; blends real math with speculative/
+      philosophical material. Probably the single best-targeted title for this project's specific angle.
+- [ ] *Flatland: A Romance of Many Dimensions* — Edwin A. Abbott (1884). The original source of the
+      "lower-dimensional being encountering a higher one" framing already used heavily in the
+      Polydimensional Animism video sources.
+- [ ] *Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions* — Lisa Randall.
+      Extra dimensions and braneworld theory, from a physicist who did foundational work in the field.
+- [ ] *The Elegant Universe* — Brian Greene. The best-known popular string-theory book; broader than just
+      extra dimensions, but extra dimensions are a core thread throughout.
+
+**Technical/textbook — actual acquirable texts, for filling the gap `Book_TOC_Master_Reference.md` flagged
+as completely empty:**
+- [ ] *A First Course in String Theory* — Barton Zwiebach. The standard modern intro textbook; covers
+      Kaluza-Klein theory directly within it, so this alone may cover both flagged topics at once.
+- [ ] *String Theory and M-Theory: A Modern Introduction* — Becker, Becker, Schwarz. More advanced
+      graduate-level text, a good second/deeper title if wanted.
+
+*(No single well-known book is dedicated to Kaluza-Klein theory alone — it typically appears as a chapter
+or section within general relativity, supergravity, or string-theory texts, e.g., within Zwiebach's book
+above, rather than getting its own standalone volume.)*
