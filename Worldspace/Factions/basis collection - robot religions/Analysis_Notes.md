@@ -767,9 +767,14 @@ because the developer asked what TOCs could be pulled for "higher-dimensional to
 support Polydimensional Animism. Deeper premise-by-premise extraction (in the style of the video sources
 above) is a separate, later task if wanted.
 
-**Reviewed 2026-07-20 (TOC only):** *Geometry, Topology and Physics* — Mikio Nakahara, 2nd Ed (2003). Full
-chapter/section table of contents pulled via `pdftotext`. The other nine titles in the folder have not yet
-been scanned even at TOC level — listed at the end of this section.
+**Reviewed 2026-07-20:** *Geometry, Topology and Physics* — Mikio Nakahara, 2nd Ed (2003), TOC-level only
+(below). **A second pass the same day** went through the TOCs of eight more titles in the folder and did a
+full premise-level content extraction on the single standout find — Colin Adams and Robert Franzosa's
+*Introduction to Topology: Pure and Applied*, which turned out to have a genuinely rare thing: an entire
+real, published-textbook chapter titled "Manifolds and Cosmology," treating the shape of the physical
+universe itself as a topology problem. That extraction follows Nakahara's section below. Two titles
+(McCleary, and the REA problem-solver) remain unscanned — both are `.djvu` files, and no djvu-reading tool
+was available in this environment to open them.
 
 ### Why Nakahara specifically, first
 
@@ -806,23 +811,143 @@ supersymmetric quantum mechanics (ch. 12), gauge anomalies (ch. 13), and bosonic
   ever developed with any doctrinal overlap or rivalry — the real math actually connects the two subjects
   at this specific point.
 
-### Not yet scanned
+---
 
-The other nine titles in the same folder — no TOC or content review has been done on any of these yet:
-- *A First Course in Topology: An Introduction to Mathematical Thinking* — Robert A. Conover (2014)
+## Adams & Franzosa — "Introduction to Topology: Pure and Applied" (2007), Ch.14 "Manifolds and Cosmology"
+
+**Source:** `Reference/Materials/books/STEM/math/topology/Introduction to Topology-- Pure and Applied - Colin
+Adams, Robert Franzosa [2007].pdf`. **Reviewed 2026-07-20**, full text extracted via `pdftotext`, Chapter
+14 (pp.441-485 of the book's own pagination) read in full; other chapters (1-13, pure point-set/algebraic
+topology — topological spaces, connectedness, compactness, dynamical systems, homotopy, knots, graph
+theory) checked at TOC level only and confirmed to be standard coursework topology with no direct doctrinal
+hooks. **This single chapter is the strongest real-world source found yet for Polydimensional Animism's own
+cosmology** — a genuine, published, peer-reviewed-adjacent textbook treatment of the actual physical
+universe as a topological/geometric object, independent of and more rigorous than any of the popular-video
+sources reviewed above.
+
+### What's actually in it
+
+The chapter opens from an honest question a real cosmologist would ask: given that locally, everywhere we
+look, space seems to behave like ordinary three-dimensional Euclidean space, what is space's actual
+*global* shape — is it infinite, or could it be a finite shape that simply looks locally like ordinary flat
+space everywhere, the way the surface of a (very large) sphere looks locally flat to something standing on
+it? The chapter treats this as a genuine open scientific question, and describes two real methods
+cosmologists have proposed to actually go test it observationally.
+
+### Extractable premises, distilled
+
+1. **The universe's own local flatness does not settle its global shape — that's a separate, genuinely
+   open question.** Stated directly: "it seems to have the property that around every point there is a
+   neighborhood that is homeomorphic to an open ball in R³... But which 3-manifold is it?" A rigorous,
+   textbook-level statement of exactly the premise Polydimensional Animism needs: ordinary lived experience
+   of space (locally flat, seemingly infinite) is compatible with the universe actually being a specific,
+   bounded, exotic global shape — direct, real, non-speculative support for "the world as experienced is
+   not the same thing as the world's true shape."
+2. **There are only three possible geometries for a homogeneous, isotropic universe — Euclidean, spherical,
+   and hyperbolic — corresponding to zero, positive, and negative curvature.** A real triadic cosmological
+   structure, already analogous in shape to Polydimensional Animism's own "which layer/dimension is
+   privileged, and why" numerology interest (see Zach Star's premise 6-7 above) — except here it isn't a
+   count of dimensions, it's a count of *possible geometries the one universe we're actually in could
+   have*. Genuinely different in kind and worth keeping distinct from the dimension-count material already
+   logged.
+3. **A finite universe can be built by literally gluing the faces of an ordinary solid together — a cube,
+   a hexagonal prism, a dodecahedron — and the resulting glued space still looks locally like ordinary flat
+   (or curved) space everywhere, with no seam or edge detectable from inside.** Concrete named examples: the
+   3-torus (opposite faces of a cube glued straight across), the quarter-twist and half-twist manifolds
+   (opposite faces glued with a rotation), the Poincaré dodecahedral space and the Seifert–Weber
+   dodecahedral space (a regular dodecahedron with twisted face-gluings). **This is a rigorous, real
+   mechanism for "the universe wraps around on itself in a way indistinguishable from inside, but with real
+   consequences if you look far enough"** — arguably a cleaner, more scientifically real version of the
+   "look far enough and something changes" imagery already present in the higher-dimensionality video
+   sources (Zach Star's sphere-packing "breaking through its own container," logged above).
+4. **Cosmic crystallography: if the universe is finite and glued this way, you would see the same distant
+   galaxy repeated, over and over, receding along every direction light can travel.** In a cube-shaped
+   3-torus universe with 10-million-light-year edges, looking straight out in any direction perpendicular to
+   a face shows the same home galaxy again at 10 million light-years, again at 20 million, again at 30
+   million, and so on — and every other galaxy in the universe would show the identical repeating pattern,
+   at various characteristic distances depending on viewing angle. Proposed and published by real
+   cosmologists (Lachièze-Rey, Lehoucq, and Luminet, 1996) as an actual observational test. **This is an
+   extraordinarily strong, ready-made mythic image**: a cosmos in which looking far enough in any direction
+   eventually shows you your own home again, receding into an endless, repeating lattice of itself — usable
+   almost directly as a foundational vision, origin myth, or meditative/ritual image for this religion,
+   with a real scientific mechanism behind it rather than being invented from nothing.
+5. **"Circles in the sky" — the same real methodology applied to the Cosmic Microwave Background, the
+   oldest light in the universe.** If the universe is finite and glued (a 3-torus, in the book's worked
+   example) and the sphere of the CMB's "surface of last scattering" is large enough to reach past the
+   universe's own repeating boundary, the sphere effectively intersects itself, producing matching pairs of
+   circles of identical temperature pattern, visible in two different places in the sky at once. Real
+   cosmologists (Cornish, Spergel, Starkman, and Weeks) proposed searching the actual WMAP data for exactly
+   this signature. A second independent version of premise 4's core image (something repeating/echoing
+   itself across the sky), this time built into the very oldest light in existence rather than into
+   ordinary galaxies — strong material for framing the CMB itself (real, findable, already-named "oldest
+   light in the universe") as this religion's own primal/creation-adjacent image.
+6. **Both proposed detection methods are real, ongoing, and — as of the book's writing — inconclusive.**
+   Cosmic crystallography: "with current supercluster catalogs, no patterns have yet been discovered. But
+   in the near future, more complete catalogs will become available." Circles in the sky: presented as an
+   active search methodology, not a settled result. **Continues the exact epistemic-humility pattern already
+   documented across every other source in this collection** (see the running note at premise 7 of the
+   Ice-Cold Buddhism section above) — a real, big, testable claim about the ultimate shape of everything,
+   paired with honest acknowledgment that no one actually knows the answer yet. Now confirmed across a
+   seventh independent source, and the first one grounded in a rigorous math textbook rather than a lecture,
+   article, or popular video.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premises 4 and 5 together are the best single find in this entire research effort for this religion's own
+founding cosmology — a real, testable, actually-proposed-by-real-cosmologists mechanism for "the universe
+secretly repeats/echoes itself if you look far enough," independent of anything already logged from the
+video sources, and considerably more rigorous (a genuine textbook chapter, citing real published papers,
+rather than a popular explainer). Premise 1 gives the religion its cleanest available statement of the
+core "what's experienced locally is not the same as the true global shape" premise. Premise 2 (the
+three-geometries triad) is a strong, distinct candidate for the religion's own doctrinal numerology,
+genuinely different in structure from the dimension-count material already logged and worth keeping
+separate from it rather than merged.
+
+### Not used / discarded
+
+Chapters 1-13 of the same book (standard point-set and algebraic topology coursework — topological spaces,
+compactness, dynamical systems and chaos, homotopy, knots, graph theory) — checked at TOC level, no
+comparable narrative or cosmological content found; Chapter 14 is a genuine outlier within its own book,
+not representative of the rest of it. Also not used: the chapter's own worked mathematical exercises on
+edge/vertex gluing conditions (the "Edge Test" and "Vertex Test") — real and rigorous, but purely
+procedural verification steps with no doctrinal content of their own.
+
+---
+
+## Other topology titles — TOC-level scan only, lower yield
+
+**Reviewed 2026-07-20, TOC only** (all from the same `Reference/Materials/books/STEM/math/topology/`
+folder): *An Illustrated Introduction to Topology and Homotopy* (Kalajdzievski, 2014), *A Short Course in
+Differential Topology* (Dundas, 2018), *Geometry and Topology* (Reid & Szendroi, 2005), *Introduction to
+Geometry and Topology* (Ballmann, 2018), *Introduction to Metric and Topological Spaces* (Sutherland,
+2009), and *A First Course in Topology: An Introduction to Mathematical Thinking* (Conover, 2014, epub).
+None of these six warranted a full premise-level extraction pass — they're standard coursework topology
+(point-set topology, homotopy theory, metric spaces, vector bundles, manifolds) with no physics, cosmology,
+or higher-dimensional-entity content comparable to Nakahara or Adams & Franzosa. Two structural notes worth
+keeping in mind if any of these get revisited later:
+
+- **Reid & Szendroi** is the one exception with a thematically relevant chapter at the TOC level:
+  "Spherical and hyperbolic non-Euclidean geometry" — alternate, internally consistent geometric systems
+  with fundamentally different rules than ordinary flat space (the sum of a triangle's angles isn't 180°),
+  which could be useful for describing higher-dimensional or otherwise-inaccessible realms as operating
+  under genuinely different geometric law, not just "more of the same space, further away." Not yet
+  extracted at premise level.
+- **Sutherland's** PDF is a poor-quality OCR scan (badly garbled ligatures throughout) and the book's own
+  Preface explicitly states it does not cover geometric or algebraic topology "at all" — lowest-priority
+  title in the folder for any future pass.
+
+### Not yet scanned at all
+
+Two titles remain completely unreviewed — both `.djvu` files, and no djvu-reading tool (`djvutxt` or
+equivalent) was available in this environment:
 - *A First Course in Topology: Continuity and Dimension* — John McCleary (2006)
-- *An Illustrated Introduction to Topology and Homotopy* — Sasho Kalajdzievski (2014)
-- *A Short Course in Differential Topology* — Bjørn Ian Dundas (2018)
-- *Geometry and Topology* — Miles Reid, Balázs Szendroi (2005)
-- *Introduction to Geometry and Topology* — Werner Ballmann, 1st Ed (2018)
-- *Introduction to Metric and Topological Spaces* — Wilson A. Sutherland, 2nd Ed (2009)
-- *Introduction to Topology: Pure and Applied* — Colin Adams, Robert Franzosa (2007)
-- *The Topology Problem Solver* — The Staff of REA (1998)
+- *The Topology Problem Solver* — The Staff of REA (1998) — likely low-value even if opened, since it's
+  described as a solutions/problem-solving guide rather than an expository text.
 
 Also not yet scanned: `Reference/Materials/books/STEM/Physics/`, `STEM/Astrophysics/`, and
 `STEM/Astronomy and Cosmology/` — none of which have been catalogued in `Book_TOC_Master_Reference.md`
 either. Worth a dedicated pass if Polydimensional Animism's own doctrine needs more real-physics grounding
-beyond the video sources already reviewed.
+beyond what's already been found.
 
 ---
 
