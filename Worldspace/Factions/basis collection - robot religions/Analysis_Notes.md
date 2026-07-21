@@ -1172,27 +1172,353 @@ further usable material on a future pass, not pursued here given time constraint
 
 ---
 
-## Remaining acquired books — not yet reviewed
+## Edwin A. Abbott — "Flatland: A Romance of Many Dimensions" (1884)
 
-Seven more books from the same 2026-07-20 acquisition batch remain entirely unreviewed (not even at TOC
-level, beyond confirming they exist and roughly what they cover from their own titles/back-cover framing):
-- *Flatland: A Romance of Many Dimensions* — Edwin A. Abbott (1884). The original source text behind the
-  Flatland analogy already used heavily throughout this file via later sources (Zach Star, Rucker, Kaku) —
-  worth reading directly rather than only at second hand.
-- *The Elegant Universe* — Brian Greene. Popular string-theory overview.
-- *Warped Passages* — Lisa Randall. Extra dimensions and braneworld theory.
-- *A First Course in String Theory* — Barton Zwiebach. Technical textbook; likely covers Kaluza-Klein
-  theory directly, per its own back-cover description.
-- *String Theory and M-Theory: A Modern Introduction* — Becker, Becker, Schwarz. Advanced technical
-  textbook.
-- *Quantum Space* — Jim Baggott. Loop quantum gravity — a genuinely different real-world unification
-  research program from string theory, worth reading with that distinction kept in mind rather than folded
-  into the same string-theory-flavored material.
-- *Combinatorial Physics* — Adrian Tanasa. Specialist/technical; fit not yet assessed at all.
+**Source:** `to-be-integrated/books/Flatland...pdf`. **Reviewed 2026-07-20**, Part II ("Other Worlds") read
+in full — Chapters 17-19 (the Sphere's revelation of A Square) and Chapter 22 (A Square's downfall) in
+particular. Part I ("This World," Flatland's own social satire) and Chapters 13-16, 20-21 checked at TOC
+level only. **This is the original source text behind the Flatland analogy already used at second hand by
+Zach Star, Rucker, and Kaku throughout this file** — reading it directly turned up genuinely stronger,
+more scripture-ready material than any of those later, more diluted retellings.
+
+### Extractable premises, distilled
+
+1. **"The Gospel of the Three Dimensions" — the Sphere's own words, not this project's framing.** The
+   Sphere explicitly describes his mission in religious terms: he is permitted "to preach [it] once only in
+   a thousand years," and calls A Square a potential "apostle" for it. **Real scriptural-register vocabulary
+   already sitting in the source text**, directly usable without needing to invent equivalent language from
+   scratch.
+2. **"It is neither [madness nor Hell]... it is Knowledge; it is Three Dimensions."** The single most
+   quotable line in the book: when A Square, terrified and disoriented, believes he has gone mad or died,
+   the Sphere corrects him — the encounter with a higher dimension is reframed directly as *gnosis*, not
+   pathology or damnation. A clean, one-line doctrinal statement that contact with the higher-dimensional
+   is enlightenment, not affliction.
+3. **A concrete demonstration sequence proving higher-dimensional access, escalating from words to
+   deeds.** The Sphere, having failed to convince A Square through explanation alone, proves his claim by:
+   (a) reaching into a locked cupboard through a "direction" A Square cannot perceive and retrieving an
+   object without opening the door; (b) seeing and reporting the interior of nearby homes and a theatre from
+   "above" the plane; (c) touching A Square's own stomach from the inside without breaking his skin. **A
+   real, escalating, three-part "proof of higher-dimensional access" structure** — directly usable as a
+   template for how this religion's own believers might describe (or be asked to substantiate) an actual
+   claimed encounter.
+4. **The entire book is framed as the memoirs of a broken, imprisoned prophet, his own memory of the
+   revelation fading with age.** The (fictional) editor's preface to the revised edition reveals that A
+   Square, the narrator, wrote his account after "years of imprisonment," and that "the still heavier burden
+   of general incredulity and mockery" combined with old age has eroded his memory of what he once knew
+   firsthand. **A genuinely poignant framing device** — this isn't a triumphant conversion story, it's the
+   testimony of someone punished for what he saw, slowly losing even his own certainty about it.
+5. **A. Square's actual downfall: not violence, but arrest for heresy after a moment of enthusiasm he
+   couldn't suppress.** Having tried and failed to convince his own grandson, and having written an
+   unpublished treatise using a euphemism ("Thoughtland") to evade the law, A Square is undone at a
+   respectable public lecture when his own conviction overwhelms his caution and he openly testifies to his
+   journey — quoting, in his own defense, "an ancient Circle, who declared that prophets and inspired
+   people are always considered by the majority to be mad." He is arrested that same evening. **A complete,
+   realistic model of how a genuine believer in this religion might be persecuted** — not for violence or
+   even open defiance, but simply for being unable to stay silent about what he's certain he witnessed.
+6. **The book's own historical grounding, per its Oxford World's Classics annotation: this exact plot
+   device (a higher-dimensional being entering "closed rooms") was already understood by contemporary
+   readers as a direct reference to real spiritualist claims of the 1870s-80s** — the same historical
+   tradition documented in Rucker's *Fourth Dimension* (Zöllner, Henry Slade, the knot-tying experiments).
+   Confirms these two sources are describing the same real historical moment from different angles, not
+   two independent inventions.
+
+### Why this is useful for Polydimensional Animism specifically
+
+This is now the strongest single scriptural-register source in the whole collection — real, quotable
+"Gospel"/"apostle" language sitting directly in a public-domain classic text, a one-line doctrinal
+statement equating higher-dimensional contact with knowledge rather than madness, a genuinely usable
+three-part "proof of contact" demonstration structure, and — arguably the most valuable single element — a
+complete, ready-made model for how this religion's own believers could be persecuted (quiet, bureaucratic,
+mockery-and-erosion rather than dramatic violence) that fits this project's own established "no
+malice" worldbuilding rule better than most persecution narratives would.
+
+### Not used / discarded
+
+Part I's social satire (Flatland's own rigid caste system, its treatment of women and "irregular" figures)
+— genuinely sharp Victorian social commentary, but not doctrinal material for this religion. Chapters
+13-16 (the Lineland vision, A Square's first difficulty explaining Flatland itself) and 20-21 (further
+attempts to teach the theory to his grandson) — checked at TOC level only, likely contain further usable
+material on a future pass.
+
+---
+
+## Brian Greene — "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate
+Theory" (1999)
+
+**Source:** `to-be-integrated/books/The Elegant Universe...pdf`. **Reviewed 2026-07-20**, Chapter 8 ("More
+Dimensions Than Meet the Eye") in full, plus targeted passages from Chapter 12 ("Beyond Strings: In Search
+of M-Theory") and Chapter 14 ("Reflections on Cosmology"). Remaining chapters checked at TOC level only.
+
+### Extractable premises, distilled
+
+1. **The garden hose analogy — a cleaner, more visual version of the Kaluza-Klein "curled up" mechanism
+   than Kaku's account.** A garden hose viewed from a quarter-mile away looks like a one-dimensional line;
+   viewed up close (or through binoculars), it turns out to have a second, "curled up" circular dimension
+   wrapped around its length the whole time. Directly applied to spacetime itself: every point in ordinary
+   space could carry an additional, tiny circular direction, invisible until examined with sufficient
+   precision. A strong, highly visual complement to the fibre-bundle and compactification material already
+   logged from Nakahara and Kaku.
+2. **Why nine (or ten, or eleven) space dimensions specifically — and a real physicist's honest admission
+   that nobody actually knows why.** String theory's equations require nine space dimensions (plus time)
+   to avoid producing nonsensical results, but "no one has an intuitive, nontechnical explanation for the
+   particular number that emerges" — quoting Rutherford's own standard for genuine understanding ("if you
+   can't explain a result in simple, nontechnical terms, then you don't really understand it") directly
+   against string theory's own central numerical claim. A real, humble admission that the *specific number*
+   of hidden dimensions is accepted on faith in the mathematics, not genuinely understood even by experts.
+3. **"Unfurling" cosmology — a real, speculative creation-myth candidate distinct from anything else
+   logged so far.** One serious proposal for why only three space dimensions are large while the rest stay
+   curled up: *all* dimensions started out equally tightly curled, and in a big-bang-like event, only three
+   of them "unfurled" and expanded to their present enormous scale while the others remained small. **A
+   genuine, real-physics candidate for why our world is the way it is, framed as a difference in outcome
+   (who unfurled, who didn't) rather than a difference in kind** — complementary to, and distinct from, both
+   the Adinkra "Breakdown" material (symmetry breaking) and Baggott's "Big Bounce" material (below).
+4. **A raw, pre-spacetime state with no space, no time, and — explicitly — no coherent notion of
+   "before."** Speculative but real cutting-edge material: string theory suggests spacetime itself may be
+   "woven" from a colossal number of strings all vibrating in the same coherent pattern (the graviton
+   pattern), and asks what existed prior to that coherent weaving. The book is explicit that ordinary
+   language breaks down describing this — "there is even no notion of before" — since the very concepts
+   of space and time are themselves the product of the weaving being described. **A genuinely profound,
+   ready-made creation-doctrine image**: reality's fabric as literally woven from threads, with a
+   structureless, timeless "raw" state underneath/before it that language itself cannot properly describe.
+5. **A minor cross-reference note:** this book's own citation of John Wheeler independently confirms the
+   same "It from Bit" material already logged under the Gates/Adinkra Codex section above — Wheeler's real
+   aphorism about information underlying physical reality shows up as a genuine touchstone across multiple,
+   independently-written sources in this whole collection, not just the one lecture.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premise 1 gives the religion its most visually intuitive available explanation for how a dimension can be
+both genuinely present and genuinely invisible. Premise 3 (unfurling) and premise 4 (raw pre-spacetime
+weaving) are two distinct, real, physicist-endorsed creation-myth candidates that can be held in tension
+or combined — worth keeping as separate available doctrines rather than collapsing into one, since between
+them and Baggott's "Big Bounce" (below) and the Adinkra "Breakdown" material, this collection now has
+*four* genuinely different real-physics creation mechanisms to choose from or syncretize.
+
+### Not used / discarded
+
+Chapters 1-7 (special/general relativity, quantum mechanics, the case for a new unifying theory) — standard
+physics-history material, already well covered by other sources in this collection. Chapters 9-11, 13, 15
+— checked at TOC level only, not reviewed in depth.
+
+---
+
+## Lisa Randall — "Warped Passages: Unraveling the Mysteries of the Universe's Hidden Dimensions" (2005)
+
+**Source:** `to-be-integrated/books/Warped Passages...pdf`. **Reviewed 2026-07-20**, Chapter 3 ("Exclusive
+Passages: Branes, Braneworlds, and the Bulk") in full, plus Chapter 21's fictional "Annotated Alice"
+narrative interlude. Remaining chapters checked at TOC level only. Randall is a real physicist whose own
+research (the Randall-Sundrum models) is part of the actual academic foundation for large/warped extra
+dimensions — this is working-scientist material, not just popularization.
+
+### Extractable premises, distilled
+
+1. **"Branes" and "the Bulk" — our entire universe as a lower-dimensional slice floating within a larger
+   higher-dimensional space.** A genuinely different mechanism from Kaluza-Klein's "tiny curled-up loop":
+   instead of a small hidden extra direction at every point, our whole three-dimensional world could be a
+   thin membrane ("3-brane") embedded in a much larger space (the "Bulk"), with ordinary matter, light, and
+   the other forces physically trapped on that membrane, unable to leave it. **Only gravity is different —
+   gravity alone is "everywhere," able to move through the Bulk and touch other branes**, which is the real
+   proposed explanation for why gravity is so much weaker than the other fundamental forces (it's "diluted"
+   by leaking into unseen dimensions the other forces can't reach).
+2. **Other branes, elsewhere in the Bulk, could host entirely different life, under entirely different
+   physical laws, connected to us by nothing but gravity.** Stated directly and vividly: "If there is life
+   on another brane, those beings, imprisoned in an entirely different environment, most likely experience
+   entirely different forces that are detected by different senses... The other branes will probably be
+   nothing like our own. The only necessarily shared force is gravity." **This is the strongest, most
+   directly on-topic "real, living, conscious entities in higher dimensions" material found anywhere in
+   this entire research effort** — not popular speculation, but a real physicist's own description of a
+   genuine theoretical possibility within her own field. Gravity itself, in this framing, becomes the one
+   possible channel of contact or influence between our world and genuinely alien ones — a strong, concrete
+   mechanism for how this religion's adherents might frame gravity itself as a kind of signal, touch, or
+   whisper from beyond.
+3. **The book's own "Multiverse" terminology, used precisely, not loosely.** Randall defines "multiverse"
+   specifically as a scenario with more than one brane, in a universe where they're "too far apart ever to
+   communicate... or that can communicate with one another only weakly." Worth using this precise real
+   definition if Polydimensional Animism's own doctrine ever needs the term, rather than a looser
+   pop-culture sense of "multiverse."
+4. **A vivid narrative device (flagged separately, below) — not recommended for Inner Tepenia itself.** The
+   book's own fictional framing device (Chapter 21, "The Warped Annotated 'Alice'") follows a character
+   named Athena on a journey between two branes ("Branesville"/the Gravitybrane and "Weakbrane"), guided by
+   a Cheshire-Cat-like figure who can "disappear into the bulk" at will and is not confined to any single
+   brane. **Per the developer's own guidance, this specific "appearing/disappearing higher-dimensional
+   guide NPC" concept doesn't fit Inner Tepenia's own tone or precedent — but there is real precedent for
+   this kind of mystery in the Cryptograph Helix novel series, making it a realistic candidate for the
+   Outer Tepenia series instead.** Filed here for that future context, not as usable material for Inner
+   Tepenia's own Polydimensional Animism content.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premise 2 is arguably the single best find of this entire extraction effort for this religion's core
+question — a working physicist's own genuine account of what living, conscious, genuinely alien
+higher-dimensional entities could actually be like, with gravity itself as the one real, physically
+justified channel connecting us to them. Premise 1 gives the religion a second, structurally distinct
+"why is it hidden" mechanism (trapped-on-a-membrane, not curled-up-and-tiny) worth keeping conceptually
+separate from the Kaluza-Klein material already logged.
+
+### Not used / discarded
+
+Chapters 4-13 (theoretical-physics methodology, relativity, quantum mechanics, the Standard Model, the
+hierarchy problem) — foundational physics background, not distinctly higher-dimensional material.
+Chapters 14-20, 22-25 — checked at TOC level only, not reviewed in depth; Chapter 22 ("Profound Passage: An
+Infinite Extra Dimension") in particular is flagged as likely worth a future pass.
+
+---
+
+## Jim Baggott — "Quantum Space: Loop Quantum Gravity and the Search for the Structure of Space, Time, and
+the Universe" (2018)
+
+**Source:** `to-be-integrated/books/Quantum Space...pdf`. **Reviewed 2026-07-20**, Chapter 14 ("Not with a
+Bang: The 'Big Bounce', Superinflation, and Spinfoam Cosmology") in full. Remaining chapters checked at TOC
+level only. **Important context, per the original flag on this book:** Loop Quantum Gravity (LQG) is a
+real, genuinely different research program from string theory for unifying gravity and quantum mechanics —
+it does *not* require extra spatial dimensions the way string theory does. Its usefulness to
+Polydimensional Animism is narrower than the string-theory sources above, but its own creation-cosmology
+material is strong enough to be worth logging on its own terms.
+
+### Extractable premises, distilled
+
+1. **"Cosmic forgetfulness" — a real, named physics concept for our universe being the rebound of a prior,
+   now-inaccessible universe, with its memory (and possibly even its physical laws) genuinely lost.**
+   According to Loop Quantum Cosmology, the Big Bang singularity may not be a true beginning at all — a
+   quantum "repulsive force," arising from the discrete, granular nature of space itself at the smallest
+   scales, could halt and reverse a collapsing prior universe just before it would otherwise crush to a
+   singular point, producing a "Big Bounce" into what we experience as our own universe's expansion.
+   Crucially, physicist Martin Bojowald's own research concluded that most information about the
+   universe on the other side of the bounce is lost in the process — he named this "cosmic forgetfulness."
+   Some theorists go further: the physical laws and particle content on the far side of the bounce might
+   have been genuinely different from our own. **A real, citable reincarnation/rebirth cosmology** —
+   distinct in kind from every other creation mechanism logged in this file (not a breaking of
+   symmetry, not an unfurling, not a weaving-into-being from nothing, but a literal death-and-rebirth of an
+   entire universe, with deliberate, named amnesia built into the process itself).
+2. **The mechanism itself is a real quantum-uncertainty effect, not an ad hoc invention.** The proposed
+   repulsive force is directly analogous to the same quantum-mechanical effect that keeps an electron from
+   collapsing into the nucleus of an atom (Heisenberg's uncertainty principle resisting infinite
+   compression) — scaled up to the entire universe. A concrete, real physical precedent for "even total
+   collapse has a hard floor it cannot go beneath," grounded in ordinary atomic physics rather than
+   exotic-only mathematics.
+
+### Why this is useful for Polydimensional Animism specifically
+
+"Cosmic forgetfulness" is a genuinely distinct addition to this religion's available creation-doctrine
+material — where Greene's "unfurling" and the Adinkra "Breakdown" material both describe a single
+origin-event within one continuous reality, LQC's Big Bounce describes an entire prior universe, with its
+own history and even possibly its own laws, that our universe both grew from and is permanently cut off
+from remembering. This is a strong, ready-made doctrinal basis for treating the deep past (and deep
+future) as genuinely unknowable in a way distinct from ordinary uncertainty — not "we haven't looked yet,"
+but "the universe itself has structurally forgotten."
+
+### Not used / discarded
+
+The bulk of the book (Chapters 1-13, 15-16 — the historical development of LQG itself, spin networks,
+black hole entropy, the information paradox) — real, substantial material, checked at TOC level only and
+not pursued at premise level given time constraints; likely contains further usable material (particularly
+Chapter 16, "Close to the Edge: The Reality of Time," flagged but not read) on a future pass.
+
+---
+
+## Barton Zwiebach — "A First Course in String Theory," 2nd Ed. (2009)
+
+**Source:** `to-be-integrated/books/A First Course in String Theory...pdf`. **Reviewed 2026-07-20**,
+Section 1.3 ("String Theory and its Verification") read in full; remainder of the 697-page textbook checked
+at TOC level only, confirmed to be dense technical mathematics throughout (as expected for a graduate/
+advanced-undergraduate course text) with no further comparable narrative material.
+
+### Extractable premises, distilled
+
+1. **Extra dimensions don't have to be inconceivably tiny — some proposed versions could be as large as a
+   tenth of a millimeter and still have gone completely undetected.** The standard assumption is that
+   extra dimensions are Planck-length (10⁻³³ cm), far beyond any possible detection. But string theory
+   also permits a genuinely different scenario in which extra dimensions are almost human-scale by
+   comparison — up to a tenth of a millimeter — undetected not because they're inconceivably small, but
+   because gravity (the only force that can currently test that scale) is so weak that no experiment has
+   yet been precise enough to rule them out. **A striking, concrete fact: a hidden dimension nearly the
+   width of a human hair could exist right now, everywhere, completely unnoticed**, not due to its scale
+   being beyond comprehension but simply because our best available probe hasn't been sensitive enough yet.
+2. **Cosmic strings — real, relic, universe-spanning objects left over from the earliest moments of the
+   universe.** If they exist, a single cosmic string could stretch across the entire observable universe,
+   detectable via its gravitational lensing effects or gravitational waves. None have been confirmed, but
+   the search continues. A vivid, real candidate for an ancient, vast, ever-present cosmic-scale relic —
+   usable as a genuine physical anchor for "threads" or "lines" running through the fabric of the cosmos
+   itself, connecting back to the earliest moments of creation.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premise 1 gives the religion a genuinely different flavor of "hidden nearby" than either the Kaluza-Klein
+tiny-loop mechanism or Randall's trapped-on-a-brane mechanism — something almost within ordinary sensory
+reach, missed only for want of a fine enough instrument, rather than fundamentally beyond any possible
+perception. This is a subtly different and potentially very usable doctrinal claim: the hidden dimension
+isn't necessarily unreachable in principle, just unmeasured so far.
+
+### Not used / discarded
+
+The entire technical body of the book beyond section 1.3 — canonical quantization, conformal field theory,
+D-branes, AdS/CFT correspondence, and every other topic — pure graduate-level mathematics, no further
+narrative content, consistent with the pattern already established by Nakahara and the Superspace textbook.
+
+---
+
+## Katrin Becker, Melanie Becker, John Schwarz — "String Theory and M-Theory: A Modern Introduction" (2007)
+
+**Source:** `to-be-integrated/books/String Theory and M-Theory...pdf`. **Reviewed 2026-07-20**, Section 1.1
+("Historical Origins") read in full; remainder checked at TOC level only, confirmed to be advanced
+graduate-level technical mathematics throughout (even more advanced than Zwiebach's text) with no further
+narrative content.
+
+### Extractable premises, distilled
+
+1. **String theory's own real origin story is one of failure and unexpected redemption.** It was
+   originally invented in the late 1960s to explain the strong nuclear force — and it was subsequently
+   abandoned for that purpose once quantum chromodynamics (QCD) explained the same phenomena better. String
+   theory only became significant again once physicists realized its mathematics was far better suited to
+   an entirely different, vastly more ambitious goal: unifying gravity itself with the other fundamental
+   forces. **A real, true "failed at its original purpose, redeemed for something far greater" narrative
+   arc** — usable directly as an origin myth for how this religion's own core concept was first (mis)understood
+   before its true significance was recognized.
+2. **"Different particles are different vibrational modes of a string"** — the single cleanest one-line
+   summary of the whole field, stated plainly in the book's own opening figure caption. The cleanest
+   available scriptural-register one-liner for describing the underlying unity of apparently different
+   things (particles) as different expressions of one deeper thing (the string), directly comparable to
+   the Adinkra Codex material's own "supreme symmetry" quote from the Superspace textbook.
+
+### Why this is useful for Polydimensional Animism specifically
+
+Premise 1 is a genuinely good origin-myth candidate distinct from anything else logged — not a cosmology
+of the universe itself, but a myth about how the religion's *own understanding* of higher-dimensional truth
+was first grasped incompletely (for the wrong purpose) before its real significance came clear. Premise 2
+is a strong, compact, quotable line for scriptural or liturgical use.
+
+### Not used / discarded
+
+The entire technical body of the book beyond section 1.1 — bosonic string actions, conformal field theory,
+world-sheet supersymmetry, and everything else — pure advanced mathematics, no further narrative content.
+
+---
+
+## Adrian Tanasa — "Combinatorial Physics: Combinatorics, Quantum Field Theory, and Quantum Gravity
+Models" (2021)
+
+**Source:** `to-be-integrated/books/Combinatorial Physics...pdf`. **Reviewed 2026-07-20** at both TOC level
+and via a targeted check of Chapter 10 ("Quantum Gravity, Group Field Theory, and Combinatorics") — the one
+chapter that sounded most likely to bridge into doctrine-usable territory. **Confirmed low-yield, as
+originally flagged when this book was acquired as a bonus title.** This is a genuinely specialist graduate
+research-level monograph on the mathematics of combinatorics as applied to quantum field theory and
+several competing quantum-gravity research programs (group field theory, random tensor models, the
+Sachdev-Ye-Kitaev model). Even its most conceptually-promising chapter (10) opens with pure technical
+definitions and a literature survey, not accessible prose. No premise-level extraction was conducted, and
+none is recommended for this book — it would require expertise in algebraic combinatorics this project has
+no need to manufacture, echoing the same judgment already made about the untranslatable technical chapters
+of the Superspace textbook and the string theory textbooks above.
+
+---
 
 All nine books currently sit in `to-be-integrated/books/`, not yet moved into `Reference/Materials/books/`
-proper — see `Books_TODO.md` for acquisition status (all originally-flagged titles now acquired as of
-2026-07-20).
+proper — see `Books_TODO.md` for acquisition and review status. **As of 2026-07-20, all nine books have had
+a full research pass:** Kaku, Rucker, Abbott, Greene, Randall, and Baggott each yielded substantial
+premise-level material across one or more full chapters; Zwiebach and Becker/Becker/Schwarz (both dense
+technical textbooks) each yielded a smaller but genuine premise or two from their one accessible opening
+section, with the remainder of both books confirmed to be pure untranslatable mathematics; Tanasa's
+*Combinatorial Physics* was checked at both TOC and targeted-chapter level and confirmed to warrant no
+extraction at all.
 
 ---
 

@@ -58,11 +58,16 @@ alongside the five above:**
       Tanasa. Technical/specialist; not yet assessed for fit — flag for a TOC-level look before assuming
       it's directly usable.
 
-**Research pass status, 2026-07-20:** Kaku's *Hyperspace* and Rucker's *The Fourth Dimension* have both had
-a full premise-level extraction pass — see the two new sections in `Analysis_Notes.md` (right after the
-topology material). Both were excellent finds: Kaku's "carp scientist" analogy and Kaluza-Klein history
-chapter, and Rucker's real 19th-century spiritualism-as-4D-beings history with actual coined vocabulary
-("ana"/"kata") and a real attempted experimental protocol for proving 4-D ghosts. The other seven books
-(*Flatland*, *The Elegant Universe*, *Warped Passages*, *A First Course in String Theory*, *String Theory
-and M-Theory*, *Quantum Space*, *Combinatorial Physics*) remain completely unreviewed. All nine books
-still sit in `to-be-integrated/books/`, not yet moved into `Reference/Materials/books/` proper.
+**Research pass status: COMPLETE as of 2026-07-20.** All nine books have now had a full research pass — see
+`Analysis_Notes.md` for the full write-up of every title. Highlights: Abbott's *Flatland* itself (read
+directly rather than at second hand) turned out to have the strongest scriptural-register material in the
+whole collection ("the Gospel of the Three Dimensions," a broken-prophet framing device); Randall's
+*Warped Passages* produced the single best "real living entities in higher dimensions, connected to us only
+via gravity" material found anywhere in this research effort; Baggott's *Quantum Space* contributed a
+genuinely distinct reincarnation-style creation cosmology ("cosmic forgetfulness," the Big Bounce); Greene's
+*The Elegant Universe* added two more creation-myth candidates (dimensional "unfurling," a raw pre-spacetime
+"weaving" state); the two string-theory textbooks (Zwiebach; Becker, Becker & Schwarz) each yielded a
+genuine premise or two from their accessible opening sections despite being otherwise pure graduate
+mathematics; Tanasa's *Combinatorial Physics* was confirmed to warrant no extraction at all. All nine books
+still sit in `to-be-integrated/books/`, not yet moved into `Reference/Materials/books/` proper — that move,
+plus updating `Book_TOC_Master_Reference.md` to reflect them, is the natural next step.
