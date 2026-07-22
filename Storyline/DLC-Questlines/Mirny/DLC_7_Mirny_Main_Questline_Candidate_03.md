@@ -1,5 +1,17 @@
 # DLC 7 (Mirny Subnet) — Main Questline Candidate #3: "What Long Odds Knew"
 
+**Corrected 2026-07-21:** this candidate originally cited Casey's own Full Extrapolation (written
+2026-07-08) stating Casey's destruction left "no possible reroute" to the Dumont d'Urville coast. Casey's
+own, more recent Local Cultures file (corrected 2026-07-17) supersedes that: **an official reroute does
+exist** — Hwy 183 was re-routed via Concordia → Janbogo → Cape Adare → Denison → Dumont d'Urville, a
+complete, functioning alternate route that simply never touches Casey. The practical loss is real but
+smaller than originally framed: not "no way through," but "a dramatically longer detour, tracing nearly the
+whole Ross Sea coast past Cape Adare's and Zukelli's own ruins, replacing what used to be a short, direct
+coastal run." **The chain below is corrected accordingly** — the old wind-hazard crossing past Casey's ruins
+is now framed as a genuine shortcut worth real risk to avoid a punishing detour, not the only way through.
+This arguably strengthens the premise: people taking dangerous shortcuts to avoid a long, grinding detour is
+a more grounded motivation than there being no alternative at all.
+
 **What this is:** a third prospective But/Therefore chain for DLC 7's main questline, produced by running
 `../DLC_Main_Questline_Design_Method.md` against Mirny subnet, using cast and material distinct from both
 prior candidates. **Not canon, not chosen, not the only candidate** — the 3rd of the "at least 10" the
@@ -15,8 +27,11 @@ Australian-heritage cluster, distinct from both Candidate #1's cast (Vostok/Kunl
 ## Inputs actually used (Step 1 of the design method)
 
 - **Casey's own Full Extrapolation, Section I** — Casey was a deliberate early casualty specifically
-  because Hwy 2/DCH ran *directly through* the city, meaning its destruction permanently severed the
-  Dumont d'Urville coast from the rest of the official highway network, "with no possible reroute."
+  because Hwy 2/DCH ran *directly through* the city, cutting off the short, direct coastal route to the
+  Dumont d'Urville coast.
+- **Casey's own Local Cultures, §23 (corrected 2026-07-17)** — the actual current state: Hwy 183 was
+  re-routed via Concordia → Janbogo → Cape Adare → Denison → Dumont d'Urville — a real, complete official
+  alternate route, just a dramatically longer one than the direct run through Casey ever was.
 - **Casey's own Full Extrapolation, Section V** — Casey's own established cardinal social value ("be
   useful, be quick, be honest about the route") and its legendary wind/katabatic dispatcher, "Long Odds"
   Okonkwo-Hale, whose route forecasts were "by local reputation, never wrong across an entire career."
@@ -30,18 +45,19 @@ Australian-heritage cluster, distinct from both Candidate #1's cast (Vostok/Kunl
 - **Explicitly excluded:** the Planetary Split Brain as a stated, named objective — per the developer's own
   2026-07-21 correction to Candidate #2, this chain never names or confirms any connection to the Split
   Brain mystery; it stays a purely local, in-subnet story about lost knowledge and a dangerous, informal
-  crossing, never an official highway restoration (which would contradict Casey's own established "no
-  possible reroute" fact for the *official* network).
+  shortcut, never an official highway restoration (Hwy 183 remains the real, functioning official route —
+  this chain's crossing is a faster, riskier alternative to it, never a replacement for it).
 
 ---
 
 ## The Chain
 
-**SETUP** — The player has a real, concrete reason to need passage between Mirny subnet and the Dumont
-d'Urville coast despite the official Hwy 2/DCH route being permanently gone. Word reaches them of an old,
-unofficial, extremely hazardous route past Casey's own ruins — survivable, if at all, only with the kind
-of precise wind-window and katabatic timing knowledge Casey's own legendary dispatcher, "Long Odds"
-Okonkwo-Hale, was famous for.
+**SETUP** — The player has a real, concrete reason to need fast passage between Mirny subnet and the
+Dumont d'Urville coast, and the official route — Hwy 183, a real but dramatically long detour tracing
+nearly the whole Ross Sea coast — costs far more time than the situation can afford. Word reaches them of
+an old, unofficial, extremely hazardous shortcut past Casey's own ruins — survivable, if at all, only with
+the kind of precise wind-window and katabatic timing knowledge Casey's own legendary dispatcher, "Long
+Odds" Okonkwo-Hale, was famous for.
 
 **BUT** — Okonkwo-Hale never wrote the knowledge down in a form that survived the city's own early
 destruction — the war caught Casey too soon for any proper transfer. What exists now is scattered,
@@ -71,13 +87,12 @@ adjusted to two and a half centuries of the Dumont d'Urville coast simply being 
 genuinely unsure whether an informal, high-risk path back into use is a gift to descendants finally getting
 something real out of what their families carried, or a door that's safer left shut.
 
-**THEREFORE** — Consistent with this project's own No Good Endings law, and without ever restoring an
-actual official highway (Casey's own established "no possible reroute" fact for the real network stays
-fully intact), the climax is a genuine, earned success — the player *can* make the crossing, and Casey's
-own lost knowledge *is*, at least partially, recovered and honored rather than lost forever — but whether
-this informal path should become something other people start relying on, or stays a private, dangerous,
-rarely-used thing known to a handful of descendants and one outsider, is left open, not resolved by the
-DLC itself.
+**THEREFORE** — Consistent with this project's own No Good Endings law, and without ever replacing Hwy 183
+as the real, official route, the climax is a genuine, earned success — the player *can* make the crossing,
+and Casey's own lost knowledge *is*, at least partially, recovered and honored rather than lost forever —
+but whether this informal shortcut should become something other people start relying on, or stays a
+private, dangerous, rarely-used thing known to a handful of descendants and one outsider, is left open, not
+resolved by the DLC itself.
 
 ---
 
@@ -96,10 +111,12 @@ disguised And Then.
 ## Worth Your Attention
 
 This candidate's core asset is that it never touches the Cradle network, never names the Planetary Split
-Brain, and never contradicts Casey's own established "no possible official reroute" fact — it finds real,
-earned dramatic stakes entirely within a single already-established sentence (Davis/Casey/Mirny's surviving
-intra-subnet Australian-heritage network) and one destroyed city's own established personality (Casey's
-"be useful, be quick, be honest about the route" ethos, embodied in one named, never-written-down legend).
+Brain, and stays fully consistent with Casey's own corrected Local Cultures fact (Hwy 183 is real and
+official; this chain's crossing is a dangerous shortcut around it, never a replacement for it) — it finds
+real, earned dramatic stakes entirely within a single already-established sentence (Davis/Casey/Mirny's
+surviving intra-subnet Australian-heritage network) and one destroyed city's own established personality
+(Casey's "be useful, be quick, be honest about the route" ethos, embodied in one named, never-written-down
+legend).
 Distinct from both prior candidates in cast (Davis/Casey/Mirny), in stakes (physical survival and a lost
 skill, not identity or civic legitimacy), and in climax shape (a private, unresolved question about
 reviving dangerous knowledge, not a public question about what a place *is*).
