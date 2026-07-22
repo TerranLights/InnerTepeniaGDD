@@ -59,39 +59,39 @@ worry about it being left out of the founding narrative.
 ###### The conflict's actual outcome — specific and concrete.
 
 Rather than either side winning outright, the holiday's scope gets deliberately negotiated into something
-broader than originally proposed: Founders' Flight stays aviation-focused, honoring the 1969 arrival and the
-exile generation's own founding flight specifically, but gets explicitly framed as one half of a paired
-civic tradition — set alongside The Warm Ground (see Suggestion #6) as the city's other major commemoration,
-a formal civic understanding that no single holiday has to carry the whole of Marambio's identity by itself.
+broader than originally proposed: Founders' Flight keeps its name and its aviation-focused anchor date (the
+1969 arrival), but its actual observance is reworked to explicitly honor the shipyard's own, later-earned
+contribution alongside it — a single holiday framed as "however the founders actually built this city,"
+rather than a purely aviation-only origin story.
 
 ---
 
 ## 2nd-Order Change
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
-Because the two holidays get explicitly paired rather than existing as isolated, unrelated observances,
-Marambio establishes a habit of pairing and balancing its civic commemorations by design, rather than
-letting any single event claim to represent the whole city on its own.
+Because the resolution folded the shipyard's story into the existing holiday rather than spinning up a
+second one, Marambio's civic calendar stays deliberately lean — one major founding observance doing double
+duty, rather than the city needing to invent additional holidays every time a new part of its identity
+wants recognition.
 
 ---
 
 ## 3rd-Order Change
 ###### The downstream consequence of the 2nd-order change — caused by *it*, not by the original conflict.
 
-Because that habit of paired commemoration is now established practice, when the shipyard's own workforce
-eventually wants a founding-recognition observance genuinely its own — rather than borrowing the framing of
-an aviation-focused holiday it was never really about — Marambio already has the institutional precedent
-and civic appetite for adding a third paired holiday, rather than treating its calendar as fixed at two,
-keeping it responsive to the city's continuing identity as that identity keeps developing.
+Because Founders' Flight now has to actually represent two distinct founding contributions rather than one,
+Marambio establishes a habit of periodically revisiting and re-negotiating what its own existing observances
+mean, rather than treating a holiday's original scope as permanently fixed — leaving real institutional room
+for the city's second municipal holiday slot, still open, to eventually be filled by whatever future
+development actually earns it, rather than defaulting to whatever was proposed first.
 
 ---
 
 ## State of Affairs 2
 ###### The new baseline, feeding the next cycle.
 
-Marambio's civic calendar now runs on paired, complementary commemoration rather than any single
-all-representing holiday — Founders' Flight and The Warm Ground standing side by side, each honoring a
-different half of what actually built the city, with real institutional room established for further
-additions as Marambio's own identity keeps growing.
+Marambio's civic calendar runs on Founders' Flight as a single, deliberately expanded founding observance —
+honoring both the airfield and the shipyard's own contributions at once — with a second municipal holiday
+slot still genuinely open for whatever the city's continuing identity eventually earns.
 
 ---

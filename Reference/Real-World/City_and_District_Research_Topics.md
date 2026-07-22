@@ -180,10 +180,12 @@ secondary thread if more material surfaces:
 - History of census/vital-records systems and their political weight
 - Real historical cases of record-keeping institutions destroyed specifically to erase what they held
 
-**Marambio** (dual transport hub, ancient warm-Antarctica geology, destroyed in one strike)
-- Antarctic paleoclimate and geology — the real Marambio/Seymour Island is an actual major fossil site,
-  directly relevant
+**Marambio** (dual transport hub, destroyed in one strike)
 - Strategic vulnerability of small, concentrated islands
+- *(Antarctic paleoclimate/geology previously listed here as a research topic — struck per the
+  developer's own correction that Seymour Island's real-world fossil record is a real-world geological
+  fact about the location, not a driver of Marambio's culture, so no further research into it serves
+  the fiction.)*
 
 **Palmer City** (first city, founded for joy, site of the war's start)
 - Hedonic/pleasure-city urban planning history

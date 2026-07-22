@@ -1,18 +1,18 @@
 # Marambio — Complete Megasheet
 
-The full, concatenated Marambio reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-08.
+The full, concatenated Marambio reference — synthesis, then extrapolation, then cross-reference, in the order they were produced. See the three individual files in this folder to read any stage on its own. Compiled 2026-07-08. *(Regenerated to carry through the fossil/paleontology strike — see the correction notes in each section below.)*
 
 ---
 
 # Marambio — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Marambio.md`, `Local_Cultures/Palmer_Subnet/Marambio.md`, `City_Vision_Notes/Marambio.md`, `City_Enneagram_Personalities/Palmer_Subnet/Marambio.md`, and real-world research on its three inspirational picks (Duisburg, Gander, Drumheller). Compiled 2026-07-08.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Marambio.md`, `Local_Cultures/Palmer_Subnet/Marambio.md`, `City_Vision_Notes/Marambio.md`, `City_Enneagram_Personalities/Palmer_Subnet/Marambio.md`, and real-world research on its inspirational picks (Duisburg, Gander). Compiled 2026-07-08. *(Updated: Drumheller struck as a third inspiration pick — it was grounding the city's fossil-record framing, which the developer has since confirmed is a real-world geological fact about Seymour Island with no bearing on Tepenia's own fiction, not a driver of Marambio's culture.)*
 
 ---
 
 ## The One-Line Pitch
 
-*A city built for motion in two directions at once — ships in from South America on one side of the island, planes in and out on the other — standing the whole time on top of 34-million-year-old proof that Antarctica used to be warm, until a single strike on one small, flat, concentrated island took all of it out in one blow.*
+*A city built for motion in two directions at once — ships in from South America on one side of the island, planes in and out on the other — until a single strike on one small, flat, concentrated island took all of it out in one blow.*
 
 ---
 
@@ -30,13 +30,13 @@ The full, concatenated Marambio reference — synthesis, then extrapolation, the
 
 ## Who Lives Here, and Why
 
-USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the actual founding-operator nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet, even as the Argentine Air Force's institutional character (discipline, operational rigor) persisted culturally regardless of who was actually staffing the base by Census II.
+USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the actual founding-operator nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet, even as the base's own founding-era military-aviation institutional character (discipline, operational rigor — the working culture of an airfield that has to run on schedule) persisted regardless of who was actually staffing it by Census II.
 
 ---
 
 ## What It Feels Like
 
-The flat, exposed island terrain and the airfield register first — but per the developer's own vision session, the working port matters just as much, even if it isn't the first image that comes to mind: shipyards span the island's inner side, facing the mainland, humans and robots loading and unloading ships together in any weather, rain or clear skies or snow, work continuing regardless. During the rare quiet stretches between dockings, humans and robots take smoke breaks side by side. Many of the human dockworkers are in relationships with robot coworkers — a lived, ordinary version of the project's established Bonded Lattice themes — and some are here specifically because robot society treated them better than human society ever did. For those who stay long enough to notice, the ground itself is a geological archive: Seymour Island's exposed sedimentary layers carry Eocene-era fossils, 34 to 56 million years old, documenting a warmer, forested Antarctica that existed long before any ice.
+The flat, exposed island terrain and the airfield register first — but per the developer's own vision session, the working port matters just as much, even if it isn't the first image that comes to mind: shipyards span the island's inner side, facing the mainland, humans and robots loading and unloading ships together in any weather, rain or clear skies or snow, work continuing regardless. During the rare quiet stretches between dockings, humans and robots take smoke breaks side by side. Many of the human dockworkers are in relationships with robot coworkers — a lived, ordinary version of the project's established Bonded Lattice themes — and some are here specifically because robot society treated them better than human society ever did.
 
 ---
 
@@ -60,12 +60,6 @@ Earned the nickname "the Crossroads of the World" when virtually every transatla
 
 **What this gives Marambio:** a cautionary real precedent specifically for the aviation side of its dual identity — Gander's own real transformation from indispensable global chokepoint into a much quieter node once its specific technological necessity disappeared offers a useful frame for thinking about what could happen to Marambio's own runway-based relevance if circumstances ever changed the same way, before the Long Night War made the question moot by destroying the city outright.
 
-### Secondary: Drumheller, Alberta, Canada
-
-Branded "Dinosaur Capital of the World," a small town whose entire civic identity and tourism economy runs on the fossil record beneath and around it.
-
-**What this gives Marambio:** direct structural precedent for a place whose true significance lies in what's buried beneath its more visible, functional identity — just as Drumheller's whole civic brand rests on its fossil record rather than anything else about the town, Marambio's own established "geological archive underfoot" gives its paleontological program real-world grounding as a genuine, defining civic fact rather than a secondary detail layered on top of its aviation/shipping economy.
-
 ---
 
 ## What's Actually Open
@@ -73,13 +67,26 @@ Branded "Dinosaur Capital of the World," a small town whose entire civic identit
 Carried forward from `Specs/Marambio.md` and `City_Vision_Notes/Marambio.md`, still genuinely unresolved:
 - The airfield's post-war state — more developed than Rothera's runway; what remains?
 - The Picnic Passage causeway/bridge chain's post-war condition
-- Whether the paleontological fossil-research archive survived the destruction
-- Two placeholder holiday names ("Founders' Flight," "The Warm Ground") never fully developed
-- Notable figures: still nobody named
-- The exact division of labor between Marambio's and Esperanza's shipping roles — both confirmed equally important parts of the same Weddell Sea corridor, but the specific split (e.g., Marambio as bulk maritime commerce, Esperanza as more specific/documented trans-shipment traffic) is still open for refinement
 - ~~A data-quality gap: Marambio is missing from the census's own "Lost and Ruined Cities" section~~ — **resolved 2026-07-13** (`Official_Population_Census.md`'s combined-losses total, during Sejong's own re-check pass), no longer open
 
-**New, surfaced by this research pass:** given Gander's real historical arc (indispensable chokepoint → quiet backwater, once the specific technology that made it necessary changed), it's worth asking whether Marambio's own aviation hub was already facing any comparable pressure before the war — was its runway's centrality genuinely secure, or was it already being supplemented/threatened by some other emerging logistics option elsewhere in the Palmer subnet? The current files don't address this either way.
+**Resolved 2026-07-17:** "Founders' Flight" (Course of Events Suggestion #7, an aviation-focused
+observance honoring the 1969 Argentine Air Force arrival and the exile generation's own founding flight,
+`Marambio_Course_of_Events_Suggestions.md`) is fully developed, not a placeholder; a second municipal
+holiday slot remains open — see the correction below. Also resolved: Comandante Ezequiel Fariña
+(Suggestion #2) is named as a notable figure. Also resolved: the exact division of labor between
+Marambio's and Esperanza's shipping roles — per Suggestion #9, "Bulk Here, Precision There," Marambio
+handles bulk, high-volume cargo while Esperanza handles smaller-scale, more specific and often
+documented shipments. Also resolved, via the newly-drafted Suggestion #11, "The Hedge, Tested"
+(`Course_of_Events/Marambio_11_The_Hedge_Tested.md`): whether Marambio's aviation hub ever faced
+comparable pressure to Gander's real historical arc — it did, and the shipyard built as chain #10's
+deliberate hedge is what let the city absorb the shift rather than being destabilized by it.
+
+**Correction:** Suggestion #5 ("Ingrid's Dig," a paleontological-archive figure and chain) and Suggestion
+#6 ("The Warm Ground," a fossil-record holiday) both built on Seymour Island's real-world fossil beds,
+which the developer has confirmed is a real-world geological fact with no bearing on Tepenia's own
+fiction, not a driver of the city's population culture. Both are struck; see
+`Marambio_Course_of_Events_Suggestions.md` for the corrected chain list, and the Local_Cultures sheet for
+the still-open second holiday slot.
 
 ---
 
@@ -107,25 +114,31 @@ Duisburg is the standout of this pass — its real trimodal (barge/rail/truck) l
 
 ---
 
-## III. The Paleontological Archive — The Fossils Survive, the Scholarship Doesn't
+## III. *(Struck)* — was "The Paleontological Archive"
 
-**Proposed:** a clean, earned distinction between two different things that have been treated as one question. The fossils themselves — embedded directly in Seymour Island's sedimentary rock — are untouched by the war, since conventional strikes don't destroy geology the way they destroy buildings; the raw fossil record is exactly as available today as it was before the Long Night War. What's very likely lost is the *scholarly* archive — the cataloguing, analysis, and interpretive research generations of Marambio's paleontologists built around those fossils — since that work existed as ordinary human-made records subject to the same destruction as everything else in the city. The evidence survives; the century-plus of accumulated understanding of it doesn't.
+This section previously proposed a distinction between Seymour Island's fossil record (surviving) and
+the scholarship interpreting it (lost). Struck per the developer's own correction: the island's real
+-world fossil beds are a genuine geological/scientific fact about the location, not a driver of
+Marambio's population culture or a piece of Tepenia's own fiction — see the same correction already on
+record in `Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md` and
+`Marambio_Catalog.md` (2026-07-16), which this Megasheet pass failed to carry through until now.
 
 ---
 
-## IV. The Two Placeholder Holidays, Developed
+## IV. The Placeholder Holiday, Developed
 
 - **Founders' Flight** — commemorates the original 1969 Argentine Air Force arrival and, by extension, the exile generation's own founding flight onto Seymour Island; an aviation-focused observance, fittingly, for a city whose founding infrastructure was a runway.
-- **The Warm Ground** — a quieter, science-appreciation observance honoring the Eocene fossil record specifically, plausibly marking the anniversary of whichever discovery first confirmed the full extent of Seymour Island's paleontological significance. Where Founders' Flight looks at what the exile generation built, The Warm Ground looks at what was already there long before any of them arrived — the same "dual character" (aviation hub and geological museum) reflected in the two holidays' own contrasting focuses.
+- *A second municipal holiday slot is open. "The Warm Ground" previously held it as a fossil-record observance; struck for the same reason as Section III, above.*
 
 ---
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after Argentina's own demographic presence eroded to Notable tier by Census II.
-- **Paleontologist Ingrid Solberg-Vidal** *(placeholder)* — the researcher most associated with cataloguing Seymour Island's Eocene fossil record; per Section III's proposed answer, her life's accumulated scholarship is very plausibly among the losses the Long Night War inflicted, even though the fossils she studied remain in the rock exactly as she left them.
+- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
 
-*(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
+*(Entirely proposed — a placeholder figure meant to give the "Notable Figures: TBD" line a concrete
+starting point, not finished character writing. A second figure, a paleontologist tied to Seymour
+Island's fossil record, previously held this slot as well; struck for the same reason as Section III.)*
 
 ---
 
@@ -143,7 +156,7 @@ Duisburg is the standout of this pass — its real trimodal (barge/rail/truck) l
 
 ## Worth Your Attention
 
-Section III is the most structurally valuable proposal here — separating "the fossils" from "the scholarship about the fossils" resolves a question that could otherwise have forced an awkward all-or-nothing answer, and it opens a genuinely interesting DLC 3 possibility: the raw evidence is still there, waiting, even though the people who understood it best are gone. Section VII is the second most valuable, since it directly answers a question this same research pass raised, using Marambio's own established dual identity rather than requiring a new invented justification.
+Section VII is the most valuable proposal remaining here, since it directly answers a question this same research pass raised, using Marambio's own established dual identity rather than requiring a new invented justification. Section I is the second most valuable, since it correctly updates the destruction reasoning to credit the single strike with taking out both the airfield and the shipyard at once.
 
 ---
 
@@ -165,21 +178,9 @@ Section III is the most structurally valuable proposal here — separating "the 
 
 ---
 
-## Finding 2: The fossil-versus-scholarship split has a human echo already living in Marambio's own established dockworker culture
+## Finding 2: Marambio may be an unexamined version of Janbogo's own signature cultural inversion
 
-**Combining:** the Vision Notes' established dockworker culture (many human workers in relationships with robot coworkers, robots living far longer than humans per project-wide established fact) + the Full Extrapolation's proposed distinction (the fossils, as permanent geology, survive the war; the human scholarship interpreting them does not) + the project-wide established fact that robots, not human lifespans, are Tepenia's actual carriers of continuous memory.
-
-**2nd-order effect:** the same pattern governing the fossil record — the permanent thing outlasts the temporary human record of or relationship to it — also governs Marambio's human population directly: a robot dockworker with a human partner would, given ordinary human lifespans, very plausibly outlive that partner the same way the rock outlives the paleontologist's notes.
-
-**3rd-order effect:** this turns the fossil/scholarship distinction from a purely geological worldbuilding detail into a genuine thematic echo of Marambio's own established human-robot relationship culture — permanence outlasting the temporary, playing out at two completely different scales (geological and personal) that were never connected before this pass.
-
-**4th-order effect:** gives any future robot character tied to Marambio's docks a resonant personal parallel already built into the city's own established facts — someone who watched both a human partner and an entire generation of scholarly understanding fade, while the underlying permanent things (the relationship's meaning, the rock itself) simply continued existing regardless.
-
----
-
-## Finding 3: Marambio may be an unexamined version of Janbogo's own signature cultural inversion
-
-**Combining:** Argentina's extreme demographic dilution (0.74%, the deepest founding-nation erosion documented in the Palmer subnet) + the established fact that the Argentine Air Force's institutional discipline persisted culturally regardless of who actually staffed the base by Census II + Janbogo's own, far more celebrated version of the identical phenomenon — a founding culture surviving its founders' demographic minority status.
+**Combining:** Argentina's extreme demographic dilution (0.74%, the deepest founding-nation erosion documented in the Palmer subnet) + the established fact that the airfield's own founding-era operational discipline persisted institutionally regardless of who actually staffed the base by Census II + Janbogo's own, far more celebrated version of the identical phenomenon — a founding culture surviving its founders' demographic minority status.
 
 **2nd-order effect:** Marambio and Janbogo demonstrate the exact same underlying structural fact — a founding institutional or cultural template outliving the population that created it — at very different scales of visibility: Janbogo's version is a named, celebrated civic identity; Marambio's is a quiet operational inheritance nobody in its own established culture seems to have named or reflected on.
 
@@ -189,12 +190,12 @@ Section III is the most structurally valuable proposal here — separating "the 
 
 ---
 
-## Synthesis: The Pattern Across All Three Findings
+## Synthesis: The Pattern Across Both Findings
 
-All three findings converge on the same underlying observation: Marambio is a city whose real significance keeps turning out to be larger, or differently shaped, than its own documentation initially captured. Its destruction was more devastatingly efficient than its original justification credits (Finding 1); its geological permanence quietly mirrors its own human relationships in ways nobody had connected before (Finding 2); and it may be running the exact same founding-culture-outlives-founders pattern that defines Janbogo, just without ever noticing it (Finding 3). Marambio reads, across all three findings, as a city defined by things happening to it and within it that its own function-first culture never had the reflective habit to name — consistent with a place whose whole established character prioritizes moving people and goods over examining itself.
+Both findings converge on the same underlying observation: Marambio is a city whose real significance keeps turning out to be larger, or differently shaped, than its own documentation initially captured. Its destruction was more devastatingly efficient than its original justification credits (Finding 1), and it may be running the exact same founding-culture-outlives-founders pattern that defines Janbogo, just without ever noticing it (Finding 2). Marambio reads, across both findings, as a city defined by things happening to it and within it that its own function-first culture never had the reflective habit to name — consistent with a place whose whole established character prioritizes moving people and goods over examining itself.
 
 ---
 
 ## Worth Your Attention
 
-Finding 2 is the most emotionally resonant of the three — it takes a purely geological detail (fossils surviving, scholarship lost) and reveals it as a direct echo of Marambio's own established human-robot relationship culture, giving any future writing about a Marambio-connected robot character a genuine, earned emotional throughline rather than an invented one.
+Finding 2 is the more speculative of the two, but the more generative — it's the first pass to ask whether Marambio's own founding-institutional persistence was ever noticed and named by its residents the way Janbogo's was, or whether it simply ran invisibly the whole time, consistent with a city whose whole civic energy goes into function over self-reflection.

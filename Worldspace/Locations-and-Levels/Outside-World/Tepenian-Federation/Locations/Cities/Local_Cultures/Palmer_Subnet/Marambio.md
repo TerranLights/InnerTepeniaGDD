@@ -9,7 +9,7 @@
 **Census Population:** 283,442 humans / 286,827 robots / 570,269 combined (Census I, rank 22nd, *corrected 2026-07-03, again 2026-07-05*); 195,623 humans / 234,522 robots / 430,145 combined (Census II, rank 22nd, *corrected 2026-07-17 — was "21st," stale against the current `Official_Population_Census.md` Census II ranking table*)
 **Location:** Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W)
 
-**One-liner:** *A city built on top of 34-million-year-old proof that Antarctica was once warm — whose own two concentrated assets, an airfield and a shipyard sharing one small, flat island, made it exactly the kind of target that couldn't survive what Rothera did. (Updated 2026-07-16 from "single greatest asset" — corrected to two, per the 2026-07-04 Vision Notes session establishing the port as equally central.)*
+**One-liner:** *A city whose own two concentrated assets, an airfield and a shipyard sharing one small, flat island, made it exactly the kind of target that couldn't survive what Rothera did. (Updated 2026-07-16 from "single greatest asset" — corrected to two, per the 2026-07-04 Vision Notes session establishing the port as equally central.)*
 
 ---
 
@@ -39,7 +39,7 @@ Marambio and Esperanza together gave the Argentine exile community a strong pres
 
 ## 3. Climate Character
 
-Marambio sits on Seymour Island in the Weddell Sea, on the Peninsula's eastern, more continental side — colder and drier than the western coast cities like Rothera, with no polar night or midnight sun at this latitude. The island itself is small, flat, and geologically extraordinary: its exposed sedimentary layers contain Eocene-era fossils — ancestral penguins, whale ancestors, plant fossils — documenting a warm, forested Antarctica from 34 to 56 million years ago, long before the ice.
+Marambio sits on Seymour Island in the Weddell Sea, on the Peninsula's eastern, more continental side — colder and drier than the western coast cities like Rothera, with no polar night or midnight sun at this latitude. The island itself is small and flat, terrain that made it a natural site for a runway but left the city with no room to decentralize the way Rothera's mountainous Adelaide Island could.
 
 ---
 
@@ -58,12 +58,10 @@ Without polar night or midnight sun, Marambio's daily rhythm follows aviation sc
 **Name/concept:** *Standing on Warmer Ground*
 
 **Updated 2026-07-16, folding in the 2026-07-04 Vision Notes session:** Marambio's civic identity
-rests on a genuine *triple* character, not the dual one this section originally described — the
-operational hub that kept the whole Palmer subnet moving by both air *and* sea (the airfield and,
-equally, the working port/shipyards on the island's inner side facing the mainland), and the
-paleontological archive it happened to be built on top of. None of the three identities cancels the
-others out — a city of people constantly in transit by plane and by ship, living directly above
-34-million-year-old evidence that this frozen world was once entirely different.
+rests on a genuine dual character — the operational hub that kept the whole Palmer subnet moving by
+both air *and* sea, the airfield and, equally, the working port/shipyards on the island's inner side
+facing the mainland. Neither identity cancels the other out — a city of people constantly in transit
+by plane and by ship.
 
 **Scope distinction, clarified 2026-07-16:** the airfield and the port aren't equivalent in *reach* —
 the airfield is internal-Tepenia-only (people and goods moving between Tepenian cities; Upper Earth
@@ -76,12 +74,10 @@ the docks versus anyone working the runway.
 - **a. Founding tension** — Argentina founded the city and gave it its military-institutional
   character, later diluted to Notable tier (0.74% by Census II — the deepest founding-nation erosion
   documented anywhere in the Palmer subnet) by the same broad immigration pattern (USA Primary, six
-  Significant-tier nations) seen across the Palmer subnet — a standard tension, secondary to the
-  aviation-and-sea-vs-fossils duality that actually defines the city day to day.
-- **b. Fault lines** — Between the transient, logistics-oriented population (people passing through,
-  working the airfield and the docks) and a smaller resident scientific community dedicated to the
-  slower, accumulating work of paleontology — two very different relationships to time coexisting in
-  the same small city.
+  Significant-tier nations) seen across the Palmer subnet.
+- **b. Fault lines** — Between the airfield's aviation culture and the port's maritime-logistics
+  culture — two operationally distinct workforces sharing one small city, coordinated but not
+  identical in rhythm or character.
 
 ---
 
@@ -90,15 +86,15 @@ the docks versus anyone working the runway.
 - **a.** Movement is the norm — Marambio was never built for permanence the way more residential Peninsula cities were.
 - **b. Hospitality character** — Practical and transactional, shaped by a population used to people arriving and departing on aviation *and* shipping schedules rather than settling in.
 - **c.** Paced by flight schedules, ship arrivals, and weather windows rather than daylight — work at the docks continues in any weather, rain or clear skies or snow.
-- **d. Public/private divide** — Airfield and dock operations are entirely public civic business; the paleontological research community kept its own, quieter, more private rhythm apart from the transient aviation-and-maritime culture.
-- **e. Privacy as civic value** — Low among the transient aviation/dock population, higher among the smaller resident scientific community.
+- **d. Public/private divide** — Airfield and dock operations are entirely public civic business, consistent with a transient population that doesn't develop much of a private civic layer at all.
+- **e. Privacy as civic value** — Low, consistent with a transient population passing through rather than settling in.
 - **f. Downtime custom** *(added 2026-07-16, from Vision Notes)* — during rare quiet stretches between ship dockings, dockworkers (human and robot) take smoke breaks together; a small, genuine ritual of shared rest inside an otherwise constantly-moving city.
 
 ---
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people in motion — aviation workers, dockworkers, and maritime-logistics crews, and a smaller population of paleontologists drawn to Seymour Island's genuinely exceptional fossil record. Some dockworkers come specifically because robot society treated them better than human society ever did *(2026-07-16, from Vision Notes)*.
+- **The type this city draws:** people in motion — aviation workers, dockworkers, and maritime-logistics crews. Some dockworkers come specifically because robot society treated them better than human society ever did *(2026-07-16, from Vision Notes)*.
 - **The type this city repels:** anyone seeking permanence or a settled community feel — Marambio was never that kind of city.
 
 ---
@@ -106,15 +102,15 @@ the docks versus anyone working the runway.
 ## 8. Language
 
 - **a. Primary language(s):** English dominant (American Primary tier), with genuine Spanish presence from the Argentine founding population and the broader Hispanic Significant-tier weight (Spain, Mexico) unusually strong for this subnet.
-- **b. Linguistic character** — Practical aviation/logistics terminology dominates daily communication, alongside genuine scientific vocabulary from the paleontological program.
-- **c. Slang / dialect markers** — Aviation shorthand specific to the airfield's operations; separate scientific jargon among the fossil-research community.
+- **b. Linguistic character** — Practical aviation and maritime-logistics terminology dominates daily communication.
+- **c. Slang / dialect markers** — Aviation shorthand specific to the airfield's operations; separate dock/shipping jargon among the port workforce.
 - **d. Language and integration** — Low pressure, consistent with a transient population that doesn't expect long-term assimilation.
 
 ---
 
 ## 9. Architecture
 
-Built directly around the airfield — flat, functional, aviation-first construction on Seymour Island's genuinely rare flat terrain, a landscape feature that made the runway possible in the first place. Modest residential and scientific facilities cluster around the operational core rather than sprawling outward the way a more permanent settlement might.
+Built directly around the airfield — flat, functional, aviation-first construction on Seymour Island's genuinely rare flat terrain, a landscape feature that made the runway possible in the first place. Modest residential facilities cluster around the operational core rather than sprawling outward the way a more permanent settlement might.
 
 ---
 
@@ -134,14 +130,14 @@ Practical aviation/logistics work clothing as the civic default — function ove
 
 ## 12. Music
 
-Modest, background rather than central to civic identity — Marambio was never a cultural capital the way Palmer City was; its energy went into keeping planes moving and fossils documented, not into cultivating a musical tradition.
+Modest, background rather than central to civic identity — Marambio was never a cultural capital the way Palmer City was; its energy went into keeping planes and ships moving, not into cultivating a musical tradition.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Documentary, scientific illustration tied to the paleontological program — Marambio's most distinctive artistic output likely centered on rendering and cataloguing the Eocene fossil record.
-- **Literature:** Scientific record-keeping and aviation logs rather than any mythological founding-story literature.
+- **Visual arts:** Modest, functional — Marambio never developed a distinctive visual-arts tradition of its own, consistent with a transient population that didn't linger long enough to build one.
+- **Literature:** Aviation and shipping logs rather than any mythological founding-story literature.
 - **Crafts & material culture:** Practical, aviation-and-logistics-oriented; whatever material culture existed served the airfield's operational needs first.
 
 ---
@@ -151,7 +147,7 @@ Modest, background rather than central to civic identity — Marambio was never 
 - **Sound:** Aircraft engines and aviation radio chatter on the airfield side; dock machinery, ship engines, and loading-crew calls on the shipyard side — a genuinely distinct, dual soundscape among Palmer subnet cities.
 - **Smell:** Cold, dry, continental Weddell Sea air, drier than the maritime western coast, cut through at the docks by salt air and ship fuel.
 - **Feel:** Transient and functional — Marambio never felt like a place to settle, only a place to pass through or work, whether by plane or by ship.
-- **First impressions for visitors:** The flat, exposed island terrain and the airfield register first — but per the 2026-07-04 Vision Notes session, the working port matters just as much, even if it isn't the first image that comes to mind. For those who stay long enough to notice, the ground itself is a geological archive: the exposed sedimentary rock faces carrying 34-million-year-old fossils underfoot.
+- **First impressions for visitors:** The flat, exposed island terrain and the airfield register first — but per the 2026-07-04 Vision Notes session, the working port matters just as much, even if it isn't the first image that comes to mind.
 
 ---
 
@@ -162,39 +158,39 @@ Modest, background rather than central to civic identity — Marambio was never 
 ## 15. Division of Industry
 
 **Revised 2026-07-16** to reflect the port as an equally central sector, not a subset of "commercial /
-trade":
-- Aviation / logistics: 25%
-- Maritime / port operations (shipyards, dock loading and unloading): 25% — equally central to the
+trade"; **revised again** to redistribute the share previously assigned to paleontological research
+(struck per the developer's own standing correction that Seymour Island's fossil record is a real
+-world geological fact about the site, not a driver of the city's population culture):
+- Aviation / logistics: 30%
+- Maritime / port operations (shipyards, dock loading and unloading): 30% — equally central to the
   city's defining, dominant identity, per the 2026-07-04 Vision Notes session
-- Scientific / paleontological research: 20%
-- Commercial / trade: 10% — leveraging both the airfield's and the port's connectivity
-- Technical / maintenance: 15%
+- Commercial / trade: 15% — leveraging both the airfield's and the port's connectivity
+- Technical / maintenance: 20%
 - Other: 5%
 
 ---
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (286,827 to 283,442 Census I), human-robot relations at Marambio are shaped by the city's practical, logistics-first character — close operational coordination required to keep aviation *and* port infrastructure running. **Added 2026-07-16, from Vision Notes:** the docks specifically hold a genuine, lived version of the project's established Bonded Lattice/human-robot romance themes — many human dockworkers are in relationships with a robot they also work alongside, a direct, ordinary expression of partnership rather than an exceptional case. Given ordinary human lifespans against robots' much longer ones, a robot dockworker would very plausibly outlive a human partner the same way Seymour Island's exposed rock outlives the paleontologists' own notes about it — an unintentional but real thematic echo between the geological and the personal that this city's own culture has never had the reflective habit to name (see `Marambio_Cross_Reference_Synthesis.md`, Finding 2).
+With robots slightly outnumbering humans (286,827 to 283,442 Census I), human-robot relations at Marambio are shaped by the city's practical, logistics-first character — close operational coordination required to keep aviation *and* port infrastructure running. **Added 2026-07-16, from Vision Notes:** the docks specifically hold a genuine, lived version of the project's established Bonded Lattice/human-robot romance themes — many human dockworkers are in relationships with a robot they also work alongside, a direct, ordinary expression of partnership rather than an exceptional case. Given ordinary human lifespans against robots' much longer ones, a robot dockworker would very plausibly outlive a human partner — a quiet fact of life this city's own culture has never had the reflective habit to name (see `Marambio_Cross_Reference_Synthesis.md`, Finding 2).
 
 ---
 
 ## 17. Robot-Specific Culture
 
-Robot culture at Marambio centers on aviation and maritime logistics expertise — the practical skill of keeping the Palmer subnet's primary aviation hub *and* its confirmed South America shipping-corridor port functioning, alongside a smaller, more specialized robot presence in the paleontological research program.
+Robot culture at Marambio centers on aviation and maritime logistics expertise — the practical skill of keeping the Palmer subnet's primary aviation hub *and* its confirmed South America shipping-corridor port functioning.
 
 ---
 
 ## 18. Religious / Philosophical Landscape
 
 - No dominant formal religion; the closest shared value is a practical ethic of motion and connectivity — Marambio's whole civic purpose was keeping people and goods moving through a frozen world.
-- A specific, quieter philosophical undercurrent among the fossil-research community: living directly on top of geological proof that even Antarctica's ice is not permanent, that the world was once entirely different and could be again.
 
 ---
 
 ## 19. Underground / Counterculture
 
-Minimal — a small, transient, logistics-first city doesn't have much room for organized counterculture; whatever tension exists (transient aviation population versus the more settled scientific community) is a quiet cultural fault line, not an organized opposition.
+Minimal — a small, transient, logistics-first city doesn't have much room for organized counterculture; whatever tension exists (airfield culture versus port culture) is a quiet cultural fault line, not an organized opposition.
 
 ---
 
@@ -238,7 +234,6 @@ Practical and aviation-oriented — Arcanet use here likely centered on coordina
 
 - Aviation and logistics expertise — Marambio-trained specialists in operating the Palmer subnet's most developed airfield
 - Maritime trade and dock-logistics expertise *(added 2026-07-16)* — Marambio-trained specialists in running the Palmer subnet's confirmed receiving port for South American shipping
-- The Eocene fossil record — Seymour Island's paleontological significance as a point of scientific pride and export knowledge
 - A specific *type of person* — practical, transient, comfortable with constant motion by air and by sea, distinct from Palmer City's celebratory permanence or Rothera's industrious rootedness
 
 ---
@@ -246,7 +241,7 @@ Practical and aviation-oriented — Arcanet use here likely centered on coordina
 ## 26. Municipal Holidays
 
 - **Founders' Flight** *(placeholder name)* — commemorating the Argentine Air Force's original 1969 presence and the inherited runway
-- **The Warm Ground** *(placeholder name)* — an observance honoring Seymour Island's fossil record and the deep-time perspective it gave the city
+- *A second municipal holiday is open — "The Warm Ground" previously held this slot as a fossil-record observance, struck per the developer's own correction that Seymour Island's paleontology isn't a driver of the city's culture; not yet replaced.*
 
 ---
 
@@ -256,7 +251,7 @@ Practical and aviation-oriented — Arcanet use here likely centered on coordina
 
 ## 27. Visitor Experience
 
-The flat, exposed island terrain and the airfield itself register first, followed — for anyone who stays long enough — by the genuinely strange experience of a working aviation hub built directly on top of a 34-million-year-old fossil record.
+The flat, exposed island terrain and the airfield itself register first, followed by the working port on the island's inner side — a city defined by two logistics functions rather than one.
 
 ---
 
@@ -274,7 +269,6 @@ There was little true "transition" at Marambio — the city was built for motion
 
 - **The Marambio airfield** — the Palmer subnet's primary aviation hub, the most developed airstrip infrastructure of any Peninsula city
 - **The Marambio shipyards** *(added 2026-07-16, from the 2026-07-04 Vision Notes session)* — spanning the island's inner side facing the mainland, the confirmed receiving port for the South America shipping corridor, equally central to the city's identity as the airfield
-- **The Eocene fossil exposures** — Seymour Island's sedimentary rock faces, carrying ancestral penguin, whale, and plant fossils from 34–56 million years ago
 - **The Picnic Passage causeway/bridge chain** — Marambio's confirmed Hwy 1 crossing, spanning Picnic Passage (the real-world ~1km strait to Snow Hill Island), then James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland — Hwy 1's northern terminus, continuing south to Palmer City, Port Lockroy, Rothera, and ultimately Byrd
 
 ---
@@ -293,4 +287,4 @@ There was little true "transition" at Marambio — the city was built for motion
 
 ## 32. Diaspora Character in Concordia
 
-Marambio refugees in Concordia are rare, given the Peninsula's distance and the severity of the Long Night War there. What identity does survive is recognizable by a specific comfort with transience and motion — people shaped by a city that was never meant to be settled in, alongside a smaller thread of paleontological knowledge carried by anyone connected to the Seymour Island fossil research program.
+Marambio refugees in Concordia are rare, given the Peninsula's distance and the severity of the Long Night War there. What identity does survive is recognizable by a specific comfort with transience and motion — people shaped by a city that was never meant to be settled in.

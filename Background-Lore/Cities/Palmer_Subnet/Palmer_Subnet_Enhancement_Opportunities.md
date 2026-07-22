@@ -131,15 +131,16 @@ existing 10 don't touch.
 **Files read:** `Marambio_Catalog.md`, `Marambio_Mega_Init.md`, `Marambio_Course_of_Events_Suggestions.md`
 (all 10 existing chains).
 
-**Existing 10 chains already cover:** the exile community inheriting a fully working aviation hub (#1),
+**Existing chains already cover:** the exile community inheriting a fully working aviation hub (#1),
 Comandante Fariña extending military discipline into general civic culture (#2), that operational
 discipline outliving Argentina's own demographic dilution (#3), the shipyard growing up alongside the
-airfield (#4), Paleontologist Ingrid Solberg-Vidal's fossil cataloguing work (#5), a quiet
-science-appreciation holiday for the fossil record (#6), Founders' Flight commemorating the 1969
-arrival (#7), human-robot dockworker relationships forming through shared demanding labor (#8), the
-Marambio/Esperanza bulk-vs-precision shipping division (#9), and the deliberate dual-mode strategy as a
-hedge against single-function vulnerability (#10). New angles below are ones the existing 10 don't
-touch.
+airfield (#4), Founders' Flight commemorating the 1969 arrival (#7), human-robot dockworker
+relationships forming through shared demanding labor (#8), the Marambio/Esperanza bulk-vs-precision
+shipping division (#9), and the deliberate dual-mode strategy as a hedge against single-function
+vulnerability (#10). *(#5 and #6, originally a paleontologist figure and a fossil-record holiday, are
+struck per the developer's own correction — Seymour Island's fossil beds are a real-world geological
+fact, not a driver of Marambio's culture; see `Marambio_Course_of_Events_Suggestions.md`.)* New angles
+below are ones the existing chains don't touch.
 
 1. **Division of industry → history.** The Catalog singles out Germany's Duisburg-derived register as
    uniquely "dual-mode logistics competence as a single, unified value" — unlike every other population's

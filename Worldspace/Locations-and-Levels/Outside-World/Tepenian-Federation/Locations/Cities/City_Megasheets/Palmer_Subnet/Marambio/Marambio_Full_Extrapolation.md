@@ -16,25 +16,31 @@
 
 ---
 
-## III. The Paleontological Archive — The Fossils Survive, the Scholarship Doesn't
+## III. *(Struck)* — was "The Paleontological Archive"
 
-**Proposed:** a clean, earned distinction between two different things that have been treated as one question. The fossils themselves — embedded directly in Seymour Island's sedimentary rock — are untouched by the war, since conventional strikes don't destroy geology the way they destroy buildings; the raw fossil record is exactly as available today as it was before the Long Night War. What's very likely lost is the *scholarly* archive — the cataloguing, analysis, and interpretive research generations of Marambio's paleontologists built around those fossils — since that work existed as ordinary human-made records subject to the same destruction as everything else in the city. The evidence survives; the century-plus of accumulated understanding of it doesn't.
+This section previously proposed a distinction between Seymour Island's fossil record (surviving) and
+the scholarship interpreting it (lost). Struck per the developer's own correction: the island's real
+-world fossil beds are a genuine geological/scientific fact about the location, not a driver of
+Marambio's population culture or a piece of Tepenia's own fiction — see the same correction already on
+record in `Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md` and
+`Marambio_Catalog.md` (2026-07-16), which this Megasheet pass failed to carry through until now.
 
 ---
 
-## IV. The Two Placeholder Holidays, Developed
+## IV. The Placeholder Holiday, Developed
 
 - **Founders' Flight** — commemorates the original 1969 Argentine Air Force arrival and, by extension, the exile generation's own founding flight onto Seymour Island; an aviation-focused observance, fittingly, for a city whose founding infrastructure was a runway.
-- **The Warm Ground** — a quieter, science-appreciation observance honoring the Eocene fossil record specifically, plausibly marking the anniversary of whichever discovery first confirmed the full extent of Seymour Island's paleontological significance. Where Founders' Flight looks at what the exile generation built, The Warm Ground looks at what was already there long before any of them arrived — the same "dual character" (aviation hub and geological museum) reflected in the two holidays' own contrasting focuses.
+- *A second municipal holiday slot is open. "The Warm Ground" previously held it as a fossil-record observance; struck for the same reason as Section III, above.*
 
 ---
 
 ## V. Notable Figures (proposed, unconfirmed)
 
 - **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
-- **Paleontologist Ingrid Solberg-Vidal** *(placeholder)* — the researcher most associated with cataloguing Seymour Island's Eocene fossil record; per Section III's proposed answer, her life's accumulated scholarship is very plausibly among the losses the Long Night War inflicted, even though the fossils she studied remain in the rock exactly as she left them.
 
-*(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
+*(Entirely proposed — a placeholder figure meant to give the "Notable Figures: TBD" line a concrete
+starting point, not finished character writing. A second figure, a paleontologist tied to Seymour
+Island's fossil record, previously held this slot as well; struck for the same reason as Section III.)*
 
 ---
 
@@ -52,4 +58,4 @@
 
 ## Worth Your Attention
 
-Section III is the most structurally valuable proposal here — separating "the fossils" from "the scholarship about the fossils" resolves a question that could otherwise have forced an awkward all-or-nothing answer, and it opens a genuinely interesting DLC 3 possibility: the raw evidence is still there, waiting, even though the people who understood it best are gone. Section VII is the second most valuable, since it directly answers a question this same research pass raised, using Marambio's own established dual identity rather than requiring a new invented justification.
+Section VII is the most valuable proposal remaining here, since it directly answers a question this same research pass raised, using Marambio's own established dual identity rather than requiring a new invented justification. Section I is the second most valuable, since it correctly updates the destruction reasoning to credit the single strike with taking out both the airfield and the shipyard at once.

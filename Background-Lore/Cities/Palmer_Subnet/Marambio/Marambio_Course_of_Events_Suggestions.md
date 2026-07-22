@@ -1,10 +1,13 @@
 # Marambio — Candidate Courses of Events
 
-**Scope note:** all ten chains below are set strictly *before* the Long Night War, during the Second
+**Scope note:** all chains below are set strictly *before* the Long Night War, during the Second
 Interwar Period when Tepenia is a full, functioning country — no war damage, no post-war/present-day
-material (Marambio's own eventual destruction is out of scope here). 10 candidate But/Therefore
-chains built from Marambio's Megasheet (the dual airfield-and-shipyard hub, the Eocene fossil record,
-the Air Force institutional discipline). Post-settlement only; nothing here is canon.
+material (Marambio's own eventual destruction is out of scope here). Candidate But/Therefore
+chains built from Marambio's Megasheet (the dual airfield-and-shipyard hub, the Air Force institutional
+discipline). Post-settlement only; nothing here is canon. *(Chains #5 and #6, originally built around
+Seymour Island's real-world fossil beds, are struck — see the notes at each and the corrected entries
+below; the developer has confirmed paleontology is a real-world geological fact about the location, not
+a driver of Marambio's culture or a piece of Tepenia's own fiction.)*
 
 ---
 
@@ -53,28 +56,15 @@ once means neither one gets the city's undivided attention. **Therefore** Maramb
 skilled at both simultaneously — a dual-mode hub whose real significance was never fully captured by
 its own earlier, airfield-only reputation.
 
-## 5. Ingrid's Dig
+## 5. *(Struck)* — was "Ingrid's Dig"
 
-Marambio's flat, exposed terrain hides something most residents initially pay no attention to —
-Seymour Island's exposed sedimentary layers, carrying fossils tens of millions of years old.
-**But** a working aviation and shipping hub has little obvious reason to prioritize paleontological
-research. **Therefore** Paleontologist Ingrid Solberg-Vidal pursues the cataloguing work anyway,
-building a genuine scholarly record of the fossil find largely on her own initiative. **But**
-convincing a function-first city to value that kind of research takes real, sustained advocacy.
-**Therefore** her cataloguing eventually earns real civic recognition — proof that Marambio's own
-buried geological archive deserved serious attention alongside its more obviously practical industries.
+Built entirely around Seymour Island's real-world fossil beds; struck per the developer's own
+correction. See `Course_of_Events/Marambio_05_Ingrids_Dig.md` for the full note.
 
-## 6. The Warm Ground
+## 6. *(Struck)* — was "The Warm Ground"
 
-Marambio's fossil discovery starts as a scientific curiosity, interesting mainly to the researchers
-directly involved. **But** the full scale of what the Eocene record actually reveals — a warmer,
-forested Antarctica existing long before any ice — is significant enough that it starts to feel like
-something the whole city should mark. **Therefore** a quieter, science-appreciation holiday takes
-hold, honoring the fossil record specifically and timed to whichever discovery first confirmed the
-full scope of Seymour Island's paleontological significance. **But** a holiday celebrating ancient
-geology sits oddly next to Marambio's own more obviously practical civic character. **Therefore** it
-persists anyway, a small, deliberate reminder that the ground itself has its own history, older and
-stranger than anything the exile community actually built.
+Built entirely around a fossil-record municipal holiday; struck for the same reason as #5. See
+`Course_of_Events/Marambio_06_The_Warm_Ground.md` for the full note.
 
 ## 7. Founders' Flight
 
@@ -83,9 +73,10 @@ among many in Marambio's institutional history. **But** a city whose whole found
 a runway has a natural, fitting reason to commemorate exactly that. **Therefore** Founders' Flight
 takes hold as a real civic holiday, an aviation-focused observance honoring both the original arrival
 and the exile generation's own founding flight onto Seymour Island. **But** a holiday this specific to
-aviation risks underrepresenting the city's later shipyard identity. **Therefore** the two holidays end
-up complementing each other — Founders' Flight looking at what the exile generation built, The Warm
-Ground looking at what was already there long before any of them arrived.
+aviation risks underrepresenting the city's later shipyard identity. **Therefore** Founders' Flight gets
+deliberately reworked to honor both contributions at once, rather than spinning up a second holiday to
+cover what the first one left out — Marambio's second municipal holiday slot stays genuinely open for
+whatever the city's identity eventually earns next.
 
 ## 8. Side by Side in Any Weather
 

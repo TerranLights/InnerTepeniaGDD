@@ -8,11 +8,11 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in (see the two files above for full detail): Seymour Island, Weddell Sea, Antarctic Peninsula. Palmer subnet, Hwy 1's actual northern terminus *(correctly accurate at the time of this 2026-07-04 session; superseded 2026-07-06 when `Specs/Marambio.md` established Esperanza as the true northern terminus, with Marambio downgraded to a waypoint)*. **Status: Destroyed** — Seymour Island's small, flat geography, built around one concentrated strategic asset (the airfield), couldn't survive the way Rothera's decentralized island did. Argentine Air Force base since 1969; exiles inherited a working aviation hub. Population (Census I) 283,442H/286,827R/570,269 combined. Composition: USA Primary; Germany/UK/Spain/Canada/Mexico/Brazil Significant; Argentina/Chile/Uruguay Notable (founding wave). Identity: "Standing on Warmer Ground" — a genuine dual character, Palmer subnet's most significant aviation hub sitting directly atop one of Antarctica's richest fossil sites (Eocene-era, 34 million years, early penguin ancestors). Built for motion, not settling.
+Recap of what was already established going in (see the two files above for full detail): Seymour Island, Weddell Sea, Antarctic Peninsula. Palmer subnet, Hwy 1's actual northern terminus *(correctly accurate at the time of this 2026-07-04 session; superseded 2026-07-06 when `Specs/Marambio.md` established Esperanza as the true northern terminus, with Marambio downgraded to a waypoint)*. **Status: Destroyed** — Seymour Island's small, flat geography, built around one concentrated strategic asset (the airfield), couldn't survive the way Rothera's decentralized island did. Argentine Air Force base since 1969; exiles inherited a working aviation hub. Population (Census I) 283,442H/286,827R/570,269 combined. Composition: USA Primary; Germany/UK/Spain/Canada/Mexico/Brazil Significant; Argentina/Chile/Uruguay Notable (founding wave). Identity: "Standing on Warmer Ground" — Palmer subnet's most significant aviation hub. Built for motion, not settling. *(Struck: this recap originally also cited Seymour Island's real-world fossil beds as part of the city's identity — corrected, see below.)*
 
-**Factions:** Standing on Warmer Ground (second interwar, standalone) — the transient aviation-worker population vs. the smaller resident scientific community, two incompatible relationships to time in one small city.
+**Factions:** Standing on Warmer Ground (second interwar, standalone) — an aviation-and-maritime transient workforce, built for motion rather than settling.
 
-**Flagged gaps going in:** no notable figures; demonym unresolved; economy beyond aviation/paleontology TBD; two placeholder holiday names; whether the fossil archive survived the destruction unresolved; a real data-quality gap (Marambio missing from the census's own "Lost and Ruined Cities" section despite being confirmed Destroyed elsewhere).
+**Flagged gaps going in:** no notable figures; demonym unresolved; economy beyond aviation TBD; two placeholder holiday names; a real data-quality gap (Marambio missing from the census's own "Lost and Ruined Cities" section despite being confirmed Destroyed elsewhere).
 
 ---
 
@@ -32,7 +32,8 @@ Recap of what was already established going in (see the two files above for full
 
 - Notable figures (still nobody)
 - ~~The demonym~~ — **resolved 2026-07-04: Marambian (local Spanish: "marambiano/marambiana")**
-- Whether the fossil archive survived the destruction
-- Two placeholder holiday names ("Founders' Flight," "The Warm Ground")
+- A second municipal holiday slot ("Founders' Flight" is developed; "The Warm Ground" previously held
+  this slot as a fossil-record observance, struck per the developer's own correction that Seymour
+  Island's paleontology isn't a driver of the city's culture)
 - The exact division of labor between Marambio's and Esperanza's shipping roles (both confirmed important, specifics not yet worked out)
 - The census data-quality gap (Marambio missing from "Lost and Ruined Cities," low priority, easy fix whenever)

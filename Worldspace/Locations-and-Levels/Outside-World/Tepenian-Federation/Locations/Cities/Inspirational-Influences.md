@@ -207,7 +207,7 @@
 ##### Marambio
 - Duisburg, Germany [PRIMARY]
 - Gander, Newfoundland [SECONDARY] // earned the nickname "the Crossroads of the World" when virtually every transatlantic flight needed a refueling stop there (13,000 aircraft, a quarter-million passengers a year at its peak) — a real precedent for a technological-chokepoint identity that vanished once jets could fly the Atlantic non-stop
-- Drumheller, Alberta, Canada [SECONDARY] // branded "Dinosaur Capital of the World," a small town whose entire civic identity and tourism economy runs on the fossil record beneath and around it
+*(Drumheller, Alberta previously listed here as a third pick, grounding a fossil-record civic identity — struck per the developer's own correction that Seymour Island's paleontology is a real-world geological fact, not a driver of Marambio's culture.)*
 
 ##### Juan Carlos
 - St. Gallen, Switzerland [PRIMARY]

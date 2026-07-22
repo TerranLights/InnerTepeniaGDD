@@ -236,17 +236,17 @@ Lazar has no single founding story. It coalesced from two separate settlements �
 
 ---
 
-## Standing on Warmer Ground — Marambio
+## *(Struck)* — was "Standing on Warmer Ground — Marambio"
 
-**Cities:** Marambio
-
-*New 2026-07-04, standalone (previously considered for "The Tertulia Communities" and explicitly excluded, since its actual pattern doesn't share a throughline with any other researched city).*
-
-Marambio holds two civic identities in genuine, unresolved tension: a transient, logistics-paced aviation hub, and the site of a 34-million-year-old fossil record proving Antarctica was once warm — a paleontological archive quite literally standing on deep time. Neither identity cancels the other, and the city has never tried to make them agree.
-
-**The internal tension:** between the transient aviation-worker population, for whom movement and short-term presence are the civic norm, and the smaller, slower-paced resident scientific community, whose entire professional life is organized around timescales so long that a human lifetime barely registers. These are two fundamentally different relationships to time, coexisting in one small city, each barely able to make sense of the other's sense of urgency (or lack of it).
-
-**What they argue about:** Whether Marambio is, at heart, a transit hub that happens to sit on something scientifically remarkable, or a scientific site that happens to also process a lot of aviation traffic — residents genuinely disagree about which identity is the "real" one and which is incidental. Whether the aviation workers' short-term, practical urgency or the researchers' deep-time patience is the more honest response to living somewhere this physically temporary (even the ice, after all, isn't permanent) — a disagreement that has never once been resolved, mostly because neither side has ever needed the other to agree.
+This faction entry (added 2026-07-04) was built entirely around a resident-scientist community
+studying Seymour Island's real-world fossil beds, in tension with Marambio's transient aviation
+workforce. Struck per the developer's own correction: the island's fossil record is a real-world
+geological fact about the location, not a driver of Marambio's population culture or a piece of
+Tepenia's own fiction — see the same correction on record in
+`Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md` and `Marambio_Catalog.md`
+(2026-07-16). Marambio's actual established civic tension is airfield culture versus port culture
+(see `Local_Cultures/Palmer_Subnet/Marambio.md`, Section 5b) — no faction entry has been written for
+that tension yet; this slot is open rather than filled with an invented replacement.
 
 ---
 

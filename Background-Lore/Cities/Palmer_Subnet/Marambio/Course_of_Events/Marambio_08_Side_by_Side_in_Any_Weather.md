@@ -5,9 +5,10 @@
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Mega_Init` "What It Feels Like" (shipyards
 spanning the island's inner side, humans and robots loading and unloading ships together in any weather;
 smoke breaks during rare quiet stretches; many human dockworkers in relationships with robot coworkers, some
-drawn to Marambio because robot society treated them better than human society ever had) and
-`Cross_Reference_Synthesis` Finding 2 (the fossil/scholarship distinction echoed in Marambio's own
-human-robot relationship culture — permanence outlasting the temporary). Character fields are intentionally
+drawn to Marambio because robot society treated them better than human society ever had). *(The header
+here previously also cited `Cross_Reference_Synthesis` Finding 2 for a fossil/scholarship-vs-relationship
+metaphor — that finding was struck along with the rest of the fossil material; this chain's own content
+never actually depended on it.)* Character fields are intentionally
 left blank — see each Conflict section's Design Notes for what kind of conflict, and what kind of
 character(s), would make the following setting-condition become true.
 

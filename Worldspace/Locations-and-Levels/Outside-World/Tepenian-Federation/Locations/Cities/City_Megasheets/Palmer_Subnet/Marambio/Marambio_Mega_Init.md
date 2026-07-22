@@ -1,12 +1,12 @@
 # Marambio — Mega-Init
 
-**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Marambio.md`, `Local_Cultures/Palmer_Subnet/Marambio.md`, `City_Vision_Notes/Marambio.md`, `City_Enneagram_Personalities/Palmer_Subnet/Marambio.md`, and real-world research on its three inspirational picks (Duisburg, Gander, Drumheller). Compiled 2026-07-08.
+**Step 1 of the Megasheet compilation process** (see `Cities/City_Megasheets/City_Megasheet_Compilation_Guide.md`) — synthesizing `Specs/Marambio.md`, `Local_Cultures/Palmer_Subnet/Marambio.md`, `City_Vision_Notes/Marambio.md`, `City_Enneagram_Personalities/Palmer_Subnet/Marambio.md`, and real-world research on its inspirational picks (Duisburg, Gander). Compiled 2026-07-08. *(Updated: Drumheller struck as a third inspiration pick — it was grounding the city's fossil-record framing, which the developer has since confirmed is a real-world geological fact about Seymour Island with no bearing on Tepenia's own fiction, not a driver of Marambio's culture.)*
 
 ---
 
 ## The One-Line Pitch
 
-*A city built for motion in two directions at once — ships in from South America on one side of the island, planes in and out on the other — standing the whole time on top of 34-million-year-old proof that Antarctica used to be warm, until a single strike on one small, flat, concentrated island took all of it out in one blow.*
+*A city built for motion in two directions at once — ships in from South America on one side of the island, planes in and out on the other — until a single strike on one small, flat, concentrated island took all of it out in one blow.*
 
 ---
 
@@ -30,7 +30,7 @@ USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it �
 
 ## What It Feels Like
 
-The flat, exposed island terrain and the airfield register first — but per the developer's own vision session, the working port matters just as much, even if it isn't the first image that comes to mind: shipyards span the island's inner side, facing the mainland, humans and robots loading and unloading ships together in any weather, rain or clear skies or snow, work continuing regardless. During the rare quiet stretches between dockings, humans and robots take smoke breaks side by side. Many of the human dockworkers are in relationships with robot coworkers — a lived, ordinary version of the project's established Bonded Lattice themes — and some are here specifically because robot society treated them better than human society ever did. For those who stay long enough to notice, the ground itself is a geological archive: Seymour Island's exposed sedimentary layers carry Eocene-era fossils, 34 to 56 million years old, documenting a warmer, forested Antarctica that existed long before any ice.
+The flat, exposed island terrain and the airfield register first — but per the developer's own vision session, the working port matters just as much, even if it isn't the first image that comes to mind: shipyards span the island's inner side, facing the mainland, humans and robots loading and unloading ships together in any weather, rain or clear skies or snow, work continuing regardless. During the rare quiet stretches between dockings, humans and robots take smoke breaks side by side. Many of the human dockworkers are in relationships with robot coworkers — a lived, ordinary version of the project's established Bonded Lattice themes — and some are here specifically because robot society treated them better than human society ever did.
 
 ---
 
@@ -54,12 +54,6 @@ Earned the nickname "the Crossroads of the World" when virtually every transatla
 
 **What this gives Marambio:** a cautionary real precedent specifically for the aviation side of its dual identity — Gander's own real transformation from indispensable global chokepoint into a much quieter node once its specific technological necessity disappeared offers a useful frame for thinking about what could happen to Marambio's own runway-based relevance if circumstances ever changed the same way, before the Long Night War made the question moot by destroying the city outright.
 
-### Secondary: Drumheller, Alberta, Canada
-
-Branded "Dinosaur Capital of the World," a small town whose entire civic identity and tourism economy runs on the fossil record beneath and around it.
-
-**What this gives Marambio:** direct structural precedent for a place whose true significance lies in what's buried beneath its more visible, functional identity — just as Drumheller's whole civic brand rests on its fossil record rather than anything else about the town, Marambio's own established "geological archive underfoot" gives its paleontological program real-world grounding as a genuine, defining civic fact rather than a secondary detail layered on top of its aviation/shipping economy.
-
 ---
 
 ## What's Actually Open
@@ -67,22 +61,26 @@ Branded "Dinosaur Capital of the World," a small town whose entire civic identit
 Carried forward from `Specs/Marambio.md` and `City_Vision_Notes/Marambio.md`, still genuinely unresolved:
 - The airfield's post-war state — more developed than Rothera's runway; what remains?
 - The Picnic Passage causeway/bridge chain's post-war condition
-- Whether the paleontological fossil-research archive survived the destruction
 - ~~A data-quality gap: Marambio is missing from the census's own "Lost and Ruined Cities" section~~ — **resolved 2026-07-13** (`Official_Population_Census.md`'s combined-losses total, during Sejong's own re-check pass), no longer open
 
-**Resolved 2026-07-17:** the two placeholder holiday names — per Course of Events Suggestion #6, "The
-Warm Ground" (a quiet science-appreciation holiday honoring the Eocene fossil record), and Suggestion
-#7, "Founders' Flight" (an aviation-focused observance honoring the 1969 Argentine Air Force arrival and
-the exile generation's own founding flight) — both `Marambio_Course_of_Events_Suggestions.md` — are
-fully developed, not placeholders. Also resolved: notable figures — Comandante Ezequiel Fariña
-(Suggestion #2) and Paleontologist Ingrid Solberg-Vidal (Suggestion #5) are both named. Also resolved:
-the exact division of labor between Marambio's and Esperanza's shipping roles — per Suggestion #9,
-"Bulk Here, Precision There," Marambio handles bulk, high-volume cargo while Esperanza handles
-smaller-scale, more specific and often documented shipments. Also resolved, via the newly-drafted
-Suggestion #11, "The Hedge, Tested" (`Course_of_Events/Marambio_11_The_Hedge_Tested.md`): whether
-Marambio's aviation hub ever faced comparable pressure to Gander's real historical arc — it did, and the
-shipyard built as chain #10's deliberate hedge is what let the city absorb the shift rather than being
-destabilized by it.
+**Resolved 2026-07-17:** "Founders' Flight" (Course of Events Suggestion #7, an aviation-focused
+observance honoring the 1969 Argentine Air Force arrival and the exile generation's own founding flight,
+`Marambio_Course_of_Events_Suggestions.md`) is fully developed, not a placeholder; a second municipal
+holiday slot remains open — see the correction below. Also resolved: Comandante Ezequiel Fariña
+(Suggestion #2) is named as a notable figure. Also resolved: the exact division of labor between
+Marambio's and Esperanza's shipping roles — per Suggestion #9, "Bulk Here, Precision There," Marambio
+handles bulk, high-volume cargo while Esperanza handles smaller-scale, more specific and often
+documented shipments. Also resolved, via the newly-drafted Suggestion #11, "The Hedge, Tested"
+(`Course_of_Events/Marambio_11_The_Hedge_Tested.md`): whether Marambio's aviation hub ever faced
+comparable pressure to Gander's real historical arc — it did, and the shipyard built as chain #10's
+deliberate hedge is what let the city absorb the shift rather than being destabilized by it.
+
+**Correction:** Suggestion #5 ("Ingrid's Dig," a paleontological-archive figure and chain) and Suggestion
+#6 ("The Warm Ground," a fossil-record holiday) both built on Seymour Island's real-world fossil beds,
+which the developer has confirmed is a real-world geological fact with no bearing on Tepenia's own
+fiction, not a driver of the city's population culture. Both are struck; see
+`Marambio_Course_of_Events_Suggestions.md` for the corrected chain list, and the Local_Cultures sheet for
+the still-open second holiday slot.
 
 ---
 

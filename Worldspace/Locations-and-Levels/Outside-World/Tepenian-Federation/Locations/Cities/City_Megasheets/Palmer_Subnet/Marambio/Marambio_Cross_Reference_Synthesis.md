@@ -16,19 +16,7 @@
 
 ---
 
-## Finding 2: The fossil-versus-scholarship split has a human echo already living in Marambio's own established dockworker culture
-
-**Combining:** the Vision Notes' established dockworker culture (many human workers in relationships with robot coworkers, robots living far longer than humans per project-wide established fact) + the Full Extrapolation's proposed distinction (the fossils, as permanent geology, survive the war; the human scholarship interpreting them does not) + the project-wide established fact that robots, not human lifespans, are Tepenia's actual carriers of continuous memory.
-
-**2nd-order effect:** the same pattern governing the fossil record — the permanent thing outlasts the temporary human record of or relationship to it — also governs Marambio's human population directly: a robot dockworker with a human partner would, given ordinary human lifespans, very plausibly outlive that partner the same way the rock outlives the paleontologist's notes.
-
-**3rd-order effect:** this turns the fossil/scholarship distinction from a purely geological worldbuilding detail into a genuine thematic echo of Marambio's own established human-robot relationship culture — permanence outlasting the temporary, playing out at two completely different scales (geological and personal) that were never connected before this pass.
-
-**4th-order effect:** gives any future robot character tied to Marambio's docks a resonant personal parallel already built into the city's own established facts — someone who watched both a human partner and an entire generation of scholarly understanding fade, while the underlying permanent things (the relationship's meaning, the rock itself) simply continued existing regardless.
-
----
-
-## Finding 3: Marambio may be an unexamined version of Janbogo's own signature cultural inversion
+## Finding 2: Marambio may be an unexamined version of Janbogo's own signature cultural inversion
 
 **Combining:** Argentina's extreme demographic dilution (0.74%, the deepest founding-nation erosion documented in the Palmer subnet) + the established fact that the airfield's own founding-era operational discipline persisted institutionally regardless of who actually staffed the base by Census II + Janbogo's own, far more celebrated version of the identical phenomenon — a founding culture surviving its founders' demographic minority status.
 
@@ -40,12 +28,12 @@
 
 ---
 
-## Synthesis: The Pattern Across All Three Findings
+## Synthesis: The Pattern Across Both Findings
 
-All three findings converge on the same underlying observation: Marambio is a city whose real significance keeps turning out to be larger, or differently shaped, than its own documentation initially captured. Its destruction was more devastatingly efficient than its original justification credits (Finding 1); its geological permanence quietly mirrors its own human relationships in ways nobody had connected before (Finding 2); and it may be running the exact same founding-culture-outlives-founders pattern that defines Janbogo, just without ever noticing it (Finding 3). Marambio reads, across all three findings, as a city defined by things happening to it and within it that its own function-first culture never had the reflective habit to name — consistent with a place whose whole established character prioritizes moving people and goods over examining itself.
+Both findings converge on the same underlying observation: Marambio is a city whose real significance keeps turning out to be larger, or differently shaped, than its own documentation initially captured. Its destruction was more devastatingly efficient than its original justification credits (Finding 1), and it may be running the exact same founding-culture-outlives-founders pattern that defines Janbogo, just without ever noticing it (Finding 2). Marambio reads, across both findings, as a city defined by things happening to it and within it that its own function-first culture never had the reflective habit to name — consistent with a place whose whole established character prioritizes moving people and goods over examining itself.
 
 ---
 
 ## Worth Your Attention
 
-Finding 2 is the most emotionally resonant of the three — it takes a purely geological detail (fossils surviving, scholarship lost) and reveals it as a direct echo of Marambio's own established human-robot relationship culture, giving any future writing about a Marambio-connected robot character a genuine, earned emotional throughline rather than an invented one.
+Finding 2 is the more speculative of the two, but the more generative — it's the first pass to ask whether Marambio's own founding-institutional persistence was ever noticed and named by its residents the way Janbogo's was, or whether it simply ran invisibly the whole time, consistent with a city whose whole civic energy goes into function over self-reflection.

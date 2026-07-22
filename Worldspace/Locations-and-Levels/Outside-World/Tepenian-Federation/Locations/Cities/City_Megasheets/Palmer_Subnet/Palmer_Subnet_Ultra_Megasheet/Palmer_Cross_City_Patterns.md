@@ -12,15 +12,16 @@ Esperanza, Rothera, and Sejong each independently discovered, in their own Cross
 
 ---
 
-## Pattern 2: The permanent thing carries forward what the temporary thing cannot — three independent instances
+## Pattern 2: The permanent thing carries forward what the temporary thing cannot — two independent instances
 
-Three separate Palmer subnet cities independently produced a version of the same underlying mechanism, without any of their own Cross-Reference Syntheses citing each other:
+*(Reduced from three instances — a third, Marambio's fossil-record/dockworker parallel, was struck along with the rest of Marambio's paleontology material per the developer's own correction; see `Marambio_Cross_Reference_Synthesis.md`.)*
+
+Two separate Palmer subnet cities independently produced a version of the same underlying mechanism, without either of their own Cross-Reference Syntheses citing the other:
 
 - **Esperanza:** given human lifespans carry no dramatic extension, "being from Hope" as a living identity is actually carried forward by the city's own long-lived robot caregivers, not by human bloodlines (Esperanza Full Extrapolation, Section IV).
-- **Marambio:** Seymour Island's fossil record survives the war untouched, since conventional strikes don't destroy geology, while the century-plus of human scholarship interpreting those fossils does not — and this same permanence/impermanence split is proposed to echo directly in Marambio's own dockworker culture, where a robot partner would plausibly outlive a human one the same way the rock outlives the paleontologist's notes (Marambio Cross-Reference, Finding 2).
 - **Palmer City:** Solenne Vaskarre, given established robot lifespans, may still be alive in the present-day game era nearly 250 years after the Long Night War's inciting incident — the single most consequential person Palmer City ever produced, potentially still carrying that history in person (Palmer City Cross-Reference, Finding 7).
 
-**Combined, these three cities show the same mechanism operating at three different scales** — institutional memory (Esperanza), scholarly knowledge (Marambio), and lived historical witness (Palmer City) — none of which any individual city's own Megasheet connected to the others. Robots are not merely present throughout Palmer subnet's history; they are, structurally, the subnet's actual continuity mechanism, in three unrelated domains at once.
+**Combined, these two cities show the same mechanism operating at two different scales** — institutional memory (Esperanza) and lived historical witness (Palmer City) — neither of which either city's own Megasheet connected to the other. Robots are not merely present throughout Palmer subnet's history; they are, structurally, the subnet's actual continuity mechanism, in more than one domain at once.
 
 ---
 
@@ -66,4 +67,4 @@ Signy's own Cross-Reference Synthesis (Finding 1) already directly compares itse
 
 ## Worth Your Attention
 
-Pattern 2 and Pattern 6 are the two strongest items in this file, for different reasons. Pattern 2 is the deepest — it reveals a single structural mechanism (robots as the durable carriers of what humans, human institutions, and human lifespans cannot hold onto) operating independently in three completely different registers within the same eight cities, visible only once all eight files sit side by side. Pattern 6 is the most immediately useful for future writing — it identifies a specific, concrete, currently-unacknowledged double debt one DLC's own city (Byrd) owes to a different DLC's subnet entirely, a ready-made hook for any future cross-DLC content.
+Pattern 2 and Pattern 6 are the two strongest items in this file, for different reasons. Pattern 2 is the deepest — it reveals a single structural mechanism (robots as the durable carriers of what humans, human institutions, and human lifespans cannot hold onto) operating independently in two completely different registers within the same eight cities, visible only once all eight files sit side by side. Pattern 6 is the most immediately useful for future writing — it identifies a specific, concrete, currently-unacknowledged double debt one DLC's own city (Byrd) owes to a different DLC's subnet entirely, a ready-made hook for any future cross-DLC content.
