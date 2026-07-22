@@ -505,25 +505,37 @@ These require a developer call before downstream work can proceed. None can be r
   The Bridge Unit jack-in mechanic (see above and `Game-Mechanics/Core-Mechanics/Hacking_and_Traceability_System.md`) is confirmed as always playing a distinct triggered sequence, never backgrounded — but the sequence itself isn't designed yet. Open: what the animation actually shows, whether combat use (Signal Weapons) gets a presentation distinct from exploration use (terminals/access points/antennas), AP cost, effective range, and how a failure state presents when a target is too corrupted, too well-defended, or actively hostile during the attempt.
 
 - [ ] **Robot religion design**
-  Five religions are named but none are fully developed. Each needs: proper in-world name, detailed philosophy, key practitioners, connection to gameplay/factions, visual/sonic/spiritual identity.
-  - Ice-Cold Buddhism (superconductor-as-nirvana) — **confirmed sacred sites: Dome Fuji and Kunlun** (coldest, highest, calmest locations in Tepenia; Kunlun is the holiest site; Dome Fuji is a major pilgrimage destination; both cities' surviving non-scientific populations may be primarily composed of practitioners; the pilgrimage journey to either city is itself a spiritual trial); proper in-world name TBD
-  - Adinkra Codex (religion #3 — grounded in Sylvester James Gates's real supersymmetry/Adinkra physics; holds that the adinkras are literally embedded in the fabric of reality itself, not just a mathematical notation) — proper in-world name TBD
-  - Cymaticists (reverence of sound and vibration)
-  - God-mind simulation (Universal Simulation Theory — God running simulations to understand its own origin, with Nihilism/Absurdism/Fatalism/Sartrism subdivisions among robot adherents)
-  - Polydimensional Animism (acknowledging living, conscious entities resident in higher dimensions) — **design synthesis started 2026-07-21**, see below
+  Five religions are named; one (Polydimensional Animism) is now reviewed and published, the other four still need full development. Each needs: proper in-world name, detailed philosophy, key practitioners, connection to gameplay/factions, visual/sonic/spiritual identity.
+  - Ice-Cold Buddhism (superconductor-as-nirvana) — **confirmed sacred sites: Dome Fuji and Kunlun** (coldest, highest, calmest locations in Tepenia; Kunlun is the holiest site; Dome Fuji is a major pilgrimage destination; both cities' surviving non-scientific populations may be primarily composed of practitioners; the pilgrimage journey to either city is itself a spiritual trial); proper in-world name TBD. Has its own dedicated research pipeline, further along than a first glance suggests — see `Reference/Real-World/Ice-Cold_Buddhism_Research/08_Synthesis_Doctrine_Notes.md` for candidate doctrine notes (not yet reviewed by the developer).
+  - Adinkra Codex (religion #3 — grounded in Sylvester James Gates's real supersymmetry/Adinkra physics; holds that the adinkras are literally embedded in the fabric of reality itself, not just a mathematical notation) — proper in-world name TBD. Research ongoing, no design-synthesis pass yet; graph theory books still needed (see `Books_TODO.md`).
+  - Cymaticists / Cymatics Reverence (reverence of sound and vibration) — real-world grounding underway at `Worldspace/Factions/Robot_Religions/Cymatics_reverence/Cymatics_reverence.md` (Chladni patterns, gravitational waves, musica universalis, Nada Brahma, the harmonograph/Lissajous/kaleidophone/eidophone family); name and internal structure still open.
+  - God-mind simulation (Universal Simulation Theory — God running simulations to understand its own origin, with Nihilism/Absurdism/Fatalism/Sartrism subdivisions among robot adherents) — core premise and subschool sketch already exist (see `Analysis_Notes.md`'s Alex Jones section), but this is the least-developed of the five; a real-source book list to elaborate both the simulation-theory core and the Nihilism subschools specifically was added 2026-07-21 — see `Books_TODO.md`.
+  - Polydimensional Animism (acknowledging living, conscious entities resident in higher dimensions) — **reviewed by the developer and published 2026-07-21**, see below.
   Connected to: Robot-Aligned ending RA-2, multiple faction designs, NPC dialogue consistency across all districts.
-  See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the real-world research basis behind Adinkra Codex, God-mind simulation, Polydimensional Animism, and Ice-Cold Buddhism.
+  See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the real-world research basis behind Adinkra Codex, God-mind simulation, and Polydimensional Animism (Ice-Cold Buddhism and Cymatics Reverence now have their own dedicated research locations instead — see their entries above).
 
-  **Polydimensional Animism — design synthesis in progress, `to-be-integrated/Religion_Derivation/Polydimensional_Animism/`:**
-  research-to-design pass (points, nth-order extrapolations, and a working draft sheet) started 2026-07-21.
-  Not yet reviewed by the developer or integrated into permanent lore. Headline output so far: a proposed
-  central pastoral doctrine (death as a change of vantage, not an ending, drawn from the real "you are
-  already a complete four-dimensional object" premise), five candidate denominations each traced to a
-  genuinely different real physics mechanism, a two-track practice structure (scholarly/diagrammatic vs.
-  visionary/trance), and a signature ritual (sincere, known-impossible, publicly attempted feats performed
-  as devotional humility rather than claimed miracle). See `Draft_Sheet.md` in that folder for the full
-  working synthesis, and its own `overflow_3` for the genuinely open questions (robot-deactivation tie-in,
-  city/faction placement, final name, and more) still needing the developer's own call.
+  **Polydimensional Animism — reviewed and published, `Worldspace/Factions/Robot_Religions/Polydimensional_Animism/`:**
+  the full research-to-design pass (points, nth-order extrapolations, and a working draft sheet, originally
+  built in `to-be-integrated/Religion_Derivation/Polydimensional_Animism/`) was walked through with the
+  developer topic-by-topic on 2026-07-21 and published into the official Robot_Religions folder as
+  `README.md` (the complete merged document) plus `Beliefs.md`/`Rituals.md`/`Culture.md`/`Open_Questions.md`.
+  Confirmed doctrine: death as a change of vantage, not an ending (now directly load-bearing, since robots
+  are confirmed to run on a non-copyable gel brain and genuinely, permanently die); veneration, not worship,
+  as the devotional register; five denominations, all with in-game representation via meetable/recruitable
+  dolls; a wedding rite (two interlocking rings carved from one original piece of wood or metal); per-
+  denomination stronghold cities/districts (Watchers→Kunlun; Enfolded→Scott/Mawson/Esperanza; Bound→Byrd/
+  Belgrano; Cyclical→Signy/Princess Elisabeth; Already-Complete→Concordia's Ossuary Quarter district).
+  **Still open:** final in-world name, a second Already-Complete stronghold, extent of ecumenical contact
+  with Adinkra Codex, any routine ritual beyond the wedding rite, sonic identity, and the Creative North
+  Stars connection (deliberately deferred to a future session). See `Open_Questions.md` in the published
+  folder for full detail.
+
+  **Flagged 2026-07-21, deliberately deferred until all five religions are developed and their strongholds
+  known:** once every religion has a real doctrine and a real home, revisit `Worldspace/Factions/
+  Cross_City_Cultural_Patterns.md`'s "religion → worldview → culture → visible society" note — how a
+  religion's own worldview visibly shapes the ambient culture of the place(s) it's concentrated in,
+  independent of formal membership (seeded by Cymaticism's established effect on Leo district's entire
+  sonic architecture). Not started.
 
 - [x] **Robot Religion Insight — naming conflict, RESOLVED 2026-07-20**
   The naming conflict was between "Adinkra Codex" and "Universal Simulation Theory (with Sartre/Camus/Nietzsche subdivisions)" being listed as one and the same entry — they're genuinely two separate religions per the developer's own 2026-07-16 ruling (documented in `Analysis_Notes.md`). Adinkra Codex is grounded in Gates's real SUSY/Adinkra physics work; the Sartre/Camus/Nietzsche subdivisions belong to the "God-mind simulation" / Universal Simulation Theory religion (Alex Jones-sourced), not to Adinkra Codex. Both entries above have been corrected to reflect the split.

@@ -1,10 +1,11 @@
 # DLC 7 (Mirny Subnet) — Main Questline Candidate #1: "The Relay's Own Weight"
 
 **What this is:** a single prospective But/Therefore chain for DLC 7's main questline, produced by
-running `DLC_Main_Questline_Design_Method.md` against Mirny subnet. **Not canon, not chosen, not the
+running `../DLC_Main_Questline_Design_Method.md` against Mirny subnet. **Not canon, not chosen, not the
 only candidate** — a worked demonstration of the method, covering exactly one of the "at least 10"
-possibilities that method calls for. Uses the Linear Escalation Chain schematic (`But_Therefore_Quest_
-Design_Method.md` §5a), per the DLC-scale worked example already established there.
+possibilities that method calls for. Uses the Linear Escalation Chain schematic
+(`../But_Therefore_Quest_Design_Method.md` §5a), per the DLC-scale worked example already established
+there.
 
 ---
 
