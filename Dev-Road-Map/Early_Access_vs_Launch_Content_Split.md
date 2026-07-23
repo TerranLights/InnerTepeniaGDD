@@ -22,6 +22,14 @@ These are the cleanest, most easily justified Launch-exclusive items, because th
 - **Post-romance mini-questlines and Significant Object rewards** (see `Worldspace/Design_Principles.md` Section III). Easy to stage: base romance arcs ship in Early Access, the deeper post-romance layer arrives as a launch addition.
 - **Full companion home designs.** Interiors could ship simplified during Early Access, fully realized at launch.
 - **Endgame/completionist content** — New Game+, achievements, a final full perk-cycle balance pass.
+- **"Throw anything" support — confirmed Launch-exclusive, 2026-07-23.** Early Access ships the scoped-down
+  thrown-blades-only system (`Game-Mechanics/Combat/Throwing_Weapons.md`); a full Baldur's Gate 3-style
+  "any item can be thrown" system is confirmed for Launch specifically, not Early Access. Reasoning: it's a
+  genuinely larger-scope system requiring extensive planning and execution in its own right (every throwable
+  item needs its own weight/damage/behavior handling, not just blades), not a case of the blade system simply
+  needing more polish — closer in kind to the full companion roster/companion homes pattern above (ship the
+  scoped version first, the fuller version at launch) than to Category 1's funding-gated items or Category 3's
+  stability-gated ones.
 
 ### Resolved 2026-07-10: Romance stays in Early Access, but with a reduced roster
 

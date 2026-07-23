@@ -9,9 +9,17 @@ not. Whenever Outer Tepenia's own design documents begin, this principle should 
 rather than being re-derived.
 
 **Focus, per the original 2026-07-04 scoping (see `TODO.md`):** thrown blade weapons specifically —
-throwing knives, tomahawks, and similar bladed forms — not a generic "any weapon can be thrown" system.
-Fantasy-genre consumable throwables (BG3's alchemist's fire and similar) are explicitly excluded; a separate
-Sci-Fi grenade system could cover that niche later, but it's a distinct idea from this one.
+throwing knives, tomahawks, and similar bladed forms — this file's own scope, and what Early Access ships
+with. Fantasy-genre consumable throwables (BG3's alchemist's fire and similar) are explicitly excluded; a
+separate Sci-Fi grenade system could cover that niche later, but it's a distinct idea from this one.
+
+**A full "throw anything" system — confirmed Launch-exclusive, 2026-07-23.** A genuine Baldur's Gate 3-style
+system letting the player throw any item, not just blades, is planned for the eventual full Launch release
+specifically, not Early Access (see `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md`). Reasoning: it's
+a real system requiring its own extensive planning and execution (every throwable item needs its own
+weight/damage/behavior handling), not just a bigger version of the blade system this file covers. The
+Universal Principle and per-game implementations below still apply once that system exists; this file
+documents the blade-only Early Access baseline they'll build on top of.
 
 ---
 
