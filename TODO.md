@@ -692,6 +692,19 @@ These require a developer call before downstream work can proceed. None can be r
   **Also corrected 2026-07-19:** Gemini's "Janbogo Subnet Nexus" (used throughout file titles/text) is NOT a settled official name, contrary to how it reads in file titles — it's a descriptive label only. Treat Gemini as genuinely unnamed, same as Taurus and Leo (Leo's recurring "Golden Ring" was checked the same way and is *also* not settled, despite 18 files using it).
   **Status: flag, don't fix further — developer wants to brainstorm Taurus/Leo/Gemini/Scorpio/Aries names directly in a future session, not have candidates pre-generated.**
 
+- [ ] **Identity Fragmentation — full exploration pass, flagged 2026-07-22**
+  Surfaced while consolidating technical architecture docs into `Code-Architecture/`: the developer expressed
+  strong enthusiasm for the Identity Fragmentation mechanic (a 0-100 meter that rises with each player
+  re-spec, triggers `fragmentation_critical` at 75+, opens a unique ending at 100) — "I didn't think of it
+  myself, but I love the idea, and it should definitely be in the game." **Not a from-scratch task:**
+  substantial existing material is already scattered across
+  `Storyline/Endings/Secret-Endings/Identity_Fragmentation_Endings.md`,
+  `Game-Mechanics/Core-Mechanics/Player_Re-Spec_-_Complete_Design.md`, `..._Costs_and_Trade-Offs.md`,
+  `..._Options_Beyond_Calethina.md`, and `Hardcore_Mode.md`. Needed: a review/consolidation pass across all
+  of it (checking for consistency, same as the Technical Architecture consolidation), then further
+  development of mechanics, implications, implementation, and in-world lore per the developer's own request.
+  See `project_identity_fragmentation_review_flagged` memory.
+
 - [ ] **District documentation template** — create `Worldspace/Locations-and-Levels/Concordia-City/Districts/_TEMPLATE.md`
   Must include a **Demonym** field: the word for "a person from [District]" (e.g., Sagittarius → Frostlander). Used in NPC dialogue, terminal entries, audio logs, and any in-world text referring to a district's residents as a group. Each district needs its own demonym established before NPC dialogue writing begins.
 
