@@ -32,6 +32,30 @@ DLCs, despite carrying the "1" designation.
   (+6, always parity-safe) ever becomes available — the default, in-order
   purchase path never hits the awkward odd-cap state.
 
+### Two candidate release orders for the 6 subnet DLCs — neither locked, decision deferred (2026-07-23)
+
+South Pole (DLC 1) is confirmed last regardless of which candidate is chosen. Both were checked against real
+canon (the highway network, each subnet's now-confirmed meta-personality read) rather than picked arbitrarily
+— see `Dev-Road-Map/Weekly_To-Do_-_Current.md` for the fuller reasoning behind each. **Release order and
+development order are explicitly decoupled** — nothing requires building the DLCs in the order they ship.
+
+**"Geometric"** — traces the continent's coastline in one continuous rotational direction from Concordia's
+own home subnet, almost closing the loop back to Janbogo before peeling inward to the South Pole (the
+continent's actual geometric center — the same reasoning behind naming the Amundsen Time Code after it):
+
+> Janbogo → Mirny → Mawson → Halley → Palmer → Byrd → South Pole
+
+**"Thematic"** — builds an emotional arc from each subnet's confirmed meta-personality read: an opening wound
+(identity assigned by others), a first virtuous response (quiet competence), a deliberate destabilization
+(a subnet that genuinely doesn't cohere), an interior descent (isolation), isolation transformed into
+purpose (research/sacrifice), and a closing verdict that echoes the opening wound, running straight into the
+South Pole's own reckoning with what survival cost:
+
+> Palmer → Halley → Mawson → Byrd → Mirny → Janbogo → South Pole
+
+**Open:** which of the two the release order actually follows — a spatial story (the whole continent, then
+its center) versus an emotional one (wound to verdict). Not both at once; revisit when ready to decide.
+
 ---
 
 ## Scope and Length — Design Standard (All DLCs)

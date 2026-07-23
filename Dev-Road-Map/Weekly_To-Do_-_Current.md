@@ -54,17 +54,18 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
   stat-mapping dimensions (range, accuracy, crit chance, crit damage) still undecided — range is proposed as
   Might, the rest open.
 
-- [ ] **Re-number the DLCs by release order — one prerequisite now clears, the other doesn't**
-  Subnet meta-personalities (above) is done, so that half of the original two-part prerequisite is
-  satisfied. The other half — each DLC's own main questline/central conflict — is not: checked
-  `Storyline/DLC_Overview.md` directly, and only 2 of 6 subnet DLCs have even a *working, tentative*
-  central-conflict anchor (DLC 2/Byrd: 3 unchosen candidates; DLC 5/Halley: Troll Airfield control,
-  explicitly tentative). DLC 3 (Palmer), DLC 4 (Mawson), DLC 6 (Janbogo), and DLC 7 (Mirny) all still read
-  "Main storyline: TBD" with no anchor at all. A genuinely well-informed release order isn't really possible
-  yet — 4 of 6 DLCs are blank slates. What *does* exist to work from: each DLC's confirmed/reserved companion
-  status, its subnet's now-confirmed meta-personality tone, and the 2 working conflict-anchors above. Worth
-  deciding explicitly: order provisionally from that limited signal (labeled tentative, revisit once more DLC
-  content exists), or hold this one until more DLCs have real storylines to compare.
+- [ ] **Re-number the DLCs by release order — narrowed to 2 candidate orders, 2026-07-23, decision deferred**
+  Both written into `Storyline/DLC_Overview.md`'s "Release Order vs. DLC Numbering" section. South Pole
+  (DLC 1) confirmed last either way; release order and development order are explicitly decoupled, so neither
+  candidate is blocked by the 4 subnet DLCs still lacking a real main-questline anchor.
+  - **"Geometric"** — traces the continent's coastline in one rotational sweep from Concordia's own Janbogo
+    subnet, nearly closing the loop before diving inward to the South Pole (the continent's actual center):
+    Janbogo → Mirny → Mawson → Halley → Palmer → Byrd → South Pole.
+  - **"Thematic"** — an emotional arc built from each subnet's confirmed meta-personality read (wound →
+    response → destabilization → isolation → purpose → verdict, the verdict echoing the opening wound):
+    Palmer → Halley → Mawson → Byrd → Mirny → Janbogo → South Pole.
+  **Open:** which one actually becomes the release order — a spatial story vs. an emotional one, not both at
+  once. Developer's own lean is toward Thematic, open to Geometric; deliberately not decided yet.
 
 - [ ] **Amundsen Time Code (ATC)**
   Tepenia's UTC-equivalent, based on EST (New York/Palmer City's own longitude, longest-spanning real-world
