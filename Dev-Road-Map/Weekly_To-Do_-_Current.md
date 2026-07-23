@@ -54,19 +54,26 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
   stat-mapping dimensions (range, accuracy, crit chance, crit damage) still undecided — range is proposed as
   Might, the rest open.
 
-- [ ] **Subnet "meta-personalities" — flagged, not actually done yet**
-  Checked before adding this: no meta-personality document exists anywhere in the repo yet — only the
-  underlying **prerequisite** (every subnet's city post-cultures project) is complete, which is what makes
-  this now genuinely startable, not a claim that the synthesis itself has happened. Keeping this on the list
-  as real, not-yet-started work: derive each subnet's aggregate tone/feel from its finished city set, meant
-  to drive tonal differentiation between the 7 DLCs.
+- [x] **Subnet "meta-personalities" — correction: this was already done, moved to `DONE.md`**
+  My initial "not done" read was wrong — it was based on a literal string search for "meta-personality" that
+  missed the actual content, which lives under a different heading. All 5 multi-city subnets' own
+  Ultra-Megasheets already carry a "Personality (A Whole-Subnet Read)" section, each explicitly
+  cross-referencing the others by name (Halley/"Competency turned inward," Janbogo/"Survival read as a
+  verdict," Mirny/"Function outliving the need for credit," Mawson/no single unifying read — genuinely
+  three cities with none, Palmer/chronic under-description). Byrd (single-city subnet) has the equivalent at
+  city level in its own Megasheet. Genuinely complete — see `DONE.md`.
 
-- [ ] **Re-number the DLCs by release order**
-  Worth flagging before starting: the original entry ties this to two prerequisites — subnet
-  meta-personalities (see above, not yet done) and each DLC's own main questline/central problem being
-  worked out (per `Storyline/DLC_Overview.md`, most DLCs still show "storyline TBD"). Proceeding now means
-  working from a "moderately decent" general sense of each DLC rather than those fully resolved — a
-  reasonable call, just worth being aware the formal prerequisites aren't fully met yet.
+- [ ] **Re-number the DLCs by release order — one prerequisite now clears, the other doesn't**
+  Subnet meta-personalities (above) is done, so that half of the original two-part prerequisite is
+  satisfied. The other half — each DLC's own main questline/central conflict — is not: checked
+  `Storyline/DLC_Overview.md` directly, and only 2 of 6 subnet DLCs have even a *working, tentative*
+  central-conflict anchor (DLC 2/Byrd: 3 unchosen candidates; DLC 5/Halley: Troll Airfield control,
+  explicitly tentative). DLC 3 (Palmer), DLC 4 (Mawson), DLC 6 (Janbogo), and DLC 7 (Mirny) all still read
+  "Main storyline: TBD" with no anchor at all. A genuinely well-informed release order isn't really possible
+  yet — 4 of 6 DLCs are blank slates. What *does* exist to work from: each DLC's confirmed/reserved companion
+  status, its subnet's now-confirmed meta-personality tone, and the 2 working conflict-anchors above. Worth
+  deciding explicitly: order provisionally from that limited signal (labeled tentative, revisit once more DLC
+  content exists), or hold this one until more DLCs have real storylines to compare.
 
 - [ ] **Amundsen Time Code (ATC)**
   Tepenia's UTC-equivalent, based on EST (New York/Palmer City's own longitude, longest-spanning real-world
