@@ -96,3 +96,4 @@ resolved.
 - [x] Full station-to-city mapping tabulated (all ~40 stations on the map)
 - [x] Tepenian Federation flag decided (wide circuit)
 - [x] Federal/government flag variants — three-tier hierarchy established (wide circuit / diamond+circuit background / tesseract seal)
+- [x] Juan Carlos — post-Long-Night-War status resolved: Destroyed, targeted for its archive/customs administrative function (same deliberate-strike logic as Zukelli), not generalized war damage
