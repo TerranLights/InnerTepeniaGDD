@@ -173,3 +173,9 @@ extreme state, dual-purpose depending on who holds it:
 - Full Personality/Institutional Grief-Multiplier values for the remaining companions and the 11 districts
   not yet explicitly calibrated above.
 - Whether Bond can decay from neglect, or only grows — not yet decided.
+- **Flagged 2026-07-23, deliberately deferred, not urgent:** a dedicated design pass for "Long Vigil companion
+  ending perks" generally — once more companions have their own Long-Vigil-only pathlines (Ayako's "The
+  Second Garment" is the first, see her `Questlines/Personal_Questline_Summary.md`), go through and formally
+  design each one's actual mechanical perk rather than leaving them as narrative sketches. Not something to
+  start now — flagged for whenever the broader companion Long Vigil pathline set exists to draw a real
+  pattern from.

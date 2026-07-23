@@ -80,13 +80,16 @@ Full backstory details in `Personal_Background/`.
 
 Full broad-scope direction in `Questlines/Personal_Questline_Summary.md`. Full step-by-step design deliberately deferred until Concordia/Cancer district is developed enough to root it in real places.
 
-**Long-Vigil-only pathline — flagged 2026-07-23, first confirmed candidate.** Per `Fragmentation_Matrix.md`'s
+**Long-Vigil-only pathline — made official 2026-07-23: "The Second Garment."** Per `Fragmentation_Matrix.md`'s
 companion calibration, Ayako carries a high Personality Grief-Multiplier — her SP4w5 wound (present, unable
 to save someone she loved) maps directly onto what it means to watch a bonded player disappear into a
-re-spec. If the player brings her to **The Long Vigil** (Grief Range 3 + Bond Range 3 simultaneously), her
-personal questline should include a dedicated pathline reachable no other way — see `Companion_System.md`'s
-Personal Questline Design Rule, "Recommended pattern — a Long Vigil route." Not yet designed beyond this
-flag; a strong candidate to develop once her main questline's step-by-step design is underway.
+re-spec. Reaching **The Long Vigil** (Grief Range 3 + Bond Range 3 simultaneously) with her unlocks a second,
+unexplained garment in her atelier — made privately, unprompted, in the likeness of who the player used to
+be — paralleling the already-established garment she keeps for the man she lost. Full structure, the
+three-beat design, and the branching (non-"good"-ending) resolutions are written up in
+`Questlines/Personal_Questline_Summary.md`'s own "Long-Vigil-Only Pathline" section. Exact dialogue and
+in-scene staging remain deferred until Cancer district's own development catches up, same as the rest of her
+questline.
 
 ---
 
