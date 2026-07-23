@@ -3,9 +3,21 @@
 
 For each district, these are **specific, culturally violating actions** (beyond generic murder/looting) that would cause nearby locals to turn hostile and attack the player on sight.
 
+**Flagged for future review (2026-07-22):** name tags audited and corrected against current district canon
+(Cancer/Capricorn/Libra now use their resolved official names; Gemini's tag clarified as informal, not
+official). Several genuine content gaps and enrichment opportunities were also identified against the
+richer district lore now established (Full Extrapolation Section I, `District_Unity_of_Opposites.md`,
+`District_Main_Questlines.md`) but not yet acted on — most notably, Pisces' triggers cover only the
+Operators/black-market half of the district and are silent on the Believers/Flood-Traumatized factions;
+several other districts (Taurus, Scorpio, Capricorn, Aquarius, Virgo, Sagittarius) have a single
+load-bearing institution or faction the list doesn't yet name specifically. There's also an open question
+about whether Libra's "leaking sensitive government documents" trigger should stay unconditional given that
+`District_Main_Questlines.md`'s own Libra chain treats a version of that same act sympathetically. Revisit
+this file once these are ready to be worked through.
+
 ---
 
-### 1. Cancer – TBN-district (Nurturing / Protective)
+### 1. Cancer – The Sanctuary (Nurturing / Protective)
 - Deliberately damaging or sabotaging shelters, medical facilities, or child-care centers.
 - Stealing food, medicine, or supplies meant for the sick, elderly, or children.
 - Threatening, harassing, or attempting to abduct vulnerable NPCs (especially children or the infirm).
@@ -40,7 +52,7 @@ For each district, these are **specific, culturally violating actions** (beyond 
 - Publicly humiliating authority figures during a crisis.
 - Showing extreme cowardice or weakness in a way that disgraces the district’s values.
 
-### 6. Capricorn – TBN-district (Industrial / Ambition)
+### 6. Capricorn – The Yards (Industrial / Ambition)
 - Sabotaging production lines or critical machinery.
 - Stealing industrial secrets, prototypes, or high-value materials.
 - Undermining or publicly disgracing a foreman/supervisor in front of workers.
@@ -54,14 +66,14 @@ For each district, these are **specific, culturally violating actions** (beyond 
 - Betraying a researcher mid-experiment.
 - Discrediting major research projects in a destructive public manner.
 
-### 8. Libra – TBN-district (Diplomatic / Balance)
+### 8. Libra – The Government District (Diplomatic / Balance)
 - Disrupting official proceedings or diplomatic events violently.
 - Stealing or leaking highly sensitive government documents.
 - Inciting major unrest or rebellion inside the governmental district.
 - Causing severe diplomatic incidents that threaten stability.
 - Openly undermining the rule of law in a high-profile way.
 
-### 9. Gemini – Janbogo Subnet Nexus (Information / Communication)
+### 9. Gemini – TBN-district (informally "Janbogo Subnet Nexus," not yet an official name) (Information / Communication)
 - Deliberately spreading dangerous misinformation on a large scale.
 - Hacking and publicly leaking highly sensitive private data.
 - Destroying or corrupting critical information archives.
