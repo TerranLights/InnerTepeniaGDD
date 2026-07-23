@@ -54,15 +54,6 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
   stat-mapping dimensions (range, accuracy, crit chance, crit damage) still undecided — range is proposed as
   Might, the rest open.
 
-- [x] **Subnet "meta-personalities" — correction: this was already done, moved to `DONE.md`**
-  My initial "not done" read was wrong — it was based on a literal string search for "meta-personality" that
-  missed the actual content, which lives under a different heading. All 5 multi-city subnets' own
-  Ultra-Megasheets already carry a "Personality (A Whole-Subnet Read)" section, each explicitly
-  cross-referencing the others by name (Halley/"Competency turned inward," Janbogo/"Survival read as a
-  verdict," Mirny/"Function outliving the need for credit," Mawson/no single unifying read — genuinely
-  three cities with none, Palmer/chronic under-description). Byrd (single-city subnet) has the equivalent at
-  city level in its own Megasheet. Genuinely complete — see `DONE.md`.
-
 - [ ] **Re-number the DLCs by release order — one prerequisite now clears, the other doesn't**
   Subnet meta-personalities (above) is done, so that half of the original two-part prerequisite is
   satisfied. The other half — each DLC's own main questline/central conflict — is not: checked
