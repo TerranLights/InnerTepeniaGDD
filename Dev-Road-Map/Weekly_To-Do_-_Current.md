@@ -69,9 +69,13 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
   **Open:** which one actually becomes the release order — a spatial story vs. an emotional one, not both at
   once. Developer's own lean is toward Thematic, open to Geometric; deliberately not decided yet.
 
-- [ ] **Amundsen Time Code (ATC)**
-  Tepenia's UTC-equivalent, based on EST (New York/Palmer City's own longitude, longest-spanning real-world
-  zone), named for Amundsen Station as the neutral inter-subnet relay. To develop: in-game display, whether
-  the war/Planetary Split Brain disrupted timekeeping consistency across subnets, and how it relates to
-  polar night/midnight sun (no sunrise/sunset to anchor local time perception).
+- [ ] **Amundsen Time Code (ATC) — geographic rationale finalized 2026-07-23, implementation still open**
+  ATC is logically derived from EST's geographical stretch, exactly as UTC is derived from GMT's. Three
+  finalized reasons, per `TODO.md`: (1) EST is the single longest-spanning real-world time zone (its
+  farthest-north land is the world's farthest-north land, barring Greenland's tip); (2) EST contains New
+  York City, one of history's largest and most ethnically/linguistically diverse settlements; (3) EST is
+  *adjacent to* (not encompassing) the Antarctic Peninsula — the closest real-world time zone to Palmer
+  City, Tepenia's first-settled ground. Named for Amundsen Station, the South Pole's geographically
+  "centerless" neutral relay. Still open: in-game display, whether the Planetary Split Brain disrupted
+  timekeeping consistency across subnets, and how ATC relates to polar night/midnight sun.
 

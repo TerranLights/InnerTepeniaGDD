@@ -1198,12 +1198,27 @@ These require a developer call before downstream work can proceed. None can be r
   - `city layout - district layout - preliminary suggestions.txt` — early concept; confirm absorbed into district docs
   - `district pairings - districts and their natural allies.txt`, `preliminary faction suggestions.txt` — compare against `District_Natural_Allies.md` and Factions folder
 
-- [ ] **Amundsen Time Code (ATC) — design and integrate**
-  Tepenia's equivalent of UTC. Based on North America's Eastern Standard Time (EST / UTC−5). Rationale:
-  1. EST is home to New York City — one of the largest and most culturally, politically, and economically significant human settlements in history
-  2. EST is the single geographically longest-spanning time zone on the world map
-  3. EST de-facto encompasses the Antarctic Peninsula, home to Palmer City — the first Tepenian city, where robots (and their human allies) first set foot in 2564
-  Named after Amundsen Station, the neutral inter-subnet relay at the South Pole — the most geographically "centerless" location in Tepenia, and thus the natural symbolic anchor for a pan-Tepenian timekeeping standard.
+- [ ] **Amundsen Time Code (ATC) — geographic rationale finalized 2026-07-23, implementation still open**
+  Tepenia's equivalent of UTC — logically derived from the geographical stretch of Eastern Standard Time
+  (EST / UTC−5), in exactly the same relationship UTC itself has to the geographical stretch of GMT (a
+  logical timekeeping construct anchored to, but conceptually distinct from, an actual geographic zone).
+  **Finalized rationale, three reasons:**
+  1. **EST is the single longest-spanning time zone that physically exists**, geographically. Its
+     farthest-north land is the farthest-north land in the world, with the sole exception of the very tip
+     of Greenland — and even setting Greenland aside entirely, EST remains a substantially long time zone
+     in its own right, even though it doesn't reach all the way to the southern tip of South America.
+  2. **EST contains New York City** — one of the largest human settlements in all of human history, and one
+     of the most ethnically and linguistically diverse.
+  3. **EST is adjacent to the Antarctic Peninsula** — not encompassing it directly, but the next time zone
+     over, the closest real-world time zone to Tepenia's own first-settled ground (Palmer City, where
+     robots and their human allies first set foot in 2564).
+  Named after Amundsen Station, the neutral inter-subnet relay at the South Pole — the most geographically
+  "centerless" location in Tepenia, and thus the natural symbolic anchor for a pan-Tepenian timekeeping
+  standard, exactly the same relationship the South Pole (as opposed to any single subnet capital) already
+  has to the rest of the Federation.
+  **Still open, not part of this rationale pass:** in-game display (clocks, the Arcanet, NPC dialogue),
+  whether the war/Planetary Split Brain disrupted timekeeping consistency across subnets, and how ATC
+  relates to polar night/midnight sun (no sunrise/sunset to anchor local time perception).
   To develop: how ATC is displayed in-game (clocks, the Arcanet, NPC dialogue); whether the Long Night War disrupted timekeeping consistency across subnets; whether the Planetary Split Brain created divergent local time conventions in isolated subnets; how ATC relates to the polar night / midnight sun (no sunrise/sunset to anchor local time perception).
 
 
