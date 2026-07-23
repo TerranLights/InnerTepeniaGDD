@@ -33,6 +33,7 @@ them implicit in scattered examples.
 | `08_Scalable_Graphics_and_Hardware_Tiers.md` | Four hardware tiers, camera-freedom scaling, graphics settings |
 | `09_Build_Order_and_Key_Decisions.md` | The order systems get built in, and the rationale behind the biggest architectural calls |
 | `10_Character_Asset_Pipeline.md` | DAZ Studio → Blender → Godot character asset pipeline; where rigging actually happens |
+| `11_2D_Reference_to_3D_Character_Pipeline.md` | Converting the existing companion reference-image dolls into 3D models; AI image-to-3D tool landscape; relationship to the DAZ pipeline (open) |
 
 ## Standing rules for this folder
 
