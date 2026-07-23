@@ -192,6 +192,25 @@ reachable through other means. Not every companion needs one — like the Wild C
 where a companion's own established psychology actually supports it, don't manufacture Grief-proneness for a
 character whose file doesn't already point that way.
 
+**Both tracks still require the base companion questline completed first, established 2026-07-23.** Bond/
+Grief tracking on a companion presupposes an actual relationship exists to hold those feelings — a Long
+Vigil pathline attempted before the player ever finished getting to know this companion in the first place
+doesn't make narrative sense, exactly the same reason romance Gate 3 already requires companion-quest
+completion. This isn't a new dependency between the two tracks; it's a shared prerequisite both already sit
+on top of.
+
+**Long Vigil and Romance are independent tracks *from each other*, established 2026-07-23.** A companion's
+Long-Vigil-only pathline must never require the romance questline specifically to be active or completed,
+and the romance questline must never require the Long Vigil pathline specifically — reaching The Long Vigil
+with a companion depends only on Bond/Grief state (`Fragmentation_Matrix.md`), which is orthogonal to whether
+the player ever romanced her. **However,
+where both exist in a given playthrough, each should contain dialogue acknowledging the other.** A player who
+is both romancing a companion and has brought her to The Long Vigil should hear that acknowledged in both
+tracks — the Long Vigil pathline shouldn't play out as though the romance doesn't exist, and romance dialogue
+shouldn't play out as though the Long Vigil state doesn't exist. This is a cross-reference requirement, not a
+dependency — nothing gets locked behind the other track's completion, but nothing should read as unaware of
+it either.
+
 **Vary the flavor — do not default to bureaucratic records access every time, corrected 2026-07-20.** The first several Wild Child routes designed in this pass leaned heavily on one specific shape: an institution can't file the player, so an administrator forced into individualized handling surfaces information as a side effect (WC-4's Hub registry terminal is the underlying reference point, and it produced good results for Villena/Libra, Ayako/Cancer, and Flora/Libra — but repeating it for every companion would flatten what Wild Child actually represents). Wild Child's real premise is broader: the player is a live, unresolved contradiction that other people have to react to *somehow*, and "somehow" has many shapes. Established alternate flavors, to draw on before reaching for the bureaucratic default again:
 - **Gossip/rumor flavor** (used for Naizelle/Pisces): the player becomes unavoidable talk in an informal information economy, and word of what's actually being searched for surfaces as a byproduct of people talking about the player, not through any institution processing anything.
 - **Confessional/psychological flavor** (used for Seica/Scorpio): an institution built around sitting with irreconcilable truths engages with the player's own contradiction on its own terms, distinct from ordinary bureaucratic filing.
@@ -672,7 +691,7 @@ The quietest, most internally textured romance in the game alongside Fenny. She 
 
 1. **The atelier visit:** After the companion quest resolves, she invites the player to her home — a practical reason, not an obviously romantic one. The player sees the space for the first time. What they notice, or ask about, in the atelier tells her something she doesn't say out loud yet.
 
-2. **The kept garment:** The player can ask about the single garment on the hook near the window. She answers in one sentence — something at the intersection of grief and craft; made for him, or made in the period after losing him. She moves on immediately. The player who remembers it later, and shows that they do, passes something she wasn't consciously setting as a test.
+2. **The kept garment:** The player can ask about the single garment on the hook near the window. She answers in one sentence — something at the intersection of grief and craft; made for him, or made in the period after losing him. She moves on immediately. The player who remembers it later, and shows that they do, passes something she wasn't consciously setting as a test. **Cross-reference, per the Long Vigil/Romance cross-awareness rule:** if the player has also triggered her Long-Vigil-only pathline ("The Second Garment," see her own `Questlines/Personal_Questline_Summary.md`) and a second garment now hangs alongside the first, this beat should acknowledge both are there rather than only ever referencing the original — she's aware there are now two, even if she still doesn't volunteer everything about either.
 
 3. **The mementos:** The player can ask about the arrangement in the living area. She names him. Says something brief and true about who he was. Does not perform the grief. A player who receives this without trying to fix it or position themselves as a replacement gets through something important.
 

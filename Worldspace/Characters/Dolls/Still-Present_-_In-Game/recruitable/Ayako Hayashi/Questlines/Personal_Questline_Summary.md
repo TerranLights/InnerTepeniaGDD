@@ -54,6 +54,19 @@ embraced who the player is now, and has never stopped grieving a specific earlie
 knew and bonded with before a re-spec took it away. Not reachable through any other route; this is the
 content that specifically requires that state, not a flavor variant of something reachable another way.
 
+**Requires her base companion questline completed first** (per `Companion_System.md`'s "Both tracks still
+require the base companion questline completed first" rule) — Bond/Grief tracking presupposes an actual
+relationship with her already exists, the same prerequisite her own romance Gate 3 sits on top of.
+
+**Independent of, but aware of, the romance track (per `Companion_System.md`'s "Long Vigil and Romance are
+independent tracks" rule).** This pathline never requires the romance questline to be active or complete —
+it fires purely off her Bond/Grief state. But where both exist in the same playthrough, the presence beat
+below should read differently depending on whether the player has also romanced her: **if partnered,** the
+scene carries an added, specific weight — this isn't just a companion staying present, it's someone who fell
+in love with her having to sit with the fact that part of what she loved is genuinely gone; **if not
+partnered,** it plays as the deep platonic bond it already is, without romantic language grafted on. Neither
+version is the "real" one — write both.
+
 **Why this is the right pathline for her, not an invented one:** her personal questline's own Emotional Core
 (above) is already built around exactly this tension — "grief transmuted entirely into vocation vs. grief
 actually faced." The Long Vigil state gives that existing conflict a concrete mechanical trigger and a
