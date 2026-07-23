@@ -180,6 +180,18 @@ Romance requires two independent conditions to be met simultaneously. Failing ei
 
 **Recommended pattern — a Wild Child route, established 2026-07-20.** Aim for at least one non-stat route usable specifically by a player who holds **Wild Child** status (Idolized + Vilified simultaneously, per `Storyline/Endings/Secret-Endings/Wild_Child_Endings.md`) with some relevant faction or district. Wild Child is rare by design and already established to create genuine, mechanically real gaps and anomalous access precisely because the holder can't be categorized by the normal reputation system. This rewards the rare, extreme playstyle with real companion-content payoff, not just its own dedicated endings. Like the faction-antagonism pattern above, this is a recommendation to reach for where it genuinely fits, not a requirement for every companion.
 
+**Recommended pattern — a Long Vigil route, established 2026-07-23.** Where a companion's own established
+psychology gives her a genuinely high Personality Grief-Multiplier (see
+`Fragmentation_Matrix.md` — Ayako Hayashi is the first confirmed case, given how directly her own wound maps
+onto this state), her personal questline should include a route reachable only by a player who has brought
+that specific companion to **The Long Vigil** (Grief Range 3 + Bond Range 3 simultaneously). Unlike the Wild
+Child route recommendation above, this isn't an access-gap mechanic — it's content that can only exist
+because this specific companion has both fully embraced who the player is now and never stopped grieving who
+they left. The pathline should be genuinely unavailable any other way, not a flavor variant of a route
+reachable through other means. Not every companion needs one — like the Wild Child pattern, reach for it
+where a companion's own established psychology actually supports it, don't manufacture Grief-proneness for a
+character whose file doesn't already point that way.
+
 **Vary the flavor — do not default to bureaucratic records access every time, corrected 2026-07-20.** The first several Wild Child routes designed in this pass leaned heavily on one specific shape: an institution can't file the player, so an administrator forced into individualized handling surfaces information as a side effect (WC-4's Hub registry terminal is the underlying reference point, and it produced good results for Villena/Libra, Ayako/Cancer, and Flora/Libra — but repeating it for every companion would flatten what Wild Child actually represents). Wild Child's real premise is broader: the player is a live, unresolved contradiction that other people have to react to *somehow*, and "somehow" has many shapes. Established alternate flavors, to draw on before reaching for the bureaucratic default again:
 - **Gossip/rumor flavor** (used for Naizelle/Pisces): the player becomes unavoidable talk in an informal information economy, and word of what's actually being searched for surfaces as a byproduct of people talking about the player, not through any institution processing anything.
 - **Confessional/psychological flavor** (used for Seica/Scorpio): an institution built around sitting with irreconcilable truths engages with the player's own contradiction on its own terms, distinct from ordinary bureaucratic filing.

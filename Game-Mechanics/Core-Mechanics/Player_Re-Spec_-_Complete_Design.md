@@ -313,6 +313,8 @@ Loss of access to skill trees or perk categories that no longer fit the configur
 **G — Companion and Relationship Impacts**
 Certain companions become distrustful or leave permanently if the re-spec fundamentally conflicts with their values or with who they understood the protagonist to be. New companion relationships or romance routes may open while old ones close. All companions who have known the protagonist through a re-spec should have dialogue acknowledging it — in their own register: sadness, suspicion, grief, curiosity, acceptance. No generic reaction.
 
+**Tracked formally via the Fragmentation Matrix** (`Fragmentation_Matrix.md`) — a two-axis Bond/Grief system, structurally parallel to the Reputation Matrix, that gives this category real per-companion and per-district mechanical weight rather than leaving it as pure narrative flavor. The matrix's extreme state, **The Long Vigil** (total Bond + total Grief simultaneously), has its own dedicated citywide secret-ending category (`Storyline/Endings/Secret-Endings/Long_Vigil_Endings.md`, structured like Wild Child) and unlocks Long-Vigil-only companion questline pathlines (see `Companion_System.md`'s Personal Questline Design Rule).
+
 **H — Sensory and Perception Changes**
 Permanent alteration to how the world is perceived. Loss of specific sensory bonuses in exchange for new types. Risk of Overload Events at high IF states — senses temporarily shut down or go haywire during intense moments.
 

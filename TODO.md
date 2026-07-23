@@ -726,15 +726,22 @@ These require a developer call before downstream work can proceed. None can be r
   development of mechanics, implications, implementation, and in-world lore per the developer's own request.
   See `project_identity_fragmentation_review_flagged` memory.
 
-- [ ] **"Fragmentation Matrix" — future task, flagged 2026-07-23, not started**
-  Developer wants a system structurally parallel to the Reputation Matrix (`Reputation_System.md`'s two
-  independent 0-3-range axes, 16 named tiers) but for re-spec/Identity Fragmentation reactions instead of
-  Fame/Infamy — candidate axis names "Loyal"/"Disloyal." **Must apply to companions individually, not just
-  factions/districts.** Open structural question flagged for whenever this is picked up: "Loyal"/"Disloyal"
-  read as one spectrum, but the Reputation Matrix's power comes from its two axes being genuinely
-  independent and non-canceling — likely needs reframing as (e.g.) "bonded with current self" vs. "grieving
-  a past self" as two separately-accumulating tracks, not opposite poles. See
-  `project_fragmentation_matrix_flagged` memory.
+- [ ] **"Fragmentation Matrix" — core system designed and written to file 2026-07-23; per-character Long
+  Vigil questlines are the next task**
+  Full two-axis Bond/Grief system built at `Game-Mechanics/Core-Mechanics/Fragmentation_Matrix.md`,
+  structurally parallel to the Reputation Matrix but genuinely independent (not "Loyal"/"Disloyal," which
+  read as one spectrum — resolved into Bond/Grief as two separately-accumulating tracks that never cancel).
+  Covers companions (Grief seeded from History Points/questline/romance progress × a per-character
+  Personality Grief-Multiplier, calibrated against Ayako/Seica/Kendra as worked examples) and districts
+  (Grief seeded from pre-re-spec Fame/Infamy history × an institutional multiplier, cross-checked against
+  all 13 districts' existing Rebuilt Marker reactions). Full 16-cell tier grid named. The extreme state,
+  **The Long Vigil** (Grief R3 + Bond R3), got its own citywide secret-ending category
+  (`Storyline/Endings/Secret-Endings/Long_Vigil_Endings.md`, LV-1 through LV-4, structured like Wild Child)
+  and a companion-questline design-rule pattern (`Companion_System.md`). Ayako Hayashi flagged as the first
+  confirmed Long-Vigil-companion-pathline candidate (her own README).
+  **Next:** brainstorm per-character Long Vigil companion questlines, starting with Ayako. Still open:
+  exact numeric thresholds, remaining companions'/districts' multiplier values, whether Grief can ever be
+  narratively reduced. See `project_fragmentation_matrix_flagged` memory.
 
 - [ ] **District documentation template** — create `Worldspace/Locations-and-Levels/Concordia-City/Districts/_TEMPLATE.md`
   Must include a **Demonym** field: the word for "a person from [District]" (e.g., Sagittarius → Frostlander). Used in NPC dialogue, terminal entries, audio logs, and any in-world text referring to a district's residents as a group. Each district needs its own demonym established before NPC dialogue writing begins.
