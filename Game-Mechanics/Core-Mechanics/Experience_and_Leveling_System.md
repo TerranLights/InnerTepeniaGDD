@@ -103,6 +103,49 @@ level short of a perk they'd otherwise have earned.
 
 ---
 
+#### DLC Main Questline XP *(established 2026-07-22)*
+
+Completing a DLC's own central main questline grants a flat lump sum, same lump-sum
+principle as district main questlines:
+
+- **Each of the 6 subnet DLCs: 70,000 XP.**
+- **DLC 1 — "Echoes of Amundsen" (Kendra Heinrich, South Pole): 200,000 XP** — a
+  deliberate outlier, reflecting that this DLC is designed to be brutally,
+  mercilessly unforgiving. A player who actually completes it has earned a reward
+  well beyond the standard DLC rate.
+
+---
+
+#### XP Banking at the Level Cap *(established 2026-07-22)*
+
+**The rule:** unless the player already owns all 7 DLCs and has reached the absolute
+level cap (100), any XP earned that would push the player's level past their
+*current* cap doesn't get discarded or floor-capped — it's **banked**. The moment
+the player's cap rises (buying and installing any DLC), banked XP is immediately
+applied toward the new cap, leveling the player up as far as it allows. If banked
+XP still exceeds what the new cap requires, the remainder stays banked, waiting
+for the next cap increase — and so on, until either the bank is exhausted or the
+player reaches Level 100 with all 7 DLCs owned, at which point there's no further
+cap to raise and banking no longer applies (there's nowhere left for surplus XP to
+go).
+
+**Worked example:** a player with no DLCs reaches Level 64 (the base-game cap) and
+keeps playing, accumulating 10,000 XP beyond the Level 64 requirement. That 10,000
+XP is banked, not lost. The player later buys any one DLC, raising their cap by 5
+(or by 6, if it's DLC 1). The banked 10,000 XP is immediately applied — the player
+levels up as far as the new cap allows, and if any XP is left over after hitting
+that new cap, it keeps banking, ready for the next DLC purchase.
+
+**Why:** a direct extension of this system's existing "no permanently missable XP"
+principle (see Design Rationale, above) to the level-cap boundary specifically. A
+player shouldn't feel their time and effort were wasted just because they hit a
+*temporary* ceiling — the cap is a pacing gate tied to available DLC content, not
+a statement that further-earned XP has no value. Only the true, final ceiling
+(Level 100, every DLC owned) has no "next cap" for banked XP to roll into, so it's
+the one case where the banking behavior doesn't apply.
+
+---
+
 #### What Happens on Level-Up *(established 2026-07-10 — deliberate divergence from Fallout: New Vegas)*
 
 **Fallout: New Vegas model (rejected here):** the moment the player levels up, they are dropped straight into the level-up screen and required to immediately choose a perk (and, in some Fallout titles, immediately allocate skill points) before returning to play. The choice can't be deferred.
@@ -124,12 +167,24 @@ level short of a perk they'd otherwise have earned.
   and how skill level/stats scale skill-use XP amounts — needs concrete numbers,
   likely modeled after the AP system's formula style (base value + stat-derived
   modifier).
-- **Base quest-value tiers** — what the actual XP numbers look like for main
-  quest vs. major side quest vs. minor side quest vs. companion quest.
+- **Base quest-value tiers — RESOLVED (draft), 2026-07-22.** District Main
+  Questline = 3,000 XP; District Under-Questline = 700 XP (~9 avg/district);
+  Companion Quest = ~1,500 XP average (≥30 companions, base game); base-game
+  Main Questline (Concordia-wide) = 65,000 XP (draft); Activities
+  (minigames/crafting/exploration/location discovery/Challenges) modeled on
+  real FNV's ~6,289 XP total across 101 base-game challenges — deliberately a
+  minor, not major, XP pathway. Full derivation, the FNV baseline numbers used,
+  and the pacing goal (Level 64 reachable via ~10 of 13 districts) are in
+  `XP_System_Design_Reference.md`.
 - **Skill-use XP amounts and diminishing returns** — flat per-success amount vs.
   scaling by difficulty; whether repeat successes on trivial locks/terminals keep
   paying out or taper off (real New Vegas caps this per-lock/per-terminal on first
-  success).
-- **Level cap and pacing** — how many quests/hours per level, cross-reference
-  against `Character_Creation_Overview.md` and the perk cadence in
-  `Perks/Regular_Perks_-_Level-Up.md`.
+  success). Still open.
+- **Level cap and pacing — partially resolved.** Level-up XP formula verified
+  against real FNV data: cumulative XP(n) = (n − 1) × (75n + 50) (first level-up
+  costs 200, each one after costs 150 more than the last). Level 64 requires
+  305,550 cumulative XP. Full pacing math — how district/companion/main-quest/
+  activity/repeatable-quest content adds up against this — is in
+  `XP_System_Design_Reference.md`. Still open: exact hours-per-level pacing,
+  and cross-reference against `Character_Creation_Overview.md` and the perk
+  cadence in `Perks/Regular_Perks_-_Level-Up.md`.
