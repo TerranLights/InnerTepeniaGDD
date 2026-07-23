@@ -1,7 +1,7 @@
 # District Quest Consequence Web
 ## How each district's internal conflict resolution ripples into other districts and into Act 3
 
-This document maps the interlinking consequences of the thirteen district internal conflict quests defined in `District_Internal_Conflict_Quests.md`. Every resolution path — including partial and failed ones — produces specific downstream effects in other districts and in the Act 3 summit.
+This document maps the interlinking consequences of the thirteen district internal conflict quests defined in `District_Main_Questlines.md`. Every resolution path — including partial and failed ones — produces specific downstream effects in other districts and in the Act 3 summit.
 
 **Design principle:** No quest resolves cleanly in isolation. The player who solves Cancer brilliantly but ignores Virgo arrives at a different Act 3 than the player who did both. The player who takes every Unity Path gets a harder political problem at the summit (more factions with legitimate claims, more voices that need to be heard) not an easier one.
 
@@ -356,5 +356,5 @@ Most playthroughs will produce a mixed state — some Unity Paths, some suppress
 
 ---
 
-*Reference: District_Internal_Conflict_Quests.md, District_Unity_of_Opposites.md*
+*Reference: District_Main_Questlines.md, District_Unity_of_Opposites.md*
 *Created: 2026-06-27*

@@ -1,6 +1,6 @@
 # Pisces Quest NPCs — "The Flood Protocols"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 10, Pisces (The Markets)*
+*Quest reference: District_Main_Questlines.md — District 10, Pisces (The Markets)*
 
 ---
 

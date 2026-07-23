@@ -1,6 +1,23 @@
 # District Internal Conflict Quests
 ## One capstone quest per district, designed from the internal conflict parties in District_Unity_of_Opposites.md
 
+**Declared (2026-07-22): this is each district's own main questline** — distinct from the single base-game
+main questline (which spans Concordia as a whole) and distinct from `District_Under_Questline_Design_Method.md`'s
+per-district non-main content (significant-figure/location-triggered, not side-content). Resolving a district's
+capstone quest is meant to eventually unlock a **district perk**, and possibly a **district-specific player
+home** — neither is detailed yet, both TBD.
+
+**Production workflow (declared 2026-07-22): this file's own format is the instruction spec, not a locked
+final answer.** Each district's quest below — Internal Conflict framing, Inciting Situation, Parties,
+Dilemma, three Resolution Paths (including the skill-gated Unity Path), Ripples — should be treated as that
+district's **first candidate**, the same way the DLC method generates multiple candidate chains before
+narrowing to one. Going forward, generate several additional candidate main questlines per district using
+this exact same spec, then narrow down to **exactly one** chosen main questline per district. This mirrors
+the DLC main questline's own candidate-then-narrow process. It's the opposite of
+`District_Under_Questline_Design_Method.md`, where every qualifying candidate is kept (no narrowing,
+ideally 15-20 per district, floor of 5) — a district has exactly one main questline, but as many
+under-questlines as legitimately emerge.
+
 Each quest puts the player between the specific factions within a district — not between districts. The resolution paths include a "Unity Path" where the player can find and act on the underlying interdependence between conflicting parties. These quests are designed to be available during Act 2 and to feed into the District Idolized ending conditions.
 
 For inter-district quest triggers, see `Quest-Triggers.md`.

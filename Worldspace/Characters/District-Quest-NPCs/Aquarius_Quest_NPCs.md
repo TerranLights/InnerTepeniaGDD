@@ -1,6 +1,6 @@
 # Aquarius Quest NPCs — "The Living Network"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 7, Aquarius*
+*Quest reference: District_Main_Questlines.md — District 7, Aquarius*
 
 ---
 

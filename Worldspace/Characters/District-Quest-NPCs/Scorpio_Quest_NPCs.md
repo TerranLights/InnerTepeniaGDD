@@ -1,6 +1,6 @@
 # Scorpio Quest NPCs — "The Shape of What Remains"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 4, Scorpio*
+*Quest reference: District_Main_Questlines.md — District 4, Scorpio*
 
 ---
 

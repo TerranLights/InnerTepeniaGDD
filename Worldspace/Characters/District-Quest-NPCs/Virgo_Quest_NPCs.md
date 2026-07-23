@@ -1,6 +1,6 @@
 # Virgo Quest NPCs — "The Year of Silence, Again"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 12, Virgo (The Undergrid)*
+*Quest reference: District_Main_Questlines.md — District 12, Virgo (The Undergrid)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Capricorn Quest NPCs — "The Audit"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 6, Capricorn*
+*Quest reference: District_Main_Questlines.md — District 6, Capricorn*
 
 ---
 

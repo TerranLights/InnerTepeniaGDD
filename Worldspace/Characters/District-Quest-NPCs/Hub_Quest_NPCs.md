@@ -1,6 +1,6 @@
 # Hub Quest NPCs — "Without Inscription"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 13, Concordia Central Hub / Axis Mundi*
+*Quest reference: District_Main_Questlines.md — District 13, Concordia Central Hub / Axis Mundi*
 
 ---
 

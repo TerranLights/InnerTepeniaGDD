@@ -1,6 +1,6 @@
 # Gemini Quest NPCs — "The Speed of Truth"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 9, Gemini (Janbogo Subnet Nexus)*
+*Quest reference: District_Main_Questlines.md — District 9, Gemini (Janbogo Subnet Nexus)*
 
 ---
 

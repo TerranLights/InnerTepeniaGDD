@@ -1,6 +1,6 @@
 # Leo Quest NPCs — "Two Houses, One Stage"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 3, Leo*
+*Quest reference: District_Main_Questlines.md — District 3, Leo*
 
 ---
 

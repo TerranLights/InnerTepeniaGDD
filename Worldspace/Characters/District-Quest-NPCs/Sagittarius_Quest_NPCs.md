@@ -1,6 +1,6 @@
 # Sagittarius Quest NPCs — "The Name on the Rescue Roster"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 11, Sagittarius (The Frostlands)*
+*Quest reference: District_Main_Questlines.md — District 11, Sagittarius (The Frostlands)*
 
 ---
 

@@ -1,6 +1,6 @@
 # Libra Quest NPCs — "The Suspended Compact"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 8, Libra*
+*Quest reference: District_Main_Questlines.md — District 8, Libra*
 
 ---
 

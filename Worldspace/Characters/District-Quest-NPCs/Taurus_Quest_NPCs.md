@@ -1,6 +1,6 @@
 # Taurus Quest NPCs — "What the Cold Side Knows"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 2, Taurus*
+*Quest reference: District_Main_Questlines.md — District 2, Taurus*
 
 ---
 

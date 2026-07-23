@@ -1,6 +1,6 @@
 # Cancer Quest NPCs — "The Night of Locked Doors"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 1, Cancer*
+*Quest reference: District_Main_Questlines.md — District 1, Cancer*
 
 ---
 

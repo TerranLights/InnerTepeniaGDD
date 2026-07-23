@@ -1,6 +1,6 @@
 # Aries Quest NPCs — "Thirty-Seven Minutes"
 
-*Quest reference: District_Internal_Conflict_Quests.md — District 5, Aries*
+*Quest reference: District_Main_Questlines.md — District 5, Aries*
 
 ---
 
