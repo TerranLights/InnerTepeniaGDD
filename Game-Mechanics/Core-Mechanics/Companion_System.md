@@ -335,31 +335,71 @@ Non-recruitable named NPCs confirmed romanceable: Majyao Bisyugota (design note 
 
 ### Calethina — Romance Design (Special Case)
 
-Calethina is romanceable. She is the most demanding romance in the game, both narratively and mechanically.
+Calethina is romanceable. She is the most demanding romance in the game narratively — though no longer
+mechanically via a MACHINE stat threshold. **Corrected 2026-07-23: this section previously described a
+stat-gate design (Calculation ≥8, Humanity ≥6, Nerve ≥6, Engine ≥6) that was superseded and dropped entirely
+during the 2026-07-12 design session** — see `Questlines/Substrate_Transfer_and_Embodiment_Design.md` for
+the full authoritative design this section now reflects.
 
-**Stat threshold:**
-- Calculation ≥ 8 *(she needs someone who can actually interface with her at her level)*
-- Humanity ≥ 6 *(she is drawn to consciousness that leans toward warmth and connection)*
-- Nerve ≥ 6 *(she needs to know the protagonist can hold under pressure)*
-- Engine ≥ 6 *(endurance — she has outlived everyone; she needs to know you will sustain)*
+**Gate design — redesigned to match Kendra Heinrich's own precedent.** The stat-threshold idea was dropped
+specifically because the download's own stat penalty (see below) would collide with a numeric romance
+threshold in ways hard to make fair on purpose: evaluate the gate pre-penalty and the threshold becomes
+pointless; evaluate it post-penalty and it risks punishing exactly the players it's meant to reward. Kendra's
+own gate already solves this — entirely conduct-based, no stat or trait requirement at all — so Calethina's
+gate mirrors that shape instead:
+- **Gate 1 — commitment:** the player completes her personal companion questline through to a **full
+  download decision — either branch**, "inside you" or new-body embodiment (see below). A partial download,
+  a no-download outcome, or an alternative stabilization path does not meet this gate.
+- **Gate 2 — conduct:** across vital plot points in her personal questline, the player doesn't say or do
+  anything combative, insulting, or abhorrent to her sensibilities — the equivalent of Kendra's "not kicking
+  her while she's down."
 
-No trait gates currently defined. Traits may be added during Phase 3 character design once her full personality is written.
+Both gates met → romance becomes available. This makes the old stat-interaction tension moot rather than
+solved — eligibility is behavioral, not numeric, so the download's stat penalty has nothing left to collide
+with.
 
-**The download and the romance are separate events.** The Calethina questline ("Echoes of the Bridge") builds the relationship across its full length. The download decision (approximately midpoint of the main quest) is available to any player who has made the associated questline decisions — it is not stat-gated. The download is about saving/keeping her. The romance is a separate question about what the relationship becomes afterward.
+**The download and the romance are separate events.** The Calethina questline ("Echoes of the Bridge")
+builds the relationship across its full length. The download decision (approximately midpoint of the main
+quest) is available to any player who has made the associated questline decisions — it is not stat-gated
+either. The download is about saving/keeping her. The romance is a separate question about what the
+relationship becomes afterward.
 
-**The download: what it is.** On the full personality download, she is not simply transferred to the protagonist's wrist device — she becomes part of the protagonist, carried within them. Her holographic projection then projects from the protagonist's own body. This is a profound chosen bond regardless of whether the romance follows.
+**The download: two branches, not one.** On the **"inside you"** branch, she isn't simply transferred to
+the protagonist's wrist device — she becomes part of the protagonist, carried within them, projecting from
+the protagonist's own body; this branch also carries a same-magnitude stat trade (+n Calculation/
+Investigation/Nerve/base Hacking%, matched by −n to Engine/Might/Humanity). On the **new-body/embodiment**
+branch — her first physical body in her entire existence — there's no stat change in either direction; the
+cost instead is memory/personality fidelity loss in the transfer itself, with the actual non-stat reward
+currency still TBD (three candidates floated, none chosen — see the Substrate design doc). Both are a
+profound chosen bond regardless of whether the romance follows, and both now count equally toward Gate 1.
 
-**Full download only.** The romance option does not follow a partial download, a no-download outcome, or an alternative stabilization solution. Those each produce their own emotionally valid outcomes, but the romance mini-quest does not open.
+**Romance eligibility no longer requires the "inside you" branch specifically** — that branch is required
+for a different, separate unlock (cross-DLC companion portability, see the Substrate design doc), not for
+romance. Either full-download branch satisfies Gate 1 here.
 
-**The romance option appears after the download.** Once the full download has occurred, the game checks the stat threshold. If met, a romance option opens. If not met, it does not. The protagonist and Calethina now share an intimate physical reality regardless — she is inside them — but the romantic arc is a separate layer that requires the build to support it.
+**The romance option appears once both gates are met.** The protagonist and Calethina now share whatever
+physical reality the chosen branch produced — inside them, or beside them in a new body — but the romantic
+arc is a separate layer, unlocked by conduct across the questline rather than a build requirement.
 
-**The romance mini-quest.** If the romance option appears, it is its own dedicated interaction sequence distinct from the main questline — a focused arc that constitutes the actual romantic relationship developing between the protagonist and Calethina in the post-download state. Specific beats are Phase 5 design work.
+**The romance mini-quest.** If the romance option appears, it is its own dedicated interaction sequence
+distinct from the main questline — a focused arc that constitutes the actual romantic relationship
+developing between the protagonist and Calethina in the post-download state. Specific beats are Phase 5
+design work.
 
-**Built-in bittersweet weight.** Even on the romantic path, the full download carries a confirmed risk: some of her memories may be lost or altered in transfer. The romance begins with the protagonist having already accepted losing pieces of her in order to keep her at all.
+**Built-in bittersweet weight.** Whichever branch is chosen, the full download carries a confirmed risk of
+memory or fidelity loss in transfer. The romance begins with the protagonist having already accepted losing
+some piece of her in order to keep her at all.
 
-**The re-spec complication.** If the player re-specced through Calethina's lab to meet her stat thresholds, she performed the work herself. She knows what was changed and why. The point at which the romance option appears (post-download) should have dialogue that acknowledges this — as a branch, not a single read. Whether she finds it moving (someone wanted to be someone she could love) or troubling (someone altered who they were to reach her) are both valid. Both are bittersweet.
+**The re-spec complication.** If the player re-specced through Calethina's lab to meet some other threshold
+elsewhere in the game, she performed that work herself. She knows what was changed and why. Wherever the
+romance option actually lands should have dialogue that acknowledges this — as a branch, not a single read.
+Whether she finds it moving (someone wanted to be someone she could love) or troubling (someone altered who
+they were) are both valid. Both are bittersweet.
 
-**The Calethina Devotion failsafe ending** has two versions: one for players who completed the romance mini-quest, one for players who downloaded without the romance threshold met. The second version reflects a different kind of profound chosen bond — she is inside them, they carry her, and that is its own thing.
+**The Calethina Devotion failsafe ending** has two versions: one for players who completed the romance
+mini-quest, one for players who reached a full download (either branch) without Gate 2 conduct having been
+maintained. The second version reflects a different kind of profound chosen bond — she is with them, in
+whichever form the download took, and that is its own thing.
 
 ---
 
