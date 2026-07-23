@@ -48,11 +48,13 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
 
 ## Long-Term Priority
 
-- [ ] **Throwing weapon mechanics — blades first**
-  Scoped to thrown blades specifically (throwing knives, tomahawks), a BG3/Cyberpunk hybrid; fantasy-style
-  consumable throwables explicitly excluded (a separate grenade system could cover that niche later). Four
-  stat-mapping dimensions (range, accuracy, crit chance, crit damage) still undecided — range is proposed as
-  Might, the rest open.
+- [x] **Throwing weapon mechanics — blades first — universal retrieval principle written 2026-07-23**
+  Cross-project standing law (Inner Tepenia + all 3 Outer Tepenia trilogy titles) written to
+  `Game-Mechanics/Combat/Throwing_Weapons.md`: a thrown blade stays where it lands until manually retrieved,
+  in every game, regardless of engine. Inner Tepenia gates the throw itself by range/stat checks before the
+  action is legal; Outer Tepenia's open world needs a separate range-of-reach concept plus a
+  miss-only auto-return exception for iconic weapons. Four stat-mapping dimensions (range, accuracy, crit
+  chance, crit damage) remain open per `TODO.md`'s own entry — not blocking, tracked there.
 
 - [ ] **Re-number the DLCs by release order — narrowed to 2 candidate orders, 2026-07-23, decision deferred**
   Both written into `Storyline/DLC_Overview.md`'s "Release Order vs. DLC Numbering" section. South Pole
