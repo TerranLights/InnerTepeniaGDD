@@ -556,8 +556,55 @@ These require a developer call before downstream work can proceed. None can be r
 - [x] **Traits — scope target set, consolidation done, target cleared (2026-07-04)**
   New target established: **25 base-game traits** (modeled on Fallout: New Vegas's 10 base + 6 Old World Blues, scaled up), **+5 per DLC** across all 7 DLCs, for a **grand total of 60 traits** with everything owned. Max selectable at character creation raised from FNV's 2 to **4**. **Consolidation found and fixed the same day:** `Character-Creation/Traits.md` only listed 10 traits, but 7 more ("AP-Economy" traits — High-Output Frame, Efficient Design, Overclocked Prototype, Fragile but Fast, Steady Nerves, Minimalist Frame, Echo Chamber) existed separately in `Core-Mechanics/Action_Points_Perks_and_Traits.md` and weren't counted anywhere. Merged into `Traits.md` as the single authoritative list. **Then, same day, a full FNV trait comparison pass added 10 more** (Built to Destroy, Good Natured, Fast Shot, Trigger Discipline, Heavy Handed, Kamikaze, Hoarder, Skilled, Claustrophobia, plus the user's own requested "Agoraphobia" as Claustrophobia's exact opposite) — see `project_fallout_trait_perk_adaptation` memory. **Base-game trait count is now 27/25 — target cleared**, with 2 to spare. Might, Calculation, and Investigation still don't appear as any trait's primary bonus stat — worth keeping in mind for future traits, especially since Might and Nerve are also the two MACHINE stats still marked TENTATIVE (see Might/Nerve design pass entry below).
 
-- [ ] **XP/leveling system — formula and tuning**
-  Core model established 2026-07-03 in `Game-Mechanics/Core-Mechanics/Experience_and_Leveling_System.md`: two separate XP channels, matching real Fallout: New Vegas behavior. (1) **Quest-completion lump sum** — Fallout: New Vegas-style, not Baldur's Gate 3-style per-step XP; a quest pays out one calculated total on completion regardless of the path the player took, factoring in base quest value, gate-checks passed, and MACHINE stat/perk/trait modifiers, but delivered as a single payout at completion, not doled out in real time — no permanently missable XP. (2) **Skill-use XP** *(confirmed 2026-07-03)* — lockpicking, hacking, and comparable mini-activities grant their own small immediate XP the moment they succeed, independent of any quest, same as real New Vegas. **Open:** exact formulas for both channels, base quest-value tiers (main/major side/minor side/companion), skill-use XP amounts and whether repeat successes on the same lock/terminal taper off, level cap and pacing.
+- [ ] **District Main Questline vs. Under-Questline system — established, one district each not yet expanded**
+  Declared 2026-07-22: `Storyline/Side-Content/District_Internal_Conflict_Quests.md` renamed to
+  **`District_Main_Questlines.md`** — this IS each district's own main questline (one capstone per district,
+  built from internal faction conflict, feeding a **district perk** and possibly a **district-specific
+  player home**, both still TBD). Its own already-written format (Internal Conflict → Inciting Situation →
+  Parties → Dilemma → 3 Resolution Paths incl. skill-gated Unity Path → Ripples) is the instruction spec, not
+  a locked answer — each district's current quest counts as its first candidate; more should be generated the
+  same way, then narrowed to exactly **one** per district (mirrors the DLC method's own candidate-then-narrow
+  process, itself not yet done for any subnet either).
+  A new, separate file, **`District_Under_Questline_Design_Method.md`**, governs everything else discoverable
+  within a district — **non-main content, explicitly NOT side-content** (side-content requires the player to
+  actively hunt for it with no organic lead-in, e.g. The Witcher 3's "Frying Pan"; under-questlines surface
+  naturally through ordinary play, calibrated against Fallout: New Vegas' Novac — main questline ≈ Manny
+  Vargas sending the player to RepCONN; under-questline ≈ No-Bark Noonan mentioning Dusty McBride's brahmin
+  being shot nightly, or Boone's "One for My Baby"). Every candidate must anchor to a **significant starting
+  point** (a named in-world figure, or a data-point at a significant location) — unlike the DLC method it's
+  adapted from, this method deliberately *includes* Notable Figures as an input for exactly that reason.
+  Unlike main questlines, under-questline candidates are **not narrowed down** — floor of 5 per district,
+  ideally 15-20, every one that passes the method's tests is kept as real content. Full detail in both files
+  (`Storyline/Side-Content/`) and `project_district_questline_production_workflow` / `project_under_questline_scope_open` memory notes.
+
+- [ ] **XP/leveling system — base numbers settled, tuning items remain**
+  Core two-channel model established 2026-07-03 in `Game-Mechanics/Core-Mechanics/Experience_and_Leveling_System.md`
+  (quest-completion lump sum + independent skill-use XP, no permanently missable XP). **Base quest-value
+  tiers resolved 2026-07-22** against a verified real Fallout: New Vegas baseline (level-up formula
+  XP(n) = (n−1)×(75n+50), confirmed against a saved level-XP chart and a saved wiki page of all 101 base-game
+  Challenges, which total only 6,289 XP combined — confirming Activities/Challenges are a minor bonus layer,
+  not a leveling pathway, in real FNV): **District Main Questline = 3,000 XP; District Under-Questline = 700
+  XP (~9 avg/district); Companion Quest ≈ 1,500 XP average (≥30 companions, base game); Activities
+  (minigames/crafting/exploration/location discovery/Challenges) ≈ 6,289 XP total, FNV-scaled; base-game
+  Main Questline (Concordia-wide, distinct from any district's own) = 65,000 XP; each of the 6 subnet DLCs'
+  main questline = 70,000 XP; DLC 1 "Echoes of Amundsen" = 200,000 XP (deliberately far above rate — the DLC
+  is designed to be brutally unforgiving).** New **repeatable-quest tier** (40 draft quest-type concepts
+  brainstormed, categorized by mechanic — courier, crafting, combat, information, maintenance, social, care,
+  exploration, faction, culture — each type completed ~16-32 times at ~75-150 XP/completion) fills the
+  remaining gap so that Level 64 is reachable via only ~10 of Concordia's 13 districts, not full completion —
+  **explicitly radiant/procedural quests were rejected** ("feels lazy... the player will catch on"),
+  repeatable (fixed, hand-authored, redoable) content was chosen instead. New **XP-banking-at-cap** mechanic
+  means surplus XP past a temporary level cap is never lost, only re-applied on the next DLC's cap increase
+  (no banking once Level 100/all-DLCs is reached — nothing further to bank toward). **Confirmed standing
+  design law:** the ~178,100 XP overshoot past Level 100 if a player only does base game + all 7 DLC main
+  questlines is intentional slack, not a bug — "I want players to be able to reach max level without
+  grinding through absolutely every single thing in the entire game." Full derivation, every number's
+  reasoning, and the 40-item repeatable-quest brainstorm are in the new
+  `Game-Mechanics/Core-Mechanics/XP_System_Design_Reference.md`. **Still open:** exact formulas for how
+  gate-checks/MACHINE stats modify the lump sum, skill-use XP amounts and taper-off behavior, DLC-level side
+  content XP (DLC-native companions, DLC under-questlines, DLC activities — only each DLC's own main
+  questline has a number so far), final selection/write-up of the 40 repeatable quest types, and whether a
+  third, non-district-bound true side-content tier (closer to Witcher 3's "Frying Pan") ever gets added.
 
 - [x] **Issue F — Calethina's passive link to the player — RESOLVED**
   The passive link is her pre-download projection mechanic: she projects from the lab server, signal-dependent (flickers/glitches with poor signal, disappears entirely with none). Post-download, she's local to the wrist device — stable everywhere regardless of grid state. No separate mechanic name needed; "her projection"/"her signal" is the term. See `Substrate_Transfer_and_Embodiment_Design.md` in Calethina's Questlines folder for the full current design.
