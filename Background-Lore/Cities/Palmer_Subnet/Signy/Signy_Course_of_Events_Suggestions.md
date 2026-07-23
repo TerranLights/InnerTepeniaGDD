@@ -37,7 +37,7 @@ Signy's own remote position leaves it the weakest Arcanet connection point anywh
 — too far for the network to reliably reach. **But** a city this isolated still needs some way to
 communicate with the rest of Tepenia. **Therefore** residents build their whole communications
 infrastructure around old-fashioned radio instead, a technology that doesn't depend on the same
-network Arcanet does. **But** relying on radio means accepting slower, less reliable contact than
+network the Arcanet does. **But** relying on radio means accepting slower, less reliable contact than
 Arcanet-connected cities take for granted. **Therefore** Signy simply adjusts its own expectations
 around that limitation — messages take longer here, and everyone understands that as normal rather
 than as a problem waiting to be fixed.

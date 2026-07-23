@@ -25,7 +25,7 @@ Tepenia takes for granted about staying digitally connected, Signy cannot assume
 
 A city this isolated still needs some way to reach the rest of the country, so residents build their
 whole communications infrastructure around old-fashioned radio instead — a technology that doesn't
-depend on the same network Arcanet does, and doesn't care how far south Signy happens to sit. But
+depend on the same network the Arcanet does, and doesn't care how far south Signy happens to sit. But
 committing to radio means accepting, permanently, a slower and less reliable channel than
 Arcanet-connected cities take for granted — messages that arrive in minutes elsewhere might take hours
 or days to reach or leave Signy, if they get through cleanly at all.

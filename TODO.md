@@ -1204,8 +1204,6 @@ These require a developer call before downstream work can proceed. None can be r
   Named after Amundsen Station, the neutral inter-subnet relay at the South Pole — the most geographically "centerless" location in Tepenia, and thus the natural symbolic anchor for a pan-Tepenian timekeeping standard.
   To develop: how ATC is displayed in-game (clocks, the Arcanet, NPC dialogue); whether the Long Night War disrupted timekeeping consistency across subnets; whether the Planetary Split Brain created divergent local time conventions in isolated subnets; how ATC relates to the polar night / midnight sun (no sunrise/sunset to anchor local time perception).
 
-- [ ] **"the Arcanet" / "the Solarnet" — terminology cleanup pass**
-  Many older GDD files use bare "Arcanet" or "Solarnet" as standalone nouns without the definite article. Confirmed rule: always "the Arcanet" / "the Solarnet" when used as head nouns (equivalent to "the internet"); no article needed when used as modifiers ("Arcanet subnet", "Arcanet cables"). Files most likely to need correction: city layout docs, City_Logistics.md, Historical_Pressures.md, Player_Homes.md, to-be-integrated/ files.
 
 - [ ] **Robot biology and culture — expand foundational document**
   New file created: `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`. Established canon: robots don't breathe but have internal thermal/sensory systems; siligel (food), coolant (drink), robot coffee (specialty coolant), and smoking (robot-specific vapor products interacting with internal systems) are all confirmed. Open questions remaining: siligel full composition, robot coffee exact formulation, smoking prevalence across Concordia's population, in-game smoking behavior beyond Naizelle and Zhuldyz.

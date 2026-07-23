@@ -73,8 +73,3 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
   the war/Planetary Split Brain disrupted timekeeping consistency across subnets, and how it relates to
   polar night/midnight sun (no sunrise/sunset to anchor local time perception).
 
-- [ ] **"the Arcanet" / "the Solarnet" — terminology cleanup sweep**
-  Confirmed rule: always "the Arcanet"/"the Solarnet" as a standalone head noun (like "the internet"), no
-  article when used as a modifier ("Arcanet subnet," "Arcanet cables"). Not yet swept across older files —
-  likely offenders: city layout docs, `City_Logistics.md`, `Historical_Pressures.md`, `Player_Homes.md`,
-  `to-be-integrated/` files.
