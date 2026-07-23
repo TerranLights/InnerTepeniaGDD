@@ -91,64 +91,200 @@ The person most capable of helping the protagonist stop being themselves kept do
 
 ---
 
-### Alternative Methods
+### The 13 District Methods — One Per District, Plus Calethina's Lab
 
-| Method | Location / District | Flavor | Risk Level | IF Cost |
-|--------|---------------------|--------|------------|---------|
-| **Black Market Neural Rewrite** | Pisces (The Markets / Shadow Exchange) | Illegal underground neural surgeons; fast, discreet, dirty | Very High | High |
-| **Scorpio Rebirth Ritual** | Scorpio (Rebirth Clinics / Ritual Arenas) | Psychological breakdown and ritualistic reconstruction; you are torn apart and remade | Extremely High | Very High (may jump multiple IF stages) |
-| **Aquarius Experimental Overhaul** | Aquarius (Prototype Chambers / Robotics Institute) | Cutting-edge prototype augmentation and neural lattice reconfiguration; unpredictable | High | High |
-| **Aries Forge Rebuild** | Aries (The Power Core / Overclock Decks) | Heavy industrial cybernetic overhaul; treated like broken machinery being reforged | High | High |
-| **Virgo Deep System Purge** | Virgo (Undergrid Maintenance Hubs) | Full diagnostic purge and code rewrite by maintenance crews | Medium-High | Medium |
-| **Faction Oathbinding** | Libra (Council Chambers) or high-reputation faction leaders | A faction remolds you in exchange for permanent allegiance | High | High + permanent faction lock |
-| **Crisis / Environmental Event** | Various (story-triggered) | Accidental or forced re-spec during catastrophic event | Variable | Variable (uncontrollable) |
+**Structure confirmed 2026-07-23: every one of the 13 districts has its own bespoke re-spec method, in
+addition to Calethina's Lab.** That's 14 total re-spec options, not 7 — Calethina's Lab is the neutral,
+non-district-flavored baseline (safe, controlled, available to anyone with the relationship investment),
+and every district separately offers its own method with its own flavor, cost, and social consequences.
 
-All alternative methods require significant reputation, specific items, story progress, or favors to unlock. Each should have its own dedicated scene or small quest — a re-spec is a narrative event. Visual and audio feedback is mandatory; different methods should produce visibly and audibly distinct changes.
+**Core design pillar, stated explicitly because it's the central hook of the whole system:** every district
+method must grant the protagonist a genuinely unique, district-flavored special ability or capability — not
+just costs and social reactions. *Where* you got re-specced determines *what you can now uniquely do.* This
+is deliberately treated as too good a mechanic to compromise on: even where a district's exact numbers aren't
+designed yet, the "you gain something real and specific to this place" promise is locked in for all 13.
 
-**Note on the Scorpio Rebirth Ritual and traits:** This is the only method that approaches trait-level change — but what it produces is a competing signal, not a replacement. The trait remains. The installed signal fights it. Echo states are this conflict made behavioral.
+**What's locked in now vs. deferred:** the structure (14 options total, one per district plus Calethina's)
+and each district's narrative flavor (what you gain, what you lose, how the world reacts) are settled below.
+**Exact mechanical specifics for most districts — precise perk names, numeric bonuses, IF point costs — are
+deliberately deferred**, per the developer's own instruction. Six districts (Scorpio, Aries, Virgo, Libra,
+Pisces, Aquarius) already have Risk Level / IF Cost data from an earlier pass and keep it below; the
+remaining seven (Cancer, Taurus's own bespoke method specifically, Leo, Capricorn, Gemini, Sagittarius, Hub)
+are marked TBD.
+
+All district methods require significant reputation, specific items, story progress, or favors to unlock.
+Each should have its own dedicated scene or small quest — a re-spec is a narrative event, never a menu
+option. Visual and audio feedback is mandatory; different methods should produce visibly and audibly
+distinct changes.
+
+**Cancer — "Sanctuary Rebinding"** *(Risk Level / IF Cost: TBD)*
+Sacrifice combat and aggressive capabilities for stronger protective and healing abilities. Gain emotional vulnerability — higher sensitivity when companions are hurt. Permanent bond with Cancer; viewed as soft or overprotective by Aries and Sagittarius.
+
+**Taurus — "Homebound Recalibration"** *(Risk Level / IF Cost: TBD — distinct from, and in addition to,
+Calethina's Lab, which is also physically located in Taurus but is the neutral baseline, not this district's
+own bespoke method)*
+Lose nomadic and exploration-related capabilities, and memories of life outside stable habitation zones. Permanent social bonus in Taurus and Cancer; major distrust from frontier districts. Gain "Rooted" overlay: reduced effectiveness when operating far from residential zones for extended periods.
+
+**Leo — "Spotlight Overhaul"** *(Risk Level / IF Cost: TBD)*
+Gain dramatic presence and charisma; lose subtlety and stealth capabilities. Constant need for public acknowledgment — social penalties when Fame drops. Dialogue becomes more theatrical, which alienates stoic districts.
+
+**Scorpio — "Rebirth Ritual"** *(Risk Level: Extremely High; IF Cost: Very High — may jump multiple IF
+stages)*
+Major personality signal overhaul: gain ruthless pragmatism alongside a competing empathy signal that produces echo states. Risk of uncontrollable echo events during high-stress moments. Scorpio reveres you as having been through the ritual; most other districts see you as unstable or alien. **This is the only method that approaches trait-level change** — what it produces is a competing signal, not a replacement. The trait remains. The installed signal fights it. Echo states are this conflict made behavioral.
+
+**Aries — "Forge Rebuild"** *(Risk Level: High; IF Cost: High)*
+Significantly more machine-efficient: lose organic empathy and social nuance, gain raw power and structural durability. Vulnerability to EMP and cold. Aries respects you as one of their own; residential districts fear you.
+
+**Capricorn — "Production Overhaul"** *(Risk Level / IF Cost: TBD)*
+Trade adaptability for efficiency: lose flexibility, gain production and crafting bonuses. Permanent visible corporate markings or serial numbers that reduce trust with anti-authority groups. Strong industrial faction ties; hated by Pisces and Sagittarius.
+
+**Aquarius — "Lattice Swap"** *(Risk Level: High; IF Cost: High)*
+Random or high-risk side effects with each application — new unpredictable weaknesses appear alongside bleeding-edge capabilities. Viewed as a walking experiment: scientific curiosity from Gemini and Aquarius; fear from Virgo and Cancer.
+
+**The signature Lattice Swap effect, confirmed 2026-07-23 (Cyberpunk 2077's "Chaos" — Royce's randomized
+weapon — is the direct inspiration):** on top of the bleeding-edge capabilities and unpredictable weaknesses
+above, every Lattice Swap re-rolls four specific combat parameters, freshly randomized until the *next*
+Lattice Swap:
+
+> *"Your Damage Type, Critical Hit Chance, Critical Effect, and Signature Ability After-Effect are all
+> randomized upon re-speccing. Good luck!!"*
+
+- **Damage Type** — which damage type your unarmed strikes and signature attacks deal, drawn from the
+  project's own Damage Types system.
+- **Critical Hit Chance** — a randomized modifier, could land anywhere from a real penalty to a real bonus.
+- **Critical Effect** — what happens on a crit (stagger, bleed-equivalent, EMP proc, shock — whatever the
+  roll lands on), not a fixed effect the player can plan around.
+- **Signature Ability After-Effect** — which specific after-effect variant fires when Framejacking, Rage, or
+  Overclock ends (see `Code-Architecture/04_Combat_System.md`'s `SignatureAbilityManager`), rerolled the same
+  way.
+
+**Scope ruling:** this randomization only touches these four Lattice-Swap-owned slots — it does not reach
+into effects granted by other districts' own methods (an Aries-granted EMP vulnerability, for instance,
+stays exactly what Aries made it, never getting pulled into Aquarius's random pool). Keeps the chaos
+contained to what Aquarius itself grants, rather than needing every other district's file rewritten whenever
+Aquarius gets layered on top.
+
+**Libra — "Oathbinding Pact"** *(Risk Level: High; IF Cost: High + permanent faction lock)*
+Permanent faction alignment lock — major bonuses with one faction, heavy penalties with rivals. Lose independent dialogue options; many choices are now filtered through the oath. Gain diplomatic influence in the Hub; distrusted as a political instrument by others.
+
+**Gemini — "Subnet Integration"** *(Risk Level / IF Cost: TBD)*
+Gain massive data and analysis capabilities; risk information overload (occasional stun or confusion in high-data environments). Permanent Arcanet echo — the protagonist hears rumors constantly, even unwanted. Gemini treats them as kin; Pisces and Scorpio suspect they're being monitored.
+
+**Pisces — "Market Rebuild"** *(Risk Level: Very High; IF Cost: High — location: The Markets / Shadow
+Exchange)*
+Heavy criminal reputation — permanent infamy with law-abiding districts. Gain black-market capabilities and access; risk being hunted or betrayed. Visible underworld modifications (markings, illegal implants) that change how almost everyone reacts.
+
+**Sagittarius — "Frost-Forged"** *(Risk Level / IF Cost: TBD)*
+Gain extreme cold and environmental resistance; lose refined social skills, become more direct and survival-oriented in dialogue. Deep respect from outer districts; seen as wild or untrustworthy in the inner city.
+
+**Virgo — "Deep System Purge"** *(Risk Level: Medium-High; IF Cost: Medium)*
+Risk permanent loss of random skills or memory fragments during the purge. Become more computationally efficient but lose creativity and emotional range. Undergrid crews treat you as family; surface dwellers find you unnervingly sterile.
+
+**Hub / 13th District — "Axis Recalibration"** *(Risk Level / IF Cost: TBD)*
+Available only late in the story or at great cost. Major shift in core directive toward balance or city-first thinking. Gain powerful central authority access; become symbolically tied to the failing system. Many districts view you as part of the problem.
+
+**Also still open, story-triggered rather than player-chosen:** a Crisis/Environmental Event category
+(accidental or forced re-spec during a catastrophic event, variable and uncontrollable) remains a possibility
+alongside the 14 chosen methods above — not tied to any single district, and not yet decided whether it's
+kept as its own category or folded into specific story beats.
 
 ---
 
-## District-Specific Re-Spec Flavors
+## Combining Multiple District Methods — Contradictions & Compound Effects
 
-**Cancer — "Sanctuary Rebinding"**
-Sacrifice combat and aggressive capabilities for stronger protective and healing abilities. Gain emotional vulnerability — higher sensitivity when companions are hurt. Permanent bond with Cancer; viewed as soft or overprotective by Aries and Sagittarius.
+Since a player can go through any number of district methods over a playthrough (each adding its own IF cost
+on top of the last), some combinations genuinely contradict each other — not just tonally, but mechanically.
+**None of these get silently resolved, blocked, or averaged away.** Consistent with this project's own
+standing design law that conscious entities hold real, simultaneous contradictions rather than collapsing
+them into something tidier, a player carrying two conflicting district effects should feel that
+contradiction as a real, ongoing fact about who they are now — not a bug the game quietly patches over.
 
-**Taurus — "Homebound Recalibration"**
-Lose nomadic and exploration-related capabilities, and memories of life outside stable habitation zones. Permanent social bonus in Taurus and Cancer; major distrust from frontier districts. Gain "Rooted" overlay: reduced effectiveness when operating far from residential zones for extended periods.
+**Three existing systems already do the actual resolution work — nothing new needs inventing:**
 
-**Leo — "Spotlight Overhaul"**
-Gain dramatic presence and charisma; lose subtlety and stealth capabilities. Constant need for public acknowledgment — social penalties when Fame drops. Dialogue becomes more theatrical, which alienates stoic districts.
+1. **Echo Events** (established in the Fragmenting/Unstable IF stages) are the natural mechanism for hard
+   *numeric* conflicts — two methods pushing the exact same stat in opposite directions. Rather than
+   canceling to a flat average, the current build's value holds under normal conditions, but under stress
+   the *other* configuration's value can involuntarily reassert itself for a moment — the conflict surfacing
+   as an echo, exactly like any other echo state, rather than as a permanent dead middle-ground number.
+2. **"Factions feel real because members disagree internally"** (the project's own standing faction-design
+   law) is the natural mechanism for *reputation* conflicts — a district doesn't need to pick one unified
+   verdict on a player who's given it two contradictory reasons to react. Different NPCs within the same
+   district can hold the two opposed reactions simultaneously and say so.
+3. **The two-track Fame/Infamy model** (`Code-Architecture/06_World_District_and_Reputation_System.md`) is
+   the mechanical backbone for #2 — nothing stops a district's Fame and Infamy from both climbing from the
+   same player, for two entirely different reasons, at once.
 
-**Scorpio — "Rebirth Ritual"**
-Major personality signal overhaul: gain ruthless pragmatism alongside a competing empathy signal that produces echo states. Risk of uncontrollable echo events during high-stress moments. Scorpio reveres you as having been through the ritual; most other districts see you as unstable or alien.
+### Worked example 1 — Hard numeric conflict: Aries (EMP/cold vulnerability) + Sagittarius (cold/environmental resistance)
 
-**Aries — "Forge Rebuild"**
-Significantly more machine-efficient: lose organic empathy and social nuance, gain raw power and structural durability. Vulnerability to EMP and cold. Aries respects you as one of their own; residential districts fear you.
+These two push the *same underlying resistance stat* in opposite directions — Aries's Forge Rebuild makes
+the protagonist genuinely vulnerable to cold, Sagittarius's Frost-Forged genuinely resistant to it. Per the
+Echo Events resolution above: the more recently acquired method's value is what actually governs day to day,
+but under real environmental stress (an actual cold-exposure crisis, a Frostlands storm, an EMP event), the
+earlier configuration can briefly reassert itself as an echo — the protagonist's system flickering back to
+"how it used to handle this" for a few seconds before the current configuration reasserts control. Mechanically
+rare, narratively vivid: it should read as the body genuinely remembering two different ways of surviving the
+cold and briefly not being sure which one it currently is.
 
-**Capricorn — "Production Overhaul"**
-Trade adaptability for efficiency: lose flexibility, gain production and crafting bonuses. Permanent visible corporate markings or serial numbers that reduce trust with anti-authority groups. Strong industrial faction ties; hated by Pisces and Sagittarius.
+### Worked example 2 — Emotional contradiction: Cancer (emotional vulnerability toward companions) + Aries (loss of organic empathy/social nuance)
 
-**Aquarius — "Lattice Swap"**
-Random or high-risk side effects with each application — new unpredictable weaknesses appear alongside bleeding-edge capabilities. Viewed as a walking experiment: scientific curiosity from Gemini and Aquarius; fear from Virgo and Cancer.
+Cancer's Sanctuary Rebinding makes the protagonist *more* emotionally reactive specifically when companions
+are hurt. Aries's Forge Rebuild removes the social/empathic nuance that would normally let a person translate
+a feeling into an appropriate response. **Both stay true at once, which is exactly the disturbing part:** the
+protagonist genuinely, intensely feels it when a companion is hurt — and has no remaining social vocabulary
+to express that feeling in a way anyone recognizes. This should read in dialogue as visible, real distress
+with a blunted, wrong-register delivery — a companion reading real pain in the protagonist's reaction while
+also finding the *way* it's expressed unsettling or hard to parse, rather than comforting. A specific
+companion dialogue variant (distinct from either district's own default reaction) is worth writing for this
+exact combination.
 
-**Libra — "Oathbinding Pact"**
-Permanent faction alignment lock — major bonuses with one faction, heavy penalties with rivals. Lose independent dialogue options; many choices are now filtered through the oath. Gain diplomatic influence in the Hub; distrusted as a political instrument by others.
+### Worked example 3 — Triple-signal stacking: Scorpio (Rebirth Ritual) + Cancer (Sanctuary Rebinding)
 
-**Gemini — "Subnet Integration"**
-Gain massive data and analysis capabilities; risk information overload (occasional stun or confusion in high-data environments). Permanent Arcanet echo — the protagonist hears rumors constantly, even unwanted. Gemini treats them as kin; Pisces and Scorpio suspect they're being monitored.
+Scorpio's own method already installs a competing signal against an existing trait (ruthless pragmatism vs.
+an installed empathy signal), which is the established mechanism behind echo states in general. Layering
+Cancer's own emotional-vulnerability effect on top doesn't add a fourth static trait so much as it **raises
+the number of competing configurations actively present at once** — this specific combination should
+increase Echo Event *frequency* specifically (more configurations fighting for control means more
+opportunities for one of them to surface unexpectedly), not just add a new static bonus. This is the clearest
+case where combining two methods should have a real systemic consequence beyond narrative flavor.
 
-**Pisces — "Market Rebuild"**
-Heavy criminal reputation — permanent infamy with law-abiding districts. Gain black-market capabilities and access; risk being hunted or betrayed. Visible underworld modifications (markings, illegal implants) that change how almost everyone reacts.
+### Worked example 4 — Social/behavioral contradiction: Taurus (Rooted, penalized far from home) + Sagittarius (frontier-suited, survival-oriented)
 
-**Sagittarius — "Frost-Forged"**
-Gain extreme cold and environmental resistance; lose refined social skills, become more direct and survival-oriented in dialogue. Deep respect from outer districts; seen as wild or untrustworthy in the inner city.
+Taurus's Homebound Recalibration explicitly penalizes effectiveness far from residential zones. Sagittarius's
+Frost-Forged is built for exactly that environment. A player with both is mechanically working against
+themselves in any Frostlands/frontier content — which should read narratively as a specific, textured kind
+of homesickness: someone who is *built* to survive out there and *suffers* for being away from home while
+doing it. Worth a unique piece of internal/companion dialogue distinguishing this from either district's
+own default flavor (not "I don't want to be here," but "I can handle this. I just don't want to be able to.")
 
-**Virgo — "Deep System Purge"**
-Risk permanent loss of random skills or memory fragments during the purge. Become more computationally efficient but lose creativity and emotional range. Undergrid crews treat you as family; surface dwellers find you unnervingly sterile.
+### Worked example 5 — Reputation contradiction: Libra (Oathbinding Pact) + Pisces (Market Rebuild)
 
-**Hub / 13th District — "Axis Recalibration"**
-Available only late in the story or at great cost. Major shift in core directive toward balance or city-first thinking. Gain powerful central authority access; become symbolically tied to the failing system. Many districts view you as part of the problem.
+Libra's Oathbinding Pact permanently binds the protagonist to a faction (dialogue increasingly filtered
+through that oath). Pisces's Market Rebuild leaves permanent, visible criminal modifications and a heavy
+criminal reputation. A player with both is walking around as a sworn instrument of a faction that would, by
+its own stated principles, want to prosecute the exact thing standing in front of it. This is the richest
+kind of conflict this system can produce, and it should get real dedicated content rather than a generic
+reaction:
+- The Oath-holder faction has three plausible postures, and different named NPCs within it can hold
+  different ones simultaneously (per the internal-dissent design law): quietly ignore it (protecting a
+  useful asset), publicly and awkwardly tolerate it (a visible institutional compromise other factions can
+  needle them about), or treat it as an active problem requiring the protagonist to answer for it before the
+  oath continues to mean anything.
+- Pisces itself reacts to the Oathbinding with its own split: the criminal underworld may read a
+  faction-sworn operative with visible black-market modifications as either a uniquely valuable double
+  agent, or as a security risk too compromised to fully trust with anything sensitive.
+- This is a natural home for a genuinely new piece of reputation state — not a new mechanic, just the
+  existing two-track model doing real work: Libra's own Fame and Infamy both climbing simultaneously from
+  the same player, for two entirely different and irreconcilable reasons.
+
+### General principle for any combination not listed above
+
+When two district methods' effects touch the same underlying system (a resistance stat, a dialogue-option
+pool, a reputation track), don't invent new resolution logic per pair — check which of the three mechanisms
+above (Echo Events for numeric stats, internal faction dissent for reputation, or straightforward
+simultaneous-and-unresolved narrative contradiction for personality/behavior effects) the conflict actually
+is, and apply that same mechanism. The goal is texture, not balance patching — a contradiction a player
+built for themselves through their own choices should feel like a real, specific consequence of exactly
+those choices, not something the system quietly smooths over.
 
 ---
 

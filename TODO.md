@@ -692,7 +692,7 @@ These require a developer call before downstream work can proceed. None can be r
   **Also corrected 2026-07-19:** Gemini's "Janbogo Subnet Nexus" (used throughout file titles/text) is NOT a settled official name, contrary to how it reads in file titles — it's a descriptive label only. Treat Gemini as genuinely unnamed, same as Taurus and Leo (Leo's recurring "Golden Ring" was checked the same way and is *also* not settled, despite 18 files using it).
   **Status: flag, don't fix further — developer wants to brainstorm Taurus/Leo/Gemini/Scorpio/Aries names directly in a future session, not have candidates pre-generated.**
 
-- [ ] **Identity Fragmentation — full exploration pass, flagged 2026-07-22**
+- [ ] **Identity Fragmentation — full exploration pass, flagged 2026-07-22, structure resolved 2026-07-23**
   Surfaced while consolidating technical architecture docs into `Code-Architecture/`: the developer expressed
   strong enthusiasm for the Identity Fragmentation mechanic (a 0-100 meter that rises with each player
   re-spec, triggers `fragmentation_critical` at 75+, opens a unique ending at 100) — "I didn't think of it
@@ -700,10 +700,41 @@ These require a developer call before downstream work can proceed. None can be r
   substantial existing material is already scattered across
   `Storyline/Endings/Secret-Endings/Identity_Fragmentation_Endings.md`,
   `Game-Mechanics/Core-Mechanics/Player_Re-Spec_-_Complete_Design.md`, `..._Costs_and_Trade-Offs.md`,
-  `..._Options_Beyond_Calethina.md`, and `Hardcore_Mode.md`. Needed: a review/consolidation pass across all
-  of it (checking for consistency, same as the Technical Architecture consolidation), then further
+  `..._Options_Beyond_Calethina.md`, and `Hardcore_Mode.md`.
+  **Resolved 2026-07-23 — the Methods-vs-Flavors mismatch:** the developer caught that the old "7 Methods"
+  table only covered 7 districts while "District-Specific Re-Spec Flavors" covered all 13, with 2 further
+  naming mismatches even among the overlapping 7 (Aquarius, Pisces) and Taurus's Calethina's-Lab vs.
+  Homebound-Recalibration being two genuinely different things. **Confirmed structure: 14 total re-spec
+  options — Calethina's Lab (neutral baseline) plus one bespoke method per district, all 13.** Core design
+  pillar locked in explicitly: every district method must grant a genuinely unique, district-flavored special
+  ability — "just way, way too cool to give up." `Player_Re-Spec_-_Complete_Design.md` rewritten to reflect
+  this. **Deliberately still deferred, per the developer's own instruction:** exact mechanical specifics
+  (numeric bonuses, precise IF point costs) for most districts — only Scorpio, Aries, Virgo, Libra, Pisces,
+  and Aquarius have Risk Level/IF Cost data so far; Cancer, Taurus's own bespoke method, Leo, Capricorn,
+  Gemini, Sagittarius, and Hub are marked TBD.
+  **Further progress, 2026-07-23:** Aquarius's Lattice Swap now has a concrete signature effect (direct
+  Cyberpunk 2077 "Chaos"/Royce homage) — Damage Type, Critical Hit Chance, Critical Effect, and Signature
+  Ability After-Effect all randomize on every re-spec, scoped to not pull in other districts' own granted
+  effects. Also added a full "Combining Multiple District Methods" section working through genuine
+  cross-district contradictions (Aries EMP/cold vulnerability vs. Sagittarius cold resistance; Cancer
+  emotional vulnerability vs. Aries lost empathy; Scorpio+Cancer triple-signal stacking raising Echo Event
+  frequency; Taurus Rooted vs. Sagittarius frontier-suited; Libra Oathbinding vs. Pisces criminal reputation)
+  — resolved by reusing 3 existing systems (Echo Events for numeric conflicts, internal faction dissent for
+  reputation conflicts, the two-track Fame/Infamy model for simultaneous Fame+Infamy climbs) rather than
+  inventing new resolution machinery per pair.
+  **Still needed beyond this:** further
   development of mechanics, implications, implementation, and in-world lore per the developer's own request.
   See `project_identity_fragmentation_review_flagged` memory.
+
+- [ ] **"Fragmentation Matrix" — future task, flagged 2026-07-23, not started**
+  Developer wants a system structurally parallel to the Reputation Matrix (`Reputation_System.md`'s two
+  independent 0-3-range axes, 16 named tiers) but for re-spec/Identity Fragmentation reactions instead of
+  Fame/Infamy — candidate axis names "Loyal"/"Disloyal." **Must apply to companions individually, not just
+  factions/districts.** Open structural question flagged for whenever this is picked up: "Loyal"/"Disloyal"
+  read as one spectrum, but the Reputation Matrix's power comes from its two axes being genuinely
+  independent and non-canceling — likely needs reframing as (e.g.) "bonded with current self" vs. "grieving
+  a past self" as two separately-accumulating tracks, not opposite poles. See
+  `project_fragmentation_matrix_flagged` memory.
 
 - [ ] **District documentation template** — create `Worldspace/Locations-and-Levels/Concordia-City/Districts/_TEMPLATE.md`
   Must include a **Demonym** field: the word for "a person from [District]" (e.g., Sagittarius → Frostlander). Used in NPC dialogue, terminal entries, audio logs, and any in-world text referring to a district's residents as a group. Each district needs its own demonym established before NPC dialogue writing begins.
