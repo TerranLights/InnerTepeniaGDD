@@ -83,6 +83,8 @@ But "safest" is not "free." The emotional cost is specific: Calethina knew who w
 
 The person most capable of helping the protagonist stop being themselves kept doing it anyway. What that says about Calethina, and about what she decided the relationship was worth to her, is one of the most consequential design questions in the game. Write this with proportional care.
 
+**Formalized 2026-07-23:** this arc is now the mechanical Fragmentation Matrix (`Fragmentation_Matrix.md`) in prose form — Calethina carries the highest confirmed Personality Grief-Multiplier of any character, seeded partly through a marker unique to her (Direct Participation Count: she personally performs the player's re-specs, not just witnesses their aftermath). The Fragmenting/Unstable/Critical escalation above maps directly onto her own climb up the Grief axis toward The Long Vigil.
+
 **"Clean Slate" package (Calethina's Lab):**
 - Lose 2–3 major perks connected to the changed stats (perks remain, but their effectiveness degrades)
 - Temporary adjustment period with minor stat instability, then normalizes

@@ -817,3 +817,5 @@ For design and implementation details, see Design_Principles.md Section III.
 Calethina does not occupy the companion slot and is not subject to companion system rules. She cannot be dismissed. She cannot be recruited in the conventional sense. She is present or absent based on signal state (before download) or always present (after download).
 
 For implementation: she is a projection system, not a companion object. Any code that iterates over companions does not include Calethina.
+
+**Exception, confirmed 2026-07-23: she still tracks a Fragmentation Matrix Bond/Grief state** (`Fragmentation_Matrix.md`), despite the above. Companion-object status is not a prerequisite for that system — Calethina is the confirmed first case of a non-companion character carrying it, seeded partly through a marker unique to her (Direct Participation Count — she personally performs the re-specs at her Lab, not just witnesses their aftermath). Any future non-companion character with a comparably direct relationship to the player's identity changes should be evaluated the same way, not assumed excluded just because they sit outside the companion object model.

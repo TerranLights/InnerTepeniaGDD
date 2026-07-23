@@ -1,8 +1,9 @@
 # Fragmentation Matrix
 
 **Source:** structurally parallel to `Reputation_System.md`'s two-axis Fame/Infamy model, developed
-2026-07-23 at the developer's explicit request — a system for tracking how individual companions and
-whole districts/factions react to the player's Identity Fragmentation history (see
+2026-07-23 at the developer's explicit request — a system for tracking how individual companions (and
+companion-adjacent characters — Calethina tracks Bond/Grief despite occupying no companion slot, see
+below) and whole districts/factions react to the player's Identity Fragmentation history (see
 `Player_Re-Spec_-_Complete_Design.md`), independent of the player's own single global IF meter
 (`Storyline/Endings/Secret-Endings/Identity_Fragmentation_Endings.md`). Where the IF meter measures the
 player's own instability, the Fragmentation Matrix measures what *other people* carry about it — and,
@@ -48,6 +49,20 @@ Reuses existing or already-planned systems rather than inventing new tracking:
 - Romance-questline stage completed, if romance was started.
 - Current approval/trust level, if tracked.
 
+**Special-case marker — Direct Participation Count, Calethina only (2026-07-23).** Confirmed: Calethina
+tracks Bond/Grief despite occupying no companion slot and being explicitly excluded from companion-system
+code (`Companion_System.md`'s "Calethina: Not a Companion" section) — companion-object status is not a
+prerequisite for this matrix. Her Grief seeds differently than an ordinary companion's: rather than
+(or alongside) relationship-depth markers built from external interaction, she has a marker no other
+character has — **the number of re-specs she has personally performed on the player at Calethina's Lab.**
+She isn't just present for the loss of a previous self the way a companion is; she is the one who *performed
+the procedure that caused it*, every time. This is a direct, first-hand, repeated participation in the act
+itself, not a relationship built around observing its aftermath — already textually established in
+`Player_Re-Spec_-_Complete_Design.md`'s "Calethina's arc through repeated re-speccing" (professional on the
+first visit → she asks why on the second → grief by the third+ → something that only fully resolves in
+relation to the Devotion ending). That existing prose arc is, in effect, an unformalized description of her
+own climb up the Grief axis — this system just gives it mechanical teeth.
+
 ### Relationship-Depth Markers (Districts/Factions)
 
 - The district's own **Fame/Infamy history** (`Reputation_System.md`) *as it stood at the moment of the
@@ -87,7 +102,16 @@ freeform stat picked in isolation.
   the player harms innocents) is a separate absolute trait-lock outside this matrix entirely, not something
   Bond/Grief needs to model.
 
-**Three companions, three different reasons for a low or high multiplier, no forced pattern** — a good sign
+- **Calethina — the highest multiplier in the game, and the clearest case of all.** She isn't a bystander to
+  the player's fragmentation, she's frequently its direct cause, and she watches it happen with full
+  understanding of what each change costs, every single time. Her own arc already escalates exactly the way
+  a maxed multiplier would predict — professional distance, then asking why, then open concern, then grief,
+  then something at Critical IF that's only fully legible next to the Devotion ending's own emotional core.
+  Combined with the Direct Participation Count marker above, she's positioned to reach The Long Vigil (or its
+  outer edge) faster and more inevitably than any ordinary companion — which fits a character whose entire
+  narrative function is watching someone she helped build become, repeatedly, someone else.
+
+**Four characters, four different reasons for where the multiplier lands, no forced pattern** — a good sign
 the mechanic reads character rather than applying a flat rule.
 
 ### District Grief-Multiplier — cross-checked against existing per-district reactions
