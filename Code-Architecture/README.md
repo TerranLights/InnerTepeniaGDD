@@ -32,6 +32,7 @@ them implicit in scattered examples.
 | `07_Save_System.md` | Save/load serialization |
 | `08_Scalable_Graphics_and_Hardware_Tiers.md` | Four hardware tiers, camera-freedom scaling, graphics settings |
 | `09_Build_Order_and_Key_Decisions.md` | The order systems get built in, and the rationale behind the biggest architectural calls |
+| `10_Character_Asset_Pipeline.md` | DAZ Studio → Blender → Godot character asset pipeline; where rigging actually happens |
 
 ## Standing rules for this folder
 
