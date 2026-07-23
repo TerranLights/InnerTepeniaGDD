@@ -31,7 +31,9 @@ a dedicated `_Research/` folder is separately linked below.
 | `economics/` (incl. `Thomas Sowell/`) | ✅ | 16 | Complete 2026-07-23; re-cataloged same day — all 5 scanned Sowell titles now have real TOC/content via OCR |
 | `philosophy/` (incl. `Arthur Schopenhauer/`, `Carl Gustav Jung/`, `ethics/`, `Marcus Aurelius/`) | ✅ | ~20 | Complete 2026-07-23; re-cataloged same day — former EPUB/DJVU/scanned titles now readable |
 | `games/` (incl. `Chess/`, `Shogi/`) | ✅ | 4 | Complete 2026-07-23; re-cataloged same day — all titles now readable, directly relevant to the flagged Shogi+Chess synthesized-strategy-game minigame idea |
-| `Language/`, `Linux/`, `Math_and_Computation/`, `Cpp/`, top-level singles | ⬜ | unknown | Not yet touched — `Math_and_Computation/` deliberately deferred (expected large), rest not yet reached |
+| `Language/` (incl. `psycholinguistics/`, `Sumerian/`) | ✅ | 27 | Complete 2026-07-23 |
+| `Linux/` | ✅ | 10 | Complete 2026-07-23 |
+| `Math_and_Computation/`, `Cpp/`, top-level singles | ⬜ | unknown | `Math_and_Computation/` (161 files) deliberately deferred by the developer 2026-07-23 ("that will probably eat up the rest of my allotment"); `Cpp/`/singles not yet reached |
 
 **Tooling limitation corrected 2026-07-23:** what was previously flagged throughout this file as "EPUB,
 unreadable" was a real but *fixable* tooling gap, not a hard limitation — EPUB is just a ZIP archive of
@@ -1220,13 +1222,9 @@ in scope here. Cataloged lightly below since partial data was already gathered, 
   and Personality, Physiological Approaches, Evolutionary Perspectives on Personality); further domains
   (Intrapsychic, etc.) not fully captured. Genuinely relevant to companion/character-writing generally,
   not just Vostok.
-- **The Consuming Instinct: What Juicy Burgers, Ferraris, Pornography, and Gift Giving Reveal About Human
-  Nature** — Gad Saad, foreword David M. Buss — re-cataloged 2026-07-23 (the "no extractable text layer"
-  flag was wrong — `pdftotext` reads it cleanly). 11 chapters: Consumers: Born and Made; I Will Survive;
-  Let's Get It On; We Are Family; That's What Friends Are For; Cultural Products: Fossils of the Human Mind;
-  Local versus Global Advertising; Marketing Hope by Selling Lies; Darwinian Rationale for Consumer
-  Irrationality; Darwin in the Halls of the Business School; Concluding Remarks. *(Likely misplaced per the
-  developer's note above — sex/mating-adjacent content from a different project.)*
+- ~~The Consuming Instinct — Gad Saad~~ **Removed 2026-07-23, developer's request: "remove anything written
+  by Gad Saad. I've decided I don't want his work."** File deleted from `Evolutionary Studies/`; no other
+  Gad Saad titles found anywhere in the collection.
 - **The Dangerous Passion: Why Jealousy Is As Necessary As Love and Sex** — David M. Buss (2000). 9
   chapters: The Dangerous Passion, The Jealousy Paradox, Jealousy on Mars and Venus, The Othello Syndrome,
   "If I Can't Have Her, Nobody Can," Secrets and Lies, Why Women Have Affairs, Coping Strategies, Emotional
@@ -1527,12 +1525,199 @@ remains a real, narrower OCR limitation (not a missing-tool problem).
 
 ---
 
+## Language (27 files, incl. `psycholinguistics/`, `Sumerian/` subfolders) — ✅ complete 2026-07-23
+
+### Top level (5 files)
+
+- **Astrolinguistics** — Alexander Ollongren. Formal/mathematical approach to constructing messages for
+  interstellar communication (METI/SETI) using Lincos-style logical languages.
+- **Forensic Linguistics** — John Olsson. Front-matter/author-bio captured (Olsson is a founding figure in
+  forensic linguistics, expert-witness casework); full chapter list not fully captured this pass.
+- **Language and Time** — Vyvyan Evans. Three-part structure: Part I lays out the philosophical/linguistic
+  background on time; Part II covers tense and grammatical aspect; Part III covers lexical semantics of time
+  words. Full chapter breakdown within each part captured.
+- **Language Change: Progress or Decay?** — Jean Aitchison. Three-part, 11+ chapter structure: the
+  "decay/progress" debate framing, mechanisms of change (spread through a speech community, contact,
+  simplification), and case studies of change in progress.
+- **The Grammar of Names** — John M. Anderson. A syntactic/semantic theory of proper names within a
+  dependency-grammar framework; chapters 4-9 captured (nominal categories, determiners, the syntax of
+  names across languages), chapters 1-3 (the opening theoretical setup) not fully captured.
+
+### psycholinguistics/ (7 files, all Ray Jackendoff or Jackendoff-adjacent)
+
+- **A User's Guide to Thought and Meaning** — Ray Jackendoff (2012, OUP). Popular/accessible restatement of
+  his semantics program. Part One: Language, Words, and Meaning (14 chapters — what's a language, word
+  meaning, "objective" vs. "subjective" meaning, meanings vs. concepts, linguistic relativity); Part Two:
+  Consciousness and Perception (what it's like to be thinking, tests of the "Unconscious Meaning Hypothesis").
+- **Foundations of Language: Brain, Meaning, Grammar, Evolution** (2002). Part covering rules of grammar,
+  lexical redundancy/inheritance hierarchies, then Chapter 4 "Universal Grammar" (poverty-of-stimulus
+  argument, linguistic universals, genetics of UG, species-specificity evidence); Part II Architectural
+  Foundations; Chapter 7 covers structure-constrained modularity and Fodor's modularity thesis; Chapter 8
+  "An Evolutionary Perspective on the Architecture" (Bickerton's proposal, protophonology, phrase structure
+  evolution); Part III Semantic and Conceptual Foundations opens with "Semantics as a Mentalistic Enterprise."
+- **Language, Consciousness, Culture: Essays on Mental Structure** (2007, Jean Nicod Lectures). Chapter 2
+  covers the "Parallel Architecture" framework directly — three founding themes of generative grammar, the
+  "broken promise" that deep structure would be the key to the mind, "syntactocentrism" as a scientific
+  mistake, phonology as an exemplar of Parallel Architecture, the lexicon/grammar distinction, words-and-rules.
+- **Patterns in the Mind: Language and Human Nature** (2015 printing) — **scanned/image-only PDF (tiff2pdf),
+  required OCR** (`pdftoppm` + `tesseract`, page 6). Full contents recovered: Part I The Fundamental
+  Arguments (nature/nurture, argument for mental grammar, argument for innate knowledge); Part II The
+  Organization of Mental Grammar (overview, phonological structure, syntactic structure, American Sign
+  Language); Part III Evidence for the Biological Basis of Language (how children learn language, language
+  acquisition in unusual circumstances, language and the brain); Part IV Mental Capacities Other Than
+  Language (construction of experience, music and vision, language as a window on thought, social
+  organization).
+- **Semantics and Cognition** (1983, MIT Press, Current Studies in Linguistics series #8). Part I Basic
+  Issues (Semantic Structure and Conceptual Structure; Sense and Reference); Part II Cognitive Foundations of
+  Semantics (Individuation; The Syntax of Conceptual Structure; Categorization; Semantic Structure Is
+  Conceptual Structure); Part III Word Meanings (Problems of Lexical Analysis; Preference Rule Systems);
+  Part IV Applications (TOC continues beyond what was captured).
+- **Simpler Syntax** — Peter W. Culicover & Ray Jackendoff (2005). Chapter 2 covers uniform lexical
+  projection/passive, the Structure-Preserving Hypothesis, raising, government and binding, trace theory;
+  Chapter 3 "Later History of Mainstream Syntax" (Late PPT, UTAH, Head Movement, the Minimalist Program,
+  "Uniformity entails Generative Semantics"); Chapter 4 "Flat Structure."
+- **The Architecture of the Language Faculty** (1997, Linguistic Inquiry Monographs series). Covers anaphora
+  and binding inside lexical items; a chapter on morphosyntax vs. morphophonology, inflectional vs.
+  derivational morphology, productivity/semiproductivity, "optimal coding" of semiproductive forms; a later
+  chapter on lexical insertion of idioms, parallels between idioms and compounds, and Construction Grammar.
+  This is Jackendoff's core statement of the "Parallel Architecture" (syntax/semantics/phonology as
+  independent generative systems linked by interface rules) that recurs across several of the other titles
+  in this subfolder.
+
+### Sumerian/ (13 files/folders — directly relevant to existing lore's Sumerian-speech origin-lab canon,
+see `project_sumerian_flagged` memory)
+
+- **A Descriptive Grammar of Sumerian** — Abraham Hendrik Jagersma. Full modern reference grammar: history
+  of the language/speakers, genetic/areal relationships, sources, dialects, "the death of Sumerian,"
+  grammatical terminology and notational conventions; The Writing System (orthography, early development,
+  spelling of syllable-final consonants/vowel length, transliteration); Phonology (the stops, affricates).
+- **Introduction to Sumerian Grammar** — Daniel A. Foxvog (revised 2014, UC Berkeley). Contents: Preface;
+  The Sumerian Writing System; Table of Syllabic Sign Values; Phonology; Nouns and Adjectives; The Nominal
+  Chain; Pronouns and Demonstratives; Summary of Personal Pronoun Forms; The Adnominal Cases (Genitive and
+  Equative); The Copula; Adverbs and Numerals; The Adverbal Cases; Introduction to the Verb.
+- **Sumerian Grammar** — Dietz Otto Edzard (PDF + EPUB duplicate). Contents: The Sumerian Language (general
+  characteristics, the "hopeless question" of Sumerian's linguistic affiliation, linguistic environment);
+  How We Read Sumerian (spelling, classification/combination/evolution of cuneograms).
+- **Ein Compendium sumerisch-akkadischer Beschwörungen** — Wolfgang Schramm (2008, Göttinger Beiträge zum
+  Alten Orient Band 2, German). Not a grammar — a reconstructed collection of 21 Sumerian and
+  Sumerian-Akkadian incantations/exorcism texts tied to the god Enki (Ea) and his son Asalluhi (Marduk),
+  reconstructed mainly from Ashurbanipal's library at Nineveh (7th c. BCE) with some material tracing to the
+  2nd millennium BCE. Structure: Ch. 1 Introduction (incl. "Der Inhalt des Compendiums" = contents overview);
+  Ch. 2 Standard Text and Translation, one section per incantation (21 total).
+- **An Introduction to the Grammar of Sumerian** — Gábor Zólyomi ("Zolyomi Sumer READER"). Lesson-based
+  textbook structure: Lesson 1 Introduction (sources, writing system, dialects, Sumerian-Akkadian
+  bilingualism); Lesson 2 Phonology (consonants, vowel harmony, syllable structure/stress); Lesson 3 The
+  Nominal Template and Non-Adverbial Cases (ergative/absolutive, genitive, equative); Lesson 4 Genitive
+  Constructions — each lesson includes "Further readings" and "Exercises."
+- **Sumerian: The Descendent of a Proto-Historical Creole** — Jens Høyrup. Argues Sumerian arose via
+  creolization. Contents: I. Introductory Remarks; II. The "Sumerian Problem"; III. Settlement Development
+  and Creolization; IV. Sumerian? (phonology, lexicon, the sentence, gender/animacy, ergativity, the verb,
+  the "pre-Sumerian substrate"); V. Conclusions?
+- **Sumerian Lexicon** (Version 3.0) — John A. Halloran. A dictionary, not a grammar — 1,255 Sumerian
+  logogram words and 2,511 Sumerian compound words, with notes on cuneiform sign readings and homophone
+  notation conventions.
+- **A Sumerian Reader** — Konrad Volk, with Silvano Votto & Annette Zgoll (2nd rev. ed., 1999, Studia Pohl:
+  Series Maior #18, Pontifical Biblical Institute). Scanned PDF; a selection of annotated Sumerian texts for
+  reading practice rather than a systematic grammar.
+- **Sumerian Liturgical Texts** — Stephen Herbert Langdon. Scanned/OCR'd. Contents: Introduction; then a
+  series of Sumerian liturgical texts in translation — an epic poem on the origin of Sumerian civilization, a
+  lamentation to Aruru, a penitential psalm to the god Amurru, a lamentation on the invasion by Gutium, the
+  Legend of Gilgamesh, and liturgical hymns to Ur-Engur, Dungi, and Libit-Ishtar/Ishme-Dagan.
+- **A Sumerian Grammar and Chrestomathy** — Stephen Langdon. Scanned/OCR'd (page-number column badly
+  garbled by the scan but chapter list intact). 11 numbered chapters plus preface/addenda/errata: Historical
+  Outline; Origin and Characteristics of Sumerian Writing; Phonetic Elements and Sound-Changes; The
+  Determinatives; Nouns and Adjectives; Pronouns; Numerals; The Verb; Conjunctions etc.; Adverbs; a Selection
+  of Texts, followed by a vocabulary of principal roots and a syllabic-value list.
+- **Sumerian Grammatical Texts** — Stephen Langdon (1917, University of Pennsylvania Museum Publications of
+  the Babylonian Section, Vol. XII No. 1). Scanned. Not a modern textbook — a primary-source edition of
+  ancient native Sumerian grammatical/lexical texts (bilingual sign-lists and paradigms), with a list of
+  abbreviations for the cited cuneiform text corpora.
+- **The Sumerian Language: An Introduction to Its History and Grammatical Structure** — Marie-Louise Thomsen
+  (1984, 3rd printing, Copenhagen Studies in Assyriology Vol. 10). Full table of contents: Preface;
+  Acknowledgements; Introduction; Grammar (opens with Phonetics) — the standard modern academic reference
+  grammar of the language.
+- **Sumerian Grammar** — Thorkild Jacobsen. Only 21 pages — a short typed/mimeographed lecture-handout style
+  document (property of the American Schools of Oriental Research, per a repeating watermark that required
+  rasterized OCR to see past). Covers Jacobsen's own analytical framework: the "nexus" relationship
+  (ergative/subject roles), verbids, a detailed structure-of-the-verb system (modal prefixes, mode-of-awareness
+  prefixes tied to the speaker's psychological "ken," personal/neuter comitative and locative infixes), and
+  worked example sentences from Sumerian literary texts (Gudea Cylinder, Shulgi Hymn, the Aratta epic).
+
+**Why this subfolder matters:** the developer's existing lore already ties in-game Sumerian speech to a
+concrete in-fiction origin — the U.R.U.K. origin-lab (see `project_sumerian_flagged` memory, marked
+RESOLVED). This is real source material for that thread if it's ever revisited in depth.
+
+---
+
+## Linux (10 files)
+
+- **Basic Linux Terminal Tips and Tricks** (EPUB) — re-cataloged via `unzip`/`nav.xhtml`. 17 chapters: Linux
+  Primer; File/Folder Navigation; History and Shortcuts; Scripts and Pipes; Using SSH; File Transfer;
+  Network Scanning; System Monitoring; Hardware Details and /dev; Parsing Text; systemd; Vim; Emacs;
+  Configure Bash; Tmux Workflow; Terminal Tools for Images/Videos; Extras.
+- **Essential Linux Commands** — Paul Olushile (2023, Packt). 13 chapters across 4 parts: Part 1 Server
+  Installations and Management Commands (Getting a CentOS Server Running; Linux User and Group Commands;
+  File Compression and Archival Commands); Part 2 Frequently Used Commands I (Format and Disk Space; Linux
+  Permissions; Filesystem Mount and Manipulation); Part 3 Frequently Used Commands II (File Content and
+  Conversion; SWAP; Monitoring and Debugging; IPTABLES and Network Commands; File Transfer/Downloading/Log
+  Files); Part 4 Linux Security and the Cloud (Exploring Linux Security; Linux in the Cloud — AWS EC2).
+- **Linux Driver Development with Raspberry Pi: Practical Labs** — Alberto Liberal (2021). Hands-on kernel
+  driver course: Preface; Ch.1 Building the System (bootloader, kernel, root filesystem, boot process,
+  building an embedded Linux system for the Raspberry Pi); Ch.2 The Linux Device and Driver Model (bus/device
+  drivers, sysfs, kobject infrastructure, Device Tree intro); Ch.3 The Simplest Drivers (hello-world module
+  labs); Ch.4 Character Drivers; Ch.5 Platform Drivers (GPIO, pin control, Device Tree, RGB LED labs);
+  Ch.6 I2C Client Drivers; Ch.7 Handling Interrupts in Device Drivers (IRQ domains, softirqs, tasklets,
+  workqueues, kernel threads) — continues with further labs beyond what was captured.
+- **Linux Shell Programming: Pocket Primer** — Oswald Campesato (2023, Mercury Learning). 10 chapters:
+  Introduction (bash basics, `ls`/`cat`/pipes, environment variables); Files and Directories; Useful Commands
+  (`join`, `sort`, `tr`, `find`, `tar`, IFS); Conditional Logic and Loops; Filtering Data with `grep`;
+  Transforming Data with `sed`; Doing Everything Else with `awk`; Introduction to Shell Scripts and
+  Functions; Shell Scripts with `grep` and `awk`; Miscellaneous Shell Scripts.
+- **Mastering Linux Administration** — (2nd ed., Packt). Large reference spanning at least 4 parts:
+  Part 1 Basic Linux Administration (Installing Linux; The Linux Shell and Filesystem; Software Management;
+  Managing Users and Groups; Processes/Daemons/Signals); Part 2 Advanced Linux Administration (Disks and
+  Filesystems incl. LVM; Networking incl. OSI/TCP-IP; Linux Shell Scripting; Securing Linux — SELinux,
+  AppArmor, firewalls/nftables; Disaster Recovery, Diagnostics, and Troubleshooting); Part 3 Server
+  Administration (Virtual Machines/KVM; Managing Containers with Docker; Configuring Linux Servers — SSH,
+  DNS, DHCP, NFS, Samba); Part 4 Cloud Administration (begins with "Short Introduction to Cloud Computing").
+- **System Programming in Linux** — (No Starch Press). 19 chapters: Core Concepts; Fundamentals of System
+  Programming; Time, Dates, and Locales; Basic Concepts of File I/O; File I/O and Login Accounting; Overview
+  of Filesystems and Files; The Directory Hierarchy; Introduction to Signals; Timers and Sleep Functions;
+  Process Fundamentals; Process Creation and Termination; Introduction to Interprocess Communication; Pipes
+  and FIFOs; Client-Server Applications and Daemons; Introduction to Threads; Thread Synchronization;
+  Alternative Methods of I/O; Terminals and Terminal I/O; Interactive Programming and the ncurses Library.
+- **The Embedded Linux Security Handbook** — (Packt). 3+ parts: Part 1 Introduction to Embedded Systems and
+  Secure Design (Ch.1 Welcome to the Cyber Security Landscape; Ch.2 Security Starts at the Design Table —
+  target buyer/user, compliance standards across healthcare/financial/retail/government sectors; Ch.3 & 4
+  Applying Design Requirements Criteria — hardware selection, then operating system selection); Part 2
+  Design Components (chapters 5-7, incl. security scanning/testing and building a UI); Part 3 The Build
+  Chain, Appliance Lifecycle, and Continuous Improvement (chapters 11-12, incl. networking confirmation).
+- **The Linux DevOps Handbook** — (Packt). 3 parts: Part 1 Linux Basics (Choosing the Right Linux
+  Distribution; Command-Line Basics; Intermediate Linux — cron/systemd timers, package management across
+  distros, user/SSH management; Automating with Shell Scripts); Part 2 Your Day-to-Day DevOps Tools
+  (Managing Services in Linux — systemd, OpenRC, SysV init, Upstart); Part 3 DevOps Cloud Toolkit.
+- **The Linux Memory Manager** — Lorenzo Stoakes (2025, No Starch Press, Early Access/in-progress edition,
+  1300 pages). Full brief contents: Ch.1 Introduction; Ch.2 Physical Memory; Ch.3 Virtual Memory; Ch.4
+  Process Memory; Ch.5 Memory Mapping; Ch.6 Page Faults; Ch.7 Reverse Mappings; Ch.8 Manipulating Userland
+  Memory; Ch.9 The Page Cache; Ch.10 Writeback; Ch.11 Reclaim and Memory Pressure; Ch.12 Swap Memory; Ch.13
+  The Out Of Memory (OOM) Killer; Ch.14 Practical Memory Management. A deep, single-subsystem deep-dive
+  rather than a general admin reference.
+- **Ubuntu System Administration Guide** — 13 chapters: Getting Familiar with the Ubuntu Ecosystem; Install/
+  Upgrade/Configure Ubuntu Desktop; Environments and Window Managers (i3, custom shortcuts, dev tools);
+  Setting up Firewall/VPN/Wi-Fi Networks; Preparing a Virtualization Environment; Up and Running with
+  Kubernetes; Install Ubuntu Server on Metal/Cloud/Network; Keeping [the system updated/secure — title
+  truncated in extraction]; Setup Advanced Network/Firewall/VPN Servers; Running a Virtualization Server
+  Environment; Setup Webserver, Deploy and Run Webapps; [Ch.12 not captured]; Task Automations, CI/CD
+  Pipeline, and Service Deployment.
+
+---
+
 ## Not yet touched this pass
 
-The following folders under `Reference/Materials/books/` were not surveyed in this cataloging pass at all
-(scope was set by the developer's 2026-07-19 message, which named the folders listed above specifically):
-`Language/`, `Linux/`, `Math_and_Computation/` (deliberately deferred — expected to be large, addressed
-separately per the developer's own instruction), `Cpp/`, and the loose
+The following folders under `Reference/Materials/books/` were not surveyed in this cataloging pass at all:
+`Math_and_Computation/` (161 files — deliberately deferred by the developer 2026-07-23, expected to be
+large: "we'll need to set aside Math_and_Computation/ for some other time, because that will probably eat
+up the rest of my allotment"), `Cpp/`, and the loose
 top-level singles (`Evolutionary Psychology and Information Systems Research.pdf`, `Human Universals -
 Donald E Brown`, `King-Warrior-Magician-Lover`, `Mythology - Matt Clayton`, `Some of the Dead Are Still
 Breathing`, `sound_travelling_through_bone...`, `The Art of Character`, `The History of Our Universe in 21
