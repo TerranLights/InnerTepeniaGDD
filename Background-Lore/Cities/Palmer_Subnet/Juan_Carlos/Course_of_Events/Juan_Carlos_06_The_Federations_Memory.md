@@ -4,10 +4,12 @@
 **Course of Events Suggestion #6**, translated from `Juan_Carlos_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Full_Extrapolation` Section VI (a
 Hay-on-Wye-style self-mythologized civic nickname, "the Federation's memory," worn with wry, self-aware
-pride rather than solemn reverence) and `Cross_Reference_Synthesis` Finding 3 (the tertulia's own export into
-the diaspora communities of Leo, Taurus, and Pisces). Character fields are intentionally left blank — see
-each Conflict section's Design Notes for what kind of conflict, and what kind of character(s), would make
-the following setting-condition become true.
+pride rather than solemn reverence) and `Cross_Reference_Synthesis` Finding 3 (the gathering tradition's own
+export into the diaspora communities of Leo, Taurus, and Pisces). Character fields are intentionally left
+blank — see each Conflict section's Design Notes for what kind of conflict, and what kind of character(s),
+would make the following setting-condition become true.
+
+*(Name removed 2026-07-22 per developer direction — the tradition itself stays, unnamed.)*
 
 ---
 
@@ -67,18 +69,18 @@ civic reverence.
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
 Because the identity persists informally rather than through any formal ceremony or declaration, it gets
-folded directly into the city's one remaining living institution: tertulia hosts start opening sessions with
-some variation of the joke, half-ritual and half-genuine, until it becomes a small recurring piece of the
-practice itself rather than a one-off remark.
+folded directly into the city's one remaining living institution: hosts of the city's own gathering
+tradition start opening sessions with some variation of the joke, half-ritual and half-genuine, until it
+becomes a small recurring piece of the practice itself rather than a one-off remark.
 
 ---
 
 ## 3rd-Order Change
 ###### The downstream consequence of the 2nd-order change — caused by *it*, not by the original conflict.
 
-Because the joke becomes ritualized specifically inside the tertulia, it travels wherever the tertulia
-travels — a shared verbal shorthand that later diaspora hosts in Leo, Taurus, and Pisces recognize each
-other by, a specific marker of having come from Juan Carlos rather than simply from the wider Palmer
+Because the joke becomes ritualized specifically inside the gathering tradition, it travels wherever that
+tradition travels — a shared verbal shorthand that later diaspora hosts in Leo, Taurus, and Pisces recognize
+each other by, a specific marker of having come from Juan Carlos rather than simply from the wider Palmer
 subnet.
 
 ---
@@ -86,8 +88,8 @@ subnet.
 ## State of Affairs 2
 ###### The new baseline, feeding the next cycle.
 
-Juan Carlos carries "the Federation's memory" as a lived, ritualized in-joke inside its own tertulia
-tradition — worn lightly, but specific and genuine enough that it will later travel with the city's diaspora
-as a recognizable marker of exactly where they came from.
+Juan Carlos carries "the Federation's memory" as a lived, ritualized in-joke inside its own unnamed
+gathering tradition — worn lightly, but specific and genuine enough that it will later travel with the
+city's diaspora as a recognizable marker of exactly where they came from.
 
 ---

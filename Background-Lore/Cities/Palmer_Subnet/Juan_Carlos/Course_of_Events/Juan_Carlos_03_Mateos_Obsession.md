@@ -68,9 +68,9 @@ obsession, sustained across a whole career, quietly shaping the entire instituti
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
 Because the extra cataloguing goes well past the archive's administrative mandate, it starts capturing
-incidental material that has nothing to do with visas or customs at all — tertulia guest lists, informal
-notes on the city's own social and cultural rhythms — turning the archive, almost by accident, into a
-cultural record as much as a bureaucratic one.
+incidental material that has nothing to do with visas or customs at all — guest lists from the city's own
+unnamed hosted gatherings, informal notes on the city's own social and cultural rhythms — turning the
+archive, almost by accident, into a cultural record as much as a bureaucratic one.
 
 ---
 

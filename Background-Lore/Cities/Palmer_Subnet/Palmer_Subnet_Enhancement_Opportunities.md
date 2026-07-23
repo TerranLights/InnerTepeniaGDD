@@ -76,8 +76,8 @@ existing 10 don't touch.
 
 **Existing 10 chains already cover:** the uncontested, coherent founding made possible by Livingston
 Island's relative isolation (#1), the archive's origin as ordinary administrative necessity (#2),
-Archivist Mateo Iglesias's personal obsession shaping the archive's depth (#3), the tertulia tradition
-taking hold as structured, valued argument (#4), the archive's relocation inland toward the future
+Archivist Mateo Iglesias's personal obsession shaping the archive's depth (#3), the city's own unnamed
+gathering tradition taking hold as structured, valued argument (#4), the archive's relocation inland toward the future
 Amundsen Station (#5), the self-mythologized "Federation's memory" identity persisting after the
 practical function moved (#6), the watch-list function on former Upper Earth officials handled with
 careful discretion (#7), Spain's unusually gentle founding-nation dilution (#8), the gap between the
@@ -88,9 +88,9 @@ existing 10 don't touch.
 1. **Division of industry → history.** The City-Type Parallels section establishes Juan Carlos as a
    genuine "fishing-plus-administrative-archive port," with UK and France's populations specifically
    carrying the maritime-labor half of that identity — but all 10 existing chains are built entirely
-   around the archive/tertulia side. None address the actual fishing economy most residents' daily labor
+   around the archive/gathering-tradition side. None address the actual fishing economy most residents' daily labor
    would have depended on. A chain about tension or complementarity between the city's quiet intellectual
-   prestige (tertulia, archive) and the unglamorous fishing labor that materially sustains it — two
+   prestige (its own gathering tradition, the archive) and the unglamorous fishing labor that materially sustains it — two
    economies, one city, only one of which gets celebrated — would use a dimension the existing chains
    entirely skip. **DRAFTED 2026-07-17 as Course of Events Suggestion #11, "The Labor Beneath the
    Argument"** — see `Juan_Carlos_Course_of_Events_Suggestions.md` and
@@ -101,7 +101,7 @@ existing 10 don't touch.
    anchor on either geography or City-Type, unlike Brazil's predictable pattern. None of the 10 chains
    mention Italy's population at all. A chain exploring what civic identity looks like for a substantial
    population with no inherited homeland-specific anchor to draw on — perhaps synthesizing its own local
-   identity directly from Juan Carlos's dominant registers (tertulia, archive-keeping) rather than
+   identity directly from Juan Carlos's dominant registers (its own gathering tradition, archive-keeping) rather than
    importing one — would use a population the existing chains never touch.
 
 3. **Real-world historical precedent.** The Mega_Init's Hay-on-Wye parallel is used by chain #6, but only

@@ -2,6 +2,8 @@
 
 *(**Corrected 2026-07-07** — this file's post-war status was left as an open TBD from before 2026-07-05; `Specs/Juan_Carlos.md` has since resolved it to Destroyed, deliberately targeted by Upper Earth for its archive/intelligence function. This sheet's living-culture content describes the city per the project's standard present-tense methodology regardless, but the status header below now matches Specs.)*
 
+*(**Corrected 2026-07-22** — this sheet previously named the city's own defining social form "the tertulia." That name has been removed at the developer's own direction; the tradition itself stays, but goes unnamed here and everywhere else, consistent with the practice's own actual character — nobody in-world calls it anything either.)*
+
 ---
 
 **Subnet:** Palmer ("American")
@@ -67,9 +69,9 @@ Juan Carlos developed differently from Sejong precisely because it lacked Sejong
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** Coherence over negotiation — Juan Carlos never had to define itself against a crowded island of neighbors the way Sejong did, and its civic character reflects that comparative ease.
-- **b. Hospitality character** — The tertulia is the defining social form: not an open gathering but a hosted one, with a guest list, an implied topic or sensibility, and a real quality of intellectual expectation. Juan Carlos's own exile community arrived at this form independently, out of the island's quiet and its comparative lack of competing cultural pressure — it happens to echo a real historical Hispanic tradition of the same name, a coincidence of convergent development rather than a direct inheritance. Not everyone is invited to every tertulia, and this is considered entirely appropriate rather than exclusionary.
+- **b. Hospitality character** — A hosted, argument-driven gathering is the defining social form: not an open gathering but a hosted one, with a guest list, an implied topic or sensibility, and a real quality of intellectual expectation. It has no formal name — residents call it "the gathering," or don't call it anything at all. Juan Carlos's own exile community arrived at this form independently, out of the island's quiet and its comparative lack of competing cultural pressure. Not everyone is invited to every one, and this is considered entirely appropriate rather than exclusionary.
 - **c.** Paced by maritime access and rugged terrain rather than any dense multinational coordination.
-- **d. Public/private divide** — The tertulia itself embodies this: a semi-public gathering with real boundaries, argument as the explicit point rather than consensus, hosted rather than open.
+- **d. Public/private divide** — The gathering tradition itself embodies this: a semi-public occasion with real boundaries, argument as the explicit point rather than consensus, hosted rather than open.
 - **e. Privacy as civic value** — Genuine, supported by the island's relative quiet compared to Sejong's constant cross-community visibility.
 
 ---
@@ -85,8 +87,8 @@ Juan Carlos developed differently from Sejong precisely because it lacked Sejong
 
 - **a. Primary language(s):** English dominant (American Primary tier), with genuine, coherent Spanish presence given Spain's unusually strong Significant-tier retention.
 - **b. Linguistic character** — More linguistically settled than Sejong, reflecting the comparative quiet of Livingston Island — Spanish maintained real, uncontested civic presence rather than constant multilingual negotiation.
-- **c. Slang / dialect markers** — Tertulia-specific vocabulary — terms for the gathering's implicit rules, its hosts, its argumentative expectations.
-- **d. Language and integration** — Moderate pressure to engage with the city's own defining social forms, particularly the tertulia, though less intense than Sejong's necessary multilingual fluency.
+- **c. Slang / dialect markers** — A small, informal vocabulary specific to the gathering tradition — terms for its implicit rules, its hosts, its argumentative expectations — that never coalesced into a single agreed name for the practice itself.
+- **d. Language and integration** — Moderate pressure to engage with the city's own defining social forms, particularly its hosted gathering tradition, though less intense than Sejong's necessary multilingual fluency.
 
 ---
 
@@ -99,7 +101,7 @@ Built around the inherited Spanish Antarctic program infrastructure, shaped by L
 ## 10. Cuisine
 
 - **a. Human cuisine** — A genuinely coherent, independently developed cuisine, built with more continuity than most Palmer subnet founding cuisines given the comparative quiet Livingston Island afforded — shaped by, but not simply transplanted from, the culinary memory its Significant-tier population carried with them.
-- **b. Social context of eating** — Central to the tertulia tradition — the café and the gathering are inseparable, hours of informal argument and storytelling organized around food and drink.
+- **b. Social context of eating** — Central to the city's own gathering tradition — the café and the discussion are inseparable, hours of informal argument and storytelling organized around food and drink.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to the city's comparatively quiet, mid-sized population.
 
 ---
@@ -119,14 +121,14 @@ A genuinely coherent musical tradition developed independently by the exile comm
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** A visual sensibility the city arrived at on its own, with a comparable relationship between beauty and melancholy to what runs through certain real-world Iberian traditions — convergent rather than inherited.
-- **Literature:** The tertulia itself functions as living literary culture — argument as art, storytelling and political commentary practiced as a genuine social and intellectual form.
+- **Literature:** The gathering tradition itself functions as living literary culture — argument as art, storytelling and political commentary practiced as a genuine social and intellectual form.
 - **Crafts & material culture:** Practical, shaped by the island's rugged terrain and Juan Carlos's comparatively coherent, less multinational character.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** The tertulia's late-night argument and storytelling, a settled linguistic texture carried by its Spanish-speaking population, rather than Sejong's constant multilingual layering.
+- **Sound:** Late-night argument and storytelling from the city's own hosted gatherings, a settled linguistic texture carried by its Spanish-speaking population, rather than Sejong's constant multilingual layering.
 - **Smell:** Mild, maritime, similar to Sejong but with a quieter, less crowded island character.
 - **Feel:** Settled and coherent — Juan Carlos never had to constantly define itself against immediate neighbors the way Sejong did.
 - **First impressions for visitors:** The rugged, glaciated Livingston Island terrain first, then quickly the genuine coherence of a civic identity that never had to compete for definition against a dozen adjacent communities.
@@ -142,7 +144,7 @@ A genuinely coherent musical tradition developed independently by the exile comm
 - Maritime / fishing resources: 30% — leveraging Livingston Island's coastal access
 - Commercial / trade: 20%
 - Technical / scientific: 20% — continuity from the original Antarctic program's own research infrastructure, carried forward and developed by the exile community itself rather than an imported scientific culture
-- Cultural / social institutions: 15% — the tertulia tradition as genuine civic infrastructure
+- Cultural / social institutions: 15% — the city's own hosted-gathering tradition as genuine civic infrastructure
 - Other: 15%
 
 ---
@@ -155,20 +157,20 @@ With robots slightly outnumbering humans (196,950 to 189,742 Census I), human-ro
 
 ## 17. Robot-Specific Culture
 
-Robot culture at Juan Carlos likely developed genuine participation in the tertulia tradition itself — the gathering's emphasis on argument and intellectual expectation, rather than any single background, suggests a culture where robots could hold real standing in the city's defining social institution.
+Robot culture at Juan Carlos likely developed genuine participation in the city's own gathering tradition itself — its emphasis on argument and intellectual expectation, rather than any single background, suggests a culture where robots could hold real standing in the city's defining social institution.
 
 ---
 
 ## 18. Religious / Philosophical Landscape
 
-- No dominant formal religion; the closest shared value is the tertulia's own implicit philosophy — that argument itself, pursued well rather than won, is a worthwhile and even joyful civic practice.
+- No dominant formal religion; the closest shared value is the gathering tradition's own implicit philosophy — that argument itself, pursued well rather than won, is a worthwhile and even joyful civic practice.
 - A quieter, more settled relationship to its own cultural development than the constant comparison-and-contrast identity Sejong's neighbors required.
 
 ---
 
 ## 19. Underground / Counterculture
 
-Modest — the tertulia tradition itself has room for genuine dissent and unconventional argument within its own form, reducing the need for a separate organized counterculture.
+Modest — the gathering tradition itself has room for genuine dissent and unconventional argument within its own form, reducing the need for a separate organized counterculture.
 
 ---
 
@@ -192,7 +194,7 @@ Modest and inward-facing at the level of ordinary civic life, consistent with th
 
 ## 22. Relationship to Upper Earth
 
-Filtered through the city's own particular civic temperament — a community that built its coherent, independently-developed identity out of comparative quiet and deliberate reflection, the same ethos underlying the tertulia's insistence that argument itself, pursued well, is worth doing — giving Juan Carlos's relationship to Upper Earth a genuinely reflective, historically-aware quality distinct from most Tepenian cities' more straightforward exile narratives. The city's name, honoring King Juan Carlos I's own presiding over Spain's transition to democracy, resonates with that quality as coincidence rather than supplying it.
+Filtered through the city's own particular civic temperament — a community that built its coherent, independently-developed identity out of comparative quiet and deliberate reflection, the same ethos underlying the gathering tradition's own insistence that argument itself, pursued well, is worth doing — giving Juan Carlos's relationship to Upper Earth a genuinely reflective, historically-aware quality distinct from most Tepenian cities' more straightforward exile narratives. The city's name, honoring King Juan Carlos I's own presiding over Spain's transition to democracy, resonates with that quality as coincidence rather than supplying it.
 
 ---
 
@@ -213,7 +215,7 @@ Modest in ordinary civic use, consistent with the city's comparatively quiet cha
 
 ## 25. Export Culture
 
-- The tertulia tradition — Juan Carlos's most significant cultural export, later taking root in Concordia's Leo district as a recognized social institution (the late-night argument circle open to anyone) and finding further expression in Taurus's neighborly intimacy and Pisces' boundary-fluid social spaces
+- The city's own hosted-gathering tradition, never given a formal name even at home — Juan Carlos's most significant cultural export, later taking root in Concordia's Leo district as an ambient, unnamed social activity (small clusters gathering to argue, good-spiritedly, over food and drink) and finding further expression in Taurus's neighborly intimacy and Pisces' boundary-fluid social spaces
 - Its own genuinely coherent cuisine, music (echoing the cantaor style, developed independently rather than inherited), and social form
 - A specific *type of person* — comfortable with hosted, argument-driven social ritual, recognizable by an ease with structured intellectual gathering that few other Tepenian cities' residents share
 
@@ -222,7 +224,7 @@ Modest in ordinary civic use, consistent with the city's comparatively quiet cha
 ## 26. Municipal Holidays
 
 - **Transición** *(placeholder name)* — commemorating King Juan Carlos I's namesake and Spain's own transition to democracy
-- **The Tertulia** *(placeholder name)* — an observance celebrating the city's defining social and intellectual tradition
+- **An unnamed observance** *(no name proposed, possibly none intended)* — a holiday celebrating the city's own defining gathering tradition, consistent with the fact that the tradition itself was never formally named either
 
 ---
 
@@ -238,7 +240,7 @@ The rugged, glaciated Livingston Island terrain registers first, followed by the
 
 ## 28. The Visitor-to-Resident Transition
 
-Becoming a local at Juan Carlos means genuine participation in the tertulia — being invited into a hosted gathering, understanding its implicit rules and expectations, and learning that the argument itself, not winning it, is the actual point.
+Becoming a local at Juan Carlos means genuine participation in the city's own hosted gathering tradition — being invited to one, understanding its implicit rules and expectations, and learning that the argument itself, not winning it, is the actual point.
 
 ---
 
@@ -267,4 +269,4 @@ Becoming a local at Juan Carlos means genuine participation in the tertulia — 
 
 ## 32. Diaspora Character in Concordia
 
-Juan Carlos refugees are among the most culturally legible arrivals in Concordia, given the tertulia's genuine adaptability across districts. In Leo, the tertulia format spreads beyond the refugee community entirely, becoming a recognized social institution — the late-night argument circle anyone can attend, generating both real intellectual exchange and reliable social drama, its structure mapping almost directly onto Leo's own known-face-to-district-legend social hierarchy. In Taurus, Juan Carlos refugees recreate the island's close-knit neighborhood intimacy with unusual ease, quickly adopted into existing family networks. In Pisces, the same fluid boundary between the intellectual, the artistic, and the transgressive that the tertulia already embodies — bleeding into other, less structured spaces — resonates with refugees who find Leo's hierarchies too rigid or Taurus's expectations too settled, introducing Juan Carlos's own aesthetic sensibility (the relationship between beauty and melancholy, echoed in its cantaor-adjacent musical style) into Pisces' existing syncretic culture.
+Juan Carlos refugees are among the most culturally legible arrivals in Concordia, given the genuine adaptability of their own hosted-gathering tradition across districts. In Leo specifically, that tradition doesn't survive as a recognized, named institution — it dissolves into something looser and ambient, converging with Shirayuki's and Janbogo's own diaspora populations into an unnamed, time-of-day-dependent social activity: small clusters of humans and robots arguing good-spiritedly over food, drinks, and snacks, with no name and no organizer, its loose shape still owing something to Leo's own known-face-to-district-legend social hierarchy. In Taurus, Juan Carlos refugees recreate the island's close-knit neighborhood intimacy with unusual ease, quickly adopted into existing family networks. In Pisces, the same fluid boundary between the intellectual, the artistic, and the transgressive that the city's own gathering tradition already embodied — bleeding into other, less structured spaces — resonates with refugees who find Leo's hierarchies too rigid or Taurus's expectations too settled, introducing Juan Carlos's own aesthetic sensibility (the relationship between beauty and melancholy, echoed in its cantaor-adjacent musical style) into Pisces' existing syncretic culture.

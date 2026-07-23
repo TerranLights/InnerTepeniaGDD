@@ -8,11 +8,12 @@ Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
 **Uses 1 of Palmer subnet's 8 cities (Juan Carlos, as ruins and archive)**.
 
-**Deliberately avoids the tertulia** (flagged 2026-07-21 for possible full removal — see
-`project_tertulia_flagged_for_removal` memory and `TODO.md`) **and doesn't duplicate "The Archivist's
-Trail"** (the already-established DLC 1 cross-DLC bypass content built around one archivist's personal
-backup notes). This chain uses a different part of Juan Carlos's own established function — the formal
-archive's actual vetting records — material neither of those two already-spoken-for threads touches.
+**Deliberately doesn't develop Juan Carlos's own hosted-gathering tradition** (an ambient, unnamed social
+practice, not a discrete named institution to route around — see `TODO.md`'s own 2026-07-22 resolution)
+**and doesn't duplicate "The Archivist's Trail"** (the already-established DLC 1 cross-DLC bypass content
+built around one archivist's personal backup notes). This chain uses a different part of Juan Carlos's own
+established function — the formal archive's actual vetting records — material neither of those two
+already-spoken-for threads touches.
 
 ---
 
@@ -30,8 +31,8 @@ archive's actual vetting records — material neither of those two already-spoke
   -facing," never developing Sejong's own complex inter-community diplomatic apparatus — a quiet, coherent
   community with little established practice at the kind of open, contested negotiation this chain's climax
   requires.
-- **Explicitly excluded:** any claim about the tertulia as a civic institution or export; any content
-  duplicating the specific discovery-trail already established for DLC 1's own bypass gift.
+- This chain doesn't otherwise develop Juan Carlos's own social gathering tradition, and doesn't
+  duplicate the specific discovery-trail already established for DLC 1's own bypass gift.
 
 ---
 
@@ -103,7 +104,7 @@ choosing at the end, so none reads as a disguised And Then.
 
 This candidate's core asset is that it finds new, previously-untouched dramatic material in Juan Carlos's
 own established archive function without competing with either of the two threads already built from it —
-the tertulia (flagged for possible removal) and "The Archivist's Trail" (already DLC 1's own established
+the city's own unnamed gathering tradition and "The Archivist's Trail" (already DLC 1's own established
 content). It's also the first Palmer subnet candidate whose central injustice is bureaucratic and uneven
 rather than a single dramatic act — the harm here was done through inconsistency and neglect, generations
 ago, by people who genuinely believed they were protecting something, which makes it harder to resolve

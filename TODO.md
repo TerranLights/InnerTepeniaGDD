@@ -52,21 +52,39 @@ outliving its founders). Full writeup with rationale for each:
 the name needs updating in `Local_Cultures/Palmer_Subnet/Marambio.md` (Section 5),
 `Full_City_Integrity_Check.md`, `TODO.md`'s own historical entries, and `City_Vision_Notes/Marambio.md`.
 
-## The Tertulia Concept — flagged 2026-07-21, deliberately deferred, possible removal
+## RESOLVED — The Tertulia Name Removed, 2026-07-22
 
-Flagged by the developer for possible removal altogether, not just from any single quest — reconsider later,
-not resolved now. The tertulia (a hosted, argument-driven gathering, established as Juan Carlos's defining
-civic institution and its most significant cultural export) is currently load-bearing in several places:
-`Local_Cultures/Palmer_Subnet/Juan_Carlos.md` (Sections 6, 8, 10, 13, 15, 17-19, 25, 28, 32 all build on it —
-essentially the city's whole defining civic identity), and Concordia's own diaspora lore in the Leo, Taurus,
-and Pisces districts (three separate present-day expressions of the same tradition, per Section 32). It also
-surfaced as the premise of a DLC 3 main-questline candidate (`Storyline/DLC-Questlines/Palmer/`), which was
-removed once the tertulia idea itself was called into question rather than rewritten around a substitute
-concept. **If this is eventually removed:** Juan Carlos would need a different defining civic institution to
-replace it (its whole "coherence over negotiation," "the Federation's memory" identity currently routes
-through the tertulia specifically), and the three Concordia district connections (Leo, Taurus, Pisces) would
-each need either a different source tradition or their own tertulia-shaped hole acknowledged and addressed.
-Not scoped further until the developer decides whether removal is actually wanted.
+Flagged 2026-07-21 for possible removal altogether. Resolved 2026-07-22: the developer chose to keep the
+underlying tradition (a hosted, argument-driven gathering, Juan Carlos's own defining civic institution and
+its most significant cultural export) but strip the name "tertulia" from it entirely, everywhere in the
+repo — the developer's own words: *"I can't allow you to keep interjecting the word 'Tertulia' into my
+work."* The tradition is now unnamed, both at Juan Carlos itself and in its Concordia diaspora expressions —
+consistent, it turns out, with how the practice actually behaves in-fiction: nobody in-world ever called it
+anything either.
+
+Every repo mention was swept and reworded (not a blind find-replace — each instance was reworded in context):
+`Local_Cultures/Palmer_Subnet/Juan_Carlos.md` (all ten-plus sections that built on it), the full Juan Carlos
+Megasheet trio plus its README, `City_Vision_Notes/Juan_Carlos.md` and `City_Vision_Notes/Sejong.md`,
+`Neo-Races-and-Cultures/Palmer_Subnet/Juan_Carlos/Juan_Carlos_Catalog.md`, six Course of Events files plus
+the Suggestions file they're drawn from, `Palmer_Subnet_Enhancement_Opportunities.md`,
+`Neo-Races-and-Cultures/_Method/Progress_Tracker.md`, `Worldspace/Factions/City_Origin_Factions_Second_Interwar.md`,
+`Worldspace/Factions/Cross_City_Cultural_Patterns.md`, `City_History_Consistency_and_Enhancement_Tracker.md`,
+`City_Refugee_District_Affinities.md`, and two Palmer DLC main-questline candidates (#08, #25) that had
+explicitly excluded it by name.
+
+**A genuine, separate piece of new lore came out of resolving this**, rather than just a rename: Leo
+district's own established diaspora populations (Juan Carlos's own top-2 district affinity, Shirayuki's own
+top-1, Janbogo's own top-2) converge there in the present day into an unnamed, ambient, time-of-day-dependent
+social activity — small clusters of humans and robots arguing good-spiritedly over food, drinks, and snacks,
+with no name and no organizer. Written into `District_Megasheets/03_Leo/Leo_Mega_Init.md` and its README.
+Full reasoning chain (why Zhongshan and Shirayuki couldn't have originated the tradition at Juan Carlos
+itself, why the convergence can only be a recent, still-forming post-war phenomenon rather than something
+from the Second Interwar Period) preserved in this session's own conversation history, not duplicated here.
+
+Some older chronological entries further down this same file (and a few other historical-log-style
+documents) still narrate the tradition by its old name as a plain statement of what was true *at the time*
+those entries were written — consistent with this file's own standing convention of correcting stale facts
+inline rather than rewriting history, those are left as historical record, not silently changed.
 
 ## Megacorp Post-Falkland-Treaty Fate — flagged 2026-07-20, deliberately deferred
 

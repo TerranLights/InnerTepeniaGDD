@@ -3,7 +3,7 @@
 **Scope note:** all ten chains below are set strictly *before* the Long Night War, during the Second
 Interwar Period when Tepenia is a full, functioning country — no war damage, no post-war/present-day
 material (Juan Carlos's own eventual destruction is out of scope here). 10 candidate But/Therefore
-chains built from Juan Carlos's Megasheet (the tertulia tradition, Tepenia's first bureaucratic
+chains built from Juan Carlos's Megasheet (the city's own unnamed gathering tradition, Tepenia's first bureaucratic
 archive, the quiet island city with an outsized invisible responsibility). Post-settlement only;
 nothing here is canon.
 
@@ -49,11 +49,11 @@ personal obsession quietly shaping the whole institution's later reputation.
 
 Juan Carlos's residents want more from their social life than ordinary gathering. **But** a fully open,
 unstructured meeting risks becoming shapeless — conversation without direction or real substance.
-**Therefore** the tertulia takes hold instead — a hosted gathering, guest list and implied topic
+**Therefore** the city's own hosted gathering tradition takes hold instead — guest list and implied topic
 included, real intellectual expectation built into the invitation itself. **But** structuring
 conversation this deliberately risks making it feel performative rather than genuine. **Therefore** it
 doesn't — argument becomes something residents genuinely enjoy pursuing as its own worthwhile
-practice, not a contest to be won or a tension to be avoided, exactly the register a well-run tertulia
+practice, not a contest to be won or a tension to be avoided, exactly the register a well-run gathering
 is supposed to strike.
 
 ## 5. Everything Moves Inland
@@ -73,7 +73,7 @@ without losing the civic identity that role had already given it.
 Juan Carlos's archive function relocates inland, taking the practical work with it. **But** the city's
 own residents don't simply stop thinking of themselves as record-keeping, memory-holding people just
 because the physical function moved. **Therefore** a quiet, proud self-image persists anyway,
-expressed now through the tertulia tradition rather than literal archives — the same underlying
+expressed now through the city's own unnamed gathering tradition rather than literal archives — the same underlying
 impulse toward preserved, spoken, and argued knowledge as a civic good, carried forward in a different
 form. **But** claiming a title this significant without the literal function to back it up risks
 sounding like empty nostalgia. **Therefore** residents wear it lightly instead, half-joking about being
@@ -130,7 +130,7 @@ founding culture that never had to fight as hard as most to remain genuinely leg
 
 ## 11. The Labor Beneath the Argument
 
-Juan Carlos runs two economies at once — the celebrated archive-and-tertulia tradition, and the
+Juan Carlos runs two economies at once — the celebrated archive-and-gathering tradition, and the
 unglamorous fishing fleet that actually feeds the city, staffed disproportionately by its UK- and
 France-descended residents. **But** nobody has ever framed the gap between the two as a problem, since
 the two simply run in parallel, unremarked. **Therefore** it takes a hard coincidence to force the
@@ -138,7 +138,7 @@ question into the open — a civic anniversary observed on schedule the same wee
 Drake Passage weather, the city's fluency at ceremony suddenly, visibly, never having been extended to
 the labor that keeps it fed. **But** meeting that gap honestly means changing what the city's single most
 prestigious institution actually contains, not just offering a one-off memorial. **Therefore** hosting
-rights at the tertulia — previously implicitly archive-and-argument-coded — are extended on record to
+rights at the city's own gatherings — previously implicitly archive-and-argument-coded — are extended on record to
 fishing captains and crews, maritime loss and labor becoming legitimate subjects for the same hosted,
 serious argument the tradition already takes seriously, closing a gap the city itself never noticed it
 was carrying.
@@ -152,5 +152,5 @@ relocation — giving the Megasheet's own central premise (a quiet city that bec
 Tepenia's institutional memory) an actual causal sequence. **#6** is the most emotionally resonant
 thread, since it's the only one that gives the city's own self-mythologized identity a concrete shape
 surviving past the practical function that originally earned it. **#11** is the only chain that reaches
-outside the archive/tertulia register entirely, giving the city's other, unglamorous economy — and the
+outside the archive/gathering register entirely, giving the city's other, unglamorous economy — and the
 populations who actually work it — a real stake in Juan Carlos's most prestigious civic institution.

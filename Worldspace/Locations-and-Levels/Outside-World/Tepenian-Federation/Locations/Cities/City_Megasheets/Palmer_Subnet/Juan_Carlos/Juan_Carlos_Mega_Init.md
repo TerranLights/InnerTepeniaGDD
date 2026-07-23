@@ -33,7 +33,7 @@ But Juan Carlos's real historical weight had nothing to do with its size or its 
 
 ## What It Feels Like
 
-Settled and coherent — Juan Carlos never had to constantly define itself against immediate neighbors the way Sejong did. Its defining social institution is the **tertulia**: not an open gathering but a hosted one, with a guest list, an implied topic or sensibility, and real intellectual expectation — argument pursued as its own worthwhile, even joyful civic practice, not something to be won or avoided. The city's whole rhythm follows the practical demands of maritime access and Livingston Island's genuinely rugged, glaciated terrain rather than any light cycle, since the island sits far enough north to have neither true polar night nor midnight sun.
+Settled and coherent — Juan Carlos never had to constantly define itself against immediate neighbors the way Sejong did. Its defining social institution has no name, even locally: a hosted gathering, not an open one, with a guest list, an implied topic or sensibility, and real intellectual expectation — argument pursued as its own worthwhile, even joyful civic practice, not something to be won or avoided. The city's whole rhythm follows the practical demands of maritime access and Livingston Island's genuinely rugged, glaciated terrain rather than any light cycle, since the island sits far enough north to have neither true polar night nor midnight sun.
 
 Beneath that quiet, coherent surface sat an outsized, almost invisible national responsibility — a founding-era archive function that most residents likely thought of as ordinary administrative work, not as the seed of Tepenia's entire institutional memory.
 
@@ -57,7 +57,7 @@ Began as a genuinely modest, secluded hermitage — an Irish monk withdrawing in
 
 A declining market town saved entirely by one resident's specific, eccentric vision: Richard Booth's 1960s idea to fill the town with secondhand bookshops, which by the 1970s had made Hay the world's first "book town." Booth then declared Hay an independent kingdom in 1977, crowning himself "Richard Cœur de Livre" — a deliberate, self-mythologizing civic identity built entirely around books, now home to one of the world's largest literary festivals, "the Woodstock of the Mind."
 
-**What this gives Juan Carlos:** a concrete model for how a town's whole civic self-image can crystallize around textual/intellectual preservation as an identity, not just a function — and a genuine question worth asking of Juan Carlos's own culture: does its archive heritage, even after the practical function relocated to Amundsen Station, leave behind a similar self-mythologizing civic identity, where residents still think of themselves as fundamentally "record-keeping," "memory," or "argument" people long after the actual bureaucratic work moved elsewhere? The already-established tertulia tradition — argument and intellectual exchange treated as genuine civic practice — reads as exactly this kind of residue: not literal book-keeping, but the same underlying impulse toward valuing preserved, spoken, and argued knowledge as a communal good.
+**What this gives Juan Carlos:** a concrete model for how a town's whole civic self-image can crystallize around textual/intellectual preservation as an identity, not just a function — and a genuine question worth asking of Juan Carlos's own culture: does its archive heritage, even after the practical function relocated to Amundsen Station, leave behind a similar self-mythologizing civic identity, where residents still think of themselves as fundamentally "record-keeping," "memory," or "argument" people long after the actual bureaucratic work moved elsewhere? The already-established, unnamed gathering tradition — argument and intellectual exchange treated as genuine civic practice — reads as exactly this kind of residue: not literal book-keeping, but the same underlying impulse toward valuing preserved, spoken, and argued knowledge as a communal good.
 
 ### Secondary: Wolfenbüttel, Germany
 
@@ -86,7 +86,7 @@ its literal recordkeeping role" entirely, retaining only the civic identity that
 it (exact relocation timing itself remains open, above). Also resolved: whether Juan Carlos's civic
 identity carries a Hay-on-Wye-style self-mythologized "we are the memory-keepers" pride distinct from
 the archive's own practical relocation — per Course of Events Suggestion #6, "The Federation's Memory,"
-it does, expressed through the tertulia tradition and worn with "wry, self-aware pride rather than
+it does, expressed through the city's own unnamed gathering tradition and worn with "wry, self-aware pride rather than
 solemn civic reverence."
 
 ---

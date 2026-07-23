@@ -163,9 +163,9 @@ undifferentiated trait. Moving to the Palmer subnet next.
   **Enhancement opportunities found:** the Catalog draws a specific administrative-vs-labor split across
   nations (USA/Germany lean institutional-memory-forward via New Bedford/Bremerhaven; UK/France lean
   pure fishing-labor via Grimsby/Boulogne) plus Spain's unique namesake-ownership claim tied specifically
-  to the tertulia tradition, and flags Italy as a genuinely new "no strong match on either axis" category
+  to the city's own unnamed gathering tradition, and flags Italy as a genuinely new "no strong match on either axis" category
   distinct from the established Brazil pattern. None of the 10 existing stages differentiate which nation
-  drives which facet of the shared archive/tertulia identity.
+  drives which facet of the shared archive/gathering-tradition identity.
 - [x] **Marambio** — Fixed: `Local_Cultures/Palmer_Subnet/Marambio.md` had a stale "Census II rank 21st"
   (current table has it at 22nd, same row as Census I — same stale-rank pattern as prior cities). Spot-
   checked 1 of 10 Course_of_Events files (#3, "Whoever Runs It Now") plus all Megasheet/Enneagram/Vision/

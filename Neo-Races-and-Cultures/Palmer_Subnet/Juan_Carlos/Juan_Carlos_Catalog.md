@@ -214,22 +214,23 @@ direct **namesake connection** — the real Spanish Antarctic base is literally 
 after Spain's own King Juan Carlos, which this Tepenian city is itself named for. City-Type carried by
 Vigo, Spain's largest fishing port, an especially fitting match given that direct naming link.
 
-**Major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Juan_Carlos.md`:** Juan Carlos's
-own defining civic institution is **the tertulia** — a hosted, guest-listed, argument-as-art-form
-gathering — already established as exported directly into Concordia (surviving today in the Leo,
-Taurus, and Pisces districts). This should have anchored Spain's own entry from the start; the earlier
-draft captured only the port/namesake angle and missed the city's single most specific, already-
-developed piece of civic culture.
+**Major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Juan_Carlos.md`, name removed
+2026-07-22 per developer direction:** Juan Carlos's own defining civic institution is an unnamed hosted,
+guest-listed, argument-as-art-form gathering — already established as exported directly into Concordia
+(surviving today in the Leo, Taurus, and Pisces districts). This should have anchored Spain's own entry
+from the start; the earlier draft captured only the port/namesake angle and missed the city's single
+most specific, already-developed piece of civic culture.
 
 #### Surface Culture findings
 - **Food:** Vigo's own real major-fishing-port culinary tradition.
 - **Flags:** *(deferred, per standing convention.)*
-- **Festivals:** no strongly distinct local variant surfaced beyond the tertulia tradition below.
+- **Festivals:** no strongly distinct local variant surfaced beyond the gathering tradition below.
 - **Fashion:** no strongly distinct local variant surfaced.
 - **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** no strongly distinct local variant surfaced.
-- **Performances:** the tertulia itself — structured, hosted intellectual argument as a genuine social
-  art form, not casual conversation; guest lists and hosting rights carry real social weight.
+- **Performances:** the gathering tradition itself — structured, hosted intellectual argument as a
+  genuine social art form, not casual conversation; guest lists and hosting rights carry real social
+  weight.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** no strongly distinct local variant surfaced.
@@ -244,15 +245,15 @@ developed piece of civic culture.
 - Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
 - Personal space, touching, body language: no strongly distinct local variant surfaced.
 - Conversational patterns in different social situations: argument conducted as hosted, almost
-  ceremonial performance via the tertulia, rather than something to be minimized or avoided.
+  ceremonial performance via the gathering tradition, rather than something to be minimized or avoided.
 - Handling and displaying of emotion: no strongly distinct local variant surfaced.
 - Tone of voice: no strongly distinct local variant surfaced.
 
 **Notions of:**
 - Courtesy and manners: guest-listing and hosting rights carry real social weight — being invited to,
-  or hosting, a tertulia is a genuine marker of social standing.
+  or hosting, one of these gatherings is a genuine marker of social standing.
 - Friendship, leadership: leadership tied to hosting rights and skill at structured argument, echoing
-  the tertulia tradition.
+  the gathering tradition.
 - Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
 **Concepts of:**
@@ -267,14 +268,14 @@ developed piece of civic culture.
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
 - Rule expectations, work, authority: no strongly distinct local variant surfaced.
 - Cooperation vs. competition: argument itself treated as a valued, structured social practice via the
-  tertulia, rather than avoided or suppressed.
+  gathering tradition, rather than avoided or suppressed.
 - Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
 **Approaches to:**
 - Religion, courtship, marriage: no strongly distinct local variant surfaced.
 - Raising children, decision-making, problem solving: argument itself as a valued, structured social
-  practice via the tertulia, rather than something to be minimized or avoided; disagreement conducted as
-  hosted, almost ceremonial performance.
+  practice via the gathering tradition, rather than something to be minimized or avoided; disagreement
+  conducted as hosted, almost ceremonial performance.
 
 ---
 
@@ -453,10 +454,11 @@ genuinely coherent through relative isolation — the explicit, deliberate count
 contrast-defined identity, paired together in a shared faction, "Coherence vs. Contrast." Where Sejong
 (this project's other densely multinational Palmer subnet city, also retroactively audited) defines
 itself relationally, against its neighbors, Juan Carlos defines itself by having had the isolation to
-settle into one coherent identity undisturbed. The tertulia — a hosted, guest-listed,
-argument-as-art-form gathering, already established as exported directly into Concordia's Leo, Taurus,
-and Pisces districts — is that coherent identity's single most concrete, already-developed expression,
-and belongs at the center of this city's neo-culture rather than as a minor Spain-specific detail.
+settle into one coherent identity undisturbed. Its own unnamed hosted, guest-listed,
+argument-as-art-form gathering tradition, already established as exported directly into Concordia's Leo,
+Taurus, and Pisces districts, is that coherent identity's single most concrete, already-developed
+expression, and belongs at the center of this city's neo-culture rather than as a minor Spain-specific
+detail.
 
 Juan Carlos reads as a genuine **fishing-port-plus-archive city**, with USA, Germany, France, and UK
 all converging on real maritime-labor and administrative-record traditions (New Bedford, Bremerhaven,

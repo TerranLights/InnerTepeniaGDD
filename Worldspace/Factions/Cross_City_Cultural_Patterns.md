@@ -76,8 +76,8 @@ as a wholly new faction slot rather than a fit for an existing one.
 ## Pattern B: Cultures as living, distributed entities — spreading and evolving independent of founding nation
 
 **Explicitly reframed 2026-07-21 at the developer's direction: founding-nation-of-origin is not a valid lens
-here** — an earlier draft of this pattern cited the tertulia (a hosted, argument-driven gathering) as
-originating at Juan Carlos because of Spain's Significant-tier presence there; that's the same
+here** — an earlier draft of this pattern cited Juan Carlos's own unnamed hosted, argument-driven gathering
+tradition as originating there because of Spain's Significant-tier presence; that's the same
 country-of-founding logic already ruled out project-wide (see `feedback_no_national_stereotypes`), so that
 example is dropped entirely. What actually holds up, checked directly against city-level (not district-level)
 material, is real cultural *practices* — mostly music, born from local material conditions rather than

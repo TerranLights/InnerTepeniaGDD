@@ -48,7 +48,7 @@ change is already underway regardless. Both take the city's founding character s
 about whether protecting it requires formal defense.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a Spanish-heritage
-cultural figure — perhaps a tertulia host known for foregrounding Spanish language and custom — invested in
+cultural figure — perhaps a host of the city's own gathering tradition known for foregrounding Spanish language and custom — invested in
 guaranteeing the culture's centrality rather than trusting to chance. Character B is plausibly a newer
 arrival, or a resident with mixed heritage, who has personally benefited from the city's uncontested,
 non-hierarchical civic character and doesn't want to see it replaced with a formally defended cultural
@@ -72,8 +72,8 @@ fight as hard as most to remain genuinely legible within it.
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
 Because Spanish heritage's persistence was never formalized into law, curriculum, or official designation,
-the specific things that actually carry it forward stay informal and portable — the tertulia, particular
-food and language habits practiced socially — rather than anything codified that a change in demographics or
+the specific things that actually carry it forward stay informal and portable — the city's own unnamed
+gathering tradition, particular food and language habits practiced socially — rather than anything codified that a change in demographics or
 policy could later strip away.
 
 ---

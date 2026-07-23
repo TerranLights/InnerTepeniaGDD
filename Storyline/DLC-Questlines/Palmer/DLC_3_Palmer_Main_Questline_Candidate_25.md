@@ -18,11 +18,11 @@ chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
   anyone finish judging."
 - **Juan Carlos's own established comparison case** (same Throughway) — identical founding circumstances to
   Sejong's own, but a genuinely different outcome (a singular, isolated institution rather than a
-  coexistence experiment), used here strictly for contrast, not for any tertulia-related content.
+  coexistence experiment), used here strictly for contrast.
 - **Signy's own established isolation** (Cross-City Patterns, Pattern 5), used here as a useful baseline: a
   city that never faced Sejong's own coexistence question at all.
-- **Explicitly excluded:** any claim about Juan Carlos's own tertulia tradition, per this project's own
-  standing deferral — Juan Carlos appears here only for its established isolation-versus-density comparison.
+- Juan Carlos appears here only for its established isolation-versus-density comparison with Sejong — this
+  chain doesn't otherwise develop Juan Carlos's own social life.
 
 ---
 

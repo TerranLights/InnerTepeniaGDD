@@ -47,7 +47,7 @@ alarmist; they're weighing foresight against faith in what has worked so far.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a local civic
 administrator or planner, professionally inclined to build institutions ahead of need rather than react
-after the fact. Character B is plausibly a longtime resident or tertulia host, someone whose whole
+after the fact. Character B is plausibly a longtime resident or host of the city's own gathering tradition, someone whose whole
 experience of the city has been its quiet, self-organizing character, skeptical that formal policy could
 improve on what informal custom has already done well.
 
@@ -78,9 +78,9 @@ the transition.
 ###### The downstream consequence of the 2nd-order change — caused by *it*, not by the original conflict.
 
 Because there is no dedicated on-ramp institution, new arrivals' actual introduction to civic life happens
-primarily through the tertulia itself — being invited into a hosted gathering becomes the de facto, informal
-marker of having genuinely arrived socially in Juan Carlos, folding each new wave of demographic change
-directly into the city's existing intellectual culture rather than into any separate immigrant track.
+primarily through the city's own unnamed gathering tradition — being invited to one becomes the de facto,
+informal marker of having genuinely arrived socially in Juan Carlos, folding each new wave of demographic
+change directly into the city's existing intellectual culture rather than into any separate immigrant track.
 
 ---
 
@@ -89,6 +89,6 @@ directly into the city's existing intellectual culture rather than into any sepa
 
 Juan Carlos's demographic composition keeps shifting gently with ordinary immigration, but with no formal
 assimilation apparatus ever built — newcomers are absorbed directly into the city's existing social fabric,
-chiefly through the tertulia itself, rather than through any dedicated integration institution.
+chiefly through its own unnamed gathering tradition, rather than through any dedicated integration institution.
 
 ---
