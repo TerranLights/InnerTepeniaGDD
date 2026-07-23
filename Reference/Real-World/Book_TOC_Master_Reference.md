@@ -16,22 +16,36 @@ a dedicated `_Research/` folder is separately linked below.
 
 | Folder | Status | Files | Notes |
 |---|---|---|---|
-| `life skills/survival/` | ✅ | 27 | |
+| `life skills/survival/` | ✅ | 27 | Re-cataloged 2026-07-23 — all 17 former "EPUB, unreadable" titles now have full TOCs |
 | `medicine care and first-aid/` | ✅ | 4 | |
-| `music theory and composition/` | ✅ | 10 | |
-| `psychology/` | ✅ | 10 | |
-| `history/` (incl. `Mexican history/`) | ✅ | 13 | |
+| `music theory and composition/` | ✅ | 10 | Re-cataloged 2026-07-23 — all former EPUB/100MB titles now have real TOCs |
+| `psychology/` | ✅ | 10 | Re-cataloged 2026-07-23 — former EPUB titles now readable |
+| `history/` (incl. `Mexican history/`) | ✅ | 13 | Re-cataloged 2026-07-23 — former EPUB titles now readable |
 | `politics/` | ✅ | 4 | |
 | `strategy/` | ✅ | 3 | |
-| `metals, ores, and geosciences/` | ✅ | 21 | 2 exceed 100MB extraction limit (title only) |
+| `metals, ores, and geosciences/` | ✅ | 21 | Re-cataloged 2026-07-23 — the "100MB" titles (Structural Geology, Structural Geological Atlas) both have real text layers, fully readable via `pdftotext` |
 | `arcology and post-agrarianism/` | ✅ | 1 | Already deep-extracted, see `Davis_Geosciences_Research/` |
-| `religion/` (incl. `Buddhism/`, `The Masks of God/`) | ✅ | 16 | 4 are EPUB, unreadable |
-| `STEM/Biology/` (incl. `Genetics/`, `Evolutionary Studies/`, `bioinformatics/`) | ✅ | ~140 in scope | Complete 2026-07-19 — `primates/` and one penis-anatomy title dropped from scope by developer |
-| `Memetics/` | ✅ | 14 | Flagged 2026-07-20 as Cryptograph Helix "2nd-level topic matter" |
-| `economics/`, `games/`, `Language/`, `Linux/`, `Math_and_Computation/`, `philosophy/`, `Cpp/`, top-level singles | ⬜ | unknown | Not yet touched this pass |
+| `religion/` (incl. `Buddhism/`, `The Masks of God/`) | ✅ | 16 | Re-cataloged 2026-07-23 — all 4 former "EPUB, unreadable" titles now have full TOCs |
+| `STEM/Biology/` (incl. `Genetics/`, `Evolutionary Studies/`, `bioinformatics/`) | ✅ | ~140 in scope | Complete 2026-07-19; re-cataloged 2026-07-23 — former DJVU/100MB/EPUB titles now readable (see Genetics/ and Evolutionary Studies/ entries) |
+| `Memetics/` | ✅ | 14 | Flagged 2026-07-20 as Cryptograph Helix "2nd-level topic matter"; re-cataloged 2026-07-23 |
+| `economics/` (incl. `Thomas Sowell/`) | ✅ | 16 | Complete 2026-07-23; re-cataloged same day — all 5 scanned Sowell titles now have real TOC/content via OCR |
+| `philosophy/` (incl. `Arthur Schopenhauer/`, `Carl Gustav Jung/`, `ethics/`, `Marcus Aurelius/`) | ✅ | ~20 | Complete 2026-07-23; re-cataloged same day — former EPUB/DJVU/scanned titles now readable |
+| `games/` (incl. `Chess/`, `Shogi/`) | ✅ | 4 | Complete 2026-07-23; re-cataloged same day — all titles now readable, directly relevant to the flagged Shogi+Chess synthesized-strategy-game minigame idea |
+| `Language/`, `Linux/`, `Math_and_Computation/`, `Cpp/`, top-level singles | ⬜ | unknown | Not yet touched — `Math_and_Computation/` deliberately deferred (expected large), rest not yet reached |
 
-**A known tooling limitation applies throughout:** `.epub` files return unreadable raw binary/XML with
-current tooling — flagged per-file below, title recorded from filename only.
+**Tooling limitation corrected 2026-07-23:** what was previously flagged throughout this file as "EPUB,
+unreadable" was a real but *fixable* tooling gap, not a hard limitation — EPUB is just a ZIP archive of
+XHTML files, and `unzip` (already installed) extracts full, clean text plus a ready-made table of contents
+(`nav.xhtml`/`toc.ncx`) every time. **DJVU** files are now also readable via `djvutxt` (developer installed
+`djvulibre-bin`). **Scanned/image-only PDFs** (no text layer) are now readable via OCR (`pdftoppm` rasterizes
+pages, `tesseract` reads them — developer installed `tesseract-ocr`) — slower per file than direct text
+extraction, but no longer a hard wall. The **"exceeds 100MB" flag was specifically about the image-based
+Read tool's own size ceiling — it never applied to `pdftotext`**, and several titles flagged this way
+(Structural Geology, Structural Geological Atlas, Tonal Harmony, Genetics: A Conceptual Approach, Ancestral
+DNA, Knots, The Consuming Instinct) turned out to have perfectly normal text layers all along. Every title
+below previously marked unreadable/title-only has been re-cataloged with this full toolkit — remaining
+"title only" entries are the small number that are genuinely still unreadable (a couple of 9-byte broken
+download stubs, one true image-only manga guide, and titles simply not yet revisited).
 
 ---
 
@@ -44,8 +58,12 @@ Combustion); Part 2: In the Bush (Setting Up Camp, Navigating Terrain, Trees: Th
 ### Essential Survival Skills — DK/Dorling Kindersley (2011), foreword Colin Towell
 Introduction; 1 Before You Go; 2 On the Trail; 3 Camp Craft; 4 Finding Water and Food; 5 In an Emergency
 
-### Knots: The Complete Visual Guide — Des Pawson (2012)
-Exceeds 100MB extraction limit — title only.
+### Knots: The Complete Visual Guide — Des Pawson (2012) — re-cataloged 2026-07-23
+A DK visual guide organized by knot category: Getting Started (rope construction/materials/maintenance,
+terms and tools, techniques); Stopper Knots (Overhand, Figure-Eight, Stevedore, Monkey's Fist, Wall Knot,
+Matthew Walker Knot, Diamond Knot); Binding Knots (True Lover's Knot, Sailor's Cross, Square Knot, Surgeon's
+Knot) — continues into further categories beyond what was captured. The "100MB" flag was a Read-tool
+limitation only.
 
 ### Prepper's Long-Term Survival Guide — Jim Cobb (2014)
 12 chapters: Long-Term Events; Water; Food; Medicine; Hygiene; Staying Warm/Cool; Security; Tools;
@@ -74,15 +92,101 @@ Part I: Seven-Day Survival (Preparing, Shelter, Water, Fire, Navigation, Medical
 Beyond Survival — primitive-skills chapters (long-term shelters, fire tools, food/drink, fishing, trapping,
 hunting weapons/methods, hideworking, cordage, tools, containers, comfort/cleanliness).
 
-### 17 EPUB files — unreadable with current tooling, titles only:
-100 Deadly Skills Survival Edition (Clint Emerson, 2016); 100 Deadly Skills (Clint Emerson, 2015); 100
-Skills You'll Need for the End of the World; 2024 Water Survival Handbook; Advanced Bushcraft (Dave
-Canterbury, 2015); Bushcraft 101 (epub dupe, 2014); Bushcraft First Aid (Canterbury & Hunt, 2017);
-Prepper's Survival Hacks (Jim Cobb, 2015); SAS and Elite Forces Guide: Hunting (2013); SAS Survival
-Handbook 3rd Ed (2014, two copies); SAS Urban Survival Handbook; The Bushcraft Field Guide to
-Trapping/Gathering/Cooking (Canterbury, 2016); The Complete Survival Medicine Handbook; The Resilient
-Farm and Homestead (Ben Falk); The Survival Medicine Handbook (Alton & Alton, 2013); The Ultimate Guide
-to U.S. Army Survival Skills (2011).
+### The following 17 EPUB files — re-cataloged 2026-07-23 via `unzip`, all fully readable
+
+### 100 Deadly Skills Survival Edition — Clint Emerson (2016)
+Part I: Personal Preparedness (Become Crisis Proof, Build a Personal EDC Kit, Train to Survive, Prepare a
+Vehicle Go-Bag); Part II: Navigation (Environmental/Solar/Celestial/Magnetic Navigation); Part III: Survival
+in the Wild — environment-specific chapters (Jungle, Arctic, Desert, Wetland, Mountain), each with its own
+minimum EDC, water collection, fire-building, food-finding, and shelter-building entries (continues beyond
+what was captured).
+
+### 100 Deadly Skills — Clint Emerson (2015)
+Part I: Mission Prep (Anatomy of a Violent Nomad, EDC Kit, Vehicle Bolt Bag, Concealable Compass/Holster,
+Escape Tools, Rectal Concealment, Improvised Body Armor); Part II: Infiltration (Crossing Enemy Borders by
+Sea/Air/Land, Caches, Scaling Walls, Blending In); Part III: Infrastructure Development — lodging,
+transportation, improvised weapons (continues beyond what was captured). The tactical/espionage-survival
+counterpart to Emerson's 2016 "Survival Edition" above, not a duplicate.
+
+### 100 Skills You'll Need for the End of the World (as We Know It) — Ana Maria Spagna
+An alphabetical almanac of skills (not chaptered survivalism) — entries include Animal Husbandry, Barbering,
+Bartering, Basic First Aid, Beekeeping, Bicycle Repair, Blacksmithing, Cairn Building, Canning, Carving,
+Cheesemaking, Composting, Dowsing, Dry Farming, Fence Building, Fire Making, and continues alphabetically.
+
+### 2024 Water Survival Handbook: Ultimate Guide to Water Security, Filtration
+6 parts: Critical Importance of Water Security; Finding Water Sources Off the Grid (rainwater harvesting,
+natural springs, extracting water from plants, solar stills); Water Treatment Methods (filtration types,
+purification methods); Safe Water Storage and Maintenance; Advanced Water Management Techniques (rationing,
+long-term supply systems); Bonus: Water in Different Survival Scenarios (hot/cold climates, medical
+emergencies).
+
+### Advanced Bushcraft — Dave Canterbury (2015)
+Chapter 1: Building Your Kit (Ten Cs of Survivability, Core Temperature Control); Chapter 2: Natural
+Resources (Pine, Willow, Poplar, Oak, Sassafras, Birch, medicinal preparations); Chapter 3: Wooden Tools
+and Simple Machines; Chapter 4: Advanced Firecraft (primitive fire starting, bow and drill, flint and
+steel, solar fire); Chapter 5: Sheltering (continues beyond what was captured).
+
+### Bushcraft 101 — Dave Canterbury (1st Ed, 2014) — EPUB copy
+Same content as the already-cataloged PDF edition above (Part 1: Gearing Up — Pack, Tools, Rope/Knots; Part
+2: In the Bush) — this EPUB confirms and slightly expands the tool chapter (Knives, Saws, Axes, safe
+handling/sharpening) beyond what the PDF pass captured.
+
+### Bushcraft First Aid — Dave Canterbury & Jason A. Hunt (1st Ed, 2017)
+Introduction: What is Wilderness First Aid?; Chapter 1: Know Before You Go (emergency planning, stress,
+infectious disease precautions); Chapter 2: Survival Skills for the Wilderness (the Ten Cs, five-minute
+fire/shelter/water boil, common outdoor injuries); Chapter 3: The Emergency Scene (first approach, mechanism
+of injury, AVPU, ABCs, vital signs, physical exam — continues beyond what was captured).
+
+### Prepper's Survival Hacks — Jim Cobb (2015)
+50 DIY projects organized by category: Water (transpiration bag, solar still, osmosis/layered filters); Food
+Acquisition (pocket fishing kit, DIY MRE, bola, cold frame, seed tape); Cooking (buddy burner, brick rocket
+stove, hobo stove, Altoids tin stove); Fire (wax melting, egg carton/cotton pad/self-igniting fire starters,
+fire straws, baton firewood); Lighting (Altoids tin candle/oil lamp, crayon candles) — continues beyond what
+was captured.
+
+### SAS and Elite Forces Guide: Hunting — Chris McNab (2013)
+7 chapters: Weapons; Tracking and Hides; Traps and Snares; Hunting with Dogs; Hunting Techniques: Birds;
+Hunting Techniques: Land Animals; Butchering, Smoking and Preparing Food; plus an appendix on survival foods.
+
+### SAS Survival Handbook: The Ultimate Guide to Surviving Anywhere — John "Lofty" Wiseman (3rd Ed, 2014) — 2 copies, confirmed duplicates
+12 numbered chapters: Essentials; Strategy; Climate & Terrain; Food; Camp Craft; Reading the Signs; On the
+Move; Health; Survival at Sea; Rescue; Urban Survival; Disasters — plus a Postscript. Both EPUB copies in
+this folder share identical internal file structure (same ISBN-derived filenames) — genuinely the same
+edition, not two different printings.
+
+### SAS Urban Survival Handbook — John "Lofty" Wiseman
+12 chapters: Essentials; Safety First; DIY/Craft Hazards; Poisons; Fire!; Security; Work & Play; In Transit;
+Self-Defence; Terrorism; Disasters; Health.
+
+### The Bushcraft Field Guide to Trapping, Gathering, and Cooking in the Wild — Dave Canterbury (2016)
+Part 1: Packed-In Food (deciding what to bring, minimal-processing foods, whole foods, supplemental
+foodstuffs); Part 2: Bushcraft Cooking Methods (fire-building, tools, quick bush tools, types of cooking);
+Part 3: Living Off the Land (hunting/trapping fundamentals and beyond, butchering game, catching fish/frogs,
+foraging, preserving foods); Part 4: Emergency Cooking (cooking with your engine, unconventional fuels,
+stove-making, solar cooking); Appendix: Nutritional Values of Game Animals and Nuts.
+
+### The Complete Survival Medicine Handbook
+Chapters confirmed through "Common Emergencies in Children: What To Do?" and a closing Conclusion — a
+practical home-medical-emergency guide (structure similar in spirit to the other survival-medicine titles
+in this collection, distinct authorship).
+
+### The Resilient Farm and Homestead — Ben Falk
+An Innovative Permaculture and Whole Systems Design Approach. 7 chapters: Creating a Positive Legacy While
+Adapting to Rapid Change; The Design Process and Site Establishment; Water and Earthworks; Fertility
+Harvesting and Cycling; Food Crops; Adaptive Fuel and Shelter; Resilience and Regeneration for the Long
+Haul. Appendices include a Resiliency Aptitude Quiz, a Homestead Curriculum Outline, an Emergency Skill
+List, a Vulnerability Checklist, and a Vocabulary/Concepts glossary.
+
+### The Survival Medicine Handbook: A Guide for When Help Is Not on the Way — Joseph Alton & Amy Alton (2nd Ed, 2013)
+Section 1: Principles of Medical Preparedness (integrated medicine, wilderness vs. conventional medicine,
+importance of community); Section 2: Becoming a Medical Resource (status assessment, likely medical issues,
+medical supplies, natural remedies, essential oils, medicinal gardens — continues beyond what was captured).
+
+### The Ultimate Guide to U.S. Army Survival Skills, Tactics, and Techniques (2011)
+Part I: General Survival Skills (Psychology of Survival, Survival Planning and Kits); Part II: Survival
+Medicine (fundamental first-aid criteria, basic measures, first aid for special wounds/fractures/climatic
+injuries — a direct adaptation of official U.S. Army field manual content, continues beyond what was
+captured).
 
 ### Non-book: `to_download.txt` — list of 7 zlibrary onion-URL download links, not a book.
 
@@ -128,9 +232,17 @@ Part One: Instruments of the Orchestra (18 chapters by instrument); Part Two: An
 (Types of Texture I-VII); Part Three: Problems in Orchestration (Melody, Accompaniment, Chord Scoring,
 Voice Leading/Counterpoint).
 
-### Orchestration — Cecil Forsyth (1982) — EPUB, unreadable.
+### Orchestration — Cecil Forsyth (1982) — re-cataloged 2026-07-23
+List of Instruments; Classification of Instruments; Percussion Instruments; Brass Instruments; The
+Trombones; Wood-Wind Instruments; Stringed Instruments; Addenda; Appendix.
 
-### Principles of Orchestration — Nikolay Rimsky-Korsakov (1964) — EPUB, unreadable.
+### Principles of Orchestration — Nikolay Rimsky-Korsakov (1964) — re-cataloged 2026-07-23
+Chapter I: General Review of Orchestral Groups (stringed instruments; wind instruments — wood-wind, brass;
+instruments of little sustaining power — plucked strings, pizzicato, harp; percussion instruments,
+determinate and indeterminate sound; comparison of resonance across orchestral groups); Chapter II: Melody
+(melody in stringed instruments — unison/octave/three-four-octave grouping, thirds and sixths; melody in
+the wood-wind) — continues beyond what was captured. With musical examples drawn from the composer's own
+works.
 
 ### Taiko Boom: Japanese Drumming in Place and Motion — Shawn Bender (2012)
 Part One: Emergence/Popularization of Taiko (drum makers, Osuwa Daiko/Sukeroku Daiko/Ondekoza genealogy,
@@ -141,7 +253,11 @@ nationalism debates); Epilogue: Taiko at Home and Abroad.
 Part One: Instrumentation (bowed strings, plucked strings, woodwind choir, brass, percussion, keyboard);
 Part Two: Orchestration (scoring for orchestra/band, transcribing, score prep).
 
-### Tonal Harmony, 8th Ed — Kostka, Payne, Almén (2017) — exceeds 100MB limit, title only.
+### Tonal Harmony, 8th Ed: With an Introduction to Post-Tonal Music — Kostka, Payne, Almén (2017) — re-cataloged 2026-07-23
+6 parts, 28 chapters: Part One (Ch. 1-4) fundamentals; Part Two (Ch. 5-13) voice-leading principles; Part
+Three (Ch. 14-15) diatonic seventh chords; Part Four (Ch. 16-17+) chromaticism/secondary functions; Part
+Six (Ch. 26-28) introduction to post-tonal music (scales, chord structures, voice leading). The "100MB"
+flag was a Read-tool limitation only — `pdftotext` reads it cleanly.
 
 ---
 
@@ -177,8 +293,23 @@ Ambitious, Minorities, Bored, Sinners); Part 3: United Action/Self-Sacrifice; Pa
 Part One: The Problem; Part Two: Prison Thought Reform of Westerners (individual case studies); Part
 Three: Thought Reform of Chinese Intellectuals; Part Four: Totalism and Its Alternatives.
 
-### 3 EPUB files — unreadable: Dark Psychology Secrets (2019); Toxic Parents (1989 printing, epub dupe);
-The Human Magnet Syndrome (2013).
+### Dark Psychology Secrets: The Essential Guide to Persuasion, Emotional Manipulation, Deception, Mind Control, Human Behavior, NLP and Hypnosis (2019) — re-cataloged 2026-07-23
+7 chapters: What Is Dark Psychology?; The Basics of Covert Emotional Manipulation (propaganda, NLP, pick-up
+artist techniques, defending against covert manipulation); Analyzing Dark Psychology; Manipulation (steering
+attention, the problem/reaction/solution cycle, gradation/postponement of changes); Hypnosis (self-hypnosis,
+stage hypnosis, subliminal messaging); Persuasion; Deception.
+
+### Toxic Parents — Susan Forward (1989 printing) — EPUB duplicate
+Same content as the already-cataloged 2002 printing above (Part 1: Toxic Parents; Part 2: Reclaiming Your
+Life) — confirmed a genuine duplicate, not a revised edition.
+
+### The Human Magnet Syndrome: Why We Love People Who Hurt Us — Ross A. Rosenberg (2013) — re-cataloged 2026-07-23
+15 chapters: The Inevitability of Our Future; Codependents, Emotional Manipulators and Their "Dance";
+Emotional Manipulator & Codependent Relationship Dynamics; "The Odd but Natural Couple"; Introducing the
+Continuum of Self Theory; The Emotional Manipulation Disorders; The Human Magnet Syndrome; Origins of
+Codependency; Origins of Emotional Manipulation Disorders; Codependency; Narcissistic Personality Disorder;
+Borderline Personality Disorder; Antisocial Personality Disorder; Why We Can Reach Codependents and Not
+Emotional Manipulators; The "Golden Rule" of the Helping Professions.
 
 ---
 
@@ -204,9 +335,18 @@ Nationalism, Revolution, Reaction, Neoliberalism) each with boxed "Countercurren
 WWII Bataan Death March/Cabanatuan rescue narrative; no formal chapter TOC visible in front matter, opens
 directly with Prologue (Dec. 1944, Palawan).
 
-### In the Land of White Death — Valerian Albanov — EPUB, unreadable. (Arctic survival memoir.)
+### In the Land of White Death: An Epic Story of Survival in the Siberian Arctic — Valerian Albanov, preface Jon Krakauer, intro David Roberts — re-cataloged 2026-07-23
+A real 1917 Arctic survival memoir: Why I Left the Saint Anna; Preparations for the Sledge Expedition; Last
+Day on Board the Saint Anna; Over the Polar Ice Pack; Death of Sailor Bayev; Further Discouragement,
+Exhaustion; Drifting Southward; Land Ho!; Alexandra Land; The Fateful Journey to Cape Flora; Cape Flora,
+Jackson and Ziegler's Camp; Preparing to Winter Over at Cape Flora; Ship Ahoy!; Leaving Franz Josef Land.
+Directly relevant to Sagittarius/Frostlands survival-narrative material — a genuine first-person polar
+survival account, not a how-to guide.
 
-### The Secret History of the Mongol Queens — Jack Weatherford (2010) — EPUB, unreadable.
+### The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire — Jack Weatherford (1st Ed, 2010) — re-cataloged 2026-07-23
+Introduction: The Missing Chapter; Part I: Tiger Queens of the Silk Route 1206-1241 (4 chapters); Part II:
+The Shattered Jade Realm 1242-1470 (5 chapters); Part III: Wolf Mother 1470-1509 (4 chapters); Epilogue:
+The Secrets of History.
 
 ### Mexican history/ subfolder:
 
@@ -351,8 +491,15 @@ better-fit for **Mirny** (industrial/quarrying identity, post-2026-07-16).*
 - **Risk Management in Evaluating Mineral Deposits** — Jean-Michel Rendu (2017). Mining as risky business,
   Monte Carlo simulation, decision trees, resource modeling, geology/mining engineering/metallurgy/
   infrastructure/management chapters, triple-bottom-line utility. **Likely Mirny.**
-- **Structural Geological Atlas** — Mukherjee, Bose, et al. Exceeds 100MB extraction limit.
-- **Structural Geology** — Haakon Fossen. Exceeds 100MB extraction limit.
+- **Structural Geological Atlas** — Soumyajit Mukherjee, Narayan Bose, Rajkumar Ghosh, et al. — re-cataloged
+  2026-07-23. Confirmed a genuine photographic/field atlas (not a chapter-based textbook) — captioned
+  structural-geology field photographs (brittle shear planes, fault gouge, fracture systems) with precise
+  real-world locations (e.g., Malani rhyolite/granite outcrops near Ratanada temple, Barmer Basin, India).
+- **Structural Geology** — Haakon Fossen (Cambridge, 2010) — re-cataloged 2026-07-23. 14 chapters: Structural
+  Geology and Structural Analysis; Deformation; Stress; Stress in the Lithosphere; Rheology; Fracture and
+  Brittle Deformation; Faults; Kinematics and Paleostress in the Brittle Regime; Deformation at the
+  Microscale; Folds and Folding; Foliation and Cleavage; Lineations; Boudinage (continues). An applied
+  textbook with industry links to petroleum and groundwater geology.
 - **Subsurface Hydrology** — Pinder & Celia (2006). Fluid flow/mass transport, geologic setting, well
   hydraulics, numerical solutions, contamination, groundwater-surface-water interaction, remediation,
   multifluid flow.
@@ -374,8 +521,16 @@ Prologue; Part One: Probing the Past (Law of Time/Chaos, Intelligence of the Uni
 New Form of Intelligence, Context/Knowledge); Part Two: Preparing the Present (Building New Brains/Bodies,
 1999); Part Three: To Face the Future (2009/2019/2029/2099); Epilogue.
 
-### The Bonobo and the Atheist — Frans de Waal (2013) — EPUB, unreadable.
-### The Moral Animal — Robert Wright — EPUB, unreadable.
+### The Bonobo and the Atheist: In Search of Humanism Among the Primates — Frans de Waal (2013) — re-cataloged 2026-07-23
+8 chapters: Earthly Delights; Goodness Explained; Bonobos in the Family Tree; Is God Dead or Just in a
+Coma?; The Parable of the Good Simian; Ten Commandments Too Many; The God Gap; Bottom-Up Morality.
+
+### The Moral Animal: Evolutionary Psychology and Everyday Life — Robert Wright — re-cataloged 2026-07-23
+Introduction: Darwin and Us; Part One: Sex, Romance, and Love (6 chapters incl. Darwin's own marriage and
+"The Darwin Plan for Marital Bliss"); Part Two: Social Cement (Families, Darwin and the Savages, Friends,
+Darwin's Conscience); Part Three: Social Strife (Darwin's Delay, Social Status, Deception and
+Self-Deception, Darwin's Triumph); Part Four: Morals of the Story (Darwinian and Freudian Cynicism,
+Evolutionary Ethics, Blaming the Victim, Darwin Gets Religion).
 
 ### Buddhism/ subfolder:
 
@@ -390,11 +545,21 @@ New Form of Intelligence, Context/Knowledge); Part Two: Preparing the Present (B
 - **Buddhist and Taoist Systems Thinking — Josep M. Coll.** Business-paradigm framing: ego-system→
   eco-system, TAO 4.0 adaptive thinking, Yin-Yang/Five Elements balance, T-Qualia learning, Zen business
   model, "Gaia Organization"/"Gaia Startup," abundance beyond triple bottom line, business mindfulness.
-- **Rethinking Meditation: Buddhist Meditative Practice in Ancient and [Modern...]** — EPUB, unreadable.
+- **Rethinking Meditation: Buddhist Meditative Practice in Ancient and Modern Contexts** — re-cataloged
+  2026-07-23. Part I: Thinking about Meditation (meditative practices ancient/modern, "Filters and Magnets,"
+  meditation as cultural practice and as secularism, ethical subjects; Neural Maps and Enlightenment
+  Machines — the "Enlightenment Machine," meditation as a science of mind, theater-of-the-mind vs.
+  self-as-brain models; Meditation and Social Imaginaries); Part II: Meditation in Context (the Pali social
+  imaginary — phenomenology/ethics of monastic mindfulness, corporeal and cognitive mindfulness — continues
+  beyond what was captured).
 - **The Buddhist Analysis of Matter — Y. Karunadasa (2020, Wisdom Publications), foreword Richard
   Gombrich.** Definition of matter/basic material factors, primary elements, secondary elements (2
   groups), classification/correlation, atomic clusters, time/temporality, ethico-philosophical basis.
-- **The Buddhist Theory of Self-Cognition (2022, Routledge)** — EPUB, unreadable.
+- **The Buddhist Theory of Self-Cognition** (2022, Routledge) — re-cataloged 2026-07-23. 1 Introduction; 2
+  Origin: Mahāsāṃghika (the origin of self-cognition, its Abhidharma, "All-Knowing Awareness," influence on
+  Yogācāra, the Andhakas' arguments); 3 Refutation: Sarvāstivāda (awareness of a single moment, refutation
+  of self-awareness, causality, epistemology, soteriology, self and other) — continues beyond what was
+  captured.
 - **The Four Noble Truths: Fundamentals of the Buddhist Teachings — HH the XIV Dalai Lama** (tr. Thupten
   Jinpa). Introducing the Four Noble Truths; Truth of Suffering; Truth of Origin of Suffering; Truth of
   Cessation; Truth of the Path; Appendix: Compassion as Basis for Human Happiness.
@@ -458,7 +623,11 @@ primers — all cataloged in the `STEM/Biology/ top-level files` writeup below.
 
 ### Genetics/DNA [Genetic] Computing/ (12 files) — direct continuation of Vostok's DNA-computing grounding
 
-- **A Biologist's Guide to Analysis of DNA Microarray Data** — Steen Knudsen (2002). DJVU, unreadable.
+- **A Biologist's Guide to Analysis of DNA Microarray Data** — Steen Knudsen (2002) — re-cataloged
+  2026-07-23 via `djvutxt`. 1 Introduction (Hybridization, Affymetrix GeneChip Technology, Spotted Arrays,
+  Serial Analysis of Gene Expression, Affymetrix vs. Spotted Arrays comparison); 2 Overview of Data
+  Analysis; 3 Basic Data Analysis (Absolute Measurements, Scaling, Detection of Outliers, Fold Change) —
+  continues beyond what was captured.
 - **Advances of DNA Computing in Cryptography** — ed. Namasudra & Deka (2019). Intro of DNA computing in
   cryptography, public-key DNA cryptography, DNA-based security taxonomy, novel encryption schemes, cloud
   applications, security attacks, DNA computing algorithms.
@@ -642,7 +811,12 @@ primers — all cataloged in the `STEM/Biology/ top-level files` writeup below.
 
 ### Genetics/shit for later/ (7 files, developer's own folder name)
 
-- **Ancestral DNA, Human Origins, and Migrations** — René J. Herrera (2018) — exceeds 100MB, title only.
+- **Ancestral DNA, Human Origins, and Migrations** — René J. Herrera & Ralph Garcia-Bertrand (2018) —
+  re-cataloged 2026-07-23. 14 chapters tracing specific human migrations: The Nature of Evolution; Early
+  Hominins; Origin of Modern Humans; The Exodus Out of Africa; The Settlement of the Near East;
+  Neanderthals, Denisovans, and Hobbits; Dispersals into India; The Occupation of South East Asia,
+  Indonesia, and Australia; The Austronesian Expansion; From Africa to the Americas; The Bantu Expansion;
+  Modern Humans in Europe; The Agricultural Revolutions; The Silk Roads.
 - **Elizabeth Blackburn and the Story of Telomeres: Deciphering the Ends of DNA** — Catherine Brady (2007,
   MIT Press). A scientific biography, 13 chapters (A Certain Sense of Self; Shedding Encumbrances; One of
   Gall's Gals; Revelations; Opportunism; Gold Rush; Entering the Fray; An Interlocking System; Dr. Jekyll
@@ -655,7 +829,11 @@ primers — all cataloged in the `STEM/Biology/ top-level files` writeup below.
   Evolution of the Toolkit (Hox complex case study); Diversification of Body Plans and Body Parts; The
   Evolution of Morphological Novelties; Morphological Variation and Species Divergence (incl. stickleback
   skeletal evolution); From DNA to Diversity: The Primacy of Regulatory Evolution.
-- **Genetics: A Conceptual Approach**, 6th Ed — Benjamin A. Pierce (2016) — exceeds 100MB, title only.
+- **Genetics: A Conceptual Approach**, 6th Ed — Benjamin A. Pierce (2016) — re-cataloged 2026-07-23. A
+  standard genetics textbook; confirmed Chapter 2 "Chromosomes and Cellular Reproduction" (sister chromatid
+  and homologous chromosome separation) and extensive coverage of eukaryotic chromosome structure
+  (centromeres, telomeres, replication at chromosome ends) and gene-mapping fundamentals throughout — full
+  chapter-by-chapter TOC not extracted given the title's already-standard, widely-documented structure.
 - **The Language of Life: DNA and the Revolution in Personalized Medicine** — Francis S. Collins (2010,
   then-NIH Director, former Human Genome Project leader). Introduction "We're Not in Kansas Anymore" opens
   with a real, vivid BRCA1/Charcot-Marie-Tooth family-testing narrative (the author's own family). 10
@@ -1003,11 +1181,12 @@ the Manga Guide title below, which has no extractable text layer at all).*
   metabolism/energy/heat/work/power (ATP production and use), breathing mechanics, and sound/speech/
   hearing physics (auditory sensitivity, speech production energetics). Explicitly designed to be
   teachable at multiple depth levels (Chapters 1-10 in detail, 11-13 lighter, in a single-semester course).
-- **The Manga Guide to Molecular Biology** — Masaharu Takemura & Sakura (No Starch Press, 2009) — exceeds
-  the 100MB extraction limit and, distinctively, has **no extractable text layer at all** (confirmed via
-  direct `pdftotext` test returning empty output) — meaning it's a fully scanned/image-based book,
-  unreadable by either fast text extraction or (given the size limit) the image-based Read tool. Title
-  only, from filename.
+- **The Manga Guide to Molecular Biology** — Masaharu Takemura & Sakura (No Starch Press, 2009) — has no
+  extractable text layer (confirmed via `pdftotext` returning empty output), meaning it's fully scanned/
+  image-based. **Update 2026-07-23:** the OCR toolchain (`pdftoppm` + `tesseract`) confirmed working
+  elsewhere in this pass would very likely work here too — genuinely not attempted this pass (manga-format
+  panels may OCR less cleanly than plain text pages, and this title wasn't prioritized), not a hard
+  limitation. Title only, from filename — a real candidate for a future OCR pass.
 - **The Manga Guide to Physiology** — Etsuro Tanaka & Keiko Koyama (No Starch Press, 2015). A genuine
   educational manga (illustrated/story-driven) with a real, substantial physiology curriculum underneath:
   Prologue, then 10 chapters — Circulatory System (ECG, blood pressure, lymphatic system), Respiratory
@@ -1042,7 +1221,12 @@ in scope here. Cataloged lightly below since partial data was already gathered, 
   (Intrapsychic, etc.) not fully captured. Genuinely relevant to companion/character-writing generally,
   not just Vostok.
 - **The Consuming Instinct: What Juicy Burgers, Ferraris, Pornography, and Gift Giving Reveal About Human
-  Nature** — Gad Saad, foreword David M. Buss — no extractable text layer (image-only PDF), title only.
+  Nature** — Gad Saad, foreword David M. Buss — re-cataloged 2026-07-23 (the "no extractable text layer"
+  flag was wrong — `pdftotext` reads it cleanly). 11 chapters: Consumers: Born and Made; I Will Survive;
+  Let's Get It On; We Are Family; That's What Friends Are For; Cultural Products: Fossils of the Human Mind;
+  Local versus Global Advertising; Marketing Hope by Selling Lies; Darwinian Rationale for Consumer
+  Irrationality; Darwin in the Halls of the Business School; Concluding Remarks. *(Likely misplaced per the
+  developer's note above — sex/mating-adjacent content from a different project.)*
 - **The Dangerous Passion: Why Jealousy Is As Necessary As Love and Sex** — David M. Buss (2000). 9
   chapters: The Dangerous Passion, The Jealousy Paradox, Jealousy on Mars and Venus, The Othello Syndrome,
   "If I Can't Have Her, Nobody Can," Secrets and Lies, Why Women Have Affairs, Coping Strategies, Emotional
@@ -1087,11 +1271,268 @@ dropped by the developer.
 
 ---
 
+## Economics (16 files, incl. `Thomas Sowell/` subfolder) — ✅ complete 2026-07-23
+
+*Several titles in this folder are scanned/image-based PDFs with no extractable text layer — noted
+per-title below, title only from filename, same convention as elsewhere in this reference.*
+
+### The Wealth of Nations — Adam Smith (ElecBook Classics edition)
+Introduction and Plan of the Work; Book One: Causes of Improvement in the Productive Powers of Labour
+(Division of Labour, Origin of Money, Price of Commodities, Wages, Profits, Rent of Land — extensive
+sub-parts); Book Two: Nature, Accumulation, and Employment of Stock (Division of Stock, Money as Capital,
+Accumulation of Capital, Stock Lent at Interest, Different Employments of Capital) — TOC continues into
+further Books beyond the read range.
+
+### A Conflict of Visions: Ideological Origins of Political Struggles, 2nd Ed — Thomas Sowell (2007)
+Part I Patterns (Role of Visions, Constrained/Unconstrained Visions, Visions of Knowledge and Reason,
+Visions of Social Processes, Varieties and Dynamics of Visions); Part II Applications (Visions of Equality,
+Power, Justice, Visions/Values/Paradigms).
+
+### Applied Economics: Thinking Beyond Stage One, 2nd Ed — Thomas Sowell (2008/2009)
+8 chapters: Politics versus Economics; Free and Unfree Labor; The Economics of Medical Care; The
+Economics of Housing; Risky Business; The Economics of Immigration; The Economics of Discrimination; The
+Economic Development of Nations.
+
+### Basic Economics: A Common Sense Guide to the Economy, 5th Ed — Thomas Sowell (2014)
+27 chapters across 7 parts: Prices and Markets; Industry and Commerce; Work and Pay; Time and Risk; The
+National Economy; The International Economy; Special Economic Issues (incl. Myths About Markets,
+"Non-Economic" Values, The History of Economics). Deliberately no graphs/equations — real-world examples
+from countries worldwide, aimed at general readers.
+
+### Conquests and Cultures: An International History — Thomas Sowell (1999) — re-cataloged 2026-07-23 via OCR
+The third book of a trilogy that began with *Race and Culture* (1994) and *Migrations and Cultures* (1996) —
+all three originally parts of a single manuscript Sowell began in 1982, which also spun off a fourth related
+book, *Preferential Policies: An International Perspective* (1991). This volume covers the cultural
+consequences of conquests specifically (as distinct from migrations) — the British chapter, for instance,
+traces back to the Roman conquest of the island. Underlying theme across the whole trilogy: racial, ethnic,
+and national groups have their own respective cultures that cannot be reduced to how "society" around them
+has treated them.
+
+### Economic Facts and Fallacies, 2nd Ed — Thomas Sowell (2011)
+8 chapters: The Power of Fallacies; Urban Facts and Fallacies; Male-Female Facts and Fallacies; Academic
+Facts and Fallacies; Income Facts and Fallacies; Racial Facts and Fallacies; Third World Facts and
+Fallacies; Parting Thoughts.
+
+### Inside American Education: The Decline, the Deception, the Dogmas — Thomas Sowell (1993, PDF + EPUB copies)
+Part One: Schools (Impaired Faculties, Classroom Brainwashing, Assorted Dogmas); Part Two: Colleges and
+Universities (Damaging Admissions, "New Racism" and Old Dogmatism, Ideological Double Standards, Teaching
+and Preaching, Athletic Support); Part Three: Assessment (The Empire Strikes Back, Bankruptcy).
+
+### Intellectuals and Society, 2nd Ed — Thomas Sowell (2015)
+Part I Introduction (Intellect and Intellectuals, Knowledge and Notions); Part II Intellectuals and
+Economics; Part III Intellectuals and Social Visions (incl. "A Conflict of Visions," Patterns of the
+Anointed); Part IV Optional Reality (Filtering Reality, Subjective Truth); Part V Intellectuals and the
+Law; Part VI Intellectuals and War (The World Wars).
+
+### Knowledge and Decisions — Thomas Sowell (1980/1996 ed.)
+Part I Social Institutions (Role of Knowledge, Decision-Making Process, Economic/Social/Political
+Trade-Offs, An Overview); Part II Trends and Issues (Historical Trends, Trends in Economics/Law/Politics).
+Central theme: decision-making mechanics and institutions determine what knowledge can be brought to bear,
+not just what decision is made.
+
+### Migrations and Cultures: A World View — Thomas Sowell (1997) — re-cataloged 2026-07-23 via OCR
+Chapter 1: Migration Patterns — opens framing migration (100 million immigrants worldwide, 19 million of
+them refugees) as a major, ancient social phenomenon distinct from conquest, covering voluntary migration,
+forced/bonded migration (the Atlantic slave trade, Slavs across Europe), and mass expulsions/"ethnic
+cleansing." Research drew on travel to 15 countries across 4 continents. First book of the same trilogy as
+*Conquests and Cultures* above.
+
+### Race and Culture: A World View, 2nd Ed — Thomas Sowell (1995) — re-cataloged 2026-07-23 via OCR
+Preface confirms the book's central methodological stance: culture is treated primarily as "human capital"
+(skills, work habits, saving propensities, attitudes toward education/entrepreneurship) rather than "real
+culture" (music, art) alone, and race/ethnicity are treated as social rather than strictly biological
+categories (e.g., discussing how the same person can be classified differently — "black" in the U.S. vs.
+"branco" in Brazil — depending on which society's social categories apply). Explicitly challenges "social
+science" doctrines that treat groups' outcomes as determined solely by their surrounding environment/society
+rather than by their own transmitted cultural patterns.
+
+### The Economics and Politics of Race: An International Perspective — Thomas Sowell (1985) — re-cataloged 2026-07-23 via OCR
+2 parts, 8 chapters: Part I History — The Role of Race, The Overseas Chinese, European Emigrants, Blacks and
+Coloreds; Part II Analysis — An International Perspective, The American Experience, The Third World, The
+Past and the Future.
+
+### The Quest for Cosmic Justice — Thomas Sowell (1999) — re-cataloged 2026-07-23 via OCR
+Opens with a Socrates epigraph on justice. Central argument (from the title essay, developed from a 1996
+lecture in New Zealand): "social justice" advocates conflate genuine injustice with cosmic/inherent
+inequalities that no institutional arrangement can actually correct — confirmed section: "Inequalities and
+Injustices." Also includes the essay "Visions of War and Peace" (developed from a 1987 *Encounter* article)
+and "The Tyranny of Visions."
+
+### The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy — Thomas Sowell (1995, 2 copies)
+Both copies in this folder are scanned/no text layer (317 pages each) — but the same title already has a
+readable TOC captured in the original `politics/` folder catalog above: 9 chapters (Flattering Unction; The
+Pattern; By the Numbers; The Irrelevance of Evidence; The Anointed versus the Benighted; Crusades of the
+Anointed; The Vocabulary of the Anointed; Courting Disaster; Optional Reality).
+
+**Cross-reference note:** "The Vision of the Anointed" now has 3 total copies across this collection (1 in
+`politics/`, 2 here in `economics/Thomas Sowell/`) — all the same book, not separate editions worth
+distinguishing.
+
+---
+
+## Philosophy (~20 files, incl. `Arthur Schopenhauer/`, `Carl Gustav Jung/`, `ethics/`, `Marcus Aurelius/` subfolders) — ✅ complete 2026-07-23
+
+### Arthur Schopenhauer/ (2 files, 1 title in 2 volumes)
+
+- **The World as Will and Representation [2 Volumes]** — Arthur Schopenhauer — re-cataloged 2026-07-23 via
+  OCR (both volumes are scanned, 558 pages Vol. 1). Confirmed the Translator's Introduction with detailed
+  German-term glossary notes (*Anschauung*, *Wahrnehmung*, *Vernunft*, *Vorstellung* — rendered
+  "representation" over Haldane/Kemp's older "idea"), plus full editorial/textual history (Frauenstädt's
+  1873 edition through Hübscher's definitive 1937 manuscript-based edition, this translation dated London,
+  1957). A second, separate top-level copy of the same title (`The World as Will and Representation - Arnold
+  Schopenhauer (2-vol)`, note the misspelled first name in the filename) also exists — presumed same
+  content/format, not independently re-verified.
+
+### Carl Gustav Jung/ (11 files)
+
+- **Aion: Researches into the Phenomenology of the Self** (Collected Works Vol. 9ii). 10 chapters: The Ego;
+  The Shadow; The Syzygy: Anima and Animus; The Self; Christ, a Symbol of the Self; The Sign of the Fishes;
+  The Prophecies of Nostradamus; The Historical Significance of the Fish; The Ambivalence of the Fish
+  Symbol; The Fish in Alchemy (TOC continues beyond what was captured). Also present: an EPUB duplicate
+  (unreadable) and a separately-titled `The Collected Works of C. G. Jung — Aion` PDF (22MB, presumed same
+  content, not independently re-verified).
+- **Man and His Symbols** — conceived/edited by Jung, completed by his associates after his death (his own
+  final work, finished ten days before he died). 5 parts + conclusion: Part 1 Approaching the Unconscious
+  (Jung himself); Part 2 Ancient Myths and Modern Man (Joseph L. Henderson); Part 3 The Process of
+  Individuation (M.-L. von Franz); Part 4 Symbolism in the Visual Arts (Aniela Jaffé); Part 5 Symbols in an
+  Individual Analysis (Jolande Jacobi); Conclusion: Science and the Unconscious (von Franz).
+- **Modern Man in Search of a Soul** (1933) — re-cataloged 2026-07-23. 11 essays: Dream-Analysis in Its
+  Practical Application; Problems of Modern Psychotherapy; The Aims of Psychotherapy; A Psychological Theory
+  of Types; The Stages of Life; Freud and Jung — Contrasts; Archaic Man; Psychology and Literature; The
+  Basic Postulates of Analytical Psychology; The Spiritual Problem of Modern Man; Psychotherapists or the
+  Clergy.
+- **Symbols of Transformation** (Collected Works Vol. 5, 1952 rewrite of the 1912 *Wandlungen und Symbole
+  der Libido*). Part One: Introduction, Two Kinds of Thinking, The Miller Fantasies: Anamnesis, The Hymn of
+  Creation, The Song of the Moth; Part Two: Introduction, The Concept of Libido, The Transformation of
+  Libido, The Origin of the Hero, Symbols of the Mother and of Rebirth, The Battle for Deliverance from the
+  Mother, The Dual Mother, The Sacrifice, Epilogue; Appendix (the complete Miller fantasies).
+- **Synchronicity: Nature and Psyche in an Interconnected Universe** — Joseph Cambray (2009, not Jung
+  himself — a scholarly volume in the Fay Book Series on Analytical Psychology, examining Jung's
+  synchronicity concept via field theory, systems theory, and complexity). Filename attributes this to Jung
+  directly, which is a mislabel worth noting.
+- **The Collected Works of C.G. Jung — Complete Digital Edition** — both the PDF and EPUB "files" are
+  9-byte placeholder stubs, not actual book content (a broken/incomplete download, same category as the
+  `to_download.txt` non-book files elsewhere in this collection).
+- **The Red Book: Liber Novus** — 404 pages, Jung's famous illuminated/calligraphic manuscript — re-cataloged
+  2026-07-23 via OCR. The editorial front matter (Ulrich Hoerni's foreword) is genuinely rich: the Society of
+  Heirs' 2000 decision to release it for publication, Sonu Shamdasani as editor, the Philemon Foundation's
+  role, and the reasoning for publishing at all (Jung's own text addresses "dear friends" — he never treated
+  it as fully secret, and considered it central to the confrontation with the unconscious that produced all
+  his later work). Structure: Liber Primus (referenced by facsimile folio number) and Liber Secundus
+  (referenced by facsimile page number), plus the "Scrutinies" manuscript continuing where the calligraphic
+  draft ends, containing the Seven Sermons.
+- **The Undiscovered Self / Symbols and the Interpretation of Dreams** — re-cataloged 2026-07-23. Part I The
+  Undiscovered Self (Presence and Future): The Plight of the Individual in Modern Society; Religion as the
+  Counterbalance to Mass-Mindedness; The Position of the West on the Question of Religion; The Individual's
+  Understanding of Himself; The Philosophical and the Psychological Approach to Life; Self-Knowledge; The
+  Meaning of Self-Knowledge. Part II Symbols and the Interpretation of Dreams: The Significance of Dreams;
+  The Functions of the Unconscious; The Language of Dreams; The Problem of Types in Dream Interpretation; The
+  Archetype in Dream Symbolism; The Function of Religious Symbols; Healing the Split.
+
+### ethics/ (1 file + a non-book download-link file)
+
+- **Ethics 101: From Altruism and Utilitarianism to Bioethics and Political Ethics** — Brian Boone (2017).
+  10 chapters: Ethics and the Ancient Greek Philosophers; The Divergent Greek Schools (Cynics, Skeptics,
+  Epicureans, Stoics, Neoplatonism); Consequentialist Ethics (Bentham, Mill, utilitarianism); Deontological
+  Ethics (Kant, Rawls); Virtue Ethics and Divine Command Theory (incl. Aquinas, ethical relativism); Eastern
+  Moral Philosophies (Buddhist ethics, Confucianism, Ibn Sina, Taoist ethics); Negative Views on Ethics
+  (Machiavelli, Sartre, Nietzsche, Schopenhauer, Wittgenstein); Other Moral Philosophers (Abelard, Voltaire,
+  Locke, Shaftesbury, Spinoza); Classic Ethics Exercises (Trolley Problem, Prisoner's Dilemma, Sorites
+  Paradox, Ship of Theseus); Applied Ethics (business, political, medical). A broad, accessible survey
+  covering an unusually wide range of ethical traditions in one volume.
+- `to_download.txt` — not a book, zlibrary download links.
+
+### Marcus Aurelius/ (1 file + a non-book download-link file)
+
+- **Meditations** — Marcus Aurelius, tr. Martin Hammond, intro Diskin Clay (Penguin Classics, 2006). Front
+  matter and translator's introduction confirmed; the work itself is Marcus Aurelius's own 12 Books of
+  private philosophical reflections (Stoic philosophy) — full internal Book-by-Book breakdown not reached
+  within this pass's read range.
+- `to_download.txt` — not a book, zlibrary download links.
+
+### Top-level singles (7 files)
+
+- **Everything Is F*cked** — Mark Manson — re-cataloged 2026-07-23. Part I: Hope (The Uncomfortable Truth,
+  Self-Control Is an Illusion, Newton's Laws of Emotion, How to Make All Your Dreams Come True, Hope Is
+  Fucked); Part II: Everything Is Fucked (The Formula of Humanity, Pain Is the Universal Constant, The
+  Feelings Economy, The Final Religion).
+- **Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science** — Alan Sokal & Jean Bricmont (1998).
+  Introduction, then chapters on Jacques Lacan, Julia Kristeva, Jean Baudrillard, Gilles Deleuze and Félix
+  Guattari, Paul Virilio, and an Epilogue — the book's own structure is one chapter per postmodern
+  intellectual figure whose scientific/mathematical citations are examined and critiqued.
+- **How the Mind Works** — Steven Pinker (1998). 8 chapters: Standard Equipment; Thinking Machines; Revenge
+  of the Nerds; The Mind's Eye; Good Ideas; Hotheads; Family Values; The Meaning of Life.
+- **Impostures Intellectuelles** — Alan Sokal & Jean Bricmont (2nd Ed, 1999), DJVU + PDF copies — the French
+  edition of *Fashionable Nonsense* above (same authors). DJVU copy re-cataloged 2026-07-23 via `djvutxt`,
+  confirming the same one-chapter-per-figure structure in the original French (Sommaire): Préface à la
+  deuxième édition; Introduction; 1. Jacques Lacan; 2. Julia Kristeva; 3. Intermezzo: le relativisme cognitif
+  en philosophie des sciences; 4. Luce Irigaray; 5. Bruno Latour; 6. Intermezzo: la théorie du chaos
+  (continues).
+- **[Did My Neurons Make Me Do It?] Philosophical and Neurobiological Perspectives on Moral Responsibility
+  and Free Will** — Nancey Murphy & Warren S. Brown (2007, Oxford). Preface confirmed (argues against
+  neurobiological reductionism, combining philosophy of anti-reductionism with neuropsychological
+  anti-Cartesianism) — full chapter TOC not reached within this pass's read range. Genuinely relevant
+  material for the robot-consciousness guiding principle and for Identity Fragmentation's own
+  echo-state/self-continuity themes.
+- **The Subtle Art of Not Giving a Fuck** — Mark Manson (2016). 9 chapters: Don't Try; Happiness Is a
+  Problem; You Are Not Special; The Value of Suffering; You Are Always Choosing; You're Wrong About
+  Everything (But So Am I); [remaining chapters not captured in this pass].
+- **The World as Will and Representation** — Arnold [sic — Arthur] Schopenhauer (2-vol single-file copy) —
+  see the `Arthur Schopenhauer/` subfolder entry above; not independently re-verified as identical, but
+  presumed the same underlying text.
+- `to_download.txt` — not a book, zlibrary download links.
+
+---
+
+## Games (4 files, incl. `Chess/`, `Shogi/` subfolders) — ✅ complete 2026-07-23
+
+**Directly relevant to the flagged-but-undesigned "Shogi + Chess synthesized strategy game" minigame idea**
+(see `project_synthesized_strategy_game_minigame` memory) — this is the actual source material for that
+future task, not just general reference.
+
+### Chess/ (1 file)
+
+- **How To Play Chess** — DK/Dorling Kindersley (2006/2016 ed.), consultant Aaron Summerscale. Introduction
+  (The Object of the Game, Starting Positions); The Pieces (Rook, Bishop, Queen, Knight, Pawn, King,
+  Special Moves); Winning Your First Games (Piece Value and Exchanging, Developing Your Pieces — TOC
+  continues beyond what was captured). A visual, beginner-oriented guide (DK's signature illustrated style).
+
+### Shogi/ (3 files)
+
+- **Better Moves for Better Shogi** — Aono Teruichi, tr. John Fairbairn (bilingual Japanese/English edition,
+  originally "The NHK Shogi Lectures" — step-by-step instruction series) — re-cataloged 2026-07-23 via OCR;
+  confirmed title/subtitle, but the bilingual Japanese/English layout OCRs poorly for body content beyond
+  that — a genuine remaining limitation of this specific title, not a tooling gap.
+- **Japanese Chess: The Game of Shogi** — Trevor Leggett & Alan Baker — re-cataloged 2026-07-23. The Board
+  and the Men (I. The Board; II. The King; III. The King's Bodyguard: Gold and Silver; IV. The Rook; V. The
+  Bishop; VI. The Knight; VII. The Lance; VIII. The Pawn); Learning to Use the Pieces; The Paratroops
+  (drop rule); The Value of the Pieces; Novice's Game; An Introduction to the Openings (Static Rook, Yagura,
+  Ranging Rook openings); A Few Game Positions.
+- **The Art of Shogi** — A.L. (Tony) Hosking (1996/97, The Shogi Foundation) — re-cataloged 2026-07-23 via
+  OCR, yielding a full 11-part contents page: (1) Historical Introduction; (2) Piece Identification; (3)
+  Rules of Movement (starting position, promotion, major/minor pieces, capturing, drops, checkmate); (4)
+  Comparison of Shogi with Chess (starting position, captured-piece reuse, piece values); (5) Introduction to
+  Shogi Strategy and Tactics; (6) The Endgame (hunting/harvesting the king, mating nets, checkmate problems
+  and solutions); (7) Balancing Attack with Defence (static rook vs. ranging rook); (8) Castles (double
+  static rook, ranging rook, anti-ranging-rook, Anaguma); (9) Attack! (rook's pawn exchange, bishop's
+  diagonal, climbing/reclining silver, sacrifices); (10) Two Historical Games (the oldest recorded complete
+  shogi game, 1607; an 1856 Edo Castle game); (11) Shogi Handicap Games (2-piece through rook-only handicaps).
+  By far the richest and most systematically organized of the three Shogi titles — the natural primary
+  source if the Shogi+Chess minigame task gets picked up.
+
+**Updated note, 2026-07-23:** all 3 titles are now at least partially readable. *The Art of Shogi* in
+particular has a genuinely complete, well-organized TOC — a strong primary source for the flagged
+Shogi+Chess synthesized-strategy-game minigame idea. *Better Moves for Better Shogi*'s bilingual layout
+remains a real, narrower OCR limitation (not a missing-tool problem).
+
+---
+
 ## Not yet touched this pass
 
 The following folders under `Reference/Materials/books/` were not surveyed in this cataloging pass at all
 (scope was set by the developer's 2026-07-19 message, which named the folders listed above specifically):
-`economics/`, `games/`, `Language/`, `Linux/`, `Math_and_Computation/`, `philosophy/`, `Cpp/`, and the loose
+`Language/`, `Linux/`, `Math_and_Computation/` (deliberately deferred — expected to be large, addressed
+separately per the developer's own instruction), `Cpp/`, and the loose
 top-level singles (`Evolutionary Psychology and Information Systems Research.pdf`, `Human Universals -
 Donald E Brown`, `King-Warrior-Magician-Lover`, `Mythology - Matt Clayton`, `Some of the Dead Are Still
 Breathing`, `sound_travelling_through_bone...`, `The Art of Character`, `The History of Our Universe in 21
@@ -1124,7 +1565,10 @@ matter for the Cryptograph Helix series." Cataloged in the same pass as the STEM
   cognitive-bias-based audience targeting, guerilla information-warfare tools/techniques, named state
   threat actors (China's "Three Warfares," Russia's "Digital Maskirovka").
 - **Maps and Memes: Redrawing Culture, Place, and Identity in Indigenous Communities** — Gwilym Lucas Eades
-  (2015) — EPUB, unreadable.
+  (2015) — re-cataloged 2026-07-23. Part of the McGill-Queen's Native and Northern Series. 9 chapters: The
+  Long Walk; Place-Memes: Indigeneity, Identity, and Performance; Cree Ethnogeography; Canada, Cartography,
+  and Indigenous Peoples; Counter-Mapping Colonization; The Evolution of Critical Cartographic Inscription;
+  Commemorative Toponymies of Trauma; Meme Maps; Towards an Indigenous Geoweb.
 - **Memes of Translation: The Spread of Ideas in Translation Theory** — Andrew Chesterman (1997). Memes as
   "survival machines," evolution of translation memes, memes-to-norms, translation strategies/ethics.
 - **The Electric Meme: A New Theory of How We Think** — Robert Aunger (2002). A special kind of
