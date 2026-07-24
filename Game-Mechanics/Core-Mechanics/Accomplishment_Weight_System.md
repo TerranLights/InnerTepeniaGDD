@@ -196,6 +196,73 @@ Calethina reaches her climax faster than one who spreads generic effort evenly a
 
 ---
 
+## Accomplishment Reactivity — Two Tiers of In-Fiction Acknowledgment *(added 2026-07-24)*
+
+**The problem this closes:** everything above describes a running 0-100 total that, until now, only ever did
+one thing — flip a silent switch at 100. Every point banked on the way there was invisible in play; nothing
+in the world ever acknowledged that the climb was happening. This section adds reactivity on top of the same
+tracking that already exists, rather than inventing a second system — modeled on Fallout: New Vegas's own
+companion banter and topic-triggered reactions (Boone at Bitter Springs, Veronica on Brotherhood topics), but
+tied specifically to the Accomplishment Weight System's numeric total instead of physical proximity alone.
+
+**Tier 1 — Noticed Comment.** Fires per individual accomplishment as it banks, not at a round-number
+checkpoint — a short, specific line referencing exactly what just happened (the site visited, the district
+quest finished, the reputation tier reached). Functions like an ordinary companion bark for a recruited,
+present companion.
+
+**Tier 2 — "Do You Have a Moment?"** Fires at bigger checkpoints along the same 0-100 total (candidate
+thresholds: 25/50/75 — not chosen yet, see Open Questions). Not a bark — the companion proactively stops the
+player for a real conversation: what she's noticed, why it's sitting with her, possibly a hint of what's
+coming in her personal questline. This is where genuine characterization and foreshadowing live, distinct
+from Tier 1's quick acknowledgment.
+
+**The default case — most companions.** Both tiers require the companion to be actively recruited and
+present at the moment an accomplishment banks, exactly like ordinary companion banter — a companion who
+hasn't been met yet has no way to react to something in real time, since reacting requires her to actually be
+in the scene. Pre-recruitment retroactive accomplishments (per the Retroactivity section above) still bank
+silently exactly as already designed — but two things soften that silence:
+
+- **Tier 0 — Third-Party Signal, pre-recruitment.** Not from the companion herself — from an unnamed or
+  minor named NPC, most plausibly one connected to her meaningful district, remarking on the accomplishment
+  and pointing the player toward her: *"Oh, hey, you did [Z]? You should go talk to [X] over in [Y]. She'd
+  love to hear from you."* This isn't a new invention — it generalizes the exact pattern already established
+  for Michelle Stanton in `Main_Quest_Revised_Beat_Structure_TENTATIVE.md` Beat 4 (at least 20-30 NPCs able to
+  recommend "go talk to Michelle" as an org-wide reputation fact). Tier 0 does double duty: it's the
+  in-fiction acknowledgment the retroactivity rule's own "reputation spreads" reasoning already implies
+  *should* exist somewhere, and it functions as an organic recruitment breadcrumb in its own right, consistent
+  with the project's standing preference for discoverable, non-quest-marker lead-ins.
+
+  **Scope, resolved 2026-07-24:** Tier 0 fires only for accomplishments that actually move the needle toward
+  that specific companion's 100-point trigger *because* they're personally tied to her — the meaningful-
+  district categories (High-Weight meaningful main quest, Medium-Weight meaningful under-quest, meaningful-
+  district Idolized status), not the generic (non-meaningful) 5-point versions of those same categories. The
+  generic versions are retroactive and world-based like the rest, but they aren't *about* any particular
+  companion, so there's no plausible reason a specific NPC would connect them to her specifically — an NPC
+  has a reason to mention "she'd love to hear about this" only when "this" is actually the kind of thing that
+  companion cares about. This also resolves the repetitiveness concern below: a generic quest completion
+  never fires Tier 0 for the entire companion roster at once, only the (much smaller) set of companions it's
+  actually personally meaningful to.
+- **Tier 2 catch-up, at recruitment.** If the pre-banked total already crossed one or more Tier 2 checkpoints
+  before the player ever met her, those conversations fire post-recruitment rather than retroactively in real
+  time (which isn't coherent — she wasn't there to have noticed anything as it happened). If more than one
+  checkpoint was already crossed, **stagger them across the first several post-recruitment interactions**
+  rather than delivering them as a single info-dump — spaced out the way they would have landed naturally had
+  she been present the whole time, just compressed into "early in the relationship" instead of real time.
+
+**Calethina's case is the exception, not the template.** Because she's an ambient signal/holographic
+presence rather than a conventional party member, she can plausibly react to things in real time even before
+she's a fully embodied, recruited companion — the same way her Passive Link already lets her project and
+observe from the lab server pre-download. This makes her a natural candidate for Tier 1 comments firing
+ambiently, ahead of full recruitment, in a way that wouldn't make sense for a companion who has to physically
+witness something to know about it. Worked example: a player who completes Gemini's main questline (40
+points, retroactive) before ever meeting her could plausibly get an ambient Tier 1 comment from her about it
+almost immediately, since she's not waiting to be recruited to be aware. If that player then also completes
+an Aquarius Under-Questline (20 points), crossing 60/100 total, a Tier 2 "do you have a moment?" conversation
+could fire the same way — well before her personal questline's own Step 3, purely as acknowledgment that her
+attention is already on the player.
+
+---
+
 ## Open Questions
 
 - Whether every companion needs a full character-specific accomplishment list the way Calethina now has one,
@@ -205,3 +272,9 @@ Calethina reaches her climax faster than one who spreads generic effort evenly a
 - How this interacts with the Fragmentation Matrix's own "History Points" input (`Fragmentation_Matrix.md`
   already lists History Points as a Grief-seeding Relationship-Depth Marker) — likely the same underlying
   accumulator feeding both systems, but not yet explicitly confirmed as a single shared number.
+- **Exact Tier 2 checkpoint thresholds** for Accomplishment Reactivity — 25/50/75 are candidates, not decided.
+- **Which other companions (if any) share Calethina's ambient-reactivity exception** — any companion with a
+  signal/remote-presence mechanic of her own could plausibly qualify; purely embodied companions default to
+  the post-recruitment-only case. Not yet reviewed against the full roster.
+- ~~Tier 0's own frequency/scope~~ — **resolved 2026-07-24:** fires only for meaningful-district retroactive
+  categories, never the generic 5-point versions. See the Tier 0 entry above.

@@ -52,6 +52,14 @@ Traits are major, permanent choices made during **Character Creation**. You may 
 | **Claustrophobia** | +1 to all MACHINE stats while outdoors (Frostlands, exposed terrain) | -1 to all MACHINE stats while indoors (enclosed districts, Undergrid) | Frostlands/Sagittarius explorers |
 | **Agoraphobia** *(added 2026-07-04, the user's own requested counterpart to Claustrophobia — exact opposite effect)* | +1 to all MACHINE stats while indoors | -1 to all MACHINE stats while outdoors | Undergrid/enclosed-district specialists |
 
+### Stat-Gap Traits *(added 2026-07-24, marked for possible future renaming — see the gap note below)*
+
+| Trait Name | Bonuses | Penalties | Thematic Fit |
+|---|---|---|---|
+| **Load-Bearing** | +2 Might | -1 Agility | A frame built for raw output at the cost of nimbleness — Aries/Power Core culture |
+| **Cold Calculation** | +2 Calculation | -1 Humanity | Thought optimized past the point of patience for messy human/robot feeling — Capricorn/Gemini technocrat builds |
+| **Bridge Feedback** | +2 Investigation while jacked in | -1 Humanity while jacked in | Other minds' patterns bleed through the Bridge Unit connection, sharpening pattern-recognition at a real emotional cost |
+
 **Design Note**: Traits are flavorful and double-edged, directly supporting different district playstyles and hidden path accessibility.
 
-**Design note on the remaining gap:** with the Fallout-Adapted Traits above, the base-game trait count is now **27 of the 25 target** (2 over target — not a problem, just noting the goalpost is already cleared). Might, Calculation, and Investigation still don't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — worth keeping in mind for any further traits designed later, especially since Might and Nerve are also the two MACHINE stats still marked TENTATIVE pending their own design pass (see `TODO.md`).
+**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Base-game trait count is now **30 of the 25 target** (5 over target, still not a problem). Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).

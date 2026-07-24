@@ -78,6 +78,36 @@ Steam achievements and trading cards, a proper finalized opening cinematic, fini
 
 ---
 
+## 5. Demo vs. Early Access — these are two different things, chained together
+
+Added 2026-07-23, in response to a direct question about how a free Demo would actually differ from the paid
+Early Access plan already laid out above.
+
+- **Price.** Demo is free, always. Early Access is paid — the actual revenue mechanism funding the three
+  items in Category 1 (voice acting, animation, music).
+- **Scope and lifespan.** A Demo is a **fixed, curated slice** — a short vertical slice (most likely the
+  opening sequence, e.g. the Thermal Distribution Junction 12 diagnostic beat) frozen at a specific polish
+  level, that doesn't grow or change based on feedback. Early Access is a **genuine, evolving subset of the
+  real game** — the actual companion roster, romance arcs, and content described in Categories 1-3 above,
+  expected to expand over months as development continues toward 1.0.
+- **Saves/progress.** Demo saves generally do **not** carry into the full game (Steam treats it as a separate
+  depot tied to the main store page). Early Access saves **do** carry forward into Launch — same app, same
+  depot, just an earlier point in its life.
+- **Feedback loop.** Early Access explicitly invites player feedback as a real development input. A Demo's
+  purpose is conversion, not iteration — it isn't rebuilt in response to what players say about it.
+- **Purpose.** The Demo's job is building wishlist velocity (see `Steam_Launch_Strategy_and_AI_Disclosure.md`
+  Section 2) and getting into Steam Next Fest. Early Access's job is converting that wishlist momentum into
+  actual sales that fund the rest of production.
+
+**How this chains together for Inner Tepenia specifically:** the Demo comes *first*, chronologically — a
+small, free taste with no companion romance necessarily included, timed around a Steam Next Fest. Early
+Access follows, as the actual paid product described throughout this file.
+
+**Still open:** what exactly the Demo's vertical slice contains, and its own timing relative to the Early
+Access launch — not decided yet, just distinguished from Early Access here.
+
+---
+
 ## Recommendation
 
 Lead marketing and backer messaging with Category 1 specifically (voice, animation, music) — it's the most emotionally legible pitch to an Early Access audience, since it maps directly onto what their money is actually funding. Categories 2 and 3 are normal, well-precedented industry practice and won't read as a bait-and-switch to players, but they're secondary to the direct funding story Category 1 tells on its own.

@@ -17,3 +17,10 @@
 * One of the district’s main food production facilities is failing. Secure replacement parts or expertise before the human population faces starvation.
 8. The Ossuary Request (more atmospheric)
 * The Goth community asks Calethina to provide a newly activated robot to help consecrate a new wing of the Ossuary using fallen robots’ parts. Your first mission is to retrieve specific “bones” (frame remnants) while learning about death, memory, and legacy.
+
+**Flagged 2026-07-23:** #2 (The Heating Grid Failure) is the current lean, since it's the only one of these
+eight that IS the main plot rather than a detour into it — see `Main_Quest_Revised_Beat_Structure_TENTATIVE.md`.
+A proposed synthesis for what actually happens once that thread leads the player into Capricorn — turning the
+original Grok data-log retrieval into a three-path (Force/Negotiate/Quiet) scenario that hits the tutorial's
+own design checklist — is written up at
+`Opening_Scenario_Synthesis_-_The_Capricorn_Data_Log.md`. Not yet locked in.

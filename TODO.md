@@ -553,6 +553,16 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## High Priority
 
+- [ ] **The tutorial/opening area — Inner Tepenia's own "not-Goodsprings" — design in progress, 2026-07-23/24**
+  Following the New Vegas lesson that an opening area should be built as a compressed, representative summary
+  of everything the full game does (and finalized late, not early), a real design pass started on the
+  opening sequence itself, the Demo build it doubles as, and a candidate synthesis for the opening task's
+  actual content. **Deliberately kept broad here rather than itemized** — the specifics across all of these
+  are still in flux and virtually guaranteed to change as the rest of the game develops. See
+  `Dev-Road-Map/Tutorial_Section_Specification.md`, `Dev-Road-Map/Demo_Content_Specification.md`,
+  `Dev-Road-Map/Demo_vs_Early_Access.md`, and `Storyline/Main-Story/Opening_Scenario_Synthesis_-_The_Capricorn_Data_Log.md`
+  for everything currently drafted.
+
 - [x] **Traits — scope target set, consolidation done, target cleared (2026-07-04)**
   New target established: **25 base-game traits** (modeled on Fallout: New Vegas's 10 base + 6 Old World Blues, scaled up), **+5 per DLC** across all 7 DLCs, for a **grand total of 60 traits** with everything owned. Max selectable at character creation raised from FNV's 2 to **4**. **Consolidation found and fixed the same day:** `Character-Creation/Traits.md` only listed 10 traits, but 7 more ("AP-Economy" traits — High-Output Frame, Efficient Design, Overclocked Prototype, Fragile but Fast, Steady Nerves, Minimalist Frame, Echo Chamber) existed separately in `Core-Mechanics/Action_Points_Perks_and_Traits.md` and weren't counted anywhere. Merged into `Traits.md` as the single authoritative list. **Then, same day, a full FNV trait comparison pass added 10 more** (Built to Destroy, Good Natured, Fast Shot, Trigger Discipline, Heavy Handed, Kamikaze, Hoarder, Skilled, Claustrophobia, plus the user's own requested "Agoraphobia" as Claustrophobia's exact opposite) — see `project_fallout_trait_perk_adaptation` memory. **Base-game trait count is now 27/25 — target cleared**, with 2 to spare. Might, Calculation, and Investigation still don't appear as any trait's primary bonus stat — worth keeping in mind for future traits, especially since Might and Nerve are also the two MACHINE stats still marked TENTATIVE (see Might/Nerve design pass entry below).
 

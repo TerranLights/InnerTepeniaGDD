@@ -8,10 +8,10 @@ One perk slot earned every **2 levels** — **32 total slots** across the base g
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 
-**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **76/160 designed** (48%) as of 2026-07-04, after adding 15 perks ported/adapted from Fallout: New Vegas following a comparison pass (see `project_fallout_trait_perk_adaptation` memory). The remaining ~84 perks are marked as pending in the placeholder section at the bottom of this file.
+**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **80/160 designed** (50%) as of 2026-07-24, after adding 15 perks ported/adapted from Fallout: New Vegas following a comparison pass (see `project_fallout_trait_perk_adaptation` memory), plus 4 more (Off the Record, Bond Ledger, Grief Ledger, Steady Retrieval — all marked for possible future renaming) tied to systems designed after that pass (the Reputation Matrix, the Fragmentation Matrix, and the thrown-weapon retrieval rule). The remaining ~80 perks are marked as pending in the placeholder section at the bottom of this file.
 
 **Target distribution: ~107 non-combat (67%) / ~53 combat (33%)**  
-Currently: 49 non-combat / 27 combat. Pending perks should maintain roughly this ratio.  
+Currently: 52 non-combat / 28 combat. Pending perks should maintain roughly this ratio.  
 Perks are primarily a system for deepening playstyle identity, not a combat improvement checklist.
 
 Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C** Calculation · **H** Humanity · **I** Investigation · **N** Nerve · **E** Engine
@@ -30,6 +30,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Moral Authority** | N 8, Moral Philosophy & Ethical Reasoning 60 | 1 | When making a moral argument, NPCs whose Nerve falls below a threshold cannot challenge the player's position through words — they must accept it or escalate to force. |
 | **Negotiator's Patience** | N 7, Diplomatic Negotiation 55 | 2 | In multi-stage dialogue encounters (summits, negotiations, interrogations), the player character can sustain their position through more pressure stages without forced concession. Rank 2: actively tire opposing parties — their position weakens with each failed stage. |
 | **Ghost of the Room** | H 7, Deception & Narrative Crafting 60 | 1 | If the player character witnesses an event without intervening, NPCs involved can be made to forget they were present. Powerful for intelligence gathering without commitment. |
+| **Off the Record** *(added 2026-07-24, marked for possible future renaming)* | H 6, Faction & Reputation Management 45 | 1 | The first Reputation Matrix shift the player causes in any given district stays hidden/unregistered until a second shift in the same direction crosses it — lets a player deliberately test the waters or operate under the radar early in a district, at the cost of not being able to bank early goodwill either. |
 
 ---
 
@@ -120,6 +121,8 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Companion Cohesion** | N 7, H 6, Companion Command & Loyalty 50 | 2 | Companions perform significantly better in combat and exploration when near the player character. Rank 2: enables two companions to be active simultaneously, where the normal limit is one. |
 | **Trusted Command** | N 8, Companion Command & Loyalty 60 | 1 | Every companion's crisis behavior improves by one tier permanently — companions who would flee hold position; companions who hold position push harder. |
 | **Shared Experience** | H 7, Companion Command & Loyalty 55 | 1 | The active companion gains skill points in their primary skill category every time the player character levels up. Long-term investment in a specific companion pays off mechanically. |
+| **Bond Ledger** *(added 2026-07-24, marked for possible future renaming — mutually exclusive with Grief Ledger)* | H 6, Companion Command & Loyalty 40 | 1 | Repeated re-specs with a companion present accumulate Bond faster on the Fragmentation Matrix. Builds toward the deeper companion tiers (up to The Long Vigil) more readily, at the cost of slower Grief accumulation — a build that leans into closeness over catharsis. |
+| **Grief Ledger** *(added 2026-07-24, marked for possible future renaming — mutually exclusive with Bond Ledger)* | N 6, Companion Command & Loyalty 40 | 1 | Repeated re-specs with a companion present accumulate Grief faster on the Fragmentation Matrix, but each individual re-spec's Grief cost to the player character is reduced. A build that leans into processing change quickly over building steady closeness. |
 
 ---
 
@@ -134,6 +137,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Power Strike** | M 8, Non-Lethal Restraint & Subdual 50 | 1 | Every fourth consecutive melee attack in an engagement triggers an automatic knockdown, regardless of target size or armor type. |
 | **Electronic Disruptor** | C 7, Electronic Warfare 55 | 2 | EMP and electronic attacks have higher success rates and longer effect durations. Rank 2: a successful electronic attack can chain disruption to one adjacent electronic target at no additional cost. |
 | **Overclocked Aggression** | E 8, M 7 | 1 | Once per combat: sacrifice maximum AP on the next turn to gain +4 temporary AP on the current turn. High-risk burst option. |
+| **Steady Retrieval** *(added 2026-07-24, marked for possible future renaming)* | A 6, Improvised Weaponry & Combat Jury-Rig 45 | 2 | Retrieving a thrown weapon that's stuck where it landed costs 1 fewer AP. Rank 2: thrown weapons can also be thrown 1 additional grid step farther before retrieval range becomes an issue. Direct hook into the game's own thrown-weapon retrieval rule. |
 
 ---
 
@@ -180,25 +184,25 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 
 ## Perk Count by Category
 
-*(Updated 2026-07-04 after adding 15 Fallout-adapted perks — see `project_fallout_trait_perk_adaptation` memory.)*
+*(Updated 2026-07-24 — added 4 perks tied to newer systems: Off the Record, Bond Ledger, Grief Ledger, Steady Retrieval. Previously updated 2026-07-04 after adding 15 Fallout-adapted perks — see `project_fallout_trait_perk_adaptation` memory.)*
 
 | Category | Count | Type |
 |----------|-------|------|
-| Social / Diplomatic | 8 | Non-combat |
+| Social / Diplomatic | 9 | Non-combat |
 | Growth / Learning | 3 | Non-combat |
 | Technical / Engineering | 9 | Non-combat |
 | Information / Data | 10 | Non-combat |
 | Survival / Exploration | 8 | Non-combat |
 | Cultural / Philosophical | 4 | Non-combat |
 | Economic / Resource | 4 | Non-combat |
-| Companion / Leadership | 3 | Non-combat |
-| **Non-combat subtotal** | **49** | **64%** |
-| Combat — Offensive | 7 | Combat |
+| Companion / Leadership | 5 | Non-combat |
+| **Non-combat subtotal** | **52** | **65%** |
+| Combat — Offensive | 8 | Combat |
 | Combat — Defensive | 8 | Combat |
 | Combat — NODE / Targeting | 6 | Combat |
 | Combat — Hybrid / Specialized | 6 | Combat |
-| **Combat subtotal** | **27** | **36%** |
-| **Total** | **76** | |
+| **Combat subtotal** | **28** | **35%** |
+| **Total** | **80** | |
 
 Expansion in future design passes should maintain roughly this non-combat to combat ratio. DLC perks may skew toward the DLC's thematic focus, but the aggregate ratio across base game + all DLC should remain non-combat dominant.
 
@@ -210,24 +214,24 @@ Expansion in future design passes should maintain roughly this non-combat to com
 
 The categories below indicate where additional perks are needed. Names and effects are to be designed during dedicated perk design passes. Rough targets per category to reach the 160 total at the correct ratio:
 
-### Non-combat (need ~58 more to reach ~107 total)
+### Non-combat (need ~55 more to reach ~107 total)
 
 | Category | Currently designed | Still needed |
 |----------|-------------------|-------------|
-| Social / Diplomatic | 8 | ~10 more |
+| Social / Diplomatic | 9 | ~9 more |
 | Growth / Learning | 3 | ~6 more |
 | Technical / Engineering | 9 | ~9 more |
 | Information / Data | 10 | ~6 more |
 | Survival / Exploration | 8 | ~8 more |
 | Cultural / Philosophical | 4 | ~8 more |
 | Economic / Resource | 4 | ~6 more |
-| Companion / Leadership | 3 | ~7 more |
+| Companion / Leadership | 5 | ~5 more |
 
-### Combat (need ~26 more to reach ~53 total)
+### Combat (need ~25 more to reach ~53 total)
 
 | Category | Currently designed | Still needed |
 |----------|-------------------|-------------|
-| Combat — Offensive | 7 | ~8 more |
+| Combat — Offensive | 8 | ~7 more |
 | Combat — Defensive | 8 | ~5 more |
 | Combat — NODE / Targeting | 6 | ~7 more |
 | Combat — Hybrid / Specialized | 6 | ~6 more |
