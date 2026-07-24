@@ -314,9 +314,13 @@ conduct maintained.
 `Personal_Background/PreWar_History.md`, `Relationships.md`, `Loyalties.md`, `Timeline.md`, and
 `War_Experiences.md` are all unfilled generic templates — no content. `Questlines/README.md` and
 `Questlines/Personal_Questline_Summary.md` (the copy inside the Questlines subfolder, distinct from the
-root-level file) are also blank templates. The root-level `Personal_Questline_Summary.md`'s own Step 1-5
-walkthrough is Grok-drafted reference material, not confirmed structure, and its Step 5 timing already
-contradicts the confirmed midpoint placement for the download decision.
+root-level file) are also blank templates. **The root-level `Personal_Questline_Summary.md`'s Step-by-Step
+structure is now confirmed (2026-07-23)** — a "Confirmed Step-by-Step Structure" section supersedes the old
+Grok-drafted Step 1-5 walkthrough, fixing the Step 5 timing contradiction and wiring in the Accomplishment
+Weight System as the actual progression mechanism. Explicitly flagged as possibly subject to revision later
+depending on what else gets built elsewhere in the game — not permanently locked, just the current best
+answer. The old Grok material is kept for surviving texture (dialogue tone, degradation-signs detail) but
+its own step boundaries and triggers no longer apply.
 
 **Also worth noting:** `to-be-integrated/Calethina's history.txt` and `to-be-integrated/Calethina's
 rewards.txt` still physically exist on disk, despite a memory note (`project_calethina_backstory_design`)

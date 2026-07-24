@@ -10,12 +10,15 @@ file and start a fresh one for the next stretch of work).
 
 ## High Priority
 
-- [ ] **Calethina's questline ("Echoes of the Bridge") — further structure**
-  Scope explicitly requested: general, non-detailed beat form — the "Major Steps/Acts" level of structure
-  other questlines already have (e.g. Ayako's or Favi's `Personal_Questline_Summary.md` files), not a full
-  beat-by-beat design pass. Full `TODO.md` entry has what's already established (archive-narrator direction,
-  Ji-Eun Kim first thread, mid-game download option, Bridge Unit definition, Ghost Protocol connection to
-  develop).
+- [x] **Calethina's questline ("Echoes of the Bridge") — Step-by-Step structure confirmed 2026-07-23**
+  Full 5-step structure written into her `Personal_Questline_Summary.md` ("Confirmed Step-by-Step Structure"
+  section), superseding the old Grok draft. Produced a genuinely new general-purpose system along the way —
+  the Accomplishment Weight System (`Accomplishment_Weight_System.md`) — to fix a real pacing problem where
+  narrow world-state triggers either get skipped by speedrunners or create huge real-hours gaps for
+  completionists. A full master reference for everything confirmed about her also now exists at her own
+  `README.md`. **One thing flagged as still blocking full lock-in:** the Endings reconciliation (does "The
+  Furthest Signal" fold into the two embodiment branches, get superseded, or stand as a third option) —
+  noted in her own README, not yet resolved.
 
 ---
 

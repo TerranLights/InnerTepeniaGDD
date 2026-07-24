@@ -2,7 +2,7 @@
 
 ---
 
-**→ See `Questlines/Substrate_Transfer_and_Embodiment_Design.md` (2026-07-12) for the real design session this file's "confirmed design points" callout was waiting on.** That document is now the authoritative source for the substrate-transfer dilemma, the embodiment/download branches, and the romance gate. The confirmed points below remain accurate baseline; the Step 1-5 walkthrough that follows is still Grok-drafted reference material, not confirmed structure.
+**→ See `Questlines/Substrate_Transfer_and_Embodiment_Design.md` (2026-07-12) for the real design session this file's "confirmed design points" callout was waiting on.** That document is now the authoritative source for the substrate-transfer dilemma, the embodiment/download branches, and the romance gate. The confirmed points below remain accurate baseline. **The Step-by-Step structure itself is now confirmed — see "Confirmed Step-by-Step Structure (2026-07-23)" below, which supersedes the old Grok-drafted Step 1-5 walkthrough that follows it.** The Grok material is kept for historical reference and surviving texture (dialogue tone, degradation-signs detail) but its own step boundaries, timing, and triggers no longer apply.
 
 ## ⚠ Design Status: DEFERRED — Review Required Before Development
 
@@ -41,6 +41,73 @@ This questline was written by Grok. The 5-step structure and the general degrada
    **The Calethina Devotion failsafe ending** has two versions: romantic path (mini-quest completed) and non-romantic download bond (downloaded, thresholds not met). Both are meaningful. Neither is the lesser outcome.
 
 **Questline full development is deliberately deferred** until the surrounding world (Concordia’s society, history, geography) is better codified. The plot beats need to connect to real, established elements of the world. Resume when the world feels stable enough to support it.
+
+---
+
+## Confirmed Step-by-Step Structure (2026-07-23)
+
+**Status:** the current best answer, reconciling every confirmed anchor (Substrate Transfer & Embodiment
+Design, the Accomplishment Weight System, the Fragmentation Matrix) into an actual sequence. **Flagged
+explicitly as possibly subject to revision later**, depending on what else gets built elsewhere in the game
+— not a permanently locked structure, just what we have confirmed and settled for now.
+
+### Step 1 — Awakening
+**Timing:** Early Act 1. Unchanged from the original draft — the game's literal opening. Activation,
+orientation, first subtle glitches. Low-stakes; easy for the player to ignore entirely with no penalty.
+
+### Step 2 — The Signal
+**Timing:** Early–Mid Act 1. Unchanged in substance from the original draft's "Passive Link" step, renamed to
+match the already-resolved naming (no separate mechanic name needed — "her projection"/"her signal"). She
+extends her presence to accompany the player through the world; strain shows as flicker/delay, scaling with
+grid health and event intensity. The original draft's own trigger (return to the lab after the player's
+first district visit) is already close to a guaranteed early main-quest beat and didn't need the
+Accomplishment Weight fix.
+
+### Step 3 — What's Actually Wrong
+**Timing:** Mid Act 1, advancing toward the midpoint. **This is where the Accomplishment Weight System
+(`Game-Mechanics/Core-Mechanics/Accomplishment_Weight_System.md`) actually drives progression**, replacing
+the original draft's narrow world-state triggers (a specific blackout, specific moral choices, specific
+locations visited). Advancement toward Step 4 is gated by an accumulating weighted total, fed by:
+- Any district's main/under-questline completion (generic High/Medium Weight).
+- Idolized status reached specifically in **Gemini or Aquarius** (High Weight, companion-specific,
+  retroactive — she can plausibly have heard about it organically, no recruitment or active-party
+  requirement).
+- Completing **Gemini's or Aquarius's** own main/under-questline specifically (High/Medium Weight,
+  companion-specific, retroactive, same reasoning).
+- Her six **Extra-High-Weight** character-specific sites — Ji-Eun Kim's ruined facility, Capricorn
+  maintenance/engineering logs, a Virgo core-fragment cache, Gemini's Janbogo Subnet Nexus archives,
+  Aquarius's experimental labs, and Libra's administrative record vaults. These require her active presence
+  at the time (never retroactive) since they're witnessed moments, not standing world facts.
+
+The narrative content of this step doesn't change: the Ji-Eun Kim thread (the confirmed first active
+objective) and the first seeds of the Ghost Protocol connection (her archive gaps starting to read as
+deliberate, not random) both live here. What changes is the *mechanism* determining exactly when Step 4
+becomes available — calibrated so a speedrunner and a completionist both reach the threshold around the
+same relative point in the main story, via entirely different specific accomplishments, rather than the
+step stalling for one playstyle or dragging for the other.
+
+### Step 4 — The Choice
+**Timing:** AT the main quest's midpoint (fixes the original draft's core timing error, which placed this at
+"Late Act 2 → Act 3"). Fires once the Step 3 weight threshold is met. The Ghost Protocol truth surfaces here,
+deliberately paired with the embodiment decision itself — she asks the player to trust her with a decision
+about her own continued existence in the same moment her own hidden guilt becomes known. Both embodiment
+branches ("inside you" / new-body) are presented on equal footing, each with their established real costs.
+Reaching a decision here (either branch) also resolves Romance Gate 1.
+
+### Step 5 — Living With It
+**Timing:** Post-midpoint, entirely new relative to the original draft (which treated the download as the
+ending rather than a transition, and had no post-download content at all). What actually changes in the
+second half: her presence in the world (steady projection, or embodied, depending on branch); further
+re-specs at her Lab climbing her Direct Participation Count and Fragmentation Matrix Bond/Grief state; the
+romance mini-quest, if Gate 2 conduct was maintained across Step 3-4; and, for players continuing into DLC
+content, cross-DLC portability plus the Wave 2 character-specific sites (Byrd, Fort McMurdo, Amundsen-Scott
+Station — her construction chain, reachable only post-"inside you"). Leads into whichever Calethina Devotion
+ending variant applies.
+
+**One thing not yet resolved, and flagged as blocking full lock-in of Steps 4-5's actual content:** the
+Endings reconciliation in her own `README.md` — "The Furthest Signal" (an earlier ending concept: restoring a
+lost backup-instance relay) has never been checked against the two embodiment branches or the Pariah Accord.
+Whether it folds into one of them, gets superseded, or stands as a genuine third option still needs deciding.
 
 ---
 
