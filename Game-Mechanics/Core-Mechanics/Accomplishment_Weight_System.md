@@ -1,14 +1,17 @@
 # Accomplishment Weight System (History Points, Formalized)
 
-**Status:** designed 2026-07-23, structure and worked example settled, exact point values deliberately
-deferred. **This is the actual design for the "History Points" mechanic flagged in `TODO.md`** (2026-07-20,
+**Status:** designed 2026-07-23, structure, worked example, and numeric point values all settled. **This is
+the actual design for the "History Points" mechanic flagged in `TODO.md`** (2026-07-20,
 "not designed, no urgency") — that entry described the FNV Veronica/Arcade/Boone/Raúl precedent (a small
 handful of qualifying actions gating when a companion's questline opens) but left the mechanism itself
 unbuilt. This file is that mechanism, generalized beyond just recruitment-gating to cover **any personal
 questline's internal step-by-step progression**, not only its opening trigger.
 
 **Origin:** built to solve a real pacing problem surfaced while reworking Calethina's questline structure — see
-Open Problem, below.
+Open Problem, below. **Scope, worth stating explicitly:** this is a general system, not a Calethina-only one.
+The tiers, the "personally meaningful district" mechanic, and the point values below all apply to *any*
+companion whose personal questline uses this system — Calethina is simply the first fully worked example,
+not the scope of the mechanic itself.
 
 ---
 
@@ -35,36 +38,44 @@ mixes — which is what "gated by story progress" is actually supposed to mean.
 
 ## The Weight Tiers
 
+**The full "Companion Trigger" activates at 100 History Points, established 2026-07-23.** Every
+accomplishment below contributes toward that same 0-100 scale for a given companion. The specific
+questline-progression gate this feeds (for Calethina, the Step 3→4 transition into "The Choice") fires once
+the companion's own accumulated total reaches the trigger.
+
 **Extra-High Weight — established 2026-07-23, split out from High Weight**
-- **Character-specific accomplishment events.** Bespoke, individually-designed moments unique to one
-  companion, structurally identical to Fallout: New Vegas's Veronica Santangelo location-reveal beats (Camp
-  McCarran, Vault 3, Cottonwood Cove, the Van Graffs' energy weapons shop). These are written per-companion,
-  not generated from a generic template. Promoted to their own tier above ordinary High Weight because
-  they're the single most personally relevant plot-beats a companion has — not just weightier instances of
-  district content, but a different *kind* of accomplishment entirely. **Requires the companion to be
-  actively recruited and present at the time — never retroactive** (see Retroactivity, below). See
-  Calethina's worked example below for what a full set looks like.
+- **Visiting a site especially meaningful to a companion personally, while she's an active companion — 30
+  points.** Bespoke, individually-designed moments unique to one companion, structurally identical to
+  Fallout: New Vegas's Veronica Santangelo location-reveal beats (Camp McCarran, Vault 3, Cottonwood Cove,
+  the Van Graffs' energy weapons shop). These are written per-companion, not generated from a generic
+  template. Promoted to their own tier above ordinary High Weight because they're the single most personally
+  relevant plot-beats a companion has — not just weightier instances of district content, but a different
+  *kind* of accomplishment entirely. **Requires the companion to be actively recruited and present at the
+  time — never retroactive** (see Retroactivity, below). At 30 points each, three of these alone clear the
+  full 100-point trigger — deliberately not requiring every candidate site to be found. See Calethina's
+  worked example below for what a full set looks like.
 
 **High Weight**
-- Completing a district central/main questline — any district, generic.
-- **Companion-specific bonus:** extra weight if that district's main questline is completed and that
-  district is personally meaningful to a given companion. **Retroactive** (see below) — the companion does
-  not need to be recruited or active at the time this happens.
-- **Reaching "Idolized" status specifically in a district personally meaningful to the companion —
-  established 2026-07-23.** Reaching Idolized status is *not*, by itself, a weighted factor — reaching it
-  anywhere, in any district, contributes nothing on its own. It only counts when it's Idolized status in a
-  district that's actually meaningful to the specific companion in question. This is a distinct trigger from
-  completing that district's main/under-questline — a player could complete Gemini's main questline without
-  ever reaching Idolized there, and could also reach Idolized in Gemini through unrelated reputation-building
-  without ever touching its main questline; both are real, separately-countable High-Weight events for a
-  companion who cares about Gemini specifically. **Also retroactive.**
+- **Completing a district's central/main questline — any district, generic — 5 points.**
+- **Completing a district's central/main questline for a district personally meaningful to the companion —
+  40 points.** **Retroactive** (see below) — the companion does not need to be recruited or active at the
+  time this happens.
+- **Reaching "Idolized" status specifically in a district personally meaningful to the companion — 50
+  points.** Reaching Idolized status is *not*, by itself, a weighted factor — reaching it anywhere, in any
+  district, contributes nothing on its own. It only counts when it's Idolized status in a district that's
+  actually meaningful to the specific companion in question. This is a distinct trigger from completing that
+  district's main/under-questline — a player could complete Gemini's main questline without ever reaching
+  Idolized there, and could also reach Idolized in Gemini through unrelated reputation-building without ever
+  touching its main questline; both are real, separately-countable High-Weight events, together worth 90 of
+  the 100 points needed, for a companion who cares about Gemini specifically. **Also retroactive.**
 
 **Medium Weight**
-- Completing a district Under-Questline — any district, generic.
-- Same companion-specific bonus mechanic as above, at Medium scale. **Also retroactive**, by the same logic.
+- **Completing a district's Under-Questline — any district, generic — 5 points.**
+- **Completing a district's Under-Questline for a district personally meaningful to the companion — 20
+  points.** **Also retroactive**, by the same logic.
 
 **Low Weight**
-- Location discovery.
+- **Location discovery — 1 point.**
 
 ---
 
@@ -111,9 +122,6 @@ are categorically retroactive, since reputation tiers and quest-completion flags
 nature. This is a clean rule, not a judgment call to make per-accomplishment: check whether the thing itself
 is a persistent world-state fact independent of presence, and the retroactivity answer follows automatically.
 
-**Numeric point values for each tier are deliberately not set yet** — structure and worked examples come
-first, per standing practice on this project (same sequencing already used for district re-spec IF costs).
-
 ---
 
 ## Worked Example: Calethina
@@ -155,18 +163,21 @@ Amundsen-Scott Station) become reachable for the first time — the DLC-portabil
 in her own `README.md`. These aren't Wave 1 accomplishment-weight candidates; they're a narrative payoff that
 only exists after the questline these very accomplishments help pace has already concluded.
 
+**The numbers reward personal engagement over generic completion, worth noting explicitly.** Deep investment
+in just one of her two meaningful districts — reaching Idolized there (50) plus completing its main
+questline there (40) — is 90 of the 100 points needed from two events in one place. By contrast, completing
+every one of Concordia's 13 districts' main questlines generically (5 each) only totals 65 — not even enough
+alone. The math itself expresses the design intent: a player who specifically engages with what matters to
+Calethina reaches her climax faster than one who spreads generic effort evenly across the whole game.
+
 ---
 
 ## Open Questions
 
-- Actual point values per tier, and the actual weight threshold(s) each of Calethina's Step transitions
-  requires — deferred per the developer's own explicit sequencing (structure/examples first).
 - Whether every companion needs a full character-specific accomplishment list the way Calethina now has one,
   or whether this stays reserved for companions whose personal questlines are far enough along to support it
   (same "who it makes the most sense for" judgment call the original History Points TODO entry already
   flagged).
-- Whether the companion-specific district bonus is a flat additive bonus or a multiplier on the base
-  district-questline weight — not yet decided.
 - How this interacts with the Fragmentation Matrix's own "History Points" input (`Fragmentation_Matrix.md`
   already lists History Points as a Grief-seeding Relationship-Depth Marker) — likely the same underlying
   accumulator feeding both systems, but not yet explicitly confirmed as a single shared number.
