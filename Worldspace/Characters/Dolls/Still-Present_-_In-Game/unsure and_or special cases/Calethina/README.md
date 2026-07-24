@@ -270,13 +270,28 @@ here.
 
 ---
 
-## Ghost Protocol Connection (Developing, Not Yet Resolved)
+## The Triage Protocol Connection — Confirmed 2026-07-23
 
-Calethina may have been the one who embedded the Ghost Protocol safeguards into the Power Core during the
-Long Night War evacuation — a desperate emergency measure that saved lives at the time and has been quietly
-strangling the city for the one to two decades since. Her archive gaps may be guilt-adjacent rather than
-random degradation. She doesn't lie about it, but doesn't volunteer it either. The player's path to this
-truth, and how the confrontation lands, remains a core questline beat still to design.
+**Renamed:** the in-world Power Core safeguards, previously referred to as "Ghost Protocol," are now **the
+Triage Protocol** — the reference file itself (`Worldspace/Energy_Grid_Failure_Rationale.md`) keeps its own
+name; only the in-world term changes. The rename resolves a real naming collision: "Ghost Protocol" was
+independently in use for Minmax Build #18/Alternate Ending #18 (unrelated, stays as-is) and as a still-open
+placeholder name for Ji-Eun Kim's own companion perk (also unrelated, her own rename still separately open).
+
+**Confirmed, not speculative:** **Calethina personally created the Triage Protocol.** She embedded it into
+the Power Core during the Long Night War evacuation — a desperate, genuinely life-saving act, deliberately
+rationing output and creating rolling failures rather than letting the whole grid collapse at once. **The
+same power shock that caused the Planetary Split Brain and corrupted her own datadrives also erased her own
+memory of having done it.** This is a third, distinct thing the Split Brain shock took from her, alongside
+the general operational degradation and the earlier, separate Fort McMurdo datadrive wipe (see Construction &
+Origin, above) — she isn't hiding this out of guilt, and she isn't lying by omission. She genuinely doesn't
+know. The tragic irony: the person best positioned to explain and safely resolve the Triage Protocol is the
+one person who no longer remembers being its author.
+
+**Discovery mechanism, confirmed:** this truth is uncovered over the course of **her Romance questline**
+specifically — not the main Step 1-5 structure's Step 4 decision point (corrected from an earlier draft of
+this file, which had paired it with the embodiment decision). See her `Questlines/Personal_Questline_
+Summary.md`'s Step 5 for where this now sits.
 
 ---
 

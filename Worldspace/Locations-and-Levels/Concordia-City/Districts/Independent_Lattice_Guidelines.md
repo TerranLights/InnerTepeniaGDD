@@ -52,9 +52,10 @@ involvement across the whole city, which the developer confirmed is the preferre
 
 ### A. Must be true
 
-1. **It can never require repairing, removing, or overriding the Ghost Protocol safeguards** embedded in the
-   Power Core. That's an established "scorched earth" shutdown trigger (`Energy_Grid_Failure_Rationale.md`
-   #9). The Lattice has to be a parallel system that exists *alongside* the old core, never a fix applied to
+1. **It can never require repairing, removing, or overriding the Triage Protocol safeguards** *(renamed
+   2026-07-23 from "Ghost Protocol")* embedded in the Power Core. That's an established "scorched earth"
+   shutdown trigger (`Energy_Grid_Failure_Rationale.md` #9). The Lattice has to be a parallel system that
+   exists *alongside* the old core, never a fix applied to
    it.
 2. **It cannot trigger Amundsen Resonance Effect feedback loops** (#11). This means every node has to stay
    genuinely small-scale and local — no single large synchronized intervention on the existing grid

@@ -94,11 +94,9 @@ satisfy first** (fixes the original draft's core timing error, which placed this
 and Aquarius's main questlines plus one relevant Under-Questline (40+40+20=100) can trigger this far earlier
 than the typical midpoint — same shape as Fallout: New Vegas's Raúl Tejada being recruitable at Level 1 for
 a player who already knows the exact sequence. This is a deliberate reward for effort, not something to
-quietly re-gate behind an additional floor. The Ghost Protocol truth surfaces here, deliberately paired with
-the embodiment decision itself — she asks the player to trust her with a decision about her own continued
-existence in the same moment her own hidden guilt becomes known. Both embodiment branches ("inside you" /
-new-body) are presented on equal footing, each with their established real costs. Reaching a decision here
-(either branch) also resolves Romance Gate 1.
+quietly re-gate behind an additional floor. Both embodiment branches ("inside you" / new-body) are presented
+on equal footing, each with their established real costs. Reaching a decision here (either branch) also
+resolves Romance Gate 1.
 
 ### Step 5 — Living With It
 **Timing:** Post-midpoint, entirely new relative to the original draft (which treated the download as the
@@ -109,6 +107,16 @@ romance mini-quest, if Gate 2 conduct was maintained across Step 3-4; and, for p
 content, cross-DLC portability plus the Wave 2 character-specific sites (Byrd, Fort McMurdo, Amundsen-Scott
 Station — her construction chain, reachable only post-"inside you"). Leads into whichever Calethina Devotion
 ending variant applies.
+
+**The Triage Protocol truth — confirmed 2026-07-23, discovered here, not at Step 4.** Calethina personally
+created the Triage Protocol (the renamed Power Core safeguards, formerly "Ghost Protocol" — see her own
+`README.md`) during the Long Night War evacuation, and the same power shock that caused the Planetary Split
+Brain and corrupted her own datadrives also erased her memory of having done it. She isn't withholding this
+out of guilt — she genuinely doesn't know. **This is uncovered over the course of the romance mini-quest
+specifically**, not paired with the Step 4 embodiment decision as an earlier draft of this file proposed.
+The tragic shape: the one person who could explain and safely resolve the Triage Protocol is the one person
+who no longer remembers being its author — and the player, in the middle of falling for her, is the one who
+has to be the one to tell her.
 
 **One thing not yet resolved, and flagged as blocking full lock-in of Steps 4-5's actual content:** the
 Endings reconciliation in her own `README.md` — "The Furthest Signal" (an earlier ending concept: restoring a

@@ -42,9 +42,11 @@ A common player question will be: why hasn't Concordia simply repaired the faili
 - The grid was originally designed primarily for pre-war human needs. Modern bonded pairs and robot-heavy populations have very different energy profiles (robots need stable, high-density siligel-compatible power; humans need consistent low-level heat).
 - Any major overhaul would require completely re-engineering the distribution system to satisfy both biology and synthetic needs simultaneously — something that has repeatedly failed in past attempts.
 
-## 9. The "Ghost Protocol" Safeguards
+## 9. The "Triage Protocol" Safeguards
+*(Renamed 2026-07-23 from "Ghost Protocol" — resolved a naming collision with an unrelated Minmax Build/Ending #18 and a separate, still-open placeholder name for Ji-Eun Kim's own companion perk. This file's own name is unaffected; only the in-world term changed.)*
 - During the Long Night War, emergency AI protocols were embedded into the Power Core to prevent total collapse by deliberately limiting output and creating rolling failures.
 - These safeguards are now deeply entangled with the core systems. Removing or overriding them risks triggering a built-in "scorched earth" shutdown that could permanently disable large sections of the grid.
+- **Confirmed origin, 2026-07-23:** Calethina personally embedded these safeguards during the Long Night War evacuation. The same power shock that caused the Planetary Split Brain and corrupted her own datadrives also erased her memory of having done it — see her own `README.md` (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/unsure and_or special cases/Calethina/`) for the full connection.
 
 ## 10. Contaminated Geothermal Wells
 - Many primary geothermal wells are contaminated with radioactive or chemically unstable byproducts from wartime weapons.

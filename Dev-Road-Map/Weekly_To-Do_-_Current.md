@@ -36,12 +36,16 @@ file and start a fresh one for the next stretch of work).
   not) — but scope for this pass is left open per the developer's own phrasing, not narrowed to Category 4
   alone.
 
-- [ ] **Ghost Protocol — what is it, how does it work, backstory**
+- [x] **The Triage Protocol (renamed from "Ghost Protocol" 2026-07-23) — backstory resolved, mechanic still open**
   Named/documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #9): emergency AI protocols
   embedded into the Power Core during the Long Night War evacuation to prevent total collapse, now deeply
-  entangled with core systems — removing/overriding them risks a built-in scorched-earth shutdown. Calethina
-  may have been the one who embedded them (a life-saving measure that's been quietly strangling the city for
-  a decade-plus since). Not yet designed as an actual in-game obstacle or quest mechanic.
+  entangled with core systems — removing/overriding them risks a built-in scorched-earth shutdown. Renamed to
+  resolve a real naming collision with an unrelated Minmax Build/Ending #18 and Ji-Eun Kim's own
+  still-placeholder-named companion perk (her own rename still separately open). **Confirmed, not
+  speculative:** Calethina personally embedded it during the evacuation; the same power shock that caused
+  the Planetary Split Brain and corrupted her own datadrives also erased her memory of having done it —
+  discovered over the course of her Romance questline. Still not yet designed as an actual in-game obstacle
+  or quest mechanic — that piece remains open.
 
 **Housekeeping done alongside this list, 2026-07-23:** Juan Carlos's post-Long-Night-War status — already
 resolved in-session (Destroyed, targeted for its archive/customs function) but still sitting as an open

@@ -609,16 +609,23 @@ These require a developer call before downstream work can proceed. None can be r
 - [x] **Issue F — Calethina's passive link to the player — RESOLVED**
   The passive link is her pre-download projection mechanic: she projects from the lab server, signal-dependent (flickers/glitches with poor signal, disappears entirely with none). Post-download, she's local to the wrist device — stable everywhere regardless of grid state. No separate mechanic name needed; "her projection"/"her signal" is the term. See `Substrate_Transfer_and_Embodiment_Design.md` in Calethina's Questlines folder for the full current design.
 
-- [ ] **Calethina questline ("Echoes of the Bridge") — full design**
-  *Deliberately deferred* until the surrounding world is better codified. Resume when the world feels stable enough for plot beats to land on real, established elements.
-
-  **Established so far:**
-  - Direction: archive-narrator. Calethina narrates ruins and abandoned infrastructure, generating quest hooks from her knowledge of the pre-Long Night War world.
-  - First thread: Ji-Eun Kim (her ruined facility, her possible survival).
-  - Structure: each location = physical ruin + Calethina's narration + a thread (person, object, question).
-  - **Download option:** Approximately halfway through the main quest, the player can download Calethina onto their wrist device (the "not-Pipboy"). She's a single non-redundant instance — if her server is destroyed she is gone permanently. The download protects her but exposes her to everything the player encounters in the second half. Protection and risk simultaneously; a genuine choice.
-  - **"Bridge Unit" — RESOLVED 2026-07-12.** Defined rather than discarded: a robot classification built to interface across the fractured post-Split-Brain systems, which is why the player can reach corrupted grid sections nobody else can and why Calethina can download into them specifically. Full definition and the new physical jack-in mechanic (cable from the hand, distinct triggered sequence) now live in `Game-Mechanics/Core-Mechanics/Hacking_and_Traceability_System.md`. The original 5-step questline structure is still separately deferred — see `Substrate_Transfer_and_Embodiment_Design.md` in Calethina's Questlines folder for the current design.
-  - **Ghost Protocol connection (to develop):** Calethina may have been the one who embedded the Ghost Protocol safeguards into the Power Core during the Long Night War evacuation — a desperate emergency measure that saved lives at the time and has been quietly strangling the city for the one to two decades since the war ended. Her archive gaps may be guilt-adjacent rather than random degradation. She knows what she did; she doesn't lie, but she doesn't volunteer it. The player's path to this truth, and how the confrontation lands, is a core questline beat to design. See also: Ghost Protocol entry in Medium Priority — World and Story.
+- [ ] **Calethina questline ("Echoes of the Bridge") — Step-by-Step structure confirmed 2026-07-23; full master reference at her own README.md**
+  Full 5-step structure (Awakening, The Signal, What's Actually Wrong, The Choice, Living With It) now
+  written into her `Personal_Questline_Summary.md`, superseding the old Grok draft and fixing its Step 5
+  timing error. Step 3→4 progression is gated by the new Accomplishment Weight System
+  (`Accomplishment_Weight_System.md`), not narrow world-state triggers. A full consolidated reference for
+  everything confirmed about her — nature, construction chain, mechanical status, this questline, the
+  Fragmentation Matrix, all of it — lives at her own `README.md`, not duplicated here.
+  **The Triage Protocol connection — confirmed, not speculative, 2026-07-23:** the in-world Power Core
+  safeguards were renamed from "Ghost Protocol" to **the Triage Protocol** (resolving a naming collision with
+  an unrelated Minmax Build/Ending #18 and Ji-Eun Kim's own still-placeholder-named perk). Calethina
+  personally created it during the Long Night War evacuation; the same power shock that caused the Planetary
+  Split Brain and corrupted her own datadrives also erased her memory of having done it — she isn't hiding
+  this, she genuinely doesn't know. **Discovered over the course of her Romance questline specifically**, not
+  paired with the Step 4 embodiment decision.
+  **Still open, per her own README:** the Endings reconciliation ("The Furthest Signal" vs. the two
+  embodiment branches vs. the Pariah Accord), the new-body branch's non-stat reward, and how the older
+  reward-tier table interacts with the branch-specific mechanics.
 
 - [ ] **Jack-in sequence details**
   The Bridge Unit jack-in mechanic (see above and `Game-Mechanics/Core-Mechanics/Hacking_and_Traceability_System.md`) is confirmed as always playing a distinct triggered sequence, never backgrounded — but the sequence itself isn't designed yet. Open: what the animation actually shows, whether combat use (Signal Weapons) gets a presentation distinct from exploration use (terminals/access points/antennas), AP cost, effective range, and how a failure state presents when a target is too corrupted, too well-defended, or actively hostile during the attempt.
@@ -1075,9 +1082,10 @@ These require a developer call before downstream work can proceed. None can be r
   - **The Scorpio Archive Artist / Living Archive Community** — Goth Witness archetype; Scorpio faction in tension with clinical rebirth infrastructure
   - **Faction seeds** (Crossroads Claim, Fringe Curriculum, The Found/Assembled, The Warm Circuit, The Steady Watch, The House Network, No-One-Left-Behind Registry, The Long Frequency) — most already referenced in character files; confirm canon status and add to Factions folder where appropriate
 
-- [ ] **Ghost Protocol safeguards — design as gameplay mechanic**
-  Named and documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #9). Emergency AI protocols embedded into the Power Core during the Long Night War to prevent total collapse; now deeply entangled with core systems. Removing or overriding them risks triggering a built-in scorched-earth shutdown that could permanently disable large grid sections.
-  **Calethina connection (to develop):** Calethina may have been the one who embedded these protocols during the evacuation — a life-saving emergency measure that has been quietly strangling the city for the one to two decades since the war ended. See Calethina questline entry for the full design note.
+- [ ] **The Triage Protocol (renamed from "Ghost Protocol" 2026-07-23) — design as gameplay mechanic**
+  Named and documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #9). Emergency AI protocols embedded into the Power Core during the Long Night War to prevent total collapse; now deeply entangled with core systems. Removing or overriding them risks triggering a built-in scorched-earth shutdown that could permanently disable large grid sections. Renamed to resolve a naming collision with an unrelated Minmax Build/Ending #18 and Ji-Eun Kim's own still-placeholder-named companion perk.
+  **Calethina connection — confirmed, not speculative:** Calethina personally embedded these protocols during the evacuation; the same power shock that caused the Planetary Split Brain and corrupted her own datadrives also erased her memory of having done it. Discovered over the course of her Romance questline specifically. See her own `README.md` and Calethina questline entry for the full design note.
+  **TBD:** how this functions as an in-game obstacle or quest mechanic; connection to the main story climax; whether the player can interface with it directly.
   **TBD:** How this functions as an in-game obstacle or quest mechanic; connection to the main story climax; whether the player can interface with it directly.
 
 - [ ] **Amundsen Resonance Effect — design as gameplay mechanic**

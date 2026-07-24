@@ -177,8 +177,9 @@ only — cross-country sites are structurally impossible until "inside you" make
 5. **Aquarius — the experimental/prototype labs** — the other named core-fragment location, plus a plausible
    source of technical insight into what the Split Brain shock did to her systems.
 6. **Libra — administrative/government record vaults** — the documentary trail of the Fort McMurdo reroute
-   and wipe order, recovering context/history rather than raw data; also the most natural place a paper
-   trail toward the Ghost Protocol truth could first surface.
+   and wipe order, recovering context/history rather than raw data; possibly an adjacent thread pointing
+   toward the Triage Protocol (renamed 2026-07-23 from "Ghost Protocol") — though the actual truth of her
+   authorship is confirmed to surface specifically during her Romance questline, not here.
 
 **A second wave exists, gated behind her own story, not the accomplishment system itself:** once the "inside
 you" embodiment branch is chosen, her construction chain's cross-country sites (Byrd, Fort McMurdo,
