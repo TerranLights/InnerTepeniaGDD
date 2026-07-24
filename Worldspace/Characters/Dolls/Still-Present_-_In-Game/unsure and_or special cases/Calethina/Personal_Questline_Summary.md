@@ -87,12 +87,18 @@ same relative point in the main story, via entirely different specific accomplis
 step stalling for one playstyle or dragging for the other.
 
 ### Step 4 — The Choice
-**Timing:** AT the main quest's midpoint (fixes the original draft's core timing error, which placed this at
-"Late Act 2 → Act 3"). Fires once the Step 3 weight threshold is met. The Ghost Protocol truth surfaces here,
-deliberately paired with the embodiment decision itself — she asks the player to trust her with a decision
-about her own continued existence in the same moment her own hidden guilt becomes known. Both embodiment
-branches ("inside you" / new-body) are presented on equal footing, each with their established real costs.
-Reaching a decision here (either branch) also resolves Romance Gate 1.
+**Timing:** Fires the instant the Step 3 weight threshold (100 History Points) is met — **typically around
+the main quest's midpoint for average play, but not a hard requirement the main quest must independently
+satisfy first** (fixes the original draft's core timing error, which placed this at "Late Act 2 → Act 3").
+**Confirmed 2026-07-23:** weight alone gates it. A sufficiently skilled, prepared player who rushes Gemini's
+and Aquarius's main questlines plus one relevant Under-Questline (40+40+20=100) can trigger this far earlier
+than the typical midpoint — same shape as Fallout: New Vegas's Raúl Tejada being recruitable at Level 1 for
+a player who already knows the exact sequence. This is a deliberate reward for effort, not something to
+quietly re-gate behind an additional floor. The Ghost Protocol truth surfaces here, deliberately paired with
+the embodiment decision itself — she asks the player to trust her with a decision about her own continued
+existence in the same moment her own hidden guilt becomes known. Both embodiment branches ("inside you" /
+new-body) are presented on equal footing, each with their established real costs. Reaching a decision here
+(either branch) also resolves Romance Gate 1.
 
 ### Step 5 — Living With It
 **Timing:** Post-midpoint, entirely new relative to the original draft (which treated the download as the

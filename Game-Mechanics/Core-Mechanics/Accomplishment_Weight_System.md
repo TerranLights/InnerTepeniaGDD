@@ -43,6 +43,17 @@ accomplishment below contributes toward that same 0-100 scale for a given compan
 questline-progression gate this feeds (for Calethina, the Step 3→4 transition into "The Choice") fires once
 the companion's own accumulated total reaches the trigger.
 
+**Weight alone gates it — no independent story-beat floor, confirmed 2026-07-23.** Any timing language
+elsewhere (e.g., Calethina's Step 4 firing "at the midpoint") describes what *typically* happens for average
+play, not a hard requirement the main quest must independently satisfy first. A sufficiently skilled,
+prepared, and focused player can hit the trigger far earlier than that, and the gate should fire immediately
+when they do — same shape as Fallout: New Vegas's own Raúl Tejada, recruitable at Level 1 if the player
+already knows to go straight to Black Mountain, repair Rhonda, talk down Tabitha, and unlock the door,
+without ever touching anything else the game normally expects first. **Standing design law:** if the player
+puts in the effort — even unusual, early, highly specific effort most players won't replicate — they deserve
+the reward. This system should never be quietly re-gated behind an additional floor just to protect an
+"expected" pacing curve.
+
 **What hitting 100 pre-recruitment actually means — clarified 2026-07-23, since the retroactive tiers alone
 can reach it without the companion ever having been met.** Example: completing a meaningful district's main
 questline (40) plus three of its Under-Questlines (20 × 3 = 60) totals exactly 100, entirely through
