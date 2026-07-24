@@ -35,16 +35,28 @@ mixes — which is what "gated by story progress" is actually supposed to mean.
 
 ## The Weight Tiers
 
+**Extra-High Weight — established 2026-07-23, split out from High Weight**
+- **Character-specific accomplishment events.** Bespoke, individually-designed moments unique to one
+  companion, structurally identical to Fallout: New Vegas's Veronica Santangelo location-reveal beats (Camp
+  McCarran, Vault 3, Cottonwood Cove, the Van Graffs' energy weapons shop). These are written per-companion,
+  not generated from a generic template. Promoted to their own tier above ordinary High Weight because
+  they're the single most personally relevant plot-beats a companion has — not just weightier instances of
+  district content, but a different *kind* of accomplishment entirely. See Calethina's worked example below
+  for what a full set looks like.
+
 **High Weight**
 - Completing a district central/main questline — any district, generic.
 - **Companion-specific bonus:** extra weight if that district's main questline is completed while a
   particular companion is an active party member, when that district is personally meaningful to her (e.g.,
   Vosora Lashár Tanslock ↔ Gemini).
-- **Character-specific accomplishment events** — the richest category. Bespoke, individually-designed
-  moments unique to one companion, structurally identical to Fallout: New Vegas's Veronica Santangelo
-  location-reveal beats (Camp McCarran, Vault 3, Cottonwood Cove, the Van Graffs' energy weapons shop).
-  These are written per-companion, not generated from a generic template — see Calethina's worked example
-  below for what a full set looks like.
+- **Reaching "Idolized" status specifically in a district personally meaningful to the companion —
+  established 2026-07-23.** Reaching Idolized status is *not*, by itself, a weighted factor — reaching it
+  anywhere, in any district, contributes nothing on its own. It only counts when it's Idolized status in a
+  district that's actually meaningful to the specific companion in question. This is a distinct trigger from
+  completing that district's main/under-questline — a player could complete Gemini's main questline without
+  ever reaching Idolized there, and could also reach Idolized in Gemini through unrelated reputation-building
+  without ever touching its main questline; both are real, separately-countable High-Weight events for a
+  companion who cares about Gemini specifically.
 
 **Medium Weight**
 - Completing a district Under-Questline — any district, generic.
@@ -69,9 +81,12 @@ tightest possible thematic match. Aquarius fits independently of whether the pla
 Kim — it's tied to Aquarius's own established character (curious, wants to study/understand unusual cases)
 and to the already-confirmed possibility that fragments of her original core are hidden there. Completing
 either district's main or under-questline while she's linked/active earns the companion-specific bonus.
+Reaching **Idolized status specifically in Gemini or Aquarius** (not any other district) is a separate,
+additional High-Weight event for her — distinct from, and stackable with, completing either district's own
+main/under-questline.
 
-**Her character-specific High-Weight accomplishment events — six confirmed candidates, all pre-download and
-Concordia-only** (she cannot appear anywhere her signal can't reach, and pre-download that means Concordia
+**Her character-specific Extra-High-Weight accomplishment events — six confirmed candidates, all
+pre-download and Concordia-only** (she cannot appear anywhere her signal can't reach, and pre-download that means Concordia
 only — cross-country sites are structurally impossible until "inside you" makes her mobile, see below):
 
 1. **Ji-Eun Kim's ruined facility** — the anchor site, once found.

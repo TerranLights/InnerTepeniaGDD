@@ -257,11 +257,14 @@ but worth preserving. Status TBD: main game or DLC placement.
 Step transitions are gated by an accumulated weighted-accomplishment total, not narrow world-state triggers —
 this fixes a real pacing problem where speedrunners could skip the specific triggers entirely and
 completionists would experience huge real-hours gaps between steps even though nothing was broken. Her two
-personally-meaningful districts are **Gemini and Aquarius** (companion-specific bonus weight when their
-main/under-questlines are completed while she's active). Her six confirmed character-specific High-Weight
-accomplishment events (Fallout: New Vegas Veronica-tour equivalent), all pre-download and Concordia-only per
-her own signal-range limitation: Ji-Eun Kim's facility, Capricorn maintenance logs, a Virgo core-fragment
-cache, Gemini's Janbogo Subnet Nexus archives, Aquarius's experimental labs, and Libra's administrative
+personally-meaningful districts are **Gemini and Aquarius** — companion-specific High-Weight bonus when
+their main/under-questlines are completed while she's active, plus a separate High-Weight event for reaching
+**Idolized status specifically in either district** (not any other, and not a substitute for the
+questline-completion bonus — both are separately countable). Her six confirmed character-specific
+**Extra-High-Weight** accomplishment events (Fallout: New Vegas Veronica-tour equivalent, promoted to their
+own tier above ordinary High Weight), all pre-download and Concordia-only per her own signal-range
+limitation: Ji-Eun Kim's facility, Capricorn maintenance logs, a Virgo core-fragment cache, Gemini's Janbogo
+Subnet Nexus archives, Aquarius's experimental labs, and Libra's administrative
 record vaults. Full detail, including why each site was chosen, lives in the system doc, not duplicated
 here.
 
