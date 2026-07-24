@@ -10,15 +10,7 @@ file and start a fresh one for the next stretch of work).
 
 ## High Priority
 
-- [x] **Calethina's questline ("Echoes of the Bridge") — Step-by-Step structure confirmed 2026-07-23**
-  Full 5-step structure written into her `Personal_Questline_Summary.md` ("Confirmed Step-by-Step Structure"
-  section), superseding the old Grok draft. Produced a genuinely new general-purpose system along the way —
-  the Accomplishment Weight System (`Accomplishment_Weight_System.md`) — to fix a real pacing problem where
-  narrow world-state triggers either get skipped by speedrunners or create huge real-hours gaps for
-  completionists. A full master reference for everything confirmed about her also now exists at her own
-  `README.md`. **One thing flagged as still blocking full lock-in:** the Endings reconciliation (does "The
-  Furthest Signal" fold into the two embodiment branches, get superseded, or stand as a third option) —
-  noted in her own README, not yet resolved.
+*(No items currently — Calethina's questline is now fully tracked back in `TODO.md`.)*
 
 ---
 
@@ -36,17 +28,6 @@ file and start a fresh one for the next stretch of work).
   not) — but scope for this pass is left open per the developer's own phrasing, not narrowed to Category 4
   alone.
 
-- [x] **The Triage Protocol (renamed from "Ghost Protocol" 2026-07-23) — backstory resolved, mechanic still open**
-  Named/documented in `Worldspace/Energy_Grid_Failure_Rationale.md` (reason #9): emergency AI protocols
-  embedded into the Power Core during the Long Night War evacuation to prevent total collapse, now deeply
-  entangled with core systems — removing/overriding them risks a built-in scorched-earth shutdown. Renamed to
-  resolve a real naming collision with an unrelated Minmax Build/Ending #18 and Ji-Eun Kim's own
-  still-placeholder-named companion perk (her own rename still separately open). **Confirmed, not
-  speculative:** Calethina personally embedded it during the evacuation; the same power shock that caused
-  the Planetary Split Brain and corrupted her own datadrives also erased her memory of having done it —
-  discovered over the course of her Romance questline. Still not yet designed as an actual in-game obstacle
-  or quest mechanic — that piece remains open.
-
 **Housekeeping done alongside this list, 2026-07-23:** Juan Carlos's post-Long-Night-War status — already
 resolved in-session (Destroyed, targeted for its archive/customs function) but still sitting as an open
 checkbox in `TODO.md` — has been moved to `DONE.md`.
@@ -54,14 +35,6 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
 ---
 
 ## Long-Term Priority
-
-- [x] **Throwing weapon mechanics — blades first — universal retrieval principle written 2026-07-23**
-  Cross-project standing law (Inner Tepenia + all 3 Outer Tepenia trilogy titles) written to
-  `Game-Mechanics/Combat/Throwing_Weapons.md`: a thrown blade stays where it lands until manually retrieved,
-  in every game, regardless of engine. Inner Tepenia gates the throw itself by range/stat checks before the
-  action is legal; Outer Tepenia's open world needs a separate range-of-reach concept plus a
-  miss-only auto-return exception for iconic weapons. Four stat-mapping dimensions (range, accuracy, crit
-  chance, crit damage) remain open per `TODO.md`'s own entry — not blocking, tracked there.
 
 - [ ] **Re-number the DLCs by release order — narrowed to 2 candidate orders, 2026-07-23, decision deferred**
   Both written into `Storyline/DLC_Overview.md`'s "Release Order vs. DLC Numbering" section. South Pole
