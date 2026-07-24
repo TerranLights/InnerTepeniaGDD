@@ -10,7 +10,14 @@ file and start a fresh one for the next stretch of work).
 
 ## High Priority
 
-*(No items currently — Calethina's questline is now fully tracked back in `TODO.md`.)*
+- [ ] **District Main vs. Under-Questline candidates — generate more**
+  Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
+  are established; each district currently has only its *first* main-questline candidate. Main questlines:
+  generate several candidates per district using the existing Internal-Conflict format, then narrow to
+  exactly one. Under-Questlines: generate a floor of 5 (ideally 15-20) per district, anchored to a
+  "significant starting point" (a named figure or a data-point at a significant location) — and, unlike main
+  questlines, **keep all of them**, no narrowing. See `project_district_questline_production_workflow`
+  memory for the full workflow.
 
 ---
 
@@ -27,6 +34,16 @@ file and start a fresh one for the next stretch of work).
   own flagged dedicated-investigation need (which faction(s), what astronomical event, Kunlun-centered or
   not) — but scope for this pass is left open per the developer's own phrasing, not narrowed to Category 4
   alone.
+
+- [ ] **Doll Enneagram gaps — review pass**
+  Four characters missing a type entirely: Maria (FR-03), Momo (TCY-45), Eirwyn Cardoss (Off-World template
+  has no Enneagram field), and **Calethina** — flagged in the original TODO entry as "no standard README,"
+  which is now stale (she has a full master `README.md` as of this session) but she still has no formally
+  assigned Enneagram type, so worth confirming whether that's still a real gap or already implicitly
+  answered by everything now written about her. Two missing a subvariant: Charlene (XT-17, 5w4) and Angelina
+  (XT-21, 7w8). Broader pass: confirm existing subvariant assignments are correct across all typed dolls
+  before Phase 3 personality work begins. Don't design companion perks, attraction profiles, or romance
+  gates for the type-missing characters until this is resolved.
 
 **Housekeeping done alongside this list, 2026-07-23:** Juan Carlos's post-Long-Night-War status — already
 resolved in-session (Destroyed, targeted for its archive/customs function) but still sitting as an open
