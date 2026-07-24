@@ -13,6 +13,15 @@ of that rule that survived the 2026-07-12 sweep because they're demographic/fact
 stereotype-language bugs — the sweep caught bad *prose* ("German rigor"); this process catches bad
 *facts underneath correct-sounding prose*.
 
+**The scale of time that makes this rule necessary, not just a style preference:** the Falkland
+Treaty was signed **June 21, 2564.** William Shakespeare was born April 23, 1564. **We are, today,
+closer to the birth of William Shakespeare than we are to the signing of the Falkland Treaty.**
+Expecting a Tepenian city's present-day culture to still resemble its founding nation's real-world
+stereotypes is exactly as implausible as expecting modern English culture to still resemble
+Shakespeare's England just because Shakespeare was English. That much elapsed time makes a founding
+nation pure geography — a GPS coordinate marking where something started, never a live causal force
+on what a culture looks like on the far side of that gap.
+
 ---
 
 ## 1. The three-way distinction (read this before touching any file)

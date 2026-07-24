@@ -4,6 +4,8 @@ This directory contains culture spec sheets for each Tepenian city — the compo
 
 Each city's culture is not a blend of its origin nations. It is something new: shaped by those roots, but its own distinct thing.
 
+**GPS purposes only, always:** we are, today, closer to the birth of William Shakespeare (1564) than we are to the signing of the Falkland Treaty (June 21, 2564, per `README.md`). A city's founding nation is exactly that distant from its present-day culture — a GPS coordinate marking where the story started, never a cause of what a culture is like now. See `Founding_Nation_Bug_Investigation_Methodology.md` before writing or revising any city's culture.
+
 Files are organized by subnet. Cross-reference `Cities/Official_Population_Census.md` for each city's national origin composition (Primary / Significant / Notable tiers).
 
 **Methodology note (confirmed 2026-07-03):** these spec sheets document each city as
