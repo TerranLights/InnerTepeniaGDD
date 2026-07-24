@@ -251,6 +251,22 @@ but worth preserving. Status TBD: main game or DLC placement.
 
 ---
 
+## Personal Questline Pacing — Accomplishment Weight System
+
+**Confirmed 2026-07-23** (`Game-Mechanics/Core-Mechanics/Accomplishment_Weight_System.md`): her questline's
+Step transitions are gated by an accumulated weighted-accomplishment total, not narrow world-state triggers —
+this fixes a real pacing problem where speedrunners could skip the specific triggers entirely and
+completionists would experience huge real-hours gaps between steps even though nothing was broken. Her two
+personally-meaningful districts are **Gemini and Aquarius** (companion-specific bonus weight when their
+main/under-questlines are completed while she's active). Her six confirmed character-specific High-Weight
+accomplishment events (Fallout: New Vegas Veronica-tour equivalent), all pre-download and Concordia-only per
+her own signal-range limitation: Ji-Eun Kim's facility, Capricorn maintenance logs, a Virgo core-fragment
+cache, Gemini's Janbogo Subnet Nexus archives, Aquarius's experimental labs, and Libra's administrative
+record vaults. Full detail, including why each site was chosen, lives in the system doc, not duplicated
+here.
+
+---
+
 ## Ghost Protocol Connection (Developing, Not Yet Resolved)
 
 Calethina may have been the one who embedded the Ghost Protocol safeguards into the Power Core during the
@@ -336,6 +352,8 @@ always the same signal projected into different physical spaces.
   through repeated re-speccing
 - `Game-Mechanics/Core-Mechanics/Fragmentation_Matrix.md` — her Bond/Grief tracking, Direct Participation
   Count
+- `Game-Mechanics/Core-Mechanics/Accomplishment_Weight_System.md` — her questline's pacing mechanism, the
+  Gemini/Aquarius bonus districts, and her six character-specific accomplishment sites
 - `Game-Mechanics/Core-Mechanics/Hacking_and_Traceability_System.md` — the Bridge Unit definition and her
   role in creating the player as one
 - `Game-Mechanics/Core-Mechanics/Player_Re-Spec_-_Options_Beyond_Calethina.md` — retired/superseded, historical
