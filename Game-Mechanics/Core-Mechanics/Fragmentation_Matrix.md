@@ -1,5 +1,10 @@
 # Fragmentation Matrix
 
+**Release scope, confirmed 2026-07-24:** this entire system — the Bond/Grief axes, the 16-cell grid, The
+Long Vigil and its companion-questline pathlines, residual player-mechanic echoes, "glitchy" re-spec effects,
+and its Endings tie-ins — is **Launch-exclusive, not part of Early Access.** See
+`Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md` Category 2 for the reasoning.
+
 **Source:** structurally parallel to `Reputation_System.md`'s two-axis Fame/Infamy model, developed
 2026-07-23 at the developer's explicit request — a system for tracking how individual companions (and
 companion-adjacent characters — Calethina tracks Bond/Grief despite occupying no companion slot, see

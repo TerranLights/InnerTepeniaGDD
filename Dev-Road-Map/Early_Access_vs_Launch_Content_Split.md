@@ -30,6 +30,16 @@ These are the cleanest, most easily justified Launch-exclusive items, because th
   needing more polish — closer in kind to the full companion roster/companion homes pattern above (ship the
   scoped version first, the fuller version at launch) than to Category 1's funding-gated items or Category 3's
   stability-gated ones.
+- **The Fragmentation Matrix and everything it feeds — confirmed Launch-exclusive, 2026-07-24.** The Bond/
+  Grief two-axis system (`Game-Mechanics/Core-Mechanics/Fragmentation_Matrix.md`), and everything that
+  inherits from it — the 16-cell grid, The Long Vigil and its companion-questline pathlines, residual
+  player-mechanic echoes, "glitchy" re-spec effects, and its own Endings tie-ins — ships at Launch only, not
+  Early Access. Same reasoning as "throw anything" above: this is a genuinely large, cross-cutting system
+  (touches every companion's relationship tracking, the re-spec mechanic, and a whole Secret-Endings category)
+  rather than something that just needs more polish, so it's held back in full rather than shipping a
+  scoped-down version. Early Access's own reduced companion roster (see below) makes this a clean cut besides
+  — there's little value in a partial Fragmentation Matrix built around only 3-4 companions when the system's
+  own depth comes from being tracked across the full roster.
 
 ### Resolved 2026-07-10: Romance stays in Early Access, but with a reduced roster
 
