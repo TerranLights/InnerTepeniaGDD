@@ -79,6 +79,18 @@ with something specific to a given companion. When both are true at once, the un
 depend on the companion having witnessed it — it's simply true about the world, and she can be credited for
 it whenever she's recruited.
 
+**The in-world reasoning behind the test, not just the mechanical convenience:** Idolized status and district
+main-questline completion are the kind of thing that becomes genuinely, organically *known* within that
+district and beyond — reputation spreads, a resolved central conflict gets talked about, word travels
+through a lived-in community the ordinary way. A companion personally connected to that district would
+plausibly have heard about the player through completely normal in-world channels, with no magical
+hand-waving required to explain how she knows. **Visiting a specific location doesn't have this property.**
+Nobody organically gossips about a stranger having walked through a particular fashion center or care
+facility — that's a private, quiet act with no natural information-spread mechanism behind it, which is
+exactly why it can't be retroactively known by a companion who wasn't there for it. The retroactivity test
+isn't an arbitrary mechanical convenience; it tracks a real distinction in how information plausibly moves
+through Concordia.
+
 **Qualifies (retroactive):**
 - Reaching Idolized status in a district directly personally meaningful to the companion — a reputation
   tier is a standing world-state fact.
