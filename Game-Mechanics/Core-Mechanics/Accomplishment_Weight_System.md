@@ -41,14 +41,15 @@ mixes — which is what "gated by story progress" is actually supposed to mean.
   McCarran, Vault 3, Cottonwood Cove, the Van Graffs' energy weapons shop). These are written per-companion,
   not generated from a generic template. Promoted to their own tier above ordinary High Weight because
   they're the single most personally relevant plot-beats a companion has — not just weightier instances of
-  district content, but a different *kind* of accomplishment entirely. See Calethina's worked example below
-  for what a full set looks like.
+  district content, but a different *kind* of accomplishment entirely. **Requires the companion to be
+  actively recruited and present at the time — never retroactive** (see Retroactivity, below). See
+  Calethina's worked example below for what a full set looks like.
 
 **High Weight**
 - Completing a district central/main questline — any district, generic.
-- **Companion-specific bonus:** extra weight if that district's main questline is completed while a
-  particular companion is an active party member, when that district is personally meaningful to her (e.g.,
-  Vosora Lashár Tanslock ↔ Gemini).
+- **Companion-specific bonus:** extra weight if that district's main questline is completed and that
+  district is personally meaningful to a given companion. **Retroactive** (see below) — the companion does
+  not need to be recruited or active at the time this happens.
 - **Reaching "Idolized" status specifically in a district personally meaningful to the companion —
   established 2026-07-23.** Reaching Idolized status is *not*, by itself, a weighted factor — reaching it
   anywhere, in any district, contributes nothing on its own. It only counts when it's Idolized status in a
@@ -56,14 +57,47 @@ mixes — which is what "gated by story progress" is actually supposed to mean.
   completing that district's main/under-questline — a player could complete Gemini's main questline without
   ever reaching Idolized there, and could also reach Idolized in Gemini through unrelated reputation-building
   without ever touching its main questline; both are real, separately-countable High-Weight events for a
-  companion who cares about Gemini specifically.
+  companion who cares about Gemini specifically. **Also retroactive.**
 
 **Medium Weight**
 - Completing a district Under-Questline — any district, generic.
-- Same companion-specific bonus mechanic as above, at Medium scale.
+- Same companion-specific bonus mechanic as above, at Medium scale. **Also retroactive**, by the same logic.
 
 **Low Weight**
 - Location discovery.
+
+---
+
+## Retroactivity — established 2026-07-23
+
+**The test:** an accomplishment is retroactive — it counts toward a companion's total even if she hasn't
+been recruited yet, or isn't in the active party at the time it happens — **only when it is simultaneously
+both "world-based" and "personal" at once.** "World-based" means the accomplishment is a persistent
+world-state fact (a reputation tier, a quest-completion flag) that remains true regardless of who was
+present when it happened or how much later someone checks it. "Personal" means it also happens to intersect
+with something specific to a given companion. When both are true at once, the underlying fact doesn't
+depend on the companion having witnessed it — it's simply true about the world, and she can be credited for
+it whenever she's recruited.
+
+**Qualifies (retroactive):**
+- Reaching Idolized status in a district directly personally meaningful to the companion — a reputation
+  tier is a standing world-state fact.
+- Completing the central/main district questline in a district directly personally meaningful to the
+  companion — same reasoning, a permanent story-resolution fact.
+
+**Does not qualify (requires active presence at the time):**
+- Visiting a location directly personally meaningful to the companion (e.g., a specific hospital, care
+  center, or fashion center meaningful to Ayako Hayashi) while she isn't an active companion. Visiting a
+  location isn't an independent world-state fact the way a reputation tier or quest completion is — it's an
+  experiential, witnessed moment that only exists *because* the companion was there for it. If she wasn't
+  there, it didn't happen for her, and it can't be recognized after the fact once she's recruited.
+
+**Practical consequence:** the Extra-High Weight tier (character-specific accomplishment events) is
+categorically never retroactive, for exactly this reason — those events are, by definition, shared
+witnessed moments, not standing world facts. The High- and Medium-Weight companion-specific district bonuses
+are categorically retroactive, since reputation tiers and quest-completion flags are standing world facts by
+nature. This is a clean rule, not a judgment call to make per-accomplishment: check whether the thing itself
+is a persistent world-state fact independent of presence, and the retroactivity answer follows automatically.
 
 **Numeric point values for each tier are deliberately not set yet** — structure and worked examples come
 first, per standing practice on this project (same sequencing already used for district re-spec IF costs).
