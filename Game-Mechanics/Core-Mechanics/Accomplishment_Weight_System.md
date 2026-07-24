@@ -43,6 +43,18 @@ accomplishment below contributes toward that same 0-100 scale for a given compan
 questline-progression gate this feeds (for Calethina, the Step 3→4 transition into "The Choice") fires once
 the companion's own accumulated total reaches the trigger.
 
+**What hitting 100 pre-recruitment actually means — clarified 2026-07-23, since the retroactive tiers alone
+can reach it without the companion ever having been met.** Example: completing a meaningful district's main
+questline (40) plus three of its Under-Questlines (20 × 3 = 60) totals exactly 100, entirely through
+retroactive categories, with zero recruitment required. **This does not mean her questline's own steps
+advance or complete in her absence** — the Extra-High-Weight character-specific site visits (the actual
+content-bearing steps of her arc) require her active presence and can never be retroactive, so nothing about
+her own story can progress without her actually being there. What a pre-satisfied trigger means is that
+**her personal questline becomes immediately available the moment she's actually recruited** — no additional
+buildup required, because the game recognizes she'd plausibly already know the player by reputation. A
+reward for engagement that happened to overlap with what she cares about, not a way to skip her story
+entirely.
+
 **Extra-High Weight — established 2026-07-23, split out from High Weight**
 - **Visiting a site especially meaningful to a companion personally, while she's an active companion — 30
   points.** Bespoke, individually-designed moments unique to one companion, structurally identical to
