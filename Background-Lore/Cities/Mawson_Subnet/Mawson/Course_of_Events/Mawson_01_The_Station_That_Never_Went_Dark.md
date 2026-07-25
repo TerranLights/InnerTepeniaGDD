@@ -2,10 +2,14 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #1**, translated from `Mawson_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in Mawson Station's established unbroken
-operational continuity since 1954 and "The Name That Outlasted the Founders" theme operating at the
-infrastructural level, not only the demographic one (`Mawson_Cross_Reference_Synthesis` Finding 1).
-Character fields are intentionally left blank — see each Conflict section's Design Notes for what kind
+`z-template_-_city_histories_conflict_variant.md`. **Flagged in this city's own `candidates.txt` as unfit
+for use — likely to be replaced rather than built on further.** Grounded in Mawson's established unbroken
+*Tepenian* operational continuity since 2564 and "The Name That Outlasted the Founders" theme operating at
+the infrastructural level, not only the demographic one (`Mawson_Cross_Reference_Synthesis` Finding 1).
+**Corrected 2026-07-24, GPS-purposes-only pass:** the real AAD station operated 1954-2083, then sat dormant
+for nearly five centuries before 2564 — see `Specs/Mawson.md`. The "unbroken continuity" this file's premise
+depends on is Tepenia's own, starting at 2564, not a bridge across that dormant gap. Character fields are
+intentionally left blank — see each Conflict section's Design Notes for what kind
 of conflict, and what kind of character(s), would make the following setting-condition become true.
 
 ---
@@ -13,10 +17,11 @@ of conflict, and what kind of character(s), would make the following setting-con
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Mawson Station's real-world operation runs continuously from 1954 onward, and the exile community
-inheriting it never experiences the kind of total rebuilding-from-scratch other Tepenian cities go
-through — infrastructure, procedure, and habit all passed down whole rather than reconstructed from
-ruin.
+The founding exile community reclaims Mawson Station's substantial but long-dormant infrastructure in 2564,
+and — once resettled — never experiences the kind of *repeated* rebuilding-from-scratch other Tepenian
+cities go through afterward: once reclaimed, Tepenian Mawson's own operation runs unbroken from that point
+forward, infrastructure, procedure, and habit passed down whole within the exile community's own history,
+generation after generation.
 
 ---
 
@@ -44,7 +49,7 @@ inherited procedures preserved close to exactly as handed down — worried that 
 the very continuity that makes the city function — and someone pushing to adapt those same inherited
 habits for a population that no longer matches the one they were built for. This shouldn't play as
 rigid-traditionalist versus reckless-reformer: A's caution is protecting something genuinely valuable
-(a century-plus of working institutional memory doesn't survive carelessness), while B isn't trying to
+(centuries of working Tepenian institutional memory don't survive carelessness), while B isn't trying to
 discard that memory, only to keep it usable for people it wasn't originally written for.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a long-serving

@@ -106,9 +106,9 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Signy Research Station infrastructure. The BAS had operated seasonally at Signy since 1947; the exile community converted it to year-round habitation. The biological research mission — focused on the South Orkney Islands' marine ecology and terrestrial biology — continued into and through the exile era.
+**Settled:** Post-Falkland Treaty, on Signy Research Station infrastructure. The BAS had operated seasonally at Signy since 1947, until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for nearly five centuries before the 2564 exiles converted it to year-round habitation. *(Corrected 2026-07-24, GPS-purposes-only pass: the original biological research mission could not have "continued into and through the exile era" — nobody was present across that gap. The exiles independently developed their own biological-science focus on the South Orkney Islands' marine ecology and terrestrial biology, a genuine convergence with the site's own physical circumstances rather than an inherited program.)*
 
-**Founding population:** British exiles with a biological science focus. Signy's founding community had a distinct character from the other British Palmer subnet cities — where Rothera was operational and Port Lockroy was historical, Signy was scientific. The long-running BAS biological monitoring programs gave the founding community both a mission and a methodology.
+**Founding population:** British exiles who independently developed a biological science focus. Signy's founding community had a distinct character from the other British Palmer subnet cities — where Rothera was operational and Port Lockroy was historical, Signy was scientific, arriving at that same focus the BAS once had by studying the same islands themselves, not by inheriting BAS's own mission or methodology.
 
 The South Orkney Islands had also been the site of a brief Argentine occupation in 1976 — a political act under the Antarctic Treaty — which contributed to pre-exile Antarctic sovereignty tensions. The exile era resolved those tensions under the Falkland Treaty's broader framework, but the history remained.
 

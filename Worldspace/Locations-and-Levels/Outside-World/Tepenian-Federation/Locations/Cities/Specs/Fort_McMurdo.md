@@ -115,7 +115,7 @@ Scott Base — New Zealand's Antarctic station, now the Tepenian city of **Scott
 
 ## Founding
 
-**Settled:** Shortly after the Falkland Treaty (June 21, 2564). McMurdo Station was the largest and best-equipped Antarctic station in the pre-exile world — the Americans had built it into a genuine small-town infrastructure with piers, fuel storage, vehicle depots, a harbor, and full utilities. The exile settlement inherited the most substantial ready-to-use foundation of any city in Tepenia.
+**Settled:** Shortly after the Falkland Treaty (June 21, 2564). McMurdo Station was the largest and best-equipped Antarctic station in the pre-exile world — the Americans had built it into a genuine small-town infrastructure with piers, fuel storage, vehicle depots, a harbor, and full utilities, operating until the 2083 nuclear war ended Upper Earth's national Antarctic programs. By 2564, nearly five centuries had passed since anyone maintained it *(noted 2026-07-24, GPS-purposes-only pass)* — but its sheer original scale still meant the exile settlement inherited the most substantial foundation of any city in Tepenia to reclaim and rebuild.
 
 **Founding population:** Primarily American exiles alongside a broad international community — McMurdo Station had always been a multinational working environment, and the exile city continued that pattern. The Americans founded and named it but never exclusively owned it.
 

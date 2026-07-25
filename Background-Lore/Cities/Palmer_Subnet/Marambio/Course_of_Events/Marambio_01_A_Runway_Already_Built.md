@@ -3,10 +3,12 @@
 
 **Course of Events Suggestion #1**, translated from `Marambio_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Mega_Init` "Hard Facts" (Founding —
-Argentine Air Force since 1969; exile community inherited a fully working aviation hub rather than an
-improvised settlement) and "Who Lives Here, and Why" (the base's founding-era military-aviation
-institutional character persisting regardless of who actually staffed it). Character fields are
-intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and what
+Argentine Air Force from 1969 until the 2083 nuclear war ended Upper Earth's national Antarctic programs;
+the base then sat dormant for nearly five centuries before the exile community arrived in 2564 and
+inherited a fully-built, but long-abandoned, aviation hub — see `Specs/Marambio.md`, corrected 2026-07-24)
+and "Who Lives Here, and Why" (the base's founding-era military-aviation institutional character, re-
+established by ex-Air Force exiles themselves rather than surviving pre-war personnel). Character fields
+are intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and what
 kind of character(s), would make the following setting-condition become true.
 
 ---
@@ -14,24 +16,26 @@ kind of character(s), would make the following setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Marambio's exile community inherits a fully working Argentine Air Force aviation hub, operational since
-1969 — a genuine functional head start rather than an improvised settlement. Runway, hangars, and
-maintenance infrastructure all already exist; nobody has to build a working airfield from nothing.
+Marambio's exile community inherits the physical shell of a fully-built Argentine Air Force aviation hub,
+long dormant since 1969 — a genuine structural head start over an improvised settlement, once reclaimed and
+repaired. Runway, hangars, and maintenance infrastructure all already exist in some form; nobody has to
+design a working airfield from nothing, even though centuries of neglect mean nobody has to *rebuild* one
+either.
 
 ---
 
 ## Trigger
 ###### What disrupts the above baseline.
 
-Inheriting working infrastructure doesn't automatically mean inheriting the discipline that kept it
-running. The earliest years settle into simply maintaining and adapting what's already there rather than
-building anything new — a genuinely different founding experience than cities that had to improvise their
-whole infrastructure from scratch. But the original Air Force personnel who embodied that operational
-rigor are a shrinking, aging presence, and the growing civilian exile population arriving alongside them
-has no built-in reason to absorb military-grade standards just because the runway happens to still be
-theirs to use. Infrastructure without the institutional culture behind it eventually degrades regardless
-of how well it was originally built — hardware doesn't maintain itself, and the settlement is drifting
-toward a future where it still has the runway but not the practice that kept it flightworthy.
+Reclaiming derelict infrastructure doesn't automatically produce the discipline needed to keep it running.
+Among the earliest 2564 exiles are a number of former Argentine Air Force personnel — refugees themselves,
+not survivors of the original station — who recognize the airfield's design and bring real operational
+rigor to reclaiming it. But that generation of ex-Air Force exiles is itself a shrinking, aging presence as
+the years pass, and the growing civilian exile population arriving alongside and after them has no
+built-in reason to absorb military-grade standards just because the runway happens to be theirs to use now.
+Infrastructure without the institutional culture behind it eventually degrades regardless of how well it
+was originally built or how well it was reclaimed — hardware doesn't maintain itself, and the settlement is
+drifting toward a future where it still has the runway but not the practice that keeps it flightworthy.
 
 ---
 
@@ -53,8 +57,9 @@ quietly erodes over a generation, and that by the time anyone notices the declin
 left who remembers what the standard used to be.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly one of the last
-remaining original Air Force personnel, or a civilian who apprenticed directly under them, watching the
-skill and habits she absorbed have no obvious successor. Character B is plausibly a civilian settler or
+remaining ex-Air Force exiles from the founding generation, or a civilian who apprenticed directly under
+them, watching the skill and habits she absorbed have no obvious successor. Character B is plausibly a
+civilian settler or
 early community organizer, possibly a respected figure among the exile arrivals, wary of letting military
 structure define civilian life just because it happens to share a runway with it. Neither is wrong on the
 merits; the disagreement is over whether operational culture can survive being merely inherited, or has to
@@ -67,7 +72,7 @@ be deliberately re-taught to people who never signed up to learn it.
 
 Neither side gets what they originally wanted outright. What emerges instead is a genuine compromise: a
 structured but voluntary training and mentorship track, open to any civilian settler who wants real
-competency in keeping the airfield running, taught by the remaining original personnel on their own
+competency in keeping the airfield running, taught by the remaining ex-Air Force exiles on their own
 authority but without any formal chain-of-command imposed on daily civilian life. Nobody is conscripted
 into discipline; the discipline simply becomes the only credible path to real airfield competence, and
 enough settlers choose it that the base's operational culture survives the transition intact.

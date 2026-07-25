@@ -100,7 +100,7 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Davis Station infrastructure. The Australian Antarctic Division has operated here since 1957, giving Davis one of the longest occupations of any Mirny subnet city. The exile community inherited not just the physical infrastructure but the accumulated environmental knowledge of decades of Australian research in the Vestfold Hills.
+**Settled:** Post-Falkland Treaty, on Davis Station infrastructure. The Australian Antarctic Division operated here from 1957 until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for centuries before the 2564 exiles arrived. *(Corrected 2026-07-24 — GPS-purposes-only pass: no living environmental knowledge could have survived that gap; what the exiles actually inherited was the physical infrastructure, which they then had to re-learn the Vestfold Hills' terrain through independently, over generations of their own.)*
 
 **Founding population:** Australian exiles. The Australian community in the Mirny subnet spans Casey, Mirny itself (a Significant-tier presence), and Davis — three cities carrying Australian founding-wave heritage across the subnet.
 
@@ -112,7 +112,7 @@ Named after John King Davis — the ship's captain who enabled others' greatness
 
 Davis had the character of a city that benefited from exceptional terrain. The Vestfold Hills offered more environmental variety than almost any other Tepenian city: lakes of different types, rocky outcrops, fjord access, the full ice-free oasis environment. The city's layout could take advantage of terrain that other cities didn't have.
 
-The Australian Antarctic Division's practical, research-focused institutional culture shaped Davis from the beginning, reinforced by the sheer scale of the terrain its founders were tasked with understanding — lakes, rocky outcrops, fjord access, a full ice-free oasis environment unlike almost anywhere else in Tepenia. Not the subnet hub (that's Mirny itself), Davis had less administrative weight and more of the oasis city's particular character.
+A practical, research-focused institutional culture shaped Davis from the beginning — not inherited from the AAD (which had no living presence left to hand anything down), but independently developed by the founding exile community itself, forced into that same practical/research-minded shape by the sheer scale of the terrain they had to learn from scratch — lakes, rocky outcrops, fjord access, a full ice-free oasis environment unlike almost anywhere else in Tepenia. *(Corrected 2026-07-24, GPS-purposes-only pass — a coincidence of convergent circumstance, not a direct inheritance.)* Not the subnet hub (that's Mirny itself), Davis had less administrative weight and more of the oasis city's particular character.
 
 **Nationally known for:** The Vestfold Hills — the largest ice-free terrain in Tepenia. The fjord inlets. The John King Davis name — the enabler rather than the explorer.
 

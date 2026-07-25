@@ -112,7 +112,7 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty. French exiles built on the Dumont d'Urville Station infrastructure, inheriting both the facility and the island's peculiar geography. The French Antarctic presence had been continuous at this site since 1956 (the station was briefly replaced by a successor, then rebuilt at the same location); the exile community built on generations of accumulated knowledge of how to live on Petrel Island.
+**Settled:** Post-Falkland Treaty. French exiles built on the Dumont d'Urville Station infrastructure, inheriting the facility itself. The French Antarctic presence had been continuous at this site from 1956 (the station was briefly replaced by a successor, then rebuilt at the same location) until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for nearly five centuries before the 2564 exiles arrived. *(Corrected 2026-07-24, GPS-purposes-only pass: no generations of accumulated knowledge about living on Petrel Island could have survived that gap — the exile community had to re-learn the island's peculiar geography themselves, from scratch.)*
 
 **Founding population:** Primarily French exiles alongside other francophone communities and whoever else arrived on the Adélie coast.
 

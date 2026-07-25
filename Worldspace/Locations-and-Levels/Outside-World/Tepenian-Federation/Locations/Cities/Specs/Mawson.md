@@ -99,7 +99,7 @@ St. Douglas (Mawson) is the patron Saint of this city and subnet. His connection
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Mawson Station infrastructure. The Australian Antarctic Division had operated here continuously since 1954 — the longest unbroken human occupation of any Tepenian city. The institutional continuity, operational knowledge, and physical infrastructure gave the founding exile community one of the most well-established bases in Tepenia.
+**Settled:** Post-Falkland Treaty, on Mawson Station infrastructure. The Australian Antarctic Division operated here from 1954 until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for nearly five centuries before the 2564 exiles arrived. *(Corrected 2026-07-24 — GPS-purposes-only pass: the real-world operator's institutional continuity and operational knowledge cannot have survived that gap; nobody was present to carry it forward.)* What the exiles actually inherited was the physical shell — genuinely one of the most substantial and well-built bases in Tepenia, which is what actually gave the founding community its strong start. Since 2564, Tepenian Mawson itself has been the longest unbroken *Tepenian* occupation of any city in the nation — a real and different claim from the station's pre-exile history.
 
 **Founding population:** Australian exiles, Australian Antarctic Division heritage. Inheriting the longest unbroken occupation of any Tepenian city gave the founding community a strong sense of territorial legitimacy in their corner of the continent.
 
@@ -109,7 +109,7 @@ Named for St. Douglas (Sir Douglas Mawson, 1882–1958) — the patron Saint of 
 
 ## Character & Culture
 
-Mawson had the character of a city that had been here the longest of anyone in its subnet and knew it. The 1954 founding date — the oldest continuing occupation of any Mawson subnet city — gave the community a sense of deep roots and accumulated knowledge. Seven decades of unbroken operation, keeping an aging, always-occupied facility running through everything the continent threw at it, left the exile community with a working culture that was practical, endurance-focused, and institutionally competent — earned through the sheer duration of the job, not inherited from any single founding population.
+Mawson had the character of a city that had been here the longest of anyone in its subnet and knew it. **Corrected 2026-07-24, GPS-purposes-only pass:** the "deep roots and accumulated knowledge" this identity rests on trace to Tepenia's own 2564 founding, not the real station's 1954 origin — that gap is centuries wide, and the original operators left nothing behind but the physical shell. Since 2564, unbroken operation of an aging, always-occupied facility through everything the continent threw at it left the exile community with a working culture that was practical, endurance-focused, and institutionally competent — earned through the sheer duration of *their own* tenure, not inherited from any single founding population, and certainly not from the station's own pre-exile history.
 
 The St. Douglas connection was not just nominal. Mawson Station was named after the explorer who made Australian polar history; the exile city inherited that name and that lineage. The Tepenian Saints framework made St. Douglas the patron of the city that bore his name.
 

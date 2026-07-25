@@ -19,9 +19,11 @@ setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Davis's founding population arrives with a genuine research mission, inheriting decades of AAD
-environmental study into the Vestfold Hills' unusual terrain — a settlement whose earliest institutional
-identity is built entirely around continuing that scientific work.
+Davis's founding population arrives with a genuine research mission, inheriting the AAD's physical
+infrastructure and the Vestfold Hills' unusual terrain itself — long unstudied since the real program ended
+centuries earlier *(corrected 2026-07-24, GPS-purposes-only pass; see `Specs/Davis.md`)* — a settlement
+whose earliest institutional identity is built entirely around independently re-establishing that kind of
+scientific work themselves.
 
 ---
 

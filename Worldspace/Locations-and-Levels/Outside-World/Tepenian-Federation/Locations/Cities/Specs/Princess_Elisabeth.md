@@ -111,7 +111,7 @@ The station was designed by the International Polar Foundation as the first zero
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Princess Elisabeth Antarctica station infrastructure. The International Polar Foundation's station opened in 2009 — the most recently built of the founding-era stations. The exile community inherited both the zero-emissions infrastructure and the design philosophy behind it.
+**Settled:** Post-Falkland Treaty, on Princess Elisabeth Antarctica station infrastructure. The International Polar Foundation's station opened in 2009 — the most recently built of the founding-era stations, though still over five centuries before the 2564 exiles arrived, the IPF's own operation ended long before by the 2083 nuclear war. The exile community inherited the zero-emissions physical infrastructure; the engineering logic behind it had to be independently re-derived by the exiles themselves from studying the surviving systems *(corrected 2026-07-24, GPS-purposes-only pass — "the design philosophy behind it" implied a living inheritance that couldn't have survived the gap)*.
 
 **Founding population:** Belgian exiles, with International Polar Foundation institutional character. Belgium's Antarctic presence was primarily through Princess Elisabeth; the Belgian exile community was concentrated here.
 
@@ -127,7 +127,7 @@ Princess Elisabeth had the character of a city that took its design principles s
 
 That design principle, extended across generations into a full community, produced a particular relationship to resource use and environmental accountability — not moralistic, but practical: the systems that kept the city alive were visible, understandable, and demanded active maintenance every single day. When the war came and those systems failed or were destroyed, the city had nothing else to protect it.
 
-Princess Elisabeth's identity was never really about which nation's population dominated its streets — Belgium's founding community remained a small, specific presence alongside the larger currents that arrived later — but about the design identity every resident inherited and had to actively maintain just to keep living there.
+Princess Elisabeth's identity was never really about which nation's population dominated its streets — Belgium's founding community remained a small, specific presence alongside the larger currents that arrived later — but about the design logic every resident had to independently re-learn and then actively maintain just to keep living there *(corrected 2026-07-24, GPS-purposes-only pass — a demand the physical systems themselves imposed on the exiles, not a philosophy handed down to them)*.
 
 **Nationally known for:** The zero-emissions design — a city that could only exist through continuous engineering, on one of the most exposed sites in the subnet. The Sør Rondane mountain position. Being the Halley subnet city that had nothing to fall back on when its systems finally failed.
 

@@ -104,7 +104,7 @@ What makes Vostok more than simply the coldest and most isolated place in an alr
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty. Vostok Station had been in continuous Soviet/Russian operation since 1957 — one of the longest-running Antarctic stations. By 2564, it was old infrastructure but functioning, which made it one of the few inland sites where exile settlement was practically possible. The founding community inherited both the station's extreme environment and its extraordinary scientific legacy.
+**Settled:** Post-Falkland Treaty. Vostok Station had been in Soviet/Russian operation from 1957 until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which it sat dormant, unstaffed, for nearly five centuries. *(Corrected 2026-07-24, GPS-purposes-only pass: "old infrastructure but functioning" and "inherited... its extraordinary scientific legacy" both overstated it — nobody maintained the station across that gap, and no living scientific legacy could survive it.)* What actually made 2564 settlement possible was the surviving physical shell and the extreme environment itself, which the founding community had to re-learn to survive in from scratch, independently building whatever scientific culture Vostok has today.
 
 **Founding population:** Primarily Russian exiles, given the station's deep Soviet/Russian institutional character. The community that settled Vostok was necessarily small — the environment cannot sustain a large population — and necessarily specialized. You did not go to Vostok by accident.
 

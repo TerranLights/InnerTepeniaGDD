@@ -42,11 +42,15 @@ capital by highway, the institutional habit outliving the infrastructure it was 
 
 ## 4. Never Gone Dark
 
-Novolazarevskaya's real station never once went dark in its entire operational history, and that
+*(Corrected 2026-07-24, GPS-purposes-only pass: the real Novolazarevskaya station went dark along with the
+rest of Upper Earth's national Antarctic programs at the 2083 nuclear war, then sat dormant for centuries —
+the record below is Tepenian Lazar's own, starting at 2564, not the real station's full history.)*
+
+Since its 2564 founding, Tepenian Lazar's old core has never once gone dark, and that
 unbroken continuity becomes the old core's defining civic pride, carried forward into the coalesced
 city. **But** pride like that eventually gets tested by something other than its own reputation.
 **Therefore** when a region-wide grid failure knocks out power across much of the Halley subnet for
-days, the old core's century-plus tradition of continuous, robust maintenance keeps its own systems
+days, the old core's centuries-long tradition of continuous, robust maintenance keeps its own systems
 running almost untouched, while newer infrastructure elsewhere in the subnet goes dark for the
 duration. **But** surviving the outage doesn't erase what it reveals about everyone else's
 infrastructure. **Therefore** the district whose whole identity is "we never went dark" spends the

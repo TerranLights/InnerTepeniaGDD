@@ -81,9 +81,9 @@ The Argentine Air Force chose Seymour Island for the runway — flat terrain, re
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Marambio Base infrastructure. The Argentine Air Force had operated here since 1969, giving the island a continuous human presence and functional runway infrastructure. The exile community inherited an aviation hub and built a city around it.
+**Settled:** Post-Falkland Treaty, on Marambio Base infrastructure. The Argentine Air Force operated here from 1969 until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the base sat dormant, unstaffed, for nearly five centuries before the 2564 exiles arrived. *(Corrected 2026-07-24, GPS-purposes-only pass: there is no continuous Air Force presence, command structure, or personnel bridging that gap — "giving the island a continuous human presence" overstated it badly. The runway infrastructure itself survived; nobody who built or operated it did.)* The exile community inherited the physical airfield — genuinely substantial — and rebuilt it into a functioning aviation hub through their own labor.
 
-**Founding population:** Primarily Argentine exiles, with an Air Force institutional character from the founding era. Marambio and Esperanza together gave the Argentine exile community a strong northern Peninsula presence.
+**Founding population:** Primarily Argentine exiles, who independently developed their own operational culture and discipline around running the airfield — not inherited from any surviving Air Force institution, since none survived to hand it down. Marambio and Esperanza together gave the Argentine exile community a strong northern Peninsula presence.
 
 The name was kept.
 

@@ -3,9 +3,11 @@
 
 **Course of Events Suggestion #4**, translated from `Signy_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: Dr. Naledi van Zyl-Osei as a proposed
-Notable Figure continuing Signy's BAS-inherited marine-and-terrestrial biology mission, and Signy's
-unique South African founding-wave presence (`Full_Extrapolation` §II and §IX; `Mega_Init` "Founding"
-and "Who Lives Here, and Why"). Character fields are intentionally left blank — see each Conflict
+Notable Figure independently re-establishing the same marine-and-terrestrial biology focus the real BAS
+station once had, and Signy's unique South African founding-wave presence (`Full_Extrapolation` §II and
+§IX; `Mega_Init` "Founding" and "Who Lives Here, and Why"). **Corrected 2026-07-24, GPS-purposes-only pass:**
+no biological-science mission survived the centuries between the real BAS program's end and the 2564
+exile founding — see `Specs/Signy.md`. Character fields are intentionally left blank — see each Conflict
 section's Design Notes for what kind of conflict, and what kind of character(s), would make the
 following setting-condition become true.
 
@@ -14,9 +16,10 @@ following setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Signy's founding population inherits a genuine biological-science mission from its real-world BAS
-station heritage — marine and terrestrial research that predates the exile era entirely, carried into
-Tepenia as part of what the city's founders understood themselves to be doing here.
+Signy's founding population independently develops a genuine biological-science focus studying the same
+South Orkney Islands marine and terrestrial ecology the real-world BAS station once studied — a
+convergence with that station's own historical mission, not an inheritance of it, since nothing of the
+original program survived the centuries between its end and the 2564 founding.
 
 ---
 

@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Halley ("Atlantic")
 **Highway access:** Off Hwy 7 — Ekström Ice Shelf position; accessible via off-road spur connecting to Hwy 7 (the main Queen Maud Land coastal highway); ice shelf movement affects the road approach over time
-**Significance:** Alfred Wegener Institute heritage — named after Georg von Neumayer (1826–1909), German oceanographer, navigator, and polar research champion; built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability; one of the Halley subnet's primary scientific hubs; the Alfred Wegener Institute's institutional character gives Neumayer a specific research mission focus (atmospheric science, glaciology, oceanography)
+**Significance:** Alfred Wegener Institute heritage — named after Georg von Neumayer (1826–1909), German oceanographer, navigator, and polar research champion; built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability; one of the Halley subnet's primary scientific hubs; independently developed its own research mission focus (atmospheric science, glaciology, oceanography) — a convergence with the original AWI program's own focus, not an inheritance from it *(corrected 2026-07-24, GPS-purposes-only pass)*
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational
 
 ---
@@ -103,7 +103,7 @@ Named for Georg von Neumayer — not an Antarctic explorer himself, but the man 
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Neumayer Station infrastructure. The Alfred Wegener Institute (AWI) had operated German Antarctic stations at this location since 1981 (Georg von Neumayer Station I, then II, then III). The institutional research continuity — particularly in atmospheric science, oceanography, and glaciology — carried directly into the exile city.
+**Settled:** Post-Falkland Treaty, on Neumayer Station infrastructure. The Alfred Wegener Institute (AWI) operated German Antarctic stations at this location from 1981 (Georg von Neumayer Station I, then II, then III) until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for nearly five centuries before the 2564 exiles arrived. *(Corrected 2026-07-24, GPS-purposes-only pass: no institutional research continuity survived that gap.)* The exiles inherited the physical stations and independently developed their own research culture — one that happened to converge, again, on atmospheric science, oceanography, and glaciology, given the same physical circumstances that shaped the original program.
 
 What the founding exile community inherited, alongside the station's science programs, was an entire settlement's worth of science, engineering, and research equipment — worn, mostly defunct, but salvageable. Rather than discarding it, the founding community treated the equipment as the seed of a broader engineering mission. Neumayer became not only a science-and-engineering-oriented city but eventually the site of one of Tepenia's most significant engineering projects: the schematic drafting, design, and engineering of what would become Amundsen Tower. The full facility infrastructure — the precision instruments, the structural analysis tools, the inherited AWI technical traditions — made Neumayer the most capable engineering city in the Halley subnet, and the natural home for work of that scale and precision.
 

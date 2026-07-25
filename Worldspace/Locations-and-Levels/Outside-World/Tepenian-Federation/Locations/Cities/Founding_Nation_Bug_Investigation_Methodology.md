@@ -22,6 +22,17 @@ Shakespeare's England just because Shakespeare was English. That much elapsed ti
 nation pure geography — a GPS coordinate marking where something started, never a live causal force
 on what a culture looks like on the far side of that gap.
 
+**A sharper version, confirmed 2026-07-24: the founding generation itself had zero living connection, not
+just present-day Tepenians.** Real-world Antarctic research stations mostly date to the International
+Geophysical Year (1957-58); even the oldest continuously-run station (Argentina's Orcadas, 1904) is still
+roughly 600-660 years short of the Falkland Treaty (2564). **The station's real-world national origin was
+already ancient history on day one of Tepenia's own existence** — the 2564 exiles who actually signed the
+treaty had no living connection to whichever national team built the station they arrived at, before a single
+day of independent Tepenian culture had happened yet. **Direct consequence for this methodology:** a city's
+own founding-history narrative should never read as if the real-world station's construction and Tepenia's
+founding happened in causal or temporal proximity — the station sat as inert, centuries-old infrastructure
+long before any exile ever arrived at it.
+
 ---
 
 ## 1. The three-way distinction (read this before touching any file)

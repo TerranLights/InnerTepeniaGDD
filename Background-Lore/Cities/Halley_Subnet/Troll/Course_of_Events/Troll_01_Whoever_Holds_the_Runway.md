@@ -16,8 +16,10 @@ the following setting-condition become true.
 ###### The city as it stands before this cycle's turning point.
 
 Troll's founding identity runs on Norwegian Polar Institute heritage and the 1939 Queen Maud Land
-claim — a real, if quiet, civic story, carried by the exile families who inherited the station and
-the airfield built alongside it. For its first generations, this is simply what Troll *is*: a city
+claim — a real, if quiet, civic story the 2564 exile families chose to learn and carry forward as their
+own, after inheriting the long-dormant station and airfield built alongside it *(clarified 2026-07-24,
+GPS-purposes-only pass — a chosen historical identity, not a living institution handed down; see
+`Specs/Troll.md`)*. For its first generations, this is simply what Troll *is*: a city
 that remembers where it came from.
 
 ---

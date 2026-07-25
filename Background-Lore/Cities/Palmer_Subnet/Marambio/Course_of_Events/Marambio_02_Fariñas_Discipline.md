@@ -3,10 +3,12 @@
 
 **Course of Events Suggestion #2**, translated from `Marambio_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Full_Extrapolation` §V (Comandante
-Ezequiel Fariña, placeholder — the founding-era officer credited with establishing Marambio's operational
-discipline as civic character, persisting past the founding population's own demographic erosion) and
-`Mega_Init` "Who Lives Here, and Why" (the base's institutional discipline outlasting who actually staffed
-it). Character fields are intentionally left blank — see each Conflict section's Design Notes for what kind
+Ezequiel Fariña, placeholder — a 2564 exile with an Argentine Air Force background, credited with
+establishing Marambio's operational discipline as civic character after reclaiming the long-dormant base;
+*not* a surviving member of the real 1969 station's own personnel — see `Specs/Marambio.md`, corrected
+2026-07-24) and `Mega_Init` "Who Lives Here, and Why" (the base's institutional discipline, re-established
+by exiles and outlasting the specific founders who first brought it). Character fields are intentionally
+left blank — see each Conflict section's Design Notes for what kind
 of conflict, and what kind of character(s), would make the following setting-condition become true.
 
 ---
@@ -14,8 +16,9 @@ of conflict, and what kind of character(s), would make the following setting-con
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-The inherited airfield runs well on inertia for its first years — existing routines, existing personnel,
-existing habits carrying the operation along without anyone having to actively decide to keep it that way.
+The reclaimed airfield runs well on inertia for its first years once repaired — routines and habits set by
+the founding ex-Air Force exiles carrying the operation along without anyone having to actively decide to
+keep it that way.
 
 ---
 
@@ -23,7 +26,7 @@ existing habits carrying the operation along without anyone having to actively d
 ###### What disrupts the above baseline.
 
 Inertia alone doesn't sustain an operation this demanding indefinitely, and it's already showing its
-limits: a growing civilian population is arriving alongside the original Air Force personnel, and that
+limits: a growing civilian population is arriving alongside the founding ex-Air Force exiles, and that
 civilian population has no automatic reason to adopt military-grade operational standards just because
 they happen to be living next to a runway. Comandante Ezequiel Fariña sees the drift starting and responds
 by deliberately extending the base's own disciplined culture across the whole settlement — not just

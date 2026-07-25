@@ -5,7 +5,11 @@
 `z-template_-_city_histories_conflict_variant.md`. Grounded in the Shōwa-era etymology of Sayowa's name
 and its proposed two-tier meaning across the demographic majority and the Japanese-heritage minority
 (`Sayowa_Full_Extrapolation.md` §I), and the three-outcome Japanese-diaspora framing in
-`Sayowa_Cross_Reference_Synthesis.md` Finding 1. Character fields are intentionally left blank — see
+`Sayowa_Cross_Reference_Synthesis.md` Finding 1. **Corrected 2026-07-24, GPS-purposes-only pass:** the
+Shōwa era ended in the real world in 1989, nearly 600 years before the 2564 founding — no one in the
+founding community had lived memory of it; what they carried was preserved historical knowledge of it,
+the same way a modern reader knows about a distant historical era, not personal experience. Character
+fields are intentionally left blank — see
 each Conflict section's Design Notes for what kind of conflict, and what kind of character(s), would
 make the following setting-condition become true.
 
@@ -15,8 +19,9 @@ make the following setting-condition become true.
 ###### The city as it stands before this cycle's turning point.
 
 "Sayowa" descends phonetically from Shōwa, the Japanese imperial era spanning war, defeat, and
-reconstruction — a name carrying real, unambiguous historical weight for the founding community that
-chose it, understood by everyone in the young settlement roughly the same way.
+reconstruction — a name carrying real historical weight the founding community knew from preserved records
+and history, not lived memory, and chose deliberately, understood by everyone in the young settlement
+roughly the same historical way.
 
 ---
 

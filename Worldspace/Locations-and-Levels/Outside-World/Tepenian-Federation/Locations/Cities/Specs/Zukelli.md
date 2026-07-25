@@ -82,7 +82,7 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty. Italian exiles built on the Mario Zucchelli Station infrastructure, which had been Italy's primary Antarctic presence since the Italian Antarctic program began in 1985. By the exile era, the facility was mature and substantial — decades of accumulated construction and operational infrastructure at this specific site, ready for the founding population to build a new civic life on top of.
+**Settled:** Post-Falkland Treaty. Italian exiles built on the Mario Zucchelli Station infrastructure, which had been Italy's primary Antarctic presence from 1985 until the 2083 nuclear war ended Upper Earth's national Antarctic programs. By the time the exiles actually arrived in 2564, the facility had sat dormant for nearly five centuries *(noted 2026-07-24, GPS-purposes-only pass)* — a mature, substantial physical footprint the founding population had to reclaim and rebuild, not a station still ready for use.
 
 **Founding population:** Primarily Italian exiles. From that starting population, Zukelli's exile community built out its own language habits, food culture, architecture, and social tradition on-site over the centuries that followed, shaped by the city's own circumstances rather than transplanted wholesale from anywhere.
 

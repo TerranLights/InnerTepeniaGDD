@@ -103,9 +103,9 @@ Troll Airfield is the defining infrastructure feature. Real-world Troll Airfield
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Troll Station infrastructure. The Norwegian Polar Institute has operated at this location since 1990 (initially seasonally, then year-round from 2005). The site's own history — St. Roald's (Amundsen's) expeditions through this landscape, the 1939 claim of Queen Maud Land, the Polar Institute's institutional continuity — carried directly into the exile community along with the station itself.
+**Settled:** Post-Falkland Treaty, on Troll Station infrastructure. The Norwegian Polar Institute operated at this location from 1990 (initially seasonally, then year-round from 2005) until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for nearly five centuries before the 2564 exiles arrived. *(Corrected 2026-07-24, GPS-purposes-only pass: "carried directly into the exile community" overstated it — institutional continuity cannot survive a five-century gap with nobody present. What actually carried forward were historical facts the exiles could later learn and choose to honor — St. Roald's (Amundsen's) expeditions through this landscape, the 1939 claim of Queen Maud Land — not a living institution.)*
 
-**Founding population:** Norwegian exiles, with Norwegian Polar Institute heritage. The station's own institutional history here is strong: Queen Maud Land carries its 1939 territorial claim, Amundsen's expeditions passed through this landscape, and the Polar Institute's research mission provided institutional continuity for the exile community that followed.
+**Founding population:** Norwegian exiles, who inherited the Polar Institute's physical station and later learned and embraced its historical associations — Queen Maud Land's 1939 territorial claim, Amundsen's expeditions through this landscape — as their own chosen heritage, not as something handed to them by a still-functioning institution.
 
 The name "Troll" — the mythological creature of Norwegian folklore — was the informal name Norwegian expeditions gave to the Jutulsessen nunatak area. Carried forward into the exile city.
 

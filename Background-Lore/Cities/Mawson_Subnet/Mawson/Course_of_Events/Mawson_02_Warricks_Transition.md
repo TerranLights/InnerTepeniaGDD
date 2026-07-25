@@ -3,9 +3,13 @@
 
 **Course of Events Suggestion #2**, translated from `Mawson_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Founding Administrator Warrick
-Zhao's proposed transition from Australian Antarctic Division routine to genuine Tepenian
+Zhao's proposed transition from AAD-derived operational habits to a genuine Tepenian
 civic institution, and the precedent that hub function — not any single national identity — becomes
-what Mawson organizes itself around (`Mawson_Full_Extrapolation` §IV, "Notable Figures"). Character
+what Mawson organizes itself around (`Mawson_Full_Extrapolation` §IV, "Notable Figures"). **Corrected
+2026-07-24, GPS-purposes-only pass:** the real AAD station sat dormant for nearly five centuries before
+2564 (see `Specs/Mawson.md`) — the "AAD routine" below is knowledge personally carried into exile by
+former AAD staff among the 2564 founding population, not a continuously-operating institution the exiles
+found still running. Character
 fields are intentionally left blank — see each Conflict section's Design Notes for what kind of
 conflict, and what kind of character(s), would make the following setting-condition become true.
 
@@ -14,21 +18,22 @@ conflict, and what kind of character(s), would make the following setting-condit
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-The earliest exile community operates, in practice, as a continuation of Australian Antarctic
-Division routine — familiar, functional, and genuinely useful in the earliest, hardest years, but not
-yet a genuine Tepenian civic institution in its own right.
+The earliest exile community operates, in practice, on operational habits carried into exile by former
+AAD personnel among the founders — familiar, functional, and genuinely useful in the earliest, hardest
+years of reclaiming the dormant station, but not yet a genuine Tepenian civic institution in its own right.
 
 ---
 
 ## Trigger
 ###### What disrupts the above baseline.
 
-A station can't function as a real city while still organizing itself around a foreign government's
-old operational chain of command indefinitely. A founding administrator figure begins steering the
-community through a deliberate transition — AAD habits reshaped into something that actually belongs
-to the people living there now — but doing that means letting go of some of the founding identity's
-own institutional authority, and not everyone who built their standing within the old order is eager
-to see it go.
+A city can't keep organizing itself around one generation's personal memory of a foreign government's old
+operational chain of command indefinitely — that knowledge dies with the people who carried it unless it's
+deliberately converted into something the city owns for itself. A founding administrator figure begins
+steering the community through a deliberate transition — those inherited AAD habits reshaped into something
+that actually belongs to the people living there now — but doing that means letting go of some of the
+founding identity's own institutional authority, and not everyone who built their standing on that personal
+expertise is eager to see it go.
 
 ---
 
@@ -41,17 +46,17 @@ to see it go.
 
 **Design notes — what kind of conflict this needs:** a confrontation between a founding-administrator
 figure pushing to formally convert AAD-derived operational habits into a genuinely independent
-Tepenian civic institution, and an old-guard station veteran who helped the community survive its
-earliest years precisely by keeping AAD procedure intact, and who sees discarding a working structure
-for symbolic independence as needless risk. This isn't reform-vs-obstruction — B's structure genuinely
+Tepenian civic institution, and an old-guard founder who helped the community survive its
+earliest years precisely by personally applying AAD procedure they'd carried with them into exile, and who
+sees discarding a working structure for symbolic independence as needless risk. This isn't reform-vs-obstruction — B's structure genuinely
 got the community through real hardship, and A isn't attacking that record, only arguing that clinging
-to a foreign chain of command indefinitely will eventually cost the city more than the transition
+to one generation's personal expertise indefinitely will eventually cost the city more than the transition
 itself risks.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly the community's
 founding administrator, tasked (formally or simply by circumstance) with representing the settlement's
 interests as something more than an outpost of someone else's institution. Character B is plausibly a
-station veteran from the original AAD-derived operational staff, whose personal authority and sense of
+founding-era exile who personally worked for the AAD before the Falkland Treaty, whose personal authority and sense of
 competence are both bound up in the very structure Character A is trying to move past.
 
 ---

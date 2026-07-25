@@ -54,10 +54,12 @@ wrong about what Sayowa risks losing if the other one simply gets its way unchec
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a practically-minded
 coordinator or dispatcher — someone who deals daily with the accumulating freight and coordination
-burden and has watched informal habits start to buckle under it. Character B is plausibly a
-JARE-descended researcher or institutional figure, personally invested in the town's founding purpose,
+burden and has watched informal habits start to buckle under it. Character B is plausibly someone
+descended from the founding population's own ex-JARE researchers (who personally carried that research
+ethos into exile, not a surviving institution — see `Specs/Sayowa.md`, corrected 2026-07-24, GPS-purposes-
+only pass), personally invested in the town's founding purpose,
 who isn't opposed to growth in principle but wants it to happen in a way that protects rather than
-erases what the research tradition originally built. Either could be JARE-descended themselves; the
+erases what that research tradition originally built. Either could be JARE-descended themselves; the
 conflict reads best if both genuinely belong to the town's own founding lineage rather than one being an
 outside industrial interest imposing change on a resistant local.
 

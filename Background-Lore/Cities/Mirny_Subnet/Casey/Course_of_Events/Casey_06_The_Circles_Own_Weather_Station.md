@@ -50,9 +50,11 @@ conflict; Character A's position is a genuine defense of research for its own sa
 isn't anti-science, just persuaded that unglamorous, applied purpose is worth more here than pure
 inquiry. Both are right about what the equipment is capable of; they disagree about what it's *for*.
 
-**Design notes — what kind of character(s) this needs:** Character A is plausibly one of the original
-Australian-trained meteorologists or their direct successor, someone with genuine attachment to the
-inherited research program on its own scientific merits. Character B is plausibly a dispatcher or
+**Design notes — what kind of character(s) this needs:** Character A is plausibly a Tepenian meteorologist
+trained within the exile community's own re-established research tradition *(corrected 2026-07-24,
+GPS-purposes-only pass — not a surviving member of the original 1957-era AAD staff, centuries gone by
+2564; see `Specs/Casey.md`)*, someone with genuine attachment to the
+inherited research equipment on its own scientific merits. Character B is plausibly a dispatcher or
 junction-safety figure — someone in the same professional orbit as Dispatcher Okonkwo-Hale (Suggestion
 #4) — who sees the wind-monitoring data as directly, urgently relevant to the travel-safety culture
 already defining Casey's civic character.

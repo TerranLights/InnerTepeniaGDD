@@ -112,7 +112,7 @@ The station is named after the sloop *Mirny* — one of the two ships in Fabian 
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty. The Soviet-era infrastructure at Mirny Station was substantial — one of the oldest continuously occupied Antarctic stations, operating since 1956. Russian exiles built on this foundation, inheriting both the facilities and the institutional knowledge of generations of Soviet and Russian Antarctic scientists.
+**Settled:** Post-Falkland Treaty. The Soviet-era infrastructure at Mirny Station was substantial, operating from 1956 until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for centuries before the 2564 exiles arrived. *(Corrected 2026-07-24, GPS-purposes-only pass: no institutional knowledge from Soviet/Russian scientists survived that gap.)* Russian exiles built on the physical foundation that remained — genuinely substantial infrastructure — and developed their own scientific and operational culture from there, independently.
 
 **Founding population:** Primarily Russian exiles alongside a broader mix of communities in the East Antarctic coastal area. Russia's Antarctic presence had always been significant; the exile city that grew from Mirny reflected that weight.
 

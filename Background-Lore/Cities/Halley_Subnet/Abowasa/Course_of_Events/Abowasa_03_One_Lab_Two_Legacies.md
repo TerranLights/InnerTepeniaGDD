@@ -2,10 +2,13 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #3**, translated from `Abowasa_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in: the inherited FINNARP and SWEDARP
-research programs and Abowasa's Technical/Scientific sector (`Mega_Init`, Hard Facts and "Who Lives
-Here"; `Full_Extrapolation` §§II, IV), following on from Suggestion #1's household-level blending.
-Character fields are intentionally left blank — see each Conflict section's Design Notes for what kind
+`z-template_-_city_histories_conflict_variant.md`. Grounded in: the FINNARP- and SWEDARP-descended
+research traditions re-established by Finnish and Swedish exiles, and Abowasa's Technical/Scientific
+sector (`Mega_Init`, Hard Facts and "Who Lives Here"; `Full_Extrapolation` §§II, IV), following on from
+Suggestion #1's household-level blending. **Corrected 2026-07-24, GPS-purposes-only pass:** neither real
+program survived the centuries between the 2083 nuclear war and the 2564 founding — what stayed
+administratively separate are two exile-founded successor institutions, each carrying forward its own
+national identity by choice, not the original programs themselves. Character fields are intentionally left blank — see each Conflict section's Design Notes for what kind
 of conflict, and what kind of character(s), would make the following setting-condition become true.
 
 ---
@@ -13,8 +16,8 @@ of conflict, and what kind of character(s), would make the following setting-con
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Even after daily household life has thoroughly blended (see #1), the inherited FINNARP and SWEDARP
-research programs stay administratively separate — two proud institutions, each carrying its own
+Even after daily household life has thoroughly blended (see #1), the FINNARP- and SWEDARP-descended
+research traditions stay administratively separate — two proud institutions, each carrying its own
 national scientific lineage, operating side by side inside a city that no longer keeps anything else
 that neatly divided.
 

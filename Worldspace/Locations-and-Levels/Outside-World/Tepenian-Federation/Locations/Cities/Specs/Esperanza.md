@@ -83,7 +83,7 @@ The name the Argentine military gave this station — Esperanza, Hope — was ch
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Esperanza Base infrastructure. The Argentine military had operated here since 1952; the base was specifically designed for permanent family habitation — unusual in pre-exile Antarctic operations.
+**Settled:** Post-Falkland Treaty, on Esperanza Base infrastructure. The Argentine military had operated here from 1952 until the 2083 nuclear war ended Upper Earth's national Antarctic programs; by 2564, nearly five centuries had passed with nobody present *(noted 2026-07-24, GPS-purposes-only pass — see also `Course_of_Events/Esperanza_02_...md`, flagged in this city's own `candidates.txt`, which has the same issue in narrative form)*. The base's original design — specifically built for permanent family habitation, unusual in pre-exile Antarctic operations — survived as a physical fact the exiles rediscovered and chose to build on.
 
 What distinguished Esperanza's founding from every other Tepenian city was the deliberate principle behind it. When the robots and humans settling the Peninsula discovered — through preserved records, documents, audio logs, videos, and journals — that humans had actually been born in Antarctica at this specific location, they consciously resolved to establish Esperanza as a community organized around a specific mission: fostering and caring for the humans who had accepted permanent, lifetime exile on behalf of the robots.
 
