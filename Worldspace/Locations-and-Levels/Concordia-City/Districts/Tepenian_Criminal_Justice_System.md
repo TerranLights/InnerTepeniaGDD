@@ -42,6 +42,13 @@ dissolution/underworld vs. frontier self-reliance — a natural companion-origin
 character's backstory could be exactly this: exiled from District X for a Tier 1 offense, chose Pisces or
 Sagittarius, and that choice defines who they became afterward).
 
+**Not every Pisces or Sagittarius resident is an exile, confirmed 2026-07-24 via a concrete example:** Heather
+Wendell (`Characters/Dolls/.../Heather Wendell/README.md`) lives in Sagittarius by genuine choice — drawn
+there on a near-spiritual level upon arrival, not sentenced there. "Exiles from stricter districts" describes
+*part* of these two districts' populations, established directly in `District_Canon_Reference.md`'s own
+Inhabitants sections — it was never meant to describe every resident, and this system shouldn't be read as
+retroactively criminalizing anyone already living there.
+
 ### Tier 2 — Serious Crimes → Supervised Dangerous Labor Conscription
 
 Established by the developer directly, 2026-07-24: more serious crimes are sentenced to **heavily-supervised,

@@ -47,6 +47,13 @@ She reads as: someone who lives out of that jacket — gear chosen entirely for 
 ## Backstory Summary
 TBD in detail — confirmed direction, grounded in a developer-provided song written for her ("Silicon Psalms of the Outback," full lyrics in `Personal_Background/Inspiration/Silicon_Psalms_of_the_Outback.md`): she has spent her existence resisting exactly the kind of institutional claim most robots in Tepenia eventually settle into — corporate and governmental interests within Concordia have both tried to recruit her, offering purpose, status, a side to belong to, and she has refused all of it, choosing instead a life of genuine self-determination in the Frostlands. She hunts, tracks, and survives on her own terms, answering to no flag and no employer. See `Personal_Background/` for details as they develop.
 
+**Explicitly confirmed, 2026-07-24: Heather is not a criminal, at any tier, and did not arrive in Sagittarius via
+`Districts/Tepenian_Criminal_Justice_System.md`'s Tier 1 exile pipeline** (the system that explains why
+Sagittarius' own Inhabitants list includes "exiles from stricter districts"). She simply found, upon arrival,
+that she was made for the Frostlands — drawn there on a near-spiritual level, not sentenced there. Worth
+keeping distinct from the exile population going forward, since the two origin stories could otherwise blur
+together given they land in the same district.
+
 ## Role in Main Story / World
 - Connection to larger narrative:
 - Initial meeting hook:
