@@ -116,3 +116,6 @@ Proactive, not reactive — each grounded in that specific district's own establ
 - How this interacts with the Reputation Matrix and Fragmentation Matrix — a murderhobo run presumably tanks
   both, but whether either system has anything *specific* to say about this playstyle (beyond the obvious
   reputation collapse) hasn't been explored.
+
+**See also `Tepenian_Criminal_Justice_System.md`** — the direct follow-up question this file provoked: what
+actually happens to a player (or NPC) once caught. First-pass design, 2026-07-24.

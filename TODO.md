@@ -877,17 +877,24 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Medium Priority — World and Story
 
-- [ ] **Tepenian criminal justice — genuinely doesn't exist yet, flagged 2026-07-24**
-  Surfaced while discussing player-instigated violence (`Player-Instigated_Violence_-_Understandable_Reasons.md`):
-  there is no established answer anywhere in the lore for what happens to a convicted criminal in Tepenia —
-  Libra's own Megasheet and Vision Notes mention judges/arbitrators/treaty law, but nothing about actual
-  sentencing or punishment. Worth designing deliberately rather than defaulting to a real-world prison trope,
-  given the setting's own founding condition is exile (the Falkland Treaty exiled robots and human allies to
-  Antarctica in the first place) — internal exile/banishment is one obvious thematic candidate. A second,
-  robot-specific angle: Scorpio already has real, established "rebirth"/reconfiguration technology used
-  post-war on trauma/identity-fracture cases — reprogramming as an alternative to punishment for robot
-  offenders sits right there in existing lore and raises a genuine consent/personhood question the game
-  already cares about. Not designed yet; flagged for a future brainstorming pass.
+- [ ] **Tepenian criminal justice — first-pass design written 2026-07-24, several open questions remain**
+  Surfaced while discussing player-instigated violence (`Player-Instigated_Violence_-_Understandable_Reasons.md`);
+  full design now at `Districts/Tepenian_Criminal_Justice_System.md`. **Three-tier severity model confirmed by
+  the developer:** Tier 1 (petty/culturally-offensive crimes) → formal exile from the offender's home district
+  → self-relocation to Pisces or Sagittarius (explains the previously-unconnected "exiles from stricter
+  districts" line already sitting in both districts' own Inhabitants sections). Tier 2 (serious crimes) →
+  heavily-supervised, closely-surveilled dangerous labor conscription in Virgo or Aries specifically, under
+  native supervisors, doing work even native workers there would consider extremely dangerous. **Tier 3
+  (truly abhorrent, utterly unfathomable crimes)** → forcibly "volunteered" as an Aquarius test subject,
+  fitting the district's already-established ethical grey zone around consent/experimentation. Also covers:
+  the robot-personhood complication (Scorpio's rebirth tech can't be used on a convicted robot without
+  consent, given legal personhood since the 2318 Jeju-do ruling — framed as a live in-world controversy, not
+  a clean answer) and why no clean codified penal code exists at all (Libra's own Suspended Compact/permanent-
+  emergency-powers logic). **Still open, to be addressed progressively:** exactly where the Tier 2/Tier 3 line
+  falls, whether society itself feels tension about Tier 3's abandonment of consent given the same system's
+  care about robot personhood elsewhere, whether Tier 1's offense list should map directly onto
+  `District_Hostile_Actions.md`, the actual tone of Virgo/Aries conscript-labor tension, and whether any of
+  this becomes actual playable content.
 
 - [ ] **Neo-Races and Neo-Cultures — Phase 2 synthesis (flagged 2026-07-17, ready to start)**
   Phase 1c (Cultural Iceberg Per-Nation Entries — 12-item Surface Culture + 17-item Deep Culture findings, per Primary/Significant nation) is now complete for all 35 Tepenian cities across all 6 subnets (Halley, Palmer, Mirny, Janbogo, Mawson, Byrd), see `Neo-Races-and-Cultures/_Method/Progress_Tracker.md` for the full per-city status record. **Not yet done:** Phase 2 — actually naming and crystallizing each city's own synthesized neo-culture/neo-race from that completed research. Every city's own "Synthesis Notes" section currently holds only a working first-pass draft, explicitly flagged throughout as not yet developer-confirmed. Also still open, deliberately deferred alongside Phase 2: the reserved Notable-tier passes for Palmer City (43 nations total) and Byrd (41 nations total), where only Primary+Significant tier was catalogued during Phase 1c; and any further cross-subnet or Federation-wide synthesis once all 35 cities' Phase 2 work is complete.
