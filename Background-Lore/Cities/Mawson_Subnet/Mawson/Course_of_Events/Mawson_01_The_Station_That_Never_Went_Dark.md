@@ -6,9 +6,12 @@
 for use — likely to be replaced rather than built on further.** Grounded in Mawson's established unbroken
 *Tepenian* operational continuity since 2564 and "The Name That Outlasted the Founders" theme operating at
 the infrastructural level, not only the demographic one (`Mawson_Cross_Reference_Synthesis` Finding 1).
-**Corrected 2026-07-24, GPS-purposes-only pass:** the real AAD station operated 1954-2083, then sat dormant
-for nearly five centuries before 2564 — see `Specs/Mawson.md`. The "unbroken continuity" this file's premise
-depends on is Tepenia's own, starting at 2564, not a bridge across that dormant gap. Character fields are
+**Refined 2026-07-25, GPS-purposes-only pass:** the real AAD station operated from 1954, continuously
+maintained across the First Interwar Period by a rotating succession of national operators (which nations
+held it, and in what order, isn't relevant to the story) — see `Specs/Mawson.md`. The "unbroken continuity"
+this file's premise depends on is Tepenia's own, starting at 2564, not an institutional bridge across that
+period; no single operator's culture or personnel survived the chain of handoffs, though preserved journals,
+logs, and orientation manuals did, giving the 2564 exiles a real documentary starting point. Character fields are
 intentionally left blank — see each Conflict section's Design Notes for what kind
 of conflict, and what kind of character(s), would make the following setting-condition become true.
 
@@ -17,7 +20,7 @@ of conflict, and what kind of character(s), would make the following setting-con
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-The founding exile community reclaims Mawson Station's substantial but long-dormant infrastructure in 2564,
+The founding exile community reclaims Mawson Station's substantial, genuinely functional infrastructure in 2564,
 and — once resettled — never experiences the kind of *repeated* rebuilding-from-scratch other Tepenian
 cities go through afterward: once reclaimed, Tepenian Mawson's own operation runs unbroken from that point
 forward, infrastructure, procedure, and habit passed down whole within the exile community's own history,

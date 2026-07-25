@@ -68,7 +68,7 @@ The South Shetland Islands were one of the first parts of Antarctica reached by 
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Juan Carlos I Station infrastructure. The Spanish Antarctic program had operated here seasonally from 1988 until the 2083 nuclear war ended Upper Earth's national Antarctic programs; by 2564, nearly five centuries had passed with nobody present *(noted 2026-07-24, GPS-purposes-only pass)*. The exile community reclaimed the site and converted it to year-round habitation themselves.
+**Settled:** Post-Falkland Treaty, on Juan Carlos I Station infrastructure. The Spanish Antarctic program had operated here seasonally from 1988. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. Preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point, distinct from being taught by any living institution.)* The exile community settled into the genuinely functional site and converted it to year-round habitation themselves.
 
 **Founding population:** Primarily Spanish exiles. The Iberian cultural community in Tepenia was split between Juan Carlos (Palmer subnet) and whatever presence existed elsewhere; Juan Carlos was the primary city of that founding community.
 

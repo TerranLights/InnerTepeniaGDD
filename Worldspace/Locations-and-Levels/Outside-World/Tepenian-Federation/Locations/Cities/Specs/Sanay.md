@@ -97,9 +97,9 @@ The position is inland from the coast — the Weddell Sea is accessible but not 
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on SANAE infrastructure. South Africa operated Antarctic stations here from 1960 (SANAE I) through SANAE IV at Vesleskarvet (operational from 1997) until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for nearly five centuries before the 2564 exiles arrived. *(Corrected 2026-07-24, GPS-purposes-only pass: no living scientific mission could have survived that gap.)* The exile community inherited the physical infrastructure and developed their own institutional culture and purpose for the site independently.
+**Settled:** Post-Falkland Treaty, on SANAE infrastructure. South Africa operated Antarctic stations here from 1960 (SANAE I) through SANAE IV at Vesleskarvet (operational from 1997). *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. No living scientific mission survived that chain of handoffs — but preserved journals, logs, and orientation manuals gave the exiles a real documentary starting point. Learning from a written record isn't the same as being taught by a living institution.)* The exile community inherited a genuinely functional station and developed their own institutional culture and purpose for the site independently.
 
-**Founding population:** South African exiles — the only major South African community in Tepenia. The SANAE station's original physical infrastructure carried into the exile city; nothing institutional did.
+**Founding population:** South African exiles — the only major South African community in Tepenia. The SANAE station's original physical infrastructure, kept functional across the interwar handoffs, carried into the exile city; nothing institutional did.
 
 The city name "Sanay" evolved phonetically from the SANAE acronym — the expedition name that had always identified this place, now settled into a proper noun for the city itself.
 

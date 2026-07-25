@@ -5,11 +5,12 @@
 `z-template_-_city_histories_conflict_variant.md`. Grounded in Founding Administrator Warrick
 Zhao's proposed transition from AAD-derived operational habits to a genuine Tepenian
 civic institution, and the precedent that hub function — not any single national identity — becomes
-what Mawson organizes itself around (`Mawson_Full_Extrapolation` §IV, "Notable Figures"). **Corrected
-2026-07-24, GPS-purposes-only pass:** the real AAD station sat dormant for nearly five centuries before
-2564 (see `Specs/Mawson.md`) — the "AAD routine" below is knowledge personally carried into exile by
-former AAD staff among the 2564 founding population, not a continuously-operating institution the exiles
-found still running. Character
+what Mawson organizes itself around (`Mawson_Full_Extrapolation` §IV, "Notable Figures"). **Refined
+2026-07-25, GPS-purposes-only pass:** the real AAD station was kept structurally maintained across the First
+Interwar Period by a rotating succession of national operators (see `Specs/Mawson.md`) — but that's
+caretaker-level upkeep, not the same as a continuously-operating AAD institution the exiles found still
+running. The "AAD routine" below is knowledge personally carried into exile by former AAD staff among the
+2564 founding population — real people with real prior training, not an institution that persisted. Character
 fields are intentionally left blank — see each Conflict section's Design Notes for what kind of
 conflict, and what kind of character(s), would make the following setting-condition become true.
 
@@ -20,7 +21,7 @@ conflict, and what kind of character(s), would make the following setting-condit
 
 The earliest exile community operates, in practice, on operational habits carried into exile by former
 AAD personnel among the founders — familiar, functional, and genuinely useful in the earliest, hardest
-years of reclaiming the dormant station, but not yet a genuine Tepenian civic institution in its own right.
+years of settling the reclaimed station, but not yet a genuine Tepenian civic institution in its own right.
 
 ---
 

@@ -100,7 +100,7 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on Davis Station infrastructure. The Australian Antarctic Division operated here from 1957 until the 2083 nuclear war ended Upper Earth's national Antarctic programs — after which the station sat dormant for centuries before the 2564 exiles arrived. *(Corrected 2026-07-24 — GPS-purposes-only pass: no living environmental knowledge could have survived that gap; what the exiles actually inherited was the physical infrastructure, which they then had to re-learn the Vestfold Hills' terrain through independently, over generations of their own.)*
+**Settled:** Post-Falkland Treaty, on Davis Station infrastructure. The Australian Antarctic Division operated here from 1957. *(Refined 2026-07-25 — GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. No living environmental *knowledge* survived that chain of handoffs — but preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point for the Vestfold Hills' terrain. Learning from a written record isn't the same as being taught by a living institution, and the exiles still built their own practical mastery of the terrain independently, over generations of their own.)*
 
 **Founding population:** Australian exiles. The Australian community in the Mirny subnet spans Casey, Mirny itself (a Significant-tier presence), and Davis — three cities carrying Australian founding-wave heritage across the subnet.
 

@@ -3,9 +3,10 @@
 
 **Course of Events Suggestion #1**, translated from `Marambio_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Mega_Init` "Hard Facts" (Founding —
-Argentine Air Force from 1969 until the 2083 nuclear war ended Upper Earth's national Antarctic programs;
-the base then sat dormant for nearly five centuries before the exile community arrived in 2564 and
-inherited a fully-built, but long-abandoned, aviation hub — see `Specs/Marambio.md`, corrected 2026-07-24)
+Argentine Air Force from 1969; the base's physical structure was kept maintained across the First Interwar
+Period by a rotating succession of national operators — caretaker-level upkeep, not active command presence
+— before the exile community arrived in 2564 and inherited a structurally sound, but operationally dormant,
+aviation hub — see `Specs/Marambio.md`, refined 2026-07-25)
 and "Who Lives Here, and Why" (the base's founding-era military-aviation institutional character, re-
 established by ex-Air Force exiles themselves rather than surviving pre-war personnel). Character fields
 are intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and what
@@ -16,10 +17,11 @@ kind of character(s), would make the following setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Marambio's exile community inherits the physical shell of a fully-built Argentine Air Force aviation hub,
-long dormant since 1969 — a genuine structural head start over an improvised settlement, once reclaimed and
-repaired. Runway, hangars, and maintenance infrastructure all already exist in some form; nobody has to
-design a working airfield from nothing, even though centuries of neglect mean nobody has to *rebuild* one
+Marambio's exile community inherits the structurally sound shell of a fully-built Argentine Air Force
+aviation hub, operationally dormant since 1969 — a genuine structural head start over an improvised
+settlement, once reclaimed and brought back up to real operational tempo. Runway, hangars, and maintenance
+infrastructure all already exist and were kept from falling into disrepair; nobody has to design a working
+airfield from nothing, even though centuries without active flights mean nobody has to *rebuild* one
 either.
 
 ---

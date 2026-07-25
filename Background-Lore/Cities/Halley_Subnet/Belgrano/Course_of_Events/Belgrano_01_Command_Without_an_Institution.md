@@ -11,19 +11,21 @@ would make the following setting-condition become true.
 
 ---
 
-**Corrected 2026-07-24, GPS-purposes-only pass:** the original scenario had the real-world Argentine Air
+**Refined 2026-07-25, GPS-purposes-only pass:** the original scenario had the real-world Argentine Air
 Force's own pre-exile command structure still actively running Belgrano when the exile-era civilian
-population arrived — impossible, since the real base sat dormant and unstaffed for nearly five centuries
-between the 2083 nuclear war and the 2564 exile settlement (see `Specs/Belgrano.md`). The fix below keeps
-the same underlying story (a stopgap military command structure calcifying into Belgrano's only civic
-template) but relocates its origin to the exile-era founding population itself.
+population arrived — impossible, since no single institution's personnel or command structure survived the
+rotating succession of national operators who kept the base structurally maintained across the First
+Interwar Period (see `Specs/Belgrano.md`) — caretaker-level upkeep, not an active military chain of command.
+The fix below keeps the same underlying story (a stopgap military command structure calcifying into
+Belgrano's only civic template) but relocates its origin to the exile-era founding population itself.
 
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Among the earliest 2564 exiles who reclaimed the long-dormant Belgrano airbase are a number of former
-Argentine Air Force personnel — themselves refugees, not survivors of the original 1979-era station, which
-had sat empty for centuries before anyone arrived. Drawing on their own training, they establish a
+Among the earliest 2564 exiles who reclaimed the structurally sound but operationally dormant Belgrano
+airbase are a number of former Argentine Air Force personnel — themselves refugees, not survivors of the
+original 1979-era station, which
+had passed through centuries of rotating, unspecified operators before anyone from the exile wave arrived. Drawing on their own training, they establish a
 military-style command structure from scratch to run the reclaimed base: maintenance rotations, martial
 bearing, a clean chain of accountability — a genuinely new institution built by exiles who happened to know
 this shape of organization, not an inherited one.

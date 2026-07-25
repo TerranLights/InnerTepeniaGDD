@@ -69,7 +69,7 @@ Key figures for reference:
 
 ## Founding
 
-**Settled:** Shortly after the Falkland Treaty (June 21, 2564). Scott Base had been New Zealand's Antarctic presence from 1957 until the 2083 nuclear war ended Upper Earth's national Antarctic programs; by 2564, nearly five centuries had passed with nobody present *(noted 2026-07-24, GPS-purposes-only pass)*. The infrastructure was modest by McMurdo's standards, but solid enough to reclaim. New Zealand exiles rebuilt on it and kept it modest by choice.
+**Settled:** Shortly after the Falkland Treaty (June 21, 2564). Scott Base had been New Zealand's Antarctic presence from 1957. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. Preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point, distinct from being taught by any living institution.)* The infrastructure was modest by McMurdo's standards, but genuinely functional. New Zealand exiles settled into it and kept it modest by choice.
 
 **Founding population:** New Zealand exiles primarily, alongside a broader Pacific-region community.
 

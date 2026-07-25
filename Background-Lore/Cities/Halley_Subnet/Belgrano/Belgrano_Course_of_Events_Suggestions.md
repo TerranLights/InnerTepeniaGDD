@@ -11,12 +11,13 @@ here is canon.
 
 ## 1. Command Without an Institution
 
-*(Corrected 2026-07-24, GPS-purposes-only pass: the real 1979-era Argentine Air Force station sat dormant
-for centuries before the 2564 exile settlement — see `Specs/Belgrano.md`. The command structure below is
-established by ex-Air Force personnel *among the exiles themselves*, not surviving pre-war staff.)*
+*(Refined 2026-07-25, GPS-purposes-only pass: the real 1979-era Argentine Air Force station was kept
+structurally maintained by a rotating succession of national operators across the First Interwar Period —
+caretaker-level upkeep, not an active command presence — see `Specs/Belgrano.md`. The command structure
+below is established by ex-Air Force personnel *among the exiles themselves*, not surviving pre-war staff.)*
 
-Ex-Air Force exiles reclaiming the long-dormant base establish a military-style command structure from
-scratch, drawing on their own training. **But** a growing civilian population forms around it that the
+Ex-Air Force exiles reclaiming the structurally sound but operationally dormant base establish a
+military-style command structure from scratch, drawing on their own training. **But** a growing civilian population forms around it that the
 chain of command has no formal jurisdiction over.
 **Therefore** the ranking officer extends military-style command to cover the whole settlement rather
 than let a separate civic government grow up alongside it. **But** that decision means every later

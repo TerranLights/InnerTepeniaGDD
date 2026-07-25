@@ -60,6 +60,27 @@ Traits are major, permanent choices made during **Character Creation**. You may 
 | **Cold Calculation** | +2 Calculation | -1 Humanity | Thought optimized past the point of patience for messy human/robot feeling — Capricorn/Gemini technocrat builds |
 | **Bridge Feedback** | +2 Investigation while jacked in | -1 Humanity while jacked in | Other minds' patterns bleed through the Bridge Unit connection, sharpening pattern-recognition at a real emotional cost |
 
+### Founding-Lineage Traits *(added 2026-07-25, marked for possible future renaming)*
+
+| Trait Name | Bonuses | Penalties | Thematic Fit |
+|---|---|---|---|
+| **Reclaimer's Hands** | +15% Precision Maintenance & Repair specifically when working on pre-exile (real Upper-Earth-era) infrastructure — recognizing and restoring centuries-dormant stations, runways, and equipment across the many cities founded this way (see `Founding_Nation_Bug_Investigation_Methodology.md`'s "ex-program exiles among the founding population" mechanic) | -10% effectiveness with purely Tepenian-developed systems the character's founding lineage never touched | Descended from a 2564 founding-era ex-program exile (aviator, researcher, engineer) — a genuinely different lineage than the Upper Earth Defectors (who arrived ~250 years later, during the Long Night War); inherited real expertise without inherited context |
+
+**Design note on this trait's origin:** grew directly out of the 2026-07-25 GPS-purposes-only sweep across
+city-history files, which established as binding law that a city's real-world station hands its 2564 exiles
+only a physical shell — never personnel or institutional continuity — and that any inherited operational
+skill in a founding story has to trace to *ex-program exiles among the founding population itself*. This
+trait is the player-facing expression of being descended from exactly one of those figures.
+
+**Real production dependency, flagged 2026-07-25 — this trait's bonus is currently decorative, not
+functional.** The founding-era reclamations that motivated it (Marambio, Abowasa, Casey, etc.) are all
+historical backstory, already resolved centuries before the game's present day — there's no *current*
+pre-exile derelict infrastructure in the game yet for this trait's Precision Maintenance & Repair bonus to
+actually apply to. See the matching flag in `Perks/World_and_Discovery_Perks.md`'s "Derelict's Eye" entry —
+both need the same thing: at least one genuinely still-derelict, present-day-discoverable pre-exile site
+built into real quest content, on the Byrd model (a site nobody claimed at founding, only found much later).
+**Not designed yet — flagged, not solved.**
+
 **Design Note**: Traits are flavorful and double-edged, directly supporting different district playstyles and hidden path accessibility.
 
-**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Base-game trait count is now **30 of the 25 target** (5 over target, still not a problem). Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).
+**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Base-game trait count is now **31 of the 25 target** (6 over target, still not a problem) after the Founding-Lineage Trait above. Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).

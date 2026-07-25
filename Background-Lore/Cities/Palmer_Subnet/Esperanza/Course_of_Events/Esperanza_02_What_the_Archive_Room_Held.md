@@ -5,9 +5,11 @@
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Full_Extrapolation` §III's proposed
 discovery of the sealed Argentine military archive room (personnel records, family photographs, and the
 original 1978 birth documentation), and §VI's placeholder figure Founding Archivist Mateo Villaroel.
-**Flagged in this city's own `candidates.txt` as requiring heavy adjustment. Corrected 2026-07-24,
-GPS-purposes-only pass:** the real base sat sealed and dormant for centuries before the 2564 exiles arrived
-(see `Specs/Esperanza.md`) — the archive is 500+ years old by the time it's opened, not a recent discovery.
+**Flagged in this city's own `candidates.txt` as requiring heavy adjustment. Refined 2026-07-25,
+GPS-purposes-only pass:** the base itself was kept genuinely functional through the First Interwar Period by
+a rotating succession of national operators (see `Specs/Esperanza.md`) — but the archive room specifically
+stayed sealed throughout, untouched by whichever operators passed through, making it 500+ years old by the
+time it's finally opened in 2564, not a recent discovery.
 The documents' survival is plausible on its own terms (cold, dry, sealed Antarctic conditions are genuinely
 excellent for long-term paper preservation), but the *meaning* the settlers take from it is their own act of
 interpretation across a real historical gap, not a living institution speaking to them. Character fields are intentionally left blank — see each Conflict section's Design Notes for what kind of
@@ -18,9 +20,9 @@ conflict, and what kind of character(s), would make the following setting-condit
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Early settlers cataloguing the long-dormant infrastructure inherited from the original Esperanza Base open
-a sealed Argentine military archive room, centuries old, expecting nothing more than routine administrative
-paperwork to sort and file away.
+Early settlers cataloguing the genuinely functional infrastructure inherited from the original Esperanza
+Base open a long-sealed Argentine military archive room, centuries untouched, expecting nothing more than
+routine administrative paperwork to sort and file away.
 
 ---
 

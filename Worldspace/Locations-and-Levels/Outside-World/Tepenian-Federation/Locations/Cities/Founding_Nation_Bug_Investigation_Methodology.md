@@ -30,8 +30,54 @@ already ancient history on day one of Tepenia's own existence** — the 2564 exi
 treaty had no living connection to whichever national team built the station they arrived at, before a single
 day of independent Tepenian culture had happened yet. **Direct consequence for this methodology:** a city's
 own founding-history narrative should never read as if the real-world station's construction and Tepenia's
-founding happened in causal or temporal proximity — the station sat as inert, centuries-old infrastructure
-long before any exile ever arrived at it.
+founding happened in causal or temporal proximity.
+
+**Refined 2026-07-25 — the default mechanism for *most* stations is rotating hand-off maintenance, not
+centuries of dormancy.** The 2026-07-24 sweep's "sat dormant, unstaffed, for centuries" framing solved the
+institutional-continuity problem but created a physical-plausibility one: several founding cities' own
+identities depend on inheriting genuinely *functional*, well-maintained infrastructure (Marambio's "fully
+working aviation hub," Mawson's "one of the most well-established bases"), which a centuries-derelict shell
+doesn't really support. **The developer's own resolution:** over the course of the First Interwar Period
+(2083-2564), most stations were continuously maintained by a rotating succession of different national
+operators, handed off from one to another — **which specific countries held a given station at any point in
+that chain is explicitly irrelevant to the story and should never be specified or built on.** This preserves
+GPS-purposes-only fully (no single institution's culture, personnel, or continuity persists — the whole point
+is that it changed hands repeatedly) while explaining why the infrastructure was still genuinely functional
+when the 2564 exiles arrived. **Corrected 2026-07-25, caught by the developer directly:** an earlier version
+of this note also tried to explain *why* each Specs sheet's founding nation matches the station's original
+operator — via "whoever happened to be holding it at the moment of Exile." That's circular and should never
+be written: if the rotation is genuinely unspecified operators with no significance attached to any of
+them, having it conveniently end right back with the original nation every single time isn't a coincidence,
+it's the rotation doing no real work. **The rotation's only job is explaining functional infrastructure
+across the gap — never re-deriving which nation a city's founding population turns out to be**, since that's
+already established per-city on separate, unrelated grounds (population allocation, Jeju-do-style
+diplomatic processes, organic settlement, etc.). Don't have the rotation's ending point echo the station's
+original operator as if that explains anything.
+
+**Byrd remains the explicit exception, not the rule:** it fell *out* of this rotating maintenance chain
+entirely and was actually abandoned, which is exactly why it's rare enough to be worth discovering much
+later, distinct from the normal case. Any future "still-derelict, present-day-discoverable" site (see
+`TODO.md`'s open item on this) should be modeled on a station that similarly fell out of the chain, not on
+the default (maintained-throughout) case most founding cities actually follow.
+
+**Zhongshan is a second, deliberate exception, confirmed 2026-07-25 — continuous single-nation habitation,
+not rotation.** Given Zhongshan's already-established status as the one city with an exclusive, singular
+national claim (confirmed independently via the Jeju-do court), it's reasonably feasible the station
+actually remained under continuous Chinese/Sinian habitation throughout the First Interwar Period, rather
+than passing through unrelated rotating operators. This isn't institutional-*culture* continuity of the kind
+the rule forbids — it's generation-to-generation habitation by the same national population, naturally
+evolving over five centuries, not one fixed institution or set of people persisting unchanged — and it
+independently reinforces, rather than substitutes for, the Jeju-do court's later diplomatic ruling. See
+`Specs/Zhongshan.md` for the full framing. **When this kind of exception is appropriate:** only where a city
+already has its own separate, established reason to be a special case — not a default to reach for.
+
+**Preserved records, not personhood, can still cross the gap — added 2026-07-25.** Whether a station passed
+through rotating operators or (Zhongshan's case) stayed under one nation throughout, journals, logs, and
+orientation manuals left behind are artifacts, not living institutions — the 2564 exiles (or, for Zhongshan,
+the continuously-present population) can plausibly find and learn from preserved documentary records without
+that being taught by a living institution or person. Learning from a centuries-old written record is
+categorically different from being personally instructed by surviving personnel, and doesn't violate this
+rule the way the latter would.
 
 ---
 

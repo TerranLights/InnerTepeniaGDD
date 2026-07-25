@@ -893,6 +893,19 @@ These require a developer call before downstream work can proceed. None can be r
 
 ## Medium Priority — World and Story
 
+- [ ] **A genuinely still-derelict, present-day-discoverable pre-exile site — needed, not designed, flagged 2026-07-25**
+  Surfaced while reviewing the new "Reclaimer's Hands" trait (`Character-Creation/Traits.md`) and "Derelict's
+  Eye" perk (`Perks/World_and_Discovery_Perks.md`): both are currently decorative, not functional, because
+  every pre-exile reclamation the recent GPS-purposes-only sweep fixed (Marambio's runway, Abowasa's labs,
+  Casey's weather station) is historical backstory already resolved centuries before the game's present day
+  — there's nothing left for the player to actually find and restore themselves. The developer's own
+  framing: it's not enough to have pre-exile infrastructure exist in lore; there needs to be enough of it
+  that's properly meaningful to the world and relevant to actual main- or side-content, or the trait/perk are
+  just "logical decoration." **The model to build toward: Byrd** — never part of the 2564 founding wave,
+  abandoned and buried, only found and reclaimed much later by Belgrano's own explorers. Need at least one
+  (ideally several) new site(s) built on that same shape: unclaimed at founding, still derelict, discoverable
+  by the player in actual quest content. Not designed yet.
+
 - [ ] **Tepenian criminal justice — first-pass design written 2026-07-24, several open questions remain**
   Surfaced while discussing player-instigated violence (`Player-Instigated_Violence_-_Understandable_Reasons.md`);
   full design now at `Districts/Tepenian_Criminal_Justice_System.md`. **Three-tier severity model confirmed by

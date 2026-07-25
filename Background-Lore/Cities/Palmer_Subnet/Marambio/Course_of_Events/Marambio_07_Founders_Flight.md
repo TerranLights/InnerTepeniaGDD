@@ -17,7 +17,7 @@ kind of character(s), would make the following setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-The anniversary of the exile generation's own 2564 founding flight onto the long-dormant base could easily
+The anniversary of the exile generation's own 2564 founding flight onto the reclaimed base could easily
 pass unmarked, one date among many in Marambio's institutional history — real, significant, but never yet
 formally observed as anything more than a historical fact.
 

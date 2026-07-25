@@ -4,9 +4,9 @@
 **Course of Events Suggestion #2**, translated from `Marambio_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: `Full_Extrapolation` §V (Comandante
 Ezequiel Fariña, placeholder — a 2564 exile with an Argentine Air Force background, credited with
-establishing Marambio's operational discipline as civic character after reclaiming the long-dormant base;
-*not* a surviving member of the real 1969 station's own personnel — see `Specs/Marambio.md`, corrected
-2026-07-24) and `Mega_Init` "Who Lives Here, and Why" (the base's institutional discipline, re-established
+establishing Marambio's operational discipline as civic character after reclaiming the structurally sound
+but operationally dormant base; *not* a surviving member of the real 1969 station's own personnel — see
+`Specs/Marambio.md`, refined 2026-07-25) and `Mega_Init` "Who Lives Here, and Why" (the base's institutional discipline, re-established
 by exiles and outlasting the specific founders who first brought it). Character fields are intentionally
 left blank — see each Conflict section's Design Notes for what kind
 of conflict, and what kind of character(s), would make the following setting-condition become true.

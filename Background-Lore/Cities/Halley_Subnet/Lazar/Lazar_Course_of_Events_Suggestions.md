@@ -42,11 +42,14 @@ capital by highway, the institutional habit outliving the infrastructure it was 
 
 ## 4. Never Gone Dark
 
-*(Corrected 2026-07-24, GPS-purposes-only pass: the real Novolazarevskaya station went dark along with the
-rest of Upper Earth's national Antarctic programs at the 2083 nuclear war, then sat dormant for centuries —
-the record below is Tepenian Lazar's own, starting at 2564, not the real station's full history.)*
+*(Refined 2026-07-25, GPS-purposes-only pass — stronger, not just salvageable: the real Novolazarevskaya
+station was kept continuously maintained and powered through the First Interwar Period by a rotating
+succession of national operators (irrelevant which, or in what order) — the lights genuinely never went
+out, across the full span from the real station's founding through to 2564. No institution's culture
+survived that chain of handoffs, but the "never gone dark" claim itself is real and continuous.)*
 
-Since its 2564 founding, Tepenian Lazar's old core has never once gone dark, and that
+Through every handoff across the First Interwar Period and into its 2564 founding, Tepenian Lazar's old
+core has never once gone dark, and that
 unbroken continuity becomes the old core's defining civic pride, carried forward into the coalesced
 city. **But** pride like that eventually gets tested by something other than its own reputation.
 **Therefore** when a region-wide grid failure knocks out power across much of the Halley subnet for

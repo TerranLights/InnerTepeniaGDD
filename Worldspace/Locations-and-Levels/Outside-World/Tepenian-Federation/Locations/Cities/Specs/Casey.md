@@ -109,11 +109,11 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 
 ## Founding
 
-**Settled:** Shortly after the Falkland Treaty (June 21, 2564). Casey Station had been Australia's largest Antarctic station before the 2083 nuclear war ended Upper Earth's national Antarctic programs; by 2564, nearly five centuries had passed with nobody present *(noted 2026-07-24, GPS-purposes-only pass)*, but the infrastructure's original scale was substantial enough that the Australian exile community still had a real physical foundation to reclaim and build on.
+**Settled:** Shortly after the Falkland Treaty (June 21, 2564). Casey Station had been Australia's largest Antarctic station before the exile era. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. Preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point, distinct from being taught by any living institution.)* The infrastructure's original scale, kept genuinely functional across the centuries, gave the Australian exile community a real, substantial foundation to build on.
 
 **Founding population:** Primarily Australian exiles — robots from Australian society and their human partners and supporters — alongside others who arrived by sea during the early settlement wave. Casey's position as an accessible coastal arrival point meant it received a wider mix of early arrivals than some more geographically isolated cities.
 
-Australia had more Antarctic infrastructure per capita than most nations entering exile, and Casey was its centerpiece: the largest, best-equipped Australian station, with relatively modern facilities by pre-exile standards. The founding generation inherited a long-dormant base and the task of both reclaiming it and turning a research station into a city.
+Australia had more Antarctic infrastructure per capita than most nations entering exile, and Casey was its centerpiece: the largest, best-equipped Australian station, with relatively modern facilities by pre-exile standards. The founding generation inherited a genuinely functional base and the task of turning a research station into a city.
 
 ---
 

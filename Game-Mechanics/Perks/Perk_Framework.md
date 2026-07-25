@@ -335,7 +335,7 @@ ahead of that pass.
 
 ### Category F: World and Discovery Perks
 
-**File:** `World_and_Discovery_Perks.md` *(to be created)*  
+**File:** `World_and_Discovery_Perks.md` *(created 2026-07-25 — 1 entry, "Derelict's Eye")*  
 **FNV equivalent:** Perks from Vault locations, from specific NPCs, from reading certain books/terminals
 
 **Definition:** Perks earned by finding hidden locations, completing non-obvious action sequences, reading full sets of data logs, meeting specific obscure NPCs, or stumbling onto content that isn't signposted.
@@ -403,7 +403,7 @@ When designing a perk that covers territory Fallout 1/2 and FNV both cover, the 
 | `Quest_and_Choice_Perks.md` | Category C: Quest/Choice | Not yet created |
 | `post-Idolization_Questline_Perks.md` | Category D: District Capstone | Complete (24 perks) |
 | `Skill_Milestone_Perks.md` | Category E: Skill Milestone | Not yet created |
-| `World_and_Discovery_Perks.md` | Category F: World/Discovery | Not yet created |
+| `World_and_Discovery_Perks.md` | Category F: World/Discovery | 1/~30-50 designed |
 | `Special_Unique_Perks.md` | Categories D/G overlap | Partial — review for consolidation |
 | `Perks.md` | Overview/summary | Partial — review for consolidation |
 

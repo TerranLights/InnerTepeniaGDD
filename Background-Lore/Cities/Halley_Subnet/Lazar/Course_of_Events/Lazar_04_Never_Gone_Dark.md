@@ -4,11 +4,14 @@
 **Course of Events Suggestion #4**, translated from `Lazar_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in: the "never gone dark" civic pride
 noted in `Mega_Init`'s "What It Feels Like" section, and the old core's passive resilience proposal
-in `Full_Extrapolation` §IV. **Corrected 2026-07-24, GPS-purposes-only pass:** the real Novolazarevskaya
-station, like every other real-world station, went dark along with the rest of Upper Earth's national
-Antarctic programs at the 2083 nuclear war, then sat dormant for centuries before 2564 — the "never gone
-dark" claim below is reframed as Tepenian Lazar's own record, starting at its 2564 founding, not a literal
-claim about the real station's full history. Character fields are intentionally left blank — see each Conflict
+in `Full_Extrapolation` §IV. **Refined 2026-07-25, GPS-purposes-only pass — this claim actually gets
+*stronger*, not just salvageable:** the real Novolazarevskaya station was kept continuously maintained and
+powered through the First Interwar Period by a rotating succession of national operators (which nations,
+and in what order, isn't relevant to the story) — meaning the lights and heat genuinely never went out, in
+a literal sense, across the full span from the real station's founding through to the 2564 exile
+settlement. No single institution's *culture* survived that chain of handoffs, but the "never gone dark"
+claim itself is real and continuous in a way that's actually more remarkable than a claim starting fresh at
+2564 — this is Lazar's own defining civic myth, and the mechanism now genuinely earns it. Character fields are intentionally left blank — see each Conflict
 section's Design Notes for what kind of conflict, and what kind of character(s), would make the
 following setting-condition become true.
 
@@ -17,8 +20,9 @@ following setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-The old Novolazarevskaya core carries, as its defining civic pride, an unbroken record: since Tepenian
-Lazar's own 2564 founding, this district has never once gone dark, and that continuity has become the
+The old Novolazarevskaya core carries, as its defining civic pride, a genuinely unbroken record: through
+every handoff between operators across the First Interwar Period and into Tepenian Lazar's own 2564
+founding, this district has never once gone dark, and that continuity has become the
 core's whole self-image — quiet, reliable, proven by longevity rather than by anything it's had to fight
 for.
 
