@@ -173,4 +173,8 @@ The local NPCs will **still turn violent** — they do not care about your reaso
 
 ---
 
-**This document pairs directly with `District_Hostile_Actions.md`.
+**This document pairs directly with `District_Hostile_Actions.md`.**
+
+**See also `Player-Instigated_Violence_-_Understandable_Reasons.md`** — the reverse direction: not why locals
+react violently to something the player did, but why the player character might instigate violence *first*,
+unprompted, in an internally-consistent (not justifiable) way. A "murderhobo" playstyle companion piece.
