@@ -58,8 +58,8 @@ The player is a newly activated robot — newly aware of a world in crisis. The 
 ### Tie-in:
 Some defectors (especially those with military engineering backgrounds) know things about large-scale power infrastructure that even Calethina doesn’t fully understand.
 ### Early Story Impact:
-* They can drop early hints or partial knowledge about the Power Grid Control Center beneath the Neutral 13th District.
-* This can make the player curious about the center much earlier than intended, creating natural motivation to explore the Neutral District (or avoid it) for different reasons.
+* They can drop early hints or partial knowledge about the Power Grid Control Center beneath the Concordia Central Hub (Axis Mundi). *(Corrected 2026-07-24 — this section originally said "Neutral 13th District," this draft's own placeholder name for what's since been formally established as the Hub.)*
+* This can make the player curious about the center much earlier than intended, creating natural motivation to explore the Hub (or avoid it) for different reasons.
 
 
 

@@ -870,8 +870,24 @@ These require a developer call before downstream work can proceed. None can be r
   - **Meyzan Yocazhda:** job/setting decision (Leo vs. Capricorn)
   - **Trisha Miller:** Activation Date still TBD
 
-- [ ] **Upper Earth Defector characters — archetype framework**
-  A folder exists but no substantive content. Upper Earth defectors are a significant player-facing archetype — humans or robots who crossed to help Tepenia. Needed: motivation framework, what they lost, what they carry. Create at least 2–3 exemplar NPC characters.
+- [ ] **Upper Earth Defector characters — placement reconciled 2026-07-24, exemplar NPCs still needed**
+  The framework itself already existed (`Worldspace/Characters/Upper-Earth_Defectors/` — 3 subdivisions,
+  Remorseful/Pragmatics/Infiltrators; this TODO entry's "no substantive content" was stale). **Placement now
+  reconciled against current district canon** (previously stuck on the retired "Neutral 13th District"
+  naming): Sagittarius (main settlement), Virgo (atonement labor — now ties directly into
+  `Tepenian_Criminal_Justice_System.md`'s Tier 2 mechanic), Cancer (refugee aid, sharpened by the Overcrowding
+  Decision), Aries (extremely restricted, Black Silence-driven paranoia), Pisces (Pragmatics/Infiltrators),
+  Gemini (Infiltrator misinformation, via the Twin Channels duality), plus two new additions the original
+  draft never had — Scorpio (Remorseful defectors at the same trauma clinics as war victims) and Libra
+  (legal/parole governance layer, not a residence). **Still needed:** actual named exemplar NPC characters
+  (motivation, what they lost, what they carry) — at least 2-3, per the original ask. **Also noticed in
+  passing, not yet fixed:** `Storyline/Side-Content/Defectors_Major_Questline.md` appears to be an accidental
+  duplicate of `Defectors_Early_Tie_Ins.md`'s content under the wrong filename, not actual major-questline
+  content — worth a look. **New recruitable companion seeded 2026-07-24:** the single highest-esteemed
+  proven-wartime-loyalty defector permitted in Cancer is now a real character — see
+  `Worldspace/Characters/Humans/recruitable/Unnamed_Cancer_Defector/README.md` (name and all personal details
+  still TBD; modeled on the Boone/Great Khans dynamic from Fallout: New Vegas). First recruitable human
+  companion filed outside `Dolls/` — established a new `Humans/recruitable/` sibling folder structure.
 
 ---
 
