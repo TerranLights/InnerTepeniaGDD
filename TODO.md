@@ -1191,6 +1191,19 @@ These require a developer call before downstream work can proceed. None can be r
   3. Critical hit chance — not yet decided.
   4. Critical hit damage — not yet decided.
 
+- [ ] **Piloting skill — reserved for the Outer Tepenia trilogy, explicitly not usable in Inner Tepenia, flagged 2026-07-26**
+  Raised during the Agility-skill balancing pass on `Skills.md`'s restructure (see
+  `Game-Mechanics/Character-Creation/Skills_Review_-_Verb_vs_Noun_Audit.md`) as a strong Agility-skill
+  candidate — operating Rastras and other ground vehicles across the highway network. **Explicitly rejected
+  for Inner Tepenia specifically**: as a turn-based, isometric game, there's no in-context moment where the
+  player actually drives a vehicle, so the skill has nothing to attach to here. Held onto instead for the
+  real-time, open-world Outer Tepenia trilogy, where vehicle operation is a genuine mechanical context. When
+  design work reaches that series, ground it in what Inner Tepenia already established: the highway network
+  (`Highways.md`), Rastra/Kharkovchanka vehicle culture, and the existing hitchhiking rules
+  (`project_hitchhiking_highways` memory) — plus the still-separately-flagged "Antarctican motorcycles"
+  vehicle-class idea (`project_antarctican_motorcycles_flagged` memory), which a Piloting skill would likely
+  interact with directly.
+
 - [ ] **A Tepenian counterpart to Karma/Sanity — genuinely open, no shape decided yet**
   Flagged 2026-07-04: the developer wants some kind of in-universe system in the spirit of Fallout's Karma or Fallout DUST's Sanity — a persistent, personal player-character standing or psychological state, distinct from faction reputation (which already exists) — but is explicit that it definitely won't be Karma and probably won't be Sanity either. No shape, mechanic, or name decided; this is a "the idea appeals, the implementation doesn't exist yet" flag, not a design brief. Possible existing anchor points worth considering whenever this gets picked up (not decided, just noted): the Humanity and Nerve MACHINE stats, and the game's central robot-consciousness theme, all already touch adjacent territory.
 

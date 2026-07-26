@@ -60,6 +60,18 @@ Traits are major, permanent choices made during **Character Creation**. You may 
 | **Cold Calculation** | +2 Calculation | -1 Humanity | Thought optimized past the point of patience for messy human/robot feeling — Capricorn/Gemini technocrat builds |
 | **Bridge Feedback** | +2 Investigation while jacked in | -1 Humanity while jacked in | Other minds' patterns bleed through the Bridge Unit connection, sharpening pattern-recognition at a real emotional cost |
 
+### Combat-Specialization Traits *(added 2026-07-26, marked for possible future renaming)*
+
+| Trait Name | Bonuses | Penalties | Thematic Fit |
+|---|---|---|---|
+| **All-In Brawler** | Power Attacks (see `Combat/Power_Attacks.md`) add +10× Might to damage, applying to both normal and critical hits | The Power Attack vulnerability window worsens from the base -20% DT/-20% DR to **-40% DT/-40% DR, lasting two turns instead of one** | The purest possible glass-cannon melee build — enormous burst damage from a single swing, at the cost of a much longer, much deeper vulnerability window afterward |
+
+**Design note:** built directly on top of the newly-confirmed Power Attack mechanic (`Combat/Power_Attacks.md`)
+— rather than a generic damage trait, this one specifically doubles down on Power Attack's own existing
+risk/reward shape (guaranteed damage now, vulnerability later) by making both sides of that trade more
+extreme. Pairs directly with the **Crusher** perk below, which pushes the same trade-off in the opposite
+direction — see that perk's own design note for how the two interact when taken together.
+
 ### Founding-Lineage Traits *(added 2026-07-25, marked for possible future renaming)*
 
 | Trait Name | Bonuses | Penalties | Thematic Fit |
@@ -72,6 +84,19 @@ only a physical shell — never personnel or institutional continuity — and th
 skill in a founding story has to trace to *ex-program exiles among the founding population itself*. This
 trait is the player-facing expression of being descended from exactly one of those figures.
 
+### Information/Cyber Warfare Traits *(added 2026-07-26, tentative — flagged for future review, not locked in)*
+
+| Trait Name | Bonuses | Penalties | Thematic Fit |
+|---|---|---|---|
+| **Information Warfare** | +15% Electronic Warfare; unlocks a new offensive action, **Data Leak** — a NODE-adjacent debuff (Calculation + Investigation) that exposes a target's weakness rather than dealing direct damage (proposed: temporary DT/DR reduction, or disabling one of the target's tactical options for a turn) | -1 Humanity; using Data Leak costs standing with whoever gets exposed — a Faction & Reputation Management hit regardless of justification or outcome | Gemini-adjacent cyber-offense specialists — the hacker/information-warrior archetype, distinct from a straight Electronic Warfare skill investment |
+
+**Design note:** grew out of the 2026-07-26 Information/Data skill restructure — "Data Leakage" was cut as its
+own standalone skill (it read more like a tactic than an investable skill), on the understanding that whatever
+trait or perk absorbed "Information Warfare" should be the thing that actually *enables* that tactic in play.
+**Explicitly tentative — the developer confirmed the general idea but not this exact shape.** Numbers, the
+debuff's precise effect, and even the trait-vs-perk placement itself are all open for revision before this is
+considered final.
+
 **Real production dependency, flagged 2026-07-25 — this trait's bonus is currently decorative, not
 functional.** The founding-era reclamations that motivated it (Marambio, Abowasa, Casey, etc.) are all
 historical backstory, already resolved centuries before the game's present day — there's no *current*
@@ -83,4 +108,4 @@ built into real quest content, on the Byrd model (a site nobody claimed at found
 
 **Design Note**: Traits are flavorful and double-edged, directly supporting different district playstyles and hidden path accessibility.
 
-**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Base-game trait count is now **31 of the 25 target** (6 over target, still not a problem) after the Founding-Lineage Trait above. Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).
+**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Base-game trait count is now **33 of the 25 target** (8 over target, still not a problem) after the Founding-Lineage, Combat-Specialization, and Information/Cyber Warfare Traits above. Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).

@@ -8,10 +8,10 @@ One perk slot earned every **2 levels** — **32 total slots** across the base g
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 
-**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **80/160 designed** (50%) as of 2026-07-24, after adding 15 perks ported/adapted from Fallout: New Vegas following a comparison pass (see `project_fallout_trait_perk_adaptation` memory), plus 4 more (Off the Record, Bond Ledger, Grief Ledger, Steady Retrieval — all marked for possible future renaming) tied to systems designed after that pass (the Reputation Matrix, the Fragmentation Matrix, and the thrown-weapon retrieval rule). The remaining ~80 perks are marked as pending in the placeholder section at the bottom of this file.
+**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **81/160 designed** (51%) as of 2026-07-26, after adding 15 perks ported/adapted from Fallout: New Vegas following a comparison pass (see `project_fallout_trait_perk_adaptation` memory), 4 more (Off the Record, Bond Ledger, Grief Ledger, Steady Retrieval) tied to systems designed after that pass (the Reputation Matrix, the Fragmentation Matrix, and the thrown-weapon retrieval rule), and 1 more (Crusher) tied to the new Power Attack mechanic (`Combat/Power_Attacks.md`) — all marked for possible future renaming. The remaining ~79 perks are marked as pending in the placeholder section at the bottom of this file.
 
 **Target distribution: ~107 non-combat (67%) / ~53 combat (33%)**  
-Currently: 52 non-combat / 28 combat. Pending perks should maintain roughly this ratio.  
+Currently: 52 non-combat / 29 combat. Pending perks should maintain roughly this ratio.  
 Perks are primarily a system for deepening playstyle identity, not a combat improvement checklist.
 
 Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C** Calculation · **H** Humanity · **I** Investigation · **N** Nerve · **E** Engine
@@ -137,6 +137,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Power Strike** | M 8, Non-Lethal Restraint & Subdual 50 | 1 | Every fourth consecutive melee attack in an engagement triggers an automatic knockdown, regardless of target size or armor type. |
 | **Electronic Disruptor** | C 7, Electronic Warfare 55 | 2 | EMP and electronic attacks have higher success rates and longer effect durations. Rank 2: a successful electronic attack can chain disruption to one adjacent electronic target at no additional cost. |
 | **Overclocked Aggression** | E 8, M 7 | 1 | Once per combat: sacrifice maximum AP on the next turn to gain +4 temporary AP on the current turn. High-risk burst option. |
+| **Crusher** *(added 2026-07-26, marked for possible future renaming)* | Level 26, M 7, N 6, E 7 | 2 | Rank 1: Power Attacks (`Combat/Power_Attacks.md`) deal +20% damage, and their vulnerability window is mitigated by 10 points — the base -20% DT/-20% DR penalty becomes -10% DT/-10% DR for one turn. Rank 2: Power Attacks deal +30% damage, and the mitigation rises to 20 points — fully canceling the base penalty, leaving no DT/DR penalty at all. |
 | **Steady Retrieval** *(added 2026-07-24, marked for possible future renaming)* | A 6, Improvised Weaponry & Combat Jury-Rig 45 | 2 | Retrieving a thrown weapon that's stuck where it landed costs 1 fewer AP. Rank 2: thrown weapons can also be thrown 1 additional grid step farther before retrieval range becomes an issue. Direct hook into the game's own thrown-weapon retrieval rule. |
 
 ---
@@ -166,6 +167,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Predictive Algorithms** | C 8, I 7 | 1 | In NODE mode, moving targets display projected positions. Accuracy penalties for targeting moving enemies are halved. |
 | **Focus Under Fire** | N 7, Tactical Grid Combat 45 | 2 | Taking damage during NODE activation drains Nerve at a reduced rate. Rank 2: taking damage during NODE no longer drains Nerve at all — the player character's focus is unbreakable. |
 | **Perimeter Awareness** *(added 2026-07-04, ported from FNV's Alertness)* | I 6 | 1 | While stationary and not moved this turn, gain a bonus to targeting accuracy in NODE mode equivalent to +2 Investigation. |
+| **Math Wrath** *(added 2026-07-26, ported directly from FNV — verified against the real perk: Level 10, Science 70, "reduces all V.A.T.S. AP costs by 10%," no other effect)* | Arcanet Navigation & Hacking 70 | 1 | All NODE-mode attacks cost 10% less AP. |
 
 ---
 
@@ -197,12 +199,12 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | Economic / Resource | 4 | Non-combat |
 | Companion / Leadership | 5 | Non-combat |
 | **Non-combat subtotal** | **52** | **65%** |
-| Combat — Offensive | 8 | Combat |
+| Combat — Offensive | 9 | Combat |
 | Combat — Defensive | 8 | Combat |
-| Combat — NODE / Targeting | 6 | Combat |
+| Combat — NODE / Targeting | 7 | Combat |
 | Combat — Hybrid / Specialized | 6 | Combat |
-| **Combat subtotal** | **28** | **35%** |
-| **Total** | **80** | |
+| **Combat subtotal** | **30** | **37%** |
+| **Total** | **82** | |
 
 Expansion in future design passes should maintain roughly this non-combat to combat ratio. DLC perks may skew toward the DLC's thematic focus, but the aggregate ratio across base game + all DLC should remain non-combat dominant.
 
@@ -227,11 +229,11 @@ The categories below indicate where additional perks are needed. Names and effec
 | Economic / Resource | 4 | ~6 more |
 | Companion / Leadership | 5 | ~5 more |
 
-### Combat (need ~25 more to reach ~53 total)
+### Combat (need ~24 more to reach ~53 total)
 
 | Category | Currently designed | Still needed |
 |----------|-------------------|-------------|
-| Combat — Offensive | 8 | ~7 more |
+| Combat — Offensive | 9 | ~6 more |
 | Combat — Defensive | 8 | ~5 more |
 | Combat — NODE / Targeting | 6 | ~7 more |
 | Combat — Hybrid / Specialized | 6 | ~6 more |
