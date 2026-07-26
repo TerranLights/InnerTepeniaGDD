@@ -41,6 +41,32 @@
 
 - **Physical Gap Reading:** Her years of practical salvage and structural maintenance give her the ability to identify physical and infrastructural failures in built environments — improperly constructed sections, load-bearing elements that were never correctly tied in, access points that exist because something was built wrong. Similar to Ji-Eun Kim's System Structure Reading but operating in the physical/structural domain rather than the electronic or networked one. She finds the gap in how something was built; Ji-Eun finds the gap in how something was wired.
 
+## Perks
+
+**Added 2026-07-26.** In addition to the bespoke companion traits above (which stay as her unique,
+hand-written abilities), she also carries the following perks from the general pool
+(`Game-Mechanics/Perks/Regular_Perks_-_Level-Up.md`), where rank is noted:
+
+- Cover Identity (Rank 2)
+- Fly on the Wall
+- Off the Record
+- Reputation Management (Rank 2)
+- Jury Rigging (Rank 2)
+- Decentralized Systems
+- Precision Maintenance (Rank 2)
+- Ripple Weaver *(marked for possible removal in the pool itself — see that perk's own flag)*
+- Undergrid Runner (Rank 2)
+- Salvage Instinct (Rank 2)
+- Hazard-Adapted Systems (Rank 2)
+- Environmental Exploitation
+- Hazard Navigation
+- Black Marketeer (Rank 2)
+- Resource Recovery (Rank 1)
+
+**Note:** Undergrid Runner's pool requirement includes Agility 8; her own profile lists Agility 7 — a minor
+one-point gap, flagged rather than silently resolved, consistent with her Design Notes' own observation that
+she'd feel at home in the Undergrid despite living in Pisces.
+
 ## Visual Description
 
 *(See `Reference_Images/` folder — 20c415285ef99fe0e40b87dbc597148c portrait; rainy cyberpunk city AI context image.)*

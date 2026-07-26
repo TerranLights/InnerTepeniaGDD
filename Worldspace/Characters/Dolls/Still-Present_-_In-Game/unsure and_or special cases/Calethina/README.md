@@ -249,6 +249,10 @@ meant to be exhaustive.
 - Empathy Protocols
 - Decentralized Systems
 - Disinformation Architect
+- Bond Ledger and Grief Ledger *(the confirmed exception to their usual mutual exclusivity — she has both from
+  the beginning, not a choice between them, matching her own established arc of Bond and Grief escalating
+  together across repeated re-specs; see `Fragmentation_Matrix.md`'s Direct Participation Count marker and
+  Personality Grief-Multiplier calibration, both specific to her)*
 
 **Locked until her Companion questline is completed, then active regardless of which embodiment branch is
 chosen** (see Re-Spec & Questline Mechanics, above, for the "inside you" / new-body branches):
