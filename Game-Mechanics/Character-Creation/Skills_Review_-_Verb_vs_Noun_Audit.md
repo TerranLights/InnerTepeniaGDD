@@ -64,6 +64,14 @@ Perks and traits are explicitly **not** finished — the developer intends to ke
 over time; this file's job (settling the skill list) is done, but the broader perk/trait pool is an ongoing,
 open-ended effort, not a closed one.
 
+**Update, same day:** every "Associated Perks" entry above has now been ported into
+`Perks/Regular_Perks_-_Level-Up.md` itself — either as a brand-new perk, or as a requirement update/rename to
+an existing perk that shared the same underlying concept. That process also surfaced a large batch of
+**orphaned perks**: existing perks in that file that gated on a skill which either got cut entirely or became
+a perk in its own right during this restructure. Those are marked inline in `Regular_Perks_-_Level-Up.md`
+(search for "orphaned" or "blocked") and are a separate, still-open follow-up — not resolved here. This audit
+file's own job is now fully done; further perk work happens directly in `Regular_Perks_-_Level-Up.md`.
+
 ---
 
 # Full Current (Tentative) Skill List
