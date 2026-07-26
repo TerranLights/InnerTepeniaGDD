@@ -35,8 +35,24 @@ So this file is self-contained without needing to dig back through chat history:
   the total point pool, not any individual skill's own scaling). See `feedback_skills_single_stat_rule`
   memory. This means **every multi-stat entry below is provisional** and will eventually need trimming to one
   stat — not done in this pass.
-- Still open: 2 more backfill skill slots needed to fully restore the 44 total after the 4 cuts above (net:
-  -4 skills, +2 skills so far = 2 more needed).
+- ~~Still open: 2 more backfill skill slots needed to fully restore the 44 total~~ — **resolved 2026-07-26:
+  the 44 target itself is dropped.** That figure was written for the old design, where skills were doing
+  double duty as what are now perks. With skills and perks correctly split apart, the current draft's real
+  skill count is **25** (Technical/Engineering 4, Information/Data 2, Social/Diplomatic 5, Survival/Exploration
+  7, Combat & Security 7, Specialized/Cultural 0 — perks-only category now) — confirmed as the actual target,
+  no further backfilling needed. Notably closer to Fallout: New Vegas's own 13-skill count than to 44.
+  **`Skills.md`'s own intro text ("There are 44 skills total") will need updating to reflect this once the
+  full rewrite happens** — not done yet, this file is still just the review/staging draft.
+- **Specialized/Cultural** category confirmed as a perks-only bucket (no top-level investable skill). It holds
+  a genuine mix, not a uniform quest-gate rule: **Sonic Attunement** and **Golden Eye Calibration** are truly
+  quest-gated (completion of the questline is the gate itself, so no stat/skill threshold on top). **Ossuary
+  Resonance** is NOT quest-gated — it keeps its real `(Level 16, 7 Humanity, 7 Nerve)` requirement; it just
+  didn't have an obviously-fitting category elsewhere, so it lives here as a catch-all rather than because it
+  shares the quest-gate logic.
+- **The four other former Specialized/Cultural skills — [NAME TBD] (all-stats unique progression), Robot
+  Religion Insight, Cultural Performance & Resonance, Memory & Consciousness Manipulation — are cut entirely**,
+  not relocated. Confirmed reasoning: these read as general player actions rather than something worth either
+  a skill investment or a perk unlock.
 
 ---
 
@@ -49,22 +65,22 @@ So this file is self-contained without needing to dig back through chat history:
 - Chemistry (Calculation) // {{a subdivision of Fallout's "Science"}}
 
 ###### Associated Perks
-- Jury-Rigging (Agility + Investigation)
-- Thermal Engineer (Calculation)
-- Siligel Chemist (Calculation)
-- Precision Maintenance (Agility + Engine)
-- Power Grid Management (Engine + Calculation)
-- Decentralized Systems (Calculation + Engine + Investigation)
-- {{Undergrid Navigation & Salvaging}} // [to-be-renamed] (Agility + Investigation + Engine)
-- Hydroponic Systems (Agility + Engine)
+- Jury-Rigging (80 Repair)
+- Thermal Engineer (Level 12, 7 Calculation)
+- Siligel Chemist (Level 8, 6 Calculation, 50 Chemistry)
+- Precision Maintenance (7 Engine, 90 Repair)
+- Power Grid Management (Level 12, 6 Engine, 6 Calculation)
+- {{Undergrid Navigation & Salvaging}} // [to-be-renamed] (Level 10, 8 Agility, 7 Investigation, 7 Engine)
+- Hydroponic Systems (50 Chemistry, 50 Biology)
 
 ## Information / Data (8)
 - Hacking (Calculation) // {{a subdivision of Fallout's "Science"}}
 - Cryptography (Calculation) // {{a subdivision of Fallout's "Science"}}
 
 ###### Associated Perks
-- Arcanet Navigation (Calculation + Investigation)
-- Data Archaeologist (Calculation + Investigation)
+- Arcanet Navigation (6 Calculation, 50 Hacking)
+- Data Archaeologist (7 Calculation, 80 Cryptography)
+- Decentralized Systems (7 Calculation, 75 Hacking)
 
 ## Social / Diplomatic (7)
 - Deception (Nerve)
@@ -74,11 +90,11 @@ So this file is self-contained without needing to dig back through chat history:
 - Insight (Humanity)
 
 ###### Associated Perks
-- Diplomatic Negotiation (Humanity + Nerve)
-- Empathy Protocols (Humanity + Investigation)
-- Reputation Management (Humanity + Nerve)
-- {Companion Command & Loyalty} // [to-be-renamed] (Nerve + Humanity)
-- History Buff
+- Diplomat (8 Humanity, 7 Nerve, 80 Speech)
+- Empathy Protocols (8 Humanity, 75 Insight)
+- Reputation Management (7 Nerve, 80 Narrative)
+- {Companion Command & Loyalty} // [to-be-renamed] (7 Nerve, 7 Humanity)
+- History Buff // {{{mechanics currently undetermined}}}
 
 ## Survival / Exploration (6)
 - Survival (Engine)
@@ -90,14 +106,14 @@ So this file is self-contained without needing to dig back through chat history:
 - Acrobatics (Agility) // {{precision movement: balance on narrow ledges/collapsed structures, vaulting over obstacles or cover, tumbling/dodging, reduced fall damage, escaping restraints through flexibility rather than force. The "can you finesse your way past/through this" skill.}}
 
 ###### Associated Perks
-- Frontier Survival (Engine + Nerve)
-- Cold Adaptation (Engine + Nerve)
-- Environmental Exploitation (Engine + Investigation)
-- Ripple Reading (Investigation + Engine + Agility)
-- Isolation (Nerve + Engine)
-- Psychological Resilience (Nerve + Engine)
-- Scavenger (Investigation)
-- Hazard Navigation (Ice, Tunnels, Blackouts) (Agility + Investigation + Engine)
+- Frontier Survival (8 Engine, 7 Nerve, 75 Outdoorsman)
+- Cold Adaptation (7 Engine, 6 Nerve, 50 Outdoorsman)
+- Environmental Exploitation (6 Engine, 7 Investigation, 50 Survival)
+- {{{Ripple Reading}}} // [[[extremely tentative; flagged for either development or possible removal]]] (Investigation + Engine + Agility)
+- {{{Isolation}}} // [[[extremely tentative; flagged for either development or possible removal]]] (Nerve + Engine)
+- Psychological Resilience (Nerve + Engine) // {{{functionality and mechanics currently undetermined}}}
+- Scavenger (7 Investigation, 50 Survival) // {{approximately akin to Fallout's "Scrounger"}}
+- Hazard Navigation (Ice, Tunnels, Blackouts) (8 Agility ||OR|| 8 Investigation;; 50 Survival ||OR|| 75 Athletics ||OR|| 75 Acrobatics)
 
 ## Combat & Security (6)
 - Blunt Melee (Might)
@@ -109,23 +125,20 @@ So this file is self-contained without needing to dig back through chat history:
 - Explosives (Nerve)
 
 ###### Associated Perks
-- Non-Lethal Restraint (Agility + Might)
-- Subdual (Agility + Might)
-- Improvised Weaponry (Might + Agility)
-- Combat Jury-Rig (Might + Agility)
-- Defensive Posturing (Might + Nerve)
-- Endurance Fighting (Might + Nerve)
-- Tactical Grid Combat (Agility + Calculation)
-- Electronic Warfare (Calculation + Investigation)
-- Threat Assessment (Investigation + Nerve)
+- Non-Lethal Neutralization (8 Might, 6 Agility ||OR|| 7 Humanity, 7 Nerve)
+- Improvised Weaponry (6 Might, 6 Agility, 7 Calculation)
+- Endurance Fighting (10 Might ||OR|| 7 Agility, 7 Nerve, 7 Engine)
+- Tactical Grid Combat (8 Agility, 7 Calculation)
+- Electronic Warfare (8 Calculation, 7 Investigation)
+- Threat Assessment (8 Investigation, 7 Nerve)
 
 ## Specialized / Cultural (8)
 
 ###### Associated Perks
-- Ossuary Resonance (Humanity + Nerve)
-- Sonic Attunement (Agility + Humanity)
+- Ossuary Resonance (Level 16, 7 Humanity, 7 Nerve)
+- Sonic Attunement (// quest-based perk)
 - Golden Eye Calibration (// quest-based perk)
-- Holographic Projection (Calculation + Nerve + Engine) // {{using a data network to "project" a "decoy version" of yourself somewhere else;; the "decoy" can't manipulate anything. Its only function is distraction}}
+- Holographic Projection (7 Calculation ||OR|| 8 Nerve, 8 Engine;; 60 Hacking ||OR|| 100 Sleight of Hand) // {{using a data network to "project" a "decoy version" of yourself somewhere else;; the "decoy" can't manipulate anything. Its only function is distraction}}
 
 ### Not Yet Added to `Skills.md` (pending this review)
 
@@ -137,8 +150,9 @@ So this file is self-contained without needing to dig back through chat history:
 
 ## Open Questions
 
-- Which of the skills above (beyond the four already flagged) read as a player *action* rather than an
-  investable *skill*? Developer's own pass, not yet done.
-- For every skill that survives this review, which single MACHINE stat should govern it (per the new
-  single-stat rule)?
-- What should fill the 2 remaining backfill slots once the cuts/additions above are finalized?
+- Which of the skills above (beyond the ones already flagged/cut) still read as a player *action* rather than
+  an investable *skill*? Developer's own pass, ongoing.
+- ~~For every skill that survives this review, which single MACHINE stat should govern it~~ — **resolved:**
+  every current skill entry now has exactly one MACHINE stat.
+- ~~What should fill the 2 remaining backfill slots~~ — **resolved 2026-07-26: nothing. 25 is the confirmed
+  final skill count, no 44-total target to hit.**
