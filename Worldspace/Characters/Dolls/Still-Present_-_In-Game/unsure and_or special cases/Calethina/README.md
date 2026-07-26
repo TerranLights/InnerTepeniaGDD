@@ -233,6 +233,55 @@ mechanics above (the inside-you stat trade, the new-body non-stat perk).
 
 ---
 
+## Perks
+
+**Added 2026-07-26.** Assigned narratively rather than through MACHINE-stat/skill gating — she has no stat
+block of her own (see Mechanical Status, above: not a companion, not subject to companion-system rules), so
+these are flavor/functional perks tied to her established nature and questline structure, not something
+"earned" through level-up the way a player's own perks are. Full definitions for all perks named below live
+in `Game-Mechanics/Perks/Regular_Perks_-_Level-Up.md`. **Left open for future additions** — this list isn't
+meant to be exhaustive.
+
+**Always active**, reflecting her innate nature as an information-dense, socially perceptive AI:
+- Empathic Resonance
+- Lie Detector
+- Fly on the Wall
+- Empathy Protocols
+- Decentralized Systems
+- Disinformation Architect
+
+**Locked until her Companion questline is completed, then active regardless of which embodiment branch is
+chosen** (see Re-Spec & Questline Mechanics, above, for the "inside you" / new-body branches):
+- Computer Whiz
+- Arcanet Navigation
+- Ripple Weaver
+- Isolation Protocol
+- Theologian
+- Pattern Intuition
+
+**Branch-specific — only one set applies, depending on the embodiment decision:**
+
+**A. "Inside you"** — technical/systemic perks, reflecting her continued existence as a digital presence now
+merged with the player's own frame:
+- Power Grid Manager
+- Ghost in the Machine
+- Thermal Engineer
+- Arcanet Weaver
+- Data Archaeologist
+- Signal Sculptor
+- Holographic Projection
+
+**B. New physical body** — social/diplomatic perks, reflecting her first opportunity to act as a person in her
+own right rather than a projection:
+- Faction Whisperer
+- Cover Identity
+- Moral Authority
+- Professional Negotiator
+- Diplomat
+- Reputation Management
+
+---
+
 ## Connected Characters
 
 ### Ji-Eun Kim
@@ -378,6 +427,8 @@ always the same signal projected into different physical spaces.
   Gemini/Aquarius bonus districts, and her six character-specific accomplishment sites
 - `Game-Mechanics/Core-Mechanics/Hacking_and_Traceability_System.md` — the Bridge Unit definition and her
   role in creating the player as one
+- `Game-Mechanics/Perks/Regular_Perks_-_Level-Up.md` — full definitions for her Perks (above), assigned
+  narratively rather than through stat/skill gating
 - `Game-Mechanics/Core-Mechanics/Player_Re-Spec_-_Options_Beyond_Calethina.md` — retired/superseded, historical
   only
 - `Worldspace/Locations-and-Levels/Concordia-City/Districts/Staging/03_Calethina_Lab_Historical_Pressures_Fix.md`
