@@ -98,43 +98,47 @@ This front-loads your chosen playstyle while still requiring sustained investmen
 
 ## Full Skill List
 
-Each skill lists its single governing MACHINE stat. Where a skill's scope could be ambiguous, a short note
-clarifies it.
+Organized by governing MACHINE stat rather than by theme — every skill listed under a stat is governed by
+that stat alone. Where a skill's scope could be ambiguous, a short note clarifies it.
 
-### Technical / Engineering (4)
-- Biology (Humanity) — one of several skills descended from a single broad "Science" concept; covers biological/life-sciences knowledge, distinct from Chemistry, Hacking, and Cryptography's own slices of that same territory
-- Repair (Investigation)
-- Lockpick (Investigation)
-- Chemistry (Calculation)
+### Might (3)
+- Athletics — raw physical capability: forcing open jammed doors/hatches, hauling yourself somewhere under load, feats of strength. The "can you overpower this" skill.
+- Blunt Melee
+- Mechanical Weapons
 
-### Information / Data (2)
-- Hacking (Calculation)
-- Cryptography (Calculation) — a distinct discipline from Hacking: securing/breaking codes and encryption, not breaking into systems
+### Agility (4)
+- Sneak
+- Sleight of Hand
+- Acrobatics — precision movement: balance, vaulting, tumbling/dodging, reduced fall damage. The "can you finesse your way past/through this" skill — distinct from Athletics' raw-power approach to the same kinds of obstacles.
+- Bladed Melee
 
-### Social / Diplomatic (5)
-- Deception (Nerve)
-- Narrative (Humanity)
-- Barter (Nerve)
-- Speech (Humanity)
-- Insight (Humanity)
+### Calculation (4)
+- Chemistry — one of several skills descended from a single broad "Science" concept
+- Hacking
+- Cryptography — a distinct discipline from Hacking: securing/breaking codes and encryption, not breaking into systems
+- Energy Weapons
 
-### Survival / Exploration (7)
-- Survival (Engine)
-- Medicine (Investigation) — treats both human injury/illness and robot vital-system instability under one clinical skill
-- Sneak (Agility)
-- Outdoorsman (Engine)
-- Athletics (Might) — raw physical capability: forcing open jammed doors/hatches, hauling yourself somewhere under load, feats of strength. The "can you overpower this" skill.
-- Sleight of Hand (Agility)
-- Acrobatics (Agility) — precision movement: balance, vaulting, tumbling/dodging, reduced fall damage. The "can you finesse your way past/through this" skill — distinct from Athletics' raw-power approach to the same kinds of obstacles.
+### Humanity (4)
+- Biology — one of several skills descended from a single broad "Science" concept; covers biological/life-sciences knowledge, distinct from Chemistry, Hacking, and Cryptography's own slices of that same territory
+- Narrative
+- Speech
+- Insight
 
-### Combat & Security (7)
-- Blunt Melee (Might)
-- Bladed Melee (Agility)
-- Unarmed (Engine)
-- Guns (Nerve)
-- Energy Weapons (Calculation)
-- Mechanical Weapons (Might)
-- Explosives (Nerve)
+### Investigation (3)
+- Repair
+- Lockpick
+- Medicine — treats both human injury/illness and robot vital-system instability under one clinical skill
+
+### Nerve (4)
+- Deception
+- Barter
+- Guns
+- Explosives
+
+### Engine (3)
+- Survival
+- Outdoorsman
+- Unarmed
 
 **Specialized/Cultural is no longer a skill category.** Its former skills ([NAME TBD], Robot Religion Insight,
 Cultural Performance & Resonance, Memory & Consciousness Manipulation) were cut entirely — general player
