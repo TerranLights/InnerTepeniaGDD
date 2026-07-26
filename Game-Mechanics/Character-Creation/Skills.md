@@ -1,7 +1,8 @@
 # Skills & Leveling System
 
-Skills range from **1 to 100** and are improved through use, trainers, skill books, quests, and level-up points.  
-There are **44 skills** total, encouraging deep specialization.
+Skills range from **1 to 100**, though each skill's actual reachable maximum is capped by its single governing MACHINE stat — see `Skill_Caps_and_Stat_Synergy.md`. Skills are improved through use, trainers, skill books, quests, and level-up points.
+
+There are **25 skills** total. **Finalized 2026-07-26**, after a full restructure: every skill is governed by exactly **one** MACHINE stat, never a blend (the multi-stat blending in the Skill Point Gain formula below is a separate system that sizes the total point pool, not any individual skill's own scaling). Most of what used to inflate the count to 44 turned out, on inspection, to be perks — a specific technique or unlock — rather than skills, a broad domain worth investing points in. Those moved to `Perks/Regular_Perks_-_Level-Up.md`, gated by Level + stat + skill thresholds instead. 25 is deliberately closer to Fallout: New Vegas's own 13-skill count than the old 44 ever was — a natural consequence of skills and perks finally being separated correctly. Full restructuring history lives in `Skills_Review_-_Verb_vs_Noun_Audit.md`.
 
 ---
 
@@ -97,63 +98,53 @@ This front-loads your chosen playstyle while still requiring sustained investmen
 
 ## Full Skill List
 
-### Technical / Engineering (9)
-- Thermal Engineering (Engine + Calculation)
-- Precision Maintenance & Repair (Agility + Engine)
-- Jury-Rigging & Repurposing (Agility + Might + Investigation)
-- Siligel Chemistry (Calculation + Engine)
-- Decentralized Systems Design (Calculation + Engine + Investigation)
-- Undergrid Navigation & Salvaging (Agility + Investigation + Engine)
-- Hydroponic Systems (Agility + Engine)
-- Highway Maintenance & Transit Systems (Agility + Engine)
-- Power Grid Management (Engine + Calculation)
+Each skill lists its single governing MACHINE stat. Where a skill's scope could be ambiguous, a short note
+clarifies it.
 
-### Information / Data (8)
-- Data Archaeology (Calculation + Investigation)
-- Arcanet Navigation & Hacking (Calculation + Investigation)
-- Information Verification & Analysis (Calculation + Investigation)
-- Rumor & Network Intelligence (Investigation + Humanity)
-- Cryptography & Decryption (Calculation + Investigation)
-- Pre-War Lore & History (Calculation + Investigation)
-- Subnet Optimization (Calculation + Investigation)
-- Data Leakage & Information Warfare (Calculation + Investigation)
+### Technical / Engineering (4)
+- Biology (Humanity) — one of several skills descended from a single broad "Science" concept; covers biological/life-sciences knowledge, distinct from Chemistry, Hacking, and Cryptography's own slices of that same territory
+- Repair (Investigation)
+- Lockpick (Investigation)
+- Chemistry (Calculation)
 
-### Social / Diplomatic (7)
-- Diplomatic Negotiation (Humanity + Nerve)
-- Empathy Protocols (Humanity + Investigation)
-- Faction & Reputation Management (Humanity + Nerve)
-- Deception & Narrative Crafting (Humanity + Investigation + Nerve)
-- Faction Rhetoric (Humanity + Nerve)
-- Moral Philosophy & Ethical Reasoning (Humanity + Nerve)
-- Companion Command & Loyalty (Nerve + Humanity)
+### Information / Data (2)
+- Hacking (Calculation)
+- Cryptography (Calculation) — a distinct discipline from Hacking: securing/breaking codes and encryption, not breaking into systems
 
-### Survival / Exploration (6)
-- Frontier Survival & Cold Adaptation (Engine + Might)
-- Environmental Exploitation & Ripple Reading (Investigation + Engine + Agility)
-- Stealth & Infiltration (Agility + Investigation)
-- Isolation & Psychological Resilience (Nerve + Engine)
-- Scavenging & Resource Foraging (Agility + Investigation)
-- Hazard Navigation (Ice, Tunnels, Blackouts) (Agility + Investigation + Engine)
+### Social / Diplomatic (5)
+- Deception (Nerve)
+- Narrative (Humanity)
+- Barter (Nerve)
+- Speech (Humanity)
+- Insight (Humanity)
 
-### Combat & Security (6)
-- Non-Lethal Restraint & Subdual (Agility + Might)
-- Improvised Weaponry & Combat Jury-Rig (Might + Agility)
-- Defensive Posturing & Endurance Fighting (Might + Nerve)
-- Tactical Grid Combat (Agility + Calculation)
-- Electronic Warfare (Calculation + Investigation)
-- Threat Assessment (Investigation + Nerve)
+### Survival / Exploration (7)
+- Survival (Engine)
+- Medicine (Investigation) — treats both human injury/illness and robot vital-system instability under one clinical skill
+- Sneak (Agility)
+- Outdoorsman (Engine)
+- Athletics (Might) — raw physical capability: forcing open jammed doors/hatches, hauling yourself somewhere under load, feats of strength. The "can you overpower this" skill.
+- Sleight of Hand (Agility)
+- Acrobatics (Agility) — precision movement: balance, vaulting, tumbling/dodging, reduced fall damage. The "can you finesse your way past/through this" skill — distinct from Athletics' raw-power approach to the same kinds of obstacles.
 
-### Specialized / Cultural (8)
-- Ossuary Resonance (Humanity + Nerve)
-- Sonic Attunement (Agility + Humanity)
-- Golden Eye Calibration (Agility + Investigation)
-- Holographic Projection & AI Interaction (Calculation + Humanity)
-- [NAME TBD] (All stats — unique progression)
-- Robot Religion Insight (Humanity + Investigation)
-- Cultural Performance & Resonance (Humanity + Agility)
-- Memory & Consciousness Manipulation (Calculation + Investigation)
+### Combat & Security (7)
+- Blunt Melee (Might)
+- Bladed Melee (Agility)
+- Unarmed (Engine)
+- Guns (Nerve)
+- Energy Weapons (Calculation)
+- Mechanical Weapons (Might)
+- Explosives (Nerve)
+
+**Specialized/Cultural is no longer a skill category.** Its former skills ([NAME TBD], Robot Religion Insight,
+Cultural Performance & Resonance, Memory & Consciousness Manipulation) were cut entirely — general player
+actions rather than an investable domain or a worthwhile perk. The category itself survives only as a
+perks-only bucket (Ossuary Resonance, Sonic Attunement, Golden Eye Calibration, Holographic Projection) in
+`Perks/Regular_Perks_-_Level-Up.md`, mixing true quest-gated perks (no stat/skill threshold — completion of
+the questline is the gate itself) with Ossuary Resonance's own genuine stat/level gate, which simply never had
+a better-fitting home.
 
 ---
 
 **Design Note**:
-The large skill pool + limited points per level + strong Tag bonus creates clear build identity and high replayability. Hidden paths rely heavily on specific skill synergies. Investigation meaningfully influences how many points you receive, rewarding analytical builds while punishing extremely low Investigation.
+A focused skill pool + limited points per level + strong Tag bonus creates clear build identity and high replayability. Hidden paths rely heavily on specific skill synergies. Investigation meaningfully influences how many points you receive, rewarding analytical builds while punishing extremely low Investigation. Skill *breadth* now comes primarily from the much larger perk pool (`Perks/Regular_Perks_-_Level-Up.md`) built on top of these 25 skills, rather than from the skill list itself trying to cover every specific technique.

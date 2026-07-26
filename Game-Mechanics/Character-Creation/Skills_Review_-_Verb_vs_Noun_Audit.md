@@ -53,6 +53,16 @@ So this file is self-contained without needing to dig back through chat history:
   Religion Insight, Cultural Performance & Resonance, Memory & Consciousness Manipulation — are cut entirely**,
   not relocated. Confirmed reasoning: these read as general player actions rather than something worth either
   a skill investment or a perk unlock.
+- **Highway Maintenance & Transit Systems, Rumor & Network Intelligence, and Pre-War Lore & History — the
+  three original skills that fell through the cracks of this restructure entirely (never renamed, cut, or
+  converted along with everything else in their categories) — are all confirmed cut, not relocated.** Highway
+  Maintenance has no meaningful way to actually implement within the game itself; Rumor & Network Intelligence
+  and Pre-War Lore & History both read as things the player *does* in the game rather than a skill or a perk.
+
+**`Skills.md` itself is now finalized (2026-07-26)** with the 25-skill list above, single-stat throughout.
+Perks and traits are explicitly **not** finished — the developer intends to keep adding a large volume of both
+over time; this file's job (settling the skill list) is done, but the broader perk/trait pool is an ongoing,
+open-ended effort, not a closed one.
 
 ---
 
