@@ -1216,6 +1216,16 @@ These require a developer call before downstream work can proceed. None can be r
   the perks themselves, just genuinely blocked on missing prerequisite systems. Revisit once (or if)
   fast travel and limb-specific damage get designed.
 
+- [ ] **SOC archetype Moderate-tier elaboration — deliberately deferred, flagged 2026-07-26**
+  Surfaced while developing `Game-Mechanics/Perks/SOC_Cross_Reference_Perk_Concepts.md`'s Concept 1
+  (district-flavored archetype variants) and Concept 4 (Portable Expertise), both of which were scoped to
+  Strong-tier district matches only, per `Reference/Real-World/jobs_professions_and_fields/
+  SOC_Cross_Category_District_Matching.md`. The Moderate-tier matches (tagged there as future Sidequest
+  material) are real and cataloged, but deliberately not developed further yet — the developer's own
+  sequencing call: the main skeleton of the city (main questlines, established district structure) needs to
+  exist first, then side- and mini-detail work fills in afterward. Revisit this once that skeleton is in
+  place, working the same archetype-by-archetype, one-at-a-time process already used for the Strong tier.
+
 - [ ] **DLC-scoped FNV perk candidates — assigned to specific DLCs rather than the base 160, flagged 2026-07-26**
   Also surfaced during the FNV perk cross-reference audit (`Game-Mechanics/Perks/FNV_Perk_Cross_Reference_Audit.md`).
   **Hunter, Entomologist, Animal Friend, Tribal Wisdom** (wildlife/mutated-creature bonuses) are confirmed

@@ -16,6 +16,12 @@ explicitly tagged with the kind of future content it's earmarked to seed, once a
 - **Moderate** matches → basis for a future **Sidequest** — confirmed by the developer as a genuinely new,
   formally distinct tier in the project's questline taxonomy, separate from Under-Questline. Its own design
   method doesn't exist yet; see the flag added to `District_Under_Questline_Design_Method.md` itself.
+  **Explicitly flagged for future elaboration only, 2026-07-26 — not to be designed or developed now.** The
+  perk-concept work in `Game-Mechanics/Perks/SOC_Cross_Reference_Perk_Concepts.md` (Portable Expertise,
+  district-flavored variants) was deliberately scoped to Strong-tier matches only for exactly this reason:
+  the main skeleton of the city (main questlines, established district structure) needs to exist first,
+  before side- and mini-detail work — which is what Moderate-tier matches represent — gets filled in. Revisit
+  once that skeleton is in place, not before.
 - **Present but minor** matches → basis for future **general, minor, in-the-world side-content** (flavor text,
   incidental NPCs, ambient dialogue — not a discrete quest structure at all). **Working interpretation, not yet
   confirmed:** treated here as a fourth, non-quest ambient-content category, distinct from the "true

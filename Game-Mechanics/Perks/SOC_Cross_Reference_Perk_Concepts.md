@@ -7,6 +7,12 @@ for design & development, 2026-07-26. Companion to `SOC_Archetype_Perk_Brainstor
 archetype in isolation); this file is the next layer up. **None of these are locked design** — concepts and
 directions only, flagged here so they aren't lost before real development time is available.
 
+**Scope note, 2026-07-26:** every archetype developed below (Concepts 1 and 4) deliberately used **Strong-tier
+district matches only.** Moderate-tier matches are explicitly flagged for future elaboration, not designed
+now — the main skeleton of the city (main questlines, established district structure) needs to exist first,
+then side- and mini-detail work fills in afterward. See the same flag in
+`SOC_Cross_Category_District_Matching.md`.
+
 ---
 
 ## 1. District-Flavored Variants of the Same Archetype
@@ -46,6 +52,23 @@ your professional history ever becoming a plot hook, a target, or a lever anyone
 **Design note:** this reframes "underrepresented" as a genuine roleplay choice rather than a deficiency —
 a player picking an obscure, unremarkable real-world job for their character concept gets something real out
 of it (safety/anonymity) rather than just missing out on the recognition perks everyone else gets.
+
+**Sharper pattern found 2026-07-26, from examining Taurus's own 4 Moderate-tier archetype matches (#3 Skilled
+Manual Trade, #7 Caregiving, #9 Outdoor/Elements-Exposed, #13 Sales/Persuasion):** these aren't 4 independent
+professional footholds. #3 and #9 both trace back to the *same* underlying fact — household-scale insulation
+engineering — just counted under two different archetype lenses (once as a trade skill, once as
+elements-exposure; #9's own write-up even notes residents are "more insulated-in than exposed-out," the
+weakest possible version of that archetype). More broadly, every one of Taurus's 4 matches is consistently the
+**domestic-scale, household-level echo of something that exists at full institutional or industrial scale
+elsewhere in the city**: its insulation know-how mirrors Capricorn's industrial engineering without ever
+reaching Capricorn's scale; its caregiving (#7, "duty to family/bonded units") mirrors Cancer's whole
+caregiving apparatus but stays family-sized rather than institutional; its hydroponics (#13, "small-scale
+hydroponic farmers") mirror real agricultural production but stay small and personal. **Taurus never gets its
+own dedicated institution for any of these skills — only the diffuse, everyday, family-level practice of the
+same underlying competence.** This is a sharper, textually-grounded version of "residential, not
+institutional" than the original abstraction above, and should inform the actual perk's flavor text if/when
+*Quiet Professional* gets built: the character isn't just unrecognized, they practice a real skill in its
+smallest, least institutional form.
 
 ---
 
