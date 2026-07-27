@@ -82,8 +82,8 @@ flavor is explicitly "your trade/skill is useful everywhere that needs it," dist
 district-specific flavor at all, because the expertise itself is what travels, not a district-flavored
 performance of it.
 
-**Status: this is the concept being developed next, archetype by archetype.** See the working notes below as
-they're produced.
+**Status: fully developed, 2026-07-26.** See "Working Notes — Concept 4, Archetype by Archetype" below for all
+14 archetypes (13 with a concept, 1 explicitly given no entry).
 
 ---
 
@@ -310,4 +310,135 @@ Outdoor/Elements-Exposed-Work-flavored Under-Questlines exist in both Sagittariu
 written yet, and each still needs to go through the actual `District_Under_Questline_Design_Method.md`
 process, not skip it.
 
+### Archetype 10 — Vehicle / Heavy Equipment Operator (reframed as repair, not operation)
+
+**Multi-district reach:** Strong = Sagittarius. Moderate = Capricorn, Aries, Hub. **4 of 13 districts.**
+
+**Reframing, 2026-07-26:** the archetype's original "operator" framing runs into the same standing
+turn-based-format caveat as the Piloting skill — Inner Tepenia has no in-context moment where the player
+actually drives a vehicle. Per the developer's direct correction, this concept is reframed around **fixing
+and repairing** vehicles and heavy equipment instead of operating them — a real mechanical context via the
+Repair skill and existing maintenance systems, rather than flavor-only until Outer Tepenia.
+
+**Concept name:** *One Set of Hands, Any Rig*
+
+**Idea:** the trained eye for diagnosing and fixing vehicles and heavy equipment specifically — Rastras,
+industrial machinery, transit systems — reads the same regardless of which district's fleet it was learned
+on. A Sagittarius caravan mechanic, a Capricorn industrial-equipment technician, an Aries heavy-equipment
+maintainer, and a Hub transit-system repair worker all share the same specific hands-on competence.
+
+**Differentiation from Archetype 3 (Skilled Manual Trade):** that archetype covers general hands-on trade
+work — construction, metalwork, industrial engineering broadly. This one is deliberately narrower and
+specifically vehicle/heavy-equipment-flavored, the same way Precision Technical Support (Archetype 14) carves
+its own niche out of Clerical (Archetype 12) rather than duplicating it.
+
+**Resolved 2026-07-26 — requirement:** Positive Reputation Matrix standing in **3 of the 4** reachable
+districts, plus completion of one relevant Under-Questline in each of those 3 — **with Sagittarius required as
+one of the 3**, since it's the archetype's only Strong-tier district. The other 2 of the 3 can be any
+combination of Capricorn, Aries, and Hub.
+
+**Real production dependency, same caveat as Archetypes 1-7 and 9:** decorative until at least 3 (ideally all
+4) genuinely Vehicle/Heavy-Equipment-Repair-flavored Under-Questlines exist across Sagittarius, Capricorn,
+Aries, and Hub — none written yet, and each still needs to go through the actual
+`District_Under_Questline_Design_Method.md` process, not skip it.
+
+### Archetype 11 — Creative / Expressive Occupations
+
+**Multi-district reach:** Strong = Leo, Pisces. Moderate = Sagittarius, Gemini. **4 of 13 districts** — same
+size pool as Archetype 7 (Caregiving), which also landed on 3 of 4.
+
+**Concept name:** *An Audience Anywhere*
+
+**Idea:** the same portable-expertise logic — the instinct for public creation and audience/craft-oriented
+identity reads the same regardless of which district's creative tradition it came from. A Leo performer, a
+Pisces illusion-artist/dream-weaver, a Sagittarius storyteller, and a Gemini writer/journalist all recognize
+the same underlying creative instinct in each other.
+
+**Resolved 2026-07-26 — requirement:** Positive Reputation Matrix standing in **3 of the 4** reachable
+districts, plus completion of one relevant Under-Questline in each of those 3 — **with at least one of Leo or
+Pisces required as one of the 3**, since those are the archetype's only Strong-tier districts. The other 2 of
+the 3 can be any combination of Sagittarius and Gemini.
+
+**Real production dependency, same caveat as Archetypes 1-7, 9, and 10:** decorative until at least 3
+(ideally all 4) genuinely Creative/Expressive-flavored Under-Questlines exist across Leo, Pisces, Sagittarius,
+and Gemini — none written yet, and each still needs to go through the actual
+`District_Under_Questline_Design_Method.md` process, not skip it.
+
+### Archetype 12 — Clerical / Information-Processing / Office-Based
+
+**Multi-district reach:** Strong = Libra, Gemini. Moderate = Capricorn, Virgo, Hub. **5 of 13 districts** —
+same size pool as Archetypes 3, 4, and 5, which all landed on 3 of 5.
+
+**Concept name:** *Every Ledger Reads the Same*
+
+**Idea:** the same portable-expertise logic — precision, recordkeeping, and systems-literacy read as
+legitimate expertise regardless of which district's paperwork it was trained on. A Libra bureaucratic
+administrator, a Gemini Arcanet/information clerk, a Capricorn production-records auditor, a Virgo
+documentation specialist, and a Hub transit-records coordinator all recognize the same underlying rigor in
+each other's work.
+
+**Resolved 2026-07-26 — requirement:** Positive Reputation Matrix standing in **3 of the 5** reachable
+districts, plus completion of one relevant Under-Questline in each of those 3 — **with at least one of Libra
+or Gemini required as one of the 3**, since those are the archetype's only Strong-tier districts. The other 2
+of the 3 can be any combination of Capricorn, Virgo, and Hub.
+
+**Real production dependency, same caveat as Archetypes 1-7 and 9-11:** decorative until at least 3 (ideally
+all 5) genuinely Clerical/Information-Processing-flavored Under-Questlines exist across Libra, Gemini,
+Capricorn, Virgo, and Hub — none written yet, and each still needs to go through the actual
+`District_Under_Questline_Design_Method.md` process, not skip it.
+
+### Archetype 13 — Sales / Persuasion-Based
+
+**Multi-district reach:** Strong = Pisces, Sagittarius. Moderate = Leo, Gemini, Hub. **5 of 13 districts** —
+same pool size as Archetypes 3, 4, 5, and 12, which all landed on 3 of 5.
+
+**Concept name:** *A Deal's a Deal, Anywhere*
+
+**Idea:** the same portable-expertise logic — negotiation instinct and rapport-building read the same
+regardless of which district's market it was learned in. A Pisces black-market dealer, a Sagittarius caravan
+trader, a Leo arena promoter, a Gemini information broker, and a Hub merchant all recognize the same closer's
+instinct in each other.
+
+**Resolved 2026-07-26 — requirement:** Positive Reputation Matrix standing in **3 of the 5** reachable
+districts, plus completion of one relevant Under-Questline in each of those 3 — **with at least one of Pisces
+or Sagittarius required as one of the 3**, since those are the archetype's only Strong-tier districts. The
+other 2 of the 3 can be any combination of Leo, Gemini, and Hub.
+
+**Real production dependency, same caveat as Archetypes 1-7 and 9-12:** decorative until at least 3 (ideally
+all 5) genuinely Sales/Persuasion-flavored Under-Questlines exist across Pisces, Sagittarius, Leo, Gemini, and
+Hub — none written yet, and each still needs to go through the actual
+`District_Under_Questline_Design_Method.md` process, not skip it.
+
+### Archetype 14 — Precision Technical Support
+
+**Multi-district reach:** Strong = Aquarius. Moderate = Cancer, Scorpio, Capricorn, Virgo. **5 of 13
+districts** — same pool size as Archetypes 3, 4, 5, 12, and 13, which all landed on 3 of 5.
+
+**Concept name:** *The Steady Second*
+
+**Idea:** the same portable-expertise logic — deep domain literacy and exacting precision in service of
+someone else's licensed judgment call reads the same regardless of which district's senior professionals it
+was practiced under. An Aquarius lab assistant, a Cancer nursing assistant, a Scorpio confession-recording
+archivist, a Capricorn quality-control auditor, and a Virgo systems analyst all share the same "I make the
+expert's work possible" identity.
+
+**Resolved 2026-07-26 — requirement:** Positive Reputation Matrix standing in **3 of the 5** reachable
+districts, plus completion of one relevant Under-Questline in each of those 3 — **with Aquarius required as
+one of the 3**, since it's the archetype's only Strong-tier district (same situation as Archetype 4's Aries).
+The other 2 of the 3 can be any combination of Cancer, Scorpio, Capricorn, and Virgo.
+
+**Real production dependency, same caveat as Archetypes 1-7 and 9-13:** decorative until at least 3 (ideally
+all 5) genuinely Precision-Technical-Support-flavored Under-Questlines exist across Aquarius, Cancer, Scorpio,
+Capricorn, and Virgo — none written yet, and each still needs to go through the actual
+`District_Under_Questline_Design_Method.md` process, not skip it.
+
+---
+
+**Concept 4 development complete, 2026-07-26.** All 14 archetypes have now been worked through: 13 with a
+full Portable Expertise concept and requirement, and Archetype 8 (Working With Animals) explicitly given no
+entry due to lacking any Strong/Moderate district match to build portability from. Every concept above remains
+unbuilt — each depends on Under-Questlines that don't exist yet, and every one of those still has to go
+through the real `District_Under_Questline_Design_Method.md` process when the time comes, per the standing
+`feedback_soc_tier_marking_additive_only` rule. Concepts 1, 2, 3, and 5 (the other cross-reference ideas above)
+remain undeveloped past their initial sketch.
 
