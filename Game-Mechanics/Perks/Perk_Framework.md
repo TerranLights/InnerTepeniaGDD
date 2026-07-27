@@ -400,7 +400,7 @@ When designing a perk that covers territory Fallout 1/2 and FNV both cover, the 
 | `Regular_Perks_-_Level-Up.md` | Tier 1: Level-Up | Partial (76 designed; ~84 more needed to reach 160 target) |
 | `Challenge_Perks_-_Task-Based.md` | Category A: Challenge | Partial (~7 perks; needs ~100+ more) |
 | `Companion_Perks.md` | Category B: Companion | Not yet created |
-| `Quest_and_Choice_Perks.md` | Category C: Quest/Choice | Not yet created |
+| `Quest_and_Choice_Perks.md` | Category C: Quest/Choice | 6/~50-70 designed (Faith & Belief sub-category) |
 | `post-Idolization_Questline_Perks.md` | Category D: District Capstone | Complete (24 perks) |
 | `Skill_Milestone_Perks.md` | Category E: Skill Milestone | Not yet created |
 | `World_and_Discovery_Perks.md` | Category F: World/Discovery | 1/~30-50 designed |

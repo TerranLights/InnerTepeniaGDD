@@ -1204,6 +1204,15 @@ These require a developer call before downstream work can proceed. None can be r
   vehicle-class idea (`project_antarctican_motorcycles_flagged` memory), which a Piloting skill would likely
   interact with directly.
 
+- [ ] **Two FNV-ported perk candidates deferred — both depend on a system Inner Tepenia doesn't have yet, flagged 2026-07-26**
+  Surfaced while cross-checking `Regular_Perks_-_Level-Up.md` against a complete real FNV perk list
+  (`to-be-integrated/Fallout_New_Vegas_-_perks_full-list.txt`). **Long Haul** (real effect: "being
+  over-encumbered no longer prevents you from using fast travel") requires a fast-travel system, which
+  Inner Tepenia does not currently have. **Adamantium Skeleton** (real effect: "damage taken by limbs
+  reduced by 50%") requires a limb-specific damage system, which doesn't exist anywhere in the current
+  docs either. Neither perk was added — not a rejection of the perks themselves, just genuinely blocked on
+  missing prerequisite systems. Revisit both once (or if) fast travel and limb-specific damage get designed.
+
 - [ ] **A Tepenian counterpart to Karma/Sanity — genuinely open, no shape decided yet**
   Flagged 2026-07-04: the developer wants some kind of in-universe system in the spirit of Fallout's Karma or Fallout DUST's Sanity — a persistent, personal player-character standing or psychological state, distinct from faction reputation (which already exists) — but is explicit that it definitely won't be Karma and probably won't be Sanity either. No shape, mechanic, or name decided; this is a "the idea appeals, the implementation doesn't exist yet" flag, not a design brief. Possible existing anchor points worth considering whenever this gets picked up (not decided, just noted): the Humanity and Nerve MACHINE stats, and the game's central robot-consciousness theme, all already touch adjacent territory.
 
