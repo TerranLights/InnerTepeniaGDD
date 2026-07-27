@@ -51,6 +51,19 @@ side.
 further districts, situations, and pressures — treat every section below as a working draft, not a settled
 specification.
 
+**A new, formally distinct tier flagged 2026-07-26 — "Sidequest," not yet designed.** During the BLS SOC
+occupational cross-referencing work (`Reference/Real-World/jobs_professions_and_fields/`), the developer
+confirmed "Sidequest" as a genuinely new tier in the questline taxonomy — distinct from this file's own
+Under-Questline method, and distinct from the "true side-content" tier described above as out of scope. Where
+exactly Sidequest sits relative to Under-Questline (narrower discoverability bar? different structural
+shape? something else?) is not yet defined — this note only records that it now exists as a confirmed,
+separate category, not what its own design method looks like. **Do not conflate Sidequest with either
+Under-Questline or true side-content until its own method is actually written.** See
+`Reference/Real-World/jobs_professions_and_fields/SOC_Cross_Category_District_Matching.md` for the
+occupational-archetype tier-marking that prompted this flag — that file is an *additional reference input*
+for future content derivation, not a new methodology of its own, and does not change anything in this file's
+existing Step 1/Step 2 process.
+
 ---
 
 ## Step 1: Gather Inputs
