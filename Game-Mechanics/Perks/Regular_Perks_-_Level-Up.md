@@ -1,6 +1,6 @@
 # Regular Perks (Level-Up)
 
-**Marked for future review (2026-07-04):** every perk in this file — old and newly added alike — is provisional. Progress toward the 160-perk target doesn't mean any individual perk is locked in; names, stat/skill requirements, rank structures, and effects are all subject to adjustment once actual design & development reaches this system, and adding more perks later may prompt revisiting ones already here (for balance, overlap, or thematic fit). Treat this whole file as a working draft, not final content.
+**Marked for future review (2026-07-04):** every perk in this file — old and newly added alike — is provisional. Progress toward the 260-perk target *(raised 2026-07-26 from 160)* doesn't mean any individual perk is locked in; names, stat/skill requirements, rank structures, and effects are all subject to adjustment once actual design & development reaches this system, and adding more perks later may prompt revisiting ones already here (for balance, overlap, or thematic fit). Treat this whole file as a working draft, not final content.
 
 One perk slot earned every **2 levels** — **32 total slots** across the base game (level cap: 64). **DLCs raise the cap** *(established 2026-07-03)*: each of the 6 subnet DLCs adds +5 levels (2.5 perk slots' worth on its own — see note below), and the South Pole DLC (DLC 1, Kendra Heinrich) adds +6 levels (3 perk slots). Base game + all 7 DLCs = level cap 100 = **50 total perk slots** — a clean number against the ~160-perk target roster (see `Perks.md`/`Special_Unique_Perks.md`), landing exactly on a perk-cadence boundary rather than 1 level short.
 
@@ -8,10 +8,10 @@ One perk slot earned every **2 levels** — **32 total slots** across the base g
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 
-**Target pool size: 160 distinct perks** (5× the 32 available slots, ensuring the player always has far more options than opportunities). Currently **104/160 designed** (65%) as of 2026-07-26, after the developer's own full pass over the `Skills.md`-restructure batch (merges, cuts, reworked formulas) plus a cross-check against a complete real Fallout: New Vegas perk list — this caught a real bug (Computer Whiz and Infiltrator had lost their genuine Level 18 gate in an earlier pass, now restored) and supplied 7 new ports: Tag!, Pack Rat, Stonewall, Sniper, Concentrated Fire, Better Criticals, Ninja. Two more FNV candidates (Long Haul, Adamantium Skeleton) were deferred — both depend on systems Inner Tepenia doesn't have yet (fast travel, limb-specific damage), see `TODO.md`. **A number of perks remain orphaned or still gate on a skill deliberately cut** — marked inline where it applies — pending a real design decision rather than being guessed at. The remaining ~56 perks are marked as pending in the placeholder section at the bottom of this file.
+**Target pool size: 260 distinct perks** *(raised 2026-07-26 by developer request — +100 beyond the original 160, keeping the same 67%/33% non-combat/combat ratio. The original 160 was a clean 5× the 32 available slots; 260 is a deliberate stretch beyond that derivation, not a recalculated slot multiple.)* Currently **142/260 designed** (55%) as of 2026-07-26, after the developer's own full pass over the `Skills.md`-restructure batch (merges, cuts, reworked formulas) plus a full cross-check against a complete real Fallout: New Vegas perk list — this caught a real bug (Computer Whiz and Infiltrator had lost their genuine Level 18 gate in an earlier pass, now restored) and supplied 45 new ports across two rounds. Round 1 (16 ports): Tag!, Pack Rat, Stonewall, Sniper, Concentrated Fire, Better Criticals, Ninja, Ladykiller, Confirmed Bachelor, Black Widow, Cherchez la Femme, Rapid Reload, Plasma Spaz, Laser Commander, Junk Rounds, Vigilant Recycler. Round 2 (29 ports, developer-triaged): Here and Now, Terrifying Presence, Mad Bomber, Friend of the Night, Old World Gourmet, Travel Light, Light Step, Them's Good Eatin', Ferocious Loyalty, Heavyweight, Heave Ho!, Bloody Mess, Super Slam!, Piercing Strike, Splash Damage, Action Girl, Meltdown, Weapon Handling, Light Touch, Fast Metabolism, Hit the Deck, Nerd Rage!, Living Anatomy, Finesse, Hobbler, Center of Mass, Paralyzing Palm, Mister Sandman, Broad Daylight. Ladykiller/Confirmed Bachelor/Black Widow/Cherchez la Femme resolve against the established sexuality rule (`project_sexuality_rules`): Ladykiller and Black Widow/Cherchez la Femme are available to any character of the matching gender presentation (human or robot); Confirmed Bachelor is robot-male-presenting only, since human men are canonically heterosexual-only. A further batch was deferred to specific DLCs (Hunter/Entomologist/Animal Friend/Tribal Wisdom → Mirny DLC; Shotgun Surgeon/The Professional/And Stay Back → Halley DLC, after a lore check ruled out Palmer; Demolition Expert/Gunslinger/Hand Loader/Commando → DLC-scoped, unspecified; Tunnel Runner → Byrd DLC), flagged for further exploration before writing in (Walker Instinct, Certified Tech), or blocked on missing systems (Long Haul, Adamantium Skeleton, Explorer — fast travel or limb-specific damage) — see `FNV_Perk_Cross_Reference_Audit.md` and `TODO.md`. **A number of perks remain orphaned or still gate on a skill deliberately cut** — marked inline where it applies — pending a real design decision rather than being guessed at. The remaining ~118 perks are marked as pending in the placeholder section at the bottom of this file.
 
-**Target distribution: ~107 non-combat (67%) / ~53 combat (33%)**  
-Currently: 63 non-combat / 41 combat. Pending perks should maintain roughly this ratio.  
+**Target distribution: ~174 non-combat (67%) / ~86 combat (33%)**  
+Currently: 79 non-combat / 63 combat — combat is already well past the *old* 53-perk target and even accounts for most of the *new* 86-perk target's headroom; future design passes should be almost entirely non-combat to make any real progress toward the expanded 174 non-combat goal.  
 Perks are primarily a system for deepening playstyle identity, not a combat improvement checklist.
 
 Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C** Calculation · **H** Humanity · **I** Investigation · **N** Nerve · **E** Engine
@@ -34,6 +34,11 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Diplomat** | H 8, N 8, Speech 90 | 1 | Full diplomatic authority in formal negotiations; summits, treaty talks, faction leadership meetings treat the player character as a legitimate party rather than a mere messenger or petitioner. |
 | **Empathy Protocols** | H 8, Insight 75 | 1 | Genuinely deep emotional attunement: sense not just that an NPC feels something, but the specific shape of it (e.g., grief, resentment, longing, etc.) well enough to address the real issue rather than its surface symptom. |
 | **Reputation Management** | N 7, Narrative 80 | 2 | Actively author how the player character is perceived rather than just reacting to reputation as it accrues. Rank 1: plant a specific narrative about oneself in a district and have it actually stick and spread; Rank 2: Mitigation against Negative faction reputiation *(Formula: base level Faction Reputation Modifier + [Hum x 10]%)* |
+| **Ladykiller** *(added 2026-07-26, ported from FNV — male, straight; available to any male character, human or robot, since heterosexuality is universal under the established sexuality rule)* | — | 1 | +10% damage against female-presenting targets; unique dialogue options with female NPCs. |
+| **Confirmed Bachelor** *(added 2026-07-26, ported from FNV — male, gay; available only to male-presenting robot characters, never human males, since human men are canonically heterosexual-only — see `project_sexuality_rules`. A robot character with both this and Ladykiller roleplays as bisexual.)* | — *(robot, male-presenting, only)* | 1 | +10% damage against male-presenting targets; unique recognition dialogue with other male characters who share this orientation — including non-recruitable NPCs, mirroring FNV's Manny Vargas/Major Knight precedent. |
+| **Black Widow** *(added 2026-07-26, ported from FNV — female, straight; available to any female character, human or robot, both established bisexual under the sexuality rule)* | — | 1 | +10% damage against male-presenting targets; unique dialogue options with male NPCs. |
+| **Cherchez la Femme** *(added 2026-07-26, ported from FNV — female, lesbian; available to any female character, human or robot. A character with both this and Black Widow roleplays as bisexual.)* | — | 1 | +10% damage against female-presenting targets; unique recognition dialogue with other female characters who share this orientation. |
+| **Terrifying Presence** *(added 2026-07-26, ported from FNV)* | Speech 70 | 1 | Intimidate a foe through dialogue; closing out the interaction causes them to flee combat briefly. |
 
 ---
 
@@ -45,6 +50,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Swift Learner** | C 4 | 3 | Gain an additional 10% experience whenever XP is earned, per rank (up to +30% at rank 3). |
 | **Comprehension** | — | 1 | Gain an additional skill point for reading a full data archive/log entry; reading a technical manual (Inner Tepenia's magazine equivalent) grants double the normal skill points. |
 | **Tag!** *(added 2026-07-26, ported directly from FNV — no stat gate on the real perk either)* | Level 16 | 1 | Choose a 4th skill to Tag, receiving the same one-time +15 point bonus the original three Tag Skills grant at character creation. |
+| **Here and Now** *(added 2026-07-26, ported directly from FNV — no stat gate on the real perk either)* | — | 1 | Instantly gain a full level. |
 
 ---
 
@@ -59,6 +65,9 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Decentralized Systems** | C 7, Hacking 75 | 1 | +30% effectiveness when designing or linking decentralized power nodes. Core perk for the Independent Lattice hidden path. *(flagged for future review)*|
 | **Precision Maintenance** | C 9 OR Repair 100 | 3 | Repaired items degrade more slowly and occasionally exceed their base specifications after repair. The player character's fine motor calibration is operating at peak precision.: Rank 1: items degrade 10% slower, Rank 2: items degrade 20% slower, Rank 3: items degrade 30% slower |
 | **Hydroponic Specialist** | Chemistry 50, Biology 50 | 2 | Rank 1: Improved yields, growth rates, and system efficiency in hydroponic operations. Rank 2: cultivate rare medicinal and chemical plants not available through any other source. |
+| **Junk Rounds** *(added 2026-07-26, ported from FNV — Luck retargeted to Investigation, since Engine is already the recovery-speed/AP-replenishment stat, not a resourcefulness stat)* | I 6, Repair 45 | 1 | Craft ammunition using scrap metal and salvaged components. |
+| **Vigilant Recycler** *(added 2026-07-26, ported from FNV — Science retargeted away from any of its three descendant skills entirely, per developer's own call: field-survivalist skills fit better than a lab-science one)* | Repair 50 OR Outdoorsman 70 | 1 | When using Energy Weapons, twice as likely to recover drained ammunition components; more efficient recycling recipes available at workbenches. |
+| **Mad Bomber** *(added 2026-07-26, ported from FNV)* | Repair 45, Explosives 45 | 1 | Unlocks special explosive crafting recipes at any workbench. |
 
 
 
@@ -97,6 +106,11 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Cold Adaptation** *(added 2026-07-26)* | E 7, N 6, Outdoorsman 50 | 1 | Meaningfully reduced cold-exposure penalties outside protected districts, a real edge in the Frostlands without yet being fully at home there. |
 | **Environmental Exploitation** *(added 2026-07-26)* | E 6, I 7, Survival 50 | 1 | Actively turn hazardous conditions (e.g., ripples, blackouts, structural instability, etc.) into tools and opportunities rather than just surviving them. |
 | **Hazard Navigation** *(added 2026-07-26)* | A 8 ||OR|| I 8; Survival 50 ||OR|| Athletics 75 ||OR|| Acrobatics 75 | 1 | Move through ice, collapsing tunnels, and blackout zones with genuine confidence rather than just tolerance — reachable through a physical-endurance build, an analytical/investigative build, or an agility-and-finesse build alike. |
+| **Friend of the Night** *(added 2026-07-26, ported from FNV — Perception retargeted to Investigation)* | I 6, Sneak 30 | 1 | Eyes adapt quickly to low-light conditions. |
+| **Old World Gourmet** *(added 2026-07-26, ported from FNV)* | E 6, Survival 45 | 1 | +25% addiction resistance; +50% health bonus from snack-food items; Glitch-Coolant grants health in addition to its normal effects. |
+| **Travel Light** *(added 2026-07-26, ported from FNV)* | Survival 45 | 1 | +10% movement speed while wearing light armor or no armor. |
+| **Light Step** *(added 2026-07-26, ported from FNV — Perception retargeted to Investigation)* | I 6, A 6 | 1 | Floor traps and mines never trigger. |
+| **Them's Good Eatin'** *(added 2026-07-26, ported from FNV)* | Survival 55 | 1 | Creatures killed have a chance to yield a potent healing item when looted. |
 
 ---
 
@@ -123,6 +137,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Siligel Metabolism** *(requirement updated 2026-07-26 — Siligel Chemistry retargeted to Chemistry)* | E 8, Chemistry 55 | 1 | All siligel consumption rates permanently reduced. Represents deep systemic self-optimization of the player character's internal processes — something that cannot be undone. |
 | **Strong Back** *(added 2026-07-04, ported from FNV)* | M 5, E 5 | 1 | +50 carry weight. |
 | **Pack Rat** *(added 2026-07-26, ported from FNV; carry-weight unit baseline still TBD, same dependency already flagged on the Hoarder trait)* | I 5, Barter 70 | 1 | Items weighing two pounds or less now weigh half as much — complements Strong Back's flat carry-weight bonus rather than duplicating it. |
+| **Heavyweight** *(added 2026-07-26, ported from FNV — Might-scaling)* | M 6 | 1 | Weapons above a set weight threshold weigh half as much. |
 
 ---
 
@@ -136,6 +151,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **[NAME PENDING — Companion Command & Loyalty]** *(added 2026-07-26 from the Skills.md restructure; deliberately NOT using that exact name as a permanent title, since it's the same name as the skill just retired above — flagged in the audit itself as \[to-be-renamed\])* | N 7, H 7 | 1 | Direct, effective command presence over a companion in the field — the kind of leadership that gets followed without needing to be Trusted Command's deeper, earned loyalty first. |
 | **Bond Ledger** *(added 2026-07-24, marked for possible future renaming — mutually exclusive with Grief Ledger, EXCEPT for Calethina, who has both — see her own README)* | H 6 | 1 | Repeated re-specs with a companion present accumulate Bond faster on the Fragmentation Matrix. Builds toward the deeper companion tiers (up to The Long Vigil) more readily, at the cost of slower Grief accumulation — a build that leans into closeness over catharsis. |
 | **Grief Ledger** *(added 2026-07-24, marked for possible future renaming — mutually exclusive with Bond Ledger, EXCEPT for Calethina, who has both — see her own README)* | N 6 | 1 | Repeated re-specs with a companion present accumulate Grief faster on the Fragmentation Matrix, but each individual re-spec's Grief cost to the player character is reduced. A build that leans into processing change quickly over building steady closeness. |
+| **Ferocious Loyalty** *(added 2026-07-26, ported from FNV — Cha retargeted to Humanity)* | H 6 | 1 | When the player character drops below 50% health, the active companion gains +50 DR. |
 
 ---
 
@@ -158,6 +174,17 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Tactical Grid Combat** *(added 2026-07-26, flagged for reconfiguration, as this mostly cannot apply to a turn-based environment)* | A 8, C 7 | 1 | Read and exploit the tactical grid itself — positioning, cover, and movement options resolve faster and more precisely than for a combatant relying on instinct alone. |
 | **Electronic Warfare** *(added 2026-07-26)* | C 8, I 7 | 1 | Direct, reliable disruption of enemy electronics and robotic systems in the field, beyond what any single Electronic Disruptor-style trick can manage on its own. |
 | **Threat Assessment** *(added 2026-07-26, flagged for further elaboration)* | I 8, N 7 | 1 | Accurately read a combat encounter's real danger level before it starts — not just who's hostile, but who's actually dangerous. |
+| **Rapid Reload** *(added 2026-07-26, ported from FNV — confirmed reloading is modeled as an explicit AP-costed action)* | A 5, Guns 30 | 1 | Reloading costs 25% less AP than normal. |
+| **Plasma Spaz** *(added 2026-07-26, ported from FNV — confirmed Energy Weapons has named subtypes)* | Energy Weapons 70 | 1 | AP cost for all plasma weapons is reduced by 20%. |
+| **Laser Commander** *(added 2026-07-26, ported from FNV — confirmed Energy Weapons has named subtypes)* | Energy Weapons 90 | 1 | +15% damage and +10% critical chance with any laser weapon. |
+| **Heave, Ho!** *(added 2026-07-26, ported from FNV — directly relevant to the Throwing Weapons system, Might already governs throw distance)* | M 5, Explosives 30 | 1 | +50% thrown weapon velocity and range. |
+| **Bloody Mess** *(added 2026-07-26, ported from FNV — no stat gate on the real perk either)* | — | 1 | +5% overall damage; more violent death animations. |
+| **Super Slam!** *(added 2026-07-26, ported from FNV)* | M 6, Bladed Melee 45 OR Blunt Melee 45 | 1 | Melee attacks have a chance to knock the target down. |
+| **Piercing Strike** *(added 2026-07-26, ported from FNV)* | Unarmed 70 | 1 | Unarmed and melee attacks negate 15 points of the target's DT. |
+| **Splash Damage** *(added 2026-07-26, ported from FNV)* | Explosives 70 | 1 | +25% explosive area of effect. |
+| **Action Girl** *(added 2026-07-26, ported from FNV)* | A 6 | 2 | +15 AP per rank. |
+| **Meltdown** *(added 2026-07-26, ported from FNV)* | Energy Weapons 90 | 1 | Foes killed by energy weapons emit a corona of harmful energy, damaging anyone standing nearby. |
+| **Weapon Handling** *(added 2026-07-26, ported from FNV — Might-scaling)* | M < 10 | 1 | Weapon Might requirements are 2 points lower than normal. |
 
 ---
 
@@ -174,6 +201,10 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Toughness** *(added 2026-07-04, ported from FNV)* | E 5 | 2 | +3 permanent DT per rank. |
 | **Life Giver** *(added 2026-07-04, ported from FNV)* | E 6 | 1 | +30 maximum health. |
 | **Nerves of Steel** *(added 2026-07-04, ported from FNV — reworked, see note below)* | E 7 | 1 | Up to 2 unused AP at the end of your turn carry over into your next turn instead of being discarded (does not stack beyond 2 banked AP at a time). *(Provisional — flagged for developer review: FNV's original effect, "20% faster AP regeneration," doesn't map onto Inner Tepenia's turn-based AP model, since AP doesn't regenerate mid-turn and unused AP is discarded by the base rule rather than continuously refilling. This reworks it as the first implementation of the AP-banking idea already flagged, undesigned, in `Core-Mechanics/Action_Points_Perks_and_Traits.md`. Gated on Engine since Engine is already defined as the recovery-speed/AP-replenishment stat.)* |
+| **Light Touch** *(added 2026-07-26, ported from FNV)* | A 6, Repair 45 | 1 | While wearing light armor, +5% critical hit chance; enemies suffer -25% critical hit chance against the player character. |
+| **Fast Metabolism** *(added 2026-07-26, ported from FNV — no stat gate on the real perk either)* | — | 1 | +20% HP restored from healing items. |
+| **Hit the Deck** *(added 2026-07-26, ported from FNV)* | Explosives 70 | 1 | +25 DT against explosive damage. |
+| **Nerd Rage!** *(added 2026-07-26, ported from FNV — Science retargeted to Hacking, matching Computer Whiz/Math Wrath's own precedent)* | C 5, Hacking 50 | 1 | Whenever health drops to 20% or below, gain +15 DT and Might is treated as maxed for the duration. |
 
 ---
 
@@ -191,6 +222,11 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Sniper** *(added 2026-07-26, ported from FNV — mapped onto Investigation since Inner Tepenia has no Perception stat and Investigation already governs the weak-point bonus in `Targeting_System.md`; exact percentage/formula not yet designed, flagged for a future balance pass)* | I 6 | 1 | Increased chance to land a scanned weak-point hit in NODE mode. |
 | **Concentrated Fire** *(added 2026-07-26, ported from FNV — mapped onto Calculation (crit-chance governance) plus the two ranged skill lines it originally gated on; exact percentage/formula not yet designed, flagged for a future balance pass)* | C 6, Guns 60, Energy Weapons 60 | 1 | Accuracy increases with each subsequent NODE-mode attack queued against the same target or body part. |
 | **Better Criticals** *(added 2026-07-26, ported from FNV — real perk gates on Perception + Luck, neither of which exist as Inner Tepenia MACHINE stats; developer's call: Nerve alone)* | N 6 | 1 | +50% damage with critical hits. |
+| **Living Anatomy** *(added 2026-07-26, ported from FNV)* | Medicine 70 | 1 | Reveals a target's health and DT in NODE mode; +5% damage against humans and non-feral robots. |
+| **Finesse** *(added 2026-07-26, ported from FNV — no stat gate on the real perk either)* | — | 1 | +5% critical hit chance. |
+| **Hobbler** *(added 2026-07-26, ported from FNV — Perception retargeted to Investigation)* | I 7 | 1 | +25% chance to hit a target's legs in NODE mode. |
+| **Center of Mass** *(added 2026-07-26, ported from FNV)* | Guns 70 | 1 | +15% NODE-mode damage when targeting the torso. |
+| **Paralyzing Palm** *(added 2026-07-26, ported from FNV)* | Unarmed 70 | 1 | A NODE-mode unarmed attack can paralyze the target for a short duration. |
 
 ---
 
@@ -205,63 +241,65 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Silent Running** *(added 2026-07-04, ported from FNV; flagged for repurposing to the Outer Tepenia trilogy)* | A 6, Sneak 50 | 1 | Running no longer breaks stealth or interrupts a sneak attempt. |
 | **Quick Draw** *(added 2026-07-04, ported from FNV — reworked for turn-based AP, per the user's own design)* | A 5 | 1 | Drawing or holstering a weapon in combat costs no AP. *(FNV's original effect, "50% faster equip/holster," is a real-time animation-speed mechanic that doesn't translate to a discrete per-action AP cost — this reworks the same intent, removing weapon-switching as a tactical burden, into an AP-cost term instead.)* |
 | **Ninja** *(added 2026-07-26, ported from FNV — Melee Weapons/Sneak retargeted to Bladed Melee OR Blunt Melee, plus Sneak; explicitly includes thrown blades, per the game's own Throwing Weapons system)* | Bladed Melee 80 OR Blunt Melee 80, Sneak 80 | 1 | Multiplies critical hit chance with melee, unarmed, and thrown-blade weapons; +25% damage with melee/unarmed/thrown-blade sneak-attack criticals. |
+| **Mister Sandman** *(added 2026-07-26, ported from FNV)* | Sneak 60 | 1 | Instantly kill a sleeping NPC undetected; grants bonus XP. |
+| **Broad Daylight** *(added 2026-07-26, ported from FNV — no stat gate on the real perk either)* | — | 1 | No Sneak penalty from using a light source. |
 
 ---
 
 ## Perk Count by Category
 
-*(Recounted 2026-07-26 after cross-checking against a complete real FNV perk list — 7 new ports added (Tag!, Pack Rat, Stonewall, Sniper, Concentrated Fire, Better Criticals, Ninja). Previously recounted 2026-07-26 after the developer's own full pass over the perk list, updated after the `Skills.md` restructure, 2026-07-24 — Off the Record, Bond Ledger, Grief Ledger, Steady Retrieval — and 2026-07-04 after adding 15 Fallout-adapted perks — see `project_fallout_trait_perk_adaptation` memory.)*
+*(Recounted 2026-07-26 — 29 more FNV ports added across all non-combat categories plus Combat — Offensive/Defensive/NODE/Hybrid, after the developer triaged the full Clean Candidates list (write in / flag for exploration / assign to a DLC). Previously recounted 2026-07-26 after 3 FNV ports added to Combat — Offensive (Rapid Reload, Plasma Spaz, Laser Commander), after resolving the Black Widow/Cherchez la Femme/Ladykiller/Confirmed Bachelor question, after cross-checking against a complete real FNV perk list, and after the developer's own full pass over the perk list, the `Skills.md` restructure, 2026-07-24 — Off the Record, Bond Ledger, Grief Ledger, Steady Retrieval — and 2026-07-04 after adding 15 Fallout-adapted perks — see `project_fallout_trait_perk_adaptation` memory.)*
 
 | Category | Count | Type |
 |----------|-------|------|
-| Social / Diplomatic | 12 | Non-combat |
-| Growth / Learning | 4 | Non-combat |
-| Technical / Engineering | 7 | Non-combat |
+| Social / Diplomatic | 17 | Non-combat |
+| Growth / Learning | 5 | Non-combat |
+| Technical / Engineering | 10 | Non-combat |
 | Information / Data | 10 | Non-combat |
-| Survival / Exploration | 12 | Non-combat |
+| Survival / Exploration | 17 | Non-combat |
 | Cultural / Philosophical | 7 | Non-combat |
-| Economic / Resource | 5 | Non-combat |
-| Companion / Leadership | 6 | Non-combat |
-| **Non-combat subtotal** | **63** | **61%** |
-| Combat — Offensive | 15 | Combat |
-| Combat — Defensive | 9 | Combat |
-| Combat — NODE / Targeting | 10 | Combat |
-| Combat — Hybrid / Specialized | 7 | Combat |
-| **Combat subtotal** | **41** | **39%** |
-| **Total** | **104** | |
+| Economic / Resource | 6 | Non-combat |
+| Companion / Leadership | 7 | Non-combat |
+| **Non-combat subtotal** | **79** | **56%** |
+| Combat — Offensive | 26 | Combat |
+| Combat — Defensive | 13 | Combat |
+| Combat — NODE / Targeting | 15 | Combat |
+| Combat — Hybrid / Specialized | 9 | Combat |
+| **Combat subtotal** | **63** | **44%** |
+| **Total** | **142** | |
 
 Expansion in future design passes should maintain roughly this non-combat to combat ratio. DLC perks may skew toward the DLC's thematic focus, but the aggregate ratio across base game + all DLC should remain non-combat dominant.
 
 ---
 
-## Pending Perks — Placeholders (~56 remaining to reach 160 target)
+## Pending Perks — Placeholders (~118 remaining to reach 260 target)
 
-*(Updated 2026-07-26 after cross-checking against a complete real FNV perk list — 7 new ports pushed the designed count from 97 to 104. Previously updated after the `Skills.md` restructure pushed the count from 82 to 101, and 2026-07-04 after the Fallout-adapted perk batch — see `project_fallout_trait_perk_adaptation` memory.)*
+*(Updated 2026-07-26 — target pool size raised from 160 to 260 by developer request, same 67%/33% ratio, adding roughly 60% more headroom to every category's own rough target below. Previously updated after 29 more FNV ports pushed the designed count from 113 to 142, after 3 more FNV ports pushed the count from 108 to 111, after 4 more FNV ports pushed the count from 104 to 108, after cross-checking against a complete real FNV perk list pushed the count from 97 to 104, after the `Skills.md` restructure pushed the count from 82 to 101, and 2026-07-04 after the Fallout-adapted perk batch — see `project_fallout_trait_perk_adaptation` memory.)*
 
-The categories below indicate where additional perks are needed. Names and effects are to be designed during dedicated perk design passes. Rough targets per category to reach the 160 total at the correct ratio:
+The categories below indicate where additional perks are needed. Names and effects are to be designed during dedicated perk design passes. Rough targets per category to reach the 260 total at the correct ratio:
 
-### Non-combat (need ~44 more to reach ~107 total)
+### Non-combat (need ~95 more to reach ~174 total)
 
-| Category | Currently designed | Still needed |
-|----------|-------------------|-------------|
-| Social / Diplomatic | 12 | ~6 more |
-| Growth / Learning | 4 | ~5 more |
-| Technical / Engineering | 7 | ~11 more |
-| Information / Data | 10 | ~6 more |
-| Survival / Exploration | 12 | ~4 more |
-| Cultural / Philosophical | 7 | ~5 more |
-| Economic / Resource | 5 | ~5 more |
-| Companion / Leadership | 6 | ~4 more |
+| Category | Currently designed | Rough target | Still needed |
+|----------|-------------------|--------------|-------------|
+| Social / Diplomatic | 17 | ~29 | ~12 more |
+| Growth / Learning | 5 | ~15 | ~10 more |
+| Technical / Engineering | 10 | ~29 | ~19 more |
+| Information / Data | 10 | ~26 | ~16 more |
+| Survival / Exploration | 17 | ~26 | ~9 more |
+| Cultural / Philosophical | 7 | ~20 | ~13 more |
+| Economic / Resource | 6 | ~16 | ~10 more |
+| Companion / Leadership | 7 | ~16 | ~9 more |
 
-### Combat (need ~12 more to reach ~53 total)
+### Combat (need ~23 more to reach ~86 total, unevenly distributed)
 
-| Category | Currently designed | Still needed |
-|----------|-------------------|-------------|
-| Combat — Offensive | 15 | ~0 more (already over target — fine, not a problem) |
-| Combat — Defensive | 9 | ~4 more |
-| Combat — NODE / Targeting | 10 | ~3 more |
-| Combat — Hybrid / Specialized | 7 | ~5 more |
+| Category | Currently designed | Rough target | Still needed |
+|----------|-------------------|--------------|-------------|
+| Combat — Offensive | 26 | ~20 | ~0 more (already over target — fine, not a problem) |
+| Combat — Defensive | 13 | ~22 | ~9 more |
+| Combat — NODE / Targeting | 15 | ~22 | ~7 more |
+| Combat — Hybrid / Specialized | 9 | ~22 | ~13 more |
 
-**Design note for future passes**: When adding perks, prioritize filling underrepresented categories first (Cultural/Philosophical, Companion/Leadership, Growth/Learning) before adding more to already-robust categories (Technical, Information/Data, Social). New non-combat categories not yet invented are still encouraged — the world of Inner Tepenia has enough distinct systems to support them.
+**Design note for future passes**: even with the expanded 260 goal, Combat — Offensive alone already exceeds its own rough share, while the other three combat categories and nearly every non-combat category still have real room to grow. Prioritize the most underrepresented categories first (Growth/Learning, Companion/Leadership, Combat — Hybrid/Specialized, Cultural/Philosophical) before adding more to already-robust ones (Combat — Offensive above all). New non-combat categories not yet invented are still encouraged — the world of Inner Tepenia has enough distinct systems to support them.
 
 **Before adding more perks, resolve the orphaned-perk backlog from the 2026-07-26 restructure first** (see the intro note and every perk marked *orphaned*/*blocked* inline above) — retargeting those to a real gate matters more than growing the raw count further.

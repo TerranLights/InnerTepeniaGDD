@@ -1204,14 +1204,32 @@ These require a developer call before downstream work can proceed. None can be r
   vehicle-class idea (`project_antarctican_motorcycles_flagged` memory), which a Piloting skill would likely
   interact with directly.
 
-- [ ] **Two FNV-ported perk candidates deferred — both depend on a system Inner Tepenia doesn't have yet, flagged 2026-07-26**
+- [ ] **Three FNV-ported perk candidates deferred — all depend on a system Inner Tepenia doesn't have yet, flagged 2026-07-26**
   Surfaced while cross-checking `Regular_Perks_-_Level-Up.md` against a complete real FNV perk list
-  (`to-be-integrated/Fallout_New_Vegas_-_perks_full-list.txt`). **Long Haul** (real effect: "being
-  over-encumbered no longer prevents you from using fast travel") requires a fast-travel system, which
-  Inner Tepenia does not currently have. **Adamantium Skeleton** (real effect: "damage taken by limbs
-  reduced by 50%") requires a limb-specific damage system, which doesn't exist anywhere in the current
-  docs either. Neither perk was added — not a rejection of the perks themselves, just genuinely blocked on
-  missing prerequisite systems. Revisit both once (or if) fast travel and limb-specific damage get designed.
+  (`to-be-integrated/Fallout_New_Vegas_-_perks_full-list.txt`; full sorting in `Game-Mechanics/Perks/
+  FNV_Perk_Cross_Reference_Audit.md`). **Long Haul** (real effect: "being over-encumbered no longer prevents
+  you from using fast travel") and **Explorer** (real effect: reveals all fast-travel locations on the map —
+  corrected 2026-07-26 from an earlier mischaracterization as quest-marker-related; it has nothing to do with
+  quests) both require a fast-travel system, which Inner Tepenia does not currently have. **Adamantium
+  Skeleton** (real effect: "damage taken by limbs reduced by 50%") requires a limb-specific damage system,
+  which doesn't exist anywhere in the current docs either. None of the three were added — not a rejection of
+  the perks themselves, just genuinely blocked on missing prerequisite systems. Revisit once (or if)
+  fast travel and limb-specific damage get designed.
+
+- [ ] **DLC-scoped FNV perk candidates — assigned to specific DLCs rather than the base 160, flagged 2026-07-26**
+  Also surfaced during the FNV perk cross-reference audit (`Game-Mechanics/Perks/FNV_Perk_Cross_Reference_Audit.md`).
+  **Hunter, Entomologist, Animal Friend, Tribal Wisdom** (wildlife/mutated-creature bonuses) are confirmed
+  **Mirny DLC (DLC 7)** content, tied to Davis's near-idyllic, breadbasket-adjacent setting — the closest thing
+  to huntable wildlife Antarctica plausibly offers. **Shotgun Surgeon, The Professional, And Stay Back**
+  (traditional-firearm-specific bonuses) are confirmed **Halley DLC** content, since traditional firearms
+  only exist in coastal cities with real cause for concern over an Upper Earth invasion — locked to Halley
+  over Palmer after a lore check (Palmer is an established tourism/diplomatic gateway, not a militarized
+  culture, and was itself the target of Upper Earth's wartime strikes; Halley's Belgrano has genuine ongoing
+  military civic character plus the subnet's broader working-class/industrial identity). **A base-game
+  equivalent for the latter three is still needed**: the developer confirmed "items-turned-weapons"
+  counterparts are possible — proposed direction is three new perks built on the
+  existing Improvised Weaponry perk (DT-penetration, sneak-attack-crit, and knockback versions), not yet
+  drafted.
 
 - [ ] **A Tepenian counterpart to Karma/Sanity — genuinely open, no shape decided yet**
   Flagged 2026-07-04: the developer wants some kind of in-universe system in the spirit of Fallout's Karma or Fallout DUST's Sanity — a persistent, personal player-character standing or psychological state, distinct from faction reputation (which already exists) — but is explicit that it definitely won't be Karma and probably won't be Sanity either. No shape, mechanic, or name decided; this is a "the idea appeals, the implementation doesn't exist yet" flag, not a design brief. Possible existing anchor points worth considering whenever this gets picked up (not decided, just noted): the Humanity and Nerve MACHINE stats, and the game's central robot-consciousness theme, all already touch adjacent territory.

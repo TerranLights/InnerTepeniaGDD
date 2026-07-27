@@ -16,49 +16,46 @@ weight) is redundant with the already-ported **Strong Back**, same effect.
 
 ---
 
-## Clean Candidates — Ready to Add (no missing system, clear stat/skill mapping)
+## Clean Candidates — All Resolved 2026-07-26
 
-The strongest, most actionable bucket — nothing here is blocked on anything not already established.
+Every perk that was in this bucket has now been sorted: 29 written into `Regular_Perks_-_Level-Up.md`'s base
+160 (Heave Ho!, Friend of the Night, Light Touch, Old World Gourmet, Travel Light, Bloody Mess, Ferocious
+Loyalty, Mad Bomber, Living Anatomy, Super Slam!, Terrifying Presence, Here and Now, Finesse, Mister Sandman,
+Nerd Rage!, Fast Metabolism, Heavyweight, Hobbler, Hit the Deck, Piercing Strike, Splash Damage, Center of
+Mass, Light Step, Action Girl, Meltdown, Weapon Handling, Paralyzing Palm, Them's Good Eatin', Broad
+Daylight), 5 moved to "DLC-Scoped Candidates" below (Demolition Expert, Gunslinger, Hand Loader, Commando,
+Tunnel Runner), and 2 moved to "Flagged for Further Exploration" below (Walker Instinct, Certified Tech) —
+plus the sexuality quartet, Rapid Reload, Plasma Spaz, and Laser Commander, all already written in during the
+prior pass. See `Regular_Perks_-_Level-Up.md` for the actual written entries; nothing further needed here.
 
-| Perk | Real FNV Requirement | Real FNV Effect | Why it's ready |
+---
+
+## Resolved and Written In (formerly "Still Pending a Sub-Decision")
+
+| Perk | Real FNV Requirement | Real FNV Effect | Resolution |
 |---|---|---|---|
-| **Heave, Ho!** | Str 5, Explosives 30 | +50% thrown weapon velocity/range | Directly relevant to the established Throwing Weapons system; Might already governs throw distance per `TODO.md`'s stat mapping. **High priority.** |
-| **Friend of the Night** | Per 6, Sneak 30 | Eyes adapt quickly to low-light | Clean single-stat mapping (Investigation or Engine for "Perception"), Sneak already exists. |
-| **Light Touch** | Agl 6, Repair 45 | +5% crit chance in light armor, -25% enemy crit chance | Clean mapping, Repair already exists. |
-| **Old World Gourmet** | End 6, Survival 45 | +25% addiction resist, +50% health from snack foods, alcohol grants health | Ties directly into established Glitch-Coolant/siligel food-and-drink culture. |
-| **Travel Light** | Survival 45 | +10% move speed in light/no armor | Clean, simple. |
-| **Bloody Mess** | — (no gate in the real perk) | +5% overall damage, cosmetic death animations | Simple, matches the real perk's own lack of a stat gate. |
-| **Demolition Expert** | Explosives 50, 3 ranks | +20% explosive damage per rank | Explosives skill exists and is currently under-supported by perks. **High priority.** |
-| **Ferocious Loyalty** | Cha 6 | Companions gain +50 DR when player drops below 50% HP | Cha → Humanity, clean. |
-| **Gunslinger** | — | +25% NODE accuracy, one-handed weapons | NODE-equivalent of the real VATS bonus. |
-| **Hand Loader** | Repair 70 | 2x case/hull recovery when using Guns; unlocks hand-load recipes | Clean, Repair-gated. |
-| **Mad Bomber** | Repair 45, Explosives 45 | Unlocks special explosive crafting recipes | Clean dual-skill gate. |
-| **Vigilant Recycler** | Science 70 → Cryptography or Chemistry (TBD) | 2x energy ammo recovery, better recycling recipes | Energy Weapons skill exists; needs a skill-mapping call (Science split three ways in our system). |
-| **Commando** | — | +25% NODE accuracy, two-handed weapons | NODE-equivalent, pairs with Gunslinger. |
-| **Living Anatomy** | Medicine 70 | Reveals target health/DT; +5% damage vs. humans/non-feral ghouls (→ humans/robots) | Medicine skill exists, strongly NODE/Investigation-flavored. **High priority.** |
-| **Super Slam!** | Str 6, Melee Weapons 45 | Chance to knock down target on melee hit | Clean, Might + Bladed/Blunt Melee. |
-| **Terrifying Presence** | Speech 70 | Intimidate through dialogue; foe flees | Good Social/Diplomatic ↔ Combat crossover, currently a gap. |
-| **Here and Now** | — | Instantly level up | Simple, unique one-time effect, no mapping issues. |
-| **Finesse** | — | +5% critical chance | Simple, clean. |
-| **Mister Sandman** | Sneak 60 | Instant-kill a sleeping NPC, bonus XP | Dark but clean, ties into Sneak. |
-| **Nerd Rage!** | Int 5, Science 50 | +15 DT and Might effectively maxed when health ≤20% | Clean dual-stat, good glass-cannon-adjacent design space. |
-| **Fast Metabolism** | — | +20% HP restored from healing items | Assuming a healing-item system exists (near-certain), clean. **High priority.** |
-| **Heavyweight** | Str-scaling | Weapons over a weight threshold weigh half as much | Clean, Might-gated. |
-| **Hobbler** | Per 7 | +25% chance to hit legs in NODE mode | NODE-equivalent. |
-| **Hit the Deck** | Explosives 70 | +25 DT against explosives | Clean. |
-| **Piercing Strike** | Unarmed 70 | Unarmed/melee attacks negate 15 DT | Clean, Unarmed skill exists. |
-| **Splash Damage** | Explosives 70 | +25% explosive AoE | Clean. |
-| **Center of Mass** | Guns 70 | +15% NODE damage when targeting the torso | NODE-equivalent. |
-| **Light Step** | Per 6, Agl 6 | Never trigger floor traps/mines | Clean dual-stat. |
-| **Action Girl** | Agl 6, 2 ranks | +15 AP per rank | Direct AP-economy fit, currently a gap. **High priority.** |
-| **Meltdown** | Energy Weapons 90 | Foes killed by energy weapons emit a harmful corona | Clean. |
-| **Weapon Handling** | Might-scaling | Weapon Might requirements are 2 points lower | Assumes weapons carry Might requirements — plausible, clean if so. |
-| **Paralyzing Palm** | Unarmed 70 | NODE unarmed attack paralyzes for 30 seconds | NODE-equivalent, clean. |
-| **Walker Instinct** | Survival 50 | +1 to two stats while outdoors | Ties into the Frostlands/outdoor theme, parallels the existing Claustrophobia/Agoraphobia trait pair. |
-| **Them's Good Eatin'** | Survival 55 | Killed creatures have a chance to drop a potent healing item | Clean, assuming creature loot exists. |
-| **Tunnel Runner** | Agl 8 | +25% sneak speed in light/no armor | Clean, complements existing Undergrid-flavored perks. |
-| **Broad Daylight** | — | No Sneak penalty from using a light source | Simple, clean. |
-| **Certified Tech** | — | +25% crit vs. robots, high chance of bonus crafting component from destroyed robots | Strong fit for a robot-heavy setting, currently a gap. **High priority.** |
+| **Junk Rounds** *(resolved and written into `Regular_Perks_-_Level-Up.md`, 2026-07-26; its former pair, Miss Fortune, was dropped entirely)* | Luck 6, Repair 45 | Craft ammunition from scrap metal and tin cans | Luck → Investigation (Engine was ruled out — it's the recovery-speed/AP-replenishment stat, not a resourcefulness stat). Final: I 6, Repair 45. |
+| **Vigilant Recycler** *(resolved and written into `Regular_Perks_-_Level-Up.md`, 2026-07-26)* | Science 70 | 2x energy ammo recovery, better recycling recipes | Retargeted away from all three Science-descendant skills entirely — developer's call: field-survivalist skills (Repair, Outdoorsman) fit "recycling" better than a lab-science skill. Final: Repair 50 OR Outdoorsman 70. |
+
+---
+
+## DLC-Scoped Candidates (real perks, but belong to a specific DLC rather than the base 160)
+
+| Perk(s) | DLC | Why |
+|---|---|---|
+| **Hunter**, **Entomologist**, **Animal Friend**, **Tribal Wisdom** *(assigned 2026-07-26)* | **Mirny DLC (DLC 7)** | Confirmed: wildlife/huntable-creature content belongs specifically here, tied to Davis's near-idyllic setting — as close to a breadbasket/agricultural identity as Antarctica allows, per Davis's already-established "breadbasket/research identity" (see `project_davis_course_of_events_regeneration` memory). |
+| **Shotgun Surgeon**, **The Professional**, **And Stay Back** *(assigned 2026-07-26, locked to Halley DLC)* | **Halley DLC** | Confirmed: traditional firearms exist only in coastal cities, where there's real cause for concern over an Upper Earth invasion. Halley chosen over Palmer after a lore check: Palmer City is established as a tourism/diplomatic gateway to Upper Earth (casinos, jazz, the Machu Picchu Base visa system), not a militarized culture — it was the *target* of Upper Earth's wartime strikes, not a martial subnet, and Port Lockroy's garrison is explicitly decommissioned into a heritage museum. Halley's Belgrano has genuine, ongoing military civic character instead — founded when a ranking Air Force officer extended military command structure over the entire civilian population, producing a lasting "frontier-proud, almost martial civic bearing" — reinforced by Halley's broader working-class/industrial identity (Troll, Sanay). **Base-game equivalent still open** — the developer confirmed there can be "items-turned-weapons" counterparts; proposed direction is three new perks built on the existing **Improvised Weaponry** perk (a DT-penetration version, a sneak-attack-crit version, a knockback version) rather than reusing the gun-specific names. Not yet drafted. |
+| **Demolition Expert**, **Gunslinger**, **Hand Loader**, **Commando** *(assigned 2026-07-26 — specific DLC not yet named)* | DLC-scoped, unspecified | Developer's call: these belong in a DLC rather than the base 160. Which specific DLC wasn't specified — flagged for a later decision. |
+| **Tunnel Runner** *(assigned 2026-07-26)* | **Byrd DLC** | Developer's call: Tunnel Runner (sneak-speed bonus) belongs specifically to the Byrd DLC. |
+
+---
+
+## Flagged for Further Exploration (not written in, not DLC-assigned — held for later design work)
+
+| Perk | Real FNV Requirement | Real FNV Effect | Why it's held |
+|---|---|---|---|
+| **Walker Instinct** *(flagged 2026-07-26)* | Survival 50 | +1 to two stats while outdoors | Developer's call: needs further exploration before writing in, despite no missing-system blocker. |
+| **Certified Tech** *(flagged 2026-07-26)* | — | +25% crit vs. robots, high chance of bonus crafting component from destroyed robots | Developer's call: needs further exploration before writing in, despite being a strong thematic fit for a robot-heavy setting. |
 
 ---
 
@@ -66,17 +63,9 @@ The strongest, most actionable bucket — nothing here is blocked on anything no
 
 | Perk | Real FNV Requirement | Real FNV Effect | The open question |
 |---|---|---|---|
-| **Black Widow** / **Cherchez La Femme** | — | +10% damage vs. opposite/same sex, unique dialogue | Ties into the established sexuality rules (robots/human women bisexual, human men hetero with gate) — mechanically clean, but worth a deliberate call on whether damage-vs-sex is a comfortable design for this game rather than assumed. |
-| **Hunter** / **Entomologist** / **Animal Friend** / **Tribal Wisdom** (partial) | Survival-gated | Bonuses vs. animals/mutated insects | Depends on whether Tepenia has huntable wildlife or mutated-creature combat encounters at all — not confirmed either way. |
-| **Junk Rounds** / **Miss Fortune** | Luck-gated | Craft ammo from scrap / VATS incapacitate chance | Luck doesn't exist as a MACHINE stat — needs a substitute the same way Better Criticals got one (Nerve). |
-| **Rapid Reload** | Agl 5, Guns 30 | 25% faster reloads | Depends on whether reloading is modeled as an explicit AP-costed action at all. |
-| **Shotgun Surgeon** / **The Professional** / **And Stay Back** | Guns-gated | Bonuses tied to shotguns/revolvers/pistols specifically | Depends on whether Guns has named weapon subtypes (shotgun, pistol, etc.) or is a single flat skill. |
-| **Vigilant Recycler** | Science 70 | 2x energy ammo recovery | Science splits three ways in Inner Tepenia (Chemistry/Hacking/Cryptography) — needs a call on which one governs "energy weapon maintenance," if any. |
-| **Plasma Spaz** / **Laser Commander** | Energy Weapons-gated | Bonuses for plasma/laser weapons specifically | Depends on whether Energy Weapons has named subtypes. |
-| **Unstoppable Force** | Str 7, Melee Weapons 90 | x4 damage through enemy blocks | Depends on whether a "block" defensive mechanic exists for enemies. |
-| **Chemist** / **Chem Resistant** | Medicine-gated | Chems/stims last longer; addiction resistance | Depends on whether combat-buff chems and an addiction system are modeled (distinct from Glitch-Coolant, which is more a social/flavor substance). |
-| **Explorer** | — | All locations marked on map | Directly depends on the still-undecided Quest Marker Design question (`TODO.md`) — genuinely can't resolve until that's settled. |
-| **Implant GRX** | End 8 | Non-addictive subdermal chem injector, 2 ranks | Strong candidate for the "Augmentation/Cybernetics" perk category floated earlier this session — needs that category to exist first, or a chem system to hook into. |
+| **Unstoppable Force** | Str 7, Melee Weapons 90 | x4 damage through enemy blocks | Whether a "block" defensive mechanic exists for enemies at all — genuinely undecided, worth exploring rather than assumed either way. |
+| **Chemist** / **Chem Resistant** *(flagged for future review, 2026-07-26)* | Medicine-gated | Chems/stims last longer; addiction resistance | Depends on whether combat-buff chems and an addiction system are modeled (distinct from Glitch-Coolant, which is more a social/flavor substance). Not resolved now — revisit later. |
+| **Implant GRX** *(flagged for future review, 2026-07-26)* | End 8 | Non-addictive subdermal chem injector, 2 ranks | Strong candidate for the "Augmentation/Cybernetics" perk category floated earlier this session — needs that category to exist first, or a chem system to hook into. Not resolved now — revisit later. |
 
 ---
 
@@ -89,6 +78,7 @@ The strongest, most actionable bucket — nothing here is blocked on anything no
 | Home on the Range, Roughin' It | No camping/sleep-for-bonus system confirmed. |
 | Long Haul *(already flagged in `TODO.md`)* | No fast-travel system. |
 | Adamantium Skeleton, Eye for Eye *(Adamantium Skeleton already flagged in `TODO.md`)* | No limb-specific damage system. |
+| **Explorer** *(reclassified 2026-07-26 — corrected: this perk reveals fast-travel locations on the map, not quests/quest-markers; the developer's own correction to my earlier mischaracterization)* | No fast-travel system — same blocker as Long Haul. |
 
 ---
 
