@@ -442,3 +442,193 @@ through the real `District_Under_Questline_Design_Method.md` process when the ti
 `feedback_soc_tier_marking_additive_only` rule. Concepts 1, 2, 3, and 5 (the other cross-reference ideas above)
 remain undeveloped past their initial sketch.
 
+---
+
+## Working Notes — Concept 1, Archetype by Archetype
+
+**Scope, confirmed 2026-07-26:** unlike Concept 4 (which used an archetype's full Strong+Moderate reach),
+Concept 1 focuses **exclusively on Strong-tier districts** for each archetype — the districts where that
+archetype is genuinely, unambiguously part of the district's own identity, not just present. Archetypes whose
+Strong tier has zero or one district get correspondingly thin (or no) entries here; this is expected, not a
+gap to force-fill.
+
+### Archetype 1 — Supervisor / Foreman
+
+**Strong-tier districts:** Capricorn, Aries, Virgo (3).
+
+- **Capricorn-flavored:** guild-formal, merit-earned rank — a foreman here embodies the spire-system
+  meritocracy itself; recognition is tied to demonstrated output and earned rank, read through the same
+  "status lighting" logic the district applies to everything else. NPCs expect the player to *prove* the old
+  authority still holds, not just claim it.
+- **Aries-flavored:** barracks/crew-loyalty — a foreman here embodies "running hot" and crew-first loyalty
+  superseding everything else; recognition comes from having led people through danger, not from a title.
+  NPCs respond to demonstrated toughness/decisiveness rather than rank.
+- **Virgo-flavored:** quiet, uncelebrated competence — a foreman here embodies the district's own "we keep
+  you alive and get no thanks for it" culture; recognition is subdued, almost reluctant, extended by other
+  Virgo workers who recognize the same exhausted reliability in a newcomer rather than by any formal signal.
+
+### Archetype 2 — Licensed / Credentialed Professional
+
+**Strong-tier districts:** Cancer, Libra, Scorpio, Capricorn (4). This is the same archetype used as the
+original illustrative example when Concept 1 was first floated — that early sketch covered three of the four;
+Capricorn completes the set here.
+
+- **Cancer-flavored** *(from the original sketch)*: warm, community-embedded — NPCs read the credential as
+  trustworthiness and care, extending informal access the way Cancer's own "doors are always unlocked" culture
+  works.
+- **Libra-flavored** *(from the original sketch)*: formal, procedural — NPCs read the credential as
+  institutional legitimacy, opening doors gated by rank/protocol rather than by warmth.
+- **Scorpio-flavored** *(from the original sketch)*: intense, confrontational — NPCs read the credential as
+  evidence of having survived or administered something difficult; doors open through demonstrated toughness,
+  not paperwork.
+- **Capricorn-flavored** *(new)*: guild-rank as credential — a master engineer's apprenticeship-earned status
+  reads the same way Capricorn reads any other earned rank; recognition comes from demonstrated technical
+  mastery within the guild system, distinct from Archetype 1's Capricorn flavor (that one is about crew
+  leadership; this one is about engineering/technical expertise specifically).
+
+### Archetype 3 — Skilled Manual Trade
+
+**Strong-tier districts:** Capricorn, Virgo, Aries (3) — the same three as Archetype 1, but this is about
+hands-on trade competence itself, not leadership, so the flavors read differently.
+
+- **Capricorn-flavored:** guild-craft mastery — recognition tied to the actual demonstrated trade skill itself
+  (welding, machining, assembly), the concrete hands-on output that earns spire advancement in the first
+  place, distinct from Archetype 1's Capricorn flavor (crew leadership) and Archetype 2's (credentialed
+  engineering rank).
+- **Aries-flavored:** hands-on survival-engineering — recognition tied to keeping equipment running under
+  extreme, dangerous conditions; the "push it until it breaks, then fix it" culture applied to the trade
+  itself rather than to crew command.
+- **Virgo-flavored:** invisible-infrastructure mastery — recognition tied to knowing every pipe, junction, and
+  system by feel; the deep tactile expertise that comes from years of working in low light, navigating by
+  touch as much as sight.
+
+### Archetype 4 — Uniformed / Disciplined Service
+
+**Strong-tier districts:** Aries only (1) — a single-district case, no cross-district variation to work
+against; confirmed as-is rather than force-fitting additional flavor comparisons that wouldn't mean anything.
+
+- **Aries-flavored:** barracks/shift-crew discipline — the "warrior-engineer" identity forged in wartime;
+  recognition tied to having endured and served within the district's own quasi-military chain-of-command
+  structure specifically, distinct from Archetype 1's Aries flavor (leadership through demonstrated toughness)
+  and Archetype 3's (hands-on survival-engineering) — this one is about institutional discipline and
+  obedience to structure itself, not leadership or trade skill.
+
+### Archetype 5 — Direct Public-Facing / Customer Service
+
+**Strong-tier districts:** Leo, Hub (2)
+
+- **Leo-flavored:** performance-as-service — the district's own "no audience/performer distinction" applied
+  directly to customer interaction; NPCs read the player as putting on a show for them, not merely serving
+  them — service itself becomes a kind of performance.
+- **Hub-flavored:** professional neutrality — the Hub-born "adaptability"/professional-detachment culture
+  applied to customer service; NPCs read the player as someone who serves everyone equally well without
+  favoring any single district's own cultural norms, the trained even-handedness of someone who's dealt with
+  every kind of person passing through.
+
+### Archetype 6 — Scientific / Research / Analytical
+
+**Strong-tier districts:** Aquarius, Gemini (2)
+
+- **Aquarius-flavored:** visionary/experimental — the district's own "certain, not malicious" idealism applied
+  to analytical thinking; recognition tied to genuine intellectual ambition and a willingness to pursue a
+  breakthrough idea regardless of where it leads, the "trying to save the world" instinct read as a research
+  posture.
+- **Gemini-flavored:** speed-over-rigor — the district's own "faster is better" information culture applied to
+  analysis; recognition tied to being able to synthesize and triangulate information quickly under a flood of
+  competing, contradictory data — a genuinely different analytical instinct from Aquarius's slower,
+  idealism-driven research approach.
+
+### Archetype 7 — Caregiving / Vulnerable-Population Work
+
+**Strong-tier districts:** Cancer, Scorpio (2)
+
+- **Cancer-flavored:** nurturing/maintaining — the district's own "the dead are maintained, not just
+  remembered" caregiving philosophy; recognition tied to sustained, gentle presence — the kind of care that
+  shows up every day without being asked, never dramatic, always there.
+- **Scorpio-flavored:** confrontational/transformative — the district's own "the only way through is through"
+  caregiving philosophy; recognition tied to a willingness to sit with someone through genuine darkness or
+  crisis rather than softening it — care expressed through honest confrontation rather than gentleness, the
+  opposite instinct from Cancer's own approach.
+
+**Archetype 8 (Working With Animals) — skipped, per its established no-entry status** (no Strong-tier
+districts at all; see Concept 4's own Archetype 8 note above for the full explanation).
+
+### Archetype 9 — Outdoor / Elements-Exposed Work
+
+**Strong-tier districts:** Sagittarius, Capricorn (2)
+
+- **Sagittarius-flavored:** existential/mortality-aware — the district's own "the cold is never abstract, it's
+  lethal" identity; recognition tied to a hardened, matter-of-fact relationship with mortality itself, a
+  philosophical weight to the exposure that goes beyond mere tolerance.
+- **Capricorn-flavored:** industrial-exposure/output-driven — the district's own partially-exterior
+  fabrication-yard identity; recognition tied to enduring exposure specifically in service of production
+  output, a more utilitarian relationship to the cold than Sagittarius's existential one — you endure it
+  because the work demands it, not because survival itself is the philosophy.
+
+### Archetype 10 — Vehicle / Heavy Equipment Operator (repair-reframed)
+
+**Strong-tier districts:** Sagittarius only (1) — another single-district case, no cross-district variation
+to work against; confirmed as-is rather than force-fitting additional flavor comparisons that wouldn't mean
+anything.
+
+- **Sagittarius-flavored:** caravan/expedition-fleet repair — recognition tied specifically to keeping
+  frontier vehicles and equipment running far from any proper depot, resourceful improvised fixes made under
+  real logistical pressure and distance from support. Distinct from Archetype 9's Sagittarius flavor (the
+  philosophical/existential relationship to cold exposure broadly) — this one is narrowly about keeping the
+  caravan's actual machinery moving.
+
+### Archetype 11 — Creative / Expressive Occupations
+
+**Strong-tier districts:** Leo, Pisces (2)
+
+- **Leo-flavored:** grand/spectacle performance — the district's own "grand vs. intimate" tradition (rooted in
+  the historical Star War between rival performance houses); recognition tied to large-scale, audience-facing
+  showmanship, holding a crowd's attention as a demonstrated craft.
+- **Pisces-flavored:** illusion/dissolution-as-art — the district's own syncretic dream-tech aesthetic, where
+  art blurs the boundary between self and other, real and unreal, rather than performing for a crowd in any
+  traditional sense; a far more intimate, disorienting creative mode than Leo's showmanship.
+
+### Archetype 12 — Clerical / Information-Processing / Office-Based
+
+**Strong-tier districts:** Libra, Gemini (2)
+
+- **Libra-flavored:** procedural/formal recordkeeping — the district's own institutional bureaucracy;
+  recognition tied to precision within a formal review/approval process, patience with slow, layered systems
+  built specifically to prevent hasty mistakes.
+- **Gemini-flavored:** rapid-verification/triangulation — the district's own "every story has two versions"
+  information culture; recognition tied to quickly sorting signal from noise across competing, contradictory
+  data streams — a genuinely different clerical skill from Libra's slow procedural rigor, speed over
+  ceremony.
+
+### Archetype 13 — Sales / Persuasion-Based
+
+**Strong-tier districts:** Pisces, Sagittarius (2)
+
+- **Pisces-flavored:** information-and-secrets economy — the district's own "every transaction of consequence
+  requires sharing something true about yourself" trade philosophy; recognition tied to negotiating in a
+  currency of secrets and vulnerability, not just goods or credits.
+- **Sagittarius-flavored:** frontier trade/storytelling-as-pitch — the district's own storytelling-as-social-
+  currency tradition; recognition tied to using narrative and reputation ("a story doesn't need to be
+  literally true to be valuable about something") as the actual instrument of a sale, distinct from Pisces's
+  secrets-based negotiation.
+
+### Archetype 14 — Precision Technical Support
+
+**Strong-tier districts:** Aquarius only (1) — another single-district case, same as Archetypes 4 and 10.
+
+- **Aquarius-flavored:** experimental-support/lab-assistant — recognition tied to supporting genuinely
+  cutting-edge, sometimes unstable research work; distinct from Archetype 6's Aquarius flavor (that one is
+  about *being* the visionary researcher) — this one is about being the steady hands that make someone else's
+  visionary, occasionally reckless research actually survivable.
+
+---
+
+**Concept 1 development complete, 2026-07-26.** All 14 archetypes worked through, Strong-tier districts only:
+Archetype 8 (Working With Animals) skipped per its established no-entry status, Archetypes 4, 10, and 14
+given single-district entries (no cross-district comparison possible, confirmed as fine rather than
+force-fitting), and the remaining 10 archetypes each given 2-4 district-flavored variants. Every variant above
+is a concept sketch, not locked design — none of it has been built, and the same standing rule applies as
+everywhere else in this file: any of this feeding into a real Under-Questline, Sidequest, or perk still goes
+through the actual established design methods, not this document. Concepts 2, 3, and 5 remain at their
+original sketch stage, undeveloped further.
+
