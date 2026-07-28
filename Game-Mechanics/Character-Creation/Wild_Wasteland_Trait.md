@@ -37,6 +37,16 @@ design work reaches each location** — not planned out as a fixed roster upfron
 
 ---
 
+## Cross-Series Naming, Confirmed 2026-07-28
+
+**All three Outer Tepenia games call this trait "Wild Spaceland" instead of "Wild Wasteland."** Fits the
+same cross-series pattern as Claustrophobia/Agoraphobia's own Outer Tepenia notes (see `Traits.md`'s
+cross-series section and `project_outer_tepenia_series` memory) — a per-game rename to match setting, not a
+mechanical change. The underlying content-flag mechanic (mixed tone, mixed swap/addition, a consistent
+audiovisual tell, organic non-fixed placement) carries over unchanged; only the name differs by game.
+
+---
+
 ## Open Questions
 
 - The exact audiovisual tell (reuse/adapt the map-boundary glitch motif, or design something new specific to
