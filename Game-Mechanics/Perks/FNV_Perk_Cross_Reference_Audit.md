@@ -92,7 +92,6 @@ prior pass. See `Regular_Perks_-_Level-Up.md` for the actual written entries; no
 | Run 'n Gun | Real-time movement-accuracy mechanic (reduced weapon spread while walking/running) — no clean turn-based translation. |
 | Voracious Reader, Retention | Real-time magazine-duration/duplication mechanics that don't fit the no-dice-roll, instant-application skill-book model already established; overlaps with the already-ported Comprehension. |
 | Slayer | +30% real-time attack speed — would need the same kind of AP-cost rework Quick Draw already got, not a direct port. |
-| Intense Training | Grants a free SPECIAL point at level-up; Inner Tepenia's MACHINE stats are meant to be re-spec'd through Calethina's Lab and district methods (each with a real cost) rather than freely incremented via perk — giving this away as a perk would undercut that system's whole point. |
 
 ---
 

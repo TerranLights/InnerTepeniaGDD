@@ -22,10 +22,12 @@ perimeter — each in a visibly different way, confirmed directly by the develop
   sizes spread across a stretch of fabrication yards, some portion of which sits past whatever protects the
   interior, unlike Sagittarius's fully-open exposure.
 - **The remaining ten districts** occupy the compact interior rings and are protected from the brutal climate
-  by whatever the "domes" (plural) in Sagittarius's own canon line actually refers to — plausibly a patchwork
-  of district-level or zone-level environmental seals rather than one continuous citywide dome, which would
-  also explain why the term is already plural in the one place it's used. **Not confirmed, worth asking the
-  developer directly rather than assuming further.**
+  by two complementary mechanisms, **confirmed by the developer 2026-07-27**: genuinely **multiple domes**
+  (plural, matching Sagittarius's own canon line literally — a patchwork of district-level or zone-level
+  environmental seals, not one continuous citywide dome), *plus* ordinary buildings within those domes that
+  are themselves simply designed to withstand the cold, the way any real cold-climate architecture would be.
+  The domes aren't doing all the work alone — they're the primary environmental seal, and the buildings
+  underneath them are a second, more mundane layer of cold-hardened construction on top of that.
 
 ---
 
@@ -62,12 +64,42 @@ city's true perimeter.
   edge. The player should notice "this part of the industrial district feels more exposed" before the
   weather itself confirms it.
 
-**Layer 2 — the hard boundary (physical, final, per district).** Whatever the interior districts' own
-protection turns out to be (patchwork domes or otherwise, still unconfirmed), Sagittarius and Capricorn's own
-outer edges are where the *true* city limit sits, since the map confirms they're the only two districts
-that reach it. The actual play-space limit should be something built and visible — a wall, a terminus
-checkpoint, a watchtower — not an invisible collision plane, and it doesn't need to look the same in both
-districts (frontier/military-adjacent in Sagittarius; industrial/perimeter-fence in Capricorn).
+**Layer 2 — the hard boundary (physical, final, per district).** With the interior districts' own protection
+now confirmed (multiple domes plus cold-hardened building construction underneath them), Sagittarius and
+Capricorn's own outer edges are where the *true* city limit sits, since the map confirms they're the only two
+districts that reach it — neither is domed at all, which is exactly why they're the ones exposed to open
+Antarctic terrain in the first place. The actual play-space limit should be something built and visible — a
+wall, a terminus checkpoint, a watchtower — not an invisible collision plane, and it doesn't need to look the
+same in both districts (frontier/military-adjacent in Sagittarius; industrial/perimeter-fence in Capricorn).
+
+**The actual stop mechanism, confirmed 2026-07-27 — two parts working together, since they solve different
+holes in the same problem:**
+
+1. **NPC checkpoint on the road itself.** A guard or checkpoint officer stationed at each highway terminus
+   (Hwy 110, Hwy 37, Hwy 183) is the in-world reason travel toward Casey, Vostok/Mountain Pass Test
+   Site/Kunlun, or Janbogo/the Hwy 175 junction toward the South Pole is currently closed. This is the
+   quest-gate: the same checkpoint can simply wave the player through once the relevant DLC or story beat
+   unlocks that route, with no separate mechanic needed for "the road is open now."
+2. **Glitch-and-reposition everywhere else**, adapted from a real, confirmed precedent —
+   **Cyberpunk 2077's map-edge handling**: pushing past the true boundary anywhere off the checkpointed
+   roads (open Sagittarius terrain, Capricorn's fabrication-yard sprawl) triggers a warning, and persisting
+   past it causes a glitch effect that repositions the player back inside the playable zone. This is the
+   systemic backstop that catches every route a player might try around a checkpoint, so no invisible wall or
+   awkward terrain-blocking is needed anywhere along the boundary.
+
+**Framing note:** rather than a generic meta/fourth-wall system message, the glitch should read as *diegetic*
+— a frame or sensor malfunction from extreme cold, or a loss of Arcanet signal coverage at the edge of the
+network, consistent with the player character's own robotic "frame" (the same framing already used for the
+implant system's "your frame can't handle this" refusal) and with the Engine-gated cold-exposure effect
+covering the same stretch of terrain. The exact warning text isn't written yet — just the mechanism and its
+framing.
+
+**Production note, 2026-07-27:** the developer expects to use the glitch-and-reposition mechanism
+**universally** at first — i.e., before any DLC ships, every one of the three highway termini would *also*
+glitch-and-reposition the player rather than route through an actual staffed checkpoint, since there's no
+open destination for any of them yet at base-game launch. The NPC-checkpoint mechanism only becomes the
+active, distinct layer once a given DLC actually opens its corresponding route — until then, all three
+termini behave exactly like the rest of the boundary (glitch-and-reposition only, no checkpoint dialogue).
 
 **Why both layers, not just one:** a hard wall with no warning reads as arbitrary; a soft warning with no
 firm edge either goes on forever (confusing) or needs an invisible wall anyway (same problem, just delayed).
@@ -81,7 +113,14 @@ Layering them means the player always has legible information about where they s
   confirmed by the actual map: the three highway ramps (Hwy 37, Hwy 110, Hwy 183) all terminate at the true
   perimeter, in Sagittarius/Capricorn territory specifically. A maintained road that visibly, deliberately
   stops, marked by a real structure (a watchtower, a checkpoint gate) rather than just trailing off, gives
-  the player a concrete, findable landmark for "this is the edge" rather than a fuzzy zone.
+  the player a concrete, findable landmark for "this is the edge" rather than a fuzzy zone. **Real
+  destinations confirmed 2026-07-27** — none of these three are dead-end ramps; each actually goes somewhere,
+  which reframes the terminus/watchtower structures as *checkpoints on a through-road* rather than the end of
+  the road itself:
+  - **Hwy 110** leads toward the city of **Casey**.
+  - **Hwy 37** leads through **Vostok**, the **Mountain Pass Test Site**, and on to **Kunlun**.
+  - **Hwy 183** leads toward the city of **Janbogo**, and — before reaching it — links via a junction to
+    **Hwy 175**, heading in the direction of the South Pole.
 - **Sagittarius: scattered homesteads thinning into true open ice** — the map shows small clusters of homes
   and Rastras, not dense development; the felt boundary here is really about *density* thinning out entirely,
   not a wall suddenly appearing.
@@ -100,15 +139,27 @@ Layering them means the player always has legible information about where they s
 
 ## Open Questions
 
-- **What exactly protects the ten interior districts, and is "domes" (plural, from Sagittarius's own canon
-  line) the right mechanism, or something else entirely?** Not confirmed — flagged directly above, worth
-  asking the developer rather than assuming further design on top of an unconfirmed premise.
-- Whether the highway network extending outward from Sagittarius (established in canon — Sagittarius as
-  "launch point for surface expeditions... Arcanet subnet construction") implies certain roads *do* continue
-  past the boundary toward DLC subnet content, meaning the "edge" isn't uniformly impassable everywhere, just
-  gated to on-rails/quest-gated travel rather than free roam. Not decided.
+- ~~What exactly protects the ten interior districts, and is "domes" (plural, from Sagittarius's own canon
+  line) the right mechanism, or something else entirely?~~ — **resolved 2026-07-27:** multiple domes (a
+  patchwork, not one citywide dome) plus ordinary cold-hardened building construction underneath them as a
+  second layer. See the corrected description near the top of this file.
+- ~~Whether the highway network extending outward from Sagittarius... implies certain roads *do* continue
+  past the boundary toward DLC subnet content~~ — **resolved 2026-07-27:** all three do, and each has a real,
+  named destination rather than dead-ending — see the "Watchtowers and an Outer Highway Terminus" entry
+  above (Hwy 110 → Casey; Hwy 37 → Vostok, Mountain Pass Test Site, Kunlun; Hwy 183 → Janbogo, with a Hwy 175
+  junction toward the South Pole). This reframes the terminus structures as manned checkpoints on a working
+  through-road, not barriers at the end of a dead-end street — worth keeping in mind for whether travel past
+  them is free-roam, on-rails, or quest-gated, which is still an open question in its own right (see below).
+- ~~Given the highways are confirmed through-roads rather than dead ends, is travel past Concordia's
+  checkpoints toward Casey/Vostok/Kunlun/Janbogo/the South Pole meant to be free-roam, on-rails, or
+  quest-gated?~~ — **resolved 2026-07-27:** quest-gated, via an NPC checkpoint stationed at each terminus that
+  simply opens once the corresponding DLC/story beat unlocks that route. Until a route unlocks, that
+  terminus behaves identically to the rest of the boundary (see the Layer 2 mechanism above).
 - Exact mechanical representation of the cold/storm gradient (a stat/status effect? a pure visual-only cue?
-  something that actually damages the player over time the further out they push?) — not designed here.
+  something that actually damages the player over time the further out they push?) — **developer has no
+  design preference yet as of 2026-07-27; still fully open,** including whether it hooks into any existing
+  MACHINE stat (e.g., Engine, since the player character has a "frame" rather than a human body) or is purely
+  presentational. Worth a dedicated design pass rather than guessing at numbers here.
 - ~~Whether Concordia's other ten districts have any of their own boundary-adjacent design needs~~ —
   **resolved by the actual map:** they're all fully interior, packed into the compact inner rings around the
   hub. This document's scope is correctly limited to Sagittarius and Capricorn only.

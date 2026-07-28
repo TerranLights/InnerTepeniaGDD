@@ -8,7 +8,7 @@ One perk slot earned every **2 levels** — **32 total slots** across the base g
 
 At each opportunity the player chooses **one** perk from the available pool. Most perks have 2–3 ranks; a rank counts as one perk choice.
 
-**Target pool size: 260 distinct perks** *(raised 2026-07-26 by developer request — +100 beyond the original 160, keeping the same 67%/33% non-combat/combat ratio. The original 160 was a clean 5× the 32 available slots; 260 is a deliberate stretch beyond that derivation, not a recalculated slot multiple.)* Currently **142/260 designed** (55%) as of 2026-07-26, after the developer's own full pass over the `Skills.md`-restructure batch (merges, cuts, reworked formulas) plus a full cross-check against a complete real Fallout: New Vegas perk list — this caught a real bug (Computer Whiz and Infiltrator had lost their genuine Level 18 gate in an earlier pass, now restored) and supplied 45 new ports across two rounds. Round 1 (16 ports): Tag!, Pack Rat, Stonewall, Sniper, Concentrated Fire, Better Criticals, Ninja, Ladykiller, Confirmed Bachelor, Black Widow, Cherchez la Femme, Rapid Reload, Plasma Spaz, Laser Commander, Junk Rounds, Vigilant Recycler. Round 2 (29 ports, developer-triaged): Here and Now, Terrifying Presence, Mad Bomber, Friend of the Night, Old World Gourmet, Travel Light, Light Step, Them's Good Eatin', Ferocious Loyalty, Heavyweight, Heave Ho!, Bloody Mess, Super Slam!, Piercing Strike, Splash Damage, Action Girl, Meltdown, Weapon Handling, Light Touch, Fast Metabolism, Hit the Deck, Nerd Rage!, Living Anatomy, Finesse, Hobbler, Center of Mass, Paralyzing Palm, Mister Sandman, Broad Daylight. Ladykiller/Confirmed Bachelor/Black Widow/Cherchez la Femme resolve against the established sexuality rule (`project_sexuality_rules`): Ladykiller and Black Widow/Cherchez la Femme are available to any character of the matching gender presentation (human or robot); Confirmed Bachelor is robot-male-presenting only, since human men are canonically heterosexual-only. A further batch was deferred to specific DLCs (Hunter/Entomologist/Animal Friend/Tribal Wisdom → Mirny DLC; Shotgun Surgeon/The Professional/And Stay Back → Halley DLC, after a lore check ruled out Palmer; Demolition Expert/Gunslinger/Hand Loader/Commando → DLC-scoped, unspecified; Tunnel Runner → Byrd DLC), flagged for further exploration before writing in (Walker Instinct, Certified Tech), or blocked on missing systems (Long Haul, Adamantium Skeleton, Explorer — fast travel or limb-specific damage) — see `FNV_Perk_Cross_Reference_Audit.md` and `TODO.md`. **A number of perks remain orphaned or still gate on a skill deliberately cut** — marked inline where it applies — pending a real design decision rather than being guessed at. The remaining ~118 perks are marked as pending in the placeholder section at the bottom of this file.
+**Target pool size: 260 distinct perks** *(raised 2026-07-26 by developer request — +100 beyond the original 160, keeping the same 67%/33% non-combat/combat ratio. The original 160 was a clean 5× the 32 available slots; 260 is a deliberate stretch beyond that derivation, not a recalculated slot multiple.)* Currently **143/260 designed** (55%) as of 2026-07-27, after adding Intense Training (Growth/Learning) — see `Character-Creation/Permanent_MACHINE_Stat_Increases.md`. Previously, after the developer's own full pass over the `Skills.md`-restructure batch (merges, cuts, reworked formulas) plus a full cross-check against a complete real Fallout: New Vegas perk list — this caught a real bug (Computer Whiz and Infiltrator had lost their genuine Level 18 gate in an earlier pass, now restored) and supplied 45 new ports across two rounds. Round 1 (16 ports): Tag!, Pack Rat, Stonewall, Sniper, Concentrated Fire, Better Criticals, Ninja, Ladykiller, Confirmed Bachelor, Black Widow, Cherchez la Femme, Rapid Reload, Plasma Spaz, Laser Commander, Junk Rounds, Vigilant Recycler. Round 2 (29 ports, developer-triaged): Here and Now, Terrifying Presence, Mad Bomber, Friend of the Night, Old World Gourmet, Travel Light, Light Step, Them's Good Eatin', Ferocious Loyalty, Heavyweight, Heave Ho!, Bloody Mess, Super Slam!, Piercing Strike, Splash Damage, Action Girl, Meltdown, Weapon Handling, Light Touch, Fast Metabolism, Hit the Deck, Nerd Rage!, Living Anatomy, Finesse, Hobbler, Center of Mass, Paralyzing Palm, Mister Sandman, Broad Daylight. Ladykiller/Confirmed Bachelor/Black Widow/Cherchez la Femme resolve against the established sexuality rule (`project_sexuality_rules`): Ladykiller and Black Widow/Cherchez la Femme are available to any character of the matching gender presentation (human or robot); Confirmed Bachelor is robot-male-presenting only, since human men are canonically heterosexual-only. A further batch was deferred to specific DLCs (Hunter/Entomologist/Animal Friend/Tribal Wisdom → Mirny DLC; Shotgun Surgeon/The Professional/And Stay Back → Halley DLC, after a lore check ruled out Palmer; Demolition Expert/Gunslinger/Hand Loader/Commando → DLC-scoped, unspecified; Tunnel Runner → Byrd DLC), flagged for further exploration before writing in (Walker Instinct, Certified Tech), or blocked on missing systems (Long Haul, Adamantium Skeleton, Explorer — fast travel or limb-specific damage) — see `FNV_Perk_Cross_Reference_Audit.md` and `TODO.md`. **A number of perks remain orphaned or still gate on a skill deliberately cut** — marked inline where it applies — pending a real design decision rather than being guessed at. The remaining ~118 perks are marked as pending in the placeholder section at the bottom of this file.
 
 **Target distribution: ~174 non-combat (67%) / ~86 combat (33%)**  
 Currently: 79 non-combat / 63 combat — combat is already well past the *old* 53-perk target and even accounts for most of the *new* 86-perk target's headroom; future design passes should be almost entirely non-combat to make any real progress toward the expanded 174 non-combat goal.  
@@ -49,6 +49,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Educated** | C 4 | 1 | Gain 2 additional skill points every time you level up. |
 | **Swift Learner** | C 4 | 3 | Gain an additional 10% experience whenever XP is earned, per rank (up to +30% at rank 3). |
 | **Comprehension** | — | 1 | Gain an additional skill point for reading a full data archive/log entry; reading a technical manual (Inner Tepenia's magazine equivalent) grants double the normal skill points. |
+| **Intense Training** *(added 2026-07-27, ported directly from FNV — verified against the real perk: Level 2, up to 10 ranks total, no other requirement; reverses an earlier "Not Portable As-Is" call in `FNV_Perk_Cross_Reference_Audit.md`, per developer confirmation; see `Character-Creation/Permanent_MACHINE_Stat_Increases.md` for the full permanent-stat-growth system this belongs to)* | Level 2 | 10 | Permanently gain +1 to any single MACHINE stat of your choice, up to the normal cap of 10. Can be taken up to 10 times total across a playthrough. |
 | **Tag!** *(added 2026-07-26, ported directly from FNV — no stat gate on the real perk either)* | Level 16 | 1 | Choose a 4th skill to Tag, receiving the same one-time +15 point bonus the original three Tag Skills grant at character creation. |
 | **Here and Now** *(added 2026-07-26, ported directly from FNV — no stat gate on the real perk either)* | — | 1 | Instantly gain a full level. |
 
@@ -253,20 +254,20 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | Category | Count | Type |
 |----------|-------|------|
 | Social / Diplomatic | 17 | Non-combat |
-| Growth / Learning | 5 | Non-combat |
+| Growth / Learning | 6 | Non-combat |
 | Technical / Engineering | 10 | Non-combat |
 | Information / Data | 10 | Non-combat |
 | Survival / Exploration | 17 | Non-combat |
 | Cultural / Philosophical | 7 | Non-combat |
 | Economic / Resource | 6 | Non-combat |
 | Companion / Leadership | 7 | Non-combat |
-| **Non-combat subtotal** | **79** | **56%** |
+| **Non-combat subtotal** | **80** | **56%** |
 | Combat — Offensive | 26 | Combat |
 | Combat — Defensive | 13 | Combat |
 | Combat — NODE / Targeting | 15 | Combat |
 | Combat — Hybrid / Specialized | 9 | Combat |
 | **Combat subtotal** | **63** | **44%** |
-| **Total** | **142** | |
+| **Total** | **143** | |
 
 Expansion in future design passes should maintain roughly this non-combat to combat ratio. DLC perks may skew toward the DLC's thematic focus, but the aggregate ratio across base game + all DLC should remain non-combat dominant.
 
@@ -283,7 +284,7 @@ The categories below indicate where additional perks are needed. Names and effec
 | Category | Currently designed | Rough target | Still needed |
 |----------|-------------------|--------------|-------------|
 | Social / Diplomatic | 17 | ~29 | ~12 more |
-| Growth / Learning | 5 | ~15 | ~10 more |
+| Growth / Learning | 6 | ~15 | ~9 more |
 | Technical / Engineering | 10 | ~29 | ~19 more |
 | Information / Data | 10 | ~26 | ~16 more |
 | Survival / Exploration | 17 | ~26 | ~9 more |
