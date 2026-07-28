@@ -128,7 +128,7 @@ trait is the player-facing expression of being descended from exactly one of tho
 
 | Trait Name | Bonuses | Penalties | Thematic Fit |
 |---|---|---|---|
-| **Information Warfare** | +15% Electronic Warfare; unlocks a new offensive action, **Data Leak** — a NODE-adjacent debuff (Calculation + Investigation) that exposes a target's weakness rather than dealing direct damage (proposed: temporary DT/DR reduction, or disabling one of the target's tactical options for a turn) | -1 Humanity; using Data Leak costs standing with whoever gets exposed — a Faction & Reputation Management hit regardless of justification or outcome | Gemini-adjacent cyber-offense specialists — the hacker/information-warrior archetype, distinct from a straight Electronic Warfare skill investment |
+| **Information Warfare** | +20% Hacking *(corrected 2026-07-28 — the original "+15% Electronic Warfare" referenced a skill that never existed in the real 25/26-skill list; Hacking, Calculation-governed, is the real skill closest to this trait's cyber-offense theme)*; unlocks a new offensive action, **Data Leak** — a NODE-adjacent debuff (Calculation + Investigation) that exposes a target's weakness rather than dealing direct damage (proposed: temporary DT/DR reduction, or disabling one of the target's tactical options for a turn) | -1 Humanity; using Data Leak costs standing with whoever gets exposed — a Faction & Reputation Management hit regardless of justification or outcome | Gemini-adjacent cyber-offense specialists — the hacker/information-warrior archetype, distinct from a straight Hacking skill investment |
 
 **Design note:** grew out of the 2026-07-26 Information/Data skill restructure — "Data Leakage" was cut as its
 own standalone skill (it read more like a tactic than an investable skill), on the understanding that whatever
@@ -148,4 +148,6 @@ built into real quest content, on the Byrd model (a site nobody claimed at found
 
 **Design Note**: Traits are flavorful and double-edged, directly supporting different district playstyles and hidden path accessibility.
 
-**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Base-game trait count is now **33 of the 25 target** (8 over target, still not a problem) after the Founding-Lineage, Combat-Specialization, and Information/Cyber Warfare Traits above. Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).
+**Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).
+
+**Current base-game trait count, corrected 2026-07-28:** **37 traits** (10 Base + 7 AP-Economy + 14 Fallout-Adapted + 3 Stat-Gap + 1 Combat-Specialization + 1 Founding-Lineage + 1 Information/Cyber Warfare), well past the original 25 target — the previous "33" figure here was stale, predating the 4 FNV traits added 2026-07-28 (Wild Wasteland, Hot Tempered, Loose Cannon, Small Frame).
