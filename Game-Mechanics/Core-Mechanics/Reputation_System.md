@@ -37,6 +37,32 @@ Grouped by the color-coding above, not by raw Fame/Infamy magnitude — the sour
 **⚪ Genuinely ambiguous, not clearly good or bad even to the people holding the opinion:** Neutral, Mixed, Unpredictable, Dark Hero, Soft-Hearted Devil, Wild Child
 **The extreme case — both axes maxed simultaneously:** **Wild Child** (Fame Range 3 + Infamy Range 3) — already has its own dedicated, fully-designed content in `Storyline/Endings/Secret-Endings/Wild_Child_Endings.md` (WC-1 through WC-4, tiered by how many districts reach this state) and is referenced as a recommended non-stat companion-questline route pattern in `Companion_System.md`.
 
+## Reputation-Based Merchant Discounts, Confirmed 2026-07-28
+
+**Any 🟢 favorable reputation tier with a district grants the player a purchase discount at every merchant
+in that district** — not scoped to any one vendor or service type. This applies uniformly, including to
+"not-Doctor-Usanagi" implant procedures (`Character-Creation/Permanent_MACHINE_Stat_Increases.md`), which
+already separately require *not* being in a 🔴 unfavorable tier to be served at all; a favorable tier both
+clears that gate and earns a discount on top of it.
+
+**Discount scales with how favorable the tier is, paired by overall favorability level rather than by raw
+Fame magnitude alone** (matching the grid's own pure-Fame / mixed-Fame-plus-Infamy pairings):
+
+| Tier(s) | Discount |
+|---|---|
+| **Accepted** or **Smiling Troublemaker** | −5% |
+| **Liked** or **Good-Natured Rascal** | −10% |
+| **Idolized** | −20% |
+
+**Idolized has no mixed-tier counterpart at this top level** — at Infamy Range 2 or 3 with max Fame, the grid
+reads as ambiguous (Dark Hero, Wild Child) rather than favorable, so there's no "mixed" equivalent to pair
+with Idolized the way Accepted/Smiling Troublemaker and Liked/Good-Natured Rascal are paired.
+
+**⚪ ambiguous tiers (Neutral, Mixed, Unpredictable, Dark Hero, Soft-Hearted Devil, Wild Child) and 🔴
+unfavorable tiers grant no discount** — only the five named 🟢 favorable tiers above do.
+
+---
+
 ## Open Design Questions
 
 - **Terminology:** whether Inner Tepenia keeps these exact tier names, or reskins them to fit Tepenia's own voice (robot/human coexistence framing rather than a wasteland-frontier one). Not yet decided.

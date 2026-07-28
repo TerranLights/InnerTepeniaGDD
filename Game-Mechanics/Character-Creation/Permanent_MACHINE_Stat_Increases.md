@@ -290,8 +290,16 @@ count; some districts may end up with 2-3, others more, purely based on what gen
   the implant procedure plus ordinary conversation/lore-dropping, no other in-game function.
 - ~~Whether every district has one, or only some~~ — **resolved 2026-07-28:** 7 of 13 (Aquarius, Scorpio,
   Cancer, Pisces, Aries, the Central Hub, Virgo). See the district-by-district breakdown above.
-- Cost/price for an implant procedure, and whether it requires anything beyond credits (a quest, a reputation
-  threshold, specific materials) — not yet designed.
+- ~~Cost/price for an implant procedure, and whether it requires anything beyond credits~~ — **partially
+  resolved 2026-07-28:** beyond payment (exact credit amount still TBD), the player's reputation with that
+  specific district must not be one of the five 🔴 unfavorable tiers on the `Reputation_System.md` grid
+  (Shunned, Hated, Vilified, Sneering Punk, Merciful Thug) — any of the other 11 tiers (🟢 favorable or ⚪
+  ambiguous, including plain Neutral) qualifies. In effect: a practitioner will perform the procedure on
+  anyone who isn't currently on bad terms with their district, regardless of whether that standing is
+  strongly positive or merely unremarkable. Exact credit cost still not designed. **Related, confirmed
+  2026-07-28:** a 🟢 favorable reputation tier (Accepted/Smiling Troublemaker, Liked/Good-Natured Rascal, or
+  Idolized) also earns a purchase discount at every merchant district-wide, implant procedures included —
+  see `Reputation_System.md`'s new "Reputation-Based Merchant Discounts" section for the full discount table.
 - **New, 2026-07-28 — genuinely unresolved, raised while designing Virgo's "Dark-adapted senses" implant:**
   how much of a gap should there be between what the *character* can perceive (in-fiction low-light/no-light
   vision) and what the *player* can actually see on screen, in a top-down isometric renderer? No existing
