@@ -91,6 +91,21 @@ Majyao runs her teahouse and does not leave it. She cannot be recruited as a com
 
 ---
 
+## Combat Interaction — Applying Healing Items to a Companion
+
+**Confirmed 2026-07-28, ported directly from FNV.** In Fallout: New Vegas, the player can apply their own
+Stimpaks to an active companion: opening the companion's interact wheel surfaces a healing-item option that
+displays that companion's current HP, and selecting it consumes one of the player's own healing items to heal
+them. Inner Tepenia adopts this mechanic as-is — the player's interact wheel for the active companion
+includes a healing-item option, showing the companion's current HP, and using it consumes one of the player's
+own healing items (whatever Inner Tepenia's own Stimpak-equivalent item turns out to be named) to heal that
+companion directly. This is a manual, player-initiated action distinct from any passive regeneration effect
+(see, for example, the Cancer "not-Doctor-Usanagi" implant in `Character-Creation/Permanent_MACHINE_Stat_Increases.md`,
+which grants a passive HP-regen aura to the active companion independent of and stacking with this item-based
+option).
+
+---
+
 ## Companion Slot Rules
 
 - Only one companion may be active at a time
