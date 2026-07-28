@@ -52,11 +52,39 @@ Traits are major, permanent choices made during **Character Creation**. You may 
 | **Claustrophobia** | +1 to all MACHINE stats while outdoors (Frostlands, exposed terrain) | -1 to all MACHINE stats while indoors (enclosed districts, Undergrid) | Frostlands/Sagittarius explorers |
 | **Agoraphobia** *(added 2026-07-04, the user's own requested counterpart to Claustrophobia — exact opposite effect)* | +1 to all MACHINE stats while indoors | -1 to all MACHINE stats while outdoors | Undergrid/enclosed-district specialists |
 | **Wild Wasteland** *(added 2026-07-28 — see its own dedicated file, `Wild_Wasteland_Trait.md`, for full design)* | **None — zero stat effect**, matching the real FNV trait exactly | **None** | Purely a content-flag: swaps in/adds special encounters and references throughout the game, mixing in-universe absurdism with real-world meta references; quantity and placement decided organically over time, not fixed upfront |
+| **Hot Tempered** *(added 2026-07-28, renamed from FNV's "Hot Blooded" — robots run on synovial-fluid-equivalent lubricant rather than blood in the literal sense, so the developer renamed it to fit; verified against the real perk)* | +15% damage while below 50% health | -2 Humanity, -2 Agility, and -2 Investigation while below 50% health *(Perception → Humanity, per `MACHINE_Stats.md`'s own stated FNV-equivalent mapping — Humanity = "Perception + Charisma"; Investigation added on top per developer request, since Investigation is this system's own pattern-recognition/analysis stat — another facet of what a real loss of Perception would degrade)* | Aggressive, low-health-threshold glass-cannon builds — pairs naturally with All-In Brawler/Kamikaze |
+| **Loose Cannon** *(added 2026-07-28, verified against the real perk — AP-cost translation follows the same pattern already used for Fast Shot)* | Thrown weapon attacks cost 30% less AP | Thrown weapons have 25% less range | Volume-of-throws builds (`Combat/Throwing_Weapons.md`) |
+| **Small Frame** *(added 2026-07-28, verified against the real perk — currently decorative, see note below)* | +1 Agility | Fragile limbs (25% extra limb damage) *(decorative until a limb-specific damage system exists — see `Perks/FNV_Perk_Cross_Reference_Audit.md`'s "Blocked on a Missing System" table and the matching `TODO.md` entry)* | Agility-focused builds willing to trade limb durability for speed |
+
+**Limb-specific damage system — developer-confirmed wanted, 2026-07-28.** Small Frame's own penalty depends
+on it existing, and the developer explicitly confirmed (independent of this trait) that "limb-crippling
+should absolutely be a functionality in Inner Tepenia, just like in Fallout." This elevates the existing
+`FNV_Perk_Cross_Reference_Audit.md`/`TODO.md` blocker (previously flagged only for Adamantium Skeleton/Eye
+for Eye) from a neutral "blocked" note to a confirmed future system — see those files' updated entries.
+
+**Cross-series note on Claustrophobia/Agoraphobia, flagged 2026-07-28 — for future reference, not an Inner
+Tepenia change:** both traits will be **absent from Outer Tepenia 1 and 2**. In both games the player is
+either piloting a ship in space or inside orbital infrastructure interacting directly with other characters —
+there's no meaningful indoor/outdoor distinction left for either trait to key off, rendering the whole
+concept pointless in those two settings. **Both traits return for Outer Tepenia 3 ("New Centauri")** — that
+installment is set in the Centauri star system, where inhabited, landable planets restore a genuine
+outdoor/indoor distinction for the traits to apply to. See `project_outer_tepenia_series` memory for the
+fuller cross-series context this fits into.
 
 **Status check, 2026-07-28 — reconciling against the full FNV 16-trait roster the developer dropped in
-`to-be-integrated/Fallout_New_Vegas_-_traits_-_full-list.txt`:** 10 of 16 now addressed (the 9 above plus Wild
-Wasteland). **6 remain untouched, held for later:** Early Bird, Four Eyes, Hot Blooded, Logan's Loophole,
-Loose Cannon, Small Frame.
+`to-be-integrated/Fallout_New_Vegas_-_traits_-_full-list.txt`:** 13 of 16 now addressed (the 9 original plus
+Wild Wasteland, Hot Tempered, Loose Cannon, Small Frame). **3 remain, each blocked on a prerequisite system
+that doesn't exist yet, confirmed 2026-07-28:**
+- **Early Bird** (day/night-dependent SPECIAL bonus/penalty) — needs a day/night cycle, which doesn't exist
+  anywhere in the current docs (same blocker already flagged for the FNV perks Night Person/Solar Powered in
+  `FNV_Perk_Cross_Reference_Audit.md`).
+- **Four Eyes** (+Perception while wearing glasses, permanent −1 otherwise) — needs a robot equivalent of
+  "wearing glasses": some kind of equippable/removable optical or sensory augmentation slot. **Genuinely new
+  gap, not previously flagged anywhere.**
+- **Logan's Loophole** (chems last longer, addiction set to zero, locks level cap at 30) — needs a robot
+  equivalent of substance addiction, distinct from Glitch-Coolant (which is confirmed social/flavor, not a
+  combat-chem or addiction mechanic) — same blocker already flagged for the FNV perks Chemist/Chem Resistant/
+  Implant GRX in `FNV_Perk_Cross_Reference_Audit.md`.
 
 ### Stat-Gap Traits *(added 2026-07-24, marked for possible future renaming — see the gap note below)*
 

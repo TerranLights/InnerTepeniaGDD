@@ -64,7 +64,7 @@ prior pass. See `Regular_Perks_-_Level-Up.md` for the actual written entries; no
 | Perk | Real FNV Requirement | Real FNV Effect | The open question |
 |---|---|---|---|
 | **Unstoppable Force** | Str 7, Melee Weapons 90 | x4 damage through enemy blocks | Whether a "block" defensive mechanic exists for enemies at all — genuinely undecided, worth exploring rather than assumed either way. |
-| **Chemist** / **Chem Resistant** *(flagged for future review, 2026-07-26)* | Medicine-gated | Chems/stims last longer; addiction resistance | Depends on whether combat-buff chems and an addiction system are modeled (distinct from Glitch-Coolant, which is more a social/flavor substance). Not resolved now — revisit later. |
+| **Chemist** / **Chem Resistant** *(flagged for future review, 2026-07-26; also blocks the trait **Logan's Loophole**, `Character-Creation/Traits.md`, flagged 2026-07-28)* | Medicine-gated | Chems/stims last longer; addiction resistance | Depends on whether combat-buff chems and an addiction system are modeled (distinct from Glitch-Coolant, which is more a social/flavor substance). Not resolved now — revisit later. |
 | **Implant GRX** *(flagged for future review, 2026-07-26)* | End 8 | Non-addictive subdermal chem injector, 2 ranks | Strong candidate for the "Augmentation/Cybernetics" perk category floated earlier this session — needs that category to exist first, or a chem system to hook into. Not resolved now — revisit later. |
 
 ---
@@ -74,11 +74,12 @@ prior pass. See `Regular_Perks_-_Level-Up.md` for the actual written entries; no
 | Perk(s) | Missing system |
 |---|---|
 | Rad Child, Lead Belly, Rad Resistance, Atomic!, Irradiated Beauty, Rad Absorption | No radiation mechanic confirmed anywhere in the docs. |
-| Night Person, Solar Powered | No day/night cycle confirmed. |
+| Night Person, Solar Powered *(also blocks the trait **Early Bird**, `Character-Creation/Traits.md`, flagged 2026-07-28)* | No day/night cycle confirmed. |
 | Home on the Range, Roughin' It | No camping/sleep-for-bonus system confirmed. |
 | Long Haul *(already flagged in `TODO.md`)* | No fast-travel system. |
-| Adamantium Skeleton, Eye for Eye *(Adamantium Skeleton already flagged in `TODO.md`)* | No limb-specific damage system. |
+| Adamantium Skeleton, Eye for Eye *(Adamantium Skeleton already flagged in `TODO.md`; also blocks the trait **Small Frame**, `Character-Creation/Traits.md`, flagged 2026-07-28)* | No limb-specific damage system. **Developer-confirmed wanted, 2026-07-28** — no longer a neutral "maybe someday" blocker; the developer explicitly confirmed limb-crippling should exist in Inner Tepenia "just like in Fallout," independent of any single perk or trait. |
 | **Explorer** *(reclassified 2026-07-26 — corrected: this perk reveals fast-travel locations on the map, not quests/quest-markers; the developer's own correction to my earlier mischaracterization)* | No fast-travel system — same blocker as Long Haul. |
+| **Four Eyes** *(trait, `Character-Creation/Traits.md`, flagged 2026-07-28 — new entry, not a perk)* | No robot equivalent of "wearing glasses" exists — needs some kind of equippable/removable optical or sensory augmentation slot design. |
 
 ---
 

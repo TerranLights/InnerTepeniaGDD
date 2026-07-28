@@ -4,6 +4,17 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## In-Universe Mascot Icon ("not-Vault-Boy") — flagged 2026-07-28, deliberately deferred
+
+The developer wants an in-universe Tepenian equivalent of Fallout's Vault Boy — a small recurring
+"character-figure" icon used across relevant UI images (perk cards, trait cards, weapon icons, etc.), the
+same way Vault Boy illustrates SPECIAL stats, perks, and items throughout the Fallout games. **Explicitly not
+urgent** — the developer's own words: "something that needs to be addressed at some point in the future, not
+now, not today, just sometime someday." Nothing designed yet: no name, no visual concept, no confirmation of
+which UI elements would actually use it. Revisit once character-creation/UI art direction work is underway.
+
+---
+
 ## RESOLVED — Polydimensional Animism research, flagged 2026-07-20, completed 2026-07-21
 
 All string theory / Kaluza-Klein / higher-dimensions book acquisitions and research passes are complete —
@@ -1215,6 +1226,17 @@ These require a developer call before downstream work can proceed. None can be r
   which doesn't exist anywhere in the current docs either. None of the three were added — not a rejection of
   the perks themselves, just genuinely blocked on missing prerequisite systems. Revisit once (or if)
   fast travel and limb-specific damage get designed.
+
+  **Update, 2026-07-28 — limb-specific damage system now developer-confirmed wanted, and two more traits
+  join the pending-prerequisite list.** The developer explicitly confirmed limb-crippling should exist "just
+  like in Fallout," independent of Adamantium Skeleton specifically — this is no longer a neutral "maybe
+  someday" item, just still genuinely undesigned. The new FNV-ported trait **Small Frame**
+  (`Character-Creation/Traits.md`) also depends on it. Two more newly-ported traits add two more pending
+  systems to this same list: **Early Bird** needs a day/night cycle (same blocker as Night Person/Solar
+  Powered above), and **Logan's Loophole** needs a robot-equivalent addiction/chems system (same blocker
+  already flagged for Chemist/Chem Resistant/Implant GRX). **Four Eyes** adds a genuinely new, previously
+  unflagged prerequisite: some kind of equippable/removable optical or sensory augmentation slot — a robot
+  equivalent of "wearing glasses." See `Traits.md`'s own updated Fallout-Adapted Traits section for all four.
 
 - [ ] **SOC archetype Moderate-tier elaboration — deliberately deferred, flagged 2026-07-26**
   Surfaced while developing `Game-Mechanics/Perks/SOC_Cross_Reference_Perk_Concepts.md`'s Concept 1
