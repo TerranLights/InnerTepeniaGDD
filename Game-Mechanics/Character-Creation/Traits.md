@@ -51,6 +51,12 @@ Traits are major, permanent choices made during **Character Creation**. You may 
 | **Skilled** | +5% effectiveness to every skill | -10% XP gained | Generalist builds |
 | **Claustrophobia** | +1 to all MACHINE stats while outdoors (Frostlands, exposed terrain) | -1 to all MACHINE stats while indoors (enclosed districts, Undergrid) | Frostlands/Sagittarius explorers |
 | **Agoraphobia** *(added 2026-07-04, the user's own requested counterpart to Claustrophobia — exact opposite effect)* | +1 to all MACHINE stats while indoors | -1 to all MACHINE stats while outdoors | Undergrid/enclosed-district specialists |
+| **Wild Wasteland** *(added 2026-07-28 — see its own dedicated file, `Wild_Wasteland_Trait.md`, for full design)* | **None — zero stat effect**, matching the real FNV trait exactly | **None** | Purely a content-flag: swaps in/adds special encounters and references throughout the game, mixing in-universe absurdism with real-world meta references; quantity and placement decided organically over time, not fixed upfront |
+
+**Status check, 2026-07-28 — reconciling against the full FNV 16-trait roster the developer dropped in
+`to-be-integrated/Fallout_New_Vegas_-_traits_-_full-list.txt`:** 10 of 16 now addressed (the 9 above plus Wild
+Wasteland). **6 remain untouched, held for later:** Early Bird, Four Eyes, Hot Blooded, Logan's Loophole,
+Loose Cannon, Small Frame.
 
 ### Stat-Gap Traits *(added 2026-07-24, marked for possible future renaming — see the gap note below)*
 
