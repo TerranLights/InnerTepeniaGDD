@@ -12,18 +12,24 @@ Traits are major, permanent choices made during **Character Creation**. You may 
 
 **Consolidation note (2026-07-04):** this file previously listed only 10 traits; 7 more (the "AP-Economy" group below) existed separately in `Core-Mechanics/Action_Points_Perks_and_Traits.md` and weren't being counted toward the trait total anywhere. Merged here so this file is the single authoritative trait list — 17 total, not 10.
 
-| Trait Name                    | Bonuses                                              | Penalties                                              | Thematic Fit |
-|-------------------------------|------------------------------------------------------|--------------------------------------------------------|--------------|
-| **Lattice Mind**             | +15% Decentralized Systems Design<br>+15% Jury-Rigging & Repurposing | -1 Humanity                                           | Hidden paths, tech innovators |
-| **Cold-Blooded Optimizer**   | +15% Thermal Engineering<br>+15% Siligel Chemistry  | -1 Humanity                                           | Industrial efficiency |
-| **Empathic Bridge**          | +15% Empathy Protocols<br>+15% Diplomatic Negotiation | -1 Might                                              | Social, non-lethal diplomats |
-| **Ripple Intuitive**         | +15% Environmental Exploitation & Ripple Reading<br>+10% Data Archaeology | -1 Calculation (under high stress)                   | Crisis exploitation |
-| **Frontier Hardened**        | +15% Frontier Survival & Cold Adaptation<br>+10% Precision Maintenance | -1 Humanity (in civilized districts)                 | Sagittarius explorers |
-| **Narrative Ghost**          | +15% Deception & Narrative Crafting<br>+10% Rumor & Network Intelligence | -1 Humanity (harder to build genuine trust)          | Narrative Lattice |
-| **Engine Overclocker**       | +1 Engine<br>+20% performance when pushing during crises | Risk of temporary burnout (Engine drain)             | High-risk players |
-| **Humanity Anchor**          | +1 Humanity<br>+15% Empathy Protocols<br>+15% Companion Command | -10% skill gain in pure technical skills             | Roleplay / companion builds |
-| **Undergrid Phantom**        | +15% Precision Maintenance & Repair<br>+15% Stealth & Infiltration | -1 Might                                              | Virgo infiltrators |
-| **Sonic Resonance**          | +15% cultural/performative skills (Leo district)   | -1 Structural stability in high-vibration areas      | Leo artistic builds |
+**Redesigned in full, 2026-07-28** — all 10 originally referenced skill names that don't exist anywhere in
+the real, finalized 25/26-skill list (`Skills.md`, locked 2026-07-26), a holdover from an older, pre-lock
+skill taxonomy. Every trait below has been rebuilt against real skills, with more varied mechanic shapes
+(conditional bonuses, access-gate discounts, resource-cost reductions, stat trades) instead of the old
+uniform "+15%/+15% skill, -1 stat" pattern.
+
+| Trait Name | Bonuses | Penalties | Thematic Fit |
+|---|---|---|---|
+| **Lattice Mind** | +20% Repair success on jury-rigged/patched-together equipment<br>Hacking targets that are themselves improvised/non-standard systems require 1 tier lower access threshold | -1 Humanity | Hidden paths, tech innovators — sees hidden order in patched-together systems, not people |
+| **Cold-Blooded Optimizer** | +20% Chemistry when synthesizing siligel or industrial compounds<br>-20% material cost when repairing/crafting via efficiency-optimized methods<br>+2 Calculation | -2 Humanity | Industrial efficiency, cold optimization over warmth |
+| **Empathic Bridge** | +20% Speech effectiveness specifically in de-escalation/conflict-avoidance dialogue<br>+2 Humanity | -1 Might | Social, non-lethal diplomats |
+| **Ripple Intuitive** | +20% Insight when reading a volatile/escalating situation<br>+25% effect from environmental hazards triggered in combat (fire, explosives, hazardous terrain) | -1 Calculation while under high stress | Crisis exploitation — reads and exploits chaotic, cascading situations |
+| **Frontier Hardened** | +20% Survival and Outdoorsman effectiveness while outside the domed/interior districts<br>+15% Repair specifically on field repairs made away from proper facilities<br>+1 Engine while outside domed/interior districts | -1 Humanity while inside civilized/interior districts | Sagittarius/frontier explorers |
+| **Narrative Ghost** | +20% Deception<br>+15% Narrative<br>Unlocks an extra dialogue option to probe any NPC for rumors/information<br>+1 Nerve | -1 Humanity ("harder to build genuine trust") | Information brokers, manipulators |
+| **Engine Overclocker** | +1 Engine<br>Once per combat, when at 0 AP, immediately gain a burst of +3 temporary AP | After using the burst: -2 Engine and -2 Agility until the end of combat (burnout) | High-risk players, emergency-overclock builds |
+| **Humanity Anchor** | +1 Humanity<br>+20% Insight specifically when interacting with the active companion<br>Bond-building progress with the active companion accelerates (`Core-Mechanics/Fragmentation_Matrix.md`) | -10% skill gain specifically in Calculation-governed skills (Chemistry, Hacking, Cryptography, Energy Weapons) | Roleplay / companion-focused builds |
+| **Undergrid Phantom** | +20% Repair<br>+15% Sneak specifically in low-light or underground environments | -1 Might | Virgo infiltrators |
+| **Sonic Resonance** | +20% Narrative and Speech when performing publicly<br>Reputation gains specifically in Leo progress faster (ties to the district's own "recognition levels" system, `District_Canon_Reference.md`) | -1 Might | Leo artistic/performer builds |
 
 ### AP-Economy Traits *(merged 2026-07-04 from `Core-Mechanics/Action_Points_Perks_and_Traits.md`, where they originally lived)*
 

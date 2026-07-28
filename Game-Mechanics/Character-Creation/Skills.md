@@ -2,7 +2,7 @@
 
 Skills range from **1 to 100**, though each skill's actual reachable maximum is capped by its single governing MACHINE stat — see `Skill_Caps_and_Stat_Synergy.md`. Skills are improved through use, trainers, skill books, quests, and level-up points.
 
-There are **25 skills** total. **Finalized 2026-07-26**, after a full restructure: every skill is governed by exactly **one** MACHINE stat, never a blend (the multi-stat blending in the Skill Point Gain formula below is a separate system that sizes the total point pool, not any individual skill's own scaling). Most of what used to inflate the count to 44 turned out, on inspection, to be perks — a specific technique or unlock — rather than skills, a broad domain worth investing points in. Those moved to `Perks/Regular_Perks_-_Level-Up.md`, gated by Level + stat + skill thresholds instead. 25 is deliberately closer to Fallout: New Vegas's own 13-skill count than the old 44 ever was — a natural consequence of skills and perks finally being separated correctly. Full restructuring history lives in `Skills_Review_-_Verb_vs_Noun_Audit.md`.
+There are **26 skills** total. **Finalized 2026-07-26**, after a full restructure: every skill is governed by exactly **one** MACHINE stat, never a blend (the multi-stat blending in the Skill Point Gain formula below is a separate system that sizes the total point pool, not any individual skill's own scaling). Most of what used to inflate the count to 44 turned out, on inspection, to be perks — a specific technique or unlock — rather than skills, a broad domain worth investing points in. Those moved to `Perks/Regular_Perks_-_Level-Up.md`, gated by Level + stat + skill thresholds instead. 25 is deliberately closer to Fallout: New Vegas's own 13-skill count than the old 44 ever was — a natural consequence of skills and perks finally being separated correctly. Full restructuring history lives in `Skills_Review_-_Verb_vs_Noun_Audit.md`. **Reopened to 26, 2026-07-28:** **Performance** (instrument-playing, BG3-inspired) was added under Humanity — the one exception to the otherwise-locked 25, see its own entry in the Full Skill List and the Tag Skills section below for its unique start-item behavior.
 
 ---
 
@@ -94,6 +94,13 @@ Each Tagged skill immediately receives a one-time flat bonus of **+15 points**.
 
 This front-loads your chosen playstyle while still requiring sustained investment to reach mastery.
 
+**Performance's unique Tag behavior, added 2026-07-28 — the first of its kind in Inner Tepenia:** Tagging
+**Performance** additionally grants a starting instrument item, the same way FNV grants a starting laser
+pistol to a character who Tags Energy Weapons. The player doesn't otherwise start the game with an
+instrument — Tagging Performance is the sole way to begin with one. This is a genuinely new category of Tag
+effect (a start-item grant, not just a flat point bonus); whether any other skill gets a similar treatment is
+open, not decided here.
+
 ---
 
 ## Full Skill List
@@ -119,15 +126,16 @@ that stat alone. Where a skill's scope could be ambiguous, a short note clarifie
 - Energy Weapons
 
 ### Humanity (4)
-- Biology — one of several skills descended from a single broad "Science" concept; covers biological/life-sciences knowledge, distinct from Chemistry, Hacking, and Cryptography's own slices of that same territory
 - Narrative
 - Speech
 - Insight
+- Performance — instrument-playing, added 2026-07-28, BG3-inspired; see "Tag Skills" above for its unique starting-instrument behavior when Tagged
 
-### Investigation (3)
+### Investigation (4)
 - Repair
 - Lockpick
 - Medicine — treats both human injury/illness and robot vital-system instability under one clinical skill
+- Biology — one of several skills descended from a single broad "Science" concept; covers biological/life-sciences knowledge, distinct from Chemistry, Hacking, and Cryptography's own slices of that same territory; **moved here from Humanity, 2026-07-28** — pattern-recognition/analysis of biological systems fits Investigation's governing definition more directly than Humanity's empathy/social-awareness focus
 
 ### Nerve (4)
 - Deception
