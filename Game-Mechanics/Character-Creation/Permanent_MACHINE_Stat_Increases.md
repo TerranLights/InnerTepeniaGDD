@@ -72,6 +72,94 @@ procedure is purely the natural, organic lore-dropping a named local practitione
 the same way plenty of non-recruitable named NPCs elsewhere in the game exist mainly to texture their
 district rather than drive a quest.
 
+**Which districts actually have one, resolved 2026-07-28** — a "modestly reasonable majority," not all 13,
+decided district-by-district against `Districts/District_Canon_Reference.md`'s established identities:
+
+**Confirmed present (7 of 13):**
+- **Aquarius** — already-canonical: the district text itself states it has "the city's highest rate of
+  experimental augmentation," making this close to a foregone conclusion rather than a stretch.
+- **Scorpio** — already-canonical: its own inhabitants list names "shadow augmentation specialists" outright;
+  transformation is the district's entire reason for existing.
+- **Cancer** — the original illustrative example; built on existing medical/caregiving infrastructure
+  (integration facilitators, medical support bots) already established for the district.
+- **Pisces** — "fluid-frame robots" (modified for rapid reconfiguration/identity shifting) are already
+  canonically "common in Pisces, rare everywhere else," and the district's whole black-market identity means
+  access to procedures unavailable or unsanctioned elsewhere.
+- **Aries** — the overclock/"push it until it breaks" culture (voluntary hot shifts as a status symbol,
+  near-devotional treatment of machinery) maps directly onto a practitioner whose *proprietary specialty*
+  leans Engine (see "Per-District Thematic Specialty" below — this is not exclusivity, just flavor);
+  confirmed despite Aries' fatalistic "bodies get used up, not upgraded" undercurrent, since the
+  overclock-culture fit outweighed it.
+- **Concordia Central Hub (Axis Mundi)** — confirmed specifically *because* it's neutral ground: a resident
+  wary of a district-branded procedure (an Aquarius-flavored experimental implant, say) can get one here
+  without any district affiliation or judgment attached — consistent with the Hub's own "principled
+  rootlessness" identity, and distinct enough from Calethina's Lab (activation, not implants) to coexist.
+- **Virgo** — resolved after genuine back-and-forth: the district's residents overwhelmingly stay in the
+  Undergrid rather than surfacing (per canon: accustomed to low light, navigate by sound/touch, find surface
+  brightness "overwhelming"), which means Virgo maintains its own in-house infrastructure end-to-end —
+  schools, bureaucratic centers, hospitals, and by extension its own implant practitioner — rather than
+  relying on any surface district's version.
+
+**Confirmed absent (6 of 13):**
+- **Taurus** — domestic/stability culture with no technical-medical infrastructure; residents are consumers
+  of services, not innovators or specialists in this space.
+- **Libra** — a regulatory/legal district that oversees and restricts this kind of thing (see its Aquarius
+  oversight relationship) rather than performs it.
+- **Capricorn** — ruled out on two grounds: its meritocratic "status is *earned*, not bought" self-image sits
+  uneasily with a pay-for-a-permanent-implant practitioner, and — the deciding factor — geography/setting:
+  it's simply not characteristically a place such a person would be. A Capricornian wanting an implant would
+  travel to a similarly industrialized district with its own local practitioner instead (which is exactly
+  why Virgo, not Capricorn, ended up the industrial-adjacent district that has one).
+- **Sagittarius** — ruled out on the same geographic/setting logic as Capricorn: not every district needs to
+  be self-sufficient for this, and Sagittarius residents would instead travel to a district that has one.
+- **Leo** — ruled out as simply not internally, characteristically consistent with the district — performance
+  and morale culture, not augmentation medicine, no matter how the "vanity"/competitive-edge angle was framed.
+- **Gemini** — ruled out for lacking any textual anchor at all: its inhabitants list is entirely
+  routing/archival/broadcasting roles, with zero medical or augmentation-adjacent presence anywhere in canon
+  (unlike, say, Aries or Virgo, where a real cultural thread could be pointed to).
+
+**A working rule that fell out of this pass, worth reusing elsewhere:** a district doesn't need its own
+practitioner just because it has relevant industry or culture nearby — Capricorn and Sagittarius are both
+ruled out partly on the logic that their residents simply travel to a neighboring or thematically similar
+district instead. Not every district needs to be self-sufficient in every kind of specialist.
+
+---
+
+## Universal Implant Availability vs. Per-District Proprietary Specialty
+
+**Confirmed 2026-07-28 — an important correction to how the district/stat association above should be read:**
+all 7 MACHINE stat implants are available at **every** "not-Doctor-Usanagi," regardless of district. The
+one-implant-per-MACHINE-stat limit (see above) is a property of the *player's frame*, not of any single
+practitioner's specialty — nobody is gatekept from a given stat implant by which district they're standing in.
+
+**What the district/stat association is actually for**, following the real FNV precedent this whole system is
+adapted from — verified 2026-07-28: Doctor Usanagi offers the standard nine-part SPECIAL implant series
+(4,000 caps each) available to anyone who meets the Endurance-based slot requirement, *plus* two proprietary
+combat implants exclusive to her practice: a permanent +4 Damage Threshold implant (8,000 caps) and the
+PHOENIX Monocyte Breeder, a passive 1 HP/10-seconds regeneration implant. Those two extras aren't part of the
+standard SPECIAL series — they're *her* specialty, on top of it.
+
+Inner Tepenia's 7 practitioners work the same way: universal MACHINE implant access for everyone, plus each
+practitioner's own **proprietary bonus implant(s)**, thematically keyed to one MACHINE stat that matches their
+district's identity. That stat theme also doubles as an **art-direction and conversation-topic guide** for
+each practitioner's office — what the space looks like, and what kind of organic lore-dropping dialogue fits
+there.
+
+**Proposed thematic keying, 2026-07-28 (open to further refinement):**
+
+| District | MACHINE Stat Theme | Why |
+|---|---|---|
+| **Aries** | Engine | Overclock/burnout culture — "operational endurance before burnout" is nearly a direct paraphrase of Aries' own civic identity. |
+| **Cancer** | Humanity | Empathy, emotional connection, and care — Cancer's entire reason for existing. |
+| **Scorpio** | Nerve | Mental resilience and willpower — transformation through confrontation is the district's whole practice. |
+| **Aquarius** | Calculation | Logical/experimental research — the district's baseline mode of operation. |
+| **Virgo** | Investigation | Diagnostic precision and systems analysis — matches "precision diagnostic and repair" and "systems analysts" directly. |
+| **Pisces** | Agility | Fine motor control and reconfiguration — matches the canonical "fluid-frame robots modified for rapid reconfiguration." |
+| **Central Hub** | *(deliberately unspecialized)* | No district's civic identity is actually built around raw physical strength (Might), which is why it doesn't map cleanly onto any of the six above. Rather than forcing an awkward fit, the Hub's practitioner can lean into genuine non-specialization — a deliberately generic, modular office and conversation topics about neutrality/adaptability itself, consistent with the Hub's own "no affiliation, no judgment" identity. |
+
+**Not yet designed:** the actual proprietary bonus implant(s) for each district (the Usanagi-DT/HP-regen
+equivalent) — this is the next real design step, one district at a time.
+
 ---
 
 ## Open Questions
@@ -79,8 +167,12 @@ district rather than drive a quest.
 - ~~Whether "not-Doctor-Usanagi" NPCs are meant to be named, distinct individual characters or a more generic,
   replicated archetype~~ — **resolved 2026-07-27:** named individuals per district, mechanically limited to
   the implant procedure plus ordinary conversation/lore-dropping, no other in-game function.
-- Whether every district has one, or only some — not yet decided.
+- ~~Whether every district has one, or only some~~ — **resolved 2026-07-28:** 7 of 13 (Aquarius, Scorpio,
+  Cancer, Pisces, Aries, the Central Hub, Virgo). See the district-by-district breakdown above.
 - Cost/price for an implant procedure, and whether it requires anything beyond credits (a quest, a reputation
   threshold, specific materials) — not yet designed.
+- **New, 2026-07-28:** the actual proprietary bonus implant(s) for each of the 7 practitioners, keyed to their
+  district's MACHINE stat theme (see "Universal Implant Availability vs. Per-District Proprietary Specialty"
+  above) — not yet designed, next up one district at a time.
 - ~~Whether Intense Training can be taken multiple times~~ — **resolved 2026-07-27, verified against the real
   perk:** yes, up to 10 times total, Level 2 requirement, no other gate.
