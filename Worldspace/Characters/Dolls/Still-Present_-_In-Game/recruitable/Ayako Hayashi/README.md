@@ -6,7 +6,7 @@
 **Primary Location(s):** Red Spiral base/clinic (district TBD)
 **Affiliation(s):** The Red Spiral (non-geographical faction; HQ in Cancer district — the medical district of Concordia; operates across all districts, analogous to the Followers of the Apocalypse in Fallout: New Vegas)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Investigation ≥ 7, Humanity ≥ 7 *(raised from ≥6, 2026-07-20)*, Calculation ≥ 6; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Investigation ≥ 7, Humanity ≥ 7 *(raised from ≥6, 2026-07-20)*, Calculation ≥ 6; forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Narrative Ghost, No Mercy; full romance beat design in Companion_System.md
 
 ---
 
@@ -100,6 +100,33 @@ questline.
 - **Other characters:** TBD
 
 ---
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Ayako's forbidden traits: Narrative Ghost, No Mercy.**
+- **Narrative Ghost** — her entire practice, medicine and fashion both, runs on precise observation of what's
+  actually there, and she requires genuine emotional register specifically, "real, not merely adequate." A
+  defining deceiver directly threatens what she's testing for.
+- **No Mercy** (`Character-Creation/Traits.md`, designed during this pass) — she's a medic. Her whole
+  vocation, both healing and craft, is built on care and precise attention to another person's condition.
+  Someone constitutionally incapable of mercy toward humans is a direct violation of everything she's
+  dedicated her life to, not just an unrelated personality clash.
+
+**Considered and set aside:**
+- **Empathic Bridge** — a strong structural parallel to Seica's own case (her Beat 4 rejects deflection and
+  jokes the same way Seica rejects appeasement), but not confirmed for her sheet.
+- **Loose Cannon** — pacing does matter in her beats (the kept-garment moment rewards patience), but it isn't
+  the *central* axis of her test the way it is for Naizelle, where an entire beat is explicitly "the test of
+  patience." Judged too speculative a fit to include.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"I've spent my whole life paying attention to what's actually there. I don't need to
+look very hard at you to know what this would cost me."*
 
 ## Design Notes & Open Questions
 

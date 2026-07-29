@@ -147,5 +147,14 @@ sequencing which companions to prioritize once implementation work begins.
   flat-threshold system, then a MACHINE-stat-scale number used on what should be a skill-scale bonus) and
   still carries a real, unresolved production dependency (tracking NPC-given vs. self-discovered information,
   tagging specific "informed checks"). See `Traits.md`'s own entry for the full history.
+- **Ayako Hayashi** — Narrative Ghost, No Mercy. Empathic Bridge was a strong structural parallel to Seica's
+  case (rejects deflection/jokes the same way Seica rejects appeasement) but wasn't confirmed for her sheet.
+  **No Mercy is a brand-new trait designed specifically from her medic identity** — someone constitutionally
+  incapable of mercy toward humans, a direct violation of her whole vocation. It went through a real scope
+  correction (an initial "any human interaction" penalty was flagged as the largest production dependency any
+  trait in this pass had needed, and was narrowed to already-tense/hostile scenes specifically). **Narrative
+  Ghost itself was escalated the same day** after reaching 8 forbidden-trait assignments (Naizelle, Villena,
+  Ji-Eun, Trisha, Seica, Flora, Vosora, Ayako) — see `Traits.md`'s own updated entry for its new once-per-act
+  reputation erasure and permanent 25% Negative Reputation reduction.
 
 All other confirmed romanceable companions still need this pass.

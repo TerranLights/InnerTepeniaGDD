@@ -4,6 +4,38 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Companion Forbidden Traits — in progress, paused 2026-07-28
+
+The "forbidden trait" romance-gate mechanic (`Game-Mechanics/Core-Mechanics/Companion_System.md`'s "Forbidden
+Traits" section; full process in `Game-Mechanics/Core-Mechanics/Forbidden_Trait_Design_Method.md`) has been
+assigned to 11 of the game's romanceable characters so far. Deliberately paused, not blocked — pick back up
+whenever.
+
+**Done (11):** Favi della Torre, Naizelle d'Edjordoś, Villena Hiresvett, Ji-Eun Kim, Michelle Stanton, Trisha
+Miller (full romance design also created from scratch for her), Seica Cenilaithe, IT-068 [Flora], Vosora
+Lashár Tanslock, Ayako Hayashi — plus Majyao Bisyugota (Demagogue confirmed; a new trait, "Broad Strokes,"
+still pending finalization before her list can be closed out).
+
+**Still remaining — stat thresholds already exist, just need this pass (3):** IT-021 [Fenny], FW-25 [Pink
+Lucy], Lyuba Baranova.
+
+**Blocked on stat design first (2):** TCY-25 "Rui" and Salagéa Aparast — MACHINE stat thresholds themselves
+still TBD.
+
+**Genuinely open question — may not apply at all (2):** Kendra Heinrich and Calethina — both have unique,
+stat-free conduct-based romance gates; whether "forbidden traits" makes sense for either hasn't been decided.
+
+**Side effects worth remembering when resuming:** two traits escalated mid-pass after becoming
+disproportionately wide-reaching dealbreakers — **Cut Losses** (5 companions) and **Narrative Ghost** (8
+companions) — see their own `Character-Creation/Traits.md` entries for the escalated mechanics. Two new
+traits were designed and flagged for future review rather than finalized: **"Broad Strokes"** (bonus still
+undecided) and **"One-Way Exchange"** (bonus finalized, but carries an unresolved content-tagging production
+dependency). **Demagogue**'s own production dependency (sufficient crowd/group-address content) now applies
+across multiple companions, not just Trisha — worth prioritizing if that content gap hasn't been addressed by
+the time this pass resumes.
+
+---
+
 ## In-Universe Mascot Icon ("not-Vault-Boy") — flagged 2026-07-28, deliberately deferred
 
 The developer wants an in-universe Tepenian equivalent of Fallout's Vault Boy — a small recurring

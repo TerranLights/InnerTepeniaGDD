@@ -376,7 +376,7 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | Salagéa Aparast | DLC 5 companion | TBD | TBD | Thresholds pending Phase 7 personality design |
 | + all future companions | TBD | TBD | TBD | Rule: all recruitable companions are romanceable by default |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | See character file | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
-| Ayako Hayashi | Recruitable companion | Investigation ≥ 7, Humanity ≥ 7, Calculation ≥ 6 | TBD | 4w5 Self-Pres; Red Spiral medic; highest Investigation gate in the roster; see full design note below |
+| Ayako Hayashi | Recruitable companion | Investigation ≥ 7, Humanity ≥ 7, Calculation ≥ 6 | See character file | 4w5 Self-Pres; Red Spiral medic; highest Investigation gate in the roster; see full design note below |
 | Lyuba Baranova | Recruitable companion | Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6 | TBD | 8w7 Sexual; silver-tongue / unarmed fighter; Aries; highest Nerve gate in the roster; see full design note below |
 | TCY-25 "Rui" | Recruitable companion | TBD | TBD | 9w1 Self-Pres; Scorpio transformation practitioner; confirmed recruitable 2026-07-10; thresholds pending Phase 3 personality design |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | See character file | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
@@ -864,6 +864,8 @@ completes.
 **Stat gate:** Investigation ≥ 7 (primary), Humanity ≥ 7 (secondary) *(raised from ≥6, 2026-07-20)*, Calculation ≥ 6 (tertiary)
 
 **Rationale:** Ayako is a 4w5 Self-Preservational type — her entire practice, medicine and fashion both, runs on precise observation. She notices everything and always has. The entry point to her is someone who operates in the same register of careful attention; she recognizes it immediately and it is the only thing that genuinely interests her in a person. Investigation ≥ 7 is the highest gate of that stat in the roster, which fits: no one in the game is more attuned to what is actually there. This deliberately inverts Majyao's profile (also 4w5 SP, Humanity ≥7 as well but *primary* rather than secondary there) — Ayako is more internally focused and more filtered through precision than warmth first, even though her Humanity floor now matches Majyao's and Fenny's as the highest in the roster. Humanity is secondary, not primary, because a 4's core wound is feeling unseen; genuine emotional depth must be present alongside the perceptive intelligence, not substituted for it, and it has to clear a real bar — she has loved a human before, deeply, and the emotional register has to be real, not merely adequate. Calculation reflects the 5 wing: she respects careful thinking and someone who can go somewhere with a difficult idea.
+
+**Forbidden traits:** see Ayako's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Ayako Hayashi/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
 
 **Signal line** (if stat threshold not met): *"You're good at what you do. I've noticed that. I just need more than competence before I can let someone in."*
 
