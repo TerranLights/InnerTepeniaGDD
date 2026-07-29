@@ -3,8 +3,8 @@
 ## Kendra Heinrich
 
 **Role / Archetype:** Robot workers' rights leader; DLC protagonist (South Pole — stranded)
-**Primary Location(s):** South Pole (DLC — stranded) | Home district: Capricorn (Concordia)
-**Affiliation(s):** The Reclaimed Record (Capricorn robot workers' rights movement — potential faction seed)
+**Primary Location(s):** South Pole (DLC — stranded) | Home district: **flagged 2026-07-28 as unconfirmed — see note below; previously stated as Capricorn (Concordia), but the developer has clarified this was never actually decided**
+**Affiliation(s):** The Reclaimed Record (Capricorn robot workers' rights movement — potential faction seed; this district association is itself part of the now-flagged backstory, not necessarily locked)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
 **Romance Potential:** Yes — confirmed romanceable; **unique gate system, no MACHINE stat or trait requirements**
 
@@ -73,9 +73,18 @@ See `Personal_Background/` for details as they develop.
 
 ## Design Notes & Open Questions
 
-- **DLC context:** Kendra is stranded at the South Pole and is the protagonist of her own starring DLC. She does NOT begin in Concordia. The Capricorn affiliation and The Reclaimed Record faction are her background/origin story — the place and cause she came from. Her recruiting arc and companion quest likely unfold entirely within the DLC context (South Pole setting), not in the main city.
+- **FLAGGED 2026-07-28 — origin/home-district claim unconfirmed:** every reference below to Capricorn as
+  Kendra's home district, and to The Reclaimed Record as specifically a Capricorn movement, was written into
+  this file as an assumption, not something the developer ever actually decided. The developer's own words:
+  "I technically never actually said that she was from Capricorn and/or that she was already living in
+  Concordia at the time of the war." **The developer intends to write her real backstory.** Until that
+  happens, treat every Capricorn-specific claim below (her origin district, the Reclaimed Record's district
+  base, the Capricorn Workers' Network ability, and the settling-in mechanic's rationale further down) as
+  provisional placeholder content, not locked lore.
 
-- **Capricorn connection:** Even though she's absent from Concordia during the game, her presence is felt there — through The Reclaimed Record movement she helped seed, through other characters who reference her, or through documents/evidence the player can find. She matters to Concordia even before she's encountered.
+- **DLC context:** Kendra is stranded at the South Pole and is the protagonist of her own starring DLC. She does NOT begin in Concordia. The Capricorn affiliation and The Reclaimed Record faction are her background/origin story — the place and cause she came from *(unconfirmed, see flag above)*. Her recruiting arc and companion quest likely unfold entirely within the DLC context (South Pole setting), not in the main city.
+
+- **Capricorn connection** *(unconfirmed, see flag above)*: Even though she's absent from Concordia during the game, her presence is felt there — through The Reclaimed Record movement she helped seed, through other characters who reference her, or through documents/evidence the player can find. She matters to Concordia even before she's encountered.
 
 - **DLC difficulty — brutally hard by design and by lore.** The South Pole DLC is the hardest content in the entire game. This is both a gameplay commitment and an in-lore necessity: Kendra Heinrich is a war goddess who held off an army during the evacuation. Whatever damaged her to the point of being stranded and needing rescue is, by definition, among the most formidable threats in Tepenia. The enemies here cannot be recycled from other content — they must be unique to the South Pole and credibly capable of defeating someone of Kendra's capability. The environment itself is a co-antagonist: extreme cold, total isolation, no supply lines, no shelter infrastructure. The DLC is designed to be the natural capstone of a player's build — something only a fully developed character can survive.
 
@@ -108,7 +117,7 @@ See `Personal_Background/` for details as they develop.
 
   - **Presence-Based Deterrence:** Enemies who recognize her by reputation, or who are experienced enough to correctly read the level of threat in front of them, may stand down, retreat, or refuse to escalate before combat begins. Not a charm or speech effect — purely the weight of what she is. Encounters that would be mandatory combat with any other companion become optional with her present. Threshold is recognition: enemies with no reason to know who she is will not respond to this; those who do will.
 
-  - **Capricorn Workers' Network:** Her roots in The Reclaimed Record give her access to a network of working-class robots in Capricorn and the city's industrial zones — people who know what is actually happening in the operational layer of Concordia rather than the political one. Supply disruptions, factory floor conditions, infrastructure sections quietly failing, foremen taking kickbacks. Ground-level intelligence that formal factions do not collect because they do not think it matters.
+  - **Capricorn Workers' Network** *(unconfirmed, see flag above — depends entirely on the Capricorn/Reclaimed Record origin claim)*: Her roots in The Reclaimed Record give her access to a network of working-class robots in Capricorn and the city's industrial zones — people who know what is actually happening in the operational layer of Concordia rather than the political one. Supply disruptions, factory floor conditions, infrastructure sections quietly failing, foremen taking kickbacks. Ground-level intelligence that formal factions do not collect because they do not think it matters.
 
   - **Physical Intimidation in Negotiations:** In confrontations already in progress, her presence shifts the room without her needing to speak — unlocks options the player alone could not open, because the room made a calculation about what refusing would cost. Distinct from deterrence, which avoids confrontation; this operates inside one that has already started. **Planned end-game cinematic (BG3-style):** At the Final Climax, if Upper Earth operatives (posing as defectors) are present and would normally call in reinforcements, and Kendra is the active companion, a cutscene triggers: the operative leader stops mid-action — *"....is that...........is that........"* — another operative: *"....I think it's her...."* — all Upper Earth operatives immediately turn non-hostile and attempt to flee. The player and allies may gun them down with no resistance. What would have been a harder final battle with reinforcements becomes a clean elimination, paid for entirely by her reputation.
 
@@ -121,11 +130,25 @@ See `Personal_Background/` for details as they develop.
   - **Gate 2:** The player breaks through her emotional exterior across the course of the DLC — through how they treat her vulnerability, her frustration at needing help, her difficult gratitude. Not being condescending, not making her feel like a burden, not backing down when she is being difficult, showing genuine curiosity about who she is. The things that break through an 8w7's armor.
   - Both gates met → romance mini-quest opens. Unfolds partly in the South Pole, partly in Concordia after she becomes a main game companion. Specific beats are Phase 7 work.
 - Mechanical synergies: TBD (heavy combat build, Might-primary expected)
-- **Settling-in mechanic (post-DLC) — duration confirmed 2026-07-20: 3 in-game days.** After the DLC ends and Kendra becomes available as a main game companion, the player does not immediately gain access to her Concordia home. She needs time to get resettled — but since Capricorn is her actual home district (see Core Identity above), this is her **re-establishing an existing home she already has roots in**, not building one from scratch, which is why the period is short relative to the other DLC companions' 1-week version of this same mechanic (see `Companion_System.md`'s "DLC Companions: Securing a Concordia Residence" rule — Kendra is the sole exception there). After the 3 days, she sends the player a message saying she's settled in and asks to meet somewhere public. The meeting is public because the romance may not yet be fully established at this point — this is the beginning of the Concordia portion of whatever relationship has developed, not its conclusion. The public location and the nature of this first Concordia meeting are Phase 7 design work.
+- **Settling-in mechanic (post-DLC) — duration confirmed 2026-07-20: 3 in-game days** *(rationale now flagged
+  2026-07-28 as unconfirmed — the "Capricorn is her actual home district" premise this was built on was never
+  actually decided; the 3-day duration itself may need revisiting once her real backstory exists, since it
+  was explicitly derived from that premise)*. After the DLC ends and Kendra becomes available as a main game
+  companion, the player does not immediately gain access to her Concordia home. She needs time to get
+  resettled — the original reasoning was that Capricorn is her actual home district, making this her
+  **re-establishing an existing home she already has roots in** rather than building one from scratch, which
+  is why the period was set shorter than the other DLC companions' 1-week version of this same mechanic (see
+  `Companion_System.md`'s "DLC Companions: Securing a Concordia Residence" rule — Kendra is the sole exception
+  there, also flagged now). After the 3 days, she sends the player a message saying she's settled in and asks
+  to meet somewhere public. The meeting is public because the romance may not yet be fully established at
+  this point — this is the beginning of the Concordia portion of whatever relationship has developed, not its
+  conclusion. The public location and the nature of this first Concordia meeting are Phase 7 design work.
 
 - Replayability ideas: TBD
 - TODOs:
-  - [ ] Full backstory
+  - [ ] **Full backstory — flagged 2026-07-28: the developer will write this; the existing Capricorn
+    origin/home-district claim throughout this file is unconfirmed and should not be treated as locked until
+    then**
   - [ ] Personality and voice (Phase 3)
   - [ ] DLC structure and South Pole setting
   - [ ] Answer the "what defeated her" design question
