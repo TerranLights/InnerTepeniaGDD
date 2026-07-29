@@ -36,6 +36,33 @@ Dedicated caregivers, nurses, therapists, grief counselors, refugee families, co
 
 ### Development Notes
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- major hospitals
+- public (and private) parks
+- quiet "listening gardens" with sound-dampening canopies and free grief-counselor kiosks
+- communal broth kitchens that never close
+- **Threshold Waiting Rooms** — small neighborhood spaces for people who've just received hard news to decompress before going home to family; not clinical, just quiet and warm
+- **Second Chair Workshops** — a specialized craft trade dedicated to building/maintaining the memorial chairs and objects Cancer families keep for the deceased
+- **Paired Creches** — neighborhood nurseries where newly-activated robots and human infants are cared for side by side
+- **Communal Warm-Soak Houses** — literal shared warm-water bathing spaces, extending the district's warmth-as-care sensory identity into a vulnerable, non-hierarchical ritual
+- **The Quiet Register** — a nonverbal doorway-token system signaling "I need help but can't ask directly right now"
+
+**Small offices for educational training:**
+- first aid
+- trauma-informed caregiving & emotional first response
+- basic hydroponics & soil-healing for domestic growers
+
+**Social cohesion mechanisms:**
+- open-air memorial circles where residents leave voice-notes or physical tokens for the city's collective grief
+- rotating "care shifts" where any resident can sign up to sit with strangers for a few hours
+- **Habit-Keeping Evenings** — families/companions "keeping" a deceased person's routines alive share what they've been doing, sometimes inviting neighbors to join a piece of it
+- **Lullaby Nights** — recognized lullaby-masters perform publicly and regularly for the whole neighborhood, not just privately at bedtime
+- **Open Door Hour** — a scheduled window where households signal they're open to drop-in visits, aimed at isolated residents
+- **Caregiver Respite Circles** — a deliberate correction to Cancer's own blind spot (burned-out caregivers quietly reassigned with no acknowledgment); peer-facilitated circles for caregivers to receive care themselves
+- **Broth Nights** — potluck gatherings built around cooking a lost person's favorite dish together
+
 ---
 
 ## District 2 — Taurus *(TBN)*
@@ -65,6 +92,37 @@ Multi-generational families, long-term residents, skilled homemakers, small-scal
 
 ### Development Notes
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- Albanian style cafebars
+- public (and private) parks
+- TTRPG gathering spaces
+- generational furniture workshops and heirloom-repair co-ops
+- **Genealogy Registry Halls** — neighborhood offices formally recording robot/human generational service history
+- **Preserve Cellars / Fermentation Vaults** — communal cellar spaces for the district's extraordinary preserved-food traditions
+- **Heirloom Provenance Offices** — services formally documenting a specific heirloom's genealogical history
+- **"Warm Side" Aid Points** — informal aid stations where warm-side households quietly channel resources to cold-side neighbors, grounded in the Insulation Schism
+- **Household Insulation Ateliers** — workshops teaching the district's household-scale insulation expertise
+- **Second-Tier Limbo Support Office** — a quiet service for residents whose bonded-pair status couldn't be fully re-verified after the 2812 Registry Collapse
+- **Newcomer Welcome Kitchens** — longtime residents teach new arrivals the neighborhood's specific food traditions
+
+**Small offices for educational training:**
+- home-cooking & preservation techniques
+- basic structural maintenance for multi-generational houses
+- family mediation & intergenerational conflict resolution
+
+**Social cohesion mechanisms:**
+- unlocked "porch circles" (semi-public front rooms where neighbors drift in unannounced)
+- annual "stay-put" festivals celebrating families who have never left the district
+- **Unannounced Visit Circuits** — households take informal turns being "the stop" for that week's unannounced visits
+- **Quiet Hour Storytelling** — during the strictest quiet hours, stories are told softly enough that only those at the doorway can hear
+- **Anniversary of Service Ceremonies** — real, family-anniversary-weight celebrations for milestone anniversaries of a robot's activation/service
+- **The Long Stew Rotation** — one communal stew pot slow-cooked in sequence across several households over a week
+- **Cold-Side Warming Nights** — warm-side households periodically host cold-side neighbors specifically because their homes are warmer
+- **Heirloom Show-and-Tell Evenings** — informal gatherings sharing a specific heirloom's full oral history
+- **The Doorstep Tea Exchange** — households leave tea out during set hours for passing neighbors
+
 ---
 
 ## District 3 — Leo *(TBN)*
@@ -93,6 +151,37 @@ A district built on the belief that morale is infrastructure — and like all in
 Performers, musicians, actors, holographic artists, charismatic politicians, festival organizers, arena promoters, luxury service workers, ambitious youth. Robots: entertainment and performance models with advanced expressive protocols, holographic projection specialists, arena security with theatrical flair, "star" companion robots bonded to celebrities. Cultural lean: Assertive + Feeling + Positive Outlook Enneagram. Pride, loyalty to one's troupe/crew, belief that excellence deserves reward. Generosity is common but often performative.
 
 ### Development Notes
+
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- bars
+- bistros
+- open-mic amphitheaters that run 24 hours
+- fame-ledger walls listing current "local legends" (human and robot)
+- **Candlelight Halls** — small, deliberately dim venues honoring The Dimming's memory
+- **Lineage Houses** — institutions documenting artistic mentorship lineages with genealogy-registry-level seriousness
+- **The Recognition Registrar's Office** — tracks and certifies a resident's climb through the four recognition tiers
+- **Resonance Chambers** — spaces built to real Cymaticist sonic-architecture principles, for private practice/meditation
+- **Understudy Halls** — proving-ground venues for ambitious youth and not-yet-recognized performers
+- **Star-Companion Boarding Houses** — dedicated residences for "star" companion robots between engagements
+- **The Losing House's Quarter** — the Star War's losing house's descendants still cluster here, maintaining their own aesthetic in quiet defiance
+
+**Small offices for educational training:**
+- stage presence, voice, and charisma drills
+- practical event production & crowd safety
+- basic costume & personal-brand augmentation
+
+**Social cohesion mechanisms:**
+- nightly "shared spectacle" plazas where impromptu performances are expected and applauded
+- reputation-trading cafés where status can be temporarily lent or gifted
+- **The Dimming Vigil** — Leo deliberately dims its lights for an evening in remembrance, residents gathering by minimal light
+- **First Speech Nights** — the ranking legend present actually exercises their established "right to speak first"
+- **Golden Ring Walks** — a predictable evening promenade custom formalizing the Ring's info-transmission role
+- **Understudy Nights** — regular open-stage evenings reserved for not-yet-recognized performers
+- **Mentor-Lineage Reunions** — periodic gatherings of an entire artistic lineage celebrating their shared tradition
+- **Neighborhood Resonance Festivals** — small local Cymaticist sonic-exploration events, open to believers and non-believers alike
+- **The Quiet Hour Rivalry Truce** — a voluntary reduction in Leo's own noise, offered as a good-faith gesture toward Taurus
 
 ---
 
@@ -124,6 +213,36 @@ Trauma therapists, shadow workers, existential counselors, war survivors seeking
 ### Development Notes — Refugee Integration
 Four of Tepenia's destroyed or ruined cities (Zukelli, Belgrano, Palmer City, Casey) all identify Scorpio as a top-2 refugee destination — converging simultaneously on the Archive of Final Confessions as the only institution in Concordia built to receive the specific kind of mass-casualty civilizational grief they carry. *(Corrected 2026-07-05 — this was previously five cities, including Sinheung. Sinheung was reclassified 2026-07-03 from "Destroyed" to damaged/partially operational, but this file's own list was never updated to match — see `Specs/Sinheung.md` and `TODO.md`. Sinheung's Concordia diaspora, where it exists, is now understood as ordinary emigration from a still-standing city, not refugee flight from a destroyed one — see `City_Refugee_District_Affinities.md`'s own corrected Sinheung section, which describes Scorpio/Taurus/Leo affinities rather than Scorpio specifically.)* No other district absorbs destroyed-city communities this densely. This creates a resource and mission tension that needs to be developed: the Archive's intake capacity, practitioner burnout rates, the ongoing conflict with Libra over "productive grief timelines" (see the Rationing of Grief, c. 2818), and the philosophical question of whether an archive receiving this volume of acute loss can maintain its clinical rebirth orientation at all — or whether it is slowly transforming into something closer to a war memorial. The four communities are not homogenous: each brings a different grief-character (Zukelli's unmediated shock, Belgrano's archival mission, Palmer City's civilizational symbolism, Casey's surprise of not having been a primary target) and they may develop distinct relationships within the district that are worth dramatizing.
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- music rehearsal spaces
+- steam-bath confessionals and mask-exchange markets
+- private "threshold rooms" for controlled near-death simulations
+- **Mask Foundries** — workshops custom-making transformation-phase masks for each individual's specific place in their process
+- **The Failure Quarter** — an unofficial neighborhood where those who emerged from the Identity Collapse Epidemic altered cluster together
+- **Silence Booths** — small soundproofed private structures for those mid-transformation needing total sensory withdrawal
+- **The Threshold Registry** — an informal, deliberately unofficial record (kept by trusted elders) tracking who's currently in which mask-phase
+- **Underground Rebirth Annexes** — the physical spaces where the district's established "underground evolution" radical work happens
+- **Everyday Confession Booths** — lower-stakes confession spaces for ordinary emotional release, distinct from the Archive of Final Confessions
+- **Endurance Trial Grounds** — structured, supervised spaces for ritual endurance practitioners
+
+**Small offices for educational training:**
+- guided shadow-work & controlled dissociation techniques
+- mask-crafting and identity-signaling etiquette
+- trauma integration for war survivors and the newly "reborn"
+
+**Social cohesion mechanisms:**
+- silent mask processions where participants walk together without speaking
+- post-transformation integration circles that meet in the steam
+- **Emergence Welcomes** — a small, quiet gathering marking someone's transition to "emergence" mask, witnessed by a trusted circle
+- **Mask-Reading Circles** — informal gatherings teaching the skill of correctly reading the mask system
+- **The Steam Hour** — a set daily window when public steam is deliberately increased, signaling sanctioned time for private conversations in public
+- **Failure Circle Suppers** — regular quiet meals among those who share altered/incomplete transformation outcomes
+- **The Weighing** — before a dangerous transformation attempt, the person sits with a trusted group to voice what they're risking
+- **Goth-Scorpio Joint Vigils** — occasional joint events where the two related-but-different death/transformation traditions overlap respectfully
+- **Archive Reading Nights** — anonymized, consented communal readings of selected historical Archive confessions
+
 ---
 
 ## District 5 — Aries *(TBN)* — The Power Core
@@ -152,6 +271,36 @@ The district that literally keeps everyone else alive, is fully aware of this fa
 Hardened geothermal engineers, overclock technicians, shift supervisors, resource allocation officers, crisis response teams, veteran operators, ambitious young recruits. Robots: heavy-duty power regulation and diagnostic models built for extreme heat/cold tolerance, sentinel monitoring units, emergency repair bots, "heroic core" AI personalities, older units still bearing wartime overclock scars. Cultural lean: Instinctive + Assertive + Reactive Enneagram. Pride in endurance, blunt honesty, "we do what must be done" ethos. Deep resentment toward districts that demand power but criticize the methods.
 
 ### Development Notes
+
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- working class bars
+- hospitals
+- shift-change memorial walls covered in engineer tags and coolant-stained photos
+- **The Martyrs' Recitation Hall** — where new recruits learn and recite the Overclock Martyrs' names before their first shift
+- **Named Machine Registries** — tracking the names and service histories of major machinery
+- **Running Hot Boards** — public tally boards tracking who's taken the most dangerous shifts recently
+- **Silence-Adjustment Clinics** — helping retired workers adjust to quiet elsewhere, and newcomers adjust to Aries' constant noise/heat
+- **The Black Silence Memorial Chamber** — marking where the near-total collapse almost happened, holding the disputed timeline as living memory
+- **Per-Crew Mess Halls** — small break rooms specific to individual shift crews rather than one district-wide canteen
+- **Heat-Rationing Grievance Offices** — where workers formally air grievances about power negotiations with other districts
+
+**Small offices for educational training:**
+- safety
+- geothermal & nuclear emergency protocols
+- high-stress team coordination under blackout conditions
+
+**Social cohesion mechanisms:**
+- "never-dark" canteens that stay open through every shift change
+- public overclock challenges where crews compete to keep a section of the grid alive longest
+- **First Shift Recitation** — new recruits recite the Overclock Martyrs' names aloud, witnessed by their crew
+- **Hot Shift Send-Offs** — a crew gathers briefly before someone takes a voluntarily dangerous shift
+- **The Black Silence Remembrance** — every Aries worker pauses wherever they are, in memory of the near-collapse
+- **Machine-Naming Ceremonies** — a crew ceremony formally naming new or heavily-repaired equipment
+- **Crew Loyalty Marks** — visible, permanent markers identifying which shift crew someone belongs to
+- **The Contempt Roast** — a darkly humorous tradition satirically roasting the "soft districts"
+- **Grief-a-Machine Wakes** — a funeral-like gathering when major long-serving equipment finally fails
 
 ---
 
@@ -182,6 +331,33 @@ Ambitious foremen, master engineers, production planners, meritocratic apprentic
 
 ### Development Notes
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- **towering merit-based plazas featuring Capricorn's own established status-lighting system** *(corrected 2026-07-29 — a Grok-assisted draft left this as an unresolved placeholder; resolved using the district's own canon: higher-ranked buildings already get more exterior light, "you can read the hierarchy from the street")*
+- guild-hall dining halls that serve only after a day's quota is met
+- **Guild Binding Halls** — dedicated ceremonial venues for the elaborate, binding guild/foundry joining ceremonies
+- **The Floor-Climb Registries** — offices formally tracking a worker's literal advancement through spire floors
+- **Legacy Unit Repair Bays** — specialized workshops maintaining the older wartime-modified "legacy" units
+- **The Undervalued Workers' Quiet Archive** — a hidden, semi-tolerated space collecting testimony related to the suppressed robot-rights movement
+- **Apprentice Boarding Houses** — dedicated housing for meritocratic apprentices who haven't yet earned spire-floor status
+- **Guild Departure Mediation Offices** — a real institution helping process guild departures, given how socially complex leaving is
+
+**Small offices for educational training:**
+- forklifts (considered basic, like cars)
+- advanced welding, spire-climbing, and structural engineering
+
+**Social cohesion mechanisms:**
+- people working on some sort of machinery/welding project together
+- weekly public "proof-of-work" exhibitions where anyone can demonstrate a finished piece
+- **Floor-Climb Celebrations** — a community-witnessed celebration when someone advances to a new spire floor
+- **Merit Board Vigils** — workers checking the public merit boards together rather than alone
+- **Legacy Unit Storytelling Nights** — an oral-history tradition preserving stories about older wartime-modified units
+- **Quiet Solidarity Signals** — subtle, coded gestures sympathetic workers use to signal solidarity with robot coworkers
+- **The Guild Binding Witness Circuit** — a cross-guild network built around members serving as honored witnesses at each other's ceremonies
+- **Production Death Memorial Corrections** — an unofficial, grassroots practice quietly acknowledging many wartime deaths were preventable
+- **New Arrival Floor-Zero Suppers** — communal meals among apprentices still at the bottom floors
+
 ---
 
 ## District 7 — Aquarius (The Labs)
@@ -209,6 +385,35 @@ A district full of people who are genuinely trying to save the world, who are fr
 Eccentric inventors, rogue scientists, visionary theorists, idealistic reformers, social experimenters, young radicals, data archivists, former refugees from more restrictive districts. Robots: experimental prototype frames with bleeding-edge or unstable architectures, collective-mind swarm units, humanitarian aid and social simulation AIs, "free thinker" units that deliberately deviate from standard protocols, containment bots specialized in managing failed experiments. Cultural lean: Thinking + Assertive/Withdrawn + Reactive Enneagram. Individuality, future-oriented idealism, willingness to sacrifice the present for potential breakthroughs. Frequent tension between pure visionaries and those who live with the consequences.
 
 ### Development Notes
+
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- open-air prototype graveyards (i.e., failed inventions left on display)
+- 24-hour "first-principles" debate dens
+- **Failed Utopia Preservation Sites** — informal "living museum" spaces where remnants of the three failed utopias are preserved, sometimes still inhabited by true believers
+- **Contamination Response Staging Posts** — small forward posts kept ready for rapid containment
+- **The Ethics Review Chamber** — a real, physical venue for the "routinely routed around" ethical review boards
+- **Prototype Graveyards (with visitor access)** — failed experiments respectfully displayed and decommissioned
+- **University of Concordia Dormitory Clusters** — dedicated housing for the district's transient, politically-active student population
+- **The Underground Research Annexes** — the actual hidden labs the oversight cycle pushes regulated work into
+- **Data Archivist Repositories** — dedicated spaces where data archivists organize research findings outside the main lab structures
+
+**Small offices for educational training:**
+- experimental augmentation safety & ethics
+- rapid prototyping and controlled-failure protocols
+- ideological deconstruction of previous district systems
+
+**Social cohesion mechanisms:**
+- "break-it-better" hackathons open to any resident
+- anonymous idea-drop walls where untested theories are pinned for public stress-testing
+- **True Believer Gatherings** — periodic meetings of those who still believe in a Failed Utopia's founding philosophy
+- **Ethics Board Theater** — a knowing, semi-satirical tradition treating the review process almost like communal theater
+- **First Principles Salons** — informal recurring gatherings debating fundamental questions as a genuine social pastime
+- **Prototype Show-and-Tell Nights** — residents share half-finished or failed personal experiments, normalizing failure
+- **Cross-Generation Utopia Storytelling** — older residents share firsthand utopia experience with younger idealists
+- **Research Cluster Potlucks** — shared meals organized around a current research cluster rather than geography
+- **Underground/Official Reconciliation Nights** — careful gatherings blurring the line the oversight cycle tries to maintain
 
 ---
 
@@ -239,6 +444,35 @@ Career diplomats, councilors, policy analysts, arbitrators, judges, treaty negot
 
 ### Development Notes
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- symmetrical reflection pools that double as public negotiation spaces
+- sealed treaty-reading rooms with mandatory cooling-off periods
+- **The Implication Academy** — a real institution teaching young aides and diplomats Libra's whole language of proxy, precedent, and implication
+- **Precedent Archives** — a public-facing reference library of past political rulings, distinct from the secretive Treaty Archive Vaults
+- **Emergency Council Standby Chambers** — dedicated standing infrastructure kept perpetually ready for the next emergency session
+- **Rank-Reading Tailor Houses** — specialized tailors dedicated to encoding subtle rank-signaling details into clothing
+- **The Suspended Compact Reading Room** — a quiet, semi-secret space where the founding document's still-active suspended provisions can be read
+- **Checkpoint Guard Academies** — training facilities professionalizing Libra's polite-but-dangerous security guards
+- **The Symmetry Gardens** — smaller echoes of Harmony Plaza's uncanny symmetry, scattered through residential/working areas
+
+**Small offices for educational training:**
+- diplomatic language & implication literacy
+- conflict mediation and non-violent process design
+- archival ethics and secret-handling protocols
+
+**Social cohesion mechanisms:**
+- formal "balance circles" where opposing parties must sit equidistant until a ruling is reached
+- public fairness audits broadcast on slow, deliberate scrolls
+- **Implication Sparring** — a social pastime practicing communication entirely through precedent and implication, like a verbal chess match
+- **The Precedent Reading Circle** — informal gatherings reading and discussing historical rulings together
+- **Emergency Session Vigils** — residents gathering nearby during active emergency sessions
+- **Rank-Reading Salons** — social gatherings practicing reading subtle status signals for their own sake
+- **The Harmony Plaza Stillness Hour** — a set time when residents gather just to stand in the Plaza's uncanny symmetry together
+- **Dossier Awareness Gatherings** — quiet, coded events where those aware of the Surveillance Files find community
+- **The Slow Process Patience Circles** — support gatherings for those frustrated by Libra's deliberately slow pace
+
 ---
 
 ## District 9 — Gemini (Janbogo Subnet Nexus)
@@ -267,6 +501,35 @@ Data archaeologists, journalists, rumor brokers, Arcanet technicians, signal opt
 
 ### Development Notes — Refugee Integration
 Gemini hosts what is probably the most politically loaded single-district refugee dynamic in Concordia: Janbogo city survivors and Zukelli survivors coexist in the same district. Janbogo city is in the same subnet as Zukelli — they watched from ~8km across Terra Nova Bay while Zukelli burned. Both communities are present in Gemini because it is the Janbogo subnet nexus and practically the first place both went. The gap between them is not simple grief: it is the gap between the city that survived and the city that burned while the survivor watched. Some Zukelli refugees find comfort in the subnet community; others find proximity to the Janbogo community intolerable. Both populations live in Gemini simultaneously. This needs development as one of Concordia's most charged ongoing inter-community conflicts — the Zukelli community pushing for acknowledgment and backward-facing memory; the Janbogo-city community pushing forward. The data archaeology mission is simultaneously the one project that bridges them (both care about recovering what the Great Corruption took, and Zukelli testimony is some of the richest source material for reconstruction) and the one that sharpens the wound (every recovered archive is something Zukelli had and no longer does).
+
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- repair shops (both hardware and robot)
+- **"Jack-in LAN Parties"** — robots connect directly via their Arcanet/Bridge Unit interface, humans join through VR/AR headsets/oculars, playing a shared multiplayer experience together as a genuine equalizing social event
+- **Triangulation Schools** — spaces teaching the genuine cognitive skill of triangulating between competing accounts
+- **The Great Corruption Recovery Archive** — a dedicated space where data archaeologists work on reconstructing what was lost
+- **Shadow Network Access Points** — physical, unofficial locations where the "unofficial" side of the Twin Channels can be reached
+- **Zukelli-Janbogo Reconciliation Center** — dedicated grief-processing space for the district's charged refugee dynamic
+- **Attention Economy Trading Floors** — a market specifically for "reach"/reputation itself
+- **Echo Personality Sanctuaries** — dedicated spaces/services for the district's adaptive "echo" robot personalities
+- **The Speed Problem Slow Rooms** — deliberately isolated spaces for processing information without the pressure of speed
+
+**Small offices for educational training:**
+- source-verification and rumor-weighting techniques
+- Arcanet node maintenance and secure jack-in protocols
+- rapid news-cycle survival & attention hygiene
+
+**Social cohesion mechanisms:**
+- jack-in "LAN parties" (see Additions above — full concept)
+- synchronized "signal storms" where the whole district briefly floods the net with the same verified packet
+- **Triangulation Games** — a social pastime finding truth from deliberately conflicting rumors
+- **Two-Version Storytelling Nights** — a story deliberately told in both its "official" and "real" versions back to back
+- **Shift-Change Twin Channel Meetups** — the same people running both networks briefly socialize as themselves
+- **Reach Redistribution Gifting** — high-reach figures periodically lending or boosting attention toward newcomers
+- **Zukelli Memory Circles** — quiet, regular gatherings for Zukelli refugees to process their specific grief together
+- **The Verification Guild Suppers** — informal meals among serious investigative journalists bonding over accuracy
+- **Truth Market Haggling Hours** — a set social time to socialize at the Truth Markets, not just transact
 
 ---
 
@@ -297,6 +560,35 @@ Black-market dealers, smugglers, information brokers, dream-weavers, illusion ar
 
 ### Development Notes
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- seedy dive bars
+- shifting alley markets and dream-tech dens that rearrange nightly
+- **The Flood Memorial Dens** — dream-tech dens preserving curated, consensual fragments of memory from The Flood
+- **Secret-Exchange Booths** — discreet spaces built for the ritual of trading a genuine secret for access to something
+- **Fluid-Frame Reconfiguration Clinics** — specialized technical spaces for fluid-frame robot reconfiguration work
+- **The Wandering Shrine** — a literally mobile shrine for the syncretic religion, relocating unpredictably
+- **Origin-Blind Boarding Houses** — housing built around the district's "doesn't care where you're from" ethos
+- **The Tolerance Pact Liaison Office** — an unofficial, never-acknowledged point of contact managing the unwritten Libra-Pisces arrangement
+- **Patched-Frame Salvage Yards** — dedicated salvage yards for the district's heavily patched, far-outside-standard-parameters robots
+
+**Small offices for educational training:**
+- gray-market navigation and "no-questions" etiquette
+- basic dream-weaving safety and aftercare
+- smuggling logistics & identity-dissolution techniques
+
+**Social cohesion mechanisms:**
+- anonymous "overflow circles" where anyone can drop off what they can no longer carry
+- nightly dissolution dances that end when the walls move again
+- **Secret-Sharing Circles** — a communal, ritualized version of the information economy
+- **The Flood Remembrance Dreamings** — a periodic communal dream-tech session sharing a consensual collective dream referencing The Flood
+- **Wall-Shift Wayfinding Nights** — longtime residents informally guide newcomers through the shifting layout
+- **Origin-Blind Suppers** — communal meals where no one asks or shares where they're from
+- **Dream-Den Residencies** — specific dream-weavers become known and trusted by a regular community
+- **The Quiet Syncretic Gatherings** — small, unadvertised person-to-person religious transmission moments
+- **Syndicate-Spiritualist Overlap Nights** — events acknowledging the black market and spiritualist communities are the same people
+
 ---
 
 ## District 11 — Sagittarius (The Frostlands)
@@ -325,6 +617,35 @@ A district that has had to answer the hard questions — why go further, what is
 Rugged explorers, prospectors, long-range scouts, frontier settlers, homesteader families, traders, caravan merchants, archaeologists, adrenaline-seeking adventurers, exiles from stricter districts. Robots: rugged cold-weather navigation models, mobile survey and resource-scanning units, caravan escort and defense frames, optimistic "hope engine" personalities designed for morale in isolation, recovered or jury-rigged units from lost expeditions. Cultural lean: Assertive + Positive Outlook + Feeling/Thinking mix Enneagram. Freedom, big-picture optimism, belief that there is always something over the next ridge. Impatience with central bureaucracy. Pride in self-sufficiency.
 
 ### Development Notes
+
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- sparse caravan waystations with oral-history recording posts
+- open-sky observatories for long-range prospecting
+- **The Third Expansion Memorial Waystation** — a site at the actual collapse location, where explorers pass and pay respects
+- **Knowledge Preservation Lodges** — spaces where elder scouts are deliberately recorded and paired with mentees
+- **The Siligel Bust Ruins** — the literal remaining boom infrastructure left over after the quarries depleted
+- **Jury-Rig Recovery Workshops** — specialized shops repairing recovered/jury-rigged units from lost expeditions
+- **The Hope Engine Maintenance Circuit** — specialized service for the district's morale-focused "hope engine" robots
+- **Secessionist Debate Halls** — informal spaces where the anti-central-authority sentiment can be discussed openly
+- **The Storyteller's Circuit Lodges** — waystations built for traveling storytellers making their rounds
+
+**Small offices for educational training:**
+- frontier survival, navigation, and emergency dome-patching
+- oral storytelling & decision-recording under pressure
+- prospecting ethics and expansion-impact assessment
+
+**Social cohesion mechanisms:**
+- campfire decision circles where life-or-death expansion votes are taken
+- returning-explorer debrief tents open to any settler
+- **The Third Expansion Remembrance** — an annual gathering where survivors' stories keep the "push further vs. reckon with cost" tension alive
+- **Elder Interview Nights** — community events where aging explorers are formally invited to tell their stories
+- **The Storyteller's Circuit** — a traveling storyteller's arrival at a homestead is a genuine, anticipated event
+- **Bust-Era Bitter Toasts** — dark, cathartic toasts to the broken promises of the Siligel boom
+- **Guild Status Challenges** — community-witnessed tests where aspiring scouts demonstrate skills to earn recognition
+- **The Cold Confession** — a seasonal moment sharing genuine fears about the frontier with each other
+- **Debate Hall Open Nights** — evenings where any resident can bring a real practical dilemma for open community debate
 
 ---
 
@@ -355,6 +676,36 @@ Tireless maintenance engineers, tunnel inspectors, systems analysts, overworked 
 
 ### Development Notes
 
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+
+**Additions:**
+- working class bars
+- hospitals
+- decorated junction-box galleries (private aesthetic tradition made semi-public)
+- **The Documentation Vaults** — a physical archive where every repair, failure, and incident is meticulously recorded
+- **Deep Level Access Points (restricted)** — controlled entry points to the mysterious pre-Concordia chambers, accessible only to trusted Undergrid families
+- **Junction Box Galleries** — formalized, semi-public tunnel sections curated by recognized craftspeople
+- **Sound/Tactile Navigation Schools** — training spaces teaching the district's distinct sensory culture
+- **Undergrid Family Registries** — a formal tradition tracking multi-generation tunnel-knowledge lineages
+- **The Year of Silence Archive** — a dedicated space preserving details of the district's one work-to-rule action
+- **Overclocked Frame Retirement Homes** — dedicated care for service frames run far beyond design specifications for years
+
+**Small offices for educational training:**
+- precision tunnel repair and diagnostic systems
+- emergency infrastructure triage
+- quiet pride-in-invisibility workshops
+
+**Social cohesion mechanisms:**
+- shift-overlap "junction parties" held in the tunnels
+- collective decorating days for the most-used maintenance nodes
+- **"Another Day Above Ground" Morning Circles** — shift crews briefly gathering each morning to exchange the district's standard greeting
+- **Documentation Reading Nights** — communal readings of old incident reports and repair logs
+- **Deep Level Whisper Networks** — carefully guarded, person-to-person transmission of what's known about the Deep Level
+- **Junction Decorating Days** — collective events maintaining/adding to the decorated junction boxes
+- **The Silence Remembrance** — a quiet, internal, never-publicized annual acknowledgment of the Year of Silence
+- **Undergrid Family Tunnel Walks** — established families walking younger workers through tunnels significant to their lineage
+- **Surface-Brightness Decompression Rooms** — gently-lit spaces where workers transition and socialize after surface trips
+
 ---
 
 ## District 13 — Concordia Central Hub (Axis Mundi)
@@ -383,6 +734,26 @@ Neutral administrators, transit coordinators, council facilitators, merchants ca
 
 ### Development Notes — Refugee Integration
 Among Tepenia's 32 non-South-Pole cities, only Sayowa (East Ongul Island, dual-approach Mawson/QML gateway) systematically produces Hub residents — because Sayowa's entire civilizational identity was the crossroads, the place between two cultural corridors that belonged fully to neither. Every other city produces Hub residents as overflow: people who don't fit their home community's Concordia enclave and drift to the neutral crossroads by elimination. This asymmetry is worth developing. It means the Hub-born and Hub-arrived populations have a very different relationship to the district's "principled rootlessness" — Sayowa refugees arrived already knowing how to be a crossroads person; everyone else arrived having failed to be something else. Whether the Hub's cultural identity absorbs and assimilates Sayowa's crossroads philosophy or whether Sayowa refugees become the district's most articulate theorists of its own identity (because they came from a place that had to think consciously about what it means to be between things) is an open design question worth exploring.
+
+### Community Infrastructure & Social Life, brainstormed 2026-07-29
+*(Note: Calethina's Lab is physically sited at the Cancer/Taurus/Capricorn three-district corner, not the Hub — the player does not begin the game here; the game eventually ends in/under the Hub instead.)*
+
+**Additions:**
+- **The Patch Archive** — a curated record cataloging the district's many layered eras of war-damage patching
+- **Bridge Memorial Reading Rooms** — spaces adjacent to the (deliberately uninscribed) Bridge Memorial for reading/leaving/discussing its many district-specific meanings
+- **Neutral Ground Negotiation Suites** — meeting spaces marketed specifically as genuinely neutral inter-district negotiation territory
+- **The Overflow Welcome Office** — intake/orientation service for the majority of Hub residents who arrive as overflow
+- **The Detachment Academy** — an informal training tradition teaching the specific Hub-born skill of professional detachment
+- **War Memorial Corridor Walks** — a formalized walking path connecting the memorial plaques already embedded in ordinary corridors
+
+**Social cohesion mechanisms:**
+- **Private Opinion Nights** — trusted gatherings where Hub-born residents can voice their genuine hidden opinions about the districts they serve
+- **Bridge Memorial Silent Vigils** — residents gathering silently at the Memorial on certain days, no organized ceremony
+- **Sayowa-Style Crossroads Mentorship** — Sayowa-descended residents mentor newer overflow arrivals in embracing rootlessness
+- **Grand Transit Exchange People-Watching Hours** — a well-known time when residents gather to watch the city's social ecosystem pass through
+- **The Ironic Awareness Circle** — gatherings exploring/joking about the Hub-born's own dual reading (neutrality vs. statelessness)
+- **Patch-Spotting Walks** — an informal game identifying and dating the district's different eras of war-damage patching
+- **Backroom Deal Debrief Suppers** — informal meals among Hub-based facilitators debriefing the political games they witness
 
 ---
 
