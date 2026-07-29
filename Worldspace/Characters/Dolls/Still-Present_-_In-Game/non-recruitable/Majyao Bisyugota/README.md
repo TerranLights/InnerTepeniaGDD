@@ -6,7 +6,7 @@
 **Primary Location(s):** Taurus (residential district)
 **Affiliation(s):** Independent; neutral community institution
 **Companion Potential:** No — NPC
-**Romanceable:** Yes
+**Romance Potential:** Yes — confirmed romanceable, non-recruitable; stat thresholds confirmed: Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Demagogue — more may be added later, see her own "Romance — Forbidden Traits" section below; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -68,6 +68,31 @@ See `Personal_Background/` for details as they develop.
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28 — in progress, not yet finalized.** See `Core-Mechanics/Companion_System.md`'s
+"Forbidden Traits" section for how the general mechanic works (a permanent character-creation choice, not a
+growth gate — no amount of stat investment, Intense Training, or implant work can undo it, and it overrides
+the standard MACHINE stat-gate dialogue entirely in-engine).
+
+**Majyao's forbidden trait so far: Demagogue.** Her defining fear is being *charmed* rather than *truly
+seen* — she extends warmth to every patron, so warmth alone means nothing to her, and her whole 5-wing draw
+is toward people offering genuine depth. Demagogue's core identity — "a performer of conviction rather than a
+genuine holder of it" — is close to a literal definition of what she means by "charmed." Narrative Ghost was
+also considered (a professional manipulator being the same category of "charming patron" she's trying to see
+past) but the developer wasn't convinced it was precise enough to include — left off her list.
+
+**A new, not-yet-finalized trait is also under consideration for her** — working title "Broad Strokes"
+(`Character-Creation/Traits.md`), representing someone constitutionally oblivious to small details
+(hidden objects, subtle discrepancies) regardless of Investigation stat, directly opposing her 5-wing's need
+for a patron who notices specific things (e.g., "the gap where Blood River Tea used to be"). Held and flagged
+— its bonus side is still undecided (three candidates floated: Speech, Survival/Outdoorsman, or a combat-
+initiative bonus) — revisit once that trait is finalized to decide whether it's added to her list too.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"You're very easy to listen to. I don't think that's the same as having anything to
+say."*
 
 ## Design Notes & Open Questions
 - **Romance stat thresholds:** Humanity ≥ 7 (primary), Investigation ≥ 6 (secondary), Calculation ≥ 6 (tertiary). Full romance design in Companion_System.md.

@@ -8,7 +8,7 @@
 **Primary Location(s):** Thermal Distribution Junction 12 (first meeting); Capricorn (TBN) district (home territory)
 **Affiliation(s):** Independent maintenance crew; Capricorn industrial maintenance network (informal)
 **Companion Potential:** Yes — first recruitable companion; confirmed romanceable
-**Romance Potential:** Yes — confirmed; stat/trait thresholds TBD pending Phase 3 personality design
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Calculation ≥ 6, Engine ≥ 5; forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Cut Losses, Narrative Ghost, Demagogue; full romance beat design in Companion_System.md
 
 ## Core Identity
 
@@ -172,6 +172,32 @@ See `Questlines/Personal_Questline_Summary.md` for the full broad-scope writeup,
 
 - Key connections: Her repair crew (names TBD); Capricorn maintenance network; Calethina (Flora knows of her, is not particularly reverent)
 - Dialogue / quest hooks: High Engineering or Thermal skill checks in Capricorn (TBN) areas trigger specific reactions; district trust levels affect her willingness to share information she's picked up through maintenance work
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Flora's forbidden traits: Cut Losses, Narrative Ghost, Demagogue.**
+- **Cut Losses** — Gate 3 beat 1 explicitly tests whether the player protects her crew at real cost, without
+  fanfare. A player mechanically wired to prioritize self-preservation over loyalty fails this structurally,
+  the same core reason it's forbidden for Favi (also a 6w5).
+- **Narrative Ghost** — her honesty test (Gate 3 beat 2) is literally about detecting the polished/performed
+  answer versus the true one. A defining deceiver directly undermines the exact thing she's testing for.
+- **Demagogue** — her stated suspicion isn't about hidden secrets (Narrative Ghost's territory); it's
+  specifically about grand gestures read as performance — closer to Demagogue's core identity (performing
+  conviction for effect) than to covert information-extraction.
+
+**Production note:** Demagogue's bonus depends on the game containing enough crowd/group-address content —
+already flagged in `TODO.md`, now relevant beyond just Trisha's case. Cut Losses and Narrative Ghost don't
+carry this risk; their bonuses trigger off systems (combat encounters, NPC dialogue) that are already
+broadly available everywhere.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"I've watched people perform being solid right up until it mattered. I'm not
+interested in finding out which one you are the hard way."*
 
 ## Design Notes & Open Questions
 

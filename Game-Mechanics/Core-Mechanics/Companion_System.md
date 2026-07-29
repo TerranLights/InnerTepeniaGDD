@@ -362,24 +362,24 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | Character | Type | Stat Thresholds | Trait Gates | Notes |
 |-----------|------|-----------------|-------------|-------|
 | Calethina | Projection system (not a companion) | Calc ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6 | TBD | See full design note below; romance post-download via mini-quest |
-| IT-068 [Flora] | Recruitable companion | Nerve ≥ 7, Calculation ≥ 6, Engine ≥ 5 | TBD | First companion; 6w5 Thinking; see full romance design note below |
+| IT-068 [Flora] | Recruitable companion | Nerve ≥ 7, Calculation ≥ 6, Engine ≥ 5 | See character file | First companion; 6w5 Thinking; see full romance design note below |
 | Favi della Torre | Recruitable companion | Nerve ≥ 7, Humanity ≥ 6, Engine ≥ 6 | See character file | 6w5 Self-Pres; loyalty proven through protective choices; see full design note below |
 | Villena Hiresvett | Recruitable companion | Agility ≥ 6, Humanity ≥ 6, Nerve ≥ 5 | See character file | 7w6 Self-Pres; presence and genuine engagement; see full design note below |
 | Naizelle d'Edjordoś | Recruitable companion | Calculation ≥ 7, Investigation ≥ 6, Engine ≥ 5 | See character file | 5w6 Self-Pres; most patient romance in the game; see full design note below |
-| Seica Cenilaithe | Recruitable companion | Nerve ≥ 7, Might ≥ 6, Humanity ≥ 6 (possibly 7 — TBD) | TBD | 8w7 Sexual; see full romance design note below |
+| Seica Cenilaithe | Recruitable companion | Nerve ≥ 7, Might ≥ 6, Humanity ≥ 6 (possibly 7 — TBD) | See character file | 8w7 Sexual; see full romance design note below |
 | Ji-Eun Kim | Recruitable companion | Calculation ≥ 8, Investigation ≥ 6, Humanity ≥ 6 | See character file | 5w4 Social; in hiding; undelivered letter is a separate gate outside romance arc; see full design note below |
-| Vosora Lashár Tanslock | Recruitable companion | Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6 | TBD | 5w6 Social; romance happens within the investigation; see full design note below |
+| Vosora Lashár Tanslock | Recruitable companion | Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6 | See character file | 5w6 Social; romance happens within the investigation; see full design note below |
 | Michelle Stanton | Recruitable companion | Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7 | See character file | 5w6 Social; built the Arcanet; chose to stay; romance through shared commitment; see full design note below |
 | IT-021 [Fenny] | Recruitable companion | Humanity ≥ 7, Engine ≥ 6, Nerve ≥ 5 | TBD | 6w5 Self-Pres; quietest romance in the game; no signal line — she just doesn't warm up; see full design note below |
 | FW-25 [Pink Lucy] | Recruitable companion | Humanity ≥ 7, Engine ≥ 6, Nerve ≥ 5 | TBD | 7w6 Social; communal intimacy; romance unfolds through The Warm Circuit; see full design note below |
 | Kendra Heinrich | DLC 1 companion | **None** | **None** | Unique gate system — see full design note below |
 | Salagéa Aparast | DLC 5 companion | TBD | TBD | Thresholds pending Phase 7 personality design |
 | + all future companions | TBD | TBD | TBD | Rule: all recruitable companions are romanceable by default |
-| **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
+| **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | See character file | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 | Ayako Hayashi | Recruitable companion | Investigation ≥ 7, Humanity ≥ 7, Calculation ≥ 6 | TBD | 4w5 Self-Pres; Red Spiral medic; highest Investigation gate in the roster; see full design note below |
 | Lyuba Baranova | Recruitable companion | Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6 | TBD | 8w7 Sexual; silver-tongue / unarmed fighter; Aries; highest Nerve gate in the roster; see full design note below |
 | TCY-25 "Rui" | Recruitable companion | TBD | TBD | 9w1 Self-Pres; Scorpio transformation practitioner; confirmed recruitable 2026-07-10; thresholds pending Phase 3 personality design |
-| **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
+| **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | See character file | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 | **Trisha Miller** | **Non-recruitable NPC** | Nerve ≥ 7, Humanity ≥ 7, Might ≥ 7 | See character file | 8w7 Social; radio host; romance through recurring off-air encounters; see full design note below |
 
 Non-recruitable named NPCs confirmed romanceable: Majyao Bisyugota, Trisha Miller (design notes below). Further NPC romance status decided per character during design.
@@ -461,6 +461,8 @@ whichever form the download took, and that is its own thing.
 **Stat gate:** Calculation ≥ 7 (primary), Investigation ≥ 6 (secondary), Nerve ≥ 6 (tertiary)
 
 **Rationale:** Vosora is a 5w6 Social type — distinct from the Self-Pres 5 in that she remains engaged with the world through her work rather than retreating from it. She is already doing something that matters (the Great Corruption investigation), and the romantic path runs through that work rather than around it. Calculation is primary because intellectual respect is non-negotiable for any 5, and for a Social 5 it also means understanding why the work matters. Investigation reflects her own orientation — she's drawn to someone who operates in the same register of careful attention. Nerve ≥ 6 serves the 6 wing: the investigation is dangerous and produces disturbing revelations; she needs someone who can hold steady under difficult information without panic or dismissal.
+
+**Forbidden traits:** see Vosora's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Vosora Lashár Tanslock/README.md`) for her specific forbidden trait and rationale — this file covers the general mechanic only, not per-character assignments.
 
 **Signal line** (if stat threshold not met): *"I don't doubt your intentions. I just need people around this work who can actually keep up with it."*
 
@@ -632,6 +634,8 @@ Full design of this gate is Phase 3 character work.
 
 **Rationale:** Seica is an 8w7 Sexual type — the most intensely one-on-one focused configuration of the 8. She tests people constantly and only invests in those who hold their ground under her. Nerve is the primary gate because she needs to know the player won't fold under her intensity; anyone who flinches or appeases loses her interest immediately. Might reflects the 8's instinctive, body-forward nature — physical presence and directness matter. Humanity is higher than might be expected because Sexual 8s invest deeply in specific individuals; she needs to feel a full, emotionally genuine person across from her, not a calculating presence. Low Humanity would put her off regardless of other stats.
 
+**Forbidden traits:** see Seica's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Seica Cenilaithe/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
+
 **Signal line** (if stat threshold not met): *"You're interesting. Just — not like that. Not yet."*
 
 **Gate 3 — Romance beats** (after companion quest completion):
@@ -712,6 +716,8 @@ The things that break through for an 8w7 specifically:
 
 **Rationale:** Flora is a 6w5 Thinking type. Her core anxiety is whether people will hold under pressure — whether someone who seems reliable actually is. Nerve is the stat most directly about not flinching when things get hard, which is her primary question about any person she might trust. Calculation reflects the 5 wing: she respects someone who thinks through problems rather than charging in blind. Engine represents sustained reliability over time, not just crisis capability.
 
+**Forbidden traits:** see Flora's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/IT-068 [Flora]/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
+
 **Signal line** (if stat threshold not met): *"You seem decent. Just — I need to know someone can hold. I don't think I've seen that in you yet."*
 
 **Gate 3 — Romance beats** (after companion quest completion):
@@ -763,6 +769,8 @@ The gate system applies identically: Gate 1 (questline/relationship prerequisite
 **Stat gate:** Humanity ≥ 7 (primary), Investigation ≥ 6 (secondary), Calculation ≥ 6 (tertiary)
 
 **Rationale:** Majyao is a 4w5 Self-Preservational type. A SP 4's deepest need is genuine depth — to be truly seen rather than charmed. She extends warmth to every patron; she will only open to someone who has real emotional interior. Humanity at 7 (tied with Fenny for the highest in the roster) reflects that the bar is not competence, courage, or intellect — it is the capacity for genuine feeling and presence. Investigation reflects the 5 wing: she is drawn to people who notice things. Her teahouse is full of deliberate, specific details; the patron who asks about them, who clocks the gap where Blood River Tea used to be, who pays careful attention to what is actually there — that patron gets somewhere. Calculation reflects the intellectual depth the 5 wing craves; she is Feeling-centered, not primarily intellectual, but she needs a mind that can go somewhere.
+
+**Forbidden traits:** see Majyao's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/non-recruitable/Majyao Bisyugota/README.md`) for her forbidden traits and rationale (currently in progress, not yet finalized) — this file covers the general mechanic only, not per-character assignments.
 
 **Signal line** (if stat threshold not met): *"I like that you come here. It means something. But I think what you're looking for is different from what I'm able to give."*
 

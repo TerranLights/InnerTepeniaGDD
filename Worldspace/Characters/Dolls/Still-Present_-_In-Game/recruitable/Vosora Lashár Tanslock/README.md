@@ -8,7 +8,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency — data recovery wing; Great Corruption investigation
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Narrative Ghost; full romance beat design in Companion_System.md
 
 ---
 
@@ -141,6 +141,37 @@ See `Personal_Background/` for timeline and detailed records.
 - **Whoever is pressuring her** — undesigned; the antagonist of her questline's external pressure.
 
 ---
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Vosora's forbidden trait: Narrative Ghost.** Her entire professional life is uncovering accurate truth from
+corrupted data — a defining deceiver is a direct contradiction to that work, and her own instinct for
+detecting fake interest (she "can tell the difference between interest in her work and interest in her
+through her work") maps precisely onto Narrative Ghost's whole skill set.
+
+**Considered and set aside:**
+- **Loose Cannon** — she'd find a constitutionally impulsive personality distasteful, but it isn't a
+  dealbreaker; her Beat 3 test (respecting her compartmentalization/pacing) doesn't rise to permanent
+  disqualification the way it did for Favi/Naizelle.
+- **Demagogue** — same structural issue as Seica and Majyao: her romance is intensely one-on-one
+  intellectual partnership, not public/crowd-facing, so Demagogue's core framing doesn't map as precisely as
+  Narrative Ghost's does.
+- **Cut Losses / Hot Tempered** — neither of her beats tests protection-under-danger or combat-pressure
+  composure; her "hold steady" test (Beat 2) is about informational shock, not combat instability.
+- **"One-Way Exchange"** (a new trait surfaced during this discussion, flagged for future review in
+  `Character-Creation/Traits.md`, not yet finalized or applied to her) — an intellectual free-rider who never
+  reciprocates, distinct from Narrative Ghost's deception. Held pending resolution of a real production
+  dependency (tracking which information is NPC-given vs. self-discovered, and tagging specific "informed
+  checks" throughout the game) — revisit her sheet once that trait is finalized.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"I spend my life telling what's real from what's been altered to look real. I'm not
+about to make an exception for you."*
 
 ## Design Notes
 

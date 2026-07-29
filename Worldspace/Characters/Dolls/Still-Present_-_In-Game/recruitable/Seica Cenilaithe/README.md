@@ -8,7 +8,7 @@
 **Primary Location(s):** Scorpio (Psychological/Transformative district)
 **Affiliation(s):** Scorpio Goth community (sacred-transformation tradition, not clinical side)
 **Companion Potential:** Yes — recruitable companion
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Might ≥ 6, Humanity ≥ 6 (possibly 7 — TBD); full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Might ≥ 6, Humanity ≥ 6 (possibly 7 — TBD); forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Cut Losses, Empathic Bridge, Narrative Ghost; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -81,6 +81,34 @@ Occupation TBD. See `Personal_Background/` for details as they develop.
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Seica's forbidden traits: Cut Losses, Empathic Bridge, Narrative Ghost.**
+- **Cut Losses** — a player built to prioritize self-preservation over companion loyalty is definitionally
+  the kind of person who flinches or disengages under pressure, failing her core test (Gate 3 beat 1: hold
+  your ground when she tests you) by mechanical design, not just personality clash.
+- **Empathic Bridge** — its defining ability is a bonus to de-escalation/appeasement-style dialogue. Seica
+  explicitly names appeasement as a failure condition ("Deflection fails. Appeasement fails.") — a case where
+  a "good," kind trait elsewhere in the roster becomes precisely wrong for her specifically.
+- **Narrative Ghost** — Seica's romance depends on genuine, unfiltered truth-telling (Gate 3 beats 2 and 5); a
+  defining deceiver is a direct threat to the one-on-one authenticity her arc is built around. Distinct from
+  the Empathic Bridge failure: that one fails her "don't back down" test, this one fails her "be genuinely
+  honest with me" test.
+
+**Considered and set aside: Demagogue and Fists First.** Demagogue's violation is specifically public/
+crowd-facing insincerity, which is a less precise match than Narrative Ghost's private, individual-level
+deception, given Seica is "the most intensely one-on-one focused configuration of the 8." Fists First actually
+reads as *compatible* with her rather than disqualifying — she rewards bluntness and directness, so a
+violence-first, no-patience-for-talk personality isn't the mismatch it might first appear to be.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"You'd tell me anything to keep me calm, wouldn't you. That's exactly the problem."*
 
 ## Design Notes & Open Questions
 - **Husband:** Human; killed during the Long Night War; loved deeply and mutually. His name and identity TBD.

@@ -120,5 +120,32 @@ sequencing which companions to prioritize once implementation work begins.
   performer of public conviction rather than a genuine holder of it, directly contradicting what makes her
   own voice credible to her community). Demagogue carries a flagged production dependency — see `Traits.md`'s
   own entry and the matching `TODO.md` item.
+- **Seica Cenilaithe** — Cut Losses, Empathic Bridge, Narrative Ghost. Cut Losses' escalating reuse (now 5
+  companions) prompted a real balance fix — see `Traits.md`'s own updated entry: the trait now grants zero-AP
+  fleeing plus a once-per-combat save-from-death at 50% HP, proportional to how disqualifying it's become.
+  Empathic Bridge is a case worth remembering: a "good," kind trait can still be a precise dealbreaker for a
+  specific personality without being a bad trait overall (Seica explicitly names appeasement, its defining
+  ability, as a failure condition). Demagogue and Fists First were both considered and set aside as
+  insufficiently precise fits — see her own file for why.
+- **Majyao Bisyugota** (non-recruitable, romanceable — her stat gate already existed; only forbidden traits
+  were missing) — **Demagogue confirmed; Narrative Ghost considered but not confirmed** (developer wasn't
+  convinced it was precise enough — left off). **A new trait, working title "Broad Strokes," is held/flagged
+  in `Traits.md` rather than finalized** — someone constitutionally oblivious to small details, opposing her
+  5-wing's need for a patron who notices specifics. Its bonus side is still undecided (Speech vs.
+  Survival/Outdoorsman vs. combat-initiative, none chosen) — an earlier "+Barter on fast trades" version was
+  rejected since the game has no trade-timer mechanic to hook into. **Revisit Majyao's forbidden-trait list
+  once that trait is finalized** to decide whether it gets added to her alongside Demagogue.
+- **IT-068 [Flora]** (her own stat gate already existed; only forbidden traits were missing) — Cut Losses,
+  Narrative Ghost, Demagogue. Also a 6w5 like Favi, so Cut Losses recurs for the same core reason (a crew/
+  companion-protection test). Confirms Demagogue's production dependency (crowd/group-address content) now
+  applies beyond just Trisha's case — worth prioritizing that content question given how many companions
+  already depend on it.
+- **Vosora Lashár Tanslock** — Narrative Ghost only. Loose Cannon was considered (distasteful to her, but not
+  a dealbreaker) and set aside. A new trait, **"One-Way Exchange"** (an intellectual free-rider who never
+  reciprocates), was designed specifically from her personal specs but flagged for future review rather than
+  finalized — it went through two corrections (a percentage-bonus version that doesn't exist in this game's
+  flat-threshold system, then a MACHINE-stat-scale number used on what should be a skill-scale bonus) and
+  still carries a real, unresolved production dependency (tracking NPC-given vs. self-discovered information,
+  tagging specific "informed checks"). See `Traits.md`'s own entry for the full history.
 
 All other confirmed romanceable companions still need this pass.
