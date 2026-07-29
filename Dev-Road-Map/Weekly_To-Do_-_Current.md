@@ -10,6 +10,22 @@ file and start a fresh one for the next stretch of work).
 
 ## High Priority
 
+- [ ] **The Long Night War's inciting incident — three identities still TBD**
+  Core premise established 2026-07-04 (a diplomat assaulted a gynoid, killed in self-defense — she's Akina);
+  the three specific identities involved are not yet chosen. See `TODO.md`'s "Decision Required" section.
+
+- [ ] **Capricorn's core injustice — mechanism not yet chosen**
+  Expanded 2026-07-20 from a rename question into a mechanism question; 4 contenders shortlisted, none
+  chosen. See `Districts/Deep_Dives/06b_Capricorn_Alternative_Conditions.md` and `TODO.md`'s "Decision
+  Required" section.
+
+- [ ] **Byrd↔Janbogo aviation refueling stop — needs a real fix**
+  See `TODO.md`'s "Decision Required" section for the underlying problem.
+
+- [ ] **Cross-district non-malice audit — 5 of 9 items remain**
+  4 of 9 already resolved; the remaining 5 all have candidate alternatives already written up. See
+  `Cross_District_Non_Malice_Audit.md` and `TODO.md`'s "Decision Required" section.
+
 - [ ] **District Main vs. Under-Questline candidates — generate more**
   Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
   are established; each district currently has only its *first* main-questline candidate. Main questlines:
@@ -22,6 +38,24 @@ file and start a fresh one for the next stretch of work).
 ---
 
 ## Medium Priority
+
+- [ ] **Companion Forbidden Traits pass — 3 companions remain, 1 in-progress**
+  IT-021 [Fenny], FW-25 [Pink Lucy], and Lyuba Baranova all have existing romance stat gates and just need
+  this pass done. Majyao Bisyugota is in-progress — Demagogue confirmed, but a new trait ("Broad Strokes,"
+  `Character-Creation/Traits.md`) still needs its bonus finalized before her list can close out. See
+  `Core-Mechanics/Forbidden_Trait_Design_Method.md` for the full process and `TODO.md`'s own tracking entry.
+
+- [ ] **Implant procedure cost** — the reputation-gate requirement is set (`Permanent_MACHINE_Stat_Increases.md`);
+  just needs an actual credit amount decided.
+
+- [ ] **Block Stance's exact numbers** — AP cost and DT/DR bonus size (`Combat/Block_Stance.md`). Resolving
+  this also unlocks finalizing Unstoppable Force's own effect.
+
+- [ ] **Cold/storm gradient numbers for `World_Map_Boundaries.md`** — the Engine-gated mechanism is chosen;
+  just needs actual figures.
+
+- [ ] **Starting skill-point formula** — FNV's real formula is verified (2 + 2×stat + 0.5×Luck); just needs a
+  decision on what (if anything) replaces the Luck term for Inner Tepenia.
 
 - [ ] **Tentative Factions — design all 9 (including sub-factions)**
   FD-3 Veilkeepers, FD-4 Lattice/Bonded Lattice, FD-6 Reclaimers, FD-7 The Vigil (pending keep/redesign/cut
