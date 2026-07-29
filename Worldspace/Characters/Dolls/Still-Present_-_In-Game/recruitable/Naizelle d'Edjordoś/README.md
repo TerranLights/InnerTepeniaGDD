@@ -6,7 +6,7 @@
 **Primary Location(s):** Pisces (The Markets)
 **Affiliation(s):** Independent; informal compound community (no formal faction)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Engine ≥ 5; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Engine ≥ 5; forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Narrative Ghost, Loose Cannon; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -107,6 +107,25 @@ See `Personal_Background/` for details as they develop.
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Naizelle's forbidden traits: Narrative Ghost, Loose Cannon.** Her entire arc depends on never having what
+she hasn't freely offered pried out of her — Narrative Ghost's defining ability is exactly that violation,
+mechanically enacted (probing any NPC for information they haven't volunteered). Loose Cannon covers a
+genuinely different angle: constitutional impulsiveness, incompatible with the patient, deliberate pacing her
+whole test is built on. Considered and set aside: Information Warfare's Data Leak ability is a close cousin
+of Narrative Ghost's violation (both "extract what wasn't given," just through different mediums) but was
+judged redundant rather than genuinely distinct coverage — not included.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"You already took something I didn't offer. That tells me everything I need to
+know, and there won't be a second chance to learn it."*
 
 ## Design Notes & Open Questions
 - **Virgo / the Undergrid:** Although Naizelle lives in Pisces, she would feel very much at home in Virgo (the Undergrid) and is likely on good terms with many of its locals. The SP 5w6 sensibility — self-sufficient, low-profile, practical, at ease in marginal spaces — maps naturally onto Undergrid culture. Worth building Undergrid ties and access points into her companion perks or dialogue where appropriate.

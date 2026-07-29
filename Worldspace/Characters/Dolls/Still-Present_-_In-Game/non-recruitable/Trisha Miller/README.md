@@ -6,6 +6,7 @@
 **Primary Location(s):** Taurus (residential district)
 **Affiliation(s):** Independent community voice; The Signal (radio station)
 **Companion Potential:** No — NPC
+**Romance Potential:** Yes — confirmed romanceable 2026-07-28, non-recruitable (same category as Majyao Bisyugota); stat thresholds confirmed: Nerve ≥ 7, Humanity ≥ 7, Might ≥ 7 (all three equal, no primary/secondary/tertiary ordering); forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Narrative Ghost, Cut Losses, Demagogue; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -18,12 +19,12 @@
 - Harmonic Group: Reactive
 
 **MACHINE Stat Profile (rough baseline):**
-- Might: TBD
+- Might: 7 *(confirmed 2026-07-28, matches her own romance stat gate)*
 - Agility: TBD
 - Calculation: TBD
-- Humanity: TBD
+- Humanity: 7 *(confirmed 2026-07-28, matches her own romance stat gate)*
 - Investigation: TBD
-- Nerve: TBD
+- Nerve: 7 *(confirmed 2026-07-28, matches her own romance stat gate)*
 - Engine: TBD
 
 **Key Traits / Notable Perks (companion-relevant):** N/A — NPC
@@ -68,6 +69,32 @@ See `Personal_Background/` for details as they develop.
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
 
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Trisha's forbidden traits: Narrative Ghost, Cut Losses, Demagogue.**
+- **Narrative Ghost** — an 8 who demands total directness reads a professional deceiver as intolerable on a
+  basic level; her whole test (Gate 3 beat 2) is whether the player says the true thing when a comfortable,
+  evasive answer was available.
+- **Cut Losses** — her Gate 3 beat 3 explicitly tests whether the player stands with her publicly when the
+  easy, costless choice is neutrality. A player mechanically wired to prioritize self-preservation over
+  loyalty is, by design, the person who stays neutral — structurally unable to pass that specific test.
+- **Demagogue** — Trisha's own credibility depends on her public voice being genuinely real ("the opinions
+  come through as her, not as a stance"); a character defined by performing conviction for crowds rather than
+  holding it is a direct contradiction of what makes her own voice matter to her community in the first place.
+
+**Considered and set aside: Fists First** (added to the general trait pool the same day) — Trisha's own
+philosophy is "words first, fists only when words fail," so a violence-first personality reads as distasteful
+to her, but not an outright dealbreaker, since she isn't opposed to physical force on principle either.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"I've had a lot of people tell me exactly what I wanted to hear. I can spot it now
+before they've finished the sentence. Save us both the time."*
+
 ## Design Notes & Open Questions
 - **Origin:** Midwestland — to be added to Maps/ folder
 - **Pre-relocation:** Morning/evening commute music radio host. Loved her fans deeply. Forcibly removed from her studio when the Falkland Treaty was signed.
@@ -82,7 +109,8 @@ See `Personal_Background/` for details as they develop.
   - [x] First Antarctic city/settlement before Concordia — **Belgrano**
   - [ ] Full backstory
   - [ ] Visual design
-  - [ ] MACHINE stat baseline
+  - [ ] MACHINE stat baseline — Might/Humanity/Nerve confirmed 2026-07-28 (romance gate); Agility/Calculation/Investigation/Engine still TBD
+  - [x] Forbidden traits (romance dealbreakers) — Narrative Ghost, Cut Losses, Demagogue, confirmed 2026-07-28
 
 ---
 

@@ -6,7 +6,7 @@
 **Primary Location(s):** Leo (Entertainment district)
 **Affiliation(s):** Independent; 2–3 regular venue residencies (names TBD); Star War affiliation TBD
 **Companion Potential:** Yes — recruitable companion
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Agility ≥ 6, Humanity ≥ 6, Nerve ≥ 5; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Agility ≥ 6, Humanity ≥ 6, Nerve ≥ 5; forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Narrative Ghost, Cut Losses; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** TBD
@@ -75,6 +75,26 @@ See `Personal_Background/` for details as they develop.
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Villena's forbidden traits: Narrative Ghost, Cut Losses.** She has spent her career reading audiences and
+can "spot artifice immediately" — a player whose defining trait is deceptive narrative manipulation is
+exactly the kind of person her own professional instincts would flag and reject, not fall for (the same trait
+is also forbidden for Naizelle, for a completely different reason — there, privacy violation; here,
+inauthenticity). Cut Losses fails her 6-wing loyalty test structurally rather than just thematically: her
+romance explicitly requires the player to stay with her in a moment she'd genuinely understand if they
+didn't, and a player mechanically encoded to prioritize self-preservation over companion loyalty cannot pass
+that test by definition.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"Oh, I've met plenty like you. I can always tell — and I don't do encore
+performances for people who were never really in the room."*
 
 ## Design Notes & Open Questions
 - **Origin:** Belgrano (Tepenia native) → Palmer City → Long Night War → watched Amundsen Tower destroyed → Concordia

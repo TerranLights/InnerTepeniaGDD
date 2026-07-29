@@ -1238,6 +1238,15 @@ These require a developer call before downstream work can proceed. None can be r
   unflagged prerequisite: some kind of equippable/removable optical or sensory augmentation slot — a robot
   equivalent of "wearing glasses." See `Traits.md`'s own updated Fallout-Adapted Traits section for all four.
 
+- [ ] **Demagogue trait needs sufficient crowd/group-address content, flagged 2026-07-28**
+  Surfaced while assigning Trisha Miller's forbidden traits (`Core-Mechanics/Forbidden_Trait_Design_Method.md`).
+  The new **Demagogue** trait (`Character-Creation/Traits.md`, Base traits) grants +20% Speech/Narrative
+  effectiveness specifically when addressing groups or public gatherings — but it's not yet confirmed the
+  game actually contains enough interactions where the player addresses a crowd (as opposed to one-on-one
+  dialogue) for that bonus to be meaningfully usable. Not a rejection of the trait — Trisha's own forbidden
+  trait assignment stands regardless — just a real content dependency to revisit once dialogue/quest design
+  reaches this question.
+
 - [ ] **SOC archetype Moderate-tier elaboration — deliberately deferred, flagged 2026-07-26**
   Surfaced while developing `Game-Mechanics/Perks/SOC_Cross_Reference_Perk_Concepts.md`'s Concept 1
   (district-flavored archetype variants) and Concept 4 (Portable Expertise), both of which were scoped to

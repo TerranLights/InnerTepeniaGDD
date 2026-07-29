@@ -6,7 +6,7 @@
 **Primary Location(s):** Aquarius (The Labs) — still in Concordia, hidden within the district; testing facility (now ruins) is her last known public address
 **Affiliation(s):** Eyes of Gold (friend and technical partner, not a member)
 **Companion Potential:** Yes — main game companion
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 8, Investigation ≥ 6, Humanity ≥ 6; full romance beat design in Companion_System.md. The undelivered letter is a separate gate outside the romance arc — see Companion_System.md design note.
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 8, Investigation ≥ 6, Humanity ≥ 6; forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Narrative Ghost, Information Warfare; full romance beat design in Companion_System.md. The undelivered letter is a separate gate outside the romance arc — see Companion_System.md design note.
 
 > **Full lore:** `Worldspace/Characters/Major_NPCs/Ji-Eun_Kim.md`
 
@@ -97,6 +97,27 @@ Three interlocking reasons, all of which are true simultaneously:
 ## Relationships & Hooks
 - Key connections: Calethina (tracks her; questline anchor), Eyes of Gold (faction she served as technical ally), player (recipient of her gold ocular implant design at max Eyes of Gold standing)
 - Dialogue / quest hooks (skills, reputation, etc.): High Calculation/Investigation build may access technical details about her research; Eyes of Gold standing opens personal history with the faction
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Ji-Eun's forbidden traits: Narrative Ghost, Information Warfare.** She is in hiding for real safety
+reasons, and her whole romance test (Gate 3 beat 1) turns on whether sensitive information the player learns
+about her stays completely protected — never used, referenced, or treated as leverage even accidentally.
+Narrative Ghost and Information Warfare represent two genuinely different threat levels rather than the same
+violation twice: Narrative Ghost's defining ability is *gathering* secrets people haven't volunteered;
+Information Warfare's Data Leak ability *weaponizes* exposed vulnerabilities against a target. For someone
+whose defining fear is exposure with real consequences, a person constitutionally built to extract secrets is
+one danger, and a person built to weaponize them is a distinct, escalated one — both disqualifying, for
+different reasons.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"You collect what people hide. I know, because it's the same instinct I used to
+have, before I understood what it costs the person on the other end. I can't be that for you."*
 
 ## Design Notes & Open Questions
 

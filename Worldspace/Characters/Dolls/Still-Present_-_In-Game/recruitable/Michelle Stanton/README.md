@@ -8,7 +8,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency (Janbogo slow-verification counter-movement — potential faction seed)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Cut Losses; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** Midwestland; exiled to Tepenia following the Falkland Treaty
@@ -78,6 +78,32 @@ See `Personal_Background/` for details as they develop.
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Michelle's forbidden trait: Cut Losses.** Her entire identity is built on sustained, decades-long
+commitment to Concordia — she built the Arcanet and chose to stay when she had the means to leave. Her own
+Signal line already rejects "someone passing through" outright, and her Gate 3 beats explicitly test whether
+the player stays and chooses the city when it would be easier not to. A player whose defining trait is
+mechanically encoded self-preservation over sustained loyalty is structurally incompatible with a character
+whose whole arc is about choosing to stay.
+
+**A trait considered and set aside: "Greener Pastures"** (a new trait surfaced during this discussion,
+now added to the general pool in `Traits.md`) — its permanent reputation ceiling initially seemed like a
+precise structural opposite of Michelle's own deep community roots. However, after the mechanic was reworked
+away from a "passing through"-flavored conditional trigger (which broke under balance scrutiny — see
+`Traits.md`'s own entry for the full history) into a flat, unconditional bonus, it lost the specific
+"transience" characterization that made it read as her opposite. It remains a good trait in its own right,
+just no longer a precise dealbreaker for her specifically.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"I gave up leaving a long time ago. I need someone who understands why that was ever
+a real choice to make — not someone who'd have made a different one without a second thought."*
 
 ## Design Notes & Open Questions
 

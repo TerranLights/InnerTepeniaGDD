@@ -61,7 +61,7 @@ The single companion slot means each companion choice is a genuine commitment. T
 
 Additional recruitable companions to be designed.
 
-**Non-recruitable but romanceable NPCs, confirmed:** Majyao Bisyugota (teahouse keeper; full questline and romance arc, never joins the party). **Genuinely undecided, may join this category (see "Roster source of truth" above):** FR-03 "Maria" (possible leisure-establishment operator), SE-031 "Akina" (recruitability unresolved pending her own, especially delicate character development), TCY-20 "Miranda" (possible in-game bartender).
+**Non-recruitable but romanceable NPCs, confirmed:** Majyao Bisyugota (teahouse keeper; full questline and romance arc, never joins the party); **Trisha Miller** (radio host; confirmed romanceable 2026-07-28 — see her own Romance Design below). **Genuinely undecided, may join this category (see "Roster source of truth" above):** FR-03 "Maria" (possible leisure-establishment operator), SE-031 "Akina" (recruitability unresolved pending her own, especially delicate character development), TCY-20 "Miranda" (possible in-game bartender).
 
 **DLC companions** (separate from main game pool, available only in their respective DLC — **each DLC 2-7 now carries multiple native companions, allocated by narrative tier, see "Multiple Native Companions Per DLC" below**):
 - Kendra Heinrich (DLC 1: South Pole) — sole companion, permanent exception, no others will be added
@@ -236,7 +236,8 @@ it either.
 
 When designing each romanceable character, specify:
 - Which MACHINE stat(s) are required and at what level
-- Which traits (if any) are required or are dealbreakers
+- Which traits are **forbidden** for this character (see "Forbidden Traits" below — the standard mechanic,
+  replacing the older, vaguer "required or dealbreaker" framing)
 - The in-world rationale (what this person finds attractive and why, based on their personality)
 
 Examples of how thresholds might read:
@@ -247,11 +248,47 @@ Examples of how thresholds might read:
 - A character who values perceptiveness → Investigation threshold
 - A character who values capability and endurance → Engine threshold
 
-Multiple stats may be required. Traits may open or close routes regardless of stat levels.
+Multiple stats may be required.
+
+### Forbidden Traits — A Categorically Different Gate, Confirmed 2026-07-28
+
+**The standard mechanic for the "traits" half of Gate 2:** each romanceable character has **1 to 3 forbidden
+traits** — specific traits from the full trait pool (`Character-Creation/Traits.md`) that, if the player
+selected them at character creation, permanently disqualify that character's romance route. Derived the same
+way stat thresholds are: from the character's **Enneagram personality, personal history, and personal
+sensibilities** — just pointed toward exclusion rather than requirement.
+
+**Why this is categorically different from the stat threshold, not just a variant of it:** a stat threshold
+represents growth — a player who falls short today can still reach it later, through Intense Training, an
+implant, or simply better allocation on a future save. A forbidden trait represents an unchangeable
+character-creation choice, permanent for the entire playthrough. **There is no path to growing out of a
+forbidden trait.** No amount of MACHINE-stat investment, Intense Training, or "not-Doctor-Usanagi" implant
+work (`Character-Creation/Permanent_MACHINE_Stat_Increases.md`) can undo the fact that the player chose, at
+the very start, to be a specific kind of person.
+
+**Implementation precedence, confirmed 2026-07-28 — binding for actual game code (C++/GDScript/JSON dialogue
+data):** a forbidden-trait check is evaluated *first* and takes total precedence over the standard MACHINE
+stat-gate display below. If the player holds a forbidden trait, the game does not show the normal
+passing/failing stat-check dialogue at all — it shows the character's own distinct forbidden-trait rejection
+line instead. The two systems never display simultaneously for the same interaction; forbidden-trait
+rejection completely overrides the stat-gate check.
+
+**A distinct signal-line register, confirmed 2026-07-28:** forbidden-trait rejections get their own tone,
+separate from the ordinary stat-threshold Signal below (which implicitly invites "come back once you've
+grown"). A forbidden-trait line should read as a genuinely closed door — not a "not yet," but a "this isn't
+something that changes."
+
+**The trait-design pipeline this creates:** while assigning forbidden traits character by character, whenever
+the existing trait pool doesn't contain something that actually captures what should disqualify a given
+companion, pause and design a new trait to fill that gap. This makes trait-gate assignment a real, ongoing
+trait-design pipeline in its own right, not just a companion-design pass.
 
 ### The Signal
 
-When a player has completed the questline prerequisite but does not meet the stat/trait threshold, the character makes an honest, casual, in-voice remark that reveals what they're looking for — without breaking the fiction or explaining the system. The line is short and in character. It closes the romantic door without closing the relationship.
+When a player has completed the questline prerequisite but does not meet the **stat** threshold (a forbidden
+trait, per above, is handled entirely separately and takes precedence), the character makes an honest,
+casual, in-voice remark that reveals what they're looking for — without breaking the fiction or explaining
+the system. The line is short and in character. It closes the romantic door without closing the relationship.
 
 Examples of the register (not final lines — those are written per character in voice):
 - *"Sorry, friend. I like them smart."*
@@ -326,13 +363,13 @@ The following characters are confirmed romanceable. Thresholds are documented he
 |-----------|------|-----------------|-------------|-------|
 | Calethina | Projection system (not a companion) | Calc ≥ 8, Humanity ≥ 6, Nerve ≥ 6, Engine ≥ 6 | TBD | See full design note below; romance post-download via mini-quest |
 | IT-068 [Flora] | Recruitable companion | Nerve ≥ 7, Calculation ≥ 6, Engine ≥ 5 | TBD | First companion; 6w5 Thinking; see full romance design note below |
-| Favi della Torre | Recruitable companion | Nerve ≥ 7, Humanity ≥ 6, Engine ≥ 6 | TBD | 6w5 Self-Pres; loyalty proven through protective choices; see full design note below |
-| Villena Hiresvett | Recruitable companion | Agility ≥ 6, Humanity ≥ 6, Nerve ≥ 5 | TBD | 7w6 Self-Pres; presence and genuine engagement; see full design note below |
-| Naizelle d'Edjordoś | Recruitable companion | Calculation ≥ 7, Investigation ≥ 6, Engine ≥ 5 | TBD | 5w6 Self-Pres; most patient romance in the game; see full design note below |
+| Favi della Torre | Recruitable companion | Nerve ≥ 7, Humanity ≥ 6, Engine ≥ 6 | See character file | 6w5 Self-Pres; loyalty proven through protective choices; see full design note below |
+| Villena Hiresvett | Recruitable companion | Agility ≥ 6, Humanity ≥ 6, Nerve ≥ 5 | See character file | 7w6 Self-Pres; presence and genuine engagement; see full design note below |
+| Naizelle d'Edjordoś | Recruitable companion | Calculation ≥ 7, Investigation ≥ 6, Engine ≥ 5 | See character file | 5w6 Self-Pres; most patient romance in the game; see full design note below |
 | Seica Cenilaithe | Recruitable companion | Nerve ≥ 7, Might ≥ 6, Humanity ≥ 6 (possibly 7 — TBD) | TBD | 8w7 Sexual; see full romance design note below |
-| Ji-Eun Kim | Recruitable companion | Calculation ≥ 8, Investigation ≥ 6, Humanity ≥ 6 | TBD | 5w4 Social; in hiding; undelivered letter is a separate gate outside romance arc; see full design note below |
+| Ji-Eun Kim | Recruitable companion | Calculation ≥ 8, Investigation ≥ 6, Humanity ≥ 6 | See character file | 5w4 Social; in hiding; undelivered letter is a separate gate outside romance arc; see full design note below |
 | Vosora Lashár Tanslock | Recruitable companion | Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6 | TBD | 5w6 Social; romance happens within the investigation; see full design note below |
-| Michelle Stanton | Recruitable companion | Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7 | TBD | 5w6 Social; built the Arcanet; chose to stay; romance through shared commitment; see full design note below |
+| Michelle Stanton | Recruitable companion | Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7 | See character file | 5w6 Social; built the Arcanet; chose to stay; romance through shared commitment; see full design note below |
 | IT-021 [Fenny] | Recruitable companion | Humanity ≥ 7, Engine ≥ 6, Nerve ≥ 5 | TBD | 6w5 Self-Pres; quietest romance in the game; no signal line — she just doesn't warm up; see full design note below |
 | FW-25 [Pink Lucy] | Recruitable companion | Humanity ≥ 7, Engine ≥ 6, Nerve ≥ 5 | TBD | 7w6 Social; communal intimacy; romance unfolds through The Warm Circuit; see full design note below |
 | Kendra Heinrich | DLC 1 companion | **None** | **None** | Unique gate system — see full design note below |
@@ -343,8 +380,9 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | Lyuba Baranova | Recruitable companion | Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6 | TBD | 8w7 Sexual; silver-tongue / unarmed fighter; Aries; highest Nerve gate in the roster; see full design note below |
 | TCY-25 "Rui" | Recruitable companion | TBD | TBD | 9w1 Self-Pres; Scorpio transformation practitioner; confirmed recruitable 2026-07-10; thresholds pending Phase 3 personality design |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | TBD | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
+| **Trisha Miller** | **Non-recruitable NPC** | Nerve ≥ 7, Humanity ≥ 7, Might ≥ 7 | See character file | 8w7 Social; radio host; romance through recurring off-air encounters; see full design note below |
 
-Non-recruitable named NPCs confirmed romanceable: Majyao Bisyugota (design note below). Further NPC romance status decided per character during design.
+Non-recruitable named NPCs confirmed romanceable: Majyao Bisyugota, Trisha Miller (design notes below). Further NPC romance status decided per character during design.
 
 ---
 
@@ -450,6 +488,8 @@ Vosora's romance happens within her work, not alongside it. The player becomes a
 
 **Rationale:** Michelle is a 5w6 Social type, same as Vosora, but her emotional core is distinct. Where Vosora's intimacy is through shared intellectual pursuit, Michelle's is through shared commitment to a place. She built the Arcanet — the Antarctican internet — and she chose to stay in Concordia when she has the means to leave. Calculation is primary because she needs genuine intellectual depth. Humanity is secondary because she built something that connects everyone; she cares about people collectively and needs to feel the player does too. Engine at 7 — the highest tertiary in the roster — reflects that she has sustained an enormous ongoing commitment for a very long time; she is drawn only to someone who can match that kind of staying power.
 
+**Forbidden traits:** see Michelle's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Michelle Stanton/README.md`) for her specific forbidden trait and rationale — this file covers the general mechanic only, not per-character assignments.
+
 **Signal line** (if stat threshold not met): *"You seem like someone passing through. I don't have much use for those."*
 
 **Gate 3 — Romance beats** (after companion quest completion):
@@ -474,6 +514,8 @@ Michelle's romance is about the player coming to understand why she stays, and d
 
 **Rationale:** Favi is a 6w5 Self-Preservational type and a sniper — patient, precise, controlled, managing uncertainty through preparation and a small circle of people she can absolutely trust. Nerve is the primary gate not as a test of confrontational courage but as a test of whether the player will hold when it matters to someone else, not just themselves. She watches how people behave when protection costs them something. Humanity confirms that the player's protective instincts come from genuine care rather than calculation — she can tell the difference. Engine at 6 reflects the Self-Pres subtype's value for sustained reliability: showing up consistently over time matters more to her than isolated heroism.
 
+**Forbidden traits:** see Favi's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Favi della Torre/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
+
 **Signal line** (if stat threshold not met): *"I've seen a lot of people who were brave until it mattered. Come back when I've seen more of you."*
 
 **Gate 3 — Romance beats** (after companion quest completion):
@@ -497,6 +539,8 @@ Favi's romance is loyalty proven incrementally, in the specific currency she val
 **Stat gate:** Calculation ≥ 7 (primary), Investigation ≥ 6 (secondary), Engine ≥ 5 (tertiary)
 
 **Rationale:** Naizelle is a 5w6 Self-Preservational type. A Self-Pres 5 builds security through private resources — time, space, knowledge, solitude — and extends access to their interior life only to very carefully selected people across a slow, deliberate process. Calculation is the primary gate because she needs an intellectual equal: someone genuinely curious about the world in the same register she is, not someone she has to explain herself to. Investigation reflects the 5's attraction to people who pay attention and notice what is actually there. Engine serves the 6 wing: sustained reliability over time, the endurance to remain present across a long, slow process without pushing.
+
+**Forbidden traits:** see Naizelle's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Naizelle d'Edjordoś/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
 
 **Signal line** (if stat threshold not met): *"I don't think you'd find much of interest here. Most people don't."*
 
@@ -524,6 +568,8 @@ The most patient romance in the game. Her arc is not about dramatic moments — 
 
 **Rationale:** Villena is a 7w6 Self-Preservational type — she seeks security through abundance, experience, and a life that is always moving forward. As a performer in Leo, she has spent her career reading audiences and can spot artifice immediately. Agility is the primary gate not for its combat meaning but for what the stat represents: quickness, adaptability, someone alive to the moment who can genuinely keep up with her. Humanity serves the 6 wing — she cares deeply about people and needs warmth, not calculation, across from her. Nerve reflects the 7's attraction to boldness and the 6 wing's need to know the player won't fold.
 
+**Forbidden traits:** see Villena's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Villena Hiresvett/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
+
 **Signal line** (if stat threshold not met): *"You're sweet. I just need someone who can actually keep up, you know?"*
 
 **Gate 3 — Romance beats** (after companion quest completion):
@@ -549,6 +595,8 @@ Villena's romance requires engagement, presence, and genuine reciprocity. She pe
 **Stat gate:** Calculation ≥ 8 (primary), Investigation ≥ 6 (secondary), Humanity ≥ 6 (tertiary)
 
 **Rationale:** Ji-Eun is a 5w4 Social type in hiding. The Calculation floor is the highest in the game — she is deeply competent and needs an intellectual equal who earns genuine respect before anything else opens. Investigation reflects the 4 wing's hunger to be specifically seen: the player must be someone who notices what's actually there, not just the composed surface. Humanity serves both the 4 wing (whose core wound is feeling unseen) and the Social subtype (she cares about people and meaning despite her withdrawal).
+
+**Forbidden traits:** see Ji-Eun's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Ji-Eun Kim/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
 
 **Signal line** (if stat threshold not met): *"I appreciate the interest. I just — I can't afford to be careless about who I talk to."*
 
@@ -731,6 +779,75 @@ The quietest, most internally textured romance in the game alongside Fenny. She 
 4. **The Blood River Tea moment** *(optional — expand during questline design)*: If the player has followed the Blood River Tea thread — the supply line from Taylor Valley that the Long Night War cut, which she can no longer serve — and can bring her news of it, or in the best case a sample, something opens in her response that nothing else produces. This is the clearest possible signal that someone was paying attention to what actually matters to her, not just to her. Specific mechanics and what this unlocks are to be expanded when the Blood River Tea questline thread is developed in coordination with Frostlands/Taylor Valley design.
 
 5. **The silence:** The teahouse is empty after closing. The aurora through the floor-to-ceiling windows. Both of them simply present, not needing it to be anything else. A 4w5 SP's romance begins in the quiet, not in a speech.
+
+---
+
+### Trisha Miller — Romance Design (Non-Recruitable NPC)
+
+**Confirmed romanceable 2026-07-28.** Trisha does not join the player's party. The romance arc runs through
+her off-air windows in Taurus (`NPC Schedule (In-Game Clock)` in her own character file) — recurring
+in-person encounters while she's out among her community, rather than a companion questline structure.
+
+The gate system applies identically: Gate 1 (relationship prerequisite, built through repeated off-air
+encounters and her own questline content), Gate 2 (stat threshold). There is no companion quest; the
+recurring encounters serve the Gate 1 function, the same way Majyao's repeated teahouse visits do.
+
+**Stat gate:** Nerve ≥ 7, Humanity ≥ 7, Might ≥ 7 — **all three set equal, no primary/secondary/tertiary
+ordering**, confirmed 2026-07-28.
+
+**Rationale:** Trisha is an 8w7 Social type. An 8 has zero tolerance for half-measures in any single
+dimension — she doesn't rank which quality matters most because she's watching for total, non-negotiable
+substance across the board, not competence in one area propped up by weakness elsewhere. Nerve reflects her
+own directness and conviction — she speaks her opinions plainly and expects the same boldness back, not
+evasiveness. Humanity reflects that she "puts no emotional distance between herself and the people who love
+her" — she needs someone equally willing to close distance, not hold back. Might reflects the physical half
+of "uses her fists as a backup plan when words have failed": real presence backing up the boldness, not just
+talk. The backstory detail that two friends chose to follow her into forced exile, and that she outlived them
+by decades, means she knows exactly what it costs for someone to choose her — she isn't interested in anyone
+who wouldn't measure up to that standard in every direction at once.
+
+**Forbidden traits:** see Trisha's own character file (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/non-recruitable/Trisha Miller/README.md`) for her specific forbidden traits and rationale — this file covers the general mechanic only, not per-character assignments.
+
+**Signal line** (if stat threshold not met): *"Honey, I like a lot of people. That's not the same thing as
+what you're after, and I think you know it."*
+
+**Gate 3 — Romance beats:**
+
+Trisha's romance happens in the ordinary texture of her off-air life — she is never hiding, never guarded,
+so the test isn't about getting past a wall. It's about whether the player is actually *there*, consistently,
+in the unglamorous stretches where nobody's listening to a broadcast.
+
+1. **Show up during an off-air window, more than once, without an agenda:** Most people only seek her out
+   when the show is live. The romantic path finds her during the quiet stretches — early morning or late
+   afternoon, out in Taurus — and keeps doing it, not as strategy, just as genuine interest in her outside the
+   microphone.
+
+2. **Say the direct thing:** At some point a comfortable, evasive answer is available. The romantic path
+   says the true thing instead, even if it's blunter than comfortable. An 8 respects directness even when it
+   isn't flattering; softness that reads as avoidance loses ground here, not gains it.
+
+3. **Stand somewhere with her:** A moment arises — a dispute, a disagreement, something in Taurus that
+   matters to her — where the easy choice is to stay neutral. The romantic path picks a side, hers, openly,
+   in public. She isn't looking for a bodyguard; she's looking for someone who doesn't flinch from being
+   associated with her convictions.
+
+4. **The choosing:** Given what her own history taught her about what it costs someone to choose her
+   deliberately, the culmination isn't a grand declaration — it's her naming, plainly, on-air or off, that
+   this is a choice she's making with her eyes open, the same way it was once made for her.
+
+**Romance Reward — The Broadcast, confirmed 2026-07-28, corrected the same day:** as a populist radio DJ with
+a real "woman of the people" reach, once the player has fully romanced Trisha, she speaks well of them on-air
+— the same world-state-feedback mechanic her regular post-questline broadcasts already use (see "Trisha
+Miller — Radio Host" above), but now carrying real mechanical weight, citywide.
+
+**Effect:** not a one-time flat percentage — a **permanent rate modifier**, applied independently to each
+district-based faction's own Positive and Negative Reputation tracks: **Positive Reputation accrues 5% faster,
+and Negative Reputation accrues 5% slower**, per district, from the moment the romance perk is granted onward
+(the progressive half). **Critically, this modified rate is also applied retroactively** — the player's
+already-accumulated standing in every district is recalculated as though the modifier had been in effect the
+entire time, not just from this point forward. Her platform reaches the whole city, so the effect is
+citywide by nature, not scoped to Taurus or wherever the player happens to be standing when the romance
+completes.
 
 ---
 

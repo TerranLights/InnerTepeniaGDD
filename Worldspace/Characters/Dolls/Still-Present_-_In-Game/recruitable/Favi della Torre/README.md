@@ -8,7 +8,7 @@
 **Primary Location(s):** Taurus (Residential district)
 **Affiliation(s):** Eyes of Gold (primary loyalty); The Steady Watch (operational — name TBD; neighborhood preparedness network)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Humanity ≥ 6, Engine ≥ 6; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Nerve ≥ 7, Humanity ≥ 6, Engine ≥ 6; forbidden traits (permanent dealbreakers, confirmed 2026-07-28): Loose Cannon, Cut Losses; full romance beat design in Companion_System.md
 
 ## Core Identity
 **Activation Date & Origin:** Italy; built as an assistant to an elderly scientist — his "extra set of eyes and ears" to cross-check results and correct errors
@@ -82,6 +82,24 @@ See `Personal_Background/` for details as they develop.
 ## Relationships & Hooks
 - Key connections: TBD
 - Dialogue / quest hooks (skills, reputation, etc.): TBD
+
+## Romance — Forbidden Traits
+
+**Confirmed 2026-07-28.** See `Core-Mechanics/Companion_System.md`'s "Forbidden Traits" section for how the
+general mechanic works (a permanent character-creation choice, not a growth gate — no amount of stat
+investment, Intense Training, or implant work can undo it, and it overrides the standard MACHINE stat-gate
+dialogue entirely in-engine).
+
+**Favi's forbidden traits: Loose Cannon, Cut Losses.** Favi's entire test is whether the player holds steady
+and protects others consistently, without being asked — someone whose defining traits are impulsive
+unreliability (Loose Cannon) or a mechanically-encoded habit of saving themselves first at their companion's
+expense (Cut Losses) is exactly what a 6w5 who watches for signs of eventual betrayal could never trust.
+Neither is something the player can grow out of — they're permanent character-creation choices, which is
+precisely why they're forbidden rather than merely penalized.
+
+**Forbidden-trait rejection line** (distinct register from the ordinary stat-threshold Signal — a closed
+door, not a "not yet"): *"I've watched you. I know exactly what you are. That's not something that changes,
+and I'm not interested in finding out the hard way."*
 
 ## Design Notes & Open Questions
 - **Full name:** Nilda Faviola "Favi" della Torre
