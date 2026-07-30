@@ -476,3 +476,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** intervene and check on them, prioritizing concern over the ritual's own rules; wait, respecting the district's culture of never rushing anyone's process; or find a way to check without fully breaking the withdrawal.
 **Consequence-test:** unconditional respect for someone's own process versus genuine concern for their wellbeing, in miniature.
 **Source:** `District_Canon_Reference.md`, Community Infrastructure — Silence Booths.
+
+---
+
+## Aries
+
+**Civic belief (Concordia Section I):** *"a city becomes real through relentless, uncomplaining production... it generates the literal power that lets everything else in it exist at all."*
+
+**Status: 15 of 15–20 target. Floor reached.** Note: Aries' own existing Full Extrapolation and Throughway 3 assume Aries actually holds and re-invokes real blackout leverage — the confirmed mechanism (`Cross_District_Power_Leverage_Alternatives.md`) says otherwise; candidates below are built accordingly.
+
+### 1. The Political Faction's Bad Bet
+**Starting point:** the leading voice of the Political Faction (Full Extrapolation Section IV), who has committed enormous political capital pressuring and funding Aquarius for an independence breakthrough.
+**Chain:** the player learns Aquarius' own three Failed Utopias all collapsed on the identical root cause — material dependence on the rest of Concordia — meaning this figure is waiting on exactly the outcome Aquarius has never once managed.
+**Fork:** tell the figure the truth, risking their entire political project; let them continue, perhaps quietly helping Aquarius' researchers actually beat the odds this time; or work to redirect Aries' investment toward a more realistic alternative.
+**Consequence-test:** relentless production demands results — this tests what happens when the hoped-for relief was never actually coming.
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1.
+
+### 2. The Mirror Aries Won't Look Into
+**Starting point:** an Aries supervisor dismissing or mistreating a Virgo maintenance team.
+**Chain:** the same supervisor, later the same day, complains bitterly about a Cancer, Taurus, or Leo figure being ungrateful toward Aries — the identical grievance, running in the identical direction, one link further down the chain.
+**Fork:** confront the figure directly with the hypocrisy, risking their pride and the player's standing; quietly help the mistreated Virgo team get proper recognition without confrontation; or hold the observed hypocrisy as leverage for later.
+**Consequence-test:** uncomplaining production is the belief — this tests whether Aries can recognize its own complaint mirrored back at it from below.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2.
+
+### 3. The Senior Safety Engineer's Ledger
+**Starting point:** the senior Safety Engineer (Full Extrapolation Section IV), who has spent years documenting preventable deaths within Overclocker culture.
+**Chain:** a specific new death occurs that the engineer's own prior documentation could have prevented, if anyone had acted on it.
+**Fork:** help the engineer finally get their concerns taken seriously, a structural culture change; accept the martyrdom culture requires this and just address this one case; or discover the engineer has privately started doubting whether documenting is worth continuing at all.
+**Consequence-test:** can Aries complain about its own human cost, even when the complaint comes from inside its own safety apparatus?
+**Source:** `Aries_Full_Extrapolation.md` Section IV.
+
+### 4. The Memoir in the Archive
+**Starting point:** the Retired Engineer's Memoir itself — already confirmed as a findable in-world object.
+**Chain:** the player reads it and learns decades ago insiders seriously discussed a deliberate power reduction during one dispute — and chose not to act on it. The "Political Weapon" myth's actual, far more mundane origin.
+**Fork:** share the discovery publicly, potentially deflating Aries' own mythologized reputation; keep it private, since the myth currently serves Aries' political standing regardless of truth; or bring it specifically to the Political Faction figure (candidate 1) who believes the leverage should have been used more decisively — showing them it was never real to begin with.
+**Consequence-test:** does uncomplaining production require an honest reckoning with its own myths, or does the myth serve the district better than the truth would?
+**Source:** `Cross_District_Power_Leverage_Alternatives.md`, confirmed A4.
+
+### 5. The Stability Review, Tested For Real
+**Starting point:** an actual instance of the stability-review protocol activating during a real inter-district dispute.
+**Chain:** another district (Taurus or Cancer) sees the review triggered and assumes it's a deliberate threat, exactly the confirmed misread mechanism in action, with the player present and aware of the truth.
+**Fork:** explain the truth, defusing the misunderstanding but weakening Aries' unearned reputation; let the misunderstanding stand, since it currently benefits Aries; or use the moment to actually formalize better communication between the two districts.
+**Consequence-test:** does uncomplaining production mean staying silent about a reputation Aries never actually earned or asked for?
+**Source:** `Cross_District_Power_Leverage_Alternatives.md`, confirmed A2/A3.
+
+### 6. The Martyrs' Recitation, Contested
+**Starting point:** The Martyrs' Recitation Hall, where new recruits learn and recite the Overclock Martyrs' names before their first shift.
+**Chain:** a new recruit refuses to participate, or asks whether reciting the dead's names actually honors them or just normalizes producing more names to recite.
+**Fork:** help the recruit find their own way to honor the tradition; support their right to question it; or discover senior members have privately shared the same doubt for years.
+**Consequence-test:** is uncomplaining production served by a ritual that quietly normalizes death as expected, or does the ritual need scrutiny of its own?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Martyrs' Recitation Hall.
+
+### 7. Running Hot, Losing Count
+**Starting point:** the Running Hot Boards — public tally boards tracking who's taken the most dangerous shifts recently.
+**Chain:** a specific worker is clearly taking on far more dangerous shifts than is safe, driven by the status the boards confer, and the player notices before any supervisor does.
+**Fork:** intervene directly with the worker; report it to a supervisor or the Safety Engineer (candidate 3); or let it run its course, since intervening might violate Aries' own values around individual choice and duty.
+**Consequence-test:** what happens when the pursuit of relentless, uncomplaining production becomes visibly, trackably self-destructive for one specific person?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Running Hot Boards.
+
+### 8. The Heat-Rationing Grievance
+**Starting point:** the Heat-Rationing Grievance Offices, where workers formally air grievances about power negotiations with other districts.
+**Chain:** a specific worker's formal grievance about power being routed to a "soft" district reveals genuine, sympathetic fatigue, not just reflexive contempt.
+**Fork:** help escalate the grievance through official channels; help the worker understand the allocation's actual necessity, if it is necessary; or discover the grievance touches the still-unresolved misread-leverage issue (candidate 5) directly.
+**Consequence-test:** does "uncomplaining" production leave any real room for a formal grievance process, or is the office itself a quiet contradiction of the district's own stated ideal?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Heat-Rationing Grievance Offices.
+
+### 9. The Black Silence Memorial Chamber
+**Starting point:** the Chamber itself — marking where the near-total collapse almost happened, holding the disputed timeline (Aries' account, Libra's official record, a classified version) as living memory.
+**Chain:** the player encounters someone actively trying to reconcile the three competing accounts, regardless of the political cost of the truth.
+**Fork:** help pursue the true timeline, which touches Libra's own classified records and real political risk; accept the ambiguity as now part of the memorial's own meaning and leave it; or use partial findings for a specific personal purpose — clearing or tarnishing a specific name.
+**Consequence-test:** uncomplaining production means not dwelling on grievance — but the Black Silence is a genuine unresolved one sitting at the district's own heart. Does the belief allow addressing it, or does it demand moving past it unresolved?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Black Silence Memorial Chamber.
+
+### 10. Named Machine, Failing
+**Starting point:** the Named Machine Registries — tracking names and service histories of major machinery — with one specific, individually-named machine now failing.
+**Chain:** the question of whether to overclock-repair it past reasonable safety limits, echoing the human Overclocker culture applied to equipment, or retire it properly via a Grief-a-Machine Wake.
+**Fork:** push for one more overclocked repair cycle, risking failure; retire it with full ceremony; or find a genuinely creative alternative — repurposing rather than retiring.
+**Consequence-test:** does the district's philosophy actually distinguish between honoring durability and simply refusing to let anything rest, human or mechanical?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Named Machine Registries, Grief-a-Machine Wakes.
+
+### 11. The Silence-Adjustment Clinic's Newest Patient
+**Starting point:** a Silence-Adjustment Clinic, meant to help retired workers adjust to quiet elsewhere.
+**Chain:** a specific retired Overclocker can't adjust to quiet at all, and secretly keeps returning to Aries just to be near the noise again, against medical advice.
+**Fork:** help them find a way to return to Aries permanently despite retirement; help them actually adjust to a quieter life by addressing what the noise represents to them; or discover the clinic has no good answer for this case, since nobody's ever needed to solve it before.
+**Consequence-test:** does relentless production create people who genuinely cannot function in stillness anymore — and if so, is that survivable, or a quiet cost of its own?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Silence-Adjustment Clinics.
+
+### 12. The Contempt Roast's Uninvited Guest
+**Starting point:** The Contempt Roast — a darkly humorous tradition satirically roasting the "soft districts."
+**Chain:** a genuine visitor from one of the roasted districts (Leo, Libra, Cancer) attends without realizing what it is, and the room has to decide in real time whether to include or exclude them from the joke.
+**Fork:** let the roast proceed as normal, treating the visitor as fair game; soften it for their presence, undermining the tradition's own honesty; or let the visitor surprise everyone by joining in against their own district good-naturedly.
+**Consequence-test:** is the Contempt Roast genuine contempt or performed venting — does it survive contact with someone it's actually about?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Contempt Roast.
+
+### 13. Crew Loyalty, Tested
+**Starting point:** Crew Loyalty Marks — visible, permanent markers identifying which shift crew someone belongs to.
+**Chain:** a worker wants to transfer crews for a compelling personal reason, but their permanent mark makes the switch socially fraught in a culture that treats crew identity as near-permanent.
+**Fork:** help them make the switch despite social friction; help resolve their underlying reason for wanting to leave, keeping the crew intact; or find a middle path — the mark altered or added to rather than fully replaced.
+**Consequence-test:** relentless production requires crew cohesion — does it require crew permanence, or can identity flex without breaking the system?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Crew Loyalty Marks.
+
+### 14. The Overclock Challenge, Too Far
+**Starting point:** a public overclock challenge — crews competing to keep a section of the grid alive longest.
+**Chain:** a specific challenge pushes past reasonable safety limits out of competitive pride, echoing the Overclock Martyrs pattern in miniature, with the player present as it happens.
+**Fork:** intervene to stop the challenge before someone gets hurt; let it continue, respecting crew autonomy and the tradition's own risk-acceptance; or find a way to make the competition safer without ending it.
+**Consequence-test:** the exact mechanism that produces martyrs, happening in real time and small-scale, directly in front of the player.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — public overclock challenges.
+
+### 15. Two Registers, One Worker
+**Starting point:** a specific worker who seems permanently stuck in Aries' total-crisis-urgency register, unable to downshift back to steady baseline even during ordinary operations.
+**Chain:** the player notices this person can no longer tell the difference between a real emergency and routine work.
+**Fork:** help them relearn to distinguish the two registers; accept that some people are simply wired for constant urgency and that's their own valid way of being useful; or connect them with the Safety Engineer (candidate 3) as a case study in the culture's real cost.
+**Consequence-test:** the district's own established two operating registers — what happens when someone loses the ability to toggle between them at all?
+**Source:** `Aries_Full_Extrapolation.md` Section I.
