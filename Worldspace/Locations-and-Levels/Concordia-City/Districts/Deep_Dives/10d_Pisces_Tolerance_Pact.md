@@ -2,7 +2,7 @@
 
 **Purpose:** resolves the item flagged in `District_Canon_Reference.md` on 2026-07-11 — the developer wasn't sure what the Tolerance Pact actually was, or whether it stayed in canon at all, independent of the non-malice question (which it had already passed cleanly on its own terms: mutually beneficial, consensual, nobody exploited). This file supplies the resolution, derived directly from Pisces' own already-confirmed Black Market Origin rather than from a fresh set of candidates.
 
-**Status: CONFIRMED, 2026-07-29.** Not yet promoted into `District_Canon_Reference.md`'s full prose — held here as the confirmed reference, with a summary already added to the canon entry itself.
+**Status: CONFIRMED and PROMOTED, 2026-07-29.** `District_Canon_Reference.md`'s Tolerance Pact bullet already carries the full reframed prose. Downstream consistency fixes also made to `10_Pisces_Deep_Dive.md`, which had grouped the Pact with Gemini's Twin Channels and Libra's Suspended Compact as the same kind of deliberate institutional consensus — it isn't, and has been removed from that comparison.
 
 ---
 

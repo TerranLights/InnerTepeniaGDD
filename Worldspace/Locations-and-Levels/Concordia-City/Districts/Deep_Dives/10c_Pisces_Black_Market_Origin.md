@@ -2,7 +2,7 @@
 
 **Purpose:** resolves the item flagged in `TODO.md` on 2026-07-07 ("Pisces' Black Market Origin — deliberately deferred") — Pisces' already-established "Long Night War Black-Market Lifeline (early 2800s)" bullet in `District_Canon_Reference.md` states a fact (Pisces became the shadow economy that kept the city alive) without a mechanism. This file supplies one.
 
-**Status: CONFIRMED, 2026-07-29.** Not yet promoted into `District_Canon_Reference.md`'s Pisces entries — held here as the confirmed reference, same discipline as the Non-Malice Audit's own dedicated files before their combined promotion pass.
+**Status: CONFIRMED and PROMOTED, 2026-07-29.** Fully written into `District_Canon_Reference.md`'s "Long Night War Black-Market Lifeline" bullet, plus a new Triage Directive item added to Libra's own Treaty Archive Vaults entry. Downstream consistency fixes also made to `10_Pisces_Deep_Dive.md`. This file remains as the full reasoning record.
 
 ---
 
@@ -73,6 +73,6 @@ None of the above touches The Flood's own timing or mechanism in any way. The Fl
 
 ---
 
-## Not yet promoted
+## Promoted
 
-`District_Canon_Reference.md`'s existing Pisces bullets ("Early Exile Refuge for the Marginalized," "Long Night War Black-Market Lifeline") are not yet rewritten to reflect this confirmed mechanism — flagged with a pointer to this file, pending a future promotion pass (potentially bundled with the Tolerance Pact's own eventual resolution, since both live in the same section of Pisces' Historical Pressures).
+`District_Canon_Reference.md`'s "Long Night War Black-Market Lifeline" bullet now carries the full confirmed mechanism directly. "Early Exile Refuge for the Marginalized" needed no change, as designed. The Triage Directive was given an actual in-world home in Libra's own Treaty Archive Vaults entry. `Deep_Dives/10_Pisces_Deep_Dive.md` was corrected in three places that had asserted the old, pre-confirmation understanding as fact.
