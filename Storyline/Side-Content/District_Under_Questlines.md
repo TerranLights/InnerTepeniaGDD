@@ -928,3 +928,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** help them access their own file, whatever the consequences; advise against it, since some things might be better left unknown; or discover their file is surprisingly empty or mundane, a strange anticlimax after so much anxiety.
 **Consequence-test:** fair process should mean transparency to those it affects — does anyone actually have the right to know what's recorded about themselves?
 **Source:** `District_Canon_Reference.md`, Community Infrastructure — Dossier Awareness Gatherings.
+
+---
+
+## Gemini (The Circuit)
+
+**Civic belief (Concordia Section I):** *"a city becomes real through shared knowledge and connection... a true city is one where every part can actually talk to every other part, informed rather than isolated."*
+
+**Status: 15 of 15–20 target. Floor reached.**
+
+### 1. The Story That Broke Someone Else's Hierarchy
+**Starting point:** a Gemini Speed Faction figure, investigating a routine story, realizes alongside the player that their own reporting has been actively destabilizing Leo's internal hierarchy.
+**Chain:** a moment of real self-awareness inside a culture that rarely stops to consider consequences.
+**Fork:** shift toward a Verification-first approach where Leo is concerned, at real cost to their own standing; capitalize on the destabilization instead ("if I don't do it, someone else will"); or deliberately use their amplification power to broadcast Virgo's quiet aesthetic tradition to Leo — turning Gemini's dangerous capability into the mechanism that finally delivers Leo's cleanest possible recognition.
+**Consequence-test:** shared knowledge and connection is the belief — this tests whether that connection can be aimed on purpose, instead of just happening at random.
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1; Throughway 3.
+
+### 2. Maggie Aarden's Living Echo
+**Starting point:** a specific Dual-Network Operator (a strong companion or major NPC candidate) who has never once questioned their own comfortable, dual-service work.
+**Chain:** the player's own research positions this person to hear, for the first time, that their professional duality is a direct 250-year inheritance of Maggie Aarden's own coerced-but-outwardly-voluntary position as the Falkland Treaty's signatory.
+**Fork:** reveal the connection directly, risking a genuine identity crisis for someone who was functioning well by every visible measure; keep it private, preserving their stability but denying both of you the discovery; or use the revelation to recruit them toward investigating the Great Corruption itself, now that they have deeply personal motivation.
+**Consequence-test:** the only path connecting an ordinary present-day character directly to Tepenia's single oldest wound.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2; Throughway 1.
+
+### 3. The Senior Archaeologist's Old Case
+**Starting point:** the senior data archaeologist (Full Extrapolation Section V) — the same figure already flagged in Cancer's own Cross-Reference Synthesis as the natural connector for Sagittarius' lost frontier knowledge.
+**Chain:** working with this archaeologist on the Great Corruption, the player gets pulled into the Cancer/Sagittarius knowledge-recovery thread (Cancer candidate 2) at the same time.
+**Fork:** prioritize the Great Corruption's own 250-year mystery; prioritize the more immediate Sagittarius preservation crisis; or discover the two investigations actually inform each other in an unexpected way.
+**Consequence-test:** does the district's data-recovery mission actually have room to serve two urgent needs at once, or does something get sacrificed?
+**Source:** `Gemini_Full_Extrapolation.md` Section V; `Cancer_Full_Extrapolation.md` (cross-district link).
+
+### 4. The Polyrhythm, First Read
+**Starting point:** the player notices an unusual second rhythm layered on the district's ambient base light-pulse — the Lightwave Polyrhythm concept, made concrete for one specific instance.
+**Chain:** figuring out what the hidden message actually says, who sent it, and why.
+**Fork:** decode and act on the message directly; bring it to someone more qualified — a Verification Faction figure, or the Twin Channels apparatus itself — to interpret; or realize this specific message was never meant to be found by an outsider at all.
+**Consequence-test:** does true shared connection include respecting that some messages were deliberately hidden for specific eyes only?
+**Source:** `Gemini_Full_Extrapolation.md` Section IV, the Lightwave Polyrhythm.
+
+### 5. Shadow Network, First Contact
+**Starting point:** a Shadow Network Access Point — a physical, unofficial location reaching the "unofficial" side of the Twin Channels.
+**Chain:** the player's first direct encounter with the shadow network, guided by someone (plausibly a Dual-Network Operator) who has to decide how much to actually reveal.
+**Fork:** fully initiate the player into understanding both channels; keep it minimal and surface-level, respecting the code of official non-acknowledgment; or discover the shadow network has its own internal factions the official story doesn't capture either.
+**Consequence-test:** a city where every part can talk to every other part — does that include the part that officially doesn't exist?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Shadow Network Access Points.
+
+### 6. The Attention Economy's Newest Casualty
+**Starting point:** the Attention Economy Trading Floors, a market specifically for "reach" and reputation itself.
+**Chain:** the player meets someone financially and socially ruined by a deliberate reach manipulation — their reputation "sold short" by someone trading against them.
+**Fork:** help them recover their reach through legitimate means; help them retaliate in kind, perpetuating the same market logic; or expose the trading floor's own manipulation practices as a systemic problem.
+**Consequence-test:** does treating attention as a tradeable commodity serve genuine connection, or corrupt it?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Attention Economy Trading Floors.
+
+### 7. Two Versions, One Wedding
+**Starting point:** a Two-Version Storytelling Night, telling a real, recent event's "official" and "real" versions back to back.
+**Chain:** the player recognizes the "real" version told still differs from what they personally witnessed or were told elsewhere — a direct, personal encounter with Gemini's duality practiced as entertainment.
+**Fork:** correct the version being told, since the player knows better; let the tradition run its course, since everyone already understands both versions exist; or contribute the player's own account as a third perspective, complicating the neat binary further.
+**Consequence-test:** does formalizing the "two versions" duality into entertainment serve connection, or does it just make a duplicity comfortable that maybe shouldn't be?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Two-Version Storytelling Nights.
+
+### 8. The Reach Redistribution Test
+**Starting point:** Reach Redistribution Gifting, where high-reach figures periodically lend attention to newcomers.
+**Chain:** a specific gift of attention backfires — the newcomer wasn't ready, or used the boosted reach for something the gifter wouldn't endorse.
+**Fork:** help the gifter and newcomer repair the relationship; let the newcomer keep the reach despite the complication, honoring the gift as unconditional; or help establish some accountability structure for future gifts.
+**Consequence-test:** is a gift of attention genuinely generous if it carries any expectation, and what happens when a truly unconditional one goes wrong?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Reach Redistribution Gifting.
+
+### 9. The LAN Party's Newest Player
+**Starting point:** a Jack-in LAN Party — robots connecting via Bridge Unit, humans via VR/AR, playing a shared game together.
+**Chain:** a specific first-time participant has either a genuinely meaningful cross-species connection moment, or real difficulty and exclusion.
+**Fork:** help smooth the newcomer's experience; let them navigate the awkwardness themselves, as a genuine social learning moment; or discover the game itself has a technical or cultural bias favoring one side that the organizers haven't noticed.
+**Consequence-test:** is the LAN party genuinely equalizing, or does it just look that way on the surface while subtly favoring one side?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Jack-in LAN Parties.
+
+### 10. The Great Corruption Recovery Archive's New Lead
+**Starting point:** The Great Corruption Recovery Archive, where data archaeologists work on reconstructing what was lost.
+**Chain:** the player, browsing or assisting, finds a genuinely new lead touching the Great Corruption's own targeted-vs-accidental nature.
+**Fork:** pursue the lead further, carefully, toward the mystery's still-deliberately-open timing and mechanism; share it with the senior archaeologist (candidate 3); or realize the lead is a dead end, itself informative about how hard this mystery actually is.
+**Consequence-test:** a genuine next-step seed toward the Great Corruption's eventual resolution, without forcing it here.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Great Corruption Recovery Archive; `Deep_Dives/09_Gemini_Deep_Dive.md`.
+
+### 11. Zukelli Memory Circle, A Newcomer's Grief
+**Starting point:** a Zukelli Memory Circle, a quiet regular gathering for Zukelli refugees.
+**Chain:** a new Zukelli survivor joins for the first time, and their grief — angrier, or more numb — doesn't match the Circle's own established rhythms.
+**Fork:** help the Circle adapt to include this different grief register; help the person find their own separate way to process, outside the Circle; or discover the Circle has quietly developed unspoken rules about "acceptable" grief that need examining.
+**Consequence-test:** does a support community's own established rhythm actually serve everyone who needs it, or does it quietly exclude those who grieve differently?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Zukelli Memory Circles.
+
+### 12. The Slow Room's Reluctant Visitor
+**Starting point:** a Speed Problem Slow Room, a deliberately isolated space for processing information without speed pressure.
+**Chain:** a hardened Speed Faction figure is essentially forced — by health, burnout, or a costly mistake — to spend real time in a Slow Room for the first time.
+**Fork:** help them genuinely learn to value slower processing; let them white-knuckle the minimum required time and return to speed immediately; or discover the Slow Room reveals something about a past story they rushed and got wrong.
+**Consequence-test:** connection requires being informed, not just fast — can a die-hard speed-culture figure actually learn this, or is it too late for someone this deep in?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Speed Problem Slow Rooms.
+
+### 13. Signal Storm, Interrupted
+**Starting point:** a synchronized "signal storm," where the whole district briefly floods the net with the same verified packet.
+**Chain:** during the storm, a competing, unverified rumor tries to piggyback on the moment's high visibility, testing whether the verified signal can actually cut through in real time.
+**Fork:** help suppress or discredit the competing rumor before it spreads; let the two signals compete, trusting the district's own verification culture to sort it out; or discover the "competing rumor" is actually also true, just not yet verified through official channels.
+**Consequence-test:** does shared, verified knowledge actually work as a district-wide ritual under real competitive pressure, or only when nothing's contesting it?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — synchronized "signal storms."
+
+### 14. The Verification Guild Supper's Uncomfortable Truth
+**Starting point:** a Verification Guild Supper, an informal meal among serious investigative journalists.
+**Chain:** a respected member confesses, or is confronted with evidence, that they once let a story through without fully verifying it — because verifying it properly would have cost them the "first" credit.
+**Fork:** help the Guild address it quietly, preserving the member's reputation; push for public accountability, risking the Guild's own credibility; or discover this wasn't an isolated lapse, but a more common quiet practice than anyone admits.
+**Consequence-test:** does the Verification Faction's own identity as Gemini's honest counterweight to Speed actually hold up under its own scrutiny?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Verification Guild Suppers.
+
+### 15. Truth Market Haggling, For Something That Matters
+**Starting point:** a Truth Market Haggling Hour, the set social time to socialize at the Truth Markets rather than just transact.
+**Chain:** during casual haggling, a piece of information with real, high personal stakes for someone comes up for trade, and the casual setting suddenly carries genuine weight.
+**Fork:** help broker a fair trade for the information; help the person in need find another way to get it without paying the asking price; or discover the seller doesn't actually understand the information's real value, raising an ethical question about whether to correct them.
+**Consequence-test:** does pricing information like a commodity survive contact with information that's actually, personally, urgently important to someone?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Truth Market Haggling Hours.
