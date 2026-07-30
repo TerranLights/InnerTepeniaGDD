@@ -145,6 +145,8 @@ Net effect: a single origin → custodian → doctrine arc spanning the founding
 
 ### The Continuity and Stability Act — adopted in principle, partially
 
+**Structural format and full "must be true" / "cannot be true" stipulations for the actual document, including a flagged inconsistency over whether Capricorn and Leo count as confirmed provisions, now live in `Continuity_and_Stability_Act_Requirements.md`** — the Act has since grown well beyond this file's own original three-district scope and warrants its own dedicated reference.
+
 The Act is adopted as the unifying explanation for **some**, not all, of the above:
 
 - **Aries' A3** (the stability-review protocol) is an explicit surviving provision of the Act — "safety protocols without oversight."

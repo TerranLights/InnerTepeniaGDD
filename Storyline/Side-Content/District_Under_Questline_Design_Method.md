@@ -116,6 +116,29 @@ method:
 8. **The Super-Ultra-Megasheet**, wherever it touches Concordia or this specific district — same role the
    DLC method's input 8 played, one level further up the hierarchy.
 
+9. **The district's own confirmed Cross-District Non-Malice Audit mechanism file, if one exists** —
+   `Deep_Dives/06b_Capricorn_Alternative_Conditions.md`, `01b_Cancer_Rationing_of_Grief_Alternatives.md`,
+   `03b_Leo_Star_War_Alternatives.md`, `10c_Pisces_Black_Market_Origin.md`, `10d_Pisces_Tolerance_Pact.md`,
+   `10b_Pisces_Flood_Mechanism.md`, or `../Cross_District_Power_Leverage_Alternatives.md` for Aries, Libra,
+   and Scorpio. **Added 2026-07-29, weighted as high as input 6, for the same reason:** these files are
+   already written in almost exactly the shape a finished candidate needs — a specific cause, a chain of
+   escalating consequences, named artifacts and figures, and a confirmed present-day state — because they
+   were built through the same But/Therefore-style reasoning this method itself uses, just for a different
+   purpose. Where one exists, treat the concrete artifacts and figures inside it (a findable document, a
+   named historical figure, a specific location) as strong starting-point candidates in their own right,
+   not just background lore to summarize. Not every district has one of these yet — the audit only reached
+   districts whose Historical Pressures needed a non-malice rework, plus Capricorn's separately-tracked
+   core injustice.
+
+   **A related cross-district thread, not yet resolved:** the Continuity and Stability Act
+   (`Continuity_and_Stability_Act_Requirements.md`) is a confirmed, live cross-district mystery — several
+   districts' quiet-power mechanisms trace back to one undiscovered founding-era document, with a genuine
+   findable first piece of evidence already placed in Libra's Treaty Archive Vaults. This is exactly the
+   kind of cross-district seed this method already encourages (see below). It does not need to be fully
+   drafted before running this method — see the reasoning recorded when this note was added — but any
+   candidate that treats the Act as something with one complete, findable master copy would violate its own
+   confirmed requirements, and should be reworked rather than used as written.
+
 ---
 
 ## Step 2: Construct Candidate Chains

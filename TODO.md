@@ -4,6 +4,14 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## The Continuity and Stability Act — requirements confirmed 2026-07-29, actual document not yet drafted
+
+Structural format and full "must be true" / "cannot be true" stipulations are locked in `Worldspace/Locations-and-Levels/Concordia-City/Districts/Continuity_and_Stability_Act_Requirements.md`. **Still open before drafting:** whether Capricorn and Leo count as confirmed provisions of the Act (loosely gestured at in earlier files but never actually confirmed in either district's own writeup — a real, flagged inconsistency) or are explicitly left out, same as Scorpio's own looser, derivative connection. Once that's resolved: draft the actual Articles (how many, what each broadly authorizes), and place each district's own partial citation of the Act somewhere in-world (Pisces' Triage Directive already has a home in Libra's Treaty Archive Vaults; the others don't yet).
+
+**Also flagged 2026-07-29 — eventually create additional Under-Questlines using the Act as a reference,** once it's drafted: a genuine cross-district "connect the dots" investigation thread (plausibly a Gemini data archaeologist, per that district's own established role) piecing together Aries', Libra's, Cancer's, and Pisces' separate partial citations to reveal the Act's existence. `District_Under_Questline_Design_Method.md`'s own input 9 already flags this as a strong cross-district seed — this note just tracks it as a concrete future to-do once the Act itself actually has Articles to cite.
+
+---
+
 ## National currency name and mechanics — flagged 2026-07-29, deliberately deferred
 
 "Scrip" (`Worldspace/National_Economy_and_Currency.md`) was never the developer's own term and needs renaming — but it appears across 100+ files (course-of-events entries, code architecture docs, city lore), so this isn't a quick swap. Two things need deciding together, not separately: the actual name, and the actual mechanics of how the currency works (still not fully sorted out). Don't rename piecemeal — revisit as its own dedicated pass once both are decided.
