@@ -4,9 +4,13 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
-## Byrd — flagged 2026-07-30, will need an enormous amount of data design & development
+## Byrd — deep-dive pass complete 2026-07-30; Main Questline Candidates now the live work
 
-Byrd is its own subnet, not yet brought into the current DLC-city Community Infrastructure & Under-Questline push (Mirny, Halley, Janbogo, Palmer, Mawson subnets). Already flagged separately in `Byrd_DLC_Enrichment_Possibilities.md` as having real open enrichment ideas and guidelines, deferred. Given Byrd's own established profile (isolation at maximum scale, per `Distinguishing_Overlapping_Profiles.md`) and its likely city count, this will be a substantially larger undertaking than any of the five subnets currently in progress — tackle it as its own dedicated pass once those five are further along, not folded in piecemeal.
+Byrd's own dedicated deep-dive is done: `Byrd_Physical_Infrastructure_Attributes.md` (72 numbered physical/civic attributes, derived first-principles and via a 34-city cross-comparison pass, plus 52 Cross-Referenced Extrapolation Findings against Byrd's existing plot/faction material), followed by `Byrd_Community_Infrastructure.md` (Additions/Small-offices/Social-cohesion-mechanisms, built directly from that attribute base) — concatenated into `Byrd/README.md`. This closes out the entire nationwide Community Infrastructure & Social Life push (35/35 subnet cities, plus Concordia's 13 districts done earlier).
+
+**Still open:** `Storyline/DLC-Questlines/Byrd/` main questline candidates — every other DLC subnet already has 10–25 candidates on file (Palmer 25, Mawson 10, Halley 25, Janbogo 20, Mirny 25); Byrd (DLC 2) currently has none. `DLC_Overview.md` still lists three candidate central-conflict anchors from 2026-07-08 with none chosen (The Chamber Crisis, What's Actually Down There, The Isolation Crisis). Now in active production — see below.
+
+**Byrd Highway/Isolation Contradiction** (its own separate entry below, unchanged — "flag, don't fix" remains the developer's explicit direction) is directly load-bearing for anchor #3 specifically; Main Questline candidates built on the Isolation Crisis anchor should be written to hold up under either resolution of the contradiction, not pick a side pre-emptively.
 
 ---
 

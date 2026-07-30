@@ -452,6 +452,368 @@
 
 ---
 
+### Finding 23: The mothballed airfield physically embodies the Grounded Wings' "permanent archivists" ethos, not neglect
+
+**Combining:** attribute #59 above (a mothballed airfield/runway/hangar complex, a genuine gap surfaced only via the cross-city comparison pass) + `Byrd_Course_of_Events_Suggestions.md` chain #7 ("The Fleet That Grounded Itself" — the crews who lost the fleet's own repair argument became "permanent archivists... custodians of a standing, ready diagnosis rather than active operators") + Finding 14 above (the Grounded Wings' devoted-archivist institutional character, distinct from a faction simply stuck maintaining broken machines).
+
+**2nd-order effect:** a guild whose actual daily practice is keeping a diagnosis current and complete "against the day it might matter again" (Finding 14) would have direct, physical reason to keep the hangar complex itself in genuinely maintained, operational-ready condition — swept, organized, aircraft covered and preserved — rather than letting it decay the way an abandoned facility elsewhere might.
+
+**3rd-order effect:** this turns attribute #59 from a passive physical fact (a runway exists, unused) into an active, legible piece of civic character — a visitor or player walking through the mothballed hangars wouldn't find neglect or rust, but a facility maintained with a precision that reads as genuine hope rather than resignation, the exact tension Finding 14 already identifies between "faction stuck maintaining machines that don't work" and Byrd's own actual, richer established lore.
+
+**4th-order effect:** worth flagging as a strong, concrete physical-space beat for whenever Byrd's own level design or Community Infrastructure content reaches the Grounded Wings specifically — the hangar's own state of upkeep is a wordless way to communicate the guild's whole institutional character before a single line of dialogue does.
+
+---
+
+### Finding 24: Byrd's Arcanet access creates a physical-vs-digital isolation mismatch worth deliberately dramatizing
+
+**Combining:** attribute #62 above (an Arcanet access node connecting Byrd to the national network, distinct from the purely internal wired backbone, attribute #46) + the established national Leyline social network ([[project_leyline]]) + `Local_Cultures/Byrd_Subnet/Byrd.md`'s own established "reserved but genuine" hospitality register, where visitors are rare enough to be treated as a genuine event.
+
+**2nd-order effect:** if Byrd genuinely maintains a working Arcanet connection despite its highway/aviation uncertainty, its population isn't informationally cut off from the rest of Tepenia the way its physical remoteness would suggest — residents plausibly know exactly what's happening nationally, engage with Leyline, and are aware of the wider country in real time, even while going years between actual in-person visitors.
+
+**3rd-order effect:** this sharpens Byrd's own established isolation into something more specific and poignant than simple cutoff — not "we don't know what's out there," but "we know exactly what's out there, and it almost never comes here in person," a genuinely different emotional shape than blanket informational isolation, and one that plausibly makes actual visitors land even harder against a population already fully aware, via Arcanet, of what they're missing.
+
+**4th-order effect:** worth flagging directly for Community Infrastructure & Social Life content — a resident character reacting to an outside visitor with informed, specific curiosity (rather than blank unfamiliarity) would be a small, accurate way to dramatize this exact physical-vs-digital isolation gap, distinguishing Byrd's isolation from a more generic "nobody here has ever heard of the outside world" framing.
+
+---
+
+### Finding 25: The five guildhalls form a literal, walkable timeline of Byrd's own economic history
+
+**Combining:** attribute #63 above (five physical guildhalls, one per guild) + Finding 12 above (the Chamber Works' original workforce split as "the template Byrd's economy unconsciously reproduces," with dispatch, infrastructure/snow management, extraction, and aviation maintenance all later differentiating out the same way) + attribute #72 above (a visible old-core vs. newer-expansion structural distinction within the city).
+
+**2nd-order effect:** if guild differentiation happened sequentially, in the order Finding 12 traces (fabrication first, via the Chamber Works' own vetted-specialist split, then the other four sectors following the same pattern later), the five guildhalls plausibly aren't uniform in age or construction style — the Fabricators' own hall, especially anything tied to the original Chamber Works, would sit among the oldest, most structurally established parts of the city, while the Grounded Wings' hall (the smallest, most recently formalized guild per `Byrd_Full_Extrapolation.md` Section I) plausibly sits in comparatively newer construction.
+
+**3rd-order effect:** this gives attribute #72's own general old-core/new-expansion distinction a specific, guild-by-guild texture rather than a purely spatial one — walking from the oldest to the newest guildhall would trace, physically, the same sequence Finding 12 already establishes in institutional terms, turning an economic history into literal, navigable geography.
+
+**4th-order effect:** worth treating as a genuinely strong organizing principle for Byrd's own eventual physical level layout — five guildhalls of visibly different architectural vintage, in a sequence that matches their own real differentiation order, gives the whole city an intuitive, unspoken sense of its own history that wouldn't need to be explained through dialogue or text at all.
+
+---
+
+### Finding 26: The ore-processing/quarry facility sits at Byrd's single most structurally exposed point
+
+**Combining:** attribute #64 above (a dedicated ore-processing/quarry facility for the Prospectors' Circle) + Finding 16 above (the Jamshedpur precedent, extraction plausibly sited immediately adjacent to fabrication) + attributes #39–40 above (insulation against the surrounding ice, meltwater drainage at the interior/ice boundary) + `Byrd_Course_of_Events_Suggestions.md` chain #11 ("The Weight of All That Digging," the structural strain event that made monitoring permanent).
+
+**2nd-order effect:** extraction work, by its own nature, actively pushes outward into new ground, meaning the Prospectors' Circle's own daily work is the one guild activity most likely to be the thing that actually reaches the ice boundary attributes #39–40 exist to manage, rather than simply working within already-stabilized, already-insulated sections of the city the way the other four guilds mostly would.
+
+**3rd-order effect:** combined with Finding 16's own claim that extraction sits immediately against fabrication, this means the Prospectors' Circle's own facility plausibly sits at the literal intersection of three of this file's own established hazards at once — active excavation, proximity to heavy fabrication heat, and direct exposure to the ice boundary's own insulation/meltwater concerns — making it, by a wide margin, the single physical location in Byrd where chain #11's own structural-strain event would first become visible.
+
+**4th-order effect:** worth flagging directly as the most load-bearing single physical location for any future structural-crisis content — if Byrd's own DLC 2 struggle or any future Course of Events chain ever needs a specific place where "the digging finally goes wrong," the Prospectors' Circle's own facility is now the physically best-supported candidate, rather than an arbitrary or unspecified tunnel section.
+
+---
+
+### Finding 27: The public library and formal archive are explicitly not where Byrd's pre-exile discoveries live — a deliberate, usable gap
+
+**Combining:** attribute #65 above (a formal public library) + attribute #66 above (a formal city records/archive hall, explicitly distinguished from the deliberately-absent centralized pre-exile archive) + Finding 3's own correction (`Byrd_Course_of_Events_Suggestions.md` chain #9 establishes no centralized preservation effort was ever built for pre-exile deep-tunnel finds, only scattered personal crew notes).
+
+**2nd-order effect:** Byrd now has two entirely conventional, functioning civic knowledge institutions — a library and a records hall — sitting alongside a genuinely unresolved, deliberately uncentralized body of knowledge about its own deepest history; the ordinary institutions exist precisely so this specific, different kind of gap reads as a real absence rather than simply an underdeveloped setting.
+
+**3rd-order effect:** this gives a concrete, in-world way to dramatize Finding 3's own established mechanism directly — a player or character going to Byrd's library or archive specifically looking for pre-exile information would get a clean, textured "no" (helpful staff, an ordinary and complete catalog of everything else, but nothing on this one subject), rather than the absence simply never coming up.
+
+**4th-order effect:** worth flagging as a strong candidate quest or dialogue beat once Byrd's own content reaches that level of specificity — sending a player to the "obvious" place to look for buried history, only to have the city's own established lore (chain #9) explain, in-world, exactly why that place won't have it, redirecting them toward the scattered, personal, harder-to-find sources chain #9 already establishes as the only real path to that information.
+
+---
+
+### Finding 28: The commercial hall/marketplace is the most likely physical site of Byrd's own Coober-Pedy-style coexistence
+
+**Combining:** attribute #67 above (a commercial hall/marketplace distributing in-house-manufactured goods) + Finding 20 above (Coober Pedy's real precedent arguing Byrd's founder/majority demographic tension resolves as coexistence, not smoothed-over unity) + Finding 7 above (structural/institutional knowledge concentrating unevenly between founding-descendant families and the later-arrived majority).
+
+**2nd-order effect:** a shared commercial space serving all guilds and all population threads is exactly the kind of setting where Finding 20's "distinct social threads sharing the same tunnels... without necessarily converging into one indistinguishable culture" would show up in concrete, everyday form — not as abstract demographic fact, but as visibly different stalls, goods, or trading customs sitting side by side under one roof.
+
+**3rd-order effect:** this gives the marketplace a sharper civic role than pure economic function — it's plausibly the single most reliable place in Byrd to actually observe the population's real, un-smoothed diversity firsthand, in contrast to more institutionally uniform spaces like the guildhalls (Finding 25) or the civic archive (Finding 27), where a single shared professional or administrative culture would dominate over any given population's own distinct thread.
+
+**4th-order effect:** worth treating as the natural default location for Community Infrastructure & Social Life content that wants to show Byrd's demographic breadth directly, rather than telling it — the marketplace is where the 41-nation population (`Byrd_Catalog.md`'s own City Snapshot) would most plausibly still look and feel genuinely varied, consistent with both Finding 20's own real-world grounding and the Catalog's own established population breakdown.
+
+---
+
+### Finding 29: The underground energy storage reserve is the specific engineered mechanism that makes Finding 2's power-independence claim actually hold
+
+**Combining:** attribute #71 above (an underground energy storage reserve — flywheel, battery, or thermal buffer) + attribute #70 above (a dedicated geothermal/volcanic-activity monitoring station, distinct from general structural monitoring) + Finding 2 above (Byrd's independent geothermal power meant the Chamber Works survived the Amundsen Tower's collapse intact, unlike Mountain Pass).
+
+**2nd-order effect:** attribute #70's own reasoning establishes that a volcanic/geothermal source plausibly has variable output, not a perfectly steady one — which means Finding 2's own claim (Byrd's chamber manufacturing never had a power interruption) needed more than simple independence from the Tower's grid; it needed something absorbing that variability so output-sensitive chamber fabrication (already established elsewhere in the project as a slow, precision-demanding process) never actually saw the source's own fluctuation.
+
+**3rd-order effect:** the energy storage reserve is exactly that missing mechanism — not a redundant afterthought, but the specific piece of engineering that converts "independent power source" into "power source reliable enough to keep the nation's rarest manufacturing process running without interruption," closing a gap Finding 2 left implicit.
+
+**4th-order effect:** worth carrying forward as connective tissue the moment Byrd's own power infrastructure gets developed further in any future pass — Finding 2's own causal claim is meaningfully stronger with attribute #71 named specifically as the mechanism, rather than resting on "independent generation" alone.
+
+---
+
+### Finding 30: The Dispatch guild's coordination office is where Byrd's highway dependency (Finding 11) would be felt first, daily, rather than only in a future crisis
+
+**Combining:** attribute #61 above (a dedicated Dispatch coordination office/yard) + Finding 11 above (Byrd's own founding-era decision to maintain both highways indefinitely, now a fixed, non-optional line item in the city's economy) + attribute #45 above (waystation and beacon infrastructure along Hwy 1 and Hwy 22).
+
+**2nd-order effect:** if waystations and beacons exist specifically to track highway conditions (attribute #45), the Dispatch guild's own coordination office is the one physical location in the entire city where that information actually converges and gets acted on — not an abstract economic dependency, but a literal, staffed room watching the health of the two roads Finding 11 establishes Byrd cannot afford to lose.
+
+**3rd-order effect:** this means any future strain on Hwy 1 or Hwy 22 — whether from Finding 15's Norilsk-style single-thread fragility, chain #11's own structural risk, or DLC 2's own still-undeveloped crisis — would plausibly show up first as a change in this specific office's daily routine, long before it registers as a citywide economic statistic or a guild-level policy discussion.
+
+**4th-order effect:** worth flagging as a strong, grounded location for whenever DLC 2's own central crisis gets developed — the Dispatch coordination office is a natural, already-supported place to stage the moment Byrd's leadership or its population first realizes something is genuinely wrong with the roads, rather than needing an invented "situation room" with no established basis.
+
+---
+
+### Finding 31: The emergency backup access shaft doesn't resolve Byrd's single-point-of-failure risk — it repeats the same "one working option, thin backup" shape at a second scale
+
+**Combining:** attribute #50 above (an emergency backup/secondary access shaft, deliberately smaller and slower than the primary elevators) + attribute #18 above (the elevators as Byrd's *sole* surface connection) + Finding 15 above (the Norilsk precedent — Byrd's whole external relevance pinned on whichever single highway connection survives).
+
+**2nd-order effect:** a backup shaft that's explicitly minor and slow doesn't actually give Byrd a second, comparable surface connection — it gives Byrd one real option and one deliberately thin last resort, which is structurally the same shape Finding 15 already identifies at the highway level (one working connection, non-negotiable, everything riding on it).
+
+**3rd-order effect:** this means the "single working lifeline plus thin backup" pattern isn't unique to Byrd's external relationship with the rest of Tepenia — it's a shape the city has apparently built into itself internally too, at the elevator level, independent of anything happening on Hwy 1 or Hwy 22. The same civic instinct producing Finding 15's external fragility plausibly produced this internal one as well.
+
+**4th-order effect:** worth flagging as a genuine, repeating structural motif for Byrd's own character — not a coincidence to explain away, but a real pattern in how this specific city solves scarcity problems (build the one thing that has to work, then whatever thin contingency resources actually allow, rather than true redundancy), consistent across both its external and internal lifelines.
+
+---
+
+### Finding 32: Byrd's internal transit system plausibly mirrors and reinforces the human/robot vertical stratification, rather than serving the city uniformly
+
+**Combining:** attribute #34 above (an internal mass-transit system for movement across the underground volume) + attributes #19–20 above (human residential concentration toward upper levels, robot concentration extending deeper) + Finding 9 above (the elevators as Byrd's real district gates).
+
+**2nd-order effect:** a transit system built to serve a population that isn't evenly distributed by depth would plausibly not be built with uniform frequency, comfort, or capacity at every level either — the upper, human-concentrated levels (closer to the elevators, per Finding 9) most likely receive denser, more passenger-oriented service, while the deeper, robot-concentrated levels most likely receive sparser, more utilitarian service matched to freight and maintenance needs rather than daily commuting comfort.
+
+**3rd-order effect:** this gives Finding 9's own "elevators as district gates" claim a second, complementary layer — the internal transit system functions as the connective tissue *within* whichever side of the elevator gate a person or robot is already on, with its own design quietly encoding the same upper/deeper population split rather than treating the whole vertical city as one undifferentiated transit market.
+
+**4th-order effect:** worth flagging for level design — a rider's actual experience of Byrd's internal transit (how crowded, how frequent, how comfortable) would plausibly change noticeably as they descend, giving depth a felt, moment-to-moment texture beyond the purely spatial "district-substitute" reading Finding 9 already proposes.
+
+---
+
+### Finding 33: Solid-waste and scrap recycling plausibly closes a literal loop with Byrd's own consumer-goods manufacturing, not two separate systems
+
+**Combining:** attribute #52 above (solid waste and industrial scrap handling/recycling infrastructure) + attribute #25 above (in-house manufacturing of ordinary consumer goods) + Finding 12 above (the Chamber Works' original workforce split as the template Byrd's whole economy unconsciously reproduces).
+
+**2nd-order effect:** attribute #25 already establishes that Byrd's self-sufficiency instinct "reflexively applies" to everyday goods, not just critical resources — scrap recycling is the natural supply-side half of that same instinct: raw material a well-connected city would simply discard instead gets sorted and fed back into the very consumer-goods production attribute #25 already describes.
+
+**3rd-order effect:** this makes waste handling and consumer-goods manufacturing two ends of one physical process rather than unrelated civic systems, which plausibly gives the Fabricators' Guild (or a closely allied sub-specialty within it) direct institutional reason to also oversee scrap sorting and recycling — another small, concrete instance of Finding 12's own claim that specialization in Byrd tends to grow outward from the Fabricators' original workforce-split template rather than emerging independently.
+
+**4th-order effect:** worth flagging as a specific, physical detail for whenever Byrd's Community Infrastructure content reaches the Fabricators' Guild — everyday consumer goods in Byrd plausibly carry a visible, unglamorous "made from what didn't get thrown out" quality, a small, lived expression of the same necessity-into-pride identity arc `Byrd_Catalog.md`'s own Synthesis Notes already establish for the city as a whole.
+
+---
+
+### Finding 34: The cold-weather surface-operations gear staging area is the single most concrete physical location for eventually resolving Enhancement Opportunities idea 5
+
+**Combining:** attribute #33 above (cold-weather surface-operations gear and staging areas, stockpiled near the elevator housings) + attribute #44 above (the Arrastradora/ground-vehicle maintenance depot) + Finding 22 above (the still-open question of whether people ever personally traveled Hwy 1/22, tied directly to the Arrastradora vehicle lineage Byrd itself manufactures).
+
+**2nd-order effect:** whichever way that still-open question eventually resolves, the staging area's own physical sizing and stocking would have to reflect the answer — gear and provisions sufficient only for brief surface-city excursions (weather checks, elevator maintenance) reads as physical evidence *against* personal highway travel ever having been routine, while stock sized for multi-day overland trips reads as physical evidence *for* it.
+
+**3rd-order effect:** this turns an abstract, still-undecided lore question into a concrete art/writing decision — how one storage area is described or depicted is, by itself, enough to settle Enhancement Opportunities idea 5 one way or the other, without requiring an entirely new Course of Events chain to do it explicitly.
+
+**4th-order effect:** worth flagging directly as the lowest-effort path to finally resolving this specific open thread — whoever next works on Byrd's surface-city physical detail could settle the question simply by choosing what this one staging area actually looks like, rather than needing dedicated narrative content.
+
+---
+
+### Finding 35: Whoever physically operates the elevators holds a quiet, structurally real form of civic power that doesn't depend on formal guild politics
+
+**Combining:** attribute #47 above (access control and monitoring infrastructure at the elevator chokepoints) + attribute #18 above (the elevators as Byrd's sole surface connection) + Finding 7 above (the tension between founding-descendant institutional knowledge and the later-arrived majority population).
+
+**2nd-order effect:** control over the single physical chokepoint connecting the entire underground city to the surface is a genuinely consequential form of leverage — over freight, over who can leave or arrive, over information flow — independent of whether that leverage is ever formally recognized in Byrd's own guild-based power structure or even consciously exercised day to day.
+
+**3rd-order effect:** this gives Finding 7's own founding-descendant/majority tension a second, more concrete axis to run along — if elevator operation happens to concentrate in the same founding-descendant hands Finding 7 already proposes hold disproportionate structural-monitoring and wayfinding knowledge, that population would hold not just institutional memory, but literal physical control of Byrd's only way in or out, a much sharper form of the same imbalance.
+
+**4th-order effect:** worth flagging as unclaimed dramatic material — a quiet, never-formally-contested source of leverage is a more interesting fault line than an openly acknowledged power structure, and gives any future DLC 2 political content a concrete lever to pull that doesn't require inventing new institutions Byrd's own established lore doesn't otherwise support.
+
+---
+
+### Finding 36: Byrd's medical establishment plausibly carries a second, distinct uncredited competence — epidemiological containment, not just surgical skill
+
+**Combining:** attribute #51 above (dedicated quarantine/isolation medical facilities, distinct from general hospital care) + Finding 5 above (Byrd's second "uncredited competence" — exceptional medical/surgical capability nobody outside the city knows about, forced by the total absence of evacuation).
+
+**2nd-order effect:** the same total-isolation logic driving Finding 5's surgical-competence claim applies with equal force to disease containment — a population that can't evacuate a critical trauma patient also can't evacuate an outbreak's source, meaning Byrd's medical establishment would have had to develop genuine epidemiological and containment expertise independently, with no realistic outside consultation available if it were ever needed.
+
+**3rd-order effect:** this means Finding 5's "uncredited competence" isn't a single specialty quietly exceeding outside expectations — it's plausibly two distinct, separately-earned competencies (trauma/surgical and epidemiological/containment), each forced by the same underlying isolation but requiring genuinely different training and practice to develop.
+
+**4th-order effect:** worth flagging alongside Finding 5 as an expanded version of the same unclaimed Notable Figure or side-content thread — a character whose expertise is specifically containment rather than surgery would be a distinct, equally unclaimed angle, giving Byrd's medical establishment more than one plausible face rather than concentrating the whole theme in a single specialist.
+
+---
+
+### Finding 37: Noise/vibration dampening near residential zones plausibly works against the tunnel-acoustics early-warning method Finding 8 already proposes — a real engineering trade-off, not a free bonus
+
+**Combining:** attribute #29 above (noise and vibration dampening infrastructure near residential zones) + Finding 8 above (Byrd's genuinely distinct tunnel acoustics functioning as a real, working structural early-warning method) + `Local_Cultures/Byrd_Subnet/Byrd.md` Section 14's own established fact that Byrd's tunnels "carry sound differently."
+
+**2nd-order effect:** dampening infrastructure installed specifically to protect residential comfort would, by its own function, reduce exactly the kind of acoustic signal transmission Finding 8 proposes trained listeners rely on to detect structural stress before it becomes visible — the two attributes don't simply coexist, they plausibly work against each other in the same physical space.
+
+**3rd-order effect:** this means Byrd's own engineers (per Finding 8, the Foundation Keepers and Prospectors' Circle) would have had to make a genuine, consciously-weighed trade-off between residential acoustic comfort and structural-monitoring sensitivity in any given dampened zone, rather than simply enjoying both benefits everywhere — a real design tension, not a contradiction to quietly ignore.
+
+**4th-order effect:** worth flagging as a small but genuine correction to Finding 8, in the same spirit as Finding 3's own earlier correction — the early-warning method Finding 8 proposes is most plausible specifically in non-dampened, non-residential sections of the tunnel network (industrial and structural-access zones), while residential zones trade some of that sensitivity away deliberately, for the comfort attribute #29 exists to provide.
+
+---
+
+### Finding 38: Communal dining built around fermentation-preserved food plausibly becomes a small, concrete echo of Byrd's own "necessity into pride" identity arc
+
+**Combining:** attribute #68 above (communal dining/kitchen facilities tied to guild shift schedules) + attribute #69 above (a dedicated fermentation/preservation craft facility) + `Byrd_Catalog.md`'s own established Concepts-of-Self finding — self-sufficiency "that began as sheer necessity and only became pride over time... hardship absorbed and metabolized into identity without much reflection along the way."
+
+**2nd-order effect:** fermentation exists in attribute #69 purely as a practical extension of the isolation-driven food-security chain (buffer-stock discipline, attribute #13; domestic food growth, attribute #24) — but food preserved this way, served in a shared communal setting tied to the rhythm of guild work (attribute #68), is exactly the kind of unglamorous daily practice the Catalog's own Synthesis Notes describe as eventually "metabolized into identity without much reflection."
+
+**3rd-order effect:** this gives Byrd's single biggest established identity theme (necessity quietly becoming pride, at the level of the whole city's founding character) a small, lived, everyday instance at the scale of a single shared meal — residents plausibly wouldn't describe fermented, preserved communal food as deprivation or substitute cuisine, but simply as what people here eat, the same unreflective absorption already established for the city's founding character more broadly.
+
+**4th-order effect:** worth carrying forward directly into Community Infrastructure & Social Life content once that pass begins — a specific, named fermented dish or dining custom tied to guild shift rhythms would be a concrete, low-cost way to dramatize Byrd's own defining identity theme without needing to state it outright.
+
+---
+
+### Finding 39: Sewage/plumbing integrity and structural (ice-boundary) monitoring aren't separable systems — a failure in one is plausibly a failure in the other
+
+**Combining:** attribute #23 above (sewage/wastewater treatment, already flagged as one of the single most safety-critical systems in the city) + attribute #31 above (deep-structure water pressure and plumbing engineering) + attributes #39–40 above (insulation between heated sections and the surrounding ice, meltwater drainage at that boundary).
+
+**2nd-order effect:** a plumbing failure deep in the city wouldn't stay a contamination problem in isolation — any leak or pressure failure near the ice boundary attributes #39–40 already establish as heat/moisture-sensitive would simultaneously introduce uncontrolled moisture exactly where the insulation and meltwater-drainage systems are engineered to prevent it, turning a sanitation failure into a structural one in the same event.
+
+**3rd-order effect:** this means Byrd's engineers (per attribute #5's Foundation Keepers and Prospectors' Circle) plausibly can't treat plumbing integrity and ice-boundary structural monitoring as genuinely separate disciplines, even though they're staffed and described separately in this file — a leak detected by one system is a warning sign the other system needs to act on immediately, not a routine maintenance ticket.
+
+**4th-order effect:** worth flagging as a realistic, well-grounded source of tension for any future crisis content — a plumbing failure that cascades into a structural one (rather than the reverse, which chain #11 already covers) gives Byrd's engineering culture a second, distinct failure mode to guard against, using only systems this file has already established rather than inventing a new hazard.
+
+---
+
+### Finding 40: Byrd's own resident robot population plausibly enjoys unusually sophisticated diagnostic care, an incidental side-benefit of the guild tooling built for national chamber-manufacturing work
+
+**Combining:** attribute #58 above (robot-specific diagnostic and firmware/software update infrastructure) + attribute #46 above (the internal wired communications backbone) + the already-established fact that Byrd is one of only two active fabrication-synthesis chamber manufacturers nationwide.
+
+**2nd-order effect:** the diagnostic tooling and data infrastructure attribute #58 establishes wasn't built primarily to serve Byrd's own resident robot population — it exists because the Fabricators' Guild and Chamber Works need genuinely advanced diagnostic capability just to do their actual national-scale manufacturing work.
+
+**3rd-order effect:** Byrd's own resident robots plausibly benefit from that same infrastructure incidentally, receiving a level of diagnostic and firmware care that would be genuinely exceptional anywhere else in Tepenia — not because Byrd specifically prioritizes robot welfare above other cities, but because the tooling required for its national economic role happens to be equally available for routine, everyday use on the robots who actually live there.
+
+**4th-order effect:** worth flagging as a quiet, distinctive quality-of-life detail for Byrd's own robot residents — an unglamorous, unstated advantage to living in the city that manufactures the chambers, worth a small character beat (a resident robot casually remarking that repairs elsewhere in Tepenia take longer, or aren't as thorough) without needing to make it a plot point.
+
+---
+
+### Finding 41: Total isolation from natural light cycles plausibly produces a *more* tightly synchronized daily rhythm than a typical Tepenian city enjoys, not a looser one
+
+**Combining:** attribute #53 above (city-wide centralized time-keeping and scheduling infrastructure) + attribute #68 above (communal dining tied to guild shift schedules) + attribute #34 above (internal transit ridership patterns, per Finding 32, mirroring the human/robot vertical split).
+
+**2nd-order effect:** a city with genuine natural day/night cycles has its population's rhythms drift loosely around the sun, with individual variation in when people eat, work, or travel — but Byrd, having no natural cue to drift around at all, plausibly derives meals, shift changes, and transit ridership patterns entirely from the single engineered schedule attribute #53 establishes, with nothing else competing to set the pace.
+
+**3rd-order effect:** this is a genuine inversion worth naming directly — the single fact that reads as Byrd's harshest deprivation (total light-cycle isolation, attributes #2–3) plausibly produces one of its most functional civic traits, a population whose daily rhythm is unusually unified and predictable, purely because there's only ever been one clock to follow rather than a natural one competing with an artificial one.
+
+**4th-order effect:** worth flagging as a specific, counter-intuitive detail for Community Infrastructure & Social Life content — visitors from a well-lit, naturally-cued city would plausibly find Byrd's own daily schedule strikingly rigid and universal compared to home, a small, concrete way to dramatize just how differently isolation has shaped this specific population's relationship with time.
+
+---
+
+### Finding 42: Surface operations are real guild work, but the smallest, least-glamorous specialty within it — plausibly a sub-thread of the Foundation Keepers rather than a guild of their own
+
+**Combining:** attribute #56 above (surface snow-clearing and plow infrastructure) + attribute #57 above (surface lighting for the polar-night period) + attribute #33 above (cold-weather surface-operations gear and staging) + `Byrd_Course_of_Events_Suggestions.md` chain #10's own established "infrastructure and snow management" as one of Byrd's five interdependent economic sectors.
+
+**2nd-order effect:** chain #10 already credits infrastructure/snow management as a full economic sector, but attributes #56–57 and #33 together describe a genuinely small population of actual surface-facing work — clearing entrances, maintaining lighting, and staging gear for the small number of people or robots with real reason to reach the surface city at all (attribute #17's own governing logic).
+
+**3rd-order effect:** this makes surface operations plausibly the smallest, least-populated specialty in the entire city, sitting inside the Foundation Keepers' broader infrastructure-management portfolio rather than justifying a guild of its own — a handful of specialists whose entire working life is spent in the coldest, least-visited part of Byrd, distinct in daily experience from every other guild member despite formally belonging to the same guild as the structural-monitoring engineers underground.
+
+**4th-order effect:** worth flagging as a strong candidate for a distinctive, small-scale Notable Figure or minor character — someone whose whole professional identity is "the person who actually goes up there," a genuinely unusual daily existence even by Byrd's own already-unusual standards, worth developing once Community Infrastructure content reaches the Foundation Keepers specifically.
+
+---
+
+### Finding 43: Byrd's air-handling infrastructure is genuinely three separate systems, not one unified "ventilation" — and keeping them from cross-contaminating is itself a real hazard to manage
+
+**Combining:** attribute #1 above (extensive, redundant life-support ventilation) + attribute #38 above (industrial-grade dust and particulate filtration) + attribute #41 above (surface exhaust venting for industrial and generator byproducts) + attribute #27 above (fire-suppression and industrial-hazard containment).
+
+**2nd-order effect:** these three systems serve genuinely different purposes and populations — life-support air exists purely for the human population (attribute #1's own governing logic), dust filtration exists to protect that same population from industrial byproduct, and exhaust venting exists to remove combustion/generator gases entirely from the breathable environment — meaning they can't simply be merged into one system without defeating each other's purpose.
+
+**3rd-order effect:** keeping these three systems genuinely separate, especially in a sealed underground environment where any cross-contamination (industrial dust or exhaust gas entering the life-support air supply) would be immediately and severely hazardous, is itself a real engineering discipline attribute #27's fire/hazard-containment infrastructure would need to actively guard against, not a detail that resolves itself once each system individually exists.
+
+**4th-order effect:** worth flagging as a genuinely high-stakes, well-grounded failure mode for future crisis content, distinct from the structural risks chain #11 already covers — an air-handling cross-contamination event would be a fast-moving, city-wide hazard in a way a localized structural failure isn't, giving Byrd's engineers a second entirely different category of catastrophic risk to actively design against.
+
+---
+
+### Finding 44: Formal civic administration and practical elevator-chokepoint control are plausibly two only-partially-overlapping loci of power in Byrd
+
+**Combining:** attribute #26 above (a physical, in-house civic/administrative complex) + attribute #47 above (access control and monitoring infrastructure at the elevator chokepoints) + Finding 35 above (whoever physically operates the elevators holds quiet, structurally real civic leverage) + Finding 7 above (founding-descendant institutional knowledge concentrating unevenly against the later-arrived majority).
+
+**2nd-order effect:** attribute #26 establishes where Byrd's *formal* governance sits, but Finding 35 establishes that genuine practical leverage over the city's only way in or out sits wherever elevator operations are actually staffed — these aren't guaranteed to be the same people or the same institutional lineage, especially given Finding 7's own claim that specialized structural/technical knowledge concentrates disproportionately among founding-descendant families rather than the broader population.
+
+**3rd-order effect:** this gives Byrd two distinct, only-partially-overlapping loci of power — one formally recognized (the civic complex, attribute #26, presumably reflecting the city's actual population makeup) and one practically consequential but never formally contested (elevator operations, Finding 35, plausibly concentrated in founding-descendant hands) — a real structural fault line rather than a single, simple power structure.
+
+**4th-order effect:** worth flagging directly as unclaimed political material for DLC 2 — a formally-elected or formally-recognized civic body that doesn't actually control the city's literal chokepoint is a genuinely interesting source of institutional friction, distinct from and more specific than a generic guild-politics rivalry, and built entirely from attributes and Findings already on file rather than requiring new invention.
+
+---
+
+### Finding 45: The food-infrastructure attributes added this session directly fill a gap the Catalog's own Phase 1c pass explicitly left open
+
+**Combining:** attributes #24, #42, #43, and #69 above (in-house food-growth/hydroponics, ambient-cold storage buffer zones, cultured/synthetic protein, and a dedicated fermentation/preservation facility) + `Byrd_Catalog.md`'s own per-nation Surface Culture findings, where every single Primary and Significant nation entry (USA, Canada, Australia, Japan, South Korea, China) states plainly: "**Food:** no strongly distinct local variant surfaced."
+
+**2nd-order effect:** the Catalog's own Food findings were written before this file's food-infrastructure attributes existed — at the time, there was no established physical basis (domestic hydroponic growth, ambient cold storage, synthetic protein production, dedicated fermentation craft) to derive a distinct Byrd-specific food culture from at all, which plausibly explains why the gap is uniform across every nation entry rather than isolated to one or two.
+
+**3rd-order effect:** that gap is no longer forced — attributes #24, #42, #43, and #69 together supply exactly the kind of concrete physical basis (necessity-driven techniques, adapted to permanent isolation and enclosure) the Catalog's own methodology elsewhere uses to derive Surface Culture findings from real-world parallel communities; a genuinely distinct "Byrdian" food culture (synthetic-protein staples, fermented preserved vegetables, hydroponic produce, communal shift-based meals per Finding 38) is now directly derivable where it wasn't before.
+
+**4th-order effect:** worth flagging directly as a concrete follow-up task for whenever `Byrd_Catalog.md` itself gets revisited — filling the Food row across all six Primary/Significant entries using this file's own newly-established attributes would resolve a documented gap using material that specifically didn't exist when that file was originally written, rather than requiring new invention from nothing.
+
+---
+
+### Finding 46: Byrd's freight-hoist network plausibly threads through all five interleaved guild zones at once, rather than running a single simple line from factory to highway
+
+**Combining:** attribute #35 above (a freight/cargo hoist and haulage system, distinct from human passenger transit) + attribute #36 above (freight marshalling yards, distributed to the relevant guild sectors internally) + Finding 21 above (the Ruhr Valley model, the five guild sectors plausibly interleaving physically rather than occupying clean separate zones).
+
+**2nd-order effect:** if the five guild sectors genuinely interleave physically, as Finding 21 proposes, a freight network built to serve all of them can't take the simpler shape a single-industry city's freight system would — a straight line from factory floor to warehouse to highway head — because there's no single, contained industrial zone for that line to run through.
+
+**3rd-order effect:** the freight-hoist network (attribute #35) plausibly has to weave through or around every guild's own interleaved territory to reach the marshalling yards (attribute #36) and the highway heads beyond them, giving Byrd a genuinely more complex freight topology than most Tepenian cities — closer to threading a network through a dense, mixed-use urban core than routing cargo through a dedicated industrial district.
+
+**4th-order effect:** worth flagging as a reinforcing, load-bearing consequence of Finding 21's own spatial claim — if Byrd's own level design ever needs to justify why cargo routes cut through areas that read as residential, civic, or guild-social rather than purely industrial, this finding, combined with Finding 21, already supplies the reasoning: the freight network has no choice but to pass through mixed territory, because Byrd's economy was never built along clean, separable lines to begin with.
+
+---
+
+### Finding 47: Water follows the same produce/store/recycle three-stage template already established for food — a general pattern, not a resource-specific one
+
+**Combining:** attribute #11 above (large-scale ice/snow melting for water production) + attribute #54 above (water storage reservoirs, distinct from production and recycling) + attribute #12 above (water and waste recycling loops) + attribute #13's own reasoning (the buffer-stock discipline learned for food "reflexively applies to other critical goods").
+
+**2nd-order effect:** water now has the exact same three-stage architecture food already has — active production (melting/growing), buffered storage (reservoirs/buffer-stock), and closed-loop recycling — meaning attribute #13's own claim about self-sufficiency habits generalizing "to other critical goods" isn't just a stated policy, it's now visibly, structurally true across two entirely different resource chains built independently in this file.
+
+**3rd-order effect:** this is worth naming as Byrd's actual general template for handling any critical resource, not a coincidence between two separate systems — produce it locally, buffer it against interruption, and recycle what's already been used, applied consistently enough that a third critical resource (were one ever introduced) would plausibly follow the identical three-stage shape by default.
+
+**4th-order effect:** worth flagging as a genuinely reusable design principle for anything added to Byrd's infrastructure in the future — any new critical-resource system introduced later should default to this same three-stage architecture unless there's a specific, established reason it can't, simply because that's what this file has now shown Byrd's own civic engineering culture consistently does.
+
+---
+
+### Finding 48: The hospital/surgical complex's own dedicated maintenance access gives Finding 5's "uncredited competence" real physical backing, not just personnel skill
+
+**Combining:** attribute #21 above (a full domestically-run hospital and surgical complex) + attribute #49 above (a dedicated maintenance-access network, physically separate from public thoroughfares) + Finding 5 above (Byrd's second uncredited competence — exceptional medical/surgical capability nobody outside the city knows about).
+
+**2nd-order effect:** a surgical complex this safety-critical, serving a population with zero evacuation option, would plausibly need its own dedicated branch of the maintenance-access network — continuous equipment servicing and systems inspection that never has to interrupt patient care or route through public-facing corridors, the same discipline attribute #49 already establishes for ventilation, structural monitoring, and the power grid.
+
+**3rd-order effect:** this gives Finding 5's claim a genuine physical-infrastructure backbone rather than resting on personnel skill alone — Byrd's exceptional surgical competence isn't just a matter of well-trained individuals working around whatever equipment happens to be available, it's supported by the same rigorous, dedicated maintenance discipline the rest of the city's most safety-critical systems already receive.
+
+**4th-order effect:** worth flagging as the concrete physical reason Byrd's medical establishment can sustain Finding 5's exceptional standard at all — competence without reliably maintained equipment behind it would eventually degrade; attribute #49 is what keeps that from happening here.
+
+---
+
+### Finding 49: Byrd's emergency shelters are plausibly dual-purpose by necessity — structural refuge and quarantine space competing for the same physical footprint
+
+**Combining:** attribute #28 above (internal emergency shelter zones built into the tunnel network itself) + attribute #51 above (dedicated quarantine/isolation medical facilities) + attribute #27 above (fire-suppression and industrial-hazard containment systems).
+
+**2nd-order effect:** total isolation, the same governing fact behind both attributes, means Byrd can't build specialized quarantine capacity on demand any more than it can evacuate people during a structural emergency — both crises call for sealed, controllable, purpose-built space, and a city this resource-conscious (per its own established self-sufficiency instinct) would plausibly design at least some of that space to serve both functions rather than duplicating it entirely.
+
+**3rd-order effect:** this creates a genuine, realistic tension worth naming directly — a structural emergency and a disease outbreak happening at anything like the same time would compete for the same physical shelter footprint, a specific, well-grounded worst-case scenario Byrd's own emergency planners would have had to consciously weigh, rather than an unlikely coincidence.
+
+**4th-order effect:** worth flagging as strong, already-supported material for any future crisis content that wants genuine stakes beyond a single hazard — a compound emergency (chain #11's own structural strain coinciding with an outbreak) is now something this file's own established attributes make plausible rather than needing to be invented from nothing.
+
+---
+
+### Finding 50: Surface weather monitoring plausibly feeds directly into the Dispatch guild's own highway-condition picture, not just the waystation beacons
+
+**Combining:** attribute #32 above (surface-level weather monitoring and meteorological infrastructure) + attribute #45 above (waystation and beacon infrastructure along Hwy 1 and Hwy 22) + Finding 30 above (the Dispatch guild's coordination office as where Byrd's highway dependency is felt first, daily).
+
+**2nd-order effect:** conditions at Byrd's own elevator housings and surface city are the literal starting point of both highways — severe weather there plausibly correlates directly with conditions along at least the first stretch of Hwy 1 and Hwy 22, giving the Dispatch coordination office a second, independent data source about highway viability beyond the waystation beacons themselves.
+
+**3rd-order effect:** this means Finding 30's own "single room where the highway picture converges" claim is stronger than originally stated — surface weather monitoring (attribute #32) and beacon data (attribute #45) plausibly feed the same office together, giving Dispatch a genuinely layered, multi-source picture of highway conditions rather than depending on beacon reports alone.
+
+**4th-order effect:** worth carrying forward as connective tissue for any future content set in or around the Dispatch coordination office — dispatchers plausibly cross-reference surface weather against beacon status as a matter of daily routine, a small, concrete procedural detail that makes the office's own work feel genuinely lived-in rather than abstract.
+
+---
+
+### Finding 51: Robot parts warehousing and the fuel depot both plausibly produce the same incidental-abundance benefit Finding 40 already established for robot diagnostics
+
+**Combining:** attribute #48 above (on-site parts and component warehousing for robot maintenance and repair) + attribute #60 above (a fuel depot for surface ground vehicles and the mothballed aviation fleet) + Finding 40 above (Byrd's own resident robots incidentally benefiting from diagnostic tooling built for national chamber-manufacturing work).
+
+**2nd-order effect:** both systems exist primarily to serve Byrd's outsized national economic role — robot parts warehousing supports a fabrication economy manufacturing chambers and robots at scale, and the fuel depot supports a freight economy running two continent-spanning highways — but their sheer scale, built for national-level demand, plausibly means Byrd's own resident population never experiences the parts or fuel scarcity a smaller, less-connected Tepenian city's equivalent population might.
+
+**3rd-order effect:** this is a second, independent instance of the exact pattern Finding 40 already names — genuine civic amenity arriving as an unstated side-effect of national economic importance, rather than the result of any deliberate resident-welfare policy — meaning the pattern is now established twice, in two unrelated systems, worth treating as a general trait of the city rather than a one-off coincidence.
+
+**4th-order effect:** worth naming directly as a recurring Byrd-specific civic trait once Community Infrastructure content is written — residents plausibly take these advantages for granted precisely because they were never framed as benefits, consistent with the same unreflective, hardship-into-ordinary-life absorption `Byrd_Catalog.md`'s own Synthesis Notes already establish as the city's defining psychological pattern.
+
+---
+
+### Finding 52: Pest/contamination vigilance in the food-growth sections could become its own quiet point of craft pride, the same way fermentation already has
+
+**Combining:** attribute #55 above (pest and contamination control infrastructure for the food-growth and food-storage sections) + attribute #24 above (in-house food-growth infrastructure) + Finding 38 above (fermentation-preserved food as a small, lived echo of Byrd's "necessity into pride" identity arc) + Finding 45 above (the food-culture gap `Byrd_Catalog.md` left open, now fillable).
+
+**2nd-order effect:** a sealed hydroponic system with no realistic outside remediation help (attribute #55's own governing logic) makes contamination vigilance a matter of real, sustained skill, not a background maintenance task — protecting a fragile, irreplaceable food source is exactly the kind of unglamorous, high-stakes competence Finding 38 already identifies as the raw material Byrd's culture tends to metabolize into quiet pride over time.
+
+**3rd-order effect:** this gives Finding 45's proposed "Byrdian" food culture a second craft dimension beyond fermentation specifically — not just what gets preserved and how, but who keeps the growing sections viable at all, a distinct, complementary specialty within the same overall food-security chain (attributes #13, #24, #42, #43, #55, #69).
+
+**4th-order effect:** worth flagging alongside Finding 45 as material for whenever `Byrd_Catalog.md`'s own Food row eventually gets filled — a named specialty (something like "growth-keeper" or an equivalent guild-adjacent role) tending the hydroponic sections against contamination would round out a genuinely complete food-culture picture, built entirely from attributes already established in this file.
+
+---
+
+**All 72 base attributes have now been cross-referenced into at least one Finding.** This is a natural completion point for this particular extrapolation method (systematically drawing every attribute into the plot/faction-level material) — any further Findings from here would need to either combine attributes in new ways not yet tried, or bring in outside material this file hasn't touched yet.
+
 ## Worth Your Attention
 
 Finding 1 and Finding 2 are the most load-bearing of the first fourteen — both resolve a genuinely open question elsewhere in Byrd's own material (why did Upper Earth never find it; why did its Cradle role survive when Mountain Pass's didn't) using only facts this file and Byrd's own existing documents already establish, rather than requiring new invention. Finding 13 is the most immediately useful for the eventual Community Infrastructure & Social Life pass — St. Richard's Marker turns out to already be a fully-established, cross-guild civic ritual site in `Byrd_Course_of_Events_Suggestions.md` chain #8, needing formalization rather than invention. Finding 3's correction is worth flagging directly: the Course of Events chains, once actually read, superseded an earlier proposal in this same file rather than merely supporting it — a reminder to keep checking newly-surfaced source material against this file's own existing findings rather than treating any given round as final.
@@ -466,4 +828,6 @@ Finding 1 and Finding 2 are the most load-bearing of the first fourteen — both
 
 **Attributes 59–72, added the same day, a fifth pass using a different method entirely** — rather than deriving further from Byrd's own governing facts in isolation, this round read all 34 other Tepenian cities' own Community Infrastructure files and checked every infrastructure type they establish against Byrd's specific character, keeping only what genuinely applies (the same filtering logic as the developer's own honeymoon-infrastructure example) and explicitly excluding what doesn't (maritime harbors, tourism/honeymoon destinations, wildlife rookeries, decentralized multi-site industry, livestock husbandry, a borrowed structural-marking system, pre-exile-wing housing — each cross-checked against Byrd's own established facts and already-written Findings). Fourteen genuine gaps surfaced this way that pure first-principles reasoning alone hadn't produced: a mothballed airfield/hangar complex for the Grounded Wings guild, a fuel depot, a Dispatch guild coordination office, an Arcanet access node (distinct from the internal-only wired backbone), five physical guildhalls, an ore-processing/quarry facility for the Prospectors' Circle, a public library, a formal records/archive hall, a commercial hall/marketplace, communal dining tied to guild shifts, a fermentation/preservation craft facility, a dedicated geothermal/volcanic-activity monitoring station (distinct from general seismic monitoring), an underground energy storage reserve, and a visible old-core-vs-newer-expansion structural distinction. Base attribute count now stands at 72, up from 16 at the start of this session.
 
-This file remains raw material, not a finished pass — extrapolation work (cross-referencing all 72 attributes against Byrd's existing plot/faction material and the 22 Findings already on file) is the natural next round once the developer is ready to shift back to it; after that, or in parallel, work can move to Byrd's own `Byrd_Community_Infrastructure.md`, following the same Additions/Small-offices/Social-cohesion-mechanisms structure as all 34 other DLC cities.
+**Findings 23–30, added 2026-07-30, resuming extrapolation** after the attribute-focused rounds — cross-referencing the newly-added attributes (17–72) against Byrd's existing plot/faction material and the Findings already on file. Finding 26 is the most consequential of this round: it identifies the Prospectors' Circle's own ore-processing facility as the single physical location where three separately-established hazards (active excavation, fabrication-adjacent heat, and ice-boundary exposure) intersect, making it the strongest-supported candidate location for any future structural-crisis content. Finding 25 is the most useful for eventual level design — it turns the five guildhalls into a literal, walkable timeline of Byrd's own economic history, requiring no dialogue to communicate. Finding 24 surfaces a genuinely new tension (physical isolation vs. digital/Arcanet connectivity) that nothing in Byrd's existing material had articulated before. Findings 23, 27, 28, 29, and 30 each strengthen or add texture to specific earlier Findings (14, 3, 20/7, 2, and 11 respectively) using attributes that didn't exist when those Findings were first written. Findings now stand at 30.
+
+This file remains raw material, not a finished pass — the next extrapolation round would keep cross-referencing remaining under-used attributes (the Safety & Redundancy and Civic & Institutional expansions from Rounds 4–5 in particular haven't been drawn on yet) against Byrd's existing material; after that, or in parallel, work can move to Byrd's own `Byrd_Community_Infrastructure.md`, following the same Additions/Small-offices/Social-cohesion-mechanisms structure as all 34 other DLC cities.
