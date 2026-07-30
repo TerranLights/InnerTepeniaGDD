@@ -46,9 +46,11 @@ The founding-era figure credited with negotiating Sejong's original boundary-zon
 
 ---
 
-## Real-world geographic feature names — flagged 2026-07-30, likely a broader pattern
+## Geographic-feature naming timeline — flagged 2026-07-30, a project-wide future pass needed
 
-Rothera's "Bonner Airstrip" and "Marguerite Bay Harbor" both carry real-world geographic names forward unchanged, three centuries into Tepenia's own history — per direct developer instruction, the city's own founders would plausibly have coined their own names for these places at founding rather than keeping the real-world ones. Flagged as placeholders in `Rothera_Community_Infrastructure.md`, not resolved. **Worth checking as a broader pattern** — other cities across this same Community Infrastructure push likely carry similar unrenamed real-world bay/mountain/strait names (e.g. Davis's Prydz Bay, Vestfold Hills) that may deserve the same treatment eventually.
+**The pattern, per direct developer instruction:** real-world geographic feature names (bays, mountains, hill ranges, straits) are plausibly accurate for the *earlier* portion of the Second Interwar Period — the exile generations would genuinely have kept using names like "Holme Bay" or "Marguerite Bay," inherited from documentation found inside the existing stations, simply because that's what the place was already called and there was no reason yet to change it. But over the following centuries, as Tepenian civic identity solidified and detached from its real-world origins, these names would very likely have been replaced with something the culture actually developed itself — the given example: the Larsemann Hills (Zhongshan/Sinheung/Shirayuki's shared terrain) eventually renamed to something Chinese, Korean, Japanese, or some fusion of the three, reflecting the Tri-Cities' own actual population rather than the real 2010s-era Antarctic place-name.
+
+**This needs its own dedicated future pass** — going through every city's own geographic landmarks project-wide and identifying which real-world names would plausibly have persisted only into the earlier Second Interwar Period before being replaced, then coining the actual later-era replacement names. Already flagged as individual placeholders, pending this pass: Rothera's "Bonner Airstrip" and "Marguerite Bay Harbor," Signy's "Endurance Span," Mawson's "Holme Bay Harbor" and "Prince Charles Mountains," Sayowa's "Lützow-Holm Bay Harbor," and (implicitly) the Larsemann Hills shared by Zhongshan/Sinheung/Shirayuki. **Also applies to specific place-name labels tied to the Tepenian Saints framework** — e.g. Mawson's "St. Douglas's Landing": the *place-name* is real-world-derived and subject to this same eventual renaming, even though the underlying Saint veneration itself (part of the separate, legitimate, developer-confirmed Saints framework) is unaffected. Likely many more instances of both kinds exist across the corpus that haven't been individually flagged yet.
 
 ---
 
@@ -66,7 +68,7 @@ Zukelli's single most prominent named civic figure (proprietor of the city's mos
 
 ## Summer/winter dual-mode crossings — flagged 2026-07-30, logistics not yet worked out
 
-Two established crossings share the same unresolved mechanic: sea ice passable in winter, boat crossing in summer, with no worked-out logistics for the actual switchover or the shoulder-season gap between the two modes. **Fort McMurdo:** the McMurdo Sound sea ice road, connecting to the Dry Valleys extraction operation. **Dumont d'Urville:** the Channel Crossing, the ~5km route between Petrel Island and the continental coast. Worth resolving once as a shared mechanic rather than separately per city — see `Fort_McMurdo_Community_Infrastructure.md` and `Dumont_dUrville_Community_Infrastructure.md`.
+Three established crossings share the same unresolved mechanic: sea ice passable in winter, boat/icebreaker crossing in summer, with no worked-out logistics for the actual switchover or the shoulder-season gap between the two modes. **Fort McMurdo:** the McMurdo Sound sea ice road, connecting to the Dry Valleys extraction operation. **Dumont d'Urville:** the Channel Crossing, the ~5km route between Petrel Island and the continental coast. **Sayowa:** the seasonal ice road connecting East Ongul Island to the mainland. Worth resolving once as a shared mechanic rather than separately per city — see `Fort_McMurdo_Community_Infrastructure.md`, `Dumont_dUrville_Community_Infrastructure.md`, and `Sayowa_Community_Infrastructure.md`.
 
 ---
 
