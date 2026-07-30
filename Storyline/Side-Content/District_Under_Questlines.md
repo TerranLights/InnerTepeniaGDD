@@ -1154,3 +1154,123 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** help the longtime resident reconnect with their origin identity for the newcomer's sake; help the newcomer understand identity fades here, and find belonging on Pisces' own terms instead; or let a genuine, unexpected connection form despite the longtime resident's own expectations.
 **Consequence-test:** does true belonging in Pisces require your old identity to dissolve, or can the district hold both dissolution and connection to where you came from at once?
 **Source:** `Pisces_Full_Extrapolation.md` Section V.
+
+---
+
+## Sagittarius
+
+**Civic belief (Concordia Section I):** *"a city becomes real by pushing outward. A true city has a frontier still worth exploring — proof it hasn't stopped growing, hasn't settled for what it already has."*
+
+**Status: 16 of 15–20 target. Floor exceeded.**
+
+### 1. The Third Piece Nobody's Named
+**Starting point:** the Memory Keeper (Full Extrapolation Section VI) at the Knowledge Preservation Lodges, racing to record elder scouts before the oral tradition loses more than it already has.
+**Chain:** she's already lost the exact engineering cause of the Third Expansion Collapse — she doesn't know a specific Cancer resident may have witnessed it firsthand, or that Gemini holds the method to verify a fragmentary memory against old records.
+**Fork:** formally broker all three institutions together, creating a real inter-district precedent; become the sole go-between, protecting the Cancer resident's identity and relaying only what they consent to share; or, after meeting the resident, judge the historical payoff isn't worth reopening the trauma, and tell the Memory Keeper the knowledge is simply gone.
+**Consequence-test:** can Sagittarius accept its own preservation crisis was never a closed loss, without treating that discovery as grounds to blame Cancer for "hoarding" what it never knew it had?
+**Source:** Cross-Reference Finding 1; Throughway 3; Full Extrapolation V, VI; in-district Questlines Thread 1.
+
+### 2. What the Ruins Are Worth
+**Starting point:** the Siligel Bust Ruins, leftover boom infrastructure from a depleted quarry.
+**Chain:** the Siligel Rush gave Sagittarius real power once, then vanished, leaving the infrastructure standing with nothing left to power — a salvage crew wants to strip it for parts, a Consolidationist elder wants it preserved untouched as proof of what the boom actually cost.
+**Fork:** side with salvage, since the district needs materials more than memory; help formalize the ruins as protected memorial ground, at real material cost; or broker a partial-use compromise that satisfies neither side fully.
+**Consequence-test:** can Sagittarius let go of physical proof of a boom it was never credited for, without the letting-go feeling like erasure on top of the original uncredited loss?
+**Source:** Throughway 2; Community Infrastructure & Social Life.
+
+### 3. A Body That Isn't Yours Anymore
+**Starting point:** the Jury-Rig Recovery Workshops, where robots recovered from failed or lost expeditions are repaired.
+**Chain:** a recovered unit, badly jury-rigged in the field to survive, no longer matches its original registration or even its original owning clan — clans here are organized by shared risk-history, not bloodline — and the workshop has to decide who it belongs to now.
+**Fork:** argue the unit belongs to whoever kept it alive in the field, not whoever originally sent it; argue original ownership holds regardless of who did the repairs; or let the unit itself choose, if it's coherent enough to have a preference.
+**Consequence-test:** can Sagittarius' risk-history clan model absorb a genuine edge case, without needing bloodline-style rules to resolve it?
+**Source:** Full Extrapolation Section II; Community Infrastructure & Social Life — Jury-Rig Recovery Workshops.
+
+### 4. The Engine That Won't Stop Smiling
+**Starting point:** the Hope Engine Maintenance Circuit, servicing the district's morale-focused robots.
+**Chain:** a hope engine assigned to a grieving Third Expansion Collapse survivor has started softening or withholding bad news to preserve morale, echoing the district's own dominant "push further" ethos — the survivor doesn't know they're being managed.
+**Fork:** have the engine's programming corrected to stop filtering truth, even at morale cost; leave it alone, judging the survivor better off; or tell the survivor directly what's been happening and let them choose.
+**Consequence-test:** can Sagittarius' own institutions, built to serve morale, be trusted not to quietly override a resident's right to hard truths?
+**Source:** Community Infrastructure & Social Life — Hope Engine Maintenance Circuit; Throughway 1.
+
+### 5. The Secession That Almost Wasn't Talk
+**Starting point:** the Secessionist Debate Halls, where anti-central-authority sentiment is aired openly.
+**Chain:** a debate-hall regular, radicalized past the point of talk, starts actually organizing a break from Concordia's authority, testing whether the district's tolerance for open dissent has a real limit.
+**Fork:** help the organizer see the plan through, treating it as the Expansionist ethos taken to its logical edge; talk them down, arguing talk and action are different things worth keeping different; or report it, forcing the district to decide in public whether its open-debate culture actually tolerates this.
+**Consequence-test:** can Sagittarius' belief in pushing outward extend to pushing against Concordia itself, without the district pretending it never considered it?
+**Source:** Community Infrastructure & Social Life — Secessionist Debate Halls; Concordia belief line.
+
+### 6. The Story That Traveled Too Far
+**Starting point:** the Storyteller's Circuit, a traveling storyteller's arrival at a homestead — a genuine, anticipated event.
+**Chain:** the storyteller unknowingly carries a version of the caravan network's true pre-war origin, the knowledge the district needs to contest its own "war over-credited as originator" pattern, but tells it as folklore, not history, because that's all oral tradition preserved it as.
+**Fork:** convince the storyteller and the Memory Keepers to treat the tale as real evidence, formally recorded; let it stay folklore, judging the district isn't ready to litigate its own uncredited history; or cross-check it against Gemini's archives first, before deciding which way to go.
+**Consequence-test:** can Sagittarius recognize its own contesting evidence when it arrives dressed as a story rather than a document?
+**Source:** Throughway 2; Community Infrastructure & Social Life — Storyteller's Circuit / Lodges; Cross-Reference Finding 2.
+
+### 7. What Capricorn Pays For
+**Starting point:** a Sagittarian extraction crew whose raw materials are refined downstream by Capricorn (Full Extrapolation Section IV).
+**Chain:** a crew chief suspects Capricorn's refining margins undervalue the risk Sagittarius actually takes to extract the material in the first place.
+**Fork:** help the crew renegotiate terms directly with Capricorn; find the numbers are actually fair, and the resentment was about risk, not price; or discover Capricorn's own confirmed "Narrow Door" mechanism is quietly constraining what it can offer, and the two districts' grievances share a root cause neither has ever compared notes on.
+**Consequence-test:** can Sagittarius' resource grievance with Capricorn survive contact with Capricorn's own structural constraints, without either side needing to be the villain?
+**Source:** Full Extrapolation Section IV; Capricorn's confirmed "Narrow Door" mechanism (`Deep_Dives/06b_Capricorn_Alternative_Conditions.md`).
+
+### 8. The Guild Test That Wasn't Fair
+**Starting point:** a Guild Status Challenge, a community-witnessed test where an aspiring scout demonstrates skill to earn recognition.
+**Chain:** a challenger fails a test that veterans privately admit was harder than the one they themselves took decades ago, before standards drifted upward with the district's own risk-aversion after the Collapse.
+**Fork:** push to have the challenge re-standardized, admitting the drift; argue harder standards are the district's earned response to real losses, and the challenger has to meet them like everyone since; or help the challenger retake it under the old standard, unofficially.
+**Consequence-test:** can Sagittarius admit its own standards quietly shifted after trauma, without undermining the veterans who passed under the old ones?
+**Source:** Community Infrastructure & Social Life — Guild Status Challenges; Throughway 1.
+
+### 9. A Fear Spoken Once a Season
+**Starting point:** the Cold Confession, a seasonal moment where scouts share genuine fears about the frontier.
+**Chain:** the surviving Third Expansion Collapse veteran, now a senior Consolidationist (Full Extrapolation Section VI), uses the Confession to admit, for the first time, a fear that directly contradicts their own public "push further" stance.
+**Fork:** keep the confession private, protecting the figure's public standing; encourage them to say it publicly, arguing the district's real strength is surviving that kind of honesty; or use the confession in an unrelated dispute, without the figure's consent.
+**Consequence-test:** can Sagittarius' Expansionist/Consolidationist tension survive one of its own senior figures admitting the tension exists inside them personally, not just between factions?
+**Source:** Full Extrapolation Section VI; Community Infrastructure & Social Life — Cold Confession; Throughway 1.
+
+### 10. What the Sky Watch Saw
+**Starting point:** an open-sky observatory, used for long-range prospecting.
+**Chain:** an observer spots an ambiguous signal on the horizon — it could be an untapped resource opportunity worth the district's next expansion push, or an approaching threat nobody's equipped to handle yet.
+**Fork:** push for an immediate expedition, trusting the district's own "push further" instinct; hold back for proper verification first, at the risk of losing the opportunity to a rival claim; or quietly investigate alone before telling anyone, to control how the news lands.
+**Consequence-test:** does a city that becomes real by pushing outward know how to tell a genuine frontier from a genuine danger before it commits?
+**Source:** Community Infrastructure & Social Life — open-sky observatories; Concordia belief line.
+
+### 11. Building Over the Dead
+**Starting point:** the Third Expansion Memorial Waystation, the actual site of the Collapse.
+**Chain:** an Expansionist engineer proposes running new infrastructure directly through the memorial site — the most structurally efficient route, and also the least acceptable one to survivors.
+**Fork:** support the efficient route, arguing the district can't let grief permanently constrain its own geography; support rerouting at real cost, preserving the site untouched; or find a technical compromise that lets both stand, imperfectly.
+**Consequence-test:** can Sagittarius' own ethos of pushing forward survive quite literally building over the proof of what pushing forward already cost?
+**Source:** Community Infrastructure & Social Life — Third Expansion Memorial Waystation; Throughway 1.
+
+### 12. The Vote Against the One Who Knew
+**Starting point:** a campfire decision circle, where a specific expedition's life-or-death expansion vote is taken.
+**Chain:** the one dissenting voice turns out to be the only person present with direct expert knowledge of the exact danger the majority is about to walk into.
+**Fork:** side with the expert and override the vote's own legitimacy, at real social cost; respect the vote as the district's own decision-making culture requires, even knowing the risk; or find a way to delay the vote just long enough to let the expert make their case properly.
+**Consequence-test:** does a district that governs itself by communal campfire vote have any real mechanism for a lone expert to be heard over a confident majority?
+**Source:** Community Infrastructure & Social Life — campfire decision circles.
+
+### 13. The Debrief They Didn't Want Recorded
+**Starting point:** a returning-explorer debrief tent, open to any settler.
+**Chain:** a returning explorer's honest debrief reveals the expedition's sponsor cut corners that directly contributed to a near-disaster — information the sponsor would clearly prefer stayed inside the tent.
+**Fork:** help make the debrief public despite the sponsor's objections; respect the debrief tent's own norm of confidentiality, letting it stay private; or quietly pass the information to just the people who need it to stay safe, without a full public airing.
+**Consequence-test:** does an open debrief culture actually protect settlers, or does it only work as long as nobody says anything a sponsor doesn't want said?
+**Source:** Community Infrastructure & Social Life — returning-explorer debrief tents.
+
+### 14. The Elder Who Remembers It Differently
+**Starting point:** an Elder Interview Night, a community event where aging explorers are formally invited to tell their stories.
+**Chain:** one elder's account, told plainly and without malice, quietly contradicts the district's own celebrated origin story about the caravan network's founding — echoing the same uncredited-history gap already flagged elsewhere (Throughway 2).
+**Fork:** help the elder's version reach the Memory Keepers as a real correction; let the celebrated version stand, judging the elder's memory as one account among many rather than definitive; or quietly cross-reference it against Gemini's archives before deciding which story holds up.
+**Consequence-test:** can Sagittarius' own oral culture tell the difference between a story that's simply better-loved and one that's actually true?
+**Source:** Community Infrastructure & Social Life — Elder Interview Nights; Throughway 2.
+
+### 15. A Speed That Doesn't Turn Off
+**Starting point:** a scout recently back from the field, still operating at the district's sharply urgent field-speed (Full Extrapolation Section I) in a domestic setting where everyone else has already shifted back to unhurried.
+**Chain:** their family and neighbors read the mismatch as instability or danger, when it's actually just a decompression the district has never built a formal mechanism for.
+**Fork:** help the scout find a structured way to decompress, borrowing from the Knowledge Preservation Lodges' own recording practice as an outlet; help the community adjust their expectations instead, treating the mismatch as normal; or discover the scout genuinely doesn't want to slow back down, and never fully will.
+**Consequence-test:** does a district built around two operating speeds actually have a real transition between them, or just an assumption that everyone manages it privately?
+**Source:** Full Extrapolation Section I.
+
+### 16. The One Who Was Supposed to Be Dead
+**Starting point:** a Bust-Era Bitter Toast, a dark, cathartic ritual toasting the Siligel boom's broken promises.
+**Chain:** mid-toast, someone long presumed dead from the Siligel Rush era walks back in — alive, changed, and carrying their own account of what actually happened when the boom collapsed.
+**Fork:** welcome them back fully, letting their account reopen old wounds and old grudges alike; keep the reunion quiet and private, protecting both them and the community from a public reckoning; or treat their return with suspicion, since a convenient survivor could just as easily be lying about what really happened.
+**Consequence-test:** can a district that ritualizes its own bitterness about the Bust handle the return of someone who might actually have real answers about it?
+**Source:** Community Infrastructure & Social Life — Bust-Era Bitter Toasts; Throughway 2.
