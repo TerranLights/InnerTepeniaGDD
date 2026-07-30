@@ -18,4 +18,4 @@ Right now Virgo's isolation is part of its identity — nobody understands what 
 
 - Does this recognition make Virgo feel less alone (a genuinely positive reframe), or does it risk deflating the specificity of Virgo's own grievance by making it "just" one instance of a universal pattern?
 - Could this create a natural cross-district (and cross-city) solidarity thread — Virgo workers who've heard about Neumayer's/Byrd's/Sinheung's situation feeling a kinship they don't feel with, say, Aries or Capricorn, who at least get visible credit for their labor?
-- Worth pairing with Thread 7 (Capricorn) — both districts arrive at the same national pattern from different angles (robot-rights injustice vs. invisible-labor injustice). Is there a natural in-world moment where these two districts' movements/grievances intersect?
+- Worth pairing with Thread 7 (Capricorn) — both districts arrive at the same national pattern from different angles (meritocracy-integrity injustice vs. invisible-labor injustice). Is there a natural in-world moment where these two districts' movements/grievances intersect?

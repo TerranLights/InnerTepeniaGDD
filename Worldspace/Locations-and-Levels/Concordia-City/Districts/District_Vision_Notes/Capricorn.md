@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Capricorn ("The Yards") is Concordia's industrial/ambition district — a meritocracy where status is earned through visible, measurable output. Established texture: the spire system is completely literal (floor level = social standing), status lighting on buildings (higher-ranked facilities get more exterior light, readable from the street), guild/foundry membership treated as a serious life commitment, and a district smell of hot metal, synthetic lubricant, and ozone. Also carries a suppressed wound: the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`], which found the merit-rating system had systematically undervalued robot workers' contributions for decades — quietly buried rather than resolved.
+Recap of what was already established going in: Capricorn ("The Yards") is Concordia's industrial/ambition district — a meritocracy where status is earned through visible, measurable output. Established texture: the spire system is completely literal (floor level = social standing), status lighting on buildings (higher-ranked facilities get more exterior light, readable from the street), guild/foundry membership treated as a serious life commitment, and a district smell of hot metal, synthetic lubricant, and ozone. Also carries a suppressed wound: The Narrow Door, which found the merit-rating system had systematically undervalued the contributions of workers whose rhythms didn't fit its own founding-era assumptions, human and robot alike, for decades — quietly buried rather than resolved.
 
 ---
 

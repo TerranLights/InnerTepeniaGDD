@@ -5,7 +5,7 @@ answers, where those answers don't require resolving which of the seven document
 actually happens. Not locked canon — meant for review, revision, or rejection piece by piece. Written
 2026-07-16.
 
-**Scope note, carried from the Mega_Init:** the central question (Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] vs. one of the six
+**Scope note, carried from the Mega_Init:** the central question (The Narrow Door vs. one of the six
 `06b` alternatives, or a merge) is deliberately not addressed here. Everything below is chosen
 specifically because it holds true regardless of which option is eventually picked.
 

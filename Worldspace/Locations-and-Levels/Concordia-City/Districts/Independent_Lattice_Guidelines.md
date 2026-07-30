@@ -152,8 +152,8 @@ involvement across the whole city, which the developer confirmed is the preferre
 
 ### Capricorn
 - **Must be true:** Capricorn has to be where the physical hardware gets fabricated, most plausibly routed
-  through the same underground channels already established for Capricorn's own suppressed robot-rights
-  movement — reusing existing lore infrastructure of secrecy rather than inventing a second, unrelated
+  through the same underground channels already established for Capricorn's own Recalibration Underground
+  — reusing existing lore infrastructure of secrecy rather than inventing a second, unrelated
   underground network.
 - **Cannot be true:** Capricorn's official leadership and merit-board establishment cannot be shown
   supporting the Lattice — `Energy_Grid_Failure_Rationale.md` #15 already establishes that Capricorn

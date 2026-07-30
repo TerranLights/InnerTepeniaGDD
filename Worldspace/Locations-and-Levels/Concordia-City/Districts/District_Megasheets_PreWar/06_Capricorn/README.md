@@ -8,7 +8,7 @@ Long Night War. Synthesizes `Deep_Dives/06_Capricorn_Deep_Dive.md` and, critical
 
 **Scope note — this is the deliberately unresolved district.** Capricorn's own central pre-war
 conflict — whatever specific injustice gets exposed and buried around 2761 — is not yet settled. Seven
-documented possibilities currently exist: the original Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] (robot-labor undervaluation)
+documented possibilities currently exist: the original The Narrow Door (robot-labor undervaluation)
 and six full alternatives in `06b_Capricorn_Alternative_Conditions.md` (company-town economic captivity,
 guild patronage over merit, hereditary trade caste, deliberate scarcity of advancement, constant
 productivity surveillance, built-in obsolescence anxiety). This document does not pick one. Per
@@ -39,7 +39,7 @@ them had long since passed.*
 | **Founding era** | Early Post-Falkland Construction Boom (late 2560s–2580s) — zoned as the heavy manufacturing hub, forging a meritocratic "builder" culture from the start, out of genuine, immediate survival necessity |
 | **Defining pre-war pattern** | A founding-era practical arrangement — deliberately left unspecified here, see Scope note — that calcifies, gradually and without any single villain, into a structural feature of how the district allocates status, opportunity, and reward |
 | **Pending pre-war event** | Some form of documented exposure, around 2761, revealing that Capricorn's own system is not actually delivering what it claims to — met with dispute, minor cosmetic adjustment, and quiet burial of the real findings. **Deliberately not narrated as having occurred in this document.** |
-| **Status** | Living, functioning district throughout the Second Interwar Period; no war damage, no Wartime Production Deaths (that event requires the war itself), no present-day Robot Rights Underground yet in its later, war-hardened form |
+| **Status** | Living, functioning district throughout the Second Interwar Period; no war damage, no Wartime Production Deaths (that event requires the war itself), no present-day Recalibration Underground yet in its later, war-hardened form |
 
 ---
 
@@ -81,7 +81,7 @@ produced by the war or by wartime production pressure.
 
 ## What's Actually Open
 
-- **Which of the seven documented possibilities (Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] or the six `06b` alternatives)
+- **Which of the seven documented possibilities (The Narrow Door or the six `06b` alternatives)
   actually happens around 2761** — the single largest open question in this entire pre-war Megasheet
   series, deliberately unresolved here per developer direction.
 - **Whether the eventual choice is a single option or a merge** — `06b` itself already notes options 2
@@ -92,7 +92,7 @@ produced by the war or by wartime production pressure.
   as to stay compatible with all seven options; a future pass, once the eventual option is chosen, would
   need to make this concrete and specific.
 - **Whether the district's own robot population is already large and central pre-war**, given several
-  of the seven options (Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`], obsolescence anxiety) are specifically robot-labor-facing
+  of the seven options (The Narrow Door, obsolescence anxiety) are specifically robot-labor-facing
   while others (captivity, patronage, caste, scarcity, surveillance) are not necessarily — worth
   resolving once the specific option is chosen, since it affects how central a role Capricorn's robot
   workforce plays in this document's own pre-war population description.
@@ -120,7 +120,7 @@ answers, where those answers don't require resolving which of the seven document
 actually happens. Not locked canon — meant for review, revision, or rejection piece by piece. Written
 2026-07-16.
 
-**Scope note, carried from the Mega_Init:** the central question (Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] vs. one of the six
+**Scope note, carried from the Mega_Init:** the central question (The Narrow Door vs. one of the six
 `06b` alternatives, or a merge) is deliberately not addressed here. Everything below is chosen
 specifically because it holds true regardless of which option is eventually picked.
 

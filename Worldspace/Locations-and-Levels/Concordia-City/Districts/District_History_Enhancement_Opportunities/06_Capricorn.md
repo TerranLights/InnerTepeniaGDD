@@ -8,7 +8,7 @@ present-day material. **Flag only** — no new Stage 1 narrative drafted, no tex
 Deep Dive or Megasheet files.
 
 **Extra constraint specific to this district:** Capricorn's own central pre-war conflict — which of seven
-documented possibilities (the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] or the six `06b_Capricorn_Alternative_Conditions.md`
+documented possibilities (The Narrow Door or the six `06b_Capricorn_Alternative_Conditions.md`
 alternatives) actually happens around c. 2761 — is deliberately unresolved by the developer's own
 direction. Every idea below is chosen, the same way the existing Full_Extrapolation and
 Cross_Reference_Synthesis already discipline themselves, to hold true regardless of which of the seven
@@ -21,9 +21,9 @@ options eventually wins.
 `..._Cross_Reference_Synthesis.md`, `District_Vision_Notes/Capricorn.md`, `District-Inspirational-Influences.md`,
 `City_Refugee_District_Affinities.md`, `Historical_Pressures.md`, `Historical_Inter-District_Effects.md`,
 `Regional-Characteristics/District_Prominent_Features.md`. **Staging check:**
-`Staging/07_Capricorn_Robot_Rights_National_Parallel.md` (Capricorn's underground robot-rights movement
-gaining a national parallel via the Cradle-Keepers) is excluded — it's built specifically on top of the
-Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] option, one of the seven still-undecided possibilities, and substantially overlaps with
+`Staging/07_Capricorn_Robot_Rights_National_Parallel.md` (Capricorn's Recalibration Underground
+gaining a national parallel via the Cradle-Keepers) is excluded — it's built specifically on top of
+The Narrow Door, since confirmed as the district's actual mechanism, and substantially overlaps with
 the Deep Dive's own already-developed "robot workers build the bodies that become persons elsewhere"
 thread. Using it here would violate this district's own option-neutral discipline.
 

@@ -8,7 +8,7 @@
 
 Capricorn's two defining wounds share an identical shape — a genuine internal failure, met with denial or relabeling rather than repair:
 
-- The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] found the merit-rating system had systematically undervalued robot workers for decades; leadership "disputed the methodology and buried the findings" rather than addressing the substance (Mega-Init, Hard Facts).
+- The Narrow Door found the merit-rating system had systematically undervalued workers whose rhythms didn't fit its own founding-era assumptions, human and robot alike, for decades; leadership "disputed the methodology and buried the findings" rather than addressing the substance (Mega-Init, Hard Facts).
 - The Wartime Production Deaths, from quotas set at "mechanically achievable and humanly lethal" levels, were "framed publicly as heroic sacrifice, privately known to be preventable" (Mega-Init, Hard Facts).
 
 In both cases, the district's response to evidence of its own failure was to change the story told about the failure rather than the conditions that produced it — a genuine, twice-repeated institutional reflex, not a single historical incident.
@@ -19,7 +19,7 @@ In both cases, the district's response to evidence of its own failure was to cha
 
 Capricorn's use of its own economic essentialness recurs as protection from scrutiny rather than simple bargaining:
 
-- The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s bias survived over sixty years past discovery specifically because "Capricorn's own economic leverage over Libra made confronting it politically costly" (Mega-Init, "Worth Your Attention"; Cross-Reference Finding 1).
+- The Narrow Door's bias survived over sixty years past discovery specifically because "Capricorn's own economic leverage over Libra made confronting it politically costly" (Mega-Init, "Worth Your Attention"; Cross-Reference Finding 1).
 - Capricorn's manufacturing dominance is very plausibly built in part on capturing stable value from Sagittarius' own volatile extraction risk — an asymmetric relationship two entirely separate deep dives (Capricorn's and Sagittarius') independently converged on without citing each other (Cross-Reference Finding 2).
 
 Capricorn's leverage doesn't just win Capricorn better terms — in both the Audit's suppression and the Sagittarius relationship, it insulates the district from ever having to reckon with an uncomfortable truth about how its own success is actually produced.
@@ -41,8 +41,8 @@ Both cases show Capricorn folding what would elsewhere be two distinct facts (a 
 
 Capricorn's civic identity is built entirely around earned status and measurable achievement, yet the district's own established history repeatedly undercuts that claim:
 
-- The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] itself is direct evidence the district's core status-measuring apparatus was miscalibrated for decades, systematically undervaluing an entire category of worker (Mega-Init, Hard Facts).
-- The Robot Rights Underground, per `District_Unity_of_Opposites.md`, isn't rejecting the merit system — it's "demanding the system apply to everyone it claims to measure" (Full Extrapolation IV), itself an implicit admission the system currently doesn't.
+- The Narrow Door itself is direct evidence the district's core status-measuring apparatus was miscalibrated for decades, systematically undervaluing an entire category of worker (Mega-Init, Hard Facts).
+- The Recalibration Underground, per `District_Unity_of_Opposites.md`, isn't rejecting the merit system — it's "demanding the system apply to everyone it claims to measure" (Full Extrapolation IV), itself an implicit admission the system currently doesn't.
 - Capricorn's dominant production position may rest in part on value captured from Sagittarius' own extraction risk rather than purely on Capricorn's own merit (Cross-Reference Finding 2) — success the district's own self-image would attribute entirely to earned achievement.
 
 Capricorn is a district whose entire founding logic is "status should be earned through visible, measurable output" (Real-World Inspirations, Detroit), and whose own documented history is the clearest available evidence against taking that claim at face value.

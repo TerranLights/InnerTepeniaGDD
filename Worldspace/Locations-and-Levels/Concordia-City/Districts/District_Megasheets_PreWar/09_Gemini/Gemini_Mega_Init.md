@@ -13,7 +13,7 @@ Janbogo-city-survivor / Zukelli-survivor refugee dynamic** — the single most p
 material in this district — is entirely impossible before the war: Zukelli has not yet been destroyed,
 so there is nothing to survive and nothing to grieve. This content simply does not exist in this document;
 genuine reinvention, not editing, is required for Gemini's population and internal conflicts. (2) **The
-Great Corruption** is a different kind of item than Leo's Star War, Capricorn's Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`], or
+Great Corruption** is a different kind of item than Leo's Star War, Capricorn's The Narrow Door, or
 Pisces' Tolerance Pact — its *existence* is not in doubt, only its precise *timing and mechanism*, per an
 explicit "flagged for later" note in its own deep dive and the Hub deep dive's project-wide summary. This
 document therefore includes the Great Corruption as an event that has already happened somewhere within

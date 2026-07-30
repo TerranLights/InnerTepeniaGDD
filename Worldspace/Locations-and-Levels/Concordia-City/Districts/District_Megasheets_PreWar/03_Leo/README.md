@@ -6,7 +6,7 @@ it stood during the Second Interwar Period (roughly 2564–2812), before the Lon
 `Deep_Dives/03_Leo_Deep_Dive.md`'s own root-cause reading of Leo's founding mission. Compiled 2026-07-16.
 
 **Scope note:** the Star War (mid-2740s) currently carries the same developer-flagged uncertainty as
-Capricorn's Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] and Pisces' Tolerance Pact — "not sure yet what this actually is or
+Capricorn's The Narrow Door and Pisces' Tolerance Pact — "not sure yet what this actually is or
 whether it stays in canon." Per developer direction: this document treats the Star War as **not yet
 having happened**, while building Leo's founding-era mission and internal culture so that a conflict
 shaped like it remains a fully natural, near-inevitable outcome of that culture — not narrating the

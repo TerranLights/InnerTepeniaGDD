@@ -22,7 +22,7 @@ The full, concatenated Capricorn reference — synthesis, then extrapolation, th
 |---|---|
 | **Zodiac / Role** | Capricorn ("The Yards") — Industrial / Ambition |
 | **Founding era** | Early Post-Falkland Construction Boom (late 2560s–2580s) — zoned as the heavy manufacturing hub, forging a meritocratic "builder" culture from the start |
-| **Defining suppressed wound** | Capricorn's core injustice (c. 2761) — mechanism undecided, 4 contenders shortlisted (see `06b_Capricorn_Alternative_Conditions.md`); whichever it turns out to be, it systematically undervalued robot workers' contributions for decades through structural inertia, not active malice; leadership disputed the findings and buried them |
+| **Defining suppressed wound** | The Narrow Door (c. 2761, confirmed 2026-07-29, see `06b_Capricorn_Alternative_Conditions.md`) — a patronage network laundered through a stale founding-era scheduling calibration, plus a fixed physical ceiling on senior positions, systematically undervalued the contributions of workers whose rhythms didn't fit its own founding-era assumptions for decades, human and robot alike, through structural inertia, not active malice; leadership disputed the findings and buried them |
 | **Defining post-war wound** | The Wartime Production Deaths — quotas set at levels mechanically achievable and humanly lethal; framed publicly as heroic sacrifice, privately known to be preventable |
 | **Status** | Living, functioning district, present-day (≈2822–2827) |
 
@@ -80,7 +80,7 @@ Historic trade-specialization and guild heritage baked into civic pride.
 
 The original Industrial Revolution city, factory-hierarchy culture that guild and union structures grew directly out of.
 
-**What this gives Capricorn:** historical grounding for how a factory-hierarchy culture evolves internal reform movements over time — directly relevant to the Robot Rights Underground's own emergence from within the merit system's own logic.
+**What this gives Capricorn:** historical grounding for how a factory-hierarchy culture evolves internal reform movements over time — directly relevant to the Recalibration Underground's own emergence from within the merit system's own logic.
 
 ### Secondary: Dubai's skyscraper hierarchy
 
@@ -147,8 +147,8 @@ This question is explicitly reserved for the developer's own decision, per the o
 **Demonym, proposed: Capricornian.** Straightforward, consistent with standard demonym formation.
 
 **Notable Figures, proposed:**
-- **A senior figure of the Merit Establishment** *(placeholder, unnamed)* — someone near the top of the spire system who genuinely believes in earned status and considers the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] methodologically flawed rather than damning, sincerely rather than cynically.
-- **A Robot Rights Underground organizer** *(placeholder, unnamed)* — working quietly within the district's own meritocratic framework, per `District_Unity_of_Opposites.md`'s own established logic that the Underground isn't rejecting the merit system, it's demanding the system apply to everyone it claims to measure.
+- **A senior figure of the Merit Establishment** *(placeholder, unnamed)* — someone near the top of the spire system who genuinely believes in earned status and considers The Narrow Door methodologically flawed rather than damning, sincerely rather than cynically.
+- **A Recalibration Underground organizer** *(placeholder, unnamed)* — working quietly within the district's own meritocratic framework, per `District_Unity_of_Opposites.md`'s own established logic that the Underground isn't rejecting the merit system, it's demanding the system apply to everyone it claims to measure.
 
 ---
 
@@ -166,7 +166,7 @@ Section I is the standout resolution here — it reconciles a genuine, flagged d
 
 ## Finding 1: Concordia's two most economically essential production districts both used their leverage over Libra to avoid accountability, not just to negotiate resources
 
-**Combining:** the Capricorn deep dive's own finding (`Deep_Dives/06_Capricorn_Deep_Dive.md`) that the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s 60+ years of non-correction is explained by "Capricorn's own economic leverage over Libra (paralleling Aries')" + Aries' own established "Political Weapon" — the implicit blackout threat, used at least three times, and the disputed, partly-classified timeline of the Black Silence.
+**Combining:** the Capricorn deep dive's own finding (`Deep_Dives/06_Capricorn_Deep_Dive.md`) that The Narrow Door's 60+ years of non-correction is explained by "Capricorn's own economic leverage over Libra (paralleling Aries')" + Aries' own established "Political Weapon" — a widely-believed but never actually issued blackout threat, reinforced by a retired engineer's memoir, and the disputed, partly-classified timeline of the Black Silence.
 
 **2nd-order effect:** both of Concordia's two most economically essential production districts have used their leverage over Libra specifically to avoid accountability for a genuine internal failure (Capricorn's buried Audit; Aries' disputed Black Silence timeline), not merely to negotiate for more resources.
 

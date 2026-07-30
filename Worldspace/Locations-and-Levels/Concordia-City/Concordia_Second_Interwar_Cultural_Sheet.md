@@ -266,7 +266,7 @@ TBD — likely an ordinary, unhurried civic process befitting a confident, growi
 - **The founding and early growth of Concordia**, alongside the Federation's own century-long infrastructure sequence — cities founded, highways built, the Arcanet extended subnet by subnet
 - **The completion of the Amundsen Tower** (~2629–2639) — the Federation's proudest achievement of this era, a space elevator built largely by robot labor; Concordia's own relationship to this moment (celebration, participation, indirect contribution) is TBD but a natural civic touchstone
 - **The Star War** (mid-2740s, Leo) — a fifteen-year political and artistic conflict between rival performance houses, per `District_Canon_Reference.md`
-- **The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]** (2761, Capricorn) — the robot-rights undervaluation review, its political consequences still unresolved and suppressed at the war's outbreak
+- **The Narrow Door** (2761, Capricorn) — the meritocracy-integrity review, its political consequences still unresolved and dismissed at the war's outbreak
 - **The Flood** (2771, Pisces) — the involuntary memory-sharing incident
 - **The Dimming** (2789–2790, Leo) — the six-month power-allocation crisis, Leo's most traumatic pre-war event
 

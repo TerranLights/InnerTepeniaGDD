@@ -192,7 +192,7 @@ At least one clean, direct case shows a district failing to recognize its own re
 Concordia's two most economically essential production districts both used real leverage over Libra specifically to avoid scrutiny of a genuine internal failure, not simply to negotiate better terms:
 
 - **Aries'** implicit blackout threat, used repeatedly, sits alongside the disputed, partly-classified timeline of the Black Silence.
-- **Capricorn's** economic leverage over Libra kept the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s findings buried for over sixty years past discovery.
+- **Capricorn's** economic leverage over Libra kept The Narrow Door's findings buried for over sixty years past discovery.
 
 This raises an open question this pass doesn't resolve: whether other economically essential districts have comparable buried failures never yet connected to this same pattern.
 
@@ -629,7 +629,7 @@ Pattern 3 and Pattern 4 are the same underlying blindness at two different scale
 
 Capricorn's two defining wounds share an identical shape — a genuine internal failure, met with denial or relabeling rather than repair:
 
-- The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] found the merit-rating system had systematically undervalued robot workers for decades; leadership "disputed the methodology and buried the findings" rather than addressing the substance (Mega-Init, Hard Facts).
+- The Narrow Door found the merit-rating system had systematically undervalued workers whose rhythms didn't fit its own founding-era assumptions, human and robot alike, for decades; leadership "disputed the methodology and buried the findings" rather than addressing the substance (Mega-Init, Hard Facts).
 - The Wartime Production Deaths, from quotas set at "mechanically achievable and humanly lethal" levels, were "framed publicly as heroic sacrifice, privately known to be preventable" (Mega-Init, Hard Facts).
 
 In both cases, the district's response to evidence of its own failure was to change the story told about the failure rather than the conditions that produced it — a genuine, twice-repeated institutional reflex, not a single historical incident.
@@ -640,7 +640,7 @@ In both cases, the district's response to evidence of its own failure was to cha
 
 Capricorn's use of its own economic essentialness recurs as protection from scrutiny rather than simple bargaining:
 
-- The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s bias survived over sixty years past discovery specifically because "Capricorn's own economic leverage over Libra made confronting it politically costly" (Mega-Init, "Worth Your Attention"; Cross-Reference Finding 1).
+- The Narrow Door's bias survived over sixty years past discovery specifically because "Capricorn's own economic leverage over Libra made confronting it politically costly" (Mega-Init, "Worth Your Attention"; Cross-Reference Finding 1).
 - Capricorn's manufacturing dominance is very plausibly built in part on capturing stable value from Sagittarius' own volatile extraction risk — an asymmetric relationship two entirely separate deep dives (Capricorn's and Sagittarius') independently converged on without citing each other (Cross-Reference Finding 2).
 
 Capricorn's leverage doesn't just win Capricorn better terms — in both the Audit's suppression and the Sagittarius relationship, it insulates the district from ever having to reckon with an uncomfortable truth about how its own success is actually produced.
@@ -662,8 +662,8 @@ Both cases show Capricorn folding what would elsewhere be two distinct facts (a 
 
 Capricorn's civic identity is built entirely around earned status and measurable achievement, yet the district's own established history repeatedly undercuts that claim:
 
-- The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] itself is direct evidence the district's core status-measuring apparatus was miscalibrated for decades, systematically undervaluing an entire category of worker (Mega-Init, Hard Facts).
-- The Robot Rights Underground, per `District_Unity_of_Opposites.md`, isn't rejecting the merit system — it's "demanding the system apply to everyone it claims to measure" (Full Extrapolation IV), itself an implicit admission the system currently doesn't.
+- The Narrow Door itself is direct evidence the district's core status-measuring apparatus was miscalibrated for decades, systematically undervaluing an entire category of worker (Mega-Init, Hard Facts).
+- The Recalibration Underground, per `District_Unity_of_Opposites.md`, isn't rejecting the merit system — it's "demanding the system apply to everyone it claims to measure" (Full Extrapolation IV), itself an implicit admission the system currently doesn't.
 - Capricorn's dominant production position may rest in part on value captured from Sagittarius' own extraction risk rather than purely on Capricorn's own merit (Cross-Reference Finding 2) — success the district's own self-image would attribute entirely to earned achievement.
 
 Capricorn is a district whose entire founding logic is "status should be earned through visible, measurable output" (Real-World Inspirations, Detroit), and whose own documented history is the clearest available evidence against taking that claim at face value.
@@ -1058,7 +1058,7 @@ Two structurally identical three-district chains show information a district bel
 
 ## Thread 4: Extraction Flows Upward, Risk Stays Downstream
 
-**The chain:** Sagittarius absorbs the entire volatility of frontier resource extraction — a boom, a bust, stranded political power. Capricorn very plausibly refines those raw materials into finished siligel, capturing the stable, ongoing value Sagittarius' own volatile risk makes possible. That same manufacturing dominance is very plausibly the source of the specific economic leverage Capricorn used against Libra to keep the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s damaging findings buried for over sixty years.
+**The chain:** Sagittarius absorbs the entire volatility of frontier resource extraction — a boom, a bust, stranded political power. Capricorn very plausibly refines those raw materials into finished siligel, capturing the stable, ongoing value Sagittarius' own volatile risk makes possible. That same manufacturing dominance is very plausibly the source of the specific economic leverage Capricorn used against Libra to keep The Narrow Door's damaging findings buried for over sixty years.
 
 **Why it matters:** this is the clearest available case in the whole project of value and consequence traveling in opposite directions across three districts — Sagittarius bears the risk, Capricorn captures the value and converts part of it into leverage, and Libra's own accountability is the casualty at the far end of a chain that began with a mining operation Sagittarius never got credit for either.
 
@@ -1102,7 +1102,7 @@ This chain runs from one district's defining risk-taking, through a second distr
 
 ## Throughway 3: Sagittarius → Capricorn → Libra (extraction funds the leverage that buries an audit)
 
-**Sagittarius absorbs all the volatility of frontier resource extraction — the Siligel Rush's boom, then its bust, then the stranded political power** (Sagittarius Mega-Init, Hard Facts) → **Capricorn, per two independently-written deep dives converging on the same claim, is the most likely district refining those raw materials into finished siligel, capturing the stable, ongoing value Sagittarius' own volatile risk makes possible** (Capricorn Cross-Reference Finding 2) → **that same manufacturing dominance is very plausibly the source of the economic leverage Capricorn used over Libra to keep the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s damaging findings buried for over sixty years past discovery** (Capricorn Cross-Reference Finding 1, "Synthesis") → **meaning Sagittarius' own uncredited extraction risk indirectly funds the specific leverage that lets Capricorn avoid accountability for a completely unrelated internal failure, three districts and two different kinds of injustice connected by one continuous flow of value.**
+**Sagittarius absorbs all the volatility of frontier resource extraction — the Siligel Rush's boom, then its bust, then the stranded political power** (Sagittarius Mega-Init, Hard Facts) → **Capricorn, per two independently-written deep dives converging on the same claim, is the most likely district refining those raw materials into finished siligel, capturing the stable, ongoing value Sagittarius' own volatile risk makes possible** (Capricorn Cross-Reference Finding 2) → **that same manufacturing dominance is very plausibly the source of the economic leverage Capricorn used over Libra to keep The Narrow Door's damaging findings buried for over sixty years past discovery** (Capricorn Cross-Reference Finding 1, "Synthesis") → **meaning Sagittarius' own uncredited extraction risk indirectly funds the specific leverage that lets Capricorn avoid accountability for a completely unrelated internal failure, three districts and two different kinds of injustice connected by one continuous flow of value.**
 
 ---
 
@@ -1417,13 +1417,13 @@ Throughway 3 is the sharpest of the three — it shows Aries' own unexamined gri
 
 ## Throughway 1: From a buried audit to an underground reform movement demanding the system's own promise
 
-**Capricorn's meritocratic "builder" culture was established from the first construction boom** (Mega-Init, Hard Facts) → **the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] (c. 2761) found the merit-rating system had systematically undervalued robot workers for decades** (Mega-Init, Hard Facts) → **leadership disputed the methodology and buried the findings rather than correcting the system** (Mega-Init, Hard Facts) → **the bias survived over sixty years past discovery specifically because Capricorn's own economic leverage over Libra made confronting it politically costly** (Mega-Init, "Worth Your Attention"; Cross-Reference Finding 1) → **producing the Robot Rights Underground, which isn't rejecting the merit system at all — it's demanding the system finally apply to everyone it claims to measure** (`District_Unity_of_Opposites.md`, cited in Full Extrapolation IV) — a reform movement whose entire premise is the specific, still-unaddressed gap the buried Audit first identified.
+**Capricorn's meritocratic "builder" culture was established from the first construction boom** (Mega-Init, Hard Facts) → **The Narrow Door (c. 2761) found the merit-rating system had systematically undervalued workers whose rhythms didn't fit its own founding-era assumptions, human and robot alike, for decades** (Mega-Init, Hard Facts) → **leadership disputed the methodology and buried the findings rather than correcting the system** (Mega-Init, Hard Facts) → **the bias survived over sixty years past discovery specifically because Capricorn's own economic leverage over Libra made confronting it politically costly** (Mega-Init, "Worth Your Attention"; Cross-Reference Finding 1) → **producing the Recalibration Underground, which isn't rejecting the merit system at all — it's demanding the system finally apply to everyone it claims to measure** (`District_Unity_of_Opposites.md`, cited in Full Extrapolation IV) — a reform movement whose entire premise is the specific, still-unaddressed gap the buried Audit first identified.
 
 ---
 
 ## Throughway 2: From lethal quotas to a repeatable institutional reflex
 
-**Wartime production quotas were set at levels "mechanically achievable and humanly lethal"** (Mega-Init, Hard Facts) → **the resulting deaths were framed publicly as heroic sacrifice, privately known to be preventable** (Mega-Init, Hard Facts) → **this is the identical reflex the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] already shows: evidence of institutional failure met with reframing rather than repair** (in-district Patterns, Pattern 1) → **meaning Capricorn's habit of disputing its own failures instead of fixing them isn't confined to one historical incident — it's a repeatable institutional pattern the district's own leadership has used at least twice, decades apart, on two entirely different kinds of failure.**
+**Wartime production quotas were set at levels "mechanically achievable and humanly lethal"** (Mega-Init, Hard Facts) → **the resulting deaths were framed publicly as heroic sacrifice, privately known to be preventable** (Mega-Init, Hard Facts) → **this is the identical reflex The Narrow Door already shows: evidence of institutional failure met with reframing rather than repair** (in-district Patterns, Pattern 1) → **meaning Capricorn's habit of disputing its own failures instead of fixing them isn't confined to one historical incident — it's a repeatable institutional pattern the district's own leadership has used at least twice, decades apart, on two entirely different kinds of failure.**
 
 ---
 
@@ -1980,9 +1980,9 @@ Thread 2 is the more distinctive of the two, because it's the only path in this 
 
 **1st-order cause (= Finding 1's 4th-order effect):** if the leverage-buys-silence pattern holds across both Aries and Capricorn independently, it raises the open question of whether other economically essential districts have comparable buried failures never yet connected to it.
 
-**New 2nd-order effect:** the player, having already learned of Capricorn's own buried Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`], begins investigating whether a third district shares the pattern, and turns up a genuine lead pointing toward a suspiciously well-protected secret elsewhere in the city.
+**New 2nd-order effect:** the player, having already learned of Capricorn's own buried The Narrow Door, begins investigating whether a third district shares the pattern, and turns up a genuine lead pointing toward a suspiciously well-protected secret elsewhere in the city.
 
-**New 3rd-order effect:** this opens a fork: pursue the lead to expose a new, third confirmed case, genuinely expanding the pattern beyond Aries and Capricorn; set the new lead aside and instead build a coalition using the two already-confirmed cases to push for citywide reform of Libra's own oversight mechanisms; or abandon the broader investigation entirely and focus narrowly on winning concrete justice for Capricorn's own Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] victims specifically.
+**New 3rd-order effect:** this opens a fork: pursue the lead to expose a new, third confirmed case, genuinely expanding the pattern beyond Aries and Capricorn; set the new lead aside and instead build a coalition using the two already-confirmed cases to push for citywide reform of Libra's own oversight mechanisms; or abandon the broader investigation entirely and focus narrowly on winning concrete justice for Capricorn's own The Narrow Door victims specifically.
 
 **New 4th-order effect:** a confirmed third case would make the underlying pattern undeniable, but risks making the player a target of whichever district's secret is now under threat of exposure; a citywide reform coalition is slower and more political, but could produce lasting structural change if it succeeds; narrow focus on Capricorn's own victims delivers tangible, specific justice while leaving the broader pattern — and its likely recurrence elsewhere — completely unaddressed.
 
@@ -1994,7 +1994,7 @@ Thread 2 is the more distinctive of the two, because it's the only path in this 
 
 **New 2nd-order effect:** the player confronts a senior Merit Establishment figure who sincerely insists Capricorn's status is entirely earned, armed with evidence connecting both halves of Capricorn's compromised position — the Sagittarius extraction and the Libra leverage — that this figure has never had to reconcile.
 
-**New 3rd-order effect:** this opens a fork: present the evidence to Sagittarius' own representatives, formally validating a decades-old grievance and creating real economic and political pressure on Capricorn; present it instead to the Robot Rights Underground within Capricorn, giving their existing reform movement new, concrete ammunition; or use the evidence privately, negotiating specific concessions from Capricorn without triggering any broader reckoning.
+**New 3rd-order effect:** this opens a fork: present the evidence to Sagittarius' own representatives, formally validating a decades-old grievance and creating real economic and political pressure on Capricorn; present it instead to the Recalibration Underground within Capricorn, giving their existing reform movement new, concrete ammunition; or use the evidence privately, negotiating specific concessions from Capricorn without triggering any broader reckoning.
 
 **New 4th-order effect:** validating Sagittarius' grievance could force a genuine renegotiation of the extraction relationship, but risks real economic disruption to Capricorn's own production capacity, with citywide ripple effects given Capricorn's role supplying expedition equipment and dome materials broadly; strengthening the Underground could accelerate genuine merit-system reform from within, but risks serious internal backlash from the Merit Establishment; private negotiation wins immediate, specific concessions while leaving both the extraction relationship and the merit system's own underlying bias fully intact.
 

@@ -124,7 +124,7 @@ At least one clean, direct case shows a district failing to recognize its own re
 Concordia's two most economically essential production districts both used real leverage over Libra specifically to avoid scrutiny of a genuine internal failure, not simply to negotiate better terms:
 
 - **Aries'** implicit blackout threat, used repeatedly, sits alongside the disputed, partly-classified timeline of the Black Silence.
-- **Capricorn's** economic leverage over Libra kept the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s findings buried for over sixty years past discovery.
+- **Capricorn's** economic leverage over Libra kept The Narrow Door's findings buried for over sixty years past discovery.
 
 This raises an open question this pass doesn't resolve: whether other economically essential districts have comparable buried failures never yet connected to this same pattern.
 

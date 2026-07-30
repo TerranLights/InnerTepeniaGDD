@@ -36,7 +36,7 @@ NPC-Capricorn-Merit-Establishment-Foreman responds to the argument that uses his
 ---
 
 ## NPC-Capricorn-Underground-Organizer
-**Role:** Robot Rights Underground organizer — assembly-line Doll, thirty-year merit documentation case
+**Role:** Recalibration Underground organizer — assembly-line Doll, thirty-year merit documentation case
 **Species:** Doll (Robot)
 **Build:** Assembly-line model, circa 2720s — built for precision repetitive tasks in Capricorn's production facilities. Mid-frame, optimized for specific manufacturing task sets. Has been in the same operational classification tier for thirty years. The synthetic skin shows the wear of thirty years of production work and no significant maintenance attention — the maintenance budget for her classification tier is calibrated to keep the equipment functional rather than to preserve it. She is functional. She is not preserved.
 **Presenting gender:** Female

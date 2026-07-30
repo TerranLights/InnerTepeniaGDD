@@ -6,7 +6,7 @@
 
 ## Finding 1: Concordia's two most economically essential production districts both used their leverage over Libra to avoid accountability, not just to negotiate resources
 
-**Combining:** the Capricorn deep dive's own finding (`Deep_Dives/06_Capricorn_Deep_Dive.md`) that the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`]'s 60+ years of non-correction is explained by "Capricorn's own economic leverage over Libra (paralleling Aries')" + Aries' own established "Political Weapon" — the implicit blackout threat, used at least three times, and the disputed, partly-classified timeline of the Black Silence.
+**Combining:** the Capricorn deep dive's own finding (`Deep_Dives/06_Capricorn_Deep_Dive.md`) that The Narrow Door's 60+ years of non-correction is explained by "Capricorn's own economic leverage over Libra (paralleling Aries')" + Aries' own established "Political Weapon" — a widely-believed but never actually issued blackout threat, reinforced by a retired engineer's memoir, and the disputed, partly-classified timeline of the Black Silence.
 
 **2nd-order effect:** both of Concordia's two most economically essential production districts have used their leverage over Libra specifically to avoid accountability for a genuine internal failure (Capricorn's buried Audit; Aries' disputed Black Silence timeline), not merely to negotiate for more resources.
 

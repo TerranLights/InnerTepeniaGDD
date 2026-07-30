@@ -213,7 +213,7 @@ escalate from: not a war-era dispute over testimony access appearing from nowher
 highest-stakes flare-up of a friction that both districts' own founding logics guaranteed from the start.
 
 **4th-order effect:** this extends a technique this project's own pre-war Megasheets have so far only
-applied to developer-flagged items (Leo's Star War, Capricorn's Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`], Pisces' Tolerance
+applied to developer-flagged items (Leo's Star War, Capricorn's The Narrow Door, Pisces' Tolerance
 Pact) — giving an unresolved future conflict a lived pre-war runway — to a conflict that isn't flagged at
 all, suggesting the technique is a generally useful move for this whole project, not a special case
 reserved for uncertain canon.

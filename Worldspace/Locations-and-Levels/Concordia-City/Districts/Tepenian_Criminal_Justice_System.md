@@ -108,8 +108,8 @@ without consent. That would be an actual rights violation the game's own themes 
 
 **The more interesting framing:** present reconfiguration as a genuine, live in-world controversy rather than
 a clean third sentencing option. It could be offered as a *choice* — reconfiguration instead of exile or
-labor conscription — with a real robot-rights argument (echoing Capricorn's own suppressed robot-rights
-undercurrent) that "choose this or lose everything" was never real consent to begin with. Neither side of that
+labor conscription — with a real consent argument (echoing Capricorn's own Recalibration Underground)
+that "choose this or lose everything" was never real consent to begin with. Neither side of that
 argument needs to be declared correct; the tension itself is the content.
 
 ---

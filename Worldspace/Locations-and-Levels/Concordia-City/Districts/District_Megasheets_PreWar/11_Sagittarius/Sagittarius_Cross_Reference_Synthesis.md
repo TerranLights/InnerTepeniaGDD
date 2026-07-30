@@ -54,7 +54,7 @@ existing material currently notices, since Capricorn's pre-war document delibera
 politics.
 
 **4th-order effect:** if the eventual choice among Capricorn's seven possibilities involves robot labor
-specifically (the Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] or the obsolescence-anxiety option), this timing becomes sharper
+specifically (The Narrow Door or the obsolescence-anxiety option), this timing becomes sharper
 still — Capricorn's robot workforce would have absorbed both the burial of their own exposed grievance
 and an immediate, unrelated increase in the value flowing through their own production line, with nothing
 connecting the two for them any more than it currently connects for either district's documentation.

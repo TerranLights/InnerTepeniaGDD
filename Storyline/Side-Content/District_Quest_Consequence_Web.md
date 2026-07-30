@@ -28,9 +28,9 @@ The True Believer archivist inside Libra is the same person in both quests — t
 ### Chain 2: The Truth Chain
 **Capricorn → Gemini → Libra → Act 3**
 
-The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] leak (Capricorn) is the kind of verified, documented story that Gemini's Verification Faction needs. Libra is eventually forced to rule on its implications.
+The Narrow Door leak (Capricorn) is the kind of verified, documented story that Gemini's Verification Faction needs. Libra is eventually forced to rule on its implications.
 
-- **Capricorn Unity Path + Gemini Unity Path:** The Audit is Janbogo's first major authenticated story produced through the new parallel broadcast protocol. The Verification Faction's credibility is established on the Audit. Libra must rule on sixty-three years of discriminatory merit assessment; if Libra is in Unity Path mode (reforming), the ruling is genuine. If not, it's bureaucratic suppression. → *Act 3: The Robot Rights Underground is a named political faction at the summit with a documented legal case.*
+- **Capricorn Unity Path + Gemini Unity Path:** The Audit is Janbogo's first major authenticated story produced through the new parallel broadcast protocol. The Verification Faction's credibility is established on the Audit. Libra must rule on sixty-three years of discriminatory merit assessment; if Libra is in Unity Path mode (reforming), the ruling is genuine. If not, it's bureaucratic suppression. → *Act 3: The Recalibration Underground is a named political faction at the summit with a documented legal case.*
 - **Capricorn Unity Path + Gemini Path 1 (speed):** The Audit is broadcast before verification; one contested data point is wrong. The Establishment seizes on it. The Underground's case is partially discredited. Libra uses the contested data point to invalidate the whole claim. The reform is delayed. → *Act 3: The Underground surfaces anyway, but outside legal channels — with unpredictable methods.*
 - **Capricorn Path 1 (suppression):** Nothing for Gemini to amplify. Libra is never forced to rule. → *Act 3: The Underground surfaces violently rather than politically. Libra has to manage a faction conflict on top of the energy crisis and whatever else the player has triggered.*
 - **Capricorn Path 2 (full reclassification):** The disruption hits Cancer and Taurus hard during a critical window. Both districts register negative reputation effects with Capricorn that persist into the summit. The reform is real but costs relationships.
@@ -109,7 +109,7 @@ Quick reference for what each resolution path unlocks, requires, or blocks.
 | Leo | H 6+ or Sonic Resonance | Cymaticist faction accessible; Gemini story | Underground performer lost for years | — |
 | Scorpio | H 6+ or C 7+ | Aquarius Unity Path enabled; Hub Unity Path enabled | Aquarius defaulting to worse outcomes | Libra Archive branch available |
 | Aries | I 6+ or C 7+ | Libra archivist fortified; classified file available | No Libra connection | Libra quest compromised if identity exposed |
-| Capricorn | C 7+ or I 5+ | Robot Rights Underground surfaces legally; Libra must rule | Underground surfaces violently in Act 3 | Cancer/Taurus negative rep ripple |
+| Capricorn | C 7+ or I 5+ | Recalibration Underground surfaces legally; Libra must rule | Underground surfaces violently in Act 3 | Cancer/Taurus negative rep ripple |
 | Aquarius | Scorpio Unity Path required | Inter-district research protocol; Sagittarius tech usable | Scorpio overwhelmed in Act 3 | Living Network = Act 3 crisis |
 | Libra | H 5+ or C 6+ + Libra rep | Summit as reforming institution; all districts' options expand | True Believer lost as contact | Act 3 destabilized; Sagittarius autonomy push |
 | Gemini | I 7+ or C 6+ | Shadow channel consequence (Operators act); Pisces chain | Implicated person survives to Act 3 | Depends on Libra trustworthiness |
@@ -149,7 +149,7 @@ More granular breakdown of each quest's consequences by path.
 **Unity Path →**
 - Cancer: The insulation equity model becomes a template that Cancer's advocates want applied to their own district's resource allocation.
 - Libra: The Unverifiables' provisional bond recognition is a small but real precedent. Libra either ratifies it city-wide (if in Unity Path mode) or quietly suppresses it (if Operators are dominant).
-- Capricorn: The insulation materials for the reform come from Capricorn's supply chain. If Capricorn's Robot Rights Underground is active, the supply negotiations involve the Underground organizer — a small dialogue branch that can improve or complicate relations.
+- Capricorn: The insulation materials for the reform come from Capricorn's supply chain. If Capricorn's Recalibration Underground is active, the supply negotiations involve the Underground organizer — a small dialogue branch that can improve or complicate relations.
 - Act 3: Taurus arrives at the summit without an active internal crisis. The Cold-Side rep is a named delegate. The Unverifiables have provisional representation.
 
 **Path 1 →**
@@ -215,7 +215,7 @@ More granular breakdown of each quest's consequences by path.
 - Sagittarius: Sagittarius' raw material contracts were assessed under the same biased merit system. The Underground organizer, once surfaced, brings Sagittarius into the reclassification scope. A minor branch emerges: Sagittarius and Capricorn renegotiating resource contracts under the new system.
 - Gemini: The Audit story, fully authenticated, is what the Verification Faction needed. This is the event that establishes the Verification Faction's credibility ahead of the pre-Treaty revelation (if the Gemini quest hasn't happened yet). If it has, it retroactively strengthens their standing.
 - Libra: Libra is forced to rule on the legality of sixty-three years of discriminatory merit assessment. If Libra is in Unity Path mode, the ruling is genuine and creates legal precedent city-wide. If Libra is in Operator or Pragmatist mode, the ruling is bureaucratically suppressed — but the Underground now has a ruling on the record to appeal.
-- Act 3: The Robot Rights Underground is a named political faction at the summit with documented legal standing.
+- Act 3: The Recalibration Underground is a named political faction at the summit with documented legal standing.
 
 **Path 1 →**
 - Act 3: The Underground surfaces outside legal channels. Their methods are unpredictable. Libra has to manage a faction conflict during the summit that the player could have defused.
@@ -346,7 +346,7 @@ More granular breakdown of each quest's consequences by path.
 What the summit looks like given the major chain outcomes.
 
 **Maximum Unity (all or most Unity Paths):**
-The summit is a genuine multi-party negotiation with legitimate democratic process, a reformed Libra, a surfaced Robot Rights Underground, a Pisces delegate at the table, a Virgo whose work is acknowledged, a Deep Level that has rewritten the city's history, and a pre-war technological breakthrough available as the grid solution. It is the hardest summit to navigate because more factions have legitimate claims and more voices need to be heard. There is no clean answer but there are good ones.
+The summit is a genuine multi-party negotiation with legitimate democratic process, a reformed Libra, a surfaced Recalibration Underground, a Pisces delegate at the table, a Virgo whose work is acknowledged, a Deep Level that has rewritten the city's history, and a pre-war technological breakthrough available as the grid solution. It is the hardest summit to navigate because more factions have legitimate claims and more voices need to be heard. There is no clean answer but there are good ones.
 
 **Maximum Suppression (all or most Path 1 choices):**
 The summit is controlled by the most powerful factions in their most defensive configurations. The Operators dominate Libra. The Audit Underground surfaces violently. The Living Network is an ongoing crisis. Scorpio is overwhelmed. The energy crisis is worse because no breakthroughs were enabled. There are fewer voices at the table but the voices present are more dangerous. The summit is shorter and harder.

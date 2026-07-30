@@ -155,9 +155,9 @@ All three events are scheduled simultaneously. The Cymaticist experiment require
 
 ## District 6 — Capricorn: **"The Audit"**
 
-**Internal Conflict:** Merit Establishment vs. Robot Rights Underground vs. Guild Loyalists
+**Internal Conflict:** Merit Establishment vs. Recalibration Underground vs. Guild Loyalists
 
-**Inciting Situation:** Someone has leaked the full original Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] of 2761 onto Janbogo's public channels — not the sanitized summary Capricorn published, but the complete dataset: sixty-three years of equivalent output, different merit ratings, sorted by species. The Underground has been waiting for this. The Establishment is in damage control. The Guild Loyalists — human and robot workers who have moved up through the system and believed in it — are being forced to pick a side for the first time.
+**Inciting Situation:** Someone has leaked the full original The Narrow Door of 2761 onto Janbogo's public channels — not the sanitized summary Capricorn published, but the complete dataset: sixty-three years of equivalent output, different merit ratings, sorted by species. The Underground has been waiting for this. The Establishment is in damage control. The Guild Loyalists — human and robot workers who have moved up through the system and believed in it — are being forced to pick a side for the first time.
 
 **Parties:**
 - **Establishment foreman** (upper-spire, earned his position over thirty years): "The methodology was flawed. We've implemented the relevant improvements. This leak is a destabilization campaign."
@@ -172,9 +172,9 @@ All three events are scheduled simultaneously. The Cymaticist experiment require
 
 2. *Back the Underground's full reclassification push.* Production slows for six weeks during spire recalculation. The merit system is genuinely restructured. The disruption costs the city siligel output at a time when the energy crisis makes that costly. Cancer and Taurus feel it. The reform is real.
 
-3. *Unity Path (requires C 7+ or I 5+):* The Establishment's entire identity rests on Capricorn producing the best outcomes through the best methods. Make that argument back at them. A merit system with a sixty-three-year structural bias is not producing best outcomes — it's producing outcomes from a compromised dataset. Bring the Guild Loyalists in first: they're persuadable, and they have credibility the Underground lacks. A coalition of Guild Loyalists and Underground members, making the case in the Establishment's own language, is harder to dismiss than a protest. The reform happens. Slower and less complete than the Underground wanted. More complete than the Establishment intended. The Robot Rights Underground surfaces — publicly, legally — for the first time. The Capricorn's core injustice [mechanism TBD — 4 contenders shortlisted, see `06b_Capricorn_Alternative_Conditions.md`] of 2761 becomes curriculum in Capricorn's guild apprenticeship programs.
+3. *Unity Path (requires C 7+ or I 5+):* The Establishment's entire identity rests on Capricorn producing the best outcomes through the best methods. Make that argument back at them. A merit system with a sixty-three-year structural bias is not producing best outcomes — it's producing outcomes from a compromised dataset. Bring the Guild Loyalists in first: they're persuadable, and they have credibility the Underground lacks. A coalition of Guild Loyalists and Underground members, making the case in the Establishment's own language, is harder to dismiss than a protest. The reform happens. Slower and less complete than the Underground wanted. More complete than the Establishment intended. The Recalibration Underground surfaces — publicly, legally — for the first time. The Narrow Door of 2761 becomes curriculum in Capricorn's guild apprenticeship programs.
 
-**Ripples:** Unity Path is the prerequisite for the Robot Rights faction becoming a named, accessible faction in Act 3. Path 2 produces the reform but at a cost that affects relations with Cancer and Taurus. Path 1 sets up a more explosive conflict event later.
+**Ripples:** Unity Path is the prerequisite for the Recalibration faction becoming a named, accessible faction in Act 3. Path 2 produces the reform but at a cost that affects relations with Cancer and Taurus. Path 1 sets up a more explosive conflict event later.
 
 ---
 
