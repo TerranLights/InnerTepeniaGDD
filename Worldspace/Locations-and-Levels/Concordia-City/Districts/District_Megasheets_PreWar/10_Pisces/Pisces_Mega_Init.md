@@ -5,17 +5,15 @@ post-war `District_Megasheets/10_Pisces/Pisces_Mega_Init.md` — not a replaceme
 Pisces as it stood during the Second Interwar Period (roughly 2564–2812), before the Long Night War.
 Synthesizes `Deep_Dives/10_Pisces_Deep_Dive.md`. Compiled 2026-07-16.
 
-**Scope note — Pisces carries two separate open items, handled differently.** (1) **The Tolerance
-Pact** carries the same developer-flagged uncertainty as Leo's Star War and Capricorn's Merit Board
-Audit — "not sure yet what this actually is or whether it stays in canon." Per developer direction: this
-document treats the Pact as **not yet formalized**, while building Pisces' relationship with Libra so
-that an arrangement shaped like it remains a natural outcome. (2) **The Flood** is a separate,
-already-canon event whose own *timing and mechanical nature* — not its existence — are flagged as
+**Scope note — Pisces carried two separate open items at the time this was written, both since resolved.** (1) **The Tolerance
+Pact** carried the same developer-flagged uncertainty as Leo's Star War and Capricorn's core injustice — "not sure yet what this actually is or whether it stays in canon." This document, written before that resolution, treated the Pact as **not yet formalized**, while building Pisces' relationship with Libra so
+that an arrangement shaped like it remains a natural outcome. *(Update 2026-07-29 — resolved: the Pact stays in canon, unrenamed, reframed as a never-negotiated equilibrium individual Libra operatives quietly arrived at over decades, rather than a deliberate deal — see `Deep_Dives/10d_Pisces_Tolerance_Pact.md`. This document's own pre-war build-up already supports that reading without needing revision.)* (2) **The Flood** was a separate,
+already-canon event whose own *timing and mechanical nature* — not its existence — were flagged as
 needing a dedicated pass (`10_Pisces_Deep_Dive.md`, `Pisces_Full_Extrapolation.md`, both explicit). This
-document follows that same existing discipline: it doesn't invent a mechanism or confirm a date, but it
-does build Pisces' pre-war conditions (underground clinics routing unregulated Aquarius technology,
+document followed that same existing discipline: it didn't invent a mechanism or confirm a date, but it
+did build Pisces' pre-war conditions (underground clinics routing unregulated Aquarius technology,
 already-porous population) so that *some* Flood-shaped event remains a natural outcome whenever it's
-eventually pinned down.
+eventually pinned down. *(Update 2026-07-29 — the mechanism is now resolved, Candidate D "The Mosaic," see `Deep_Dives/10b_Pisces_Flood_Mechanism.md`; the exact date remains deliberately open, still compatible with this document's own hedged framing.)*
 
 ---
 

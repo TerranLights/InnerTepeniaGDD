@@ -5,9 +5,9 @@ post-war `District_Megasheets/03_Leo/Leo_Mega_Init.md` — not a replacement for
 it stood during the Second Interwar Period (roughly 2564–2812), before the Long Night War. Synthesizes
 `Deep_Dives/03_Leo_Deep_Dive.md`'s own root-cause reading of Leo's founding mission. Compiled 2026-07-16.
 
-**Scope note:** the Star War (mid-2740s) currently carries the same developer-flagged uncertainty as
+**Scope note:** the Star War (mid-2740s) *once* carried the same developer-flagged uncertainty as
 Capricorn's The Narrow Door and Pisces' Tolerance Pact — "not sure yet what this actually is or
-whether it stays in canon." Per developer direction: this document treats the Star War as **not yet
+whether it stays in canon." *(Update 2026-07-29 — all three since resolved; see `Deep_Dives/03b_Leo_Star_War_Alternatives.md`, `Deep_Dives/06b_Capricorn_Alternative_Conditions.md`, and `Deep_Dives/10d_Pisces_Tolerance_Pact.md`.)* This document, written before that resolution, treats the Star War as **not yet
 having happened**, while building Leo's founding-era mission and internal culture so that a conflict
 shaped like it remains a fully natural, near-inevitable outcome of that culture — not narrating the
 specific fifteen-year feud, which house wins, or that any house currently holds power as a result.

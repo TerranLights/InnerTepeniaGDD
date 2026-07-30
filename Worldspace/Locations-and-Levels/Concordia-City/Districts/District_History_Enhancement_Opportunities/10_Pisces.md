@@ -7,11 +7,11 @@ Stage 1 only (the ~250-year Second Interwar organic-formation period, 2564–281
 present-day material. **Flag only** — no new Stage 1 narrative drafted, no texture woven into the actual
 Deep Dive or Megasheet files.
 
-**Extra constraint specific to this district:** like Capricorn, Pisces carries two separate
+**Extra constraint specific to this district, at the time this pass was written:** like Capricorn, Pisces carried two separate
 developer-flagged "not sure yet whether this stays in canon" items — the Tolerance Pact (with Libra) and
-the Flood (the Syncretic Religion's plausible origin event). The Mega_Init deliberately treats the Pact as
-**not yet formalized** and the Flood's timing/mechanism as **genuinely unresolved**. Every idea below is
-chosen to hold true regardless of how either question is eventually settled.
+the Flood (the Syncretic Religion's plausible origin event). The Mega_Init deliberately treated the Pact as
+**not yet formalized** and the Flood's timing/mechanism as **genuinely unresolved**. *(Update 2026-07-29 — both since resolved: the Tolerance Pact fully, see `Deep_Dives/10d_Pisces_Tolerance_Pact.md`; the Flood's mechanism, not its exact date, via Candidate D, "The Mosaic," see `Deep_Dives/10b_Pisces_Flood_Mechanism.md`.)* Every idea below was
+chosen to hold true regardless of how either question was eventually settled, and still does.
 
 ---
 

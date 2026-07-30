@@ -11,9 +11,10 @@ This document stays purely descriptive. Written 2026-07-16.
 
 **Combining:** this pre-war Megasheet's own status as a second-order district (shaped by the excess of
 the other five direct-response districts, not the founding wound directly) + the fact that Pisces itself
-carries two of Concordia's three currently-flagged uncertain pre-war events (the Tolerance Pact and the
+carried two of Concordia's three then-flagged uncertain pre-war events (the Tolerance Pact and the
 Flood), with the third (Leo's Star War) sitting in a district Pisces already has an established relationship
-with via ex-Leo burnouts.
+with via ex-Leo burnouts. *(Update 2026-07-29 — all three since resolved: the Tolerance Pact and Leo's Star
+War fully, the Flood's mechanism (not its exact date) via Candidate D, "The Mosaic." See `Deep_Dives/10d_Pisces_Tolerance_Pact.md`, `Deep_Dives/03b_Leo_Star_War_Alternatives.md`, and `Deep_Dives/10b_Pisces_Flood_Mechanism.md`.)*
 
 **2nd-order effect:** Pisces' own founding character — catching whoever the other districts' methods
 don't work for — means it's structurally the one district whose pre-war identity doesn't depend on any

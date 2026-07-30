@@ -40,7 +40,7 @@ In both cases, Pisces' own actual depth is available to be discovered, but the e
 
 ## Pattern 4: Recognition that is structurally impossible to receive without being destroyed by receiving it
 
-The Mega-Init's own "Worth Your Attention" states this as Pisces' central condition: formalizing the district's necessity would destroy the deniability that makes it valuable to everyone, including Libra. Cross-Reference Finding 2 extends this into a "double erasure" — Pisces gets no institutional reward for the war proving its necessity, and the scale of that necessity gets misattributed to wartime emergency rather than credited to six decades of prior institutional competence. Unlike Libra's own structurally similar Perpetual Emergency (which at least converts into retained power), Pisces' invisibility earns it nothing at all — not even the memory of having built the arrangement in the first place.
+The Mega-Init's own "Worth Your Attention" states this as Pisces' central condition: formalizing the district's necessity would destroy the deniability that makes it valuable to everyone, including Libra. Cross-Reference Finding 2 extends this into a "double erasure" — Pisces gets no institutional reward for the war proving its necessity, and the scale of that necessity gets misattributed to wartime emergency rather than credited to six decades of prior institutional competence. Unlike Libra's own structurally similar Perpetual Emergency (which at least converts into retained power), Pisces' invisibility earns it nothing at all — not even the memory that none of it was ever built or brokered by anyone; it was simply already, quietly true, decades before the war ever needed it to be.
 
 ---
 

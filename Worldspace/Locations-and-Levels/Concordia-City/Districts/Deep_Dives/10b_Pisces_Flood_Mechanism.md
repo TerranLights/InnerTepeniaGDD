@@ -1,6 +1,8 @@
 # Pisces — The Flood: Mechanism Parameters
 
-**Status:** 🟡 open for discussion — the dedicated pass flagged as needed by `10_Pisces_Deep_Dive.md`,
+**Status:** 🟢 mechanism CONFIRMED 2026-07-29 — see "CONFIRMED — Candidate D, 'The Mosaic'" at the bottom of this file. Timing is a separate, still-open question (see that section's own note). The guardrails and research below are preserved as the reasoning record.
+
+**Status (original):** 🟡 open for discussion — the dedicated pass flagged as needed by `10_Pisces_Deep_Dive.md`,
 `District_Megasheets_PreWar/10_Pisces/Pisces_Full_Extrapolation.md`, and the Hub Deep Dive's own
 project-wide synthesis (which lists the Flood's timing/nature alongside Gemini's Great Corruption and
 Virgo's Deep Level as one of three items deliberately deferred rather than resolved in-line). **The
@@ -82,8 +84,75 @@ population *is*.
 
 ---
 
-## Next steps (not yet resolved — for the stepwise discussion to follow)
+## Next steps (superseded — see CONFIRMED section below)
 
-This file records the guardrails only. Candidate mechanism shapes, specific proposed answers, and the
-eventual timing decision are deliberately not drafted here — that's the next stage of this pass, to be
-worked through with the developer directly rather than pre-committed to in this reference document.
+This file originally recorded the guardrails only, with candidate mechanism shapes deliberately left for
+a later stage. That stage happened: the full research pipeline in
+`Reference/Real-World/Pisces_Flood_Mechanism_Research/` (7 files) derived real, cited scientific grounding
+for every single item in both lists above, converging on a maximalist synthesis
+(`06_Synthesis_Candidate_Mechanism.md`) and four independently viable pulled-apart variants
+(`07_Candidate_Mechanism_Variants.md`, Candidates A–D). One of those four is now confirmed. See below.
+
+---
+
+## CONFIRMED — Candidate D, "The Mosaic" (2026-07-29)
+
+**Chosen over Candidates A, B, and C** after today's own session established, across seven separately
+confirmed district mechanisms (Aries, Libra, Scorpio, Cancer, Capricorn, Leo, Pisces' own Black Market
+Origin), that Tepenia's defining historical wounds are consistently *accumulated structural inertia
+crossing an unwatched threshold over roughly two centuries* — never a single villain, never anyone
+presently at fault. That's functionally identical to Candidate A's own premise (a sufficiently large
+interdependent network can collapse completely with zero external trigger, purely from its own
+accumulated structural interdependency crossing a threshold). Candidate D uses that same trigger while
+adding two further refinements that give it real gameplay traction A lacked on its own.
+
+### The mechanism, stated plainly
+
+There was no single, uniform Flood. There were dozens, maybe hundreds, of small simultaneous local
+collapses on the night Pisces' underground-clinic device network's accumulated, unremarkable growth
+finally crossed the same critical threshold Candidate A's research establishes (a real, proven result:
+sufficiently large interdependent networks collapse completely with zero external failures required, once
+enough of their own structural interdependency has accumulated) — each collapse pulling a handful of
+physically or technically nearby connected people into their own private, shared cluster.
+
+Crucially, nothing about anyone's actual memories changed. Only the bookkeeping — the literal, real
+`owner` field OS-level page-table research already establishes as separate, reassignable metadata, not an
+intrinsic property of the data itself (`03` section 3, Ch.4) — broke, cluster by cluster, in a way that
+never fully repaired itself. Some clusters settled into something stable, their members experiencing
+something like the "transcendence" reading; others never stabilized, and are, in some quiet sense,
+arguably *still happening*, low-grade, to this day.
+
+### Why this, over the other three
+
+- **Register:** the strangest and most quietly uncanny of the four — no literal content-merging, just a
+  permanently scrambled sense of ownership over intact, unchanged memories, scattered unevenly across many
+  small groups rather than one uniform district-wide event. Matches the non-malicious, nobody's-fault tone
+  established everywhere else in the project far better than Candidate C's real clinic guilt, and gives
+  more actual texture than Candidate A's purely inevitable, uninvestigable version.
+- **Uniquely enables genuine doctrinal variety within the Syncretic Religion** — different founding
+  clusters producing different sects, using real orthodoxy/heresy dynamics from cognitive-science research
+  on shared pattern-thinking (`03` section 4) — without needing to separately invent why the religion has
+  internal schisms. The mechanism produces them for free.
+- **Uniquely supports an ongoing, present-day NPC anchor.** Because some clusters never stabilized, there
+  can be a living resident right now whose sense of which memories are theirs is still genuinely unresolved
+  — not a cold case to close, but an ongoing situation a player could actually run into, which is exactly
+  the kind of concrete, discoverable starting point `District_Under_Questline_Design_Method.md` requires
+  and Candidate A could not offer on its own.
+
+### Checked against `10b`'s own constraints
+
+Every item in both the "what must be true" and "what definitely cannot be true" lists above was already
+checked against this material in `06_Synthesis_Candidate_Mechanism.md`'s own point-by-point walkthrough —
+nothing in Candidate D weakens any of those checks, since it uses the same underlying science, just
+recombined along the labels-not-content and many-events axes rather than the maximalist blend's own
+content-merges/one-event choices.
+
+### What remains genuinely open
+
+**The Flood's date is a separate question, not resolved by this mechanism confirmation.** Pisces' own
+Black Market Origin (`10c_Pisces_Black_Market_Origin.md`, "nBeta") was deliberately built *without*
+Candidate P4's Tower-destruction trigger, specifically so the Flood's own timing could stay fully
+independent — so nothing here forces the date to move from its current, twice-already-moved c. 2771
+placement, but nothing here locks it there either. Revisit separately, whenever that's ready. Also still
+open: the still-unread high-priority research material flagged in `00_Extraction_Checklist.md`, which
+would sharpen details but isn't needed to treat this mechanism as decided.

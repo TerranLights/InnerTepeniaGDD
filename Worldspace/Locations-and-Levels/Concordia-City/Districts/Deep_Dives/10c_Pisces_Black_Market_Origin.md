@@ -54,7 +54,20 @@ This is the anchor's real payoff. The Act currently exists only as an inferred p
 
 Pisces' own established "nobody officially acknowledges needing us" identity is explicitly shared with Scorpio in `District_Canon_Reference.md`'s own Cross-District Notes ("The districts nobody officially acknowledges needing are Pisces and Scorpio. Both of them know this."). nBeta's mechanism — quietly indispensable, never officially valued, benefiting from the gap between those two facts — gives that shared line a real, derived cause for Pisces, closely paralleling (without needing to be identical to) Scorpio's own now-confirmed custody-dispute chain. The two districts' companion NPCs could plausibly recognize the same shape in each other's history without requiring any literal shared document between them.
 
-### I. What stays fully independent — The Flood
+### I. The Cross-District Notes line, resolved
+
+The bonus thread in Section H pointed at a real, standing problem: `District_Canon_Reference.md`'s own Cross-District Notes used to close with *"The districts nobody officially acknowledges needing are Pisces and Scorpio. Both of them know this. Both of them use it."* "Use it" implied active leverage — a district deliberately wielding its own unacknowledged status against someone. That was already flagged during the original non-malice audit pass as worth rechecking once either district's material got reworked, since it read as the same family of problem as the Aries/Libra items. Both districts now have: Scorpio's Forbidden Archive War is a chain of accidental custody (founding-era overflow → a dual-appointed custodian who died → an institutionalized redundancy nobody re-examined); Pisces' own Black Market Origin, confirmed above, is a founding-era enforcement gap nobody ever closed. Neither district actively wields anything against anyone in either mechanism — both are passive, structural, and never revisited, exactly the non-malicious shape the whole audit requires.
+
+**Five candidate replacements were considered for "Both of them use it":**
+1. *"Neither has ever had to change"* — the most mechanically precise option, directly restating the "never revisited" shape both confirmed mechanisms actually share.
+2. *"Both of them have quietly built around it"* — kept a sense of agency without implying leverage, but read as too abstract on its own. **Dropped by developer request.**
+3. *"Neither one minds"* — short and wry, matching the line's original conspiratorial tone, but risked undercutting Scorpio's more serious, confrontational register.
+4. *"Both of them are better off for it"* — plain, unambiguous, states the passive benefit directly, if a little flat standing alone.
+5. *"Neither one is in a hurry to be found"* — atmospheric, preserves the original's air of mystery, without implying either district is actively concealing anything — neither is hiding; neither has ever been looked at closely enough to need to.
+
+**Confirmed: options 1, 3, 4, and 5 combined**, treated as four distinct facets of the same idea — mechanism (1), evaluative outcome (4), tone (3), and atmosphere (5) — rather than as competing alternatives, folded into one flowing closing sentence instead of a checklist of separate claims. **Already promoted directly into `District_Canon_Reference.md`'s Cross-District Notes** (unlike the Black Market mechanism itself, which is still pending its own promotion pass): *"Neither has ever had to change, and both are better off for it — neither one minds, and neither is in a hurry to be found."* Full tracking also recorded in `Cross_District_Non_Malice_Audit.md`'s own "Cross-District Notes entry" section.
+
+### J. What stays fully independent — The Flood
 
 None of the above touches The Flood's own timing or mechanism in any way. The Flood's own dedicated research pipeline (`10b_Pisces_Flood_Mechanism.md` and its research folder) remains completely free to be decided on its own terms, whenever that's ready, with no dependency created by this file.
 
