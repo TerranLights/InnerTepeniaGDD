@@ -746,6 +746,16 @@ Among Tepenia's 32 non-South-Pole cities, only Sayowa (East Ongul Island, dual-a
 - **The Detachment Academy** — an informal training tradition teaching the specific Hub-born skill of professional detachment
 - **War Memorial Corridor Walks** — a formalized walking path connecting the memorial plaques already embedded in ordinary corridors
 
+**Small offices for educational training:**
+- neutral mediation and inter-district facilitation technique
+- multi-district cultural literacy (enough working fluency in all thirteen districts' own norms to serve any of them credibly)
+- protocol and diplomatic correspondence
+- transit logistics and crowd-flow coordination
+- crisis command and multi-district resource triage
+- professional detachment and studied neutrality technique
+- archival and record-keeping practice
+- reading a room without revealing what you've read
+
 **Social cohesion mechanisms:**
 - **Private Opinion Nights** — trusted gatherings where Hub-born residents can voice their genuine hidden opinions about the districts they serve
 - **Bridge Memorial Silent Vigils** — residents gathering silently at the Memorial on certain days, no organized ceremony

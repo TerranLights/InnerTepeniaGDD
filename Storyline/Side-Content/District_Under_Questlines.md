@@ -1394,3 +1394,123 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** help the crew bring this back to Virgo as evidence that Aries isn't the district Virgo's own culture assumes it is; let the crew keep the observation private, unsure it would change anything about the two districts' relationship regardless; or use the observation to finally explain, from outside, why Virgo's own post-war treatment stayed worse even after two separate proofs of its own indispensability — perhaps because Aries' own leverage was never actually a threat either, and both districts have spent decades being misread by the same city for the same reason.
 **Consequence-test:** can two districts that have each been quietly misunderstood by the rest of the city recognize the same misunderstanding happening to both of them, rather than just to themselves?
 **Source:** Cross-Reference Synthesis Finding 2 (corrected); Throughway 1 (the unexplained post-war-treatment asymmetry); Aries' own confirmed mechanism (`Cross_District_Power_Leverage_Alternatives.md`).
+
+---
+
+## Hub (Axis Mundi)
+
+**Civic belief (Concordia Section I):** *"a city becomes real by having somewhere all the other theories can actually meet. A true city needs genuinely neutral ground — a place where no one has to compromise their own theory just to stand in the same room as everyone else's."*
+
+**Status: 16 of 15–20 target. Floor exceeded.** As the closing district's own closing entry: the Hub's Cross-Reference Synthesis makes two genuinely reflexive findings only visible once all 13 Megasheets existed to compare — Leo alone fits none of the recurring structural patterns found elsewhere, and the Hub is the structural limit case of "proof without payoff" (it cannot even generate a proof event, since doing so requires taking a side).
+
+### 1. The Reading Nobody Asked For
+**Starting point:** a Bridge Memorial Reading Room, where the deep dive's own now-complete reading table (Taurus=surrender, Capricorn=squandered investment, Aquarius=parallel experiment, Libra=proof the system held, Gemini=truest Twin-Channels object, Pisces=ultimate dissolution, plus the six already established) is finally laid out in one place for the first time.
+**Chain:** a visitor from one district reads another district's own posted interpretation and finds it genuinely offensive — not because anyone intended insult, but because the twelve readings, seen together for the first time, expose just how incompatible they really are.
+**Fork:** help mediate a specific reconciliation between the two readings, at the risk of implying one is more legitimate; defend the Room's practice of posting all twelve without ranking them, even though that means letting the offense stand; or quietly suggest removing the Room's comparative display entirely, preserving the Memorial's usual fragmentary, uncompared state.
+**Consequence-test:** does neutral ground survive the first time all its coexisting truths are placed side by side instead of experienced one at a time?
+**Source:** Full Extrapolation Section I; Throughway 2; Community Infrastructure & Social Life — Bridge Memorial Reading Rooms.
+
+### 2. When the Neutral Room Has a Stake
+**Starting point:** a Neutral Ground Negotiation Suite, marketed specifically as genuinely impartial inter-district territory.
+**Chain:** a negotiation underway would, if it went one way, directly affect the Hub's own resources or standing — testing, for once, whether the Suite's neutrality is real or simply untested.
+**Fork:** recuse the Suite's own facilitators and bring in a genuinely disinterested third party, at real logistical cost; let the Hub's own facilitators proceed, trusting their professional detachment to hold; or quietly discover the negotiation's stakes for the Hub were exaggerated, and the test was never as real as it felt.
+**Consequence-test:** can a district whose entire function depends on never taking sides prove it wouldn't, the one time it actually has something to gain?
+**Source:** Cross-Reference Finding 2; Community Infrastructure & Social Life — Neutral Ground Negotiation Suites.
+
+### 3. Failed Somewhere Else First
+**Starting point:** the Overflow Welcome Office, intake for the majority of Hub residents who arrive by elimination.
+**Chain:** a new arrival resents being told, gently, that "principled rootlessness" is the district's founding virtue — to them, it just sounds like a nicer word for having failed to belong anywhere else.
+**Fork:** help them find genuine pride in the identity over time, the way most Hub-arrived residents eventually do; validate their resentment, and help them find ways to stay connected to their origin district instead of assimilating fully; or connect them with a Sayowa-descended mentor, whose very different relationship to the same identity might reframe the whole question.
+**Consequence-test:** can a virtue built out of other places' rejections ever feel like something chosen, rather than something settled for?
+**Source:** Full Extrapolation Section IV; Community Infrastructure & Social Life — The Overflow Welcome Office.
+
+### 4. The Opinion That Won't Stay Hidden
+**Starting point:** the Detachment Academy, an informal training tradition teaching professional detachment.
+**Chain:** a trainee simply cannot master it — their genuine opinions about specific districts keep surfacing despite real effort, risking their entire professional future in a role that requires studied neutrality.
+**Fork:** help them find a different Hub role that doesn't require full detachment, like Patch Archive curation; keep pushing them through the traditional training, on the theory that everyone eventually learns; or discover their inability to fake detachment is actually the more honest position, and help them leave the Academy on their own terms.
+**Consequence-test:** does the Hub's own culture have room for someone constitutionally unable to perform the neutrality it demands of everyone?
+**Source:** Full Extrapolation Sections III, V; Community Infrastructure & Social Life — The Detachment Academy.
+
+### 5. Said in Trust, Heard by Everyone
+**Starting point:** a Private Opinion Night, where trusted Hub-born residents voice genuine hidden opinions about the districts they serve.
+**Chain:** a Hidden Opinion Holder's private opinion — shared specifically because the room was supposed to be safe — leaks beyond it, threatening their public neutral standing at the exact moment they're on the verge of becoming an open Hub Tribalist (Notable Figure, Section V).
+**Fork:** help contain the leak and protect their professional standing; help them own the opinion publicly instead, accelerating their own shift toward tribalism rather than hiding from it; or trace the leak, discovering whether it was carelessness or a deliberate betrayal from inside the circle of trust.
+**Consequence-test:** does professional neutrality survive contact with the exact private opinions it's built to suppress, once those opinions escape the room meant to contain them?
+**Source:** Full Extrapolation Section V; `District_Unity_of_Opposites.md`; Community Infrastructure & Social Life — Private Opinion Nights.
+
+### 6. What the Wall Was Patched Over
+**Starting point:** a Patch-Spotting Walk, an informal game identifying and dating the district's layered eras of war-damage repair.
+**Chain:** a specific patch, examined closely by a participant, doesn't match any known repair record in the Patch Archive — suggesting either an off-the-books repair, or damage from an incident nobody officially logged.
+**Fork:** formally investigate and add the finding to the Patch Archive, however inconvenient the answer; let it stay an open curiosity among the walking group, unresolved; or bring it specifically to a Virgo Documentarian, since cataloging exactly this kind of unremarked incident is their own established specialty.
+**Consequence-test:** does even the Hub's most meticulously patched infrastructure hold a record as complete as the district's own culture assumes?
+**Source:** Community Infrastructure & Social Life — Patch-Spotting Walks, The Patch Archive; cross-district with Virgo's Documentation Vaults.
+
+### 7. The Joke That Stopped Being Ironic
+**Starting point:** an Ironic Awareness Circle, where Hub-born residents jokingly explore their own dual reading (neutrality vs. statelessness).
+**Chain:** one participant stops finding it funny, arguing out loud that the group's whole "everyone's a tourist" contempt for district tribalism is a real, unrecognized tribalism of its own, causing real harm to district-born residents who overhear it.
+**Fork:** help the Circle take the critique seriously and change how it talks about itself; defend the tradition as harmless self-aware humor that's earned its irony; or bring a district-born resident into the Circle directly, letting them hear the critique's actual target respond for themselves.
+**Consequence-test:** can a district built on recognizing everyone else's blind spots ever fully recognize its own?
+**Source:** Full Extrapolation Section IV; Community Infrastructure & Social Life — The Ironic Awareness Circle.
+
+### 8. What the Facilitator Overheard
+**Starting point:** a Backroom Deal Debrief Supper, where Hub-based facilitators informally debrief the political games they've witnessed.
+**Chain:** one facilitator's debrief reveals a deal that was genuinely unfair to one district, brokered by exploiting the Hub's own neutral-territory trust — a real abuse of the exact thing that makes the Hub valuable, not just ordinary political maneuvering.
+**Fork:** help expose the deal, even though doing so means the Hub publicly taking a side against whoever brokered it; keep it inside the Supper's own informal, off-the-record culture, protecting the tradition's trust at the wronged district's expense; or find a way to quietly correct the specific unfairness without a public reckoning at all.
+**Consequence-test:** does the Hub's neutrality obligate it to stay silent even when neutrality itself was the tool someone used to do real harm?
+**Source:** Community Infrastructure & Social Life — Backroom Deal Debrief Suppers; Cross-Reference Finding 2.
+
+### 9. The Analyst From Leo
+**Starting point:** the Hub-based analyst (Questlines Thread 1) compiling the cross-district report that first noticed Leo fits no recurring structural pattern — this time, written as being from Leo originally, now Hub-arrived.
+**Chain:** their own analysis forces a personal question alongside the professional one — whether their home district's total lack of "hidden complexity" reflects genuinely on Leo, or on an analytical culture (their own adopted Hub one) that only knows how to value wounds, gaps, and dualities.
+**Fork:** help them conclude Leo genuinely has nothing buried, and defend that as a real, dignified answer rather than a lesser one; help them keep digging into their own home district, risking a discovery that would change how they see where they came from; or help them turn the finding into something advocacy-shaped, using their credible Hub position to argue for Leo directly.
+**Consequence-test:** can someone who left Leo for the Hub's own detached, analytical culture still do right by the place they came from, or does detachment always cost something on the way out?
+**Source:** Cross-Reference Finding 1; Questlines Thread 1; Full Extrapolation Section IV.
+
+### 10. The Drill That Wasn't a Drill
+**Starting point:** a crisis-command and multi-district resource triage training exercise, echoing the Hub's own Long Night War command-nexus role.
+**Chain:** mid-drill, a real, minor multi-district emergency actually breaks out, and the trainees — and their instructor — have to decide in real time whether to treat it as part of the exercise or break from the script.
+**Fork:** let the trainees handle it live, trusting the training to hold under real stakes; have the instructor take over immediately, judging the drill insufficient preparation for the real thing; or use the moment afterward to argue the Hub needs more live-stakes training, not more simulated drills.
+**Consequence-test:** does a district whose founding function was crisis coordination still know how to actually do it, or has the skill quietly become theoretical?
+**Source:** Community Infrastructure & Social Life — crisis command and multi-district resource triage training; Historical Pressures — Long Night War Command Nexus.
+
+### 11. What the Reader Wasn't Supposed to Read
+**Starting point:** the "reading a room without revealing what you've read" training office.
+**Chain:** a trainee, testing their new skill during an actual backroom negotiation, reads something genuinely damaging about one side's true intentions — and now has to decide what a skill built for detachment is actually for.
+**Fork:** report what they read to the disadvantaged party, breaking the detachment the skill was built to teach; say nothing, treating the skill as observation only, never intervention; or bring the dilemma back to their instructor, testing whether the training itself has an answer for this.
+**Consequence-test:** does a skill built purely to observe have any real boundary once what's observed could prevent genuine harm?
+**Source:** Community Infrastructure & Social Life — reading a room without revealing what you've read.
+
+### 12. Fluent, But Out of Date
+**Starting point:** the multi-district cultural literacy training office.
+**Chain:** a Hub facilitator's confident fluency in a specific district's norms turns out to be subtly outdated — built on that district's culture as it was years ago, not as a recent confirmed change (the Non-Malice Audit's own resolved mechanisms, for instance) has actually left it.
+**Fork:** help the facilitator update their training and issue a correction before more damage is done; let the mistake stand this once, since owning it publicly could cost them their credibility; or discover the literacy curriculum itself hasn't been updated in years, making this an institutional failure, not a personal one.
+**Consequence-test:** can a district whose entire value depends on genuinely understanding all thirteen others actually keep that understanding current, or does it inevitably calcify the moment it's taught as a fixed curriculum?
+**Source:** Community Infrastructure & Social Life — multi-district cultural literacy.
+
+### 13. Watched Long Enough to Notice
+**Starting point:** the Grand Transit Exchange People-Watching Hours, a well-known time when residents gather to watch the city's social ecosystem pass through.
+**Chain:** a regular watcher notices the same person passing through on a suspiciously specific schedule, doing something that doesn't add up — not overtly illegal, but clearly not what they claim to be doing.
+**Fork:** quietly investigate further before deciding anything; report the pattern to Hub administrators, treating it as exactly the kind of observation the tradition exists for; or approach the person directly, giving them a chance to explain themselves first.
+**Consequence-test:** does a beloved, casual social tradition built on watching the city pass through have any real answer for what to do when the watching actually finds something?
+**Source:** Community Infrastructure & Social Life — Grand Transit Exchange People-Watching Hours.
+
+### 14. Two Vigils, Never Spoken
+**Starting point:** a Bridge Memorial Silent Vigil.
+**Chain:** a vigil regular whose district reads the Memorial as tragedy (Leo) keeps encountering, week after week, a regular from a district that reads it as cowardice (Aries) — never speaking, both aware the other's presence means an incompatible interpretation, in a tradition built specifically around not organizing or explaining anything.
+**Fork:** help the two finally speak, risking the vigil's own unspoken peace; help preserve the silence, since the tradition's whole value is not requiring anyone to reconcile; or discover, once they do speak, that their private griefs have more in common than their districts' official readings do.
+**Consequence-test:** can neutral ground hold two people who show up for the same ritual meaning opposite things by it, indefinitely, without either one flinching first?
+**Source:** Community Infrastructure & Social Life — Bridge Memorial Silent Vigils; Full Extrapolation Section I.
+
+### 15. The Mentor Who Wants to Belong
+**Starting point:** Sayowa-Style Crossroads Mentorship, where the senior Sayowa-descended council facilitator (Notable Figure) mentors newer overflow arrivals in embracing rootlessness.
+**Chain:** one mentee, unlike every prior success story, doesn't want to embrace rootlessness at all — they want, more than anything, to belong fully to one single district identity, and the mentor's whole practiced wisdom has no answer for that.
+**Fork:** help the mentee find genuine belonging in a specific district despite their Hub-arrived status; help the mentor develop a real answer for mentees who don't want what the mentorship offers; or let the mismatch stand, with the mentee simply leaving the mentorship unresolved.
+**Consequence-test:** does a mentorship built on the crossroads' own confident philosophy have room for someone the philosophy genuinely doesn't fit?
+**Source:** Community Infrastructure & Social Life — Sayowa-Style Crossroads Mentorship; Full Extrapolation Section IV.
+
+### 16. Dressed Like Nowhere, On Purpose
+**Starting point:** the Hub's own visual marker — mismatched, multi-district dress signaling belonging to no single place (Full Extrapolation Section II).
+**Chain:** someone deliberately assembles the look to pass as genuinely Hub-born, for personal advantage in a negotiation where neutral standing carries real weight — and a true Hub-born resident, fluent in the subtle tells, spots the fake.
+**Fork:** expose the impersonation, protecting the integrity of what Hub-born identity is supposed to mean; quietly let it go, since the impersonator's goals turn out to be sympathetic; or use the discovery as leverage in the very negotiation the disguise was meant to influence.
+**Consequence-test:** if Hub-born identity is defined entirely by an absence — belonging to no single place — can it even be faked, or is the fake itself proof the identity was never about the clothes at all?
+**Source:** Full Extrapolation Section II.
