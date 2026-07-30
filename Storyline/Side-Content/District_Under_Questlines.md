@@ -1041,3 +1041,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** help broker a fair trade for the information; help the person in need find another way to get it without paying the asking price; or discover the seller doesn't actually understand the information's real value, raising an ethical question about whether to correct them.
 **Consequence-test:** does pricing information like a commodity survive contact with information that's actually, personally, urgently important to someone?
 **Source:** `District_Canon_Reference.md`, Community Infrastructure — Truth Market Haggling Hours.
+
+---
+
+## Pisces
+
+**Civic belief (Concordia Section I):** *"a city becomes real by having room for everyone the other theories fail... a true city isn't complete until it has somewhere for the people who don't fit anywhere else to still belong."*
+
+**Status: 15 of 15–20 target. Floor reached.** Note: the existing Cross-Reference Synthesis' Finding 2 calls Pisces "the arrangement's true architect for sixty years," slightly implying deliberate construction — the confirmed Tolerance Pact mechanism corrects this (never negotiated by anyone); routed around below.
+
+### 1. The Referral That Broke
+**Starting point:** a specific Flood-Traumatized or Believer character the player knows personally, turned away or deprioritized when Scorpio's own capacity crisis (Scorpio candidate 1) forces triage.
+**Chain:** Pisces' aftercare pipeline was never a dedicated channel — it's one of three simultaneous claims on Scorpio's same limited capacity, and structurally the first to fail under strain.
+**Fork:** help this person find alternative care within Pisces itself, inventing a support structure with no precedent; advocate for their case directly within Scorpio, at another person's explicit expense; or use this specific failure as concrete evidence for the larger capacity fight already available in Scorpio's own questlines.
+**Consequence-test:** room for everyone the other theories fail — but what happens when the district Pisces itself depends on for aftercare can't make room either?
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1; Throughway 3; cross-district with Scorpio candidate 1.
+
+### 2. Sixty Years, Uncredited
+**Starting point:** working with the senior Operator (Full Extrapolation Section VI), the player uncovers documentation proving the Tolerance Pact's true sixty-year age, directly contradicting the popular "the war made Pisces necessary" story.
+**Chain:** this genuinely tests the deep dive's own foundational claim — that formalizing Pisces' role would destroy the deniability that makes it valuable.
+**Fork:** help a Pisces-aligned figure use the proof to finally demand recognition from Libra, risking the Pact's own usefulness; respect the established logic and preserve the true history privately, as internal dignity rather than external validation; or use the proof as leverage in an unrelated negotiation.
+**Consequence-test:** the only path that could actually resolve, through play, whether formal recognition really would destroy Pisces — rather than just describing the tension forever.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2; Throughway 2.
+
+### 3. The Operator's Long Memory
+**Starting point:** the senior Operator with an unusually long memory (Full Extrapolation Section VI), who personally remembers when the Tolerance Pact was a quiet convenience, not the city's lifeline.
+**Chain:** the player learns firsthand, personal texture behind nBeta's own confirmed pre-war origin.
+**Fork:** help preserve their memories for posterity; respect their preference to keep it private and personal; or use their specific recollections as evidence for candidate 2's own investigation.
+**Consequence-test:** does room for everyone extend to honoring someone's long, quiet memory of how things used to be, not just their present usefulness?
+**Source:** `Pisces_Full_Extrapolation.md` Section VI.
+
+### 4. The Elder Who Never Joined
+**Starting point:** the Flood-Traumatized elder who never joined the Believers — "the district's conscience it would prefer not to have."
+**Chain:** the player encounters this person during a Flood Remembrance Dreaming, where their continued outside-the-faith presence creates real, quiet tension.
+**Fork:** help the community fully accept their presence despite the unresolved argument they represent; respect their choice to remain separate, neither joining nor leaving; or use their outside perspective to inform the Flood's own still-open mechanism investigation.
+**Consequence-test:** room for everyone the other theories fail — does that include someone who doesn't even fit Pisces' own theory?
+**Source:** `Pisces_Full_Extrapolation.md` Section VI; `Deep_Dives/10b_Pisces_Flood_Mechanism.md`.
+
+### 5. The Secret-Exchange Booth's Broken Rule
+**Starting point:** a Secret-Exchange Booth, where someone is accused of breaking the district's information economy — extracting a shared vulnerability without reciprocating, or exposing a secret outside Pisces.
+**Chain:** the player is drawn into the district's actual enforcement logic — reputational and informational before physical.
+**Fork:** help mediate and resolve the specific violation; let the district's own informal enforcement play out; or discover the accusation is false, a setup by someone else entirely.
+**Consequence-test:** does an enforcement system built on trust and reciprocity actually work once trust is deliberately, maliciously broken?
+**Source:** `Pisces_Full_Extrapolation.md` Section II; `District_Canon_Reference.md`, Community Infrastructure — Secret-Exchange Booths.
+
+### 6. The Wandering Shrine's Unexpected Stop
+**Starting point:** The Wandering Shrine relocates somewhere genuinely unexpected, and a specific Believer has to reconcile whether the placement is meaningful or coincidental.
+**Chain:** a direct test of the Syncretic Religion's own retroactive-meaning-making habit (Full Extrapolation Section III).
+**Fork:** help interpret the placement as significant; help the Believer accept it may just be random, testing their faith's tolerance for meaninglessness; or discover a genuinely practical reason for the placement the religious interpretation had obscured.
+**Consequence-test:** does a religion built on finding meaning in dissolution survive contact with something genuinely, unambiguously accidental?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Wandering Shrine; `Pisces_Full_Extrapolation.md` Section III.
+
+### 7. Origin-Blind, Until It Isn't
+**Starting point:** an Origin-Blind Boarding House or Supper, where a specific resident's origin suddenly, unavoidably becomes relevant despite the district's usual norm of never asking.
+**Chain:** the player is drawn into the moment the ethos meets a real, practical exception.
+**Fork:** help maintain the origin-blind norm despite the complication; help address the specific situation forcing origin to matter; or discover the norm already has quiet exceptions nobody talks about.
+**Consequence-test:** does room for everyone regardless of origin survive a case where origin genuinely, practically matters?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Origin-Blind Boarding Houses, Origin-Blind Suppers.
+
+### 8. Syndicate-Spiritualist Overlap, Tested
+**Starting point:** a Syndicate-Spiritualist Overlap Night, where a specific tension surfaces between someone's gray-economy dealings and their standing in the spiritual community.
+**Chain:** the player watches this person try to reconcile two roles the district officially treats as one identity.
+**Fork:** help them reconcile both roles; help them choose one identity over the other; or discover the district's own culture genuinely doesn't see this as a conflict at all.
+**Consequence-test:** does Pisces' own comfort with duality actually resolve tension, or does it just paper over a genuine conflict?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Syndicate-Spiritualist Overlap Nights.
+
+### 9. The Flood Memorial Den's Curated Fragment
+**Starting point:** a Flood Memorial Den, preserving curated, consensual memory fragments from The Flood.
+**Chain:** the player learns of a specific fragment that doesn't match the gentler "official" Flood narrative most residents know — genuinely more unsettling than the curated version usually shared.
+**Fork:** help preserve and share the harder fragment alongside the gentler ones; respect the curation as a deliberate choice to protect visitors from the Flood's harsher truths; or discover the fragment ties directly to the confirmed Mosaic mechanism — someone whose cluster never fully stabilized.
+**Consequence-test:** does the memorial's own curation quietly fail the people whose actual Flood experience was harsher than the curated version admits?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Flood Memorial Dens; `Deep_Dives/10b_Pisces_Flood_Mechanism.md`.
+
+### 10. The Salvage Yard's Patched Frame
+**Starting point:** a Patched-Frame Salvage Yard, where a specific heavily-patched robot faces a decision between further modification and accepting their current, unusual form.
+**Chain:** the player is drawn into helping them decide.
+**Fork:** help them find parts for further necessary patching; help them find peace with their current form as it is; or connect them with a Fluid-Frame Reconfiguration Clinic for a more complete overhaul.
+**Consequence-test:** room for everyone who doesn't fit — does that include a body that no longer fits any standard form at all?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Patched-Frame Salvage Yards, Fluid-Frame Reconfiguration Clinics.
+
+### 11. The Overflow Circle's Unclaimed Burden
+**Starting point:** an anonymous "overflow circle," where the player finds something clearly left needing to be claimed or handled, with no way to know who left it or why.
+**Chain:** the player has to decide what anonymity in giving and receiving actually means here.
+**Fork:** try to find and help whoever left it; simply take care of it without seeking the source; or leave it exactly as found, respecting the anonymous system's own integrity.
+**Consequence-test:** does true anonymity in giving actually serve people, or does it just make burdens invisible instead of resolved?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — anonymous "overflow circles."
+
+### 12. Wall-Shift Wayfinding, For Someone Who Won't Learn
+**Starting point:** a Wall-Shift Wayfinding Night, where a specific newcomer, despite repeated guidance, simply cannot adapt to the district's disorienting architecture — a genuine capability issue, not unwillingness.
+**Chain:** the player is drawn into figuring out what this person actually needs.
+**Fork:** help find them a stable, unchanging living situation despite district norms; help them develop a personal workaround; or discover the district has never had to accommodate someone who genuinely can't adapt.
+**Consequence-test:** room for everyone the other theories fail — does that promise hold for someone the district's own core feature itself fails?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Wall-Shift Wayfinding Nights.
+
+### 13. The Dream-Den Residency's Trusted Weaver
+**Starting point:** a Dream-Den Residency, where a trusted weaver is asked by a regular client to do something ethically questionable — altering a memory in a way that crosses a line, or weaving for someone not fully consenting.
+**Chain:** the player is drawn into the weaver's own dilemma.
+**Fork:** help the weaver refuse, risking the relationship and their reputation; help them find a more ethical way to fulfill the request; or discover the request wasn't as bad as it seemed, a misunderstanding.
+**Consequence-test:** trust built over years in an intimate, unregulated practice — what happens when it's tested by a genuinely hard case?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Dream-Den Residencies.
+
+### 14. Getting Lost, On Purpose
+**Starting point:** a specific longtime resident who deliberately uses the district's own disorientation to stay hidden from someone or something — an old life, a specific pursuer, their own past.
+**Chain:** the player, navigating the same shifting architecture, has to decide whether to help find this person or respect their choice.
+**Fork:** help whoever is looking for them; help the person stay hidden; or discover the person actually wants to be found, but doesn't know how to signal it in a district built for hiding.
+**Consequence-test:** does belonging require also protecting the right to disappear?
+**Source:** `Pisces_Full_Extrapolation.md` Section I.
+
+### 15. Categories That Blur
+**Starting point:** a specific longtime resident whose origin-category ("ex-Scorpio," "ex-Leo") has essentially dissolved into just "Pisces" — until a new arrival from that same origin district specifically seeks them out, assuming a connection the longtime resident no longer really feels.
+**Chain:** the player watches this mismatch of expectation play out.
+**Fork:** help the longtime resident reconnect with their origin identity for the newcomer's sake; help the newcomer understand identity fades here, and find belonging on Pisces' own terms instead; or let a genuine, unexpected connection form despite the longtime resident's own expectations.
+**Consequence-test:** does true belonging in Pisces require your old identity to dissolve, or can the district hold both dissolution and connection to where you came from at once?
+**Source:** `Pisces_Full_Extrapolation.md` Section V.
