@@ -113,3 +113,42 @@ Looking at all three sets together, plus the already-approved replacements for C
 **Why this would work well:** it gives Concordia's entire "why does every district secretly hold power it's never quite examined" pattern a single, real, discoverable root cause — a genuine "connect the dots" mystery/quest premise (a player or NPC piecing together that all these separate district-level oddities trace back to one document) rather than several unrelated pieces of lore that merely happen to rhyme. It would also make a natural, high-value piece of content for Libra's Treaty Archive Vaults (already established) or Janbogo's data-archaeology culture (already established) to actually surface in a quest.
 
 **Not committed to. Worth exploring specifically whether to build this connective layer, and if so, which of the candidates above would be its actual "provisions," when this whole audit gets picked back up for real decisions.**
+
+---
+
+## CONFIRMED (2026-07-29)
+
+**Not yet promoted into `District_Canon_Reference.md` or any Deep Dive/Megasheet** — the chains and clusters below are confirmed, locked decisions, not candidates under consideration. Promotion into canon is held until Leo's Star War and Cancer's Rationing of Grief are also settled, so the whole audit can be promoted in one combined pass.
+
+### Scorpio — chain, not a single pick
+
+**S1 → S5 → S4, combined into one sequential origin story rather than three competing options:**
+
+1. **S1 (Uncatalogued Overflow)** supplies the origin — founding-era chaos overwhelms Libra's own triage capacity, and overflow testimony needs somewhere to go.
+2. **S5 (Volunteer Custodian Who Passed)** supplies the human mechanism — a dual-appointed archivist, trusted by both institutions, personally takes informal custody of that overflow. This is the "how," and gives the arrangement a face and a death.
+3. **S4 (Redundant Preservation System)** supplies the permanent institutionalization — after the custodian dies, Libra converts what had been an accident into official redundant-preservation doctrine, treating the second copy as deliberate resilience rather than revisiting whether the content itself should be reclassified now that it's "policy" instead of "leftover."
+
+Net effect: a single origin → custodian → doctrine arc spanning the founding era to the present. S2, S3, and S6 are not used.
+
+### Libra — four survive, not yet narrowed to one
+
+**L1 (Mediation Archive), L3 (Threat-Assessment Residue), L4 (Insurance Policy Nobody Remembers Buying), L5 (Distributed Diplomatic Correspondence)** all remain live candidates. Not mutually exclusive — read naturally as different tributaries feeding the same accumulated pile (routine mediation records, wartime vetting, the Suspended Compact clause, unpurged correspondence) rather than four competing explanations for one thing. Could stay as four coexisting layers, or get narrowed to one clean origin later. L2 and L6 are not used.
+
+### Aries — #2 and #3 paired, #4 as a findable object
+
+**A2 (Structural Fragility, Not the Intent) and A3 (The Insurance-Rate Analogy) combined as cause and visible symptom, not rivals:**
+
+- **A2** is the underlying physical truth: the grid really is fragile, no one's fault, nothing anyone has to say aloud.
+- **A3** is the institutional mechanism that makes that fragility legible to the rest of the city: a real, standing "stability review" safety protocol that happens to visibly look like reduced power exactly when a political dispute is happening. A3 only needs to exist because A2 is true.
+
+**A4 (The Retired Engineer's Memoir)** is additionally confirmed as a findable in-world object — a book the player can discover, revealing that decades ago insiders seriously discussed a deliberate power reduction during one specific dispute and chose not to act on it. Doesn't contradict A2/A3; adds a discoverable wrinkle (a real temptation, resisted) rather than a real capability. A1, A5, A6, A7, A8 are not used.
+
+### The Continuity and Stability Act — adopted in principle, partially
+
+The Act is adopted as the unifying explanation for **some**, not all, of the above:
+
+- **Aries' A3** (the stability-review protocol) is an explicit surviving provision of the Act — "safety protocols without oversight."
+- **Libra's L4** (the Insurance Policy clause) is an explicit surviving provision of the Act — already written as sitting inside the Suspended Compact's emergency-powers framework, which the Act predates or runs alongside.
+- **Scorpio's S1→S5→S4 chain** connects more loosely: Libra's founding-era latitude to manage archival overflow "however necessary" — record-keeping without limit — is the kind of authority that let the informal custodial arrangement happen without anyone needing separate approval for it.
+
+**Deliberately not forced into the Act:** Aries' A2 (pure physics, no legal grant involved) and Libra's L1/L3/L5 (organic accumulation, not tied to one legal instrument). The Act explains only part of the citywide pattern by design — a document that explains literally everything stops feeling like a found object in the world and starts feeling like the designer's hand. This keeps "someone eventually connects Aries' and Libra's provisions back to one Act" a genuinely solvable in-world mystery rather than an over-reaching retcon.

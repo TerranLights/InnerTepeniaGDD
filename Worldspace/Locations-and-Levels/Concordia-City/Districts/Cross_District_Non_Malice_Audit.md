@@ -2,7 +2,7 @@
 
 **Purpose:** applies the filter established for Capricorn's core injustice (see `Deep_Dives/06b_Capricorn_Alternative_Conditions.md`) to every other district's `District_Canon_Reference.md` entry. **The rule, in the developer's own words:** Tepenia — robots and humans building a life together in a harsh, unforgiving environment — has no real room for a district's defining historical tensions to come from *active* malice, jealousy, or deliberate exploitation. The only pattern that fits this world's characteristic tone is non-malicious structural inertia: an originally reasonable, even necessary decision made under crisis-era survival pressure, simply never revisited once circumstances improved — with nobody presently benefiting from or defending the unfairness once it's pointed out.
 
-**Status, updated 2026-07-20: 4 of 9 items resolved, 2 flagged high-priority (unresolved), 1 has candidate alternatives ready for review, 2 deferred and bundled with the high-priority pair.**
+**Status, updated 2026-07-29: all 9 of 9 items resolved and promoted.** The combined promotion pass is complete: all five reworked entries (Aries, Libra, Scorpio, Leo, Cancer) are now written directly into `District_Canon_Reference.md`'s Historical Pressures, replacing the old active-malice text. Consistency edits were also made to `Deep_Dives/08_Libra_Deep_Dive.md`, `Deep_Dives/12_Virgo_Deep_Dive.md`, and `Deep_Dives/03_Leo_Deep_Dive.md`, which each asserted the old mechanisms as fact. The dedicated candidate files (`Cross_District_Power_Leverage_Alternatives.md`, `Deep_Dives/03b_Leo_Star_War_Alternatives.md`, `Deep_Dives/01b_Cancer_Rationing_of_Grief_Alternatives.md`) remain in place as the full reasoning/rejected-options record behind each promoted entry.
 
 ---
 
@@ -20,26 +20,20 @@ A one-time, reactive, justified response to being systematically overlooked desp
 ### Taurus — "The Stockpiling Culture's Dark Side" — reworked
 Was: households hoarding out of self-interest. Now: households held onto their own emergency stores out of genuine crisis-panic uncertainty (not knowing yet whether the worst was survivable), not selfishness. The tension with Cancer this explains is now framed as the lingering asymmetry of two districts' fear directed in different directions during the same crisis, not a grudge over selfishness.
 
----
+### Aries — "The Political Weapon" & Libra — "The Surveillance Files" & Scorpio — "The Forbidden Archive War" — confirmed
+**Locations:** `District_Canon_Reference.md`, Districts 5 (Aries), 8 (Libra), and 4 (Scorpio), Historical Pressures. **Promoted 2026-07-29.** Full reasoning held in `Cross_District_Power_Leverage_Alternatives.md`'s "Decisions So Far" section.
+**Scorpio:** a chain, not a single pick — Uncatalogued Overflow (founding-era triage capacity crisis) → Volunteer Custodian Who Passed (a dual-appointed archivist informally holds the overflow, dies, no successor protocol) → Redundant Preservation System (Libra retroactively formalizes the surviving copy as deliberate resilience doctrine).
+**Libra:** four tributaries left coexisting rather than narrowed to one — the Mediation Archive, the Threat-Assessment Residue, the Insurance Policy Nobody Remembers Buying, and the Distributed Diplomatic Correspondence.
+**Aries:** Structural Fragility (real, no one's fault) paired with the Insurance-Rate Analogy (a real safety protocol that's visibly misread as a threat) as cause and symptom; the Retired Engineer's Memoir confirmed as a findable in-world lore object.
+**The Continuity and Stability Act** is adopted in principle, partially: Aries' stability-review protocol and Libra's Insurance Policy clause are explicit surviving provisions of the Act; Scorpio's chain connects more loosely through Libra's own Act-granted archival latitude; Aries' underlying grid fragility and Libra's other three tributaries are deliberately left outside the Act, as ordinary unrelated inertia that merely rhymes with it.
 
-## HIGH PRIORITY — candidates ready for review (Scorpio still deferred/bundled, Cancer still fully open)
+### Leo — "The Star War" — confirmed
+**Location:** `District_Canon_Reference.md`, District 3 — Leo, Historical Pressures. **Promoted 2026-07-29.** Full reasoning held in `Deep_Dives/03b_Leo_Star_War_Alternatives.md`'s "CONFIRMED — Combined Version" section.
+All three original candidates used together as one sequential history rather than a single pick: the Twin Founding (a founding-era construction-order accident creates two dome clusters, each organically developing its own aesthetic from its own physical space, one ending up geographically closer to Aries' power routing) seeds the divide; the Allocation Formula (a founding-era resource formula mechanically favoring the higher-wattage cluster, never recalibrated) spends 250 years widening it; the Untimely Loss (the grand tradition's reigning master, in an unbroken 250-year line, killed in 2812 while visiting a friend in Zukelli during the Long Night War's destruction of that city) determines who specifically holds the seat today — a recent, non-hereditary successor rather than an ancient dynasty, giving the already-established but previously faceless post-war "culture is infrastructure" lobbying campaign a real, motivated leader.
 
-### Aries — "The Political Weapon" & Libra — "The Surveillance Files" & Scorpio — "The Forbidden Archive War"
-**Locations:** `District_Canon_Reference.md`, Districts 5 (Aries), 8 (Libra), and 4 (Scorpio), Historical Pressures.
-**Full detail moved 2026-07-20 to its own dedicated file:** `Cross_District_Power_Leverage_Alternatives.md` — 6 full candidates for Scorpio, 6 for Libra, and 8 for Aries (20 total), each with complete descriptions and trade-offs, following the same process as the Capricorn and Leo alternative files. **None chosen yet.** That file also proposes a genuine cross-district unifying idea worth serious consideration: a single founding-era "Continuity and Stability Act" that several districts' quiet-power mechanisms (Aries, Libra, Scorpio, and potentially Capricorn's and Leo's own already-approved replacements) could all trace back to as different surviving provisions of the same emergency legislation, rather than being unrelated coincidences that merely rhyme.
-
-### Cancer — "The Rationing of Grief" (still fully open, not yet bundled with a file)
-**Location:** `District_Canon_Reference.md`, District 1 — Cancer, Historical Pressures.
-**The problem:** Libra's punitive power-allocation cut against Cancer for refusing an emergency "productive grief timelines" directive. Same underlying "Libra actively retaliates against another district" pattern as Scorpio's item above — worth folding into the same brainstorming pass whenever `Cross_District_Power_Leverage_Alternatives.md` is picked back up, even though it doesn't have its own candidate list there yet.
-
----
-
-## Candidate alternatives ready for review
-
-### Leo — "The Star War"
-**Location:** `District_Canon_Reference.md`, District 3 — Leo, Historical Pressures.
-**The problem:** An explicit ~15-year power struggle between two rival performance houses for political and cultural dominance. Already separately flagged elsewhere in the project as genuinely uncertain — same category the old Merit Board Audit was in.
-**Full detail moved 2026-07-20 to its own dedicated file:** `Deep_Dives/03b_Leo_Star_War_Alternatives.md` — three full candidates (The Allocation Formula, recommended; The Untimely Loss; The Twin Founding), each with complete descriptions and trade-offs, following the same pattern `06b_Capricorn_Alternative_Conditions.md` established. **All three are confirmed liked, none chosen — a combination of elements is explicitly worth exploring rather than picking just one**, with specific combination directions (1+3, 2+1) already sketched in that file. Revisit when ready.
+### Cancer — "The Rationing of Grief" — confirmed
+**Location:** `District_Canon_Reference.md`, District 1 — Cancer, Historical Pressures. **Promoted 2026-07-29.** Full reasoning held in `Deep_Dives/01b_Cancer_Rationing_of_Grief_Alternatives.md`.
+The actual 2818 event uses the Automatic Compliance Formula (Libra's directive wired into a resource formula with no manual override) combined with the Compassionate Objector Misfiled as Defiant (Cancer files a legitimate exemption and keeps caring for its grieving community in good faith while waiting; the formula flags it noncompliant and cuts its allocation before the exemption is ever reviewed) — strengthening rather than softening Cancer's "defining moral moment," and giving Libra a specific, honest thing to acknowledge at the Act 3 summit. Two other candidates (the Overextended Crisis Manager, the Data Lag) are repurposed as separate, earlier, unconnected precedent incidents spread across the Second Interwar Period, establishing well before the war that Libra's crisis machinery has a known, recurring failure pattern — so Cancer's case reads as the worst expression of an already-familiar flaw, not a shocking one-off. The compliance formula is a strong fit as another surviving provision of the Continuity and Stability Act.
 
 ---
 
