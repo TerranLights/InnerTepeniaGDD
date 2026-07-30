@@ -589,3 +589,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** help them relearn to distinguish the two registers; accept that some people are simply wired for constant urgency and that's their own valid way of being useful; or connect them with the Safety Engineer (candidate 3) as a case study in the culture's real cost.
 **Consequence-test:** the district's own established two operating registers — what happens when someone loses the ability to toggle between them at all?
 **Source:** `Aries_Full_Extrapolation.md` Section I.
+
+---
+
+## Capricorn
+
+**Civic belief (Concordia Section I):** *"a city becomes real through visible, measurable achievement... a true city's people can point to something they built with their own hands and say, plainly, that they made it."*
+
+**Status: 8 of 15–20 target. In progress.** Note: unlike the last three districts, Capricorn's own Cross-Reference Synthesis, Full Extrapolation, and Throughways are already fully updated to the confirmed "The Narrow Door"/"Recalibration Underground" naming — these files were touched during the earlier robot-rights sweep.
+
+### 1. The Pattern That Isn't One Incident
+**Starting point:** having learned of The Narrow Door, the player discovers the Wartime Production Deaths cover-up shares the identical institutional reflex — disputing and reframing failure instead of repairing it.
+**Chain:** this reveals a repeatable pattern, used at least twice, decades apart, on two entirely different kinds of failure.
+**Fork:** expose the pattern as a whole, a real citywide credibility hit to Capricorn; use evidence from one case to strengthen the other's specific victims' claims; or leave each addressed separately, since connecting them risks reading as score-settling rather than reform.
+**Consequence-test:** Capricorn's belief is measurable achievement — can the district measure and admit its own repeated failure pattern, or does the belief structure require never counting that?
+**Source:** `Final_Megasheet_Data_Processing/Throughways/in-district_throughways/06_Capricorn.md`, Throughway 2.
+
+### 2. The Well-Protected Secret Elsewhere
+**Starting point:** investigating whether a third district shares Capricorn's and Aries' pattern of using leverage to avoid accountability turns up a genuine lead toward a suspiciously well-protected secret elsewhere in the city.
+**Chain:** as established — a real, open-ended cross-district investigation.
+**Fork:** pursue the lead, genuinely expanding the pattern beyond two districts; set it aside and build a reform coalition from the two already-confirmed cases; or abandon the broader question and focus narrowly on winning concrete justice for Capricorn's own Narrow Door victims.
+**Consequence-test:** does achievement require exposing every hidden failure, or is targeted, specific justice enough?
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1.
+
+### 3. Both Halves of the Truth
+**Starting point:** a senior Merit Establishment figure who sincerely believes Capricorn's status is entirely earned.
+**Chain:** the player confronts them with evidence connecting both halves of Capricorn's compromised position — the Sagittarius extraction and the Libra leverage — that this figure has never had to reconcile at once.
+**Fork:** present the evidence to Sagittarius, validating a decades-old grievance at real economic cost to Capricorn; present it to the Recalibration Underground, giving their reform movement concrete ammunition; or use it privately for specific, narrow concessions.
+**Consequence-test:** forces Capricorn's own dominant self-image to confront both compromised positions simultaneously, not just one in isolation.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2.
+
+### 4. The Undervalued Workers' Quiet Archive
+**Starting point:** the Archive itself — an already-established hidden, semi-tolerated space collecting Recalibration Underground testimony.
+**Chain:** the player discovers a specific piece of testimony that could genuinely help one person's own Narrow Door case.
+**Fork:** bring it to light for that specific case; add it to the Archive's own collection without acting, since collective testimony may matter more than any one case; or use it for a different, personal purpose entirely.
+**Consequence-test:** does merely collecting truth count as achievement, or does achievement require actually doing something with it?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Undervalued Workers' Quiet Archive.
+
+### 5. The Floor They'll Never Climb
+**Starting point:** the Floor-Climb Registries — offices formally tracking a worker's literal advancement through spire floors.
+**Chain:** the player finds a specific worker whose advancement has been officially logged as "pending" for an implausibly long time — the Narrow Door's patronage-and-ceiling mechanism playing out on one real person, in the registry's own paperwork.
+**Fork:** help push their case through; help them understand and accept the system's real limits; or use the registry record as smoking-gun evidence for a wider case (candidates 1–3).
+**Consequence-test:** visible, measurable achievement is the belief — but the registry itself proves some people's achievement gets measured and then simply never acted on.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Floor-Climb Registries.
+
+### 6. The Legacy Unit's Last Story
+**Starting point:** a Legacy Unit Storytelling Night, honoring a specific old wartime-modified robot nearing full retirement.
+**Chain:** the story that surfaces complicates Capricorn's own self-image — years of exceptional, measurable service, passed over for advancement anyway.
+**Fork:** use the story publicly as evidence for reform; let it remain a private, warm tribute with no political use; or help secure a better outcome for this specific unit before retirement.
+**Consequence-test:** measurable achievement should be provable — a legacy unit's whole service record is about as measurable as it gets, and it still wasn't enough.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Legacy Unit Repair Bays, Legacy Unit Storytelling Nights.
+
+### 7. Quiet Solidarity, Tested
+**Starting point:** the Quiet Solidarity Signals — subtle, coded gestures sympathetic workers use to support robot coworkers.
+**Chain:** a moment arises where using the signal would require real personal risk — openly siding with a robot coworker against an unfair Merit Establishment decision, not just a quiet gesture.
+**Fork:** escalate to open support at real personal risk; keep it quiet, protecting the signal's own long-term usefulness; or find a creative way to help without fully breaking cover.
+**Consequence-test:** does a culture that only permits quiet solidarity actually change anything, or does it just make injustice more bearable without altering it?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Quiet Solidarity Signals.
+
+### 8. New Arrival, Floor Zero
+**Starting point:** a New Arrival Floor-Zero Supper, where a new apprentice reveals genuine disillusionment at learning how the patronage system actually works, having believed the meritocracy myth completely.
+**Chain:** the player is present as this specific person's illusions meet reality for the first time.
+**Fork:** help them find a real patron despite the odds; help them understand and realistically navigate the system; or help them become an early, quiet recruit for the Recalibration Underground.
+**Consequence-test:** visible, measurable achievement is the promise made to every new arrival — this is the moment one specific person learns firsthand whether that promise is actually true.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — New Arrival Floor-Zero Suppers.
+
+### 9. Production Death Memorial Corrections
+**Starting point:** the grassroots practice itself — an unofficial, quiet correction acknowledging many wartime production deaths were preventable.
+**Chain:** the player encounters someone maintaining one of these corrections and learns it ties directly to the same institutional pattern as The Narrow Door — disputing failure rather than repairing it, applied here to the wartime deaths specifically.
+**Fork:** help expand or formalize the grassroots correction practice; keep it exactly as quiet and unofficial as it's always been; or connect it explicitly to the Narrow Door pattern, giving Capricorn's leadership a harder case to dispute.
+**Consequence-test:** does honoring the dead accurately count as an achievement Capricorn is willing to measure, or does it undermine the story the district prefers to tell about itself?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Production Death Memorial Corrections; Throughway 2.
+
+### 10. The Guild That Wouldn't Witness
+**Starting point:** the Guild Binding Witness Circuit — a cross-guild network built around members serving as honored witnesses at each other's binding ceremonies.
+**Chain:** a specific guild refuses to send a witness to another guild's ceremony, a real breach of tradition, for reasons tracing back to old patronage politics.
+**Fork:** mediate the breach directly; let the two guilds work it out without intervention, respecting Capricorn's own social codes; or use the incident as further evidence of how deep the patronage divide runs socially, not just economically.
+**Consequence-test:** a tradition built on witnessing each other's achievement — does it survive contact with the same patronage lines The Narrow Door already proved exist?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Guild Binding Witness Circuit.
+
+### 11. Boarding House Politics
+**Starting point:** an Apprentice Boarding House — dedicated housing for meritocratic apprentices who haven't yet earned spire-floor status.
+**Chain:** the player discovers the boarding house has its own informal internal hierarchy, mirroring the district-wide patronage system in miniature — better rooms and treatment based on whose patron is sponsoring whom.
+**Fork:** help level the internal hierarchy; accept it as a realistic microcosm apprentices need to learn to navigate anyway; or help one specific disadvantaged apprentice directly.
+**Consequence-test:** even before anyone's official floor-climb begins, the same patronage logic is already sorting people — does the belief in measurable achievement hold at the very first rung, or does patronage start before merit gets a chance?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Apprentice Boarding Houses.
+
+### 12. Departure, Mediated
+**Starting point:** a Guild Departure Mediation Office — a real institution helping process the social complexity of leaving a guild.
+**Chain:** the player meets someone trying to leave a guild specifically because they've realized their whole career there was shaped by patronage rather than genuine fit or talent.
+**Fork:** help them leave cleanly, at real social cost given how binding guild membership culturally is; help them reconcile with staying and make peace with an imperfect system; or help them use their departure as a public statement against the patronage system.
+**Consequence-test:** can someone whose whole "achievement" was patronage-assisted ever cleanly start over and earn something for real, inside the same system that shaped them?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Guild Departure Mediation Offices.
+
+### 13. The Proof-of-Work Exhibition, Contested
+**Starting point:** a weekly public "proof-of-work" exhibition, where anyone can demonstrate a finished piece.
+**Chain:** a genuinely excellent piece from one worker is overlooked in favor of a mediocre but well-connected patron's favorite — the Narrow Door's whole pattern happening publicly, in front of a crowd.
+**Fork:** call out the discrepancy on the spot; quietly help the overlooked worker get recognition through other channels; or bring the moment forward as evidence for a wider investigation (candidates 1–3).
+**Consequence-test:** "point to something you built and say plainly that you made it" is the literal ritual built for exactly that — and it still doesn't work fairly.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — weekly public "proof-of-work" exhibitions.
+
+### 14. What the Status Lights Actually Say
+**Starting point:** the player, still learning to read Capricorn's status-lighting code, notices a specific building whose lighting doesn't match its residents' actual achievements.
+**Chain:** investigating the mismatch reveals another concrete instance of the patronage-and-ceiling mechanism, visible in literal light output.
+**Fork:** bring the specific, physical discrepancy to someone's attention; simply learn to read the code without acting on what it reveals; or use the skill to help one specific person understand their own standing.
+**Consequence-test:** the belief is about visible achievement — but the visible signal itself turns out to be at least partly miscalibrated, same as everything else in Capricorn.
+**Source:** `Capricorn_Full_Extrapolation.md` Section I.
+
+### 15. Driven, Together
+**Starting point:** a specific worker who's begun to question whether their own ambition is truly theirs, or just internalized systemic pressure, after learning the Recalibration Underground exists.
+**Chain:** a genuine conversation with the player about where their drive actually comes from.
+**Fork:** help them separate personal ambition from systemic pressure, a genuinely difficult act of self-examination; help them accept the fusion of the two as simply how Capricorn works; or connect them with the Recalibration Underground to explore the question further.
+**Consequence-test:** can someone in Capricorn actually tell the difference between "I want this" and "I've been made to want this" — and does the belief in achievement require that distinction to even be answerable?
+**Source:** `Capricorn_Full_Extrapolation.md` Section II.
