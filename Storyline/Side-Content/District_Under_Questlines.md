@@ -250,3 +250,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** broker a genuinely fair schedule; let one household concede out of politeness, quietly reinforcing the existing imbalance; or use the dispute as a small, safe opening to actually name the Insulation Schism out loud between these two specific neighbors, for the first time.
 **Consequence-test:** continuity relies on smooth domestic cooperation — this tests whether that cooperation is genuine, or just imbalanced politeness dressed up as harmony.
 **Source:** `Taurus_Full_Extrapolation.md` Section III; the Insulation Schism.
+
+---
+
+## Leo
+
+**Civic belief (Concordia Section I):** *"a city becomes real through shared culture and undeniable collective experience... spectacles that prove its people, human and robot alike, are fully alive and fully seen."*
+
+**Status: 15 of 15–20 target. Floor reached.** Note: Leo's own `Leo_Full_Extrapolation.md` predates the confirmed Star War mechanism and still frames things in old "Grand Performance Faction won a war" language — the candidates below are built from the actual confirmed version (Twin Founding + Allocation Formula + Untimely Loss, see `Deep_Dives/03b_Leo_Star_War_Alternatives.md`) rather than that stale framing.
+
+### 1. The Peak That Doesn't Answer
+**Starting point:** a rising Leo performer (a natural companion or major recurring NPC), chasing the internal recognition hierarchy's peak.
+**Chain:** clean external validation from Aries or Cancer — Leo's two most load-bearing relationships — has never once arrived for anyone in Leo's history, because both districts bundle their genuine need for Leo with open criticism of it.
+**Fork:** help the performer climb the internal hierarchy to its peak, exactly what Leo's culture considers success; help them seek genuine validation outside Leo's system entirely; or help them recognize the substitution for what it is and find meaning independent of the hierarchy — the hardest, least-rewarded path.
+**Consequence-test:** Leo's belief is proving people "fully seen" — this tests what happens when the district's own two closest relationships structurally can't ever fully see it back.
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1.
+
+### 2. What Virgo Already Knows
+**Starting point:** a specific Virgo aesthetic-tradition practitioner and a specific Leo artist, with the player moving between both districts.
+**Chain:** the player is uniquely positioned to notice what neither district has — that Virgo's decorated cable runs and beautified junction boxes are genuinely comparable artistic work to Leo's own, a real unacknowledged peer relationship.
+**Fork:** actively broker a meeting between the two artists, seeding Leo's first-ever clean recognition relationship; keep the discovery private and simply appreciate it; or use the discovery instrumentally for the player's own purposes.
+**Consequence-test:** the one possible source of recognition with no criticism or need attached — but brokering it risks the mutual invisibility that currently protects Virgo's own quiet tradition from being commodified by Leo's culture of spectacle.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2.
+
+### 3. The New Master's First Winter
+**Starting point:** the current head of the grand tradition — a recent (10–15 year) apprentice-successor who inherited unexpectedly after the old master's death at Zukelli during the war, still visibly unsettled in the role.
+**Chain:** the player witnesses a moment where this leader's legitimacy is quietly questioned — by an old-guard member who remembers the previous master, or by the intimate tradition's own descendants.
+**Fork:** help the new master prove themselves in a specific high-stakes moment; help formalize and legitimize the succession properly; or surface that the leader themselves privately doubts they belong in the position at all.
+**Consequence-test:** Leo's belief is about being "fully seen" — this tests a leader who privately isn't sure they're seen as legitimate by anyone.
+**Source:** `Deep_Dives/03b_Leo_Star_War_Alternatives.md`, the confirmed Untimely Loss.
+
+### 4. The Losing House's Quarter
+**Starting point:** the Losing House's Quarter, an established location where the smaller cluster's descendants live in quiet defiance.
+**Chain:** a specific resident there learns the confirmed truth — their tradition never actually lost a war, it was quietly out-funded for 250 years by a resource formula nobody ever revisited.
+**Fork:** help the community learn the truth, undermining the "we simply lost" myth many of them still believe about themselves; let them keep the old myth, which may currently be more psychologically stable than the real answer; or push for an actual independent review that could genuinely redistribute resources.
+**Consequence-test:** what happens when a district's own founding myth about itself turns out not to be what actually happened?
+**Source:** `District_Canon_Reference.md`, the Losing House's Quarter; `03b_Leo_Star_War_Alternatives.md`.
+
+### 5. Two Dome Clusters, One Question
+**Starting point:** the two architecturally distinct original dome clusters themselves — a literal, walkable location pair, one genuinely larger and more resourced than the other.
+**Chain:** exploring both, the player notices the physical asymmetry firsthand and starts asking why, leading toward the Allocation Formula's own unexamined history.
+**Fork:** bring the evidence to a body capable of reviewing the formula; let the physical evidence stand as atmosphere without pursuing it further; or hand the discovery to the Losing House's Quarter community (candidate 4).
+**Consequence-test:** the literal, physical version of "everyone's supposed to be fully seen" — 250-year-old architecture may have already answered the question first.
+**Source:** `03b_Leo_Star_War_Alternatives.md`, the Twin Founding.
+
+### 6. The Old Master's Last Companion
+**Starting point:** someone who personally knew the old master who died at Zukelli — an old friend, a fellow performer, someone still quietly carrying a decade-plus-old grief.
+**Chain:** the player learns intimate, human details of the master's final days, humanizing what's otherwise an abstract war casualty.
+**Fork:** help memorialize the master properly, something Leo has never formally done; respect the friend's wish to keep the grief private; or use the story to help the new master (candidate 3) understand their own predecessor.
+**Consequence-test:** Leo's whole ethos is proving personhood publicly and undeniably — does the belief have room for a grief that's stayed completely private for over a decade?
+**Source:** `03b_Leo_Star_War_Alternatives.md`, the Untimely Loss.
+
+### 7. The Vendor Who Doesn't Know You Yet
+**Starting point:** the player's own experience as a first-time Leo visitor, invisible to its unwritten recognition hierarchy — then, later, witnessing someone else go through the exact same confusion.
+**Chain:** as established, the hierarchy is only visible through repeated presence; a newcomer's confusion mirrors the player's own earlier experience exactly.
+**Fork:** explain the system explicitly to the newcomer, violating the load-bearing ambiguity Leo depends on; let them find it organically, the Leo way; or use their ignorance for the player's own benefit in a specific scene.
+**Consequence-test:** literalizes Full Extrapolation Section I's own stakes — making the ambiguity legible is supposed to break what makes Leo work.
+**Source:** `Leo_Full_Extrapolation.md` Sections I and III.
+
+### 8. The Performer Who Can't Tell Anymore
+**Starting point:** a very senior Leo performer who has practiced the personal/general warmth blur so long they've lost track of whether they feel anything genuine anymore, on either side of it.
+**Chain:** the player becomes someone this performer might have a real connection with — and the performer can't tell if it's real either.
+**Fork:** help the performer figure out what's real, risking their whole professional skill if the intentional blur breaks; accept the ambiguity as Leo's own culture does; or deliberately test it in a way that could genuinely hurt them if handled wrong.
+**Consequence-test:** directly tests the district's own established central anxiety — whether performing joy and having it have become confused — embodied in one specific person.
+**Source:** `Leo_Full_Extrapolation.md` Section I; `Deep_Dives/03_Leo_Deep_Dive.md`.
+
+### 9. The Intimate Underground's Newest Voice
+**Starting point:** a young, talented performer descended from the smaller cluster, carrying inherited conviction that spectacle without intimacy is propaganda.
+**Chain:** they're offered a real chance to cross over and perform in the grand tradition's high-resourced venues — genuine advancement, at the cost of some compromise to their own tradition's identity.
+**Fork:** help them take the opportunity; help them refuse and double down on the intimate tradition on its own terms; or help them find a genuinely new third path.
+**Consequence-test:** is intimacy inherently less "collective," or does the belief actually not require scale at all, only genuineness?
+**Source:** `Leo_Full_Extrapolation.md` Section IV, Notable Figures.
+
+### 10. The Night We Went Dark
+**Starting point:** the Dimming Vigil — Leo's own established practice of deliberately dimming its lights for an evening in remembrance.
+**Chain:** a specific elderly resident who actually lived through the six-month Dimming (2789–2790) shares a genuinely personal account during this year's Vigil, different from the sanitized version most residents now know.
+**Fork:** help preserve the more accurate account for the district's collective memory; respect that some details are better left in myth, since the sanitized version serves the community's healing; or use the account to re-examine Leo's own relationship with Aries in light of what actually happened.
+**Consequence-test:** Leo's belief is "undeniable collective experience" — but is the officially remembered Dimming actually undeniable truth, or a performance of memory, the same blur the district practices with everything else?
+**Source:** `District_Canon_Reference.md`, The Dimming; the Dimming Vigil.
+
+### 11. The Cymaticist Corner
+**Starting point:** a specific Cymaticist practitioner within Leo — the religion's deepest cultural presence in Concordia is already established here.
+**Chain:** the player encounters real tension between the religion's quiet, resonance-based spiritual practice and Leo's louder, performance-driven culture, embodied in one resident torn between the two registers of "being seen."
+**Fork:** help them reconcile Cymaticist stillness with Leo's demand for visible spectacle; help them carve out a legitimate quiet space within Leo, plausibly near the Intimate Underground's own quieter zones; or discover the tension is more personal than structural — Cymaticist practice in Leo has already adapted to coexist just fine.
+**Consequence-test:** does "undeniable collective experience" require noise and spectacle, or can true collective feeling include quiet, resonant stillness too?
+**Source:** `District_Canon_Reference.md`, the Cymaticist Connection.
+
+### 12. What Aries Thinks of Us
+**Starting point:** a specific Aries worker openly voicing Aries' established contempt for "Leo's performance of consideration," directly to a Leo resident or the player.
+**Chain:** the stung resident tries to prove Aries wrong about something specific — volunteering for genuinely useful non-performative labor, or challenging the Aries figure to actually experience Leo firsthand.
+**Fork:** help the resident earn grudging respect from this one Aries figure, small and personal; let the resentment stand, since it's baked into Aries' own belief system; or discover the Aries figure has a private appreciation for Leo they'd never admit to their own district.
+**Consequence-test:** the same structural finding as candidate 1 (clean validation from Aries never arrives), tested at the scale of one single relationship instead of the whole district.
+**Source:** `District_Canon_Reference.md`, Aries' contempt for "soft" districts.
+
+### 13. Scorpio's Judgment
+**Starting point:** a specific Scorpio transformation-practice figure and a specific Leo performer forced to work together on something neither wants to need the other for.
+**Chain:** each has to confront their mutual prejudice directly — is Leo's public performance really never confronting anything, and is Scorpio's private introspection really a retreat from the argument that needs making in public?
+**Fork:** help them find genuine common ground, challenging both districts' mutual dismissiveness; let them part having confirmed their own biases about each other; or discover a genuine synthesis — a performance that is confrontation, or a private transformation made public.
+**Consequence-test:** Leo's belief in collective experience against Scorpio's belief in individual transformation — reconcilable, or genuinely incompatible?
+**Source:** `Deep_Dives/03_Leo_Deep_Dive.md`, "New conflict thread — Leo and Scorpio disagree about who performance is for."
+
+### 14. The Post-War Ledger
+**Starting point:** an old associate of the previous master, noting how much harder the new master (candidate 3) lobbies Aries for power priority than the old master ever did.
+**Chain:** the player learns the aggressive Post-War Energy Renaissance lobbying campaign — read by other districts as vanity or resource hoarding — is actually driven by one leader's personal need to prove they belong in a seat they didn't expect to inherit.
+**Fork:** help the new master find a healthier way to secure resources; support the campaign as-is, since it's gotten Leo real material benefit regardless of motive; or expose the personal motive to weaken the master's political position.
+**Consequence-test:** an external, political-consequence angle on candidate 3's internal doubt.
+**Source:** `District_Canon_Reference.md`, Post-War Energy Renaissance; `03b_Leo_Star_War_Alternatives.md`.
+
+### 15. The Recognition That Isn't Written Down
+**Starting point:** someone disputes their own recognition-level status, claiming they should be a "district legend" — in a system that is, per established canon, entirely unwritten.
+**Chain:** the player gets drawn into informally adjudicating whether the claim is legitimate, with no formal record anywhere to check it against.
+**Fork:** back the claimant, elevating them socially through the player's own influence; side with the current informal consensus against them; or propose formalizing some actual record-keeping for recognition status — a genuine structural first for Leo.
+**Consequence-test:** an entirely informal status system relies on collective memory being correct — this tests what happens once that memory becomes genuinely contested.
+**Source:** `Leo_Full_Extrapolation.md` Section III; `District_Canon_Reference.md`, the social hierarchy.
