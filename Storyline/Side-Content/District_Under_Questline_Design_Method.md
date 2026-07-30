@@ -139,6 +139,16 @@ method:
    candidate that treats the Act as something with one complete, findable master copy would violate its own
    confirmed requirements, and should be reworked rather than used as written.
 
+10. **The district's own "Community Infrastructure & Social Life" section**, under Development Notes in
+    `District_Canon_Reference.md` — the Additions, Small offices for educational training, and Social
+    cohesion mechanisms brainstormed 2026-07-29 for all 13 districts. **Added 2026-07-29, after running this
+    method on Scorpio turned up how rich this source actually is:** these are dozens of already-named,
+    concrete locations and recurring community practices per district (Scorpio alone has ten named
+    Additions and nine named social-cohesion practices) that were never built with Under-Questlines in mind
+    but satisfy the starting-point test almost automatically — a named place or a named recurring ritual is
+    exactly the kind of thing a player runs into through ordinary exploration. Treat every named item here
+    as a candidate anchor worth checking, not just texture to reference in passing.
+
 ---
 
 ## Step 2: Construct Candidate Chains

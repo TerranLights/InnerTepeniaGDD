@@ -363,3 +363,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** back the claimant, elevating them socially through the player's own influence; side with the current informal consensus against them; or propose formalizing some actual record-keeping for recognition status — a genuine structural first for Leo.
 **Consequence-test:** an entirely informal status system relies on collective memory being correct — this tests what happens once that memory becomes genuinely contested.
 **Source:** `Leo_Full_Extrapolation.md` Section III; `District_Canon_Reference.md`, the social hierarchy.
+
+---
+
+## Scorpio
+
+**Civic belief (Concordia Section I):** *"a city becomes real only once it stops flinching from what it actually is... a true city has confronted its own worst history directly, rather than managing it from a comfortable distance."*
+
+**Status: 15 of 15–20 target. Floor reached.** Note: Scorpio's own existing Cross-Reference Synthesis and Questlines Thread 2 predate the confirmed Forbidden Archive War rework and still describe Libra as actively demanding suppression and "a decade of bureaucratic harassment" — the candidates below are built from the actual confirmed accidental-custody chain instead (`Cross_District_Power_Leverage_Alternatives.md`).
+
+### 1. Three Doors, One Practitioner
+**Starting point:** a specific capacity crisis at a Scorpio institution where Pisces-gateway, Pisces-aftercare, and refugee-grief populations all compete for the same limited practitioner at once.
+**Chain:** an impossible real-time triage, forced by three genuinely separate demand streams sharing one set of institutions never designed to divide them.
+**Fork:** find new resources or practitioners elsewhere to expand capacity, a structural fix with its own political cost; formally separate the three functions, risking Scorpio's unified confrontation philosophy; or accept the triage as unavoidable this once and help decide, directly, who gets served first.
+**Consequence-test:** Scorpio's belief is confronting truth directly — this is confronting a genuinely unsolvable resource truth, not a villain.
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1.
+
+### 2. The Custodian Nobody Replaced
+**Starting point:** investigating the Forbidden Archive, the player finds records of the original informal custodian arrangement — the dual-appointed archivist who died, after which the overflow simply stayed where it had been left.
+**Chain:** this reframes the whole "standoff" — no active suppression campaign, just an old accident nobody ever formally resolved, on either side.
+**Fork:** formally resolve custody now, risking whichever institution "loses" the resulting shift; leave the ambiguity exactly as it's stood for 250 years; or help Libra and Scorpio actually talk to each other about it directly for the first time.
+**Consequence-test:** does Scorpio's confrontation ethos actually require an enemy, or can it face an accident just as directly as a villain?
+**Source:** `Cross_District_Power_Leverage_Alternatives.md`, the confirmed Scorpio chain.
+
+### 3. The Altered's Own Answer
+**Starting point:** the prominent member of the Altered (Full Extrapolation Section IV) — a survivor who emerged from the Identity Collapse Epidemic stable but fundamentally changed.
+**Chain:** both the Clinical and Sacred Schools want to claim this person's story as proof of their own competing philosophy of what successful transformation looks like.
+**Fork:** help the Altered figure choose a school's narrative to align with, or refuse both; let the ambiguity stand, since they may be inherently unclassifiable; or surface their own private view, which neither school would fully endorse.
+**Consequence-test:** this person embodies an outcome neither school can fully explain — tests whether the district can look directly at its own genuinely uncertain cases, not just history it's already made sense of.
+**Source:** `Scorpio_Full_Extrapolation.md` Section IV.
+
+### 4. What the Fog Doesn't Hide
+**Starting point:** the district's own graduated privacy system — fog thickening with depth as a literal signal of trust level (Full Extrapolation Section III).
+**Chain:** the player encounters a specific breach — someone who got deeper than their earned trust should allow, or someone who deserves to go deeper but hasn't been vouched for through no fault of their own.
+**Fork:** enforce the boundary strictly; help the "undeserving" person anyway, testing whether the system can bend; or help the deserving-but-unvouched person find a legitimate path in.
+**Consequence-test:** graduated, calibrated caution is itself a kind of managing-from-a-distance — does that contradict the district's belief in direct confrontation, or is earned trust confrontation done right?
+**Source:** `Scorpio_Full_Extrapolation.md` Sections I and III.
+
+### 5. The Senior Practitioner's Doubt
+**Starting point:** the senior Clinical School practitioner (Full Extrapolation Section IV), directly involved in developing techniques during the Identity Collapse Epidemic's emergency years.
+**Chain:** the player learns this widely-respected figure privately doubts whether their own emergency-developed techniques — the ones with an "uneven success rate" — were actually sound, or just the best available under impossible pressure.
+**Fork:** help them investigate their own past work, risking confirmation of their worst fear; help them make peace with having done their best under crisis; or use their doubt to open a wider institutional review.
+**Consequence-test:** can Scorpio's own most respected practitioner confront the possibility that their life's work was imperfect, the same rigor the district demands of everyone else?
+**Source:** `Scorpio_Full_Extrapolation.md` Section IV.
+
+### 6. Vouching for a Stranger
+**Starting point:** a Scorpio resident asks the player to vouch for someone new trying to gain deeper access, staking their own standing on the introduction.
+**Chain:** a direct test of whether the player actually trusts this newcomer enough to risk someone else's reputation.
+**Fork:** vouch for them and deal with the consequences if the trust is misused; refuse, protecting the system's integrity at the newcomer's expense; or find a conditional, probationary path unique to this case.
+**Consequence-test:** makes Scorpio's whole reputation-by-vouching mechanic itself the direct subject of one weighted, personal decision.
+**Source:** `Scorpio_Full_Extrapolation.md` Section I.
+
+### 7. The Grief That Won't Confront Itself
+**Starting point:** friction inside the Archive of Final Confessions between two of Scorpio's established refugee communities (e.g., Zukelli's unmediated shock vs. Palmer City's civilizational symbolism) who process the same acute grief completely differently.
+**Chain:** the player is drawn into the resulting institutional tension.
+**Fork:** mediate and reconcile the two communities' grief registers; let them stay separate, since forcing unity might not serve either; or discover the Archive's own structure inadvertently favors one grief-style over another.
+**Consequence-test:** whose version of "worst history" takes precedence when multiple traumatized communities share the same institution?
+**Source:** `District_Canon_Reference.md`, the four-city refugee convergence.
+
+### 8. The School That Won by Default
+**Starting point:** the player notices, or is told, that one of the Clinical or Sacred Schools has quietly become dominant in practice, despite both being nominally co-equal.
+**Chain:** investigating how and when that balance actually tipped, with nobody having noticed at the time.
+**Fork:** help restore balance between the two schools; accept the dominance as legitimate natural evolution; or use the imbalance for a specific personal or political purpose.
+**Consequence-test:** does Scorpio's belief in confronting truth directly apply to confronting an imbalance inside its own core philosophy, with the same rigor it demands of external truths?
+**Source:** `Scorpio_Full_Extrapolation.md`, the Clinical/Sacred School structure.
+
+### 9. The Threshold Registry's Blind Spot
+**Starting point:** The Threshold Registry — the informal, deliberately unofficial record of who's currently in which mask-phase, kept by trusted elders.
+**Chain:** the player discovers a discrepancy — someone's registered phase doesn't match their actual, current mask, either through deception or the registry simply falling out of date.
+**Fork:** correct the registry, forcing a possibly unwanted public update to someone's status; let the discrepancy stand, respecting private reasons the player doesn't know; or investigate why the mismatch happened before acting at all.
+**Consequence-test:** an informal, trust-based record system built entirely on honesty — what happens when someone's mask lies?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Threshold Registry.
+
+### 10. The Failure Quarter's Newest Resident
+**Starting point:** The Failure Quarter — the unofficial neighborhood where those altered by the Identity Collapse Epidemic cluster together.
+**Chain:** a newly altered person arrives, overwhelmed, uncertain whether accepting a place there means giving up on ever being "un-altered."
+**Fork:** help them integrate into the Quarter's community; help them pursue further treatment instead, which may not be realistic; or discover the Quarter's own residents genuinely disagree among themselves about which path is right for newcomers.
+**Consequence-test:** does confronting truth directly extend to helping someone confront that their transformation may be permanent, not a phase?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Failure Quarter.
+
+### 11. The Weighing, For Someone Who Won't Speak
+**Starting point:** The Weighing — before a dangerous transformation attempt, the person sits with a trusted group to voice what they're risking.
+**Chain:** someone about to attempt a genuinely dangerous transformation goes through the ritual's form without ever voicing their actual fears.
+**Fork:** press them to actually open up, honoring the ritual's real purpose; let the empty ritual stand, respecting their right to privacy even in a space built for vulnerability; or discover they've already confided in someone entirely outside the formal circle.
+**Consequence-test:** a ritual built around direct truth-confrontation — what happens when someone performs the form without the substance, in the one district whose whole belief is anti-performance?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Weighing.
+
+### 12. Goth-Scorpio Joint Vigil Gone Wrong
+**Starting point:** a Goth-Scorpio Joint Vigil, the established occasional joint event between the two related-but-different traditions.
+**Chain:** the vigil surfaces the real, existing tension already established in canon — Goths believe Scorpio has institutionalized what should be sacred, put lab conditions around mystery.
+**Fork:** help mediate the specific disagreement that surfaces; let the vigil end awkwardly, a small setback for an already uneasy relationship; or discover a genuine synthesis neither tradition expected.
+**Consequence-test:** does Scorpio's own "stop flinching from truth" belief require something more mystical, or is clean, clinical confrontation actually enough on its own?
+**Source:** `District_Canon_Reference.md`, the Goth Relationship; Community Infrastructure — Goth-Scorpio Joint Vigils.
+
+### 13. Archive Reading Night, Contested
+**Starting point:** an Archive Reading Night — anonymized, consented communal readings of selected historical Archive confessions.
+**Chain:** a specific reading turns out to be recognizable despite anonymization; someone in the room realizes whose confession it actually was.
+**Fork:** address it directly with the person who recognized it; quietly tighten the anonymization process going forward; or discover the original confessor is actually fine with being recognized, defusing the crisis.
+**Consequence-test:** does confronting truth directly ever conflict with the promises of privacy Scorpio itself makes to its own confessors?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Archive Reading Nights.
+
+### 14. The Steam Hour Interruption
+**Starting point:** The Steam Hour — a daily window when public steam is deliberately increased, signaling sanctioned time for private conversation.
+**Chain:** an urgent, non-private matter forces its way into this sacred window — someone needs immediate, public help during the one hour the whole district treats as privacy-protected.
+**Fork:** break the Steam Hour's sanctity to address the urgent matter; respect the ritual and make the person wait, at real cost; or find an in-between solution unique to Scorpio's own culture.
+**Consequence-test:** what happens when an institution built around calibrated privacy meets a genuine emergency that doesn't respect the calendar?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Steam Hour.
+
+### 15. Silence Booth, Occupied Too Long
+**Starting point:** a Silence Booth — a soundproofed private structure for total sensory withdrawal during transformation.
+**Chain:** someone has been inside one far longer than typical, and others waiting outside are worried but uncertain whether checking in would violate the booth's entire purpose.
+**Fork:** intervene and check on them, prioritizing concern over the ritual's own rules; wait, respecting the district's culture of never rushing anyone's process; or find a way to check without fully breaking the withdrawal.
+**Consequence-test:** unconditional respect for someone's own process versus genuine concern for their wellbeing, in miniature.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Silence Booths.
