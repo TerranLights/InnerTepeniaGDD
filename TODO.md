@@ -22,6 +22,24 @@ Renamed from "the Alfred Wegener Institute" (the real institute's own name, a GP
 
 ---
 
+## Majyao's teahouse (Janbogo) — flagged 2026-07-30 for an official, proper name
+
+Currently known only as "Majyao's Original Teahouse" — the name of its former keeper (Majyao Bisyugota, now relocated to Concordia), not an actual name of its own. Tepenia's single most historically significant landmark in Janbogo (per `Janbogo_Community_Infrastructure.md`); worth a real name before it's used as an actual questline location.
+
+---
+
+## "Elisa Faranda" (Zukelli) — flagged 2026-07-30 for future renaming
+
+Zukelli's single most prominent named civic figure (proprietor of the city's most famous restaurant-and-performance-space, per `Zukelli_Full_Extrapolation.md` Section VII) — notably, the source file doesn't even tag her as a placeholder the way it does the adjacent "Councilman Renzo Adorni" entry. Per direct developer instruction, the name isn't one they chose and should be reconsidered before she's used in actual questline content — see `Zukelli_Community_Infrastructure.md`.
+
+---
+
+## Summer/winter dual-mode crossings — flagged 2026-07-30, logistics not yet worked out
+
+Two established crossings share the same unresolved mechanic: sea ice passable in winter, boat crossing in summer, with no worked-out logistics for the actual switchover or the shoulder-season gap between the two modes. **Fort McMurdo:** the McMurdo Sound sea ice road, connecting to the Dry Valleys extraction operation. **Dumont d'Urville:** the Channel Crossing, the ~5km route between Petrel Island and the continental coast. Worth resolving once as a shared mechanic rather than separately per city — see `Fort_McMurdo_Community_Infrastructure.md` and `Dumont_dUrville_Community_Infrastructure.md`.
+
+---
+
 ## Tepenia's airports — flagged 2026-07-30 for proper official naming, all but one
 
 Of the 8 confirmed airports (`Locations/Infrastructure/Airports.md`), 7 are currently named simply after their city (Zukelli/Janbogo Airport, Mirny Airport, The Tri-Cities Airport, Troll Airport, Rothera Airport, Marambio Airport, Machu Picchu Airport) — only **Mountain Pass Airport** already has a genuine, distinct proper name, and that one stays exactly as is. Per direct developer instruction: real-world major airports split both ways — some keep the city name (Los Angeles International Airport), some get their own distinct title unrelated to the city name (JFK for New York, McCarran/Harry Reid for Las Vegas). At some point in the future, go through all 7 city-named airports and decide, one at a time, which keep the plain city-name format and which get an actual distinct name instead.
