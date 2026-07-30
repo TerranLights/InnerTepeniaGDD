@@ -224,8 +224,8 @@ Finding 1 is the most immediately actionable — it changes the actual scope of 
 
 ## Additions
 
-- **The Windwright Guildhall** — where the wind-engineering craft tradition (Chief Windwright Osric Bellandry's legacy) is taught and practiced, purely as competence, never mythologized.
-- **The Relay Hardware Vaults** — the physical subnet-hub infrastructure Relay Technician Zoya Marchenko keeps running post-war, with a semi-public viewing area reflecting the quiet pride the role carries.
+- **The Windwright Guildhall** — where the wind-engineering craft tradition (Chief Windwright Osric Bellandry's legacy *(placeholder name, `Mirny_Full_Extrapolation.md` Section VI — not developer-chosen)*) is taught and practiced, purely as competence, never mythologized.
+- **The Relay Hardware Vaults** — the physical subnet-hub infrastructure Relay Technician Zoya Marchenko *(placeholder name, same section)* keeps running post-war, with a semi-public viewing area reflecting the quiet pride the role carries.
 - **Dual-Kitchen Halls** — communal eating spaces serving Russian and Chinese food side by side, kept genuinely distinct rather than fused, matching the city's coexistence-not-fusion cultural pattern.
 - **The Solstice Grazing Grounds** — the actual gathering site for the Winter and Summer Solstice Grazing observances.
 - **Quarry-to-Yard Transit Sheds** — waystations along the raw-material supply route from the southern quarries to the industrial yards, feeding both the eastern-highway construction chain and Sinheung's robot-synthesis fabrication chain.

@@ -204,7 +204,7 @@ Finding 3 is the most structurally valuable — it reframes Casey's destruction 
 ## Additions (pre-war, now ruins)
 
 - **Splinters** — Tepenia's largest, most famous bar, a full city block on the old peninsula, with its own stage, dance floor, and rows of seating along the side-flanks and rear.
-- **The Junction Dispatch Office** — where road-condition dispatchers like "Long Odds" Okonkwo-Hale coordinated wind-window and travel-safety information subnet-wide.
+- **The Junction Dispatch Office** — where road-condition dispatchers like "Long Odds" Okonkwo-Hale *(placeholder name, `Casey_Full_Extrapolation.md` Section VI — not developer-chosen)* coordinated wind-window and travel-safety information subnet-wide.
 - **Waystation Row** — the string of resupply depots and transit lodging strung along the Hwy 110/Hwy 2 junction itself.
 - **The Wilkes Curiosity Walk** — an informal path out to the older, already-buried Wilkes Station ruins, a curiosity even before Casey's own destruction.
 

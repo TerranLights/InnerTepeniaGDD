@@ -214,7 +214,7 @@ Finding 1 is the most structurally significant — Davis's triple-reinforced "en
 - **The Sediment Core Archive** — where Davis's own paleoclimate lake-sediment research is stored and studied.
 - **The Open-Door Libraries** — Davis's genuinely welcoming, openly celebrated acquisitions policy for smuggled Upper Earth books.
 - **The Fjord Mooring Docks** — sheltered small-vessel moorings in the fjord inlets, distinct from Prydz Bay's main harbor.
-- **The Wirawan Lake Survey Office** — named for Naturalist Ratna Wirawan, cataloguing the varied lake system.
+- **The Wirawan Lake Survey Office** — named for Naturalist Ratna Wirawan *(placeholder name, `Davis_Full_Extrapolation.md` Section VI — not developer-chosen)*, cataloguing the varied lake system.
 
 ## Small offices for educational training
 

@@ -10,6 +10,24 @@ Byrd is its own subnet, not yet brought into the current DLC-city Community Infr
 
 ---
 
+## Lazar's expansion-district name — flagged 2026-07-30, deliberately deferred
+
+`Specs/Lazar.md` explicitly states the real "Maitri" station name "does not carry forward into Tepenia in any form" (No-Subcontinentals canon — no Indian/South Asian population ever settled there), but `Lazar_Mega_Init.md` and `Local_Cultures/Halley_Subnet/Lazar.md` both then repeatedly call the district "the former Maitri expansion" anyway — a real, unresolved inconsistency. Per direct developer instruction (2026-07-30), `Lazar_Community_Infrastructure.md` and its README now use a purely descriptive placeholder, **"the Overflow District,"** instead. An actual coined name still needs picking at some point — same category of open item as the Mirny and Marambio renames.
+
+---
+
+## Neumayer's "Precision Institute" — flagged 2026-07-30, open to alternate names
+
+Renamed from "the Alfred Wegener Institute" (the real institute's own name, a GPS-only violation) during the Community Infrastructure pass. The developer likes "The Precision Institute" as a working name, but wants to leave room to consider additional options before treating it as final — see `Neumayer_Community_Infrastructure.md`.
+
+---
+
+## Tepenia's airports — flagged 2026-07-30 for proper official naming, all but one
+
+Of the 8 confirmed airports (`Locations/Infrastructure/Airports.md`), 7 are currently named simply after their city (Zukelli/Janbogo Airport, Mirny Airport, The Tri-Cities Airport, Troll Airport, Rothera Airport, Marambio Airport, Machu Picchu Airport) — only **Mountain Pass Airport** already has a genuine, distinct proper name, and that one stays exactly as is. Per direct developer instruction: real-world major airports split both ways — some keep the city name (Los Angeles International Airport), some get their own distinct title unrelated to the city name (JFK for New York, McCarran/Harry Reid for Las Vegas). At some point in the future, go through all 7 city-named airports and decide, one at a time, which keep the plain city-name format and which get an actual distinct name instead.
+
+---
+
 ## The Continuity and Stability Act — requirements confirmed 2026-07-29, actual document not yet drafted
 
 Structural format and full "must be true" / "cannot be true" stipulations are locked in `Worldspace/Locations-and-Levels/Concordia-City/Districts/Continuity_and_Stability_Act_Requirements.md`. **Still open before drafting:** whether Capricorn and Leo count as confirmed provisions of the Act (loosely gestured at in earlier files but never actually confirmed in either district's own writeup — a real, flagged inconsistency) or are explicitly left out, same as Scorpio's own looser, derivative connection. Once that's resolved: draft the actual Articles (how many, what each broadly authorizes), and place each district's own partial citation of the Act somewhere in-world (Pisces' Triage Directive already has a home in Libra's Treaty Archive Vaults; the others don't yet).
