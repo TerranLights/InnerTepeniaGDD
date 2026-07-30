@@ -1,5 +1,7 @@
 # National Economy and Currency
 
+**⚠️ Flagged 2026-07-29 for future renaming — "scrip" was never the developer's own term.** The word appears throughout this file and roughly 100+ others across the repo (course-of-events files, code architecture docs, city lore). Not touched in this pass — this is a name-and-mechanics task, not a quick swap: the actual mechanics of how the currency works also still need to be sorted out, not just its name. Revisit as its own dedicated pass; don't rename piecemeal.
+
 **Established 2026-07-07.** Answers the open question flagged in `City_Logistics.md` ("Currency and economic system details" — TBD in lore). Confirmed design: an energy-backed currency during the Second Interwar Period, fracturing into regional currencies after the Planetary Split Brain — not two competing options, but one continuous history where the second state is a direct, mechanical consequence of the same catastrophe that caused everything else covered in `Energy_Grid_Failure_Rationale.md` and `Storyline/DLC_PSB_Framework.md`.
 
 **Ruled out, and why:** a siligel/coolant commodity standard was considered and rejected — siligel and coolant are food and drink for robots, not something they would literally pay for goods with, even though bartering *with* them remains realistically plausible as a distinct, secondary practice. A nominal, rarely-trusted leftover "Federation Scrip" was also rejected outright.

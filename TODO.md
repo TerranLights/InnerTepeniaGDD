@@ -4,6 +4,12 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## National currency name and mechanics — flagged 2026-07-29, deliberately deferred
+
+"Scrip" (`Worldspace/National_Economy_and_Currency.md`) was never the developer's own term and needs renaming — but it appears across 100+ files (course-of-events entries, code architecture docs, city lore), so this isn't a quick swap. Two things need deciding together, not separately: the actual name, and the actual mechanics of how the currency works (still not fully sorted out). Don't rename piecemeal — revisit as its own dedicated pass once both are decided.
+
+---
+
 ## Companion Forbidden Traits — in progress, paused 2026-07-28
 
 The "forbidden trait" romance-gate mechanic (`Game-Mechanics/Core-Mechanics/Companion_System.md`'s "Forbidden
@@ -243,15 +249,6 @@ This is distinct from the earlier `project_concordia_consistency_audit` pass (20
 Mirny's actual national composition (China Primary; Russia only Significant tier) bears no real resemblance to the real Russian station and ship (Bellingshausen's *Mirny*) the name and founding story are built around — unlike Sinheung's already-flagged Korean rename, this isn't a demographic-tiering bug to fix, just a name that no longer fits the population it describes. Flagged for an eventual rename; not resolved now. Whenever this gets picked up, note that `Local_Cultures/Mirny_Subnet/Mirny.md`'s entire cultural identity ("The City on the Line," Section 2 Founding Story, Section 5 Post-Culture Identity) is currently built around the Russian-name-vs-Chinese-majority founding tension specifically — a rename would need to either preserve that tension under a new name or replace it with a different defining identity entirely, not just swap the label.
 
 **Confirmed 2026-07-10, during the Mirny Subnet Ultra-Megasheet:** the rename is scoped to the *city* only — the developer explicitly confirmed the six-city regional "Mirny subnet" keeps its own name regardless of what the city itself is eventually renamed to, a deliberate decoupling (the same way a real Antarctic regional name can outlive whichever specific station or claim it was originally drawn from). No replacement city name chosen yet.
-
-## Pisces' Black Market Origin — flagged 2026-07-07, deliberately deferred
-
-A realization out of the new national currency work (`Worldspace/National_Economy_and_Currency.md`): the currency's fracture (national energy-backed scrip losing both its unified grid and its cross-subnet verification network in the same catastrophe as the Planetary Split Brain) is exactly the kind of collapse that would explain Pisces' already-established "Long Night War Black-Market Lifeline (early 2800s)" bullet in `District_Canon_Reference.md` — a precise mechanism for a fact that was already there but unexplained. Not yet written in, pending which of two possible refinements to Pisces' own history the developer wants to pursue:
-
-1. **Move Pisces' founding later, starting as a plain, legitimate market that only turned "black" afterward.** Lower timeline conflict, but real friction against the existing founding color — the current late-2560s origin story already isn't innocent (explicitly includes smugglers and "chemical or digital escape" from the start), so this would mean softening or rewriting that origin, not just moving a date.
-2. **Keep the existing founding, but have Pisces turn "black" sometime before the Planetary Split Brain, and separately have the Amundsen Tower shockwave — combined with some condition unique to Pisces — be the actual physical cause of The Flood (currently dated c. 2771).** Structurally satisfying — it would echo the exact pattern that already makes the Tower's destruction compelling (one root cause explaining two separate mysteries, per `Energy_Grid_Failure_Rationale.md` #11's grid-overload/Arcanet-severance combination). But it has a real timeline conflict: The Flood's 2771 date was deliberately fixed as an *interwar-period* event (see the "District Canon Timeline Fix" memory), decades before the Tower's 2812 destruction — pursuing this would mean moving The Flood to coincide with the Long Night War instead, undoing an already-settled placement.
-
-Both explicitly deferred until more information is available, per the developer's own framing — not resolved now.
 
 ---
 
