@@ -815,3 +815,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** investigate whether that old mistake's pattern is still repeating; let the story stay a fond, funny anecdote as it's always been; or use the building's own physical history as evidence in a wider argument about Aquarius' repeating patterns.
 **Consequence-test:** openly displaying your mistakes is honest — but does displaying them mean learning from them, or just normalizing them into charming stories?
 **Source:** `Aquarius_Full_Extrapolation.md` Section III.
+
+---
+
+## Libra
+
+**Civic belief (Concordia Section I):** *"a city becomes real through fair, stable process... a true city is one where everyone can trust the rules apply equally and disputes resolve without violence."*
+
+**Status: 15 of 15–20 target. Floor reached.** Note: the existing Notable Figure "a senior Operator who has stopped pretending the Surveillance Files are regrettable" is adjusted below — under the confirmed mechanism nobody deliberately built the Files as leverage, so the Operator's candor is about discomfort with what accumulated, not regret over intent.
+
+### 1. The Grievance Nobody Compared Notes On
+**Starting point:** representatives from both Cancer and Sagittarius, each independently suspecting Libra of quietly relying on them without credit, who have never compared notes with each other.
+**Chain:** the player becomes the first to connect both grievances into a single, unified picture — Libra's legitimacy depends on uncredited contributions from both districts at once.
+**Fork:** help Cancer and Sagittarius formally unite their grievances into one joint demand, a genuinely powerful two-district coalition; help each negotiate separately for narrower, real concessions; or bring the unified picture to a sympathetic Libra reformer, hoping for voluntary change from within.
+**Consequence-test:** fair process requires everyone be treated equally — this tests whether Libra's own legitimacy was ever actually built that way.
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1; Throughway 2.
+
+### 2. The Emergency That Never Started
+**Starting point:** historical records — plausibly surfaced through Gemini's own data-recovery mission — proving Libra's continuous emergency footing predates the Long Night War by generations.
+**Chain:** direct contradiction of Libra's own official narrative that current emergency powers are a temporary, war-necessitated measure.
+**Fork:** reveal the proof widely, undermining Libra's justification for the Suspended Compact; bring it privately to the True Believer faction, arming their internal reform push; or sit on the information, judging exposure too destabilizing right now.
+**Consequence-test:** the only path that touches Libra's founding-level conflation directly, rather than one downstream symptom of it.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2; Throughway 1.
+
+### 3. The Operator Who Stopped Pretending
+**Starting point:** the senior Operator (Full Extrapolation Section III), who has stopped pretending discomfort with what the accumulated Surveillance Files have become.
+**Chain:** the player encounters this figure candidly acknowledging the files' existence and function — unusual honesty for Libra's culture of official denial.
+**Fork:** use the rare candor to push for reform; report it to other factions, causing real political fallout; or simply learn more about how the files actually work from someone willing to talk plainly.
+**Consequence-test:** can a process built on accumulated, never-examined records still call itself fair, once someone openly admits what it's actually become?
+**Source:** `Libra_Full_Extrapolation.md` Section III.
+
+### 4. The True Believer's Powerless Vote
+**Starting point:** the senior True Believer (Full Extrapolation Section III), organized but functionally powerless, pushing for real elections and dossier release.
+**Chain:** a real opportunity arises for this figure to make genuine progress, requiring resources or cooperation only the player can provide.
+**Fork:** help them make headway on election reform specifically; help them on dossier release instead; or discover their own faction is more internally divided about priorities than its public unity suggests.
+**Consequence-test:** fair process demands real elections — does Libra's own belief actually support the person trying hardest to restore it, or only those already benefiting from its absence?
+**Source:** `Libra_Full_Extrapolation.md` Section III.
+
+### 5. Four Tributaries, One Room
+**Starting point:** the Suspended Compact Reading Room or Treaty Archive Vaults, where the player finds physical evidence of all four confirmed Surveillance Files tributaries (the Mediation Archive, Threat-Assessment Residue, Insurance Policy, Distributed Diplomatic Correspondence) sitting in the same space, never before cross-referenced.
+**Chain:** piecing together that this was never one deliberate dossier system, but four accidentally-converging record streams.
+**Fork:** formally consolidate and audit all four together, forcing a real reckoning; leave them separately filed as always, preserving the "nobody sees the whole picture" status quo; or use the discovery to help resolve a specific other district's own grievance that one tributary happens to touch.
+**Consequence-test:** does four unrelated bureaucratic habits accidentally becoming leverage still count as a "fair" system, even without anyone intending it?
+**Source:** `Cross_District_Power_Leverage_Alternatives.md`, confirmed Libra tributaries.
+
+### 6. The Precedent That Contradicts Itself
+**Starting point:** the Precedent Archives, where routine research turns up two historical rulings that directly contradict each other, both still technically active precedent.
+**Chain:** revealing that 250 years of "fair" rulings have quietly accumulated genuine internal contradictions nobody's ever gone back to reconcile.
+**Fork:** push for a formal reconciliation of the contradictory precedents, a genuinely disruptive institutional project; use the contradiction to argue for a favorable ruling in a current dispute; or simply document the finding and let the Precedent Reading Circle discover it organically.
+**Consequence-test:** fair process requires consistency — what happens when the record of "fair" rulings turns out to disagree with itself?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Precedent Archives.
+
+### 7. The Balance Circle That Won't Resolve
+**Starting point:** a formal balance circle — opposing parties seated equidistant until a ruling is reached — that's gone on for an unusually, uncomfortably long time.
+**Chain:** the player, present, realizes the delay isn't procedural incompetence but genuine uncertainty — the adjudicators don't actually know the fair answer.
+**Fork:** push for a ruling anyway, even an imperfect one, to end the parties' suffering; support taking as long as needed, honoring the process's own patience; or propose an alternative resolution method entirely, outside the formal circle.
+**Consequence-test:** what happens when the process itself hits a case fairness genuinely can't resolve cleanly?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — formal "balance circles."
+
+### 8. The Slow Process Patience Circle's Newest Member
+**Starting point:** a Slow Process Patience Circle, where a specific new member arrives in visible distress over a personal matter stuck in Libra's six-week-minimum process far too long.
+**Chain:** the circle's usual patience-focused support doesn't help this time, because the stakes (medical, custody, safety) are unusually high.
+**Fork:** help expedite this specific case, an unusual exception; help the person find peace with the wait, per the circle's own purpose; or use the case to push for genuine process reform for high-stakes exceptions.
+**Consequence-test:** does a stable process that treats every case identically actually serve fairness when the stakes vary this wildly?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Slow Process Patience Circles.
+
+### 9. The Implication Academy's Failing Student
+**Starting point:** The Implication Academy, teaching young aides and diplomats Libra's whole language of proxy, precedent, and implication.
+**Chain:** a student genuinely gifted otherwise simply cannot master the indirect communication style, facing washout from an entire career path over this one specific skill gap.
+**Fork:** help them find a way to succeed by leveraging directness as a different kind of value; help them push through and master the skill properly; or discover the Academy has never had to accommodate someone wired for directness, revealing a real blind spot in the diplomatic culture.
+**Consequence-test:** is a system that requires everyone communicate the same indirect way actually fair to people who think or communicate differently?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Implication Academy.
+
+### 10. Rank Read Wrong
+**Starting point:** a Rank-Reading Tailor House, whose encoded signaling on a specific piece of clothing is misread by others.
+**Chain:** the misread leads to real social or professional consequences based on a signal that was never actually accurate.
+**Fork:** help correct the misread rank publicly; let the person use the accidental miscommunication to their own advantage; or discover the tailor made the "mistake" deliberately, for reasons of their own.
+**Consequence-test:** fair process requires accurate information — what happens when the district's own signal system for who's who is fallible?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Rank-Reading Tailor Houses.
+
+### 11. The Checkpoint Guard's Dilemma
+**Starting point:** a Checkpoint Guard Academy graduate, facing a case where trained procedure and genuine compassion seem to conflict — someone technically breaking a rule for a deeply sympathetic reason.
+**Chain:** the player witnesses the guard's real-time choice between the letter of the rule and the person in front of them.
+**Fork:** help the guard follow procedure to the letter; help them find a compassionate exception, risking their own career; or discover the guard has quietly been making exceptions like this for years without anyone noticing.
+**Consequence-test:** fair rules applied equally versus genuine case-by-case fairness — the checkpoint is where this tension becomes one person's literal choice.
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Checkpoint Guard Academies.
+
+### 12. The Symmetry Gardens' Broken Mirror
+**Starting point:** one of the Symmetry Gardens, its usual perfect symmetry subtly, deliberately broken by someone.
+**Chain:** the player investigates and finds a small, personal act of protest or grief disrupting the district's whole visual language of order.
+**Fork:** help restore the symmetry, respecting institutional order; leave the break standing as the protest or memorial it was meant to be; or investigate why this specific person felt compelled to break it.
+**Consequence-test:** does Libra's belief in fair, ordered process leave any room for a single, deliberate act of disorder to stand as meaningful?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Symmetry Gardens.
+
+### 13. Implication Sparring, Misunderstood
+**Starting point:** an Implication Sparring match — a social pastime of communicating entirely through precedent and implication.
+**Chain:** an outsider participates without fully understanding the rules and accidentally implies something genuinely serious without meaning to, given how much real stakes ride on the indirect style.
+**Fork:** help clarify the misunderstanding before it escalates; let the social consequences play out as a genuine lesson in Libra's high-stakes indirection; or discover the other participant knew it was an accident all along and is testing how the outsider handles the fallout.
+**Consequence-test:** is a system built on implication actually more prone to misunderstanding than the plain speech it replaced?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Implication Sparring.
+
+### 14. The Emergency Session Vigil, For a Different Reason
+**Starting point:** an Emergency Session Vigil, unusually large and tense because word has spread this particular session might finally address the Perpetual Emergency's own continuous nature (candidate 2).
+**Chain:** the player is present among the anxious, hopeful crowd.
+**Fork:** help manage the crowd's expectations; use the moment to actually push information toward the session itself; or discover the session's real agenda has nothing to do with what the crowd believes, a quiet anticlimax.
+**Consequence-test:** a stable process ideally shouldn't require public vigils of anxious hope — what does this tradition's existence reveal about how much residents actually trust it?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Emergency Session Vigils.
+
+### 15. Dossier Awareness, Made Personal
+**Starting point:** a Dossier Awareness Gathering, where a specific attendee realizes their own file exists among the four Surveillance Files tributaries and wants to actually read it.
+**Chain:** a very personal, individual-scale version of candidate 5's larger institutional discovery.
+**Fork:** help them access their own file, whatever the consequences; advise against it, since some things might be better left unknown; or discover their file is surprisingly empty or mundane, a strange anticlimax after so much anxiety.
+**Consequence-test:** fair process should mean transparency to those it affects — does anyone actually have the right to know what's recorded about themselves?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Dossier Awareness Gatherings.
