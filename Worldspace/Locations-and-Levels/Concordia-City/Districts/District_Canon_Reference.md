@@ -475,8 +475,8 @@ Career diplomats, councilors, policy analysts, arbitrators, judges, treaty negot
 
 ---
 
-## District 9 — Gemini (Janbogo Subnet Nexus)
-**Zodiac:** Gemini | **Role:** Information / Communication
+## District 9 — Gemini (The Circuit)
+**Zodiac:** Gemini | **Official Name:** The Circuit | **Role:** Information / Communication (Janbogo Subnet Nexus)
 
 ### What It Really Is
 A district built on the belief that information is the solution to problems, which has never fully reckoned with the fact that more information doesn't reduce the need for judgment — it increases it. Janbogo has more data than any other district and some of the worst decision-making in the city, because its culture rewards finding information over evaluating it.

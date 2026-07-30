@@ -1,4 +1,4 @@
-# District 9 — Gemini (Janbogo Subnet Nexus): Deep-Dive Analysis
+# District 9 — Gemini (The Circuit): Deep-Dive Analysis
 
 **Status:** 🟡 open for discussion
 **Pass type:** full individual district analysis, two-stage methodology (see `../00b_Two_Stage_Methodology.md`). Cross-references Finding 6 (`../Staging/06_Gemini_Terra_Nova_Bay_Verify.md`, already about Gemini) and Threads 7/8 (`../Staging/07_Capricorn_Robot_Rights_National_Parallel.md`, `../Staging/08_Virgo_National_Kinship_Recognition.md`).

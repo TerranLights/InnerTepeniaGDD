@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Zodiac / Role** | Gemini (Janbogo Subnet Nexus) — Information / Communication |
+| **Zodiac / Role** | Gemini ("The Circuit") — Information / Communication (Janbogo Subnet Nexus) |
 | **Founding era** | Early Arcanet Construction (late 2560s–2580s) — built as the central routing and data nexus to keep exiled communities connected |
 | **Defining mystery** | The Great Corruption — a massive, possibly-targeted wiping of pre-Falkland-Treaty archives; per this project's own deep dive, plausibly connected to suppressing evidence of the treaty's own coerced negotiation |
 | **Defining founding trait** | The Twin Channels — an official public Arcanet and an unofficial shadow network, staffed by the same people, neither officially acknowledged as connected; per the deep dive, a 250-year-old generational echo of the founding treaty's own official/real duplicity |

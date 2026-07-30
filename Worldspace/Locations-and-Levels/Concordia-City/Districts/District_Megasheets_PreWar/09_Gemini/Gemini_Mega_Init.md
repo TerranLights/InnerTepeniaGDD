@@ -34,7 +34,7 @@ how to hold an official story and a real one at the same time.*
 
 | | |
 |---|---|
-| **Zodiac / Role** | Gemini (Janbogo Subnet Nexus) — Information / Communication |
+| **Zodiac / Role** | Gemini ("The Circuit") — Information / Communication (Janbogo Subnet Nexus) |
 | **Founding era** | Early Arcanet Construction (late 2560s–2580s) — built as the central routing and data nexus to keep exiled communities connected despite isolation |
 | **Founding root cause** | Per the deep dive, the Twin Channels — official public Arcanet, unofficial shadow network, staffed by the same people — are a 250-year generational echo of the Falkland Treaty's own founding structure: an official narrative built to look like legitimate negotiation, laid over a coerced reality underneath it |
 | **Defining pre-war mystery** | The Great Corruption — already happened by this period (timing and mechanism deliberately unresolved, per existing flag), a wiping of the archives covering the period immediately before the Falkland Treaty, plausibly — not confirmedly — targeted rather than accidental |
