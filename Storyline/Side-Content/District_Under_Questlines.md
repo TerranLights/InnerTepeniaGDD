@@ -702,3 +702,116 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** help them separate personal ambition from systemic pressure, a genuinely difficult act of self-examination; help them accept the fusion of the two as simply how Capricorn works; or connect them with the Recalibration Underground to explore the question further.
 **Consequence-test:** can someone in Capricorn actually tell the difference between "I want this" and "I've been made to want this" — and does the belief in achievement require that distinction to even be answerable?
 **Source:** `Capricorn_Full_Extrapolation.md` Section II.
+
+---
+
+## Aquarius
+
+**Civic belief (Concordia Section I):** *"a city becomes real by inventing itself anew... a true city breaks from inherited constraint and designs better systems from first principles, even at real risk of failure."*
+
+**Status: 15 of 15–20 target. Floor reached.** Note: Aquarius' own material already passed the Non-Malice Audit cleanly as-is — no stale pre-confirmation framing to route around here.
+
+### 1. The Collaboration on the Edge
+**Starting point:** the player, involved in the predictive-maintenance collaboration between Aquarius and Virgo, witnesses early warning signs that Aquarius' own reckless, oversight-averse culture is creeping into this specific project too.
+**Chain:** the one project that could finally reward Virgo's 250-year "proof without payoff" pattern is structurally vulnerable to the exact instability that produces Virgo's own workload.
+**Fork:** push for strict safety protocols, even at the cost of alienating the researchers whose expertise makes the breakthrough possible; let the researchers move fast and trust their good intentions; or try to relocate the project inside Virgo's own more meticulous environment.
+**Consequence-test:** designing from first principles even at real risk of failure — but this is a risk someone else, not Aquarius, would actually absorb if it goes wrong.
+**Source:** in-district Questlines Thread 1; Cross-Reference Finding 1; Throughway 3.
+
+### 2. What Scorpio Never Says Out Loud
+**Starting point:** working alongside a Scorpio Clinical School practitioner, the player notices an unusual concentration of identity-fracture patients sharing an Aquarius origin.
+**Chain:** a pattern neither district's own institutional records currently track or connect — Aquarius may already be quietly generating a share of Scorpio's caseload.
+**Fork:** formally document and report the connection to both districts' leadership; quietly build a targeted support track for Aquarius-originated patients without going public; or take the discovery to Aquarius' own internal reformers, aiming at prevention rather than treatment.
+**Consequence-test:** the only path capable of actually reducing how many new cases get created, rather than just managing consequences after the risk's already been taken.
+**Source:** in-district Questlines Thread 2; Cross-Reference Finding 2; Throughway 2.
+
+### 3. The Living Network's Newest True Believer
+**Starting point:** a current resident of the Living Network Experiment (Full Extrapolation Section IV) — the ~30-year-running, possibly-collapsing utopia.
+**Chain:** this person moved in recently, genuinely hopeful, either unaware of the two previous failed utopias' identical fate or aware and choosing to believe this time is different.
+**Fork:** warn them honestly about the historical pattern; let them keep their hope, since belief may be part of what any such project needs; or help investigate whether this attempt actually has some genuinely new reason to succeed.
+**Consequence-test:** does inventing from first principles require honesty about the odds, or does it require ignoring the pattern of past failure entirely?
+**Source:** `Aquarius_Full_Extrapolation.md` Section IV; Throughway 1.
+
+### 4. The Senior Pure Researcher's Long Wait
+**Starting point:** the senior Pure Researcher (Full Extrapolation Section IV), whose long-timeframe theoretical work rarely gets public credit until a crisis suddenly makes it relevant.
+**Chain:** a current crisis — plausibly tied to candidate 1's collaboration or a contamination event — makes this researcher's years-old work exactly what's needed.
+**Fork:** help them finally get proper credit and funding now that they're needed; let the Applied Innovators take the credit as usual, since credit was never why they did the work; or use the moment to argue for structural change in how Aquarius values long-timeframe research.
+**Consequence-test:** reinvention takes patient, unglamorous foundational thinking — does the belief in radical first-principles design actually value the slow work that makes it possible?
+**Source:** `Aquarius_Full_Extrapolation.md` Section IV.
+
+### 5. The Ethics Review Chamber, For Real
+**Starting point:** The Ethics Review Chamber — the physical venue for the review process Aquarius' culture routinely routes around.
+**Chain:** a specific researcher, unusually, actually wants to go through the full review process properly, because even they are genuinely worried about the risk — and the district's culture doesn't quite know how to handle someone taking it seriously.
+**Fork:** help push the review through fully and properly, a rare event; discover the review process may be structurally unable to say no to anything anymore, unpracticed as it is; or use the case to argue for reforming the whole routed-around culture.
+**Consequence-test:** "even at real risk of failure" is the belief — does that make ethics review the enemy of the belief, or the one thing that makes real risk-taking survivable?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — The Ethics Review Chamber.
+
+### 6. Underground/Official Reconciliation, Tested
+**Starting point:** an Underground/Official Reconciliation Night — a careful gathering blurring the line the oversight cycle tries to maintain.
+**Chain:** a piece of underground research surfaces there that's genuinely valuable but was developed in flagrant violation of safety protocols, forcing a real-time decision about whether the ends justify the method.
+**Fork:** adopt the research openly, tacitly endorsing the method that produced it; refuse it on principle, losing a genuine breakthrough; or use the discovery while formally discouraging the specific method going forward.
+**Consequence-test:** does first-principles risk-taking have any real limit, or does producing results eventually justify anything?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Underground/Official Reconciliation Nights; the Underground Research Annexes.
+
+### 7. Cross-Generation Utopia Storytelling, Contested
+**Starting point:** a Cross-Generation Utopia Storytelling event, where an older survivor of one of the two failed utopias shares their story with young idealists currently pouring themselves into the Living Network Experiment.
+**Chain:** the young listeners have to decide how to receive what is, functionally, a cautionary tale about the exact thing they're currently doing.
+**Fork:** help them heed the warning and adjust their approach; let them dismiss it as a different era with different circumstances; or discover the older survivor's own story is more complicated than pure cautionary tale — they may still believe it was worth trying.
+**Consequence-test:** can a district that reinvents itself anew each generation actually learn from its own repeated failures, or does "starting fresh" require forgetting them?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Cross-Generation Utopia Storytelling; Throughway 1.
+
+### 8. The Prototype Graveyard's Newest Addition
+**Starting point:** a Prototype Graveyard, where failed experiments are respectfully displayed and decommissioned.
+**Chain:** the player encounters someone whose own deeply personal project has just failed and is about to be added to the graveyard — real grief processed through a very public, almost celebratory district ritual.
+**Fork:** help them find meaning in the public display tradition; help them process the loss privately instead, against the district's own normalize-failure culture; or discover a genuinely useful partial success buried in the "failure," worth salvaging before it's formally retired.
+**Consequence-test:** does normalizing failure district-wide actually make individual failure hurt less, or does it just make grief a public performance?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Prototype Graveyards.
+
+### 9. The Staging Post's Quiet Dread
+**Starting point:** a Contamination Response Staging Post, kept ready for rapid containment.
+**Chain:** the player meets the crew stationed there, whose entire job is waiting for something to go wrong — permanent, low-grade anticipatory dread as an occupation.
+**Fork:** help improve their actual readiness and training; help them process the psychological toll of permanent readiness; or discover the post has quietly grown complacent precisely because nothing has gone wrong there in a long time.
+**Consequence-test:** first-principles risk-taking requires someone ready to contain the fallout — does the belief in bold invention actually value the unglamorous job of cleanup readiness?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Contamination Response Staging Posts.
+
+### 10. True Believers, Still Waiting
+**Starting point:** a True Believer Gathering at one of the Failed Utopia Preservation Sites.
+**Chain:** the player meets someone who has dedicated their whole life to keeping a failed utopia's founding philosophy alive, decades after its practical failure.
+**Fork:** help them find a new, updated way to pursue the old philosophy; respect their choice to keep the flame exactly as it was; or gently challenge whether the belief has curdled into something unhealthy.
+**Consequence-test:** the belief demands designing better systems even at risk of failure — what happens decades after the failure, when someone's still designing the same system that already failed?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Failed Utopia Preservation Sites, True Believer Gatherings.
+
+### 11. The Ethics Board Theater's Straight Man
+**Starting point:** Ethics Board Theater — the semi-satirical tradition treating the review process almost like communal theater.
+**Chain:** a new board member takes the process completely seriously and doesn't accept that everyone else treats it as theater, creating real friction the first time they actually try to block something.
+**Fork:** help the new member adapt to the district's real culture; let the district actually start taking the board seriously because of this one person's insistence; or let the clash play out as genuine, unresolved culture conflict.
+**Consequence-test:** does routing around review as theater serve first-principles risk-taking, or is it just risk-taking with an alibi?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Ethics Board Theater.
+
+### 12. The Archivist Who Organizes What No One Reads
+**Starting point:** a Data Archivist Repository, where research findings get organized outside the main lab structure.
+**Chain:** the player meets an archivist meticulously organizing years of data that's almost never actually consulted, since Aquarius' culture prizes momentum over documentation.
+**Fork:** connect the organized archive to researchers who could actually use it; accept that the archiving has its own quiet value regardless of use; or discover a specific buried, organized record that turns out to be exactly what's needed for a current crisis.
+**Consequence-test:** does a district built on breaking from inherited constraint have any real use for careful preservation, or is even its own archive quietly at odds with its own values?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — Data Archivist Repositories.
+
+### 13. Dormitory Politics
+**Starting point:** the University of Concordia Dormitory Clusters, housing the district's transient, politically-active student population.
+**Chain:** the player encounters genuine political tension among students — some pushing radical positions on Aquarius' own ethics, others more cautious — the district's whole internal tensions playing out in miniature among people just starting their careers.
+**Fork:** help mediate between the two student factions; support one side specifically; or discover this generational political energy is exactly what eventually reshapes Aquarius' culture over time.
+**Consequence-test:** does reinvention actually start with the young, or does the district's own established culture eventually absorb and neutralize them too?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — University of Concordia Dormitory Clusters.
+
+### 14. The Idea-Drop Wall's Anonymous Genius
+**Starting point:** an anonymous idea-drop wall, where untested theories are pinned for public stress-testing.
+**Chain:** a specific anonymous theory turns out to be genuinely brilliant — possibly touching the Living Network Experiment's own instability or the Aquarius-Virgo collaboration — and real curiosity builds about who posted it.
+**Fork:** respect the anonymity and simply develop the idea without unmasking anyone; actively try to find the author for credit and direct collaboration; or discover the author deliberately stayed anonymous for a specific, meaningful reason — possibly not an official researcher at all.
+**Consequence-test:** does first-principles thinking care who gets credit, or does "break it better" culture actually require genuine anonymity to work honestly?
+**Source:** `District_Canon_Reference.md`, Community Infrastructure — anonymous idea-drop walls.
+
+### 15. The Patchwork Building's Honest History
+**Starting point:** a specific, visibly patchwork building whose layered history a resident happily narrates — every visible seam a specific, well-intentioned mistake.
+**Chain:** within the tour, one specific layer turns out to be tied to something more serious than a funny anecdote — an early version of a pattern that's still quietly recurring today.
+**Fork:** investigate whether that old mistake's pattern is still repeating; let the story stay a fond, funny anecdote as it's always been; or use the building's own physical history as evidence in a wider argument about Aquarius' repeating patterns.
+**Consequence-test:** openly displaying your mistakes is honest — but does displaying them mean learning from them, or just normalizing them into charming stories?
+**Source:** `Aquarius_Full_Extrapolation.md` Section III.
