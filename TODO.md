@@ -28,6 +28,36 @@ Currently known only as "Majyao's Original Teahouse" — the name of its former 
 
 ---
 
+## "The Endurance Span" (Signy) — flagged 2026-07-30 for possible future renaming
+
+The named bridge holding Signy's two islands together (`Signy_Full_Extrapolation.md` Section III). Per direct developer instruction, Tepenia's own founders would probably have called it something else — see `Signy_Community_Infrastructure.md`. Same category as the Rothera geographic-name flag above.
+
+---
+
+## Sejong Community Infrastructure — flagged 2026-07-30 for future expansion
+
+`Sejong_Community_Infrastructure.md`'s Social Cohesion Mechanisms list has only one entry — per direct developer instruction, a city this densely populated and multinational (a dozen absorbed national communities on one small island) would plausibly support far more. Revisit and expand.
+
+---
+
+## "Han Ji-woo" (Sejong) — flagged 2026-07-30 for future renaming
+
+The founding-era figure credited with negotiating Sejong's original boundary-zone agreements (`Sejong_Full_Extrapolation.md` Section VI). Per direct developer instruction, the name isn't one they chose — see `Sejong_Community_Infrastructure.md`. Also noted there: `Sejong_Full_Extrapolation.md`'s proposed "Hangul Day" holiday was rejected outright by the developer ("that wouldn't happen") and should not be reused, though the source file itself hasn't been edited to remove it.
+
+---
+
+## Real-world geographic feature names — flagged 2026-07-30, likely a broader pattern
+
+Rothera's "Bonner Airstrip" and "Marguerite Bay Harbor" both carry real-world geographic names forward unchanged, three centuries into Tepenia's own history — per direct developer instruction, the city's own founders would plausibly have coined their own names for these places at founding rather than keeping the real-world ones. Flagged as placeholders in `Rothera_Community_Infrastructure.md`, not resolved. **Worth checking as a broader pattern** — other cities across this same Community Infrastructure push likely carry similar unrenamed real-world bay/mountain/strait names (e.g. Davis's Prydz Bay, Vestfold Hills) that may deserve the same treatment eventually.
+
+---
+
+## Palmer City Community Infrastructure — flagged 2026-07-30 for future expansion
+
+Per direct developer instruction: Palmer City is one of Tepenia's most culturally dense cities (43-nation composition, a full entertainment economy, its own defining founding myth) and its `Palmer_City_Community_Infrastructure.md` pass should get noticeably more Additions and social cohesion mechanisms than the standard-length first pass it received — come back and expand it, don't treat it as finished. Also flagged in the same file: **"The Petrograd Room"** needs a real name (not developer-chosen, likely would be called something else); and **where the relocated Antarctica flag now hangs in Concordia** is an open decision between (A) a museum-type building in whichever district fits best, or (B) a high-status official building in the Libra district specifically — not yet decided.
+
+---
+
 ## "Elisa Faranda" (Zukelli) — flagged 2026-07-30 for future renaming
 
 Zukelli's single most prominent named civic figure (proprietor of the city's most famous restaurant-and-performance-space, per `Zukelli_Full_Extrapolation.md` Section VII) — notably, the source file doesn't even tag her as a placeholder the way it does the adjacent "Councilman Renzo Adorni" entry. Per direct developer instruction, the name isn't one they chose and should be reconsidered before she's used in actual questline content — see `Zukelli_Community_Infrastructure.md`.
