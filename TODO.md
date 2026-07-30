@@ -4,6 +4,12 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Byrd — flagged 2026-07-30, will need an enormous amount of data design & development
+
+Byrd is its own subnet, not yet brought into the current DLC-city Community Infrastructure & Under-Questline push (Mirny, Halley, Janbogo, Palmer, Mawson subnets). Already flagged separately in `Byrd_DLC_Enrichment_Possibilities.md` as having real open enrichment ideas and guidelines, deferred. Given Byrd's own established profile (isolation at maximum scale, per `Distinguishing_Overlapping_Profiles.md`) and its likely city count, this will be a substantially larger undertaking than any of the five subnets currently in progress — tackle it as its own dedicated pass once those five are further along, not folded in piecemeal.
+
+---
+
 ## The Continuity and Stability Act — requirements confirmed 2026-07-29, actual document not yet drafted
 
 Structural format and full "must be true" / "cannot be true" stipulations are locked in `Worldspace/Locations-and-Levels/Concordia-City/Districts/Continuity_and_Stability_Act_Requirements.md`. **Still open before drafting:** whether Capricorn and Leo count as confirmed provisions of the Act (loosely gestured at in earlier files but never actually confirmed in either district's own writeup — a real, flagged inconsistency) or are explicitly left out, same as Scorpio's own looser, derivative connection. Once that's resolved: draft the actual Articles (how many, what each broadly authorizes), and place each district's own partial citation of the Act somewhere in-world (Pisces' Triage Directive already has a home in Libra's Treaty Archive Vaults; the others don't yet).

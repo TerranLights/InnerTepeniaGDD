@@ -71,9 +71,20 @@ This is the highest-value and most distinct step, and the one most likely to be 
 
 ---
 
+## Step 3.5: Build the Community Infrastructure & Social Life pass (`[City]_Community_Infrastructure.md`), added 2026-07-30
+
+**Cognitive posture: get concrete — physical spaces, small institutions, recurring rituals, not abstract cultural analysis.** This step was originally developed for Concordia's 13 districts (2026-07-29) and proved to be one of the single richest sources of usable, concrete starting points for later quest-design work — concrete places and rituals give a designer something to anchor a starting point to, in a way a purely descriptive culture section doesn't. Extended to the DLC-city Megasheet family starting 2026-07-30.
+
+1. Re-read the Mega-Init, Full Extrapolation, Cross-Reference Synthesis, and the city's own Local Cultures file, specifically looking for anything that implies a physical gathering place, a small trade/craft institution, or a recurring social ritual that hasn't been named yet.
+2. Organize findings under three headers: **Additions** (named physical spaces or institutions), **Small offices for educational training** (short phrases naming skills taught locally, not full institutions), and **Social cohesion mechanisms** (named recurring rituals, traditions, or informal gatherings).
+3. Every item should trace back to something already established — a demographic fact, an economic role, a Notable Figure, a cultural descriptor — rather than being invented from nothing. Name things specifically (proper nouns), the same discipline Step 2 already uses.
+4. Close with the same "Worth Your Attention" callout every other stage document uses, naming which item(s) most concretely embody the city's own already-established character.
+
+---
+
 ## Step 4: Concatenate into the final `README.md`
 
-Once all three documents exist — `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, and `[City]_Cross_Reference_Synthesis.md` — combine them in the order they were produced, with a clear divider between each, and the result *becomes* `README.md`. No further editing at this stage; the combined file is a straight concatenation, not a fourth editorial pass. The three source files stay in the folder alongside it, since each is independently useful on its own — `README.md` is the definitive, extremely long, all-in-one version, not a replacement for the pieces it's built from. The ordering itself carries meaning: it's the same synthesize → invent → find-what-emerges sequence the whole process follows, preserved for a reader encountering the city for the first time.
+Once all documents exist — `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.md`, `[City]_Cross_Reference_Synthesis.md`, and (for cities that have gone through Step 3.5) `[City]_Community_Infrastructure.md` — combine them in the order they were produced, with a clear divider between each, and the result *becomes* `README.md`. No further editing at this stage; the combined file is a straight concatenation, not an additional editorial pass. The source files stay in the folder alongside it, since each is independently useful on its own — `README.md` is the definitive, extremely long, all-in-one version, not a replacement for the pieces it's built from. The ordering itself carries meaning: it's the same synthesize → invent → find-what-emerges → get-concrete sequence the whole process follows, preserved for a reader encountering the city for the first time.
 
 ---
 

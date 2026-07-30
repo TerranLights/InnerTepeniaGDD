@@ -26,6 +26,8 @@
 
 **4th-order effect:** a self-reinforcing loop like this depends on genuine, ongoing retention — some meaningful fraction of nationwide students actually staying in the city after their studies rather than returning home — which is a specific, checkable fact nothing currently established actually confirms or denies. The loop's continued strength as an explanation is only as solid as that unconfirmed retention rate.
 
+**Resolved 2026-07-30:** the retention rate this finding flagged as unconfirmed is now settled — the city's flagship university (the Shirayuki Institute of Applied and Fine Arts, per `Local_Cultures/Mirny_Subnet/Shirayuki.md` Section 7 and `Shirayuki_Community_Infrastructure.md`) is explicitly used by many students, both human and robot, as a deliberate stepping stone toward integrating into the local arts and music culture, not merely a course of study to complete before leaving. This confirms genuine, intentional retention exists, and the self-reinforcing loop this finding proposed holds up as more than a hypothesis.
+
 ---
 
 ## Finding 3: this city is one of Tepenia's few real tests of whether deliberately engineered civic outcomes can rival organic ones
