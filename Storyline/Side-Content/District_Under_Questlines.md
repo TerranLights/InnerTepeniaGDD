@@ -1274,3 +1274,123 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Fork:** welcome them back fully, letting their account reopen old wounds and old grudges alike; keep the reunion quiet and private, protecting both them and the community from a public reckoning; or treat their return with suspicion, since a convenient survivor could just as easily be lying about what really happened.
 **Consequence-test:** can a district that ritualizes its own bitterness about the Bust handle the return of someone who might actually have real answers about it?
 **Source:** Community Infrastructure & Social Life — Bust-Era Bitter Toasts; Throughway 2.
+
+---
+
+## Virgo
+
+**Civic belief (Concordia Section I):** *"a city becomes real from the ground up, literally. A true city is one whose infrastructure works reliably enough that people can stop thinking about survival and start thinking about living."*
+
+**Status: 16 of 15–20 target. Floor exceeded.** Note: the existing Cross-Reference Synthesis' Finding 2, Throughway 3, and Questlines Thread 2 all describe Aries' leverage as "repeatedly re-invoked" blackout threats — this contradicts Aries' own confirmed mechanism (a quiet stability-review protocol misread as menace, plus genuine grid fragility, never a repeated active threat); routed around below (and directly addressed in candidate 16).
+
+### 1. What the Log Doesn't Say It Witnessed
+**Starting point:** the Documentation Vaults, where the senior Documentarian (Notable Figure) maintains the district's two-century failure archive.
+**Chain:** cross-referencing an old, unremarkable contamination incident against Pisces' own oral Flood timeline turns up a suspiciously close date match — Virgo's own archive may hold the earliest physical record of a founding-era event it never knew it witnessed.
+**Fork:** bring the finding to Pisces' Believers, risking what a documented mechanical cause does to a faith built on ineffable dissolution; bring it to Aquarius instead, improving safety practice but risking them using it to minimize responsibility; or leave the decision with Virgo's own Documentarians, respecting institutional ownership even if it just gets filed again.
+**Consequence-test:** does a documentation habit built purely to prove Virgo's own worth to itself have any obligation to the district it accidentally illuminates?
+**Source:** Cross-Reference Finding 1; Throughway 2; in-district Questlines Thread 1.
+
+### 2. Further Than the Registry Allows
+**Starting point:** a Deep Level Access Point, restricted to trusted Undergrid families.
+**Chain:** a trusted family member wants to bring the player further into the Deep Level than protocol permits — not out of malice, but because they trust the player's judgment more than the rule itself.
+**Fork:** go along with it, honoring personal trust over institutional protocol; refuse, respecting the restriction even at the cost of the relationship; or find a middle path, going partway while formally reporting the request.
+**Consequence-test:** does a district organized around quiet, invisible competence have any real mechanism for handling a rule broken quietly, by someone trusted, for a reason that isn't wrong?
+**Source:** Full Extrapolation Section III; Community Infrastructure & Social Life — Deep Level Access Points.
+
+### 3. Whose Wall Is It Now
+**Starting point:** a Junction Box Gallery, curated by a recognized craftsperson.
+**Chain:** someone adds to the gallery without the original craftsperson's permission — technically within the district's own collective-decorating norms, but felt as a personal violation by the original artist.
+**Fork:** side with the original craftsperson's claim to the work; side with the district's own collective tradition, treating all additions as legitimate; or help negotiate a new, explicit norm for shared work going forward.
+**Consequence-test:** can a private aesthetic tradition made semi-public survive its own success, once more than one person wants to claim it?
+**Source:** Community Infrastructure & Social Life — Junction Box Galleries; Full Extrapolation Section II.
+
+### 4. Learning to Hear the Tunnels
+**Starting point:** a Sound/Tactile Navigation School, training the district's distinct sensory culture.
+**Chain:** a resident recently and permanently deafened or blinded in an accident needs this training out of urgent necessity, not tradition — testing whether a school built for cultural continuity can serve someone whose need is immediate and personal.
+**Fork:** help fast-track their training, bending the school's usual pacing; insist on the traditional pace, arguing rushing risks real safety in a lethal environment; or connect them with an Overclocked Frame veteran or a Deep Level Keeper for informal, faster mentorship instead.
+**Consequence-test:** does a culture that prizes precision over speed have room for someone who needs to learn fast because their life now depends on it?
+**Source:** Community Infrastructure & Social Life — Sound/Tactile Navigation Schools; Full Extrapolation Section I.
+
+### 5. A Lineage Someone Doesn't Recognize
+**Starting point:** the Undergrid Family Registries, tracking multi-generation tunnel-knowledge lineages.
+**Chain:** someone claims descent from a founding Undergrid family, seeking the standing that comes with it — but the family's current elders don't recognize the claim, whether from genuine doubt or old, unspoken grievance.
+**Fork:** help the claimant find proof, one way or the other; respect the elders' right to decide their own lineage's membership; or discover the dispute was never really about ancestry, but about something else the two sides never resolved.
+**Consequence-test:** does a district that measures belonging by generations of earned trust have a fair way to handle a claim it can't easily verify?
+**Source:** Community Infrastructure & Social Life — Undergrid Family Registries.
+
+### 6. The Archive the Leverage Holder Wants
+**Starting point:** the Year of Silence Archive, and the Leverage Holder (Notable Figure) actively pushing to invoke the Year of Silence again.
+**Chain:** the Leverage Holder wants access to the Archive's full tactical detail to make their case for repeating it — but doing so risks turning a once-proven, never-repeated demonstration into something routinely reached for, undermining exactly what made it credible.
+**Fork:** help them make the case using the Archive's own history, treating the district's restraint as having already been tested past its limit; argue the Archive's power depends on never being reached for casually, and help block the request; or bring the question to the wider district for a real collective decision, rather than one figure's own judgment.
+**Consequence-test:** does a leverage that "never needed repeating" survive someone credibly arguing it's finally time to repeat it?
+**Source:** Full Extrapolation Section VI; Community Infrastructure & Social Life — Year of Silence Archive; Throughway 1.
+
+### 7. A Frame That Won't Retire
+**Starting point:** the Overclocked Frame Retirement Homes, caring for service frames run far beyond design specification.
+**Chain:** a specific overclocked frame, formally scheduled for retirement, insists on continuing to work — its entire sense of purpose built around decades of exactly the kind of invisible, uncredited labor Virgo itself is known for.
+**Fork:** help it stay in service, honoring its own stated wishes at real risk to its remaining integrity; enforce the retirement, arguing the district owes it rest it won't ask for itself; or find it a reduced but meaningful role that satisfies both.
+**Consequence-test:** does a district that takes pride in its own invisibility know how to let one of its own finally be seen resting, rather than still working?
+**Source:** Community Infrastructure & Social Life — Overclocked Frame Retirement Homes; Concordia belief line.
+
+### 8. The Greeting That Didn't Land
+**Starting point:** an "Another Day Above Ground" Morning Circle, where shift crews exchange the district's standard greeting.
+**Chain:** a newcomer, unfamiliar with the ritual's actual weight, treats it as empty small talk — unintentionally landing as a real slight to crews for whom the greeting carries genuine, quiet significance.
+**Fork:** help the newcomer understand what the greeting actually means, repairing the relationship; let the misunderstanding stand, since not every outsider needs to be inducted into Virgo's private meanings; or discover the crew's own reaction says more about their own unresolved grief than about the newcomer's mistake.
+**Consequence-test:** can a private ritual survive being treated as ordinary by someone who genuinely doesn't know better?
+**Source:** Community Infrastructure & Social Life — Morning Circles; Full Extrapolation Section II.
+
+### 9. Read Aloud, Overheard
+**Starting point:** a Documentation Reading Night, a communal reading of old incident reports and repair logs.
+**Chain:** a specific old log, read aloud, accidentally reveals a detail of the district's private mourning ritual (leaving a shift-partner's junction box untouched, Full Extrapolation Section II) to people outside the small circle who were "actually there" — the private grief made public without anyone's consent.
+**Fork:** help contain the moment, keeping the ritual's meaning private going forward; let it become more widely known, letting the district's private grief finally be seen by surface districts too; or find whoever chose that log for reading and ask why.
+**Consequence-test:** does a communal reading tradition, built around Virgo's public documentation, have any real safeguard against exposing what the same documents weren't meant to say?
+**Source:** Community Infrastructure & Social Life — Documentation Reading Nights; Full Extrapolation Section II.
+
+### 10. Two Kinds of Underground
+**Starting point:** a working-class bar where a Documentarian crew and a Deep Level Keeper crew, off-shift, end up sharing a table.
+**Chain:** the Documentarians' entire ethos is built on recording everything; the Deep Level Keepers exist specifically to keep something deliberately unrecorded — the two crews' worldviews clash openly, for the first time either has had to defend itself directly to the other.
+**Fork:** help the Documentarians make their case for eventually logging the Deep Level like everything else; help the Keepers defend the value of what stays unrecorded; or let the disagreement stand unresolved, as something the district itself has never needed to settle.
+**Consequence-test:** can a single district hold both "we document everything" and "some things stay deliberately undocumented" as equally core to its own identity?
+**Source:** Community Infrastructure & Social Life — working class bars; Full Extrapolation Sections III, V.
+
+### 11. The Remembrance No One Announced
+**Starting point:** the Silence Remembrance, a quiet, never-publicized annual acknowledgment of the Year of Silence.
+**Chain:** an outsider — a surface-district visitor, or a newcomer to Virgo itself — stumbles into the gathering without knowing what it is, and the crews present have to decide, in the moment, whether to explain it.
+**Fork:** explain it fully, letting the private tradition become slightly more known; ask the outsider to simply leave, preserving the Remembrance's total privacy; or let them stay in respectful silence, without ever actually explaining what they're witnessing.
+**Consequence-test:** does a leverage that "never needed repeating" survive being witnessed by someone who has no idea what they're looking at?
+**Source:** Community Infrastructure & Social Life — The Silence Remembrance; Full Extrapolation Section IV.
+
+### 12. A Lineage He Didn't Ask For
+**Starting point:** an Undergrid Family Tunnel Walk, where an established family formally walks a younger worker through tunnels significant to their lineage.
+**Chain:** the younger worker resents the walk — they never wanted the weight of a multi-generation tunnel-knowledge legacy, and would rather forge their own reputation from nothing.
+**Fork:** help them find a respectful way to step back from the expected lineage role; help the family understand and accept a descendant who wants something different; or discover the resentment is really about something else in the family entirely, and the tunnels are just where it surfaced.
+**Consequence-test:** does a district that measures belonging by generations of earned trust leave any room for someone who doesn't want to inherit it?
+**Source:** Community Infrastructure & Social Life — Undergrid Family Tunnel Walks; Community Infrastructure — Undergrid Family Registries.
+
+### 13. Someone Who Won't Come Up
+**Starting point:** a Surface-Brightness Decompression Room, where workers gently transition and socialize after surface trips.
+**Chain:** a specific worker has started avoiding surface trips entirely, no longer using the room at all — not from injury, but from a growing preference for the tunnels over daylight that worries their crew more than it worries them.
+**Fork:** help the worker articulate and defend their own preference, treating it as valid rather than pathological; gently push them to keep some surface contact, worried about what total withdrawal means long-term; or discover a specific incident on the surface that explains the avoidance, changing the whole question.
+**Consequence-test:** does a district built to make surface life possible for others have room for one of its own who'd genuinely rather not go up at all?
+**Source:** Community Infrastructure & Social Life — Surface-Brightness Decompression Rooms.
+
+### 14. A Whisper That Went Somewhere It Shouldn't
+**Starting point:** the Deep Level Whisper Networks, carefully guarding what's known about the Deep Level person-to-person.
+**Chain:** a fragment of Deep Level knowledge — something small, but real — reaches someone clearly outside the trusted circle, and nobody in the network can determine how far it's actually traveled, or whether it's stopped.
+**Fork:** trace the leak fully, even if it means confronting someone trusted; let it go, judging the fragment too minor to chase down at real social cost; or use the scare as the reason to finally formalize the whisper network into something more structured, at the risk of losing what made it work.
+**Consequence-test:** can a deliberately unresolved mystery (the Deep Level's true origin, left open by design) survive a network built to protect it turning out to be more porous than anyone assumed?
+**Source:** Community Infrastructure & Social Life — Deep Level Whisper Networks; Full Extrapolation Section V.
+
+### 15. The One Who Wants to Be Seen
+**Starting point:** a quiet pride-in-invisibility workshop, training workers in the district's own ethos of unremarked competence.
+**Chain:** one participant pushes back against the workshop's entire premise — they want real, public credit for their work, not just quiet internal pride, and don't see why Virgo's culture should ask them to want otherwise.
+**Fork:** help them pursue public recognition, even though it cuts against the workshop's own teaching; help them find genuine peace with the district's invisibility ethos instead; or help them find a middle path — real credit within Virgo itself, without needing surface districts to notice.
+**Consequence-test:** does a culture built on pride in being unremarked have room for someone who, reasonably, wants to be remarked on anyway?
+**Source:** Community Infrastructure & Social Life — quiet pride-in-invisibility workshops.
+
+### 16. What the Review Actually Looks Like
+**Starting point:** a Virgo maintenance crew, on assignment in Aries during a resource-allocation dispute, present for one of Aries' own confirmed stability-review periods for the first time.
+**Chain:** the crew witnesses firsthand that the "reduced power" everyone in the city reads as implicit threat is actually a genuine, careful safety margin — the same kind of quiet, competence-driven caution Virgo itself practices, just in a district with no cultural language for explaining itself the way Virgo has learned to.
+**Fork:** help the crew bring this back to Virgo as evidence that Aries isn't the district Virgo's own culture assumes it is; let the crew keep the observation private, unsure it would change anything about the two districts' relationship regardless; or use the observation to finally explain, from outside, why Virgo's own post-war treatment stayed worse even after two separate proofs of its own indispensability — perhaps because Aries' own leverage was never actually a threat either, and both districts have spent decades being misread by the same city for the same reason.
+**Consequence-test:** can two districts that have each been quietly misunderstood by the rest of the city recognize the same misunderstanding happening to both of them, rather than just to themselves?
+**Source:** Cross-Reference Synthesis Finding 2 (corrected); Throughway 1 (the unexplained post-war-treatment asymmetry); Aries' own confirmed mechanism (`Cross_District_Power_Leverage_Alternatives.md`).
