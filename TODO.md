@@ -4,6 +4,14 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## District Under-Questlines — new diaspora-composition input ready, generation not yet started — flagged 2026-07-31
+
+Two new files now exist that substantially enrich the raw material `District_Under_Questline_Design_Method.md` draws on for each of Concordia's 13 districts: `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Refugee_Diaspora_Composition.md` (population-weighted breakdown of which outer Tepenian cities' refugee-diaspora populations live in each district, plus specific named Addition-location and Social Cohesion Mechanism transplants per contributing city, all summing to exactly 100% per district) and the 2026-07-31 diaspora-informed extension of all 13 `Deep_Dives/[NN]_[District]_Deep_Dive.md` files (4-5 new cross-referenced findings per district, each citing a specific diaspora fact and chasing it to a genuinely new implication — several of real quality, e.g. the Hub's Princess Elisabeth finding proposes an actual working answer to the long-standing "no Bridge Memorial ceremony has ever survived council review" problem).
+
+**Not yet actioned:** nobody has run `District_Under_Questline_Design_Method.md` against this new material yet. This directly feeds the existing "District Main vs. Under-Questline candidates — generate more" item in `Weekly_To-Do_-_Current.md`/below — the diaspora file's own named communities, specific friction/fit dynamics, and the newly-added Deep Dive findings (particularly the ones explicitly flagged as "fertile Under-Questline material" in-line) are exactly the kind of concrete, named hook material the Under-Questline method needs and previously didn't have at this level of specificity. Natural next step whenever this gets picked back up.
+
+---
+
 ## Remaining Municipal Holidays gaps — flagged 2026-07-31, deliberately deferred, not urgent
 
 A full-corpus scan (all 35 cities' `Local_Cultures` sheets) found that cuisine, social contract, and religion are fully developed everywhere except Vostok (now resolved — see `Local_Cultures/Mirny_Subnet/Vostok.md`). Municipal Holidays is the one category with real remaining gaps: **Belgrano** (`Local_Cultures/Halley_Subnet/Belgrano.md` Section 26) is completely blank, *"(TBD — not yet established.)"* — the closest analog to what Vostok had. **Kunlun** and **Casey** have partial gaps (individual heritage-community observances unaddressed; open question whether a transit/function-organized city even has many observances at all). **Mirny (city)** and **Esperanza** have trivial "additional observances: TBD" stubs sitting on top of an already-established primary holiday. Per direct developer instruction (2026-07-31), this isn't urgent — pick it up whenever convenient.

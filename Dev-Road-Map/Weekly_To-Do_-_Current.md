@@ -54,6 +54,39 @@ file and start a fresh one for the next stretch of work).
   4 of 9 already resolved; the remaining 5 all have candidate alternatives already written up. See
   `Cross_District_Non_Malice_Audit.md` and `TODO.md`'s "Decision Required" section.
 
+- [ ] **Per-district inter-city conflicts — measure, assess, derive, and synthesize** *(flagged 2026-07-31)*
+  Using `District_Refugee_Diaspora_Composition.md`'s own weighted composition per district, work through what
+  "cultural conflicts" would plausibly arise (a) **between different refugee-diaspora populations sharing the
+  same district** (e.g. two source cities whose established values or social norms genuinely clash, not just
+  differ) and (b) **between a district's refugee-diaspora population(s) and that district's own native/local
+  population and established culture**. This is a distinct pass from the diaspora file's own "brought with
+  them" transplant framing (which is about what each community contributes) and from the Deep Dive diaspora
+  findings (which chase implications, not necessarily friction) — this pass is specifically about identifying
+  and naming genuine points of tension. Natural companion to the item below, and further raw material for
+  Under-Questline generation once both passes exist.
+
+- [ ] **Per-district inter-city friendships — measure, assess, derive, and synthesize** *(flagged 2026-07-31)*
+  The positive counterpart to the conflicts item directly above. Using `District_Refugee_Diaspora_Composition.md`'s
+  own weighted composition per district, work through what "cultural crossovers" — genuine common ground,
+  not just peaceful coexistence — would plausibly arise (a) **between different refugee-diaspora populations
+  sharing the same district** (e.g. two source cities whose established values or social practices actually
+  reinforce or complement each other) and (b) **between a district's refugee-diaspora population(s) and that
+  district's own native/local population and established culture**. Same distinction as the conflicts item:
+  this is about identifying and naming specific, genuine points of connection — ways people would actually
+  find common ground — not a repeat of the diaspora file's own "brought with them" transplant framing or the
+  Deep Dive findings. Further raw material for Under-Questline generation once both passes exist.
+
+- [ ] **Per-district ordinary daily life — measure, assess, derive, and synthesize** *(flagged 2026-07-31)*
+  Go through each of the 13 districts and work out what an ordinary resident's actual day-to-day life is
+  like — daily routines, mundane concerns, personal struggles, and forms of personal escapism/downtime —
+  distinct from whatever that district's own defining civic identity or institutional purpose is. Explicit
+  example from the developer: Scorpio residents cannot plausibly spend every waking moment in a death ritual
+  confessing their grief; people have lives outside of a district's headline function, and those ordinary
+  lives are currently underexplored across the corpus. This is a third, distinct pass alongside the conflicts
+  and friendships items directly above — not about inter-community dynamics at all, but about what any single
+  resident's own life actually consists of day to day. Further raw material for Under-Questline generation
+  (and general NPC/character writing) once all three passes exist.
+
 - [ ] **District Main vs. Under-Questline candidates — generate more**
   Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
   are established; each district currently has only its *first* main-questline candidate. Main questlines:
@@ -61,7 +94,11 @@ file and start a fresh one for the next stretch of work).
   exactly one. Under-Questlines: generate a floor of 5 (ideally 15-20) per district, anchored to a
   "significant starting point" (a named figure or a data-point at a significant location) — and, unlike main
   questlines, **keep all of them**, no narrowing. See `project_district_questline_production_workflow`
-  memory for the full workflow.
+  memory for the full workflow. **Updated 2026-07-31 — new input material ready:** `District_Refugee_Diaspora_Composition.md`
+  (weighted diaspora composition + specific named cultural transplants per district) and the matching
+  2026-07-31 diaspora-informed extension of all 13 `Deep_Dives/[NN]_[District]_Deep_Dive.md` files (4-5 new
+  findings each) give this generation pass real, specific, named hook material it didn't have before — see
+  `TODO.md`'s own new entry for the full picture. Not yet run.
 
 ---
 
