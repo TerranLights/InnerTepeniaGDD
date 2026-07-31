@@ -221,7 +221,7 @@ The most immediately useful finding here is **Finding 2** — it's the one with 
 
 # Shirayuki — Community Infrastructure & Social Life
 
-**What this is:** concrete physical spaces, small institutions, and recurring social rituals that give Shirayuki's already-established culture a tangible, ground-level presence — the same pass done for each of Concordia's 13 districts and for Mirny, Casey, Davis, and Kunlun, extended here. Drawn from `Shirayuki_Mega_Init.md`, `Shirayuki_Full_Extrapolation.md`, `Shirayuki_Cross_Reference_Synthesis.md`, and `Local_Cultures/Mirny_Subnet/Shirayuki.md`. Written 2026-07-30.
+**What this is:** concrete physical spaces, small institutions, and recurring social rituals that give Shirayuki's already-established culture a tangible, ground-level presence — the same pass done for each of Concordia's 13 districts and for Mirny, Casey, Davis, and Kunlun, extended here. **Expanded 2026-07-31** per direct developer instruction — Shirayuki's own huge, defining amateur arts-and-music scene warranted a noticeably longer list than the original 2026-07-30 pass produced; new items below are integrated directly into the existing lists rather than kept separate. Drawn from `Shirayuki_Mega_Init.md`, `Shirayuki_Full_Extrapolation.md`, `Shirayuki_Cross_Reference_Synthesis.md`, and `Local_Cultures/Mirny_Subnet/Shirayuki.md`. Written 2026-07-30.
 
 ---
 
@@ -233,6 +233,10 @@ The most immediately useful finding here is **Finding 2** — it's the one with 
 - **The Bharati Gallery Halls** — former research labs converted into gallery and studio space, the throughline from Bharati Station's original research infrastructure.
 - **The Founders' Garden** — the physical site tied to the observance celebrating the city's research, education, and arts identity.
 - **The Cluster Boundary Walk** — an informal path crossing into Sinheung's and Zhongshan's own territory.
+- **The Battle Halls** *(added 2026-07-31)* — informal, recurring venues built for direct band-vs-band and performer-vs-performer competitive showcases, distinct in spirit from the collaborative, friends-and-neighbors Glacier-Pop Living Rooms.
+- **Home Recording Dens** *(added 2026-07-31)* — informal, bedroom-studio-style recording setups scattered across residential blocks, the amateur scene's own lower-stakes counterpart to the Institute's formal production training.
+- **Street Corner Stages** *(added 2026-07-31)* — small, semi-permanent busking platforms placed throughout the city, giving beginner performers a genuinely lower-stakes venue than either the Battle Halls or the established Glacier-Pop circuit.
+- **The Runway Halls** *(added 2026-07-31)* — dedicated spaces for actually showing finished Ashiato work in front of an audience, a step up in formality from the Ateliers' own workshop-scale garment-making.
 
 ## Small offices for educational training
 
@@ -249,9 +253,13 @@ The most immediately useful finding here is **Finding 2** — it's the one with 
 - **Glacier-Pop House Shows** — recurring informal music performances in friends-and-neighbors spaces.
 - **Cluster Suppers** — extended, unhurried shared meals crossing into Sinheung's and Zhongshan's own territory, embodying the slow multi-generational warming into today's cluster intimacy.
 - **Institute Placement Nights** — informal gatherings, part mentorship and part social introduction, where graduating Institute students are connected into the Ashiato and Glacier-pop circles they came to the city hoping to join.
+- **Battle Nights** *(added 2026-07-31)* — the competitive counterpart to Glacier-Pop House Shows, held at the Battle Halls, with genuine local rivalries and reputations at stake between regular performers.
+- **Runway Evenings** *(added 2026-07-31)* — seasonal showcases of the Ashiato Ateliers' own finished work at the Runway Halls, garments actually worn and judged rather than simply traded.
+- **Corner Stage Debuts** *(added 2026-07-31)* — the informal, low-stakes tradition of a performer's very first public set happening at a Street Corner Stage, long before they're considered ready for the Battle Halls or Glacier-Pop circuit.
+- **Album Drop Nights** *(added 2026-07-31)* — informal gatherings marking the release of a Home Recording Den project, treated with real, if modest, ceremony among friends and neighbors.
 
 ---
 
 ## Worth Your Attention
 
-The Shirayuki Institute of Applied and Fine Arts and Institute Placement Nights are the standout items — together they give the city's own established "students come for the culture, the schools are the entry point" pattern (Local Cultures Section 7) a concrete named institution and a concrete social mechanism, turning an abstract migration pattern into something a questline could actually anchor to.
+The Shirayuki Institute of Applied and Fine Arts and Institute Placement Nights remain the standout items — together they give the city's own established "students come for the culture, the schools are the entry point" pattern (Local Cultures Section 7) a concrete named institution and a concrete social mechanism, turning an abstract migration pattern into something a questline could actually anchor to. The 2026-07-31 expansion above fills out the actual *scale* of that culture once students arrive: a beginner's on-ramp (Street Corner Stages, Corner Stage Debuts), a competitive tier (Battle Halls, Battle Nights), and genuine amateur production infrastructure (Home Recording Dens, Album Drop Nights) that didn't exist in the file before, alongside the Ashiato scene's own Runway Halls giving its garment culture an actual audience-facing venue to graduate into.
