@@ -78,5 +78,89 @@ engineering problems); Pink Lucy's origin city.
 
 ---
 
-**12 attributes derived for Dumont d'Urville as of 2026-07-30.** Methodology #2 deliberately deferred —
-see `Weekly_To-Do_-_Current.md`.
+**12 attributes derived for Dumont d'Urville as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 12 attributes above against Dumont d'Urville's own existing lore —
+`Dumont_dUrville_Full_Extrapolation.md` and `Dumont_dUrville_Cross_Reference_Synthesis.md` (which already
+holds 3 Findings of its own, written 2026-07-07). Proportionate, moderate depth per this subnet's own
+weighting — Janbogo and Fort McMurdo carry the deepest treatment. Written 2026-07-30.
+
+### Finding A: attributes #6–8 are, physically, the exact stakes Finding 2 already identifies as load-bearing
+
+**Combining:** attributes #6–8 (heating infrastructure between downtown buildings, the Downtown Eateries-
+with-Stages district, spatially stratified real estate radiating outward from the downtown core) + the
+existing Cross-Reference Synthesis's Finding 2 (the downtown music culture may be load-bearing to the city's
+own post-war survival, not merely a surviving amenity).
+
+**2nd-order effect:** these three attributes collectively are "downtown" in exactly the physical sense
+Finding 2's own stakes argument depends on — the specific systems that would be at risk if any future crisis
+threatened the core rather than the outlying, already-damaged sections.
+
+**3rd-order effect:** gives Finding 2's own genuinely significant claim (downtown's survival, not the city's
+raw population count, is the real stake) a concrete set of physical systems to point to for any future DLC
+content built around testing that claim.
+
+### Finding B: repair-priority logic should follow Finding 2's own downtown-first argument, if the city behaves consistently with its own established stakes
+
+**Combining:** attribute #12 (ongoing repair infrastructure reflecting a mix of damaged and intact sections)
++ the existing Cross-Reference Synthesis's Finding 2 (the outlying damaged sections have already been
+absorbed into the city's ongoing existence; a comparable level of damage to downtown specifically would
+threaten something the outlying damage doesn't).
+
+**2nd-order effect:** if Dumont d'Urville's own repair priorities are internally consistent with Finding 2's
+own logic, they should weight toward protecting the downtown core specifically over further repair to the
+already-absorbed outlying sections.
+
+**3rd-order effect:** gives a concrete, checkable prediction for any future environmental design — downtown
+should read as the best-maintained part of the city, not merely the most commercially dense.
+
+### Finding C: the foundation engineering is the physical confirmation of Dumont d'Urville's own "unglamorous, accidental" founding logic
+
+**Combining:** attribute #1 (foundation and structural engineering on Petrel Island's own exposed rock) +
+the existing Cross-Reference Synthesis's Finding 3 (Dumont d'Urville's whole significance rests on modest,
+disconnected, unglamorous facts — Petrel Island chosen because its rock was buildable, not for any
+expectation of significance).
+
+**2nd-order effect:** attribute #1 is the direct, attribute-level match to Finding 3's own founding-logic
+claim — the foundation exists specifically because the site was practically buildable, not for any strategic
+or symbolic reason.
+
+**3rd-order effect:** reinforces Finding 3's own broader "modest but durable" throughline with a concrete
+piece of physical evidence, the same practical logic that also shapes the city's language persistence
+(Finding 1) and its downtown culture (Finding 2).
+
+### Finding D: the bridge question's own deliberate openness should stay explicitly unresolved in any future pass
+
+**Combining:** attribute #3 (whatever partial bridge infrastructure exists, if any — explicitly open) + the
+Full Extrapolation's Section III (the mainland bridge question is deliberately left open, "not a placeholder
+awaiting a quick answer").
+
+**2nd-order effect:** worth flagging directly for any future pass touching this attribute — this is
+intentional, developer-instructed openness, not an oversight waiting to be filled in.
+
+**3rd-order effect:** the full engineering brainstorm already on record in `Specs/Dumont_dUrville.md`
+(flutter risk, pack ice loads, maintenance access) remains the complete state of this question until the
+developer decides otherwise — nothing in this Methodology #2 pass should be read as resolving it.
+
+### Finding E: the Channel Crossing's shoulder-season gap remains the same shared, unresolved mechanic flagged for Fort McMurdo
+
+**Combining:** attribute #2 (the Channel Crossing, shoulder-season transition explicitly flagged as
+unresolved) + Fort McMurdo's own Methodology #2 Finding F, written earlier in this same subnet pass,
+flagging the identical dual-mode-crossing mechanic shared between the two cities.
+
+**2nd-order effect:** confirms the cross-reference from this city's own side — the mechanic remains
+unresolved and touches both cities identically.
+
+**3rd-order effect:** reiterates Fort McMurdo's own Finding F directly: whenever this gets resolved, it
+should be resolved once for both cities together, not independently re-derived for each.
+
+---
+
+**5 Findings derived for Dumont d'Urville as of 2026-07-30 — combined with the existing 3 Findings in
+`Dumont_dUrville_Cross_Reference_Synthesis.md`, Dumont d'Urville now has 8 total Cross-Referenced
+Extrapolation Findings on file.** Methodology #2 continues with the remaining 2 Janbogo subnet cities — see
+`Weekly_To-Do_-_Current.md`.

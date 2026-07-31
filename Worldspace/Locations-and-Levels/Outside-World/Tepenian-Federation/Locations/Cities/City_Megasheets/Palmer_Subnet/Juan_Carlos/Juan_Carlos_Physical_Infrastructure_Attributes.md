@@ -74,5 +74,92 @@ gathering tradition tied to café and discussion culture.
 
 ---
 
-**9 attributes derived for Juan Carlos as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**9 attributes derived for Juan Carlos as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 9 attributes above against Juan Carlos's own existing lore —
+`Juan_Carlos_Full_Extrapolation.md` and `Juan_Carlos_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-07). Proportionate, moderate depth per this subnet's own weighting —
+Palmer City carries the deepest treatment. Written 2026-07-30.
+
+### Finding A: the Archivist's Personal Notes site is the exact confirmation of Juan Carlos's own deepest cultural pattern
+
+**Combining:** attribute #9 (the Archivist's Personal Notes site) + the existing Cross-Reference Synthesis's
+Finding 3 (what survived the strike fits a much older pattern in Juan Carlos's own culture — personal,
+curated, semi-private preservation, the same instinct behind the gathering tradition, not a convenient plot
+mechanism).
+
+**2nd-order effect:** attribute #9 is the exact physical confirmation of Finding 3's own claim — the
+surviving artifact is precisely the kind of small, personal, informally-kept record the gathering tradition
+already established as the city's deepest civic instinct.
+
+**3rd-order effect:** gives Finding 3's own rich thematic reading a concrete, named location rather than
+leaving the connection purely conceptual — a specific site any future "Archivist's Trail" content could
+actually use.
+
+### Finding B: the damage scale should reflect a security-only strike, distinct from Zukelli's own visible message
+
+**Combining:** attribute #8 (whatever remains at a scale consistent with a strike calibrated against a
+specific administrative target) + the existing Cross-Reference Synthesis's Finding 2 (Juan Carlos's
+destruction had no deterrent component, only a security one — no possible witness given its geographic
+isolation, unlike Zukelli's own witness-dependent strike).
+
+**2nd-order effect:** attribute #8's own framing directly extends Finding 2's newly-identified strike-
+doctrine distinction — the physical damage pattern here should read as security-driven precision, not
+Zukelli's own deliberately visible, message-sending obliteration.
+
+**3rd-order effect:** gives any future environmental design a concrete visual instruction distinct from
+Zukelli's own total-obliteration register — Juan Carlos's ruins should read as thorough but purposeful,
+without the same intended-to-be-witnessed quality.
+
+### Finding C: the Hosted Gathering Houses are the origin buildings of a tradition that spread to three Concordia districts
+
+**Combining:** attributes #6–7 (the Hosted Gathering Houses, the Café Discussion Halls) + the existing
+Cross-Reference Synthesis's Finding 3 (the gathering tradition's own established export into Leo, Taurus,
+and Pisces districts).
+
+**2nd-order effect:** attributes #6–7 are literally the source buildings of a cultural tradition that, per
+Finding 3, later took root in three separate Concordia districts.
+
+**3rd-order effect:** worth naming as a genuine point of cultural export nothing in the existing lore had
+connected back to a specific physical origin before — these two buildings are where a tradition now living
+in three different parts of Concordia actually began.
+
+### Finding D: the Archive Complex looked exactly as unremarkable as the rest of the city, which is Finding 1's own entire point
+
+**Combining:** attributes #1–2 (the Archive Complex, secure record-processing infrastructure for the watch on
+former officials) + the existing Cross-Reference Synthesis's Finding 1 (Juan Carlos's civic scale and its
+historical significance are almost inversely related — residents likely unaware of how consequential their
+ordinary work actually was).
+
+**2nd-order effect:** attributes #1–2 describe buildings physically indistinguishable from any other city's
+ordinary administrative infrastructure — nothing about their appearance would have signaled their true
+importance.
+
+**3rd-order effect:** confirms Finding 1's own central claim directly — the mismatch between modest
+appearance and genuine historical weight isn't just a civic-character observation, it's built into the
+literal architecture.
+
+### Finding E: genuine physical isolation plausibly produced the city's own private, self-aware nickname
+
+**Combining:** attributes #4–5 (maritime/aviation-only access infrastructure, Livingston Island harbor) + the
+Full Extrapolation's Section VI (a Hay-on-Wye-style self-mythologized identity — residents half-jokingly
+calling their own city "the Federation's memory," worn with wry pride).
+
+**2nd-order effect:** a city this genuinely hard to reach, holding this much historically real but locally
+unrecognized significance, developing a private inside joke about its own quiet importance is a plausible,
+earned cultural response rather than an arbitrary detail.
+
+**3rd-order effect:** ties Section VI's own playful civic self-image directly to the city's established
+physical isolation — the nickname reads as something residents could only have developed precisely because
+almost no one from outside was ever around to hear it.
+
+---
+
+**5 Findings derived for Juan Carlos as of 2026-07-30 — combined with the existing 3 Findings in
+`Juan_Carlos_Cross_Reference_Synthesis.md`, Juan Carlos now has 8 total Cross-Referenced Extrapolation
+Findings on file.** Methodology #2 continues with the remaining 5 Palmer subnet cities — see
 `Weekly_To-Do_-_Current.md`.

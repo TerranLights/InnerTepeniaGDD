@@ -77,5 +77,90 @@ culture was transient and logistics-oriented, comparable to Fort McMurdo's own o
 
 ---
 
-**9 attributes derived for Marambio as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**9 attributes derived for Marambio as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 9 attributes above against Marambio's own existing lore —
+`Marambio_Full_Extrapolation.md` and `Marambio_Cross_Reference_Synthesis.md` (which already holds 2 Findings
+of its own, written 2026-07-08). Proportionate, moderate depth per this subnet's own weighting — Palmer City
+carries the deepest treatment. Written 2026-07-30.
+
+### Finding A: the Shipyards are the physical infrastructure behind Marambio's resolved shipping division of labor with Esperanza
+
+**Combining:** attributes #3–4 (the Marambio Shipyards, dual-role port infrastructure) + the Full
+Extrapolation's Section VI (the Marambio/Esperanza shipping division — Marambio handles bulk, high-volume,
+less-differentiated cargo; Esperanza handles smaller-scale, higher-value shipments).
+
+**2nd-order effect:** the Shipyards' own established scale is specifically what makes bulk cargo handling
+possible, a genuine physical distinction from Esperanza's own smaller Hope Bay Harbor infrastructure.
+
+**3rd-order effect:** gives Section VI's own resolved division-of-labor question a concrete, comparative
+physical anchor across two cities' own Attributes files, rather than resting purely on the single
+established Griselda Alejandra Chávez piano example.
+
+### Finding B: the coordination infrastructure is what made Marambio durable in exactly the way Gander never was
+
+**Combining:** attribute #5 (coordination infrastructure linking the airfield and shipyard operations) + the
+Full Extrapolation's Section VII (Marambio's aviation relevance was never under Gander-style obsolescence
+pressure, because its importance came from diversification across two logistics modes, not single-mode
+dependency).
+
+**2nd-order effect:** attribute #5 is the literal physical infrastructure implementing Section VII's own
+resolved "diversification, not single dependency" argument — the systems tying the two modes together are
+what actually made Marambio's centrality durable.
+
+**3rd-order effect:** reinforces Section VII's own structural contrast with Gander — Marambio's own downfall
+came only by force (a targeted strike), never by the kind of technological obsolescence that ended Gander's
+relevance in the real world.
+
+### Finding C: the Picnic Passage Causeway carries real emotional weight precisely because it still works
+
+**Combining:** attribute #7 (the Picnic Passage Causeway) + the Full Extrapolation's Section II (the causeway
+plausibly survived intact, now a purposeless bridge to nowhere connecting Hwy 1 to a destination that no
+longer exists).
+
+**2nd-order effect:** attribute #7 directly confirms Section II's own quietly haunting image — a structure
+performing its exact designed function, for no one.
+
+**3rd-order effect:** worth naming as a distinctive piece of Marambio's ruins-exploration character — unlike
+crumbling infrastructure, the causeway's continued functionality is itself the tragedy, a rare case where
+something intact is sadder than something broken.
+
+### Finding D: the Comandante's Operations Hall is where Marambio's own unexamined version of Janbogo's inversion actually lives
+
+**Combining:** attribute #6 (the Comandante's Operations Hall) + the existing Cross-Reference Synthesis's
+Finding 2 (Marambio may be an unexamined version of Janbogo's own signature cultural inversion — founding
+institutional discipline outliving the founders' own demographic minority status, but never named or
+reflected upon the way Janbogo's version was).
+
+**2nd-order effect:** the Hall is the concrete building where that unexamined institutional inheritance
+Finding 2 describes actually persisted — operational discipline continuing regardless of who staffed it,
+with no established civic reflection on the pattern.
+
+**3rd-order effect:** gives Finding 2's own speculative, generative observation a physical anchor — a real
+place where a future scene could show the pattern playing out without anyone in-world remarking on it,
+consistent with Marambio's own function-over-reflection civic character.
+
+### Finding E: the concentrated ruins should read as one efficient strike, not two separate targeting decisions
+
+**Combining:** attributes #8–9 (structural engineering on flat, indefensible ground; whatever remains legible
+of both destroyed logistics systems together) + the existing Cross-Reference Synthesis's Finding 1
+(Marambio's original destruction reasoning predates its own dual identity and now undersells the attack's
+efficiency — a single strike took out both the airfield and the shipyards at once).
+
+**2nd-order effect:** attributes #8–9's own framing (both systems destroyed together, on the same
+indefensible ground) is the direct physical confirmation of Finding 1's own updated, more devastating
+destruction account.
+
+**3rd-order effect:** gives environmental design a concrete instruction — the ruins should visually read as
+evidence of one efficient strike hitting a concentrated target, not as two separate, sequential attacks.
+
+---
+
+**5 Findings derived for Marambio as of 2026-07-30 — combined with the existing 2 Findings in
+`Marambio_Cross_Reference_Synthesis.md`, Marambio now has 7 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 4 Palmer subnet cities — see
 `Weekly_To-Do_-_Current.md`.

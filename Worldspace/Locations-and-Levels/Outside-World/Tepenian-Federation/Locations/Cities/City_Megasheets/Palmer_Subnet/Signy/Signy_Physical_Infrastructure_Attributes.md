@@ -72,5 +72,93 @@ connection to St. Ernest (Shackleton) of any city in the Federation.
 
 **8 attributes derived for Signy as of 2026-07-30. This completes Methodology #1 (Base Attributes) for the
 entire Palmer subnet — Palmer City, Esperanza, Juan Carlos, Marambio, Port Lockroy, Rothera, Sejong, and
-Signy — and, with it, all 34 non-Byrd DLC cities across all 5 subnets.** Methodology #2 (Cross-Referenced
-Extrapolation Findings) is now unblocked for all 34 cities — see `Weekly_To-Do_-_Current.md`.
+Signy — and, with it, all 34 non-Byrd DLC cities across all 5 subnets.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 8 attributes above against Signy's own existing lore —
+`Signy_Full_Extrapolation.md` and `Signy_Cross_Reference_Synthesis.md` (which already holds 3 Findings of
+its own, written 2026-07-08). Proportionate, moderate depth per this subnet's own weighting — Palmer City
+carried the deepest treatment. Written 2026-07-30. **Closes out the Palmer subnet's Methodology #2 pass and,
+with it, Methodology #2 for all 34 non-Byrd DLC cities.**
+
+### Finding A: the Endurance Span is literally load-bearing for both the historical tribute and the daily ritual at once
+
+**Combining:** attribute #2 (the Endurance Span) + attributes #1 and #3 (Signy Island's dock, Coronation
+Island's residential infrastructure) + the existing Cross-Reference Synthesis's Finding 2 (the bridge's
+proposed name accidentally names a daily ritual — residents' own fishing commute unintentionally echoing the
+historic Endurance crossing).
+
+**2nd-order effect:** the same physical structure carries both meanings simultaneously — the bridge is the
+literal, load-bearing connection between the two islands attributes #1 and #3 describe, and it's also the
+site of Finding 2's own observed daily-ritual echo.
+
+**3rd-order effect:** worth naming directly: unlike a purely symbolic monument, the Endurance Span's
+resonance is inseparable from its ordinary daily function — the naming and the routine use are the same
+physical fact, not two things happening to share a location.
+
+### Finding B: the Wind-and-Hydro Power Works confirms Signy's post-war situation is mixed, not uniformly precarious
+
+**Combining:** attribute #7 (the Wind-and-Hydro Power Works) + the Full Extrapolation's Section XI (Signy's
+own power self-sufficiency, modeled on El Hierro's real-world precedent — one resolved vulnerability, not a
+second undiscussed crisis alongside the siligel shortage).
+
+**2nd-order effect:** attribute #7 confirms Section XI's own resolved self-sufficiency question directly —
+a genuine asset, distinct from attribute #8's own unresolved vulnerability.
+
+**3rd-order effect:** worth naming clearly: Signy's post-war reality is a mix of resolved strength (power,
+food) and unresolved crisis (siligel specifically), not a uniformly precarious situation — the city's own
+established "looks fine on arrival" framing holds up precisely because most of what it needs, it already
+has.
+
+### Finding C: the Biological Research Station's intact status is one more fact reinforcing Signy's unusual internal consistency
+
+**Combining:** attribute #4 (the Biological Research Station, fully intact and undamaged) + the existing
+Cross-Reference Synthesis's Finding 3 (Signy's Enneagram compatibility isn't coincidence — every established
+fact about the city, regardless of source, points toward the same settled, unhurried, undisturbed character).
+
+**2nd-order effect:** attribute #4's own established survival status is entirely consistent with, not merely
+compatible with, Finding 3's own observation — a city too remote to be worth striking would plausibly also
+be a city whose founding-era research infrastructure was never disturbed.
+
+**3rd-order effect:** adds a fourth independent data point to Finding 3's already-strong claim — Signy may be
+the single most internally consistent city profile in the entire project, and attribute #4 is one more fact
+that fits without complication rather than adding tension.
+
+### Finding D: the siligel infrastructure is the literal physical site where Signy's double-edged isolation plays out
+
+**Combining:** attribute #8 (siligel storage and rationing infrastructure) + the existing Cross-Reference
+Synthesis's Finding 1 (Signy's survival trait and its post-war vulnerability are the same fact viewed from
+two directions, unlike Rothera's or Port Lockroy's own one-directional survival mechanisms).
+
+**2nd-order effect:** attribute #8 is the concrete physical location where Finding 1's own defining
+observation actually plays out — storage and rationing infrastructure for a resource that can't be locally
+replenished, precisely because the same isolation that once protected the city now can't be crossed to
+resupply it.
+
+**3rd-order effect:** gives Finding 1's own genuinely distinctive thematic claim (isolation as both asset and
+liability, ironic in a way neither Rothera's nor Port Lockroy's survival story is) a specific building where
+that irony is physically, daily lived rather than only true in the abstract.
+
+### Finding E: the Floating Extension Platforms are the concrete legacy of Signy's own placeholder engineer
+
+**Combining:** attribute #6 (the Floating Extension Platforms) + the Full Extrapolation's Section II
+(placeholder figure Platform Engineer Declan Ferreira-Whitcombe, credited with designing the platforms that
+let Signy's fishing economy reach beyond the coastline).
+
+**2nd-order effect:** attribute #6 is the concrete facility that placeholder figure is credited with actually
+creating — a real engineering legacy, not just an abstract credit.
+
+**3rd-order effect:** gives Ferreira-Whitcombe a genuine physical location tied to his legacy, the same
+upgrade pattern applied to numerous placeholder Notable Figures across this entire Methodology #2 pass.
+
+---
+
+**5 Findings derived for Signy as of 2026-07-30 — combined with the existing 3 Findings in
+`Signy_Cross_Reference_Synthesis.md`, Signy now has 8 total Cross-Referenced Extrapolation Findings on
+file. This completes Methodology #2 for the entire Palmer subnet** — Palmer City (16 total), Esperanza (8),
+Juan Carlos (8), Marambio (7), Port Lockroy (8), Rothera (8), Sejong (8), Signy (8) — **and, with it,
+Methodology #2 (Cross-Referenced Extrapolation Findings) for all 34 non-Byrd DLC cities across all 5
+subnets.** See `Weekly_To-Do_-_Current.md`.

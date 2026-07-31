@@ -75,5 +75,95 @@ without formal institutional command.
 
 ---
 
-**11 attributes derived for Belgrano as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**11 attributes derived for Belgrano as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 11 attributes above against Belgrano's own existing lore —
+`Belgrano_Full_Extrapolation.md` and `Belgrano_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-09). Proportionate, moderate depth per this subnet's own weighting —
+Sanay, Troll, and Neumayer carry the deepest treatment. Written 2026-07-30.
+
+### Finding A: the Working Records Hall is the physical site of Belgrano's own "accidentally resilient" archival habit
+
+**Combining:** attribute #6 (the Working Records Hall) + the Full Extrapolation's Section III (the
+Byrd-founding maps were never a dedicated archive, just ordinary institutional recordkeeping later found to
+matter) + the existing Cross-Reference Synthesis's Finding 3 (Belgrano's archival instinct explains why it's
+psychologically "furthest along" among Tepenia's destroyed/ruined-city communities).
+
+**2nd-order effect:** the Records Hall is specifically the building where that already-established,
+quietly-resilient civic habit physically lives — a concrete anchor for what Finding 3 otherwise describes
+only as an abstract trait.
+
+**3rd-order effect:** gives one of this subnet's most consequential existing observations (a habit never
+designed for resilience turning out to provide it anyway) an actual location, the same upgrade several other
+cities' Findings have gained this session.
+
+### Finding B: the Rastra Garages and Fabrication Yards are exactly where Finding 2's own cross-DLC part would turn up
+
+**Combining:** attributes #3–5 (the Rastra Garages, Spare-Parts Fabrication Yards, original vehicle-design
+and prototyping infrastructure) + the existing Cross-Reference Synthesis's Finding 2 (the DLC 4 cross-DLC
+aircraft part as a direct artifact of Belgrano's own established garage/mechanic culture, not a coincidental
+placement).
+
+**2nd-order effect:** these specific facilities are the concrete physical sites Finding 2 already gestures
+toward in the abstract — exactly the kind of place a stray, specifically-shaped, useful part would
+plausibly turn up and be quietly preserved.
+
+**3rd-order effect:** reinforces Finding 2's own conclusion that the item's placement is legible
+characterization, not coincidence, now with an actual building to point to.
+
+### Finding C: attribute #9 is the institutional structure Yolanda Petrescu is credited with actually building
+
+**Combining:** attribute #9 (infrastructure supporting organized, rotation-based maintenance) + the Full
+Extrapolation's Section II (the proposed figure Jefa de Mantenimiento **Yolanda Petrescu** — placeholder
+name, not developer-chosen, flagged directly here since it may well be renamed — credited with formalizing
+the maintenance rotations that kept Belgrano functioning once institutional command collapsed).
+
+**2nd-order effect:** attribute #9 is the concrete organizational infrastructure Section II's placeholder
+figure is credited with actually creating — a real institutional legacy, not just an abstract credit.
+
+**3rd-order effect:** gives this placeholder figure a genuine physical/organizational footprint to be written
+into a scene around, the same kind of upgrade several placeholder Notable Figures have received across this
+Methodology #2 pass — the footprint itself (attribute #9) stays valid regardless of whatever name ends up
+attached to it.
+
+### Finding D: the Airfield itself was plausibly the seat of Belgrano's own extended civic command structure
+
+**Combining:** attributes #1–2 (the Belgrano Airfield Hangars, aircraft maintenance and fueling
+infrastructure) + the Full Extrapolation's Section I (Comodoro Villanueva-Krause's defining choice — extending
+Air Force command structure over the whole civilian population rather than letting separate civic
+government develop alongside it).
+
+**2nd-order effect:** if no separate civic government ever developed, the Airfield itself — not a dedicated
+city hall or administrative building — plausibly functioned as the literal seat of Belgrano's own civic
+authority for generations.
+
+**3rd-order effect:** worth naming directly as a genuinely unusual civic-military fusion among Tepenian
+cities — Belgrano's entire governance history running through the same physical location as its aviation
+function, rather than through any separate institution.
+
+### Finding E: Belgrano's own standing-but-unused infrastructure is Finding 1's mate ritual, expressed architecturally
+
+**Combining:** attributes #10–11 (cold-engineering calibrated to the harshest Halley subnet climate profile;
+infrastructure that remained physically standing well past the point of active habitation) + the existing
+Cross-Reference Synthesis's Finding 1 (the mate ritual as the one piece of Belgrano's culture that never
+needed the institution to survive).
+
+**2nd-order effect:** attribute #11's own well-built, still-standing infrastructure is a structural
+counterpart to Finding 1's cultural observation — buildings engineered well enough to survive institutional
+collapse without anyone needing to actively maintain them.
+
+**3rd-order effect:** worth naming as the same underlying pattern showing up twice, once in culture (the
+mate ritual) and once in architecture (over-engineered structures still standing) — Belgrano's whole
+identity keeps producing things that outlast the institution that built them, without needing anyone to
+deliberately preserve them.
+
+---
+
+**5 Findings derived for Belgrano as of 2026-07-30 — combined with the existing 3 Findings in
+`Belgrano_Cross_Reference_Synthesis.md`, Belgrano now has 8 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 5 Halley subnet cities — see
 `Weekly_To-Do_-_Current.md`.

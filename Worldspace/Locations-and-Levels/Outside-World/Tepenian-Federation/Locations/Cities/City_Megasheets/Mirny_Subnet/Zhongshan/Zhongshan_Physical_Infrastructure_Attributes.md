@@ -78,5 +78,79 @@ with a genuine archival tradition and a deliberately unofficial counterculture d
 
 ---
 
-**13 attributes derived for Zhongshan as of 2026-07-30.** This closes the Mirny subnet. Methodology #2
-deliberately deferred — see `Weekly_To-Do_-_Current.md`.
+**13 attributes derived for Zhongshan as of 2026-07-30.** This closes the Mirny subnet.
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 13 attributes above against Zhongshan's own existing lore —
+`Zhongshan_Full_Extrapolation.md` and `Zhongshan_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-07). Kept light, matching the other non-hub Mirny subnet cities and
+closing out this subnet's Methodology #2 pass. Written 2026-07-30.
+
+### Finding A: the Founding Hall and Long Record are a second physical site for the same continuity theme
+
+**Combining:** attributes #1–2 (the Founding Hall, the Long Record) + the existing Cross-Reference
+Synthesis's Finding 1 (the Crossing Quarter as the city's most thematically concentrated expression of its
+own unbroken-continuity identity).
+
+**2nd-order effect:** the Founding Hall and Long Record express the identical civic theme Finding 1 already
+identifies in the Crossing Quarter, but through preserved structure and documented history rather than
+craft objects — a second, physically distinct site for the same underlying fact.
+
+**3rd-order effect:** worth naming directly: Zhongshan has at least two genuinely separate physical locations
+where a newcomer could see the city's central cultural logic condensed and observable, not just one — the
+Crossing Quarter for continuity-through-craft, the Founding Hall/Long Record cluster for continuity-through-
+record.
+
+### Finding B: the fishing docks' quiet separateness is a small instance of the city's own "structure without friction" pattern
+
+**Combining:** attribute #9 (dedicated fishing fleet and dock infrastructure, distinct from the general
+Prydz Bay harbor) + the Full Extrapolation's Section VI (Prydz Bay fishing methods, described as having the
+same "chaos that is actually structure" quality as the city's street layout and its dumpling arguments).
+
+**2nd-order effect:** the fishing docks existing as their own distinct infrastructure, separate from but
+unbothered by the icebreaker/maritime-logistics harbor right next to it, is itself a small physical instance
+of Section VI's own observed pattern — real variation and separateness with no underlying disagreement.
+
+**3rd-order effect:** worth flagging as one more concrete example of a civic principle Finding-cluster
+already shows recurring at every scale this city gets examined at — distinct trades and spaces coexisting
+without needing to be reconciled into one system.
+
+### Finding C: the city's own oldest, most symbolic buildings are plausibly among its most war-damaged
+
+**Combining:** attributes #1 and #5 (the Founding Hall, the Standing Stone bedrock foundation — both part of
+the old, central core) + the existing Cross-Reference Synthesis's Finding 3 (the oldest parts of the city
+carry the deepest war damage, concentrated at the central chokepoint rather than the newer outer districts).
+
+**2nd-order effect:** Finding 3's own spatial logic implies the Founding Hall and Standing Stone — both
+explicitly central, both explicitly old — are plausibly among the more visibly war-damaged individual
+structures in the city, not among the better-preserved ones.
+
+**3rd-order effect:** worth naming as a specific, checkable implication of Finding 3 that touches Zhongshan's
+own most symbolically important buildings directly — a real tension between what the city treats as most
+precious and what the war actually hit hardest.
+
+### Finding D: Zhongshan's naming convention quietly marks what counts as official civic memory
+
+**Combining:** attribute #12 (the Loud Quarter, deliberately unnamed) + attributes #6–7 (the Crossing
+Quarter and Mending Houses, both formally named institutions) + the existing Cross-Reference Synthesis's
+Finding 2 (the counterculture district's namelessness as the city's non-prying social contract applied at
+civic scale).
+
+**2nd-order effect:** there's a real asymmetry worth naming directly — formally valued, historically
+continuous institutions (the Crossing Quarter, the Mending Houses) get names, while the informally valued,
+newer Loud Quarter deliberately doesn't.
+
+**3rd-order effect:** Zhongshan's own naming practice functions as a quiet, unstated marker of what's
+considered part of official civic memory versus what's respected but deliberately kept at arm's length —
+extending Finding 2's own observation into a concrete, checkable rule about which parts of the city get
+formal names at all.
+
+---
+
+**4 Findings derived for Zhongshan as of 2026-07-30 — combined with the existing 3 Findings in
+`Zhongshan_Cross_Reference_Synthesis.md`, Zhongshan now has 7 total Cross-Referenced Extrapolation Findings
+on file. This completes Methodology #2 for the entire Mirny subnet** — Mirny (11 total), Casey (7), Davis
+(7), Kunlun (8), Shirayuki (7), Sinheung (7), Vostok (8), Zhongshan (7) — see `Weekly_To-Do_-_Current.md`.

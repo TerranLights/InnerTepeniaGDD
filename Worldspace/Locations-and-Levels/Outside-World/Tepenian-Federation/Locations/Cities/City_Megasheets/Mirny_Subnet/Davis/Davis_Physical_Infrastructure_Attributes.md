@@ -77,5 +77,72 @@ Tepenia.
 
 ---
 
-**16 attributes derived for Davis as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**16 attributes derived for Davis as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 16 attributes above against Davis's own existing lore —
+`Davis_Full_Extrapolation.md` and `Davis_Cross_Reference_Synthesis.md` (which already holds 3 Findings of
+its own, written 2026-07-07). Kept light, matching Casey's own treatment — Davis is a support/breadbasket
+city within a subnet whose main-questline weight sits with Mirny. Written 2026-07-30.
+
+### Finding A: the fjord docks give Davis a genuine maritime-access redundancy, not just a scenic secondary feature
+
+**Combining:** attributes #12–13 (the Fjord Mooring Docks, specialized small-vessel fjord navigation) + the
+Full Extrapolation's Section II (fjord inlets plausibly remain navigable even when Prydz Bay's main harbor
+ices over, since different bodies of water freeze and thaw independently).
+
+**2nd-order effect:** Davis effectively has two maritime access points on independent freeze-thaw schedules
+— a genuine operational redundancy, not merely a terrain-driven amenity.
+
+**3rd-order effect:** worth naming directly: Davis plausibly never loses maritime access entirely, even when
+its own main harbor is fully iced over, a resilience most single-harbor Tepenian coastal cities don't share.
+
+### Finding B: the Sediment Core Archive is the physical location where Davis documents its own history
+
+**Combining:** attribute #9 (the Sediment Core Archive) + the existing Cross-Reference Synthesis's Finding 2
+(Davis's own research archive is plausibly the first place to check whether its own terrain has changed
+shape since founding, per the Guatapé parallel).
+
+**2nd-order effect:** the Archive is specifically where Finding 2's own proposed self-documentation would
+physically live — giving an abstract proposal about Davis's research culture a concrete, named building to
+point to.
+
+**3rd-order effect:** reinforces the Archive's own double significance already implied by Finding 2 —
+valuable to the wider Federation and quietly self-documenting for Davis's own history at once.
+
+### Finding C: the Open-Door Libraries are the one place Davis allows itself unambiguous pride
+
+**Combining:** attribute #14 (the Open-Door Libraries, openly celebrated) + attribute #15 (deliberately
+modest, anti-glory civic architecture elsewhere) + the Full Extrapolation's Section VII (the Recognition
+Question — a quiet minority wish for more outside acknowledgment).
+
+**2nd-order effect:** the Libraries' own openly celebratory tone stands out against the otherwise deliberate
+modesty of Davis's civic architecture — a single sanctioned exception carved out of an anti-glory ethos.
+
+**3rd-order effect:** worth reading the Libraries as the one place Section VII's minority recognition-
+seeking sentiment gets an actual, socially acceptable outlet — pride Davis's dominant culture allows itself
+specifically because it's about the books, not about Davis.
+
+### Finding D: irrigation infrastructure is the literal physical link between Davis's terrain and its economic identity
+
+**Combining:** attributes #4–5 (large-scale food export infrastructure, irrigation drawing on the lake
+system specifically) + the existing Cross-Reference Synthesis's Finding 1 (Davis's "enabler" identity
+triple-reinforced by namesake, real-world precedent, and current economy).
+
+**2nd-order effect:** the irrigation infrastructure is where Finding 1's own two supporting threads —
+Davis's defining terrain (the lakes) and its defining economic role (breadbasket) — are physically wired
+together, not merely thematically aligned.
+
+**3rd-order effect:** gives Finding 1's already-strong triple-reinforcement a fourth, physical anchor: the
+city's own terrain doesn't just support its economic identity in the abstract, one specific piece of
+infrastructure makes that connection literal and mechanical.
+
+---
+
+**4 Findings derived for Davis as of 2026-07-30 — combined with the existing 3 Findings in
+`Davis_Cross_Reference_Synthesis.md`, Davis now has 7 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 4 Mirny subnet cities — see
 `Weekly_To-Do_-_Current.md`.

@@ -68,5 +68,88 @@ cities; population is comparatively small (~600k-1.03M, smallest examined in thi
 
 ---
 
-**10 attributes derived for Abowasa as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**10 attributes derived for Abowasa as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 10 attributes above against Abowasa's own existing lore —
+`Abowasa_Full_Extrapolation.md` and `Abowasa_Cross_Reference_Synthesis.md` (which already holds 3 Findings
+of its own, written 2026-07-09). Proportionate, moderate depth per this subnet's own weighting — Sanay,
+Troll, and Neumayer carry the deepest treatment. Written 2026-07-30.
+
+### Finding A: the Bedrock Stability Institute is the physical site of an already-proposed cross-city relationship
+
+**Combining:** attribute #2 (the Bedrock Stability Institute) + the existing Cross-Reference Synthesis's
+Finding 3 (Abowasa's bedrock stability expertise as the literal, applicable answer to the foundation
+problems Halley and Neumayer both actively engineer around).
+
+**2nd-order effect:** the Institute is specifically where that already-proposed consulting relationship would
+physically happen — a real building anchoring an abstract cross-city relationship that currently exists only
+as inference.
+
+**3rd-order effect:** worth flagging directly ahead of Neumayer's own upcoming Findings pass — this
+relationship should be treated as established from both directions once Neumayer's own material is
+cross-referenced, not independently re-derived.
+
+### Finding B: the built environment only physically confirms half of Abowasa's own established cultural split
+
+**Combining:** attributes #3–4 (physically merged station-site infrastructure, the Joint Household Kitchens)
++ the Full Extrapolation's Section I (daily culture genuinely unified where necessity demanded it, while
+language and civic memory stayed deliberately distinct).
+
+**2nd-order effect:** the merged infrastructure and shared kitchens are the literal physical proof of
+Section I's "unified" half — but nothing in the Attributes list shows an equivalent physically distinct
+marker for the "stayed distinct" half (the two separate living household languages, the specifically
+preserved Turku naming memory).
+
+**3rd-order effect:** worth naming as a genuine gap between the built environment and the cultural record —
+Abowasa's architecture tells only the unification side of its own established story; the preserved-distinct
+side lives entirely in language and memory, not in any physical structure.
+
+### Finding C: attribute #8 gives Finding 2's own new damage-pattern category a concrete anchor
+
+**Combining:** attribute #8 (partial-damage survival infrastructure) + the existing Cross-Reference
+Synthesis's Finding 2 (Abowasa's labs-vs-households damage pattern as a genuine fourth category in the
+project's own accumulated damage-pattern framework).
+
+**2nd-order effect:** attribute #8 is the concrete infrastructure-level expression of what Finding 2
+otherwise describes only in the abstract.
+
+**3rd-order effect:** the same kind of upgrade several other cities' Findings received this session — an
+already-strong abstract observation now has an actual attribute-level anchor to point to.
+
+### Finding D: the reduced retrofit burden plausibly enabled the technical/scientific growth that later made Abowasa a wartime target
+
+**Combining:** attributes #5–6 (infrastructure engineered for year-round capability but only seasonally
+staffed pre-exile, reducing the retrofit burden) + the Full Extrapolation's Section II (Abowasa's technical/
+scientific sector as its largest, 25% of industry, the specific reason it took targeted rather than
+total-avoidance treatment during the war).
+
+**2nd-order effect:** the early infrastructure advantage attribute #6 describes plausibly freed real
+resources for the exile population to grow exactly the sector Section II later identifies as the city's
+most strategically significant.
+
+**3rd-order effect:** suggests a currently-implicit causal chain worth naming directly — Abowasa's own
+founding-era structural good fortune is plausibly connected to what eventually made it worth targeting at
+all, centuries later.
+
+### Finding E: the Basen Overlook is a strong candidate site for The Joint Founding observance
+
+**Combining:** attribute #10 (Basen Overlook) + the Full Extrapolation's Section V (the two proposed
+holidays — Turku Remembrance and The Joint Founding, the latter belonging to neither founding nation alone).
+
+**2nd-order effect:** the Overlook's own established status as an informal, shared community gathering point
+makes it a strong candidate physical site for The Joint Founding specifically, since that observance
+likewise belongs to neither Finnish nor Swedish heritage individually.
+
+**3rd-order effect:** gives a currently placeholder-named holiday a concrete location to anchor to, the same
+upgrade several other cities' Findings have provided their own placeholder civic content this session.
+
+---
+
+**5 Findings derived for Abowasa as of 2026-07-30 — combined with the existing 3 Findings in
+`Abowasa_Cross_Reference_Synthesis.md`, Abowasa now has 8 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 6 Halley subnet cities — see
 `Weekly_To-Do_-_Current.md`.

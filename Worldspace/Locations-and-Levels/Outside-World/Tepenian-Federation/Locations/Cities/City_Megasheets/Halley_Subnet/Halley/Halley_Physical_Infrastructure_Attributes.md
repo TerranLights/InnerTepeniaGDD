@@ -79,5 +79,89 @@ population ~1.09-1.45 million.
 
 ---
 
-**12 attributes derived for Halley as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**12 attributes derived for Halley as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 12 attributes above against Halley's own existing lore —
+`Halley_Full_Extrapolation.md` and `Halley_Cross_Reference_Synthesis.md` (which already holds 3 Findings of
+its own, written 2026-07-09). Per direct developer instruction, this subnet's deepest treatment goes to
+Sanay, Troll, and Neumayer specifically; Halley — despite being the subnet's own namesake — gets
+proportionate, moderate attention rather than the deepest pass. Written 2026-07-30.
+
+### Finding A: the Position Archive is the physical location where Halley's only surviving deep history lives
+
+**Combining:** attribute #8 (the Position Archive) + the existing Cross-Reference Synthesis's Finding 2
+(Position Day's own accumulated record may be the only surviving trace of Halley's full geographic history,
+since its old sites are lost to the sea rather than merely abandoned).
+
+**2nd-order effect:** the Archive is specifically where that already-established "uniquely irreplaceable"
+record physically lives — giving Finding 2's own abstract observation a concrete building to point to.
+
+**3rd-order effect:** reinforces just how load-bearing this single facility actually is — unlike every other
+Tepenian city's history, which can in principle be reconstructed from visitable ruins even if records fail,
+Halley's oldest history has exactly one surviving physical anchor.
+
+### Finding B: "accessible physical sites" only covers the more recent handful of Old Positions
+
+**Combining:** attribute #9 (the Old Positions as accessible physical sites) + the Full Extrapolation's
+Section IV (Halley is several relocations deep, with its founding-era position lost or nearly lost to the
+calving edge).
+
+**2nd-order effect:** attribute #9's own framing needs a real qualifier — "accessible" only applies to the
+more recent Old Positions; the deepest, founding-era ones are gone entirely, consistent with Section IV.
+
+**3rd-order effect:** worth naming directly for any future level design touching the Old Positions — a
+genuinely bounded set of walkable ruins-lite sites, not an open-ended trail back to the city's own origin.
+
+### Finding C: the calving-zone monitoring infrastructure is what would have actually detected Halley's own damage pattern
+
+**Combining:** attributes #6–7 (calving-zone proximity monitoring, mobility-status assessment
+infrastructure) + the Full Extrapolation's Section II (newer sections remain mobile and functioning, older
+sections are stuck and sit closest to calving risk).
+
+**2nd-order effect:** these two systems are specifically the ones that would have identified and continue to
+track the exact damage pattern Section II describes — a concrete detection mechanism behind an
+already-proposed civic fact, not an external narrator's summary.
+
+**3rd-order effect:** gives Section II's own damage-pattern proposal a physical, in-world source — something
+a character could plausibly reference or consult directly rather than simply knowing.
+
+### Finding D: Halley's absent maritime/aviation infrastructure is the direct physical cause of its DLC 5 vulnerability
+
+**Combining:** attributes #4–5 (no docks or airstrip of Halley's own, the overland connector to Hwy 7) + the
+Full Extrapolation's Section I (Halley's own DLC 5 stake — total dependency on Belgrano and Sanay, caught in
+the middle of the Troll conflict without being able to influence it).
+
+**2nd-order effect:** Section I's own established vulnerability isn't circumstantial — it's the direct,
+necessary consequence of attribute #4's founding-era design choice to never build fixed maritime or aviation
+infrastructure at all.
+
+**3rd-order effect:** ties Halley's own physical design philosophy directly to its narrative stake in DLC
+5's central conflict — the city's oldest engineering decision and its current political vulnerability are
+the same fact, viewed at two different points in its history.
+
+### Finding E: Hwy 59's diminished state is a forced echo of Halley's own voluntary trade-concrete-control pattern
+
+**Combining:** attribute #10 (the combined Hwy 59 highway/Arcanet corridor) + the Full Extrapolation's
+Section V (Hwy 59 is physically passable but informationally dead, since Amundsen Station's destruction
+ended its relay function) + the existing Cross-Reference Synthesis's Finding 1 (Halley's recurring civic
+pattern of trading concrete control for something less tangible).
+
+**2nd-order effect:** Hwy 59's own current state — a highway with no remaining informational purpose —
+mirrors the exact shape of Finding 1's pattern (giving up a tangible capability), but this time imposed by
+the war rather than chosen.
+
+**3rd-order effect:** worth distinguishing directly from Finding 1's other instances (the Sanay nexus trade,
+the missing dock/airstrip, the missing contingency plan) — those were Halley's own choices; Hwy 59's loss is
+the same shape forced on the city from outside, a genuinely different register within the same recurring
+pattern.
+
+---
+
+**5 Findings derived for Halley as of 2026-07-30 — combined with the existing 3 Findings in
+`Halley_Cross_Reference_Synthesis.md`, Halley now has 8 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 7 Halley subnet cities — see
 `Weekly_To-Do_-_Current.md`.

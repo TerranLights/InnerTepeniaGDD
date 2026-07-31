@@ -65,5 +65,89 @@ trans-shipment point between the Halley and Palmer subnets.
 
 ---
 
-**8 attributes derived for Esperanza as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**8 attributes derived for Esperanza as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 8 attributes above against Esperanza's own existing lore —
+`Esperanza_Full_Extrapolation.md` and `Esperanza_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-08). Proportionate, moderate depth per this subnet's own weighting —
+Palmer City carries the deepest treatment. Written 2026-07-30.
+
+### Finding A: the Caregiver-Teacher Halls are where two separately-established findings physically converge
+
+**Combining:** attribute #2 (the Caregiver-Teacher Halls) + the Full Extrapolation's Section IV (robots as
+the durable carriers of "being from Hope" identity, since human genealogical memory fades within a couple of
+generations) + the existing Cross-Reference Synthesis's Finding 2 (the rotational-mining family structure
+means robot caregivers are structurally each child's primary attachment figure).
+
+**2nd-order effect:** attribute #2 is the single physical location where both Section IV's own resolved
+identity-carrier question and Finding 2's own attachment-structure observation converge — one building
+where children actually bonded with their primary caregivers, and where "being from Hope" institutional
+memory still lives on in the present-day diaspora.
+
+**3rd-order effect:** worth naming directly as a rare case where one attribute-level location does the work
+of two separately-derived Findings at once, across two different time periods (lived childhood, present-day
+memory).
+
+### Finding B: the Birth Registry's partial survival gives future diaspora content a genuine, checkable stakes mechanism
+
+**Combining:** attributes #1 and #8 (the Birth Registry Archive, whatever remains legible of it in the
+ruins) + the Full Extrapolation's Section I (the registry partially survives — fragments, not the whole
+document, consistent with real war damage rather than either total loss or improbably clean preservation).
+
+**2nd-order effect:** these attributes confirm Section I's own resolved survival question directly — a
+findable, partial archive rather than an all-or-nothing artifact.
+
+**3rd-order effect:** gives future diaspora-focused content a genuine, checkable stakes mechanism — whether
+a specific family's name survived in the recovered fragments is a real, answerable question a character
+could plausibly seek out.
+
+### Finding C: attribute #3 has to be understood as informal civic practice, not administrative infrastructure
+
+**Combining:** attribute #3 (whatever civic infrastructure formalized and administered the founding compact)
++ the Full Extrapolation's Section II (the compact was never formalized as a single document — an unwritten
+but universally understood covenant, reinforced through the registry, oral tradition, and lived practice).
+
+**2nd-order effect:** attribute #3's own framing needs a real correction — Section II's resolved answer means
+there was no administrative or legal apparatus to formalize, only informal civic practice.
+
+**3rd-order effect:** the same category distinction already made for Denison's own wind-statistics tradition
+in this Methodology #2 pass — attribute #3 should be read as oral/social infrastructure, not a building,
+consistent with how deeply informal the compact's own established nature actually is.
+
+### Finding D: Hope Bay Harbor and its connector are the physical mechanism behind Esperanza's material contribution to Tepenian expansion
+
+**Combining:** attributes #5–6 (Hope Bay Harbor, the overland connector into the Peninsula highway network)
++ the existing Cross-Reference Synthesis's Finding 3 (Esperanza was a double contributor to Tepenian
+expansion — supplying both people and mining materials feeding the wider industrial supply chain).
+
+**2nd-order effect:** attributes #5–6 are the concrete physical infrastructure implementing the material half
+of Finding 3's own dual-contribution claim — the actual shipping route by which Esperanza's mining output
+reached the rest of Tepenia.
+
+**3rd-order effect:** gives Finding 3's own economic argument (Esperanza's loss rippling outward, not staying
+contained to its own ruins) a real physical mechanism rather than an abstract trade relationship.
+
+### Finding E: the honored Argentine heritage site may be the same building where the founding compact was actually discovered
+
+**Combining:** attribute #7 (whatever physical site preserved the honored Argentine founding heritage) + the
+Full Extrapolation's Section III (the compact was discovered inside a sealed Argentine military archive room,
+found during routine inventory of inherited infrastructure).
+
+**2nd-order effect:** since the founding birth documentation was specifically found within Argentine military
+records, attribute #7's own heritage site and the discovery location Section III describes are plausibly one
+and the same building.
+
+**3rd-order effect:** worth flagging as a likely physical consolidation — Esperanza's honored national
+heritage and its founding civic origin story may share a single, doubly significant location rather than
+requiring two separate sites.
+
+---
+
+**5 Findings derived for Esperanza as of 2026-07-30 — combined with the existing 3 Findings in
+`Esperanza_Cross_Reference_Synthesis.md`, Esperanza now has 8 total Cross-Referenced Extrapolation Findings
+on file.** Methodology #2 continues with the remaining 6 Palmer subnet cities — see
 `Weekly_To-Do_-_Current.md`.

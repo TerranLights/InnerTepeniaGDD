@@ -73,5 +73,130 @@ Debated," balanced by a genuine After-Hours music scene as release valve.
 
 ---
 
-**11 attributes derived for Neumayer as of 2026-07-30.** Methodology #2 deliberately deferred — see
-`Weekly_To-Do_-_Current.md`.
+**11 attributes derived for Neumayer as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 11 attributes above against Neumayer's own existing lore —
+`Neumayer_Full_Extrapolation.md` and `Neumayer_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-09). Neumayer is one of this subnet's three deep-treatment cities per
+direct developer instruction (alongside Sanay and Troll), so this pass runs at Mawson's own depth — the
+deepest tier used anywhere outside Byrd. Written 2026-07-30.
+
+### Finding A: the Design Archive and the chamber-schematic infrastructure are two separate sites for the same uncredited-engineering pattern
+
+**Combining:** attribute #6 (the Amundsen Tower Design Archive) + attribute #8 (design and schematic-
+drafting infrastructure for the current-generation Cradle chamber) + the existing Cross-Reference
+Synthesis's Finding 1 (Neumayer's uncredited engineering legacy confirmed to run at least two deep — the
+Tower and the Mark IV chamber schematic).
+
+**2nd-order effect:** Finding 1's own "at least two deep" claim now has two concrete, physically distinct
+locations behind it, not one shared abstract credit — the Tower's own design work and the chamber's own
+schematic work happened in different facilities.
+
+**3rd-order effect:** worth naming directly: Neumayer's built environment already contains a legible,
+walkable record of this pattern, two separate buildings each representing a major national achievement that
+carries someone else's name.
+
+### Finding B: attribute #9 independently confirms Finding 3's own speculative Split-Brain archive proposal
+
+**Combining:** attribute #9 (redundant, off-site-transmitted archival infrastructure) + the existing
+Cross-Reference Synthesis's Finding 3 (Neumayer as a genuinely plausible second archive location for the
+Planetary Split Brain storyline).
+
+**2nd-order effect:** attribute #9 is the literal infrastructure Finding 3 already proposes exists — this
+Methodology #1 attribute, derived independently from first principles, arrives at the same conclusion
+Finding 3 reached through cross-referencing.
+
+**3rd-order effect:** strengthens Finding 3's own status from "plausible" toward "consistent with
+independently-derived established fact" — two separate analytical passes converging on the same physical
+infrastructure without cross-referencing each other directly.
+
+### Finding C: the Precision Institute is the concrete institutional anchor for Neumayer's half of the Halley comparison
+
+**Combining:** attribute #4 (the Precision Institute, the formally preserved AWI successor) + the existing
+Cross-Reference Synthesis's Finding 2 (Neumayer and Halley as structural opposites facing the same
+underlying ice-shelf instability — Neumayer doubling down on formal institutional structure, Halley trading
+concrete control for confidence).
+
+**2nd-order effect:** the Institute is the actual building where Finding 2's own "doubled down on formal
+structure" half of the comparison lives — a real institution, not just a stated civic preference.
+
+**3rd-order effect:** worth pairing directly with Halley's own Position Archive (see Halley's Finding A,
+this same Methodology #2 pass) whenever this comparison gets developed further — both cities now have a
+named, physical institutional anchor for their respective halves of the same contrast.
+
+### Finding D: the structural-engineering infrastructure is where the Tower's own placeholder designer actually worked
+
+**Combining:** attribute #7 (large-scale structural engineering and computational design infrastructure) +
+the Full Extrapolation's Section I (placeholder Chief Engineer Ingrid Osei-Falkenberg, credited with the
+Amundsen Tower's own original schematics).
+
+**2nd-order effect:** attribute #7 is the concrete facility where that placeholder figure's own credited
+work would have actually happened.
+
+**3rd-order effect:** gives Osei-Falkenberg a genuine physical location tied to her legacy, the same
+upgrade several other placeholder Notable Figures have received across this Methodology #2 pass.
+
+### Finding E: the Ice Shelf Observatory is the daily physical expression of Neumayer's "quiet capability" civic trait
+
+**Combining:** attribute #3 (the Ice Shelf Observatory) + the Full Extrapolation's Section IV (Ekström Ice
+Shelf movement treated as routine, continuously monitored data collection, not a source of civic anxiety).
+
+**2nd-order effect:** the Observatory is where that established "quiet capability, no anxious hand-wringing"
+disposition actually happens as daily, ordinary work — not an abstract civic trait but a specific facility's
+routine output.
+
+**3rd-order effect:** gives Section IV's own resolved civic-temperament question a concrete site any future
+scene could show in action, rather than describing the disposition only in narration.
+
+### Finding F: the After-Hours Sound Venues are where Neumayer's precisely-calibrated drinking culture actually happens
+
+**Combining:** attribute #10 (After-Hours Sound Venues) + the Full Extrapolation's Section VII (the
+glitch-coolant variant confirmed as precisely calibrated and reproducible — "Measured, Not Debated" applied
+to drinking culture).
+
+**2nd-order effect:** the Venues are where that established, precisely-calibrated coolant culture is actually
+consumed and experienced socially — tying two separately-established facts (the music/social venue, the
+drinking-culture doctrine) into one physical location.
+
+**3rd-order effect:** gives Neumayer's own release-valve social infrastructure a concrete link to its
+established drinking culture rather than leaving the two as parallel, disconnected facts about the same
+city.
+
+### Finding G: Neumayer's structural engineering is the passive-precision counterpart to Halley's active relocation
+
+**Combining:** attributes #1–2 (hydraulic-leg elevated architecture, long-term structural monitoring for
+ice-shelf drift) + the existing Cross-Reference Synthesis's Finding 2 (Neumayer and Halley as philosophical
+opposites solving the identical unstable-ice-shelf problem).
+
+**2nd-order effect:** attributes #1–2 are the concrete engineering expression of Neumayer's own half of that
+contrast — where Halley's answer to instability is continuous, active relocation, Neumayer's answer is
+continuous, precise elevation-and-monitoring in place.
+
+**3rd-order effect:** gives Finding 2's own philosophical civic-contrast a literal structural-engineering
+counterpart — rigorous documented control versus active improvisation, now visible in how each city's
+buildings are actually engineered, not just in how each city behaves socially.
+
+### Finding H: the Instrument-Craft Workshops are the origin point of the expertise Finding 1 identifies as routinely uncredited
+
+**Combining:** attribute #5 (the Instrument-Craft Workshops) + the existing Cross-Reference Synthesis's
+Finding 1 (Neumayer's standing civic role as a city that quietly exports achievements to other places'
+credit, as a matter of routine, not exception).
+
+**2nd-order effect:** the Workshops are where the precision-engineering craft tradition behind both the
+Tower and the Cradle chamber schematics was actually taught and practiced — the training pipeline that
+produces exactly the expertise Finding 1 identifies as habitually exported without recognition.
+
+**3rd-order effect:** completes the picture Finding 1 already sketches — not just where the uncredited work
+happened (Findings A and D above) but where the people capable of doing it were actually trained, tying
+Neumayer's whole civic identity together at the level of its own workforce pipeline.
+
+---
+
+**8 Findings derived for Neumayer as of 2026-07-30 — the deepest treatment in this subnet alongside Sanay
+and Troll. Combined with the existing 3 Findings in `Neumayer_Cross_Reference_Synthesis.md`, Neumayer now
+has 11 total Cross-Referenced Extrapolation Findings on file.** Methodology #2 continues with the remaining
+3 Halley subnet cities — see `Weekly_To-Do_-_Current.md`.

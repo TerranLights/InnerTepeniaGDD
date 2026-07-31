@@ -79,5 +79,96 @@ nothing else" economic profile.
 
 ---
 
-**12 attributes derived for Vostok as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**12 attributes derived for Vostok as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 12 attributes above against Vostok's own existing lore —
+`Vostok_Full_Extrapolation.md` and `Vostok_Cross_Reference_Synthesis.md` (which already holds 3 Findings of
+its own, written 2026-07-07). Given Vostok's real depth — a confirmed recruitable companion (Charlene/XT-17)
+and an established cross-DLC connection to Byrd's own Lake — this pass runs slightly deeper than the other
+non-hub Mirny subnet cities, similar to Kunlun's own treatment, though still lighter than Mirny's own
+hub-city depth. Written 2026-07-30.
+
+### Finding A: the cultivation facility is where Charlene's own discovery method gets physically repeated
+
+**Combining:** attribute #11 (the dedicated cultivation and export-preparation facility, established this
+session for the Byrd Long Window transplant) + the Full Extrapolation's Section IX (the transplant as a
+second, independent instance of Charlene's own "found it already at work" discovery pattern) + the existing
+Cross-Reference Synthesis's Finding 1 (Charlene as a living embodiment of Vostok's own inherit-not-build
+civic tension).
+
+**2nd-order effect:** the cultivation facility gives Finding 1's own character-tension observation a second
+concrete location beyond the Access Shaft and archive — a physical place where the same discovery philosophy
+gets demonstrated a second time.
+
+**3rd-order effect:** worth naming directly: Vostok's built environment now has (at least) two distinct
+physical sites embodying the identical "discover, don't engineer" methodology — reinforcing it as genuine
+character throughline rather than a single unrepeated event.
+
+### Finding B: the two-rhythm civic spaces are a physical expression of the archive's own structural problem
+
+**Combining:** attribute #8 (communal and civic spaces accommodating two genuinely different population
+rhythms simultaneously) + the existing Cross-Reference Synthesis's Finding 2 (the archive's incomprehensibility
+is compounded by the population's own asynchronous schedules, not just its size).
+
+**2nd-order effect:** the same human/robot schedule mismatch that makes coordinated archive understanding
+structurally difficult (Finding 2) also shapes ordinary civic space design — buildings genuinely used by
+people who are rarely present at the same time.
+
+**3rd-order effect:** gives Finding 2's own informational observation a physical, architectural counterpart
+— the schedule mismatch isn't just a research-coordination problem, it's baked into how Vostok's shared
+spaces themselves have to function.
+
+### Finding C: the transplant relationship may have carried engineering knowledge alongside biology
+
+**Combining:** attribute #4 (a geothermal-adjacent, grid-independent power source, the same mechanism
+established for Byrd's own Long Window) + the Full Extrapolation's Section IX (the transplant's own timing
+and personal involvement deliberately left open).
+
+**2nd-order effect:** if both cities independently rely on geothermal taps, the Vostok-Byrd transplant
+relationship may have carried practical engineering knowledge alongside the biological transplant itself —
+a genuinely new sub-question Section IX's own deliberate openness leaves room for.
+
+**3rd-order effect:** worth flagging for whenever the transplant's specifics are actually developed further
+— whether Byrd's engineers derived their own geothermal solution independently or received guidance from
+Vostok's is a live, currently unresolved question with real narrative texture either way.
+
+### Finding D: the inherited Russian signage and the archive's oldest layer are the same evidence, viewed differently
+
+**Combining:** attribute #12 (inherited Russian-language technical infrastructure, used without lived
+connection to its origin) + the Full Extrapolation's Section V (Russian survives only as institutional
+vocabulary) and Section VIII (the proposed founding-era Archivist Yelena Voskresenskaya, credited with the
+archive's oldest, hardest-to-interpret layer).
+
+**2nd-order effect:** the signage Section V describes and the archive layer Section VIII attributes to
+Yelena are plausibly the same body of evidence, approached from two different angles — one linguistic, one
+archival.
+
+**3rd-order effect:** worth treating as a single, coherent physical/documentary legacy rather than two
+separate founding-era facts — anywhere a scene needs to show the founding community's trace, both threads
+point to the same underlying material.
+
+### Finding E: Vostok's own self-sufficiency mythology has one real crack in it
+
+**Combining:** attribute #9 (self-sufficiency infrastructure calibrated to the most extreme isolation of any
+city examined in this pass, "survival functionally indistinguishable from disappearance") + the Full
+Extrapolation's Section VII (a concrete, ongoing resource-sharing dependency on Kunlun for equipment and
+reagents neither outpost can produce alone).
+
+**2nd-order effect:** Vostok's own established total-isolation self-image sits in direct tension with its
+established practical dependency on Kunlun — the city isn't actually as self-sufficient as its own civic
+mythology implies.
+
+**3rd-order effect:** worth naming as the one real crack in an otherwise airtight isolation narrative —
+Vostok can survive without contact from most of Tepenia, but not entirely without Kunlun specifically, a
+distinction worth preserving in any future writing that touches the city's own sense of self-reliance.
+
+---
+
+**5 Findings derived for Vostok as of 2026-07-30 — combined with the existing 3 Findings in
+`Vostok_Cross_Reference_Synthesis.md`, Vostok now has 8 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the final Mirny subnet city, Zhongshan — see
 `Weekly_To-Do_-_Current.md`.

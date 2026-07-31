@@ -92,4 +92,75 @@ seasonal maritime access ran roughly November-March.
 ---
 
 **15 attributes derived for Casey as of 2026-07-30**, all framed pre-war per the established ruins
-convention. Methodology #2 deliberately deferred — see `Weekly_To-Do_-_Current.md`.
+convention.
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 15 attributes above against Casey's own existing lore —
+`Casey_Full_Extrapolation.md` and `Casey_Cross_Reference_Synthesis.md` (which already holds 3 Findings of
+its own, written 2026-07-08). Kept light, matching Sayowa's own treatment in the Mawson subnet — Casey is a
+destroyed junction city within a subnet whose main-questline weight sits with Mirny. Written 2026-07-30.
+
+### Finding A: the ruins are the physical embodiment of the city's own founding irony
+
+**Combining:** attribute #15 (the ruins as a literal physical obstacle, severing Hwy 2 at its source) + the
+existing Cross-Reference Synthesis's Finding 1 (Casey held the best strategic information and the least
+civic instinct to treat it as political priority).
+
+**2nd-order effect:** the same junction whose vulnerability nobody in Casey's own civic culture treated as
+a political concern is now, physically, the very thing blocking the route it once existed to serve.
+
+**3rd-order effect:** worth naming as a small, complete irony in physical form — Casey's ruins don't just
+mark a loss, they enact the exact outcome Finding 1 already identifies as the city's own quiet historical
+blind spot.
+
+### Finding B: Splinters physically carried both of Casey's split identities at once
+
+**Combining:** attributes #8–9 (Splinters, and its established secondary function as an information/culture
+distribution point) + the existing Cross-Reference Synthesis's Finding 2 (Casey held two genuinely different
+identities — diffuse and function-first internally, singular and famous externally).
+
+**2nd-order effect:** Splinters wasn't just the externally famous landmark half of Finding 2's own split — as
+an information node, it was simultaneously part of the diffuse, function-first identity too, the same
+building doing both jobs the city otherwise experienced as separate.
+
+**3rd-order effect:** this makes Splinters a genuinely rare piece of Casey infrastructure that resolves
+Finding 2's own tension physically, in one location, rather than the split remaining purely a matter of who's
+describing the city.
+
+### Finding C: Casey's own boundary against Wilkes collapsed onto itself
+
+**Combining:** attributes #10–11 (the Wilkes Curiosity Walk and the established boundary distinguishing Casey
+proper from the older ruins) + the Full Extrapolation's Section III (Wilkes Station's own ruins were almost
+certainly fully buried and inaccessible by the time of the Long Night War).
+
+**2nd-order effect:** pre-war Casey drew a clear line between itself and Wilkes's "older, buried curiosity" —
+post-war, Casey itself has become exactly that same thing, a buried, inaccessible ruin.
+
+**3rd-order effect:** a quiet, specific irony worth preserving — the distinction Casey's own residents once
+maintained no longer holds from the outside; both sites are now the same kind of thing to anyone approaching
+from beyond the Mirny subnet.
+
+### Finding D: the harbor's own scale was built for a future the war cut short
+
+**Combining:** attributes #6–7 (seasonal harbor infrastructure, substantial maritime receiving capacity
+inherited from Australia's largest pre-exile station) + the existing Cross-Reference Synthesis's Finding 3
+(Casey was interrupted mid-transition, somewhere between a Memphis-style function-plus-landmark identity and
+a fuller Reno-style destination transformation).
+
+**2nd-order effect:** the harbor's own inherited scale was physical capacity sized for a fuller destination-
+city role Casey never got to grow into — infrastructure built ahead of the identity that would have
+eventually needed it.
+
+**3rd-order effect:** gives Finding 3's own "interrupted, not completed" framing a concrete physical
+anchor — the harbor stands as built evidence of a transformation the city was capable of, even though it
+never got the chance to actually become that place.
+
+---
+
+**4 Findings derived for Casey as of 2026-07-30 — combined with the existing 3 Findings in
+`Casey_Cross_Reference_Synthesis.md`, Casey now has 7 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 5 Mirny subnet cities — see
+`Weekly_To-Do_-_Current.md`.

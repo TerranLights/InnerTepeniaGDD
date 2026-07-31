@@ -81,5 +81,90 @@ layered history.
 
 ---
 
-**9 attributes derived for Port Lockroy as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**9 attributes derived for Port Lockroy as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 9 attributes above against Port Lockroy's own existing lore —
+`Port_Lockroy_Full_Extrapolation.md` and `Port_Lockroy_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-08). Proportionate, moderate depth per this subnet's own weighting —
+Palmer City carries the deepest treatment. Written 2026-07-30.
+
+### Finding A: attributes #1 and #5–6 are the two physically distinct locations Finding 1 already predicts
+
+**Combining:** attribute #1 (the 1944 Base Structures) + attributes #5–6 (the Reduced Postal Relay, the full
+pre-war postal network infrastructure) + the existing Cross-Reference Synthesis's Finding 1 (the Cursus
+Publicus comparison predicts an asymmetric damage pattern — the wartime-original core surviving better than
+later, newer postal infrastructure).
+
+**2nd-order effect:** these attributes are exactly the two physically distinct sites Finding 1 already
+predicts — the old core (attribute #1) and the newer postal infrastructure (attributes #5–6), independently
+derived through Methodology #1.
+
+**3rd-order effect:** confirms Finding 1's own spatial damage prediction with concrete, attribute-level
+locations rather than leaving the asymmetry as an inferred pattern.
+
+### Finding B: Old Toby's Workshop and the Communal Wall are one connected site, giving Finding 2 its actual geography
+
+**Combining:** attribute #7 (Old Toby's Goat Pens and Workshop) + attribute #2 (the Communal Stone Wall) +
+the existing Cross-Reference Synthesis's Finding 2 (Old Toby's doubt about his own prophecy is mathematically
+true, given Tepenia's own established human lifespan facts; his unfinished wall literally embodies the same
+demographic fact dooming his prophecy).
+
+**2nd-order effect:** these two attributes are physically connected — Old Toby worked stone at his own
+workshop, feeding directly into the Wall itself — giving Finding 2's already-rich emotional observation an
+actual walkable, connected geography rather than two separate facts about the same man.
+
+**3rd-order effect:** strengthens Finding 2's own standing as the city's genuine emotional throughline — a
+single site where a visitor could see both the workshop where the stone was worked and the wall it became,
+generation after generation.
+
+### Finding C: attribute #8 is best read as an absence, not a presence — consistent with Finding 3's own resolution
+
+**Combining:** attribute #8 (whatever civic infrastructure reflects Port Lockroy's own lack of strategic
+value) + the existing Cross-Reference Synthesis's Finding 3 (Port Lockroy grew civically significant without
+ever becoming strategically significant, which is exactly why its original survival logic never needed
+revising).
+
+**2nd-order effect:** a city built around genuinely lacking strategic value doesn't really have
+"infrastructure reflecting irrelevance" in the positive sense other attributes describe — attribute #8 is
+best understood as the absence of fortification or strategic assets, not a built system.
+
+**3rd-order effect:** confirms Finding 3's own resolution directly — Port Lockroy's survival traces to what
+it never built, not to anything it did.
+
+### Finding D: the Harbor's modest scale is a direct, checkable contrast to Marambio's own Shipyards
+
+**Combining:** attributes #3–4 (Port Lockroy Harbor, small-craft maritime trade infrastructure) + the Full
+Extrapolation's Section VI (Port Lockroy functions as a minor DLC 3 waypoint through its postal identity,
+not major cargo transit — that heavier freight role belongs to Marambio and Rothera).
+
+**2nd-order effect:** attributes #3–4's own established small-craft scale directly confirms Section VI's
+resolved framing, and now has a concrete comparison point in this same session's own Marambio Attributes
+file — the Marambio Shipyards versus Port Lockroy's own small-craft harbor.
+
+**3rd-order effect:** gives the subnet's own established freight hierarchy (Marambio and Rothera for bulk,
+Port Lockroy for letters) a genuine attribute-level scale contrast across two independently-derived city
+files.
+
+### Finding E: the repair infrastructure confirms the postal role kept running rather than being abandoned
+
+**Combining:** attribute #9 (ongoing repair infrastructure for real but non-total damage) + the Full
+Extrapolation's Section VII (the postal-hub role is still functioning post-war, in genuinely reduced but
+real capacity, improvised or hand-managed where the original relay no longer functions).
+
+**2nd-order effect:** attribute #9's own framing directly supports Section VII's resolved answer — repair
+effort went toward keeping damaged systems running, not simply toward general habitability.
+
+**3rd-order effect:** reinforces Port Lockroy's own established civic character — a city that "accounts for
+its own history rather than papering over it" applied literally to its own damaged infrastructure, kept
+running rather than abandoned.
+
+---
+
+**5 Findings derived for Port Lockroy as of 2026-07-30 — combined with the existing 3 Findings in
+`Port_Lockroy_Cross_Reference_Synthesis.md`, Port Lockroy now has 8 total Cross-Referenced Extrapolation
+Findings on file.** Methodology #2 continues with the remaining 3 Palmer subnet cities — see
 `Weekly_To-Do_-_Current.md`.

@@ -74,5 +74,85 @@ explicitly flagged as still needing real development.
 
 ---
 
-**12 attributes derived for Lazar as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**12 attributes derived for Lazar as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 12 attributes above against Lazar's own existing lore —
+`Lazar_Full_Extrapolation.md` and `Lazar_Cross_Reference_Synthesis.md` (which already holds 3 Findings of
+its own, written 2026-07-09). Proportionate, moderate depth per this subnet's own weighting — Sanay, Troll,
+and Neumayer carry the deepest treatment. Written 2026-07-30.
+
+### Finding A: attribute #10 is the single physical fact both of Lazar's richest existing Findings converge on
+
+**Combining:** attribute #10 (uneven damage distribution across the two founding-era districts) + the
+existing Cross-Reference Synthesis's Finding 1 (Lazar confirms "old core survives" as a dominant, three-city
+pattern) and Finding 3 (vibrancy and war damage coexist in the same district, the former-Maitri expansion).
+
+**2nd-order effect:** the same attribute is the concrete infrastructure-level evidence for two independently
+derived Findings at once — the old core's relative preservation and the newer district's combined vitality-
+and-damage character are both readings of the identical physical fact.
+
+**3rd-order effect:** worth naming directly as an unusually tight convergence — Lazar's own established
+material doesn't just support two separate observations, it supports them from the same single fact, viewed
+from two different angles.
+
+### Finding B: the Unbroken Operations Hall is the physical monument to Lazar's own self-generated survival story
+
+**Combining:** attribute #11 (the Unbroken Operations Hall) + the existing Cross-Reference Synthesis's
+Finding 2 (the Lazarus name-echo inverts the Biblical story — Lazar survived through its own accumulated
+scale, not external rescue).
+
+**2nd-order effect:** the Hall is specifically the building where that already-rich ironic observation gets
+a physical anchor — a concrete site marking continuous operation achieved through nothing but the city's own
+scale, not divine or outside intervention.
+
+**3rd-order effect:** gives Finding 2's own folklore-ready irony an actual place residents could plausibly
+gather at to mark their city's continuity, strengthening its candidacy as a genuine civic observance site.
+
+### Finding C: the Neumayer Trade Exchange is the physical infrastructure of an already-proposed relationship
+
+**Combining:** attribute #12 (the Neumayer Trade Exchange) + the Full Extrapolation's Section V (a
+complementary, friction-free relationship with Neumayer — Neumayer relying on Lazar as its nearest genuine
+megacity market).
+
+**2nd-order effect:** the Exchange is the concrete facility implementing that already-proposed relationship.
+
+**3rd-order effect:** worth flagging directly ahead of Neumayer's own upcoming Findings pass, the same
+cross-reference discipline already applied to Abowasa's own Neumayer-facing Finding — this relationship
+should be confirmed from both directions once Neumayer's material is cross-referenced, not re-derived
+independently.
+
+### Finding D: the maglev transit network is physical-infrastructure confirmation of Lazar's own resolved megacity-economy question
+
+**Combining:** attributes #3–4 (the maglev/elevated transit network, scaled to Tepenia's single largest
+population) + the Full Extrapolation's Section III (three ordinary facts — inherited logistics function,
+highway convergence, sheer population — combining into Lazar's genuine megacity commercial economy).
+
+**2nd-order effect:** the maglev network is a fourth physical confirmation of Section III's own argument —
+both cause and effect of the megacity scale that argument already resolves.
+
+**3rd-order effect:** reinforces an already-settled developer-flagged gap with a concrete piece of
+infrastructure, the same kind of upgrade several other Findings in this pass have provided.
+
+### Finding E: the Junction Markets are the commercial expression of Lazar's resolved DROMLAN-legacy question
+
+**Combining:** attribute #7 (the Hwy 7 / Belgrano Extension Junction Markets) + the Full Extrapolation's
+Section II (Novolazarevskaya's real DROMLAN aviation-hub legacy survived as function, translated to highway
+logistics, since Lazar isn't among Tepenia's fixed eight airports).
+
+**2nd-order effect:** the Junction Markets are the direct physical and commercial expression of that
+resolved "function survived, the airfield didn't" answer — the actual marketplace occupying the highway
+convergence point that inherited the old aviation hub's regional logistics role.
+
+**3rd-order effect:** ties one of the Full Extrapolation's most structurally important resolutions to an
+actual, walkable location rather than leaving it as an abstract institutional-succession argument.
+
+---
+
+**5 Findings derived for Lazar as of 2026-07-30 — combined with the existing 3 Findings in
+`Lazar_Cross_Reference_Synthesis.md`, Lazar now has 8 total Cross-Referenced Extrapolation Findings on
+file.** Methodology #2 continues with the remaining 4 Halley subnet cities — see
 `Weekly_To-Do_-_Current.md`.

@@ -83,5 +83,80 @@ amateur arts, music, and fashion culture; population is large (~730k-1.18M).
 
 ---
 
-**16 attributes derived for Shirayuki as of 2026-07-30.** Methodology #2 deliberately deferred — see
+**16 attributes derived for Shirayuki as of 2026-07-30.**
+
+---
+
+## Cross-Referenced Extrapolation Findings (Methodology #2)
+
+**What this is:** cross-referencing the 16 attributes above against Shirayuki's own existing lore —
+`Shirayuki_Full_Extrapolation.md` and `Shirayuki_Cross_Reference_Synthesis.md` (which already holds 3
+Findings of its own, written 2026-07-07, one later updated 2026-07-30). Kept light, matching the other
+non-hub Mirny subnet cities. Written 2026-07-30.
+
+### Finding A: Institute Placement Nights are the concrete machinery behind an already-confirmed civic loop
+
+**Combining:** attributes #13–14 (substantial student/transient housing, Institute Placement Nights) + the
+existing Cross-Reference Synthesis's Finding 2 (the schools-to-amateur-culture self-reinforcing loop,
+confirmed 2026-07-30 via the Institute's own established role as a deliberate stepping stone into local arts
+culture).
+
+**2nd-order effect:** Institute Placement Nights are specifically the named, dedicated institutional event
+that makes Finding 2's own confirmed loop actually happen — not an abstract retention pattern, but a real
+civic mechanism connecting graduating students directly into the Ashiato and Glacier-Pop circles.
+
+**3rd-order effect:** gives an already-resolved cultural-retention finding its own concrete physical/civic
+anchor, the same upgrade Dome Fuji's and Mawson's own earlier Findings gave their own placeholder figures.
+
+### Finding B: the Bharati Gallery Halls are the physical confirmation of "imposed, then claimed" recurring at the infrastructure scale
+
+**Combining:** attributes #1 and #3 (the Bharati Gallery Halls — named for the real station whose labs they
+occupy, not for any Indian population, consistent with the project's own No-Subcontinentals canon and its
+GPS-only naming convention — plus the genuine mismatch between that infrastructure's original design intent
+and the Japanese-Primary population actually using it today) + the existing Cross-Reference Synthesis's
+Finding 1 (the "imposed, then genuinely claimed" pattern recurring at the level of founding population *and*
+physical infrastructure).
+
+**2nd-order effect:** the Gallery Halls are the literal building Finding 1 already gestures toward when it
+describes inherited research infrastructure being adapted into something chosen rather than replaced.
+
+**3rd-order effect:** confirms Finding 1's own second instance of its pattern with an actual named location,
+the same kind of upgrade an abstract structural observation benefits from once real attributes exist to
+anchor it to.
+
+### Finding C: the Founders' Garden is where Shirayuki actively commemorates being an engineered outcome
+
+**Combining:** attributes #9–10 (the Founders' Garden, an institutional marker for the diplomatically-
+engineered founding) + the existing Cross-Reference Synthesis's Finding 3 (Shirayuki as one of only two
+Tepenian cities whose founding was deliberately, institutionally engineered rather than organic — and a
+double-vindicated one).
+
+**2nd-order effect:** the Garden is specifically where that unusual founding story gets active civic
+memory — most Tepenian cities' founding narratives are organic-settlement stories, but Shirayuki's own
+commemorated origin is a diplomatic allocation decision, and this is the place that fact gets marked rather
+than treated as incidental history.
+
+**3rd-order effect:** worth noting this makes Shirayuki (alongside Sinheung) unique in actively celebrating
+an imposed origin as a civic strength, rather than either downplaying it or reframing it as something the
+founding population chose for themselves.
+
+### Finding D: the Cluster Boundary traditions are recent developments, not original cluster-era practices
+
+**Combining:** attributes #11–12 (the Cluster Boundary Walk, Cluster Suppers) + the Full Extrapolation's
+Section III (the early relationship with Sinheung and Zhongshan was genuinely more formal, warming gradually
+across the multi-generational amalgamation process).
+
+**2nd-order effect:** the Boundary Walk and Cluster Suppers are physical infrastructure and practice for the
+*end state* of that long warming process — meaning these specific, now-established traditions are
+comparatively recent, not something that existed from the cluster's founding.
+
+**3rd-order effect:** worth keeping in mind for any future writing set earlier in Shirayuki's own timeline —
+a scene set in the cluster's early generations shouldn't assume these particular traditions were already in
+place; per Section III, that closeness took real time to build.
+
+---
+
+**4 Findings derived for Shirayuki as of 2026-07-30 — combined with the existing 3 Findings in
+`Shirayuki_Cross_Reference_Synthesis.md`, Shirayuki now has 7 total Cross-Referenced Extrapolation Findings
+on file.** Methodology #2 continues with the remaining 3 Mirny subnet cities — see
 `Weekly_To-Do_-_Current.md`.

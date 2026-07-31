@@ -10,29 +10,33 @@ file and start a fresh one for the next stretch of work).
 
 ## High Priority
 
-- [ ] **DLC city Physical Infrastructure deep-dive — Methodology #1 (Base Attributes) COMPLETE for all 34 non-Byrd cities; Methodology #2 now unblocked**
-  Started 2026-07-30, directly following Byrd's own deep-dive (`Byrd_Physical_Infrastructure_Attributes.md`,
+- [x] **DLC city Physical Infrastructure deep-dive — Methodology #1 AND Methodology #2 COMPLETE for all 34 non-Byrd cities**
+  Completed 2026-07-30, directly following Byrd's own deep-dive (`Byrd_Physical_Infrastructure_Attributes.md`,
   80 attributes/57 Findings) — the source of `DLC_City_Under_Questline_Design_Method.md`'s own Input 9.
-  Byrd got this treatment because it's a single-city DLC carrying full internal complexity alone; the other
-  34 DLC cities across 5 subnets never went through either half of it. Two distinct methodologies, run in
-  sequence per Byrd's own precedent: **Methodology #1 (Base Attributes)** — first-principles derivation from
-  each city's own governing facts (geography, climate, population, economy) until it hits diminishing
-  returns, then a cross-city-comparison round (checking every other city's own Community Infrastructure file
-  for infrastructure types that genuinely apply). **Methodology #2 (Cross-Referenced Extrapolation
-  Findings)** — combining those attributes against each city's own existing established lore for genuine
-  multi-order-effect Findings, same "Combining → 2nd/3rd/4th-order effect" format Byrd's own file uses.
-  **Methodology #1 finished 2026-07-30: Mawson subnet (Dome Fuji, Mawson, Sayowa), Mirny subnet (Mirny,
-  Casey, Davis, Kunlun, Shirayuki, Sinheung, Vostok, Zhongshan), Halley subnet (Halley, Abowasa, Belgrano,
-  Lazar, Neumayer, Princess Elisabeth, Sanay, Troll), Janbogo subnet (Janbogo, Cape Adare, Denison,
-  Dumont d'Urville, Fort McMurdo, Scott, Zukelli), Palmer subnet (Palmer City, Esperanza, Juan Carlos,
-  Marambio, Port Lockroy, Rothera, Sejong, Signy) — all 34 of 34 non-Byrd cities done.** **Methodology #2
-  started 2026-07-30, run per-subnet like Methodology #1, depth scaled per city rather than uniform —
-  a multi-city subnet spreads its depth across cities, unlike Byrd's own single-city 57-Finding scale.
-  Mawson subnet COMPLETE: Dome Fuji +6 Findings (16 total, kept light — optional/non-main-questline
-  despite real existing depth), Mawson +10 Findings (13 total, deepest of the three per direct developer
-  instruction — needs to carry disproportionate weight since Sayowa is thin and Dome Fuji is optional),
-  Sayowa +4 Findings (7 total, lightest — least existing content of the three).** Mirny, Halley, Janbogo,
-  and Palmer subnets remain for Methodology #2.
+  Byrd got this treatment because it's a single-city DLC carrying full internal complexity alone; every other
+  DLC city across all 5 subnets has now gone through the identical two-part process. **Methodology #1 (Base
+  Attributes)** — first-principles derivation from each city's own governing facts, then a cross-city
+  comparison round. **Methodology #2 (Cross-Referenced Extrapolation Findings)** — combining those attributes
+  against each city's own existing lore for multi-order-effect Findings, same "Combining → 2nd/3rd/4th-order
+  effect" format Byrd's own file uses, appended directly into each city's own Attributes file. Depth scaled
+  per city rather than uniform in every subnet: each subnet's own hub/story-anchor city (or split of 2-3
+  cities, confirmed per-subnet against `DLC_Overview.md`, asking the developer directly whenever that file
+  left the central location ambiguous) got Mawson-level depth; every other city got proportionate, moderate
+  treatment reflecting its own existing depth, never a token pass. **Final totals — every city now has a
+  `[City]_Physical_Infrastructure_Attributes.md` file combining both methodologies:**
+  - **Mawson subnet:** Dome Fuji 16 Findings, Mawson 13 (deepest), Sayowa 7
+  - **Mirny subnet:** Mirny 11 (deepest), Kunlun 8, Vostok 8, Casey/Davis/Shirayuki/Sinheung/Zhongshan 7 each
+  - **Halley subnet:** Neumayer 11, Sanay 10, Troll 9 (three deep-treatment cities), Halley/Abowasa/Belgrano/
+    Lazar/Princess Elisabeth 8 each
+  - **Janbogo subnet:** Janbogo 10, Fort McMurdo 10 (two deep-treatment cities), Cape Adare/Denison/Dumont
+    d'Urville/Scott 8 each, Zukelli 9
+  - **Palmer subnet:** Palmer City 16 (deepest, single clean hub per `DLC_Overview.md`), Esperanza/Juan
+    Carlos/Port Lockroy/Rothera/Sejong/Signy 8 each, Marambio 7
+
+  This entire high-priority item is now fully resolved — the natural next step, whenever picked up, is
+  actually running `DLC_City_Under_Questline_Design_Method.md` against this material (Byrd is still the only
+  city confirmed ready to run it with zero fallbacks, but all 34 other cities now have real Input 9-equivalent
+  material of their own for the first time).
 
 - [ ] **The Long Night War's inciting incident — three identities still TBD**
   Core premise established 2026-07-04 (a diplomat assaulted a gynoid, killed in self-defense — she's Akina);
