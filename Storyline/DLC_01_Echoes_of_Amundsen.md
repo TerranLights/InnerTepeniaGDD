@@ -91,6 +91,66 @@ The Antarctic ice beneath and around the scrap mountain has fractured from the t
 
 ---
 
+## Hazard Placement Logic — Why Danger Lives Where It Lives
+
+**Established 2026-07-30, directly from developer instruction.** This DLC is meant to be brutally, mercilessly unforgiving — but every piece of that danger has to be in-world consistent. There would not logically be armor-piercing automated turrets in the mess hall where rotating crew once ate dinner together; that wouldn't make sense given what the room actually was. Nothing in this DLC exists just because "hard for the sake of hard." Every hazard, in every location, exists because of what that specific space was built for, what happened to it during the Long Night War, or what it's been guarding ever since.
+
+This section works room by room and system by system, cross-referenced directly against
+`Amundsen_Station_Physical_Infrastructure_Attributes.md`'s own 18 established attributes, to fix exactly
+where each category of danger belongs — and, just as importantly, where it doesn't.
+
+### The Core Principle
+
+**Danger correlates with what a space was actually for.** Places built to protect something irreplaceable, or built and defended by someone actively fighting a war, earn weapons-grade lethality. Places built around catastrophic industrial power carry catastrophic industrial hazards. Places built for people to live, eat, and talk in carry environmental decay — never violence. This isn't just a plausibility rule; it does real pacing work, giving the DLC genuine rhythm instead of uniform grinding difficulty, and it protects the low-danger rooms as the actual home for this DLC's environmental storytelling (the Wall of Home, the crew handoff logbook, the archive intake room's own reconstructible mystery) — a player under constant threat can't stop to read a journal entry, so the rooms meant to be read have to be allowed to be comparatively safe.
+
+---
+
+### Where Weapons-Grade Lethality Belongs
+
+**The Archive Guardian System** (attribute #16 — the dedicated archive-denial system, and the record intake/synchronization room, attribute #11). This is the one location in the entire facility where deliberately placed, brutal security hardware is not just justified but expected. It guards the single most strategically valuable intelligence asset in Tepenia — the pre-Split-Brain archive — already established as a distinct system from Kendra's own defenses, whose entire purpose is denying access to exactly what the DLC's deepest lore payoff depends on. Real-world secure information facilities get armed physical security precisely because the information inside is worth more than any individual life to whoever built the security. This should read as *engineered* — real chokepoints, real sightlines, a defensive design that makes tactical sense on inspection — not ambient, scattered danger. It is the DLC's legitimately hardest room, and it earns that status honestly.
+
+**Kendra Heinrich's own exterior kill zone** (attribute #17). Already established: she personally built these defenses during her final battle against Upper Earth forces, before retreating inside and locking the station. A soldier defending a position places weapons at approaches and chokepoints — building entrances, the exposed ice crossing to the emergency geothermal hatch, sightlines toward the breach point in the damaged section. This is tactically coherent precisely because it was built by a war goddess fighting for her life, not scattered by a designer for difficulty's own sake. It should read like an actual battle map, because that's exactly what it is.
+
+---
+
+### Where Danger Is Structural and Environmental, Not Military
+
+**The Commons Hall, crew quarters, Message Room, mediation chamber, and secondary passenger terminal** (attributes #5, #6, #8, #9 and the companion `Amundsen_Station_Community_Infrastructure.md` file's own Additions) should carry the *lowest* danger of any interior space in the DLC, exactly matching the mess-hall example that started this whole design pass. These rooms were built for people, not defense, and any hazard present should come from a decade-plus of disuse — sagging structural supports, ice-load stress on ceilings, frozen-solid doors — never weapons. These are deliberately the DLC's breathing-room spaces, where the environmental storytelling this project cares about (the Wall of Home, personal effects, the crew handoff record) can actually land.
+
+**The Underground Utility Tunnel Network** (attribute #12, DLC 1's own confirmed lore-content site). Carved directly into moving ice during the pre-war era, and further destabilized by the shockwave of the Tower's own catastrophic collapse. The danger here is honestly geological, not martial.
+
+- **Trigger:** gunfire or explosions in the confined space; sustained heat exposure against a load-bearing ice wall (even a held incendiary weapon, or a heat source lingering too long in one spot) destabilizes the structure thermally rather than acoustically.
+- **Avoidance:** stealth and melee builds have a genuine structural advantage here, not just a flavor one — the same cracking-sound and ice-discoloration cues already established for crevasse terrain apply directly.
+- **Turn it to advantage:** the classic collapse-the-tunnel-behind-you escape works here, but it's also a legitimate offensive tool — a deliberately triggered collapse in a narrow passage can catch multiple pursuing enemies at once, since the tunnels' own confinement means there's nowhere for them to spread out and avoid it.
+
+**The Bulk Material Export Terminal** (attribute #4). Heavy industrial cargo-handling machinery — cranes, magnetically-levitated rail systems for moving material up the Tower — left mid-operation for over a decade, plausibly still holding unrelieved mechanical tension or partial residual charge.
+
+- **Trigger:** cutting the wrong support cable, disturbing a load-bearing point under a suspended crane arm or counterweight, or accidentally restoring partial power to dormant machinery.
+- **Avoidance:** Investigation or Repair/Engineering skill checks to correctly identify which lines are actually load-bearing before touching anything; simply routing around the terminal costs time but nothing else.
+- **Turn it to advantage:** the single strongest environmental-kill candidate in the DLC — a player who correctly reads the room can drop a crane arm or counterweight directly onto enemies below, a payoff specifically earned by engaging with the room's own established industrial purpose rather than a generic environmental trap. The same suspended cargo rigging can also serve as a controlled-descent shortcut past a level with no stairs.
+
+**The Greenhouse Bay** (established in `Amundsen_Station_Community_Infrastructure.md`). A sealed, once-humid hydroponics space with no maintenance in over a decade — a genuinely different hazard register from anywhere else in the DLC.
+
+- **Trigger:** forcing open a sealed door or container releases a decade of built-up toxic mold spores or decay gas all at once.
+- **Avoidance:** breathing protection gear, or simply taking the time to vent the space slowly before entering — a direct reward for patience over rushing.
+- **Turn it to advantage:** the overgrown, feral plant biomass is a resource as much as a hazard — dense growth gives a stealth-oriented player real concealment that a combat-focused player charging straight through gets none of. This is the one room where the danger and the way past it are the same terrain feature, depending entirely on how the player chooses to approach it.
+
+**The Amundsen Tower base and the magnetic anomaly zones** (attributes #3 and #14). This is the actual ground zero of the catastrophe — the energy-regulation flywheel connection point where the Tower's own continent-spanning electromagnetic mass-driver system catastrophically failed, carrying roughly 324 GW at the moment of collapse. The magnetic anomaly hazards already established elsewhere in this document (severed accelerator-track segments, damaged superconducting bearing stations still holding trapped charge) should concentrate hardest here, because this location is *why* those hazards exist at all — this isn't invented lethality, it's the project's own established physics (see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md` and `Energy_Grid_Failure_Rationale.md` #11) finally paying off in a physical space.
+
+- **Trigger:** proximity, movement, or metal contact near severed accelerator-track segments or damaged bearing stations, per the already-established mechanic above.
+- **Avoidance:** the same audio/visual telegraphs already confirmed (humming, arcing light, hair-raising static), plus a genuinely interesting equipment layer worth building — a player who identifies these zones in advance can deliberately swap to non-metallic gear before entering.
+- **Turn it to advantage:** this document already establishes that some enemy units are specifically adapted to operate inside anomaly fields where the player's own systems degrade — the inverse is worth building deliberately: an *unadapted* enemy blundering into a live discharge zone while pursuing the player takes the exact hazard the player chose to route around. Luring, not fighting, becomes the correct play in this specific zone.
+
+---
+
+### Two Unifying Design Principles
+
+**Noise discipline is a real, cross-cutting tactical resource, not a flavor mechanic isolated to one room.** Gunfire risks the Commons Hall's ceiling, the tunnels' ice stability, and plausibly draws unwanted attention elsewhere in the ruins all at once. This means a stealth- or melee-leaning build gets rewarded systemically across the entire DLC, not just in one isolated stealth set-piece — the DLC's own difficulty curve quietly favors a genuinely different playstyle than the main game's more combat-forward default.
+
+**Coldshock and careful environmental reading actively work against each other, and this is the single strongest "intellectually engaging, not just cold" mechanic available in this DLC.** Coldshock Stage 2 already degrades Investigation (see the Coldshock Condition table, above). This means the longer a player lingers anywhere to read a room safely — checking for structural stress, listening for the tunnel's own warning cracks, watching for anomaly-zone arcing — the colder they get, and the worse their own hazard-reading ability becomes at exactly the moment they need it most. The "correct" play constantly shifts between moving fast (to manage Coldshock) and moving carefully (to avoid triggering a collapse or wandering into a live discharge), with no single stance that stays safe indefinitely. This tension isn't a new mechanic bolted on for this pass — it falls directly out of systems already locked into this DLC's design; it simply hadn't been named as a deliberate, cross-cutting design principle until now.
+
+---
+
 ## What Defeated Kendra Heinrich — Confirmed Design
 
 **Primary framework: Option D (environment + attrition + enemies that prevent recovery).**
