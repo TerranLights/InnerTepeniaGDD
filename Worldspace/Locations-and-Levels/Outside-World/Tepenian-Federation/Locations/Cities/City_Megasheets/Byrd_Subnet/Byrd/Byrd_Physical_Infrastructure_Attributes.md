@@ -178,6 +178,19 @@
 
 72. **A visible old-core vs. newer-expansion structural distinction within the city** — a direct consequence of the already-established fact that Byrd "grew outward and upward over generations" via organic, unplanned tunneling (attribute #14's own governing basis); older, more finished sections near the original founding encampment and the Chamber Works plausibly read differently, physically, from newer sections still under active construction.
 
+## The Lake *(added 2026-07-30 — developer's own design idea, cross-referenced against everything already established)*
+
+**Governing idea:** rather than solid rock/ice/steel on every side, one boundary of the city is instead an ultra-thick, transparent wall, beyond which — still under the ice — sits a massive subglacial lake, its ecosystem transplanted and cultivated from Lake Vostok's own genetics program (Mirny subnet, DLC 7), including bioluminescent life. This is checked directly against Byrd's own established geology and against Vostok's own established material below, rather than treated as an unconnected addition.
+
+73. **A massive subglacial lake immediately bordering the city**, sustained by the same mechanism already established for Byrd's own power source — West Antarctic marine bedrock sitting below sea level (`Byrd_Catalog.md`'s own Geological composition entry) combined with volcanic/geothermal heat (attribute #10) — the identical real-world combination that keeps the actual Lake Vostok liquid under roughly four kilometers of ice (`Specs/Vostok.md`).
+74. **An ultra-thick, flex-tolerant transparent boundary wall** (glass or a glass-adjacent engineered material) separating the inhabited city from the lake — built using the same flex-tolerant construction discipline already established for the rest of Byrd's structure (attribute #6), here scaled up to also withstand sustained hydrostatic pressure from the water itself.
+75. **A genetically-adapted, bioluminescent lake ecosystem**, transplanted and cultivated from Lake Vostok's own 15–25-million-year-isolated biology via Vostok's own established genetics program — not engineered from scratch, but naturally-evolved bioluminescence (a highly plausible adaptation to total, permanent darkness sustained across geologic time) identified and replicated using techniques Vostok's own resident geneticist, "Charlene" (XT-17), already established (`Vostok_Full_Extrapolation.md` Section III).
+76. **Dedicated structural monitoring specific to the boundary wall itself**, an extension of Byrd's continuous structural/seismic monitoring practice (attribute #5) and its dedicated maintenance-access network (attribute #49) — given the catastrophic stakes of any breach this close to inhabited space, this plausibly receives more concentrated monitoring attention than almost any other single structure in the city.
+77. **A small, specialized ecosystem-maintenance staff** (water quality, lake-life health, wall-clarity upkeep) — a genuine complementary role to the Growing Sections' own growth-keeper specialists (Finding 52), tending a living system for civic and psychological value rather than food production.
+78. **Residential and civic premium concentrated near the boundary wall** — given Byrd's total absence of natural light anywhere else (attribute #2) and its already-established need for light-deprivation/isolation countermeasures (attributes #4, #15), proximity to the one genuinely lit, living view in the entire city plausibly carries the same kind of desirability Finding 4 already establishes for proximity to the Chamber Works' waste heat — here for psychological rather than thermal reasons.
+79. **Supplementary ambient light from the bioluminescence itself, reaching the nearest sections** — distinct in kind from the purely engineered artificial lighting already established citywide (attribute #2); not a replacement for it, but a genuine living light source in a city that otherwise has none at all.
+80. **A distinct, more severe hazard classification for boundary-wall failure** than any other single risk currently on file — a breach here means sudden, massive, immediate flooding, serious enough to warrant its own specifically drilled-for emergency scenario, folded into but distinct from the general internal emergency shelter system (attribute #28) and condemned-zone protocols (attribute #7).
+
 ---
 
 ## Cross-Referenced Extrapolations: Combining This File's Attributes With Byrd's Existing Plot/Faction-Level Material
@@ -812,7 +825,67 @@
 
 ---
 
-**All 72 base attributes have now been cross-referenced into at least one Finding.** This is a natural completion point for this particular extrapolation method (systematically drawing every attribute into the plot/faction-level material) — any further Findings from here would need to either combine attributes in new ways not yet tried, or bring in outside material this file hasn't touched yet.
+### Finding 53: The Lake is the one deliberate exception to Finding 3's own "reseal everything" pattern — and that choice says something real about Byrd's own values
+
+**Combining:** attribute #73 above (the subglacial lake bordering the city) + Finding 3 above (chain #9's own established mechanism — anything unusual found while digging gets briefly documented, taken from, resealed, and left behind, with no centralized preservation effort ever built) + attributes #4/#15 (Vitamin D/UV-therapy provisioning, mental-health infrastructure specifically for isolation and light-deprivation).
+
+**2nd-order effect:** every other unusual discovery in Byrd's own established history — the deep, pre-exile Upper Earth remnants chain #9 itself describes — gets the same treatment: brief documentation, whatever's useful taken, then resealed and moved past. The Lake is the one confirmed exception to that pattern in the entire city's history.
+
+**3rd-order effect:** this means whoever first found it recognized it as different in kind, not degree — not a relic or remnant to catalog and move past, but a living, functioning ecosystem, and (given the already-established need for light/morale countermeasures) plausibly valuable specifically for ongoing psychological wellbeing rather than historical curiosity. Building permanent, expensive engineering (attribute #74's flex-tolerant wall) around it, rather than resealing it the way everything else gets resealed, was a conscious, unusual choice.
+
+**4th-order effect:** worth flagging as a genuine civic value statement Byrd rarely gets to make elsewhere in its own established material — a hardship-forged, necessity-driven city choosing, this one time, to build around wonder rather than simply past it. Worth naming directly in any future writing about the Lake: it isn't just infrastructure, it's the one thing this whole city agreed was worth the exception.
+
+---
+
+### Finding 54: The Lake's bioluminescence gives Charlene (Vostok) a second instance of her own established "found it, didn't build it" discovery pattern
+
+**Combining:** attribute #75 above (bioluminescent lake life, transplanted and cultivated rather than engineered from scratch) + `Vostok_Full_Extrapolation.md` Section III — Charlene's own established reduced-mutation-rate genetics breakthrough, which "originates in something she found already at work inside Lake Vostok's own ancient ecosystem... rather than engineering the technique from scratch, she identified an existing biological solution and adapted it."
+
+**2nd-order effect:** total, permanent darkness sustained across 15–25 million years of isolation (`Specs/Vostok.md`) is exactly the kind of sustained environmental pressure that would plausibly produce genuine bioluminescent adaptation in an isolated ecosystem — meaning Byrd's own lake life doesn't need to be read as a novel genetic-engineering feat invented for this specific purpose. It's the same kind of "found, not built" discovery Charlene's whole established character and breakthrough already runs on.
+
+**3rd-order effect:** this reinforces Charlene's own "unorthodox" character trait a second time, independently but consistently — someone who repeatedly finds working solutions already present in extremophile biology rather than engineering them from first principles, now demonstrated twice rather than once.
+
+**4th-order effect:** worth carrying forward as connective tissue whenever Charlene's own full questline gets developed — two independent instances of the same discovery pattern read as genuine methodology and personality, not a one-off breakthrough, and give her character a stronger throughline than either instance alone.
+
+---
+
+### Finding 55: The Lake transplant is Vostok's one meaningful exception to "produced knowledge and exported almost nothing else"
+
+**Combining:** attribute #75 above + `Specs/Vostok.md`'s own established economic profile — "Vostok's economy was the Lake Vostok research program and whatever the extreme plateau environment could support... It produced knowledge and exported almost nothing else" + `Vostok_Full_Extrapolation.md` Section VII's own established Vostok-Kunlun infrastructure-sharing relationship.
+
+**2nd-order effect:** framing the transplant as scientific collaboration rather than trade keeps Vostok's own established economic isolation genuinely intact — Vostok isn't becoming a biological exporter as an economic activity, this is a rare, specific instance of shared expertise, closer in kind to the existing Vostok-Kunlun relationship (infrastructure-sharing between isolated research sites) than to ordinary Tepenian trade.
+
+**3rd-order effect:** this gives Byrd a second nationally-significant, cross-subnet relationship beyond its own already-established Cradle/highway ties (Findings 1, 2, 11) — one built on scientific and civic collaboration rather than economic necessity, a genuinely different register of connection than anything else currently established in Byrd's own material.
+
+**4th-order effect:** worth carrying back into Vostok's own material as a light cross-reference (see `Vostok_Full_Extrapolation.md` Section IX, added the same day) — consistent with the "almost nothing else" phrasing's own built-in room for a rare, specific case, rather than contradicting it.
+
+---
+
+### Finding 56: The Lake becomes Byrd's real emotional landmark, distinct from — not a replacement for — the Elevator Halls' functional one
+
+**Combining:** the new Lake attributes (#73–79) + Finding 9 above (the elevators as Byrd's single most concrete physical landmark candidate) + attribute #2 (no natural light anywhere else in the city, ever) + Finding 13 above (St. Richard's Marker as the city's own established ritual site).
+
+**2nd-order effect:** the elevators are functionally central — sole surface connection, district-gate, per Finding 9 — but emotionally neutral; they're infrastructure, not identity. The Lake is the one place in the entire city with anything resembling a view, in a city with zero natural light anywhere else.
+
+**3rd-order effect:** this doesn't unseat Finding 9's own claim about the elevators, which remains true functionally and strategically — it adds a second, distinct kind of landmark. A "gate" landmark (the elevators) and a "heart" landmark (the Lake), the same way St. Richard's Marker already serves a distinct ritual function separate from either.
+
+**4th-order effect:** worth treating the Lake as Byrd's flagship visual and emotional anchor for any future level design or key art — it's literally the only place in the city with light, color, and movement, in an otherwise monochrome, sealed environment.
+
+---
+
+### Finding 57: The boundary wall's failure risk raises the ceiling on Byrd's existing structural-crisis material considerably
+
+**Combining:** attributes #74 and #80 above (the flex-tolerant wall, its distinct catastrophic-failure hazard classification) + `Byrd_Course_of_Events_Suggestions.md` chain #11 (Ice Sheet instability, an actively-managed but real, ongoing condition) + Finding 26 above (the Prospectors' Circle's own facility sitting at the intersection of excavation, fabrication-adjacent heat, and ice-boundary exposure).
+
+**2nd-order effect:** if the Lake sits near or adjacent to the same ice-boundary territory Finding 26 already flags as Byrd's single most structurally exposed zone, a wall breach here wouldn't just flood a residential section — it could plausibly interact with or be triggered by the exact structural-strain mechanism chain #11 already treats as a real, ongoing risk.
+
+**3rd-order effect:** this gives Byrd's worst-case disaster scenario — already the subject of `Storyline/DLC-Questlines/Byrd/` Candidates #06 and #19 — a far more visceral, higher-stakes physical mechanism than either currently has on its own, without requiring either candidate to be rewritten from scratch.
+
+**4th-order effect:** worth flagging directly back into Candidates #06 and #19 as a strengthening cross-reference, and worth carrying into any future Byrd atmospheric writing more broadly — residents living beside a beautiful, living wall that is also, quietly, one wrong structural event away from disaster is a strong, standing tension worth keeping visible rather than resolving.
+
+---
+
+**80 base attributes and 57 Findings as of 2026-07-30's Lake addition** — the developer's own design idea, cross-referenced against Byrd's established geology, its own structural-risk material, and Vostok's established genetics program, rather than treated as an unconnected addition. This is a natural completion point for this particular extrapolation method (systematically drawing every attribute into the plot/faction-level material) — any further Findings from here would need to either combine attributes in new ways not yet tried, or bring in outside material this file hasn't touched yet.
 
 ## Worth Your Attention
 
@@ -831,3 +904,5 @@ Finding 1 and Finding 2 are the most load-bearing of the first fourteen — both
 **Findings 23–30, added 2026-07-30, resuming extrapolation** after the attribute-focused rounds — cross-referencing the newly-added attributes (17–72) against Byrd's existing plot/faction material and the Findings already on file. Finding 26 is the most consequential of this round: it identifies the Prospectors' Circle's own ore-processing facility as the single physical location where three separately-established hazards (active excavation, fabrication-adjacent heat, and ice-boundary exposure) intersect, making it the strongest-supported candidate location for any future structural-crisis content. Finding 25 is the most useful for eventual level design — it turns the five guildhalls into a literal, walkable timeline of Byrd's own economic history, requiring no dialogue to communicate. Finding 24 surfaces a genuinely new tension (physical isolation vs. digital/Arcanet connectivity) that nothing in Byrd's existing material had articulated before. Findings 23, 27, 28, 29, and 30 each strengthen or add texture to specific earlier Findings (14, 3, 20/7, 2, and 11 respectively) using attributes that didn't exist when those Findings were first written. Findings now stand at 30.
 
 This file remains raw material, not a finished pass — the next extrapolation round would keep cross-referencing remaining under-used attributes (the Safety & Redundancy and Civic & Institutional expansions from Rounds 4–5 in particular haven't been drawn on yet) against Byrd's existing material; after that, or in parallel, work can move to Byrd's own `Byrd_Community_Infrastructure.md`, following the same Additions/Small-offices/Social-cohesion-mechanisms structure as all 34 other DLC cities.
+
+**The Lake, added 2026-07-30 (attributes #73–80, Findings 53–57):** the developer's own design idea — a subglacial lake and bioluminescent ecosystem bordering the city behind a flex-tolerant transparent wall, replacing part of Byrd's brutalist self-image with something alive. Checked directly against Byrd's own established geology (marine bedrock below sea level, volcanic/geothermal heat, both already on file) and against Vostok's own established material (Lake Vostok, Charlene's genetics program, its "exported almost nothing else" economic profile) before being written in, rather than treated as an unconnected addition. Finding 56 is the most consequential: the Lake becomes Byrd's real emotional landmark, distinct from the Elevator Halls' functional one — the only place in the entire city with light, color, and movement. Finding 53 is the most thematically important: it's the one deliberate exception to Finding 3's own "reseal everything" pattern, meaning Byrd's own established culture made a conscious, unusual choice to build around this discovery rather than past it. Finding 57 is the most load-bearing for future crisis content — it gives Candidates #06 and #19 (`Storyline/DLC-Questlines/Byrd/`) a far higher ceiling of stakes without requiring either to be rewritten. See `Byrd_Community_Infrastructure.md` for the Lake's own Addition entry, and `Vostok_Full_Extrapolation.md` Section IX for the reciprocal cross-reference. Base attribute count now stands at 80; Findings at 57.

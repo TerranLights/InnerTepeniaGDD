@@ -6,6 +6,7 @@
 
 ## Additions
 
+- **The Long Window** *(added 2026-07-30 — the developer's own design idea)* — the one boundary of the city that isn't rock, ice, or steel: an ultra-thick, flex-tolerant transparent wall facing a massive subglacial lake, its bioluminescent ecosystem transplanted and cultivated from Lake Vostok's own ancient biology via Vostok's established genetics program. The only place in the entire city with light, color, and movement that isn't engineered — and, by the city's own established habit of resealing everything unusual it finds while digging, the one deliberate exception to that pattern in Byrd's whole history.
 - **The Elevator Halls** — the small number of massive shafts forming Byrd's sole connection between the surface city and the buried bulk below; functionally the city's real gates, the closest thing Byrd has to a checkpoint or district boundary, with a smaller, slower emergency shaft kept in reserve alongside the primary lifts.
 - **St. Richard's Marker** — the modest memorial at the original surface encampment, informally adopted across every one of Byrd's five guilds as the place people visit quietly before undertakings nobody can yet be certain will hold.
 - **The Chamber Works** — the specially reinforced, most heavily monitored section of the fabrication plants, where Byrd manufactures the fabrication-synthesis chambers that make it one of only two active sites in Tepenia still capable of building a robot from nothing.
@@ -30,9 +31,11 @@
 - trauma surgery and epidemiological containment (the hospital and quarantine complex)
 - hydroponic cultivation, cultured-protein production, and fermentation/preservation craft
 - robot maintenance, diagnostics, and firmware servicing
+- lake-ecosystem maintenance — water quality, lake-life health, and wall-clarity upkeep for the Long Window
 
 ## Social cohesion mechanisms
 
+- residents visiting the Long Window to sit with the one lit, living view in the entire city — a different emotional register from St. Richard's Marker below: not facing uncertainty, but a quiet, valued relief from a city that otherwise has no light at all
 - St. Richard's Marker as a shared, cross-guild ritual for facing genuine uncertainty — a precision-critical call in the fabrication plants, an uncertain read on unstable extraction ground, any decision nobody can yet be certain will hold
 - self-sufficiency that began as necessity and became pride without much reflection — visible now in the Shift Halls' own fermented, preserved food and the Growing Sections' own quiet craft pride, the same arc that defines the city's founding character writ small, at the scale of a single shared meal
 - the open, unresolved coexistence between founding-descendant families (who still hold a disproportionate share of the city's deep structural and wayfinding knowledge) and the far larger population who arrived later, indirectly, via the Palmer City redistribution — a real fault line the city doesn't pretend has resolved into one smoothed-over identity
@@ -44,4 +47,6 @@
 
 ## Worth Your Attention
 
-This closes the nationwide Community Infrastructure & Social Life push — all 35 subnet cities complete, alongside Concordia's 13 districts done earlier. Byrd is also the only city in the entire push whose Community Infrastructure content was written *after* a dedicated, city-specific physical-infrastructure deep-dive rather than derived directly from Megasheet/Local Cultures material alone — every Addition above traces back to a specific, numbered attribute or Finding in `Byrd_Physical_Infrastructure_Attributes.md`, which is worth treating as this file's real working notes if any entry above needs expanding later. The Elevator Halls and the founding-descendant/redistributed-majority fault line are the two strongest anchors for future content: the first is Byrd's single most concrete physical landmark, the second its most load-bearing unresolved social tension, and DLC 2's own still-undeveloped central crisis has genuine, already-established material to draw on in both.
+This closes the nationwide Community Infrastructure & Social Life push — all 35 subnet cities complete, alongside Concordia's 13 districts done earlier. Byrd is also the only city in the entire push whose Community Infrastructure content was written *after* a dedicated, city-specific physical-infrastructure deep-dive rather than derived directly from Megasheet/Local Cultures material alone — every Addition above traces back to a specific, numbered attribute or Finding in `Byrd_Physical_Infrastructure_Attributes.md`, which is worth treating as this file's real working notes if any entry above needs expanding later. The founding-descendant/redistributed-majority fault line remains Byrd's most load-bearing unresolved social tension, and DLC 2's own still-undeveloped central crisis has genuine, already-established material to draw on there.
+
+**The Long Window, added 2026-07-30, is now Byrd's real flagship landmark** — the Elevator Halls remain the city's single most functionally consequential structure (sole surface connection, district gate), but the Long Window is its emotional one: the only place in the entire city with light, color, and life that isn't engineered, in a city with no natural light anywhere else. It's also the one deliberate exception to Byrd's own established habit of resealing everything unusual it finds while digging — worth treating as a genuine statement about what this hardship-forged city considers worth the exception, not just a scenic backdrop.

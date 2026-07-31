@@ -56,6 +56,18 @@
 
 ---
 
+## IX. A Second Exception to "Exported Almost Nothing Else" — the Byrd Lake Transplant
+
+**Added 2026-07-30, cross-referenced from `Byrd_Physical_Infrastructure_Attributes.md` Finding 55** (Byrd Subnet's own physical-infrastructure deep-dive): Byrd — a single-city DLC subnet built almost entirely underground — has added a massive subglacial lake bordering the city, its bioluminescent ecosystem transplanted and cultivated from Lake Vostok's own ancient biology via this city's established genetics program. This is proposed as a **rare, specific exception** to this Megasheet's own established economic profile ("Vostok's economy was the Lake Vostok research program... It produced knowledge and exported almost nothing else," `Specs/Vostok.md`) — framed as scientific collaboration, not trade, closer in kind to the Section VII Vostok-Kunlun infrastructure-sharing relationship above than to ordinary Tepenian commerce.
+
+**Why the biology holds up:** total, permanent darkness sustained across 15–25 million years of isolation is exactly the kind of environmental pressure that would plausibly produce genuine bioluminescent adaptation in an isolated ecosystem. This means Byrd's own lake life doesn't require inventing a new capability for "Charlene" (XT-17) — it's the same "found it already at work, didn't engineer it from scratch" discovery pattern Section III above already establishes as the origin of her own reduced-mutation-rate breakthrough, demonstrated a second, independent time. Two instances of the same discovery pattern read as genuine methodology and personality, not a one-off.
+
+**Left open, deliberately:** the exact timing of the transplant (some point in Byrd's own post-founding history, once its fabrication economy could engineer the flex-tolerant boundary wall the lake required — see Byrd's own attribute #74) and whether "Charlene" was personally involved or whether this was handled by the wider Vostok research population per this Megasheet's own established distributed-understanding model (Section IV). Both are fine left TBD rather than forced.
+
+---
+
 ## Worth Your Attention
 
 Section III is the most load-bearing item here, and not just the discovery-origin proposal — the location correction is a real, actionable fix that should be made directly to "Charlene"'s own character sheet, not left sitting only in this document. Beyond that, it gives her still-largely-undeveloped breakthrough a genuine origin story, grounded directly in CRISPR's own real discovery arc, rather than leaving her technique as an unexplained fact. Section I and II together are the second most important pair — they resolve the founding community's fate and the population's arrival in a way that stays quiet and structural, consistent with the tone the rest of Vostok's established material already takes, rather than manufacturing drama that isn't otherwise supported.
+
+Section IX, added 2026-07-30, is worth flagging as a genuine strengthening of Section III rather than an unrelated addition — a second, independent instance of "Charlene"'s own established discovery pattern (finding what evolution already solved, rather than engineering it from scratch) gives her character a real throughline instead of resting on a single breakthrough. It's also a clean example of how this file's own "exported almost nothing else" line should be read: room for a rare, specific exception, not a rule to be silently violated or rigidly enforced against every future cross-reference.
