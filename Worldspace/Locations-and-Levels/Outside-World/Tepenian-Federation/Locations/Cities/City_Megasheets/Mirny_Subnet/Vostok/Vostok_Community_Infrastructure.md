@@ -11,6 +11,7 @@
 - **Charlene's Lab** — XT-17's own working space, where she found the reduced-mutation-rate genetics technique already at work inside the lake's ancient ecosystem.
 - **The Cold Record Marker** — civic acknowledgment of the −89.2°C record (July 21, 1983).
 - **The Kunlun Relay Terminal** — the physical comms-relay connection point for the resource-sharing relationship with Kunlun.
+- **The Formulation Kitchens** *(added 2026-07-31)* — where human meals and siligel batches alike are modeled, logged, and cross-referenced with the same precision-first discipline the genetics program applies to its own research; Vostok's engineered-precision food culture (`Local_Cultures/Mirny_Subnet/Vostok.md` Section 10) made physical.
 
 ## Small offices for educational training
 
@@ -24,6 +25,9 @@
 - **Archive Cross-Reference Nights** — informal gatherings where researchers compare their own partial understanding of the archive against each other's, since nobody holds the complete picture alone.
 - **Russian Terminology Walks** — informal induction for new arrivals into the Russian-derived equipment and archive vocabulary they'll use without ever learning to speak the language itself.
 - **Kunlun Relay Toasts** — the same mutual-acknowledgment tradition already proposed on Kunlun's side, of the resource-sharing relay connection holding through difficult stretches.
+- **The Proryv** *(added 2026-07-31)* — annual civic acknowledgment of the day the founding drilling program first broke through into the lake; the one Russian word ordinary residents say aloud rather than merely cite.
+- **The Full Accounting** *(added 2026-07-31)* — an annual, more formal counterpart to Archive Cross-Reference Nights, ceremonially acknowledging the archive's own scale.
+- **Window Courtesy** *(added 2026-07-31)* — the everyday custom of checking whether someone is currently "in their window" before approaching them directly, the practical, lived form of Vostok's own time-based public/private divide (`Local_Cultures/Mirny_Subnet/Vostok.md` Section 6d).
 
 ---
 

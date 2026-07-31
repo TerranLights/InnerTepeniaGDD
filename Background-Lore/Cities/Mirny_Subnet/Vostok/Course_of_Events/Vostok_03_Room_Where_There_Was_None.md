@@ -1,4 +1,14 @@
 # Vostok — Room Where There Was None
+
+**RETIRED 2026-07-31, per direct developer correction — not canon, kept for the record only.** This
+entire chain is built on an in-fiction population-redistribution event tied to Framheim and Little
+America. That premise no longer holds: neither city ever existed in Tepenia's own history — both were
+lost to real-world iceberg calving before the exile era could reach them — so there was never a
+displaced population, a resettlement, or a Federation resettlement coordinator for this chain to
+describe. Vostok's current population simply *is* what it is, with no arrival event of any kind. See
+`Vostok_Full_Extrapolation.md` Section II and `Vostok_Course_of_Events_Suggestions.md`'s own 2026-07-31
+correction note for the full picture. Do not build further content on this chain.
+
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #3**, translated from `Vostok_Course_of_Events_Suggestions.md` into

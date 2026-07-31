@@ -8,7 +8,7 @@
 
 **Combining:** CRISPR's real discovery arc (an ancient mechanism found already at work in nature, not engineered from scratch) + the Full Extrapolation's proposal that "Charlene"'s own breakthrough followed the same shape + Vostok's established central founding tension (a population that inherited the city's legend without having built any of it).
 
-**2nd-order effect:** there's a structural echo between "Charlene"'s own scientific method and the city's demographic story — just as she didn't invent her breakthrough but discovered something already present and waiting, the population living at Vostok today didn't build the city's Lake Vostok legacy; they arrived and found it already there.
+**2nd-order effect:** there's a structural echo between "Charlene"'s own scientific method and the city's demographic story — just as she didn't invent her breakthrough but discovered something already present and waiting, the population living at Vostok today didn't build the city's Lake Vostok legacy; they simply found themselves living inside it, with no migration story to even gesture at how the handoff happened.
 
 **3rd-order effect:** this makes "Charlene" a personal, concrete expression of Vostok's abstract civic tension, rather than that tension existing only as a population-wide demographic fact with no individual face attached to it.
 

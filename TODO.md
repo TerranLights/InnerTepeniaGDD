@@ -4,6 +4,12 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Remaining Municipal Holidays gaps — flagged 2026-07-31, deliberately deferred, not urgent
+
+A full-corpus scan (all 35 cities' `Local_Cultures` sheets) found that cuisine, social contract, and religion are fully developed everywhere except Vostok (now resolved — see `Local_Cultures/Mirny_Subnet/Vostok.md`). Municipal Holidays is the one category with real remaining gaps: **Belgrano** (`Local_Cultures/Halley_Subnet/Belgrano.md` Section 26) is completely blank, *"(TBD — not yet established.)"* — the closest analog to what Vostok had. **Kunlun** and **Casey** have partial gaps (individual heritage-community observances unaddressed; open question whether a transit/function-organized city even has many observances at all). **Mirny (city)** and **Esperanza** have trivial "additional observances: TBD" stubs sitting on top of an already-established primary holiday. Per direct developer instruction (2026-07-31), this isn't urgent — pick it up whenever convenient.
+
+---
+
 ## Byrd — deep-dive, Main Questline pool, and DLC City Under-Questline method complete 2026-07-30
 
 Byrd's own dedicated deep-dive is done: `Byrd_Physical_Infrastructure_Attributes.md` (80 numbered physical/civic attributes, incl. "The Long Window" — a subglacial bioluminescent lake, cross-referenced into Vostok's own material too — plus 57 Cross-Referenced Extrapolation Findings), `Byrd_Community_Infrastructure.md`, both concatenated into `Byrd/README.md`. Closes out the entire nationwide Community Infrastructure & Social Life push (35/35 subnet cities, plus Concordia's 13 districts done earlier).

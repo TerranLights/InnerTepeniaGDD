@@ -859,6 +859,8 @@
 
 **4th-order effect:** worth carrying back into Vostok's own material as a light cross-reference (see `Vostok_Full_Extrapolation.md` Section IX, added the same day) — consistent with the "almost nothing else" phrasing's own built-in room for a rare, specific case, rather than contradicting it.
 
+**Timing, resolved 2026-07-31** (see `Vostok_Full_Extrapolation.md` Section IX for the full reasoning): the transplant happened a good while before the events of the game, and not quickly — roughly one to two generations before the Amundsen Tower's own completion, once Byrd's fabrication economy had matured enough to engineer attribute #74's flex-tolerant boundary wall. Directly motivated by the same standing pressure attributes #4 and #15 already establish: extended underground living without regular sunlight access was straining the city's existing light-deprivation/isolation countermeasures, and the Lake was the fabrication economy's deliberate, considered answer to that specific, worsening psychological problem — not a purely scientific or economic project.
+
 ---
 
 ### Finding 56: The Lake becomes Byrd's real emotional landmark, distinct from — not a replacement for — the Elevator Halls' functional one

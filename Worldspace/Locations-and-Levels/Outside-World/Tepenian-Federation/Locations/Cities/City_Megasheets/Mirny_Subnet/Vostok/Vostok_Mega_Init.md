@@ -6,7 +6,7 @@
 
 ## The One-Line Pitch
 
-*The coldest city on Earth, sitting above a lake sealed from the sky for 25 million years, inhabited by a population that arrived by total demographic accident and inherited a Russian scientific legend that isn't theirs — living inside a research archive so vast that no single mind, human or robot, will ever hold the whole of it.*
+*The coldest city on Earth, sitting above a lake sealed from the sky for 25 million years, inhabited by a population that inherited a Russian scientific legend that isn't theirs — living inside a research archive so vast that no single mind, human or robot, will ever hold the whole of it.*
 
 ---
 
@@ -18,7 +18,7 @@
 | **Status** | Survived — extremely remote, but genuinely reachable via Hwy 37 |
 | **Subnet** | Mirny — Arcanet connection theoretical only; the actual physical highway link runs through Kunlun to Concordia instead |
 | **Population (Census I)** | 129,617 humans / 259,644 robots / 389,261 combined |
-| **Founding** | Russian exiles on Vostok Station's infrastructure, inheriting the Lake Vostok drilling program — but the *current* population arrived generations later, via an unrelated 2026-07-03 demographic redistribution, and carries zero connection to that founding story |
+| **Founding** | Russian exiles on Vostok Station's infrastructure, inheriting the Lake Vostok drilling program — but the *current* population carries zero connection to that founding story, with no known event explaining the gap (see `Vostok_Full_Extrapolation.md` Section II, revised 2026-07-31) |
 
 ---
 
@@ -75,14 +75,12 @@ Carried forward from `Specs/Vostok.md` and `Local_Cultures/Mirny_Subnet/Vostok.m
 **Resolved 2026-07-17:** the exact nature of the resident geneticist's discovery — per Course of Events
 Suggestion #5, "What the Ice Kept Secret" (`Vostok_Course_of_Events_Suggestions.md`), a natural
 DNA-repair mechanism evolved by organisms surviving millions of years of extreme isolation, cold, and
-pressure, recognized rather than engineered from scratch. Also resolved: how and why the
-Framheim/Little America-derived population ended up at Vostok specifically — per Suggestion #3, "Room
-Where There Was None," Vostok's own thinned founding population simply left the demographic room this
-displaced population needed, with nobody actually planning the resettlement in advance. Also resolved:
-language and daily-use culture — per Suggestion #8, "Words That Outlived the Speakers," daily life
-settles into linguistic layering: ordinary conversation in one language, inherited technical vocabulary
-in Russian nobody currently living there actually speaks. Also resolved: notable figures beyond the
-geneticist — per Suggestion #9, Archivist Yelena Voskresenskaya, one of the last founding-era
+pressure, recognized rather than engineered from scratch. Also resolved:
+language and daily-use culture — per Suggestion #8, "Words That Outlived the Speakers" (revised
+2026-07-31 into Vostok's own **liturgical language of science**: Russian survives as the formal register
+of scientific work — equipment nomenclature, archive terminology — the way Greek still structures
+modern science, without functioning as anyone's spoken daily language). Also resolved: notable figures
+beyond the geneticist — per Suggestion #9, Archivist Yelena Voskresenskaya, one of the last founding-era
 researchers, is named. Also resolved: whether the current population has taken up the Lake Vostok
 mission — per Suggestion #4, "A Legend Inherited, Not Built," most who stay are genuinely drawn into the
 research because it's worth doing, the legend becoming theirs by choice rather than inherited obligation.
@@ -92,6 +90,15 @@ Suggestion #7, "Equipment That Neither Outpost Can Make Alone," yes: a real, fun
 partnership, now dated precisely via the newly-drafted Suggestion #11, "Right After the Expansion"
 (`Course_of_Events/Vostok_11_Right_After_the_Expansion.md`), to immediately following Kunlun's own
 comms-relay expansion (Kunlun's own Suggestion #6).
+
+**Retired 2026-07-31, per direct developer correction:** the former "how and why the Framheim/Little
+America-derived population ended up at Vostok specifically" resolution (formerly Suggestion #3, "Room
+Where There Was None") is struck from canon. Framheim and Little America never existed in Tepenia's own
+history — both were lost to real-world iceberg calving before the exile era could reach them — so there
+was never a displaced population or a resettlement event for this chain to describe. Vostok's current
+population simply *is* what it is, ambient and undramatized, the same way any other city's population
+table is given rather than narrated into place. See `Vostok_Full_Extrapolation.md` Section II for the
+full correction.
 
 ---
 

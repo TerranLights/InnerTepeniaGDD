@@ -12,7 +12,7 @@ The full, concatenated Vostok reference — synthesis, then extrapolation, then 
 
 ## The One-Line Pitch
 
-*The coldest city on Earth, sitting above a lake sealed from the sky for 25 million years, inhabited by a population that arrived by total demographic accident and inherited a Russian scientific legend that isn't theirs — living inside a research archive so vast that no single mind, human or robot, will ever hold the whole of it.*
+*The coldest city on Earth, sitting above a lake sealed from the sky for 25 million years, inhabited by a population that inherited a Russian scientific legend that isn't theirs — living inside a research archive so vast that no single mind, human or robot, will ever hold the whole of it.*
 
 ---
 
@@ -24,7 +24,7 @@ The full, concatenated Vostok reference — synthesis, then extrapolation, then 
 | **Status** | Survived — extremely remote, but genuinely reachable via Hwy 37 |
 | **Subnet** | Mirny — Arcanet connection theoretical only; the actual physical highway link runs through Kunlun to Concordia instead |
 | **Population (Census I)** | 129,617 humans / 259,644 robots / 389,261 combined |
-| **Founding** | Russian exiles on Vostok Station's infrastructure, inheriting the Lake Vostok drilling program — but the *current* population arrived generations later, via an unrelated 2026-07-03 demographic redistribution, and carries zero connection to that founding story |
+| **Founding** | Russian exiles on Vostok Station's infrastructure, inheriting the Lake Vostok drilling program — but the *current* population carries zero connection to that founding story, with no known event explaining the gap (see `Vostok_Full_Extrapolation.md` Section II, revised 2026-07-31) |
 
 ---
 
@@ -75,10 +75,9 @@ A shared national synchrotron X-ray research facility at the Advanced Photon Sou
 ## What's Actually Open
 
 Carried forward from `Specs/Vostok.md` and `Local_Cultures/Mirny_Subnet/Vostok.md`, still genuinely unresolved:
-- The founding Russian community's fate — entirely unaddressed in current canon
+- The founding Russian community's fate — entirely unaddressed in current canon, and no longer tied to any population-arrival event (see `Vostok_Full_Extrapolation.md` Section II, revised 2026-07-31 — retired an earlier Framheim/Little America redistribution premise, since neither city ever existed in Tepenia's own history)
 - The exact nature of the resident geneticist's discovery in Lake Vostok, and what's actually in the incomprehensible research archive
-- How and why the Framheim/Little America-derived population specifically ended up at Vostok, as opposed to anywhere else
-- Language and daily-use culture, given the mismatch between the founding legend's Russian character and the current population's own USA/Japan-led composition
+- Language and daily-use culture, given the mismatch between the founding legend's Russian character and the current population's own USA/Japan-led composition — see Section V below for Russian's role as Vostok's liturgical language of science
 - Notable figures beyond the resident geneticist (confirmed as "Charlene"/XT-17, see `Vostok_Full_Extrapolation.md` Section III for her own location correction) — none else named yet
 - Whether the current population has taken up the Lake Vostok mission, ignores it, or something in between
 
@@ -100,13 +99,15 @@ Materials Innovation Platforms is the standout of this pass — not because it's
 
 ## I. The Founding Russian Community's Fate
 
-**Proposed:** no dramatic crisis, no single triggering event — simple, ordinary generational decline. Vostok's founding population was always necessarily small and necessarily specialized, selected hard for people who found genuine extreme isolation acceptable. Without significant new arrivals for centuries, and with each generation's descendants free to leave for less extreme cities elsewhere in Tepenia, the community gradually thinned through ordinary attrition — age, quiet departure, simply not being replaced — until, by the time of the 2026-07-03 redistribution, there was little left of the original population to displace. This avoids inventing an unsupported crisis and keeps the tragedy quiet and structural rather than sudden.
+**Proposed:** no dramatic crisis, no single triggering event — simple, ordinary generational decline. Vostok's founding population was always necessarily small and necessarily specialized, selected hard for people who found genuine extreme isolation acceptable. Without significant new arrivals for centuries, and with each generation's descendants free to leave for less extreme cities elsewhere in Tepenia, the community gradually thinned through ordinary attrition — age, quiet departure, simply not being replaced — until nothing remained of the original founding population. This avoids inventing an unsupported crisis and keeps the tragedy quiet and structural rather than sudden. *(Revised 2026-07-31 — no longer tied to any redistribution date or event; see Section II below.)*
 
 ---
 
-## II. Why This Specific Population Ended Up at Vostok
+## II. Why the Current Population Is at Vostok — Retired as a Question
 
-**Proposed:** following directly from Section I — by the time Framheim and Little America were removed from canon and their population needed somewhere to go, Vostok's own founding community had thinned enough to have genuine capacity for new arrivals, in a way most other Tepenian cities simply didn't. This wasn't a deliberate choice on anyone's part to send this population specifically to Vostok's legacy — it was a demographic gap that happened to exist there, and the redistribution filled it. The population that arrived didn't choose Vostok's legend; they arrived because there was room, plain and simple.
+*(Revised 2026-07-31, per direct developer correction.)* An earlier draft of this section proposed that Vostok's current, non-Russian population arrived via an in-fiction demographic redistribution event, tied to the removal of Framheim and Little America from canon. That framing has been retired: Framheim and Little America never existed in Tepenia's own history at all — both sites were lost to real-world iceberg calving before the exile era could ever reach them — so there is no city, no population, and no migration for this explanation to have come from. The 2026-07-03 date that appears elsewhere in this project's records around Vostok's population figures is a development-side bookkeeping date only, marking when those numbers were finalized in the project's own records — never an in-story event.
+
+**What replaces it:** nothing needs to. Vostok's current population simply *is* what it is, the same ambient, undramatized way every other Tepenian city's national-tier table is simply given rather than narrated into place. There is no "why did this specific population end up here" question left to answer, because no arrival ever happened for a reason to exist. This actually sharpens Vostok's own core identity ("A Legend Living in Someone Else's House," Local Cultures Section 5) rather than resolving it — the gap between the Russian founding legend and the population living there now isn't the residue of some traceable event; it's just how Vostok has always been.
 
 ---
 
@@ -126,13 +127,13 @@ Materials Innovation Platforms is the standout of this pass — not because it's
 
 ## V. Language: What Survives, What Doesn't
 
-**Proposed:** Russian survives only as institutional and scientific vocabulary — equipment labels, archive terminology, place-names within the research facility itself — inherited by practical necessity from the founding community that built and labeled all of it, the way Latin survives in scientific naming conventions without anyone actually speaking it day to day. Everyday spoken language at Vostok today is English- and Japanese-led, matching the current population's own USA/Japan-Primary composition. This gives the established language mismatch a concrete, lived shape: residents fluently using Russian-derived technical terms for equipment and archive sections while conducting ordinary daily life in a completely different language.
+**Settled 2026-07-31** (previously proposed here, now locked into `Local_Cultures/Mirny_Subnet/Vostok.md` Section 8): Russian survives at Vostok as a **liturgical language of science** — not liturgical in a religious sense, but the way Greek functions in modern science: a dead, unspoken-at-home language that still structures the formal register of the work itself. Equipment nomenclature, archive terminology, the oldest technical logs and citation conventions in the Lake Vostok research program, all inherited whole from the founding community and still used with total fluency and precision by researchers who couldn't hold an ordinary conversation in it. Everyday spoken language at Vostok is English- and Japanese-led, matching the current population's own USA/Japan-Primary composition. This gives the established language mismatch a concrete, lived shape: a researcher briefs a colleague in English or Japanese, then cites an archive designation or technical term in Russian without a second thought — the same reflexive gesture a modern biologist makes reaching for a Greek-rooted genus name. Nobody preserved Russian on purpose; it simply never had a reason to be replaced in the one narrow register where it had already done its job.
 
 ---
 
 ## VI. Did the Current Population Take Up the Mission?
 
-**Proposed:** yes, largely — but not out of any inherited duty or ancestral obligation, since the legacy was never theirs to begin with. Arriving at Vostok, the redistributed population found an already-running, genuinely significant scientific operation in progress, and most who chose to stay rather than move on were drawn into it because the work itself was worth doing, not because they felt bound to complete someone else's unfinished project. This makes the population's adoption of the Lake Vostok mission feel earned on its own terms, rather than assumed as an automatic inheritance.
+**Proposed:** yes, largely — but not out of any inherited duty or ancestral obligation, since the legacy was never theirs to begin with. The population at Vostok today found an already-running, genuinely significant scientific operation woven into the place they call home, and most who stay are drawn into it because the work itself is worth doing, not because they feel bound to complete someone else's unfinished project. This makes the population's adoption of the Lake Vostok mission feel earned on its own terms, rather than assumed as an automatic inheritance.
 
 ---
 
@@ -156,13 +157,15 @@ Materials Innovation Platforms is the standout of this pass — not because it's
 
 **Why the biology holds up:** total, permanent darkness sustained across 15–25 million years of isolation is exactly the kind of environmental pressure that would plausibly produce genuine bioluminescent adaptation in an isolated ecosystem. This means Byrd's own lake life doesn't require inventing a new capability for "Charlene" (XT-17) — it's the same "found it already at work, didn't engineer it from scratch" discovery pattern Section III above already establishes as the origin of her own reduced-mutation-rate breakthrough, demonstrated a second, independent time. Two instances of the same discovery pattern read as genuine methodology and personality, not a one-off.
 
-**Left open, deliberately:** the exact timing of the transplant (some point in Byrd's own post-founding history, once its fabrication economy could engineer the flex-tolerant boundary wall the lake required — see Byrd's own attribute #74) and whether "Charlene" was personally involved or whether this was handled by the wider Vostok research population per this Megasheet's own established distributed-understanding model (Section IV). Both are fine left TBD rather than forced.
+**Timing, resolved 2026-07-31, per direct developer note:** the transplant happened a good while before the events of the game — but not quickly. It's placed roughly one to two generations before the Amundsen Tower's own completion (very approximately 25–60 years earlier; note the Tower's own completion date remains a genuinely unresolved, tracked tension between ~2629–2639 and ~June 2688 — see `Timeline.md` — so this dating floats relative to whichever date eventually wins, not to a fixed year). The motivating pressure: by that point, Byrd's human population had been living underground for extended stretches without regular access to sunlight, straining exactly the light-deprivation and isolation countermeasures already established as a standing medical need (Byrd's own attributes #4, #15 — vitamin D/UV-therapy provisioning and dedicated mental-health infrastructure). Byrd's fabrication economy, once mature enough to engineer the flex-tolerant boundary wall the lake required (attribute #74), was deliberately turned toward this as a genuine psychological-wellbeing project — not a purely scientific or economic one. This sharpens Findings 53/54's own "wonder over necessity" framing (see `Byrd_Physical_Infrastructure_Attributes.md`) rather than replacing it: the wonder wasn't for its own sake, it was the specific, considered answer to a real and worsening psychological problem the city had already been managing with blunter tools for a generation or more.
+
+**Left open, still:** whether "Charlene" was personally involved or whether this was handled by the wider Vostok research population per this Megasheet's own established distributed-understanding model (Section IV). Fine left TBD rather than forced.
 
 ---
 
 ## Worth Your Attention
 
-Section III is the most load-bearing item here, and not just the discovery-origin proposal — the location correction is a real, actionable fix that should be made directly to "Charlene"'s own character sheet, not left sitting only in this document. Beyond that, it gives her still-largely-undeveloped breakthrough a genuine origin story, grounded directly in CRISPR's own real discovery arc, rather than leaving her technique as an unexplained fact. Section I and II together are the second most important pair — they resolve the founding community's fate and the population's arrival in a way that stays quiet and structural, consistent with the tone the rest of Vostok's established material already takes, rather than manufacturing drama that isn't otherwise supported.
+Section III is the most load-bearing item here, and not just the discovery-origin proposal — the location correction is a real, actionable fix that should be made directly to "Charlene"'s own character sheet, not left sitting only in this document. Beyond that, it gives her still-largely-undeveloped breakthrough a genuine origin story, grounded directly in CRISPR's own real discovery arc, rather than leaving her technique as an unexplained fact. Section I resolves the founding community's fate in a way that stays quiet and structural, consistent with the tone the rest of Vostok's established material already takes; Section II, as revised 2026-07-31, explains why that fate no longer needs to connect to any population-arrival event at all — a genuine simplification, not a loose end.
 
 Section IX, added 2026-07-30, is worth flagging as a genuine strengthening of Section III rather than an unrelated addition — a second, independent instance of "Charlene"'s own established discovery pattern (finding what evolution already solved, rather than engineering it from scratch) gives her character a real throughline instead of resting on a single breakthrough. It's also a clean example of how this file's own "exported almost nothing else" line should be read: room for a rare, specific exception, not a rule to be silently violated or rigidly enforced against every future cross-reference.
 
@@ -178,7 +181,7 @@ Section IX, added 2026-07-30, is worth flagging as a genuine strengthening of Se
 
 **Combining:** CRISPR's real discovery arc (an ancient mechanism found already at work in nature, not engineered from scratch) + the Full Extrapolation's proposal that "Charlene"'s own breakthrough followed the same shape + Vostok's established central founding tension (a population that inherited the city's legend without having built any of it).
 
-**2nd-order effect:** there's a structural echo between "Charlene"'s own scientific method and the city's demographic story — just as she didn't invent her breakthrough but discovered something already present and waiting, the population living at Vostok today didn't build the city's Lake Vostok legacy; they arrived and found it already there.
+**2nd-order effect:** there's a structural echo between "Charlene"'s own scientific method and the city's demographic story — just as she didn't invent her breakthrough but discovered something already present and waiting, the population living at Vostok today didn't build the city's Lake Vostok legacy; they simply found themselves living inside it, with no migration story to even gesture at how the handoff happened.
 
 **3rd-order effect:** this makes "Charlene" a personal, concrete expression of Vostok's abstract civic tension, rather than that tension existing only as a population-wide demographic fact with no individual face attached to it.
 
@@ -235,6 +238,7 @@ The most important item in this whole document isn't a finding — it's the corr
 - **Charlene's Lab** — XT-17's own working space, where she found the reduced-mutation-rate genetics technique already at work inside the lake's ancient ecosystem.
 - **The Cold Record Marker** — civic acknowledgment of the −89.2°C record (July 21, 1983).
 - **The Kunlun Relay Terminal** — the physical comms-relay connection point for the resource-sharing relationship with Kunlun.
+- **The Formulation Kitchens** *(added 2026-07-31)* — where human meals and siligel batches alike are modeled, logged, and cross-referenced with the same precision-first discipline the genetics program applies to its own research; Vostok's engineered-precision food culture (`Local_Cultures/Mirny_Subnet/Vostok.md` Section 10) made physical.
 
 ## Small offices for educational training
 
@@ -248,6 +252,9 @@ The most important item in this whole document isn't a finding — it's the corr
 - **Archive Cross-Reference Nights** — informal gatherings where researchers compare their own partial understanding of the archive against each other's, since nobody holds the complete picture alone.
 - **Russian Terminology Walks** — informal induction for new arrivals into the Russian-derived equipment and archive vocabulary they'll use without ever learning to speak the language itself.
 - **Kunlun Relay Toasts** — the same mutual-acknowledgment tradition already proposed on Kunlun's side, of the resource-sharing relay connection holding through difficult stretches.
+- **The Proryv** *(added 2026-07-31)* — annual civic acknowledgment of the day the founding drilling program first broke through into the lake; the one Russian word ordinary residents say aloud rather than merely cite.
+- **The Full Accounting** *(added 2026-07-31)* — an annual, more formal counterpart to Archive Cross-Reference Nights, ceremonially acknowledging the archive's own scale.
+- **Window Courtesy** *(added 2026-07-31)* — the everyday custom of checking whether someone is currently "in their window" before approaching them directly, the practical, lived form of Vostok's own time-based public/private divide (`Local_Cultures/Mirny_Subnet/Vostok.md` Section 6d).
 
 ---
 

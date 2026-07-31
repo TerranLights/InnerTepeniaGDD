@@ -2,11 +2,17 @@
 
 **Scope note:** all ten chains below are set strictly *before* the Long Night War, during the Second
 Interwar Period when Tepenia is a full, functioning country. Nearly all of Vostok's own established
-history already falls in this window — the founding community's decline, the redistributed
-population's arrival, and the Lake Vostok research program all predate the war. 10 candidate
-But/Therefore chains built from Vostok's Megasheet (the coldest city on Earth, the archive too vast
-for any one mind, the population that inherited a legend it never built). Post-settlement only;
-nothing here is canon.
+history already falls in this window — the founding community's decline and the Lake Vostok research
+program both predate the war. 10 candidate But/Therefore chains built from Vostok's Megasheet (the
+coldest city on Earth, the archive too vast for any one mind, the population that inherited a legend
+it never built). Post-settlement only; nothing here is canon.
+
+**Correction, 2026-07-31:** chain #3 below ("Room Where There Was None") built its premise on an
+in-fiction population-redistribution event tied to Framheim and Little America. That premise is
+retired per direct developer correction — those two cities never existed in Tepenia's own history at
+all, so there was never a displaced population to resettle. Chain #3 is kept below, struck through
+context and all, for the record of how the file's own thinking evolved, but should not be treated as
+a live candidate. Chains #2, #4, and #8 have been lightly adjusted to no longer depend on it.
 
 ---
 
@@ -33,21 +39,24 @@ same research infrastructure with fewer and fewer hands. **Therefore** by the ti
 passed, there's remarkably little of the founding population left — a decline so gradual nobody could
 point to the moment it became irreversible.
 
-## 3. Room Where There Was None
+## 3. Room Where There Was None *(RETIRED 2026-07-31 — see correction note above)*
 
-A displaced population needs somewhere to resettle after their own home site is removed from
-habitability. **But** most Tepenian cities have no real capacity to absorb a substantial new arrival
-all at once. **Therefore** Vostok, its own founding community thinned by generations of quiet decline,
-turns out to have exactly the kind of demographic room this displaced population needs. **But** nobody
-actually planned to send them to inherit Vostok's own scientific legacy specifically. **Therefore**
-the resettlement happens simply because the gap existed, not because anyone chose this population to
-carry Vostok's legend forward — a plain, unglamorous demographic fact that ends up defining the city's
-whole present character.
+*Kept for the record only; not a live candidate.* A displaced population needs somewhere to resettle
+after their own home site is removed from habitability. **But** most Tepenian cities have no real
+capacity to absorb a substantial new arrival all at once. **Therefore** Vostok, its own founding
+community thinned by generations of quiet decline, turns out to have exactly the kind of demographic
+room this displaced population needs. **But** nobody actually planned to send them to inherit
+Vostok's own scientific legacy specifically. **Therefore** the resettlement happens simply because
+the gap existed, not because anyone chose this population to carry Vostok's legend forward — a plain,
+unglamorous demographic fact that ends up defining the city's whole present character. *(Retired: this
+premise required Framheim and Little America to have existed as real, displaced Tepenian cities. They
+never did — see `Vostok_Full_Extrapolation.md` Section II. Vostok's current population simply is what
+it is, with no resettlement event of any kind.)*
 
 ## 4. A Legend Inherited, Not Built
 
-The newly-arrived population finds an already-running, genuinely significant research operation in
-progress at Vostok, built by people they have no ancestral connection to at all. **But** inheriting
+Vostok's current population finds itself living inside an already-running, genuinely significant
+research operation, built by people they have no ancestral connection to at all. **But** inheriting
 infrastructure isn't the same as inheriting obligation — nobody who arrives owes the founders' project
 anything. **Therefore** each new resident makes an individual choice about whether to stay and take
 part in the Lake Vostok work or move on to somewhere less demanding. **But** the work itself turns out
@@ -146,9 +155,10 @@ of Kunlun's own expansion rather than existing as an undated, always-assumed fac
 
 ## Worth Your Attention
 
-**#2, #3, and #4** trace Vostok's full demographic arc — the founders' quiet decline, the
-redistributed population's arrival, and their own deliberate choice to take up the work — giving the
-Megasheet's own central "inherited legend" tension an actual causal sequence. **#5** is the richest
+**#2 and #4** trace what remains of Vostok's demographic arc — the founders' quiet decline, and the
+current population's own deliberate choice to take up the work — giving the Megasheet's own central
+"inherited legend" tension an actual causal sequence, without needing #3's now-retired resettlement
+premise to bridge them. **#5** is the richest
 individual thread of the ten, since it's the only one built directly from already-sanctioned candidate
 material for Vostok's own resident geneticist, giving her established backstory proposal a fuller
 dramatized shape. **#11** resolves a genuine cross-city timeline constraint, anchoring chain #7's

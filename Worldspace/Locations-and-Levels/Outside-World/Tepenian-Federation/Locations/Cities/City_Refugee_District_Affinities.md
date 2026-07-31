@@ -12,6 +12,8 @@
 
 Two cities (Kunlun, Dome Fuji) are flagged as lower-confidence, atypical cases — both are curated, largely-robot devotional/vocational populations rather than organic home cities, so "where their refugees would settle" is a genuinely softer question than for the other 33. Vostok is flagged separately — its own Megasheet is honest that most of its content is proposed extrapolation rather than settled fact.
 
+**Verification pass, 2026-07-31.** Every city in this file received a large new pass of content on 2026-07-30 (`[City]_Physical_Infrastructure_Attributes.md`, with Cross-Referenced Extrapolation Findings) that wasn't available when this file's picks were originally made. Checked every one of the 35 cities' new material against its existing top-3 pick here, plus cross-checked each district's own reverse-index composition against its established personality in `District_Canon_Reference.md`. Result: the overwhelming majority of picks came back **strengthened** — the new Findings gave existing reasoning concrete physical/institutional grounding it didn't have before, in several cases (Sanay, Fort McMurdo, Mawson, Sinheung's own Finding A, Signy's own Finding C, Byrd) landing close to verbatim matches with a district's own defining cultural language. Two genuine mismatches surfaced and were corrected below: **Signy** (Virgo now leads, was Sagittarius) and **Sinheung** (Capricorn now leads, was Aquarius) — both caught by cross-checking each city's own established Enneagram/cultural read directly against the destination district's own stated Enneagram lean, not just thematic vibes. **Vostok**'s existing low-confidence flag was narrowed rather than resolved — its 2nd/3rd-place picks are now well-grounded, its 1st-place pick is still soft. See each city's own reasoning entry below for the specific evidence. Nothing else required a change.
+
 ---
 
 ## Master Table — Top-3 District Affinity by City
@@ -32,7 +34,7 @@ Two cities (Kunlun, Dome Fuji) are flagged as lower-confidence, atypical cases �
 | Juan Carlos | Palmer | Libra | Leo | Aquarius |
 | Palmer City | Palmer | Leo | Libra | Cancer |
 | Rothera | Palmer | Capricorn | Virgo | Sagittarius |
-| Signy | Palmer | Sagittarius | Virgo | Taurus |
+| Signy | Palmer | Virgo | Sagittarius | Taurus |
 | Port Lockroy | Palmer | Taurus | Cancer | Virgo |
 | Cape Adare | Janbogo | Taurus | Cancer | Libra |
 | Janbogo (city) | Janbogo | Gemini | Leo | Libra |
@@ -49,7 +51,7 @@ Two cities (Kunlun, Dome Fuji) are flagged as lower-confidence, atypical cases �
 | Zhongshan | Mirny | Libra | Virgo | Taurus |
 | Shirayuki | Mirny | Leo | Aquarius | Pisces |
 | Davis | Mirny | Virgo | Taurus | Capricorn |
-| Sinheung | Mirny | Aquarius | Capricorn | Libra |
+| Sinheung | Mirny | Capricorn | Aquarius | Libra |
 | Vostok *(low-confidence — Megasheet itself is mostly proposed extrapolation)* | Mirny | Aquarius | Scorpio | Sagittarius |
 | Kunlun *(atypical)* | Mirny | Aquarius | Capricorn | Libra |
 | Byrd | Byrd | Virgo | Sagittarius | Capricorn |
@@ -67,13 +69,13 @@ Two cities (Kunlun, Dome Fuji) are flagged as lower-confidence, atypical cases �
 | Leo | Palmer City, Dumont d'Urville, Casey, Shirayuki | Juan Carlos, Janbogo (city), Zukelli | Denison, Mawson |
 | Scorpio | *(none — see Stage 2 Overrides)* | Vostok | Marambio, Scott |
 | Aries | Troll, Denison | Belgrano | — |
-| Capricorn | Neumayer, Marambio, Rothera | Troll, Fort McMurdo, Sinheung, Kunlun | Belgrano, Sanay, Sejong, Davis, Byrd |
-| Aquarius | Halley, Sinheung, Vostok, Kunlun | Marambio, Shirayuki | Juan Carlos, Dome Fuji |
+| Capricorn | Neumayer, Marambio, Rothera, Sinheung | Troll, Fort McMurdo, Kunlun | Belgrano, Sanay, Sejong, Davis, Byrd |
+| Aquarius | Halley, Vostok, Kunlun | Marambio, Shirayuki, Sinheung | Juan Carlos, Dome Fuji |
 | Libra | Sejong, Juan Carlos, Zhongshan | Halley, Neumayer, Palmer City, Fort McMurdo, Mirny (city), Sinheung, Kunlun | Abowasa, Cape Adare, Janbogo (city) |
 | Gemini | Janbogo (city) | Esperanza, Sejong, Sayowa | Princess Elisabeth |
 | Pisces | Dome Fuji | — | Shirayuki |
-| Sagittarius | Signy | — | Troll, Rothera, Denison, Dumont d'Urville, Vostok, Byrd |
-| Virgo | Belgrano, Sanay, Fort McMurdo, Davis, Byrd | Halley, Neumayer, Princess Elisabeth, Rothera, Signy, Port Lockroy, Dumont d'Urville, Casey, Zhongshan | Sayowa, Mirny (city) |
+| Sagittarius | — | Signy | Troll, Rothera, Denison, Dumont d'Urville, Vostok, Byrd |
+| Virgo | Belgrano, Sanay, Fort McMurdo, Davis, Byrd, Signy | Halley, Neumayer, Princess Elisabeth, Rothera, Port Lockroy, Dumont d'Urville, Casey, Zhongshan | Sayowa, Mirny (city) |
 | Hub | Princess Elisabeth, Sayowa | Lazar | Esperanza, Casey |
 
 ---
@@ -126,7 +128,7 @@ Everything above is a Stage 1 read: each city's own pre-war cultural character. 
 
 **Rothera** — Tops Capricorn/Virgo/Sagittarius. *Capricorn now leads.* The Megasheet frames Rothera's survival as a genuine, stated source of pride — deliberate decentralization and engineering resilience, not luck — which is real achievement-pride (Capricorn) rather than Virgo's usual self-effacing modesty, though the underlying distributed-infrastructure competence still earns Virgo second place.
 
-**Signy** — Tops Sagittarius/Virgo/Taurus. *Pisces dropped.* Confirmed: total self-sufficiency, a wildlife-and-weather civic rhythm, genuine peace with chronic isolation. Nothing in the Megasheet supports a Pisces-adjacent dissolution or vice angle — Signy's isolation reads as patient and content, not underworld-flavored, so Virgo (patient, self-managing competence) and Taurus (small-scale, intimate stability) replace it.
+**Signy** — Tops Virgo/Sagittarius/Taurus. *Revised 2026-07-31 — Virgo now leads, swapped up from 2nd.* Confirmed: total self-sufficiency, a wildlife-and-weather civic rhythm, genuine peace with chronic isolation; nothing supports a Pisces-adjacent dissolution or vice angle, so Pisces stays dropped. The reordering comes from checking Signy's own established Enneagram read (`City_Enneagram_Personalities/Palmer_Subnet/Signy.md`: Thinking/Withdrawn/Competency) directly against each district's own cultural-lean Enneagram in `District_Canon_Reference.md`. Virgo's own lean — Thinking + Compliant + Competency, "humility, meticulousness, quiet pride in functionality" — matches Signy almost exactly, two of three terms identical. Sagittarius's own lean — Assertive + Positive Outlook, "freedom, big-picture optimism... impatience with central bureaucracy" — is close to the opposite of Signy's quiet, Withdrawn, self-managing temperament; only "pride in self-sufficiency" genuinely overlaps, which is real but narrower than a full cultural match. New Finding C (2026-07-30 Physical Infrastructure Attributes pass) reinforces the correction directly: "every established fact about the city... points toward the same settled, unhurried, undisturbed character... Signy may be the single most internally consistent city profile in the entire project" — settled and unhurried is Virgo's register, not Sagittarius's restless frontier one. Sagittarius keeps its real, narrower self-sufficiency claim at 2nd place rather than being dropped outright.
 
 **Port Lockroy** — Tops Taurus/Cancer/Virgo. *Scorpio dropped for Virgo.* "A city that never demolishes its own history" — the communal stone wall, added to by generations who'll never see it finished, is the city's own stated emotional throughline: quiet, humble, ongoing, unglamorous labor. That's Virgo, not Scorpio's confrontational transformation. Taurus and Cancer (heirloom culture, lived memorial tradition) remain strongly confirmed.
 
@@ -166,9 +168,9 @@ Everything above is a Stage 1 read: each city's own pre-war cultural character. 
 
 **Davis** — Tops Virgo/Taurus/Capricorn. Confirmed almost verbatim: "help that's genuinely useful rather than performed," quiet competence over self-image, self-sufficient enrichment without seeking outside recognition.
 
-**Sinheung** *(files: Sinheung)* — Tops Aquarius/Capricorn/Libra. Confirmed and deepened: a city that went generations without choosing its own name — "Soyuz" was only ever a leftover label from the Russian station its Korean founders inherited via the Jeju-do court, until the city was officially named Sinheung (신흥) on 2026-07-14 — "Claimed, Not Found," with unusually sharp patriotism embedded in a claim proven through output rather than a self-chosen identity *(corrected 2026-07-13 — previously said this city "named itself after a spacecraft" and carried "a self-chosen identity"; it never did, and the working title has since changed from "Chosen Ambition, Not Inherited Memory" to "Claimed, Not Found")* — Aquarius' forward-orientation first, reinforced by its own established role manufacturing Cradle fabrication chambers (Capricorn, second).
+**Sinheung** *(files: Sinheung)* — Tops Capricorn/Aquarius/Libra. *Revised 2026-07-31 — Capricorn now leads, swapped up from 2nd.* Confirmed and deepened: a city that went generations without choosing its own name — "Soyuz" was only ever a leftover label from the Russian station its Korean founders inherited via the Jeju-do court, until the city was officially named Sinheung (신흥) on 2026-07-14 — "Claimed, Not Found," with unusually sharp patriotism embedded in a claim proven through output rather than a self-chosen identity *(corrected 2026-07-13 — previously said this city "named itself after a spacecraft" and carried "a self-chosen identity"; it never did, and the working title has since changed from "Chosen Ambition, Not Inherited Memory" to "Claimed, Not Found")*. The reordering comes from the new 2026-07-30 Physical Infrastructure Findings: Finding A's "earn it, don't inherit it" throughline — building to Neumayer's own external Mark IV schematic and delivering reliably — is disciplined, spec-following, output-proving achievement culture, a close match to Capricorn's own established lean ("discipline, measurable achievement, respect for hierarchy, focus on legacy through infrastructure"), and a much closer match than to Aquarius' own lean (reckless, self-certain visionary idealism, failed utopias, oversight routinely routed around) — nothing in Sinheung's culture resembles that register. Its Cradle-chamber manufacturing role now grounds Capricorn directly rather than serving as a secondary support for Aquarius; the city's genuine forward-orientation keeps Aquarius a real, if now secondary, claim.
 
-**Vostok** *(low-confidence — the Megasheet itself flags most of its own content as proposed, not settled)* — Tops Aquarius/Scorpio/Sagittarius. What is confirmed: a heavy genetics-research industry (Thinking/Withdrawn/Positive Outlook, mirroring Kunlun's structure) and a defining demographic mismatch — a population with zero Russian representation inheriting a Russian scientific legend that isn't theirs, "a legend living in someone else's house." That specific inherited-identity tension is genuinely Scorpio-flavored. Revisit once Vostok's own source material is less thin.
+**Vostok** *(low-confidence — the Megasheet itself flags most of its own content as proposed, not settled; narrowed 2026-07-31)* — Tops Aquarius/Scorpio/Sagittarius. What is confirmed: a heavy genetics-research industry (Thinking/Withdrawn/Positive Outlook, mirroring Kunlun's structure) and a defining demographic mismatch — a population with zero Russian representation inheriting a Russian scientific legend that isn't theirs, "a legend living in someone else's house." That specific inherited-identity tension is genuinely Scorpio-flavored. The 2026-07-30 Physical Infrastructure Findings firm up the 2nd- and 3rd-place picks specifically: Finding D identifies the inherited Russian-language signage and the archive's oldest, Yelena-attributed layer as "the same evidence, viewed differently" — concrete infrastructure now backing the Scorpio claim directly — and Finding E names a real crack in Vostok's self-sufficiency mythology (a hidden dependency on Kunlun), which lands as a genuinely Sagittarius-flavored detail against that district's own "pride in self-sufficiency" lean. The 1st-place Aquarius pick remains the weakest leg — nothing new directly reinforces it beyond the pre-existing genetics-research/innovation association. Low-confidence flag narrows accordingly: 2nd and 3rd are now reasonably well-grounded; 1st is still the part worth revisiting once Vostok's own source material thickens.
 
 **Kunlun** *(atypical — see note above)* — Tops Aquarius/Capricorn/Libra. *Scorpio dropped.* The Megasheet describes a curated, 19-nation space/astronomy/comms-heritage population whose engagement with its own hardship is joyful and all-consuming (Thinking/Withdrawn/Positive Outlook) — not effortfully confrontational. Aquarius' visionary/scientific character fits first; Capricorn picks up the vocational-excellence-as-identity thread; Libra the curated, qualification-based nature of who's allowed to belong there at all.
 

@@ -79,11 +79,13 @@ looks urgent enough on its own to prompt an actual institutional response.
 ## 3rd-Order Change
 ###### The downstream consequence of the 2nd-order change — caused by *it*, not by the original conflict.
 
-Because no institutional response ever developed, the population's eventual near-total absence catches
-the wider Federation administratively unprepared when the 2026-07-03 demographic redistribution needs
-somewhere to send the displaced Framheim and Little America population — Vostok's own gap wasn't a
-planned vacancy anyone had tracked, just an accumulated absence nobody in the administration had ever
-formally logged as a capacity opportunity until the redistribution effort went looking for exactly that.
+Because no institutional response ever developed, the population's eventual near-total absence goes
+entirely unaddressed — an accumulated absence nobody in the administration ever formally logged or
+resolved. *(Note, 2026-07-31: this section previously continued into a follow-on redistribution event
+tied to Framheim and Little America — retired per direct developer correction; see
+`Vostok_Course_of_Events_Suggestions.md`'s own correction note. Neither city ever existed in Tepenia's
+own history, so there was no displaced population and no crisis for Vostok's own gap to solve. What
+became of that gap, if anything, is now an open question rather than a resolved one.)*
 
 ---
 
@@ -91,8 +93,8 @@ formally logged as a capacity opportunity until the redistribution effort went l
 ###### The new baseline, feeding the next cycle.
 
 Vostok's founding community has thinned to almost nothing, entirely through ordinary, ungoverned
-attrition — an absence so gradual and so administratively unremarked that nobody realizes its true
-significance until an entirely unrelated demographic crisis elsewhere in Tepenia goes looking for exactly
-the kind of room Vostok, without anyone planning it, now has.
+attrition — an absence so gradual and so administratively unremarked that its true significance goes
+unaddressed. The population living at Vostok today has no traceable connection to this decline at all;
+this is simply the state the city was left in.
 
 ---
