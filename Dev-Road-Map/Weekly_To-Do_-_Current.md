@@ -10,6 +10,30 @@ file and start a fresh one for the next stretch of work).
 
 ## High Priority
 
+- [ ] **DLC city Physical Infrastructure deep-dive — Methodology #1 (Base Attributes) COMPLETE for all 34 non-Byrd cities; Methodology #2 now unblocked**
+  Started 2026-07-30, directly following Byrd's own deep-dive (`Byrd_Physical_Infrastructure_Attributes.md`,
+  80 attributes/57 Findings) — the source of `DLC_City_Under_Questline_Design_Method.md`'s own Input 9.
+  Byrd got this treatment because it's a single-city DLC carrying full internal complexity alone; the other
+  34 DLC cities across 5 subnets never went through either half of it. Two distinct methodologies, run in
+  sequence per Byrd's own precedent: **Methodology #1 (Base Attributes)** — first-principles derivation from
+  each city's own governing facts (geography, climate, population, economy) until it hits diminishing
+  returns, then a cross-city-comparison round (checking every other city's own Community Infrastructure file
+  for infrastructure types that genuinely apply). **Methodology #2 (Cross-Referenced Extrapolation
+  Findings)** — combining those attributes against each city's own existing established lore for genuine
+  multi-order-effect Findings, same "Combining → 2nd/3rd/4th-order effect" format Byrd's own file uses.
+  **Methodology #1 finished 2026-07-30: Mawson subnet (Dome Fuji, Mawson, Sayowa), Mirny subnet (Mirny,
+  Casey, Davis, Kunlun, Shirayuki, Sinheung, Vostok, Zhongshan), Halley subnet (Halley, Abowasa, Belgrano,
+  Lazar, Neumayer, Princess Elisabeth, Sanay, Troll), Janbogo subnet (Janbogo, Cape Adare, Denison,
+  Dumont d'Urville, Fort McMurdo, Scott, Zukelli), Palmer subnet (Palmer City, Esperanza, Juan Carlos,
+  Marambio, Port Lockroy, Rothera, Sejong, Signy) — all 34 of 34 non-Byrd cities done.** **Methodology #2
+  started 2026-07-30, run per-subnet like Methodology #1, depth scaled per city rather than uniform —
+  a multi-city subnet spreads its depth across cities, unlike Byrd's own single-city 57-Finding scale.
+  Mawson subnet COMPLETE: Dome Fuji +6 Findings (16 total, kept light — optional/non-main-questline
+  despite real existing depth), Mawson +10 Findings (13 total, deepest of the three per direct developer
+  instruction — needs to carry disproportionate weight since Sayowa is thin and Dome Fuji is optional),
+  Sayowa +4 Findings (7 total, lightest — least existing content of the three).** Mirny, Halley, Janbogo,
+  and Palmer subnets remain for Methodology #2.
+
 - [ ] **The Long Night War's inciting incident — three identities still TBD**
   Core premise established 2026-07-04 (a diplomat assaulted a gynoid, killed in self-defense — she's Akina);
   the three specific identities involved are not yet chosen. See `TODO.md`'s "Decision Required" section.

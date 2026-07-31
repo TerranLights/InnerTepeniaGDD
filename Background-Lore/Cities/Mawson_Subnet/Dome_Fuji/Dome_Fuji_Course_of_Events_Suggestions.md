@@ -23,15 +23,17 @@ altitude, never by defeating it.
 
 ## 2. The Last Transfer Request
 
-Generation after generation, Dome Fuji's population thins — chronic altitude effects reducing lifespan
-and fertility, a slow trickle of transfers to lower postings as the wider Federation's infrastructure
-matures enough to make them possible. **But** each departure leaves the remaining community smaller
-and less able to sustain the specialized medical apparatus the altitude demands, which only accelerates
-the next departure. **Therefore** the spiral compounds quietly across four to six generations, with no
-single crisis anyone could point to. **But** eventually there's simply nobody left to justify keeping
-the station staffed. **Therefore** the last transfer request gets processed and approved like any
-other, and Dome Fuji's status changes from occupied to remotely maintained without ceremony — an
-ending nobody marks because nobody's left to mark it.
+**Corrected 2026-07-30** — see `Course_of_Events/Dome_Fuji_02_The_Last_Transfer_Request.md` for the full
+correction note; the original premise (a multi-generation demographic spiral) contradicted `Specs/
+Dome_Fuji.md`'s own resolved canon that the team departed suddenly, following the Falkland Treaty, with
+"no die-off or ambiguous attrition." Dome Fuji Station has run continuously since the 1960s. **But** the
+Falkland Treaty's ratification changes everything at once — Antarctica ceded to robot exile, the research
+team's whole reason for being there gone in a single treaty signing, not worn down over generations.
+**Therefore** the team has to leave, fast, with the transition itself chaotic and time short. **But** one
+of the last researchers refuses to abandon the station in a mess it doesn't deserve. **Therefore** the
+evacuation happens on schedule, but not before a meticulous, deliberate shutdown — equipment sealed, the
+ice-core archive secured, a closing record filed — leaving Dome Fuji found, decades later, as stillness
+rather than ruin.
 
 ## 3. What the Pilgrims Found
 

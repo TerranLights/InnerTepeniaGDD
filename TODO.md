@@ -4,13 +4,15 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
-## Byrd — deep-dive pass complete 2026-07-30; Main Questline Candidates now the live work
+## Byrd — deep-dive, Main Questline pool, and DLC City Under-Questline method complete 2026-07-30
 
-Byrd's own dedicated deep-dive is done: `Byrd_Physical_Infrastructure_Attributes.md` (72 numbered physical/civic attributes, derived first-principles and via a 34-city cross-comparison pass, plus 52 Cross-Referenced Extrapolation Findings against Byrd's existing plot/faction material), followed by `Byrd_Community_Infrastructure.md` (Additions/Small-offices/Social-cohesion-mechanisms, built directly from that attribute base) — concatenated into `Byrd/README.md`. This closes out the entire nationwide Community Infrastructure & Social Life push (35/35 subnet cities, plus Concordia's 13 districts done earlier).
+Byrd's own dedicated deep-dive is done: `Byrd_Physical_Infrastructure_Attributes.md` (80 numbered physical/civic attributes, incl. "The Long Window" — a subglacial bioluminescent lake, cross-referenced into Vostok's own material too — plus 57 Cross-Referenced Extrapolation Findings), `Byrd_Community_Infrastructure.md`, both concatenated into `Byrd/README.md`. Closes out the entire nationwide Community Infrastructure & Social Life push (35/35 subnet cities, plus Concordia's 13 districts done earlier).
 
-**Still open:** `Storyline/DLC-Questlines/Byrd/` main questline candidates — every other DLC subnet already has 10–25 candidates on file (Palmer 25, Mawson 10, Halley 25, Janbogo 20, Mirny 25); Byrd (DLC 2) currently has none. `DLC_Overview.md` still lists three candidate central-conflict anchors from 2026-07-08 with none chosen (The Chamber Crisis, What's Actually Down There, The Isolation Crisis). Now in active production — see below.
+**27 DLC 2 Main Questline candidates on file** (`Storyline/DLC-Questlines/Byrd/`, #02–28) — none chosen/canon yet, that's the developer's own call whenever ready. The original Chamber Crisis candidate is preserved, not discarded, in `Storyline/DLC-Questlines/Byrd/recycling-bin/` as future unmarked Cradle side-content (ruled out per the standing `feedback_cradle_unmarked_lore` law, not for construction quality).
 
-**Byrd Highway/Isolation Contradiction** (its own separate entry below, unchanged — "flag, don't fix" remains the developer's explicit direction) is directly load-bearing for anchor #3 specifically; Main Questline candidates built on the Isolation Crisis anchor should be written to hold up under either resolution of the contradiction, not pick a side pre-emptively.
+**New: `DLC_City_Under_Questline_Design_Method.md`** (`Storyline/DLC-Questlines/`) — the DLC-city-level adaptation of `District_Under_Questline_Design_Method.md`, written 2026-07-30. Byrd is the only DLC city where every Step 1 input currently has real material behind it (its own Main Questline pool covers input 6; its own Physical Infrastructure Attributes/Findings file covers input 9) — the natural first test case before trusting the method's own fallbacks against the other 5 DLCs, which don't have either yet at the same depth.
+
+**Byrd Highway/Isolation Contradiction** (its own separate entry below, unchanged — "flag, don't fix" remains the developer's explicit direction) is directly load-bearing for the Isolation Crisis anchor specifically; Main Questline candidates built on it (#03, #18) were written to hold up under either resolution, not pick a side pre-emptively.
 
 ---
 

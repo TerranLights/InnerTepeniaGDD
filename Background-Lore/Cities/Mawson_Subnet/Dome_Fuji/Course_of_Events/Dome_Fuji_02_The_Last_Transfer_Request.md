@@ -2,10 +2,15 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #2**, translated from `Dome_Fuji_Course_of_Events_Suggestions.md` into
-`z-template_-_city_histories_conflict_variant.md`. Grounded in the demographic spiral to Dome Fuji's
-last human departure and the undisturbed, preserved condition the station is later found in
-(`Full_Extrapolation` §II, "The Research Station" and "The Rediscovery"). Character fields are
-intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and
+`z-template_-_city_histories_conflict_variant.md`. **Corrected 2026-07-30, flagged in this city's own
+`candidates.txt` as requiring adjustment.** The original version built the human departure on a slow,
+four-to-six-generation demographic spiral — but `Specs/Dome_Fuji.md`'s own resolved canon (2026-07-05) is
+explicit that this isn't what happened: "the original Japanese team departed Dome Fuji following the
+Falkland Treaty, and the site sat unoccupied afterward," with "no die-off or ambiguous attrition." Rewritten
+below so the departure is what Specs actually establishes — sudden and treaty-driven, not a gradual decline
+— while keeping the original's strongest element (a deliberate, meticulous shutdown that later becomes Ice
+Cold Buddhism's own founding text) fully intact, since that part was never in conflict with canon. Character
+fields are intentionally left blank — see each Conflict section's Design Notes for what kind of conflict, and
 what kind of character(s), would make the following setting-condition become true.
 
 ---
@@ -13,20 +18,21 @@ what kind of character(s), would make the following setting-condition become tru
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Generation after generation, Dome Fuji's human population thins — chronic altitude effects reducing
-average lifespan and fertility, a slow trickle of transfers to lower postings as the wider
-Federation's infrastructure matures enough to make such transfers logistically possible at all.
+Dome Fuji Station has run continuously since the 1960s, mature and fully functional, its Japanese research
+team settled into decades of established routine at the highest, harshest research posting on the
+continent.
 
 ---
 
 ## Trigger
 ###### What disrupts the above baseline.
 
-Each departure leaves the remaining community smaller and less able to sustain the specialized medical
-and logistical apparatus the altitude demands, which only accelerates the next departure in turn. The
-spiral compounds quietly across four to six generations, with no single triggering crisis anyone could
-ever point to afterward — just an accumulating, ordinary erosion, until there's finally, simply,
-nobody left to justify keeping the station staffed at all.
+The Falkland Treaty's ratification changes everything at once, not gradually — Antarctica ceded to the
+terms of robot exile, the whole world's relationship to the continent redrawn by a single treaty signing
+rather than worn down over generations. The research team has to leave; the reason they were ever there —
+a functioning national program, backed by a country able to keep sending researchers to the world's most
+demanding posting — simply no longer exists in the world the Treaty just created. But *how* they leave is
+still very much an open question, with the transition chaotic and time short.
 
 ---
 
@@ -37,33 +43,30 @@ nobody left to justify keeping the station staffed at all.
 
 **Character B:** *(left blank)*
 
-**Design notes — what kind of conflict this needs:** a disagreement between one of the last remaining
-researchers, who wants to formally petition for relief staff and fight to keep the station occupied a
-while longer, and a logistics or personnel officer — possibly stationed elsewhere, processing the
-request remotely — whose job is to make the practical call the numbers actually support. This isn't
-villain-vs-hero: A's attachment to keeping Dome Fuji staffed is a real, earned loyalty to a mission
-that mattered, and B isn't cold, just accurate — there is no relief staff to send, and pretending
-otherwise would only strand whoever stays behind. The tragedy is that both of them are right.
+**Design notes — what kind of conflict this needs:** a disagreement between someone who wants the team
+gone as fast as possible, given how uncertain and dangerous the immediate post-Treaty transition actually
+is, and someone who refuses to abandon the station in a mess it doesn't deserve — insisting on a real,
+deliberate closure even if it means staying closer to the edge of the evacuation window than is entirely
+comfortable. This isn't caution vs. recklessness — A's urgency is a genuine, well-founded read of how
+volatile the immediate post-Treaty period actually was; B's insistence on a proper closure isn't
+sentimentality, it's the same professional discipline that kept the station running this well for decades
+in the first place.
 
-**Design notes — what kind of character(s) this needs:** Character A is plausibly one of the very last
-career researchers still stationed at Dome Fuji, old enough to remember when the station felt
-sustainable and unwilling to be the one who lets it end on their own watch. Character B is plausibly a
-Federation administrator processing the transfer paperwork from a lower-altitude posting, sympathetic
-but bound by exactly the same resource math that's been quietly killing the station for generations —
-someone who has almost certainly processed similar closures elsewhere and knows exactly how this one
-ends before A does.
+**Design notes — what kind of character(s) this needs:** Character A is plausibly a senior researcher or
+evacuation coordinator responsible for getting the whole team out safely and on schedule. Character B is
+plausibly the station's own longest-serving member, personally responsible for the ice-core archive and
+instrumentation, for whom leaving it in disarray simply isn't an option regardless of the actual risk a
+short delay might carry.
 
 ---
 
 ## Culmination
 ###### The conflict's actual outcome — specific and concrete.
 
-The last transfer request gets processed and approved like any other. Dome Fuji's status changes from
-occupied to remotely maintained without ceremony — an ending nobody marks because nobody's left to mark
-it. But the departing researcher, having lost the argument to stay, wins a smaller one: given time to
-leave the station properly rather than abandoned in haste, they spend their final days completing a
-meticulous, deliberate shutdown — equipment sealed, the ice-core archive secured, a full closing record
-written and filed, everything left exactly as it should be for a return that might never come.
+The evacuation happens on schedule, everyone getting out safely — but not before B, given just enough time
+by A's own hard-won argument for a minimal, defensible delay, completes a meticulous, deliberate shutdown:
+equipment sealed, the ice-core archive secured, a full closing record written and filed, everything left
+exactly as it should be for a return that might never come.
 
 ---
 
@@ -91,9 +94,10 @@ unintended, the closest thing the new faith has to a founding text about the pla
 ## State of Affairs 2
 ###### The new baseline, feeding the next cycle.
 
-Dome Fuji sits quiet, remotely maintained, its infrastructure deliberately preserved and its final
-human departure fully documented in a closing record nobody yet knows will matter to anyone — waiting,
-in the specific and total stillness only Antarctic cold can hold, for whoever eventually comes looking
-for it.
+Dome Fuji sits empty from the moment the last researcher departs — no gradual thinning, no institutional
+death by attrition, just a sudden, treaty-driven end handled with as much care and deliberation as the
+tight evacuation window allowed, its infrastructure deliberately preserved and its final human departure
+fully documented in a closing record nobody yet knows will matter to anyone — waiting, in the specific and
+total stillness only Antarctic cold can hold, for whoever eventually comes looking for it.
 
 ---

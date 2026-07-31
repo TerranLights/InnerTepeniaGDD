@@ -11,14 +11,15 @@ here is canon.
 
 ## 1. Whoever Sacrificed, Belongs
 
-Early settlers face the same question every multinational Tepenian city eventually confronts — whose
-culture, whose language, whose civic template gets to define the place. **But** Esperanza's founding
-population arrives from too many different backgrounds for any one nation to plausibly claim the
-answer. **Therefore** the community settles the question differently than most: not nationality, but
-sacrifice — any human whose family gave up everything to follow robots into exile has a claim on what
-the city exists to protect, regardless of where they came from. **But** a principle that abstract
-needs something concrete to actually organize around. **Therefore** it crystallizes specifically
-around children — protecting them becomes the literal, practical shape the founding principle takes.
+**Rewritten 2026-07-30** — see `Course_of_Events/Esperanza_01_Whoever_Sacrificed_Belongs.md` for the full
+correction note. The founding council has already resolved, per the archive's own preserved birth records
+(chain #2), that Esperanza exists to protect exiles' children — but a settled principle isn't yet a
+settled practice. **But** with robots making up a real share of the young settlement, a practical
+question forces itself onto the council: what role do robots actually play in making the compact real,
+given it was a robot-and-human agreement from the start, not a human promise robots merely enable?
+**Therefore** robots are formally included as direct caregivers and protectors, not merely support staff —
+codified into the earliest version of Esperanza's own child-welfare practice, standing beside human
+parents with real, direct responsibility rather than replacing them.
 
 ## 2. What the Archive Room Held
 
