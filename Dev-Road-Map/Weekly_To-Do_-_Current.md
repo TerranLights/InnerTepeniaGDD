@@ -87,6 +87,16 @@ file and start a fresh one for the next stretch of work).
   resident's own life actually consists of day to day. Further raw material for Under-Questline generation
   (and general NPC/character writing) once all three passes exist.
 
+- [ ] **Cross-reference the Palmer City/Shirayuki/Mawson/Lazar Community Infrastructure expansion into their district diaspora counterparts** *(flagged 2026-07-31, deferred to tomorrow night — weekly model allotment currently at 100%)*
+  Palmer City, Shirayuki, Mawson, and Lazar all had their own `Community_Infrastructure.md` Additions and
+  Social Cohesion Mechanisms lists substantially expanded on 2026-07-31 (new named venues and rituals — see
+  `project_community_infrastructure_expansion_pass` memory for the full list per city). None of that new
+  material has been checked against `District_Refugee_Diaspora_Composition.md` yet, where all four cities
+  already appear as named diaspora contributors across multiple Concordia districts. Go through each
+  district entry for these four source cities and assess whether any of the newly-added Additions/Social
+  Cohesion Mechanisms items should be folded in as additional "brought with them" transplant material,
+  the same way the rest of that file already works.
+
 - [ ] **District Main vs. Under-Questline candidates — generate more**
   Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
   are established; each district currently has only its *first* main-questline candidate. Main questlines:
