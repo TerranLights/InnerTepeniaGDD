@@ -82,3 +82,11 @@ search-and-rescue, vehicle/fuel logistics, plumbing/displacement, civic-records 
 genealogy authority, and surface survival — plus one Chamber Crisis draft preserved in `recycling-bin/` as
 future unmarked Cradle side-content, not discarded. None of the 22 are chosen or canon; that decision is the
 developer's own, whenever they're ready to narrow the pool or combine several into a fuller arc.
+
+**Addendum, added the same day:** the developer's own follow-up design idea — Byrd's new subglacial,
+bioluminescent lake ("The Long Window," see `Byrd_Physical_Infrastructure_Attributes.md` attributes #73–80
+and Findings 53–57) — produced five further candidates (#24–28): wall-integrity crisis, ecosystem/biological
+crisis, a cross-DLC Vostok relationship test (two versions, #25 and #26, covering both directions of need),
+a myth-vs-history candidate directly claiming Finding 53's own flagged open question, and a medical-ethics
+candidate connecting the Lake back to Byrd's pre-existing light-deprivation infrastructure. **27 valid
+candidates total now (#02–28).**
