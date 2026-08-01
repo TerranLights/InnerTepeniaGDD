@@ -77,6 +77,7 @@ Three further companions (Ji-Eun Kim, Naizelle d'Edjordoś, Fenny) live in distr
 - **Full localization** (see `Dev-Road-Map/Localization_Language_List.md`'s own Tier 1 list — Chinese, Spanish, Russian, German, Japanese, Portuguese, French, with Korean as a strong thematic case). Translating a game that's still actively changing wastes translator budget on content that will be rewritten; this is standard industry practice as a launch-only item, not a corner being cut.
 - **Final balance pass** across leveling, perks, MACHINE stats, and combat difficulty — generally wants the full content set in players' hands before the numbers get locked down.
 - **Accessibility features** (subtitle timing, colorblind modes, control remapping) — usually a late-stage polish pass once the UI itself has stabilized.
+- **Mod support — confirmed Launch-exclusive, developer decision 2026-08-01.** Same underlying logic as localization above: a mod API/toolset needs to be built against a stable interface, and Early Access content (systems, data structures, companion rosters, the still-evolving Fragmentation Matrix and similar cross-cutting mechanics) keeps changing under active development. Shipping modding support during Early Access risks breaking mods with every content update, or freezing internal systems prematurely just to keep modders' work stable — neither is a good trade. Full Launch is the natural point to open this up, once the underlying systems it hooks into have actually settled.
 
 ---
 
