@@ -4,6 +4,38 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Large backlog batch — flagged 2026-08-01, multiple distinct topics, none started
+
+A batch of items the developer wants logged for future work. Grouped below by topic; nothing in this section has been researched or designed yet.
+
+**Combat & systems mechanics**
+- Sneaking and line-of-sight — stealth/detection mechanics not yet designed.
+- More weapons — expand the current weapon roster.
+- Armor and clothing — an armor/clothing system doesn't yet exist.
+- Faction outfitting — what specific factions actually wear/carry, distinct from the general armor/clothing system above.
+- Convert BG3 cantrips into "quickhacks," and BG3 spells and feats into perks and traits — a direct conversion-mapping exercise from Baldur's Gate 3's own ability lists into Inner Tepenia's own equivalent systems.
+- What sorts of objects/items would cause the scientifically-supported, real-world-basis equivalent of BG3's damage types (and comparable relative amounts), and what kind of setting each would characteristically be found in — ties into the existing `Per_City_Weapons`/`Damage_Types.md` taxonomy work.
+
+**Worldbuilding — civic life & economy**
+- The actual legal mechanisms of how Tepenia deals with criminals — courts, arrest, enforcement procedure. Distinct from and more detailed than the existing 3-tier outcome framework already established (see `project_tepenian_criminal_justice_system` memory) — that covers where someone ends up, not how they get there.
+- What kinds of festivals exist, generally — beyond whatever's already scattered across individual city/district Community Infrastructure files.
+- Are there any homeless people in Tepenia, and if so, what does that actually look like.
+- Where do cities/districts actually get their water.
+- What standard is Tepenian currency actually based on (note: `project_national_currency_history` memory already covers the history of the currency fracturing into a regional/subnet system plus a cross-subnet trade standard — check whether this question is already partly answered there before starting from scratch. **Per direct developer instruction, 2026-08-01: this is deliberately the first domino, not a parallel task** — the actual name (see the "National currency name and mechanics" entry below) should be derived *from* whatever the money is actually based on, not chosen alongside it or before it. **Also note:** the term "scrip," used throughout the existing currency file, was never the developer's own choice and needs replacing — see `Worldspace/National_Economy_and_Currency.md`'s own top-of-file flag. Don't introduce or reuse that word in new writing.)
+- General standards of living, and the cost of things.
+- Following directly from the above — what does it actually mean to be "rich" in Tepenia.
+- How is sewage and septic waste treated/handled.
+- What other food-producing locations exist, beyond what's already established (Davis's breadbasket role, etc.).
+- A general accounting of what currently exists across the project as flagged "side-content."
+
+**City history expansion**
+- Expand upon individual city history specs now that far better, clearer per-city information exists (Physical Infrastructure Attributes, Cross-Referenced Extrapolation Findings, diaspora composition data). Explicit developer example: a human resident of Byrd utterly snapping and losing his mind from being psychologically trapped underground for too long.
+
+**Documentation**
+- Go in and actually comment the code — including pseudocode.
+
+---
+
 ## District Under-Questlines — new diaspora-composition input ready, generation not yet started — flagged 2026-07-31
 
 Two new files now exist that substantially enrich the raw material `District_Under_Questline_Design_Method.md` draws on for each of Concordia's 13 districts: `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Refugee_Diaspora_Composition.md` (population-weighted breakdown of which outer Tepenian cities' refugee-diaspora populations live in each district, plus specific named Addition-location and Social Cohesion Mechanism transplants per contributing city, all summing to exactly 100% per district) and the 2026-07-31 diaspora-informed extension of all 13 `Deep_Dives/[NN]_[District]_Deep_Dive.md` files (4-5 new cross-referenced findings per district, each citing a specific diaspora fact and chasing it to a genuinely new implication — several of real quality, e.g. the Hub's Princess Elisabeth finding proposes an actual working answer to the long-standing "no Bridge Memorial ceremony has ever survived council review" problem).
@@ -108,7 +140,7 @@ Structural format and full "must be true" / "cannot be true" stipulations are lo
 
 ## National currency name and mechanics — flagged 2026-07-29, deliberately deferred
 
-"Scrip" (`Worldspace/National_Economy_and_Currency.md`) was never the developer's own term and needs renaming — but it appears across 100+ files (course-of-events entries, code architecture docs, city lore), so this isn't a quick swap. Two things need deciding together, not separately: the actual name, and the actual mechanics of how the currency works (still not fully sorted out). Don't rename piecemeal — revisit as its own dedicated pass once both are decided.
+"Scrip" (`Worldspace/National_Economy_and_Currency.md`) was never the developer's own term and needs renaming — but it appears across 100+ files (course-of-events entries, code architecture docs, city lore), so this isn't a quick swap. **Sequencing clarified 2026-08-01, per direct developer instruction:** the actual name is downstream of, not decided alongside, a separate prior question — see the new "What standard is Tepenian currency actually based on" item in the 2026-08-01 backlog batch above. Resolve what the money is actually backed by first; the name should fall out of that once it's settled, not be picked in parallel. Don't rename piecemeal — revisit as its own dedicated pass once the standard is resolved.
 
 ---
 
