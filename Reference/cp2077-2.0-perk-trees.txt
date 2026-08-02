@@ -239,4 +239,34 @@ see TODO.md for tracking.
 
 ---
 
-**Open production note:** No "Relic" perk tree was captured here — that tier is Phantom Liberty DLC-exclusive, purchased with Relic Points rather than regular perk points, and falls outside the "five Attribute tabs" scope the developer originally specified. Not fetched; flag if it becomes relevant later.
+---
+
+## RELIC PERKS (Phantom Liberty DLC-exclusive)
+
+Not part of the five core Attribute trees — this is a separate 9-perk tree unlocked through the Phantom
+Liberty DLC's main story, spent using "Relic Points" (a distinct currency from regular Perk Points; 15
+Relic Points total exist, exactly enough to buy all 9). **Per direct developer instruction, 2026-08-02:
+pulled as source material despite being tied to DLC-specific story/tech — the underlying mechanics may
+still be usable even though the plot device (the Relic chip) itself isn't. Whether/how to use any of these
+is deferred to case-by-case evaluation during the actual conversion pass, not decided here.**
+Source: cyberpunk2077.wiki.fextralife.com/Relic+Perks.
+
+- **Emergency Cloaking** (3 RP, no prereq) — Improves Optical Camo: activating it in combat during a
+  specific press makes enemies lose track of you, a chance to exit combat. Requires Optical Camo equipped
+  to the Combat Gadget quickslot.
+- **Sensory Protocol** (1 RP, no prereq) — While crouched, becoming detected slows time temporarily; dodge/
+  Dash out of the enemy's line of sight to immediately exit combat. Cooldown: 120 sec.
+- **Vulnerability Analytics** (3 RP, no prereq) — Detect Vulnerabilities in enemy Armor/Cyberware during
+  combat. Hitting one: 100% Crit Chance, +25% Armor Penetration, weakspot damage bonuses. Enough damage to
+  a Vulnerability makes it explode — EMP blast damaging enemies within 3m.
+- **Machine Learning** (1 RP, no prereq) — Destroying a Vulnerability: +10% frequency of new Vulnerabilities
+  appearing, +5% Crit Damage vs. Vulnerabilities, 25 sec duration, stacks 5×; max stacks doubles the effects.
+- **Jailbreak** (3 RP, no prereq) — Unlocks new abilities for Arm cyberware: Mantis Blades, Gorilla Arms,
+  Projectile Launch Systems, Monowire.
+- **Spatial Mapping** (1 RP, req. Jailbreak) — Mantis Blades Leap Attacks cripple enemies and increase
+  dismemberment chance against them for 10 sec.
+- **Limiter Removal** (1 RP, req. Jailbreak) — Charged Gorilla Arms attack shockwave now knocks down all
+  enemies in range.
+- **Launch Capacity Override** (1 RP, req. Jailbreak) — +1 charge for the Projectile Launch System.
+- **Data Tunneling** (1 RP, req. Jailbreak) — When an enemy is affected by a Monowire-uploaded quickhack,
+  normal Monowire attacks hitting that enemy and others simultaneously spread the quickhack to them.

@@ -143,20 +143,36 @@ exist to reveal which conditions actually recur often enough to deserve one cano
 
 ---
 
-## 6. What Doesn't Translate — Drop List
+## 6. What Doesn't Translate for Inner Tepenia — Not a Deletion List
 
 Per Section 1's Outcome 6. Not exhaustive — a working list to extend as specific spells/feats are evaluated
 and hit a wall. An entry belongs here only after genuinely attempting Sections 2–3's reinterpretation lens and
 finding no coherent landing, not as a first resort.
 
+**Retention policy, per direct developer instruction, 2026-08-02: "rejected for Inner Tepenia" is not the
+same as "thrown away."** Nothing gets deleted from the underlying source files
+(`bg3-spells-mechanical-detail.txt`, `bg3-feats-full-list.txt`) regardless of triage outcome — those remain
+the complete, untouched record. Beyond that: material that doesn't fit Inner Tepenia specifically may still
+be genuinely useful for the developer's other in-development projects — the Outer Tepenia trilogy (same
+universe, likely compatible Hard Sci-Fi premise) or *Toronto Fell Out* (a separate game). **The one true
+exception is content that depends on literal supernatural/magical premises with no grounded analogue in any
+of those settings either** — the developer's own example: banishing an enemy to another plane of existence.
+That specific category (planar cosmology, genuine magic-as-magic) is fine to treat as a real dead end. Every
+other rejected-for-Inner-Tepenia entry below should be read as "parked for a different project," not
+"discarded" — flag it as such rather than writing it off with finality.
+
 - **True resurrection from nothing** (Revivify's "1 HP, no cost beyond a spell slot" model is fine —
   something closer to "raise the dead with no material cost or cause" is not, given Inner Tepenia's own
   grounded stance on death and the Reclaimer/Upper Earth Defector lore's careful treatment of
-  exile-vs-death).
+  exile-vs-death). Not "magical-magic" in the planar sense — worth keeping in mind for Outer Tepenia/Toronto
+  Fell Out, where a different stance on death might be workable.
 - **Planar travel / extradimensional spaces** (Banishment's "another plane of existence," Otiluke's
-  Resilient Sphere's force-construct logic) — no planar cosmology exists in Inner Tepenia's setting; these
-  either become straightforward containment/restraint effects (drop the "other plane" framing entirely) or
-  get cut.
+  Resilient Sphere's force-construct logic) — no planar cosmology exists in Inner Tepenia's setting; the
+  underlying mechanical shape (a hard containment/restraint effect) is still salvageable by dropping the
+  "other plane" framing entirely, same as noted in Section 3's resource-mapping table. This is the closest
+  category to the developer's own named exception — genuine planar/supernatural framing is the one thing
+  not being carried forward as cross-project material, even though the CC-shaped mechanic underneath it
+  isn't lost either.
 - **Literal petrification-as-transmutation** (Flesh to Stone, Flesh to Gold) — the *mechanical shape*
   (progressive restrain-then-incapacitate) is salvageable via nanite/chemical hardening reinterpretation, but
   "turns into literal stone/gold" as flavor should not survive conversion.
@@ -174,7 +190,9 @@ Once this framework is in place, an actual conversion pass (working through `bg3
 and `bg3-feats-full-list.txt` entry by entry) should, for each entry:
 
 1. Run the Section 1 decision aid to land on an Outcome (1–6).
-2. If Outcome 6, log it in Section 6 above with a one-line reason and stop.
+2. If Outcome 6, log it in Section 6 above with a one-line reason and move on — per Section 6's retention
+   policy, this means "parked, possibly for Outer Tepenia or Toronto Fell Out," not deleted or forgotten,
+   except for the genuine planar/supernatural-magic exception named there.
 3. If Outcome 5 (item/equipment), route to whatever weapon/armor/chem system is the right home — not this
    document's concern past that point.
 4. If Outcome 1–4 (quickhack/perk/perk-subtype/trait), apply Section 2's diegetic source lens to write the
