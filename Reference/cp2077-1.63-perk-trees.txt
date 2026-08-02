@@ -1,0 +1,249 @@
+Cyberpunk 2077 (1.63/pre-2.0 era) — chosen perk trees, all 12 skills across 5 Attributes
+Source: gamestegy.com's archived "-old" (Patch 1.63) build guides, retrieved 2026-08-02
+(developer-located source — the live web had otherwise been entirely overwritten to
+reflect the 2.0+ system, and web.archive.org was inaccessible; this site preserves
+dedicated pre-2.0 build-guide pages per weapon/playstyle archetype, e.g.
+gamestegy.com/post/cyberpunk-2077/897/engineer-builds-old).
+
+NOTE: extracted from individual build-guide pages, each centered on a specific weapon
+type or playstyle — so each tree below reflects that build's own coverage of its skill,
+not necessarily a datamined 100%-complete tree. Perk names marked "x2"/"x3" in the source
+tables denote multi-rank perks (2 or 3 ranks). This is DISTINCT from the already-captured
+1.63 skill LEVEL rewards (cp2077-1.63-skill-level-rewards.txt, the automatic 1-20 ladder)
+and from the 2.0-era material (cp2077-2.0-skill-rank-bonuses.txt,
+cp2077-2.0-perk-trees.txt) — this file covers only the 1.63-era CHOSEN perk trees.
+
+////////////////////////////////////////////////////////////////////////////
+
+## BODY ATTRIBUTE
+
+### Athletics
+(Source: King Kong — Gorilla Arms Melee Build)
+- **Regeneration** (Lv1) — Regenerate health when in combat.
+- **Wolverine** (Lv7) — Health regenerates faster during combat.
+- **Steel and Chrome** (Lv9) — More melee damage (Gorilla Arms-focused).
+- **Invincible** (Lv12) — Increases max HP.
+- **Dog of War** (Lv16) — More health regeneration during combat.
+- **Cardio Cure** (Lv16) — More health regeneration while moving.
+- **Steel Shell** (Lv18) — More armor.
+- **Indestructible** (Lv20) — Reduce all damage by 10%.
+- **The Rock** (Lv20) — Immune to being knocked down by any attack/damage type.
+
+### Annihilation
+(Source: Shotgun Build)
+- **Hail of Bullets x3** (Lv1) — Shotguns deal +10% damage.
+- **Pump It, Louder!** (Lv5) — -20% Shotgun recoil.
+- **In Your Face** (Lv5) — -30% Shotgun reload time.
+- **Dead Center x2** (Lv7) — +20% Shotgun torso damage.
+- **Bloodrush x2** (Lv7) — +10% movement speed in combat while carrying a Shotgun.
+- **Bulldozer** (Lv9) — +5% Shotgun Crit Chance.
+- **Mongoose** (Lv9) — +25% Mitigation Chance while reloading Shotguns.
+- **Momentum Shift x3** (Lv11) — Shotgun/LMG kill: +20% movement speed for 10 sec.
+- **Massacre x3** (Lv11) — +30% Shotgun Crit Damage.
+- **Heavy Lead** (Lv12) — Shotguns knock back enemies with more force.
+- **Skeet Shooter** (Lv12) — +15% Shotgun damage vs. moving targets.
+- **Manic** (Lv14) — Entering combat with a Shotgun: +20% movement speed for 10 sec.
+- **Unstoppable** (Lv14) — Shotgun dismemberment: +10% fire rate for 8 sec, stacks 3×.
+- **Speed Demon** (Lv16) — More damage the faster you're moving.
+- **Poppin' Off x2** (Lv18) — +50% Shotgun dismemberment chance.
+- **Hit the Deck x2** (Lv18) — +20% Shotgun damage vs. staggered/knocked-down enemies.
+- **Biathlete** (Lv20) — Shotgun spread doesn't increase while moving.
+- **Bloodbath** (Lv20) — Shotgun/LMG dismemberment: -30% weapon recoil for 6 sec (+1%/perk level).
+
+### Street Brawler
+(Source: King Kong — Gorilla Arms Melee Build)
+- **Flurry** (Lv1) — +50% damage with combo attacks.
+- **Crushing Blows** (Lv1) — Boosts Strong Attacks.
+- **Dazed** (Lv4) — Normal attacks: 30% chance to Stun.
+- **Rush** (Lv6) — Regenerate HP per hit, for 2 sec.
+- **Efficient Blows** (Lv6) — Reduces Stamina depletion.
+- **Opportune Strike** (Lv8) — More damage to Stunned enemies.
+- **Payback** (Lv10) — Less HP = more damage.
+- **Thrash** (Lv15) — Strong Attacks reduce target armor.
+- **Frenzy x2** (Lv15) — +50% damage once an enemy is killed.
+- **Unshakable** (Lv18) — Restore HP and Stamina on hitting Stunned enemies.
+- **Guerilla** (Lv20) — +60% Critical Damage for 10 sec.
+
+---
+
+## REFLEXES ATTRIBUTE
+
+### Handguns
+(Source: Best Pistol and Revolver Build)
+- **Gunslinger x3** (Lv1) — -25% Pistol/Revolver reload time.
+- **High Noon x3** (Lv1) — +6% Pistol/Revolver Crit Chance.
+- **Desperado x3** (Lv5) — +10% Pistol/Revolver damage.
+- **Rio Bravo x3** (Lv5) — +15% Pistol/Revolver headshot damage multiplier.
+- **Long Shot Drop Pop x2** (Lv7) — +25% Pistol/Revolver damage to enemies 5m+ away.
+- **Steady Hand** (Lv9) — -20% Pistol/Revolver recoil.
+- **O.K. Corral** (Lv9) — +50% damage vs. enemies below 25% Health.
+- **Vanishing Point** (Lv9) — +20% Mitigation Chance for 5 sec after a dodge with Pistol/Revolver equipped.
+- **A Fistful of Eurodollars x2** (Lv11) — +30% Pistol/Revolver Crit Damage.
+- **From Head to Toe x2** (Lv11) — +7/15% Pistol/Revolver limb damage.
+- **Acrobat** (Lv12) — Can dodge while aiming a Pistol/Revolver.
+- **Grand Finale** (Lv12) — Last round in a clip deals double damage.
+- **Attritional Fire** (Lv14) — Consecutive shots on same target: +10% damage.
+- **Wild West** (Lv14) — Removes long-range damage penalty.
+- **Snowball Effect** (Lv16) — Kill: +5% Revolver fire rate for 6 sec, stacks 5×.
+- **Westworld** (Lv16) — +5% Crit Chance if fully modded.
+- **Lead Sponge** (Lv18) — Can shoot while dodging.
+- **Brainpower** (Lv20) — Headshot: +7% Crit Chance for 5 sec.
+- **The Good, the Bad, and the Ugly** (Lv20+) — Crit Hit: +30% damage and Armor for 5 sec (+1%/perk level).
+
+### Assault
+(Source: Assault Rifle Build)
+- **Bulletjock x3** (Lv1) — +10% Assault Rifle damage.
+- **Eagle Eye x3** (Lv1) — -50% ADS time with Assault Rifles.
+- **Covering Killshot x2** (Lv5) — +8% Crit Chance with Rifles/SMGs firing from cover.
+- **Bullseye** (Lv7) — +10% Assault Rifle damage while aiming.
+- **Executioner** (Lv7) — +25% damage to Rifle/SMG targets above 50% Health.
+- **Duck Hunter x2** (Lv9) — +10/20% Rifle/SMG damage to moving enemies.
+- **Shoot, Reload, Repeat x2** (Lv9) — Kill with Rifle/SMG: -20/40% reload time for 5 sec.
+- **Feel the Flow x2** (Lv11) — Same effect as Shoot, Reload, Repeat (source lists both by this name).
+- **Nerves of Steel x2** (Lv11) — +10/15% Sniper/Precision Rifle headshot damage.
+- **Hunter's Hands x2** (Lv12) — -5/10% Rifle/SMG recoil from cover.
+- **Trench Warfare x2** (Lv12) — +5/10% Rifle/SMG damage from cover.
+- **Named Bullets** (Lv14) — +20% Rifle/SMG Crit Damage.
+- **Skull Skipper** (Lv14) — Headshot: -4% Rifle/SMG recoil for 10 sec, stacks 5×.
+- **Bunker** (Lv16) — +15% Armor/Resistances while aiming Rifle/SMG from cover.
+- **Recoil Wrangler** (Lv16) — -5% Rifle/SMG recoil.
+- **In Perspective** (Lv18) — Power Rifle/SMG bullets ricochet +1 additional time.
+- **Long Shot** (Lv18) — Rifle/SMG damage increases with distance.
+- **Savage Stoic** (Lv20) — +35% Rifle/SMG damage while standing still.
+- **Punisher** (Lv20+) — Kill: no weapon sway/spread increase for 10 sec (+0.2 sec/perk level).
+
+### Blades
+(Source: Quickhack Samurai — Katana Build)
+- **Sting Like a Bee x3** (Lv1) — +10% attack speed.
+- **Roaring Waters x2-3** (Lv1) — +20% Strong Attack damage.
+- **Slow and Steady x2** (Lv4) — +30% armor while moving.
+- **Crimson Dance x2** (Lv4) — 30% chance to apply Bleed.
+- **Flight of the Sparrow x2** (Lv6) — -50% Katana attack Stamina cost.
+- **Shifting Sands** (Lv8) — Restores Stamina on dodge.
+- **Blessed Blade** (Lv10) — Flat +10% Crit Chance with a Katana equipped.
+- **Bloodlust x2** (Lv12) — Health regen while enemy is Bleeding.
+- **Float Like A Butterfly x2** (Lv12) — Dodging: +50% damage for 5 sec.
+- **Judge, Jury and Executioner x3** (Lv15) — Huge damage boost on first hit.
+- **Fiery Blast x3** (Lv15) — +3% damage per 1% enemy missing health.
+- **Deathbolt** (Lv18) — Kill: +20% Health, +30% movement speed for 5 sec.
+- **Dragon Strike** (Lv20) — +40% Crit Damage.
+
+---
+
+## TECHNICAL ABILITY ATTRIBUTE
+
+### Engineering
+(Source: Tech Weapons — Engineer Build)
+- **Sharpnel** (Lv7) — Grenades deal +20 damage in addition to normal effects.
+- **Up to 11 x2** (Lv9) — Tech weapons chargeable to 75/100% capacity.
+- **Bigger Booms x5** (Lv11) — +25% grenade damage.
+- **Tesla** (Lv12) — +55% Tech weapon charge multiplier.
+- **Übercharge** (Lv14) — Fully charged Tech weapons: +30% damage.
+- **Gun Whisperer** (Lv14) — Fully charged Tech weapons don't auto-fire (not Revolvers).
+- **Insulation** (Lv14) — Immunity to Shock.
+- **Fuck All Walls** (Lv16) — -30% charge needed for Tech weapons to penetrate walls.
+- **Can't Touch This** (Lv16) — Immunity to your own grenade effects.
+- **Lickety Split x2** (Lv18) — -20% Tech weapon charge time.
+- **Jackpot** (Lv20) — Grenades can Crit.
+- **Superconductor** (Lv20) — Tech weapons ignore Armor.
+- **Revamp** (Lv20) — +25% Tech weapon damage, +10% charge damage.
+
+### Crafting
+(Source: Tech Weapons — Engineer Build)
+- **Mechanic** (Lv1) — More components from disassembling.
+- **True Craftsman** (Lv5) — Junk auto-disassembles.
+- **Scrapper** (Lv5) — Unlocks crafting Rare items.
+- **Sapper x2** (Lv9) — +20% grenade damage.
+- **Field Technician x2** (Lv11) — Crafted weapons: +5/10% damage.
+- **Grease Monkey** (Lv12) — Unlocks crafting Epic items.
+- **Tune-Up** (Lv16) — Upgrade lower-quality components to higher-quality.
+- **Edgerunner Artisan** (Lv18) — Unlocks crafting Legendary items.
+- **Cutting Edge** (Lv20) — +5% damage and damage-related stats on crafted weapons.
+
+---
+
+## INTELLIGENCE ATTRIBUTE
+
+### Breach Protocol
+(Source: Netrunner Build)
+- **Big Sleep** (Lv1) — Unlocks Big Sleep daemon: disables all network cameras for 3 min.
+- **Mass Vulnerability** (Lv1) — Unlocks daemon: -30% Physical Resistance, network-wide, 3 min.
+- **Almost In!** (Lv5) — +20% Breach Protocol time.
+- **Mass Vulnerability: Resistances** (Lv7) — Upgrades Mass Vulnerability to -30% all Resistances.
+- **Total Recall** (Lv11) — ICEpick daemon: -1 additional RAM cost for quickhacks.
+- **Turret Tamer** (Lv12) — Unlocks daemon: sets all network turrets friendly for 3/6 min.
+- **Efficiency x2** (Lv14) — 3+ daemons in one Breach: +6 RAM recovery/60 sec for 5 min.
+- **Cloud Cache x2** (Lv14) — Completing Breach: -2 RAM cost on next quickhack per daemon uploaded.
+- **Mass Vulnerability: Quickhacks** (Lv16) — Upgrades Mass Vulnerability: +30% quickhack damage taken.
+- **Hackathon** (Lv18) — 3+ daemons in one Breach: -33% quickhack cooldowns for 5 min.
+- **Head Start** (Lv18) — Auto-uploads the first daemon at Breach start.
+- **Compression** (Lv20) — -1 daemon sequence length (floor of 2).
+- **Buffer Optimization** (Lv20) — +100% daemon effect duration.
+
+### Quickhacking
+(Source: Netrunner Build)
+- **Biosynergy x3** (Lv1) — RAM recovers in combat: +12 units/60 sec.
+- **Bloodware x3** (Lv1) — +30% quickhack damage.
+- **Forget-me-not** (Lv5) — Eliminating a quickhacked target: +1 RAM instantly.
+- **Hacker's Manual** (Lv5) — Unlocks crafting specs for Uncommon quickhacks.
+- **Daisy Chain x3** (Lv7) — Eliminating a quickhacked target: -50% cooldown on all other active quickhacks.
+- **Signal Support x2** (Lv9) — +50% quickhack duration.
+- **Subliminal Message x2** (Lv11) — +100% quickhack damage to unaware targets.
+- **Mnemonic** (Lv12) — 2× quickhack spread distance.
+- **Diffusion** (Lv12) — -2 RAM cost on already-quickhacked enemies.
+- **School of Hard Hacks** (Lv12) — Unlocks crafting specs for Rare quickhacks.
+- **Plague x3** (Lv14) — Spreading quickhacks jump to 3 additional targets.
+- **Critical Error** (Lv16) — Quickhacks can Crit (based on Crit Chance/Damage stats).
+- **Hacker Overlord** (Lv16) — Unlocks crafting specs for Epic quickhacks.
+- **Anamnesis x3** (Lv18) — Cyberdeck RAM cannot drop below 4.
+- **Bartmoss' Legacy** (Lv20) — Unlocks crafting specs for Legendary quickhacks.
+- **Optimization** (Lv20) — -1 RAM cost for quickhacks.
+- **Master RAM Liberator** (Lv20) — +50% RAM recovery rate (+1%/perk level).
+
+---
+
+## COOL ATTRIBUTE
+
+### Stealth ("Ninjutsu" tree)
+(Source: Best Ninja Builds — Stealth Assassin)
+- **Crouching Tiger** (Lv1) — +20% movement speed while sneaking.
+- **Dagger Dealer** (Lv5) — Enables knife throwing (equipped knife).
+- **Assassin** (Lv7) — +15% damage to humans.
+- **Strike from the Shadows** (Lv7) — +7% Crit Chance while sneaking.
+- **Leg Up** (Lv7) — Optional takedown enhancement.
+- **Sniper** (Lv9) — +20% headshot damage outside combat.
+- **Cutthroat** (Lv12) — Bonus critical damage after knife headshots.
+- **From the Shadows** (Lv12) — +20% Crit Chance for the first 7 sec (of combat/detection, per source).
+- **Ghost** (Lv12) — +40% detection time before an enemy spots you.
+- **Venomous Fangs** (Lv14) — All knives apply Poison.
+- **Looking Sharp** (Lv14) — Blinds targets if a knife headshot doesn't kill.
+- **Juggler** (Lv16) — Instantly restores a thrown knife on enemy death or Crit.
+- **Hasty Retreat** (Lv16) — +50% speed boost for 5 sec after being detected.
+- **Cheat Death** (Lv18) — -50% damage taken below 50% Health, for 10 sec.
+- **Toxicology** (Lv20) — Increases poison duration on bosses.
+
+### Cold Blood
+(Source: Best Ninja Builds — Stealth Assassin)
+- **Cold Blood** (Lv1) — Movement speed increase; stacking buff system (core mechanic of the tree).
+- **Will to Survive** (Lv5) — +3% Resistances.
+- **Blood Brawl** (Lv5) — +10% melee damage while Cold Blood active.
+- **Defensive Clotting** (Lv9) — Each Cold Blood stack: +8% armor.
+- **Collagulant** (Lv11) — Cold Blood stacks remove individually, not all at once.
+- **Frozen Precision** (Lv11) — Each stack: +5% headshot damage.
+- **Predator** (Lv12) — Each stack: +30% attack speed.
+- **Pain is an Illusion** (Lv14) — -5% damage taken while Cold Blood active.
+- **Cold and Calculating** (Lv14) — Critical hits add a Cold Blood stack.
+- **Coldest Blood** (Lv16) — +2 max Cold Blood stacks.
+- **Critical Condition** (Lv16) — +50% Cold Blood duration.
+- **Immunity** (Lv18) — Immune to Bleeding, Poison, Burn, Shock.
+- **Bloodswell** (Lv20) — Prevents death once; grants 5 sec damage immunity (15 sec cooldown).
+- **Merciless** (Lv20) — +5% Crit Chance, +25% Crit Damage while Cold Blood active.
+
+---
+
+**Source note:** each tree above was extracted from one weapon/playstyle-focused build guide rather than
+a datamined complete tree dump, so perk counts per skill vary (9-19) — treat as strong, real coverage
+rather than guaranteed 100% completeness. If a specific missing perk turns out to matter during actual
+conversion work, gamestegy.com/cyberpunk-2077/builds-16 has ~21 total archived 1.63-era build guides,
+several unused here (Ricochet, LMG, Sandevistan, Gunslinger, Sniper, Contagion, Monowire, Tech Sniper,
+Mantis Blades, Throwing Knife), any of which could fill in specific gaps on request.

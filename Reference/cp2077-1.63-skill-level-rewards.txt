@@ -1,0 +1,124 @@
+Cyberpunk 2077 (1.63/pre-2.0 era) — Skill level-up rewards, all 12 skills, levels 1-20
+Source: outsidergaming.com's "How to Level Up Every Skill, All Skill Level Rewards" and
+powerpyx.com's "All Skills List" (cross-checked for the Level 20 capstone clarification).
+Retrieved 2026-08-02.
+
+NOTE: This is CP2077's PRE-2.0-UPDATE system — twelve skills, two or three nested under
+each of the five Attributes (Body/Reflexes/Technical Ability/Intelligence/Cool), each
+leveling 1-20 through in-fiction use (not chosen) and granting automatic passive bonuses
+at intermediate levels plus scattered "Perk Point" awards. This is DISTINCT from the
+5-role-based 2.0-era rank bonuses (see cp2077-2.0-skill-rank-bonuses.txt) and from either
+era's PERK TREES (the chosen, point-spent abilities) — this file covers only the
+automatic per-skill level rewards.
+
+Level 20 on every one of the 12 skills reads simply "Trait" in the source tables — per
+powerpyx.com, this uniformly means "unlocks the last perk in that skill's own perk tree,"
+not a standalone numeric bonus with its own description. It's a gate, not an effect.
+
+////////////////////////////////////////////////////////////////////////////
+
+## BODY ATTRIBUTE
+
+### Athletics
+Lv1: None | Lv2: Carry capacity +20 | Lv3: Perk Point | Lv4: Max stamina +5% |
+Lv5: Stamina regen +10% | Lv6: Carry capacity +40 | Lv7: Perk Point | Lv8: Perk Point |
+Lv9: Max health +5% | Lv10: Perk Point | Lv11: Perk Point | Lv12: Max health +5% |
+Lv13: Carry capacity +100 | Lv14: Armor +3% | Lv15: Health regen out of combat +10% |
+Lv16: Perk Point | Lv17: Max health +5% | Lv18: Armor +3% | Lv19: Perk Point |
+Lv20: Trait (unlocks tree's final perk)
+
+### Annihilation
+Lv1: None | Lv2: Aiming speed +20% | Lv3: Perk Point | Lv4: Recoil -10% |
+Lv5: Spread -25% | Lv6: Perk Point | Lv7: Critical chance +5% | Lv8: Recoil -10% |
+Lv9: Perk Point | Lv10: Perk Point | Lv11: Critical damage +15% | Lv12: Perk Point |
+Lv13: Recoil -10% | Lv14: Recoil -15% | Lv15: Perk Point | Lv16: Spread -25% |
+Lv17: Spread -10% | Lv18: Perk Point | Lv19: Recoil -15% | Lv20: Trait
+
+### Street Brawler
+Lv1: None | Lv2: Blocking stamina cost -10% | Lv3: Perk Point | Lv4: Attack speed +5% |
+Lv5: Stamina costs -10% | Lv6: Perk Point | Lv7: Critical damage +10% | Lv8: DPS +2% |
+Lv9: Perk Point | Lv10: Perk Point | Lv11: Critical chance +5% | Lv12: Perk Point |
+Lv13: Blocking stamina cost -10% | Lv14: Attack speed +10% | Lv15: Perk Point |
+Lv16: Max stamina +5% | Lv17: Max health +5% | Lv18: Perk Point | Lv19: Max stamina +5% |
+Lv20: Trait
+
+## REFLEXES ATTRIBUTE
+
+### Handguns
+Lv1: None | Lv2: Aiming speed +20% | Lv3: Perk Point | Lv4: Recoil -10% |
+Lv5: Spread -25% | Lv6: Perk Point | Lv7: Critical chance +5% | Lv8: Recoil -10% |
+Lv9: Perk Point | Lv10: Perk Point | Lv11: Critical damage +15% | Lv12: Perk Point |
+Lv13: Recoil -10% | Lv14: Recoil -15% | Lv15: Perk Point | Lv16: Spread -25% |
+Lv17: Spread -10% | Lv18: Perk Point | Lv19: Recoil -15% | Lv20: Trait
+
+### Assault
+(Identical progression shape to Handguns per source — same table)
+Lv1: None | Lv2: Aiming speed +20% | Lv3: Perk Point | Lv4: Recoil -10% |
+Lv5: Spread -25% | Lv6: Perk Point | Lv7: Critical chance +5% | Lv8: Recoil -10% |
+Lv9: Perk Point | Lv10: Perk Point | Lv11: Critical damage +15% | Lv12: Perk Point |
+Lv13: Recoil -10% | Lv14: Recoil -15% | Lv15: Perk Point | Lv16: Spread -25% |
+Lv17: Spread -10% | Lv18: Perk Point | Lv19: Recoil -15% | Lv20: Trait
+
+### Blades
+Lv1: None | Lv2: Attack speed +10% | Lv3: Perk Point | Lv4: Stamina costs -10% |
+Lv5: DPS +2% | Lv6: Critical damage +10% | Lv7: Critical chance +5% | Lv8: Perk Point |
+Lv9: Perk Point | Lv10: Perk Point | Lv11: Attack speed +10% | Lv12: Stamina costs -10% |
+Lv13: Attack speed +10% | Lv14: Perk Point | Lv15: Blocking stamina cost -25% |
+Lv16: Perk Point | Lv17: Perk Point | Lv18: Max stamina +5% | Lv19: DPS +3% | Lv20: Trait
+
+## TECHNICAL ABILITY ATTRIBUTE
+
+### Engineering
+Lv1: None | Lv2: Perk Point | Lv3: Armor +3% | Lv4: Tech weapon charge time -5% |
+Lv5: Tech weapon DPS +5% | Lv6: Perk Point | Lv7: Armor +3% | Lv8: Perk Point |
+Lv9: Tech weapon critical chance +5% | Lv10: Perk Point | Lv11: Armor +3% |
+Lv12: All resistances +5% | Lv13: Tech weapon critical chance +5% | Lv14: Perk Point |
+Lv15: Tech weapon critical damage +15% | Lv16: Armor +4% | Lv17: Perk Point |
+Lv18: Perk Point | Lv19: Tech weapon charge time -10% | Lv20: Trait
+
+### Crafting
+Lv1: None | Lv2: Perk Point | Lv3: Crafting costs -5% | Lv4: Crafting costs -5% |
+Lv5: Perk Point | Lv6: Uncommon crafting specs unlocked |
+Lv7: Chance to get some materials back after crafting +5% | Lv8: Perk Point |
+Lv9: Rare crafting specs unlocked | Lv10: Perk Point | Lv11: Crafting costs -5% |
+Lv12: Chance to get some materials back after crafting +5% | Lv13: Epic crafting specs unlocked |
+Lv14: Perk Point | Lv15: Chance to get some materials back after upgrading +5% |
+Lv16: Upgrade costs -15% | Lv17: Perk Point | Lv18: Iconic crafting specs unlocked |
+Lv19: Upgrade costs -15% | Lv20: Trait
+
+## INTELLIGENCE ATTRIBUTE
+
+### Breach Protocol
+Lv1: None | Lv2: Perk Point | Lv3: Minigame time +5% | Lv4: Data mining materials +10% |
+Lv5: Minigame time +5% | Lv6: Perk Point | Lv7: Minigame time +5% | Lv8: Max RAM +1 |
+Lv9: Data mining materials +10% | Lv10: Perk Point | Lv11: Minigame time +5% |
+Lv12: Data mining materials +10% | Lv13: Max RAM +1 | Lv14: Perk Point |
+Lv15: Minigame time +5% | Lv16: Perk Point | Lv17: Data mining materials +10% |
+Lv18: Perk Point | Lv19: Minigame buffer +1 | Lv20: Perk Point
+(Note: source table lists Lv20 as "Perk Point," not "Trait," for Breach Protocol
+specifically — an inconsistency in the source worth flagging, not silently corrected.)
+
+### Quickhacking
+Lv1: None | Lv2: Perk Point | Lv3: Quickhack duration +5% | Lv4: Perk Point |
+Lv5: Max RAM +1 | Lv6: Quickhack cooldowns -5% | Lv7: Quickhack duration +5% |
+Lv8: Quickhack cooldowns -5% | Lv9: Perk Point | Lv10: Max RAM +1 | Lv11: Perk Point |
+Lv12: Quickhack cooldowns -5% | Lv13: Quickhack duration +5% | Lv14: Perk Point |
+Lv15: Max RAM +1 | Lv16: Quickhack cooldowns -5% | Lv17: Quickhack duration +5% |
+Lv18: Quickhack cooldowns -5% | Lv19: Perk Point | Lv20: Trait
+
+## COOL ATTRIBUTE
+
+### Stealth
+Lv1: None | Lv2: Evasion +3% | Lv3: Perk Point | Lv4: Visibility -10% | Lv5: Perk Point |
+Lv6: Health regen out of combat +10% | Lv7: Perk Point | Lv8: Movement speed +3% |
+Lv9: DPS +3% | Lv10: Perk Point | Lv11: DPS +2% | Lv12: Evasion +3% | Lv13: Perk Point |
+Lv14: Movement speed +2% | Lv15: Visibility -10% | Lv16: Evasion +4% | Lv17: Perk Point |
+Lv18: Perk Point | Lv19: Visibility -10% | Lv20: Trait
+
+### Cold Blood
+Lv1: None | Lv2: Critical chance +10% | Lv3: Armor +3% | Lv4: Perk Point |
+Lv5: Perk Point | Lv6: Max health +10% | Lv7: Max stamina +10% | Lv8: All resistances +5% |
+Lv9: Perk Point | Lv10: Perk Point | Lv11: Perk Point | Lv12: All resistances +5% |
+Lv13: Perk Point | Lv14: Critical damage +5% | Lv15: Critical chance +10% |
+Lv16: Movement speed +3% | Lv17: Perk Point | Lv18: Armor +7% | Lv19: Critical damage +5% |
+Lv20: Trait

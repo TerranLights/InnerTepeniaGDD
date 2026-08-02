@@ -1,0 +1,102 @@
+Cyberpunk 2077 (2.0 update era) — Role Skill rank-up bonuses
+Source: vg247.com's "Cyberpunk 2077 skill progression and rank up bonuses" article,
+saved locally by the developer 2026-08-02 as
+to-be-integrated/cyberpunk-2077-skill-progression-and-rank-up-bonuses.html,
+extracted here as clean text.
+
+NOTE: This is CP2077's POST-2.0-UPDATE system — five ROLE-based skills (Solo, Netrunner,
+Headhunter, Shinobi, Engineer), each leveling automatically through play (not
+perk-point-gated) and granting a passive rank bonus every 5 ranks, 5 through 60.
+This is a DIFFERENT system from the pre-2.0 twelve-skill structure (see
+cp2077-1.63-skill-level-rewards.txt) and from either era's PERK TREES (chosen,
+point-spent abilities under the five Attributes) — this file covers only the
+automatic role-skill rank bonuses.
+
+////////////////////////////////////////////////////////////////////////////
+
+Each of Cyberpunk's five skill groups requires different actions to level up, but
+most of the tasks involve things you'd do normally while playing anyway. These
+upgrades aren't tied to perk points (aside from the +1 perk point rewards baked
+into the ladder itself) — you rank up all five just by playing normally, and
+progress from pre-2.0 saves carries over.
+
+## SOLO
+Groups heavy weapons, carrying capacity, and health. Levels via fists, Gorilla
+Arms, clubs, and shotguns.
+
+Rank 5: Carrying capacity +50
+Rank 10: Health +10
+Rank 15: +1 perk point
+Rank 20: Fists and Gorilla Arms: +20% damage, +20% attack speed; Fists may apply Bleeding
+Rank 25: Carrying capacity +100 (cumulative with Rank 5)
+Rank 30: Health +15 (cumulative with Rank 10)
+Rank 35: +1 perk point
+Rank 40: +10% critical hit chance against enemies within 5m
+Rank 45: Strong attacks and quick melee attacks deal +25% damage
+Rank 50: +25% health after a finisher
+Rank 55: While Adrenaline Rush is active, Adrenaline decays 50% more slowly and cannot decay below 10%
+Rank 60: Berserk: +30% enemy health threshold to perform Finishers, +50% health from finishers, +30% Berserk duration
+
+## NETRUNNER
+Levels via using quickhacks on people and terminals (hacking-adjacent actions generally).
+
+Rank 5: RAM recovery rate +5%
+Rank 10: RAM +1
+Rank 15: +1 perk point
+Rank 20: +20% lock-on range with smart weapons
+Rank 25: RAM recovery rate +5% (cumulative with Rank 5)
+Rank 30: RAM +1 (cumulative with Rank 10)
+Rank 35: +1 perk point
+Rank 40: -20% RAM cost for quickhacks used on devices and vehicles
+Rank 45: +15% duration for Control and Covert quickhacks; +5% damage with Combat quickhacks
+Rank 50: +40% duration for Overclock
+Rank 55: -10% health loss from using quickhacks during Overclock
+Rank 60: While active, Overclock reveals enemies within 10m and allows quickhacking non-Netrunner enemies through cover
+
+## HEADHUNTER
+Levels via landing headshots, weapon techniques, targeting weak points; smaller gains from general handgun use.
+
+Rank 5: Visibility to enemies -10%
+Rank 10: +10% headshot damage, +10% damage against vulnerabilities
+Rank 15: +1 perk point
+Rank 20: No weapon sway when crouched
+Rank 25: Visibility to enemies -10% (cumulative with Rank 5)
+Rank 30: +15% headshot damage, +15% damage against vulnerabilities (cumulative with Rank 10)
+Rank 35: +1 perk point
+Rank 40: Optical Camo remains active while grappling enemies
+Rank 45: Recovery time after a throw -30%
+Rank 50: +30% faster crouch-walking and crouch-sprinting
+Rank 55: Damage bonus from being undetected outside combat persists 3 seconds after entering combat
+Rank 60: +15% Optical Camo charge when neutralizing an enemy via Focus Mode, Deadeye Mode, or a thrown weapon
+
+## SHINOBI
+Levels via movement abilities used in combat (dashing, dodging, climbing) and via katana/sword use.
+
+Rank 5: Movement speed +5%
+Rank 10: Stamina cost from dodging/dashing -5%
+Rank 15: +1 perk point
+Rank 20: Improved accuracy for a short time after dodging or dashing
+Rank 25: Movement speed +5% (cumulative with Rank 5)
+Rank 30: Stamina cost from dodging/dashing -10% (cumulative with Rank 10)
+Rank 35: +1 perk point
+Rank 40: Increased mitigation chance the faster you move
+Rank 45: +25 damage with fast attacks
+Rank 50: Air-dashing and sliding reload 20% of equipped weapon's ammo
+Rank 55: Low stamina no longer affects ranged accuracy or melee attack speed when attacking from midair or while time is slowed
+Rank 60: While Sandevistan is active: +40% critical hit chance, no stamina cost for any movement
+
+## ENGINEER
+Levels via smart weapons, throwables, and (fastest) crafting.
+
+Rank 5: Armor +15
+Rank 10: Cyberware capacity +5
+Rank 15: +1 perk point
+Rank 20: +10% grenade damage and explosion radius
+Rank 25: Armor +25 (cumulative with Rank 5)
+Rank 30: Cyberware capacity +10 (cumulative with Rank 10)
+Rank 35: +1 perk point
+Rank 40: Increased shock chance from charging a tech weapon or electric baton
+Rank 45: Health item effectiveness +15%
+Rank 50: +30% for all Cyberware stat modifiers
+Rank 55: +10% damage from Bolt Shots, +40% burn chance with Bolt Shots; Chain Lightning sets enemies on fire
+Rank 60: While Fury is active, may cause an EMP blast

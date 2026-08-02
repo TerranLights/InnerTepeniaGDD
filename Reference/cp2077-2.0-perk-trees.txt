@@ -1,0 +1,242 @@
+Cyberpunk 2077 (2.0/Phantom Liberty era) — chosen perk trees, all 5 Attributes
+Source: cyberpunk2077.wiki.fextralife.com/Perks (confirmed live/current, explicitly
+states "totally overhauled with the release of Phantom Liberty"), cross-checked against
+search-engine summaries for Technical Ability specifically. Retrieved 2026-08-02.
+
+Tier system (same across all 5 trees): Rookie = Attribute Level 4, Phenom = Attribute
+Level 9, Pro = Attribute Level 15, Legend = Attribute Level 20. (Note: the live wiki page
+itself states Phenom unlocks at 9 and Pro at 15, i.e. Phenom before Pro numerically -
+this is the source's own stated order, preserved as-is rather than "corrected.")
+
+STATUS: Body, Reflexes, Intelligence, and Cool trees are COMPLETE. Technical Ability is
+PARTIAL — only its Grenades/Health-Items branch was retrievable; its second branch
+(Cyberware capacity/effectiveness, starting around a perk called "All Things Cyber" per
+search-engine summaries, not yet directly verified) could not be extracted from any
+source tried: the full Fextralife page truncates at the identical point (right after
+Pyromania) on every retry regardless of how the prompt is framed, a dedicated
+Technical-Ability-only vulkk.com page is overview-only with no per-perk detail, and
+eip.gg's dedicated Technical Ability guide returned HTTP 403. FLAGGED GAP, not resolved -
+see TODO.md for tracking.
+
+////////////////////////////////////////////////////////////////////////////
+
+## BODY ATTRIBUTE
+
+### Rookie (Level 4)
+- **Painkiller** (no prereq) — Unlocks slow Health Regen in combat; Health Regen in combat has no activation delay.
+- **Comeback Kid** (req. Painkiller) — +1% Health Regen Rate for each percent of missing health.
+- **Dorph-Head** (req. Painkiller) — When using Blood Pump cyberware or a Health Item, gain +100% Mitigation chance for 2 sec.
+- **Speed Junkie** (req. Painkiller) — +60% Health Regen Rate while sprinting.
+- **Army of One** (req. Painkiller) — +10% Health Regen Rate for each nearby enemy.
+- **Fury Road** (no prereq) — +50% damage to enemy vehicles/occupants in collisions you cause; -50% damage to your vehicles in collisions enemies cause.
+
+### Pro (Level 9)
+- **DIE! DIE! DIE!** (no prereq) — L1: -15% recoil at low Stamina. L2: increased fire rate as Stamina decreases (max +25% at 0 Stamina).
+- **Like a Feather** (req. DIE! DIE! DIE!) — No movement speed penalty with Shotguns, Light Machine Guns, Heavy Machine Guns.
+- **Don't Stop me Now** (req. DIE! DIE! DIE!) — Below 33% Stamina: +15% Mitigation Chance, +5% Mitigation Strength.
+- **Bullet Ballet** (req. DIE! DIE! DIE!) — -25% bullet spread when moving.
+- **Wrecking Ball** (no prereq) — L1: -15% Stamina Cost for Blunt Weapon attacks. L2: barrel into enemies while sprinting+blocking with Blunt Weapons, damage + chance to knock down.
+- **Breakthrough** (no prereq) — -40% enemy Armor for 7 sec. after hitting them with a Strong Attack.
+- **Kinetic Absorption** (req. Wrecking Ball) — Blocking an attack: +10% Stamina, +30% Blunt Weapon damage for 5 sec.
+- **Fly Swatter** (req. Wrecking Ball) — -40% incoming ranged damage while blocking with Blunt Weapons.
+- **Clapback** (req. Wrecking Ball) — +100% Knockdown chance on Defensive attacks (10 sec cooldown); +100% Stun chance on Counterattacks.
+
+### Phenom (Level 15)
+- **Spontaneous Obliteration** (req. DIE! DIE! DIE!) — L1: -15% recoil at low Stamina. L2: +10% damage vs. nearby enemies. L3: Obliterate ability (chance to instantly kill/dismember low-health enemies, max 20%).
+- **Skullcracker** (req. Spontaneous Obliteration) — Quick Melee damage increases as Stamina decreases (max +200% at 0 Stamina).
+- **Rush of Blood** (req. Spontaneous Obliteration) — Increased Obliterate chance vs. enemies at close range (max +10%).
+- **Dread** (req. Spontaneous Obliteration) — -15% enemy armor on ranged attacks; dismemberment spreads to nearby enemies.
+- **Close-Quarters Carnage** (req. Spontaneous Obliteration) — +20% reload speed for 8 sec. after dismembering an enemy.
+- **Adrenaline Rush** (req. Painkiller) — L1: +35 Max Health. L2: +20% bonus to all Health Regen effects. L3: unlocks Adrenaline Rush mode.
+- **Unstoppable Force** (req. Adrenaline Rush) — While Adrenaline Rush active: immune to movement penalties and non-damaging status effects (Knockdown, Blinding, etc.).
+- **Juggernaut** (req. Adrenaline Rush) — While Adrenaline Rush active: +20% Movement Speed, +10% Damage.
+- **Calm Mind** (req. Adrenaline Rush) — While Adrenaline Rush active: +3 sec. delay before Adrenaline decays.
+- **Bloodlust** (req. Spontaneous Obliteration + Juggernaut) — While Adrenaline Rush active: +50 Adrenaline on dismembering a nearby enemy.
+- **Quake** (req. Wrecking Ball) — L1: -15% Blunt Weapon Stamina cost. L2: +20% Blunt Weapon attack speed. L3: press Q to slam ground, damage+stagger nearby enemies, chance of Knockdown.
+- **Epicenter** (req. Quake) — Performing Quake from midair (Superhero Landing) scales its area/damage with fall speed and distance.
+- **Aftershock** (req. Quake) — +30 Stamina per enemy hit with Quake.
+- **Ripple Effect** (req. Calm Mind + Aftershock) — +15% Health per enemy hit by Quake.
+
+### Legend (Level 20)
+- **Rip and Tear** (req. Spontaneous Obliteration) — +100% damage on next Quick Melee after a Shotgun hit; +100 damage on next Shotgun shot after a Quick Melee hit.
+- **Onslaught** (req. Spontaneous Obliteration) — +20% ammo refill after neutralizing an enemy with a Light Machine Gun.
+- **Pain to Gain** (req. Adrenaline Rush) — While Adrenaline Rush active: +20% Health Item recharge after neutralizing an enemy.
+- **Finisher: Savage Sling** (req. Quake) — Blunt Weapon Finisher (F at low enemy health, Stunned enemies more susceptible); restores 20% Health. Hold F to throw the enemy instead, killing them and damaging others on landing.
+
+---
+
+## REFLEXES ATTRIBUTE
+
+### Rookie (Level 4)
+- **Stuntjock** (no prereq) — Unlocks vehicle exit stunts (double-tap jump out; hold F slide out at high speed), can draw/fire during them; while driving, no bullet-spread penalty from movement, -50% bullet spread overall.
+- **Slippery** (no prereq) — Faster movement = harder for enemies to hit you; effect increases while dashing/dodging/sliding/vaulting.
+- **Muscle Memory** (req. Slippery) — Reload while sprinting, sliding, vaulting.
+- **Multitasker** (req. Slippery) — Shoot while sprinting, sliding, vaulting.
+- **Power Slide** (req. Slippery) — Increased slide distance.
+- **Parkour!** (req. Slippery) — Increased vaulting/climbing speed.
+
+### Pro (Level 9)
+- **Ready, Rested, Reloaded** (no prereq) — L1: -10% Stamina cost shooting Assault Rifles/SMGs. L2: +30% Reload Speed above 50% Stamina.
+- **Tunnel Vision** (req. Ready, Rested, Reloaded) — +20% effective range and accuracy.
+- **Spice of Life** (req. Ready, Rested, Reloaded) — +15% weapon swap speed; -30% bullet spread briefly after swapping.
+- **Mind Over Matter** (req. Ready, Rested, Reloaded) — -25% Recoil when aiming.
+- **Dash** (req. Slippery) — L1: -20% dodge/dash Stamina cost. L2: unlocks Dash (Left Control).
+- **Steady Grip** (req. Dash) — Aim and shoot while Dashing.
+- **Can't Touch This** (req. Dash) — +100% Mitigation Chance while Dashing.
+- **Mean Streak** (req. Dash) — +40% Stamina after neutralizing an enemy while Dashing.
+- **Mad Dash** (req. Dash) — +100% Dash range toward enemies.
+- **Flash and Thunderclap** (req. Mad Dash + Seeing Double) — Strong Attacks auto-leap to enemies in range (works midair too), extra damage scaling with leap distance (max +50%).
+- **Lead and Steel** (req. Slippery) — L1: -15% Blade attack Stamina cost. L2: block incoming projectiles with Blades.
+- **Seeing Double** (req. Lead and Steel) — Increased counterattack damage and stun chance.
+- **Bullet Deflect** (req. Lead and Steel) — Above 33% Stamina, blocking projectiles deflects them toward your reticle; well-timed blocks increase deflected damage.
+- **Bullet Time** (req. Bullet Deflect) — When time is slowed, Bullet Deflect costs no Stamina and deflections auto-crit.
+
+### Phenom (Level 15)
+- **Sharpshooter** (req. Ready, Rested, Reloaded) — L1: +15% aim speed. L2: improved weapon control. L3: successful shots grant stacking Sharpshooter (+7% Stamina Regen/2 sec per stack, max 7 stacks).
+- **Spray and Pray** (req. Sharpshooter) — -10% Stamina cost hip-firing.
+- **Shoot to Chill** (req. Sharpshooter) — -7% automatic-weapon Stamina cost per Sharpshooter stack.
+- **Practice Makes Perfect** (req. Sharpshooter) — +7% Crit Chance and Crit Damage per Sharpshooter stack.
+- **Gundancer** (req. Sharpshooter) — Aiming no longer slows movement; can shoot while vaulting.
+- **Air Kerenzikov** (req. Gundancer) — Activating Kerenzikov midair suspends you in air and extends its duration.
+- **Air Dash** (req. Dash) — L1: -20% Dash Stamina cost. L2: +20% Dash Speed. L3: unlocks midair Dash.
+- **Aerodynamic** (req. Air Dash) — +30% Mitigation Strength midair.
+- **Aerial Acrobat** (req. Air Dash) — Improved midair maneuverability.
+- **Finisher: Bladerunner** (req. Lead and Steel) — L1: -15% Blade Stamina cost. L2: +20% Blade attack speed. L3: unlocks Blade Finisher (F at low enemy health), restores 25% Health.
+- **Flash of Steel** (req. Finisher: Bladerunner) — +25% movement/attack speed for 6 sec. after a Finisher.
+- **Opportunist** (req. Finisher: Bladerunner) — Staggered/Stunned/Blinded/Bleeding enemies more susceptible to Finishers.
+- **Going the Distance** (req. Finisher: Bladerunner) — +100% Finisher range.
+
+### Legend (Level 20)
+- **Salt in the Wound** (req. Sharpshooter) — Shooting the same target 7 consecutive times deals bonus damage = 100% of total damage from those shots.
+- **Submachine Fun** (req. Sharpshooter) — Faster SMG swapping with auto-reload; +22% fire rate after swapping to an SMG (ends on normal reload).
+- **Tailwind** (req. Air Dash) — +25 Stamina from Air Dashes and double jumps.
+- **Slaughterhouse** (req. Finisher: Bladerunner) — All attacks/counterattacks/deflected bullets apply Bleeding (increases dismemberment chance, can't kill outright, makes more susceptible to Finishers); +25 Stamina from dismemberment.
+
+---
+
+## TECHNICAL ABILITY ATTRIBUTE — GRENADES/HEALTH-ITEMS BRANCH ONLY (cyberware branch not retrievable, see STATUS above)
+
+### Rookie (Level 4)
+- **Glutton for War** (no prereq) — 5% instant recharge of Health items and grenades after neutralizing an enemy.
+- **First Aid** (req. Glutton for War) — +15% recharge speed for Health items when only 1 charge has been used.
+- **Transfusion** (req. Glutton for War) — +30% Health from the final charge of your equipped Health Item.
+
+### Pro (Level 9)
+- **Health Freak** (req. Glutton for War) — L1: +8% recharge speed for health items and grenades. L2: +1 Health item charge; +150% recharge speed for health items outside combat.
+- **Borrowed Time** (req. Health Freak) — 100% instant recharge of a Health item after neutralizing an enemy, if below 25% Health with no charges remaining.
+- **Coming in Hot** (req. Health Freak) — +50% grenade recharge speed when you have none available.
+- **Field Medic** (req. Health Freak) — 15% faster Health item use in combat.
+- **Demolition Surplus** (req. Health Freak) — +1 max grenade charge; +250% grenade recharge speed outside combat.
+- **Pyromania** (req. Demolition Surplus) — L1: +8% Grenade Damage. L2: Grenades apply Burning for 5 sec.
+- **Incendiary** (req. Pyromania) — Grenade explosions apply Burning (5 sec) to hit enemies.
+- **Chain Reaction** (req. Pyromania) — Grenades explode on contact with Burning enemies.
+- **Shrapnel** (req. Pyromania) — +20% grenade damage vs. Bleeding/Poisoned enemies.
+
+### Phenom (Level 15)
+- **Explosive Personality** (req. Pyromania) — L1: +8% Grenade Damage. L2: +20% Blast Radius. L3: unlocks Grenade Launcher ability.
+
+### Legend (Level 20)
+- **Finisher: Detonate** (req. Explosive Personality) — Grenade Finisher (F at low enemy health), restores 20% Health.
+
+---
+
+## INTELLIGENCE ATTRIBUTE
+
+### Rookie (Level 4)
+- **Eye in the Sky** (no prereq) — Auto-highlights nearby Access Points/cameras; uploading through cameras: Control/Covert/Distract Enemies quickhacks get -1 RAM Cost, +50% Duration.
+- **Forcekill Cypher** (req. Eye in the Sky) — Reduces Access Point hack sequence length by 1 (floor of 2 characters).
+- **Warning: Explosion Hazard** (req. Eye in the Sky) — +80% additional explosion damage to enemies affected by quickhacks (incl. Distract Enemies).
+- **Optimization** (no prereq) — +35% RAM recovery rate.
+- **Proximate Propagation** (req. Optimization) — Reduced RAM cost the closer you are to target (max -35%).
+- **Encryption** (req. Optimization) — -30% traceability for all quickhacks.
+- **Subordination** (req. Optimization) — +100% duration for Control quickhacks on full-Health enemies.
+- **Carhacker** (no prereq) — Unlocks Vehicle Quickhacks (remote control, alarms, detonation); availability depends on cyberdeck tier.
+
+### Pro (Level 9)
+- **Hack Queue** (req. Eye in the Sky) — L1: +1 max RAM. L2: unlocks quickhack queueing (2 quickhacks per enemy).
+- **Data Recycler** (req. Eye in the Sky) — After neutralizing an enemy, recover 80% RAM cost from all quickhacks remaining in their queue.
+- **Feedback Loop** (req. Hack Queue) — +25% RAM recovery rate per quickhack in a queue.
+- **Counter-a-hack** (req. Hack Queue) — Counter-quickhack an enemy netrunner through walls/obstacles; -1 RAM cost for such counters.
+- **Copy-Paste** (req. Hack Queue) — When targeted by an enemy netrunner, your quickhack against them also spreads to their allies.
+- **Embedded Exploit** (req. Optimization) — L1: +10% RAM recovery. L2: +60% quickhack damage vs. enemies affected by Control/Covert/Distract Enemies quickhacks.
+- **Shadowrunner** (req. Embedded Exploit) — -100% trace progress after a Takedown.
+- **Icepick** (req. Embedded Exploit) — -1 RAM cost for combat quickhacks on enemies affected/targeted by Control/Covert/Distract Enemies quickhacks.
+- **Siphon** (req. Icepick) — Monowire attacks recover 0.5 RAM (1 if enemy is quickhack-affected).
+- **System Overwhelm** (req. Embedded Exploit) — +7% quickhack damage per unique quickhack/DOT effect on target.
+- **Speculation** (req. Embedded Exploit) — Neutralizing an enemy with a Combat quickhack recovers RAM = 25% of total cost of all quickhacks affecting them.
+- **Recirculation** (req. Speculation + Precision Subroutines) — +2 RAM after neutralizing with a Smart Weapon; +50% of total RAM cost if enemy was quickhack-affected.
+- **Acquisition Specialist** (no prereq) — L1: 10% larger Smart Weapon targeting reticle. L2: reload no longer interrupts target lock; +15% lock-on speed hip-fire, +20% aiming.
+- **Precision Subroutines** (req. Acquisition Specialist) — +2% Smart Weapon accuracy per unit of cyberdeck Max RAM.
+- **No Escape** (req. Acquisition Specialist) — Shooting a target whose lock is about to expire resets it.
+
+### Phenom (Level 15)
+- **Queue-Acceleration** (req. Hack Queue) — L1: +1 Max RAM. L2: -1 RAM cost for device/vehicle quickhacks. L3: +1 queue size, +60% upload speed for 3rd+ queued quickhack.
+- **Queue Prioritization** (req. Queue-Acceleration) — +50% upload speed for first quickhack when 2+ queued on an enemy.
+- **Finisher: Live Wire** (req. Queue-Acceleration) — Monowire Finisher (F at low enemy health; more queued quickhacks = more susceptible); restores 15% Health and RAM.
+- **Queue Hack_Root** (req. Queue-Acceleration) — -1 RAM cost for the first quickhack of each unique category (Covert/Combat/Control) 2nd+ in queue.
+- **Blood Daemon** (req. Queue Hack_Root) — While Overclock active: +40 Health per quickhack queued on an enemy at the moment you neutralize them.
+- **Overclock** (req. Embedded Exploit) — L1: +10% RAM recovery. L2: +10% quickhack damage. L3: unlocks Overclock mode (E with cyberdeck installed) — quickhack with insufficient RAM, each unit over max costs 10 Health instead; 14 sec duration, 30 sec cooldown.
+- **Sublimation** (req. Overclock) — While Overclock active, RAM recovery effects also regenerate Health.
+- **Race against Mind** (req. Overclock) — While Overclock active: increased quickhack damage as Health decreases (max +50%, measured at upload start).
+- **Power Surge** (req. Overclock) — Activating Overclock instantly restores Health = 5× max RAM.
+- **Target Lock Transfer** (req. Acquisition Specialist) — L1: 10% larger reticle. L2: hip-fire switch doesn't disengage lock on headshots/weakspots/Vulnerabilities. L3: switching Smart Weapons doesn't interrupt lock.
+- **Terminal Velocity** (req. Target Lock Transfer) — +projectile velocity/lock-on range for 10 sec after a Smart Weapon kill; stacks 3×, refreshes on new stack, all removed at duration end.
+- **Targeting Prism** (req. Target Lock Transfer) — Multiple target locks while aiming; +1 simultaneous target for all Smart Weapons.
+
+### Legend (Level 20)
+- **Queue Mastery** (req. Queue-Acceleration) — +1 queue size; last quickhack filling a queue: -50% RAM cost, locks queue until all upload; +15% damage vs. locked-queue enemies.
+- **Spillover** (req. Overclock) — While Overclock active: +50% chance for quickhacks to spread to an additional target.
+- **Smart Synergy** (req. Overclock + Target Lock Transfer) — While Overclock active, Smart Weapons: instant Target Lock, +25% damage vs. quickhack-affected enemies.
+
+---
+
+## COOL ATTRIBUTE
+
+### Rookie (Level 4)
+- **Road Warrior** (no prereq) — Sandevistan slows time while driving; Kerenzikov activates when aiming+handbraking simultaneously; +25% weapon damage while vehicle drifting/airborne.
+- **Feline Footwork** (no prereq) — While crouched: +15% Movement Speed, +15% Mitigation Chance.
+- **Small Target** (req. Feline Footwork) — +20% Mitigation Chance crouched and stationary.
+- **Blind Spot** (req. Feline Footwork) — Crouched: higher Mitigation Chance slows enemy detection.
+- **Unexposed** (req. Feline Footwork) — +20% Mitigation Chance aiming from cover.
+- **Killer Instinct** (no prereq) — +25% damage with knives/axes/silenced guns outside combat; previews estimated damage.
+- **Quick Getaway** (req. Killer Instinct) — +10% movement speed for 30 sec (or until detected) after neutralizing an enemy undetected; stacks 2×, refreshes.
+- **Gag Order** (req. Killer Instinct) — Attacking an enemy right after they detect you delays detection from nearby enemies.
+
+### Pro (Level 9)
+- **Focus** (no prereq) — +10% headshot/weakspot damage; unlocks Focus mode (auto-activates aiming at full Stamina): no Stamina cost shooting while active (2.5 sec, -40 Stamina on end).
+- **Rinse and Reload** (req. Focus) — +10% reload speed for next reload after a kill while aiming; stacks 2×.
+- **No Sweat** (req. Focus) — -50% Focus Stamina cost per enemy neutralized while active.
+- **Pull!** (req. Focus) — While Focus active, shooting grenades from the air is easier and more powerful.
+- **Head to Head** (req. Focus) — While Focus active, a ranged kill resets its duration.
+- **Deep Breath** (req. Head to Head) — Time slows 25% for you and enemies while Focus is active.
+- **Scorpion Sting** (no prereq) — -15% throwable recovery time; Crit/headshot/weakspot throws apply Poison for 5 sec.
+- **Neurotoxin** (req. Scorpion Sting) — Poison via Scorpion Sting also applies Blinding and disables sprinting for 6 sec.
+- **Parasite** (req. Scorpion Sting) — +15% Health on Crit/Headshot with thrown weapons.
+- **Accelerated Toxin Absorption** (req. Scorpion Sting) — Strong attacks/throws vs. Poisoned enemies instantly deal remaining Poison damage and remove the effect.
+- **Corrosion** (req. Scorpion Sting) — Poison now applies to mechs/robots/drones/turrets.
+
+### Phenom (Level 15)
+- **Deadeye** (req. Focus) — +10% headshot/weakspot damage, -25% shooting Stamina cost; Deadeye mode (above 85% Stamina): +20% headshot damage, +20% weakspot damage, no bullet spread.
+- **High Noon** (req. Deadeye) — While Deadeye active: +35% reload speed for next reload after a headshot/weakspot kill (3 sec window); slows time 50% during that reload.
+- **California Reaper** (req. Deadeye) — +30% Stamina after a ranged headshot/weakspot kill.
+- **Long Shot** (req. Deadeye) — While Deadeye active, shots always deal full damage regardless of distance.
+- **Quick Draw** (req. Deadeye) — +30% swap speed to Pistols/Revolvers/Sniper Rifles/Precision Rifles; +30% Stamina on combat swap.
+- **Ninjutsu** (req. Feline Footwork) — +15% crouch movement speed, +15% crouched Mitigation chance; unlocks crouch-sprint (Left Shift while crouching, costs Stamina).
+- **Creeping Death** (req. Ninjutsu) — While Optical Camo active or undetected, a kill grants +15% Health, +15% Stamina, +10% Movement Speed for 6 sec.
+- **Vanishing Act** (req. Creeping Death) — Optical Camo auto-activates on crouch-sprint/slide (still consumes a charge).
+- **Shinobi Sprint** (req. Ninjutsu) — -75% crouch-sprint Stamina cost in combat.
+- **Serpentine** (req. Ninjutsu) — +30% Mitigation Chance while crouch-sprinting.
+- **Juggler** (req. Scorpion Sting) — -15% throwable recovery time, +20% headshot/weakspot throw damage; instant cooldown reset on all throwables after a headshot/weakspot/Poison throwable kill.
+- **Pay it Forward** (req. Juggler) — After retrieving a thrown knife/axe from an enemy, next melee throwable attack gets +200% damage.
+- **Sleight of Hand** (req. Juggler) — +20% Crit Damage for 8 sec whenever Juggler activates; stacks 5×, refreshes.
+- **Finisher: Act of Mercy** (req. Juggler) — Throwable Weapon Finisher (F at low enemy health, auto-activates Juggler), restores 25% Health.
+
+### Legend (Level 20)
+- **Nerves of Tungsten-Steel** (req. Deadeye) — While Deadeye active: guaranteed Crit on headshots/weakspots; damage increases with distance (max +25%).
+- **Run 'N' Gun** (req. Deadeye) — Hip-firing costs no Stamina; while Focus active: +25% Movement Speed.
+- **Style over Substance** (req. Ninjutsu + Pay it Forward) — Guaranteed Crit with Throwables while crouch-sprinting/sliding/dodging/Dashing; no aiming movement-speed penalty with throwables.
+- **Pounce** (req. Finisher: Act of Mercy) — Finishers usable from greater distance after a throwable hit; each successful throw increases Finisher susceptibility further.
+
+---
+
+**Open production note:** No "Relic" perk tree was captured here — that tier is Phantom Liberty DLC-exclusive, purchased with Relic Points rather than regular perk points, and falls outside the "five Attribute tabs" scope the developer originally specified. Not fetched; flag if it becomes relevant later.

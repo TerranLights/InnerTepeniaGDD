@@ -58,3 +58,6 @@ Applies universally to companions, romanceable NPCs, and the sexually-available 
 
 **Fallout Precedence Law: New Vegas always wins.**
 When Fallout 1/2 and Fallout: New Vegas establish conflicting design precedents, New Vegas takes precedence unconditionally. No exceptions. See `memory/feedback_fallout_precedence_law.md` for full documentation.
+
+**No Level-Scaling. None. No exceptions.** *(Established 2026-08-02, developer's own words: "Immutable Law.")*
+Enemies, loot, and encounters never scale to match the player's level. The world has a fixed, designed difficulty the player grows into (or doesn't) — direct consequence of Fallout Precedence Law above, since this is exactly how Fallout: New Vegas itself works (Deathclaws outside Goodsprings at level 1 are a real, permanent danger, not a scaled-down "early game" version of a Deathclaw). **This is not scoped to Inner Tepenia alone** — the developer has confirmed this is a binding law across every game this studio makes, present and future (Outer Tepenia 1/2/3 and any other title), not a per-project preference open to reconsideration. Also recorded in the developer's own global Claude Code instructions (`~/.claude/CLAUDE.md`) for that reason — this file's copy is the Inner-Tepenia-specific documentation of a rule whose actual authority is cross-project.
