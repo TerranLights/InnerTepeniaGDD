@@ -126,6 +126,11 @@ specs," which stays in `TODO.md` only for now.
   armor/clothing system above.
 - [ ] **Convert BG3 cantrips into "quickhacks," and BG3 spells and feats into perks and traits** — a direct
   conversion-mapping exercise from Baldur's Gate 3's own ability lists.
+- [ ] **Convert Cyberpunk 2077's skill-based bonuses into "challenge perks"** (and, where it fits better,
+  ordinary level-up perks instead) — source is CP2077's own skill trees (all five tabs) and rank-up bonuses.
+  Mixed sort, not 1:1: some become challenge perks, some become ordinary perks, some don't translate at all
+  given Inner Tepenia's Fallout-descended system (e.g. CP2077's "+1 perk point" bonuses don't map, since
+  perk points here only come every two levels). See `TODO.md`'s own entry for the source links.
 - [ ] **Real-world scientific basis for BG3 damage types** — what objects/items would cause the
   scientifically-supported equivalent of each BG3 damage type (and comparable relative amounts), and what
   kind of setting each would characteristically be found in. Ties into `Per_City_Weapons`/`Damage_Types.md`.

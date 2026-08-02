@@ -1,0 +1,180 @@
+Baldur's Gate 3 — Feats, full mechanical list
+Source: https://bg3.wiki/wiki/Feats
+Retrieved 2026-08-01. Mechanical/numeric facts only (game rules, not
+copyrightable flavor text) — extracted for use as raw conversion material
+toward Inner Tepenia's own perks/traits/challenge perks. Requires "extreme
+reinterpretation" per the developer's own framing — Inner Tepenia is Hard
+Sci-Fi, not D&D-style fantasy, so several of these may not translate at all.
+
+////////////////////////////////////////////////////////////////////////////
+
+1. Ability Improvement — Increase one ability score by 2, or two ability
+   scores by 1 (max 20).
+
+2. Actor — Charisma +1 (max 20); gain expertise in Deception and
+   Performance.
+
+3. Alert — +5 initiative bonus; cannot be surprised.
+
+4. Athlete: Standing Up — Strength or Dexterity +1 (max 20); standing from
+   prone costs less movement; jump distance +50%.
+
+5. Charger: Weapon Attack — Charge up to 9m and make melee attack with +5
+   damage without provoking opportunity attacks (uses Action and Bonus
+   Action; counts as single weapon attack for Extra Attack).
+
+6. Charger: Shove — Charge and shove first enemy without provoking
+   opportunity attacks; shove distance based on Strength and target weight.
+
+7. Crossbow Expert: Point-Blank — Crossbow attacks in melee range don't
+   have disadvantage.
+
+8. Crossbow Expert: Wounding — Piercing Shot inflicts Gaping Wounds for
+   twice as long.
+
+9. Defensive Duellist — When attacked with melee while wielding proficient
+   Finesse weapon, use Reaction to add proficiency bonus to AC. Requires
+   Dexterity 13+.
+
+10. Dual Wielder — Use Two-Weapon Fighting with non-Light weapons (except
+    Two-Handed).
+
+11. Dual Wielder: Bonus Armour Class — +1 AC while wielding melee weapons
+    in both hands.
+
+12. Dungeon Delver: Perception — Advantage on Perception checks for hidden
+    objects and saving throws against traps.
+
+13. Dungeon Delver: Resist Traps — Gain resistance to trap damage.
+
+14. Durable — Constitution +1 (max 20); regain full hit points on short
+    rest.
+
+15. Elemental Adept — Choose one damage type (Acid, Cold, Lightning, Fire,
+    or Thunder): spells ignore resistance to that type; cannot roll 1s on
+    damage dice for that element.
+
+16. Great Weapon Master: Bonus Attack — After critical hit or kill with
+    melee weapon, make bonus melee attack as Bonus Action.
+
+17. Great Weapon Master: All In — Two-Handed or Versatile melee attacks
+    (two hands): -5 to hit, +10 damage (toggleable).
+
+18. Heavily Armoured — Strength +1 (max 20); gain heavy armour proficiency.
+    Requires medium armour proficiency.
+
+19. Heavy Armour Master — Strength +1 (max 20); non-magical
+    slashing/bludgeoning/piercing damage reduced by 3 while wearing heavy
+    armour. Requires heavy armour proficiency.
+
+20. Lightly Armoured — Strength or Dexterity +1 (max 20); gain light armour
+    proficiency.
+
+21. Lucky — Gain 3 Luck Points (recharge on Long Rest); spend to gain
+    advantage on attack roll, ability check, or saving throw, or force
+    enemy to reroll attack.
+
+22. Mage Slayer: Saving Throw Advantage — Advantage on saving throws
+    against spells cast within melee range.
+
+23. Mage Slayer: Attack Caster — Use Reaction to make attack against caster
+    casting spell within 1.5m.
+
+24. Mage Slayer: Break Concentration — Enemies you hit have disadvantage on
+    concentration saving throws.
+
+25. Magic Initiate: Bard — Learn 2 cantrips and one 1st-level Bard spell
+    (castable once per Long Rest); use Charisma as spellcasting ability.
+
+26. Magic Initiate: Cleric — Learn 2 cantrips and one 1st-level Cleric
+    spell (castable once per Long Rest); use Wisdom as spellcasting
+    ability.
+
+27. Magic Initiate: Druid — Learn 2 cantrips and one 1st-level Druid spell
+    (castable once per Long Rest); use Wisdom as spellcasting ability.
+
+28. Magic Initiate: Sorcerer — Learn 2 cantrips and one 1st-level Sorcerer
+    spell (castable once per Long Rest); use Charisma as spellcasting
+    ability.
+
+29. Magic Initiate: Warlock — Learn 2 cantrips and one 1st-level Warlock
+    spell (castable once per Long Rest); use Charisma as spellcasting
+    ability.
+
+30. Magic Initiate: Wizard — Learn 2 cantrips and one 1st-level Wizard
+    spell (castable once per Long Rest); use Intelligence as spellcasting
+    ability.
+
+31. Martial Adept — Learn two Battle Master manoeuvres; gain 1 additional
+    Superiority Die (recharge on Short or Long Rest).
+
+32. Medium Armour Master — Medium armour no longer imposes Stealth
+    disadvantage; Dexterity AC bonus becomes +3 instead of +2. Requires
+    medium armour proficiency.
+
+33. Mobile — Movement speed +3m (10 ft); Dash action unaffected by
+    difficult terrain; no opportunity attacks when moving after melee
+    attack.
+
+34. Moderately Armoured — Strength or Dexterity +1 (max 20); gain medium
+    armour and shield proficiency. Requires light armour proficiency.
+
+35. Performer — Charisma +1 (max 20); gain musical instrument proficiency.
+
+36. Polearm Master: Bonus Attack — Using Glaive, Halberd, Pike,
+    Quarterstaff, or Spear: use Bonus Action to attack with weapon butt.
+
+37. Polearm Master: Opportunity Attack — Make opportunity attacks when
+    target enters range.
+
+38. Resilient — Choose ability score: increase by 1 (max 20); gain
+    proficiency in that ability's saving throws.
+
+39. Ritual Caster: Free Spells — Learn two ritual spells of choice (Speak
+    with Dead, Find Familiar, Longstrider, Enhance Leap, Disguise Self, or
+    Speak with Animals).
+
+40. Savage Attacker — Melee weapon damage: roll damage dice twice and use
+    highest result.
+
+41. Sentinel: Vengeance — When enemy in melee range attacks ally (without
+    Sentinel feat), use Reaction to make weapon attack against attacker.
+
+42. Sentinel: Snare — Opportunity attack hits prevent target movement for
+    remainder of turn.
+
+43. Sentinel: Opportunity Advantage — Gain advantage on opportunity
+    attacks.
+
+44. Sharpshooter: Low Ground — Ranged attacks unpenalized by high ground
+    rules.
+
+45. Sharpshooter: All In — Ranged attacks with proficient weapons: -5 to
+    hit, +10 damage (toggleable).
+
+46. Shield Master — +2 bonus to Dexterity saving throws when wielding
+    shield; use Reaction to shield against spells forcing Dexterity saves
+    (half damage on fail, no damage on success). Note: bug prevents
+    half-damage reduction on failed saves (as documented on the wiki at
+    time of retrieval).
+
+47. Skilled — Gain proficiency in 3 skills of choice.
+
+48. Spell Sniper — Learn one cantrip; critical hit threshold reduced by 1
+    for spell attacks (effect stacks).
+
+49. Tavern Brawler — Strength or Constitution +1 (max 20); unarmed
+    attacks, improvised weapons, and thrown objects: add Strength modifier
+    twice to damage and attack rolls.
+
+50. Tough — Hit point maximum increased by 2 per level.
+
+51. War Caster: Concentration — Advantage on saving throws to maintain
+    concentration on spells.
+
+52. War Caster: Opportunity Spell — Use Reaction to cast Shocking Grasp at
+    target moving out of melee range (requires knowing spell from another
+    source).
+
+53. Weapon Master — Strength or Dexterity +1 (max 20); gain proficiency
+    with four weapon types of choice.

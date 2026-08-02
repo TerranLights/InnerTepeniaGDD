@@ -1,0 +1,110 @@
+Baldur's Gate 3 — Spells, full name index (NOT mechanical detail — see note below)
+Source: https://bg3.wiki/wiki/List_of_all_spells
+Retrieved 2026-08-01.
+
+NOTE: this index page only lists spell names, level groupings, and
+Concentration/Ritual tags — it does NOT include mechanical details (damage,
+range, area, duration, saving throws). Getting that level of detail would
+require fetching each spell's own individual wiki page (~316 separate
+pages) — not attempted in this pass; see the developer conversation this
+file came from for why. Treat this as a scope/index reference only.
+
+////////////////////////////////////////////////////////////////////////////
+
+## Cantrips (25)
+Acid Splash, Blade Ward, Bone Chill, Booming Blade, Bursting Sinew,
+Dancing Lights [Conc], Eldritch Blast, Fire Bolt, Friends [Conc],
+Guidance [Conc], Light, Mage Hand, Minor Illusion, Poison Spray,
+Produce Flame, Ray of Frost, Resistance [Conc], Sacred Flame, Shillelagh,
+Shocking Grasp, Thaumaturgy, Thorn Whip, Toll the Dead, True Strike [Conc],
+Vicious Mockery
+
+## Level 1 (52)
+Animal Friendship, Armour of Agathys, Arms of Hadar, Bane [Conc],
+Bless [Conc], Burning Hands, Charm Person, Chromatic Orb, Colour Spray,
+Command, Compelled Duel [Conc], Create or Destroy Water, Cure Wounds,
+Disguise Self [Ritual], Dissonant Whispers, Divine Favour [Conc],
+Enhance Leap [Ritual], Ensnaring Strike [Conc], Entangle [Conc],
+Expeditious Retreat [Conc], Faerie Fire [Conc], False Life,
+Feather Fall [Ritual], Find Familiar [Ritual], Fog Cloud [Conc], Goodberry,
+Grease, Guiding Bolt, Hail of Thorns, Healing Word, Hellish Rebuke,
+Heroism [Conc], Hex [Conc], Hunter's Mark [Conc], Ice Knife,
+Inflict Wounds, Longstrider [Ritual], Mage Armour, Magic Missile,
+Protection from Evil and Good [Conc], Ray of Sickness, Sanctuary,
+Searing Smite [Conc], Shield, Shield of Faith [Conc], Sleep,
+Speak with Animals [Ritual], Tasha's Hideous Laughter [Conc],
+Thunderous Smite, Thunderwave, Witch Bolt [Conc], Wrathful Smite [Conc]
+
+## Level 2 (42)
+Aid, Arcane Lock, Barkskin [Conc], Blindness, Blur [Conc],
+Branding Smite [Conc], Calm Emotions [Conc], Cloud of Daggers [Conc],
+Crown of Madness [Conc], Darkness [Conc], Darkvision,
+Detect Thoughts [Conc, Ritual], Enhance Ability [Conc],
+Enlarge/Reduce [Conc], Enthrall, Flame Blade, Flaming Sphere [Conc],
+Gust of Wind, Heat Metal [Conc], Hold Person [Conc], Invisibility [Conc],
+Knock, Lesser Restoration, Magic Weapon [Conc], Melf's Acid Arrow,
+Mirror Image, Misty Step, Moonbeam [Conc], Pass Without Trace [Conc],
+Phantasmal Force [Conc], Prayer of Healing, Protection from Poison,
+Ray of Enfeeblement [Conc], Scorching Ray, See Invisibility, Shadow Blade,
+Shatter, Silence [Conc, Ritual], Spike Growth [Conc], Spiritual Weapon,
+Warding Bond, Web [Conc]
+
+## Level 3 (34)
+Animate Dead, Beacon of Hope [Conc], Bestow Curse [Conc], Blinding Smite,
+Blink, Call Lightning [Conc], Conjure Barrage, Counterspell,
+Crusader's Mantle [Conc], Daylight, Elemental Weapon [Conc], Fear [Conc],
+Feign Death, Fireball, Gaseous Form [Conc], Glyph of Warding,
+Grant Flight [Conc], Haste [Conc], Hunger of Hadar [Conc],
+Hypnotic Pattern [Conc], Lightning Arrow, Lightning Bolt,
+Mass Healing Word, Plant Growth, Protection from Energy [Conc],
+Remove Curse, Revivify, Sleet Storm [Conc], Slow [Conc],
+Speak with Dead [Ritual], Spirit Guardians [Conc], Stinking Cloud [Conc],
+Vampiric Touch [Conc], Warden of Vitality
+
+## Level 4 (21)
+Banishment [Conc], Blight, Confusion [Conc], Conjure Minor Elemental,
+Conjure Woodland Being, Death Ward, Dimension Door, Dominate Beast [Conc],
+Evard's Black Tentacles [Conc], Fire Shield, Freedom of Movement,
+Grasping Vine, Greater Invisibility [Conc], Guardian of Faith, Ice Storm,
+Otiluke's Resilient Sphere [Conc], Phantasmal Killer [Conc],
+Polymorph [Conc], Staggering Smite [Conc], Stoneskin [Conc],
+Wall of Fire [Conc]
+
+## Level 5 (19)
+Banishing Smite, Cloudkill [Conc], Cone of Cold, Conjure Elemental,
+Contagion, Curriculum of Strategy: Artistry of War, Destructive Wave,
+Dethrone, Dispel Evil And Good [Conc], Dominate Person [Conc],
+Flame Strike, Greater Restoration, Hold Monster [Conc],
+Insect Plague [Conc], Mass Cure Wounds, Planar Binding [Conc], Seeming,
+Telekinesis [Conc], Wall of Stone [Conc]
+
+## Level 6 (20)
+Arcane Gate [Conc], Blade Barrier [Conc], Chain Lightning, Circle of Death,
+Create Undead, Disintegrate, Eyebite [Conc], Flesh to Stone [Conc],
+Globe of Invulnerability [Conc], Harm, Heal, Heroes' Feast,
+Otiluke's Freezing Sphere, Otto's Irresistible Dance [Conc], Planar Ally,
+Sights of the Seelie: Summon Deva, Sunbeam [Conc], Wall of Ice [Conc],
+Wall of Thorns [Conc], Wind Walk
+
+## Level 9 / Special (6)
+Bhaal's Power Word Kill Ritual, Power Word Kill, Karsus' Compulsion,
+Formsculpt: Tressym, Power Word: Ruin, Divine Revelry
+
+## Special NPC-only Spells (16)
+Elemental Retort, Finger of Death, Hellfire Orb, Incinerate, Keeper's Fee,
+Lunar Smite, Lovely Assistant, Mind Spike, Possession, Promise of Wealth,
+Revoke Guest Status, Shield of Screams, Summon Gilded Hellsboar,
+Teleport to Submersible, The Closed Fist of Bane, Tyrant's Bindings
+
+## Special Item-Granted Spells (23)
+Beckoning Darkness, Brand the Weak, Challenge to Duel, Danse Macabre,
+Draconic Elemental Weapon, Elemental Age, Ensnaring Strands,
+Exhort the Risen, Find Familiar: Cheeky Quasit, Flesh to Gold,
+Howl of the Dead, Kereska's Favour, Khalid's Gift: Aid, Paralyzing Ray,
+Protection from Missiles, Ray of Fear, Ride the Winds, Selûne's Dream,
+Shadow Blade, Shar's Aegis, Sights of the Seelie: Summon Deva,
+Summon Quothe the Raven [Ritual], Wounding Ray
+
+TOTAL LISTED: 316 (per source page's own count; some entries like Shadow
+Blade and Sights of the Seelie: Summon Deva appear in more than one
+category above, so the true unique-spell count is somewhat lower).

@@ -1,0 +1,1715 @@
+Baldur's Gate 3 — Spells, mechanical detail (COMPLETE — all 316 index entries)
+Source: individual spell pages at bg3.wiki (see each entry's URL below)
+Retrieved 2026-08-01. Mechanical/numeric facts only (game rules, not
+copyrightable flavor text) — extracted for use as raw conversion material
+toward Inner Tepenia's own perks/traits/quickhacks. Requires "extreme
+reinterpretation" per the developer's own framing — Inner Tepenia is Hard
+Sci-Fi, not D&D-style fantasy, so several of these may not translate at
+all. See bg3-spells-name-index.txt for the full 316-entry name index this
+file is gradually filling in mechanical detail for.
+
+////////////////////////////////////////////////////////////////////////////
+
+## CANTRIPS
+
+### Fire Bolt — https://bg3.wiki/wiki/Fire_Bolt
+Damage: 1d10 fire (scales to 2d10 at char level 5, 3d10 at level 10).
+Range: 18m (60ft). Cost: 1 Action. Attack roll required (no save).
+Verbal + somatic components. Benefits from high ground (extends range).
+Ignites flammable objects (torches, braziers) on hit.
+
+### Eldritch Blast — https://bg3.wiki/wiki/Eldritch_Blast
+Damage: 1d10 Force per beam. Range: 18m (60ft). Cost: 1 Action. Attack
+roll required per beam (no save). Scaling: +1 beam at char level 5, +1
+more at level 10 (each beam separate attack roll). Repelling Blast
+invocation: pushes target 4.5m (15ft), once per cast. Hex adds 1d6
+Necrotic per beam. Verbal + somatic. Can be Counterspelled.
+
+### Sacred Flame — https://bg3.wiki/wiki/Sacred_Flame
+Damage: 1d8 radiant (scales to 2d8 at level 5, 3d8 at level 10). Range:
+18m (60ft). Cost: 1 Action. Save: Dexterity (spell save DC) — negates
+damage entirely on success (no half damage). Verbal + somatic. Evocation.
+
+### Acid Splash — https://bg3.wiki/wiki/Acid_Splash
+Damage: 1d6 acid (scales to 2d6 at level 5, 3d6 at level 10). Range: 18m
+(60ft). Area: 2m (7ft) radius. Save: Dexterity — negates damage. Cost: 1
+Action. High-ground range extension.
+
+### Blade Ward — https://bg3.wiki/wiki/Blade_Ward
+Effect: resistance to bludgeoning/piercing/slashing (half damage from
+these). Duration: 2 turns. Cost: 1 Action. Range: Self. Verbal + somatic.
+Abjuration. Available: Bard/Cleric/Sorcerer/Warlock/Wizard L1; Eldritch
+Knight/Arcane Trickster L3; High Elf/High Half-Elf race; Magic Initiate.
+No scroll version exists.
+
+### Bone Chill — https://bg3.wiki/wiki/Bone_Chill
+Damage: 1d8 necrotic (scales to 2d8 at level 5, 3d8 at level 10). Range:
+18m (60ft). Attack roll required. Cost: 1 Action. Secondary: "Bone
+Chilled" condition, 1 turn — target can't regain HP or help Downed
+characters; undead targets get disadvantage on attack rolls. Verbal +
+somatic. High-ground range extension.
+
+### Booming Blade — https://bg3.wiki/wiki/Booming_Blade
+Damage: weapon damage + 1d8 Thunder (base); +2d8 Thunder at level 5,
++3d8 at level 11 if target moves (bonus damage only triggers on
+movement, within 1 turn). Range: normal weapon range. Melee weapon
+attack roll (requires weapon proficiency). Cost: 1 Action. Castable
+while Silenced. Qualifies for Extra Attack (uses weapon attack roll).
+
+### Bursting Sinew — https://bg3.wiki/wiki/Bursting_Sinew
+Necromancy. Cost: 1 Action. Range: 18m (60ft). Area: 3m (10ft) radius.
+Target: 1 fresh corpse (not ooze/plant/construct/elemental; can't be
+killed by Fire/Radiant/Acid). Damage: 1d10 Piercing (scales to 2d10 at
+level 5, 3d10 at level 10), non-magical (resisted normally). Save:
+Dexterity — negates. Consumes the corpse (can't be reused or reanimated
+afterward).
+
+### Dancing Lights — https://bg3.wiki/wiki/Dancing_Lights
+Evocation. Cost: 1 Action. Range: 18m (60ft). Area: 9m (30ft) radius
+illumination. Duration: 10 turns (Concentration). Verbal + somatic.
+Functions as one light source (not 4 like tabletop). Movable via Bonus
+Action. Doesn't break stealth. Can trigger traps/block vents.
+
+### Friends — https://bg3.wiki/wiki/Friends
+Enchantment. Effect: advantage on Charisma checks vs. a non-hostile
+creature. Range: 9m (30ft). Duration: 10 turns (Concentration). Cost: 1
+Action. Castable while Silenced. Drawback: -10 approval with companions
+when it wears off; considered a crime on Tactician+ difficulty (target
+may become hostile/accuse caster of enchantment).
+
+### Guidance — https://bg3.wiki/wiki/Guidance
+Divination. Bonus: +1d4 to ability checks. Duration: 10 turns
+(Concentration). Range: melee, 1.5m (5ft). Cost: 1 Action. Verbal +
+somatic. Repeatable.
+
+### Light — https://bg3.wiki/wiki/Light
+Evocation. Range: melee, 1.5m (5ft). Duration: until Long Rest (on
+characters) or 20 turns (on objects). Effect: 7.5m (25ft) radius light
+aura on one target object. Non-ally creatures can Dex save (vs. caster's
+spell save DC) to resist. Verbal component. Blocked by Darkness spell.
+
+### Mage Hand — https://bg3.wiki/wiki/Mage_Hand
+Conjuration. Cost: 1 Action. Range: 18m (60ft). Recharge: 1/Short Rest.
+Duration: 10 turns. Summons a Tiny hand creature: 3 HP, 5 AC, Str
+10/Dex 10/Con 3/Int 2/Wis 1/Cha 1. Can Shove (bonus action) and Throw
+(action); manipulates objects. Can't target characters/items directly.
+Verbal + somatic. Arcane Tricksters get an invisible, permanent-duration
+version (Mage Hand Legerdemain).
+
+### Minor Illusion — https://bg3.wiki/wiki/Minor_Illusion
+Illusion. Cost: 1 Action. Range: 18m (60ft). Duration: 10 turns. No
+concentration. Creates an illusory cat (1 HP, 10 AC, 0 speed, all stats
+-5) that compels nearby creatures to investigate/turn toward it (out of
+and in combat respectively). Castable hidden/silenced; doesn't break
+invisibility. Can't target characters/items. Triggers traps/blocks
+vents if placed on them. Illusion School Wizards get Improved Minor
+Illusion (bonus action, 20-turn duration).
+
+### Poison Spray — https://bg3.wiki/wiki/Poison_Spray
+Damage: 1d12 poison (scales to 2d12 at level 5, 3d12 at level 10).
+Range: 3m (10ft). Save: Constitution — negates. Cost: 1 Action. Verbal +
+somatic. High-ground range extension.
+
+### Produce Flame — https://bg3.wiki/wiki/Produce_Flame
+Damage (when thrown): 1d8 Fire (scales to 2d8 at level 5, 3d8 at level
+10). Range: 9m (30ft) thrown. Cost: free to throw immediately after
+conjuring; costs an Action to throw later or extinguish. Creates a blue
+flame, 9m (30ft) light radius, persists until Long Rest. Ignites
+flammable objects. Verbal + somatic.
+
+### Ray of Frost — https://bg3.wiki/wiki/Ray_of_Frost
+Damage: 1d8 cold (scales to 2d8 at level 5, 3d8 at level 10). Range: 18m
+(60ft). Attack roll required. Cost: 1 Action. Secondary: target's speed
+-3m (10ft) for 1 turn on hit. Extinguishes fire surfaces/objects;
+freezes liquid surfaces (creatures on frozen liquid Dex save or become
+prone); double damage to Wet targets. Verbal + somatic.
+
+### Resistance (cantrip) — https://bg3.wiki/wiki/Resistance_(Cantrip)
+Abjuration. Bonus: +1d4 to saving throws. Duration: 10 turns
+(Concentration). Cost: 1 Action. Range: melee, 1.5m (5ft). Verbal +
+somatic. Learned by Cleric/Druid at L1, or via Magic Initiate.
+
+### Shillelagh — https://bg3.wiki/wiki/Shillelagh
+Transmutation. Cost: Bonus Action. Range: Self. Requires quarterstaff or
+club. Duration: 10 turns. Effect: weapon becomes magical bludgeoning;
+1d8 + spellcasting modifier damage; attack rolls use spellcasting
+modifier instead of Strength. Weapon can't be thrown/removed from
+inventory during effect. Works on improvised club/staff weapons (e.g.
+torches). Verbal + somatic.
+
+### Shocking Grasp — https://bg3.wiki/wiki/Shocking_Grasp
+Damage: 1d8 Lightning (scales to 2d8 at level 5, 3d8 at level 10).
+Range: melee, 1.5m (5ft). Melee spell attack roll. Secondary: target
+can't use reactions for 1 turn. Advantage vs. targets in metal armor.
+Verbal + somatic.
+
+### Thaumaturgy — https://bg3.wiki/wiki/Thaumaturgy
+Transmutation. Cost: 1 Action. Range: Self. Effect: advantage on
+Intimidation and Performance checks. Duration: 10 turns. Verbal
+component. Available: Cleric L1, Giant Barbarian L3, Zariel Tiefling L1,
+Magic Initiate: Cleric.
+
+### Thorn Whip — https://bg3.wiki/wiki/Thorn_Whip
+Damage: 1d6 piercing (scales to 2d6 at level 5, 3d6 at level 10). Melee
+spell attack roll (despite ranged distance — no melee disadvantage).
+Range: 9m (30ft). Cost: 1 Action. Secondary: pulls target 3m (10ft)
+closer (not if target is Huge+).
+
+### Toll the Dead — https://bg3.wiki/wiki/Toll_the_Dead
+Damage: 1d12 Necrotic if target has taken damage, 1d8 Necrotic if
+target is at/near full health (scales to 2d12/2d8 at level 5, 3d12/3d8
+at level 10). Range: 18m (60ft). Save: Wisdom — negates. Cost: 1 Action.
+Verbal + somatic. Bug: "full health" threshold is actually ≤99% HP.
+
+### True Strike — https://bg3.wiki/wiki/True_Strike
+Divination. Effect: advantage on caster's next attack roll (self only,
+consumed after first attack). Range: 18m (60ft). Duration: 2 turns
+(includes casting turn) (Concentration). Cost: 1 Action. Castable while
+Silenced.
+
+### Vicious Mockery — https://bg3.wiki/wiki/Vicious_Mockery
+Damage: 1d4 Psychic (scales to 2d4 at level 5, 3d4 at level 10). Range:
+18m (60ft). Save: Wisdom — negates. Secondary (on failed save):
+disadvantage on target's next attack roll, 1 turn (applies to any
+"attack," including spells). Cost: 1 Action.
+
+## LEVEL 1
+
+### Animal Friendship — https://bg3.wiki/wiki/Animal_Friendship
+Enchantment. Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Save:
+Wisdom. Target must have Int ≤3. Effect: Charmed 10 turns — target can't
+attack caster, caster gets advantage on Charisma checks with it. Ends
+early if caster/ally damages target (may turn hostile on higher
+difficulty). Upcast: +1 target per slot level above 1st. Verbal +
+somatic.
+
+### Armour of Agathys — https://bg3.wiki/wiki/Armour_of_Agathys
+Cost: 1 Action + 1 L1 slot. Range: Self. Effect: 5 temp HP; melee
+attackers take 5 Cold damage. Duration: until Long Rest or temp HP lost.
+Upcast: +5 temp HP/+5 Cold damage per slot level above 1st. Only one
+temp-HP source active at a time. Verbal + somatic.
+
+### Arms of Hadar — https://bg3.wiki/wiki/Arms_of_Hadar
+Damage: 2d6 Necrotic. Area: 3m (10ft) radius from self. Save: Strength
+— half damage on success (reaction retained); full damage + can't take
+Reactions for 1 turn on fail. Cost: 1 Action + 1 L1 slot. Upcast: +1d6
+per slot level above 1st. Verbal + somatic.
+
+### Bane — https://bg3.wiki/wiki/Bane_(Spell)
+Enchantment. Effect: up to 3 targets get -1d4 to attack rolls and
+saving throws. Range: 9m (30ft). Save: Charisma. Duration: 10 turns
+(Concentration). Cost: 1 Action + 1 L1 slot. Upcast: +1 target per slot
+level above 1st. Verbal + somatic.
+
+### Bless — https://bg3.wiki/wiki/Bless
+Effect: up to 3 non-hostile targets get +1d4 to attack rolls and saving
+throws. Range: 9m (30ft). Duration: 10 turns (Concentration). Cost: 1
+Action + 1 L1 slot. Upcast: +1 target per slot level above 1st. Verbal +
+somatic.
+
+### Charm Person — https://bg3.wiki/wiki/Charm_Person
+Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Save: Wisdom (enemies
+have advantage on this save). Duration: 10 turns. Effect: charms a
+humanoid — can't attack caster; caster gets advantage on Charisma
+checks with it. Ends early if caster/ally damages target. Upcast: +1
+target per slot level above 1st. Verbal + somatic.
+
+### Chromatic Orb — https://bg3.wiki/wiki/Chromatic_Orb
+Damage: 3d8 (Thunder) or 2d8 (Acid/Cold/Fire/Lightning/Poison — player
+chooses type). Range: 18m (60ft). Attack roll required. Cost: 1 Action +
+1 L1 slot. Upcast: +1d8 of chosen type per slot level above 1st. Creates
+a surface at impact. Verbal + somatic.
+
+### Colour Spray — https://bg3.wiki/wiki/Colour_Spray
+Area: 5m (17ft) cone from self. No save — affects creatures up to a
+combined 33 HP pool. Effect: Blinded 1 turn (disadvantage on attacks,
+attack range capped at 3m/10ft, attackers get advantage vs. them). Cost:
+1 Action + 1 L1 slot. Upcast: HP threshold +11 per slot level above
+1st. Verbal + somatic.
+
+### Command — https://bg3.wiki/wiki/Command
+Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Save: Wisdom. Options:
+Approach, Drop (weapon), Flee, Grovel, Halt. No effect on undead. Target
+obeys indirectly-harmful commands but resists directly-harmful ones (can
+be exploited, e.g. Approach into opportunity attacks). No concentration.
+Upcast: +1 target per slot level above 1st. Sorcerer Extended Spell
+metamagic: doubles duration, no re-roll on failed save. Verbal +
+somatic.
+
+### Compelled Duel — https://bg3.wiki/wiki/Compelled_Duel
+Enchantment. Cost: Bonus Action + 1 L1 slot. Range: 9m (30ft). Save:
+Wisdom. Duration: 3 turns (Concentration). Effect: target gets
+disadvantage on attack rolls against anyone but the caster (if cast on a
+player character by an enemy, player loses control for the duration).
+No upcast benefit. Verbal component.
+
+### Create or Destroy Water — https://bg3.wiki/wiki/Create_or_Destroy_Water
+Transmutation. Cost: 1 Action + 1 L1 slot. Range: 9m (30ft). Area: 4m
+(13ft) radius. Effect: conjure rain or remove a water surface in area.
+Upcast: area +2m (7ft) per slot level above 1st. Verbal + somatic.
+Interacts with Wet/Shocked/ice-terrain/Electrified Steam mechanics.
+
+### Disguise Self — https://bg3.wiki/wiki/Disguise_Self
+Illusion. Cost: 1 Action + 1 L1 slot. Range: Self. Duration: until Long
+Rest. Ritual castable. Effect: change all aspects of appearance (no
+mechanical benefits from disguised race/size beyond visual, though size
+category does change). Dispel Disguise action ends it early. No upcast
+benefit. Verbal + somatic.
+
+### Dissonant Whispers — https://bg3.wiki/wiki/Dissonant_Whispers
+Damage: 3d6 Psychic. Range: 18m (60ft). Save: Wisdom — half damage on
+success. Secondary: Frightened 2 turns (can't move, disadvantage on
+ability checks/attacks) on fail. Cost: 1 Action + 1 L1 slot. Upcast:
++1d6 per slot level above 1st. Verbal component.
+
+### Divine Favour — https://bg3.wiki/wiki/Divine_Favour
+Cost: Bonus Action + 1 L1 slot. Range: Self. Effect: weapon attacks deal
++1d4 Radiant (not unarmed attacks). Duration: 3 turns (Concentration).
+No upcast benefit. Verbal + somatic.
+
+### Enhance Leap — https://bg3.wiki/wiki/Enhance_Leap
+Cost: 1 Action + 1 L1 slot. Range: melee, 1.5m (5ft). Duration: 10
+turns. Ritual castable. Effect: triples jump distance (applied to base
+jump distance before other modifiers). No upcast benefit. Githyanki get
+a free racial version 1/Long Rest. Verbal + somatic.
+
+### Ensnaring Strike — https://bg3.wiki/wiki/Ensnaring_Strike
+Conjuration. Cost: Action + 1 L1 slot (Bonus Action if triggered on
+hit). Weapon attack roll (triggers Extra Attack). Damage: weapon damage
++ 1d6 Piercing on hit. Save: Strength — on fail, Ensnared 10 turns
+(can't move, 1d6 Piercing/turn, attackers get advantage, target has
+disadvantage on attacks/Dex saves; freeable via ally Help action).
+Concentration required. Upcast: +1d6/turn per slot level above 1st.
+Verbal component.
+
+### Entangle — https://bg3.wiki/wiki/Entangle
+Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Area: 3m (10ft) radius.
+Save: Strength. Duration: 10 turns (Concentration). Effect: difficult
+terrain (half speed); Entangled (can't move 1 turn, Str save to resist,
+disadvantage on attacks/Dex saves, attackers get advantage; freeable via
+ally Help). No upcast benefit. Can't directly target Grounded creatures
+(but area can still catch them). Verbal + somatic.
+
+### Expeditious Retreat — https://bg3.wiki/wiki/Expeditious_Retreat
+Transmutation. Cost: Bonus Action + 1 L1 slot. Range: Self. Duration:
+until Long Rest (Concentration). Effect: Dash immediately + Dash as
+bonus action each turn while active. No upcast benefit. Verbal +
+somatic.
+
+### Faerie Fire — https://bg3.wiki/wiki/Faerie_Fire
+Evocation. Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Area: 6m
+(20ft) radius. Save: Dexterity. Duration: 10 turns (Concentration).
+Effect: targets become visible (can't turn invisible), attack rolls
+against them get advantage, they shed dim light. No upcast benefit.
+Verbal component.
+
+### False Life — https://bg3.wiki/wiki/False_Life
+Cost: 1 Action + 1 L1 slot. Range: Self. Effect: 7 temp HP. Duration:
+until Long Rest. Upcast: +5 temp HP per slot level above 1st. Only one
+temp-HP source at a time. Warlocks with Fiendish Vigour cast at will, no
+slot. Verbal + somatic.
+
+### Feather Fall — https://bg3.wiki/wiki/Feather_Fall
+Cost: Bonus Action + 1 L1 slot. Range: Self, 9m (30ft) radius AoE.
+Duration: 10 turns. Ritual castable. Effect: immunity to fall damage;
+prevents Prone from falls over 8m (27ft). No upcast benefit. Verbal
+component.
+
+### Find Familiar — https://bg3.wiki/wiki/Find_Familiar
+Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Ritual castable. Recharge:
+1/Short Rest per version known. No upcast benefit. Summons a fey
+familiar: standard forms Cat/Crab/Frog/Rat/Raven/Spider; Pact of the
+Chain exclusive Imp/Quasit; special single-creature variants (Boo,
+Cheeky Quasit, Scratch). Only one active familiar total across all
+versions; dismissed if caster leaves active party. Familiar can examine/
+attack/drag objects, can't use environment interactables except by
+attacking them. Verbal + somatic.
+
+### Fog Cloud — https://bg3.wiki/wiki/Fog_Cloud
+Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Area: 4.5m (15ft) radius
+sphere. Duration: 10 turns (Concentration). Effect: Heavily Obscures/
+Blinds creatures within (disadvantage on attacks, attack range capped
+3m/10ft, attackers vs. them get advantage). Upcast: area +2m (7ft) per
+slot level above 1st (documented as buggy/inconsistent). Verbal +
+somatic.
+
+### Goodberry — https://bg3.wiki/wiki/Goodberry
+Cost: 1 Action + 1 L1 slot. Range: melee, 1.5m (5ft). Effect: conjures 4
+berries; each heals 1d4 HP on consumption and counts as 1 camp supply.
+Duration: berries vanish after Long Rest. No upcast benefit. Verbal +
+somatic.
+
+### Magic Missile — https://bg3.wiki/wiki/Magic_Missile
+Damage: 3 darts, each 1d4+1 Force (total 6-15). Range: 18m (60ft). Cost:
+1 Action + 1 Level 1 slot. No save — darts auto-hit. Darts can target
+different enemies individually. Upcast: +1 dart per slot level above 1st.
+Verbal + somatic. Shield spell grants full immunity to this spell.
+
+### Cure Wounds — https://bg3.wiki/wiki/Cure_Wounds
+Healing: 1d8 + spellcasting modifier. Range: melee, 1.5m (5ft) touch.
+Cost: 1 Action + 1 Level 1 slot. Upcast: +1d8 per slot level above 1st.
+No effect on undead/constructs. Verbal component. Available at Level 1
+(Bard/Cleric/Druid/Life Domain) or Level 2 (Paladin/Ranger).
+
+### Shield (spell) — https://bg3.wiki/wiki/Shield_(spell)
+Effect: +5 Armour Class. Duration: until start of caster's next turn (1
+turn). Cost: 1 Reaction + 1 Level 1 slot. Range: Self. Grants immunity to
+Magic Missile for the duration. Verbal + somatic. No benefit from
+upcasting.
+
+### Burning Hands — https://bg3.wiki/wiki/Burning_Hands
+Damage: 3d6 fire (3-18 total). Area: 5m (17ft) cone, from self. Save:
+Dexterity — half damage on success. Cost: 1 Action + 1 Level 1 slot.
+Upcast: +1d6 per slot level above 1st. Verbal + somatic.
+
+### Grease — https://bg3.wiki/wiki/Grease
+Cost: 1 Action + 1 L1 slot. Range: 18m (60ft). Area: 4m (13ft) radius.
+Save: Dexterity — fail = Prone 1 turn. Duration: 10 turns, no
+concentration. Effect: creates a difficult-terrain, flammable surface
+(half movement speed on it). No upcast benefit. Verbal + somatic.
+
+### Guiding Bolt — https://bg3.wiki/wiki/Guiding_Bolt
+Damage: 4d6 Radiant. Range: 18m (60ft). Attack roll required. Secondary:
+next attack roll against target gains Advantage, lasts 2 turns. Cost: 1
+Action + 1 L1 slot. Upcast: +1d6 per slot level above 1st. Verbal +
+somatic.
+
+### Hail of Thorns — https://bg3.wiki/wiki/Hail_of_Thorns
+Damage: weapon damage (attack roll) + 1d10 Piercing explosion. Range:
+18m (60ft). Area: 2m (7ft) radius around target. Save: Dexterity — halves
+explosion damage only (explosion triggers even on missed attack). Cost:
+1 Action + 1 Bonus Action + 1 L1 slot. Upcast: explosion +1d10 per slot
+level above 1st. Verbal component. Does not benefit from Extra Attack.
+
+### Healing Word — https://bg3.wiki/wiki/Healing_Word
+Healing: 1d4 + spellcasting modifier. Range: 18m (60ft). Cost: Bonus
+Action + 1 L1 slot. Instantaneous. No effect on undead/constructs.
+Upcast: +1d4 per slot level above 1st. Verbal component.
+
+### Hellish Rebuke — https://bg3.wiki/wiki/Hellish_Rebuke
+Damage: 2d10 Fire. Save: Dexterity — half damage on success. Cost:
+Reaction (triggered when caster takes damage from an attacker) + 1 L1
+slot. Upcast: +1d10 per slot level above 1st. Somatic + verbal.
+
+### Heroism — https://bg3.wiki/wiki/Heroism
+Effect: immunity to Frightened; 5 temp HP/turn (only one temp-HP source
+active at a time). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L1 slot.
+Duration: 10 turns (Concentration). Upcast: +1 target per slot level
+above 1st. Verbal + somatic.
+
+### Hex — https://bg3.wiki/wiki/Hex
+Damage bonus: +1d6 Necrotic per caster attack that hits target. Range:
+18m (60ft). Cost: Bonus Action + 1 L1 slot. Duration: until Long Rest
+(Concentration). Secondary: target has disadvantage on one chosen
+ability's checks (not saves/attacks). No upcast benefit. Somatic +
+verbal. If target dies/knocked out, caster can Reapply Hex free.
+
+### Hunter's Mark — https://bg3.wiki/wiki/Hunter%27s_Mark
+Damage bonus: +1d6 weapon damage per hit (weapon attacks only, not
+unarmed). Range: 18m (60ft). Cost: Bonus Action + 1 L1 slot. Duration:
+until Long Rest (Concentration). No upcast benefit. Verbal component.
+Reapply Hunter's Mark (bonus action, free) if marked target dies.
+
+### Ice Knife — https://bg3.wiki/wiki/Ice_Knife
+Damage: 1d10 Piercing (attack roll, initial hit) + 2d6 Cold (explosion,
+triggers even on miss). Range: 18m (60ft). Area: 2m (7ft) radius. Save:
+Dexterity negates explosion damage only. Cost: 1 Action + 1 L1 slot.
+Upcast: explosion +1d6 Cold per slot level above 1st. Somatic component.
+Creates a 2-turn ice surface; can knock prone (Dex save).
+
+### Inflict Wounds — https://bg3.wiki/wiki/Inflict_Wounds
+Damage: 3d10 Necrotic. Range: melee, 1.5m (5ft). Melee spell attack roll
+required. Cost: 1 Action + 1 L1 slot. Upcast: +1d10 per slot level above
+1st. Verbal + somatic.
+
+### Longstrider — https://bg3.wiki/wiki/Longstrider
+Transmutation. Effect: +3m (10ft) movement speed. Range: melee, 1.5m
+(5ft). Cost: 1 Action + 1 L1 slot. Duration: until Long Rest. Ritual
+castable. Upcast: +1 target per slot level above 1st. Somatic + verbal.
+
+### Mage Armour — https://bg3.wiki/wiki/Mage_Armour
+Effect: sets AC to 13 + Dex modifier (doesn't stack with other base-AC
+abilities). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L1 slot.
+Duration: until Long Rest. No upcast benefit. Verbal + somatic. Target
+must be unarmoured (shields allowed); removed if armor equipped.
+
+### Protection from Evil and Good — https://bg3.wiki/wiki/Protection_from_Evil_and_Good
+Effect: vs. Aberrations/Celestials/Elementals/Fey/Fiends/Undead — target
+can't be Charmed/Frightened by them, they have disadvantage attacking
+target. Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L1 slot. Duration:
+until Long Rest (Concentration). No upcast benefit. Somatic + verbal.
+
+### Ray of Sickness — https://bg3.wiki/wiki/Ray_of_Sickness
+Damage: 2d8 Poison. Range: 18m (60ft). Attack roll, then target makes a
+Constitution save vs. Poisoned (2 turns: disadvantage on attacks/ability
+checks) on hit. Cost: 1 Action + 1 L1 slot. Upcast: +1d8 per slot level
+above 1st. Somatic + verbal.
+
+### Sanctuary — https://bg3.wiki/wiki/Sanctuary
+Effect: target can't be targeted by attacks until it attacks/harms a
+creature (area damage still applies); breaking it early inflicts
+Sanctuary Blocked 1 turn. Range: 18m (60ft). No save. Cost: Bonus Action
++ 1 L1 slot. Duration: 10 turns. No upcast benefit. Somatic + verbal.
+
+### Searing Smite — https://bg3.wiki/wiki/Searing_Smite
+Damage: on melee weapon hit, +1d6 Fire, then 1d6 Fire/turn for up to 10
+turns (Constitution save ends it early). Cost: 1 Action to cast + spell
+slot consumed on hit. Concentration required. Upcast: +1d6 initial per
+slot level above 1st. Verbal component.
+
+### Shield of Faith — https://bg3.wiki/wiki/Shield_of_Faith
+Effect: +2 AC. Range: 18m (60ft). Cost: Bonus Action + 1 L1 slot.
+Duration: until Long Rest (Concentration). No upcast benefit. Somatic +
+verbal.
+
+### Sleep — https://bg3.wiki/wiki/Sleep
+Effect: puts creatures to sleep up to a combined 24 HP pool (undead/
+sleep-immune excluded). Range: 18m (60ft). Cost: 1 Action + 1 L1 slot.
+Duration: 2 turns, ends on damage/Help/shove/getting wet. Sleeping =
+can't move/act, auto-fail Str/Dex saves, attackers get advantage
+(melee within 1.5m/5ft auto-crits). Upcast: +8 HP pool per slot level
+above 1st. Somatic + verbal.
+
+### Speak with Animals — https://bg3.wiki/wiki/Speak_with_Animals
+Effect: comprehend/communicate with beasts. Range: Self. Cost: 1 Action
++ 1 L1 slot. Duration: until Long Rest. Ritual castable. No upcast
+benefit. Somatic + verbal. Doesn't work on shapechangers in animal form.
+
+### Tasha's Hideous Laughter — https://bg3.wiki/wiki/Tasha%27s_Hideous_Laughter
+Effect: Prone, can't take actions/bonus actions/reactions, disadvantage
+on Str/Dex saves, attackers within 3m (10ft) get advantage. Range: 18m
+(60ft). Save: Wisdom (target must have Int 5+). Cost: 1 Action + 1 L1
+slot. Duration: 10 turns (Concentration); target can attempt to shake it
+off on damage/turn end. No upcast benefit. Somatic + verbal.
+
+### Thunderous Smite — https://bg3.wiki/wiki/Thunderous_Smite
+Damage: on melee weapon hit, weapon damage + 2d6 Thunder, pushes target
+3m (10ft). Save: Strength — success avoids prone but still takes full
+damage; fail = Prone 1 turn. Cost: 1 Action to cast + 1 Bonus Action + 1
+L1 slot on hit. No upcast benefit. Verbal component.
+
+### Thunderwave — https://bg3.wiki/wiki/Thunderwave
+Damage: 2d8 Thunder. Area: 5m (17ft) cube. Save: Constitution — success
+= half damage, negates push. Fail: pushed up to 8m (27ft). Cost: 1
+Action + 1 L1 slot. Upcast: +1d8 per slot level above 1st. Somatic +
+verbal.
+
+### Witch Bolt — https://bg3.wiki/wiki/Witch_Bolt
+Damage: 1d12 Lightning initial (attack roll), then 1d12 Lightning/turn
+by spending an Action each subsequent turn. Range: 18m (60ft). Cost: 1
+Action + 1 L1 slot. Duration: 10 turns (Concentration). Upcast: initial
+damage +1d12 per slot level above 1st (subsequent-turn damage stays
+1d12). Verbal + somatic.
+
+### Wrathful Smite — https://bg3.wiki/wiki/Wrathful_Smite
+Damage: on melee weapon hit, weapon damage + 1d6 Psychic. Save: Wisdom
+— success = full damage but no Frightened; fail = Frightened 2 turns
+(can't move, disadvantage on ability checks/attacks). Cost: 1 Action to
+cast + 1 Bonus Action + 1 L1 slot on hit. Concentration required. No
+upcast benefit. Verbal component.
+
+## LEVEL 2
+
+### Aid — https://bg3.wiki/wiki/Aid
+Effect: +5 max HP (allies who are downed return with +1 HP); doesn't
+stack across multiple casts, most recent takes precedence. Range: Self,
+9m (30ft) radius AoE. Cost: 1 Action + 1 L2 slot. Duration: until Long
+Rest. Upcast: +5 max HP per slot level above 2nd. Somatic + verbal.
+
+### Arcane Lock — https://bg3.wiki/wiki/Arcane_Lock
+Effect: locks a door/container against lockpicking and Knock. Range:
+melee, 1.5m (5ft). Cost: 1 Action + 1 L2 slot. Duration: 10 turns. No
+upcast benefit. Somatic + verbal.
+
+### Barkskin — https://bg3.wiki/wiki/Barkskin
+Effect: sets AC to 16 minimum (no benefit if already ≥16; doesn't stack
+with other base-AC effects — highest applies). Range: melee, 1.5m
+(5ft). Cost: 1 Action + 1 L2 slot. Duration: until Long Rest
+(Concentration). No upcast benefit. Somatic + verbal.
+
+### Blindness — https://bg3.wiki/wiki/Blindness
+Effect: Blinded — attackers get advantage, target's attacks have
+disadvantage, target's attack/spell range capped at 3m (10ft). Range:
+18m (60ft). Save: Constitution, repeatable each turn end. Cost: 1
+Action + 1 L2 slot. Duration: 10 turns. Upcast: +1 target per slot
+level above 2nd. Verbal component.
+
+### Blur — https://bg3.wiki/wiki/Blur
+Effect: attackers have disadvantage on attack rolls vs. caster (no
+effect vs. blindsight/true seeing). Range: Self. Cost: 1 Action + 1 L2
+slot. Duration: 10 turns (Concentration). No upcast benefit. Verbal
+component.
+
+### Branding Smite — https://bg3.wiki/wiki/Branding_Smite
+Damage: on weapon hit (melee or ranged), +2d6 Radiant. Secondary:
+target marked with light, can't turn Invisible, 10 turns. Cost: 1
+Action to cast + 1 Bonus Action + 1 L2 slot on hit. Concentration
+required. Upcast: +1d6 per slot level above 2nd. Verbal component.
+
+### Calm Emotions — https://bg3.wiki/wiki/Calm_Emotions
+Effect: humanoids in area can't be Charmed/Frightened/enraged; ends
+those conditions immediately if already active; hostile targets
+become neutral. Range: 18m (60ft). Area: 6m (20ft) radius. Cost: 1
+Action + 1 L2 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Somatic + verbal.
+
+### Cloud of Daggers — https://bg3.wiki/wiki/Cloud_of_Daggers
+Damage: 4d4 Slashing, triggers on cast and again each affected
+creature's turn start (no save; can trigger multiple times if
+shoved/thrown through). Range: 18m (60ft). Area: 2m (7ft) radius.
+Cost: 1 Action + 1 L2 slot. Duration: 10 turns (Concentration).
+Upcast: +2d4 per slot level above 2nd. Somatic + verbal.
+
+### Crown of Madness — https://bg3.wiki/wiki/Crown_of_Madness
+Effect: humanoid (non-undead) enemy attacks the creature closest to
+it (even an ally) instead of caster's choosing. Range: 18m (60ft).
+Save: Wisdom, repeatable each turn end. Cost: 1 Action + 1 L2 slot.
+Duration: 3 turns (Concentration). No upcast benefit. Somatic +
+verbal.
+
+### Darkness — https://bg3.wiki/wiki/Darkness
+Effect: Heavily Obscures/Blinds creatures within; blocks ranged
+attacks in/out of the area. Range: 18m (60ft). Area: 5m (17ft) radius.
+Cost: 1 Action + 1 L2 slot. Duration: 10 turns (Concentration). No
+upcast benefit. Verbal component.
+
+### Darkvision (spell) — https://bg3.wiki/wiki/Darkvision_(spell)
+Effect: grants 12m (40ft) dark vision (does not see through magical
+darkness). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L2 slot.
+Duration: until Long Rest. No upcast benefit. Somatic + verbal.
+
+### Detect Thoughts — https://bg3.wiki/wiki/Detect_Thoughts
+Effect: telepathic link, hear targeted creature's thoughts while
+talking to it (NPC use rolls an Intelligence check — actual mechanic
+uses only Int modifier despite tooltip suggesting Int-or-Wis; failure
+may cause hostility). Range: Self. Cost: 1 Action + 1 L2 slot.
+Duration: until Long Rest (Concentration). Ritual castable. No upcast
+benefit. Somatic + verbal.
+
+### Enhance Ability — https://bg3.wiki/wiki/Enhance_Ability
+Effect: advantage on ability checks with one chosen ability (not
+saves) — 6 named variants (Bear's Endurance/Bull's Strength/Cat's
+Grace/Eagle's Splendour/Fox's Cunning/Owl's Wisdom). Range: melee,
+1.5m (5ft). Cost: 1 Action + 1 L2 slot. Concentration required.
+Upcast: +1 target per slot level above 2nd. Somatic + verbal.
+
+### Enlarge/Reduce — https://bg3.wiki/wiki/Enlarge/Reduce
+Effect — Enlarge: +1 size category, +25% carrying capacity, advantage
+on Str saves/checks, +1d4 weapon/unarmed damage, weight ×2.35. Reduce:
+opposite (-1 size, -25% capacity, disadvantage on Str saves/checks,
+weight ÷2.35). Range: 9m (30ft). Save: Constitution (non-party
+creatures only). Cost: 1 Action + 1 L2 slot. Duration: 10 turns
+(Concentration). No upcast benefit. Somatic + verbal.
+
+### Enthrall — https://bg3.wiki/wiki/Enthrall
+Effect: reduces target's peripheral vision, forces focus on caster
+(Enthralled). Range: 6m (20ft). Save: Wisdom. Cost: 1 Action + 1 L2
+slot. Duration: 10 turns. No upcast benefit. Somatic + verbal.
+
+### Flame Blade — https://bg3.wiki/wiki/Flame_Blade
+Damage: 3d6 Fire (4d6 at levels 4-5, 5d6 at level 6). Range: Self
+(summons a melee scimitar attacking via spellcasting ability). Cost:
+Bonus Action + 1 L2 slot. Duration: 10 turns, no concentration. Upcast:
++1d6 per 2 slot levels above 2nd. Verbal + somatic. Weapon can't be
+thrown/transferred; sheds light.
+
+### Flaming Sphere — https://bg3.wiki/wiki/Flaming_Sphere
+Damage: 2d6 Fire to nearby enemies/objects. Range: 18m (60ft). Area:
+2m (7ft) radius. Save: Dexterity — half damage on success. Cost: 1
+Action + 1 L2 slot. Duration: 10 turns (Concentration). Upcast: +1d6
+per slot level above 2nd. Somatic + verbal. Sphere: 20 HP, AC 16,
+resists physical/acid/lightning, immune necrotic/psychic/poison/fire;
+movable by caster.
+
+### Gust of Wind — https://bg3.wiki/wiki/Gust_of_Wind
+Effect: pushes creatures 5m (17ft), Off Balance 1 turn (removed by
+damage/Help) on fail. Range: Self. Area: 12m (40ft) line. Save:
+Strength negates. Cost: 1 Action + 1 L2 slot. No upcast benefit.
+Verbal + somatic.
+
+### Heat Metal — https://bg3.wiki/wiki/Heat_Metal
+Damage: 2d8 Fire initial. Range: 18m (60ft). Save: Constitution —
+success = full damage but disadvantage on attacks instead of dropping
+weapon; fail = weapon auto-dropped. Cost: 1 Action + 1 L2 slot.
+Duration: 10 turns (Concentration); Bonus Action reapply for another
+2d8 + save each subsequent turn. Upcast: +1d8 per slot level above
+2nd (applies to reapply too). Somatic + verbal.
+
+### Hold Person — https://bg3.wiki/wiki/Hold_Person
+Effect: target humanoid can't move/act/react, auto-fails Str/Dex
+saves, melee hits within 3m auto-crit. Range: 18m (60ft). Save:
+Wisdom, repeatable each turn end. Cost: 1 Action + 1 L2 slot.
+Duration: 10 turns (Concentration). Upcast: +1 target per slot level
+above 2nd. Verbal + somatic.
+
+### Invisibility (spell) — https://bg3.wiki/wiki/Invisibility_(spell)
+Effect: target turns Invisible — attacks against it have disadvantage,
+its attacks have advantage. Range: melee, 1.5m (5ft). Cost: 1 Action
++ 1 L2 slot. Duration: 10 turns (Concentration). Upcast: +1 target per
+slot level above 2nd. Verbal + somatic. Ends early on attack, casting
+another spell, object interaction, taking an action/bonus action,
+getting wet, or taking damage (Dash/Jump/potions/Minor Illusion
+exempted).
+
+### Knock — https://bg3.wiki/wiki/Knock
+Effect: unlocks any mundane (non-magical) lock regardless of
+difficulty (some resist). Range: 18m (60ft). Cost: 1 Action + 1 L2
+slot. Instantaneous. No upcast benefit. Verbal component. Casting on
+owned property flagged as a crime.
+
+### Lesser Restoration — https://bg3.wiki/wiki/Lesser_Restoration
+Effect: cures Diseased/Poisoned/Paralysis/Blinded/Bloodless. Range:
+melee, 1.5m (5ft). Cost: 1 Action + 1 L2 slot. Instantaneous. No
+upcast benefit. Somatic + verbal.
+
+### Magic Weapon — https://bg3.wiki/wiki/Magic_Weapon
+Effect: weapon gets +1 to attack/damage rolls (stacks with inherent
+enchantments). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L2 slot.
+Duration: until Long Rest (Concentration). Upcast: +1 bonus per 2 slot
+levels above 2nd. Somatic + verbal.
+
+### Melf's Acid Arrow — https://bg3.wiki/wiki/Melf%27s_Acid_Arrow
+Damage: 4d4 Acid immediate + 2d4 Acid at end of target's next turn
+(half initial damage only on miss, no follow-up damage on miss).
+Range: 18m (60ft). Attack roll required. Cost: 1 Action + 1 L2 slot.
+Upcast: +2d4 total (split 1d4 immediate/1d4 delayed) per slot level
+above 2nd. Somatic + verbal. Creates a 2m-radius acid surface: -2 AC
+while standing on it.
+
+### Mirror Image — https://bg3.wiki/wiki/Mirror_Image
+Effect: 3 illusory duplicates, each granting +3 AC; a duplicate is
+consumed when caster evades an attack. Range: Self. Cost: 1 Action +
+1 L2 slot. Duration: 10 turns. No upcast benefit. Somatic + verbal.
+
+### Misty Step — https://bg3.wiki/wiki/Misty_Step
+Effect: teleport to an unoccupied visible space. Range: 18m (60ft).
+Cost: Bonus Action + 1 L2 slot. Instantaneous. No upcast benefit.
+Verbal component.
+
+### Moonbeam — https://bg3.wiki/wiki/Moonbeam
+Damage: 2d10 Radiant/turn. Range: 18m (60ft). Area: 1m (3ft) radius.
+Save: Constitution — half damage on success. Cost: 1 Action + 1 L2
+slot. Duration: 10 turns (Concentration). Upcast: +1d10 per slot
+level above 2nd. Somatic + verbal. Movable 18m/action at no extra
+cost while concentrating.
+
+### Pass Without Trace — https://bg3.wiki/wiki/Pass_Without_Trace
+Effect: +10 Stealth check bonus to caster and nearby allies. Range:
+Self. Area: 9m (30ft) radius. Cost: 1 Action + 1 L2 slot. Duration:
+until Long Rest (Concentration). No upcast benefit. Somatic + verbal.
+
+### Phantasmal Force — https://bg3.wiki/wiki/Phantasmal_Force
+Damage: 1d6 Psychic/turn (changes to match other damage types the
+target subsequently receives). Range: 18m (60ft). Save: Intelligence,
+repeatable each turn end. Cost: 1 Action + 1 L2 slot. Duration: 10
+turns (Concentration). No upcast benefit. Somatic + verbal.
+
+### Prayer of Healing — https://bg3.wiki/wiki/Prayer_of_Healing
+Healing: 2d8 + spellcasting modifier. Range: Self. Area: 9m (30ft)
+radius. Cost: 1 Action + 1 L2 slot. Upcast: +1d8 per slot level above
+2nd. Verbal component. Out-of-combat only; no effect on undead/
+constructs.
+
+### Protection from Poison — https://bg3.wiki/wiki/Protection_from_Poison
+Effect: neutralizes existing poisons; grants advantage on Poisoned
+saves + resistance to poison damage (also covers Cloudkill/Nauseous/
+Poisonous Slime Bomb/poison coatings, not toxins). Range: melee, 1.5m
+(5ft). Cost: 1 Action + 1 L2 slot. Duration: until Long Rest. No
+upcast benefit. Somatic + verbal.
+
+### Ray of Enfeeblement — https://bg3.wiki/wiki/Ray_of_Enfeeblement
+Effect: Feeble condition — Strength-based weapon attacks deal half
+damage. Range: 18m (60ft). Ranged spell attack roll required. Cost: 1
+Action + 1 L2 slot. Duration: 10 turns (Concentration); target may
+Constitution-save each turn end to end it. No upcast benefit. Somatic
++ verbal.
+
+### Scorching Ray — https://bg3.wiki/wiki/Scorching_Ray
+Damage: 3 rays × 2d6 Fire, each with its own attack roll. Range: 18m
+(60ft). Cost: 1 Action + 1 L2 slot. Upcast: +1 ray per slot level
+above 2nd. Somatic + verbal. Bonus damage from passives/conditions
+applies per ray.
+
+### See Invisibility (spell) — https://bg3.wiki/wiki/See_Invisibility_(spell)
+Effect: perceive invisible creatures/objects in area; invisible
+creatures in area must Dexterity-save or lose invisibility. Range:
+Self, 9m (30ft) radius. Cost: 1 Action + 1 L2 slot. Duration: until
+Long Rest. No upcast benefit. Somatic + verbal.
+
+### Shadow Blade — https://bg3.wiki/wiki/Shadow_Blade
+Damage: 2d8 Psychic (3d8 at levels 3-4, 4d8 at levels 5-6); includes
+Str/Dex modifier (finesse). Range: Self (summons a melee weapon). Cost:
+Bonus Action + 1 L2 slot. Duration: until Long Rest or unconsciousness,
+no concentration noted. Advantage vs. Lightly/Heavily Obscured
+targets. Somatic + verbal.
+
+### Shatter — https://bg3.wiki/wiki/Shatter
+Damage: 3d8 Thunder. Range: 18m (60ft). Area: 3m (10ft) radius. Save:
+Constitution — half on success (inorganic creatures have disadvantage
+on this save). Cost: 1 Action + 1 L2 slot. Upcast: +1d8 per slot
+level above 2nd. Somatic + verbal.
+
+### Silence — https://bg3.wiki/wiki/Silence
+Effect: Silenced + immune to Thunder damage within area (can't speak
+or cast verbal-component spells; does not block Counterspell). Range:
+18m (60ft). Area: 6m (20ft) radius. Cost: 1 Action + 1 L2 slot.
+Duration: 100 turns (Concentration). Ritual castable. No upcast
+benefit. Somatic + verbal.
+
+### Spike Growth — https://bg3.wiki/wiki/Spike_Growth
+Damage: 2d4 Piercing per 1.5m (5ft) moved through area. Range: 18m
+(60ft). Area: 6m (20ft) radius, difficult terrain (half speed). Cost:
+1 Action + 1 L2 slot. Duration: 100 turns (Concentration). No upcast
+benefit. Somatic + verbal.
+
+### Spiritual Weapon — https://bg3.wiki/wiki/Spiritual_Weapon
+Damage: 1d8+1 + spellcasting modifier, Force. Range: 18m (60ft). Cost:
+Bonus Action + 1 L2 slot. Duration: 10 turns. Upcast: +8 HP + 1d8
+damage per 2 slot levels above 2nd. Verbal + somatic. Acts on own
+initiative, only one active at a time, fixed action DC 12, no
+opportunity attacks.
+
+### Warding Bond — https://bg3.wiki/wiki/Warding_Bond
+Effect: target gets resistance to all damage + 1 AC/save bonus;
+caster takes redirected damage equal to what target takes (reduced by
+caster's own resistances; can trigger caster's own concentration
+saves). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L2 slot.
+Duration: until Long Rest. No upcast benefit. Somatic + verbal.
+Persists if caster is downed, ends if caster dies; can affect multiple
+allies at once.
+
+### Web — https://bg3.wiki/wiki/Web
+Effect: sticky flammable difficult-terrain surface (half speed);
+Enwebbed 1 turn on fail (can't move, attackers get advantage,
+target's attacks/Dex saves have disadvantage; Help action removes).
+Range: 18m (60ft). Area: 4m (13ft) radius. Save: Dexterity. Cost: 1
+Action + 1 L2 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Verbal + somatic. Prevents fall damage.
+
+## LEVEL 3
+
+### Animate Dead — https://bg3.wiki/wiki/Animate_Dead
+Effect: animates a Medium/Small corpse into an undead servant (out of
+combat). Range: 3m (10ft). Cost: 1 Action + 1 L3 slot. Somatic +
+verbal. Upcast: L4 = up to 3 Skeletons/Zombies; L5 = 1 Ghoul/Flying
+Ghoul; L6 = up to 3 Ghouls/Flying Ghouls. Only one active summon per
+caster; recasting dismisses the previous one.
+
+### Beacon of Hope — https://bg3.wiki/wiki/Beacon_of_Hope
+Effect: affected creatures regain max possible HP when healed, gain
+advantage on Wisdom and Death saves. Range: Self. Area: 9m (30ft)
+radius. Cost: 1 Action + 1 L3 slot. Duration: 10 turns (Concentration).
+No upcast benefit. Somatic + verbal. Affects the caster too.
+
+### Bestow Curse — https://bg3.wiki/wiki/Bestow_Curse
+Effect (choose one, only one curse active on a target at a time):
+Dread (disadvantage on ability checks/saves), Attack Disadvantage,
+Additional Damage, or disadvantage on one chosen ability's checks/
+saves. Range: melee, 1.5m (5ft). Save: Wisdom. Cost: 1 Action + 1 L3
+slot. Duration: 10 turns (Concentration). Upcast: 20 turns at L4, 50 at
+L5, 100 at L6. Somatic + verbal.
+
+### Blinding Smite — https://bg3.wiki/wiki/Blinding_Smite
+Damage: on melee weapon hit, weapon damage + 3d8 Radiant. Save:
+Constitution — fail = Blinded 10 turns (disadvantage on attacks, 3m
+range cap on ranged attacks/spells, attackers get advantage;
+repeatable each turn end). Cost: 1 Action + 1 L3 slot. No upcast
+benefit. Verbal component.
+
+### Blink — https://bg3.wiki/wiki/Blink
+Effect: end of turn, roll d20 — 11+ vanishes to the Ethereal Plane
+(can't be harmed/seen); can reposition up to 6m (20ft) on vanishing.
+Range: Self. Cost: 1 Action + 1 L3 slot. Duration: Blink condition 10
+turns; Ethereal state lasts until combat ends. No upcast benefit.
+Somatic + verbal. Combat only.
+
+### Call Lightning — https://bg3.wiki/wiki/Call_Lightning
+Damage: 3d10 Lightning. Range: 18m (60ft). Area: 2m (7ft) radius. Save:
+Dexterity — half damage on success. Cost: 1 Action + 1 L3 slot.
+Duration: 10 turns (Concentration); free recasts within duration.
+Upcast: +1d10 per slot level above 3rd (applies to initial + all free
+recasts). Somatic + verbal.
+
+### Conjure Barrage — https://bg3.wiki/wiki/Conjure_Barrage
+Damage: weapon damage + 2d8 Slashing. Range: Self. Area: 9m (30ft)
+cone. Save: Dexterity — half damage on success. Cost: 1 Action + 1 L3
+slot. Somatic + verbal.
+
+### Counterspell — https://bg3.wiki/wiki/Counterspell
+Effect: stops a spell being cast; if target spell's level exceeds
+caster's slot, requires an ability check (DC 10 + target spell level;
+bugged to use Intelligence regardless of caster's real casting stat).
+Works while silenced; cantrips counterspellable; can't counterspell a
+Counterspell; failed attempt still triggers Abjuration Wizard's Arcane
+Ward. Cost: Reaction + 1 L3 slot. Upcast: higher slot auto-succeeds vs.
+higher-level spells without a check.
+
+### Crusader's Mantle — https://bg3.wiki/wiki/Crusader%27s_Mantle
+Effect: allies' weapon attacks deal +1d4 Radiant. Range: Self. Area: 9m
+(30ft) radius. Cost: 1 Action + 1 L3 slot. Duration: 10 turns
+(Concentration). No upcast benefit. Verbal component.
+
+### Daylight — https://bg3.wiki/wiki/Daylight
+Effect: sphere of sunlight or enchanted weapon, dispels Darkness within
+15m (50ft) radius. Range: 18m (60ft). Cost: 1 Action + 1 L3 slot.
+Duration: until Long Rest. No upcast benefit. Somatic + verbal.
+
+### Elemental Weapon — https://bg3.wiki/wiki/Elemental_Weapon
+Effect: weapon gets +1 attack roll bonus + 1d4 damage of chosen
+element. Range: 18m (60ft). Cost: 1 Action + 1 L3 slot. Concentration
+required. Upcast: at L5-6, +1 attack bonus and +1d4 more damage. Somatic
++ verbal. No bonus if weapon is thrown.
+
+### Fear — https://bg3.wiki/wiki/Fear
+Effect: Fearful — drop weapons, disadvantage on ability checks/attack
+rolls, must flee caster, can't take extra actions. Range: Self. Area:
+9m (30ft) cone. Save: Wisdom, repeatable if target ends turn unable to
+see caster. Cost: 1 Action + 1 L3 slot. Duration: 2 turns
+(Concentration). No upcast benefit. Somatic + verbal.
+
+### Feign Death — https://bg3.wiki/wiki/Feign_Death
+Effect: resistant to all damage except Psychic; immune to disease/
+poison; ends if target receives healing. Range: melee, 1.5m (5ft).
+Cost: 1 Action + 1 L3 slot. Duration: 10 turns. No upcast benefit.
+Somatic + verbal.
+
+### Fireball — https://bg3.wiki/wiki/Fireball
+Damage: 8d6 Fire. Range: 18m (60ft). Area: 4m (13ft) radius. Save:
+Dexterity — half damage on success. Cost: 1 Action + 1 L3 slot. Upcast:
++1d6 per slot level above 3rd. Somatic + verbal.
+
+### Gaseous Form — https://bg3.wiki/wiki/Gaseous_Form
+Effect: transforms into a Tiny gas cloud — resistance to non-magical
+damage, advantage on Con/Dex/Str saves, Str/Dex become 10, can't
+attack/cast/speak, can fly, ethereal (can't be shoved/thrown/wielded as
+weapon), fits through small openings, can't fall. Range: melee, 1.5m
+(5ft). Cost: 1 Action + 1 L3 slot. Duration: until Long Rest
+(Concentration). No upcast benefit. Somatic + verbal.
+
+### Glyph of Warding — https://bg3.wiki/wiki/Glyph_of_Warding
+Effect: inscribed glyph, triggers on enemy step (not allies); only one
+active per caster. Variants: Acid/Cold/Fire/Lightning/Thunder (damage,
+Dex save halves) or Sleep/Detonation (non-damage, Dex save negates).
+Range: 9m (30ft). Area: 4m (13ft) radius. Cost: 1 Action + 1 L3 slot.
+Duration: until triggered or Long Rest. Somatic + verbal. Learnable by
+Bards/Clerics/Wizards at class level 5.
+
+### Grant Flight — https://bg3.wiki/wiki/Grant_Flight
+Effect: grants pseudo-flight, up to 18m (60ft) movement/turn (must land
+at end of each turn's movement). Range: melee, 1.5m (5ft). Cost: 1
+Action + 1 L3 slot. Duration: 10 turns (Concentration). Upcast: +1
+target per slot level above 3rd. Somatic + verbal.
+
+### Haste — https://bg3.wiki/wiki/Haste
+Effect: +2 AC, advantage on Dex saves, +9m (30ft) speed, +1 extra
+action/turn. Drawback: Lethargic 1 turn when it ends (can't move/act/
+bonus action/reaction). Range: 9m (30ft). Cost: 1 Action + 1 L3 slot.
+Duration: 10 turns (Concentration). No upcast benefit. Verbal +
+somatic.
+
+### Hunger of Hadar — https://bg3.wiki/wiki/Hunger_of_Hadar
+Damage: 2d6 Cold (turn start, no save) + 2d6 Acid (turn end, Dex save
+halves). Range: 18m (60ft). Area: 6m (20ft) radius sphere. Cost: 1
+Action + 1 L3 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Somatic + verbal. Also Blinds + difficult terrain within.
+
+### Hypnotic Pattern — https://bg3.wiki/wiki/Hypnotic_Pattern
+Effect: hypnotized creatures that see the pattern can't attack/move/
+act. Range: 18m (60ft). Area: 9m (30ft) radius. Save: Wisdom. Cost: 1
+Action + 1 L3 slot. Duration: 2 turns (Concentration), ends on damage/
+shove/Help. No upcast benefit. Somatic component; castable while
+silenced. Undead (except zombies)/constructs/doppelgangers immune.
+
+### Lightning Arrow — https://bg3.wiki/wiki/Lightning_Arrow
+Damage: 4d8 Lightning primary (ranged spell attack roll) + 2d8
+Lightning burst (Dex save halves, applies even on miss). Range: 18m
+(60ft). Area: 3m (10ft) radius burst. Cost: 1 Action + 1 L3 slot.
+Upcast: +1d8 to both primary and burst per slot level above 3rd.
+Somatic + verbal.
+
+### Lightning Bolt — https://bg3.wiki/wiki/Lightning_Bolt
+Damage: 8d6 Lightning. Area: 30m (100ft) line. Save: Dexterity — half
+damage on success. Cost: 1 Action + 1 L3 slot. Upcast: +1d6 per slot
+level above 3rd. Somatic + verbal.
+
+### Mass Healing Word — https://bg3.wiki/wiki/Mass_Healing_Word
+Healing: 1d4 + spellcasting modifier per target. Range: Self, 18m
+(60ft) radius AoE. Cost: Bonus Action + 1 L3 slot. Upcast: +1d4 per
+slot level above 3rd. Verbal component. No effect on undead/
+constructs.
+
+### Plant Growth — https://bg3.wiki/wiki/Plant_Growth
+Effect: movement speed quartered while moving through weeds (no
+save); fire can burn away the surface. Range: 18m (60ft). Area: 6m
+(20ft) radius. Cost: 1 Action + 1 L3 slot. Duration: 10 turns (while
+surface persists). No upcast benefit. Somatic + verbal.
+
+### Protection from Energy — https://bg3.wiki/wiki/Protection_from_Energy
+Effect: resistance to one chosen damage type (Acid/Cold/Fire/Lightning/
+Thunder). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L3 slot.
+Concentration required. No upcast benefit. Somatic + verbal.
+
+### Remove Curse — https://bg3.wiki/wiki/Remove_Curse
+Effect: removes all Curses/Hexes from creature or object. Range:
+melee, 1.5m (5ft). Cost: 1 Action + 1 L3 slot. No upcast benefit.
+Somatic + verbal.
+
+### Revivify — https://bg3.wiki/wiki/Revivify
+Effect: revives a dead/downed companion (without BLOCK_RESURRECTION
+tag) at 1 HP; target can be repositioned within the AoE. Range: 9m
+(30ft), 9m (30ft) radius. Cost: 1 Action + 1 L3 slot. No upcast
+benefit. Somatic + verbal.
+
+### Sleet Storm — https://bg3.wiki/wiki/Sleet_Storm
+Effect: extinguishes fire, creates ice (difficult terrain, half speed;
+Dex save or fall Prone), forces Constitution save to maintain
+concentration on other spells. Range: 18m (60ft). Area: 9m (30ft)
+radius. Cost: 1 Action + 1 L3 slot. Duration: 10 turns (Concentration).
+No upcast benefit. Somatic + verbal. Ice melts from fire damage,
+reforms if concentration holds.
+
+### Slow — https://bg3.wiki/wiki/Slow
+Effect: up to 6 targets — half movement speed, -2 AC, -2 Dex saves, no
+reactions, only action OR bonus action per turn (not both), max 1
+attack/turn. Range: 18m (60ft). Save: Wisdom, repeatable each turn end.
+Cost: 1 Action + 1 L3 slot. Duration: 10 turns (Concentration). No
+upcast benefit (bug: L4 upcast allows re-selecting the same target).
+Somatic + verbal.
+
+### Speak with Dead — https://bg3.wiki/wiki/Speak_with_Dead
+Effect: corpse answers ~5 questions (not skeletons, not creatures
+killed by acid/fire/lightning/necrotic/radiant, not undead). Range: 9m
+(30ft). Cost: 1 Action + 1 L3 slot. Ritual castable. No upcast benefit.
+Verbal + somatic. Free "Recast Speak with Dead" granted after first
+cast, usable until Long Rest.
+
+### Spirit Guardians — https://bg3.wiki/wiki/Spirit_Guardians
+Damage: 3d8 Radiant or Necrotic (caster's choice)/turn. Range: Self.
+Area: 3m (10ft) radius. Save: Wisdom — half damage on success. Cost: 1
+Action + 1 L3 slot. Concentration required (ends if Sanctuary applied
+to caster). Upcast: +1d8 per slot level above 3rd. Somatic + verbal.
+Halves affected enemies' movement speed; caster can't turn Invisible
+while concentrating.
+
+### Stinking Cloud — https://bg3.wiki/wiki/Stinking_Cloud
+Effect: Nauseous (can't take actions) unless Constitution save passes
+each turn. Range: 18m (60ft). Area: 6m (20ft) radius. Cost: 1 Action +
+1 L3 slot. Duration: 10 turns (Concentration). No upcast benefit.
+Somatic + verbal.
+
+### Vampiric Touch — https://bg3.wiki/wiki/Vampiric_Touch
+Damage: 3d6 Necrotic (melee spell attack roll); caster heals half
+damage dealt. Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L3 slot.
+Concentration required, condition lasts 10 turns with free recast
+(no extra slot) while concentration holds. Upcast: +1d6 per slot level
+above 3rd. Somatic + verbal.
+
+### Warden of Vitality — https://bg3.wiki/wiki/Warden_of_Vitality
+Effect: grants "Restore Vitality" as a Bonus Action while aura lasts —
+heals self/nearby allies 2d6 HP. Range: Self. Cost: 1 Action + 1 L3
+slot. Duration: 10 turns. No upcast benefit. Verbal component.
+
+## LEVEL 4
+
+### Banishment — https://bg3.wiki/wiki/Banishment
+Effect: banishes target to another plane — can't be targeted/move/act/
+bonus action/reaction. Range: 18m (60ft). Save: Charisma. Cost: 1
+Action + 1 L4 slot. Duration: 2 turns (Concentration). Upcast: +1
+target per slot level above 4th. Somatic + verbal.
+
+### Blight — https://bg3.wiki/wiki/Blight
+Damage: 8d8 Necrotic (max damage + disadvantage on save for plants; no
+effect on undead/constructs). Range: 9m (30ft). Save: Constitution —
+half damage on success. Cost: 1 Action + 1 L4 slot. Upcast: +1d8 per
+slot level above 4th. Somatic + verbal.
+
+### Confusion — https://bg3.wiki/wiki/Confusion
+Effect: affected creature is hostile to everyone, wanders aimlessly,
+sometimes skips turns (allies in area unaffected). Range: 18m (60ft).
+Area: 6m (20ft) radius. Save: Wisdom. Cost: 1 Action + 1 L4 slot.
+Duration: 3 turns (Concentration). Upcast: area +2m (7ft) per slot
+level above 4th. Somatic + verbal.
+
+### Conjure Minor Elemental — https://bg3.wiki/wiki/Conjure_Minor_Elemental
+Effect: summons 2 Mud Mephits, 2 Ice Mephits, or 1 Azer (choice).
+Range: 18m (60ft). Cost: 1 Action + 1 L4 slot. No upcast benefit.
+Verbal + somatic. Only one active per caster (recast despawns old
+one, triggers its Death Burst); independent from Conjure Elemental.
+
+### Conjure Woodland Being — https://bg3.wiki/wiki/Conjure_Woodland_Being
+Effect: summons a Dryad (Nature's Step, Entangle, can summon a Wood
+Woad). Range: 18m (60ft). Cost: 1 Action + 1 L4 slot. Duration: until
+Long Rest. No upcast benefit. Somatic + verbal. Only one active
+instance; recast despawns the previous Dryad.
+
+### Death Ward — https://bg3.wiki/wiki/Death_Ward
+Effect: next lethal hit instead leaves target conscious at 1 HP (one
+use per casting). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L4
+slot. Duration: until Long Rest. No upcast benefit. Somatic + verbal.
+
+### Dimension Door — https://bg3.wiki/wiki/Dimension_Door
+Effect: teleports caster + up to 1 adjacent (within 2m) Medium-or-
+smaller ally to a visible location; can self-target alone. Range: 50m
+(167ft). Cost: 1 Action + 1 L4 slot. No upcast benefit. Verbal
+component. Can't affect immobile/forced-movement-immune allies.
+
+### Dominate Beast — https://bg3.wiki/wiki/Dominate_Beast
+Effect: dominated beast fights alongside caster; re-saves (Wisdom)
+each time it takes damage. Range: 18m (60ft). Cost: 1 Action + 1 L4
+slot. Duration: 10 turns (Concentration). No upcast benefit. Somatic +
+verbal.
+
+### Evard's Black Tentacles — https://bg3.wiki/wiki/Evard%27s_Black_Tentacles
+Damage: 3d6 Bludgeoning/turn on failed save. Range: 18m (60ft). Area:
+6m (20ft) radius, difficult terrain (half speed). Save: Strength
+negates initial restraint. Cost: 1 Action + 1 L4 slot. Duration: 10
+turns (Concentration). No upcast benefit. Somatic + verbal. Restrained
+targets: attackers get advantage, target's attacks/Dex saves get
+disadvantage.
+
+### Fire Shield — https://bg3.wiki/wiki/Fire_Shield
+Effect: two variants (Warm = Fire resistance + retaliation, Chill =
+Cold resistance + retaliation; only one active at a time); caster
+retaliates against melee attackers. Range: Self. Cost: 1 Action + 1
+L4 slot. No upcast benefit. Somatic + verbal.
+
+### Freedom of Movement — https://bg3.wiki/wiki/Freedom_of_Movement
+Effect: cures Stun; immune to difficult terrain slowdown, magical
+Paralysis, and magical Restrained (non-magical restraint escapable for
+1.5m movement, though reportedly non-functional in-game). Range:
+melee, 1.5m (5ft). Cost: 1 Action + 1 L4 slot. Duration: until Long
+Rest. No upcast benefit. Somatic + verbal.
+
+### Grasping Vine — https://bg3.wiki/wiki/Grasping_Vine
+Effect: summons a stationary Grasping Vine creature (AC 13, HP 20,
+10-turn duration) creating 3m (10ft) radius Twisting Vines difficult
+terrain; its action pulls a target 9m (30ft) toward it. Save: Strength
+avoids Entangled (can't move 1 turn, attackers get advantage, target's
+attacks/Dex saves get disadvantage). Range: 9m (30ft). Cost: Bonus
+Action + 1 L4 slot. No upcast benefit. Verbal + somatic.
+
+### Greater Invisibility — https://bg3.wiki/wiki/Greater_Invisibility
+Effect: Invisible — attacks against target have disadvantage, target's
+attacks have advantage; breaks on failed Stealth check when attacking/
+casting/interacting (DC starts 15, rises with each success — linear
+outside Honour Mode, quadratic in Honour Mode; actions flagged
+Invisible bypass the check). Range: melee, 1.5m (5ft). Cost: 1 Action
++ 1 L4 slot. Duration: 10 turns (Concentration). No upcast benefit.
+Somatic + verbal.
+
+### Guardian of Faith — https://bg3.wiki/wiki/Guardian_of_Faith
+Effect: summons a stationary guardian (60 HP, AC 20, all stats 10) that
+damages enemies via Strike of the Guardian, losing HP equal to damage
+dealt each time. Range: 9m (30ft). Cost: 1 Action + 1 L4 slot.
+Duration: 10 turns. No upcast benefit. Verbal component.
+
+### Ice Storm — https://bg3.wiki/wiki/Ice_Storm
+Damage: 2d8 Bludgeoning + 4d6 Cold. Range: 18m (60ft). Area: 6m (20ft)
+radius. Save: Dexterity — half damage on success. Cost: 1 Action + 1
+L4 slot. Upcast: +1d8 Bludgeoning per slot level above 4th. Somatic +
+verbal. Creates a 2-turn ice surface (difficult terrain, Dex save or
+Prone).
+
+### Otiluke's Resilient Sphere — https://bg3.wiki/wiki/Otiluke%27s_Resilient_Sphere
+Effect: encases target in a force sphere — half movement speed, blocks
+all incoming/outgoing attacks and spells (target can't be Huge). Range:
+9m (30ft). Save: Dexterity (auto-success on allies). Cost: 1 Action +
+1 L4 slot. Duration: 3 turns (Concentration). No upcast benefit.
+Somatic + verbal.
+
+### Phantasmal Killer — https://bg3.wiki/wiki/Phantasmal_Killer
+Damage: 4d10 Psychic/turn. Range: 18m (60ft). Save: Wisdom. Cost: 1
+Action + 1 L4 slot. Duration: 10 turns (Concentration). Upcast: +1d10
+per slot level above 4th. Somatic + verbal. Target can't move, has
+disadvantage on ability checks/attack rolls.
+
+### Polymorph — https://bg3.wiki/wiki/Polymorph
+Effect: transforms target into a harmless sheep (AC 10, HP 3, Str 12/
+Dex 10/Con 11); reduced to 0 HP reverts target to original form with
+original HP restored. Range: 18m (60ft). Save: Wisdom. Cost: 1 Action
++ 1 L4 slot. Duration: 5 turns (Concentration). No upcast benefit.
+Somatic + verbal.
+
+### Staggering Smite — https://bg3.wiki/wiki/Staggering_Smite
+Damage: on melee weapon hit, weapon damage + 4d6 Psychic. Save: Wisdom
+— success = full damage, no Staggered; fail = Staggered 1 turn
+(disadvantage on attacks/ability checks, no reactions). Cost: 1 Action
+to cast + 1 Bonus Action + 1 L4 slot on hit. Concentration required.
+No upcast benefit. Verbal component. Hexblade Warlocks only (class
+level 7).
+
+### Stoneskin — https://bg3.wiki/wiki/Stoneskin
+Effect: resistance to non-magical Bludgeoning/Piercing/Slashing
+(half damage). Range: melee, 1.5m (5ft). Cost: 1 Action + 1 L4 slot.
+Duration: until Long Rest (Concentration). No upcast benefit. Somatic
++ verbal.
+
+### Wall of Fire — https://bg3.wiki/wiki/Wall_of_Fire
+Damage: 5d8 Fire; damages creatures within 3m (10ft) entering/ending
+turn there; failed save can inflict Burning (1d4 Fire/turn until
+removed). Range: 18m (60ft). Area: 36m (120ft) line, 3m (10ft) wide.
+Save: Dexterity — half damage on success. Cost: 1 Action + 1 L4 slot.
+Duration: 10 turns (Concentration). Upcast: +1d8 per slot level above
+4th. Somatic + verbal.
+
+## LEVEL 5
+
+### Banishing Smite — https://bg3.wiki/wiki/Banishing_Smite
+Damage: on weapon hit, weapon damage + 5d10 Force. Secondary: if
+target's HP is now 1-49, Banished 2 turns (no targeting/actions while
+banished; targets ≥50 HP can't be banished). No save. Cost: 1 Action
+to cast + 1 Bonus Action + 1 L5 slot on hit. Concentration required.
+No upcast benefit.
+
+### Cloudkill — https://bg3.wiki/wiki/Cloudkill
+Damage: 5d8 Poison/turn. Range: 18m (60ft). Area: 6m (20ft) radius,
+Heavily Obscures. Save: Constitution — half damage on success. Cost:
+1 Action + 1 L5 slot. Duration: 10 turns (Concentration). Upcast:
++1d8 per slot level above 5th. Somatic + verbal. Movable each turn.
+
+### Cone of Cold — https://bg3.wiki/wiki/Cone_of_Cold
+Damage: 8d8 Cold. Range: Self. Area: 9m (30ft) cone. Save:
+Constitution — half damage on success. Cost: 1 Action + 1 L5 slot.
+Upcast: +1d8 per slot level above 5th. Somatic + verbal. Converts
+water surfaces to ice (difficult terrain, Dex save or Prone).
+
+### Conjure Elemental — https://bg3.wiki/wiki/Conjure_Elemental
+Effect: summons one Fire/Earth/Water/Air Elemental (character level 6+
+can instead summon the stronger Myrmidon variant). Range: 18m (60ft).
+Cost: 1 Action + 1 L5 slot. Somatic + verbal. Only one active summon
+per caster from this spell; independent of Conjure Minor Elemental
+(both can be active together).
+
+### Contagion — https://bg3.wiki/wiki/Contagion
+Effect: infects with chosen disease (Filth Fever/Flesh Rot/Slimy Doom/
+Seizure/Mindfire/Blinding Sickness) — 3 Constitution save successes =
+recovery, 3 failures = disease contracted (persists until cured).
+Range: melee, 1.5m (5ft). Melee spell attack roll required. Cost: 1
+Action + 1 L5 slot. No upcast benefit. Somatic + verbal.
+
+### Curriculum of Strategy: Artistry of War — https://bg3.wiki/wiki/Curriculum_of_Strategy:_Artistry_of_War
+Damage: 6 apparitions × (2d6+6) Force = 12d6+36 total. Range: 18m
+(60ft). Cost: 1 Action + 1 L5 slot. Instantaneous. Verbal + somatic.
+Ignores line of sight, unblocked by Shield; recharges 1/Short Rest,
+not upcastable; Wizards only (via scroll transcription).
+
+### Destructive Wave — https://bg3.wiki/wiki/Destructive_Wave
+Damage: 5d6 Thunder + 5d6 Radiant (variants swap in Necrotic). Range:
+9m (30ft), centered on caster, enemies only. Save: Constitution — half
+damage on success; fail also = Prone 1 turn. Cost: 1 Action + 1 L5
+slot. No upcast benefit. Verbal component.
+
+### Dethrone — https://bg3.wiki/wiki/Dethrone
+Damage: 10d6+20 Necrotic. Range: 30m (100ft) — longest range in the
+game. Save: Constitution, fixed DC 18 (doesn't scale with caster's
+actual DC) — half damage on success. Cost: 1 Action + 1 L5 slot.
+Recharges 1/Long Rest. Somatic + verbal. Wizards only (via scroll
+transcription).
+
+### Dispel Evil And Good — https://bg3.wiki/wiki/Dispel_Evil_And_Good
+Effect: Aberrations/Celestials/Elementals/Fey/Fiends/Undead have
+disadvantage attacking caster (bugged: doesn't work vs. Aberrations);
+can break Charm/Frighten/Possession on allies. Range: Self. Cost: 1
+Action + 1 L5 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Somatic + verbal.
+
+### Dominate Person — https://bg3.wiki/wiki/Dominate_Person
+Effect: dominates a humanoid to fight alongside caster (allies
+unaffected); re-saves (Wisdom) each time it takes damage. Range: 18m
+(60ft). Cost: 1 Action + 1 L5 slot. Duration: 10 turns (Concentration).
+No upcast benefit. Somatic + verbal.
+
+### Flame Strike — https://bg3.wiki/wiki/Flame_Strike
+Damage: 5d6 Fire + 5d6 Radiant (two separate instances — forces two
+separate concentration saves if target is concentrating). Range: 18m
+(60ft). Area: 3m (10ft) radius. Save: Dexterity — half damage on
+success. Cost: 1 Action + 1 L5 slot. Upcast: +1d6 Fire + 1d6 Radiant
+per slot level above 5th. Verbal + somatic.
+
+### Greater Restoration — https://bg3.wiki/wiki/Greater_Restoration
+Effect: negates Charm, Petrification, Stun, or Curse. Range: melee,
+1.5m (5ft). Cost: 1 Action + 1 L5 slot. No upcast benefit. Somatic +
+verbal.
+
+### Hold Monster — https://bg3.wiki/wiki/Hold_Monster
+Effect: Paralyzed — can't move/act/react, melee hits within 3m
+auto-crit (no effect on undead). Range: 18m (60ft). Save: Wisdom,
+repeatable each turn end. Cost: 1 Action + 1 L5 slot. Duration: 10
+turns (Concentration). Upcast: +1 target per slot level above 5th.
+Somatic + verbal.
+
+### Insect Plague — https://bg3.wiki/wiki/Insect_Plague
+Damage: 4d10 Piercing. Range: 18m (60ft). Area: 6m (20ft) radius,
+difficult terrain + Perception disadvantage within. Save: Constitution
+— half damage on success. Cost: 1 Action + 1 L5 slot. Duration: 10
+turns (Concentration). Upcast: +1d10 per slot level above 5th.
+Somatic + verbal.
+
+### Mass Cure Wounds — https://bg3.wiki/wiki/Mass_Cure_Wounds
+Healing: 3d8 + spellcasting modifier, up to 6 allies. Range: 18m
+(60ft). Cost: 1 Action + 1 L5 slot. Upcast: +1d8 per slot level above
+5th. Somatic + verbal. No effect on undead/constructs.
+
+### Planar Binding — https://bg3.wiki/wiki/Planar_Binding
+Effect: binds a Celestial/Elemental/Fey/Fiend to fight as an ally;
+re-saves (Wisdom) each time it takes damage. Range: 18m (60ft). Cost:
+1 Action + 1 L5 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Somatic + verbal.
+
+### Seeming — https://bg3.wiki/wiki/Seeming
+Effect: disguises up to 4 party members (initial disguise random; each
+can reroll once via Action; targets party members only, not items).
+Range: 18m (60ft). Cost: 1 Action + 1 L5 slot. Duration: until Long
+Rest or Dispel Disguise. No upcast benefit. Verbal + somatic.
+
+### Telekinesis — https://bg3.wiki/wiki/Telekinesis
+Effect: throws a creature or object up to 18m (60ft), heavier objects
+deal more damage; grants free recast/turn (no slot cost) if initial
+cast succeeded (targeting an object first guarantees the recast
+condition; targeting a creature that saves successfully denies it).
+Range: 18m (60ft). Save: Strength. Cost: 1 Action + 1 L5 slot.
+Duration: 10 turns (Concentration). No upcast benefit. Somatic +
+verbal.
+
+### Wall of Stone — https://bg3.wiki/wiki/Wall_of_Stone
+Effect: stone pillar wall, 30 HP/pillar, blocks movement/line of
+sight; immune to Psychic, vulnerable to Force/Thunder. Range: 18m
+(60ft). Cost: 1 Action + 1 L5 slot. Concentration required. No upcast
+benefit. Somatic + verbal. Placeable between any two points in range
+with a clear path.
+
+## LEVEL 6
+
+### Arcane Gate — https://bg3.wiki/wiki/Arcane_Gate
+Effect: two linked teleport portals; any creature can travel between
+them as a free action, unlimited uses/round; pathfinding auto-routes
+through them if shorter. Range: 18m (60ft). Cost: 1 Action + 1 L6 slot.
+Duration: 10 turns (Concentration). No upcast benefit. Verbal +
+somatic.
+
+### Blade Barrier — https://bg3.wiki/wiki/Blade_Barrier
+Damage: 6d10 Slashing, triggers on entering/starting turn in the area.
+Range: 18m (60ft). Area: 36m (120ft) line, difficult terrain. Save:
+Dexterity. Cost: 1 Action + 1 L6 slot. Duration: 60 turns
+(Concentration). No upcast benefit. Somatic + verbal.
+
+### Chain Lightning — https://bg3.wiki/wiki/Chain_Lightning
+Damage: 10d8 Lightning to primary target + jumps to up to 3 more
+enemies within range of primary. Range: 18m (60ft). Save: Dexterity —
+half damage on success. Cost: 1 Action + 1 L6 slot. No upcast benefit.
+High-ground range extension. Cannot be Twinned (except via the
+Markoheshkir item). Somatic + verbal.
+
+### Circle of Death — https://bg3.wiki/wiki/Circle_of_Death
+Damage: 8d6 Necrotic. Range: 18m (60ft). Area: 9m (30ft) radius,
+centered on a creature (must target a creature, not ground). Save:
+Constitution — half damage on success. Cost: 1 Action + 1 L6 slot. No
+upcast benefit. Somatic + verbal.
+
+### Create Undead — https://bg3.wiki/wiki/Create_Undead
+Effect: animates a Medium/Small corpse into a mummy ally (93 HP, AC 18;
+Dreadful Glare/Multiattack [2d6 Bludgeoning + 3d6 Necrotic vs.
+Frightened targets]/Rotting Fist [may inflict Mummy Rot]). Range: 3m
+(10ft). Cost: 1 Action + 1 L6 slot. Duration: until Long Rest. No
+upcast benefit. Somatic + verbal.
+
+### Disintegrate — https://bg3.wiki/wiki/Disintegrate
+Damage: 10d6+40 Force (negated entirely on successful save). Range: 9m
+(30ft). Save: Dexterity. Cost: 1 Action + 1 L6 slot. No upcast benefit.
+Somatic + verbal.
+
+### Eyebite — https://bg3.wiki/wiki/Eyebite
+Effect (choose one on cast): Panicked, Sickened, or Asleep on a single
+target. Range: 18m (60ft). Save: Wisdom. Cost: 1 Action + 1 L6 slot.
+Concentration required; free recasts (any variant) while concentrating.
+No upcast benefit. Somatic + verbal.
+
+### Flesh to Stone — https://bg3.wiki/wiki/Flesh_to_Stone
+Effect: 4-stage Restrained progression over 3 turns (Constitution save
+each turn to avoid advancing); 4th failure = permanent Petrified
+(cured only by outside intervention). Restrained stages: can't move,
+attackers get advantage, target's attacks/Dex saves get disadvantage.
+Range: 18m (60ft). Cost: 1 Action + 1 L6 slot. Concentration required.
+No upcast benefit. Somatic + verbal.
+
+### Globe of Invulnerability — https://bg3.wiki/wiki/Globe_of_Invulnerability
+Effect: creatures/objects inside are immune to all damage + advantage
+on all saves. Range: 3m (10ft). Area: 3m (10ft) radius sphere. Cost: 1
+Action + 1 L6 slot. Duration: 3 turns (Concentration). No upcast
+benefit. Somatic + verbal.
+
+### Harm — https://bg3.wiki/wiki/Harm
+Damage: 14d6 Necrotic. Range: 18m (60ft). Save: Constitution — success
+= half damage, max HP unaffected; fail = max HP reduced by the damage
+rolled (min 1) until Long Rest. Cost: 1 Action + 1 L6 slot. No upcast
+benefit. Somatic + verbal.
+
+### Heal — https://bg3.wiki/wiki/Heal
+Healing: 70 HP flat; also cures Blindness and diseases. Range: 18m
+(60ft). Cost: 1 Action + 1 L6 slot. No upcast benefit. Verbal +
+somatic. No effect on undead/constructs. Learned at class level 11
+(Cleric/Druid).
+
+### Heroes' Feast — https://bg3.wiki/wiki/Heroes%27_Feast
+Effect: Thoroughly Stuffed — immune to Poisoned/Diseased/Frightened
+(and Cloudkill's poison), +12 max HP, advantage on Wisdom saves;
+creates a 10-turn supply container (46-58 Camp Supplies + 1 Water).
+Range: Self, 18m (60ft) radius (affects allies/familiars/summons in
+range + line of sight). Cost: 1 Action + 1 L6 slot. Duration: until
+Long Rest. No upcast benefit. Somatic + verbal. Cleric/Druid class
+level 11.
+
+### Otiluke's Freezing Sphere — https://bg3.wiki/wiki/Otiluke%27s_Freezing_Sphere
+Damage: 10d6 Cold. Range: melee, 1.5m (5ft) (also has a throwable
+Launch variant). Save: Constitution. Cost: 1 Action + 1 L6 slot. No
+upcast benefit.
+
+### Otto's Irresistible Dance — https://bg3.wiki/wiki/Otto%27s_Irresistible_Dance
+Effect: forced to dance — can't act/move, attackers get advantage,
+target's attacks/Dex saves get disadvantage (no save on initial cast;
+target saves — Wisdom — each subsequent turn). Range: 9m (30ft). Cost:
+1 Action + 1 L6 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Verbal component.
+
+### Planar Ally — https://bg3.wiki/wiki/Planar_Ally
+Effect: summons Djinni (Elemental), Deva (Celestial), or Cambion
+(Fiend) ally. Range: 18m (60ft). Cost: 1 Action + 1 L6 slot. No upcast
+benefit. Somatic + verbal. Can't target characters/items.
+
+### Sights of the Seelie: Summon Deva — https://bg3.wiki/wiki/Sights_of_the_Seelie:_Summon_Deva
+Effect: summons a controlled Deva (136 HP, AC 21; casts Wrathful Smite/
+Revivify/Concussive Smash; has Fly and Help). Range: 18m (60ft). Cost:
+1 Action + 1 L6 slot. Duration: until Long Rest. No upcast benefit.
+Somatic + verbal. Functionally identical to Planar Ally: Deva, doesn't
+stack with it.
+
+### Sunbeam — https://bg3.wiki/wiki/Sunbeam
+Damage: 6d8 Radiant. Area: 18m (60ft) line, 2.4m (8ft) wide. Save:
+Constitution — half damage on success. Secondary: Blinded 10 turns on
+fail (disadvantage on attacks, 3m/10ft range cap, attackers get
+advantage). Cost: 1 Action + 1 L6 slot. Concentration required, 10
+turns; free recast while concentrating. Somatic + verbal.
+
+### Wall of Ice — https://bg3.wiki/wiki/Wall_of_Ice
+Damage: 10d6 Cold on creation (Dex save, DC 15, halves) + 10d6 Cold/
+turn to creatures within the resulting ice cloud (Constitution save,
+DC 16, halves). Range: 18m (60ft). Area: 9m (30ft) line. Cost: 1
+Action + 1 L6 slot. Duration: 10 turns (Concentration). No upcast
+benefit. Somatic + verbal.
+
+### Wall of Thorns — https://bg3.wiki/wiki/Wall_of_Thorns
+Damage: 7d8 Piercing/turn. Range: 18m (60ft). Area: up to 36m (120ft)
+line, 4m (13ft) wide. Save: Dexterity — half damage on success. Cost:
+1 Action + 1 L6 slot. Duration: 60 turns (Concentration; in-game
+tooltip incorrectly shows 1 turn). No upcast benefit. Somatic + verbal.
+Quarters movement speed within, applies Entangled.
+
+### Wind Walk — https://bg3.wiki/wiki/Wind_Walk
+Effect: transforms caster + nearby party into Tiny mist clouds —
+resistance to non-magical damage, advantage on Con/Dex/Str saves,
+Str/Dex set to 10, can fly, immune to Bleeding, incorporeal (can't be
+shoved/thrown/wielded), can't attack/cast/speak. Range: 9m (30ft).
+Cost: 1 Action + 1 L6 slot. Duration: until Long Rest. No upcast
+benefit. Somatic + verbal.
+
+## LEVEL 9 / SPECIAL
+
+### Bhaal's Power Word Kill Ritual — https://bg3.wiki/wiki/Bhaal%27s_Power_Word_Kill_Ritual
+Effect: multi-turn ritual culminating in Power Word Kill on target;
+target dies instantly if <101 HP on completion; leaving 55m (183ft)
+range makes enemies invulnerable to it. Cost: 1 Action to begin.
+Somatic + verbal. Duration (by difficulty): Explorer 7 rounds,
+Balanced 6 rounds, Tactician+ 5 rounds. Not concentration, but
+disrupted by silence/stun/prone/incapacitated/unconscious/frightened/
+fleeing/petrified status groups; caster can't act during it.
+
+### Power Word Kill — https://bg3.wiki/wiki/Power_Word_Kill
+Effect: instantly kills an enemy with ≤100 HP; can hit 2 targets via
+Twinned Spell/Split Enchantment. Range: 18m (60ft). Cost: 1 Action.
+Restricted to 1 use per campaign normally (metamagic can bypass by
+targeting self + another simultaneously).
+
+### Karsus' Compulsion — https://bg3.wiki/wiki/Karsus%27_Compulsion
+Effect: channel until next turn to bind the Netherbrain's will
+(Chains of Karsus condition), preventing full domination and enabling
+a strike against it; ends if caster is Incapacitated/Stunned/
+Polymorphed/Knocked Out. Range: 6m (20ft). Cost: 1 Action. Duration:
+until Long Rest. No upcast benefit. Requires holding the Triune
+Netherstone; Full-Illithics only. One of only 4 level-9 spells in the
+game.
+
+### Formsculpt: Tressym — https://bg3.wiki/wiki/Formsculpt:_Tressym
+Effect: transforms target into a Tressym beast; reverts to original
+form/HP at 0 HP. Range: 18m (60ft). Cost: Bonus Action. Duration: 5
+turns. No upcast benefit. Gale-exclusive (certain Epilogue outcomes).
+
+### Power Word: Ruin — https://bg3.wiki/wiki/Power_Word:_Ruin
+Damage: 30d6+120 Force, 3 beams. Range: 9m (30ft). Cost: 1 Action. No
+upcast benefit. Gale-exclusive, no scroll transcription available.
+
+### Divine Revelry — https://bg3.wiki/wiki/Divine_Revelry
+Effect: Galerian Revelry condition, 1 turn — can't move/act, attackers
+get advantage, target's attacks/Dex saves get disadvantage. Range: 12m
+(40ft). Area: 3m (10ft) radius. Cost: 1 Action. No upcast benefit.
+Gale-exclusive (certain Epilogue outcomes), no scroll transcription.
+
+## SPECIAL NPC-ONLY SPELLS
+
+### Elemental Retort — https://bg3.wiki/wiki/Elemental_Retort
+Damage: 3d8 per living Siphoned Myrmidon (Air=Lightning, Earth=Poison,
+Fire=Fire, Water=Cold), up to 4d8×3d8 = 12d8 total across all 4. Range:
+18m (60ft). Save: Dexterity — half damage on success. Cost: 1 Reaction
+(up to 5×/round, one per living myrmidon). Verbal + somatic. Caster
+(Lorroakan) has Elemental Adept, penetrates resistances.
+
+### Finger of Death — https://bg3.wiki/wiki/Finger_of_Death
+Damage: 7d8+30 Necrotic. Range: 30m (100ft). Save: Constitution — half
+damage on success. Cost: 1 Action.
+
+### Hellfire Orb — https://bg3.wiki/wiki/Hellfire_Orb
+Damage: 20d6 Fire (ignores fire resistance/immunity). Range: 18m
+(60ft). Area: 4m (13ft) radius. Save: Dexterity, fixed DC 18 — half
+damage on success. Cost: 1 Action. Verbal + somatic. Recharges 1/
+combat encounter.
+
+### Incinerate — https://bg3.wiki/wiki/Incinerate
+Damage: 8d8 Fire. Range: 3m (10ft) radius AoE. Save: Dexterity, DC 15
+— half damage on success. Cost: 1 Action + 2 Soul Charges. Somatic +
+verbal. Creates a 2-turn fire surface (1d4/turn); inflicts Burning
+(1 turn, 1d4/turn).
+
+### Keeper's Fee — https://bg3.wiki/wiki/Keeper%27s_Fee
+Effect: disarms target (weapon looted from corpse post-combat). Range:
+18m (60ft). Save: Dexterity, DC 15. Cost: Bonus Action. Concentration
+required. No upcast benefit. Somatic + verbal.
+
+### Lunar Smite — https://bg3.wiki/wiki/Lunar_Smite
+Damage: on melee weapon hit, weapon damage + 1d6 Radiant, then Holy
+Fire condition 2 turns (1d4 Radiant/turn). Cost: 1 Action to cast + 1
+Bonus Action + 1 L1 slot on hit. Verbal component. No upcast benefit.
+Dame Aylin and Moonlight Slivers only; not learnable by player
+characters.
+
+### Lovely Assistant — https://bg3.wiki/wiki/Lovely_Assistant
+Effect: reanimates a Medium/Small corpse (25% HP on Balanced or below,
+45% HP on Tactician+). Range: 8m (27ft). Cost: Bonus Action, recharges
+per turn. Somatic + verbal. Malus Thorm only, not learnable; won't
+cast if he already has an assistant alive within 6m.
+
+### Mind Spike — https://bg3.wiki/wiki/Mind_Spike
+Damage: 2d8 Psychic. Range: 18m (60ft). Save: Wisdom — half damage on
+success; fail also = Mindstruck 3 turns (disadvantage on Wisdom
+saves). Cost: 1 Action + 1 L1 slot. Verbal component.
+
+### Possession — https://bg3.wiki/wiki/Possession
+Effect: possesses target, forcing it to act on caster's will; deals
+4d8 Necrotic/turn to it; caster immune to targeting while possessing.
+Range: 18m (60ft). Save: Charisma, DC 15, repeatable each turn. Cost:
+1 Action. Duration: 10 turns. Level 5 enchantment; not learnable by
+player characters; ends if possessed creature dies or is turned.
+
+### Promise of Wealth — https://bg3.wiki/wiki/Promise_of_Wealth
+Effect: marks target — allies with Infectious Greed get advantage
+attacking it, 2 turns. Range: 18m (60ft). Cost: Bonus Action,
+recharges per turn. Concentration required. Verbal component. Level 6
+divination; unique to Helsik, not learnable by player characters.
+
+### Revoke Guest Status — https://bg3.wiki/wiki/Revoke_Guest_Status
+Effect: Banished until Long Rest — can't be targeted/move/act/bonus
+action/reaction. No save. Range: 18m (60ft). Cost: 1 Action + 1 L5
+slot. Somatic + verbal. No upcast benefit. Used during the Raphael
+encounter (can't affect Raphael himself).
+
+### Shield of Screams — https://bg3.wiki/wiki/Shield_of_Screams
+Effect: +3 AC; melee attackers who hit caster take 2d6 Psychic. Range:
+18m (60ft). Cost: Bonus Action + 1 L1 slot (despite being classed as a
+level 3 spell). Duration: 2 turns. Verbal component. Nere-exclusive,
+not learnable.
+
+### Summon Gilded Hellsboar — https://bg3.wiki/wiki/Summon_Gilded_Hellsboar
+Effect: summons a level 3 Gilded Hellsboar ally (85 HP, AC 15, 12m/
+40ft speed; Rush charge attack, Tusk Attack gore). Range: 18m (60ft).
+Cost: 1 Action + 1 L5 slot. Duration: per combat (recharges after each
+battle). Verbal + somatic. Actually a level 1 conjuration spell;
+Helsik-exclusive, not learnable.
+
+### Teleport to Submersible — https://bg3.wiki/wiki/Teleport_to_Submersible
+Effect: teleports caster + up to 1 ally back to the Submersible. Range:
+melee, 1.5m (5ft). Cost: 1 Action. Verbal component. Level 5
+conjuration; no upcast benefit; Omeluum-exclusive, not learnable.
+
+### The Closed Fist of Bane — https://bg3.wiki/wiki/The_Closed_Fist_of_Bane
+Damage: 12d10 Force (changed from Bludgeoning as of Patch 6). Range:
+18m (60ft). Cost: Bonus Action. Concentration required. Somatic +
+verbal. Enver Gortash-exclusive, not learnable.
+
+### Tyrant's Bindings — https://bg3.wiki/wiki/Tyrant%27s_Bindings
+Effect: Chain of Tyranny — half movement speed; if it persists to
+caster's next turn, chains break and deal 8d8 Force damage (breaking
+caster's concentration early prevents the damage despite the
+condition's wording). Range: 12m (40ft). Save: Wisdom, fixed DC 18 —
+success = half damage but retains reaction use. Cost: Bonus Action.
+Duration: 1 turn. Concentration required. Somatic + verbal.
+
+## SPECIAL ITEM-GRANTED SPELLS
+
+### Beckoning Darkness — https://bg3.wiki/wiki/Beckoning_Darkness
+Damage: 2d8 Necrotic if target enters/starts turn in a Lightly/Heavily
+Obscured area. Range: 4m (13ft). Save: Charisma, DC 14. Cost: Bonus
+Action. Duration: 2 turns.
+
+### Brand the Weak — https://bg3.wiki/wiki/Brand_the_Weak
+Effect: target becomes Vulnerable to Bludgeoning, Slashing, or
+Piercing (caster's choice) for 3 turns or until it takes damage. No
+save, no damage of its own. Range: 18m (60ft). Cost: Bonus Action.
+Recharge: Long Rest. Level 1 transmutation, no upcast benefit.
+
+### Challenge to Duel — https://bg3.wiki/wiki/Challenge_to_Duel
+Effect: Compelled to Duel — target can only attack caster, disadvantage
+attacking others; if caster hits with Duellist's Prerogative, separate
+DC 15 Constitution save may inflict Bleeding. Range: 9m (30ft). Save:
+Wisdom (weapon action DC). Cost: Bonus Action. Duration: 3 turns.
+Verbal component.
+
+### Danse Macabre — https://bg3.wiki/wiki/Danse_Macabre
+Effect: summons 4 uncontrollable ghoul allies (20 HP, AC 17 each;
+Claws [may Paralyze], Devour [3d10 + Str mod Slashing vs. prone
+targets, self-heals]; Death Burst on death, 6d6 Necrotic in 3m/10ft
+radius). Range: 9m (30ft). Cost: 1 Action. Duration: until Long Rest.
+Somatic + verbal. No upcast benefit.
+
+### Draconic Elemental Weapon — https://bg3.wiki/wiki/Draconic_Elemental_Weapon
+Effect: weapon gets +1 attack roll + 1d4 damage of chosen element.
+Range: melee, 1.5m (5ft). Cost: 1 Action. Somatic + verbal. Doesn't
+stack with Elemental Weapon/Elemental Age; stacks with Magic Weapon/
+Elemental Cleaver. Granted by Drakethroat Glaive, recharges on Long
+Rest. Level 3 transmutation, no upcast benefit.
+
+### Elemental Age — https://bg3.wiki/wiki/Elemental_Age
+Effect: main-hand weapon gets +1 attack roll + 1d4 Acid/Cold/Fire
+(choice). Range: Self. Cost: Bonus Action. Somatic + verbal. Persists
+even if weapon is transferred or Flail of Ages (source item)
+unequipped; doesn't stack with similar elemental-weapon spells, does
+stack with Magic Weapon/Elemental Cleaver. Level 3 transmutation.
+
+### Ensnaring Strands — https://bg3.wiki/wiki/Ensnaring_Strands
+Damage: 1d10 + Strength modifier Slashing on hit; target also risks
+Enwebbed 10 turns (can't move, disadvantage on attacks/Dex saves,
+attackers get advantage) on failed Strength save. Range: melee, 1.5m
+(5ft). Cost: 1 Action. Verbal component. Recharge: Short Rest.
+
+### Exhort the Risen — https://bg3.wiki/wiki/Exhort_the_Risen
+Effect: Command-style compulsion targeting undead specifically — 5
+options (Halt/Grovel/Flee/Drop/Approach). Range: 18m (60ft). Save:
+Wisdom. Cost: 1 Action. Somatic + verbal. Granted by Ring of Exalted
+Marrow, recharges on Long Rest. Level 1 enchantment, no upcast
+benefit.
+
+### Find Familiar: Cheeky Quasit — https://bg3.wiki/wiki/Find_Familiar:_Cheeky_Quasit
+Effect: summons a named quasit familiar "Shovel" (7 HP, AC 13, Small)
+with Claws, Invisibility, and Scare (frightens, recharges Short Rest).
+Range: 18m (60ft). Recharge: Short Rest. Somatic + verbal. Level 1
+conjuration ritual; can't target characters/items.
+
+### Flesh to Gold — https://bg3.wiki/wiki/Flesh_to_Gold
+Effect: restrains target; after 3 rounds becomes inert solid gold
+until spell ends (4 consecutive failed Constitution saves = permanent
+Petrification, cured only by Basilisk Oil or Greater Restoration).
+Range: 18m (60ft). Save: Constitution. Cost: 1 Action + 1 L6 slot (free
+when cast via the Signed Trade Visa scroll, one use only, not
+learnable). Somatic + verbal. Concentration required but ends once
+stage 2 is reached.
+
+### Howl of the Dead — https://bg3.wiki/wiki/Howl_of_the_Dead
+Effect: Numbed 3 turns — half movement speed, caster gets advantage
+attacking affected creatures (removable via Help or caster hitting the
+target). Range: 3m (10ft) radius around caster. Save: Wisdom, DC 14.
+Cost: Bonus Action. Recharge: Short Rest.
+
+### Kereska's Favour — https://bg3.wiki/wiki/Kereska%27s_Favour
+Effect: attunes to one of 6 elements (Lightning/Thunder/Poison/Fire/
+Cold/Acid) — grants +proficiency bonus damage of that type, a unique
+inflicted condition, and 2 bonus free-cast spells (1/Short Rest each).
+Range: Self. Cost: 1 Action. Recharge: Short Rest. Somatic + verbal.
+Level 4 evocation; persists only while Markoheshkir staff is equipped;
+no upcast benefit.
+
+### Khalid's Gift: Aid — https://bg3.wiki/wiki/Khalid%27s_Gift:_Aid
+Effect: heals caster 10 HP + 10 max HP (fixed amount, unlike standard
+Aid — no upcast scaling). Range: Self. Cost: 1 Action. Duration: until
+Long Rest. Somatic + verbal.
+
+### Paralyzing Ray — https://bg3.wiki/wiki/Paralyzing_Ray
+Effect: Paralyzed 2 turns — can't move/act/bonus action/reaction,
+auto-fails Str/Dex saves, attacks against get advantage (auto-crit
+within 3m/10ft). Range: 18m (60ft). Save: Constitution. Cost: 1
+Action. Somatic + verbal. Level 3 necromancy; granted by Burnished
+Ring, recharges on Long Rest; no upcast benefit.
+
+### Protection from Missiles — https://bg3.wiki/wiki/Protection_from_Missiles
+Effect: ranged attacks against caster have disadvantage + half damage
+(stacks multiplicatively with resistances). Range: Self. Cost: 1
+Action. Duration: 10 turns (Concentration). Somatic + verbal. Level 2
+abjuration; recharges on Short Rest.
+
+### Ray of Fear — https://bg3.wiki/wiki/Ray_of_Fear
+Effect: Frightened 2 turns — can't move, disadvantage on ability
+checks/attack rolls. Range: 18m (60ft). Save: Wisdom. Cost: 1 Action.
+Somatic + verbal. Level 3 necromancy; recharges on Long Rest; no
+upcast benefit.
+
+### Ride the Winds — https://bg3.wiki/wiki/Ride_the_Winds
+Effect: transforms into a Tiny gas cloud — resistance to all damage,
+advantage on Con/Dex/Str saves, Str/Dex set to 10, can fly, fits
+through small openings, immune to Bleeding, can't attack/cast/speak.
+Range: Self. Cost: 1 Action. Duration: until Long Rest (Concentration).
+Somatic + verbal. Recharge: Long Rest.
+
+### Selûne's Dream — https://bg3.wiki/wiki/Selûne%27s_Dream
+Healing: 1d8 HP; target then risks falling Asleep 2 turns (Constitution
+save, DC 10, to resist — sleeping = can't move/act, auto-fails Str/Dex
+saves, attacks get advantage, auto-crit within 1.5m/5ft; ends on
+damage/wet/Help/shove). Range: melee, 1.5m (5ft). Cost: 1 Action.
+Verbal component. Recharge: 1/Long Rest. No effect on undead/
+constructs.
+
+### Shadow Blade — already covered above under LEVEL 2 (identical
+spell — see that entry).
+
+### Shar's Aegis — https://bg3.wiki/wiki/Shar%27s_Aegis
+Effect: +2 AC, -2 incoming damage, 1d4 Necrotic retaliation vs. melee
+attackers; ends if armor is unequipped. Range: Self. Cost: Bonus
+Action. Duration: until Long Rest (Concentration). Somatic + verbal.
+Recharge: Long Rest.
+
+### Sights of the Seelie: Summon Deva — already covered above under
+LEVEL 6 (identical spell — see that entry).
+
+### Summon Quothe the Raven — https://bg3.wiki/wiki/Summon_Quothe_the_Raven
+Effect: summons a named raven familiar (1 HP, AC 12) that can blind
+enemies with its beak; if a hostile creature kills it, that creature
+must Dexterity-save or become Ensnared. Range: 18m (60ft). Cost: 1
+Action. Duration: permanent until unsummoned/gloves unequipped. Not
+ritual castable. Somatic + verbal. Recharge: Short Rest. Counts as a
+Level 3 Find Familiar variant — can't be active alongside other Find
+Familiar spells.
+
+### Wounding Ray — https://bg3.wiki/wiki/Wounding_Ray
+Damage: 2d8 Necrotic. Range: 18m (60ft). Save: Constitution — half
+damage on success. Cost: 1 Action. Somatic + verbal. Recharge: Long
+Rest.
+
+////////////////////////////////////////////////////////////////////////////
+STATUS: ALL CATEGORIES COMPLETE — Cantrips (25/25), Level 1 (52/52),
+Level 2 (42/42), Level 3 (34/34), Level 4 (21/21), Level 5 (19/19),
+Level 6 (20/20), Level 9/Special (6/6), NPC-only (16/16), and
+Item-granted (23/23, including 2 cross-referenced duplicates already
+covered elsewhere: Shadow Blade under Level 2, Sights of the Seelie:
+Summon Deva under Level 6) are complete. 316 of 316 index entries done
+(293 unique fetches; some spells like Shadow Blade and Sights of the
+Seelie: Summon Deva appear in multiple index categories but were only
+fetched once). No bot-flagging or rate-limiting encountered across the
+full run. This file is now the complete mechanical reference — see
+bg3-feats-full-list.txt for feats and this file for all spells/
+cantrips, ready for conversion work into Inner Tepenia's own perks/
+traits/quickhacks (per Weekly To-Do and TODO.md tracked items).
