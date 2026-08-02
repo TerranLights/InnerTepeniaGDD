@@ -112,6 +112,46 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+## 2026-08-01 Backlog Batch
+
+Pulled from `TODO.md`'s "Large backlog batch — flagged 2026-08-01" entry — see there for the full write-up
+per item. Everything from that batch is included here **except** "expand upon individual city history
+specs," which stays in `TODO.md` only for now.
+
+**Combat & systems mechanics**
+- [ ] **Sneaking and line-of-sight** — stealth/detection mechanics not yet designed.
+- [ ] **More weapons** — expand the current weapon roster.
+- [ ] **Armor and clothing** — a system for this doesn't yet exist.
+- [ ] **Faction outfitting** — what specific factions actually wear/carry, distinct from the general
+  armor/clothing system above.
+- [ ] **Convert BG3 cantrips into "quickhacks," and BG3 spells and feats into perks and traits** — a direct
+  conversion-mapping exercise from Baldur's Gate 3's own ability lists.
+- [ ] **Real-world scientific basis for BG3 damage types** — what objects/items would cause the
+  scientifically-supported equivalent of each BG3 damage type (and comparable relative amounts), and what
+  kind of setting each would characteristically be found in. Ties into `Per_City_Weapons`/`Damage_Types.md`.
+
+**Worldbuilding — civic life & economy**
+- [ ] **The actual legal mechanisms of how Tepenia deals with criminals** — courts, arrest, enforcement
+  procedure; more detailed than the existing 3-tier outcome framework (`project_tepenian_criminal_justice_system`
+  memory).
+- [ ] **What kinds of festivals exist, generally** — beyond what's already scattered per-city/per-district.
+- [ ] **Are there any homeless people in Tepenia**, and if so, what does that look like.
+- [ ] **Where do cities/districts actually get their water.**
+- [ ] **What standard is Tepenian currency actually based on** — deliberately the first domino; the actual
+  *name* (see the separate "National currency name and mechanics" entry above/below) is downstream of this,
+  not decided in parallel. Also: don't use the word "scrip" in new writing — see that entry for why.
+- [ ] **General standards of living, and the cost of things.**
+- [ ] **What does it actually mean to be "rich" in Tepenia** — follows directly from the item above.
+- [ ] **How is sewage and septic waste treated/handled.**
+- [ ] **What other food-producing locations exist**, beyond what's already established (Davis's breadbasket
+  role, etc.).
+- [ ] **A general accounting of what currently exists across the project as flagged "side-content."**
+
+**Documentation**
+- [ ] **Go in and actually comment the code** — including pseudocode.
+
+---
+
 ## Medium Priority
 
 - [ ] **Companion Forbidden Traits pass — 3 companions remain, 1 in-progress**
