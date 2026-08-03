@@ -5,8 +5,8 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Juan_Carlos_Physical_
 Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Juan_Carlos_Full_Extrapolation.md` and `Juan_Carlos_Cross_Reference_Synthesis.md`. **Completes the Palmer
-subnet's first vignettes batch — Batch 1 of many — target 30, 6 done as of this batch.**
+`Juan_Carlos_Full_Extrapolation.md` and `Juan_Carlos_Cross_Reference_Synthesis.md`. **Batch 2 of many —
+target 30, 12 done as of this batch. Completes the Palmer subnet's batch 2 pass.**
 
 ---
 
@@ -118,3 +118,96 @@ established about the city's own self-image, could only have developed somewhere
 because almost no one from outside Juan Carlos was ever around to hear it, let alone dispute it, the joke
 stayed exactly the kind of quiet, private civic pride a city built around careful, unglamorous record-keeping
 would actually produce.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Question the Gathering Houses Were Finally Asked to Settle
+
+*(Shortly before the Tower's completion.)* Word reached Juan Carlos, through channels nobody bothered to make
+official, that whoever was coordinating the Tower's final construction stretch wanted advice on how the
+project's own completion ought to be documented for the Federation's lasting record — advice sought, quietly,
+from the one city whose own civic identity was built entirely around judging what was worth remembering
+(`Juan_Carlos_Full_Extrapolation.md` Section VI).
+
+The question landed, fittingly, in the Hosted Gathering Houses and Café Discussion Halls — the same rooms
+that had already exported their own curated-argument tradition to three Concordia districts — where residents
+spent considerable time debating, per what's remembered of the exchange, not what had happened during the
+Tower's construction but what of it would actually still matter generations later. No single answer was ever
+formally sent back; Juan Carlos's own recommendation, characteristically, was less a document than a
+disposition — record more than seems necessary, and let time decide what mattered, the same instinct that had
+once made the formal Archive's own holdings more thorough than its mandate strictly required.
+
+### The Corridor That Suddenly Carried More Than Tourists
+
+*(Shortly before the Tower's completion.)* The designated corridor separating immigration processing from
+non-immigrant visitors bound for Palmer City's own tourism economy — ordinarily a clean, well-worn division of
+two entirely different kinds of arrival — carried, late in the Tower's construction, a third kind of traffic
+neither path had been built to handle: personnel and cargo connected to the project, routed through Juan
+Carlos's own Machu Picchu Border & Customs Authority infrastructure simply because it was the established
+gateway already there (`Juan_Carlos_Full_Extrapolation.md` Section I; Physical Infrastructure Attribute #3).
+
+Staff coordinating both existing flows, per what's recalled of the adjustment, absorbed the new traffic without
+formally revising the corridor's own two-path design — the unfamiliar arrivals were simply sorted, case by
+case, into whichever existing process actually fit them, since nothing about Juan Carlos's own administrative
+culture had ever required a new category before it could process something correctly.
+
+### The Backup Copied Twice Instead of Once
+
+*(Shortly before the Tower's completion.)* The gradual, unceremonious relocation of Juan Carlos's formal
+archive holdings into Amundsen Station's own unified national archive — already well underway across the
+Second Interwar Period, per Section III — picked up a specific, deliberate urgency late in the Tower's
+construction, as staff overseeing the transfer began keeping a second, redundant copy of the most recent
+transferred material rather than relying on a single successful relocation (`Juan_Carlos_Full_Extrapolation.md`
+Section III).
+
+The decision, per what's preserved of the internal reasoning, wasn't driven by any specific fear so much as
+plain administrative caution — a national project of this scale nearing completion seemed, to the archivists
+handling the transfer, exactly the kind of moment worth being unusually careful around, even without being
+able to say precisely why. Nothing was lost either way. The redundant copying practice, once adopted, simply
+never stopped.
+
+### The First Message the Federation's Memory Ever Received Instantly
+
+*(Shortly after the Tower's completion.)* Juan Carlos received, for the first time, direct confirmation from
+Amundsen Station that specific archival material transferred over the preceding stretch had arrived intact —
+not through the ordinary administrative correspondence cycle the relocation had always relied on, but
+essentially the moment the confirmation was sent, once the whole country was connected through the Tower's own
+newly completed relay (`Juan_Carlos_Full_Extrapolation.md` Section III).
+
+Archivists who'd spent the transfer's earlier stretch keeping redundant local copies against exactly this kind
+of uncertainty, per what's recalled of the moment, found the instant confirmation almost anticlimactic after
+months of careful caution — a problem the relocation had never quite solved, solved all at once by
+infrastructure that had nothing to do with archiving at all. A city whose own private joke called itself "the
+Federation's memory" experienced, for the first time, what it actually felt like to have that memory confirmed
+in real time rather than trusted on faith.
+
+### The Gathering That Finally Talked About Something Everyone Already Knew
+
+*(Shortly after the Tower's completion.)* The Hosted Gathering Houses' own defining tradition — curated
+argument and storytelling, built around guests who could bring genuine range to the table — found itself, for
+the first time, discussing an event that every other city in the country was discussing at the exact same
+moment, rather than the usual mix of local news and whatever slower, delayed word had reached Juan Carlos from
+elsewhere (`Juan_Carlos_Full_Extrapolation.md` Section VI).
+
+Hosts curating that season's gatherings, per what's remembered of the shift, found the shared simultaneity
+genuinely changed the texture of the conversation — less explaining unfamiliar news to guests who hadn't heard
+it yet, more comparing what everyone had already independently made of the same fact. Residents who'd exported
+this exact tradition to three Concordia districts generations of gatherings earlier would, per informal
+accounts, have recognized the rooms instantly regardless — the argument was still the point, even once
+everyone finally arrived at the table already knowing what they'd be arguing about.
+
+### The Corridor That Went Back to Being Simple
+
+*(Shortly after the Tower's completion.)* The irregular Tower-related traffic that had briefly complicated
+Juan Carlos's own clean two-path immigration corridor tapered off once the project itself was finished,
+leaving the Machu Picchu Border & Customs Authority's infrastructure to settle back into its own ordinary
+rhythm — immigrants on one path, tourists bound for Palmer City on the other, exactly as the system had always
+been built to handle (`Juan_Carlos_Full_Extrapolation.md` Section I).
+
+Staff who'd spent the stretch sorting unfamiliar arrivals case by case, per what's recalled of the return to
+normal, noted the adjustment without much ceremony — the corridor's own design had absorbed something it was
+never built for and simply reverted once the need passed, the same quiet, unremarkable administrative
+competence that had always defined how Juan Carlos actually worked, whether or not anyone outside the city
+ever noticed either the disruption or its passing.
