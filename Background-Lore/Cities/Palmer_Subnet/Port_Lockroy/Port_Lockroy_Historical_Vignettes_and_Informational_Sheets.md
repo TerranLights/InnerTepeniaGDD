@@ -5,8 +5,8 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Port_Lockroy_
 Physical_Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Port_Lockroy_Full_Extrapolation.md` and `Port_Lockroy_Cross_Reference_Synthesis.md`. **Batch 1 of many —
-target 30, 6 done as of this batch.**
+`Port_Lockroy_Full_Extrapolation.md` and `Port_Lockroy_Cross_Reference_Synthesis.md`. **Batch 2 of many —
+target 30, 12 done as of this batch.**
 
 ---
 
@@ -121,3 +121,98 @@ continued necessity than out of a sense that the vigilance itself had proven its
 formalized generations later as a civic observance, still traces directly back to that one specific night —
 a practical safety measure that a small, exposed settlement decided was worth keeping even once it stopped
 being strictly necessary.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Season the Relay Carried Nothing But Names
+
+*(Shortly before the Tower's completion.)* The Reduced Postal Relay, Port Lockroy's own scaled-down but
+genuinely functioning correspondence network, absorbed a specific surge late in the Tower's construction —
+personal letters between workers scattered across an unprecedented, continent-spanning project and the
+families they'd left behind, moving through Port Lockroy's own courier system the way ordinary correspondence
+always had (`Port_Lockroy_Full_Extrapolation.md` Section VII).
+
+Postal clerks, per what's remembered of the stretch, noticed the volume before they understood the cause —
+considerably more outgoing mail addressed to work-site designations nobody at Port Lockroy could place on any
+map they knew, moving alongside the network's own ordinary traffic without any special handling requested or
+given. The network processed it exactly the way it processed everything else: logged, routed, delivered,
+significant only in hindsight if ever, the same quiet anonymity that had always defined most of what passed
+through Port Lockroy's own hands. A city that moved words, not materials, turned out to be exactly what a
+project this large still needed, even if nobody at either end particularly noticed the fit at the time.
+
+### The Panel Nobody Was Sure How to Carve
+
+*(Shortly before the Tower's completion.)* The Communal Stone Wall's own discipline — a new panel added each
+year, honest rather than curated, per the tradition already tested by the year residents would rather not have
+recorded — faced a genuinely unusual problem as the Tower's construction neared its end: how to carve a year
+defined by something happening far away, that Port Lockroy itself had barely touched (`Port_Lockroy_Full_
+Extrapolation.md` Mega-Init; Section IV).
+
+The resident assigned that year's panel, per what's preserved of the disagreement, argued the Wall existed to
+record Port Lockroy's own history, not events elsewhere, and considered leaving the year's panel to whatever
+small, local detail actually happened at home instead. Others pushed back, reasoning that the letters flooding
+through the Relay that same year were themselves a piece of Port Lockroy's own history, whatever they were
+actually about. The panel that was ultimately carved split the difference — a modest, understated reference to
+"more letters than the Relay had ever carried before," true to what Port Lockroy itself had actually
+experienced, without claiming to understand or record the larger thing it was part of.
+
+### The Watch Kept Over Something Nobody Could See
+
+*(Shortly before the Tower's completion.)* Founders' Watch, the night-vigil tradition tracing back to a
+founding-era night of genuine practical necessity, was kept once more with something closer to its original,
+unceremonial purpose during a stretch of unusually heavy overnight convoy traffic passing near Port Lockroy's
+own harbor late in the Tower's construction (`Port_Lockroy_Full_Extrapolation.md` Section IV).
+
+Residents keeping that particular watch, per what's remembered of it, weren't monitoring anything specific to
+the Tower itself — simply maintaining the same vigilance over weather and harbor conditions the tradition had
+always called for, made more relevant than usual by the volume of vessels moving through Peninsula waters
+overnight. Nothing dramatic came of the watch that stretch. What residents noted afterward, informally, was
+how naturally the observance had slipped back into something closer to its own founding purpose — a ceremonial
+tradition briefly, genuinely useful again, the same way it had been the very first time.
+
+### The Night Old Toby's Doubt Finally Had an Answer
+
+*(Shortly after the Tower's completion.)* Word reached Port Lockroy that the whole country was, for the first
+time, connected through a single relay capable of carrying a message the moment it was sent — the same kind of
+instantaneous reach the Reduced Postal Relay's own physical courier network had never once been able to offer,
+however faithfully it had carried Port Lockroy's own correspondence for generations (`Port_Lockroy_Full_
+Extrapolation.md` Section VII; Physical Infrastructure Attribute #7).
+
+**"Old Toby" *(placeholder, not developer-chosen)***, per what's remembered of his own reaction, greeted the
+news the same way he'd once doubted he'd live to see the Communal Stone Wall's own tradition fully realized —
+with plain, unsentimental acknowledgment rather than alarm. He was recorded, per informal accounts, telling a
+younger courier that a fast relay carrying facts wasn't the same thing as a person carrying a letter someone
+else had actually written by hand, and that Port Lockroy's own work had never really been about speed. The
+Relay kept running. Nothing about that particular night ended what Port Lockroy did — it simply made clear,
+for the first time, exactly what the physical courier network had always offered that nothing faster ever
+quite could.
+
+### The First Entry the Wall Ever Owed to Somewhere Else
+
+*(Shortly after the Tower's completion.)* The Communal Stone Wall received a panel, that year, carved not to
+record a purely local Port Lockroy event but the specific fact of the whole country's own connection through
+the Tower's newly completed relay — a genuine departure from the Wall's own established character as a
+chronicle of the settlement's own history alone (`Port_Lockroy_Full_Extrapolation.md` Mega-Init).
+
+The resident who proposed it, per what's preserved of the debate, argued that a year the entire nation was
+connected for the first time had touched Port Lockroy directly enough — through the Relay's own recent surge
+of Tower-bound correspondence — to earn a place on a wall that had always recorded what genuinely mattered to
+the settlement, not merely what happened inside it. The panel was carved, understated as the rest, one more
+honest entry in a chronicle that had never smoothed over an inconvenient year and, this time, didn't shy away
+from an unusually large one either.
+
+### The Warning That Reached the Next Harbor Before the Storm Did
+
+*(Shortly after the Tower's completion.)* Word of a severe weather system bearing down on the open Peninsula
+coast — the same kind of storm that had once sent a struggling crew searching for Port Lockroy Harbor's own
+sheltered water purely on reputation — reached vessels and harbors up and down the coast well ahead of the
+storm itself for the first time, relayed instantly rather than carried only as fast as the fastest boat could
+travel (`Port_Lockroy_Full_Extrapolation.md`, harbor material).
+
+Port Lockroy's own harbor staff, per what's recalled of the change, found themselves receiving inbound vessels
+that had chosen the detour deliberately, in advance, rather than discovering the harbor's shelter out of
+sudden necessity the way the earlier storm-caught crew once had. The harbor's own reputation for calm water
+hadn't changed. What changed was that, for the first time, a crew in danger somewhere else on the coast could
+actually be told where safety was before they needed to find it by instinct alone.
