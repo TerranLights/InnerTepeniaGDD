@@ -10,7 +10,7 @@ any other; none are required to be chronological, and all stay within the pre-wa
 relationship to the ruins — explicitly post-war, out of scope here. Entries below draw instead on the city's
 own genuine pre-war founding, daily life, and culture. Drawn primarily from `Zukelli_Full_Extrapolation.md`
 (Tier 1), `Zukelli_Physical_Infrastructure_Attributes.md` and `Specs/Zukelli.md` (Tier 2), and `Zukelli_
-Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many — target 30, 6 done as of this batch.**
+Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -126,3 +126,90 @@ correction that meant the completed network's own later sections were built to a
 standard than the network's own earliest completed stretches had originally used — a citywide system that
 ended up more resilient than its own initial design specified, because one incomplete section's own exposure
 forced the correction before the whole network was finished.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Crossing That Ran Both Ways at Once
+
+*(Shortly before the Tower's completion.)* The pre-war Crossing tradition between Janbogo and Zukelli —
+informal visits blurring who was hosting whom — saw an unusually heavy stretch of traffic late in the Tower's
+construction, as travelers connected to the project passed through both cities in numbers neither side's own
+established hospitality had specifically anticipated (`Zukelli_Full_Extrapolation.md` Section III background;
+Crossing material).
+
+Residents on both sides, per what's remembered of the stretch, absorbed the increased traffic the same way
+the tradition had always worked — hosts extending stays, visitors extending return dates, each side's own
+warmth simply doing more of what it always did rather than adopting any new formal arrangement. The two
+cities' own established closeness, built over generations of exactly this kind of unplanned mutual visiting,
+held under a volume of travelers considerably larger than any single ordinary Crossing had ever brought
+through either city before.
+
+### The Stage That Hosted an Audience It Couldn't Place
+
+*(Shortly before the Tower's completion.)* Elisa Faranda's own restaurant-and-performance venue, already
+famous well beyond Zukelli's own borders, drew a specific stretch of unfamiliar patrons late in the Tower's
+construction — travelers whose own bearing and unfamiliarity with the venue's own regulars marked them as
+passing through rather than genuine locals or the ordinary Janbogo visitors the restaurant already knew well
+(`Zukelli_Full_Extrapolation.md` Section VII).
+
+Faranda, per what's preserved of the account, treated the unfamiliar patrons with the same genuine engagement
+she'd once shown a competing venue's own performers rather than her own established regulars — pulling up a
+seat, asking what they thought of the evening's performance, extending the same warmth that had built the
+venue's own reputation in the first place. Whatever these particular travelers were actually part of went
+unasked. The stage did what it had always done: gave people passing through something worth stopping for.
+
+### The Neighborhood Code Tested by People Who'd Never Learned It
+
+*(Shortly before the Tower's completion.)* Zukelli's own neighborhood-specific covered-passage marking system
+— organic, unmandated, legible fluently to residents and barely registering as more than decoration to
+outsiders — faced a genuine navigation strain late in the Tower's construction, as an unusually large number of
+travelers unfamiliar with any neighborhood's own local code attempted to move through the covered network
+(`Zukelli_Full_Extrapolation.md` Section II).
+
+Residents, per what's remembered of the period, responded the same informal way the system itself had always
+grown — individuals simply guiding lost-looking strangers directly rather than any civic authority stepping in
+to post additional signage. No neighborhood's own established code was simplified or standardized to
+accommodate the unfamiliar traffic. The city that had never needed central planning to build its own
+navigation system didn't start relying on one now, even under genuinely unusual strain.
+
+### The Music That Reached Ears It Had Never Reached Before
+
+*(Shortly after the Tower's completion.)* Zukelli's own restaurant-performance music scene — grown from
+Faranda's own original venue into a genuine citywide culture — was carried, for the first time, to listeners
+in subnets that had never had any traveler bring word of it back, reaching them through the same relay now
+connecting the whole country (`Zukelli_Full_Extrapolation.md` Section VII).
+
+Musicians and venue owners, per what's recalled of the reaction, treated the sudden outside audience with the
+same easy warmth Zukelli's own civic character had always been known for — no formal effort to capitalize on
+the wider reach, simply the same performances continuing exactly as they always had, now overheard by
+considerably more people than before. Faranda's own restaurant, already famous as far as Janbogo, found itself,
+for the first time, known somewhere neither she nor any of her performers had ever actually traveled.
+
+### The Crossing That Finally Reached Somewhere Else
+
+*(Shortly after the Tower's completion.)* Word of the Janbogo-Zukelli Crossing tradition itself — two
+neighboring cities so close that visits routinely blurred who was hosting whom — reached, for the first time,
+residents of cities with no comparable neighbor of their own, curious about a kind of closeness their own
+geography had never allowed them (`Zukelli_Full_Extrapolation.md` Section III background).
+
+Residents of both cities, per what's recalled of the exchange, found themselves describing a practice they'd
+never needed to explain to each other before — the specific, mutual, unplanned warmth of the Crossing suddenly
+requiring words for an audience that had never experienced anything quite like it. Nothing about how either
+city actually practiced the tradition changed. What changed was simply that a closeness the two cities had
+always taken for granted between themselves now had witnesses who found it worth remarking on.
+
+### The Code Zukelli Never Meant to Export
+
+*(Shortly after the Tower's completion.)* Zukelli's own neighborhood-marking navigation system, born entirely
+from organic, bottom-up necessity, became known, for the first time, to residents of other Tepenian cities
+curious how a genuinely unplanned settlement this large actually let people find their way around
+(`Zukelli_Full_Extrapolation.md` Section II).
+
+Residents explaining the system to outside inquirers, per what's remembered of the exchange, found themselves
+articulating something they'd always simply absorbed rather than been taught formally — the same organic
+legibility a longtime resident read fluently and a visitor could barely register as more than decoration. No
+other city attempted to replicate the system, per what's preserved of the response; the code had grown out of
+Zukelli's own specific unplanned geometry and had never been built to travel. That people elsewhere now knew it
+existed at all was, for the first time, enough.
