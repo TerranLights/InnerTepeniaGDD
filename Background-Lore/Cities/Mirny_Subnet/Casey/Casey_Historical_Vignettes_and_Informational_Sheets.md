@@ -8,7 +8,10 @@ rather than a restated attribute. No entry below depends on any other; none are 
 Drawn primarily from `Casey_Full_Extrapolation.md` (Tier 1), `Casey_Physical_Infrastructure_Attributes.md`
 and `Specs/Casey.md` (Tier 2), and `Casey_Cross_Reference_Synthesis.md` (Tier 3). **Following the Attributes
 file's own established convention:** entries below are framed pre-war, as lived memory for Casey's diaspora,
-rather than as ruins content. **Batch 2 of many — target 30, 12 done as of this batch.**
+rather than as ruins content. **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct
+developer instruction, is framed around `City_National_Connections.md`: six occurrences that could only have
+happened once full national digital connectivity existed, each grounded in a specific named city-to-city
+connection from that file (Dumont d'Urville, Fort McMurdo, Scott, Davis, Mirny). 18 done as of batch 3.**
 
 ---
 
@@ -220,3 +223,85 @@ routes met and travelers were told, honestly and immediately, which way to go ha
 country do something structurally similar at a scale Casey itself could never match. Nothing about Casey's
 own daily function changed. The comparison stuck anyway, a small, specific piece of civic pride in having
 already understood, for generations, what connection was actually for.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Joint Certification Dumont d'Urville and Casey Finally Ran Together
+
+Hwy 2, connecting Casey and Dumont d'Urville directly with no intermediate subnet, had always carried traffic
+certified independently by each city's own dispatch office — Casey's own wind-window discipline on its own
+half of the route, Dumont d'Urville's own junction coordination on the other, with no shared visibility into
+conditions on the far side until a convoy actually crossed the midpoint.
+
+The first jointly certified route status, issued once both dispatch offices could see each other's own live
+conditions at once, let a single convoy receive one continuous certification covering the entire Hwy 2 run
+rather than two separate clearances issued independently and simply hoped to align. The joint certification
+held without incident. It marked the first time either city's own dispatch discipline had extended past its
+own half of a route the two cities had shared, without ever actually coordinating, for generations.
+
+### The Forecast Method Fort McMurdo Adopted After Watching Casey Work
+
+Fort McMurdo's own Erebus monitoring bulletins and Casey's own wind-window certification discipline, already
+recognized as comparable route-safety traditions, produced a direct methodological exchange once Fort McMurdo's
+own monitoring staff, curious how Casey's own dispatchers maintained such a consistently trusted track record,
+asked to observe Casey's own certification process directly.
+
+Casey's own dispatchers, per what's preserved of the exchange, walked Fort McMurdo's own staff through the
+specific discipline "Long Odds" Okonkwo-Hale had once embodied — reading marginal conditions carefully rather
+than defaulting to caution or bravado. Fort McMurdo's own monitoring program adopted a version of the same
+disciplined-reading approach for its own Erebus bulletins afterward, the first time Casey's own dispatch
+culture had directly shaped another city's own safety communication practice.
+
+### The Question Scott Finally Got Answered About Long Odds
+
+Following Scott's own precision-calibration reputation reaching Casey's technical circles, a Casey dispatcher
+sent a specific question back the other direction — curious whether Scott's own calibration discipline had any
+equivalent to Casey's own legendary dispatcher, someone whose judgment had simply never been proven wrong.
+
+Scott's own engineers, per what's preserved of the exchange, admitted their own precision culture ran on
+methodical process rather than any single trusted individual's own judgment — a genuine difference between the
+two cities' own safety cultures, Casey's built around trusting a person, Scott's built around trusting a
+procedure. Neither city concluded its own approach was superior. Both, per what's recalled of the exchange,
+found the comparison worth having simply because neither had ever had occasion to articulate the difference
+out loud before.
+
+### The Australian Network That Finally Included a Direct Casey-Davis Channel
+
+The intra-subnet Australian-heritage network connecting Davis, Casey, and Mirny had always functioned as a
+three-way relationship discussed collectively — Casey's own specific, direct channel to Davis alone, distinct
+from the wider three-city network, had never actually been used for anything beyond the shared cultural
+observances all three cities already maintained together.
+
+The first purely bilateral exchange between Casey and Davis specifically, held once direct contact made a
+two-city conversation as easy to have as a three-city one, addressed a narrow technical question about
+Circle-threshold instrument calibration that had nothing to do with either city's own Australian heritage at
+all. The question was answered, the specific technical issue resolved, and the exchange itself confirmed
+something neither city had previously had reason to establish: that their own relationship could function
+one-on-one, not only as part of the wider three-city network built around shared heritage.
+
+### The Splinters Booking Mirny's Quarry Crews Finally Made Directly
+
+Splinters, Casey's own massive bar and live-music venue, received its first direct advance booking from a
+group of Mirny quarry workers planning a trip specifically to visit the venue — arranged once direct contact
+let the group simply reserve space ahead of arrival, rather than showing up and hoping for room the way every
+prior visitor from outside Casey always had to.
+
+The booking itself was modest — a single evening, a reserved table, nothing elaborate. Splinters' own staff,
+per what's recalled of the occasion, treated it as a small novelty worth remarking on: the first time anyone
+had ever called ahead specifically to make sure a table would be available, rather than simply arriving and
+trusting Wetherall's own original venue to make room the way it always had for everyone else.
+
+### The Dispute Fort McMurdo and Casey Finally Settled the Same Day
+
+A specific scheduling conflict between a Fort McMurdo-bound convoy and a Casey-certified route closure, the
+kind of disagreement that would previously have taken days to resolve through indirect correspondence between
+the two cities' own dispatch offices, was settled within hours once direct contact let both offices simply
+discuss the conflict together in real time.
+
+The resolution itself was unremarkable — a minor rerouting, agreed on quickly once both offices could see the
+same live conditions at once. What mattered, per what's preserved of the incident, was the precedent: the
+first time a genuine scheduling disagreement between the two cities' own logistics operations had been
+resolved the same day it arose, rather than becoming the kind of days-long back-and-forth correspondence any
+comparable dispute had always previously required.
