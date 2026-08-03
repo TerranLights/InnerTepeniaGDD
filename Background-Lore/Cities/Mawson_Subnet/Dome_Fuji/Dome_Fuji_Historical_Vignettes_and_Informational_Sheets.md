@@ -10,7 +10,12 @@ Dome Fuji's own founding-era research station, its ordinary attrition through th
 Buddhism's rediscovery and early growth all happened well before the Long Night War (2812), giving this city
 unusually deep pre-war material to draw on. Drawn primarily from `Dome_Fuji_Full_Extrapolation.md` (Tier 1),
 `Dome_Fuji_Physical_Infrastructure_Attributes.md` and `Specs/Dome_Fuji.md` (Tier 2), and `Dome_Fuji_Cross_
-Reference_Synthesis.md` (Tier 3). **Batch 1 of many — target 30, 6 done as of this batch.**
+Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.** *(Note on this
+batch's own placement: given the research station's ordinary attrition ran through "the 2700s" and Ice Cold
+Buddhism's rediscovery is dated only to "mid-Second Interwar Period," both comfortably later than either
+Amundsen Tower completion candidate date, this batch's six entries are grounded in the JARE-descended research
+station era specifically — the community actually present at Dome Fuji when the Tower was completed, whichever
+candidate date eventually wins.)*
 
 ---
 
@@ -122,3 +127,95 @@ significant arrivals carried real weight, demonstrated concretely rather than le
 specific pilgrim's own name isn't preserved in what's established about the incident, but the observance
 itself is still referenced, generations later, as the clearest example the community has of doctrine and
 lived coincidence lining up in a way devotees found genuinely meaningful rather than simply notable.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Cores Requested by People Who'd Never Felt This Cold
+
+*(Shortly before the Tower's completion.)* Dome Fuji Station's own deep ice-core archive, reaching back
+hundreds of thousands of years, received a formal request late in the Tower's construction for whatever
+long-term climate and structural-stability data the cores could offer — sought by planners for a project
+whose own scale demanded understanding conditions across timescales no single season's weather could provide
+(`Dome_Fuji_Full_Extrapolation.md` Section II, Section V).
+
+Research staff, per what's preserved of the exchange, treated the request the same methodical way they
+treated every scientific inquiry into the archive's own holdings — real analysis work, genuinely secondary to
+the station's own primary drilling program by that point in its founding-era operational life, but still
+capable of producing a serious answer when asked. The requested data went out through the same slow overland
+relay the station's own remote position had always required. What the Tower's own planners did with it isn't
+part of what Dome Fuji's own records preserved.
+
+### The Transfer Request Held Up by the Same Thin Margins as Always
+
+*(Shortly before the Tower's completion.)* A researcher's own transfer request, filed through Dome Fuji's own
+already-strained medical and logistical apparatus late in the Tower's construction, moved through the
+station's usual approval process at the same careful, unhurried pace every such request had always required —
+the effective altitude's own chronic toll making every departure a genuine logistical undertaking, not a
+routine reassignment (`Dome_Fuji_Full_Extrapolation.md` Section II).
+
+Station administrators, per what's preserved of the period's own internal record, processed the request no
+faster or slower than the station's own established practice demanded — the same demographic thinning already
+underway, one careful departure at a time, continuing exactly as it had for generations regardless of whatever
+large-scale project was concluding elsewhere on the continent. Nothing about the Tower's own imminent
+completion changed how Dome Fuji actually managed its own slow, structural population decline.
+
+### The Supply Run That Couldn't Wait for the Aviation Route
+
+*(Shortly before the Tower's completion.)* Dome Fuji's own overland supply chain through Sayowa, predating the
+station's later-established aviation route, absorbed a specific, unusually urgent shipment late in the Tower's
+construction — specialized medical supplies for the altitude-sickness apparatus the station's own founding
+mission had never been able to fully resolve, delayed just long enough to become a genuine concern
+(`Dome_Fuji_Full_Extrapolation.md` Section II).
+
+The shipment arrived within the station's own established safety margin, per what's preserved of the incident,
+but closer to the edge of that margin than staff were comfortable with — a reminder, per what's remembered of
+the period, that Dome Fuji's own extreme isolation made even routine supply timing a genuine operational
+concern regardless of how much national infrastructure was maturing elsewhere. The specific delay was never
+fully explained. The margin held anyway, the same way it always had.
+
+### The Transfer That Finally Moved a Little Faster
+
+*(Shortly after the Tower's completion.)* A researcher's own transfer request, filed not long after the
+Tower's completion, moved through Dome Fuji's own approval and logistics process modestly faster than transfer
+requests before it had ordinarily taken — a small, concrete instance of exactly the infrastructure maturation
+already identified elsewhere as the slow mechanism behind the station's own eventual demographic thinning
+(`Dome_Fuji_Full_Extrapolation.md` Section II).
+
+Administrators processing the request, per what's preserved of the period, didn't connect the improvement
+specifically to the Tower at the time — infrastructure across Tepenia had been gradually maturing for
+generations, and this was simply one more incremental easing in a trend already well underway before the
+Tower's own completion. In hindsight, it's a small, quiet data point in the same slow story Section II already
+tells: the wider Federation's own growing capability making it easier, one request at a time, for a station
+built for hardship nobody had specifically prepared for to become, eventually, easier to leave than to stay.
+
+### The Cores That Reached the Country Without Dome Fuji Reaching Anyone Directly
+
+*(Shortly after the Tower's completion.)* Dome Fuji's own ice-core research, still relayed out through Sayowa's
+own logistics chain rather than any direct Arcanet link the extreme-altitude station itself could support,
+nonetheless reached considerably further once it left Dome Fuji's own hands — Sayowa's relay now carrying
+onward material through a national network connected, for the first time, to everywhere at once
+(`Dome_Fuji_Full_Extrapolation.md` Section II, Section V).
+
+Research staff at Dome Fuji itself, per what's recalled of the period, experienced almost none of the change
+directly — the station's own genuine remoteness meant the slow overland relay to Sayowa remained exactly as
+slow as it had always been, regardless of what happened to information once it actually left the plateau.
+What changed happened entirely on the other end: data that once reached only whoever Sayowa's own limited
+onward correspondence specifically served now reached, once it cleared that first slow leg, the whole
+connected country at once.
+
+### The Season No One at the Station Learned About Until Later
+
+*(Shortly after the Tower's completion.)* News of the Tower's own completion — and the national connectivity
+it brought to nearly everywhere else in Tepenia — reached Dome Fuji considerably later than it reached almost
+any other inhabited site in the country, arriving only once the station's own next scheduled overland supply
+run from Sayowa happened to carry word of it along with everything else
+(`Dome_Fuji_Full_Extrapolation.md` Section II).
+
+Staff receiving the news, per what's preserved of the reaction, registered it as significant but distant —
+genuinely important national infrastructure, arriving at Dome Fuji's own remote plateau station the same way
+all outside news always had, considerably after the fact and considerably secondhand. The effective altitude,
+the chronic isolation, the same conditions that had always set Dome Fuji apart from the rest of Tepenia's own
+communications didn't change because a relay tower elsewhere had finally connected everyone else. Dome Fuji
+heard about the connection the same way it heard about everything: later, and through Sayowa.
