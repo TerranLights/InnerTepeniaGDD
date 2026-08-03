@@ -6,7 +6,11 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Marambio_Physical_
 Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolation Findings, plus
 `Marambio_Full_Extrapolation.md` and `Marambio_Cross_Reference_Synthesis.md`. **Batch 2 of many — target 30,
-12 done as of this batch.**
+12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Esperanza,
+Belgrano, Byrd) rather than the anonymous "distant subnet" batch 2's own dual-mode inquiry entry already
+used. 18 done as of batch 3.**
 
 ---
 
@@ -219,3 +223,91 @@ guarded, and there was no particular reason a distant subnet's own dual-mode amb
 same documented discipline that had let Marambio's own exile generation re-derive Fariña's methods without
 ever having met him. Nothing came of the exchange immediately. It stands, regardless, as the first recorded
 instance of another subnet asking Marambio directly for something Marambio had always simply been.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Overflow Plan Esperanza and Marambio Finally Built in Advance
+
+The established shipping division of labor between Marambio's own bulk Shipyards and Esperanza's own smaller
+Hope Bay Harbor had always been tested reactively — Esperanza absorbed Marambio's own overflow once, during a
+genuine dockside emergency, with no advance planning possible because no channel existed for the two harbors
+to coordinate capacity before a crisis actually forced the question.
+
+The first proactive capacity-sharing arrangement between the two harbors, negotiated once direct contact let
+dispatchers at both sites actually compare projected volume in advance, established a standing understanding
+for exactly which categories of overflow Esperanza could absorb on short notice and which Marambio would need
+to hold for a different solution entirely. The arrangement was never tested by another emergency on the scale
+of the original incident. It existed anyway, for the first time, as planned capacity rather than something
+discovered only once a crisis had already forced the two harbors to improvise together.
+
+### The Ground Crew Exchange Between Tepenia's Two Primary Aviation Hubs
+
+Marambio's own status as the Palmer subnet's primary aviation hub and Belgrano's own equivalent status in the
+Halley subnet — both cities sharing genuine Argentine Air Force founding heritage — had never produced a
+direct professional exchange between the two airfields' own ground crews, since no channel existed for
+either city's own aviation staff to simply compare procedures with their genuine counterpart in the other
+subnet.
+
+The first direct exchange, arranged once contact between the two cities became trivial, paired ground crew
+supervisors from Marambio and Belgrano in a detailed comparison of runway operations, weather-hold procedures,
+and cargo-handling discipline — two cities that had spent generations doing structurally similar work without
+either ever having a genuine professional counterpart to compare notes with. Several specific procedural
+refinements, per what's preserved of the exchange, moved in both directions afterward — the first time either
+airfield had ever adopted a practice learned directly from the other rather than developing it independently.
+
+### The Backup Route Byrd Finally Tested on Purpose
+
+Marambio's own status as a secondary, backup logistics link into the Palmer-Byrd-Mirny overland corridor
+alongside Hwy 1 had always been a theoretical fallback — genuinely available in principle, but never actually
+tested as a deliberate alternative, since no channel existed for Byrd's own logistics planners to coordinate a
+real test with Marambio in advance.
+
+The first deliberate test of the Marambio route, run once direct contact let Byrd's own planners actually
+arrange the exercise with Marambio's own dispatch office ahead of time, moved a modest trial shipment through
+the backup corridor specifically to confirm it would function if the primary Hwy 1 route were ever
+disrupted. The shipment completed successfully, considerably slower than the primary route but genuinely
+viable — the first time in either city's shared history that the fallback had actually been exercised on
+purpose rather than left as an unconfirmed contingency in a planning document.
+
+### The Weather Hold Belgrano Warned Marambio About in Time
+
+Marambio's own aviation scheduling had always depended on weather conditions Marambio's own crews observed
+directly, with no advance warning available from any other aviation hub facing comparable Southern Ocean
+conditions, since no channel existed for two aviation hubs this far apart to share live weather data at all.
+
+The first live weather-data exchange between Marambio and Belgrano, established once direct contact made it
+possible, gave Marambio's own dispatch office advance notice of a severe weather system tracked first at
+Belgrano's own Weddell Sea position, still developing toward the Peninsula. Marambio's own crews held a
+scheduled flight rather than risk departure into conditions the Belgrano data suggested were worsening faster
+than local observation alone had indicated — the first time either aviation hub had ever adjusted a schedule
+based on the other's own live conditions report.
+
+### The Bulk Shipment Esperanza Finally Tracked From Departure
+
+Marambio's own bulk cargo shipments to Esperanza, part of the established shipping division of labor between
+the two harbors, had always been tracked only from Esperanza's own end — confirmed on arrival, with no
+visibility into the shipment's own status during transit, since no channel existed for Esperanza's own
+dockworkers to actually follow a shipment's progress before it showed up.
+
+The first live in-transit tracking Esperanza ever received for an incoming Marambio shipment let Hope Bay
+Harbor's own staff prepare a receiving berth precisely timed to the shipment's own confirmed arrival window,
+rather than the rougher estimate the old system had always required. The delivery arrived within the
+confirmed window. The specific efficiency gained was modest. It represented, regardless, the first time either
+harbor's own staff had ever known exactly where a shipment was before it physically reached the dock.
+
+### The Argentine Delegation That Finally Included Marambio's Own Pilots
+
+Following the first three-way commemoration held jointly between Esperanza, Marambio, and Belgrano, a smaller
+follow-up gathering brought together specifically the aviation professionals from Marambio's and Belgrano's
+own Air Force-heritage founding communities — a group that had never had occasion to meet as a distinct
+delegation before the larger three-city observance made the connection between the two airfields visible in
+the first place.
+
+The gathering, held once direct contact let the two groups simply agree to meet, produced genuine personal
+connections between pilots and ground crew who'd spent their whole careers doing comparable work for cities
+that shared a founding heritage neither had ever had reason to actually discuss with counterparts who
+understood it directly. Several informal professional friendships, per what's remembered of the occasion,
+outlasted the gathering itself — the first personal, rather than purely operational, connections either
+airfield's own staff had ever formed with their genuine counterpart in the other subnet.
