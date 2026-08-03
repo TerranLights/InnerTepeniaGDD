@@ -15,7 +15,12 @@ batch's own placement: given the research station's ordinary attrition ran throu
 Buddhism's rediscovery is dated only to "mid-Second Interwar Period," both comfortably later than either
 Amundsen Tower completion candidate date, this batch's six entries are grounded in the JARE-descended research
 station era specifically — the community actually present at Dome Fuji when the Tower was completed, whichever
-candidate date eventually wins.)*
+candidate date eventually wins.)* **Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Troll,
+Sinheung, Sayowa, Mawson, Davis, Kunlun) — still grounded in the research-station era except the Kunlun entry,
+explicitly marked as a later-period development consistent with batch 2's own framing note. 18 done as of
+batch 3.**
 
 ---
 
@@ -219,3 +224,91 @@ all outside news always had, considerably after the fact and considerably second
 the chronic isolation, the same conditions that had always set Dome Fuji apart from the rest of Tepenia's own
 communications didn't change because a relay tower elsewhere had finally connected everyone else. Dome Fuji
 heard about the connection the same way it heard about everything: later, and through Sayowa.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Flight Troll's Own Dispatchers Finally Confirmed Before Departure
+
+Troll's own aviation route to Dome Fuji, one of the two independent supply lines the station depended on, had
+always departed on a fixed schedule regardless of Dome Fuji's own actual current need — confirmed only once
+the aircraft physically arrived, since no channel existed for the station to signal a specific requirement in
+advance.
+
+The first outbound confirmation Dome Fuji's own logistics staff ever sent to Troll before a scheduled flight's
+departure specified a genuine adjustment to that flight's own cargo manifest — a request Troll's own dispatch
+office received in time to actually act on, rather than after the aircraft had already been loaded and
+departed. The adjusted flight arrived carrying exactly what the station had actually needed that season,
+rather than the standard load the route had always defaulted to. It marked the first time in the route's own
+working history that Dome Fuji's own actual requirements had shaped a flight before it left the ground.
+
+### The Second Aviation Route Sinheung Finally Coordinated With the First
+
+Following Troll's and Sinheung's own joint scheduling session that ended years of duplicate deliveries, Dome
+Fuji's own receiving staff experienced the corrected schedule directly for the first time — two aviation
+routes that had always arrived independently now staggered deliberately, cargo divided between them rather
+than occasionally overlapping.
+
+Station staff, per what's preserved of the transition, noticed the change immediately in practical terms —
+genuine variety in what arrived on a given delivery, rather than the near-duplicate shipments the old
+uncoordinated schedule had periodically produced. Nobody at Dome Fuji had been consulted on the correction
+directly; the improvement simply arrived, the practical result of two other cities finally being able to
+compare notes about a station neither could reach except by air.
+
+### The Overland Request That Reached Sayowa Before the Season Turned
+
+Dome Fuji's own overland supply chain through Sayowa had always required requests to be submitted well in
+advance of the season a shipment was actually needed, given the genuine physical difficulty of the crossing —
+but confirmation that a given request had actually been received often arrived only once the shipment itself
+did.
+
+The first live confirmation Dome Fuji ever received from Sayowa, acknowledging a specific supply request the
+same day it was sent rather than leaving the station to wonder whether the request had gotten through at all,
+gave the logistics staff something genuinely new: certainty, months before a shipment's own scheduled
+departure, that the season's own supply plan was actually in motion. The uncertainty the old system had always
+required residents to simply tolerate was, for this one request, no longer necessary.
+
+### The Hub Coordination Session Dome Fuji Learned About After the Fact
+
+Following Mawson's own first three-way stress test coordinating Sayowa and Dome Fuji simultaneously, Dome
+Fuji's own station administration received a summary of the session considerably after it concluded — the
+station's own extreme-altitude Arcanet limitation meaning even a conversation specifically about Dome Fuji's
+own needs happened largely without real-time participation from the station itself.
+
+Station staff, per what's preserved of the reaction, found the arrangement unremarkable rather than
+frustrating — the same practical acceptance that governed how Dome Fuji related to nearly everything happening
+elsewhere in the connected country. The session's own outcome, once it reached the station, confirmed
+Mawson's own coordination had genuinely accounted for Dome Fuji's own requirements despite the station's own
+inability to participate directly — proof that being spoken for accurately, even without being present, still
+counted for something.
+
+### The Sediment Question Dome Fuji Actually Managed to Answer in Time
+
+Following Davis's own paleoclimate correspondence reaching Dome Fuji's research station, a specific follow-up
+question arrived with a genuine deadline attached — Davis's own researchers needed a comparison reading before
+a specific seasonal cutoff, the first time any outside correspondence to Dome Fuji had ever come with real time
+pressure attached.
+
+Dome Fuji's own researchers, per what's preserved of the response, managed to return the requested data before
+Davis's own deadline — a genuine logistical achievement given the station's own slow overland relay through
+Sayowa, requiring the response to be prepared and dispatched well ahead of the deadline to have any chance of
+arriving in time. The data arrived with days to spare. It stands as the first time Dome Fuji's own
+research correspondence had ever successfully met an outside institution's own actual timeline, rather than
+simply arriving eventually.
+
+### The Rediscovery Expedition's Own First Coordinated Departure, Later in the Same Era
+
+*(A later-period development, consistent with batch 2's own framing note — Ice Cold Buddhism's rediscovery of
+Dome Fuji postdates the Tower's completion by a considerable margin.)* When the first pilgrimage expedition
+toward the abandoned research station was eventually organized from Kunlun, its own departure logistics were
+coordinated using the same national connectivity that, by then, had existed for some time — a genuine
+contrast with the station's own earlier era, when nothing resembling real-time coordination reached this far
+into the interior at all.
+
+The expedition's own small size — fewer than twenty devotees — meant the coordination itself was modest, but
+its very possibility marked a genuine change from the station's own abandoned decades, when no comparable
+journey could have been planned with any confidence in real-time information about conditions along the route.
+What the expedition actually found, once it arrived, belongs to Dome Fuji's own later religious history. The
+planning itself belongs to the same connectivity story every other city in the country experienced, arriving
+here later, and differently, than everywhere else.
