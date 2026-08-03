@@ -8,7 +8,7 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Cape_Adare_Full_Extrapolation.md` (Tier 1), `Cape_Adare_Physical_Infrastructure_
 Attributes.md` and `Specs/Cape_Adare.md` (Tier 2), and `Cape_Adare_Cross_Reference_Synthesis.md` (Tier 3).
-**Batch 1 of many — target 30, 6 done as of this batch.**
+**Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -120,3 +120,91 @@ own genuine unpredictability. The completed road, once finished, became simply a
 Hwy 183's own established spur-access network — the genuine construction difficulty behind its completion
 largely forgotten by travelers who use the finished route today without any sense of how unevenly difficult
 the terrain along it actually was to build through.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Archive Consulted for a Structure That Wasn't a Hut
+
+*(Shortly before the Tower's completion.)* Cape Adare's own heritage documentation practice — Manalo's own
+insistence on precise, unhurried measurement that had become the archive's own founding standard — drew a
+formal inquiry late in the Tower's construction, from planners seeking guidance on how to properly document a
+massive, historically significant structure for the Federation's own lasting record
+(`Cape_Adare_Full_Extrapolation.md` Section I; Section VII).
+
+Cape Adare's own archivists, per what's remembered of the exchange, answered with the same unhurried
+thoroughness Manalo herself had insisted on generations earlier — precision worth taking real time over, even
+for a structure considerably larger and more consequential than a single preserved wooden hut. Whatever the
+Tower's own planners ultimately did with the guidance isn't part of what Cape Adare's own archive preserved.
+The instinct that had once redone a set of measurements simply because they weren't precise enough had, this
+time, been asked for directly rather than developed in isolation.
+
+### The Gateway That Received Ships Bound Somewhere Else Entirely
+
+*(Shortly before the Tower's completion.)* Cape Adare's own established role as the natural first stop for
+anyone approaching the Ross Sea coast from open ocean saw a specific, unusual increase in maritime traffic
+late in the Tower's construction — vessels stopping briefly at the accessible landfall point before continuing
+on toward destinations considerably further south than Cape Adare's own ordinary shipping ever reached
+(`Cape_Adare_Full_Extrapolation.md` Section III).
+
+Harbor staff, per what's recalled of the period, handled the traffic the same practical way the city's own
+founding population had once absorbed its own chance-arriving ships — accommodating whoever showed up,
+without requiring any prior coordination or explanation, the same improvised hospitality that had built the
+city's own gateway character in the first place. Most of the vessels stayed only briefly before continuing on.
+Cape Adare's own role, as it had always been, was simply being the reachable place people passed through on
+their way to somewhere else.
+
+### The Pet Rookery-Keepers Introduced to Strangers for the First Time
+
+*(Shortly before the Tower's completion.)* Cape Adare's own individual-penguin-keeping tradition, formalized
+generations earlier under Widjaja's own basic shared guidelines, became, briefly, something travelers passing
+through during the increased Tower-era maritime traffic actually encountered directly — residents introducing
+their own kept penguins to visitors who'd never seen the practice before
+(`Cape_Adare_Full_Extrapolation.md` Section VII).
+
+Residents, per what's remembered of these brief encounters, treated the visitors' own curiosity with the same
+plain, unshowy pride Widjaja's own guidelines had always assumed the practice deserved — not a performance for
+outsiders, simply an ordinary piece of daily life that happened, for a season, to have more witnesses than
+usual. The rookery itself remained exactly as undisturbed as the guidelines required. The individually kept
+birds, and the residents who kept them, simply had more strangers stop to notice for a while.
+
+### The Observance That Reached Listeners Who'd Never Heard of Borchgrevink
+
+*(Shortly after the Tower's completion.)* St. Carsten's Landing, observed every February 17 since its own
+founding-era formalization, was carried for the first time to listeners elsewhere in the newly connected
+country — people encountering, for the first time, the story of the 1899 landing Cape Adare's whole civic
+identity had grown up around (`Cape_Adare_Full_Extrapolation.md` Section II).
+
+Residents marking the observance that year, per what's recalled of it, changed nothing about how it was
+conducted — the same modest, historically conscious commemoration the first formal marking had established
+generations earlier, offered without alteration to an audience encountering the story for the first time.
+Cape Adare's own residents had always lived beside the specific weight of being "the place where Antarctica's
+human story began." For the first time, people elsewhere in the country got to hear exactly what that weight
+actually meant.
+
+### The Precision Standard Another City's Archivists Finally Asked About
+
+*(Shortly after the Tower's completion.)* Manalo's own re-survey methodology — the unhurried, exacting
+documentation standard that had become Cape Adare's own archive's founding discipline — reached, for the first
+time, archivists at other historically significant Tepenian sites, who reached out directly once the newly
+unified relay made the inquiry possible (`Cape_Adare_Full_Extrapolation.md` Section I).
+
+Cape Adare's own archivists, per what's remembered of the exchange, shared the methodology plainly, the same
+way Manalo herself had always treated precision as a standard worth explaining rather than guarding. Whether
+other cities' own heritage archives actually adopted the approach isn't part of what Cape Adare's own records
+preserved. What the inquiry confirmed, for the first time, was that a documentation standard built to preserve
+one small wooden hut had traveled far enough to matter to archivists preserving something else entirely.
+
+### The Gateway That Finally Knew What Was Coming
+
+*(Shortly after the Tower's completion.)* Cape Adare's own harbor, previously receiving maritime traffic with
+whatever notice a given vessel's own arrival happened to provide, began receiving advance word of incoming
+ships and their own scheduling needs before the vessels actually departed their point of origin — coordination
+that had never been possible when news of a ship's own timing traveled no faster than the ship itself
+(`Cape_Adare_Full_Extrapolation.md` Section III).
+
+Harbor staff, per what's recalled of the change, found themselves able to prepare for expected arrivals rather
+than simply responding to whoever showed up — a genuine departure from the same improvised, chance-based
+hospitality that had defined the city's own gateway character since its founding. The gateway itself hadn't
+changed. For the first time, though, it could see a little further down the coast than its own harbor.
