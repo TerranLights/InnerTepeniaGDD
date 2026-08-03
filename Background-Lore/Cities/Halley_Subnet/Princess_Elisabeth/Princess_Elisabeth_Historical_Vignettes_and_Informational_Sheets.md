@@ -8,8 +8,11 @@ Physical_Infrastructure_Attributes.md`'s 13 attributes and its Cross-Referenced 
 `Princess_Elisabeth_Cross_Reference_Synthesis.md`. **Note:** this city's own source material leans heavily
 toward its DLC 5 ruins/destruction framing (that's the file's own explicit focus), but this pass is about the
 Second Interwar Period's lived history, not a second pass at the war — entries below deliberately favor the
-city's founding-era engineering and daily operation over its eventual destruction. **Batch 1 of many — target
-30, 6 done as of this batch.**
+city's founding-era engineering and daily operation over its eventual destruction. **Batch 2 (below the
+divider) is framed around the Amundsen Tower's own completion, per direct developer instruction 2026-08-03: 3
+entries shortly before completion, 3 shortly after — once the whole country was connected through the
+Tower's single relay node for the first time. The Tower's own exact completion date stays deliberately
+unpinned in prose. Target 30, 12 done as of this batch.**
 
 ---
 
@@ -138,3 +141,121 @@ noticed at the time — most only learning afterward that surface generation had
 test's own success is, per what's remembered of the era, the specific reason the Reserve was treated from
 that point on as genuine infrastructure the city could actually depend on, not simply an expensive
 contingency nobody had confirmed would work.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Delegation That Came for the Flywheel, Not the City
+
+*(Shortly before the Tower's completion.)* The Amundsen Tower's own primary function, energy regulation
+through a continent-spanning flywheel mechanism, shared a genuine technical kinship with the Underground
+Reserve's own flywheel/battery/thermal storage system — a resemblance that drew a specific engineering
+delegation to Princess Elisabeth well before most of the country had any reason to think about the city at
+all.
+
+The delegation, per what's preserved of the visit's own record, arrived specifically to study the Reserve's
+own load-balancing behavior — the same kind of practical, small-scale flywheel engineering the Tower's own
+vastly larger mechanism would need to replicate at a scale nobody in Tepenia had previously attempted.
+Maintenance Corps staff, per what's remembered of the exchange, walked the visiting engineers through the
+Reserve's own systems with the same unglamorous, matter-of-fact thoroughness the Corps applied to its own
+ordinary work — genuinely useful technical exchange rather than any sense of occasion, even though the
+visitors were, without either side fully realizing it at the time, gathering knowledge that would help
+regulate power for the entire country. The specific technical findings the delegation carried back aren't
+preserved in detail, but the visit itself is remembered locally as the first confirmation that Princess
+Elisabeth's own founding-era engineering mattered somewhere far beyond its own city limits.
+
+---
+
+## The Corridor That Carried Something Heavier Than Usual
+
+*(Shortly before the Tower's completion.)* The Dome Fuji routing corridor, established as ordinary
+transportation infrastructure rather than anything devotional, carried a genuinely unusual shipment through
+Princess Elisabeth in the final stretch before the Tower's completion — equipment considerably heavier and
+more specialized than the corridor's own typical traffic.
+
+Residents who happened to see the convoy pass through, per what's preserved of the period's own informal
+accounts, noted the unusual scale of the shipment without knowing precisely what it was or where beyond Dome
+Fuji it might ultimately be headed — the corridor's own established, unremarkable character meaning nobody
+treated the passing convoy as anything worth investigating closely. The convoy's own drivers, per what's
+remembered of a brief exchange with local resupply staff, mentioned only that the cargo was "for the project
+everyone's talking about," offering no further detail before continuing on. The moment is remembered locally
+now mostly as a small, specific confirmation that Princess Elisabeth's own quiet crossroads position was,
+however briefly, part of the physical route by which pieces of the Tower itself actually reached their
+destination.
+
+---
+
+## The Founders' Turbine Inspection Held Under a Different Kind of Attention
+
+*(Shortly before the Tower's completion.)* One specific Founders' Turbine observance, held as the Tower's own
+completion drew genuinely close, carried a different tone than the ordinary annual inspection — residents,
+per what's preserved of the occasion, found themselves discussing the approaching national relay throughout
+the public inspection itself rather than focusing purely on the anchoring and aerodynamic systems the
+observance existed to verify.
+
+The inspection crew, per what's remembered of the event, completed the check with its own usual thoroughness
+regardless of the surrounding conversation, consistent with the observance's own founding-era discipline of
+treating the public verification as non-negotiable regardless of whatever else was happening in the wider
+world. Several residents, per what's preserved of informal accounts from the day, remarked that watching their
+own founding-era survival engineering confirmed sound felt different with a genuinely new kind of national
+project nearing completion elsewhere — a specific, dated instance of the observance's own quiet ritual
+intersecting, for the first time, with news of something happening well beyond Princess Elisabeth's own
+usual concerns.
+
+---
+
+## The Question From Amundsen Station That Finally Got an Answer
+
+*(Shortly after the Tower's completion.)* The technical delegation that had visited Princess Elisabeth before
+the Tower's completion to study the Underground Reserve's own flywheel behavior sent a follow-up inquiry once
+the Tower was operational — a specific technical question the completed system's own real-world performance
+had raised, one the pre-completion visit hadn't been able to anticipate.
+
+The inquiry, arriving through the newly completed relay rather than requiring another physical visit, asked
+Maintenance Corps staff about a specific load-response pattern the Reserve had exhibited under conditions the
+Tower's own vastly larger mechanism was now also encountering at its own scale. Corps staff, per what's
+preserved of the response, provided detailed technical data drawn from decades of the Reserve's own
+operational history — the same unglamorous thoroughness the original delegation had encountered in person, now
+delivered instantly rather than requiring a return visit. The exchange is remembered locally as confirmation
+that the connection formed during the original delegation's visit hadn't been a one-time curiosity — Princess
+Elisabeth's own founding-era engineering had become, quietly, an ongoing technical resource for the facility
+regulating the whole country's power.
+
+---
+
+## The Dish That Traveled Further Than Either Community Expected
+
+*(Shortly after the Tower's completion.)* The Crossing's own food-exchange tradition, born from one crew's
+spontaneous gesture during a shared maintenance shift, reached an audience outside Princess Elisabeth for the
+first time once the completed relay let word of local observances travel to parts of Tepenia that had never
+previously had any reason to hear about them.
+
+A resident, describing The Crossing's own history in casual correspondence with a contact in a distant
+subnet, included a specific recipe from the tradition's own American-community half — met with genuine
+interest from the correspondent, who requested more detail and, per what's preserved of the exchange,
+apparently attempted the dish themselves based on the description alone. The specific outcome of that attempt
+isn't preserved, but the exchange itself is remembered locally as a small, quietly pleasing confirmation that
+a tradition born from an unplanned gesture between two communities sharing close quarters could still mean
+something to people who'd never shared anything with either community at all.
+
+---
+
+## The Corps That Started Fielding Questions From Strangers
+
+*(Shortly after the Tower's completion.)* The Maintenance Corps, whose entire institutional value had always
+rested on quiet, unglamorous vigilance nobody above ground needed to think about, began receiving occasional
+technical inquiries from residents of distant cities once the completed relay made casual contact with
+Princess Elisabeth possible for people who'd never had any prior reason to know the Corps existed.
+
+Most inquiries, per what's preserved of the pattern that emerged, came from residents in other cities working
+on comparable buried-infrastructure or energy-storage systems of their own, curious about the Corps' own
+established methodology for catching marginal readings before they became genuine faults — the same
+discipline Joos Kaminari's own vigilance had once demonstrated internally now drawing interest from outside
+the city entirely. Corps staff, per what's remembered of the response pattern, answered these inquiries with
+the same matter-of-fact thoroughness applied to everything else the institution did, treating outside
+curiosity as simply one more category of routine correspondence rather than anything requiring special
+acknowledgment — an institution built on invisibility becoming, gradually and without any deliberate effort
+to seek it out, quietly known beyond its own city for the first time in its history.
