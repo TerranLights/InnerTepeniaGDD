@@ -1,0 +1,2892 @@
+/// BG3 FREE-FLOW DRAFTING SPACE ///
+/// Working from Reference/bg3-triage-01 through 05 (completed triage) + the framework doc, ///
+/// Game-Mechanics/Perks/BG3_Conversion_Basis_of_Translation.md. Names marked (placeholder) are ///
+/// AI-proposed and not developer-chosen — flag on every reuse per established convention. ///
+/// Numbers below are illustrative drafts, not locked/balanced — free-flow stage, not final. ///
+/// Once an idea feels solid, move/copy the cleaned version into DRAFT_Perks.txt (Level-Up or ///
+/// Challenge section) or DRAFT_Traits.txt. ///
+
+
+		/// CANTRIPS → QUICKHACKS (9 of 25, per bg3-triage-01) ///
+		/// All delivered via jack-in per Core-Mechanics/Hacking_and_Traceability_System.md. ///
+		/// Draft cost/cooldown pattern: 2 AP, 2-3 turn cooldown (not resource-gated, per the ///
+		/// framework's cantrip-specific ruling: "quickhacks with a cooldown, not a resource cost"). ///
+
+
+"Reactive Plating Pulse" (placeholder, not developer-chosen) — from Blade Ward
+  Diegetic: brief nanoweave/reactive-plating surge routed through the jack-in link.
+  Effect: -50% incoming Bludgeoning/Piercing/Slashing for 2 turns (self or one ally in jack-in range).
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: cleanest 1:1 conversion in this batch — BG3's own numbers (half damage, 2 turns) carry over
+  almost untouched, only the delivery method changed (spell → jack-in pulse).
+
+"Rapport Spike" (placeholder, not developer-chosen) — from Friends
+  Diegetic: short-range neural-flattery/pheromone-compound pulse, Enchantment's diegetic default.
+  Effect: target NPC's disposition improves for the duration (non-hostile targets only); on
+  expiry OR if the target later realizes they were manipulated, real downside — reputation hit,
+  possible hostility, matches BG3's own "-10 approval when it wears off" + Tactician+ "considered
+  a crime" framing almost exactly.
+  Cost: 2 AP. Cooldown: 3 turns. Non-combat-lean use case (dialogue/social encounters).
+  Open question: should this actually be a Speech/Deception skill-gated perk instead of a flat
+  quickhack, given how narrative-facing it is? Flagging for the actual conversion pass, not
+  resolved here.
+
+"Overwatch Assist" (placeholder, not developer-chosen) — from Guidance
+  Diegetic: Bridge Unit coaching/analysis pulse, live-feeding pattern-recognition to the target.
+  Effect: lowers one specific skill check's effective threshold for the target by a flat amount
+  for the duration — same logic Skills.md already uses for "companion presence extends the
+  detection floor," just temporary and jack-in-delivered instead of passive.
+  Cost: 2 AP. Cooldown: 2 turns. Repeatable per BG3's own "repeatable" note.
+
+"Micro-Drone Deploy" (placeholder, not developer-chosen) — from Mage Hand
+  Diegetic: Conjuration's drone-deployment default — a small remote manipulator drone launched
+  through the jack-in link.
+  Effect: deploys a Tiny drone (low HP, no combat relevance) that can grab/shove/throw small
+  objects at range without the player closing distance. Can't target characters/items directly
+  (matches BG3's own restriction).
+  Cost: 2 AP to deploy. Cooldown: long (BG3's own "1/Short Rest" pace — translate to something
+  like 1/scene or a multi-turn cooldown well past combat length; exact number TBD).
+  Note: mostly a utility/puzzle tool, not a combat quickhack — low priority for a first
+  implementation pass but cheap to build once the drone-deployment tech exists for other entries
+  (see Conjure Minor Elemental, Grasping Vine, etc. in the Level 4 triage — this could share tech).
+
+"Holo-Decoy" (placeholder, not developer-chosen) — from Minor Illusion
+  Diegetic: holographic decoy/noise-maker projector — Illusion's diegetic default, one of the
+  framework's own named examples.
+  Effect: projects a small illusory disturbance that compels nearby enemies/NPCs to investigate/
+  turn toward it (out of combat: draws attention away from the player; in combat: same, weaker
+  version). Castable while hidden; doesn't break the player's own stealth. Can't target
+  characters/items.
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: strong overlap with existing Stealth/Sneak-adjacent gameplay — worth checking whether
+  this duplicates something already in the stealth/detection system once that's designed (see
+  TODO.md's "Sneaking and line-of-sight" backlog item — currently undesigned, so no conflict yet).
+
+"Adaptive Shielding Pulse" (placeholder, not developer-chosen) — from Resistance (cantrip)
+  Diegetic: Abjuration's diegetic default, same family as Reactive Plating Pulse above but tuned
+  for a single chosen damage/status category rather than the fixed physical trio.
+  Effect: raises the target's resistance threshold against one chosen damage type (per
+  Damage_Types.md) or status-effect category for the duration.
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: pairs naturally with Reactive Plating Pulse above — consider whether these should actually
+  be two ranks of the same quickhack (fixed physical resistance vs. flexible single-type choice)
+  rather than two separate quickhacks. Flagging, not deciding here.
+
+"Subvocal Modulator" (placeholder, not developer-chosen) — from Thaumaturgy
+  Diegetic: Transmutation's chem-stim/cyberware lens — a subvocal resonance booster.
+  Effect: improves Speech/Deception-flavored intimidation and Performance checks for the
+  duration.
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: same open question as Rapport Spike above — narrative-facing enough that a skill-gated
+  perk might fit better than a flat quickhack. Consider drafting both versions and letting actual
+  playtesting/design decide.
+
+"Targeting Lock" (placeholder, not developer-chosen) — from True Strike
+  Diegetic: smart-scope calibration / Bridge Unit target-lock pulse.
+  Effect: boosts the player's next ranged attack's hit-chance or aimed-shot precision — direct
+  hit on Skills.md's one legitimate combat-RNG context. Consumed after the first attack made
+  while active (matches BG3's own "consumed after first attack" rule).
+  Cost: 2 AP. Cooldown: 2 turns.
+  Note: probably the single most mechanically load-bearing quickhack in this batch, since it's
+  the only one that touches the game's actual RNG — worth extra playtesting attention once this
+  reaches real implementation.
+
+"Psy-Audio Harassment" (placeholder, not developer-chosen) — from Vicious Mockery
+  Diegetic: targeted infrasound/psy-audio pulse, or a jack-in insult-injection if delivered
+  directly rather than at range — Enchantment/Psychic's diegetic default.
+  Effect: minor Psychic/Neural damage (Damage_Types.md) plus, on a failed flat Nerve/Humanity
+  resistance threshold (Section 3's saving-throw substitution), degrades the target's next
+  attack accuracy for 1 turn.
+  Cost: 2 AP. Cooldown: 2 turns.
+  Note: the one quickhack in this batch that deals damage — worth double-checking it doesn't
+  functionally duplicate a Signal Weapon basic attack once that weapon category is fleshed out
+  (Hacking_and_Traceability_System.md references Signal Weapons but doesn't yet have concrete
+  numbers to compare against).
+
+
+		/// Feats & Remaining Cantrips (item-outcome) ///
+
+		/// FEATS → LEVEL-UP PERKS (53 of 53, per bg3-triage-01 — all landed Outcome 2) ///
+		/// Requirements use MACHINE stat abbreviations per Regular_Perks_-_Level-Up.md: M Might · A Agility · ///
+		/// C Calculation · H Humanity · I Investigation · N Nerve · E Engine. Skill names per Skills.md's ///
+		/// 26-skill list. Where the triage file flags a stat-bump overlap with Intense Training ///
+		/// (Permanent_MACHINE_Stat_Increases.md, Mechanism 1), that half is explicitly NOT re-drafted here — ///
+		/// only the genuinely new content gets a perk write-up. ///
+
+
+"— (no new perk)" — from Ability Improvement
+  Note: entirely covered already. Ability Improvement's whole scope (+2 to one ability score, or +1 to two)
+  is Intense Training (`Permanent_MACHINE_Stat_Increases.md`, Mechanism 1 — up to 10 ranks, +1 to any one
+  MACHINE stat per rank, hard cap 10), already live in `Regular_Perks_-_Level-Up.md`'s Growth/Learning
+  category. Logging this per the developer's retention policy (nothing silently dropped) rather than
+  skipping the entry — there is genuinely no new content to draft.
+
+"Method Actor" (placeholder, not developer-chosen) — from Actor
+  Gate: H 5, Speech 30 OR Performance 30.
+  Diegetic: trained social-engineering specialization — reading a room and adopting a role convincingly,
+  a rehearsed technique rather than raw charisma.
+  Effect: flat +15 skill-point injection split between Speech and Performance (retargets BG3's own
+  "expertise in Deception and Performance" per the triage note's Speech read), plus unlocks a "play the
+  part" dialogue option letting the player claim a false profession/identity convincingly in conversation.
+  Note: the Charisma+1 half is already covered by Intense Training (Humanity) — not re-drafted here.
+
+"Threat-Response Conditioning" (placeholder, not developer-chosen) — from Alert
+  Gate: N 6.
+  Diegetic: reflex-conditioning/threat-response training — nervous system (or threat-detection
+  subroutines, for a robot) drilled to react before conscious thought catches up.
+  Effect: always wins initiative entering a new encounter; cannot be caught by an ambush-triggered
+  surprise round — any attempted ambush against the player resolves as a normal encounter start instead.
+  Cost: passive, always-on, no AP cost.
+
+"Kinesthetic Recovery Training" (placeholder, not developer-chosen) — from Athlete: Standing Up
+  Gate: M 5, Athletics 30.
+  Diegetic: physical-conditioning payoff — trained fall-recovery and explosive-movement technique.
+  Effect: standing up from prone/downed costs 1 less AP (minimum 1 AP); jump distance +50%.
+  Note: the Strength/Dexterity+1 half is already covered by Intense Training — this is the standalone
+  movement-tech content only.
+
+"Committed Charge (Strike)" (placeholder, not developer-chosen) — from Charger: Weapon Attack
+  Gate: M 6, Blunt Melee 40 OR Bladed Melee 40.
+  Diegetic: covering ground and striking in one committed motion — momentum converted directly into
+  impact force.
+  Effect: move up to full movement range, then make a melee attack for bonus damage, without triggering
+  any enemy reactive attack. Replaces BG3's Action+Bonus Action combo with the attack's normal AP cost
+  + 1 extra AP for the charge component.
+  Cost: normal melee attack AP + 1.
+
+"Committed Charge (Displacement)" (placeholder, not developer-chosen) — from Charger: Shove
+  Gate: M 6, Athletics 40.
+  Diegetic: the same charging technique resolved as a forced-displacement shove rather than a strike.
+  Effect: move up to full movement range, then shove the first enemy contacted, without triggering
+  reactive attacks; shove distance scales with Might vs. target mass, per the existing physical-contest
+  logic.
+  Cost: normal shove AP + 1.
+  Note: shares its chassis with "Committed Charge (Strike)" above — could plausibly be two ranks of one
+  perk instead of two separate perks. Flagging, not deciding here.
+
+"Close-Quarters Mechanical Handling" (placeholder, not developer-chosen) — from Crossbow Expert: Point-Blank
+  Gate: Mechanical Weapons 40.
+  Diegetic: trained close-quarters handling of a weapon class built for distance — compensating for a
+  spring/mechanical weapon's normal minimum-effective-range design.
+  Effect: removes the point-blank accuracy penalty for Mechanical Weapons-category ranged attacks.
+  Cost: passive, no AP cost.
+
+"Wound-Tuned Ammunition" (placeholder, not developer-chosen) — from Crossbow Expert: Wounding
+  Gate: Mechanical Weapons 55.
+  Diegetic: a called-shot/ammo-tuning specialization — deliberately shaped bolts/darts that tear rather
+  than puncture cleanly.
+  Effect: doubles the duration of any Piercing-inflicted bleed/wound DoT (`Damage_Types.md`) when the
+  damage source is a Mechanical Weapons-category weapon.
+  Cost: passive, no AP cost.
+
+"Fencer's Reflex" (placeholder, not developer-chosen) — from Defensive Duellist
+  Gate: A 7, Bladed Melee 50.
+  Diegetic: trained fencing reflex — a practiced parry/deflection, not a random reaction.
+  Effect: a successful melee parry/deflection against an incoming melee attack adds a flat defense bonus
+  against the very next hit that turn.
+  Cost: triggered reactively, no AP cost.
+
+"Twin-Weapon Discipline" (placeholder, not developer-chosen) — from Dual Wielder
+  Gate: M 6, A 6.
+  Diegetic: trained two-weapon fighting extended beyond light weapons.
+  Effect: unlocks full two-weapon fighting with non-light Blunt/Bladed Melee weapons (normally restricted
+  to light weapons only).
+  Cost: passive, no AP cost.
+
+"Twin-Weapon Parry Surface" (placeholder, not developer-chosen) — from Dual Wielder: Bonus Armour Class
+  Gate: requires Twin-Weapon Discipline above; no separate stat gate.
+  Diegetic: two live weapons in hand create a larger parry surface than one weapon and an empty off-hand.
+  Effect: small flat defense bonus while fighting with a melee weapon in each hand.
+  Cost: passive, no AP cost.
+
+"Trained Attention" (placeholder, not developer-chosen) — from Dungeon Delver: Perception
+  Gate: I 6.
+  Diegetic: layered on Investigation's existing flat-threshold detection law — not a new roll, a
+  lowered/removed detection threshold for a specific category.
+  Effect: automatically reveals hidden objects/caches and structural hazards within normal inspection
+  range, no separate Investigation check needed for that category specifically.
+  Cost: passive, no AP cost.
+
+"Hazard Conditioning" (placeholder, not developer-chosen) — from Dungeon Delver: Resist Traps
+  Gate: E 6.
+  Diegetic: Engine-adjacent physical toughening against sudden shocks (blast, crush, jolt).
+  Effect: flat percentage reduction to damage from environmental/structural hazards (rigged doors,
+  industrial traps, pressure plates).
+  Cost: passive, no AP cost.
+
+"Nanite Recovery Cycle" (placeholder, not developer-chosen) — from Durable
+  Gate: E 6.
+  Diegetic: self-repair-nanite/metabolic recovery specialization.
+  Effect: full HP restored on any downtime/rest-equivalent, rather than the normal partial recovery.
+  Note: the Constitution+1 half is already covered by Intense Training — only the full-recovery content
+  is new.
+
+"Calibrated Payload" (placeholder, not developer-chosen) — from Elemental Adept
+  Gate: C 7, Chemistry 50 OR Energy Weapons 50.
+  Diegetic: ammunition/energy-cell calibration expertise, tuned to bypass a specific target's resistance
+  to one damage type.
+  Effect: choose one damage type from `Damage_Types.md` (e.g., Fire/Thermal, Acid, Lightning, Cold,
+  Thunder). Weapons/ammo of that type ignore target resistance to it and never roll below their damage
+  floor against that type.
+  Cost: passive once chosen, no AP cost.
+
+"Momentum Chain" (placeholder, not developer-chosen) — from Great Weapon Master: Bonus Attack
+  Gate: M 7, Blunt Melee 55 OR Bladed Melee 55 (heavy/two-handed weapons).
+  Diegetic: momentum-driven combat chaining — a kill or crit carries enough follow-through to swing
+  again immediately.
+  Effect: a kill or critical hit with a heavy two-handed melee weapon grants one free follow-up attack
+  that same turn, no additional AP cost.
+  Cost: free, triggered.
+
+"Overcommitted Swing" (placeholder, not developer-chosen) — from Great Weapon Master: All In
+  Gate: M 7, Blunt Melee 50 OR Bladed Melee 50.
+  Diegetic: a deliberate overcommit switched on per swing — trading precision for raw force.
+  Effect: toggleable stance for two-handed melee weapons: flat accuracy penalty in exchange for flat
+  bonus damage while active.
+  Cost: no AP cost to toggle; applies per attack while active.
+
+"Heavy Plating Certification" (placeholder, not developer-chosen) — from Heavily Armoured
+  Gate: M 7 (requires Medium Plating Certification, below).
+  Diegetic: certified handling of heavy exosuit-class plating without the normal mobility/AP tax an
+  untrained wearer pays.
+  Effect: unlocks proficient heavy armor/exosuit-class plating use without its normal mobility/AP penalty.
+  Note: the Strength+1 half is already covered by Intense Training.
+
+"Reinforced Plating Mastery" (placeholder, not developer-chosen) — from Heavy Armour Master
+  Gate: M 8 (requires Heavy Plating Certification above).
+  Diegetic: layers on the existing DT/DR system (`Damage_Types.md`) — the plating absorbs more, not the
+  wearer.
+  Effect: flat reduction to incoming Bludgeoning/Piercing/Slashing damage while wearing heavy armor.
+  Note: the Strength+1 half is already covered by Intense Training.
+
+"Light Plating Certification" (placeholder, not developer-chosen) — from Lightly Armoured
+  Gate: A 5.
+  Diegetic: trained light-armor handling that avoids the usual stealth/mobility tax.
+  Effect: unlocks proficient light-armor use without its stealth/mobility penalty.
+  Note: the Might/Dexterity+1 half is already covered by Intense Training.
+
+"Margin of Error" (placeholder, not developer-chosen) — from Lucky
+  Gate: none (Level 2, universal — mirrors Intense Training's own no-stat-gate precedent). One of the
+  cleanest conversions in the set.
+  Diegetic: a direct hit on the one place the game tolerates randomness — Inner Tepenia's ranged-combat
+  hit-chance/aimed-shot system (`Skills.md`).
+  Effect: gain 3 charges (recharging on rest-equivalent downtime); spend one to force a re-roll of a
+  missed ranged shot, or to guarantee a landed hit on the current attack.
+  Cost: 1 charge per use, no AP cost beyond the attack itself.
+
+"Counter-Hack Resistance" (placeholder, not developer-chosen) — from Mage Slayer: Saving Throw Advantage
+  Gate: N 7.
+  Diegetic: anti-hacker melee training — conditioning against having your own systems hijacked mid-brawl.
+  Effect: while in melee range of an enemy actively running a Signal Weapon/quickhack-style effect, gain
+  a flat resistance bonus against that effect landing (Section 3's flat-threshold substitution).
+  Cost: passive, no AP cost.
+
+"Exposed Circuit Punish" (placeholder, not developer-chosen) — from Mage Slayer: Attack Caster
+  Gate: N 7, Bladed Melee 40 OR Blunt Melee 40.
+  Diegetic: punishes an enemy caught mid-activation, exposed and immobile while running a hack.
+  Effect: a free reactive melee strike against an enemy actively triggering a jack-in/Signal Weapon
+  effect within melee range.
+  Cost: free, triggered (reaction), no AP cost.
+
+"Interface Disruption" (placeholder, not developer-chosen) — from Mage Slayer: Break Concentration
+  Gate: N 6, Bladed Melee 40 OR Blunt Melee 40.
+  Diegetic: battlefield disruption specialization — a solid hit rattles whatever active effect the
+  target is sustaining.
+  Effect: melee hits against an enemy currently running a sustained "active effect" (Section 3's
+  Concentration-equivalent) reduce that effect's odds of surviving the hit.
+  Cost: passive, applies automatically on a landed melee hit.
+
+"Cross-Training: Narrative Arts" (placeholder, not developer-chosen) — from Magic Initiate: Bard
+  Gate: H 6, Speech 30 OR Performance 30.
+  Diegetic: cross-training into the social-engineering kit.
+  Effect: unlocks two Speech/Deception-flavored quickhacks (or quickhack-equivalent social techniques)
+  plus one limited-use (rest-gated) Narrative/Performance-tier ability, all Humanity-governed rather than
+  gated behind any "class."
+  Note: the two specific quickhacks and the limited-use ability are TBD in the actual quickhack-menu
+  design pass — flagging the slot and its gate here, not naming the techniques.
+
+"Cross-Training: Field Medicine" (placeholder, not developer-chosen) — from Magic Initiate: Cleric
+  Gate: I 6, Medicine 30.
+  Diegetic: cross-training into field medicine.
+  Effect: unlocks two Medicine-flavored quickhacks plus one limited-use biotech stabilization ability,
+  Investigation-governed.
+  Note: same TBD flag as Cross-Training: Narrative Arts above.
+
+"Cross-Training: Field Biology" (placeholder, not developer-chosen) — from Magic Initiate: Druid
+  Gate: E 6, Survival 30 OR Outdoorsman 30.
+  Diegetic: cross-training into survival/field biology.
+  Effect: unlocks two Survival/Biology-flavored quickhacks plus one limited-use environmental-hazard
+  ability, Engine-governed.
+  Note: same TBD flag as above.
+
+"Cross-Training: Innate Interface Affinity" (placeholder, not developer-chosen) — from Magic Initiate: Sorcerer
+  Gate: C 6. Deliberately no skill gate — reflects raw aptitude, not training.
+  Diegetic: unusually strong natural Bridge Unit affinity rather than trained hacking.
+  Effect: unlocks two jack-in-delivered quickhacks plus one limited-use Signal Weapon-tier ability.
+  Note: same TBD flag as above.
+
+"Cross-Training: Nanotech Undercurrent" (placeholder, not developer-chosen) — from Magic Initiate: Warlock
+  Gate: C 6, N 6.
+  Diegetic: cross-training into the nanotech/Scorpio-Aquarius dark-tech kit.
+  Effect: unlocks two Necromancy-lens quickhacks (nanite/bio-agent debuffs) plus one limited-use
+  higher-risk ability.
+  Note: kept dark per the framework's explicit instruction not to sanitize Necromancy-lens material; same
+  TBD flag as above for the specific techniques.
+
+"Cross-Training: Studied Hacking" (placeholder, not developer-chosen) — from Magic Initiate: Wizard
+  Gate: C 6, Hacking 30.
+  Diegetic: the "book-learned" counterpart to Cross-Training: Innate Interface Affinity above — studied
+  hacking rather than innate affinity.
+  Effect: unlocks two Hacking/Cryptography-flavored quickhacks plus one limited-use Calculation-governed
+  ability.
+  Note: same TBD flag as above.
+
+"Combat Maneuver Cache" (placeholder, not developer-chosen) — from Martial Adept
+  Gate: M 6 OR A 6, Blunt Melee 40 OR Bladed Melee 40 OR Guns 40.
+  Diegetic: trained technique, not raw damage — a small learned repertoire of combat maneuvers.
+  Effect: unlocks two chosen combat maneuvers (trip, disarm, called shot) usable via a small AP-surge
+  charge pool (2 charges, recharging on rest-equivalent downtime).
+  Cost: 1 charge + normal attack AP per maneuver use.
+
+"Fitted Plating Mastery" (placeholder, not developer-chosen) — from Medium Armour Master
+  Gate: A 6 (requires Light Plating Certification above).
+  Diegetic: better-fitted plating, not heavier plating.
+  Effect: removes medium armor's Sneak penalty; improves its Agility-derived defense bonus.
+  Cost: passive, no AP cost.
+
+"Servo-Assisted Mobility" (placeholder, not developer-chosen) — from Mobile
+  Gate: A 6, Acrobatics 40.
+  Diegetic: exosuit servo/leg-cyberware conditioning (Transmutation's stim/augmentation lens).
+  Effect: flat movement-speed increase; no penalty from rough terrain; no reactive attacks triggered
+  when disengaging after a melee strike.
+  Cost: passive, no AP cost.
+
+"Medium Plating Certification" (placeholder, not developer-chosen) — from Moderately Armoured
+  Gate: A 5 (requires Light Plating Certification above).
+  Diegetic: certified step up from light plating.
+  Effect: unlocks proficient medium-armor and shield use.
+  Note: the Strength/Dexterity+1 half is already covered by Intense Training.
+
+"Instrumentalist's Ear" (placeholder, not developer-chosen) — from Performer
+  Gate: H 5, Performance 20.
+  Diegetic: ties directly into the Performance skill (Humanity-governed, added 2026-07-28).
+  Effect: grants a starting/bonus instrument item (if not already owned via Tagging Performance) plus a
+  flat +10 skill-point injection into Performance.
+  Note: the Charisma+1 half is already covered by Intense Training.
+
+"Reach Weapon Counterswing" (placeholder, not developer-chosen) — from Polearm Master: Bonus Attack
+  Gate: M 6, Blunt Melee 40 (reach-weapon builds).
+  Diegetic: using the weapon's rear end as a second striking surface.
+  Effect: bonus reach-weapon strike using the weapon's rear end, at a small extra AP cost rather than a
+  free Bonus Action.
+  Cost: 2 AP.
+
+"Extended Threat Range" (placeholder, not developer-chosen) — from Polearm Master: Opportunity Attack
+  Gate: M 6, Blunt Melee 50 (requires Reach Weapon Counterswing above).
+  Diegetic: reach weapons threaten their entire extended range, not just melee contact.
+  Effect: reach weapons get a reactive strike against any enemy entering their extended range, not just
+  enemies leaving melee.
+  Cost: free, triggered (reaction).
+
+"Targeted Resistance Conditioning" (placeholder, not developer-chosen) — from Resilient
+  Gate: N 6; choose one status-effect category at the moment the perk is taken.
+  Diegetic: genuinely new content, not a duplicate of Ability Improvement — deliberate conditioning
+  against one specific status-effect family.
+  Effect: flat resistance bonus against one chosen status-effect category. Uses BG3's own condition names
+  as a working placeholder, per the framework's Section 5 flag that Inner Tepenia has no centralized
+  condition taxonomy yet.
+  Note: the stat+1 half is already covered by Intense Training — only the resistance-bonus half is new.
+
+"Field Utility Cache" (placeholder, not developer-chosen) — from Ritual Caster: Free Spells
+  Gate: C 6. Non-combat only, per Section 3's ritual-casting rule.
+  Diegetic: mapped through the ritual-casting substitution — zero AP/resource cost, unusable mid-combat.
+  Effect: access to two out-of-combat utility quickhacks from a small menu — e.g., a forensic
+  data-recovery scan on a corpse/black-box, a temporary mobility stim, or a holographic disguise overlay.
+  Cost: zero AP, non-combat only.
+
+"Consistent Impact Training" (placeholder, not developer-chosen) — from Savage Attacker
+  Gate: M 6, Blunt Melee 40 OR Bladed Melee 40.
+  Diegetic: deterministic translation per `Skills.md`'s no-dice-rolls law — preserves the "more
+  consistent high melee damage" feel without dice.
+  Effect: raises the effective damage floor on melee hits to a flat percentage (e.g., 80%) of the hit's
+  max possible damage, rather than roll-twice-keep-highest.
+  Cost: passive, no AP cost.
+
+"Bodyguard Reflex" (placeholder, not developer-chosen) — from Sentinel: Vengeance
+  Gate: N 7, M 6.
+  Diegetic: a trained protective reflex — a tank/bodyguard build's core identity perk.
+  Effect: free reactive melee strike against any enemy that attacks an ally within the player's melee
+  range.
+  Cost: free, triggered (reaction).
+
+"Immobilizing Strike" (placeholder, not developer-chosen) — from Sentinel: Snare
+  Gate: N 7 (requires Bodyguard Reflex above).
+  Diegetic: pairs with Bodyguard Reflex — a landed reactive strike locks the target down.
+  Effect: a landed reactive strike from Bodyguard Reflex also locks the target's movement for the
+  remainder of that turn.
+  Cost: no additional AP; triggers off the reactive strike above.
+
+"Honed Reactive Timing" (placeholder, not developer-chosen) — from Sentinel: Opportunity Advantage
+  Gate: N 7, A 6.
+  Diegetic: extends Section 3's ranged-hit-chance substitution to reactive melee.
+  Effect: reactive/opportunity strikes get a flat hit-chance bonus.
+  Cost: passive, no AP cost.
+
+"Elevation-Independent Aim" (placeholder, not developer-chosen) — from Sharpshooter: Low Ground
+  Gate: Guns 50 OR Energy Weapons 50.
+  Diegetic: trained compensation for firing uphill against a downhill target.
+  Effect: removes the elevation-disadvantage penalty on ranged attacks made from lower ground.
+  Cost: passive, no AP cost.
+
+"Overcommitted Shot" (placeholder, not developer-chosen) — from Sharpshooter: All In
+  Gate: Guns 55 OR Energy Weapons 55.
+  Diegetic: the ranged mirror of Overcommitted Swing above.
+  Effect: toggleable power-shot stance trading accuracy for flat bonus damage with proficient ranged
+  weapons.
+  Cost: no AP cost to toggle; applies per shot while active.
+
+"Shield Specialist" (placeholder, not developer-chosen) — from Shield Master
+  Gate: M 6; requires wielding a physical riot/ballistic shield item (equipment-dependent, not an item
+  category of its own).
+  Diegetic: trained shield handling beyond basic cover use.
+  Effect: improves the shield's passive defense bonus; unlocks using it to block AoE explosive/thermal
+  attacks for reduced or negated damage.
+  Cost: the AoE-block use costs a reaction, no AP.
+
+"Broad Study" (placeholder, not developer-chosen) — from Skilled
+  Gate: none. The cleanest conversion in the set, per the triage note.
+  Diegetic: "proficiency" swaps directly for Inner Tepenia's point-investment model — no reinterpretation
+  needed.
+  Effect: flat +15 skill points, distributed across three skills of the player's choice at the moment the
+  perk is taken.
+  Cost: passive, one-time application.
+
+"Signal Precision Targeting" (placeholder, not developer-chosen) — from Spell Sniper
+  Gate: C 7, Hacking 50.
+  Diegetic: precision targeting specifically for Signal Weapon/quickhack-delivered attacks, distinct
+  from conventional gunplay.
+  Effect: access to one bonus quickhack from any category, plus a stacking crit-threshold reduction
+  specifically for Signal Weapon/quickhack-delivered attacks.
+  Cost: passive for the crit-threshold effect; the bonus quickhack follows normal quickhack AP/cooldown
+  costs once chosen.
+
+"Brawler's Leverage" (placeholder, not developer-chosen) — from Tavern Brawler
+  Gate: M 6, Unarmed 40.
+  Diegetic: trained brawler/improvised-weapon specialization.
+  Effect: unarmed strikes, improvised weapons, and thrown objects scale off Might twice over instead of
+  once (damage and to-hit alike).
+  Note: the stat+1 half is already covered by Intense Training.
+
+"Reinforced Frame" (placeholder, not developer-chosen) — from Tough
+  Gate: E 5.
+  Diegetic: direct, no reinterpretation needed — HP already works the same way mechanically.
+  Effect: flat bonus HP per level for the remainder of the playthrough once taken.
+  Cost: passive, no AP cost.
+
+"Hardened Interface Focus" (placeholder, not developer-chosen) — from War Caster: Concentration
+  Gate: N 7.
+  Diegetic: hardened focus/interface-stability training.
+  Effect: the player's active-effect slot (Section 3's Concentration-equivalent) resists being knocked
+  out by incoming damage more reliably — flat resistance bonus against the "active effect ends on
+  damage" check.
+  Cost: passive, no AP cost.
+
+"Reactive Arc Discharge" (placeholder, not developer-chosen) — from War Caster: Opportunity Spell
+  Gate: N 6, C 6; requires an Arc Weapons-category quickhack/weapon already available.
+  Diegetic: unlocks a reactive quickhack use — a melee-range Arc Weapons-style shock discharge — against
+  an enemy disengaging from melee range.
+  Effect: spent as a reaction rather than on the player's own turn; uses the normal quickhack's AP cost
+  but doesn't consume the player's own turn.
+  Cost: normal quickhack AP cost, spent as a reaction.
+
+"Cross-Category Familiarization" (placeholder, not developer-chosen) — from Weapon Master
+  Gate: none beyond choosing four weapon categories at the moment the perk is taken.
+  Diegetic: broad cross-training — removes the unfamiliar-weapon handling penalty for four chosen weapon
+  categories (`Damage_Types.md`'s Weapon Category Cross-Reference table).
+  Effect: proficient handling (no penalty) with four chosen weapon categories.
+  Note: the stat+1 half is already covered by Intense Training.
+
+
+		/// CANTRIPS → ITEM/WEAPON CONCEPTS (16 of 25, per bg3-triage-01) ///
+		/// Lighter treatment per instructions — name, weapon category, damage type (Damage_Types.md), ///
+		/// 1-2 sentences on special property. Not full perk write-ups. ///
+
+"Thermal Lance" — from Fire Bolt
+  Category: Cell-Fed Weapons. Damage: Fire/Thermal (`Damage_Types.md`).
+  Basic attack of a thermal/cell-fed energy sidearm; benefits from high ground (range extension) and
+  ignites flammable objects on a hit, carried straight over from the cantrip's own text.
+
+"Coilgun Sidearm" — from Eldritch Blast
+  Category: Small Guns (kinetic coilgun). Damage: Force (`Damage_Types.md`).
+  Basic kinetic-coilgun attack; higher-tier variants fire multiple simultaneous rounds (a burst-fire
+  upgrade mod) instead of a new spell rank, and a "Repelling" ammo variant adds knockback on hit.
+
+"Particle Beam Emitter" — from Sacred Flame
+  Category: Cell-Fed Weapons. Damage: Radiant (`Damage_Types.md`).
+  Precision laser/particle-beam attack that fully negates on a successful flat Agility/Acrobatics evasion
+  threshold rather than a to-hit roll (Section 3's saving-throw substitution) — an all-or-nothing
+  precision weapon, no partial damage on a near-miss.
+
+"Corrosive Sprayer" — from Acid Splash
+  Category: Thrown/Explosives (handheld sprayer or thrown grenade variant). Damage: Acid (`Damage_Types.md`).
+  Small-radius splash weapon; the Dexterity-save negation becomes a flat Agility/Acrobatics evasion
+  threshold per the framework's substitution rule.
+
+"Nanite Chill Round" — from Bone Chill
+  Category: ranged ammunition, compatible with Small/Long Guns. Damage: Necrotic — nanite molecular
+  disassembly (`Damage_Types.md`).
+  Payload also suppresses the target's regen/med-nanite response for a turn on hit; kept dark,
+  Scorpio/Aquarius black-market-flavored per the framework's Necromancy-lens note.
+
+"Resonant-Edge Coating" — from Booming Blade
+  Category: Bladed/Blunt Melee weapon mod (applied to an existing weapon, not a weapon of its own).
+  Damage: Thunder (`Damage_Types.md`).
+  A sonic-resonant edge/weight coating; punishes a struck target with bonus Thunder damage if they move
+  away within the same turn.
+
+"Breach Charge (Necro-Payload)" — from Bursting Sinew
+  Category: Thrown/Explosives. Damage: Piercing, from shrapnel (`Damage_Types.md`).
+  A grim nanite/breaching charge deployed onto a fresh corpse, detonating it into shrapnel and consuming
+  the body in the process — Scorpio/Aquarius/Pisces black-market item, kept dark per the framework's
+  explicit instruction not to sanitize Necromancy-lens material.
+
+"Repositionable Flare Marker" — from Dancing Lights
+  Category: utility equipment, not a weapon. No damage type.
+  A deployable, remotely-repositionable light marker/flare; pure illumination utility with no combat
+  footprint, notably the same non-combat treatment the framework itself already gave this cantrip.
+
+"Glow-Patch Attachment" — from Light
+  Category: utility equipment, not a weapon. No damage type.
+  Object-targeted flashlight/glow-patch attachment; illumination only, same reasoning as the flare marker
+  above.
+
+"Contact-Toxin Dispenser" — from Poison Spray
+  Category: short-range chemical sprayer, craftable chem-weapon. Damage: Poison (`Damage_Types.md`).
+  Largely ineffective against sealed robots, per `Damage_Types.md`'s own anti-human specialization note —
+  a weapon with a real, built-in target-type limitation.
+
+"Incendiary Flare" — from Produce Flame
+  Category: Thrown/Explosives. Damage: Fire/Thermal (`Damage_Types.md`).
+  Throwable incendiary chem-flare that doubles as a light source, persisting until extinguished or a
+  rest-equivalent passes — mirrors the cantrip's own dual combat/utility function.
+
+"Cryo-Injector" — from Ray of Frost
+  Category: Thermal Weapons. Damage: Cold (`Damage_Types.md`, which explicitly lists cryo
+  weapons/freeze-injectors as this type's in-world source).
+  Basic cryo-injector/freeze-gun attack; movement-slow, fire-extinguishing, and surface-freezing carry
+  over as existing environmental interactions already defined for the Thermal Weapons category.
+
+"Smart-Grip Attachment" — from Shillelagh
+  Category: Blunt Melee weapon mod (applied to an existing club/staff-type weapon). Damage: unchanged —
+  uses the base weapon's own type, typically Bludgeoning.
+  A servo-assisted "smart-grip" attachment letting Calculation or Agility substitute for Might on that
+  weapon's attacks for its duration — a physical mod to the weapon, not a trained character capability.
+
+"Arc-Contact Stun Baton" — from Shocking Grasp
+  Category: Arc Weapons. Damage: Lightning (`Damage_Types.md`).
+  Melee stun-baton that also disables the target's next reactive action on hit; bonus effectiveness
+  against conductive (metal-armored) targets carries over directly from the cantrip.
+
+"Monofilament Whip" — from Thorn Whip
+  Category: Bladed Melee. Damage: Piercing (`Damage_Types.md`, which explicitly lists monofilament as
+  this type's in-world flavor).
+  A grapple-line/monofilament whip that deals damage and reels the target several meters closer on a hit.
+
+"Nanite Resonance Finisher" — from Toll the Dead
+  Category: Drain Weapons/Signal Weapons-adjacent. Damage: Necrotic — nanite disassembly (`Damage_Types.md`).
+  Damage output scales up against targets already showing structural/HP damage, matching the cantrip's
+  own "more damage vs. already-hurt targets" hook; the save-based resolution becomes a flat Nerve/Humanity
+  threshold gate per Section 3.
+
+		/// Level 1 Spells ///
+
+		/// QUICKHACKS (13, per bg3-triage-02) ///
+		/// All delivered via jack-in per Core-Mechanics/Hacking_and_Traceability_System.md. ///
+		/// Spell-tier costs run higher than the cantrip pilot batch's flat 2 AP — roughly ///
+		/// 3-5 AP with a 3-5 turn cooldown, per the framework's spell-slot-mapping guidance ///
+		/// (Section 3: AP + a separate limiting resource, never AP-only). Durations map 1:1 ///
+		/// from BG3's own "turns" language. Saving throws become flat Nerve/Humanity threshold ///
+		/// gates on the target, per Section 3's "no dice rolls" substitution. ///
+
+
+"Calming Signal Pulse" (placeholder, not developer-chosen) — from Animal Friendship
+  Diegetic: short-range pheromone/chemical pacifier dose or calming EM signal, restricted by the
+  spell's own "Int ≤3" clause to feral Antarctic wildlife — not humans or robots, per the triage
+  entry's own framing.
+  Effect: target non-sapient animal can't act aggressively toward the user for 10 turns (1:1).
+  Ends early if user/ally damages the target.
+  Cost: 3 AP. Cooldown: 4 turns.
+  Note: narrowest-footprint quickhack in this batch by design — pure survival/wildlife-encounter
+  utility, no combat relevance against human or robot targets.
+
+"Static Discord Pulse" (placeholder, not developer-chosen) — from Bane
+  Diegetic: short-range signal-jamming pulse, Enchantment's neural-interface default, degrading
+  targeting solutions and resolve simultaneously.
+  Effect: up to 3 targets get a flat hit-chance penalty and a flat resolve/skill-check threshold
+  penalty for 10 turns (1:1). Flat Nerve/Humanity threshold gate on landing it, per Section 3.
+  Cost: 4 AP. Cooldown: 4 turns.
+  Note: direct debuff twin to "Rally Broadcast" below — same broadcast tech, opposite payload;
+  worth considering whether these should be two modes of one quickhack rather than two separate
+  entries, same open question the pilot batch flagged for its own paired entries.
+
+"Rally Broadcast" (placeholder, not developer-chosen) — from Bless
+  Diegetic: squad-link encouragement/stim broadcast over the Bridge Unit tether.
+  Effect: up to 3 non-hostile allies get a flat accuracy/resolve boost for 10 turns (1:1).
+  Cost: 4 AP. Cooldown: 4 turns.
+  Note: buff twin to "Static Discord Pulse" above — see that entry's note on possibly merging the
+  pair into one selectable-payload quickhack.
+
+"Rapport Compliance Hack" (placeholder, not developer-chosen) — from Charm Person
+  Diegetic: jack-in compliance hack (or a heavier pheromone dose) on a human target, scaled up from
+  the cantrip pilot batch's "Rapport Spike" (from Friends) into a full behavioral lock rather than
+  just improved disposition.
+  Effect: target human can't act hostile toward the user for 10 turns (1:1); ends early if
+  user/ally harms them. Flat Nerve/Humanity threshold gate on landing it.
+  Cost: 4 AP. Cooldown: 5 turns.
+  Note: raises the exact same open question "Rapport Spike" flagged — narrative-facing enough that
+  a Speech/Deception-gated perk might fit better than a flat quickhack, and forcing behavior (not
+  just disposition) reads as more ethically loaded than the cantrip version; likely flags as a
+  crime if the target later realizes, matching BG3's own social-consequence framing.
+
+"Dazzle Burst" (placeholder, not developer-chosen) — from Colour Spray
+  Diegetic: cone-area holographic-overload pulse, Illusion's diegetic default.
+  Effect: blinds everyone under a combined toughness threshold in a cone for 1 turn (1:1) —
+  accuracy penalty, attackers get a bonus against them.
+  Cost: 3 AP. Cooldown: 3 turns.
+  Note: cheap and short-duration by design, matching BG3's own "no save, HP-pool gate" shape —
+  reliable against weak/numerous targets, useless against a single tough one.
+
+"Command Injection Pulse" (placeholder, not developer-chosen) — from Command
+  Diegetic: short jack-in command-injection through the Bridge Unit interface, forcing a simple
+  compliance behavior.
+  Effect: target (human or robot) is compelled to perform one selected simple action on its next
+  turn — approach, drop weapon, flee, halt, kneel. No effect on fully autonomous NODEs/constructs
+  with no jack-in-accessible control loop (parallel to BG3's own "no effect on undead"). Target
+  resists directly self-harmful versions of the command but obeys indirectly-harmful ones —
+  BG3's own "Approach into an ambush" exploit carries over intact.
+  Cost: 4 AP. Cooldown: 4 turns.
+  Note: the exploitable-by-design behavior above is a feature, not a bug, per BG3's own precedent
+  — worth calling out explicitly during the real conversion pass so it isn't "fixed" away.
+
+"Aggro-Lock Broadcast" (placeholder, not developer-chosen) — from Compelled Duel
+  Diegetic: short-range taunt/target-fixation signal.
+  Effect: target gets an accuracy penalty against anyone but the user for 3 turns (1:1).
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: BG3's own quirk — an enemy casting this on the player removes player control for the
+  duration — doesn't carry over. Inner Tepenia has no forced-agency-removal mechanic, so used
+  against the player this stays a flat accuracy penalty on the player's own attacks against others,
+  never a control loss.
+
+"Neural Discord Burst" (placeholder, not developer-chosen) — from Dissonant Whispers
+  Diegetic: targeted sonic/neural assault burst, Enchantment/Psychic's diegetic default.
+  Effect: Psychic/Neural damage (Damage_Types.md) to one target; on a failed flat Nerve/Humanity
+  threshold, target also can't move for 2 turns (1:1) with an accuracy/ability-check penalty.
+  Cost: 4 AP. Cooldown: 4 turns.
+  Note: one of only two damage-dealing quickhacks across this batch and the cantrip pilot batch
+  combined (alongside "Psy-Audio Harassment" from Vicious Mockery) — worth double-checking it
+  doesn't functionally duplicate a Signal Weapon basic attack once that category has concrete
+  numbers.
+
+"IR-Tag Marker Pulse" (placeholder, not developer-chosen) — from Faerie Fire
+  Diegetic: IR-paint/sensor-tag marker pulse, Divination-adjacent sensor tech repurposed from
+  Illusion's own counter-play toolkit.
+  Effect: strips stealth/cloak from targets in an area and grants attackers a flat accuracy bonus
+  against them for 10 turns (1:1).
+  Cost: 3 AP. Cooldown: 4 turns.
+  Note: natural hard counter to any cloak/stealth quickhacks and perks drafted elsewhere (pairs
+  against "Holo-Decoy" in the cantrip pilot batch and the Invisibility-equivalent perk drafted in
+  the Level 2 pass) — worth keeping that adversarial relationship explicit when both get built.
+
+"Reflex Plating Burst" (placeholder, not developer-chosen) — from Shield (spell)
+  Diegetic: reflexive kinetic-dampening field/reactive plating micro-burst, triggered defensively
+  — direct sibling to the pilot batch's own worked example ("Reactive Plating Pulse," from Blade
+  Ward), scaled up to spell tier.
+  Effect: grants a flat armor/DT spike for 1 turn (1:1 — BG3's own "until start of next turn"),
+  usable as a defensive reaction.
+  Cost: 2 AP (reaction-priced, matching the source's Reaction cost). Cooldown: 3 turns.
+  Note: where the cantrip version halved incoming physical damage for 2 turns, this spell-tier
+  version trades duration for a bigger flat armor spike — reflects the jump in raw power between
+  the two source tiers while keeping the same delivery mechanism.
+
+"Courage-Stim Broadcast" (placeholder, not developer-chosen) — from Heroism
+  Diegetic: courage-stim broadcast pulse over the Bridge Unit tether — same broadcast family as
+  "Rally Broadcast" above, different payload.
+  Effect: target gains fear-debuff immunity and a small rolling damage buffer each turn for 10
+  turns (1:1).
+  Cost: 4 AP. Cooldown: 4 turns.
+  Note: strong overlap with "Rally Broadcast" — likely candidate to consolidate the whole
+  broadcast family (Bane/Bless/Heroism, all delivered the same way) into one system with a
+  selectable payload during the real conversion pass. Flagging, not deciding here.
+
+"ECM Targeting-Jam Field" (placeholder, not developer-chosen) — from Sanctuary
+  Diegetic: targeting-jam/ECM field that drops the user off hostile weapons-lock.
+  Effect: user can't be targeted by attacks until they act against an enemy (area damage still
+  applies) for up to 10 turns (1:1); breaking it early inflicts a brief targeting-recovery penalty
+  for 1 turn (1:1 mapping of BG3's Sanctuary Blocked).
+  Cost: 2 AP. Cooldown: 4 turns.
+  Note: probably the single strongest defensive quickhack in this batch — "can't be targeted" is
+  powerful even with the self-breaking clause. Likely needs a harder cooldown or a per-scene
+  limiter once actually balanced; flagging the raw strength rather than pricing around it here.
+
+"Neural Overload Spasm Pulse" (placeholder, not developer-chosen) — from Tasha's Hideous
+Laughter
+  Diegetic: neural-overload pulse inducing involuntary spasming/collapse, delivered through
+  jack-in.
+  Effect: target can't act (prone-equivalent — no actions/reactions) for 10 turns (1:1) on a
+  failed flat Nerve/Humanity threshold; breakable early by the target taking damage.
+  Cost: 5 AP. Cooldown: 5 turns.
+  Note: strongest single-target hard-CC quickhack drafted so far — priced at the top of the
+  suggested 3-5 AP/3-5 turn range accordingly. Also a good flag for Section 5's open gap: this
+  "can't act" condition, Sanctuary's targeting-immunity, and Command's forced-action all want a
+  shared, centrally-defined status-effect taxonomy once enough of these exist to justify one.
+
+
+		/// LEVEL-UP PERKS (6, per bg3-triage-02) ///
+		/// Gated by MACHINE stat + skill thresholds per Regular_Perks_-_Level-Up.md's existing ///
+		/// format. Ranks/effects below are illustrative, not balanced. ///
+
+
+"Cryo-Retaliation Plating" (placeholder, not developer-chosen) — from Armour of Agathys
+  Diegetic: Abjuration's default — cryo-retaliation nanoweave plating that burns melee attackers
+  on contact.
+  Gate: E 6, Chemistry 40.
+  Effect: Rank 1: once per rest cycle, activate a temporary damage buffer; any melee attacker who
+  strikes you while it's active takes Cold damage (Damage_Types.md) in return, until the buffer
+  depletes. Rank 2 *(E 8, Chemistry 65)*: larger buffer, larger Cold retaliation, and the buffer
+  can be reactivated once per combat encounter instead of only once per rest.
+  Note: Engine governs the diegetic logic directly — Damage_Types.md already ties Engine to
+  "thermal/energy endurance," so the stat gate isn't arbitrary.
+
+"Recon Drone Deployment" (placeholder, not developer-chosen) — from Find Familiar
+  Diegetic: Conjuration's drone-deployment default — a small remote recon drone launched through
+  the jack-in link, the BG3 familiar roster (Cat/Crab/Frog/Rat/Raven/Spider) reskinned as cosmetic
+  drone chassis choices.
+  Gate: C 6, Repair 40.
+  Effect: Rank 1: deploy one micro-recon drone that scouts ahead, tags visible enemies, or
+  performs minor object interactions at range; one active at a time; recharges once per rest
+  cycle.
+  Note: single rank only for now, per the triage entry's own flag — check
+  `Core-Mechanics/Companion_System.md` before finalizing so this doesn't duplicate existing
+  companion/drone mechanics; a Rank 2 (combat-capable drone upgrade) is plausible once that check
+  happens.
+
+"Retaliatory Discharge Plating" (placeholder, not developer-chosen) — from Hellish Rebuke
+  Diegetic: passive thermal-discharge/plating-spike countermeasure that fires automatically the
+  instant an attacker lands a hit.
+  Gate: E 7, Chemistry 40.
+  Effect: Rank 1: once per turn, automatically deal Fire/Thermal damage (Damage_Types.md) back to
+  any attacker that hits you. Rank 2 *(E 9, Chemistry 65)*: damage increases and the once-per-turn
+  cap is lifted — every hit you take triggers the retaliation, not just the first.
+  Note: purely reactive, no player input required — matches BG3's own Reaction-cost shape more
+  closely than most of this batch's other level-up perks, which is why it stayed a passive rather
+  than a toggle.
+
+"Nanite Tag Mark" (placeholder, not developer-chosen) — from Hex
+  Diegetic: Necromancy's default per the framework — nanite-driven target-tagging mark, deliberately
+  dark/morally loaded material kept Scorpio/Aquarius-flavored rather than sanitized into a generic
+  damage perk.
+  Gate: C 7, Hacking 60.
+  Effect: mark one target; every hit the user lands on them deals bonus Nanotech damage
+  (Necrotic-mapped, per Damage_Types.md) and degrades one of the target's skill checks for the
+  mark's duration. Free to reapply if the marked target dies or is knocked out mid-fight (1:1 BG3
+  rule).
+  Note: per the framework's own Necromancy guidance, this should stay gated behind a
+  Scorpio/Aquarius-adjacent build rather than being a generic damage-perk pick — the nanotech
+  framing carries real in-fiction weight (same district flavor Damage_Types.md already assigns to
+  Nanotech/Necrotic).
+
+"Target-Designation HUD Lock" (placeholder, not developer-chosen) — from Hunter's Mark
+  Diegetic: sensor-lock/target-designation HUD system fed through the Bridge Unit.
+  Gate: I 6, Guns 40 (or Energy Weapons 40).
+  Effect: mark one target; the user's weapon attacks against them deal bonus damage per hit for
+  the mark's duration. Free to reapply if the marked target dies mid-fight (1:1 BG3 rule).
+  Note: cleanest, least morally-loaded of this batch's level-up perks — a straightforward
+  ranged-build damage perk, functioning as Nanite Tag Mark's "clean" counterpart for players who
+  don't want the Scorpio/Aquarius framing.
+
+"Deflector-Field Emitter" (placeholder, not developer-chosen) — from Shield of Faith
+  Diegetic: Abjuration's default — a toggleable personal deflector-field emitter.
+  Gate: E 6, Repair 40.
+  Effect: Rank 1: toggle a personal deflector field granting a flat armor/DT bonus while active,
+  at a small ongoing Engine-pool drain. Rank 2 *(E 8, Repair 65)*: bigger bonus, smaller drain.
+  Note: functions as this batch's "always-on defensive toggle" level-up perk, distinct from
+  Cryo-Retaliation Plating's once-per-rest burst shape and Reflex Plating Burst's per-turn reactive
+  quickhack shape — three different resource models for a similar underlying fantasy, worth
+  keeping distinct rather than collapsing into one system.
+
+
+		/// ITEMS / EQUIPMENT / WEAPONS (32, per bg3-triage-02) ///
+		/// Lighter treatment per the assignment's Outcome 5 instructions — name, category, ///
+		/// damage type (Damage_Types.md), 1-2 sentences on special properties. Routes to ///
+		/// whatever weapon/armor/chem system is the right home per the framework's Section 7 ///
+		/// step 3 — not further developed here. ///
+
+
+"Fracture Burst Charge" (placeholder, not developer-chosen) — from Arms of Hadar
+  Category: Thrown/Explosives (self-centered burst). Damage: Nanotech/Molecular Disassembly
+  (Necrotic-mapped, per Damage_Types.md). A self-centered nanite-burst emitter/grenade dealing
+  radius damage around the user, with a chance to disrupt nearby enemies' next action on a solid
+  hit.
+
+"Prism-Cell Sidearm" (placeholder, not developer-chosen) — from Chromatic Orb
+  Category: Cell-Fed Weapons (energy-adjacent sidearm). Damage: player-selectable at time of
+  firing among Acid/Cold/Fire/Lightning/Poison/Thunder (all defined in Damage_Types.md). Routes
+  through the existing ranged hit-chance system since it uses an attack roll; leaves a
+  type-matching surface (ice patch, acid pool, etc.) at the impact point.
+
+"Condenser/Drainage Charge" (placeholder, not developer-chosen) — from Create or Destroy Water
+  Category: utility gadget/consumable, no damage type. A portable atmospheric condenser/drainage
+  charge that conjures or clears a water surface in an area, interacting with the existing
+  Wet/ice-terrain hazard mechanics.
+
+"Chameleon-Coat Disguise Rig" (placeholder, not developer-chosen) — from Disguise Self
+  Category: wearable equipment, no damage type. A holographic full-body disguise rig/chameleon
+  coating that changes visual appearance until deactivated — no mechanical benefit beyond visual,
+  matching the BG3 original exactly.
+
+"Overcharge Stim" (placeholder, not developer-chosen) — from Divine Favour
+  Category: combat chem/consumable, no inherent damage type (modifies weapon damage output).
+  A stim/ammo-overcharge injection adding flat bonus damage to weapon attacks (not unarmed) for a
+  few turns.
+
+"Leap Calibration Stim" (placeholder, not developer-chosen) — from Enhance Leap
+  Category: consumable chem/exosuit calibration. No damage type. Triples jump distance for its
+  duration — pure traversal utility, no combat application.
+
+"Tangle-Net Rounds" (placeholder, not developer-chosen) — from Ensnaring Strike
+  Category: ammunition mod (Small Guns/Long Guns compatible). Damage: Piercing. Tangle-net/
+  monofilament rounds that restrain a target on hit and inflict ongoing Piercing damage until they
+  break free.
+
+"Adhesive-Foam Mine" (placeholder, not developer-chosen) — from Entangle
+  Category: Thrown/Explosives (deployable mine). No primary damage type — restraint/terrain
+  utility. Creates a difficult-terrain, adhesive-foam field that restrains anyone caught in it.
+
+"Sprint Overdrive Stim" (placeholder, not developer-chosen) — from Expeditious Retreat
+  Category: consumable chem. No damage type. Adrenal/servo-boost stim granting an extra dash/
+  sprint each turn while active.
+
+"Adrenal Buffer Stim" (placeholder, not developer-chosen) — from False Life
+  Category: consumable chem. No damage type. An adrenaline/stim-pack injection granting a
+  temporary damage buffer until the next rest.
+
+"Impact-Dampening Boots" (placeholder, not developer-chosen) — from Feather Fall
+  Category: wearable equipment (footwear). No damage type. Impact-dampening exosuit boots/
+  grav-stabilizer unit preventing fall damage in an area around the wearer.
+
+"Aerosol Fog Grenade" (placeholder, not developer-chosen) — from Fog Cloud
+  Category: Thrown/Explosives. No damage type — vision-blocking utility. A smoke/aerosol-fog
+  charge creating a vision-blocking area for both the user and enemies inside it.
+
+"Siligel Ration Pack" (placeholder, not developer-chosen) — from Goodberry
+  Category: consumable/field supply. No damage type. A siligel ration/nutrient-paste pack doubling
+  as minor field healing and camp supply — ties directly into siligel's existing canon role as
+  robot/general food.
+
+"Swarm-Dart Launcher" (placeholder, not developer-chosen) — from Magic Missile
+  Category: Small Guns/Heavy Weapons hybrid (smart-munition launcher). Damage: Force/Kinetic. Fires
+  auto-tracking submunitions that can split across multiple targets and auto-hit — no attack roll
+  needed, matching the BG3 original's no-save/no-miss design.
+
+"Nanite Med-Injector" (placeholder, not developer-chosen) — from Cure Wounds
+  Category: consumable/field medicine. No damage type. A nanite med-injector/stim-gel pack for
+  direct field healing on humans; per canon, has no effect on robots (repair kits needed instead),
+  matching the original's "no effect on undead/constructs" clause.
+
+"Cone Incendiary Nozzle" (placeholder, not developer-chosen) — from Burning Hands
+  Category: Thermal Weapons. Damage: Fire/Thermal. A cone-spread flamethrower/incendiary nozzle
+  weapon dealing area damage in front of the user.
+
+"Lubricant Foam Grenade" (placeholder, not developer-chosen) — from Grease
+  Category: Thrown/Explosives. No primary damage type — terrain/utility, flammable. A slick-foam/
+  lubricant charge creating flammable difficult terrain that can knock targets prone.
+
+"Laser-Designator Round" (placeholder, not developer-chosen) — from Guiding Bolt
+  Category: Cell-Fed Weapons (designator round). Damage: Radiant. An attack-roll-based marking
+  round that grants the next attack against the struck target bonus accuracy for a couple of
+  turns.
+
+"Shrapnel-Tip Rounds" (placeholder, not developer-chosen) — from Hail of Thorns
+  Category: ammunition mod (Long Guns/Bladed Melee thrown variants). Damage: Piercing (weapon
+  damage plus a shrapnel-burst explosion). Detonates a secondary shrapnel burst around the impact
+  point on hit or miss alike.
+
+"Med-Dart Injector" (placeholder, not developer-chosen) — from Healing Word
+  Category: thrown consumable/mini-drone delivery. No damage type. A remote-deployed med-injector
+  dart or small drone providing instant ranged field healing.
+
+"Cryo-Knife" (placeholder, not developer-chosen) — from Ice Knife
+  Category: Thrown/Explosives (thrown blade). Damage: Piercing (initial hit) + Cold (explosion,
+  attack-roll-based). A thrown cryo-knife/hybrid freeze-charge that also generates a short-lived
+  ice surface at impact.
+
+"Nanite-Disruptor Gauntlet" (placeholder, not developer-chosen) — from Inflict Wounds
+  Category: Bladed Melee/Drain Weapons hybrid. Damage: Nanotech (Necrotic-mapped, heavy). A
+  close-range nanite-disruptor blade/gauntlet dealing significant Nanotech damage on a melee hit.
+
+"Stride Calibration Stim" (placeholder, not developer-chosen) — from Longstrider
+  Category: consumable chem/exosuit calibration. No damage type. A leg-servo calibration stim
+  adding sustained movement speed until the next rest.
+
+"Nanoweave Underlay Suit" (placeholder, not developer-chosen) — from Mage Armour
+  Category: wearable equipment (light armor layer). No damage type. A nanoweave underlay/light
+  bodysuit providing a baseline armor rating for otherwise-unarmored characters; removed if
+  heavier armor is equipped, matching the original's "doesn't stack" clause.
+
+"Toxin Dart Injector" (placeholder, not developer-chosen) — from Ray of Sickness
+  Category: Small Guns (chemical dart weapon). Damage: Poison, attack-roll-based. Inflicts a
+  lingering debuff (disadvantage on attacks/ability checks) on a successful hit.
+
+"Incendiary Blade Coating" (placeholder, not developer-chosen) — from Searing Smite
+  Category: Bladed Melee weapon mod/consumable coating. Damage: Fire/Thermal (ignites on melee
+  hit, then burns for several turns). A coating applied before a melee swing, not a standalone
+  weapon.
+
+"Nerve-Suppressant Gas Grenade" (placeholder, not developer-chosen) — from Sleep
+  Category: Thrown/Explosives. No damage type — incapacitation utility. Incapacitates everyone
+  under a combined toughness threshold in the area until they take damage.
+
+"Bio-Acoustic Translator Gadget" (placeholder, not developer-chosen) — from Speak with Animals
+  Category: utility gadget, no damage type. A bio-acoustic signal decoder/translator for
+  interpreting Antarctic wildlife vocalizations and body language — niche utility with no combat
+  application, matching the original almost exactly.
+
+"Shock-Knuckle Weapon Mod" (placeholder, not developer-chosen) — from Thunderous Smite
+  Category: Unarmed/Blunt Melee weapon mod. Damage: Thunder (bonus, on top of base unarmed/blunt
+  damage). A piston-fist/shock-knuckle mod dealing bonus Thunder damage plus a knockback-and-prone
+  effect on hit.
+
+"Sonic-Charge Shockwave Emitter" (placeholder, not developer-chosen) — from Thunderwave
+  Category: Thrown/Explosives or Heavy Weapons (directional emitter). Damage: Thunder. A
+  directional shockwave/sonic-charge emitter that knocks back everyone in its cone.
+
+"Sustained Arc-Lock Beam Weapon" (placeholder, not developer-chosen) — from Witch Bolt
+  Category: Arc Weapons. Damage: Lightning, attack-roll-based initial hit, then ongoing damage
+  each subsequent turn the user spends an action maintaining the lock — a literal channel/sustain
+  mechanic rather than a one-shot.
+
+"Neural-Disruption Blade Coating" (placeholder, not developer-chosen) — from Wrathful Smite
+  Category: Bladed Melee weapon mod/consumable coating. Damage: Psychic/Neural (bonus, on melee
+  hit). Induces a brief freeze/fear response on a successful hit alongside the bonus damage.
+
+
+		/// DROP (1, per bg3-triage-02) ///
+
+
+Protection from Evil and Good — DROP. Reason: the entire mechanic is keyed to a Forgotten Realms
+creature-type taxonomy (Aberration/Celestial/Elemental/Fey/Fiend/Undead) that has no equivalent in
+Inner Tepenia's robots-and-humans setting; no narrow subset survives without fabricating a parallel
+taxonomy just to support one spell. Per the framework's Section 6 retention policy, this is NOT the
+genuine planar/supernatural-magic exception (it's a taxonomy problem, not a magic-premise problem)
+— parked rather than a true dead end, and worth revisiting if Outer Tepenia or a future Inner
+Tepenia creature-classification system ever gives this kind of "vs. category X" effect somewhere to
+attach to.
+
+
+
+
+OUTCOME COUNT SUMMARY
+
+Quickhack: 13 · Level-up perk: 6 · Earned perk: 0 · Trait: 0 · Item/equipment/weapon: 32 · Drop: 1
+— Total: 52/52 Level 1 entries drafted, matching bg3-triage-02-level1-level2.md's Level 1
+distribution exactly.
+
+		/// Level 2 Spells ///
+
+Same order as ORIGINALS. Outcome noted per entry, per the triage table.
+
+---
+
+"Vanguard Nanite Charge" (placeholder, not developer-chosen) — from Aid — Outcome 5
+  Category: Chem/Consumable (squad support).
+  Damage Type: none — buff consumable.
+  Effect: a pre-mission nanite reinforcement injection raising max HP buffer for self and allies in a 9m
+  radius until the next rest; downed allies who stabilize return with +1 HP instead of 0. Doesn't stack
+  across multiple doses — most recent application overrides.
+  Note: BG3's per-slot-level upcast (+5 HP per slot above 2nd) doesn't have a clean Inner Tepenia analog —
+  could become a "Mk II/Mk III" tier item instead of a scaling cast, if the developer wants that progression.
+
+---
+
+"Deadbolt Protocol" (placeholder, not developer-chosen) — from Arcane Lock — Outcome 1
+  Diegetic: a countermeasure hack that electronically hardens a door/container/terminal's lock circuitry
+  against tampering — an inverted, defensive use of the jack-in hacking interface rather than an offensive one.
+  Effect: target lock becomes immune to Lockpick attempts and to "Remote Bypass Pulse" (this batch's Knock
+  conversion, below) for the duration.
+  Cost: 3 AP. Cooldown: 4 turns. Duration: 10 turns (1:1 from BG3).
+  Note: reads more like heist-prep than a combat tool — Section 3's ritual-casting substitute (zero-AP,
+  non-combat-only) might fit better than a costed quickhack; flagging both options rather than picking one.
+
+---
+
+"Subdermal Plating Toggle" (placeholder, not developer-chosen) — from Barkskin — Outcome 2
+  Diegetic: an implanted nanoweave plating layer beneath synthetic or organic skin, activated on demand.
+  Requirements: Engine 6, Repair 40.
+  Ranks: 1.
+  Effect: while toggled on, sets a minimum DT (damage threshold) floor; no benefit if current armor already
+  exceeds it. Costs 1 AP/turn to sustain, occupying the single active-effect slot Section 3 defines as the
+  Concentration substitute.
+  Note: BG3's flat "AC 16 minimum" doesn't map cleanly onto Inner Tepenia's layered DT/DR system — the actual
+  floor number needs real armor-tier balancing later; this is illustrative only.
+
+---
+
+"Optic Overload Dart" (placeholder, not developer-chosen) — from Blindness — Outcome 1
+  Diegetic: an EM flash-pulse/optical-disruptor dart fired at a target's visual sensors or eyes.
+  Effect: target is Blinded — its attacks suffer a flat accuracy penalty, attackers against it gain a flat
+  accuracy bonus, for up to 10 turns. Lands (and is re-checked each turn-end, per Section 3's saving-throw
+  substitute) only if the target's Engine stat is below 6 — a high-Engine boss can be effectively immune by
+  encounter design, exactly per the framework's own stated intent for enemy stat gates.
+  Cost: 4 AP. Cooldown: 4 turns.
+  Note: kept BG3's full 10-turn number since turns map 1:1 — worth a second look later, since 10 turns of
+  Blinded on a hit target reads as very strong in an actual encounter.
+
+---
+
+"Refraction Field" (placeholder, not developer-chosen) — from Blur — Outcome 2
+  Diegetic: a toggleable holographic/optical-distortion field projected around the user, scattering incoming
+  targeting data (Illusion default).
+  Requirements: Calculation 6, Hacking 40.
+  Ranks: 1.
+  Effect: while active, ranged attacks against the user suffer a flat accuracy penalty; no benefit against
+  thermal-lock or EM-lock weapon types, porting BG3's own "no effect vs. blindsight/true seeing" carve-out.
+  Costs 1 AP/turn to sustain (active-effect slot).
+
+---
+
+"Laser-Tag Coating" (placeholder, not developer-chosen) — from Branding Smite — Outcome 5
+  Category: Bladed Melee weapon coating.
+  Damage Type: Radiant (per Damage_Types.md — precision thermal/ionization damage), bonus damage on a landed
+  melee or ranged hit.
+  Effect: marks the target with a persistent laser tag for 10 turns, stripping any active holographic
+  camouflage/cloak effect (see "Refraction Field" and "Active-Camo Cloak Toggle" below) for the duration.
+
+---
+
+"De-Escalation Pulse" (placeholder, not developer-chosen) — from Calm Emotions — Outcome 1
+  Diegetic: an area pheromone/EM pacification broadcast, per the Enchantment mapping.
+  Effect: humanoids (human or robot) in the area can't be provoked into hostility for the duration; ends
+  already-triggered aggression immediately, dropping hostile NPCs back to neutral.
+  Cost: 5 AP. Cooldown: 6 turns. Duration: 10 turns.
+  Note: the strongest de-escalation tool in this batch — likely needs a hard exclusion list (can't trivially
+  end a scripted boss encounter) once it's actually implemented.
+
+---
+
+"Shrapnel Veil Mine" (placeholder, not developer-chosen) — from Cloud of Daggers — Outcome 5
+  Category: Thrown/Explosives (deployable mine).
+  Damage Type: Slashing (per Damage_Types.md).
+  Effect: deploys a hovering rotor-blade/shrapnel field that damages anyone in or moving through it,
+  retriggering each time a creature starts its turn inside the field or is shoved/thrown through it.
+
+---
+
+"Override Beacon" (placeholder, not developer-chosen) — from Crown of Madness — Outcome 1
+  Diegetic: a jack-in control-override hack forcing a hostile human or robot target to attack whatever's
+  nearest, overriding its own targeting priority — Enchantment's neural-interface mapping.
+  Effect: for 3 turns (1:1 from BG3), the target's actions redirect to the nearest creature (ally or enemy)
+  instead of the player's choosing; re-checked each turn-end against the target's Calculation stat (effect
+  ends early if Calculation is 6 or above).
+  Cost: 5 AP. Cooldown: 6 turns.
+
+---
+
+"Blackout Canister" (placeholder, not developer-chosen) — from Darkness — Outcome 5
+  Category: Thrown/Explosives (combined smoke/EM-jamming grenade).
+  Damage Type: none — pure utility/area denial.
+  Effect: creates an area that heavily obscures vision and blocks ranged attacks passing in or out of it.
+
+---
+
+"Low-Light Ocular Augment" (placeholder, not developer-chosen) — from Darkvision (spell) — Outcome 5
+  Category: cybernetic eye implant / optics augment.
+  Damage Type: none — passive sensory upgrade.
+  Effect: grants low-light/thermal vision to 12m; doesn't see through active EM-jamming fields, converting
+  BG3's "does not see through magical darkness" carve-out into "doesn't beat dedicated jamming tech."
+
+---
+
+"Interface Bleed" (placeholder, not developer-chosen) — from Detect Thoughts — Outcome 2
+  Diegetic: a short-range neural-read via jack-in interface bleed during an active conversation, matching
+  Divination's skill-milestone-perk default.
+  Requirements: Investigation 7, Insight 50.
+  Ranks: 1.
+  Effect: while actively talking to an NPC, passively surfaces their unspoken surface thoughts as an extra
+  dialogue-context line; pushing on a hostile or heavily-shielded mind risks flagging the attempt and
+  provoking hostility, porting BG3's own failure clause.
+  Note: BG3's ritual-castable flag maps directly — usable for free out of combat; mid-combat use costs AP
+  like any other active-component perk.
+
+---
+
+"Stat-Calibration Stim" (placeholder, not developer-chosen; six variants) — from Enhance Ability — Outcome 5
+  Category: Chem/Consumable, one flavor per relevant MACHINE stat.
+  Damage Type: none — buff consumable.
+  Effect: grants an edge on checks using the chosen stat for the stim's duration.
+
+---
+
+"Overdrive Stim / Compact Stim" (placeholder, not developer-chosen; paired chem) — from Enlarge/Reduce — Outcome 5
+  Category: Chem/Consumable pair.
+  Damage Type: none — buff/self-debuff consumable.
+  Effect: Overdrive half — exosuit-overdrive/growth-hormone stim granting +size, +carry capacity, a Might-check
+  edge, and +weapon/unarmed damage. Compact half — the servo-compacting inverse (smaller profile, -carry
+  capacity, Might-check penalty); per the triage's own flag, Compact is the visibly weaker half and may not
+  earn a separate item slot on further review.
+
+---
+
+"Fixation Hook" (placeholder, not developer-chosen) — from Enthrall — Outcome 2
+  Diegetic: a Speech/Deception-skill-gated capability narrowing an NPC's peripheral awareness onto the user —
+  a diversion tool, not a combat effect, per Enchantment's social-manipulation landing.
+  Requirements: Humanity 6, Speech 45 (or Deception 45).
+  Ranks: 1.
+  Effect: target NPC's attention fixes on the user for 10 turns, unable to notice anything else nearby (an
+  ally slipping past, a companion working a nearby lock); lands if the target's Nerve is below 7.
+
+---
+
+"Plasma-Edge Emitter" (placeholder, not developer-chosen) — from Flame Blade — Outcome 5
+  Category: Cell-Fed Weapons (melee).
+  Damage Type: Plasma (per Damage_Types.md's Cell-Fed Weapons cross-reference — burn + arc secondary at
+  higher charge).
+  Effect: summons a bladed energy-melee weapon from a wrist/forearm emitter; can't be thrown or handed to an
+  ally; sheds light in dark areas.
+
+---
+
+"Incendiary Skitter-Drone" (placeholder, not developer-chosen) — from Flaming Sphere — Outcome 2
+  Diegetic: a deployable incendiary combat drone the user repositions each turn while it burns nearby
+  enemies, matching Conjuration's drone-deployment default.
+  Requirements: Calculation 7, Hacking 55.
+  Ranks: 1.
+  Effect: deploys a drone with its own HP/armor pool dealing Fire/Thermal damage to anything adjacent to it
+  each turn; movable at no extra AP cost while it occupies the active-effect slot.
+
+---
+
+"Pneumatic Ram Emitter" (placeholder, not developer-chosen) — from Gust of Wind — Outcome 5
+  Category: Heavy Weapons (utility attachment).
+  Damage Type: Force (per Damage_Types.md — kinetic/concussive).
+  Effect: a directional compressed-gas blast pushing everyone in a line back and knocking them Off Balance
+  for a turn, unless their Might beats a flat threshold.
+
+---
+
+"Induction Overload Hack" (placeholder, not developer-chosen) — from Heat Metal — Outcome 1
+  Diegetic: an EM induction-heating hack that superheats a target's held metal weapon or worn plating, per
+  the triage's own diegetic call.
+  Effect: deals initial Fire/Thermal damage; if the target's Engine is below 6, they're forced to drop the
+  weapon — otherwise they take the damage but fight on at an accuracy penalty from the pain. Reapplicable
+  each turn for 1 AP while sustained (active-effect slot).
+  Cost: 4 AP to initiate, 1 AP/turn to sustain. Cooldown: 4 turns after ending.
+
+---
+
+"Signal Lock-Up" (placeholder, not developer-chosen) — from Hold Person — Outcome 1
+  Diegetic: the framework document's own worked example (Section 2) — a Signal Weapon-style paralysis/
+  neural lock-up hack disabling a humanoid target's movement and actions through the Bridge Unit interface.
+  Effect: target can't move, act, or react; auto-fails Might/Agility-based resist attempts; melee hits
+  against it from close range auto-crit. Duration: 10 turns (1:1), re-checked each turn-end against the
+  target's Nerve (effect ends if Nerve is 7 or above).
+  Cost: 6 AP. Cooldown: 6 turns.
+  Note: since this is the framework doc's own cited example spell, this draft is closer to confirming the
+  worked example already sketched there than inventing new ground.
+
+---
+
+"Active-Camo Cloak Toggle" (placeholder, not developer-chosen) — from Invisibility (spell) — Outcome 2
+  Diegetic: a holographic/optical camouflage toggle, per Illusion's default.
+  Requirements: Agility 6, Sneak 55.
+  Ranks: 1.
+  Effect: while active, attacks against the user suffer a flat accuracy penalty, the user's own attacks gain
+  a flat accuracy bonus. Breaks on attacking, using an item, taking an action beyond movement, or taking
+  damage — porting BG3's own break conditions directly.
+
+---
+
+"Remote Bypass Pulse" (placeholder, not developer-chosen) — from Knock — Outcome 1
+  Diegetic: a remote lock-bypass hack instantly defeating a mundane electronic/mechanical lock regardless of
+  its stated difficulty, per the triage's own call.
+  Cost: 3 AP. Cooldown: 2 turns. Instantaneous.
+  Note: bypassing owned property still flags as a crime per existing systems, exactly as BG3's own text
+  calls out for Knock.
+
+---
+
+"Broad-Spectrum Antidote Kit" (placeholder, not developer-chosen) — from Lesser Restoration — Outcome 5
+  Category: Chem/Medical consumable.
+  Damage Type: none.
+  Effect: one application cures Disease, Poison, Paralysis, and Blindness status effects simultaneously.
+
+---
+
+"Calibration Coating" (placeholder, not developer-chosen) — from Magic Weapon — Outcome 5
+  Category: Chem/weapon-mod consumable, any weapon category.
+  Damage Type: none — flat accuracy/damage buff, stacks with a weapon's own inherent mods.
+  Effect: applies a temporary calibration bonus to accuracy and damage until the next rest.
+
+---
+
+"Corrosive Dart Launcher" (placeholder, not developer-chosen) — from Melf's Acid Arrow — Outcome 5
+  Category: Long Guns (specialized launcher).
+  Damage Type: Acid (per Damage_Types.md — immediate damage plus a delayed tick, and armor degradation over
+  time).
+  Effect: attack-roll-based, routing through the existing ranged hit-chance system per Section 3; deals
+  immediate Acid damage plus a delayed tick at the end of the target's next turn, and leaves a corrosive
+  surface that reduces DT for anyone standing on it.
+
+---
+
+"Holo-Decoy Field" (placeholder, not developer-chosen) — from Mirror Image — Outcome 2
+  Diegetic: a deployable holographic decoy field generating illusory duplicates of the user.
+  Requirements: Calculation 6, Hacking 45.
+  Ranks: 1.
+  Effect: generates 3 decoy images; each grants a flat evasion bonus and is consumed instead of the user
+  when an attack is evaded, until all three are gone.
+
+---
+
+"Jet-Assist Blink" (placeholder, not developer-chosen) — from Misty Step — Outcome 2
+  Diegetic: the framework document's own named example (Section 6) — a thruster-assisted micro-blink via
+  leg-servo/jet-assist burst, the one clean grounded substitute for teleport-shaped effects without
+  inventing new physics.
+  Requirements: Engine 7, Acrobatics 40.
+  Ranks: 1.
+  Effect: instant reposition to any visible unoccupied space within range.
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: unlike BG3's unlimited-per-slot version, this needs a cooldown per Section 3's rule against
+  spammable AP-only repositioning.
+
+---
+
+"Mobile Beam-Drone" (placeholder, not developer-chosen) — from Moonbeam — Outcome 2
+  Diegetic: a deployable mobile beam-emitter drone the user repositions each turn while it burns anyone
+  standing in its beam, matching Conjuration's drone default.
+  Requirements: Calculation 7, Hacking 50.
+  Ranks: 1.
+  Effect: deploys a drone dealing Radiant damage per turn to anyone standing in its beam; movable at no
+  extra AP cost while it occupies the active-effect slot.
+
+---
+
+"Signature Dampening Broadcast" (placeholder, not developer-chosen) — from Pass Without Trace — Outcome 1
+  Diegetic: a squad-wide stealth-dampening broadcast (sound/thermal signature suppression) delivered via
+  Bridge Unit tether, per the triage's own call.
+  Effect: a flat Sneak bonus to self and allies within jack-in range for the duration.
+  Cost: 4 AP. Cooldown: 5 turns. Duration: 10 turns.
+
+---
+
+"Neural Pain-Loop Injection" (placeholder, not developer-chosen) — from Phantasmal Force — Outcome 1
+  Diegetic: a neural pain-loop injection delivered directly through jack-in, re-checked each turn against a
+  flat threshold to end early, per the triage's own call.
+  Effect: Psychic/Neural damage each turn while sustained (occupies the active-effect slot); ends early if
+  the target's Calculation is 6 or above at turn-end.
+  Cost: 4 AP to initiate. Cooldown: 4 turns after ending. Duration: up to 10 turns while sustained.
+
+---
+
+"Downtime Treatment Session" (placeholder, not developer-chosen) — from Prayer of Healing — Outcome 5
+  Category: Chem/Medical, downtime-only.
+  Damage Type: none.
+  Effect: an out-of-combat squad-wide nanite treatment session; no effect on robots (repair kits needed
+  instead), matching the original's "no effect on undead/constructs" clause.
+
+---
+
+"Antitoxin Injector" (placeholder, not developer-chosen) — from Protection from Poison — Outcome 5
+  Category: Chem injector or armor-augment slot.
+  Damage Type: resists Poison (per Damage_Types.md).
+  Effect: neutralizes active poisons in the system and grants resistance to further Poison damage for the
+  duration.
+
+---
+
+"Servo-Disruptor Dart" (placeholder, not developer-chosen) — from Ray of Enfeeblement — Outcome 5
+  Category: Signal Weapons (specialized dart launcher).
+  Damage Type: Psychic/Neural (per Damage_Types.md — nerve overload disrupting fine motor output; one of the
+  few Signal Weapon payloads that reads identically against both humans and robots).
+  Effect: attack-roll-based; on a hit, halves the target's Might-based weapon damage for the duration.
+
+---
+
+"Tri-Burst Thermal Emitter" (placeholder, not developer-chosen) — from Scorching Ray — Outcome 5
+  Category: Cell-Fed Weapons.
+  Damage Type: Fire/Thermal (per Damage_Types.md).
+  Effect: fires three independently-aimed shots in one action, each resolved separately through the existing
+  ranged hit-chance system.
+
+---
+
+"Cloak-Piercing Sensor Suite" (placeholder, not developer-chosen) — from See Invisibility (spell) — Outcome 2
+  Diegetic: a sensor-suite upgrade (Investigation-flavored) letting the user detect cloaked/hidden targets.
+  Requirements: Investigation 7, Hacking 45.
+  Ranks: 1.
+  Effect: reveals active-camo/cloaked targets within a radius; forces enemy holographic camouflage effects
+  in the area to fail.
+
+---
+
+"Monowire Neural Edge" (placeholder, not developer-chosen) — from Shadow Blade — Outcome 5
+  Category: Bladed Melee.
+  Damage Type: base Slashing plus a Psychic/Neural bonus (per Damage_Types.md).
+  Effect: a monowire/vibro-blade with a neural-disruption edge, dealing bonus damage against targets in low
+  visibility or obscuring cover.
+
+---
+
+"Sonic Fracture Charge" (placeholder, not developer-chosen) — from Shatter — Outcome 5
+  Category: Thrown/Explosives.
+  Damage Type: Thunder (per Damage_Types.md — pressure waves, structural damage; robots and structures are
+  especially vulnerable, converting BG3's "inorganic creatures have disadvantage on this save" flavor into a
+  bonus-effectiveness note rather than a literal save mechanic).
+  Effect: an area sonic-charge grenade, particularly effective against robots and structures.
+
+---
+
+"Comms Blackout Field" (placeholder, not developer-chosen) — from Silence — Outcome 1
+  Diegetic: the framework document's own second named worked example (Section 3) — a comms/signal-jamming
+  field disabling voice comms and anything requiring an unobstructed jack-in connection within its radius.
+  Cost: 5 AP. Cooldown: 6 turns. Duration: scaled down to roughly 15 turns.
+  Note: BG3's own duration for Silence is 100 turns — an outlier even by Level 2's own standards (every
+  other spell in this batch tops out at 10). Porting that literally would let a single quickhack dominate an
+  entire Inner Tepenia encounter given the turn-based pacing; flagging the deviation explicitly rather than
+  silently changing a sourced number.
+
+---
+
+"Caltrop Field Generator" (placeholder, not developer-chosen) — from Spike Growth — Outcome 5
+  Category: Thrown/Explosives (area-denial mine).
+  Damage Type: Piercing (per Damage_Types.md).
+  Effect: deploys a spike-mine/caltrop field dealing damage per interval of movement through the area; also
+  creates difficult terrain.
+
+---
+
+"Autonomous Strike Drone" (placeholder, not developer-chosen) — from Spiritual Weapon — Outcome 2
+  Diegetic: a deployable autonomous attack drone acting on its own initiative each turn, per Conjuration's
+  drone default.
+  Requirements: Calculation 7, Hacking 55.
+  Ranks: 1.
+  Effect: summons a drone (Force/Kinetic damage) that attacks automatically on its own initiative each turn;
+  only one active at a time; immune to opportunity attacks.
+
+---
+
+"Redistribution Tether" (placeholder, not developer-chosen) — from Warding Bond — Outcome 2
+  Diegetic: a Bridge Unit damage-redistribution tether linking the user to an ally, per the triage's own
+  call.
+  Requirements: Humanity 6, Insight 40.
+  Ranks: 1.
+  Effect: the linked ally gains damage resistance and a flat armor/save bonus; the user takes a redirected
+  share of whatever damage the ally takes (reduced by the user's own resistances). Persists if the user is
+  downed, ends if the user dies; can link multiple allies at once.
+
+---
+
+"Adhesive Foam Grenade" (placeholder, not developer-chosen) — from Web — Outcome 5
+  Category: Thrown/Explosives.
+  Damage Type: none — pure restraint/area-denial (flammable difficult terrain that restrains anyone caught
+  in it; also cushions falls, matching the original).
+
+OUTCOME COUNT (this batch, all 42 Level 2 spells)
+Outcome 1 (Quickhack): 10 — Arcane Lock, Blindness, Calm Emotions, Crown of Madness, Heat Metal, Hold Person,
+  Knock, Pass Without Trace, Phantasmal Force, Silence.
+Outcome 2 (Level-up perk): 12 — Barkskin, Blur, Detect Thoughts, Enthrall, Flaming Sphere, Invisibility,
+  Mirror Image, Misty Step, Moonbeam, See Invisibility, Spiritual Weapon, Warding Bond.
+Outcome 5 (Item/equipment/weapon): 20 — Aid, Branding Smite, Cloud of Daggers, Darkness, Darkvision, Enhance
+  Ability, Enlarge/Reduce, Flame Blade, Gust of Wind, Lesser Restoration, Magic Weapon, Melf's Acid Arrow,
+  Prayer of Healing, Protection from Poison, Ray of Enfeeblement, Scorching Ray, Shadow Blade, Shatter,
+  Spike Growth, Web.
+Outcome 3 (Earned perk): 0. Outcome 4 (Trait): 0. Outcome 6 (Drop): 0.
+Total: 42/42, matches Reference/bg3-triage-02-level1-level2.md's Level 2 distribution exactly.
+
+		/// Level 3 Spells ///
+
+"Motor-Ghost Protocol" (placeholder, not developer-chosen) — from Animate Dead
+  Outcome 3 — Earned Perk (Category C: Quest and Choice Perk, per Perk_Framework.md), dark-content-locked.
+  Diegetic: a canister of motor-nanites hijacks a fresh corpse's remaining motor-nerve pathways, driving the
+  body as a puppet extension of the operator's control signal — not resurrection, not consciousness restored,
+  the meat made to walk again on someone else's command.
+  Effect: awarded on completion of a specific Scorpio/Aquarius-adjacent questline that forces the player to
+  actually sit with the ethics of nanite-driven corpse repurposing before granting it — per the framework's
+  explicit instruction to keep Animate Dead dark and morally loaded rather than sanitized into a generic
+  level-up option. Once earned, unlocks the ability to reanimate one fresh Medium/Small corpse into a
+  controlled servant-drone for the rest of a mission — no combat competence of its own (no carry-over of the
+  corpse's former Might/Agility), a distraction/meatshield/pack-mule, not a companion. Only one active at a
+  time; deploying a new one drops the old one inert.
+  Cost: consumes a craftable/lootable "motor-nanite canister" item to activate + 3 AP to deploy. No cooldown
+  beyond needing a fresh canister and a fresh corpse.
+  Note: NPCs and companions who know the player has this should be able to react to its use — it is meant to
+  cost something socially, not just sit quietly in the perk list.
+
+---
+
+"Lifeline Broadcast" (placeholder, not developer-chosen) — from Beacon of Hope
+  Outcome 2 — Level-up perk. Gate: Investigation 6 + Medicine 45.
+  Diegetic: a worn transponder broadcasts a real-time vitals-and-priority feed to every stim injector and
+  trauma kit in range, letting them auto-calibrate for maximum effect instead of a standard dose.
+  Effect: toggled broadcast (occupies the single active-effect slot, radius 9m): medical stims used on anyone
+  in range heal for their maximum listed amount instead of the standard amount, and any ally reduced to 0 HP
+  within the radius gets one additional "critical-stable" turn before being finished off — buying the squad
+  time to reach and stabilize them, deterministic per Skills.md's no-dice-roll law rather than an
+  advantage-on-a-save mechanic.
+  Cost: 2 AP to toggle on. Duration: 10 turns, re-toggle cooldown 2 turns. Affects the player too.
+
+---
+
+"Corrosion Tag" (placeholder, not developer-chosen) — from Bestow Curse
+  Outcome 1 — Quickhack.
+  Diegetic: single-target jack-in payload that plants a persistent disruption package in the target's
+  system/nervous feed — chosen at cast time, one Tag active on a given target at once.
+  Effect: choose one variant on activation — (a) Dread: raises the effective threshold on the target's own
+  skill/stat checks for the duration; (b) Accuracy Drop: reduces the target's ranged hit-chance; (c)
+  Vulnerability: target takes increased damage from all sources; (d) Custom Disruption: locks out actions tied
+  to one chosen MACHINE stat. Per Section 3's saving-throw substitution, the target's Nerve must be below a
+  set value for the Tag to land at all — a high-Nerve target is simply immune by design, not by chance.
+  Cost: 5 AP. Cooldown: 5 turns. Duration: 10 turns.
+
+---
+
+"Flare-Edge Blade" (placeholder, not developer-chosen) — from Blinding Smite
+  Outcome 5 — Item, Bladed Melee weapon category (or an attachment/mod on an existing blade). Damage:
+  Radiant (per Damage_Types.md — coherent-energy/laser weapons, "precision damage; good vs. specific
+  materials," not "holy light"). A monoblade fitted with a coherent-light discharge cell along its edge; a
+  solid hit dumps a blinding optical-overload pulse into the target's eyes/sensors on top of the cut, stacking
+  Radiant damage with a several-turn Blinded-equivalent debuff (attack penalty, forced-close-range on ranged
+  responses).
+
+---
+
+"Ghost-Step Burst" (placeholder, not developer-chosen) — from Blink
+  Outcome 1 — Quickhack.
+  Diegetic: a personal EM-cloak/hard-light displacement unit wired into the Bridge Unit triggers a half-second
+  signal-drop, pulling the user off active targeting locks long enough to reposition before systems reacquire.
+  Effect: instantly reposition up to 6m, and can't be attacked until the start of your next turn or until you
+  act (whichever comes first). Combat-only.
+  Cost: 4 AP. Cooldown: 6 turns.
+  Note: drops the original's d20-flip entirely per Skills.md's no-dice-roll law — this is a guaranteed effect
+  on activation, paid for with the AP/cooldown cost instead of a coin-flip chance to work at all.
+
+---
+
+"Storm-Caller Arc Rig" (placeholder, not developer-chosen) — from Call Lightning
+  Outcome 5 — Item, Arc Weapons category. Damage: Lightning (per Damage_Types.md). A portable rail-arc caster
+  (or a called-in strike beacon for a ranged variant) that lets the wielder keep triggering repeated Lightning
+  discharges into a fixed area for as long as it stays charged and deployed, rather than a single-shot weapon.
+
+---
+
+"Flechette Fan Charge" (placeholder, not developer-chosen) — from Conjure Barrage
+  Outcome 5 — Item, Thrown/Explosives category (grenade or shotgun-class). Damage: Slashing (per
+  Damage_Types.md). A cone-pattern shrapnel/flechette dispersal charge — one blast covers a full frontal arc
+  rather than a single target, trading precision for area coverage.
+
+---
+
+"Intrusion Jam" (placeholder, not developer-chosen) — from Counterspell
+  Outcome 2 — Level-up perk. Gate: Calculation 6 + Hacking 50.
+  Diegetic: a reactive counter-intrusion routine through the Bridge Unit that watches for an incoming hostile
+  quickhack signature and slams the connection shut before the payload resolves.
+  Effect: once available, spend AP off-turn (reaction-speed) to attempt to jam an incoming hostile quickhack
+  before it lands. Per Section 3's flat-threshold substitution for the original's ability check: if the
+  player's Hacking skill meets or exceeds the attacking quickhack's tier rating, the jam auto-succeeds — no
+  roll. Against a higher-tier attacker, it auto-fails; there is no partial outcome.
+  Cost: 3 AP (spent as an interrupt). Cooldown: 4 turns.
+
+---
+
+"Rally Feed" (placeholder, not developer-chosen) — from Crusader's Mantle
+  Outcome 2 — Level-up perk. Gate: Humanity 6 + Speech 40.
+  Diegetic: a short-range squad-comms overlay carrying a calibrated morale/adrenaline broadcast, tuned to
+  sharpen allies' weapon follow-through rather than just "hype" — a leadership-and-presence build option, not
+  a chemical stim.
+  Effect: while active (occupies the active-effect slot, 9m radius), allies' weapon attacks deal a flat bonus
+  Radiant-adjacent damage add for the duration.
+  Cost: 3 AP to activate. Duration: 10 turns. Cooldown to reactivate after it ends: 3 turns.
+
+---
+
+"Flood-Beacon Flare" (placeholder, not developer-chosen) — from Daylight
+  Outcome 5 — Item, deployable/worn utility gear (not a weapon). A high-intensity floodlight flare or
+  shoulder-worn illuminator that floods its radius with hard light, nullifying optical-camouflage and
+  darkness-dependent Illusion-tech effects (holographic cloaking, chameleon coating) within range for as long
+  as it stays lit.
+
+---
+
+"Payload Cartridge — Elemental" (placeholder, not developer-chosen) — from Elemental Weapon
+  Outcome 5 — Item, ammo/coating mod category. Damage: player's choice of secondary type from
+  Damage_Types.md's full list. A swappable ammunition cartridge or blade-coating canister that adds a chosen
+  secondary damage type and a small accuracy bonus to an existing conventional weapon; no bonus applies if the
+  weapon is thrown rather than fired/swung.
+
+---
+
+"Terror Pulse" (placeholder, not developer-chosen) — from Fear
+  Outcome 1 — Quickhack.
+  Diegetic: a cone-area Signal Weapon effect — a neural/psychic overload pulse dumped through the Bridge Unit,
+  Psychic damage type (per Damage_Types.md).
+  Effect: cone-area; affected targets are forced to disengage (interrupted out of their current action) and
+  must move away from the caster's line of sight for the duration, reapplying automatically each turn they
+  remain visible to the caster (no additional cost to reapply). Per Section 3's threshold substitution, only
+  targets with Nerve below a set value are affected — high-Nerve targets are immune by design.
+  Cost: 6 AP. Cooldown: 5 turns. Duration: 2 turns.
+
+---
+
+"Idle-State Trigger" (placeholder, not developer-chosen) — from Feign Death
+  Outcome 1 — Quickhack.
+  Diegetic: an induced low-signature state — humans trigger a medical near-coma auto-injector, robots drop to
+  idle/dormant power mode.
+  Effect: broad resistance to incoming damage (except Psychic/Neural) and immunity to poison/disease-equivalent
+  effects while the state holds; the target can't act. Ends immediately if the target receives healing.
+  Cost: 5 AP. Cooldown: 6 turns. Duration: 10 turns or until healed, whichever comes first.
+
+---
+
+"Standard Thermal Charge" (placeholder, not developer-chosen) — from Fireball
+  Outcome 5 — Item, Thrown/Explosives category. Damage: Fire/Thermal (per Damage_Types.md). A standard
+  high-yield thermal/incendiary grenade or plasma charge dealing blast-radius Fire/Thermal damage — the
+  cleanest possible landing, this is just the game's baseline grenade archetype under a different name.
+
+---
+
+"Vapor-Phase Dispersal Aerosol" (placeholder, not developer-chosen) — from Gaseous Form
+  Outcome 5 — Item, one-use consumable. Deploys a nanite-dispersal aerosol that turns the user into an
+  untargetable gas-form swarm able to squeeze through gaps and cross terrain that would otherwise block
+  movement, at the cost of being unable to fight or use most abilities while dispersed. Matches Transmutation's
+  "rarely a permanent perk" default from the methodology doc.
+
+---
+
+"Proximity Ward Charge" (placeholder, not developer-chosen) — from Glyph of Warding
+  Outcome 5 — Item, placeable trap/deployable category. Damage variants: Acid/Cold/Fire/Lightning/Thunder (per
+  Damage_Types.md), or non-damage variants (knockout gas/detonation). Arms against anyone but the deployer;
+  only one active per player at a time. A proximity-triggered charge planted ahead of time rather than used
+  reactively.
+
+---
+
+"Strap-On Hover Canister" (placeholder, not developer-chosen) — from Grant Flight
+  Outcome 5 — Item, single-use consumable (Transmutation's exosuit-servo default). Grants an ally short
+  hover-jump bursts across a turn's movement; must touch down again at the end of each turn's movement rather
+  than sustaining true flight.
+
+---
+
+"Overdrive Stim" (placeholder, not developer-chosen) — from Haste
+  Outcome 5 — Item, consumable combat stim (the standard Transmutation-default landing). Grants a temporary
+  extra action and a reflex/speed boost for its duration, with a mandatory Lethargic-equivalent "crash" turn
+  once it wears off — unable to move, act, or react. The crash isn't optional; it's the built-in cost of
+  taking it.
+
+---
+
+"Corrosive-Cryo Fog Canister" (placeholder, not developer-chosen) — from Hunger of Hadar
+  Outcome 5 — Item, grenade/area-denial category. Damage: Cold then Acid, per turn (per Damage_Types.md). A
+  fog grenade that blankets an area in blinding vapor, dealing Cold damage at the start of each turn caught
+  inside and Acid damage at the end of it, plus a movement-slowing effect for the duration.
+
+---
+
+"Dazzle-Field Projector" (placeholder, not developer-chosen) — from Hypnotic Pattern
+  Outcome 1 — Quickhack.
+  Diegetic: an area holographic dazzle-pattern projection — the Illusion-default quickhack landing.
+  Effect: area effect; anyone with functioning optical/visual sensors who can see the pattern is locked into a
+  passive stupor (can't attack, move, or act) until they take damage or are shaken loose. Robots/constructs
+  without a comparable optical-cognitive vulnerability are immune by design, not by resistance roll — matches
+  the original's construct-immunity clause directly.
+  Cost: 7 AP. Cooldown: 6 turns. Duration: 2 turns, ends early on damage.
+
+---
+
+"Arc-Charged Round" (placeholder, not developer-chosen) — from Lightning Arrow
+  Outcome 5 — Item, ammunition category (bow-equivalent or rifle round). Damage: Lightning primary + Lightning
+  secondary burst (per Damage_Types.md). Routes the primary hit through the existing ranged hit-chance system
+  per Section 3; the secondary burst radius applies even on a missed primary shot.
+
+---
+
+"Rail-Discharge Line Caster" (placeholder, not developer-chosen) — from Lightning Bolt
+  Outcome 5 — Item, Arc Weapons category. Damage: Lightning (per Damage_Types.md). A chained rail-discharge
+  weapon that fires a penetrating line of Lightning damage through everything in its path rather than a single
+  target — the line-AoE version of the Storm-Caller Arc Rig above.
+
+---
+
+"Field Triage Broadcast" (placeholder, not developer-chosen) — from Mass Healing Word
+  Outcome 2 — Level-up perk. Gate: Investigation 6 + Medicine 45.
+  Diegetic: a bonus-action-speed remote stim dispersal — a burst broadcast that fires a calibrated dose to
+  every compatible injector in range simultaneously.
+  Effect: heals multiple allies within an 18m radius simultaneously for a flat amount; humans-only, no effect
+  on robots (matches the original's no-effect-on-undead/constructs exclusion).
+  Cost: 2 AP (the cheap, bonus-action-speed cost the original's Bonus Action casting time maps to). Cooldown:
+  4 turns.
+
+---
+
+"Expanding Structural-Foam Canister" (placeholder, not developer-chosen) — from Plant Growth
+  Outcome 5 — Item, area-denial/terrain category. Drops the literal-vegetation flavor as a poor fit for the
+  Antarctic setting while keeping the mechanical shape: an expanding structural-foam/insulating-gel canister
+  that floods an area with sticky, movement-quartering terrain, burnable away with thermal weapons.
+
+---
+
+"Calibrated Plating Toggle" (placeholder, not developer-chosen) — from Protection from Energy
+  Outcome 2 — Level-up perk. Gate: Investigation 6 + Repair 40.
+  Diegetic: calibrated ablative/reactive plating (or a personal EM dampener for the electromagnetic types) that
+  the player tunes to one specific energy signature — Abjuration's armor-tech default.
+  Effect: toggle on, choose one energy damage type (Acid/Cold/Fire/Lightning/Thunder/Plasma/Radiation/EMP —
+  Damage_Types.md's full energy-adjacent list) and gain resistance to it while active. Occupies the
+  active-effect slot; toggling off frees the slot immediately.
+  Cost: 3 AP to toggle on. No separate cooldown — limited by the single active-effect slot itself.
+
+---
+
+"System Purge Routine" (placeholder, not developer-chosen) — from Remove Curse
+  Outcome 1 — Quickhack.
+  Diegetic: a decontamination/system-purge routine — a chemical antidote injector for humans, a
+  corrupted-firmware flush for robots.
+  Effect: clears one active hostile status-effect debuff from the target (per Section 5's flagged gap, using
+  BG3's own condition names as working placeholders until Status_Effects_and_Conditions.md exists).
+  Cost: 4 AP. Cooldown: 4 turns.
+
+---
+
+"Trauma Stabilization Injector" (placeholder, not developer-chosen) — from Revivify
+  Outcome 5 — Item, medical/consumable category. A nanite-loaded defibrillator/trauma injector that stabilizes
+  a freshly downed companion at minimum HP — the framework explicitly green-lights this "1 HP, no extra cost"
+  model as acceptable (unlike true resurrection-from-nothing, which stays on the drop list). Target must be
+  repositioned within a short radius to use.
+
+---
+
+"Freeze-Field Grenade" (placeholder, not developer-chosen) — from Sleet Storm
+  Outcome 5 — Item, grenade/area-denial category. A freeze-grenade that extinguishes fire, coats the area in
+  slick ice (movement halved, chance to fall), and interferes with sustained device/ability operation for
+  anyone lingering nearby. Ice melts under thermal-weapon fire.
+
+---
+
+"System Throttle Pulse" (placeholder, not developer-chosen) — from Slow
+  Outcome 1 — Quickhack.
+  Diegetic: a multi-target EM "system throttle" pulse — Arc Weapons/Signal Weapons EMP-adjacent kit.
+  Effect: up to 6 targets in an 18m-range field — halved movement, reduced defense, no reactions, restricted to
+  either an action or a bonus-equivalent action per turn (not both), max one attack per turn. Per Section 3's
+  threshold substitution, affected targets are determined once at cast time by a flat Nerve check rather than
+  re-rolled each turn.
+  Cost: 6 AP. Cooldown: 5 turns. Duration: 10 turns.
+
+---
+
+"Neural Residue Scan" (placeholder, not developer-chosen) — from Speak with Dead
+  Outcome 2 — Level-up perk. Gate: Investigation 7 + Biology 45.
+  Diegetic: scans a fresh corpse's neural cache/black-box storage for a handful of last-known data points — a
+  forensic reconstruction, not a conversation with the dead.
+  Effect: recovers roughly five discrete pieces of last-known information from a fresh corpse; unusable on
+  bodies destroyed by high-damage-type kills (Fire, Acid, Lightning, Necrotic, Radiant) or on robots without a
+  comparable recoverable black-box. Non-combat-only per Section 3's ritual-casting substitution — zero
+  AP/resource cost, unlimited re-scans of the same corpse until the player leaves the area.
+  Cost: none (non-combat-only variant).
+
+---
+
+"Escort Drone Ring" (placeholder, not developer-chosen) — from Spirit Guardians
+  Outcome 2 — Level-up perk. Gate: Calculation 6 + Hacking 45.
+  Diegetic: a ring of micro-combat-drones the player deploys and keeps orbiting themselves — Conjuration's
+  sustained-perk default.
+  Effect: deals periodic Radiant or Nanotech-equivalent damage (player's choice at activation, per
+  Damage_Types.md) to anyone in melee range each turn, and halves the movement speed of anyone caught in that
+  range. Occupies the active-effect slot; the player cannot use camouflage/active-stealth quickhacks while it's
+  running (mirrors the original's "can't turn Invisible while concentrating").
+  Cost: 3 AP to activate. Duration: up to 10 turns while sustained.
+
+---
+
+"Nausea-Gas Canister" (placeholder, not developer-chosen) — from Stinking Cloud
+  Outcome 5 — Item, grenade/area-denial category. Damage type: Poison (per Damage_Types.md). A nausea-gas
+  canister that incapacitates anyone inside the cloud who fails to hold their breath or otherwise resist each
+  turn — robots are largely unaffected per Poison's established anti-human lean, unless the payload is
+  nanite-delivered.
+
+---
+
+"Siphon Blade" (placeholder, not developer-chosen) — from Vampiric Touch
+  Outcome 5 — Item, Drain Weapons category (melee). Damage/resource: Coolant Siphon (anti-robot) or Exposure
+  Siphon (anti-human) per Damage_Types.md's Siphon section — a genuinely transfer-based (vampiric) variant
+  rather than pure denial. A melee siphon tool that deals direct damage on a hit while feeding a portion of
+  what it drains back to the user as HP/coolant, the exact "transfer vs. denial" subtype the Siphon section
+  already defines for Drain Weapons.
+
+---
+
+"Field-Medic Aura" (placeholder, not developer-chosen) — from Warden of Vitality
+  Outcome 2 — Level-up perk. Gate: Investigation 6 + Medicine 50.
+  Diegetic: an active field-med aura — a standing broadcast that keeps a combat-medic loadout primed and ready
+  to fire on demand rather than requiring a fresh setup each use.
+  Effect: while the aura is active (occupies the active-effect slot, 10-turn duration), the player gains a
+  repeatable bonus-action-speed heal usable on themselves or a nearby ally.
+  Cost: 3 AP to activate the aura; each heal-use within it costs 2 AP, no additional cooldown beyond the
+  aura's own duration.
+
+		/// Level 4 Spells ///
+
+"Hard-Light Containment Snare" (placeholder, not developer-chosen) — from Banishment [Outcome 1: Quickhack]
+  Diegetic: a short-range stasis-field burst fired through the jack-in link — a hard-light lattice
+  collapses around the target and locks out its own targeting/motor systems from the inside, rather than
+  removing it to another plane (per the framework's drop-list precedent: cut the planar framing, keep the
+  containment shape).
+  Effect: target can't be targeted, move, act, or take reactions for 2 turns (1:1 port of BG3's duration).
+  Works on both robots (motor-control lockout) and humans (neural/proprioceptive lockout).
+  Cost: 7 AP. Cooldown: 6 turns.
+  Note: BG3's Charisma save becomes a flat threshold — target's Nerve must be below a set value (illustrative:
+  Nerve 6) for the lock to land at all; high-Nerve bosses are simply immune by design, not by luck. No upcast
+  target-count scaling since Inner Tepenia has no spell-slot tiers.
+
+"Cross-Wire IFF Scramble" (placeholder, not developer-chosen) — from Confusion [Outcome 1: Quickhack]
+  Diegetic: an area holographic/EM disruption pulse that corrupts friend-or-foe identification broadcasts —
+  the Illusion school's default holographic-camouflage-tech landing, redirected at IFF signal integrity
+  instead of visual concealment.
+  Effect: 6m-radius field (matches BG3's area). Anyone inside attacks the nearest target regardless of
+  allegiance, or freezes for the turn, for 3 turns. Allies of the caster are excluded from the field by the
+  IFF-scrambler's own targeting logic (mirrors BG3's ally-immunity).
+  Cost: 8 AP. Cooldown: 7 turns.
+  Note: heaviest-cost quickhack in this batch — area-of-effect crowd control justifies the premium over the
+  single-target entries. No flat-threshold save is needed since the effect already excludes allies by design;
+  robots without a coherent "friend" concept (very low Humanity/no faction tagging) may be flagged as immune,
+  a call for the actual conversion pass.
+
+"Hard-Light Containment Bubble" (placeholder, not developer-chosen) — from Otiluke's Resilient Sphere [Outcome 1: Quickhack]
+  Diegetic: the same containment-field tech as the Banishment quickhack above, scaled down into a
+  fully-enclosing bubble rather than a lockout field — deployable on an ally as an emergency bunker or on an
+  enemy as a trap.
+  Effect: encloses one target (self, ally in jack-in range, or enemy) in a hard-light sphere — half movement
+  speed, blocks all incoming and outgoing attacks for 3 turns (1:1 port of BG3's duration).
+  Cost: 6 AP. Cooldown: 5 turns.
+  Note: cheapest of the three Level 4 quickhacks since it's single-effect and doesn't deal or prevent damage
+  outright, just removes the target from the fight temporarily either way — genuinely dual-use (defensive save
+  or offensive lockdown), unlike Banishment's purely offensive framing.
+
+"Auxiliary Drone Wing" (placeholder, not developer-chosen) — from Conjure Minor Elemental [Outcome 2: Level-up perk]
+  MACHINE stat: Calculation 6+. Skill: Hacking 45+.
+  Effect: deploys a combat drone loadout — choice of two light utility drones or one heavier single unit,
+  made at deployment. Only one loadout active at a time; redeploying despawns the old one, and destroying the
+  old loadout triggers a small area burst (Force/EMP) as its capacitors vent, mirroring BG3's Death Burst.
+  Diegetic: the Bridge Unit's jack-in signal reaches out to a cached drone rig and boots it remotely — this
+  is Conjuration's drone-deployment default per Section 2 of the methodology, distinct from the Companion
+  System's human/robot companion slots.
+  Note: entry-tier drone perk in what should become a small drone-perk family (compare "Anchor-Line Turret"
+  and "Heavy Sentry Turret" below) — gate is deliberately lower than those two so it's reachable earlier in a
+  Hacking-focused build.
+
+"Tethered Recon Line" (placeholder, not developer-chosen) — from Conjure Woodland Being [Outcome 2: Level-up perk]
+  MACHINE stat: Investigation 6+. Skill: Repair 40+.
+  Effect: deploys a scout/utility drone distinct in role from the Auxiliary Drone Wing above — no direct
+  damage kit, instead a recon sensor package plus a crowd-control entangling nanofilament line it can fire at
+  a target (functional equivalent of the Dryad's Entangle). Duration until the character next rests. Only one
+  active instance; redeploying despawns the previous unit.
+  Diegetic: a field-built scout-bot assembled and directed through the jack-in link — reads as a Repair-skill
+  capability (building/maintaining the unit) rather than Hacking's remote-intrusion flavor, which is why it's
+  gated differently from the combat-drone perk above despite the shared Conjuration ancestry.
+  Note: the entangling line gives this perk a non-damage utility niche (crowd control / target-yanking) that
+  the combat-drone perk doesn't cover, so a build can reasonably want both.
+
+"Dead Man's Injector" (placeholder, not developer-chosen) — from Death Ward [Outcome 2: Level-up perk]
+  MACHINE stat: Engine 6+. Skill: Medicine 50+.
+  Effect: an implanted auto-injector (humans) or nanite failsafe cache (robots) that triggers once per rest
+  cycle — the next hit that would kill the character instead leaves them conscious at minimum HP.
+  Diegetic: Abjuration's protective-tech default, reframed as a literal implanted medical/nanite failsafe
+  rather than a ward spell — matches the framework's "grounded biology/chemistry" requirement directly.
+  Note: 1:1 port of BG3's "one use, resets on Long Rest" limiter — no AP cost since it's a passive, automatic
+  trigger, not a chosen action.
+
+"Long-Hop Phase Rig" (placeholder, not developer-chosen) — from Dimension Door [Outcome 2: Level-up perk]
+  MACHINE stat: Agility 7+. Skill: Acrobatics 60+.
+  Effect: a longer-range, build-defining upgrade beyond the Blink quickhack (Level 3 batch) — short-hop
+  phase-displacement teleport to any visible point within extended range, able to pull one adjacent ally
+  along (or self-target alone). Unusable if the ally is restrained/immobilized (matches BG3's exclusion).
+  Diegetic: the same personal EM-cloak/hard-light displacement tech as Blink, now powerful enough to carry a
+  second person and reach much farther — a genuine capability tier-up rather than a reskin.
+  Note: costed as an activated ability (illustrative: 5 AP, cooldown 4 turns) rather than a pure passive,
+  since unlike most Level 4 level-up perks here it's a repeatable active capability, not a toggle or aura.
+
+"IFF Hijack" (placeholder, not developer-chosen) — from Dominate Beast [Outcome 2: Level-up perk]
+  MACHINE stat: Calculation 7+. Skill: Hacking 70+.
+  Effect: a sustained hack that flips a hostile robot (or, rarely, a tagged/cybernetic creature) to fight
+  alongside the player. Occupies the character's single "active effect" slot (Section 3's concentration
+  substitute) for its duration; the controlled unit re-checks its own defensive routines (and can break free)
+  each time it takes enough damage, mirroring BG3's re-save-on-damage clause.
+  Diegetic: overrides the target's IFF/control routines through the jack-in link rather than a Wisdom-based
+  domination — a straightforward extension of what the Bridge Unit already does to terminals and access
+  points, just aimed at a hostile unit's own combat AI instead.
+  Note: the "turncoat" framing keeps this squarely a Calculation/Hacking build capability, not a Companion
+  System addition — the hijacked unit is temporary and hostile-sourced, not a recruited character.
+
+"Servo Override Protocol" (placeholder, not developer-chosen) — from Freedom of Movement [Outcome 2: Level-up perk]
+  MACHINE stat: Might 6+. Skill: Athletics 55+.
+  Effect: a toggle capability that cures Stun-equivalent lockups on activation and grants standing immunity
+  to terrain-slowdown and forced-restraint effects (both magical-equivalent and mundane, closing BG3's own
+  noted gap where non-magical restraint wasn't actually escapable).
+  Diegetic: Abjuration's armor-tech default, reframed as an exosuit servo-override routine that force-drives
+  joints and actuators through anything trying to lock them — an Athletics/Might read (raw forced movement)
+  rather than a finesse one, distinct from the Acrobatics-governed Long-Hop Phase Rig above.
+  Note: "until Long Rest" duration ports over as "active until the character next rests," per Section 3's
+  1:1 duration mapping — no AP cost to maintain once toggled on.
+
+"Anchor-Line Turret" (placeholder, not developer-chosen) — from Grasping Vine [Outcome 2: Level-up perk]
+  MACHINE stat: Calculation 6+. Skill: Hacking 45+.
+  Effect: deploys a stationary tether-turret (illustrative: 20 HP) that plants itself, creates a 3m
+  difficult-terrain zone around itself, and can fire a grapple line to yank a target 9m toward it, restraining
+  anyone who fails to break free (a flat Might threshold check replaces BG3's Strength save, per Section 3).
+  Diegetic: Conjuration's turret-deployment default, sharing the same drone-bay tech as the Auxiliary Drone
+  Wing above but purpose-built as a stationary area-denial tool rather than a mobile combat unit.
+  Note: gated identically to the Auxiliary Drone Wing perk (same Calculation/Hacking pairing) since both are
+  entry-tier deployables from the same drone family — differentiated by role (mobile DPS vs. stationary
+  crowd control), not by build investment.
+
+"Full-Spectrum Camouflage Suite" (placeholder, not developer-chosen) — from Greater Invisibility [Outcome 2: Level-up perk]
+  MACHINE stat: Agility 7+. Skill: Sneak 65+.
+  Effect: an active-camouflage capability combining holographic light-bending with EM signature dampening —
+  near-total visual/targeting concealment (attacks against the user are heavily disadvantaged, the user's own
+  attacks land more easily) for 10 turns, occupying the "active effect" slot. Breaks early if a Sneak
+  threshold check fails when the user attacks or interacts with the world.
+  Diegetic: Illusion's holographic-camouflage default at its most advanced tier — the same underlying tech
+  family as the Illusion-default quickhacks, but built into a wearable suit rather than a short jack-in pulse,
+  which is what justifies the level-up-perk landing over a quickhack.
+  Note: the escalating BG3 stealth-check DC (rises with each use) is dropped in favor of a flat Sneak
+  threshold per Section 3's no-dice-rolls law — a high enough Sneak skill simply doesn't break the effect,
+  rather than the odds slowly worsening over the encounter.
+
+"Heavy Sentry Turret" (placeholder, not developer-chosen) — from Guardian of Faith [Outcome 2: Level-up perk]
+  MACHINE stat: Calculation 7+. Skill: Hacking 55+.
+  Effect: deploys a stationary heavy-armor defense turret (illustrative: 60 HP, high per-hit damage output)
+  that loses structural integrity equal to the damage it deals each time it strikes — a self-limiting glass
+  cannon that eventually destroys itself through use, matching BG3's HP-drain-on-attack mechanic exactly.
+  Duration: 10 turns (1:1 port).
+  Diegetic: the same drone-bay deployment tech as the other Conjuration-family perks in this batch, but a
+  heavier, purpose-built combat hardpoint rather than a mobile or utility unit — the gate sits above the
+  Auxiliary Drone Wing/Anchor-Line Turret pair to reflect that.
+  Note: with three separate drone/turret perks landing in this single Level 4 batch (this one, Auxiliary
+  Drone Wing, Anchor-Line Turret), the actual conversion pass should decide whether all three coexist as
+  parallel build options (each occupying no shared "drone slot," per the framework's Companion_System.md
+  cross-check) or whether they compete for one deployable slot — flagged, not resolved here.
+
+"Ghost Signal" (placeholder, not developer-chosen) — from Phantasmal Killer [Outcome 2: Level-up perk]
+  MACHINE stat: Calculation 7+, Nerve 6+. Skill: Hacking 70+.
+  Effect: a sustained Signal-Weapon-adjacent jack-in payload — a false-threat neural overload that deals
+  ongoing Psychic damage (per `Damage_Types.md`) each turn and freezes the target's ability to move cleanly or
+  act effectively for the duration. Occupies the "active effect" slot; 10-turn duration (1:1 port).
+  Diegetic: Enchantment's neural-interface-manipulation default, delivered as a targeted false-threat signal
+  rather than a literal "phantasmal" illusion — the target's own nervous system (human) or threat-response
+  firmware (robot) is fed a convincing fake danger signal and locks up responding to it.
+  Note: the dual Calculation+Nerve gate reflects the triage table's own framing ("gated by a Nerve/Calculation
+  build") — Calculation for the hacking-adjacent delivery, Nerve for the sustained mental-pressure angle of
+  keeping the false signal convincing turn over turn.
+
+"Molecular Disassembly Charge" (placeholder, not developer-chosen) — from Blight [Outcome 5: Item/weapon]
+  Category: black-market or Aquarius-lab nanite charge (Thrown/Explosives-adjacent, single-target delivery).
+  Damage type: Necrotic — molecular disassembly nanites, per `Damage_Types.md`'s existing Necrotic
+  reinterpretation (targeted nanites, Scorpio-district flavor, industrial contaminants).
+  Notes: heavy single-target damage, explicitly harsher against organic/plant tissue (bonus vs. human/organic
+  targets) and completely inert against robots — a straight single-target nuke rather than a summon, so per
+  the framework's Necromancy guidance it's dark-sourced (Scorpio/Aquarius black-market flavor) without
+  needing the quest-lock treatment Animate Dead got, since it's a consumable weapon, not a standing capability.
+
+"Nanofilament Restraint Canister" (placeholder, not developer-chosen) — from Evard's Black Tentacles [Outcome 5: Item/weapon]
+  Category: Thrown/Explosives-adjacent deployable canister; unrolls a mass of entangling mechanical restraint
+  cable/nanofilament across a 6m radius.
+  Damage type: Bludgeoning (per `Damage_Types.md`), dealt each turn to anyone caught inside; creates
+  difficult terrain for the duration and restrains anyone who fails a flat Might threshold check (replacing
+  BG3's Strength save), granting attackers advantage against restrained targets.
+  Notes: drops the "black tentacles" horror-flavor entirely in favor of an industrial mechanical-restraint
+  read, keeping the exact area-denial/restrain mechanical shape BG3's version has.
+
+"Ablative Retaliation Coating" (placeholder, not developer-chosen) — from Fire Shield [Outcome 5: Item/weapon]
+  Category: toggleable armor-plating augment, two mutually-exclusive variants (Warm = heat-dispersal coating,
+  Chill = cryo-insulated coating).
+  Damage type: grants resistance to Fire/Thermal (Warm) or Cold (Chill), per `Damage_Types.md`; on being hit
+  in melee, discharges a retaliatory burst of the same type back at the attacker.
+  Notes: straight 1:1 port of BG3's own numbers and dual-variant structure — only the flavor changed from a
+  spell effect to a wearable plating augment, in the same "cleanest conversion" spirit as the pilot batch's
+  Reactive Plating Pulse quickhack.
+
+"Cryo-Fragmentation Charge" (placeholder, not developer-chosen) — from Ice Storm [Outcome 5: Item/weapon]
+  Category: Thrown/Explosives-class grenade/charge, area-of-effect.
+  Damage type: combined Bludgeoning + Cold (per `Damage_Types.md`), dealt in a 6m radius; leaves a 2-turn ice
+  surface behind (difficult terrain, chance to fall/Prone on a failed flat Agility threshold check).
+  Notes: direct hardware read of an already-hardware-shaped spell — a frag-and-freeze charge, no reinterpretation
+  needed beyond dropping the "storm" flavor for a single detonation.
+
+"Suppressor Dart" (placeholder, not developer-chosen) — from Polymorph [Outcome 5: Item/weapon]
+  Category: called-shot chemical dart or aerosol payload (Small Guns/dart-launcher delivery).
+  Damage type: none directly — a debuff-delivery item using the Poison damage type's chemical-agent framing
+  (per `Damage_Types.md`) as its diegetic vehicle, not a Poison damage-over-time effect.
+  Notes: suppresses the target down to a near-harmless combat state (minimal effective stats/HP pool) for the
+  payload's duration; the target reverts once that reduced HP pool is depleted or the duration ends, restored
+  at their original HP — keeps Polymorph's exact mechanical shape (temporary neutralization, not a kill) while
+  dropping the literal sheep-transformation flavor, per the same precedent the framework already applies to
+  Flesh to Stone's petrification.
+
+"Neuro-Disruptor Blade Coating" (placeholder, not developer-chosen) — from Staggering Smite [Outcome 5: Item/weapon]
+  Category: melee weapon coating/attachment (Bladed or Blunt Melee).
+  Damage type: adds Psychic damage (per `Damage_Types.md`) on a solid hit, on top of the weapon's own base
+  damage type; targets who fail a flat Nerve threshold check are Staggered for 1 turn (disadvantage on
+  attacks/ability checks, no reactions) — the same pattern the Level 3 batch's Blinding Smite already
+  established for this "smite" family.
+  Notes: BG3 locks this to Hexblade Warlocks specifically (class level 7) — the actual conversion pass should
+  weigh whether that class-lock is worth preserving as an Earned/Companion perk tied to a specific companion's
+  kit instead of a generic weapon mod (flagged in the triage table itself); this draft defaults to the
+  generic-item landing since nothing in the current companion roster obviously claims it yet.
+
+"Subdermal Plating Augment" (placeholder, not developer-chosen) — from Stoneskin [Outcome 5: Item/weapon]
+  Category: toggleable subdermal (human) or exoskeletal (robot) nanite-plating augment.
+  Damage type: resistance (half damage) to conventional Bludgeoning/Piercing/Slashing while active, per
+  `Damage_Types.md`.
+  Notes: another near-1:1 port — BG3's own "non-magical physical damage resistance" carries over almost
+  untouched once "non-magical" is dropped as a meaningless qualifier in a setting with no magic to exclude.
+
+"Thermal Trip-Line" (placeholder, not developer-chosen) — from Wall of Fire [Outcome 5: Item/weapon]
+  Category: deployable line-layer charge (incendiary trip-wire or flame-wall turret variant).
+  Damage type: Fire/Thermal (per `Damage_Types.md`), dealt to anyone entering or lingering within 3m of the
+  deployed line; a failed flat Agility threshold check on top of that inflicts a lingering Burning-equivalent
+  DoT until extinguished.
+  Notes: straightforward hardware read — a deployable thermal barrier rather than a literal wall of flame,
+  matching Ice Storm and Cryo-Fragmentation Charge above as the batch's most "just port the numbers" items.
+
+
+OUTCOME COUNT SUMMARY (this file, 21 entries)
+
+Outcome 1 (Quickhack): 3 — Banishment, Confusion, Otiluke's Resilient Sphere.
+Outcome 2 (Level-up perk): 10 — Conjure Minor Elemental, Conjure Woodland Being, Death Ward, Dimension Door,
+  Dominate Beast, Freedom of Movement, Grasping Vine, Greater Invisibility, Guardian of Faith, Phantasmal Killer.
+Outcome 5 (Item/weapon): 8 — Blight, Evard's Black Tentacles, Fire Shield, Ice Storm, Polymorph,
+  Staggering Smite, Stoneskin, Wall of Fire.
+Outcome 3/4/6: 0.
+
+Matches Reference/bg3-triage-03-level3-level4.md's own Level 4 distribution count (1=3, 2=10, 5=8) exactly —
+no outcome was re-triaged during this drafting pass.
+
+		/// Level 5 Spells ///
+
+1. "Circuit-Break Strike" (placeholder, not developer-chosen) — from Banishing Smite [Outcome 2 — Level-up perk]
+  Diegetic: the melee weapon's grip or striking edge carries a capacitor-discharge coil that dumps a
+  targeted overload into the frame/nervous system on a solid, already-weakening hit.
+  Requirements: Might 7, Bladed Melee 50 OR Blunt Melee 50.
+  Ranks: 2.
+  Effect: Rank 1 — on a weapon hit that drops a target already below roughly 30% HP, trigger a bonus
+  Force-damage discharge and force the target's frame/nervous system into emergency lockout: unable to
+  act or be targeted by anything but the player for 2 turns. Once per target per encounter. Rank 2
+  (Might 9, skill 75): lockout extends to 3 turns, and if the target is a robot networked to a nearby
+  ally unit, the discharge also briefly EMP-disrupts that linked ally.
+  Cost: no additional AP beyond the triggering attack; occupies the single active-effect slot for its
+  duration. Cooldown: 4 turns after the effect ends.
+  Note: closest to a 1:1 conversion in this batch — BG3's own "can't act or be targeted" shape survives
+  almost untouched, reframed as a hard system lockout instead of literal banishment (the "another plane"
+  framing is dropped per the framework's Section 6 planar-travel exception; the underlying restrain-then-
+  incapacitate mechanic is what's actually salvaged).
+
+2. "Clean Signal Field" (placeholder, not developer-chosen) — from Dispel Evil And Good [Outcome 2 — Level-up perk]
+  Diegetic: a support-build field device that broadcasts an EM/signal-scrubbing pulse, actively hunting
+  and severing active neural-coercion or hack locks on anyone it reaches.
+  Requirements: Humanity 7 OR Nerve 7, Hacking 50.
+  Ranks: 2.
+  Effect: Rank 1 — activate to immediately break one active neural-coercion/hack status on a nearby ally
+  (within jack-in range) and grant them temporary resistance to further Psychic/Neural effects for the
+  duration (10 turns, occupying the active-effect slot). Rank 2 (Humanity 9, Hacking 75): the field also
+  actively blocks new coercion/hack attempts against everyone in range for its duration, not just curing
+  an existing one.
+  Cost: 2 AP to activate. Cooldown: 4 turns.
+  Note: drops BG3's Aberration/Celestial/Elemental/Fey/Fiend/Undead taxonomy entirely — no such creature-
+  type system exists here — and keeps only the salvageable core: break coercion, then ward against more
+  of it.
+
+3. "Trauma Reversal Kit" (placeholder, not developer-chosen) — from Greater Restoration [Outcome 2 — Level-up perk]
+  Diegetic: a nanite-injector tool the character always carries as part of a trained field-medicine
+  capability, not a single-use consumable.
+  Requirements: Humanity 6 OR Investigation 6, Medicine 60.
+  Ranks: 1.
+  Effect: used on an ally, cures Stunned, active neural-coercion status, hardening-nanite restraint, and
+  persistent corruption-type debuffs in a single application.
+  Cost: 2 AP. Cooldown: 3 turns.
+  Note: the single-target half of a two-perk medic line — see "Squad Medic" (#4 below) for the AoE
+  build-defining big sibling. BG3's own Charm/Petrification/Stun/Curse list maps cleanly onto Inner
+  Tepenia's neural-coercion/hardening-nanite/corruption-debuff equivalents without inventing anything new.
+
+4. "Squad Medic" (placeholder, not developer-chosen) — from Mass Cure Wounds [Outcome 2 — Level-up perk]
+  Diegetic: a carried nanite-dispersal injector, scaled up from the single-target Trauma Reversal Kit
+  into a wide-radius dispersal tool — the build-defining medic capability rather than a starting one.
+  Requirements: Humanity 7, Medicine 75.
+  Ranks: 2.
+  Effect: Rank 1 — restore HP to multiple nearby allies at once (all allies within jack-in/short range)
+  in a single use. Rank 2 (Medicine 90): the dispersal also cures one active DoT-type condition (Poison-
+  or Necrotic-tier bleed-out) on each healed ally.
+  Cost: 3 AP. Cooldown: 5 turns.
+  Note: no effect on already-destroyed robot husks or non-organic constructs, carrying over BG3's own
+  "no effect on undead/constructs" clause almost verbatim.
+
+5. "Requisitioned Hazard Chassis" (placeholder, not developer-chosen) — from Conjure Elemental [Outcome 3 — Earned perk, Category C: Quest]
+  Diegetic: completing a district's heavy-hazard salvage/recovery questline (an Aries thermal-drone
+  recovery, a Capricorn industrial-frame salvage, and similar variants in other eligible districts)
+  grants the legal and technical standing to call in and remote-operate one recovered heavy combat drone
+  chassis, themed to that district's dominant hazard.
+  Unlock: complete the relevant district's heavy-salvage questline. Distinct variants exist per eligible
+  district (thermal, structural, hydraulic, pneumatic hazard flavors); completing more than one district's
+  questline accumulates access to more than one chassis type.
+  Effect: unlocks a deployable heavy combat drone (one active at a time regardless of how many variants are
+  unlocked) themed to its source district's hazard — thermal (flame/plasma vents), structural (crushing/
+  prying arms), hydraulic (armored ram), or pneumatic (concussive blast tool). Deploy cost/cooldown gated
+  once per encounter rather than a spell-slot equivalent.
+  Note: a genuine quest-completion reward, not a menu pick — matches BG3's own "class feature earned by
+  doing a specific thing" shape per the framework's Level-Up-vs-Earned ambiguity note, landed here as
+  Earned since the district questline is the actual trigger.
+
+6. "Wasting Vector" (placeholder, not developer-chosen) — from Contagion [Outcome 3 — Earned perk, Category C: Quest, dark/quest-locked]
+  Diegetic: a Scorpio/Aquarius bio-hacking storyline grants the ability to synthesize and deliver an
+  engineered pathogen via a melee-range contact injector.
+  Unlock: complete a specific dark Scorpio/Aquarius bio-hacking side questline — deliberately not a
+  level-up menu option, matching Contagion's own morally loaded flavor in BG3.
+  Effect: on a successful melee hit, begin an infection contest tracked over a fixed number of exchanges
+  (3 vs. 3) against the target's own resistance threshold — 3 target successes cures it, 3 failures locks
+  in a persistent debuff (drawn from a short table: Fever/Weakness/Seizure-equivalent/Blindness-equivalent)
+  that persists until treated at a proper medical facility or by a high-Medicine field cure.
+  Note: kept deliberately dark and story-gated per the framework's explicit instruction that Necromancy-
+  adjacent conversions (Contagion, Dominate Person) stay quest-locked and morally weighted rather than
+  becoming a generic level-up tool — paired with #7 below as this batch's two flagged-dark entries.
+
+7. "Forced Override Protocol" (placeholder, not developer-chosen) — from Dominate Person [Outcome 3 — Earned perk, Category C: Quest, dark/quest-locked]
+  Diegetic: an Aquarius black-ops neural-hacking storyline grants a coercive jack-in override module.
+  Unlock: complete a specific Aquarius black-ops questline.
+  Effect: forces a human or robot combatant to fight on the player's side temporarily; the override
+  re-tests (breaks and can reassert) every time the dominated target takes damage — the target's own
+  resistance stat clawing back control on each hit, expressed as a flat threshold per Skills.md's no-
+  dice-rolls law rather than a repeated saving throw.
+  Note: kept rare and story-gated given how morally loaded full mind control is, echoing the framework's
+  Necromancy-tier treatment. See #16 below (Battlefield Reclamation Hack, from Planar Binding) for the
+  non-dark cousin of this "temporary forced ally, re-tests on damage" shape — that one targets recoverable
+  enemy hardware rather than a living combatant, which is what keeps it out of this dark/quest-locked tier.
+
+8. "Battlefield Reclamation Hack" (placeholder, not developer-chosen) — from Planar Binding [Outcome 3 — Earned perk, Category C: Quest]
+  Diegetic: a hacking-focused questline (a Gemini or Aquarius storyline centered on combat-robot
+  repurposing) teaches the player to hack and forcibly repurpose a defeated-but-recoverable hostile
+  combat robot's remaining systems.
+  Unlock: complete the relevant hacking-focused questline.
+  Effect: on defeating (not destroying) a hostile combat robot, hack and repurpose it into a temporary
+  ally that fights alongside the player; the takeover breaks (re-tests) every time the repurposed unit
+  takes damage, the same re-test-on-damage shape as Forced Override Protocol (#7) and Wasting Vector (#6).
+  Note: distinct from Requisitioned Hazard Chassis (#5) by targeting existing enemy hardware recovered
+  mid-fight rather than deploying new hardware from a stockpile — drops BG3's Celestial/Elemental/Fey/
+  Fiend creature-type framing entirely, keeping only the underlying "temporary hacked ally" shape.
+
+9. "Fogdrift Canister" (placeholder, not developer-chosen) — from Cloudkill [Outcome 5 — Item/Weapon]
+  Category: Thrown/Explosives — Poison damage (Damage_Types.md).
+  Effect: a remote-triggered chemical-dispersal canister that blankets an area in a slow-moving toxic
+  aerosol (Poison damage per turn) and heavily obscures vision inside the cloud; a wrist-mounted remote
+  lets the thrower steer the cloud's drift each turn, making it a battlefield-control tool as much as a
+  damage source.
+
+10. "Cryo-Vent Projector" (placeholder, not developer-chosen) — from Cone of Cold [Outcome 5 — Item/Weapon]
+  Category: Thermal Weapons, Cold end (Damage_Types.md).
+  Effect: a shoulder-mounted projector that vents a cone of flash-freezing compressed coolant (Cold
+  damage), embrittling any exposed armor or frame it touches and flash-freezing standing water or coolant
+  runoff into slick, difficult terrain that lingers after the vent stops.
+
+11. "Saturation Strike Beacon" (placeholder, not developer-chosen) — from Curriculum of Strategy: Artistry of War [Outcome 5 — Item/Weapon]
+  Category: rare, quest-locked or crafted-only ordnance — Force damage (Damage_Types.md).
+  Effect: a targeting beacon that calls in a barrage of guided micro-munitions, routing around cover and
+  line-of-sight entirely; recharges once per mission given its scarcity, reflecting BG3's own scroll-
+  transcription-only rarity.
+
+12. "Pulse Halo Augment" (placeholder, not developer-chosen) — from Destructive Wave [Outcome 5 — Item/Weapon]
+  Category: wearable/implanted augment — Thunder + Radiant damage (Damage_Types.md).
+  Effect: a worn shockwave-emitter augment that discharges a self-centered burst filtered to hit only
+  flagged hostiles in range, knocking them prone — the friend/foe filtering runs on the same tagging
+  logic the Bridge Unit already uses for jack-in targeting.
+
+13. "Longview Disassembly Rifle" (placeholder, not developer-chosen) — from Dethrone [Outcome 5 — Item/Weapon]
+  Category: rare, quest-locked long-range weapon (railgun/sniper hybrid) — Nanotech damage
+  (Damage_Types.md).
+  Effect: fires a nanite-disassembly round dealing heavy Nanotech damage at the longest engagement range
+  of any weapon in the game; a strict once-per-mission recharge reflects both its scarcity and the strain
+  the disassembly coil puts on itself.
+
+14. "Twinburn Strike Package" (placeholder, not developer-chosen) — from Flame Strike [Outcome 5 — Item/Weapon]
+  Category: Heavy Weapons/Cell-Fed hybrid ordnance — Fire/Thermal + Radiant damage (Damage_Types.md).
+  Effect: a combined incendiary-and-laser munitions package, called in or launched, that lands two
+  separate damage instances on the same target — forcing a defender running any sustained countermeasure
+  to answer both effects independently rather than absorb one combined hit.
+
+15. "Full-Lock Emitter" (placeholder, not developer-chosen) — from Hold Monster [Outcome 5 — Item/Weapon]
+  Category: heavy-tier Signal Weapon — EMP/Disrupt + Neural/Interface (Damage_Types.md).
+  Effect: locks a target's motor systems entirely — can't move, act, or react, and melee attacks against
+  them land clean while it holds — scaling to more simultaneous targets with a higher-capacity power
+  cell; the escalated big sibling of a basic Hold Person-style quickhack, per the framework's own Signal
+  Weapon note.
+
+16. "Hostile Swarm Canister" (placeholder, not developer-chosen) — from Insect Plague [Outcome 5 — Item/Weapon]
+  Category: deployable micro-drone swarm canister — Piercing damage (Damage_Types.md).
+  Effect: disperses a cloud of small, aggressive maintenance/combat micro-drones over an area, dealing
+  Piercing damage per turn to anything inside while their static chatter jams sensors (Perception penalty)
+  and their sheer numbers turn the area into difficult terrain.
+
+17. "Composite Face Rig" (placeholder, not developer-chosen) — from Seeming [Outcome 5 — Item/Weapon]
+  Category: squad-scale holo-disguise/biometric-spoofing rig — no direct damage type; utility/infiltration
+  equipment.
+  Effect: projects a randomized false appearance over the wearer and several nearby companions
+  simultaneously, each able to trigger one re-roll of their disguise; the illusion holds until the rig is
+  removed or actively countered by a sensor sweep.
+
+18. "Tractor-Claw Rig" (placeholder, not developer-chosen) — from Telekinesis [Outcome 5 — Item/Weapon]
+  Category: gravitic/tractor-beam tool, weaponizable — Force/Gravitic-Inertial damage (Damage_Types.md).
+  Effect: a heavy-duty magnetic-and-servo manipulator that lifts and throws objects or creatures at
+  range, with heavier payloads dealing more damage; a clean throw of an unattended object recharges the
+  tool for one free follow-up use that same turn.
+
+19. "Modular Barricade Deployer" (placeholder, not developer-chosen) — from Wall of Stone [Outcome 5 — Item/Weapon]
+  Category: Structural Ordnance — Bludgeoning/Force/Gravitic-Inertial as the wall reacts to impacts
+  (Damage_Types.md).
+  Effect: a rapid-deploy modular plating system that erects a segmented cover wall (each segment carrying
+  its own HP pool) blocking movement and line of sight; vulnerable to Force/Thunder impacts but immune to
+  Psychic/Neural effects since it's inert matter, placeable anywhere in range along a clear path.
+
+		/// Level 6 Spells ///
+
+1. Arcane Gate — Outcome 6, DROP
+   Reason: instant point-to-point matter transport via two linked portals has
+   no coherent Hard Sci-Fi mechanism even under a generous near-future-tech
+   reading — it isn't a faster vehicle or a compressed travel time, it's
+   literal non-continuous transit. This is the genuine planar/supernatural
+   exception the Basis of Translation names in Section 6: unlike most Outcome
+   6 entries, this one is NOT logged as "parked for Outer Tepenia or Toronto
+   Fell Out" — a portal network doesn't become more grounded in a different
+   project, so it's treated as a real dead end. (Contrast with Cradle-style
+   transit elsewhere in the GDD, which stays physically continuous the whole
+   way and is why Cradle isn't also flagged here.)
+
+------------------------------------------------------------------------------
+
+2. "Shear Curtain Emitters" (placeholder, not developer-chosen) — from Blade Barrier
+   Item — Structural Ordnance / Bladed-Melee-adjacent hazard tech · Slashing
+   (Damage_Types.md).
+   Effect: a deployable line of anchor stakes that spin up a curtain of
+   rotating monofilament wire and saw-disc emitters between them — anything
+   that enters the line or starts its turn inside it takes heavy Slashing
+   damage. Long-duration area denial (the line stays live for a very long
+   stretch of a fight once deployed, matching the source spell's unusually
+   long duration among Level 6 effects); the line itself is a physical
+   fixture, so it can be shot out or routed around once its position is known,
+   rather than dispelled.
+
+------------------------------------------------------------------------------
+
+3. "Cascade Arc Cannon" (placeholder, not developer-chosen) — from Chain Lightning
+   Item — Arc Weapon, heavy-tier · Lightning (Damage_Types.md).
+   Effect: a high-charge conduction weapon that dumps its full payload into
+   the primary target and arcs to up to three additional conductive targets
+   nearby, each hit resolved through the existing ranged hit-chance system
+   with the source's "half damage on a successful resistance check" carried
+   over per Section 3's saving-throw mapping. The escalated big sibling of a
+   standard Arc Weapon — reads as the same archetype's top-of-the-line unit,
+   not a new category.
+
+------------------------------------------------------------------------------
+
+4. "Cellular Collapse Charge" (placeholder, not developer-chosen) — from Circle of Death
+   Item — rare/black-market ordnance (Scorpio/Pisces-sourced) · Necrotic
+   (Damage_Types.md).
+   Effect: a nanite-payload grenade that must be locked onto a specific
+   target (won't detonate against open ground) and triggers localized
+   cellular/molecular breakdown in a radius around them, catching anyone else
+   standing close. Dark, black-market-flavored ordnance in keeping with
+   Necrotic's Scorpio/Pisces district association rather than a clean
+   military tool.
+
+------------------------------------------------------------------------------
+
+5. "Reclaimed Chassis Directive" (placeholder, not developer-chosen) — from Create Undead
+   Earned perk — Quest/Choice sub-category (Category C, `Perk_Framework.md`),
+   dark storyline-locked (Scorpio/Aquarius-adjacent).
+   Effect: unlocked at the resolution of a specific dark questline, grants the
+   ability to reanimate a fresh corpse into a nanite-driven combat thrall — a
+   repurposed, still-recognizably-human chassis rather than a shambling
+   "mummy" — that fights alongside the player until deactivated or destroyed.
+   Diegetic: battlefield nanite reanimation kit, not sorcery; the target's own
+   neuromuscular system is puppeted by the nanite swarm rather than a spirit
+   being called back.
+   Note: kept deliberately dark and quest-gated rather than a menu-pick
+   level-up perk, per the framework's explicit Necromancy-school guidance —
+   this is morally loaded material and should stay that way mechanically
+   (automatic award, not something a player casually opts into at every
+   playthrough).
+
+------------------------------------------------------------------------------
+
+6. "Threadstrip Disassembler" (placeholder, not developer-chosen) — from Disintegrate
+   Item — rare, quest-locked disassembly weapon · Force / Nanotech
+   (Damage_Types.md).
+   Effect: a focused molecular-disruption beam weapon dealing massive
+   Force/Nanotech damage in a single shot, resolved as a binary hit/miss via
+   the existing ranged hit-chance system rather than a "damage negated on a
+   save" model — high risk/high reward, since a clean dodge means the shot
+   does nothing at all rather than reduced damage.
+
+------------------------------------------------------------------------------
+
+7. "Marked Signal Override" (placeholder, not developer-chosen) — from Eyebite
+   Level-up perk. Gate: Calculation 7 + Hacking 65 (illustrative numbers
+   only).
+   Effect: a standing capability to run a mode-switching neural-disruption
+   tool against a single marked target through an established jack-in lock.
+   Choose one mode on activation — Panicked (fear-response overload),
+   Sickened (nausea-inducing sensory feedback), or Asleep (forced
+   shutdown/unconsciousness) — and switch freely between modes at no extra
+   cost for as long as the effect occupies the character's single active-
+   effect slot (Section 3's Concentration substitute).
+   Cost: 3 AP to activate. Occupies the active-effect slot until broken (the
+   target taking the character out of jack-in range, the character being
+   downed, or voluntary release).
+   Diegetic: not mind control — a targeted EM/neural-interface disruption
+   tool, the Enchantment-school default per Section 2, delivered the same way
+   a Hold Person-style quickhack would be, just sustained and mode-switchable
+   rather than a single fire-and-forget pulse.
+   Note: gated high and late-game on purpose — this is Level 6 material,
+   meant to feel like a genuinely rare, hard-earned capability rather than an
+   early-game utility pick. The "free mode-switching while active" clause is
+   what's carried over almost untouched from BG3; everything else (jack-in
+   framing, flat stat/skill gate replacing the Wisdom save) is converted per
+   Section 2/3.
+
+------------------------------------------------------------------------------
+
+8. "Lockdown Hardening Round" (placeholder, not developer-chosen) — from Flesh to Stone
+   Item — rare, quest-locked ordnance · Bludgeoning-adjacent restraint effect,
+   no clean single Damage_Types.md category (functions as a status-effect
+   delivery round more than a damage dealer — see Section 5's flagged
+   condition-taxonomy gap).
+   Effect: a hardening-nanite dispenser round that progressively stiffens and
+   locks a target's joints and frame over 3 turns, each stage adding
+   attacker advantage and defender disadvantage (the same Restrained-style
+   progression the source spell uses); a 4th failed resistance check locks
+   the target down completely, reversible only by outside medical/repair
+   intervention — never self-cured.
+   Note: per direct instruction, the literal "turns to stone" flavor is
+   dropped entirely — this is chemical/nanite hardening of an existing frame
+   or body, not transmutation into a new material, matching the framework's
+   Section 6 guidance that the mechanical shape survives even though the
+   petrification flavor doesn't.
+
+------------------------------------------------------------------------------
+
+9. "Aegis Dome Generator" (placeholder, not developer-chosen) — from Globe of Invulnerability
+   Item — high-tier deployable shielding generator (Abjuration-flavored) ·
+   interacts with all damage types by generating a hard-energy barrier rather
+   than resisting a specific one.
+   Effect: projects a small dome of hard energy shielding; anyone standing
+   inside is fully immune to incoming damage and gets a flat bonus to any
+   resistance-threshold checks for the duration. Rare and quest-locked given
+   the power level — full damage immunity is the kind of effect the
+   framework flags as needing tight gating rather than being made generally
+   available.
+
+------------------------------------------------------------------------------
+
+10. "Cellular Ruin Warhead" (placeholder, not developer-chosen) — from Harm
+    Item — rare, dark bio-weapon (black-market/quest-locked) · Necrotic
+    (Damage_Types.md).
+    Effect: an engineered-pathogen or nanite payload dealing severe Necrotic
+    damage; on a failed resistance check it leaves lasting cellular damage
+    that reduces the target's effective max HP until they're treated at a
+    proper medical facility, not just a field bandage. One of the harsher
+    items in this batch — kept deliberately rare rather than a common drop.
+
+------------------------------------------------------------------------------
+
+11. "Full-Spectrum Trauma Response" (placeholder, not developer-chosen) — from Heal
+    Earned perk — Skill Milestone sub-category (Category E, `Perk_Framework.md`).
+    Effect: automatically unlocked on crossing a high-tier Medicine (and/or
+    Investigation) skill threshold — illustrative gate: Medicine 90+. Grants
+    a full-spectrum trauma-nanite treatment capability that restores a flat,
+    large amount of HP to a target and cures Blinded and disease-type status
+    in one application.
+    Diegetic: represents the character's medical practice having crystallized
+    into genuine mastery — a career-culmination technique, not a new item
+    they picked up.
+    Note: follows the Basis of Translation's own flagged open point that an
+    automatic class-level unlock (Heal is learned at Cleric/Druid class level
+    11 in BG3, not chosen from a spell list mid-session) can legitimately land
+    as an Earned/Milestone perk rather than a level-up menu pick — this entry
+    is the Section 1 "Open ambiguity" note resolved in the Milestone
+    direction, matching the triage table's own call.
+
+------------------------------------------------------------------------------
+
+12. "Field Feast Ration Kit" (placeholder, not developer-chosen) — from Heroes' Feast
+    Item — craftable consumable, siligel/camp-supply crafting family · no
+    single damage type (a buff/supply item, not a weapon).
+    Effect: a prepared squad-scale ration kit that grants everyone nearby
+    temporary immunity to Poisoned/Diseased/Frightened-equivalent status and
+    a temporary max-HP boost, and produces a multi-day supply cache as a
+    byproduct of preparing it — consistent with Inner Tepenia's existing
+    siligel/camp-supply systems rather than a bespoke new consumable type.
+
+------------------------------------------------------------------------------
+
+13. "Cryo-Charge Sphere" (placeholder, not developer-chosen) — from Otiluke's Freezing Sphere
+    Item — Thermal Weapons, Cold end · Cold (Damage_Types.md).
+    Effect: a thrown or melee-primed cryo-charge that deals heavy Cold damage
+    on detonation, embrittling anything caught in the blast; available in
+    both a hand-delivered (melee-range) and a throwable/launched variant, per
+    the source spell's own dual delivery options.
+
+------------------------------------------------------------------------------
+
+14. "Forced Gait Loop Emitter" (placeholder, not developer-chosen) — from Otto's Irresistible Dance
+    Item — Signal Weapon variant · EMP/Disrupt, Neural/Interface
+    (Damage_Types.md).
+    Effect: a motor-control override emitter that locks a target into a
+    forced repetitive movement loop on a guaranteed first hit (no resistance
+    check on the initial application, matching the source spell), with the
+    target able to break free on subsequent turns via a flat resistance
+    threshold. Weaker crowd control than a heavy Hold-style Signal Weapon
+    since the target can still be attacked and can still fight back once the
+    loop breaks — this is disruption, not a full lockout.
+
+------------------------------------------------------------------------------
+
+15. "Called-In Favor" (placeholder, not developer-chosen) — from Planar Ally
+    Earned perk — Quest/Choice sub-category (Category C, `Perk_Framework.md`),
+    quest-locked; Companion-System-adjacent per the Conjuration guidance in
+    Section 2.
+    Effect: unlocked by completing a specific faction/mercenary-adjacent
+    questline. Once per some cooldown/story-appropriate interval, the player
+    can call in a favor from that questline's completed relationship — a
+    specialist mercenary or faction specialist NPC shows up to fight
+    alongside the player for the remainder of the current encounter, then
+    leaves.
+    Diegetic: not a summon in any magical sense — a phone call/Arcanet page
+    to someone who owes the player, arriving in-world rather than
+    materializing.
+    Note: distinct from a permanent Companion System recruit — this is a
+    one-encounter assist tied to a specific completed questline, not a new
+    party member.
+
+------------------------------------------------------------------------------
+
+16. Sights of the Seelie: Summon Deva — Outcome 6, DROP
+    Reason: mechanically identical to Planar Ally: Deva (BG3 itself notes the
+    two don't stack), and its "Seelie"/fey-court framing is Forgotten-Realms-
+    pantheon-specific per Section 6's naming rule — a proper noun that
+    shouldn't be ported regardless of the underlying mechanic. Folded entirely
+    into entry #15 above rather than given a separate conversion; the
+    "call in a specialist ally" shape is already covered there. Per the
+    retention policy this is logged rather than silently skipped, but there's
+    no distinct mechanic here worth flagging as "parked for Outer Tepenia/
+    Toronto Fell Out" beyond what Planar Ally already carries forward.
+
+------------------------------------------------------------------------------
+
+17. "Line-Beam Overload Rifle" (placeholder, not developer-chosen) — from Sunbeam
+    Item — Cell-Fed Weapons · Radiant (Damage_Types.md).
+    Effect: a line-beam laser rifle or fixed turret that deals Radiant damage
+    along a long, narrow beam; on a failed resistance check the target also
+    takes a sensor-overload secondary effect (Blinded-equivalent: attack
+    penalty, effective range cap, defender disadvantage) for several turns —
+    the "half damage + secondary status on fail" shape carried over 1:1 from
+    the source spell.
+
+------------------------------------------------------------------------------
+
+18. "Cryo-Wall Generator" (placeholder, not developer-chosen) — from Wall of Ice
+    Item — deployable cryo-wall generator, Structural Ordnance/Thermal Weapons
+    crossover · Cold (Damage_Types.md).
+    Effect: flash-freezes a line of terrain into a solid ice barrier, dealing
+    Cold damage to anything caught at the moment of creation, then continues
+    venting freezing vapor into the surrounding area for Cold damage per turn
+    for the rest of its duration — both a physical wall (blocks movement/
+    line of sight) and a lingering area hazard at once.
+
+------------------------------------------------------------------------------
+
+19. "Monofilament Thicket Dispenser" (placeholder, not developer-chosen) — from Wall of Thorns
+    Item — deployable area-denial dispenser, Structural Ordnance ·
+    Piercing (Damage_Types.md).
+    Effect: launches a long line of razor-wire/monofilament thicket that
+    deals Piercing damage per turn to anything inside it, quarters movement
+    speed, and applies an Entangled-equivalent restraint status for as long
+    as a target remains in the line — long-duration area denial matching the
+    source spell's unusually long uptime among Level 6 effects.
+
+------------------------------------------------------------------------------
+
+20. "Aerosol Extraction Harness" (placeholder, not developer-chosen) — from Wind Walk
+    Item — rare squad-scale extraction/traversal tool · no primary damage
+    type (a mobility/evasion tool, not a weapon).
+    Effect: a combined aerosol-smoke and grav-harness system that lets the
+    whole party move quickly and evade most conventional attacks while
+    active, at the cost of being unable to fight or communicate normally
+    until it's shut off. The literal "incorporeal mist"/"immune to
+    non-magical damage" framing is dropped as ungrounded per Section 2 — this
+    reads as a smoke-obscured, harness-assisted fast egress tool rather than
+    a form of intangibility, trading combat capability for guaranteed
+    survivability during an extraction.
+
+		/// Level 9/Special & NPC-Only Spells ///
+
+/// LEVEL 9 / SPECIAL (6 entries — 5 drops, 1 item) ///
+
+--------------------------------------------------------------------
+"Bhaal's Power Word Kill Ritual" — DROP (Outcome 6)
+  Reason: deity-specific (Bhaal) named ritual; per Section 6's drop-list rule, the name/lore
+  cannot port even though the mechanical shape is coherent.
+  Mechanic worth remembering: a multi-turn (5-7 round) channeled execution that locks the
+  caster out of acting, is disrupted by any incapacitation-family status effect landing on the
+  caster, and renders the target invulnerable to it outside a fixed range band until
+  completion — then instant death below an HP floor.
+  Disposition: parked for Outer Tepenia/Toronto Fell Out. If either project wants an
+  "assassination ritual" or "execution cult" set piece, this shape survives wholesale; needs a
+  fully new Inner Tepenia-native (or Outer Tepenia-native) name and justification, not
+  attempted here.
+
+--------------------------------------------------------------------
+"Power Word Kill" — DROP (Outcome 6)
+  Reason: instant death below an HP threshold, no attack roll, no damage number, no
+  counterplay beyond leaving a range band, has no grounded tech/chemistry/biology analogue
+  that isn't just a reskinned coup de grace. The "1 use per campaign" restriction is a
+  narrative-pacing device BG3's systems support and Inner Tepenia's don't.
+  Disposition: parked, low priority — the underlying "instant-kill finisher below an HP
+  floor" shape is generic enough that Outer Tepenia's own execution-move design could
+  reinvent it independently without treating this entry as a needed source.
+
+--------------------------------------------------------------------
+"Karsus' Compulsion" — DROP (Outcome 6)
+  Reason: entirely Netherbrain/Triune Netherstone/Full-Illithics premise — a one-off,
+  cosmic-horror-set-piece ability with no Inner Tepenia equivalent antagonist or lore
+  structure to hang it on.
+  Mechanic worth remembering: channel-until-next-turn to bind a hostile entity's will and
+  open a vulnerability window for a follow-up strike, broken if the caster is
+  incapacitated/stunned/transformed/knocked out first. Reads as a "sustained suppression that
+  enables a finishing blow against something otherwise untouchable" shape — reusable for a
+  hostile-AI-containment or rogue-superstructure set piece in Outer Tepenia without the
+  Netherbrain framing.
+  Disposition: parked.
+
+--------------------------------------------------------------------
+"Formsculpt: Tressym" — DROP (Outcome 6)
+  Reason: literal beast-transformation with full HP/form reversion is body-horror shapeshifting
+  magic with no grounded nanite/bio analogue Section 2's lens can support without inventing
+  new lore; also Gale-exclusive Epilogue content, i.e. not a reusable structure even in BG3's
+  own terms.
+  Disposition: parked at low priority — Toronto Fell Out (not committed to a Hard Sci-Fi
+  premise) is the more plausible eventual home if this resurfaces; nothing here survives a
+  Hard Sci-Fi lens intact.
+
+--------------------------------------------------------------------
+"Triarch Lance" (placeholder, not developer-chosen) — from Power Word: Ruin
+  Category: Heavy Weapon — rare/unique superweapon-tier ordnance (Energy-Adjacent/Cell-Fed
+  lineage per `Damage_Types.md`'s Weapon Category Cross-Reference, scaled up to "one of a
+  kind" rarity).
+  Damage Type: Force (Kinetic/Concussive) — per `Damage_Types.md`, framed as a mass-driver or
+  gravitic-discharge weapon rather than a "word."
+  Effect: fires 3 simultaneous beams for an extreme burst-damage payload at short-to-mid
+  range; strip BG3's no-roll "Power Word" framing entirely — this routes through the existing
+  ranged hit-chance system like any other weapon attack (Section 3).
+  Note: numbers not finalized. Cleanest Outcome-5 case in this batch — a rare/legendary drop
+  or quest-reward weapon, not a perk; the mechanical bones (triple-beam, huge burst, short
+  range) transfer almost untouched once the incantation framing is dropped.
+
+--------------------------------------------------------------------
+"Divine Revelry" — DROP (Outcome 6)
+  Reason: "Galerian Revelry" is a named condition tied to one companion's divine patron and
+  Epilogue-exclusive content. The underlying shape (AoE incapacitate + attacker advantage) is
+  already covered by other convertible Enchantment-school incapacitation entries elsewhere in
+  the broader conversion pass.
+  Disposition: parked but redundant — no unique design value lost by dropping this specific
+  entry.
+
+
+/// SPECIAL NPC-ONLY SPELLS (16 entries — 12 enemy-signature abilities, 4 drops) ///
+/// Outcome-3 entries below are drafted as ENEMY ABILITY concepts per the assignment's ///
+/// framing (not player-usable perks) — archetype + encounter behavior, not a perk sheet. ///
+
+--------------------------------------------------------------------
+"Myrmidon Feedback Discharge" (placeholder, not developer-chosen) — from Elemental Retort
+  Enemy archetype: a commander/faction-leader enemy fielding up to 4 tethered subordinate
+  units (drone swarm and/or turrets), each elementally typed.
+  Effect: whenever the commander is struck, each surviving subordinate fires a reaction
+  discharge at the attacker (up to 4 triggers/round) — type varies per subordinate (Lightning/
+  Poison/Fire/Cold per `Damage_Types.md`'s existing roster), penetrating standard resistances
+  the way the source caster's Elemental Adept did.
+  Encounter design: incoming reaction damage scales down as subordinates are destroyed —
+  killing the drones/turrets first is the intended counterplay, not tanking the commander
+  directly.
+
+--------------------------------------------------------------------
+"Payload Lance" (placeholder, not developer-chosen) — from Finger of Death
+  Enemy archetype: Aquarius/Scorpio-flavored bio-weapons specialist or rogue medical unit,
+  elite-tier ranged attacker.
+  Effect: single-target, high-damage Necrotic attack (nanite/engineered-pathogen payload per
+  `Damage_Types.md`) at long range, no AoE. Telegraphed windup given the raw damage ceiling.
+  Encounter design: long internal cooldown, not spammable — a "burst" beat, not a repeatable
+  DPS tool. Not intended as a player-learnable ability; the damage ceiling is specifically an
+  encounter-design lever, matching BG3's own player exclusion.
+
+--------------------------------------------------------------------
+"Foundry Purge" (placeholder, not developer-chosen) — from Hellfire Orb
+  Enemy archetype: Capricorn heavy-industrial/demolition defense unit, boss-tier.
+  Effect: AoE thermal/plasma discharge (Fire/Thermal per `Damage_Types.md`) that explicitly
+  ignores standard fire resistance — a genuine "your resistance doesn't save you here"
+  encounter-design beat. Half-damage mitigation gated behind a flat threshold check on the
+  player's own Dex-adjacent stat/skill (Section 3's saving-throw substitution).
+  Encounter design: recharges once per encounter — a telegraphed superweapon beat the player
+  should be able to see coming and plan around.
+
+--------------------------------------------------------------------
+"Reserve Burn" (placeholder, not developer-chosen) — from Incinerate
+  Enemy archetype: Aries power-infrastructure/industrial-defense enemy with a visible internal
+  fuel/battery reserve resource (BG3's "Soul Charges" equivalent), telegraphed draining down
+  over the fight.
+  Effect: AoE thermal/plasma burst that leaves a lingering fire-hazard zone plus a Burning DoT
+  on anyone caught in it. Costs 2 of the enemy's finite internal reserve charges per use — not
+  a per-turn resource.
+  Encounter design: disabling a nearby power conduit/battery pack (if the encounter provides
+  one) is a viable non-damage counterplay to force the reserve down early.
+
+--------------------------------------------------------------------
+"Strip and Run" (placeholder, not developer-chosen) — from Keeper's Fee
+  Enemy archetype: Pisces black-market scavenger/raider whose gimmick is gear denial, not raw
+  damage.
+  Effect: disarms the player — weapon knocked away, recoverable post-combat by looting the
+  enemy's corpse. Gated behind a flat threshold check on the player's Might/Reflex-adjacent
+  stat to resist (Section 3).
+  Encounter design: genuinely interesting non-damage encounter tension ("keep your gear," not
+  "survive the damage race") — worth keeping purely as enemy kit.
+
+--------------------------------------------------------------------
+"Charged Edge" (placeholder, not developer-chosen) — from Lunar Smite
+  Enemy archetype: elite melee security unit with an integrated energy-weapon coating
+  (plasma-edge) on its strikes.
+  Effect: on melee hit, standard weapon damage plus bonus Radiant (laser/particle-beam per
+  `Damage_Types.md`), applying a 2-turn lingering burn condition.
+  Note: not player-learnable, matching BG3's own exclusion — reads as a unique enemy
+  weapon-mod rather than a trainable technique.
+
+--------------------------------------------------------------------
+"Neural Lance" (placeholder, not developer-chosen) — from Mind Spike
+  Enemy archetype: jack-in-capable hostile hacker/interface-warfare enemy.
+  Effect: ranged neural/EM disruption (Psychic → Neural/Interface per `Damage_Types.md`)
+  dealing damage plus a lingering "Mindstruck"-equivalent vulnerability debuff — the target
+  becomes more susceptible to a follow-up neural attack from the same or an allied enemy.
+  Encounter design: a natural building block for a 2-enemy combo (hacker tags, ally follows up)
+  rather than a standalone threat.
+
+--------------------------------------------------------------------
+"Override Seizure" (placeholder, not developer-chosen) — from Possession
+  Enemy archetype: rogue AI, corrupted Bridge Unit, or hostile hacker boss
+  (Aquarius/Scorpio-adjacent flavor).
+  Effect: hostile jack-in/neural override that seizes direct control of a target, forcing it
+  to attack allies; the controller is untargetable while possessing. The internal per-turn
+  damage to the possessed unit becomes the interface link burning out the victim's own
+  systems. Repeatable resistance check each turn on the target's Charisma-equivalent stat
+  (Section 3).
+  Encounter design: a strong "boss turns your own ally against you" beat; a jack-in "forced
+  logout" tool would be the natural player-side counterplay if one exists in the player's own
+  kit.
+
+--------------------------------------------------------------------
+"Bounty Mark" (placeholder, not developer-chosen) — from Promise of Wealth
+  Enemy archetype: enemy squad-leader/commander who bounty-marks a target over comms/jack-in
+  for the whole squad to focus fire.
+  Effect: marks a target — the commander's squad gets attack advantage against the marked
+  target for 2 turns.
+  Encounter design: a generic, reusable "focus-fire caller" lieutenant mechanic; killing or
+  interrupting the caller removes the mark's renewal, making the caller a priority target.
+
+--------------------------------------------------------------------
+"Forced Logout" (placeholder, not developer-chosen) — from Revoke Guest Status
+  Enemy archetype: rival hacker/network-defense boss.
+  Effect: hard lockout — forcibly logs the player's Bridge Unit connection out of the local
+  network for several turns (can't be targeted by the player's own jack-in tools, can't use
+  quickhacks); explicitly cannot be used on the boss casting it, mirroring BG3's own
+  Raphael-can't-be-hit-by-it restriction.
+  Encounter design: a strong "boss shuts off your hacking toolkit" beat that pushes the player
+  into a conventional-combat contingency during the lockout window.
+
+--------------------------------------------------------------------
+"Release the Charge" (placeholder, not developer-chosen) — from Summon Gilded Hellsboar
+  Enemy archetype: enemy handler/rancher (Sagittarius Frostlands or agricultural-district
+  flavor).
+  Effect: releases a heavy melee combat-ally mid-fight — a cybernetic/bioengineered
+  charge-attack animal (modified pack animal or industrial drone); recharges once per
+  encounter.
+  Encounter design: a telegraphed "add spawn" beat; killing the handler first may prevent the
+  recharge from firing again.
+
+--------------------------------------------------------------------
+"Entanglement Snare" (placeholder, not developer-chosen) — from Tyrant's Bindings
+  Enemy archetype: hostile enemy with a physical or EM entanglement weapon — a net-launcher,
+  magnetic-clamp, or restraint-drone attack.
+  Effect: movement halved on hit; if it persists to the enemy's next turn, a delayed burst of
+  Force damage triggers. A flat stat-threshold check on the player's side determines
+  half-damage-and-reaction-retained as the success outcome (Section 3).
+  Encounter design: an "escape the trap before it detonates" countdown-timer beat, independent
+  of the deity-flavored source enemy it came from — one of the more reusable non-deity shapes
+  in this batch.
+
+--------------------------------------------------------------------
+"Lovely Assistant" — DROP (Outcome 6)
+  Reason: corpse-reanimation-as-combat-summon narrowly scoped to one BG3 boss (Malus Thorm).
+  The "revive a fallen ally at reduced HP" shape is already better covered by other
+  Necromancy-flavored nanite-reanimation entries drafted elsewhere in the broader conversion
+  pass.
+  Disposition: drop as redundant — nothing unique here beyond what's already captured
+  elsewhere.
+
+--------------------------------------------------------------------
+"Shield of Screams" — DROP (Outcome 6)
+  Reason: Nere-exclusive. Bonus AC plus retaliatory Psychic damage to melee attackers is a
+  generic reactive-defense shape already well covered by Abjuration-school
+  nanoweave/reactive-plating-with-retaliatory-discharge entries drafted elsewhere.
+  Disposition: drop as redundant.
+
+--------------------------------------------------------------------
+"Teleport to Submersible" — DROP (Outcome 6)
+  Reason: a narrow escape mechanic tied to one specific companion NPC and one specific
+  vehicle; "NPC retreats to a vehicle" is scripted encounter behavior, not a reusable
+  ability or system.
+  Mechanic worth remembering: a generic "boss retreats via vehicle/elevator/lift once below an
+  HP threshold" encounter beat is a reusable design pattern independent of this specific named
+  entry — worth keeping in mind as a technique, not as a named ability to convert.
+  Disposition: drop.
+
+--------------------------------------------------------------------
+"The Closed Fist of Bane" — DROP (Outcome 6)
+  Reason: named directly in Section 6's drop list — deity-specific (Bane), Enver
+  Gortash-exclusive.
+  Mechanic worth remembering: heavy single-target Force damage, concentration-gated (i.e., an
+  "active effect slot" occupier per Section 3). No unique value beyond what other Force/kinetic
+  enemy-signature entries in this same batch already cover ("Triarch Lance" as an item,
+  "Entanglement Snare"'s Force burst).
+  Disposition: parked only in the sense that the mechanic pattern is redundant within this
+  batch, not that it needs separate saving — low priority for other projects too, given two
+  better-fleshed alternatives already exist above.
+
+
+SUMMARY
+Level 9/Special (6): 5 drops, 1 item ("Triarch Lance," from Power Word: Ruin).
+NPC-Only (16): 12 enemy-signature ability concepts, 4 drops (Lovely Assistant, Shield of
+Screams, Teleport to Submersible, The Closed Fist of Bane).
+Overall (22 entries, this file only): 1 item, 12 enemy-signature abilities, 9 drops (all
+logged per Section 6's retention policy — parked for Outer Tepenia/Toronto Fell Out except
+where noted as pure redundancy within this batch). 0 quickhacks/level-up perks/traits, matching
+the source triage's own note that this tier skews heavily toward drop and enemy-only material.
+
+		/// Item-Granted Spells ///
+
+/// ITEM/EQUIPMENT OUTCOME (5) — 12 entries. Format: name, item/weapon/gadget category, damage ///
+/// type per Damage_Types.md where relevant, 1-2 sentences on special properties. Resource ///
+/// mapping follows Section 3: spell slot → consumable charge or cooldown-on-recharge; saving ///
+/// throw → flat stat threshold; Concentration → single "active effect" slot. ///
+
+
+"Umbral Seed" (placeholder, not developer-chosen) — from Beckoning Darkness
+  Item category: deployable trap/gadget, single-use consumable.
+  Damage type: Necrotic — nanite/pathogen payload, per Damage_Types.md's molecular-disassembly
+  reinterpretation of Necrotic.
+  Diegetic: a proximity nanite dispenser tuned to trigger specifically on low-visibility
+  conditions (smoke, fog, dust).
+  Property: armed like a mine; deals a moderate Necrotic burst to any target that enters or
+  lingers in an obscured-terrain tile within roughly 4m for 2 turns after arming. Pairs naturally
+  with smoke grenades or Holo-Decoy (see the cantrip batch in baldurs_gate_3.txt) for a
+  smoke-then-trigger combo.
+  Cost: expended on trigger, no separate cooldown — restocked like any other consumable.
+
+"Vuln-Tag Dart" (placeholder, not developer-chosen) — from Brand the Weak
+  Item category: gadget/weapon attachment — a marking round fired from a Small Guns or Long Guns
+  platform.
+  Damage type: none of its own; flags the target as Vulnerable to a chosen physical type
+  (Bludgeoning, Piercing, or Slashing, per Damage_Types.md) — squad follow-up fire of that type
+  does bonus damage.
+  Property: single tagging round, no save; the mark lasts 3 turns or until the target takes any
+  damage, whichever comes first.
+  Cost: limited-charge magazine or single-shot consumable round; recharges on resupply.
+
+"Provocation Broadcaster" (placeholder, not developer-chosen) — from Challenge to Duel
+  Item category: gadget (signal jammer/insult broadcaster), usable as a standalone deployable or
+  a Bladed Melee weapon attachment.
+  Damage type: none directly; a follow-up melee hit while the target is marked risks inflicting a
+  Bleeding-style DoT (per Damage_Types.md's Slashing entry).
+  Property: forces a marked target's attention onto the wielder for 3 turns — the target takes an
+  accuracy penalty attacking anyone else. Reads as a taunt/aggro-control tool for a melee-focused
+  build rather than a damage source.
+  Cost: 1 charge per activation, cooldown-based recharge rather than rest-gated.
+
+"Elemental Coil Mod" (placeholder, not developer-chosen) — from Draconic Elemental Weapon
+  Item category: weapon-mod/attachment, slottable into most melee or ranged weapons.
+  Damage type: adds a secondary damage type of the player's choice — Acid, Cold, Fire/Thermal, or
+  Lightning, per Damage_Types.md — layered on top of the weapon's base damage type.
+  Property: minor accuracy bonus plus a secondary elemental damage die on hit. Doesn't stack with
+  Elemental Charge Cell below (same underlying tech, mutually exclusive per BG3's own no-stacking
+  rule).
+  Cost: limited charges, recharges on rest/resupply.
+
+"Elemental Charge Cell" (placeholder, not developer-chosen) — from Elemental Age
+  Item category: weapon-mod/attachment, persistent variant.
+  Damage type: same shape as Elemental Coil Mod above — a chosen secondary elemental type
+  (Acid/Cold/Fire per Damage_Types.md) layered onto the weapon's base damage.
+  Property: near-identical to Elemental Coil Mod but delivered as an installed cell rather than a
+  per-use charge — stays active even if the weapon changes hands, until the cell itself (or its
+  source item) is removed. Doesn't stack with Elemental Coil Mod.
+  Note: BG3 treats these as two separate items granting near-identical effects from two different
+  source items (Drakethroat Glaive vs. Flail of Ages) — worth flagging whether Inner Tepenia
+  actually needs both as distinct mods or should collapse them into one "elemental coil" mod
+  family with a rarity tier. Not resolved here.
+
+"Monofilament Net-Blade" (placeholder, not developer-chosen) — from Ensnaring Strands
+  Item category: Bladed Melee weapon property.
+  Damage type: Slashing, per Damage_Types.md.
+  Property: on-hit chance to entangle the target in a monofilament net in addition to normal
+  Slashing damage — an entangled target's movement is locked and their accuracy penalized until
+  they clear a flat Might threshold (Section 3's saving-throw substitution) or an ally cuts them
+  free.
+  Cost: limited charges (net cartridge), recharges on resupply.
+
+"Resonance Emitter" (placeholder, not developer-chosen) — from Howl of the Dead
+  Item category: gadget/deployable — a handheld sonic/infrasound device.
+  Damage type: none direct; inflicts a "Numbed" status (half movement speed, attackers get an
+  accuracy bonus against affected targets) in a short radius around the user.
+  Diegetic: ties into the Thunder/Acoustic damage-type flavor and Cymaticist faction thematic
+  hooks already established in Damage_Types.md — a crowd-control tool rather than a damage
+  source.
+  Cost: limited charges, short cooldown/recharge on rest.
+
+"Field Stim: Buffer Dose" (placeholder, not developer-chosen) — from Khalid's Gift: Aid
+  Item category: consumable/chem — a battlefield medical stim.
+  Property: flat HP heal plus a temporary max-HP buffer that decays back down over time (until
+  the player's next extended rest) rather than being a permanent increase — distinguishes it from
+  a standard healing item.
+  Cost: single-use consumable, craftable/purchasable, no cooldown beyond having another dose on
+  hand.
+
+"Neural-Lock Lance" (placeholder, not developer-chosen) — from Paralyzing Ray
+  Item category: rare/unique ranged weapon or Arc Weapon-adjacent gadget.
+  Damage type: Neural/Interface, per Damage_Types.md.
+  Property: full-incapacitation beam — locks the target in place for 2 turns unless their
+  Nerve/Humanity clears a flat threshold (Section 3's saving-throw substitution); attacks against
+  a locked target get a to-hit bonus, echoing BG3's own "auto-crit within range" clause as a
+  strong-but-not-literal-auto-crit bonus.
+  Cost: rare-tier item, limited charges, long recharge (rest-gated).
+
+"Ablative Countermeasure Suit" (placeholder, not developer-chosen) — from Protection from
+Missiles
+  Item category: armor property (reactive ablative plating) or a standalone deployable jammer
+  module.
+  Property: while active, incoming ranged-weapon attacks against the wearer suffer a to-hit
+  penalty and deal half damage. Occupies the character's single "active effect" slot per Section
+  3's Concentration substitution, so it can't run alongside another sustained effect.
+  Cost: 2 AP to activate, short cooldown/recharge.
+
+"Panic Dart-Gun" (placeholder, not developer-chosen) — from Ray of Fear
+  Item category: ranged gadget/weapon property, Signal Weapon-adjacent.
+  Damage type: none direct; delivers a Psychic/Neural status effect, per Damage_Types.md.
+  Property: fires a sonic/pheromone dart that locks the target's movement and imposes an accuracy
+  penalty for 2 turns unless their Nerve/Humanity clears a flat threshold (Section 3's
+  saving-throw substitution).
+  Cost: limited charges, long recharge (rest-gated).
+
+"Pathogen Dart-Gun" (placeholder, not developer-chosen) — from Wounding Ray
+  Item category: ranged weapon/gadget.
+  Damage type: Necrotic — nanite/pathogen payload, per Damage_Types.md.
+  Property: moderate ranged Necrotic burst; the target's species-appropriate resistance threshold
+  (Humanity for humans, an Engine-adjacent system-integrity check for robots) halves the damage on
+  a clear, mirroring BG3's own "half on success" save.
+  Cost: limited charges, long recharge (rest-gated).
+
+
+/// DOESN'T TRANSLATE — DROP (Outcome 6) — 9 entries. Per Section 6's retention policy: ///
+/// "rejected for Inner Tepenia" is not "thrown away." Each is logged with a one-line reason and ///
+/// a retention note (parked for Outer Tepenia/Toronto Fell Out, or flagged as genuinely ///
+/// planar/supernatural if that's the actual reason — none of these 9 hit that true exception). ///
+
+
+"Danse Macabre" — DROP
+  Reason: summons 4 uncontrollable ghoul allies with zero player-agency counterplay; the
+  underlying "reanimate several minions from nearby corpses" shape is dark and interesting per
+  the framework's Necromancy notes, but this specific item-granted, uncontrollable-summon-swarm
+  implementation has no home in any existing Inner Tepenia system (no parallel to
+  Companion_System.md's controlled-ally model).
+  Retention: parked, not discarded — the broader nanite-reanimation concept is better captured by
+  other, player-controllable entries elsewhere in the conversion pass rather than reviving this
+  narrow uncontrolled-minion version specifically.
+
+"Exhort the Risen" — DROP
+  Reason: a Command-style compulsion that specifically and only targets undead. Inner Tepenia has
+  no undead-equivalent creature category — its closest analogue (reanimated/repurposed matter via
+  nanites) is already earmarked for other Necromancy-flavored perks — so the entire premise has no
+  target category to apply to.
+  Retention: parked for Outer Tepenia or Toronto Fell Out, should either project ever introduce an
+  undead-adjacent creature type this compulsion could target.
+
+"Find Familiar: Cheeky Quasit" — DROP
+  Reason: a named, flavor-specific single-creature familiar (a demon called "Shovel"), cosmetically
+  and mechanically tied to Forgotten Realms fiend lore with no coherent grounded-tech
+  reinterpretation beyond "another drone summon" — already better covered by Conjuration-school
+  entries elsewhere in the conversion pass (see Core-Mechanics/Companion_System.md for the
+  drone/ally-summon home).
+  Retention: parked as redundant with existing better-fit material rather than discarded outright.
+
+"Flesh to Gold" — DROP (duplicate)
+  Reason: explicitly named in Section 6's drop list under "literal petrification-as-transmutation."
+  This specific item-granted instance doesn't add anything the Flesh to Stone entry drafted
+  elsewhere in the conversion pass wouldn't already cover.
+  Retention: the mechanical shape (progressive restrain-then-incapacitate over several rounds,
+  with a permanence threshold on repeated failures) is salvageable via nanite/chemical hardening
+  reinterpretation if the Flesh to Stone draft ever needs revisiting — the "turns into literal
+  gold" flavor specifically does not survive, in any project.
+
+"Kereska's Favour" — DROP
+  Reason: named directly in Section 6's drop list — deity-specific, tied to the Markoheshkir staff
+  and Kereska's pantheon identity.
+  Retention: parked, not discarded — the underlying "attune to a damage type, gain bonus damage +
+  free-cast abilities while a specific item is equipped" shape is a genuinely interesting
+  unique-item build-around, but it needs a full rename and rejustify pass as an Inner
+  Tepenia-native artifact weapon before any conversion is attempted, which this drafting pass
+  isn't doing. Strong candidate for a future artifact-weapon design pass.
+
+"Ride the Winds" — DROP
+  Reason: full-body transformation into a gas cloud with stat rewrites (Str/Dex set to 10, flight,
+  immunity to Bleeding) — body-horror shapeshifting with no grounded tech/chemistry/biology
+  analogue that doesn't require inventing new lore about matter conversion.
+  Retention: parked for Outer Tepenia or Toronto Fell Out, where a different stance on body
+  modification or matter conversion might be workable; not the genuine planar/supernatural
+  exception, just outside Inner Tepenia's current grounded-tech ceiling.
+
+"Selûne's Dream" — DROP
+  Reason: named directly in Section 6's drop list — Selûne's pantheon identity is load-bearing in
+  the name itself. The underlying shape (melee healing touch that risks putting the target to
+  sleep) is a mechanically odd trade-off with limited standalone value once the deity flavor is
+  stripped, and "no effect on undead/constructs" has no clean equivalent given Inner Tepenia's
+  robot population would need a special-cased exemption.
+  Retention: parked rather than discarded, but not judged worth a rename-and-rejustify pass on its
+  own given how little is left once the deity flavor and undead clause are removed.
+
+"Shar's Aegis" — DROP
+  Reason: named directly in Section 6's drop list — Shar's pantheon identity. The underlying shape
+  (flat AC/damage-reduction buff plus retaliatory Necrotic damage) is a fairly generic
+  reactive-armor pattern already well covered by other Abjuration-school entries and by Shield of
+  Screams (drafted in the NPC-only batch).
+  Retention: parked as redundant — no unique value left to justify a separate rename-and-rejustify
+  pass.
+
+"Summon Quothe the Raven" — DROP
+  Reason: a named, flavor-specific familiar (a raven called "Quothe") granted by a specific pair
+  of gloves, with a narrow on-death revenge-condition hook — cosmetically tied to a one-off BG3
+  item and mechanically redundant with the broader drone/ally-summon design space already covered
+  by other Conjuration-school entries and Core-Mechanics/Companion_System.md.
+  Retention: parked as redundant rather than discarded — not worth re-deriving a near-duplicate
+  small-familiar summon.
+
+
+/// OUTCOME COUNT — 21 drafted (12 Outcome 5 / item, 9 Outcome 6 / drop), matching the triage ///
+/// doc's own distribution exactly. 2 cross-referenced duplicates skipped per the assignment ///
+/// (Shadow Blade — see Level 2 draft; Sights of the Seelie: Summon Deva — see Level 6 draft). ///

@@ -1,0 +1,2130 @@
+/// CP2077 FREE-FLOW DRAFTING SPACE ///
+/// Working from Game-Mechanics/Perks/CP2077_Conversion_Basis_of_Translation.md. No prior triage ///
+/// pass existed for this material (unlike BG3) — each batch below triaged AND drafted in one go. ///
+/// Names marked (placeholder) are AI-proposed and not developer-chosen — flag on every reuse. ///
+/// Numbers below are illustrative drafts, not locked/balanced — free-flow stage, not final. ///
+/// Once an idea feels solid, move/copy the cleaned version into DRAFT_Perks.txt (Level-Up or ///
+/// Challenge section) or DRAFT_Traits.txt. ///
+///
+/// STATUS: all 7 planned CP2077 batches drafted, 2026-08-02 — 1.63 skill-level rewards, 1.63
+/// perk trees (Body/Reflexes/Technical/Intelligence/Cool, all 12 skills), 2.0 role-skill rank
+/// bonuses, and 2.0 perk trees (Body/Reflexes/Technical/Intelligence/Cool, including the 9-perk
+/// Relic tier). Same free-flow-draft caveats as always: not final numbers, not developer-approved
+/// names, several open questions (RAM resource, cyberware capacity, item-rarity tiers, missing
+/// Finisher/execute mechanic) flagged inline rather than resolved.
+
+
+		/// 1.63-era — 12 Skills, Automatic Level Rewards ///
+
+/// GENERAL TRIAGE NOTES BEFORE THE PER-SKILL DRAFTS ///
+/// - Skill-to-skill mapping below follows Section 3's table exactly; see that table for the reasoning ///
+///   behind each landing skill, especially the Annihilation/Engineering/Handguns-Assault splits. ///
+/// - "Stamina" entries throughout fold into AP cost per Section 4 (Inner Tepenia has no separate ///
+///   Stamina pool — Action_Points_Base-Level_System.md confirms AP is a fresh per-turn pool, not a ///
+///   regenerating meter) — read every "Stamina cost -X%" / "Max stamina +X%" reward below as an AP-cost ///
+///   or AP-efficiency modifier, not a new resource. ///
+/// - "Armor +X%" / "All resistances +X%" read against Combat/Damage_Threshold_and_Damage_Resistance.md's ///
+///   existing DT (flat) / DR (percentage) split — translated as DR bumps below, since CP2077's own "Armor" ///
+///   stat is itself a percentage. ///
+/// - "Crit chance" / "Crit damage" / "Aiming speed" / "Recoil" / "Spread" all land on legitimate Inner ///
+///   Tepenia mechanics per Skills.md's own carve-out: ranged combat hit chance and aimed-shot probability ///
+///   are the ONE place RNG applies (everything else is flat-threshold, no-dice-roll) — so accuracy/crit- ///
+///   flavored bonuses are a clean structural fit for Guns/Mechanical Weapons/Bladed Melee/Unarmed. ///
+/// - "+1 Perk Point" and "+1 Max RAM" / "Minigame buffer +1" reward lines are dropped or flagged per ///
+///   Section 4/Section 2 — never silently ported as if Inner Tepenia had an equivalent resource. ///
+
+
+---------------------------------------------------------------------
+## 1. ATHLETICS → Athletics (Might) — per Section 3, direct name match
+---------------------------------------------------------------------
+
+"Load-Bearing Frame" (placeholder, not developer-chosen) — from Athletics Lv2/6/13 (Carry capacity +20/+40/+100)
+  Diegetic: incremental structural reinforcement to the frame's load-bearing joints and servos from
+  repeated heavy hauling.
+  Effect (by rank): +20 / +60 / +160 to Carry Capacity (flat addition on top of Might_Expanded_Systems_
+  Tentative.md's `40 + Might × 12` base formula).
+  Unlock condition: travel a cumulative distance while carrying 90%+ of max Carry Capacity (10 km / 30 km / 75 km).
+  Ranks: 3
+  Note: cleanest 1:1 numeric port in this batch — the three carry-capacity levels stack directly onto
+  Inner Tepenia's own existing carry-weight formula with no reinterpretation needed.
+
+"Reinforced Frame" (placeholder, not developer-chosen) — from Athletics Lv9/12/14/17/18 (Max health +5% x3, Armor +3% x2)
+  Diegetic: the frame itself toughens under sustained physical strain — denser plating, better shock
+  distribution.
+  Effect (by rank): R1: +5% max HP. R2: +5% max HP, +2% DR. R3: +5% max HP, +2% DR (stacks to +15%
+  max HP / +4% DR total).
+  Unlock condition: pass X Athletics skill checks in the world (forcing doors/hatches, feats of
+  strength, hauling under load) — 10 / 30 / 75.
+  Ranks: 3
+  Note: folds Athletics' scattered Max Health and Armor lines into one toughness track, gated on actual
+  Athletics skill-check usage rather than combat performance — keeps the thematic link to "how you lived,"
+  per Perk_Framework.md's Category A design rule, tied to the skill's own use rather than borrowed from
+  combat.
+
+"Field Conditioning" (placeholder, not developer-chosen) — from Athletics Lv4/5/15 (Max stamina +5%, Stamina regen +10%, Health regen out of combat +10%)
+  Diegetic: cardiovascular/servo-efficiency conditioning from repeated exertion.
+  Effect (by rank): R1: -10% AP cost on Athletics-tagged exertion actions (forced movement, climbing,
+  breaking through obstacles). R2: same, plus +10% out-of-combat HP regen rate.
+  Unlock condition: complete X forced marches/expeditions under heavy load, or successfully perform X
+  Athletics-tagged exertion actions — 15 / 40.
+  Ranks: 2
+  Note: this is the direct application of Section 4's Stamina→AP mapping — CP2077's "max stamina" and
+  "stamina regen" lines had no other sensible landing spot once Stamina itself doesn't exist as a pool.
+
+
+---------------------------------------------------------------------------------
+## 2. ANNIHILATION → Guns (Nerve) — Section 3 flags this as a weapon-category-split
+## skill (Shotguns + LMGs specifically); see Section 6 note below.
+---------------------------------------------------------------------------------
+
+"Suppression Discipline" (placeholder, not developer-chosen) — from Annihilation Lv4/8/13/14/19 (Recoil -10% x3, -15% x2)
+  Diegetic: trained follow-through on sustained automatic fire — muscle memory (or servo memory) for
+  walking a burst back onto target.
+  Effect (by rank): R1: second and later attacks against the same target within a turn suffer half the
+  usual accuracy penalty. R2: no accuracy penalty on repeat attacks against the same target within a turn.
+  Ranks: 2
+  Unlock condition: fire X total rounds from automatic/heavy weapons (500 / 2,000).
+  Note: recoil-as-a-concept doesn't exist in Inner Tepenia's flat-threshold system outside the one
+  ranged-hit-chance RNG carve-out (Skills.md), so this is reinterpreted as a same-turn repeat-target
+  accuracy mechanic rather than a literal recoil stat — check for overlap with the existing "Concentrated
+  Fire" perk (`Regular_Perks_-_Level-Up.md`, Calculation-gated) before finalizing; may need to differentiate
+  by weapon category once weapon-system design (Section 6) exists.
+
+"Wide Pattern Handling" (placeholder, not developer-chosen) — from Annihilation Lv5/16/17 (Spread -25% x2, -10%)
+  Diegetic: tighter shot-pattern control on wide-spread weapons.
+  Effect (by rank): R1: +1 additional target hit by spread-pattern attacks (shotgun-style) at no extra
+  AP cost. R2: +2 additional targets, plus reduced falloff damage on the extra targets.
+  Ranks: 2
+  Unlock condition: land X hits that strike multiple enemies with a single wide-pattern attack (25 / 75).
+  Note: genuinely CP2077-specific to the Shotgun/LMG split Section 3 flags — this perk only really makes
+  sense once Inner Tepenia's weapon system (Section 6) has a defined shotgun-equivalent category; until
+  then, gate loosely on "wide-pattern" weapons generically.
+
+"Heavy Ordnance Instinct" (placeholder, not developer-chosen) — from Annihilation Lv2/7/11 (Aiming speed +20%, Crit chance +5%, Crit damage +15%)
+  Diegetic: trained instinct for bracing and target acquisition under a heavy weapon's mass and kick.
+  Effect (by rank): R1: -1 AP cost on Aimed/Special Attacks made with heavy/automatic Guns. R2: +5% crit
+  chance, +15% crit damage with the same weapon category.
+  Ranks: 2
+  Unlock condition: land X critical hits with automatic/heavy weapons (30 / 100).
+  Note: per Section 6, "Annihilation" as a distinct weapon feel (heavy, suppressive, wide-area) is
+  genuinely useful seed material for the weapon-system backlog independent of whether this specific perk
+  survives — flagging for that cross-reference.
+
+
+-----------------------------------------------------------------
+## 3. STREET BRAWLER → Unarmed (Engine) — Section 3, direct match
+-----------------------------------------------------------------
+
+"Brawler's Guard" (placeholder, not developer-chosen) — from Street Brawler Lv2/13/16/17/19 (Blocking stamina cost -10% x2, Max stamina +5% x2, Max health +5%)
+  Diegetic: reflexive bracing and structural give in the frame's forearm/torso plating absorbs blocked
+  hits more cheaply.
+  Effect (by rank): R1: -1 AP cost to block/parry unarmed. R2: same, plus +5% max HP.
+  Ranks: 2
+  Unlock condition: block or parry X incoming attacks while unarmed (25 / 75).
+  Note: folds the two stray Max Stamina/Max Health lines into the blocking-focused perk rather than
+  spinning up a third, thinner perk for them — keeps Street Brawler at a clean 3-perk spread.
+
+"Flurry Instinct" (placeholder, not developer-chosen) — from Street Brawler Lv4/14/8 (Attack speed +5%/+10%, DPS +2%)
+  Diegetic: trained punch-chain rhythm — each strike primes the servos for the next.
+  Effect (by rank): R1: -1 AP cost on the second unarmed attack made in the same turn. R2: -1 AP cost on
+  the second AND third unarmed attack in the same turn.
+  Ranks: 2
+  Unlock condition: land X unarmed hits (50 / 150).
+  Note: "Attack speed" and "DPS" both fold cleanly into AP-cost reduction per Action_Points_Base-Level_
+  System.md's own framing (Engine already governs "efficiency of repeated actions") — no new mechanic
+  needed.
+
+"Brutal Follow-Through" (placeholder, not developer-chosen) — from Street Brawler Lv7/11 (Crit damage +10%, Crit chance +5%)
+  Diegetic: knowing exactly where a frame's seams and stress points are and hitting them bare-fisted.
+  Effect (by rank): R1: +5% crit chance unarmed. R2: +10% crit damage unarmed.
+  Ranks: 2
+  Unlock condition: land X unarmed critical hits (20 / 60).
+  Note: straightforward crit-track port; no resource-mapping complications.
+
+
+-------------------------------------------------------------------------------------------
+## 4. HANDGUNS → Guns (Nerve) — precision/quickdraw flavor (see Assault below for the split)
+-------------------------------------------------------------------------------------------
+
+"Quickdraw Discipline" (placeholder, not developer-chosen) — from Handguns Lv2/4/13/14/19 (Aiming speed +20%, Recoil -10% x4)
+  Diegetic: trained first-shot draw speed and target acquisition with a sidearm.
+  Effect (by rank): R1: -1 AP cost on the first Aimed/Special Attack made with a sidearm each combat.
+  R2: same, plus the first attack each combat against a target not yet engaged gets +10% hit chance
+  (per Skills.md's ranged-hit-chance RNG carve-out).
+  Ranks: 2
+  Unlock condition: land X hits with sidearms as the first attack of a combat encounter (25 / 75).
+  Note: "Recoil" here is entirely reinterpreted as first-shot reliability rather than a literal kickback
+  stat, since Inner Tepenia has no continuous-fire recoil mechanic outside Suppression Discipline above.
+
+"Precision Execution" (placeholder, not developer-chosen) — from Handguns Lv7/11/5/16/17 (Crit chance +5%, Crit damage +15%, Spread -25% x2, -10%)
+  Diegetic: steady-hand called shots — the sidearm-specific discipline of hitting exactly where aimed.
+  Effect (by rank): R1: +5% crit chance with sidearms. R2: +15% crit damage with sidearms, plus reduced
+  NODE-mode (called-shot) accuracy penalty when targeting a specific body part with a sidearm.
+  Ranks: 2
+  Unlock condition: land X critical or NODE-mode called-shot hits with sidearms (30 / 100).
+  Note: "Spread" folds into the NODE-mode called-shot accuracy penalty rather than a literal cone-of-fire
+  stat, since Inner Tepenia's precedent for called shots is already NODE mode (`Regular_Perks_-_Level-
+  Up.md`'s Predictive Algorithms/Concentrated Fire entries) — this leans into that existing vocabulary
+  instead of inventing a parallel one.
+
+
+------------------------------------------------------------------------------------------------
+## 5. ASSAULT → Guns (Nerve) — sustained/suppressive-fire flavor, same governing skill as Handguns
+------------------------------------------------------------------------------------------------
+
+**Cross-note before drafting:** Assault's CP2077 reward ladder is byte-for-byte identical to Handguns'
+(source file literally reuses the table). Per Section 3, both land on Inner Tepenia's single Guns skill —
+there is no Inner Tepenia equivalent of CP2077's Handguns/Assault split. Rather than draft two duplicate
+perk sets off one identical numeric pool, the same pool is split into two distinct flavors that won't
+compete for design space once both live under Guns: Handguns above leans precision/quickdraw (single
+well-placed shots), Assault below leans sustained/suppressive fire (staying on target across a burst or
+turn). Flagging this explicitly rather than quietly diverging — a future pass may decide these should
+simply merge into one perk family instead of staying split.
+
+"Sustained Fire Control" (placeholder, not developer-chosen) — from Assault Lv4/8/13/14/19/16/17 (Recoil -10% x4, -15% x1, Spread -25%, -10%)
+  Diegetic: trained bracing and burst discipline for rifles/carbines — staying on target across multiple
+  rounds rather than a single shot.
+  Effect (by rank): R1: the accuracy penalty for a second attack against the same target in the same turn
+  is halved when using a rifle/carbine. R2: no such penalty, and a third attack against the same target
+  in the same turn only takes the normal (not stacked) penalty.
+  Ranks: 2
+  Unlock condition: land X hits with rifles/carbines during turns where 2+ attacks were made (40 / 120).
+  Note: deliberately mirrors Suppression Discipline's (Annihilation) mechanical shape but scoped to
+  rifles/carbines instead of heavy/automatic weapons — same underlying "stay on target" idea, different
+  weapon-category gate, consistent with Section 6's note that CP2077's weapon-category granularity is
+  itself useful seed material.
+
+"Rapid Target Acquisition" (placeholder, not developer-chosen) — from Assault Lv2/7/11 (Aiming speed +20%, Crit chance +5%, Crit damage +15%)
+  Diegetic: fast target-to-target reacquisition — snapping the sights from a downed target to the next
+  threat without losing tempo.
+  Effect (by rank): R1: -1 AP cost on the first rifle/carbine attack made against a new target after
+  downing a different target in the same turn. R2: +5% crit chance and +15% crit damage on that follow-up
+  attack.
+  Ranks: 2
+  Unlock condition: land killing blows on X separate targets within the same combat turn/encounter using
+  rifles/carbines (15 / 50).
+  Note: this is the one Assault perk that reads meaningfully different from its Handguns counterpart even
+  though the source numbers are identical — "target switching under fire" versus "first-shot precision"
+  are genuinely different playstyles being pulled out of the same raw ladder.
+
+
+------------------------------------------------------------
+## 6. BLADES → Bladed Melee (Agility) — Section 3, direct match
+------------------------------------------------------------
+
+"Blade Flow" (placeholder, not developer-chosen) — from Blades Lv2/11/13/4/12 (Attack speed +10% x3, Stamina costs -10% x2)
+  Diegetic: chained cutting rhythm — each strike's follow-through sets up the next without a reset.
+  Effect (by rank): R1: -1 AP cost on the second bladed attack in the same turn. R2: -1 AP cost on the
+  second AND third bladed attack in the same turn. R3: same, plus the fourth bladed attack in a turn
+  (if reached) costs -2 AP.
+  Ranks: 3
+  Unlock condition: land X consecutive bladed-melee hits without missing (25 / 75 / 200).
+  Note: direct structural twin of Flurry Instinct (Street Brawler) — both skills convert "attack speed/
+  stamina cost" into the same AP-efficiency shape, which tracks with CP2077 itself giving Blades and
+  Street Brawler near-identical reward categories.
+
+"Edge Precision" (placeholder, not developer-chosen) — from Blades Lv6/7/5/19 (Crit damage +10%, Crit chance +5%, DPS +2%/+3%)
+  Diegetic: knowing exactly where a blade needs to land — joints, seams, exposed cabling.
+  Effect (by rank): R1: +5% crit chance with bladed weapons. R2: +10% crit damage with bladed weapons.
+  R3: +15% crit damage total, and critical bladed hits against robotic enemies have a chance to sever a
+  targeted limb/component (thematic tie to Chain Protocol's existing cascade-failure precedent in
+  `Regular_Perks_-_Level-Up.md`).
+  Ranks: 3
+  Unlock condition: land X critical hits with bladed weapons (30 / 100 / 250).
+  Note: Rank 3's limb-severing clause is a genuine addition beyond the raw CP2077 numbers, added because
+  a flat crit-damage-only Rank 3 felt like a number increase rather than the "open new behavior" Perk_
+  Framework.md's ranked-perk rule requires — flagging as a design liberty, not a strict port.
+
+"Parry Discipline" (placeholder, not developer-chosen) — from Blades Lv15/18 (Blocking stamina cost -25%, Max stamina +5%)
+  Diegetic: trained deflection technique specific to edged weapons — using the blade's own geometry to
+  redirect force rather than absorb it.
+  Effect (by rank): R1: -2 AP cost to parry/deflect while wielding a bladed weapon. R2: a successful
+  parry against a melee attack has a chance to open the attacker up for a free riposte (bonus attack at
+  reduced AP cost).
+  Ranks: 2
+  Unlock condition: successfully parry/deflect X attacks while wielding a bladed weapon (20 / 60).
+  Note: smallest of the three Blades perks by source material (only two reward lines feed it), kept
+  separate rather than folded into Blade Flow because "defense" and "offense" are different enough
+  playstyles to deserve their own unlock track per Perk_Framework.md's thematic-coherence rule.
+
+
+----------------------------------------------------------------------------------------------------
+## 7. ENGINEERING → Mechanical Weapons (Might) — Section 3 flags this skill as split (tech weapons vs.
+## grenades/Explosives); this batch only covers the tech-weapon-flavored reward lines, which is all this
+## particular source ladder actually contains (no grenade-specific lines appear in it).
+----------------------------------------------------------------------------------------------------
+
+"Overcharge Tuning" (placeholder, not developer-chosen) — from Engineering Lv4/19/5 (Tech weapon charge time -5%/-10%, Tech weapon DPS +5%)
+  Diegetic: field-tuned capacitor/charge-cycle timing on Mechanical Weapons' powered components.
+  Effect (by rank): R1: -1 AP cost on charged/heavy Mechanical Weapons attacks. R2: same, plus +5% damage
+  with charged Mechanical Weapons attacks.
+  Ranks: 2
+  Unlock condition: land X hits with charged/heavy Mechanical Weapons attacks (30 / 100).
+  Note: clean fit — "charge time" is one of the few CP2077 tech-weapon concepts that already has an
+  obvious Inner Tepenia analogue (AP cost of a heavy/charged attack) with no reinterpretation needed.
+
+"Weak-Point Targeting" (placeholder, not developer-chosen) — from Engineering Lv9/13/15 (Tech weapon crit chance +5% x2, Tech weapon crit damage +15%)
+  Diegetic: reading a target's structural weak points — most reliable against other robotic frames, whose
+  seams and joints Mechanical Weapons users are already trained to recognize.
+  Effect (by rank): R1: +5% crit chance with Mechanical Weapons against robotic enemies specifically.
+  R2: +10% crit chance and +15% crit damage with Mechanical Weapons against robotic enemies.
+  Ranks: 2
+  Unlock condition: land X critical hits against robotic enemies with Mechanical Weapons (25 / 80).
+  Note: narrowed the crit bonus to robotic enemies specifically rather than universal — echoes the
+  existing Chain Protocol perk's own robot-specific cascade-failure framing (`Regular_Perks_-_Level-
+  Up.md`) and keeps this from just being Edge Precision/Brutal Follow-Through with a different weapon
+  noun.
+
+"Reinforced Chassis Plating" (placeholder, not developer-chosen) — from Engineering Lv3/7/11/16/12 (Armor +3% x3, +4%, All resistances +5%)
+  Diegetic: engineering discipline applied to the user's own frame, not just their weapon — armor plating
+  kept in better repair and better-integrated with the frame underneath.
+  Effect (by rank): R1: +3% DR. R2: +3% DR (+6% total), +2% DR against Disrupt/EMP specifically. R3: +4%
+  DR (+10% total), +5% DR across all damage types.
+  Ranks: 3
+  Unlock condition: win X combat encounters with a Mechanical Weapon as the active weapon (15 / 40 / 90).
+  Note: this is the one Engineering perk that isn't actually about the weapon itself — CP2077 bundles
+  general Armor/Resistance lines into the Engineering ladder, which reads more like "your own equipment
+  discipline" than "your weapon's damage." Kept as a Mechanical-Weapons-gated perk rather than moving it
+  to Repair/Crafting, since the unlock condition (using the weapon) is what the CP2077 skill actually
+  tracks.
+
+
+----------------------------------------------------------------------------------------------
+## 8. CRAFTING → Repair (Investigation) — Section 3's closest-existing-skill match; Inner Tepenia
+## has no standalone Crafting skill
+----------------------------------------------------------------------------------------------
+
+"Salvage Efficiency" (placeholder, not developer-chosen) — from Crafting Lv3/4/11/16/19 (Crafting costs -5% x3, Upgrade costs -15% x2)
+  Diegetic: waste-conscious repair technique — using less material per job without a worse result.
+  Effect (by rank): R1: -10% material cost on Repair-based crafting/upgrading actions. R2: -20% material
+  cost (total), plus -15% material cost specifically on upgrade (not fresh-craft) jobs.
+  Ranks: 2
+  Unlock condition: successfully complete X Repair-based crafting or upgrade jobs (20 / 60).
+  Note: straightforward cost-reduction port, no resource-mapping complications — material cost is already
+  a concept Inner Tepenia's Repair skill presumably tracks (crafting/upgrading consumes materials) even
+  without a formal rarity-tier system.
+
+"Waste Not" (placeholder, not developer-chosen) — from Crafting Lv7/12/15 (Chance to get materials back after crafting/upgrading +5% x3)
+  Diegetic: careful disassembly and salvage technique — parts recovered rather than destroyed in the
+  process.
+  Effect (by rank): R1: 10% chance to recover partial materials when crafting, upgrading, or scrapping an
+  item via Repair. R2: 15% chance (total), extended to also apply when an item breaks/degrades past use.
+  Ranks: 2
+  Unlock condition: salvage or scrap X items via Repair (15 / 50).
+  Note: pairs naturally with Salvage Efficiency above — both could arguably be one 3-4-rank perk instead
+  of two 2-rank perks; kept separate here because "spend less" and "recover more" are different enough
+  actions to track independently, but flagging the possible merge for the real conversion pass.
+
+**FLAGGED, NOT DRAFTED — Crafting Lv6/9/13/18 ("Uncommon/Rare/Epic/Iconic crafting specs unlocked"):**
+these four reward lines gate access to CP2077's item-rarity tier system. Per Section 4, no item-rarity/
+quality-tier system currently exists anywhere in Inner Tepenia's `Game-Mechanics/` docs — this is an open
+design question flagged in the framework document itself, not something to invent unilaterally here. These
+four lines are parked, not converted, pending that developer decision.
+
+
+------------------------------------------------------------------------------------------------------
+## 9. BREACH PROTOCOL → Hacking (Calculation) — ROUTES THROUGH EXISTING SYSTEM, per Section 1.
+------------------------------------------------------------------------------------------------------
+
+No standalone perks drafted. Breach Protocol's core loop (hack a target, spend a resource, apply an
+effect) is already covered by `Core-Mechanics/Hacking_and_Traceability_System.md`. This ladder's actual
+content — Minigame time +5% (x5 lines), Data mining materials +10% (x4 lines), Max RAM +1 (x2 lines),
+Minigame buffer +1 (x1 line) — should be evaluated as potential modifiers to that existing system (faster
+hack minigame windows, better loot from successful hacks) during whatever pass actually revises Hacking_
+and_Traceability_System.md, not converted into freestanding challenge perks here.
+
+FLAGGED: the two "Max RAM +1" lines and the "Minigame buffer +1" line depend entirely on CP2077's RAM
+resource pool, which per Section 4 is an open design question (fold into AP + the existing hacking system,
+or invent a dedicated Hacking-specific resource) — not resolved by this pass. Do not treat "+1 RAM"-style
+bonuses as portable until that question is answered.
+
+ALSO FLAGGED: the source table itself notes Breach Protocol's Lv20 reads "Perk Point" rather than "Trait,"
+an apparent inconsistency in the CP2077 source data (every other skill's Lv20 is "Trait"). Preserved as-is
+in ORIGINALS above per the retention policy — not silently corrected, since it may just be an accurate
+quirk of the actual game data rather than a transcription error.
+
+
+---------------------------------------------------------------------------------------------------
+## 10. QUICKHACKING → Hacking (Calculation) — ROUTES THROUGH EXISTING SYSTEM, per Section 1.
+---------------------------------------------------------------------------------------------------
+
+No standalone perks drafted, same reasoning as Breach Protocol above. This ladder's content — Quickhack
+duration +5% (x3 lines), Quickhack cooldowns -5% (x4 lines), Max RAM +1 (x3 lines) — reads as a clean set
+of candidate modifiers for `Core-Mechanics/Hacking_and_Traceability_System.md` (longer hack effect uptime,
+faster hack reuse) once that system's own revision pass happens; not converted into freestanding challenge
+perks here per Section 1's explicit instruction.
+
+FLAGGED: same Max RAM open question as Breach Protocol above — three separate "+1 RAM" lines in this
+ladder alone, underscoring how central RAM is to CP2077's hacking skills and how much this open question
+blocks a real conversion of either Intelligence-attribute skill.
+
+
+------------------------------------------------------------
+## 11. STEALTH → Sneak (Agility) — Section 3, direct match
+------------------------------------------------------------
+
+"Ghost Step" (placeholder, not developer-chosen) — from Stealth Lv4/15/19/8/14 (Visibility -10% x3, Movement speed +3%/+2%)
+  Diegetic: quieter servo tread and better use of cover/shadow while moving.
+  Effect (by rank): R1: -1 AP cost to move while Sneak-tagged (crouched/stealthed). R2: same, plus
+  detection radius from patrolling enemies is reduced while Sneak-tagged.
+  Ranks: 2
+  Unlock condition: remain undetected through X full stealth encounters/areas (10 / 30).
+  Note: "Visibility" folds naturally into a detection-radius mechanic since Inner Tepenia's stealth/
+  detection system isn't yet fully designed (per TODO.md's "Sneaking and line-of-sight" backlog item,
+  also flagged in the BG3 pass's Holo-Decoy note) — this perk should be revisited once that system exists
+  to make sure the mechanic language matches.
+
+"Evasive Instinct" (placeholder, not developer-chosen) — from Stealth Lv2/12/16 (Evasion +3% x3)
+  Diegetic: trained reflexive dodge — reading an attacker's telegraph a beat early.
+  Effect (by rank): R1: +5% chance to fully avoid an incoming attack while Sneak-tagged or within 1 turn
+  of breaking stealth. R2: +10% chance (total), extended to apply for 2 turns after breaking stealth.
+  Ranks: 2
+  Unlock condition: avoid/evade X incoming attacks while stealthed or immediately after breaking stealth
+  (20 / 60).
+  Note: "Evasion" as a stat doesn't currently exist as a named mechanic in Inner Tepenia's combat docs —
+  implemented here as a flat avoid-chance, similar in shape to Agility's existing partial-evasion role
+  in `Combat/Damage_Threshold_and_Damage_Resistance.md` Section 5's stat-modifier table (Agility already
+  gives "small chance to reduce incoming effective DT"), so this reads as a Sneak-specific extension of a
+  mechanic that already exists rather than a new one.
+
+"Silent Takedown Mastery" (placeholder, not developer-chosen) — from Stealth Lv9/11/6 (DPS +3%/+2%, Health regen out of combat +10%)
+  Diegetic: precision strike technique against an unaware target — a Sneak-trained kill is cleaner and
+  faster than a fair fight.
+  Effect (by rank): R1: +10% damage on the first attack made against a target that hasn't detected the
+  player. R2: +20% damage (total) on that same first attack, plus +10% out-of-combat HP regen rate.
+  Ranks: 2
+  Unlock condition: land X successful sneak attacks/undetected takedowns (25 / 75).
+  Note: bundles the two DPS lines with the stray out-of-combat regen line rather than spinning up a fourth,
+  thin Stealth perk for one reward line — keeps Stealth at 3 perks total, matching the 2-4 target range.
+
+
+-------------------------------------------------------------------------------------------------------
+## 12. COLD BLOOD → Nerve (MACHINE stat directly, not a skill) — Section 3 notes Cold Blood's whole
+## identity (stacking combat buff from recent kills) is closer to a Nerve-gated perk line than any single
+## skill; this batch converts only the automatic LEVEL-REWARD ladder (the passive bonuses below), not
+## CP2077's separate in-combat stacking mechanic itself, which isn't part of this source file.
+-------------------------------------------------------------------------------------------------------
+
+"Combat Nerve" (placeholder, not developer-chosen) — from Cold Blood Lv2/15/14/19/16 (Crit chance +10% x2, Crit damage +5% x2, Movement speed +3%)
+  Diegetic: trained composure under fire — Nerve holding steady enough that follow-up attacks land
+  cleaner and movement stays economical mid-fight.
+  Effect (by rank): R1: +5% crit chance for 2 turns after landing a kill. R2: +10% crit chance (total) and
+  +5% crit damage for 2 turns after landing a kill. R3: same, plus -1 AP cost on movement for those 2 turns.
+  Ranks: 3
+  Unlock condition: achieve X instances of landing 2+ kills within the same combat turn (10 / 30 / 75).
+  Note: reconstructs CP2077's original "kills-in-a-short-window" Cold Blood identity as the challenge
+  perk's own unlock condition (a lifetime count of chained-kill instances) rather than porting the
+  original in-combat stacking buff mechanic wholesale — the ladder's actual reward lines (flat combat
+  bonuses) are what's being converted here, gated on a thematically faithful trigger.
+
+"Battle-Hardened Plating" (placeholder, not developer-chosen) — from Cold Blood Lv3/18/8/12/6 (Armor +3%/+7%, All resistances +5% x2, Max health +10%)
+  Diegetic: a frame that's been through enough fights starts holding together better under fire, whether
+  from field patches, adapted plating, or simple wear-hardening.
+  Effect (by rank): R1: +5% DR, +5% max HP. R2: +12% DR (total), +5% max HP (total +10%), +5% DR against
+  all damage types.
+  Ranks: 2
+  Unlock condition: win X combat encounters without retreating (20 / 60).
+  Note: "Max stamina +10%" (Lv7) folded into the AP-cost-adjacent framing already established elsewhere
+  in this batch would have made this a 3-effect rank; left out of the final numbers to keep Rank 2 from
+  becoming a grab-bag — flagging as a candidate addition if a real balance pass wants a third effect per
+  rank instead of two.
+
+
+---------------------------------------------------------------------------------------------------
+## SUMMARY
+---------------------------------------------------------------------------------------------------
+
+10 of 12 skills drafted into standalone Challenge perks (Athletics, Annihilation, Street Brawler,
+Handguns, Assault, Blades, Engineering, Crafting, Stealth, Cold Blood) = 27 Challenge perk concepts,
+2-3 ranks each. Breach Protocol and Quickhacking (2 of 12) route entirely through the existing Hacking/
+Traceability system per Section 1 — no standalone perks drafted for those two, per the framework's own
+explicit instruction, with their reward-ladder content flagged instead as candidate modifiers for that
+system's own future revision pass.
+
+Open questions surfaced during this pass, none resolved here (all already flagged in the framework
+document itself, reiterated at point of use above):
+- RAM resource mapping (Breach Protocol, Quickhacking) — 5 total "+1 RAM"-style lines across both skills
+  blocked from conversion.
+- Item-rarity/crafting-quality-tier system (Crafting) — 4 "specs unlocked" lines parked.
+- Weapon-category granularity (Annihilation's Shotgun/LMG split, Handguns/Assault split, Engineering's
+  tech-weapon focus) — flagged per Section 6 as seed material for the separate weapon-system design task,
+  not fully resolved by folding everything onto the single existing Guns/Mechanical Weapons skills.
+
+		/// 1.63-era — Athletics/Street Brawler/Handguns/Assault/Blades Perk Trees ///
+
+		/// ATHLETICS + STREET BRAWLER + HANDGUNS + ASSAULT + BLADES → LEVEL-UP PERKS ///
+		/// Per Section 2's decision aid: all 71 source perks here are player-chosen tree picks, not ///
+		/// automatic skill-level rewards — so per Outcome 1, nearly everything below lands as a ///
+		/// level-up perk, not a challenge perk. The exceptions are explicitly flagged: material that's ///
+		/// fundamentally about a weapon category's mechanical identity (Pistol/Revolver, Assault ///
+		/// Rifle/SMG, Sniper/Precision Rifle, Katana) rather than a trained technique gets routed to ///
+		/// Section 6's weapon-system seed material instead, per the task brief. Requirements use MACHINE ///
+		/// stat abbreviations per Regular_Perks_-_Level-Up.md: M Might · A Agility · C Calculation · ///
+		/// H Humanity · I Investigation · N Nerve · E Engine. Skill names/governance per Skills.md and ///
+		/// the framework's Section 3 mapping table: Athletics(Might), Unarmed(Engine), Guns(Nerve), ///
+		/// Bladed Melee(Agility). Grouped tightly-related perks into 2-rank Inner Tepenia perks where ///
+		/// several CP2077 perks were clearly minor variants of one idea — same judgment call the BG3 ///
+		/// pass used for combining spell levels. ///
+
+
+-------------------- ATHLETICS (Might) --------------------
+
+"Overbuilt Frame" (placeholder, not developer-chosen) — from Invincible, Steel Shell, Indestructible
+  Diegetic: sustained physical conditioning routed into raw structural durability — denser internal
+  bracing and plating rather than speed or output.
+  Effect: Rank 1: +20 max HP (Invincible). Rank 2: additionally, +5 flat DT (Steel Shell) and a flat -10%
+  reduction to all incoming damage that bypasses the normal DT/DR formula (Indestructible, a hard floor
+  rather than a percentage stacked into DR).
+  Gate: Rank 1 — M 6, Athletics 40. Rank 2 — M 8, Athletics 65.
+  Note: overlaps thematically with the already-existing, Engine-gated Toughness/Life Giver ports in
+  `Regular_Perks_-_Level-Up.md` — this is deliberately the Might/Athletics-gated version of the same "tank"
+  space, for a physical-conditioning build rather than a raw-endurance one. Flag for a balance pass to make
+  sure the two don't end up redundant rather than complementary.
+
+"Combat Vitality" (placeholder, not developer-chosen) — from Regeneration, Wolverine, Dog of War, Cardio Cure
+  Diegetic: overclocked self-repair microsystems, opportunistically triggered by combat load and further
+  catalyzed by continued movement — the frame keeps patching itself while the fight (or the retreat) is
+  still happening.
+  Effect: Rank 1: regenerate a small flat amount of HP at the start of each of the player's turns while in
+  combat (Regeneration + Wolverine collapsed into one base regen rate). Rank 2: the regen rate increases
+  further, and the same regen continues outside combat on any turn the player character has moved
+  (Dog of War's bigger in-combat number and Cardio Cure's movement condition folded into one Rank 2).
+  Gate: Rank 1 — M 5, Athletics 35. Rank 2 — M 7, Athletics 60.
+  Note: open dependency flagged, not resolved here — `Permanent_MACHINE_Stat_Increases.md` already floats
+  a possible passive-HP-regen implant (a PHOENIX Monocyte Breeder equivalent) as an unresolved idea. If that
+  gets built, this perk and that system need to be reconciled (one subsumes the other, or they stack for
+  a reason) rather than shipped as two independent regen sources.
+
+"Immovable" (placeholder, not developer-chosen) — from The Rock
+  Diegetic: gyroscopic self-stabilization plus a deliberately trained mass-anchoring stance — built to
+  plant and hold ground under any impact.
+  Effect: cannot be knocked down or staggered by any attack or damage type during combat.
+  Gate: M 8, Athletics 55.
+  Note: near-duplicate of the already-existing **Stonewall** perk (`Regular_Perks_-_Level-Up.md`, M 6/E 6 —
+  "+5 DT against melee/unarmed; cannot be knocked down"). Flagging rather than shipping both as-is: either
+  merge them, or differentiate Immovable as the pure knockdown-immunity half for an Athletics-focused build
+  while Stonewall keeps its DT bonus for a more general Might/Engine tank build.
+
+"Steel and Chrome" — ROUTED, not drafted here. CP2077's version is explicitly Gorilla Arms-focused (a
+  cyberware melee weapon), which lands on Inner Tepenia's Unarmed(Engine) skill per Section 3's mapping
+  (Street Brawler → Unarmed), not Athletics(Might) — even though the source tree filed it under Athletics.
+  Folded into "Iron Fists" in the Street Brawler section below rather than double-drafted here.
+
+
+-------------------- STREET BRAWLER (Unarmed, Engine) --------------------
+
+"Iron Fists" (placeholder, not developer-chosen) — from Steel and Chrome (Athletics), Crushing Blows, Efficient Blows
+  Diegetic: reinforced knuckle plating and servo-amplified strikes — the frame's equivalent of Gorilla
+  Arms, built into baseline unarmed conditioning rather than a bolted-on cyberware limb.
+  Effect: Rank 1: +10% Unarmed damage (Steel and Chrome), and basic Unarmed attacks cost 1 less AP, minimum
+  3 AP (Efficient Blows, per Section 4's Stamina→AP mapping). Rank 2: Power Attacks (`Combat/Power_Attacks.md`)
+  made unarmed deal additional bonus damage on top of the existing Power Attack bonus (Crushing Blows).
+  Gate: Rank 1 — E 5, Unarmed 35. Rank 2 — E 7, Unarmed 60.
+  Note: Rank 2 hooks directly into the already-designed Power Attack system rather than inventing a
+  parallel "Strong Attack" mechanic — CP2077's Strong Attack input already maps cleanly onto Inner Tepenia's
+  existing Power Attack.
+
+"Momentum Strikes" (placeholder, not developer-chosen) — from Flurry, Frenzy, Guerilla
+  Diegetic: a fighting rhythm that escalates the longer a brawl runs — momentum and adrenaline analog
+  compounding with every landed or finishing blow.
+  Effect: Rank 1: consecutive Unarmed hits on the same target within one encounter build a small stacking
+  damage bonus, capped (Flurry). Rank 2: killing an enemy with an Unarmed attack grants a temporary damage
+  and critical-damage surge for a few turns (Frenzy + Guerilla folded together).
+  Gate: Rank 1 — E 5, Unarmed 35. Rank 2 — E 7, N 6, Unarmed 60.
+
+"Stunning Combination" (placeholder, not developer-chosen) — from Dazed, Opportune Strike, Thrash
+  Diegetic: precise strikes aimed at stabilizer joints and actuator clusters (robots) or nerve clusters
+  (humans/hybrids) — built to disorient before it's built to damage.
+  Effect: Rank 1: Unarmed attacks have a chance to Stagger the target (per the existing crit-status
+  vocabulary in `MACHINE_Stat_Influence_Map.md`/`Targeting_System.md`). Rank 2: bonus damage against
+  Staggered targets, and Unarmed Power Attacks additionally strip a small amount of the target's DT for the
+  remainder of the encounter (Thrash).
+  Gate: Rank 1 — E 6, Unarmed 45. Rank 2 — E 8, Unarmed 70.
+
+"Brawler's Second Wind" (placeholder, not developer-chosen) — from Rush, Unshakable, Payback
+  Diegetic: combat-linked self-repair triggered by landing solid hits — more so against a reeling target —
+  plus a defiance response that kicks in when the player character is running low.
+  Effect: Rank 1: Unarmed hits restore a small amount of HP; hitting a Staggered target restores more HP
+  and refunds 1 AP instead (Rush + Unshakable folded, "restore Stamina" mapped to AP per Section 4). Rank 2:
+  additionally, Unarmed damage output increases as the player character's own HP drops below 40%, capping
+  at a meaningful bonus near-death (Payback).
+  Gate: Rank 1 — E 6, Unarmed 45. Rank 2 — E 8, N 7, Unarmed 70.
+
+
+-------------------- HANDGUNS (Guns, Nerve) --------------------
+
+"Evasive Gunplay" (placeholder, not developer-chosen) — from Vanishing Point, Acrobat, Lead Sponge
+  Diegetic: integrated dodge-and-fire reflex conditioning — target tracking never breaks when the body is
+  moving out of the way.
+  Effect: dodging while a Gun is equipped no longer interrupts aiming or firing (Acrobat + Lead Sponge
+  folded — dodge and shoot in the same action), and a successful dodge grants a brief incoming-accuracy
+  penalty against the player character for the following turn (Vanishing Point).
+  Gate: A 6, N 6, Guns 45.
+  Note: written weapon-agnostic (applies to Guns generally) even though CP2077 scoped this to Pistol/
+  Revolver specifically, since Inner Tepenia's Guns skill doesn't split weapon categories yet — see the
+  weapon-system flag at the end of this section. If/when Guns splits into sub-categories, this is a natural
+  candidate to re-scope onto Pistols/Revolvers specifically (their dodge-friendly, one-handed identity).
+
+"Finishing Round" (placeholder, not developer-chosen) — from Grand Finale, O.K. Corral
+  Diegetic: trained to save the killing shot — either the last round in the magazine or the follow-up on
+  an already-reeling target.
+  Effect: Rank 1: the final round in a magazine deals bonus damage (Grand Finale). Rank 2: additionally,
+  damage against targets below 25% HP is boosted (O.K. Corral).
+  Gate: Rank 1 — N 6, Guns 45. Rank 2 — N 7, Guns 65.
+  Note: reads as the closing-damage half of an engagement-timing pair with Assault's "Opening Volley"
+  below — deliberately kept as two separate perks (one Handguns-leaning, one Assault-leaning) rather than
+  merged, since Guns is a single skill in Inner Tepenia and both should be independently reachable builds.
+
+"Marksman's Focus" (placeholder, not developer-chosen) — from Attritional Fire, Brainpower, The Good the Bad and the Ugly
+  Diegetic: sustained target-lock discipline — hitting the same target repeatedly, or landing a called
+  headshot, builds a short combat-focus window.
+  Effect: Rank 1: consecutive hits on the same target with a Gun stack a small damage bonus, capped
+  (Attritional Fire). Rank 2: a headshot or critical hit in NODE mode grants a temporary crit-chance,
+  damage, and armor buff for a few turns (Brainpower + The Good, the Bad, and the Ugly folded).
+  Gate: Rank 1 — N 6, Guns 45. Rank 2 — N 7, I 6, Guns 65.
+
+		/// WEAPON-SYSTEM SEED MATERIAL, not drafted as perks (Section 6) — remaining 11 of 19 Handgun ///
+		/// perks are flat, always-on numeric bonuses scoped explicitly to Pistol/Revolver as a weapon ///
+		/// category (Gunslinger, High Noon, Desperado, Rio Bravo, Long Shot Drop Pop, Steady Hand, From ///
+		/// Head to Toe, A Fistful of Eurodollars, Snowball Effect, Westworld, Wild West) rather than a ///
+		/// trained technique — none of them describe a choice or a behavior change, just "this weapon ///
+		/// category is +X% better." Read together they sketch a coherent identity for a future Pistols/ ///
+		/// Revolvers weapon category: fast reload and handling, strong innate headshot/crit lean, sharp ///
+		/// limb-damage bonuses, decent-not-great effective range (with dedicated perks to compensate for ///
+		/// it), and Revolvers specifically snowballing fire rate on consecutive kills. Filed here as input ///
+		/// to `TODO.md`'s "More weapons" backlog item, not converted to perks. ///
+
+
+-------------------- ASSAULT (Guns, Nerve) --------------------
+
+"Opening Volley" (placeholder, not developer-chosen) — from Executioner, Duck Hunter
+  Diegetic: trained to land the hardest hit before a target can react, take cover, or start moving
+  unpredictably — full-health and moving targets both.
+  Effect: Rank 1: +damage against targets at or above 50% HP (Executioner). Rank 2: additionally, +damage
+  against targets that moved on their last turn (Duck Hunter).
+  Gate: Rank 1 — N 6, Guns 45. Rank 2 — N 7, Guns 65.
+  Note: deliberately kept as the opening-damage mirror to Handguns' "Finishing Round" above — together they
+  read as two ends of an engagement-timing build axis (reward the first hit vs. reward the last), which is
+  fine per `Perk_Framework.md`'s own "no single optimal build" design rule rather than a problem to resolve.
+
+"Fire Discipline" (placeholder, not developer-chosen) — from Shoot Reload Repeat/Feel the Flow, Skull Skipper, Savage Stoic, Punisher
+  Diegetic: sustained-fire combat rhythm — reload speed, recoil control, and aim stability all improve the
+  longer an engagement with a Gun continues without breaking contact.
+  Effect: Rank 1: a kill with a Gun reduces the AP cost of the next reload for a few turns (Shoot Reload
+  Repeat/Feel the Flow — CP2077 lists this reward twice under two names; treated as one source here), and
+  landing a headshot briefly reduces recoil/spread, stacking a few times (Skull Skipper). Rank 2:
+  additionally, not moving on the player character's turn boosts Gun damage that turn (Savage Stoic), and a
+  kill removes weapon sway/spread penalties for the next several turns (Punisher).
+  Gate: Rank 1 — N 6, Guns 45. Rank 2 — N 8, Guns 70.
+  Note: bundles five separate small combat-rhythm bonuses into one two-rank "sustained engagement" perk
+  rather than five near-identical micro-perks, same grouping judgment call as the BG3 pass used for minor
+  spell-level variants.
+
+		/// PARKED — needs a system that doesn't exist yet (Outcome 4-adjacent, per Section 2's decision ///
+		/// aid item 4) — Covering Killshot, Hunter's Hands, Trench Warfare, and Bunker are all "bonus ///
+		/// while firing from cover," and Inner Tepenia currently has no environmental cover mechanic. The ///
+		/// closest existing system, Block Stance (`Combat/Block_Stance.md`), is a different shape — ///
+		/// spending the whole turn to Guard, not a passive bonus while still acting from behind terrain — ///
+		/// so it isn't a clean substitute without forcing a fit. Retained per the retention policy; ///
+		/// convertible once/if an environmental cover system gets designed, not before. ///
+
+		/// WEAPON-SYSTEM SEED MATERIAL, not drafted as perks (Section 6) — the remaining 8 of 19 Assault ///
+		/// perks (Bulletjock, Eagle Eye, Bullseye, Named Bullets, Recoil Wrangler, Long Shot, In ///
+		/// Perspective, Nerves of Steel) are flat numeric bonuses split across two emerging weapon ///
+		/// identities: Assault Rifles/SMGs (strong base damage, fast ADS, aim-focused damage bonus, ricochet ///
+		/// behavior on power rounds, damage that scales up with range rather than down) and Sniper/ ///
+		/// Precision Rifles (a dedicated headshot-damage multiplier, distinct enough from Guns' general ///
+		/// crit system to suggest Sniper/Precision Rifle deserves its own sub-identity once the weapon ///
+		/// system splits Guns into categories). Filed here alongside the Handguns seed material above. ///
+
+
+-------------------- BLADES (Bladed Melee, Agility) --------------------
+
+"Blade Dancer" (placeholder, not developer-chosen) — from Slow and Steady, Shifting Sands, Float Like A Butterfly
+  Diegetic: fluid evasive swordplay — footwork and blade work are the same motion, and dodging feeds
+  directly back into the next strike rather than just avoiding the last one.
+  Effect: Rank 1: gain a temporary DT bonus on any turn the player character moves with a Bladed Melee
+  weapon equipped (Slow and Steady), and a successful dodge refunds 1 AP (Shifting Sands, Stamina→AP per
+  Section 4). Rank 2: additionally, a turn spent dodging grants a temporary damage bonus on the player
+  character's next attack (Float Like A Butterfly).
+  Gate: Rank 1 — A 6, Bladed Melee 40. Rank 2 — A 8, Bladed Melee 65.
+
+"First Cut" (placeholder, not developer-chosen) — from Roaring Waters, Sting Like a Bee, Judge Jury and Executioner
+  Diegetic: an opening-strike doctrine — the first, fastest cut is trained to land hardest, before the
+  target can react or reposition.
+  Effect: Rank 1: Power Attacks (`Combat/Power_Attacks.md`) made with a Bladed Melee weapon deal additional
+  bonus damage (Roaring Waters, same "route into the existing Power Attack system" pattern as Iron Fists
+  above), and basic Bladed Melee attacks cost 1 less AP, minimum 3 AP (Sting Like a Bee, attack-speed→AP
+  per Section 4). Rank 2: the first hit landed on any given target each combat encounter deals a large
+  bonus (Judge, Jury and Executioner).
+  Gate: Rank 1 — A 6, Bladed Melee 40. Rank 2 — A 8, Bladed Melee 65.
+
+"Bleed Out" (placeholder, not developer-chosen) — from Crimson Dance, Bloodlust, Fiery Blast
+  Diegetic: precision cuts targeting seams, joints, and vascular points — opening a wound (a coolant leak,
+  for robot targets) that keeps draining, and a wielder trained to feed off it.
+  Effect: Rank 1: Bladed Melee attacks have a chance to inflict a Bleed-equivalent damage-over-time status
+  (Crimson Dance) — the first Bladed-Melee-specific application of the DoT category `Damage_Types.md`
+  already gestures at generally (line 162's "stun, armor degradation, DoT, movement penalties"), not a new
+  mechanic from scratch. Rank 2: while a target carries that DoT, the wielder regenerates a small amount of
+  HP on hit (Bloodlust), and damage against that target scales up the lower its remaining HP falls
+  (Fiery Blast).
+  Gate: Rank 1 — A 6, Bladed Melee 40. Rank 2 — A 8, Bladed Melee 65.
+  Note: flagging the DoT-status dependency explicitly since no dedicated Status_Effects doc exists yet to
+  define exact numbers/duration — this perk assumes that category gets fleshed out, doesn't invent it here.
+
+"Killing Momentum" (placeholder, not developer-chosen) — from Deathbolt, Dragon Strike
+  Diegetic: a post-kill adrenaline analog — cutting one target down cleanly primes the body/frame for the
+  next engagement.
+  Effect: Rank 1: a kill with a Bladed Melee weapon grants a brief HP and movement-speed bonus (Deathbolt).
+  Rank 2: additionally, critical hit damage with Bladed Melee weapons is permanently increased
+  (Dragon Strike).
+  Gate: Rank 1 — A 6, Bladed Melee 40. Rank 2 — A 8, N 6, Bladed Melee 65.
+
+		/// WEAPON-SYSTEM SEED MATERIAL, not drafted as perks (Section 6) — the remaining 2 of 13 Blades ///
+		/// perks (Blessed Blade, Flight of the Sparrow) are flat bonuses scoped explicitly to Katana as a ///
+		/// named weapon subtype: a flat crit-chance bonus and a large AP/Stamina-cost discount per swing. ///
+		/// Together they sketch Katana as a fast, precise, low-commitment-per-swing blade archetype — ///
+		/// distinct from a heavier Bladed Melee weapon that would trade per-swing cost for raw damage. ///
+		/// Filed here as input to the weapon-system backlog rather than converted to perks, same treatment ///
+		/// as the Handguns/Assault weapon-category material above. ///
+
+
+		/// NEXT UP — not yet drafted ///
+		/// This file covers only the assigned slice (Athletics, Street Brawler, Handguns, Assault, ///
+		/// Blades). Annihilation (Body, Shotgun/LMG-focused) is a separate assignment. Remaining 1.63 ///
+		/// perk-tree material (Engineering, Crafting, Breach Protocol, Quickhacking, Stealth, Cold Blood) ///
+		/// and all of the 2.0-era material (cp2077-2.0-perk-trees.txt, cp2077-2.0-skill-rank-bonuses.txt) ///
+		/// plus both skill-level-reward files are untouched — most of that material reads as Outcome 2 ///
+		/// (challenge perk) or Outcome 3 (existing-system modifier) per the framework's own decision aid, ///
+		/// a different drafting pattern than this batch's mostly-Outcome-1 material. ///
+
+		/// 1.63-era — Annihilation/Engineering/Crafting/Breach Protocol/Quickhacking/Stealth/Cold Blood Perk Trees ///
+
+/// All entries below are Level-Up Perks (Perk_Framework.md Tier 1) — every source item in this ///
+/// batch comes from a chosen perk tree, not an automatic skill-level reward, so per the ///
+/// framework's own decision aid (Section 2, #3) none of it lands as a Challenge perk. ///
+/// Gate format: MACHINE stat (M/A/C/H/I/N/E) 1-10 + skill threshold 1-100, per rank. ///
+/// 99 source entries total across the 7 assigned trees; every one is accounted for below, ///
+/// either as a drafted perk, an existing-system note, weapon-seed material, or a blocked/parked ///
+/// item — nothing silently dropped. ///
+
+
+---------------------------------------------------------------
+## MECHANICAL WEAPONS (Might) — from Annihilation + Engineering (Tech-weapon branch)
+---------------------------------------------------------------
+
+"Momentum Gunner" (placeholder, not developer-chosen) — from Skeet Shooter, Hit the Deck,
+Momentum Shift, Manic, Bloodrush, Speed Demon
+  Diegetic: servo-assisted heavy-weapon handling that reads the wielder's own motion as a
+  targeting and output variable — the weapon compensates for and rewards movement instead of
+  penalizing it.
+  Effect:
+    Rank 1 (Skeet Shooter + Hit the Deck): +15% Mechanical Weapon damage against moving or
+    Staggered targets (Targeting_System.md's Stagger status).
+    Rank 2 (Momentum Shift + Manic + Bloodrush): killing an enemy with, or entering combat
+    already wielding, a Mechanical Weapon grants +20% movement speed for 2 turns.
+    Rank 3 (Speed Demon): while that speed bonus is active, Mechanical Weapon damage scales with
+    the current movement-speed bonus — rewards the hit-and-run heavy-weapons loop Rank 2 sets up.
+  Gate: Rank 1: M 5, Mechanical Weapons 30. Rank 2: M 6, Mechanical Weapons 50. Rank 3: M 8,
+  Mechanical Weapons 75.
+  Note: six separate CP2077 flat modifiers collapsed into one 3-rank progression rather than six
+  generic +% perks, per Perk_Framework.md's explicit ban on "generic +5% damage" perks — the
+  ranks build a coherent mobile-heavy-weapons identity instead of just stacking numbers.
+
+"Suppressive Mass" (placeholder, not developer-chosen) — from Heavy Lead, Mongoose
+  Diegetic: the weapon's own recoil and mass become a weapon in themselves rather than just a
+  cost to manage.
+  Effect: Rank 1 (Heavy Lead): Mechanical Weapon hits apply Knockback (Damage_Types.md's
+  Force/Gravitic knockback note). Rank 2 (Mongoose): reloading a Mechanical Weapon grants +25%
+  Mitigation Chance until the reload completes.
+  Gate: Rank 1: M 6, Mechanical Weapons 40. Rank 2: M 7, Mechanical Weapons 60.
+  Note: Heavy Lead's knockback lines up directly with Damage_Types.md's existing Force/Gravitic
+  knockback note — closest thing to a genuine 1:1 conversion in the Annihilation batch.
+
+"Armor-Defeating Ordnance" (placeholder, not developer-chosen) — from Superconductor, Fuck All
+Walls
+  Diegetic: penetrator ammunition and directional charge-shaping, held over from Engineering's
+  Tech-weapon branch without needing the "charge to X% capacity" mechanic itself.
+  Effect: Rank 1 (Superconductor): Mechanical Weapon hits ignore a portion of target Armor.
+  Rank 2 (Fuck All Walls): Mechanical Weapons can fire through thin walls/cover at reduced
+  damage, striking targets who believe they're in full cover.
+  Gate: Rank 1: M 7, Mechanical Weapons 55. Rank 2: M 8, Mechanical Weapons 80.
+  Note: pulled out of Engineering's Tech-weapon cluster specifically because neither entry
+  actually depends on the charge mechanic to function — see the charge-dependent block below for
+  the remainder, which does.
+
+
+---------------------------------------------------------------
+## EXPLOSIVES (Nerve) — from Engineering (grenade branch)
+---------------------------------------------------------------
+
+"Blast Discipline" (placeholder, not developer-chosen) — from Can't Touch This, Sharpnel,
+Bigger Booms, Jackpot
+  Diegetic: field-tuned grenade handling — from "don't blow yourself up" fundamentals up to
+  reading an explosion's shockwave precisely enough to land it on a weak point.
+  Effect:
+    Rank 1 (Can't Touch This): immune to your own grenade/explosive area effects.
+    Rank 2 (Sharpnel + Bigger Booms): grenades deal significantly more damage (Formula: base
+    grenade damage + [Nerve x 8]%).
+    Rank 3 (Jackpot): grenades and other Explosives-skill area damage can trigger the standard
+    critical-hit system (Targeting_System.md's Calculation-chance / Nerve-severity model),
+    extending crits to area explosives for the first time.
+  Gate: Rank 1: N 5, Explosives 30. Rank 2: N 7, Explosives 55. Rank 3: N 9, Explosives 85.
+  Note: Rank 3 is a genuine system extension, not a disguised damage number — explosives don't
+  currently interact with the crit system at all, so this is the actual "new capability" the
+  framework's Section 1/2 logic asks for. Cross-reference: Crafting's Sapper (+20% grenade
+  damage) is the same underlying bonus as Sharpnel/Bigger Booms and is logged as a duplicate
+  under Crafting below rather than drafted twice.
+
+
+---------------------------------------------------------------
+## REPAIR (Investigation) — from Crafting + Engineering's Insulation
+---------------------------------------------------------------
+
+"Efficient Salvage" (placeholder, not developer-chosen) — from Mechanic, True Craftsman
+  Diegetic: practiced, methodical disassembly — knowing exactly which components are worth
+  pulling before the rest goes to scrap.
+  Effect: Rank 1 (Mechanic): disassembling items yields more components. Rank 2 (True
+  Craftsman): junk items in inventory automatically disassemble into components without a
+  manual action.
+  Gate: Rank 1: I 5, Repair 30. Rank 2: I 6, Repair 50.
+  Note: the only two Crafting-tree entries with no dependency on a rarity/quality-tier system —
+  see the Blocked list below for the other seven, which the framework's Section 4 crafting-tier
+  gap blocks outright.
+
+"Insulated Rig" (placeholder, not developer-chosen) — from Insulation
+  Diegetic: shielded internal wiring and grounded frame components — protective engineering
+  applied to the wearer's own systems.
+  Effect: immune to Shock damage (Damage_Types.md).
+  Gate: I 6, Repair 45.
+  Note: regated from Might/Mechanical Weapons (its Engineering-tree home) to Investigation/
+  Repair — Insulation is a protective-engineering trait, not a weapon-damage bonus, so Repair is
+  the closer conceptual fit than the rest of its Engineering siblings.
+
+
+---------------------------------------------------------------
+## HACKING (Calculation) — from Breach Protocol + Quickhacking
+---------------------------------------------------------------
+/// Per the framework's Section 1: this tree's core loop (access, cost, traceability) is already ///
+/// covered by Core-Mechanics/Hacking_and_Traceability_System.md. Only entries that add something ///
+/// genuinely new — a capability that doc doesn't cover at all — get drafted below. Everything ///
+/// that's purely a speed/cost/duration/cooldown modifier is logged as a one-line existing-system ///
+/// note instead, per the assignment's explicit instruction. ///
+
+"Network Subversion Suite" (placeholder, not developer-chosen) — from Big Sleep, Mass
+Vulnerability, Mass Vulnerability: Resistances, Mass Vulnerability: Quickhacks, Turret Tamer,
+Buffer Optimization
+  Diegetic: a jacked-in payload that doesn't just read or nudge a network's own systems — it
+  turns them against everyone else connected to it.
+  Effect:
+    Rank 1 (Big Sleep): a hacked network's cameras go dark for a duration.
+    Rank 2 (Mass Vulnerability + its two upgrade tiers): a hacked network's connected hostiles
+    suffer reduced Resistances (all types, not just Physical) and take increased damage from
+    further quickhacks, network-wide, for a duration.
+    Rank 3 (Turret Tamer): a hacked network's automated turrets are turned friendly for a
+    duration.
+  Gate: Rank 1: C 5, Hacking 40. Rank 2: C 7, Hacking 65. Rank 3: C 8, Hacking 85.
+  Note: Buffer Optimization (+100% daemon effect duration) isn't drafted as its own rank — it's
+  folded in as a duration scalar that grows with rank, since all three ranks are timed
+  network-wide effects sharing the same underlying "how long does this last" question. This is
+  the clearest Outcome-1 material in the whole Breach Protocol tree: genuinely new capabilities
+  (disable cameras, debuff a hostile network, flip turrets) that
+  Hacking_and_Traceability_System.md doesn't cover — that doc only governs access and
+  traceability, explicitly leaving "what you can do once inside" ("Specific hack actions... are
+  content and quest design territory") to content design, which is exactly what this fills.
+
+"Signal Overcharge" (placeholder, not developer-chosen) — from Bloodware, Subliminal Message,
+Critical Error
+  Diegetic: pushing a Signal Weapon payload past its safe delivery envelope — more damage, at
+  the cost of subtlety, unless the target never sees it coming.
+  Effect:
+    Rank 1 (Bloodware): +30% Signal Weapon/quickhack damage.
+    Rank 2 (Subliminal Message): that bonus is doubled again against targets who haven't
+    detected the player.
+    Rank 3 (Critical Error): quickhacks can trigger the standard critical-hit system (same
+    Calculation-chance / Nerve-severity model as Targeting_System.md), previously exclusive to
+    physical attacks.
+  Gate: Rank 1: C 5, Hacking 35. Rank 2: C 6, Hacking 55. Rank 3: C 8, Hacking 85.
+  Note: parallels Blast Discipline's Rank 3 above — both extend the existing crit system into a
+  category (explosives, hacks) that doesn't currently touch it. Open dependency: Signal Weapons
+  don't have concrete baseline damage numbers defined anywhere yet
+  (Hacking_and_Traceability_System.md flags AP cost/range/failure-state as still open) — this
+  perk assumes that baseline exists by the time it reaches real implementation.
+
+"Cascade Protocol" (placeholder, not developer-chosen) — from Plague, Mnemonic
+  Diegetic: a payload built to replicate across a local network segment rather than stay
+  contained to its first target.
+  Effect: Rank 1 (Plague): an offensive quickhack, on landing, jumps to up to 3 additional
+  nearby targets. Rank 2 (Mnemonic): the jump range doubles.
+  Gate: Rank 1: C 7, Hacking 60. Rank 2: C 8, Hacking 80.
+  Note: genuinely new — Inner Tepenia's hacking system has no "spreading hack" archetype at all
+  currently, so this isn't a modifier to anything that exists, it's a new hack behavior. Rank
+  order flipped from CP2077's own level gates (Mnemonic Lv12, Plague Lv14) because Mnemonic only
+  makes sense once the base spreading behavior (Plague) exists to extend.
+
+### Existing-System Modifiers (Outcome 3) — route to Hacking_and_Traceability_System.md, no new
+perk drafted, per the assignment's one-line-note instruction:
+- **Almost In!** (+20% Breach Protocol time) — access-speed modifier.
+- **Head Start** (auto-uploads the first daemon) — access-speed modifier.
+- **Compression** (-1 daemon sequence length) — access-ease modifier.
+- **Total Recall** (-1 RAM cost for quickhacks) — cost modifier; RAM folds into AP cost per
+  Section 4.
+- **Efficiency** (RAM recovery on multi-daemon Breach) — resource modifier; folds into AP per
+  Section 4.
+- **Cloud Cache** (RAM cost discount on next quickhack) — cost modifier; folds into AP per
+  Section 4.
+- **Hackathon** (-33% quickhack cooldowns) — cooldown modifier.
+- **Biosynergy** (RAM recovery in combat) — resource modifier; folds into AP per Section 4.
+- **Forget-me-not** (+1 RAM on eliminating a quickhacked target) — resource modifier; folds into
+  AP per Section 4.
+- **Daisy Chain** (-50% cooldown on other active quickhacks after a kill) — cooldown modifier.
+- **Diffusion** (-2 RAM cost on already-quickhacked enemies) — cost modifier; folds into AP per
+  Section 4.
+- **Optimization** (-1 RAM cost for quickhacks) — cost modifier; folds into AP per Section 4.
+- **Signal Support** (+50% quickhack duration) — duration modifier on hack effects that don't
+  otherwise exist as standalone perks in this batch; logged as a note rather than a rank of
+  anything specific.
+- **Anamnesis** (RAM floor of 4) — resource modifier; folds into AP per Section 4.
+- **Master RAM Liberator** (+50% RAM recovery rate) — resource modifier; folds into AP per
+  Section 4.
+
+### Blocked — Section 4 crafting-tier gap (no item-rarity/quality-tier system exists anywhere in
+Inner Tepenia yet):
+- **Hacker's Manual / School of Hard Hacks / Hacker Overlord / Bartmoss' Legacy** (Quickhacking)
+  — unlock crafting specs at Uncommon/Rare/Epic/Legendary tiers respectively. Logged, not
+  converted, per Section 4's explicit instruction not to force-convert crafting-tier-unlock
+  perks.
+- **Scrapper / Grease Monkey / Edgerunner Artisan** (Crafting) — same rarity-tier gap, unlocking
+  Rare/Epic/Legendary crafting respectively.
+- **Tune-Up** (Crafting) — upgrading component quality tiers; same gap, most directly (it's
+  about tiers themselves).
+- **Field Technician / Cutting Edge** (Crafting) — bonuses specifically to "crafted" weapons as
+  a distinct category from found/looted ones; blocked pending the same underlying question,
+  slightly broader than just the rarity-tier gap (whether Inner Tepenia distinguishes
+  crafted-vs-found weapons at all).
+- **Sapper** (Crafting) — duplicate of Blast Discipline's Sharpnel/Bigger Booms grenade-damage
+  bonus above; not drafted separately.
+
+### Charge-mechanic-dependent — parked, Section 6 weapon-seed material (Engineering's Tech-weapon
+branch):
+- **Up to 11, Tesla, Übercharge, Gun Whisperer, Lickety Split, Revamp** — all depend on CP2077's
+  Tech-weapon "charge to X% capacity" mechanic, which has no Inner Tepenia analogue anywhere in
+  the combat docs. Parked as potential input to a future charged-shot subsystem for the
+  Mechanical Weapons category (per Section 6's own framing), not converted here.
+
+
+---------------------------------------------------------------
+## Weapon-System Seed Material (Section 6) — Annihilation's flat Shotgun modifiers
+---------------------------------------------------------------
+/// Per the assignment's explicit instruction: "Annihilation (Shotgun/LMG-specific) perks are ///
+/// largely weapon-system seed material, not perk material — note explicitly where that applies." ///
+
+- **Hail of Bullets, Pump It Louder!, In Your Face, Dead Center, Bulldozer, Massacre,
+  Biathlete** — flat Shotgun-specific %-modifiers (damage, recoil, reload speed, torso damage,
+  crit chance, crit damage, spread-while-moving). Logged as input to a future Shotgun
+  weapon-category design (Section 6's Handguns/Assault/Blades/Annihilation seed-material note),
+  not drafted as perks — converting seven flat +%-to-one-weapon-type perks would also violate
+  Perk_Framework.md's "no generic +5% damage perks" rule on top of the Section 6 concern.
+- **Poppin' Off, Unstoppable, Bloodbath** — depend on a dismemberment mechanic that doesn't exist
+  anywhere in Inner Tepenia's combat docs (confirmed via search of `Game-Mechanics/Combat/`).
+  Doubly blocked: weapon-specific (Section 6) AND missing the underlying mechanic entirely
+  (Section 2 Outcome 4). Parked for both reasons — genuinely strong candidates if Inner Tepenia
+  ever adds a dismemberment system, since the core idea (escalating combat tempo tied to visceral
+  kills) is sound.
+
+
+---------------------------------------------------------------
+## SNEAK (Agility) — from Stealth ("Ninjutsu" tree)
+---------------------------------------------------------------
+
+"Ghost Step" (placeholder, not developer-chosen) — from Crouching Tiger, Ghost
+  Diegetic: quieted actuators and a practiced economy of motion — moving like the environment
+  isn't listening.
+  Effect: Rank 1 (Crouching Tiger): +20% movement speed while sneaking. Rank 2 (Ghost): the
+  detection window before an enemy spots the sneaking player extends by 40%.
+  Gate: Rank 1: A 5, Sneak 30. Rank 2: A 7, Sneak 60.
+  Note: cleanest 1:1 conversion in the Stealth batch — both numbers carry over almost untouched,
+  same category of clean port as the BG3 pilot batch's own Reactive Plating Pulse.
+
+"First Strike Protocol" (placeholder, not developer-chosen) — from Strike from the Shadows,
+Assassin, From the Shadows, Cutthroat
+  Diegetic: threat assessment run in the instant before a target even registers the player is
+  there — Inner Tepenia's targeting math (Targeting_System.md) applied at its sharpest.
+  Effect:
+    Rank 1 (Strike from the Shadows + Assassin): while undetected, +7% Crit Chance and +15%
+    damage against human/organic targets specifically.
+    Rank 2 (From the Shadows): that Crit Chance bonus persists for the first 2 turns of combat
+    even after being spotted — rewards an aggressive opener over pure hiding.
+    Rank 3 (Cutthroat): a critical hit against an undetected human/organic target made with a
+    Bladed Melee weapon deals additional critical damage — a dedicated finishing-blow bonus.
+  Gate: Rank 1: A 6, Sneak 45. Rank 2: A 7, Sneak 65. Rank 3: A 8, N 6, Sneak 85.
+  Note: Assassin's "+15% damage to humans" carries over as-is — Inner Tepenia already
+  distinguishes human/organic targets from robot targets elsewhere (Damage_Types.md, MACHINE
+  stat scaling), so the category this perk hooks into already exists.
+
+"Opening Shot" (placeholder, not developer-chosen) — from Sniper
+  Diegetic: the first shot of an engagement, lined up before the target even knows it's an
+  engagement.
+  Effect: the first ranged attack fired from an undetected position, before combat begins, deals
+  +20% headshot damage.
+  Gate: A 6, N 6, Sneak 50.
+  Note: a Sneak/Guns crossover perk — same cross-skill logic Section 3 already uses for CP2077's
+  own Headhunter role skill (Guns + Sneak, split). Governing skill left as Sneak since the
+  trigger condition (undetected) is what gates it, not the weapon skill.
+
+"Fade Out" (placeholder, not developer-chosen) — from Hasty Retreat
+  Diegetic: a burst of emergency mobility the instant cover is blown, rather than a fight
+  response.
+  Effect: being detected while sneaking grants +50% movement speed for 2 turns — enough to break
+  line of sight and re-enter stealth.
+  Gate: A 6, Sneak 40.
+  Note: pure QoL/escape perk, no combat number attached — pairs naturally with Ghost Step above
+  but kept as a separate perk since it triggers on the opposite condition (being spotted, not
+  staying hidden).
+
+### Weapon-System Seed Material (Section 6) — knife-specific:
+- **Dagger Dealer, Venomous Fangs, Looking Sharp, Juggler, Toxicology** — all specifically about
+  a thrown-knife weapon subtype (unlock throwing, apply Poison, blind on a non-kill headshot,
+  ammo-return on kill/crit, extended poison duration on bosses). Belongs to a future Bladed
+  Melee/thrown-weapons category design, not the Sneak skill itself — logged as seed material
+  alongside Annihilation's Shotgun material above, not drafted as Sneak perks.
+
+### Parked — insufficient source detail:
+- **Leg Up** ("optional takedown enhancement") — the archived build-guide source doesn't specify
+  what the enhancement actually does. Too vague to convert without inventing content the source
+  never described. Flagged for a follow-up check against gamestegy.com's other archived 1.63
+  build guides (per the source file's own closing note) rather than converted or dropped.
+
+### Routed elsewhere:
+- **Cheat Death** — moved to the Nerve/Cold Blood section below; see "Last Ditch Countermeasure."
+
+
+---------------------------------------------------------------
+## NERVE — perk/trait line, not a single skill (from Cold Blood)
+---------------------------------------------------------------
+/// Per Section 3: "Cold Blood's whole identity (stacking combat buff from recent kills) is ///
+/// closer to a Nerve-gated perk/trait line than any single skill." Distinct from Neural ///
+/// Overclock's Berserk mode (also Might/combat-buff-flavored) — Combat Ice below is a passive, ///
+/// kill-triggered stacking buff, not an activated burst mode, so it doesn't fall under Section ///
+/// 1's Sandevistan/Berserk/Overclock carve-out and gets its own mechanic rather than folding in. ///
+
+"Combat Ice" (placeholder, not developer-chosen) — from Cold Blood, Collagulant
+  Diegetic: a Nerve-linked combat-cooling response — the system gets colder and steadier with
+  every kill instead of more agitated.
+  Effect: each kill grants a stacking buff (max 3 stacks baseline): +10% movement speed per
+  stack. Stacks decay individually on their own timer rather than all at once (Collagulant), so
+  a fresh kill mid-decay doesn't reset the clock on earlier stacks.
+  Gate: N 5.
+  Note: foundational perk for the whole Cold Blood conversion — every perk below assumes Combat
+  Ice is active/stacking. Low gate (stat only, no skill threshold) mirrors the original tree's
+  own Lv1 placement as its entry point.
+
+"Kill-Chain Composure" (placeholder, not developer-chosen) — from Will to Survive, Blood Brawl,
+Defensive Clotting, Predator, Frozen Precision, Pain is an Illusion, Coldest Blood, Critical
+Condition, Cold and Calculating, Merciless
+  Diegetic: the same cooling response deepening with practice — composure under fire becoming a
+  trained reflex rather than an adrenaline accident.
+  Effect:
+    Rank 1 (Will to Survive + Blood Brawl + Defensive Clotting): each Combat Ice stack grants
+    +3% Resistances, +10% melee damage, and +8% Armor.
+    Rank 2 (Predator + Frozen Precision + Pain is an Illusion): each stack additionally grants
+    +30% attack speed and +5% headshot damage, and -5% damage taken while any stacks are active.
+    Rank 3 (Coldest Blood + Critical Condition + Cold and Calculating + Merciless): +2 max
+    stacks (5 total), +50% stack duration, critical hits grant an extra stack on top of kills,
+    and +5% Crit Chance / +25% Crit Damage while active.
+  Gate: Rank 1: N 6. Rank 2: N 7, Level 14. Rank 3: N 9, Level 20.
+  Note: ten separate CP2077 perks collapsed into 3 ranks — the single largest consolidation in
+  this whole batch, justified because the source tree is genuinely one mechanic (stack count /
+  duration / what-each-stack-grants) escalating across ten small entries rather than ten
+  distinct ideas. Rank 3's "crits grant a stack" creates a self-sustaining loop at full
+  investment — a distinct closing hook, not just another flat bump on Ranks 1-2.
+
+"Iron Calm" (placeholder, not developer-chosen) — from Immunity
+  Diegetic: full status-hardening once the cooling response is fully engaged.
+  Effect: immune to Bleed, Poison, Burn, and Shock status effects while Combat Ice has at least
+  1 active stack.
+  Gate: N 7, Level 18.
+  Note: direct port, no reinterpretation needed — status-immunity-while-buffed is already how
+  Inner Tepenia's other trait/perk immunities are structured elsewhere in the file.
+
+"Last Ditch Countermeasure" (placeholder, not developer-chosen) — from Cheat Death (Stealth
+tree), Bloodswell (Cold Blood tree)
+  Diegetic: an emergency subsystem override the instant the frame reads imminent core failure.
+  Effect: Rank 1 (Cheat Death): while below 50% HP, incoming damage is reduced by 50% for 2
+  turns. Rank 2 (Bloodswell): once per combat encounter (cooldown-gated), a killing blow is
+  prevented outright and the player instead gains 1 turn of full damage immunity.
+  Gate: Rank 1: N 6. Rank 2: N 9, Level 20.
+  Note: CP2077 independently put a near-death safety net in two different trees — Cheat Death in
+  Stealth, Bloodswell in Cold Blood. Rather than draft two overlapping "prevent death" perks
+  under two different skills, they're combined into one progression here, filed under Nerve/Cold
+  Blood since Bloodswell's version is the more significant capstone effect and both trees map to
+  the same Cool attribute in CP2077 anyway.
+
+
+---------------------------------------------------------------
+## Coverage Check
+---------------------------------------------------------------
+Annihilation (18) = Momentum Gunner (6) + Suppressive Mass (2) + Shotgun weapon-seed (7) +
+  dismemberment-blocked (3).
+Engineering (13) = Blast Discipline (4) + Armor-Defeating Ordnance (2) + Insulated Rig (1) +
+  charge-dependent parked (6).
+Crafting (9) = Efficient Salvage (2) + crafting-tier/crafted-weapon blocked (7).
+Breach Protocol (13) = Network Subversion Suite (6) + existing-system notes (7).
+Quickhacking (17) = Signal Overcharge (3) + Cascade Protocol (2) + crafting-tier blocked (4) +
+  existing-system notes (8).
+Stealth (15) = Ghost Step (2) + First Strike Protocol (4) + Opening Shot (1) + Fade Out (1) +
+  knife weapon-seed (5) + parked/vague (1) + routed to Cold Blood (1).
+Cold Blood (14) = Combat Ice (2) + Kill-Chain Composure (10) + Iron Calm (1) + Last Ditch
+  Countermeasure (1, this tree's half — Cheat Death's half counted under Stealth).
+Total source entries covered: 18+13+9+13+17+15+14 = 99. All accounted for.
+
+		/// 2.0-era — 5 Role Skills, Automatic Rank Bonuses ///
+
+        /// ROLE SKILLS → CHALLENGE PERKS (Category A, Perk_Framework.md convention: 2-3 ranks, ///
+        /// unlock condition = a trackable cumulative action). Per the assignment brief, each skill's ///
+        /// unlock condition is keyed to that skill's OWN in-fiction leveling method (Solo = heavy-melee/ ///
+        /// shotgun kills, Netrunner = hacking-adjacent actions, Headhunter = headshots, Shinobi = combat ///
+        /// dodges/dashes, Engineer = crafting/smart-weapon/throwable use) rather than to the reward being ///
+        /// granted. Section 3 skill-mapping used throughout: Solo→Athletics+Guns, Netrunner→Hacking ///
+        /// (Calculation), Headhunter→Guns+Sneak, Shinobi→Acrobatics(Agility)+Bladed Melee, Engineer→ ///
+        /// Repair(Investigation)+Mechanical Weapons. ///
+
+
+---------------------------------------------------------------
+SOLO  (Athletics + Guns/Might-melee split, per Section 3)
+---------------------------------------------------------------
+
+"Overburden Frame" (placeholder, not developer-chosen) — from Solo Ranks 5/10/25/30
+  Diegetic: repeated heavy-melee and shotgun engagements condition the frame's servos and structural
+  padding to carry more mass and absorb more punishment without complaint.
+  Effect:
+    Rank 1 — Carrying capacity +50; Max HP +10.
+    Rank 2 — Carrying capacity +100 (cumulative, total +150); Max HP +15 (cumulative, total +25).
+  Unlock condition:
+    Rank 1 — Land 25 heavy-melee (fists/clubs) or shotgun kills.
+    Rank 2 — Land 100 heavy-melee or shotgun kills.
+  Ranks: 2
+  Note: folds CP2077's two separate sub-ladders (carrying capacity, health) into one Athletics-gated
+  survivability perk since both scale on the exact same Rank 5/10 → 25/30 cadence in the source. Per
+  Section 2's note on "+1 perk point" rewards, Rank 15 and Rank 35 (+1 perk point each) are dropped
+  entirely here — neither rank line bundles a numeric half worth salvaging on its own.
+
+"Close-Quarters Reckoning" (placeholder, not developer-chosen) — from Solo Ranks 20/40/45/50
+  Diegetic: sustained unarmed and melee brawling teaches the frame to chain strikes faster and read
+  exactly where an opponent's structural integrity is about to give.
+  Effect:
+    Rank 1 — Unarmed/melee attacks +20% damage and +20% attack speed; unarmed strikes may inflict
+    Bleeding. +10% crit chance against enemies within melee range (~5m).
+    Rank 2 — Adds: Strong/Heavy and Quick melee attacks deal +25% damage; landing a takedown or
+    finishing blow restores 25% of max HP.
+  Unlock condition:
+    Rank 1 — Land 50 unarmed or melee kills.
+    Rank 2 — Land 200 unarmed or melee kills.
+  Ranks: 2
+  Note: Rank 55 (Adrenaline Rush decays 50% more slowly, floor 10%) and Rank 60 (Berserk: +30% Finisher
+  health threshold, +50% health from finishers, +30% Berserk duration) are deliberately NOT converted
+  here — both modify/extend the Berserk mode, already adapted as Neural Overclock Mode 2
+  (`Core-Mechanics/Neural_Overclock.md`, Might-focused — matches Solo's own Might-melee identity
+  cleanly). Per Section 1, evaluate those two rank lines as candidate additions to Berserk mode's
+  existing effect/drawback list instead of drafting a new perk.
+
+
+---------------------------------------------------------------
+NETRUNNER  (Hacking/Calculation, per Section 3 — routes almost entirely through Section 1)
+---------------------------------------------------------------
+
+No new Challenge Perks drafted for Netrunner. Unlike the other four role skills, every rank line on this
+ladder resolves to Outcome 3 (existing-system modifier — Neural_Overclock.md or Hacking_and_
+Traceability_System.md), Outcome 4 (drop/park), or the open RAM question flagged in Section 4 — none of
+it clears the bar for a standalone perk. This is the exact case the assignment brief calls out explicitly
+in its Section 1 note. Line-by-line disposition instead of a perk write-up:
+
+  Ranks 5/25 (RAM recovery rate +5%, cumulative to +10%) and Ranks 10/30 (RAM +1, cumulative to +2) —
+  OPEN QUESTION, Section 4. RAM has no Inner Tepenia equivalent yet (folds into AP + Hacking/
+  Traceability, or becomes its own dedicated resource — undecided). Do not convert until that decision
+  is made; flagging here rather than inventing a resource unprompted.
+
+  Ranks 15/35 (+1 perk point each) — DROP, Section 2 note. Inner Tepenia's perk-point cadence is fixed
+  (every 2 levels); neither rank line bundles a non-perk-point numeric half worth salvaging.
+
+  Rank 20 (+20% lock-on range with smart weapons) — PARKED, Sections 5 and 6. Depends on CP2077's
+  "Smart Weapon" homing-projectile tech category, which Inner Tepenia's weapon system doesn't define yet
+  (Section 5's explicit Smart Weapon flag). Also useful as weapon-system seed material (Section 6) for
+  whoever eventually designs a guided-weapon category — not lost, just not a perk today.
+
+  Rank 40 (-20% RAM cost for quickhacks on devices/vehicles) — EXISTING-SYSTEM MODIFIER CANDIDATE for
+  `Hacking_and_Traceability_System.md` (a cost or traceability reduction specifically on device/vehicle
+  hack targets), but the literal "RAM cost" framing hits the same open question as above. Reframe as an
+  AP-cost or trace-signature modifier once RAM is resolved, rather than converting the number directly.
+
+  Rank 45 (+15% duration for Control/Covert quickhacks; +5% damage with Combat quickhacks) —
+  EXISTING-SYSTEM MODIFIER CANDIDATE for `Hacking_and_Traceability_System.md`. That document doesn't yet
+  subtype hacks into Control/Covert/Combat categories the way CP2077's Quickhacking does — this rank
+  line is better read as seed material for that future subdivision than as a standalone perk.
+
+  Ranks 50/55/60 (+40% Overclock duration; -10% health loss from quickhacks during Overclock; active
+  Overclock reveals enemies within 10m and allows quickhacking through cover) — EXISTING-SYSTEM
+  MODIFIER, Section 1. All three directly extend Overclock, already adapted as Neural Overclock Mode 3
+  (Calculation-focused — matches Netrunner's own governing skill exactly). Route as candidate additions
+  to Mode 3's effect/drawback list in `Core-Mechanics/Neural_Overclock.md`, not new perks.
+
+
+---------------------------------------------------------------
+HEADHUNTER  (Guns + Sneak split, per Section 3)
+---------------------------------------------------------------
+
+"Ghost Profile" (placeholder, not developer-chosen) — from Headhunter Ranks 5/25/40/50/55
+  Diegetic: extended time spent stalking a target before the kill trains the frame's gait and
+  signature-dampening routines to stay quiet even through the takedown itself.
+  Effect:
+    Rank 1 — Visibility to enemies -10%; crouch-walking and crouch-sprinting +30% faster.
+    Rank 2 — Visibility to enemies -20% (cumulative); grapple/melee takedowns no longer break Sneak's
+    undetected status; any damage bonus from being undetected persists 3 seconds after entering combat.
+  Unlock condition:
+    Rank 1 — Land 15 undetected/stealth kills.
+    Rank 2 — Land 60 undetected/stealth kills.
+  Ranks: 2
+  Note: Rank 40's source line named CP2077's "Optical Camo" cyberware specifically. Per Section 5's
+  retention policy the branded tech name is dropped, but the underlying "a takedown doesn't blow your
+  stealth state" behavior is kept and generalized onto Inner Tepenia's own Sneak mechanics.
+
+"Weak-Point Specialist" (placeholder, not developer-chosen) — from Headhunter Ranks 10/30/20/45
+  Diegetic: thousands of aimed shots at a target's structural weak points train the hands to hold dead
+  still under fire and recover instantly between throws.
+  Effect:
+    Rank 1 — Headshot damage +10%, damage vs. marked vulnerabilities +10%; no weapon sway while
+    crouched.
+    Rank 2 — Headshot/vulnerability damage bonus increases to +25% total (cumulative); recovery time
+    after throwing a weapon or grenade is reduced 30%.
+  Unlock condition:
+    Rank 1 — Land 25 headshots.
+    Rank 2 — Land 100 headshots.
+  Ranks: 2
+  Note: cleanest of the five role skills to convert — no existing-system overlap, no open resource
+  question, effects and unlock condition both map onto Guns almost untouched.
+
+  Rank 60 (+15% Optical Camo charge when neutralizing an enemy via Focus Mode, Deadeye Mode, or a
+  thrown weapon) — NOT converted into either perk above. Per Section 1's explicit callout, "anything
+  under Deadeye/Focus that reads as an Overclock-adjacent burst mode" routes toward Neural Overclock
+  rather than becoming a standalone perk — but none of Neural Overclock's three current modes
+  (Framejack/Berserk/Overclock) precisely matches CP2077's Focus Mode or Deadeye Mode (an aimed,
+  perception-slowed headshot state). Flagging as a developer decision point: either fold an aim-slow
+  burst into Framejack's effect list, or treat Focus/Deadeye as out of scope entirely. Also depends on
+  the CP2077-branded "Optical Camo" resource, dropped per Section 5.
+
+  Ranks 15/35 (+1 perk point each) — DROP, Section 2 note. Same treatment as every other role skill.
+
+
+---------------------------------------------------------------
+SHINOBI  (Acrobatics/Agility + Bladed Melee split, per Section 3)
+---------------------------------------------------------------
+
+"Fluid Reflexes" (placeholder, not developer-chosen) — from Shinobi Ranks 5/25/10/30/20/40
+  Diegetic: repeated combat dashes and dodges retune the frame's balance and reaction routines until
+  movement itself becomes a form of defense.
+  Effect:
+    Rank 1 — Movement speed +5%; dodge/dash AP cost -5%; a brief accuracy bonus on the first action
+    taken immediately after a dodge or dash.
+    Rank 2 — Movement speed +10% (cumulative); dodge/dash AP cost -10% (cumulative); mitigation/evasion
+    chance scales up the faster the character is currently moving.
+  Unlock condition:
+    Rank 1 — Perform 40 combat dodges/dashes.
+    Rank 2 — Perform 150 combat dodges/dashes.
+  Ranks: 2
+  Note: per Section 4, CP2077's Stamina-cost reduction (Ranks 10/30) folds directly into an AP-cost
+  reduction here — same precedent the framework already sets for Stamina generally.
+
+"Blade Momentum" (placeholder, not developer-chosen) — from Shinobi Ranks 45/50
+  Diegetic: a katana drawn fast enough to cut in the same motion as a dodge becomes as much a reload
+  cycle as an attack.
+  Effect:
+    Rank 1 — Fast/quick Bladed Melee attacks deal +25 bonus damage.
+    Rank 2 — Chaining a dodge or slide directly into a weapon-ready action partially reloads the
+    currently equipped ranged weapon (20% of its magazine).
+  Unlock condition:
+    Rank 1 — Land 60 Bladed Melee kills.
+    Rank 2 — Land 200 Bladed Melee kills.
+  Ranks: 2
+  Note: Rank 2's "dash reloads ammo" isn't blade-specific in the source (it's a general movement-tech
+  quirk), but it's kept here as the flavorful Acrobatics/Bladed-Melee crossover moment for Shinobi
+  specifically, since Shinobi is the one role skill that spans exactly those two Inner Tepenia skills.
+
+  Ranks 55/60 (low Stamina no longer penalizes ranged accuracy/melee speed while airborne or "while
+  time is slowed"; while Sandevistan is active: +40% crit chance, no Stamina cost for any movement) —
+  EXISTING-SYSTEM MODIFIER, Section 1. Both explicitly describe or name Sandevistan's slowed-time
+  state, already adapted as Neural Overclock Mode 1 (Framejack, Agility-focused — matches Shinobi's own
+  Acrobatics/Agility mapping cleanly). Route as candidate additions to Framejack's effect list in
+  `Core-Mechanics/Neural_Overclock.md`, not new perks. Per Section 4's Stamina-to-AP mapping, "no
+  Stamina cost for movement" would become "movement actions cost 0 AP while Framejack is active" if
+  adopted.
+
+  Ranks 15/35 (+1 perk point each) — DROP, Section 2 note. Same treatment as every other role skill.
+
+
+---------------------------------------------------------------
+ENGINEER  (Repair/Investigation + Mechanical Weapons split, per Section 3)
+---------------------------------------------------------------
+
+"Reinforced Plating" (placeholder, not developer-chosen) — from Engineer Ranks 5/25/45
+  Diegetic: field-repair habits — patching armor plating and stims between fights — leave the
+  engineer's own kit measurably better maintained than everyone else's.
+  Effect:
+    Rank 1 — Armor +15.
+    Rank 2 — Armor +25 (cumulative, total +40).
+    Rank 3 — Health item effectiveness +15%.
+  Unlock condition:
+    Rank 1 — Craft or repair 15 items.
+    Rank 2 — Craft or repair 50 items.
+    Rank 3 — Craft or repair 100 items.
+  Ranks: 3
+  Note: unlock condition is keyed to crafting/repair counts per the source ladder's own header note
+  that Engineer "levels... fastest via crafting" — matching the assignment's instruction to key each
+  unlock condition to that role skill's own in-fiction leveling method.
+
+"Ordnance Specialist" (placeholder, not developer-chosen) — from Engineer Rank 20
+  Diegetic: an engineer who has rebuilt enough grenade fuses by hand learns exactly how far a charge
+  can be pushed before it goes unstable.
+  Effect:
+    Rank 1 — Grenade/thrown-explosive damage and radius +10%.
+    Rank 2 — Grenade/thrown-explosive damage and radius +20% (cumulative).
+  Unlock condition:
+    Rank 1 — Throw 20 grenades/explosives.
+    Rank 2 — Throw 75 grenades/explosives.
+  Ranks: 2
+  Note: the source ladder gives only one explosive-radius data point (Rank 20, with no Rank 40-ish
+  cumulative twin the way most other Engineer bonuses have). Rank 2 above is extrapolated to satisfy
+  Perk_Framework.md's 2-3-rank Category A convention, not lifted from a second CP2077 rank line —
+  flagging that distinction since every other perk in this file draws both ranks from real source lines.
+  Explosives (Nerve) rather than Mechanical Weapons per Section 3's cross-cutting note: use the specific
+  perk's own effect, not the source skill as a whole, to pick the governing Inner Tepenia skill.
+
+"Voltaic Rig" (placeholder, not developer-chosen) — from Engineer Ranks 40/55
+  Diegetic: a charged tech-weapon shot held a beat too long arcs to whatever's standing nearby.
+  Effect:
+    Rank 1 — Charged/held attacks with Mechanical (tech/arc-type) Weapons have an increased chance to
+    inflict a Shock status.
+    Rank 2 — Shock procs from Mechanical Weapons have a chance to arc to one nearby enemy, applying a
+    lesser version of the same status.
+  Unlock condition:
+    Rank 1 — Land 30 charged Mechanical-Weapon hits.
+    Rank 2 — Land 100 charged Mechanical-Weapon hits.
+  Ranks: 2
+  Note: Rank 55's source line named CP2077's "Bolt Shots" and "Chain Lightning" abilities specifically.
+  Per Section 5, those proper nouns are dropped (parked as cross-project material, not ported by name),
+  while the underlying "charged shock weapon whose procs can chain to a second target" mechanic is kept
+  and generalized into the effect above.
+
+  Ranks 10/30/50 (Cyberware capacity +5, cumulative to +15; +30% for all Cyberware stat modifiers) —
+  OPEN QUESTION, Section 4. Blocked on the unresolved "does cyberware capacity even apply to a robot
+  protagonist" question — Inner Tepenia's player character has a frame/body, not a human-plus-implants
+  duality. Not converted; all three rank lines wait on that developer decision together.
+
+  Rank 60 (while Fury is active, may cause an EMP blast) — NOT routed to Neural Overclock. "Fury" is
+  CP2077's Technical Ability-tree mode, part of the cyberware branch that the framework's own source
+  list (`cp2077-2.0-perk-trees.txt`'s STATUS note) already flags as an unresolved gap — it is not one of
+  the three modes (Sandevistan/Berserk/Overclock) actually adapted as Neural Overclock, so silently
+  filing it under Mode 3 would overstate what's actually been decided. Flagged alongside the Technical
+  Ability/cyberware-branch gap for a developer decision, not converted here.
+
+  Ranks 15/35 (+1 perk point each) — DROP, Section 2 note. Same treatment as every other role skill.
+
+		/// 2.0-era — Body/Reflexes Perk Trees ///
+
+MACHINE stat abbreviations (matches Regular_Perks_-_Level-Up.md convention): M Might · A Agility
+· C Calculation · H Humanity · I Investigation · N Nerve · E Engine
+
+Section-1 note before the list: per the methodology doc, any perk that reads as extending a
+Neural Overclock "mode" ability gets checked against Core-Mechanics/Neural_Overclock.md instead
+of drafted freestanding. Four entries below (2 Body, 2 Reflexes) landed there — Adrenaline
+Rush's chain against Berserk mode, and the Bullet Time/Air Kerenzikov pair against Framejack
+mode — each marked explicitly. Everything else in this tree read as a genuine combat-technique
+perk, not a mode ability, matching the assignment brief's expectation for Section 1's Body/
+Reflexes material.
+
+--------------------------------------------------------------------------------
+BODY
+--------------------------------------------------------------------------------
+
+"Adrenal Buffer" (placeholder, not developer-chosen) — from Painkiller, Comeback Kid, Dorph-Head,
+Speed Junkie, Army of One
+  Diegetic: a combat-triggered subroutine reroutes spare power and coolant into self-repair
+  nanoweave the instant the frame takes damage — no manual activation.
+  Effect: Rank 1 (Gate: E 4) — unlocks passive Health Regen in combat with no activation delay;
+  regen rate scales up the lower current Health is (Comeback Kid). Rank 2 (Gate: E 6, Athletics
+  40) — regen rate additionally scales with nearby hostile count (Army of One) and while
+  sprinting or repositioning (Speed Junkie). Rank 3 (Gate: E 8, Athletics 60) — using a repair
+  kit or stim in combat grants a brief window of bonus Mitigation Chance (Dorph-Head).
+  Note: Engine is Inner Tepenia's recovery-speed/AP-replenishment stat (see feedback_engine_stat
+  memory) — a clean 1:1 governing-stat match for a health-regen tree, better than forcing this
+  onto Nerve or Might.
+
+"Redline" (placeholder, not developer-chosen) — from DIE! DIE! DIE!, Bullet Ballet, Don't Stop
+me Now
+  Diegetic: overtaxed servo and cooling systems trade precision for raw output once the frame's
+  exertion reserves run low.
+  Effect: Rank 1 (Gate: M 5, Mechanical Weapons 35) — below roughly a third of the encounter's AP
+  reserve, gain reduced recoil and a Mitigation Chance/Strength bump. Rank 2 (Gate: M 7,
+  Mechanical Weapons 50) — fire rate/attack speed increases the lower reserves get, maxing out
+  near empty. Rank 3 (Gate: M 9, Mechanical Weapons 65) — reduced bullet spread while moving.
+  Note: source chain is explicitly Shotgun/LMG-flavored (CP2077's Annihilation skill). Generalized
+  here to any ranged Mechanical Weapon use so it isn't locked to a weapon category Inner Tepenia
+  hasn't built yet — the strict Shotgun/LMG numbers (movement-speed immunity, the fire-rate curve)
+  are better weapon-system seed material per Section 6 once that category exists.
+
+"Momentum Breaker" (placeholder, not developer-chosen) — from Wrecking Ball, Breakthrough,
+Kinetic Absorption, Fly Swatter, Clapback
+  Diegetic: a frame-reinforcement subroutine turns a well-timed block into a load-bearing
+  counter-strike.
+  Effect: Rank 1 (Gate: M 5) — reduced AP cost for melee blocks; a Strong Attack that connects
+  strips the target's armor rating for several turns (Breakthrough). Rank 2 (Gate: M 7) — a
+  successful block restores AP and grants a brief melee damage bonus (Kinetic Absorption);
+  blocking with a melee weapon substantially reduces incoming ranged damage (Fly Swatter).
+  Rank 3 (Gate: M 9, Unarmed 60 OR Mechanical Weapons 60) — Defensive-attack blocks guarantee
+  Knockdown (cooldown-limited); Counterattacks guarantee Stun.
+  Note: generalized off CP2077's Blunt-Weapon-only lock so it works with any melee approach —
+  unarmed frame or melee weapon — instead of requiring a not-yet-designed Blunt Weapons category.
+  The strict Blunt-Weapon flavor is flagged as weapon-system seed material.
+
+"Ground Slam" (placeholder, not developer-chosen) — from Quake, Epicenter, Aftershock, Ripple
+Effect, Finisher: Savage Sling
+  Diegetic: the robot frame's own mass and servo strength, delivered straight into the ground or
+  into an enemy's center of mass.
+  Effect: Rank 1 (Gate: M 6) — unlocks an AP-cost active ability: slam the ground, damaging and
+  staggering all adjacent enemies with a chance of Knockdown. Rank 2 (Gate: M 8, Athletics 50) —
+  using Ground Slam immediately after a leap or fall scales its damage/radius with the drop
+  (Epicenter); hitting enemies with it refunds AP (Aftershock). Rank 3 (Gate: M 10, Athletics
+  70) — unlocks a melee finisher on a critically wounded enemy: grab and throw them into others,
+  killing the target and damaging anyone struck on landing, restores Health.
+  Note: original tree is Blunt-Weapon-locked (the "press Q to slam" ability plus its Finisher);
+  reframed as an unarmed/frame-based ability so a robot body without a bludgeon can still use it
+  — keeps the signature "ground pound" identity while sidestepping the undesigned weapon-category
+  question. Ripple Effect's Health-per-enemy-hit clause folded into the general kit rather than
+  spun into its own rank.
+
+"Breaking Point" (placeholder, not developer-chosen) — from Spontaneous Obliteration, Skullcracker,
+Rush of Blood, Dread, Close-Quarters Carnage
+  Diegetic: with structural integrity failing, combat protocols shift to maximum-lethality mode —
+  hit harder while there's less left to lose.
+  Effect: Rank 1 (Gate: M 6, N 5) — melee/quick-attack damage scales up as the player's own
+  Health drops, peaking near-death (Skullcracker); critically wounded enemies within melee range
+  have a chance to be instantly incapacitated (Obliterate, reframed — see Note). Rank 2 (Gate: M
+  8) — incapacitation chance increases the closer the target is (Rush of Blood); ranged attacks
+  additionally strip enemy armor for several turns (Dread). Rank 3 (Gate: M 9, N 7) —
+  incapacitating an enemy in melee grants a reload/recovery-speed bonus for several turns
+  (Close-Quarters Carnage).
+  Note: CP2077's underlying mechanic is dismemberment-flavored gore, and Inner Tepenia has no
+  confirmed dismemberment/gore system anywhere in Game-Mechanics/. Reframed as a straightforward
+  "incapacitate/instant-kill critically wounded enemies" execute mechanic instead — keeps the
+  risk/reward "hurt but lethal" identity without requiring a system that doesn't exist yet. If a
+  dismemberment system ever gets designed, this is the natural perk to revisit and re-flavor.
+
+"Neural Overclock — Berserk Mode: Unbroken Momentum" (placeholder, not developer-chosen) — from
+Adrenaline Rush (L1/L2), Unstoppable Force, Juggernaut, Calm Mind
+  Outcome 3, not a freestanding perk — see Section 1. Adrenaline Rush is itself a near-death
+  "mode" ability (auto-triggers on low Health, buffs damage/speed, grants status immunity),
+  functionally overlapping Neural Overclock's existing Berserk mode (Might-focused rage/tank
+  mode, same "can't die below X% HP" / health-drain-cost shape). Routed as an extension to
+  Berserk rather than a new mode, per the framework's explicit instruction to check "mode"
+  abilities against Neural_Overclock.md first.
+  Diegetic: pushes Berserk mode's override past its normal ceiling — the frame stops registering
+  anything that isn't a threat.
+  Effect: Rank 1 (Gate: M 7) — raises Berserk mode's Max-Health-while-active bonus; while Berserk
+  is active, immune to non-damaging status effects (Knockdown, Blind, etc.) — folds in
+  Unstoppable Force. Rank 2 (Gate: M 9) — while Berserk is active, gain bonus Movement Speed and
+  bonus damage (Juggernaut); Berserk's drawback-decay timer gets a longer grace window before
+  Neural Strain penalties begin ramping (Calm Mind).
+  Note: implemented as a perk per Neural_Overclock.md's own integration note ("New perks for each
+  mode belong in the existing Perks folder structure") — the mode itself isn't new, this is how
+  the mode grows. Cross-reference Core-Mechanics/Neural_Overclock.md, Mode 2 — Berserk.
+
+"Neural Overclock — Berserk Mode: Kill Surge" (placeholder, not developer-chosen) — from
+Bloodlust, Pain to Gain
+  Outcome 3, same routing as above.
+  Diegetic: neutralizing a target while Berserk's override loop is running feeds straight back
+  into it.
+  Effect: (Gate: M 8, req. rank 1 of Unbroken Momentum) — while Berserk is active, neutralizing a
+  nearby enemy in melee reduces Neural Strain buildup for several turns and grants a burst of
+  Health Item/repair-kit recharge.
+  Note: Bloodlust and Pain to Gain both hinge on "kill while the mode is active" — merged into a
+  single effect rather than two ranks, since they were never meaningfully sequential in the
+  source (both req. the same L3 unlock, Adrenaline Rush/Bloodlust just adds a second prereq).
+
+Flagged, not drafted (Body): Fury Road — vehicle-collision damage swap, no Inner Tepenia vehicle-
+combat system confirmed; parked per the methodology's Section 5 vehicle-combat flag. Rip and Tear
+and Onslaught — both hard-locked to specific not-yet-designed weapon categories (Shotgun+Quick-
+Melee combo, LMG ammo refill) with no generalizable core left once the weapon lock is removed;
+pure Section 6 weapon-system seed material.
+
+--------------------------------------------------------------------------------
+REFLEXES
+--------------------------------------------------------------------------------
+
+"Kinetic Reflex" (placeholder, not developer-chosen) — from Slippery, Muscle Memory, Multitasker,
+Power Slide, Parkour!
+  Diegetic: a threat-prediction subroutine reads incoming fire patterns off the player's own
+  velocity.
+  Effect: Rank 1 (Gate: A 5) — faster movement (sprinting, dashing, dodging, sliding, vaulting)
+  increases Mitigation Chance. Rank 2 (Gate: A 7, Acrobatics 40) — reload and attack while
+  sprinting, sliding, or vaulting without the normal AP penalty. Rank 3 (Gate: A 9, Acrobatics
+  60) — increased slide distance and vault/climb speed, useful in both combat repositioning and
+  exploration.
+  Note: clean generalist port — nothing in this particular chain was weapon-locked in the source.
+
+"Dash Protocol" (placeholder, not developer-chosen) — from Dash, Steady Grip, Can't Touch This,
+Mean Streak, Mad Dash
+  Diegetic: a hard-burn servo burst — short, explosive repositioning, distinct from Framejack's
+  sustained "extra turn" feel.
+  Effect: Rank 1 (Gate: A 5) — unlocks Dash: a low-AP-cost short-range burst movement, cost
+  dropping further with more invested Agility. Rank 2 (Gate: A 7) — aim and attack while Dashing;
+  bonus Mitigation Chance while Dashing. Rank 3 (Gate: A 9, Acrobatics 55) — extended Dash range
+  when targeting an enemy directly; neutralizing an enemy immediately after a Dash refunds AP.
+  Note: double-checked against Core-Mechanics/Neural_Overclock.md per Section 1. Framejack (the
+  Sandevistan-equivalent mode) is a sustained multi-turn "extra actions" state with its own Strain
+  economy and drawback; Dash here is a single-instance burst maneuver with a flat AP cost, no
+  Strain interaction. Judged distinct enough to stand as its own perk rather than folding into
+  Framejack — but both are Agility-rooted burst-movement effects, so flagging the adjacency
+  explicitly for a developer gut-check on whether they read as different enough at the table.
+
+"Neural Overclock — Framejack Mode: Deflection Window" (placeholder, not developer-chosen) —
+from Bullet Deflect, Bullet Time
+  Outcome 3, not a freestanding perk. Bullet Time's own source text ("when time is slowed") is
+  explicitly describing Sandevistan's active state in CP2077 — i.e., directly Framejack-adjacent,
+  the clearest Section-1 catch in this whole batch.
+  Diegetic: with Framejack's perception window open, incoming projectiles read as slow enough to
+  redirect.
+  Effect: (Gate: A 7, req. Framejack unlocked) — while Framejack is active, blocking/parrying an
+  incoming ranged attack with a melee weapon costs no AP and deflects it back toward the original
+  attacker (or the player's current target); well-timed deflects auto-crit.
+  Note: cross-reference Core-Mechanics/Neural_Overclock.md, Mode 1 — Framejack. Bullet Deflect's
+  own base numbers (deflect above 33% Stamina) are absorbed into "while Framejack is active"
+  rather than a separate always-on stamina gate, since Inner Tepenia folded Stamina into AP per
+  the methodology's Section 4 resource mapping.
+
+"Neural Overclock — Framejack Mode: Suspended Frame" (placeholder, not developer-chosen) — from
+Air Kerenzikov
+  Outcome 3, same routing. Kerenzikov is CP2077's own Reflex-boost cyberware family (the "trigger
+  a brief slow-mo on a defensive action" ability); "Air Kerenzikov" is explicitly a Sandevistan-
+  adjacent aerial extension, matching Section 1's own example phrase almost verbatim ("Air
+  Kerenzikov, anything under Deadeye/Focus that reads as an Overclock-adjacent burst mode").
+  Diegetic: activating Framejack mid-leap locks the frame's inertial dampers, hanging the player
+  in the acceleration window instead of falling through it.
+  Effect: (Gate: A 8, E 6) — activating Framejack while airborne suspends the player briefly and
+  extends the mode's active duration; enables aimed actions mid-air that would otherwise be
+  unavailable.
+  Note: cross-reference Core-Mechanics/Neural_Overclock.md, Mode 1 — Framejack.
+
+"Air Control" (placeholder, not developer-chosen) — from Air Dash, Aerodynamic, Aerial Acrobat
+  Diegetic: independent from Framejack — a dedicated set of midair stabilization thrusters and
+  servo tuning, always available rather than mode-gated.
+  Effect: Rank 1 (Gate: A 6) — unlocks a midair Dash. Rank 2 (Gate: A 8) — bonus Mitigation
+  Strength while airborne. Rank 3 (Gate: A 9, Acrobatics 65) — improved midair maneuverability:
+  redirect trajectory mid-fall, reduced fall damage.
+  Note: kept separate from both Dash Protocol and the two Framejack extensions above — this is
+  Air-Dash-family in the source (child of Dash, not of Kerenzikov), so it stays a standalone
+  always-on perk rather than folding into either the Dash chain or the mode-gated Framejack
+  entries, even though all three touch "midair."
+
+"Marksman's Rhythm" (placeholder, not developer-chosen) — from Sharpshooter, Practice Makes
+Perfect, Shoot to Chill, Spray and Pray, Gundancer, Salt in the Wound
+  Diegetic: a targeting-assist subroutine that tightens its lock the longer a fight against the
+  same target runs.
+  Effect: Rank 1 (Gate: N 5, Guns 35) — successful ranged hits grant a stacking buff that reduces
+  the AP cost of the player's next shot, per stack, up to several stacks. Rank 2 (Gate: N 7, Guns
+  55) — stacks also grant bonus Crit Chance and Crit Damage; unaimed (hip-fire) shooting costs
+  less AP. Rank 3 (Gate: N 9, Guns 75) — aiming no longer slows movement and shooting is possible
+  while vaulting; landing 7 consecutive hits on the same target deals a bonus-damage payoff equal
+  to a portion of the total damage already dealt to them this fight.
+  Note: generalized off Assault-Rifle-specific flavor to Guns broadly. Salt in the Wound folded
+  into Rank 3 as a capstone clause instead of becoming a 4th standalone perk — its trigger
+  condition (consecutive hits on one target) is a natural payoff for a stacking-buff perk that's
+  already tracking per-target engagement.
+
+"Steady Hands" (placeholder, not developer-chosen) — from Ready, Rested, Reloaded, Tunnel Vision,
+Spice of Life, Mind Over Matter
+  Diegetic: a dedicated stabilization/reload-assist routine — baseline control, not the momentum-
+  based stacking Marksman's Rhythm builds toward.
+  Effect: Rank 1 (Gate: N 5) — reduced recoil while aiming; faster reload above a resource
+  threshold. Rank 2 (Gate: N 7, Guns 45) — increased effective range and accuracy. Rank 3 (Gate:
+  N 9, Guns 65) — faster weapon-swap speed with reduced spread briefly after swapping.
+  Note: source chain is Assault-Rifle/SMG-specific (CP2077's Assault skill); generalized to Guns
+  broadly. Overlaps thematically with Marksman's Rhythm — flagging that a future pass may want to
+  merge these into one deeper perk rather than two adjacent ones; kept separate here per the
+  assignment's own instruction to preserve breadth rather than force everything into one perk.
+
+"Finisher: Clean Break" (placeholder, not developer-chosen) — from Finisher: Bladerunner, Flash
+of Steel, Opportunist, Going the Distance
+  Diegetic: a decisive, practiced strike against a target that's already failing — not blade-
+  specific, works with whatever's in hand or built into the frame.
+  Effect: Rank 1 (Gate: A 6) — unlocks a melee finisher usable on critically wounded enemies,
+  restores Health on use. Rank 2 (Gate: A 8) — Staggered/Stunned/debuffed enemies are more
+  susceptible (lower Health threshold to trigger); finisher usable from greater range. Rank 3
+  (Gate: A 9, Bladed Melee 60 OR Unarmed 60) — landing a finisher grants a burst of movement/
+  attack speed for several turns.
+  Note: generalized off Blade-lock so unarmed frames qualify too. Slaughterhouse's bleed/
+  dismemberment-spread clause dropped along with the dismemberment system it depends on — same
+  reasoning as Breaking Point's Note on the Body side, flagged rather than force-fit.
+
+Flagged, not drafted (Reflexes): Stuntjock — vehicle exit stunts plus driving-specific bullet-
+spread reduction; parked per the same Section 5 vehicle-combat flag as Fury Road. Lead and
+Steel/Seeing Double's core parry numbers — Blade-specific Stamina cost and counter-damage; the
+general "block/counter" mechanic is already covered in spirit by Momentum Breaker on the Body
+side, so the strict Blade-only flavor here is weapon-system seed material rather than a second
+near-duplicate perk. Submachine Fun — SMG-swap specific, pure Section 6 seed material with no
+generalizable residue once the weapon lock is removed.
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+15 named Inner Tepenia perks total (7 Body, 8 Reflexes), 4 of which are Outcome-3 Neural Overclock
+mode extensions rather than freestanding perks (2 Berserk-side, 2 Framejack-side) — the correct
+home per Section 1 rather than duplicating the existing system. 11 are genuine new Outcome-1
+level-up perks. 6 source sub-branches were flagged as pure weapon-system seed material (Section
+6) with no perk drafted: Fury Road, Rip and Tear, Onslaught, Stuntjock, Lead and Steel/Seeing
+Double's Blade-specific numbers, and Submachine Fun. Two source mechanics (Obliterate/dismember-
+ment and Slaughterhouse's bleed-spread) were reframed away from CP2077's gore system, which has
+no Inner Tepenia equivalent, toward a plain incapacitate/execute mechanic instead of being
+dropped outright.
+
+
+		/// 2.0-era — Technical Ability (Grenades/Health-Items) + Intelligence Perk Trees ///
+
+/// GENERAL TRIAGE NOTE, BOTH BRANCHES ///
+/// Per the Basis of Translation Section 1, the Intelligence tree is almost entirely quickhack/RAM/ ///
+/// Overclock-adjacent — running each of its 38 perks through the Section 2 decision aid, nearly all ///
+/// of them stop at Outcome 3 (existing-system modifier) before ever reaching Outcome 1. Only the ///
+/// Technical Ability branch below produces genuine new level-up perk drafts; Intelligence produces ///
+/// grouped pointer notes instead, per the developer's own explicit instruction not to draft a ///
+/// parallel mechanic where one already exists (or is already an open question, per Section 4). ///
+
+
+---------------------------------------------------------------------
+TECHNICAL ABILITY — Grenades/Health-Items Branch (Outcome 1: level-up perks)
+---------------------------------------------------------------------
+
+/// Section 4 check: no RAM-equivalent issue here (per the framework's own note), and nothing in this ///
+/// branch reads as cyberware-capacity-flavored — it's all consumable-item recharge economy, which ///
+/// maps cleanly onto Inner Tepenia's existing Medicine (health items) / Explosives (grenades) skills. ///
+/// Grouped from 14 source perks into 4 ranked Inner Tepenia perks, chain-order preserved. ///
+
+"Field Triage Cycling" (placeholder, not developer-chosen) — from Glutton for War (health-item half) + First Aid + Transfusion + Health Freak (health-item half) + Field Medic + Borrowed Time
+  Diegetic: a combat-medic reflex loop — stripping usable charge off a downed hostile's own med-stock
+  and running your own health items through a faster diagnostic-and-dispense cycle under fire.
+  Effect (by rank): R1: neutralizing an enemy instantly restores a small fraction of your health item's
+  spent charge; +15% recharge speed once only 1 charge remains. R2: +30% Health from your health item's
+  final charge; using a health item costs less time/AP mid-combat. R3: +1 max health item charge; if
+  you drop below 25% Health with zero charges remaining, neutralizing an enemy grants one emergency full
+  recharge (once per encounter).
+  Gate: I 4 / 6 / 8, Medicine 20 / 45 / 70.
+  Ranks: 3.
+  Note: lands on Medicine per Skills.md's own framing ("treats both human injury/illness and robot
+  vital-system instability under one clinical skill") — a clean landing spot since Inner Tepenia's
+  player character is a robot and CP2077's "Health Item" is diegetically closer to a field repair kit
+  than a human stimpack here.
+
+"Ordnance Cycling" (placeholder, not developer-chosen) — from Glutton for War (grenade half) + Coming in Hot + Demolition Surplus + Pyromania L1
+  Diegetic: field demolitions discipline — scavenging usable ordnance components off neutralized
+  hostiles and pre-rigging your own charges for faster deployment.
+  Effect (by rank): R1: neutralizing an enemy instantly restores a small fraction of a spent grenade
+  charge; +50% grenade recharge speed whenever you have none available. R2: +1 max grenade charge;
+  much faster grenade recharge outside combat. R3: +8% grenade damage, seeding the Incendiary Rig
+  branch below.
+  Gate: N 4 / 6 / 8, Explosives 20 / 45 / 70.
+  Ranks: 3.
+  Note: shares its root (Glutton for War) with Field Triage Cycling above — the source perk split into
+  a health half and a grenade half at the very first tier, which is why both Inner Tepenia perks quote
+  it as a shared ancestor rather than duplicating it.
+
+"Incendiary Rig" (placeholder, not developer-chosen) — from Pyromania L2 + Incendiary + Chain Reaction + Shrapnel
+  Diegetic: a dedicated thermite/accelerant loadout for your grenades, tuned to spread and to punish
+  already-compromised targets.
+  Effect (by rank): R1: grenades apply a Burning DoT to enemies caught in the blast. R2: grenade
+  explosions also apply Burning to any enemy directly hit (not just those in the blast radius). R3:
+  grenades detonate on contact with an already-Burning enemy (chain-reaction triggering); +20% grenade
+  damage vs. Bleeding/Poisoned targets.
+  Gate: requires Ordnance Cycling R3. N 7 / 8 / 9, Explosives 55 / 70 / 85.
+  Ranks: 3.
+
+"Heavy Ordnance Specialist" (placeholder, not developer-chosen) — from Explosive Personality
+  Diegetic: capstone demolitions training — bigger charges, wider blast discipline, and a
+  shoulder-mounted launcher rig for sustained area denial.
+  Effect: +8% grenade damage, +20% blast radius; unlocks a heavier grenade-launcher-style thrown/fired
+  area-attack option (higher AP cost, larger radius, longer cooldown than a standard grenade throw).
+  Gate: requires Incendiary Rig R3. N 9, Explosives 90.
+  Note: the source capstone also includes "Finisher: Detonate" (a low-health grenade execute that
+  restores Health). Not drafted here — Inner Tepenia currently has no base "Finisher"/execute mechanic
+  for any weapon category to hook a grenade-specific version onto (checked: no hits in Perk_Framework.md,
+  Regular_Perks_-_Level-Up.md, or Combat/Power_Attacks.md). This is a newly-identified open question,
+  distinct from but structurally similar to Section 4's RAM/cyberware-capacity/crafting-tier gaps —
+  flagging rather than inventing a standalone Finisher system unprompted. If a general execute mechanic
+  gets designed later, this capstone is the natural place to attach a grenade-flavored version.
+
+
+---------------------------------------------------------------------
+INTELLIGENCE — Overclock-Mode-Adjacent (Outcome 3: addition to Neural_Overclock.md)
+---------------------------------------------------------------------
+
+Per the Basis of Translation Section 1 and the explicit instruction for this batch, these six do not
+get full drafts — one-line notes only, pointing to `Core-Mechanics/Neural_Overclock.md`'s Mode 3
+(Overclock, Calculation-focused ability/hack-spam mode) as the actual landing spot.
+
+- **Overclock** (the mode-unlock perk itself) — this is effectively Neural Overclock's Mode 3 origin
+  perk already; candidate addition: the tiered RAM-recovery/quickhack-damage ramp (L1/L2) as
+  Calculation-scaling bonuses feeding Mode 3, L3's mode-unlock folded into Mode 3's own acquisition.
+- **Sublimation** — candidate addition: while Mode 3 is active, Neural Strain recovery effects also
+  regenerate Health (mirrors the existing Berserk mode's health-linkage flavor, ported to Overclock).
+- **Race against Mind** — candidate addition: Mode 3 quickhack/ability damage scales up as Health drops,
+  a risk/reward lever consistent with the system's "Drawbacks — Non-Negotiable Design Constraint" ethos.
+- **Power Surge** — candidate addition: activating Mode 3 grants an instant Health return scaled to
+  Max Calculation-linked resource, an on-activation payoff distinct from the existing per-turn effects.
+- **Spillover** — candidate addition: while Mode 3 is active, a chance for quickhack-equivalent effects
+  to jump to a second target — Legend-tier, high-investment payoff.
+- **Smart Synergy** — candidate addition: while Mode 3 is active, ranged weapon attacks against
+  ability-affected enemies gain instant lock-on/bonus damage — cross-links to the Smart Weapon cluster
+  below, itself parked (see that section for why this specific synergy can't be drafted yet either).
+
+
+---------------------------------------------------------------------
+INTELLIGENCE — Hacking/Traceability-Loop-Adjacent (Outcome 3: addition to Hacking_and_Traceability_System.md)
+---------------------------------------------------------------------
+
+23 of the 38 source perks land here. Grouped into 4 named clusters rather than 38 (or even 23)
+individual entries, per the instruction to aim for a coherent, manageable set. None of these get full
+Diegetic/Effect/Gate blocks — per the framework's explicit instruction, these are notes flagging
+candidate additions to the existing access/traceability loop, not parallel-mechanic drafts. Two of the
+four clusters are also blocked on Section 4's open RAM-mapping question specifically (called out below).
+
+"Grid Sense" (placeholder cluster name) — from Eye in the Sky + Forcekill Cypher
+  Covers: auto-highlighting nearby hackable targets (Access Points/cameras) and shortening the
+  access sequence/check needed to breach one.
+  Candidate addition: an early Hacking-tree perk that auto-reveals `Hackable Target Types` within
+  normal scan range and shaves a step off the access check for Level 1-2 systems specifically.
+  Doesn't require the RAM-mapping question to be resolved first — this cluster is about discovery and
+  access speed, not resource cost, so it's the most immediately actionable of the four.
+
+"Cache Throughput" (placeholder cluster name) — from Optimization + Proximate Propagation + Hack Queue
+  + Data Recycler + Feedback Loop + Queue-Acceleration + Queue Prioritization + Queue Hack_Root +
+  Queue Mastery
+  Covers: every RAM-recovery-rate and hack-queueing (multiple simultaneous hacks per target) perk in
+  the source tree — the single largest sub-cluster.
+  Candidate addition: **blocked on Section 4's open question.** No RAM-equivalent resource currently
+  exists in `Hacking_and_Traceability_System.md` — that doc's own AP-cost/OR-gate structure has no
+  analogous "recovery rate" or "queue depth" concept to attach these to yet. Per Section 4, this is
+  explicitly a developer decision point, not something to resolve unilaterally here: either (a) these
+  fold into AP-cost-per-hack-action modifiers (per the Stamina-to-AP precedent), or (b) Inner Tepenia's
+  hacking system grows a dedicated resource pool after all, in which case this whole cluster becomes
+  its natural first wave of perks. Parking as a labeled block, not discarding.
+
+"Trace Countermeasures" (placeholder cluster name) — from Encryption + Shadowrunner + Counter-a-hack
+  + Copy-Paste
+  Covers: flat traceability reduction, trace-progress removal after a takedown, and
+  counter-hacking/redirecting an enemy netrunner's own attack.
+  Candidate addition: this is the most direct fit of the four — `Hacking_and_Traceability_System.md`
+  already has a full "Traceability Reduction — Progression" table (Data Ghost / Ghost in the Machine
+  perks at C 7+/Hacking 55-90+). This cluster's perks would slot in as earlier/cheaper rungs on that
+  same ladder (percentage trace reduction before Data Ghost's threshold, rather than a competing track),
+  plus a genuinely new element neither existing perk covers: an active counter-hack option against an
+  enemy netrunner mid-encounter, which the current doc doesn't address at all (it covers the player
+  hacking the world, not being hacked back).
+
+"Quickhack Combat Synergy" (placeholder cluster name) — from Warning: Explosion Hazard + Subordination
+  + Embedded Exploit + Icepick + Siphon + System Overwhelm + Speculation + Blood Daemon
+  Covers: bonus damage/resource refunds tied to enemies currently affected by a combat-flavored
+  quickhack (CP2077's Control/Covert/Distract categories).
+  Candidate addition: **doubly open**, more so than Cache Throughput above. Not only is the RAM-mapping
+  question unresolved, but `Hacking_and_Traceability_System.md` explicitly states its own scope
+  excludes this territory outright: "Specific hack actions (what you can *do* once inside a system) are
+  content and quest design territory — this document covers access and traceability only." This whole
+  cluster presupposes a combat-quickhack-effect taxonomy (a debuff/status system delivered via Signal
+  Weapons per `Combat/Damage_Types.md`'s Weapon Category Cross-Reference) that doesn't exist yet anywhere
+  in Inner Tepenia's docs. Flagging as a second, more foundational open question than Section 4 raised —
+  worth a developer decision on whether combat quickhacks are a planned Signal Weapon status-effect
+  system before any of these 8 source perks can be meaningfully converted.
+
+
+---------------------------------------------------------------------
+INTELLIGENCE — Outcome 4: Parked, Not Drafted
+---------------------------------------------------------------------
+
+"Carhacker" (1 perk) — vehicle remote-control/alarm/detonation quickhacks. Per Basis of Translation
+  Section 5's existing vehicle-combat flag: Inner Tepenia's vehicle/driving systems (if any) weren't
+  confirmed during that framework pass. Parking alongside Fury Road/Stuntjock/Road Warrior rather than
+  assuming a landing spot. Retained per the retention policy — potential Outer Tepenia material if that
+  trilogy's setting supports vehicle hacking.
+
+Smart Weapon targeting-lock cluster (7 perks) — Recirculation, Acquisition Specialist, Precision
+  Subroutines, No Escape, Target Lock Transfer, Terminal Velocity, Targeting Prism. Per Basis of
+  Translation Section 5's explicit named exception: these depend on CP2077's "Smart Weapon" tech
+  category and homing-projectile behavior, only convertible once/if Inner Tepenia's own weapon system
+  (Section 6) defines an equivalent guided-weapon category. Also flagging Precision Subroutines
+  specifically ("+2% accuracy per unit of cyberdeck Max RAM") as touching both the open RAM question
+  *and* adjacent to the Section 4 cyberware-capacity question — a cyberdeck is itself a cyberware item
+  with a capacity stat, so this perk sits at the intersection of two unresolved flags at once. Per
+  Section 6, this whole cluster is also worth handing to whoever picks up the separate weapon-category
+  design task (guided/homing weapons as a distinct playstyle identity), independent of whether it ever
+  becomes a perk.
+
+"Finisher: Live Wire" (1 perk) — Monowire execute-on-low-health effect. Same gap identified under
+  Technical Ability's "Heavy Ordnance Specialist" above: Inner Tepenia has no base Finisher/execute
+  mechanic yet for any weapon category. Parking here rather than duplicating the flag in two places
+  with different reasoning — see that entry's Note for the full explanation. If a general execute
+  system is designed later, this is the Signal-Weapon/Monowire-equivalent flavor of it.
+
+All four parked items retained per Section 5's retention policy — nothing here is discarded, only
+blocked on a developer decision (vehicle systems, weapon-category design, or a base Finisher mechanic)
+that this triage pass isn't positioned to make unilaterally.
+
+		/// 2.0-era — Cool Perk Tree + Relic Perks (Phantom Liberty) ///
+
+Triage summary before the individual perks:
+
+- **Section 1 check performed on the Focus/Deadeye chains** — their "mode" framing (auto-activating burst
+  state, resource-gated) invites comparison to Neural Overclock's Framejack/Berserk/Overclock. Call made:
+  Focus/Deadeye stay a standalone Guns-line perk chain rather than folding into Neural Overclock, because
+  their identity is precision-shooting (headshot/weakspot damage, no bullet spread, reduced aim cost), not
+  a whole-body speed/damage/ability-spam mode the way the three existing Overclock modes are. Per the
+  assignment brief's own routing ("Nerve-adjacent territory for the Focus/Deadeye combat-precision
+  branches"), this is drafted as Outcome 1 (level-up perk), gated on Nerve + Guns. Flagged for whoever
+  does the real conversion pass: if Deadeye's "no bullet spread / guaranteed headshot crit" burst is judged
+  powerful enough to want Neural Overclock's drawback structure instead of a free-standing perk, that's a
+  legitimate alternate call this draft doesn't make.
+- **Section 1 check on Data Tunneling (Relic)** — its quickhack-spreading effect routes through the
+  existing Hacking/Traceability System rather than becoming its own hacking mechanic; drafted below as a
+  delivery-method perk on top of that system, not a parallel one.
+- **Section 3 mapping applied:** Feline Footwork/Ninjutsu-lineage perks → Sneak (Agility), per the
+  assignment brief. Scorpion Sting/Juggler-lineage (thrown weapons) → Nerve + Explosives, following the
+  existing Skill-to-Skill table's Engineering-covers-grenades logic and the Damage_Types.md Thrown/
+  Explosives category. Focus/Deadeye-lineage → Nerve + Guns.
+- **Section 4 mapping applied:** all Stamina costs and drains fold into AP cost/AP refunds, per the
+  methodology's direct precedent. Jailbreak's "Arm cyberware" is resolved here (a genuine open question
+  Section 4 flags) by treating it as the player-robot's own latent frame hardware — extending
+  monofilament/reinforced-strike/launch tooling built into the Bridge Unit's own arms — rather than
+  external human-plus-implant cyberware, sidestepping the duality question Section 4 leaves open. This is
+  a drafting call, not a resolved developer decision.
+- **Section 5 (Relic) applied:** no "Relic," "Relic Points," "Phantom Liberty," or "chip" terminology
+  anywhere below. All 9 Relic perks kept as usable source material and drafted individually.
+- **Section 6 (weapon-system seed) flagged:** CP2077's own Quick Draw perk (Pistols/Revolvers/Sniper
+  Rifles/Precision Rifles swap speed) is weapon-category-specific in a way Inner Tepenia's current single
+  "Guns" skill doesn't yet support — its category granularity (Pistols split from Sniper Rifles split from
+  Precision Rifles) is flagged as input to the separate weapon-system design task per Section 6, while the
+  perk's effect itself is folded into Dead Reckoning below in a Guns-general form rather than locked to
+  those specific categories.
+- **Outcome 4 (parked, not dropped):** **Road Warrior** — vehicle-combat-specific (Sandevistan-while-
+  driving, Kerenzikov-on-handbrake, drift/airborne damage bonus). Already covered by Section 5's existing
+  parked-vehicle-combat category; no new landing spot found here either. Retained as potential Outer
+  Tepenia / *Toronto Fell Out* material per the retention policy, not deleted.
+
+---
+
+## COOL TREE — DRAFTED PERKS
+
+Seven grouped, ranked perks covering the ~36 player-chosen Cool-tree entries (Road Warrior excluded, see
+above). Requirements formatted per `Regular_Perks_-_Level-Up.md` convention: **M** Might · **A** Agility ·
+**C** Calculation · **H** Humanity · **I** Investigation · **N** Nerve · **E** Engine.
+
+---
+
+"Low Profile" (placeholder, not developer-chosen) — from Feline Footwork, Small Target, Blind Spot, Unexposed
+  Diegetic: posture and weight distribution management — crouching brings the frame's mass and profile down
+  into a genuinely smaller, steadier stance rather than just a cosmetic animation.
+  Effect:
+    Rank 1 — While crouched: bonus movement speed, bonus DT/DR.
+    Rank 2 — While crouched AND stationary: both bonuses increase further. Being spotted while crouched now
+      takes noticeably longer to escalate into a full alert — the enemy has to work harder to confirm you.
+    Rank 3 — Aiming from cover grants the same defensive bonus tier as crouched-and-stationary (Rank 2),
+      even while moving in and out of the aim.
+  Gate:
+    Rank 1 — A 5, Sneak 30
+    Rank 2 — A 6, Sneak 50
+    Rank 3 — A 7, Sneak 70
+  Note: four source perks (Feline Footwork + its three direct children, all sharing one prereq and one
+  stat — Mitigation Chance while crouched) collapse cleanly into one ranked perk with no real loss of
+  identity. "Mitigation Chance" itself doesn't exist as an Inner Tepenia mechanic, so it's translated as
+  the game's own DT/DR bonus rather than inventing a parallel dodge-chance stat.
+
+---
+
+"Silent Reputation" (placeholder, not developer-chosen) — from Killer Instinct, Quick Getaway, Gag Order
+  Diegetic: a read on a target built before they ever know you're there — stance, gait, attention, gaps in
+  awareness — turned into a strike that lands harder because it was never meant to be answered.
+  Effect:
+    Rank 1 — Outside active combat, an attack against a target who hasn't detected you deals bonus damage;
+      the expected damage is shown before you commit to the attack.
+    Rank 2 — Neutralizing a target without triggering a full alert grants a brief movement speed boost
+      (stacks twice, refreshes on a repeat). If a target spots you a moment before the strike lands anyway,
+      following through delays nearby allies from being alerted in turn.
+  Gate:
+    Rank 1 — A 6, Sneak 40
+    Rank 2 — A 7, Sneak 60
+  Note: three source perks, one clean prereq chain, no lost content — Quick Getaway and Gag Order are both
+  "what happens right after a stealth kill," so they merge into a single Rank 2 rather than staying split.
+  Left ungated by weapon type (source specifies knives/axes/silenced guns) since Inner Tepenia doesn't
+  split Guns into a silenced/unsilenced distinction yet; flagged as a Section 6 weapon-seed note if that
+  distinction ever gets added.
+
+---
+
+"Ghost Step" (placeholder, not developer-chosen) — from Ninjutsu, Creeping Death, Vanishing Act, Shinobi Sprint, Serpentine
+  Diegetic: the same crouched-posture discipline as Low Profile, extended into sustained motion — a
+  controlled, near-silent crouched sprint the frame can hold without breaking form.
+  Effect:
+    Rank 1 — Unlocks crouch-sprinting (increased movement speed while crouched, at an AP cost). Crouched
+      movement speed and the Low Profile defensive bonus both increase further while crouch-sprinting.
+    Rank 2 — Crouch-sprinting's AP cost drops sharply in combat specifically; the defensive bonus while
+      crouch-sprinting increases again.
+    Rank 3 — A kill landed while undetected grants a brief surge (health, AP, movement speed); staying in
+      motion afterward extends "undetected" status through the following turn instead of it lapsing
+      immediately.
+  Gate:
+    Rank 1 — A 7, Sneak 55, req. Low Profile Rank 2
+    Rank 2 — A 8, Sneak 70
+    Rank 3 — A 9, Sneak 85
+  Note: five source perks compress into three ranks — Shinobi Sprint and Serpentine are both "crouch-sprint
+  gets better," so they share Rank 2; Creeping Death and Vanishing Act are both "what happens around a
+  cloaked/undetected kill," so they share Rank 3. Optical Camo doesn't exist as base-game tech (Shadow Weave
+  Cloak is Pisces black-market gear per `Damage_Threshold_and_Damage_Resistance.md`), so the "Optical Camo
+  active OR undetected" trigger is simplified to just "undetected" — a player who does own camo-type gear
+  gets the same trigger for free, without the perk depending on owning it.
+
+---
+
+"Venom Line" (placeholder, not developer-chosen) — from Scorpion Sting, Neurotoxin, Parasite, Accelerated Toxin Absorption, Corrosion
+  Diegetic: purpose-loaded throwables carrying a fast-acting toxin payload, refined over three ranks from a
+  basic biological agent into a nanite-carried one that can actually reach a sealed robot's systems.
+  Effect:
+    Rank 1 — Thrown weapons recover faster after being thrown. A critical/headshot/weakspot throw applies
+      Poison (damage-over-time, per `Combat/Damage_Types.md`).
+    Rank 2 — Poison from these throws also triggers Sensor Scramble and disables sprinting briefly. A
+      follow-up strong attack or throw against a Poisoned target instantly deals its remaining Poison
+      damage and clears the effect.
+    Rank 3 — Critical/headshot throws restore health on landing. The payload is reformulated with a nanite
+      carrier, so it now affects robot and hybrid targets too — bypassing the normal robot resistance to
+      Poison that `Damage_Types.md` establishes for non-nanite-delivered Poison.
+  Gate:
+    Rank 1 — N 6, Explosives 40
+    Rank 2 — N 7, Explosives 55
+    Rank 3 — N 8, Explosives 70
+  Note: five source perks (all direct children of Scorpion Sting, no further sub-branching) fold into three
+  ranks. Corrosion's "poison now works on robots" is the one line here with a genuine lore hook already
+  written — `Damage_Types.md` explicitly calls out that robots resist Poison "unless delivered via nanites
+  or specialized carriers," so Rank 3 just reaches for the carve-out that was already sitting there.
+  "Blinding" isn't an established Inner Tepenia status name; substituted with the existing Sensor Scramble
+  status from `Targeting_System.md`.
+
+---
+
+"Return to Sender" (placeholder, not developer-chosen) — from Juggler, Pay it Forward, Sleight of Hand, Finisher: Act of Mercy, Style over Substance, Pounce
+  Diegetic: Venom Line's throwing discipline pushed to mastery — recovery, retrieval, and follow-through all
+  folded into one continuous combat rhythm instead of separate actions.
+  Effect:
+    Rank 1 — A headshot/weakspot/Poison throwable kill instantly resets all throwable cooldowns.
+      Headshot/weakspot throws deal bonus damage.
+    Rank 2 — Retrieving a thrown weapon still lodged in an enemy loads the next melee throw with a large
+      damage bonus. Each cooldown reset from Rank 1 also grants a stacking critical-damage buff for several
+      turns.
+    Rank 3 — A dedicated throwable execute becomes available against critically wounded enemies, restoring
+      health on use and usable from progressively greater range as more throws land. If Ghost Step has also
+      been taken, throwables land guaranteed critical hits while crouch-sprinting or dodging.
+  Gate:
+    Rank 1 — N 8, Explosives 80, req. Venom Line Rank 3, Level 20
+    Rank 2 — N 9, Explosives 90, Level 24
+    Rank 3 — N 9, Explosives 90, Level 28
+  Note: six source perks (Phenom + Legend tier, all downstream of Juggler) compress into three ranks. Style
+  over Substance's cross-tree requirement (Ninjutsu + Pay it Forward in the original) is kept as an optional
+  cross-perk bonus in Rank 3 rather than a hard gate, since Inner Tepenia's own convention (see Regular_
+  Perks_-_Level-Up.md's combinatorial-perk design principle) favors rewarding the combination without making
+  either perk depend on the other to function alone.
+
+---
+
+"Steady Aim Protocol" (placeholder, not developer-chosen) — from Focus, Rinse and Reload, No Sweat, Pull!, Head to Head, Deep Breath
+  Diegetic: a lightweight, sustained targeting-assist subroutine — steadier than a normal aim, short of a
+  full NODE analysis lock — that suppresses the player's own micro-tremor and recoil-correction overhead
+  for as long as it's held active.
+  Effect:
+    Rank 1 — Bonus headshot/weakspot damage. A short-duration aimed stance can be triggered that removes
+      the AP cost of firing for its duration.
+    Rank 2 — Reload speed increases after a kill scored while aiming. Sustaining the stance across multiple
+      kills gets progressively cheaper to maintain rather than resetting to full cost each time.
+    Rank 3 — Shooting down thrown or airborne objects while the stance is active becomes easier and more
+      effective. A ranged kill scored while the stance is active refreshes its duration outright.
+  Gate:
+    Rank 1 — N 6, Guns 45
+    Rank 2 — N 7, Guns 60
+    Rank 3 — N 8, Guns 75
+  Note: six Pro-tier source perks fold into three ranks. Stamina costs/drains throughout the source
+  material convert to AP-cost terms per Section 4's direct mapping. Deep Breath's "time slows 25% for you
+  and enemies" is dropped as a mechanical effect (Inner Tepenia's turn-based structure has no shared real-
+  time clock to slow) but kept as presentation flavor for the "duration refreshes" beat in Rank 3.
+
+---
+
+"Dead Reckoning" (placeholder, not developer-chosen) — from Deadeye, High Noon, California Reaper, Long Shot, Quick Draw, Nerves of Tungsten-Steel, Run 'N' Gun
+  Diegetic: Steady Aim Protocol's subroutine pushed past its normal ceiling — the targeting assist stops
+  compensating for the shooter and starts predicting the shot outright.
+  Effect:
+    Rank 1 — Further bonus headshot/weakspot damage; the base aimed stance costs less AP to hold. Above a
+      resource threshold the stance upgrades into a heightened mode: additional headshot/weakspot damage,
+      no bullet-spread penalty.
+    Rank 2 — A headshot/weakspot kill while the heightened mode is active opens a brief window of much
+      faster reload speed and a perceptible slow-down on the presentation layer. A ranged headshot/weakspot
+      kill also restores the resource that sustains the heightened mode.
+    Rank 3 — Shots keep full damage at any range while the heightened mode is active. Swapping weapons
+      mid-combat while the mode is active costs no AP (general Guns-skill effect — not locked to any single
+      weapon category; see Section 6 note above on why CP2077's own category-specific version wasn't ported
+      as-is).
+    Rank 4 — Headshots/weakspots are guaranteed critical while the heightened mode is active, with bonus
+      damage that increases the farther the target is. Hip-fired shots cost no AP, and movement speed
+      increases while the base stance (Rank 1) is active.
+  Gate:
+    Rank 1 — N 8, Guns 85, req. Steady Aim Protocol Rank 3
+    Rank 2 — N 9, Guns 90, Level 30
+    Rank 3 — N 9, Guns 95, Level 34
+    Rank 4 — N 10, Guns 100, Level 38
+  Note: seven Phenom/Legend-tier source perks fold into four ranks — the maximum the format allows, used
+  deliberately here since this is the capstone of the whole Focus/Deadeye lineage (13 source perks across
+  both drafted perks). Per the Section 1 check above, this stays a standalone Guns-line perk rather than an
+  addition to Neural Overclock's mode list; flagged for reconsideration if development later wants Rank 4's
+  guaranteed-crit heightened mode to carry Neural Overclock-style drawbacks instead of being a clean payoff.
+
+---
+
+## RELIC PERKS — DRAFTED, INDIVIDUALLY
+
+Drafted as an **Earned/Quest-locked perk tier** rather than stat-gated level-up perks — per the
+methodology's own "your call" framing for the Relic tier, given their real-world origin (unlocked through a
+DLC's main story, not chosen from an ordinary level-up menu). Structurally closest to the existing District
+Capstone Perks category (`Perk_Framework.md` Category D): earned automatically on completing a specific
+story beat, not spent from a pool. Since which future DLC (if any) would carry a climactic beat like this is
+undecided, "Unlock" below is left as a placeholder condition rather than naming a real DLC. Because these
+read as active combat techniques rather than passive stat bonuses, the original template's Cost/Cooldown
+shape is kept (as in the BG3 pilot format) with an added "Unlock" line replacing the stat/skill Gate.
+
+---
+
+"Ghost Exit" (placeholder, not developer-chosen) — from Emergency Cloaking
+  Diegetic: routed through an equipped active-camouflage rig — Shadow Weave Cloak-class gear
+  (`Damage_Threshold_and_Damage_Resistance.md`, Pisces black-market origin) or an equivalent high-end
+  variant.
+  Effect: Activating the camo rig at a precise moment mid-combat causes nearby enemies to lose your
+  position entirely — a genuine chance to drop out of combat outright, not just break line of sight.
+  Requires camo-type gear equipped in a gadget/utility slot.
+  Cost: 3 AP. Cooldown: 4 turns.
+  Unlock: Quest-locked — awarded at the climactic beat of a future DLC's main story (which DLC, and what
+  beat, undecided).
+  Note: the cleanest 1:1 conversion in the whole Relic batch — the mechanic barely changes, just re-hooked
+  to gear that already exists in Inner Tepenia's own armor doc instead of a bespoke "Optical Camo"
+  quickslot item invented for this one perk.
+
+---
+
+"Vanish Reflex" (placeholder, not developer-chosen) — from Sensory Protocol
+  Diegetic: a proprioceptive/sensor-fusion reflex — crouched and about to be made, the player's own
+  processing compresses the moment enough to act inside it.
+  Effect: While crouched, the instant you'd be detected, a brief personal slow-down window opens. Dodging
+  or dashing out of the spotting enemy's sightline during that window exits combat immediately instead of
+  triggering a full alert.
+  Cost: 1 AP (the dodge/dash itself, on top of its normal movement cost). Cooldown: ~20 turns.
+  Unlock: Quest-locked, same tier as Ghost Exit.
+  Note: near-untouched port. The source's 120-second real-time cooldown is converted to a turn count
+  (~20 turns) as a starting estimate; flagged for an actual balance pass once turn-length pacing is
+  established elsewhere.
+
+---
+
+"Fault Line Reader" (placeholder, not developer-chosen) — from Vulnerability Analytics
+  Diegetic: an aggressive extension of NODE's existing Scanned Weak Point mechanic
+  (`Combat/Targeting_System.md`) — instead of just flagging a soft spot, the targeting subroutine reads
+  structural faults in a target's armor or internal frame specifically.
+  Effect: During NODE analysis, certain Scanned Weak Points can additionally be read as Faults. A hit on a
+  Fault is a guaranteed critical, ignores a portion of the target's DT, and deals bonus damage to the
+  targeted component. Enough cumulative damage to a Fault ruptures it — an EMP-and-shrapnel burst damaging
+  everything within close range, robot and human alike.
+  Cost: no separate AP cost beyond normal NODE targeting — Faults are a richer read of an already-scanned
+  point, not a new action.
+  Unlock: Quest-locked.
+  Note: the strongest case in this whole batch for "already covered by an existing system." Section 1's
+  decision aid would normally route a target-vulnerability mechanic through NODE's own Scanned Weak Points
+  rather than inventing a parallel one — that's exactly what's drafted here: an upgrade tier on top of the
+  existing mechanic, not a standalone detection ability.
+
+---
+
+"Adaptive Targeting Cache" (placeholder, not developer-chosen) — from Machine Learning
+  Diegetic: the same subroutine behind Fault Line Reader, keeping a running model of what worked.
+  Effect: Passive. Each time a Fault is ruptured, the subroutine improves: increased frequency of new
+  Faults appearing on scanned targets, and increased critical damage against Fault hits, for a limited
+  duration. Stacks up to 5 times, refreshing on each new rupture; the bonuses roughly double at max stacks.
+  Cost: passive, no activation cost.
+  Unlock: Quest-locked, req. Fault Line Reader.
+  Note: kept almost exactly as sourced — one of the few Relic perks needing no structural change, just
+  re-hooked to Fault Line Reader instead of "Vulnerability."
+
+---
+
+"Unshackled Arms" (placeholder, not developer-chosen) — from Jailbreak
+  Diegetic: the player character is a robot with an integrated frame and body, not a human with bolted-on
+  cyberware (per the standing "frame + body, never chassis" rule) — so this isn't installing new hardware,
+  it's unlocking factory-restricted routines already latent in the player's own arm actuators and internal
+  tooling: an extending monofilament whip-line, reinforced striking plating, and a compact wrist-mounted
+  launcher.
+  Effect: Unlocks three new close-range/utility arm-actuator abilities, usable directly with no separate
+  weapon equipped: a monofilament whip-line (Slashing, Bladed Melee-adjacent, slightly longer reach than a
+  standard blade), reinforced striking plating (Bludgeoning, Unarmed-adjacent, hits harder than a bare
+  strike), and a small wrist-mounted launcher (single charge before recharge, Thrown/Explosives-adjacent).
+  Cost: per-ability AP costs TBD alongside the base game's own Unarmed/Bladed Melee/Thrown balance pass.
+  Unlock: Quest-locked — the trunk unlock for this sub-branch; Crippling Reach, Full Swing, Extra Chamber,
+  and Signal Bleed below all require this first.
+  Note: the one Relic perk where Section 4's open "cyberware capacity" question mattered directly. Resolved
+  here, as a drafting call rather than a settled decision, by reframing Jailbreak as unlocking the player-
+  robot's own latent frame hardware instead of installed cyberware — sidestepping the human-plus-implant
+  duality question Section 4 flags as unresolved for CP2077's V, since Inner Tepenia's protagonist doesn't
+  have that duality to begin with.
+
+---
+
+"Crippling Reach" (placeholder, not developer-chosen) — from Spatial Mapping
+  Diegetic: a leaping whip-line strike, using the line's reach to close distance before the target can
+  brace.
+  Effect: A leaping whip-line attack cripples the target's mobility on hit (a Joint Lock-style effect, per
+  the status vocabulary already established in `Combat/Targeting_System.md`) and raises component-loss
+  chance against that target for several turns.
+  Cost/Cooldown: TBD, alongside Unshackled Arms' base ability costs.
+  Unlock: Quest-locked, req. Unshackled Arms.
+  Note: a light rename to plug into the existing Joint Lock status rather than inventing a new "crippled"
+  state from scratch.
+
+---
+
+"Full Swing" (placeholder, not developer-chosen) — from Limiter Removal
+  Effect: A fully charged strike from the reinforced plating now knocks down every enemy in range on
+  release, not just the primary target.
+  Cost/Cooldown: TBD, alongside Unshackled Arms' base ability costs.
+  Unlock: Quest-locked, req. Unshackled Arms.
+  Note: a direct port — no structural change needed beyond the arm-hardware reframing already applied at
+  Unshackled Arms.
+
+---
+
+"Extra Chamber" (placeholder, not developer-chosen) — from Launch Capacity Override
+  Effect: The wrist launcher gains a second charge before needing to recharge.
+  Cost/Cooldown: TBD, alongside Unshackled Arms' base ability costs.
+  Unlock: Quest-locked, req. Unshackled Arms.
+  Note: the smallest, most literal port in the batch — a flat +1 charge, same as the source perk.
+
+---
+
+"Signal Bleed" (placeholder, not developer-chosen) — from Data Tunneling
+  Diegetic: routed through the same jack-in link that already delivers Signal Weapon attacks and hacking
+  actions (`Core-Mechanics/Hacking_and_Traceability_System.md`) — the whip-line becomes a physical extension
+  of that same interface rather than a separate delivery system.
+  Effect: When an enemy is already carrying an active hack effect (a Neural/Interface-type effect applied
+  through the normal Hacking/Traceability System), a whip-line strike that hits that enemy and another
+  target simultaneously spreads the same hack effect to the second target.
+  Cost/Cooldown: TBD, alongside Unshackled Arms' base ability costs.
+  Unlock: Quest-locked, req. Unshackled Arms.
+  Note: per Section 1, quickhacking's core loop routes through the existing Hacking/Traceability System
+  rather than becoming a standalone mechanic, and Signal Bleed respects that boundary — it isn't a new
+  hacking system, it's a delivery-method perk that spreads an effect the Hacking system already applied.
+  This is the clearest example in the batch of Section 5's revised Relic policy in practice: the mechanic
+  (a physical arm-tool that propagates an existing hack) survives intact; "Monowire" and "quickhack" as
+  CP2077-branded nouns don't.
