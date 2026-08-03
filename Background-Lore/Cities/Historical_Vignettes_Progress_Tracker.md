@@ -118,16 +118,22 @@ three existing per-city folders but tracked as one combined regional total below
 
 | Location | Done | Target | Status |
 |---|---|---|---|
-| Amundsen-Scott Station | 0 | 30 (20 min) | Not started |
+| Amundsen-Scott Station | 6 | 30 (20 min) | In progress |
 
 ---
 
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 102** (Halley subnet 48 + Palmer City 6 + Esperanza 6 + Rothera 6 + Marambio 6 + Port
-Lockroy 6 + Sejong 6 + Signy 6 + Juan Carlos 6). **Halley subnet's first full pass is complete (48 entries)
-and Palmer subnet's first full pass is complete (48 entries) — 16 of 35 cities/regions started.**
+50 + 30). **Current: 216** (Halley subnet 48 + Palmer subnet 48 + Mirny subnet 48 + Janbogo subnet 42 +
+Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
+
+**2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
+outer cities, the Tri-Cities region, and Amundsen-Scott Station have completed batch 1 under the finalized
+methodology (`Historical_Vignettes_Synthesis_Method.md`: genuine pre-war occurrences, Full Extrapolation as
+primary source, strictly no post-war content). Abowasa is the one exception — paused per its own flagged
+founding-nation bug, not yet resolved. **Per direct developer instruction, stopping here for a separate
+discussion before continuing toward the 12-entry milestone.**
 
 **Confirmed rotation mechanic, 2026-08-02:** cycle through every city in a subnet doing one 6-entry batch
 each, then loop back around for each city's next batch — not finishing one city to its full target before
