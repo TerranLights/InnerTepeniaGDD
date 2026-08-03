@@ -8,7 +8,10 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Begins the Mawson subnet. Drawn primarily from `Mawson_Full_Extrapolation.md` (Tier 1), `Mawson_Physical_
 Infrastructure_Attributes.md` and `Specs/Mawson.md` (Tier 2), and `Mawson_Cross_Reference_Synthesis.md`
-(Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
+(Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction,
+is framed around `City_National_Connections.md`: six occurrences that could only have happened once full
+national digital connectivity existed, each grounded in a specific named city-to-city connection from that
+file (Neumayer, Palmer City, Davis, Sinheung, Janbogo, Sayowa/Dome Fuji). 18 done as of batch 3.**
 
 ---
 
@@ -209,3 +212,88 @@ proposal to minimize public discussion, and the deliberate rejection of it, the 
 the city had built for itself from the start. No other city adopted Mawson's own approach as policy. What the
 inquiry confirmed, for the first time, was that a choice made quietly at founding, contested and won without
 much fanfare, had traveled far enough that strangers elsewhere found it worth asking about.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The First Reaction Mawson Ever Got to See Calethina Receive
+
+Following Neumayer's own small design-team delegation watching a live relay of an actual Calethina
+demonstration, Mawson's own hospitality administrators — the ones who had originally commissioned the design
+— received their own first direct feedback from the very engineers who had drafted the specification years
+earlier, feedback that had never previously had anywhere to go once the finished commission shipped.
+
+Mawson's own hospitality staff, per what's preserved of the exchange, hadn't previously known Calethina's own
+underlying spec had ever been drafted at Neumayer at all — the commission had simply arrived, finished, with
+no channel connecting the destination back to its actual origin. Learning the connection directly, and hearing
+Neumayer's own designers' genuine reaction to seeing their work succeed, gave Mawson's own hospitality program
+a small but genuine piece of its own commissioned history it had never previously had access to.
+
+### The Consultation Palmer City Turned Into an Annual Exchange
+
+Following the first direct hospitality-industry exchange between Palmer City and Mawson, the two cities'
+administrators agreed to make the comparison a standing annual event rather than a single occasion — the
+country's two deliberately-cultivated tourism economies checking in with each other regularly rather than
+only once.
+
+The annual exchange, held once sustained contact confirmed both administrations found genuine value in it,
+became something closer to a professional tradition than a one-time consultation — Mawson's own honeymoon-
+destination model and Palmer City's own entertainment economy comparing notes on a fixed schedule for the
+first time in either city's own tourism history. Neither administration treated the exchange as competitive.
+Both, per what's preserved of it, found the annual comparison consistently useful precisely because the two
+economies were different enough to never actually compete for the same visitors.
+
+### The Rescue Story Mawson's Own Guides Started Telling Tourists
+
+Following the joint historical research confirming Davis's own real-world namesake had personally rescued
+Douglas Mawson's stranded expedition, Mawson's own tourism guides began incorporating the confirmed story into
+honeymoon-stay itineraries for the first time — a genuine piece of documented history, newly available, that
+made the St. Douglas marker considerably more than a name on a plaque.
+
+Guests taking the customary trip to the Prince Charles Mountains overlook, per what's preserved of the
+updated itinerary, now heard the rescue story as part of the visit — the first time Mawson's own tourism
+economy had incorporated a piece of cross-city historical research directly into its own guest experience.
+Whether guests found the addition meaningful varied, per informal accounts, but the story itself, freshly
+confirmed through direct research contact with Davis, had genuinely never been tellable in this much detail
+before.
+
+### The Import Schedule Sinheung Finally Let Mawson See in Advance
+
+Following the live reconciliation between Mawson's and Sinheung's own import ledgers, Mawson's own logistics
+office gained something it had never previously had: advance visibility into Sinheung's own projected import
+volume, rather than only reconciling completed shipments after the fact.
+
+The advance visibility, per what's preserved of the arrangement, let Mawson's own port staff plan handling
+capacity ahead of unusually large shipments rather than absorbing them as they arrived — a genuine operational
+improvement for a physical logistics link that had run, since its own founding, on shipment-by-shipment
+handling rather than forward planning. Neither city's own underlying trade relationship changed. The planning
+capability itself, newly possible, was the significant thing.
+
+### The Hospitality Principle Janbogo's Own Hosts Actually Adopted
+
+Following the direct hospitality comparison between Janbogo's transit-focused welcome and Mawson's own
+destination-focused tourism model, a specific element of Mawson's own guest-experience design — the
+customary overlook visit that anchored every honeymoon stay — prompted Janbogo's own civic hosts to consider
+whether a comparable anchor activity might strengthen the Crossing tradition's own visiting experience.
+
+Janbogo's own hosts, per what's preserved of the consideration, ultimately concluded the Crossing's own
+unplanned, spontaneous character was precisely the opposite of what Mawson's own deliberate anchor-activity
+model offered — a genuine, considered decision not to adopt the idea, reached only because direct contact had
+made the comparison specific enough to actually evaluate rather than remaining a vague impression. Mawson's
+own hospitality administrators, per what's recalled of learning the outcome, respected the reasoning
+completely — proof that even a declined idea could be a genuinely useful exchange.
+
+### The Hub Function Sayowa and Dome Fuji Finally Stress-Tested Together
+
+Mawson's own hub function, built from founding to prioritize intra-subnet coordination with Sayowa and Dome
+Fuji before outward national connectivity, faced its first genuine three-way simultaneous test once national
+traffic volume grew heavy enough that all three cities needed to coordinate capacity at once rather than
+Mawson simply relaying between two separate bilateral relationships.
+
+The first three-way session, held once direct contact let all three cities' own coordination staff meet
+together rather than through Mawson's own relay alone, confirmed the founding-era sequencing decision had
+held exactly as intended — intra-subnet coordination robust enough to absorb outward pressure without either
+Sayowa's or Dome Fuji's own needs being deprioritized. It marked the first time the three-city hub
+relationship had ever actually operated as a genuine three-way conversation, rather than two separate
+connections both running through Mawson.
