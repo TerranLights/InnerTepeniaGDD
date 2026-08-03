@@ -94,7 +94,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Janbogo | 6 | 30 | In progress |
 | Fort McMurdo | 6 | 30 | In progress |
-| Dumont d'Urville | 0 | 30 | Not started |
+| Dumont d'Urville | 6 | 30 | In progress |
 | Cape Adare | 0 | 30 | Not started |
 | Zukelli | 0 | 30 | Not started |
 | Scott | 0 | 30 | Not started |
