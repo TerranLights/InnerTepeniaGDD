@@ -98,7 +98,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Cape Adare | 6 | 30 | In progress |
 | Zukelli | 6 | 30 | In progress |
 | Scott | 6 | 30 | In progress |
-| Denison | 0 | 30 | Not started |
+| Denison | 6 | 30 | In progress |
 
 ### Mawson Subnet (target: 30 each, 90 total)
 
