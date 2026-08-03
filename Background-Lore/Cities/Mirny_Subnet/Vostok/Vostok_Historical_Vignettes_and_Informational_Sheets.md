@@ -7,8 +7,8 @@ plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuin
 rather than a restated attribute — including the strict no-post-war-content rule. No entry below depends on
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Vostok_Full_Extrapolation.md` (Tier 1), `Vostok_Physical_Infrastructure_Attributes.md`
-and `Specs/Vostok.md` (Tier 2), and `Vostok_Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many —
-target 30, 6 done as of this batch.**
+and `Specs/Vostok.md` (Tier 2), and `Vostok_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
+target 30, 12 done as of this batch.**
 
 ---
 
@@ -133,3 +133,96 @@ exactly the kind of terminological drift the archive's own accumulated confusion
 elsewhere. The proposal was quietly dropped, and the reasoning behind dropping it became, afterward, the
 closest thing Vostok's own research culture has to an explicit explanation for why the liturgical Russian
 persists at all — not preserved on purpose, simply never given a reason to be replaced.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Request That Came Through Kunlun Marked Urgent
+
+*(Shortly before the Tower's completion.)* The established Vostok-Kunlun resource-sharing relationship carried,
+late in the Tower's construction, an unusually large and unusually urgent request relayed through Kunlun's own
+comms infrastructure — specialized cold-tolerant materials data, sought by whoever was engineering the Tower's
+own extreme-environment resilience, routed to Vostok specifically because neither Kunlun nor anywhere closer
+to the project held equivalent expertise (`Vostok_Full_Extrapolation.md` Section VII).
+
+Vostok's own research staff, per what's remembered of the request, treated it with the same practical
+directness the Kunlun relationship had always run on — Lake Vostok's own accumulated cold-adaptation data
+pulled and modeled against the specific parameters requested, the same working method that had once caught a
+flaw in one of Kunlun's own equipment designs before it was built. Nobody at Vostok learned what the modeling
+was ultimately used for. The relay simply carried the answer back out, the same quiet infrastructure-sharing
+the two outposts had practiced for generations, asked this time to reach further than either had any way of
+knowing.
+
+### The Archive Query Nobody Could Fully Answer
+
+*(Shortly before the Tower's completion.)* A formal request for archived materials-science data — anything in
+the incomprehensible archive's own centuries of accumulated records bearing on long-term structural behavior
+under sustained extreme cold — reached Vostok late in the Tower's construction, routed, like everything else
+reaching Vostok from outside, through Kunlun's relay (`Vostok_Full_Extrapolation.md` Section IV).
+
+Researchers attempting to answer it, per what's preserved of the effort, ran directly into the same
+accumulated-complexity problem the archive always presented — relevant data existed, scattered across
+generations of differently catalogued research nobody had ever fully reconciled, exactly the kind of
+overlapping partial picture that had once produced two separate researchers cataloguing the same organism
+twice. The team assembled what it could rather than claiming false completeness, sending back a genuinely
+useful but explicitly partial answer — an honest response from an archive that had never pretended to be
+anything but difficult, even to the people who worked inside it every day.
+
+### The Term the Founding Archive Had Never Needed Translated for This
+
+*(Shortly before the Tower's completion.)* Voskresenskaya's own founding-era cataloguing layer — written in
+Russian technical convention no living researcher at Vostok could speak conversationally, preserved as a
+liturgical register rather than a living language — supplied, for the outgoing Tower-related correspondence,
+several of the archive's oldest structural and materials terms, cited exactly as Voskresenskaya herself had
+originally recorded them (`Vostok_Full_Extrapolation.md` Section VIII).
+
+The researcher preparing the correspondence, per what's recalled of the exchange, cited the terms the same
+reflexive way any Vostok researcher always had — without translating them, trusting the recipient's own
+technical staff to recognize a fixed identifier the same way Vostok's own researchers always had. Whether the
+terminology meant anything to whoever received it at the Tower's own end isn't part of what Vostok itself
+preserved. The citation went out exactly as Voskresenskaya had first written it, generations after she'd
+stopped being alive to know it ever would.
+
+### The First Message That Reached Somewhere Neither Outpost Had Ever Reached
+
+*(Shortly after the Tower's completion.)* Vostok's own connection to the rest of Tepenia — which had always
+run entirely through Kunlun's relay, itself the only link either extreme-isolation outpost had to anywhere
+else — extended, for the first time, to the whole connected country at once, once the Tower's completion made
+Kunlun's own relay part of the national backbone rather than a two-outpost lifeline (`Vostok_Full_
+Extrapolation.md` Section VII).
+
+Researchers at Vostok, per what's remembered of the moment, described the change less in terms of the
+connection's own speed than its own destination — for the first time in the outpost's entire history, a
+message sent from Vostok could reach somewhere neither Vostok nor Kunlun had ever had any relationship with at
+all, without needing the other outpost to serve as the only possible relay point. The two loneliest outposts
+in Tepenia remained exactly as isolated, physically, as they had always been. What they were no longer isolated
+from was everyone else.
+
+### The Archive That Finally Had Someone to Ask Directly
+
+*(Shortly after the Tower's completion.)* Researchers elsewhere in the country, aware for the first time of
+what the incomprehensible archive actually held once word of Vostok's own accumulated genetic and materials
+data could travel freely, began sending direct queries rather than routing occasional requests through Kunlun's
+own relay as an intermediary (`Vostok_Full_Extrapolation.md` Section IV).
+
+Vostok's own research staff, per what's recalled of the shift, found the direct contact considerably more
+useful than the old routed correspondence had ever allowed — outside researchers could now describe exactly
+what they needed and receive clarifying follow-up in the same exchange, rather than a single request-and-answer
+cycle stretched across whatever delay the relay chain had once required. The archive itself remained exactly
+as difficult to navigate as it had always been. For the first time, though, untangling it was a conversation
+rather than a one-way delivery.
+
+### The Cold-Adaptation Data That Went Somewhere Warmer for the First Time
+
+*(Shortly after the Tower's completion.)* Vostok's own cold-tolerant biological research — previously shared
+almost exclusively with Kunlun, the one other outpost extreme enough to need it — reached, for the first time,
+research communities in considerably milder Tepenian cities working on their own unrelated cold-engineering
+problems, connected directly rather than through any deliberate outreach on Vostok's own part
+(`Vostok_Full_Extrapolation.md` Section VII).
+
+Vostok's own researchers, per what's remembered of the response, treated the wider interest the same way
+they'd always treated Kunlun's own requests — supplying what was asked for, without particular ceremony, the
+same working culture that had never distinguished between a request worth taking seriously and one worth
+brushing off. What changed wasn't Vostok's own approach to the work. It was simply that, for the first time,
+more of the country than one other outpost had any reason to ask for it.
