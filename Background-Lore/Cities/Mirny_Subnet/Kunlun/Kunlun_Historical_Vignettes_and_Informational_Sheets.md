@@ -8,7 +8,13 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Kunlun_Full_Extrapolation.md` (Tier 1), `Kunlun_Physical_Infrastructure_Attributes.md`
 and `Specs/Kunlun.md` (Tier 2), and `Kunlun_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
-target 30, 12 done as of this batch.**
+target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Vostok,
+Mirny, Davis, Signy, Dome Fuji) distinct from batch 2's own entries. The Dome Fuji entry below is explicitly
+framed as a later-period development, consistent with `City_National_Connections.md`'s own note that Dome
+Fuji's devotee community and its connection to Kunlun postdate the Tower's completion. 18 done as of batch
+3.**
 
 ---
 
@@ -220,3 +226,90 @@ Kunlun's own −68°C polar-night calm, not a practice built for export. What th
 population accustomed to genuine isolation, was something closer to recognition: confirmation that other
 communities elsewhere, in their own way, understood the value of pausing to actually notice a moment worth
 noticing.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Verification Vostok Finally Ran Without Traveling
+
+The long-unresolved dispute between Kunlun and Vostok over which city's own conditions were genuinely
+colder — Vostok's confirmed historic record against Kunlun's colder but unverified modeled extremes — reached
+its first genuine methodological breakthrough once shared instrument specifications, exchanged directly for
+the first time, let both cities compare their own calibration standards without needing to physically
+transport equipment between them.
+
+The comparison, per what's preserved of the exchange, confirmed that both cities' own instruments were
+calibrated to comparable precision, ruling out the possibility that either city's own reading had simply been
+less reliable than the other's. The underlying dispute remained exactly as unresolved as before — Vostok
+still held the confirmed record, Kunlun still held the colder unverified extremes. What changed was that, for
+the first time, neither city could attribute the other's own numbers to inferior methodology.
+
+### The Relay Vaults Question Mirny Finally Got Answered Directly
+
+Kunlun's own dependency on Mirny's own Relay Hardware Vaults — the intra-subnet Arcanet hub whose failure
+would cut contact across the whole Mirny subnet cluster at once — had never once produced a direct technical
+conversation between Kunlun's own comms staff and the Vaults' own maintenance crew, despite Kunlun's own
+observatory being one of the facilities most dependent on the Vaults staying operational.
+
+The first direct exchange, held once contact made it trivial, let Kunlun's own comms staff finally ask
+Mirny's own technicians a question they'd carried for years: exactly how much redundancy the compromise system
+Marchenko had once fought for actually provided. Mirny's own technicians answered honestly — real but
+imperfect redundancy, the same compromise it had always been. Kunlun's own staff, per what's recalled of the
+response, found the honest answer more reassuring than a confident overstatement would have been.
+
+### The Sediment Record Davis Sent Back With a Caveat Attached
+
+Following Kunlun's own request for Davis's sediment-core data to help calibrate an unexplained atmospheric
+reading, Davis's own research team sent back not just the requested data but a detailed methodological caveat
+— specific conditions under which the sediment record's own dating might not align cleanly with Kunlun's own
+ice-core timeline.
+
+Kunlun's own researchers, per what's preserved of the exchange, incorporated the caveat directly into their
+own analysis rather than treating it as an inconvenience — genuine scientific caution, offered unprompted by
+a research community with no obligation to flag its own data's limitations to an outside requester. The
+atmospheric anomaly was eventually explained through other means. The caveat itself, freely offered, marked
+the first time either research tradition had extended that kind of professional courtesy to the other.
+
+### The Turbine Data Signy's Engineers Finally Explained in Person
+
+Following the original energy-regulation delegation's visit to Signy, and the technical question left
+unresolved at the time, a small Kunlun engineering team made the first return visit to Signy specifically to
+discuss the completed turbine-wear analysis in person rather than only through the correspondence that had
+originally closed the gap.
+
+The visit, per what's preserved of it, let Kunlun's own engineers walk Signy's own turbine crews through the
+full reasoning behind the maintenance-interval adjustment directly — considerably more detail than the
+original written analysis had included. Signy's own crews, per what's recalled of the exchange, found the
+in-person explanation clarified several points the written version had left ambiguous. It marked the first
+time either city's own engineers had actually met the other in person, rather than exchanging findings purely
+through data alone.
+
+### The First Devotee Contact With Dome Fuji, Later in the Same Era
+
+*(A later-period development, consistent with Dome Fuji's own establishment that its devotee community
+postdates the Tower's completion by a comfortable margin.)* Once word of a rediscovered, abandoned research
+station matching Ice Cold Buddhism's own theology reached Kunlun's devotional community, the faith's first
+direct contact with what would become Dome Fuji was made possible specifically by the same national
+connectivity that had, by then, existed for some time.
+
+A small delegation of Kunlun devotees, coordinating the original pilgrimage expedition's own logistics through
+channels that simply hadn't existed when the Tower itself was newly completed, planned the crossing to
+Dome Fuji using real-time coordination with whatever staging point the expedition departed from. The
+expedition's own outcome — what the first pilgrims actually found — is preserved elsewhere in Dome Fuji's own
+historical record. What belongs to Kunlun's own account is simpler: the planning itself, coordinated instantly
+across a distance that would once have required the same slow correspondence every other pre-Tower
+cross-subnet contact had always depended on.
+
+### The Comms Relay Question That Reached Kunlun From a City It Had Never Served
+
+Kunlun's own observatory-adjacent comms-relay expertise, already known nationally through the Tower-era
+consultation, received a second, unrelated technical inquiry once word of that original exchange reached a
+city with no prior connection to Kunlun at all — a genuine second-order effect of the observatory's own
+reputation traveling further than the original consultation itself had.
+
+Kunlun's own comms staff, per what's preserved of the response, answered the new inquiry with the same plain,
+task-driven thoroughness that governed everything else the observatory did. The specific technical question
+resolved cleanly. What mattered more, per what's recalled of the exchange, was simpler: proof that a single
+consultation, once it happened, could keep generating new contact long after the original reason for it had
+been resolved.
