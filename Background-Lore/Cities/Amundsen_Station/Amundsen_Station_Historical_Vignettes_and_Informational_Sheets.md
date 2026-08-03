@@ -15,7 +15,10 @@ Not a city — the last entry in the standard 35-city rotation, carrying its own
 Drawn primarily from `Amundsen_Station_Full_Extrapolation.md` (Tier 1), `Amundsen_Station_Physical_
 Infrastructure_Attributes.md`, `Specs/Amundsen_Station.md`, and `Amundsen_Station_Community_Infrastructure.md`
 (Tier 2), and `Amundsen_Station_Cross_Reference_Synthesis.md` plus `Amundsen_Station_Enhancement_
-Opportunities.md` (Tier 3). **Batch 1 of many — target 30 (20 minimum), 6 done as of this batch.**
+Opportunities.md` (Tier 3). **Batch 2 of many — target 30 (20 minimum), 12 done as of this batch.** *(Framing
+note: unlike every other city's own batch 2, this batch is centered directly on the Amundsen Tower's own
+construction completion and first activation — Amundsen Station is where the Tower actually stood, not a
+receiving city reacting to news of it from elsewhere.)*
 
 ---
 
@@ -131,3 +134,96 @@ return simultaneously from every direction at once, then returned to the demandi
 them. The specific decision to pause for it, made under genuine pressure not to, is remembered, within the
 station's own informal culture, as exactly the kind of small, deliberate choice that kept the observance
 alive across generations of otherwise purely functional rotations.
+
+---
+
+## Batch 2 — The Amundsen Tower's Own Construction Completion and First Activation
+
+### The Winding Nobody Was Certain Would Hold
+
+*(Shortly before completion.)* The flywheel mechanism at the core of the Tower's own energy-regulation
+function — its central, established purpose alongside bulk material export, passenger transport riding
+alongside both as a lesser use — reached its final calibration stretch with engineering staff genuinely
+uncertain whether the mechanism's own theoretical design would perform at the scale the completed structure
+actually required (`Amundsen_Station_Full_Extrapolation.md` Section II).
+
+Crews running the final test sequences, per what's preserved of the station's own operational record from the
+period, worked through repeated partial-load trials rather than committing to a single full-scale test — each
+trial calibrated slightly further than the last, a deliberately incremental approach to a mechanism whose
+own failure, at this stage, would have meant rebuilding a core component inside a structure already otherwise
+essentially complete. The mechanism held through every incremental trial. Nobody on the crew treated the
+eventual full-scale readiness as a foregone conclusion until the numbers actually confirmed it.
+
+### The Cable and the Relay, Sharing a Foundation
+
+*(Shortly before completion.)* The tower's own tether infrastructure — the space elevator cable running from
+ground station to orbital counterweight — and the Arcanet relay's physical switching hardware were installed
+in the same facility, sharing infrastructure from the ground up rather than being built as two separate
+systems that merely happened to sit near each other (`Amundsen_Station_Full_Extrapolation.md` Section I).
+
+Installation crews, per what's remembered of the final construction stretch, coordinated the two systems'
+own competing space and access requirements directly rather than treating them as unrelated projects
+scheduled independently — the relay's own switching hardware installed around and alongside the tether
+anchoring work, engineers from both systems working the same physical space during the same construction
+window. The shared installation that resulted, later a defining fact about how completely the Split Brain
+would eventually take both systems down together, began here simply as a practical construction decision:
+one facility, two critical systems, built at the same time in the same place because building them separately
+would have cost more than it saved.
+
+### The Mediation Space's Own Last Ordinary Use Before Everything Changed
+
+*(Shortly before completion.)* The station's dedicated neutral mediation space — already established as the
+site inter-subnet disputes too difficult for any single subnet to resolve were brought for impartial
+mediation — hosted a specific session late in the Tower's construction addressing exactly the kind of dispute
+its own imminent completion was about to make considerably more urgent: how the six subnets would actually
+coordinate priority once a single relay connected all of them at once.
+
+Delegates working the session, per what's preserved of the mediation space's own records, reached a
+provisional framework rather than a final settlement — genuine agreement on process, real disagreement still
+unresolved on specifics, the same incremental pattern the space's own established history shows for its most
+consequential cases. Whatever the delegates actually settled that session became, once the Tower activated,
+the operating framework already in place rather than something worked out from scratch under the added
+pressure of a system already running.
+
+### The First Signal Sent Through All Six at Once
+
+*(Shortly after activation.)* The Arcanet relay's own first activation carried a message from Amundsen Station
+outward to every one of Tepenia's six subnets simultaneously — the literal first moment the whole country was
+connected through a single relay node, rather than the fragmented intra-subnet-only connectivity that had
+existed until that specific moment (`Amundsen_Station_Full_Extrapolation.md` Section I).
+
+The message itself, per what's preserved of the occasion, was deliberately unceremonial — a routine
+confirmation of successful activation rather than any address or formal announcement, consistent with the
+station's own established preference for functional record over performance. Crew present for the activation,
+per what's remembered of it, describe the moment less as celebration than as held breath finally released —
+the same incremental, trial-by-trial caution that had governed the flywheel's own final calibration extended
+to the relay's own first live activation, tested rather than assumed to simply work.
+
+### The First Cargo the Tower Actually Moved
+
+*(Shortly after activation.)* The Tower's own bulk material export function — established as co-primary
+alongside energy regulation, ahead of passenger transport — carried its first genuine cargo load shortly after
+activation, a test of the mechanism's own practical capacity rather than merely its theoretical design
+(`Amundsen_Station_Full_Extrapolation.md` Section II).
+
+Dispatch crews, per what's preserved of the operational record, tracked the shipment's own full transit
+closely, treating the first genuine load as a continuation of the same incremental verification discipline
+that had governed the flywheel's own earlier test sequences — a real shipment, but one deliberately sized and
+monitored as though it might still reveal a problem the smaller calibration trials hadn't caught. It didn't.
+The shipment completed exactly as designed, the first of what became, over the Tower's own operational years,
+the primary function the whole facility actually existed to perform.
+
+### The Framework the Mediation Space Didn't Have to Rebuild
+
+*(Shortly after activation.)* The provisional inter-subnet coordination framework worked out in the mediation
+space shortly before the Tower's own completion was put to its first genuine live test once the relay actually
+activated — six subnets, connected simultaneously for the first time, immediately generating exactly the kind
+of coordination questions the pre-activation session had anticipated.
+
+The framework held, per what's preserved of the station's own records from the period, well enough that no
+emergency session was required in the activation's own immediate aftermath — the provisional agreement reached
+under less pressure, before the system was actually live, proving sufficient to manage the real coordination
+questions that followed. Mediators who'd worked the earlier session, per what's remembered of the aftermath,
+treated this as confirmation of the space's own established value: getting ahead of a dispute before the
+system generating it was actually running had spared everyone the harder task of negotiating a framework while
+already depending on one.

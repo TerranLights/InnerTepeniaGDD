@@ -118,15 +118,21 @@ three existing per-city folders but tracked as one combined regional total below
 
 | Location | Done | Target | Status |
 |---|---|---|---|
-| Amundsen-Scott Station | 6 | 30 (20 min) | In progress |
+| Amundsen-Scott Station | 12 | 30 (20 min) | In progress |
 
 ---
 
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 396** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 84 +
-Mawson subnet 36 + Byrd 12 + Amundsen-Scott Station 6).
+50 + 30). **Current: 402** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 84 +
+Mawson subnet 36 + Byrd 12 + Amundsen-Scott Station 12).
+
+**2026-08-03 — MILESTONE: every city, region, and Amundsen Station now has 12 entries — batch 2 is complete
+nationwide** (Abowasa remains the sole exception, still paused at 6/30 pending its own founding-nation fix).
+Per the tracker's own standing Milestones section, this is the point to stop and notify the developer that an
+"in-nation" connection spec sheet is now buildable, rather than silently continuing into a third round of
+batches.
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
 outer cities, the Tri-Cities region, and Amundsen-Scott Station have completed batch 1 under the finalized
@@ -342,6 +348,10 @@ approaching 12 in later sessions.
   12/30 (Tri-Cities combined 36/75). **Mirny subnet batch 2 complete.** Moved to Janbogo subnet: Janbogo,
   Fort McMurdo, Dumont d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 2 — all now
   12/30. **Janbogo subnet batch 2 complete.** Moved to Mawson subnet: Mawson, Dome Fuji, and Sayowa all
-  completed batch 2 — all now 12/30. **Mawson subnet batch 2 complete.** Next: Byrd's 3rd batch, then
-  Amundsen Station's batch 2 (framed as the Tower's own construction completion and first activation
-  directly).
+  completed batch 2 — all now 12/30. **Mawson subnet batch 2 complete.** Byrd's own 3rd batch (its own
+  before/after-Tower framing, grounded in independent geothermal power and its confirmed Arcanet access node)
+  brought it to 12/50. Amundsen Station's own batch 2 — framed, per direct developer confirmation, around the
+  Tower's own construction completion and first activation directly rather than a receiving city's reaction —
+  brought it to 12/30. **Every city, region, and Amundsen Station nationwide now has 12 entries. Batch 2 is
+  complete nationwide** (Abowasa excepted, paused). Developer notification on the in-nation connection spec
+  sheet milestone is the next step, per the tracker's own Milestones section.
