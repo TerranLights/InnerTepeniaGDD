@@ -2,122 +2,129 @@
 
 **What this is:** independent, non-sequential historical entries — see
 `Background-Lore/Cities/Historical_Vignettes_Progress_Tracker.md` for the full methodology and
-`Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
-No entry below depends on any other; none are required to be chronological. Drawn from `Sejong_Physical_
-Infrastructure_Attributes.md`'s 7 attributes (corrected 2026-08-02 from 8 — see that file's own note) and
-its Cross-Referenced Extrapolation Findings, plus `Sejong_Full_Extrapolation.md` and `Sejong_Cross_Reference_
-Synthesis.md`. **Note:** an earlier draft of this batch included a "Hangul Instruction Halls" entry resting
-on a Korean cultural-continuity claim the First Interwar Period's station-ownership turnover rules out —
-caught by the developer, corrected upstream in the Attributes file, and replaced here. **Batch 1 of many —
-target 30, 6 done as of this batch.**
+`Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on,
+plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuine historical occurrence
+rather than a restated attribute. No entry below depends on any other; none are required to be chronological.
+Drawn primarily from `Sejong_Full_Extrapolation.md` (Tier 1, corrected 2026-08-02 — the Hangul/Korean-
+continuity material removed), `Sejong_Physical_Infrastructure_Attributes.md` and `Specs/Sejong.md` (Tier 2,
+also corrected), and `Sejong_Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many — target 30, 6 done as
+of this batch.**
 
 ---
 
-## Where a Dozen Neighborhoods Actually Met
+## The Agreement Han Ji-woo Almost Couldn't Close
 
-The Boundary Zones (Physical Infrastructure Attribute #1) — architecturally transitional, not hard-walled,
-districts where a dozen absorbed national communities' own neighborhoods physically met — represented a
-genuinely unique civic-planning problem, one no single-nation-founded Tepenian city ever needed to solve.
+The Negotiation Hall is where the original boundary-zone land-use and resource-sharing agreements between
+Sejong and its island neighbors were actually worked out. **Coordinator "Han Ji-woo" *(placeholder, name
+itself flagged for future renaming, not developer-chosen)*** is credited with negotiating the founding
+version of those agreements — a process that, per what's preserved of the negotiation itself, nearly failed
+before it succeeded.
 
-*(An informational sheet on the design problem itself, not a single dispute.)* Per Finding A, the Boundary
-Zones confirm a concrete, radial city geometry — a wheel-like arrangement with each national community
-occupying its own spoke, the Zones themselves forming the seams between them, radiating outward from the
-shared Lighthouse Spire at the center. Planners working these seams, per what's established about Sejong's
-own founding-era negotiations, deliberately avoided hard walls or clear-cut borders between communities —
-architecture designed to blur rather than sharpen the lines between a dozen distinct founding populations
-sharing one small island, a genuinely different planning philosophy than drawing firm boundaries and hoping
-coexistence followed. Whether the transitional design succeeded in producing genuine social blending, or
-simply avoided the worst friction points, isn't something the architecture alone can answer — but the
-deliberate choice to build it this way, rather than any harder-edged alternative, is itself a real historical
-fact about how Sejong's founders chose to handle a problem no other city faced at this scale.
-
----
-
-## The Hall Where Everyone Had to Talk to Everyone
-
-The Negotiation Hall (attribute #2) is where the original boundary-zone land-use and resource-sharing
-agreements between Sejong and its island neighbors were actually worked out — a formal institution no
-single-nation-founded city anywhere else in Tepenia ever needed to build.
-
-*(An informational sheet on the Hall's own founding-era function, not a single negotiation.)* Per Finding B,
-the Hall is the concrete site of what's established as Sejong's own constant, informal, many-sided diplomatic
-coordination — a genuinely different kind of institution from any single-community city's own governance,
-since agreements here routinely involved more than two parties at once, with resource-sharing and land-use
-questions that a simple bilateral arrangement could never fully resolve. Delegates representing each of the
-dozen founding communities, per what's established about the Hall's own working culture, would have needed to
-negotiate not just with Sejong's own central administration but with each other directly — a founding-era
-diplomatic skill set that, over generations, plausibly became as much a part of Sejong's own civic character
-as any single community's own inherited traditions.
+Representatives from several of King George Island's dozen founding communities, per what's remembered of the
+talks, reached a genuine impasse over how newly claimed land near the island's own limited favorable ground
+should be allocated — the same underlying tension later Cross-Reference material identifies as never fully
+resolved even after practical coexistence was achieved. Han Ji-woo's own proposal, after earlier attempts at a
+fixed allocation formula collapsed under competing claims, was procedural rather than substantive: rather than
+dividing the ground itself, the agreement would establish a standing negotiation process — the Hall itself —
+where allocation questions would be worked out case by case as they arose, indefinitely, rather than settled
+once. Several delegates initially rejected this as no resolution at all, simply deferring the same dispute
+forever. It was adopted anyway, for lack of any formula every community could accept, and the standing
+negotiation process it created became the Hall's own permanent function — Sejong's founding agreement was, in
+the end, an agreement to keep negotiating rather than a settlement of what was actually being negotiated over.
 
 ---
 
-## The One Landmark Nobody Could Claim
+## The Accord Nobody Was Fully Happy With
 
-The Lighthouse Spire (attribute #3) — the tallest structure on King George Island, a combined lighthouse-
-and-signal tower visible from every national community's own footholds — was, per what's established about
-Sejong's own founding-era civic identity, the one shared landmark none of the dozen absorbed communities
-could claim exclusively as their own.
+The Neighbors' Accord marks the anniversary of the original land-use and resource-sharing agreement Han
+Ji-woo's negotiation produced — a holiday about the *practical* success of that agreement, deliberately
+separate from any claim that the underlying social tension it managed was ever fully resolved.
 
-*(An informational sheet on the Spire's own civic function, not a single sighting.)* In a city built from a
-dozen distinct founding populations, each with its own heritage and its own footholds on the island, the
-Spire's own neutrality mattered specifically because it belonged to navigation and safety rather than to any
-single community's own history — a landmark every resident could point to as genuinely, uncontroversially
-theirs, precisely because it was never built to represent any one group's own identity. Residents describe
-the Spire's own symbolic role as something that grew naturally rather than being deliberately assigned —
-simply the one structure tall enough, and functionally necessary enough, for every community on the island to
-orient themselves by, regardless of which of the dozen founding populations they themselves belonged to.
-
----
-
-## An Island With No Bridge to Anywhere
-
-Maritime and aviation-only access infrastructure (attribute #4) set Sejong apart from every bridge-connected
-Peninsula city examined elsewhere in this project — the open water separating King George Island from the
-mainland Peninsula, 160 to 177 kilometers, genuinely unbridgeable by any standard established elsewhere in
-Tepenia.
-
-*(An informational sheet on the isolation itself, not a single crossing.)* Per Finding D, this same isolation
-profile is shared identically by Juan Carlos — both cities connect to the rest of Tepenia exclusively by sea
-and air, no highway link of any kind, confirming that neighbor density, not physical connectivity, is the
-genuinely singular variable separating the two cities' otherwise similar founding conditions. For residents,
-per what's established about daily life under this isolation, travel to the mainland was never a routine,
-casual undertaking the way a highway trip would have been elsewhere — every departure required planning
-around maritime or aviation scheduling, a structural fact of life that shaped Sejong's own relationship to the
-rest of the subnet as something reached deliberately, not simply driven to.
+The Accord's own founding-era signing, per what's established about the observance's own origin, wasn't
+treated as a triumphant civic occasion at the time — delegates from the dozen communities involved signed a
+procedural agreement they'd accepted mainly because no better alternative existed, not because it resolved
+their own underlying competition for the island's limited favorable ground. The observance that grew up
+around the anniversary, generations later, deliberately kept that honest ambivalence rather than smoothing it
+into simple celebration — residents mark the Accord as proof that practical coexistence genuinely works, while
+the same observance implicitly acknowledges that the competitive tension the Accord managed, rather than
+solved, never actually went away. Few Sejong civic holidays carry this specific double character: genuine
+pride in a real, functioning agreement, held alongside honest awareness of exactly what that agreement never
+managed to fix.
 
 ---
 
-## One Harbor for a Dozen Communities
+## The Spire Nobody Would Fund Alone
 
-King George Island Harbor (attribute #5) is the island's single shared maritime entry point — well-used given
-the island's own established position as the most reachable part of Antarctica from South America, and, per
-Finding C, physical evidence that Sejong genuinely absorbed the island's smaller national footholds rather
-than merely tracking them as separate, uncounted settlements.
+The Lighthouse Spire — the tallest structure on King George Island, a combined lighthouse-and-signal tower
+visible from every national community's own footholds — required cross-community cooperation to build at all,
+a genuine construction problem no single-nation-founded city ever needed to solve.
 
-*(An informational sheet on that absorption, not a single arrival.)* A dozen genuinely separate founding
-communities sharing one island could plausibly have developed a dozen separate small ports, each serving its
-own community's own maritime needs independently. That never happened, per what's established about the
-island's own civic development — Sejong's own maritime access consolidated into this single Harbor,
-consistent with genuine civic unification rather than a demographic-tracking convenience alone. Ships arriving
-at King George Island, regardless of which community they were ultimately bound for, passed through the same
-Harbor infrastructure — the island's own maritime gateway never fragmented the way a dozen truly independent
-cities would have required, a concrete confirmation that Sejong's own founding-era consolidation was real,
-physical, and functional, not merely a name applied after the fact.
+Early proposals for the Spire, per what's preserved of the planning record, stalled specifically over funding
+— no single community wanted to bear a disproportionate share of a structure that would ultimately serve, and
+be claimed by, everyone equally. The project moved forward only once a funding formula was worked out through
+the same Negotiation Hall process Han Ji-woo's own agreement had established — proportional contribution tied
+to each community's own population share, adjusted through the Hall's own standing negotiation process rather
+than fixed in advance. Construction itself, once funding was settled, drew skilled labor from multiple
+communities working the same site simultaneously, an unusual arrangement for founding-era Tepenia. The
+Spire's own later status as the one landmark none of the dozen communities could claim exclusively traces
+directly back to this — nobody could claim sole credit for a structure literally built through the same
+cross-community negotiation apparatus that governed everything else about how Sejong actually functioned.
 
 ---
 
-## Building for the Mildest, Wettest Corner of the Country
+## The Crossing That Took Six Days
 
-Structural and drainage engineering calibrated to the mildest, wettest climate of any Palmer subnet city
-(attribute #6) gave Sejong genuine above-freezing summer temperatures and regular rain — distinct engineering
-demands from any drier or more southerly city examined elsewhere in this project.
+Maritime and aviation-only access infrastructure set Sejong apart from every bridge-connected Peninsula city
+— the open water separating King George Island from the mainland Peninsula, 160 to 177 kilometers, genuinely
+unbridgeable by any standard established elsewhere in Tepenia. One early crossing tested exactly how
+consequential that isolation could become.
 
-*(An informational sheet on the engineering itself, not a single storm.)* Builders working King George
-Island, per what's established about the island's own climate, faced problems closer to Palmer City's own
-wet-weather engineering than to the ice-and-snow discipline most of the rest of Tepenia's construction trades
-relied on — drainage capacity, freeze-thaw resistance at building foundations, and genuine rainfall handling
-rather than snow load alone. Combined with the island's own multinational density, this meant Sejong's
-construction crews needed two genuinely uncommon specialties at once — wet-climate engineering and dense,
-boundary-sensitive urban planning — a combination found nowhere else in the Palmer subnet at this particular
-intersection, and one that plausibly made experienced Sejong builders a quietly valuable, exportable skill set
-in their own right.
+A maritime supply run, caught by an unexpected extended weather closure mid-voyage, took six days to complete
+a crossing ordinarily finished well within a single day — the vessel forced to shelter rather than risk the
+open water, with no aviation alternative available during the same closure. Goods aboard that were time-
+sensitive arrived considerably degraded; the delay itself, per what's remembered of the incident, was
+significant enough that Sejong's own civic administration formally reviewed whether the island's maritime-
+only supply model needed a structural alternative. No alternative was found — the same open-water distance
+that made the crossing dangerous also made any fixed connection genuinely impossible by established Tepenian
+engineering standards — and the review concluded, per what's preserved of it, that redundant scheduling and
+larger standing supply buffers were the only realistic mitigation. The incident is still cited, informally,
+whenever Sejong's own relationship to the rest of the subnet needs a concrete illustration: reached
+deliberately, never casually, and vulnerable to exactly the kind of delay that crossing once actually produced.
+
+---
+
+## The Foothold That Joined Last
+
+Sejong's own smaller national footholds — Argentine, Brazilian, Polish, Russian, Czech, Uruguayan — were
+gradually folded into Sejong's own civic structure rather than developing into fully independent settlements
+of their own, each retaining a distinct neighborhood identity within the city rather than a separate
+municipal one. That absorption wasn't simultaneous — one specific foothold held out longer than the rest.
+
+A smaller community on the island's own periphery, per what's preserved of the founding-era administrative
+record, maintained its own separate, informal governance considerably longer than its neighbors, resisting
+formal integration into Sejong's own civic structure even after every other foothold had joined. The holdout
+wasn't ideological, per what's established about the community's own reasoning, but practical — the
+community's own leaders wanted concrete guarantees about resource access and representation within Sejong's
+own governance before formally joining, guarantees the Negotiation Hall's own existing framework eventually
+extended once it was established. The foothold's own formal absorption, once it happened, is remembered as
+Sejong's own civic structure reaching genuine island-wide completeness — the last community to join, joining
+on terms it had actually negotiated for itself rather than simply accepting.
+
+---
+
+## The Foundation That Cracked in Its First Wet Season
+
+Structural and drainage engineering calibrated to King George Island's mildest, wettest climate of any Palmer
+subnet city presented builders with a genuine hybrid problem — drainage capacity and freeze-thaw resistance,
+not snow-load engineering alone. An early foundation failure taught Sejong's own construction trades exactly
+how seriously that problem needed to be taken.
+
+A residential structure built by crews trained primarily in standard Tepenian snow-and-ice construction
+showed foundation cracking within its own first full wet season, liquid precipitation pooling and refreezing
+at the foundation in a pattern the original design had never accounted for — the same freeze-thaw failure
+mode that caught builders elsewhere in the Palmer subnet off guard before drainage-specific standards were
+developed. The structure required early remediation, and Sejong's own construction trades, combining the
+lesson with the genuinely unusual demands of dense, boundary-sensitive multinational urban planning, developed
+engineering standards distinct from ordinary Tepenian practice as a direct result — the specific, costly
+incident that put wet-climate drainage engineering on equal footing with snow-load engineering in how Sejong's
+own builders were subsequently trained.
