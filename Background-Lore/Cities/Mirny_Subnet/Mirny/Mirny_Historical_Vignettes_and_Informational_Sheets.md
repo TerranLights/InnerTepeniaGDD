@@ -6,7 +6,7 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Mirny_Physical_
 Infrastructure_Attributes.md`'s 18 attributes and its Cross-Referenced Extrapolation Findings, plus `Mirny_
 Mega_Init.md`, `Mirny_Full_Extrapolation.md`, and `Mirny_Cross_Reference_Synthesis.md`. Begins the Mirny
-subnet. **Batch 1 of many — target 30, 6 done as of this batch.**
+subnet. **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -157,3 +157,95 @@ kitchens sharing one roof and one hall, each cooked and run by people who actual
 compromise held, and outlasted the resource shortage that had originally forced the question — becoming,
 by the time later attributes like #18 were being cataloged as simply how Mirny operates, no longer
 remembered as a compromise at all.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Query the Guildhall Had Never Received From This Far Away
+
+*(Shortly before the Tower's completion.)* The Windwright Guildhall — already Mirny's own acknowledged center
+of extreme-wind structural expertise, tested against the katabatic regime rather than any theoretical model —
+received, late in the Tower's construction, a formal engineering query from whoever was overseeing the
+project's own final stretch, asking specifically how a structure of unprecedented scale ought to be engineered
+against sustained, severe wind loading (`Mirny_Full_Extrapolation.md` Section VI; Physical Infrastructure
+Attribute #3).
+
+Senior Windwrights, per what's remembered of the exchange, treated the query the same way the Guildhall had
+always treated any genuine structural question — competence-based, unmythologized, answered with the same
+tested discipline Bellandry's own rounded-ring redesign had first proved out generations earlier. No Windwright
+traveled to the Tower site itself this time; the query was answered by written protocol, adapted from the same
+principles that governed Mirny's own windbreak ring, sent onward without any particular sense that the request
+was as consequential as it clearly was.
+
+### The Vaults Tested Against a Network That Didn't Exist Yet
+
+*(Shortly before the Tower's completion.)* The Relay Hardware Vaults — carrying, as they always had, the
+single point of failure for Arcanet contact across Zhongshan, Casey, Davis, Vostok, and Kunlun at once — were
+run through a deliberate stress test late in the Tower's construction, checking whether the compromise
+redundancy Marchenko had once fought to expand could handle a connection to something considerably larger than
+the subnet it currently served (`Mirny_Full_Extrapolation.md` Section VIII; Cross-Reference Synthesis Finding
+B).
+
+The test, per what's preserved of the internal planning record, confirmed what Marchenko herself had argued
+for generations earlier without ever fully winning the point — the existing hardware could carry the additional
+load, but with less margin than the technicians running the test would have preferred. The Vaults weren't
+rebuilt or expanded before the connection came. They simply held, the same partial compromise system Marchenko
+had once settled for, asked to do slightly more than it had ever been asked to do before.
+
+### The Shipment the Quarry Crews Never Got a Name For
+
+*(Shortly before the Tower's completion.)* The quarry-to-yard supply chain, already established as feeding
+both eastern-highway construction and Sinheung's own chamber-fabrication needs, absorbed one additional standing
+order late in the Tower's construction — raw material specified to tolerances the yard's own processing crews
+found unusually exacting, shipped onward without the ordinary destination information that normally
+accompanied a Sinheung-bound order (`Mirny_Full_Extrapolation.md`, quarry supply-chain material).
+
+Crews handling the order, per what's remembered of it, applied the same seam-flagging protocol the Sinheung ore
+dispute had produced generations earlier — checking consistency carefully, since nothing about the order's
+own unusual precision requirements suggested this was a shipment where an inconsistent seam would go unnoticed.
+The order shipped clean. Nobody at the quarry face ever learned exactly what it became.
+
+### The First Word That Reached All Five Cities at Once, From Somewhere Else
+
+*(Shortly after the Tower's completion.)* The Relay Hardware Vaults, for the first time since their own
+founding-era construction, carried traffic that hadn't originated anywhere in the Mirny subnet at all —
+messages arriving from across the newly unified Arcanet and passing straight through Mirny's own relay
+infrastructure to reach Zhongshan, Casey, Davis, Vostok, and Kunlun simultaneously (`Mirny_Full_Extrapolation.md`
+Section VIII).
+
+Technicians on duty, per what's recalled of the moment, described it as the strangest kind of vindication —
+the same hardware Marchenko had once fought to make more resilient than her own superiors thought necessary
+now carrying weight for a connection nobody at the Vaults' founding could have specifically imagined. The
+compromise system held. It had never been asked to do quite this much before, and it did it anyway, the same
+way it had done everything else since the day it was built smaller than it should have been.
+
+### The Solstice Watched by More People Than Ever Stood on the Ring
+
+*(Shortly after the Tower's completion.)* The solstice observation tradition — requiring no infrastructure,
+no working relay, nothing the war or anything else could take away, just people and a clear sightline along
+Mirny's own windbreak ring — was, for the first time, described in real time to residents of other subnets
+watching their own horizons at the exact same moment, the shared instant connected for the first time by the
+Tower's own newly completed relay (`Mirny_Full_Extrapolation.md` Section III).
+
+Residents gathered on the ring that year, per what's remembered of it, found the knowledge that other cities
+were watching their own version of the same sky at the same moment added something to a tradition that had
+never needed an audience to matter. Nothing about the observance itself changed — the sun still grazed the same
+horizon it always had — but for one specific solstice, Mirny's own oldest and least breakable tradition was,
+for the first time, not only its own.
+
+### The Apprentice Who Asked to Train From Somewhere Else Entirely
+
+*(Shortly after the Tower's completion.)* The Windwright Guildhall received, for the first time, a genuine
+inquiry from someone outside Mirny's own subnet entirely — a young engineer, aware of the Guildhall's own
+reputation only because word of the Tower query had traveled further than Mirny itself ever intended, asking
+whether the Guildhall's competence-based trial system accepted apprentices from elsewhere (`Mirny_Full_
+Extrapolation.md` Section VI; Community Infrastructure).
+
+The Guildhall's own senior Windwrights, per what's recalled of the response, treated the request with the same
+plain, unmythologized practicality the trials themselves were built on — no special ceremony, no acknowledgment
+that this was the first time such a request had ever arrived, simply an answer describing what the trial
+actually involved and what it would take to pass it. Whether the apprentice ever made the journey isn't part
+of what's currently preserved. What the inquiry itself confirmed, for the first time, was that a guild built
+entirely around a wind nobody outside Mirny had ever needed to argue with had become, to at least one stranger
+elsewhere in the country, worth learning from directly.
