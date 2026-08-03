@@ -8,8 +8,8 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period. Part
 of the Tri-Cities region (combined with Zhongshan and Sinheung toward a shared 75-entry target). Drawn
 primarily from `Shirayuki_Full_Extrapolation.md` (Tier 1), `Shirayuki_Physical_Infrastructure_Attributes.md`
-and `Specs/Shirayuki.md` (Tier 2), and `Shirayuki_Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many —
-target shared with Zhongshan and Sinheung, 6 done as of this batch.**
+and `Specs/Shirayuki.md` (Tier 2), and `Shirayuki_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
+target shared with Zhongshan and Sinheung, 12 done as of this batch.**
 
 ---
 
@@ -124,3 +124,94 @@ without incident. The successful, if improvised, accommodation of that first out
 concrete proof that justified further, more deliberate expansion of the school's own capacity — the
 beginning of the nationwide draw the institution eventually became known for, traced back to one small,
 improvised accommodation for students nobody had originally planned space for.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Gallery That Hosted People Who'd Never Meant to Stop
+
+*(Shortly before the Tower's completion.)* Shirayuki's own converted gallery spaces, built from the same
+former Bharati Station research labs the founding community had repurposed generations earlier, hosted an
+unusually steady stream of travelers late in the Tower's construction — crews rotating through the Larsemann
+Hills cluster on their way toward or away from the project, drawn in by the same clean, art-filled downtown
+that already drew visitors from across the subnet (`Shirayuki_Full_Extrapolation.md` Section IV).
+
+Gallery staff, per what's remembered of the period, noted the visitors' own distinctive exhaustion without
+needing to ask where they'd come from — travelers who lingered longer than an ordinary passerby might, in
+rooms built for exactly the kind of unhurried looking Shirayuki's whole civic identity already prized. Nothing
+about the galleries themselves changed to accommodate the traffic. The city's own established gift for making
+strangers feel unhurried simply did, for a season, more of what it had always done.
+
+### The Enrollment the School Wasn't Expecting From That Direction
+
+*(Shortly before the Tower's completion.)* Shirayuki's school system, already drawing students from across the
+subnet since the improvised first outside cohort generations earlier, received a specific, unusual wave of
+enrollment inquiries late in the Tower's construction — families relocating temporarily to be nearer relatives
+working the project, seeking schooling for children who'd otherwise have gone without formal enrollment during
+the move (`Shirayuki_Full_Extrapolation.md`, school material).
+
+The administration, per what's recalled of the response, handled the inquiries the same improvised way the
+very first outside cohort had once been accommodated — makeshift arrangements within existing capacity rather
+than turning families away for arriving outside the ordinary enrollment cycle. Most of the students left again
+once their own families' circumstances changed. The precedent for accommodating irregular, short-notice
+enrollment, already established once, simply held under a new kind of irregular circumstance nobody had
+specifically anticipated.
+
+### The Collection Ashiato Never Formally Named
+
+*(Shortly before the Tower's completion.)* A specific run of garments within the city's own Ashiato tradition —
+hand-altered, deliberately imperfect, worn as a mark of authenticity rather than a flaw — began incorporating
+salvaged material scraps circulating through the cluster's own logistics network late in the Tower's
+construction, offcuts and remnants from unrelated industrial shipments passing through the tri-junction node
+(`Shirayuki_Full_Extrapolation.md` Section VII).
+
+The specific garments never formed a named sub-movement the way Ishihara's own original documentation had once
+crystallized Ashiato itself — per what's remembered of the period, the salvaged-material pieces were simply
+absorbed into the wider tradition's own established aesthetic, one more source of found material among many an
+already-eclectic style had never restricted itself to. What later Ashiato historians noted, informally, was
+simply that the pieces from that particular stretch tended to include material nobody could quite identify the
+industrial origin of.
+
+### The First Broadcast Glacier-Pop Ever Received Back
+
+*(Shortly after the Tower's completion.)* Glacier-pop, performed as it always had been in informal, friends-
+and-neighbors spaces rather than dedicated venues, was carried for the first time to listeners elsewhere in the
+newly connected country — and, unlike most cultural exports this session's entries have traced, Shirayuki's own
+performers received genuine feedback back, rather than simply broadcasting outward (`Shirayuki_Full_
+Extrapolation.md` Section VII).
+
+Musicians who'd built the genre out of scattered personal experimentation, per what's recalled of the reaction,
+found the outside response oddly validating in a way local recognition alone had never quite been — strangers
+elsewhere in the country independently identifying the same fusion qualities local audiences had once needed
+an entire evening of consecutive sets to first recognize as a shared sound. Nothing about how the genre was
+performed changed. For the first time, though, the informal spaces Glacier-pop had always belonged to had an
+audience considerably larger than the room.
+
+### The Trail Ashiato Left Somewhere It Had Never Walked
+
+*(Shortly after the Tower's completion.)* The Ashiato fashion tradition — hand-altered garments worn as a
+personally-left trail rather than a look bought ready-made — reached, for the first time, residents of cities
+whose own local fashion cultures had developed in complete isolation from Shirayuki's own, connected now
+through the same relay carrying everything else nationally (`Shirayuki_Full_Extrapolation.md` Section VII).
+
+Ishihara's own collective, per what's remembered of the response, didn't treat the outside attention as reason
+to formalize the movement any further than her own original documentation already had — Ashiato had never been
+built to travel, only to be worn honestly by whoever was actually wearing it. Whether anyone outside Shirayuki
+ever tried to replicate the style isn't part of what the city itself preserved. What mattered locally was
+simpler: a movement born from naming what residents were already doing had, for the first time, been seen
+doing it by people who'd never worn a single altered stitch themselves.
+
+### The Diplomatic Origin Explained to People Who'd Never Heard of Jeju-do
+
+*(Shortly after the Tower's completion.)* Word of Shirayuki's own founding — the Jeju-do allocation that gave
+Japan the unoccupied Bharati site, the quiet diplomatic origin the city's civic identity had always carried
+layered awareness of rather than loud pride — reached, for the first time, residents of cities with no
+connection to that specific diplomatic history at all (`Shirayuki_Full_Extrapolation.md` Section II; Section
+VI).
+
+Residents explaining the city's own origin to genuinely unfamiliar outsiders, per what's recalled of the
+exchange, found themselves narrating a story they'd always simply known rather than one they'd ever needed to
+tell in full before — Tashiro's own low-friction negotiation, the site nobody had seriously contested, the
+gradual multi-generational warming into the cluster's present-day closeness. None of it was news to Shirayuki
+itself. For listeners elsewhere in the country, encountering the story for the first time, it was.

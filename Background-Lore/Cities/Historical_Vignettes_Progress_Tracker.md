@@ -85,8 +85,8 @@ three existing per-city folders but tracked as one combined regional total below
 | Vostok | 12 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 12 | — | In progress |
 | Sinheung *(Tri-Cities)* | 12 | — | In progress |
-| Shirayuki *(Tri-Cities)* | 6 | — | In progress |
-| **Tri-Cities combined** | **30** | **75** | **In progress** |
+| Shirayuki *(Tri-Cities)* | 12 | — | In progress |
+| **Tri-Cities combined** | **36** | **75** | **In progress** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 324** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 90 + Janbogo subnet 42 +
+50 + 30). **Current: 330** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 42 +
 Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
@@ -337,4 +337,6 @@ approaching 12 in later sessions.
   "Founding-Adjacent," The Message Whitcombe-Reyes Received the Same Day It Was Sent, The Supply Run the
   Halls No Longer Had to Plan Around, The Question Another City's Caregivers Asked About the Compact) — now
   12/30. Continued through Rothera, Marambio, Port Lockroy, Sejong, Signy, and Juan Carlos — all now 12/30
-  (Palmer City remains 12/50). **Palmer subnet batch 2 complete.** Next: Mirny subnet batch 2.
+  (Palmer City remains 12/50). **Palmer subnet batch 2 complete.** Moved to Mirny subnet per the rotation:
+  Mirny, Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and Shirayuki all completed batch 2 — all now
+  12/30 (Tri-Cities combined 36/75). **Mirny subnet batch 2 complete.** Next: Janbogo subnet batch 2.
