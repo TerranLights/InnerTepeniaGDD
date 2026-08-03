@@ -80,8 +80,8 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mirny | 6 | 30 | In progress |
 | Casey | 6 | 30 | In progress |
-| Davis | 0 | 30 | Not started |
-| Kunlun | 0 | 30 | Not started |
+| Davis | 6 | 30 | In progress |
+| Kunlun | 6 | 30 | In progress |
 | Vostok | 0 | 30 | Not started |
 | Zhongshan *(Tri-Cities)* | 0 | — | Not started |
 | Sinheung *(Tri-Cities)* | 0 | — | Not started |
