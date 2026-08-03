@@ -106,7 +106,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mawson | 18 | 30 | In progress |
 | Dome Fuji | 18 | 30 | In progress |
-| Sayowa | 12 | 30 | In progress |
+| Sayowa | 18 | 30 | In progress |
 
 ### Byrd Subnet (target: 50, 1 city)
 
@@ -125,8 +125,11 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 582** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
-Mawson subnet 36 + Byrd 12 + Amundsen-Scott Station 12).
+50 + 30). **Current: 600** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
+Mawson subnet 54 + Byrd 12 + Amundsen-Scott Station 12).
+
+**2026-08-03 — Mawson subnet batch 3 complete.** Mawson, Dome Fuji, and Sayowa all completed batch 3 — all
+now 18/30. Next: Byrd's 4th batch.
 
 **2026-08-03 — Halley subnet batch 3 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
 Elisabeth, and Lazar all completed batch 3 (connections-only occurrences, per `City_National_Connections.md`)

@@ -10,7 +10,11 @@ concluding the Mawson subnet's first pass. **Note:** `Sayowa_Full_Extrapolation.
 Notable Figures are both explicitly present-day (post-war) roles, so entries below draw on fresh founding-era
 material instead. Drawn primarily from `Sayowa_Full_Extrapolation.md` (Tier 1), `Sayowa_Physical_
 Infrastructure_Attributes.md` and `Specs/Sayowa.md` (Tier 2), and `Sayowa_Cross_Reference_Synthesis.md`
-(Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
+(Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer
+instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
+once full national digital connectivity existed, each grounded in a specific named city-to-city connection
+from that file (Mawson, Dome Fuji, Shirayuki, Princess Elisabeth, Halley subnet generally) distinct from
+batch 2's own entries — completes the Mawson subnet's batch 3 pass. 18 done as of batch 3.**
 
 ---
 
@@ -214,3 +218,88 @@ generations of correspondence built around expecting real delay — the same ord
 now arriving practically as they were written. The relationship itself didn't change; it had never needed
 speed to stay genuine. What changed was simply that a connection two families had maintained patiently across
 considerable distance for generations no longer had to wait on that distance at all.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Three-Way Session Sayowa Finally Got to Attend in Person
+
+Following Mawson's own first three-way hub coordination session, Sayowa's own Junction coordinators — unlike
+Dome Fuji, genuinely reachable in real time — participated directly for the first time in a coordination
+conversation that had previously always run as two separate bilateral relationships both routed through
+Mawson.
+
+The direct three-way format, per what's preserved of the session, let Sayowa's own coordinators raise a
+Junction-specific capacity concern directly to Mawson and Dome Fuji's own representatives at once, rather than
+relaying it through Mawson alone and hoping the concern reached Dome Fuji intact. The concern was resolved
+within the same session — considerably faster than the sequential, city-by-city correspondence the old
+bilateral structure had always required. It marked the first time all three hub cities had ever actually met
+as three parties rather than two overlapping pairs.
+
+### The Confirmation Dome Fuji Finally Sent the Same Day
+
+Following the first same-day confirmation Dome Fuji ever received from Sayowa, the reciprocal direction
+followed once Dome Fuji's own logistics staff, working within the station's own genuine Arcanet limitations,
+managed to send an acknowledgment back to Sayowa within the same day for the first time in the relationship's
+own working history — a genuine achievement given how much slower Dome Fuji's own outbound correspondence
+usually ran.
+
+Sayowa's own overland logistics office, per what's preserved of receiving it, treated the fast turnaround as
+worth noting specifically because it was so uncharacteristic — proof that Dome Fuji's own station, when a
+request genuinely mattered, could occasionally move faster than its own usual isolation suggested. The
+exchange didn't change the underlying limitation. It confirmed, for the first time, that the limitation was
+about capacity rather than complete inability.
+
+### The Institutional Comparison Sayowa's Own Historians Helped Draft
+
+Following the joint institutional-heritage comparison between Sayowa's JARE heritage and Shirayuki's own
+Bharati-Station founding, Sayowa's own civic historians took the lead on drafting a formal written account of
+the comparison — the first time either city's own civic history had been documented specifically as a
+comparative study rather than a standalone institutional record.
+
+The document, compiled once sustained contact let Sayowa's own historians work directly with Shirayuki's
+counterparts, became something Sayowa's own civic education program began using informally — a concrete
+illustration, for residents curious about the city's own Japanese institutional character, of how differently
+a comparable heritage could be carried forward elsewhere. Neither city's own founding character changed as a
+result. Both gained, for the first time, a formally documented point of comparison neither had previously had
+reason to produce.
+
+### The Toast That Finally Included a Third City
+
+Following the coordinated toast raised simultaneously between Princess Elisabeth and Sayowa, a specific
+follow-up extended the gesture to include Shirayuki's own Japanese-heritage community for the first time —
+three cities' own separate observances briefly synchronized together, rather than the original two-city
+coordination alone.
+
+The three-way toast, arranged once direct contact let all three communities agree on a shared moment, didn't
+become a standing annual tradition immediately — a single, deliberate occasion rather than a new institution.
+Sayowa's own residents, per what's preserved of the occasion, found the expanded gesture meaningful precisely
+because it had never been possible before: three geographically distant pieces of the same broader heritage,
+marking the same moment together for the first time in any of their own recorded histories.
+
+### The Junction Relevance Every Halley Subnet City Finally Confirmed Directly
+
+Following the general recognition that the Sayowa Junction held indirect logistics relevance to every Halley
+subnet city, not only Princess Elisabeth, Sayowa's own Junction coordinators sent a direct inquiry to each
+Halley subnet city individually, asking whether any had specific routing needs the Junction's own scheduling
+had never accounted for.
+
+The responses, gathered once direct contact let every city actually answer individually rather than the
+relevance simply being assumed, surfaced two genuine, previously unaddressed routing requests — modest
+adjustments Sayowa's own Junction coordinators incorporated into the standing schedule once they were
+actually asked for. It marked the first time the Junction's own national relevance had been confirmed by
+direct inquiry rather than inferred from the highway map alone.
+
+### The Overland Request Abowasa Sent Through the Same Corridor
+
+Following Abowasa's own established downstream position on the Hwy 7 supply corridor Sayowa's own coordinators
+generally served, a specific direct request reached Sayowa from Abowasa for the first time — routing
+information for a shipment that needed to pass through the Sayowa Junction on its way toward the Mawson
+subnet, rather than the reverse direction the corridor more typically carried.
+
+Sayowa's own coordinators, per what's preserved of the request, provided the routing information exactly as
+they would for any other city's own inquiry — the same practical, unshowy competence the Junction had always
+applied to its own coordination role. The specific shipment isn't preserved in detail. What mattered, for the
+first time, was that a genuinely small Halley subnet city could reach the Junction directly with a request
+running in an unusual direction, and receive the same competent handling any larger city's own request would.
