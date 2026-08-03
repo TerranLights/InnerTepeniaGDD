@@ -52,7 +52,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Halley | 18 | 30 | In progress |
+| Halley | 24 | 30 | In progress |
 | Neumayer | 18 | 30 | In progress |
 | Belgrano | 18 | 30 | In progress |
 | Troll | 18 | 30 | In progress |
@@ -127,6 +127,22 @@ three existing per-city folders but tracked as one combined regional total below
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
 50 + 30). **Current: 612** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
 Mawson subnet 54 + Byrd 24 + Amundsen-Scott Station 12).
+
+**2026-08-03 — Batch 4 framing, developer-directed: subnet-bounded digital communication vs. cross-subnet
+traditional means.** Every city's batch 4 gets exactly 6 new entries set anywhere in the pre-Tower Second
+Interwar Period (not restricted to "shortly before completion" the way batch 2's before-half was), each a
+genuine historical occurrence resting on the actual pre-Tower communication structure: direct digital contact
+existed *only* within a city's own subnet (subnet-internal Arcanet), while anything reaching a city in another
+subnet required trucking, postal service, or physically traveling there in person. Entries draw on
+`City_National_Connections.md`'s already-identified connections, split by whether the other city sits in the
+same subnet (digital-capable) or a different one (traditional-means-only) — cities whose own established
+connections are entirely intra-subnet (e.g., Halley) lean into that as a genuine character point (near-total
+physical/traditional isolation from the rest of the country) rather than inventing an unearned cross-subnet
+tie. Where natural, an entry combines both — subnet-internal digital coordination culminating in a physical
+shipment, letter, or trip crossing into another subnet — per direct developer instruction that this is the
+ideal but not a requirement. Applies to all 35 outer cities + Tri-Cities + Byrd (its own 5th batch) —
+Amundsen Station is excluded this round for the same reason as batch 3 (city-to-city framing, already has its
+own dedicated batch). Abowasa stays paused/excluded until its founding-nation fix lands.
 
 **2026-08-03 — Mawson subnet batch 3 complete.** Mawson, Dome Fuji, and Sayowa all completed batch 3 — all
 now 18/30.

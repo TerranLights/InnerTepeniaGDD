@@ -10,8 +10,12 @@ direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 
 direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
 only have happened once full national digital connectivity existed — not merely faster versions of things
 that already happened, but genuinely new possibilities the Tower's completion opened up, each grounded in a
-specific city-to-city connection from that file and in Halley's own established struggles. Target 30, 18
-done as of this batch.**
+specific city-to-city connection from that file and in Halley's own established struggles. Batch 4, per
+direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication
+structure, where direct digital contact existed only within a city's own subnet and anything reaching another
+subnet required trucking, postal service, or physically traveling there. Halley's own established connections
+are entirely intra-subnet, which becomes a genuine character point here — near-total physical/traditional
+isolation from the rest of the country outside the Halley subnet. Target 30, 24 done as of this batch.**
 
 ---
 
@@ -353,3 +357,83 @@ had no way to learn its own destination had become unviable until arriving to fi
 redirected convoy reached Halley on schedule. The incident became, informally, the first concrete proof that
 Halley's own resupply chain no longer had to treat a routing decision as final the moment a convoy left the
 dock.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Standing Line to Sanay
+
+Long before any relay spanned the whole country, Halley's own dispatch office kept an always-open Arcanet
+channel to Sanay's nexus — shipping-passage status, relocation scheduling, ordinary day-to-day coordination
+that had simply always been instant within the Halley subnet, unremarkable enough that nobody thought to
+describe it as a privilege.
+
+That instancy was never universal, and residents who'd tried reaching anyone outside the subnet knew it best.
+A dispatcher who once mentioned, almost offhand, that she could "just ask Sanay right now" about a passage
+closure was met with genuine surprise from a visiting Belgrano trader who'd spent three weeks waiting on a
+letter from Fort McMurdo — the same casual instancy Halley took for granted didn't exist a single subnet over,
+a gap neither city had any way to close.
+
+### What Rode Along With Troll's Cargo
+
+Halley had no aviation infrastructure of its own and no direct route to anywhere beyond the Halley subnet —
+anything Halley needed to send outside it had to travel through Troll's own aircraft first, riding alongside
+whatever freight was already bound for Dome Fuji or Sinheung on Troll's established supply runs.
+
+One engineer, corresponding with a counterpart at a manufacturing city she'd never met in person, learned to
+time her own letters around Troll's own flight schedule rather than the postal service's — a request routed
+through the subnet's own instant Arcanet line to Troll asking a favor ("room for one more envelope") that
+Troll's own crews, per what's remembered of the arrangement, honored for years without ever formalizing it.
+The letters arrived weeks apart rather than instantly, riding cargo space Halley itself had no independent way
+to secure.
+
+### The Night Sanay's Nexus Carried Three Cities at Once
+
+A severe storm bearing down on the Weddell Sea coast put Halley, Belgrano, and Sanay in real-time contact with
+each other for the length of the whole event — passage conditions, relocation-crew status, and equipment needs
+relayed instantly between all three, coordination that would have been impossible a single subnet over, where
+the same storm's progress could only have reached another city by whatever slower word eventually traveled.
+
+The three cities' own dispatchers, per what's preserved of the exchange, effectively ran a single shared
+response for the night rather than three separate ones — equipment Halley didn't have enough of, confirmed
+and redirected from Belgrano's own stock within minutes rather than the days a physical request would have
+taken. Nothing about the storm itself was unusual. What was new was that three cities could weather it as one.
+
+### The Delegation That Took the Long Way
+
+A formal visit to a city outside the Halley subnet — arranged, per what's preserved of the occasion, to discuss
+a matter neither side wanted to leave to written correspondence alone — required travelers to physically make
+the trip themselves, since no channel existed to simply speak with the other city directly.
+
+The delegation left Halley overland toward Troll, then continued by air on one of Troll's own established
+supply routes, a journey measured in days rather than the instant conversation the same delegation could have
+had with Neumayer or Sanay without leaving home. What was actually discussed isn't preserved in detail. What
+stuck in Halley's own civic memory afterward was simply how strange the whole undertaking felt — traveling in
+person to have a conversation that, within the subnet, would have taken minutes.
+
+### The Order Nobody Could Confirm Until It Arrived
+
+A specialized part ordered from a city outside the Halley subnet — necessary, per what's preserved of the
+incident, for equipment none of Halley's own workshops could fabricate — left its origin city with no way for
+Halley to confirm it had actually shipped, let alone track its progress, until the part itself physically
+showed up.
+
+Halley's own engineers, per what's remembered of the wait, spent weeks assuming the order had gone through
+correctly simply because no cancellation notice had arrived — an absence of bad news standing in for
+confirmation, the only certainty available under a system where the alternative, asking Sanay or Neumayer the
+same question, would have gotten an answer in seconds. The part arrived intact, eventually. The uncertainty in
+between became, informally, a standing complaint about doing business with anyone beyond the subnet at all.
+
+### The Manifest Sanay Wrote Twice
+
+A shipment bound for a city outside the Halley subnet required Sanay's own dispatchers to coordinate directly
+with Halley over the subnet's instant line — confirming cargo weight, packing specifications, and departure
+timing in a single real-time exchange — before that same shipment left Sanay's own docks on a much slower
+journey it would spend the following weeks completing.
+
+The manifest itself, per what's preserved of the process, existed in two forms: one drafted and finalized in
+minutes over the subnet's own Arcanet line between Halley and Sanay, and a second, physical copy that
+traveled with the freight itself onward through Troll's aviation network and beyond, since nothing digital
+connected Sanay's own dispatch office to wherever the shipment was actually headed. The planning was instant.
+The shipment itself never was.
