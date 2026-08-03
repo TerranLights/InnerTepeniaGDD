@@ -8,7 +8,11 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period,
 concluding the Janbogo subnet's first pass. Drawn primarily from `Denison_Full_Extrapolation.md` (Tier 1),
 `Denison_Physical_Infrastructure_Attributes.md` and `Specs/Denison.md` (Tier 2), and `Denison_Cross_
-Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
+Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per
+direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
+only have happened once full national digital connectivity existed, each grounded in a specific named
+city-to-city connection from that file (Sinheung, Byrd, Rothera, Mirny, Dumont d'Urville). 18 done as of
+batch 3 — completes the Janbogo subnet's batch 3 pass.**
 
 ---
 
@@ -209,3 +213,90 @@ convince a single skeptical newcomer standing right there in the city now offere
 them on faith entirely. Whether distant listeners believed the figures the way Denison's own skeptical
 newcomer eventually had to isn't something the recitation could settle from a distance. The numbers were
 recited anyway, exactly as precisely as they'd always been.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Three-Way Comparison Denison Never Got to Finish, Concluded
+
+Following Sinheung's own three-way technical comparison across Denison, Byrd, and Sinheung's own chamber-
+manufacturing methodologies, Denison's own archivists received the completed analysis back for the first
+time — a full account of exactly how their own historical production methods compared to the two currently
+active manufacturers, something Denison's own records had never been able to determine independently after
+the city's own destruction ended its own active participation in the comparison.
+
+Denison's own preserved institutional records, per what's recalled of receiving the completed study, confirmed
+what Suh's own methodical discipline had always suggested but never had reason to formally verify — genuine
+convergent precision-tolerance solutions across all three sites, arrived at independently. It marked the first
+time Denison's own historical manufacturing legacy had been given a proper, documented place in the Cradle
+network's own technical history, rather than remaining an acknowledged but unstudied precedent.
+
+### The Chamber Order Byrd Finally Explained From Its Own End
+
+Following the standing order that had once outpaced Suh's own best production season, a direct follow-up from
+Byrd's own Chamber Works confirmed for the first time exactly where a comparable historical Denison shipment
+had ultimately gone — a specific chamber, manufactured at Denison before the city's own destruction, that had
+ended up installed at a site Byrd's own historical records could trace but Denison's own surviving archive
+never could.
+
+Denison's own preserved records, per what's recalled of the exchange, gained a small but genuine piece of
+closure — confirmation of what one specific piece of the city's own manufacturing legacy had actually become,
+provided by a fellow Cradle manufacturer with no obligation to research the question at all. The exchange
+didn't change anything about Denison's own current status. It gave Denison's own historical record one small,
+concrete answer it had never previously had access to.
+
+### The Wind-Engineering Case Study Rothera Finally Wrote Up in Full
+
+Following the joint technical session comparing Rothera's decentralized siting against Denison's own fused
+structural design, Rothera's own engineers produced a formal written case study of the comparison — the first
+time either city's own wind-engineering philosophy had been documented as a direct, side-by-side comparison
+rather than described independently.
+
+The case study, compiled once sustained contact let Rothera's own engineers draft it with direct input from
+Denison's preserved technical records, became a genuine reference document — cited, per what's preserved of
+its later use, by engineers at other cities facing comparable extreme-wind design decisions. Denison's own
+legacy, though the city itself no longer stood, continued shaping active engineering practice through the
+comparison alone.
+
+### The Load-Distribution Fix Mirny's Guildhall Confirmed Actually Worked
+
+Following the wind-fusion question Denison's engineers had once sent to Mirny's Windwright Guildhall seeking a
+second opinion, a specific follow-up confirmation came once the revised structural expansion — built
+incorporating Mirny's own flagged concern — completed its own first full season of monitoring without
+incident.
+
+Mirny's own Guildhall, per what's preserved of the exchange, received the confirmation with the same plain,
+unmythologized satisfaction the guild applied to any successfully resolved technical question — proof that the
+concern flagged, rooted in Bellandry's own founding-era lesson about hard corners, had been worth raising.
+Denison's own engineers, per what's recalled of the response, credited the successful expansion directly to
+the outside consultation — the first time either city's own wind-engineering tradition had received explicit,
+attributed credit from the other for shaping an actual completed structure.
+
+### The Exchange Program's First Formal Cohort
+
+Following the formalization of the standing technical exchange between Denison and Dumont d'Urville, the
+program's first officially assigned cohort of exchange staff completed a full season under the new
+arrangement — the same close, frequent contact the two cities had always maintained, now supported by
+dedicated personnel rather than ad hoc participation.
+
+The first cohort's own experience, per what's preserved of the program's early record, confirmed the
+formalization had achieved exactly what it set out to do — continuity the two cities' own individual staff
+turnover could no longer interrupt. Denison's own participants, per what's recalled of the season, described
+the shift as subtle but genuinely valuable: a relationship that had always depended on whichever specific
+individuals happened to be maintaining it now institutionally protected against any single person's own
+eventual departure.
+
+### The Recitation Rothera's Engineers Learned to Respect
+
+Following the wind-engineering case study connecting Rothera and Denison, a specific group of Rothera's own
+construction crews, working an unrelated project, requested a live demonstration of Denison's own
+wind-statistics recitation tradition — curious to experience directly the civic practice their own engineers
+had only encountered through technical documentation.
+
+Denison's own residents, per what's preserved of the demonstration, delivered the recitation exactly as they
+always had — precise, memorized figures, offered without exaggeration or apology. Rothera's own crews, per
+what's recalled of the reaction, found the numbers genuinely sobering even secondhand, filtered through a
+demonstration rather than lived directly. It marked the first time Denison's own civic tradition had been
+performed specifically for visitors whose own engineering expertise let them appreciate exactly how severe the
+recited conditions actually were.

@@ -98,7 +98,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Cape Adare | 18 | 30 | In progress |
 | Zukelli | 18 | 30 | In progress |
 | Scott | 18 | 30 | In progress |
-| Denison | 12 | 30 | In progress |
+| Denison | 18 | 30 | In progress |
 
 ### Mawson Subnet (target: 30 each, 90 total)
 
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 540** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 84 +
+50 + 30). **Current: 582** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
 Mawson subnet 36 + Byrd 12 + Amundsen-Scott Station 12).
 
 **2026-08-03 — Halley subnet batch 3 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
@@ -136,7 +136,10 @@ Elisabeth, and Lazar all completed batch 3 (connections-only occurrences, per `C
 Sejong, Signy, and Juan Carlos all completed batch 3 — all now 18/30 (Palmer City 18/50).
 
 **2026-08-03 — Mirny subnet batch 3 complete.** Mirny, Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and
-Shirayuki all completed batch 3 — all now 18/30 (Tri-Cities combined 54/75). Next: Janbogo subnet batch 3.
+Shirayuki all completed batch 3 — all now 18/30 (Tri-Cities combined 54/75).
+
+**2026-08-03 — Janbogo subnet batch 3 complete.** Janbogo, Fort McMurdo, Dumont d'Urville, Cape Adare,
+Zukelli, Scott, and Denison all completed batch 3 — all now 18/30. Next: Mawson subnet batch 3.
 
 **2026-08-03 — MILESTONE: every city, region, and Amundsen Station now has 12 entries — batch 2 is complete
 nationwide** (Abowasa remains the sole exception, still paused at 6/30 pending its own founding-nation fix).
