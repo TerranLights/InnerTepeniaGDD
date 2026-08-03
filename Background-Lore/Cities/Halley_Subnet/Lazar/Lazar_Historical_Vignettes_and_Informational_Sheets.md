@@ -5,8 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Lazar_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Lazar_Full_Extrapolation.md` and `Lazar_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done
-as of this batch.**
+`Lazar_Full_Extrapolation.md` and `Lazar_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is
+framed around the Amundsen Tower's own completion, per direct developer instruction 2026-08-03: 3 entries
+shortly before completion, 3 shortly after — once the whole country was connected through the Tower's single
+relay node for the first time. The Tower's own exact completion date stays deliberately unpinned in prose.
+Target 30, 12 done as of this batch.**
 
 ---
 
@@ -130,3 +133,117 @@ followed — regular, low-friction supply runs absorbing easily into Lazar's own
 volume — became the Exchange's own standing function. What began as Neumayer solving a specific supply
 shortfall became, over time, simply the accepted shape of the relationship: Neumayer's own precision economy
 depends on access Lazar's own scale can extend without ever particularly noticing the demand.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Order Only a Megacity Could Actually Fill
+
+*(Shortly before the Tower's completion.)* Lazar's own megacity-scale commercial density, already established
+as the reason smaller cities like Neumayer relied on it for supply neither could source locally, drew a
+genuinely larger request as the Tower's construction entered its final, material-intensive phase.
+
+A consolidated procurement order, per what's preserved of the period's own commercial record, arrived seeking
+volumes of finished construction components that no single smaller Tepenian city's own production capacity
+could plausibly supply on the project's own remaining timeline — exactly the kind of order Lazar's own scale
+existed to absorb without strain. Lazar's own commercial administration, per what's remembered of the
+transaction, filled the order through its existing Junction Markets infrastructure without requiring any
+special mobilization, the same enormous ordinary trade volume simply redirecting a portion of itself toward
+the Tower's own needs. The order's own scale barely registered against Lazar's own daily commercial throughput
+— genuinely consequential to the Tower's own completion timeline, and, per the city's own established
+character, simply one more transaction among the many the Junction Markets processed that particular week.
+
+---
+
+## The Maglev Car Reserved for People No One Named
+
+*(Shortly before the Tower's completion.)* Lazar's own maglev network, built at a scale no other Tepenian city
+had ever needed, was pressed into a genuinely unusual service during the Tower's final construction phase —
+transporting specialized personnel through the city faster than any comparable ground transit elsewhere in
+the subnet could have managed.
+
+A specific maglev car, per what's preserved of the period's own transit records, was reserved on short notice
+for passage of technical personnel moving through Lazar en route to the Tower's own construction site — a
+routing choice made specifically because Lazar's own maglev could cut transit time through the megacity
+considerably below what ordinary ground transport would have required. Transit staff, per what's remembered of
+the arrangement, were given only the barest operational details — a reserved car, a tight schedule, no
+explanation of who exactly was traveling or why — consistent with the same understated, function-first
+handling Lazar's own enormous ordinary traffic volume already received daily. The reservation is remembered
+locally less for its own content than for being the first confirmed instance of the maglev serving Tower-
+related transit specifically, ahead of the completion the whole country was still waiting on.
+
+---
+
+## The Debate the Unbroken Operations Hall Almost Had to Log
+
+*(Shortly before the Tower's completion.)* As the Tower's own completion drew close, a specific civic proposal
+reached Lazar's administration suggesting the city formally mark the milestone in the Unbroken Operations
+Hall's own continuous record — treating the Tower's completion as a dated entry alongside the ordinary daily
+confirmations the Hall existed to maintain.
+
+The proposal was debated and ultimately declined, per what's preserved of the discussion, on the reasoning
+that the Hall's own record existed specifically to document Lazar's own administrative continuity, not
+external events, however significant — expanding its scope risked diluting the specific, dry purpose that
+gave the unbroken count its own particular meaning. The Hall's own keeper at the time, per what's remembered
+of her position on the matter, reportedly noted that the Tower's completion would be recorded plenty of
+places already; Lazar's own Hall didn't need to be one of them to matter. The record stayed exactly as
+narrow and administrative as it had always been — a small, specific confirmation of the same civic instinct
+that built the Hall's own credibility in the first place.
+
+---
+
+## The First Entry That Wasn't About Lazar at All
+
+*(Shortly after the Tower's completion.)* The Unbroken Operations Hall's own continuous record, deliberately
+kept narrow to Lazar's own administrative continuity, logged its first indirect reference to the wider
+country's own affairs once the completed Tower began affecting how the Hall's own daily confirmations
+actually reached verification.
+
+The specific entry, per what's preserved of the Hall's own record, noted a routine administrative
+confirmation completed faster than the Hall's own established process typically allowed — a direct, if
+understated, consequence of the completed relay letting confirming offices respond considerably faster than
+the older, more limited communication channels the Hall's own process had always assumed. The keeper
+responsible, per what's remembered of the entry, added a brief factual note about the changed confirmation
+speed rather than any broader commentary on the Tower itself — the same disciplined, dry administrative
+register the Hall had always used, now simply documenting one small, concrete way its own daily function had
+changed without ever directly naming what had changed it.
+
+---
+
+## The Neumayer Request That Arrived the Same Day It Was Sent
+
+*(Shortly after the Tower's completion.)* The Neumayer Trade Exchange, built to solve a supply gap Neumayer's
+own small economy couldn't close locally, processed its first order placed and confirmed on the same day once
+the completed relay eliminated the communication delay that had always separated Neumayer's own requests from
+Lazar's own response.
+
+The specific order, per what's preserved of the Exchange's own transaction record, was neither larger nor more
+urgent than Neumayer's own ordinary requests — what made it notable was purely the speed of the exchange
+itself, request and confirmation completing within the same working day for the first time in the
+relationship's own established history. Exchange staff, per what's remembered of the transaction, treated the
+faster turnaround as a genuine practical improvement rather than anything requiring particular comment —
+consistent with Lazar's own established character, absorbing the change into ordinary operation rather than
+marking it as a significant occasion. The relationship itself didn't change in substance, only in how quickly
+its own routine requests could now actually be answered.
+
+---
+
+## The Junction Markets' Busiest Ordinary Week
+
+*(Shortly after the Tower's completion.)* The Hwy 7 / Belgrano Extension Junction Markets, already Lazar's
+own dense commercial expression of redirected aviation-hub logistics expertise, absorbed a genuine, if
+temporary, surge in trade inquiries once the completed Tower let distant cities discover Lazar's own
+commercial capacity for the first time through casual contact rather than existing trade relationships alone.
+
+Traders working the Junction Markets, per what's preserved of the period's own commercial record, fielded
+inquiries from several cities that had never previously done business with Lazar at all — requests exploring
+whether the megacity's own established commercial density could supply goods those distant cities had
+previously sourced only locally or not at all. Not every inquiry became a standing trade relationship, per
+what's remembered of the period, but several did, absorbed into the Junction Markets' own already-enormous
+trade volume with the same unremarkable ease Lazar's own commerce handled everything else. The surge itself
+barely registered as unusual within the Markets' own daily operation — genuinely new connections, formed
+without any particular ceremony, simply becoming one more thread in a commercial network already too large
+for any single new addition to stand out.
