@@ -7,8 +7,8 @@ plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuin
 rather than a restated attribute — including the strict no-post-war-content rule. No entry below depends on
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Davis_Full_Extrapolation.md` (Tier 1), `Davis_Physical_Infrastructure_Attributes.md`
-and `Specs/Davis.md` (Tier 2), and `Davis_Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many — target
-30, 6 done as of this batch.**
+and `Specs/Davis.md` (Tier 2), and `Davis_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target
+30, 12 done as of this batch.**
 
 ---
 
@@ -122,3 +122,92 @@ engineering consultation. The resolved question itself isn't preserved in detail
 of consultation became, per what's remembered of the exchange, a template Australian-heritage researchers
 across the subnet continued using afterward — proof that shared founding heritage translated into genuine,
 functioning collaboration rather than remaining purely symbolic.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Cores Requested Without Explanation
+
+*(Shortly before the Tower's completion.)* Davis's own paleoclimate sediment-core methodology — using layered
+lake sediment rather than ice as a climate-history archive, Wirawan's own distinct contribution to Tepenian
+research — was formally requested, late in the Tower's construction, by planners seeking long-term local
+climate data for a structure whose own scale required knowing more than any single season's weather could tell
+them (`Davis_Full_Extrapolation.md` Section I; Section VI).
+
+Davis's own research community, per what's remembered of the request, treated it the way Wirawan's own
+precedent had taught them to treat every request — the relevant cores pulled, the analysis credited to the
+full team rather than any one researcher, sent onward without particular ceremony. Nobody at Davis learned
+exactly how the climate data was ultimately used. The team's own established ethos held regardless: the method
+mattered more than who got credit for supplying it, whether the request came from a neighboring subnet
+laboratory or from something as large as what was quietly being asked for this time.
+
+### The Delivery the Fjords Made Possible Again
+
+*(Shortly before the Tower's completion.)* Davis's own fjord-inlet shipping contingency — formalized generations
+earlier after the winter a supply vessel first proved the inlets' own separate freeze schedule genuinely
+useful — was called on once more late in the Tower's construction, when an early-season freeze closed Prydz
+Bay's main harbor while a time-sensitive shipment bound for the Tower's own final construction stretch was
+still in transit (`Davis_Full_Extrapolation.md` Section II).
+
+The redirect, per what's recalled of the delivery, went considerably more smoothly than the original incident
+that had established the practice — this time following formal contingency planning rather than one captain's
+own improvised local knowledge. The shipment reached its connection point on schedule, one more confirmation
+that terrain diversity Davis had once treated as merely scenic had become, exactly as the original incident
+predicted, genuine infrastructure the city could rely on when it mattered most.
+
+### The Team That Never Learned Whose Names Were on the Report
+
+*(Shortly before the Tower's completion.)* A joint technical assessment, drawing on Davis's own research
+community alongside specialists from elsewhere in the subnet, was compiled late in the Tower's construction to
+answer a specific environmental question tied to the project — the kind of cross-disciplinary request Davis's
+own research culture, built on Kalloway's founding insistence on competence over ceremony, was well suited to
+contribute to without needing individual recognition (`Davis_Full_Extrapolation.md` Section VI).
+
+Davis's own contributors, per what's remembered of the assessment, followed Wirawan's own established
+precedent without needing to be told to — findings submitted under the team's collective name rather than any
+individual's, consistent with an ethos the research community had already been practicing for generations by
+the time this particular request arrived. Whatever became of the assessment afterward isn't part of what
+Davis itself preserved. The team's own approach to it needed no separate explanation.
+
+### The Recognition the Petition Never Quite Secured, Finally Arriving Anyway
+
+*(Shortly after the Tower's completion.)* Word of the Vestfold Hills' own genuinely unusual lake system — the
+subject of one researcher's modest, only partially successful petition for wider recognition generations
+earlier — reached, for the first time, cities across the newly connected country that had never had reason to
+hear of Davis's own terrain at all (`Davis_Full_Extrapolation.md` Section VII).
+
+The minority of residents who'd always quietly wished for outside acknowledgment, per what's recalled of the
+reaction, found the recognition arriving in a form the original petition had never anticipated — not a
+deliberate campaign this time, simply ordinary awareness spreading the same way everything else now spread
+nationally. Davis's own dominant civic mood didn't shift toward seeking attention. But for the specific
+residents who'd always wanted the acknowledgment, the Tower's completion delivered, almost incidentally, what
+years of quiet local effort never fully had.
+
+### The Comparison Davis Finally Got to Run Directly
+
+*(Shortly after the Tower's completion.)* Davis's own research community reached, for the first time, direct
+contact with researchers at cities whose own long-term environmental archives worked on entirely different
+methodologies — ice cores rather than lake sediment — allowing a genuine cross-reference between two
+independently developed record-keeping traditions that had never been able to compare notes in real time
+before (`Davis_Full_Extrapolation.md` Section I).
+
+The exchange, per what's remembered of it, produced no dramatic single discovery — simply the first opportunity
+either research tradition had ever had to check its own findings against a genuinely different method covering
+some of the same historical stretch. Davis's own researchers, characteristically, credited the comparison to
+the collaboration itself rather than to any one side's own contribution — the same instinct Wirawan had
+established generations earlier, applied now to a conversation that had simply never been possible before.
+
+### The Fjords That Finally Knew What Was Coming
+
+*(Shortly after the Tower's completion.)* Davis's own fjord-inlet contingency planning, previously triggered
+only once a harbor closure was already underway, began receiving advance notice of incoming shipments and
+their own scheduling needs well before any vessel actually departed — coordination that had never been
+possible when word of a shipment's timing traveled no faster than the shipment itself
+(`Davis_Full_Extrapolation.md` Section II).
+
+Harbor staff, per what's recalled of the change, found themselves able to pre-position for a fjord redirect
+before a freeze even closed the main harbor, rather than improvising the response once conditions had already
+forced the question. The fjords themselves hadn't changed, and neither had their own separate freeze
+schedules. What changed was simply that Davis, for the first time, could plan around them instead of merely
+reacting to them.

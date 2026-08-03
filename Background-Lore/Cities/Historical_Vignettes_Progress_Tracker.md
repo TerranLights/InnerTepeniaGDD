@@ -80,7 +80,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mirny | 12 | 30 | In progress |
 | Casey | 12 | 30 | In progress |
-| Davis | 6 | 30 | In progress |
+| Davis | 12 | 30 | In progress |
 | Kunlun | 6 | 30 | In progress |
 | Vostok | 6 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 6 | — | In progress |
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 294** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 60 + Janbogo subnet 42 +
+50 + 30). **Current: 300** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 66 + Janbogo subnet 42 +
 Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
