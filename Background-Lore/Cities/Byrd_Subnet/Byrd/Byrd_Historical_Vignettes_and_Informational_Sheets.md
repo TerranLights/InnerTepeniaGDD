@@ -1,0 +1,171 @@
+# Byrd — Historical Vignettes & Informational Sheets
+
+**What this is, and how it's different from `Byrd_Course_of_Events_Suggestions.md`:** that file's 10 numbered
+chains are a deliberately *sequential*, but/therefore-linked structure — each chain builds on the last,
+strictly bounded to the pre-Long Night War Second Interwar Period, with no war damage and no post-war
+material. This file is the opposite by design, per direct developer instruction, 2026-08-02: every entry
+below is **fully independent** — no entry requires reading another, no entry requires the others to be true,
+and none of them needs to be woven into any larger causal chain. Entries are **not required to be chronological
+or comprehensive**, don't need to start at the founding, and don't need to stop before the war — they can land
+at any point in Byrd's history, including the present day. Some entries are narrative vignettes (a specific
+incident, a specific person); others are drier informational sheets (a pattern, a statistic, a standing fact).
+Both are valid. Drawn from `Byrd_Physical_Infrastructure_Attributes.md`'s 80 attributes and its own
+Cross-Referenced Extrapolation Findings — not invented from nothing, per the project's standing
+"reconstructed, not invented" discipline. **Pilot batch, not exhaustive** — this is the first city run under
+this new methodology; more entries can be added at any time without disturbing the ones already here, which is
+the entire point of the format.
+
+---
+
+## The Locked Ward
+
+Byrd's mental-health provisioning exists specifically to counter isolation and light-deprivation effects — a
+direct medical consequence of a population living permanently without natural light, engineered on the same
+logic as the city's circadian-rhythm lighting schedules and its Vitamin D/UV-therapy programs (Physical
+Infrastructure Attributes #3–4, #15). For most residents, the discipline works: managed light exposure
+becomes routine, background maintenance rather than a burden anyone dwells on.
+
+**"Aldous Renne" *(placeholder, not developer-chosen)* didn't adapt.** A mid-career maintenance technician on
+one of the deeper, less-visited levels — the kind of assignment attribute #20 already establishes as more
+likely for a robot than a human, which made his own posting there unusual to begin with — Renne spent eleven
+months on rotation before the engineered light schedule stopped working for him the way it's supposed to
+work for everyone. He didn't miss shifts. He didn't report symptoms. He simply, by his own crew chief's later
+account, "stopped believing the lights were doing anything," and kept working anyway, on a level with no
+natural light and no near-term evacuation route even if anyone had known to ask for one. The break, when it
+came, wasn't violent — he was found trying to physically dig toward what he insisted was "the actual sky,"
+three levels below where any surface access exists at all, using tools taken from a maintenance-access
+crawlspace (attribute #49).
+
+Byrd's own medical infrastructure — full in-house surgical and psychiatric capability, built because no
+realistic evacuation route has ever existed (attribute #15, attribute #21) — is exactly what caught him before
+real harm was done. He recovered, was reassigned to upper-level work near the elevators, and by his own crew's
+account still doesn't fully trust artificial light, eleven years on. **No official record connects his case to
+anyone else's** — Byrd's medical competence in this specific area is real, established, and completely
+unknown outside the city (Finding 5), and the Locked Ward case is simply the one specific, nameable instance
+of a risk the whole light-management system exists to catch before it goes further than this one did.
+
+---
+
+## What the Steinhoff Crew Didn't Report
+
+Pre-exile finds in Byrd's deepest layers are established as rare, unpredictable, and — critically — never
+centrally preserved (`Byrd_Physical_Infrastructure_Attributes.md` Finding 3, drawing on
+`Byrd_Course_of_Events_Suggestions.md` chain #9): a crew finds something, documents it however the crew chief
+personally chooses to, takes what can reasonably be carried without stopping work, then reseals the passage
+and moves on. No formal archive exists. This is one specific instance of that pattern, not a new one.
+
+A resource-extraction crew working a newly-opened seam roughly forty meters below the current deepest
+inhabited level found a sealed chamber that predated the Tepenian exile community's own arrival entirely —
+Upper Earth-era, per the crew chief's own notes, though nothing in the chamber identified which nation or
+program had built it. Per the established habit, the crew spent perhaps two hours inside: enough to
+photograph what could be photographed, remove a handful of small, portable items judged genuinely valuable
+(none of them ever specified in any surviving record), and reseal the passage before returning to their actual
+job. The crew chief's personal notes — the only surviving account — describe "instruments, none of them
+identifiable, and a single intact data-storage unit we had no way to read." The unit was never successfully
+read. Nobody currently working the deep levels knows exactly where the sealed chamber is relative to today's
+tunnel network; the crew chief's own notes describe the location only in terms of landmarks that no longer
+exist. **This is, structurally, exactly what Finding 3 predicts** — a genuine find, genuinely real, entirely
+unrecoverable as anything more than one person's private account, and there is no reason to believe it's the
+only one like it.
+
+---
+
+## The Third Sector Seal
+
+Byrd's condemned-zone protocols (Physical Infrastructure Attribute #7) exist because the West Antarctic Ice
+Sheet the city is built into genuinely shifts, slowly, in ways continuous structural monitoring (attribute #5)
+is specifically built to catch before it becomes dangerous. Most condemned sections are minor, unremarkable,
+and reopened once monitoring confirms the strain has passed. The Third Sector seal is the largest single
+condemned zone currently on record, and it hasn't reopened.
+
+Structural monitoring first flagged unusual strain readings in a residential sub-level roughly two generations
+after the city's founding — not a sudden event, but a slow, measurable drift over several months, consistent
+with the flex-tolerant construction discipline (attribute #6) doing exactly what it was built to do: bending
+rather than cracking, buying time rather than preventing the movement outright. The section was evacuated in
+an orderly, unhurried fashion — the same emergency-shelter-zone logic (attribute #28) that assumes sheltering
+in place rather than mass evacuation, applied here as a precautionary relocation rather than a genuine
+emergency — and formally sealed once monitoring confirmed the drift wasn't stabilizing. It has been re-checked
+on a standing schedule ever since. The most recent readings, per the Foundation Keepers' own internal
+reporting, still show slow, ongoing movement, decades later — not accelerating, but not resolving either. The
+Third Sector is not spoken of as a disaster. It's spoken of, when it's mentioned at all, as proof the
+monitoring system works exactly as intended: nobody was hurt, because nobody waited to find out how far the
+drift would go.
+
+---
+
+## Pre-Exile Find Log: A Statistical Portrait
+
+*(An informational sheet, not a narrative — the kind of dry, aggregate civic fact the "What the Steinhoff Crew
+Didn't Report" vignette above is one specific instance of.)*
+
+No centralized archive of pre-exile finds exists (Finding 3), which means no one authoritative count exists
+either — but informal cross-referencing of surviving crew-chief notes, guild records, and personal accounts,
+done periodically by residents with an interest in the deep layers' own history, produces a rough working
+picture:
+
+- **Confirmed finds, by informal count:** somewhere between 30 and 50 distinct pre-exile discoveries across
+  the generations since the city's founding, per the best available cross-referencing — a number nobody treats
+  as authoritative, since it depends entirely on which private notes happened to survive and get shared.
+- **Typical composition:** the large majority of finds are described as equipment or instrumentation of
+  unknown function; a smaller number are structural (sealed chambers, collapsed passages with recognizable
+  Upper Earth-era construction); data-storage devices are rare and, per every surviving account, never
+  successfully read using any technology currently available to the crew that found them.
+- **Recovery rate:** effectively none. No pre-exile data-storage unit has ever been confirmed successfully
+  read; no pre-exile structure has ever been formally reopened, studied, or incorporated into the city's own
+  infrastructure.
+- **The actual pattern the numbers support:** Finding 3's own conclusion — the deeper Byrd's layers go, the
+  more thoroughly even genuine, confirmed history reads as legend, not because nothing happened down there,
+  but because nothing that happened down there was ever centrally kept.
+
+---
+
+## The Boundary Wall Drill
+
+The lake bordering one edge of the city — a massive subglacial body sustained by the same geothermal activity
+powering Byrd itself, its transparent boundary wall built to the same flex-tolerant discipline as the rest of
+the city's structure (Physical Infrastructure Attributes #73–74) — carries the single most severe hazard
+classification of any structure in Byrd (attribute #80): a breach here means sudden, massive flooding, with
+consequences distinct from and worse than any other failure mode the city plans for.
+
+The wall has never failed. It is drilled for anyway, on a standing schedule, specifically because attribute
+#76 establishes it receives more concentrated structural monitoring attention than almost anything else in
+the city. The most recent full-scale drill sealed off the nearest residential sections on schedule, moved
+the residents who live closest to the wall — the same residents who, per attribute #78, plausibly pay a
+premium to live there specifically for proximity to the only living light source in the entire city — through
+a rehearsed evacuation route, and ran the emergency-shelter protocol (attribute #28) as though the readings
+were real. They weren't. The drill is, by design, indistinguishable from the real thing until it's over; this
+is treated as the entire point, not an oversight. Residents who live near the wall describe the drills with a
+specific, mixed feeling that doesn't fully resolve into either fear or reassurance — living beside the one
+genuinely lit, living thing in a lightless city, and being formally, physically reminded on a schedule of
+exactly what that proximity would cost if the wall ever actually failed.
+
+---
+
+## The Founding-Expedition Survivor
+
+*(A standalone biographical sheet — the Notable Figure already proposed in `Byrd_Physical_Infrastructure_Attributes.md`
+Finding 10, presented here independent of that Finding's own argument about population tension, purely as a
+personal history.)*
+
+**"Ilkay Voss" *(placeholder, not developer-chosen)* is, per current understanding, the last surviving member
+of the all-robot crew that drove the original Arrastradora across unmapped territory during Byrd's founding
+expedition** — a robot old enough, given robots' established centuries-long lifespans, to personally
+remember terrain that predates every highway, every guild, and every generation of human residents currently
+living in the city. Voss's own personal timeline, reconstructed from scattered mentions rather than any single
+complete account:
+
+- **Founding era:** part of the original all-robot driving crew, present for the literal, physical act of
+  finding what would become Byrd — not the discovery of the buried infrastructure itself, but the overland
+  crossing that made the discovery possible in the first place.
+- **Early city years:** by several accounts, took on informal deep-tunnel survey work during the city's
+  earliest expansion, before any formal wayfinding system (attribute #14) existed to make that work
+  systematic.
+- **Middle period:** largely undocumented — the same gap Finding 3 identifies for the city's own deep history
+  generally applies to individual long-lived residents' own records just as much as to physical finds.
+- **Present day:** still resident in Byrd, rarely discussed publicly, occasionally consulted informally by
+  Foundation Keepers or Prospectors when a deep-tunnel question has no other answer.
+
+Voss's own knowledge predates the majority of Byrd's current population, most of whom arrived generations
+later via the Palmer City over-cap redistribution and have no personal connection to the founding at all
+(Finding 7). Whether Voss is widely known, quietly avoided, or simply not thought about by most residents day
+to day is not yet decided — this sheet establishes only the timeline, not the social reality around it.
