@@ -9,7 +9,11 @@ any other; none are required to be chronological, and all stay within the pre-wa
 of the Tri-Cities region (combined with Sinheung and Shirayuki toward a shared 75-entry target). Drawn
 primarily from `Zhongshan_Full_Extrapolation.md` (Tier 1), `Zhongshan_Physical_Infrastructure_Attributes.md`
 and `Specs/Zhongshan.md` (Tier 2), and `Zhongshan_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
-target shared with Sinheung and Shirayuki, 12 done as of this batch.**
+target shared with Sinheung and Shirayuki, 12 done as of that batch. Batch 3, per direct developer
+instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
+once full national digital connectivity existed, each grounded in a specific named city-to-city connection
+from that file (Sinheung, Shirayuki, Mirny, Juan Carlos, Port Lockroy, Amundsen Station) distinct from batch
+2's own entries. 18 done as of batch 3.**
 
 ---
 
@@ -213,3 +217,92 @@ Quarter's own standards had never depended on knowing what a piece was for, only
 exactly. Knowing anyway, this time, simply confirmed what Táng Wǔ's own original institution had always been
 built to guarantee: that Zhongshan's own precision, whether or not anyone explained why it mattered, could be
 trusted regardless.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Jeju-do Records Sinheung and Shirayuki Finally Compared Side by Side
+
+The Larsemann Hills Tri-Cities cluster's own shared three-way Jeju-do founding had always been understood, by
+all three cities, as a single negotiation event — but no city's own municipal archive had ever actually been
+compared against the other two's own surviving records of the same allocation, since no channel existed for
+all three archives to be searched at once.
+
+The first joint three-way archive comparison, run once direct contact let Zhongshan, Sinheung, and Shirayuki's
+own historians actually cross-reference their own separate founding-era records together, confirmed the three
+cities' own accounts agreed in every particular that overlapped — genuine confirmation, for the first time,
+that the shared founding story all three cities had always told matched across all three independently kept
+versions of it. Nothing about the cluster's own present-day relationship changed. The historians involved, per
+what's preserved of the project, described the exercise as simply satisfying — proof their own shared origin
+story held up under a level of scrutiny it had never previously been possible to apply.
+
+### The Relay Vaults Zhongshan Finally Got to Inspect in Detail
+
+Zhongshan's own dependency on Mirny's Relay Hardware Vaults, the intra-subnet Arcanet hub connecting the whole
+Mirny subnet cluster, had never produced a direct technical exchange between Zhongshan's own precision-
+manufacturing engineers and the Vaults' own maintenance crew, despite Zhongshan's own manufacturing floor
+depending on the connection staying reliable.
+
+The first direct consultation, held once contact became possible, let Zhongshan's own engineers examine the
+Vaults' own redundancy architecture in detail — the same compromise system Marchenko had once fought to
+strengthen — and propose a specific, precision-manufacturing-grade component upgrade that might close part of
+the remaining redundancy gap. Whether Mirny's own maintenance crew ultimately adopted the proposal isn't
+preserved. The consultation itself, offered unprompted by a city whose own manufacturing precision had nothing
+obviously to do with relay infrastructure, was the genuinely new thing.
+
+### The Custodian Comparison Juan Carlos Finally Got to Make
+
+Following the first direct exchange between the Long Record's archivists and Juan Carlos's own formal
+Federation archive, a specific follow-up question came from Juan Carlos: whether Zhongshan's own archive had
+ever faced a genuine dispute over what belonged in the official record, the way Juan Carlos's own archive
+occasionally had to adjudicate contested immigration documentation.
+
+Zhongshan's own archivists, per what's preserved of the response, described the Long Record's own equivalent
+tension — the deliberately unsoftened "difficult year" panel tradition the archive's own oldest layers still
+honored — a genuine parallel neither city had previously had reason to compare directly. Both archives, per
+what's recalled of the exchange, came away with a clearer sense of how differently two cities built around
+being trusted custodians of history had each solved the same underlying problem: what to do when the honest
+record and the comfortable one didn't match.
+
+### The Wall Panel Zhongshan's Archivists Finally Explained in Full
+
+Following Port Lockroy's own inquiry about the Long Record's own history-keeping methodology, Zhongshan's
+archivists sent a considerably more detailed follow-up than the original exchange had included — a full
+account of how the Long Record's own paper-based system handled exactly the kind of unflattering-year problem
+Port Lockroy's own Communal Stone Wall had once faced directly.
+
+The exchange, held once ongoing contact between the two archives made a genuine back-and-forth conversation
+possible rather than a single inquiry, confirmed that both cities had independently arrived at the identical
+underlying principle — an honest record was only worth keeping if it stayed honest even when the year in
+question reflected poorly on the city itself. Neither archive changed its own practice. Both, per what's
+preserved of the exchange, found the confirmation worth having.
+
+### The Tower Construction Question the Long Record Was Finally Asked to Settle
+
+A specific historical question about the Amundsen Tower's own construction timeline, genuinely disputed
+between two other cities' own local records, was referred to the Long Record for arbitration once Amundsen
+Station's own archivists, aware of Zhongshan's own reputation for meticulous history-keeping, suggested the
+Long Record as a neutral, well-documented reference point.
+
+Zhongshan's own archivists, per what's preserved of the request, treated the arbitration request with the
+same unhurried thoroughness the archive applied to everything else — checking the Long Record's own holdings
+carefully before offering a determination rather than answering quickly. The specific dispute the two other
+cities were having isn't preserved in detail. That the Long Record was trusted enough, by a source as
+consequential as Amundsen Station itself, to settle a dispute it had no direct stake in was, for Zhongshan's
+own archive, a genuinely new kind of recognition.
+
+### The First Performance the Suite's Own Composers Watched Reach Sinheung and Shirayuki
+
+Following "The Long Winter Suite"'s own first nationwide broadcast, its two closest cluster neighbors —
+Sinheung and Shirayuki — held their own first joint listening gathering specifically to experience the
+performance together in real time, rather than each city separately receiving the same broadcast in
+isolation.
+
+The gathering, arranged once direct contact let representatives from both cities simply agree to hold it
+together, brought Sinheung's own manufacturing-floor workers and Shirayuki's own arts community into the same
+room to experience a piece of Zhongshan's own contemplative tradition side by side — the first time either
+cluster neighbor had marked a Zhongshan cultural event jointly rather than independently. Zhongshan's own
+musicians, per what's preserved of the reaction upon hearing about it, found the gesture genuinely moving —
+proof that the Tri-Cities cluster's own founding-era closeness could still produce something neither city
+had specifically planned for.
