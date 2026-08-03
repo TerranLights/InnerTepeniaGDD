@@ -8,7 +8,7 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Fort_McMurdo_Full_Extrapolation.md` (Tier 1), `Fort_McMurdo_Physical_Infrastructure_
 Attributes.md` and `Specs/Fort_McMurdo.md` (Tier 2), and `Fort_McMurdo_Cross_Reference_Synthesis.md` (Tier
-3). **Batch 1 of many — target 30, 6 done as of this batch.**
+3). **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -124,3 +124,96 @@ monitored closely, no change to daily life recommended. Activity returned to bas
 incident is remembered, within the monitoring program's own institutional history, as the clearest proof that
 Conti's own founding-era approach — plain language over technical precision — actually worked under real
 pressure, not merely during ordinary, uneventful monitoring.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Extraction Schedule the Dry Valleys Had Never Run Before
+
+*(Shortly before the Tower's completion.)* The Dry Valleys extraction operation, connected to Fort McMurdo's
+own processing core by the seasonal sea ice road and maritime shipping rather than any permanent crossing,
+absorbed a sustained increase in demand late in the Tower's construction — precisely the kind of undeniable
+industrial dependency that would soon give the nation's own government real cause to formalize the city's
+status (`Fort_McMurdo_Full_Extrapolation.md` Section IX; Section II).
+
+Extraction crews, per what's remembered of the stretch, ran the deliberately separate logistics chain founding-
+era planners had chosen over a permanent bridge harder than it had ever been run before, the same operational
+resilience that separation had accidentally produced now mattering for reasons far larger than any single
+disruption. Processing at Fort McMurdo's own core kept pace, barely, month after month, in a stretch later
+remembered less for any single dramatic event than for the sheer, sustained volume — the exact undeniable
+dependency Section IX's own eventual formal designation would answer.
+
+### The Stations Fischer's Protocols Were Finally Tested Against
+
+*(Shortly before the Tower's completion.)* Amara Fischer's own dedicated comms stations, built originally to
+prevent the kind of supply-and-schedule desynchronization that had first justified their existence, coordinated
+Tower-related shipments alongside Fort McMurdo's own ordinary Dry Valleys traffic for the first time at a scale
+approaching what had once seemed like generous overbuilt capacity (`Fort_McMurdo_Full_Extrapolation.md`
+Section III).
+
+Coordinators staffing the stations, per what's recalled of the period, held to Fischer's own standardized
+reporting protocols exactly as designed, resisting the temptation to improvise shortcuts under the added
+volume the way the old informal person-to-person relay once had, to its own eventual cost. The stations held.
+Whatever it was that Fort McMurdo's own processing capacity was actually feeding, considerably larger in scale
+than the Dry Valleys logistics chain had ever managed before, moved through Fischer's own protocols without
+the desynchronization failure that had originally justified building them.
+
+### The Year New Arrivals Outpaced the Old Custom
+
+*(Shortly before the Tower's completion.)* The founding-era tradition of new industrial workers visiting Cape
+Evans or Cape Royds within their own first year of residence met a genuine strain late in the Tower's
+construction, as Fort McMurdo's own workforce grew considerably faster than the informal custom's own quiet,
+self-administered character had ever needed to accommodate before (`Fort_McMurdo_Full_Extrapolation.md`
+Section V).
+
+The custom itself, per what's remembered of the period, was never formalized in response — no civic
+institution stepped in to organize or schedule visits despite the larger cohort of new arrivals, consistent
+with a tradition that had always depended on being personally, not institutionally, observed. Some newer
+workers, per informal accounts, simply never made the visit at all during the unusually busy stretch, the
+custom's own voluntary character absorbing the strain by quietly admitting more exceptions than usual rather
+than bending its own informal shape to accommodate everyone.
+
+### The First Delegation Fort McMurdo Received as Something Official
+
+*(Shortly after the Tower's completion.)* Once the formal capital-city designation followed the Tower's own
+completion, Fort McMurdo received, for the first time, a delegation from another Tepenian city arriving
+specifically to treat with the city in its new official capacity — a genuinely different kind of visit from
+the ordinary logistics coordination the comms stations had always handled (`Fort_McMurdo_Full_Extrapolation.md`
+Section IX).
+
+Fort McMurdo's own administration, per what's recalled of the visit, had no established protocol for receiving
+a delegation in this specific new capacity, since the designation itself was barely settled — the visit was
+handled, per what's remembered of it, with the same practical, unshowy competence the city had always applied
+to industrial coordination, simply redirected toward a genuinely new kind of civic function. The delegation's
+own specific business isn't preserved in detail. That Fort McMurdo hosted it at all, as something other than a
+logistics partner, marked a real and immediate change from everything the designation had formalized.
+
+### The Bulletin That Reached Readers Who'd Never Heard of Erebus
+
+*(Shortly after the Tower's completion.)* Conti's own plain-language Erebus monitoring bulletins, written for
+generations specifically to keep Fort McMurdo's own resident population calm about living beside an active
+volcano, reached, for the first time, readers elsewhere in the country who'd never had reason to think about
+Erebus at all (`Fort_McMurdo_Full_Extrapolation.md` Section VI).
+
+Monitoring staff, per what's recalled of the shift, kept the bulletins exactly as plainly worded as Conti had
+always insisted they be — the same calibrated calm built for a population living permanently beside the
+volcano, offered without modification to an entirely new audience encountering the idea of an active volcano
+as ordinary background fact for the first time. Some distant readers, per informal accounts, found the
+bulletins' own matter-of-fact tone almost startling on first encounter — proof, from an audience Conti himself
+never wrote for, that his founding-era instinct toward calm plain language held up even further from home than
+he'd ever needed it to.
+
+### The Coordination Backbone That Became Something Larger
+
+*(Shortly after the Tower's completion.)* Fischer's own comms stations, built to coordinate Fort McMurdo's own
+subnet logistics, became, once the capital designation formalized the city's new status, part of the
+administrative infrastructure through which Fort McMurdo's own government functions began reaching the rest of
+the newly connected country (`Fort_McMurdo_Full_Extrapolation.md` Section III; Section IX).
+
+The stations themselves weren't rebuilt or replaced for the new role — the same standardized reporting
+protocols Fischer had once had to fight skeptical colleagues to establish simply absorbed a new category of
+traffic alongside the supply and extraction coordination they'd always handled. Staff working the stations, per
+what's recalled of the transition, noted it as consistent rather than surprising: infrastructure built for
+genuine institutional rigor, once proven under real logistics pressure, turned out to be exactly what a newly
+formalized capital needed too.
