@@ -8,7 +8,7 @@ rather than a restated attribute. No entry below depends on any other; none are 
 Drawn primarily from `Casey_Full_Extrapolation.md` (Tier 1), `Casey_Physical_Infrastructure_Attributes.md`
 and `Specs/Casey.md` (Tier 2), and `Casey_Cross_Reference_Synthesis.md` (Tier 3). **Following the Attributes
 file's own established convention:** entries below are framed pre-war, as lived memory for Casey's diaspora,
-rather than as ruins content. **Batch 1 of many — target 30, 6 done as of this batch.**
+rather than as ruins content. **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -126,3 +126,97 @@ efficient service instead, and the revised model succeeded where the original ha
 confirmation that Casey's own economy simply didn't support hospitality built for lingering, however well
 executed, the same lesson every subsequent waystation operator inherited without needing to relearn it
 themselves.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Route Dispatch Had Never Been Asked to Certify Before
+
+*(Shortly before the Tower's completion.)* Casey's dispatch office, built entirely around the cardinal rule
+that route information gets shared immediately and accurately because lives depend on it, faced a genuinely
+unfamiliar request late in the Tower's construction: certifying wind-window conditions for convoys running a
+route considerably further into the interior than Casey's own dispatchers ordinarily tracked, toward a work
+site none of them had ever needed a forecast for before (`Casey_Full_Extrapolation.md` Section II; Notable
+Figures).
+
+Dispatchers handling the request, per what's remembered of it, applied the same discipline "Long Odds"
+Okonkwo-Hale's own reputation had been built on — reading the Circle-threshold instruments carefully, refusing
+to certify a route on anything less than genuine confidence, regardless of how much pressure the unfamiliar
+destination's own urgency seemed to carry. Every certification issued that stretch held. Casey's own dispatch
+office never learned exactly what the convoys were ultimately supporting; the office simply did, for a
+destination it had never tracked before, the same job it had always done for every other road out of the
+junction.
+
+### The Night Splinters Filled With People Nobody Recognized
+
+*(Shortly before the Tower's completion.)* Splinters, Casey's own massive, deliberately revived bar and
+live-music venue, hosted an unusually large stretch of unfamiliar travelers late in the Tower's construction —
+crews rotating through the Hwy 2/Hwy 110 junction on their way toward or away from the project, stopping at the
+one place in the city built specifically for people passing through to have something worth stopping for
+(`Casey_Full_Extrapolation.md` Section V).
+
+Staff working those particular nights, per what's remembered of them, noted the crowd's own exhaustion more
+than anything else about them — travelers who clearly hadn't stopped anywhere comparable in a long while,
+treating Splinters' own famous scale with the same slightly disbelieving reaction any first-time visitor
+usually had. Wetherall's own original argument — that a transit city needed exactly one thing worth stopping
+for — held true for an audience considerably larger, and considerably more anonymous, than he'd likely ever
+pictured when he first found the old records.
+
+### The Reading the Circle-Threshold Instruments Weren't Built to Explain
+
+*(Shortly before the Tower's completion.)* Casey's inherited meteorological equipment, sitting precisely on the
+Antarctic Circle threshold, picked up a specific, unusual atmospheric pattern late in the Tower's construction —
+readings technical staff couldn't fully account for using the instruments' own established polar-to-coastal
+transition baseline, though nothing about the pattern posed any actual danger to route conditions
+(`Casey_Full_Extrapolation.md` Section II).
+
+Technical staff, per what's preserved of their own notes on it, logged the anomaly carefully without ever
+fully resolving what caused it — a plausible, if unconfirmed, guess circulating informally that whatever
+large-scale infrastructure was nearing completion elsewhere on the continent might be perturbing atmospheric
+patterns at a scale Casey's own instruments had never been calibrated to expect. The readings returned to
+baseline within the season. The unresolved log entry remains exactly that — logged, unexplained, filed the way
+Casey's own technical culture filed everything it couldn't yet fully account for.
+
+### The Forecast That Reached Every Road in the Country at Once
+
+*(Shortly after the Tower's completion.)* Casey's own wind-window certifications, previously relayed only to
+crews and dispatchers within reach of the subnet's own established communication range, began reaching every
+highway network in the country simultaneously the moment they were issued, once the Tower's completion
+connected Casey's dispatch office to the same relay carrying everything else nationally (`Casey_Full_
+Extrapolation.md` Section II).
+
+Dispatchers, per what's recalled of the adjustment, found the expanded reach genuinely strange to work with at
+first — a certification meant for a specific local convoy now technically visible to route planners in subnets
+Casey's own dispatchers had never had reason to communicate with directly. Nothing about the certification
+process itself changed. What changed was the audience, considerably larger and considerably more distant than
+the cardinal rule — share it immediately, share it accurately — had ever been written to anticipate.
+
+### The Fame Splinters Finally Had a Name For
+
+*(Shortly after the Tower's completion.)* Splinters' own regional reputation — already, per Section V, a genuine
+piece of chosen self-definition rather than something merely inherited — reached, for the first time, cities
+that had never had a traveler pass through and bring word of it back, carried directly by the newly unified
+relay rather than by word of mouth alone (`Casey_Full_Extrapolation.md` Section V).
+
+Residents working the venue, per what's remembered of the shift, found the sudden national awareness a genuine
+extension of exactly what Wetherall had originally argued for — a city defined by people passing through,
+finally known nationally for the one thing it had deliberately chosen to be known for, rather than merely
+famous among the specific travelers who happened to have stopped there. The venue itself didn't change. What
+changed was that the fame Wetherall's own modest archival curiosity had started now belonged, for the first
+time, to people who'd never actually walked through Splinters' own doors.
+
+### The Junction That Finally Understood What It Had Always Been
+
+*(Shortly after the Tower's completion.)* The Hwy 110/Hwy 2 junction — Casey's own literal geographic and
+economic center, the place two roads met and travelers chose between them — took on a specific, informal new
+significance once the whole country was connected through a single relay for the first time: residents began
+describing Casey itself as the country's road-level answer to what the Tower had just become at the
+communications level (`Casey_Full_Extrapolation.md` Section V).
+
+The comparison wasn't official or planned, per what's recalled of how it spread — simply an observation several
+residents made independently around the same time, that a city built entirely around being the place where
+routes met and travelers were told, honestly and immediately, which way to go had just watched the whole
+country do something structurally similar at a scale Casey itself could never match. Nothing about Casey's
+own daily function changed. The comparison stuck anyway, a small, specific piece of civic pride in having
+already understood, for generations, what connection was actually for.
