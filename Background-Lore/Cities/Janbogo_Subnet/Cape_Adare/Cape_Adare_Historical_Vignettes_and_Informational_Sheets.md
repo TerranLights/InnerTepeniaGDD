@@ -8,7 +8,10 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Cape_Adare_Full_Extrapolation.md` (Tier 1), `Cape_Adare_Physical_Infrastructure_
 Attributes.md` and `Specs/Cape_Adare.md` (Tier 2), and `Cape_Adare_Cross_Reference_Synthesis.md` (Tier 3).
-**Batch 2 of many — target 30, 12 done as of this batch.**
+**Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is
+framed around `City_National_Connections.md`: six occurrences that could only have happened once full
+national digital connectivity existed, each grounded in a specific named city-to-city connection from that
+file (Port Lockroy, Amundsen Station, Zukelli). 18 done as of batch 3.**
 
 ---
 
@@ -208,3 +211,84 @@ Harbor staff, per what's recalled of the change, found themselves able to prepar
 than simply responding to whoever showed up — a genuine departure from the same improvised, chance-based
 hospitality that had defined the city's own gateway character since its founding. The gateway itself hadn't
 changed. For the first time, though, it could see a little further down the coast than its own harbor.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Wall Panel Port Lockroy's Own Residents Asked to See Photographed
+
+Following Port Lockroy's own inquiry about Cape Adare's heritage-documentation standard, a specific follow-up
+request came directly from the Communal Stone Wall's own current panel-carver — curious whether Cape Adare's
+own precise measurement techniques might help settle a genuine dispute about the Wall's own exact dimensions,
+a detail no living resident could confirm from memory alone.
+
+Cape Adare's own archivists, per what's preserved of the exchange, couldn't measure the Wall itself from a
+distance, but shared their own methodology for precisely documenting difficult-to-access structures — the same
+technique Manalo had once used to correct the hut's own original survey. Port Lockroy's own residents applied
+the borrowed method themselves, settling the dimensional dispute for the first time using a measurement
+standard imported directly from a city that had never seen the Wall in person.
+
+### The Tower Documentation Question Amundsen Station Sent Back a Second Time
+
+Following the original consultation on documenting the Tower's own construction, Amundsen Station's own
+planners sent a specific follow-up question once the completed structure's own first maintenance cycle raised
+a documentation gap the original archive consultation hadn't anticipated: how to record ongoing operational
+changes to a structure already built, rather than only its initial construction.
+
+Cape Adare's own archivists, per what's preserved of the response, offered a genuinely different answer this
+time — the hut's own preservation practice had never needed to document *changes* to a structure, since
+nothing about Borchgrevink's hut was ever meant to change at all. The two situations, once compared directly,
+turned out to require different documentation philosophies entirely. The exchange gave Amundsen Station's own
+planners something more valuable than a direct answer: confirmation that their own question needed a genuinely
+new documentation approach, not simply an adaptation of Cape Adare's own existing one.
+
+### The Penguin-Keeping Guidelines Zukelli's Own Residents Asked About
+
+Word of Cape Adare's own individual-penguin-keeping tradition, formalized under Widjaja's own basic shared
+guidelines, reached Zukelli's own residents for the first time once direct contact let genuine curiosity
+travel between two cities with no obvious reason to have ever compared civic customs before.
+
+Zukelli's own residents, per what's preserved of the inquiry, weren't proposing anything similar for their own
+city — simply curious how a formalized pet-keeping tradition alongside an undisturbed wild colony actually
+worked in practice. Cape Adare's own residents explained the guidelines in full, the same plain civic pride
+Widjaja's own original proposal had always carried. Nothing came of the exchange beyond genuine cross-city
+curiosity satisfied for the first time.
+
+### The Marker Explained to a City That Had Never Heard of Douglas Mawson
+
+Following St. Douglas's own marker at Cape Adare drawing curiosity from Tower-era travelers, a considerably
+more detailed inquiry arrived once full connectivity let a specific resident of a distant city — someone with
+no prior connection to Cape Adare at all — ask about the marker's own full history after hearing only a brief
+secondhand mention.
+
+Cape Adare's own residents, per what's preserved of the exchange, told the marker's own origin story in full
+for the first time to someone who'd never have had any reason to hear it before — the informal placement, the
+undirected visits that turned it into an observance, the same accumulated significance that had always defined
+how Cape Adare related to its own history. The inquiry didn't lead to any lasting connection between the two
+cities. It confirmed, once again, that Cape Adare's own quiet historical weight could still reach people who'd
+never have found it any other way.
+
+### The Heritage Standard Port Lockroy's Wall Now Officially Cites
+
+Following the earlier informal citation exchange between the two archives, Cape Adare's own preservation
+methodology was formally incorporated into Port Lockroy's own written documentation standards for the first
+time — no longer simply an informal reference, but a cited methodology in Port Lockroy's own institutional
+record.
+
+Cape Adare's own archivists, per what's recalled of learning about the formal citation, responded with the
+same understated pride the city applied to most of its own achievements — genuine satisfaction, expressed
+quietly, that a documentation discipline built to preserve one small wooden hut had become, formally, part of
+how another city's own chronicle-keeping tradition operated.
+
+### The Gateway Report That Finally Reached Amundsen Station Directly
+
+Cape Adare's own gateway role — the natural first stop for ships approaching the Ross Sea coast — produced its
+first direct reporting relationship with Amundsen Station once national shipping-safety coordination extended,
+for the first time, to include real-time arrival reports from every confirmed maritime gateway in the country,
+Cape Adare among them.
+
+Cape Adare's own harbor staff, per what's preserved of the new arrangement, found themselves filing a genuine
+national report for the first time — the same practical, unceremonious competence the harbor always applied to
+its own local traffic, now feeding directly into a national coordination system nobody at the harbor had ever
+had reason to think about before the connection made it possible.
