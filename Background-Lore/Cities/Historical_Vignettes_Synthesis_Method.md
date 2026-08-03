@@ -15,6 +15,18 @@ Companion to `Historical_Vignettes_Progress_Tracker.md` (scope/targets/pacing) �
 not "this was built for that reason" — something occurred, at some point, to someone or something, with
 a before and an after.
 
+## No post-war ruins. This is strictly History-only.
+
+**Every entry stays within the Second Interwar Period — pre-war, full stop.** No post-war content, no
+present-day content, no ruins content, not even one per batch. This is a documentation of History, not a
+second pass at the DLC ruins-exploration/archaeology material — that register belongs elsewhere in the
+project. Developer-flagged directly 2026-08-03 ("post-war siligel shortage in Signy? Really?") after an
+earlier, looser version of this rule (roughly one war-touching entry allowed per 6-entry batch) proved too
+permissive. Applies even to cities whose own source Attributes files lean heavily on post-war/ruins framing
+(Princess Elisabeth, Casey) — ground the entry in that same city's pre-war founding, construction, or
+operating-era material instead. See "Relationship to the war/destruction correction," below, for the full
+history of this rule and the list of entries the 2026-08-03 recheck required replacing.
+
 ## The test
 
 Before finalizing any entry, ask: **could the Physical Infrastructure Attributes file alone have
