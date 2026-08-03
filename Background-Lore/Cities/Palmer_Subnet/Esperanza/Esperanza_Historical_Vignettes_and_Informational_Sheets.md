@@ -6,7 +6,10 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Esperanza_Physical_
 Infrastructure_Attributes.md`'s 8 attributes and its Cross-Referenced Extrapolation Findings, plus
 `Esperanza_Full_Extrapolation.md` and `Esperanza_Cross_Reference_Synthesis.md`. **Batch 2 of many — target
-30, 12 done as of this batch.**
+30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific city-to-city connection from that file. 18 done as of
+batch 3.**
 
 ---
 
@@ -220,3 +223,90 @@ itself, not from any document that could be copied elsewhere. No other city atte
 What the exchange left behind instead was simpler — the first confirmation, direct from outside Esperanza
 entirely, that a promise never written down had still traveled far enough for strangers to ask sincere
 questions about it.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Delivery Marambio's Own Crews Confirmed Before It Arrived
+
+The established shipping division of labor between Esperanza's own Hope Bay Harbor and Marambio's own
+large-scale Shipyards had always run on physical confirmation only — a shipment either arrived as expected or
+it didn't, with no way for either harbor to know a delivery's actual status until it either showed up or
+failed to.
+
+The first live shipment-tracking exchange between the two harbors, held once direct contact let dockworkers at
+each site actually see the other's own dispatch records, let Hope Bay Harbor staff confirm a specific
+overflow shipment from Marambio had cleared its own loading dock hours before it physically reached
+Esperanza's shore — advance notice neither harbor had ever been able to offer the other before. The shipment
+arrived exactly as confirmed. The exchange became, informally, the first step toward the two harbors treating
+each other's own dispatch status as genuinely visible rather than simply trusted after the fact.
+
+### The Three Cities That Finally Marked Their Shared Heritage Together
+
+Esperanza, Marambio, and Belgrano — Argentina's only three founding-population cities in the country, split
+across two subnets — held their own first genuine three-way commemoration once direct contact let all three
+cities' own cultural representatives agree on a shared date without requiring anyone to actually travel.
+
+Esperanza's own Caregiver-Teacher Halls, per what's preserved of the occasion, incorporated the joint
+observance directly into the children's own civic education for the first time — a specific lesson, delivered
+the same day the observance itself was held, teaching Esperanza's youngest residents that their own city's
+Argentine heritage was shared, in real time, with two other communities they'd never otherwise have had any
+reason to know existed. The lesson wasn't elaborate. It was, per what's recalled of it, the first time
+Esperanza's own children had ever been taught about their city's own founding nation as something actively
+connected to other places, rather than as a fact about the past alone.
+
+### The Question Belgrano's Dockworkers Asked About the Founding Compact
+
+Word of Esperanza's own unwritten founding compact — the covenant to raise the children of humans who chose
+permanent exile — reached Belgrano's own dockworkers for the first time once the newly connected relay let
+casual curiosity actually travel between two cities that had never previously exchanged anything beyond
+occasional shared Argentine-heritage acknowledgment.
+
+A Belgrano dockworker, hearing an offhand mention of the compact during an unrelated logistics call with
+Esperanza's own harbor staff, asked enough follow-up questions that the exchange turned into a genuine,
+if informal, explanation of the whole tradition — the first time anyone at Belgrano had heard the compact
+described in any real detail. Nothing came of the exchange beyond the conversation itself. It left behind,
+per what's recalled of it, a small piece of shared Argentine civic knowledge that had simply never had a
+reason to cross the distance between the two cities before that specific call.
+
+### The Administrators Who Compared Notes on the Same Redistribution
+
+Esperanza's own population reduction and Janbogo's own, both part of the same administrative redistribution
+that enlarged Lazar, had always been experienced by each city separately — neither administration had ever
+actually discussed the shared event with the other, since no channel existed for two cities affected by the
+same decision to simply compare how each had absorbed it.
+
+The first direct exchange between civic administrators at Esperanza and Janbogo, held once contact became
+possible, confirmed something neither city had previously had any way to know: both cities had adjusted to
+the reduction using almost identical civic strategies, independently arrived at, without either administration
+ever knowing the other was managing the same problem the same way at the same time. The comparison didn't
+change how either city currently operated. It gave both administrations, for the first time, confirmation that
+their own independent responses to a shared administrative decision had converged without coordination.
+
+### The Recipe That Finally Reached the City It Was Named For
+
+A specific culinary tradition within Esperanza's own founding-era Argentine heritage, carried informally across
+generations without any formal record of its own origin, was confirmed for the first time as tracing directly
+back to a specific Belgrano family recipe once genealogical correspondence between the two cities' own
+Argentine-heritage communities became possible.
+
+The confirmation, reached through a specific exchange between an Esperanza home cook and a distant Belgrano
+relative neither had known existed until direct contact made the family connection traceable, closed a small
+but genuinely meaningful gap in Esperanza's own culinary history — proof, for the first time, of exactly where
+one specific dish had actually come from, rather than simply "somewhere in the founding generation's own
+Argentine heritage" the way it had always been described before.
+
+### The Harbor Report Janbogo Never Expected to Receive
+
+Esperanza's own maritime logistics expertise — proven once, when Hope Bay Harbor absorbed Marambio's own
+overflow during a dockside emergency — reached Janbogo's own transit-hub administration for the first time
+once a routine technical inquiry, sent with no particular expectation of a detailed answer, actually received
+one.
+
+Janbogo's own port coordinators, working an unrelated question about overflow-capacity planning for their own
+transit hub, asked Esperanza's own harbor staff how Hope Bay Harbor had handled its own historic overflow
+event — and received a detailed operational account neither city had ever had reason to share with the other
+before. The specific planning question Janbogo was working isn't preserved in detail. What is preserved is
+simpler: a small harbor, more famous locally for raising children than moving cargo, turned out to have real
+operational expertise another city's own transit hub found worth asking about directly.
