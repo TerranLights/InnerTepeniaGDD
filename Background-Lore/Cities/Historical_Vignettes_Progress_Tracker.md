@@ -277,6 +277,10 @@ approaching 12 in later sessions.
   Reason), and Lazar (all 5: The Planner Who Gave the Merger a Single Government, The Proposal the Rest of
   the Subnet Called Excessive, The Summer the Lakes Ran High, The Freight Coordinators Who Moved to the
   Highway, The Order Neumayer Couldn't Fill Itself). **Halley subnet's re-synthesis is complete except
-  Abowasa (paused).** Next: Casey (Mirny subnet, still needs its full 6-entry rewrite), then Palmer subnet's
-  full re-synthesis (8 cities, worst-affected — Palmer City/Sejong/Signy/Juan Carlos had zero surviving
-  history entries).
+  Abowasa (paused).**
+- **2026-08-02:** Casey (Mirny subnet) full rewrite, all 6 entries genuine history (The Records Wetherall
+  Wouldn't Let Stay Buried, The Forecast "Long Odds" Never Missed, What the Instruments Were Actually
+  Watching For, The Curiosity Down the Road, The Trucker Who Timed the Fork Wrong, Fast In Fast Out By
+  Design). Casey now at 6/30. **Mirny and Casey re-synthesis complete.** Next: Palmer subnet's full
+  re-synthesis (8 cities, worst-affected by the original attribute-drift problem — Palmer City, Sejong,
+  Signy, and Juan Carlos had zero surviving history entries each).
