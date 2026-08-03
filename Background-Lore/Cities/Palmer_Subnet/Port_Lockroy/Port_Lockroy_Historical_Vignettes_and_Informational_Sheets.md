@@ -6,7 +6,10 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Port_Lockroy_
 Physical_Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolation Findings, plus
 `Port_Lockroy_Full_Extrapolation.md` and `Port_Lockroy_Cross_Reference_Synthesis.md`. **Batch 2 of many —
-target 30, 12 done as of this batch.**
+target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific city-to-city connection from that file. 18 done as of
+batch 3.**
 
 ---
 
@@ -216,3 +219,92 @@ that had chosen the detour deliberately, in advance, rather than discovering the
 sudden necessity the way the earlier storm-caught crew once had. The harbor's own reputation for calm water
 hadn't changed. What changed was that, for the first time, a crew in danger somewhere else on the coast could
 actually be told where safety was before they needed to find it by instinct alone.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Method Juan Carlos Finally Compared Against Its Own
+
+Port Lockroy's own postal-correspondence network and Juan Carlos's own formal archive-keeping had always been
+recognized, in the abstract, as two civic identities built around moving information rather than goods — never
+once directly compared by the people actually running either institution, since no channel existed for
+either city's own record-keeping staff to simply examine how the other actually worked.
+
+The first direct exchange between Port Lockroy's postal administrators and Juan Carlos's own archivists, held
+once contact became possible, walked through both institutions' own methodology in detail — Port Lockroy's own
+scaled-down, partly hand-managed relay against Juan Carlos's own formal, centrally organized archive. Neither
+institution restructured itself as a result. Both, per what's preserved of the exchange, came away with a
+clearer sense of exactly how differently two cities built around the same underlying instinct — that
+information itself deserved careful, deliberate handling — had each chosen to organize that instinct in
+practice.
+
+### The Panel Zhongshan's Archivists Asked to See in Full
+
+Word of Port Lockroy's own Communal Stone Wall — a new panel carved every year, honest rather than curated —
+reached Zhongshan's own Long Record archivists for the first time once direct contact let genuine
+professional curiosity travel between two cities whose own history-keeping instincts had developed in complete
+isolation from each other.
+
+Zhongshan's own archivists, curious how a chronicle built entirely into physical stone actually handled an
+unflattering year, asked Port Lockroy directly about the specific panel residents once nearly softened rather
+than carved honestly. Port Lockroy's own residents explained the incident in full for the first time to an
+outside audience — the same account already preserved locally, now shared with archivists from a city whose
+own methodology (paper records rather than stone) had never previously had reason to compare notes with
+Port Lockroy's own physical, irreversible chronicle.
+
+### The Preservation Standard Cape Adare Finally Requested Directly
+
+Port Lockroy's own preservation-as-practice civic identity and Cape Adare's own heritage-documentation archive
+had always been noted, by anyone comparing the two cities, as genuinely similar civic instincts — never
+actually compared methodology to methodology, since no channel existed for either city's own preservation
+staff to examine the other's specific practices.
+
+The first direct request Cape Adare ever sent to Port Lockroy, asking specifically how the Communal Stone
+Wall's own strict "no editing after the fact" discipline was actually enforced generation to generation, drew
+a detailed answer from Port Lockroy's own civic institutions — the same honest-chronicle standard that had
+once produced the Wall's own hardest panel, explained now to a city whose own Borchgrevink's Hut archive
+maintained a comparably strict precision standard for entirely different reasons. Cape Adare's own archivists
+adopted a version of the practice for their own future documentation. It marked the first time either city's
+own preservation methodology had directly shaped the other's.
+
+### The Correspondence Route Juan Carlos Finally Used for Something Personal
+
+Port Lockroy's own postal network, and Juan Carlos's own formal archive function, had always operated as two
+entirely separate kinds of information-moving institution — one personal and physical, one formal and
+centralized — with no reason for either to actually use the other's own infrastructure.
+
+The first personal letter Juan Carlos's own archive staff ever routed through Port Lockroy's own postal
+network, rather than the formal Federation correspondence channel archive business normally used, came from
+an archivist who'd learned, through the two institutions' recent direct contact, that Port Lockroy's own
+network still handled genuinely personal mail in a way the formal channel never had. The letter reached its
+intended recipient exactly as any ordinary Port Lockroy-routed correspondence would. It marked, informally, the
+first time Juan Carlos's own staff had used Port Lockroy's network for anything beyond professional curiosity.
+
+### The Wall That Gained a Panel About a City It Had Never Seen
+
+The Communal Stone Wall's own established discipline — a new panel every year, honest rather than curated —
+faced a genuinely new kind of question once direct contact with Zhongshan and Cape Adare made Port Lockroy's
+own residents aware, for the first time, of comparable chronicles being kept elsewhere in the country using
+entirely different methods.
+
+A specific year's panel, per what's preserved of the debate over it, was carved to record the simple fact that
+Port Lockroy had, for the first time, learned its own honest-chronicle tradition wasn't unique — that
+Zhongshan kept something similar on paper, and Cape Adare something similar in careful documentation. The
+panel didn't record either other city's own history. It recorded, in Port Lockroy's own understated style,
+the simple realization that the impulse behind the Wall had apparently occurred to more than one Tepenian
+city independently.
+
+### The Reference Cape Adare's Archive Now Cites
+
+Cape Adare's own heritage-documentation archive, already consulted directly for how to properly document the
+Amundsen Tower's own construction, began citing Port Lockroy's own preservation methodology as a comparative
+reference point in its own internal documentation standards — the first time either archive had formally
+referenced the other in its own working records.
+
+The citation, modest and purely internal, reflected something neither archive had been able to establish
+before direct contact existed: that two cities' own independently developed preservation disciplines were
+similar enough, and different enough, to be genuinely useful reference points for each other going forward.
+Port Lockroy's own residents, per what's recalled of learning about the citation, treated the news with the
+same understated pride the city applied to most of its own quiet achievements — pleased, without making
+particular ceremony of it.

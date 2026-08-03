@@ -69,7 +69,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Esperanza | 18 | 30 | In progress |
 | Rothera | 18 | 30 | In progress |
 | Marambio | 18 | 30 | In progress |
-| Port Lockroy | 12 | 30 | In progress |
+| Port Lockroy | 18 | 30 | In progress |
 | Sejong | 12 | 30 | In progress |
 | Signy | 12 | 30 | In progress |
 | Juan Carlos | 12 | 30 | In progress |
