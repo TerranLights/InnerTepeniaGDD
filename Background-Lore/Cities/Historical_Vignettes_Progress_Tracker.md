@@ -96,7 +96,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Fort McMurdo | 6 | 30 | In progress |
 | Dumont d'Urville | 6 | 30 | In progress |
 | Cape Adare | 6 | 30 | In progress |
-| Zukelli | 0 | 30 | Not started |
+| Zukelli | 6 | 30 | In progress |
 | Scott | 0 | 30 | Not started |
 | Denison | 0 | 30 | Not started |
 
