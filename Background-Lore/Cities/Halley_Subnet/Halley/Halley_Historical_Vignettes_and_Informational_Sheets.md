@@ -5,11 +5,13 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Halley_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Halley_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's
-own completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
-after — once the whole country was connected through the Tower's single relay node for the first time. The
-Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
-batch.**
+`Halley_Cross_Reference_Synthesis.md`. **Batch 2 was framed around the Amundsen Tower's own completion, per
+direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
+direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
+only have happened once full national digital connectivity existed — not merely faster versions of things
+that already happened, but genuinely new possibilities the Tower's completion opened up, each grounded in a
+specific city-to-city connection from that file and in Halley's own established struggles. Target 30, 18
+done as of this batch.**
 
 ---
 
@@ -255,3 +257,99 @@ grateful for the same founding-era overbuilding discipline that had once seemed 
 infrastructure built more robustly than its own original purpose strictly required turned out to have real
 headroom exactly when the corridor's own function changed overnight from a single dedicated link into one
 thread in the whole country's own newly unified network.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Reading Neumayer Caught Before Halley's Own Instruments Did
+
+Halley's own structural monitoring — watching the Brunt Ice Shelf's own slow, constant drift for the specific
+signs that precede a genuine calving event — had always been an entirely local discipline, the same way
+Neumayer's own hydraulic-leg monitoring of the Ekström Ice Shelf had always been Neumayer's alone. The two
+cities shared the identical underlying problem and had never once compared live readings against each other,
+since nothing before the Tower's completion let either city's own instruments talk to the other's in real
+time.
+
+The first genuine test came when Neumayer's own monitoring staff, cross-referencing a live Halley feed out of
+professional curiosity more than any formal arrangement, flagged a subtle strain pattern in Halley's own
+data that closely matched a precursor signature Neumayer's own engineers had learned to watch for on their
+own ice shelf — a correlation neither city's own instruments, working in isolation, had ever been positioned
+to notice. Halley's own structural crews investigated the flagged section directly and confirmed genuine,
+if modest, elevated strain worth adding to the standing monitoring schedule. Nothing about the underlying
+ice-shelf science changed. What changed, for the first time in either city's history, was that a second set
+of trained eyes on the same category of hazard could actually watch the same data at the same moment.
+
+### The Builder Who Talked to the Nexus Every Single Day
+
+The Halley residents who had traveled to Sanay and physically built the Halley subnet's own Arcanet nexus
+returned home once the work was finished, per established practice, leaving the completed installation in
+Sanay's own hands to operate day to day — a clean handoff that had always meant, until the Tower's own
+completion, that the builders and the site they'd built essentially lost contact with each other.
+
+One specific builder, per what's remembered of the period immediately following activation, found himself
+able to reach the technicians now running the nexus he'd personally helped construct for the first time since
+returning to Halley — not through any formal channel, simply by using the same national relay his own crew's
+work had helped make possible. He continued checking in with the operating crew informally for years
+afterward, a habit several other returned builders picked up independently once they realized the same thing
+he had: a structure they'd built with their own hands, hundreds of kilometers away, was no longer something
+they had to simply trust was still running. They could ask.
+
+### The Warning That Reached Halley Before the Weather Did
+
+Halley's own resupply timing had always depended on reading ice and weather conditions locally, or on whatever
+delayed word eventually arrived from Belgrano or Sanay about which passage was open — a system that had never
+once given Halley advance warning of a storm system still forming somewhere else entirely. The first
+occurrence of genuine advance warning came once ships and stations elsewhere in the connected country could
+report developing conditions before those conditions ever reached the Weddell Sea.
+
+A severe weather system, tracked and reported from considerably further out than Halley's own observation
+range had ever reached, prompted the first storm advisory Halley's own civic administration had ever received
+before the weather itself was locally visible — time genuinely used, per what's preserved of the response, to
+secure equipment and adjust the relocation-crew schedule ahead of conditions that would previously have
+arrived as a complete surprise. The storm proved genuinely severe. Halley weathered it with preparation time
+no prior generation of residents had ever actually had.
+
+### The Wedding Neither Family Expected to Attend in Person
+
+A relationship between a Halley engineer and a Neumayer engineer, the two having corresponded for years
+through the same slow, occasional channel any two ice-shelf cities' own technical staff might exchange
+findings through, became something considerably more immediate once instant contact let the two actually talk
+daily rather than trade occasional written notes months apart.
+
+The engagement that resulted, per what's remembered of the courtship, moved considerably faster than either
+family had expected — a relationship built for years on infrequent, careful correspondence suddenly able to
+develop at ordinary conversational speed. The wedding itself, held at Halley, drew a small delegation from
+Neumayer who made the trip specifically because the couple's own daily contact over the preceding months had
+made the distance between the two cities feel, for the first time, like something worth crossing in person
+rather than simply corresponding around indefinitely.
+
+### The Joint Session That Replaced Three Separate Guesses
+
+Halley's, Neumayer's, and Sanay's own relocation and infrastructure planning had always been conducted
+independently, each city working from its own local data and whatever slow, indirect word eventually reached
+it about its neighbors' own circumstances. The first joint planning session bringing representatives from all
+three cities together in real time, rather than corresponding sequentially over weeks, took place specifically
+to coordinate ice-shelf-adjacent construction timing that all three cities had a stake in.
+
+The session, per what's preserved of its own record, surfaced at least one planning conflict none of the
+three cities had known existed — overlapping equipment needs neither Halley nor Neumayer had realized the
+other was also scheduling for the same season, resolved directly rather than discovered too late the way it
+would have been under the old correspondence-by-mail rhythm. The specific resolution reached isn't preserved
+in full detail. That the three cities could reach it in a single sitting, rather than an exchange of letters
+spanning a season, was itself the genuinely new thing.
+
+### The Freighter Redirected Mid-Voyage for the First Time
+
+Halley's own resupply had always depended on trucking goods overland from whichever of Belgrano's or Sanay's
+passage happened to be open — a decision made once, at departure, and never revisited regardless of what
+happened to conditions afterward. The first mid-voyage redirect came once live tracking let dispatchers
+reroute a shipment already underway rather than simply hoping the original routing decision held.
+
+A supply convoy already committed to the Belgrano route, per what's preserved of the incident, was redirected
+toward Sanay's own passage mid-transit after live reports showed Belgrano's own approach closing faster than
+expected — a correction that would have been impossible under the old system, where a convoy already en route
+had no way to learn its own destination had become unviable until arriving to find out directly. The
+redirected convoy reached Halley on schedule. The incident became, informally, the first concrete proof that
+Halley's own resupply chain no longer had to treat a routing decision as final the moment a convoy left the
+dock.

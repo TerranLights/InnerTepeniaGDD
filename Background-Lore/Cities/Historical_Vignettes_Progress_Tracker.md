@@ -52,7 +52,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Halley | 12 | 30 | In progress |
+| Halley | 18 | 30 | In progress |
 | Neumayer | 12 | 30 | In progress |
 | Belgrano | 12 | 30 | In progress |
 | Troll | 12 | 30 | In progress |
@@ -156,6 +156,17 @@ downstream "receiving city" angle. Abowasa stays paused/excluded until its found
 each, then loop back around for each city's next batch — not finishing one city to its full target before
 moving to the next. Halley subnet order: Halley → Neumayer → Belgrano → Troll → Abowasa → Sanay → Princess
 Elisabeth → Lazar → (loop back to Halley for batch 2) → ...
+
+**2026-08-03 — Batch 3 framing, developer-directed: connections-only occurrences.** Every city's batch 3 gets
+exactly 6 new entries, all set after the Tower's completion (no before/after split this time), each one a
+genuine historical occurrence that could **only** have happened once full national digital connectivity
+existed — not a faster or better version of something that already happened, but something the previous,
+fragmented-subnet state of the country made structurally impossible. Each entry is grounded in a specific
+city-to-city connection from `City_National_Connections.md` (the reference file built the same session) and
+in that city's own established struggles and daily life, not generic "everyone could talk now" filler.
+Applies to all 35 outer cities + Tri-Cities + Byrd (its own 4th batch) — Amundsen Station is excluded this
+round since the framing is specifically city-to-city, and Amundsen Station already got its own dedicated
+construction/activation batch. Abowasa stays paused/excluded until its founding-nation fix lands.
 
 ---
 
