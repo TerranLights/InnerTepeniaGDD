@@ -106,7 +106,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mawson | 6 | 30 | In progress |
 | Dome Fuji | 6 | 30 | In progress |
-| Sayowa | 0 | 30 | Not started |
+| Sayowa | 6 | 30 | In progress |
 
 ### Byrd Subnet (target: 50, 1 city)
 
