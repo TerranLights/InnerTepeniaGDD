@@ -11,7 +11,7 @@ explicitly post-war material per `Dumont_dUrville_Full_Extrapolation.md` Section
 character work belongs to her own dedicated companion file, not incidental vignette content. Drawn primarily
 from `Dumont_dUrville_Full_Extrapolation.md` (Tier 1), `Dumont_dUrville_Physical_Infrastructure_Attributes.md`
 and `Specs/Dumont_dUrville.md` (Tier 2), and `Dumont_dUrville_Cross_Reference_Synthesis.md` (Tier 3). **Batch
-1 of many — target 30, 6 done as of this batch.**
+2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -120,3 +120,91 @@ naturalist who'd originally dismissed it revised the monitoring program's own re
 instituting a practice of logging even seemingly insignificant behavioral variations in full rather than
 filtering them out during observation itself — a specific, corrected oversight that shaped how every
 subsequent generation of the colony-observation tradition recorded what it actually saw.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Junction Tested by Traffic From Both Directions at Once
+
+*(Shortly before the Tower's completion.)* Dumont d'Urville's own two-highway junction — built, per its own
+founding-era gamble, ahead of the traffic volume that eventually justified it — handled, late in the Tower's
+construction, genuine simultaneous heavy traffic on both Hwy 2 and Hwy 183 at once, convoys converging from
+both directions toward the same connecting point (`Dumont_dUrville_Full_Extrapolation.md` Section II; Physical
+Infrastructure material).
+
+Coordinators managing the junction, per what's remembered of the stretch, found the founding-era planners'
+own bet on building a genuine connected junction, rather than two independent roads, paying off exactly as
+intended — traffic transferring cleanly between the two highways at a volume considerably beyond ordinary
+subnet trade, without the junction's own capacity becoming the bottleneck a pair of unconnected roads would
+have made inevitable. The city's own coordination role, quietly earned generations earlier, simply held under
+a test its own founders had gambled it would eventually face.
+
+### The Reading Held Against a Wind Nobody Expected That Year
+
+*(Shortly before the Tower's completion.)* That year's St. Jules Day reading, held outdoors as every prior
+observance had been, coincided with an unusually severe wind event — a coincidence residents afterward
+connected, without any hard evidence either way, to whatever large-scale atmospheric effects a project the
+size of the Tower might have been producing elsewhere on the continent
+(`Dumont_dUrville_Full_Extrapolation.md` Section IV).
+
+Readers that year, per what's preserved of the account, held to the observance's own founding principle
+exactly as the first outdoor reading's own organizers had insisted — comfort would undercut what made the
+reading meaningful, and severe conditions, if anything, honored the original 1840 landing more completely
+than an easy year would have. The reading was completed in full despite the wind. Whether the unusual weather
+actually had anything to do with the Tower's own distant construction was never resolved, and residents,
+per what's remembered of the discussion afterward, treated the uncertainty itself as fitting for an observance
+already built around standing in conditions nobody could fully control.
+
+### The Evening the Venues Fed a Crowd They'd Never Planned For
+
+*(Shortly before the Tower's completion.)* Downtown Dumont d'Urville's own live-music eateries, born
+generations earlier from one small venue's practical fix for a slow evening, absorbed an unusually large
+stretch of unfamiliar visitors late in the Tower's construction — travelers passing through the junction,
+drawn downtown by the same informal, packed atmosphere that had always defined the city's evening culture
+(`Dumont_dUrville_Full_Extrapolation.md` Section I background; downtown culture material).
+
+Proprietors, per what's remembered of the stretch, handled the increased traffic the same improvisational way
+the original venue had handled its own first slow-evening experiment — no formal coordination between
+businesses, each eatery simply doing what it always did at a scale that happened, for a season, to be larger
+than usual. The scene itself didn't change. It simply had, for a while, more strangers in the room than any
+ordinary week had ever brought through downtown before.
+
+### The Junction That Started Coordinating With Places It Had Never Reached
+
+*(Shortly after the Tower's completion.)* Dumont d'Urville's own junction coordination — previously relevant
+only to traffic actually moving between Hwy 2 and Hwy 183 — extended, once the Tower's completion connected
+the whole country through a single relay, to route planning conducted by dispatchers in subnets that had never
+needed to think about this specific junction before (`Dumont_dUrville_Full_Extrapolation.md` Section II).
+
+Coordinators, per what's recalled of the change, found themselves fielding routing questions from considerably
+further away than the junction's own established traffic had ever originated — the same practical, unglamorous
+coordination competence the city had always applied to its own two highways, now relevant to route planning
+happening in places Dumont d'Urville had no prior working relationship with at all.
+
+### The Reading Broadcast to People Who'd Never Stood in That Wind
+
+*(Shortly after the Tower's completion.)* St. Jules Day's own outdoor reading was, for the first time, carried
+to listeners elsewhere in the newly connected country — people who could hear the wind the observance had
+always insisted on standing in, without ever having felt it themselves
+(`Dumont_dUrville_Full_Extrapolation.md` Section IV).
+
+Readers that year, per what's remembered of it, changed nothing about how the observance was conducted — the
+same insistence on genuine outdoor conditions, unmodified for an audience experiencing it secondhand. Whether
+distant listeners understood what the wind itself was actually for wasn't something Dumont d'Urville's own
+organizers could control or particularly worried about. The reading had never been performed for an audience's
+comprehension before; it wasn't about to start now, even with considerably more people listening than ever had
+before.
+
+### The Scene That Finally Had an Audience Beyond the Junction
+
+*(Shortly after the Tower's completion.)* Word of downtown Dumont d'Urville's own "New Orleans at 1/20th scale"
+live-music culture reached, for the first time, residents of cities who'd never passed through the junction and
+had no reason to know the scene existed, carried by the same national connection now reaching everywhere at
+once (`Dumont_dUrville_Full_Extrapolation.md` Section I background).
+
+Proprietors, per what's recalled of the reaction, treated the outside awareness the same unhurried way the
+scene itself had always operated — no eatery reorganized around the sudden outside interest, the same informal,
+packed evenings continuing exactly as they always had. What changed, for the first time, was simply that a
+cultural signature born from one small venue's slow-Tuesday fix now had a reputation reaching considerably
+further than the highway junction that had always brought its first visitors through the door.
