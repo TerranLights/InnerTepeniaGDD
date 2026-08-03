@@ -5,11 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Troll_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Troll_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's own
-completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
-after — once the whole country was connected through the Tower's single relay node for the first time. The
-Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
-batch.**
+`Troll_Cross_Reference_Synthesis.md`. **Batch 2 was framed around the Amundsen Tower's own completion, per
+direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
+direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
+only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
+connection from that file and in Troll's own established struggles. Target 30, 18 done as of this batch.**
 
 ---
 
@@ -258,3 +258,86 @@ crews' own reflection on the period, became a point of quiet confidence going fo
 real pressure, that Troll's own aviation logistics could handle genuinely unexpected additional demand without
 failing either commitment, a capability nobody had specifically planned to prove but that the Tower's own
 construction period had tested regardless.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Flight Troll and Sinheung Finally Stopped Duplicating
+
+Troll's and Sinheung's own independent aviation routes into Dome Fuji had run for a substantial stretch of
+Tepenian history as two entirely separate logistics operations, each scheduled without any visibility into the
+other's own flights — a genuine three-city supply triangle that had never once been coordinated as a triangle,
+only as two disconnected pairs both happening to serve the same isolated destination.
+
+The first joint scheduling session between Troll's and Sinheung's own dispatch offices, held once direct
+contact let the two routes actually compare manifests, uncovered a specific, previously invisible overlap: both
+routes had, on at least one recurring date each season, delivered near-duplicate cargo to Dome Fuji within
+days of each other while other genuine needs went unfilled. The corrected joint schedule that resulted, staggering
+deliveries and dividing cargo types between the two routes rather than letting them run blind, gave Dome Fuji's
+own genuinely thin resupply margin real slack for the first time in the arrangement's own working history.
+
+### The Conversation Fort McMurdo Never Had With Anyone Who'd Understand It
+
+Troll's own freight-hub identity and Fort McMurdo's own industrial-capital identity had always been compared
+from outside — other cities noting the resemblance between the two — without either city's own working staff
+ever actually talking to their genuine professional counterpart in the other.
+
+The first direct exchange between logistics coordinators at Troll and industrial planners at Fort McMurdo, held
+once the connection made it trivial to simply reach out, produced something neither city had specifically
+sought but both found genuinely useful: a shared vocabulary for a kind of civic identity — working-class,
+logistics-driven, nationally significant but rarely glamorized — that neither city had ever had anyone
+outside itself to actually compare notes with. The exchange didn't resolve any specific operational question.
+It confirmed, for the first time directly rather than by outside observation, that the resemblance between the
+two cities was real and mutually recognized.
+
+### The Passage Report Sanay Sent Before Anyone Asked
+
+Troll's own onward aviation distribution had always depended on Sanay's and Belgrano's own overland deliveries
+arriving on schedule — confirmed, historically, only once the freight physically showed up at Troll's own
+receiving yards, with no advance notice of delays or changes.
+
+The first live shipment-status update Sanay ever sent proactively, rather than simply letting Troll discover a
+delay when a truck failed to arrive, let Troll's own dispatch office adjust an outbound flight schedule before
+committing aircraft to a cargo load that wasn't actually going to be ready. The adjustment held one aircraft
+back a full day rather than sending it to sit idle waiting for freight that arrived later than planned — a
+small, genuinely new kind of efficiency neither city's own logistics culture had ever had the information to
+achieve before.
+
+### The Working-Class Wage Comparison Nobody Had Ever Been Able to Run
+
+Troll's own reputation for spending power notably higher than the national average had always been an
+internal fact, discussed locally without any real basis for comparison against other Tepenian cities' own
+working-class economies, since no channel existed for ordinary residents to actually check.
+
+The first informal wage-and-cost-of-living comparison between Troll's own freight workers and their
+counterparts in other logistics-heavy cities, conducted once direct contact made the comparison possible at
+all, confirmed what had previously only been local reputation — Troll's own working-class spending power held
+up favorably even against cities specifically chosen for the comparison. The exercise wasn't especially
+systematic or official. It gave Troll's own residents, for the first time, something other than internal
+civic pride to actually measure the claim against.
+
+### The Weather Data Troll Started Sharing With a City It Had Never Supplied
+
+Troll's own inland, nunatak-elevated weather monitoring — genuinely useful for aviation scheduling across a
+wide radius — had always stayed local, since no prior channel existed to share it with anyone beyond Troll's
+own immediate operational needs.
+
+The first outside request for Troll's own weather data came from a city with no prior supply relationship to
+Troll at all, seeking comparison data for its own katabatic-exposure engineering work. Troll's own
+meteorological staff, per what's remembered of the exchange, shared the requested records without particular
+ceremony — the same practical instinct that governed everything else about how Troll operated, applied for the
+first time to a recipient the freight network itself had never once delivered anything to.
+
+### The Abowasa Shipment That Finally Explained Its Own Delay
+
+Abowasa's own small-scale trade, downstream of the same Hwy 7 corridor Troll anchors the aviation end of, had
+always received its own shipments on whatever schedule the larger Halley subnet supply chain happened to
+produce — delays affecting Abowasa specifically were never explained, simply absorbed as part of being the
+smallest, least-prioritized stop on the route.
+
+The first direct explanation Troll ever sent to Abowasa for a specific delayed shipment — a genuine account of
+why a particular delivery had been bumped in favor of higher-priority cargo elsewhere on the route — reached
+Abowasa's own small trade office for the first time in the corridor's own working history. The explanation
+didn't change the delay itself. It gave Abowasa's own residents, for the first time, an actual reason rather
+than simply another instance of being last in line.
