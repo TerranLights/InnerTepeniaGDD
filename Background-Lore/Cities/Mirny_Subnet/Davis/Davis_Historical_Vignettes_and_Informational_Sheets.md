@@ -8,7 +8,11 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Davis_Full_Extrapolation.md` (Tier 1), `Davis_Physical_Infrastructure_Attributes.md`
 and `Specs/Davis.md` (Tier 2), and `Davis_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target
-30, 12 done as of this batch.**
+30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Mawson,
+Kunlun, Dome Fuji, Neumayer, Casey) distinct from batch 2's own generically-framed comparison entry. 18 done
+as of batch 3.**
 
 ---
 
@@ -211,3 +215,87 @@ before a freeze even closed the main harbor, rather than improvising the respons
 forced the question. The fjords themselves hadn't changed, and neither had their own separate freeze
 schedules. What changed was simply that Davis, for the first time, could plan around them instead of merely
 reacting to them.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Real-World Rescue Mawson's Own Historians Finally Confirmed
+
+Davis's own real-world namesake, John King Davis, had personally captained the relief voyage that rescued
+Douglas Mawson's own stranded expedition party — a genuine historical fact neither city's own civic
+institutions had ever formally investigated together, since the connection had always lived as background
+trivia rather than something either city's own historians had actually researched jointly.
+
+The first joint historical research effort, undertaken once direct contact let historians at Davis and Mawson
+actually coordinate a shared investigation, confirmed the specific historical rescue in detail and produced,
+for the first time, a documented account both cities' own civic records could point to. Neither city changed
+its own established naming or civic identity as a result — both names had always stood on their own regardless
+of the connection. What changed was that a real historical link between the two cities' own namesakes, known
+in the abstract for generations, finally had an actual joint research record behind it.
+
+### The Sediment Core Kunlun's Observatory Asked to Borrow
+
+Davis's own paleoclimate lake-sediment methodology drew its first direct request from Kunlun's own observatory
+staff, curious whether a specific historical stretch in Davis's own sediment record might help calibrate an
+atmospheric anomaly Kunlun's own instruments had picked up but couldn't fully explain using ice-core data
+alone.
+
+Davis's own research community, per what's preserved of the exchange, supplied the requested core data in
+full — the same "enabler" instinct that had defined the team since Wirawan's own founding-era insistence on
+shared credit. Whether the data actually resolved Kunlun's own atmospheric question isn't part of what Davis
+itself preserved. The request itself, the first time an observatory built around ice-core science had reached
+directly for lake-sediment data instead, confirmed the two methodologies were closer in practical use than
+either research tradition had previously had reason to test.
+
+### The Climate Question Dome Fuji's Research Station Sent Before It Went Quiet
+
+Dome Fuji's own JARE-descended research station, still in its own operational research-era at the time,
+reached Davis's own research community directly for the first time with a specific paleoclimate question —
+a genuine scientific correspondence between two of Tepenia's most methodologically serious research
+traditions, made possible only once direct contact let two stations this distant actually compare notes.
+
+Davis's own researchers, per what's preserved of the exchange, answered the inquiry in full, contributing
+sediment-core data to a joint analysis neither station could have produced working in isolation. The specific
+scientific question resolved cleanly. What the exchange left behind was simpler: proof that Dome Fuji's own
+research tradition, however isolated the station itself remained physically, could still reach genuine
+scientific collaboration once a channel existed to make the attempt worth the effort.
+
+### The Correspondence Neumayer Finally Answered With Its Own Full Record
+
+Following the first joint reading session between Neumayer's atmospheric archive and Davis's own sediment
+record, a Davis researcher sent a specific follow-up question Neumayer's own institutional archive hadn't been
+asked before: whether a particular multi-decade stretch of atmospheric data showed any correlation with a
+Davis-documented sediment anomaly from the same period.
+
+Neumayer's own archivists, per what's preserved of the response, spent considerably longer on the follow-up
+than the original joint session had required — genuine, careful cross-checking rather than a quick answer.
+The correlation, once confirmed, gave both research traditions something neither had held before: a specific,
+dated historical event visible independently in two entirely different kinds of long-term record, confirmed
+only because a follow-up question could actually be asked and answered directly.
+
+### The Wildlife Data Casey's Dispatchers Never Expected to Need
+
+Davis's own established Australian-heritage cultural network with Casey and Mirny extended, for the first
+time, into genuine technical territory once Casey's own dispatch office, working an unrelated question about
+wildlife-crossing hazards near a stretch of monitored road, reached out to Davis's own research community for
+data neither city had previously had reason to share.
+
+Davis's own researchers, drawing on the same careful field methodology that had once revealed shifting seal
+haul-out patterns near Signy, supplied Casey's own dispatchers with the requested wildlife-activity data —
+genuinely useful safety information that had nothing to do with either city's shared Australian heritage, only
+with the fact that direct contact now existed to make an unrelated, practical request worth sending at all.
+
+### The Enabler Ethos That Finally Had an Audience Beyond Davis Itself
+
+Word of Wirawan's own founding-era insistence on shared research credit — the "enabler" ethos that had shaped
+how Davis's own research community operated for generations — reached, for the first time, researchers at
+other cities curious how a research tradition had sustained that specific practice across so many
+generations without it ever lapsing.
+
+Davis's own senior researchers, per what's recalled of the inquiries, explained the practice plainly to
+outside researchers asking about it directly for the first time — no dramatic secret, simply a founding-era
+precedent maintained deliberately, generation after generation, because each cohort had chosen to keep
+crediting collectively rather than individually. Whether any inquiring research community adopted the practice
+elsewhere isn't preserved. The ethos itself, quietly maintained for generations without ever seeking outside
+attention, had for the first time been asked about directly by people who'd never worked at Davis at all.
