@@ -8,7 +8,9 @@ rather than a restated attribute. No entry below depends on any other; none are 
 Drawn primarily from `Palmer_City_Full_Extrapolation.md` (Tier 1), `Palmer_City_Physical_Infrastructure_
 Attributes.md` and `Specs/Palmer_City.md` (Tier 2), and `Palmer_City_Cross_Reference_Synthesis.md` (Tier 3).
 Palmer City carries the **elevated 50-entry target** — begins the Palmer subnet. **Batch 2 of many — 12 done
-as of this batch.**
+as of that batch. Batch 3, per direct developer instruction, is framed around `City_National_Connections.md`:
+six occurrences that could only have happened once full national digital connectivity existed, each grounded
+in a specific city-to-city connection from that file. 18 done as of batch 3.**
 
 ---
 
@@ -216,3 +218,98 @@ trader, per informal accounts, admitted missing the puzzle of it. What the ledge
 the adjustment period passed, was simpler: a subnet hub built on a boat crossing and a highway waypoint had
 just had the single largest source of friction in its own trade relationships quietly removed, generations
 into an economy that had never known anything else.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Reunion the Redistribution Never Made Possible Before
+
+Palmer City's own over-cap population redistribution had sent a considerable share of residents to found Byrd
+generations earlier — families split by a single administrative decision, with essentially no realistic way
+to stay in touch across a distance and an isolation that had always made ordinary correspondence rare and
+slow.
+
+The first wave of direct reconnection, once the relay made contact between the two cities effectively
+instant, brought a specific rush of inquiries through Palmer City's own civic records office — residents
+searching for descendants of relatives who had left generations earlier during the original redistribution,
+many for the first time having any realistic way to actually find out what had become of family members
+they'd only ever known through inherited stories. Not every inquiry produced a confirmed connection. Enough
+did, per what's remembered of the period, that the records office found itself handling a volume of
+genealogical requests it had never previously had reason to expect, all traceable to the same single
+administrative decision generations earlier finally becoming something families could actually follow up on.
+
+### The Consultation Two Hospitality Economies Never Thought to Have
+
+Palmer City's own entertainment-and-casino economy and Mawson's own honeymoon-destination hospitality
+industry had always been recognized, in the abstract, as Tepenia's two deliberately-cultivated tourism
+economies — never once directly compared by the people actually running either one, since no channel existed
+for hospitality staff at either city to simply ask the other how it was done.
+
+The first direct exchange between hospitality administrators at the two cities, held once the connection made
+the comparison easy to arrange, produced a genuinely useful cross-pollination — Mawson's own dedicated,
+intimate small-scale guest infrastructure model, and Palmer City's own large-scale entertainment-venue
+approach, compared directly for the first time. Neither city's own tourism economy was restructured as a
+result. Both administrations, per what's preserved of the exchange, came away with specific operational ideas
+worth adapting — proof that two cities built around entirely different kinds of hospitality could still learn
+something concrete from each other once actually given the chance to talk shop.
+
+### The Design Petrograd Room Staff Never Expected to Be Asked About
+
+A Lazar commercial developer's own study of the Petrograd Room's layout and lighting design, undertaken while
+planning a Lazar entertainment-district expansion, reached Palmer City's own venue staff directly for the
+first time — a request for design detail from a city whose own maglev/holographic commercial density had
+never previously had any working relationship with Palmer City's own entertainment economy at all.
+
+Petrograd Room staff, per what's remembered of the exchange, answered the inquiry with the same confident,
+established pride the venue had carried since its own founding-era naming — genuinely detailed technical
+information about lighting and layout, offered without treating the request as anything requiring special
+handling. Whatever Lazar's own developers eventually built from the answer isn't part of what Palmer City
+itself preserved. The room that had once needed generations to earn its own imperial-ambition name had, for
+the first time, been consulted by another city's own commercial planners as a genuine design authority.
+
+### The Corridor Sejong and Juan Carlos Finally Coordinated in Real Time
+
+Palmer City's own tourism gateway, running through Sejong's Machu Picchu Airport and Juan Carlos's own
+immigration processing, had always operated as three separately scheduled links in the same chain — each city
+managing its own leg of the corridor with only delayed, indirect visibility into how the other two were
+actually running on any given day.
+
+The first live three-way coordination session between tourism administrators at all three cities, convened
+once direct contact let them simply compare schedules at once rather than reconciling separately-kept
+records, caught a specific recurring scheduling mismatch none of the three cities had noticed independently —
+arrival processing at Juan Carlos occasionally outpacing Palmer City's own hospitality capacity to actually
+receive visitors on the busiest days. The corrected joint schedule that resulted smoothed out a friction point
+the gateway corridor had apparently been absorbing, unnoticed, for as long as the arrangement itself had
+existed.
+
+### The Byrd Delegation That Came to See Where Their Own Families Had Started
+
+Once the first wave of family reconnection between Palmer City and Byrd had run its course, a specific
+delegation of Byrd residents — descendants of the original over-cap redistribution generation — made the
+first organized trip back to Palmer City specifically to see the city their own families had originally left,
+a visit that would have had no realistic way to be planned or coordinated before direct contact made
+arranging it straightforward.
+
+The delegation's own visit, per what's preserved of the occasion, included a formal reception hosted by
+Palmer City's own civic administration — the first time in either city's history that Byrd's own founding
+connection to Palmer City had been marked with anything resembling ceremony rather than simply existing as an
+administrative fact in old redistribution records. Several delegation members, per what's remembered of the
+visit, described the experience as recovering a piece of their own family history they'd never expected to
+actually be able to see in person.
+
+### The Machu Picchu Question Palmer City Could Finally Ask Sejong Directly
+
+Palmer City's own Upper Earth tourism economy had always depended on the Machu Picchu Border & Customs
+Authority's own administrative decisions, communicated to Palmer City secondhand through whatever indirect
+channel eventually relayed policy changes affecting the tourism gateway — never through direct contact with
+Sejong's own authority administrators.
+
+The first direct policy inquiry Palmer City's own tourism office ever sent straight to Sejong's own Border
+Authority staff, asking for clarification on a specific visa-processing question affecting a stretch of
+Upper Earth visitors, received an answer considerably faster and more precisely tailored than any prior
+indirect inquiry ever had. The specific policy question resolved cleanly. What mattered more, per what's
+preserved of the exchange, was simpler: Palmer City's own tourism economy, dependent for generations on
+decisions made somewhere else in the corridor, could for the first time actually ask a question directly
+rather than waiting for policy to arrive through however many intermediate steps it had always previously
+required.
