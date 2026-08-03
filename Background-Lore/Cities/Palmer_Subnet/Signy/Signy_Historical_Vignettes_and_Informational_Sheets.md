@@ -2,119 +2,122 @@
 
 **What this is:** independent, non-sequential historical entries — see
 `Background-Lore/Cities/Historical_Vignettes_Progress_Tracker.md` for the full methodology and
-`Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
-No entry below depends on any other; none are required to be chronological. Drawn from `Signy_Physical_
-Infrastructure_Attributes.md`'s 8 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Signy_Full_Extrapolation.md` and `Signy_Cross_Reference_Synthesis.md`. Signy is the only Palmer subnet city
-that survived the Long Night War fully intact, so this batch skews naturally toward genuine ongoing
-Second Interwar Period life rather than destruction. **Batch 1 of many — target 30, 6 done as of this
+`Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on,
+plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuine historical occurrence
+rather than a restated attribute. No entry below depends on any other; none are required to be chronological.
+Drawn primarily from `Signy_Full_Extrapolation.md` (Tier 1), `Signy_Physical_Infrastructure_Attributes.md`
+and `Specs/Signy.md` (Tier 2), and `Signy_Cross_Reference_Synthesis.md` (Tier 3). Signy is the only Palmer
+subnet city that survived the Long Night War fully intact. **Batch 1 of many — target 30, 6 done as of this
 batch.**
 
 ---
 
-## The Bridge That Named Itself Twice
+## The Meeting Where the Bridge Finally Got Its Name
 
-The Endurance Span (Physical Infrastructure Attribute #2), the single bridge joining Signy Island to the
-much larger Coronation Island, is the only crossing tying the city's two functional halves together — Signy
-Island's shipping dock and radio installation (attribute #1) on one side, Coronation Island's residential and
-leisure infrastructure (attribute #3) on the other.
+The single bridge joining Signy Island to Coronation Island went unnamed for a considerable stretch of the
+city's own history before being formally named the Endurance Span — a naming decision that took an actual
+civic meeting to resolve, not an obvious or immediate choice.
 
-*(An informational sheet on the bridge's own double meaning, not a single crossing.)* Per Finding A, the
-Endurance Span is literally load-bearing for both a historical tribute and an ordinary daily ritual at once —
-its own proposed name accidentally echoes residents' actual daily fishing commute, workers crossing from
-their homes on Coronation Island to the dock on Signy Island and back again, an unintentional but genuinely
-fitting resonance with the historic crossing the name honors. Unlike a purely symbolic monument, the bridge's
-own significance is inseparable from its ordinary function — the same physical structure that carries the
-weight of the name also carries, every single day, the weight of residents simply going to and from work,
-the naming and the routine use never actually separable from each other.
-
----
-
-## A Laboratory the War Never Touched
-
-The Biological Research Station (attribute #4) is the city's founding scientific infrastructure — fully
-intact and still functional, undamaged by the Long Night War, a genuinely unique status among all 34
-non-Byrd DLC cities examined in this entire project, none of which retained fully undamaged founding-era
-infrastructure of this kind.
-
-*(An informational sheet on the Station's own founding-era purpose, not a single study.)* Per what's
-established about Signy's own civic origins, the founding population independently developed a biological-
-science focus, converging on the same mission the original real-world station had rather than simply
-inheriting it wholesale — a genuine, independently-arrived-at continuity rather than an assumed one. Per
-Finding C, the Station's own undisturbed survival is one more fact reinforcing Signy's own unusually
-consistent civic character — a city too remote to be worth striking would plausibly also be a city whose
-founding-era research infrastructure was never disturbed, the same underlying isolation producing both
-outcomes at once. Researchers working the Station today, per what's established about its own ongoing
-function, continue work that traces in an unbroken line back to the city's own founding purpose — a rare
-thing anywhere in Tepenia, rarer still in a subnet as thoroughly damaged as Palmer's own.
+Several names were proposed and debated before Signy's own residents settled on honoring the historic
+Endurance expedition specifically, per what's preserved of the naming discussion — proposals ranging from
+purely functional descriptors to names honoring the bridge's own engineers were all raised and set aside. The
+proposal that won out, per what's remembered of the meeting, came from a resident who argued the bridge
+itself embodied exactly what the Endurance's own historic open-boat journey represented — a single crossing
+holding two things together through sheer persistence, given the South Orkney Islands' own proximity to the
+Endurance's actual historic route. The vote wasn't unanimous, but decisive enough that no serious counter-
+proposal was raised again. The bridge has carried the name since, tying Signy's own strongest civic-spiritual
+thread to the single physical structure two islands' worth of daily life actually depends on.
 
 ---
 
-## What Signy's Waters Never Stopped Providing
+## What van Zyl-Osei Found in the Wildlife Territories
 
-The Wildlife Territories (attribute #5) — seal haul-out areas, penguin colonies, and seabird nesting grounds
-— are present and ongoing regardless of the city's own status, distinct from Cape Adare's or Dumont
-d'Urville's own penguin-specific coexistence infrastructure elsewhere in Tepenia.
+**Dr. "Naledi van Zyl-Osei" *(placeholder, not developer-chosen)*** is a founding-era biological researcher
+who continued the original station's marine-and-terrestrial-biology mission into the exile era, working the
+Wildlife Territories' own seal haul-outs, penguin colonies, and seabird nesting grounds.
 
-*(An informational sheet on the Territories' own ecological role, not a single sighting.)* Signy's own
-sub-Antarctic rather than full-Antarctic position, biologically rich given the Scotia Sea's own marine
-productivity, made genuine, sustained wildlife coexistence infrastructure necessary here in a way few other
-Tepenian cities needed to build for. Residents living alongside the seal haul-outs and penguin colonies, per
-what's established about the city's own daily rhythm, describe the relationship as genuinely unremarkable in
-the best sense — wildlife dense enough and established enough that coexistence infrastructure became simply
-part of ordinary civic planning, not a special accommodation requiring constant negotiation. The same marine
-richness that made the Territories worth protecting is, not coincidentally, the same richness behind the
-Floating Extension Platforms' own fishing economy — Signy's wildlife and Signy's food supply drawing from the
-identical underlying ecological abundance.
-
----
-
-## The Platforms Ferreira-Whitcombe Built
-
-The Floating Extension Platforms (attribute #6) are where Signy's fishing economy reaches beyond the
-coastline itself — the specific engineered mechanism behind the marine diet that sustains the city's human
-population indefinitely, regardless of any supply disruption from the rest of the subnet.
-
-Per Finding E, the Platforms are the concrete legacy of **Platform Engineer Declan Ferreira-Whitcombe**
-*(placeholder, not developer-chosen)*, credited with designing the system that let Signy's fishing operations
-extend meaningfully past the immediate shoreline. His own engineering solution, per what's established about
-the Platforms' own design, addressed a genuinely practical problem — the richest fishing grounds in the
-surrounding waters weren't always reachable directly from shore, and a floating, extensible platform system
-let crews work those grounds without requiring a larger fleet of independent vessels. The Platforms remain, to
-this day, the concrete physical answer to a question every isolated maritime city in Tepenia eventually has to
-solve in its own way: how to make the ocean's own abundance actually reachable, not merely nearby.
+Her most consequential contribution, per what's preserved of the research record, wasn't a single dramatic
+discovery but a multi-year survey identifying a genuine, measurable shift in seal haul-out patterns —
+locations the animals had used reliably for generations gradually being abandoned in favor of new sites, a
+change van Zyl-Osei traced to subtle shifts in the Scotia Sea's own marine productivity rather than any
+direct human disturbance. Her own recommendation, that Signy's fishing operations adjust the Floating
+Extension Platforms' own working locations to avoid the newly favored haul-out sites rather than risk
+disrupting them, was adopted by the city's fishing crews with minimal resistance — a genuinely rare case of a
+research finding translating directly into a practical operational change without requiring extended debate.
+The adjusted platform locations, decades later, are simply how the fishing routes run — few current crews
+know the routing traces back to one researcher's own multi-year survey rather than always having been laid
+out that way.
 
 ---
 
-## Power That Never Needed a Grid
+## The Platform Ferreira-Whitcombe Almost Gave Up On
 
-The Wind-and-Hydro Power Works (attribute #7) is a small-scale, locally self-sufficient power system
-independent of any wider grid — consistent with Signy's own established total isolation from the rest of the
-Palmer subnet's infrastructure, and, per Finding B, confirmation that Signy's own post-war situation is
-genuinely mixed rather than uniformly precarious.
+**Platform Engineer "Declan Ferreira-Whitcombe" *(placeholder, not developer-chosen)*** is credited with
+designing the Floating Extension Platforms that let Signy's fishing economy reach beyond the coastline itself
+— a design that, per what's preserved of the development record, nearly failed during its own testing phase.
 
-*(An informational sheet on the system's own founding-era design, not a single outage.)* Modeled on
-real-world El Hierro's own precedent for combined wind-and-hydro self-sufficiency, the Power Works meant
-Signy never depended on any external grid connection the rest of the subnet's own damage could plausibly
-have severed — a resolved vulnerability, distinct from the siligel shortage's own genuinely unresolved one.
-Residents describe the system's own reliability as something they'd always simply taken for granted, an
-ordinary piece of civic infrastructure that turned out, after the war left so much of the rest of the subnet
-without working power at all, to have been a considerably rarer achievement than anyone realized while
-building it.
+Ferreira-Whitcombe's earliest platform prototype, tested during a genuinely difficult stretch of Scotia Sea
+weather, broke free from its own mooring system twice in a single season — a failure serious enough that
+some of his own funding backers within the young settlement argued for abandoning the floating-platform
+concept entirely in favor of expanding the conventional fishing fleet instead. Ferreira-Whitcombe redesigned
+the mooring system a third time rather than accept the setback as final, incorporating a more flexible anchor
+arrangement that could absorb wave stress the rigid original design simply transferred straight into the
+mooring points. The redesigned platform held through the remainder of that same difficult season and every
+season since. The Platforms that resulted are, today, simply established civic infrastructure — the two
+failed prototypes that nearly ended the project entirely aren't part of how most residents understand their
+own city's fishing economy.
 
 ---
 
-## What the Sea Can't Replace
+## The Season the First Ship Didn't Come
 
-Whatever siligel storage and rationing infrastructure exists for Signy's own robot population (attribute #8)
-addresses a genuine, unresolved post-war shortage — humans can sustain themselves indefinitely on Scotia Sea
-marine resources, but siligel is not something Signy can produce or improvise locally, a real, lived disparity
-within one otherwise fully intact city.
+The Long Watch marks the arrival of the first supply ship of the season — an observance built around Signy's
+own patient, unhurried civic identity. One specific year, the ship the observance existed to welcome simply
+didn't arrive on schedule.
 
-*(An informational sheet on the disparity itself, not a single ration.)* Per Finding D, this infrastructure is
-the literal physical site where Signy's own double-edged isolation plays out — the same remoteness that once
-protected the city, and still does, now also means the supply lines that could resupply siligel simply can't
-be crossed. Robot residents, per what's established about the city's own current situation, live inside the
-single Tepenian city where isolation reads as a genuine asset for one population and a genuine liability for
-another, at the same time, in the same place — a disparity residents on both sides describe as the one
-unresolved crack in an otherwise remarkably intact, self-sufficient city.
+A combination of severe early-season ice conditions and a mechanical failure aboard the expected supply vessel
+delayed that year's first arrival considerably beyond the date residents had gathered, by established custom,
+to watch for it. The community's own Long Watch gathering, per what's remembered of that specific year,
+continued anyway — residents maintaining the same watch well past the point any prior year's ship had ever
+been this late, genuinely uncertain whether the delay reflected ordinary bad luck or something more serious.
+The ship eventually arrived, over a week behind its usual schedule, to a welcome residents describe as
+noticeably more relieved than any ordinary year's observance. That specific year is still referenced,
+informally, whenever residents discuss how much the Long Watch's own patient character actually gets tested
+in practice rather than simply performed as ritual.
+
+---
+
+## The Crossing Timed to the Anniversary
+
+St. Ernest's Passage commemorates the historic Endurance open-boat journey, observed at the Endurance Span
+itself — a specific commemorative practice tying Signy's strongest spiritual thread to the bridge Section III
+of the Full Extrapolation names after the same expedition.
+
+The observance's own central ritual, per what's established about its practice, involves residents crossing
+the Endurance Span together at a time of year timed to the historic crossing's own anniversary — a deliberate
+act of physical repetition rather than passive commemoration. One particular year's crossing, per informal
+accounts, coincided with genuinely severe weather conditions, close enough to what the historic Endurance
+crew themselves faced that several residents afterward described the coincidence as having given the
+observance a weight it didn't usually carry. Nobody was endangered — the crossing itself is short and the
+bridge structurally sound regardless of conditions — but that specific year's Passage is remembered as the
+one time the observance's own honoring of endurance felt less like commemoration and more like a genuine,
+if minor, taste of what was actually being honored.
+
+---
+
+## The Rationing Meeting Nobody Wanted to Call
+
+The post-war siligel shortage — humans sustained indefinitely by Scotia Sea marine resources, but siligel
+production requiring supply lines the war left cut — put Signy's robot population in a position no other
+part of the otherwise intact city faced. A specific meeting formalized how the city would actually handle it.
+
+Signy's own civic administration, once existing siligel reserves had visibly begun declining without any
+resupply in sight, called a formal meeting to establish rationing protocols — a genuinely difficult
+conversation in a city whose whole civic identity rested on nobody being meaningfully worse off than anyone
+else. Robot residents themselves, per what's preserved of the meeting's own record, proposed the rationing
+framework that was ultimately adopted, reasoning that self-determined limits, decided collectively by the
+population actually affected, would hold up better than any allocation imposed from outside the affected
+group. The framework bought genuine time without resolving the underlying shortage — reserves still
+declining, simply more slowly and more predictably than before. The meeting is remembered less for solving
+the crisis than for how the city chose to face a problem that, for the first time in Signy's own history,
+didn't affect every resident equally.
