@@ -48,26 +48,22 @@ filed, entirely ordinary piece of paperwork.
 
 ---
 
-## The Week the Water System Had No One
+## The Petition the Airfield Office Actually Heard
 
-Belgrano's organized, rotation-based maintenance culture — "Boneyard Times" — kept the city functioning after
-institutional command collapsed, without any formal authority backing it (attribute #9). It didn't emerge
-gradually. Per Finding C, the maintenance rotations trace to one specific figure's deliberate response to one
-specific near-failure.
+Comodoro Villanueva-Krause's own founding-era choice fused civilian governance into the Airfield's command
+structure rather than letting a separate civic government develop — a decision tested directly, early on, by
+an ordinary civilian dispute nobody had anticipated needing to route through an aviation office.
 
-**"Yolanda Petrescu" *(placeholder, not developer-chosen)***, Jefa de Mantenimiento during the airbase's own
-last fully-functioning years, was still nominally in a maintenance-supervisor role when the command structure
-above her genuinely stopped functioning — no formal dissolution, simply fewer and fewer orders coming down
-until none did. In the ambiguous stretch that followed, the water system went roughly a week with no one
-crew clearly responsible for it, each of several capable technicians assuming someone else still held the
-job, until pressure dropped low enough across enough of the city that the gap became impossible to ignore.
-Petrescu convened the technicians who actually understood the system — not by any authority she still
-formally held, since none remained, but because she was the person in the room willing to organize a fix — and
-proposed the rotation on the spot: fixed handoff intervals, explicit responsibility, no assumption that
-someone else had it covered. The water crisis resolved within days. The rotation logic she improvised that
-week, extended afterward to power and the Airfield's own remaining infrastructure, is the same system Boneyard
-Times still runs on — not designed in advance, but built directly out of the one specific failure nobody
-wanted to repeat.
+Two founding-era households, per what's preserved of the airbase's own early administrative record, brought a
+genuine resource-allocation dispute to the Airfield's command office — a disagreement over shared water access
+that had nothing to do with runway scheduling or aircraft maintenance, the office's own ordinary business.
+Junior officers staffing the office, per what's remembered of the incident, initially treated the petition as
+outside their own remit and attempted to redirect the households elsewhere, only to discover no other civic
+body existed to redirect them to. The dispute was resolved, eventually, by the same personnel who handled
+hangar scheduling that same week — the first documented instance of the fused office actually functioning as
+Villanueva-Krause's own design intended. The households involved apparently found the outcome perfectly
+reasonable once resolved; what became institutional memory was less the dispute itself than the confirmation
+that the fusion genuinely worked in practice, not just on paper.
 
 ---
 

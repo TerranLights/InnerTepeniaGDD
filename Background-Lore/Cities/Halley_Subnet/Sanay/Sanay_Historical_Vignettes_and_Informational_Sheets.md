@@ -11,22 +11,21 @@ Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapola
 
 ## The Councilor Who Refused to Call It Luck
 
-Sanay's bedrock-founded resilience — surviving the Long Night War substantially intact while much of the
-rest of the Palmer and Halley subnets took far worse damage — has repeatedly invited outside observers to
-frame the city as simply fortunate. **Councilor "Pieter Alsdorf" *(placeholder, not developer-chosen)***
-is, per what's established about his own public record, the figure most associated with actively refusing
-that framing whenever it's been offered.
+Sanay's bedrock siting has always invited outside visitors to assume the city's own solid, permanent
+infrastructure was simply a fortunate accident of geography. **Councilor "Pieter Alsdorf" *(placeholder, not
+developer-chosen)*** is, per what's established about his own public record, the figure most associated with
+actively refusing that framing whenever it's been offered.
 
-At a subnet coordination meeting some years after the war, a visiting official from a harder-hit city
+At an early subnet coordination meeting, a visiting official from a city built on less stable ground
 reportedly remarked, in passing, that Sanay had been "lucky" to sit on solid rock — a comment meant kindly,
-acknowledging real hardship elsewhere. Alsdorf, by more than one account of the exchange, corrected him on
-the spot: the bedrock was luck, he said, but the Shipyard Complex still standing functional was not — that
-took generations of maintenance discipline and a founding-era decision to build for permanence rather than
-convenience, the same "function over sentiment" priority that shaped Sanay's whole layout around the
-Shipyard's own needs from the start. The exchange became, within Sanay's own civic culture, a small
-touchstone for what "Competence Without Commentary" actually means in practice — not modesty for its own
-sake, but a specific, repeated insistence that Sanay's own survival be credited to work, not fortune,
-whenever anyone suggests otherwise.
+acknowledging the genuine engineering difficulties his own city's terrain presented. Alsdorf, by more than one
+account of the exchange, corrected him on the spot: the bedrock itself was luck, he said, but the Shipyard
+Complex's own standing, functional condition was not — that took generations of deliberate maintenance
+discipline and a founding-era decision to build for permanence rather than convenience, the same "function
+over sentiment" priority that shaped Sanay's whole layout around the Shipyard's own needs from the start. The
+exchange became, within Sanay's own civic culture, a small touchstone for what "Competence Without Commentary"
+actually means in practice — not modesty for its own sake, but a specific, repeated insistence that Sanay's
+own condition be credited to work, not fortune, whenever anyone suggests otherwise.
 
 ---
 
@@ -69,23 +68,23 @@ formally decided to name it this way, the name simply settled into ordinary usag
 
 ---
 
-## The Cliffside, After Shift
+## The Housing Built Last, on Purpose
 
-Sanay's residential, commercial, and leisure districts stretched along the cliffside (attribute #12) exist
-as genuine off-shift release space for a population working a round-the-clock schedule tied to freighter
-arrivals rather than any fixed day/night rhythm — and, per Finding A, this is specifically where the city's
-own unevenly distributed cost of "function over sentiment" actually lands, rebuilt slower and later than the
-shipyards that took priority after the war.
+Sanay's residential, commercial, and leisure districts along the cliffside exist as genuine off-shift release
+space for a population working a round-the-clock schedule tied to freighter arrivals — and, per Finding A,
+their own founding-era construction sequencing is where Sanay's "function over sentiment" civic priority
+first became visible as an actual planning decision, not just a stated value.
 
-**"Dara Vintner" *(placeholder, not developer-chosen)***, a longtime dockside worker, describes the cliffside
-districts in exactly these terms — not neglected exactly, but consistently second in line, the difference
-between a shipyard repaired within a season and housing that took considerably longer to return to its
-pre-war condition. She doesn't describe this as unfair, echoing the same broader civic acceptance Finding A
-identifies — simply as the plain, expected shape of living in a city that has always been honest about what
-it actually prioritizes. Her own social circle, she notes, sorts itself more by shift rotation and workplace
-than by anything else — dockworkers know other dockworkers, trucking crews know other trucking crews, a
-distinction the city's own established demographic pattern already traces along the axis of work, not
-national origin or human/robot status.
+**"Dara Vintner" *(placeholder, not developer-chosen)***, a longtime dockside worker whose own family history
+in Sanay traces to its earliest construction years, describes the founding-era sequencing in plain terms: the
+Shipyard Complex and Trade Yard were built and operational well before the cliffside districts received
+comparable investment, a deliberate founding-era prioritization rather than an oversight. Early residents, per
+what she's inherited of the settlement's own founding-era civic memory, lived in genuinely modest, improvised
+housing for a considerable stretch while the Shipyard's own construction absorbed the bulk of available labor
+and material. Nobody among the founding generation seriously contested the sequencing, per what's preserved
+of the era — the city's actual reason for existing was the Shipyard, and residential comfort could wait for
+it in a way no one found controversial to decide. The cliffside districts' own eventual, more comfortable
+development came only once the Shipyard's own founding-era construction was substantially complete.
 
 ---
 

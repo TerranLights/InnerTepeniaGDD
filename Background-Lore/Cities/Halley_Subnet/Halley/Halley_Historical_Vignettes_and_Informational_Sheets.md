@@ -122,19 +122,20 @@ back to one reader's willingness to be wrong publicly rather than quietly defer 
 
 ---
 
-## The Corridor That Stopped Listening
+## The Cable Crew That Refused to Cut Corners
 
-Hwy 59 physically survives the Long Night War — passable, structurally intact, still functioning as a
-highway. What it no longer does is relay anything, since it doubled as the Atlantic subnet's own Arcanet
-cable corridor to Amundsen Station specifically, and Amundsen Station's own destruction ended whatever the
-corridor was relaying to (attribute #10, Finding E). The highway didn't die. Its second function simply
-stopped having anything on the other end.
+Hwy 59 doubled as the Atlantic subnet's own Arcanet cable corridor to Amundsen Station, a dual-purpose piece
+of founding-era infrastructure that required a genuinely different construction discipline than an ordinary
+highway — cable integrity mattering as much as road surface, a combination the original construction crews
+had no direct precedent for.
 
-For some time after the war, before the corridor's new, purely-transit-only status became common knowledge,
-crews working Hwy 59 still routed routine data traffic through the old cable infrastructure out of habit —
-the same procedure they'd always followed, on a highway that looked, sounded, and functioned exactly as it
-always had. The traffic simply went nowhere, silently, until someone eventually checked. Nothing about the
-corridor's physical state ever signaled the change; the failure was entirely on the other end of a connection
-that had always, until that point, simply worked. Crews now route data traffic through other channels as a
-matter of course, but Hwy 59 itself remains, per Finding E's own framing, the clearest physical example in
-Halley of something the war took without ever actually touching.
+The corridor's own founding-era construction, per what's preserved of the project record, ran considerably
+behind its original schedule specifically because the crew responsible refused to lay the cable infrastructure
+using the faster, less rigorous method a comparable highway-only project elsewhere in the subnet had used —
+insisting instead on protective conduit and redundant routing sufficient to protect a genuinely long-range
+data corridor from the same katabatic and structural stresses the highway surface itself was built to
+withstand. Project administrators pressed for the faster timeline more than once, per what's remembered of
+the disagreement, and were refused each time on the same technical grounds. The corridor, once finished, ran
+for generations without a single documented cable failure — a reliability record the crew's own insistence on
+the slower method is directly credited with, long before anyone had reason to test what would happen if the
+corridor's own far end ever stopped answering.

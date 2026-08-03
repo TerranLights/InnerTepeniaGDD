@@ -137,12 +137,23 @@ person, a dispute, a discovery, a decision, a record.
 - **`README.md`** (per-city megasheet) — a static concatenation of the other files, not new content;
   skip as a source, it adds nothing the component files don't already have.
 
-## Relationship to the war/destruction correction
+## Relationship to the war/destruction correction — SUPERSEDED 2026-08-03
 
-This is a separate, additive rule to the earlier 2026-08-02 correction about not over-indexing on
-war/ruins destruction as the default organizing fact (see the Progress Tracker's own Session Log entry
-for that correction). Both rules apply together: an entry needs to be a genuine occurrence, **and** it
-shouldn't default to "the war happened to this place" as that occurrence more than roughly once per
-6-entry batch. A pre-war founding-era incident, a mid-history dispute, a specific discovery, or a
-present-day person's specific circumstance are all equally valid ways to satisfy the history requirement
-without leaning on destruction.
+The original version of this rule allowed roughly one war/post-war-touching entry per 6-entry batch.
+**Corrected 2026-08-03, developer-flagged directly** (caught on a Signy "post-war siligel shortage"
+entry): that was too permissive. **Entries stay within the Second Interwar Period — pre-war — full stop.
+Zero post-war or present-day-ruins content, not "at most one."** This is a documentation of History, not
+a second pass at post-war ruins content (that register belongs to the DLC archaeology/ruins-exploration
+material elsewhere in the project). A founding-era incident, a mid-history dispute, a specific discovery,
+a specific person's decision — anything dated before the Long Night War is fair game. Anything post-war,
+including "present-day survivor" framing, siligel/supply-crisis content, post-war rationing, post-war
+command collapse, or war-damage-triggered incidents, is out of scope entirely, even for cities whose own
+source Attributes files lean heavily on their post-war/ruins status (see Princess Elisabeth and Casey —
+both already had to actively work around this in their own source material once; the same discipline
+applies everywhere now, not just to those two).
+
+A 2026-08-03 recheck found several already-written entries still violated this stricter version of the
+rule (Halley's "The Corridor That Stopped Listening," Belgrano's Boneyard-Times entry, Troll's grounded-
+fleet-triage entry, Sanay's post-war-praise entry, Princess Elisabeth's kept present-day-survivor entry,
+Signy's siligel entry, Mirny's war-damage relay entry) — all replaced. See the Progress Tracker's own
+Session Log for the corrected titles.

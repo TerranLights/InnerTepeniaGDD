@@ -9,22 +9,39 @@ Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapola
 
 ---
 
-## The Handoff That Almost Didn't Happen
+## The First Landing They Actually Marked
 
-The daily cross-faction coordination between Troll's three factions controlling the Runway/Control Tower, the
-Fuel Depot, and the Trucking Dispatch Yard (Physical Infrastructure Attribute #6) is, per Finding B, the thin
-thread Halley's own supply line currently hangs from — not background texture, but the actual mechanism
-keeping a neighboring city fed.
+St. Roald's Landing honors Amundsen's own historic first arrival at the South Pole, tracing back to the 1939
+Queen Maud Land claim and the Norwegian Polar Institute's own founding-era history — Troll's older, quieter
+civic observance, established long before the airfield existed as anything beyond a founding-era station.
 
-One specific handoff, per informal accounts among dispatch crews, came closer to breaking down than any other
-on record. A dispute between two of the three factions — over which had the standing authority to approve a
-specific shipment's fueling priority — stalled the coordination process for the better part of a day, long
-enough that freight bound for Halley sat undelivered past its usual window for the first time in longer than
-anyone currently working the handoff could remember. What ended the standoff wasn't a resolution of the
-underlying dispute — that stayed unresolved — but a practical recognition, from within the third faction not
-directly party to the argument, that continued delay was going to become everyone's problem regardless of who
-was technically right. The shipment moved. The dispute itself was never formally settled, an unresolved
-precedent still occasionally cited whenever a similar disagreement threatens to stall the handoff again.
+The observance's own first formal marking, per what's preserved of the founding-era civic record, wasn't part
+of any planned calendar of holidays — it grew out of a specific founding-generation gathering held at what
+would become St. Roald's Chapel, convened by residents who felt the young settlement's own Norwegian heritage
+deserved a deliberate, annual act of remembrance rather than simply being assumed as background fact.
+Attendance at that first gathering was modest, per what's remembered of it, limited mostly to founding-era
+residents with direct family ties to the Polar Institute's own original mission. The observance grew steadily
+in the generations that followed, formalized eventually as St. Roald's Landing, but the core of it — a
+gathering at the same site, honoring the same founding-era claim — traces directly back to that first,
+unplanned occasion long before Troll's airfield had grown into anything resembling its later prominence.
+
+---
+
+## The Runway Fleet's First Real Test
+
+Troll's cargo transport aircraft fleet, established during the founding era to serve the intermodal freight
+economy the airfield was built around, faced its own first genuine operational test well before the fleet
+had proven itself at any real scale.
+
+An early, ambitious multi-leg cargo run — the first attempt to move freight through several Halley subnet
+cities in a single coordinated aviation circuit, rather than point-to-point flights — pushed the founding-era
+fleet's own limited number of airworthy aircraft close to its practical operating limit, with no real margin
+for a mechanical failure along the route. One aircraft required an unscheduled repair mid-circuit, and ground
+crews at the nearest waystation, working from limited pre-war spare-parts stock, improvised a fix rather than
+scrub the remaining legs of the run. The circuit completed on a delayed but functional schedule, and the
+successful improvisation became, per what's preserved of the fleet's own early operational record, the
+founding-era proof that Troll's aviation logistics could actually support multi-city coordination at scale —
+the specific test that justified the airfield's own subsequent growth into the subnet's central logistics hub.
 
 ---
 
@@ -49,64 +66,60 @@ actual need finally arrived.
 
 ---
 
-## The Airframe Nobody Would Vote to Strip
+## The Aircraft Bought for a Route That Never Opened
 
-The Grounded Fleet Hangars (attribute #3) house Troll's mostly non-operational cargo and passenger aircraft
-fleet — a genuine handful kept airworthy through continuous maintenance, the rest kept in place rather than
-salvaged wholesale for parts (Finding E). That restraint was tested directly, once, by a maintenance crew
-that needed a part badly enough to seriously consider breaking the practice.
+Troll's founding-era aircraft procurement, sized to the airfield's own established intermodal freight economy,
+included at least one acquisition that never paid off the way its own purchase was justified — a specific,
+documented miscalculation rather than simply cautious over-buying.
 
-A flying cargo aircraft's own fuel-system component failed during a post-war supply run when replacement
-parts through ordinary channels had become genuinely unreliable, and the maintenance crew responsible
-identified exactly one grounded airframe in the Hangars with a matching, salvageable part — a passenger
-aircraft, structurally sound, one of the handful still plausibly returnable to service if circumstances ever
-allowed. The crew chief called a vote among the maintenance team rather than making the call alone: strip the
-passenger aircraft now, for a certain, immediate fix, or hold out and find another solution, preserving the
-airframe's own theoretical future usefulness against genuinely uncertain odds. The vote went narrowly against
-stripping it. The crew found a workaround instead — a slower, less reliable fix improvised from mismatched
-components — and the passenger aircraft has sat untouched in the Hangars ever since, exactly the kind of
-close call Finding E's own "triage under an assumption that circumstances could still change" framing
-describes, made concrete in one specific decision by people who genuinely weren't certain they were making
-the right one.
+A passenger aircraft was acquired during the founding era specifically to service a proposed direct route to
+a second interior settlement, a route founding-era planners expected to become genuinely valuable freight and
+personnel traffic once that settlement's own population grew. The settlement's own growth never reached the
+scale the original proposal assumed, and the route was never opened in any sustained way — the aircraft
+purchased for it instead absorbed into Troll's own general fleet, used for whatever ordinary Peninsula-
+internal traffic actually materialized rather than the specific route it was bought for. The planner
+responsible for the original acquisition, per what's preserved of the fleet's own procurement record, never
+publicly second-guessed the decision, and the aircraft itself served the fleet capably for the rest of its own
+operational life — a founding-era acquisition whose original justification simply never arrived, absorbed
+quietly into ordinary use rather than treated as a costly mistake.
 
 ---
 
-## The Chapel's Last Regular
+## The Site the Founders Chose Over the Obvious One
 
-St. Roald's Chapel (attribute #11) is the older, quieter site of continuing Saint veneration, increasingly
-overshadowed by Runway Day's own newer, civically dominant public identity centered on the Runway and Control
-Tower (Finding D) — Troll's whole dual-holiday split now visible as two separate, walkable buildings rather
-than merely two dates on a calendar.
+St. Roald's Chapel sits at a specific location that, per what's preserved of the founding-era planning
+record, wasn't the first site proposed for it — the chapel's own actual placement was the result of a
+deliberate founding-era argument about what the building should actually be near.
 
-**"Torvald Skeie" *(placeholder, not developer-chosen)*** is, per informal accounts, the Chapel's most
-consistent remaining regular — present for St. Roald's Landing every year the observance has been held since
-before the airfield's own conflict fractured the city's civic attention, and present in the Chapel itself far
-more often than the observance alone would require. He describes his own attendance in modest terms, not as
-resistance to Runway Day's own growing dominance but simply as continuity — the same building, the same
-quiet observance, regardless of which holiday the rest of the city currently pays more attention to. Whether
-the Chapel's own attendance is genuinely declining, or simply smaller than the Runway's own much larger and
-more visible crowd by comparison, isn't something Skeie himself claims to know with any precision — only that
-he intends to keep showing up regardless of the answer.
+An early proposal sited the chapel adjacent to the airfield's own original operational buildings, reasoning
+that a founding-era population working the airfield daily would find a nearby chapel easiest to actually use.
+A competing founding-era faction argued the opposite — that a devotional site honoring Amundsen's own
+historic achievement deserved placement away from the airfield's ordinary operational noise, somewhere a
+visit could feel like a deliberate departure from daily work rather than an extension of it. The second
+argument won out, and the chapel was built at a remove from the airfield's own original buildings, a
+founding-era decision that shaped how the site was used from its earliest years — a place residents walked
+to specifically, not one they passed on the way to somewhere else. Nothing about the original site debate
+survives in detail beyond the outcome itself, but the chapel's own physical remove from the airfield, still
+true today, traces directly back to that founding-era choice.
 
 ---
 
-## The Day the Depot Changed Hands
+## The Depot Built Apart on Purpose
 
-The Fuel Depot's own control by one specific faction, distinct from and physically separate from the
-Runway/Control Tower complex (attribute #4), didn't emerge from any single founding-era agreement — the
-three-way fracture solidified gradually, through a series of smaller, individually unremarkable shifts in
-which faction actually held which physical site day to day, until the current arrangement simply became the
-one nobody was actively contesting anymore.
+The Fuel Depot's own physical separation from the Runway/Control Tower complex was a deliberate founding-era
+safety decision, not an accident of available space — a choice that shaped the airfield's whole layout for
+every generation of construction that followed.
 
-The most consequential single shift, per informal accounts from workers who lived through it, was the Fuel
-Depot's own final change of hands — the last time its physical control genuinely moved from one faction to
-another, after which its current holder's authority went effectively unchallenged. The transition itself was
-notably undramatic: no formal negotiation, no documented agreement, simply a period during which the
-incoming faction's own presence at the Depot grew steadily more established while the outgoing faction's own
-presence correspondingly thinned, until the shift was complete in practice well before anyone formally
-acknowledged it as such. This is, per several accounts, simply how authority over any of the airfield's three
-contested sites has always actually changed hands here — not through confrontation, but through one side's
-presence gradually outlasting the other's.
+Founding-era planners, per what's preserved of the original site layout proposals, debated whether to build
+fuel storage close to the runway for operational convenience or at a genuine physical remove for safety
+margin against fire risk. The proposal that won out favored distance — fuel storage sited far enough from the
+runway and control tower that a fire at one site couldn't plausibly spread to or endanger the other, even at
+the cost of longer refueling logistics on ordinary operating days. Ground crews working the airfield in its
+own early years, per what's remembered of the arrangement, occasionally grumbled about the extra transit time
+the separation required, but no serious founding-era proposal ever argued for consolidating the two sites
+closer together. The layout has never changed since — the same safety-driven distance between fuel and
+runway, decided once during founding-era planning, still shaping how every subsequent structure on the
+airfield's own grounds has been sited around it.
 
 ---
 

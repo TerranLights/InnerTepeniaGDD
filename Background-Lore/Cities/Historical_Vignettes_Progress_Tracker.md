@@ -1,13 +1,18 @@
 # Independent Historical Vignettes & Informational Sheets — Progress Tracker
 
 **Started 2026-08-02.** Master index for a new city-history methodology, distinct from the existing
-`[City]_Course_of_Events_Suggestions.md` files (sequential, but/therefore-linked, strictly pre-war Second
-Interwar Period only). Per direct developer instruction: entries in this new pass are **fully independent** —
-no entry depends on any other, none need be chronological, none need start at a city's founding or stop
-before the Long Night War. Entries can land at any point in a city's history, including the present day. Some
-are narrative vignettes (a specific incident, a specific person); others are drier informational sheets (a
-pattern, a statistic, a standing fact). Both are valid. See `Byrd_Historical_Vignettes_and_Informational_Sheets.md`
-for the approved pilot batch and format.
+`[City]_Course_of_Events_Suggestions.md` files (sequential, but/therefore-linked). Per direct developer
+instruction: entries in this new pass are **fully independent** — no entry depends on any other, none need be
+chronological, none need start at a city's founding. Some are narrative vignettes (a specific incident, a
+specific person); others are drier informational sheets (a pattern, a statistic, a standing fact). Both are
+valid. See `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch and format.
+
+**Corrected 2026-08-03, developer-flagged directly:** entries stay within the **Second Interwar Period —
+pre-war — full stop.** The original wording above ("can land at any point... including the present day") was
+too permissive and has been superseded — no post-war or present-day content, not even the "roughly one per
+batch" the 2026-08-02 war/destruction correction had allowed. This is a documentation of History, not a
+second pass at post-war ruins content. See `Historical_Vignettes_Synthesis_Method.md`'s own "Relationship to
+the war/destruction correction" section for the full writeup and the list of entries this required replacing.
 
 **See `Historical_Vignettes_Synthesis_Method.md` for the explicit rule on what makes an entry valid**
 (historical occurrence, not a restated attribute) — written 2026-08-02 after an audit found 86 of 108

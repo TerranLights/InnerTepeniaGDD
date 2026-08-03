@@ -105,19 +105,20 @@ if minor, taste of what was actually being honored.
 
 ---
 
-## The Rationing Meeting Nobody Wanted to Call
+## The Winter the Turbines Nearly Went Up Wrong
 
-The post-war siligel shortage — humans sustained indefinitely by Scotia Sea marine resources, but siligel
-production requiring supply lines the war left cut — put Signy's robot population in a position no other
-part of the otherwise intact city faced. A specific meeting formalized how the city would actually handle it.
+Signy's own small-scale wind-and-hydro power system, modeled on the real-world El Hierro precedent, gave the
+city local self-sufficiency independent of any wider grid. The founding-era construction crew building it
+came within one difficult winter of getting the design fundamentally wrong.
 
-Signy's own civic administration, once existing siligel reserves had visibly begun declining without any
-resupply in sight, called a formal meeting to establish rationing protocols — a genuinely difficult
-conversation in a city whose whole civic identity rested on nobody being meaningfully worse off than anyone
-else. Robot residents themselves, per what's preserved of the meeting's own record, proposed the rationing
-framework that was ultimately adopted, reasoning that self-determined limits, decided collectively by the
-population actually affected, would hold up better than any allocation imposed from outside the affected
-group. The framework bought genuine time without resolving the underlying shortage — reserves still
-declining, simply more slowly and more predictably than before. The meeting is remembered less for solving
-the crisis than for how the city chose to face a problem that, for the first time in Signy's own history,
-didn't affect every resident equally.
+Early site surveys for the wind component, per what's preserved of the construction record, identified what
+appeared to be the island's own most exposed, highest-wind-yield location — a siting choice the founding
+engineers nearly committed to before a single test season of actual measurement revealed the site's own wind
+patterns were considerably more turbulent and directionally inconsistent than the survey data alone had
+suggested, a poor match for turbine designs that performed best under steadier, more predictable flow. The
+engineering team relocated the planned turbine array to a less dramatically windy but far more consistent
+site instead, sacrificing peak theoretical output for genuine reliability. The reconsidered siting proved
+correct almost immediately — the relocated array reached stable, predictable output within its own first
+season, exactly the kind of dependable local power the wind-and-hydro system was meant to provide. The
+abandoned original site is, per informal accounts, still occasionally pointed out by longtime residents as
+where Signy's power system almost went, and didn't.
