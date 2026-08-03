@@ -28,41 +28,46 @@ precedent still occasionally cited whenever a similar disagreement threatens to 
 
 ---
 
-## The Route That Used to Run to Dome Fuji
+## The Engineer Who Built a Runway No One Had Asked For Yet
 
 Troll's historical direct-aviation route to Dome Fuji (attribute #8) was, for a substantial stretch of the
-subnet's history, one of only two supply lines keeping Tepenia's most isolated interior city fed — distinct
-from Sinheung's own separate, dedicated chamber-transport route (Finding C), an entirely different flow
-through the same broader network.
+subnet's history, one of only two supply lines keeping Tepenia's most isolated interior city fed. The
+capacity to run it at all traces to a founding-era decision made well before Dome Fuji's own need for it was
+established.
 
-*(An informational sheet on the route's own operational shape, not a single flight.)* The route ran on a
-fixed schedule rather than on-demand, reflecting Dome Fuji's own extreme isolation and the genuine risk of
-any single flight failing to arrive — cargo staged well in advance at Troll, loaded onto whichever aircraft
-was airworthy and available for that specific rotation, and flown on a route deliberately chosen to minimize
-time over the most exposed sections of interior terrain. The route's current status — whether it still runs
-at all, given Troll's own post-war three-faction fracture — isn't established by anything currently on
-record; what is established is that for as long as it did run, it represented one of the only physical
-threads connecting two of Tepenia's most extreme-environment cities, neither one able to meaningfully help
-the other with anything except keeping this specific route open.
+**Chief Airfield Engineer "Kristoffer Adeyemi-Solberg" *(placeholder, not developer-chosen)*** is credited
+with establishing Troll Airfield's original operational capacity during the Norwegian Polar Institute's own
+founding-era buildout, decades before the runway became the subnet's single most contested asset, and,
+according to what survives of his own planning notes, well before anyone had confirmed Dome Fuji's own
+eventual founding would need a dedicated aviation supply line at all. Adeyemi-Solberg specified runway
+length and fuel-storage capacity considerably beyond what Troll's own then-current traffic required — a
+decision several of his own contemporaries, per the same surviving notes, questioned as over-engineering for
+a station with no obvious use for that much surplus capacity. When Dome Fuji's own extreme interior isolation
+later made a dedicated supply route a genuine necessity, Troll's runway needed no expansion to support it —
+the capacity Adeyemi-Solberg built for a use nobody had yet named was simply already there, waiting, when the
+actual need finally arrived.
 
 ---
 
-## What's Actually Sitting in the Hangars
+## The Airframe Nobody Would Vote to Strip
 
-*(An informational sheet describing the Grounded Fleet Hangars' own contents, not a narrative.)* The Grounded
-Fleet Hangars (attribute #3) house Troll's mostly non-operational cargo and passenger aircraft fleet — a
-genuine handful maintained airworthy through continuous, necessity-driven maintenance, the rest kept in place
-rather than salvaged for parts (Finding E).
+The Grounded Fleet Hangars (attribute #3) house Troll's mostly non-operational cargo and passenger aircraft
+fleet — a genuine handful kept airworthy through continuous maintenance, the rest kept in place rather than
+salvaged wholesale for parts (Finding E). That restraint was tested directly, once, by a maintenance crew
+that needed a part badly enough to seriously consider breaking the practice.
 
-The distinction between "grounded" and "salvaged" matters here specifically: aircraft in the Hangars aren't
-being cannibalized wholesale to keep the flying handful operational — per Finding E's own established fleet
-status, maintenance crews draw parts selectively and deliberately, prioritizing keeping the maximum number of
-airframes at least theoretically returnable to service over maximizing the current handful's own redundancy.
-The result is rows of aircraft in varying states, most silent and untouched for long stretches, a few under
-active, visible work at any given time — a fleet management philosophy that reads less like abandonment and
-more like triage under an assumption that circumstances could still change. Whether that assumption is
-realistic, given everything else established about Troll's own contested post-war state, is a question the
-maintenance crews themselves don't appear to have settled either.
+A flying cargo aircraft's own fuel-system component failed during a post-war supply run when replacement
+parts through ordinary channels had become genuinely unreliable, and the maintenance crew responsible
+identified exactly one grounded airframe in the Hangars with a matching, salvageable part — a passenger
+aircraft, structurally sound, one of the handful still plausibly returnable to service if circumstances ever
+allowed. The crew chief called a vote among the maintenance team rather than making the call alone: strip the
+passenger aircraft now, for a certain, immediate fix, or hold out and find another solution, preserving the
+airframe's own theoretical future usefulness against genuinely uncertain odds. The vote went narrowly against
+stripping it. The crew found a workaround instead — a slower, less reliable fix improvised from mismatched
+components — and the passenger aircraft has sat untouched in the Hangars ever since, exactly the kind of
+close call Finding E's own "triage under an assumption that circumstances could still change" framing
+describes, made concrete in one specific decision by people who genuinely weren't certain they were making
+the right one.
 
 ---
 

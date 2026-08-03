@@ -7,43 +7,56 @@ No entry below depends on any other; none are required to be chronological. Draw
 Infrastructure_Attributes.md`'s 10 attributes and its Cross-Referenced Extrapolation Findings, plus
 `Abowasa_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
 
+**PAUSED 2026-08-02 — do not treat this file as finished or add to it yet.** Abowasa's entire founding
+premise (a joint Finnish-Swedish founding population) was caught mid-revision as invalid — see `TODO.md`'s
+"Abowasa's whole founding premise" entry and `feedback_founding_nation_bug_methodology.md` memory. Several
+entries below ("The Coordinator Who Proposed Neutral Ground," "What Elder Lindqvist-Väisänen Actually Tells
+Newcomers") still assume that now-flagged premise and will need rewriting once Abowasa's core lore is fixed.
+Two entries ("How a Small City Became a Technical One," "What Gets Decided at the Overlook") are still the
+older attribute-drift versions, never reached before the pause. Do not treat any of this file as reliable
+until the founding-premise fix lands and this file gets a full pass afterward.
+
 ---
 
-## Two Hundred Meters, Closed
+## The Coordinator Who Proposed Neutral Ground
 
 Abowasa's physical infrastructure originated as two genuinely separate station sites roughly 200 meters
 apart, now fully, physically merged into one inseparable settlement (Physical Infrastructure Attribute #3).
-The merger wasn't instantaneous — it happened gradually, as the exile population inheriting both sites found
-increasingly little practical reason to maintain the gap between them.
+The merger had a specific first move, credited to an unnamed founding-era figure `Abowasa_Full_
+Extrapolation.md` identifies only by role: whoever first formalized practical cooperation between the two
+exile communities, before either population had reason yet to think of themselves as one city.
 
-The earliest connecting infrastructure was minimal — a cleared, marked path between the two clusters of
-buildings, walkable but not yet a genuine architectural bridge. What actually closed the gap, per informal
-accounts, was the Joint Household Kitchens (attribute #4): a shared cooking facility built roughly at the
-midpoint between the two original sites specifically because neither community wanted to fully relocate to
-the other's own buildings, and a genuinely neutral middle ground solved the problem without requiring either
-side to concede anything. Once the Kitchens existed, the infrastructure around them filled in naturally —
-storage, additional shared facilities, eventually enough connective building that the original 200-meter gap
-stopped being a meaningful distance at all. Nobody currently living in Abowasa remembers the two sites as
-genuinely separate; the merger completed itself generations before anyone thought to mark the moment it
-finished.
+Per what's preserved of the earliest cooperative planning, the joint FINNARP/SWEDARP coordinator faced a
+genuinely delicate problem in the settlement's first years: both populations needed shared cooking
+infrastructure neither could justify building twice, but proposing the shared kitchen be built at either
+existing site risked reading as one community absorbing the other. The coordinator's own resolution was to
+propose building it at the literal midpoint between the two clusters of buildings — genuinely neutral ground,
+belonging to neither original site — a small piece of deliberate diplomacy that required both communities to
+walk roughly the same distance to reach it. The Joint Household Kitchens were built there specifically because
+of that proposal, and once they existed, the infrastructure around them filled in naturally until the original
+200-meter gap stopped being a meaningful distance at all — the entire physical merger tracing back to one
+person's insistence that the first shared building belong to neither side.
 
 ---
 
-## What Halley and Neumayer Actually Ask Abowasa For
+## The Query That Made the Institute Worth Something
 
 The Bedrock Stability Institute (attribute #2) is a genuine regional export even in Abowasa's own damaged,
 partial-priority-target state — its geological and structural-stability expertise directly applicable to the
-foundation problems both Halley and Neumayer actively engineer around (Finding A).
+foundation problems both Halley and Neumayer actively engineer around (Finding A). The consulting
+relationship traces to one specific query, not a gradually built reputation.
 
-*(An informational sheet on the consulting relationship itself, not a single visit.)* Requests from either
-city follow a consistent pattern, per the Institute's own working records: specific structural questions
-about ice-shelf or ice-mobility engineering that Abowasa's own bedrock-founded expertise can meaningfully
-inform, even though Abowasa's own city sits on genuinely different terrain than either requesting city's
-foundation. The relationship runs one direction almost entirely — Abowasa has comparatively little practical
-need for Halley's or Neumayer's own ice-engineering expertise, sitting as it does on exposed rock rather than
-moving or elevated ice. What Abowasa receives in return, per informal accounts among Institute staff, is less
-material and more simply relational: recognition, from two much larger and more strategically significant
-cities, that a small, low-priority-target settlement holds expertise neither of them can produce in-house.
+Neumayer's own engineers, working through a structural question about hydraulic-leg foundation loading that
+their own ice-shelf-focused expertise had no direct precedent for, sent a formal query to Abowasa's Institute
+— at the time a small, inward-facing research office with no established history of cross-city consulting at
+all — more out of having exhausted other options than confidence it would help. An Institute researcher spent
+several weeks working through the bedrock-mechanics analogy, translating Neumayer's own ice-shelf loading
+problem into terms her own solid-ground expertise could actually address, and returned a structural
+recommendation Neumayer's engineers confirmed resolved the specific loading anomaly they'd flagged. The
+success of that one exchange, rather than any deliberate outreach campaign, is what put the Institute on
+Halley's and Neumayer's own list of places worth asking a hard structural question — a single answered query
+that turned a small settlement's own local research office into an actual regional resource almost by
+accident.
 
 ---
 
@@ -68,23 +81,23 @@ structural retrofitting were free, from the very beginning, to go somewhere else
 
 ---
 
-## What the Buildings Never Told You
+## What Elder Lindqvist-Väisänen Actually Tells Newcomers
 
-*(An informational sheet naming a genuine gap, not resolving it — Finding B's own observation that Abowasa's
-built environment tells only half its cultural story.)* The physically merged infrastructure and shared
-Joint Household Kitchens are real, visible proof that Abowasa's daily culture genuinely unified where
-practical necessity demanded it. What the buildings don't show, and never have, is the other established half
-of the city's own cultural pattern: language and civic memory that stayed deliberately distinct even after
-the physical merger completed.
+Finnish and Swedish both survive in Abowasa as living household languages, neither displacing the other, even
+generations after the settlement's physical infrastructure fully merged (`Abowasa_Full_Extrapolation.md`
+Section I) — a distinction visible in how people speak, not in anything the buildings themselves show.
 
-No structure in Abowasa marks this distinction the way the Kitchens mark the unification — the preserved-
-separate half of the city's own identity exists entirely in how people speak and what they remember, not in
-anything a visitor could point to and read. A newcomer touring Abowasa's physical infrastructure alone would
-reasonably conclude the two founding communities fully absorbed into one undifferentiated culture; a
-newcomer only hearing how households actually speak to each other, and which specific memories get passed
-down through which specific family lines, would conclude something closer to the opposite. Both readings are
-correct, for different halves of the same city, and neither the architecture nor the spoken culture alone
-tells the whole story.
+**Elder "Ingrid Lindqvist-Väisänen" *(placeholder, not developer-chosen)*** — her own hyphenated surname a
+small, quiet emblem of the city's founding — is, per established local custom, typically the first resident
+newcomers are introduced to, given how quickly visitors here tend to become residents. New arrivals expecting
+a single unified "Abowasan" identity are, by her own account, routinely surprised by her first real piece of
+guidance: which language a given household actually speaks at home isn't predictable from the physically
+merged, thoroughly hybridized city around them, and asking directly, rather than guessing from a surname or a
+building's own location, is simply the polite and accurate way to find out. She's fielded the same confused
+reaction from newcomers often enough, per her own telling, that she now raises the point unprompted, before
+anyone has the chance to make the wrong assumption — treating the correction not as a formality but as the
+single most useful thing she can tell someone about how Abowasa actually works, underneath what its buildings
+show.
 
 ---
 

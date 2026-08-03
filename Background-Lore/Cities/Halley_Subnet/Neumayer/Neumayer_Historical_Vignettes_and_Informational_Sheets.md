@@ -30,22 +30,25 @@ specific, documented choice to finish the work regardless.
 
 ---
 
-## What the Workshops Actually Teach
+## The Director Who Refused to Let the Institute Dissolve
 
-*(An informational sheet describing an institution's ongoing practice, not a single incident.)* The
-Instrument-Craft Workshops (attribute #5) are, per Finding H, the actual training pipeline behind both the
-Amundsen Tower's schematics and the current-generation Cradle chamber design — the place where Neumayer's
-whole precision-engineering tradition is taught, not merely practiced by people who already know it.
+The Alfred Wegener Institute survived Tepenian founding as a genuine, distinct institutional entity rather
+than quietly dissolving into general city governance the way most inherited pre-exile institutions
+eventually did elsewhere in Tepenia (`Neumayer_Full_Extrapolation.md` Section III) — a deliberate act of
+preservation, not an automatic outcome.
 
-The Workshops' own apprenticeship structure is built around calibrated-tool-making specifically, not
-structural design directly — apprentices spend their earliest years learning to build and verify the precise
-instruments used to measure everything else, on the established civic principle "Measured, Not Debated": an
-apprentice's own work is judged against demonstrated calibration accuracy, not a mentor's subjective opinion
-of it. Only after an apprentice can reliably build instruments precise enough to trust do they move on to
-using those same instruments in actual structural or scientific design work. The sequence is deliberate — per
-several instructors' own account, a designer who has never had to build the tool measuring their own
-tolerances tends to trust those tolerances more than the tool actually earns, a mistake the Workshops
-consider more dangerous than simple inexperience.
+**Institutional Director "Marcus Chen-Bergström" *(placeholder, not developer-chosen)*** is credited with
+formally preserving the Institute's own structure during the earliest exile-era civic reorganization, when
+the practical case for folding it into general administration was genuinely strong — a small founding
+population, limited administrative capacity, and every other inherited pre-exile institution elsewhere
+choosing consolidation for exactly those reasons. Chen-Bergström argued the opposite, in front of a founding
+council skeptical of maintaining a separate research bureaucracy this early: that a precision-first city's
+whole future usefulness depended on keeping its scientific and engineering identity institutionally distinct
+from ordinary governance, not subordinate to it, even at real short-term administrative cost. The council
+approved the Institute's continued separate existence by a narrow margin, according to what fragments of the
+founding-era proceedings survive. Every later Neumayer institution built on precision-engineering
+credibility — the Instrument-Craft Workshops among them — inherited that specific, contested decision rather
+than any default continuity nobody had to fight for.
 
 ---
 
@@ -68,23 +71,25 @@ urgent response earlier, before it had accumulated as far.
 
 ---
 
-## Measured, Not Debated, After Hours
+## The Brewer Who Wouldn't Serve by Feel
 
-Neumayer's After-Hours Sound Venues (attribute #10) exist as the city's genuine emotional release valve
-after high-focus technical work, built around Electronic/Metal/Digital-Industrial music — and, per Finding F,
-around a glitch-coolant drinking culture that carries the same "Measured, Not Debated" precision as
-everything else the city does, applied here to a substance rather than a structure.
+Neumayer's After-Hours Sound Venues (attribute #10) run on a glitch-coolant culture that, per Finding F,
+carries the same "Measured, Not Debated" precision as everything else the city does — exact, reproducible
+batches rather than the looser, variety-driven coolant traditions established elsewhere in Tepenia. That
+standard has a specific origin, not a gradual civic drift.
 
-*(An informational sheet on the culture itself, not a single night.)* Neumayer's own coolant variant is
-described by regulars as precisely calibrated and reproducible — the same batch, brewed the same way,
-producing the same effect, run after run, in deliberate contrast to the more variable, experimental coolant
-cultures established elsewhere in Tepenia. Ordering at an After-Hours venue reflects this: regulars order by
-exact specification — strength, blend, sometimes down to a specific brewer's own batch number — the same
-way an apprentice at the Instrument-Craft Workshops would specify a tool's own tolerance, rather than by
-looser preference the way most Tepenian coolant culture works. The venues themselves lean into the contrast
-deliberately: precision-branded batches served inside rooms built entirely around loud, deliberately
-unmeasured, cathartic music — the two halves of the same civic personality, kept in the same building rather
-than kept apart.
+An early After-Hours brewer, trained in the looser, feel-and-taste coolant tradition more common elsewhere
+in Tepenia, ran a venue for several years serving batches the ordinary way — by rough recipe and personal
+judgment, adjusted night to night. A regular, herself an Instrument-Craft Workshops apprentice, complained
+directly and repeatedly that the batches were inconsistent in a way nothing else in Neumayer was tolerated to
+be, and eventually brought her own calibrated measuring tools into the venue to prove it, brewing a side batch
+by exact specification during a slow evening as a direct challenge. Regulars who tried both batches back to
+back overwhelmingly preferred the calibrated one — not necessarily stronger or better by any single measure,
+but reliably, verifiably the same every time it was ordered again. The brewer adopted the apprentice's own
+exact-specification method within the season, and the practice spread to every other After-Hours venue in the
+city within a few years, less through any formal decision than through drinkers simply preferring to know
+exactly what they were getting, every time, the same way they expected to know it from everything else built
+in Neumayer.
 
 ---
 
@@ -108,20 +113,22 @@ establishes as the city's own defining relationship to its own instability.
 
 ---
 
-## The Backup Nobody Was Told About
+## The Corruption Nobody Downstream Ever Noticed
 
 Neumayer's redundant, plausibly off-site-transmitted archival infrastructure (attribute #9) exists to protect
 centuries of unbroken atmospheric and climate data — and, per Finding B, is independently, coincidentally the
 exact kind of infrastructure a still-speculative second Planetary Split Brain archive location would need to
-exist. Nothing in this entry confirms that speculation; it simply describes the archival practice itself.
+exist. Nothing in this entry confirms that speculation; it simply describes one specific moment the
+redundancy actually did its job.
 
-The transmission side of the redundancy was never widely publicized even within Neumayer — most residents,
-per informal accounts, know the city keeps thorough records, but not that a working copy of that record has,
-at various points, plausibly gone somewhere else entirely. The staff responsible for the transmission
-infrastructure describe their own work in deliberately unglamorous terms: verifying that a backup completed
-successfully, checking data integrity against the local copy, and otherwise treating the whole arrangement as
-routine technical redundancy rather than anything worth discussing outside the specific office responsible
-for it. Whether that quiet, low-visibility handling was itself deliberate, or simply the natural result of
-Neumayer's own culture treating even significant infrastructure as unremarkable when it's working correctly,
-is not resolved by anything in the archival staff's own account — consistent with Finding B's own framing,
-this entry establishes the infrastructure and its handling, not what (if anything) it connects to.
+A routine integrity check on the primary climate-data archive, decades into the record's own unbroken run,
+flagged localized corruption across several months of raw atmospheric readings — a hardware fault in the
+original storage medium, not any external damage, caught only because integrity checks were run on a fixed
+schedule regardless of whether anything seemed wrong. The affected months, per the archival staff's own
+account, were unrecoverable from the primary copy by the time the corruption was noticed. The redundant
+off-site transmission, established as standard precision-institution precaution well before anyone had reason
+to think it would ever actually be needed, held an intact copy of the exact same months. Restoration from the
+backup was, by the responsible technician's own description, almost anticlimactic — a data transfer, a
+verification pass, the gap in the unbroken record closed before most of the city ever had reason to know a
+gap had briefly existed at all. The corruption is barely remembered outside the archival office itself; the
+redundancy that quietly fixed it is the entire reason there was nothing left to remember.

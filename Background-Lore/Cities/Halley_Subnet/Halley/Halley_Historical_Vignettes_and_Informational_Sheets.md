@@ -28,38 +28,55 @@ beyond their own logs, in that one crossing.
 
 ---
 
-## The Module That Stayed
+## The Relocation That Stalled Halfway
 
-Not every ski-mounted structure that stops moving does so by choice. Mobility-status assessment
-infrastructure (attribute #7) exists specifically because war damage plausibly left some sections physically
-stuck even where ordinary ice dynamics would otherwise require relocating them — a genuinely different
-failure mode from anything the founding engineers planned for.
+Halley's mobility-status assessment infrastructure (attribute #7) treats "can this module still move" as a
+distinct, ongoing question from "is this module structurally sound" — a distinction the founding generation
+didn't originally think to make, because early relocations either succeeded outright or failed before they
+started. Nobody had yet planned for a module that began moving and then, partway through, simply couldn't
+finish.
 
-One residential module, close enough to the current calving zone that its own proximity-monitoring readings
-(attribute #6) have been flagged for years, has not moved in a documented multi-year stretch — its own track
-propulsion damaged badly enough that relocating it under its own power is no longer possible, and the
-resources to move it by other means have never been prioritized over structures actively at higher immediate
-risk. Residents still live there. The module's own position, closer to the calving edge with every season's
-drift, is monitored more closely than almost any other structure in the city specifically because it can no
-longer solve its own proximity problem the way every other module still can.
+That happened first — as far as any surviving account establishes — during one of the earliest large-scale
+relocations attempted after the initial propulsion system (attributes #1–2) had been proven reliable on
+short, controlled runs, but before anyone had tried moving a fully-loaded residential module the full
+distance a real relocation required. The module's tracks held for most of the run, then seized less than a
+third of the way from its target position — not damaged outright, but locked, neither fully at the old site
+nor anywhere near the new one, sitting exposed on open ice with no established procedure for what came next.
+**"Astrid Vance-Mokoena" *(placeholder, not developer-chosen)*** — credited elsewhere with pioneering the
+continuous propulsion-track system itself — was the engineer called out to the stalled module, and by her
+own crew's later account spent the better part of two days working the track mechanism free by hand rather
+than risk further damage with a second untested tow attempt.
+
+The module eventually finished its move under its own power. What actually mattered afterward wasn't the fix
+— it was the gap the incident exposed: nothing in Halley's founding-era design had asked "what happens if a
+move doesn't complete," because the founding generation's whole philosophy assumed relocation was binary,
+either accomplished or not yet begun. Vance-Mokoena's own recommendation afterward, formalized within her own
+lifetime, became the seed of what attribute #7 now runs as standing infrastructure — routine assessment not
+just of whether a module has moved, but of whether it remains capable of finishing a move it's already
+started. Every module currently monitored for mobility status is being tracked by a system that exists
+specifically because one module, once, stopped halfway.
 
 ---
 
-## What the Vote Actually Decides
+## The Vote That Gave Away the Nexus
 
-Halley's dedicated civic deliberation space for relocation decisions (attribute #11) exists because when and
-where to move is, per the city's own established civic character, a recurring conversation rather than a
-crisis — but "recurring conversation" doesn't mean the votes are always easy or unanimous.
+Halley once held the Mirny subnet's own Arcanet nexus infrastructure outright — the technical hub routing
+every other subnet city's contact with each other — before deliberately trading it away, building Sanay's own
+nexus by hand rather than keeping the subnet's actual technical control for itself (per Finding 1, cross-
+referencing the established Enneagram finding on this trade with the city's own dock-and-airstrip-forgoing
+pattern). This wasn't a loss. It was a specific, deliberate vote.
 
-*(An informational sheet, not a single incident — the general shape the deliberation process takes, not one
-specific vote.)* The deliberation space hosts disagreement along a few recurring lines rather than a single
-axis: how far ahead of the calving edge is genuinely necessary versus merely cautious; whether resources go
-toward relocating the whole city in step or letting individual modules move on their own separate schedules;
-and, increasingly since the war, whether a stuck module (see "The Module That Stayed," above) changes the
-calculus for everyone still able to move around it. No vote in Halley's history has ever resulted in a
-module being left behind entirely against its residents' wishes — the deliberation space's own real function,
-per residents who've sat through many sessions, is less about deciding whether to move than about deciding
-exactly when the discomfort of moving finally outweighs the discomfort of staying.
+The proposal, per what's established about the decision itself, traded concrete technical leverage for
+something Halley's own founding generation valued more: naming honor and the subnet's own civic recognition
+running through Halley's name regardless of where the actual hardware physically sat. The vote split the
+settlement more evenly than most Position-Day-era decisions since — engineers who'd rather have kept the
+nexus under Halley's own direct control, whatever the cost of relocating the hardware every time the city
+itself moved, against residents willing to let the technical burden sit on Sanay's own more stable bedrock
+permanently in exchange for the subnet's identity remaining tied to Halley regardless. The trade-away side
+won, by a margin nobody currently recalls with precision. Once built, Sanay's own nexus never came back to
+Halley, by design — the same civic instinct that let the city give up fixed docks and an airstrip without
+apparent regret, tested here first, deliberately, in a single specific vote whose outcome nobody has ever
+seriously proposed reversing.
 
 ---
 
@@ -84,22 +101,24 @@ site has left before it joins the founding position in becoming paper only.
 
 ---
 
-## Reading the Ice
+## The Read That Held the Line
 
-*(An informational sheet describing an ongoing vocational tradition, not a single incident.)* Halley's
-regional ice-condition monitoring (attribute #12) tracks not just the city's own shelf but Belgrano's and
-Sanay's shipping passages as well, supporting a vocational tradition already established as reading ice
-conditions "the way agricultural communities read weather." The skill isn't formally certified — there is no
-single test a resident passes to be recognized as an ice-reader — but informal recognition accumulates over
-years of correctly predicted conditions, the same way any craft reputation builds in a small, tightly
-interdependent community.
+Halley's regional ice-condition monitoring (attribute #12) tracks not just the city's own shelf but
+Belgrano's and Sanay's shipping passages as well, supporting an informal vocational tradition of reading ice
+conditions "the way agricultural communities read weather" — a skill with no formal certification, built
+entirely on years of correctly predicted conditions.
 
-What the skill actually consists of, per residents who practice it: reading surface texture, sound underfoot,
-and the specific way light behaves on a given stretch of ice, then cross-referencing that read against the
-Position Archive's own historical drift data for comparable conditions. A trusted ice-reader's judgment about
-whether Belgrano's or Sanay's shipping passage is likely to remain open carries real weight in the city's
-overland resupply planning (attribute #5) — a genuinely load-bearing civic skill, resting entirely on
-informal, personally-earned trust rather than any formal credential.
+**One specific call is still cited as the reason the tradition carries the weight it does.** During a
+resupply-critical stretch when Sanay's own shipping passage showed conditions that every instrument reading
+said were borderline-safe, a longtime ice-reader flatly refused to certify the route as passable — going
+against the recorded data itself, on the strength of surface texture and sound underfoot that, by her own
+account, "didn't match what the numbers were claiming." The convoy's own dispatchers, weighing days of
+overland resupply against one resident's uncredentialed judgment, delayed the crossing on her word alone. The
+passage failed within the window she'd flagged — not catastrophically, but enough that a convoy caught mid-
+crossing would have been in genuine danger. Halley's own overland resupply planning (attribute #5) has, since
+that specific call, treated a trusted ice-reader's refusal as grounds to delay a crossing on its own,
+regardless of what instrument data says — the informal skill's own real authority, in this telling, traces
+back to one reader's willingness to be wrong publicly rather than quietly defer to a reading she didn't trust.
 
 ---
 

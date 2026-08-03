@@ -48,63 +48,68 @@ filed, entirely ordinary piece of paperwork.
 
 ---
 
-## How the Boneyard Actually Runs
+## The Week the Water System Had No One
 
-*(An informational sheet describing an ongoing institutional practice, not a single incident.)* Belgrano's
-organized, rotation-based maintenance culture — "Boneyard Times" — kept the city functioning after
-institutional command collapsed, without any formal authority backing it (attribute #9). Per Finding C, the
-maintenance rotations themselves trace to one figure's own deliberate formalization effort,
-**"Yolanda Petrescu" *(placeholder, not developer-chosen)***, credited with turning ad hoc post-collapse
-survival into an actual working system.
+Belgrano's organized, rotation-based maintenance culture — "Boneyard Times" — kept the city functioning after
+institutional command collapsed, without any formal authority backing it (attribute #9). It didn't emerge
+gradually. Per Finding C, the maintenance rotations trace to one specific figure's deliberate response to one
+specific near-failure.
 
-The rotation itself functions on a simple, self-enforcing logic: whichever crew currently holds
-responsibility for a given system — power, water, the Airfield's own remaining functional infrastructure —
-hands off formally to the next crew at a fixed interval, rather than holding responsibility indefinitely or
-letting it lapse when a given crew's own capacity or interest fades. No central authority audits the
-handoffs; the system persists because every crew has a direct, immediate stake in the next crew actually
-showing up, the same logic Garage Nights' own informal mechanic culture already runs on elsewhere in the
-project. Newcomers to a rotation are trained by whoever's stepping down, not by any dedicated instructor —
-knowledge passed crew to crew, generation to generation, entirely without the formal apprenticeship structure
-a still-functioning city's own guild system would provide.
-
----
-
-## The Airfield That Governed
-
-Comodoro Villanueva-Krause's own defining founding-era choice — extending Air Force command structure over
-the whole civilian population rather than letting a separate civic government develop alongside it — meant
-Belgrano never built a dedicated seat of civic authority distinct from the Airfield itself (Finding D,
-drawing on attributes #1–2).
-
-For generations, matters that any other Tepenian city would route through a dedicated administrative
-building — dispute resolution, resource allocation, formal civic decisions — were instead handled through the
-Airfield's own command structure, the same office responsible for runway scheduling and aircraft maintenance
-also functioning, without much formal distinction, as the city's actual seat of government. Residents
-petitioning for a civic decision and residents reporting a maintenance issue with a hangar door used, by
-several accounts, the literal same office and often the same personnel. Whether this fusion ever produced
-genuine friction — military priorities crowding out ordinary civic concerns, or vice versa — isn't resolved by
-anything currently on record; what is established is that Belgrano's entire governance history, for as long
-as formal governance existed at all, ran through the single physical location built to fly and maintain
-aircraft, never through anything built or designated separately.
+**"Yolanda Petrescu" *(placeholder, not developer-chosen)***, Jefa de Mantenimiento during the airbase's own
+last fully-functioning years, was still nominally in a maintenance-supervisor role when the command structure
+above her genuinely stopped functioning — no formal dissolution, simply fewer and fewer orders coming down
+until none did. In the ambiguous stretch that followed, the water system went roughly a week with no one
+crew clearly responsible for it, each of several capable technicians assuming someone else still held the
+job, until pressure dropped low enough across enough of the city that the gap became impossible to ignore.
+Petrescu convened the technicians who actually understood the system — not by any authority she still
+formally held, since none remained, but because she was the person in the room willing to organize a fix — and
+proposed the rotation on the spot: fixed handoff intervals, explicit responsibility, no assumption that
+someone else had it covered. The water crisis resolved within days. The rotation logic she improvised that
+week, extended afterward to power and the Airfield's own remaining infrastructure, is the same system Boneyard
+Times still runs on — not designed in advance, but built directly out of the one specific failure nobody
+wanted to repeat.
 
 ---
 
-## The Mate That Outlasted the Office
+## The Decision Villanueva-Krause Never Reversed
 
-Belgrano's mate ritual is, per the existing Cross-Reference Synthesis's own Finding 1, the one piece of the
-city's culture that never needed any institution to survive — and attribute #11's own well-built,
-over-engineered standing infrastructure is the same underlying pattern showing up architecturally rather than
-socially (Finding E): things Belgrano built well enough that they outlasted whatever built or maintained
-them, without anyone needing to deliberately preserve either one.
+Belgrano never built a dedicated seat of civic authority distinct from the Airfield itself — a founding-era
+choice, not a gradual drift, credited to **Comodoro (Commodore) "Eduardo Villanueva-Krause"** during the
+airbase's own transition from research/military site to permanent exile settlement (`Belgrano_Full_
+Extrapolation.md` Section I).
 
-Well after the Airfield's own formal command structure had faded into the informal Boneyard rotation system,
-residents continued sharing mate the same way — same vessel-passing custom, same unhurried social rhythm — in
-spaces that had, by that point, lost whatever formal civic function they'd originally been built for. The
-ritual required no institutional backing to persist because it was never institutional to begin with; it
-simply continued being what it had always been, in buildings that likewise continued standing for the same
-reason, engineered originally for a harsher climate profile than almost anywhere else in the Halley subnet
-(attribute #10) and consequently overbuilt enough to survive long past the point anyone was actively
-maintaining them.
+As the civilian population growing up around the base outgrew what the existing command structure was ever
+designed to administer, Villanueva-Krause faced a genuine choice other founding-era commanders elsewhere in
+Tepenia resolved the opposite way: let a separate civic government develop alongside the military
+administration, the more conventional path, or extend Air Force command structure to cover the whole
+population directly. He chose the latter, over the objections — per what fragments of the era's own internal
+correspondence survive — of at least some junior officers who argued a dedicated civilian administration
+would handle ordinary disputes and resource questions more capably than a command structure built for flight
+operations. Villanueva-Krause's own reasoning, as best preserved, was that a single unified structure would
+outlast a divided one during whatever hardship the young settlement eventually faced — a bet that, whatever
+its original merits, proved durable: the fusion he chose never got walked back, not during his own tenure and
+not by any successor afterward, and Belgrano's entire subsequent governance history ran through the Airfield
+because that single founding-era decision was never seriously revisited.
+
+---
+
+## The Last Mate Before the Crossing
+
+Expedition Day commemorates the departure of the original Arrastradoras and the all-robot crew on the
+Byrd-founding crossing — Belgrano's proudest historical achievement, and, per the founding-era account
+fragments that survive, the specific occasion where the city's own mate ritual first became something other
+than an ordinary daily habit.
+
+The night before the crew departed on a crossing nobody could guarantee they'd survive, the ground crew who'd
+spent months building and testing the prototype Rastras shared mate with the departing drivers in the
+vehicle bay itself, the same vessel passed hand to hand the way it always was — except, per what's
+remembered of that specific evening, considerably more slowly than usual, and considerably more people
+present than an ordinary shift-end round would draw. Nobody formally decided the gathering meant anything
+beyond an ordinary send-off at the time. What made it stick as Expedition Day's own defining image, retold
+every year since, was simply how many of the people in that vehicle bay understood, without anyone saying so
+directly, that this particular round of mate might be shared with some of those specific people for the last
+time — the same unhurried, vessel-passing custom Belgrano still practices today, first given this specific
+weight on one particular night before Expedition Day existed as anything but an ordinary evening.
 
 ---
 

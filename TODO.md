@@ -4,6 +4,12 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Abowasa's whole founding premise — flagged 2026-08-02, developer-confirmed same bug class as Sejong's Hangul fix, NOT yet fixed
+
+`Specs/Abowasa.md`'s Founding, Character & Culture, and Legacy sections all rest on "Finnish and Swedish exiles, jointly" founding the city at Tepenian founding — the same First Interwar Period (2083-2564, ~500 years, every station but Zhongshan changing national hands repeatedly) turnover fact that invalidated Sejong's Hangul-continuity claim also rules out any real Finnish or Swedish population/culture surviving from the real-world Aboa (1988)/Wasa (1989) stations' own naming era through to founding. This is a bigger fix than Sejong's: it touches the city's own name ("Abowasa," explicitly chosen by combining both station names), demonym ("Abowasian"), "dual-national character" as its headline trait, the Turku Remembrance holiday, and the Character & Culture / Legacy sections' entire framing — not just one attribute and one holiday. Layers not yet checked: `Local_Cultures/Halley_Subnet/Abowasa.md`, `Abowasa_Community_Infrastructure.md`, `Abowasa_Full_Extrapolation.md`, `Abowasa_Cross_Reference_Synthesis.md`, `Abowasa_Physical_Infrastructure_Attributes.md` (which has its own "Hangul Instruction Halls"-style attributes built on the same premise), `Neo-Races-and-Cultures/Halley_Subnet/Abowasa/Abowasa_Catalog.md`. Also worth checking, per the same geography-alignment logic that flagged Sejong's own name as potentially wrong: Queen Maud Land's interior position doesn't obviously GPS/timezone-align with Finland or Sweden either, so the city's own name may need reconsideration the same way Sejong's does. **Developer directive 2026-08-02: flagged, not actioned — skipped while continuing the unrelated Historical Vignettes rework on other cities.** See `feedback_founding_nation_bug_methodology.md` memory.
+
+---
+
 ## Large backlog batch — flagged 2026-08-01, multiple distinct topics, none started
 
 A batch of items the developer wants logged for future work. Grouped below by topic; nothing in this section has been researched or designed yet.

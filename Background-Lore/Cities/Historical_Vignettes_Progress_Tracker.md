@@ -9,6 +9,10 @@ are narrative vignettes (a specific incident, a specific person); others are dri
 pattern, a statistic, a standing fact). Both are valid. See `Byrd_Historical_Vignettes_and_Informational_Sheets.md`
 for the approved pilot batch and format.
 
+**See `Historical_Vignettes_Synthesis_Method.md` for the explicit rule on what makes an entry valid**
+(historical occurrence, not a restated attribute) — written 2026-08-02 after an audit found 86 of 108
+already-drafted entries had drifted into attribute restatement.
+
 **Source material per city:** primarily each city's own `[City]_Physical_Infrastructure_Attributes.md`
 (Methodology #1 attributes + Methodology #2 Cross-Referenced Extrapolation Findings — complete for all 35
 outer cities + Amundsen Station), plus `Course_of_Events_Suggestions.md`, Local Cultures, Community
@@ -231,4 +235,48 @@ approaching 12 in later sessions.
 - **2026-08-02:** Juan Carlos batch 1 of 6 (The Archive Nobody Thought Twice About, What the Watch Actually
   Involved, Where Arrivals Actually Went, The Argument That Was the Point, A Harbor Doing Two Jobs at Once,
   The Federation's Memory). Juan Carlos now at 6/30. **Palmer subnet's first full pass is complete — all 8
-  cities at 6/30, 48 entries.** Next: Mirny subnet, starting with Mirny itself.
+  cities at 6/30, 48 entries.**
+- **2026-08-02:** Mirny (Mirny subnet) batch 1 of 6, opening the subnet (The Ring That Didn't Hold,
+  Marchenko's Forty Hours, The Apprentice Who Argued With the Wind, The Toast Nobody Wanted to Give, What
+  Sinheung Sent Back, The Kitchen That Refused to Merge). Mirny now at 6/30.
+- **2026-08-02: Second course correction, developer-flagged — "not History, you're making Attributes."**
+  An audit of all 108 entries drafted so far found only 22 survived as genuine historical occurrences; 86
+  were state-of-being restatements of the Attributes file (the exact bracketed disclaimer `(An informational
+  sheet on X's own function, not a single incident)` was the tell in nearly every case). Wrote
+  `Historical_Vignettes_Synthesis_Method.md` — the explicit instruction sheet for what makes an entry valid
+  (something has to have *happened* — an incident, a named person's decision, a discovery, a dispute — not a
+  description of what a system is or does), plus a ranked source-material priority, developer-confirmed:
+  Tier 1 `[City]_Full_Extrapolation.md` (richest source of named figures/specific stories), Tier 2
+  state-of-being files (Attributes/Specs/Local_Cultures/Community_Infrastructure), Tier 3
+  `Cross_Reference_Synthesis.md`, Tier 4 `Course_of_Events` specs (lowest weight — separate, deliberately
+  sequential methodology, out of scope here), Tier 5 supplementary. Launched 3 background agents to rework
+  Halley subnet, Palmer subnet, and Mirny+Casey against this corrected method; all 3 hit a session usage
+  limit mid-task. Halley's agent completed 1 of 3 needed Halley-city fixes before crashing; Palmer's agent
+  crashed before writing anything; Mirny/Casey's agent fully rewrote Mirny (excellent quality) but never
+  reached Casey. Salvaged both partial results from their worktrees and continued the rest by hand.
+- **2026-08-02: Third finding, developer-flagged — Abowasa's founding-nation bug (Finnish/Swedish premise
+  invalid).** Caught mid-rewrite: a "Turku Remembrance" entry assumed Finnish/Swedish cultural continuity the
+  First Interwar Period's ~500-year station-turnover rules out, same bug class as Sejong's Hangul fix but
+  far more severe — Abowasa's own city name, demonym, "dual-national character," and founding narrative in
+  `Specs/Abowasa.md` all rest on the same invalid premise. Developer directive: flag and skip, don't fix now.
+  Logged in `TODO.md` and `feedback_founding_nation_bug_methodology.md` memory. **Abowasa's Historical
+  Vignettes file is PAUSED** (flagged in its own header) — 3 of its entries already reworked under the new
+  synthesis method still assume the invalid premise and will need a second pass once the founding-nation fix
+  lands. Sanay's and Lazar's own founding-nation claims (South Africa/SANAE and Russia/Novolazarevskaya,
+  respectively) were spot-checked and developer-confirmed accurate — no issue there.
+- **2026-08-02:** Applied the corrected synthesis method by hand across the rest of Halley subnet: Halley (2
+  of 3 remaining fixes: The Vote That Gave Away the Nexus, The Read That Held the Line), Neumayer (all 3:
+  The Director Who Refused to Let the Institute Dissolve, The Brewer Who Wouldn't Serve by Feel, The
+  Corruption Nobody Downstream Ever Noticed), Belgrano (all 3: The Week the Water System Had No One, The
+  Decision Villanueva-Krause Never Reversed, The Last Mate Before the Crossing), Troll (both: The Engineer
+  Who Built a Runway No One Had Asked For Yet, The Airframe Nobody Would Vote to Strip), Sanay (all 4: The
+  Councilor Who Refused to Call It Luck, The Captain Who Tried to Walk Past the Line, The Storm Someone
+  Spotted Two Hours Early, The Schedule That Broke When a Ship Came Early), Princess Elisabeth (all 5: The
+  Winter Ollivier-Tanaka Rebalanced the Grid, The Inspection Day the Founders Never Missed, The Fault
+  Kaminari Found Before It Mattered, The Meal That Became a Holiday, The Pilgrims Who Stopped for the Wrong
+  Reason), and Lazar (all 5: The Planner Who Gave the Merger a Single Government, The Proposal the Rest of
+  the Subnet Called Excessive, The Summer the Lakes Ran High, The Freight Coordinators Who Moved to the
+  Highway, The Order Neumayer Couldn't Fill Itself). **Halley subnet's re-synthesis is complete except
+  Abowasa (paused).** Next: Casey (Mirny subnet, still needs its full 6-entry rewrite), then Palmer subnet's
+  full re-synthesis (8 cities, worst-affected — Palmer City/Sejong/Signy/Juan Carlos had zero surviving
+  history entries).

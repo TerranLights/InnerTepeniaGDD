@@ -9,40 +9,45 @@ Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapola
 
 ---
 
-## What the Shipyard Complex Was Actually Built to Do
+## The Councilor Who Refused to Call It Luck
 
-The Shipyard Complex (Physical Infrastructure Attribute #3) is Sanay's own founding economic anchor —
-established specifically because bedrock stability made permanent, heavy maritime infrastructure genuinely
-buildable here in a way most Halley subnet cities' own ice-founded terrain couldn't support.
+Sanay's bedrock-founded resilience — surviving the Long Night War substantially intact while much of the
+rest of the Palmer and Halley subnets took far worse damage — has repeatedly invited outside observers to
+frame the city as simply fortunate. **Councilor "Pieter Alsdorf" *(placeholder, not developer-chosen)***
+is, per what's established about his own public record, the figure most associated with actively refusing
+that framing whenever it's been offered.
 
-*(An informational sheet on the Complex's founding-era establishment, not a single rebuild.)* Early
-construction crews, per what's established about Sanay's own founding priorities, treated the Complex as the
-city's central reason for existing at all — everything else about Sanay's own layout, including the
-cliffside residential districts (attribute #12), developed around the Shipyard's own established needs
-rather than the other way around. Sanay's own function-over-comfort civic priorities (Finding A) trace
-directly back to this founding-era sequencing: a city whose entire early purpose was building and maintaining
-ships simply never developed the kind of leisure-first civic culture some other Tepenian cities did, since
-the Shipyard's own practical demands set the tone for everything that came after, generation after
-generation, long before anything resembling a comparable crisis ever tested that priority.
+At a subnet coordination meeting some years after the war, a visiting official from a harder-hit city
+reportedly remarked, in passing, that Sanay had been "lucky" to sit on solid rock — a comment meant kindly,
+acknowledging real hardship elsewhere. Alsdorf, by more than one account of the exchange, corrected him on
+the spot: the bedrock was luck, he said, but the Shipyard Complex still standing functional was not — that
+took generations of maintenance discipline and a founding-era decision to build for permanence rather than
+convenience, the same "function over sentiment" priority that shaped Sanay's whole layout around the
+Shipyard's own needs from the start. The exchange became, within Sanay's own civic culture, a small
+touchstone for what "Competence Without Commentary" actually means in practice — not modesty for its own
+sake, but a specific, repeated insistence that Sanay's own survival be credited to work, not fortune,
+whenever anyone suggests otherwise.
 
 ---
 
-## What the Trade Yard's Boundaries Actually Mean
+## The Captain Who Tried to Walk Past the Line
 
 The Trade Yard (attribute #4) is a physically demarcated port section where Upper Earth freighter crews dock
 and conduct business under defined, bounded protocols — a structurally different model from Palmer City's
-own more open, individual-tracking approach to Upper Earth contact (Finding B).
+own more open, individual-tracking approach to Upper Earth contact (Finding B). The boundary was tested
+directly, early on, by a freighter captain who assumed Sanay's own hospitality worked the way Palmer City's
+did.
 
-*(An informational sheet on the protocol itself, not a single incident.)* The boundary isn't merely
-geographic — freighter crews docking at the Trade Yard operate under a specific, limited scope of movement
-and interaction, distinct from the freer access Upper Earth visitors receive in cities built around tourism.
-Business conducted within the Yard's own bounds is genuinely business — cargo transfer, trade negotiation,
-the practical mechanics of Sanay's own shipping economy — rather than anything resembling the cultural
-exchange Palmer City's own model invites. Crews who've worked both kinds of port, per informal accounts,
-describe Sanay's version as more efficient and considerably less personal: a functional trading relationship
-conducted with real courtesy but no particular effort toward warmth, matching the city's own broader
-"function over sentiment" civic character (Finding A) in miniature, at the exact point where Tepenia meets
-the outside world.
+A South African freighter captain, docking at Sanay for the first time after years running the Palmer City
+route, attempted to leave the Trade Yard's own bounded section to see more of the working port — by his own
+later account, simply curious, with no intention of causing trouble. Trade Yard staff stopped him at the
+boundary and, per the account passed down since, explained the distinction plainly rather than apologetically:
+Sanay's own hospitality was real, but it was commercial and bounded, not the open cultural exchange Palmer
+City extended to Upper Earth visitors, and the boundary wasn't a suggestion. The captain, reportedly more
+amused than offended once the distinction was made clear, conducted his business and returned to his ship
+without further incident — but the exchange became, among crews working both routes, the standard cautionary
+story new captains hear before their own first Sanay docking: expect efficient, courteous business, not a
+tour.
 
 ---
 
@@ -84,37 +89,40 @@ national origin or human/robot status.
 
 ---
 
-## What You Can See From the Summit
+## The Storm Someone Spotted Two Hours Early
 
 Vesleskarvet Summit (attribute #2), the highest point of Sanay's own terrain, offers panoramic views across
 the Queen Maud Land ice plateau — a genuine landmark distinct from anything the Shipyard Complex or Trade
-Yard's own working geography provides.
+Yard's own working geography provides, and, on at least one specific occasion, a working piece of civic
+infrastructure in its own right.
 
-The Summit's own use, per residents, splits cleanly between the practical and the personal. Practically, it
-functions as an informal early-warning vantage point — someone positioned at the Summit can spot approaching
-weather systems, and in the war's immediate aftermath, approaching aircraft or vehicles, well before either
-would be visible from the lower city. Personally, it's simply where residents go when they want distance from
-the round-the-clock dockside rhythm defining the rest of the city's own working life — the one place in Sanay
-genuinely removed from the shift schedules, freighter arrivals, and trucking coordination that structure
-almost everywhere else. Workers describe the climb up as a deliberate transition, not a shortcut anyone takes
-casually — arriving at the Summit is meant to feel like actually leaving the working city behind, however
-briefly.
+A resident who'd climbed the Summit purely for the personal, off-shift reason most residents do — distance
+from the round-the-clock dockside rhythm defining the rest of the city's working life — spotted a severe
+weather system building on the plateau's own horizon roughly two hours before it reached instruments at the
+lower city, and, rather than simply enjoying the view, made the climb back down specifically to report it to
+the dockside dispatch office. The early warning gave crews time to secure a freighter mid-unload that would
+otherwise have been caught exposed. The resident's own name isn't attached to any formal record of the
+incident — she wasn't stationed at the Summit in any official capacity, simply happened to be there and
+recognized what she was looking at — but the incident is cited, informally, whenever anyone asks why the
+Summit's practical early-warning function persists as an accepted civic fact even though no one is ever
+formally posted there to watch for it.
 
 ---
 
-## How the Docks Actually Schedule Themselves
+## The Schedule That Broke When a Ship Came Early
 
-*(An informational sheet on Sanay's own round-the-clock work rhythm, not a single shift.)* Round-the-clock
-dockside operations (attribute #5) are organized around rotating crews tied to freighter arrival and
-departure times rather than any fixed civic day/night schedule — a genuinely different organizing principle
-than almost any other Tepenian city's own labor rhythm.
+Round-the-clock dockside operations (attribute #5) are organized around rotating crews tied to freighter
+arrival and departure times rather than any fixed civic day/night schedule. The reactive system wasn't
+always this disciplined — an early scheduling failure is, per what's remembered of Sanay's own working
+history, the reason it became this precise.
 
-Crew rotations are set reactively rather than on a fixed calendar: a freighter's own expected arrival window
-determines which crew comes on duty, meaning individual workers' own schedules shift considerably depending
-on shipping traffic rather than following any consistent daily pattern. This produces a workforce genuinely
-accustomed to irregular hours in a way most Tepenian cities' own populations aren't — Sanay residents
-describe adjusting to variable shift timing as simply part of what living in a shipping city means, the same
-practical, unsentimental acceptance the city applies to everything else about its own function-first civic
-character (Finding A). The Trade Yard's own bounded Upper Earth protocols (attribute #4) run on the identical
-reactive logic — dock crews and Trade Yard staff alike organize their working lives around when the ships
-actually arrive, not around when a calendar says a shift should begin.
+In the shipping economy's own early years, dock crews still worked something closer to a fixed daily
+schedule, adapted loosely around expected arrivals rather than driven strictly by them. A freighter arrived
+nearly a full day ahead of its own projected window, catching the scheduled dock crew mid-rotation and off
+duty, with no formal crew currently designated to receive it. The ship sat idle at anchor for several hours
+before an improvised crew, pulled together informally from whoever was available, could actually unload it —
+an inefficiency that cost the freighter's own operators real time and drew a formal complaint. Sanay's
+dockside management response, per what's established about the system that followed, was to abandon fixed
+scheduling entirely in favor of the fully reactive, arrival-driven rotation the docks still run on today —
+crews assigned strictly to expected shipping windows rather than the calendar, a direct, deliberate fix to
+the one specific failure that exposed how much a fixed schedule could cost a shipping city.
