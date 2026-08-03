@@ -5,7 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Belgrano_Physical_
 Infrastructure_Attributes.md`'s 11 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Belgrano_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
+`Belgrano_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's
+own completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
+after — once the whole country was connected through the Tower's single relay node for the first time. The
+Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+batch.**
 
 ---
 
@@ -123,3 +127,116 @@ whatever vehicle it was originally intended for, isn't accounted for by anything
 Finding B does establish is that the part's specific shape and function are exactly what these Yards were
 built to produce, making Belgrano the most plausible point of origin regardless of the specific chain of
 custody between here and wherever it was eventually found.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Convoy That Ran the Southern Route Twice
+
+*(Shortly before the Tower's completion.)* Belgrano's own Rastra fleet and Fabrication Yards, already
+established as the mechanical backbone of overland logistics across the subnet, were drawn into the Tower's
+own final construction push when the project's material demands outpaced what closer supply routes could
+handle alone.
+
+A specific convoy contract, per what's preserved of the period's own logistics record, required Belgrano's
+own Rastra crews to run an unusually long southern supply route twice within a single season — a schedule
+several drivers considered genuinely punishing even by the standards of a fleet already accustomed to
+difficult terrain. The convoy completed both runs without a lost shipment, per what's remembered of the
+effort, hauling construction material considerably further from Belgrano's own ordinary operating range than
+any prior contract had required. The specific cargo isn't preserved in detail, but the achievement itself —
+proof the Rastra lineage could sustain genuinely long-haul work under real schedule pressure — became a
+point of quiet pride within the fleet, whether or not the Tower's own construction records ever formally
+credited where the material had actually come from.
+
+---
+
+## The Flight the Airfield Had Never Been Asked to Schedule
+
+*(Shortly before the Tower's completion.)* The Belgrano Airfield, already established as the Halley subnet's
+primary aviation hub, encountered a genuinely new category of request as Tower-related air traffic began
+routing through Belgrano more frequently ahead of the project's own completion.
+
+A formal inquiry, per what's preserved of the Airfield's own administrative record, arrived requesting
+priority scheduling for a flight explicitly tied to the Tower project — a request the fused command office's
+existing procedures, built around ordinary aviation and civilian matters, had no established category for.
+Staff handling the request, per what's remembered of the period, resolved it by treating the flight under the
+same priority logic already used for urgent supply deliveries, reasoning the underlying question — how
+urgently does this actually need to fly — was the same regardless of the cargo's own unprecedented national
+significance. The improvised classification held up well enough that it became, informally, the Airfield's
+own standing approach to comparable requests for the remainder of the Tower's construction.
+
+---
+
+## The Toast Nobody Explained to the New Arrivals
+
+*(Shortly before the Tower's completion.)* Word that a single national relay was nearing completion reached
+Belgrano's own maintenance and flight crews — still, at this point, simply the airbase's ordinary working
+culture, not yet the storied tradition later generations would name — as one more piece of distant news amid
+the ordinary work of keeping Rastras and aircraft running.
+
+A specific mate-sharing gathering, per what's preserved of the period's own informal accounts, included a
+toast one longtime crew member offered to "whatever's coming," a deliberately vague acknowledgment of the
+approaching Tower project that newer arrivals in the gathering, per what's remembered of the evening, didn't
+fully understand the significance of. The older crew member's own toast wasn't explained further at the time —
+consistent with Belgrano's own established, unglamorous civic character, treating even a genuinely
+unprecedented national project as simply one more thing to note in passing rather than dwell on, the same
+unhurried mate ritual continuing exactly as it always had regardless of what was being built hundreds of
+kilometers away.
+
+---
+
+## The Order From a Fleet Belgrano Had Never Heard Of
+
+*(Shortly after the Tower's completion.)* Belgrano's Spare-Parts Fabrication Yards, already established as
+producing replacement components that occasionally traveled further than anyone tracked, received their first
+confirmed direct order from a genuinely distant subnet once the completed Tower connected every part of the
+country at once.
+
+The order, per what's preserved of the transaction's own record, requested a batch of components compatible
+with a vehicle class the Yards' own fabrication crews had never previously worked with or even heard
+described in detail — a specification that required real technical correspondence back and forth through the
+new relay before production could actually begin. The completed batch shipped out through channels the Yards
+had never used before, reaching a fleet operating a genuine ocean's distance from Belgrano's own ordinary
+supply range. The order is remembered locally less for its own modest size than for what it represented —
+concrete proof that the Yards' own routine, unglamorous manufacturing work could now reach parts of Tepenia
+that, before the Tower, might as well not have existed as far as Belgrano's own logistics were concerned.
+
+---
+
+## The Question About the Mate Ritual Nobody Knew How to Answer Briefly
+
+*(Shortly after the Tower's completion.)* Belgrano's own mate ritual, unremarkable and entirely local for
+generations, drew a specific, genuine inquiry from a resident of a distant city once the new relay made casual
+contact between previously unconnected places possible for the first time.
+
+The inquiry, per what's preserved of the exchange, simply asked what the ritual actually was and why
+Belgrano's own residents seemed to treat it with such consistent, unhurried significance — a question posed
+with genuine curiosity rather than any specific occasion prompting it. The Belgrano resident who responded, per
+what's remembered of the exchange, found the ritual considerably harder to explain in the abstract than to
+simply practice — attempting to describe in words a custom that had always just been lived, shared, and passed
+hand to hand rather than formally taught. The exchange never produced a fully satisfying written explanation,
+per what's preserved of it, but it's remembered locally as one of the first times Belgrano's own residents had
+ever been asked to articulate a custom they'd never previously needed to explain to anyone outside the city
+at all.
+
+---
+
+## The Rastra Someone Finally Asked About by Name
+
+*(Shortly after the Tower's completion.)* The Arrastradora/Rastra vehicle lineage, invented at Belgrano and
+carried by the all-robot crew that found and founded Byrd, received its first documented outside recognition
+request once the new relay let word of Belgrano's own founding achievement travel to parts of Tepenia that had
+never previously had reason to know where the vehicle class actually originated.
+
+A formal inquiry, per what's preserved of the exchange, arrived from a research or engineering office in a
+distant subnet, asking specifically about the original Rastra design's own technical specifications — the
+inquiring party, per what's remembered of the request, had encountered the vehicle class through its own
+established use elsewhere in Tepenia without previously knowing Belgrano was where it had actually been
+invented. Belgrano's own Fabrication Yards staff, per what's established about the response, treated the
+inquiry with the same modest, workmanlike attitude the city applies to most of its own achievements — providing
+the requested technical detail without particular ceremony, the invention's own genuine historical
+significance never quite translating into the kind of civic pride a founding achievement this consequential
+might have generated elsewhere in Tepenia.
