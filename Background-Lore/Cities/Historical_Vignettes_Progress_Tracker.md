@@ -83,10 +83,10 @@ three existing per-city folders but tracked as one combined regional total below
 | Davis | 6 | 30 | In progress |
 | Kunlun | 6 | 30 | In progress |
 | Vostok | 6 | 30 | In progress |
-| Zhongshan *(Tri-Cities)* | 0 | — | Not started |
-| Sinheung *(Tri-Cities)* | 0 | — | Not started |
-| Shirayuki *(Tri-Cities)* | 0 | — | Not started |
-| **Tri-Cities combined** | **0** | **75** | **Not started** |
+| Zhongshan *(Tri-Cities)* | 6 | — | In progress |
+| Sinheung *(Tri-Cities)* | 6 | — | In progress |
+| Shirayuki *(Tri-Cities)* | 6 | — | In progress |
+| **Tri-Cities combined** | **18** | **75** | **In progress** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
