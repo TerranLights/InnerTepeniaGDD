@@ -8,7 +8,7 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Begins the Janbogo subnet. Drawn primarily from `Janbogo_Full_Extrapolation.md` (Tier 1), `Janbogo_Physical_
 Infrastructure_Attributes.md` and `Specs/Janbogo.md` (Tier 2), and `Janbogo_Cross_Reference_Synthesis.md`
-(Tier 3). **Batch 1 of many — target 30, 6 done as of this batch.**
+(Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -121,3 +121,95 @@ dissolved once the hall filled and the same gathering-focused atmosphere Janbogo
 always produced held up at full scale. The opening night's own success settled the design question decisively
 — every subsequent commercial hall Janbogo built afterward followed the same scaled-up teahouse principle
 without needing to re-litigate whether it actually worked.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Warning Threshold Tested by Traffic It Wasn't Designed For
+
+*(Shortly before the Tower's completion.)* Han Soo-jin's own standardized katabatic warning system, applied
+without exception since the severe event that first proved its worth, faced an unfamiliar kind of pressure
+late in the Tower's construction — convoys and shipments routed through Janbogo's own port and Hwy 183 at a
+volume considerably heavier than the system's own founding-era design had anticipated, every one of them
+depending on the same warning threshold to schedule safely (`Janbogo_Full_Extrapolation.md` Section III).
+
+Dispatch staff, per what's remembered of the stretch, held the threshold exactly as Han Soo-jin had originally
+insisted it be held — issued consistently regardless of how many additional crews were waiting on a given
+call, resisting any temptation to soften or delay a warning simply because more traffic than usual was
+depending on the answer. The system had been built to signal danger the same way every time, for a city whose
+whole population depended on it; a heavier volume of outside traffic didn't change what the warning was for,
+and the staff running it didn't let it.
+
+### The Hall That Hosted a Meeting No One Explained
+
+*(Shortly before the Tower's completion.)* One of Janbogo's own great shielded commercial halls hosted, late
+in the Tower's construction, a coordination gathering unlike its ordinary commercial use — representatives
+passing through the Ross Sea coast's own transit hub, using the hall's own intimate, gathering-focused warmth
+for a meeting whose actual subject Janbogo's own hall staff were never given (`Janbogo_Full_Extrapolation.md`
+Section III).
+
+Staff, per what's recalled of the occasion, treated the request the way Wu Lian-Marchetti's own design had
+always been used — a space built to make people feel genuinely welcomed, offered without requiring an
+explanation of who was gathering or why. The meeting concluded within a day, participants dispersing back
+into the transit hub's own ordinary flow of travelers passing through. Whatever was actually decided in the
+hall that day left no trace in Janbogo's own civic memory beyond the fact that the space, once again, had done
+exactly the job it was built for.
+
+### The Guests Majyao Never Asked to Explain Themselves
+
+*(Shortly before the Tower's completion.)* Majyao's own original teahouse hosted, late in the Tower's
+construction, a steady handful of travelers whose own unfamiliar bearing — exhausted, guarded about where
+they'd come from — marked them apart from Janbogo's ordinary visitors, without ever receiving anything less
+than the same personal attentiveness every guest of the teahouse had always received (`Janbogo_Full_
+Extrapolation.md` Section II).
+
+Majyao, per what's preserved of the account, extended the same hospitality that had built the teahouse's own
+founding reputation — treating each visitor as someone worth genuinely welcoming, not someone whose reticence
+about their own business needed to be pried at. Whatever these particular travelers were actually part of
+went unasked and unanswered, consistent with a teahouse that had never made a visitor's comfort conditional on
+explaining themselves first.
+
+### The Warning That Finally Reached Every Road in the Country
+
+*(Shortly after the Tower's completion.)* Han Soo-jin's own katabatic warning threshold — a system built and
+proven entirely for Janbogo's own local safety — began reaching route planners and dispatchers across the
+newly connected country the moment a warning was issued, rather than remaining local information relevant only
+to traffic already inside the Ross Sea coast's own transit network (`Janbogo_Full_Extrapolation.md` Section
+III).
+
+Dispatch staff, per what's recalled of the change, found the expanded reach genuinely strange to adjust to at
+first — a warning meant for local crews now technically visible to planners in subnets that had never had any
+reason to track Janbogo's own weather before. The threshold itself never changed. What changed was how far a
+system built to protect one city's own outdoor workers now automatically reached, without anyone at Janbogo
+needing to decide to share it.
+
+### The Teahouse the Whole Country Finally Heard About
+
+*(Shortly after the Tower's completion.)* Word of Majyao's own teahouse — the founding-era establishment whose
+personal hospitality had shaped Janbogo's whole civic identity long before Wu Lian-Marchetti scaled the same
+principle into the great commercial halls — reached, for the first time, residents of cities that had never
+had a traveler pass through Janbogo and bring the story back with them (`Janbogo_Full_Extrapolation.md`
+Section II).
+
+Majyao herself, per what's remembered of the reaction, treated the sudden outside awareness the same way she'd
+always treated an unfamiliar guest — without particular ceremony, simply continuing to welcome whoever actually
+walked through the door. The teahouse's own reputation had always been built visitor by visitor, not through
+any deliberate campaign to be known. The Tower's completion didn't change how Majyao ran it. It simply meant,
+for the first time, that people who'd never have any reason to visit Janbogo at all now knew the teahouse
+existed.
+
+### The Halls That Finally Answered a Question From Somewhere Else
+
+*(Shortly after the Tower's completion.)* Janbogo's own great shielded commercial halls received, for the
+first time, a direct architectural inquiry from planners in another subnet entirely — asking how Wu
+Lian-Marchetti's own scaled-up teahouse principle had actually been made to work at civic scale, a question
+made possible only once the newly unified relay let the inquiry reach Janbogo directly
+(`Janbogo_Full_Extrapolation.md` Section III).
+
+Janbogo's own civic architects, per what's recalled of the response, answered plainly — describing the same
+design commitment Wu Lian-Marchetti had held against early skeptical pushback, and the same opening-night test
+that had proven the intimate warmth scaled successfully. Whether the inquiring subnet ever built anything from
+the answer isn't part of what Janbogo itself preserved. What the inquiry confirmed, for the first time, was
+that a design principle born from scaling up one small teahouse had traveled, on its own reputation, far
+enough that strangers elsewhere wanted to learn how it was actually done.
