@@ -10,7 +10,7 @@ concluding the Mawson subnet's first pass. **Note:** `Sayowa_Full_Extrapolation.
 Notable Figures are both explicitly present-day (post-war) roles, so entries below draw on fresh founding-era
 material instead. Drawn primarily from `Sayowa_Full_Extrapolation.md` (Tier 1), `Sayowa_Physical_
 Infrastructure_Attributes.md` and `Specs/Sayowa.md` (Tier 2), and `Sayowa_Cross_Reference_Synthesis.md`
-(Tier 3). **Batch 1 of many — target 30, 6 done as of this batch.**
+(Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -123,3 +123,94 @@ right to discuss and mark its own deeper meaning privately, without either side 
 relationship to the name as somehow deficient. The meeting itself is remembered, within the smaller heritage
 community specifically, as the founding-era moment that formalized a mutual understanding rather than leaving
 the question to develop by unspoken assumption.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Junction Tested by Every Party at Once
+
+*(Shortly before the Tower's completion.)* The Sayowa Junction — built from its own founding to serve Sayowa,
+Mawson, the Concordia route, and indirect Halley subnet interests equally, cooperative rather than contested by
+design — absorbed, late in the Tower's construction, genuinely heavy converging traffic from every direction
+it served at once, a test of the cooperative arrangement more demanding than anything since its own founding-
+era construction debate (`Sayowa_Full_Extrapolation.md` Section III).
+
+The parties depending on the junction, per what's remembered of the stretch, held to the same cooperative
+standard its founding-era planners had insisted on — no single interest attempting to claim priority over the
+others despite the genuine pressure of converging demand, consistent with the same reasoning that had shaped
+the junction's own original layout. The infrastructure held. Sayowa's own quiet, duty-oriented civic character,
+already credited with the junction's cooperative design, extended naturally to keeping it running smoothly
+even under a volume its founders had never specifically had to plan around.
+
+### The Crossing That Couldn't Wait for the Right Season
+
+*(Shortly before the Tower's completion.)* East Ongul Island's own seasonal ice-road-and-maritime connection
+faced a genuine scheduling problem late in the Tower's construction, when a time-sensitive shipment needed to
+cross during a stretch when neither the winter ice road nor summer maritime access was reliably available —
+the seasonal transition window itself, a genuine gap the founding-era certification protocol had never
+specifically addressed (`Sayowa_Full_Extrapolation.md` Section IV).
+
+Infrastructure authorities, per what's remembered of the incident, applied the same careful, unhurried
+verification discipline established during the ice road's own first certified winter — repeated survey before
+committing to any crossing, rather than accepting the schedule pressure as reason to cut the safety margin
+short. The shipment crossed later than originally planned, once conditions were genuinely confirmed rather than
+merely hoped for. The founding-era instinct toward patient verification held, even against real pressure to
+move faster.
+
+### The Letter That Took Longer to Write Than to Send
+
+*(Shortly before the Tower's completion.)* The sustained Japanese-heritage family correspondence connecting
+Sayowa and Princess Elisabeth carried, late in the Tower's construction, an unusually anxious exchange — family
+members on each side of the corridor writing more frequently than their own established rhythm, as increased
+regional traffic tied to the project made both cities' own daily rhythms genuinely busier and harder to keep
+each other informed about (`Sayowa_Full_Extrapolation.md` Section II).
+
+The correspondence itself, per what's preserved of the exchange, carried the same ordinary content it always
+had — news, small requests, the accumulated detail of two families staying connected across a considerable
+distance — simply exchanged more often during a stretch when both cities had more happening worth mentioning.
+The connection that had once helped justify the Hwy 7-extension's own construction investment held exactly the
+steady, personal shape it always had, regardless of how much larger the project unfolding around it actually
+was.
+
+### The Cooperative Model Another Subnet Finally Asked to Study
+
+*(Shortly after the Tower's completion.)* Word of the Sayowa Junction's own cooperative maintenance arrangement
+— genuinely functional, contested by no single party despite serving several at once — reached, for the first
+time, planners elsewhere in the country managing their own shared infrastructure disputes, made possible by
+the same national connection the Tower's completion had just established (`Sayowa_Full_Extrapolation.md`
+Section III).
+
+Sayowa's own junction coordinators, per what's recalled of the exchange, described the arrangement plainly —
+no single dramatic breakthrough, simply founding-era planners who'd built shared-use infrastructure without
+letting any one party claim primary ownership, and generations of parties since who'd maintained that same
+standard out of straightforward practicality. Whether the inquiring planners actually replicated the model
+elsewhere isn't part of what Sayowa itself preserved. The junction that had never needed outside validation to
+function well had, for the first time, an audience curious how it managed to.
+
+### The Ice Road Warning That Reached the Right People in Time
+
+*(Shortly after the Tower's completion.)* Seasonal ice-thickness readings from East Ongul Island's own
+certification survey process began reaching maritime and logistics planners elsewhere in the country the
+moment they were recorded, rather than remaining purely local safety data relevant only to Sayowa's own
+immediate traffic (`Sayowa_Full_Extrapolation.md` Section IV).
+
+Infrastructure authorities, per what's recalled of the shift, continued the same careful survey discipline
+established during the ice road's own first certified winter, simply with a wider audience now receiving the
+readings as they came in. Planners elsewhere with their own seasonal ice-crossing questions, previously with no
+reason to know Sayowa's own certification data existed, could for the first time draw on decades of patient,
+methodical verification they'd never had access to before.
+
+### The Correspondence That Finally Didn't Need the Distance
+
+*(Shortly after the Tower's completion.)* The Japanese-heritage family correspondence between Sayowa and
+Princess Elisabeth — sustained for generations across the corridor connecting Tepenia's most geographically
+adjacent inter-subnet cities — reached, for the first time, a point where a message could arrive the same day
+it was sent, rather than carrying whatever delay even the shortest inter-subnet connection in the country had
+always required (`Sayowa_Full_Extrapolation.md` Section II).
+
+Family members on both sides, per what's remembered of the change, found the immediacy genuinely strange after
+generations of correspondence built around expecting real delay — the same ordinary news and small requests
+now arriving practically as they were written. The relationship itself didn't change; it had never needed
+speed to stay genuine. What changed was simply that a connection two families had maintained patiently across
+considerable distance for generations no longer had to wait on that distance at all.

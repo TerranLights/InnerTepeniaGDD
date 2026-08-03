@@ -106,7 +106,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mawson | 12 | 30 | In progress |
 | Dome Fuji | 12 | 30 | In progress |
-| Sayowa | 6 | 30 | In progress |
+| Sayowa | 12 | 30 | In progress |
 
 ### Byrd Subnet (target: 50, 1 city)
 
@@ -125,8 +125,8 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 384** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 84 +
-Mawson subnet 30 + Byrd 6 + Amundsen-Scott Station 6).
+50 + 30). **Current: 390** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 84 +
+Mawson subnet 36 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
 outer cities, the Tri-Cities region, and Amundsen-Scott Station have completed batch 1 under the finalized
@@ -341,4 +341,7 @@ approaching 12 in later sessions.
   Mirny, Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and Shirayuki all completed batch 2 — all now
   12/30 (Tri-Cities combined 36/75). **Mirny subnet batch 2 complete.** Moved to Janbogo subnet: Janbogo,
   Fort McMurdo, Dumont d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 2 — all now
-  12/30. **Janbogo subnet batch 2 complete.** Next: Mawson subnet batch 2.
+  12/30. **Janbogo subnet batch 2 complete.** Moved to Mawson subnet: Mawson, Dome Fuji, and Sayowa all
+  completed batch 2 — all now 12/30. **Mawson subnet batch 2 complete.** Next: Byrd's 3rd batch, then
+  Amundsen Station's batch 2 (framed as the Tower's own construction completion and first activation
+  directly).
