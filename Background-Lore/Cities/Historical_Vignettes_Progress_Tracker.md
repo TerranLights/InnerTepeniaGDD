@@ -62,8 +62,8 @@ three existing per-city folders but tracked as one combined regional total below
 | Marambio | 6 | 30 | In progress |
 | Port Lockroy | 0 | 30 | Not started |
 | Sejong | 6 | 30 | In progress |
-| Signy | 0 | 30 | Not started |
-| Juan Carlos | 0 | 30 | Not started |
+| Signy | 6 | 30 | In progress |
+| Juan Carlos | 6 | 30 | In progress |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
 
@@ -116,8 +116,9 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 90** (Halley subnet 48 + Palmer City 6 + Esperanza 6 + Rothera 6 + Marambio 6 + Port
-Lockroy 6 + Sejong 6). **Halley subnet's first full pass is complete — all 8 cities at 6/30.**
+50 + 30). **Current: 102** (Halley subnet 48 + Palmer City 6 + Esperanza 6 + Rothera 6 + Marambio 6 + Port
+Lockroy 6 + Sejong 6 + Signy 6 + Juan Carlos 6). **Halley subnet's first full pass is complete (48 entries)
+and Palmer subnet's first full pass is complete (48 entries) — 16 of 35 cities/regions started.**
 
 **Confirmed rotation mechanic, 2026-08-02:** cycle through every city in a subnet doing one 6-entry batch
 each, then loop back around for each city's next batch — not finishing one city to its full target before
@@ -222,4 +223,12 @@ approaching 12 in later sessions.
 - **2026-08-02:** Sejong batch 1 of 6, corrected (Where a Dozen Neighborhoods Actually Met, The Hall Where
   Everyone Had to Talk to Everyone, The One Landmark Nobody Could Claim, An Island With No Bridge to
   Anywhere, One Harbor for a Dozen Communities, Building for the Mildest Wettest Corner of the Country).
-  Sejong now at 6/30. Next: Signy batch 1.
+  Sejong now at 6/30.
+- **2026-08-02:** Signy batch 1 of 6 (The Bridge That Named Itself Twice, A Laboratory the War Never
+  Touched, What Signy's Waters Never Stopped Providing, The Platforms Ferreira-Whitcombe Built, Power That
+  Never Needed a Grid, What the Sea Can't Replace). Signy — the only Palmer subnet city that survived
+  intact — now at 6/30.
+- **2026-08-02:** Juan Carlos batch 1 of 6 (The Archive Nobody Thought Twice About, What the Watch Actually
+  Involved, Where Arrivals Actually Went, The Argument That Was the Point, A Harbor Doing Two Jobs at Once,
+  The Federation's Memory). Juan Carlos now at 6/30. **Palmer subnet's first full pass is complete — all 8
+  cities at 6/30, 48 entries.** Next: Mirny subnet, starting with Mirny itself.
