@@ -53,7 +53,7 @@ three existing per-city folders but tracked as one combined regional total below
 | City | Done | Target | Status |
 |---|---|---|---|
 | Halley | 18 | 30 | In progress |
-| Neumayer | 12 | 30 | In progress |
+| Neumayer | 18 | 30 | In progress |
 | Belgrano | 12 | 30 | In progress |
 | Troll | 12 | 30 | In progress |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |

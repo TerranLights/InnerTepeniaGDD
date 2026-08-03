@@ -5,10 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Neumayer_Physical_
 Infrastructure_Attributes.md`'s 11 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Neumayer_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's
-own completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
-after — once the whole country was connected through the Tower's single relay node for the first time. The
-Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+`Neumayer_Cross_Reference_Synthesis.md`. **Batch 2 was framed around the Amundsen Tower's own completion, per
+direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
+direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
+only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
+connection from that file and in Neumayer's own established struggles. Target 30, 18 done as of this
 batch.**
 
 ---
@@ -250,3 +251,94 @@ response to that surprise, per what's established about the city's own civic cha
 with everything already true about it — the completed documentation existed, available to anyone who actually
 looked, and that was considered sufficient regardless of how many new people, now connected for the first
 time, might have thought otherwise.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The First Operational Data the Schematic's Own Designers Ever Saw
+
+Neumayer's own engineers had designed the Amundsen Tower's structural schematics working entirely from theory,
+simulation, and whatever partial construction updates reached them across the Second Interwar Period's own
+slow correspondence — genuine engineering, but never once tested against the Tower's own actual operational
+behavior, since no channel had ever existed to send that behavior back.
+
+The first live telemetry from the completed Tower's own energy-regulation flywheel, reaching Neumayer directly
+once the relay itself was active, gave the schematic's own original designers something they had never had
+before: confirmation, drawn from the real structure rather than a simulation of it, that specific load-bearing
+assumptions made years earlier had held. A handful of engineers still working at Neumayer, per what's
+preserved of the reaction, described reviewing the incoming data with a specific kind of vindication no
+amount of prior confidence in their own math had actually provided — the difference between believing a design
+would work and watching, for the first time, genuine proof that it had.
+
+### The Tolerance Question Sinheung Could Finally Ask While the Line Was Still Running
+
+Neumayer's own current-generation chamber schematic had always shipped to Sinheung's manufacturing floor as a
+finished document — questions about it, when they arose during actual production, had to wait for the same
+slow correspondence cycle every other cross-subnet exchange depended on, often resolved only after a
+production run had already finished with the ambiguity unaddressed.
+
+The first live consultation came when Sinheung's own floor supervisors, mid-run on a batch showing a subtle
+calibration inconsistency, reached Neumayer's own design office directly rather than logging the issue for a
+future correspondence cycle — and received an answer, and a corrected tolerance figure, before the batch in
+question had finished production. The correction, applied mid-run for the first time in the schematic's own
+manufacturing history, saved a shipment that would previously have completed with the ambiguity baked in,
+discovered only once installed somewhere far downstream.
+
+### The Demonstration Neumayer's Own Designers Watched From Hundreds of Kilometers Away
+
+Calethina's own spec and schematic, drafted at Neumayer and commissioned out of Mawson, had always been a
+one-way engineering export — Neumayer's own designers finished the work and sent it onward, with no channel
+to ever see what the finished result actually became once Mawson's own hospitality program brought it to life.
+
+The first live relay of an actual Calethina demonstration, watched by a small group of the original Neumayer
+design team specifically because word had spread that the connection now made it possible, gave the
+schematic's own uncredited authors something they had genuinely never expected to have: a direct view of their
+own engineering work functioning exactly as intended, in a role none of them had ever personally witnessed.
+Neumayer's own name still didn't travel with the finished result. For the first time, though, the people who'd
+actually done the work got to watch it succeed.
+
+### The Joint Reading Session Davis Finally Got to Attend
+
+Neumayer's own centuries-deep atmospheric and glaciological record and Davis's own paleoclimate lake-sediment
+archive had always been two independently maintained scientific traditions, each aware the other existed only
+through occasional secondhand reference — never once compared directly, since no channel existed for either
+research community to actually walk the other through its own methodology.
+
+The first joint reading session, convened once direct contact became possible, paired specific stretches of
+Neumayer's own ice-shelf atmospheric record against Davis's own sediment-core climate reconstructions covering
+the same historical period — a genuine, if informal, first-time cross-reference between two of Tepenia's most
+methodologically serious research traditions. The session didn't resolve any outstanding scientific question
+either archive had been carrying. It confirmed something smaller and, to both research communities, genuinely
+valuable: that two independently developed methodologies, compared directly for the first time, told broadly
+consistent stories about the same centuries.
+
+### The Warning Halley Received Before Neumayer's Own Report Was Finished
+
+Neumayer's own ice-shelf structural monitoring and Halley's own equivalent discipline had always operated in
+complete isolation from each other, despite watching the identical underlying hazard on two different ice
+shelves — any useful cross-comparison had always been theoretical, since neither city's own live data had ever
+reached the other in time to matter.
+
+The first genuine early-warning exchange came when Neumayer's own monitoring staff, still in the middle of
+formally writing up an unusual strain pattern their own instruments had caught, sent the raw reading directly
+to Halley the moment the anomaly registered — reaching Halley's own structural crews before Neumayer's own
+formal report was even finished, let alone filed through any official channel. Halley's own instruments,
+checked immediately against the tip, confirmed a comparable, if less advanced, pattern developing on their own
+ice shelf. Both cities adjusted their own monitoring schedules accordingly. Neither had ever been warned by
+the other before that specific moment existed at all.
+
+### The Logistics Office That Finally Found Its Own Missing History
+
+Neumayer's own working relationship with Lazar — plausible, per the two cities' shared Halley subnet
+DROMLAN-adjacent logistics heritage, but never actually confirmed in either city's own surviving founding-era
+records — went from speculation to documented fact only once Lazar's own municipal archive could be searched
+directly rather than requested through a correspondence chain neither city had ever bothered maintaining.
+
+A Neumayer logistics historian, researching the city's own founding-era supply arrangements, reached Lazar's
+own archive directly for the first time and found genuine, if fragmentary, records confirming exactly the
+working relationship both cities' own files had only ever proposed — proof, recovered directly rather than
+inferred, that Novolazarevskaya's real-world DROMLAN heritage had in fact shaped early Tepenian logistics
+between the two cities. The discovery didn't change how either city currently operated. It closed a
+genuinely open historical question neither city had ever had the means to actually answer before that specific
+search became possible.
