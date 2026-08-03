@@ -12,7 +12,7 @@
 
 ## II. The Sejong–Janbogo Relationship — A Founding-Era Naming Echo, Not a Living Connection
 
-**Proposed, corrected 2026-07-13:** the original version of this section proposed "a real, maintained connection" between the two cities grounded in shared Korean heritage — that overstates it. Janbogo remained a genuine Korean demographic and cultural center in Tepenia, alongside Sinheung in the Mirny subnet; Sejong's own Korean population diluted to 5.79%, its smallest Significant-tier nation, the same pattern already resolved at Sayowa/Shirayuki. Whatever connection exists is closer to historical footnote than living relationship — perhaps a single shared observance of Hangul Day, maintained more out of founding-era naming symmetry than genuine ongoing cultural kinship, with no meaningful mutual awareness beyond that. Each city's real cultural energy went entirely into its own immediate neighbors — Sejong into King George Island's dense multinational contrast, Janbogo into its own established Ross Sea subnet-hub role.
+**Proposed, corrected 2026-07-13, further corrected 2026-08-02:** the original version of this section proposed "a real, maintained connection" between the two cities grounded in shared Korean heritage — that overstates it. Janbogo remained a genuine Korean demographic and cultural center in Tepenia, alongside Sinheung in the Mirny subnet; Sejong's own present-day Korean-descent population sits at 5.79%, its smallest Significant-tier nation. **2026-08-02 correction:** there is no "dilution" to speak of — the First Interwar Period (2083-2564) saw every station but Zhongshan change national hands repeatedly over nearly 500 years, ruling out any continuous Korean population or culture surviving from the real-world station's naming era through to Tepenian founding. "Sejong" persisted as a name-only, toponymic inheritance; the 5.79% reflects ordinary post-founding immigration, unconnected to the station's pre-exile name. The developer separately rejected "Hangul Day" as an observance outright ("that wouldn't happen" — see Section V below, corrected) — so no shared holiday connects the two cities either. Whatever connection exists between Sejong and Janbogo is closer to founding-era naming trivia than any living or historical relationship. Each city's real cultural energy went entirely into its own immediate neighbors — Sejong into King George Island's dense multinational contrast, Janbogo into its own established Ross Sea subnet-hub role.
 
 ---
 
@@ -28,19 +28,21 @@
 
 ---
 
-## V. The Two Placeholder Holidays, Developed
+## V. The Placeholder Holiday, Developed *(corrected 2026-08-02 — was "The Two Placeholder Holidays")*
 
-- **Hangul Day** — commemorating King Sejong the Great's actual historical creation of the Korean alphabet, the same event the city's own name honors; plausibly the closest thing Sejong has to an uncontested civic celebration, since it commemorates the city's own namesake rather than any one resident community's own heritage.
+**"Hangul Day" removed:** rejected outright by the developer ("that wouldn't happen") — flagged in `TODO.md` back on 2026-07-30 but never actually struck from this file until now. It rested on a Korean cultural-continuity claim the First Interwar Period's ~500 years of station-ownership turnover rules out; see Section II above.
+
 - **The Neighbors' Accord** — marking the anniversary of whatever original land-use or resource-sharing agreement the island's dozen communities first negotiated to make coexistence physically workable; a holiday about the *practical* success named in Section III above, deliberately separate from any claim that the underlying social tension was ever fully resolved.
 
 ---
 
 ## VI. Notable Figures (proposed, unconfirmed)
 
-- **Coordinator Han Ji-woo** *(placeholder)* — the founding-era figure credited with negotiating Sejong's original boundary-zone agreements with its island neighbors, the person Section I's absorption process and Section IV's shared landmark both plausibly trace back to institutionally.
-- **Educator Yoon Seo-yeon** *(placeholder — corrected 2026-07-17; previously "Priya Suh-Bhattacharya," pairing an Indian given name with a Korean surname, which violates the project's binding No Subcontinentals canon and doesn't match any of Sejong's own represented nations; renamed to a Korean name, fitting a figure specifically credited with maintaining Hangul instruction)* — a Hangul-literacy figure connected to the city's own namesake meaning, credited with maintaining Hangul instruction and cultural continuity even as Sejong's population diversified well beyond its founding nation.
+- **Coordinator Han Ji-woo** *(placeholder, name itself flagged in `TODO.md` for future renaming — not developer-chosen)* — the founding-era figure credited with negotiating Sejong's original boundary-zone agreements with its island neighbors, the person Section I's absorption process and Section IV's shared landmark both plausibly trace back to institutionally.
 
-*(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
+*(Removed 2026-08-02: "Educator Yoon Seo-yeon," a Hangul-instruction figure whose entire premise — maintaining Hangul continuity from a founding Korean population — is invalidated by the First Interwar Period's station-ownership turnover; see Section II above. Not replaced; Sejong doesn't need a second founding-era Notable Figure to have a complete roster.)*
+
+*(Entirely proposed — a placeholder figure meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
 
 ---
 

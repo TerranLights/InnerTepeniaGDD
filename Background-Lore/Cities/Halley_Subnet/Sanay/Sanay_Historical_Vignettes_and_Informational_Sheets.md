@@ -9,20 +9,21 @@ Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapola
 
 ---
 
-## Hit Hardest, Fixed First
+## What the Shipyard Complex Was Actually Built to Do
 
-The Shipyard Complex (Physical Infrastructure Attribute #3) carries a double significance in Sanay's own
-history — the site of the city's worst wartime damage, and the site of its fastest post-war recovery, the
-same facility serving as both the clearest wound and the clearest proof of recovery (Finding F).
+The Shipyard Complex (Physical Infrastructure Attribute #3) is Sanay's own founding economic anchor —
+established specifically because bedrock stability made permanent, heavy maritime infrastructure genuinely
+buildable here in a way most Halley subnet cities' own ice-founded terrain couldn't support.
 
-The rebuilding decision itself, per surviving records from the immediate post-war period, was never
-seriously contested — Sanay's own function-over-comfort civic priorities (Finding A's own governing logic)
-meant the question of what to repair first barely required deliberation. Shipping and logistics were the
-city's actual reason for mattering to the rest of the subnet; residential and leisure infrastructure could
-wait, and did, for considerably longer than the Shipyard Complex itself took to return to functional
-capacity. Workers who lived through the rebuild describe the priority as simply obvious, not painful — the
-city's own established values meant nobody expected their own cliffside housing to be repaired before the
-docks were, and the actual sequence of recovery matched that expectation without needing to be argued for.
+*(An informational sheet on the Complex's founding-era establishment, not a single rebuild.)* Early
+construction crews, per what's established about Sanay's own founding priorities, treated the Complex as the
+city's central reason for existing at all — everything else about Sanay's own layout, including the
+cliffside residential districts (attribute #12), developed around the Shipyard's own established needs
+rather than the other way around. Sanay's own function-over-comfort civic priorities (Finding A) trace
+directly back to this founding-era sequencing: a city whose entire early purpose was building and maintaining
+ships simply never developed the kind of leisure-first civic culture some other Tepenian cities did, since
+the Shipyard's own practical demands set the tone for everything that came after, generation after
+generation, long before anything resembling a comparable crisis ever tested that priority.
 
 ---
 

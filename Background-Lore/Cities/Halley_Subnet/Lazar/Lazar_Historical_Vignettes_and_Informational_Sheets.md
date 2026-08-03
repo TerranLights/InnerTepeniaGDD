@@ -31,22 +31,23 @@ generations ago.
 
 ---
 
-## What Size Actually Bought Lazar
+## The System Built for a City That Size Alone Justified
 
-Lazar's survival under heavy Long Night War bombardment — damaged but never destroyed, unlike smaller cities
-hit with comparable force — is established as a direct product of the city's own sheer scale (attribute #9),
-a form of resilience unique to Lazar among Tepenian cities specifically because no other city was ever large
-enough for structural redundancy at this scale to matter.
+The maglev and elevated transit network (attributes #3–4) is the only such system found anywhere in this
+pass — transit infrastructure scaled to Tepenia's single largest population, a materially different order of
+magnitude from any other DLC city's own transit needs.
 
-The uneven damage distribution across the Old Core and the Overflow District (attribute #10) is, per Finding
-A, the single physical fact underlying two of the city's richest existing observations at once — the Old
-Core's relative preservation, consistent with the broader subnet pattern of older cores surviving better than
-newer expansions, and the Overflow District's own combination of visible vitality and visible war damage
-existing in the same space. Residents who lived through the bombardment itself describe the experience less
-as any one district being spared and the other sacrificed, and more as the sheer redundancy of a two-million-
-plus population city meaning that no single strike, or even a sustained campaign of strikes, could plausibly
-reach every part of the city at once — survival less through the war overlooking Lazar and more through Lazar
-simply being too large for total destruction to be logistically achievable at all.
+*(An informational sheet on the network's own establishment, not a single ride.)* Per Finding D, the maglev
+network is both cause and effect of the megacity-scale commercial economy the Full Extrapolation's own
+Section III already resolves — an inherited logistics function, highway convergence, and sheer population all
+combining to make Lazar's economy genuinely too large for ordinary ground-level transit to serve adequately.
+No other Tepenian city, including comparably established regional hubs, ever generated enough sustained
+transit demand to justify maglev-scale infrastructure investment — Lazar's own scale wasn't just
+demographically unusual, it was the specific, measurable reason this particular piece of infrastructure
+exists here and nowhere else in the country. Residents moving between the Old Core and the Overflow District
+daily, per what's established about the city's own layout, would have relied on the network simply as
+ordinary commuting infrastructure — a genuine engineering achievement so thoroughly normalized by daily use
+that its own uniqueness rarely came up in conversation.
 
 ---
 

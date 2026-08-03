@@ -56,12 +56,12 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Palmer City | 0 | 50 | Not started |
-| Esperanza | 0 | 30 | Not started |
-| Rothera | 0 | 30 | Not started |
-| Marambio | 0 | 30 | Not started |
+| Palmer City | 6 | 50 | In progress |
+| Esperanza | 6 | 30 | In progress |
+| Rothera | 6 | 30 | In progress |
+| Marambio | 6 | 30 | In progress |
 | Port Lockroy | 0 | 30 | Not started |
-| Sejong | 0 | 30 | Not started |
+| Sejong | 6 | 30 | In progress |
 | Signy | 0 | 30 | Not started |
 | Juan Carlos | 0 | 30 | Not started |
 
@@ -116,8 +116,8 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 54** (Byrd 6 + Halley 6 + Neumayer 6 + Belgrano 6 + Troll 6 + Abowasa 6 + Sanay 6 +
-Princess Elisabeth 6 + Lazar 6). **Halley subnet's first full pass is complete — all 8 cities at 6/30.**
+50 + 30). **Current: 90** (Halley subnet 48 + Palmer City 6 + Esperanza 6 + Rothera 6 + Marambio 6 + Port
+Lockroy 6 + Sejong 6). **Halley subnet's first full pass is complete — all 8 cities at 6/30.**
 
 **Confirmed rotation mechanic, 2026-08-02:** cycle through every city in a subnet doing one 6-entry batch
 each, then loop back around for each city's next batch — not finishing one city to its full target before
@@ -165,16 +165,61 @@ approaching 12 in later sessions.
   Dome Fuji, What's Actually Sitting in the Hangars, The Chapel's Last Regular, The Day the Depot Changed
   Hands, Building Into the Rock). Troll now at 6/30.
 - **2026-08-02:** Abowasa batch 1 of 6 (Two Hundred Meters Closed, What Halley and Neumayer Actually Ask
-  Abowasa For, The First Winter Nobody Had to Retrofit, What the Buildings Never Told You, The Strike That
-  Found the Labs Not the Homes, What Gets Decided at the Overlook). Abowasa now at 6/30.
-- **2026-08-02:** Sanay batch 1 of 6 (Hit Hardest Fixed First, What the Trade Yard's Boundaries Actually Mean,
-  The Nexus Built by Someone Else's City, The Cliffside After Shift, What You Can See From the Summit, How
-  the Docks Actually Schedule Themselves). Sanay now at 6/30.
-- **2026-08-02:** Princess Elisabeth batch 1 of 6 (The Systems That Stopped Not the Systems That Broke, What
-  Joos Kaminari Still Knows, Built to Answer the Wind, The View From Utsteinen Before, Anchoring Into Frozen
-  Ground, Living Among What Stopped). Princess Elisabeth now at 6/30.
-- **2026-08-02:** Lazar batch 1 of 6 (The Gap That Closed Itself, What Size Actually Bought Lazar, The Hall
-  That Never Stopped Counting, Meltwater Season, What the Junction Markets Actually Inherited, Neumayer's
-  Nearest Real Market). Lazar now at 6/30. **Halley subnet's first full pass is complete — all 8 cities at
-  6/30, 48 entries.** Next: loop back to Halley for batch 2, or move to Palmer subnet per developer call —
-  pending commit+push for this batch first.
+  Abowasa For, The First Winter Nobody Had to Retrofit, What the Buildings Never Told You, How a Small City
+  Became a Technical One, What Gets Decided at the Overlook). Abowasa now at 6/30.
+- **2026-08-02:** Sanay batch 1 of 6 (What the Shipyard Complex Was Actually Built to Do, What the Trade
+  Yard's Boundaries Actually Mean, The Nexus Built by Someone Else's City, The Cliffside After Shift, What
+  You Can See From the Summit, How the Docks Actually Schedule Themselves). Sanay now at 6/30.
+- **2026-08-02:** Princess Elisabeth batch 1 of 6 (The City Designed to Leave No Trace, Built to Bend Not
+  Break, What the Maintenance Corps Actually Did, The View From Utsteinen, The Road to Dome Fuji, Who Still
+  Calls Utsteinen Home). Princess Elisabeth now at 6/30.
+- **2026-08-02:** Lazar batch 1 of 6 (The Gap That Closed Itself, The System Built for a City That Size Alone
+  Justified, The Hall That Never Stopped Counting, Meltwater Season, What the Junction Markets Actually
+  Inherited, Neumayer's Nearest Real Market). Lazar now at 6/30. **Halley subnet's first full pass is
+  complete — all 8 cities at 6/30, 48 entries.** Committed+pushed.
+- **2026-08-02:** Moved to Palmer subnet per the established "After Halley subnet, move to Palmer subnet"
+  plan. Palmer City batch 1 of 6 (The First Address in the Federation, What the Boardwalk Was Actually For,
+  Running Water in a Frozen Country, Where the Records Were First Played, The Street Built to Perform
+  Sovereignty, A City No Faction Could Claim). Palmer City now at 6/50.
+- **2026-08-02:** Esperanza batch 1 of 6 (Every Name Entered by Hand, Who Actually Raised Hope's Children,
+  The Route Between Two Cities, A Promise Nobody Wrote Down, The Room Where Two Stories Meet, A City With No
+  Real Dark Season). Esperanza now at 6/30.
+- **2026-08-02:** Rothera batch 1 of 6 (Built Where the Resources Were, The Chambers Dug Before Anyone Knew
+  Why, What the Bonner Airstrip Was Actually For, The Approach by Water, What Adelaide Island Couldn't
+  Provide on Its Own, Rain on Adelaide Island). Rothera now at 6/30.
+- **2026-08-02: Course correction, developer-flagged.** Entries from Abowasa onward had drifted into treating
+  the Long Night War's destruction as the default organizing fact for nearly every city — overlapping with
+  the DLC ruins-exploration/archaeology content and `Course_of_Events_Suggestions.md`'s own domain, rather
+  than delivering genuine Second Interwar Period history (founding, growth, daily life, institutions,
+  culture). Reviewed and replaced the worst offenders above (titles shown are the corrected versions;
+  originally-rejected Marambio draft was three-quarters war/ruins content and was discarded before writing).
+  **Going forward: at most one entry per 6-entry batch may center on the war/destruction/post-war ruins; the
+  other five should draw on founding-era, mid-history, or non-destruction present-day material.** Princess
+  Elisabeth (a DLC 5 ruins location whose own source Attributes file is unusually destruction-heavy) got the
+  deepest rework — 5 of 6 entries replaced or substantially reframed around its actual operating-era
+  engineering and institutions rather than its eventual strike.
+- **2026-08-02:** Marambio batch 1 of 6, applying the corrected balance (Two Systems One Coordinated
+  Operation, The Hall That Kept Its Own Discipline, Where the Big Ships Docked, The Flight the Founders
+  Never Forgot, Keeping Tepenia's Planes in the Air, Ground That Offered Nothing to Hide Behind). Marambio
+  now at 6/30.
+- **2026-08-02:** Port Lockroy batch 1 of 6 (A Panel Every Year, What Old Toby Left Unfinished, Building
+  Over Not Building Over Again, What the Courier Network Actually Carried, A Harbor Small Boats Could
+  Actually Use, Keeping Watch). Port Lockroy now at 6/30.
+- **2026-08-02: Sejong founding-nation bug caught mid-draft (developer-flagged).** A first draft entry,
+  "The Language That Outlasted the Numbers," assumed a Korean-majority founding population that diluted
+  over time — impossible given nearly 500 years of First Interwar Period station-ownership turnover
+  (2083-2564, every station but Zhongshan changing hands repeatedly). Traced upstream: `Sejong_Physical_
+  Infrastructure_Attributes.md` itself carried the same error ("The Hangul Instruction Halls" attribute,
+  "Korean founding population diluted..." framing), and `Sejong_Full_Extrapolation.md` still had a
+  "Hangul Day" holiday the developer had already rejected back on 2026-07-30 but that was never actually
+  struck from the file. All three fixed 2026-08-02 — see `feedback_founding_nation_bug_methodology.md`
+  memory and `TODO.md`'s "Han Ji-woo" entry for the full writeup. Developer clarified this is a narrow,
+  Sejong-specific exception (King George Island isn't timezone/geography-aligned with Korea the way most
+  DLC cities' real-world names are with their own founding nations), not a sign every DLC city's own
+  Physical Infrastructure Attributes file needs re-auditing. Also surfaced a separate, larger, not-yet-
+  decided question — whether "Sejong" itself should be renamed to something Brazilian/Argentinian/
+  American — flagged in `TODO.md`, not actioned.
+- **2026-08-02:** Sejong batch 1 of 6, corrected (Where a Dozen Neighborhoods Actually Met, The Hall Where
+  Everyone Had to Talk to Everyone, The One Landmark Nobody Could Claim, An Island With No Bridge to
+  Anywhere, One Harbor for a Dozen Communities, Building for the Mildest Wettest Corner of the Country).
+  Sejong now at 6/30. Next: Signy batch 1.

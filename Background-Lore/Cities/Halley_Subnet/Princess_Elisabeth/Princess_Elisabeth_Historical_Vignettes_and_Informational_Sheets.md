@@ -5,117 +5,119 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Princess_Elisabeth_
 Physical_Infrastructure_Attributes.md`'s 13 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Princess_Elisabeth_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
+`Princess_Elisabeth_Cross_Reference_Synthesis.md`. **Note:** this city's own source material leans heavily
+toward its DLC 5 ruins/destruction framing (that's the file's own explicit focus), but this pass is about the
+Second Interwar Period's lived history, not a second pass at the war — entries below deliberately favor the
+city's founding-era engineering and daily operation over its eventual destruction. **Batch 1 of many — target
+30, 6 done as of this batch.**
 
 ---
 
-## The Systems That Stopped, Not the Systems That Broke
+## The City Designed to Leave No Trace
 
-Princess Elisabeth's destruction, per established lore, wasn't a strike against the city's own physical
-generation and storage hardware directly — the Underground Reserve plausibly still sits intact below the
-ruins (Physical Infrastructure Attribute #3). What the strike actually severed were the connective systems
-linking surface generation to underground storage, a single-point-of-failure account distinct from every
-other Halley subnet damage pattern examined (Finding D).
+The Turbine Fields (Physical Infrastructure Attribute #1) and integrated no-discharge waste management
+infrastructure (attribute #2) made Princess Elisabeth Tepenia's first zero-emissions station design, later
+expanded to full city scale — wind and solar power, no fossil fuels, and physical systems processing and
+containing waste entirely on-site rather than through any form of external disposal.
 
-The city's entire founding engineering philosophy — permafrost anchoring, aerodynamic structural design, deep
-bedrock foundation — was built to survive extreme wind, the threat Utsteinen's own exposed siting made
-unavoidable (attributes #5–7). None of it addressed the actual vulnerability that ended up mattering: a
-precision strike aimed specifically at integration points rather than structures (Finding E). The Turbine
-Fields themselves, per the established environmental-storytelling framing, should read as systems that
-stopped rather than systems that were destroyed — dead, upright, largely intact, silent for a reason that
-has nothing to do with the wind they were built to withstand.
-
----
-
-## What Joos Kaminari Still Knows
-
-**Joos Kaminari** *(placeholder, previously proposed in `Princess_Elisabeth_Full_Extrapolation.md` Section
-VIII, not developer-chosen)* is a straggling survivor and former underground maintenance crew member —
-someone who worked the Maintenance Corps Hall before the city's destruction and retains firsthand, lived
-knowledge of the Underground Reserve's own access points, knowledge that doesn't exist anywhere in
-documentary form since the institution that would have formally recorded it didn't survive to do so
-(attribute #12, Finding B).
-
-Kaminari's own account of what he actually remembers is deliberately incomplete, even by his own admission —
-he worked one specific section of the Reserve's access infrastructure, not the whole system, and readily
-says so rather than overstating what he can offer. What he does know with confidence: which specific access
-points were still reachable in the period immediately after the strike, before ruins settling and weather
-exposure made some of them considerably more dangerous to approach. Whether that knowledge remains accurate
-after however long has passed since he last personally checked isn't something he claims certainty about
-either — a survivor whose value lies less in complete expertise than in being the only remaining link to
-knowledge that otherwise died with the institution that once held it formally.
+*(An informational sheet on the founding design principle itself, not a single incident.)* The commitment
+was genuinely unusual among founding-era Tepenian settlements, most of which prioritized bare survival
+engineering first and treated environmental discharge as a problem to solve later, if at all. Princess
+Elisabeth's own founders built the no-discharge requirement in from the start, meaning later expansion phases
+inherited a design discipline already proven at station scale rather than having to retrofit it in afterward.
+Residents who grew up under this system, per what's established about the city's own civic identity,
+describe a genuine pride in it — a functioning demonstration that a self-sufficient settlement didn't have to
+leave anything behind in the landscape it occupied, years before other Tepenian cities took environmental
+discharge seriously as a design question at all.
 
 ---
 
-## Built to Answer the Wind
+## Built to Bend, Not Break
 
-*(An informational sheet on the founding-era engineering itself, not a single incident.)* The Turbine Fields
-(attribute #1) were Tepenia's first zero-emissions station design, expanded to full city scale — wind and
-solar power, no fossil fuels, zero waste discharge, engineered specifically for one of the most wind-exposed
-sites in the subnet, gales reaching up to 300 km/h with zero passive terrain shelter (attribute #7's own
-distinction from Abowasa's more forgiving bedrock siting).
+Deep permafrost anchoring infrastructure (attribute #5) and aerodynamically shaped structural design
+(attribute #6) were the two founding-era engineering disciplines that let a human settlement exist at all on
+Utsteinen's exposed bedrock — terrain that, unlike Abowasa's own comparably solid siting, offered zero
+passive wind shelter of any kind (attribute #7).
 
-The engineering discipline required to make this work at all, per the founding design's own established
-logic, split into three coordinated systems: deep permafrost anchoring (attribute #5) holding structures
-against the wind directly, aerodynamically shaped design (attribute #6) minimizing what the wind actually had
-to push against in the first place, and integrated no-discharge waste infrastructure (attribute #2) ensuring
-the whole self-sufficient system never needed external resupply that the extreme conditions would have made
-genuinely dangerous to rely on. Each system solved a real, specific problem the site's own extreme exposure
-created — and, per Finding E, all three remained fully functional right up until a threat none of them was
-built to address ended the city regardless.
+*(An informational sheet on the construction-era discipline itself, not a single storm.)* Anchoring
+structures deep enough to resist sustained gales up to 300 km/h required a fundamentally different approach
+than ordinary foundation work — accounting for permafrost's own long-term thermal behavior, not merely its
+immediate structural properties — while the aerodynamic shaping of the built city itself minimized what the
+wind actually had to push against in the first place, rather than relying on bulk or shelter the way a less
+exposed site could afford to. Early construction crews, per surviving technical notes, treated anchor-point
+engineering as the genuine priority over anything built above ground — the founding logic being that a
+beautifully designed structure anchored inadequately would fail regardless of how well everything above
+ground turned out. The two disciplines worked in tandem for generations, keeping a functioning city standing
+on some of the most wind-exposed ground in the entire Halley subnet.
 
 ---
 
-## The View From Utsteinen, Before
+## What the Maintenance Corps Actually Did
+
+The Maintenance Corps Hall (attribute #4) is where the crew responsible for the buried Underground Reserve
+(attribute #3) — a flywheel/battery/thermal storage system — coordinated its own ongoing upkeep, a genuine
+technical institution with its own working culture, distinct from the city's more visible surface
+infrastructure.
+
+*(An informational sheet on the Corps' own working discipline, not a single shift.)* Reserve maintenance work
+required a specific kind of patience most surface-facing trades didn't — long stretches of routine inspection
+and calibration on systems that, when working correctly, produced nothing visibly dramatic to show for the
+effort. Corps members took pride specifically in that invisibility, per what's established about the
+institution's own culture — the Reserve's entire value lay in reliably storing energy nobody above ground
+needed to think about, and a well-run Maintenance Corps Hall was one where residents genuinely never had
+reason to wonder whether their own stored power was secure. The Corps' own training and institutional
+knowledge, built up across generations of crew members, represented exactly the kind of quiet, unglamorous
+technical expertise that kept a settlement this exposed genuinely livable.
+
+---
+
+## The View From Utsteinen
 
 Utsteinen Summit (attribute #8) offered panoramic views across the ice plateau and the Sør Rondane Mountains
-— the same exposed, commanding vantage the ruins now occupy, once a functioning overlook rather than a
-hazard-strewn remnant.
+— the same exposed, commanding vantage point at the heart of the city's own siting, a place valued for the
+landscape it revealed rather than for any structure built on it.
 
-Before the destruction, per informal accounts preserved in fragments, the Summit served a function similar
-to comparable overlooks elsewhere in the subnet — a place residents went specifically to see the landscape
-their own engineering had made livable, a visible reminder of what the Turbine Fields and permafrost
-anchoring actually accomplished, given how hostile the surrounding terrain remained just beyond the city's
-own engineered boundary. The view itself required no maintenance or civic institution to sustain, unlike
-almost everything else about the city's own precarious existence here — simply the landscape, visible from a
-high point, on days calm enough that standing exposed at the Summit was itself survivable. Those calm days,
-per the same accounts, were genuinely rare enough that residents who caught one tended to remember it
-specifically, a small, ordinary pleasure made notable purely by how infrequently the wind allowed it.
-
----
-
-## Anchoring Into Frozen Ground
-
-Deep permafrost anchoring infrastructure (attribute #5) was the specific physical mechanism that let
-Princess Elisabeth exist here at all while intact — distinct from any passive terrain shelter, since
-Utsteinen's own exposed bedrock offered none.
-
-The founding-era construction challenge, per what's established about the engineering discipline involved,
-required anchoring structures deep enough into permafrost to resist sustained 300 km/h gale loading — a
-fundamentally different problem than ordinary foundation work, since the anchoring itself had to account for
-permafrost's own long-term thermal behavior, not just its immediate structural properties. Early construction
-crews, per surviving technical notes, spent considerably more time on anchor-point engineering than on the
-buildings those anchors would eventually support — the founding logic being that a beautifully engineered
-structure anchored inadequately would fail regardless of how well-designed everything above ground turned out
-to be. This exact anchoring discipline is, per Finding E, part of what makes the city's eventual destruction
-read as such a specific kind of irony: engineering this thorough, aimed at exactly the threat the site
-presented, simply never had the chance to be tested against the threat that actually arrived.
+Residents used the Summit, per informal accounts, the same way comparable overlooks functioned elsewhere in
+the subnet — a place to go specifically to see the terrain their own engineering had made livable, a visible
+reminder of what the Turbine Fields and permafrost anchoring actually accomplished, given how hostile the
+surrounding landscape remained just beyond the city's own engineered boundary. The view itself required no
+maintenance or civic institution to sustain, unlike almost everything else about daily life at this exposure
+— simply the landscape, visible from a high point, on days calm enough that standing there was itself
+comfortable. Those calm days, per the same accounts, were genuinely rare enough that residents who caught one
+tended to remember it specifically, a small, ordinary pleasure made notable purely by how infrequently the
+wind allowed it.
 
 ---
 
-## Living Among What Stopped
+## The Road to Dome Fuji
 
-The straggling survivor population's own shelter and subsistence infrastructure (attribute #11) is adapted or
-salvaged from the ruins themselves, distinct from any functioning city's own deliberate civic infrastructure
-— a small, precarious foothold rather than an operating settlement.
+Whatever physical routing existed toward a Dome Fuji corridor connection (attribute #13) reflected Princess
+Elisabeth's own unusual geographic position — the only Halley subnet city sitting closer to another subnet's
+hub than to its own subnet's cluster.
 
-Survivors describe their own daily subsistence in practical, unsentimental terms: salvaged materials from
-structures no longer serving their original purpose, shelter improvised within whatever ruins offer the most
-protection from the same extreme wind conditions that once required the founding city's own dedicated
-engineering to manage at all (attribute #9's own unmanaged hazard framing). The irony isn't lost on the
-survivors themselves — living, unprotected, inside the wreckage of a city whose entire founding purpose was
-proving human presence here was survivable with the right engineering, now surviving instead through
-improvisation and salvage rather than anything resembling the deliberate systems that used to make the site
-livable. Whether any of the survivors' own subsistence habits draw specifically on Joos Kaminari's own
-technical knowledge of the underground systems, or whether his expertise remains genuinely separate from how
-the broader survivor group actually gets by day to day, isn't established by anything currently on record.
+*(An informational sheet on the route's own plain function, not a single journey.)* Per Finding C, this
+routing is confirmed as ordinary transportation infrastructure, not anything devotional or pilgrimage-like in
+character — Princess Elisabeth's own crossroads position stayed geographic rather than becoming spiritual, an
+informal waypoint rather than any kind of shrine. Travelers and freight moving between the two subnets
+would have used this route as a practical convenience, one of the more unusual pieces of Tepenian
+infrastructure precisely because it connected a Halley subnet city more directly to Mawson subnet traffic than
+to its own subnet's other cities — a quirk of geography turned into ordinary, unremarkable logistics rather
+than anything requiring explanation beyond the map itself.
+
+---
+
+## Who Still Calls Utsteinen Home
+
+A small population continues to live at the Princess Elisabeth site today, adapting shelter and subsistence
+from what the settlement left behind (attribute #11) — not a functioning city in the sense any other
+Tepenian settlement would recognize, but a genuine, ongoing human presence on ground that could easily have
+been abandoned entirely.
+
+**"Joos Kaminari" *(placeholder, previously proposed in `Princess_Elisabeth_Full_Extrapolation.md` Section
+VIII, not developer-chosen)*** is among those who stayed, and per what's established about his own former
+role with the Maintenance Corps, retains firsthand, lived knowledge of the Underground Reserve's own access
+points that exists nowhere in documentary form (attribute #12). He describes his own reasons for remaining in
+practical rather than sentimental terms — this ground is simply where he has always lived and worked, and
+leaving would mean abandoning knowledge nobody else currently holds. Whether that knowledge still has any
+practical use to anyone is a question he doesn't claim to have answered, only that he intends to keep it, and
+keep living here, regardless.

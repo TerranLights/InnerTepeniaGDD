@@ -88,22 +88,23 @@ tells the whole story.
 
 ---
 
-## The Strike That Found the Labs, Not the Homes
+## How a Small City Became a Technical One
 
-Abowasa's status — damaged but partially operational, hit but not erased — reflects a specific, established
-damage pattern distinct from how the war affected residential areas versus technical/scientific
-infrastructure (Finding C). The city's own largest industry sector, technical and scientific work at roughly
-a quarter of its economy, is plausibly the specific reason it took targeted rather than total-avoidance
-treatment at all, small and strategically minor as the city otherwise was (Finding D).
+Technical and scientific work grew to roughly a quarter of Abowasa's own economy (Finding D) — a genuinely
+disproportionate share for a settlement this small, and not an outcome the original merged settlement's own
+founding purpose would have predicted on its own.
 
-The damage pattern itself, per what's currently established, concentrated disproportionately on
-laboratory and technical infrastructure rather than residential household space — consistent with a strike
-aimed at degrading a specific capability rather than a strike aimed at the city's population generally.
-Households in the original merged settlement, including the Joint Household Kitchens themselves, emerged
-comparatively intact; the Bedrock Stability Institute and comparable technical facilities took the brunt of
-whatever damage Abowasa actually sustained. The distinction matters for how residents themselves talk about
-the war — less as an attack on the city as a home, and more as an attack on the specific thing the city had
-become good enough at to be worth degrading.
+*(An informational sheet on that growth itself, not a single breakthrough.)* The Bedrock Stability Institute
+(attribute #2) didn't begin as Abowasa's defining industry — per what's established about the city's own
+founding-era priorities, the earliest merged settlement organized itself around the practical necessities of
+combining two originally separate station communities, not around any particular specialization. The
+technical sector's later growth, per informal accounts, traces back to the same bedrock siting that gave
+Abowasa its comparatively easy first winter (attributes #5–6) — expertise in structural stability on solid
+ground turned out to be a genuinely exportable skill once Halley and Neumayer's own ice-engineering
+challenges made that expertise valuable to cities that didn't have it in-house. What started as incidental
+local knowledge, useful mainly for Abowasa's own construction needs, grew over successive generations into
+the city's single largest economic sector — a small settlement's practical self-sufficiency turning, almost
+by accident, into its most valuable regional export.
 
 ---
 
