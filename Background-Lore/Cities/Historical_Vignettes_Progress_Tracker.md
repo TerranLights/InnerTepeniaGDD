@@ -52,21 +52,21 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Halley | 6 | 30 | In progress |
-| Neumayer | 6 | 30 | In progress |
-| Belgrano | 6 | 30 | In progress |
-| Troll | 6 | 30 | In progress |
-| Abowasa | 6 | 30 | In progress |
-| Sanay | 6 | 30 | In progress |
-| Princess Elisabeth | 6 | 30 | In progress |
-| Lazar | 6 | 30 | In progress |
+| Halley | 12 | 30 | In progress |
+| Neumayer | 12 | 30 | In progress |
+| Belgrano | 12 | 30 | In progress |
+| Troll | 12 | 30 | In progress |
+| Abowasa | 6 | 30 | **Paused** — founding-nation bug |
+| Sanay | 12 | 30 | In progress |
+| Princess Elisabeth | 12 | 30 | In progress |
+| Lazar | 12 | 30 | In progress |
 
 ### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Palmer City | 6 | 50 | In progress |
-| Esperanza | 6 | 30 | In progress |
+| Palmer City | 12 | 50 | In progress |
+| Esperanza | 12 | 30 | In progress |
 | Rothera | 6 | 30 | In progress |
 | Marambio | 6 | 30 | In progress |
 | Port Lockroy | 6 | 30 | In progress |
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 216** (Halley subnet 48 + Palmer subnet 48 + Mirny subnet 48 + Janbogo subnet 42 +
+50 + 30). **Current: 246** (Halley subnet 90 + Palmer subnet 60 + Mirny subnet 48 + Janbogo subnet 42 +
 Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
@@ -326,3 +326,14 @@ approaching 12 in later sessions.
   Mawson subnet (3 cities), and Amundsen-Scott Station — all written correctly from the start under the
   now-finalized methodology, per developer instruction to reach 6 entries for every city/region nationwide
   before pausing for a separate discussion.
+- **2026-08-03:** Halley subnet's batch 2 completed for all 7 non-paused cities (Halley, Neumayer, Belgrano,
+  Troll, Sanay, Princess Elisabeth, Lazar — all now 12/30; Abowasa stays paused at 6/30). **Halley subnet
+  batch 2 complete.** Moved to Palmer subnet per the rotation. Palmer City batch 2 (The Booking the Petrograd
+  Room Almost Turned Down, The Question Machu Picchu Base Asked Without Asking Directly, The Late Shipment No
+  One Wanted to Talk About, The First Broadcast Needle Down Ever Sent Beyond Palmer City, The Night the
+  Petrograd Room's Tables Filled With Strangers Who'd Never Heard of It, The Ledger That Finally Reconciled
+  Itself) — now 12/50. Esperanza batch 2 (The Cargo Hope Bay Harbor Wasn't Built to Explain, What the Halls
+  Told the Children About the Building in the Distance, The Archivist Who Filed the Tower Under
+  "Founding-Adjacent," The Message Whitcombe-Reyes Received the Same Day It Was Sent, The Supply Run the
+  Halls No Longer Had to Plan Around, The Question Another City's Caregivers Asked About the Compact) — now
+  12/30.

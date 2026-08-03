@@ -5,8 +5,8 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Esperanza_Physical_
 Infrastructure_Attributes.md`'s 8 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Esperanza_Full_Extrapolation.md` and `Esperanza_Cross_Reference_Synthesis.md`. **Batch 1 of many — target
-30, 6 done as of this batch.**
+`Esperanza_Full_Extrapolation.md` and `Esperanza_Cross_Reference_Synthesis.md`. **Batch 2 of many — target
+30, 12 done as of this batch.**
 
 ---
 
@@ -129,3 +129,94 @@ or midnight-sun cities — a recognition, prompted directly by this one difficul
 own ordinary light rhythm wasn't a non-issue for incoming staff just because it was the least demanding
 climate profile in the subnet. Ordinary, for someone who'd never worked under it before, still took real
 adjustment.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Cargo Hope Bay Harbor Wasn't Built to Explain
+
+*(Shortly before the Tower's completion.)* Hope Bay Harbor, already established as load-bearing subnet
+infrastructure since the Belgrano rerouting emergency, took on a different kind of unusual traffic late in the
+Tower's construction: heavy component shipments bound for the interior, moving through Esperanza's own harbor
+because it was the nearest reliable trans-shipment point, not because anyone routing them had Esperanza's own
+civic identity in mind (`Esperanza_Full_Extrapolation.md` Section V; Cross_Reference_Synthesis Finding D).
+
+Harbor staff, per what's recalled of the period, handled the cargo the same way they'd handled the Belgrano
+overflow — competently, without asking questions the shippers weren't offering answers to — but noted, this
+time, that whatever was moving through felt different in scale and urgency from ordinary subnet trade. A city
+organized entirely around raising children found itself, for a few unglamorous weeks, a quiet waypoint for
+something considerably larger than itself, and treated the fact with the same unremarkable competence it
+brought to everything else that passed through its own harbor.
+
+### What the Halls Told the Children About the Building in the Distance
+
+*(Shortly before the Tower's completion.)* The Caregiver-Teacher Halls, per Finding A already established as
+the durable institutional carriers of Esperanza's own children through generations, faced a specific,
+recurring question in the Tower's final construction stretch: what, exactly, was being built, and why did the
+adults keep talking about it (`Esperanza_Full_Extrapolation.md` Section IV; Physical Infrastructure Attribute
+#2).
+
+Caregivers, per what's remembered of how the Halls handled it, settled on an answer calibrated to the compact
+they themselves upheld rather than the project's own technical scale — explaining the Tower not as a feat of
+engineering but as something being built so that Esperanza's children, when they grew up, would be able to
+know what was happening in every other city raising children just like them. It was, several caregivers later
+noted, the first time the Halls had ever explained a piece of national infrastructure in terms of the founding
+compact itself — proof that even something as large as the Tower could be made to fit inside a city organized
+entirely around what it had always cared about most.
+
+### The Archivist Who Filed the Tower Under "Founding-Adjacent"
+
+*(Shortly before the Tower's completion.)* Whoever then held responsibility for the sealed Argentine archive
+room — the same site, per Finding E, plausibly holding both Esperanza's honored heritage and the original
+birth documentation — made a small, deliberate choice as Tower construction neared completion: setting aside
+a folder of contemporary Tower-related correspondence to be filed alongside the founding materials rather than
+in ordinary civic records (`Esperanza_Full_Extrapolation.md` Section III).
+
+The reasoning, per what's preserved of it, wasn't that the Tower belonged with the founding compact
+historically — it plainly didn't — but that the archivist judged this correspondence would matter to
+Esperanza's own future the same way the sealed 1978 documentation had mattered to its past: something a later
+generation would want to find without having to search for it. Whether that judgment proved correct is,
+per what's currently established, not something Esperanza's own destruction left anyone able to confirm.
+
+### The Message Whitcombe-Reyes Received the Same Day It Was Sent
+
+*(Shortly after the Tower's completion.)* In Concordia, the durable carrier of Esperanza's "being from Hope"
+identity — Caregiver-Teacher **"Alanna Whitcombe-Reyes" *(placeholder, not developer-chosen)*** — received,
+for the first time, a message from the Halls she'd once worked in on the same day it was sent, rather than
+after whatever delay ordinary courier transit had always required (`Esperanza_Full_Extrapolation.md` Section
+IV, Section VI).
+
+The message itself, per what's remembered of it, wasn't urgent — a routine update on a caregiving practice the
+Halls had adjusted — but its immediacy was the point. Whitcombe-Reyes, who had spent generations being the
+bridge between Esperanza's diaspora and the city they'd left, found herself, for the first time since
+relocating, actually current with a place she'd previously only ever been able to remember. The Tower hadn't
+changed what she carried. It changed how quickly what she carried could still be added to.
+
+### The Supply Run the Halls No Longer Had to Plan Around
+
+*(Shortly after the Tower's completion.)* Medical and educational supply requests from the Caregiver-Teacher
+Halls, previously scheduled around Hope Bay Harbor's own trans-shipment rhythms and whatever delay a given
+order happened to inherit, began arriving on a predictability the Halls' own senior staff had never actually
+planned for having (`Esperanza_Full_Extrapolation.md` Section V; Physical Infrastructure Attribute #2).
+
+Caregivers accustomed to padding every request with a wide margin for delay, per what's recalled of the
+adjustment, found themselves with supplies arriving before the margin was needed — a genuinely disorienting
+kind of good problem, not unlike the caregiver who'd once struggled to adjust to Esperanza's own ordinary
+daylight rhythm after a career spent somewhere more extreme. Ordinary reliability, it turned out, took its own
+kind of adjustment too.
+
+### The Question Another City's Caregivers Asked About the Compact
+
+*(Shortly after the Tower's completion.)* Word of Esperanza's own unwritten founding compact — never
+formalized as a document, upheld instead through generations of lived practice — reached, for the first time,
+caregivers and civic staff in cities that had never had reason to hear of it, prompting a small wave of
+genuine, specific questions about how a city organized itself around an obligation nobody had ever written
+down (`Esperanza_Full_Extrapolation.md` Section II).
+
+Esperanza's own residents, per what's remembered of the exchange, gave the same answer the transferred
+administrator had eventually been persuaded to accept: that the compact's authority came from the practice
+itself, not from any document that could be copied elsewhere. No other city attempted to formally adopt it.
+What the exchange left behind instead was simpler — the first confirmation, direct from outside Esperanza
+entirely, that a promise never written down had still traveled far enough for strangers to ask sincere
+questions about it.
