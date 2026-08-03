@@ -5,11 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Sanay_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Sanay_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's own
-completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
-after — once the whole country was connected through the Tower's single relay node for the first time. The
-Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
-batch.**
+`Sanay_Cross_Reference_Synthesis.md`. **Batch 2 was framed around the Amundsen Tower's own completion, per
+direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
+direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
+only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
+connection from that file and in Sanay's own established struggles. Target 30, 18 done as of this batch.**
 
 ---
 
@@ -240,3 +240,89 @@ reached them. The resident who happened to make the climb and the report, per wh
 incident, had no idea her own informal early warning would travel any further than the dockside office it
 always had — a small, unplanned demonstration of how much further Sanay's own established, informal practices
 could now reach without anyone deliberately expanding their own established function.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Question the Nexus Techs Finally Asked the People Who Built It
+
+Sanay's own Arcanet nexus, built and installed by residents who'd traveled from Halley specifically to do the
+hands-on construction work, had run for years on documentation alone once the builders returned home — any
+question about the installation's own original design intent had always required working from written
+specifications rather than actually asking someone who'd been there.
+
+The first live consultation came during a partial malfunction in one of the nexus's own semi-distributed
+clifftop components, when Sanay's own technicians, unable to fully resolve the fault from documentation alone,
+reached the original Halley construction crew directly for the first time since the installation's own
+completion. One of the original builders, per what's preserved of the exchange, recognized the fault
+immediately from a design quirk he remembered but had never actually written down — a piece of practical
+knowledge that existed only in his own memory until that specific call. The nexus was repaired within the
+hour. The undocumented design quirk, once finally recorded, became a permanent addition to the installation's
+own maintenance manual.
+
+### The Joint Schedule That Changed How the Dockworkers Planned Their Own Days
+
+Sanay's own shipyard scheduling, previously built entirely around South African freighter arrivals with no
+visibility into Troll's own onward aviation capacity, absorbed the first joint three-city scheduling
+arrangement (with Belgrano and Troll) once live coordination became possible for the first time.
+
+Dockworkers at Sanay, per what's remembered of the transition, found their own daily rhythm genuinely altered
+— receiving windows that had always been set independently now coordinated directly against Troll's own
+onward flight capacity, smoothing out a pattern of occasional idle stretches followed by rushed overflow that
+had simply been accepted as normal for as long as anyone working the yards could remember. The change wasn't
+dramatic day to day. Over a full season, per informal accounts, it meant noticeably fewer of the rushed,
+all-hands stretches the old independent scheduling had periodically produced.
+
+### The Diagnostic Session the Pole Never Used to Run With Sanay Directly
+
+Sanay's own Arcanet nexus, the Halley subnet's actual technical relay point, had always been maintained
+according to standards set and periodically updated by whatever national authority oversaw Arcanet
+infrastructure generally — instructions arriving one-way, with no channel for Sanay's own technicians to raise
+a question directly with whoever was actually setting those standards at the Pole.
+
+The first live technical exchange between Sanay's own nexus maintenance staff and engineers at Amundsen
+Station, held once direct contact existed, let Sanay's own technicians raise a specific calibration question
+they'd been logging informally for years without any prior way to actually ask about it. The answer that came
+back resolved a minor but persistent inconsistency in how Sanay's own nexus had been reporting certain
+diagnostic readings — a fix that required, for the first time, an actual two-way conversation between the
+subnet's own physical relay site and the national authority responsible for the standard it operated under.
+
+### The Order Abowasa Finally Placed Directly
+
+Abowasa's own small-scale trade, downstream of the same Hwy 7 corridor Sanay anchors the shipping end of, had
+always moved through the larger Halley subnet supply chain as an afterthought — orders routed through
+whichever larger city happened to be coordinating that season's shipments, never placed by Abowasa's own trade
+office directly.
+
+The first direct order Sanay's own shipyards received straight from Abowasa's own small trade office, rather
+than bundled into a larger city's own request, arrived once direct contact made placing an order that small
+worth the effort for the first time. Sanay's own dockworkers filled it exactly as they filled every other
+order — no special handling for its modest size — but the order itself marked something new: Abowasa's own
+trade office acting as a genuine, independent customer for the first time in the corridor's own working
+history, rather than simply receiving whatever the larger cities' own orders happened to include for it.
+
+### The Shipping Data Sent to a City That Had Never Bought Anything From Sanay
+
+Sanay's own detailed freighter-arrival and cargo-volume records, kept meticulously for the shipyard's own
+internal planning, had never been shared outside the city's own logistics office, since no city with no
+existing trade relationship to Sanay had ever had a channel to request them.
+
+The first outside request for Sanay's own historical shipping data came from a city's own logistics planners
+studying import-volume patterns for an unrelated planning project, with no prior trade history connecting the
+two cities at all. Sanay's own office shared the records plainly, the same unceremonious way the city handled
+most requests — proof, for the first time, that Sanay's own accumulated operational data had value to cities
+its own freighters had never once actually supplied.
+
+### The Relief Shift Halley's Crews Sent When Sanay Asked
+
+Sanay's own rotating dock crews, tied to freighter arrival and departure times rather than a fixed schedule,
+had always absorbed unusually heavy stretches with whatever staff happened to already be on shift — no
+mechanism had ever existed to request temporary help from another city entirely.
+
+The first cross-city relief request Sanay ever sent, during a stretch of unusually concentrated freighter
+arrivals that strained the yard's own available crews, reached Halley directly — the same city whose own
+residents had once traveled to Sanay to build the nexus, now asked, for an entirely different reason, to send
+help again. A small relief crew made the trip, the first time labor itself, not just information, had moved
+between the two cities specifically because a request could finally be sent and answered the same day it was
+made.
