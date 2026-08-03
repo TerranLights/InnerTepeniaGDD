@@ -5,7 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Sanay_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Sanay_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
+`Sanay_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's own
+completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
+after — once the whole country was connected through the Tower's single relay node for the first time. The
+Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+batch.**
 
 ---
 
@@ -125,3 +129,114 @@ dockside management response, per what's established about the system that follo
 scheduling entirely in favor of the fully reactive, arrival-driven rotation the docks still run on today —
 crews assigned strictly to expected shipping windows rather than the calendar, a direct, deliberate fix to
 the one specific failure that exposed how much a fixed schedule could cost a shipping city.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Upgrade Halley's Crews Came Back to Finish
+
+*(Shortly before the Tower's completion.)* The Halley Subnet Arcanet Relay Nexus, built on Sanay's own stable
+bedrock by traveling Halley crews, required a genuine capacity upgrade ahead of the Tower's completion — the
+original construction, sized for ordinary subnet-internal traffic, needed real modification to interface with
+a continent-spanning relay nobody had designed for when the Nexus was first built.
+
+A second wave of Halley engineers, per what's preserved of the period's own construction record, returned to
+Sanay specifically for this upgrade — the same cross-city labor arrangement that had built the Nexus
+originally, called on again for a project genuinely more consequential than the first. Sanay's own
+contribution, per what's remembered of the work, again ran through supporting the site and its own local
+logistics rather than the specialized relay engineering itself, consistent with the same established division
+of labor Finding C already identifies. The upgrade completed on schedule, and the facility's own everyday
+name — "the Halley subnet relay" — stayed exactly as it had been, the Nexus's own second, higher-stakes
+construction phase attracting no more local credit-claiming than the first had.
+
+---
+
+## The Cargo the Trade Yard Had Never Handled Before
+
+*(Shortly before the Tower's completion.)* The Trade Yard's own bounded, commercial protocols for Upper Earth
+freighter crews faced a genuinely new category of shipment as Tower-related material began moving through
+Sanay's port ahead of the project's completion — cargo bound not for ordinary Upper Earth trade, but for the
+Tower's own construction site far to the interior.
+
+Trade Yard staff, per what's preserved of the period's own operational record, handled the unfamiliar cargo
+category by extending the same bounded, efficient protocols already governing ordinary freighter business —
+treating the Tower-bound material as simply another kind of business to process courteously and move along,
+rather than anything requiring special ceremony. One shipment, per what's remembered of the period, arrived
+considerably larger and more logistically demanding than the Yard's own ordinary throughput, requiring
+Shipyard crews to assist with handling well beyond the Trade Yard's own normal staffing — a genuine strain
+met, per Sanay's own established civic character, with the same competence-without-commentary the city applies
+to everything else.
+
+---
+
+## The Meeting Where Nobody Could Agree What the Nexus Would Become
+
+*(Shortly before the Tower's completion.)* As word spread that a single national relay was nearing completion,
+a specific civic meeting at Sanay addressed a genuinely open question — what would happen to the Halley
+Subnet Arcanet Relay Nexus's own local role once a continent-spanning system existed alongside it.
+
+Opinions divided, per what's preserved of the meeting's own record, between residents who expected the Nexus
+to become simply one more node in a larger system, its own subnet-specific significance fading into the wider
+network, and residents who argued the Tower would need exactly the kind of stable, functioning intra-subnet
+infrastructure Sanay already hosted, making the Nexus more consequential rather than less. Councilor Pieter
+Alsdorf, per what's remembered of his own contribution to the discussion, declined to predict which outcome
+was more likely, reportedly remarking that Sanay's own job was to keep the Nexus working regardless of what
+larger system it eventually connected to — a characteristically function-first response that ended the
+speculation without resolving it.
+
+---
+
+## The First Signal That Actually Reached Every Subnet at Once
+
+*(Shortly after the Tower's completion.)* The Halley Subnet Arcanet Relay Nexus carried its first confirmed
+transmission routed through the completed Tower to every other subnet simultaneously — a genuine departure
+from its own established function as a purely intra-subnet relay.
+
+The transmission itself, per what's preserved of the occasion, was administrative rather than dramatic — a
+routine confirmation message, sent specifically to verify the upgraded Nexus could actually carry traffic
+through the new national system rather than to communicate anything urgent. Technicians present for the test,
+per what's remembered of it, described a genuinely anticlimactic feeling once confirmation came back from
+every subnet within moments — years of upgrade work and founding-era construction culminating in a message so
+routine it would otherwise have gone unremarked. The test's own success is, nonetheless, remembered locally as
+the specific moment Sanay's own hosted infrastructure stopped being purely a Halley subnet asset and became,
+for the first time, a working piece of the whole country's own communication network.
+
+---
+
+## The Freighter Captain Who Asked About the Rest of the Country
+
+*(Shortly after the Tower's completion.)* The same bounded, efficient Trade Yard protocols that once
+surprised a Palmer-City-accustomed captain faced a new kind of question once the completed Tower let Upper
+Earth freighter crews learn, for the first time through casual contact, just how connected the rest of
+Tepenia had suddenly become.
+
+A freighter captain, docking at Sanay sometime after the Tower's completion, asked Trade Yard staff directly
+whether the new national relay meant Upper Earth crews could now expect similar instant contact with cities
+across every subnet, not just the one they happened to be trading with. Trade Yard staff, per what's preserved
+of the response, gave an accurate but characteristically understated answer — yes, technically, though Sanay's
+own bounded protocols for Upper Earth contact hadn't changed regardless of what the rest of the country's
+internal communication now looked like. The captain's own curiosity about the wider country, per what's
+remembered of the exchange, went essentially unanswered beyond that — Sanay's own commercial relationship with
+Upper Earth staying exactly as bounded and efficient as it had always been, the Tower's own significance
+real but simply not Sanay's business to elaborate on.
+
+---
+
+## The Watch the Summit Never Needed Before
+
+*(Shortly after the Tower's completion.)* Vesleskarvet Summit's own informal early-warning function — never
+formally staffed, sustained entirely by residents who happened to be there — gained a new, if minor,
+significance once the completed Tower meant a severe weather delay at Sanay's own port could now be reported
+instantly to freighter operators and Tower-supply coordinators across the whole country at once, not just to
+the dockside dispatch office below.
+
+One specific early-warning report, per what's preserved of the period, reached not only Sanay's own dispatch
+office but, through the same office's own new access to the national relay, freighter operators still days
+out from port who were able to adjust their own arrival timing before the storm the Summit had spotted ever
+reached them. The resident who happened to make the climb and the report, per what's remembered of the
+incident, had no idea her own informal early warning would travel any further than the dockside office it
+always had — a small, unplanned demonstration of how much further Sanay's own established, informal practices
+could now reach without anyone deliberately expanding their own established function.
