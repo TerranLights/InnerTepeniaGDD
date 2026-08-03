@@ -8,7 +8,10 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Fort_McMurdo_Full_Extrapolation.md` (Tier 1), `Fort_McMurdo_Physical_Infrastructure_
 Attributes.md` and `Specs/Fort_McMurdo.md` (Tier 2), and `Fort_McMurdo_Cross_Reference_Synthesis.md` (Tier
-3). **Batch 2 of many — target 30, 12 done as of this batch.**
+3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is
+framed around `City_National_Connections.md`: six occurrences that could only have happened once full
+national digital connectivity existed, each grounded in a specific named city-to-city connection from that
+file (Scott, Troll, Casey, Amundsen Station, Lazar). 18 done as of batch 3.**
 
 ---
 
@@ -217,3 +220,88 @@ traffic alongside the supply and extraction coordination they'd always handled. 
 what's recalled of the transition, noted it as consistent rather than surprising: infrastructure built for
 genuine institutional rigor, once proven under real logistics pressure, turned out to be exactly what a newly
 formalized capital needed too.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Calibration Standard Fort McMurdo Finally Adopted Wholesale
+
+Following the standing calibration relationship with Scott, Fort McMurdo's own heavy-industry engineers
+undertook their first genuine adoption of one of Scott's own precision standards wholesale — not a single
+recalibration, but a formal decision to bring an entire category of Fort McMurdo's own equipment up to Scott's
+own exacting tolerance standard permanently, rather than requesting individual recalibrations as problems
+arose.
+
+The decision, made once sustained direct contact confirmed the relationship's own reliability over multiple
+exchanges, represented a genuine shift in how Fort McMurdo's own industrial culture related to Scott's own
+expertise — treating it as a standard worth adopting outright, not merely a service worth requesting when
+something broke. Scott's own calibration specialists, per what's preserved of the transition, found themselves
+consulting on Fort McMurdo's own equipment specifications directly for the first time, rather than only
+responding to discrete recalibration requests.
+
+### The Comparison Troll and Fort McMurdo Turned Into a Standing Exchange
+
+Following the first direct conversation between logistics coordinators at Troll and industrial planners at
+Fort McMurdo, the exchange became a genuine standing correspondence rather than a single occasion — the two
+cities' own "working-class logistics muscle" administrators began comparing notes regularly on freight volume,
+labor conditions, and civic investment patterns.
+
+The ongoing exchange, per what's preserved of it, never produced any formal partnership between the two
+cities. It did give both administrations something neither had previously had access to: a genuine, regularly
+updated point of comparison for exactly how a working-class logistics economy was faring elsewhere in the
+country, checked against their own numbers on an ongoing basis rather than through the single one-time
+comparison the original conversation had produced.
+
+### The Forecast Method Casey Watched Fort McMurdo Adapt Further
+
+Following Fort McMurdo's own adoption of Casey's disciplined-reading approach for its Erebus bulletins, Casey's
+own dispatchers received an unexpected follow-up: Fort McMurdo's own monitoring staff had adapted the method
+further, applying it to industrial-safety monitoring well beyond volcanic activity, and reported the
+adaptation back to Casey out of professional courtesy.
+
+Casey's own dispatchers, per what's preserved of the exchange, found the adaptation genuinely interesting — a
+methodology developed for wind-window certification, refined once by Fort McMurdo for volcanic monitoring, now
+extended a second time into industrial-safety territory neither city's own original discipline had
+anticipated. The exchange confirmed something neither city had specifically set out to prove: that a genuinely
+sound safety-communication method could keep finding new applications once it had somewhere to actually travel
+to.
+
+### The Second Delegation That Came Already Knowing What to Expect
+
+Following the first official delegation Fort McMurdo received after its own capital designation, a second
+delegation arrived considerably better prepared — briefed in advance, through direct contact with the first
+delegation's own members, on exactly what kind of reception and administrative process to expect.
+
+The improvement was small but genuine, per what's preserved of the visit: the second delegation's own business
+concluded faster, with fewer of the improvised protocol decisions the first visit had required. Fort McMurdo's
+own administration, per what's recalled of the period, recognized the pattern for what it was — the newly
+formalized capital's own administrative apparatus maturing in real time, each delegation's own experience now
+actually informing the next one's, rather than every visit starting from the same uncertain first principles.
+
+### The Megacity Comparison Lazar and Fort McMurdo Finally Wrote Down
+
+Following the first direct exchange between Lazar's and Fort McMurdo's own civic administrations, a specific
+follow-up effort produced something neither city had previously had: a joint written comparison document,
+detailing exactly how the country's two biggest civic superlatives each handled comparable administrative
+challenges at very different scales of formality.
+
+The document, compiled once sustained contact let both administrations actually collaborate on drafting it
+together, wasn't intended as policy guidance for either city — both administrations, per what's preserved of
+the project, treated it more as a genuine curiosity worth having on record. It stands, regardless, as the
+first formal documentation either city had ever produced examining the other directly, rather than simply
+referencing the comparison informally.
+
+### The Erebus Bulletin Scott's Own Engineers Started Reading for a Different Reason
+
+Following the Erebus monitoring bulletins reaching a national audience, Scott's own precision-calibration
+engineers became unexpected regular readers — not out of any volcanic concern, but because Conti's own
+plain-language monitoring philosophy had become, for Scott's own technical staff, a genuinely useful model
+for how to communicate their own precision findings to non-specialist audiences.
+
+Scott's own engineers, per what's preserved of the informal adoption, began drafting their own calibration
+reports using a version of Conti's own accessible, non-alarmist bulletin style — a direct, if unplanned,
+export of Fort McMurdo's own communication discipline into a field that had nothing to do with volcanology at
+all. Fort McMurdo's own monitoring staff, per what's recalled of learning about the adoption, found it a
+genuinely unexpected compliment — proof that plain language, once modeled well, could travel considerably
+further than the specific hazard it had originally been built to explain.
