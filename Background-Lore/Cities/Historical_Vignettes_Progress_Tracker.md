@@ -71,7 +71,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Marambio | 12 | 30 | In progress |
 | Port Lockroy | 12 | 30 | In progress |
 | Sejong | 12 | 30 | In progress |
-| Signy | 6 | 30 | In progress |
+| Signy | 12 | 30 | In progress |
 | Juan Carlos | 6 | 30 | In progress |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 270** (Halley subnet 90 + Palmer subnet 84 + Mirny subnet 48 + Janbogo subnet 42 +
+50 + 30). **Current: 276** (Halley subnet 90 + Palmer subnet 90 + Mirny subnet 48 + Janbogo subnet 42 +
 Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35

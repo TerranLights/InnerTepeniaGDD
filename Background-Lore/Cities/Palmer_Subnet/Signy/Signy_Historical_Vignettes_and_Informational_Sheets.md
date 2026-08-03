@@ -7,7 +7,7 @@ plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuin
 rather than a restated attribute. No entry below depends on any other; none are required to be chronological.
 Drawn primarily from `Signy_Full_Extrapolation.md` (Tier 1), `Signy_Physical_Infrastructure_Attributes.md`
 and `Specs/Signy.md` (Tier 2), and `Signy_Cross_Reference_Synthesis.md` (Tier 3). Signy is the only Palmer
-subnet city that survived the Long Night War fully intact. **Batch 1 of many — target 30, 6 done as of this
+subnet city that survived the Long Night War fully intact. **Batch 2 of many — target 30, 12 done as of this
 batch.**
 
 ---
@@ -122,3 +122,91 @@ correct almost immediately — the relocated array reached stable, predictable o
 season, exactly the kind of dependable local power the wind-and-hydro system was meant to provide. The
 abandoned original site is, per informal accounts, still occasionally pointed out by longtime residents as
 where Signy's power system almost went, and didn't.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Delegation That Came to Study the Turbines
+
+*(Shortly before the Tower's completion.)* Signy's own small-scale wind-and-hydro power system — genuinely
+self-sufficient, independent of any wider grid, refined through the founding-era near-miss on turbine siting —
+drew a specific, unannounced visit late in the Tower's construction from engineers whose own project was, at
+its core, also a question of large-scale energy regulation (`Signy_Full_Extrapolation.md` Section XI).
+
+The visitors, per what's remembered of the exchange, weren't interested in Signy's own modest output scale so
+much as the reliability discipline behind it — the same lesson the abandoned original turbine site had taught
+Signy's own founding engineers decades earlier, that steadier, predictable flow beat peak theoretical output
+every time. Whatever the Tower's own engineers actually took from the visit isn't part of what Signy itself
+preserved of it. What locals remembered afterward was simpler: a city that had solved its own small, local
+version of a problem now found strangers traveling considerable distance specifically to ask how.
+
+### The Crossing the Endurance Span Was Never Designed For
+
+*(Shortly before the Tower's completion.)* The Endurance Span, ordinarily carrying Signy's own ordinary
+foot and light-vehicle traffic between the two islands, absorbed a stretch of unusually heavy load late in the
+Tower's construction — component transport routed through Signy specifically because its own intact,
+undamaged infrastructure made it a reliable link in a chain that, elsewhere, ran through cities carrying real
+founding-era wear (`Signy_Full_Extrapolation.md` Section III).
+
+Bridge engineers, per what's recalled of the period, monitored the crossing closely without genuine alarm — the
+Span had been built, and maintained, to standards that had never been genuinely stress-tested at this volume,
+and held the unfamiliar load the same steady way it had held everything since its own naming. The bridge that
+two islands' worth of daily life depended on turned out, for one unplanned stretch, to be something a
+considerably larger project depended on too.
+
+### The Order the Fishing Crews Filled Without Knowing Why
+
+*(Shortly before the Tower's completion.)* The Floating Extension Platforms, already adjusted once to protect
+the Wildlife Territories' own shifting seal haul-out patterns per van Zyl-Osei's own research, filled an
+unusually large standing order for preserved catch late in the Tower's construction — provisions bound,
+per the shipping manifest alone, for work sites considerably further inland than Signy's own crews ever
+delivered to directly (`Signy_Full_Extrapolation.md`, Platform material).
+
+Crews handling the order, per what's remembered of it, treated the unusual destination and volume the same
+practical way Ferreira-Whitcombe's own redesigned platforms had always been run — filling what was asked for
+correctly, without needing the full context to do the job well. The order was the largest single provisioning
+request the Platforms had filled to date. Nobody at Signy learned, at the time, exactly what it had helped
+feed.
+
+### The Ship That Didn't Need the Long Watch Anymore
+
+*(Shortly after the Tower's completion.)* The Long Watch — the observance built entirely around patient,
+unhurried waiting for the season's first supply ship, tested most memorably by the year the ship simply didn't
+arrive on schedule — faced its own first genuine identity question once word of the ship's own progress could
+be relayed instantly rather than watched for (`Signy_Full_Extrapolation.md`, Long Watch material).
+
+Residents gathering for that year's observance, per what's recalled of it, already knew exactly where the ship
+was and roughly when it would arrive, information the Watch's own entire ritual character had always assumed
+nobody could have in advance. The gathering happened anyway, largely unchanged — residents concluding, after
+some genuine debate, that the Long Watch had never really been about uncertainty for its own sake, but about
+the community standing together to receive what patience eventually delivered. Knowing the outcome in advance
+turned out not to be the same thing as not wanting to be there for it.
+
+### The Passage Signy Shared With Strangers for the First Time
+
+*(Shortly after the Tower's completion.)* St. Ernest's Passage — the commemorative crossing of the Endurance
+Span, timed to the historic Endurance open-boat journey's own anniversary — was, for the first time, described
+and shared beyond Signy itself, reaching residents of other Tepenian cities who'd never had reason to hear of
+the observance at all (`Signy_Full_Extrapolation.md` Section V).
+
+Signy's own residents, per what's remembered of the reaction, found the outside interest genuinely surprising
+— St. Ernest's Passage had always been observed as something the city did for itself, honoring a thread of
+endurance particular to Signy's own proximity to the historic route, not something built with any audience
+beyond the bridge in mind. Nothing about the observance's own practice changed to accommodate the wider
+awareness. What changed was simply that, for the first time, people elsewhere in the country knew the Endurance
+Span had a name, and why.
+
+### The Message That Finally Didn't Have to Work For It
+
+*(Shortly after the Tower's completion.)* Signy's own established difficulty reaching Concordia — a connection
+that, per what's already known of the city's radio-based comms setup, "has to work for it" whenever something
+genuinely needs to be said — was tested directly for the first time against the newly unified relay, with a
+routine civic message reaching the capital essentially the moment it was sent (`Signy_Full_Extrapolation.md`
+Section VII).
+
+The staff handling the transmission, per what's recalled of the moment, treated the ease with something close
+to disbelief — a task that had always demanded real effort, patience, and often outright luck, suddenly
+requiring none of those things at all. Signy's own radio infrastructure wasn't retired or replaced; the older,
+harder-won connection remained exactly as reliable, and exactly as difficult, as it had always been. What
+changed was that, for the first time, difficulty was a choice rather than the only option Signy actually had.
