@@ -112,7 +112,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Byrd | 12 | 50 | In progress |
+| Byrd | 24 | 50 | In progress |
 
 ### Special: Amundsen-Scott Station (target: 20 min / 30 goal)
 
@@ -125,11 +125,20 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 600** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
-Mawson subnet 54 + Byrd 12 + Amundsen-Scott Station 12).
+50 + 30). **Current: 612** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
+Mawson subnet 54 + Byrd 24 + Amundsen-Scott Station 12).
 
 **2026-08-03 — Mawson subnet batch 3 complete.** Mawson, Dome Fuji, and Sayowa all completed batch 3 — all
-now 18/30. Next: Byrd's 4th batch.
+now 18/30.
+
+**2026-08-03 — MILESTONE: the connections-only batch (batch 3 for the 35 outer cities, "Fourth Batch" for
+Byrd) is complete nationwide.** Every city and region has 18 entries except Palmer City and Byrd (18/50 and
+24/50 respectively, both still ahead of the other 12/30-target cities proportionally) and Abowasa (paused at
+6/30). Amundsen Station was deliberately excluded from this round since the connections-only framing is
+specifically city-to-city and Amundsen Station already has its own dedicated Tower construction/activation
+batch. Every entry in this pass is grounded in a specific named connection from `City_National_Connections.md`
+and is something that could only have happened once full national digital connectivity existed — not merely a
+faster version of something that already happened.
 
 **2026-08-03 — Halley subnet batch 3 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
 Elisabeth, and Lazar all completed batch 3 (connections-only occurrences, per `City_National_Connections.md`)

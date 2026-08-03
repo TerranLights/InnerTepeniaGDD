@@ -13,7 +13,11 @@ Both are valid. Drawn from `Byrd_Physical_Infrastructure_Attributes.md`'s 80 att
 Cross-Referenced Extrapolation Findings — not invented from nothing, per the project's standing
 "reconstructed, not invented" discipline. **Pilot batch, not exhaustive** — this is the first city run under
 this new methodology; more entries can be added at any time without disturbing the ones already here, which is
-the entire point of the format.
+the entire point of the format. **Fourth Batch (below), per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Belgrano,
+Neumayer, Marambio/Palmer City, Janbogo, Vostok, Rothera/Denison) distinct from the Third Batch's own
+Sinheung/Arcanet-focused entries. 24 done as of this batch, target 50.**
 
 ---
 
@@ -262,3 +266,87 @@ country knowing much about them, suddenly aware that the asymmetry had, at least
 about Byrd's own daily rhythm changed. What changed was the quiet, specific fact that the isolation Finding 24
 once described as one-directional — full awareness outward, near-total obscurity inward — was no longer
 guaranteed to stay that shape.
+
+---
+
+## Fourth Batch — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Full Account Belgrano's Archive Finally Received
+
+The maps that had helped locate and found Byrd, recovered generations earlier from Belgrano's own archives,
+had always been a one-sided act of assistance in Byrd's own institutional memory — a debt acknowledged locally
+but never actually repaid with anything beyond gratitude, since no channel existed to send Belgrano anything
+more than that.
+
+The first detailed account Byrd's own historians ever sent back to Belgrano — a full, specific description of
+exactly how the borrowed maps had been used, where they'd proven accurate, and where the founding expedition
+had needed to correct them on the ground — closed a loop neither city had ever expected to close. Belgrano's
+own archivists, per what's preserved of receiving it, treated the account as a genuine gift in return: a piece
+of Belgrano's own contribution to Tepenian history, finally given the specific, detailed ending it had never
+had before.
+
+### The Schematic Neumayer's Designers Finally Saw Installed
+
+Following Neumayer's own design team watching a live relay of the Amundsen Tower's own operational telemetry,
+a comparable moment reached Byrd: the first live tour of Byrd's own Chamber Works, relayed specifically so
+Neumayer's own chamber-schematic designers could see their Mark IV design actually running on Byrd's own
+manufacturing floor, not only Sinheung's.
+
+Byrd's own vetted chamber-precision cadre, per what's preserved of hosting the relay, walked the visiting
+designers through the production floor the same practical way they handled everything else — genuine
+professional pride, offered without ceremony, in running a design neither this cadre nor Neumayer's own
+engineers had ever seen the other actually use. It marked the first time Byrd's own manufacturing floor had
+been seen, even remotely, by the schematic's own original uncredited authors.
+
+### The Corridor Marambio and Palmer City Finally Watched Byrd Use in Real Time
+
+Byrd's only overland connection to the rest of the country, running through Marambio and Palmer City via
+Hwy 1 and Hwy 22, had always been something the two Palmer subnet cities knew about only in the abstract —
+Byrd's own actual use of the corridor, day to day, was never visible to either city until a shipment or convoy
+actually arrived.
+
+The first live corridor-traffic feed Byrd ever shared with Marambio's and Palmer City's own logistics
+offices, once direct contact made the sharing possible, let both cities watch Byrd's own outbound and inbound
+traffic in real time for the first time — genuine visibility into a corridor they had always physically
+supported without ever actually seeing used. Neither city's own role in maintaining the corridor changed. Both
+gained, for the first time, a concrete sense of exactly how much their own shared lifeline actually carried.
+
+### The Demographic Question Janbogo and Byrd Finally Resolved Together
+
+Following the joint demographic study confirming Byrd's own population profile matched Janbogo's Pacific-
+facing composition in specific detail, Byrd's own civic records office undertook a follow-up project with
+Janbogo directly: tracing, where surviving records allowed, which specific founding-era arrivals at Byrd had
+come via the same New Zealand supply route Janbogo's own population also drew on.
+
+The joint tracing project, conducted once direct contact let both cities' own records offices actually work
+together rather than separately, confirmed several specific founding-era family lines shared the same
+migration current — genuine, documented kinship rather than the broad demographic resemblance alone. Neither
+city's own governance changed. Both, for the first time, had names and dates attached to a connection that had
+previously existed only as a statistical pattern.
+
+### The Lake Report Byrd Finally Sent Back Complete
+
+Following Vostok's own researchers receiving their first live update on the transplanted lake ecosystem's own
+condition, Byrd's own lake-maintenance staff sent a considerably more complete follow-up than the original
+brief update — full ecological survey data, gathered specifically because Vostok's own genuine emotional
+reaction to the first update suggested the original team wanted more than a passing confirmation.
+
+Vostok's own researchers, per what's preserved of receiving the complete survey, found it exceeded what they'd
+expected to ever see again once the transplant project itself concluded — genuine, detailed proof that
+something they'd built and released was not only surviving but being actively, carefully studied by the city
+now responsible for it. The exchange marked the deepening of a connection that had begun as a one-time
+technical achievement into something closer to an ongoing, if occasional, scientific partnership.
+
+### The Combined Case Study Rothera and Denison Finally Requested From Byrd
+
+Following the wind-engineering case study connecting Rothera and Denison, both cities sent a joint request to
+Byrd — curious whether Byrd's own underground industrial engineering, influenced possibly by Rothera's own
+decentralized model, might offer a third data point for the broader extreme-conditions engineering comparison
+the two surface cities had already built between themselves.
+
+Byrd's own engineers, per what's preserved of the response, supplied what they could — genuinely useful detail
+on underground structural discipline, though the comparison to surface wind-engineering solutions proved
+looser than either requesting city had initially hoped, given how differently an underground city's own
+engineering challenges were shaped. The three-way comparison remained incomplete rather than fully unified.
+It marked, regardless, the first time Byrd's own engineering tradition had been formally included in a
+cross-city technical comparison at all.
