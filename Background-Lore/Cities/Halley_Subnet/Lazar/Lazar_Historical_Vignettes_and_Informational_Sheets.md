@@ -5,11 +5,12 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Lazar_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Lazar_Full_Extrapolation.md` and `Lazar_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is
-framed around the Amundsen Tower's own completion, per direct developer instruction 2026-08-03: 3 entries
-shortly before completion, 3 shortly after — once the whole country was connected through the Tower's single
-relay node for the first time. The Tower's own exact completion date stays deliberately unpinned in prose.
-Target 30, 12 done as of this batch.**
+`Lazar_Full_Extrapolation.md` and `Lazar_Cross_Reference_Synthesis.md`. **Batch 2 was framed around the
+Amundsen Tower's own completion: 3 entries shortly before completion, 3 shortly after. Batch 3, per direct
+developer instruction, is framed around `City_National_Connections.md`: six occurrences that could only have
+happened once full national digital connectivity existed, each grounded in a specific named city-to-city
+connection from that file (Fort McMurdo, Palmer City, Sejong, Abowasa, Neumayer) rather than the generic
+trade-surge already covered in batch 2's own Junction Markets entry. Target 30, 18 done as of this batch.**
 
 ---
 
@@ -247,3 +248,97 @@ trade volume with the same unremarkable ease Lazar's own commerce handled everyt
 barely registered as unusual within the Markets' own daily operation — genuinely new connections, formed
 without any particular ceremony, simply becoming one more thread in a commercial network already too large
 for any single new addition to stand out.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Comparison the Capital Never Used to Invite
+
+Lazar's own status as Tepenia's single largest city by population and Fort McMurdo's own status as the
+national historical/political capital had always been discussed separately — two civic superlatives that had
+never once been directly compared by the two cities actually holding them, since no channel existed for either
+city's own administration to simply reach out to the other.
+
+The first direct exchange between Lazar's own civic administration and Fort McMurdo's, held once the
+connection made the comparison trivial to initiate, produced a genuinely informative mutual audit — Fort
+McMurdo's own formal capital-status governance apparatus compared against Lazar's own considerably less
+formalized, commerce-driven civic management of a population Fort McMurdo didn't actually exceed. Neither city
+came away from the exchange with any specific policy change. Both, per what's preserved of the correspondence,
+came away with a clearer sense of exactly how differently the country's two biggest civic superlatives had
+each been built to function.
+
+### The District That Copied a Neighborhood It Had Never Seen
+
+Palmer City's own entertainment-and-casino economy and Lazar's own maglev/holographic commercial density had
+always been noted, by outside observers, as Tepenia's two genuine megacenters — a comparison neither city's
+own commercial planners had ever had reason to investigate directly, since no prior channel existed for either
+city to actually study the other's own approach.
+
+A specific Lazar commercial developer, planning an entertainment-district expansion once direct contact with
+Palmer City made research trivial, requested detailed layout and lighting-design information from Palmer
+City's own Petrograd Room specifically — the first time either city's own commercial planning had directly
+drawn on the other's methodology rather than developing independently. The resulting district, per what's
+preserved of the project, incorporated design principles genuinely borrowed from Palmer City's own
+entertainment architecture for the first time in Lazar's own commercial history, adapted rather than copied
+outright, but traceable directly to a conversation that simply hadn't been possible before.
+
+### The Governance Question Sejong Finally Got to Ask Directly
+
+Lazar's own coalescence from two separate founding settlements and Sejong's own multinational-coexistence
+founding had always been noted, in passing comparison, as structurally similar civic origin stories — neither
+city's own civic administration had ever actually discussed the comparison with the other directly.
+
+Sejong's own Negotiation Hall coordinators, curious how a city that had coalesced demographically rather than
+negotiated its own coexistence directly had handled the transition, reached Lazar's own civic administration
+for the first time to ask specifically how Lazar's own governance had managed the shift from Novolazarevskaya's
+own dominant identity to a genuinely mixed demographic majority. Lazar's own administrators, per what's
+recalled of the response, admitted the transition had never actually been managed deliberately at all — it had
+simply happened, gradually, without any equivalent to Sejong's own standing negotiation process. Sejong's own
+coordinators found the answer genuinely instructive precisely because it confirmed their own process wasn't
+the only way coexistence could work, just the only way Sejong itself had ever tried.
+
+### The Small Order That Meant More to Abowasa Than to Lazar
+
+Lazar's own Junction Markets, absorbing new trade inquiries from across the newly connected country with the
+same unremarkable ease it absorbed everything else, received a specific standing order from Abowasa's own
+small trade office — a modest, easily filled request that barely registered within the Markets' own enormous
+daily volume, but that represented, for Abowasa, the first time its own trade office had ever placed an order
+directly with a city this large rather than routing the request through a larger Halley subnet neighbor first.
+
+Lazar's own merchants filled the order without any particular awareness of its significance on the other end.
+Abowasa's own trade office, per what's recalled of the exchange, treated the successful direct order as a
+genuine, if modest, milestone — proof that a city as small as Abowasa could reach a city as large as Lazar
+directly, with no larger neighbor required as an intermediary, for the first time in either city's own trading
+history.
+
+### The Archive Neumayer Finally Got to Search Directly
+
+Neumayer's own speculative, never-confirmed working relationship with Lazar — plausible given both cities'
+shared Halley subnet logistics heritage, but never actually documented in either city's own surviving
+founding-era records — became confirmed fact only once a Neumayer historian could search Lazar's own municipal
+archive directly rather than requesting records through a correspondence chain neither city had ever bothered
+maintaining.
+
+Lazar's own archive staff, per what's remembered of the search, hadn't previously known the specific
+Novolazarevskaya-era logistics records the historian was looking for were significant to anyone outside Lazar
+at all — genuinely obscure municipal holdings, filed and forgotten, that turned out to confirm exactly the
+working relationship Neumayer's own files had only ever proposed as plausible. The discovery gave both cities'
+own historical record something neither had ever been able to establish alone: documented proof, rather than
+educated guesswork, of a logistics relationship that had genuinely shaped both cities' own founding-era supply
+chains.
+
+### The First Delegation That Came Just to Ask Questions
+
+Lazar's own genuine megacity scale — commercial density, population, visible civic energy no other Halley
+subnet city matched — had always drawn outside curiosity in the abstract, but no other Tepenian city's own
+civic planners had ever actually sent a delegation specifically to study how Lazar functioned at that scale,
+since no prior channel made such a study trip easy to arrange or justify.
+
+The first such delegation, arriving once direct contact let another city's own planners simply propose the
+visit and receive a quick answer, spent several days touring the Junction Markets, the maglev transit network,
+and the commercial districts specifically to understand how a city this size actually organized its own daily
+function. Lazar's own administrators, per what's preserved of the visit, answered every question plainly, the
+same practical way the city handled most inquiries — genuinely useful cross-city knowledge transfer that had
+simply never had an occasion to happen before a delegation could show up on short notice rather than after
+months of advance correspondence.
