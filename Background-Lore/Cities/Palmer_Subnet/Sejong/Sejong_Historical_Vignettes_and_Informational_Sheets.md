@@ -8,7 +8,11 @@ rather than a restated attribute. No entry below depends on any other; none are 
 Drawn primarily from `Sejong_Full_Extrapolation.md` (Tier 1, corrected 2026-08-02 — the Hangul/Korean-
 continuity material removed), `Sejong_Physical_Infrastructure_Attributes.md` and `Specs/Sejong.md` (Tier 2,
 also corrected), and `Sejong_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as
-of this batch.**
+of that batch. Batch 3, per direct developer instruction, is framed around `City_National_Connections.md`:
+six occurrences that could only have happened once full national digital connectivity existed, each grounded
+in a specific named city-to-city connection from that file (Janbogo, Sinheung, Abowasa, Palmer City, Juan
+Carlos, Lazar) rather than the generic "other multinational cities" comparison batch 2's own entry already
+used. 18 done as of batch 3.**
 
 ---
 
@@ -224,3 +228,89 @@ the Accord had always managed without fully resolving. What the exchange did off
 confirmation that Sejong's own particular difficulty wasn't unique to King George Island's own crowded ground —
 a small, specific comfort, arriving decades into an arrangement that had never claimed to be more than a
 functioning compromise in the first place.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The First Three-Way Conversation Between All of Korea's Founded Cities
+
+Janbogo, Sejong, and Sinheung — Tepenia's three Korean-founded cities, tracing back to three genuinely
+different founding mechanisms and, per established fact, essentially no meaningful pre-existing contact with
+each other — held their own first genuine three-way conversation once direct contact made it possible for all
+three to actually speak at once rather than through whatever limited, occasional ceremonial contact had
+previously connected Janbogo and Sejong alone.
+
+The exchange, per what's preserved of the occasion, surfaced exactly the asymmetry Sejong's own records had
+already flagged as worth naming directly — Sinheung the most heavily Korean by population, Janbogo the deepest
+in institutional Korean culture, Sejong the thinnest connection of the three, carrying only founding-era
+naming heritage. Hearing all three describe their own relationship to that shared origin in the same
+conversation, for the first time, gave the asymmetry a concreteness none of the three cities' own individual
+records had ever quite captured on their own.
+
+### The Negotiation Hall Question Abowasa Actually Answered
+
+Sejong's own Negotiation Hall — the standing, case-by-case dispute-resolution process governing King George
+Island's dozen communities — drew a specific, genuine inquiry from Abowasa's own small civic administration,
+curious how a coexistence framework built for a dozen communities might scale down to something useful for a
+city as small as Abowasa's own two-community founding.
+
+Sejong's own Hall coordinators, per what's remembered of the exchange, explained the process in full — the
+same procedural framework that had once settled the Lighthouse Spire's own funding formula — while being
+honest that a process built for a dozen simultaneous parties might not translate cleanly to a city negotiating
+between only two. Abowasa's own administrators, per what's recalled of the response, found the honesty itself
+useful: confirmation that their own smaller-scale, more informal household-level negotiation wasn't a lesser
+version of Sejong's own process, simply a genuinely different solution to a comparable problem at a different
+scale.
+
+### The Tourism Schedule the Gateway Corridor Finally Synced
+
+The Machu Picchu gateway corridor — running through Sejong's own Border Authority infrastructure toward Juan
+Carlos's own immigration processing and onward to Palmer City's own tourism economy — had always operated as
+three separately managed legs, each city scheduling around the others' own indirect, delayed updates.
+
+The first live three-way scheduling session, convened once Sejong's own tourism administrators could actually
+see Juan Carlos's and Palmer City's own real-time processing volume at once, caught a specific mismatch none
+of the three cities had noticed independently: Sejong's own visa-processing pace occasionally outrunning
+Palmer City's own hospitality capacity on the corridor's busiest days. The corrected joint schedule, adopted
+immediately, smoothed a friction point the gateway had apparently absorbed, unremarked, for as long as the
+arrangement had existed.
+
+### The Spire's Weather Reports Now Reaching Places That Had Never Asked
+
+The Lighthouse Spire, already carrying Arcanet relay infrastructure alongside its own founding lighthouse and
+signal function, began sending its own maritime weather readings to shipping and logistics planners in cities
+that had never previously had any relationship to King George Island at all, once the completed national
+relay gave those readings genuine reach for the first time.
+
+Spire staff, drawn from multiple communities per the same rotating-crew tradition the structure's own
+construction had established, handled the new outside requests the same unceremonious way they handled
+everything else — accurate readings, sent promptly, without particular interest in who was asking or why a
+city with no prior connection to Sejong suddenly wanted King George Island's own weather data.
+
+### The Delegate Sinheung Sent to Study the Negotiation Hall Directly
+
+Sinheung's own chamber-manufacturing precision and Sejong's own multinational coexistence framework had never
+had any obvious reason to intersect — until Sinheung's own civic administrators, managing an unrelated
+dispute between departments within the Larsemann Hills cluster, heard secondhand about Sejong's own
+Negotiation Hall and reached out directly to learn more.
+
+A single delegate, sent once the inquiry moved from curiosity to genuine interest, spent several days
+observing the Hall's own case-by-case process in person — the first time any representative from one of
+Tepenia's other Korean-founded cities had actually studied Sejong's own governance model directly rather than
+only knowing of it in the abstract. Whether Sinheung ultimately adapted anything from the visit isn't
+preserved. The visit itself, prompted by nothing more than a secondhand mention that could now actually be
+followed up on, was the genuinely new thing.
+
+### The Coalescence Comparison That Finally Went Both Directions
+
+Following Lazar's own inquiry to Sejong about how Sejong's own standing negotiation process had managed
+multinational coexistence, Sejong's own coordinators sent a follow-up question of their own — curious how
+Lazar had managed a demographic transition without any equivalent negotiation process governing it at all.
+
+The exchange, held once the connection made a genuine back-and-forth possible rather than a single one-way
+inquiry, gave Sejong's own Hall coordinators something they hadn't expected: confirmation that a city could
+absorb a comparable identity shift through sheer accumulated demographic drift, with no formal mechanism
+managing it, and still arrive somewhere functional. Sejong's own process remained exactly as it had always
+been. The comparison simply gave its own coordinators, for the first time, a genuine alternative case study to
+weigh it against.
