@@ -5,10 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Belgrano_Physical_
 Infrastructure_Attributes.md`'s 11 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Belgrano_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's
-own completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
-after — once the whole country was connected through the Tower's single relay node for the first time. The
-Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+`Belgrano_Cross_Reference_Synthesis.md`. **Batch 2 was framed around the Amundsen Tower's own completion, per
+direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
+direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
+only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
+connection from that file and in Belgrano's own established struggles. Target 30, 18 done as of this
 batch.**
 
 ---
@@ -240,3 +241,93 @@ inquiry with the same modest, workmanlike attitude the city applies to most of i
 the requested technical detail without particular ceremony, the invention's own genuine historical
 significance never quite translating into the kind of civic pride a founding achievement this consequential
 might have generated elsewhere in Tepenia.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Report Belgrano Never Knew Byrd Had Written
+
+The maps recovered from Belgrano's own archives had helped locate and found Byrd generations earlier — a fact
+Belgrano's own civic memory carried with genuine, quiet pride, though nobody at Belgrano had ever actually
+learned what became of the expedition itself once it disappeared south with the borrowed maps in hand. No
+channel had ever existed to ask, and no reason for Byrd to volunteer the answer unprompted across a distance
+neither city had any standing way to close.
+
+An archivist at Belgrano, once direct contact with Byrd became possible, finally sent the question outward
+that generations of the city's own record-keepers had simply never had anywhere to send: what had the maps
+actually shown, and had they been accurate. Byrd's own historians answered in full for the first time — the
+maps, per what came back, had been genuinely useful but not perfectly accurate, requiring real on-the-ground
+correction during the expedition's own final approach. Belgrano's own archive absorbed the correction as a
+small, satisfying completion of a story it had only ever known the beginning of.
+
+### The Gathering Three Argentine Cities Held Without Anyone Traveling
+
+Esperanza, Marambio, and Belgrano — Argentina's only three founding-population cities in the country, split
+across two subnets — had never once held a genuine three-way gathering, since the distances involved (two full
+subnets apart) made any such occasion, even a modest one, a serious undertaking nobody had previously
+organized.
+
+The first real-time joint observance, held once direct contact let all three cities' own cultural
+representatives simply agree on a shared date without needing to coordinate travel at all, brought together
+founding-heritage commemorations that had always been marked separately and locally. Residents at Belgrano, per
+what's remembered of the occasion, described hearing Esperanza's and Marambio's own observances happening
+simultaneously as something genuinely moving in a way no prior generation's separate, unconnected commemoration
+had ever been able to produce — three cities marking the same heritage together, for the first time, without
+a single person actually leaving home.
+
+### The Part Sinheung Finally Explained
+
+A specific salvaged aircraft part, recovered from Belgrano's own ruins-era garage stock and shipped onward
+once, had always left Belgrano's own staff with no idea what it was actually used for on the receiving end —
+the part went out, and nothing ever came back to explain its purpose, since no channel existed for Sinheung's
+own engineers to report back on parts received from that far away.
+
+The first direct follow-up came once a Sinheung technician, working an unrelated plane-repair question, traced
+a component back to its Belgrano origin and reached out directly to ask whether more of the same stock existed
+— explaining, for the first time, exactly what the part had been needed for and how it had solved the problem
+at the receiving end. Belgrano's own garage staff, per what's recalled of the exchange, found the belated
+explanation satisfying in a way the original shipment had never required to be — proof that something sent out
+into the country's own logistics network, with no expectation of ever hearing back, occasionally still found
+its way to an answer.
+
+### The Schedule Sanay and Troll Finally Built Together, With Belgrano Watching
+
+The three-city Halley subnet supply chain — Belgrano and Sanay both receiving South African freight, Troll
+flying the onward legs — had always run on each city's own independent scheduling, coordinated only through
+whatever delayed correspondence eventually synced the three operations loosely together.
+
+The first live, three-way scheduling session, held once all three cities' own dispatch offices could actually
+see each other's real-time freight status at once, let Belgrano's own coordinators watch Sanay and Troll build
+a joint schedule directly rather than receiving each city's own separate plan after the fact. The session
+surfaced a genuine, previously invisible inefficiency — Belgrano and Sanay had, for longer than anyone
+realized, occasionally scheduled receiving windows that left Troll's own onward capacity sitting idle between
+them. The corrected joint schedule, adopted immediately, closed a gap none of the three cities' own
+independent planning had ever been positioned to see on its own.
+
+### The Recipe Exchange That Reached a City Belgrano Had Never Traded With
+
+Belgrano's own mate-drinking ritual, a source of genuine curiosity among newer arrivals unfamiliar with the
+custom, had always been explained informally, one visitor at a time, since no channel existed to answer the
+same question for anyone who couldn't actually visit in person.
+
+The first written explanation sent outward on request, once direct contact made it possible, went to a
+resident of a city Belgrano had never had any prior trade or cultural relationship with at all — someone who'd
+simply heard, secondhand and now instantly, that Belgrano's own founding culture kept a specific communal
+drinking custom worth understanding. Belgrano's own residents handling the exchange, per what's remembered of
+it, treated the request the same unceremonious way they'd always answered a curious visitor in person —
+explaining the ritual plainly, without treating the distance involved as making the question any less worth a
+genuine answer.
+
+### The Halley Passage Report That Finally Explained a Delay
+
+Halley's own resupply, downstream of whichever of Belgrano's or Sanay's passage happened to be open, had
+always received word of Belgrano's own conditions only after the fact — a closed passage discovered only once
+a convoy failed to arrive on schedule, never explained in advance.
+
+The first live passage-status report Belgrano ever sent directly to Halley, rather than simply closing the
+route and letting the delay speak for itself, reached Halley's own dispatch office before a single scheduled
+convoy had even been affected — genuine advance notice, the first Halley had ever received from Belgrano
+specifically, rather than inferred after a shipment simply failed to show. Halley's own planners adjusted the
+schedule immediately, the first time in the two cities' shared history that a Belgrano closure had been
+something Halley planned around in advance rather than discovered by its own absence.
