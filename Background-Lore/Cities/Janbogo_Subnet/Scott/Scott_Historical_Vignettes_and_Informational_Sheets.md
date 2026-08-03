@@ -8,7 +8,10 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Scott_Full_Extrapolation.md` (Tier 1), `Scott_Physical_Infrastructure_Attributes.md`
 and `Specs/Scott.md` (Tier 2), and `Scott_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target
-30, 12 done as of this batch.**
+30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Fort
+McMurdo, Casey, Signy). 18 done as of batch 3.**
 
 ---
 
@@ -207,3 +210,88 @@ hostility, precisely because neither city had ever needed the other's failure to
 success. No formal exchange of the specific model resulted. What changed was simply that a rivalry the two
 cities had always kept between themselves now had an audience that found the whole arrangement genuinely
 worth asking about.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Standard Scott Watched Fort McMurdo Adopt Wholesale
+
+Following Fort McMurdo's own decision to adopt one of Scott's calibration standards permanently rather than
+requesting individual recalibrations, Scott's own specialists found themselves, for the first time,
+consulting on another city's own equipment specifications as a matter of ongoing practice rather than
+discrete service requests.
+
+The shift, per what's preserved of it, changed how Scott's own calibration culture related to its own most
+significant customer relationship — Fort McMurdo's own heavy industry no longer simply a recurring source of
+individual jobs, but a standing technical partnership requiring Scott's own specialists to understand Fort
+McMurdo's own equipment holistically. Scott's own civic character, still genuinely modest by choice, absorbed
+the expanded relationship without seeking any comparable growth in scale — precision consulting deepening
+without the city itself needing to grow to support it.
+
+### The Procedure Comparison Casey Finally Wrote Down
+
+Following the informal exchange about Scott's own procedural safety culture versus Casey's trust-in-a-person
+tradition, Scott's own engineers proposed a specific follow-up: a written comparison document, similar to the
+one later produced between Lazar and Fort McMurdo, formally contrasting the two cities' own safety-culture
+philosophies.
+
+The document, drafted once sustained contact let both cities collaborate on it directly, became something
+Scott's own training program began using informally with new calibration apprentices — a concrete illustration
+that precision and trust-based judgment were both legitimate paths to the same safety outcome, not one
+superior to the other. Casey's own dispatch office, per what's preserved of the reaction, found the document
+equally useful for its own training purposes, the first shared educational material either city's own safety
+culture had ever produced jointly.
+
+### The Correspondence Signy Turned Into a Standing Habit
+
+Following the first quiet-city correspondence between Scott and Signy, the exchange became a genuine standing
+habit rather than a single conversation — administrators at both cities began checking in periodically, not
+about any specific civic business, simply to maintain the connection two structurally similar "quieter
+neighbor" cities had discovered they shared.
+
+The ongoing correspondence, per what's preserved of it, never became anything more formal than casual civic
+check-ins. Both cities' own administrations, per what's recalled of the habit, found genuine value simply in
+having a comparable counterpart to talk to occasionally — a specific, if modest, antidote to being the quieter
+city in a subnet whose own attention gravitated elsewhere, now less isolating for having an actual peer
+relationship to draw on.
+
+### The Apprentice Fort McMurdo Sent to Study Precision Directly
+
+Following the wholesale calibration-standard adoption, Fort McMurdo sent its first apprentice to train directly
+under Scott's own precision culture — a genuine cross-city training placement, rather than remote consultation,
+made possible once sustained contact confirmed the relationship was stable enough to justify sending someone
+in person.
+
+The apprentice's own placement, per what's preserved of the arrangement, lasted a full season, embedded
+directly within Scott's own calibration workshop rather than simply observing from outside. Scott's own
+instructors, per what's recalled of the experience, treated the apprentice exactly as they treated their own
+trainees — no special accommodation for the fact that he'd eventually return to a heavy-industry city rather
+than Scott's own precision economy. It marked the first time Scott's own training culture had ever taught
+someone who wasn't going to stay.
+
+### The Wind-Window Method Casey's Dispatchers Sent Back Refined
+
+Following Casey's own adoption of Scott's methodical-process safety philosophy for an unrelated question, a
+specific refinement came back to Scott directly — Casey's own dispatchers had adapted a piece of Scott's own
+calibration-verification logic into their own wind-window certification process, and reported the adaptation
+back out of the same professional courtesy Fort McMurdo had once shown Casey.
+
+Scott's own engineers, per what's preserved of the exchange, found the adaptation genuinely interesting — a
+piece of precision-industry logic, refined once by Casey for route-safety dispatch, functioning successfully
+in a context considerably different from where it originated. The exchange confirmed something neither city
+had specifically set out to prove: that Scott's own precision culture could travel usefully even into fields
+built around trusting people rather than instruments.
+
+### The Comparison Document That Finally Included All Three Quiet Cities
+
+Following the written safety-culture comparison between Scott and Casey, and the ongoing correspondence
+between Scott and Signy, a specific proposal emerged to bring all three threads together — a single document
+comparing Scott's precision culture, Casey's trust-based dispatch tradition, and Signy's own quieter civic
+temperament as three genuinely different expressions of steady, unglamorous competence.
+
+The combined document, compiled once direct contact among all three cities made the collaboration possible,
+was never intended as anything more than an internal curiosity for the three administrations involved. It
+stands, regardless, as the first piece of shared civic reflection Scott had ever participated in connecting
+three separate relationships — Fort McMurdo, Casey, and Signy — into a single, coherent picture of exactly what
+kind of city Scott actually was, described this time in its own words alongside its own genuine peers.
