@@ -6,7 +6,11 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Mirny_Physical_
 Infrastructure_Attributes.md`'s 18 attributes and its Cross-Referenced Extrapolation Findings, plus `Mirny_
 Mega_Init.md`, `Mirny_Full_Extrapolation.md`, and `Mirny_Cross_Reference_Synthesis.md`. Begins the Mirny
-subnet. **Batch 2 of many — target 30, 12 done as of this batch.**
+subnet. **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction,
+is framed around `City_National_Connections.md`: six occurrences that could only have happened once full
+national digital connectivity existed, each grounded in a specific named city-to-city connection from that
+file (Rothera, Denison, Abowasa, Sinheung, Zhongshan, Casey) distinct from batch 2's own Relay Vaults-focused
+entries. 18 done as of batch 3.**
 
 ---
 
@@ -249,3 +253,92 @@ actually involved and what it would take to pass it. Whether the apprentice ever
 of what's currently preserved. What the inquiry itself confirmed, for the first time, was that a guild built
 entirely around a wind nobody outside Mirny had ever needed to argue with had become, to at least one stranger
 elsewhere in the country, worth learning from directly.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Quarry Face Rothera's Own Engineers Asked to See Directly
+
+Following the first direct engineering exchange between Mirny's Windwright Guildhall and Rothera's own siting
+engineers, a specific follow-up request came from Rothera: detailed geological survey data from Mirny's own
+quarry faces, sought as a direct comparison against Rothera's own raw-material siting methodology now that the
+two cities had confirmed, for the first time, that their structurally similar economies had been built on two
+different underlying reasoning paths.
+
+Mirny's own quarry administrators, per what's preserved of the exchange, supplied the requested survey data in
+full — genuinely detailed operational information that had never previously left Mirny's own internal
+planning process. What Rothera's own engineers did with the comparison isn't part of what Mirny itself
+preserved. The request itself, arriving directly rather than through any formal channel, was the first time
+either city's own raw-material planning had been examined this closely by an outside party.
+
+### The Wind-Fusion Question Denison Sent Looking for a Second Opinion
+
+Denison's own fully-interlinked, aerodynamically continuous structural design and Mirny's own windbreak-ring
+architecture, already recognized as Tepenia's two most developed answers to extreme-katabatic-wind
+engineering, prompted a direct technical exchange once Denison's own engineers, mid-debate over a proposed
+structural expansion, sought a genuine second opinion from the only other city that had solved a comparably
+severe wind problem.
+
+Mirny's own Windwright Guildhall, per what's preserved of the exchange, reviewed Denison's own proposed
+expansion plans in detail and flagged a specific load-distribution concern rooted in Bellandry's own founding-
+era lesson about hard corners concentrating lateral force — a risk Denison's own fused design handled
+differently, but one worth double-checking regardless. Denison's own engineers, per what's recalled of the
+response, incorporated the flagged concern into a revised design. It marked the first time either city's own
+wind-engineering tradition had directly shaped the other's actual construction decisions.
+
+### The Kitchen Question Abowasa Finally Got to Ask in Detail
+
+Mirny's own Dual-Kitchen Halls — physically distinct but co-located Russian and Chinese food service,
+institutionalizing coexistence rather than fusion — drew a specific, detailed inquiry from Abowasa's own
+civic administration once direct contact let Abowasa's own residents ask exactly how Mirny had settled on the
+"two kitchens, one hall" compromise rather than either full separation or full merger.
+
+Mirny's own residents, per what's preserved of the exchange, told the story in full for the first time to an
+outside audience — the lean-years merger attempt that had satisfied nobody, and the joint petition that
+reversed it. Abowasa's own administrators, per what's recalled of the response, found the story genuinely
+useful precisely because it confirmed a coexistence solution reached through trial and failure, not
+theory — the same practical, hard-won quality Abowasa's own two-community founding had also required, though
+neither city had ever had reason to compare notes on it before.
+
+### The Production Schedule Sinheung Finally Synced With the Quarry Face Directly
+
+Mirny's own ore-quarrying supply chain to Sinheung, already established as a genuine, tested working
+relationship, absorbed its first fully synchronized production schedule once both cities' own planning offices
+could see each other's real-time output projections rather than working from the delayed confirmation cycle
+that had always governed the relationship.
+
+The first jointly built schedule, per what's preserved of the arrangement, let Mirny's own quarry crews adjust
+extraction timing directly against Sinheung's own projected chamber-fabrication demand weeks in advance, rather
+than reacting to orders after they were placed. Neither city's own production discipline changed
+fundamentally. What changed, for the first time in the relationship's own working history, was that supply and
+demand could actually be planned together rather than merely reconciled after the fact.
+
+### The Reading Zhongshan's Long Record Finally Cross-Checked Against Mirny's Own
+
+Mirny's own founding-era institutional records, kept locally without any formal relationship to the Mirny
+subnet's own broader historical archive, were cross-referenced against Zhongshan's Long Record for the first
+time once Zhongshan's own archivists, curious how the Relay Hardware Vaults' own founding-era construction
+compared to other Mirny subnet infrastructure of the same period, reached out directly.
+
+The comparison, per what's preserved of the exchange, confirmed that Mirny's own founding-era construction
+pace and Zhongshan's own institutional expansion had proceeded on a broadly similar timeline — two cities
+whose own founding-era development had never been directly compared before a shared archive standard existed
+to make the comparison meaningful. Neither city's own historical record required correction as a result. Both
+gained, for the first time, a genuine cross-reference point for a period each had only ever understood in
+isolation.
+
+### The Toast Casey's Dispatch Office Learned to Give
+
+Casey's own cardinal social rule — route information shared immediately and accurately, because lives depend
+on it — and Mirny's own Quarry Return Toasts, marking a crew's safe return from the harsher southern routes,
+had always existed as two separate expressions of the same underlying Mirny subnet value, never directly
+compared until Casey's own dispatchers, learning of the Toast tradition through routine contact with Mirny's
+own quarry administration, asked to hear the story behind it.
+
+Mirny's own quarry crews, per what's preserved of the exchange, told Casey's own dispatchers the full account
+of Oyunbaatar's own crew and the toast that began the tradition — the first time the story had ever been told
+directly to residents of another Mirny subnet city rather than passed down only within Mirny itself. Casey's
+own dispatchers, per what's recalled of the reaction, recognized the same underlying instinct their own wind-
+window certifications ran on: information, and the people who carried it safely, treated as worth genuinely
+honoring rather than simply expected.
