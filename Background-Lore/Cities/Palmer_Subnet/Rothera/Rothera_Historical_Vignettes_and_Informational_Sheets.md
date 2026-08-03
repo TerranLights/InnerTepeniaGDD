@@ -5,7 +5,7 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Rothera_Physical_
 Infrastructure_Attributes.md`'s 10 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Rothera_Full_Extrapolation.md` and `Rothera_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6
+`Rothera_Full_Extrapolation.md` and `Rothera_Cross_Reference_Synthesis.md`. **Batch 2 of many — target 30, 12
 done as of this batch.**
 
 ---
@@ -129,3 +129,94 @@ engineering standards distinct from standard Tepenian practice, treating liquid-
 risk as a genuine, documented hazard rather than an edge case — the specific, costly lesson that put Rothera,
 alongside Palmer City, into the small category of Tepenian cities where drainage engineering had to be taken
 as seriously as snow-load engineering ever was.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Order Rothera Had Never Filled at That Scale
+
+*(Shortly before the Tower's completion.)* Rothera's own established role — building the vehicles and
+transit-infrastructure components that kept the Palmer subnet's own highway network running, the direct
+Mirny-style parallel already documented (`Rothera_Full_Extrapolation.md` Section II) — was tested against a
+single order unlike anything the Decentralized Industrial Sites had filled before: heavy-duty maintenance and
+transport components, specified for conditions and stresses none of Rothera's own standard catalog had been
+designed around.
+
+Production planners, per what's remembered of the order, spent longer confirming the specifications than
+actually manufacturing the parts, since nothing in Rothera's existing designs quite matched what was being
+asked for and getting it wrong risked shipping equipment that would fail exactly where it was needed most.
+The order was filled, eventually, by adapting existing highway-maintenance designs rather than starting from
+nothing — the same practical, efficiency-first instinct Ashgrove-Pryce had built the whole industrial layout
+around, applied this time to a customer nobody at Rothera ever formally learned the full purpose of.
+
+### The Question the Vault Program Was Finally Asked Directly
+
+*(Shortly before the Tower's completion.)* Word reached Rothera, through channels nobody bothered to make
+official, that whoever was overseeing the Tower's final construction stretch wanted to know how a settlement
+excavated large, stable chambers into difficult terrain at genuine scale — the specific expertise the Vault
+Architect's original program, and its wartime-shelter expansion, had spent generations accumulating
+(`Rothera_Full_Extrapolation.md` Section III, Section IX).
+
+Nobody still living remembered enough of "Halvard Reyes" own earliest methods to answer in person, but the
+vault program's own accumulated engineering records — kept, like everything else in Rothera, for practical
+rather than ceremonial reasons — were copied and sent onward without much ceremony either. What the Tower's
+own engineers actually did with Adelaide Island's excavation lessons isn't part of what's preserved at
+Rothera's end. What is preserved is the simple fact that a program begun for reasons that had nothing to do
+with any of this ended up, generations later, informing something built at a scale its own founder never could
+have imagined.
+
+### The Flight Bonner Airstrip Wasn't Scheduled to Take
+
+*(Shortly before the Tower's completion.)* Bonner Airstrip's own Peninsula-internal role, cleanly separated
+from Marambio's longer-range traffic since the misrouted-cargo incident that first defined the split, absorbed
+one more irregular flight late in the Tower's construction — personnel rotating off the project, routed
+through Rothera specifically because it offered a shorter turnaround than waiting for a Marambio slot
+(`Rothera_Full_Extrapolation.md` Section IV, Finding C).
+
+Ground crews handling the arrival, per what's recalled of it, treated the flight the same way they'd treated
+the earlier misrouted cargo — competently, without needing the full context to do the job correctly — though
+several noted the passengers looked considerably more exhausted than Rothera's own usual short-hop traffic. No
+formal interoperability update followed this time; the existing arrangement between the two airfields, forged
+out of a genuine accident years earlier, simply absorbed the irregular traffic without needing to be revised.
+
+### The Production Schedule That Finally Matched Demand in Real Time
+
+*(Shortly after the Tower's completion.)* Rothera's own vehicle and component orders from other Palmer subnet
+cities — previously submitted and confirmed with the same built-in delay every subnet trade relationship had
+always carried — began arriving, and being confirmed, close enough to instantly that production planners had
+to rebuild scheduling practices around the change (`Rothera_Full_Extrapolation.md` Section II).
+
+The adjustment wasn't universally welcomed. Several veteran planners, per informal accounts, had built genuine
+professional skill around anticipating demand during the old delay window — reading partial information and
+guessing correctly what a given city would actually need weeks before the order confirmed it. That skill
+became noticeably less valuable once orders simply arrived confirmed. Rothera's own production floor adapted,
+as it had adapted to every other practical problem in its history, but more than one planner admitted missing
+the specific competence the old uncertainty had rewarded.
+
+### The Stockpile Policy That Finally Got to Relax
+
+*(Shortly after the Tower's completion.)* The standing buffer stockpiles established after the Drake Passage
+storm season that once nearly stalled Rothera's own production — sized against that one bad closure rather
+than ordinary seasonal variation — were reassessed for the first time against genuinely current, rather than
+historical, information about Ushuaia route conditions (`Rothera_Full_Extrapolation.md` Section II, Finding
+referenced therein).
+
+The policy itself wasn't abandoned; the buffer against a genuinely severed supply route remained sound
+reasoning regardless of how fast information traveled elsewhere in the country. What changed was smaller and
+more practical — stockpile sizing could now be adjusted against real-time knowledge of actual route conditions
+rather than a single worst-case season from years earlier, letting Rothera hold a leaner, still-safe buffer
+instead of permanently over-provisioning against a storm that might never repeat exactly that way again.
+
+### The Captain's Rule That Reached Other Subnets
+
+*(Shortly after the Tower's completion.)* The informal principle held among Marguerite Bay's own dockworkers —
+that a crew's first delivery to Rothera deserved to come through the Lemaire Channel rather than a faster,
+less scenic route — reached, for the first time, sailors and dispatchers in subnets who'd never had reason to
+hear of Rothera's own maritime folklore at all (`Rothera_Full_Extrapolation.md` Section V).
+
+Nothing formal came of it — no other city adopted Rothera's own principle as policy, and the Channel itself
+remained exactly as inconvenient a detour as it had always been for anyone in a genuine hurry. What changed
+was smaller: for the first time, a piece of purely local Rothera custom, born from one captain's own stubborn
+insistence years earlier, existed as something strangers elsewhere in the country had actually heard of and
+could ask a Rothera-bound crew about by name.
