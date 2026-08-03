@@ -6,7 +6,10 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Rothera_Physical_
 Infrastructure_Attributes.md`'s 10 attributes and its Cross-Referenced Extrapolation Findings, plus
 `Rothera_Full_Extrapolation.md` and `Rothera_Cross_Reference_Synthesis.md`. **Batch 2 of many — target 30, 12
-done as of this batch.**
+done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific city-to-city connection from that file. 18 done as of
+batch 3.**
 
 ---
 
@@ -220,3 +223,96 @@ remained exactly as inconvenient a detour as it had always been for anyone in a 
 was smaller: for the first time, a piece of purely local Rothera custom, born from one captain's own stubborn
 insistence years earlier, existed as something strangers elsewhere in the country had actually heard of and
 could ask a Rothera-bound crew about by name.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Design Question Mirny's Windwrights Finally Got to Ask Directly
+
+Rothera's own decentralized industrial layout and Mirny's own near-identical manufacturing role for the
+Mirny subnet had always been recognized, by anyone comparing the two cities' own established economic
+profiles, as genuine structural twins — a resemblance neither city's own engineers had ever actually discussed
+with the other, since no channel existed for either city's technical staff to simply ask the other how a
+specific design choice had actually been made.
+
+The first direct engineering exchange, held once contact between the two cities became trivial to initiate,
+paired Rothera's own decentralized-siting engineers against Mirny's own Windwright Guildhall specifically to
+compare how each city had independently arrived at spreading its own industrial capacity across a wide
+footprint rather than concentrating it. The comparison surfaced a genuine methodological difference neither
+city had known the other used — Rothera's own siting decisions driven primarily by raw-material location,
+Mirny's own driven primarily by wind-load distribution — two structurally similar cities that had reached
+comparable layouts by two different reasoning paths, confirmed directly for the first time.
+
+### The Vault Records Byrd's Engineers Finally Got to Study
+
+Rothera's own underground vault program, and its plausible influence on Byrd's own early industrial planning,
+had always been a proposed historical connection rather than a confirmed one — nothing in either city's own
+surviving records had ever been directly compared, since no channel existed for Byrd's own engineers to
+actually examine Rothera's own founding-era vault-construction documentation.
+
+The first direct archive request Byrd ever sent to Rothera, asking specifically for early excavation records
+from the vault program's own founding phase, confirmed a genuine methodological overlap between Rothera's
+own founding-era techniques and practices Byrd's own underground chamber-works construction had independently
+developed. Rothera's own archivists, per what's preserved of the exchange, couldn't confirm direct influence
+one way or the other — the records simply didn't specify whether Byrd's own founders had ever actually seen
+Rothera's own documentation. What the exchange did confirm, for the first time, was that the resemblance
+between the two cities' own underground engineering was worth taking seriously as more than coincidence.
+
+### The Wind-Load Comparison Denison Finally Ran Directly
+
+Rothera's own decentralized, wind-load-distributed industrial layout and Denison's own fully-interlinked,
+wind-fused structural design had always been understood, in the abstract, as two different answers to the
+same extreme-katabatic-wind engineering problem — never actually compared side by side, since no channel
+existed for either city's own engineers to run the comparison together.
+
+The first joint technical session between engineers at Rothera and Denison, held once direct contact made it
+possible, walked through both cities' own founding-era wind-engineering decisions in detail — Rothera's own
+choice to distribute structures rather than fuse them, Denison's own choice to fuse everything into one
+continuous, aerodynamically smooth form. Neither city's own engineers left the exchange convinced the other's
+approach was superior. Both, per what's preserved of the session, came away with a considerably clearer
+understanding of exactly why the other city had made the opposite choice — two genuinely different solutions
+to the identical problem, compared directly for the first time in either city's own engineering history.
+
+### The Survival Comparison Only Signy Could Actually Offer
+
+Rothera and Signy — the only two Palmer subnet cities to survive the Long Night War intact or functional at
+meaningfully different scale than their neighbors — had never once compared notes on what had actually let
+each of them come through the war in comparatively better condition, since no channel existed for either
+city's own civic leadership to discuss the comparison directly.
+
+The first direct exchange between civic administrators at the two cities, held once contact became possible,
+walked through each city's own established resilience factor — Rothera's own decentralized industrial siting,
+Signy's own genuine self-sufficient power system — comparing two structurally different reasons for two
+comparably fortunate outcomes. Neither city's own leadership drew any specific new policy from the comparison.
+Both, per what's preserved of the exchange, found some genuine value simply in confirming that the other city
+understood exactly what had been at stake, in a way no city that hadn't faced the same test could fully
+appreciate.
+
+### The Apprentice Exchange Mirny's Guildhall Finally Offered
+
+Following the first direct engineering exchange between Rothera's own siting engineers and Mirny's Windwright
+Guildhall, a specific proposal emerged that had never been possible before: a short-term apprentice exchange,
+sending a handful of trainees from each city's own industrial workforce to study the other's methodology
+directly rather than only through correspondence.
+
+The first apprentices to actually make the trip, per what's preserved of the arrangement, spent a full season
+working alongside their host city's own engineers — Rothera's own trainees learning wind-load calculation
+methods at Mirny's own Guildhall, Mirny's own trainees learning raw-material siting logic at Rothera. The
+exchange wasn't formalized into a standing program immediately. It stands, regardless, as the first time
+either city's own industrial workforce had ever trained directly under the other's own methodology rather than
+developing entirely in isolation.
+
+### The Repair Rothera's Crews Finally Explained to Byrd Directly
+
+A specific piece of decentralized-industrial maintenance practice, developed at Rothera generations earlier
+and only ever documented in internal training material, reached Byrd's own industrial workforce directly for
+the first time once a Byrd maintenance supervisor, working an unrelated structural question, found a reference
+to Rothera's own practice and simply asked about it.
+
+Rothera's own maintenance crews, per what's remembered of the exchange, explained the practice in full —
+genuinely useful technical detail that had never previously left Rothera's own internal training pipeline,
+offered without particular ceremony to a city whose own underground industrial scale made the practice directly
+relevant. Whether Byrd's own crews actually adopted the method isn't part of what Rothera itself preserved.
+The exchange itself, unprompted and unplanned, was the first time Rothera's own internal maintenance knowledge
+had ever reached another city's workforce directly.
