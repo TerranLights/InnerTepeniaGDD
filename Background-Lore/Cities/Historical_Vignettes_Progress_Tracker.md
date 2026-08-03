@@ -84,9 +84,9 @@ three existing per-city folders but tracked as one combined regional total below
 | Kunlun | 12 | 30 | In progress |
 | Vostok | 12 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 12 | — | In progress |
-| Sinheung *(Tri-Cities)* | 6 | — | In progress |
+| Sinheung *(Tri-Cities)* | 12 | — | In progress |
 | Shirayuki *(Tri-Cities)* | 6 | — | In progress |
-| **Tri-Cities combined** | **24** | **75** | **In progress** |
+| **Tri-Cities combined** | **30** | **75** | **In progress** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 318** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 84 + Janbogo subnet 42 +
+50 + 30). **Current: 324** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 90 + Janbogo subnet 42 +
 Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35
