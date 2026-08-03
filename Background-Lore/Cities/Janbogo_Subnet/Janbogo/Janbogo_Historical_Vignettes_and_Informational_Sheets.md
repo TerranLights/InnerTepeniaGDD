@@ -8,7 +8,10 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Begins the Janbogo subnet. Drawn primarily from `Janbogo_Full_Extrapolation.md` (Tier 1), `Janbogo_Physical_
 Infrastructure_Attributes.md` and `Specs/Janbogo.md` (Tier 2), and `Janbogo_Cross_Reference_Synthesis.md`
-(Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
+(Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction,
+is framed around `City_National_Connections.md`: six occurrences that could only have happened once full
+national digital connectivity existed, each grounded in a specific named city-to-city connection from that
+file (Zukelli, Sejong/Sinheung, Mawson, Esperanza, Dumont d'Urville, Byrd). 18 done as of batch 3.**
 
 ---
 
@@ -213,3 +216,88 @@ that had proven the intimate warmth scaled successfully. Whether the inquiring s
 the answer isn't part of what Janbogo itself preserved. What the inquiry confirmed, for the first time, was
 that a design principle born from scaling up one small teahouse had traveled, on its own reputation, far
 enough that strangers elsewhere wanted to learn how it was actually done.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Crossing Schedule Zukelli and Janbogo Finally Planned Together
+
+The pre-war Crossing tradition between Janbogo and Zukelli had always been genuinely informal — visits
+arranged through whatever word-of-mouth or occasional correspondence happened to reach the other city, never
+actually coordinated in advance by either city's own civic administration.
+
+The first jointly planned Crossing calendar, built once direct contact let both cities' own civic offices
+simply agree on a shared schedule of hosting turns for the coming year, gave the tradition a structure it had
+never previously had — not to formalize the spontaneity out of it, but to make sure the tradition's own
+generosity didn't accidentally overload either city's own hosting capacity in a single season. The informal
+warmth of individual visits stayed exactly as unplanned as it always had been. Only the underlying calendar,
+for the first time, was actually coordinated rather than left to chance.
+
+### The Question Sejong's Delegates Asked Before the Gathering House Session
+
+Ahead of the first Gathering House session including Sejong's own delegates, Janbogo's own hosts reached out
+directly to ask what kind of hospitality Sejong's own dozen-community coexistence experience might find
+genuinely useful to discuss, rather than simply extending a generic invitation the way Janbogo's own
+hospitality tradition might otherwise have defaulted to.
+
+Sejong's own delegates, per what's preserved of the exchange, appreciated being asked in advance — a small,
+specific courtesy that let them prepare genuine, substantive contributions rather than arriving to represent
+their own city in the abstract. The gathering itself proceeded exactly as every other Gathering House evening
+always had. The advance planning, made possible only because a direct question could actually be asked and
+answered before the visit itself, was the genuinely new part.
+
+### The Hospitality Comparison Mawson Finally Got to Run With a Genuine Peer
+
+Janbogo's own hospitality-and-synthesis civic identity and Mawson's own honeymoon-destination tourism economy,
+already recognized as Tepenia's two deliberately hospitality-forward civic identities, produced their first
+direct comparison once Mawson's own hospitality administrators reached out specifically to understand how
+Janbogo's own transit-focused welcome differed from Mawson's own destination-focused version.
+
+Janbogo's own civic hosts, per what's preserved of the exchange, explained the distinction plainly — Janbogo's
+own hospitality built around making people feel at home passing through, Mawson's own built around making
+people feel deliberately, memorably welcomed for an extended stay. Neither city adjusted its own approach.
+Both, per what's recalled of the exchange, found genuine professional value in finally understanding exactly
+how two comparable civic instincts had developed toward two different purposes.
+
+### The Redistribution Records Esperanza and Janbogo Finally Compared in Full
+
+Following the first direct exchange between Esperanza's and Janbogo's own civic administrators about the
+shared population redistribution that had enlarged Lazar, a more detailed follow-up comparison examined
+exactly which specific districts or population segments each city had lost, rather than only the aggregate
+totals both administrations had already confirmed matched in strategy.
+
+The detailed comparison, run once sustained contact made a genuine data-sharing relationship possible, revealed
+a further coincidence neither city had previously noticed — both reductions had disproportionately drawn from
+newer, less-established residential districts rather than founding-era neighborhoods, an administrative
+pattern neither city's own planners had deliberately chosen but that both had apparently followed anyway. The
+finding didn't change either city's own current governance. It gave both administrations a genuinely new,
+shared data point about how the original redistribution had actually been implemented.
+
+### The Halls' Own Design Reaching Dumont d'Urville Directly
+
+Following the redistribution-linked demographic connection between Janbogo and Dumont d'Urville, a separate,
+unrelated inquiry reached Janbogo's own civic architects: whether the great shielded commercial halls' own
+scaled-up teahouse design principle might translate to Dumont d'Urville's own downtown live-music venue
+culture.
+
+Janbogo's own architects, per what's preserved of the exchange, found the question genuinely interesting —
+two civic hospitality traditions, one built around large-scale sheltered warmth, one around dense, informal
+music venues, comparing notes for the first time on what actually made a space feel welcoming at scale.
+Whether Dumont d'Urville incorporated anything from the exchange isn't preserved. The conversation itself,
+crossing two genuinely different hospitality traditions within the same subnet, was the first of its kind
+either city had ever had.
+
+### The Population Study That Finally Explained Byrd's Own Kinship
+
+Following the established fact that Byrd's own population profile matched the Pacific-facing Janbogo/Mirny/
+Mawson demographic shape more closely than Palmer subnet's own, Janbogo's own civic demographers undertook the
+first genuine joint study with Byrd's own records office to understand exactly how deep that kinship actually
+ran.
+
+The study, conducted once direct contact let both cities' own demographic records be compared directly rather
+than inferred from published Census tiers alone, confirmed the population-vs-geography tension in genuine
+detail — specific national-origin patterns in Byrd's own founding population that matched Janbogo's own
+Pacific-facing composition down to individual nation shares, not merely the broad regional resemblance already
+known. Neither city's own governance changed as a result. Both, for the first time, had documented confirmation
+of exactly how strong the demographic kinship the two cities had never directly acted on actually was.
