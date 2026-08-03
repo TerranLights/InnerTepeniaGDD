@@ -8,7 +8,10 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Vostok_Full_Extrapolation.md` (Tier 1), `Vostok_Physical_Infrastructure_Attributes.md`
 and `Specs/Vostok.md` (Tier 2), and `Vostok_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
-target 30, 12 done as of this batch.**
+target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Byrd, Mirny,
+Signy, Kunlun) distinct from batch 2's own entries. 18 done as of batch 3.**
 
 ---
 
@@ -226,3 +229,89 @@ they'd always treated Kunlun's own requests — supplying what was asked for, wi
 same working culture that had never distinguished between a request worth taking seriously and one worth
 brushing off. What changed wasn't Vostok's own approach to the work. It was simply that, for the first time,
 more of the country than one other outpost had any reason to ask for it.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The First Live Look Byrd's Own Lake Keepers Ever Got
+
+Vostok's own genetics program, having transplanted and cultivated the bioluminescent ecosystem now bordering
+Byrd, had never once received any direct report on how the transplanted lake was actually doing once
+established — the whole project having concluded, from Vostok's own end, the moment the transplant itself
+succeeded.
+
+The first live update Vostok's own researchers ever received from Byrd's own lake-maintenance staff, sent
+once direct contact made the follow-up possible, described the ecosystem's own condition generations after
+the original transplant — thriving, per what's preserved of the report, in ways the original team hadn't
+been able to confirm from a distance. Vostok's own researchers, per what's remembered of the reaction, found
+the update genuinely moving in a way the original technical achievement alone hadn't quite been — proof, for
+the first time, that something Vostok's own scientists had built and then simply released into another
+city's care had actually continued thriving without them.
+
+### The Redundancy Question Vostok Finally Asked Mirny Directly
+
+Vostok's own dependency on Mirny's own Relay Hardware Vaults, the single point of failure connecting all five
+Mirny subnet cities at once, had never produced a direct conversation between Vostok's own research staff and
+the Vaults' own maintenance crew — despite Vostok being, alongside Kunlun, among the cities most acutely aware
+of what genuine isolation actually meant.
+
+The first direct exchange, held once contact became trivial, let Vostok's own staff ask Mirny's technicians
+plainly what would actually happen to Vostok's own connectivity if the Vaults ever failed completely. Mirny's
+own technicians answered honestly — total loss of contact with the rest of the subnet, the same
+single-point-of-failure risk Marchenko had once fought unsuccessfully to fully eliminate. Vostok's own
+researchers, per what's recalled of the response, found the honest answer sobering but appreciated receiving
+it plainly rather than reassured falsely.
+
+### The Wind Data Signy Never Explained, and Vostok Never Needed Explained
+
+Following Vostok's own unexplained request for Signy's turbine-siting wind data, a second, follow-up exchange
+came once Signy's own engineers, curious what the data had actually been used for, asked Vostok directly for
+the first time.
+
+Vostok's own researchers, per what's preserved of the response, explained plainly: the wind data had helped
+model exposure conditions for a cold-tolerant organism variant under consideration for a project Vostok's own
+records don't specify further. Signy's own engineers accepted the explanation without pressing further — the
+same practical, non-judgmental exchange that had defined the original request. Neither city's own work
+changed as a result of the follow-up. The exchange simply closed a small, mutual curiosity neither city had
+previously had a channel to satisfy.
+
+### The Letter Two Loneliest Outposts Finally Exchanged for No Reason at All
+
+Vostok's and Kunlun's own established relationship — infrastructure-sharing, genuine but built entirely
+around practical need — produced, for the first time, a piece of correspondence with no technical purpose at
+all: a researcher at Vostok, using the same connection that had always carried equipment requests and
+modeling data, sent a message to a Kunlun counterpart simply describing an unusually striking aurora display
+witnessed the previous night.
+
+The Kunlun researcher, per what's preserved of the reply, responded in kind — a comparable description of a
+recent stillness observed during a Kunlun devotional gathering. Neither message requested anything or
+resolved any outstanding technical question. The exchange marked, for the first time in the relationship's
+own working history, contact between the two loneliest outposts in Tepenia that existed purely because two
+people in comparably isolated places had something to say to each other, not because either needed something
+from the other.
+
+### The Archive Fragment That Finally Reached the City It Was About
+
+A fragment of Voskresenskaya's own founding-era cataloguing notes, describing early observations of
+Lake Vostok's own ecosystem that later proved relevant to Byrd's own lake transplant decades afterward, was
+sent directly to Byrd's own research staff for the first time once a Vostok archivist, cross-referencing old
+records for an unrelated purpose, recognized the connection and simply forwarded it.
+
+Byrd's own researchers, per what's preserved of receiving it, hadn't previously known the specific founding-
+era observation existed at all — a small, genuinely useful piece of documentary history that had sat in
+Vostok's own archive for generations without any occasion to travel to the one city it was actually most
+relevant to. The fragment didn't change how Byrd's own lake was managed. It gave Byrd's own research staff a
+small, concrete piece of the ecosystem's own deeper history they'd never had access to before.
+
+### The Modeling Request That Finally Explained Vostok's Own Reach
+
+Word of Vostok's own cold-tolerant biological research reaching beyond Kunlun to Signy's own power-system
+consultation prompted a specific follow-up question from Byrd's own engineering staff, curious whether
+Vostok's own modeling capacity might help with an unrelated cold-engineering problem of Byrd's own.
+
+Vostok's own researchers, per what's preserved of the response, took on the request the same way they'd
+taken on every other — plainly, without treating Byrd's own lack of any prior technical relationship with
+Vostok as a reason for hesitation. The specific problem Byrd was working on isn't preserved in detail. The
+willingness to help, extended without ceremony to a city Vostok's own research program had only ever
+previously related to through the lake transplant, was itself the genuinely new thing.
