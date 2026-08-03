@@ -7,8 +7,11 @@ plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuin
 rather than a restated attribute. No entry below depends on any other; none are required to be chronological.
 Drawn primarily from `Signy_Full_Extrapolation.md` (Tier 1), `Signy_Physical_Infrastructure_Attributes.md`
 and `Specs/Signy.md` (Tier 2), and `Signy_Cross_Reference_Synthesis.md` (Tier 3). Signy is the only Palmer
-subnet city that survived the Long Night War fully intact. **Batch 2 of many — target 30, 12 done as of this
-batch.**
+subnet city that survived the Long Night War fully intact. **Batch 2 of many — target 30, 12 done as of that
+batch. Batch 3, per direct developer instruction, is framed around `City_National_Connections.md`: six
+occurrences that could only have happened once full national digital connectivity existed, each grounded in
+a specific named city-to-city connection from that file (Kunlun, Vostok, Princess Elisabeth, Rothera, Scott)
+and distinct from batch 2's own "Delegation That Came to Study the Turbines" entry. 18 done as of batch 3.**
 
 ---
 
@@ -210,3 +213,93 @@ to disbelief — a task that had always demanded real effort, patience, and ofte
 requiring none of those things at all. Signy's own radio infrastructure wasn't retired or replaced; the older,
 harder-won connection remained exactly as reliable, and exactly as difficult, as it had always been. What
 changed was that, for the first time, difficulty was a choice rather than the only option Signy actually had.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Return Visit Kunlun's Own Engineers Finally Made
+
+Following the original delegation that had come to study Signy's own turbine siting before the Tower's
+completion, Signy's own engineers had never once had the chance to visit Kunlun or Vostok in return — the
+original exchange had been entirely one-directional, Kunlun's own team traveling to Signy, with no channel
+existing for the relationship to run the other way.
+
+The first Signy engineer to actually make the trip to Kunlun, once direct contact made arranging the visit
+straightforward, spent several days examining Kunlun's own observatory-adjacent power infrastructure
+firsthand — a reversal of the original exchange that let Signy's own team see, for the first time, exactly
+what kind of extreme-condition engineering their own turbine-siting principles had actually gone on to
+inform. The visit produced no dramatic new insight for Signy's own power system. It closed a genuine gap in
+the relationship, turning a one-directional consultation into something closer to an actual exchange between
+peers.
+
+### The Wind Data Vostok Requested for a Reason Signy Never Learned
+
+Vostok's own cold-tolerant biological research, already reaching Kunlun's extreme-environment engineering
+directly, extended for the first time to a request sent straight to Signy — a genuine outlier, since Vostok's
+own research interests had never previously had any obvious connection to Signy's own established wind-and-
+hydro power system at all.
+
+The request, per what's preserved of the exchange, asked for detailed wind-pattern data from Signy's own
+turbine-siting survey work, without explaining exactly why an interior genetics research station wanted
+coastal wind data from the mildest climate in the Palmer subnet. Signy's own engineers supplied it anyway, the
+same practical instinct that governed most of the city's own outside correspondence. What Vostok actually
+needed the data for was never explained, and Signy's own staff, per what's recalled of the exchange, didn't
+particularly need it explained to consider the request worth answering in full.
+
+### The Turbine Survey Princess Elisabeth Finally Got to Compare
+
+Princess Elisabeth's own founding zero-emissions engineering and Signy's own genuinely self-sufficient
+wind-and-hydro system, developed in complete isolation from each other for generations, were compared
+directly for the first time once Princess Elisabeth's own Maintenance Corps reached out following its own
+recent consultation with Signy-adjacent Tower-era planners.
+
+The exchange, focused specifically on turbine-siting methodology, confirmed that both cities had independently
+learned the identical hard lesson — that steadier, more predictable wind flow beat peak theoretical output
+every time, each city having arrived at the principle through its own founding-era near-miss rather than
+either learning it from the other. Signy's own engineers, per what's preserved of the exchange, found the
+confirmation genuinely satisfying — proof that two cities that had never spoken to each other before that
+specific exchange had nonetheless solved the same problem exactly the same way.
+
+### The Comparison Rothera Finally Ran With the Other Survivor
+
+Rothera and Signy — the only two Palmer subnet cities to come through the Long Night War intact or
+functional at meaningfully different scale than their neighbors — held their own first direct comparison of
+what had actually let each of them survive in comparatively better condition, once contact between the two
+cities' own civic leadership became possible.
+
+The exchange, per what's preserved of it, walked through Rothera's own decentralized industrial siting
+against Signy's own genuinely self-sufficient power system — two structurally unrelated resilience factors
+that had each, independently, helped their own city through the same historical test. Neither city changed
+anything about how it currently operated. Both, per what's recalled of the conversation, found genuine value
+simply in confirming that the other understood exactly what surviving relatively intact had actually meant, in
+a way no untested city could fully appreciate.
+
+### The Quiet-City Correspondence Scott Started First
+
+Scott and Signy — both established as the smaller, quieter city in a subnet otherwise defined by a louder
+neighbor — held their first direct correspondence once Scott's own civic administrators, having recently
+reflected on their own comfortable distance from Fort McMurdo's new capital-status obligations, reached out to
+ask whether Signy felt anything comparable relative to the rest of the Palmer subnet's own attention.
+
+Signy's own administrators, per what's preserved of the reply, confirmed the resonance directly — a genuine,
+if never previously articulated, shared experience of being the calmer, less-discussed city in a subnet whose
+own attention gravitated elsewhere. Neither city's own civic character changed as a result. The correspondence
+itself, unprompted and entirely informal, was the first time either city had ever had another Tepenian
+settlement confirm it understood that specific, quiet position from genuine first-hand experience rather than
+outside observation.
+
+### The Engineering Question Kunlun Sent Back a Full Season Later
+
+A specific technical question left unresolved during the original Kunlun-Vostok energy-regulation consultation
+— a detail about long-term turbine-blade wear under sustained load that neither Signy's own engineers nor the
+visiting delegation had been able to fully answer at the time — finally got its answer once Kunlun's own
+research staff, working the question independently over an intervening season, sent the completed analysis
+back to Signy directly.
+
+Signy's own engineers, per what's remembered of receiving the answer, hadn't expected a follow-up at all — the
+original consultation had felt, at the time, like a closed exchange rather than an open question anyone was
+still working on. The completed analysis, arriving unprompted through a channel that simply hadn't existed
+when the original question was first left unresolved, confirmed a specific maintenance-interval adjustment
+Signy's own turbine crews adopted afterward — proof that a connection formed once didn't have to end the
+moment the original visit itself concluded.
