@@ -5,8 +5,8 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Marambio_Physical_
 Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Marambio_Full_Extrapolation.md` and `Marambio_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30,
-6 done as of this batch.**
+`Marambio_Full_Extrapolation.md` and `Marambio_Cross_Reference_Synthesis.md`. **Batch 2 of many — target 30,
+12 done as of this batch.**
 
 ---
 
@@ -126,3 +126,96 @@ than relying on bulk to simply outlast it. Every subsequent structure built on S
 Shipyards' own facilities, inherited that corrected discipline — a founding-era construction failure that
 became, within a single rebuild, the standard every later builder on the island worked from without needing
 to relearn the lesson themselves.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Handoff Coordinators Trained For Without Knowing It
+
+*(Shortly before the Tower's completion.)* Marambio's own dual-mode coordination discipline — dockside-to-
+airfield handoffs compressed into narrow windows, the same skill that had made the "never touched the ground"
+delivery the model case coordinators still trained new hires against — was called on once more, late in the
+Tower's construction, for a shipment nobody explained the urgency of but everyone treated as genuinely
+consequential (`Marambio_Full_Extrapolation.md` Section VI; Physical Infrastructure Attribute #5).
+
+Component cargo arrived at the Shipyards by ship with a connecting flight window nearly as tight as the
+original model case, and coordinators, per what's remembered of it, ran the same compressed handoff — paperwork,
+inspection, and loading collapsed into one continuous motion between dockworkers and ground crew — without
+needing to be told this shipment mattered more than most. Nobody working the handoff learned where the cargo
+was ultimately headed. What they recognized was simpler: a shipment moving with exactly the urgency Fariña's
+own written procedures had always been built to handle, whether or not anyone explained why.
+
+### The Causeway That Carried More Than Hwy 1 Was Built For
+
+*(Shortly before the Tower's completion.)* The Picnic Passage causeway chain, carrying Hwy 1 traffic onto
+Seymour Island, absorbed a stretch of unusually heavy convoy loading late in the Tower's construction —
+component and material transport routed overland through Marambio's own dual-mode receiving point rather than
+by sea alone (`Marambio_Full_Extrapolation.md` Section II).
+
+Engineers responsible for the causeway's own upkeep, per what's recalled of the period, flagged the sustained
+heavy loading as worth monitoring rather than immediately alarming — the structure had never been stress-tested
+against traffic quite this consistent before, though nothing in its own condition afterward suggested it had
+been pushed anywhere near a genuine limit. The causeway held, as it had always held, carrying weight its
+founding-era builders had never specifically designed around simply because nothing about Marambio's own
+infrastructure discipline had ever assumed the load would stay light forever.
+
+### The Flight Log That Stopped Listing Destinations
+
+*(Shortly before the Tower's completion.)* Marambio Airfield, already established as the subnet's genuine
+connective node during the earlier coordinated resupply effort, began logging a distinct new pattern of
+traffic late in the Tower's construction — flights whose destinations, per standing instruction from whoever
+was coordinating them, simply weren't recorded in the ordinary manifest the way every other flight's was
+(`Marambio_Full_Extrapolation.md` Section VII).
+
+Ground crews, per what's remembered of handling the traffic, found the omission unusual but not disruptive —
+Marambio's own operational discipline had never actually required knowing a flight's destination to service it
+correctly, only its fueling and handling requirements, which were provided in full regardless. The unlisted
+flights came and went without incident, one more example, crews noted afterward, of the airfield's own
+established fact holding true even here: every route in the subnet still ran through Marambio, whether or not
+Marambio itself was ever told exactly where any given route actually ended.
+
+### The Manifest That Confirmed Itself
+
+*(Shortly after the Tower's completion.)* Shipping manifests between the Shipyards and their own receiving
+partners across other subnets — previously confirmed only once a physical copy or a relayed message actually
+completed its own transit — began confirming the moment they were filed, coordinators watching acknowledgment
+arrive from ports days of ordinary transit away as though the receiving dock were standing right beside them
+(`Marambio_Full_Extrapolation.md` Section VI).
+
+The change registered immediately in how Marambio's own dockside coordinators worked — the careful buffer
+built into every schedule to account for confirmation delay simply stopped being necessary, freeing up
+planning margin coordinators had spent generations learning to protect rather than spend. Several veterans, per
+informal accounts, found the sudden certainty faintly unsettling at first — a career spent managing uncertainty
+in transit now managing almost none of it — before conceding the change was, on balance, exactly the kind of
+efficiency gain a dual-mode logistics hub like Marambio had always been built to make use of.
+
+### The Founders' Flight Broadcast Nobody at Marambio Requested
+
+*(Shortly after the Tower's completion.)* The Founders' Flight observance — Marambio's own aviation-focused
+commemoration of the founding generation's arrival onto Seymour Island — was carried, without any specific
+request from Marambio's own civic institutions, to other subnets now connected through the newly unified relay,
+alongside similar founding observances from cities across the country (`Marambio_Full_Extrapolation.md` Section
+IV).
+
+Marambio's own descendants marking the observance that particular year did so with an audience they hadn't
+anticipated and hadn't asked for — a strange sensation, per what's recalled of the reaction, for a holiday
+that had always been observed as a purely local recognition of continuity rather than a performance for anyone
+outside the city. Nothing about the observance itself changed to accommodate the wider audience. What changed
+was simply that, for the first time, people elsewhere in the country now knew Marambio's own founding story
+existed at all.
+
+### The Subnet That Asked Marambio How Dual-Mode Actually Worked
+
+*(Shortly after the Tower's completion.)* A logistics coordinator from a distant subnet, newly able to reach
+Marambio directly rather than through relayed, delayed correspondence, sent the first genuine outside inquiry
+into how the airfield-and-shipyard coordination discipline actually functioned in practice — the same
+discipline Fariña had insisted on documenting in writing generations before anyone outside Marambio had reason
+to ask about it (`Marambio_Full_Extrapolation.md` Section V).
+
+Marambio's own coordinators, per what's remembered of the exchange, answered plainly rather than treating the
+inquiry as anything requiring special handling — the written procedures had always existed to be used, not
+guarded, and there was no particular reason a distant subnet's own dual-mode ambitions should be denied the
+same documented discipline that had let Marambio's own exile generation re-derive Fariña's methods without
+ever having met him. Nothing came of the exchange immediately. It stands, regardless, as the first recorded
+instance of another subnet asking Marambio directly for something Marambio had always simply been.
