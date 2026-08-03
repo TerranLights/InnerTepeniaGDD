@@ -5,7 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Neumayer_Physical_
 Infrastructure_Attributes.md`'s 11 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Neumayer_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
+`Neumayer_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's
+own completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
+after — once the whole country was connected through the Tower's single relay node for the first time. The
+Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+batch.**
 
 ---
 
@@ -132,3 +136,117 @@ backup was, by the responsible technician's own description, almost anticlimacti
 verification pass, the gap in the unbroken record closed before most of the city ever had reason to know a
 gap had briefly existed at all. The corruption is barely remembered outside the archival office itself; the
 redundancy that quietly fixed it is the entire reason there was nothing left to remember.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Site Visit No One Wrote a Report About
+
+*(Shortly before the Tower's completion.)* Osei-Falkenberg's own schematics had shipped south years earlier,
+but Neumayer's precision-engineering expertise was called on again during the Tower's own final construction
+phase — a specific, on-site consultation distinct from the original design work itself.
+
+A small team of Neumayer structural engineers, per what's preserved of the era's own institutional record,
+traveled to the construction site directly to address a load-calculation discrepancy that had emerged between
+the original schematics and the as-built structure's own actual measured tolerances — the kind of gap that
+opens up on any project this scale between paper design and physical construction. The team resolved the
+discrepancy over several days on-site, a genuine, hands-on contribution beyond the original design work
+Neumayer had already been credited with losing. Consistent with everything already established about the
+city's own "designs, doesn't build, doesn't get credited" civic pattern, no formal record of the visit
+survives in the Tower's own construction documentation — the team's own report, filed internally at Neumayer
+rather than with the wider project, is the only surviving account of the trip ever having happened at all.
+
+---
+
+## The Argument the Institute Chose Not to Have
+
+*(Shortly before the Tower's completion.)* As word spread that the Tower's own completion was genuinely
+imminent, a proposal circulated within the Alfred Wegener Institute to formally document and publicize
+Neumayer's own central role in the project — breaking, for once, the pattern of uncredited design work Finding
+A and Finding H already establish as routine.
+
+The proposal, per what's preserved of the internal debate, argued the Tower's own unprecedented national
+significance made this the moment worth breaking precedent for — a structure this consequential deserved its
+actual designers named, regardless of how every prior Neumayer project had been handled. The Institute's own
+leadership, per what's remembered of the discussion, declined to pursue it, citing the same reasoning Section
+VIII of the Full Extrapolation later formalized — that the city's own instinct was to maintain complete
+internal documentation and let that completeness itself be the answer to the unfairness, rather than campaign
+publicly for outside recognition. The decision not to claim credit, even for a project this significant, was
+made deliberately rather than by default — a choice, not simply an old habit nobody thought to question.
+
+---
+
+## The Weather Report the Tower's Own Engineers Needed
+
+*(Shortly before the Tower's completion.)* The Ice Shelf Observatory's own atmospheric and glaciological
+monitoring, ordinarily concerned with Neumayer's own local conditions, was drawn into the Tower's final
+construction phase directly when the project's own engineers required detailed regional weather-pattern data
+they had no equivalent source for themselves.
+
+The specific request, per what's preserved of the exchange, asked for the Observatory's own long-term data on
+severe atmospheric conditions across the wider region — information relevant to the Tower's own structural
+tolerances that the construction site's own more localized monitoring couldn't provide with comparable depth.
+Observatory staff, per what's remembered of the response, treated the request as simply more of the same
+routine, unglamorous data work Finding E already establishes as the city's own defining relationship to its
+own environment — logged, compiled, and transmitted without any particular sense of occasion, the same way
+any other data request would have been handled. The specific data provided isn't preserved in detail, but the
+request itself is remembered as one more instance of the Tower's own construction quietly depending on
+expertise nobody outside Neumayer thought to publicly credit.
+
+---
+
+## The Backup That Suddenly Had Somewhere Else to Go
+
+*(Shortly after the Tower's completion.)* Neumayer's own redundant, off-site-transmitted archival
+infrastructure — already established civic practice well before the Tower's completion — gained a genuinely
+new transmission option once the completed relay connected every subnet at once.
+
+The archival staff responsible for the redundancy, per what's preserved of the transition period, evaluated
+whether the newly available nationwide relay offered a more resilient transmission destination than whatever
+more limited routing the archive's backups had relied on previously — a genuine technical question, not an
+automatic switch. The evaluation concluded the existing redundancy arrangement was already sound enough that
+changing it purely because a new option existed wasn't worth the risk of introducing new failure modes into a
+system with a century of documented reliability behind it. The archive's own redundancy stayed exactly as it
+was, a decision made deliberately rather than out of inertia — one more instance of Neumayer's own precision-
+first culture treating "new" and "better" as genuinely separate questions, even with the whole country's
+communication infrastructure changing all at once around it.
+
+---
+
+## The Recipe That Arrived From a City No One Had Heard Of
+
+*(Shortly after the Tower's completion.)* Neumayer's own precisely calibrated glitch-coolant culture, defended
+for generations against the looser, feel-and-taste brewing tradition more common elsewhere in Tepenia, faced
+a genuinely new kind of contact once the completed relay let word of distant cities' own coolant traditions
+reach Neumayer for the first time.
+
+A detailed brewing method, transmitted through the new relay from a city Neumayer's own After-Hours brewers
+had never previously had any contact with, described a coolant variant calibrated with a precision the local
+brewing community found genuinely impressive — proof, unexpected and immediate, that Neumayer's own exact-
+specification standard wasn't unique in Tepenia the way local pride sometimes assumed. One brewer, per what's
+preserved of the response, attempted the transmitted recipe directly rather than dismissing it, producing a
+batch regulars judged genuinely distinct from anything Neumayer's own established variants offered. The recipe
+was adopted as a standing addition to at least one venue's own rotation — a small, concrete instance of the
+new connectivity actually changing local practice, not merely making distant places newly visible.
+
+---
+
+## The Credit Neumayer Still Didn't Take
+
+*(Shortly after the Tower's completion.)* Once the Tower was operating and its national significance became
+undeniable to every city it now connected, Neumayer's own role in designing it became, briefly, a subject of
+renewed outside curiosity — inquiries arriving through the new relay from residents of distant cities wanting
+to know who had actually engineered the structure now connecting them to the rest of the country.
+
+The Institute's own communications staff, per what's preserved of the period, responded to these inquiries
+with factually accurate but genuinely understated answers — confirming Neumayer's own design role when
+directly asked, without volunteering the fuller account of exactly how central that role had actually been.
+Several inquiring residents, per what's remembered of the exchanges, expressed genuine surprise that a city
+this consequential to the Tower's existence wasn't more actively claiming credit for it. Neumayer's own
+response to that surprise, per what's established about the city's own civic character, was consistent
+with everything already true about it — the completed documentation existed, available to anyone who actually
+looked, and that was considered sufficient regardless of how many new people, now connected for the first
+time, might have thought otherwise.

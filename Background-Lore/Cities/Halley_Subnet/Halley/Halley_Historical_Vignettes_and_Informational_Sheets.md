@@ -5,7 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Halley_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Halley_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
+`Halley_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's
+own completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
+after — once the whole country was connected through the Tower's single relay node for the first time. The
+Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+batch.**
 
 ---
 
@@ -139,3 +143,115 @@ the disagreement, and were refused each time on the same technical grounds. The 
 for generations without a single documented cable failure — a reliability record the crew's own insistence on
 the slower method is directly credited with, long before anyone had reason to test what would happen if the
 corridor's own far end ever stopped answering.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Consultation Amundsen Station Actually Asked For
+
+*(Shortly before the Tower's completion.)* Hwy 59's own cable corridor to Amundsen Station had, by this point,
+run for generations without a single documented cable failure — a reliability record specific enough that
+Tower construction crews, finishing the relay infrastructure's own final integration work, sought out Halley's
+own cable engineers directly rather than relying solely on their own construction team's expertise.
+
+The consultation request, per what's preserved of the exchange, asked specifically about the redundant-routing
+and protective-conduit methods Halley's own founding-era crew had insisted on generations earlier — techniques
+the Tower's own engineers wanted to apply to the vastly higher-stakes, continent-spanning relay lines the
+completed Tower would depend on. Halley's own cable engineers, per what's remembered of the response, treated
+the request with genuine pride rather than routine professional courtesy — a founding-era decision, once
+argued over internally against pressure for a faster timeline, now being sought out as a model for
+infrastructure the whole country would soon depend on. The specific technical guidance Halley provided isn't
+preserved in detail, but the consultation itself is remembered locally as confirmation that the slower,
+more careful method had been worth defending all along.
+
+---
+
+## The Vote to Keep the Nexus Given Away
+
+*(Shortly before the Tower's completion.)* Word that a single, continent-spanning Arcanet relay was nearing
+completion reached Halley while the city's own founding-era decision to trade away the Mirny subnet's
+technical nexus to Sanay was still, occasionally, second-guessed by residents who'd never fully accepted it.
+
+A specific civic proposal, raised as the Tower's own completion drew closer, argued Halley should petition to
+reclaim some form of technical hub status now, reasoning that a new national relay era was exactly the moment
+to renegotiate old civic trades before they hardened permanently into whatever came next. The proposal was
+debated and ultimately rejected, per what's preserved of the discussion — residents citing the same civic
+instinct that made the original trade in the first place, that Halley's own identity was never built around
+holding technical infrastructure for its own sake. The vote to leave the old arrangement exactly as it stood,
+even with a genuinely new national system approaching, became one more confirmation of the same pattern
+Finding 1 already identifies — Halley trading concrete control for something less tangible, this time by
+choosing not to reclaim it even when a fresh opportunity to do so appeared.
+
+---
+
+## The Skeptic Who Turned Out to Be Half Right
+
+*(Shortly before the Tower's completion.)* News of the approaching Tower project reached Halley in fragments
+— official updates, secondhand reports, and considerable rumor — well before the Atlantic subnet's own
+isolated communication situation would actually change.
+
+One longtime resident, per what's preserved of the period's own civic mood, argued publicly and repeatedly
+that the promised unification was overstated — a single relay point, she argued, was still a single point of
+failure, and Halley's own hard-won lessons about redundancy should make residents skeptical of trusting the
+whole country's communication to one structure rather than celebrating it uncritically. Her own skepticism was
+generally dismissed at the time as excessive caution from a city that had, admittedly, built its entire
+civic character around exactly this kind of wariness. Nothing in what's preserved of the period suggests she
+was taken especially seriously before the Tower's completion — her specific warning is remembered now mostly
+because of how precisely it anticipated a vulnerability the completed system would, eventually, prove to
+genuinely have.
+
+---
+
+## The First Word From a Subnet Halley Had Never Spoken To
+
+*(Shortly after the Tower's completion.)* Once the Tower's single relay connected every subnet at once, Hwy
+59's own cable corridor carried traffic to and from parts of Tepenia Halley had never had any direct contact
+with at all — not just Amundsen Station, its own single established destination for generations.
+
+The first confirmed message routed through Halley's own corridor from a genuinely distant subnet, per what's
+preserved of the occasion, arrived addressed generically to "the Atlantic coast" rather than to Halley
+specifically — the sender, per what's remembered of the exchange, hadn't previously known Halley existed as a
+distinct city at all, only that some settlement occupied this stretch of coast. Halley's own communications
+staff, per the account passed down since, found the message's own generic address almost amusing rather than
+insulting — proof, concrete and immediate, of exactly how isolated the pre-Tower communication structure had
+actually kept cities from each other, even ones now connected by the same single system in an instant.
+
+---
+
+## The Request From Vostok That Nobody Expected
+
+*(Shortly after the Tower's completion.)* Halley's own informal ice-reading tradition — reading surface
+texture, sound, and light to judge shipping-passage conditions — had, before the Tower, never been of any
+conceivable interest outside the Halley subnet's own overland resupply planning.
+
+A formal inquiry, arriving through the newly completed relay from a research team at Vostok, requested
+detailed methodology from Halley's own most respected ice-readers — the distant researchers, per what's
+preserved of the exchange, working on an entirely unrelated extreme-cold monitoring problem, had learned of
+Halley's own established skill only because the new connectivity let word of it travel somewhere it never
+could have reached before. Halley's ice-readers, per what's remembered of the response, were genuinely
+uncertain at first whether their own informal, personally-earned expertise translated into anything a formal
+research inquiry from the opposite end of the continent could actually use. The exchange that followed became
+one of the earliest confirmed instances, within Halley's own civic memory, of the new relay connecting people
+neither side had any prior reason to expect would ever be in contact at all.
+
+---
+
+## The Corridor Tested at a Scale It Was Never Built For
+
+*(Shortly after the Tower's completion.)* Hwy 59's cable corridor, built and defended by its own founding-era
+crew against a faster, less rigorous construction method, faced a genuine capacity test almost immediately
+once the completed Tower routed nationwide traffic through connections that had never carried anything beyond
+Atlantic-subnet-to-Amundsen-Station volume before.
+
+Traffic through the corridor, per what's preserved of the transition period, spiked to a volume its own
+founding-era engineers had never specifically designed for — the redundant routing and protective conduit
+built to survive katabatic and structural stress held up under the new load, but the older switching
+infrastructure at the Halley end required a genuine, unplanned capacity upgrade within the Tower's own first
+operational months. Engineers working the upgrade, per what's remembered of the effort, found themselves
+grateful for the same founding-era overbuilding discipline that had once seemed like excessive caution —
+infrastructure built more robustly than its own original purpose strictly required turned out to have real
+headroom exactly when the corridor's own function changed overnight from a single dedicated link into one
+thread in the whole country's own newly unified network.

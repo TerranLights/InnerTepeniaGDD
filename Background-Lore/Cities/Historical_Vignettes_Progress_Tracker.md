@@ -132,8 +132,19 @@ Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 outer cities, the Tri-Cities region, and Amundsen-Scott Station have completed batch 1 under the finalized
 methodology (`Historical_Vignettes_Synthesis_Method.md`: genuine pre-war occurrences, Full Extrapolation as
 primary source, strictly no post-war content). Abowasa is the one exception — paused per its own flagged
-founding-nation bug, not yet resolved. **Per direct developer instruction, stopping here for a separate
-discussion before continuing toward the 12-entry milestone.**
+founding-nation bug, not yet resolved.
+
+**2026-08-03 — Batch 2 framing, developer-directed: the Amundsen Tower's completion as a temporal anchor.**
+Every city's batch 2 (this round) gets exactly 6 new entries split into two halves: **3 shortly before** the
+Amundsen Tower's completion (late in its construction, country not yet unified by one relay) and **3 shortly
+after** (once the whole country was connected through the single Tower relay node for the first time) — each
+grounded in that specific city's own established constraints and daily struggles, not generic filler. The
+Tower's own exact completion date stays deliberately unpinned in prose ("shortly before/after," not a
+specific year) since `Timeline.md` still carries two open candidate dates (~2629–2639 vs. ~June 2688) —
+this keeps every entry consistent regardless of which date is eventually settled. Applies to all 35 outer
+cities + Tri-Cities + Byrd (its own 3rd batch) — **except Amundsen Station itself**, whose own before/after
+entries are framed around the Tower's actual construction completion and first activation directly, not a
+downstream "receiving city" angle. Abowasa stays paused/excluded until its founding-nation fix lands.
 
 **Confirmed rotation mechanic, 2026-08-02:** cycle through every city in a subnet doing one 6-entry batch
 each, then loop back around for each city's next batch — not finishing one city to its full target before
