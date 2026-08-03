@@ -10,23 +10,24 @@ done as of this batch.**
 
 ---
 
-## Built Where the Resources Were
+## The Plan Ashgrove-Pryce Drew Before Anyone Asked for It
 
 The Decentralized Industrial Sites (Physical Infrastructure Attribute #1) — processing and manufacturing
 facilities spread across dozens of kilometers of Adelaide Island rather than concentrated at Rothera Point —
-grew this way for entirely ordinary founding-era reasons: raw-material processing infrastructure converting
-the island's own mountainous-terrain resources into finished infrastructure components (attribute #2) simply
-worked better sited close to wherever the relevant resources actually were.
+trace to one founding-era figure's own deliberate layout decision, not organic, undirected growth.
 
-*(An informational sheet on the founding-era siting logic itself, not a single decision.)* Adelaide Island's
-own sheer size — roughly 120 kilometers, mountainous, peaks over 2,500 meters — meant a single concentrated
-industrial core would have required hauling raw material considerable distances before processing could even
-begin. Founding-era planners, per what's established about the island's own geography, instead let facilities
-develop wherever the terrain's own resources justified them, a genuinely practical logistics decision rather
-than any deliberate dispersal strategy. Per Finding B, this same decentralized production network became the
-concrete infrastructure behind Rothera's own established role as a producer of vehicle and transit-
-infrastructure components — mirroring Mirny's own established parallel role for its subnet — supplying the
-rest of the Palmer subnet, including Palmer City's own construction and maintenance needs, for generations.
+**Chief Engineer "Malcolm Ashgrove-Pryce" *(placeholder, not developer-chosen)*** is credited, per `Rothera_
+Full_Extrapolation.md` Section IX, with laying out Rothera's original decentralized industrial plan across
+Adelaide Island, decades before anyone knew that same decentralization would be what let the city survive the
+war largely intact. His own reasoning, per what's preserved of the planning record, was entirely practical —
+raw-material processing sited near wherever the island's own mountainous terrain actually held the relevant
+resources, rather than hauling material considerable distances to a single concentrated core the way a more
+conventional industrial layout would have. Some of his own contemporaries, per what's established about the
+plan's own reception, argued for a single central industrial district as easier to administer and defend.
+Ashgrove-Pryce's own layout won out on efficiency grounds alone, with no one involved framing the decision
+around resilience or survivability at all — the same plan that later became Rothera's clearest wartime
+advantage was, at the moment it was actually drawn, simply the most practical way to move less raw material
+further than it needed to go.
 
 ---
 
@@ -50,76 +51,81 @@ decision retroactively vital.
 
 ---
 
-## What the Bonner Airstrip Was Actually For
+## The Flight Marambio Wouldn't Take Back
 
-*(An informational sheet on the runway's own operational scope, not a single flight.)* The Bonner Airstrip
-*(placeholder name, carried forward unchanged from real-world geography per established project convention)*
-— a 900-meter paved runway, damaged but functional in some capacity — is one of the few Tepenian cities with
-paved aviation infrastructure at all, inherited from the British Antarctic Survey era.
+The Bonner Airstrip *(placeholder name, carried forward unchanged from real-world geography per established
+project convention)* — a 900-meter paved runway inherited from the British Antarctic Survey era — split
+Peninsula-internal traffic cleanly from Marambio's own longer-range, trans-Drake-Passage role (Finding C), an
+arrangement tested directly once by a single misrouted flight.
 
-Per Finding C, the Airstrip's own runway maintenance infrastructure was calibrated specifically for
-Peninsula-internal flight operations, a clean, complementary division of labor with Marambio's own larger-
-scale, longer-range, trans-Drake-Passage traffic rather than any overlapping competition between the two.
-Pilots who flew the internal Peninsula routes, per what's established about the operational split, describe
-the distinction in practical terms — Rothera handled the shorter hops between Peninsula cities themselves,
-while anything crossing open water toward the rest of the world went through Marambio instead. The
-arrangement required no formal negotiation to maintain, per this same established division, simply because
-each airfield's own physical characteristics and geographic position made the split obvious without anyone
-needing to argue for it.
-
----
-
-## The Approach by Water
-
-Marguerite Bay Harbor (attribute #8) is, per Finding D, the physical destination of Rothera's own established
-cinematic sea-approach — the Lemaire Channel functioning as the natural establishing shot for DLC 3, a
-deliberate dramatic introduction for anyone arriving in Rothera by sea, with the Channel as the journey and
-the Harbor as the actual arrival.
-
-Sailors making the approach historically, per what's established about the route's own geography, would have
-experienced the Channel's own narrow, dramatic passage first, before the terrain finally opened onto
-Marguerite Bay itself and the Harbor came into view — a sequence residents describe as genuinely
-unforgettable regardless of how many times they'd made the crossing before. The Harbor itself, damaged but
-still functional per the city's own broader damaged-but-operational status, continues serving the industrial
-base's own import/export needs today, meaning the same dramatic approach that once welcomed founding-era
-arrivals still functions, in reduced capacity, as the literal route by which Rothera's own ongoing production
-economy stays connected to the rest of the subnet.
+A cargo flight scheduled to land at Marambio arrived instead at Rothera after a navigation error during a
+period of poor visibility, the pilot judging Bonner Airstrip's own shorter runway safer to attempt than
+continuing on toward the intended destination in deteriorating conditions. Rothera's own ground crews, per
+what's remembered of the incident, found themselves receiving cargo and paperwork configured entirely for
+Marambio's own larger-scale handling procedures — customs routing, manifest formats, none of it matching
+Rothera's own Peninsula-internal operational scale. Sorting out the misdirected shipment took the better part
+of a day, coordinated directly between the two airfields' own dispatch offices rather than through any
+existing formal protocol, since the division of labor between them had never needed one before. The incident
+produced, per what's established about the aftermath, the first explicit interoperability agreement between
+the two airfields — a simple, low-key fix for a problem neither field's own clean division of labor had ever
+actually anticipated.
 
 ---
 
-## What Adelaide Island Couldn't Provide on Its Own
+## The Captain Who Refused to Take the Shortcut
 
-*(An informational sheet on the import side of Rothera's production economy, not a single shipment.)*
+Marguerite Bay Harbor is, per Finding D, the physical destination of Rothera's own established cinematic
+sea-approach — the Lemaire Channel's own narrow, dramatic passage functioning as the natural introduction to
+the city for anyone arriving by sea. One specific captain's own insistence on taking that longer route,
+rather than a genuinely faster alternative, became a small piece of local maritime folklore.
+
+A freight captain running a time-sensitive early delivery was offered a shorter, less scenic approach around
+the Channel entirely, cutting real time off the voyage at the cost of skipping Rothera's own signature
+sea-approach. The captain declined, reportedly on the grounds that crews making their first delivery to
+Rothera deserved to actually see the Channel rather than arrive at the industrial base's own working harbor
+with no sense of the terrain around it — a decision that cost the delivery real time against a schedule
+already under pressure. The delivery arrived later than a stricter operator might have accepted, but the
+captain's own reasoning, repeated afterward among Marguerite Bay's own dockworkers, became something
+approaching a standing informal principle for crews making the run for the first time: take the Channel if
+the schedule allows it at all, because the approach is part of what arriving at Rothera is actually supposed
+to feel like.
+
+---
+
+## The Season the Ushuaia Shipments Stopped
+
 Maritime import infrastructure for whatever raw material Adelaide Island itself couldn't supply (attribute
-#3) is, per what's established, plausibly routed via the same Ushuaia/Punta Arenas gateway that founded the
-subnet's earliest arrivals — meaning Rothera's own industrial base, however extensive, was never fully
-self-sufficient in raw material terms.
+#3) is routed via the same Ushuaia/Punta Arenas gateway that founded the subnet's earliest arrivals — meaning
+Rothera's own industrial base, however extensive, was never fully self-sufficient. One specific interrupted
+shipping season exposed exactly how much that dependency actually mattered.
 
-The specific gap this import infrastructure filled isn't established in granular detail, but the general
-principle is clear from Rothera's own established production role: converting Adelaide Island's mountainous-
-terrain resources into finished infrastructure components (attribute #2) required whatever the island's own
-geology could supply, plus whatever it couldn't, brought in from outside. This makes Rothera's own celebrated
-industrial self-sufficiency a genuinely qualified claim — decentralized, resilient, and productive at a scale
-the rest of the Palmer subnet depended on, but still reliant on the same founding-era maritime gateway that
-first brought settlers to the Peninsula at all, just repurposed generations later for raw material rather
-than people.
+A season of unusually severe Drake Passage storm activity kept the Ushuaia supply route effectively closed
+for considerably longer than any prior interruption on record, cutting off the specific imported materials
+Adelaide Island's own geology couldn't supply locally. Production at several of the Decentralized Industrial
+Sites slowed markedly as existing stockpiles ran down, the first genuine test of how long Rothera's own
+celebrated industrial capacity could actually sustain itself without external resupply. The route reopened
+before production stopped entirely, but the interruption prompted a deliberate policy change afterward —
+larger standing stockpiles of the specific imported materials Adelaide Island couldn't produce, sized against
+that one season's own worst-case closure length rather than ordinary seasonal variation. Rothera's own
+industrial self-sufficiency, since that season, has been real but consciously buffered — a qualified
+independence built directly from the specific gap one bad shipping season made undeniable.
 
 ---
 
-## Rain on Adelaide Island
+## The Foundation That Flooded Before Anyone Understood Why
 
-Wet-weather structural and drainage infrastructure (attribute #9), built to handle regular rainfall alongside
-snow, gave Rothera the mildest, most maritime climate engineering demand of any Peninsula city outside Palmer
-City itself — a materially different challenge than any drier interior or katabatic-wind city examined
-elsewhere in this project.
+Wet-weather structural and drainage infrastructure, built to handle regular rainfall alongside snow, gave
+Rothera the mildest, most maritime climate engineering demand of any Peninsula city outside Palmer City
+itself. The discipline wasn't inherited fully formed — an early foundation failure taught the settlement's
+own builders what pure snow-and-ice training hadn't prepared them for.
 
-*(An informational sheet on the engineering itself, not a single storm.)* Builders working on Adelaide Island,
-per what's established about the region's own climate, faced a genuine hybrid problem — structures and
-drainage systems had to handle both accumulating snow and, unusually for Tepenia, actual liquid
-precipitation, sometimes within the same season. This placed Rothera in a small category of Tepenian cities,
-alongside Palmer City itself, where drainage engineering mattered as much as snow-load engineering — a
-genuine departure from the purely snow-and-ice civic engineering training most of the rest of the country's
-builders relied on. Workers who trained elsewhere before relocating to Rothera describe the adjustment as
-real but manageable, closer to learning a regional specialty than relearning their trade from scratch —
-proof that Tepenia's own engineering culture, however dominated by ice and snow overall, still had room for
-genuinely varied regional practice.
+An early industrial structure, built by crews trained entirely in standard Tepenian snow-load engineering,
+began showing foundation instability within its first few wet seasons — freeze-thaw cycling at the
+foundation, driven by liquid precipitation pooling and refreezing in ways the original design had never
+accounted for, a failure mode genuinely unfamiliar to builders whose training assumed precipitation arrived
+exclusively as snow. The structure required significant early remediation before the underlying problem was
+even correctly diagnosed. The incident prompted Rothera's own construction trades to develop drainage-specific
+engineering standards distinct from standard Tepenian practice, treating liquid-precipitation foundation
+risk as a genuine, documented hazard rather than an edge case — the specific, costly lesson that put Rothera,
+alongside Palmer City, into the small category of Tepenian cities where drainage engineering had to be taken
+as seriously as snow-load engineering ever was.

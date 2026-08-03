@@ -10,77 +10,87 @@ Infrastructure_Attributes.md`'s 8 attributes and its Cross-Referenced Extrapolat
 
 ---
 
-## Every Name Entered by Hand
+## The Moment Villaroel Understood What He'd Found
 
-The Birth Registry Archive (Physical Infrastructure Attribute #1) began as sealed 1978 documentation and grew,
-across generations of Esperanza's own operation, into the city's single most symbolically significant civic
-artifact — physical proof, added to continuously, that the founding compact's promise was kept child after
-child, generation after generation.
+The Birth Registry Archive (Physical Infrastructure Attribute #1) began as sealed 1978 documentation,
+discovered during an ordinary inheritance-cataloging inventory. Someone had to be the one to recognize that
+an inherited record wasn't merely archival — it was a founding charter, and that recognition was a specific,
+identifiable moment, not a gradual civic realization.
 
-*(An informational sheet on the registry as a living document, not a single entry.)* Recording a name in the
-registry was never, per what's established about the founding compact's own informal but universally
-understood nature, a mere administrative formality — Caregiver-Teacher Halls staff (attribute #2) treated
-each addition as a small civic ceremony in its own right, a fresh, individual instance of the same promise
-the entire city had organized itself around honoring. Generations of Esperanza's own children, per this
-established practice, grew up knowing their own names sat somewhere in the same continuous record their
-parents' and grandparents' names occupied — an ordinary, lived civic institution rather than an abstract
-founding ideal, maintained not because any law required it, but because the compact's own unwritten authority
-(Finding C) depended on exactly this kind of consistent, unbroken practice to mean anything at all.
-
----
-
-## Who Actually Raised Hope's Children
-
-The Caregiver-Teacher Halls (attribute #2) are, per Finding A, the single physical location where two
-separately-established facts converge — robots as the durable institutional carriers of "being from Hope"
-identity across generations where human genealogical memory naturally fades, and the rotational-mining family
-structure that made robot caregivers each child's structural primary attachment figure in practice, not just
-in principle.
-
-*(An informational sheet on the Halls' own daily function, not a single child.)* Robot caregivers assigned to
-the Halls, per what's established about Esperanza's founding compact, held their posts across timespans no
-human generation could match — the same caregiver plausibly raising several successive cohorts of children
-across decades, while human parents rotated through mining assignments that structurally limited how much
-continuous presence they themselves could offer. This wasn't framed, per the established compact's own
-ethical logic, as robots replacing human parents, but as robots fulfilling the specific promise the founding
-compact actually made — that the children of humans who sacrificed everything to follow robots into exile
-would be cared for consistently, by whoever was actually positioned to provide that consistency.
+**Founding Archivist "Mateo Villaroel" *(placeholder, not developer-chosen)*** is credited, per `Esperanza_
+Full_Extrapolation.md` Section VI, with turning the discovered birth documentation into something more than a
+historical curiosity. Per what's established about his own role, Villaroel spent considerably longer with the
+sealed record than the routine inventory required — reading closely enough to recognize what it actually
+documented: not simply an old birth registration, but proof that this specific site had, generations before
+any of them arrived, already been the place children were born into permanent commitment. He proposed, to a
+founding population still assembling its own sense of civic purpose, that the city organize itself explicitly
+around honoring what that record represented — caring for the children of the humans who'd followed robots
+into exile — rather than treating the document as a piece of preserved history to be filed and admired. The
+founding compact that resulted was never written down as a charter itself, but the moment Villaroel proposed
+it, reading a decades-old document aloud to people still deciding what kind of settlement they were building,
+is the specific origin the compact's own unwritten authority traces back to.
 
 ---
 
-## The Route Between Two Cities
+## What Whitcombe-Reyes Told Concordia
+
+The Caregiver-Teacher Halls (attribute #2) are, per Finding A, the single physical location where robots
+served as the durable institutional carriers of "being from Hope" identity — the actual figures each child's
+generation attached to, across timespans no rotating human parent could match given the mining assignments
+that structurally limited how much continuous presence they themselves could offer.
+
+**Caregiver-Teacher "Alanna Whitcombe-Reyes" *(placeholder, not developer-chosen)*** is, per `Esperanza_Full_
+Extrapolation.md` Section VI, the concrete embodiment of that identity-carrying role — present through
+generations of Esperanza's children, later relocated to Concordia. A specific test of what that actually
+meant came after the relocation: a Concordia-born descendant of Esperanza's diaspora, uncertain whether their
+own family's connection to the city was genuine or simply inherited family legend, sought out
+Whitcombe-Reyes specifically because she was known to have personally cared for enough generations to verify
+lineage no surviving written record could confirm. She recognized the family name immediately, and described
+details of the descendant's own great-grandparent's childhood in the Halls that no document had preserved —
+the specific proof the diaspora's own "being from Hope" identity could still be verified, decades after
+Esperanza's destruction, precisely because robots, not paperwork, had always been the ones actually carrying
+it.
+
+---
+
+## The Shipment That Proved the Harbor Mattered
 
 Hope Bay Harbor and its overland connector into the Peninsula highway network (attributes #5–6) are, per
-Finding D, the concrete physical mechanism behind Esperanza's own established double contribution to
-Tepenian expansion — supplying both people and mining materials feeding the wider industrial supply chain.
+Finding D, the concrete physical mechanism behind Esperanza's own double contribution to Tepenian expansion.
+The harbor's own significance to the wider subnet network became undeniable during one specific supply
+emergency rather than through gradual, unremarked-upon use.
 
-*(An informational sheet on the harbor's own trans-shipment function, not a single voyage.)* Goods moving
-between Belgrano in the Halley subnet and Palmer City passed physically through Hope Bay Harbor, distinct
-from Esperanza's own internal economy — the harbor functioning as connective infrastructure for a trade
-relationship between two other cities as much as it served Esperanza's own needs. This trans-shipment role
-meant Esperanza's own economic significance to the wider subnet network extended well past what its founding
-caregiving compact alone would suggest — a city organized around raising children also quietly functioning as
-a physical link in the logistics chain connecting two subnets, the kind of infrastructure most residents
-would have taken for granted precisely because it worked reliably enough to never require comment.
+A structural failure at Belgrano's own dockside infrastructure, during an early stretch of the Halley-Palmer
+trade relationship, left Belgrano temporarily unable to receive shipments through its own damaged primary
+receiving point. Goods bound for Belgrano were rerouted through Hope Bay Harbor on short notice, Esperanza's
+own harbor staff absorbing unplanned volume well beyond its ordinary trans-shipment traffic while Belgrano's
+own repairs were underway. The rerouting held without any serious disruption to either city's own supply
+chain, and the incident became, per what's remembered of the subnet's own logistics planning afterward, the
+specific proof that Hope Bay Harbor's connective role wasn't merely convenient but genuinely load-bearing —
+a city organized around raising children had, almost incidentally, also become infrastructure the wider
+subnet could actually depend on in a pinch.
 
 ---
 
-## A Promise Nobody Wrote Down
+## The Administrator Who Asked to See It in Writing
 
-*(An informational sheet correcting an initial assumption, not narrating an incident — Finding C's own
-resolved reading.)* Esperanza's founding compact — caring for the children of humans who chose permanent
-exile — was never formalized as a single administrative document or legal charter. It existed instead as an
-unwritten but universally understood covenant, reinforced through the Birth Registry itself, oral tradition,
-and lived daily practice rather than through anything resembling ordinary municipal administration.
+Esperanza's founding compact — caring for the children of humans who chose permanent exile — was never
+formalized as a single administrative document or legal charter (Finding C). It existed as an unwritten but
+universally understood covenant, a fact that produced real friction, once, when a newly arrived administrator
+tried to treat it as ordinary policy.
 
-This distinction matters for how residents themselves would have talked about the compact, historically —
-not as a policy anyone could cite by name or file number, but as simply how things were done in Esperanza,
-the same category of informal social infrastructure already established for comparable oral traditions
-elsewhere in the subnet. A newcomer asking to see the compact in writing would have been met, per this
-reading, with some genuine confusion — the compact's own authority came from generations of consistent
-practice and shared understanding, not from any document that could be produced and pointed to. Its strength,
-paradoxically, may have come precisely from never having been reduced to paper — nothing to argue over the
-wording of, only a shared obligation everyone simply understood themselves to be honoring.
+An administrator transferred to Esperanza from a more conventionally bureaucratic Tepenian city, tasked with
+reviewing the settlement's own civic institutions, requested the compact's own founding document during an
+early administrative audit — standard procedure anywhere else, and a request that produced genuine confusion
+among the residents she asked. There was no document to produce. Long-time residents attempted to explain
+that the compact's own authority came from generations of consistent practice rather than paperwork, an
+explanation the administrator initially treated as an oversight needing correction rather than a description
+of how the city actually worked. She spent several weeks attempting to draft a formal charter retroactively,
+before residents — respectfully, but firmly — persuaded her the effort itself risked doing damage: reducing
+a shared, lived obligation to a document invited exactly the kind of argument-over-wording the compact's own
+unwritten nature had always avoided. The draft was abandoned. The administrator's own report on Esperanza's
+civic institutions, per what's preserved of it, ultimately recommended leaving the compact exactly as
+unwritten as she'd found it.
 
 ---
 
@@ -101,19 +111,21 @@ identity for generations afterward.
 
 ---
 
-## A City With No Real Dark Season
+## The Caregiver Who Couldn't Adjust to Ordinary Nights
 
-*(An informational sheet on Esperanza's own light rhythm, not a single day.)* Civic and daily-life
-infrastructure calibrated to a year-round sunrise/sunset cycle (attribute #4) reflects Esperanza's
-comparatively northern position on the Trinity Peninsula — distinct from any polar-night or midnight-sun city
-examined elsewhere in this project, since Esperanza's own light never disappears entirely in either
-direction.
+Civic and daily-life infrastructure calibrated to a year-round sunrise/sunset cycle (attribute #4) reflects
+Esperanza's comparatively northern position on the Trinity Peninsula — distinct from any polar-night or
+midnight-sun city elsewhere in Tepenia. One transferred caregiver's own difficulty adjusting to it became,
+within the Caregiver-Teacher Halls, a specific cautionary case study in cross-city staff transfers.
 
-For a population raising children specifically, per what's established about the city's own civic character,
-this ordinary daily sunrise/sunset rhythm plausibly mattered more than it might have for a city organized
-around any other founding purpose — a genuinely conventional day/night cycle to structure schooling, caregiver
-shift rotations, and ordinary family routine around, without the extended dark-season or light-season
-adjustments most other Tepenian cities' own caregiving and civic infrastructure would need to accommodate.
-Whether this played any deliberate role in the founding compact's own emphasis on stable, consistent care
-isn't established directly, but the alignment between the two — a genuinely ordinary light rhythm, and a
-civic mission built on the value of reliable, unbroken presence — is difficult not to notice.
+A caregiver reassigned to Esperanza from a polar-night city further south, per what's remembered of the case,
+struggled for months to adapt her own established caregiving rhythms — shift patterns, sleep scheduling,
+even how she paced structured activities with children — all originally built around extended dark-season
+and light-season adjustments Esperanza's own ordinary day/night cycle never required. She found the
+constant, unremarkable regularity genuinely disorienting rather than restful, per her own account, having
+spent her whole prior career calibrated to a rhythm this city simply didn't have. The Halls' own senior staff
+eventually developed a specific onboarding adjustment period for caregivers transferring in from polar-night
+or midnight-sun cities — a recognition, prompted directly by this one difficult transfer, that Esperanza's
+own ordinary light rhythm wasn't a non-issue for incoming staff just because it was the least demanding
+climate profile in the subnet. Ordinary, for someone who'd never worked under it before, still took real
+adjustment.
