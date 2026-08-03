@@ -121,18 +121,20 @@ asked to mean anything beyond the map.
 
 ---
 
-## Who Still Calls Utsteinen Home
+## The Day the Reserve Was Finally Trusted
 
-A small population continues to live at the Princess Elisabeth site today, adapting shelter and subsistence
-from what the settlement left behind (attribute #11) — not a functioning city in the sense any other
-Tepenian settlement would recognize, but a genuine, ongoing human presence on ground that could easily have
-been abandoned entirely.
+The Underground Reserve — the buried flywheel/battery/thermal storage system feeding the city's own surface
+grid — required a full-scale activation test before the Maintenance Corps or the wider city would actually
+trust it as a genuine backup rather than an unproven, theoretical safeguard.
 
-**"Joos Kaminari" *(placeholder, previously proposed in `Princess_Elisabeth_Full_Extrapolation.md` Section
-VIII, not developer-chosen)*** is among those who stayed, and per what's established about his own former
-role with the Maintenance Corps, retains firsthand, lived knowledge of the Underground Reserve's own access
-points that exists nowhere in documentary form (attribute #12). He describes his own reasons for remaining in
-practical rather than sentimental terms — this ground is simply where he has always lived and worked, and
-leaving would mean abandoning knowledge nobody else currently holds. Whether that knowledge still has any
-practical use to anyone is a question he doesn't claim to have answered, only that he intends to keep it, and
-keep living here, regardless.
+The test, per what's preserved of the founding-era commissioning record, was deliberately adversarial: surface
+generation was taken offline on a scheduled basis, without advance warning to most residents, specifically to
+confirm the Reserve could carry the city's full load seamlessly rather than merely on paper. Several senior
+engineers pushed back against running the test this way, arguing a controlled, announced test would achieve
+the same verification with less risk to residents caught unaware. The Corps' own lead engineer overruled them,
+reasoning that a backup system nobody had genuinely stress-tested under realistic conditions couldn't
+honestly be called trusted. The Reserve held the full city load without a single reported disruption residents
+noticed at the time — most only learning afterward that surface generation had been deliberately cut. The
+test's own success is, per what's remembered of the era, the specific reason the Reserve was treated from
+that point on as genuine infrastructure the city could actually depend on, not simply an expensive
+contingency nobody had confirmed would work.

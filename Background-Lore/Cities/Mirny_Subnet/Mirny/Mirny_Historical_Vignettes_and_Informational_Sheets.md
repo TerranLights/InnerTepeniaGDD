@@ -40,31 +40,24 @@ around a curve.
 
 ---
 
-## Marchenko's Forty Hours
+## The Redundancy Nobody Wanted to Pay For
 
-The Relay Hardware Vaults (Physical Infrastructure Attribute #11) carry a weight the Cross-Reference
-Synthesis's Finding B spells out plainly: their failure wouldn't just cut Arcanet contact between
-Zhongshan, Casey, Davis, Vostok, and Kunlun, it would plausibly stall the physical shipping coordination
-running through the same administrative hub — the Sinheung chamber-supply route and the subnet's own
-highway-material output both routed through language that never survives a total outage. Mirny's status
-as "damaged but partially operational" (`Specs/Mirny.md`'s Current Status) means the Vaults took direct
-structural damage during the Long Night War, and for a stretch measured in hours rather than days, the
-subnet genuinely lost contact with itself.
+The Relay Hardware Vaults carry a weight the Cross-Reference Synthesis's Finding B spells out plainly: their
+failure would cut Arcanet contact between Zhongshan, Casey, Davis, Vostok, and Kunlun at once, a genuine
+single point of failure for the whole subnet's own internal contact. That vulnerability was identified and
+argued over during the Vaults' own founding-era construction, not discovered later.
 
-**The senior technician on shift when the damage hit was not yet the administrator the position now
-answers to.** **"Zoya Marchenko" *(placeholder, not developer-chosen)*** — later the Relay Technician
-credited across the subnet with keeping the post-war hardware functional (`Mirny_Full_Extrapolation.md`
-Section VI) — spent roughly forty hours without sleep physically rerouting damaged lines through
-whichever redundant hardware paths still carried signal, working from a triage decision nobody above her
-was left standing to make: which of the five outbound connections got partial priority first, given that
-restoring all five simultaneously wasn't physically possible with what remained intact. She chose Davis
-and Zhongshan first, reasoning — by her own later account — that a subnet cut off from itself entirely was
-worse than a subnet still able to reach its two nearest neighbors, even if Casey, Vostok, and Kunlun stayed
-dark a while longer. Full five-way contact came back gradually over the following weeks, not all at once.
-Marchenko's own promotion into the administrator's role wasn't a formal appointment so much as the plain
-recognition of who had already been doing the job under fire — precisely the kind of "unforced pride,"
-competence-first civic instinct (`Specs/Mirny.md`'s Character & Culture) Mirny is already established to
-run on, applied here to the single highest-stakes facility in the city.
+**"Zoya Marchenko" *(placeholder, not developer-chosen)***, a junior technician on the founding-era
+construction team, argued during the Vaults' own design phase for building genuine hardware redundancy into
+the relay system — duplicate pathways capable of carrying the subnet's own traffic if any single component
+failed — against senior planners who considered the additional cost unjustified for a facility with no
+historical failure to point to yet. Marchenko's own proposal was scaled back rather than rejected outright,
+producing a partial redundancy compromise neither side found fully satisfying. She continued raising the
+issue periodically in the years that followed, per what's preserved of the facility's own internal planning
+notes, without ever securing the fuller redundancy she'd originally argued for. The compromise system that
+was actually built is the same one the Vaults still run on — a single point of failure smaller than it might
+have been without Marchenko's own founding-era advocacy, but never as resilient as she herself believed the
+subnet's own most consequential facility deserved.
 
 ---
 
