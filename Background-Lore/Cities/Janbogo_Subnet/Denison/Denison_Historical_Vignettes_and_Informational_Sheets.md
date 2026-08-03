@@ -8,7 +8,7 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period,
 concluding the Janbogo subnet's first pass. Drawn primarily from `Denison_Full_Extrapolation.md` (Tier 1),
 `Denison_Physical_Infrastructure_Attributes.md` and `Specs/Denison.md` (Tier 2), and `Denison_Cross_
-Reference_Synthesis.md` (Tier 3). **Batch 1 of many — target 30, 6 done as of this batch.**
+Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -120,3 +120,92 @@ expect — the recited statistics, if anything, understated rather than exaggera
 incident became, within Denison's own civic culture, a specific, often-retold case confirming exactly why the
 recitation tradition existed in the first place — precise numbers, however implausible they sounded from
 inside the sealed calm of the city itself.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Chamber Order That Outpaced Suh's Own Best Season
+
+*(Shortly before the Tower's completion.)* Denison's own chamber-manufacturing capability, established through
+Suh's own methodical calibration discipline, received a standing order late in the Tower's construction larger
+than any single order the manufacturing floor had filled since Suh's own founding-era breakthrough
+(`Denison_Full_Extrapolation.md` Section III).
+
+Production staff, per what's remembered of the stretch, held to the same rigorous, repeated calibration testing
+Suh had insisted on generations earlier rather than cutting verification steps to meet the larger volume faster
+— the same patient discipline that had once established Denison's own early credibility as a genuine
+manufacturer, tested now against real production pressure rather than a founding-era demonstration. The order
+shipped complete and within tolerance. Nobody on the floor learned what the chambers were ultimately destined
+for; Suh's own working method had never required knowing a customer's purpose to do the job correctly.
+
+### The Recitation Given to an Audience That Actually Needed It
+
+*(Shortly before the Tower's completion.)* Denison's wind-statistics recitation tradition — born from one
+founding-era near-miss and refined into genuine civic pride — found real, practical use again late in the
+Tower's construction, as unfamiliar personnel connected to the project passed through the city's own sealed,
+deceptively calm architecture without understanding what actually waited outside
+(`Denison_Full_Extrapolation.md` Section I; recitation material).
+
+Residents, per what's recalled of the period, recited the same precise, memorized figures to these passing
+strangers that longtime Denison residents had always given new arrivals — a genuine safety practice, not
+merely a performance of civic pride, offered to people who had every reason to underestimate the exterior
+conditions the same way the tradition's own original near-miss visitor once had. Whether any of these
+travelers ever stepped outside to test the numbers directly isn't preserved. The recitation was given anyway,
+exactly as the tradition had always required.
+
+### The Exchange Program That Ran Both Directions at Once
+
+*(Shortly before the Tower's completion.)* The regular technical exchange between Denison and Dumont d'Urville
+— close, frequent, closer in character to the informal Crossing tradition than to Denison's more occasional
+trips toward Cape Adare — absorbed additional traffic late in the Tower's construction, as personnel and
+material moved between the two close neighbors at a volume beyond the exchange program's own ordinary rhythm
+(`Denison_Full_Extrapolation.md` Section II).
+
+Technical staff on both sides, per what's remembered of the stretch, simply ran the established exchange
+program harder rather than restructuring it — the same short-distance practicality that had made frequent
+exchange viable between these two cities in the first place absorbing genuinely unusual volume without
+requiring any new formal arrangement. The relationship with Cape Adare, considerably more distant, stayed
+exactly as occasional as it had always been.
+
+### The Design Question Other Engineers Finally Asked Directly
+
+*(Shortly after the Tower's completion.)* Zhang's own fully-interlinked, aerodynamically continuous structural
+design — built to distribute Cape Denison's own extreme katabatic load across an entire fused structure rather
+than concentrating stress at individual buildings — drew, for the first time, direct engineering inquiries
+from planners elsewhere in the country curious how the approach might apply to structures facing their own
+extreme wind conditions (`Denison_Full_Extrapolation.md` Section I).
+
+Denison's own engineers, per what's recalled of the exchange, answered the same way Zhang's own original
+argument had been made generations earlier — describing the tradeoff plainly, a fused structure's own genuine
+cascading-failure risk weighed against a segmented design's own greater individual vulnerability in conditions
+this severe. Whether any inquiring city actually built anything from the answer isn't part of what Denison
+itself preserved. The design that had once needed real defending against its own founding-era skeptics had,
+for the first time, an audience asking about it on its own merits rather than doubting it outright.
+
+### The Chamber Network That Finally Confirmed Delivery Instantly
+
+*(Shortly after the Tower's completion.)* Denison's own chamber shipments, moving through the Cradle's national
+distribution network alongside Sinheung's and Byrd's own output, began receiving arrival confirmation
+essentially the moment a shipment reached its destination, the same immediate feedback the Tower's completion
+brought to chamber logistics across the whole network at once (`Denison_Full_Extrapolation.md` Section III).
+
+Denison's own production planners, per what's recalled of the change, found the shift genuinely useful in
+exactly the way it had proven useful elsewhere in the Cradle network — production scheduling built around
+confirmed delivery rather than assumed transit time, the same generations-old buffer against uncertainty
+finally unnecessary to carry. Suh's own methodical calibration discipline governed the chambers' own quality
+exactly as it always had. Knowing they'd arrived safely simply took considerably less waiting than before.
+
+### The Numbers Recited to an Audience That Couldn't Feel the Wind
+
+*(Shortly after the Tower's completion.)* Denison's own wind-statistics recitation — precise, memorized figures
+conveying severity the city's own sealed architecture could never show visitors directly — was, for the first
+time, shared with listeners elsewhere in the newly connected country who would never actually stand in the
+conditions being described (`Denison_Full_Extrapolation.md` Section I).
+
+Residents reciting the figures for this new, distant audience, per what's recalled of it, delivered them with
+the same precise civic pride the tradition had carried for generations — numbers that had once needed to
+convince a single skeptical newcomer standing right there in the city now offered to people who could only take
+them on faith entirely. Whether distant listeners believed the figures the way Denison's own skeptical
+newcomer eventually had to isn't something the recitation could settle from a distance. The numbers were
+recited anyway, exactly as precisely as they'd always been.
