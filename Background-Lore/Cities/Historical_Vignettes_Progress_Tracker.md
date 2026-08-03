@@ -45,8 +45,8 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Halley | 6 | 30 | In progress |
 | Neumayer | 6 | 30 | In progress |
-| Belgrano | 0 | 30 | Not started |
-| Troll | 0 | 30 | Not started |
+| Belgrano | 6 | 30 | In progress |
+| Troll | 6 | 30 | In progress |
 | Abowasa | 0 | 30 | Not started |
 | Sanay | 0 | 30 | Not started |
 | Princess Elisabeth | 0 | 30 | Not started |
@@ -116,7 +116,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 18** (Byrd's pilot batch of 6 + Halley's first batch of 6 + Neumayer's first batch of 6).
+50 + 30). **Current: 30** (Byrd 6 + Halley 6 + Neumayer 6 + Belgrano 6 + Troll 6).
 
 **Confirmed rotation mechanic, 2026-08-02:** cycle through every city in a subnet doing one 6-entry batch
 each, then loop back around for each city's next batch — not finishing one city to its full target before
@@ -154,4 +154,12 @@ approaching 12 in later sessions.
   finish-one-city-first).
 - **2026-08-02:** Neumayer batch 1 of 6 (The Schematic With No Name On It, What the Workshops Actually Teach,
   The Adjustment That Wasn't Routine, Measured Not Debated After Hours, What the Observatory Noticed First,
-  The Backup Nobody Was Told About). Neumayer now at 6/30. Next: Belgrano batch 1.
+  The Backup Nobody Was Told About). Neumayer now at 6/30.
+- **2026-08-02:** Committed+pushed (Byrd/Halley/Neumayer batch 1s + tracker). Milestone triggers (12-entry and
+  18-entry in-nation connection spec sheet checkpoints) recorded above per developer instruction.
+- **2026-08-02:** Belgrano batch 1 of 6 (The First Rastra Didn't Have a Name Yet, The Chart Nobody Filed as
+  Important, How the Boneyard Actually Runs, The Airfield That Governed, The Mate That Outlasted the Office,
+  What the Fabrication Yards Sent Out Into the World). Belgrano now at 6/30.
+- **2026-08-02:** Troll batch 1 of 6 (The Handoff That Almost Didn't Happen, The Route That Used to Run to
+  Dome Fuji, What's Actually Sitting in the Hangars, The Chapel's Last Regular, The Day the Depot Changed
+  Hands, Building Into the Rock). Troll now at 6/30. Next: Abowasa batch 1.
