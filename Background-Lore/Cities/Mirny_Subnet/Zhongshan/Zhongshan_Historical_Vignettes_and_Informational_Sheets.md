@@ -8,8 +8,8 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period. Part
 of the Tri-Cities region (combined with Sinheung and Shirayuki toward a shared 75-entry target). Drawn
 primarily from `Zhongshan_Full_Extrapolation.md` (Tier 1), `Zhongshan_Physical_Infrastructure_Attributes.md`
-and `Specs/Zhongshan.md` (Tier 2), and `Zhongshan_Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many —
-target shared with Sinheung and Shirayuki, 6 done as of this batch.**
+and `Specs/Zhongshan.md` (Tier 2), and `Zhongshan_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
+target shared with Sinheung and Shirayuki, 12 done as of this batch.**
 
 ---
 
@@ -120,3 +120,96 @@ poor silverfish run was never conclusively determined, but the response to it �
 primary-food fallback rather than purely supplementary — became, afterward, standing practice each season
 regardless of how the silverfish run was actually going, a precaution born from one specific year's own
 uncertainty rather than assumed reliability ever since.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Tolerance the Crossing Quarter Had Never Been Asked to Hold
+
+*(Shortly before the Tower's completion.)* Zhongshan's precision manufacturing sector — the same strategic-
+value capability that had once made the city a deliberate wartime target — received, late in the Amundsen
+Tower's construction, a component order specified to tolerances considerably tighter than the Crossing
+Quarter's own artisan-manufacturing tradition ordinarily produced (`Zhongshan_Full_Extrapolation.md` Section
+IV; Section III).
+
+Master craftspeople working the order, per what's remembered of it, treated the unusually exacting
+specification the way Táng Wǔ's own original standard-setting had always intended the Quarter's shared
+discipline to be tested — a genuine challenge to the institution's own accumulated precision, not merely
+routine production. The order shipped meeting spec. Nobody in the Crossing Quarter learned what it was
+ultimately built into; the Quarter's own reputation for precision, generations after Táng Wǔ first
+institutionalized it, simply held under a demand nobody had specifically designed the tradition to anticipate.
+
+### The Request the Long Record Had Never Received From So Far Away
+
+*(Shortly before the Tower's completion.)* The Long Record — Zhongshan's primary archive, custodian of the
+most complete pre-Split-Brain history anywhere in the Mirny subnet — received a formal request late in the
+Tower's construction for whatever historical precedent existed on coordinating infrastructure across genuinely
+vast distances, sought by planners documenting the Tower project's own unprecedented scale for the Federation's
+lasting record (`Zhongshan_Full_Extrapolation.md` Section III).
+
+Archivists, per what's preserved of the response, found little in the Long Record's own holdings that matched
+the Tower's own scale directly — nothing in Zhongshan's own history had ever required coordination at anything
+close to a continental level — but supplied what the archive did hold regardless, the same instinct toward
+honest completeness that had made the Long Record the subnet's most trusted historical source in the first
+place. The request itself, unusual as it was, became one more entry the Long Record now held on file, waiting,
+as everything else it held did, for whoever eventually needed it next.
+
+### The Suite Rehearsed Against a Deadline Nobody Would Name
+
+*(Shortly before the Tower's completion.)* Zhongshan's own contemplative musical tradition — defined by Táng
+Yuxuan's own insistence that a composition takes the time it takes, refined further by "The Long Winter
+Suite"'s own deliberate 60-day performance arc — faced a specific, quiet tension late in the Tower's
+construction, when a composer working a new piece felt pressure, self-imposed rather than requested, to have
+it ready before whatever was being finished elsewhere on the continent was finished too
+(`Zhongshan_Full_Extrapolation.md` Section V).
+
+The composer, per what's remembered of the account, ultimately abandoned the self-imposed deadline entirely —
+consistent with the same tradition Táng Yuxuan had established generations earlier, refusing to compress a
+piece's own pacing for an audience not yet ready to understand it. The composition was finished on its own
+schedule, considerably after the Tower's own construction concluded, unhurried exactly the way Zhongshan's
+whole musical identity had always insisted a serious work had to be.
+
+### The Long Record's First Entry From Somewhere It Had Never Reached
+
+*(Shortly after the Tower's completion.)* The Long Record received, for the first time, direct correspondence
+from archivists in subnets it had never had any working relationship with at all — requests to cross-reference
+Zhongshan's own uniquely complete pre-Split-Brain historical holdings against gaps in other cities' own,
+considerably less complete records, made possible only once the Tower's completion connected every archive in
+the country through the same relay (`Zhongshan_Full_Extrapolation.md` Section III).
+
+Archivists, per what's recalled of the exchange, treated the sudden outside interest the same unhurried,
+methodical way the Long Record had always been maintained — verifying provenance carefully before sharing
+anything, unwilling to let genuine outside enthusiasm compromise standards the archive had spent centuries
+building. What resulted was, for the first time, a two-way exchange rather than a purely local resource — the
+Mirny subnet's own most complete history becoming, almost overnight, something the rest of the country could
+actually draw on directly.
+
+### The Suite Performed for an Audience It Was Never Built to Reach
+
+*(Shortly after the Tower's completion.)* "The Long Winter Suite," performed exactly as it always had been —
+movement by movement, across the genuine 60-day arc of polar night — was, for the first time, carried in real
+time to listeners elsewhere in the newly connected country, who experienced the same darkness-paced unfolding
+Zhongshan's own audience had always required patience for (`Zhongshan_Full_Extrapolation.md` Section V).
+
+Musicians performing that particular cycle, per what's remembered of it, didn't adjust the piece's own pacing
+or structure for the wider audience — the Suite had never been compressed for anyone, including its own first
+confused listeners generations earlier, and wasn't compressed now. Whether distant listeners had the patience
+the piece had always demanded wasn't something Zhongshan's own performers could control. What mattered, per
+the tradition Táng Yuxuan had insisted on from the beginning, was that the work was offered exactly as it was
+meant to be experienced, whether or not anyone new was ready for it.
+
+### The Precision Order That Finally Came With an Explanation
+
+*(Shortly after the Tower's completion.)* A follow-up request reached the Crossing Quarter regarding the
+unusually tight-tolerance components manufactured late in the Tower's construction — this time accompanied,
+for the first time, by an actual explanation of what the components had become part of, made possible by the
+same direct national connection now reaching every corner of the country (`Zhongshan_Full_Extrapolation.md`
+Section IV).
+
+Craftspeople who'd worked the original order without knowing its purpose, per what's recalled of the reaction,
+found the belated explanation satisfying in a way the original transaction had never required to be — the
+Quarter's own standards had never depended on knowing what a piece was for, only on meeting the specification
+exactly. Knowing anyway, this time, simply confirmed what Táng Wǔ's own original institution had always been
+built to guarantee: that Zhongshan's own precision, whether or not anyone explained why it mattered, could be
+trusted regardless.
