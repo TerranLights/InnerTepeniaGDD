@@ -169,3 +169,96 @@ Voss's own knowledge predates the majority of Byrd's current population, most of
 later via the Palmer City over-cap redistribution and have no personal connection to the founding at all
 (Finding 7). Whether Voss is widely known, quietly avoided, or simply not thought about by most residents day
 to day is not yet decided — this sheet establishes only the timeline, not the social reality around it.
+
+---
+
+## Third Batch — Shortly Before and After the Amundsen Tower's Completion
+
+*(Byrd's own six-entry batch built around the Tower's completion, following the same before/after framing
+applied to every other city and region this round — grounded in this file's own established sources, in
+particular attribute #10 (independent, plausibly geothermal power), attribute #62 (Byrd's confirmed Arcanet
+access node), and Finding 24 (the physical-vs-digital isolation mismatch this connection already creates).)*
+
+### The Order the Chamber Works Filled Without a Name Attached
+
+*(Shortly before the Tower's completion.)* The Chamber Works — Byrd's own reinforced, deep-sited fabrication-
+synthesis chamber plant, one of only two active sites of its kind in Tepenia alongside Sinheung — received a
+standing order late in the Tower's construction specified to tolerances the vetted chamber-precision cadre
+found more exacting than most of what the plant ordinarily produced (Physical Infrastructure Attribute #10;
+Finding 12).
+
+The vetted crew handling the order, per what's remembered of it, treated the unusual specification with the
+same specialist discipline the Chamber Works' own workforce split had been built around since Finding 12's own
+founding-era template — precision work kept separate from the plant's larger general fabrication output, run
+by people trained specifically for exactly this kind of demanding tolerance. The order shipped complete.
+Nobody on the vetted crew ever learned its destination; Byrd's own isolation had never required knowing a
+customer's purpose to do the work correctly, powered, as the plant always was, by geothermal generation that
+owed nothing to any grid outside the city's own walls.
+
+### The Message That Left and Never Confirmed Arrival
+
+*(Shortly before the Tower's completion.)* Byrd's own Arcanet access node — a genuine, working connection to
+the national network, distinct from the purely internal wired backbone the city otherwise relied on — carried
+a routine outbound message late in the Tower's construction that, per what's preserved of the incident, never
+received any confirmation of receipt at all (Physical Infrastructure Attribute #62; Finding 24).
+
+Communications staff, per what's remembered of the period, treated the silence as unremarkable rather than
+alarming — Byrd's own hardware worked exactly as designed, but the subnets it was actually built to reach
+weren't yet connected to each other the way a single unified relay would eventually make possible. The message
+had gone out into infrastructure that technically existed but didn't yet lead anywhere in particular. Nobody
+at Byrd found this especially strange at the time; it was simply how the connection had always behaved.
+
+### The Visitor Who Came Only Once That Whole Season
+
+*(Shortly before the Tower's completion.)* A rare in-person visitor reached Byrd late in the Tower's
+construction — a messenger connected, however loosely, to the wider project's own coordination needs, treated
+by residents with the same genuine, slightly startled hospitality Byrd's own established "reserved but
+genuine" register always extended to the rare outsider who actually made the trip (`Local_Cultures/Byrd_
+Subnet/Byrd.md` Section on hospitality; Finding 24).
+
+The visitor's own specific business isn't preserved in what's remembered of the occasion. What is remembered
+is the reaction — residents who, per Finding 24's own established poignancy, already knew via Arcanet exactly
+what was happening nationally, treating an actual physical arrival as a genuine event regardless, precisely
+because knowing about the wider country and being visited by it had never been the same thing at Byrd.
+
+### The Node That Finally Had Somewhere to Send Its Silence
+
+*(Shortly after the Tower's completion.)* Byrd's own Arcanet access node — hardware that had worked correctly
+for generations, reaching infrastructure that simply hadn't been unified with the rest of the country — began
+carrying traffic that actually arrived somewhere and actually came back, the moment the Tower's completion
+connected every subnet through a single relay for the first time (Physical Infrastructure Attribute #62;
+Finding 24).
+
+Communications staff, per what's recalled of the moment, described the change less as new capability than as
+existing capability finally mattering — the same node, the same hardware, suddenly reaching a country that
+could reach back. Residents already fully aware, via Arcanet, of national events at a remove now found that
+awareness running both directions for the first time: Byrd could be known about, not merely know about
+everyone else.
+
+### The Confirmation the Chamber Works Never Used to Get
+
+*(Shortly after the Tower's completion.)* Chamber shipments leaving Byrd's own Chamber Works — moving, like
+Sinheung's own output, through the Cradle's national distribution network toward wherever a finished apparatus
+was actually needed — began receiving arrival confirmation close to the moment a shipment reached its
+destination, rather than the total silence that had followed every prior shipment's own departure
+(Physical Infrastructure Attribute #62; Finding 2).
+
+Dispatch staff, per what's remembered of the adjustment, found the confirmation genuinely strange after
+generations of shipping chambers into a network that, from Byrd's own isolated vantage point, had never once
+confirmed anything came of the effort. The chambers themselves were built exactly as precisely as they always
+had been, powered by the same independent geothermal source that had never depended on anything outside
+Byrd's own walls. Knowing they'd arrived was, for the first time, simply knowable.
+
+### The Season Byrd Stopped Being Only Known About
+
+*(Shortly after the Tower's completion.)* Word of Byrd itself — its own fabrication economy, its own isolated,
+underground civic life — reached, for the first time, residents of other Tepenian cities who had never had any
+working connection to Byrd at all, carried outward through the same newly unified relay that had, for the
+first time, let Byrd's own messages actually land somewhere (Finding 24).
+
+Residents, per what's recalled of the shift, found the reversal genuinely disorienting in a way the connection
+itself hadn't quite prepared them for — a population long accustomed to knowing about the country without the
+country knowing much about them, suddenly aware that the asymmetry had, at least in principle, closed. Nothing
+about Byrd's own daily rhythm changed. What changed was the quiet, specific fact that the isolation Finding 24
+once described as one-directional — full awareness outward, near-total obscurity inward — was no longer
+guaranteed to stay that shape.
