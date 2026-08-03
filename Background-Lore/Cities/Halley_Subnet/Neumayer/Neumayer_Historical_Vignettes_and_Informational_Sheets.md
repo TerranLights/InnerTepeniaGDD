@@ -9,8 +9,11 @@ Infrastructure_Attributes.md`'s 11 attributes and its Cross-Referenced Extrapola
 direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
 direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
 only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
-connection from that file and in Neumayer's own established struggles. Target 30, 18 done as of this
-batch.**
+connection from that file and in Neumayer's own established struggles. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
+direct digital contact existed only within a city's own subnet (Halley, Lazar) and anything reaching Sinheung,
+Byrd, Mawson, or Davis — all outside the Halley subnet — required trucking, postal service, or physically
+traveling there. Target 30, 24 done as of this batch.**
 
 ---
 
@@ -342,3 +345,82 @@ inferred, that Novolazarevskaya's real-world DROMLAN heritage had in fact shaped
 between the two cities. The discovery didn't change how either city currently operated. It closed a
 genuinely open historical question neither city had ever had the means to actually answer before that specific
 search became possible.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Schematic That Left By Truck
+
+Neumayer's own large-scale drafting facilities produced the Mark IV fabrication-synthesis chamber schematic
+Sinheung's own manufacturing floor would eventually build from — but before the Tower, nothing digital
+connected Neumayer to Sinheung at all. Finished drawings had to physically leave the city the same way any
+other cargo did.
+
+The schematic packet, per what's preserved of the delivery, traveled overland to Troll first — a short hop
+within the subnet Neumayer could have coordinated over the instant line to Troll's own dispatch office in
+minutes — before continuing on one of Troll's established aviation routes toward the Mirny subnet, a journey
+measured in weeks rather than the moments it would take the same design file to transmit once the Tower
+existed. Sinheung's own engineers worked from paper and film, not a live connection to the office that had
+drafted it.
+
+### The Question That Took Two Seasons to Answer
+
+A structural question from Byrd's own Chamber Works — a tolerance specification unclear in the schematic
+Neumayer had supplied — couldn't simply be asked and answered the way an equivalent question from a Halley
+subnet workshop could have been. Byrd sat in its own subnet, past a corridor no digital line reached.
+
+The query traveled by courier along Byrd's single overland connection and onward through the Palmer subnet
+before finally reaching Neumayer months after it was first written down — by which point, per what's
+remembered of the exchange, Byrd's own crew had already worked out a provisional answer of their own rather
+than wait indefinitely. Neumayer's eventual reply confirmed the workaround had been correct. The confirmation
+itself arrived so long after the fact that it functioned less as guidance than as a historical footnote to a
+problem Byrd had already solved alone.
+
+### What Calethina's Own Designer Never Saw Finished
+
+The spec and schematic for Calethina, the hospitality-host hologram commissioned out of Mawson, were drafted
+entirely in Neumayer — but the engineer responsible never once saw the finished installation in person, and
+never spoke directly with anyone at Mawson while the work was underway.
+
+Every specification exchanged during the commission, per what's preserved of the project's own record, moved
+by physical correspondence relayed through Sayowa and onward into the Mawson subnet, since no line connected
+Neumayer to anywhere past its own subnet's boundary. The engineer finished her drafts, mailed them, and by her
+own account never learned whether her specifications had needed revision on-site until a secondhand report,
+itself months old by the time it reached her, confirmed the installation had gone well.
+
+### The Wire to Lazar
+
+Neumayer's and Lazar's shared Halley subnet membership meant a founding-era logistics question either city
+raised could be answered by the other within minutes, an ordinary fact of subnet life neither city thought to
+remark on until visitors from elsewhere in the country made clear how unusual it actually was.
+
+A Neumayer archivist cross-referencing early supply-route claims against Lazar's own municipal records did so
+over the subnet's own standing line, receiving confirmation, correction, and follow-up detail across a single
+afternoon's exchange — a pace of research neither city's own historians, working the same question against a
+subnet-external archive, had ever managed to match.
+
+### What Halley Already Knew Before the Post Confirmed It
+
+A structural anomaly Neumayer's own hydraulic-leg monitoring flagged on the Ekström Ice Shelf prompted an
+immediate cross-check against Halley's own comparable readings on the Brunt — a request answered inside the
+same working day, since Halley sat within reach of the subnet's own instant line.
+
+The same anomaly, reported through official channels to a research contact outside the subnet for a broader
+professional opinion, took considerably longer to receive any reply to at all — the written report traveling
+by the same slow courier route every piece of Neumayer's own subnet-external correspondence relied on. By the
+time that outside opinion arrived, Halley's own same-day cross-check had already confirmed the finding beyond
+any real doubt.
+
+### The Correspondence Davis Never Rushed
+
+Neumayer's and Davis's shared identity as the country's two genuinely comparable "hard science" civic
+cultures — atmospheric and glaciological research at one, paleoclimate sediment-core work at the other —
+produced a correspondence that, before the Tower, could only ever move at the pace of the mail between two
+different subnets.
+
+A specific exchange on comparable ice-core dating methodology, per what's preserved of the letters
+themselves, unfolded across several years rather than the single conversation it would have taken once direct
+contact existed — each reply considered, drafted, and sent months after the letter it answered, an entire
+scientific correspondence conducted at a pace neither researcher ever described as frustrating, simply as how
+the work between two subnets was done.
