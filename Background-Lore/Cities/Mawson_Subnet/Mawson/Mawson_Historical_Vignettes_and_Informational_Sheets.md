@@ -8,7 +8,7 @@ rather than a restated attribute — including the strict no-post-war-content ru
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Begins the Mawson subnet. Drawn primarily from `Mawson_Full_Extrapolation.md` (Tier 1), `Mawson_Physical_
 Infrastructure_Attributes.md` and `Specs/Mawson.md` (Tier 2), and `Mawson_Cross_Reference_Synthesis.md`
-(Tier 3). **Batch 1 of many — target 30, 6 done as of this batch.**
+(Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
 
 ---
 
@@ -121,3 +121,91 @@ still-developing settlement had less urgent use for yet. The outward-facing capa
 subsequent construction phases once the intra-subnet foundation was solidly established — a founding-era
 sequencing choice, prioritizing near neighbors before the wider nation, that shaped the hub's own basic
 architecture from its earliest construction onward.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Outward Capacity Finally Put to Genuine Use
+
+*(Shortly before the Tower's completion.)* Mawson's own hub infrastructure — built, per its own founding-era
+sequencing choice, with outward-facing capacity toward the rest of Tepenia constructed only after the
+intra-subnet foundation to Sayowa and Dome Fuji was solidly established — carried a volume of outward
+coordination traffic late in the Tower's construction considerably beyond anything the hub's own founding
+planners had specifically designed the outward capacity for (`Mawson_Full_Extrapolation.md` Section I).
+
+Hub staff, per what's remembered of the stretch, found the outward-facing infrastructure — built second,
+after the more urgent intra-subnet needs, and never expected to carry quite this much — handling the load
+without requiring emergency expansion. The founding-era decision to prioritize near neighbors first hadn't
+left the hub's own later, outward capacity underbuilt; it had simply been built for a future need nobody at
+founding could have specifically named, and that need had finally arrived.
+
+### The Guests the Overlook Wasn't Built to Explain
+
+*(Shortly before the Tower's completion.)* Mawson's own honeymoon hospitality infrastructure, built around
+Sorensen's own deliberate cultivation of the city's reputation, hosted a specific stretch of guests late in
+the Tower's construction whose own stay coincided with, rather than centered on, the project nearby —
+travelers connected to the Tower who extended their own passage through Mawson into something closer to the
+established honeymoon-style visit (`Mawson_Full_Extrapolation.md` Section V).
+
+Hospitality staff, per what's recalled of the period, recommended the Prince Charles Mountains overlook the
+same way they always did — the city's own established anchor activity, offered without needing to know
+anything about a guest's own reason for passing through. Whether these particular visitors experienced polar
+night or midnight sun during their stay isn't preserved. What's remembered is simpler: the overlook did for
+them what it had always done for every other guest who made the trip.
+
+### The Marker Visited by People Who'd Never Heard of Douglas Mawson
+
+*(Shortly before the Tower's completion.)* St. Douglas's own commemorative marker, still visited on residents'
+own informal initiative generations after its founding-era placement, drew a specific stretch of unfamiliar
+visitors late in the Tower's construction — travelers passing through Mawson who noticed the informal gathering
+point and stopped out of simple curiosity rather than any established civic reason
+(`Mawson_Full_Extrapolation.md`, veneration material).
+
+Residents, per what's remembered of these encounters, explained the marker's own significance the same
+unhurried way the tradition itself had always spread — informally, without any civic institution directing the
+explanation, the same accumulated, undirected pattern that had originally turned a modest marker into a full
+observance in the first place. Nothing about the site's own quiet character changed for the unfamiliar
+visitors. It simply had, for a season, more people passing through willing to ask what it was.
+
+### The Hub That Finally Talked to the Whole Country at Once
+
+*(Shortly after the Tower's completion.)* Mawson's own hub function — coordinating Sayowa and Dome Fuji
+inward, the rest of Tepenia outward, since its own founding-era construction — became, once the Tower's
+completion connected every subnet through a single relay, part of a genuinely national coordination structure
+rather than one subnet's own outward-facing node among several disconnected others
+(`Mawson_Full_Extrapolation.md` Section I).
+
+Hub staff, per what's recalled of the transition, found the change less disruptive than the scale might have
+suggested — the same intra-subnet-first architecture Zhao's own founding-era institution-building had
+established still governed how Mawson prioritized its own coordination work, simply with a considerably larger
+outward network to coordinate with now. The hub built to talk to neighbors first had, generations later,
+neighbors considerably further away than its own founders had ever pictured.
+
+### The Reputation That Finally Reached People Who'd Never Married There
+
+*(Shortly after the Tower's completion.)* Mawson's own honeymoon-destination reputation, cultivated
+deliberately since Sorensen's own founding-era hospitality investment, reached, for the first time, residents
+of cities that had never sent a single newlywed couple to Mawson before, carried by the same national
+connection now reaching everywhere at once (`Mawson_Full_Extrapolation.md` Section V).
+
+Hospitality staff, per what's recalled of the reaction, treated the wider awareness the same unhurried,
+hospitality-forward way the city had always treated its own reputation — no aggressive promotion, simply the
+same dedicated infrastructure Sorensen had established continuing to do exactly what it had always done. What
+changed, for the first time, was that couples elsewhere in the country now knew Mawson's own reputation
+existed as something worth planning a trip around, rather than discovering it only by word of mouth from
+someone who'd already been.
+
+### The Openness Other Cities Finally Asked About Directly
+
+*(Shortly after the Tower's completion.)* Mawson's own deliberate civic choice to openly acknowledge the gap
+between St. Douglas's founding legacy and the city's actual present-day composition — contested once, at
+founding, and settled decisively in favor of honesty — reached, for the first time, residents of other cities
+curious how Mawson had actually managed to stay open about a demographic story many settlements might have
+quietly managed instead (`Mawson_Full_Extrapolation.md` Section VI).
+
+Mawson's own residents, per what's recalled of the exchange, described the founding-era debate plainly — the
+proposal to minimize public discussion, and the deliberate rejection of it, the same honest civic character
+the city had built for itself from the start. No other city adopted Mawson's own approach as policy. What the
+inquiry confirmed, for the first time, was that a choice made quietly at founding, contested and won without
+much fanfare, had traveled far enough that strangers elsewhere found it worth asking about.
