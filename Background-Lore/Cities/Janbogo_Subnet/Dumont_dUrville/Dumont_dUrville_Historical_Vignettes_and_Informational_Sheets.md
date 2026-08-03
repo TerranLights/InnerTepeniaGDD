@@ -11,7 +11,10 @@ explicitly post-war material per `Dumont_dUrville_Full_Extrapolation.md` Section
 character work belongs to her own dedicated companion file, not incidental vignette content. Drawn primarily
 from `Dumont_dUrville_Full_Extrapolation.md` (Tier 1), `Dumont_dUrville_Physical_Infrastructure_Attributes.md`
 and `Specs/Dumont_dUrville.md` (Tier 2), and `Dumont_dUrville_Cross_Reference_Synthesis.md` (Tier 3). **Batch
-2 of many — target 30, 12 done as of this batch.**
+2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
+`City_National_Connections.md`: six occurrences that could only have happened once full national digital
+connectivity existed, each grounded in a specific named city-to-city connection from that file (Casey,
+Denison, Janbogo, Zukelli) distinct from batch 2's own generically-framed entries. 18 done as of batch 3.**
 
 ---
 
@@ -208,3 +211,89 @@ scene itself had always operated — no eatery reorganized around the sudden out
 packed evenings continuing exactly as they always had. What changed, for the first time, was simply that a
 cultural signature born from one small venue's slow-Tuesday fix now had a reputation reaching considerably
 further than the highway junction that had always brought its first visitors through the door.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Certification Casey Extended Past Its Own Half of the Route
+
+Following the first jointly certified Hwy 2 route status, Dumont d'Urville's own junction coordinators
+proposed a specific extension neither city had originally planned: a standing arrangement letting either
+city's own dispatch office issue emergency closures affecting the other's own half of the route directly,
+rather than only sharing status information passively.
+
+The arrangement, adopted once sustained joint certification confirmed the underlying trust between the two
+offices, gave Dumont d'Urville's own coordinators genuine authority to flag a hazard on Casey's own half of
+Hwy 2 for the first time — and Casey's own dispatchers the same authority in reverse. Neither office used the
+new authority often. Its mere existence, per what's preserved of the arrangement, changed how both cities
+related to a road they had always shared but never actually had joint authority over before.
+
+### The Exchange Program Denison and Dumont d'Urville Finally Formalized
+
+The regular technical exchange between Denison and Dumont d'Urville, already genuinely close and frequent, was
+formalized into a standing program for the first time once sustained contact confirmed the relationship's own
+reliability across multiple seasons — a deliberate step up from informal, ongoing visiting into something
+closer to an institutional arrangement.
+
+The formalization, per what's preserved of the decision, changed remarkably little about how the two cities
+actually interacted day to day — the same close, frequent contact continued exactly as before. What changed
+was administrative: technical staff assigned specifically to maintain the exchange, rather than the informal,
+ad hoc participation that had defined the relationship since its own founding-era origin, giving the program a
+continuity neither city's own individual staff turnover could interrupt.
+
+### The Population Study Janbogo and Dumont d'Urville Ran Together
+
+Following the shared population redistribution affecting both cities, Dumont d'Urville's own civic
+demographers joined Janbogo's own detailed follow-up study examining exactly which districts each city had
+lost — a genuine joint research effort, rather than the separate parallel analyses each city had initially run
+independently.
+
+The combined study, conducted once direct contact let both cities' own demographic offices actually
+collaborate rather than simply compare finished conclusions, confirmed the same pattern Janbogo's own
+researchers had already found — newer residential districts disproportionately affected over founding-era
+neighborhoods — now with Dumont d'Urville's own data folded directly into the analysis rather than checked
+against it separately. Neither city's own governance changed as a result. Both gained a more complete,
+jointly-verified picture of an administrative event that had shaped both cities' own populations at once.
+
+### The Venue Comparison Zukelli's Own Musicians Finally Requested
+
+Following the cultural-exchange thread already connecting Dumont d'Urville's downtown live-music culture and
+Zukelli's own restaurant-performance tradition, a specific group of Zukelli musicians requested a direct
+comparison of performance conditions — stage setup, audience proximity, the specific informal atmosphere each
+city's own venues cultivated.
+
+Dumont d'Urville's own venue owners, per what's preserved of the exchange, walked the visiting musicians
+through exactly what made the city's own "New Orleans at 1/20th scale" venues work — informal, packed, built
+for proximity between performer and audience. Several Zukelli musicians, per what's recalled of the visit,
+incorporated specific staging ideas into their own performances afterward — the first time either city's own
+music scene had directly shaped the other's actual performance practice, rather than simply admiring it from a
+distance.
+
+### The Junction That Finally Coordinated With Denison's Own Traffic Directly
+
+Dumont d'Urville's own two-highway junction, already extending its own coordination outward nationally,
+established its first direct real-time link specifically with Denison's own logistics office — a natural
+extension given the two cities' own already-close working relationship, but one that had never actually been
+formalized through the junction's own coordination system until sustained contact made it worth the effort.
+
+The direct link, per what's preserved of its establishment, let Denison-bound traffic through the junction
+receive priority routing information tailored specifically to Denison's own current conditions, rather than
+the generic route status every other destination received. It marked the first time the junction's own
+coordination system had built a dedicated channel for one specific destination, rather than treating every
+route through it identically.
+
+### The Reading St. Jules Day Finally Shared With a City That Understood the Wind
+
+Following St. Jules Day's own first national broadcast, Denison's own residents — a city whose entire civic
+identity was built around a wind severe enough to require its own dedicated recitation tradition — became
+unexpectedly enthusiastic listeners, recognizing something in the observance's own insistence on standing in
+genuine outdoor conditions that most other broadcast audiences hadn't quite grasped.
+
+Denison's own residents, per what's preserved of the reaction, sent a specific message back to Dumont
+d'Urville's own observance organizers — an acknowledgment, from the one other Tepenian city whose own civic
+identity took wind this seriously, that St. Jules Day's own refusal to hold the reading anywhere comfortable
+was recognized and respected. Dumont d'Urville's own organizers, per what's recalled of receiving it, found
+the message more meaningful than the broadcast's own considerably larger, more general audience response —
+recognition, for the first time, from a city that actually understood exactly what standing in real wind on
+purpose meant.
