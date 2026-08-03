@@ -97,7 +97,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Dumont d'Urville | 12 | 30 | In progress |
 | Cape Adare | 12 | 30 | In progress |
 | Zukelli | 12 | 30 | In progress |
-| Scott | 6 | 30 | In progress |
+| Scott | 12 | 30 | In progress |
 | Denison | 6 | 30 | In progress |
 
 ### Mawson Subnet (target: 30 each, 90 total)
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 360** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 72 +
+50 + 30). **Current: 366** (Halley subnet 90 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 78 +
 Mawson subnet 18 + Byrd 6 + Amundsen-Scott Station 6).
 
 **2026-08-03 — MILESTONE: every city and region in the country now has its first 6-entry batch.** All 35

@@ -7,8 +7,8 @@ plus `Historical_Vignettes_Synthesis_Method.md` for what makes an entry a genuin
 rather than a restated attribute — including the strict no-post-war-content rule. No entry below depends on
 any other; none are required to be chronological, and all stay within the pre-war Second Interwar Period.
 Drawn primarily from `Scott_Full_Extrapolation.md` (Tier 1), `Scott_Physical_Infrastructure_Attributes.md`
-and `Specs/Scott.md` (Tier 2), and `Scott_Cross_Reference_Synthesis.md` (Tier 3). **Batch 1 of many — target
-30, 6 done as of this batch.**
+and `Specs/Scott.md` (Tier 2), and `Scott_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target
+30, 12 done as of this batch.**
 
 ---
 
@@ -117,3 +117,93 @@ stock, allowing Fort McMurdo's team to continue competing at full capacity. Fort
 competition that followed regardless, using Scott's own loaned part — an outcome Scott's own team accepted
 with genuine good humor, per what's remembered of it, precisely because the rivalry between the two cities had
 never been about anything more serious than pride in the first place.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+### The Calibration Request That Didn't Come From Next Door
+
+*(Shortly before the Tower's completion.)* Scott's own precision calibration specialists, already the
+established regional resource Fort McMurdo's own heavy industry regularly relied on, received a formal request
+late in the Tower's construction from considerably further away — equipment tied to the project itself,
+requiring exactly the kind of exacting recalibration standard Scott's own technical economy had built its
+whole niche around (`Scott_Full_Extrapolation.md` Section II).
+
+Scott's own specialists, per what's remembered of the work, treated the unfamiliar request the same way
+they'd always treated Fort McMurdo's own recurring calibration needs — methodical, precise, without particular
+interest in the equipment's own ultimate destination. The recalibrated instruments shipped out meeting a
+standard Scott's own technical staff had spent generations refining for a much smaller, much more local
+customer. Nobody at Scott learned what the equipment was actually calibrated for.
+
+### The Growth Scott Turned Down a Second Time
+
+*(Shortly before the Tower's completion.)* Regional economic activity surging around Fort McMurdo's own
+Tower-related industrial demand created genuine, if indirect, growth opportunity for Scott as well late in the
+Tower's construction — increased calibration work, increased regional attention, the kind of momentum that
+had once nearly won the founding-era vote favoring expansion over Māui's own modest-growth position
+(`Scott_Full_Extrapolation.md` Section II background).
+
+Scott's own civic leaders, per what's recalled of the period, considered and declined to use the moment as
+justification for expanding beyond the city's own established modest scale — the same trade-off Māui had
+originally argued for held just as firmly under genuine new opportunity as it had against the original
+founding-era counterproposal. Scott took on the additional calibration work within its existing capacity
+rather than growing to meet it. The city stayed exactly the size it had always deliberately chosen to be, even
+with real economic momentum pointing the other way.
+
+### The Observance Held Beside an Unusually Busy Peninsula
+
+*(Shortly before the Tower's completion.)* That year's Independence Day remembrance at Hut Point Discovery
+Hut, tended as always under the Keeper's own ongoing care, took place against a backdrop of considerably
+heavier regional traffic than the observance had ever coincided with before — Tower-related activity nearby
+adding unfamiliar visitors to a ceremony that had always been quietly local
+(`Scott_Full_Extrapolation.md` Section IV).
+
+The observance itself, per what's remembered of that year, proceeded exactly as tradition required, unaltered
+for the unfamiliar onlookers who happened to be in the area. A handful of outside travelers, drawn by simple
+curiosity, watched from a respectful distance without being invited to participate directly — Scott's own
+tradition remaining what it had always been, a remembrance for Scott's own community first, regardless of who
+else happened to be nearby that particular year.
+
+### The Calibration Standard Other Subnets Finally Asked About
+
+*(Shortly after the Tower's completion.)* Scott's own precision calibration expertise, previously known mainly
+to Fort McMurdo and the Hut Point Peninsula's own immediate technical community, reached, for the first time,
+research and industrial staff in other subnets who'd never had any working relationship with Scott at all
+(`Scott_Full_Extrapolation.md` Section II).
+
+Scott's own specialists, per what's recalled of the response, answered the same methodical way they always
+answered Fort McMurdo's own requests — precise, unhurried, without treating the wider recognition as reason to
+change how the work actually got done. The city's whole economic identity had always rested on doing this one
+thing exactly right rather than doing many things adequately. For the first time, considerably more of the
+country than one neighboring city had reason to know it.
+
+### The Quiet Scott Didn't Mind Keeping
+
+*(Shortly after the Tower's completion.)* As Fort McMurdo absorbed its own first wave of official delegations
+and administrative attention following the capital designation, Scott's own daily civic life continued
+essentially unchanged — a fact several residents, per what's recalled of private conversation rather than any
+formal civic statement, found quietly satisfying rather than a source of remaining resentment
+(`Scott_Full_Extrapolation.md` Section VII).
+
+One resident, per informal accounts, remarked that Scott had gotten to keep exactly the kind of unhurried,
+family-oriented daily life Māui had originally argued modest scale would protect, while Fort McMurdo took on
+considerably more formal obligation than governance had ever previously required of it. The observation wasn't
+framed as vindication so much as simple contentment — Scott's own Positive Outlook temperament finding real,
+specific comfort in a trade-off its own founding generation had made deliberately, long before anyone knew
+exactly what the alternative would eventually cost the city that chose it.
+
+### The Rivalry Other Cities Wanted to Hear About
+
+*(Shortly after the Tower's completion.)* Word of the Scott-Fort McMurdo technical rivalry — genuinely
+competitive, genuinely collaborative, the same relationship that had once produced a borrowed equipment part
+mid-competition — reached, for the first time, residents of other cities curious how two neighboring
+settlements managed to stay close while still competing openly (`Scott_Full_Extrapolation.md` background;
+rivalry material).
+
+Residents from both cities, per what's recalled of the exchange, found themselves explaining a dynamic they'd
+never needed to articulate for outsiders before — friendly competition that had never curdled into genuine
+hostility, precisely because neither city had ever needed the other's failure to feel good about its own
+success. No formal exchange of the specific model resulted. What changed was simply that a rivalry the two
+cities had always kept between themselves now had an audience that found the whole arrangement genuinely
+worth asking about.
