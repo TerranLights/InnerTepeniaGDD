@@ -47,10 +47,10 @@ three existing per-city folders but tracked as one combined regional total below
 | Neumayer | 6 | 30 | In progress |
 | Belgrano | 6 | 30 | In progress |
 | Troll | 6 | 30 | In progress |
-| Abowasa | 0 | 30 | Not started |
-| Sanay | 0 | 30 | Not started |
-| Princess Elisabeth | 0 | 30 | Not started |
-| Lazar | 0 | 30 | Not started |
+| Abowasa | 6 | 30 | In progress |
+| Sanay | 6 | 30 | In progress |
+| Princess Elisabeth | 6 | 30 | In progress |
+| Lazar | 6 | 30 | In progress |
 
 ### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)
 
@@ -116,7 +116,8 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 30** (Byrd 6 + Halley 6 + Neumayer 6 + Belgrano 6 + Troll 6).
+50 + 30). **Current: 54** (Byrd 6 + Halley 6 + Neumayer 6 + Belgrano 6 + Troll 6 + Abowasa 6 + Sanay 6 +
+Princess Elisabeth 6 + Lazar 6). **Halley subnet's first full pass is complete — all 8 cities at 6/30.**
 
 **Confirmed rotation mechanic, 2026-08-02:** cycle through every city in a subnet doing one 6-entry batch
 each, then loop back around for each city's next batch — not finishing one city to its full target before
@@ -162,4 +163,18 @@ approaching 12 in later sessions.
   What the Fabrication Yards Sent Out Into the World). Belgrano now at 6/30.
 - **2026-08-02:** Troll batch 1 of 6 (The Handoff That Almost Didn't Happen, The Route That Used to Run to
   Dome Fuji, What's Actually Sitting in the Hangars, The Chapel's Last Regular, The Day the Depot Changed
-  Hands, Building Into the Rock). Troll now at 6/30. Next: Abowasa batch 1.
+  Hands, Building Into the Rock). Troll now at 6/30.
+- **2026-08-02:** Abowasa batch 1 of 6 (Two Hundred Meters Closed, What Halley and Neumayer Actually Ask
+  Abowasa For, The First Winter Nobody Had to Retrofit, What the Buildings Never Told You, The Strike That
+  Found the Labs Not the Homes, What Gets Decided at the Overlook). Abowasa now at 6/30.
+- **2026-08-02:** Sanay batch 1 of 6 (Hit Hardest Fixed First, What the Trade Yard's Boundaries Actually Mean,
+  The Nexus Built by Someone Else's City, The Cliffside After Shift, What You Can See From the Summit, How
+  the Docks Actually Schedule Themselves). Sanay now at 6/30.
+- **2026-08-02:** Princess Elisabeth batch 1 of 6 (The Systems That Stopped Not the Systems That Broke, What
+  Joos Kaminari Still Knows, Built to Answer the Wind, The View From Utsteinen Before, Anchoring Into Frozen
+  Ground, Living Among What Stopped). Princess Elisabeth now at 6/30.
+- **2026-08-02:** Lazar batch 1 of 6 (The Gap That Closed Itself, What Size Actually Bought Lazar, The Hall
+  That Never Stopped Counting, Meltwater Season, What the Junction Markets Actually Inherited, Neumayer's
+  Nearest Real Market). Lazar now at 6/30. **Halley subnet's first full pass is complete — all 8 cities at
+  6/30, 48 entries.** Next: loop back to Halley for batch 2, or move to Palmer subnet per developer call —
+  pending commit+push for this batch first.
