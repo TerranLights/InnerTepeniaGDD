@@ -69,7 +69,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Esperanza | 6 | 30 | In progress |
 | Rothera | 6 | 30 | In progress |
 | Marambio | 6 | 30 | In progress |
-| Port Lockroy | 0 | 30 | Not started |
+| Port Lockroy | 6 | 30 | In progress |
 | Sejong | 6 | 30 | In progress |
 | Signy | 6 | 30 | In progress |
 | Juan Carlos | 6 | 30 | In progress |
@@ -78,8 +78,8 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Mirny | 0 | 30 | Not started |
-| Casey | 0 | 30 | Not started |
+| Mirny | 6 | 30 | In progress |
+| Casey | 6 | 30 | In progress |
 | Davis | 0 | 30 | Not started |
 | Kunlun | 0 | 30 | Not started |
 | Vostok | 0 | 30 | Not started |
@@ -286,6 +286,26 @@ approaching 12 in later sessions.
 - **2026-08-02:** Casey (Mirny subnet) full rewrite, all 6 entries genuine history (The Records Wetherall
   Wouldn't Let Stay Buried, The Forecast "Long Odds" Never Missed, What the Instruments Were Actually
   Watching For, The Curiosity Down the Road, The Trucker Who Timed the Fork Wrong, Fast In Fast Out By
-  Design). Casey now at 6/30. **Mirny and Casey re-synthesis complete.** Next: Palmer subnet's full
-  re-synthesis (8 cities, worst-affected by the original attribute-drift problem — Palmer City, Sejong,
-  Signy, and Juan Carlos had zero surviving history entries each).
+  Design). Casey now at 6/30. **Mirny and Casey re-synthesis complete.**
+- **2026-08-02/03:** Full re-synthesis of Palmer subnet's remaining 6 cities by hand: Palmer City (all 6),
+  Esperanza (5), Rothera (5), Marambio (5), Port Lockroy (5), Sejong (all 6), Signy (all 6), Juan Carlos
+  already done. **Palmer subnet re-synthesis complete.**
+- **2026-08-03: Fourth course correction, developer-flagged directly — "post-war siligel shortage in Signy?
+  Really?"** The 2026-08-02 war/destruction correction's "roughly one war-touching entry per batch"
+  allowance was too permissive. Corrected: **entries stay strictly within the Second Interwar Period —
+  pre-war, full stop** — this is a documentation of History, not a second pass at post-war ruins content.
+  Updated `Historical_Vignettes_Synthesis_Method.md` and this tracker's own opening methodology note (which
+  previously said entries "can land at any point... including the present day" — now superseded). A
+  developer-confirmed broader recheck found 8 more entries across 6 files still violated the stricter rule
+  and needed replacing: Halley's Hwy 59 cable-corridor entry, Belgrano's Boneyard-Times-origin entry, three
+  Troll entries built on the post-war three-faction airfield fracture (including two that had passed the
+  *first* audit as genuine HISTORY but still failed the *pre-war* requirement), two Sanay entries with
+  explicit post-war framing, Signy's siligel-rationing entry, Princess Elisabeth's kept present-day-survivor
+  entry, and Mirny's war-damage relay entry. All replaced with founding-era material. Confirmed via
+  repo-wide grep that no remaining entries reference post-war/ruins content as their organizing fact.
+  **Halley, Palmer, and Mirny+Casey re-synthesis is now fully complete and consistent with both the
+  attribute-drift fix and the no-post-war-content fix.** Next: expand coverage to the remaining Mirny subnet
+  cities (Davis, Kunlun, Vostok, Sinheung, Shirayuki, Zhongshan/Tri-Cities), then Janbogo subnet (7 cities),
+  Mawson subnet (3 cities), and Amundsen-Scott Station — all written correctly from the start under the
+  now-finalized methodology, per developer instruction to reach 6 entries for every city/region nationwide
+  before pausing for a separate discussion.
