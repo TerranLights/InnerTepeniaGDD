@@ -72,7 +72,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Port Lockroy | 18 | 30 | In progress |
 | Sejong | 18 | 30 | In progress |
 | Signy | 18 | 30 | In progress |
-| Juan Carlos | 12 | 30 | In progress |
+| Juan Carlos | 18 | 30 | In progress |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
 
@@ -125,12 +125,16 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 444** (Halley subnet 132 + Palmer subnet 96 + Mirny subnet 96 + Janbogo subnet 84 +
+50 + 30). **Current: 492** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 96 + Janbogo subnet 84 +
 Mawson subnet 36 + Byrd 12 + Amundsen-Scott Station 12).
 
 **2026-08-03 — Halley subnet batch 3 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
 Elisabeth, and Lazar all completed batch 3 (connections-only occurrences, per `City_National_Connections.md`)
-— all now 18/30. Abowasa stays paused at 6/30. Next: Palmer subnet batch 3.
+— all now 18/30. Abowasa stays paused at 6/30.
+
+**2026-08-03 — Palmer subnet batch 3 complete.** Palmer City, Esperanza, Rothera, Marambio, Port Lockroy,
+Sejong, Signy, and Juan Carlos all completed batch 3 — all now 18/30 (Palmer City 18/50). Next: Mirny subnet
+batch 3.
 
 **2026-08-03 — MILESTONE: every city, region, and Amundsen Station now has 12 entries — batch 2 is complete
 nationwide** (Abowasa remains the sole exception, still paused at 6/30 pending its own founding-nation fix).

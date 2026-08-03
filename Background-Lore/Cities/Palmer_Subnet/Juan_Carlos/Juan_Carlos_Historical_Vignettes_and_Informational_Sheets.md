@@ -6,7 +6,11 @@
 No entry below depends on any other; none are required to be chronological. Drawn from `Juan_Carlos_Physical_
 Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolation Findings, plus
 `Juan_Carlos_Full_Extrapolation.md` and `Juan_Carlos_Cross_Reference_Synthesis.md`. **Batch 2 of many —
-target 30, 12 done as of this batch. Completes the Palmer subnet's batch 2 pass.**
+target 30, 12 done as of that batch. Completed the Palmer subnet's batch 2 pass. Batch 3, per direct
+developer instruction, is framed around `City_National_Connections.md`: six occurrences that could only have
+happened once full national digital connectivity existed, each grounded in a specific named city-to-city
+connection from that file (Palmer City, Sejong, Zhongshan, Port Lockroy) distinct from batch 2's own
+Amundsen Station-focused entries. 18 done as of batch 3 — completes the Palmer subnet's batch 3 pass.**
 
 ---
 
@@ -211,3 +215,90 @@ normal, noted the adjustment without much ceremony — the corridor's own design
 never built for and simply reverted once the need passed, the same quiet, unremarkable administrative
 competence that had always defined how Juan Carlos actually worked, whether or not anyone outside the city
 ever noticed either the disruption or its passing.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Family Palmer City's Own Records Finally Helped Reunite
+
+Juan Carlos's own immigration processing had, for generations, produced records of exactly who passed through
+toward Palmer City and when — genuinely thorough documentation that had never once been searchable from
+Palmer City's own end, since no channel existed for Palmer City's own civic records office to query Juan
+Carlos's own archive directly.
+
+The first such search, run once direct contact made it possible, came from a Palmer City resident trying to
+confirm exactly when a distant relative had first arrived in the country — a question Juan Carlos's own
+immigration records could answer precisely, down to the processing date, once someone on Palmer City's end
+could actually ask. The confirmation closed a specific, personal gap in one family's own history. It also
+marked, for Juan Carlos's own record-keeping staff, the first time their own routine processing archive had
+been searched for a reason that had nothing to do with immigration administration at all.
+
+### The Visa Question That Finally Skipped Three Steps
+
+Juan Carlos's own immigration processing and Sejong's own Machu Picchu Border & Customs Authority
+administration had always coordinated indirectly — policy questions relayed through whatever intermediate
+channel eventually connected the two offices, never through a direct conversation between the actual staff
+handling each side of the same shared corridor.
+
+The first direct policy exchange between processing staff at Juan Carlos and administrators at Sejong,
+enabled once contact became trivial, resolved a specific visa-classification ambiguity that had been quietly
+causing inconsistent processing decisions on each side for longer than either office had realized. The fix
+was procedural, not dramatic — a shared understanding, reached directly for the first time, of exactly how a
+specific visitor category should be classified regardless of which office happened to process the paperwork
+first.
+
+### The Archive Zhongshan Finally Got to Cross-Reference
+
+Juan Carlos's own formal Federation archive — the "Federation's memory" — and Zhongshan's own Long Record had
+always been recognized, by anyone comparing the two cities, as Tepenia's two most serious civic archives, but
+neither had ever actually cross-referenced its own holdings against the other's, since no channel existed for
+either archive's own staff to search the other directly.
+
+The first joint search, run once direct contact made it possible, compared a specific stretch of Juan
+Carlos's own pre-relocation immigration records against Zhongshan's own Long Record for the same historical
+period — confirming, for the first time, that the two archives' own independently kept accounts of a shared
+historical stretch agreed on every point where they overlapped. Neither archive needed the confirmation to
+trust its own records. Both, per what's preserved of the exchange, found genuine professional satisfaction in
+finally being able to check.
+
+### The Letter Juan Carlos's Own Archivists Finally Sent Personally
+
+Following Port Lockroy's own discovery that Juan Carlos's staff had started routing personal correspondence
+through Port Lockroy's postal network rather than the formal Federation channel, a specific Juan Carlos
+archivist began using the same route regularly — the first sustained, ongoing use of Port Lockroy's own
+postal infrastructure by anyone at Juan Carlos, rather than a single one-off exchange.
+
+The archivist's own reasoning, per what's preserved of an informal account, was straightforward: Port
+Lockroy's own network still carried a personal touch the formal archive-correspondence channel had never
+offered, and now that reaching it directly was trivial, there was no particular reason not to use it for
+anything that wasn't strictly archive business. Port Lockroy's own postal staff, per what's recalled of the
+exchange, simply added Juan Carlos to the network's own accumulated list of correspondents — one more thread
+in a system built, from its own founding, to carry exactly this kind of ordinary personal contact.
+
+### The Gathering House Session That Finally Included Sejong's Own Delegates
+
+The Hosted Gathering Houses' own curated-argument tradition, already exported to three Concordia districts
+generations earlier, hosted its first formal session including delegates from Sejong specifically — invited
+once direct contact let Juan Carlos's own hosts simply extend an invitation to representatives from the city
+sharing its own tourism gateway corridor.
+
+The session, per what's preserved of the occasion, ran exactly the way every other Gathering House evening
+always had — genuine, sustained argument fueled by shared food and considerable time, this time with Sejong's
+own delegates contributing perspective on the multinational coexistence problem their own city had spent
+generations actually living with. Nothing about the tradition itself changed. It simply had, for one specific
+evening, participants from a city its own founders could never have anticipated reaching directly.
+
+### The Record That Finally Explained Itself to the City That Kept It
+
+A specific archival gap in Juan Carlos's own immigration records — a stretch of incomplete documentation from
+early in the corridor's own working history — was finally resolved once Amundsen Station's own relocated
+archive, searched directly for the first time by Juan Carlos's own historians rather than treated as a
+one-directional donation, turned out to hold the missing originals.
+
+Juan Carlos's own archivists, per what's preserved of the discovery, hadn't previously had any way to actually
+search what had become of records once they were transferred to the Pole — the relocation had always been
+treated as a one-way handoff. The first direct search confirmed the missing documentation had survived intact,
+simply filed under a cataloging convention Juan Carlos's own staff had never used themselves. The gap in Juan
+Carlos's own local records was finally closed, not by finding something new, but by finally being able to ask
+where something old had actually gone.
