@@ -5,7 +5,11 @@
 `Byrd_Historical_Vignettes_and_Informational_Sheets.md` for the approved pilot batch this format is based on.
 No entry below depends on any other; none are required to be chronological. Drawn from `Troll_Physical_
 Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapolation Findings, plus
-`Troll_Cross_Reference_Synthesis.md`. **Batch 1 of many — target 30, 6 done as of this batch.**
+`Troll_Cross_Reference_Synthesis.md`. **Batch 2 (below the divider) is framed around the Amundsen Tower's own
+completion, per direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly
+after — once the whole country was connected through the Tower's single relay node for the first time. The
+Tower's own exact completion date stays deliberately unpinned in prose. Target 30, 12 done as of this
+batch.**
 
 ---
 
@@ -139,3 +143,118 @@ proved more variable in composition than early surveys suggested — sections th
 inspection sometimes proved to require additional reinforcement once excavation actually began. None of this
 early engineering work has any connection to the airfield conflict that would come to define Troll generations
 later; the rock the city stands on has no stake in who currently controls the runway built on top of it.
+
+---
+
+## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
+
+---
+
+## The Fleet That Flew South Instead of West
+
+*(Shortly before the Tower's completion.)* Troll's own cargo transport fleet, already proven at multi-city
+Peninsula-internal coordination, was drawn into the Tower's final construction push when the project required
+moving personnel and light equipment across distances Troll's own ordinary Dome Fuji supply route had never
+needed to cover.
+
+A specific chartered run, per what's preserved of the period's own flight records, diverted several of
+Troll's own airworthy aircraft away from their ordinary Dome Fuji rotation for a stretch of weeks to support
+Tower-bound personnel transfers instead — a genuine strain on the fleet's own limited capacity, since Dome
+Fuji's own supply needs didn't pause simply because the aircraft were needed elsewhere. Ground crews managed
+the overlap by compressing the Dome Fuji schedule rather than suspending it outright, per what's remembered of
+the arrangement, a demanding stretch that tested the fleet's own operational limits in a way not even the
+founding-era multi-leg circuit test had. Both commitments were met without a missed Dome Fuji delivery — proof,
+per what's preserved of the record, that Troll's own aviation logistics could sustain two genuinely
+competing priorities at once when the country's own most consequential infrastructure project needed it to.
+
+---
+
+## The Runway Length Adeyemi-Solberg Never Explained, Finally Useful Again
+
+*(Shortly before the Tower's completion.)* Chief Airfield Engineer Adeyemi-Solberg's own founding-era decision
+to build runway length and fuel-storage capacity well beyond Troll's then-current traffic needs — already
+credited with making the later Dome Fuji route possible without expansion — proved useful a second time as
+Tower-related traffic increased demand on Troll's own facilities ahead of the project's completion.
+
+Aircraft configurations supporting the Tower's own construction logistics, per what's preserved of the
+period's own operational record, required runway capacity closer to the founding-era surplus than to Troll's
+own ordinary day-to-day traffic — a specific, heavier-than-usual transport aircraft that, per what's remembered
+of the assessment, would have required genuine runway expansion to accommodate at a facility built only to its
+own contemporary needs. Troll's own airfield administrators, reviewing the founding-era specifications ahead
+of the increased traffic, found the existing runway already sufficient without modification — the same
+over-engineering some founding-era contemporaries had once questioned, proving its worth a second time,
+decades after the first.
+
+---
+
+## The Question the Chapel Wasn't Built to Answer
+
+*(Shortly before the Tower's completion.)* As word of the approaching Tower project reached Troll, one
+resident, per what's preserved of the period's own informal civic record, raised the question at a St. Roald's
+Landing gathering of whether the observance's own quiet, founding-era character would survive whatever
+changes a genuinely national relay might eventually bring to a city already defined by its own airfield.
+
+The question wasn't answered definitively at the gathering, per what's remembered of the exchange — several
+attendees pointed out that St. Roald's Landing had already persisted through the airfield's own growth from
+a small founding-era station into the subnet's central logistics hub, reasoning the observance's own quiet
+character had survived comparably significant change before. Others were less certain, per what's preserved
+of the discussion, given how much more consequential a single national relay sounded compared to the
+airfield's own gradual growth. The conversation ended without resolution, a genuinely open question left
+sitting alongside the observance itself as Troll's own residents waited, like the rest of the country, to see
+what the Tower's completion would actually change.
+
+---
+
+## The Delivery That Finally Justified the Whole Route
+
+*(Shortly after the Tower's completion.)* Troll's own historical direct-aviation route to Dome Fuji, built on
+capacity Adeyemi-Solberg had specified decades before anyone confirmed it would be needed, carried its first
+delivery explicitly coordinated through the new national relay rather than through the older, more limited
+subnet-only scheduling the route had always run on.
+
+The coordination itself, per what's preserved of the transition period, let Dome Fuji's own supply requests
+reach Troll's dispatch office directly and immediately rather than through whatever slower, indirect channel
+had previously carried such requests across the isolated interior distance separating the two cities. Troll's
+own dispatch staff, per what's remembered of the change, described the difference as considerably more
+significant in practice than in principle — the same route, the same aircraft, the same fundamental
+logistics, but a scheduling process that no longer required the built-in delay isolation had always demanded.
+The delivery itself arrived on an accelerated timeline Dome Fuji's own recipients hadn't experienced before,
+a small, concrete demonstration of what the completed relay actually changed for two of Tepenia's own most
+extreme-environment cities.
+
+---
+
+## The Pilgrim Who Arrived By Accident
+
+*(Shortly after the Tower's completion.)* St. Roald's Chapel, deliberately sited apart from the airfield's own
+operational noise so a visit could feel like genuine departure from daily work, received an unexpected visitor
+shortly after the Tower's completion — a traveler whose own journey had nothing to do with the observance at
+all.
+
+A passenger transiting through Troll's airfield on Tower-related business, per what's preserved of the
+occasion, found themselves with unplanned time between connecting flights and, having heard of the Chapel's
+own historical significance through the newly expanded flow of information the relay made possible, made the
+walk to visit it out of simple curiosity rather than devotion. The visitor's own account of the Chapel,
+shared afterward through the same new connectivity that had brought them there in the first place, reached
+listeners in a distant subnet who had never previously had reason to know Troll held anything beyond a
+contested airfield. The Chapel's own quiet character, the specific thing one resident had worried might not
+survive the Tower's completion, reached an entirely new audience instead — not through the observance
+changing, but through more people simply having a reason to hear about it at all.
+
+---
+
+## The Schedule That Finally Had Room to Breathe
+
+*(Shortly after the Tower's completion.)* Troll's own dual commitment to Tower-related transfers and its
+ordinary Dome Fuji supply rotation, sustained through genuine strain during the project's final construction
+push, eased considerably once the Tower's completion ended the temporary personnel-transfer demand that had
+been competing with Troll's own established route.
+
+Ground crews, per what's preserved of the transition, described the return to a single operational priority as
+a genuine relief after the compressed schedule the construction period had required — the same aircraft, the
+same routes, but without the constant juggling between two competing demands the Tower's own final push had
+imposed. The experience of having sustained that double commitment successfully, per what's remembered of the
+crews' own reflection on the period, became a point of quiet confidence going forward — proof, tested under
+real pressure, that Troll's own aviation logistics could handle genuinely unexpected additional demand without
+failing either commitment, a capability nobody had specifically planned to prove but that the Tower's own
+construction period had tested regardless.
