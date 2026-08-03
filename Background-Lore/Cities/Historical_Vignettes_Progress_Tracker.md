@@ -85,8 +85,8 @@ three existing per-city folders but tracked as one combined regional total below
 | Vostok | 18 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 18 | — | In progress |
 | Sinheung *(Tri-Cities)* | 18 | — | In progress |
-| Shirayuki *(Tri-Cities)* | 12 | — | In progress |
-| **Tri-Cities combined** | **48** | **75** | **In progress** |
+| Shirayuki *(Tri-Cities)* | 18 | — | In progress |
+| **Tri-Cities combined** | **54** | **75** | **In progress** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
@@ -125,7 +125,7 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 492** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 96 + Janbogo subnet 84 +
+50 + 30). **Current: 540** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 84 +
 Mawson subnet 36 + Byrd 12 + Amundsen-Scott Station 12).
 
 **2026-08-03 — Halley subnet batch 3 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
@@ -133,8 +133,10 @@ Elisabeth, and Lazar all completed batch 3 (connections-only occurrences, per `C
 — all now 18/30. Abowasa stays paused at 6/30.
 
 **2026-08-03 — Palmer subnet batch 3 complete.** Palmer City, Esperanza, Rothera, Marambio, Port Lockroy,
-Sejong, Signy, and Juan Carlos all completed batch 3 — all now 18/30 (Palmer City 18/50). Next: Mirny subnet
-batch 3.
+Sejong, Signy, and Juan Carlos all completed batch 3 — all now 18/30 (Palmer City 18/50).
+
+**2026-08-03 — Mirny subnet batch 3 complete.** Mirny, Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and
+Shirayuki all completed batch 3 — all now 18/30 (Tri-Cities combined 54/75). Next: Janbogo subnet batch 3.
 
 **2026-08-03 — MILESTONE: every city, region, and Amundsen Station now has 12 entries — batch 2 is complete
 nationwide** (Abowasa remains the sole exception, still paused at 6/30 pending its own founding-nation fix).

@@ -9,7 +9,11 @@ any other; none are required to be chronological, and all stay within the pre-wa
 of the Tri-Cities region (combined with Zhongshan and Sinheung toward a shared 75-entry target). Drawn
 primarily from `Shirayuki_Full_Extrapolation.md` (Tier 1), `Shirayuki_Physical_Infrastructure_Attributes.md`
 and `Specs/Shirayuki.md` (Tier 2), and `Shirayuki_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
-target shared with Zhongshan and Sinheung, 12 done as of this batch.**
+target shared with Zhongshan and Sinheung, 12 done as of that batch. Batch 3, per direct developer
+instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
+once full national digital connectivity existed, each grounded in a specific named city-to-city connection
+from that file (Sayowa, Princess Elisabeth, Zhongshan, Sinheung) distinct from batch 2's own entries. 18
+done as of batch 3.**
 
 ---
 
@@ -215,3 +219,89 @@ exchange, found themselves narrating a story they'd always simply known rather t
 tell in full before — Tashiro's own low-friction negotiation, the site nobody had seriously contested, the
 gradual multi-generational warming into the cluster's present-day closeness. None of it was news to Shirayuki
 itself. For listeners elsewhere in the country, encountering the story for the first time, it was.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Institutional Heritage Comparison Sayowa and Shirayuki Finally Ran in Full
+
+Sayowa's own JARE heritage and Shirayuki's own Bharati-Station-descended founding — Tepenia's two clearest
+living Japanese-institutional civic identities — had always been noted as comparable in the abstract, never
+actually compared institution to institution, since no channel existed for either city's own civic historians
+to examine the other's specific practices.
+
+The first direct exchange, held once contact became possible, compared how each city had actually preserved
+its own founding-era Japanese institutional character across generations — Sayowa's own private, generational
+approach to the Shōwa-era naming weight, Shirayuki's own public, art-and-fashion-forward expression of its own
+Japanese founding. Neither city adopted the other's approach. Both, per what's preserved of the exchange,
+found genuine value in finally understanding exactly how differently two cities could carry a comparable
+inheritance forward.
+
+### The Recipe Exchange That Finally Went Both Directions
+
+Following Shirayuki's own kitchens studying Princess Elisabeth's own culinary practices, a specific reciprocal
+exchange sent Shirayuki's own considerably more developed Japanese culinary tradition back the other way —
+Princess Elisabeth's own small community requesting detail on techniques their own isolated practice had
+never had access to at anything like Shirayuki's own scale.
+
+The exchange, per what's preserved of it, gave Princess Elisabeth's own Japanese-heritage families access to
+culinary knowledge their own tiny, near-total-isolation community had never been able to develop independently
+— genuinely useful practical detail, offered without ceremony by a considerably larger and more established
+tradition to a considerably smaller one. Neither city's own Crossing-adjacent food culture was replaced. Both
+simply had, for the first time, an actual living connection to draw from rather than developing entirely on
+their own.
+
+### The Design Principle Zhongshan Borrowed for Its Own Crossing Quarter
+
+Shirayuki's own gallery-conversion methodology — the founding-era transformation of Bharati Station's own
+research labs into art and studio space — drew a direct inquiry from Zhongshan's own Crossing Quarter artisans,
+curious whether any of Shirayuki's own conversion principles might apply to a planned expansion of Zhongshan's
+own artisan neighborhood.
+
+Shirayuki's own civic architects, per what's preserved of the exchange, shared the specific structural lessons
+learned during the city's own founding-era lab-to-gallery conversions — genuinely useful technical detail that
+had never previously left Shirayuki's own municipal archive. Whether Zhongshan's own Crossing Quarter expansion
+ultimately incorporated the borrowed principles isn't preserved. The request itself, the first time either
+Tri-Cities neighbor had drawn directly on Shirayuki's own specific architectural methodology, marked a genuine
+first for the cluster's own internal knowledge-sharing.
+
+### The Fashion Question Sinheung's Engineers Never Expected to Receive
+
+Ashiato's own salvaged-material tradition, already known to have incorporated unidentifiable industrial
+offcuts during the Tower's construction, prompted a specific, genuinely unexpected inquiry from Sinheung's own
+manufacturing floor once word reached them that some of Ashiato's own garments from that period had
+incorporated material that might have originated at Sinheung's own plant.
+
+Sinheung's own engineers, per what's preserved of the exchange, couldn't confirm the material's exact origin
+with certainty, but supplied detailed information about what kinds of industrial scrap the plant typically
+produced during that period — the first time Sinheung's own manufacturing floor had ever been consulted about
+what became of its own discarded material once it left the plant. Ashiato's own historians, per what's
+recalled of the response, found the partial confirmation satisfying regardless of the remaining uncertainty.
+
+### The Music Sayowa's Own Junction Coordinators Learned to Recognize
+
+Following Glacier-pop's own first nationwide broadcast, Sayowa's own Junction coordinators — among the
+listeners who'd never previously had any reason to know Shirayuki's own music scene existed — became
+unexpectedly regular, informal fans, requesting updates on new recordings through the same connection that
+otherwise carried purely infrastructural Junction coordination business.
+
+Shirayuki's own musicians, per what's preserved of the exchange, found the request genuinely charming — a
+piece of civic infrastructure coordination unexpectedly doubling as a music delivery channel, simply because
+the same connection now carried whatever anyone on either end wanted to send through it. Nothing about
+Glacier-pop's own performance tradition changed. It simply gained, for the first time, a small, specific
+audience among people whose day job had nothing to do with music at all.
+
+### The Diplomatic Comparison Princess Elisabeth Finally Got to Make
+
+Following word of Shirayuki's own Jeju-do founding reaching residents across the country, Princess Elisabeth's
+own civic historians sent a specific follow-up question: whether Shirayuki's own diplomatically-engineered
+founding felt, from the inside, meaningfully different from Princess Elisabeth's own more conventional
+direct-exile-settlement founding.
+
+Shirayuki's own residents, per what's preserved of the response, described the difference honestly — a
+founding negotiated by diplomats rather than lived by the first arrivals directly did shape the city's own
+early self-understanding differently, a genuine distinction neither city had previously had reason to
+articulate. The exchange resolved nothing in particular. It gave both cities, for the first time, a specific
+point of comparison for a question about founding character neither had ever had an appropriate conversational
+partner to discuss with before.
