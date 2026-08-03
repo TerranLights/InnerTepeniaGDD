@@ -10,7 +10,11 @@ any other; none are required to be chronological, and all stay within the pre-wa
 relationship to the ruins — explicitly post-war, out of scope here. Entries below draw instead on the city's
 own genuine pre-war founding, daily life, and culture. Drawn primarily from `Zukelli_Full_Extrapolation.md`
 (Tier 1), `Zukelli_Physical_Infrastructure_Attributes.md` and `Specs/Zukelli.md` (Tier 2), and `Zukelli_
-Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of this batch.**
+Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3,
+per direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that
+could only have happened once full national digital connectivity existed, each grounded in a specific named
+city-to-city connection from that file (Janbogo, Cape Adare, Dumont d'Urville, Esperanza). 18 done as of
+batch 3.**
 
 ---
 
@@ -213,3 +217,86 @@ legibility a longtime resident read fluently and a visitor could barely register
 other city attempted to replicate the system, per what's preserved of the response; the code had grown out of
 Zukelli's own specific unplanned geometry and had never been built to travel. That people elsewhere now knew it
 existed at all was, for the first time, enough.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Hosting Calendar Zukelli's Own Residents Helped Build
+
+Following the jointly planned Crossing calendar between Janbogo and Zukelli, a specific group of Zukelli
+residents — the ones who typically hosted the largest share of visiting Janbogo parties — asked to be
+consulted directly on the calendar's own draft, rather than simply receiving the finished schedule from the
+civic offices that had negotiated it.
+
+The revised calendar, adjusted once direct contact let the actual hosts weigh in rather than only civic
+administrators, shifted several hosting turns to better match which Zukelli households and venues genuinely
+had capacity in a given season — a level of practical detail neither city's own civic office could have known
+without asking the people actually doing the hosting. It marked the first time the Crossing's own logistics had
+been shaped by direct resident input rather than administrative planning alone.
+
+### The Penguin Question Zukelli's Residents Never Expected to Receive
+
+Following Zukelli's own inquiry to Cape Adare about the city's penguin-keeping guidelines, a specific follow-up
+question came back the other direction — Cape Adare's own residents, curious what had originally prompted
+Zukelli's interest in a tradition with no obvious connection to Zukelli's own established civic culture at all.
+
+Zukelli's own residents, per what's preserved of the response, admitted the interest was simply genuine
+curiosity, sparked by an unrelated conversation with no deeper civic reasoning behind it. Cape Adare's own
+residents, per what's recalled of the exchange, found the honest, uncomplicated answer entirely in keeping
+with everything else they'd heard about Zukelli's own easy, unguarded hospitality — a small, genuine exchange
+between two cities with nothing obvious in common beyond the fact that direct contact now let idle curiosity
+travel as easily as anything more purposeful.
+
+### The Staging Idea Dumont d'Urville's Venues Actually Kept
+
+Following the venue-comparison visit from Zukelli's own musicians to Dumont d'Urville, a specific staging
+technique traveled back the other direction once Dumont d'Urville's own venue owners, impressed by something
+they'd heard about Zukelli's own restaurant-performance layout, asked for more detail themselves.
+
+Zukelli's own venue owners, per what's preserved of the exchange, described the specific dedicated-stage-in-
+a-restaurant model Elisa Faranda had originally pioneered — a design principle Dumont d'Urville's own
+downtown venues, built around a different founding logic entirely, had never directly considered. Whether any
+Dumont d'Urville venue actually adopted the layout isn't preserved. The exchange itself, running in both
+directions between two cities' own music scenes for the first time, confirmed the cultural connection first
+noticed during the earlier visit ran genuinely both ways.
+
+### The Redistribution Comparison Esperanza and Zukelli Finally Ran Together
+
+Zukelli's own population, reduced in the same administrative redistribution that enlarged Lazar alongside
+Esperanza and Janbogo, had never been directly compared against Esperanza's own experience of the same event
+— the two cities' own civic administrations had each only compared notes with Janbogo, never with each other.
+
+The first direct exchange between Zukelli and Esperanza specifically, held once contact made a genuine
+three-way comparison actually complete, confirmed the same pattern already found between Esperanza and
+Janbogo — newer districts disproportionately affected over founding-era neighborhoods. With all three donor
+cities' own experiences finally compared directly against each other, the redistribution's own actual
+implementation pattern was, for the first time, fully documented across every city it had touched.
+
+### The Restaurant Rivalry Cape Adare Heard About Secondhand
+
+Word of the good-natured rivalry between Elisa Faranda's own original venue and its later imitator reached
+Cape Adare's own residents for the first time once casual conversation, made possible by direct contact,
+carried the story to a city with no prior connection to Zukelli's own music scene at all.
+
+Cape Adare's own residents, per what's preserved of the reaction, found the story genuinely charming —
+particularly Faranda's own decision to attend the competing venue's early performances and offer feedback
+rather than treating the rivalry as a threat. Nothing came of the exchange beyond the story itself being told
+and enjoyed. It marked one more small thread of Zukelli's own civic character reaching a city that had never
+had any prior reason to know it existed.
+
+### The Crossing Zukelli Finally Described to Someone Who'd Never Experienced Anything Like It
+
+Following word of the Janbogo-Zukelli Crossing tradition reaching cities with no comparable neighbor of their
+own, a specific resident from a genuinely distant city — one with no close subnet neighbor at all — asked
+Zukelli directly what the tradition actually felt like to participate in, rather than simply how it was
+structured.
+
+Zukelli's own residents, per what's preserved of the response, found the question harder to answer than
+expected — the Crossing's own mutual, unplanned warmth was something residents had always simply lived rather
+than needed to describe from the outside. The answer they eventually gave, per what's recalled of it, focused
+less on logistics than on the specific, hard-to-articulate feeling of never quite knowing, on any given visit,
+who was actually hosting whom. The distant resident, per what's preserved of their own reply, admitted they'd
+never had a city close enough to have anything comparable — the first time Zukelli's own residents had
+described the Crossing to someone for whom the very idea was genuinely foreign, not just an unfamiliar
+specific tradition.
