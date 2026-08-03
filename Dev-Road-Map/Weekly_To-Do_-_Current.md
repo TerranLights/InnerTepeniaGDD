@@ -87,16 +87,6 @@ file and start a fresh one for the next stretch of work).
   resident's own life actually consists of day to day. Further raw material for Under-Questline generation
   (and general NPC/character writing) once all three passes exist.
 
-- [ ] **Cross-reference the Palmer City/Shirayuki/Mawson/Lazar Community Infrastructure expansion into their district diaspora counterparts** *(flagged 2026-07-31, deferred to tomorrow night — weekly model allotment currently at 100%)*
-  Palmer City, Shirayuki, Mawson, and Lazar all had their own `Community_Infrastructure.md` Additions and
-  Social Cohesion Mechanisms lists substantially expanded on 2026-07-31 (new named venues and rituals — see
-  `project_community_infrastructure_expansion_pass` memory for the full list per city). None of that new
-  material has been checked against `District_Refugee_Diaspora_Composition.md` yet, where all four cities
-  already appear as named diaspora contributors across multiple Concordia districts. Go through each
-  district entry for these four source cities and assess whether any of the newly-added Additions/Social
-  Cohesion Mechanisms items should be folded in as additional "brought with them" transplant material,
-  the same way the rest of that file already works.
-
 - [ ] **District Main vs. Under-Questline candidates — generate more**
   Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
   are established; each district currently has only its *first* main-questline candidate. Main questlines:
@@ -124,13 +114,6 @@ specs," which stays in `TODO.md` only for now.
 - [ ] **Armor and clothing** — a system for this doesn't yet exist.
 - [ ] **Faction outfitting** — what specific factions actually wear/carry, distinct from the general
   armor/clothing system above.
-- [ ] **Convert BG3 cantrips into "quickhacks," and BG3 spells and feats into perks and traits** — a direct
-  conversion-mapping exercise from Baldur's Gate 3's own ability lists.
-- [ ] **Convert Cyberpunk 2077's skill-based bonuses into "challenge perks"** (and, where it fits better,
-  ordinary level-up perks instead) — source is CP2077's own skill trees (all five tabs) and rank-up bonuses.
-  Mixed sort, not 1:1: some become challenge perks, some become ordinary perks, some don't translate at all
-  given Inner Tepenia's Fallout-descended system (e.g. CP2077's "+1 perk point" bonuses don't map, since
-  perk points here only come every two levels). See `TODO.md`'s own entry for the source links.
 - [ ] **Real-world scientific basis for BG3 damage types** — what objects/items would cause the
   scientifically-supported equivalent of each BG3 damage type (and comparable relative amounts), and what
   kind of setting each would characteristically be found in. Ties into `Per_City_Weapons`/`Damage_Types.md`.
