@@ -10,57 +10,64 @@ Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolat
 
 ---
 
-## Two Systems, One Coordinated Operation
+## The Shipment That Never Touched the Ground
 
 Coordination infrastructure linking the airfield and shipyard operations (Physical Infrastructure Attribute
-#5) reflects a defining, established fact about Marambio's own civic character — the airfield and the
-shipyards, together rather than separately, made the city a transient, goods-and-people-in-motion hub rather
-than a settlement built around any single logistics mode.
+#5) reflects a defining fact about Marambio's own civic character — the airfield and the shipyards, together,
+made the city a transient, goods-and-people-in-motion hub. The coordination's own reputation traces to one
+specific delivery still cited as the model case.
 
-*(An informational sheet on the coordination itself, not a single shipment.)* Per Finding B, this dual-mode
-diversification is what made Marambio's own centrality durable in a way single-mode dependency elsewhere
-never could match — cargo and passengers moving through the city rarely relied on just one system, since
-goods arriving by ship routinely continued onward by air, and air cargo bound elsewhere in Tepenia often
-originated from something the Shipyards had just received. Coordinators working both systems together, per
-what's established about the city's own operational discipline, treated the handoff between air and sea as
-Marambio's actual core competency — not the airfield alone, and not the Shipyards alone, but the practiced,
-routine work of moving something seamlessly from one mode to the other without it ever sitting idle for long.
+A time-critical shipment bound for a Peninsula city facing a genuine supply shortfall arrived at the
+Shipyards by ship with only hours of margin before the connecting flight's own scheduled departure.
+Coordinators working the handoff between the two systems, per what's remembered of the incident, moved the
+cargo directly from dockside to airfield without it ever entering ordinary warehouse storage — paperwork,
+inspection, and loading all compressed into the same narrow window, coordinated in real time between
+dockworkers and ground crew who'd never handled a handoff quite this tight before. The flight departed on
+schedule, and the delivery reached its destination in time to matter. Coordinators working both systems
+afterward treated the incident as the clearest possible demonstration of what Marambio's own dual-mode
+diversification was actually for — not simply two logistics systems existing side by side, but capable, when
+genuinely tested, of moving something seamlessly from one to the other without it ever sitting idle at all.
 
 ---
 
-## The Hall That Kept Its Own Discipline
+## The Discipline Fariña Wrote Down Before He Had To
 
 The Comandante's Operations Hall (attribute #6) is where the founding-era operational discipline governing
 Marambio's dual-mode logistics was originally established — a discipline that, per Finding D, outlasted the
-founding population's own demographic presence, independently re-derived by the exile generation from
-surviving records rather than inherited from any living, continuous institution.
+founding population's own demographic presence entirely.
 
-*(An informational sheet naming an unexamined pattern, not resolving it — Finding D's own framing.)* Per
-Finding D, the Hall is the concrete building where Marambio's own quiet version of Janbogo's signature
-cultural inversion actually persisted — founding institutional procedure continuing to structure how the
-airfield and shipyards operated together, regardless of who staffed the Hall generations later, with no
-established civic tradition ever naming the pattern the way Janbogo's own version eventually was. Workers who
-learned the Hall's own operational procedures, across successive generations, inherited a working discipline
-without necessarily knowing or caring where it originally came from — consistent with Marambio's own
-function-over-reflection civic character, the inheritance simply worked, silently, rather than becoming the
-subject of deliberate civic story or ceremony.
+**Comandante "Ezequiel Fariña" *(placeholder, not developer-chosen)*** is credited, per `Marambio_Full_
+Extrapolation.md` Section V, with establishing that operational discipline and institutional character in the
+first place. Per what's preserved of his own early tenure, Fariña insisted on formally documenting Hall
+procedures — handoff protocols, scheduling discipline, the coordination logic between airfield and shipyard —
+in writing, at a time when the founding population was still small and cohesive enough that several of his
+own subordinates considered the exercise unnecessary, arguing informal, verbally-transmitted practice was
+sufficient for a settlement this size. Fariña's own reasoning, per what's remembered of his argument, was
+that a population this small couldn't guarantee its own institutional knowledge would keep transmitting
+informally forever. He proved right in a way he couldn't have specifically anticipated: generations later,
+once the founding population's own demographic presence had eroded well below what verbal tradition could
+have carried forward, it was Fariña's own written procedures — not any living memory of him — that let the
+exile generation independently re-derive the discipline governing the Hall exactly as he'd first set it down.
 
 ---
 
-## Where the Big Ships Docked
+## The Load That Broke Nothing
 
 The Marambio Shipyards (attributes #3–4) span the island's inner side facing the mainland — the confirmed
-Palmer-subnet receiving point for South American shipping, and, per Finding A, the concrete physical
-infrastructure behind Marambio's own resolved shipping division of labor with Esperanza.
+Palmer-subnet receiving point for South American shipping, handling bulk, high-volume, less-differentiated
+cargo distinct from Esperanza's own smaller-scale, higher-value shipments (Finding A). The scale difference
+was demonstrated directly, once, when Esperanza's own harbor genuinely couldn't have handled what Marambio
+routinely did.
 
-*(An informational sheet on that division of labor, not a single voyage.)* Marambio handled bulk,
-high-volume, less-differentiated cargo, while Esperanza's own smaller Hope Bay Harbor handled comparatively
-smaller-scale, higher-value shipments — a genuine physical distinction in scale between the two facilities,
-not merely a difference in priorities. The Shipyards' own established scale is specifically what made bulk
-handling possible at all — dockworkers describe the difference from Esperanza's own harbor operations in
-plain terms: Marambio moved volume, consistently, day after day, while Esperanza's own trade felt more like
-individually notable shipments. The two ports complemented rather than competed with each other, each built
-for, and suited to, the category of cargo its own infrastructure actually handled.
+A single bulk delivery — raw material bound for redistribution across several Peninsula cities at once,
+consolidated into one exceptionally large shipment rather than several smaller ones — arrived at the
+Shipyards at a volume dockworkers who'd previously worked Esperanza's own Hope Bay Harbor openly doubted their
+former facility could have physically received at all. The delivery unloaded and redistributed within
+Marambio's own ordinary operational timeframe, no different in practice from the volume the Shipyards
+handled routinely. The comparison stuck among crews who'd worked both ports specifically because it made
+concrete something usually described only abstractly — Marambio and Esperanza weren't simply differently
+prioritized, they operated at genuinely different physical scales, and this one shipment was large enough to
+make that difference impossible to describe as anything but structural.
 
 ---
 
@@ -82,34 +89,40 @@ invented discipline, difficult to read as coincidental.
 
 ---
 
-## Keeping Tepenia's Planes in the Air
+## The Day Every Route Ran Through Marambio at Once
 
-The Marambio Airfield (attribute #1) is the Palmer subnet's primary aviation hub — the most developed
-airstrip infrastructure of any Peninsula city, serving exclusively internal Tepenian traffic between cities,
-distinct from Upper Earth arrivals, which route through Machu Picchu Base on King George Island instead.
+The Marambio Airfield is the Palmer subnet's primary aviation hub — the most developed airstrip
+infrastructure of any Peninsula city, serving exclusively internal Tepenian traffic. Its own status as the
+subnet's genuine connective node, rather than merely one busy airfield among several, was demonstrated
+directly during one exceptionally high-traffic stretch.
 
-*(An informational sheet on the airfield's own operational scale, not a single flight.)* Aviation maintenance
-and fueling infrastructure (attribute #2), sized specifically to the airfield's own central role, meant
-Marambio's own ground crews handled a volume and variety of internal air traffic no other Palmer subnet city
-needed comparable capacity for. Pilots moving people and cargo between Peninsula cities routinely passed
-through Marambio at some point in the journey, per what's established about the subnet's own internal
-logistics — less a single destination than the connective node every internal route effectively ran through,
-whether or not Marambio itself was the actual origin or endpoint of any given flight.
+A coordinated multi-city resupply effort, responding to shortages affecting several Peninsula settlements
+simultaneously, routed nearly every leg of the effort through Marambio at some point — not because any
+single planner deliberately designed it that way, but because ground crews scheduling the individual flights
+each independently found Marambio the fastest connecting point for their own specific route. Aviation
+maintenance and fueling infrastructure, sized for ordinary heavy traffic, was tested by a volume of
+simultaneous operations well beyond any single day's typical schedule, and held without a serious delay
+across the whole effort. Ground crews who worked that specific stretch, per what's remembered of it,
+describe it as the clearest possible demonstration that Marambio wasn't simply a busy airfield — every route
+in the subnet, tested all at once, actually did run through it, whether or not any individual flight's own
+origin or destination was Marambio itself.
 
 ---
 
-## Ground That Offered Nothing to Hide Behind
+## The Hangar That Taught Builders to Respect Flat Ground
 
-Structural engineering on Seymour Island's genuinely flat, small, indefensible ground (attribute #8) posed a
-distinctly different founding-era construction problem than any mountainous or decentralizable island
-elsewhere in the subnet — closer to Palmer City's or Sejong's own exposed siting than to Rothera's own large,
-sheltering terrain.
+Structural engineering on Seymour Island's genuinely flat, small, indefensible ground posed a distinctly
+different founding-era construction problem than any mountainous or decentralizable island elsewhere in the
+subnet. An early hangar structure, built by crews who underestimated exactly how much that flatness would
+matter, taught the lesson directly.
 
-*(An informational sheet on the construction challenge itself, not a single storm.)* Builders working
-Seymour Island's own flat terrain, per what's established about the region's geography, had no natural
-windbreaks or elevation changes to build structures into or behind the way founders elsewhere in the Halley
-and Palmer subnets could rely on — every structure here stood fully exposed to whatever weather crossed the
-island, requiring engineering solutions closer to Palmer City's own wind-resistant design philosophy than to
-any terrain-sheltered alternative. The same flat, open ground that made large-scale airfield and shipyard
-construction genuinely practical here — nothing to grade around, nothing blocking runway or dock placement —
-was, from a pure structural-engineering standpoint, the harder problem to solve for everything built on it.
+The hangar's original design, per what's preserved of the founding-era construction record, assumed enough
+passive wind resistance from the structure's own bulk alone — a reasonable assumption on terrain with any
+natural windbreak, and a genuinely mistaken one on ground offering none at all. The structure suffered real
+damage during its first severe wind event, exposed fully on every side with nothing between it and whatever
+crossed the island. Rebuilding crews adopted a wind-resistant design discipline closer to Palmer City's own
+engineering philosophy instead — shaping structures to minimize what the wind had to push against, rather
+than relying on bulk to simply outlast it. Every subsequent structure built on Seymour Island, including the
+Shipyards' own facilities, inherited that corrected discipline — a founding-era construction failure that
+became, within a single rebuild, the standard every later builder on the island worked from without needing
+to relearn the lesson themselves.
