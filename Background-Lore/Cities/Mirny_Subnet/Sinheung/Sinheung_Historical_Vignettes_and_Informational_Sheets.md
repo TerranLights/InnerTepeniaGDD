@@ -9,7 +9,11 @@ any other; none are required to be chronological, and all stay within the pre-wa
 of the Tri-Cities region (combined with Zhongshan and Shirayuki toward a shared 75-entry target). Drawn
 primarily from `Sinheung_Full_Extrapolation.md` (Tier 1), `Sinheung_Physical_Infrastructure_Attributes.md`
 and `Specs/Sinheung.md` (Tier 2), and `Sinheung_Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many —
-target shared with Zhongshan and Shirayuki, 12 done as of this batch.**
+target shared with Zhongshan and Shirayuki, 12 done as of that batch. Batch 3, per direct developer
+instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
+once full national digital connectivity existed, each grounded in a specific named city-to-city connection
+from that file (Neumayer, Denison, Mawson, Belgrano, Sejong/Janbogo, Princess Elisabeth) distinct from batch
+2's own entries. 18 done as of batch 3.**
 
 ---
 
@@ -220,3 +224,87 @@ novelty — the cluster's own working relationship had never needed explaining t
 particularly needed an audience beyond it either. Nothing about how the three cities actually operated changed.
 What changed was simply that a piece of founding-era diplomatic history, quietly functional for centuries,
 finally had listeners who'd never known it existed.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Schematic Revision Neumayer and Sinheung Finally Drafted Together
+
+Following the original mid-run tolerance correction, Neumayer's own design office and Sinheung's own
+manufacturing floor undertook their first genuine joint revision of the Mark IV chamber schematic itself —
+not a single correction, but a collaborative redesign session addressing several accumulated minor issues
+Sinheung's own production floor had logged over multiple runs but never previously had a direct channel to
+propose fixing at the source.
+
+The session, held once sustained contact made an ongoing design relationship possible rather than isolated
+one-off corrections, produced a revised schematic — Mark IV.1, informally — incorporating Sinheung's own
+practical production feedback directly into Neumayer's own original design. It marked the first time either
+institution had treated the schematic as a living document the two cities actively maintained together, rather
+than a finished design shipped once and corrected only when something broke.
+
+### The Historical Comparison Denison Never Got to Finish Making
+
+Denison's own historical role as the third confirmed Cradle chamber manufacturer, before its later
+destruction, prompted a specific request from Sinheung's own engineers: detailed technical records from
+Denison's own operational years, sought to compare production methodology across all three manufacturers the
+Cradle network had ever actually had.
+
+Denison's own archivists supplied what records survived, and Sinheung's own engineers completed a genuine
+three-way technical comparison — Denison's own methodology, Byrd's own, and Sinheung's own — confirming real
+convergent solutions across all three sites despite none of them ever having directly coordinated during
+Denison's own active years. The comparison gave Sinheung's own engineering culture something it had never
+had before: documented proof that the precision-tolerance discipline governing chamber manufacturing had been
+independently rediscovered at least three times, not simply inherited once and passed down.
+
+### The Import Ledger Mawson Finally Reconciled With Sinheung Directly
+
+Sinheung's own imports, received via the city of Mawson through a physical logistics link independent of
+Arcanet subnet boundaries, had always been tracked separately by each city's own logistics office — reconciled
+only periodically, through indirect correspondence, rather than checked against each other in real time.
+
+The first live reconciliation between the two cities' own import ledgers, run once direct contact let both
+offices compare records simultaneously, caught a small but genuine discrepancy that had apparently persisted
+unnoticed for several shipping cycles — a minor accounting drift neither city's own periodic reconciliation had
+ever fully resolved. The corrected ledger closed the gap permanently. It marked the first time either office's
+own records had actually matched the other's in real time rather than merely converging eventually.
+
+### The Part Sinheung's Engineers Finally Explained They'd Actually Needed
+
+Following Belgrano's own explanation of where a specific salvaged aircraft part had originally come from, a
+Sinheung technician sent a follow-up message Belgrano had never received before: the full technical story of
+what the part had actually been needed for, and how close the original repair had come to failing without it.
+
+Belgrano's own garage staff, per what's preserved of receiving the explanation, found the full account
+considerably more satisfying than the original brief follow-up — a genuine narrative, not just a confirmation,
+of exactly what their own salvaged stock had made possible on the other end. The exchange closed the loop
+completely for the first time, turning a single transactional part shipment into something both cities could
+actually call a shared story.
+
+### The Korean Heritage Meeting That Finally Included Sinheung's Engineers
+
+Following the first three-way conversation between Janbogo, Sejong, and Sinheung's own civic representatives,
+a specific follow-up gathering brought together engineers and skilled tradespeople from all three cities
+specifically — a professional, rather than purely cultural, extension of the same shared Korean-founded
+heritage that had never previously produced a technical exchange.
+
+The gathering, held once direct contact made organizing it straightforward, paired Sinheung's own precision
+manufacturing expertise against Janbogo's own hospitality-infrastructure engineering and Sejong's own
+multinational-coexistence-driven construction discipline — three genuinely different technical traditions,
+sharing a founding heritage that had never previously connected them professionally. No formal partnership
+resulted. The three cities' own tradespeople, per what's recalled of the occasion, simply found the shared
+heritage gave the technical conversation a warmth a purely professional exchange wouldn't have had on its own.
+
+### The Demographic Study Princess Elisabeth's Own Community Finally Completed
+
+Following the first contact between Princess Elisabeth's and Shirayuki's own Japanese-heritage communities,
+Sinheung's own Japanese-descended population — genuinely thin, buried deep within its own overwhelmingly
+Korean-Primary demographic profile — was included for the first time in what became a genuine three-city
+demographic study of Tepenia's scattered Japanese-heritage populations.
+
+The study, conducted once direct contact let researchers at all three cities actually compare census detail
+together, confirmed that Sinheung's own Japanese community, though numerically small, traced to a genuinely
+distinct migration current from either Princess Elisabeth's or Shirayuki's own. Nothing about Sinheung's own
+civic identity shifted as a result — the community remained exactly as quietly integrated as it always had
+been. The study simply gave three previously unconnected communities, for the first time, an accurate picture
+of how they actually related to each other demographically.
