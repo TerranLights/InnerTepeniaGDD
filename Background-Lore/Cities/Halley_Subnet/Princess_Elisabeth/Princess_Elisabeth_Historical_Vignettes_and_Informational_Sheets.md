@@ -12,7 +12,11 @@ city's founding-era engineering and daily operation over its eventual destructio
 divider) is framed around the Amundsen Tower's own completion, per direct developer instruction 2026-08-03: 3
 entries shortly before completion, 3 shortly after — once the whole country was connected through the
 Tower's single relay node for the first time. The Tower's own exact completion date stays deliberately
-unpinned in prose. Target 30, 12 done as of this batch.**
+unpinned in prose. Target 30, 12 done as of this batch. Batch 3, per direct developer instruction, is
+framed around `City_National_Connections.md`: six occurrences that could only have happened once full
+national digital connectivity existed, each grounded in a specific city-to-city connection from that file
+(deliberately using connections beyond the Amundsen Station/Tower thread batch 2 already covered in depth)
+and in Princess Elisabeth's own established struggles. 18 done as of batch 3.**
 
 ---
 
@@ -259,3 +263,99 @@ the same matter-of-fact thoroughness applied to everything else the institution 
 curiosity as simply one more category of routine correspondence rather than anything requiring special
 acknowledgment — an institution built on invisibility becoming, gradually and without any deliberate effort
 to seek it out, quietly known beyond its own city for the first time in its history.
+
+---
+
+## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
+
+### The Genealogy Two Elders Finally Traced Together
+
+Princess Elisabeth's own Japanese-descended community, co-Primary alongside the USA and part of the same
+"eastern/Atlantic" demographic current The Crossing itself commemorates, had always understood its own
+connection to Tepenia's other Japanese-heritage communities as a distant, unconfirmed likelihood — genuine
+kinship nobody had ever had any direct channel to actually trace.
+
+The first live conversation between a Princess Elisabeth elder and a counterpart at Sayowa, held once direct
+contact became possible for two communities that had never previously exchanged so much as a letter, uncovered
+a specific, genuine family connection neither side had known existed — a shared surname line neither elder had
+ever had any way to confirm was more than coincidence until they could actually compare notes directly. The
+confirmed connection didn't reshape either community's own daily life. It gave two elders, and the families who
+heard the story afterward, something neither generation before them had ever been able to have: proof, rather
+than plausible guesswork, of exactly how the "eastern current" the city's own founding history already
+described had actually reached this far.
+
+### The Recipe Shirayuki's Own Kitchens Asked to Borrow
+
+The Crossing's own food-exchange tradition, born from one maintenance crew's spontaneous gesture between
+Princess Elisabeth's American and Japanese communities, had never reached another city's own Japanese-heritage
+population directly — word of it, when it traveled at all, had always gone to audiences with no particular
+connection to the tradition's own Japanese half specifically.
+
+The first direct exchange with Shirayuki came once a group of Shirayuki residents, curious how Princess
+Elisabeth's own Japanese community had maintained specific culinary practices in near-total isolation from
+Shirayuki's own considerably larger and more developed Japanese-institutional culture, reached out to compare
+notes. What resulted wasn't dramatic — a modest, genuine cultural exchange between two communities that had
+each independently carried pieces of the same broader heritage forward in almost total isolation from each
+other, comparing what had drifted and what had stayed recognizably the same after generations apart.
+
+### The Load-Response Question Sinheung's Engineers Asked First
+
+The Maintenance Corps' own reputation for catching marginal readings before they became genuine faults,
+already drawing outside technical interest once the relay connected Princess Elisabeth to the rest of the
+country, received its first inquiry specifically from Sinheung's own fabrication engineers — a genuine
+manufacturing city with no prior working relationship to Princess Elisabeth at all.
+
+The inquiry concerned a load-response pattern in precision chamber-fabrication equipment that echoed, closely
+enough to be worth asking about, a stress signature the Underground Reserve's own thermal cells had once
+exhibited. Corps staff, per what's preserved of the exchange, recognized the pattern immediately and supplied
+the diagnostic approach that had once caught Kaminari's own early-stage fault — genuinely useful cross-industry
+knowledge transfer between an energy-storage system and a manufacturing floor that had never had any obvious
+reason to compare notes before a direct channel existed to make the comparison worth attempting at all.
+
+### The Turbine Design Signy Finally Got to Study Directly
+
+Princess Elisabeth's own founding zero-emissions engineering and Signy's own genuinely self-sufficient
+wind-and-hydro power system had always been Tepenia's two clearest examples of actively-maintained,
+engineered civic power — developed in complete isolation from each other, since no channel had ever existed
+for either city's own engineers to compare designs.
+
+The first direct technical exchange, initiated by Signy's own engineers following up on their own recent
+consultation with Tower-era energy planners, asked Princess Elisabeth's own Maintenance Corps for detailed
+turbine-siting data from the Turbine Fields' own founding-era planning record. Corps staff supplied it in
+full, including the specific lesson the founding generation had learned the hard way about matching turbine
+placement to genuinely reliable wind patterns rather than raw peak output — the same principle, arrived at
+independently, that Signy's own founding engineers had also eventually learned from their own near-miss. Two
+cities that had never spoken directly confirmed, for the first time, that they'd solved comparable problems the
+same way without either ever knowing it.
+
+### The Highway Question Dome Fuji Finally Asked Directly
+
+The Dome Fuji routing corridor through Princess Elisabeth had always functioned as ordinary transportation
+infrastructure of uncertain formal status — genuinely used, but never confirmed as a deliberate, dedicated
+highway link the way other Halley subnet connections were, since no channel existed for Dome Fuji's own
+planners to simply ask Princess Elisabeth's own civic authorities directly what the corridor's actual standing
+was.
+
+The first formal inquiry Dome Fuji ever sent asking whether the route should be upgraded to a confirmed,
+maintained highway connection reached Princess Elisabeth's own administration directly, rather than through
+the kind of indirect, multi-step correspondence any earlier such question would have required. The inquiry
+didn't resolve the corridor's own uncertain status immediately — Princess Elisabeth's own civic authorities
+took the question under genuine consideration rather than answering it on the spot — but it marked the first
+time in either city's history that the question had actually been asked directly, by the party with an actual
+stake in the answer, rather than left as an open item in a Megasheet neither city had any way to actually
+settle between themselves.
+
+### The Toast Raised Simultaneously in Two Cities for the First Time
+
+The Crossing, observed at Princess Elisabeth as a purely local holiday for generations, was marked for the
+first time alongside a comparable, independently-timed observance at Sayowa once the two cities' own
+Japanese-heritage communities — freshly back in direct contact through the family correspondence the
+newly-confirmed genealogical connection had opened — realized their own respective observances fell close
+enough in the calendar to coordinate.
+
+Residents at Princess Elisabeth, per what's remembered of that first coordinated occasion, raised a toast
+timed deliberately to align with Sayowa's own simultaneous observance hundreds of kilometers away — a genuinely
+new kind of civic gesture, two cities' own separate traditions briefly synchronized on purpose rather than
+simply existing in parallel ignorance of each other. Neither city's own holiday changed in any lasting way.
+For one specific evening, though, a tradition born from an unplanned maintenance-shift gesture generations
+earlier was, for the first time, shared on purpose rather than discovered by accident.
