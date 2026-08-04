@@ -11,7 +11,12 @@ file's own established convention:** entries below are framed pre-war, as lived 
 rather than as ruins content. **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct
 developer instruction, is framed around `City_National_Connections.md`: six occurrences that could only have
 happened once full national digital connectivity existed, each grounded in a specific named city-to-city
-connection from that file (Dumont d'Urville, Fort McMurdo, Scott, Davis, Mirny). 18 done as of batch 3.**
+connection from that file (Dumont d'Urville, Fort McMurdo, Scott, Davis, Mirny). 18 done as of batch 3.
+Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Mirny subnet (Mirny, Davis) and
+anything reaching Dumont d'Urville, Fort McMurdo, or Scott required trucking, postal service, or physically
+traveling there — despite Hwy 2 giving Casey and Dumont d'Urville the shortest, most direct physical highway
+link in the country. 24 done as of this batch.**
 
 ---
 
@@ -305,3 +310,76 @@ same live conditions at once. What mattered, per what's preserved of the inciden
 first time a genuine scheduling disagreement between the two cities' own logistics operations had been
 resolved the same day it arose, rather than becoming the kind of days-long back-and-forth correspondence any
 comparable dispute had always previously required.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Wind-Window Confirmed Before Davis Even Asked Twice
+
+Casey's own wind-window certification system, coordinated constantly with Davis over the Mirny subnet's own
+instant line, let both cities adjust route-safety bulletins for each other in real time — a closure called at
+Casey could be reflected in Davis's own dispatch schedule before the closure had finished being logged.
+
+A specific weather window, per what's preserved of the incident, was confirmed open at Casey and relayed to
+Davis in time to save a scheduled convoy from an unnecessary delay — coordination that, extended to a
+subnet-external dispatch office, would have required the same bulletin to travel by whatever slower channel
+existed, arriving well after the window itself had already closed or held.
+
+### The Shortest Highway in the Country, and the Slowest Mail
+
+Hwy 2 gave Casey a direct physical road connection to Dumont d'Urville shorter than any other cross-subnet
+highway link in Tepenia — and yet, before the Tower, nothing digital traveled that same short distance any
+faster than a letter carried by truck, since the highway crossed a subnet boundary no cable did.
+
+A specific technical question, sent from Casey to Dumont d'Urville along the very road that made the two
+cities each other's closest cross-subnet neighbor, still took the better part of two weeks to receive an
+answer to — the physical proximity Hwy 2 provided doing nothing to speed up a conversation that had to travel
+by truck rather than wire, a contrast Casey's own dispatchers found genuinely strange once they thought about
+it directly.
+
+### The Safety Culture Fort McMurdo Copied From a Document, Not a Conversation
+
+Casey's own wind-window certification discipline and Fort McMurdo's own Erebus monitoring bulletins shared
+close enough underlying values that Fort McMurdo's own industrial safety office requested Casey's own written
+procedures directly — a request that, crossing from the Mirny subnet into the Janbogo subnet, arrived and was
+answered entirely by mail.
+
+The procedures document Casey eventually sent, per what's preserved of the exchange, took months to compile,
+mail, and confirm received — genuinely useful material that Fort McMurdo's own safety office adapted for its
+own industrial context, without either office ever actually discussing the adaptation directly, since no
+faster channel existed to have that conversation at all.
+
+### The Calibration Question Scott Answered a Full Season Later
+
+Scott's own precision-calibration reputation, once it spread beyond the Janbogo subnet, drew a specific
+technical inquiry from Casey's own instrument technicians — a question that could only be asked and answered
+by written correspondence, since nothing connected the Mirny and Janbogo subnets directly.
+
+The reply, per what's preserved of the letter, arrived a full season after the original question was sent —
+detailed and genuinely useful once it finally came, though Casey's own technicians had, by that point, already
+worked out an approximate answer of their own rather than wait indefinitely for Scott's own more precise one.
+
+### The Story Mirny Told the Same Day It Was Asked For
+
+The account of Oyunbaatar's crew and Mirny's own Quarry Return Toast, requested by Casey's own dispatchers
+out of simple curiosity, was told in full over the Mirny subnet's instant line the same day the question was
+first raised — a level of immediacy Casey's own staff had come to expect from anything asked within the
+subnet.
+
+The same kind of cultural curiosity, directed instead at Fort McMurdo's own founding-era traditions, produced
+a written exchange that took the better part of a year to complete — Casey's own dispatchers, per what's
+remembered of the comparison, noting afterward how strange it felt that a story from a nearer subnet neighbor
+arrived faster than one from a city Hwy 2 physically connected them to just as directly.
+
+### The Manifest Dumont d'Urville Never Saw Coming
+
+A shipment assembled jointly from Casey's and Mirny's own combined stock, coordinated in a single real-time
+session over the subnet's instant line, was packed and dispatched toward Dumont d'Urville the same day the
+order was placed — the fastest planning phase either city had on record for a cross-subnet shipment.
+
+The shipment then traveled the length of Hwy 2 with no way for either planning city to confirm its progress
+once it crossed into the Janbogo subnet — the same highway that made the physical journey shorter than any
+other cross-subnet route in the country doing nothing to shorten the silence that followed. Dumont d'Urville's
+own receiving staff, when the shipment finally arrived, had no way of knowing how quickly it had actually been
+assembled.
