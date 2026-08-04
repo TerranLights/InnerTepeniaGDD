@@ -13,7 +13,10 @@ connection from that file and in Belgrano's own established struggles. Batch 4, 
 instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
 direct digital contact existed only within the Halley subnet (Sanay, Troll, Halley) and anything reaching
 Byrd, Esperanza, Marambio, or Sinheung required trucking, postal service, or physically traveling there.
-Target 30, 24 done as of this batch.**
+Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh
+occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Belgrano = Neptune/
+Diligence + Metal/precision-through-salvage) as a thematic undertone. Target 30, 30 done as of this batch —
+Belgrano's own full target is now complete.**
 
 ---
 
@@ -414,3 +417,79 @@ Sanay could track once it crossed into Palmer subnet territory — the two ports
 ending exactly at the subnet boundary their shared planning session had never needed to cross. Marambio's own
 dockworkers, receiving the shipment weeks later, had no way of knowing how quickly the loading itself had
 actually been arranged.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Founding Maps Byrd Could Finally Search Itself
+
+The maps recovered from Belgrano's own archives, credited with helping locate and found Byrd generations
+earlier, had always existed at Belgrano only as physical originals — Byrd's own historians, curious about
+details the founding-era accounts never fully explained, had never had any way to examine them directly.
+
+Once Belgrano's own archive was searchable over the national relay, a Byrd researcher spent a season going
+through the original survey annotations herself rather than relying on secondhand summaries — finding, per
+what's preserved of the discovery, a marginal note from the original cartographer that clarified a route
+detail no existing account of the expedition had gotten quite right. The correction was small. It was also
+the first time Byrd's own founding story had been checked against its actual source material rather than
+against however many retellings had passed it down.
+
+### The Recipe Esperanza Asked to Confirm, Not Just Receive
+
+Following the earlier exchange that traced a specific dish's origins to Belgrano's own founding culture,
+Esperanza's own kitchens went further — asking Belgrano directly whether a second, less certain family recipe
+also traced back the same way, rather than simply assuming a connection the way the first exchange had been
+prompted to check.
+
+Belgrano's own residents, per what's preserved of the reply, confirmed part of the recipe's own origin but
+corrected a detail Esperanza's own version had drifted on over generations — a small, specific piece of
+culinary provenance settled for the first time by people who actually still made the dish the original way,
+rather than left as an assumption neither city had ever had reason to verify directly before.
+
+### The Ground Crew Exchange That Went Both Directions
+
+Marambio's own aviation ground crews, having once received a maintenance technique from Belgrano's boneyard
+tradition, sent a technique of their own back the other way for the first time — a load-balancing procedure
+Marambio's own crews had developed for its dual port-and-airport operations, offered unprompted once direct
+contact made the offer easy to make.
+
+Belgrano's own ground crews adopted the procedure with minor modifications for their own smaller operation,
+per what's preserved of the account — the first time technical knowledge had genuinely flowed in both
+directions between the two Air Force-heritage cities, rather than only from Belgrano's own more established
+boneyard expertise outward.
+
+### The Salvage Question Sinheung Asked About a Part That Wasn't the Famous One
+
+Following the aircraft part that had once bypassed a stat-gate on Sinheung's own repair sidequest, a second,
+unrelated inquiry reached Belgrano's own garage — a Sinheung technician, aware by now of Belgrano's own
+general salvage expertise rather than that one specific part, asking whether anything else in the boneyard
+might suit an entirely different repair problem.
+
+Belgrano's own salvage crew, per what's preserved of the exchange, took the inquiry seriously enough to
+inventory a full section of the yard specifically to answer it — the first time Belgrano's own boneyard had
+been treated, by an outside city, as a genuine ongoing resource worth consulting rather than the source of
+one specific, already-famous part.
+
+### The Storm Belgrano and Sanay Rode Out Together, a Second Time
+
+Following the earlier joint response to a Weddell Sea storm, a second severe weather event gave Belgrano and
+Sanay the chance to coordinate again — this time with an established pattern already in place, the two ports
+settling equipment-sharing and passage-status updates within minutes rather than working it out from scratch
+under pressure.
+
+The second response, per what's preserved of the comparison, went noticeably more smoothly than the first —
+proof, per what's remembered locally, that the instant coordination the subnet's own line made possible
+wasn't just a one-time advantage but something the two ports could genuinely get better at with practice.
+
+### The Question Abowasa Finally Asked Belgrano Directly
+
+Abowasa's own small-scale trade, long downstream of the same Hwy 7 corridor Belgrano fed, had never
+previously involved direct contact between the two cities' own civic offices — only goods moving through the
+supply chain, never a conversation. The first direct exchange came once an Abowasa administrator, curious
+about a delay pattern affecting the city specifically, reached Belgrano's own dispatch office to ask about it
+personally rather than simply absorbing the delay as usual.
+
+Belgrano's own dispatchers, per what's preserved of the reply, explained the pattern in full — a genuinely
+minor administrative fix that, once identified, resolved a recurring problem Abowasa had quietly lived with
+for years without ever having a channel to actually raise it.
