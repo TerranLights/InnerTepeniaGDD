@@ -66,7 +66,7 @@ three existing per-city folders but tracked as one combined regional total below
 | City | Done | Target | Status |
 |---|---|---|---|
 | Palmer City | 30 | 50 | In progress |
-| Esperanza | 24 | 30 | In progress |
+| Esperanza | 30 | 30 | **Complete** |
 | Rothera | 24 | 30 | In progress |
 | Marambio | 24 | 30 | In progress |
 | Port Lockroy | 24 | 30 | In progress |

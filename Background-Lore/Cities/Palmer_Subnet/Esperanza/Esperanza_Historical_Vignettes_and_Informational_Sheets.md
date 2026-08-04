@@ -12,7 +12,11 @@ connectivity existed, each grounded in a specific city-to-city connection from t
 batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
 pre-Tower communication structure, where direct digital contact existed only within the Palmer subnet
 (Marambio) and anything reaching Belgrano or Janbogo required trucking, postal service, or physically
-traveling there. 24 done as of this batch.**
+traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower
+full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Esperanza = Mars/revived back to its original family-oriented purpose + Wood/nurture
+and growth) as a thematic undertone. 30 done as of this batch — Esperanza's own full target is now
+complete.**
 
 ---
 
@@ -393,3 +397,77 @@ progress — the same instant coordination that had assembled the load in under 
 subnet boundary, to weeks of no confirmed word at all. Esperanza's own dockworkers, per what's remembered of
 the period, had grown used enough to the pattern that they simply logged the shipment as sent and moved on to
 the next.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Children's Program Marambio Asked to Copy
+
+Following years of routine overflow-sharing between the two harbors, Marambio's own civic administration
+reached out about something entirely unrelated to shipping — asking whether Esperanza's own child-rearing
+institutions might advise on a small family-support program Marambio wanted to establish for its own
+resident families.
+
+Esperanza's own caregivers, per what's preserved of the exchange, treated the request as exactly the kind of
+work their own founding compact existed for — advising a city whose own economy had nothing to do with
+Esperanza's own founding mission, simply because raising children well was something worth sharing regardless
+of who was asking.
+
+### The Second Recipe Belgrano Confirmed, This Time Without a Season's Wait
+
+Following the earlier culinary-provenance exchange, Esperanza's own kitchens raised a second, less certain
+family recipe with Belgrano directly over the relay — settled within a single conversation, rather than the
+season-long postal exchange the original inquiry had required.
+
+Belgrano's own residents, per what's preserved of the reply, confirmed part of the dish's own origin while
+correcting a detail Esperanza's own version had drifted on — the same kind of careful culinary provenance
+work as before, now simply fast enough that a second question didn't require its own dedicated season to
+answer.
+
+### The Redistribution Records Janbogo and Esperanza Finally Compared Line by Line
+
+Following the earlier comparison of the administrative event that had reduced both cities' own populations
+while enlarging Lazar, Esperanza's and Janbogo's own civic historians undertook a considerably more detailed
+follow-up — comparing their own municipal records line by line rather than relying on each other's own general
+recollection of the event.
+
+The detailed comparison, per what's preserved of the project, surfaced several small discrepancies neither
+city's own records had caught alone — genuine historical corrections made possible only because both
+archives could finally be checked against each other directly, rather than each city simply trusting its own
+version of a shared event.
+
+### The Overflow Plan That Finally Included a Third Harbor
+
+Building on the established two-way overflow arrangement with Marambio, Esperanza's own harbor staff
+extended the same proactive planning to a third possibility for the first time — coordinating in advance with
+a subnet-external port about emergency capacity-sharing, something the old system's own speed limits had
+never made worth attempting before.
+
+The arrangement itself was never actually needed, per what's preserved of the record — but its existence
+alone represented something new: Esperanza's own harbor planning had grown confident enough in instant
+national coordination to plan contingencies beyond its own immediate subnet, not just react to them after the
+fact.
+
+### The Family That Traced Its Own History Back to the Founding Compact
+
+A specific Esperanza family, using the newly searchable national archive, traced its own lineage back to one
+of the original children raised under the city's founding compact — closing a genealogical question that had
+sat unresolved for generations simply because the records needed to answer it had never been consolidated in
+one searchable place before.
+
+The discovery, per what's preserved of the account, became something of a local story — proof, concrete and
+personal, that the compact's own founding-era promise had genuinely followed through across generations, not
+just in principle but in an actual traceable family line.
+
+### The City Whose Whole Identity Finally Had a National Audience
+
+Once national reporting made civic identity genuinely comparable across the country, Esperanza's own founding
+compact — a mission built entirely around raising and protecting children — became, for the first time,
+something other cities' own civic planners actively studied rather than simply knew of in passing.
+
+Several cities' own family-services administrators, per what's preserved of the period, reached out
+specifically to understand how a whole city's civic identity could be organized around child-rearing as
+successfully as Esperanza's evidently had — the first time the city's own quiet, decades-long founding
+mission had been treated, nationally, as a genuine model worth studying rather than simply a pleasant local
+fact.
