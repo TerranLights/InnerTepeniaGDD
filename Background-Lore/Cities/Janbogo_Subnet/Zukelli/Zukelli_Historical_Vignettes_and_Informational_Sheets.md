@@ -17,7 +17,10 @@ city-to-city connection from that file (Janbogo, Cape Adare, Dumont d'Urville, E
 batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
 pre-Tower communication structure, where direct digital contact existed only within the Janbogo subnet
 (Janbogo, Cape Adare, Dumont d'Urville) and anything reaching Esperanza required trucking, postal service, or
-physically traveling there. 24 done as of this batch.**
+physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
+post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Zukelli = Earth/a-place-with-real-soul + Wood/hospitality-and-generosity) as a
+thematic undertone. 30 done as of this batch — Zukelli's own full target is now complete.**
 
 ---
 
@@ -375,3 +378,73 @@ The joint shipment reached its intra-subnet destinations within days. The letter
 season to receive any reply to at all — two pieces of correspondence, sent from the same office on the same
 day, arriving at their destinations at completely different speeds depending on nothing more than which side
 of the subnet boundary each was addressed to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Crossing Calendar That Finally Included a Third City's Curiosity
+
+Following the joint host-input Crossing calendar with Janbogo, a subnet-external city, curious about the
+tradition once national reporting made it visible, asked whether outside observers might ever attend — the
+first time anyone from outside the two founding cities had asked to witness the Crossing directly.
+
+Janbogo's and Zukelli's own residents, per what's preserved of the discussion, debated the request seriously
+before declining, gently — the Crossing's own mutual, unplanned warmth depended on being genuinely private
+between the two cities, and both agreed, independently, that opening it to observers would change something
+essential about what made it work.
+
+### The Rivalry Story Cape Adare Finally Heard Firsthand
+
+Following the secondhand telling of the old Janbogo-Zukelli rivalry story passed through Cape Adare, a Zukelli
+resident who had actually lived through part of the original rivalry told the story directly for the first
+time — correcting several details the secondhand version had gotten wrong along the way.
+
+Cape Adare's own residents, per what's preserved of the exchange, found the corrected version considerably
+less dramatic than the story that had reached them — a reminder that even a well-meaning secondhand retelling
+drifts from what actually happened, closed only once someone who'd genuinely been there could finally tell it
+themselves.
+
+### The Staging Idea Dumont d'Urville Sent Back, This Time Unprompted
+
+Following the original staging-idea exchange, Dumont d'Urville's own venue organizers sent a second idea
+entirely unprompted — a technique they'd developed independently that reminded them enough of Zukelli's own
+restaurant-performance tradition that they thought it worth sharing, without Zukelli having asked for anything
+new.
+
+Zukelli's own venue owners, per what's preserved of the exchange, adopted a version of the idea within the
+season — the first time the creative exchange between the two hospitality cultures had been initiated by
+Dumont d'Urville rather than only received from Zukelli's own side.
+
+### The Redistribution Comparison That Finally Named Every Family Affected
+
+Building on the earlier comparison with Esperanza, Zukelli's own historians undertook a considerably more
+ambitious version of the project — attempting to name every specific family affected by the redistribution
+event across all three cities involved, rather than comparing aggregate figures alone.
+
+The project, per what's preserved of its own progress, remains genuinely incomplete — a real historical
+undertaking that connectivity made newly possible but didn't make instantly finishable. What exists so far
+represents the most detailed accounting of the event's own human scale that any of the three affected cities
+has ever attempted.
+
+### The Music Scene That Finally Had a National Audience of Its Own
+
+Once national cultural reporting made genre-diverse local music scenes genuinely comparable, Zukelli's own
+music tradition — grown from hospitality-centered founding instincts and real demographic breadth — became,
+for the first time, a specific reference point cited alongside Casey's own Splinters and Dumont d'Urville's
+own downtown as one of the country's three genuinely distinctive music-civic identities.
+
+Zukelli's own musicians, per what's preserved of the period, found the comparison genuinely validating — proof
+that a scene built organically, for its own sake, over generations, had produced something the rest of the
+country recognized as distinctive once it could actually be compared against its peers directly.
+
+### The Distant City That Finally Understood What "Crossing" Actually Meant
+
+Following the earlier description of the Crossing given to a resident from a city with no comparable
+neighbor of its own, a considerably fuller account followed once that same resident, now genuinely curious,
+asked a series of increasingly specific follow-up questions over several conversations rather than the single
+exchange the original description had been.
+
+Zukelli's own residents, per what's preserved of the extended exchange, found themselves articulating
+something about the tradition they'd never had to put into words this precisely before — the first time
+describing the Crossing to a true outsider had become not a single conversation, but an ongoing one.
