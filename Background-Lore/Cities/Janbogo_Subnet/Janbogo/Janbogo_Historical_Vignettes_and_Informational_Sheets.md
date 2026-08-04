@@ -11,7 +11,11 @@ Infrastructure_Attributes.md` and `Specs/Janbogo.md` (Tier 2), and `Janbogo_Cros
 (Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction,
 is framed around `City_National_Connections.md`: six occurrences that could only have happened once full
 national digital connectivity existed, each grounded in a specific named city-to-city connection from that
-file (Zukelli, Sejong/Sinheung, Mawson, Esperanza, Dumont d'Urville, Byrd). 18 done as of batch 3.**
+file (Zukelli, Sejong/Sinheung, Mawson, Esperanza, Dumont d'Urville, Byrd). 18 done as of batch 3. Batch 4,
+per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Janbogo subnet (Zukelli, Dumont
+d'Urville) and anything reaching Sejong, Sinheung, Mawson, Esperanza, or Byrd required trucking, postal
+service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -301,3 +305,73 @@ detail — specific national-origin patterns in Byrd's own founding population t
 Pacific-facing composition down to individual nation shares, not merely the broad regional resemblance already
 known. Neither city's own governance changed as a result. Both, for the first time, had documented confirmation
 of exactly how strong the demographic kinship the two cities had never directly acted on actually was.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Crossing That Never Needed a Schedule
+
+The Crossing, Janbogo's own informal visiting tradition with Zukelli, ran on nothing more than the subnet's
+own instant line — a resident deciding on short notice to visit could simply confirm with Zukelli directly
+that day, the same casual ease that let "who was hosting whom" blur in the first place.
+
+A specific spontaneous Crossing, per what's preserved of the era's own routine, was arranged and completed
+within the same afternoon a resident first mentioned wanting to make the trip — coordination that, attempted
+with a subnet-external city instead, would have required advance written notice and a confirmed reply before
+anyone could simply show up.
+
+### The Design Note Dumont d'Urville Answered Before Janbogo Finished the Sentence
+
+Janbogo's and Dumont d'Urville's shared Janbogo subnet membership let the two cities' own hospitality
+communities compare venue notes constantly over the instant line — questions about what made a space feel
+welcoming at scale answered the same conversation they were raised in.
+
+A specific staging question, per what's preserved of the exchange, was resolved within minutes once Dumont
+d'Urville's own venue organizers could simply describe their own approach directly — the kind of immediate,
+back-and-forth creative consultation that a subnet-external hospitality city could only offer by letter,
+several rounds removed from anything resembling a real conversation.
+
+### The Kinship Letter Sejong Waited a Season to Send
+
+Janbogo's own status as one of Tepenia's three Korean-founded cities prompted a written inquiry to Sejong,
+curious how a comparably-founded city's own standing negotiation process compared to Janbogo's own governance
+— a letter that crossed from the Janbogo subnet into the Palmer subnet at the pace of the mail carrying it.
+
+Sejong's own reply, per what's preserved of the correspondence, took the better part of a year to arrive in
+full — a genuinely thoughtful answer, once it came, that Janbogo's own Hall coordinators found worth the wait,
+if considerably slower than the same conversation would have taken with any of Janbogo's own subnet
+neighbors.
+
+### The Hospitality Comparison Mawson Made From a Traveler's Account
+
+Mawson's own honeymoon-destination hospitality industry and Janbogo's own transit-focused hospitality
+tradition were compared often enough by travelers who'd visited both that each city developed a working,
+entirely secondhand impression of the other — no direct correspondence existed to compare notes properly.
+
+A specific Janbogo hospitality administrator, curious enough to write directly rather than rely on travelers'
+accounts, received a reply from Mawson months later — genuinely useful, if considerably delayed, detail that
+crossed the full distance from the Janbogo subnet into the Mawson subnet at whatever pace the postal route
+between the two allowed.
+
+### The Redistribution Data Esperanza Sent By the Slowest Possible Route
+
+The shared administrative redistribution that reduced both Esperanza's and Janbogo's own populations while
+enlarging Lazar prompted a specific data-sharing request between the two affected cities — a comparison that,
+crossing from the Janbogo subnet into the Palmer subnet, could only happen by written correspondence.
+
+The exchange, per what's preserved of the letters, took the better part of a year to complete — each city's
+own municipal records searched and mailed separately, since no channel existed to simply compare the two data
+sets directly the way Janbogo could with Zukelli or Dumont d'Urville over the subnet's own instant line.
+
+### The Manifest Zukelli and Dumont d'Urville Confirmed Before Byrd's Letter Even Left
+
+A joint shipment, assembled from Zukelli's and Dumont d'Urville's own combined stock and coordinated with
+Janbogo over the subnet's instant line, was finalized within a single afternoon — packing order and departure
+timing settled well before an unrelated inquiry to Byrd, sent the same morning, had even left Janbogo's own
+mailing office.
+
+The joint shipment reached its intra-subnet destination within days. The letter to Byrd, sent hours earlier,
+took months to receive any reply at all — two pieces of correspondence dispatched the same day, arriving at
+wildly different speeds depending on nothing more than which side of the subnet boundary each was addressed
+to.

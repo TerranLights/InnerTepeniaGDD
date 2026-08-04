@@ -92,7 +92,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Janbogo | 18 | 30 | In progress |
+| Janbogo | 24 | 30 | In progress |
 | Fort McMurdo | 18 | 30 | In progress |
 | Dumont d'Urville | 18 | 30 | In progress |
 | Cape Adare | 18 | 30 | In progress |
