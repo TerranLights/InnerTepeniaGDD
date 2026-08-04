@@ -79,7 +79,7 @@ three existing per-city folders but tracked as one combined regional total below
 | City | Done | Target | Status |
 |---|---|---|---|
 | Mirny | 30 | 30 | **Complete** |
-| Casey | 24 | 30 | In progress |
+| Casey | 30 | 30 | **Complete** |
 | Davis | 24 | 30 | In progress |
 | Kunlun | 24 | 30 | In progress |
 | Vostok | 24 | 30 | In progress |

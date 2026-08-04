@@ -16,7 +16,10 @@ Batch 4, per direct developer instruction, inverts the lens: six occurrences res
 communication structure, where direct digital contact existed only within the Mirny subnet (Mirny, Davis) and
 anything reaching Dumont d'Urville, Fort McMurdo, or Scott required trucking, postal service, or physically
 traveling there — despite Hwy 2 giving Casey and Dumont d'Urville the shortest, most direct physical highway
-link in the country. 24 done as of this batch.**
+link in the country. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
+post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Casey = Jupiter/gravity-reaching-past-its-borders + Fire/warmth-and-charisma) as a
+thematic undertone. 30 done as of this batch — Casey's own full target is now complete.**
 
 ---
 
@@ -383,3 +386,72 @@ once it crossed into the Janbogo subnet — the same highway that made the physi
 other cross-subnet route in the country doing nothing to shorten the silence that followed. Dumont d'Urville's
 own receiving staff, when the shipment finally arrived, had no way of knowing how quickly it had actually been
 assembled.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Certification Authority Dumont d'Urville Finally Used on Someone Else
+
+Following Casey's own extension of certification authority to Dumont d'Urville, Dumont d'Urville's own
+technicians used that authority for the first time to certify a third city's own equipment — a genuine test of
+whether the delegated trust actually functioned once removed from Casey's own direct oversight.
+
+Casey's own certification office, per what's preserved of the record, reviewed the third-party certification
+after the fact and confirmed it met the same standard Casey itself would have applied — proof the trust
+extended along Hwy 2 had produced something durable, not just a one-time courtesy.
+
+### The Bulletin Style Fort McMurdo Adapted a Second Time
+
+Following Fort McMurdo's own earlier adoption of Conti's plain-language monitoring style, a considerably
+different Fort McMurdo department requested a second adaptation — this time for a workplace-safety bulletin
+with nothing to do with volcanic monitoring, simply because the readable communication style itself had
+proven useful.
+
+Casey's own monitoring staff, per what's preserved of the exchange, found themselves fielding a request that
+had nothing to do with their own actual expertise — proof that the specific STYLE of communication Casey had
+developed for one narrow purpose had become, once national attention made it visible, a genuinely portable
+piece of civic technique.
+
+### The Question Scott Answered With a Number, Not Just Reassurance
+
+Following the original Long Odds inquiry, a considerably more technical follow-up from Scott's own precision
+engineers asked for the actual calibration tolerances behind Casey's own wind-window certification — a level
+of detail the original exchange had never gotten into.
+
+Casey's own dispatchers, per what's preserved of the exchange, had to consult their own instrument
+technicians before answering fully — the first time an outside inquiry had pushed Casey's own wind-window
+system to articulate its own underlying numbers precisely, rather than simply the practical judgment calls
+built on top of them.
+
+### The Bilateral Channel With Davis That Finally Went Both Directions
+
+Following the original bilateral technical channel established with Davis, Casey's own dispatchers used it
+for the first time to request something rather than only supply it — asking Davis's own researchers for
+wildlife-activity forecasting for an unrelated stretch of coastline Casey's own dispatch normally didn't
+cover.
+
+Davis's own researchers, per what's preserved of the exchange, treated the request as entirely unremarkable —
+the channel had always been built for exactly this kind of two-way practical exchange, simply waiting for
+Casey to need something from the other direction for the first time.
+
+### The Booking Splinters Almost Couldn't Fill
+
+Following the first advance table booking from Mirny, Splinters' own popularity, now genuinely national once
+word of the venue traveled freely, produced its first fully booked night with more advance requests than
+tables — a problem the venue had never previously had to solve.
+
+Casey's own venue staff, per what's preserved of the account, improvised a waitlist system on the spot — a
+small, practical response to a genuinely new problem: a bar built on Wetherall's own original instinct to
+always make room for everyone was, for the first time, running out of room.
+
+### The Reputation That Finally Reached a City With No Reason to Know Casey's Name
+
+A city with no established connection to Casey at all — no shared heritage, no logistics link, nothing in
+`City_National_Connections.md` naming the pair — nonetheless reached out to ask about Splinters directly,
+having heard of the venue's own reputation purely through the kind of secondhand cultural chatter that
+national connectivity now let travel freely between cities with no formal relationship at all.
+
+Casey's own dispatchers, per what's preserved of the exchange, answered the inquiry the same way they answered
+everything — plainly, warmly, without much ceremony — proof that some kinds of civic reputation now traveled
+along no particular route at all, simply spreading wherever people happened to be talking.
