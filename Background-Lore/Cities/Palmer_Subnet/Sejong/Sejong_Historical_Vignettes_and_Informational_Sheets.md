@@ -12,7 +12,10 @@ of that batch. Batch 3, per direct developer instruction, is framed around `City
 six occurrences that could only have happened once full national digital connectivity existed, each grounded
 in a specific named city-to-city connection from that file (Janbogo, Sinheung, Abowasa, Palmer City, Juan
 Carlos, Lazar) rather than the generic "other multinational cities" comparison batch 2's own entry already
-used. 18 done as of batch 3.**
+used. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences
+resting on the actual pre-Tower communication structure, where direct digital contact existed only within the
+Palmer subnet (Palmer City, Juan Carlos) and anything reaching Janbogo, Sinheung, Abowasa, or Lazar required
+trucking, postal service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -314,3 +317,79 @@ absorb a comparable identity shift through sheer accumulated demographic drift, 
 managing it, and still arrive somewhere functional. Sejong's own process remained exactly as it had always
 been. The comparison simply gave its own coordinators, for the first time, a genuine alternative case study to
 weigh it against.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Visitor Routed Before She Ever Reached the Gate
+
+The Machu Picchu gateway corridor, shared between Sejong's own Border Authority and Palmer City's own tourism
+economy, ran on constant coordination over the Palmer subnet's instant line — a visitor's paperwork cleared at
+Sejong could be confirmed at Palmer City's own tourism office before the traveler herself had finished the
+onward trip.
+
+A specific processing backlog, per what's preserved of the incident, was resolved within the same working day
+once Sejong's own Border Authority staff could simply tell Palmer City directly which visitors were cleared
+and which were still pending — coordination that, extended to a subnet-external tourism partner, would have
+required the visitor herself to carry confirmation paperwork physically rather than have it simply exist on
+both ends already.
+
+### The Immigration Question Juan Carlos Answered Before the Traveler Left the Hall
+
+Juan Carlos's own immigration processing and Sejong's own Border Authority operated closely enough, over the
+subnet's instant line, that a specific visa classification dispute could be resolved by direct consultation
+between the two offices before the affected traveler had even finished waiting in line.
+
+The dispute, per what's preserved of the incident, involved a visa category neither office had encountered
+before — resolved through a brief real-time exchange rather than the formal written policy request either
+office would otherwise have had to file and wait on. The traveler's own paperwork was corrected on the spot,
+a level of immediate resolution neither office could offer anyone whose case touched a subnet-external
+authority instead.
+
+### The Kinship Letter That Outlasted Its Own Sender's Patience
+
+Janbogo's own status as one of Tepenia's three Korean-founded cities prompted a formal correspondence from
+Sejong's own Hall coordinators, curious how a comparably-founded city handled questions Sejong's own standing
+negotiation process managed constantly — a letter that crossed from the Palmer subnet into the Janbogo subnet
+and took the better part of a year to receive a full reply.
+
+The coordinator who originally sent the inquiry, per what's preserved of the record, had moved on to an
+entirely different Hall project by the time Janbogo's own reply finally arrived — read with genuine interest,
+if considerably less urgency than the original question had carried, a pattern of subnet-external
+correspondence Sejong's own staff had learned to simply expect.
+
+### The Demographic Study Sinheung Couldn't Simply Send Over
+
+The same Korean-founded kinship connecting Sejong to Sinheung prompted a formal demographic comparison —
+population figures, founding-era composition, generational drift — that required Sinheung to physically mail
+its own municipal records rather than transmit them, since nothing digital crossed from the Mirny subnet into
+the Palmer subnet.
+
+The study, per what's preserved of the correspondence, took over a year to complete from first inquiry to
+final comparison, largely because each clarifying question required its own full postal round trip. Sejong's
+own Hall coordinators, once the comparison finally concluded, noted the two cities' founding compositions were
+close enough to be genuinely interesting — a conclusion reached the slow way, letter by letter.
+
+### The Governance Question Abowasa Answered With Genuine Care
+
+Abowasa's own live, day-to-day multinational negotiation and Sejong's own standing Negotiation Hall process
+prompted a specific written inquiry from Sejong, curious whether Abowasa's own smaller-scale coexistence
+model held any lessons for Sejong's own larger, more institutionalized version.
+
+Abowasa's own reply, per what's preserved of the letter, took considerable care in laying out exactly how its
+own negotiations actually worked day to day — a genuinely thoughtful response, mailed across the distance
+from the Halley subnet, that Sejong's own coordinators found more useful in its specificity than several
+comparable exchanges with cities they'd expected to have more in common with.
+
+### The Reciprocal Letter Lazar Sent Before Sejong's Own Question Arrived
+
+Following the standing correspondence between Sejong and Lazar comparing coalescence and coexistence, Lazar's
+own coordinators, curious enough to write again unprompted, sent a follow-up letter asking whether Sejong's own
+Negotiation Hall had ever actually failed to resolve a dispute — a question crossing from the Palmer subnet
+into the Halley subnet with no way to know it was coming until it simply arrived.
+
+Sejong's own reply, per what's preserved of the exchange, took months to draft properly and longer to reach
+Lazar — a genuinely candid account of the Hall's own rare failures, sent the same slow way every exchange
+between the two cities had always traveled, since nothing digital had ever crossed the distance between them
+before the Tower.
