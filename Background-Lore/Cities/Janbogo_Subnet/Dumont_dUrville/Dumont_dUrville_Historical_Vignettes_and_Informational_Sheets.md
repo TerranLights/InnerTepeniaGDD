@@ -22,7 +22,10 @@ there — despite Hwy 2 giving the two cities the shortest, most direct cross-su
 country. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower full
 connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Dumont d'Urville = Mercury/small-but-intensely-alive + Fire/warmth-and-vitality) as a
-thematic undertone. 30 done as of this batch — Dumont d'Urville's own full target is now complete.**
+thematic undertone. 30 done as of this batch — Dumont d'Urville's own full target complete. Batch 6, per
+direct developer instruction, returns to Batch 4's own pre-Tower framing with genuinely fresh occurrences,
+distinct from both Batch 4 and each other, now also cross-referenced against Dumont d'Urville's own symbol
+pair. 36 done as of this batch.**
 
 ---
 
@@ -450,3 +453,70 @@ Dumont d'Urville's own residents, per what's preserved of the period, found the 
 downtown had never been designed to be a model for anything, simply the natural result of what the city's own
 people had built for themselves over generations. That unplanned quality, once other cities studied it
 directly, turned out to be exactly what made it worth studying at all.
+
+---
+
+## Batch 6 — Intensely Alive, Within Easy Reach
+
+### The Venue Booking Zukelli Confirmed Before the Poster Was Printed
+
+A shared music-venue booking, coordinated with Zukelli over the subnet's own instant line, was confirmed and
+adjusted twice more before Dumont d'Urville's own printers had even finished the event poster — a level of
+last-minute flexibility only possible because both cities could keep talking right up until the details were
+locked.
+
+Casey, coordinating a comparable joint booking despite Hwy 2's own direct physical link between the two
+cities, still had to finalize everything well in advance by mail — the highway moved freight quickly, but the
+correspondence needed to actually plan the event still traveled at ordinary postal speed.
+
+### The St. Jules Day Broadcast Janbogo Heard Live
+
+A local St. Jules Day celebration, relayed informally to Janbogo over the subnet's own line by a resident with
+family there, let Janbogo's own listeners follow the celebration nearly as it happened — an intimacy no
+subnet-external audience could share.
+
+Denison, learning of the same celebration only through a later written account, received a faithful but
+necessarily secondhand description — the celebration's own actual energy, per those who'd experienced both
+versions, simply didn't translate the same way onto a page.
+
+### The Acoustic Question Zukelli Answered With a Follow-Up Already in Mind
+
+A technical acoustic question about one of Dumont d'Urville's own smaller venues was answered by Zukelli over
+the subnet's own line with enough back-and-forth that Zukelli's own engineers had already anticipated Dumont
+d'Urville's next question before it was asked — a fluency built from years of exactly this kind of rapid
+exchange.
+
+Casey, asking a related acoustic question separately, received a single thorough written answer with no
+follow-up possible in any reasonable timeframe — the answer complete on its own terms, but without the same
+kind of iterative refinement Zukelli's exchange had allowed.
+
+### The Certification Casey Waited a Season to Actually Use
+
+A performance-venue safety certification, extended informally to Casey after a successful exchange, took the
+better part of a season to arrive in a form Casey's own civic office considered complete enough to formally
+adopt — each clarifying question requiring its own separate letter.
+
+Denison, seeking a comparable certification over the subnet's own line, had a fully adopted, working version
+within the week — the certifying knowledge itself unchanged, its usefulness simply delayed by however far it
+had to travel.
+
+### The Traveling Musician Who Reached Zukelli Before Word of the Show Did
+
+A touring musician passing through Dumont d'Urville sent word ahead to Zukelli over the subnet's own line,
+arranging a second impromptu performance there before the traveler had even left Dumont d'Urville itself — the
+kind of spontaneous, same-day arrangement only possible within the subnet's own reach.
+
+A comparable opportunity in Casey, just across the Hwy 2 corridor, couldn't be arranged nearly as quickly —
+by the time a letter proposing the idea could arrive and be answered, the traveling musician had already moved
+on.
+
+### The City That Was Loudest to Its Neighbors and Quietest From a Distance
+
+Dumont d'Urville's own "New Orleans at a smaller scale" energy reached Janbogo and Zukelli constantly, almost
+as background noise — music, festivals, and informal correspondence flowing continuously between the three
+cities. Denison and Casey, despite Casey's own direct highway link, experienced the same vibrant city mostly
+through occasional, carefully composed letters.
+
+Dumont d'Urville's own civic character never dimmed depending on the audience — but how much of that energy
+actually reached a given city, and how quickly, depended entirely on which side of the subnet boundary that
+city happened to sit.
