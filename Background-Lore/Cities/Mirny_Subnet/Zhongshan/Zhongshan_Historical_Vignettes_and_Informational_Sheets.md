@@ -20,7 +20,9 @@ Amundsen Station required trucking, postal service, or physically traveling ther
 batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely
 fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Zhongshan =
 Saturn/content-not-fully-known + Metal/ordered-complexity) as a thematic undertone. 30 done as of this
-batch — Zhongshan's own full target is now complete.**
+batch — Zhongshan's own full target complete. Batch 6, per direct developer instruction, returns to Batch 4's
+own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Zhongshan's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -457,3 +459,69 @@ Zhongshan's own archivists, per what's preserved of the second exchange, found t
 the seriousness of the work — the same careful research standard applied, simply compressed into hours rather
 than the better part of a year, confirming the Long Record's own trusted status hadn't been a one-time
 courtesy but a standing, repeatable role.
+
+---
+
+## Batch 6 — Ordered Complexity, Contained to the Cluster
+
+### The Entry Sinheung Corrected Before the Ink Dried
+
+A Long Record entry drafted following an event with Sinheung's own participation was reviewed and corrected
+by Sinheung's own representatives over the subnet's own instant line before the entry had even been formally
+finalized — a level of collaborative accuracy-checking only possible because both cities could review the
+same draft together in real time.
+
+Juan Carlos, requesting a correction to a much older entry involving its own archive, had to submit the
+request by letter and wait for Zhongshan's own archivists to locate, review, and revise the relevant passage
+— a process measured in months rather than the same afternoon Sinheung's correction had taken.
+
+### The Question Shirayuki Answered Before Zhongshan's Historian Finished Writing It Down
+
+A historical cross-reference question, mid-draft in one of Zhongshan's own research notes, was answered by
+Shirayuki over the subnet's own line before the historian had finished writing the question out in full — a
+fluency between the two cities built from years of exactly this kind of rapid, assumption-free exchange.
+
+A subnet-external historian working on a related comparative project had no such fluency to draw on —
+establishing enough shared context to even ask the question properly took several rounds of preliminary
+correspondence before the actual research question could be addressed at all.
+
+### The Preservation Standard Port Lockroy Received Complete, Once
+
+Zhongshan's own preservation methodology, refined constantly through informal comparison with Mirny over the
+subnet's own line, reached Port Lockroy only as a single finished document — accurate as of the day it was
+sent, but missing every small refinement the subnet-internal comparison had continued to produce since.
+
+Mirny's own version of the same methodology, by contrast, was never really "finished" in the same sense — a
+living, continuously updated standard both cities simply kept current together, something no letter to
+Port Lockroy could have adequately captured even if Zhongshan's archivists had tried.
+
+### The Arbitration Amundsen Station Waited a Full Season to Request
+
+A formal territorial-record arbitration requested by Amundsen Station arrived by letter, addressed carefully
+and awaiting a written reply — Zhongshan's own arbitration office treating the request with full seriousness,
+but constrained to the same slow written back-and-forth as any other subnet-external correspondence.
+
+A related, smaller arbitration question raised by Mirny over the subnet's own line was resolved the same
+week — the underlying seriousness of the work identical in both cases, only the pace of resolving it
+genuinely different.
+
+### The Manifest Sinheung and Shirayuki Finalized While Zhongshan Watched
+
+A joint shipping manifest involving all three Tri-Cities was finalized through a live, three-way exchange over
+the subnet's own line — each city's own contribution checked and adjusted in real time until all three sides
+agreed, a genuinely collaborative document rather than one drafted and circulated for approval.
+
+A comparable manifest requiring Port Lockroy's own sign-off had to be drafted first, sent by mail, and
+returned with any requested changes before it could be finalized — the same three-way collaborative process
+simply not extending past the subnet's own boundary.
+
+### The City Content to Stay Half-Known, Especially From a Distance
+
+Zhongshan's own established character — "the Quiet City," self-sufficient and content to go unexamined —
+took on a slightly different shape depending on distance: genuinely well-known and closely collaborative with
+Sinheung and Shirayuki, and considerably more mysterious, almost by necessity, to Juan Carlos, Port Lockroy,
+and Amundsen Station.
+
+Zhongshan's own archivists, per a surviving reflection from the period, noted this without much concern — the
+city's own quiet character had never depended on being known equally by everyone; it simply meant the
+cities closest to it, in every sense, knew it best.
