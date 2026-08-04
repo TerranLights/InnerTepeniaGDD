@@ -18,8 +18,12 @@ anything reaching Dumont d'Urville, Fort McMurdo, or Scott required trucking, po
 traveling there — despite Hwy 2 giving Casey and Dumont d'Urville the shortest, most direct physical highway
 link in the country. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
 post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
-`city-symbol-pairs.md` (Casey = Jupiter/gravity-reaching-past-its-borders + Fire/warmth-and-charisma) as a
-thematic undertone. 30 done as of this batch — Casey's own full target is now complete.**
+`city-symbol-pairs.md` (Casey = Mars/revived-back-to-being-culture-oriented + Fire/warmth-and-charisma) as a
+thematic undertone. 30 done as of this batch — Casey's own full target complete. **Correction, 2026-08-06:**
+the batch 5 note above previously misstated Casey's own planet as Jupiter; `city-symbol-pairs.md` has always
+had Casey at Mars, corrected here in passing. Batch 6, per direct developer instruction, returns to Batch 4's
+own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Casey's own (corrected) symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -455,3 +459,72 @@ national connectivity now let travel freely between cities with no formal relati
 Casey's own dispatchers, per what's preserved of the exchange, answered the inquiry the same way they answered
 everything — plainly, warmly, without much ceremony — proof that some kinds of civic reputation now traveled
 along no particular route at all, simply spreading wherever people happened to be talking.
+
+---
+
+## Batch 6 — Warmth That Traveled the Subnet and Waited for the Mail
+
+### The Festival Lineup Davis Helped Rebuild Overnight
+
+A last-minute lineup problem for one of Casey's own cultural festivals was solved overnight with Davis's own
+help, coordinated over the subnet's instant line — Davis supplying a substitute act's contact information and
+confirming availability before the festival's own printed program had even gone to press.
+
+Scott, hosting a comparable festival planning question the same season, had no equivalent option available
+from Casey — a request for advice on lineup pacing traveled by mail and returned an answer only after the
+festival in question had already concluded, the advice itself still useful for next time but too late for
+the event it was meant to help.
+
+### The Recipe That Reached Mirny Before the Pot Cooled
+
+A dish invented spontaneously in one of Casey's own kitchens was described in enough detail over the subnet's
+line that Mirny's own cooks had attempted their own version before Casey's original had even finished being
+served that same evening — the kind of playful, immediate cultural exchange the two cities took for granted.
+
+Dumont d'Urville, hearing of the same dish only through a much later letter, received a recipe by then several
+revisions removed from the original — Casey's own kitchens having refined it further in the meantime, changes
+that never made it into the correspondence.
+
+### The Highway That Carried Freight Faster Than It Carried Conversation
+
+Hwy 2's own direct physical link between Casey and Dumont d'Urville meant goods could move between the two
+cities faster than almost any other cross-subnet route in the country — but the correspondence riding alongside
+that same freight still moved at ordinary postal speed, since the highway carried trucks, not a communications
+line.
+
+A comparable cultural exchange conducted with Davis, well outside highway range but inside the subnet's own
+digital reach, moved considerably faster in every respect but the physical delivery of goods — proof that
+proximity and connectivity, in Casey's own particular case, didn't actually correlate at all.
+
+### The Safety Bulletin Fort McMurdo Received Without Its Own Author
+
+A safety bulletin Casey's own civic office drafted after a minor incident was sent to Fort McMurdo by mail,
+arriving as a finished document with no author available to answer follow-up questions — Fort McMurdo's own
+administrators implementing the guidance exactly as written, with no opportunity to ask why a particular
+recommendation had been made.
+
+Mirny, receiving the same bulletin over the subnet's own line, could and did ask several clarifying questions
+before adopting anything — the original author still reachable, the document itself functioning as the start
+of a conversation rather than the whole of one.
+
+### The Calibration Standard Scott Adopted a Season Behind Everyone Else
+
+A calibration standard Casey shared informally with Mirny and Davis over the subnet's own line was already in
+routine local use by the time Scott received the same standard by mail — Scott's own engineers working from a
+version that, while accurate, no longer reflected several small refinements the subnet-internal cities had
+already folded in.
+
+Casey's own record-keepers, aware of the gap, made a point of periodically resending updated versions to
+Scott regardless — an imperfect fix, but preferable, in their own stated reasoning, to letting a
+subnet-external partner work indefinitely from an outdated standard.
+
+### The City Whose Charisma Reached Only as Far as the Line Could Carry It
+
+Casey's own warm, culturally generative character was, before the Tower, something Mirny and Davis
+experienced almost as neighbors — constant, informal, immediate. Dumont d'Urville, Fort McMurdo, and Scott
+knew the same character only in occasional, carefully composed letters, a warmth that read as genuine but
+arrived considerably diluted by the delay required to carry it.
+
+Casey's own civic identity never changed depending on the audience — but how much of that identity actually
+reached a given city, and how quickly, depended entirely on whether that city happened to sit inside the
+Mirny subnet's own reach.

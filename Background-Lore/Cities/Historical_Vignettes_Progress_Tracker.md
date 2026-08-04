@@ -87,7 +87,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | City | Done | Target | Status |
 |---|---|---|---|
 | Mirny | 36 | 36 | **Complete** |
-| Casey | 30 | 30 | **Complete** |
+| Casey | 36 | 36 | **Complete** |
 | Davis | 30 | 30 | **Complete** |
 | Kunlun | 30 | 30 | **Complete** |
 | Vostok | 30 | 30 | **Complete** |
