@@ -78,7 +78,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Mirny | 24 | 30 | In progress |
+| Mirny | 30 | 30 | **Complete** |
 | Casey | 24 | 30 | In progress |
 | Davis | 24 | 30 | In progress |
 | Kunlun | 24 | 30 | In progress |

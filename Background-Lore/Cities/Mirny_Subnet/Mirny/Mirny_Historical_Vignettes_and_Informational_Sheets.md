@@ -15,7 +15,10 @@ resting on the actual pre-Tower communication structure. Mirny's own Relay Hardw
 instant digital reach across nearly the entire Mirny subnet (Sinheung, Casey, Davis, Zhongshan, Vostok,
 Kunlun) before the Tower ever existed — the exception being Rothera, Abowasa, and Denison, all outside the
 subnet, reachable only by trucking, postal service, or physically traveling there. 24 done as of this
-batch.**
+batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely
+fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Mirny = Saturn/
+content-not-to-be-fully-known + Earth/groundedness) as a thematic undertone. 30 done as of this batch —
+Mirny's own full target is now complete.**
 
 ---
 
@@ -420,3 +423,75 @@ That same shipment, once it left the Mirny subnet bound for Rothera, traveled fo
 the three planning cities to confirm it had even arrived — the instant three-way coordination that assembled
 it giving way, at the subnet boundary, to the same unaccountable silence every shipment crossing into another
 subnet disappeared into.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Breadbasket Question Davis Finally Got a Fast Answer To
+
+A specific agricultural-supply question from Davis, curious whether Mirny's own quarrying operation produced
+a mineral byproduct useful for soil amendment, reached Mirny's own Windwright Guildhall directly for the
+first time — a question that, before national connectivity, would have had no obvious channel to travel
+through at all, since nothing formally connected the two cities' own very different industries.
+
+Mirny's own quarry administrators, per what's preserved of the exchange, hadn't previously considered the
+byproduct worth much thought — a genuinely new, minor revenue stream opened simply because a city with an
+entirely unrelated need happened to ask a question Mirny's own operation had never had reason to ask itself.
+
+### The Isolation Vostok Finally Described in Its Own Words
+
+Following years of being discussed by other cities primarily through Kunlun's own comparable profile, Vostok's
+own researchers used the newly instant national connection to describe their own genetics work directly to a
+curious national audience for the first time — not filtered through comparison to Kunlun, but on its own
+terms.
+
+The resulting exchange, per what's preserved of the record, reached Mirny's own civic administrators among
+others — genuine interest in Vostok's own research from a subnet-mate that had, until connectivity made it
+easy, mostly known Vostok only as "the other isolated outpost," rather than for the specific work it actually
+did.
+
+### The Production Schedule That Finally Included a Fourth City
+
+Building on the established synced production schedule with Sinheung, Mirny's own quarry operation extended
+the same real-time coordination to a fourth party for the first time — folding a specific Zhongshan materials
+request into the existing Mirny-Sinheung planning rhythm rather than handling it as a separate, disconnected
+transaction.
+
+The expanded coordination, per what's preserved of the arrangement, worked smoothly enough that it became the
+new standard practice — Mirny's own logistics office, per what's remembered of the shift, found that adding a
+third and then fourth participant to an already-instant planning session cost almost nothing once the basic
+system existed.
+
+### The Long Record Entry That Finally Named a Mirny Founder Directly
+
+Following the earlier historical cross-check against Zhongshan's Long Record, a considerably more personal
+discovery followed once a Mirny resident, searching for an unrelated reason, found her own great-grandmother
+named directly in a Long Record entry describing an early joint construction project between the two cities.
+
+The discovery, per what's preserved of the account, gave the resident something no local record had ever
+provided — a specific, documented connection between her own family and a city she'd had no idea her
+ancestors had ever worked with directly, recovered only because Zhongshan's own archive happened to have kept
+better records of the collaboration than Mirny's own had.
+
+### The Toast Casey Recorded This Time, Not Just Heard
+
+Following the first telling of Oyunbaatar's own crew and the Quarry Return Toast, Casey's own dispatchers
+asked to record the story properly this time — not just hear it once, but preserve an actual account for
+Casey's own archive, treating the tradition as worth formally documenting rather than simply appreciating in
+the moment.
+
+Mirny's own quarry crews, per what's preserved of the exchange, agreed and helped produce a considerably more
+detailed account than the original telling had included — the first time the Toast's own origin story existed
+anywhere outside Mirny's own oral tradition in a form another city had actually helped create.
+
+### The Engineering Answer Denison Didn't Expect So Quickly
+
+Following the earlier second-opinion consultation on wind-fusion engineering, Denison's own engineers returned
+with a considerably more specific structural question — expecting, based on the original exchange's own
+pace, another careful multi-week reply, and receiving a working answer within the same afternoon instead.
+
+Denison's own engineers, per what's preserved of the exchange, noted the speed difference directly in their
+own follow-up thanks — proof, from a city whose own established Enneagram profile prized structural mastery
+above nearly everything else, that Mirny's own windbreak-ring expertise held up under a harder question than
+the original consultation had tested.
