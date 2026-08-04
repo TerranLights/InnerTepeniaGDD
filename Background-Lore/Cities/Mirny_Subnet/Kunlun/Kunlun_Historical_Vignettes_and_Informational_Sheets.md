@@ -14,7 +14,13 @@ connectivity existed, each grounded in a specific named city-to-city connection 
 Mirny, Davis, Signy, Dome Fuji) distinct from batch 2's own entries. The Dome Fuji entry below is explicitly
 framed as a later-period development, consistent with `City_National_Connections.md`'s own note that Dome
 Fuji's devotee community and its connection to Kunlun postdate the Tower's completion. 18 done as of batch
-3.**
+3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
+pre-Tower communication structure, where direct digital contact existed only within the Mirny subnet (Vostok,
+Mirny, Davis) and anything reaching Signy or Amundsen Station required trucking, postal service, or physically
+traveling there. Dome Fuji doesn't appear here as a connection at all — consistent with the devotee-era
+religious link postdating Tower completion, one entry below instead treats Kunlun's own total absence of
+contact with Dome Fuji, despite comparable isolation, as the genuinely pre-Tower fact it actually was. 24
+done as of this batch.**
 
 ---
 
@@ -313,3 +319,81 @@ task-driven thoroughness that governed everything else the observatory did. The 
 resolved cleanly. What mattered more, per what's recalled of the exchange, was simpler: proof that a single
 consultation, once it happened, could keep generating new contact long after the original reason for it had
 been resolved.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Question Vostok Never Had to Wait to Ask
+
+Kunlun's and Vostok's shared status as Tepenia's two loneliest extreme-isolation outposts made the Mirny
+subnet's own instant line between them something closer to a lifeline than a convenience — equipment
+requests, cold-adaptation modeling data, and ordinary professional check-ins exchanged constantly, long before
+the Tower connected either station to the rest of the country.
+
+A specific reagent shortage, per what's preserved of the incident, was resolved within the day once Kunlun's
+own researchers could simply ask Vostok directly whether a comparable substitute existed in their own stores —
+a level of mutual reliance neither station's own extreme-condition research could have sustained if the same
+question had needed to travel by the slow correspondence every subnet-external request depended on instead.
+
+### The Relay Vaults That Made the Observatory Feel Less Alone
+
+Mirny's own Relay Hardware Vaults gave Kunlun's own observatory staff instant contact with the rest of the
+Mirny subnet decades before the Tower existed — a standing connection that did more for the observatory's own
+sense of isolation than any of its actual scientific output ever did.
+
+A specific administrative question, ordinary and unremarkable on its own, prompted one observatory technician,
+per what's preserved of her own account, to remark that simply being able to ask Mirny something and receive
+an answer the same day made the station's own extreme physical isolation "feel like a choice rather than a
+sentence" — a small, human detail about what subnet-internal connectivity actually meant to people stationed
+somewhere this remote.
+
+### The Sediment Comparison That Took a Season Longer Than It Needed To
+
+Kunlun's own ice-core archive and Davis's own lake-sediment methodology, both long-term climate-record
+traditions, produced a working cross-reference conducted almost entirely over the Mirny subnet's own instant
+line — except for one early round of data that had to be physically carried between the two stations before
+either trusted the other's own transcription enough to compare figures digitally.
+
+That first physical exchange, per what's preserved of the incident, took a full season longer than every
+subsequent digital comparison the two stations conducted afterward — a deliberate, one-time caution neither
+researcher ever felt the need to repeat once the subnet's own instant line had proven reliable for the data
+that mattered.
+
+### The Engineering Consultation That Traveled by Letter, Then by Delegation
+
+Signy's own genuine self-sufficient wind-and-hydro power system drew a specific engineering consultation from
+Kunlun's own extreme-condition engineering culture — but the exchange, crossing from the Mirny subnet into the
+Palmer subnet during the Tower's own construction period, moved first by written correspondence and only later
+by an actual visiting delegation once the two sides had corresponded long enough to justify the trip.
+
+The written phase, per what's preserved of the record, lasted the better part of two years — technical
+questions and partial answers crossing back and forth at the pace of the mail, until Kunlun's own engineers
+concluded the underlying reliability discipline was similar enough to warrant sending someone in person rather
+than continuing to correspond indefinitely.
+
+### The Observatory That Watched the Tower Rise Without Ever Speaking to It
+
+Kunlun's own observatory, positioned to track orbital construction activity more directly than almost any
+other facility in the country, spent years observing the Amundsen Tower's own gradual assembly optically —
+watching a structure it had no way to actually contact, since the observatory's own comms reach stopped at the
+Mirny subnet's own boundary.
+
+Kunlun's own observatory staff, per what's preserved of the era's own logs, tracked construction milestones
+purely by sight and calculation, filing detailed reports that had no recipient at the Pole capable of
+confirming or correcting them until the Tower itself was finished. The observatory watched the one piece of
+infrastructure that would eventually end its own isolation being built, for years, in complete one-way
+silence.
+
+### The Isolated Station That Never Once Heard From the Other
+
+Long before Ice Cold Buddhism ever connected them, Kunlun and Dome Fuji existed as two of Tepenia's most
+physically isolated research stations with no meaningful contact of any kind — no digital line crossed the
+distance between the Mirny and Mawson subnets, and neither station's own remoteness made a purely social
+correspondence worth the effort of establishing.
+
+A single documented exchange from this early period, per what little survives of it, consists of nothing more
+than a brief administrative letter confirming neither station required anything from the other — the entirety
+of contact between two facilities that would eventually become, in a much later era, each other's most
+important relationship in the country. At the time, they were simply strangers, each isolated in its own
+direction.
