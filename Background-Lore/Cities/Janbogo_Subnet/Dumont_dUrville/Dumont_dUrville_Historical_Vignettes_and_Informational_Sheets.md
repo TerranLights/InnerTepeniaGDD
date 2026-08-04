@@ -14,7 +14,12 @@ and `Specs/Dumont_dUrville.md` (Tier 2), and `Dumont_dUrville_Cross_Reference_Sy
 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Casey,
-Denison, Janbogo, Zukelli) distinct from batch 2's own generically-framed entries. 18 done as of batch 3.**
+Denison, Janbogo, Zukelli) distinct from batch 2's own generically-framed entries. 18 done as of batch 3.
+Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Janbogo subnet (Denison,
+Janbogo, Zukelli) and anything reaching Casey required trucking, postal service, or physically traveling
+there — despite Hwy 2 giving the two cities the shortest, most direct cross-subnet highway link in the
+country. 24 done as of this batch.**
 
 ---
 
@@ -297,3 +302,78 @@ was recognized and respected. Dumont d'Urville's own organizers, per what's reca
 the message more meaningful than the broadcast's own considerably larger, more general audience response —
 recognition, for the first time, from a city that actually understood exactly what standing in real wind on
 purpose meant.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Exchange Program That Never Needed a Formal Charter
+
+Denison's and Dumont d'Urville's genuinely close, frequent contact — regular technical exchange programs and
+informal visiting closer in character to a Crossing than to anything more distant — ran on the Janbogo
+subnet's own instant line long before the Tower existed, close enough that scheduling a visit felt more like
+coordinating with a neighbor than arranging inter-city business.
+
+A specific exchange visit, per what's preserved of the era's own routine, was proposed and confirmed within a
+single conversation — no advance written notice required, since either city could simply ask the other
+directly and receive an answer the same hour. Denison's own technicians made the trip within the week.
+
+### The Redistribution Comparison Janbogo Confirmed the Same Afternoon
+
+Dumont d'Urville's own reduced population, part of the same administrative event that enlarged Lazar alongside
+Janbogo and Zukelli, could be cross-checked against Janbogo's own municipal records over the subnet's instant
+line — a level of shared historical verification neither city needed to wait on correspondence for.
+
+A specific figure in Dumont d'Urville's own Census history, disputed internally for years, was finally
+confirmed within a single afternoon's exchange once Janbogo's own archivists could simply pull the relevant
+record and compare it directly — a resolution that, requiring the same kind of comparison against a
+subnet-external city's own records instead, would have taken a full season of correspondence to settle.
+
+### The Venue Notes Zukelli Shared Before the Question Was Even Fully Asked
+
+Zukelli's own restaurant-performance tradition and Dumont d'Urville's own "New Orleans at 1/20th scale"
+downtown, both built from informal, organically grown venue culture, produced a constant, casual exchange of
+staging ideas over the Janbogo subnet's instant line — the kind of creative back-and-forth that worked only
+because neither side had to wait for a reply.
+
+A specific staging technique, per what's preserved of the exchange, was suggested, tried, and reported back on
+within the same week — a pace of creative collaboration that a comparable exchange with a subnet-external
+hospitality city could never have matched, since each round would have needed its own full postal cycle to
+complete.
+
+### The Certification Casey Waited Months to Receive
+
+Casey's own extended certification authority, recognizing Dumont d'Urville's own technical standards despite
+Hwy 2 giving the two cities the shortest, most direct cross-subnet highway link in the country, still had to
+be formalized entirely by written correspondence — no digital line crossed the short physical distance
+between them.
+
+The certification documents, per what's preserved of the process, traveled the length of Hwy 2 by truck
+rather than transmitting instantly — a formal exchange that took months to complete despite the two cities
+being, by road, closer to each other than either was to most of its own subnet neighbors. Dumont d'Urville's
+own administrators, per what's remembered of the process, found the mismatch between physical proximity and
+actual communication speed genuinely strange once they thought about it directly.
+
+### The Technical Question That Beat Its Own Sender Home
+
+A Dumont d'Urville engineer, traveling to Casey in person to deliver a set of technical specifications too
+detailed to trust to the mail, found on arrival that a shorter, simpler version of the same question — sent
+separately by an impatient colleague back home — had already been answered and was waiting for her, having
+somehow made better time than she had.
+
+The colleague's own version, per what's preserved of the account, had been carried along with an unrelated
+freight shipment on the same Hwy 2 route the engineer herself had traveled — arriving days before her simply
+because it had ridden cargo space on a truck that left earlier. The lesson, retold locally afterward, was
+simple: the road was the fastest channel either city had, and even that had its own unpredictable timing.
+
+### The Manifest Denison and Zukelli Confirmed Before Casey's Reply Even Left
+
+A joint shipment, requiring both Denison's own technical specifications and Zukelli's own hospitality-goods
+order, was finalized in a single real-time session over the subnet's instant line — packing order and
+delivery timing settled well before an unrelated letter to Casey, sent the same morning, had even left Dumont
+d'Urville's own mailing office.
+
+The joint shipment reached its intra-subnet destinations within days. The letter to Casey, sent hours earlier,
+took weeks to receive any reply to at all — two pieces of correspondence, dispatched the same morning, arriving
+at their destinations at entirely different speeds depending on nothing more than which side of the subnet
+boundary each was addressed to.
