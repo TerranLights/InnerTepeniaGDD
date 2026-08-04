@@ -11,7 +11,11 @@ Attributes.md` and `Specs/Cape_Adare.md` (Tier 2), and `Cape_Adare_Cross_Referen
 **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is
 framed around `City_National_Connections.md`: six occurrences that could only have happened once full
 national digital connectivity existed, each grounded in a specific named city-to-city connection from that
-file (Port Lockroy, Amundsen Station, Zukelli). 18 done as of batch 3.**
+file (Port Lockroy, Amundsen Station, Zukelli). 18 done as of batch 3. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
+direct digital contact existed only within the Janbogo subnet (Zukelli) and anything reaching Port Lockroy or
+Amundsen Station required trucking, postal service, or physically traveling there. 24 done as of this
+batch.**
 
 ---
 
@@ -292,3 +296,78 @@ Cape Adare's own harbor staff, per what's preserved of the new arrangement, foun
 national report for the first time — the same practical, unceremonious competence the harbor always applied to
 its own local traffic, now feeding directly into a national coordination system nobody at the harbor had ever
 had reason to think about before the connection made it possible.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Penguin Question Zukelli Answered While the Tide Was Still Coming In
+
+Cape Adare's own gateway role and Zukelli's own curiosity about the harbor's local wildlife guidelines
+produced a running, casual correspondence over the Janbogo subnet's instant line — questions asked and
+answered the same day, with none of the formality either city extended to anything addressed outside the
+subnet.
+
+A specific guideline dispute, per what's preserved of the exchange, was settled within the hour once Zukelli's
+own representative could simply ask Cape Adare's harbor staff to clarify directly — a level of casual,
+immediate back-and-forth that a comparable inquiry from any subnet-external city would have needed a full
+postal round trip to accomplish.
+
+### The Second Question Zukelli Asked Just to Keep the Conversation Going
+
+Beyond the practical wildlife inquiries, Zukelli's and Cape Adare's shared Janbogo subnet membership let the
+two cities' own residents exchange the kind of idle, unprompted curiosity — questions with no particular
+purpose beyond interest — that only worked because neither side had to justify the cost of asking.
+
+A specific exchange about the Borchgrevink's Hut archive's own daily cataloging routine, per what's preserved
+of the record, began as pure curiosity from a Zukelli resident and turned into a months-long informal
+correspondence conducted entirely over the subnet's instant line — a relationship that would never have
+formed at all if every message had needed to travel by the slow postal route any subnet-external
+correspondence required.
+
+### The Preservation Standard Port Lockroy Requested by Letter
+
+Cape Adare's own heritage-documentation methodology, later formally cited by Port Lockroy's own preservation
+standards, began as a written request — Port Lockroy's own archivists, having heard secondhand of Cape
+Adare's reputation for careful, unhurried documentation discipline, writing across the full distance from the
+Janbogo subnet into the Palmer subnet.
+
+The reply Cape Adare eventually sent, per what's preserved of the correspondence, took the shape of a detailed
+methodology document that itself took months to reach Port Lockroy — genuinely useful material, once it
+finally arrived, that became a working reference for Port Lockroy's own internal standards long before either
+archive could simply compare notes directly.
+
+### The Marker Inquiry That Traveled Further Than Anyone Expected
+
+A written inquiry about a specific heritage marker, arriving from a city with no prior connection to Cape
+Adare at all, took considerably longer to answer than any comparable subnet-internal question — the letter
+itself having crossed a distance neither city's own postal service treated as routine.
+
+Cape Adare's own archivists, per what's preserved of the exchange, answered plainly and in full once the
+letter finally arrived, months after it was first written — the same unhurried, careful documentation
+discipline the city applied to everything else, extended without complaint to a correspondent who'd had no
+faster way to reach them.
+
+### The Documentation Standard Amundsen Station Requested During the Tower's Own Construction
+
+Cape Adare's own precise, unhurried heritage-documentation methodology — the discipline built around the
+Borchgrevink's Hut archive — was consulted directly for how to properly document the Amundsen Tower's own
+construction, but the consultation itself, during the Tower's own build-out, had to travel by written
+correspondence, since the completed relay didn't exist yet to carry it digitally.
+
+The request, per what's preserved of the exchange, arrived at Cape Adare by the same slow route every piece of
+subnet-external mail traveled, and Cape Adare's own reply — a genuinely detailed methodology document — took
+months to make the return trip toward the Pole. The consultation shaped how the Tower's own construction was
+eventually documented for the Federation's lasting record. Getting the guidance there simply took considerably
+longer than anyone at either end would have preferred.
+
+### The Manifest Zukelli Confirmed Before Port Lockroy's Reply Even Left
+
+A shipment of archival supplies, ordered from Zukelli and confirmed within a single real-time exchange over
+the subnet's instant line, was packed and dispatched the same day the request was made — well before an
+unrelated letter to Port Lockroy, sent that same morning, had even left Cape Adare's own mailing office.
+
+The Zukelli shipment arrived within days. The letter to Port Lockroy took most of a season to receive any
+reply to at all — two pieces of correspondence, sent the same morning from the same office, arriving at
+entirely different speeds depending on nothing more than which side of the subnet boundary each was addressed
+to.
