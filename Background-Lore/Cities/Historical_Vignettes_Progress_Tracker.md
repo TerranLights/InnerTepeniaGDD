@@ -106,7 +106,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mawson | 30 | 30 | **Complete** |
 | Dome Fuji | 30 | 30 | **Complete** |
-| Sayowa | 24 | 30 | In progress |
+| Sayowa | 30 | 30 | **Complete** |
 
 ### Byrd Subnet (target: 50, 1 city)
 
@@ -138,8 +138,14 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 1,014** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 210 +
-Mawson subnet 72 + Byrd 30 + Amundsen-Scott Station 12).
+50 + 30). **Current: 1,032** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 210 +
+Mawson subnet 90 + Byrd 30 + Amundsen-Scott Station 12).
+
+**2026-08-06 — Mawson subnet batch 5 complete — all 3 cities now at their full 30/30 target.** Mawson, Dome
+Fuji, and Sayowa all completed batch 5. Dome Fuji's own entries continued to reflect its established
+extreme-altitude Arcanet limitation — even post-Tower, its connectivity stays genuinely inconsistent rather
+than a solved problem — and Kunlun still doesn't appear in its connections, since the Ice Cold Buddhism
+devotee-era link remains a later development than this batch's own timeframe.
 
 **2026-08-06 — Janbogo subnet batch 5 complete — all 7 cities now at their full 30/30 target.** Janbogo, Fort
 McMurdo, Dumont d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 5. Fort McMurdo's own

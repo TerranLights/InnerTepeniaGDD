@@ -20,7 +20,10 @@ structure, where direct digital contact existed only within the Mawson subnet (M
 anything reaching Princess Elisabeth, Shirayuki, or the wider Halley subnet required trucking, postal
 service, or physically traveling there — despite the Sayowa Junction's own physical position at the
 convergence of routes reaching outward in every direction. 24 done as of this batch — completes the Mawson
-subnet's batch 4 pass.**
+subnet's batch 4 pass. Batch 5, per direct developer instruction, returns to post-Tower full connectivity
+with genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md`
+(Sayowa = Neptune/quiet-diligence + Earth/practical-and-reliable) as a thematic undertone. 30 done as of this
+batch — Sayowa's own full target is now complete, completing the Mawson subnet's batch 5 pass.**
 
 ---
 
@@ -381,3 +384,73 @@ The joint shipment reached both intra-subnet destinations within days. The lette
 most of a season to receive any reply to at all — two pieces of correspondence, sent from the same office on
 the same morning, arriving at their destinations at completely different speeds depending on nothing more
 than which side of the subnet boundary each was addressed to. **Completes the Mawson subnet's batch 4 pass.**
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Honeymoon Tip Sayowa Passed Along Without Needing to Be Asked
+
+Following years of purely logistical coordination with Mawson, Sayowa's own dispatchers began proactively
+flagging favorable transport windows for honeymoon traffic specifically — a small, voluntary extension of the
+city's own service-first instinct into a part of Mawson's business Sayowa had never previously had reason to
+think about directly.
+
+Mawson's own hospitality office, per what's preserved of the gesture, appreciated it precisely because it
+hadn't been requested — the same quiet, dutiful service identity that governed everything else about how
+Sayowa operated, extended here to a use nobody had specifically designed the relationship for.
+
+### The Acknowledgment Sayowa Learned Not to Expect on Schedule
+
+Following the same-day acknowledgment Sayowa once received from Dome Fuji, a later exchange took considerably
+longer — Sayowa's own coordinators, per what's preserved of the record, having learned by this point that
+Dome Fuji's own thin connectivity made consistency the exception rather than the rule, regardless of how well
+any single earlier exchange had gone.
+
+Sayowa's own dispatchers, per what's remembered of the adjustment, simply planned around the unpredictability
+as a matter of course — the same practical patience the city extended to everything else, applied here to a
+connection that even national relay coverage hadn't fully solved.
+
+### The Toast Princess Elisabeth Suggested Moving to a New Date
+
+Following the coordinated toast shared with Princess Elisabeth, a specific scheduling conflict the following
+year prompted Princess Elisabeth's own community to suggest, for the first time, adjusting the shared
+observance's own timing slightly — the first genuine negotiation over how the joint tradition itself should
+actually work, rather than simply repeating the original arrangement unchanged.
+
+Sayowa's own residents, per what's preserved of the discussion, agreed to the adjustment without much
+difficulty — proof the tradition had matured enough to be genuinely negotiated between the two communities,
+not simply preserved exactly as it began.
+
+### The Institutional Comparison Shirayuki Finished, With Sayowa's Help
+
+Following the multi-year, letter-based institutional comparison, Sayowa's and Shirayuki's own historians used
+the newly instant connection to complete the project together — resolving several open questions the original
+correspondence had left unsettled, closing out a study that had begun years earlier.
+
+Sayowa's own historians, per what's preserved of the completed comparison, found real satisfaction in finally
+finishing something that had taken so long to even begin properly — the two clearest living Japanese-
+institutional civic identities in the country, finally having a definitive, jointly authored account of what
+connected them.
+
+### The Junction's Own Relevance Confirmed a Second Time, With Real Numbers
+
+Following the original survey confirming the Sayowa Junction's own relevance to every Halley subnet city, a
+follow-up study attached actual traffic data to the earlier, more impressionistic confirmation — quantifying,
+for the first time, exactly how much of each Halley subnet city's own logistics actually routed through the
+Junction.
+
+Sayowa's own coordinators, per what's preserved of the study, found the numbers validating in a quiet way —
+the Junction's own national relevance, previously understood only qualitatively, now backed by figures precise
+enough to actually plan infrastructure investment around.
+
+### The Small Order That Became a Recurring One
+
+Following Abowasa's own unusual-direction request, the arrangement became a small but genuinely recurring
+trade relationship — Abowasa's own small trade office placing similar requests periodically rather than the
+original inquiry remaining a singular curiosity.
+
+Sayowa's own coordinators, per what's preserved of the ongoing arrangement, handled each request with the same
+practical, unshowy competence as the first — proof that even Tepenia's smallest, most distant trading partner
+could become a small but genuine standing part of Sayowa's own logistics work, once the connection made
+staying in touch easy. **Completes the Mawson subnet's batch 5 pass.**
