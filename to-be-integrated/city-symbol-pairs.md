@@ -57,7 +57,7 @@ coincidence.
 |---|---|---|---|
 | Mirny | Saturn | Earth | Built as its own windbreak, unforced pride, doesn't need outside validation |
 | Casey | Mars | Fire | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
-| Davis | Earth | Wood | Literally the breadbasket — patient, sheltered, growing |
+| Davis | Earth | Earth | Literally the breadbasket — patient, sheltered, growing |
 | Kunlun | Pluto | Air | Among the most physically isolated places in Tepenia, built entirely around observation |
 | Vostok | Pluto | Water | Tepenia's other loneliest outpost, deep biological/genetic research |
 | Zhongshan | Saturn | Metal | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |
@@ -121,8 +121,10 @@ uncredited service work against Sinheung's own need for recognition. The remaini
 — Neumayer, Port Lockroy, and Juan Carlos especially, each a close literal match for "diligence" or "known
 through effect/record rather than direct presence."
 
-**Element usage (34 cities, unaffected by this round of planet changes):** Water 6, Wood 5, Fire 5, Earth 5,
-Metal 5, Electricity 4, Air 3, Electromagnetism 1. Electromagnetism's single use (Sanay) is deliberate rather
-than an oversight — Sanay's literal Arcanet nexus is the one city whose established function maps directly
-onto the element's own "invisible bonds, signal and transmission" meaning; forcing a second use elsewhere
-would have been arbitrary.
+**Element usage (34 cities):** Earth 6, Water 6, Fire 5, Metal 5, Wood 4, Electricity 4, Air 3,
+Electromagnetism 1. Electromagnetism's single use (Sanay) is deliberate rather than an oversight — Sanay's
+literal Arcanet nexus is the one city whose established function maps directly onto the element's own
+"invisible bonds, signal and transmission" meaning; forcing a second use elsewhere would have been arbitrary.
+**Davis, 2026-08-05:** moved from Wood to Earth — Davis now carries Earth as both planet and element, a
+deliberate doubling-down rather than an oversight, matching how thoroughly "breadbasket/grounded" defines the
+city.
