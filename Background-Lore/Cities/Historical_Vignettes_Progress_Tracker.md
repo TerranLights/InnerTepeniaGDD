@@ -82,7 +82,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Casey | 24 | 30 | In progress |
 | Davis | 24 | 30 | In progress |
 | Kunlun | 24 | 30 | In progress |
-| Vostok | 18 | 30 | In progress |
+| Vostok | 24 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 18 | — | In progress |
 | Sinheung *(Tri-Cities)* | 18 | — | In progress |
 | Shirayuki *(Tri-Cities)* | 18 | — | In progress |

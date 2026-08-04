@@ -11,7 +11,10 @@ and `Specs/Vostok.md` (Tier 2), and `Vostok_Cross_Reference_Synthesis.md` (Tier 
 target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Byrd, Mirny,
-Signy, Kunlun) distinct from batch 2's own entries. 18 done as of batch 3.**
+Signy, Kunlun) distinct from batch 2's own entries. 18 done as of batch 3. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
+direct digital contact existed only within the Mirny subnet (Kunlun, Mirny) and anything reaching Byrd or
+Signy required trucking, postal service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -315,3 +318,75 @@ taken on every other — plainly, without treating Byrd's own lack of any prior 
 Vostok as a reason for hesitation. The specific problem Byrd was working on isn't preserved in detail. The
 willingness to help, extended without ceremony to a city Vostok's own research program had only ever
 previously related to through the lake transplant, was itself the genuinely new thing.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Cold-Adaptation Data Kunlun Never Had to Wait For
+
+Vostok's and Kunlun's shared status as Tepenia's two loneliest extreme-isolation outposts meant the Mirny
+subnet's own instant line between them carried genuinely load-bearing traffic — equipment requests,
+cold-adaptation modeling, and reagent-substitute questions answered the same day, long before the Tower
+existed at all.
+
+A specific modeling request, per what's preserved of the incident, let Kunlun's own researchers finish an
+urgent cold-tolerance calculation within hours by drawing directly on Vostok's own ongoing research data — a
+level of practical, working reliance neither station could extend to any comparably useful subnet-external
+research partner, where the same request would have taken a season just to be understood correctly.
+
+### The Genetics Program That Answered Mirny's Curiosity in an Afternoon
+
+Vostok's own genetics program, generally reticent about sharing methodology outside its own immediate
+research circle, made a routine exception for Mirny — a fellow Mirny subnet city whose own curiosity about an
+unrelated biological question could simply be answered directly over the subnet's instant line.
+
+The specific question, per what's preserved of the exchange, involved a cold-tolerance mechanism Mirny's own
+researchers had encountered in an unrelated context — resolved within a single afternoon's conversation, a
+level of casual technical generosity Vostok's own program otherwise reserved almost exclusively for its own
+subglacial lake work at Byrd.
+
+### The Bioluminescent Transplant That Took a Full Expedition to Deliver
+
+The genetics program that eventually transplanted and cultivated Byrd's own bioluminescent subglacial
+ecosystem began, before any digital connection existed between the two subnets, as a physical expedition —
+researchers and living samples alike making the long overland-and-aviation journey from the Mirny subnet
+toward Byrd's own isolated corridor.
+
+The expedition itself, per what's preserved of the founding-era record, required weeks of careful preparation
+and travel specifically because the samples involved couldn't simply be described or transmitted — they had
+to be carried, alive, the entire distance by researchers willing to make the trip in person, since nothing
+faster or less risky existed as an alternative before the Tower.
+
+### The Follow-Up Letter That Outlived the Original Expedition Team
+
+Once Vostok's own genetics program had successfully established Byrd's subglacial ecosystem, ongoing
+monitoring questions from Byrd's own research staff had to travel back to Vostok by written correspondence —
+none of the original expedition's own researchers remained on-site at Byrd to answer questions directly.
+
+A specific follow-up inquiry, per what's preserved of the correspondence, took the better part of a year to
+receive a full technical reply — Vostok's own researchers, working from written descriptions of symptoms and
+conditions rather than direct observation, doing their best to diagnose a problem at a lake they hadn't
+personally seen in years.
+
+### The Power-System Consultation That Started With a Letter, Not a Visit
+
+Vostok's own cold-tolerant biological research reaching into Signy's own power-system consultation began as
+written correspondence, crossing from the Mirny subnet into the Palmer subnet at the pace of the mail
+carrying it — an engineering question neither city could resolve any faster before the Tower existed.
+
+The correspondence, per what's preserved of the exchange, ran for well over a year before either side felt
+the underlying technical question had been fully answered — a research pace considerably slower than the
+same-day consultations Vostok's own researchers were accustomed to when working with Kunlun or Mirny instead.
+
+### The Manifest Kunlun Confirmed While Vostok's Convoy Was Still Loading
+
+A shipment of specialized cold-storage equipment, ordered jointly through Mirny's own logistics office and
+confirmed against Kunlun's own equipment stock over the subnet's instant line, was finalized within a single
+exchange — packing specifications and delivery timing settled before Vostok's own loading crew had finished
+preparing the shipment itself.
+
+That same shipment, once a portion of it was redirected toward Byrd per a later request, left the Mirny
+subnet with no way for Vostok to confirm its arrival — the same instant coordination that had assembled and
+confirmed the order in minutes giving way, at the subnet boundary, to the same unaccountable silence every
+shipment crossing out of Vostok's own reach disappeared into.
