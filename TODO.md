@@ -4,6 +4,40 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## An original Platonic Solid symbol system — flagged 2026-08-03, new project, not yet designed
+
+Grew out of drafting `to-be-integrated/platonic-solids-symbols.md`: the 5 Platonic solids no longer map to
+elements in Tepenia (that ground is fully covered by the 8 Robot Elementals, `to-be-integrated/
+elementals_short_list.md`), so a chemistry-derived interim symbolism was drafted for them instead
+(Tetrahedron=Foundation, Cube=Endurance Under Strain, Octahedron=Regulation, Dodecahedron=Containment,
+Icosahedron=Self-Assembly).
+
+While researching real-world precedent, Kepler's *Mysterium Cosmographicum* (1596) came up — his own use of
+the 5 solids, nested between the 6 known planetary orbits to explain orbital spacing (Mercury↔Venus=Octahedron,
+Venus↔Earth=Icosahedron, Earth↔Mars=Dodecahedron, Mars↔Jupiter=Tetrahedron, Jupiter↔Saturn=Cube). Notably,
+Kepler's own scheme was **geometric/explanatory, not symbolic per solid** — he didn't assign each shape its
+own meaning the way the Wu Xing elements do; the "meaning" was one level up (the whole system as proof of
+divine geometric order), not five individual character sketches. That gap is what caught the developer's
+interest: an original symbol system, genuinely designed rather than ported from an existing tradition, built
+from scratch around the solids — quite possibly grounded in orbital-nesting logic (each solid defined by what
+it sits *between*) given the project's own active orbital-infrastructure work (see `project_orbital_
+infrastructure_stages` and `project_orbital_composition` memories).
+
+**Explicitly flagged as a cross-project ambition, not Inner-Tepenia-only:** per direct developer instruction,
+whatever system results should be designed so it can carry across all of the "[...] Tepenia" games — Inner
+Tepenia plus the three planned Outer Tepenia RPGs (see `project_outer_tepenia_series` memory) — not just this
+one. Worth keeping that portability in mind from the start rather than accidentally hard-coding it to
+Inner-Tepenia-specific lore.
+
+**Status: flagged as its own project, nothing designed yet.** The chemistry-derived version already in
+`platonic-solids-symbols.md` stays as the current working content until/unless this new system replaces it.
+Other "sets-of-five" candidates already considered and set aside, for reference: duality-pair cognitive
+faculties, a tiered robot-classification system, the Five Aggregates (Skandhas), five states of matter — see
+`platonic-solids-symbols.md`'s own "Alternate Directions Considered" section and this conversation's own
+history for the fuller list.
+
+---
+
 ## Abowasa's whole founding premise — flagged 2026-08-02, developer-confirmed same bug class as Sejong's Hangul fix, NOT yet fixed
 
 `Specs/Abowasa.md`'s Founding, Character & Culture, and Legacy sections all rest on "Finnish and Swedish exiles, jointly" founding the city at Tepenian founding — the same First Interwar Period (2083-2564, ~500 years, every station but Zhongshan changing national hands repeatedly) turnover fact that invalidated Sejong's Hangul-continuity claim also rules out any real Finnish or Swedish population/culture surviving from the real-world Aboa (1988)/Wasa (1989) stations' own naming era through to founding. This is a bigger fix than Sejong's: it touches the city's own name ("Abowasa," explicitly chosen by combining both station names), demonym ("Abowasian"), "dual-national character" as its headline trait, the Turku Remembrance holiday, and the Character & Culture / Legacy sections' entire framing — not just one attribute and one holiday. Layers not yet checked: `Local_Cultures/Halley_Subnet/Abowasa.md`, `Abowasa_Community_Infrastructure.md`, `Abowasa_Full_Extrapolation.md`, `Abowasa_Cross_Reference_Synthesis.md`, `Abowasa_Physical_Infrastructure_Attributes.md` (which has its own "Hangul Instruction Halls"-style attributes built on the same premise), `Neo-Races-and-Cultures/Halley_Subnet/Abowasa/Abowasa_Catalog.md`. Also worth checking, per the same geography-alignment logic that flagged Sejong's own name as potentially wrong: Queen Maud Land's interior position doesn't obviously GPS/timezone-align with Finland or Sweden either, so the city's own name may need reconsideration the same way Sejong's does. **Developer directive 2026-08-02: flagged, not actioned — skipped while continuing the unrelated Historical Vignettes rework on other cities.** See `feedback_founding_nation_bug_methodology.md` memory.

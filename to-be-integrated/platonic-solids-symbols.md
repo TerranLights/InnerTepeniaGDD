@@ -12,7 +12,7 @@ there's an actual place in the game to hang this on.**
 
 ---
 
-## Tetrahedron (Coordination Number 4) — Foundation
+## Tetrahedron — 4 Faces, 4 Vertices, 6 Edges (Coordination Number 4) — Foundation
 
 The single most common bonding geometry in existence: sp³ carbon, ammonium, sulfate, phosphate, the SiO₄ unit
 that builds nearly every silicate rock on a planet, diamond's own infinite lattice. It's the default shape
@@ -25,7 +25,7 @@ four things take when they arrange themselves around a center with nothing else 
   nobody thinks to check on until it's already failed. The kind of default nobody ever chose on purpose —
   it's just what happens when nothing more deliberate is imposed.
 
-## Cube (Coordination Number 8) — Endurance Under Strain
+## Cube — 6 Faces, 8 Vertices, 12 Edges (Coordination Number 8) — Endurance Under Strain
 
 Rare at the molecular scale, and conspicuous whenever it does appear: cubane, a molecule with extreme internal
 ring strain that should by rights fall apart and instead holds its shape with genuine kinetic stability; the
@@ -38,7 +38,7 @@ that hold eight-coordinate structure under real stress.
   the specific conditions that produced it that it can shatter completely, with no partial failure mode, the
   instant those conditions change.
 
-## Octahedron (Coordination Number 6) — Regulation
+## Octahedron — 8 Faces, 6 Vertices, 12 Edges (Coordination Number 6) — Regulation
 
 The workhorse geometry of inorganic and coordination chemistry: sulfur hexafluoride, hexafluorophosphate,
 transition-metal complexes that run real biological electron transfer (hexaaquairon, ferricyanide), and rock
@@ -52,7 +52,11 @@ huge stretches of the mineral world.
   center that never lets any one of them break formation. Balance so total it leaves no room for a system to
   actually grow or change shape when it needs to.
 
-## Dodecahedron (12 Pentagonal Faces) — Containment
+## Dodecahedron — 12 Faces, 20 Vertices, 30 Edges — Containment
+
+*(No coordination number listed — per `platonic-solids-chemistry.md`, "dodecahedral" in coordination
+chemistry conventionally refers to a different, distorted 8-coordinate shape, not the true Platonic
+solid this entry describes.)*
 
 The hardest of the five to find in real chemistry: dodecahedrane wasn't successfully synthesized until 1982,
 after decades of failed attempts, and remains a landmark achievement specifically because the shape resists
@@ -67,7 +71,7 @@ in permafrost and deep-sea sediment.
   it — containment that protects can just as easily become containment that traps, denies access, or hides
   something that should have been let out.
 
-## Icosahedron (Coordination Number 12 / Cage Symmetry) — Self-Assembly
+## Icosahedron — 20 Faces, 12 Vertices, 30 Edges (Coordination Number 12 / Cage Symmetry) — Self-Assembly
 
 The most efficient known way to enclose a volume using identical, repeating parts — which is exactly why
 viral capsids (adenovirus, poliovirus, the HIV core) and fullerenes (buckminsterfullerene and its larger
