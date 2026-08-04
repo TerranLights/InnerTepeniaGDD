@@ -97,7 +97,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Dumont d'Urville | 24 | 30 | In progress |
 | Cape Adare | 24 | 30 | In progress |
 | Zukelli | 24 | 30 | In progress |
-| Scott | 18 | 30 | In progress |
+| Scott | 24 | 30 | In progress |
 | Denison | 18 | 30 | In progress |
 
 ### Mawson Subnet (target: 30 each, 90 total)

@@ -11,7 +11,10 @@ and `Specs/Scott.md` (Tier 2), and `Scott_Cross_Reference_Synthesis.md` (Tier 3)
 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Fort
-McMurdo, Casey, Signy). 18 done as of batch 3.**
+McMurdo, Casey, Signy). 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens:
+six occurrences resting on the actual pre-Tower communication structure, where direct digital contact existed
+only within the Janbogo subnet (Fort McMurdo) and anything reaching Casey or Signy required trucking, postal
+service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -295,3 +298,72 @@ was never intended as anything more than an internal curiosity for the three adm
 stands, regardless, as the first piece of shared civic reflection Scott had ever participated in connecting
 three separate relationships — Fort McMurdo, Casey, and Signy — into a single, coherent picture of exactly what
 kind of city Scott actually was, described this time in its own words alongside its own genuine peers.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Calibration Request Fort McMurdo Never Had to Write Down
+
+Scott's own precision-calibration work, flowing routinely into Fort McMurdo's own heavy industry, ran
+entirely over the Janbogo subnet's own instant line — a request could be raised, clarified, and scheduled in
+a single conversation, with nothing needing to be formalized in writing until the work itself was already
+underway.
+
+A specific urgent recalibration, per what's preserved of the incident, was requested and confirmed within
+minutes of Fort McMurdo's own floor supervisor first noticing the problem — a level of responsiveness that,
+extended to any subnet-external industrial client, would have required a written request and a wait measured
+in weeks rather than minutes.
+
+### The Second Calibration Fort McMurdo Requested Just to Test the System
+
+Following the first urgent recalibration, Fort McMurdo's own supervisors, curious how quickly Scott's own
+technicians could genuinely respond under normal, non-urgent circumstances, deliberately sent a routine
+request through the subnet's instant line simply to compare the response time.
+
+The routine request, per what's preserved of the exchange, was answered nearly as quickly as the original
+emergency had been — proof, once tested deliberately rather than assumed, that Scott's own responsiveness
+wasn't a special exception made for crises but simply the ordinary pace subnet business moved at, day to day.
+
+### The Precision Question Casey Waited a Season to Have Answered
+
+Scott's own precision-calibration reputation, once it spread beyond the Janbogo subnet, drew a written inquiry
+from Casey's own instrument technicians — a technical question that could only travel by the mail crossing
+from the Janbogo subnet into the Mirny subnet, since nothing digital connected the two.
+
+The reply, per what's preserved of the letter, took a full season to arrive — detailed and genuinely useful
+once it came, though Casey's own technicians had, by that point, already worked around the uncertainty with
+an approximate answer of their own rather than wait indefinitely for Scott's more precise one.
+
+### The Civic-Temperament Letter That Took Two Seasons to Become a Friendship
+
+Signy's own civic historian, noticing the parallel between Signy's own quiet position in the Palmer subnet and
+Scott's own comparable position in the Janbogo subnet, wrote directly — a letter crossing the full distance
+between the two subnets with no way to know in advance whether the comparison would resonate at all.
+
+Scott's own reply, per what's preserved of the exchange, took the better part of two seasons to properly draft
+and send back — a genuine, if slow-arriving, sense of civic kinship that neither city had any faster way to
+develop, sustained afterward through an occasional letter exchanged perhaps once a year.
+
+### The Comparison Document That Traveled by Two Different Speeds at Once
+
+The eventual three-city comparison bringing together Scott's precision culture, Casey's dispatch tradition,
+and Signy's civic temperament required compiling material that arrived at two entirely different speeds —
+Fort McMurdo's own contribution settled the same afternoon over the subnet's instant line, while Casey's and
+Signy's own sections each waited on a full season of correspondence apiece.
+
+Scott's own compiler, per what's preserved of the project's own record, finished the Fort McMurdo section
+before either of the other two contributions had even been fully drafted — the same document, built from
+three relationships moving at two fundamentally different paces depending on nothing more than which subnet
+each correspondent happened to sit in.
+
+### The Manifest Fort McMurdo Confirmed Before Casey's Letter Even Left
+
+A shipment of calibration equipment, ordered from Fort McMurdo and confirmed within a single real-time
+exchange over the subnet's instant line, was dispatched the same day the order was placed — well before an
+unrelated letter to Casey, sent that same morning, had even left Scott's own mailing office.
+
+The Fort McMurdo shipment arrived within a day. The letter to Casey took most of a season to receive any reply
+to at all — two pieces of correspondence, sent from the same office on the same morning, arriving at their
+destinations at entirely different speeds depending on nothing more than which side of the subnet boundary
+each was addressed to.
