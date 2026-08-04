@@ -10,7 +10,11 @@ Attributes.md` and `Specs/Palmer_City.md` (Tier 2), and `Palmer_City_Cross_Refer
 Palmer City carries the **elevated 50-entry target** — begins the Palmer subnet. **Batch 2 of many — 12 done
 as of that batch. Batch 3, per direct developer instruction, is framed around `City_National_Connections.md`:
 six occurrences that could only have happened once full national digital connectivity existed, each grounded
-in a specific city-to-city connection from that file. 18 done as of batch 3.**
+in a specific city-to-city connection from that file. 18 done as of batch 3. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
+direct digital contact existed only within the Palmer subnet (Sejong, Juan Carlos) and anything reaching
+Mawson, Byrd, or Lazar required trucking, postal service, or physically traveling there. 24 done as of this
+batch (target 50).**
 
 ---
 
@@ -313,3 +317,82 @@ preserved of the exchange, was simpler: Palmer City's own tourism economy, depen
 decisions made somewhere else in the corridor, could for the first time actually ask a question directly
 rather than waiting for policy to arrive through however many intermediate steps it had always previously
 required.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Gateway Question That Used to Take a Season
+
+Before any direct line existed, Palmer City's own tourism economy learned of Machu Picchu Border Authority
+policy changes only once those changes had already worked their own way through whatever intermediate
+correspondence eventually reached the city — a delay measured in the same season-long postal cycle that
+governed every piece of subnet-external mail, even though Sejong sat within the same Palmer subnet the whole
+time digital contact had simply never existed at all before the subnet's own internal Arcanet came online.
+
+A specific visa-policy revision, per what's preserved of the incident, reached Palmer City's own tourism
+office nearly two months after it had already taken effect at the border itself — travelers arriving under
+the old assumption, and Palmer City's own staff scrambling to catch up on rules that had been live the entire
+time they'd been operating under outdated information.
+
+### The Casino Petrograd Room Copied From a Description, Not a Visit
+
+Lazar's own maglev-and-holographic commercial density had a real, if entirely secondhand, influence on Palmer
+City's own design sensibilities — reputation traveling between the two big-city megacenters long before either
+subnet had any direct line connecting them.
+
+A specific Palmer City designer, working on an early revision of what would eventually become a recognizable
+commercial district, drew on nothing more than travelers' accounts and the occasional letter describing
+Lazar's own Junction Markets — a design process built entirely on secondhand description, since nothing
+digital crossed from the Palmer subnet into the Halley subnet and no correspondence moved faster than the mail
+carrying it.
+
+### The Family Records Byrd Couldn't Simply Send
+
+Byrd's own founding population, drawn substantially from Palmer City's own over-cap redistribution, meant a
+considerable number of Byrd residents had genealogical ties back to Palmer City — ties that, before the Tower,
+could only be pursued through written correspondence along Byrd's own single overland corridor.
+
+A specific family records request, per what's preserved of the exchange, took the better part of a year to
+resolve — the inquiry traveling out along Hwy 1 through the Byrd corridor, and Byrd's own municipal records
+office searching its own holdings before mailing a reply back the same long route. Palmer City's own residents
+who pursued these searches understood, going in, that "sent" and "received" for anything addressed to Byrd
+were rarely separated by less than several months.
+
+### The Hospitality Comparison Mawson Never Got to Make Directly
+
+Palmer City's entertainment-and-casino tourism economy and Mawson's own honeymoon-destination hospitality
+industry were compared often enough by travelers who'd visited both that each city developed a working
+awareness of the other's own approach, entirely through secondhand report rather than any actual professional
+exchange.
+
+A specific Palmer City hospitality administrator, curious enough about Mawson's own methods to write directly
+rather than rely on travelers' accounts, received a reply that took months to arrive — correspondence crossing
+from the Palmer subnet through however many intermediate steps a letter bound for the Mawson subnet required.
+By the time the exchange concluded, the administrator's own department had already implemented several changes
+based on secondhand reports that turned out, per the eventual letter, to be substantially accurate anyway.
+
+### The Delegation That Finally Got to Ask in Person
+
+A Byrd delegation, curious about the redistribution-era records that connected a share of Byrd's own founding
+population back to Palmer City, undertook the long overland journey specifically because no faster way existed
+to have the conversation at all.
+
+The delegation traveled the full length of Byrd's own single overland corridor before continuing through the
+rest of the Palmer subnet on established roads — days of travel to have a conversation that, within Palmer
+City's own subnet, any comparable inquiry to Sejong or Juan Carlos could have completed the same afternoon.
+Palmer City's own civic archivists, per what's preserved of the visit, treated the delegation's own willingness
+to make the trip as proof of how much the connection actually mattered to the people asking about it.
+
+### The Booking Confirmed Twice, an Hour Apart and a Season Apart
+
+A single tourism season required Palmer City's own booking office to coordinate simultaneously with Sejong,
+over the subnet's instant line, and with a Mawson hospitality contact, by the same slow correspondence every
+piece of subnet-external mail traveled by — two halves of the same planning problem moving at entirely
+different speeds.
+
+The Sejong half of the arrangement, per what's preserved of the season's own planning record, was confirmed
+within a single afternoon's exchange. The Mawson half took most of the preceding season to settle, letters
+crossing back and forth until both sides finally agreed on shared scheduling. Palmer City's own planners, per
+what's remembered of the process, had long since stopped finding the disparity strange — it was simply how
+business worked, fast inside the subnet and slow the moment it left.
