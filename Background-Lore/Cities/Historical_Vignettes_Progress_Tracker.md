@@ -79,7 +79,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Marambio | 36 | 36 | **Complete** |
 | Port Lockroy | 36 | 36 | **Complete** |
 | Sejong | 36 | 36 | **Complete** |
-| Signy | 30 | 30 | **Complete** |
+| Signy | 36 | 36 | **Complete** |
 | Juan Carlos | 30 | 30 | **Complete** |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)

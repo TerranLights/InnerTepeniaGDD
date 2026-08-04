@@ -18,7 +18,10 @@ anything reaching Kunlun, Vostok, Princess Elisabeth, or Scott required trucking
 physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
 post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Signy = Mercury/careful-endurance-at-the-margins + Water/quiet-self-sufficiency) as a
-thematic undertone. 30 done as of this batch — Signy's own full target is now complete.**
+thematic undertone. 30 done as of this batch — Signy's own full target complete. Batch 6, per direct developer
+instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh occurrences,
+distinct from both Batch 4 and each other, now also cross-referenced against Signy's own symbol pair. 36 done
+as of this batch.**
 
 ---
 
@@ -453,3 +456,71 @@ Signy's own engineers, per what's preserved of the period, found the recognition
 making much of it publicly — the same understated response the city gave to most things, even as its own
 quiet, decades-long engineering discipline became, for the first time, something the rest of the country
 actually knew by name.
+
+---
+
+## Batch 6 — Careful Work, Measured at the Margins
+
+### The Reading Rothera Double-Checked Before Signy Had to Ask
+
+A turbine-output reading flagged as anomalous by Signy's own monitoring equipment was independently
+cross-checked against Rothera's comparable data over the subnet's own instant line before Signy's own
+engineers had even finished drafting a formal query — Rothera's confirmation arriving almost as a courtesy,
+ahead of the question that would have prompted it.
+
+The same category of anomaly, raised separately with Vostok by letter, required Signy's own engineers to wait
+out a full mail cycle before receiving even an acknowledgment that the question had been understood correctly
+— let alone an actual comparative answer.
+
+### The Delegation That Planned Its Own Trip Around Rothera's Weather
+
+A Signy delegation traveling to Rothera to study its own decentralized production sites in person coordinated
+departure timing with Rothera's own current weather conditions over the subnet's line, adjusting the trip by
+several days to avoid a storm system neither city could have known about far enough in advance to plan around
+otherwise.
+
+A comparable planned visit to Princess Elisabeth had no such coordination available — the delegation departed
+on a fixed schedule set weeks earlier, arriving to find conditions considerably worse than expected, with no
+way the two isolated stations could have adjusted the timing together in advance.
+
+### The Wind-Load Comparison Vostok Sent in Careful, Deliberate Pieces
+
+A wind-engineering comparison requested by Vostok arrived not as a single document but across several
+separate letters, spaced out as Signy's own engineers found time to compile each section carefully — a slow,
+deliberate process matching the same self-sufficient, unhurried character Signy applied to most of its own
+work.
+
+The identical category of comparison, run informally with Rothera over the subnet's own line, unfolded as one
+continuous, iterative conversation instead — revised, argued over, and refined in real time rather than
+assembled from finished pieces sent one at a time.
+
+### The Question Scott Answered With More Patience Than Speed
+
+A civic-temperament inquiry from Scott, comparing its own quiet, uncredited character against Signy's, took
+several rounds of careful correspondence by mail to work through properly — neither city in any particular
+hurry, the slowness of the exchange matching, if anything, the unhurried tone of the conversation itself.
+
+Rothera, raising a related question over the subnet's own line, received an equally careful answer inside a
+single afternoon — the same deliberate thoughtfulness Signy brought to everything, simply delivered at a
+different speed depending on which line carried it.
+
+### The Manifest Kunlun Received Without a Single Follow-Up Question
+
+A specialized-parts shipment sent to Kunlun arrived with a manifest thorough enough that no follow-up
+correspondence proved necessary — Signy's own founding-era habit of careful, self-sufficient planning applied
+just as rigorously to a delivery it would receive no immediate confirmation of at all.
+
+A comparable shipment to Rothera, tracked and confirmed over the subnet's own instant line at every stage,
+received the same careful preparation but with the added, genuinely useful benefit of knowing immediately that
+everything had arrived exactly as intended — a confirmation Kunlun's own distance simply didn't allow.
+
+### The Margin That Stayed Careful Regardless of How Far Word Had to Travel
+
+Signy's own small, isolated character meant its habits of careful, self-sufficient planning applied uniformly
+to everything it did — the quality of the work itself never depended on whether the recipient sat inside the
+Palmer subnet or three subnets away.
+
+What changed, consistently, was only how quickly Signy could learn whether that careful work had actually
+succeeded — near-instant confirmation with Rothera, and the ordinary, unhurried patience of the mail for
+Kunlun, Vostok, Princess Elisabeth, and Scott, a patience the city's own temperament, per its own records,
+seemed to find no particular hardship in extending.
