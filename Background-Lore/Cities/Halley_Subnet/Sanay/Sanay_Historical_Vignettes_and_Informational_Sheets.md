@@ -18,7 +18,10 @@ exception of the dedicated pre-Tower cable linking the Halley subnet directly to
 per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
 distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Sanay = Jupiter/self-evident weight +
 Electromagnetism/the invisible hub) as a thematic undertone. Target 30, 30 done as of this batch — Sanay's own
-full target is now complete.**
+full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower,
+subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Sanay's own symbol pair — including the Amundsen Station cable's own partial
+exception to the subnet boundary, established in Batch 4. Target effectively 36, 36 done as of this batch.**
 
 ---
 
@@ -493,3 +496,68 @@ requests from cities Sanay had never had any prior trade relationship with at al
 as a genuine national resource rather than one port's own private operational history — the clearest
 confirmation yet that the city's own quiet, uncredited significance had become, once connectivity made it
 visible, simply a fact everyone else could now see too.
+
+---
+
+## Batch 6 — The Nexus That Only Reached as Far as the Subnet
+
+### The Three Cities the Nexus Actually Held Together
+
+Sanay's own Arcanet nexus carried a continuous, overlapping three-way conversation between Halley, Belgrano,
+and Troll at any given hour — shipping updates, weather relays, and casual correspondence all moving through
+the same hub simultaneously, none of it requiring Sanay to do anything more than keep the equipment running.
+
+The nexus carried none of that traffic any further than the subnet boundary — a query from Sinheung about
+Sanay's own shipping schedule, addressed directly to the nexus itself, had to travel by the ordinary mail like
+any other subnet-external request, since the nexus's own reach, whatever its symbolic weight, was physically
+bounded by the same cable network as everyone else's.
+
+### The Cable to Amundsen Station That Carried Almost Nothing Else
+
+The dedicated pre-Tower line linking the Halley subnet to Amundsen Station ran through Sanay's own nexus as
+its physical anchor point — a rare, genuine exception to the subnet boundary, but one narrow enough that it
+carried almost nothing beyond Station-specific traffic, never functioning as a general-purpose channel to
+anywhere else in the country.
+
+Sanay's own operators, per a surviving maintenance log, treated the line with a certain care disproportionate
+to its actual traffic volume — the one thread connecting the nexus to something outside the subnet's own
+boundary, however narrow, worth protecting precisely because it was so nearly unique.
+
+### The Order Abowasa Could Track and the Order It Couldn't
+
+An Abowasa order routed through Sanay's own port, once it entered the subnet's own logistics chain, could be
+tracked step by step over the internal line — Abowasa's own trade office checking its progress freely, since
+Abowasa itself sits within the Halley subnet.
+
+A separate order Abowasa placed with a subnet-external supplier had no equivalent visibility at all — once it
+left Sanay's own hands and crossed into another subnet's jurisdiction, Abowasa's only source of information
+became whatever the receiving party chose to write in a letter, whenever they got around to sending one.
+
+### The Redundant Port's Redundancy Was Entirely Local
+
+Sanay's own reputation as "the redundant port that never needed to ask twice" depended entirely on the
+subnet's own internal line — its ability to instantly confirm and reconfirm shipping arrangements with Halley,
+Belgrano, and Troll was the actual mechanism behind the reputation, not some property of the port itself.
+
+The same redundancy simply didn't exist for cross-subnet shipping arrangements — a shipment bound for Sinheung
+that needed reconfirming had to wait on a full mail cycle each time, the port's own famous responsiveness
+quietly absent the moment the recipient sat outside the subnet.
+
+### The Freighter Belgrano Watched Depart and Fort McMurdo Only Heard About
+
+A freighter's departure from Sanay's own port, delayed twice and finally cleared, was tracked in real time by
+Belgrano's own dispatch office over the subnet's line — every delay, every adjustment, visible as it happened.
+
+Fort McMurdo, waiting on the same freighter's cargo, received a single letter confirming the final departure
+date, with no visibility into either delay — from Fort McMurdo's own side of the correspondence, the freighter
+simply left on schedule, the entire preceding complication invisible past the subnet boundary.
+
+### The Weight Sanay Carried Without Anyone Outside the Subnet Noticing
+
+Sanay's literal function as the Halley subnet's Arcanet nexus gave it an outsized, load-bearing role that
+every subnet-mate understood implicitly, simply by using the line daily — Halley, Belgrano, Troll, and
+Princess Elisabeth all routing effectively everything through Sanay without needing it explained.
+
+Cities outside the subnet, by contrast, had no way to observe this at all — from Sinheung's or Fort McMurdo's
+own vantage point, Sanay was simply the origin point on a shipping manifest, its actual significance as the
+subnet's own connective center invisible to anyone who'd never had reason to use the nexus directly.
