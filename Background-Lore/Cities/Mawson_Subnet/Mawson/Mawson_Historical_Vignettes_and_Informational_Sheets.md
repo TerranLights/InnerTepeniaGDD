@@ -11,7 +11,11 @@ Infrastructure_Attributes.md` and `Specs/Mawson.md` (Tier 2), and `Mawson_Cross_
 (Tier 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction,
 is framed around `City_National_Connections.md`: six occurrences that could only have happened once full
 national digital connectivity existed, each grounded in a specific named city-to-city connection from that
-file (Neumayer, Palmer City, Davis, Sinheung, Janbogo, Sayowa/Dome Fuji). 18 done as of batch 3.**
+file (Neumayer, Palmer City, Davis, Sinheung, Janbogo, Sayowa/Dome Fuji). 18 done as of batch 3. Batch 4,
+per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Mawson subnet (Sayowa, Dome
+Fuji) and anything reaching Neumayer, Palmer City, Davis, Sinheung, or Janbogo required trucking, postal
+service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -297,3 +301,74 @@ held exactly as intended — intra-subnet coordination robust enough to absorb o
 Sayowa's or Dome Fuji's own needs being deprioritized. It marked the first time the three-city hub
 relationship had ever actually operated as a genuine three-way conversation, rather than two separate
 connections both running through Mawson.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Hub Built to Talk to Its Neighbors First
+
+Mawson's own founding-era hub function prioritized intra-subnet coordination with Sayowa and Dome Fuji before
+outward national connectivity — a deliberate sequencing choice that meant Mawson had instant reach to both
+neighbors decades before the Tower ever gave it comparable reach to the rest of the country.
+
+A specific coordination problem, per what's preserved of the era's own routine, involving overlapping supply
+schedules Sayowa and Dome Fuji had each independently planned around Mawson's own hub, was resolved in a
+single three-way conversation over the subnet's instant line — a level of routine, multi-city problem-solving
+that no comparable arrangement involving a subnet-external partner could have managed at anything like the
+same speed.
+
+### The Letter That Explained Calethina to a City That Had Never Met Her
+
+Neumayer's own drafted spec and schematic for Calethina, commissioned out of Mawson as a hospitality-host
+hologram, required Mawson's own hospitality administrators to correspond entirely by mail with an engineer
+they'd never actually spoken to directly — no digital line crossed the distance between the Mawson and Halley
+subnets.
+
+A specific installation question, per what's preserved of the project's own record, took months to receive a
+clarifying answer to — Mawson's own administrators working from written specifications alone, unable to simply
+ask Neumayer's own drafting office a quick follow-up question the way they could have asked Sayowa or Dome
+Fuji the same day.
+
+### The Hospitality Comparison Palmer City Made From a Traveler's Description
+
+Palmer City's own entertainment-and-casino economy and Mawson's own honeymoon-destination hospitality
+industry were compared often enough by travelers who'd visited both that each city developed a working,
+entirely secondhand impression of the other — no direct correspondence existed to properly compare methods.
+
+A specific Mawson hospitality administrator, curious enough to write to Palmer City directly, received a reply
+that took months to arrive, crossing the full distance from the Mawson subnet into the Palmer subnet at
+whatever pace the postal route between the two allowed — genuinely useful detail, once it came, considerably
+later than the administrator's own original question had hoped for.
+
+### The Rescue Story Davis Answered Slowly and Carefully
+
+The real-world rescue connection between Mawson's and Davis's own namesakes existed mostly as an underdeveloped
+historical footnote until a written inquiry, crossing from the Mawson subnet into the Mirny subnet, asked Davis
+for more detail than either city's own records had previously assembled.
+
+Davis's own reply, per what's preserved of the correspondence, took months to research properly and longer
+still to arrive — genuinely new historical detail, once it finally came, that Mawson's own historian
+incorporated into a fuller account of the connection than had ever existed at either city before.
+
+### The Import Ledger Sinheung Reconciled a Full Season After the Fact
+
+Sinheung's own imports, received via the city of Mawson as a physical logistics link independent of subnet
+boundaries, required periodic ledger reconciliation that, before the Tower, could only happen by written
+correspondence crossing from the Mawson subnet into the Mirny subnet.
+
+A specific discrepancy, per what's preserved of the incident, took a full season to identify and correct — each
+side's own records mailed, compared, and clarified across several rounds of correspondence, a process that
+would have taken a single afternoon's conversation had Sinheung sat within Mawson's own subnet instead.
+
+### The Manifest Sayowa and Dome Fuji Confirmed Before Janbogo's Letter Even Left
+
+A joint shipment, requiring coordination between Sayowa's own logistics office and Dome Fuji's own receiving
+staff, was finalized within a single real-time session over the subnet's instant line — well before an
+unrelated letter to Janbogo, addressing an entirely different hospitality-comparison question, had even left
+Mawson's own mailing office that same morning.
+
+The joint shipment reached both intra-subnet destinations within days. The letter to Janbogo took most of a
+season to receive any reply to at all — two pieces of correspondence, sent from the same office on the same
+morning, arriving at their destinations at completely different speeds depending on nothing more than which
+side of the subnet boundary each was addressed to.
