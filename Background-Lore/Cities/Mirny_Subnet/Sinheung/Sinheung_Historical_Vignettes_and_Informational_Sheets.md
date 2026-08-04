@@ -21,7 +21,9 @@ service, or physically traveling there. 24 done as of this batch. Batch 5, per d
 returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
 cross-referenced against `city-symbol-pairs.md` (Sinheung = Uranus/an-outlier-by-its-own-pride +
 Electricity/the-literal-spark-of-animation) as a thematic undertone. 30 done as of this batch — Sinheung's
-own full target is now complete.**
+own full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower
+framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Sinheung's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -460,3 +462,68 @@ this point, well established everywhere else.
 Sinheung's own residents, per what's preserved of the exchanges, answered plainly and without defensiveness —
 the first time the city's own distinctive civic pride had been treated, nationally, as a genuine subject of
 curiosity rather than simply a known local quirk other cities quietly found unusual.
+
+---
+
+## Batch 6 — A Spark That Traveled Fast Nearby and Slowly Everywhere Else
+
+### The Order Zhongshan Revised Twice Before the Chamber Finished Its Cycle
+
+A fabrication-chamber order from Zhongshan was revised twice over the subnet's own instant line while the
+chamber itself was still mid-cycle — Sinheung's own floor supervisors adjusting the run in progress rather
+than waiting for the original order to complete before applying the changes.
+
+A comparable order from Neumayer, once submitted by mail, could not be revised at all once the chamber had
+begun — any change required canceling the run outright and starting over, since no fast enough channel
+existed to catch a correction in time.
+
+### The Defect Shirayuki Flagged Before the Batch Left the Floor
+
+A minor manufacturing defect in a batch destined for Shirayuki was caught and flagged by Shirayuki's own
+receiving inspectors over the subnet's own line before the batch had even fully left Sinheung's own loading
+dock — the correction made on the spot rather than after a return shipment.
+
+The identical category of defect, discovered in a batch already delivered to Dome Fuji, required a formal
+written complaint and a matching written response before any correction could even be proposed — a process
+stretching what Shirayuki resolved in an afternoon into the better part of a season.
+
+### The Schematic Byrd Waited on and the Schematic Mirny Never Had To
+
+A component schematic requested by Mirny's own Guildhall was transmitted over the subnet's own line and
+implemented the same day — no physical copy necessary, the digital version sufficient on its own.
+
+Byrd, requesting a comparable schematic, had no such option — the drawing itself had to travel by truck along
+Byrd's single overland corridor, arriving weeks later, since nothing about Sinheung's own manufacturing
+precision changed how far a physical document had to travel to reach a city with no faster line available to
+it.
+
+### The Standing Order Troll Coordinated a Full Season in Advance
+
+A recurring parts order routed through Troll's own freight network had to be finalized well ahead of time,
+with no ability to adjust once submitted — Sinheung's own production schedule for that particular order fixed
+the moment the mail carrying it arrived, since no faster channel existed to revise it afterward.
+
+The equivalent order placed by Zhongshan, adjustable at will over the subnet's own line right up until
+production began, never suffered the same rigidity — proof, to Sinheung's own floor managers, that even the
+city's own considerable manufacturing reach couldn't outrun the postal system once a subnet boundary was
+involved.
+
+### The Chamber Question Denison Answered a Full Season After Zhongshan Did
+
+A technical chamber-tolerance question sent to Denison, hoping to compare Sinheung's own methods against
+Denison's extreme-conditions engineering standards, received a considered answer only after a full season had
+passed — each round of clarification requiring its own separate letter.
+
+The identical category of question, put to Zhongshan over the subnet's own line the same week, was settled in
+a single sitting — the same underlying question, answered at two entirely different speeds purely as a
+function of distance.
+
+### The City Whose Manufacturing Reach Outran Its Own Ability to Explain It Quickly
+
+Sinheung's own unusually wide cross-subnet manufacturing reach — supplying components to cities as far-flung
+as Byrd, Neumayer, Troll, and Dome Fuji — meant the city's own literal chamber-manufacturing identity was
+known nationally well before the Tower existed to speed up how that identity actually got explained.
+
+Sinheung's own production office, per a surviving internal memo, found this a source of some frustration —
+the city's own reach was already national in scope, but the conversation supporting that reach still moved at
+whatever speed the mail, or a truck along a single overland corridor, allowed.
