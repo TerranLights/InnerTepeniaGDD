@@ -66,7 +66,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Troll | 36 | 36 | **Complete** |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
 | Sanay | 36 | 36 | **Complete** |
-| Princess Elisabeth | 30 | 30 | **Complete** |
+| Princess Elisabeth | 36 | 36 | **Complete** |
 | Lazar | 30 | 30 | **Complete** |
 
 ### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)

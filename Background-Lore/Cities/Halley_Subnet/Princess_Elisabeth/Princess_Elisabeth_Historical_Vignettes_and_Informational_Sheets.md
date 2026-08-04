@@ -26,7 +26,12 @@ ever had reason to use, while its most meaningful relationships lay past a bound
 per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
 distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Princess Elisabeth = Uranus/Anomaly +
 Electricity/self-generated power) as a thematic undertone. Target 30, 30 done as of this batch — Princess
-Elisabeth's own full target is now complete.**
+Elisabeth's own full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own
+pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Princess Elisabeth's own symbol pair — leaning again on the same organizing
+asymmetry: readier digital reach to its own subnet than it ever had cause to use, while every relationship
+that actually mattered sat past a boundary only trucking, post, or travel could cross. Target effectively 36,
+36 done as of this batch.**
 
 ---
 
@@ -525,3 +530,70 @@ specifically to understand a system that didn't resemble their own in any straig
 Princess Elisabeth's own approach was better, necessarily, but because it was different enough that no
 existing framework quite explained it. The station's own quiet self-sufficiency had, without anyone deciding
 it should, become the one genuinely singular engineering identity in the country.
+
+---
+
+## Batch 6 — A Boundary No Cable Ever Crossed
+
+### The Load Curve Sayowa Waited a Season to See
+
+A detailed power-generation load curve, requested by Sayowa's own logistics planners hoping to model Princess
+Elisabeth's self-sufficient output against their own dispatch scheduling, took most of a season to arrive in
+full — Princess Elisabeth's engineers compiling the figures by hand for the mail, since no faster channel
+existed to send anything more than a rough summary in advance.
+
+Sayowa's own planners, per a surviving note, worked from the rough summary in the meantime rather than wait —
+an imperfect substitute that shaped an entire season's worth of scheduling decisions before the real figures
+ever caught up to correct them.
+
+### The Technician Who Trained in Person or Not at All
+
+A specialized maintenance technique specific to Princess Elisabeth's own self-generated power system couldn't
+be adequately taught by letter — the underlying station sent an engineer to train a Dome Fuji counterpart in
+person, a multi-week round trip undertaken because no diagram or written description had proven sufficient on
+its own in an earlier, failed attempt by mail.
+
+The in-person training succeeded where the correspondence hadn't, but at a cost measured in weeks rather than
+the afternoon such an exchange would have taken had any faster line existed between the two isolated stations.
+
+### The Design Shirayuki Improved Without Princess Elisabeth Knowing For Months
+
+A structural detail from one of Princess Elisabeth's own published engineering reports was independently
+adapted by a Shirayuki architect for an unrelated project — Shirayuki's own improvement on the idea traveling
+back to Princess Elisabeth only by chance, carried by a traveler who happened to have seen both versions.
+
+Princess Elisabeth's own engineers, learning of the improvement months after Shirayuki had already implemented
+it, incorporated the refinement into their own subsequent work — a genuine two-way exchange of ideas that had,
+through no fault of either city, taken the better part of a year to actually complete.
+
+### The Standing Order Sinheung Placed and Could Never Adjust in Time
+
+A recurring equipment order placed with Sinheung's own fabrication chamber operators had to be specified
+months in advance, with no way to revise the order once conditions changed — a shortfall or surplus only
+became apparent once the shipment itself arrived, far too late to correct anything about that particular
+delivery.
+
+Princess Elisabeth's own procurement office, per what's preserved of internal correspondence, treated the
+inflexibility as simply the cost of dealing with any subnet-external supplier — a fixed inefficiency accepted
+because no faster channel existed to do otherwise.
+
+### The Reply From Signy That Crossed Its Own Question in Transit
+
+A follow-up letter to Signy, sent before Princess Elisabeth's engineers had received Signy's own answer to an
+earlier question, ended up crossing that very answer somewhere on the mainland-Peninsula route — both letters
+arriving within days of each other, each addressing a version of the exchange the other side hadn't yet seen.
+
+The resulting confusion, sorted out over yet another full round of correspondence, was recorded afterward less
+as an error than as an ordinary hazard of conducting any detailed technical exchange entirely by letter across
+that particular distance.
+
+### The Halley Subnet Line Princess Elisabeth Genuinely Never Used
+
+Princess Elisabeth sat inside the Halley subnet's own digital reach the entire time — a working line to
+Halley, Sanay, Belgrano, Troll, and Lazar was there for the taking, requiring no infrastructure Princess
+Elisabeth didn't already have. It went almost entirely unused, since none of Princess Elisabeth's own
+established working relationships happened to lie inside the subnet at all.
+
+The asymmetry was noted, dryly, in a later internal review: the fastest channel available to the station was
+also the one it had the least actual reason to use — the cities it corresponded with constantly were,
+without exception, the ones it could only reach the slow way.
