@@ -14,7 +14,10 @@ in a specific city-to-city connection from that file. 18 done as of batch 3. Bat
 instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
 direct digital contact existed only within the Palmer subnet (Sejong, Juan Carlos) and anything reaching
 Mawson, Byrd, or Lazar required trucking, postal service, or physically traveling there. 24 done as of this
-batch (target 50).**
+batch (target 50). Batch 5, per direct developer instruction, returns to post-Tower full connectivity with
+genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Palmer
+City = Earth/an alive oasis amid harshness + Fire/passion and culture) as a thematic undertone. 30 done as of
+this batch (target 50).**
 
 ---
 
@@ -396,3 +399,77 @@ within a single afternoon's exchange. The Mawson half took most of the preceding
 crossing back and forth until both sides finally agreed on shared scheduling. Palmer City's own planners, per
 what's remembered of the process, had long since stopped finding the disparity strange — it was simply how
 business worked, fast inside the subnet and slow the moment it left.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Tourism Data Sejong Finally Shared in Full
+
+Following years of routine gateway coordination, Sejong's own Border Authority extended Palmer City's tourism
+office something new — standing access to its own visitor-flow data, rather than answering individual
+questions case by case as they came up. Palmer City's own planners could, for the first time, see incoming
+Upper Earth visitor trends before those visitors ever actually arrived.
+
+The change let Palmer City's own hospitality sector adjust staffing and programming a full season ahead of
+demand for the first time in its own history, per what's preserved of the record — a level of forecasting
+precision the city's own tourism economy had simply never had access to before the two offices' relationship
+matured from case-by-case cooperation into standing shared infrastructure.
+
+### The Archive Request That Finally Explained an Old Palmer City Rumor
+
+A long-standing, never-confirmed local rumor about a founding-era figure's own disputed role in Palmer City's
+earliest years was finally settled once a Palmer City historian searched Juan Carlos's own formal Federation
+archive directly — finding documentation that had sat, uncontroversial and simply unconsulted, for
+generations.
+
+The historian's own account, per what's preserved of the record, described the discovery as almost
+anticlimactic — the actual answer had been available the entire time, just never reachable by anyone in
+Palmer City who had reason to look for it before direct archive access existed.
+
+### The Reciprocal Consultation Mawson Never Expected to Give
+
+Following years of one-directional hospitality consultation from Mawson to Palmer City, Mawson's own
+administrators reached out for the first time with a question of their own — curious how Palmer City's own
+entertainment-driven tourism economy handled a specific guest-retention problem Mawson's own honeymoon
+industry was quietly struggling with.
+
+Palmer City's own hospitality office answered in detail, per what's preserved of the exchange — the first
+time the consultation relationship between the two cities had run in both directions, closing what had
+previously been an entirely one-sided flow of expertise from the smaller, quieter hospitality city toward the
+larger, louder one.
+
+### The Byrd Family Whose Reunion Became an Annual Thing
+
+Following the first Byrd delegation's own emotional visit to Palmer City tracing redistribution-era family
+connections, a second family confirmed a comparable link the following year — and by the third year, what had
+begun as a singular occasion had become something closer to a standing, if informal, annual visit tradition
+between specific Byrd and Palmer City families.
+
+Palmer City's own civic archivists, per what's preserved of the record, began keeping loose track of which
+redistribution-era families had reconnected and which hadn't — an informal project that grew directly out of
+watching one emotional reunion become, unexpectedly, a repeatable pattern rather than a singular event.
+
+### The Petrograd Room Specifications Lazar Actually Received
+
+Following Palmer City's own earlier design borrowing from secondhand descriptions of Lazar's own commercial
+architecture, Lazar's own architects requested the Petrograd Room's actual specifications in return — the
+first time either city's own commercial design work had been formally documented and shared as a technical
+reference rather than passed along as travelers' impressions.
+
+Palmer City's own designers, per what's preserved of the exchange, found the request slightly surreal — a
+room originally built from a secondhand description of Lazar's own commercial district was now, itself, being
+requested as a reference by architects in the very city that had unknowingly inspired it.
+
+### The Night Palmer City's Own Broadcasts Reached Every City at Once
+
+A specific live broadcast from one of Palmer City's own entertainment venues, carried nationally for the first
+time over the completed relay rather than only reaching Palmer subnet audiences, drew listeners from every
+subnet in the country simultaneously — the first time any single Palmer City cultural event had a genuinely
+national audience in real time.
+
+Palmer City's own venue staff, per what's preserved of the account, had no way to know in advance how large
+the audience actually was until afterward — reports of the broadcast being heard arrived from cities whose
+own residents Palmer City had never previously had any reason to think of as an audience at all. The city
+that had always been alive locally discovered, that night, it had been heard nationally the whole time it
+simply hadn't had the means to know it.
