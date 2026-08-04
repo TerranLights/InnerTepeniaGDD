@@ -12,7 +12,11 @@ connectivity existed, each grounded in a specific city-to-city connection from t
 batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
 pre-Tower communication structure, where direct digital contact existed only within the Palmer subnet (Signy)
 and anything reaching Mirny, Byrd, or Denison required trucking, postal service, or physically traveling
-there. 24 done as of this batch.**
+there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower full
+connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Rothera = Earth/reliable-decentralized-output; own planet still an open question — see
+The Asteroid Belt candidate, `to-be-integrated/city-symbol-pairs.md`) as a thematic undertone. 30 done as of
+this batch — Rothera's own full target is now complete.**
 
 ---
 
@@ -397,3 +401,78 @@ The shipment itself, once it left Rothera bound for Mirny's own subnet, then spe
 transit with no way for either planning city to confirm its progress — the same instant coordination that had
 assembled the order in hours giving way, the moment it crossed the subnet boundary, to the same unaccountable
 silence every subnet-external shipment traveled through regardless of how quickly it had been arranged.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Apprentice Exchange That Became a Standing Program
+
+Following the first Mirny-Rothera apprentice exchange, enough further apprentices rotated between the two
+Guildhalls over subsequent seasons that what had begun as a single arrangement became a genuinely standing
+program — the first cross-subnet industrial training relationship in the country formalized specifically
+because instant coordination made scheduling it repeatedly practical rather than exceptional.
+
+Both cities' own Guildhalls, per what's preserved of the record, began treating a rotation through the other's
+own facility as a normal, expected stage of advanced training rather than a special opportunity — a genuine
+shift in how an entire trade was taught, made possible by nothing more dramatic than being able to schedule it
+easily.
+
+### The Vault Records Byrd Finally Got to Compare Directly
+
+Following the earlier request for Rothera's own underground vault records, Byrd's own engineers returned with
+a specific technical comparison — laying their own vault specifications directly alongside Rothera's for the
+first time, rather than working from Rothera's own documentation alone.
+
+The comparison, per what's preserved of the exchange, revealed genuine structural differences neither city had
+previously understood clearly — Rothera's own vaults built for materials storage, Byrd's for habitation,
+solving superficially similar underground-construction problems with meaningfully different priorities. Both
+cities came away with a sharper understanding of their own design choices, gained specifically by finally
+seeing the other's real specifications rather than a secondhand account of them.
+
+### The Wind-Engineering Comparison Denison Finished in a Single Season
+
+Building on the earlier cross-subnet comparison between Rothera's decentralized layout and Denison's fully
+interlinked structure, the two cities' own engineers completed a considerably more rigorous version of the
+same study — comparing a full season's worth of live structural-stress data in real time rather than the
+slow exchange of finished conclusions the original comparison had relied on.
+
+The completed study, per what's preserved of the record, confirmed both approaches solved the underlying
+katabatic-wind problem about equally well under most conditions, with each design showing a distinct advantage
+in different specific wind patterns — a genuinely useful engineering conclusion neither city's own isolated
+data could have supported on its own.
+
+### The Survival Comparison Signy Finally Got to See in Person
+
+Following the earlier subnet-internal comparative study between the two Palmer subnet cities that survived
+the Long Night War intact, Signy's own engineers made an in-person visit to Rothera for the first time —
+arranged easily now that scheduling required nothing more than a single conversation.
+
+The visit, per what's preserved of the account, confirmed most of what the earlier data-based comparison had
+already concluded, but surfaced a handful of physical details neither city's own written reports had thought
+to mention — the kind of small, concrete difference that only becomes visible once someone actually walks the
+site rather than reading about it.
+
+### The Decentralized Design Cited Nationally for the First Time
+
+Once national infrastructure planning could genuinely compare design approaches across the whole country in
+real time, Rothera's own decentralized industrial layout — the design that had let it survive the war intact
+— became a specific, named reference point in planning discussions well beyond its own subnet, cited directly
+rather than known only vaguely as "how Rothera does it."
+
+Several cities' own civic planners, per what's preserved of the period, requested Rothera's own design
+rationale directly for projects that had nothing to do with the Palmer subnet at all — the first time the
+city's own founding-era industrial philosophy had been treated, nationally, as a genuine model rather than
+simply a locally successful choice.
+
+### The Quarry Report That Finally Matched Mirny's Own Numbers
+
+A long-standing discrepancy between Rothera's own reported output figures and Mirny's own comparable data —
+never serious enough to investigate, but never quite resolved either — was finally traced and corrected once
+both cities' own logistics offices could review the underlying records together in a single working session.
+
+The discrepancy, per what's preserved of the resolution, turned out to be a measurement-convention difference
+dating back generations, neither city's own fault, simply never worth the effort of reconciling before direct
+comparison made it easy. Both cities' own historical figures were quietly corrected afterward — a small,
+unglamorous fix that nonetheless closed a gap in the record neither city had ever had reason to expect would
+actually get resolved.
