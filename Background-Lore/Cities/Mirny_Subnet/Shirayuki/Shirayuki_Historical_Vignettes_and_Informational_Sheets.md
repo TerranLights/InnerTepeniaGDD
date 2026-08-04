@@ -16,7 +16,11 @@ from that file (Sayowa, Princess Elisabeth, Zhongshan, Sinheung) distinct from b
 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on
 the actual pre-Tower communication structure, where direct digital contact existed only within the Mirny
 subnet (Zhongshan, Sinheung) and anything reaching Sayowa or Princess Elisabeth required trucking, postal
-service, or physically traveling there. 24 done as of this batch.**
+service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
+returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Shirayuki = Uranus/a-place-people-move-to-for-its-difference
++ Fire/warm-generative-creativity) as a thematic undertone. 30 done as of this batch — Shirayuki's own full
+target is now complete, completing the Mirny subnet's batch 5 pass.**
 
 ---
 
@@ -382,3 +386,72 @@ The shipment reached its Mirny subnet destination within days. The letter to Pri
 morning, took most of a season to receive any reply at all — two pieces of correspondence, sent from the same
 office on the same day, arriving at their destinations at completely different speeds depending on nothing
 more than which side of the subnet boundary each was addressed to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Institutional Comparison Sayowa Finally Finished Properly
+
+Following the earlier comparative study drafted over two winters of correspondence, Shirayuki's and Sayowa's
+own historians used the newly instant connection to revise and finish the study together — resolving several
+open questions the original letter-based project had simply run out of patience to fully settle.
+
+The completed comparison, per what's preserved of its own history, became the definitive account of the two
+cities' shared Japanese-institutional heritage — the actual conclusion to a project that had begun years
+earlier and only now, with both historians able to work on a shared draft directly, reached a form neither
+considered unfinished.
+
+### The Second Mural Princess Elisabeth Actually Requested
+
+Following the unrequested mural Shirayuki's own art community sent as thanks for a recipe, Princess Elisabeth
+asked for a second piece directly this time — the first time the relationship had produced a formal
+commission rather than a spontaneous gift, closing the loop from unprompted gesture to genuine ongoing
+artistic exchange.
+
+Shirayuki's own artists, per what's preserved of the commission, treated the request as a meaningful shift —
+proof the original gift had actually mattered to its recipient, rather than simply being received politely
+and set aside.
+
+### The Gallery Design Zhongshan Sent Back, Improved
+
+Following Shirayuki's own original borrowing from Zhongshan's architectural sensibility, Zhongshan's own
+designers returned with an improved version of the same design element, adapted for a project of their own and
+offered back to Shirayuki as a genuine two-way exchange rather than the original one-directional borrowing.
+
+Shirayuki's own designers, per what's preserved of the exchange, incorporated the improvement into their own
+next project — the design element having traveled from Shirayuki to Zhongshan and back again, each city
+improving on what the other had first offered.
+
+### The Ashiato Material Question That Led to an Actual Shipment
+
+Following Sinheung's original question about Shirayuki's own Ashiato building material, a considerably more
+practical follow-up arrived once Sinheung's own construction team decided to actually use a version of the
+material — requesting a genuine technical consultation, then a sample shipment, rather than simply satisfying
+curiosity.
+
+Shirayuki's own material specialists, per what's preserved of the exchange, guided the adaptation directly —
+the first time the material Sinheung had once only asked about out of curiosity had actually left Shirayuki
+and been put to use somewhere else in the country.
+
+### The Glacier-Pop Fan Base That Finally Heard From the Band Itself
+
+Following the earlier discovery of unexpected Sayowa fandom for Shirayuki's own Glacier-pop scene, one of the
+actual musicians involved reached out directly to the fans for the first time — a small, informal gesture that
+the old system's own indirect civic-infrastructure discovery channel had never made possible.
+
+The exchange, per what's preserved of the account, was modest — a few messages, an informal thanks for the
+unexpected appreciation — but it marked the first time a Shirayuki performer had spoken directly with an
+audience the city itself hadn't known existed before the original discovery.
+
+### The Diplomatic-Founding Comparison That Became a National Case Study
+
+Following the original comparison between Shirayuki's diplomatically-engineered founding and Princess
+Elisabeth's more conventional one, the exchange was formalized into a written case study once several other
+cities, curious about their own comparable founding questions, asked to see the original comparison directly.
+
+Shirayuki's own historians, per what's preserved of the period, found themselves fielding requests from cities
+with no prior relationship to either Shirayuki or Princess Elisabeth at all — the specific comparison the two
+cities had worked out for their own curiosity having become, once shared nationally, a genuinely useful
+reference for other cities working through comparable founding-character questions of their own. **Completes
+the Mirny subnet's batch 5 pass.**

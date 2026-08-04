@@ -85,8 +85,8 @@ three existing per-city folders but tracked as one combined regional total below
 | Vostok | 30 | 30 | **Complete** |
 | Zhongshan *(Tri-Cities)* | 30 | — | **Complete** |
 | Sinheung *(Tri-Cities)* | 30 | — | **Complete** |
-| Shirayuki *(Tri-Cities)* | 24 | — | In progress |
-| **Tri-Cities combined** | **72** | **75** | **In progress** |
+| Shirayuki *(Tri-Cities)* | 30 | — | **Complete** |
+| **Tri-Cities combined** | **90** | **75** | **Exceeded — see note** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
@@ -138,8 +138,15 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 906** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 192 + Janbogo subnet 168 +
+50 + 30). **Current: 954** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 168 +
 Mawson subnet 72 + Byrd 30 + Amundsen-Scott Station 12).
+
+**2026-08-06 — Mirny subnet batch 5 complete — all 8 cities now at their full 30/30 target.** Mirny, Casey,
+Davis, Kunlun, Vostok, Zhongshan, Sinheung, and Shirayuki all completed batch 5. **Tri-Cities combined total
+note:** the original 75-entry combined target predates each individual Tri-Cities city later being tracked
+against the same standard 30-entry target as every other Mirny subnet city — all three hitting 30/30
+individually puts the combined total at 90, exceeding the older combined figure. Not a problem, just a stale
+target left over from before the per-city tracking was standardized; the 90 stands as the real total.
 
 **2026-08-06 — Palmer subnet batch 5 complete — all 8 cities now at their full target** (Palmer City 30/50,
 the other 7 all 30/30). Palmer City, Esperanza, Rothera, Marambio, Port Lockroy, Sejong, Signy, and Juan
