@@ -59,7 +59,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
 | Sanay | 24 | 30 | In progress |
 | Princess Elisabeth | 24 | 30 | In progress |
-| Lazar | 18 | 30 | In progress |
+| Lazar | 24 | 30 | In progress |
 
 ### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)
 
@@ -125,8 +125,15 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 612** (Halley subnet 132 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
+50 + 30). **Current: 654** (Halley subnet 174 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
 Mawson subnet 54 + Byrd 24 + Amundsen-Scott Station 12).
+
+**2026-08-03 — Halley subnet batch 4 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
+Elisabeth, and Lazar all completed batch 4 (subnet-bounded digital communication vs. cross-subnet traditional
+means, per `City_National_Connections.md`) — all now 24/30. Abowasa stays paused at 6/30. Halley and Sanay's
+own established connections are almost entirely intra-subnet (near-total cross-subnet isolation); Princess
+Elisabeth's are the inverse (almost entirely cross-subnet, near-total isolation from its own subnet
+neighbors) — both used as genuine character points rather than smoothed over.
 
 **2026-08-03 — Batch 4 framing, developer-directed: subnet-bounded digital communication vs. cross-subnet
 traditional means.** Every city's batch 4 gets exactly 6 new entries set anywhere in the pre-Tower Second

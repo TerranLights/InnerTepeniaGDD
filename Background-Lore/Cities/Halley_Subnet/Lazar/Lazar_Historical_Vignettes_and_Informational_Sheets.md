@@ -10,7 +10,11 @@ Amundsen Tower's own completion: 3 entries shortly before completion, 3 shortly 
 developer instruction, is framed around `City_National_Connections.md`: six occurrences that could only have
 happened once full national digital connectivity existed, each grounded in a specific named city-to-city
 connection from that file (Fort McMurdo, Palmer City, Sejong, Abowasa, Neumayer) rather than the generic
-trade-surge already covered in batch 2's own Junction Markets entry. Target 30, 18 done as of this batch.**
+trade-surge already covered in batch 2's own Junction Markets entry. Target 30, 18 done as of this batch.
+Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Halley subnet (Abowasa,
+Neumayer) and anything reaching Fort McMurdo, Palmer City, or Sejong required trucking, postal service, or
+physically traveling there. Target 30, 24 done as of this batch.**
 
 ---
 
@@ -342,3 +346,83 @@ function. Lazar's own administrators, per what's preserved of the visit, answere
 same practical way the city handled most inquiries — genuinely useful cross-city knowledge transfer that had
 simply never had an occasion to happen before a delegation could show up on short notice rather than after
 months of advance correspondence.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Ledger Neumayer Could Check While the Question Was Still Being Asked
+
+Lazar's own Junction Markets ran on freight arriving through Neumayer's own logistics corridor — a relationship
+close enough, once digital contact existed within the Halley subnet, that a pricing or availability question
+raised at one end could be answered from the other before the merchant asking it had finished the sentence.
+
+A specific commercial dispute, per what's preserved of the incident, was resolved the same afternoon it arose
+once a Junction Markets vendor's own claim about a delayed shipment could be checked directly against
+Neumayer's own dispatch records — a level of verification Lazar's own commercial court, used to arbitrating
+disputes on testimony alone, treated as a genuine improvement in how quickly a disagreement over facts could
+simply be settled by checking them.
+
+### What Abowasa's Founding Council Actually Told Lazar's Planners
+
+Lazar's own coalescence from two separate founding settlements and Abowasa's own live, day-to-day negotiation
+between two founding populations were different enough in kind that Lazar's own civic planners, curious
+whether Abowasa's own governance lessons applied to Lazar's situation at all, could simply ask directly over
+the subnet's instant line rather than guess.
+
+The exchange that followed, per what's preserved of the record, concluded the two situations weren't as
+comparable as they'd first appeared — Lazar's own merger had been demographic and largely settled by the time
+most residents arrived, while Abowasa's coexistence remained a living, ongoing negotiation. Reaching that
+conclusion took a single afternoon's conversation rather than months of correspondence, since nothing stood
+between the two cities but the ordinary business of asking.
+
+### The Capital's Silence Lazar Learned to Read as Routine
+
+Correspondence between Lazar and Fort McMurdo — the country's two biggest civic hubs, a natural point of
+comparison neither city's own residents needed prompting to notice — moved at the pace of mail crossing from
+the Halley subnet into the Janbogo subnet, since nothing digital linked the two capitals of civic scale to
+each other at all.
+
+A specific trade proposal Lazar's own commercial planners sent to Fort McMurdo, per what's preserved of the
+exchange, went unanswered for so long that Lazar's own office had assumed rejection by silence — the ordinary
+working assumption for any subnet-external inquiry that took long enough. The reply, when it eventually
+arrived, turned out to be genuinely favorable, delayed by nothing more than the same slow route every letter
+between the two cities traveled.
+
+### The Casino That Heard About Palmer City Before It Ever Saw It
+
+Lazar's own maglev-and-holographic commercial density and Palmer City's own entertainment-and-casino economy
+were compared often enough, once travelers who'd visited both described the resemblance, that each city
+developed something like a secondhand reputation for the other long before any direct contact existed between
+them.
+
+A specific Lazar entrepreneur, planning an entertainment venue explicitly modeled on descriptions of Palmer
+City's own commercial districts, worked entirely from travelers' secondhand accounts and whatever correspondence
+she could exchange across the months such letters took to cross from the Halley subnet into the Palmer subnet
+and back. The venue she eventually built resembled its inspiration closely enough that a Palmer City visitor,
+years later, recognized the resemblance immediately — confirmation, long after the fact, that the secondhand
+description had been more accurate than its author had any way to verify at the time.
+
+### The Governance Question Sejong Answered a Season Late
+
+Sejong's own multinational-coexistence founding and Lazar's own coalescence from two settlements prompted a
+specific written exchange between the two cities' own civic historians, each curious how the other had
+actually managed a comparable-sounding founding problem — correspondence that, crossing from the Halley subnet
+into the Palmer subnet, took a full season to complete a single round.
+
+Lazar's own historian, per what's preserved of the exchange, had largely finished her own comparative analysis
+using assumptions about Sejong's own situation by the time Sejong's actual reply corrected several of them —
+a research process built, out of necessity, on educated guesses that a single real-time conversation would
+have made unnecessary from the start.
+
+### The Delegation Neumayer Helped Pack For
+
+A formal Lazar delegation bound for Fort McMurdo, carrying documents and samples too sensitive to entrust to
+ordinary post, was assembled with logistics support coordinated in real time over the subnet's instant line to
+Neumayer — packing specifications, transport scheduling, and departure timing all settled within a single
+exchange before the delegation ever left Lazar.
+
+The delegation itself then traveled the entire distance to Fort McMurdo overland, a journey of days rather
+than the instant conversation its own preparation had taken — the fastest planning phase either city's records
+show for a subnet-external delegation, followed immediately by the same unavoidable travel time every trip
+outside the Halley subnet required regardless of how efficiently it had been arranged.
