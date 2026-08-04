@@ -16,7 +16,10 @@ there. 24 done as of this batch. Batch 5, per direct developer instruction, retu
 connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Rothera = Earth/reliable-decentralized-output; own planet still an open question — see
 The Asteroid Belt candidate, `to-be-integrated/city-symbol-pairs.md`) as a thematic undertone. 30 done as of
-this batch — Rothera's own full target is now complete.**
+this batch — Rothera's own full target complete. Batch 6, per direct developer instruction, returns to
+Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4
+and each other, now also cross-referenced against Rothera's own Earth element (planet still TBD). 36 done as
+of this batch.**
 
 ---
 
@@ -476,3 +479,69 @@ dating back generations, neither city's own fault, simply never worth the effort
 comparison made it easy. Both cities' own historical figures were quietly corrected afterward — a small,
 unglamorous fix that nonetheless closed a gap in the record neither city had ever had reason to expect would
 actually get resolved.
+
+---
+
+## Batch 6 — Output Spread Wide, Word Traveling Narrow
+
+### The Site Adjustment Signy Confirmed Before the Shift Ended
+
+A production adjustment across one of Rothera's decentralized industrial sites, prompted by a supply request
+from Signy, was confirmed and implemented over the subnet's own instant line within the same working shift —
+Signy's own planners able to revise the request twice more that same day as their own needs shifted.
+
+The same category of request from a subnet-external buyer, once received by mail, was treated as fixed once
+confirmed — Rothera's own site managers had no practical way to accommodate a follow-up revision without
+losing more time to the mail cycle than the original delay had cost.
+
+### The Second Site Byrd Never Learned Existed Until It Mattered
+
+Rothera's own deliberately distributed site network meant that when one location fell behind schedule, the
+subnet's own instant line let Signy and other Palmer subnet buyers redirect to a different site without
+missing a beat — decentralization functioning exactly as designed, invisibly, within the subnet.
+
+Byrd, ordering the same category of output from what it understood to be a single site, had no visibility
+into the substitution at all — from Byrd's own end of a slow postal correspondence, the order simply arrived,
+with no indication that an entirely different location on Adelaide Island had actually filled it.
+
+### The Wind Data Denison Waited Two Seasons to Receive in Full
+
+A structural wind-load dataset requested by Denison, hoping to compare notes with Rothera's own
+extreme-conditions engineering, arrived only in partial form at first — the complete dataset following nearly
+two seasons later once Rothera's own engineers had finished compiling a version detailed enough to be useful
+without the shared context a subnet-mate would have already had.
+
+Signy, requesting a related but narrower dataset over the subnet's own line, received the complete figures the
+same week — no partial version necessary, since both cities already understood exactly which context could
+safely be assumed.
+
+### The Apprentice Who Learned Rothera's Layout Before Setting Foot in It
+
+A Signy apprentice bound for a training rotation across Rothera's own scattered sites received a complete,
+continuously updated map of current site assignments over the subnet's line well before departure — arriving
+already knowing which site to report to and when.
+
+A Mirny apprentice on a comparable exchange had no equivalent advance information — the assignment was
+communicated by the same letter confirming the exchange itself, meaning the apprentice learned exactly where
+to go only upon arrival, adjusting on the spot.
+
+### The Order Mirny Filled From a Catalog Already Out of Date
+
+A quarry-goods order placed with Rothera by a Mirny buyer worked from a printed site-output catalog that had
+already changed by the time the order was placed — Rothera's own actual current capacity, tracked live within
+the subnet, simply hadn't been reflected in whatever version had last physically reached Mirny.
+
+Signy, placing a comparable order the same week over the subnet's own line, saw the current figures directly
+and adjusted the order accordingly — the same underlying capacity, visible to one buyer and invisible to the
+other, purely as a function of which line separated them from Rothera.
+
+### The Decentralization That Only Worked as Fast as the Subnet Allowed
+
+Rothera's entire operating philosophy — spreading output deliberately across many sites so no single failure
+could stop production — depended on fast internal coordination to actually function as designed; within the
+Palmer subnet, that coordination was effectively instantaneous.
+
+Outside the subnet, the same decentralized structure offered none of its own resilience advantage to the buyer
+— a delay at one site, invisible and quickly routed around within the subnet, simply looked to a
+subnet-external client like an ordinary delay, the redundancy behind it entirely hidden by how slowly word of
+it could travel.
