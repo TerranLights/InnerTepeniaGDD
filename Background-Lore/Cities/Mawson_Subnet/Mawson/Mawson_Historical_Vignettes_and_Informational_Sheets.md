@@ -19,7 +19,9 @@ service, or physically traveling there. 24 done as of this batch. Batch 5, per d
 returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
 cross-referenced against `city-symbol-pairs.md` (Mawson = Earth/a-warm-generative-resort-town +
 Fire/romance-and-new-beginnings) as a thematic undertone. 30 done as of this batch — Mawson's own full target
-is now complete.**
+complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower framing with
+genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced against
+Mawson's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -445,3 +447,69 @@ Mawson's own administrators, per what's preserved of the project, found real val
 always simply been done by feel — the comparison with Janbogo forcing Mawson's own hospitality culture to
 explain itself precisely for the first time, in a way that made the city's own instincts sharper even for its
 own internal training afterward.
+
+---
+
+## Batch 6 — A Warm Welcome, Fastest Close to Home
+
+### The Booking Sayowa Adjusted Before the Couple Even Noticed
+
+A honeymoon booking complication, caught by Sayowa's own dispatch office while coordinating an unrelated
+delivery, was quietly resolved over the subnet's own instant line before the couple involved ever realized
+anything had gone wrong — Mawson's own hospitality staff crediting Sayowa's own attentiveness directly in an
+internal note.
+
+A comparable complication involving a guest traveling from Palmer City had no such invisible fix available —
+the problem, once discovered, had to be resolved on the spot by Mawson's own staff alone, with no time to
+coordinate a subnet-external solution before the guest noticed.
+
+### The Stress Test Dome Fuji Helped Mawson Interpret in Real Time
+
+A resort-infrastructure stress test, run under unexpectedly heavy real traffic, was analyzed jointly with Dome
+Fuji over the subnet's own line as the results came in — Dome Fuji's own extreme-conditions engineering
+perspective helping Mawson's own planners interpret an anomaly neither city had specifically anticipated.
+
+Davis, consulted separately on a related but calmer question, offered a thoughtful written answer that arrived
+well after the original stress test had already concluded — useful for future planning, but too late to shape
+how Mawson's own staff had handled the moment itself.
+
+### The Comparison Palmer City Drew From a Single Traveler's Account
+
+A hospitality-industry comparison Palmer City hoped to draw against Mawson's own honeymoon-focused model
+relied entirely on a single traveler's own secondhand description, since no faster or more direct channel
+existed to actually consult Mawson's own staff about their methods.
+
+Dome Fuji, raising a related comparative question over the subnet's own line, received direct, detailed input
+from Mawson's own hospitality office itself — the same category of question, answered with two very different
+levels of actual authority behind it.
+
+### The Rescue Story Davis Confirmed a Full Season Later
+
+A version of Mawson's own founding-era rescue story, referenced in a Davis publication, was confirmed accurate
+only after a full season's worth of careful written correspondence — Mawson's own archivists taking real care
+to verify details before committing anything to a letter that couldn't easily be corrected afterward.
+
+Sayowa, asking a related question about the same story over the subnet's own line, received a confident,
+immediate answer with room for follow-up questions — the same story, told with two very different levels of
+conversational ease depending on which line carried the request.
+
+### The Import Order Sinheung Couldn't Adjust Once It Shipped
+
+A specialty import order placed with Sinheung for Mawson's own hospitality trade had to be finalized well in
+advance, with no ability to revise it once submitted — any mismatch between the order and Mawson's actual
+seasonal needs simply had to be absorbed once the shipment arrived.
+
+A comparable adjustment made through Dome Fuji's own supply chain, coordinated over the subnet's own line,
+could be revised right up until the last practical moment — the flexibility Mawson and Dome Fuji took for
+granted having no equivalent once Sinheung's own distance was involved.
+
+### The Warmth That Welcomed Guests Quickly and Explained Itself Slowly
+
+Mawson's own generative, romance-centered hospitality culture extended fully to every guest and every
+correspondent, but the speed of that welcome varied considerably: immediate and adaptable within the subnet
+with Sayowa and Dome Fuji, and careful, deliberate, sometimes taking a full season, with Neumayer, Palmer
+City, Davis, Sinheung, and Janbogo.
+
+Mawson's own hospitality administrators, per a surviving internal note, didn't consider the asymmetry any
+kind of shortcoming — a warm welcome, once extended, was equally genuine regardless of distance; only how
+quickly a question about it could be answered actually changed.

@@ -108,11 +108,11 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Scott | 36 | 36 | **Complete** |
 | Denison | 36 | 36 | **Complete** |
 
-### Mawson Subnet (target: 30 each, 90 total)
+### Mawson Subnet (target: 36 each, 108 total)
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Mawson | 30 | 30 | **Complete** |
+| Mawson | 36 | 36 | **Complete** |
 | Dome Fuji | 30 | 30 | **Complete** |
 | Sayowa | 30 | 30 | **Complete** |
 
