@@ -17,7 +17,11 @@ from that file (Neumayer, Denison, Mawson, Belgrano, Sejong/Janbogo, Princess El
 occurrences resting on the actual pre-Tower communication structure, where direct digital contact existed
 only within the Mirny subnet (Zhongshan, Shirayuki, Mirny) and anything reaching Byrd, Neumayer, Troll, Dome
 Fuji, or the rest of Sinheung's unusually wide cross-subnet manufacturing reach required trucking, postal
-service, or physically traveling there. 24 done as of this batch.**
+service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
+returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Sinheung = Uranus/an-outlier-by-its-own-pride +
+Electricity/the-literal-spark-of-animation) as a thematic undertone. 30 done as of this batch — Sinheung's
+own full target is now complete.**
 
 ---
 
@@ -388,3 +392,71 @@ The finished shipment, once it left Sinheung bound for Denison's own historical 
 traveled for weeks with no way for any of the three planning cities to confirm its arrival — the same instant
 coordination that had assembled the order in an hour giving way, the moment it crossed into the Janbogo
 subnet, to the same unaccountable silence every cross-subnet shipment disappeared into.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Chamber Peer Relationship That Finally Ran Both Directions
+
+Sinheung's and Byrd's shared status as the Cradle network's two active chamber manufacturers had always
+placed Sinheung as the more established of the two — but the first genuinely reciprocal exchange came once
+Byrd's own engineers, working in genuine isolation for years, developed a tolerance-checking technique
+Sinheung's own floor had never considered.
+
+Sinheung's own engineers, per what's preserved of the exchange, adopted the technique after confirming it
+worked — the first time either chamber manufacturer had learned something operationally useful from the
+other, rather than the relationship running only from Sinheung's own more established position outward.
+
+### The Second Aviation Route Sinheung Finally Spoke to Directly
+
+Following years of Sinheung's own aviation route to Dome Fuji (via Mawson) operating with no coordination
+against Troll's own parallel route, the two dispatch offices finally spoke directly for the first time —
+confirming the long-suspected overlap in delivery windows and agreeing, at last, to stagger future shipments.
+
+Both offices, per what's preserved of the exchange, treated the coordination as overdue rather than
+remarkable — two logistics chains that had unknowingly duplicated each other's work for a substantial stretch
+of Tepenian history, finally able to simply ask the other what it was doing.
+
+### The Thank-You Dome Fuji Finally Sent After Generations of Silent Deliveries
+
+Dome Fuji's own extremely limited outside connectivity meant Sinheung's own aviation route had, for
+generations, delivered supplies with essentially no acknowledgment beyond the bare fact of receipt — the
+first genuine, personal thank-you message reaching Sinheung only once Dome Fuji's own thin national relay
+access finally permitted something beyond routine logistics confirmation.
+
+Sinheung's own dispatchers, per what's preserved of the account, found the message genuinely moving —
+generations of supply runs conducted with no real sense of who was actually receiving them, finally answered
+by an actual voice from the isolated station on the other end.
+
+### The Comparison Denison Finished Alone, Then Shared
+
+Following the original three-way historical comparison among Sinheung, Denison, and Mirny, Denison's own
+engineers continued the underlying research independently afterward — extending the comparison with additional
+material and sharing the completed, expanded version back with Sinheung once it was finished.
+
+Sinheung's own historians, per what's preserved of the exchange, incorporated Denison's own additional
+findings into their own account of the Cradle network's shared precision-tolerance heritage — the original
+three-way conversation having planted a research thread Denison alone ultimately carried the farthest.
+
+### The Structural Consultation Mirny Gave That Actually Changed a Design
+
+Following years of Mirny's Windwright Guildhall serving as Sinheung's raw-material feeder and informal
+structural consultant, a specific consultation finally produced a genuine design change — Mirny's own
+engineers identifying a load-distribution issue in a Sinheung floor expansion plan before construction began,
+rather than after.
+
+Sinheung's own engineers, per what's preserved of the exchange, revised the expansion plan on Mirny's own
+recommendation — the first time the long-standing consulting relationship had actually altered a Sinheung
+construction decision, rather than simply confirming choices already made.
+
+### The National Pride Other Cities Finally Understood, Even If They Didn't Share It
+
+Once national correspondence made it possible to actually explain rather than simply observe, several
+cities' own civic historians reached out to understand Sinheung's own outsized patriotism directly — curious
+what specifically produced such a strong national identity in a country whose post-national character was, by
+this point, well established everywhere else.
+
+Sinheung's own residents, per what's preserved of the exchanges, answered plainly and without defensiveness —
+the first time the city's own distinctive civic pride had been treated, nationally, as a genuine subject of
+curiosity rather than simply a known local quirk other cities quietly found unusual.

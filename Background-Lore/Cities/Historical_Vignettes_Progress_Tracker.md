@@ -84,7 +84,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Kunlun | 30 | 30 | **Complete** |
 | Vostok | 30 | 30 | **Complete** |
 | Zhongshan *(Tri-Cities)* | 30 | — | **Complete** |
-| Sinheung *(Tri-Cities)* | 24 | — | In progress |
+| Sinheung *(Tri-Cities)* | 30 | — | **Complete** |
 | Shirayuki *(Tri-Cities)* | 24 | — | In progress |
 | **Tri-Cities combined** | **72** | **75** | **In progress** |
 
