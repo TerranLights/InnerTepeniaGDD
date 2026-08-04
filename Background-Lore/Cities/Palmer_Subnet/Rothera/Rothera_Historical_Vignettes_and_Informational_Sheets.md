@@ -9,7 +9,10 @@ Infrastructure_Attributes.md`'s 10 attributes and its Cross-Referenced Extrapola
 done as of that batch. Batch 3, per direct developer instruction, is framed around
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific city-to-city connection from that file. 18 done as of
-batch 3.**
+batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
+pre-Tower communication structure, where direct digital contact existed only within the Palmer subnet (Signy)
+and anything reaching Mirny, Byrd, or Denison required trucking, postal service, or physically traveling
+there. 24 done as of this batch.**
 
 ---
 
@@ -316,3 +319,81 @@ offered without particular ceremony to a city whose own underground industrial s
 relevant. Whether Byrd's own crews actually adopted the method isn't part of what Rothera itself preserved.
 The exchange itself, unprompted and unplanned, was the first time Rothera's own internal maintenance knowledge
 had ever reached another city's workforce directly.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Survival Comparison Signy Could Make Without Leaving Home
+
+Rothera's and Signy's shared status as the two Palmer subnet cities that survived the Long Night War intact
+allowed a specific comparative study — structural resilience, what each city's own founding design had
+gotten right — to be conducted entirely over the subnet's instant line, engineers on both ends trading
+figures and site reports in real time.
+
+The study, per what's preserved of the exchange, took a matter of weeks rather than the year or more a
+comparable cross-subnet engineering exchange would have required — both cities' own records were searchable
+and comparable in the same working session, a level of collaborative speed neither city's own engineers had
+any equivalent experience of when working with anyone outside the Palmer subnet.
+
+### The Quarry Order Mirny Filled Without Ever Meeting the Buyer
+
+Mirny's own structural-twin relationship to Rothera — both cities quarrying and manufacturing what their own
+subnet's highway network depended on — existed for generations entirely on paper, orders and specifications
+crossing from the Palmer subnet into the Mirny subnet by whatever correspondence the two cities' own logistics
+offices maintained.
+
+A specific large equipment order, per what's preserved of the transaction, took the better part of a year from
+initial inquiry to delivered shipment — specifications clarified across several rounds of slow correspondence,
+since no channel existed to simply ask a follow-up question and receive same-day clarification the way Rothera
+could with Signy. The equipment, once it finally arrived, worked exactly as specified. Getting the
+specification right had simply taken far longer than it needed to.
+
+### The Wind-Load Comparison That Took Two Winters to Complete
+
+Denison's own fully-interlinked structural design and Rothera's own decentralized, wind-load-distributed
+layout solved the same katabatic-wind engineering problem from two different philosophies — a comparison
+worth making formally, but one that, crossing from the Palmer subnet into the Janbogo subnet, could only
+proceed at the pace of exchanged letters.
+
+The comparative study, per what's preserved of the correspondence, spanned close to two full winters of
+measurement seasons before either city's own engineers felt they had enough comparable data to draw a real
+conclusion — each round of findings mailed, read, and responded to months later, a research pace that within
+the Palmer subnet, comparing the same kind of data with Signy, would have been settled in a single season.
+
+### The Backup Route Byrd Learned About Third-Hand
+
+Rothera's own decentralized industrial model, cited as a plausible influence on Byrd's own early industrial
+planning, was never something Rothera itself confirmed directly to Byrd — the connection existing instead as
+something Byrd's own historians pieced together from published material that had reached them slowly, through
+however many hands a document crossing two subnets required.
+
+A specific Byrd engineer, researching his own city's founding-era industrial decisions, wrote directly to
+Rothera asking whether the resemblance had been intentional — a question that took months to arrive and
+longer to answer, since nothing digital connected the two cities and Rothera's own archivists had to search
+physical records before replying. The eventual answer confirmed the influence had, in fact, been deliberate.
+
+### The Apprentice Program Only Signy Could Actually Join
+
+Rothera's and Mirny's own industrial-training exchange — apprentices learning quarry methods at one city's
+Guildhall, siting logic at the other's — was, by design, open to workers from either city without needing to
+leave the subnet's own instant line to arrange it.
+
+A Signy apprentice, hearing about the program secondhand and genuinely interested in joining, discovered the
+arrangement was practical only because Signy itself sat within the same Palmer subnet as Rothera — the
+logistics of housing, scheduling, and instructor availability, all coordinated over the subnet's instant line
+in a single planning session, would have taken a season or more to arrange for an apprentice traveling from
+Mirny's own subnet instead. The program remained, in practice, easiest for exactly the cities close enough to
+plan for it in real time.
+
+### The Manifest That Outran Its Own Shipment by Three Weeks
+
+A large joint order from Mirny, requiring Rothera to coordinate packing specifications with Signy's own
+transport division over the subnet's instant line before a single crate moved, was finalized within a single
+afternoon — the fastest planning phase either city's own logistics office had on record for an order of that
+size.
+
+The shipment itself, once it left Rothera bound for Mirny's own subnet, then spent close to three weeks in
+transit with no way for either planning city to confirm its progress — the same instant coordination that had
+assembled the order in hours giving way, the moment it crossed the subnet boundary, to the same unaccountable
+silence every subnet-external shipment traveled through regardless of how quickly it had been arranged.
