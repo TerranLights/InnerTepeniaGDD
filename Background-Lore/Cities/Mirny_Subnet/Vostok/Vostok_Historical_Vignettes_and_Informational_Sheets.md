@@ -18,7 +18,9 @@ Signy required trucking, postal service, or physically traveling there. 24 done 
 per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
 distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Vostok = Pluto/tepenia's-loneliest-
 outpost + Water/depth-and-wisdom) as a thematic undertone. 30 done as of this batch — Vostok's own full
-target is now complete.**
+target complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower framing with
+genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced against
+Vostok's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -465,3 +467,71 @@ Vostok's own researchers, per what's preserved of the account, hadn't expected t
 this long — a single willingness to help, extended without ceremony to a city with no prior technical
 relationship to Vostok at all, had grown into a genuine ongoing collaboration neither side had specifically
 planned for.
+
+---
+
+## Batch 6 — Depth, Reachable Only as Far as the Subnet Ran
+
+### The Sample Kunlun Verified Before Vostok's Own Lab Finished Logging It
+
+A genetics sample cross-check requested from Kunlun was completed and returned over the subnet's own instant
+line before Vostok's own laboratory had finished formally logging the original sample into its own records —
+Kunlun's confirmation effectively arriving ahead of Vostok's own internal paperwork.
+
+Byrd, whose own subglacial lake ecosystem Vostok had transplanted and cultivated, could receive no comparable
+same-day verification on a related question — a request for clarification about the original samples took
+the better part of a season to answer, since nothing about the relationship's own depth changed how far the
+mail had to travel.
+
+### The Curiosity Mirny Satisfied in a Single Sitting
+
+A detailed technical question from Mirny about Vostok's own gene-editing methodology, the kind of inquiry that
+might have taken weeks to properly explain by letter, was worked through in a single extended session over
+the subnet's own line — questions, follow-ups, and clarifications all handled in one sitting rather than
+spread across a slow correspondence.
+
+Signy, curious about a related but narrower question, received a single well-composed written answer by mail
+— thorough, but necessarily final, since there was no practical way to ask a follow-up and receive a reply
+before the original context had gone cold.
+
+### The Cold-Tolerance Finding Kunlun Received Mid-Study
+
+A cold-tolerance research finding, still preliminary and likely to change, was shared with Kunlun over the
+subnet's own line specifically because Kunlun's own researchers wanted to weigh in before Vostok's study had
+concluded — a genuine mid-study collaboration only possible because revisions could travel as fast as new
+data did.
+
+Byrd's own genetics program, working from Vostok's finished, formally published results instead, had no
+opportunity to influence the study's own direction — receiving only the conclusion, with the study's own
+internal evolution invisible to anyone outside the subnet's own reach.
+
+### The Letter That Answered a Question Vostok Had Already Forgotten Asking
+
+A power-systems consultation initiated with a letter to a subnet-external contact took long enough to receive
+a reply that Vostok's own engineers had, per the surviving correspondence, largely moved on to a different
+approach by the time the answer finally arrived — the reply itself useful, but overtaken by events.
+
+The same category of question, raised separately with Mirny over the subnet's own line, was answered quickly
+enough to actually shape the approach Vostok ultimately took — a difference that had nothing to do with either
+contact's own competence and everything to do with which line carried the question.
+
+### The Expedition That Still Had to Carry What No Line Could Send
+
+Vostok's own genetics program, whenever it needed physical samples or specimens moved to or from a
+subnet-external city, still depended entirely on physical expeditions — the underlying material itself simply
+couldn't be described or transmitted, no matter how fast the surrounding correspondence moved.
+
+Within the subnet, by contrast, Vostok's own researchers could coordinate an equivalent transfer with Kunlun
+or Mirny over the line first, minimizing the actual physical handling to only what was strictly necessary —
+the expedition-scale effort reserved specifically for crossing the subnet boundary.
+
+### The Loneliest Outpost, Less Lonely to Its Own Subnet-Mates
+
+Vostok's own established isolation — "Tepenia's other loneliest outpost" — was, within the Mirny subnet
+itself, considerably less absolute than the description implied: Kunlun and Mirny both had genuine, frequent,
+low-friction contact with Vostok's own researchers, a closeness the isolation label didn't quite capture.
+
+Byrd and Signy experienced the same city very differently — genuinely distant, genuinely slow to reach,
+exactly as isolated as Vostok's own reputation suggested. Vostok's own researchers, per a surviving note,
+found this split fitting: the city was lonely, but only for some of the country, and which half depended
+entirely on the subnet line.
