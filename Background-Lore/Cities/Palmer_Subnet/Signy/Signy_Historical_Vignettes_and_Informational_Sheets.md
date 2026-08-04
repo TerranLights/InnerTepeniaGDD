@@ -15,7 +15,10 @@ and distinct from batch 2's own "Delegation That Came to Study the Turbines" ent
 Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
 communication structure, where direct digital contact existed only within the Palmer subnet (Rothera) and
 anything reaching Kunlun, Vostok, Princess Elisabeth, or Scott required trucking, postal service, or
-physically traveling there. 24 done as of this batch.**
+physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
+post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Signy = Mercury/careful-endurance-at-the-margins + Water/quiet-self-sufficiency) as a
+thematic undertone. 30 done as of this batch — Signy's own full target is now complete.**
 
 ---
 
@@ -381,3 +384,72 @@ the full order, took the opposite path entirely — a written request, an uncert
 arrived weeks later with no advance notice of its own departure. Signy's own logistics office, per what's
 remembered of the period, simply planned around both timelines as a matter of course: fast from inside the
 subnet, slow from anywhere else.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Component Order That Finally Moved as Fast as Rothera's Own
+
+Following the earlier contrast between Rothera's same-day procurement and Kunlun's slow, uncertain shipment,
+a repeat order to Kunlun — placed once the relay existed — arrived confirmed and tracked from the moment it
+shipped, closing the gap between the two supply relationships almost entirely.
+
+Signy's own logistics office, per what's preserved of the record, noted the change without much ceremony —
+the same kind of quiet, practical adjustment the city applied to everything else, simply absorbing a genuine
+improvement into its own routine rather than treating it as remarkable.
+
+### The Cold-Tolerance Data Vostok Sent Without Being Asked Twice
+
+Following the original wind-data request to Vostok, a second, considerably more detailed data set arrived
+unprompted once Vostok's own researchers, continuing to study an unrelated cold-adaptation question, realized
+a byproduct of their own ongoing work might be useful to Signy's own engineers.
+
+Signy's own team, per what's preserved of the exchange, hadn't specifically asked for the follow-up data and
+said so plainly in their own reply — Vostok's own researchers, per what's remembered of the response, simply
+noted that sharing it cost them nothing now that the channel existed, the same quiet generosity the original
+consultation had shown in a different form.
+
+### The Reliability Document Princess Elisabeth Finally Finished, With Signy's Help
+
+Building on the multi-year correspondence and the jointly authored reliability standard already reached with
+Princess Elisabeth, Signy's own engineers contributed a final revision round the original document had left
+incomplete — closing gaps the older, letter-based project had simply run out of patience to fully resolve.
+
+The completed document, per what's preserved of its own history, became a genuine shared technical reference
+both cities' own engineering staff cited afterward — the actual conclusion to a correspondence that had begun
+years earlier and, until the relay existed, had never quite managed to finish itself properly.
+
+### The Second Visit Rothera's Engineers Made, This Time Bringing Their Own Data
+
+Following the in-person visit that confirmed the earlier data-based survival comparison, Rothera's own
+engineers returned a second time — this time bringing a full season's worth of new structural data collected
+specifically for a joint follow-up study, rather than simply reviewing what already existed.
+
+The second study, per what's preserved of its own record, extended the original comparison considerably
+further than the first visit had — the two Palmer subnet survivor-cities building what had begun as a single
+data comparison into something closer to an ongoing joint research relationship.
+
+### The Correspondence With Scott That Finally Became a Real Friendship
+
+Following the original letter noting the civic-temperament parallel between the two quiet cities, the
+occasional yearly exchange with Scott became something more sustained once instant contact let the two civic
+historians who'd originally corresponded simply talk whenever either had something worth sharing, rather than
+saving observations for an annual letter.
+
+Both cities' own historians, per what's preserved of the relationship, described the shift as the
+correspondence finally becoming what it had always almost been — a genuine ongoing friendship between two
+people representing two cities that had always understood each other, now simply able to talk as often as
+they actually wanted to.
+
+### The Power System Cited as a National Case Study for the First Time
+
+Once national engineering comparison became genuinely possible, Signy's own wind-and-hydro power system was
+formally cited, for the first time, as a national reference case for self-sufficient civic energy design —
+alongside Princess Elisabeth's own zero-emissions system, the two cities' own independently developed
+approaches finally studied together as a matched pair rather than two isolated local successes.
+
+Signy's own engineers, per what's preserved of the period, found the recognition genuinely satisfying without
+making much of it publicly — the same understated response the city gave to most things, even as its own
+quiet, decades-long engineering discipline became, for the first time, something the rest of the country
+actually knew by name.

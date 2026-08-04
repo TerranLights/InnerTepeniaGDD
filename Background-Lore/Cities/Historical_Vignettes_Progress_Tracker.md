@@ -71,7 +71,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Marambio | 30 | 30 | **Complete** |
 | Port Lockroy | 30 | 30 | **Complete** |
 | Sejong | 30 | 30 | **Complete** |
-| Signy | 24 | 30 | In progress |
+| Signy | 30 | 30 | **Complete** |
 | Juan Carlos | 24 | 30 | In progress |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
