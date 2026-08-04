@@ -13,7 +13,11 @@ target shared with Zhongshan and Shirayuki, 12 done as of that batch. Batch 3, p
 instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
 once full national digital connectivity existed, each grounded in a specific named city-to-city connection
 from that file (Neumayer, Denison, Mawson, Belgrano, Sejong/Janbogo, Princess Elisabeth) distinct from batch
-2's own entries. 18 done as of batch 3.**
+2's own entries. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six
+occurrences resting on the actual pre-Tower communication structure, where direct digital contact existed
+only within the Mirny subnet (Zhongshan, Shirayuki, Mirny) and anything reaching Byrd, Neumayer, Troll, Dome
+Fuji, or the rest of Sinheung's unusually wide cross-subnet manufacturing reach required trucking, postal
+service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -308,3 +312,79 @@ distinct migration current from either Princess Elisabeth's or Shirayuki's own. 
 civic identity shifted as a result — the community remained exactly as quietly integrated as it always had
 been. The study simply gave three previously unconnected communities, for the first time, an accurate picture
 of how they actually related to each other demographically.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Manufacturing Floor That Ran on One Constant Conversation
+
+Sinheung's own chamber-manufacturing floor, drawing raw materials from Mirny and coordinating design questions
+with Zhongshan and Shirayuki, operated within the Mirny subnet's own instant reach as something close to a
+single distributed operation — specification changes, material orders, and structural consultations all
+settled within the same working day, regardless of which of the three neighboring cities the question actually
+touched.
+
+A specific production bottleneck, per what's preserved of the incident, was resolved within hours once
+Sinheung's own floor managers could simultaneously check material availability with Mirny and a structural
+detail with Shirayuki in the same working session — a level of real-time, multi-city coordination that no
+comparable manufacturing operation split across different subnets could have matched.
+
+### The Consultation Mirny's Guildhall Gave Without Ever Leaving the Line
+
+Mirny's own Windwright Guildhall, already Sinheung's raw-material feeder, extended into a genuine structural
+consulting relationship conducted almost entirely over the subnet's instant line — engineers on both ends
+comparing live figures rather than exchanging correspondence about a problem neither could fully picture
+without seeing the other's own numbers directly.
+
+A specific structural question, per what's remembered of the exchange, was resolved in a single afternoon's
+conversation that would, conducted with any subnet-external technical consultant instead, have required months
+of careful written back-and-forth just to establish shared vocabulary before the actual problem could even be
+addressed.
+
+### The Chamber Schematic That Left Byrd Waiting on the Post
+
+Sinheung's and Byrd's shared status as the Cradle network's two active fabrication-synthesis chamber
+manufacturers made for a genuinely tested technical peer relationship — but before the Tower, every piece of
+that relationship moved by written correspondence, since nothing digital crossed between Byrd's own subnet
+and the Mirny subnet at all.
+
+A specific tolerance question, sent from Byrd to Sinheung along Byrd's own single overland corridor and
+onward, took months to receive a full technical answer to — Sinheung's own engineers, per what's preserved of
+the exchange, working the reply carefully precisely because they knew it would be the only answer Byrd's own
+crew would receive before having to commit to a production decision regardless.
+
+### The Schematic Delivery That Arrived by Truck, Not by Wire
+
+Neumayer's own current-generation chamber schematic, the design Sinheung's manufacturing floor actually builds
+from, had to physically leave the Halley subnet the same way any other cargo did — no digital line existed to
+simply transmit the completed drawings directly to Sinheung's own floor.
+
+The schematic packet, per what's preserved of the delivery, traveled through Troll's own aviation network on
+one of the established Dome Fuji-adjacent supply routes before finally reaching Sinheung weeks after it had
+left Neumayer's own drafting office — Sinheung's own engineers working from paper and film, exactly as Byrd's
+own crew did with the same design, neither city ever in direct contact with the office that had actually
+drafted it.
+
+### The Second Route Troll Never Knew It Was Racing
+
+Sinheung's own independent aviation route through Mawson, one of two separate supply chains that kept Dome
+Fuji provisioned, operated with no way to coordinate against Troll's own parallel route — nothing connected
+Sinheung's dispatch office to Troll's directly, since both sat in different subnets entirely.
+
+More than once, per what's preserved of the period, both routes delivered to Dome Fuji within days of each
+other, an unplanned redundancy neither logistics chain could see coming and neither city ever bothered to
+correct, since correcting it would have required a coordination channel that simply didn't exist before the
+Tower.
+
+### The Manifest Zhongshan and Shirayuki Finalized Before Denison's Own Crates Arrived
+
+A joint production order, requiring input from Zhongshan's own materials expertise and Shirayuki's own design
+sensibility alongside Sinheung's own manufacturing capacity, was settled in a single real-time session over the
+Tri-Cities' shared subnet line — specifications, quantities, and production scheduling agreed on before a
+single component had been fabricated.
+
+The finished shipment, once it left Sinheung bound for Denison's own historical Cradle-network peer facility,
+traveled for weeks with no way for any of the three planning cities to confirm its arrival — the same instant
+coordination that had assembled the order in an hour giving way, the moment it crossed into the Janbogo
+subnet, to the same unaccountable silence every cross-subnet shipment disappeared into.
