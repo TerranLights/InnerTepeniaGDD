@@ -9,7 +9,11 @@ Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapola
 direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
 direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
 only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
-connection from that file and in Troll's own established struggles. Target 30, 18 done as of this batch.**
+connection from that file and in Troll's own established struggles. Batch 4, per direct developer instruction,
+inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where direct
+digital contact existed only within the Halley subnet (Sanay, Belgrano, Halley) and anything reaching Dome
+Fuji, Sinheung, or Fort McMurdo required trucking, flying cargo without live tracking, postal service, or
+physically traveling there. Target 30, 24 done as of this batch.**
 
 ---
 
@@ -341,3 +345,84 @@ why a particular delivery had been bumped in favor of higher-priority cargo else
 Abowasa's own small trade office for the first time in the corridor's own working history. The explanation
 didn't change the delay itself. It gave Abowasa's own residents, for the first time, an actual reason rather
 than simply another instance of being last in line.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Dispatch That Beat the Convoy to the Runway
+
+Sanay's own overland freight, bound onward through Troll's aviation network, could be flagged for priority
+loading before the convoy carrying it had even reached Troll's own gates — a coordination that ran entirely
+over the subnet's instant line, decided and confirmed while the shipment itself was still en route by truck.
+
+A specific rush order, per what's preserved of the arrangement, had cargo space held open on a departing
+flight based on nothing more than Sanay's own word that the shipment was inbound and urgent — a level of
+trust neither city extended to a subnet-external request, where no comparable advance word was ever possible.
+The convoy arrived, the cargo loaded within the hour, and the flight left on schedule specifically because the
+whole handoff had been arranged before the trucks themselves were even in sight.
+
+### What Belgrano Could Confirm That No One Past the Subnet Could
+
+A dispute over a damaged shipment's own point of origin — whether the damage had occurred in transit or before
+it ever left Belgrano's own docks — was resolved within the same afternoon once Belgrano's own loading records
+were checked directly over the subnet's instant line, a level of accountability neither city could extend to a
+shipment originating anywhere else.
+
+Troll's own freight handlers, per what's remembered of the incident, treated the resolution as almost
+unremarkable — simply asking Belgrano and getting a straight answer, the way subnet business always worked.
+The same handlers, describing the incident afterward to a Fort McMurdo counterpart used to disputes that took
+weeks of correspondence to settle at all, found their own casual expectation of a same-day answer met with
+open envy.
+
+### The Flight to Dome Fuji Nobody Could Reroute Mid-Air
+
+Dome Fuji's own supply depended on Troll's direct aviation route — one of only three confirmed lifelines
+keeping the isolated station provisioned at all — but once a flight left Troll's own runways, nothing digital
+connected it to anyone on the ground at Dome Fuji until it actually landed.
+
+A flight departing during a period of uncertain weather over the Mawson subnet, per what's preserved of the
+incident, flew the entire route with no way to confirm conditions at its own destination had held — a
+decision made and committed to entirely on the strength of the forecast available at departure, since no
+channel existed to check conditions mid-route the way Troll could have checked Belgrano's or Sanay's within
+the subnet. The flight landed safely. The crew, per what's remembered of the debrief afterward, treated the
+lack of any mid-flight confirmation as simply the ordinary cost of flying to Dome Fuji at all.
+
+### The Second Lifeline Sinheung Never Knew It Was Racing
+
+Troll's own route and the separate Mawson-routed run through Sinheung kept Dome Fuji supplied independently of
+each other for a substantial stretch of Tepenian history — two logistics chains operating with no way to
+coordinate between themselves, since nothing connected Troll's own dispatch office to Sinheung's directly.
+
+More than once, per what's preserved of the period, both routes delivered supplies to Dome Fuji within days of
+each other, an unplanned redundancy neither city could see coming and neither bothered correcting after the
+fact, since correcting it would have required a coordination neither route had any way to establish. Dome
+Fuji's own receiving staff, per what's remembered locally, simply logged both deliveries and moved on — the
+two supply chains functioning, from the isolated station's own perspective, as one reliable system built from
+two cities that had never once spoken to each other about it.
+
+### The Comparison Fort McMurdo Never Got to Make in Real Time
+
+Troll's own freight-hub identity and Fort McMurdo's own industrial-capital identity read, once anyone thought
+to compare them, as Tepenia's two clearest "working-class logistics muscle" civic personalities — a comparison
+that, before the Tower, could only ever be made secondhand, through whatever traveler happened to have visited
+both.
+
+A trucker who'd worked routes through both cities over the course of a long career, per what's remembered of
+his own account, was one of the very few people in the country actually positioned to make the comparison
+directly — everyone else relying entirely on his own retelling, since no faster way existed for either city's
+own residents to simply ask the other what working life there was actually like. The comparison itself became
+something of a minor local legend at Troll, repeated secondhand for years by people who'd never have any way
+to verify it themselves.
+
+### The Manifest That Changed Hands Three Times Before It Left the Country's Reach
+
+A large joint shipment assembled from Sanay's, Belgrano's, and Troll's own combined stock — coordinated in a
+single real-time planning session over the subnet's instant line — required all three cities to agree on
+loading order and departure timing before a single crate moved, a negotiation that took less than an hour.
+
+That same shipment, once it left Troll's own runways bound for Sinheung, traveled for the better part of three
+weeks with no way for any of the three planning cities to confirm it had even landed — the fastest planning
+session any of the three had on record, followed immediately by the same unaccountable stretch of silence
+every subnet-external shipment disappeared into once it crossed the boundary the instant line itself never
+reached.
