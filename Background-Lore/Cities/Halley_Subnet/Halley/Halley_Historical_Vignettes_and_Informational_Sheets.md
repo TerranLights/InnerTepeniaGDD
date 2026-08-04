@@ -13,13 +13,15 @@ that already happened, but genuinely new possibilities the Tower's completion op
 specific city-to-city connection from that file and in Halley's own established struggles. Batch 4, per
 direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication
 structure, where direct digital contact existed only within a city's own subnet and anything reaching another
-subnet required trucking, postal service, or physically traveling there. Batch 5, per direct developer
-instruction, returns to post-Tower full connectivity — genuinely fresh occurrences distinct from batch 3,
-cross-referenced against `city-symbol-pairs.md` (Halley = Mercury/Resilience + Water/Adaptability) as a
-thematic undertone, not stated in-fiction. Target 30, 30 done as of this batch — Halley's own full target is
-now complete. Halley's own established connections
-are entirely intra-subnet, which becomes a genuine character point here — near-total physical/traditional
-isolation from the rest of the country outside the Halley subnet. Target 30, 24 done as of this batch.**
+subnet required trucking, postal service, or physically traveling there — Halley's own established
+connections are entirely intra-subnet, which becomes a genuine character point here, near-total
+physical/traditional isolation from the rest of the country outside the Halley subnet. Batch 5, per direct
+developer instruction, returns to post-Tower full connectivity — genuinely fresh occurrences distinct from
+batch 3, cross-referenced against `city-symbol-pairs.md` (Halley = Mercury/Resilience + Water/Adaptability) as
+a thematic undertone, not stated in-fiction. Target 30, 30 done as of this batch — Halley's own full target
+complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower, subnet-bounded
+framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced
+against Halley's own symbol pair. Target effectively 36, 36 done as of this batch.**
 
 ---
 
@@ -522,3 +524,77 @@ monitoring discipline itself, not as a direct technical answer. It was the first
 instruments, built for one specific, narrow purpose, had been consulted for the discipline behind them rather
 than the ice-shelf answers they actually produced — proof the city's own quiet, decades-long habit of careful
 measurement had a value that traveled further than the problem it was built to solve.
+
+---
+
+## Batch 6 — What Held Before the Wires Reached Further
+
+### The Relay That Only Reached as Far as Belgrano
+
+Halley's own subnet-internal line to Belgrano carried a routine structural-monitoring update within hours,
+same as it always had — the kind of exchange the two cities had run so often it barely registered as
+noteworthy. The same update, adapted for a research contact outside the subnet, went out by the following
+week's mail truck instead, since no line existed to carry it any further than Belgrano's own relay tower.
+
+The contrast wasn't remarked on at the time — it was simply how things worked — but the mail truck's own
+manifest, preserved in Halley's records, shows the same finding reaching Belgrano and a subnet-external city
+nearly three weeks apart, despite both requests having been sent the same afternoon.
+
+### The Crew That Rode With the Convoy Rather Than Wait for It
+
+A Halley engineer needing to consult in person with a specialist based outside the subnet had no faster
+option than joining the same overland convoy carrying Belgrano's own outbound freight — a multi-day passage
+undertaken specifically because the question at hand couldn't be adequately explained by letter, and no
+subnet-external digital line existed to attempt it any other way.
+
+The engineer's own notes from the trip, preserved alongside the consultation's findings, dwell less on the
+technical question than on the length of the journey itself — a reminder, written for whoever read the file
+next, that a conversation Halley's own subnet-mates could have in an afternoon took the better part of a
+season to have with anyone further away.
+
+### The Standing Habit of Writing Things Down Twice
+
+Halley's ice-shelf monitoring reports were compiled twice for every reporting period — once in the shorthand
+form circulated instantly to Sanay, Belgrano, and Troll over the subnet's own internal line, and once in a
+fuller, more self-contained form written specifically for the mail, since a subnet-external reader would have
+none of the shared context the shorthand version assumed.
+
+The second version took considerably longer to write and, per the surviving archive, was read by far fewer
+people — but Halley's own record-keepers kept producing it anyway, on the reasoning that a report written only
+for people who already understood the context wasn't actually a complete record at all.
+
+### The Question Neumayer Answered Before Halley Finished Asking It
+
+A load-bearing question sent to Neumayer over the subnet's own instant line was answered, per the surviving
+log, before Halley's own engineer had finished composing the follow-up clarification they assumed would be
+needed — the kind of fluent, assumption-free exchange only possible between two cities that had spent years
+building shared technical vocabulary over a line fast enough to actually develop one.
+
+The same engineer, corresponding separately with a subnet-external contact on a related question, spent
+nearly as long establishing shared terms as actually answering it — a plain illustration, never stated
+outright in the record but obvious to anyone reading both exchanges side by side, of what instant contact
+within a subnet had quietly built that distance alone couldn't replicate.
+
+### The Delegation That Learned Belgrano's Weather Before Its Own
+
+A visiting delegation from a subnet-external city, housed temporarily in Halley while waiting on transport
+further into the subnet, found itself checking Belgrano's own forecast — relayed instantly over Halley's
+internal line — well before any word reached them about conditions back where they'd actually come from,
+since no comparably fast channel existed to ask.
+
+The delegation's own leader, per what's preserved of a later account, described the arrangement as faintly
+disorienting — knowing more, in real time, about a city she'd never visited than about the one she'd left that
+same week — a small, specific illustration of how completely the subnet boundary shaped what anyone
+physically inside it could actually know.
+
+### The Endurance Halley's Own Reports Were Built to Outlast
+
+Halley's ice-shelf monitoring reports, unlike Belgrano's or Sanay's own periodic bulletins, were deliberately
+written to remain useful even if the mail carrying them took months rather than weeks to arrive — a standing
+editorial habit, self-imposed rather than required, of stripping out anything that would go stale before a
+subnet-external reader could plausibly receive it.
+
+The habit meant Halley's own subnet-internal readers, who had the report within hours regardless, were
+sometimes reading a slightly more conservative document than the moment actually called for — a small,
+self-aware cost the city's record-keepers accepted anyway, on the reasoning that a report built to endure the
+slowest possible route was more honestly Halley's own than one written only for the fastest.

@@ -44,15 +44,23 @@ three existing per-city folders but tracked as one combined regional total below
   DLC on its own, so needs enough discoverable lore density regardless; also a live source of possible new
   environmental-hazard justifications for the DLC's own level design.
 
+**2026-08-06 — Standard target superseded by Batch 6, developer-directed.** The original 30-entry standard
+target assumed exactly 5 batches of 6. Batch 6 (below) adds a 6th round to every standard-target city,
+pushing them to 36 — the same kind of stale-target situation already noted for the Tri-Cities region; not a
+problem, just the target growing because the developer asked for more. Standard target is now effectively
+36. Palmer City and Byrd also receive their own Batch 6 round (Palmer City 30→36/50, Byrd 36→42/50) — their
+elevated targets are unaffected in absolute terms, just six entries closer. Amundsen Station is excluded from
+this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has its own dedicated batch).
+
 ---
 
 ## Progress
 
-### Halley Subnet (target: 30 each, 240 total)
+### Halley Subnet (target: 36 each, 288 total)
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Halley | 30 | 30 | **Complete** |
+| Halley | 36 | 36 | **Complete** |
 | Neumayer | 30 | 30 | **Complete** |
 | Belgrano | 30 | 30 | **Complete** |
 | Troll | 30 | 30 | **Complete** |
