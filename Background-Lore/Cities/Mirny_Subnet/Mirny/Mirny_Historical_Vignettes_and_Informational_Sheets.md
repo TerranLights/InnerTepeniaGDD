@@ -10,7 +10,12 @@ subnet. **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per 
 is framed around `City_National_Connections.md`: six occurrences that could only have happened once full
 national digital connectivity existed, each grounded in a specific named city-to-city connection from that
 file (Rothera, Denison, Abowasa, Sinheung, Zhongshan, Casey) distinct from batch 2's own Relay Vaults-focused
-entries. 18 done as of batch 3.**
+entries. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences
+resting on the actual pre-Tower communication structure. Mirny's own Relay Hardware Vaults already gave it
+instant digital reach across nearly the entire Mirny subnet (Sinheung, Casey, Davis, Zhongshan, Vostok,
+Kunlun) before the Tower ever existed — the exception being Rothera, Abowasa, and Denison, all outside the
+subnet, reachable only by trucking, postal service, or physically traveling there. 24 done as of this
+batch.**
 
 ---
 
@@ -342,3 +347,76 @@ directly to residents of another Mirny subnet city rather than passed down only 
 own dispatchers, per what's recalled of the reaction, recognized the same underlying instinct their own wind-
 window certifications ran on: information, and the people who carried it safely, treated as worth genuinely
 honoring rather than simply expected.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Vaults That Made Six Cities Feel Like One
+
+Mirny's own Relay Hardware Vaults gave Casey, Davis, Zhongshan, Vostok, and Kunlun instant contact with Mirny
+— and, by extension, with each other — long before the Tower existed at all, a standing intra-subnet reach no
+comparable technical hub anywhere else in the country matched at that scale.
+
+A specific coordination problem, per what's preserved of the era's own routine, involving quarry deliveries
+needed simultaneously at three different Mirny subnet destinations, was resolved in a single planning session
+with representatives from all three receiving cities present over the Vaults' own line — an entire subnet's
+worth of logistics settled in one sitting, something no equivalent gathering of cities from different subnets
+could have managed at anything like the same speed.
+
+### The Quarry Order Rothera Waited Three Weeks to Confirm
+
+Rothera's own structural-twin relationship to Mirny — both cities quarrying and manufacturing what their own
+subnet's highway network depended on — existed for generations as a working relationship conducted entirely
+by written correspondence, since nothing digital crossed from the Mirny subnet into the Palmer subnet.
+
+A specific equipment specification, clarified across several rounds of exchanged letters, per what's preserved
+of the transaction, took the better part of a year to finalize before Mirny's own Windwright Guildhall could
+even begin fabrication — a process that, conducted with any of Mirny's own subnet neighbors instead, would
+have been a single afternoon's conversation rather than a year of careful, slow-moving correspondence.
+
+### The Kitchen Question Abowasa Asked and Waited Months to Hear Back On
+
+Abowasa's own founding-era multinational coexistence and Mirny's own Dual-Kitchen Halls, institutionalizing
+Russian-Chinese coexistence the same deliberate way, prompted a specific written inquiry from Abowasa's own
+civic planners — curious how Mirny's own halls had actually solved logistics questions Abowasa's own kitchens
+still argued about.
+
+The reply, per what's preserved of the correspondence, took months to cross from the Mirny subnet into the
+Halley subnet and answer in full detail — genuinely useful guidance, delayed only by distance, that Abowasa's
+own kitchen administrators implemented once it finally arrived, considerably later than the original question
+had hoped for.
+
+### The Engineering Parallel Denison Learned About by Letter, Not by Visit
+
+Denison's own fully-interlinked structural design and Mirny's own windbreak-ring architecture solved the same
+extreme-katabatic-wind engineering problem from two different philosophies — a comparison that, crossing from
+the Mirny subnet into the Janbogo subnet, could only be pursued through written correspondence.
+
+A specific technical exchange, per what's preserved of the letters, spanned nearly two full measurement
+seasons before either city's own engineers felt they'd gathered enough comparable data — each round of
+findings mailed, reviewed, and answered months later, a pace that would have been a single working season had
+either city sat within Mirny's own subnet instead.
+
+### The Toast Told Six Times in One Evening, Once by Letter
+
+The story of Oyunbaatar's crew and Mirny's own Quarry Return Toast, told directly to Casey's dispatchers over
+the subnet's own instant line, later reached a curious correspondent at Rothera only by letter — the same
+story, told twice, at two entirely different speeds.
+
+Rothera's own inquiry, per what's preserved of the exchange, took months to receive a full written account of
+the tradition — considerably longer than Casey had needed to simply ask and be told the same afternoon. The
+written version Rothera eventually received was, if anything, more detailed than the spoken one Casey got,
+Mirny's own quarry crews apparently taking more care with a story they knew would have to survive the trip
+in writing alone.
+
+### The Shipment Six Cities Planned Together for a Seventh That Never Answered
+
+A large joint order, drawing simultaneously on Mirny's, Sinheung's, and Zhongshan's own combined stock and
+coordinated across a single real-time session over the Relay Vaults' own line, was packed and ready to move
+within a day — three cities' worth of logistics settled as if they were one.
+
+That same shipment, once it left the Mirny subnet bound for Rothera, traveled for weeks with no way for any of
+the three planning cities to confirm it had even arrived — the instant three-way coordination that assembled
+it giving way, at the subnet boundary, to the same unaccountable silence every shipment crossing into another
+subnet disappeared into.
