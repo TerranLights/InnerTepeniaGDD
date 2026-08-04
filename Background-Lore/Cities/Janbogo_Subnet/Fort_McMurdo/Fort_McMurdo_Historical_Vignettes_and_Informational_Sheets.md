@@ -21,7 +21,10 @@ as of this batch. Batch 5, per direct developer instruction, returns to post-Tow
 genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Fort
 McMurdo = Jupiter/dominance-self-evident + Earth/the-stabilizing-center) as a thematic undertone — Amundsen
 Station now appears again, since the capital designation itself is squarely post-Tower. 30 done as of this
-batch — Fort McMurdo's own full target is now complete.**
+batch — Fort McMurdo's own full target complete. Batch 6, per direct developer instruction, returns to Batch
+4's own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now
+also cross-referenced against Fort McMurdo's own symbol pair — Amundsen Station excluded again, same
+reasoning as Batch 4: pre-Tower Fort McMurdo wasn't yet the capital. 36 done as of this batch.**
 
 ---
 
@@ -459,3 +462,69 @@ Several cities' own supply-chain planners, per what's preserved of the period, b
 real-time production data directly in their own planning — the same quiet, undeniable gravity the city had
 always held, now simply visible to everyone at once rather than inferred city by city as it always had been
 before.
+
+---
+
+## Batch 6 — Gravity, Before It Had a Capital's Reach
+
+### The Production Adjustment Scott Made Mid-Shift
+
+An industrial output adjustment coordinated with Scott over the subnet's own instant line let both cities
+retune their combined production schedule mid-shift, avoiding a bottleneck neither would have caught in time
+working from a fixed, pre-arranged plan.
+
+A comparable coordination attempt with Casey, well outside the subnet, had to be planned weeks in advance and
+left largely fixed once agreed — any mid-course correction would have arrived, by letter, well after the
+window to actually act on it had closed.
+
+### The Apprentice Troll Trained Without Meeting Fort McMurdo's Foreman
+
+An industrial apprentice sent to Troll for cross-training communicated with Fort McMurdo's own foreman almost
+entirely through Scott, who relayed messages between the apprentice and the home foreman over the subnet's own
+line — an arrangement that worked only because Scott itself sat inside the same subnet as both other parties.
+
+A separate apprentice sent to Lazar had no equivalent intermediary — correspondence with the home foreman
+moved directly by mail, considerably slower, and Fort McMurdo's own foreman had no way to check in on progress
+except by waiting for the apprentice's own scheduled letters.
+
+### The Safety Standard Casey Adopted Without Ever Meeting Its Author
+
+A safety standard drafted by Fort McMurdo's own civic office, after Scott had already implemented and refined
+it over the subnet's own line, reached Casey only in its finalized written form — Casey's own administrators
+applying the standard exactly as documented, with no access to the reasoning behind specific provisions that
+Scott's own subnet-internal conversations had already worked through.
+
+Scott's own version of the same standard, meanwhile, kept evolving in small ways well after the document
+Casey received had already been finalized — a living standard for one city, a fixed one for the other.
+
+### The Trade Proposal Lazar Left Fort McMurdo Waiting Long Enough to Worry
+
+A trade proposal sent to Lazar went unanswered long enough that Fort McMurdo's own negotiators began drafting
+a fallback plan, uncertain whether the silence meant rejection or simply an ordinary mail delay — a genuine
+anxiety only possible because no faster channel existed to simply ask.
+
+A comparable proposal extended to Scott over the subnet's own line received an immediate acknowledgment even
+before a full answer was ready — a small courtesy, functionally impossible across the subnet boundary, that
+nonetheless spared Fort McMurdo's negotiators the same uncertainty entirely.
+
+### The Comparison Troll Only Ever Heard About After the Fact
+
+An internal Fort McMurdo production comparison, run jointly with Scott over the subnet's own line, was
+finished and quietly implemented before Troll — whose own freight network the comparison indirectly affected
+— learned it had happened at all, the news arriving eventually through an unrelated shipment discrepancy
+rather than any deliberate notification.
+
+Fort McMurdo's own planners, per a surviving note, hadn't intended to exclude Troll from the process — the
+comparison had simply moved at the speed of the subnet's own line, with no obvious moment to pause and loop
+in a city that could only be reached the slow way.
+
+### The Industrial City That Hadn't Yet Learned It Was the Center of Anything
+
+Fort McMurdo's own pre-Tower character — a genuinely significant industrial city, but not yet the capital its
+post-Tower designation would make it — showed its own quiet gravity most clearly within the Janbogo subnet,
+where Scott's constant, responsive coordination let Fort McMurdo function almost as a hub in miniature.
+
+Outside the subnet, Fort McMurdo was simply one industrial city among several, its own eventual centrality
+utterly invisible — a fact its own civic planners, per a surviving reflection, found almost funny in
+retrospect: the gravity had clearly already been there, waiting on nothing but a faster way for the rest of
+the country to notice it.
