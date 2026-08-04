@@ -19,8 +19,11 @@ Mirny required trucking, postal service, or physically traveling there. 24 done 
 completes the Janbogo subnet's batch 4 pass. Batch 5, per direct developer instruction, returns to post-Tower
 full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Denison = Venus/extreme-conditions-met-with-an-extreme-answer + Metal/precision-
-engineering) as a thematic undertone. 30 done as of this batch — Denison's own full target is now complete,
-completing the Janbogo subnet's batch 5 pass.**
+engineering) as a thematic undertone. 30 done as of this batch — Denison's own full target complete,
+completing the Janbogo subnet's batch 5 pass. Batch 6, per direct developer instruction, returns to Batch 4's
+own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Denison's own symbol pair. 36 done as of this batch — completes the Janbogo subnet's
+batch 6 pass.**
 
 ---
 
@@ -449,3 +452,70 @@ Denison's own engineers, per what's preserved of the period, found the attention
 way the city handled everything else — genuine national recognition, received the same way the city met its
 own defining wind: without complaint, and without needing to make a show of having earned it. **Completes the
 Janbogo subnet's batch 5 pass.**
+
+---
+
+## Batch 6 — A Fused Structure, Reachable Only in Pieces
+
+### The Load Figure Dumont d'Urville Confirmed Mid-Calculation
+
+A structural load figure Denison was still calculating was cross-checked against a comparable figure from
+Dumont d'Urville over the subnet's own instant line before Denison's own engineers had finished the
+calculation themselves — Dumont d'Urville's own confirmation folded directly into work still in progress.
+
+Rothera, asked a related verification question the same week, could offer no equivalent mid-calculation
+input — its own reply, once it arrived by mail, addressed a version of the problem Denison's own engineers had
+already finished solving without it.
+
+### The Comparison Rothera Answered a Full Winter Behind Schedule
+
+A wind-engineering comparison requested from Rothera took a full winter to receive a complete answer —
+Rothera's own engineers compiling detailed figures for the mail, since no faster channel existed to send a
+partial version and refine it afterward.
+
+The identical category of comparison, run informally with Dumont d'Urville over the subnet's own line,
+produced a working answer within days — not because Dumont d'Urville's own engineering was necessarily
+comparable in depth, but because a partial, imperfect first answer could simply be refined in real time rather
+than needing to arrive complete.
+
+### The Chamber Relationship Sinheung Maintained One Slow Letter at a Time
+
+Denison's own peer relationship with Sinheung's fabrication chamber operators, though genuinely productive,
+unfolded entirely through the mail — each technical question, and each answer, requiring its own separate
+letter, the relationship itself built patiently over years rather than accelerated by any faster line.
+
+Dumont d'Urville, raising a related but simpler technical question over the subnet's own line, received a
+useful answer the same day — a reminder, to Denison's own engineers, of how differently the same category of
+professional relationship could develop depending entirely on which line connected the two parties.
+
+### The Load-Distribution Data Mirny Sent the Long Way, On Purpose
+
+A load-distribution dataset requested from Mirny arrived by the slowest available route — not from any lack
+of urgency on Mirny's part, but because the data itself was extensive enough that no faster channel existed to
+transmit all of it reliably, forcing physical transport of the compiled records instead.
+
+Dumont d'Urville's own comparable dataset, transmitted over the subnet's own line in full, arrived
+instantly and completely — the difference in delivery method tracing less to either city's own diligence than
+to simple data volume and which line was actually available to carry it.
+
+### The Historical Peer Byrd Learned About From a Published Account
+
+Denison's own historical peer relationship with Byrd — two cities sharing a comparably extreme engineering
+challenge — was, before the Tower, something Denison's own researchers learned about mostly through published
+accounts and secondhand reference rather than any direct correspondence, since no established channel yet
+connected the two cities.
+
+Dumont d'Urville, by contrast, was a living, active correspondent — proof that Denison's own cross-subnet
+relationships existed on a spectrum from genuinely distant to warmly immediate, and that distance alone didn't
+fully explain where any given city landed on it.
+
+### The Structure That Answered Extremity With Extremity, and Distance With Patience
+
+Denison's own defining engineering answer — a single fused, uncompromising structure built to meet the most
+extreme wind-load conditions in the country — extended the same uncompromising rigor to every relationship it
+maintained, but the pace of that rigor still depended entirely on the line available: instant and iterative
+with Dumont d'Urville, and patient, deliberate, and often quite slow with Sinheung, Rothera, Mirny, and Byrd.
+
+Denison's own engineers, per a surviving reflection, treated this simply as one more extreme condition the
+city had learned to design around — the quality of the work never wavered, only the speed at which anyone
+outside the subnet could actually see it happen.

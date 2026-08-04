@@ -106,7 +106,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Cape Adare | 36 | 36 | **Complete** |
 | Zukelli | 36 | 36 | **Complete** |
 | Scott | 36 | 36 | **Complete** |
-| Denison | 30 | 30 | **Complete** |
+| Denison | 36 | 36 | **Complete** |
 
 ### Mawson Subnet (target: 30 each, 90 total)
 
@@ -146,9 +146,13 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries, superseded — see the 2026-08-06 Batch 6 standard-target note above; the real,
-current target is higher and still growing as Batch 6 proceeds.** **Current: 1,176** (Halley subnet 258 +
-Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 210 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
+current target is higher and still growing as Batch 6 proceeds.** **Current: 1,218** (Halley subnet 258 +
+Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 252 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
 Station 12).
+
+**2026-08-06 — Janbogo subnet batch 6 complete — all 7 cities at 36/36.** Janbogo, Fort McMurdo, Dumont
+d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 6. Fort McMurdo's batch 6 kept Amundsen
+Station excluded, same reasoning as batch 4 (pre-Tower Fort McMurdo wasn't yet the capital).
 
 **2026-08-06 — Mirny subnet batch 6 complete — all 8 cities at 36/36, Tri-Cities combined now 108/75.** Mirny,
 Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and Shirayuki all completed batch 6. Casey's batch 6 header
