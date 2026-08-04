@@ -15,7 +15,10 @@ Carlos) and anything reaching Zhongshan or Cape Adare required trucking, postal 
 traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower
 full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Port Lockroy = Neptune/diligence + Water/the quiet flowing medium) as a thematic
-undertone. 30 done as of this batch — Port Lockroy's own full target is now complete.**
+undertone. 30 done as of this batch — Port Lockroy's own full target complete. Batch 6, per direct developer
+instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh occurrences,
+distinct from both Batch 4 and each other, now also cross-referenced against Port Lockroy's own symbol pair.
+36 done as of this batch.**
 
 ---
 
@@ -466,3 +469,71 @@ directly — proof that Port Lockroy's own "living memory" identity extended wel
 something more diffuse: a genuine, quietly disproportionate role in how the whole country's people had stayed
 personally connected to each other for generations, never centrally noticed until the data itself finally
 made it visible.
+
+---
+
+## Batch 6 — A Relay Point, Measured Two Ways
+
+### The Parcel Juan Carlos Could Track From the Moment It Left
+
+A parcel routed through Port Lockroy on its way to Juan Carlos was logged and confirmed over the subnet's own
+instant line at every stage — departure, transfer, and arrival all visible to Juan Carlos's own archivists in
+real time, the relay itself functioning as one continuous, trackable process.
+
+The same category of parcel, continuing onward to a subnet-external recipient once it left Port Lockroy's own
+hands, lost that visibility entirely — from Port Lockroy's own end, once the parcel crossed the subnet
+boundary, its actual fate was only ever confirmed by a return letter, if one came at all.
+
+### The Duplicate Copy That Only Made Sense for Distant Mail
+
+Port Lockroy's own founding-era postal precaution — keeping a duplicate copy of anything irreplaceable before
+sending it onward — was applied selectively, in practice, almost entirely to mail bound outside the subnet;
+correspondence with Juan Carlos, confirmed as received within the day over the subnet's line, rarely warranted
+the extra effort.
+
+A researcher's own private letters to a subnet-external contact, by contrast, were duplicated as a matter of
+routine — the precaution existing specifically because Port Lockroy's own clerks had learned, through
+experience, how much could go wrong once a letter left the subnet's own reach.
+
+### The Wall Panel Zhongshan Heard About a Season Late
+
+A Communal Stone Wall panel documenting a particularly significant year was described in detail to Juan Carlos
+over the subnet's own line within days of being carved — Juan Carlos's own archivists cross-referencing the
+account against their own records almost immediately.
+
+Zhongshan, requesting the same account by mail after hearing a secondhand rumor of the panel's significance,
+received a full written description only a season later — the same story, told just as fully, simply arriving
+on an entirely different timeline.
+
+### The Courier Route Cape Adare Trusted Only Once It Was Tested
+
+A new courier route linking Port Lockroy to Cape Adare was tested extensively over several seasons before
+either city's own postal office fully trusted it with anything irreplaceable — each test run confirmed
+individually by letter, since no faster channel existed to simply check whether a given shipment had actually
+arrived intact.
+
+A comparable internal route within the Palmer subnet needed no such extended trial — Juan Carlos's own
+confirmation, arriving instantly over the subnet's line, let Port Lockroy validate a new internal procedure in
+a fraction of the time a cross-subnet route required.
+
+### The Preservation Standard That Reached Two Cities on Two Different Clocks
+
+Port Lockroy's own preservation methodology, refined constantly through informal exchange with Juan Carlos
+over the subnet's own line, existed in a living, evolving form its subnet-mate could draw on at any stage —
+Juan Carlos incorporating small improvements almost as soon as Port Lockroy's own archivists made them.
+
+Cape Adare, requesting the same standard, received only the finished, formally written version — a snapshot
+of a process that had actually kept changing after the letter carrying it was already in transit, meaning
+Cape Adare's own copy was, in a small but real sense, already slightly out of date the moment it arrived.
+
+### The Living Memory That Circulated Fastest Closest to Home
+
+Port Lockroy's own quiet, disproportionate role in keeping the country's people personally connected — parcels,
+letters, and messages relayed carefully between the Peninsula and the mainland — worked at its most complete
+and immediate within the Palmer subnet itself, where Juan Carlos could confirm and cross-reference in real
+time.
+
+The same role, extended to Zhongshan or Cape Adare, remained just as diligent but considerably slower — Port
+Lockroy's own record-keepers, per a surviving internal note, understood this not as a limitation of the
+city's own commitment but simply as the honest shape of what a relay point could actually promise once
+distance and a subnet boundary were both involved.
