@@ -17,7 +17,10 @@ Neumayer) and anything reaching Fort McMurdo, Palmer City, or Sejong required tr
 physically traveling there. Batch 5, per direct developer instruction, returns to post-Tower full
 connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Lazar = Jupiter/by-far-the-largest + Wood/absorptive-growth) as a thematic undertone.
-Target 30, 30 done as of this batch — Lazar's own full target is now complete.**
+Target 30, 30 done as of this batch — Lazar's own full target complete. Batch 6, per direct developer
+instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh occurrences,
+distinct from both Batch 4 and each other, now also cross-referenced against Lazar's own symbol pair. Target
+effectively 36, 36 done as of this batch.**
 
 ---
 
@@ -507,3 +510,71 @@ directly in their own infrastructure planning discussions — not because they e
 it had become, for the first time, an actual visible national benchmark rather than a vague sense that Lazar
 was "the big one." The city's own defining trait — gathering whoever arrived and giving them somewhere to
 belong — had simply never been measurable in real time before.
+
+---
+
+## Batch 6 — A Capital's Gravity, Bounded by the Subnet
+
+### The Census Abowasa Could Check Against Its Own
+
+Lazar's own rolling population figures, updated constantly as new arrivals were processed, were available to
+Abowasa's own administrators over the subnet's instant line at any hour — a level of transparency that let
+Abowasa's own much smaller planning office model its own modest growth directly against Lazar's, checking its
+assumptions in real time.
+
+Fort McMurdo, wanting the same figures for its own capital-planning purposes, had to request a formal
+population summary by letter — receiving, months later, a single point-in-time snapshot rather than the
+living, constantly-updating figure Abowasa could simply watch.
+
+### The Housing Question Neumayer Answered While Lazar Was Still Building
+
+A structural question about rapid, absorptive housing construction — Lazar's own defining challenge, given how
+much of the city was built and rebuilt continuously to hold its constant intake of arrivals — was put to
+Neumayer over the subnet's own line and answered before Lazar's own construction crews had finished the
+section in question.
+
+Sejong, facing a related but distinct question about integrating new arrivals into existing neighborhoods, had
+no equivalent option — its own correspondence with Lazar on the subject moved by mail, with each round of
+clarification costing weeks rather than the same afternoon Neumayer's answer had taken.
+
+### The Delegation That Arrived Before Its Own Letter Did
+
+A delegation from Palmer City, traveling to study Lazar's own absorption-focused housing model in person,
+reached the city and had already toured several districts before the formal letter announcing their visit
+finally caught up by post — the travelers themselves having moved faster than the correspondence meant to
+precede them.
+
+Lazar's own hosts, per what's preserved of the account, improvised a welcome on short notice rather than delay
+the visit waiting for paperwork that, as it turned out, wasn't going to arrive first regardless.
+
+### The Trade Proposal Sejong Revised Three Times by Mail
+
+A trade proposal between Lazar and Sejong went through three full rounds of revision, each round requiring a
+letter sent and a letter returned — a process that stretched what might have been a single afternoon's
+negotiation, had any faster line existed, into the better part of a season.
+
+Lazar's own negotiators, per an internal note from the period, grew accustomed to holding several open,
+unresolved cross-subnet negotiations at once simply because none of them could be closed quickly — an
+ordinary, unremarkable feature of doing business with anyone outside the Halley subnet.
+
+### The Order Neumayer Filled the Same Day It Was Placed
+
+A standing materials order between Lazar and Neumayer, adjusted constantly to match Lazar's own unpredictable
+construction pace, worked entirely on same-day turnaround over the subnet's own line — Neumayer's own
+suppliers treating a change in Lazar's order as routine, sometimes several revisions within a single week.
+
+A comparable order placed with a subnet-external supplier for Fort McMurdo's own capital-construction needs
+had to be finalized well in advance and left largely unchanged once submitted — the flexibility Lazar and
+Neumayer took for granted simply had no equivalent once a mail cycle separated the two parties.
+
+### The City That Grew Faster Than Word of It Could Travel
+
+Lazar's own explosive, absorption-driven growth was common knowledge within the Halley subnet almost as it
+happened — Abowasa, Neumayer, Belgrano, and the rest tracking the city's expansion in something close to real
+time. Outside the subnet, the same growth was understood only in retrospect, through periodic, already-dated
+reports.
+
+A Fort McMurdo administrator, reviewing an old report on Lazar's population years after the fact, remarked
+that the figures had likely been out of date before the letter carrying them had even left the Halley subnet
+— an accurate assessment, and simply the ordinary condition of trying to track Lazar's own growth from
+anywhere outside the one subnet that could actually watch it happen.
