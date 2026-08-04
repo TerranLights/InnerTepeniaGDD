@@ -18,8 +18,10 @@ d'Urville) and anything reaching Sejong, Sinheung, Mawson, Esperanza, or Byrd re
 service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
 returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
 cross-referenced against `city-symbol-pairs.md` (Janbogo = Earth/effectively-a-sister-city-with-Zukelli +
-Air/the-connective-medium) as a thematic undertone. 30 done as of this batch — Janbogo's own full target is
-now complete.**
+Air/the-connective-medium) as a thematic undertone. 30 done as of this batch — Janbogo's own full target
+complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower framing with
+genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced against
+Janbogo's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -452,3 +454,69 @@ The follow-up research, per what's preserved of the project, remains genuinely i
 question neither city's own records fully answer yet. What the collaboration did produce, for the first time,
 was a shared research agenda between the two cities rather than a single closed study, the demographic
 kinship having grown from a confirmed fact into an actual ongoing joint inquiry.
+
+---
+
+## Batch 6 — A Sister City, Fast Up Close
+
+### The Fabric Zukelli Approved Before Janbogo Finished Cutting It
+
+A new fused-fashion fabric pattern, developed at Janbogo's own shielded commercial halls, was reviewed and
+approved by Zukelli's own designers over the subnet's own instant line before Janbogo had finished cutting the
+first full bolt — a genuinely collaborative design process treated as routine between the two "sister
+cities."
+
+A comparable pattern shared with Dumont d'Urville, well outside the subnet, received feedback only after the
+first finished garments had already been produced — Dumont d'Urville's own designers responding to a
+completed result rather than participating in the design's own development.
+
+### The Relay Question Dumont d'Urville Answered While the Line Was Still Open
+
+A routine question about Arcanet relay-nexus capacity, part of Janbogo's own duties as the subnet's relay
+point, was answered by Dumont d'Urville the moment it was asked — the two cities' shared subnet line making
+even minor technical coordination effectively a single continuous conversation.
+
+A subnet-external city with a related capacity question had no such immediacy — its own written inquiry
+arrived, was answered by mail, and required a full return trip of correspondence before the matter was
+considered settled.
+
+### The Letter Sejong Answered Before Its Own Season Ended
+
+A kinship inquiry sent to Sejong, tracing a family connection through Janbogo's own diaspora records, received
+a reply before the season in which it was sent had fully ended — a genuinely fast turnaround by cross-subnet
+standards, though still measured in weeks rather than the same-day exchanges Janbogo enjoyed with Zukelli.
+
+The same inquiry, if it had involved Dumont d'Urville instead, would have been answered within the hour over
+the subnet's own line — a contrast Janbogo's own record-keepers, per a surviving note, found genuinely
+striking once both timelines sat side by side.
+
+### The Hospitality Standard Mawson Learned Secondhand
+
+A hospitality-industry standard Janbogo developed for its own fused-fashion tourist trade reached Mawson only
+through a traveler's own secondhand account, since no formal channel existed to transmit the standard directly
+— Mawson's own hospitality planners working from an approximation rather than the original document.
+
+Zukelli, receiving the same standard directly over the subnet's own line, could implement it exactly as
+written — the difference between a faithful copy and an approximation tracing entirely to which side of the
+subnet boundary the recipient sat on.
+
+### The Redistribution Figures Esperanza Received a Full Season Late
+
+Demographic redistribution figures requested by Esperanza, hoping to compare Janbogo's own founding-era
+population patterns against its own, arrived by the slowest available route — Janbogo's own records office
+choosing careful compilation over speed, since no faster channel existed to send a correction if one turned
+out to be needed.
+
+Zukelli, requesting a related figure over the subnet's own line, received not just the number but an ongoing
+conversation about its own significance — a level of interpretive context Esperanza's own single mailed
+document simply couldn't carry.
+
+### The Fusion That Traveled Instantly Between Sisters and Slowly Everywhere Else
+
+Janbogo's own defining identity — a fused, synthesized fashion culture effectively inseparable from Zukelli's
+own — depended on genuinely instant, continuous coordination to function as a single shared creative
+tradition; within the subnet, that coordination was effectively seamless.
+
+Beyond the subnet, the same fused identity was understood and admired, but never actually participated in —
+Sejong, Mawson, Esperanza, and Byrd all knew Janbogo's own fashion culture as something to observe and
+request, never as something they could help shape in real time the way Zukelli and Dumont d'Urville could.

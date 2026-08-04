@@ -96,11 +96,11 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Shirayuki *(Tri-Cities)* | 36 | — | **Complete** |
 | **Tri-Cities combined** | **108** | **75** | **Exceeded — see note** |
 
-### Janbogo Subnet (target: 30 each, 210 total)
+### Janbogo Subnet (target: 36 each, 252 total)
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Janbogo | 30 | 30 | **Complete** |
+| Janbogo | 36 | 36 | **Complete** |
 | Fort McMurdo | 30 | 30 | **Complete** |
 | Dumont d'Urville | 30 | 30 | **Complete** |
 | Cape Adare | 30 | 30 | **Complete** |
