@@ -20,7 +20,11 @@ Mirny, Davis) and anything reaching Signy or Amundsen Station required trucking,
 traveling there. Dome Fuji doesn't appear here as a connection at all — consistent with the devotee-era
 religious link postdating Tower completion, one entry below instead treats Kunlun's own total absence of
 contact with Dome Fuji, despite comparable isolation, as the genuinely pre-Tower fact it actually was. 24
-done as of this batch.**
+done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity
+with genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md`
+(Kunlun = Pluto/extreme-isolation + Air/built-around-observation) as a thematic undertone. Dome Fuji still
+doesn't appear here, consistent with the devotee-era link postdating this batch's own timeframe too. 30 done
+as of this batch — Kunlun's own full target is now complete.**
 
 ---
 
@@ -397,3 +401,75 @@ than a brief administrative letter confirming neither station required anything 
 of contact between two facilities that would eventually become, in a much later era, each other's most
 important relationship in the country. At the time, they were simply strangers, each isolated in its own
 direction.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Verification Vostok Actually Requested for Once
+
+Following the earlier occasion where Kunlun verified a claim without traveling, Vostok's own researchers
+reversed the arrangement — asking Kunlun to confirm a specific measurement from Vostok's own genetics work
+independently, the first time the loneliest-outpost partnership had run a verification request in this
+direction.
+
+Kunlun's own researchers, per what's preserved of the exchange, treated the request with the same plain
+seriousness Vostok had originally shown — confirming the figure within the day, closing the loop on a
+verification relationship that had, until this point, only ever run one way.
+
+### The Relay Vaults Question That Finally Had a Complicated Answer
+
+Following the earlier honest answer about the Relay Vaults' own limitations, Mirny's own technicians sent
+Kunlun a considerably more detailed technical explanation once genuinely curious follow-up questions from
+Kunlun's own comms staff pushed past what the original honest-but-brief answer had covered.
+
+The exchange, per what's preserved of the record, took the better part of a working session to fully resolve
+— the first time Mirny's own honesty about the Vaults' own real limitations had been followed all the way
+through to a complete technical explanation rather than accepted at face value and left there.
+
+### The Sediment Caveat Davis Finally Explained in Full
+
+Following the earlier caveat Davis attached to a comparative sediment finding, Kunlun's own researchers asked
+directly what the caveat actually meant in practice — a question the original brief note hadn't fully
+addressed, now answerable in a single real-time conversation rather than requiring its own separate written
+follow-up.
+
+Davis's own researchers, per what's preserved of the exchange, walked through the specific methodological
+limitation in detail — the first time the original caveat had been fully unpacked rather than simply noted
+and left for each side to interpret on its own.
+
+### The Turbine Visit That Became a Standing Invitation
+
+Following the in-person visit that confirmed Signy's own reliability discipline matched Kunlun's own
+engineering culture, Signy's own engineers extended a standing invitation for the first time — an open offer
+for any Kunlun engineer to visit and observe the wind-and-hydro system directly, rather than the original
+visit remaining a singular occasion.
+
+At least one further visit was made under the new standing arrangement, per what's preserved of the record —
+proof the original consultation had produced something more lasting than a single data-gathering trip: a
+genuine, ongoing engineering relationship between two cities whose own extreme-condition disciplines
+recognized each other on sight.
+
+### The Observatory Data Amundsen Station Finally Requested Directly
+
+Following years of Kunlun's own observatory tracking the Amundsen Tower's construction optically without ever
+speaking to the Pole directly, Amundsen Station's own technical staff requested Kunlun's own accumulated
+observational logs formally, once national contact made the request possible — the first time the observatory
+that had watched the Tower rise in silence actually heard back from the structure itself.
+
+Kunlun's own observatory staff, per what's preserved of the exchange, supplied years of logged data
+compiled with no expectation anyone at the Pole would ever see it — proof that the years of one-way,
+silent observation had produced a genuinely valuable record, now finally read by the one recipient who could
+actually confirm or correct it.
+
+### The Second Inquiry That Confirmed the Reputation Was Real
+
+Following the original comms-relay question from a city Kunlun had never served, a second and then a third
+similar inquiry arrived from cities with no prior relationship to the observatory at all — confirming the
+original exchange hadn't been a one-time curiosity but the start of a genuine, if modest, national reputation
+for the observatory's own comms-relay expertise.
+
+Kunlun's own comms staff, per what's preserved of the pattern, answered each new inquiry with the same
+plain, task-driven thoroughness as the first — proof that a single consultation, once it happened, really
+could keep generating new contact long after the original reason for it had been resolved, exactly as the
+first exchange had suggested it might.

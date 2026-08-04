@@ -81,7 +81,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Mirny | 30 | 30 | **Complete** |
 | Casey | 30 | 30 | **Complete** |
 | Davis | 30 | 30 | **Complete** |
-| Kunlun | 24 | 30 | In progress |
+| Kunlun | 30 | 30 | **Complete** |
 | Vostok | 24 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 24 | — | In progress |
 | Sinheung *(Tri-Cities)* | 24 | — | In progress |
