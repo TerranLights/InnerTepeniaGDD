@@ -20,7 +20,13 @@ candidate date eventually wins.)* **Batch 3, per direct developer instruction, i
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Troll,
 Sinheung, Sayowa, Mawson, Davis, Kunlun) — still grounded in the research-station era except the Kunlun entry,
 explicitly marked as a later-period development consistent with batch 2's own framing note. 18 done as of
-batch 3.**
+batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
+pre-Tower communication structure, where direct digital contact existed only within the Mawson subnet
+(Mawson, Sayowa) and anything reaching Troll, Sinheung, Princess Elisabeth, or Davis required trucking,
+postal service, or physically traveling there — with the added wrinkle, per `feedback_extreme_altitude_
+arcanet`, that even Dome Fuji's own intra-subnet reach ran thinner than anywhere else in the country, Sayowa
+functioning as much as a physical relay point as a digital one. Kunlun doesn't appear here, consistent with
+the devotee-era religious link still postdating Tower completion. 24 done as of this batch.**
 
 ---
 
@@ -312,3 +318,75 @@ journey could have been planned with any confidence in real-time information abo
 What the expedition actually found, once it arrived, belongs to Dome Fuji's own later religious history. The
 planning itself belongs to the same connectivity story every other city in the country experienced, arriving
 here later, and differently, than everywhere else.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Nearest Neighbor That Was Still the Whole World
+
+Sayowa's status as Dome Fuji's own overland supply-chain gateway and aviation-route origin point made it, in
+practice, the only contact point the isolated station could reliably count on — not because a wire connected
+them the way it connected Mawson's other subnet neighbors, but because Sayowa was the one place close enough
+for word to travel by any means at all before the Tower existed.
+
+A specific supply confirmation, per what's preserved of the era's own routine, still had to be physically
+relayed rather than transmitted — Dome Fuji's own extreme-altitude limitations meant even a message to Sayowa,
+technically within the same subnet, moved more reliably by courier riding along the supply route than by any
+comms channel the station's own equipment could sustain.
+
+### The Hub Session Dome Fuji Joined Late, By Design
+
+The first three-way coordination session bringing Mawson, Sayowa, and Dome Fuji together to manage overlapping
+supply schedules included Dome Fuji only once conditions along its own thin connection happened to allow it —
+the station's own contribution arriving a full day after Mawson's and Sayowa's had already been exchanged.
+
+Mawson's own hub coordinators, per what's preserved of the session's own record, had learned to simply plan
+around Dome Fuji's own delayed participation as a matter of course — treating the isolated station's own
+input as valuable but never assuming it would arrive on the same timeline as anything exchanged between
+Mawson and Sayowa directly.
+
+### The Supply Flight Troll Sent Without Any Way to Confirm the Landing
+
+Troll's own direct aviation route, one of Dome Fuji's three confirmed supply lifelines, carried cargo the
+entire distance from the Halley subnet with no digital contact possible at either end — once a flight left
+Troll's own runways, nothing connected it to Dome Fuji until the aircraft itself touched down.
+
+A specific flight, per what's preserved of the incident, departed during genuinely uncertain weather with no
+way to confirm conditions had held at the destination — a decision made entirely on the forecast available at
+departure, since no channel existed to check partway through the way Troll could check conditions with Sanay
+or Belgrano within its own subnet.
+
+### The Second Route Sinheung Coordinated Entirely Through Mawson
+
+Sinheung's own independent aviation route toward Dome Fuji, routed through the city of Mawson, meant Sinheung
+itself never had any direct contact with Dome Fuji at all — every planning conversation ran through Mawson's
+own hub function first, since nothing connected Sinheung's dispatch office to the isolated station directly.
+
+A specific supply coordination, per what's preserved of the arrangement, required Mawson to relay information
+between Sinheung and Dome Fuji separately, in both directions, since the two ends of the route had no way to
+speak to each other — a three-step relay that, within any ordinary subnet, would simply have been a single
+direct conversation.
+
+### The Geographic Proximity That Never Became an Actual Connection
+
+Princess Elisabeth's own status as the closest Halley subnet city to Dome Fuji by longitude never translated,
+before the Tower, into anything resembling regular contact — the exact highway link between the two remained
+unconfirmed, and nothing digital crossed the distance regardless.
+
+A single documented attempt at correspondence, per what little survives of it, took the better part of a year
+to receive any reply to at all — a letter that had to travel first to Sayowa and then along whatever route
+eventually reached Dome Fuji's own extremely limited receiving capacity, proof that even a genuinely close
+geographic neighbor remained, for practical purposes, entirely out of reach.
+
+### The Climate Correspondence Davis Sustained Without Ever Getting a Fast Answer
+
+The independently-developed climate-record traditions connecting Dome Fuji's own ice-core archive to Davis's
+own lake-sediment methodology produced a correspondence that moved more slowly than almost any other
+subnet-external exchange in the country, given how thin Dome Fuji's own outside contact already was before
+factoring in the ordinary distance between the Mawson and Mirny subnets.
+
+A specific comparative request, per what's preserved of the exchange, took considerably longer to answer than
+an equivalent request to Kunlun would have taken Davis — Dome Fuji's own researchers, per what's remembered of
+the reply, working from records not fully organized for outside comparison, since almost no prior occasion had
+ever required the station to correspond with anyone this far away before.
