@@ -12,7 +12,10 @@ and `Specs/Davis.md` (Tier 2), and `Davis_Cross_Reference_Synthesis.md` (Tier 3)
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Mawson,
 Kunlun, Dome Fuji, Neumayer, Casey) distinct from batch 2's own generically-framed comparison entry. 18 done
-as of batch 3.**
+as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the
+actual pre-Tower communication structure, where direct digital contact existed only within the Mirny subnet
+(Casey, Mirny, Kunlun) and anything reaching Mawson, Dome Fuji, or Neumayer required trucking, postal
+service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -299,3 +302,77 @@ precedent maintained deliberately, generation after generation, because each coh
 crediting collectively rather than individually. Whether any inquiring research community adopted the practice
 elsewhere isn't preserved. The ethos itself, quietly maintained for generations without ever seeking outside
 attention, had for the first time been asked about directly by people who'd never worked at Davis at all.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Wildlife Bulletin That Reached Casey Before the Season Changed
+
+Davis's own careful field methodology, already producing detailed wildlife-activity data for its own research
+purposes, could be shared with Casey's own dispatchers over the Mirny subnet's instant line the same day a
+request arrived — practical safety information moving at a speed neither city had any equivalent access to
+outside the subnet.
+
+A specific seasonal shift in wildlife activity along a Casey-adjacent route, per what's preserved of the
+exchange, was flagged and confirmed usable within hours of Davis's own researchers noticing the pattern — a
+level of immediacy that, extended to a subnet-external safety inquiry, would have meant the bulletin arriving
+well after the season it described had already passed.
+
+### The Sediment Core Kunlun Borrowed for a Season, Then Compared for a Decade
+
+Kunlun's own ice-core archive and Davis's own lake-sediment methodology, both long-term climate-record
+traditions developed independently within the Mirny subnet's own reach, produced a genuine working
+collaboration coordinated entirely over the subnet's instant line — sample requests, dating comparisons, and
+follow-up questions answered within the same working day.
+
+A specific cross-reference, per what's preserved of the exchange, took less than a season to complete once
+both cities' own researchers could simply compare live data against each other — a pace of collaborative
+science neither Davis's nor Kunlun's own researchers had any comparable experience of when working with a
+research partner outside the Mirny subnet.
+
+### The Rescue Story Mawson Had to Ask About Twice
+
+The real-world rescue connection between Davis's and Mawson's own namesakes — one personally saving the
+other's stranded expedition — existed at Davis mostly as an underdeveloped historical footnote until a
+written inquiry from Mawson's own civic historians, crossing from the Mirny subnet into the Mawson subnet,
+asked for more detail than either city's own records had previously assembled.
+
+The reply Davis eventually sent, per what's preserved of the correspondence, took months to research properly
+and longer still to arrive at Mawson — genuinely new detail, once it finally came, that neither city had ever
+had reason to compile before a subnet-external inquiry prompted the research. Mawson's own historian, per
+what's remembered of receiving it, had to write back a full season later just to ask a single follow-up
+question.
+
+### The Ice-Core Comparison Dome Fuji Answered From Memory, Not Records
+
+The same independently-developed climate-record tradition connecting Davis to Kunlun also connected it,
+more thinly, to Dome Fuji's own ice-core archive — a correspondence that, crossing into the isolated Mawson
+subnet station, moved at whatever pace Dome Fuji's own already-thin outside contact allowed.
+
+A specific comparative request, per what's preserved of the exchange, took considerably longer to answer than
+an equivalent request to Kunlun would have — Dome Fuji's own researchers, per what's remembered of the reply,
+working partly from memory and partly from records not fully organized for outside comparison, since no prior
+occasion had ever required them to correspond with a researcher this far away before.
+
+### The Correspondence Neumayer Never Rushed
+
+Neumayer's own atmospheric and glaciological research and Davis's own paleoclimate sediment-core work,
+Tepenia's two most genuinely comparable "hard science" civic identities, produced a correspondence that could
+only move at the pace of mail crossing from the Mirny subnet into the Halley subnet.
+
+A specific methodology exchange on ice-core dating techniques, per what's preserved of the letters, unfolded
+across several years — each reply considered and drafted months after the letter it answered, a correspondence
+neither researcher ever described as frustrating, simply as the ordinary pace two subnets' own science moved
+at before anything faster existed.
+
+### The Data Set Casey Received Before Kunlun's Own Copy Left the Building
+
+A specific research data set, compiled jointly by Davis and requiring input from both Casey's dispatch records
+and Kunlun's own ice-core archive, was assembled and shared with Casey within a single working session over
+the subnet's instant line — the fastest data-sharing turnaround Davis's own researchers had on record.
+
+The same data set, prepared separately for a subnet-external research contact who'd requested a copy by
+letter, still hadn't left Davis's own mailing office by the time Casey's own copy had already been reviewed,
+discussed, and acted on — the two versions of the same request moving at entirely different speeds depending
+on nothing more than which side of the Mirny subnet boundary the recipient happened to sit on.
