@@ -15,7 +15,10 @@ file (Port Lockroy, Amundsen Station, Zukelli). 18 done as of batch 3. Batch 4, 
 instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
 direct digital contact existed only within the Janbogo subnet (Zukelli) and anything reaching Port Lockroy or
 Amundsen Station required trucking, postal service, or physically traveling there. 24 done as of this
-batch.**
+batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely
+fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Cape Adare =
+Earth/big-city-warmth-at-small-town-scale + Wood/generosity-and-community) as a thematic undertone. 30 done
+as of this batch — Cape Adare's own full target is now complete.**
 
 ---
 
@@ -371,3 +374,73 @@ The Zukelli shipment arrived within days. The letter to Port Lockroy took most o
 reply to at all — two pieces of correspondence, sent the same morning from the same office, arriving at
 entirely different speeds depending on nothing more than which side of the subnet boundary each was addressed
 to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Methodology Document Port Lockroy Sent That Actually Changed a Process
+
+Following the earlier written methodology guidance from Port Lockroy, Cape Adare's own archivists implemented
+a specific documentation change directly based on it — the first time an outside city's own preservation
+methodology had actually altered how Cape Adare itself catalogued its own Borchgrevink's Hut archive, rather
+than simply informing a comparison.
+
+Port Lockroy's own dispatchers, per what's preserved of learning about the adoption, treated the news with
+the same understated pride the city extended to most things — a methodology developed for one small city's
+own quiet purposes had traveled far enough to actually reshape how a comparably careful archive elsewhere
+did its own work.
+
+### The Tower Documentation Consultation That Continued Past the Tower Itself
+
+Following the original consultation on how to properly document the Amundsen Tower's own construction, Cape
+Adare's own archivists were asked to consult on a second, unrelated national documentation project — proof
+the original request hadn't been a one-time need but the start of Cape Adare's own methodology being treated
+as a standing national resource for major documentation efforts generally.
+
+Cape Adare's own archivists, per what's preserved of the second request, applied the same unhurried, careful
+standard as always — the first time their own methodology had been sought out for a project with nothing to
+do with the Tower at all, confirming the original consultation's real value hadn't been specific to that one
+structure.
+
+### The Second Curiosity Zukelli Sent About Penguins, Answered With a Full Report
+
+Following the original casual wildlife-guideline exchange, a considerably more serious inquiry arrived from
+Zukelli once a visiting researcher there became genuinely curious about Cape Adare's own long-term penguin
+population data — prompting Cape Adare's own harbor staff to compile a proper report rather than answer
+informally.
+
+The report, per what's preserved of its own creation, became something Cape Adare's own wildlife monitoring
+office kept updating afterward specifically because Zukelli's own continued interest gave the ongoing data
+collection a genuine outside audience for the first time.
+
+### The Marker Inquiry That Finally Got a Same-Day Answer
+
+Following the earlier heritage-marker inquiry that took months to answer due to distance, a second, similar
+inquiry from a different distant city was answered the same day it arrived — the same unhurried documentation
+discipline applied, simply no longer slowed by the postal distance that had delayed the original exchange.
+
+Cape Adare's own archivists, per what's preserved of the response, noted the contrast themselves — the
+content of the answer hadn't changed at all, only how long it took to actually reach the person who'd asked.
+
+### The National Gateway Report That Became Cape Adare's Own Standing Duty
+
+Following the first real-time arrival report filed with Amundsen Station, Cape Adare's own harbor staff
+formalized the practice into a standing responsibility — filing regular reports as a matter of course rather
+than only when a specific arrival prompted one.
+
+Cape Adare's own residents, per what's preserved of the shift, took quiet pride in the new formal role — the
+same practical, unshowy competence the harbor had always applied to local traffic, now recognized, officially,
+as a genuine piece of national maritime-safety infrastructure.
+
+### The Preservation Instinct Cited as the Country's Clearest Example
+
+Once national civic-culture comparison became genuinely possible, Cape Adare's own preservation-as-practice
+identity — the Borchgrevink's Hut archive chief among its expressions — became, for the first time, cited
+directly as the clearest example of the instinct in the entire country, ahead even of Port Lockroy's own
+comparable tradition.
+
+Cape Adare's own archivists, per what's preserved of the recognition, found the comparison slightly
+uncomfortable — the two cities had always understood their own preservation instincts as siblings, not
+rivals, and neither particularly wanted to be singled out as the "clearer" example of something they'd always
+considered a shared value rather than a competition.
