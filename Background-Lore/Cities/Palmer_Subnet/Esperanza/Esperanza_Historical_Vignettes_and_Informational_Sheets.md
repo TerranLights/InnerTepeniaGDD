@@ -9,7 +9,10 @@ Infrastructure_Attributes.md`'s 8 attributes and its Cross-Referenced Extrapolat
 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific city-to-city connection from that file. 18 done as of
-batch 3.**
+batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
+pre-Tower communication structure, where direct digital contact existed only within the Palmer subnet
+(Marambio) and anything reaching Belgrano or Janbogo required trucking, postal service, or physically
+traveling there. 24 done as of this batch.**
 
 ---
 
@@ -310,3 +313,83 @@ event — and received a detailed operational account neither city had ever had 
 before. The specific planning question Janbogo was working isn't preserved in detail. What is preserved is
 simpler: a small harbor, more famous locally for raising children than moving cargo, turned out to have real
 operational expertise another city's own transit hub found worth asking about directly.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Overflow Call That Never Left the Subnet
+
+The dockside emergency that first sent Marambio's own overflow cargo to Hope Bay Harbor was coordinated
+entirely over the Palmer subnet's own instant line — a decision made, confirmed, and acted on within the same
+hour the emergency itself began, since nothing stood between Esperanza and Marambio but a short conversation.
+
+Esperanza's own harbor staff, per what's preserved of the incident, had cargo space cleared and receiving
+procedures underway before the first redirected shipment had even left Marambio's own docks — a response time
+neither city could have matched for an equivalent emergency involving a subnet-external port, where the same
+conversation would have needed days rather than minutes to even confirm the other side had received the
+request at all.
+
+### The Letter Belgrano Answered With a Recipe Nobody Remembered Sending
+
+Esperanza's own inquiry to Belgrano, asking about a specific dish's own origins within the two cities' shared
+Argentine founding heritage, took the better part of a season to cross from the Palmer subnet into the Halley
+subnet and back — a question that, asked of Marambio instead, would have been answered before the asker had
+finished writing it down.
+
+The reply, once it finally arrived, came with a full recipe attached — considerably more than the original
+inquiry had actually asked for, per what's preserved of the letter itself, since Belgrano's own respondent had
+apparently decided a slow correspondence was worth making thorough rather than brief. Esperanza's own
+kitchens still use the recipe. Nobody currently working them remembers it arrived by a letter that took months
+to write, travel, and finally answer a question about where a dish had come from.
+
+### The Redistribution Question Janbogo Answered From Memory, Not Records
+
+Esperanza's own reduced population, part of the same administrative redistribution that enlarged Lazar
+alongside Janbogo and Zukelli, prompted a specific historical inquiry to Janbogo about how the event had
+actually been experienced on the receiving end — a question that could only be asked by letter, since nothing
+digital crossed from the Palmer subnet into the Janbogo subnet.
+
+Janbogo's own reply, per what's preserved of the correspondence, arrived months later and relied more on an
+elderly resident's personal recollection than on any formal municipal record — the same redistribution event
+Esperanza's own archivists had hoped to document precisely turning out, on the other end of a long postal
+route, to be remembered rather than filed. The correspondence closed the historical question well enough.
+It simply took most of a year to do it.
+
+### The Second Overflow, Planned in Minutes This Time
+
+A later dockside strain at Marambio, recognized early enough this time to plan for rather than simply react
+to, let Esperanza's and Marambio's own harbor staff coordinate a preventive cargo-sharing arrangement over the
+subnet's instant line well before conditions actually became critical.
+
+The arrangement itself, per what's preserved of the planning session, took less than an hour to agree on —
+proof, the second time around, that the two cities' shared subnet membership had turned what was once an
+emergency improvisation into something closer to an established, on-call standing procedure. Neither city
+treated the speed of the planning as remarkable by this point. It was simply how business between the two
+harbors had always worked once digital contact existed at all.
+
+### The Delegation That Walked Into Belgrano's Archive Unannounced
+
+A small Esperanza delegation, curious about the founding-era Argentine compact the two cities were rumored to
+share, traveled the entire distance from the Palmer subnet to Belgrano specifically because no faster way
+existed to check the rumor against Belgrano's own municipal archive.
+
+The delegation arrived with no advance confirmation their visit had even been expected — a letter announcing
+the trip had been sent, per what's preserved of the account, but there was no way to know it had actually
+been received before the travelers themselves showed up at Belgrano's own archive door. Belgrano's own
+archivists, per what's remembered of the visit, welcomed them anyway and spent the better part of a day
+searching records together — a research trip that, within the Palmer subnet, would have taken a single
+afternoon's conversation with Marambio instead.
+
+### The Manifest Marambio Confirmed Before Esperanza Finished Loading
+
+A joint shipment assembled from both Marambio's and Esperanza's own stock, ultimately bound for a destination
+outside the Palmer subnet, was coordinated in real time between the two harbors — packing order, weight
+allocation, and departure timing settled in a single exchange before either port had finished its own share of
+the loading.
+
+Once that shipment left the Palmer subnet, neither Esperanza nor Marambio retained any way to track its
+progress — the same instant coordination that had assembled the load in under an hour giving way, at the
+subnet boundary, to weeks of no confirmed word at all. Esperanza's own dockworkers, per what's remembered of
+the period, had grown used enough to the pattern that they simply logged the shipment as sent and moved on to
+the next.
