@@ -105,7 +105,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Dumont d'Urville | 36 | 36 | **Complete** |
 | Cape Adare | 36 | 36 | **Complete** |
 | Zukelli | 36 | 36 | **Complete** |
-| Scott | 30 | 30 | **Complete** |
+| Scott | 36 | 36 | **Complete** |
 | Denison | 30 | 30 | **Complete** |
 
 ### Mawson Subnet (target: 30 each, 90 total)

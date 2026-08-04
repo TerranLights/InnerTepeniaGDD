@@ -17,8 +17,10 @@ only within the Janbogo subnet (Fort McMurdo) and anything reaching Casey or Sig
 service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
 returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
 cross-referenced against `city-symbol-pairs.md` (Scott = Saturn/content-not-to-be-noticed +
-Water/quiet-stillness) as a thematic undertone. 30 done as of this batch — Scott's own full target is now
-complete.**
+Water/quiet-stillness) as a thematic undertone. 30 done as of this batch — Scott's own full target complete.
+Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower framing with genuinely fresh
+occurrences, distinct from both Batch 4 and each other, now also cross-referenced against Scott's own symbol
+pair. 36 done as of this batch.**
 
 ---
 
@@ -443,3 +445,69 @@ Several cities' own engineering offices, per what's preserved of the period, beg
 standards directly as an aspirational benchmark — the quiet city's own precision culture, always locally
 respected, finally measured nationally and found to be exactly as good as its own understated reputation had
 always claimed without ever needing to prove it.
+
+---
+
+## Batch 6 — Quiet Precision, Loudest to Its Nearest Neighbor
+
+### The Second Set of Numbers Fort McMurdo Didn't Actually Need
+
+A calibration figure recalculated for Fort McMurdo over the subnet's own instant line was double-checked and
+resent within the hour purely out of habit — Scott's own engineers, per a surviving note, admitting the
+second confirmation likely wasn't necessary, simply easy enough to provide that skipping it felt like an
+unnecessary risk.
+
+Casey, receiving a comparable figure by mail, had no opportunity for that kind of reflexive over-caution — a
+single number, sent once, had to be trusted as final regardless of how confident either side actually felt
+about it.
+
+### The Precision Question Casey Waited Out Because There Was No Alternative
+
+A detailed precision-tolerance question sent to Casey went unanswered for the better part of a season — not
+from any lack of diligence on Casey's own part, but because the question itself required several rounds of
+clarification that could only happen one slow letter at a time.
+
+Fort McMurdo, raising an almost identical category of question over the subnet's own line, resolved the
+entire exchange, clarifications included, within a single afternoon — the same underlying rigor, the same
+seriousness, arriving at two entirely different speeds.
+
+### The Friendship That Grew Fast With One Neighbor and Slow With Another
+
+Scott's own correspondence with Fort McMurdo, conducted almost entirely over the subnet's own line, developed
+into genuine personal familiarity within a matter of months — engineers on both sides exchanging not just
+technical questions but ordinary news, the kind of casual rapport instant contact makes almost inevitable.
+
+A comparable correspondence with Signy, necessarily conducted by mail, took years to reach a similar level of
+warmth — not because either side was less genuine, but because trust built one slow letter at a time simply
+needed more time to accumulate.
+
+### The Comparison Document That Existed in Two Versions at Once
+
+A joint civic-temperament comparison between Scott and Fort McMurdo, drafted collaboratively over the subnet's
+own line, existed as a single living document both cities kept revising together — while a parallel version,
+prepared separately for Casey's own review by mail, necessarily froze at whatever stage it had reached before
+being sent.
+
+Scott's own record-keepers, aware the two versions had already diverged, made a point of periodically sending
+Casey an updated copy regardless — an imperfect solution, but one considered better than letting a
+subnet-external partner work from a document that had already been quietly superseded.
+
+### The Modesty Fort McMurdo Never Had to Take on Faith
+
+Scott's own quiet, deliberately unnoticed civic character was something Fort McMurdo experienced directly and
+continuously — Scott's own understated precision visible in every routine exchange, never requiring
+explanation or advocacy.
+
+Casey and Signy, knowing the same reputation only through occasional correspondence, had to take Scott's own
+modesty largely on faith — the reputation itself accurate, but experienced as a description rather than
+something either city could verify for themselves on any regular basis.
+
+### The Stillness That Was Loudest Right Next Door
+
+Scott's own defining quality — content not to be noticed — held paradoxically true even in its closest
+relationship: Fort McMurdo knew Scott better than anyone, precisely because the subnet's own instant line let
+that quiet precision be demonstrated constantly rather than described occasionally.
+
+Scott's own engineers, per a surviving reflection, found something fitting in this — the city that most
+wanted not to be noticed was, in practice, most thoroughly known by the one neighbor close enough to actually
+watch it work.
