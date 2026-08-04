@@ -85,8 +85,8 @@ three existing per-city folders but tracked as one combined regional total below
 | Vostok | 24 | 30 | In progress |
 | Zhongshan *(Tri-Cities)* | 24 | — | In progress |
 | Sinheung *(Tri-Cities)* | 24 | — | In progress |
-| Shirayuki *(Tri-Cities)* | 18 | — | In progress |
-| **Tri-Cities combined** | **54** | **75** | **In progress** |
+| Shirayuki *(Tri-Cities)* | 24 | — | In progress |
+| **Tri-Cities combined** | **72** | **75** | **In progress** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
@@ -125,8 +125,14 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 702** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 144 + Janbogo subnet 126 +
+50 + 30). **Current: 750** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 126 +
 Mawson subnet 54 + Byrd 24 + Amundsen-Scott Station 12).
+
+**2026-08-03 — Mirny subnet batch 4 complete.** Mirny, Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and
+Shirayuki all completed batch 4 (subnet-bounded digital vs. cross-subnet traditional means) — all now 24/30
+(Tri-Cities combined 72/75, very close to its shared target). Kunlun's Dome Fuji entry was deliberately
+reframed as an absence of contact rather than a connection, consistent with the devotee-era religious link
+still postdating Tower completion.
 
 **2026-08-03 — Palmer subnet batch 4 complete.** Palmer City, Esperanza, Rothera, Marambio, Port Lockroy,
 Sejong, Signy, and Juan Carlos all completed batch 4 (subnet-bounded digital vs. cross-subnet traditional

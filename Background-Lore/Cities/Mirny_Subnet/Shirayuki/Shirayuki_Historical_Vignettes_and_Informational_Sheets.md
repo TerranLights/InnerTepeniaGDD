@@ -13,7 +13,10 @@ target shared with Zhongshan and Sinheung, 12 done as of that batch. Batch 3, pe
 instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
 once full national digital connectivity existed, each grounded in a specific named city-to-city connection
 from that file (Sayowa, Princess Elisabeth, Zhongshan, Sinheung) distinct from batch 2's own entries. 18
-done as of batch 3.**
+done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on
+the actual pre-Tower communication structure, where direct digital contact existed only within the Mirny
+subnet (Zhongshan, Sinheung) and anything reaching Sayowa or Princess Elisabeth required trucking, postal
+service, or physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -305,3 +308,77 @@ early self-understanding differently, a genuine distinction neither city had pre
 articulate. The exchange resolved nothing in particular. It gave both cities, for the first time, a specific
 point of comparison for a question about founding character neither had ever had an appropriate conversational
 partner to discuss with before.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Jeju-do Cluster That Never Needed a Formal Meeting to Coordinate
+
+Shirayuki's, Zhongshan's, and Sinheung's shared Jeju-do diplomatic founding gave the three cities the Mirny
+subnet's own instant reach to each other decades before the Tower existed — a standing closeness that made
+routine civic coordination feel less like inter-city diplomacy and more like managing one city with three
+addresses.
+
+A specific materials question, raised at Shirayuki and answered jointly by both cluster neighbors within the
+same working session, was resolved with neither side needing to schedule a formal exchange — simply asking,
+the same ordinary way any of the three cities handled a question for the other two, a level of casual ease no
+comparable three-city cluster split across different subnets could have sustained.
+
+### The Design Question Sinheung Answered While Shirayuki Was Still Drafting It
+
+A collaborative gallery-design project, drawing on Zhongshan's own architectural sensibility and requiring
+structural input from Sinheung's own manufacturing expertise, was worked out almost entirely in real time over
+the Tri-Cities' own shared subnet line — sketches, structural questions, and material suggestions exchanged
+faster than any single designer could have worked alone.
+
+The specific structural revision Sinheung suggested, per what's preserved of the project's own record, arrived
+before Shirayuki's own designer had finished the section of the drawing it applied to — a level of collaborative
+speed that would have been impossible with a subnet-external consultant, who'd have received the drawing
+itself only after it was already finished and mailed.
+
+### The Recipe Princess Elisabeth Waited a Season to Receive
+
+The reciprocal recipe exchange between Shirayuki and Princess Elisabeth, later celebrated as evidence of
+Tepenia's scattered Japanese-heritage communities staying connected, began as nothing more than a written
+request — crossing from the Mirny subnet into the Halley subnet at whatever pace the mail between the two
+allowed.
+
+The original letter, per what's preserved of the correspondence, took most of a season to arrive and longer
+still to receive a full reply, since the recipe itself required careful written instruction rather than a
+simple confirmation. Both cities' own kitchens eventually adopted the exchanged dishes. Getting there had
+taken considerably longer than either side's own eventual enthusiasm for the result would suggest.
+
+### The Institutional Comparison Sayowa Drafted Over Two Winters
+
+Shirayuki's own Bharati-Station-descended founding and Sayowa's own JARE heritage — Tepenia's two clearest
+living Japanese-institutional civic identities — prompted a specific comparative study conducted entirely by
+letter, crossing from the Mirny subnet into the Mawson subnet at the pace of the correspondence carrying it.
+
+The study, per what's preserved of the exchange, spanned close to two full winters before either city's own
+historians felt they'd gathered enough comparable institutional detail to draw a real conclusion — each round
+of findings mailed, considered, and answered months later, a pace that would have been a single season's
+worth of work had either city sat within the Mirny subnet instead.
+
+### The Same-Day Confirmation That Made Every Other Answer Feel Slow
+
+A specific scheduling question, raised with Zhongshan over the Tri-Cities' own instant line, was answered
+within minutes — routine enough that Shirayuki's own civic staff barely registered it as an exchange at all,
+simply the ordinary pace subnet business moved at.
+
+The same kind of scheduling coordination, attempted with Sayowa for an unrelated cultural exchange, took
+nearly a month to settle — several rounds of letters clarifying details that a single conversation would have
+resolved immediately. Shirayuki's own coordinator, per what's remembered of the comparison, described the
+contrast as simply "what it means to have a neighbor versus a pen pal."
+
+### The Manifest Zhongshan and Sinheung Confirmed Before Princess Elisabeth's Letter Even Arrived
+
+A joint shipment of materials, drawing on both Zhongshan's expertise and Sinheung's own manufacturing capacity,
+was finalized in a single real-time session over the Tri-Cities' shared subnet line — packing order and
+delivery timing agreed on within the hour, well before an unrelated letter to Princess Elisabeth confirming an
+entirely different, much smaller exchange had even left Shirayuki's own mailing office.
+
+The shipment reached its Mirny subnet destination within days. The letter to Princess Elisabeth, sent the same
+morning, took most of a season to receive any reply at all — two pieces of correspondence, sent from the same
+office on the same day, arriving at their destinations at completely different speeds depending on nothing
+more than which side of the subnet boundary each was addressed to.
