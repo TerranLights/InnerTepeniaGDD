@@ -104,7 +104,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Mawson | 24 | 30 | In progress |
+| Mawson | 30 | 30 | **Complete** |
 | Dome Fuji | 24 | 30 | In progress |
 | Sayowa | 24 | 30 | In progress |
 

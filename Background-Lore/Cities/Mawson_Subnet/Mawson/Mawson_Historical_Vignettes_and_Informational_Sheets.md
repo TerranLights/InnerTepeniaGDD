@@ -15,7 +15,11 @@ file (Neumayer, Palmer City, Davis, Sinheung, Janbogo, Sayowa/Dome Fuji). 18 don
 per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
 communication structure, where direct digital contact existed only within the Mawson subnet (Sayowa, Dome
 Fuji) and anything reaching Neumayer, Palmer City, Davis, Sinheung, or Janbogo required trucking, postal
-service, or physically traveling there. 24 done as of this batch.**
+service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
+returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Mawson = Earth/a-warm-generative-resort-town +
+Fire/romance-and-new-beginnings) as a thematic undertone. 30 done as of this batch — Mawson's own full target
+is now complete.**
 
 ---
 
@@ -372,3 +376,72 @@ The joint shipment reached both intra-subnet destinations within days. The lette
 season to receive any reply to at all — two pieces of correspondence, sent from the same office on the same
 morning, arriving at their destinations at completely different speeds depending on nothing more than which
 side of the subnet boundary each was addressed to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Honeymoon Booking Sayowa Helped Arrange Without Being Asked
+
+Following years of routine infrastructure coordination, Sayowa's own logistics office extended something new
+to Mawson for the first time — proactively flagging favorable transport windows for honeymoon travelers,
+having noticed the pattern simply from routinely handling Mawson's own supply logistics.
+
+Mawson's own hospitality office, per what's preserved of the exchange, hadn't specifically asked for the
+tip and said so with real appreciation — a small, unprompted kindness from a subnet-mate whose own role in
+Mawson's tourism economy had always been purely logistical until this point.
+
+### The Stress Test Dome Fuji Passed Without Anyone Watching Live
+
+Following the original three-way stress test involving Sayowa and Dome Fuji, a second, unplanned test occurred
+naturally once a genuine surge in national traffic volume hit the Mawson subnet's own hub coordination all at
+once — confirming, under real rather than deliberately engineered conditions, that the original test's own
+findings held up.
+
+Mawson's own hub coordinators, per what's preserved of the incident, treated the unplanned repeat as more
+convincing than the original deliberate test — proof under genuine pressure, not a controlled exercise, that
+the founding-era hub-coordination priority Mawson was built around actually worked when it mattered.
+
+### The Reciprocal Consultation That Became a Standing Arrangement
+
+Following the first reciprocal consultation Mawson gave to Palmer City, the exchange became a standing,
+occasional arrangement rather than a single occasion — both cities' own hospitality offices checking in
+periodically on guest-retention and tourism-economy questions, regardless of which one currently had the more
+pressing problem.
+
+Mawson's own administrators, per what's preserved of the arrangement, found real value in having a genuine
+peer to compare notes with — Tepenia's two deliberately-cultivated hospitality economies, previously compared
+only from the outside, now actually comparing themselves to each other directly and regularly.
+
+### The Rescue Story That Became a Real Piece of the Honeymoon Experience
+
+Following the earlier integration of the Davis-Mawson rescue story into Mawson's own tourism narrative, the
+story was formally incorporated into the honeymoon welcome program itself — a specific, brief telling of the
+real-world rescue connection now offered to every new arriving couple as part of the city's own hospitality
+tradition.
+
+Davis's own historians, per what's preserved of learning about the addition, found it a genuinely touching use
+of the research they'd helped confirm — a piece of two cities' own shared history, once a footnote, now
+actually part of how newlyweds experienced Mawson for the first time.
+
+### The Import Visibility That Finally Let Sinheung Plan a Season Ahead
+
+Following the original advance import-visibility arrangement with Sinheung, the relationship matured into
+full seasonal forecasting — Sinheung's own manufacturing floor now planning material orders a full season
+ahead based on Mawson's own logistics data, rather than reacting to shipment notifications as they came.
+
+Mawson's own logistics office, per what's preserved of the arrangement, found the shift satisfying in a quiet
+way — the same practical, dutiful service identity the city had always embodied, now simply operating a full
+season further ahead than it ever had before.
+
+### The Hospitality Comparison Janbogo Finally Published as a Joint Reference
+
+Following the shared hospitality training session with Janbogo, the two cities' own hospitality offices
+produced a formal joint reference document comparing transit-focused and destination-focused hospitality as
+two distinct disciplines — the first time either city's own approach had been written down as an actual
+methodology rather than practiced instinctively.
+
+Mawson's own administrators, per what's preserved of the project, found real value in articulating what had
+always simply been done by feel — the comparison with Janbogo forcing Mawson's own hospitality culture to
+explain itself precisely for the first time, in a way that made the city's own instincts sharper even for its
+own internal training afterward.
