@@ -14,7 +14,10 @@ Cross_Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done
 per direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that
 could only have happened once full national digital connectivity existed, each grounded in a specific named
 city-to-city connection from that file (Janbogo, Cape Adare, Dumont d'Urville, Esperanza). 18 done as of
-batch 3.**
+batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
+pre-Tower communication structure, where direct digital contact existed only within the Janbogo subnet
+(Janbogo, Cape Adare, Dumont d'Urville) and anything reaching Esperanza required trucking, postal service, or
+physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -300,3 +303,75 @@ who was actually hosting whom. The distant resident, per what's preserved of the
 never had a city close enough to have anything comparable — the first time Zukelli's own residents had
 described the Crossing to someone for whom the very idea was genuinely foreign, not just an unfamiliar
 specific tradition.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Crossing That Ran on Nothing But Proximity and an Instant Line
+
+The Crossing itself, blurring who was hosting whom between Janbogo and Zukelli, depended entirely on the
+Janbogo subnet's own instant reach — a resident deciding on short notice to visit could confirm the trip
+within minutes, the same casual spontaneity that made the tradition what it was.
+
+A specific Crossing, per what's preserved of the era's own routine, began with nothing more than one resident
+mentioning to a neighbor that she felt like visiting — confirmed with Janbogo directly before she'd even
+finished packing. That same casual spontaneity, attempted with any subnet-external city instead, simply
+couldn't have existed: no comparable visit could be arranged and completed the same day without a channel to
+ask and answer instantly first.
+
+### The Second Crossing Cape Adare Never Quite Managed to Join
+
+Cape Adare's own shared Janbogo subnet hospitality register with Zukelli produced constant, casual contact
+over the subnet's instant line — but the relationship never developed into anything resembling a true
+Crossing, since Cape Adare's own gateway duties kept its residents too occupied for the kind of spontaneous
+visiting Janbogo and Zukelli shared.
+
+A specific attempt to organize a joint gathering between all three cities, per what's preserved of the
+occasion, was proposed and largely settled within a single conversation over the subnet's instant line —
+proof that even a gathering that never quite came together as planned could still be arranged and adjusted in
+real time, a level of flexibility no subnet-external invitation could have offered.
+
+### The Venue Idea Dumont d'Urville Borrowed the Same Week It Was Tried
+
+Zukelli's own restaurant-performance tradition and Dumont d'Urville's own organically grown venue culture
+traded staging ideas constantly over the Janbogo subnet's instant line — a new approach tried at one city
+could be described, discussed, and adapted at the other before the original had even finished its first run.
+
+A specific performance-staging technique, per what's preserved of the exchange, was described to Dumont
+d'Urville's own venue organizers within days of its first use at Zukelli — and adapted for their own downtown
+scene almost as quickly, a pace of creative cross-pollination that a subnet-external hospitality city could
+never have matched.
+
+### The Redistribution Letter Esperanza Took a Season to Answer
+
+Zukelli's own reduced population, part of the same administrative redistribution that enlarged Lazar alongside
+Janbogo and Esperanza, prompted a written inquiry to Esperanza — curious how the same event had been
+experienced on the other side of it, a question that could only travel by letter across the distance from the
+Janbogo subnet into the Palmer subnet.
+
+Esperanza's own reply, per what's preserved of the correspondence, took the better part of a season to
+arrive — genuinely useful comparative detail, once it came, that Zukelli's own historians incorporated into
+their own account of the event, considerably later than the original question had hoped for an answer.
+
+### The Question Esperanza Asked Twice Because the First Letter Never Confirmed Arrival
+
+A specific follow-up question from Esperanza, curious about a detail in Zukelli's own earlier reply, was sent
+without any way to confirm the original letter had even been received — Esperanza's own historian, per what's
+preserved of the account, simply had to assume delivery and hope a reply would eventually come.
+
+The second letter arrived at Zukelli only slightly after what would have been a reasonable reply to the
+first — Zukelli's own recipients realizing, once they pieced the timeline together, that Esperanza had
+essentially sent the same question twice out of uncertainty rather than genuine follow-up curiosity, a small,
+telling detail about just how little confirmation subnet-external correspondence actually offered.
+
+### The Manifest Janbogo and Cape Adare Confirmed Before Esperanza's Letter Left the Building
+
+A joint shipment of hospitality goods, coordinated between Zukelli, Janbogo, and Cape Adare over the subnet's
+instant line, was finalized within a single afternoon — well before an unrelated letter to Esperanza,
+addressing an entirely different matter, had even left Zukelli's own mailing office that same morning.
+
+The joint shipment reached its intra-subnet destinations within days. The letter to Esperanza took most of a
+season to receive any reply to at all — two pieces of correspondence, sent from the same office on the same
+day, arriving at their destinations at completely different speeds depending on nothing more than which side
+of the subnet boundary each was addressed to.
