@@ -120,7 +120,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Byrd | 36 | 50 | In progress |
+| Byrd | 42 | 50 | In progress |
 
 ### Special: Amundsen-Scott Station (target: 20 min / 30 goal)
 
@@ -146,9 +146,24 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries, superseded — see the 2026-08-06 Batch 6 standard-target note above; the real,
-current target is higher and still growing as Batch 6 proceeds.** **Current: 1,236** (Halley subnet 258 +
-Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 252 + Mawson subnet 108 + Byrd 36 + Amundsen-Scott
+current target is higher and still growing as Batch 6 proceeds.** **Current: 1,242** (Halley subnet 258 +
+Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 252 + Mawson subnet 108 + Byrd 42 + Amundsen-Scott
 Station 12).
+
+**2026-08-06 — MILESTONE: Batch 6 (Byrd's own "Seventh Batch") is complete nationwide.** Every one of the 35
+outer cities + Tri-Cities has now received its batch 6 pass — six fresh occurrences per city, resting on the
+same pre-Tower, subnet-bounded-digital/cross-subnet-traditional-means condition as batch 4, now cross-
+referenced against each city's own `city-symbol-pairs.md` Planet + Robot-Element pair as an undertone. Every
+standard-target city moved from 30/30 to 36/36 (Abowasa unaffected, still paused at 6/30); the Tri-Cities
+region moved from 90/75 to 108/75 (target still stale, per the existing note, not a problem); Palmer City
+moved from 30/50 to 36/50; Byrd's own "Seventh Batch" returned to the Fifth Batch's own framing rather than a
+new structural lens, since Byrd has no subnet-mate at all and so no subnet-fast/cross-subnet-slow contrast to
+draw — Byrd moved from 36/50 to 42/50. Two corrections surfaced and were fixed in passing during this pass:
+Casey's own symbol-pair note had drifted to Jupiter when `city-symbol-pairs.md` has always had it at Mars, and
+Byrd's own Sixth Batch note had the same drift toward Pluto instead of Mars — both corrected in their
+respective files. Two open items carry forward unchanged: Rothera's own planet symbol remains TBD, pending
+"The Asteroid Belt" candidate; and Byrd and Palmer City remain the only two cities short of their elevated
+50-entry target (42/50 and 36/50 respectively).
 
 **2026-08-06 — Mawson subnet batch 6 complete — all 3 cities at 36/36.** Mawson, Dome Fuji, and Sayowa all
 completed batch 6. Dome Fuji's own entries continued to reflect its doubled isolation — thin, unreliable

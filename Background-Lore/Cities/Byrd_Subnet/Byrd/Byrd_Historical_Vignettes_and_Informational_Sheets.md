@@ -27,8 +27,15 @@ own physical-vs-digital isolation mismatch) is itself a post-Tower fact, not a p
 accordingly no "combine both" entry possible here, consistent with the developer's own note that this
 wouldn't be possible for every city. 30 done as of this batch. **Sixth Batch, per direct developer
 instruction, returns to post-Tower full connectivity with genuinely fresh occurrences distinct from the
-Fourth Batch, cross-referenced against `city-symbol-pairs.md` (Byrd = Pluto/the-most-isolated-city-in-Tepenia
-+ Earth/built-downward-into-the-ground) as a thematic undertone. 36 done as of this batch, target 50.**
+Fourth Batch, cross-referenced against `city-symbol-pairs.md` (Byrd = Mars/lay-dormant-then-revived-by-an-
+exploration-crew + Earth/built-downward-into-the-ground) as a thematic undertone. **Correction, 2026-08-06:**
+the note above previously misstated Byrd's own planet as Pluto; `city-symbol-pairs.md` has always had Byrd at
+Mars, corrected here in passing. 36 done as of this batch, target 50. **Seventh Batch, per direct developer
+instruction, returns to the Fifth Batch's own pre-Tower framing — Byrd, alone in the country, has no
+subnet-mate at all, so there is no subnet-fast/cross-subnet-slow contrast to draw the way every other city's
+own Batch 6 could; the condition is simply "no digital contact with anyone, full stop," the same as the Fifth
+Batch, requiring genuinely fresh occurrences under that identical condition rather than a new structural
+lens. Cross-referenced against Byrd's own (corrected) symbol pair. 42 done as of this batch, target 50.**
 
 ---
 
@@ -513,3 +520,80 @@ Byrd's answer, per what's preserved of the exchange, favored neither outright, i
 specific elements of each approach Byrd had already arrived at independently and which it had not — a
 comparison only possible once all three cities' engineering could finally be laid side by side and read in
 full, rather than assembled piecemeal across a year of separate, slow-arriving letters.
+
+---
+
+## Seventh Batch — No Faster Way Existed, Full Stop
+
+### The Component Sinheung Built Without Ever Meeting the City That Ordered It
+
+A specialized fabrication-chamber component, ordered from Sinheung's own manufacturing floor to repair a
+critical piece of Byrd's own equipment, was specified entirely through a single detailed written order — no
+follow-up clarification possible in any useful timeframe, so Byrd's own engineers front-loaded every
+conceivable specification into the original letter rather than risk a second round-trip along Hwy 1 → Hwy 22
+and whatever route reached Sinheung beyond it.
+
+The component arrived, months later, built correctly on the first attempt — a genuine credit to Sinheung's own
+manufacturing precision, but also, per Byrd's own engineers' surviving notes, a small miracle of the original
+order's own thoroughness, since neither city had any way to know a mistake had been made until the part was
+already installed and either worked or didn't.
+
+### The First Letter That Ever Mentioned Byrd's Lake to Vostok
+
+Long before the genetics expedition that would eventually transplant and cultivate it, Byrd's own subglacial
+lake ecosystem was first mentioned to Vostok in a single exploratory letter — a researcher describing an odd
+local finding almost in passing, with no expectation the mention would lead anywhere in particular.
+
+The reply, when it eventually came, took the better part of a year to arrive and asked considerably more
+detailed questions than the original letter had anticipated — the beginning, per what's preserved of the
+correspondence, of a relationship that would eventually require an entire physical expedition to properly
+pursue, but that started as nothing more than one city mentioning something interesting to another with no
+faster way to follow up.
+
+### The Structural Certification Neumayer Sent Once and Byrd Trusted Completely
+
+A structural certification for one of Byrd's own critical support systems, drawn up by Neumayer's own
+engineers based entirely on written specifications Byrd had sent by mail months earlier, arrived with no
+opportunity for Byrd's own builders to review or question it before construction had to proceed.
+
+Byrd's own engineers, per a surviving account, built to the certification exactly as received — there being no
+practical way to request a revision and receive one before the relevant construction phase would have already
+had to move forward regardless, trust in Neumayer's own precision standing in for the kind of iterative review
+Neumayer's own subnet-mates could have expected instead.
+
+### The Trade Curiosity Janbogo Answered Without Any Promise of a Reply
+
+An idle question from Janbogo, asking whether Byrd's own isolated economy had ever developed anything
+resembling Janbogo's own fused-fashion trade goods, was answered honestly — it hadn't, not really — in a
+letter that took months to compose and send, since Byrd's own trade office had no particular reason to
+prioritize a question with no obvious follow-up implied.
+
+Janbogo never wrote back. Byrd's own record-keepers, noting the silence years later while cataloguing old
+correspondence, couldn't tell whether the letter had simply answered the curiosity completely or had gone
+unanswered for some more ordinary reason — the kind of small, permanently unresolved uncertainty that came
+standard with correspondence that could only ever travel one slow direction at a time.
+
+### The Feasibility Study Marambio Conducted Without Byrd's Own Input
+
+Long before the overland corridor connecting Byrd to Marambio and Palmer City had actually been tested and
+proven reliable, Marambio's own logistics office conducted a feasibility study on the route's own likely
+capacity — working entirely from old survey data and secondhand accounts, since no faster way existed to
+simply ask Byrd's own planners how the road was actually holding up.
+
+The study, once it reached Byrd by the same slow corridor it was analyzing, turned out to have gotten several
+details wrong — details Byrd's own planners could have corrected in a single afternoon's conversation, had any
+faster channel existed, but that instead went uncorrected for years, since neither city had any particular
+reason to revisit a study once filed.
+
+### The City That Measured Every Relationship the Same Way
+
+Every one of Byrd's own outside relationships — with Belgrano, Neumayer, Marambio, Palmer City, Janbogo,
+Vostok, Sinheung, Rothera, and Denison alike — moved at exactly the same speed before the Tower: however fast
+a truck could travel Hwy 1 → Hwy 22, however fast the mail could carry a letter beyond it, or however long a
+physical journey actually took. Unlike every other city in the country, Byrd had no faster tier available to
+any relationship at all, no subnet-mate to compare the slow correspondence against.
+
+Byrd's own historians, reflecting on this uniform condition long after the Tower had changed it, noted that
+the flattening had its own strange fairness to it — Byrd never had to wonder whether a given city was being
+kept at arm's length, because every single relationship the isolated, revived city maintained was conducted
+at exactly the same careful, deliberate distance.
