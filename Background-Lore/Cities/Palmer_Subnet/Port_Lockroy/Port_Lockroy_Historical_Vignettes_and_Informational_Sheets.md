@@ -9,7 +9,10 @@ Physical_Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced E
 target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is framed around
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific city-to-city connection from that file. 18 done as of
-batch 3.**
+batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
+pre-Tower communication structure, where direct digital contact existed only within the Palmer subnet (Juan
+Carlos) and anything reaching Zhongshan or Cape Adare required trucking, postal service, or physically
+traveling there. 24 done as of this batch.**
 
 ---
 
@@ -308,3 +311,80 @@ similar enough, and different enough, to be genuinely useful reference points fo
 Port Lockroy's own residents, per what's recalled of learning about the citation, treated the news with the
 same understated pride the city applied to most of its own quiet achievements — pleased, without making
 particular ceremony of it.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Postal Question Juan Carlos Could Answer Before the Post Left
+
+Port Lockroy's own postal-correspondence network handled mail bound throughout the Palmer subnet, coordinating
+routing and priority directly with Juan Carlos's own immigration and archive offices over the subnet's instant
+line — questions about a specific piece of mail's own status answered in minutes rather than left to resolve
+themselves once the letter eventually arrived or didn't.
+
+A specific misrouted shipment, per what's preserved of the incident, was traced and corrected within the same
+afternoon once Port Lockroy's own dispatch office could simply ask Juan Carlos directly whether a particular
+piece of mail had passed through — a level of tracking neither office could extend to anything addressed
+beyond the Palmer subnet, where the same question would have gone unanswered until the letter itself either
+arrived or was declared lost.
+
+### The Long Record Entry Zhongshan Sent Without Knowing If It Would Ever Arrive
+
+Zhongshan's own Long Record and Port Lockroy's own accounted-for-history civic instinct produced, once each
+city's own archivists learned the other existed, a specific written exchange of historical methodology —
+sent by post across the entire distance from the Mirny subnet to the Palmer subnet with no way to confirm
+receipt until a reply, if any came, eventually arrived.
+
+The first letter, per what's preserved of the exchange, took nearly half a year to reach Port Lockroy — long
+enough that Zhongshan's own archivist had, by her own account, largely given up expecting a reply by the time
+one finally came. The correspondence that followed continued for years at the same unhurried pace, neither
+side ever treating the delay as reason to stop.
+
+### The Preservation Standard Cape Adare Requested in Writing
+
+Cape Adare's own heritage-documentation methodology, later cited formally alongside Port Lockroy's own Wall
+tradition, began as a written request for guidance — Cape Adare's own archivists, working the Janbogo subnet's
+own preservation projects, having heard secondhand of Port Lockroy's own reputation for documentation
+discipline.
+
+The reply Port Lockroy sent back, per what's preserved of the correspondence, took the shape of a detailed
+methodology document rather than a simple letter — genuinely useful material that, once it finally arrived at
+Cape Adare months after being mailed, became a working reference for the archive's own internal standards long
+before either city could simply compare notes directly.
+
+### The Panel Explained Twice, Once by Post and Once in Person
+
+An early inquiry about the Communal Stone Wall's own tradition, arriving from a Janbogo subnet resident with
+no prior connection to Port Lockroy at all, was answered first by letter — and then, months later, in person,
+once the same resident made the trip specifically to see the Wall directly after reading the written
+explanation.
+
+Port Lockroy's own residents, per what's remembered of the visit, found the in-person follow-up almost
+touching — a written answer, sent across a distance neither city's own digital reach could cross, had proven
+compelling enough that its recipient chose to travel the same distance in person rather than simply accept
+the letter as sufficient.
+
+### The Archive Cross-Reference That Took a Season to Confirm
+
+A specific historical claim in Port Lockroy's own records, referencing an event Juan Carlos's own formal
+Federation archive might also have documented, was confirmed within a single working session once Port
+Lockroy's own archivists could simply ask Juan Carlos directly over the subnet's instant line.
+
+The same kind of cross-reference, attempted against Zhongshan's own Long Record instead, took the better part
+of a season to resolve — a written request, a search through Zhongshan's own holdings, and a reply mailed
+back across the full distance between the two subnets. Both cross-references eventually confirmed Port
+Lockroy's own original claim. Only one of them took an afternoon.
+
+### The Courier Route Port Lockroy Never Fully Trusted
+
+Port Lockroy's own postal-correspondence network extended, in principle, to any city in the country willing to
+exchange mail — but the courier route reaching Cape Adare specifically ran through enough intermediate hands,
+crossing from the Palmer subnet through however much of the Janbogo subnet's own internal routing a piece of
+subnet-external mail required, that Port Lockroy's own dispatchers quietly maintained duplicate copies of
+anything genuinely important sent that way.
+
+That caution proved warranted at least once, per what's preserved of the incident, when a specific
+correspondence to Cape Adare never arrived at all — the duplicate copy, sent weeks later once the original's
+loss was confirmed, finally completing an exchange that would have taken a single confirmed message within the
+Palmer subnet instead of two full attempts across it.
