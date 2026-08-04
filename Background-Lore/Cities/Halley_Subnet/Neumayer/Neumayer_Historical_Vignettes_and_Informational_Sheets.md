@@ -13,7 +13,10 @@ connection from that file and in Neumayer's own established struggles. Batch 4, 
 instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
 direct digital contact existed only within a city's own subnet (Halley, Lazar) and anything reaching Sinheung,
 Byrd, Mawson, or Davis — all outside the Halley subnet — required trucking, postal service, or physically
-traveling there. Target 30, 24 done as of this batch.**
+traveling there. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with
+genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Neumayer
+= Neptune/Diligence + Metal/Precision) as a thematic undertone. Target 30, 30 done as of this batch —
+Neumayer's own full target is now complete.**
 
 ---
 
@@ -424,3 +427,81 @@ themselves, unfolded across several years rather than the single conversation it
 contact existed — each reply considered, drafted, and sent months after the letter it answered, an entire
 scientific correspondence conducted at a pace neither researcher ever described as frustrating, simply as how
 the work between two subnets was done.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Chamber Question Byrd Finally Got Answered the Same Day
+
+Byrd's own Chamber Works, building from the same Mark IV schematic Neumayer had drafted for Sinheung, had
+historically waited months for any clarification on a design question — the physical distance and lack of
+prior direct contact meant Byrd's own engineers usually worked around ambiguities rather than ask. The first
+same-day resolution came once a Byrd technician, reaching Neumayer's own drafting office directly over the
+relay, described a tolerance problem neither Neumayer nor Byrd had previously discussed.
+
+The answer Neumayer's engineers gave, per what's preserved of the exchange, corrected an assumption Byrd's
+own crew had been quietly working around for years without ever confirming it was wrong. Production adjusted
+within the week. It was the first time either of the two Cradle-network chamber manufacturers Neumayer's own
+uncredited design work supported had actually spoken to the office that drafted it, rather than simply
+building from paper.
+
+### The Revision Sinheung Suggested Back
+
+Sinheung's own manufacturing floor, building the Mark IV chamber schematic to spec for years, had never once
+proposed a change to Neumayer's own original design — the schematic was something received, not something
+discussed. The first suggested revision came once a Sinheung floor engineer, in direct contact with Neumayer's
+drafting office for an unrelated question, mentioned an assembly-order adjustment that had quietly made her
+own crew's work easier for years.
+
+Neumayer's own engineers, per what's preserved of the exchange, incorporated the suggestion into the next
+schematic revision — the first time the Mark IV design had ever been improved by the people actually building
+it rather than only by the office that drew it. Sinheung's own floor treated the credit, when it came, as
+beside the point; the schematic simply worked better afterward.
+
+### The Finding Davis and Neumayer Reached Together, Not Separately
+
+Following years of correspondence comparing ice-core and lake-sediment dating methods, Neumayer's and Davis's
+own researchers held their first genuine joint working session over the relay — reviewing both data sets
+side by side in real time rather than trading finished conclusions after the fact.
+
+The session, per what's preserved of the record, produced a finding neither city's own researchers had
+reached independently: a specific climate-signal correlation visible only once both records were compared
+directly against each other at matching resolution, something neither institution's own isolated analysis had
+been positioned to notice. It became the first result credited jointly to both cities rather than to either
+one's own separate research program.
+
+### The Halley Engineer Who Finally Met Her Own Correspondent's Family
+
+The Halley-Neumayer courtship already part of local memory produced a quieter second story once the couple's
+own extended families, previously known to each other only through the letters and later the daily
+conversations that had built the relationship, finally met in person at a gathering neither side had needed
+years of advance planning to arrange.
+
+The visit itself, per what's remembered of it, was unremarkable in every practical sense — a weekend, a meal,
+introductions. What mattered, per what's preserved of the account, was that it happened at all inside a single
+season of planning, something neither family could have managed under the old system without the relationship
+itself having already been built at conversational speed first.
+
+### The Design Question Mawson Asked Years After Calethina Was Finished
+
+Long after Calethina's own installation at Mawson was complete, a maintenance question from Mawson's own
+hospitality staff reached the Neumayer engineer who had originally drafted her spec — the first time anyone
+at Mawson had spoken directly with her designer rather than working from the original documentation alone.
+
+The engineer, per what's preserved of the exchange, was surprised to be asked anything at all this long after
+finishing the project, and answered in detail — closing a loop that, under the old system, would have simply
+stayed open indefinitely, Mawson's own staff continuing to work around an ambiguity rather than ever getting
+a direct answer from the person who could actually resolve it.
+
+### The Precision Standard Neumayer Didn't Know It Had Set
+
+A specification originally drafted for Neumayer's own internal engineering use — a tolerance standard for
+precision instrument calibration — turned out, once national technical correspondence made this kind of
+cross-referencing possible, to have been informally adopted by engineering teams in at least three other
+cities who had encountered it secondhand and simply started using it themselves.
+
+Neumayer's own engineers, per what's preserved of the discovery, learned of this only when one of the
+adopting cities asked a follow-up question assuming Neumayer already knew its own standard had spread. It
+hadn't. The standard itself didn't change. What changed was Neumayer finally learning, directly and all at
+once, exactly how far its own quiet, uncredited precision work had actually traveled.
