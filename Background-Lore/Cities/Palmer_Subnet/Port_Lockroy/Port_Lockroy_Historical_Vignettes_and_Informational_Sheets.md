@@ -12,7 +12,10 @@ connectivity existed, each grounded in a specific city-to-city connection from t
 batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual
 pre-Tower communication structure, where direct digital contact existed only within the Palmer subnet (Juan
 Carlos) and anything reaching Zhongshan or Cape Adare required trucking, postal service, or physically
-traveling there. 24 done as of this batch.**
+traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower
+full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Port Lockroy = Neptune/diligence + Water/the quiet flowing medium) as a thematic
+undertone. 30 done as of this batch — Port Lockroy's own full target is now complete.**
 
 ---
 
@@ -388,3 +391,78 @@ That caution proved warranted at least once, per what's preserved of the inciden
 correspondence to Cape Adare never arrived at all — the duplicate copy, sent weeks later once the original's
 loss was confirmed, finally completing an exchange that would have taken a single confirmed message within the
 Palmer subnet instead of two full attempts across it.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Postal Route Port Lockroy Never Needed to Duplicate Again
+
+Following the lost correspondence to Cape Adare, Port Lockroy's own dispatchers, once the national relay
+existed, adopted a simple new practice — confirming delivery digitally the moment anything genuinely
+important reached its destination, ending the old duplicate-copy precaution that had quietly doubled the
+workload on every important piece of mail sent beyond the Palmer subnet.
+
+The change, per what's preserved of the record, was almost anticlimactic — no dramatic incident prompted it,
+simply the recognition that a habit built to compensate for total uncertainty no longer needed to exist once
+uncertainty itself was gone. Port Lockroy's own dispatchers, per what's remembered of the adjustment, took
+a full season to fully trust the new confirmation system before actually retiring the old one.
+
+### The Methodology Document Juan Carlos Asked Port Lockroy to Formally Co-Author
+
+Following the earlier informal methodology comparison between the two civic memory-keeping identities, Juan
+Carlos's own archive staff proposed something more permanent — a jointly authored reference document
+comparing postal-correspondence archiving and formal Federation record-keeping as two distinct but related
+disciplines.
+
+Port Lockroy's own dispatchers, per what's preserved of the project, contributed a full account of their own
+accounted-for-history civic instinct for the first time in a formal, citable document rather than as informal
+correspondence — the first time the city's own quiet philosophy of preservation had been written down as an
+actual methodology rather than simply practiced.
+
+### The Long Record Entry That Finally Named Port Lockroy Directly
+
+Following the earlier exchange establishing the shared underlying value between Port Lockroy's Wall and
+Zhongshan's Long Record, Zhongshan's own archivists formally added a cross-reference entry to the Long Record
+itself — the first time an outside city's own preservation tradition had been directly cited, by name, inside
+Zhongshan's own primary historical document.
+
+Port Lockroy's own residents, per what's preserved of learning about the citation, treated it with the same
+understated pride the city extended to most things — a small, permanent acknowledgment inside the most
+complete historical record in the Mirny subnet, earned by a much smaller city's own quiet, decades-long
+preservation habit.
+
+### The Preservation Standard That Traveled Further Than Cape Adare
+
+Following Cape Adare's own formal citation of Port Lockroy's own preservation methodology, at least two
+additional cities — neither with any prior relationship to Port Lockroy at all — requested the same reference
+material once they learned, through routine national correspondence, that a documented methodology existed at
+all.
+
+Port Lockroy's own dispatchers, per what's preserved of the pattern, answered each request the same way they
+answered everything — plainly, without particular ceremony, extending the same discipline that had first
+been documented for one city's own benefit to whoever else found it useful.
+
+### The Panel Explained a Third Time, This Time to Someone Who Never Had to Travel
+
+Following the earlier written-then-in-person explanation of the Communal Stone Wall's own tradition, a third
+inquiry — this time conducted entirely over the relay, in real time — let a curious resident from a genuinely
+distant city ask questions and receive answers in the same conversation, rather than needing either a long
+wait or a long journey to understand the tradition fully.
+
+Port Lockroy's own residents, per what's preserved of the exchange, found themselves explaining the Wall in
+a form more conversational than either the original letter or the in-person visit had allowed — questions and
+follow-up questions moving back and forth in a single sitting, the first time the tradition had ever been
+explained this interactively to someone who'd never actually seen it.
+
+### The Personal Correspondence Habit That Became a Small National Curiosity
+
+Once national correspondence data made patterns visible that had previously only existed as anecdotes, it
+became clear for the first time just how disproportionately much of the country's own personal, non-official
+mail had always routed through Port Lockroy's own network relative to the city's modest size.
+
+Several cities' own civic historians, per what's preserved of the period, found the pattern worth remarking on
+directly — proof that Port Lockroy's own "living memory" identity extended well beyond its own Wall and into
+something more diffuse: a genuine, quietly disproportionate role in how the whole country's people had stayed
+personally connected to each other for generations, never centrally noticed until the data itself finally
+made it visible.
