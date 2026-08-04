@@ -15,7 +15,10 @@ Kunlun, Dome Fuji, Neumayer, Casey) distinct from batch 2's own generically-fram
 as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the
 actual pre-Tower communication structure, where direct digital contact existed only within the Mirny subnet
 (Casey, Mirny, Kunlun) and anything reaching Mawson, Dome Fuji, or Neumayer required trucking, postal
-service, or physically traveling there. 24 done as of this batch.**
+service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
+returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Davis = Earth/the breadbasket, doubled as both planet and
+element) as a thematic undertone. 30 done as of this batch — Davis's own full target is now complete.**
 
 ---
 
@@ -376,3 +379,77 @@ The same data set, prepared separately for a subnet-external research contact wh
 letter, still hadn't left Davis's own mailing office by the time Casey's own copy had already been reviewed,
 discussed, and acted on — the two versions of the same request moving at entirely different speeds depending
 on nothing more than which side of the Mirny subnet boundary the recipient happened to sit on.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Rescue Story Mawson Finally Got to Tell in Full
+
+Following the joint research confirming the real-world rescue connection between the two cities' own
+namesakes, Mawson's own historians used the newly instant channel to ask Davis a considerably more personal
+follow-up — what, if anything, Davis's own founding generation had known about the connection when the city
+was first named.
+
+Davis's own archivists, per what's preserved of the exchange, found a specific founding-era reference
+confirming the connection had, in fact, been known and deliberately honored from the very beginning — closing
+a question neither city's own records had definitively answered before direct, rapid back-and-forth research
+made settling it in a single afternoon possible.
+
+### The Second Core Kunlun Sent Without Being Asked
+
+Following the original sediment-core comparison, Kunlun's own researchers sent a second, unrelated ice-core
+sample directly to Davis once an unrelated finding in their own archive suggested it might be relevant to
+Davis's own ongoing paleoclimate work — the first time either city had proactively shared material rather than
+only responding to a specific request.
+
+Davis's own researchers, per what's preserved of the exchange, hadn't asked for the sample and said so
+plainly in their own acknowledgment — the same casual generosity Vostok and Kunlun extended to each other as
+extreme-isolation partners, now extended outward to a third research city simply because the connection made
+it easy.
+
+### The Climate Correspondence That Finally Included Dome Fuji's Own Researchers Directly
+
+Following the earlier climate-record cross-reference conducted at arm's length, Dome Fuji's own researchers —
+despite the station's own famously thin outside connectivity — joined a live three-way research session for
+the first time, alongside Davis and Kunlun, comparing all three cities' own long-term climate archives
+together in real time.
+
+The session, per what's preserved of the record, was genuinely difficult to arrange given Dome Fuji's own
+extreme-altitude Arcanet limitations, but it happened — the first time the isolated station's own research had
+been compared live against two other cities' archives simultaneously, rather than through the slower,
+one-directional correspondence the original exchange had relied on.
+
+### The Methodology Question Neumayer Sent That Davis Had Never Considered
+
+Following the earlier joint finding on ice-core dating methodology, Neumayer's own researchers returned with a
+genuinely difficult follow-up — whether Davis's own lake-sediment techniques could be adapted to a
+glaciological question Neumayer itself had never approached from a sediment-based angle before.
+
+Davis's own researchers, per what's preserved of the exchange, spent considerable effort working through the
+adaptation and ultimately concluded it was possible but imperfect — a genuinely collaborative research dead
+end that nonetheless produced a clearer understanding, for both cities, of exactly where their two methods'
+own limits actually sat.
+
+### The Wildlife Data That Became a Standing Subscription
+
+Following the original one-time wildlife-activity request from Casey, the arrangement became a standing
+subscription — Casey's own dispatchers receiving Davis's own seasonal wildlife updates automatically rather
+than needing to ask each time a new pattern developed.
+
+Davis's own researchers, per what's preserved of the arrangement, treated the automation as simply removing
+friction from something they'd have shared anyway — proof that a single practical request, once the
+underlying channel existed, could quietly become permanent infrastructure without either side deciding it
+should.
+
+### The Breadbasket Cited Nationally for the First Time as More Than a Nickname
+
+Once national agricultural planning became genuinely comparable across the country, Davis's own established
+"breadbasket" identity — long a locally understood shorthand — became, for the first time, a specific,
+citable data point in other cities' own food-security planning discussions, backed by actual production
+figures rather than reputation alone.
+
+Davis's own agricultural administrators, per what's preserved of the period, found the attention validating
+in a quiet way — the nickname had always been accurate, but only now, with real national comparison possible,
+did the rest of the country actually understand exactly how load-bearing Davis's own patient, sheltered
+growing operation genuinely was.
