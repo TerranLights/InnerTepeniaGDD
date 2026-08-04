@@ -16,7 +16,10 @@ Byrd, Mawson, or Davis — all outside the Halley subnet — required trucking, 
 traveling there. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with
 genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Neumayer
 = Neptune/Diligence + Metal/Precision) as a thematic undertone. Target 30, 30 done as of this batch —
-Neumayer's own full target is now complete.**
+Neumayer's own full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own
+pre-Tower, subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4 and each other,
+now also cross-referenced against Neumayer's own symbol pair. Target effectively 36, 36 done as of this
+batch.**
 
 ---
 
@@ -505,3 +508,75 @@ Neumayer's own engineers, per what's preserved of the discovery, learned of this
 adopting cities asked a follow-up question assuming Neumayer already knew its own standard had spread. It
 hadn't. The standard itself didn't change. What changed was Neumayer finally learning, directly and all at
 once, exactly how far its own quiet, uncredited precision work had actually traveled.
+
+---
+
+## Batch 6 — Precision Work That Moved at Two Different Speeds
+
+### The Tolerance Question Halley Never Had to Wait For
+
+A component-tolerance question sent to Halley over the subnet's own instant line was answered the same
+afternoon, refined twice more by evening, and settled — the kind of rapid, iterative back-and-forth Neumayer's
+own design process depended on, run so routinely between subnet-mates that neither city thought to remark on
+its speed.
+
+The identical class of question, sent the same week to a subnet-external city working a related problem, took
+most of a season to receive even a first reply — not from any lack of interest, but because the letter had to
+travel by truck out of the subnet before it could reach anyone at all, then wait for a reply to make the same
+trip back.
+
+### The Design Lazar Built From Before Neumayer Ever Saw It Finished
+
+A structural design Neumayer transmitted to Lazar over the subnet's own line was already under construction,
+per a follow-up message received days later, before Neumayer's own engineers had finished reviewing their own
+final draft — Lazar's builders working from the same live document rather than waiting for a completed,
+formally issued version.
+
+The arrangement only worked because both cities sat inside the same subnet-internal line — a subnet-external
+client, per Neumayer's own established practice, was never sent anything but a finished, fully checked design,
+precisely because there was no fast way to catch and correct a shared mistake in progress.
+
+### The Courier Who Carried a Design No Wire Could Reach
+
+A schematic destined for a research contact in Mawson, well outside the Halley subnet, went out with a
+physically traveling courier rather than by mail, since the design's own oversized reference drawings
+couldn't survive the postal system's own handling — the courier personally verifying the drawings arrived
+undamaged at the far end.
+
+The same design, shared with Sanay over the subnet's own line the same week, arrived instantly and needed no
+courier at all — two deliveries of functionally the same information, one taking an afternoon and the other
+the better part of a month, for no reason but which side of the subnet boundary the recipient happened to sit
+on.
+
+### The Standard Belgrano Adopted Before Neumayer Finished Writing It Down
+
+Belgrano's own engineers began applying one of Neumayer's tolerance standards in practice before Neumayer's
+own documentation team had finished formally writing it up — word of the standard having already reached
+Belgrano over the subnet's own instant line well ahead of the finished paperwork meant to explain it.
+
+A subnet-external city requesting the same standard months later received the finished documentation and
+nothing more — no informal early word, no working version to start from ahead of time, simply the final
+version once it existed, since no faster channel had ever been available to send anything else.
+
+### The Precision Metal Alone Couldn't Carry Any Faster
+
+Neumayer's reputation for exacting, self-contained precision work meant its designs traveled well regardless
+of distance — the work itself didn't degrade in transit — but the speed of that travel still depended entirely
+on which line carried it: instant within the subnet, weeks or months by truck or post to anywhere else.
+
+Neumayer's own record-keepers, per a surviving internal note, treated this as an unremarkable fact of life
+rather than a frustration — precision was the city's own contribution to make; how quickly it reached its
+destination was simply a function of geography the city had no ability to change.
+
+### The Second Set of Books Neumayer Kept for Sinheung
+
+Neumayer maintained a running technical correspondence with Sinheung, well outside the Halley subnet, on a
+recurring parts-tolerance question — but unlike the same conversation conducted with Halley or Lazar over the
+subnet's own line, every exchange with Sinheung had to be planned around the postal system's own schedule,
+batched into fewer, denser letters rather than the frequent small corrections a faster line would have
+allowed.
+
+The two versions of essentially the same working relationship — one iterative and immediate, the other
+deliberate and infrequent — left Neumayer's own engineers thinking of Sinheung's contribution as valuable but
+slower to refine, an assessment that had nothing to do with Sinheung's own competence and everything to do
+with which line separated the two cities.

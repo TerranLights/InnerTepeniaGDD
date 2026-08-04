@@ -61,7 +61,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | City | Done | Target | Status |
 |---|---|---|---|
 | Halley | 36 | 36 | **Complete** |
-| Neumayer | 30 | 30 | **Complete** |
+| Neumayer | 36 | 36 | **Complete** |
 | Belgrano | 30 | 30 | **Complete** |
 | Troll | 30 | 30 | **Complete** |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
