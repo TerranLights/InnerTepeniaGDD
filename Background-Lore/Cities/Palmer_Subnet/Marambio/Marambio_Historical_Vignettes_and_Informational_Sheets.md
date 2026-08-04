@@ -16,7 +16,10 @@ Palmer subnet (Esperanza) and anything reaching Belgrano or Byrd required trucki
 physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
 post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Marambio = Neptune/quiet-capable-diligence + Electricity/throughput-and-capability) as
-a thematic undertone. 30 done as of this batch — Marambio's own full target is now complete.**
+a thematic undertone. 30 done as of this batch — Marambio's own full target complete. Batch 6, per direct
+developer instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh
+occurrences, distinct from both Batch 4 and each other, now also cross-referenced against Marambio's own
+symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -464,3 +467,73 @@ its own separate account.
 The document, per what's preserved of its own creation, surfaced connections between the three founding
 stories none of the individual city histories had drawn out on their own — a fuller picture of Argentina's
 own three-city presence in Tepenia than any single city's own archive had ever been positioned to tell alone.
+
+---
+
+## Batch 6 — A Dual Hub, Running at Two Different Speeds
+
+### The Cargo Swap Esperanza Requested Mid-Loading
+
+An inbound shipment already being loaded onto trucks for Esperanza was redirected mid-process after Esperanza's
+own intake office, watching the manifest over the subnet's own line, realized a portion of it should go to a
+different receiving point instead — the correction made before a single truck had actually left Marambio's
+own yard.
+
+A comparable correction requested by a subnet-external recipient arrived only after the original shipment had
+already been fully delivered — the mistake, once identified, requiring an entirely separate follow-up shipment
+rather than a same-day adjustment.
+
+### The Berth Schedule Belgrano Could Check Without Asking
+
+Belgrano's own freight planners, coordinating aircraft-salvage part shipments through Marambio's shared
+port-and-airfield facility, could check current berth and hangar availability directly over the subnet's line
+before committing a convoy to the trip — no wasted journeys, no arriving to find the intended slot already
+occupied.
+
+A subnet-external shipper working from the same category of schedule had only whatever printed timetable had
+last physically reached them — arriving, more than once per the surviving record, to find conditions had
+changed since the timetable was current.
+
+### The Corridor Test Byrd Learned About After It Was Already Finished
+
+Marambio ran a live test of its own backup route capacity together with Esperanza over the subnet's own line,
+the two cities coordinating the test's timing and evaluating results within the same day — a genuinely
+collaborative exercise possible only because both sides could adjust the test's parameters as it happened.
+
+Byrd, whose own freight depended on that same corridor's reliability, learned of the completed test only
+afterward, by letter — receiving a summary of results with no opportunity to have requested a particular
+condition be tested, since there had been no way to weigh in before the test had already concluded.
+
+### The Manifest Marambio Trusted Enough Not to Duplicate
+
+A shipment manifest sent to Esperanza over the subnet's own instant line required no duplicate paper copy —
+Esperanza's own receiving office simply worked from the digital version directly, trusting its accuracy
+completely, the way the two cities had operated for years.
+
+The equivalent shipment to Belgrano still traveled with a full physical manifest attached regardless of what
+had been separately sent by mail — a redundancy Marambio's own dispatchers maintained specifically because a
+subnet-external digital version, however carefully composed, had no way to be confirmed as received before the
+cargo itself arrived.
+
+### The Founding Story Byrd Requested and Waited a Season to Receive
+
+A historical inquiry from Byrd, asking about Marambio's own founding-era role in the corridor that would
+eventually connect the two cities, took the better part of a season to receive a full written answer —
+Marambio's own archivists compiling a response detailed enough to stand alone, since no follow-up
+clarification could be expected quickly.
+
+Esperanza, asking a related question over the subnet's own line, received an answer the same day, followed
+by two more rounds of clarifying detail before the week was out — the same archive, the same diligence,
+simply reachable at two entirely different speeds.
+
+### The Hub That Was Fast for Half the Country and Slow for the Rest
+
+Marambio's own defining function — a demanding dual hub handled with quiet, undramatized capability — worked
+at genuinely different speeds depending on which side of the Palmer subnet boundary a given shipment or
+question originated from: near-instant coordination with Esperanza, and the ordinary pace of trucking, post,
+or travel for Belgrano, Byrd, and everyone else.
+
+Marambio's own dispatchers, per a surviving operational note, didn't consider this a flaw in the hub's own
+design — the capability itself never wavered; only the speed at which any given city could actually draw on it
+changed, and that was simply a fact of the country's own geography rather than anything Marambio could fix on
+its own.

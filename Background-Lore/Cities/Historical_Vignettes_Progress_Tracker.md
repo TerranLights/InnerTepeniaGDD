@@ -76,7 +76,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Palmer City | 36 | 50 | In progress |
 | Esperanza | 36 | 36 | **Complete** |
 | Rothera | 36 | 36 | **Complete** |
-| Marambio | 30 | 30 | **Complete** |
+| Marambio | 36 | 36 | **Complete** |
 | Port Lockroy | 30 | 30 | **Complete** |
 | Sejong | 30 | 30 | **Complete** |
 | Signy | 30 | 30 | **Complete** |
