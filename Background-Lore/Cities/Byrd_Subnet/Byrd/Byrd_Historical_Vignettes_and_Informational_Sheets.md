@@ -17,7 +17,15 @@ the entire point of the format. **Fourth Batch (below), per direct developer ins
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Belgrano,
 Neumayer, Marambio/Palmer City, Janbogo, Vostok, Rothera/Denison) distinct from the Third Batch's own
-Sinheung/Arcanet-focused entries. 24 done as of this batch, target 50.**
+Sinheung/Arcanet-focused entries. 24 done as of this batch, target 50. **Fifth Batch, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure. Byrd
+is its own single-city subnet, so unlike every other city in the country, it has no subnet-mate at all to
+have instant digital contact with — before the Tower, Byrd had no digital contact with anyone, full stop.
+Everything, without exception, moved by trucking along its single overland corridor (Hwy 1 → Hwy 22), postal
+service, or physically traveling there. The Arcanet access node established in the Third Batch (Finding 24's
+own physical-vs-digital isolation mismatch) is itself a post-Tower fact, not a pre-Tower one — there is
+accordingly no "combine both" entry possible here, consistent with the developer's own note that this
+wouldn't be possible for every city. 30 done as of this batch.**
 
 ---
 
@@ -350,3 +358,80 @@ looser than either requesting city had initially hoped, given how differently an
 engineering challenges were shaped. The three-way comparison remained incomplete rather than fully unified.
 It marked, regardless, the first time Byrd's own engineering tradition had been formally included in a
 cross-city technical comparison at all.
+
+---
+
+## Fifth Batch — What Had to Travel, Because Nothing Else Ever Could
+
+### The Maps That Reached Byrd's Founders Before Byrd Existed
+
+The maps recovered from Belgrano's own archives, which contributed directly to the expedition that located
+and founded Byrd, had to physically travel the entire distance from the Halley subnet to the site the
+expedition would eventually reach — nothing digital existed to simply transmit cartographic data to an
+expedition still searching for a location that wasn't yet a city at all.
+
+The maps themselves, per what's preserved of the founding-era record, were carried by the expedition's own
+lead surveyors rather than sent ahead — physical documents, consulted and annotated in the field, that
+became Byrd's own first tangible connection to a city that had never known Byrd existed until the expedition
+it had unknowingly enabled actually arrived and founded one.
+
+### The Schematic That Defined a City It Would Never Speak To Directly
+
+Neumayer's own current-generation chamber schematic, the design Byrd's own Chamber Works still builds from,
+left the Halley subnet the same way every other piece of cargo did — by truck, along Hwy 1 through the
+Palmer subnet corridor, and finally along Byrd's own single overland connection, since Byrd's own subnet had
+no digital line to anyone at all.
+
+The schematic packet, per what's preserved of the delivery, took weeks to complete the full journey — Byrd's
+own engineers working from paper and film exactly as Sinheung's own manufacturing floor did with the same
+design, neither city ever in direct contact with the office that had actually drafted it, and Byrd with no
+subnet-mate of its own to even compare notes with in the meantime.
+
+### The One Road That Was Also the Only Channel
+
+Byrd's only overland connection to the rest of the country — Hwy 1 into Hwy 22, running through the Palmer
+subnet corridor Marambio and Palmer City both anchor — carried literally everything: freight, mail, visitors,
+and any news of the outside world at all, since nothing digital reached this far before the Tower existed.
+
+A specific delay along that single corridor, per what's preserved of the incident, cut Byrd off from any
+contact with the rest of the country for the better part of a month — not a communications outage in the
+ordinary sense, since there was no ordinary communication to lose, but the one physical channel Byrd had
+simply becoming impassable for a stretch. Byrd's own residents, per what's remembered of the period, treated
+the isolation as an intensified version of an already-constant condition rather than a genuinely new one.
+
+### The Demographic Kinship Janbogo Could Only Confirm By Letter
+
+Byrd's own population profile matching the Pacific-facing Janbogo/Mirny/Mawson demographic shape far more
+closely than the Palmer subnet's own — the population-vs-geography tension defining so much of Byrd's own
+civic character — could only be investigated through written correspondence, since Byrd's road pointed one
+direction and nothing digital pointed anywhere at all.
+
+A specific inquiry, sent from Byrd to Janbogo along the same single overland corridor before continuing by
+whatever route eventually reached the Janbogo subnet, took the better part of a year to receive a considered
+reply — Byrd's own demographers working from Census tiers and educated inference in the meantime, since no
+faster way existed to simply ask.
+
+### The Expedition That Had to Carry the Lake Itself
+
+Vostok's own genetics program, which transplanted and cultivated Byrd's own subglacial lake ecosystem, began
+as a physical expedition — researchers and living samples making the long overland-and-aviation journey from
+the Mirny subnet toward Byrd's own single point of overland access, since the samples involved couldn't be
+described or transmitted, only carried.
+
+The expedition itself, per what's preserved of the founding-era record, required weeks of careful travel
+specifically because Byrd had no faster way to receive it — no subnet-mate to relay word ahead, no digital
+line to confirm the researchers' own progress, simply a convoy making its way toward a city that could do
+nothing but wait for it to arrive.
+
+### The Case Study Rothera and Denison Sent By the Slowest Possible Route
+
+The joint request from Rothera and Denison, asking Byrd to contribute a third data point to their own
+extreme-conditions engineering comparison, crossed two entire subnet boundaries before it ever reached Byrd —
+Denison's own letter first traveling out of the Janbogo subnet, and Rothera's own request separately crossing
+the Palmer subnet corridor that was Byrd's only physical link to anywhere at all.
+
+Byrd's own engineers, per what's preserved of the response, spent nearly as long compiling their own reply as
+the original requests had taken to arrive — a three-way technical comparison conducted entirely by
+correspondence, since no combination of subnets involved gave any of the three cities a faster way to speak
+to each other, and Byrd, alone in its own subnet, had no faster option available to it under any
+circumstances at all.

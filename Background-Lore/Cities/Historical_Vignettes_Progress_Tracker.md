@@ -112,7 +112,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Byrd | 24 | 50 | In progress |
+| Byrd | 30 | 50 | In progress |
 
 ### Special: Amundsen-Scott Station (target: 20 min / 30 goal)
 
@@ -125,8 +125,21 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 810** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
-Mawson subnet 72 + Byrd 24 + Amundsen-Scott Station 12).
+50 + 30). **Current: 816** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
+Mawson subnet 72 + Byrd 30 + Amundsen-Scott Station 12).
+
+**2026-08-03 — MILESTONE: the subnet-bounded-digital-vs-cross-subnet-traditional-means batch (batch 4 for
+the 35 outer cities, "Fifth Batch" for Byrd) is complete nationwide.** Every city and region has 24 entries
+except Palmer City and Byrd (24/50 and 30/50 respectively) and Abowasa (paused at 6/30). Amundsen Station was
+excluded from this round for the same reason as batch 3 (city-to-city framing, already has its own dedicated
+batch). Every entry in this pass rests on the actual pre-Tower communication structure established across
+this project's own lore: subnet-internal Arcanet existed and was instant; anything crossing a subnet boundary
+required trucking, postal service, or physically traveling there. Cities whose own established connections
+are entirely intra-subnet (Halley, Sanay) or entirely cross-subnet (Princess Elisabeth, Fort McMurdo minus
+Amundsen Station, Byrd as a single-city subnet) used that asymmetry as a genuine character point rather than
+inventing balance that wasn't there. Kunlun's and Dome Fuji's own Ice Cold Buddhism connection, and Fort
+McMurdo's own capital-city designation, were both deliberately kept out of this batch since both postdate the
+Tower's completion.
 
 **2026-08-03 — Mawson subnet batch 4 complete.** Mawson, Dome Fuji, and Sayowa all completed batch 4
 (subnet-bounded digital vs. cross-subnet traditional means) — all now 24/30. Dome Fuji's own entries carried
