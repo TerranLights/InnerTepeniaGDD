@@ -6,7 +6,7 @@
 
 ## Finding 1: The capital's formalization may trace to more than one concurrent mega-project, not the Amundsen Tower alone
 
-**Combining:** the Full Extrapolation's proposed timing for Fort McMurdo's formal capital designation (aftermath of the Amundsen Tower's construction, ~2629–2639) + the established fact that Fort McMurdo's industrial output built "a significant share of Concordia's own infrastructure" — its dome structures, corridor systems, and equipment + the Tower's own established role as the era's single largest national infrastructure undertaking.
+**Combining:** the Full Extrapolation's proposed timing for Fort McMurdo's formal capital designation (aftermath of the Amundsen Tower's construction, ~2688) + the established fact that Fort McMurdo's industrial output built "a significant share of Concordia's own infrastructure" — its dome structures, corridor systems, and equipment + the Tower's own established role as the era's single largest national infrastructure undertaking.
 
 **2nd-order effect:** if Concordia's own growth as a hub required a similarly massive, concurrent supply of materials during roughly the same broader era of national construction, Fort McMurdo's formalization may not trace to the Tower alone — it may mark the moment the city became simultaneously indispensable to more than one of Tepenia's largest-ever infrastructure projects at once.
 

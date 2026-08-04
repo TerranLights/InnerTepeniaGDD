@@ -423,23 +423,26 @@ Names are working placeholders — open to whatever fits Tepenian naming convent
 
 **The question:** how large would Amundsen Tower need to be to move the established
 orbital population (**10,104,964** — `Official_Population_Census.md`, Census II) up
-from Tepenia between the Tower's completion (~2629–2639) and the Long Night War
+from Tepenia between the Tower's completion (~2688) and the Long Night War
 (now a precise **2812**)?
 
-**Operating window:** central estimate **178 years** (range 173–183 years depending
-on which end of the Tower-completion range is used). *(Updated 2026-07-04 — the Long
-Night War was canonized as the single precise year 2812, up from the previous
-~2794–2804 range; Tower completion stays fixed at ~2629–2639, tied to the Falkland
-Treaty rather than the war, so this window grew again, from ~165 years to ~178
-years. Separately, the orbital population target itself was recalculated the same
-day from 9,543,076 to 11,356,581 — see `project_district_canon_timeline_fix` and
-`project_concordia_timeline_sheet` memories — since the Census II "Orbital
-Population" figure had been stale since before this session, uncorrected through
-several rounds of other population changes. **Recalculated again 2026-07-05** — the
-Antarctic Surface total the Orbital figure derives from had itself gone stale since;
-a full numbers sweep of `Official_Population_Census.md` corrected it, bringing
-Orbital down from 11,356,581 to 10,104,964. See that file's own 2026-07-05
-correction notes for the full trace.)*
+**Operating window:** central estimate **~124 years**. *(RESOLVED 2026-08-05,
+developer-confirmed — Tower completion is now ~2688, roughly the Second Interwar
+Period's own Midpoint, with genuine flexibility of "plus-or-minus a couple of
+decades" rather than a forced exact year; this superseded the older ~2629-2639
+figure this section originally used. See `project_amundsen_tower_completion_date_
+resolution` memory for the full reconciliation. Earlier note, still relevant to the
+Long Night War side of the window: the war was canonized as the single precise year
+2812 on 2026-07-04, up from a previous ~2794–2804 range. Separately, the orbital
+population target itself was recalculated 2026-07-04 from 9,543,076 to 11,356,581 —
+see `project_district_canon_timeline_fix` and `project_concordia_timeline_sheet`
+memories — since the Census II "Orbital Population" figure had been stale since
+before this session, uncorrected through several rounds of other population
+changes. **Recalculated again 2026-07-05** — the Antarctic Surface total the
+Orbital figure derives from had itself gone stale since; a full numbers sweep of
+`Official_Population_Census.md` corrected it, bringing Orbital down from 11,356,581
+to 10,104,964. See that file's own 2026-07-05 correction notes for the full
+trace.)*
 
 **The headline finding: the bare statistical average is very modest — even more so
 now.** Assuming, as a conservative upper bound, that the *entire* ~10.10M population
@@ -450,9 +453,9 @@ lineage predating the Treaty):
 
 | Window | Required average rate |
 |---|---|
-| 173 years (fastest tower, i.e. 2639 completion) | ~6.66 people/hour |
-| 178 years (central estimate) | ~6.48 people/hour |
-| 183 years (slowest tower, i.e. 2629 completion) | ~6.30 people/hour |
+| ~124 years (central estimate, ~2688 completion) | ~9.30 people/hour |
+| ~104 years (fastest plausible tower, +20yr flex toward ~2708 completion) | ~11.09 people/hour |
+| ~144 years (slowest plausible tower, -20yr flex toward ~2668 completion) | ~8.01 people/hour |
 
 **That means the Tower's 150 km height and existing design are not actually
 throughput-constrained by the population target at all.** The height was set by
@@ -824,25 +827,30 @@ elsewhere in Tepenia) would run on the slow end of that range.
 
 **Bottom line: full material delivery is plausibly achievable within single-digit
 years (~5-10, allowing for ramp-up and real-world inefficiency) — a small fraction
-of the established ~65-75 year total construction window.** This reinforces the
-earlier construction-rate finding (~8.8 tonnes/day average assembly rate, nowhere
-near a bottleneck): **material logistics was never the limiting factor.** Most of
-the 65-75 years went into developing the underlying technology and the on-site
+of the total Falkland-to-Tower construction window (now ~124 years, see below).**
+This reinforces the earlier construction-rate finding (~8.8 tonnes/day average
+assembly rate, nowhere near a bottleneck): **material logistics was never the
+limiting factor.** Most of that span went into developing the underlying technology,
+the preceding decades of nation-building infrastructure, and the on-site
 assembly/construction itself, not waiting on shipments.
 
-**Canon resolution (2026-07-03) — why the 65-75 year window still holds despite
-this:** the Falkland-Treaty-to-Tower-completion window was never *all* Tower
-construction time. Per `World_History_Reference.md` ("The Space Elevator (Amundsen
-Tower)"), it's a phased national infrastructure sequence: cities founded and built
-out → subnet-internal highways → the Arcanet gradually connected subnet by subnet →
-**Hwy 22 (the Transcontinental Highway) built, running directly through the South
-Pole/Amundsen Station itself** (confirmed against the highway map — corrected from
-an earlier, wrong assumption that a separate Hwy 175 segment was needed to reach the
-Pole) → **only then does Tower construction proper begin**, plausibly in the final
-~12-17 years of the 65-75 year window. That final phase is exactly what this
-document's shipping/assembly numbers describe. Hwy 22 reaching the South Pole is the
-literal precondition for this section's overland-leg assumptions (a groomed,
-established highway rather than an ad-hoc early traverse).
+**Canon resolution (2026-07-03, window updated 2026-08-05) — why a multi-decade
+window still holds despite this:** the Falkland-Treaty-to-Tower-completion window
+was never *all* Tower construction time. Per the phased national infrastructure
+sequence (cities founded and built out → subnet-internal highways → the Arcanet
+gradually connected subnet by subnet → **Hwy 22, the Transcontinental Highway,
+built, running directly through the South Pole/Amundsen Station itself** — confirmed
+against the highway map), **only then does Tower construction proper begin**,
+plausibly in the final ~12-17 years before completion. With completion now at ~2688
+(roughly the Second Interwar Period's own Midpoint, ±~20 years — see
+`project_amundsen_tower_completion_date_resolution` memory for the full
+reconciliation, superseding the older ~2629-2639/65-75-year framing this section
+previously used), that puts Tower construction proper starting somewhere around
+**~2671-2676** — consistent with the separate figure already worked out in `DONE.md`.
+That final phase is exactly what this document's shipping/assembly numbers describe.
+Hwy 22 reaching the South Pole is the literal precondition for this section's
+overland-leg assumptions (a groomed, established highway rather than an ad-hoc early
+traverse).
 
 ## Tertiary/Opportunistic Functions (flagged 2026-07-05; renamed from "Additional
 Proposed Functions" — two of the original five candidates were promoted to actual
@@ -857,10 +865,12 @@ as genuinely secondary/opportunistic uses layered on top of the two primary purp
 and the passenger side-application — not additional main functions competing with
 them.
 
-**Reinforced 2026-07-05, with a sharper number.** The Second Interwar Period timeline
-(`Tepenian-Federation/Timeline.md`) now places roughly **120 years** between the
-Tower's completion (tentatively its Midpoint, ~2688) and the Long Night War/Tower's
-destruction (2812) — the Tower's entire operational lifetime. Over that window, the
+**Reinforced 2026-07-05, with a sharper number; date resolved 2026-08-05.** The
+Second Interwar Period timeline (`Tepenian-Federation/Timeline.md`) now places
+roughly **120-124 years** between the Tower's completion (~2688, roughly the Second
+Interwar Period's own Midpoint — see `project_amundsen_tower_completion_date_
+resolution` memory) and the Long Night War/Tower's destruction (2812) — the Tower's
+entire operational lifetime. Over that window, the
 **existing design capacity** already established above (~194 people/hour) moves:
 
 - **~204 million people** over 120 years — enough to move Tepenia's entire
@@ -897,10 +907,14 @@ opportunistic candidates, none designed in detail yet:
 
 ## Still Open
 
-- Precise construction start date (must predate ~2629–2639 completion by 65–75
-  years, i.e., starting shortly after the Falkland Treaty in 2564 per existing
-  canon) and the specific weapon(s)/method used in its destruction — both flagged in
-  `World_History_Reference.md`
+- Precise construction start date (per the "Canon resolution" section above,
+  construction proper plausibly begins in the final ~12-17 years before the now-
+  resolved ~2688 completion, i.e. roughly ~2671-2676 — still not pinned to an exact
+  year) and the specific weapon(s)/method used in its destruction — both flagged in
+  `World_History_Reference.md` (in the shared `TepenianUniverseTimeline` repo — note
+  that repo still states the older ~2630-2640 completion date as confirmed canon,
+  not yet reconciled with this file's own ~2688 resolution; see
+  `project_amundsen_tower_completion_date_resolution` memory)
 - Detailed cargo/freight throughput (as distinct from passengers) — likely modest,
   since bulk construction material for orbital infrastructure comes from debris
   in-situ, not Tower-launched cargo (see `Orbital_Infrastructure_Mass_Budget.md`) —

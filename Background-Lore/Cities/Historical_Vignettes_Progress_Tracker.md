@@ -229,8 +229,9 @@ Amundsen Tower's completion (late in its construction, country not yet unified b
 after** (once the whole country was connected through the single Tower relay node for the first time) — each
 grounded in that specific city's own established constraints and daily struggles, not generic filler. The
 Tower's own exact completion date stays deliberately unpinned in prose ("shortly before/after," not a
-specific year) since `Timeline.md` still carries two open candidate dates (~2629–2639 vs. ~June 2688) —
-this keeps every entry consistent regardless of which date is eventually settled. Applies to all 35 outer
+specific year) — even now that the date is resolved to ~2688 (roughly the Second Interwar Period's own
+Midpoint, ±~20 years — see `project_amundsen_tower_completion_date_resolution` memory), the vague framing
+stays, since the developer's own resolution deliberately isn't pinned to an exact year either. Applies to all 35 outer
 cities + Tri-Cities + Byrd (its own 3rd batch) — **except Amundsen Station itself**, whose own before/after
 entries are framed around the Tower's actual construction completion and first activation directly, not a
 downstream "receiving city" angle. Abowasa stays paused/excluded until its founding-nation fix lands.

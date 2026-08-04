@@ -57,7 +57,7 @@
 
 ## IX. When Fort McMurdo's Capital Status Became Official: After the Amundsen Tower
 
-**Proposed:** the formal designation came in the aftermath of the Amundsen Tower's construction (~2629–2639), not before it. Building the Tower — a national infrastructure project on a scale nothing else in Tepenian history matched — would have made the nation's dependency on Fort McMurdo's industrial output completely undeniable, at exactly the moment its own established "McMurdo Problem" faction was already naming real resentment about the city wielding that much influence with no formal accountability attached to it. Formalizing Fort McMurdo's status wasn't really a change in power at all — it was the government finally attaching legitimacy and accountability to power the city already, unmistakably, held. Making the arrangement official was the response to the resentment, not a cause of it.
+**Proposed:** the formal designation came in the aftermath of the Amundsen Tower's construction (~2688), not before it. Building the Tower — a national infrastructure project on a scale nothing else in Tepenian history matched — would have made the nation's dependency on Fort McMurdo's industrial output completely undeniable, at exactly the moment its own established "McMurdo Problem" faction was already naming real resentment about the city wielding that much influence with no formal accountability attached to it. Formalizing Fort McMurdo's status wasn't really a change in power at all — it was the government finally attaching legitimacy and accountability to power the city already, unmistakably, held. Making the arrangement official was the response to the resentment, not a cause of it.
 
 ---
 
