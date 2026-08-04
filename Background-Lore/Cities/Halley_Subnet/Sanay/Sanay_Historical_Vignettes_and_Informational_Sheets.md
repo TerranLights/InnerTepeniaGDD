@@ -9,7 +9,13 @@ Infrastructure_Attributes.md`'s 12 attributes and its Cross-Referenced Extrapola
 direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
 direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
 only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
-connection from that file and in Sanay's own established struggles. Target 30, 18 done as of this batch.**
+connection from that file and in Sanay's own established struggles. Batch 4, per direct developer instruction,
+inverts the lens: six occurrences resting on the actual pre-Tower communication structure. Sanay's own
+established connections are almost entirely intra-subnet (Halley, Belgrano, Troll, Abowasa), which becomes a
+genuine character point here — Sanay housed the Halley subnet's own Arcanet nexus and stayed in constant
+contact within it, but had essentially no digital reach past the subnet boundary, with the single partial
+exception of the dedicated pre-Tower cable linking the Halley subnet directly to Amundsen Station. Target 30,
+24 done as of this batch.**
 
 ---
 
@@ -326,3 +332,82 @@ residents had once traveled to Sanay to build the nexus, now asked, for an entir
 help again. A small relief crew made the trip, the first time labor itself, not just information, had moved
 between the two cities specifically because a request could finally be sent and answered the same day it was
 made.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Nexus That Never Went Quiet
+
+Sanay's own dock crews operated the Halley subnet's actual Arcanet nexus as an ordinary part of daily work,
+long before any national relay existed — a standing, always-live connection to Halley, Belgrano, and Troll
+that made the four cities function, for anything requiring coordination, as a single working unit.
+
+A dockworker rotating onto a night shift, per what's preserved of the era's own routine, could expect a live
+answer from any of the other three cities within minutes regardless of the hour — an expectation so ordinary
+within the subnet that nobody thought to describe it as remarkable until a Marambio trader, waiting weeks on a
+reply to an entirely unrelated inquiry, asked how Sanay's own staff managed to seem perpetually reachable.
+
+### The One Line That Reached the Pole
+
+A dedicated cable, laid alongside Hwy 59 generations before the Tower existed, gave the Halley subnet — and
+Sanay's own nexus specifically — a direct digital line to Amundsen Station that no other subnet in the country
+had any equivalent version of at all.
+
+Sanay's own technicians, per what's remembered of the era, treated routine contact with the Pole as simply
+another intra-network call, no different in practice from reaching Halley or Troll — while researchers in
+every other subnet who wanted anything from Amundsen Station had no choice but to write, wait, or travel there
+in person. A specific request for weather data, sent from a Mirny subnet research team through the slowest
+possible channel available to them, arrived at Amundsen Station roughly the same week Sanay's own technicians
+made an unrelated, same-day inquiry of their own — the two requests separated by nothing but which subnet had
+happened to lay a cable first.
+
+### The Redundant Port That Never Needed to Ask Twice
+
+Sanay's and Belgrano's shared status as interchangeable receiving ports meant a shipment rerouted from one to
+the other required only a single confirming exchange over the subnet's instant line — a decision made and
+acted on before the convoy carrying it had traveled more than a few kilometers.
+
+A specific reroute, per what's preserved of the incident, saved an entire convoy from arriving at a closed
+passage simply because Sanay's own dispatchers could confirm Belgrano's conditions directly rather than
+relying on the convoy's own delayed radio reports. Nothing about the reroute itself required more than a few
+minutes of conversation. What made it possible was that the conversation could happen at all.
+
+### The Order Abowasa Placed and Watched Change in Real Time
+
+Abowasa's own small-scale trade orders, routed through Sanay's own shipping and distribution role, had
+historically been placed once and simply awaited — no mechanism existed for Abowasa to adjust an order after
+submitting it, since revising a request meant sending an entirely new one and hoping it arrived before the
+original shipment did.
+
+The first order Abowasa successfully amended after submission, per what's preserved of the exchange, was
+corrected within the same afternoon it was placed — a quantity revision relayed directly to Sanay's own
+dispatch office over the subnet's instant line, adjusted before the original shipment had even left the dock.
+Sanay's own staff, per what's remembered of the period, treated the amendment as unremarkable — the same
+casual flexibility subnet business had always allowed, extended for the first time to the subnet's smallest
+trading partner.
+
+### The Shipping Data Nobody Past the Subnet Could Simply Request
+
+Sanay's own accumulated freighter records — arrival volumes, passage conditions, seasonal patterns spanning
+years — existed as a resource any Halley subnet city could ask about and receive an answer to within the day,
+but which any city outside the subnet could only request through formal correspondence, if it occurred to them
+to ask at all.
+
+A specific data request from a city with no prior trade relationship to Sanay whatsoever, per what's preserved
+of the exchange, took the better part of a season to travel from the requesting office to Sanay's own archive
+and back — the same information a Belgrano dispatcher could have had answered before finishing a single
+conversation. Sanay's own clerks, once the request finally arrived, filled it without complaint, unaware how
+long it had actually taken to reach them.
+
+### The Freighter Three Cities Planned and One City Watched Disappear
+
+A shipment assembled jointly from Sanay's, Halley's, and Belgrano's own combined stock — coordinated across a
+single real-time exchange over the subnet's instant line — was packed, weighed, and loaded within a day of the
+first request reaching Sanay's own dispatch office.
+
+Once that shipment left Sanay's own docks bound for a destination outside the Halley subnet, none of the three
+planning cities retained any way to track it — the same instant coordination that had assembled the load in
+hours giving way, at the subnet boundary, to weeks of complete silence. Sanay's own dispatchers, per what's
+remembered of the period, had grown accustomed enough to the pattern that they stopped remarking on it: fast
+inside, slow the moment it left.

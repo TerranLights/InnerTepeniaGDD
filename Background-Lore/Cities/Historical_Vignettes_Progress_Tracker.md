@@ -57,7 +57,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Belgrano | 24 | 30 | In progress |
 | Troll | 24 | 30 | In progress |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
-| Sanay | 18 | 30 | In progress |
+| Sanay | 24 | 30 | In progress |
 | Princess Elisabeth | 18 | 30 | In progress |
 | Lazar | 18 | 30 | In progress |
 
