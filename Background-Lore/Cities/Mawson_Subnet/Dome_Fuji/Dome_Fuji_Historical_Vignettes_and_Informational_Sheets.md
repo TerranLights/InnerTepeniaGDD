@@ -30,8 +30,11 @@ the devotee-era religious link still postdating Tower completion. 24 done as of 
 direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
 distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Dome Fuji = Pluto/extreme-isolation-
 embraced-as-devotion + Water/dissolving-the-self-environment-boundary) as a thematic undertone. Kunlun still
-doesn't appear here, for the same reason as before. 30 done as of this batch — Dome Fuji's own full target is
-now complete.**
+doesn't appear here, for the same reason as before. 30 done as of this batch — Dome Fuji's own full target
+complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower framing with
+genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced against
+Dome Fuji's own symbol pair — Sayowa's own role as much a physical relay point as a digital one, and Kunlun's
+own exclusion, both still hold. 36 done as of this batch.**
 
 ---
 
@@ -463,3 +466,71 @@ thin, unreliable nature reasserting itself despite the earlier fast response.
 Princess Elisabeth's own residents, per what's preserved of the exchange, had by this point stopped expecting
 consistency from Dome Fuji's own responses — treating each successful contact as its own small, appreciated
 event rather than evidence the connection had become genuinely reliable.
+
+---
+
+## Batch 6 — Isolation Within Isolation
+
+### The Relay Sayowa Carried Physically, Not Digitally
+
+A shipment of research findings bound for Mawson traveled through Sayowa not over any line but carried
+physically by a Sayowa courier already making the overland trip — Dome Fuji's own thin, unreliable Arcanet
+reach making a physical relay the more dependable option even for a subnet-internal delivery.
+
+A comparable, less urgent update sent digitally the same week arrived garbled partway through, requiring a
+second attempt — a reminder that even within the subnet, Dome Fuji's own connection remained genuinely
+inconsistent rather than simply slow.
+
+### The Session Mawson Joined an Hour Late, As Expected
+
+A joint planning session with Mawson, scheduled over the subnet's own line, began without Dome Fuji actually
+present — the connection dropping partway through the agreed time, Dome Fuji's own delegate joining nearly an
+hour late once the link finally held, the rest of the meeting having already proceeded without them in the
+meantime.
+
+A written proposal sent instead to Troll, well outside the subnet, faced no equivalent uncertainty of this
+particular kind — slow, but reliably slow, arriving exactly when the postal schedule predicted rather than at
+some unpredictable point after an unstable connection finally cooperated.
+
+### The Supply Manifest Troll Sent Twice, Just in Case
+
+A supply manifest sent to Troll for an outbound flight was duplicated and sent a second time by an entirely
+separate route, Troll's own dispatchers having learned through experience that a single confirmation from Dome
+Fuji couldn't be fully trusted to represent the actual current situation.
+
+Sayowa, receiving comparable manifests over the subnet's own line, required no such redundancy — imperfect as
+the connection was, a single confirmation from Dome Fuji, once it actually arrived, was trusted at face value
+by a subnet-mate used to interpreting its particular unreliability.
+
+### The Question Sinheung Answered Without Knowing If Dome Fuji Had Received It
+
+A technical question sent to Sinheung received a considered, detailed reply — but Sinheung's own engineers,
+per a surviving note, had no way to confirm the original question had actually reached Dome Fuji intact before
+answering it, given the connection's own well-known instability, and simply proceeded on the assumption that
+it likely had.
+
+Mawson, asking a related question over the subnet's own thin but at least directly monitored line, could at
+minimum confirm receipt even when the answer itself was delayed — a small but genuine advantage of proximity
+that distance alone couldn't offer Sinheung.
+
+### The Correspondence Davis Learned to Simply Wait Out
+
+A sustained climate-research correspondence with Davis continued for years without ever developing anything
+resembling a fast turnaround — Davis's own researchers, per an internal note, having long since stopped
+expecting Dome Fuji's replies to arrive on any predictable schedule at all, treating each one as a welcome
+surprise rather than an overdue response.
+
+The same researchers, coordinating a comparable long-term study with Kunlun instead, developed a far more
+regular rhythm despite Kunlun's own comparable isolation — proof, to Davis's own team, that Dome Fuji's own
+particular difficulty wasn't distance alone but the genuinely unreliable nature of the connection itself.
+
+### The Isolation That Doubled Back on Itself
+
+Dome Fuji's own extreme isolation — already the most severe in its own subnet — was compounded by a second,
+independent limitation: even the subnet-internal line that should have offered some relief ran thin and
+unpredictable, leaving Dome Fuji more genuinely cut off than its own subnet membership alone would suggest.
+
+Dome Fuji's own residents, per the same devotional framework that shaped so much of the city's own character,
+seemed to find a kind of fitting meaning in this rather than treating it purely as hardship — isolation
+embraced as devotion extending, without anyone deciding it should, even to the city's own connection with the
+rest of the country.

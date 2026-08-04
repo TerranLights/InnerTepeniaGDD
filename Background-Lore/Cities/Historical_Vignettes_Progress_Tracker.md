@@ -113,7 +113,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | City | Done | Target | Status |
 |---|---|---|---|
 | Mawson | 36 | 36 | **Complete** |
-| Dome Fuji | 30 | 30 | **Complete** |
+| Dome Fuji | 36 | 36 | **Complete** |
 | Sayowa | 30 | 30 | **Complete** |
 
 ### Byrd Subnet (target: 50, 1 city)
