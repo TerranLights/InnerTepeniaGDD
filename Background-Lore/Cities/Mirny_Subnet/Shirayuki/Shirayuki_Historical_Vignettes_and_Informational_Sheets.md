@@ -20,7 +20,10 @@ service, or physically traveling there. 24 done as of this batch. Batch 5, per d
 returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
 cross-referenced against `city-symbol-pairs.md` (Shirayuki = Uranus/a-place-people-move-to-for-its-difference
 + Fire/warm-generative-creativity) as a thematic undertone. 30 done as of this batch — Shirayuki's own full
-target is now complete, completing the Mirny subnet's batch 5 pass.**
+target complete, completing the Mirny subnet's batch 5 pass. Batch 6, per direct developer instruction,
+returns to Batch 4's own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and
+each other, now also cross-referenced against Shirayuki's own symbol pair. 36 done as of this batch —
+completes the Mirny subnet's batch 6 pass.**
 
 ---
 
@@ -455,3 +458,67 @@ with no prior relationship to either Shirayuki or Princess Elisabeth at all — 
 cities had worked out for their own curiosity having become, once shared nationally, a genuinely useful
 reference for other cities working through comparable founding-character questions of their own. **Completes
 the Mirny subnet's batch 5 pass.**
+
+---
+
+## Batch 6 — A Difference Best Explained Nearby
+
+### The Gallery Design Zhongshan Reworked While Shirayuki Watched
+
+A gallery layout Shirayuki proposed for a shared cultural venue was reworked collaboratively with Zhongshan
+over the subnet's own instant line, both cities' own designers adjusting the plan together in real time until
+neither had any further notes — a genuinely joint creative process rather than a proposal sent for approval.
+
+Sayowa, invited to comment on a related design a season later, could only offer written feedback on a version
+already finalized — no opportunity to shape the design itself, since nothing about the collaboration's own
+speed extended past the subnet's own boundary.
+
+### The Mural Sinheung Requested and Received the Same Week
+
+A mural commission requested by Sinheung, including several rounds of sketches and revisions, was completed
+within a single week entirely over the subnet's own line — each round of feedback returned same-day, the
+whole collaborative process compressed into a timeframe a cross-subnet commission couldn't have matched.
+
+Princess Elisabeth, commissioning a comparable mural, had to approve a single set of sketches by mail with no
+opportunity for iterative revision — the finished piece matching the approved sketch closely, but without any
+of the back-and-forth refinement Sinheung's own commission had enjoyed.
+
+### The Musician Who Reached Zhongshan's Fans Before the Tour Was Announced
+
+A Shirayuki musician's informal announcement of an upcoming performance reached fans in Zhongshan over the
+subnet's own line well before any formal tour schedule existed — word spreading fast enough that a portion of
+the eventual audience had already planned to attend before the show was even confirmed.
+
+The same announcement, intended for a Sayowa audience, had to wait for the formal, finalized tour schedule to
+be printed and mailed — fans there learning of the performance only once it was already a certainty, with none
+of the early, informal excitement Zhongshan's fans had gotten to share in.
+
+### The Founding Comparison Sinheung Helped Refine Before It Was Ever Published
+
+A comparative study of Shirayuki's and Sinheung's own contrasting diplomatic founding stories was drafted
+collaboratively over the subnet's own line, both cities' own historians contributing directly to the same
+working document rather than reviewing a finished draft after the fact.
+
+Princess Elisabeth, whose own founding character eventually became part of a related comparison, was consulted
+only after the core document was substantially complete — its own contribution folded in by mail, a genuine
+addition but not part of the document's own original collaborative drafting process.
+
+### The Import Order Zhongshan Adjusted the Same Afternoon Conditions Changed
+
+An import order affecting Shirayuki's own supply of specialty goods was adjusted the same afternoon a
+condition changed, coordinated with Zhongshan over the subnet's own instant line — a level of responsiveness
+that let Shirayuki avoid a shortage that would otherwise have gone unaddressed for weeks.
+
+A comparable adjustment needed for an order routed through Sayowa's own dispatch network couldn't happen
+nearly as fast — the request traveling by mail, the shortage in question largely resolved on its own by the
+time a formal reply confirming the adjustment finally arrived.
+
+### The Outlier That Felt Ordinary Up Close and Exceptional From Anywhere Else
+
+Shirayuki's own established character — a natural outlier, a place people made excuses to move to — was, from
+inside the Tri-Cities cluster, simply an ordinary, well-understood neighbor: Zhongshan and Sinheung both
+experienced Shirayuki's own creative energy directly and continuously, nothing especially mysterious about it.
+
+Sayowa and Princess Elisabeth, reaching Shirayuki only by mail or physical travel, encountered the same
+outlier reputation as something closer to its own established description — genuinely different, and
+genuinely more distant, in every sense the subnet boundary could make true.

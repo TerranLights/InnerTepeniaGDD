@@ -82,7 +82,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Signy | 36 | 36 | **Complete** |
 | Juan Carlos | 36 | 36 | **Complete** |
 
-### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
+### Mirny Subnet (target: 36 each except Tri-Cities region at 75 total; 288 total)
 
 | City | Done | Target | Status |
 |---|---|---|---|
@@ -93,8 +93,8 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Vostok | 36 | 36 | **Complete** |
 | Zhongshan *(Tri-Cities)* | 36 | — | **Complete** |
 | Sinheung *(Tri-Cities)* | 36 | — | **Complete** |
-| Shirayuki *(Tri-Cities)* | 30 | — | **Complete** |
-| **Tri-Cities combined** | **90** | **75** | **Exceeded — see note** |
+| Shirayuki *(Tri-Cities)* | 36 | — | **Complete** |
+| **Tri-Cities combined** | **108** | **75** | **Exceeded — see note** |
 
 ### Janbogo Subnet (target: 30 each, 210 total)
 
@@ -146,9 +146,15 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries, superseded — see the 2026-08-06 Batch 6 standard-target note above; the real,
-current target is higher and still growing as Batch 6 proceeds.** **Current: 1,128** (Halley subnet 258 +
-Palmer subnet 288 + Mirny subnet 240 + Janbogo subnet 210 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
+current target is higher and still growing as Batch 6 proceeds.** **Current: 1,176** (Halley subnet 258 +
+Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 210 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
 Station 12).
+
+**2026-08-06 — Mirny subnet batch 6 complete — all 8 cities at 36/36, Tri-Cities combined now 108/75.** Mirny,
+Casey, Davis, Kunlun, Vostok, Zhongshan, Sinheung, and Shirayuki all completed batch 6. Casey's batch 6 header
+also corrected a stray Jupiter/Mars mismatch left over from batch 5 (city-symbol-pairs.md has always had Casey
+at Mars). Mirny's own batch 6 continued to rest on the Relay Hardware Vaults' pre-Tower subnet-wide reach;
+Kunlun's excluded Dome Fuji again, same established reasoning.
 
 **2026-08-06 — Halley subnet batch 6 complete — all 7 standard-target cities now at 36/36.** Halley, Neumayer,
 Belgrano, Troll, Sanay, Princess Elisabeth, and Lazar all completed batch 6 (Abowasa unaffected, still paused
