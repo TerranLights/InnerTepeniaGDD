@@ -55,7 +55,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Halley | 30 | 30 | **Complete** |
 | Neumayer | 30 | 30 | **Complete** |
 | Belgrano | 30 | 30 | **Complete** |
-| Troll | 24 | 30 | In progress |
+| Troll | 30 | 30 | **Complete** |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
 | Sanay | 24 | 30 | In progress |
 | Princess Elisabeth | 24 | 30 | In progress |

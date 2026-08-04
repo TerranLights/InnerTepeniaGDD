@@ -13,7 +13,10 @@ connection from that file and in Troll's own established struggles. Batch 4, per
 inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where direct
 digital contact existed only within the Halley subnet (Sanay, Belgrano, Halley) and anything reaching Dome
 Fuji, Sinheung, or Fort McMurdo required trucking, flying cargo without live tracking, postal service, or
-physically traveling there. Target 30, 24 done as of this batch.**
+physically traveling there. Batch 5, per direct developer instruction, returns to post-Tower full
+connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Troll = Neptune/Diligence + Electricity/movement-and-connection) as a thematic
+undertone. Target 30, 30 done as of this batch — Troll's own full target is now complete.**
 
 ---
 
@@ -426,3 +429,80 @@ weeks with no way for any of the three planning cities to confirm it had even la
 session any of the three had on record, followed immediately by the same unaccountable stretch of silence
 every subnet-external shipment disappeared into once it crossed the boundary the instant line itself never
 reached.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Landing Confirmed Before the Crew Had Even Logged Off
+
+Once the national relay reached Dome Fuji, Troll's own aviation dispatch received the first same-day landing
+confirmation for a supply flight bound there in the route's entire history — a message that, before the
+Tower, would simply never have arrived at all, since nothing connected Troll's dispatch office to the
+isolated station once a flight was in the air.
+
+The confirmation itself was routine, per what's preserved of the log — weather held, cargo delivered, nothing
+noteworthy about the flight. What mattered, per what's remembered locally, was simpler: Troll's own dispatchers
+had spent generations sending flights to Dome Fuji with no way to know they'd arrived until the next
+scheduled supply run confirmed it days or weeks later. Now they simply knew, the same afternoon.
+
+### The Route Sinheung and Troll Finally Compared Directly
+
+Sinheung's own aviation route toward Dome Fuji, run independently through Mawson for a substantial stretch of
+Tepenian history, had never once been coordinated against Troll's own parallel route — the two supply chains
+operating in ignorance of each other by necessity, not choice. The first direct scheduling conversation
+between the two dispatch offices confirmed something both had long suspected: the routes' delivery windows
+regularly overlapped by days.
+
+The two offices agreed, per what's preserved of the exchange, to stagger future shipments rather than
+continue duplicating each other's deliveries — the first genuine coordination between Dome Fuji's own two
+independent lifelines since either route was established, closing a redundancy neither city had ever had a
+way to actually fix before.
+
+### The Comparison Document Fort McMurdo and Troll Wrote Together
+
+Following the earlier informal comparison between Troll's freight-hub identity and Fort McMurdo's industrial-
+capital one, the two cities' own civic offices produced something more deliberate — a joint written comparison
+of working conditions, wages, and labor culture, compiled collaboratively over the relay rather than pieced
+together from a single well-traveled trucker's own secondhand account.
+
+The document itself, per what's preserved of the project, confirmed the resemblance the earlier informal
+comparison had only gestured at — genuine similarities in shift structure and civic self-image, alongside real
+differences neither city had previously had the material to properly compare. It became, informally, a
+reference document new arrivals at either city were sometimes handed to explain what kind of place they'd
+just moved to.
+
+### The Passage Update Sanay Sent Without Being Asked
+
+Sanay's own passage-status reporting to Troll, already established as routine, produced its first genuinely
+unprompted update once a Sanay dispatcher, noticing a condition change outside the normal reporting schedule,
+simply sent word directly rather than waiting for the next scheduled check-in.
+
+Troll's own dispatchers, per what's preserved of the incident, adjusted a departing flight's own routing
+within the hour based on the unscheduled update — a small decision that, under the old system, would have
+had no trigger to happen at all, since nothing would have told Troll conditions had changed until the next
+regular report came due.
+
+### The Boneyard Question Belgrano Answered for Troll's Own Fleet
+
+Troll's own aviation maintenance crews, working an unfamiliar structural fatigue pattern on an older aircraft,
+reached Belgrano's own boneyard directly for the first time to ask whether the same pattern had ever turned up
+in Belgrano's own salvage inventory — a question that, before direct contact, would have required physically
+sending someone to look.
+
+Belgrano's own salvage crew, per what's preserved of the exchange, found a comparable case in their own
+records within the hour and relayed the fix directly — the first time Troll's own maintenance operation had
+drawn on Belgrano's own accumulated salvage knowledge as a genuine technical resource rather than simply as
+the source of whatever specific part happened to be needed.
+
+### The Shipment Abowasa Watched Move in Real Time for the First Time
+
+A specific shipment bound for Abowasa, historically the last and smallest priority on Troll's own distribution
+route, was tracked by Abowasa's own small trade office in real time for the first time — watching the cargo's
+own status update from loaded to airborne to delivered over the course of a single afternoon, rather than
+simply waiting for the delivery to arrive with no visibility into the process at all.
+
+Abowasa's own trade administrator, per what's preserved of the account, described the experience as genuinely
+novel — not because the shipment itself arrived any faster, but because for the first time in the corridor's
+history, the smallest city on Troll's route could actually watch its own priority unfold instead of only ever
+learning the outcome after the fact.
