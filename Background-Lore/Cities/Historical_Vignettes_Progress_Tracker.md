@@ -89,7 +89,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Mirny | 36 | 36 | **Complete** |
 | Casey | 36 | 36 | **Complete** |
 | Davis | 36 | 36 | **Complete** |
-| Kunlun | 30 | 30 | **Complete** |
+| Kunlun | 36 | 36 | **Complete** |
 | Vostok | 30 | 30 | **Complete** |
 | Zhongshan *(Tri-Cities)* | 30 | — | **Complete** |
 | Sinheung *(Tri-Cities)* | 30 | — | **Complete** |

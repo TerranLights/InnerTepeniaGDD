@@ -24,7 +24,10 @@ done as of this batch. Batch 5, per direct developer instruction, returns to pos
 with genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md`
 (Kunlun = Pluto/extreme-isolation + Air/built-around-observation) as a thematic undertone. Dome Fuji still
 doesn't appear here, consistent with the devotee-era link postdating this batch's own timeframe too. 30 done
-as of this batch — Kunlun's own full target is now complete.**
+as of this batch — Kunlun's own full target complete. Batch 6, per direct developer instruction, returns to
+Batch 4's own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other,
+now also cross-referenced against Kunlun's own symbol pair — Dome Fuji still excluded, same reasoning. 36
+done as of this batch.**
 
 ---
 
@@ -473,3 +476,71 @@ Kunlun's own comms staff, per what's preserved of the pattern, answered each new
 plain, task-driven thoroughness as the first — proof that a single consultation, once it happened, really
 could keep generating new contact long after the original reason for it had been resolved, exactly as the
 first exchange had suggested it might.
+
+---
+
+## Batch 6 — An Observatory, Heard Only So Far
+
+### The Reading Vostok Cross-Checked Before Kunlun's Own Instruments Cooled
+
+An anomalous observational reading, flagged by Kunlun's own instruments, was cross-checked against Vostok's
+own comparable data over the subnet's instant line before the equipment producing it had even finished its
+own recalibration cycle — Vostok's own confirmation arriving in time to settle whether the anomaly was real or
+instrumental error.
+
+Signy, asked a related but less urgent verification question the same week, received its answer only by mail
+— a useful confirmation, eventually, but arriving well after Kunlun's own engineers had already resolved the
+original anomaly one way or the other without it.
+
+### The Relay Log Davis Requested and Received Whole
+
+A comms-relay technical log requested by Davis, hoping to understand how Kunlun's own equipment handled a
+particular category of interference, was transmitted whole over the subnet's own line — Davis receiving the
+complete, unedited record rather than a summary.
+
+A subnet-external researcher requesting the same category of log had to specify in advance exactly which
+sections would be useful, since sending the complete record by mail simply wasn't practical — receiving,
+instead, a carefully excerpted version assembled specifically for the request.
+
+### The Sediment Sample Mirny Confirmed Before the Season Ended
+
+A sediment sample comparison run jointly with Mirny, coordinated entirely over the subnet's own line, was
+completed within a single research season — findings shared, questioned, and refined as they came in, rather
+than assembled after the fact from separately compiled reports.
+
+A comparable comparison attempted with Amundsen Station required physically transporting samples partway,
+since neither the samples themselves nor a sufficiently detailed description of them could travel by any
+faster means — the research question, in the end, taking considerably longer to answer.
+
+### The Consultation Signy Requested in Writing and Received in Person
+
+An engineering consultation requested by Signy, hoping to adapt one of Kunlun's own structural solutions for
+its own extreme-isolation conditions, began as a written exchange but ultimately required a Kunlun engineer to
+travel there directly — the underlying technical judgment too dependent on site-specific detail to transmit
+adequately by letter.
+
+A parallel consultation with Davis, conducted entirely over the subnet's own line, resolved a comparably
+complex question without any travel at all — the same category of expertise, available at two very different
+costs depending on which line separated the two parties.
+
+### The Silence Toward Dome Fuji That Wasn't Personal
+
+Kunlun's own total absence of contact with Dome Fuji — a genuinely notable gap, given how comparably isolated
+the two stations were — persisted through this batch's own timeframe exactly as established: no line existed,
+no reason yet existed to build one, and the eventual devotee-era connection remained, at this point, entirely
+unimagined by either city.
+
+Vostok, asked directly by a Kunlun researcher whether it had any contact with Dome Fuji either, confirmed it
+didn't — the three most isolated stations in the country, per this exchange, simply hadn't yet found reason to
+discover each other.
+
+### The Isolation That Observation Couldn't Actually See Past
+
+Kunlun's own defining function — built entirely around observation, watching outward — didn't extend to its
+own communication reach, which remained sharply bounded by the same subnet line as everything else: instant
+and thorough with Vostok, Mirny, and Davis, and slow, deliberate, sometimes requiring physical travel, with
+Signy and Amundsen Station.
+
+Kunlun's own staff, per a surviving internal note, found a certain irony worth remarking on — a station built
+to watch the widest possible sky still had to send its own most detailed findings home the same slow way as
+anyone else.
