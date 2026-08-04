@@ -17,7 +17,11 @@ direct digital contact existed only within the Janbogo subnet (Scott) and anythi
 Lazar required trucking, postal service, or physically traveling there. Amundsen Station doesn't appear here
 — Fort McMurdo's own capital-city designation followed directly from the Tower's completion, so pre-Tower
 Fort McMurdo was simply another industrial city, not yet the nationally central one it would become. 24 done
-as of this batch.**
+as of this batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with
+genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Fort
+McMurdo = Jupiter/dominance-self-evident + Earth/the-stabilizing-center) as a thematic undertone — Amundsen
+Station now appears again, since the capital designation itself is squarely post-Tower. 30 done as of this
+batch — Fort McMurdo's own full target is now complete.**
 
 ---
 
@@ -385,3 +389,73 @@ McMurdo with the same generic formality any comparably-sized industrial city mig
 particular deference, no special channel, simply one large city writing to another the slow way every
 subnet-external correspondence traveled before the Tower changed what Fort McMurdo's own address would
 eventually mean to the rest of the country.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The First National Address Sent to "The Capital" Rather Than the City
+
+Following the Tower's completion and the formal capital designation that followed, the first piece of
+correspondence addressed generically to "the Federation capital" rather than to Fort McMurdo by name arrived
+from a city whose own administrators, per what's preserved of the exchange, hadn't previously needed to think
+about Fort McMurdo's own specific identity at all — only that some city now held that function.
+
+Fort McMurdo's own civic office, per what's remembered of receiving it, treated the address with the same
+plain amusement Halley had once shown a similarly generic letter — proof, this time from the opposite
+direction, that a designation could arrive before the person sending it had bothered to learn the actual name
+attached to it.
+
+### The Scheduling Dispute Scott and Fort McMurdo Settled Without Casey's Help
+
+Following the earlier three-city calibration comparison involving Casey, a considerably narrower dispute
+between just Scott and Fort McMurdo — over a specific delivery schedule for calibrated equipment — was
+resolved directly between the two cities for the first time, without needing Casey's own involvement at all.
+
+Both cities' own administrators, per what's preserved of the exchange, noted this as a small but real sign of
+maturity in the relationship — the two cities had built enough of their own direct working rhythm by this
+point that not every disagreement needed a third party's own perspective to settle.
+
+### The Working-Class Comparison Document Troll Cited As a Model
+
+Following the joint comparison document written with Troll, several other cities' own civic offices requested
+copies once word of the project spread — using it, per what's preserved of the pattern, as a template for how
+their own comparably-matched cities might conduct a similar joint self-examination.
+
+Fort McMurdo's own civic office, per what's preserved of the period, found the requests slightly surprising —
+a document written for two specific cities' own mutual curiosity had become, once shared nationally, a
+genuine methodological reference for civic comparison generally.
+
+### The Capital Designation's First Anniversary, Marked Nationally for the First Time
+
+The formal capital designation's own anniversary, previously marked only locally if at all, became the
+occasion for the first genuinely national acknowledgment once cities across the country could simply note the
+date together over the relay rather than each independently deciding whether the occasion mattered to them.
+
+Fort McMurdo's own administrators, per what's preserved of the account, hadn't specifically planned for
+national attention — the acknowledgments arrived unprompted, from cities whose own relationship to Fort
+McMurdo ranged from close economic partnership to essentially none at all, each simply marking the date
+because doing so had become easy.
+
+### The Trade Proposal Lazar Resent, This Time Confirmed Within the Hour
+
+Following the original trade proposal that had gone unanswered long enough to be assumed rejected, a similar
+proposal sent later — after the relay existed — was confirmed favorably within the same working day, closing
+the gap between the two cities' own commercial relationship considerably faster than the original slow
+exchange had allowed.
+
+Fort McMurdo's own commercial office, per what's preserved of the record, noted the specific contrast
+directly — the same kind of proposal, between the same two cities, resolved in hours rather than the
+uncertain months the original had taken.
+
+### The City That Finally Understood Its Own National Weight in Real Time
+
+Once national economic reporting became instant, Fort McMurdo's own administrators could, for the first time,
+watch in real time exactly how much of the country's own industrial output actually depended on decisions
+made locally — a dependency that had always been real but had previously only ever been understood
+retrospectively, city by city, rather than as a single continuously visible national picture.
+
+Several cities' own supply-chain planners, per what's preserved of the period, began citing Fort McMurdo's own
+real-time production data directly in their own planning — the same quiet, undeniable gravity the city had
+always held, now simply visible to everyone at once rather than inferred city by city as it always had been
+before.
