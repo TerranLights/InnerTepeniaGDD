@@ -72,7 +72,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Port Lockroy | 24 | 30 | In progress |
 | Sejong | 24 | 30 | In progress |
 | Signy | 24 | 30 | In progress |
-| Juan Carlos | 18 | 30 | In progress |
+| Juan Carlos | 24 | 30 | In progress |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
 
@@ -125,8 +125,12 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 654** (Halley subnet 174 + Palmer subnet 144 + Mirny subnet 144 + Janbogo subnet 126 +
+50 + 30). **Current: 702** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 144 + Janbogo subnet 126 +
 Mawson subnet 54 + Byrd 24 + Amundsen-Scott Station 12).
+
+**2026-08-03 — Palmer subnet batch 4 complete.** Palmer City, Esperanza, Rothera, Marambio, Port Lockroy,
+Sejong, Signy, and Juan Carlos all completed batch 4 (subnet-bounded digital vs. cross-subnet traditional
+means) — all now 24/30 (Palmer City 24/50).
 
 **2026-08-03 — Halley subnet batch 4 complete.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess
 Elisabeth, and Lazar all completed batch 4 (subnet-bounded digital communication vs. cross-subnet traditional

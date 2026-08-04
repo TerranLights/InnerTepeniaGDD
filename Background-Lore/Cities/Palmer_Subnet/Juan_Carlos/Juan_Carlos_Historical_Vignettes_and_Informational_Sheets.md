@@ -10,7 +10,11 @@ target 30, 12 done as of that batch. Completed the Palmer subnet's batch 2 pass.
 developer instruction, is framed around `City_National_Connections.md`: six occurrences that could only have
 happened once full national digital connectivity existed, each grounded in a specific named city-to-city
 connection from that file (Palmer City, Sejong, Zhongshan, Port Lockroy) distinct from batch 2's own
-Amundsen Station-focused entries. 18 done as of batch 3 — completes the Palmer subnet's batch 3 pass.**
+Amundsen Station-focused entries. 18 done as of batch 3 — completes the Palmer subnet's batch 3 pass. Batch 4,
+per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Palmer subnet (Palmer City,
+Sejong, Port Lockroy) and anything reaching Zhongshan or Amundsen Station required trucking, postal service,
+or physically traveling there. 24 done as of this batch — completes the Palmer subnet's batch 4 pass.**
 
 ---
 
@@ -302,3 +306,77 @@ treated as a one-way handoff. The first direct search confirmed the missing docu
 simply filed under a cataloging convention Juan Carlos's own staff had never used themselves. The gap in Juan
 Carlos's own local records was finally closed, not by finding something new, but by finally being able to ask
 where something old had actually gone.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Gateway That Ran on a Single Standing Conversation
+
+Palmer City's own tourism economy and Juan Carlos's own immigration processing operated, over the Palmer
+subnet's instant line, close enough to a single shared operation that a visitor's own status could be
+confirmed by either office asking the other directly — a level of real-time coordination neither office could
+offer any subnet-external tourism partner.
+
+A specific processing dispute, per what's preserved of the incident, was resolved within the hour once Juan
+Carlos's own immigration staff simply asked Palmer City's own tourism office to confirm a traveler's own
+itinerary directly — a level of cooperation that, extended to a comparable dispute involving a subnet-external
+gateway, would have required written correspondence and a wait measured in weeks rather than minutes.
+
+### The Border Case Sejong Resolved Without a Single Letter
+
+Sejong's own Border Authority and Juan Carlos's own immigration office shared enough overlapping jurisdiction,
+over the subnet's instant line, that a genuinely difficult visa case could be worked jointly in real time —
+both offices reviewing the same file simultaneously rather than passing it back and forth by mail.
+
+The case, per what's preserved of the record, involved a classification neither office had encountered on its
+own before — resolved through direct, same-day consultation rather than the formal written policy inquiry
+either office would otherwise have had to file with the other and wait on, the way either office would have
+had to handle an equivalent question from outside the Palmer subnet entirely.
+
+### What Port Lockroy's Postal Network Actually Depended On
+
+Port Lockroy's own postal-correspondence network routed a considerable share of Palmer subnet mail through
+coordination with Juan Carlos's own archive and immigration offices — a standing arrangement that ran entirely
+over the subnet's instant line, confirming routing and priority for anything genuinely time-sensitive.
+
+A specific piece of correspondence, misrouted during an unusually heavy mail period, was traced and redirected
+within the same afternoon once Juan Carlos's own staff could simply confirm with Port Lockroy directly where
+the piece had last been logged — the kind of quick correction that, for anything addressed beyond the Palmer
+subnet, would have required treating the letter as lost rather than merely delayed.
+
+### The Custodianship Letter Zhongshan Took a Season to Answer
+
+Zhongshan's own Long Record and Juan Carlos's own "Federation's memory" archive-keeping identity, close enough
+in spirit to be genuine professional peers, produced a specific written exchange on archival methodology that
+crossed the full distance from the Palmer subnet into the Mirny subnet at whatever pace the mail allowed.
+
+The first letter, per what's preserved of the correspondence, took nearly half a year to reach Zhongshan and
+longer still to receive a considered reply — a slow, careful exchange between two archivists who each treated
+the other's own eventual response as worth the wait, since nothing faster existed to compare notes on how two
+cities' own historical custodianship actually worked.
+
+### The Archive That Traveled to the Pole Before It Could Simply Transmit
+
+The gradual relocation of Juan Carlos's own formal Federation archive into Amundsen Station's own unified
+national collection began, decades before the Tower existed, as physical shipments — bound volumes and sealed
+document boxes carried the long overland-then-aviation route out of the Palmer subnet toward the Pole, since
+nothing digital connected Juan Carlos to Amundsen Station at all.
+
+A specific early shipment, per what's preserved of the transfer's own founding-era record, took the better
+part of a season to arrive and required a dedicated escort the whole way — Juan Carlos's own archivists
+treating the physical safety of irreplaceable originals as reason enough to send someone along rather than
+trust the shipment to the ordinary freight network alone. The relocation continued this way, shipment by
+physical shipment, for generations before any faster option ever existed.
+
+### The Manifest Palmer City and Sejong Finalized Before the Crates Were Sealed
+
+A joint shipment of archival material, bound for Amundsen Station and requiring both Palmer City's own
+transport logistics and Sejong's own customs clearance, was planned entirely over the subnet's instant line —
+a single coordinated session settling packing order, escort assignment, and departure timing before a single
+crate was sealed.
+
+The shipment itself then traveled the long overland-then-aviation route toward the Pole exactly as every
+prior physical transfer had, with no way for either planning city to confirm its arrival until word eventually
+made its own way back. The planning had never been faster. The journey it produced was exactly as slow as it
+had always been.
