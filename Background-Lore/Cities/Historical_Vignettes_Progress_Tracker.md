@@ -114,7 +114,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 |---|---|---|---|
 | Mawson | 36 | 36 | **Complete** |
 | Dome Fuji | 36 | 36 | **Complete** |
-| Sayowa | 30 | 30 | **Complete** |
+| Sayowa | 36 | 36 | **Complete** |
 
 ### Byrd Subnet (target: 50, 1 city)
 
@@ -146,9 +146,14 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries, superseded — see the 2026-08-06 Batch 6 standard-target note above; the real,
-current target is higher and still growing as Batch 6 proceeds.** **Current: 1,218** (Halley subnet 258 +
-Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 252 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
+current target is higher and still growing as Batch 6 proceeds.** **Current: 1,236** (Halley subnet 258 +
+Palmer subnet 288 + Mirny subnet 288 + Janbogo subnet 252 + Mawson subnet 108 + Byrd 36 + Amundsen-Scott
 Station 12).
+
+**2026-08-06 — Mawson subnet batch 6 complete — all 3 cities at 36/36.** Mawson, Dome Fuji, and Sayowa all
+completed batch 6. Dome Fuji's own entries continued to reflect its doubled isolation — thin, unreliable
+subnet-internal reach on top of the ordinary cross-subnet boundary — and Kunlun stayed excluded, same
+established reasoning.
 
 **2026-08-06 — Janbogo subnet batch 6 complete — all 7 cities at 36/36.** Janbogo, Fort McMurdo, Dumont
 d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 6. Fort McMurdo's batch 6 kept Amundsen

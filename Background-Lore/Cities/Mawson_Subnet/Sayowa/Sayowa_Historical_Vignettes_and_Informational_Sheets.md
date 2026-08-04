@@ -23,7 +23,10 @@ convergence of routes reaching outward in every direction. 24 done as of this ba
 subnet's batch 4 pass. Batch 5, per direct developer instruction, returns to post-Tower full connectivity
 with genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md`
 (Sayowa = Neptune/quiet-diligence + Earth/practical-and-reliable) as a thematic undertone. 30 done as of this
-batch — Sayowa's own full target is now complete, completing the Mawson subnet's batch 5 pass.**
+batch — Sayowa's own full target complete, completing the Mawson subnet's batch 5 pass. Batch 6, per direct
+developer instruction, returns to Batch 4's own pre-Tower framing with genuinely fresh occurrences, distinct
+from both Batch 4 and each other, now also cross-referenced against Sayowa's own symbol pair. 36 done as of
+this batch — completes the Mawson subnet's batch 6 pass.**
 
 ---
 
@@ -454,3 +457,73 @@ Sayowa's own coordinators, per what's preserved of the ongoing arrangement, hand
 practical, unshowy competence as the first — proof that even Tepenia's smallest, most distant trading partner
 could become a small but genuine standing part of Sayowa's own logistics work, once the connection made
 staying in touch easy. **Completes the Mawson subnet's batch 5 pass.**
+
+---
+
+## Batch 6 — A Junction, Fast in Only One Direction
+
+### The Dispatch Mawson Adjusted Mid-Route
+
+A dispatch routing correction, prompted by a last-minute change at Mawson, was relayed over the subnet's own
+instant line in time for Sayowa's own coordinators to redirect an already-departed convoy before it reached
+the wrong turn — a level of responsiveness only possible because the correction could travel faster than the
+convoy itself.
+
+A comparable correction needed for a shipment continuing on toward Princess Elisabeth had no such option — once
+the shipment left Sayowa's own hands, any adjustment had to wait for a full round of correspondence, the
+convoy itself long past any point where a redirect still mattered.
+
+### The Forecast Dome Fuji Confirmed Before the Weather Actually Turned
+
+A weather forecast shared with Dome Fuji over the subnet's own line, imperfect as that connection could be,
+still arrived quickly enough for Dome Fuji's own logistics staff to adjust an outbound shipment before
+conditions actually turned — a narrow but genuine window Sayowa's own dispatch coordinators made a point of
+using whenever the connection cooperated.
+
+Shirayuki, receiving a comparable but less time-sensitive forecast by mail, had no equivalent narrow window to
+work with — planning instead around the forecast's own inherent staleness, building in enough buffer that a
+late-arriving update wouldn't matter as much.
+
+### The Toast Rescheduled by a Single Exchange, Not a Season of Letters
+
+A joint toast planned with Princess Elisabeth required renegotiating timing after an unexpected delay — settled
+within a single exchange over the subnet's own line once the Tower existed, but during this earlier period,
+still requiring the full weight of a formal, carefully worded letter and an equally careful reply, the kind of
+scheduling friction Sayowa and Mawson never had to think about with each other.
+
+Mawson, coordinating a comparable rescheduling the same season, resolved it before the day was out — the
+contrast, noted in Sayowa's own dispatch log, treated as simply the ordinary cost of arranging anything with a
+city outside the subnet.
+
+### The Comparison Shirayuki Drafted Slowly, on Purpose
+
+An institutional comparison between Sayowa's and Shirayuki's own service cultures was drafted deliberately over
+two full winters, each round of feedback requiring its own letter — a slow, careful process that, per both
+cities' own later reflection, actually suited the comparison's own thoughtful subject matter rather well.
+
+Dome Fuji, offering a supplementary perspective on the same comparison over the subnet's own line, could
+contribute a quick clarifying note whenever the connection happened to hold — a small but genuine advantage
+Shirayuki's own correspondence never had access to.
+
+### The Junction's Own Traffic That Moved Faster Than Its Own News
+
+Sayowa Junction's own physical position — convergence point for routes reaching outward in every direction —
+meant genuine trade traffic passed through constantly regardless of distance, but news and correspondence
+about that traffic moved at two very different speeds: instant within the subnet, and the ordinary pace of
+the mail for the wider Halley subnet and beyond.
+
+A shipment bound for the Halley subnet, physically already well underway, was sometimes overtaken in Sayowa's
+own paperwork by a slower, separately mailed status update — the goods themselves outrunning the news of their
+own departure, a small irony Sayowa's own dispatchers noted more than once.
+
+### The Quiet Diligence That Reached Its Neighbors First
+
+Sayowa's own established character — practical, reliable, uncredited service work — was felt most immediately
+and continuously by Mawson and Dome Fuji, both of whom experienced Sayowa's own quiet competence in
+near-real-time. Princess Elisabeth, Shirayuki, and the wider Halley subnet knew the same diligence only
+through its results, arriving considerably delayed and without much visibility into the effort behind them.
+
+Sayowa's own coordinators, per a surviving reflection from the period, found this entirely fitting — the
+city's own defining trait was doing good work without needing credit, and distance, if anything, only made
+that quality more literal: the work reached everyone eventually, but only the nearest neighbors ever really
+got to watch it happen.
