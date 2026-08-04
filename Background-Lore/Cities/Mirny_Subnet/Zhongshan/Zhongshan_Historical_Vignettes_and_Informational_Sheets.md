@@ -17,7 +17,10 @@ from that file (Sinheung, Shirayuki, Mirny, Juan Carlos, Port Lockroy, Amundsen 
 occurrences resting on the actual pre-Tower communication structure, where direct digital contact existed
 only within the Mirny subnet (Sinheung, Shirayuki, Mirny) and anything reaching Juan Carlos, Port Lockroy, or
 Amundsen Station required trucking, postal service, or physically traveling there. 24 done as of this
-batch.**
+batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely
+fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Zhongshan =
+Saturn/content-not-fully-known + Metal/ordered-complexity) as a thematic undertone. 30 done as of this
+batch — Zhongshan's own full target is now complete.**
 
 ---
 
@@ -384,3 +387,73 @@ Once that shipment left the Mirny subnet bound for Port Lockroy, none of the thr
 any way to track its progress — the same instant three-way coordination that assembled the order in an hour
 giving way, at the subnet boundary, to weeks of complete silence before Port Lockroy's own receiving staff
 finally confirmed delivery.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Jeju-do Comparison That Finally Included a Fourth Voice
+
+Following the original three-way archive comparison among the Tri-Cities themselves, a historian from a
+subnet-external city with no Jeju-do connection at all asked to observe a working session — curious, once
+national reporting made the cluster's own unique founding arrangement more widely known, how three
+diplomatically-allocated cities actually coordinated a joint historical project in practice.
+
+The Tri-Cities' own archivists, per what's preserved of the account, welcomed the outside observer without
+much ceremony — the first time their own internal three-way working method had been studied by someone with
+no personal stake in the cluster at all, simply out of genuine outside curiosity about how it functioned.
+
+### The Suite Performed a Third Time, With Sinheung and Shirayuki Both Contributing
+
+Following the joint listening gathering that first marked "The Long Winter Suite" as a shared Tri-Cities
+occasion, a later performance went further — Sinheung's own manufacturing-floor musicians and members of
+Shirayuki's own art community contributed actual accompanying elements to a live Zhongshan performance for
+the first time, rather than simply gathering to listen together.
+
+Zhongshan's own composers, per what's preserved of the collaboration, described the result as genuinely
+different from the original piece — not a replacement, but a version specifically shaped by the whole
+cluster's own participation rather than Zhongshan's alone.
+
+### The Relay Vaults Inspection That Found Something Worth Fixing
+
+Following the original inspection visit to Mirny's Relay Hardware Vaults, a second, more technical visit —
+prompted by a specific concern Zhongshan's own technicians raised after reviewing the first visit's own
+notes — identified a genuine minor vulnerability in the Vaults' own redundancy planning that the original
+inspection had missed.
+
+Mirny's own technicians, per what's preserved of the exchange, treated the finding seriously and adjusted
+their own maintenance schedule accordingly — the first time an outside city's own inspection had actually
+changed how Mirny operated its own critical infrastructure, rather than simply confirming it was sound.
+
+### The Custodianship Comparison That Became a Joint Publication
+
+Following the original informal custodian comparison with Juan Carlos, the two archivists formalized their
+shared reflection into an actual co-authored piece — comparing the Long Record's own function to Juan
+Carlos's "Federation's memory" role in a single document neither archive had produced before.
+
+The piece, per what's preserved of its own creation, became something both institutions referenced afterward
+when explaining their own civic purpose to outsiders — the first time either archive had needed another
+city's own perspective to fully articulate what its own custodianship actually meant.
+
+### The Wall Panel Zhongshan Finally Got to See, Not Just Hear Described
+
+Following the detailed written explanation of Port Lockroy's own Wall tradition, a Zhongshan historian made
+the trip in person for the first time — a journey easy enough to arrange now that the visit only needed a
+single conversation to schedule, rather than the months of correspondence an equivalent trip would once have
+required.
+
+The visit, per what's preserved of the account, confirmed everything the written explanation had described
+while adding something no letter could — actually standing in front of the Wall itself, seeing directly what
+the Long Record's own comparable instinct for accounting-for-the-past looked like when practiced by a
+different city entirely.
+
+### The Arbitration Amundsen Station Requested a Second Time, Much Faster
+
+Following the original formal written arbitration request, Amundsen Station returned to the Long Record for a
+second dispute — this time resolved within a single working session over the relay, rather than the
+months-long exchange the original request had required.
+
+Zhongshan's own archivists, per what's preserved of the second exchange, found the faster pace didn't diminish
+the seriousness of the work — the same careful research standard applied, simply compressed into hours rather
+than the better part of a year, confirming the Long Record's own trusted status hadn't been a one-time
+courtesy but a standing, repeatable role.
