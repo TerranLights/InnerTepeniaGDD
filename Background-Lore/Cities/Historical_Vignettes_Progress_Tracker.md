@@ -78,7 +78,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Rothera | 36 | 36 | **Complete** |
 | Marambio | 36 | 36 | **Complete** |
 | Port Lockroy | 36 | 36 | **Complete** |
-| Sejong | 30 | 30 | **Complete** |
+| Sejong | 36 | 36 | **Complete** |
 | Signy | 30 | 30 | **Complete** |
 | Juan Carlos | 30 | 30 | **Complete** |
 

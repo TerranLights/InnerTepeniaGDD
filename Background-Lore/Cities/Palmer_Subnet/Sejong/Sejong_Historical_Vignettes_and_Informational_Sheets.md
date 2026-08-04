@@ -18,8 +18,10 @@ Palmer subnet (Palmer City, Juan Carlos) and anything reaching Janbogo, Sinheung
 trucking, postal service, or physically traveling there. 24 done as of this batch. Batch 5, per direct
 developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences distinct from
 batch 3, cross-referenced against `city-symbol-pairs.md` (Sejong = Jupiter/gathering-many-into-one + Air/the
-connective medium) as a thematic undertone. 30 done as of this batch — Sejong's own full target is now
-complete.**
+connective medium) as a thematic undertone. 30 done as of this batch — Sejong's own full target complete.
+Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with
+genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced against
+Sejong's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -471,3 +473,70 @@ Sejong's own coordinators, per what's preserved of the response, answered with t
 they extended to every inquiry — the first time the island's own decades of accumulated governance experience
 had been sought out by a city whose own name Sejong's own Hall staff hadn't previously had any reason to
 know.
+
+---
+
+## Batch 6 — Gathering Many Into One, at Two Different Speeds
+
+### The Delegation Palmer City Rerouted Mid-Journey
+
+A visiting delegation already en route to Sejong was rerouted mid-journey after Palmer City's own coordinators,
+in contact with Sejong's Hall over the subnet's own instant line, learned the original meeting had been moved
+to accommodate an unrelated scheduling conflict — the delegation redirected before it ever reached the wrong
+venue.
+
+A comparable visiting party from Janbogo, coordinating the same category of visit entirely by letter, had no
+equivalent safety net — a scheduling change on Sejong's end, communicated only by return post, arrived after
+the Janbogo delegation had already departed, requiring an awkward on-arrival adjustment instead.
+
+### The Negotiation Juan Carlos Could Rejoin After Stepping Away
+
+A multi-party negotiation hosted at Sejong's Negotiation Hall, with Juan Carlos's own representative
+participating remotely over the subnet's own line, let that representative step away and rejoin the
+discussion at will — a level of continuous participation only possible because the connection itself never
+had to be re-established from scratch.
+
+A representative from Abowasa, participating in a related negotiation by an exchange of letters instead,
+could offer only a single fixed position per round — no ability to step back in mid-discussion once a letter
+had already been sent, each contribution final until the next full mail cycle allowed a revision.
+
+### The Immigration Case Sejong Couldn't Close Without the Mail
+
+An immigration case involving a family with ties to Sinheung required Sejong's own Hall staff to wait on a
+formal document confirming lineage details — a request sent by mail, with the case itself remaining open for
+the better part of a season while the confirmation made its way back.
+
+An equivalent case involving a family connected instead to Palmer City was resolved within days, Sejong's own
+staff cross-referencing the necessary records directly over the subnet's line rather than waiting on anything
+to physically arrive.
+
+### The Governance Study Abowasa Received in Installments
+
+A detailed governance-methodology study requested by Abowasa arrived not as a single document but in several
+separate mailed installments, sent as each section was finished rather than held until the whole thing was
+complete — Sejong's own staff choosing to send partial results early rather than make Abowasa wait even
+longer for the finished whole.
+
+Juan Carlos, requesting the same study over the subnet's own line, simply watched the document take shape in
+real time as Sejong's staff wrote it — no installments necessary, since the whole process was visible as it
+happened rather than needing to be parceled out by mail.
+
+### The Reciprocal Trade Question Lazar Answered a Full Season Later
+
+A trade coordination question sent to Lazar, hoping to align Sejong's own diplomatic calendar with Lazar's
+seasonal trade cycles, received a considered reply only after a full season had passed — Lazar's own
+negotiators needing that long simply because each round of clarification required its own separate letter.
+
+The same category of coordination, run with Palmer City over the subnet's own line, was settled within a
+single week — several rounds of adjustment completed in the time it took Lazar's own letter to make just one
+of its own necessary round trips.
+
+### The Hall That Gathered the Subnet Instantly and the Country Slowly
+
+Sejong's own defining civic talent — gathering many different neighbors and giving each one somewhere to
+belong — operated at its fullest, most responsive capacity within the Palmer subnet, where Palmer City and
+Juan Carlos could be woven into any given negotiation or arrangement in real time.
+
+Cities outside the subnet were gathered too, eventually, and just as genuinely — but always on the mail's own
+timeline rather than the Hall's, a fact Sejong's own coordinators accepted as simply the shape diplomacy took
+whenever a subnet boundary stood between the island and whoever it was trying to include.
