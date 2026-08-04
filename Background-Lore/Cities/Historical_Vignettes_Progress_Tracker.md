@@ -69,7 +69,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Princess Elisabeth | 36 | 36 | **Complete** |
 | Lazar | 36 | 36 | **Complete** |
 
-### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)
+### Palmer Subnet (target: 36 each except Palmer City at 50; 302 total)
 
 | City | Done | Target | Status |
 |---|---|---|---|
@@ -80,7 +80,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Port Lockroy | 36 | 36 | **Complete** |
 | Sejong | 36 | 36 | **Complete** |
 | Signy | 36 | 36 | **Complete** |
-| Juan Carlos | 30 | 30 | **Complete** |
+| Juan Carlos | 36 | 36 | **Complete** |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
 
@@ -146,8 +146,8 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries, superseded — see the 2026-08-06 Batch 6 standard-target note above; the real,
-current target is higher and still growing as Batch 6 proceeds.** **Current: 1,080** (Halley subnet 258 +
-Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 210 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
+current target is higher and still growing as Batch 6 proceeds.** **Current: 1,128** (Halley subnet 258 +
+Palmer subnet 288 + Mirny subnet 240 + Janbogo subnet 210 + Mawson subnet 90 + Byrd 36 + Amundsen-Scott
 Station 12).
 
 **2026-08-06 — Halley subnet batch 6 complete — all 7 standard-target cities now at 36/36.** Halley, Neumayer,
@@ -157,6 +157,12 @@ framing, now with genuinely fresh occurrences distinct from Batch 4 and cross-re
 own `city-symbol-pairs.md` pair as a thematic undertone. Princess Elisabeth's batch 6 continued to lean on its
 established asymmetry (unused Halley-subnet reach vs. real cross-subnet relationships); Sanay's batch 6 also
 covered the Amundsen Station cable's narrow, established exception to the subnet boundary.
+
+**2026-08-06 — Palmer subnet batch 6 complete — all 7 standard-target cities at 36/36, Palmer City at 36/50.**
+Esperanza, Rothera, Marambio, Port Lockroy, Sejong, Signy, and Juan Carlos all completed batch 6; Palmer City
+gains six more toward its own elevated target. Rothera's batch 6 leaned on its Earth element alone (planet
+still TBD); Juan Carlos's batch 6 included a fresh Amundsen Station entry, consistent with Batch 4's own
+precedent of including Amundsen Station where a genuine pre-Tower physical-travel connection already existed.
 
 **2026-08-06 — Mawson subnet batch 5 complete — all 3 cities now at their full 30/30 target.** Mawson, Dome
 Fuji, and Sayowa all completed batch 5. Dome Fuji's own entries continued to reflect its established

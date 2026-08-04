@@ -18,7 +18,10 @@ or physically traveling there. 24 done as of this batch — completes the Palmer
 per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
 distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Juan Carlos = Neptune/known-through-
 its-records + Metal/methodical-precision) as a thematic undertone. 30 done as of this batch — Juan Carlos's
-own full target is now complete, completing the Palmer subnet's batch 5 pass.**
+own full target complete, completing the Palmer subnet's batch 5 pass. Batch 6, per direct developer
+instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh occurrences,
+distinct from both Batch 4 and each other, now also cross-referenced against Juan Carlos's own symbol pair.
+36 done as of this batch — completes the Palmer subnet's batch 6 pass.**
 
 ---
 
@@ -456,3 +459,72 @@ Juan Carlos's own archivists, per what's preserved of the period, found the atte
 a system built for one narrow bureaucratic purpose had, once other archivists could actually study how it
 worked, turned out to be a genuinely well-designed template for careful record-keeping generally. **Completes
 the Palmer subnet's batch 5 pass.**
+
+---
+
+## Batch 6 — An Archive, Consulted at Two Different Speeds
+
+### The Cross-Reference Sejong Confirmed Before the Applicant Left the Hall
+
+An immigration cross-reference requested by Sejong's own Hall staff, mid-interview with an applicant claiming
+a documented family connection through Juan Carlos's own archive, was confirmed over the subnet's own instant
+line before the interview itself had concluded — the applicant leaving with a settled case rather than an open
+one.
+
+The identical category of cross-reference, requested by a subnet-external administrator handling a similar
+case, took weeks to resolve — the applicant's own case remaining open the entire time, since no equivalent
+same-session confirmation was possible once a subnet boundary separated the requesting office from Juan
+Carlos's own archive.
+
+### The Duplicate Record Port Lockroy Never Had to Request Twice
+
+A records-preservation exchange between Juan Carlos and Port Lockroy, both cities working from similar
+custodianship principles, ran continuously over the subnet's own line — updates, corrections, and duplicate
+copies flowing back and forth as a matter of routine, neither city needing to formally request anything twice.
+
+Zhongshan, seeking a comparable exchange for its own Long Record custodianship, had to specify precisely what
+it wanted in a single formal letter — no back-and-forth refinement possible before the requested material
+simply arrived, whatever form it happened to take.
+
+### The Border Case Palmer City Resolved While Juan Carlos Was Still Reading the File
+
+A border-adjacent case referencing an old Juan Carlos record was resolved by Palmer City's own administrators
+before Juan Carlos's own archivists had finished locating the complete original file — Palmer City working
+from a live summary relayed over the subnet's line while the full document was still being pulled.
+
+Amundsen Station, requesting a related historical cross-reference for its own founding-era research, received
+its answer only once a physically traveling archivist could deliver both the summary and the complete file
+together — no faster channel existed to send anything as sensitive as founding-era archival material to the
+Pole.
+
+### The Standard Zhongshan Adopted a Full Season After Juan Carlos Refined It
+
+Juan Carlos's own record-preservation standard, continuously refined through daily practice and shared
+informally with Port Lockroy and Palmer City as it changed, reached Zhongshan only in a single, formally
+finalized version — sent by mail well after several rounds of small improvements had already superseded it
+within the subnet.
+
+Zhongshan's own custodians, working faithfully from what they'd received, had no way to know an even better
+version already existed elsewhere — a gap that simply couldn't close any faster than the postal system
+connecting the two cities allowed.
+
+### The Researcher Who Chose the Journey Over the Letter
+
+A researcher hoping to study a specific, fragile set of founding-era documents traveled to Juan Carlos in
+person rather than requesting copies by mail — the documents themselves too delicate to risk transit, and the
+questions the researcher needed answered too detailed to resolve satisfactorily through correspondence alone.
+
+A colleague pursuing a related but less delicate inquiry, working instead with Sejong over the subnet's own
+line, completed an equivalent research project in a fraction of the time — the same archive, the same
+rigor, simply available at two very different speeds depending on what exactly was being asked of it.
+
+### The Archive That Answered Instantly for Some and Patiently for Everyone Else
+
+Juan Carlos's own reputation — known through its records and effects rather than direct presence — held
+uniformly true regardless of who was asking, but the speed of that knowing varied enormously: same-session
+answers for Palmer City, Sejong, and Port Lockroy, and the ordinary patience of the mail, or a physical
+journey, for Zhongshan and Amundsen Station.
+
+Juan Carlos's own senior archivist, per a note preserved from the period, considered the asymmetry simply an
+honest description of the archive's own reach — the records themselves were equally thorough for anyone, but
+thoroughness and speed had never been the same promise.
