@@ -15,8 +15,10 @@ pre-Tower communication structure, where direct digital contact existed only wit
 traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower
 full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Esperanza = Mars/revived back to its original family-oriented purpose + Wood/nurture
-and growth) as a thematic undertone. 30 done as of this batch — Esperanza's own full target is now
-complete.**
+and growth) as a thematic undertone. 30 done as of this batch — Esperanza's own full target complete.
+Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with
+genuinely fresh occurrences, distinct from both Batch 4 and each other, now also cross-referenced against
+Esperanza's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -471,3 +473,72 @@ specifically to understand how a whole city's civic identity could be organized 
 successfully as Esperanza's evidently had — the first time the city's own quiet, decades-long founding
 mission had been treated, nationally, as a genuine model worth studying rather than simply a pleasant local
 fact.
+
+---
+
+## Batch 6 — Family Business, Kept Close to Home
+
+### The School Schedule Marambio Adjusted Before Esperanza Finished Asking
+
+A shared childcare-coverage arrangement between Esperanza and Marambio, relied on by families with parents
+working across both cities, was coordinated over the subnet's own instant line closely enough that schedule
+changes on one side were reflected on the other within the same day — a level of trust and responsiveness
+built entirely on how fast the two cities could actually talk.
+
+A subnet-external relative hoping to arrange a visit around the same children's schedule had no equivalent
+option — a letter requesting the current schedule arrived, per a surviving example, describing a term that had
+already ended by the time the reply reached them.
+
+### The Recipe Belgrano Answered a Second Time, Properly
+
+A family recipe request sent to Belgrano by mail, garbled somewhere in transcription, produced a dish
+Esperanza's own kitchens couldn't quite place as correct — the correction, requested by a second letter, took
+another full mail cycle to arrive, the error only caught because someone who'd actually tasted the original
+happened to visit months later.
+
+The same category of exchange, run informally with Marambio over the subnet's own line, was self-correcting in
+a way the Belgrano letters simply weren't — a wrong ingredient list caught and fixed the same afternoon,
+before anyone had gone to the trouble of actually cooking from it.
+
+### The Adoption Records Janbogo Couldn't Simply Request
+
+A cross-subnet inquiry into a family's own possible Janbogo-subnet origins, tracing a lineage question through
+the Birth Registry Archive, required a formal written request and a matching search on Janbogo's own end —
+each round of clarification costing weeks, since neither city could simply query the other's own records
+directly.
+
+A comparable lineage question involving Marambio was resolved within the Palmer subnet in an afternoon —
+Esperanza's own registrars cross-referencing the two cities' records live over the subnet's line, the entire
+search conducted as a single continuous conversation rather than a slow written exchange.
+
+### The Overflow Marambio Planned Around Before Esperanza Even Called
+
+Marambio's own port administrators, watching Esperanza's family-services intake numbers over the subnet's own
+line, began pre-positioning temporary housing supplies ahead of an anticipated overflow before Esperanza's own
+office had formally requested anything — a level of anticipatory coordination only possible because Marambio
+could simply watch the numbers rise in real time.
+
+A subnet-external city offering similar overflow assistance during an earlier, separate incident had no such
+visibility — its own contribution arrived only after a formal request had been sent, received, and acted on,
+each step adding its own delay.
+
+### The Letter That Reached Belgrano's Archive Before Its Own Author Did
+
+A researcher from Esperanza, traveling to consult Belgrano's own archive in person, sent a letter ahead
+describing exactly what she hoped to find — the letter arrived, per what's preserved of the account, barely a
+day before she did, the postal system and her own overland travel time turning out to be nearly identical.
+
+The coincidence became something of a small joke between the two archives afterward — proof, if any were
+needed, that traveling in person and writing ahead by mail weren't meaningfully different in speed once a
+subnet boundary was involved, only in what each option let her actually do once she arrived.
+
+### The City Whose Warmth Stayed Local Until Someone Came to Find It
+
+Esperanza's own reputation for being genuinely, thoroughly family-oriented was, before the Tower, something
+mostly known and felt within the Palmer subnet itself — Marambio's families interwoven with Esperanza's own by
+daily contact, while cities outside the subnet knew the reputation only as a description, never as a lived
+fact.
+
+Esperanza's own civic records from the period show a quiet awareness of this limitation — the city didn't
+need cross-subnet reach to be exactly what it already was, but its own founding purpose, family by family,
+simply couldn't travel any faster than the people carrying word of it in person.
