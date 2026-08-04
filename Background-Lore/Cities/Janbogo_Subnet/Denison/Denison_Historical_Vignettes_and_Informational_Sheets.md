@@ -16,7 +16,11 @@ batch 3 — completes the Janbogo subnet's batch 3 pass. Batch 4, per direct dev
 lens: six occurrences resting on the actual pre-Tower communication structure, where direct digital contact
 existed only within the Janbogo subnet (Dumont d'Urville) and anything reaching Sinheung, Byrd, Rothera, or
 Mirny required trucking, postal service, or physically traveling there. 24 done as of this batch —
-completes the Janbogo subnet's batch 4 pass.**
+completes the Janbogo subnet's batch 4 pass. Batch 5, per direct developer instruction, returns to post-Tower
+full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Denison = Venus/extreme-conditions-met-with-an-extreme-answer + Metal/precision-
+engineering) as a thematic undertone. 30 done as of this batch — Denison's own full target is now complete,
+completing the Janbogo subnet's batch 5 pass.**
 
 ---
 
@@ -374,3 +378,74 @@ The Dumont d'Urville shipment arrived within days. The letter to Rothera took mo
 reply to at all — two pieces of correspondence, sent from the same office on the same morning, arriving at
 their destinations at completely different speeds depending on nothing more than which side of the subnet
 boundary each was addressed to. **Completes the Janbogo subnet's batch 4 pass.**
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Comparison Sinheung Extended Even Further, With Denison's Blessing
+
+Following the concluded three-way historical comparison, Sinheung's own historians continued the underlying
+research independently and shared the completed, expanded version back — Denison's own engineers reviewing
+and formally endorsing the additional findings as accurate, closing a research thread the original three-way
+conversation had only begun.
+
+Denison's own residents, per what's preserved of the exchange, took quiet satisfaction in seeing their own
+city's precision-tolerance heritage documented more fully than any single city's own account had managed
+alone — the shared Cradle-network history finally getting the thorough treatment its own three former
+manufacturers had never had reason to produce together before.
+
+### The Chamber Origin Story Byrd Asked to Hear a Second Time, More Carefully
+
+Following the original explanation of Denison's own historical role as the Cradle network's third
+manufacturer, Byrd's own engineers requested a considerably more detailed account — curious about specific
+technical decisions the original explanation had only summarized.
+
+Denison's own remaining archival records, per what's preserved of the exchange, held more detail than the
+first explanation had drawn on — the second, more probing conversation surfacing genuine technical specifics
+neither Byrd nor Sinheung had previously had access to about how the historical third chamber manufacturer had
+actually operated.
+
+### The Wind-Engineering Comparison Rothera Cited as Definitive
+
+Following the considerably more rigorous follow-up comparison with Rothera, the completed study became the
+definitive reference both cities' own engineers cited afterward whenever the katabatic-wind engineering
+question came up — the actual conclusion to a comparison that had begun with a single exchange and grown into
+genuine collaborative research.
+
+Denison's own engineers, per what's preserved of the study's own reception, found real satisfaction in seeing
+their own fully-interlinked structural philosophy taken seriously as one of two genuinely valid answers to the
+same extreme problem, rather than simply the more extreme of two approaches.
+
+### The Load-Distribution Confirmation Mirny Finally Explained in Full
+
+Following the original load-distribution confirmation from Mirny, Denison's own engineers asked for the full
+underlying calculation rather than just the confirmed result — a level of technical detail the original
+exchange hadn't included, now answerable in a single working session.
+
+Mirny's own engineers, per what's preserved of the exchange, walked through their own windbreak-ring
+reasoning step by step — the first time the two cities' own extreme-wind engineering traditions had actually
+compared underlying methodology rather than simply confirming that both approaches worked.
+
+### The Formal Cohort That Finally Included a Denison-Trained Engineer as Faculty
+
+Following the formalized exchange program with Dumont d'Urville, a Denison-trained engineer was invited to
+formally teach a session within the program for the first time — no longer simply a participant in the
+exchange, but a recognized expert contributing directly to how the next cohort was trained.
+
+Dumont d'Urville's own coordinators, per what's preserved of the invitation, treated it as a natural next
+step — the exchange program having matured enough that its own most capable participants could begin shaping
+it directly, rather than only passing through it.
+
+### The City Whose Engineering Philosophy Finally Got Its Own National Hearing
+
+Once national technical comparison became possible, Denison's own fully-interlinked structural philosophy —
+long understood locally as simply the practical answer to an extreme local problem — became, for the first
+time, a specifically cited national engineering case study in its own right, studied by cities with no
+katabatic-wind problem of their own at all, simply for what the design itself demonstrated about extreme-
+condition structural thinking.
+
+Denison's own engineers, per what's preserved of the period, found the attention validating in the same quiet
+way the city handled everything else — genuine national recognition, received the same way the city met its
+own defining wind: without complaint, and without needing to make a show of having earned it. **Completes the
+Janbogo subnet's batch 5 pass.**

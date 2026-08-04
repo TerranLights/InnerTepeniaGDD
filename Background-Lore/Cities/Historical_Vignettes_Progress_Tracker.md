@@ -98,7 +98,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Cape Adare | 30 | 30 | **Complete** |
 | Zukelli | 30 | 30 | **Complete** |
 | Scott | 30 | 30 | **Complete** |
-| Denison | 24 | 30 | In progress |
+| Denison | 30 | 30 | **Complete** |
 
 ### Mawson Subnet (target: 30 each, 90 total)
 
@@ -138,8 +138,13 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 954** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 168 +
+50 + 30). **Current: 1,014** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 210 +
 Mawson subnet 72 + Byrd 30 + Amundsen-Scott Station 12).
+
+**2026-08-06 — Janbogo subnet batch 5 complete — all 7 cities now at their full 30/30 target.** Janbogo, Fort
+McMurdo, Dumont d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 5. Fort McMurdo's own
+Amundsen Station connection reappears here (unlike batch 4), since the capital-city designation itself is
+squarely a post-Tower fact.
 
 **2026-08-06 — Mirny subnet batch 5 complete — all 8 cities now at their full 30/30 target.** Mirny, Casey,
 Davis, Kunlun, Vostok, Zhongshan, Sinheung, and Shirayuki all completed batch 5. **Tri-Cities combined total
