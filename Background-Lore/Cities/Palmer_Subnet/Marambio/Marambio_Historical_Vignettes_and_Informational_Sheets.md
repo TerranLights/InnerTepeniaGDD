@@ -10,7 +10,10 @@ Infrastructure_Attributes.md`'s 9 attributes and its Cross-Referenced Extrapolat
 `City_National_Connections.md`: six occurrences that could only have happened once full national digital
 connectivity existed, each grounded in a specific named city-to-city connection from that file (Esperanza,
 Belgrano, Byrd) rather than the anonymous "distant subnet" batch 2's own dual-mode inquiry entry already
-used. 18 done as of batch 3.**
+used. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences
+resting on the actual pre-Tower communication structure, where direct digital contact existed only within the
+Palmer subnet (Esperanza) and anything reaching Belgrano or Byrd required trucking, postal service, or
+physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -311,3 +314,77 @@ that shared a founding heritage neither had ever had reason to actually discuss 
 understood it directly. Several informal professional friendships, per what's remembered of the occasion,
 outlasted the gathering itself — the first personal, rather than purely operational, connections either
 airfield's own staff had ever formed with their genuine counterpart in the other subnet.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Flight Plan Esperanza Adjusted Before It Was Filed
+
+Marambio's own flight scheduling, coordinated constantly with Esperanza's own harbor operations over the
+Palmer subnet's instant line, let both facilities adjust for each other's own conditions in real time — a
+crosswind delay at Marambio, relayed instantly, could shift Esperanza's own dock crew scheduling before the
+delayed flight had even finished waiting it out.
+
+A specific weather delay, per what's preserved of the incident, prompted Esperanza's own harbor staff to
+rearrange an entire day's receiving schedule around Marambio's own updated timeline within minutes of the
+delay being called — coordination neither airfield could have managed with a subnet-external partner, where
+the same weather report would have reached its destination only after the delay itself had already resolved.
+
+### The Ground Crew Belgrano Trained by Letter, Not by Visit
+
+A specific maintenance technique developed at Belgrano's own aircraft boneyard, genuinely useful to Marambio's
+own ground crew operations, reached Marambio only through written correspondence — no channel existed to
+simply demonstrate the method directly, since nothing digital crossed from the Halley subnet into the Palmer
+subnet.
+
+The technique, per what's preserved of the exchange, took several rounds of increasingly detailed letters
+before Marambio's own crews felt confident they'd understood it correctly — clarifying questions mailed back
+to Belgrano, answered months later, in a back-and-forth that would have been a single supervised demonstration
+had the two airfields simply been able to speak to each other directly.
+
+### The Heritage Comparison That Took a Full Founding Generation to Confirm
+
+Marambio's and Belgrano's shared Argentine Air Force founding heritage was suspected by both cities' own early
+historians long before either could actually confirm it — the confirmation itself requiring physical archive
+access neither city's own correspondence alone could provide.
+
+A specific historian's research trip, undertaken specifically to examine Belgrano's own founding-era Air Force
+records in person, settled a question written correspondence had failed to resolve across several earlier
+rounds of increasingly frustrated letters — proof that some historical questions, in the pre-Tower era, simply
+required someone to physically travel and look rather than keep asking by mail.
+
+### The Backup Corridor Byrd Never Knew Was Being Tested
+
+Byrd's only overland connection to the rest of the country ran through the Palmer subnet corridor Marambio
+sat alongside — a secondary logistics link Marambio maintained as a backup route without any way to confirm,
+from its own end, whether Byrd's side of the corridor was actually functioning on a given day.
+
+A specific test shipment, sent along the backup route with no advance notice Byrd had any means of receiving,
+took considerably longer than expected to confirm delivery — Marambio's own dispatchers waiting weeks for
+word that never came digitally, since nothing connected the two ends of the corridor except the same physical
+convoy the test itself depended on. Confirmation eventually arrived by the convoy's own return trip, the only
+channel available.
+
+### The Manifest Marambio Drafted Twice for the Same Shipment
+
+A shipment requiring both Esperanza's own smaller-scale packing precision and Marambio's own bulk-cargo
+capacity was planned entirely over the subnet's instant line — a single joint session settling load
+distribution between the two facilities before either had moved a single crate.
+
+The shipment's own physical manifest, once finalized digitally, still had to be copied out by hand for the
+freight itself — a second, paper version that traveled with the cargo once it left the Palmer subnet toward
+Belgrano, since nothing digital would confirm its arrival on the other end. The planning session took an hour.
+The paperwork it produced traveled for weeks.
+
+### The Reunion That Existed as Letters for a Generation First
+
+The personal friendships eventually formed between Marambio's and Belgrano's own aviation professionals had a
+quieter precursor: decades of occasional correspondence between individual pilots and ground crew who'd heard,
+secondhand, that a counterpart doing comparable work existed at the other Air Force-heritage airfield.
+
+Several of these older correspondences, per what's preserved of the letters themselves, moved at a pace of one
+exchange every season or longer — professional curiosity sustained across years by nothing more than the
+occasional letter, the same slow rhythm every piece of Marambio's own subnet-external mail traveled at, long
+before any of those pen-pal relationships ever became the kind of gathering direct contact would eventually
+make possible.
