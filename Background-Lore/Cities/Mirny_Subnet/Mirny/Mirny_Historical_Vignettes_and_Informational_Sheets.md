@@ -18,7 +18,11 @@ subnet, reachable only by trucking, postal service, or physically traveling ther
 batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely
 fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Mirny = Saturn/
 content-not-to-be-fully-known + Earth/groundedness) as a thematic undertone. 30 done as of this batch —
-Mirny's own full target is now complete.**
+Mirny's own full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own
+pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Mirny's own symbol pair — still resting on the Relay Hardware Vaults' own pre-Tower
+subnet-wide reach (Sinheung, Casey, Davis, Zhongshan, Vostok, Kunlun) against traditional means for Rothera,
+Abowasa, and Denison. 36 done as of this batch.**
 
 ---
 
@@ -495,3 +499,69 @@ Denison's own engineers, per what's preserved of the exchange, noted the speed d
 own follow-up thanks — proof, from a city whose own established Enneagram profile prized structural mastery
 above nearly everything else, that Mirny's own windbreak-ring expertise held up under a harder question than
 the original consultation had tested.
+
+---
+
+## Batch 6 — A Windbreak With Vaults for Ears
+
+### The Toast Kunlun Heard the Same Night It Was Told
+
+A version of Mirny's own founding toast, retold at a subnet-wide gathering coordinated through the Relay
+Hardware Vaults, reached Kunlun's own listening post the same evening — one of the only times an isolated
+Kunlun observer could join a purely social occasion happening elsewhere in the subnet as it actually unfolded,
+rather than reading about it afterward.
+
+Rothera, hearing of the same toast only through a later letter from a mutual contact, received a secondhand
+account months after the fact — the story itself intact, but arriving as history rather than as anything
+Rothera could have been part of in the moment.
+
+### The Quarry Dispute Zhongshan Settled Before Its Own Letter to Rothera Was Finished
+
+A quarry-measurement discrepancy between Mirny and Zhongshan was resolved over the Vaults' own instant line in
+a single sitting — both cities' own records compared side by side, the correction applied immediately.
+
+Rothera, raising a comparable measurement question separately, had no equivalent option — its own letter,
+still being drafted when the Zhongshan matter closed, took several more weeks to receive even an
+acknowledgment, since nothing about Mirny's subnet-wide reach extended past the Mirny subnet's own boundary.
+
+### The Recipe Sinheung Adjusted Twice Before Dinner
+
+A shared recipe exchanged between Mirny and Sinheung's own kitchens, coordinated through the Vaults, was
+revised twice in the course of a single afternoon as each side tasted and adjusted — the kind of playful,
+iterative exchange only possible because neither side had to wait for a letter to try the next version.
+
+Abowasa, requesting the same recipe by mail, received a single, carefully finalized version with no
+opportunity to participate in the back-and-forth that had actually produced it — a finished dish handed over
+rather than a conversation joined.
+
+### The Wildlife Data Casey Could Adjust the Same Day It Changed
+
+A wildlife-monitoring dataset shared continuously between Mirny and Casey over the Vaults let Casey's own
+researchers flag and correct a data-entry error the same day it occurred — a level of ongoing quality control
+simply unavailable to anyone outside the subnet's own reach.
+
+Denison, working from an older, uncorrected version of the same dataset received by mail months earlier, based
+an entire season's worth of comparative analysis on figures Mirny and Casey had already quietly fixed between
+themselves — an error that would eventually need its own separate correspondence to untangle.
+
+### The Delegation Abowasa Sent Because No Letter Would Do
+
+A delegation from Abowasa, hoping to understand Mirny's own windbreak-engineering principles well enough to
+adapt them locally, made the long overland trip rather than rely on correspondence — the underlying
+engineering judgment involved, per the delegation's own later account, simply didn't translate well enough
+into writing to be worth the attempt.
+
+Davis, seeking a related consultation over the Vaults' own instant line, resolved the same category of
+question inside a single working session — no travel necessary, the two cities' shared subnet-wide reach
+making the trip Abowasa had to take entirely unnecessary for anyone already inside it.
+
+### The Vaults That Made a Subnet Feel Like One City and a Neighbor Feel Like Another Country
+
+Mirny's own Relay Hardware Vaults collapsed the ordinary distance between Sinheung, Casey, Davis, Zhongshan,
+Vostok, and Kunlun so thoroughly that residents of the period, per surviving accounts, sometimes spoke of the
+whole subnet's own daily life as a single shared conversation rather than six separate cities' worth of news.
+
+Rothera, Abowasa, and Denison — none of them any further away in absolute terms than several subnet-internal
+cities were from each other — experienced Mirny as something closer to a distant, slow-corresponding
+acquaintance, an asymmetry the Vaults themselves had created and that nothing short of the Tower would
+eventually undo.
