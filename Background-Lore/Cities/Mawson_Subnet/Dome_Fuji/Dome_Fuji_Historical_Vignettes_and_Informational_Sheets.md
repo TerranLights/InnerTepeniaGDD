@@ -26,7 +26,12 @@ pre-Tower communication structure, where direct digital contact existed only wit
 postal service, or physically traveling there — with the added wrinkle, per `feedback_extreme_altitude_
 arcanet`, that even Dome Fuji's own intra-subnet reach ran thinner than anywhere else in the country, Sayowa
 functioning as much as a physical relay point as a digital one. Kunlun doesn't appear here, consistent with
-the devotee-era religious link still postdating Tower completion. 24 done as of this batch.**
+the devotee-era religious link still postdating Tower completion. 24 done as of this batch. Batch 5, per
+direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
+distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Dome Fuji = Pluto/extreme-isolation-
+embraced-as-devotion + Water/dissolving-the-self-environment-boundary) as a thematic undertone. Kunlun still
+doesn't appear here, for the same reason as before. 30 done as of this batch — Dome Fuji's own full target is
+now complete.**
 
 ---
 
@@ -390,3 +395,71 @@ A specific comparative request, per what's preserved of the exchange, took consi
 an equivalent request to Kunlun would have taken Davis — Dome Fuji's own researchers, per what's remembered of
 the reply, working from records not fully organized for outside comparison, since almost no prior occasion had
 ever required the station to correspond with anyone this far away before.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Confirmation Troll Waited Longer For Than It Expected To
+
+Following the original pre-departure confirmation exchange, a second flight's own confirmation took
+considerably longer to arrive than the first had — a reminder, per what's preserved of the incident, that
+Dome Fuji's own extreme-altitude Arcanet limitation meant even routine post-Tower confirmations stayed
+genuinely inconsistent, not a solved problem simply because national connectivity existed in principle.
+
+Troll's own dispatchers, per what's preserved of the record, had learned by this point not to treat any
+single fast confirmation as the new normal — Dome Fuji's own thin connectivity remained thin, reliably
+unreliable in a way no other city's own post-Tower experience quite matched.
+
+### The Schedule Correction Sinheung Sent Twice, Just to Be Sure
+
+Following the original corrected-schedule benefit Sinheung provided, a second correction sent through the
+same channel arrived garbled badly enough that Sinheung's own dispatchers resent it in full rather than trust
+the isolated station had received a usable version the first time.
+
+Dome Fuji's own receiving staff, per what's preserved of the incident, confirmed the resend had indeed been
+necessary — the original transmission had arrived corrupted, a small, concrete reminder of exactly how
+marginal the station's own digital reach actually was, even now.
+
+### The Acknowledgment Sayowa Received a Full Day Later Than Expected
+
+Following the same-day acknowledgment Sayowa once received, a later exchange reverted to the older, slower
+pattern — Dome Fuji's own thin connectivity proving inconsistent rather than reliably improved, the same
+message sometimes arriving same-day and sometimes taking considerably longer with no clear pattern either
+station could predict in advance.
+
+Sayowa's own coordinators, per what's preserved of the record, had come to treat Dome Fuji's own response
+time as fundamentally unpredictable — planning around the slow case as a matter of course, treating any faster
+reply as a pleasant exception rather than something to rely on.
+
+### The Session Summary Mawson Received in Real Time for the First Time
+
+Following the earlier after-the-fact session summary Mawson once received from a hub-coordination meeting
+Dome Fuji had only partially joined, a later session went differently — Dome Fuji's own connection holding
+steady for the full duration for once, letting the isolated station participate in real time rather than
+catching up afterward.
+
+Mawson's own hub coordinators, per what's preserved of the session, treated the full real-time participation
+as genuinely notable — rare enough, given Dome Fuji's own established connectivity limits, that a single
+session going smoothly was itself worth remarking on.
+
+### The Ice-Core Comparison That Finally Went the Other Direction
+
+Following Davis's own patient, slow-moving correspondence with Dome Fuji, Dome Fuji's own researchers
+initiated a comparative request of their own for the first time — asking Davis a specific question about
+lake-sediment methodology that Dome Fuji's own ice-core work had encountered a genuine analog to.
+
+Davis's own researchers, per what's preserved of the exchange, answered as thoroughly as their own original
+patience with Dome Fuji had suggested they would — the correspondence, for the first time, running in both
+directions rather than only from Davis's own side outward.
+
+### The Highway Status Princess Elisabeth Finally Got Confirmed a Second Time
+
+Following the original confirmation of the uncertain highway link's actual condition, Princess Elisabeth's
+own residents asked a follow-up question the following year, curious whether conditions had changed — met
+with a reply that took considerably longer to arrive than the original confirmation had, the connection's own
+thin, unreliable nature reasserting itself despite the earlier fast response.
+
+Princess Elisabeth's own residents, per what's preserved of the exchange, had by this point stopped expecting
+consistency from Dome Fuji's own responses — treating each successful contact as its own small, appreciated
+event rather than evidence the connection had become genuinely reliable.
