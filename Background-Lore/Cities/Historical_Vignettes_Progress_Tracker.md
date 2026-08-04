@@ -73,7 +73,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Palmer City | 30 | 50 | In progress |
+| Palmer City | 36 | 50 | In progress |
 | Esperanza | 30 | 30 | **Complete** |
 | Rothera | 30 | 30 | **Complete** |
 | Marambio | 30 | 30 | **Complete** |

@@ -17,7 +17,9 @@ Mawson, Byrd, or Lazar required trucking, postal service, or physically travelin
 batch (target 50). Batch 5, per direct developer instruction, returns to post-Tower full connectivity with
 genuinely fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Palmer
 City = Earth/an alive oasis amid harshness + Fire/passion and culture) as a thematic undertone. 30 done as of
-this batch (target 50).**
+this batch (target 50). Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower,
+subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
+cross-referenced against Palmer City's own symbol pair. 36 done as of this batch (target 50).**
 
 ---
 
@@ -473,3 +475,69 @@ the audience actually was until afterward — reports of the broadcast being hea
 own residents Palmer City had never previously had any reason to think of as an audience at all. The city
 that had always been alive locally discovered, that night, it had been heard nationally the whole time it
 simply hadn't had the means to know it.
+
+---
+
+## Batch 6 — A City That Burned Bright and Traveled Slow
+
+### The Bill Rothera Learned About Before the First Note Played
+
+A touring musician's set list, finalized only hours before a Needle Down performance, was relayed to Rothera
+over the subnet's own instant line in time for a small group of Rothera engineers — coordinating an unrelated
+supply run through Palmer City that same week — to specifically plan their own arrival around the show.
+
+A comparable inquiry from a subnet-external booking agent, hoping to confirm a touring act's schedule far
+enough in advance to arrange transport, had to send the request weeks ahead and accept whatever answer arrived
+by return post — often out of date by the time it reached them, since Palmer City's own lineup rarely settled
+that far in advance.
+
+### The Casino Floor Marambio Could Watch Fill In Real Time
+
+Marambio's own logistics office, coordinating a dual port-and-airport delivery of gaming equipment to Palmer
+City, could track the casino floor's own live occupancy data over the subnet's line — timing the delivery to
+avoid the venue's busiest hours without needing to ask anyone directly.
+
+The same equipment class, ordered separately by a subnet-external buyer for a smaller venue elsewhere, arrived
+on a fixed schedule set weeks in advance with no ability to adjust for local conditions — the flexibility
+Palmer City and Marambio took for granted simply had no cross-subnet equivalent.
+
+### The Letter That Took Longer to Arrive Than the Festival It Announced
+
+An invitation to a subnet-external performer, sent by post well ahead of a planned festival date, arrived only
+after the festival itself had already concluded — the performer's own reply, apologetic and confused, crossing
+paths with a second letter Palmer City had already sent assuming the first had simply gone unanswered.
+
+Port Lockroy, invited to the same festival over the subnet's own line, confirmed attendance the same day —
+the two invitations, sent within hours of each other, landing on wildly different timelines for no reason but
+which side of the subnet boundary the recipient sat on.
+
+### The Petrograd Room's Own Sister Table in Sejong
+
+A card game invented informally on the Petrograd Room's own gaming floor spread to Sejong within a season,
+carried there by regular subnet-internal visitors who simply taught it as they went — Sejong's own venues
+running it as a minor local variant almost as soon as Palmer City itself had settled the rules.
+
+A visitor from further away who'd heard secondhand rumors of the game had no way to actually learn it except
+by traveling to Palmer City in person — no rulebook existed yet to send by mail, and the game itself was still
+too new and too locally specific to describe adequately in a letter.
+
+### The Delegation Signy Sent to Study What It Couldn't Simply Ask About
+
+A small delegation from Signy made the long overland-and-sea journey to Palmer City specifically to study its
+event-hosting infrastructure firsthand — a trip undertaken because the questions Signy's own planners had
+couldn't be answered adequately by letter, the venues themselves too complex to describe in writing alone.
+
+Juan Carlos, requesting the same category of information over the subnet's own line, received a working
+answer inside a week — the same expertise, offered just as readily, reaching one subnet-mate in days and
+costing the other city a multi-week journey to obtain in person.
+
+### The City That Was Loud Locally and Quiet Everywhere Else
+
+Palmer City's own reputation as a rival to Las Vegas, New Orleans, and St. Petersburg was, before the Tower,
+almost entirely a subnet-internal fact — Esperanza, Rothera, Marambio, Port Lockroy, Sejong, Signy, and Juan
+Carlos all experienced the city's own constant cultural output directly and immediately, while cities outside
+the subnet knew of it mostly by reputation, secondhand, and considerably delayed.
+
+Palmer City's own civic planners, per a surviving internal memo, understood this asymmetry plainly: the city
+was already everything its later national reputation would describe, it simply hadn't yet had a way to prove
+it to anyone who hadn't been there to see it themselves.
