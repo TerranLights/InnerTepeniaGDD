@@ -70,7 +70,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Rothera | 30 | 30 | **Complete** |
 | Marambio | 30 | 30 | **Complete** |
 | Port Lockroy | 30 | 30 | **Complete** |
-| Sejong | 24 | 30 | In progress |
+| Sejong | 30 | 30 | **Complete** |
 | Signy | 24 | 30 | In progress |
 | Juan Carlos | 24 | 30 | In progress |
 

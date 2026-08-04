@@ -15,7 +15,11 @@ Carlos, Lazar) rather than the generic "other multinational cities" comparison b
 used. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences
 resting on the actual pre-Tower communication structure, where direct digital contact existed only within the
 Palmer subnet (Palmer City, Juan Carlos) and anything reaching Janbogo, Sinheung, Abowasa, or Lazar required
-trucking, postal service, or physically traveling there. 24 done as of this batch.**
+trucking, postal service, or physically traveling there. 24 done as of this batch. Batch 5, per direct
+developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences distinct from
+batch 3, cross-referenced against `city-symbol-pairs.md` (Sejong = Jupiter/gathering-many-into-one + Air/the
+connective medium) as a thematic undertone. 30 done as of this batch — Sejong's own full target is now
+complete.**
 
 ---
 
@@ -393,3 +397,77 @@ Sejong's own reply, per what's preserved of the exchange, took months to draft p
 Lazar — a genuinely candid account of the Hall's own rare failures, sent the same slow way every exchange
 between the two cities had always traveled, since nothing digital had ever crossed the distance between them
 before the Tower.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Border Backlog Solved Before It Became One
+
+Sejong's own Border Authority, now in constant contact with Palmer City's own tourism office, caught a
+specific processing backlog forming before it ever actually delayed a single traveler — a pattern of
+increased Upper Earth arrivals visible in real time let both offices redistribute staffing in advance rather
+than reacting once a line had already formed.
+
+The adjustment itself, per what's preserved of the record, was unremarkable — a routine staffing shift, made
+in advance rather than in response. What mattered, per what's recalled locally, was simpler: the gateway
+corridor had gone from reactive to genuinely predictive, the first time either office could say with
+confidence that a problem had been prevented rather than merely resolved quickly.
+
+### The Archive Question That Went Straight From Sejong to Amundsen Station Through Juan Carlos
+
+A specific historical question about the gateway corridor's own founding-era administrative structure,
+raised by a Sejong historian, was answered only after Juan Carlos's own archivists helped route the inquiry
+onward to Amundsen Station's own unified national archive — the first time Sejong's own historical research
+had required, and received, a genuine three-city collaborative search.
+
+The answer, per what's preserved of the exchange, took the combined effort of all three archives to piece
+together — no single one held the complete picture, but together they closed a question none of them could
+have answered alone.
+
+### The Third City the Korean-Founded Conversation Finally Included Properly
+
+Building on the earlier three-way conversation between Janbogo, Sejong, and Sinheung, the three cities'
+own Hall representatives established something more lasting — a standing, occasional check-in among all
+three, rather than the single conversation the original exchange had been.
+
+The standing arrangement, per what's preserved of its own early record, produced its first genuinely useful
+result once Sejong's own Negotiation Hall adapted a specific dispute-resolution technique it had learned
+existed at Janbogo — the first time the "kin, not siblings" relationship between the three Korean-founded
+cities had actually changed how one of them operated, rather than simply confirming a shared heritage.
+
+### The Manufacturing Question Sinheung Sent That Sejong Couldn't Answer Alone
+
+A specific industrial-capacity question from Sinheung, curious whether Sejong's own dozen-community
+governance model held any lessons for managing competing manufacturing priorities, required Sejong's own Hall
+coordinators to consult several of the island's own community representatives before answering — the first
+time an outside city's question had prompted Sejong to hold what amounted to an internal negotiation session
+of its own just to formulate a reply.
+
+The eventual answer, per what's preserved of the exchange, was more nuanced than a single administrator could
+have given alone — genuinely representative of the island's own multi-community governance, in a way Sinheung's
+own engineers, expecting a simple answer, hadn't anticipated.
+
+### The Second Letter Lazar Never Had to Send
+
+Following the earlier candid, months-delayed exchange about the Negotiation Hall's own rare failures, Lazar's
+own coordinators followed up with a considerably more sensitive question — this time answered within the same
+conversation, in real time, rather than requiring the careful, slow-drafted honesty the original letter had
+needed.
+
+Sejong's own Hall coordinators, per what's preserved of the exchange, found themselves answering just as
+candidly in real time as they had in the original careful letter — proof that the honesty the old system had
+required time to build up the courage for could hold up just as well at conversational speed, once trust
+between the two cities had already been established the slow way first.
+
+### The Negotiation Hall Consulted by a City It Had Never Once Corresponded With
+
+A city with no prior relationship to Sejong at all reached the Negotiation Hall directly for the first time,
+asking for general guidance on managing a multinational governance question of its own — having learned of
+the Hall's own reputation only through secondhand national reporting once connectivity made that kind of
+reputation actually travel.
+
+Sejong's own coordinators, per what's preserved of the response, answered with the same practical thoroughness
+they extended to every inquiry — the first time the island's own decades of accumulated governance experience
+had been sought out by a city whose own name Sejong's own Hall staff hadn't previously had any reason to
+know.
