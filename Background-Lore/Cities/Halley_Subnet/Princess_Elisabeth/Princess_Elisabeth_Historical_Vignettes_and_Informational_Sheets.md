@@ -16,7 +16,14 @@ unpinned in prose. Target 30, 12 done as of this batch. Batch 3, per direct deve
 framed around `City_National_Connections.md`: six occurrences that could only have happened once full
 national digital connectivity existed, each grounded in a specific city-to-city connection from that file
 (deliberately using connections beyond the Amundsen Station/Tower thread batch 2 already covered in depth)
-and in Princess Elisabeth's own established struggles. 18 done as of batch 3.**
+and in Princess Elisabeth's own established struggles. 18 done as of batch 3. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure. Unlike
+most Halley subnet cities, none of Princess Elisabeth's own established connections in `City_National_
+Connections.md` sit inside its own subnet — every one (Sayowa, Dome Fuji, Shirayuki, Sinheung, Signy) is
+cross-subnet, requiring trucking, postal service, or physically traveling there. That asymmetry becomes the
+batch's own organizing fact: Princess Elisabeth had readier digital reach to its own subnet neighbors than it
+ever had reason to use, while its most meaningful relationships lay past a boundary no cable crossed. Target
+30, 24 done as of this batch.**
 
 ---
 
@@ -359,3 +366,84 @@ new kind of civic gesture, two cities' own separate traditions briefly synchroni
 simply existing in parallel ignorance of each other. Neither city's own holiday changed in any lasting way.
 For one specific evening, though, a tradition born from an unplanned maintenance-shift gesture generations
 earlier was, for the first time, shared on purpose rather than discovered by accident.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Letters That Took Longer Than the Marriage They Described
+
+The generations-deep Japanese-heritage family correspondence connecting Princess Elisabeth to Sayowa, long
+before either city's genealogical connection was formally confirmed, existed entirely as physical letters —
+no digital line crossed the distance between the Halley and Mawson subnets, and none would for the family's
+first several generations of correspondence.
+
+A specific courtship conducted almost entirely by mail, per what's preserved of the family's own account,
+spanned years rather than months precisely because each letter took the better part of a season to travel the
+route out of the Halley subnet and onward to Sayowa — replies arriving so far apart that entire seasons of a
+relationship existed only on paper, read and reread many times before the next letter finally answered it.
+The marriage that eventually resulted outlasted the correspondence that produced it by decades, a relationship
+built at a pace no comparable courtship within Princess Elisabeth's own subnet would ever have required.
+
+### The Pilgrimage Nobody Could Announce in Advance
+
+Dome Fuji's own proximity by longitude made an eventual visit plausible long before the Tower existed, but
+nothing digital connected Princess Elisabeth to the isolated research station at all — any visit had to be
+arranged entirely through correspondence relayed overland, with no way to confirm a travel window had actually
+worked until the travelers themselves arrived.
+
+A specific journey undertaken by a small group of residents, per what's preserved of the account, left
+Princess Elisabeth on nothing more than an educated guess about conditions at Dome Fuji weeks out, since no
+channel existed to check current status before committing to the trip. The group arrived to find the station
+willing to receive them, this time — a genuine gamble that had, on at least one earlier attempt nobody talks
+about as fondly, not paid off at all.
+
+### The Letter Shirayuki Answered Before It Knew Who Had Sent It
+
+A written inquiry from Princess Elisabeth, raising the demographic kinship the two cities' own Japanese-heritage
+communities shared, reached Shirayuki months after it was written — the postal route crossing from the Halley
+subnet through however many hands a piece of subnet-external mail required before finally reaching the Tri-
+Cities cluster.
+
+Shirayuki's own reply, per what's preserved of the exchange, opened by noting the letter had traveled so long
+in transit that the sender's own name meant nothing to anyone in the Shirayuki office who first read it —
+routine subnet-external correspondence, filed and answered eventually, the reply itself carrying no urgency
+because none had been possible to convey in the first place.
+
+### The Consult Sinheung Couldn't Simply Ask For
+
+A specific engineering question from Sinheung, curious about Princess Elisabeth's own zero-emissions power
+systems as a possible reference for an unrelated project, arrived by the same slow subnet-external
+correspondence every piece of Sinheung's own outside mail traveled by — a single question that, within either
+city's own subnet, would have been answered the same afternoon.
+
+Princess Elisabeth's own engineers, per what's remembered of the reply, answered plainly and in full, if
+considerably later than the question's own urgency at Sinheung had originally called for — by the time the
+answer arrived, Sinheung's own engineers had already worked around the uncertainty rather than wait on a
+system with no way to confirm a reply was even coming.
+
+### The Line to Neumayer Nobody Had Reason to Use
+
+Princess Elisabeth sat within instant reach of Neumayer and the rest of the Halley subnet's own internal
+Arcanet the entire time its own most meaningful correspondence traveled by mail to Sayowa, Dome Fuji,
+Shirayuki, and Sinheung instead — proximity and closeness, in this specific case, pointing in opposite
+directions.
+
+The one occasion the subnet's own instant line actually got used for something substantive, per what's
+preserved of the incident, involved a narrow structural question about grid stability that Neumayer's own
+engineers answered within the hour — a level of speed Princess Elisabeth's own staff, more accustomed to
+correspondence measured in seasons, found almost disorienting. The answer solved the problem immediately. What
+stayed memorable about the exchange wasn't the engineering — it was simply how fast an answer could arrive
+when the question happened to be aimed at the right subnet.
+
+### The Turbine Comparison Signy Never Got to See in Person
+
+Signy's own wind-and-hydro power system and Princess Elisabeth's own zero-emissions civic identity were close
+enough in engineering philosophy that a genuine technical exchange developed between the two cities — conducted
+entirely through correspondence, since nothing digital connected the Halley and Palmer subnets to each other.
+
+A specific set of comparative performance figures, exchanged over several rounds of letters spanning close to
+two years, per what's preserved of the correspondence, eventually convinced both cities' own engineers that
+their independently-developed approaches solved the same underlying reliability problem from two different
+directions — a conclusion that, reached the slow way, still held once the two cities could finally compare
+notes in real time, generations later.
