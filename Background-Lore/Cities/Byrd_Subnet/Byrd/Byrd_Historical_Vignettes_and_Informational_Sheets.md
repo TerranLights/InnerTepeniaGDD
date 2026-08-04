@@ -25,7 +25,10 @@ Everything, without exception, moved by trucking along its single overland corri
 service, or physically traveling there. The Arcanet access node established in the Third Batch (Finding 24's
 own physical-vs-digital isolation mismatch) is itself a post-Tower fact, not a pre-Tower one — there is
 accordingly no "combine both" entry possible here, consistent with the developer's own note that this
-wouldn't be possible for every city. 30 done as of this batch.**
+wouldn't be possible for every city. 30 done as of this batch. **Sixth Batch, per direct developer
+instruction, returns to post-Tower full connectivity with genuinely fresh occurrences distinct from the
+Fourth Batch, cross-referenced against `city-symbol-pairs.md` (Byrd = Pluto/the-most-isolated-city-in-Tepenia
++ Earth/built-downward-into-the-ground) as a thematic undertone. 36 done as of this batch, target 50.**
 
 ---
 
@@ -435,3 +438,78 @@ the original requests had taken to arrive — a three-way technical comparison c
 correspondence, since no combination of subnets involved gave any of the three cities a faster way to speak
 to each other, and Byrd, alone in its own subnet, had no faster option available to it under any
 circumstances at all.
+
+---
+
+## Sixth Batch — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Second Belgrano Exchange, Answered Before the Season Turned
+
+A follow-up inquiry from Belgrano, this one asking not about Byrd's founding-era maps but about the specific
+aircraft-salvage technique that had made those maps possible in the first place, arrived and was answered
+within the same season — a request that would have taken the better part of a year to simply deliver, before
+the Tower, now settled in the time it once took just to confirm the letter had been received at all.
+
+Byrd's engineers, per the exchange, found themselves explaining a process they'd assumed was unique to their
+own isolation — improvised, parts-scavenged fabrication born of having no supply line to depend on — only to
+learn Belgrano's own boneyard-adjacent economy had developed a near-identical instinct independently, the two
+cities' isolation-born ingenuity recognizing itself in the other for the first time.
+
+### The Chamber Question Sinheung Asked Byrd Directly
+
+Sinheung's own request, addressed to Byrd's fabrication chamber operators rather than routed through any
+intermediary, asked a narrow technical question about component tolerances that only a city running its own
+comparable chamber-based production would have thought to ask — a peer-to-peer exchange with no precedent in
+Byrd's own founding-era record, since no other city's fabrication apparatus had ever been similar enough to
+Byrd's own to prompt the comparison.
+
+The reply, once it reached Sinheung, reportedly changed one of Sinheung's own calibration practices outright
+— a small adjustment, but one that traced back to a conversation that simply could not have happened before
+both cities' internal processes could be described to each other directly, without a third city's own
+production standing in as the point of comparison.
+
+### The Corridor Traffic Marambio Finally Explained in Full
+
+Where an earlier exchange had given Palmer City and Marambio a live feed of Byrd's own overland corridor
+traffic, a separate and later inquiry — this one from Byrd itself, addressed to Marambio — asked for the
+receiving end's own account: what the corridor's shipments actually became, once they'd cleared Byrd's single
+point of overland access and continued on toward the Peninsula.
+
+Marambio's answer, compiled from its own aviation-logistics ledgers, gave Byrd's own planners their first
+complete picture of where their exports actually ended up — a closing of the loop that had simply never been
+possible when the only confirmation Byrd ever received was that a shipment had successfully left.
+
+### The Family Correspondence That Reached Palmer City a Second Way
+
+A Byrd household with a documented connection to Palmer City — beyond the reunion that had already become an
+annual occurrence — began exchanging shorter, more frequent correspondence once the standing arrangement
+proved the connection could bear more traffic than a single yearly visit, ordinary news rather than occasion,
+sent simply because sending it had finally become easy.
+
+The correspondence itself, per what's preserved of it, was unremarkable by any national standard — the kind
+of exchange every other subnet had taken for granted for a generation — which was, per the family's own later
+account, precisely what made it feel remarkable from Byrd's own end of the line.
+
+### The Second Denison Comparison, This Time Byrd's Own Question
+
+Where Denison had once asked Byrd for its founding-chamber origin story a second time, more carefully, Byrd's
+own engineers returned the exchange with a question of their own — not about Denison's own destruction, which
+Byrd's researchers were careful to avoid raising, but about the specific wind-load calculations Denison's
+engineering culture had developed independently, absent any comparable extreme-conditions city to check its
+own work against.
+
+Denison's reply, once compiled, gave Byrd's own builders a second data point for problems Byrd had until then
+only ever solved alone — the first time, per Byrd's own records, that isolation-born engineering had been
+checked against another city's isolation-born engineering, rather than simply standing on its own.
+
+### The Rothera Comparison Closed on Byrd's Own Terms
+
+A later, narrower follow-up to the Rothera-and-Denison joint request asked Byrd a single further question:
+not for a third data point in someone else's comparison, but for Byrd's own independent assessment of which
+of Rothera's or Denison's approaches better suited Byrd's own conditions — a request that treated Byrd, for
+once, as the judge rather than simply another subject.
+
+Byrd's answer, per what's preserved of the exchange, favored neither outright, instead identifying which
+specific elements of each approach Byrd had already arrived at independently and which it had not — a
+comparison only possible once all three cities' engineering could finally be laid side by side and read in
+full, rather than assembled piecemeal across a year of separate, slow-arriving letters.

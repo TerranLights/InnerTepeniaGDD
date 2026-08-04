@@ -112,7 +112,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Byrd | 30 | 50 | In progress |
+| Byrd | 36 | 50 | In progress |
 
 ### Special: Amundsen-Scott Station (target: 20 min / 30 goal)
 
@@ -138,14 +138,28 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 1,032** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 210 +
-Mawson subnet 90 + Byrd 30 + Amundsen-Scott Station 12).
+50 + 30). **Current: 1,038** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 240 + Janbogo subnet 210 +
+Mawson subnet 90 + Byrd 36 + Amundsen-Scott Station 12).
 
 **2026-08-06 — Mawson subnet batch 5 complete — all 3 cities now at their full 30/30 target.** Mawson, Dome
 Fuji, and Sayowa all completed batch 5. Dome Fuji's own entries continued to reflect its established
 extreme-altitude Arcanet limitation — even post-Tower, its connectivity stays genuinely inconsistent rather
 than a solved problem — and Kunlun still doesn't appear in its connections, since the Ice Cold Buddhism
 devotee-era link remains a later development than this batch's own timeframe.
+
+**2026-08-06 — MILESTONE: Batch 5 (Byrd's own "Sixth Batch") is complete nationwide.** Every one of the 35
+outer cities + Tri-Cities has now received its batch 5 pass — six fresh, genuinely distinct occurrences per
+city, set after Amundsen Tower's completion (~2688), each cross-referenced against that city's own
+`city-symbol-pairs.md` Planet + Robot-Element pair as an undertone rather than stated in-fiction. Byrd's own
+six entries (Belgrano, Sinheung, Marambio, Palmer City, Denison, Rothera) brought it to 36/50 — Byrd still has
+14 entries left to reach its own elevated 50-entry target, the same as Palmer City (also 30/50, unaffected by
+this pass since Palmer City's own batch 5 already closed out in the Palmer subnet round above). Every other
+city and the Tri-Cities region is now sitting at its full standard target. Two open items carry forward
+outside this pass: Rothera's own planet symbol remains TBD, pending the developer's own further development of
+"The Asteroid Belt" candidate; and Abowasa stays paused at 6/30, unaffected by any batch since batch 1.
+Amundsen Station was excluded from this pass on the same city-to-city framing basis as batch 3 (it has its own
+dedicated batch 2 treatment), except that it legitimately reappears inside Fort McMurdo's own batch 5 entries,
+since Fort McMurdo's capital-city designation is itself a post-Tower fact.
 
 **2026-08-06 — Janbogo subnet batch 5 complete — all 7 cities now at their full 30/30 target.** Janbogo, Fort
 McMurdo, Dumont d'Urville, Cape Adare, Zukelli, Scott, and Denison all completed batch 5. Fort McMurdo's own
