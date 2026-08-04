@@ -13,7 +13,11 @@ target shared with Sinheung and Shirayuki, 12 done as of that batch. Batch 3, pe
 instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
 once full national digital connectivity existed, each grounded in a specific named city-to-city connection
 from that file (Sinheung, Shirayuki, Mirny, Juan Carlos, Port Lockroy, Amundsen Station) distinct from batch
-2's own entries. 18 done as of batch 3.**
+2's own entries. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six
+occurrences resting on the actual pre-Tower communication structure, where direct digital contact existed
+only within the Mirny subnet (Sinheung, Shirayuki, Mirny) and anything reaching Juan Carlos, Port Lockroy, or
+Amundsen Station required trucking, postal service, or physically traveling there. 24 done as of this
+batch.**
 
 ---
 
@@ -306,3 +310,77 @@ cluster neighbor had marked a Zhongshan cultural event jointly rather than indep
 musicians, per what's preserved of the reaction upon hearing about it, found the gesture genuinely moving —
 proof that the Tri-Cities cluster's own founding-era closeness could still produce something neither city
 had specifically planned for.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Cluster That Never Needed the Tower to Feel Connected
+
+The Larsemann Hills Tri-Cities — Zhongshan, Sinheung, and Shirayuki — shared instant digital contact with
+each other decades before the Tower existed, the same three-way diplomatic allocation that founded them as
+next-door neighbors also giving them the Mirny subnet's own internal Arcanet to actually behave like
+neighbors day to day.
+
+A specific municipal question, requiring input from all three cities before Zhongshan's own civic planners
+could finalize an unrelated decision, was settled in a single joint session over the subnet's instant line —
+three cities functioning, for that one afternoon, as a single deliberative body, a level of coordination no
+comparable three-city cluster split across different subnets could have managed at anything like the same
+speed.
+
+### The Relay Vaults Question Mirny Answered Before Zhongshan Finished Asking
+
+Zhongshan's own connection to Mirny's own Relay Hardware Vaults meant a technical question about the subnet's
+own comms infrastructure could be raised and answered within the same conversation — practical, unglamorous
+coordination that simply happened to be instant because both cities sat within the same subnet.
+
+A specific hardware question, per what's preserved of the incident, was resolved before Zhongshan's own
+technician had even finished describing the full problem — Mirny's own Vaults staff already familiar enough
+with the likely cause to interrupt with the answer, a level of casual technical familiarity built entirely on
+years of routine, always-available contact.
+
+### The Long Record Entry Juan Carlos Waited Half a Year to Read
+
+The professional kinship between Zhongshan's own Long Record and Juan Carlos's "Federation's memory" identity
+produced a specific written exchange on archival methodology — crossing from the Mirny subnet into the Palmer
+subnet at whatever pace the mail between the two subnets allowed, since nothing digital connected them.
+
+The first letter, per what's preserved of the correspondence, took nearly half a year to reach Juan Carlos —
+a careful, considered piece of writing that Zhongshan's own archivist had drafted over weeks, only for its
+eventual reply to take nearly as long again to make the return trip. Both archivists, per what's remembered of
+the exchange, treated the slowness as simply the appropriate pace for a subject neither wanted to rush.
+
+### The Preservation Instinct Port Lockroy Explained From Across Two Subnets
+
+Port Lockroy's own accounted-for-history civic instinct, close enough in spirit to the Long Record's own
+custodial function, prompted a written inquiry from Zhongshan's own archive staff — curious how a much
+smaller city had developed a comparably serious preservation discipline entirely independently.
+
+Port Lockroy's own reply, per what's preserved of the letter, took months to arrive and answered with the
+same understated thoroughness the city applied to everything else — genuinely useful comparative material that
+Zhongshan's own archivists incorporated into their own internal standards, without either archive ever having
+the chance to discuss the adaptation directly.
+
+### The Arbitration Amundsen Station Requested by Formal Letter
+
+Amundsen Station's own request for the Long Record to help settle a historical dispute — a genuine, if narrow,
+recognition of Zhongshan's own archive as a trusted source — arrived not through any direct channel, since
+nothing digital connected Zhongshan to the Pole before the Tower, but as a formal written request routed the
+long way through the Mirny subnet's own internal correspondence network and onward.
+
+Zhongshan's own archivists, per what's preserved of the exchange, treated the request with real seriousness
+despite the months it had taken to arrive — researching the question thoroughly and mailing back a detailed
+response that itself took another season to reach the Pole, the entire exchange spanning the better part of a
+year for a dispute that, within the subnet, would have been resolved in a single sitting.
+
+### The Manifest Sinheung and Shirayuki Helped Zhongshan Finalize in an Hour
+
+A shipment of archival preservation equipment, requiring specifications from both Sinheung's own manufacturing
+floor and Shirayuki's own materials expertise, was planned entirely within a single real-time session over the
+Tri-Cities' own shared subnet line — three cities' worth of technical input settled before a single crate was
+packed.
+
+Once that shipment left the Mirny subnet bound for Port Lockroy, none of the three planning cities retained
+any way to track its progress — the same instant three-way coordination that assembled the order in an hour
+giving way, at the subnet boundary, to weeks of complete silence before Port Lockroy's own receiving staff
+finally confirmed delivery.
