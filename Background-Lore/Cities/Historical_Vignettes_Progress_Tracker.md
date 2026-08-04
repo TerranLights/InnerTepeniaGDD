@@ -68,7 +68,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Palmer City | 30 | 50 | In progress |
 | Esperanza | 30 | 30 | **Complete** |
 | Rothera | 30 | 30 | **Complete** |
-| Marambio | 24 | 30 | In progress |
+| Marambio | 30 | 30 | **Complete** |
 | Port Lockroy | 24 | 30 | In progress |
 | Sejong | 24 | 30 | In progress |
 | Signy | 24 | 30 | In progress |

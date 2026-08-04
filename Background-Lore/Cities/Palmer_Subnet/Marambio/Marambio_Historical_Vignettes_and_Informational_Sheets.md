@@ -13,7 +13,10 @@ Belgrano, Byrd) rather than the anonymous "distant subnet" batch 2's own dual-mo
 used. 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens: six occurrences
 resting on the actual pre-Tower communication structure, where direct digital contact existed only within the
 Palmer subnet (Esperanza) and anything reaching Belgrano or Byrd required trucking, postal service, or
-physically traveling there. 24 done as of this batch.**
+physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
+post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Marambio = Neptune/quiet-capable-diligence + Electricity/throughput-and-capability) as
+a thematic undertone. 30 done as of this batch — Marambio's own full target is now complete.**
 
 ---
 
@@ -388,3 +391,76 @@ exchange every season or longer — professional curiosity sustained across year
 occasional letter, the same slow rhythm every piece of Marambio's own subnet-external mail traveled at, long
 before any of those pen-pal relationships ever became the kind of gathering direct contact would eventually
 make possible.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Ground-Crew Rotation That Became Routine
+
+Following the first informal ground-crew technique exchange with Belgrano, Marambio's own aviation staff
+began a genuine, scheduled rotation — crews from each airfield periodically working a shift at the other,
+arranged over the relay with none of the advance planning a subnet-external secondment would once have
+required.
+
+The rotation, per what's preserved of the program's own early record, produced something neither city's own
+original technique-sharing had aimed for: a shared working vocabulary between the two ground crews, small
+procedural habits each side picked up simply from working alongside the other rather than reading about the
+other's methods secondhand.
+
+### The Overflow System Esperanza Helped Marambio Actually Design
+
+Following years of receiving Esperanza's own overflow capacity during dockside strain, Marambio's own harbor
+administration invited Esperanza's own staff to help design the next generation of the arrangement directly —
+treating Esperanza, for the first time, as a genuine planning partner rather than simply the port that
+absorbed whatever Marambio couldn't handle.
+
+The redesigned system, per what's preserved of the project, formalized triggers and thresholds neither
+harbor's own ad hoc arrangement had ever specified precisely — the first time the relationship had been
+planned deliberately in advance rather than improvised successfully, repeatedly, under pressure.
+
+### The Backup Route Byrd Finally Confirmed Was Actually Reliable
+
+Following the earlier unannounced test shipment along Byrd's own backup logistics corridor, a second, planned
+test — this time coordinated in advance over the relay rather than sent blind — confirmed the route's own
+real reliability with proper data for the first time, rather than the one successful but genuinely uncertain
+earlier attempt.
+
+Marambio's own dispatchers, per what's preserved of the test's own results, formally upgraded the corridor's
+own status from "unconfirmed backup" to "secondary route, confirmed reliable" — a small administrative change
+that nonetheless represented the first time either city trusted the connection enough to plan around it
+deliberately rather than treat it as a last resort.
+
+### The Delegation That Grew Out of the Pen-Pal Letters
+
+Following the personal friendships already formed between Marambio's and Belgrano's aviation professionals,
+a second, larger gathering brought both airfields' entire ground-crew rosters together for the first time —
+not just the individuals who'd corresponded personally, but everyone else who'd simply worked alongside them.
+
+The gathering, per what's preserved of the account, formalized something that had previously existed only as
+individual friendships — a genuine standing relationship between the two airfields' own working cultures,
+built outward from a handful of decades-old pen-pal letters into something considerably larger once instant
+contact made expanding it easy.
+
+### The Weather Call Marambio Made for a City It Had Never Spoken to Before
+
+A specific weather-hold decision, shared automatically with every city whose own supply chain touched
+Marambio's own airfield once national logistics reporting went live, reached a subnet-external city that had
+never previously had any direct relationship with Marambio at all — simply because that city's own goods
+happened to be routed through Marambio's own hub that particular week.
+
+The city in question, per what's preserved of the exchange, hadn't previously known Marambio played any role
+in its own supply chain — proof of how much invisible logistics work Marambio's own dual-hub operation had
+quietly been doing for cities that had no reason to know its name until connectivity made the dependency
+visible.
+
+### The Founding Heritage Comparison That Finally Included All Three Argentine Cities at Once
+
+Following the earlier three-way commemoration between Esperanza, Marambio, and Belgrano, the three cities'
+own historians produced a single combined document comparing their shared Argentine founding heritage
+directly — the first time all three had contributed to one shared historical record rather than each keeping
+its own separate account.
+
+The document, per what's preserved of its own creation, surfaced connections between the three founding
+stories none of the individual city histories had drawn out on their own — a fuller picture of Argentina's
+own three-city presence in Tepenia than any single city's own archive had ever been positioned to tell alone.
