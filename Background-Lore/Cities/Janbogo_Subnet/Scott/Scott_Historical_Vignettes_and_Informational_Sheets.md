@@ -14,7 +14,11 @@ connectivity existed, each grounded in a specific named city-to-city connection 
 McMurdo, Casey, Signy). 18 done as of batch 3. Batch 4, per direct developer instruction, inverts the lens:
 six occurrences resting on the actual pre-Tower communication structure, where direct digital contact existed
 only within the Janbogo subnet (Fort McMurdo) and anything reaching Casey or Signy required trucking, postal
-service, or physically traveling there. 24 done as of this batch.**
+service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
+returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Scott = Saturn/content-not-to-be-noticed +
+Water/quiet-stillness) as a thematic undertone. 30 done as of this batch — Scott's own full target is now
+complete.**
 
 ---
 
@@ -367,3 +371,75 @@ The Fort McMurdo shipment arrived within a day. The letter to Casey took most of
 to at all — two pieces of correspondence, sent from the same office on the same morning, arriving at their
 destinations at entirely different speeds depending on nothing more than which side of the subnet boundary
 each was addressed to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Dispute Fort McMurdo and Scott Settled Entirely on Their Own
+
+Following the earlier three-city calibration comparison, a specific scheduling disagreement between just
+Scott and Fort McMurdo was resolved directly between the two cities for the first time — no third party
+needed, the two-city relationship having matured enough on its own that Casey's own involvement, once assumed
+necessary for anything technical between the two, was no longer required.
+
+Scott's own engineers, per what's preserved of the exchange, noted the shift as a genuine sign of how far the
+direct relationship with Fort McMurdo had come — from a purely supplier-and-buyer dynamic to something closer
+to two technical staffs who simply understood each other well enough to work things out themselves.
+
+### The Precision Question Casey Sent That Scott Genuinely Enjoyed Answering
+
+Following the earlier technical follow-up about calibration tolerances, Casey's own instrument technicians
+sent a considerably more open-ended question — not asking for a specific number, but genuinely curious how
+Scott's own precision culture had developed the underlying philosophy behind its own exacting standards.
+
+Scott's own engineers, per what's preserved of the reply, answered at unusual length for the city — the first
+time an outside inquiry had asked about the *why* behind Scott's own precision culture rather than simply
+requesting a specific calibrated answer, and the city's own quiet technicians turned out to have quite a lot
+to say once actually asked.
+
+### The Friendship With Signy That Produced Its First Joint Project
+
+Building on the correspondence-turned-friendship with Signy's own civic historian, the two cities' own
+administrations undertook their first actual joint project together — a small, shared civic-history
+publication comparing the two quiet cities' own founding stories, grown directly out of what had begun as a
+personal correspondence between two people.
+
+Both cities' own residents, per what's preserved of the project's own reception, found it a genuinely fitting
+outcome — two cities that had always understood each other from a distance finally producing something
+concrete together, once the friendship behind the understanding had enough sustained contact to actually build
+something.
+
+### The Calibration Standard That Traveled Without Scott Ever Advertising It
+
+Once national technical correspondence made comparison possible, a specific calibration standard Scott had
+developed for its own internal use was found, independently, to have been informally adopted by technicians
+in several other cities who had encountered it secondhand through Fort McMurdo's own supply chain.
+
+Scott's own engineers, per what's preserved of the discovery, learned of this only when a city with no direct
+relationship to Scott at all asked a follow-up question assuming Scott already knew its own standard had
+spread — the same quiet, uncredited significance Neumayer had discovered about its own precision work,
+happening now to Scott.
+
+### The Quiet Comparison That Finally Included a Fourth City
+
+Building on the three-city comparison document with Fort McMurdo, Casey, and Signy, a fourth city — quiet by
+its own established reputation, though not previously part of any of Scott's own established connections —
+asked to contribute its own perspective once the original document circulated nationally.
+
+Scott's own compiler, per what's preserved of the expanded project, welcomed the addition — the original
+three-way comparison of steady, unglamorous competence having grown, once shared nationally, into something
+closer to a standing national conversation about what quiet civic excellence actually looked like across
+several different cities at once.
+
+### The Reputation That Finally Matched the Reality
+
+Once national technical reporting made genuine comparison possible, it became clear for the first time that
+Scott's own precision-calibration reputation — long understood locally as simply "very good at a narrow
+thing" — actually represented some of the tightest tolerances achieved anywhere in the country, a fact no
+prior informal comparison had ever quite established with real numbers.
+
+Several cities' own engineering offices, per what's preserved of the period, began citing Scott's own
+standards directly as an aspirational benchmark — the quiet city's own precision culture, always locally
+respected, finally measured nationally and found to be exactly as good as its own understated reputation had
+always claimed without ever needing to prove it.
