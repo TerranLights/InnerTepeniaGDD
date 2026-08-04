@@ -14,8 +14,11 @@ inverts the lens: six occurrences resting on the actual pre-Tower communication 
 established connections are almost entirely intra-subnet (Halley, Belgrano, Troll, Abowasa), which becomes a
 genuine character point here — Sanay housed the Halley subnet's own Arcanet nexus and stayed in constant
 contact within it, but had essentially no digital reach past the subnet boundary, with the single partial
-exception of the dedicated pre-Tower cable linking the Halley subnet directly to Amundsen Station. Target 30,
-24 done as of this batch.**
+exception of the dedicated pre-Tower cable linking the Halley subnet directly to Amundsen Station. Batch 5,
+per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
+distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Sanay = Jupiter/self-evident weight +
+Electromagnetism/the invisible hub) as a thematic undertone. Target 30, 30 done as of this batch — Sanay's own
+full target is now complete.**
 
 ---
 
@@ -411,3 +414,82 @@ planning cities retained any way to track it — the same instant coordination t
 hours giving way, at the subnet boundary, to weeks of complete silence. Sanay's own dispatchers, per what's
 remembered of the period, had grown accustomed enough to the pattern that they stopped remarking on it: fast
 inside, slow the moment it left.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Nexus That Became the Subnet's Own Front Door
+
+Once the national relay connected through Sanay's own Arcanet nexus, cities well outside the Halley subnet
+began routing general inquiries about the subnet as a whole to Sanay directly — not because Sanay had any
+particular authority to answer for Halley, Neumayer, or the rest, but because its own technicians were simply
+the first point of contact anyone encountered when reaching in.
+
+Sanay's own staff, per what's preserved of the period, took on the informal role without ever being assigned
+it — fielding questions meant for other cities and redirecting them correctly, becoming, in practice, the
+subnet's own front door in a way its founding generation's original naming-honor trade had never quite
+anticipated. The nexus itself hadn't changed function. What it was now understood to represent, nationally,
+had grown considerably larger than the hardware alone.
+
+### The Relief Request That Went the Other Direction
+
+Following the earlier occasion when Halley sent workers to relieve an overwhelmed Sanay dock crew, the reverse
+happened for the first time — Sanay's own staff, learning through routine contact that Halley's own relocation
+crews were short-handed during an unusually demanding stretch, offered to send help before Halley had even
+formally asked.
+
+Halley's own administrators, per what's preserved of the exchange, accepted the offer somewhat sheepishly —
+the first time the relief-labor relationship between the two cities had run in the direction opposite to how
+it had originally started, closing a loop neither city had specifically planned for but which felt, once it
+happened, like the obvious next step in an already-established pattern.
+
+### The Freight Dispute Belgrano and Sanay Settled Without a Third Party
+
+A specific disagreement over which of the two interchangeable receiving ports should have handled a particular
+shipment during a passage-condition gray area produced Sanay's and Belgrano's first genuine dispute conducted
+entirely over the subnet's own instant line — resolved, per what's preserved of the exchange, within a single
+afternoon of both cities reviewing the same live weather data together rather than working from separate,
+possibly conflicting local readings.
+
+Neither port's own record of the incident treats it as a serious conflict. What's preserved instead is
+simpler: the first time a genuine operational disagreement between the two ports had been settled by directly
+comparing shared data rather than by whichever port's own account happened to reach a decision-maker first.
+
+### The Diagnostic Request That Arrived From a City That Had Never Heard of Sanay
+
+A national research team, working an unrelated communications-infrastructure question, requested detailed
+operating data from Sanay's own nexus specifically because it was one of the oldest continuously-operating
+Arcanet installations in the country — a request that, per what's preserved of the exchange, arrived from a
+city whose own researchers hadn't previously known Sanay existed as anything other than a line item in
+national infrastructure records.
+
+Sanay's own technicians answered in full, per what's remembered of the exchange, treating the request with
+the same unshowy practicality that governed everything else the city did — proof that the nexus's own quiet,
+uncredited decades of operation had produced a body of operational knowledge valuable to people who'd never
+had any prior reason to know the city by name.
+
+### The Small Order Abowasa Adjusted Twice in One Season
+
+Following the first order Abowasa successfully amended after submission, a second and then a third
+adjustment, all within the same trading season, confirmed the practice had become genuinely routine rather
+than a one-time courtesy — Sanay's own dispatch office handling each revision with the same unhurried
+practicality regardless of how many times the same small customer changed its mind.
+
+Abowasa's own trade office, per what's preserved of the account, came to treat the ability to revise an order
+after submission as simply how trade with Sanay worked now — a small, quiet shift in expectation that
+nonetheless represented real flexibility the subnet's smallest trading partner had never had access to before
+the instant line existed.
+
+### The Freighter Log Sanay Opened to the Whole Country
+
+Sanay's own decades of accumulated freighter records — arrival volumes, passage conditions, seasonal
+patterns — were formally made available for national reference for the first time, rather than simply being
+answered on a case-by-case basis whenever another city happened to ask.
+
+The decision itself, per what's preserved of the record, wasn't dramatic — a standing offer to share the data
+with any city that wanted it, made without ceremony the same way Sanay handled most things. What followed was:
+requests from cities Sanay had never had any prior trade relationship with at all, treating the shipping log
+as a genuine national resource rather than one port's own private operational history — the clearest
+confirmation yet that the city's own quiet, uncredited significance had become, once connectivity made it
+visible, simply a fact everyone else could now see too.
