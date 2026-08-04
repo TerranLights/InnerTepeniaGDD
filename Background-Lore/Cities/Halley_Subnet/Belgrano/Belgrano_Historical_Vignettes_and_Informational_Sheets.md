@@ -16,7 +16,10 @@ Byrd, Esperanza, Marambio, or Sinheung required trucking, postal service, or phy
 Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh
 occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Belgrano = Neptune/
 Diligence + Metal/precision-through-salvage) as a thematic undertone. Target 30, 30 done as of this batch —
-Belgrano's own full target is now complete.**
+Belgrano's own full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own
+pre-Tower, subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4 and each other,
+now also cross-referenced against Belgrano's own symbol pair. Target effectively 36, 36 done as of this
+batch.**
 
 ---
 
@@ -493,3 +496,71 @@ personally rather than simply absorbing the delay as usual.
 Belgrano's own dispatchers, per what's preserved of the reply, explained the pattern in full — a genuinely
 minor administrative fix that, once identified, resolved a recurring problem Abowasa had quietly lived with
 for years without ever having a channel to actually raise it.
+
+---
+
+## Batch 6 — Salvage Precision, Measured Two Different Ways
+
+### The Part Sanay Confirmed Before the Truck Left the Yard
+
+A salvaged component Belgrano intended to send to Sanay was confirmed compatible over the subnet's own
+instant line before the truck carrying it had even finished loading — Sanay's own engineers checking the
+part's specifications against their own equipment in the time it took Belgrano's yard crew to secure the
+load.
+
+The same courtesy wasn't available for a comparable part destined for Marambio, well outside the subnet —
+that shipment left on the strength of Belgrano's own best judgment alone, with confirmation of fit or
+incompatibility not arriving until the return letter, weeks after the part itself had already arrived.
+
+### The Boneyard Inventory Troll Could Search in Real Time
+
+Troll's own freight coordinators, working out which salvaged parts Belgrano actually had on hand before
+committing a cargo run to carry them, could query Belgrano's own inventory directly over the subnet's line and
+get a current answer — no guesswork, no wasted trips for parts that had already been claimed.
+
+A subnet-external buyer working from an old printed inventory list, by contrast, regularly requested parts
+that had long since been salvaged for something else — the list itself accurate only as of whenever it had
+last been physically carried out of the subnet, which was sometimes a full season out of date by the time it
+reached its reader.
+
+### The Letter Esperanza Sent Without Knowing What It Would Find
+
+A request from Esperanza, asking whether Belgrano's own salvage yards held any aircraft components matching a
+specific old specification, traveled by mail with no way to know in advance whether the answer would be yes —
+Belgrano's own reply, whichever way it went, wouldn't reach Esperanza for weeks regardless.
+
+Halley, asking Belgrano the same category of question the same month over the subnet's own line, had an
+answer — and, if the part existed, the part itself already being pulled and set aside — before Esperanza's
+own letter had even crossed into the Palmer subnet.
+
+### The Standard Sinheung Received Only Once It Was Finished
+
+Belgrano's own salvage-classification standard, refined constantly in day-to-day use and shared informally
+with Sanay and Troll as it evolved, reached Sinheung only in its finished, formally documented form — sent by
+mail well after the version Belgrano's own subnet-mates had already been working from for months.
+
+Sinheung's engineers, adopting the standard as written, had no way to know how many earlier drafts had come
+and gone before it — the working, evolving version of Belgrano's own precision was something only its
+subnet-mates ever actually saw.
+
+### The Convoy That Carried a Question Instead of Cargo
+
+A technical dispute over a specific salvage technique, unresolved after several rounds of correspondence with
+a contact in Byrd, was finally settled when a Belgrano engineer joined an outbound convoy specifically to
+discuss it in person — the physical trip judged faster, in the end, than waiting on another round of letters
+each way.
+
+The same category of dispute, arising separately with Troll that same season, was settled the same afternoon
+over the subnet's own line — the contrast, noted afterward in Belgrano's own internal correspondence, treated
+as simply the ordinary cost of working with any city outside the subnet's own reach.
+
+### The Precision Belgrano Measured By What It Could Confirm
+
+Belgrano's own reputation for turning old aircraft parts into reliable new assets rested on a habit of
+confirming every salvaged component's fitness before it ever left the yard — a habit made effectively
+instantaneous for Sanay, Troll, and Halley, and considerably more provisional for anyone further away, where
+confirmation could only follow, never precede, the part's own departure.
+
+Belgrano's own record-keepers noted the asymmetry plainly rather than treating it as a flaw — the yard's own
+diligence didn't change based on the recipient; only how quickly that diligence could actually be verified on
+the other end did.
