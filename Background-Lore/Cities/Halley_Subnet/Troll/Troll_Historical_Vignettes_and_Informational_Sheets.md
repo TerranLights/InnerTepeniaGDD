@@ -16,7 +16,10 @@ Fuji, Sinheung, or Fort McMurdo required trucking, flying cargo without live tra
 physically traveling there. Batch 5, per direct developer instruction, returns to post-Tower full
 connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Troll = Neptune/Diligence + Electricity/movement-and-connection) as a thematic
-undertone. Target 30, 30 done as of this batch — Troll's own full target is now complete.**
+undertone. Target 30, 30 done as of this batch — Troll's own full target complete. Batch 6, per direct
+developer instruction, returns to Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh
+occurrences, distinct from both Batch 4 and each other, now also cross-referenced against Troll's own symbol
+pair. Target effectively 36, 36 done as of this batch.**
 
 ---
 
@@ -506,3 +509,71 @@ Abowasa's own trade administrator, per what's preserved of the account, describe
 novel — not because the shipment itself arrived any faster, but because for the first time in the corridor's
 history, the smallest city on Troll's route could actually watch its own priority unfold instead of only ever
 learning the outcome after the fact.
+
+---
+
+## Batch 6 — Cargo That Moved Faster Than Word of It
+
+### The Manifest Sanay Read Before the Plane Landed
+
+An inbound cargo manifest, transmitted to Sanay over the subnet's own instant line while the flight carrying
+it was still in the air, let Sanay's own dock crews stage exactly the right equipment before the plane ever
+touched down — a small, routine efficiency that had simply become how the two cities always worked together.
+
+The same courtesy wasn't possible for a shipment bound onward to Fort McMurdo, well outside the subnet — that
+manifest traveled with the cargo itself rather than ahead of it, meaning Fort McMurdo's own receiving crew
+learned exactly what had arrived only once it was already sitting on their own tarmac.
+
+### The Schedule Belgrano Never Had to Ask Twice For
+
+Belgrano's own freight planners could query Troll's own flight schedule directly over the subnet's line and
+get a live answer, adjusting their own overland deliveries to match a departure time that might shift by
+hours — a level of coordination that let the two cities run their combined corridor almost as one continuous
+operation.
+
+A subnet-external shipper trying to coordinate with the same schedule had to work from whatever printed
+timetable had last physically reached them, sometimes weeks out of date — arriving early, arriving late, or
+simply missing a flight that had shifted without any way to know in advance.
+
+### The Delay Halley Learned About Before It Happened
+
+A weather delay affecting an outbound Troll flight was relayed to Halley over the subnet's own line before the
+delay had even been formally logged — Halley's own dispatchers adjusting a connecting ground convoy's own
+timing before the disruption could cascade any further.
+
+Sinheung, waiting on cargo carried by the same delayed flight, had no equivalent warning — the first word
+Sinheung received of any delay was the shipment itself simply failing to arrive on schedule, with no
+explanation reaching them until a letter caught up days later.
+
+### The Aircraft Log Dome Fuji Could Never Simply Request
+
+Troll's own maintenance logs for aircraft servicing the extreme-altitude Dome Fuji route were compiled and
+reviewed continuously within the subnet, cross-checked in real time against Sanay's own parts inventory — but
+Dome Fuji itself, receiving only the flights themselves rather than any visibility into how they were
+maintained, had no way to request or review the same logs directly.
+
+A Dome Fuji administrator's written inquiry into a specific maintenance question took the better part of a
+season to receive a full answer — not because Troll withheld anything, but because explaining a live,
+continuously updated internal record to someone outside the subnet meant writing it out fresh each time, by
+hand, for the mail.
+
+### The Redundant Route Sanay and Troll Built Without Telling Anyone Else
+
+Sanay and Troll jointly developed a backup routing contingency for the corridor's busiest freight lane,
+coordinated entirely over the subnet's own line through dozens of small adjustments neither city bothered to
+formally document until the plan was already working — the kind of iterative, low-stakes collaboration only
+possible when neither side had to wait on a reply.
+
+Cities outside the subnet learned of the contingency route only once it was activated during an actual
+disruption — by then a finished, functioning system, with no visibility into the months of casual, undocumented
+back-and-forth that had actually built it.
+
+### The Freight Troll Measured by Two Different Clocks
+
+Troll's own dispatchers kept two mental timelines for every shipment passing through — one measured in hours,
+for anything moving to or from Sanay, Belgrano, or Halley, and one measured in days or weeks, for anything
+continuing on to Sinheung, Fort McMurdo, or Dome Fuji.
+
+Neither timeline reflected any difference in how carefully Troll's own crews handled the cargo itself — the
+same diligence, the same care, simply arriving at two very different speeds depending on which side of the
+subnet boundary the shipment was ultimately headed.

@@ -63,7 +63,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Halley | 36 | 36 | **Complete** |
 | Neumayer | 36 | 36 | **Complete** |
 | Belgrano | 36 | 36 | **Complete** |
-| Troll | 30 | 30 | **Complete** |
+| Troll | 36 | 36 | **Complete** |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
 | Sanay | 30 | 30 | **Complete** |
 | Princess Elisabeth | 30 | 30 | **Complete** |
