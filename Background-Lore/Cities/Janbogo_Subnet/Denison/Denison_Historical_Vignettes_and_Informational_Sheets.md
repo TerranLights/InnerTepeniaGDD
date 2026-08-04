@@ -12,7 +12,11 @@ Reference_Synthesis.md` (Tier 3). **Batch 2 of many — target 30, 12 done as of
 direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
 only have happened once full national digital connectivity existed, each grounded in a specific named
 city-to-city connection from that file (Sinheung, Byrd, Rothera, Mirny, Dumont d'Urville). 18 done as of
-batch 3 — completes the Janbogo subnet's batch 3 pass.**
+batch 3 — completes the Janbogo subnet's batch 3 pass. Batch 4, per direct developer instruction, inverts the
+lens: six occurrences resting on the actual pre-Tower communication structure, where direct digital contact
+existed only within the Janbogo subnet (Dumont d'Urville) and anything reaching Sinheung, Byrd, Rothera, or
+Mirny required trucking, postal service, or physically traveling there. 24 done as of this batch —
+completes the Janbogo subnet's batch 4 pass.**
 
 ---
 
@@ -300,3 +304,73 @@ what's recalled of the reaction, found the numbers genuinely sobering even secon
 demonstration rather than lived directly. It marked the first time Denison's own civic tradition had been
 performed specifically for visitors whose own engineering expertise let them appreciate exactly how severe the
 recited conditions actually were.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Exchange Program That Ran on a Standing Conversation
+
+Denison's and Dumont d'Urville's genuinely close, frequent contact — regular technical exchange programs and
+informal visiting — depended entirely on the Janbogo subnet's own instant line, close enough that arranging a
+season's worth of exchanges took a single planning conversation rather than a season of correspondence.
+
+A specific exchange schedule, per what's preserved of the era's own routine, was proposed, adjusted, and
+finalized within one sitting between Denison's and Dumont d'Urville's own coordinating offices — a level of
+planning speed neither city could extend to any comparable exchange involving a subnet-external partner,
+where the same negotiation would have taken a full season of letters just to settle logistics.
+
+### The Wind-Engineering Comparison Rothera Answered a Full Winter Late
+
+Denison's own fully-interlinked structural design and Rothera's own decentralized, wind-load-distributed
+layout solved the same katabatic-wind problem from two different philosophies — a comparison that, crossing
+from the Janbogo subnet into the Palmer subnet, could only be pursued by written correspondence.
+
+The comparative study, per what's preserved of the letters, spanned close to two full measurement winters
+before either city's own engineers felt confident enough in the comparison to publish it internally — each
+round of findings mailed, reviewed, and answered months later, a pace considerably slower than the single
+season the same kind of study took Denison and Dumont d'Urville to complete over the subnet's own line.
+
+### The Chamber Peer Relationship Sinheung Maintained Entirely by Letter
+
+Denison's own historical status as the Cradle network's third confirmed chamber manufacturer connected it to
+Sinheung's own still-active manufacturing floor — a technical peer relationship that existed, before the
+Tower, entirely through written correspondence crossing from the Janbogo subnet into the Mirny subnet.
+
+A specific tolerance question, per what's preserved of the exchange, took months to receive a full answer to —
+Sinheung's own engineers, working from a written description of a manufacturing problem rather than any direct
+access to Denison's own equipment, doing their careful best with information that arrived considerably slower
+than the problem itself had developed.
+
+### The Load-Distribution Confirmation Mirny Sent by the Slowest Possible Route
+
+The extreme-wind engineering parallel connecting Denison's own fully-interlinked design to Mirny's own
+windbreak-ring architecture prompted a specific comparative data request — crossing from the Janbogo subnet
+into the Mirny subnet at the pace of the mail, since nothing digital connected the two cities.
+
+Mirny's own reply, per what's preserved of the correspondence, took the better part of a season to compile and
+send back — genuinely useful comparative figures that Denison's own engineers incorporated into their own
+internal documentation, considerably later than a comparable request to Dumont d'Urville would have taken to
+answer.
+
+### The Historical Peer Relationship Byrd Learned About From a Book, Not a Letter
+
+Denison's own status as a historical Cradle-network peer to Byrd's own still-active Chamber Works was, for
+most of the pre-Tower era, something Byrd's own engineers learned about only through published technical
+material that had reached them slowly — no direct correspondence existed between the two cities at all.
+
+A specific Byrd engineer, curious enough to write directly once he encountered Denison's own name in an
+industry reference, sent an inquiry that took months to arrive and longer to answer — Denison's own archivists
+searching physical records to confirm details Byrd's own engineer had only ever encountered secondhand.
+
+### The Manifest Dumont d'Urville Confirmed Before Rothera's Own Letter Even Left
+
+A shipment of structural components, ordered from Dumont d'Urville and confirmed within a single real-time
+exchange over the subnet's instant line, was dispatched the same day the order was placed — well before an
+unrelated letter to Rothera, addressing an entirely different comparative-engineering question, had even left
+Denison's own mailing office that same morning.
+
+The Dumont d'Urville shipment arrived within days. The letter to Rothera took most of a season to receive any
+reply to at all — two pieces of correspondence, sent from the same office on the same morning, arriving at
+their destinations at completely different speeds depending on nothing more than which side of the subnet
+boundary each was addressed to. **Completes the Janbogo subnet's batch 4 pass.**
