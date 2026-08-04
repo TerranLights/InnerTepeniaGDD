@@ -9,8 +9,11 @@ Infrastructure_Attributes.md`'s 11 attributes and its Cross-Referenced Extrapola
 direct developer instruction 2026-08-03: 3 entries shortly before completion, 3 shortly after. Batch 3, per
 direct developer instruction, is framed around `City_National_Connections.md`: six occurrences that could
 only have happened once full national digital connectivity existed, each grounded in a specific city-to-city
-connection from that file and in Belgrano's own established struggles. Target 30, 18 done as of this
-batch.**
+connection from that file and in Belgrano's own established struggles. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
+direct digital contact existed only within the Halley subnet (Sanay, Troll, Halley) and anything reaching
+Byrd, Esperanza, Marambio, or Sinheung required trucking, postal service, or physically traveling there.
+Target 30, 24 done as of this batch.**
 
 ---
 
@@ -331,3 +334,83 @@ convoy had even been affected — genuine advance notice, the first Halley had e
 specifically, rather than inferred after a shipment simply failed to show. Halley's own planners adjusted the
 schedule immediately, the first time in the two cities' shared history that a Belgrano closure had been
 something Halley planned around in advance rather than discovered by its own absence.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Passage Status Sanay Never Had to Wait For
+
+Belgrano's and Sanay's shared role as the Halley subnet's two interchangeable South African freighter receiving
+ports meant either city always knew, within the hour, whether the other's own passage was open — a standing
+fact of subnet life that made the two ports function, in practice, as one shared receiving operation long
+before anyone called it that formally.
+
+A convoy dispatcher choosing between the two routes on a given week, per what's preserved of the era's own
+routine, simply asked Sanay's own office directly over the subnet's instant line rather than guessing —
+ordinary coordination that a Marambio dockworker, visiting on unrelated business, found genuinely remarkable
+once she learned Belgrano had no equivalent way of asking Marambio's own harbor the same kind of question.
+
+### What Troll Flew Out Before Anyone Outside the Subnet Knew It Existed
+
+Freight moving from Belgrano through Troll's own aviation network toward Dome Fuji or Sinheung was coordinated
+entirely over the subnet's instant line right up until the moment it left Troll's own runways — after which it
+became, for all practical purposes, untrackable until it arrived.
+
+A shipment of fabricated parts, per what's remembered of one specific run, was confirmed loaded, weighed, and
+airborne within a single afternoon's exchange between Belgrano and Troll — the fastest a shipment had ever
+moved from decision to departure in either city's own memory. The same shipment then spent close to three
+weeks in transit toward its actual Mirny subnet destination, with neither city able to confirm its progress
+once it crossed the subnet boundary. The planning had never been faster. The delivery was exactly as slow as
+it had always been.
+
+### The Map Nobody Could Ask Byrd About Afterward
+
+Maps recovered from Belgrano's own archives contributed directly to the expedition that located and founded
+Byrd — but once that expedition departed, Belgrano had no way to learn what it had actually found until word
+eventually made its own way back overland, months later.
+
+Belgrano's own archivists, per what's preserved of the period, tracked the expedition's presumed progress
+against nothing more than the departure date and their own estimate of how long the route ought to take —
+genuine uncertainty stretching well past when any subnet-internal errand would have already resolved. The
+first confirmation that Byrd had actually been founded arrived by courier, not by any channel Belgrano's own
+archivists could have simply checked, closing a waiting period no comparable Halley subnet correspondence
+would ever have required.
+
+### The Letter to Esperanza That Outlived Its Own Question
+
+A Belgrano historian's inquiry to Esperanza, prompted by curiosity about the two cities' shared Argentine
+founding-population status alongside Marambio, took long enough in transit that the historian had moved on to
+an entirely different research question by the time Esperanza's own reply finally arrived.
+
+The letter itself, per what's preserved of the exchange, traveled overland out of the Halley subnet and
+onward through however much of the Palmer subnet's own internal routing a piece of subnet-external mail
+required — a route neither city's postal service treated as urgent, since nothing about the original question
+had been. Belgrano's historian read the eventual reply with real interest, if considerably less urgency than
+the question that had prompted it, and answered back mostly out of politeness to a correspondence she no
+longer strictly needed to continue.
+
+### The Part Sinheung Waited On Without Knowing It Was Coming
+
+A specific aircraft part sitting unused in one of Belgrano's own ruins-era garages had genuine value to
+Sinheung's own plane-repair effort — but Belgrano had no way to simply tell Sinheung the part existed, and
+Sinheung had no way to ask.
+
+The part changed hands only once a trader making the overland-then-aviation journey through Troll happened to
+mention it in conversation at a Sinheung workshop, an entirely incidental discovery rather than anything
+either city could have arranged on purpose. The part itself then had to be physically carried back the same
+long route it had taken to be discovered at all — a transaction that, once digital contact eventually existed,
+would have been a single message and a scheduled shipment instead of one trader's lucky mention.
+
+### The Freight Belgrano and Sanay Planned Together for Someone Neither Had Met
+
+A large shipment ultimately bound for Marambio required Belgrano and Sanay to coordinate packing and loading
+in real time over the subnet's own instant line — deciding, within a single exchange, which port would handle
+which portion of the load, a division of labor neither city had to negotiate slowly since the conversation
+itself cost nothing.
+
+The shipment that resulted, once it actually left the Halley subnet, traveled by a route neither Belgrano nor
+Sanay could track once it crossed into Palmer subnet territory — the two ports' own instant coordination
+ending exactly at the subnet boundary their shared planning session had never needed to cross. Marambio's own
+dockworkers, receiving the shipment weeks later, had no way of knowing how quickly the loading itself had
+actually been arranged.
