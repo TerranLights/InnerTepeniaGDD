@@ -19,7 +19,10 @@ Batch 4, per direct developer instruction, inverts the lens: six occurrences res
 communication structure, where direct digital contact existed only within the Janbogo subnet (Denison,
 Janbogo, Zukelli) and anything reaching Casey required trucking, postal service, or physically traveling
 there — despite Hwy 2 giving the two cities the shortest, most direct cross-subnet highway link in the
-country. 24 done as of this batch.**
+country. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower full
+connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Dumont d'Urville = Mercury/small-but-intensely-alive + Fire/warmth-and-vitality) as a
+thematic undertone. 30 done as of this batch — Dumont d'Urville's own full target is now complete.**
 
 ---
 
@@ -377,3 +380,73 @@ The joint shipment reached its intra-subnet destinations within days. The letter
 took weeks to receive any reply to at all — two pieces of correspondence, dispatched the same morning, arriving
 at their destinations at entirely different speeds depending on nothing more than which side of the subnet
 boundary each was addressed to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Certification Dumont d'Urville Extended to Someone Else, With Casey's Blessing
+
+Following Casey's own original extension of certification authority, Dumont d'Urville's own technicians asked
+directly whether that authority could itself be extended a step further — to a specific piece of equipment
+belonging to a third city entirely, testing the limits of how far the delegated trust could actually travel.
+
+Casey's own certification office, per what's preserved of the exchange, approved the extension after review —
+the first time the authority had been formally passed along a second link in the chain, confirming the
+original delegation had been built to genuinely scale rather than only work for the one relationship it was
+first extended to.
+
+### The Exchange Program Denison Finally Ran Without Dumont d'Urville's Help
+
+Building on the formalized technical exchange program, Denison's own coordinators ran a full exchange cycle
+independently for the first time — scheduling, hosting, and completing a rotation without needing Dumont
+d'Urville's own coordinating office to manage the logistics, proof the program had matured into something
+genuinely self-sustaining on both sides.
+
+Dumont d'Urville's own coordinators, per what's preserved of the record, treated this as a genuine milestone
+— the exchange program they'd helped formalize no longer strictly needed their own continued involvement to
+keep running.
+
+### The Design Question Janbogo Sent Back Considerably Harder Than the First
+
+Following the earlier staging-technique exchange, Janbogo's own commercial-hall organizers returned with a
+considerably more technical question — asking for the underlying acoustic principles behind Dumont d'Urville's
+own venue design, not just the staging technique itself.
+
+Dumont d'Urville's own venue organizers, per what's preserved of the exchange, found themselves needing to
+consult their own more technically-minded members to answer fully — the first time an outside city's own
+curiosity had pushed the "New Orleans at 1/20th scale" downtown to articulate the actual acoustic reasoning
+behind decisions its own venues had made instinctively for generations.
+
+### The Second Venue Comparison Zukelli Requested, This Time About Failure
+
+Following the original venue-comparison request, Zukelli's own hospitality organizers asked a considerably
+more candid follow-up — not what worked, but what specific venue ideas Dumont d'Urville had tried and
+abandoned, curious whether Zukelli's own music scene could learn from failures rather than only successes.
+
+Dumont d'Urville's own organizers, per what's preserved of the exchange, answered with genuine candor — the
+first time either city's own hospitality culture had shared its own dead ends with another city rather than
+only its working ideas, a franker exchange the original comparison hadn't quite reached.
+
+### The St. Jules Day Broadcast That Reached an Audience Beyond Denison
+
+Following Denison's own especially resonant reception of St. Jules Day's national broadcast, a considerably
+wider audience across several cities picked up on the observance's own distinctive insistence on real outdoor
+conditions, once national broadcast reach made the tradition genuinely visible beyond its own original
+audience.
+
+Dumont d'Urville's own organizers, per what's preserved of the period, found the broader attention gratifying
+in a different way than Denison's own recognition had been — a wind-hardened city understanding the tradition
+on its own terms was one thing; a much broader, more casual national audience simply finding it interesting
+was another, equally welcome kind of reach.
+
+### The Music Scene Cited Nationally as a Model for Organic Growth
+
+Once national civic-culture comparison became possible, Dumont d'Urville's own "New Orleans at 1/20th scale"
+downtown — grown entirely organically rather than planned — became, for the first time, a specific reference
+point cited by other cities' own civic planners studying how informal cultural districts actually develop.
+
+Dumont d'Urville's own residents, per what's preserved of the period, found the attention slightly odd — the
+downtown had never been designed to be a model for anything, simply the natural result of what the city's own
+people had built for themselves over generations. That unplanned quality, once other cities studied it
+directly, turned out to be exactly what made it worth studying at all.
