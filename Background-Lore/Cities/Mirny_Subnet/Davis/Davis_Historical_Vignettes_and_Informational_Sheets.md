@@ -18,7 +18,10 @@ actual pre-Tower communication structure, where direct digital contact existed o
 service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
 returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
 cross-referenced against `city-symbol-pairs.md` (Davis = Earth/the breadbasket, doubled as both planet and
-element) as a thematic undertone. 30 done as of this batch — Davis's own full target is now complete.**
+element) as a thematic undertone. 30 done as of this batch — Davis's own full target complete. Batch 6, per
+direct developer instruction, returns to Batch 4's own pre-Tower framing with genuinely fresh occurrences,
+distinct from both Batch 4 and each other, now also cross-referenced against Davis's own doubled Earth symbol
+pair. 36 done as of this batch.**
 
 ---
 
@@ -453,3 +456,70 @@ Davis's own agricultural administrators, per what's preserved of the period, fou
 in a quiet way — the nickname had always been accurate, but only now, with real national comparison possible,
 did the rest of the country actually understand exactly how load-bearing Davis's own patient, sheltered
 growing operation genuinely was.
+
+---
+
+## Batch 6 — Grounded Work, Reachable Only So Far
+
+### The Harvest Report Casey Adjusted Its Own Menu Around
+
+Davis's own rolling harvest yield reports, shared continuously with Casey over the subnet's own instant line,
+let Casey's own kitchens plan seasonal menus days ahead of an actual shipment's arrival — adjusting recipes to
+match exactly what would be available rather than guessing from an outdated estimate.
+
+Neumayer, requesting a comparable seasonal forecast for its own institutional food planning, received a
+single fixed estimate by mail — accurate as of the day it was written, but with no way to update it once
+conditions on the ground actually changed before the shipment itself arrived.
+
+### The Soil Question Mirny Answered While Davis Was Still Digging
+
+A soil-composition question, arising mid-excavation during an expansion of Davis's own growing operation, was
+answered by Mirny's own geologists over the subnet's line before the day's digging had even finished — Davis's
+own crews adjusting their plan in real time based on the reply.
+
+The same category of question, put to Dome Fuji by letter during an unrelated inquiry, took the better part
+of a season to resolve — Davis's own crews, in that case, simply proceeding on their own best judgment rather
+than waiting on an answer that couldn't possibly arrive in time to matter.
+
+### The Correction Kunlun Sent Before Davis's Own Paper Went to Print
+
+A data correction from Kunlun, catching an error in one of Davis's own published sediment-comparison figures,
+arrived over the subnet's own line in time to fix the mistake before the paper describing it was finalized —
+a near-miss avoided entirely because of how fast the correction could travel.
+
+A comparable correction offered by Mawson for a different figure arrived only after the original document had
+already been distributed — requiring a formal erratum rather than a quiet, timely fix, simply because the
+correction itself had to travel by mail.
+
+### The Standing Order Neumayer Could Never Quite Keep Current
+
+A recurring produce order placed with Davis by Neumayer for its own institutional kitchens had to be specified
+well in advance, with no way to revise it as Davis's own actual harvest yields shifted week to week — Neumayer
+received whatever the order had specified, regardless of whether Davis's actual current surplus matched it.
+
+Casey's own comparable standing order, adjustable at will over the subnet's own line, never suffered the same
+mismatch — proof, to Davis's own agricultural office, that the breadbasket's own reliability depended as much
+on the speed of the line carrying the order as on the harvest itself.
+
+### The Comparison Dome Fuji Could Only Offer From Memory
+
+A detailed ice-core dataset requested from Dome Fuji arrived, per an established pattern, compiled from memory
+and partial notes rather than a complete formal record — Dome Fuji's own extreme-altitude conditions leaving
+its own record-keeping less systematic than Davis had hoped, and no faster line available to simply ask a
+follow-up question and refine the request.
+
+Kunlun, asked a related comparative question over the subnet's own line, could and did offer several rounds
+of clarification the same week — the difference in usefulness between the two responses tracing less to
+either city's own rigor than to which one Davis could actually have a real conversation with.
+
+### The Breadbasket That Fed the Subnet in Real Time and Everyone Else on a Delay
+
+Davis's own agricultural output reached Casey, Mirny, and Kunlun on a schedule close to continuous — shipments
+adjusted, harvest data shared, and requests answered all within the same subnet-internal rhythm. Mawson,
+Dome Fuji, and Neumayer received the same reliable output, but always planned and confirmed on the mail's own
+slower calendar.
+
+Davis's own agricultural office, per a surviving planning document, treated this simply as an operational fact
+to design around — the breadbasket's own patient, grounded character never wavered, but how quickly its
+output could actually be coordinated depended entirely on which side of the subnet boundary the request came
+from.
