@@ -59,7 +59,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
 | Sanay | 30 | 30 | **Complete** |
 | Princess Elisabeth | 30 | 30 | **Complete** |
-| Lazar | 24 | 30 | In progress |
+| Lazar | 30 | 30 | **Complete** |
 
 ### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)
 
@@ -138,8 +138,14 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 816** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
+50 + 30). **Current: 858** (Halley subnet 216 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
 Mawson subnet 72 + Byrd 30 + Amundsen-Scott Station 12).
+
+**2026-08-06 — Halley subnet batch 5 complete — all 7 non-paused Halley subnet cities now at their full
+30/30 target.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess Elisabeth, and Lazar all completed batch 5
+(post-Tower full connectivity, fresh occurrences distinct from batch 3, cross-referenced against the new
+`city-symbol-pairs.md` Planet+Element associations as a thematic undertone, not stated in-fiction). Abowasa
+stays paused at 6/30 — the only Halley subnet city not yet at target.
 
 **2026-08-03 — MILESTONE: the subnet-bounded-digital-vs-cross-subnet-traditional-means batch (batch 4 for
 the 35 outer cities, "Fifth Batch" for Byrd) is complete nationwide.** Every city and region has 24 entries

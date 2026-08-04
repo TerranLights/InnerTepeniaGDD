@@ -14,7 +14,10 @@ trade-surge already covered in batch 2's own Junction Markets entry. Target 30, 
 Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
 communication structure, where direct digital contact existed only within the Halley subnet (Abowasa,
 Neumayer) and anything reaching Fort McMurdo, Palmer City, or Sejong required trucking, postal service, or
-physically traveling there. Target 30, 24 done as of this batch.**
+physically traveling there. Batch 5, per direct developer instruction, returns to post-Tower full
+connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
+`city-symbol-pairs.md` (Lazar = Jupiter/by-far-the-largest + Wood/absorptive-growth) as a thematic undertone.
+Target 30, 30 done as of this batch — Lazar's own full target is now complete.**
 
 ---
 
@@ -426,3 +429,81 @@ The delegation itself then traveled the entire distance to Fort McMurdo overland
 than the instant conversation its own preparation had taken — the fastest planning phase either city's records
 show for a subnet-external delegation, followed immediately by the same unavoidable travel time every trip
 outside the Halley subnet required regardless of how efficiently it had been arranged.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Population Count Fort McMurdo and Lazar Finally Compared Honestly
+
+Long-standing informal rivalry between the country's two biggest civic hubs had always run on secondhand
+estimates and civic pride rather than any actual shared data — neither city had ever formally compared
+population, density, or growth rate against the other directly. The first honest joint comparison, conducted
+over the relay specifically because both cities' own administrators were curious enough to finally settle it,
+confirmed what most residents had already assumed: Lazar was, and by a wide margin, the larger of the two.
+
+Fort McMurdo's own administrators, per what's preserved of the exchange, took the result in stride — the
+comparison had never really been about which city held formal national authority, a distinction Fort McMurdo
+plainly held regardless of Lazar's own greater size. What the exchange settled, for the first time with
+actual numbers behind it, was simply which of the two cities the rest of the country's own informal
+"biggest city" reputation had always quietly been describing.
+
+### The Design Palmer City Borrowed Back
+
+Following the Petrograd Room's own design borrowing from descriptions of Palmer City's commercial districts,
+Palmer City's own planners returned the favor for the first time — requesting details on a specific piece of
+Lazar's own maglev-adjacent commercial architecture for a project of their own, closing a design exchange that
+had previously only run in one direction.
+
+Lazar's own architects, per what's preserved of the exchange, supplied full specifications rather than the
+secondhand impression Palmer City's own original borrowing had worked from — the first time either city's
+own commercial design language had been shared as an actual technical reference rather than an inspiration
+picked up secondhand from travelers' accounts.
+
+### The Governance Case Sejong Cited as Its Own Best Comparison
+
+Following the earlier reciprocal correspondence comparing coalescence and coexistence, Sejong's own
+Negotiation Hall began formally citing Lazar's own demographic-merger history as a standing comparison case
+in its own internal training material — the first time an outside city's own history had been folded into
+Sejong's own governance documentation as a genuine reference point.
+
+Lazar's own coordinators, per what's preserved of learning about the citation, found it a genuinely unexpected
+form of recognition — a city that had never negotiated its own coalescence formally being treated as a
+useful case study by the country's most practiced formal negotiators.
+
+### The Junction Markets Vendor Abowasa Actually Recognized by Name
+
+Following Abowasa's own first successfully amended order with Sanay, a considerably larger relationship
+developed between a specific Junction Markets vendor and Abowasa's own small trade office — regular enough,
+conducted directly over the relay, that the vendor eventually recognized Abowasa's own orders by name rather
+than treating each one as an anonymous small transaction.
+
+The vendor, per what's preserved of the account, began setting aside specific goods she knew Abowasa's own
+office tended to request before the formal order even arrived — a small, informal kind of familiarity that
+Tepenia's largest commercial district had never previously extended to its own smallest, most distant
+customer.
+
+### The Archive Cross-Reference Neumayer Didn't Expect to Need Twice
+
+Following the earlier confirmation of Novolazarevskaya's own DROMLAN-heritage logistics relationship with
+Neumayer, a second, unrelated research question sent Neumayer's own historians back to Lazar's own archive —
+this time investigating an entirely different founding-era supply arrangement neither city had previously
+connected to the first discovery.
+
+Lazar's own archivists, per what's preserved of the exchange, found the second search considerably faster
+than the first, now that both institutions understood how to actually search each other's holdings —
+confirmation that the original discovery hadn't just answered one question, but had opened a genuinely
+reusable research relationship between the two archives.
+
+### The City That Kept Growing Once Everyone Could See It Happening
+
+Once national demographic reporting became instant rather than periodic, it became visible for the first time
+just how much faster Lazar's own population continued to grow relative to every other Tepenian city —
+absorbing new arrivals at a pace that, tracked in real time rather than reconstructed from occasional census
+snapshots, surprised even Lazar's own civic administrators.
+
+Several other cities' own planners, per what's preserved of the period, began citing Lazar's own growth curve
+directly in their own infrastructure planning discussions — not because they expected to match it, but because
+it had become, for the first time, an actual visible national benchmark rather than a vague sense that Lazar
+was "the big one." The city's own defining trait — gathering whoever arrived and giving them somewhere to
+belong — had simply never been measurable in real time before.
