@@ -14,7 +14,11 @@ connectivity existed, each grounded in a specific named city-to-city connection 
 Signy, Kunlun) distinct from batch 2's own entries. 18 done as of batch 3. Batch 4, per direct developer
 instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
 direct digital contact existed only within the Mirny subnet (Kunlun, Mirny) and anything reaching Byrd or
-Signy required trucking, postal service, or physically traveling there. 24 done as of this batch.**
+Signy required trucking, postal service, or physically traveling there. 24 done as of this batch. Batch 5,
+per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
+distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Vostok = Pluto/tepenia's-loneliest-
+outpost + Water/depth-and-wisdom) as a thematic undertone. 30 done as of this batch — Vostok's own full
+target is now complete.**
 
 ---
 
@@ -390,3 +394,74 @@ That same shipment, once a portion of it was redirected toward Byrd per a later 
 subnet with no way for Vostok to confirm its arrival — the same instant coordination that had assembled and
 confirmed the order in minutes giving way, at the subnet boundary, to the same unaccountable silence every
 shipment crossing out of Vostok's own reach disappeared into.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Lake Report That Finally Included Byrd's Own Questions
+
+Following the live lake-ecosystem update Vostok's researchers first received, a considerably more substantial
+exchange developed once Byrd's own lake-maintenance staff began sending their own observations back regularly
+— not just receiving Vostok's own findings, but contributing field data from the actual site neither Vostok
+researcher had personally visited in years.
+
+The resulting collaboration, per what's preserved of the record, became something closer to a genuine
+joint monitoring program than the original one-directional relationship — Vostok's own genetics expertise
+paired, for the first time, with Byrd's own direct, ongoing access to the ecosystem itself.
+
+### The Redundancy Mirny Finally Explained the Reasoning Behind
+
+Following the earlier honest admission about the Relay Vaults' own limited redundancy, Mirny's own
+technicians sent Vostok a considerably fuller technical explanation once Vostok's own comms staff asked why
+the redundancy hadn't simply been built stronger from the start.
+
+The answer, per what's preserved of the exchange, involved genuine founding-era resource constraints neither
+city had previously had reason to discuss in this much detail — the first time the honest admission had been
+followed all the way through to its actual historical cause, rather than simply accepted as a known
+limitation.
+
+### The Cold-Adaptation Finding That Reached Signy Before Vostok Fully Understood It
+
+A specific cold-tolerance mechanism Vostok's own researchers were still actively investigating was shared
+with Signy's own engineers mid-study, once a routine check-in revealed the partial finding might already be
+useful for Signy's own power-system engineering, even before Vostok's own research had reached a final
+conclusion.
+
+Signy's own engineers, per what's preserved of the exchange, applied the partial finding successfully despite
+its incomplete status — the first time Vostok's own research had been put to practical use somewhere else in
+the country before Vostok's own scientists had finished drawing their own conclusions from it.
+
+### The Personal Letter That Became a Standing Correspondence
+
+Following the original no-purpose personal letter to Kunlun, the exchange continued — not as a single
+gesture, but as an ongoing, genuinely personal correspondence between two researchers who had, by this point,
+simply become friends, conducted alongside and separate from either city's own official research
+correspondence.
+
+Both researchers, per what's preserved of the relationship, kept the personal exchange distinct from their
+own professional one — proof that the loneliest-outpost kinship between the two cities had produced something
+more durable than professional necessity: an actual friendship, sustained specifically because instant
+contact let it exist alongside the working relationship rather than only within it.
+
+### The Archive Fragment Byrd Finally Got to Ask Follow-Up Questions About
+
+Following the original Voskresenskaya archive fragment sent to Byrd, Byrd's own research staff sent back a
+detailed follow-up question about the fragment's own broader context — something the original one-way
+delivery had never allowed for, since nothing had previously connected Byrd to ask.
+
+Vostok's own archivists, per what's preserved of the exchange, found additional related material while
+researching the follow-up — the fragment's own significance growing considerably once genuine back-and-forth
+inquiry replaced what had originally been a single, unprompted gift.
+
+### The Modeling Request That Became an Ongoing Collaboration
+
+Following the original willingness to help with Byrd's own unrelated cold-engineering problem, Vostok's
+modeling assistance continued past the original request — Byrd's own engineers returning with follow-up
+questions as their project developed, and Vostok's researchers staying involved well past what the original,
+one-time favor had implied.
+
+Vostok's own researchers, per what's preserved of the account, hadn't expected the relationship to continue
+this long — a single willingness to help, extended without ceremony to a city with no prior technical
+relationship to Vostok at all, had grown into a genuine ongoing collaboration neither side had specifically
+planned for.
