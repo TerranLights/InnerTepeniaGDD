@@ -18,7 +18,9 @@ Amundsen Station required trucking, postal service, or physically traveling ther
 batch. Batch 5, per direct developer instruction, returns to post-Tower full connectivity with genuinely
 fresh occurrences distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Cape Adare =
 Earth/big-city-warmth-at-small-town-scale + Wood/generosity-and-community) as a thematic undertone. 30 done
-as of this batch — Cape Adare's own full target is now complete.**
+as of this batch — Cape Adare's own full target complete. Batch 6, per direct developer instruction, returns
+to Batch 4's own pre-Tower framing with genuinely fresh occurrences, distinct from both Batch 4 and each
+other, now also cross-referenced against Cape Adare's own symbol pair. 36 done as of this batch.**
 
 ---
 
@@ -444,3 +446,71 @@ Cape Adare's own archivists, per what's preserved of the recognition, found the 
 uncomfortable — the two cities had always understood their own preservation instincts as siblings, not
 rivals, and neither particularly wanted to be singled out as the "clearer" example of something they'd always
 considered a shared value rather than a competition.
+
+---
+
+## Batch 6 — Small-Town Warmth, Close Enough to Feel It
+
+### The Volunteer Roster Zukelli Filled the Same Evening
+
+A last-minute gap in Cape Adare's own community-event volunteer roster was filled within hours after a
+casual mention over the subnet's own line to Zukelli — several volunteers arriving from Zukelli itself,
+treating the request as no different from helping a neighbor down the street.
+
+A similar shortfall for an unrelated event, mentioned in a letter to Port Lockroy, received a sympathetic
+reply but no actual volunteers — the distance itself making the kind of spontaneous, same-day help Zukelli
+had offered simply impossible to arrange in time.
+
+### The Penguin-Count Discrepancy Zukelli Resolved Before Dinner
+
+A minor discrepancy in a joint wildlife survey, discovered mid-count, was resolved with Zukelli over the
+subnet's own line before the day's fieldwork had even concluded — both teams comparing notes in real time
+rather than reconciling separate reports after the fact.
+
+Amundsen Station, participating in a related but separate survey, could offer no equivalent real-time
+comparison — its own findings, compiled independently and sent by the eventual mail run, could only be
+cross-checked against Cape Adare's own data well after both surveys had already concluded.
+
+### The Preservation Instinct Port Lockroy Wrote to Understand
+
+A detailed letter from Port Lockroy, asking Cape Adare to explain the reasoning behind a specific preservation
+decision, took several careful rounds of correspondence to fully resolve — each side, per the surviving
+exchange, working hard to make sure a value both cities considered fundamental translated properly across the
+distance separating them.
+
+The same category of question, raised with Zukelli over the subnet's own line, resolved in a single
+conversation — not because Zukelli understood the value any better, but because clarifying questions could be
+asked and answered as fast as they occurred to either side.
+
+### The Marker Question That Outran Its Own Sender
+
+A visitor's inquiry about one of Cape Adare's own historical markers, relayed by the visitor's own subsequent
+letter to a friend in Port Lockroy, arrived and was answered before the visitor's own physical journey back
+toward the Peninsula had even concluded — the correspondence, in this one case, genuinely outpacing the
+traveler who'd prompted it.
+
+A comparable inquiry channeled instead through Zukelli reached an answer within the same day it was asked —
+no race against a traveler's own itinerary necessary, since the subnet's own line simply outpaced any
+physical journey by a wide margin regardless.
+
+### The Documentation Amundsen Station Requested During the Tower's Own Construction
+
+A documentation standard requested by Amundsen Station, still under construction at the time, required Cape
+Adare's own archivists to compile and send a written account with no expectation of a quick follow-up — the
+correspondence understood by both sides as necessarily slow, given the distance and the Station's own limited
+established channels.
+
+Zukelli's own request for the same category of documentation, made the same season over the subnet's own
+line, prompted a genuine back-and-forth refinement over several days — the same underlying material, treated
+very differently depending on how quickly a follow-up question could actually travel.
+
+### The Community That Was Warmest Where the Line Was Fastest
+
+Cape Adare's own defining warmth — big-city generosity at small-town scale — extended fully and genuinely to
+every city it corresponded with, but its most immediate, conversational expression stayed close to home: a
+running, easy familiarity with Zukelli that Port Lockroy and Amundsen Station experienced instead as
+considerate, careful, but inevitably more distant correspondence.
+
+Cape Adare's own community leaders, per a surviving reflection, didn't consider this any kind of favoritism —
+warmth, in their own accounting, traveled exactly as fast as the line carrying it allowed, and no amount of
+good will on either end could make a letter move faster than the mail actually ran.

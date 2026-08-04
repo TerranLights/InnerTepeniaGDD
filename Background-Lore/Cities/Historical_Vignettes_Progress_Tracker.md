@@ -103,7 +103,7 @@ this round, same reasoning as batches 3, 4, and 5 (city-to-city framing; it has 
 | Janbogo | 36 | 36 | **Complete** |
 | Fort McMurdo | 36 | 36 | **Complete** |
 | Dumont d'Urville | 36 | 36 | **Complete** |
-| Cape Adare | 30 | 30 | **Complete** |
+| Cape Adare | 36 | 36 | **Complete** |
 | Zukelli | 30 | 30 | **Complete** |
 | Scott | 30 | 30 | **Complete** |
 | Denison | 30 | 30 | **Complete** |
