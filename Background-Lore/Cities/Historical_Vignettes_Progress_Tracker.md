@@ -72,7 +72,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Port Lockroy | 30 | 30 | **Complete** |
 | Sejong | 30 | 30 | **Complete** |
 | Signy | 30 | 30 | **Complete** |
-| Juan Carlos | 24 | 30 | In progress |
+| Juan Carlos | 30 | 30 | **Complete** |
 
 ### Mirny Subnet (target: 30 each except Tri-Cities region at 75 total; 225 total)
 
@@ -138,8 +138,14 @@ every standard-target city to its full 30/30 target.
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 858** (Halley subnet 216 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
+50 + 30). **Current: 906** (Halley subnet 216 + Palmer subnet 240 + Mirny subnet 192 + Janbogo subnet 168 +
 Mawson subnet 72 + Byrd 30 + Amundsen-Scott Station 12).
+
+**2026-08-06 — Palmer subnet batch 5 complete — all 8 cities now at their full target** (Palmer City 30/50,
+the other 7 all 30/30). Palmer City, Esperanza, Rothera, Marambio, Port Lockroy, Sejong, Signy, and Juan
+Carlos all completed batch 5 (post-Tower full connectivity, fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md`). Rothera's own entries used its Earth element only, since
+its planet remains an open question pending The Asteroid Belt's own development.
 
 **2026-08-06 — Halley subnet batch 5 complete — all 7 non-paused Halley subnet cities now at their full
 30/30 target.** Halley, Neumayer, Belgrano, Troll, Sanay, Princess Elisabeth, and Lazar all completed batch 5

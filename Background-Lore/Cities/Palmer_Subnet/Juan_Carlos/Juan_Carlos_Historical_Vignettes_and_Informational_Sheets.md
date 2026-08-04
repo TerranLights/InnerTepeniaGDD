@@ -14,7 +14,11 @@ Amundsen Station-focused entries. 18 done as of batch 3 — completes the Palmer
 per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
 communication structure, where direct digital contact existed only within the Palmer subnet (Palmer City,
 Sejong, Port Lockroy) and anything reaching Zhongshan or Amundsen Station required trucking, postal service,
-or physically traveling there. 24 done as of this batch — completes the Palmer subnet's batch 4 pass.**
+or physically traveling there. 24 done as of this batch — completes the Palmer subnet's batch 4 pass. Batch 5,
+per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
+distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Juan Carlos = Neptune/known-through-
+its-records + Metal/methodical-precision) as a thematic undertone. 30 done as of this batch — Juan Carlos's
+own full target is now complete, completing the Palmer subnet's batch 5 pass.**
 
 ---
 
@@ -380,3 +384,75 @@ The shipment itself then traveled the long overland-then-aviation route toward t
 prior physical transfer had, with no way for either planning city to confirm its arrival until word eventually
 made its own way back. The planning had never been faster. The journey it produced was exactly as slow as it
 had always been.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Second Family Record Palmer City Found on Its Own
+
+Following the original search that recovered a piece of Palmer City's own redistribution-era family history,
+Juan Carlos's own archive received a considerably more specific request the following year — a Palmer City
+researcher, having learned how to navigate the archive from the first search, conducting a second one almost
+entirely without needing Juan Carlos's own staff to guide her through it.
+
+Juan Carlos's own archivists, per what's preserved of the account, treated this as a genuine milestone in its
+own right — the first time a researcher from another city had used the archive well enough, on a second
+visit, to barely need assistance at all, proof the archive's own newly searchable structure was genuinely
+usable rather than simply accessible.
+
+### The Visa Classification Sejong and Juan Carlos Finally Standardized
+
+Following the original same-day resolution of a novel visa classification dispute, the two offices went
+further — formally standardizing the classification itself, rather than leaving it as a one-time resolved
+case that might need re-litigating the next time a similar traveler arrived.
+
+The standardization, per what's preserved of the project, became the first jointly authored immigration
+policy addition either office had ever produced together — a small, technical fix that nonetheless
+represented the gateway corridor's own processing genuinely improving, permanently, rather than simply being
+handled well once.
+
+### The Custodianship Correspondence Zhongshan Finally Answered the Same Season
+
+Following the original half-year-each-direction letter exchange with Zhongshan's own archivists, a follow-up
+question — this time sent and answered within the same season rather than spanning most of a year — confirmed
+the relationship had matured into something closer to an ongoing professional dialogue than a rare, careful
+exchange.
+
+Both archivists, per what's preserved of the correspondence, noted the shift without quite deciding whether
+they preferred it — the original slow pace had given each letter real weight; the faster pace let them
+actually finish a conversation before either lost the thread of what had prompted it.
+
+### The Postal Coordination That Finally Ran Both Directions
+
+Following the standing arrangement where Port Lockroy's postal network coordinated routing and priority
+through Juan Carlos, Juan Carlos's own archive began returning the favor — flagging incoming correspondence
+Port Lockroy's own network might want advance notice of, rather than the coordination running only one way as
+it originally had.
+
+The change, per what's preserved of the adjustment, was small and practical — a routine courtesy extended
+because it now cost nothing to extend, closing what had always been a slightly one-sided relationship into a
+genuinely mutual one.
+
+### The Archive That Finally Answered Its Own Oldest Open Question
+
+A specific administrative gap in Juan Carlos's own founding-era immigration records — predating even the
+earlier resolved gap involving Amundsen Station's relocated archive — was finally closed once a national
+search across multiple archives simultaneously surfaced a fragment neither Juan Carlos nor Amundsen Station
+had realized the other held a piece of.
+
+The resolution, per what's preserved of the discovery, required searching three separate archives at once to
+piece together — the kind of genuinely distributed research that had simply never been possible before every
+archive in the country could be searched in parallel rather than one at a time.
+
+### The Custodian City Other Archives Started Citing as a Model
+
+Once national archival correspondence made comparison genuinely possible, Juan Carlos's own methodology —
+built originally around tracking Federation arrivals and departures — became, for the first time, a cited
+reference point for other cities establishing or reorganizing their own record-keeping systems, well beyond
+anything related to immigration specifically.
+
+Juan Carlos's own archivists, per what's preserved of the period, found the attention slightly surprising —
+a system built for one narrow bureaucratic purpose had, once other archivists could actually study how it
+worked, turned out to be a genuinely well-designed template for careful record-keeping generally. **Completes
+the Palmer subnet's batch 5 pass.**
