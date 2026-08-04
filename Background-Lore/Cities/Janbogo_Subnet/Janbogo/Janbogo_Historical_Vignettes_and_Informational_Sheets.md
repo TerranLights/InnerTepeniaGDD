@@ -15,7 +15,11 @@ file (Zukelli, Sejong/Sinheung, Mawson, Esperanza, Dumont d'Urville, Byrd). 18 d
 per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
 communication structure, where direct digital contact existed only within the Janbogo subnet (Zukelli, Dumont
 d'Urville) and anything reaching Sejong, Sinheung, Mawson, Esperanza, or Byrd required trucking, postal
-service, or physically traveling there. 24 done as of this batch.**
+service, or physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction,
+returns to post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Janbogo = Earth/effectively-a-sister-city-with-Zukelli +
+Air/the-connective-medium) as a thematic undertone. 30 done as of this batch — Janbogo's own full target is
+now complete.**
 
 ---
 
@@ -375,3 +379,76 @@ The joint shipment reached its intra-subnet destination within days. The letter 
 took months to receive any reply at all — two pieces of correspondence dispatched the same day, arriving at
 wildly different speeds depending on nothing more than which side of the subnet boundary each was addressed
 to.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Sister City That Finally Had a Name for What It Already Was
+
+Following the established Crossing tradition and its shared joint calendar with Zukelli, Janbogo's own civic
+office began, for the first time, formally referring to Zukelli in official correspondence as a "sister
+city" — a designation that had never previously existed on paper, simply describing in a single word what
+the two cities' own residents had always understood informally.
+
+The designation itself changed nothing practical, per what's preserved of the record — the Crossing continued
+exactly as it always had. What mattered, per what's remembered locally, was smaller: an informal, generations-
+old closeness finally had an official name, made possible only because national administrative correspondence
+now made formalizing that kind of relationship easy rather than an unnecessary bureaucratic step.
+
+### The Question Sejong No Longer Needed to Ask in Advance
+
+Following the earlier courtesy of advance notice before contacting Janbogo, Sejong's own Hall coordinators
+dropped the practice once instant contact made "advance notice" functionally meaningless — simply reaching
+out directly whenever a question arose, the same way either city would treat a subnet-mate.
+
+Janbogo's own coordinators, per what's preserved of the shift, welcomed the change — the original courtesy
+had been a genuine kindness under the old system, but maintaining it once contact was instant had started to
+feel more like unnecessary formality than actual consideration.
+
+### The Hospitality Comparison That Finally Became a Shared Training Session
+
+Following the earlier comparison between Mawson's honeymoon-hospitality identity and Janbogo's own transit-
+focused version, staff from both cities held a joint training session for the first time — Janbogo's own
+hospitality workers and a delegation from Mawson comparing techniques directly, in person, rather than
+through the earlier secondhand written comparison alone.
+
+The session, per what's preserved of the account, surfaced genuine differences in approach neither city's own
+earlier correspondence had fully captured — proof that some kinds of hospitality knowledge only really
+transfer through direct demonstration, not description.
+
+### The Redistribution Comparison Esperanza Finally Closed the Loop On
+
+Following the detailed line-by-line comparison of their shared population-redistribution history, Esperanza's
+and Janbogo's own historians published a joint summary of what the comparison had found — the first time
+either city's own official history had cited the other's own archive as a co-equal source for the same
+historical event, rather than each city maintaining its own separate account.
+
+Janbogo's own civic records, per what's preserved of the update, were formally revised to reflect the
+corrected details the joint comparison had surfaced — a small but genuine improvement to the city's own
+official historical record, achieved only because two archives could finally be checked against each other
+directly.
+
+### The Venue Style Dumont d'Urville Sent Back, Adapted for Fashion
+
+Following the original hospitality-design question exchanged with Dumont d'Urville, a considerably different
+kind of collaboration followed once Janbogo's own shielded commercial halls began incorporating a staging
+technique borrowed from Dumont d'Urville's own live-music venues — applied, unexpectedly, to fashion
+showcases rather than music.
+
+Dumont d'Urville's own venue organizers, per what's preserved of the exchange, found the adaptation genuinely
+interesting — proof that a technique developed for one kind of hospitality could travel usefully into an
+entirely different one, once the two cities could simply describe what they were each doing to each other
+directly.
+
+### The Demographic Study That Finally Explained Why, Not Just How Much
+
+Following the earlier joint demographic study confirming Byrd's own Pacific-facing population kinship with
+Janbogo in precise detail, a considerably more ambitious follow-up asked a harder question — not just how
+closely the two populations matched, but why the underlying migration patterns had converged this way in the
+first place.
+
+The follow-up research, per what's preserved of the project, remains genuinely incomplete — a real historical
+question neither city's own records fully answer yet. What the collaboration did produce, for the first time,
+was a shared research agenda between the two cities rather than a single closed study, the demographic
+kinship having grown from a confirmed fact into an actual ongoing joint inquiry.
