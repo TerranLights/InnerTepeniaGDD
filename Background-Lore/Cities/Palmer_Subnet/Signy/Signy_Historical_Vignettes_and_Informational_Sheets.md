@@ -11,7 +11,11 @@ subnet city that survived the Long Night War fully intact. **Batch 2 of many —
 batch. Batch 3, per direct developer instruction, is framed around `City_National_Connections.md`: six
 occurrences that could only have happened once full national digital connectivity existed, each grounded in
 a specific named city-to-city connection from that file (Kunlun, Vostok, Princess Elisabeth, Rothera, Scott)
-and distinct from batch 2's own "Delegation That Came to Study the Turbines" entry. 18 done as of batch 3.**
+and distinct from batch 2's own "Delegation That Came to Study the Turbines" entry. 18 done as of batch 3.
+Batch 4, per direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower
+communication structure, where direct digital contact existed only within the Palmer subnet (Rothera) and
+anything reaching Kunlun, Vostok, Princess Elisabeth, or Scott required trucking, postal service, or
+physically traveling there. 24 done as of this batch.**
 
 ---
 
@@ -303,3 +307,77 @@ still working on. The completed analysis, arriving unprompted through a channel 
 when the original question was first left unresolved, confirmed a specific maintenance-interval adjustment
 Signy's own turbine crews adopted afterward — proof that a connection formed once didn't have to end the
 moment the original visit itself concluded.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Turbine Fault Rothera Confirmed From Its Own Records
+
+Signy's own power-system engineers, troubleshooting a recurring turbine fault, could cross-check the pattern
+against Rothera's own comparable industrial-vibration data over the subnet's instant line — a diagnostic
+shortcut that only worked because both cities sat within the same Palmer subnet's own reach.
+
+The fault, per what's preserved of the incident, turned out to match a stress pattern Rothera's own engineers
+had already documented in an unrelated context — a connection made within a single afternoon's exchange that,
+attempted against any subnet-external engineering archive instead, would have required months of written
+correspondence just to establish whether the other city even had comparable data worth comparing.
+
+### The Wind Data Vostok Requested by Letter, Not by Wire
+
+Vostok's own cold-tolerant biological research, curious about Signy's own power system as an unrelated
+extreme-engineering consultation, reached Signy only through written correspondence — no channel connected
+the Palmer and Mirny subnets to each other, so the entire exchange moved at the pace of the mail carrying it.
+
+The original request, per what's preserved of the letter, took months to arrive and specified data Signy's own
+engineers had to physically compile rather than simply transmit — the completed reply, once finally sent back,
+traveled the same long route in the opposite direction. Vostok's own researchers received a genuinely useful
+answer, eventually, to a question that would have taken a single conversation had the two subnets simply been
+connected already.
+
+### The Turbine Survey Princess Elisabeth Could Only Send in Writing
+
+The comparative engineering exchange between Signy's own wind-and-hydro system and Princess Elisabeth's own
+zero-emissions civic identity existed for years as nothing more than exchanged letters, crossing from the
+Palmer subnet into the Halley subnet at whatever pace the postal route between the two allowed.
+
+A specific round of comparative performance figures, per what's preserved of the correspondence, took close to
+two years to complete — each set of data mailed, reviewed, and answered months later, a research pace neither
+city's own engineers ever described as unusual, simply as how a cross-subnet engineering exchange worked
+before any faster option existed.
+
+### The Civic-Temperament Letter Scott Answered With Genuine Recognition
+
+Scott's own identity as the smaller, quieter city in a subnet defined by a larger neighbor prompted Signy's own
+civic historian, noticing the parallel to Signy's own position relative to the rest of the Palmer subnet, to
+write directly — a letter crossing from the Palmer subnet into the Janbogo subnet with no way to know in
+advance whether the comparison would even resonate on the other end.
+
+Scott's own reply, per what's preserved of the exchange, confirmed the parallel with what the historian
+described as unexpected warmth — a genuine, if slow-arriving, sense of civic kinship between two cities that
+had never had any prior reason to correspond at all, sustained afterward through an occasional letter
+exchanged perhaps once a year.
+
+### The Delegation That Studied Rothera's Vaults in an Afternoon
+
+A Signy engineering team, curious about Rothera's own underground vault sections as a possible reference for
+an unrelated storage project, simply traveled to Rothera and back within the same subnet — a trip short enough,
+and coordination simple enough over the instant line, that the whole visit was arranged and completed inside a
+single week.
+
+The same kind of reference visit, considered separately for Kunlun's own extreme-condition engineering
+facilities, was never attempted at all during this period — the distance and the complete absence of any way
+to arrange logistics in advance making a comparable subnet-external trip simply impractical for a team that
+size, however useful the visit might have been.
+
+### The Manifest Kunlun Never Saw Until the Crate Arrived
+
+A shipment of replacement turbine components, ordered from Rothera's own manufacturing floor and confirmed
+within a single real-time exchange over the subnet's instant line, was packed and dispatched the same day the
+order was placed — the fastest procurement Signy's own engineers had on record for equipment of that scale.
+
+A separate request for comparable components sent to Kunlun instead, since Rothera's own stock couldn't cover
+the full order, took the opposite path entirely — a written request, an uncertain wait, and a shipment that
+arrived weeks later with no advance notice of its own departure. Signy's own logistics office, per what's
+remembered of the period, simply planned around both timelines as a matter of course: fast from inside the
+subnet, slow from anywhere else.
