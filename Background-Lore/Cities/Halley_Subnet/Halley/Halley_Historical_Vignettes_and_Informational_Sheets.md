@@ -13,7 +13,11 @@ that already happened, but genuinely new possibilities the Tower's completion op
 specific city-to-city connection from that file and in Halley's own established struggles. Batch 4, per
 direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication
 structure, where direct digital contact existed only within a city's own subnet and anything reaching another
-subnet required trucking, postal service, or physically traveling there. Halley's own established connections
+subnet required trucking, postal service, or physically traveling there. Batch 5, per direct developer
+instruction, returns to post-Tower full connectivity — genuinely fresh occurrences distinct from batch 3,
+cross-referenced against `city-symbol-pairs.md` (Halley = Mercury/Resilience + Water/Adaptability) as a
+thematic undertone, not stated in-fiction. Target 30, 30 done as of this batch — Halley's own full target is
+now complete. Halley's own established connections
 are entirely intra-subnet, which becomes a genuine character point here — near-total physical/traditional
 isolation from the rest of the country outside the Halley subnet. Target 30, 24 done as of this batch.**
 
@@ -437,3 +441,84 @@ minutes over the subnet's own Arcanet line between Halley and Sanay, and a secon
 traveled with the freight itself onward through Troll's aviation network and beyond, since nothing digital
 connected Sanay's own dispatch office to wherever the shipment was actually headed. The planning was instant.
 The shipment itself never was.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Relocation Technique Halley Borrowed From Neumayer
+
+Halley's own mobility-status monitoring (attribute #7) had always been developed independently of Neumayer's
+comparable hydraulic-leg system, the two cities solving the same underlying "is this structure still safely
+movable" question in isolation from each other for generations. The first time either city actually adopted
+a technique from the other rather than simply comparing notes came once a Neumayer engineer, walking a Halley
+crew through a stalled-module diagnostic live over the national relay, recognized a load-distribution check
+Neumayer itself had never had reason to try.
+
+Halley's own crews, per what's preserved of the exchange, ran the borrowed check on the next relocation
+attempt and found it caught a stress pattern their own established method would have missed. The technique
+was folded into Halley's own standing procedure within the season — the first time in either city's history
+that one had genuinely changed how it did its own core work because of something learned from the other,
+rather than simply confirming what each already suspected on its own.
+
+### The Apprentice Sanay's Nexus Trained for a City It Had Never Met
+
+The Halley residents who had once traveled to Sanay to build the subnet's own Arcanet nexus by hand were, by
+this point, mostly retired from active technical work — but one of them, watching over the national relay as
+Sanay's own staff trained a new junior technician, recognized a diagnostic habit the trainee had picked up
+that traced directly back to a shortcut her own original construction crew had used decades earlier, never
+formally written down anywhere.
+
+She reached out directly, confirmed the habit's origin, and spent an afternoon walking the trainee through
+the reasoning behind it — the first time an unwritten piece of the nexus's own founding-era construction
+knowledge had been passed forward directly, rather than simply surviving by accident in how later staff
+happened to work.
+
+### The Archive Search That Finally Found Halley's Missing Founding Crew
+
+Amundsen Station's own newly unified national archive, absorbing records from across the country, held
+documentation Halley's own Position Archive had never had access to — including, it turned out, a founding-
+era roster listing several early relocation engineers Halley's own local records had lost entirely.
+
+A Halley archivist, searching the national archive for an unrelated reason, found the names by accident and
+spent the following weeks cross-referencing them against what fragments of local memory remained — recovering,
+for the first time, a fuller account of exactly who had been present for Halley's own earliest, least-
+documented relocations. Nothing about current practice changed. A piece of the city's own history that had
+simply been considered lost turned out to have survived, elsewhere, all along.
+
+### The Passage Forecast Belgrano Built Around Halley's Own Readings
+
+Belgrano's own passage-status reporting to Halley, already established as routine, developed a genuine
+feedback loop once Belgrano's own dispatchers began factoring Halley's own ice-reading calls into their own
+forecasts rather than treating the relationship as one-directional.
+
+A specific joint prediction, per what's preserved of the exchange, combined Belgrano's own approach-condition
+data with a Halley ice-reader's own instinctive read on a developing pattern neither city's instruments alone
+had flagged — the first genuinely collaborative forecast either city's own resupply planning had ever
+produced, rather than one city simply reporting facts for the other to act on.
+
+### The Aviation Slot Troll Held Open on Halley's Word Alone
+
+Troll's own aviation dispatch, coordinating the final leg of Halley's overland resupply, extended a level of
+trust to Halley's own ice-reading tradition that Troll had never extended to any other city's local judgment
+call — holding a cargo slot open past its normal cutoff specifically because a Halley ice-reader, reached
+directly over the relay, said a delayed convoy was still worth waiting for.
+
+The convoy arrived within the held window. Troll's own dispatchers, per what's remembered of the incident,
+treated the decision afterward as unremarkable — Halley's own informal expertise, once a purely local
+resource, had by this point earned enough national reputation that a subnet-external dispatcher trusted it
+over his own default scheduling rules without needing to ask why.
+
+### The Question From a City Halley's Instruments Had Never Been Built to Answer
+
+A structural-engineering inquiry, arriving through the national relay from a city facing a katabatic-wind
+problem entirely unlike anything Halley's own ice-shelf monitoring was built to address, asked whether
+Halley's own decades of continuous structural-stress data might still be useful as a comparison case despite
+the completely different underlying hazard.
+
+Halley's own engineers, per what's preserved of the reply, found the question genuinely interesting precisely
+because it had nothing to do with ice — the data proved useful mainly as a demonstration of long-term
+monitoring discipline itself, not as a direct technical answer. It was the first time Halley's own
+instruments, built for one specific, narrow purpose, had been consulted for the discipline behind them rather
+than the ice-shelf answers they actually produced — proof the city's own quiet, decades-long habit of careful
+measurement had a value that traveled further than the problem it was built to solve.

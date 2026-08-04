@@ -52,7 +52,7 @@ three existing per-city folders but tracked as one combined regional total below
 
 | City | Done | Target | Status |
 |---|---|---|---|
-| Halley | 24 | 30 | In progress |
+| Halley | 30 | 30 | **Complete** |
 | Neumayer | 24 | 30 | In progress |
 | Belgrano | 24 | 30 | In progress |
 | Troll | 24 | 30 | In progress |
@@ -121,6 +121,19 @@ three existing per-city folders but tracked as one combined regional total below
 | Amundsen-Scott Station | 12 | 30 (20 min) | In progress |
 
 ---
+
+**2026-08-06 — Batch 5 framing, developer-directed: post-Tower connectivity again, now cross-referenced
+against `city-symbol-pairs.md`.** Every city's batch 5 gets exactly 6 new entries, all set in the later half
+of the Second Interwar Period after Amundsen Tower's completion (~2688), each a genuine historical occurrence
+that could only have happened once full national digital connectivity existed — the same core condition as
+batch 3, but required to be genuinely fresh, distinct occurrences, not restatements of what batch 3 already
+covered. Two additional inputs this round: (1) `City_National_Connections.md` again, mined for connections
+batch 3 didn't already use in depth; (2) each city's own Planet + Robot-Element symbol pair
+(`city-symbol-pairs.md`), used as a thematic seasoning — an occurrence that resonates with the city's own
+symbol without stating the symbolism outright in-fiction (Tepenians don't know about this framework; it's a
+developer/meta reference layer, not diegetic). Applies to all 35 outer cities + Tri-Cities + Byrd (its own 6th
+batch) — Amundsen Station excluded again, same reasoning as batch 3. Abowasa stays paused. This batch brings
+every standard-target city to its full 30/30 target.
 
 ## Grand Total
 
