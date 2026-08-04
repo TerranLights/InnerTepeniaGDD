@@ -11,7 +11,13 @@ Attributes.md` and `Specs/Fort_McMurdo.md` (Tier 2), and `Fort_McMurdo_Cross_Ref
 3). **Batch 2 of many — target 30, 12 done as of that batch. Batch 3, per direct developer instruction, is
 framed around `City_National_Connections.md`: six occurrences that could only have happened once full
 national digital connectivity existed, each grounded in a specific named city-to-city connection from that
-file (Scott, Troll, Casey, Amundsen Station, Lazar). 18 done as of batch 3.**
+file (Scott, Troll, Casey, Amundsen Station, Lazar). 18 done as of batch 3. Batch 4, per direct developer
+instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication structure, where
+direct digital contact existed only within the Janbogo subnet (Scott) and anything reaching Troll, Casey, or
+Lazar required trucking, postal service, or physically traveling there. Amundsen Station doesn't appear here
+— Fort McMurdo's own capital-city designation followed directly from the Tower's completion, so pre-Tower
+Fort McMurdo was simply another industrial city, not yet the nationally central one it would become. 24 done
+as of this batch.**
 
 ---
 
@@ -305,3 +311,77 @@ export of Fort McMurdo's own communication discipline into a field that had noth
 all. Fort McMurdo's own monitoring staff, per what's recalled of learning about the adoption, found it a
 genuinely unexpected compliment — proof that plain language, once modeled well, could travel considerably
 further than the specific hazard it had originally been built to explain.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Calibration Question Scott Answered Before the Shift Ended
+
+Scott's own precision-calibration work, flowing routinely into Fort McMurdo's heavy industry, ran on the
+Janbogo subnet's own instant line — a specification question raised on the factory floor could be answered
+by Scott's own technicians before the shift that raised it had even finished.
+
+A specific tolerance dispute, per what's preserved of the incident, was resolved within the hour once Fort
+McMurdo's own floor supervisor could simply ask Scott directly for a recalibration rather than wait on the
+kind of formal written request any subnet-external technical consultation would have required — production
+resumed the same day, a level of responsiveness Fort McMurdo's own industrial planners came to depend on
+without ever thinking of it as remarkable.
+
+### The Apprentice Scott Sent Without a Single Letter Exchanged
+
+An informal apprenticeship arrangement, sending a Scott-trained technician to spend a season working
+Fort McMurdo's own heavy-industry floor, was arranged entirely over the subnet's instant line — housing,
+scheduling, and placement details settled in a single conversation between the two cities' own labor offices.
+
+The arrangement, per what's preserved of the record, took less than a week from first proposal to the
+apprentice's own arrival — a pace of logistics coordination Fort McMurdo's own labor office never managed to
+replicate for a comparable arrangement involving any subnet-external city, where the same planning would have
+required months of written correspondence just to settle the basics.
+
+### The Comparison Troll Only Ever Heard Secondhand
+
+Fort McMurdo's own industrial-capital identity and Troll's own freight-hub identity were compared often
+enough by travelers who'd worked both cities that each developed a working, entirely secondhand impression of
+the other — no direct correspondence existed to confirm the resemblance held up in either city's own
+daily experience.
+
+A specific trucker who'd worked routes through both cities, per what's remembered of his own account,
+remained one of the very few people in the country actually positioned to describe the comparison firsthand —
+everyone else at Fort McMurdo relying entirely on his retelling, since nothing faster existed to simply ask
+Troll directly what working life there was actually like.
+
+### The Safety Bulletin Casey Answered a Season Late
+
+Casey's own wind-window certification discipline, later cited as a genuine parallel to Fort McMurdo's own
+Erebus monitoring bulletins, was first noticed only through a written inquiry — Fort McMurdo's own safety
+office, curious about Casey's own dispatch procedures, sending a letter across the full distance from the
+Janbogo subnet into the Mirny subnet.
+
+Casey's own reply, per what's preserved of the correspondence, took the better part of a season to arrive —
+detailed and genuinely useful once it came, though Fort McMurdo's own safety office had, by that point,
+already drafted a working procedure of its own rather than wait indefinitely for guidance from a city with no
+faster way to answer.
+
+### The Trade Proposal Lazar Left Unanswered Long Enough to Worry About
+
+A specific trade proposal sent from Fort McMurdo to Lazar, the country's two biggest civic hubs each curious
+what the other might offer, crossed from the Janbogo subnet into the Halley subnet at the pace of the mail
+carrying it — and went unanswered long enough that Fort McMurdo's own commercial office assumed rejection.
+
+The reply, once it finally arrived, turned out to be genuinely favorable — delayed by nothing more than
+distance, per what's preserved of the exchange, though Fort McMurdo's own planners had already moved on to a
+different arrangement by the time the original proposal's own answer showed up.
+
+### The City That Wasn't the Capital Yet
+
+Before the Tower's completion made Fort McMurdo's industrial dependency undeniable enough to justify the
+formal capital designation, the city functioned as simply another large industrial center — its own
+correspondence with the rest of the country moving at the same ordinary, unhurried pace any subnet-external
+city's mail did, with nothing yet marking it out as nationally central.
+
+A specific administrative inquiry from a distant city, per what's preserved of the period, addressed Fort
+McMurdo with the same generic formality any comparably-sized industrial city might have received — no
+particular deference, no special channel, simply one large city writing to another the slow way every
+subnet-external correspondence traveled before the Tower changed what Fort McMurdo's own address would
+eventually mean to the rest of the country.
