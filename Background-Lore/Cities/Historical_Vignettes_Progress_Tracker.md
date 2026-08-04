@@ -58,7 +58,7 @@ three existing per-city folders but tracked as one combined regional total below
 | Troll | 30 | 30 | **Complete** |
 | Abowasa | 6 | 30 | **Paused** — founding-nation bug |
 | Sanay | 30 | 30 | **Complete** |
-| Princess Elisabeth | 24 | 30 | In progress |
+| Princess Elisabeth | 30 | 30 | **Complete** |
 | Lazar | 24 | 30 | In progress |
 
 ### Palmer Subnet (target: 30 each except Palmer City at 50; 260 total)

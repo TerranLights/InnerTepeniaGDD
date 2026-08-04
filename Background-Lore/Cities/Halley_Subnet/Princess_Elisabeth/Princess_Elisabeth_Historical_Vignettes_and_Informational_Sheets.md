@@ -22,8 +22,11 @@ most Halley subnet cities, none of Princess Elisabeth's own established connecti
 Connections.md` sit inside its own subnet — every one (Sayowa, Dome Fuji, Shirayuki, Sinheung, Signy) is
 cross-subnet, requiring trucking, postal service, or physically traveling there. That asymmetry becomes the
 batch's own organizing fact: Princess Elisabeth had readier digital reach to its own subnet neighbors than it
-ever had reason to use, while its most meaningful relationships lay past a boundary no cable crossed. Target
-30, 24 done as of this batch.**
+ever had reason to use, while its most meaningful relationships lay past a boundary no cable crossed. Batch 5,
+per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
+distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Princess Elisabeth = Uranus/Anomaly +
+Electricity/self-generated power) as a thematic undertone. Target 30, 30 done as of this batch — Princess
+Elisabeth's own full target is now complete.**
 
 ---
 
@@ -447,3 +450,78 @@ two years, per what's preserved of the correspondence, eventually convinced both
 their independently-developed approaches solved the same underlying reliability problem from two different
 directions — a conclusion that, reached the slow way, still held once the two cities could finally compare
 notes in real time, generations later.
+
+---
+
+## Batch 5 — Fresh Occurrences, Now the Whole Country Was Listening
+
+### The Second Toast, Coordinated Without Needing a Genealogist
+
+Following the first synchronized Crossing observance shared with Sayowa, the two cities' own communities
+coordinated a second joint occasion entirely on their own initiative — no longer needing the original
+genealogical connection specifically invoked each time, simply treating the standing relationship as
+established enough to build new shared traditions on top of.
+
+The new occasion, per what's preserved of the account, blended an element of Princess Elisabeth's own
+zero-emissions civic pride with Sayowa's own hospitality — a detail neither city's own original founding-era
+tradition had included, invented specifically because the relationship itself had matured past its own
+original occasion for existing.
+
+### The Mural Shirayuki Sent as Thanks for a Recipe
+
+Following the reciprocal recipe exchange between the two Japanese-heritage communities, Shirayuki's own art
+community sent something unrequested in return — a small commissioned piece, designed specifically to depict
+Princess Elisabeth's own architecture, sent as a genuine gesture of thanks rather than as part of any formal
+exchange.
+
+Princess Elisabeth's own residents, per what's preserved of the account, had no comparable civic art tradition
+of their own to reciprocate with — the gesture stood on its own, the first time either city had exchanged
+something with no practical use at all, purely because the earlier culinary exchange had made the relationship
+feel worth deepening.
+
+### The Grid Question Sinheung Asked a Second Time, About Something Harder
+
+Following the earlier load-response engineering exchange, Sinheung's own engineers returned with a
+considerably harder question — how Princess Elisabeth's own zero-emissions grid handled a specific failure
+mode neither city had previously discussed, a genuine follow-up rather than a one-time consultation.
+
+Princess Elisabeth's own engineers, per what's preserved of the exchange, didn't have a complete answer ready
+— the question exposed a genuine gap in their own documented understanding of their own system, one they'd
+never had reason to formalize since the system itself had simply always worked. Sinheung's own question,
+unintentionally, prompted Princess Elisabeth to finally write the answer down properly for the first time.
+
+### The Reliability Standard Signy and Princess Elisabeth Finally Published Together
+
+Building on the multi-year comparative correspondence already exchanged with Signy, the two cities' own
+engineers used the newly instant connection to finish what the old letters had left incomplete — a single,
+jointly authored technical reference describing the shared reliability principle both systems had
+independently discovered.
+
+The document, per what's preserved of its own creation, took a matter of weeks to finalize once both sides
+could revise a shared draft directly rather than mailing successive versions back and forth — closing a
+project the original correspondence had spent nearly two years circling without ever quite reaching a single
+agreed text.
+
+### The Pilgrimage Route Dome Fuji Finally Confirmed Existed
+
+Following the earlier inquiry about the uncertain highway link toward Dome Fuji, a direct answer finally
+arrived — Dome Fuji's own station staff confirming the route's actual condition and rough travel time for the
+first time, rather than leaving the connection as the geographic guesswork it had always been.
+
+The confirmation didn't produce an actual pilgrimage — the underlying religious tradition Dome Fuji would
+eventually become known for still lay generations in the future. What it did produce was simpler: the first
+time Princess Elisabeth's own residents had genuine, confirmed information about the nearest Mawson subnet
+city, rather than an assumption based on longitude and a highway map.
+
+### The Grid Design Genuinely Unlike Anything Else in the Country
+
+Once national engineering correspondence made real comparison possible, it became clear for the first time
+just how unusual Princess Elisabeth's own zero-emissions power system actually was relative to the rest of
+Tepenia — most cities drew on some combination of geothermal, hydro, or eventually Tower-regulated grid power,
+while Princess Elisabeth's own system remained, genuinely, its own category.
+
+Engineers from several cities, per what's preserved of the period's own correspondence, visited or wrote
+specifically to understand a system that didn't resemble their own in any straightforward way — not because
+Princess Elisabeth's own approach was better, necessarily, but because it was different enough that no
+existing framework quite explained it. The station's own quiet self-sufficiency had, without anyone deciding
+it should, become the one genuinely singular engineering identity in the country.
