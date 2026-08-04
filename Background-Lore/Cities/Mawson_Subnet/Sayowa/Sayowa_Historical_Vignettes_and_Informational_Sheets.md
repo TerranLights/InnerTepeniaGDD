@@ -14,7 +14,13 @@ Infrastructure_Attributes.md` and `Specs/Sayowa.md` (Tier 2), and `Sayowa_Cross_
 instruction, is framed around `City_National_Connections.md`: six occurrences that could only have happened
 once full national digital connectivity existed, each grounded in a specific named city-to-city connection
 from that file (Mawson, Dome Fuji, Shirayuki, Princess Elisabeth, Halley subnet generally) distinct from
-batch 2's own entries — completes the Mawson subnet's batch 3 pass. 18 done as of batch 3.**
+batch 2's own entries — completes the Mawson subnet's batch 3 pass. 18 done as of batch 3. Batch 4, per
+direct developer instruction, inverts the lens: six occurrences resting on the actual pre-Tower communication
+structure, where direct digital contact existed only within the Mawson subnet (Mawson, Dome Fuji) and
+anything reaching Princess Elisabeth, Shirayuki, or the wider Halley subnet required trucking, postal
+service, or physically traveling there — despite the Sayowa Junction's own physical position at the
+convergence of routes reaching outward in every direction. 24 done as of this batch — completes the Mawson
+subnet's batch 4 pass.**
 
 ---
 
@@ -303,3 +309,75 @@ they would for any other city's own inquiry — the same practical, unshowy comp
 applied to its own coordination role. The specific shipment isn't preserved in detail. What mattered, for the
 first time, was that a genuinely small Halley subnet city could reach the Junction directly with a request
 running in an unusual direction, and receive the same competent handling any larger city's own request would.
+
+---
+
+## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
+
+### The Junction That Coordinated Everything Nearby and Nothing Far
+
+Sayowa's own founding-era hub-coordination priority with Mawson and Dome Fuji gave the Junction instant reach
+across the entire Mawson subnet decades before the Tower — a level of coordination speed that made the
+physical convergence of highway routes reaching outward in every direction feel almost ironic, since none of
+those roads carried anything faster than a truck.
+
+A specific scheduling conflict, per what's preserved of the era's own routine, involving overlapping supply
+runs Mawson and Dome Fuji had each separately planned through the Junction, was resolved within a single
+conversation over the subnet's instant line — the same routine problem-solving speed that made the Junction's
+own physical convergence of far-reaching roads feel, by comparison, almost decorative.
+
+### The Overland Corridor That Started Long Before Any Digital Line Did
+
+Sayowa's role as Dome Fuji's own overland supply-chain gateway predates the subnet's own instant digital
+coordination by generations — the physical route existed first, trucks and convoys carrying goods toward the
+isolated station long before any comms line made real-time scheduling of those same convoys possible.
+
+A specific founding-era supply run, per what's preserved of the record, had no way to confirm its own arrival
+at Dome Fuji until the convoy itself returned — weeks of complete uncertainty that, once the subnet's own
+instant line eventually existed, shrank to same-day confirmation for every subsequent run. The road came
+first. The certainty came later.
+
+### The Family Letters That Took Longer to Arrive Than the Marriages They Described
+
+The generations-deep Japanese-heritage family correspondence connecting Sayowa to Princess Elisabeth, long
+before either city's genealogical connection was formally confirmed, moved entirely by mail — no digital line
+crossed the distance between the Mawson and Halley subnets for the family's first several generations of
+contact.
+
+A specific courtship, per what's preserved of the family's own account, unfolded across years rather than
+months precisely because each letter took the better part of a season to travel the route between the two
+subnets — an entire relationship conducted at a pace neither party would have chosen if a faster option had
+existed.
+
+### The Institutional Comparison Shirayuki Drafted Over Two Winters
+
+Sayowa's own JARE heritage and Shirayuki's own Bharati-Station-descended founding, Tepenia's two clearest
+living Japanese-institutional civic identities, prompted a comparative study conducted entirely by
+correspondence, crossing from the Mawson subnet into the Mirny subnet at whatever pace the mail allowed.
+
+The study, per what's preserved of the exchange, spanned close to two full winters before either city's own
+historians felt they'd gathered enough comparable institutional detail — a pace that would have been a single
+season's work had either city sat within the Mawson subnet instead.
+
+### The Halley Subnet Inquiry That Took a Season to Reach Every City It Was Meant For
+
+The Junction's own indirect logistics relevance to every Halley subnet city, not only Princess Elisabeth,
+meant a genuine national-relevance inquiry — asking each Halley subnet city whether Sayowa's own routing
+served their needs — had to be sent by mail to each city individually, since nothing digital reached that
+far.
+
+The full round of replies, per what's preserved of the survey's own record, took the better part of a season
+to collect from all seven cities — a process that, conducted with Mawson or Dome Fuji instead, would have
+been a single coordinated conversation completed the same afternoon.
+
+### The Manifest Mawson and Dome Fuji Confirmed Before Princess Elisabeth's Letter Even Left
+
+A joint shipment, requiring coordination between Mawson's own logistics office and Dome Fuji's own receiving
+staff, was finalized within a single real-time session over the subnet's instant line — well before an
+unrelated letter to Princess Elisabeth, addressing an entirely different family matter, had even left
+Sayowa's own mailing office that same morning.
+
+The joint shipment reached both intra-subnet destinations within days. The letter to Princess Elisabeth took
+most of a season to receive any reply to at all — two pieces of correspondence, sent from the same office on
+the same morning, arriving at their destinations at completely different speeds depending on nothing more
+than which side of the subnet boundary each was addressed to. **Completes the Mawson subnet's batch 4 pass.**

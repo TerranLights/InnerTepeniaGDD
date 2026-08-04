@@ -106,7 +106,7 @@ three existing per-city folders but tracked as one combined regional total below
 |---|---|---|---|
 | Mawson | 24 | 30 | In progress |
 | Dome Fuji | 24 | 30 | In progress |
-| Sayowa | 18 | 30 | In progress |
+| Sayowa | 24 | 30 | In progress |
 
 ### Byrd Subnet (target: 50, 1 city)
 
@@ -125,8 +125,14 @@ three existing per-city folders but tracked as one combined regional total below
 ## Grand Total
 
 **Target: ~1,105 entries** across all 35 outer cities + Amundsen-Scott Station (240 + 260 + 225 + 210 + 90 +
-50 + 30). **Current: 792** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
-Mawson subnet 54 + Byrd 24 + Amundsen-Scott Station 12).
+50 + 30). **Current: 810** (Halley subnet 174 + Palmer subnet 192 + Mirny subnet 192 + Janbogo subnet 168 +
+Mawson subnet 72 + Byrd 24 + Amundsen-Scott Station 12).
+
+**2026-08-03 — Mawson subnet batch 4 complete.** Mawson, Dome Fuji, and Sayowa all completed batch 4
+(subnet-bounded digital vs. cross-subnet traditional means) — all now 24/30. Dome Fuji's own entries carried
+an added wrinkle: even its intra-subnet reach to Mawson and Sayowa ran thinner than anywhere else in the
+country, per its established extreme-altitude Arcanet limitation, with Sayowa functioning as much as a
+physical relay point as a digital one.
 
 **2026-08-03 — Janbogo subnet batch 4 complete.** Janbogo, Fort McMurdo, Dumont d'Urville, Cape Adare,
 Zukelli, Scott, and Denison all completed batch 4 (subnet-bounded digital vs. cross-subnet traditional means)
