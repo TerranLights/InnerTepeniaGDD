@@ -20,7 +20,10 @@ pre-Tower communication structure, where direct digital contact existed only wit
 physically traveling there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to
 post-Tower full connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Zukelli = Earth/a-place-with-real-soul + Wood/hospitality-and-generosity) as a
-thematic undertone. 30 done as of this batch — Zukelli's own full target is now complete.**
+thematic undertone. 30 done as of this batch — Zukelli's own full target complete. Batch 6, per direct
+developer instruction, returns to Batch 4's own pre-Tower framing with genuinely fresh occurrences, distinct
+from both Batch 4 and each other, now also cross-referenced against Zukelli's own symbol pair. 36 done as of
+this batch.**
 
 ---
 
@@ -448,3 +451,71 @@ exchange the original description had been.
 Zukelli's own residents, per what's preserved of the extended exchange, found themselves articulating
 something about the tradition they'd never had to put into words this precisely before — the first time
 describing the Crossing to a true outsider had become not a single conversation, but an ongoing one.
+
+---
+
+## Batch 6 — Hospitality, Measured by How Fast It Could Travel
+
+### The Guest Room Janbogo Filled the Same Afternoon It Was Offered
+
+A spontaneous offer of hospitality — a spare guest room, mentioned almost in passing over the subnet's own
+line to Janbogo — was filled the same afternoon by a traveler who happened to be passing through, the kind of
+immediate, informal generosity Zukelli's own culture prized, made possible only because the offer and its
+acceptance could happen in the same conversation.
+
+A comparable offer extended to a subnet-external contact in Esperanza had to be scheduled weeks in advance by
+letter — genuinely warm, but necessarily planned rather than spontaneous, the immediacy at the heart of
+Zukelli's own hospitality culture simply unavailable across that distance.
+
+### The Recipe Cape Adare Perfected While Zukelli Watched
+
+A dish shared with Cape Adare over the subnet's own line was refined collaboratively in real time — Zukelli's
+own cooks adjusting the recipe based on Cape Adare's own immediate feedback, both kitchens effectively working
+from the same evolving version at once.
+
+Esperanza, requesting the same recipe by mail, received a single finished version with no opportunity to
+participate in its own ongoing refinement — a fine dish, but a different kind of exchange entirely from what
+Cape Adare had gotten to share in.
+
+### The Musician Dumont d'Urville Booked Before the Set List Existed
+
+A touring musician's arrival in Zukelli prompted an immediate, informal booking arrangement with Dumont
+d'Urville over the subnet's own line — the second city's own venue secured before the musician's own set list
+for the first performance had even been finalized.
+
+A related booking opportunity involving Esperanza had no such speed available — by the time a letter proposing
+the idea could be sent and answered, the traveling musician's own schedule had already moved on to somewhere
+else entirely.
+
+### The Redistribution Question Esperanza Answered a Season After Janbogo Did
+
+A demographic redistribution question, sent to both Janbogo and Esperanza the same week, produced two very
+different timelines: Janbogo's own answer arrived over the subnet's line before the day was out, while
+Esperanza's — equally thorough once it arrived — took the better part of a season to make the same journey by
+mail.
+
+Zukelli's own record-keepers, compiling both answers into a single comparative document, noted the asymmetry
+directly rather than let it pass unremarked — the same question, the same seriousness of response, simply
+arriving on two entirely different clocks.
+
+### The Crossing Description Cape Adare Helped Zukelli Refine in Real Time
+
+An outside-facing description of the Crossing tradition, drafted for a subnet-external audience, was reviewed
+and improved by Cape Adare over the subnet's own line — Cape Adare's own outside perspective, close enough to
+be useful but distant enough to catch what Zukelli's own residents took for granted, sharpening the
+description considerably before it ever left the subnet.
+
+The finished description, once sent onward to Esperanza, arrived as a single polished document with no
+visibility into the collaborative process that had actually produced it — Esperanza receiving Zukelli's best
+explanation of itself, without ever seeing how that explanation had been built.
+
+### The Soul of a City That Traveled Fastest Among Neighbors
+
+Zukelli's own real, genuine soul — hospitality-centered, generous, alive — was fully present in every
+correspondence it conducted, but it moved at two very different speeds: immediate and conversational with
+Janbogo, Cape Adare, and Dumont d'Urville, and considerably more measured, letter by careful letter, with
+Esperanza.
+
+Zukelli's own civic character, per a surviving reflection from the period, never depended on an audience being
+close by to be genuine — but genuine warmth, like anything else, still had to travel by whatever line
+actually connected the two cities involved.
