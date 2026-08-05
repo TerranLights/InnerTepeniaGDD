@@ -287,9 +287,9 @@ Three factors combined:
 
 *Key note: Russia holds a uniquely justified secondary position at Lazar — Novolazarevskaya co-location and Novo airfield operator role. Russia's T2 position is supported by both operator heritage and 25M Gini-adjusted effective.*
 
-#### Per-Nation Population Breakdown *(added 2026-07-03, post-redistribution)*
+#### Per-Nation Population Breakdown *(added 2026-07-03)*
 
-Lazar's actual city population, distributed proportionally across the Gini-adjusted effective weights above (total weight = 375.7M). Applied directly to Lazar's post-redistribution Census I (2,646,068 combined) and Census II (1,803,977 combined) totals — see `Official_Population_Census.md` and [[project_lazar_population_rebalancing]] for how those totals were derived. **Flagged 2026-07-05:** this table's Census I total (2,646,068) is stale — Lazar's actual current Census I combined population is **2,620,319** (see `Specs/Lazar.md`), a 25,749 gap that had propagated from this table into `Specs/Lazar.md`'s own prose and `Local_Cultures/Halley_Subnet/Lazar.md` (both now corrected). Rescaling all 24 rows below to sum exactly to 2,620,319 wasn't done here, consistent with this file's other known, already-deferred stale draft tables — treat the per-nation rows below as approximate, not authoritative, until reconciled.
+Lazar's actual city population, distributed proportionally across the Gini-adjusted effective weights above (total weight = 375.7M). Applied directly to Lazar's current Census I (2,646,068 combined) and Census II (1,803,977 combined) totals — see `Official_Population_Census.md`. **Flagged 2026-07-05:** this table's Census I total (2,646,068) is stale — Lazar's actual current Census I combined population is **2,620,319** (see `Specs/Lazar.md`), a 25,749 gap that had propagated from this table into `Specs/Lazar.md`'s own prose and `Local_Cultures/Halley_Subnet/Lazar.md` (both now corrected). Rescaling all 24 rows below to sum exactly to 2,620,319 wasn't done here, consistent with this file's other known, already-deferred stale draft tables — treat the per-nation rows below as approximate, not authoritative, until reconciled.
 
 | Tier | Nation | Weight | Census I | Census II |
 |------|--------|--------|----------|-----------|
@@ -344,7 +344,7 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 
 ### Framheim and Little America — REMOVED FROM CANON (2026-07-03)
 
-*Both cities were permanently removed from Tepenian canon. Real-world verification found their shared site (the Bay of Whales, Ross Ice Shelf) was entirely eliminated by the 1987 Iceberg B-9 calving event, and neither city had surviving pre-exile infrastructure to begin with (both were full reconstructions from Byrd's underground archives) — leaving no physical basis for either. Their former composition (Primary USA/Japan; Significant South Korea/Canada/Indonesia/Australia; Notable New Zealand/Chile) and combined Census I population (855,540 humans / 891,723 robots / 1,747,263 combined) were redistributed across Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — see `Official_Population_Census.md`'s removal note for full detail. This file's population-mirror tables below (Ross Ice Shelf / Byrd subnet rows) predate that redistribution and no longer reflect current figures — treat `Official_Population_Census.md` as authoritative for all current population data.*
+*Both cities were permanently removed from Tepenian canon. Real-world verification found their shared site (the Bay of Whales, Ross Ice Shelf) was entirely eliminated by the 1987 Iceberg B-9 calving event, and neither city had surviving pre-exile infrastructure to begin with (both were full reconstructions from Byrd's underground archives) — leaving no physical basis for either. This file's population-mirror tables below (Ross Ice Shelf / Byrd subnet rows) predate their removal and no longer reflect current figures — treat `Official_Population_Census.md` as authoritative for all current population data.*
 
 ---
 
@@ -434,7 +434,7 @@ Same geographic position as Janbogo.
 
 *Founding note: Australia's founding wave character at Denison reflects Douglas Mawson's 1912 Commonwealth Bay expedition — the first Antarctic presence at this specific site. Australia and New Zealand arrive first; China and USA dominate long-run composition. The absence of France distinguishes Denison from the otherwise geographically similar Dumont d'Urville.*
 
-*Population note: Denison's Canon Census I figures were derived through a redistribution analysis (all other chartered cities contributing proportional shares to fund the new coastal city), not the standard island-overflow tier calculation. Canon Census I: 526,521 humans / 546,852 robots / 1,073,373 combined. Census II retention rates are pending.*
+*Population note: Denison's Canon Census I figures were derived by a different method than the standard island-overflow tier calculation. Canon Census I: 526,521 humans / 546,852 robots / 1,073,373 combined. Census II retention rates are pending.*
 
 ---
 
@@ -722,9 +722,9 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 
 ## Island Population Balancing — Revised Physical Census
 
-The Gini-adjusted tier calculation distributes exiles mathematically without regard for the physical carrying capacity of the locations. Eleven cities are on islands — from the vast ice sheet of King George Island to the real-world 40m × 20m footprint of Goudier Island. The revised census below caps each island city at a semi-comfortable population for its actual land area (generous for sci-fi vertical construction, still constrained by ocean boundaries and harsh climate logistics), and redistributes the overflow to the nearest eligible mainland/ice-shelf coastal cities within ±3 solar time zones.
+The Gini-adjusted tier calculation distributes exiles mathematically without regard for the physical carrying capacity of the locations. Eleven cities are on islands — from the vast ice sheet of King George Island to the real-world 40m × 20m footprint of Goudier Island. The revised census below caps each island city at a semi-comfortable population for its actual land area (generous for sci-fi vertical construction, still constrained by ocean boundaries and harsh climate logistics), and routes the overflow to the nearest eligible mainland/ice-shelf coastal cities within ±3 solar time zones.
 
-**Redistribution methodology:**
+**Overflow-allocation methodology:**
 - Overflow from each island city flows only to mainland coastal or ice-shelf cities (not to other islands, not to interior cities like Troll, Abowasa, Sanay, or the South Pole)
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
 - Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%), **Framheim** (7.5%), **Little America** (7.5%)
@@ -787,7 +787,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 31 | Sayowa *(capped)* | Mawson | 906K | **200K** | **400K** | East Ongul Island |
 | 32 | Signy *(capped)* | Palmer | 466K | **150K** | **300K** | South Orkney Islands |
 | 33 | Port Lockroy *(capped)* | Palmer | 457K | **100K** | **200K** | Goudier Island |
-| — | **TOTAL** | — | **24,948K** | **24,948K** | **49,896K** | Total preserved; only redistribution |
+| — | **TOTAL** | — | **24,948K** | **24,948K** | **49,896K** | Total preserved; only reallocation |
 
 ### Subnet totals (island-balanced)
 
@@ -817,9 +817,9 @@ Ranked by final human population. Cities in **bold** gained population from over
 
 ## Canon Census I — Before Space Colonization (Pre-Orbital Era)
 
-**Out of date as of 2026-07-03 — do not treat the tables below as current.** They predate the Lazar redistribution, the Palmer City expansion, the Palmer City over-cap correction, and the Framheim/Little America removal and redistribution (all 2026-07-03). Framheim and Little America in particular no longer exist in canon at all. `Official_Population_Census.md` is the authoritative, current source for every city's population — cross-check there before using any figure from this section.
+**Out of date as of 2026-07-03 — do not treat the tables below as current.** Framheim and Little America no longer exist in canon at all. `Official_Population_Census.md` is the authoritative, current source for every city's population — cross-check there before using any figure from this section.
 
-**Rate change:** All prior census figures used a 3% exile fraction. Revised to **2%** (a slightly more conservative read on what fraction of the robot-eligible population actually relocated). The island-balanced final figures above are multiplied by **×0.65** (= 2/3, rounded) to produce all canon population numbers. No redistribution logic changes; only the scale shifts.
+**Rate change:** All prior census figures used a 3% exile fraction. Revised to **2%** (a slightly more conservative read on what fraction of the robot-eligible population actually relocated). The island-balanced final figures above are multiplied by **×0.65** (= 2/3, rounded) to produce all canon population numbers. No overflow-allocation logic changes; only the scale shifts.
 
 **Canon totals:**
 
@@ -868,7 +868,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 
 ### Canon city populations (island-balanced, 2% rate)
 
-*(Table revised 2026-07-03 to mirror the Census I redistribution in `Official_Population_Census.md` — Janbogo reduced to 60%, Zukelli reduced twice to 72% of original, Esperanza reduced to 85%, all transferred to Lazar. Rank order updated accordingly.)*
+*(Table revised 2026-07-03 to mirror `Official_Population_Census.md`. Rank order updated accordingly.)*
 
 | Rank | City | Subnet | **Humans** | **Total** | Status |
 |------|------|--------|-----------|-----------|--------|
@@ -906,11 +906,11 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 32 | Signy | Palmer | 93,951 | **190,349** | *(island cap)* |
 | 33 | Port Lockroy | Palmer | 63,856 | **129,942** | *(island cap)* |
 | 34 | **Amundsen Station** | Amundsen | 1,126 | **6,889** | *~84% robot; see note* |
-| — | **TOTAL** | — | **15,711,071** | **32,026,600** | *(increased 2026-07-03, Palmer City expansion — net addition, not redistribution)* |
+| — | **TOTAL** | — | **15,711,071** | **32,026,600** | *(increased 2026-07-03)* |
 
 ### Canon subnet totals
 
-*(Halley, Janbogo, Palmer revised 2026-07-03 for the Lazar redistribution; Palmer further revised the same day for the Palmer City population expansion — same deltas as `Official_Population_Census.md`.)*
+*(Halley, Janbogo, Palmer revised 2026-07-03 — same deltas as `Official_Population_Census.md`.)*
 
 | Subnet | Humans | Combined |
 |--------|--------|----------|
@@ -923,7 +923,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 | Amundsen / South Pole | 1,126 | 6,889 |
 | **TOTAL** | **15,711,071** | **32,026,600** |
 
-*Amundsen Station: pre-war human population reduced to 0.2% of computed figure; robot population reduced to 1%. The South Pole was always an extreme-environment research-and-automation outpost, not a residential city — a skeleton crew of humans embedded in a robot-majority operational facility. No overflow redistributed.*
+*Amundsen Station: pre-war human population reduced to 0.2% of computed figure; robot population reduced to 1%. The South Pole was always an extreme-environment research-and-automation outpost, not a residential city — a skeleton crew of humans embedded in a robot-majority operational facility. No overflow routed here.*
 
 *All other cities: human populations received an independent random reduction of 1–5% (modeling variation in actual arrival and survival rates vs. the theoretical composite). Robot populations were not adjusted.*
 
@@ -1047,9 +1047,9 @@ Eleven cities were identified as sitting on actual islands with binding physical
 - **Marambio** (Seymour Island, ~133 km²): capped at 585,000 combined
 - **Sejong** (King George Island, ~1,300 km²): capped at 650,000 combined
 
-The overflow from these caps — roughly 5.24 million humans at the 3% rate — was redistributed to mainland coastal and ice-shelf cities within ±3 time zones. Interior cities (Troll, Abowasa, Sanay, Princess Elisabeth, Amundsen) were excluded as redistribution targets because inland infrastructure cannot absorb mass population without independent logistical support that isn't assumed in this model. Other islands also cannot receive overflow.
+The overflow from these caps — roughly 5.24 million humans at the 3% rate — was routed to mainland coastal and ice-shelf cities within ±3 time zones. Interior cities (Troll, Abowasa, Sanay, Princess Elisabeth, Amundsen) were excluded as overflow-routing targets because inland infrastructure cannot absorb mass population without independent logistical support that isn't assumed in this model. Other islands also cannot receive overflow.
 
-The practical effect of this redistribution was dramatic. **Esperanza** — the only city on the actual Antarctic mainland Peninsula coast — absorbed 50% of all Peninsula island overflow and grew from a modest ~363,000 to over a million humans, becoming the dominant Peninsula city. **Janbogo**, on the Terra Nova Bay mainland coast, absorbed the combined overflow from the Ross Sea islands and from Dumont d'Urville, growing to become the single largest city in all of Tepenia.
+The practical effect of this overflow routing was dramatic. **Esperanza** — the only city on the actual Antarctic mainland Peninsula coast — absorbed 50% of all Peninsula island overflow and grew from a modest ~363,000 to over a million humans, becoming the dominant Peninsula city. **Janbogo**, on the Terra Nova Bay mainland coast, absorbed the combined overflow from the Ross Sea islands and from Dumont d'Urville, growing to become the single largest city in all of Tepenia.
 
 ---
 
@@ -1111,7 +1111,7 @@ The first orbital structure was a robot-exclusive station — a staging platform
 
 By the time the Long Night War began, a significant fraction of the Tepenian population was living or working in low-earth orbit — which is why the war's early mass-evacuation via Amundsen Tower was logistically viable. There was somewhere to go because they had already spent generations building it.
 
-This census captures the **snapshot immediately before the Long Night War**, after decades of orbital migration had already redistributed a meaningful portion of the population off-surface.
+This census captures the **snapshot immediately before the Long Night War**, after decades of orbital migration had already moved a meaningful portion of the population off-surface.
 
 **Methodology:** Each city's "After" population was calculated by applying two independent randomly-generated retention rates (one for humans, one for robots) between 55% and 85% of the city's "Before" population. The gap — everyone who left — is the orbital migration pool. Population is conserved: Before total = After Antarctic total + Orbital total.
 
@@ -1119,7 +1119,7 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 
 ### After census: city populations (Orbital Era, pre-Long Night War)
 
-*(Table revised 2026-07-03 to mirror the Census II redistribution in `Official_Population_Census.md` — same method and deltas as the Census I table above.)*
+*(Table revised 2026-07-03 to mirror `Official_Population_Census.md` — same method and deltas as the Census I table above.)*
 
 | Rank | City | Subnet | **Humans** | **Total** | Status |
 |------|------|--------|-----------|-----------|--------|
@@ -1160,7 +1160,7 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 
 ### After census: subnet totals (Antarctic surface only)
 
-*(Halley, Janbogo, Palmer revised 2026-07-03 for the Lazar redistribution; Palmer further revised the same day for the Palmer City population expansion — same deltas applied as elsewhere.)*
+*(Halley, Janbogo, Palmer revised 2026-07-03 — same deltas applied as elsewhere.)*
 
 | Subnet | Humans | Combined |
 |--------|--------|----------|

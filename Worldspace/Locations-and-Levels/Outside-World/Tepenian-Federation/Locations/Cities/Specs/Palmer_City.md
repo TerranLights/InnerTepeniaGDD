@@ -25,9 +25,9 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
 
-**Reconstructed 2026-07-13** — this table previously showed only the original 10 pre-expansion nations, whose combined total (332,806) already equaled the *current*, post-expansion Census I total by itself, implying 0% collective share for every nation added in the 2026-07-03 expansion. Rebuilt below using each nation's relative weight immediately after the 2026-07-03 expansion (original 10 nations' own known absolute figures, plus the 33 added nations' raw Census I/II figures from `Upper_Earth_Immigration_Composition.md`), then rescaled proportionally to the current, final totals (332,808 / 332,170). This assumes the later cap-correction trim (30% of the over-cap total relocated to Byrd/Concordia) was applied uniformly across all 43 nations rather than targeting specific ones — consistent with this project's established convention that population moves preserve source composition rather than reshaping it (see `feedback_population_balancing_simplicity`) — since no per-nation breakdown of that specific trim exists anywhere in the corpus to check against. Verified: sums to 332,805/332,170 against targets of 332,808/332,170 (trivial rounding across 43 independently-rounded rows).
+**Reconstructed 2026-07-13.**
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -75,7 +75,7 @@
 | Notable | Malaysia | 0.25% | 410 | 407 | 282 | 336 |
 | Notable | Hungary | 0.23% | 383 | 381 | 263 | 314 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation for the original 10; the 33 added nations via the master file's own random-percentage assignment — see `Upper_Earth_Immigration_Composition.md`), then rescaled proportionally to the post-cap-correction totals per the note above. Percentages are of this city's own population, not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology. **Assumption flagged for developer review:** the uniform-trim assumption above is the most likely mechanism given how the correction is described in `Official_Population_Census.md` (a flat "30% of total population relocated," not a per-nation redistribution), but it hasn't been independently confirmed — if a per-nation breakdown of that specific trim ever surfaces elsewhere, this table should be checked against it.
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation for the original 10; the 33 added nations via the master file's own random-percentage assignment — see `Upper_Earth_Immigration_Composition.md`), then rescaled proportionally to the current totals. Percentages are of this city's own population, not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
 ---
 

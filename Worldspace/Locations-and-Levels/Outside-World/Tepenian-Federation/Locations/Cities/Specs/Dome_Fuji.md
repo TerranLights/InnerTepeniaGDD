@@ -25,7 +25,7 @@
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied the developer's randomized redistribution method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method. No human population exists to break down, but the robot population is still nationally diverse per the tier table above, so this breakdown covers robots only, applied to the Census I total of 55,072. Census II not yet computed for this city.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method. No human population exists to break down, but the robot population is still nationally diverse per the tier table above, so this breakdown covers robots only, applied to the Census I total of 55,072. Census II not yet computed for this city.)*
 
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|

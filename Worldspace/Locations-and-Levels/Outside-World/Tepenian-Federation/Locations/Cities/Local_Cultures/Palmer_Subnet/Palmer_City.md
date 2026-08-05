@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American") — subnet hub
 **Status (at the time this culture is described):** Active, populated, functioning — destroyed later, in the Long Night War, among the first and most thoroughly targeted cities in Tepenia
-**Census Population:** 165,912 humans / 166,896 robots / 332,808 combined (Census I, rank 30th of ~35 — *revised 2026-07-03, again 2026-07-05*: 30% of Palmer City's total population was relocated to Byrd/Concordia to correct an over-cap violation from its own earlier nation-expansion project; see `Official_Population_Census.md`); 180,688 humans / 151,482 robots / 332,170 combined (Census II, rank 24th, *corrected 2026-07-17 — was "23rd," stale against the current `Official_Population_Census.md` Census II ranking table*)
+**Census Population:** 165,912 humans / 166,896 robots / 332,808 combined (Census I, rank 30th of ~35); 180,688 humans / 151,482 robots / 332,170 combined (Census II, rank 24th)
 **Location:** Anvers Island, Antarctic Peninsula (~64°46'S, 64°03'W)
 
 **One-liner:** *Tepenia's first city, its cultural capital, and — until this session — its most narrowly-founded, now deliberately rebuilt as the single most demographically blended place in the Federation: every nation that could have come, came.*
@@ -152,7 +152,7 @@ Performative and spectacle-driven, drawing from the full breadth of representent
 
 ## 16. Human-Robot Relations
 
-Robots slightly outnumber humans (166,896 to 165,912 Census I, corrected 2026-07-05 — this line had cited a pre-cap-correction figure from before the 2026-07-03 over-cap trim) — a close, nearly even split fitting for the city literally founded on the premise of robot-human partnership and mutual choice. Human-robot relations here trace directly back to the founding population's own defining characteristic: people who were here specifically *because* of their relationships with robots, whether romantic or ideological.
+Robots slightly outnumber humans (166,896 to 165,912 Census I) — a close, nearly even split fitting for the city literally founded on the premise of robot-human partnership and mutual choice. Human-robot relations here trace directly back to the founding population's own defining characteristic: people who were here specifically *because* of their relationships with robots, whether romantic or ideological.
 
 ---
 
