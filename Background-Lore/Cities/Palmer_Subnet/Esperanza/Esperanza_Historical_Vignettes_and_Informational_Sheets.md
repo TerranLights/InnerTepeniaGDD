@@ -279,19 +279,19 @@ described in any real detail. Nothing came of the exchange beyond the conversati
 per what's recalled of it, a small piece of shared Argentine civic knowledge that had simply never had a
 reason to cross the distance between the two cities before that specific call.
 
-### The Administrators Who Compared Notes on the Same Redistribution
+### The Administrators Who Compared Notes on the Same Emigration
 
-Esperanza's own population reduction and Janbogo's own, both part of the same administrative redistribution
-that enlarged Lazar, had always been experienced by each city separately — neither administration had ever
-actually discussed the shared event with the other, since no channel existed for two cities affected by the
-same decision to simply compare how each had absorbed it.
+Esperanza's own population thinning and Janbogo's own, both part of the same sustained emigration to Lazar,
+had always been experienced by each city separately — neither administration had ever actually discussed the
+shared pattern with the other, since no channel existed for two cities experiencing the same demographic
+shift to simply compare how each had adapted to it.
 
 The first direct exchange between civic administrators at Esperanza and Janbogo, held once contact became
 possible, confirmed something neither city had previously had any way to know: both cities had adjusted to
-the reduction using almost identical civic strategies, independently arrived at, without either administration
-ever knowing the other was managing the same problem the same way at the same time. The comparison didn't
+the thinning using almost identical civic strategies, independently arrived at, without either administration
+ever knowing the other was managing the same trend the same way at the same time. The comparison didn't
 change how either city currently operated. It gave both administrations, for the first time, confirmation that
-their own independent responses to a shared administrative decision had converged without coordination.
+their own independent responses to a shared demographic pattern had converged without coordination.
 
 ### The Recipe That Finally Reached the City It Was Named For
 
@@ -349,18 +349,18 @@ apparently decided a slow correspondence was worth making thorough rather than b
 kitchens still use the recipe. Nobody currently working them remembers it arrived by a letter that took months
 to write, travel, and finally answer a question about where a dish had come from.
 
-### The Redistribution Question Janbogo Answered From Memory, Not Records
+### The Emigration Question Janbogo Answered From Memory, Not Records
 
-Esperanza's own reduced population, part of the same administrative redistribution that enlarged Lazar
-alongside Janbogo and Zukelli, prompted a specific historical inquiry to Janbogo about how the event had
-actually been experienced on the receiving end — a question that could only be asked by letter, since nothing
-digital crossed from the Palmer subnet into the Janbogo subnet.
+Esperanza's own thinning population, part of the same sustained emigration that enlarged Lazar alongside
+Janbogo and Zukelli, prompted a specific historical inquiry to Janbogo about how the pattern had actually been
+experienced on the receiving end — a question that could only be asked by letter, since nothing digital
+crossed from the Palmer subnet into the Janbogo subnet.
 
 Janbogo's own reply, per what's preserved of the correspondence, arrived months later and relied more on an
-elderly resident's personal recollection than on any formal municipal record — the same redistribution event
-Esperanza's own archivists had hoped to document precisely turning out, on the other end of a long postal
-route, to be remembered rather than filed. The correspondence closed the historical question well enough.
-It simply took most of a year to do it.
+elderly resident's personal recollection than on any formal municipal record — the same emigration Esperanza's
+own archivists had hoped to document precisely turning out, on the other end of a long postal route, to be
+remembered rather than filed. The correspondence closed the historical question well enough. It simply took
+most of a year to do it.
 
 ### The Second Overflow, Planned in Minutes This Time
 
@@ -427,12 +427,12 @@ correcting a detail Esperanza's own version had drifted on — the same kind of 
 work as before, now simply fast enough that a second question didn't require its own dedicated season to
 answer.
 
-### The Redistribution Records Janbogo and Esperanza Finally Compared Line by Line
+### The Records Janbogo and Esperanza Finally Compared Line by Line
 
-Following the earlier comparison of the administrative event that had reduced both cities' own populations
-while enlarging Lazar, Esperanza's and Janbogo's own civic historians undertook a considerably more detailed
+Following the earlier comparison of the emigration that had thinned both cities' own populations while
+enlarging Lazar, Esperanza's and Janbogo's own civic historians undertook a considerably more detailed
 follow-up — comparing their own municipal records line by line rather than relying on each other's own general
-recollection of the event.
+recollection of the pattern.
 
 The detailed comparison, per what's preserved of the project, surfaced several small discrepancies neither
 city's own records had caught alone — genuine historical corrections made possible only because both
