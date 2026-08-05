@@ -330,6 +330,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   outside Vostok's otherwise near-total "exported almost nothing else" economic profile.
 - **Signy** (Palmer) — Medium, Technical. Vostok's own cold-tolerant biological research reaches beyond Kunlun
   to other extreme-engineering consultations, including Signy's own power system.
+- **Dome Fuji** (Mawson) — Strong, Infrastructure/Aviation. One of Dome Fuji's three confirmed aviation supply
+  routes runs via Mountain Pass Airport, sitting between Kunlun and Vostok — Vostok's own overland link
+  (Hwy 37) feeds this route alongside Kunlun's.
 
 ### Zhongshan
 - **Sinheung** (Mirny) — Strong, Cultural/Political. Part of the Larsemann Hills Tri-Cities cluster — all
@@ -485,6 +488,9 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   routes, direct by air.
 - **Sinheung** (Mirny) — Strong, Infrastructure. The second independent aviation route (via Mawson) that kept
   Dome Fuji supplied for a substantial stretch of Tepenian history.
+- **Vostok** (Mirny) — Strong, Infrastructure/Aviation. The third of Dome Fuji's three confirmed aviation
+  supply routes, via Mountain Pass Airport (sitting between Kunlun and Vostok) and the connecting overland
+  link (Hwy 37/Hwy 4) — completing the three-direction resupply picture alongside Troll and Sinheung.
 - **Mawson** (Mawson) — Strong, Infrastructure. Founding-era hub-coordination priority.
 - **Sayowa** (Mawson) — Strong, Infrastructure. Sayowa is Dome Fuji's own overland supply-chain gateway and
   the origin point of its aviation route — the closest, most load-bearing single relationship the isolated
