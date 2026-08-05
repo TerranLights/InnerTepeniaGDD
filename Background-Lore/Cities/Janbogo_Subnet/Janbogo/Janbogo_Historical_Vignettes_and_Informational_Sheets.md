@@ -270,26 +270,25 @@ people feel deliberately, memorably welcomed for an extended stay. Neither city 
 Both, per what's recalled of the exchange, found genuine professional value in finally understanding exactly
 how two comparable civic instincts had developed toward two different purposes.
 
-### The Redistribution Records Esperanza and Janbogo Finally Compared in Full
+### The Emigration Records Esperanza and Janbogo Finally Compared in Full
 
 Following the first direct exchange between Esperanza's and Janbogo's own civic administrators about the
-shared population redistribution that had enlarged Lazar, a more detailed follow-up comparison examined
-exactly which specific districts or population segments each city had lost, rather than only the aggregate
-totals both administrations had already confirmed matched in strategy.
+shared emigration pattern that had enlarged Lazar, a more detailed follow-up comparison examined exactly
+which specific districts or population segments each city had lost, rather than only the aggregate totals
+both administrations had already confirmed matched.
 
 The detailed comparison, run once sustained contact made a genuine data-sharing relationship possible, revealed
-a further coincidence neither city had previously noticed — both reductions had disproportionately drawn from
-newer, less-established residential districts rather than founding-era neighborhoods, an administrative
-pattern neither city's own planners had deliberately chosen but that both had apparently followed anyway. The
+a further coincidence neither city had previously noticed — both cities' own thinning had disproportionately
+drawn from newer, less-established residential districts rather than founding-era neighborhoods, an organic
+pattern neither city's own planners had engineered but that both had apparently experienced anyway. The
 finding didn't change either city's own current governance. It gave both administrations a genuinely new,
-shared data point about how the original redistribution had actually been implemented.
+shared data point about how the emigration had actually unfolded, district by district.
 
 ### The Halls' Own Design Reaching Dumont d'Urville Directly
 
-Following the redistribution-linked demographic connection between Janbogo and Dumont d'Urville, a separate,
-unrelated inquiry reached Janbogo's own civic architects: whether the great shielded commercial halls' own
-scaled-up teahouse design principle might translate to Dumont d'Urville's own downtown live-music venue
-culture.
+Following the shared demographic connection linking Janbogo and Dumont d'Urville, a separate, unrelated
+inquiry reached Janbogo's own civic architects: whether the great shielded commercial halls' own scaled-up
+teahouse design principle might translate to Dumont d'Urville's own downtown live-music venue culture.
 
 Janbogo's own architects, per what's preserved of the exchange, found the question genuinely interesting —
 two civic hospitality traditions, one built around large-scale sheltered warmth, one around dense, informal
@@ -360,11 +359,11 @@ accounts, received a reply from Mawson months later — genuinely useful, if con
 crossed the full distance from the Janbogo subnet into the Mawson subnet at whatever pace the postal route
 between the two allowed.
 
-### The Redistribution Data Esperanza Sent By the Slowest Possible Route
+### The Emigration Data Esperanza Sent By the Slowest Possible Route
 
-The shared administrative redistribution that reduced both Esperanza's and Janbogo's own populations while
-enlarging Lazar prompted a specific data-sharing request between the two affected cities — a comparison that,
-crossing from the Janbogo subnet into the Palmer subnet, could only happen by written correspondence.
+The shared emigration pattern that thinned both Esperanza's and Janbogo's own populations while enlarging
+Lazar prompted a specific data-sharing request between the two affected cities — a comparison that, crossing
+from the Janbogo subnet into the Palmer subnet, could only happen by written correspondence.
 
 The exchange, per what's preserved of the letters, took the better part of a year to complete — each city's
 own municipal records searched and mailed separately, since no channel existed to simply compare the two data
@@ -419,12 +418,12 @@ The session, per what's preserved of the account, surfaced genuine differences i
 earlier correspondence had fully captured — proof that some kinds of hospitality knowledge only really
 transfer through direct demonstration, not description.
 
-### The Redistribution Comparison Esperanza Finally Closed the Loop On
+### The Comparison Esperanza Finally Closed the Loop On
 
-Following the detailed line-by-line comparison of their shared population-redistribution history, Esperanza's
-and Janbogo's own historians published a joint summary of what the comparison had found — the first time
-either city's own official history had cited the other's own archive as a co-equal source for the same
-historical event, rather than each city maintaining its own separate account.
+Following the detailed line-by-line comparison of their shared emigration history, Esperanza's and Janbogo's
+own historians published a joint summary of what the comparison had found — the first time either city's own
+official history had cited the other's own archive as a co-equal source for the same demographic pattern,
+rather than each city maintaining its own separate account.
 
 Janbogo's own civic records, per what's preserved of the update, were formally revised to reflect the
 corrected details the joint comparison had surfaced — a small but genuine improvement to the city's own
@@ -500,9 +499,9 @@ Zukelli, receiving the same standard directly over the subnet's own line, could 
 written — the difference between a faithful copy and an approximation tracing entirely to which side of the
 subnet boundary the recipient sat on.
 
-### The Redistribution Figures Esperanza Received a Full Season Late
+### The Demographic Figures Esperanza Received a Full Season Late
 
-Demographic redistribution figures requested by Esperanza, hoping to compare Janbogo's own founding-era
+Demographic figures requested by Esperanza, hoping to compare Janbogo's own founding-era
 population patterns against its own, arrived by the slowest available route — Janbogo's own records office
 choosing careful compilation over speed, since no faster channel existed to send a correction if one turned
 out to be needed.
