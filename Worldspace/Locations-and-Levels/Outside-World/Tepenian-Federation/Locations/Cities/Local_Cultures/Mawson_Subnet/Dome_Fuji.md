@@ -4,7 +4,7 @@
 
 **Subnet:** Mawson (Indian Ocean / East Antarctic) — connected by Arcanet cable despite being one of the most geographically distant members of its subnet from the coastal hub
 **Status:** Survived — altitude-compromised, functioning at reduced capacity; **100% robot population**, a unique case among surviving Tepenian cities
-**Census Population:** 0 humans / 55,072 robots (Census I) — figures established 2026-07-04, Dome Fuji's first-ever population data, via a deliberate small-percentage redistribution pooled from every Tepenian city except Concordia, preserving each contributor's original nationality
+**Census Population:** 0 humans / 55,072 robots (Census I) — a genuine multinational blend, each devotee's own original nationality preserved
 **Location:** East Antarctic Plateau, near Valkyrie Dome (~77°19'S, 39°42'E), ~3,810m geometric elevation (~4,500m effective physiological altitude)
 
 **One-liner:** *A Japanese research station that outlived its own founders and became a monastery instead — the second-holiest site of a robot religion that venerates extreme cold, populated entirely by devotees who share nothing in common except the faith that brought them here.*
@@ -209,7 +209,7 @@ Likely filtered through the religion's own philosophy rather than expressed as r
 - **Kunlun:** The other primary Ice Cold Buddhism site, and Dome Fuji's closest analog — **re-resolved 2026-07-06:** no longer a composition contrast, since Kunlun's own population is now genuinely multinational too (a curated space/astronomy/comms-heritage draw, rather than Dome Fuji's broader universal draw). The theological relationship between the two sites — rival, complementary, hierarchical — is TBD and could be a meaningful piece of the religion's own internal structure.
 - **Mawson:** The subnet hub; Dome Fuji's Arcanet connection runs there, though the physical distance and interior plateau crossing make the relationship more institutional than lived.
 - **Concordia:** Among the most indirect relationships of any surviving city — different subnet, deep interior, effectively unreachable by road. Concordia knows Dome Fuji exists; its current status, including its total demographic transformation, is not necessarily known there.
-- **Every contributing city:** In a very literal sense, every one of the ~34 cities that contributed to Dome Fuji's 2026-07-04 population redistribution has a small, direct demographic thread running to Dome Fuji — a devotee who left. Whether this registers as a known relationship or an untracked, invisible one in daily civic awareness elsewhere is open.
+- **Every contributing city:** In a very literal sense, every one of the ~34 other Tepenian cities has a small, direct demographic thread running to Dome Fuji — a devotee who left, over the years, on pilgrimage. Whether this registers as a known relationship or an untracked, invisible one in daily civic awareness elsewhere is open.
 
 ---
 

@@ -116,9 +116,7 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 
 **Settled:** Post-Falkland Treaty, on the Kunlun Station infrastructure — the last major Antarctic station established before the first global war, operational since 2009. By 2564, it was relatively young as Antarctic stations went, but established.
 
-## Founding Population Resolution (originally 2026-07-04; re-resolved 2026-07-06)
-
-**Original method (superseded):** Kunlun's population was first resolved via a deliberate redistribution — a small percentage (0.1%–0.8%, randomly generated per city) drawn from every Tepenian city except Concordia, pooled together, and added to Kunlun entirely as robots and entirely reclassified as Chinese, regardless of each contributor's original nationality.
+## Founding Population Resolution (re-resolved 2026-07-06)
 
 **Re-resolved 2026-07-06:** following the project's broader move away from national-identity-as-decoration (see `feedback_no_national_stereotypes`), there was no real reason for Kunlun to be artificially collapsed into one nationality. Kunlun's population (still 123,449 robots, 0 humans — the total is unchanged) has been rebuilt around its **actual specialist function**: Kunlun is, first and foremost, an astronomy site, and secondarily a communications relay taking advantage of the plateau's exceptionally thin, stable atmosphere to stay in contact with orbital structures. Its population is now drawn specifically from the 19 Tepenian nations with genuine real-world space, astronomy, or communications heritage, tiered by the depth of that heritage (see Population & Composition, above, for the full breakdown and rationale) — a specialist, self-selected population rather than a demographic accident.
 

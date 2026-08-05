@@ -14,13 +14,12 @@ not developed further here.
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Dome Fuji's own Cross-Reference Synthesis, Finding 10** — the 2026-07-04 population-redistribution
-  mechanic drew Dome Fuji's devotee population from every Tepenian city *except* Concordia, purely a scoping
-  artifact of that mechanic, not anything about Concordia's people. Since the census figure is a fixed
-  snapshot, nothing rules out an individual Concordian making the pilgrimage in the present day — such a
-  devotee "would carry real, earned weight without requiring any invented lore to justify it," and real
-  potential relevance to Concordia's own district-tension storylines: a citizen choosing transcendence over
-  participation in "the true city" project.
+- **Dome Fuji's own Cross-Reference Synthesis, Finding 10** — the established pilgrimage pattern drew Dome
+  Fuji's devotee population from every Tepenian city *except* Concordia, simply because no Concordian ever
+  happened to make the pilgrimage, not anything about Concordia's people. Nothing rules out an individual
+  Concordian making the pilgrimage in the present day — such a devotee "would carry real, earned weight
+  without requiring any invented lore to justify it," and real potential relevance to Concordia's own
+  district-tension storylines: a citizen choosing transcendence over participation in "the true city" project.
 - **Dome Fuji's own Local Cultures, Section 6a** — arrival is itself the credential; devotion is the only
   membership requirement, with origin explicitly treated as irrelevant to standing within the community.
 - **Dome Fuji's own Cross-Reference Synthesis, Finding 9** — the devotee population has, in the overwhelming
@@ -36,7 +35,7 @@ not developed further here.
 
 ## The Chain
 
-**SETUP** — A Concordian citizen — the first in the whole redistribution era to attempt it — sets out to
+**SETUP** — A Concordian citizen — the first ever to attempt it — sets out to
 make the pilgrimage to Dome Fuji. The player is asked to help them survive the genuinely hazardous interior
 plateau crossing, a straightforward escort-and-support task for an unprecedented, but on its face personal,
 journey.

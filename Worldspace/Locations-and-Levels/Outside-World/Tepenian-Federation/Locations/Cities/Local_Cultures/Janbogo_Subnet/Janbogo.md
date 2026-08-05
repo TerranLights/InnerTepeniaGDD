@@ -4,7 +4,7 @@
 
 **Subnet:** Janbogo
 **Status:** Damaged; partially operational — Concordia's primary surviving supply lifeline
-**Census II Population:** 490,564 humans / 467,006 robots / 957,570 combined *(revised 2026-07-03 — reduced to 60% of its original figure as part of a deliberate population redistribution to Lazar; see `Official_Population_Census.md`. Formerly Tepenia's largest city by population; still substantial, now ranks roughly 8th.)*
+**Census II Population:** 490,564 humans / 467,006 robots / 957,570 combined *(reduced to 60% of its original figure as sustained organic emigration drew residents to Lazar over time; see `Official_Population_Census.md`. Formerly Tepenia's largest city by population; still substantial, now ranks roughly 8th.)*
 **Location:** Terra Nova Bay, Ross Sea coast (~74°37'S, 164°13'E)
 
 **One-liner:** *The city that kept a Korean name and its own communal warmth long after the Korean people who founded it became a minority within it.*

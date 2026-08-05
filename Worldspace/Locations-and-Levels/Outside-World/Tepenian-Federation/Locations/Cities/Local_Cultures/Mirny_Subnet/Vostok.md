@@ -4,7 +4,7 @@
 
 **Subnet:** Mirny ("Australian") — Arcanet connection theoretical only; ~1,260km overland from Mirny across the East Antarctic Plateau with no established road infrastructure in that direction. **Corrected 2026-07-06:** Vostok does have a real highway, Hwy 37 (the Mountain Cut Throughway), running Dome Fuji → Kunlun → Vostok → Concordia — it just doesn't reach Mirny or the Mirny subnet coast, which lies in a different direction entirely.
 **Status:** Survived — extremely remote, though less "effectively unreachable" than previously framed now that Hwy 37 is confirmed to run directly through Vostok
-**Census Population:** 129,617 humans / 259,644 robots / 389,261 combined (Census I, rank 26th) — figures established 2026-07-03, Vostok's first-ever population data, via the Framheim/Little America redistribution, later adjusted 2026-07-04 for the Kunlun/Dome Fuji redistribution
+**Census Population:** 129,617 humans / 259,644 robots / 389,261 combined (Census I, rank 26th) — see Section 5a for the (deliberately unresolved) gap between this population and Vostok's own Russian founding story
 **Location:** East Antarctic Plateau, near the Southern Pole of Inaccessibility (~78°28'S, 106°52'E), 3,488m elevation
 
 **One-liner:** *The coldest city on Earth, sitting above a lake that's been sealed from the sky for 25 million years, populated by people carrying a completely different national story than the one its own founding legend tells.*

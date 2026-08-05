@@ -29,7 +29,7 @@ were never designed to be legible to a stranger. Her particular corner of the ar
 oldest and most difficult layers to interpret — idiosyncratic, deeply personal, genuinely valuable, and
 genuinely hard to parse all at once. But her work still gets preserved rather than discarded, since
 nobody arriving later has the standing to simply throw out a founding-era researcher's life work — and
-once the redistributed population arrives generations later, one of its own newly-arrived researchers,
+once later generations of Vostok's own population take up the archive, one of its own newer researchers,
 confronting Yelena's incomprehensible corner of the archive for the first time, has to actually decide
 how much effort a stranger's personal, half-legible legacy is worth investing in trying to understand.
 

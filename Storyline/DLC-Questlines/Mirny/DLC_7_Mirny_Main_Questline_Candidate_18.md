@@ -20,8 +20,8 @@ subnet-wide decisions — a procedural question, not an integration policy.
 
 - **Mirny Cross-City Patterns, Pattern 1** — the subnet's own near-complete taxonomy of demographic
   -formation mechanisms: Zhongshan's organic multi-generational immigration, Kunlun's deliberate curated
-  draw, Vostok's demographic-redistribution accident (a population with zero ancestral connection to the
-  founding legend), Davis's genuinely dispersed structure with no dominant community, and Casey's own "wide,
+  draw, Vostok's unresolved demographic gap (a population with zero ancestral connection to the
+  founding legend, ambient rather than traceable), Davis's genuinely dispersed structure with no dominant community, and Casey's own "wide,
   mixed early wave" hybrid case.
 - **This run's own accumulated precedent** — the fact that Candidates #11 through #17 each required some kind
   of subnet-wide negotiation or decision, used here as the in-world justification for why a permanent council,

@@ -281,7 +281,7 @@
 
 **3rd-order effect:** this means Byrd's own public self-image — self-sufficiency as something "the whole city does together" (Local Cultures Section 14, vision session) — plausibly sits in genuine, quiet tension with an unevenly distributed reality, where the specific competencies that actually keep the city alive are disproportionately held by descendants of the people who chose to be there, not the broader population who now also call it home.
 
-**4th-order effect:** worth flagging as a genuinely earned internal fault line for future development — not a contradiction to resolve, but a real, structurally-supported tension (chosen founders' descendants vs. redistributed majority) sitting quietly underneath Byrd's own stated communal ethos, in the same register as several other Tepenian cities' own confirmed founding-vs-majority frictions, just shaped differently here since Byrd's tension isn't about founding nation but about founding *choice*.
+**4th-order effect:** worth flagging as a genuinely earned internal fault line for future development — not a contradiction to resolve, but a real, structurally-supported tension (chosen founders' descendants vs. later-arrival majority) sitting quietly underneath Byrd's own stated communal ethos, in the same register as several other Tepenian cities' own confirmed founding-vs-majority frictions, just shaped differently here since Byrd's tension isn't about founding nation but about founding *choice*.
 
 ---
 
@@ -431,7 +431,7 @@
 
 ### Finding 20: Coober Pedy's real precedent resolves Finding 7's demographic tension as coexistence, not one side winning
 
-**Combining:** `Byrd_Catalog.md`'s Australia entry (Coober Pedy, a real living underground-dwelling town, "genuinely multicultural with 45+ nationalities among its miners," direct precedent for "a tight, functional underground settlement that is nonetheless genuinely diverse") + Finding 7 above (the tension between Byrd's deliberate founding character and its actual redistributed, majority-later-arrived population).
+**Combining:** `Byrd_Catalog.md`'s Australia entry (Coober Pedy, a real living underground-dwelling town, "genuinely multicultural with 45+ nationalities among its miners," direct precedent for "a tight, functional underground settlement that is nonetheless genuinely diverse") + Finding 7 above (the tension between Byrd's deliberate founding character and its actual later-arrival majority population).
 
 **2nd-order effect:** the Catalog itself frames Coober Pedy as resolving what "might otherwise read as a contradiction" between Byrd's insular founding character and its 35-nation demographic breadth — but the real town's own actual character is genuinely fragmented, distinct nationalities historically working separate claims and maintaining separate community identity even while sharing the same underground environment, not blending into one unified culture.
 

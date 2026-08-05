@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Kunlun sits at or near Dome A (Dome Argus), the highest point on the East Antarctic Ice Sheet (~4,093m), the most physiologically marginal survival of any Tepenian city. 100% robot population (123,449), no humans possible — forbidden as a protective safety measure given the altitude/cold, not from anti-human sentiment. Holiest site in Tepenia for "Ice Cold Buddhism" (placeholder name). At the time this session began, Kunlun's population was still resolved as "100% Chinese," a leftover from an earlier redistribution exercise, and its highway access was listed as "none confirmed."
+Recap of what was already established going in: Kunlun sits at or near Dome A (Dome Argus), the highest point on the East Antarctic Ice Sheet (~4,093m), the most physiologically marginal survival of any Tepenian city. 100% robot population (123,449), no humans possible — forbidden as a protective safety measure given the altitude/cold, not from anti-human sentiment. Holiest site in Tepenia for "Ice Cold Buddhism" (placeholder name). At the time this session began, Kunlun's population was still resolved as "100% Chinese," a leftover from an earlier draft, and its highway access was listed as "none confirmed."
 
 ---
 

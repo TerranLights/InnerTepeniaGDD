@@ -101,7 +101,7 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 ## Ross Ice Shelf
 *Subnet: Byrd ("Pacific")*
 
-**Framheim and Little America were REMOVED from canon 2026-07-03.** Real-world verification found their shared site (the Bay of Whales) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Their combined population was redistributed to Vostok, Esperanza, Concordia, Byrd, Zukelli, Janbogo, and Cape Adare — see `Official_Population_Census.md`'s removal note for full detail. **This also breaks the established Byrd↔Janbogo aviation refueling route (see `Specs/Byrd.md`) — not yet resolved.**
+**Framheim and Little America were REMOVED from canon 2026-07-03.** Real-world verification found their shared site (the Bay of Whales) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. **This also breaks the established Byrd↔Janbogo aviation refueling route (see `Specs/Byrd.md`) — not yet resolved.**
 
 ---
 

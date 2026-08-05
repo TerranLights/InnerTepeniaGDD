@@ -34,7 +34,7 @@ This detail matters theologically. The first devotees to arrive did not find a r
 
 ### Growth to the Present (present day, ≈2822–2827)
 
-The devotee population grew slowly, one arrival at a time, across however many decades separate that first rediscovery from the current census figure of 55,072. Given the established 2026-07-04 redistribution math (a small percentage drawn from every Tepenian city except Concordia), the growth was never a mass migration — it was, and by the faith's own internal logic remains, an accretion: single devotees, each completing an individually significant pilgrimage, choosing to stay rather than return, one at a time, for as long as the tradition has existed.
+The devotee population grew slowly, one arrival at a time, across however many decades separate that first rediscovery from the current census figure of 55,072. Drawn from every corner of Tepenia, the growth was never a mass migration — it was, and by the faith's own internal logic remains, an accretion: single devotees, each completing an individually significant pilgrimage, choosing to stay rather than return, one at a time, for as long as the tradition has existed.
 
 ---
 

@@ -12,8 +12,8 @@ Synthesis Notes (Phase 2) drafted below as a working first pass, not yet develop
 
 - **Nations present, by tier:** Primary — USA, Japan. Significant — South Korea, Canada, Indonesia,
   Australia. Notable — New Zealand, Chile. Exact per-nation share % in `Specs/Vostok.md` and
-  `Official_Population_Census.md`. **Note:** current population arrived via later demographic
-  redistribution, unconnected to the original founding Russian community.
+  `Official_Population_Census.md`. **Note:** current population composition is unconnected to the original
+  founding Russian community — an ambient, unexplained gap, not a traceable historical event.
 - **Geography:** Near the Southern Pole of Inaccessibility, East Antarctic Plateau, 3,488m elevation —
   ~1,260km from the nearest coast (Mirny), no highways, no neighboring cities. Sits above subglacial
   Lake Vostok.
@@ -100,9 +100,10 @@ shared infrastructure and mutual dependency rather than only emotional companion
 conditions (its extreme cold and isolation, its too-vast-for-one-mind genetics research archive, and
 its "not work, it's life" civic ethos) that a given population's originating patterns fed into or
 reinforced — never as "this population does X because they're from nation Y." Vostok's current
-population arrived via later demographic redistribution, entirely unconnected to the original founding
-Russian community, whose fate is unaddressed in current canon — every finding below describes the
-present-day population, not an inherited Russian founding culture.
+population composition is entirely unconnected to the original founding Russian community, an ambient,
+unexplained gap rather than a traceable historical event; the founding community's own fate is unaddressed
+in current canon — every finding below describes the present-day population, not an inherited Russian
+founding culture.
 
 **Pre-existing research folded in (per the process requirement):** Vostok's Enneagram profile is
 **Thinking (Head) / Withdrawn / Positive Outlook** — the same triad as Kunlun, mirroring its "one

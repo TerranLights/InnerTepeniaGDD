@@ -168,8 +168,8 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Mawson** (Mawson) — Medium, Economic/Cultural. Tepenia's two deliberately-cultivated hospitality economies
   — entertainment/casino tourism at Palmer City, honeymoon-destination tourism at Mawson — a natural
   cross-subnet hospitality-industry correspondence.
-- **Byrd** (Byrd) — Strong, Infrastructure. Palmer City's own over-cap population redistribution supplied a
-  large share of Byrd's founding population; Byrd's only overland highway connection (Hwy 1 → Hwy 22) also
+- **Byrd** (Byrd) — Strong, Infrastructure. Sustained labor migration from Palmer City supplied a large share
+  of Byrd's population over successive waves; Byrd's only overland highway connection (Hwy 1 → Hwy 22) also
   runs through the Palmer subnet corridor Palmer City anchors.
 - **Lazar** (Halley) — Medium, Cultural. The two cities that read as genuine big-city megacenters — Palmer
   City's entertainment-and-casino economy, Lazar's maglev/holographic commercial density.
@@ -180,9 +180,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   serving as Marambio's own overflow receiving point during a dockside failure.
 - **Belgrano** (Halley) — Medium, Cultural/Demographic. Argentina's only three founding-population cities in
   the country, split across two subnets — a real, if thin, cross-subnet Argentine cultural thread.
-- **Janbogo** (Janbogo) — Medium, Demographic. Esperanza's own population was reduced (to 85% of its original
-  total) in the same redistribution that enlarged Lazar, alongside Janbogo and Zukelli — three cities whose
-  Census figures are now historically linked by that single administrative event.
+- **Janbogo** (Janbogo) — Medium, Demographic. Esperanza's own population thinned (to 85% of its original
+  total) as sustained emigration drew residents to Lazar, alongside the same pattern at Janbogo and Zukelli —
+  three cities whose Census figures are now historically linked by that shared demographic shift.
 
 ### Rothera
 - **Mirny** (Mirny) — Strong, Industrial. Rothera plays, for the Palmer subnet, almost exactly the role Mirny
@@ -399,9 +399,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Sinheung** (Mirny) — Medium, Demographic. The same Korean-founded kinship.
 - **Mawson** (Mawson) — Medium, Cultural. Tepenia's other deliberately hospitality-forward civic identity,
   though built on tourism rather than transit hospitality.
-- **Esperanza** (Palmer) — Medium, Demographic. Reduced in the same population redistribution that enlarged
-  Lazar, alongside Zukelli.
-- **Dumont d'Urville** (Janbogo) — Medium, Demographic. The same redistribution event.
+- **Esperanza** (Palmer) — Medium, Demographic. Thinned by the same sustained emigration to Lazar as Janbogo
+  itself, alongside Zukelli.
+- **Dumont d'Urville** (Janbogo) — Medium, Demographic. The same shared demographic shift toward Lazar.
 - **Byrd** (Byrd) — Medium, Demographic. Byrd's own population profile matches the Pacific-facing
   Janbogo/Mirny/Mawson demographic shape far more closely than it matches Palmer subnet's own — a genuine
   population-vs-geography tension.
@@ -431,8 +431,8 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Denison** (Janbogo) — Strong, Social/Technical. Genuinely close, frequent contact — regular technical
   exchange programs and informal visiting closer in character to a Crossing-style relationship than to
   Denison's more occasional trips toward Cape Adare.
-- **Janbogo** (Janbogo) — Medium, Demographic. Reduced in the same population redistribution that enlarged
-  Lazar, alongside Esperanza and Zukelli.
+- **Janbogo** (Janbogo) — Medium, Demographic. Thinned by the same sustained emigration to Lazar as Esperanza
+  and Zukelli.
 - **Zukelli** (Janbogo) — Medium, Cultural. Both built genuine music-and-hospitality scenes from informal,
   organically grown venue culture — Dumont d'Urville's "New Orleans at 1/20th scale" downtown, Zukelli's own
   restaurant-performance tradition.
@@ -451,8 +451,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Cape Adare** (Janbogo) — Medium, Cultural. The Janbogo subnet's own shared hospitality register.
 - **Dumont d'Urville** (Janbogo) — Medium, Cultural. Both built genuine music-and-hospitality scenes from
   informal, organically grown venue culture.
-- **Esperanza** (Palmer) — Medium, Demographic. Reduced in the same population redistribution that enlarged
-  Lazar, alongside Janbogo.
+- **Esperanza** (Palmer) — Medium, Demographic. Thinned by the same sustained emigration to Lazar as Janbogo.
 
 ### Scott
 - **Fort McMurdo** (Janbogo) — Strong, Industrial/Social. A genuinely collaborative-and-competitive
@@ -545,11 +544,13 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   schematic Byrd's own Chamber Works builds from.
 - **Marambio** (Palmer) — Strong, Infrastructure. Byrd's only overland connection to the rest of the country
   runs through this single corridor (Hwy 1 → Hwy 22) in both directions.
-- **Palmer City** (Palmer) — Strong, Infrastructure. Palmer City's own over-cap population redistribution
-  supplied a large share of Byrd's founding population.
+- **Palmer City** (Palmer) — Strong, Infrastructure. Sustained labor migration from Palmer City supplied a
+  large share of Byrd's population over successive waves.
 - **Janbogo** (Janbogo) — Medium, Demographic. Byrd's own population profile matches the Pacific-facing
-  Janbogo/Mirny/Mawson demographic shape far more closely than it matches Palmer subnet's own — a genuine
-  population-vs-geography tension: Byrd's people and Byrd's road point in two different directions.
+  Janbogo/Mirny/Mawson demographic shape more closely than it matches Palmer subnet's own — explained by later,
+  larger labor migration waves reaching Byrd from Janbogo and Mirny (and, to a lesser extent, Mawson)
+  alongside continued Palmer and Halley arrivals; Byrd's road (Palmer subnet) and Byrd's people (increasingly
+  Pacific-facing) simply reflect two different chapters of the same city's growth.
 - **Vostok** (Mirny) — Medium, Scientific/Cultural. Vostok's own genetics program transplanted and cultivated
   the bioluminescent ecosystem in Byrd's own subglacial lake.
 - **Rothera** (Palmer) — Medium, Industrial. Rothera's own decentralized industrial model plausibly influenced

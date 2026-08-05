@@ -11,7 +11,7 @@ freshwater lake roughly 250km by 50km, buried under ~4km of ice, isolated 15-25 
 by geothermal heat and ice-sheet pressure (the same mechanism this session already established for Byrd's
 own new subglacial lake, "The Long Window"); the current population is a Pacific-corridor blend (USA/Japan
 Primary) with no Russian representation, a founding community entirely disconnected from the current
-redistributed one; economy is almost entirely genetics research — huge sections of the city given over to
+population; economy is almost entirely genetics research — huge sections of the city given over to
 lab space; robots here work task-driven schedules with no fixed shift boundaries, while the human
 population keeps a conventional day/night schedule; reached via Hwy 37, the DLC 7 access route through
 Kunlun; established this session — Vostok's own genetics program supplied the bioluminescent ecosystem
@@ -75,7 +75,7 @@ nothing else" economic profile.
 12. **Inherited Russian-language technical infrastructure and signage**, used functionally by the current
     population without necessarily reflecting any lived connection to its own origin — consistent with the
     established total disconnect between the founding Russian community and the current, unrelated
-    redistributed population.
+    population.
 
 ---
 

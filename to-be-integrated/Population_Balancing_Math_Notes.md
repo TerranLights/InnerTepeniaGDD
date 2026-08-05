@@ -95,7 +95,8 @@ separately-computed instance of this mechanism, just the same underlying result 
 ## Kunlun and Dome Fuji's population creation (2026-07-04)
 
 Both cities received their first-ever population figures via two rounds of small-percentage population
-pooling from every other city except Concordia — Kunlun first, then Dome Fuji, each contributor's humans
+pooling from every other city except Concordia (Kunlun: 0.1%-0.8% per city, randomly generated; Dome Fuji:
+0.05%-0.3% per city, randomly generated) — Kunlun first, then Dome Fuji, each contributor's humans
 reclassified as robots for the destination city. Kunlun's population (123,449, entirely robot) was originally
 a single-nation reclassification, later re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-
 heritage population (see `Specs/Kunlun.md`). Dome Fuji's population (55,072, entirely robot) preserved each
