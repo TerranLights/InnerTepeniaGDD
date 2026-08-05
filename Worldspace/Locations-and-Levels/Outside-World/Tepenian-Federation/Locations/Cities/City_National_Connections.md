@@ -153,6 +153,8 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Neumayer** (Halley) — Medium, Historical. The nearest confirmed Halley subnet neighbor; Novolazarevskaya's
   own real-world DROMLAN air-logistics-hub heritage plausibly gave founding-era Lazar and Neumayer a working
   logistics relationship neither city's own file has fully developed yet.
+- **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 7-ext runs from the Sayowa Junction directly to Lazar,
+  giving the Mawson subnet's own connective hub a direct physical link to Tepenia's single largest city.
 
 ---
 
@@ -372,6 +374,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Sejong** (Palmer) — Medium, Demographic. One of Tepenia's three Korean-founded cities — genuine but
   limited, ceremonial kinship.
 - **Janbogo** (Janbogo) — Medium, Demographic. The same Korean-founded kinship.
+- **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Sinheung,
+  the same Spur/Junction link that reaches Shirayuki alongside it — distinct from the general Mawson-city
+  import route above, this is the specific Sayowa-anchored physical connection.
 
 ### Shirayuki
 - **Zhongshan** (Mirny) — Strong, Cultural/Political. Part of the Larsemann Hills Tri-Cities cluster.
@@ -512,9 +517,13 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   inter-subnet proximity, sustained by a generations-deep Japanese-heritage family correspondence.
 - **Shirayuki** (Mirny) — Medium, Cultural. Sayowa's own JARE heritage and Shirayuki's own Bharati-Station
   founding are Tepenia's two clearest living Japanese-institutional-heritage civic identities.
+- **Lazar** (Halley) — Medium, Infrastructure. Hwy 7-ext runs from the Sayowa Junction directly to Lazar,
+  giving Tepenia's single largest city a direct physical link to the Mawson subnet's own connective hub.
+- **Sinheung** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Sinheung, the
+  same Spur/Junction link that reaches Shirayuki alongside it.
 - **Halley subnet cities generally** — Medium, Infrastructure. The Sayowa Junction is the confirmed
   convergence point for Halley subnet's own Hwy 7/7-ext spine, giving Sayowa indirect logistics relevance to
-  every Halley subnet city, not only Princess Elisabeth.
+  every Halley subnet city, not only Princess Elisabeth and Lazar.
 
 ---
 
