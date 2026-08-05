@@ -270,17 +270,19 @@ Dumont d'Urville venue actually adopted the layout isn't preserved. The exchange
 directions between two cities' own music scenes for the first time, confirmed the cultural connection first
 noticed during the earlier visit ran genuinely both ways.
 
-### The Redistribution Comparison Esperanza and Zukelli Finally Ran Together
+### The Emigration Pattern Esperanza and Zukelli Finally Compared Directly
 
-Zukelli's own population, reduced in the same administrative redistribution that enlarged Lazar alongside
-Esperanza and Janbogo, had never been directly compared against Esperanza's own experience of the same event
-— the two cities' own civic administrations had each only compared notes with Janbogo, never with each other.
+Zukelli's own population, thinned over generations by the same sustained pull toward Lazar that had drawn
+away part of Esperanza's and Janbogo's own populations too, had never been directly compared against
+Esperanza's own experience of the same broader pattern — the two cities' own civic administrations had each
+only compared notes with Janbogo, never with each other.
 
 The first direct exchange between Zukelli and Esperanza specifically, held once contact made a genuine
 three-way comparison actually complete, confirmed the same pattern already found between Esperanza and
-Janbogo — newer districts disproportionately affected over founding-era neighborhoods. With all three donor
-cities' own experiences finally compared directly against each other, the redistribution's own actual
-implementation pattern was, for the first time, fully documented across every city it had touched.
+Janbogo — newer residents, without generations of roots to hold them, left for Lazar disproportionately more
+often than founding-era families did. With all three cities' own experiences finally compared directly
+against each other, the emigration's own actual shape was, for the first time, fully documented across every
+city it had touched.
 
 ### The Restaurant Rivalry Cape Adare Heard About Secondhand
 
@@ -349,12 +351,12 @@ d'Urville's own venue organizers within days of its first use at Zukelli — and
 scene almost as quickly, a pace of creative cross-pollination that a subnet-external hospitality city could
 never have matched.
 
-### The Redistribution Letter Esperanza Took a Season to Answer
+### The Letter Esperanza Took a Season to Answer
 
-Zukelli's own reduced population, part of the same administrative redistribution that enlarged Lazar alongside
-Janbogo and Esperanza, prompted a written inquiry to Esperanza — curious how the same event had been
-experienced on the other side of it, a question that could only travel by letter across the distance from the
-Janbogo subnet into the Palmer subnet.
+Zukelli's own thinning population, part of the same sustained emigration to Lazar as Janbogo and Esperanza,
+prompted a written inquiry to Esperanza — curious how the same broader pattern had been experienced on the
+other side of it, a question that could only travel by letter across the distance from the Janbogo subnet
+into the Palmer subnet.
 
 Esperanza's own reply, per what's preserved of the correspondence, took the better part of a season to
 arrive — genuinely useful comparative detail, once it came, that Zukelli's own historians incorporated into
@@ -419,16 +421,16 @@ Zukelli's own venue owners, per what's preserved of the exchange, adopted a vers
 season — the first time the creative exchange between the two hospitality cultures had been initiated by
 Dumont d'Urville rather than only received from Zukelli's own side.
 
-### The Redistribution Comparison That Finally Named Every Family Affected
+### The Comparison That Finally Named Every Family Who Had Left
 
 Building on the earlier comparison with Esperanza, Zukelli's own historians undertook a considerably more
-ambitious version of the project — attempting to name every specific family affected by the redistribution
-event across all three cities involved, rather than comparing aggregate figures alone.
+ambitious version of the project — attempting to name every specific family whose own members had left for
+Lazar across all three cities involved, rather than comparing aggregate figures alone.
 
 The project, per what's preserved of its own progress, remains genuinely incomplete — a real historical
 undertaking that connectivity made newly possible but didn't make instantly finishable. What exists so far
-represents the most detailed accounting of the event's own human scale that any of the three affected cities
-has ever attempted.
+represents the most detailed accounting of the emigration's own human scale that any of the three affected
+cities has ever attempted.
 
 ### The Music Scene That Finally Had a National Audience of Its Own
 
@@ -487,12 +489,12 @@ A related booking opportunity involving Esperanza had no such speed available �
 the idea could be sent and answered, the traveling musician's own schedule had already moved on to somewhere
 else entirely.
 
-### The Redistribution Question Esperanza Answered a Season After Janbogo Did
+### The Emigration Question Esperanza Answered a Season After Janbogo Did
 
-A demographic redistribution question, sent to both Janbogo and Esperanza the same week, produced two very
-different timelines: Janbogo's own answer arrived over the subnet's line before the day was out, while
-Esperanza's — equally thorough once it arrived — took the better part of a season to make the same journey by
-mail.
+A demographic question about the emigration to Lazar, sent to both Janbogo and Esperanza the same week,
+produced two very different timelines: Janbogo's own answer arrived over the subnet's line before the day
+was out, while Esperanza's — equally thorough once it arrived — took the better part of a season to make the
+same journey by mail.
 
 Zukelli's own record-keepers, compiling both answers into a single comparative document, noted the asymmetry
 directly rather than let it pass unremarked — the same question, the same seriousness of response, simply
