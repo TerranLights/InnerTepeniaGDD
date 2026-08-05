@@ -560,16 +560,18 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
 Carried forward from `City_Cross_Subnet_Relationships.md`, still unresolved and still relevant to this fuller
 map:
 
-1. **Hwy 59's Arcanet Line** (Halley ↔ Amundsen Station) — a real, named physical cable, still unexplored for
-   what it might mean once the Split Brain eventually severs it.
-2. **The Davis/Mawson real-historical-rescue connection** — already-latent (John King Davis personally
-   rescued Douglas Mawson's stranded party), ready to develop into something more than "shared naming
-   heritage."
-3. **Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing** — both
+1. **Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing** — both
    genuinely surprising, neither yet explained anywhere in existing lore.
-4. **Fort McMurdo's Euro-heavy demographic anomaly** within an otherwise Pacific-facing subnet — a plausible,
+2. **Fort McMurdo's Euro-heavy demographic anomaly** within an otherwise Pacific-facing subnet — a plausible,
    thematically apt consequence of being the national capital, worth developing into an actual migration
    story.
+
+**Resolved since this list was first written, 2026-08-06:**
+- **Hwy 59's Arcanet Line** (Halley ↔ Amundsen Station) — developed into its own Course of Events chain
+  (`Halley_09_One_Road_Two_Signals.md`) plus multiple Historical Vignettes entries; no longer open.
+- **The Davis/Mawson real-historical-rescue connection** — dramatized across three separate Historical
+  Vignettes entries in Davis's and Mawson's own files (a joint historical-research effort confirming the
+  connection, a founding-era honoring of it, and Mawson's own follow-up inquiry); no longer open.
 
 ---
 

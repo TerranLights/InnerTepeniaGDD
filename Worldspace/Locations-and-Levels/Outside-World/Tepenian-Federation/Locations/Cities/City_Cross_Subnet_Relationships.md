@@ -223,11 +223,18 @@ of Events-style chain, a piece of Megasheet cross-reference, an NPC storyline) i
 step for whichever connections the developer wants to prioritize — this file's job is making sure that
 next step has real material to work from, not guesswork.
 
-**Highest-value open threads, in rough priority order:**
-1. Hwy 59's Arcanet Line (Part 1) — a real, named physical cable connecting Halley to the Byrd/South Pole
-   corridor, completely unexplored for what it might mean for the Planetary Split Brain.
-2. The Davis/Mawson real-historical-rescue connection (Part 3) — already-latent, ready to develop, doesn't
-   conflict with the existing "administratively separate" ruling.
-3. Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing (Part 4) —
+**Still open:**
+1. Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing (Part 4) —
    both genuinely surprising, neither yet explained anywhere in existing lore.
-4. Palmer subnet's overall weak connectivity (Part 5) — the clearest structural gap.
+
+**Resolved since this list was first written, 2026-08-06:**
+- **Hwy 59's Arcanet Line** (Part 1) — developed into its own Course of Events chain
+  (`Halley_09_One_Road_Two_Signals.md`) plus multiple Historical Vignettes entries.
+- **The Davis/Mawson real-historical-rescue connection** (Part 3) — dramatized across three separate
+  Historical Vignettes entries in Davis's and Mawson's own files.
+- **Palmer subnet's overall weak connectivity** (Part 5) — superseded by `City_National_Connections.md`,
+  which gives all 35 outer cities at least one identified connection (see that file's own "Coverage Note").
+  This file's own Part 5 count (20/35) is accordingly historical, not a live gap.
+- Fort McMurdo's Euro-heavy demographic anomaly (Part 4, not separately numbered above but discussed
+  there) is still open — tracked as its own item in `City_National_Connections.md`'s "Open Threads Worth
+  Flagging" list instead, alongside the still-open item above.
