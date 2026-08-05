@@ -418,6 +418,13 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   single clearest political thread tying an outer city's own status change directly to the Tower.
 - **Lazar** (Halley) — Medium, Political/Economic. The country's two biggest civic hubs, a natural point of
   comparison and trade even without dedicated infrastructure.
+- **Halley/Palmer subnets generally** — Medium, Demographic (canonized 2026-08-06, developer-confirmed). Fort
+  McMurdo's own Significant-tier nations (Germany, France, UK, Italy) break its own Janbogo-subnet pattern
+  and instead match the Halley/Palmer demographic shape — explained by its status as the national capital
+  drawing migrants from across the whole country for political and administrative reasons, not just its own
+  region. Canonized as the actual explanation, not merely a theory; turning it into an actual dramatized
+  migration story is optional, not required — fine to stand as background demographic flavor if it never
+  gets that further development.
 
 ### Dumont d'Urville
 - **Casey** (Mirny) — Strong, Infrastructure. Hwy 2 connects the two directly, no intermediate subnet.
@@ -549,9 +556,9 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   Byrd's own early industrial planning.
 - **Denison** (Janbogo) — Medium, Industrial/Historical. The same Cradle-network peer relationship, now with
   Denison as the historical third manufacturer.
-- **Vostok's shared USA+Japan Primary-nation pairing** with Byrd remains a flagged, unexplained demographic
-  anomaly — worth investigating directly whenever this thread gets developed further (see
-  `City_Cross_Subnet_Relationships.md` Part 4).
+- **Vostok's shared USA+Japan Primary-nation pairing** with Byrd is confirmed coincidence, developer-decided
+  2026-08-06 — no fundamental or inherently special connection between the two cities. Not a thread for
+  further development.
 
 ---
 
