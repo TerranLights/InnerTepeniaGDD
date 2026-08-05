@@ -232,21 +232,21 @@ into an economy that had never known anything else.
 
 ## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
 
-### The Reunion the Redistribution Never Made Possible Before
+### The Reunion Distance Never Made Possible Before
 
-Palmer City's own over-cap population redistribution had sent a considerable share of residents to found Byrd
-generations earlier — families split by a single administrative decision, with essentially no realistic way
-to stay in touch across a distance and an isolation that had always made ordinary correspondence rare and
-slow.
+Successive generations of Palmer City residents had left for Byrd, drawn by the work its growing industry
+offered — families separated gradually, one departure at a time across multiple generations rather than by
+any single event, with essentially no realistic way to stay in touch across a distance and an isolation that
+had always made ordinary correspondence rare and slow.
 
 The first wave of direct reconnection, once the relay made contact between the two cities effectively
 instant, brought a specific rush of inquiries through Palmer City's own civic records office — residents
-searching for descendants of relatives who had left generations earlier during the original redistribution,
+searching for descendants of relatives who had left generations earlier as part of that same long migration,
 many for the first time having any realistic way to actually find out what had become of family members
 they'd only ever known through inherited stories. Not every inquiry produced a confirmed connection. Enough
 did, per what's remembered of the period, that the records office found itself handling a volume of
-genealogical requests it had never previously had reason to expect, all traceable to the same single
-administrative decision generations earlier finally becoming something families could actually follow up on.
+genealogical requests it had never previously had reason to expect, all traceable to the same generations-long
+migration finally becoming something families could actually follow up on.
 
 ### The Consultation Two Hospitality Economies Never Thought to Have
 
@@ -295,17 +295,17 @@ existed.
 ### The Byrd Delegation That Came to See Where Their Own Families Had Started
 
 Once the first wave of family reconnection between Palmer City and Byrd had run its course, a specific
-delegation of Byrd residents — descendants of the original over-cap redistribution generation — made the
-first organized trip back to Palmer City specifically to see the city their own families had originally left,
-a visit that would have had no realistic way to be planned or coordinated before direct contact made
-arranging it straightforward.
+delegation of Byrd residents — descendants of the earliest generations who had left Palmer City for Byrd —
+made the first organized trip back to Palmer City specifically to see the city their own families had
+originally left, a visit that would have had no realistic way to be planned or coordinated before direct
+contact made arranging it straightforward.
 
 The delegation's own visit, per what's preserved of the occasion, included a formal reception hosted by
 Palmer City's own civic administration — the first time in either city's history that Byrd's own founding
-connection to Palmer City had been marked with anything resembling ceremony rather than simply existing as an
-administrative fact in old redistribution records. Several delegation members, per what's remembered of the
-visit, described the experience as recovering a piece of their own family history they'd never expected to
-actually be able to see in person.
+connection to Palmer City had been marked with anything resembling ceremony rather than simply existing as a
+quiet fact of family history. Several delegation members, per what's remembered of the visit, described the
+experience as recovering a piece of their own family history they'd never expected to actually be able to see
+in person.
 
 ### The Machu Picchu Question Palmer City Could Finally Ask Sejong Directly
 
@@ -354,7 +354,7 @@ carrying it.
 
 ### The Family Records Byrd Couldn't Simply Send
 
-Byrd's own founding population, drawn substantially from Palmer City's own over-cap redistribution, meant a
+Byrd's own population, drawn substantially from successive waves of Palmer City emigration, meant a
 considerable number of Byrd residents had genealogical ties back to Palmer City — ties that, before the Tower,
 could only be pursued through written correspondence along Byrd's own single overland corridor.
 
@@ -379,9 +379,9 @@ based on secondhand reports that turned out, per the eventual letter, to be subs
 
 ### The Delegation That Finally Got to Ask in Person
 
-A Byrd delegation, curious about the redistribution-era records that connected a share of Byrd's own founding
-population back to Palmer City, undertook the long overland journey specifically because no faster way existed
-to have the conversation at all.
+A Byrd delegation, curious about the old emigration-era records that connected a share of Byrd's own
+population back to Palmer City, undertook the long overland journey specifically because no faster way
+existed to have the conversation at all.
 
 The delegation traveled the full length of Byrd's own single overland corridor before continuing through the
 rest of the Palmer subnet on established roads — days of travel to have a conversation that, within Palmer
@@ -443,13 +443,13 @@ larger, louder one.
 
 ### The Byrd Family Whose Reunion Became an Annual Thing
 
-Following the first Byrd delegation's own emotional visit to Palmer City tracing redistribution-era family
+Following the first Byrd delegation's own emotional visit to Palmer City tracing old emigration-era family
 connections, a second family confirmed a comparable link the following year — and by the third year, what had
 begun as a singular occasion had become something closer to a standing, if informal, annual visit tradition
 between specific Byrd and Palmer City families.
 
 Palmer City's own civic archivists, per what's preserved of the record, began keeping loose track of which
-redistribution-era families had reconnected and which hadn't — an informal project that grew directly out of
+emigration-era families had reconnected and which hadn't — an informal project that grew directly out of
 watching one emotional reunion become, unexpectedly, a repeatable pattern rather than a singular event.
 
 ### The Petrograd Room Specifications Lazar Actually Received
