@@ -255,17 +255,17 @@ continuity neither city's own individual staff turnover could interrupt.
 
 ### The Population Study Janbogo and Dumont d'Urville Ran Together
 
-Following the shared population redistribution affecting both cities, Dumont d'Urville's own civic
+Following the same broader emigration pattern affecting both cities, Dumont d'Urville's own civic
 demographers joined Janbogo's own detailed follow-up study examining exactly which districts each city had
-lost — a genuine joint research effort, rather than the separate parallel analyses each city had initially run
-independently.
+thinned the most — a genuine joint research effort, rather than the separate parallel analyses each city had
+initially run independently.
 
 The combined study, conducted once direct contact let both cities' own demographic offices actually
 collaborate rather than simply compare finished conclusions, confirmed the same pattern Janbogo's own
 researchers had already found — newer residential districts disproportionately affected over founding-era
 neighborhoods — now with Dumont d'Urville's own data folded directly into the analysis rather than checked
 against it separately. Neither city's own governance changed as a result. Both gained a more complete,
-jointly-verified picture of an administrative event that had shaped both cities' own populations at once.
+jointly-verified picture of a demographic pattern that had shaped both cities' own populations at once.
 
 ### The Venue Comparison Zukelli's Own Musicians Finally Requested
 
@@ -324,11 +324,12 @@ A specific exchange visit, per what's preserved of the era's own routine, was pr
 single conversation — no advance written notice required, since either city could simply ask the other
 directly and receive an answer the same hour. Denison's own technicians made the trip within the week.
 
-### The Redistribution Comparison Janbogo Confirmed the Same Afternoon
+### The Emigration Comparison Janbogo Confirmed the Same Afternoon
 
-Dumont d'Urville's own reduced population, part of the same administrative event that enlarged Lazar alongside
-Janbogo and Zukelli, could be cross-checked against Janbogo's own municipal records over the subnet's instant
-line — a level of shared historical verification neither city needed to wait on correspondence for.
+Dumont d'Urville's own thinning population, part of the same sustained emigration that enlarged Lazar
+alongside Janbogo and Zukelli, could be cross-checked against Janbogo's own municipal records over the
+subnet's instant line — a level of shared historical verification neither city needed to wait on
+correspondence for.
 
 A specific figure in Dumont d'Urville's own Census history, disputed internally for years, was finally
 confirmed within a single afternoon's exchange once Janbogo's own archivists could simply pull the relevant

@@ -394,7 +394,7 @@ had always been.
 
 ### The Second Family Record Palmer City Found on Its Own
 
-Following the original search that recovered a piece of Palmer City's own redistribution-era family history,
+Following the original search that recovered a piece of Palmer City's own emigration-era family history,
 Juan Carlos's own archive received a considerably more specific request the following year — a Palmer City
 researcher, having learned how to navigate the archive from the first search, conducting a second one almost
 entirely without needing Juan Carlos's own staff to guide her through it.
