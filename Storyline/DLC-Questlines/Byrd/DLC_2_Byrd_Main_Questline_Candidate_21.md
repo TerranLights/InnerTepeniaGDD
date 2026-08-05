@@ -1,6 +1,6 @@
 # DLC 2 (Byrd) — Main Questline Candidate #21: "Neither Side of the Line"
 
-**What this is:** a robot-specific version of Byrd's founding-descendant/redistributed-majority tension —
+**What this is:** a robot-specific version of Byrd's founding-descendant/later-arrival majority tension —
 grounded in this project's own established robot culture rather than simply imported from the human
 framework (Findings 7/20). No Cradle content. **Not canon, not chosen.**
 
@@ -9,7 +9,8 @@ framework (Findings 7/20). No Cradle content. **Not canon, not chosen.**
 ## Inputs actually used
 
 - **Finding 7** — specialized institutional knowledge concentrating among founding-descendant families,
-  against a far larger population who arrived later, indirectly, via the Palmer City redistribution.
+  against a far larger population who arrived later, as part of the labor migration waves drawn from across
+  the Palmer, Halley, Janbogo, Mirny, and Mawson subnets.
 - **Finding 20** — Coober Pedy's real precedent: coexistence without full integration, not smoothed-over
   unity.
 - **Attributes #19–20** — human/robot vertical residential stratification; robots concentrate in the deeper,
@@ -29,8 +30,8 @@ player is asked to help build consensus.
 
 **BUT** — Founding-era robots — centuries old, present since the original expedition (chain #3) — resist,
 not from simple stubbornness but because these specific spaces carry real, lived personal history for them
-in ways the numerically larger population of later-arrived robots (via the same redistribution that brought
-most of Byrd's human population too) don't share.
+in ways the numerically larger population of later-arrived robots (part of the same labor migration waves
+that brought most of Byrd's human population too) don't share.
 
 **THEREFORE** — The player has to actually understand both robot groups' own perspectives on their own
 terms — a genuinely robot-specific version of Finding 7's tension, built from this project's own established

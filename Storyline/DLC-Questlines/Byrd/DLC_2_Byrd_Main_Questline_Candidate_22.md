@@ -71,6 +71,6 @@ losing the final choice's weight.
 
 This is the candidate that most directly closes an explicitly-flagged gap in this session's own material —
 Finding 19 proposed this exact "third position" and noted it was "unclaimed," and this candidate is that
-claim. It gives Finding 7's tension a genuinely three-sided shape (founding descent, redistributed majority,
+claim. It gives Finding 7's tension a genuinely three-sided shape (founding descent, later-arrival majority,
 demonstrated expertise) rather than the two-sided framing every other candidate touching this tension
 (#04, #10, #15, #20, #21) uses.

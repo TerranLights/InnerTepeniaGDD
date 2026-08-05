@@ -41,7 +41,7 @@ construction, structurally sound but no longer used at anything close to capacit
 **BUT** — Reclaiming that space runs directly into Finding 7's own established fault line. The old core is
 disproportionately tied to founding-descendant families' own historical claim and institutional memory;
 repurposing it for new growth reads, to some of them, as displacement and dilution, while the far larger
-redistributed majority sees straightforward, overdue practical necessity.
+later-arrival majority sees straightforward, overdue practical necessity.
 
 **THEREFORE** — The player has to broker this specific, concrete version of Byrd's own demographic tension —
 not in the abstract, but over literal physical space and who has a right to decide what happens to it.

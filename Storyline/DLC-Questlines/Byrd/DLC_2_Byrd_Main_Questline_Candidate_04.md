@@ -13,12 +13,13 @@ alternative or companion thread to the three developer-flagged options. **Not ca
   them a quiet, structurally real form of civic power, independent of Byrd's formal guild politics.
 - **Finding 7** — specialized structural/wayfinding institutional knowledge plausibly concentrates
   disproportionately among founding-descendant families, not the far larger population who arrived later,
-  indirectly, via the Palmer City over-cap redistribution.
+  as part of the labor migration waves drawn from across the Palmer, Halley, Janbogo, Mirny, and Mawson
+  subnets.
 - **Finding 44** — formal civic administration (attribute #26) and practical elevator-chokepoint control
   are two only-partially-overlapping loci of power, never formally reconciled or contested.
 - **Finding 20** — Coober Pedy's own real precedent argues Byrd's founder/majority demographic tension
   resolves as genuine coexistence, not one side absorbing or replacing the other.
-- **`Byrd_Community_Infrastructure.md`** — the Elevator Halls and the founding-descendant/redistributed-
+- **`Byrd_Community_Infrastructure.md`** — the Elevator Halls and the founding-descendant/later-arrival
   majority fault line, both flagged as the strongest available anchors for future content.
 
 ---

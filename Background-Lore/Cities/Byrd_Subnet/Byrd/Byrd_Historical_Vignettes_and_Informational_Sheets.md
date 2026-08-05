@@ -169,7 +169,7 @@ exactly what that proximity would cost if the wall ever actually failed.
 Finding 10, presented here independent of that Finding's own argument about population tension, purely as a
 personal history.)*
 
-**"Ilkay Voss" *(placeholder, not developer-chosen)* is, per current understanding, the last surviving member
+**"Explorer Voss" *(placeholder, not developer-chosen)* is, per current understanding, the last surviving member
 of the all-robot crew that drove the original Arrastradora across unmapped territory during Byrd's founding
 expedition** — a robot old enough, given robots' established centuries-long lifespans, to personally
 remember terrain that predates every highway, every guild, and every generation of human residents currently
@@ -188,9 +188,10 @@ complete account:
   Foundation Keepers or Prospectors when a deep-tunnel question has no other answer.
 
 Voss's own knowledge predates the majority of Byrd's current population, most of whom arrived generations
-later via the Palmer City over-cap redistribution and have no personal connection to the founding at all
-(Finding 7). Whether Voss is widely known, quietly avoided, or simply not thought about by most residents day
-to day is not yet decided — this sheet establishes only the timeline, not the social reality around it.
+later as part of the waves of workers drawn to Byrd from across the Palmer, Halley, Janbogo, Mirny, and
+Mawson subnets, with no personal connection to the founding at all (Finding 7). Whether Voss is widely known,
+quietly avoided, or simply not thought about by most residents day to day is not yet decided — this sheet
+establishes only the timeline, not the social reality around it.
 
 ---
 

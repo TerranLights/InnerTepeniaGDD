@@ -4,7 +4,7 @@
 
 **Subnet:** Byrd ("Pacific") — subnet hub, and now (following Framheim and Little America's removal from canon) the subnet's only city
 **Status:** Survived — struggling; one of only three cities in Tepenia still functioning as a city at meaningful scale, alongside Concordia and Janbogo
-**Census Population:** 186,268 humans / 190,622 robots / 376,890 combined (Census I, rank 29th) — figures established 2026-07-03, Byrd's first-ever population data, via the Framheim/Little America redistribution plus a share of Palmer City's over-cap trim *(corrected 2026-07-05 — this line had drifted from the current Specs/Official_Population_Census.md figures)*
+**Census Population:** 186,268 humans / 190,622 robots / 376,890 combined (Census I, rank 29th)
 **Location:** Marie Byrd Land, West Antarctic Ice Sheet (~80°01'S, 119°31'W)
 
 **One-liner:** *A city founded underground before it ever stood on the surface, built by people who went looking for a "lost site" on the strength of old maps — the westernmost city in the Federation, and now, since its Ross Ice Shelf neighbors were struck from canon entirely, the last city its own subnet has left.*
@@ -23,7 +23,7 @@
 | Significant | Australia, Japan, South Korea, China |
 | Notable | Lithuania, Philippines, Thailand, Indonesia, Malaysia, Brazil, Croatia, Latvia, Netherlands, Slovakia, South Africa, Czech Republic, Uruguay, Vietnam, UK, Finland, New Zealand, Romania, Norway, Hungary, Ukraine, Russia, Germany, Belarus, Poland, France, Bulgaria, Chile, Argentina, Mexico, Italy, Slovenia, Spain, Belgium, Sweden, Serbia |
 
-*Byrd's composition is a genuine blend, resolved 2026-07-03: roughly three-quarters of its population traces to the removed Framheim/Little America Ross Ice Shelf cities, giving it their USA/Japan Pacific-corridor Primary and South Korea/Canada/Indonesia/Australia Significant tiers directly — but Framheim/Little America's own Notable tier was only two nations (New Zealand, Chile). The other 34 Notable-tier nations came entirely from the remaining quarter — the Palmer City portion of Byrd's population (relocated during Palmer City's own over-cap trim), which itself rode along with Palmer City's earlier 43-nation expansion project. Byrd's unusual breadth is therefore a direct, one-step-removed echo of Palmer City's own diversity, not an independent development — but the net effect is real: Byrd is now the second-most nationally diverse Tepenian city, after Palmer City itself.*
+*Byrd's composition reflects successive waves of arrival rather than a single founding population. The first wave — citizens, both robot and human, who came from the Palmer and Halley subnets specifically to establish Byrd and build the industrial center the country needed — gave the city its USA/Canada-led founding character. Larger waves followed generations later, drawn by the work Byrd's growing industry offered: more arrivals from Palmer and Halley, joined increasingly by workers from the Janbogo and Mirny subnets, and to a lesser extent Mawson. That broader, later migration is responsible for Japan, South Korea, China, and Australia's own Significant-tier presence, and for Byrd's wide, 36-nation Notable tier — a demographic breadth second only to Palmer City's own, the product of genuine multi-subnet migration rather than any single event.*
 
 **Re-tiered 2026-07-06, during this city's City Vision Notes session:** the original tiering had Japan at Primary ahead of the USA itself — Byrd's actual founding-operator nation. A hand-specified six-way rotation moved USA and Canada into Primary (matching founding heritage), with Australia, Japan, South Korea, and China filling Significant. Full detail in `Specs/Byrd.md`'s Founding Population Adjustment note.
 
@@ -59,7 +59,7 @@ Polar night ~108 days (April 28 – August 14); midnight sun ~128 days (October 
 
 Byrd's identity rests on two facts working together: it was founded underground, by people who chose the hardest possible route to get there, and it is now — following Framheim and Little America's removal from canon — the only city its own subnet has left. A city that always understood itself as remote just became, in a very literal sense, alone.
 
-- **a. Founding tension** — Not the usual founding-nation-vs-majority pattern (its composition is a genuine population blend, not a founding-vs-dilution story) — the real tension is between the deliberate, expedition-driven founding (people who chose Byrd specifically because it was difficult) and the demographic reality that most of its people arrived later, indirectly, as a redistribution consequence, having chosen nothing about Byrd specifically at all.
+- **a. Founding tension** — Not the usual founding-nation-vs-majority pattern (its composition is a genuine population blend, not a founding-vs-dilution story) — the real tension is between the deliberate, expedition-driven founding (people who chose Byrd specifically because it was difficult) and the demographic reality that most of its people arrived later, as part of the labor migration waves from across the Palmer, Halley, Janbogo, Mirny, and Mawson subnets, having chosen nothing about Byrd specifically at all.
 - **b. Fault lines** — Between the "founding character" (expedition-minded, self-sufficient, earned through the crossing itself) and the newly-arrived population blend's genuine breadth — Byrd's Notable tier is now nearly as diverse as Palmer City's, a strange fit for a city whose whole self-image is built around isolation and self-reliance.
 
 ---
@@ -179,7 +179,7 @@ Structurally embedded rather than socially marginal — the buried sections them
 
 ## 20. Private Life & Minority Communities
 
-The broad Notable tier (34 of 36 nations inherited specifically via the Palmer City portion of the population; New Zealand and Chile via Framheim/Little America) maintains identity through private, personal practice — Byrd's public civic face is organized around its founding American/Japanese Pacific-corridor character and its self-sufficiency ethos, not the newer population's own genuine diversity, which remains largely private for now.
+The broad Notable tier (36 nations, brought by the later labor migration waves) maintains identity through private, personal practice — Byrd's public civic face is organized around its founding American/Canadian character and its self-sufficiency ethos, not the newer population's own genuine diversity, which remains largely private for now.
 
 ---
 

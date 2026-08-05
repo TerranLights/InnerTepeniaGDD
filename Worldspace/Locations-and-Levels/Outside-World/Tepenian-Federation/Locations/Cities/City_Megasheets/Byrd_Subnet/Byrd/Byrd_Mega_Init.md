@@ -26,7 +26,7 @@
 
 ## Who Lives Here, and Why
 
-USA and Canada sit co-Primary (re-tiered 2026-07-06 to match Byrd's actual founding-operator heritage), with Australia, Japan, South Korea, and China at Significant. Beneath that sits a genuinely enormous Notable tier — 34 nations, nearly matching Palmer City's own diversity — inherited one step removed from Palmer City's own population overflow, riding along with the Framheim/Little America redistribution that gave Byrd its first population figures at all. The result is a strange, earned tension: a city whose founding character is tight, expedition-minded, and self-sufficient, now home to nearly the same demographic breadth as Tepenia's single most diverse city.
+USA and Canada sit co-Primary (re-tiered 2026-07-06 to match Byrd's actual founding-operator heritage), with Australia, Japan, South Korea, and China at Significant. Beneath that sits a genuinely enormous Notable tier — 34 nations, nearly matching Palmer City's own diversity — the product of successive labor migration waves that reached Byrd from across the Palmer, Halley, Janbogo, Mirny, and Mawson subnets long after its founding expedition. The result is a strange, earned tension: a city whose founding character is tight, expedition-minded, and self-sufficient, now home to nearly the same demographic breadth as Tepenia's single most diverse city.
 
 ---
 

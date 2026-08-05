@@ -74,5 +74,5 @@ the city's own fault. No Complication is deletable without losing the final choi
 This is the direct, Cradle-free replacement for the structural-crisis material Candidate #1 also drew on
 (chain #11, Finding 26) — same underlying hazard, but the stakes are reframed around general city safety and
 cross-guild resource allocation rather than protecting chamber output specifically. It pairs naturally with
-Candidate #4 (the founding-descendant/redistributed-majority tension), since a citywide resource decision is
+Candidate #4 (the founding-descendant/later-arrival majority tension), since a citywide resource decision is
 exactly the kind of moment that fault line would surface in practice.

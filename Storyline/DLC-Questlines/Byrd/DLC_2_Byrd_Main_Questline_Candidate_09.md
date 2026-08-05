@@ -38,7 +38,7 @@ shares.
 **THEREFORE** — The player has to work with the figure directly, not as a repair job but as a genuine
 negotiation, trying to find a way to preserve what matters before any technical fix proceeds.
 
-**BUT** — Finding 7's own founding-descendant/redistributed-majority tension surfaces in a new, sharply
+**BUT** — Finding 7's own founding-descendant/later-arrival majority tension surfaces in a new, sharply
 personal form. Founding-descendants treat this figure's memory as irreplaceable civic heritage worth real
 sacrifice to protect; much of the far larger, later-arrived population sees an urgent malfunction being
 delayed over sentiment, at real risk to the figure's own continued function.
