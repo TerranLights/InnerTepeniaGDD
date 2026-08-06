@@ -43,6 +43,30 @@ much leverage each one provides:
    `Reference_Images/` folder, a half-formed note in `TODO.md`. I can mine existing material directly rather
    than making you restate it.
 
+**Use this space for any of items 2-6 above** (item 1 just means: go fill in the Character Spec Sheet — no
+separate space needed for it here). None of these are required, and there's no wrong way to fill them in —
+loose, informal notes are exactly what this space is for.
+
+- **Comparison(s):**
+
+  TBD
+
+- **Scene(s) or image(s):**
+
+  TBD
+
+- **What you don't want:**
+
+  TBD
+
+- **Tone/vibe words:**
+
+  TBD
+
+- **Existing fragments to pull from:**
+
+  TBD
+
 ---
 
 ## Part A — Companion Questline
