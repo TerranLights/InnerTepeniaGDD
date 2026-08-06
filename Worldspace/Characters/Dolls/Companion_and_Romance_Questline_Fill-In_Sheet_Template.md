@@ -18,6 +18,31 @@ it into the actual mechanical shape (branch count, exact stat numbers, perk name
 personality, goal, values, and internal conflict from that sheet are exactly what the questions below draw
 from. This sheet is Part 2, not a replacement.
 
+**2026-08-06 update — these fields ask for conclusions, and you're not expected to hand me finished
+conclusions.** A core conflict, a capability gap, a courtship sequence — those are things I should be
+deriving, not things you need to invent from scratch. Here's what to give me instead, roughly in order of how
+much leverage each one provides:
+
+1. **A well-filled-out Character Spec Sheet — the biggest lever by far.** If her weakness, goal, values,
+   internal conflict, origin, current status, and relationships are already written down, I can usually draft
+   first-pass answers to most of Part A and Part B myself, because those things are supposed to fall out of
+   who she already is rather than get invented separately. Fill that sheet in reasonably well first, and I
+   should be able to hand you draft answers here for you to react to and adjust, rather than you generating
+   them from a blank page.
+2. **A comparison.** A real person, an existing fictional character, or another Doll already in this project
+   — "she's like X, but Y." A comparison plus one point of difference is very efficient raw material.
+3. **A single scene or image, however small.** Not a plot — one moment you can picture her in. Several of
+   this project's existing companions trace back to exactly one vivid scene or single-sentence idea rather
+   than a fully reasoned-out backstory.
+4. **What you don't want.** Ruling something out ("I don't want the romance to be slow-burn," "I don't want
+   her weakness to be that she's 'too nice'") narrows the space just as effectively as picking something.
+5. **Tone/vibe words.** A handful of adjectives for how her story should feel — bittersweet, wry,
+   triumphant-but-costly, uncomfortable-in-a-good-way — shapes the register of A4's costs and B4's beats even
+   before any specifics exist.
+6. **Whatever's already written about her**, even fragments — an existing `README.md` stub, her
+   `Reference_Images/` folder, a half-formed note in `TODO.md`. I can mine existing material directly rather
+   than making you restate it.
+
 ---
 
 ## Part A — Companion Questline

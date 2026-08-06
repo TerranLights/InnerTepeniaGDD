@@ -25,6 +25,24 @@ canonical baseline shared across all Tepenia-branded projects. Deliberately **ex
 Model, Original Doll Manufacturer, and Original Doll Website Catalog Page — those belong to the eventual
 standalone "Doll Wiki" site, not to in-universe personality development, per direct instruction.
 
+**2026-08-06 update — if you don't have a direct answer to a section, here's what to give me instead.** None
+of the sections below require you to already have a finished answer. If a section stalls you out, any of the
+following raw material works just as well, and I'll do the derivation:
+
+- **A comparison.** A real person you know, an existing fictional character, or another Doll already in this
+  project — "she's like X, but Y." A comparison plus one point of difference is usually enough for me to
+  pattern-match the rest.
+- **A single scene or image, however small.** Not a plot — just one moment you can picture her in: something
+  she says, something she's doing, how she reacts to one specific thing. Often enough to reverse-engineer a
+  much larger answer from.
+- **What you don't want.** Ruling something out ("I don't want her to be a generic tsundere," "I don't want
+  her weakness to be that she's 'too nice'") narrows the space just as effectively as picking something.
+- **Tone/vibe words.** A handful of adjectives for how she should feel overall — wry, quietly tragic, warm,
+  unsettling — even before any specifics exist.
+- **Whatever's already written about her**, even fragments — an existing `README.md` stub, her
+  `Reference_Images/` folder, a half-formed note in `TODO.md`. I can mine existing material directly rather
+  than making you restate it.
+
 ---
 
 ## 1. Identity Basics
