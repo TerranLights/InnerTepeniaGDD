@@ -49,6 +49,10 @@ civic identity already ran on function and evidence rather than sentiment. The p
 presence at Kunlun understood as a genuine safety hazard, not an ideological exclusion — traces directly to
 that one specific, evidence-driven review.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Expansion Okonkwo-Sato Pushed Through
@@ -69,6 +73,10 @@ mission. The expansion was approved and completed within her own tenure, and the
 produced became, afterward, treated as co-equal to the observatory's own astronomical program rather than
 subordinate to it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Stillness Ilkay Made Official
@@ -87,6 +95,10 @@ begun observing similar informal stillness periods on their own — a recognitio
 becoming communal whether or not Ilkay personally directed it to. The formalized observance that resulted
 kept Ilkay's own original individual practice as its structural core, simply extended to accommodate a
 devotional population that had already, informally, begun sharing it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -109,6 +121,10 @@ resolved, per what's established about the two cities' own ongoing relationship 
 record, Kunlun holds the colder raw conditions, and neither side has ever fully accepted the other's own
 framing of what that split actually means.
 
+// adjustments
+
+// visions
+
 ---
 
 ## When the Instruments Started Arriving From Everywhere
@@ -130,6 +146,10 @@ staff from every contributing tradition could actually work from afterward. The 
 settled, became simply how Kunlun's observatory operated, with few current staff aware it had ever needed to
 be negotiated at all.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Shift Where Both Reasons Were True at Once
@@ -148,6 +168,10 @@ incompatible with devotional observance. Both considered the shift entirely succ
 standards — the calibration completed correctly, the stillness observed faithfully — a small, concrete
 instance of exactly the coexistence Section IV describes: the same task, the same extreme conditions, two
 genuinely different relationships to both, neither one requiring the other to yield.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -168,6 +192,10 @@ Tepenia could actually provide. Nothing about the observatory's own antenna arra
 data went out; what became of it at the Tower's own end wasn't something Kunlun's staff had any way of
 tracking, or much reason to wonder about.
 
+// adjustments
+
+// visions
+
 ### The Cold Data Both Cities Finally Agreed to Share
 
 *(Shortly before the Tower's completion.)* Kunlun's and Vostok's own long-unresolved dispute over which city's
@@ -183,6 +211,10 @@ framing declared correct in front of an outside audience. The dispute itself rem
 afterward as before. The data went out anyway, cleanly, the same practical instinct that governed everything
 else about how both cities actually operated.
 
+// adjustments
+
+// visions
+
 ### The Stillness Kept Through an Unusually Busy Season
 
 *(Shortly before the Tower's completion.)* The polar-night stillness observance Ilkay had formalized generations
@@ -196,6 +228,10 @@ already established between task-driven staff and devotional observance held eve
 technical demand, technicians working through the calibrations and correspondence the season required while
 devotees present kept their own stillness exactly as faithfully as any ordinary polar night. Neither group
 treated the unusual busyness as a reason the other's own relationship to the conditions needed to change.
+
+// adjustments
+
+// visions
 
 ### The Array That Finally Carried the Whole Country
 
@@ -211,6 +247,10 @@ review and informal resident consultation a much earlier dispute over the array'
 established as standing practice. The structure's shape from the approach routes stayed recognizable. What it
 now carried reached considerably further than any signal it had ever carried before.
 
+// adjustments
+
+// visions
+
 ### The First Comparison Kunlun and Vostok Could Actually Run in Real Time
 
 *(Shortly after the Tower's completion.)* Kunlun's and Vostok's own research communities gained, for the first
@@ -224,6 +264,10 @@ colder, unverified modeled extremes. What changed was smaller and more practical
 per what's recalled of the shift, found themselves checking new readings against each other almost immediately
 rather than waiting for a formal exchange, a habit that didn't resolve the dispute but made the ongoing
 disagreement itself considerably easier to actually maintain with current information.
+
+// adjustments
+
+// visions
 
 ### The Devotee Who Watched the Stillness Spread
 
@@ -239,6 +283,10 @@ Kunlun's own −68°C polar-night calm, not a practice built for export. What th
 population accustomed to genuine isolation, was something closer to recognition: confirmation that other
 communities elsewhere, in their own way, understood the value of pausing to actually notice a moment worth
 noticing.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -258,6 +306,10 @@ less reliable than the other's. The underlying dispute remained exactly as unres
 still held the confirmed record, Kunlun still held the colder unverified extremes. What changed was that, for
 the first time, neither city could attribute the other's own numbers to inferior methodology.
 
+// adjustments
+
+// visions
+
 ### The Relay Vaults Question Mirny Finally Got Answered Directly
 
 Kunlun's own dependency on Mirny's own Relay Hardware Vaults — the intra-subnet Arcanet hub whose failure
@@ -270,6 +322,10 @@ Mirny's own technicians a question they'd carried for years: exactly how much re
 Marchenko had once fought for actually provided. Mirny's own technicians answered honestly — real but
 imperfect redundancy, the same compromise it had always been. Kunlun's own staff, per what's recalled of the
 response, found the honest answer more reassuring than a confident overstatement would have been.
+
+// adjustments
+
+// visions
 
 ### The Sediment Record Davis Sent Back With a Caveat Attached
 
@@ -284,6 +340,10 @@ a research community with no obligation to flag its own data's limitations to an
 atmospheric anomaly was eventually explained through other means. The caveat itself, freely offered, marked
 the first time either research tradition had extended that kind of professional courtesy to the other.
 
+// adjustments
+
+// visions
+
 ### The Turbine Data Signy's Engineers Finally Explained in Person
 
 Following the original energy-regulation delegation's visit to Signy, and the technical question left
@@ -297,6 +357,10 @@ original written analysis had included. Signy's own crews, per what's recalled o
 in-person explanation clarified several points the written version had left ambiguous. It marked the first
 time either city's own engineers had actually met the other in person, rather than exchanging findings purely
 through data alone.
+
+// adjustments
+
+// visions
 
 ### The First Devotee Contact With Dome Fuji, Later in the Same Era
 
@@ -314,6 +378,10 @@ historical record. What belongs to Kunlun's own account is simpler: the planning
 across a distance that would once have required the same slow correspondence every other pre-Tower
 cross-subnet contact had always depended on.
 
+// adjustments
+
+// visions
+
 ### The Comms Relay Question That Reached Kunlun From a City It Had Never Served
 
 Kunlun's own observatory-adjacent comms-relay expertise, already known nationally through the Tower-era
@@ -326,6 +394,10 @@ task-driven thoroughness that governed everything else the observatory did. The 
 resolved cleanly. What mattered more, per what's recalled of the exchange, was simpler: proof that a single
 consultation, once it happened, could keep generating new contact long after the original reason for it had
 been resolved.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -343,6 +415,10 @@ own researchers could simply ask Vostok directly whether a comparable substitute
 a level of mutual reliance neither station's own extreme-condition research could have sustained if the same
 question had needed to travel by the slow correspondence every subnet-external request depended on instead.
 
+// adjustments
+
+// visions
+
 ### The Relay Vaults That Made the Observatory Feel Less Alone
 
 Mirny's own Relay Hardware Vaults gave Kunlun's own observatory staff instant contact with the rest of the
@@ -354,6 +430,10 @@ per what's preserved of her own account, to remark that simply being able to ask
 an answer the same day made the station's own extreme physical isolation "feel like a choice rather than a
 sentence" — a small, human detail about what subnet-internal connectivity actually meant to people stationed
 somewhere this remote.
+
+// adjustments
+
+// visions
 
 ### The Sediment Comparison That Took a Season Longer Than It Needed To
 
@@ -367,6 +447,10 @@ subsequent digital comparison the two stations conducted afterward — a deliber
 researcher ever felt the need to repeat once the subnet's own instant line had proven reliable for the data
 that mattered.
 
+// adjustments
+
+// visions
+
 ### The Engineering Consultation That Traveled by Letter, Then by Delegation
 
 Signy's own genuine self-sufficient wind-and-hydro power system drew a specific engineering consultation from
@@ -378,6 +462,10 @@ The written phase, per what's preserved of the record, lasted the better part of
 questions and partial answers crossing back and forth at the pace of the mail, until Kunlun's own engineers
 concluded the underlying reliability discipline was similar enough to warrant sending someone in person rather
 than continuing to correspond indefinitely.
+
+// adjustments
+
+// visions
 
 ### The Observatory That Watched the Tower Rise Without Ever Speaking to It
 
@@ -392,6 +480,10 @@ confirming or correcting them until the Tower itself was finished. The observato
 infrastructure that would eventually end its own isolation being built, for years, in complete one-way
 silence.
 
+// adjustments
+
+// visions
+
 ### The Isolated Station That Never Once Heard From the Other
 
 Long before Ice Cold Buddhism ever connected them, Kunlun and Dome Fuji existed as two of Tepenia's most
@@ -404,6 +496,10 @@ than a brief administrative letter confirming neither station required anything 
 of contact between two facilities that would eventually become, in a much later era, each other's most
 important relationship in the country. At the time, they were simply strangers, each isolated in its own
 direction.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -420,6 +516,10 @@ Kunlun's own researchers, per what's preserved of the exchange, treated the requ
 seriousness Vostok had originally shown — confirming the figure within the day, closing the loop on a
 verification relationship that had, until this point, only ever run one way.
 
+// adjustments
+
+// visions
+
 ### The Relay Vaults Question That Finally Had a Complicated Answer
 
 Following the earlier honest answer about the Relay Vaults' own limitations, Mirny's own technicians sent
@@ -429,6 +529,10 @@ Kunlun's own comms staff pushed past what the original honest-but-brief answer h
 The exchange, per what's preserved of the record, took the better part of a working session to fully resolve
 — the first time Mirny's own honesty about the Vaults' own real limitations had been followed all the way
 through to a complete technical explanation rather than accepted at face value and left there.
+
+// adjustments
+
+// visions
 
 ### The Sediment Caveat Davis Finally Explained in Full
 
@@ -440,6 +544,10 @@ follow-up.
 Davis's own researchers, per what's preserved of the exchange, walked through the specific methodological
 limitation in detail — the first time the original caveat had been fully unpacked rather than simply noted
 and left for each side to interpret on its own.
+
+// adjustments
+
+// visions
 
 ### The Turbine Visit That Became a Standing Invitation
 
@@ -453,6 +561,10 @@ proof the original consultation had produced something more lasting than a singl
 genuine, ongoing engineering relationship between two cities whose own extreme-condition disciplines
 recognized each other on sight.
 
+// adjustments
+
+// visions
+
 ### The Observatory Data Amundsen Station Finally Requested Directly
 
 Following years of Kunlun's own observatory tracking the Amundsen Tower's construction optically without ever
@@ -465,6 +577,10 @@ compiled with no expectation anyone at the Pole would ever see it — proof that
 silent observation had produced a genuinely valuable record, now finally read by the one recipient who could
 actually confirm or correct it.
 
+// adjustments
+
+// visions
+
 ### The Second Inquiry That Confirmed the Reputation Was Real
 
 Following the original comms-relay question from a city Kunlun had never served, a second and then a third
@@ -476,6 +592,10 @@ Kunlun's own comms staff, per what's preserved of the pattern, answered each new
 plain, task-driven thoroughness as the first — proof that a single consultation, once it happened, really
 could keep generating new contact long after the original reason for it had been resolved, exactly as the
 first exchange had suggested it might.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -492,6 +612,10 @@ Signy, asked a related but less urgent verification question the same week, rece
 — a useful confirmation, eventually, but arriving well after Kunlun's own engineers had already resolved the
 original anomaly one way or the other without it.
 
+// adjustments
+
+// visions
+
 ### The Relay Log Davis Requested and Received Whole
 
 A comms-relay technical log requested by Davis, hoping to understand how Kunlun's own equipment handled a
@@ -502,6 +626,10 @@ A subnet-external researcher requesting the same category of log had to specify 
 sections would be useful, since sending the complete record by mail simply wasn't practical — receiving,
 instead, a carefully excerpted version assembled specifically for the request.
 
+// adjustments
+
+// visions
+
 ### The Sediment Sample Mirny Confirmed Before the Season Ended
 
 A sediment sample comparison run jointly with Mirny, coordinated entirely over the subnet's own line, was
@@ -511,6 +639,10 @@ than assembled after the fact from separately compiled reports.
 A comparable comparison attempted with Amundsen Station required physically transporting samples partway,
 since neither the samples themselves nor a sufficiently detailed description of them could travel by any
 faster means — the research question, in the end, taking considerably longer to answer.
+
+// adjustments
+
+// visions
 
 ### The Consultation Signy Requested in Writing and Received in Person
 
@@ -523,6 +655,10 @@ A parallel consultation with Davis, conducted entirely over the subnet's own lin
 complex question without any travel at all — the same category of expertise, available at two very different
 costs depending on which line separated the two parties.
 
+// adjustments
+
+// visions
+
 ### The Silence Toward Dome Fuji That Wasn't Personal
 
 Kunlun's own total absence of contact with Dome Fuji — a genuinely notable gap, given how comparably isolated
@@ -534,6 +670,10 @@ Vostok, asked directly by a Kunlun researcher whether it had any contact with Do
 didn't — the three most isolated stations in the country, per this exchange, simply hadn't yet found reason to
 discover each other.
 
+// adjustments
+
+// visions
+
 ### The Isolation That Observation Couldn't Actually See Past
 
 Kunlun's own defining function — built entirely around observation, watching outward — didn't extend to its
@@ -544,3 +684,7 @@ Signy and Amundsen Station.
 Kunlun's own staff, per a surviving internal note, found a certain irony worth remarking on — a station built
 to watch the widest possible sky still had to send its own most detailed findings home the same slow way as
 anyone else.
+
+// adjustments
+
+// visions

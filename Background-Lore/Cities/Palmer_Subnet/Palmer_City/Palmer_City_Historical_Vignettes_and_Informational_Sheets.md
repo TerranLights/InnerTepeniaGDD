@@ -40,6 +40,10 @@ buildings on the southernmost accessible point of the world, discovering it alre
 celebrating rather than only surviving. The evening had no name at the time. "Needle Down" formalized it
 generations later, but every year's own observance still traces back to that one unplanned night.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Palmer City Sent North to Find Byrd
@@ -60,6 +64,10 @@ contributed isn't preserved in detail, but the act itself became one small, earl
 own established civic instinct: a city defined by welcoming everyone who arrived was, from early in its own
 history, equally willing to help find people it hadn't met yet.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Agreement Nobody Announced
@@ -78,6 +86,10 @@ tourism revenue — without needing public credit for having struck the deal. Wh
 system everyone involved relied on daily, administered quietly rather than celebrated as the significant
 diplomatic first it actually was — a genuine treaty-adjacent achievement that neither side ever wanted framed
 as one.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -98,6 +110,10 @@ Vaskarre, one of the relatively few people connected to the city — that actual
 own specific names aren't preserved in what's currently established; what survives is the flag itself, and
 the fact that someone, without being told to, decided it couldn't be risked.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Room Named After a City That Never Apologized for Itself
@@ -117,6 +133,10 @@ eventually earn it. Generations of subsequent success, culminating in the room's
 the closest thing Palmer City has to a St. Petersburg-style declaration that "we willed this into existence
 and it worked," is generally read as having closed that gap entirely.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Neighborhood Named for a City Palmer City Never Saw
@@ -135,6 +155,10 @@ built entirely from historical knowledge and resonance rather than lived memory,
 own broader Montreal-parallel character developed without direct connection to the real city it echoed.
 Residents today generally know the reference exists without necessarily knowing its full history — the name
 outlasted, for most of the neighborhood's own population, the specific knowledge of exactly why it was chosen.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -157,6 +181,10 @@ economy on welcoming strangers. The engineers left no more identifiable than the
 evening in the grandest room on the continent without anyone else in it ever learning what they'd actually
 been building.
 
+// adjustments
+
+// visions
+
 ### The Question Machu Picchu Base Asked Without Asking Directly
 
 *(Shortly before the Tower's completion.)* Through the same quiet, unannounced channel that had long handled
@@ -172,6 +200,10 @@ side saw any reason to hand Upper Earth a fuller picture than tourism administra
 never escalated on either side. It stands, in retrospect, as one of the only moments before the Tower's
 completion when Upper Earth came anywhere close to understanding what Tepenia was actually finishing.
 
+// adjustments
+
+// visions
+
 ### The Late Shipment No One Wanted to Talk About
 
 *(Shortly before the Tower's completion.)* A Hwy 1 freight run, routed through Palmer City's own boat crossing
@@ -186,6 +218,10 @@ working the crossing that week was told what the components were for, and most, 
 period, didn't especially want to know — moving cargo without asking questions being, by then, as established
 a Palmer City instinct as welcoming tourists without asking why they'd come.
 
+// adjustments
+
+// visions
+
 ### The First Broadcast Needle Down Ever Sent Beyond Palmer City
 
 *(Shortly after the Tower's completion.)* The dusk-to-dawn live-music observance that had, for generations,
@@ -198,6 +234,10 @@ unplanned origins, where nobody had a formal plan for the records either until s
 came back, in the following days, were the first genuine reactions Palmer City had ever received from people
 who'd never once set foot in the city — proof, arriving faster than anyone expected, that "Needle Down" had
 always been good enough to travel.
+
+// adjustments
+
+// visions
 
 ### The Night the Petrograd Room's Tables Filled With Strangers Who'd Never Heard of It
 
@@ -213,6 +253,10 @@ The Petrograd Room had been built, generations earlier, on a bet that its own na
 The Tower's completion was the first time that bet paid out to an audience the room's founders had never
 expected to reach at all.
 
+// adjustments
+
+// visions
+
 ### The Ledger That Finally Reconciled Itself
 
 *(Shortly after the Tower's completion.)* Palmer City's own commercial accounts with trading partners across
@@ -227,6 +271,10 @@ trader, per informal accounts, admitted missing the puzzle of it. What the ledge
 the adjustment period passed, was simpler: a subnet hub built on a boat crossing and a highway waypoint had
 just had the single largest source of friction in its own trade relationships quietly removed, generations
 into an economy that had never known anything else.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -248,6 +296,10 @@ did, per what's remembered of the period, that the records office found itself h
 genealogical requests it had never previously had reason to expect, all traceable to the same generations-long
 migration finally becoming something families could actually follow up on.
 
+// adjustments
+
+// visions
+
 ### The Consultation Two Hospitality Economies Never Thought to Have
 
 Palmer City's own entertainment-and-casino economy and Mawson's own honeymoon-destination hospitality
@@ -263,6 +315,10 @@ result. Both administrations, per what's preserved of the exchange, came away wi
 worth adapting — proof that two cities built around entirely different kinds of hospitality could still learn
 something concrete from each other once actually given the chance to talk shop.
 
+// adjustments
+
+// visions
+
 ### The Design Petrograd Room Staff Never Expected to Be Asked About
 
 A Lazar commercial developer's own study of the Petrograd Room's layout and lighting design, undertaken while
@@ -276,6 +332,10 @@ information about lighting and layout, offered without treating the request as a
 handling. Whatever Lazar's own developers eventually built from the answer isn't part of what Palmer City
 itself preserved. The room that had once needed generations to earn its own imperial-ambition name had, for
 the first time, been consulted by another city's own commercial planners as a genuine design authority.
+
+// adjustments
+
+// visions
 
 ### The Corridor Sejong and Juan Carlos Finally Coordinated in Real Time
 
@@ -292,6 +352,10 @@ receive visitors on the busiest days. The corrected joint schedule that resulted
 the gateway corridor had apparently been absorbing, unnoticed, for as long as the arrangement itself had
 existed.
 
+// adjustments
+
+// visions
+
 ### The Byrd Delegation That Came to See Where Their Own Families Had Started
 
 Once the first wave of family reconnection between Palmer City and Byrd had run its course, a specific
@@ -306,6 +370,10 @@ connection to Palmer City had been marked with anything resembling ceremony rath
 quiet fact of family history. Several delegation members, per what's remembered of the visit, described the
 experience as recovering a piece of their own family history they'd never expected to actually be able to see
 in person.
+
+// adjustments
+
+// visions
 
 ### The Machu Picchu Question Palmer City Could Finally Ask Sejong Directly
 
@@ -322,6 +390,10 @@ preserved of the exchange, was simpler: Palmer City's own tourism economy, depen
 decisions made somewhere else in the corridor, could for the first time actually ask a question directly
 rather than waiting for policy to arrive through however many intermediate steps it had always previously
 required.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -340,6 +412,10 @@ office nearly two months after it had already taken effect at the border itself 
 the old assumption, and Palmer City's own staff scrambling to catch up on rules that had been live the entire
 time they'd been operating under outdated information.
 
+// adjustments
+
+// visions
+
 ### The Casino Petrograd Room Copied From a Description, Not a Visit
 
 Lazar's own maglev-and-holographic commercial density had a real, if entirely secondhand, influence on Palmer
@@ -352,6 +428,10 @@ Lazar's own Junction Markets — a design process built entirely on secondhand d
 digital crossed from the Palmer subnet into the Halley subnet and no correspondence moved faster than the mail
 carrying it.
 
+// adjustments
+
+// visions
+
 ### The Family Records Byrd Couldn't Simply Send
 
 Byrd's own population, drawn substantially from successive waves of Palmer City emigration, meant a
@@ -363,6 +443,10 @@ resolve — the inquiry traveling out along Hwy 1 through the Byrd corridor, and
 office searching its own holdings before mailing a reply back the same long route. Palmer City's own residents
 who pursued these searches understood, going in, that "sent" and "received" for anything addressed to Byrd
 were rarely separated by less than several months.
+
+// adjustments
+
+// visions
 
 ### The Hospitality Comparison Mawson Never Got to Make Directly
 
@@ -377,6 +461,10 @@ from the Palmer subnet through however many intermediate steps a letter bound fo
 By the time the exchange concluded, the administrator's own department had already implemented several changes
 based on secondhand reports that turned out, per the eventual letter, to be substantially accurate anyway.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Finally Got to Ask in Person
 
 A Byrd delegation, curious about the old emigration-era records that connected a share of Byrd's own
@@ -388,6 +476,10 @@ rest of the Palmer subnet on established roads — days of travel to have a conv
 City's own subnet, any comparable inquiry to Sejong or Juan Carlos could have completed the same afternoon.
 Palmer City's own civic archivists, per what's preserved of the visit, treated the delegation's own willingness
 to make the trip as proof of how much the connection actually mattered to the people asking about it.
+
+// adjustments
+
+// visions
 
 ### The Booking Confirmed Twice, an Hour Apart and a Season Apart
 
@@ -401,6 +493,10 @@ within a single afternoon's exchange. The Mawson half took most of the preceding
 crossing back and forth until both sides finally agreed on shared scheduling. Palmer City's own planners, per
 what's remembered of the process, had long since stopped finding the disparity strange — it was simply how
 business worked, fast inside the subnet and slow the moment it left.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -418,6 +514,10 @@ demand for the first time in its own history, per what's preserved of the record
 precision the city's own tourism economy had simply never had access to before the two offices' relationship
 matured from case-by-case cooperation into standing shared infrastructure.
 
+// adjustments
+
+// visions
+
 ### The Archive Request That Finally Explained an Old Palmer City Rumor
 
 A long-standing, never-confirmed local rumor about a founding-era figure's own disputed role in Palmer City's
@@ -428,6 +528,10 @@ generations.
 The historian's own account, per what's preserved of the record, described the discovery as almost
 anticlimactic — the actual answer had been available the entire time, just never reachable by anyone in
 Palmer City who had reason to look for it before direct archive access existed.
+
+// adjustments
+
+// visions
 
 ### The Reciprocal Consultation Mawson Never Expected to Give
 
@@ -441,6 +545,10 @@ time the consultation relationship between the two cities had run in both direct
 previously been an entirely one-sided flow of expertise from the smaller, quieter hospitality city toward the
 larger, louder one.
 
+// adjustments
+
+// visions
+
 ### The Byrd Family Whose Reunion Became an Annual Thing
 
 Following the first Byrd delegation's own emotional visit to Palmer City tracing old emigration-era family
@@ -452,6 +560,10 @@ Palmer City's own civic archivists, per what's preserved of the record, began ke
 emigration-era families had reconnected and which hadn't — an informal project that grew directly out of
 watching one emotional reunion become, unexpectedly, a repeatable pattern rather than a singular event.
 
+// adjustments
+
+// visions
+
 ### The Petrograd Room Specifications Lazar Actually Received
 
 Following Palmer City's own earlier design borrowing from secondhand descriptions of Lazar's own commercial
@@ -462,6 +574,10 @@ reference rather than passed along as travelers' impressions.
 Palmer City's own designers, per what's preserved of the exchange, found the request slightly surreal — a
 room originally built from a secondhand description of Lazar's own commercial district was now, itself, being
 requested as a reference by architects in the very city that had unknowingly inspired it.
+
+// adjustments
+
+// visions
 
 ### The Night Palmer City's Own Broadcasts Reached Every City at Once
 
@@ -475,6 +591,10 @@ the audience actually was until afterward — reports of the broadcast being hea
 own residents Palmer City had never previously had any reason to think of as an audience at all. The city
 that had always been alive locally discovered, that night, it had been heard nationally the whole time it
 simply hadn't had the means to know it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -491,6 +611,10 @@ enough in advance to arrange transport, had to send the request weeks ahead and 
 by return post — often out of date by the time it reached them, since Palmer City's own lineup rarely settled
 that far in advance.
 
+// adjustments
+
+// visions
+
 ### The Casino Floor Marambio Could Watch Fill In Real Time
 
 Marambio's own logistics office, coordinating a dual port-and-airport delivery of gaming equipment to Palmer
@@ -500,6 +624,10 @@ avoid the venue's busiest hours without needing to ask anyone directly.
 The same equipment class, ordered separately by a subnet-external buyer for a smaller venue elsewhere, arrived
 on a fixed schedule set weeks in advance with no ability to adjust for local conditions — the flexibility
 Palmer City and Marambio took for granted simply had no cross-subnet equivalent.
+
+// adjustments
+
+// visions
 
 ### The Letter That Took Longer to Arrive Than the Festival It Announced
 
@@ -511,6 +639,10 @@ Port Lockroy, invited to the same festival over the subnet's own line, confirmed
 the two invitations, sent within hours of each other, landing on wildly different timelines for no reason but
 which side of the subnet boundary the recipient sat on.
 
+// adjustments
+
+// visions
+
 ### The Petrograd Room's Own Sister Table in Sejong
 
 A card game invented informally on the Petrograd Room's own gaming floor spread to Sejong within a season,
@@ -520,6 +652,10 @@ running it as a minor local variant almost as soon as Palmer City itself had set
 A visitor from further away who'd heard secondhand rumors of the game had no way to actually learn it except
 by traveling to Palmer City in person — no rulebook existed yet to send by mail, and the game itself was still
 too new and too locally specific to describe adequately in a letter.
+
+// adjustments
+
+// visions
 
 ### The Delegation Signy Sent to Study What It Couldn't Simply Ask About
 
@@ -531,6 +667,10 @@ Juan Carlos, requesting the same category of information over the subnet's own l
 answer inside a week — the same expertise, offered just as readily, reaching one subnet-mate in days and
 costing the other city a multi-week journey to obtain in person.
 
+// adjustments
+
+// visions
+
 ### The City That Was Loud Locally and Quiet Everywhere Else
 
 Palmer City's own reputation as a rival to Las Vegas, New Orleans, and St. Petersburg was, before the Tower,
@@ -541,3 +681,7 @@ the subnet knew of it mostly by reputation, secondhand, and considerably delayed
 Palmer City's own civic planners, per a surviving internal memo, understood this asymmetry plainly: the city
 was already everything its later national reputation would describe, it simply hadn't yet had a way to prove
 it to anyone who hadn't been there to see it themselves.
+
+// adjustments
+
+// visions

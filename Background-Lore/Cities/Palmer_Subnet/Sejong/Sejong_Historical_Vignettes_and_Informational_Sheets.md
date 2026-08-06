@@ -45,6 +45,10 @@ forever. It was adopted anyway, for lack of any formula every community could ac
 negotiation process it created became the Hall's own permanent function — Sejong's founding agreement was, in
 the end, an agreement to keep negotiating rather than a settlement of what was actually being negotiated over.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Accord Nobody Was Fully Happy With
@@ -64,6 +68,10 @@ solved, never actually went away. Few Sejong civic holidays carry this specific 
 pride in a real, functioning agreement, held alongside honest awareness of exactly what that agreement never
 managed to fix.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Spire Nobody Would Fund Alone
@@ -82,6 +90,10 @@ communities working the same site simultaneously, an unusual arrangement for fou
 Spire's own later status as the one landmark none of the dozen communities could claim exclusively traces
 directly back to this — nobody could claim sole credit for a structure literally built through the same
 cross-community negotiation apparatus that governed everything else about how Sejong actually functioned.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -104,6 +116,10 @@ larger standing supply buffers were the only realistic mitigation. The incident 
 whenever Sejong's own relationship to the rest of the subnet needs a concrete illustration: reached
 deliberately, never casually, and vulnerable to exactly the kind of delay that crossing once actually produced.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Foothold That Joined Last
@@ -123,6 +139,10 @@ extended once it was established. The foothold's own formal absorption, once it 
 Sejong's own civic structure reaching genuine island-wide completeness — the last community to join, joining
 on terms it had actually negotiated for itself rather than simply accepting.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Foundation That Cracked in Its First Wet Season
@@ -141,6 +161,10 @@ lesson with the genuinely unusual demands of dense, boundary-sensitive multinati
 engineering standards distinct from ordinary Tepenian practice as a direct result — the specific, costly
 incident that put wet-climate drainage engineering on equal footing with snow-load engineering in how Sejong's
 own builders were subsequently trained.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -163,6 +187,10 @@ funding formula generations earlier. No single community secured the arrangement
 was, in the end, split across several footholds simultaneously — one more allocation the Hall had managed
 without ever actually resolving what it was managing.
 
+// adjustments
+
+// visions
+
 ### The Beacon Pressed Into a Different Kind of Service
 
 *(Shortly before the Tower's completion.)* The Lighthouse Spire — already the one landmark none of Sejong's
@@ -179,6 +207,10 @@ The tallest structure on the island, built because no single community could cla
 anything this large, turned out to be exactly the kind of infrastructure a project this size needed passing
 through it.
 
+// adjustments
+
+// visions
+
 ### The Accord Article Nobody Had Ever Needed to Invoke
 
 *(Shortly before the Tower's completion.)* A specific, rarely-cited clause of the Neighbors' Accord — covering
@@ -193,6 +225,10 @@ written to manage — and found, somewhat to their own surprise, that the clause
 without requiring the kind of renegotiation everything else on the island seemed to. It stands as a small,
 specific vindication of Han Ji-woo's own original instinct: an agreement built to keep negotiating indefinitely
 turned out to already contain the answer, once, to a question nobody had thought to ask it when it was written.
+
+// adjustments
+
+// visions
 
 ### The First Word Sejong's Dozen Communities Received at the Same Moment
 
@@ -210,6 +246,10 @@ It did give every community on the island, for the first time, the exact same st
 instant — a small thing, by the scale of what the Tower represented nationally, that nonetheless mattered
 enormously to a city built the way Sejong was.
 
+// adjustments
+
+// visions
+
 ### The Spire's New Function, Finally Named
 
 *(Shortly after the Tower's completion.)* Arcanet relay infrastructure, added directly to the Lighthouse
@@ -224,6 +264,10 @@ no single foothold claiming credit. Residents marking the change afterward noted
 surprising: the one structure every community on the island had always shared became, almost inevitably, the
 one structure through which the island first shared something with everyone else in the country too.
 
+// adjustments
+
+// visions
+
 ### The Comparison Sejong Finally Got to Make
 
 *(Shortly after the Tower's completion.)* Direct word reached Sejong, for the first time, of how other
@@ -237,6 +281,10 @@ the Accord had always managed without fully resolving. What the exchange did off
 confirmation that Sejong's own particular difficulty wasn't unique to King George Island's own crowded ground —
 a small, specific comfort, arriving decades into an arrangement that had never claimed to be more than a
 functioning compromise in the first place.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -257,6 +305,10 @@ naming heritage. Hearing all three describe their own relationship to that share
 conversation, for the first time, gave the asymmetry a concreteness none of the three cities' own individual
 records had ever quite captured on their own.
 
+// adjustments
+
+// visions
+
 ### The Negotiation Hall Question Abowasa Actually Answered
 
 Sejong's own Negotiation Hall — the standing, case-by-case dispute-resolution process governing King George
@@ -272,6 +324,10 @@ useful: confirmation that their own smaller-scale, more informal household-level
 version of Sejong's own process, simply a genuinely different solution to a comparable problem at a different
 scale.
 
+// adjustments
+
+// visions
+
 ### The Tourism Schedule the Gateway Corridor Finally Synced
 
 The Machu Picchu gateway corridor — running through Sejong's own Border Authority infrastructure toward Juan
@@ -285,6 +341,10 @@ Palmer City's own hospitality capacity on the corridor's busiest days. The corre
 immediately, smoothed a friction point the gateway had apparently absorbed, unremarked, for as long as the
 arrangement had existed.
 
+// adjustments
+
+// visions
+
 ### The Spire's Weather Reports Now Reaching Places That Had Never Asked
 
 The Lighthouse Spire, already carrying Arcanet relay infrastructure alongside its own founding lighthouse and
@@ -296,6 +356,10 @@ Spire staff, drawn from multiple communities per the same rotating-crew traditio
 construction had established, handled the new outside requests the same unceremonious way they handled
 everything else — accurate readings, sent promptly, without particular interest in who was asking or why a
 city with no prior connection to Sejong suddenly wanted King George Island's own weather data.
+
+// adjustments
+
+// visions
 
 ### The Delegate Sinheung Sent to Study the Negotiation Hall Directly
 
@@ -311,6 +375,10 @@ only knowing of it in the abstract. Whether Sinheung ultimately adapted anything
 preserved. The visit itself, prompted by nothing more than a secondhand mention that could now actually be
 followed up on, was the genuinely new thing.
 
+// adjustments
+
+// visions
+
 ### The Coalescence Comparison That Finally Went Both Directions
 
 Following Lazar's own inquiry to Sejong about how Sejong's own standing negotiation process had managed
@@ -323,6 +391,10 @@ absorb a comparable identity shift through sheer accumulated demographic drift, 
 managing it, and still arrive somewhere functional. Sejong's own process remained exactly as it had always
 been. The comparison simply gave its own coordinators, for the first time, a genuine alternative case study to
 weigh it against.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -341,6 +413,10 @@ and which were still pending — coordination that, extended to a subnet-externa
 required the visitor herself to carry confirmation paperwork physically rather than have it simply exist on
 both ends already.
 
+// adjustments
+
+// visions
+
 ### The Immigration Question Juan Carlos Answered Before the Traveler Left the Hall
 
 Juan Carlos's own immigration processing and Sejong's own Border Authority operated closely enough, over the
@@ -352,6 +428,10 @@ before — resolved through a brief real-time exchange rather than the formal wr
 office would otherwise have had to file and wait on. The traveler's own paperwork was corrected on the spot,
 a level of immediate resolution neither office could offer anyone whose case touched a subnet-external
 authority instead.
+
+// adjustments
+
+// visions
 
 ### The Kinship Letter That Outlasted Its Own Sender's Patience
 
@@ -365,6 +445,10 @@ entirely different Hall project by the time Janbogo's own reply finally arrived 
 if considerably less urgency than the original question had carried, a pattern of subnet-external
 correspondence Sejong's own staff had learned to simply expect.
 
+// adjustments
+
+// visions
+
 ### The Demographic Study Sinheung Couldn't Simply Send Over
 
 The same Korean-founded kinship connecting Sejong to Sinheung prompted a formal demographic comparison —
@@ -377,6 +461,10 @@ final comparison, largely because each clarifying question required its own full
 own Hall coordinators, once the comparison finally concluded, noted the two cities' founding compositions were
 close enough to be genuinely interesting — a conclusion reached the slow way, letter by letter.
 
+// adjustments
+
+// visions
+
 ### The Governance Question Abowasa Answered With Genuine Care
 
 Abowasa's own live, day-to-day multinational negotiation and Sejong's own standing Negotiation Hall process
@@ -387,6 +475,10 @@ Abowasa's own reply, per what's preserved of the letter, took considerable care 
 own negotiations actually worked day to day — a genuinely thoughtful response, mailed across the distance
 from the Halley subnet, that Sejong's own coordinators found more useful in its specificity than several
 comparable exchanges with cities they'd expected to have more in common with.
+
+// adjustments
+
+// visions
 
 ### The Reciprocal Letter Lazar Sent Before Sejong's Own Question Arrived
 
@@ -399,6 +491,10 @@ Sejong's own reply, per what's preserved of the exchange, took months to draft p
 Lazar — a genuinely candid account of the Hall's own rare failures, sent the same slow way every exchange
 between the two cities had always traveled, since nothing digital had ever crossed the distance between them
 before the Tower.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -416,6 +512,10 @@ in advance rather than in response. What mattered, per what's recalled locally, 
 corridor had gone from reactive to genuinely predictive, the first time either office could say with
 confidence that a problem had been prevented rather than merely resolved quickly.
 
+// adjustments
+
+// visions
+
 ### The Archive Question That Went Straight From Sejong to Amundsen Station Through Juan Carlos
 
 A specific historical question about the gateway corridor's own founding-era administrative structure,
@@ -427,6 +527,10 @@ The answer, per what's preserved of the exchange, took the combined effort of al
 together — no single one held the complete picture, but together they closed a question none of them could
 have answered alone.
 
+// adjustments
+
+// visions
+
 ### The Third City the Korean-Founded Conversation Finally Included Properly
 
 Building on the earlier three-way conversation between Janbogo, Sejong, and Sinheung, the three cities'
@@ -437,6 +541,10 @@ The standing arrangement, per what's preserved of its own early record, produced
 result once Sejong's own Negotiation Hall adapted a specific dispute-resolution technique it had learned
 existed at Janbogo — the first time the "kin, not siblings" relationship between the three Korean-founded
 cities had actually changed how one of them operated, rather than simply confirming a shared heritage.
+
+// adjustments
+
+// visions
 
 ### The Manufacturing Question Sinheung Sent That Sejong Couldn't Answer Alone
 
@@ -450,6 +558,10 @@ The eventual answer, per what's preserved of the exchange, was more nuanced than
 have given alone — genuinely representative of the island's own multi-community governance, in a way Sinheung's
 own engineers, expecting a simple answer, hadn't anticipated.
 
+// adjustments
+
+// visions
+
 ### The Second Letter Lazar Never Had to Send
 
 Following the earlier candid, months-delayed exchange about the Negotiation Hall's own rare failures, Lazar's
@@ -462,6 +574,10 @@ candidly in real time as they had in the original careful letter — proof that 
 required time to build up the courage for could hold up just as well at conversational speed, once trust
 between the two cities had already been established the slow way first.
 
+// adjustments
+
+// visions
+
 ### The Negotiation Hall Consulted by a City It Had Never Once Corresponded With
 
 A city with no prior relationship to Sejong at all reached the Negotiation Hall directly for the first time,
@@ -473,6 +589,10 @@ Sejong's own coordinators, per what's preserved of the response, answered with t
 they extended to every inquiry — the first time the island's own decades of accumulated governance experience
 had been sought out by a city whose own name Sejong's own Hall staff hadn't previously had any reason to
 know.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -489,6 +609,10 @@ A comparable visiting party from Janbogo, coordinating the same category of visi
 equivalent safety net — a scheduling change on Sejong's end, communicated only by return post, arrived after
 the Janbogo delegation had already departed, requiring an awkward on-arrival adjustment instead.
 
+// adjustments
+
+// visions
+
 ### The Negotiation Juan Carlos Could Rejoin After Stepping Away
 
 A multi-party negotiation hosted at Sejong's Negotiation Hall, with Juan Carlos's own representative
@@ -500,6 +624,10 @@ A representative from Abowasa, participating in a related negotiation by an exch
 could offer only a single fixed position per round — no ability to step back in mid-discussion once a letter
 had already been sent, each contribution final until the next full mail cycle allowed a revision.
 
+// adjustments
+
+// visions
+
 ### The Immigration Case Sejong Couldn't Close Without the Mail
 
 An immigration case involving a family with ties to Sinheung required Sejong's own Hall staff to wait on a
@@ -509,6 +637,10 @@ the better part of a season while the confirmation made its way back.
 An equivalent case involving a family connected instead to Palmer City was resolved within days, Sejong's own
 staff cross-referencing the necessary records directly over the subnet's line rather than waiting on anything
 to physically arrive.
+
+// adjustments
+
+// visions
 
 ### The Governance Study Abowasa Received in Installments
 
@@ -521,6 +653,10 @@ Juan Carlos, requesting the same study over the subnet's own line, simply watche
 real time as Sejong's staff wrote it — no installments necessary, since the whole process was visible as it
 happened rather than needing to be parceled out by mail.
 
+// adjustments
+
+// visions
+
 ### The Reciprocal Trade Question Lazar Answered a Full Season Later
 
 A trade coordination question sent to Lazar, hoping to align Sejong's own diplomatic calendar with Lazar's
@@ -531,6 +667,10 @@ The same category of coordination, run with Palmer City over the subnet's own li
 single week — several rounds of adjustment completed in the time it took Lazar's own letter to make just one
 of its own necessary round trips.
 
+// adjustments
+
+// visions
+
 ### The Hall That Gathered the Subnet Instantly and the Country Slowly
 
 Sejong's own defining civic talent — gathering many different neighbors and giving each one somewhere to
@@ -540,3 +680,7 @@ Juan Carlos could be woven into any given negotiation or arrangement in real tim
 Cities outside the subnet were gathered too, eventually, and just as genuinely — but always on the mail's own
 timeline rather than the Hall's, a fact Sejong's own coordinators accepted as simply the shape diplomacy took
 whenever a subnet boundary stood between the island and whoever it was trying to include.
+
+// adjustments
+
+// visions

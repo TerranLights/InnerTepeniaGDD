@@ -43,6 +43,10 @@ distinction Mèi Sun drew — a name kept deliberately, an administration not mo
 established about the city's own civic identity, the founding articulation Zhongshan's population still
 measures its own relationship to history against.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The First Piece No One Understood Right Away
@@ -63,6 +67,10 @@ compromise on became, afterward, the defining characteristic of the whole tradit
 "a Zhongshan composition takes time to understand" tracing directly back to one composer's own refusal to
 shorten a piece that confused its first audience.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Craftsman Who Made a Trade Into an Institution
@@ -80,6 +88,10 @@ craftspeople, several of whom saw no need to formalize a trade they already prac
 accept shared standards and mutual accountability. The Crossing Quarter, where the city's woodworkers,
 ceramicists, and metalworkers still concentrate today, grew directly out of that consolidation — proximity
 and shared standard reinforcing each other once Táng Wǔ's own proposal actually took hold.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -99,6 +111,10 @@ the work meaningful. The full 60-day performance format that resulted required c
 than any prior Zhongshan musical tradition had needed, becoming, once established, the format every
 subsequent performance of the Suite has followed rather than the compressed alternative ever being revisited.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Actually Got Decided at the Standing Stone
@@ -115,6 +131,10 @@ deliberate selection. The dispute was resolved there, informally, without any ne
 intervention. Residents facing comparable disputes in the years that followed began bringing them to the same
 site by the same logic, until the Standing Stone's own function as informal neutral ground for exactly this
 kind of resolution became simply understood rather than something anyone had to propose again.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -133,6 +153,10 @@ poor silverfish run was never conclusively determined, but the response to it �
 primary-food fallback rather than purely supplementary — became, afterward, standing practice each season
 regardless of how the silverfish run was actually going, a precaution born from one specific year's own
 uncertainty rather than assumed reliability ever since.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -153,6 +177,10 @@ routine production. The order shipped meeting spec. Nobody in the Crossing Quart
 ultimately built into; the Quarter's own reputation for precision, generations after Táng Wǔ first
 institutionalized it, simply held under a demand nobody had specifically designed the tradition to anticipate.
 
+// adjustments
+
+// visions
+
 ### The Request the Long Record Had Never Received From So Far Away
 
 *(Shortly before the Tower's completion.)* The Long Record — Zhongshan's primary archive, custodian of the
@@ -167,6 +195,10 @@ close to a continental level — but supplied what the archive did hold regardle
 honest completeness that had made the Long Record the subnet's most trusted historical source in the first
 place. The request itself, unusual as it was, became one more entry the Long Record now held on file, waiting,
 as everything else it held did, for whoever eventually needed it next.
+
+// adjustments
+
+// visions
 
 ### The Suite Rehearsed Against a Deadline Nobody Would Name
 
@@ -183,6 +215,10 @@ piece's own pacing for an audience not yet ready to understand it. The compositi
 schedule, considerably after the Tower's own construction concluded, unhurried exactly the way Zhongshan's
 whole musical identity had always insisted a serious work had to be.
 
+// adjustments
+
+// visions
+
 ### The Long Record's First Entry From Somewhere It Had Never Reached
 
 *(Shortly after the Tower's completion.)* The Long Record received, for the first time, direct correspondence
@@ -198,6 +234,10 @@ building. What resulted was, for the first time, a two-way exchange rather than 
 Mirny subnet's own most complete history becoming, almost overnight, something the rest of the country could
 actually draw on directly.
 
+// adjustments
+
+// visions
+
 ### The Suite Performed for an Audience It Was Never Built to Reach
 
 *(Shortly after the Tower's completion.)* "The Long Winter Suite," performed exactly as it always had been —
@@ -211,6 +251,10 @@ confused listeners generations earlier, and wasn't compressed now. Whether dista
 the piece had always demanded wasn't something Zhongshan's own performers could control. What mattered, per
 the tradition Táng Yuxuan had insisted on from the beginning, was that the work was offered exactly as it was
 meant to be experienced, whether or not anyone new was ready for it.
+
+// adjustments
+
+// visions
 
 ### The Precision Order That Finally Came With an Explanation
 
@@ -226,6 +270,10 @@ Quarter's own standards had never depended on knowing what a piece was for, only
 exactly. Knowing anyway, this time, simply confirmed what Táng Wǔ's own original institution had always been
 built to guarantee: that Zhongshan's own precision, whether or not anyone explained why it mattered, could be
 trusted regardless.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -246,6 +294,10 @@ versions of it. Nothing about the cluster's own present-day relationship changed
 what's preserved of the project, described the exercise as simply satisfying — proof their own shared origin
 story held up under a level of scrutiny it had never previously been possible to apply.
 
+// adjustments
+
+// visions
+
 ### The Relay Vaults Zhongshan Finally Got to Inspect in Detail
 
 Zhongshan's own dependency on Mirny's Relay Hardware Vaults, the intra-subnet Arcanet hub connecting the whole
@@ -259,6 +311,10 @@ strengthen — and propose a specific, precision-manufacturing-grade component u
 the remaining redundancy gap. Whether Mirny's own maintenance crew ultimately adopted the proposal isn't
 preserved. The consultation itself, offered unprompted by a city whose own manufacturing precision had nothing
 obviously to do with relay infrastructure, was the genuinely new thing.
+
+// adjustments
+
+// visions
 
 ### The Custodian Comparison Juan Carlos Finally Got to Make
 
@@ -274,6 +330,10 @@ what's recalled of the exchange, came away with a clearer sense of how different
 being trusted custodians of history had each solved the same underlying problem: what to do when the honest
 record and the comfortable one didn't match.
 
+// adjustments
+
+// visions
+
 ### The Wall Panel Zhongshan's Archivists Finally Explained in Full
 
 Following Port Lockroy's own inquiry about the Long Record's own history-keeping methodology, Zhongshan's
@@ -286,6 +346,10 @@ possible rather than a single inquiry, confirmed that both cities had independen
 underlying principle — an honest record was only worth keeping if it stayed honest even when the year in
 question reflected poorly on the city itself. Neither archive changed its own practice. Both, per what's
 preserved of the exchange, found the confirmation worth having.
+
+// adjustments
+
+// visions
 
 ### The Tower Construction Question the Long Record Was Finally Asked to Settle
 
@@ -301,6 +365,10 @@ cities were having isn't preserved in detail. That the Long Record was trusted e
 consequential as Amundsen Station itself, to settle a dispute it had no direct stake in was, for Zhongshan's
 own archive, a genuinely new kind of recognition.
 
+// adjustments
+
+// visions
+
 ### The First Performance the Suite's Own Composers Watched Reach Sinheung and Shirayuki
 
 Following "The Long Winter Suite"'s own first nationwide broadcast, its two closest cluster neighbors —
@@ -315,6 +383,10 @@ cluster neighbor had marked a Zhongshan cultural event jointly rather than indep
 musicians, per what's preserved of the reaction upon hearing about it, found the gesture genuinely moving —
 proof that the Tri-Cities cluster's own founding-era closeness could still produce something neither city
 had specifically planned for.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -333,6 +405,10 @@ three cities functioning, for that one afternoon, as a single deliberative body,
 comparable three-city cluster split across different subnets could have managed at anything like the same
 speed.
 
+// adjustments
+
+// visions
+
 ### The Relay Vaults Question Mirny Answered Before Zhongshan Finished Asking
 
 Zhongshan's own connection to Mirny's own Relay Hardware Vaults meant a technical question about the subnet's
@@ -343,6 +419,10 @@ A specific hardware question, per what's preserved of the incident, was resolved
 technician had even finished describing the full problem — Mirny's own Vaults staff already familiar enough
 with the likely cause to interrupt with the answer, a level of casual technical familiarity built entirely on
 years of routine, always-available contact.
+
+// adjustments
+
+// visions
 
 ### The Long Record Entry Juan Carlos Waited Half a Year to Read
 
@@ -355,6 +435,10 @@ a careful, considered piece of writing that Zhongshan's own archivist had drafte
 eventual reply to take nearly as long again to make the return trip. Both archivists, per what's remembered of
 the exchange, treated the slowness as simply the appropriate pace for a subject neither wanted to rush.
 
+// adjustments
+
+// visions
+
 ### The Preservation Instinct Port Lockroy Explained From Across Two Subnets
 
 Port Lockroy's own accounted-for-history civic instinct, close enough in spirit to the Long Record's own
@@ -365,6 +449,10 @@ Port Lockroy's own reply, per what's preserved of the letter, took months to arr
 same understated thoroughness the city applied to everything else — genuinely useful comparative material that
 Zhongshan's own archivists incorporated into their own internal standards, without either archive ever having
 the chance to discuss the adaptation directly.
+
+// adjustments
+
+// visions
 
 ### The Arbitration Amundsen Station Requested by Formal Letter
 
@@ -378,6 +466,10 @@ despite the months it had taken to arrive — researching the question thoroughl
 response that itself took another season to reach the Pole, the entire exchange spanning the better part of a
 year for a dispute that, within the subnet, would have been resolved in a single sitting.
 
+// adjustments
+
+// visions
+
 ### The Manifest Sinheung and Shirayuki Helped Zhongshan Finalize in an Hour
 
 A shipment of archival preservation equipment, requiring specifications from both Sinheung's own manufacturing
@@ -389,6 +481,10 @@ Once that shipment left the Mirny subnet bound for Port Lockroy, none of the thr
 any way to track its progress — the same instant three-way coordination that assembled the order in an hour
 giving way, at the subnet boundary, to weeks of complete silence before Port Lockroy's own receiving staff
 finally confirmed delivery.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -405,6 +501,10 @@ The Tri-Cities' own archivists, per what's preserved of the account, welcomed th
 much ceremony — the first time their own internal three-way working method had been studied by someone with
 no personal stake in the cluster at all, simply out of genuine outside curiosity about how it functioned.
 
+// adjustments
+
+// visions
+
 ### The Suite Performed a Third Time, With Sinheung and Shirayuki Both Contributing
 
 Following the joint listening gathering that first marked "The Long Winter Suite" as a shared Tri-Cities
@@ -415,6 +515,10 @@ the first time, rather than simply gathering to listen together.
 Zhongshan's own composers, per what's preserved of the collaboration, described the result as genuinely
 different from the original piece — not a replacement, but a version specifically shaped by the whole
 cluster's own participation rather than Zhongshan's alone.
+
+// adjustments
+
+// visions
 
 ### The Relay Vaults Inspection That Found Something Worth Fixing
 
@@ -427,6 +531,10 @@ Mirny's own technicians, per what's preserved of the exchange, treated the findi
 their own maintenance schedule accordingly — the first time an outside city's own inspection had actually
 changed how Mirny operated its own critical infrastructure, rather than simply confirming it was sound.
 
+// adjustments
+
+// visions
+
 ### The Custodianship Comparison That Became a Joint Publication
 
 Following the original informal custodian comparison with Juan Carlos, the two archivists formalized their
@@ -436,6 +544,10 @@ Carlos's "Federation's memory" role in a single document neither archive had pro
 The piece, per what's preserved of its own creation, became something both institutions referenced afterward
 when explaining their own civic purpose to outsiders — the first time either archive had needed another
 city's own perspective to fully articulate what its own custodianship actually meant.
+
+// adjustments
+
+// visions
 
 ### The Wall Panel Zhongshan Finally Got to See, Not Just Hear Described
 
@@ -449,6 +561,10 @@ while adding something no letter could — actually standing in front of the Wal
 the Long Record's own comparable instinct for accounting-for-the-past looked like when practiced by a
 different city entirely.
 
+// adjustments
+
+// visions
+
 ### The Arbitration Amundsen Station Requested a Second Time, Much Faster
 
 Following the original formal written arbitration request, Amundsen Station returned to the Long Record for a
@@ -459,6 +575,10 @@ Zhongshan's own archivists, per what's preserved of the second exchange, found t
 the seriousness of the work — the same careful research standard applied, simply compressed into hours rather
 than the better part of a year, confirming the Long Record's own trusted status hadn't been a one-time
 courtesy but a standing, repeatable role.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -475,6 +595,10 @@ Juan Carlos, requesting a correction to a much older entry involving its own arc
 request by letter and wait for Zhongshan's own archivists to locate, review, and revise the relevant passage
 — a process measured in months rather than the same afternoon Sinheung's correction had taken.
 
+// adjustments
+
+// visions
+
 ### The Question Shirayuki Answered Before Zhongshan's Historian Finished Writing It Down
 
 A historical cross-reference question, mid-draft in one of Zhongshan's own research notes, was answered by
@@ -484,6 +608,10 @@ fluency between the two cities built from years of exactly this kind of rapid, a
 A subnet-external historian working on a related comparative project had no such fluency to draw on —
 establishing enough shared context to even ask the question properly took several rounds of preliminary
 correspondence before the actual research question could be addressed at all.
+
+// adjustments
+
+// visions
 
 ### The Preservation Standard Port Lockroy Received Complete, Once
 
@@ -495,6 +623,10 @@ Mirny's own version of the same methodology, by contrast, was never really "fini
 living, continuously updated standard both cities simply kept current together, something no letter to
 Port Lockroy could have adequately captured even if Zhongshan's archivists had tried.
 
+// adjustments
+
+// visions
+
 ### The Arbitration Amundsen Station Waited a Full Season to Request
 
 A formal territorial-record arbitration requested by Amundsen Station arrived by letter, addressed carefully
@@ -504,6 +636,10 @@ but constrained to the same slow written back-and-forth as any other subnet-exte
 A related, smaller arbitration question raised by Mirny over the subnet's own line was resolved the same
 week — the underlying seriousness of the work identical in both cases, only the pace of resolving it
 genuinely different.
+
+// adjustments
+
+// visions
 
 ### The Manifest Sinheung and Shirayuki Finalized While Zhongshan Watched
 
@@ -515,6 +651,10 @@ A comparable manifest requiring Port Lockroy's own sign-off had to be drafted fi
 returned with any requested changes before it could be finalized — the same three-way collaborative process
 simply not extending past the subnet's own boundary.
 
+// adjustments
+
+// visions
+
 ### The City Content to Stay Half-Known, Especially From a Distance
 
 Zhongshan's own established character — "the Quiet City," self-sufficient and content to go unexamined —
@@ -525,3 +665,7 @@ and Amundsen Station.
 Zhongshan's own archivists, per a surviving reflection from the period, noted this without much concern — the
 city's own quiet character had never depended on being known equally by everyone; it simply meant the
 cities closest to it, in every sense, knew it best.
+
+// adjustments
+
+// visions

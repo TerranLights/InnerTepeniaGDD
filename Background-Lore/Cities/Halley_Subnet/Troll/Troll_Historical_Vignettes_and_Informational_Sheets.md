@@ -39,6 +39,10 @@ in the generations that followed, formalized eventually as St. Roald's Landing, 
 gathering at the same site, honoring the same founding-era claim — traces directly back to that first,
 unplanned occasion long before Troll's airfield had grown into anything resembling its later prominence.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Runway Fleet's First Real Test
@@ -56,6 +60,10 @@ scrub the remaining legs of the run. The circuit completed on a delayed but func
 successful improvisation became, per what's preserved of the fleet's own early operational record, the
 founding-era proof that Troll's aviation logistics could actually support multi-city coordination at scale —
 the specific test that justified the airfield's own subsequent growth into the subnet's central logistics hub.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -78,6 +86,10 @@ later made a dedicated supply route a genuine necessity, Troll's runway needed n
 the capacity Adeyemi-Solberg built for a use nobody had yet named was simply already there, waiting, when the
 actual need finally arrived.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Aircraft Bought for a Route That Never Opened
@@ -96,6 +108,10 @@ responsible for the original acquisition, per what's preserved of the fleet's ow
 publicly second-guessed the decision, and the aircraft itself served the fleet capably for the rest of its own
 operational life — a founding-era acquisition whose original justification simply never arrived, absorbed
 quietly into ordinary use rather than treated as a costly mistake.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -116,6 +132,10 @@ to specifically, not one they passed on the way to somewhere else. Nothing about
 survives in detail beyond the outcome itself, but the chapel's own physical remove from the airfield, still
 true today, traces directly back to that founding-era choice.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Depot Built Apart on Purpose
@@ -135,6 +155,10 @@ closer together. The layout has never changed since — the same safety-driven d
 runway, decided once during founding-era planning, still shaping how every subsequent structure on the
 airfield's own grounds has been sited around it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Building Into the Rock
@@ -153,6 +177,10 @@ proved more variable in composition than early surveys suggested — sections th
 inspection sometimes proved to require additional reinforcement once excavation actually began. None of this
 early engineering work has any connection to the airfield conflict that would come to define Troll generations
 later; the rock the city stands on has no stake in who currently controls the runway built on top of it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -177,6 +205,10 @@ founding-era multi-leg circuit test had. Both commitments were met without a mis
 per what's preserved of the record, that Troll's own aviation logistics could sustain two genuinely
 competing priorities at once when the country's own most consequential infrastructure project needed it to.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Runway Length Adeyemi-Solberg Never Explained, Finally Useful Again
@@ -195,6 +227,10 @@ of the increased traffic, found the existing runway already sufficient without m
 over-engineering some founding-era contemporaries had once questioned, proving its worth a second time,
 decades after the first.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Question the Chapel Wasn't Built to Answer
@@ -212,6 +248,10 @@ of the discussion, given how much more consequential a single national relay sou
 airfield's own gradual growth. The conversation ended without resolution, a genuinely open question left
 sitting alongside the observance itself as Troll's own residents waited, like the rest of the country, to see
 what the Tower's completion would actually change.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -232,6 +272,10 @@ The delivery itself arrived on an accelerated timeline Dome Fuji's own recipient
 a small, concrete demonstration of what the completed relay actually changed for two of Tepenia's own most
 extreme-environment cities.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Pilgrim Who Arrived By Accident
@@ -251,6 +295,10 @@ contested airfield. The Chapel's own quiet character, the specific thing one res
 survive the Tower's completion, reached an entirely new audience instead — not through the observance
 changing, but through more people simply having a reason to hear about it at all.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Schedule That Finally Had Room to Breathe
@@ -268,6 +316,10 @@ crews' own reflection on the period, became a point of quiet confidence going fo
 real pressure, that Troll's own aviation logistics could handle genuinely unexpected additional demand without
 failing either commitment, a capability nobody had specifically planned to prove but that the Tower's own
 construction period had tested regardless.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -287,6 +339,10 @@ days of each other while other genuine needs went unfilled. The corrected joint 
 deliveries and dividing cargo types between the two routes rather than letting them run blind, gave Dome Fuji's
 own genuinely thin resupply margin real slack for the first time in the arrangement's own working history.
 
+// adjustments
+
+// visions
+
 ### The Conversation Fort McMurdo Never Had With Anyone Who'd Understand It
 
 Troll's own freight-hub identity and Fort McMurdo's own industrial-capital identity had always been compared
@@ -301,6 +357,10 @@ outside itself to actually compare notes with. The exchange didn't resolve any s
 It confirmed, for the first time directly rather than by outside observation, that the resemblance between the
 two cities was real and mutually recognized.
 
+// adjustments
+
+// visions
+
 ### The Passage Report Sanay Sent Before Anyone Asked
 
 Troll's own onward aviation distribution had always depended on Sanay's and Belgrano's own overland deliveries
@@ -313,6 +373,10 @@ committing aircraft to a cargo load that wasn't actually going to be ready. The 
 back a full day rather than sending it to sit idle waiting for freight that arrived later than planned — a
 small, genuinely new kind of efficiency neither city's own logistics culture had ever had the information to
 achieve before.
+
+// adjustments
+
+// visions
 
 ### The Working-Class Wage Comparison Nobody Had Ever Been Able to Run
 
@@ -327,6 +391,10 @@ up favorably even against cities specifically chosen for the comparison. The exe
 systematic or official. It gave Troll's own residents, for the first time, something other than internal
 civic pride to actually measure the claim against.
 
+// adjustments
+
+// visions
+
 ### The Weather Data Troll Started Sharing With a City It Had Never Supplied
 
 Troll's own inland, nunatak-elevated weather monitoring — genuinely useful for aviation scheduling across a
@@ -338,6 +406,10 @@ Troll at all, seeking comparison data for its own katabatic-exposure engineering
 meteorological staff, per what's remembered of the exchange, shared the requested records without particular
 ceremony — the same practical instinct that governed everything else about how Troll operated, applied for the
 first time to a recipient the freight network itself had never once delivered anything to.
+
+// adjustments
+
+// visions
 
 ### The Abowasa Shipment That Finally Explained Its Own Delay
 
@@ -351,6 +423,10 @@ why a particular delivery had been bumped in favor of higher-priority cargo else
 Abowasa's own small trade office for the first time in the corridor's own working history. The explanation
 didn't change the delay itself. It gave Abowasa's own residents, for the first time, an actual reason rather
 than simply another instance of being last in line.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -368,6 +444,10 @@ trust neither city extended to a subnet-external request, where no comparable ad
 The convoy arrived, the cargo loaded within the hour, and the flight left on schedule specifically because the
 whole handoff had been arranged before the trucks themselves were even in sight.
 
+// adjustments
+
+// visions
+
 ### What Belgrano Could Confirm That No One Past the Subnet Could
 
 A dispute over a damaged shipment's own point of origin — whether the damage had occurred in transit or before
@@ -380,6 +460,10 @@ unremarkable — simply asking Belgrano and getting a straight answer, the way s
 The same handlers, describing the incident afterward to a Fort McMurdo counterpart used to disputes that took
 weeks of correspondence to settle at all, found their own casual expectation of a same-day answer met with
 open envy.
+
+// adjustments
+
+// visions
 
 ### The Flight to Dome Fuji Nobody Could Reroute Mid-Air
 
@@ -394,6 +478,10 @@ channel existed to check conditions mid-route the way Troll could have checked B
 the subnet. The flight landed safely. The crew, per what's remembered of the debrief afterward, treated the
 lack of any mid-flight confirmation as simply the ordinary cost of flying to Dome Fuji at all.
 
+// adjustments
+
+// visions
+
 ### The Second Lifeline Sinheung Never Knew It Was Racing
 
 Troll's own route and the separate Mawson-routed run through Sinheung kept Dome Fuji supplied independently of
@@ -406,6 +494,10 @@ fact, since correcting it would have required a coordination neither route had a
 Fuji's own receiving staff, per what's remembered locally, simply logged both deliveries and moved on — the
 two supply chains functioning, from the isolated station's own perspective, as one reliable system built from
 two cities that had never once spoken to each other about it.
+
+// adjustments
+
+// visions
 
 ### The Comparison Fort McMurdo Never Got to Make in Real Time
 
@@ -421,6 +513,10 @@ own residents to simply ask the other what working life there was actually like.
 something of a minor local legend at Troll, repeated secondhand for years by people who'd never have any way
 to verify it themselves.
 
+// adjustments
+
+// visions
+
 ### The Manifest That Changed Hands Three Times Before It Left the Country's Reach
 
 A large joint shipment assembled from Sanay's, Belgrano's, and Troll's own combined stock — coordinated in a
@@ -432,6 +528,10 @@ weeks with no way for any of the three planning cities to confirm it had even la
 session any of the three had on record, followed immediately by the same unaccountable stretch of silence
 every subnet-external shipment disappeared into once it crossed the boundary the instant line itself never
 reached.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -449,6 +549,10 @@ noteworthy about the flight. What mattered, per what's remembered locally, was s
 had spent generations sending flights to Dome Fuji with no way to know they'd arrived until the next
 scheduled supply run confirmed it days or weeks later. Now they simply knew, the same afternoon.
 
+// adjustments
+
+// visions
+
 ### The Route Sinheung and Troll Finally Compared Directly
 
 Sinheung's own aviation route toward Dome Fuji, run independently through Mawson for a substantial stretch of
@@ -461,6 +565,10 @@ The two offices agreed, per what's preserved of the exchange, to stagger future 
 continue duplicating each other's deliveries — the first genuine coordination between Dome Fuji's own two
 independent lifelines since either route was established, closing a redundancy neither city had ever had a
 way to actually fix before.
+
+// adjustments
+
+// visions
 
 ### The Comparison Document Fort McMurdo and Troll Wrote Together
 
@@ -475,6 +583,10 @@ differences neither city had previously had the material to properly compare. It
 reference document new arrivals at either city were sometimes handed to explain what kind of place they'd
 just moved to.
 
+// adjustments
+
+// visions
+
 ### The Passage Update Sanay Sent Without Being Asked
 
 Sanay's own passage-status reporting to Troll, already established as routine, produced its first genuinely
@@ -485,6 +597,10 @@ Troll's own dispatchers, per what's preserved of the incident, adjusted a depart
 within the hour based on the unscheduled update — a small decision that, under the old system, would have
 had no trigger to happen at all, since nothing would have told Troll conditions had changed until the next
 regular report came due.
+
+// adjustments
+
+// visions
 
 ### The Boneyard Question Belgrano Answered for Troll's Own Fleet
 
@@ -498,6 +614,10 @@ records within the hour and relayed the fix directly — the first time Troll's 
 drawn on Belgrano's own accumulated salvage knowledge as a genuine technical resource rather than simply as
 the source of whatever specific part happened to be needed.
 
+// adjustments
+
+// visions
+
 ### The Shipment Abowasa Watched Move in Real Time for the First Time
 
 A specific shipment bound for Abowasa, historically the last and smallest priority on Troll's own distribution
@@ -509,6 +629,10 @@ Abowasa's own trade administrator, per what's preserved of the account, describe
 novel — not because the shipment itself arrived any faster, but because for the first time in the corridor's
 history, the smallest city on Troll's route could actually watch its own priority unfold instead of only ever
 learning the outcome after the fact.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -524,6 +648,10 @@ The same courtesy wasn't possible for a shipment bound onward to Fort McMurdo, w
 manifest traveled with the cargo itself rather than ahead of it, meaning Fort McMurdo's own receiving crew
 learned exactly what had arrived only once it was already sitting on their own tarmac.
 
+// adjustments
+
+// visions
+
 ### The Schedule Belgrano Never Had to Ask Twice For
 
 Belgrano's own freight planners could query Troll's own flight schedule directly over the subnet's line and
@@ -535,6 +663,10 @@ A subnet-external shipper trying to coordinate with the same schedule had to wor
 timetable had last physically reached them, sometimes weeks out of date — arriving early, arriving late, or
 simply missing a flight that had shifted without any way to know in advance.
 
+// adjustments
+
+// visions
+
 ### The Delay Halley Learned About Before It Happened
 
 A weather delay affecting an outbound Troll flight was relayed to Halley over the subnet's own line before the
@@ -544,6 +676,10 @@ timing before the disruption could cascade any further.
 Sinheung, waiting on cargo carried by the same delayed flight, had no equivalent warning — the first word
 Sinheung received of any delay was the shipment itself simply failing to arrive on schedule, with no
 explanation reaching them until a letter caught up days later.
+
+// adjustments
+
+// visions
 
 ### The Aircraft Log Dome Fuji Could Never Simply Request
 
@@ -557,6 +693,10 @@ season to receive a full answer — not because Troll withheld anything, but bec
 continuously updated internal record to someone outside the subnet meant writing it out fresh each time, by
 hand, for the mail.
 
+// adjustments
+
+// visions
+
 ### The Redundant Route Sanay and Troll Built Without Telling Anyone Else
 
 Sanay and Troll jointly developed a backup routing contingency for the corridor's busiest freight lane,
@@ -568,6 +708,10 @@ Cities outside the subnet learned of the contingency route only once it was acti
 disruption — by then a finished, functioning system, with no visibility into the months of casual, undocumented
 back-and-forth that had actually built it.
 
+// adjustments
+
+// visions
+
 ### The Freight Troll Measured by Two Different Clocks
 
 Troll's own dispatchers kept two mental timelines for every shipment passing through — one measured in hours,
@@ -577,3 +721,7 @@ continuing on to Sinheung, Fort McMurdo, or Dome Fuji.
 Neither timeline reflected any difference in how carefully Troll's own crews handled the cargo itself — the
 same diligence, the same care, simply arriving at two very different speeds depending on which side of the
 subnet boundary the shipment was ultimately headed.
+
+// adjustments
+
+// visions

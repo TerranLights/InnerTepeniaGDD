@@ -42,6 +42,10 @@ raw material nobody had actually finished reading. The mechanism she identified 
 Lake Vostok's own organisms for millions of years, and in the archive's own records for generations, before
 she was the one to actually connect the two.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Lake Byrd Never Expected to Need
@@ -62,6 +66,10 @@ adapted to survive transport and establishment in an entirely different undergro
 transplant succeeded, and Byrd's fabrication economy, mature enough by that point to engineer the
 flex-tolerant boundary wall the lake required, turned toward the project as a considered answer to a real
 psychological need — wonder deployed deliberately, not for its own sake.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -85,6 +93,10 @@ still used today, with total fluency by researchers who couldn't hold an ordinar
 language itself, traces directly back to exactly this kind of founding-era record — Voskresenskaya's own
 among the oldest and hardest to fully untangle.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Two Catalogues That Never Agreed
@@ -104,6 +116,10 @@ terminological — the same organism, described twice, by researchers who never 
 across the intervening decades. The reconciliation, once completed, became a specific cautionary case study
 for later archive researchers — proof that the incomprehensible archive's own difficulty wasn't merely
 volume, but genuine, accumulated terminological drift nobody had ever gone back to fully reconcile.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -126,6 +142,10 @@ didn't have in-house. The corrected design, built afterward, is remembered at Ku
 than as the clearest concrete proof that the relationship between the two outposts was genuine working
 infrastructure, not merely companionship between two isolated places.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Citation No One Thought to Translate
@@ -145,6 +165,10 @@ exactly the kind of terminological drift the archive's own accumulated confusion
 elsewhere. The proposal was quietly dropped, and the reasoning behind dropping it became, afterward, the
 closest thing Vostok's own research culture has to an explicit explanation for why the liturgical Russian
 persists at all — not preserved on purpose, simply never given a reason to be replaced.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -166,6 +190,10 @@ was ultimately used for. The relay simply carried the answer back out, the same 
 the two outposts had practiced for generations, asked this time to reach further than either had any way of
 knowing.
 
+// adjustments
+
+// visions
+
 ### The Archive Query Nobody Could Fully Answer
 
 *(Shortly before the Tower's completion.)* A formal request for archived materials-science data — anything in
@@ -180,6 +208,10 @@ overlapping partial picture that had once produced two separate researchers cata
 twice. The team assembled what it could rather than claiming false completeness, sending back a genuinely
 useful but explicitly partial answer — an honest response from an archive that had never pretended to be
 anything but difficult, even to the people who worked inside it every day.
+
+// adjustments
+
+// visions
 
 ### The Term the Founding Archive Had Never Needed Translated for This
 
@@ -196,6 +228,10 @@ terminology meant anything to whoever received it at the Tower's own end isn't p
 preserved. The citation went out exactly as Voskresenskaya had first written it, generations after she'd
 stopped being alive to know it ever would.
 
+// adjustments
+
+// visions
+
 ### The First Message That Reached Somewhere Neither Outpost Had Ever Reached
 
 *(Shortly after the Tower's completion.)* Vostok's own connection to the rest of Tepenia — which had always
@@ -211,6 +247,10 @@ all, without needing the other outpost to serve as the only possible relay point
 in Tepenia remained exactly as isolated, physically, as they had always been. What they were no longer isolated
 from was everyone else.
 
+// adjustments
+
+// visions
+
 ### The Archive That Finally Had Someone to Ask Directly
 
 *(Shortly after the Tower's completion.)* Researchers elsewhere in the country, aware for the first time of
@@ -225,6 +265,10 @@ cycle stretched across whatever delay the relay chain had once required. The arc
 as difficult to navigate as it had always been. For the first time, though, untangling it was a conversation
 rather than a one-way delivery.
 
+// adjustments
+
+// visions
+
 ### The Cold-Adaptation Data That Went Somewhere Warmer for the First Time
 
 *(Shortly after the Tower's completion.)* Vostok's own cold-tolerant biological research — previously shared
@@ -238,6 +282,10 @@ they'd always treated Kunlun's own requests — supplying what was asked for, wi
 same working culture that had never distinguished between a request worth taking seriously and one worth
 brushing off. What changed wasn't Vostok's own approach to the work. It was simply that, for the first time,
 more of the country than one other outpost had any reason to ask for it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -258,6 +306,10 @@ the update genuinely moving in a way the original technical achievement alone ha
 the first time, that something Vostok's own scientists had built and then simply released into another
 city's care had actually continued thriving without them.
 
+// adjustments
+
+// visions
+
 ### The Redundancy Question Vostok Finally Asked Mirny Directly
 
 Vostok's own dependency on Mirny's own Relay Hardware Vaults, the single point of failure connecting all five
@@ -272,6 +324,10 @@ single-point-of-failure risk Marchenko had once fought unsuccessfully to fully e
 researchers, per what's recalled of the response, found the honest answer sobering but appreciated receiving
 it plainly rather than reassured falsely.
 
+// adjustments
+
+// visions
+
 ### The Wind Data Signy Never Explained, and Vostok Never Needed Explained
 
 Following Vostok's own unexplained request for Signy's turbine-siting wind data, a second, follow-up exchange
@@ -284,6 +340,10 @@ records don't specify further. Signy's own engineers accepted the explanation wi
 same practical, non-judgmental exchange that had defined the original request. Neither city's own work
 changed as a result of the follow-up. The exchange simply closed a small, mutual curiosity neither city had
 previously had a channel to satisfy.
+
+// adjustments
+
+// visions
 
 ### The Letter Two Loneliest Outposts Finally Exchanged for No Reason at All
 
@@ -300,6 +360,10 @@ own working history, contact between the two loneliest outposts in Tepenia that 
 people in comparably isolated places had something to say to each other, not because either needed something
 from the other.
 
+// adjustments
+
+// visions
+
 ### The Archive Fragment That Finally Reached the City It Was About
 
 A fragment of Voskresenskaya's own founding-era cataloguing notes, describing early observations of
@@ -313,6 +377,10 @@ Vostok's own archive for generations without any occasion to travel to the one c
 relevant to. The fragment didn't change how Byrd's own lake was managed. It gave Byrd's own research staff a
 small, concrete piece of the ecosystem's own deeper history they'd never had access to before.
 
+// adjustments
+
+// visions
+
 ### The Modeling Request That Finally Explained Vostok's Own Reach
 
 Word of Vostok's own cold-tolerant biological research reaching beyond Kunlun to Signy's own power-system
@@ -324,6 +392,10 @@ taken on every other — plainly, without treating Byrd's own lack of any prior 
 Vostok as a reason for hesitation. The specific problem Byrd was working on isn't preserved in detail. The
 willingness to help, extended without ceremony to a city Vostok's own research program had only ever
 previously related to through the lake transplant, was itself the genuinely new thing.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -341,6 +413,10 @@ urgent cold-tolerance calculation within hours by drawing directly on Vostok's o
 level of practical, working reliance neither station could extend to any comparably useful subnet-external
 research partner, where the same request would have taken a season just to be understood correctly.
 
+// adjustments
+
+// visions
+
 ### The Genetics Program That Answered Mirny's Curiosity in an Afternoon
 
 Vostok's own genetics program, generally reticent about sharing methodology outside its own immediate
@@ -351,6 +427,10 @@ The specific question, per what's preserved of the exchange, involved a cold-tol
 researchers had encountered in an unrelated context — resolved within a single afternoon's conversation, a
 level of casual technical generosity Vostok's own program otherwise reserved almost exclusively for its own
 subglacial lake work at Byrd.
+
+// adjustments
+
+// visions
 
 ### The Bioluminescent Transplant That Took a Full Expedition to Deliver
 
@@ -364,6 +444,10 @@ and travel specifically because the samples involved couldn't simply be describe
 to be carried, alive, the entire distance by researchers willing to make the trip in person, since nothing
 faster or less risky existed as an alternative before the Tower.
 
+// adjustments
+
+// visions
+
 ### The Follow-Up Letter That Outlived the Original Expedition Team
 
 Once Vostok's own genetics program had successfully established Byrd's subglacial ecosystem, ongoing
@@ -375,6 +459,10 @@ receive a full technical reply — Vostok's own researchers, working from writte
 conditions rather than direct observation, doing their best to diagnose a problem at a lake they hadn't
 personally seen in years.
 
+// adjustments
+
+// visions
+
 ### The Power-System Consultation That Started With a Letter, Not a Visit
 
 Vostok's own cold-tolerant biological research reaching into Signy's own power-system consultation began as
@@ -384,6 +472,10 @@ carrying it — an engineering question neither city could resolve any faster be
 The correspondence, per what's preserved of the exchange, ran for well over a year before either side felt
 the underlying technical question had been fully answered — a research pace considerably slower than the
 same-day consultations Vostok's own researchers were accustomed to when working with Kunlun or Mirny instead.
+
+// adjustments
+
+// visions
 
 ### The Manifest Kunlun Confirmed While Vostok's Convoy Was Still Loading
 
@@ -396,6 +488,10 @@ That same shipment, once a portion of it was redirected toward Byrd per a later 
 subnet with no way for Vostok to confirm its arrival — the same instant coordination that had assembled and
 confirmed the order in minutes giving way, at the subnet boundary, to the same unaccountable silence every
 shipment crossing out of Vostok's own reach disappeared into.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -412,6 +508,10 @@ The resulting collaboration, per what's preserved of the record, became somethin
 joint monitoring program than the original one-directional relationship — Vostok's own genetics expertise
 paired, for the first time, with Byrd's own direct, ongoing access to the ecosystem itself.
 
+// adjustments
+
+// visions
+
 ### The Redundancy Mirny Finally Explained the Reasoning Behind
 
 Following the earlier honest admission about the Relay Vaults' own limited redundancy, Mirny's own
@@ -423,6 +523,10 @@ city had previously had reason to discuss in this much detail — the first time
 followed all the way through to its actual historical cause, rather than simply accepted as a known
 limitation.
 
+// adjustments
+
+// visions
+
 ### The Cold-Adaptation Finding That Reached Signy Before Vostok Fully Understood It
 
 A specific cold-tolerance mechanism Vostok's own researchers were still actively investigating was shared
@@ -433,6 +537,10 @@ conclusion.
 Signy's own engineers, per what's preserved of the exchange, applied the partial finding successfully despite
 its incomplete status — the first time Vostok's own research had been put to practical use somewhere else in
 the country before Vostok's own scientists had finished drawing their own conclusions from it.
+
+// adjustments
+
+// visions
 
 ### The Personal Letter That Became a Standing Correspondence
 
@@ -446,6 +554,10 @@ own professional one — proof that the loneliest-outpost kinship between the tw
 more durable than professional necessity: an actual friendship, sustained specifically because instant
 contact let it exist alongside the working relationship rather than only within it.
 
+// adjustments
+
+// visions
+
 ### The Archive Fragment Byrd Finally Got to Ask Follow-Up Questions About
 
 Following the original Voskresenskaya archive fragment sent to Byrd, Byrd's own research staff sent back a
@@ -455,6 +567,10 @@ delivery had never allowed for, since nothing had previously connected Byrd to a
 Vostok's own archivists, per what's preserved of the exchange, found additional related material while
 researching the follow-up — the fragment's own significance growing considerably once genuine back-and-forth
 inquiry replaced what had originally been a single, unprompted gift.
+
+// adjustments
+
+// visions
 
 ### The Modeling Request That Became an Ongoing Collaboration
 
@@ -467,6 +583,10 @@ Vostok's own researchers, per what's preserved of the account, hadn't expected t
 this long — a single willingness to help, extended without ceremony to a city with no prior technical
 relationship to Vostok at all, had grown into a genuine ongoing collaboration neither side had specifically
 planned for.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -483,6 +603,10 @@ same-day verification on a related question — a request for clarification abou
 the better part of a season to answer, since nothing about the relationship's own depth changed how far the
 mail had to travel.
 
+// adjustments
+
+// visions
+
 ### The Curiosity Mirny Satisfied in a Single Sitting
 
 A detailed technical question from Mirny about Vostok's own gene-editing methodology, the kind of inquiry that
@@ -493,6 +617,10 @@ spread across a slow correspondence.
 Signy, curious about a related but narrower question, received a single well-composed written answer by mail
 — thorough, but necessarily final, since there was no practical way to ask a follow-up and receive a reply
 before the original context had gone cold.
+
+// adjustments
+
+// visions
 
 ### The Cold-Tolerance Finding Kunlun Received Mid-Study
 
@@ -505,6 +633,10 @@ Byrd's own genetics program, working from Vostok's finished, formally published 
 opportunity to influence the study's own direction — receiving only the conclusion, with the study's own
 internal evolution invisible to anyone outside the subnet's own reach.
 
+// adjustments
+
+// visions
+
 ### The Letter That Answered a Question Vostok Had Already Forgotten Asking
 
 A power-systems consultation initiated with a letter to a subnet-external contact took long enough to receive
@@ -514,6 +646,10 @@ approach by the time the answer finally arrived — the reply itself useful, but
 The same category of question, raised separately with Mirny over the subnet's own line, was answered quickly
 enough to actually shape the approach Vostok ultimately took — a difference that had nothing to do with either
 contact's own competence and everything to do with which line carried the question.
+
+// adjustments
+
+// visions
 
 ### The Expedition That Still Had to Carry What No Line Could Send
 
@@ -525,6 +661,10 @@ Within the subnet, by contrast, Vostok's own researchers could coordinate an equ
 or Mirny over the line first, minimizing the actual physical handling to only what was strictly necessary —
 the expedition-scale effort reserved specifically for crossing the subnet boundary.
 
+// adjustments
+
+// visions
+
 ### The Loneliest Outpost, Less Lonely to Its Own Subnet-Mates
 
 Vostok's own established isolation — "Tepenia's other loneliest outpost" — was, within the Mirny subnet
@@ -535,3 +675,7 @@ Byrd and Signy experienced the same city very differently — genuinely distant,
 exactly as isolated as Vostok's own reputation suggested. Vostok's own researchers, per a surviving note,
 found this split fitting: the city was lonely, but only for some of the country, and which half depended
 entirely on the subnet line.
+
+// adjustments
+
+// visions

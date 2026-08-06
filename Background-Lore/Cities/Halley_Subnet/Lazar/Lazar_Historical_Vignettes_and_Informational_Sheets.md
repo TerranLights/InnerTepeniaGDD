@@ -45,6 +45,10 @@ established is the same one Lazar's megacity administration still runs on today 
 merger to actually happen, decided by one person's proposal rather than emerging on its own the way the
 physical coalescence had.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Proposal the Rest of the Subnet Called Excessive
@@ -66,6 +70,10 @@ proposal was approved specifically on that logic: a system this large was only e
 city this large, and objections calibrated to ordinary transit needs simply didn't apply to a population
 Lazar's size.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Hall That Never Stopped Counting
@@ -85,6 +93,10 @@ scale simply outlasting whatever tried to end it. She's occasionally asked wheth
 close to breaking — her answer, consistently, is that the Hall's own records don't distinguish between days
 that were easy to log and days that very nearly weren't, which she considers the entire point of keeping an
 unbroken count at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -107,6 +119,10 @@ whether the Oasis's own meltwater pattern is genuinely as reliable and predictab
 proof, for at least one season, that "predictable" had a real upper limit nobody had previously needed to
 find.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Freight Coordinators Who Moved to the Highway
@@ -126,6 +142,10 @@ ground-transit logistics, applied to a genuinely different physical infrastructu
 up around that redirected coordination rather than the other way around — commercial density following the
 logistics expertise that had relocated there, not the reverse.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Order Neumayer Couldn't Fill Itself
@@ -144,6 +164,10 @@ followed — regular, low-friction supply runs absorbing easily into Lazar's own
 volume — became the Exchange's own standing function. What began as Neumayer solving a specific supply
 shortfall became, over time, simply the accepted shape of the relationship: Neumayer's own precision economy
 depends on access Lazar's own scale can extend without ever particularly noticing the demand.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -167,6 +191,10 @@ the Tower's own needs. The order's own scale barely registered against Lazar's o
 — genuinely consequential to the Tower's own completion timeline, and, per the city's own established
 character, simply one more transaction among the many the Junction Markets processed that particular week.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Maglev Car Reserved for People No One Named
@@ -186,6 +214,10 @@ handling Lazar's own enormous ordinary traffic volume already received daily. Th
 locally less for its own content than for being the first confirmed instance of the maglev serving Tower-
 related transit specifically, ahead of the completion the whole country was still waiting on.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Debate the Unbroken Operations Hall Almost Had to Log
@@ -203,6 +235,10 @@ of her position on the matter, reportedly noted that the Tower's completion woul
 places already; Lazar's own Hall didn't need to be one of them to matter. The record stayed exactly as
 narrow and administrative as it had always been — a small, specific confirmation of the same civic instinct
 that built the Hall's own credibility in the first place.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -222,6 +258,10 @@ speed rather than any broader commentary on the Tower itself — the same discip
 register the Hall had always used, now simply documenting one small, concrete way its own daily function had
 changed without ever directly naming what had changed it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Neumayer Request That Arrived the Same Day It Was Sent
@@ -239,6 +279,10 @@ faster turnaround as a genuine practical improvement rather than anything requir
 consistent with Lazar's own established character, absorbing the change into ordinary operation rather than
 marking it as a significant occasion. The relationship itself didn't change in substance, only in how quickly
 its own routine requests could now actually be answered.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -259,6 +303,10 @@ barely registered as unusual within the Markets' own daily operation — genuine
 without any particular ceremony, simply becoming one more thread in a commercial network already too large
 for any single new addition to stand out.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
@@ -278,6 +326,10 @@ came away from the exchange with any specific policy change. Both, per what's pr
 came away with a clearer sense of exactly how differently the country's two biggest civic superlatives had
 each been built to function.
 
+// adjustments
+
+// visions
+
 ### The District That Copied a Neighborhood It Had Never Seen
 
 Palmer City's own entertainment-and-casino economy and Lazar's own maglev/holographic commercial density had
@@ -292,6 +344,10 @@ drawn on the other's methodology rather than developing independently. The resul
 preserved of the project, incorporated design principles genuinely borrowed from Palmer City's own
 entertainment architecture for the first time in Lazar's own commercial history, adapted rather than copied
 outright, but traceable directly to a conversation that simply hadn't been possible before.
+
+// adjustments
+
+// visions
 
 ### The Governance Question Sejong Finally Got to Ask Directly
 
@@ -308,6 +364,10 @@ simply happened, gradually, without any equivalent to Sejong's own standing nego
 coordinators found the answer genuinely instructive precisely because it confirmed their own process wasn't
 the only way coexistence could work, just the only way Sejong itself had ever tried.
 
+// adjustments
+
+// visions
+
 ### The Small Order That Meant More to Abowasa Than to Lazar
 
 Lazar's own Junction Markets, absorbing new trade inquiries from across the newly connected country with the
@@ -321,6 +381,10 @@ Abowasa's own trade office, per what's recalled of the exchange, treated the suc
 genuine, if modest, milestone — proof that a city as small as Abowasa could reach a city as large as Lazar
 directly, with no larger neighbor required as an intermediary, for the first time in either city's own trading
 history.
+
+// adjustments
+
+// visions
 
 ### The Archive Neumayer Finally Got to Search Directly
 
@@ -338,6 +402,10 @@ own historical record something neither had ever been able to establish alone: d
 educated guesswork, of a logistics relationship that had genuinely shaped both cities' own founding-era supply
 chains.
 
+// adjustments
+
+// visions
+
 ### The First Delegation That Came Just to Ask Questions
 
 Lazar's own genuine megacity scale — commercial density, population, visible civic energy no other Halley
@@ -352,6 +420,10 @@ function. Lazar's own administrators, per what's preserved of the visit, answere
 same practical way the city handled most inquiries — genuinely useful cross-city knowledge transfer that had
 simply never had an occasion to happen before a delegation could show up on short notice rather than after
 months of advance correspondence.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -369,6 +441,10 @@ Neumayer's own dispatch records — a level of verification Lazar's own commerci
 disputes on testimony alone, treated as a genuine improvement in how quickly a disagreement over facts could
 simply be settled by checking them.
 
+// adjustments
+
+// visions
+
 ### What Abowasa's Founding Council Actually Told Lazar's Planners
 
 Lazar's own coalescence from two separate founding settlements and Abowasa's own live, day-to-day negotiation
@@ -382,6 +458,10 @@ most residents arrived, while Abowasa's coexistence remained a living, ongoing n
 conclusion took a single afternoon's conversation rather than months of correspondence, since nothing stood
 between the two cities but the ordinary business of asking.
 
+// adjustments
+
+// visions
+
 ### The Capital's Silence Lazar Learned to Read as Routine
 
 Correspondence between Lazar and Fort McMurdo — the country's two biggest civic hubs, a natural point of
@@ -394,6 +474,10 @@ exchange, went unanswered for so long that Lazar's own office had assumed reject
 working assumption for any subnet-external inquiry that took long enough. The reply, when it eventually
 arrived, turned out to be genuinely favorable, delayed by nothing more than the same slow route every letter
 between the two cities traveled.
+
+// adjustments
+
+// visions
 
 ### The Casino That Heard About Palmer City Before It Ever Saw It
 
@@ -409,6 +493,10 @@ and back. The venue she eventually built resembled its inspiration closely enoug
 years later, recognized the resemblance immediately — confirmation, long after the fact, that the secondhand
 description had been more accurate than its author had any way to verify at the time.
 
+// adjustments
+
+// visions
+
 ### The Governance Question Sejong Answered a Season Late
 
 Sejong's own multinational-coexistence founding and Lazar's own coalescence from two settlements prompted a
@@ -421,6 +509,10 @@ using assumptions about Sejong's own situation by the time Sejong's actual reply
 a research process built, out of necessity, on educated guesses that a single real-time conversation would
 have made unnecessary from the start.
 
+// adjustments
+
+// visions
+
 ### The Delegation Neumayer Helped Pack For
 
 A formal Lazar delegation bound for Fort McMurdo, carrying documents and samples too sensitive to entrust to
@@ -432,6 +524,10 @@ The delegation itself then traveled the entire distance to Fort McMurdo overland
 than the instant conversation its own preparation had taken — the fastest planning phase either city's records
 show for a subnet-external delegation, followed immediately by the same unavoidable travel time every trip
 outside the Halley subnet required regardless of how efficiently it had been arranged.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -451,6 +547,10 @@ plainly held regardless of Lazar's own greater size. What the exchange settled, 
 actual numbers behind it, was simply which of the two cities the rest of the country's own informal
 "biggest city" reputation had always quietly been describing.
 
+// adjustments
+
+// visions
+
 ### The Design Palmer City Borrowed Back
 
 Following the Petrograd Room's own design borrowing from descriptions of Palmer City's commercial districts,
@@ -463,6 +563,10 @@ secondhand impression Palmer City's own original borrowing had worked from — t
 own commercial design language had been shared as an actual technical reference rather than an inspiration
 picked up secondhand from travelers' accounts.
 
+// adjustments
+
+// visions
+
 ### The Governance Case Sejong Cited as Its Own Best Comparison
 
 Following the earlier reciprocal correspondence comparing coalescence and coexistence, Sejong's own
@@ -473,6 +577,10 @@ Sejong's own governance documentation as a genuine reference point.
 Lazar's own coordinators, per what's preserved of learning about the citation, found it a genuinely unexpected
 form of recognition — a city that had never negotiated its own coalescence formally being treated as a
 useful case study by the country's most practiced formal negotiators.
+
+// adjustments
+
+// visions
 
 ### The Junction Markets Vendor Abowasa Actually Recognized by Name
 
@@ -486,6 +594,10 @@ office tended to request before the formal order even arrived — a small, infor
 Tepenia's largest commercial district had never previously extended to its own smallest, most distant
 customer.
 
+// adjustments
+
+// visions
+
 ### The Archive Cross-Reference Neumayer Didn't Expect to Need Twice
 
 Following the earlier confirmation of Novolazarevskaya's own DROMLAN-heritage logistics relationship with
@@ -497,6 +609,10 @@ Lazar's own archivists, per what's preserved of the exchange, found the second s
 than the first, now that both institutions understood how to actually search each other's holdings —
 confirmation that the original discovery hadn't just answered one question, but had opened a genuinely
 reusable research relationship between the two archives.
+
+// adjustments
+
+// visions
 
 ### The City That Kept Growing Once Everyone Could See It Happening
 
@@ -510,6 +626,10 @@ directly in their own infrastructure planning discussions — not because they e
 it had become, for the first time, an actual visible national benchmark rather than a vague sense that Lazar
 was "the big one." The city's own defining trait — gathering whoever arrived and giving them somewhere to
 belong — had simply never been measurable in real time before.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -526,6 +646,10 @@ Fort McMurdo, wanting the same figures for its own capital-planning purposes, ha
 population summary by letter — receiving, months later, a single point-in-time snapshot rather than the
 living, constantly-updating figure Abowasa could simply watch.
 
+// adjustments
+
+// visions
+
 ### The Housing Question Neumayer Answered While Lazar Was Still Building
 
 A structural question about rapid, absorptive housing construction — Lazar's own defining challenge, given how
@@ -537,6 +661,10 @@ Sejong, facing a related but distinct question about integrating new arrivals in
 no equivalent option — its own correspondence with Lazar on the subject moved by mail, with each round of
 clarification costing weeks rather than the same afternoon Neumayer's answer had taken.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Arrived Before Its Own Letter Did
 
 A delegation from Palmer City, traveling to study Lazar's own absorption-focused housing model in person,
@@ -546,6 +674,10 @@ precede them.
 
 Lazar's own hosts, per what's preserved of the account, improvised a welcome on short notice rather than delay
 the visit waiting for paperwork that, as it turned out, wasn't going to arrive first regardless.
+
+// adjustments
+
+// visions
 
 ### The Trade Proposal Sejong Revised Three Times by Mail
 
@@ -557,6 +689,10 @@ Lazar's own negotiators, per an internal note from the period, grew accustomed t
 unresolved cross-subnet negotiations at once simply because none of them could be closed quickly — an
 ordinary, unremarkable feature of doing business with anyone outside the Halley subnet.
 
+// adjustments
+
+// visions
+
 ### The Order Neumayer Filled the Same Day It Was Placed
 
 A standing materials order between Lazar and Neumayer, adjusted constantly to match Lazar's own unpredictable
@@ -566,6 +702,10 @@ suppliers treating a change in Lazar's order as routine, sometimes several revis
 A comparable order placed with a subnet-external supplier for Fort McMurdo's own capital-construction needs
 had to be finalized well in advance and left largely unchanged once submitted — the flexibility Lazar and
 Neumayer took for granted simply had no equivalent once a mail cycle separated the two parties.
+
+// adjustments
+
+// visions
 
 ### The City That Grew Faster Than Word of It Could Travel
 
@@ -578,3 +718,7 @@ A Fort McMurdo administrator, reviewing an old report on Lazar's population year
 that the figures had likely been out of date before the letter carrying them had even left the Halley subnet
 — an accurate assessment, and simply the ordinary condition of trying to track Lazar's own growth from
 anywhere outside the one subnet that could actually watch it happen.
+
+// adjustments
+
+// visions

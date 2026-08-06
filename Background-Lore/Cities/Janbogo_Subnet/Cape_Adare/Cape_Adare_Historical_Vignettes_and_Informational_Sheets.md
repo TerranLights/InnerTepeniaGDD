@@ -41,6 +41,10 @@ restoration or replica work, even if they made no visible difference to the hut'
 condition. The re-survey became the archive's own new baseline record, Manalo's own insistence on precision
 setting a documentation standard later archivists inherited without needing to relitigate.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Keeper Who Turned a Habit Into a Tradition
@@ -58,6 +62,10 @@ pet-keeping didn't inadvertently harm the birds involved. The guidelines were ad
 per what's remembered of the period, since they formalized a practice residents were already doing rather than
 introducing anything genuinely new. What had been scattered, individual attachment became, through Widjaja's
 own modest proposal, a recognized civic tradition with actual shared standards behind it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -78,6 +86,10 @@ specific February date and the basic shape of commemoration that generations of 
 continued afterward — historical consciousness that had always been present in how the city related to its
 own site, finally given a specific annual occasion to be expressed through.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Ships That Just Happened to Arrive Together
@@ -97,6 +109,10 @@ The improvised cooperation that resulted, born from necessity among strangers wh
 same place at the same time, became the origin of Cape Adare's own established gateway character — a city
 built by people who arrived because the place was reachable, not because they'd planned to arrive together.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Gathering That Borrowed the Site's Own Weight
@@ -113,6 +129,10 @@ part of the message being sent — whatever was being formalized that day was me
 carrying real historical weight, not merely ordinary administrative business. The specific matter resolved at
 the gathering isn't preserved in detail, but the precedent of using Cape Adare's own symbolic standing to lend
 gravity to significant occasions is remembered as beginning with this one deliberate choice of venue.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -133,6 +153,10 @@ Hwy 183's own established spur-access network — the genuine construction diffi
 largely forgotten by travelers who use the finished route today without any sense of how unevenly difficult
 the terrain along it actually was to build through.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -152,6 +176,10 @@ Tower's own planners ultimately did with the guidance isn't part of what Cape Ad
 The instinct that had once redone a set of measurements simply because they weren't precise enough had, this
 time, been asked for directly rather than developed in isolation.
 
+// adjustments
+
+// visions
+
 ### The Gateway That Received Ships Bound Somewhere Else Entirely
 
 *(Shortly before the Tower's completion.)* Cape Adare's own established role as the natural first stop for
@@ -167,6 +195,10 @@ city's own gateway character in the first place. Most of the vessels stayed only
 Cape Adare's own role, as it had always been, was simply being the reachable place people passed through on
 their way to somewhere else.
 
+// adjustments
+
+// visions
+
 ### The Pet Rookery-Keepers Introduced to Strangers for the First Time
 
 *(Shortly before the Tower's completion.)* Cape Adare's own individual-penguin-keeping tradition, formalized
@@ -180,6 +212,10 @@ plain, unshowy pride Widjaja's own guidelines had always assumed the practice de
 outsiders, simply an ordinary piece of daily life that happened, for a season, to have more witnesses than
 usual. The rookery itself remained exactly as undisturbed as the guidelines required. The individually kept
 birds, and the residents who kept them, simply had more strangers stop to notice for a while.
+
+// adjustments
+
+// visions
 
 ### The Observance That Reached Listeners Who'd Never Heard of Borchgrevink
 
@@ -195,6 +231,10 @@ Cape Adare's own residents had always lived beside the specific weight of being 
 human story began." For the first time, people elsewhere in the country got to hear exactly what that weight
 actually meant.
 
+// adjustments
+
+// visions
+
 ### The Precision Standard Another City's Archivists Finally Asked About
 
 *(Shortly after the Tower's completion.)* Manalo's own re-survey methodology — the unhurried, exacting
@@ -208,6 +248,10 @@ other cities' own heritage archives actually adopted the approach isn't part of 
 preserved. What the inquiry confirmed, for the first time, was that a documentation standard built to preserve
 one small wooden hut had traveled far enough to matter to archivists preserving something else entirely.
 
+// adjustments
+
+// visions
+
 ### The Gateway That Finally Knew What Was Coming
 
 *(Shortly after the Tower's completion.)* Cape Adare's own harbor, previously receiving maritime traffic with
@@ -220,6 +264,10 @@ Harbor staff, per what's recalled of the change, found themselves able to prepar
 than simply responding to whoever showed up — a genuine departure from the same improvised, chance-based
 hospitality that had defined the city's own gateway character since its founding. The gateway itself hadn't
 changed. For the first time, though, it could see a little further down the coast than its own harbor.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -238,6 +286,10 @@ technique Manalo had once used to correct the hut's own original survey. Port Lo
 the borrowed method themselves, settling the dimensional dispute for the first time using a measurement
 standard imported directly from a city that had never seen the Wall in person.
 
+// adjustments
+
+// visions
+
 ### The Tower Documentation Question Amundsen Station Sent Back a Second Time
 
 Following the original consultation on documenting the Tower's own construction, Amundsen Station's own
@@ -252,6 +304,10 @@ turned out to require different documentation philosophies entirely. The exchang
 planners something more valuable than a direct answer: confirmation that their own question needed a genuinely
 new documentation approach, not simply an adaptation of Cape Adare's own existing one.
 
+// adjustments
+
+// visions
+
 ### The Penguin-Keeping Guidelines Zukelli's Own Residents Asked About
 
 Word of Cape Adare's own individual-penguin-keeping tradition, formalized under Widjaja's own basic shared
@@ -263,6 +319,10 @@ city — simply curious how a formalized pet-keeping tradition alongside an undi
 worked in practice. Cape Adare's own residents explained the guidelines in full, the same plain civic pride
 Widjaja's own original proposal had always carried. Nothing came of the exchange beyond genuine cross-city
 curiosity satisfied for the first time.
+
+// adjustments
+
+// visions
 
 ### The Marker Explained to a City That Had Never Heard of Douglas Mawson
 
@@ -278,6 +338,10 @@ how Cape Adare related to its own history. The inquiry didn't lead to any lastin
 cities. It confirmed, once again, that Cape Adare's own quiet historical weight could still reach people who'd
 never have found it any other way.
 
+// adjustments
+
+// visions
+
 ### The Heritage Standard Port Lockroy's Wall Now Officially Cites
 
 Following the earlier informal citation exchange between the two archives, Cape Adare's own preservation
@@ -290,6 +354,10 @@ same understated pride the city applied to most of its own achievements — genu
 quietly, that a documentation discipline built to preserve one small wooden hut had become, formally, part of
 how another city's own chronicle-keeping tradition operated.
 
+// adjustments
+
+// visions
+
 ### The Gateway Report That Finally Reached Amundsen Station Directly
 
 Cape Adare's own gateway role — the natural first stop for ships approaching the Ross Sea coast — produced its
@@ -301,6 +369,10 @@ Cape Adare's own harbor staff, per what's preserved of the new arrangement, foun
 national report for the first time — the same practical, unceremonious competence the harbor always applied to
 its own local traffic, now feeding directly into a national coordination system nobody at the harbor had ever
 had reason to think about before the connection made it possible.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -318,6 +390,10 @@ own representative could simply ask Cape Adare's harbor staff to clarify directl
 immediate back-and-forth that a comparable inquiry from any subnet-external city would have needed a full
 postal round trip to accomplish.
 
+// adjustments
+
+// visions
+
 ### The Second Question Zukelli Asked Just to Keep the Conversation Going
 
 Beyond the practical wildlife inquiries, Zukelli's and Cape Adare's shared Janbogo subnet membership let the
@@ -329,6 +405,10 @@ of the record, began as pure curiosity from a Zukelli resident and turned into a
 correspondence conducted entirely over the subnet's instant line — a relationship that would never have
 formed at all if every message had needed to travel by the slow postal route any subnet-external
 correspondence required.
+
+// adjustments
+
+// visions
 
 ### The Preservation Standard Port Lockroy Requested by Letter
 
@@ -342,6 +422,10 @@ methodology document that itself took months to reach Port Lockroy — genuinely
 finally arrived, that became a working reference for Port Lockroy's own internal standards long before either
 archive could simply compare notes directly.
 
+// adjustments
+
+// visions
+
 ### The Marker Inquiry That Traveled Further Than Anyone Expected
 
 A written inquiry about a specific heritage marker, arriving from a city with no prior connection to Cape
@@ -352,6 +436,10 @@ Cape Adare's own archivists, per what's preserved of the exchange, answered plai
 letter finally arrived, months after it was first written — the same unhurried, careful documentation
 discipline the city applied to everything else, extended without complaint to a correspondent who'd had no
 faster way to reach them.
+
+// adjustments
+
+// visions
 
 ### The Documentation Standard Amundsen Station Requested During the Tower's Own Construction
 
@@ -366,6 +454,10 @@ months to make the return trip toward the Pole. The consultation shaped how the 
 eventually documented for the Federation's lasting record. Getting the guidance there simply took considerably
 longer than anyone at either end would have preferred.
 
+// adjustments
+
+// visions
+
 ### The Manifest Zukelli Confirmed Before Port Lockroy's Reply Even Left
 
 A shipment of archival supplies, ordered from Zukelli and confirmed within a single real-time exchange over
@@ -376,6 +468,10 @@ The Zukelli shipment arrived within days. The letter to Port Lockroy took most o
 reply to at all — two pieces of correspondence, sent the same morning from the same office, arriving at
 entirely different speeds depending on nothing more than which side of the subnet boundary each was addressed
 to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -393,6 +489,10 @@ the same understated pride the city extended to most things — a methodology de
 own quiet purposes had traveled far enough to actually reshape how a comparably careful archive elsewhere
 did its own work.
 
+// adjustments
+
+// visions
+
 ### The Tower Documentation Consultation That Continued Past the Tower Itself
 
 Following the original consultation on how to properly document the Amundsen Tower's own construction, Cape
@@ -405,6 +505,10 @@ standard as always — the first time their own methodology had been sought out 
 do with the Tower at all, confirming the original consultation's real value hadn't been specific to that one
 structure.
 
+// adjustments
+
+// visions
+
 ### The Second Curiosity Zukelli Sent About Penguins, Answered With a Full Report
 
 Following the original casual wildlife-guideline exchange, a considerably more serious inquiry arrived from
@@ -416,6 +520,10 @@ The report, per what's preserved of its own creation, became something Cape Adar
 office kept updating afterward specifically because Zukelli's own continued interest gave the ongoing data
 collection a genuine outside audience for the first time.
 
+// adjustments
+
+// visions
+
 ### The Marker Inquiry That Finally Got a Same-Day Answer
 
 Following the earlier heritage-marker inquiry that took months to answer due to distance, a second, similar
@@ -424,6 +532,10 @@ discipline applied, simply no longer slowed by the postal distance that had dela
 
 Cape Adare's own archivists, per what's preserved of the response, noted the contrast themselves — the
 content of the answer hadn't changed at all, only how long it took to actually reach the person who'd asked.
+
+// adjustments
+
+// visions
 
 ### The National Gateway Report That Became Cape Adare's Own Standing Duty
 
@@ -434,6 +546,10 @@ than only when a specific arrival prompted one.
 Cape Adare's own residents, per what's preserved of the shift, took quiet pride in the new formal role — the
 same practical, unshowy competence the harbor had always applied to local traffic, now recognized, officially,
 as a genuine piece of national maritime-safety infrastructure.
+
+// adjustments
+
+// visions
 
 ### The Preservation Instinct Cited as the Country's Clearest Example
 
@@ -446,6 +562,10 @@ Cape Adare's own archivists, per what's preserved of the recognition, found the 
 uncomfortable — the two cities had always understood their own preservation instincts as siblings, not
 rivals, and neither particularly wanted to be singled out as the "clearer" example of something they'd always
 considered a shared value rather than a competition.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -461,6 +581,10 @@ A similar shortfall for an unrelated event, mentioned in a letter to Port Lockro
 reply but no actual volunteers — the distance itself making the kind of spontaneous, same-day help Zukelli
 had offered simply impossible to arrange in time.
 
+// adjustments
+
+// visions
+
 ### The Penguin-Count Discrepancy Zukelli Resolved Before Dinner
 
 A minor discrepancy in a joint wildlife survey, discovered mid-count, was resolved with Zukelli over the
@@ -470,6 +594,10 @@ rather than reconciling separate reports after the fact.
 Amundsen Station, participating in a related but separate survey, could offer no equivalent real-time
 comparison — its own findings, compiled independently and sent by the eventual mail run, could only be
 cross-checked against Cape Adare's own data well after both surveys had already concluded.
+
+// adjustments
+
+// visions
 
 ### The Preservation Instinct Port Lockroy Wrote to Understand
 
@@ -482,6 +610,10 @@ The same category of question, raised with Zukelli over the subnet's own line, r
 conversation — not because Zukelli understood the value any better, but because clarifying questions could be
 asked and answered as fast as they occurred to either side.
 
+// adjustments
+
+// visions
+
 ### The Marker Question That Outran Its Own Sender
 
 A visitor's inquiry about one of Cape Adare's own historical markers, relayed by the visitor's own subsequent
@@ -492,6 +624,10 @@ traveler who'd prompted it.
 A comparable inquiry channeled instead through Zukelli reached an answer within the same day it was asked —
 no race against a traveler's own itinerary necessary, since the subnet's own line simply outpaced any
 physical journey by a wide margin regardless.
+
+// adjustments
+
+// visions
 
 ### The Documentation Amundsen Station Requested During the Tower's Own Construction
 
@@ -504,6 +640,10 @@ Zukelli's own request for the same category of documentation, made the same seas
 line, prompted a genuine back-and-forth refinement over several days — the same underlying material, treated
 very differently depending on how quickly a follow-up question could actually travel.
 
+// adjustments
+
+// visions
+
 ### The Community That Was Warmest Where the Line Was Fastest
 
 Cape Adare's own defining warmth — big-city generosity at small-town scale — extended fully and genuinely to
@@ -514,3 +654,7 @@ considerate, careful, but inevitably more distant correspondence.
 Cape Adare's own community leaders, per a surviving reflection, didn't consider this any kind of favoritism —
 warmth, in their own accounting, traveled exactly as fast as the line carrying it allowed, and no amount of
 good will on either end could make a letter move faster than the mail actually ran.
+
+// adjustments
+
+// visions

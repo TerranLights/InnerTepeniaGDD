@@ -45,6 +45,10 @@ stress at each building's own individual, exposed edges. The design was built as
 through wind conditions that later engineering assessments confirmed would have severely tested a segmented
 alternative — the founding achievement Denison's whole built environment is still credited to.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Chambers Suh Got Working Before Anyone Else Nearby Could
@@ -64,6 +68,10 @@ discovery. The manufacturing capability Suh established became genuine national 
 chamber output reaching cities across Tepenia during the city's own operational years — a piece of
 significant, quietly load-bearing history built on Suh's own methodical, unglamorous engineering discipline.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Recitation That Started as a Warning
@@ -82,6 +90,10 @@ figures conveying real severity architecture alone couldn't. The practice's own 
 from purely cautionary to something closer to civic pride, but its origin traces directly to that one specific
 near-miss and the practical communication gap it exposed.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Road Worn Smoother in One Direction
@@ -98,6 +110,10 @@ residents treated as genuine expeditions rather than routine travel. A specific 
 Denison's and Dumont d'Urville's own technical staffs, per what's remembered of the relationship's founding-
 era development, became a regular fixture specifically because the short travel distance made frequent
 exchange genuinely practical in a way distance alone ruled out with Denison's more northern neighbors.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -116,6 +132,10 @@ structure. The redesigned seam passed retesting, and the completed structure met
 with only modest delay — a founding-era near-failure resolved close enough to completion that few residents
 who later lived comfortably inside the finished, continuous structure ever learned how close that specific
 seam had come to requiring a much larger redesign.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -136,6 +156,10 @@ incident became, within Denison's own civic culture, a specific, often-retold ca
 recitation tradition existed in the first place — precise numbers, however implausible they sounded from
 inside the sealed calm of the city itself.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -154,6 +178,10 @@ manufacturer, tested now against real production pressure rather than a founding
 shipped complete and within tolerance. Nobody on the floor learned what the chambers were ultimately destined
 for; Suh's own working method had never required knowing a customer's purpose to do the job correctly.
 
+// adjustments
+
+// visions
+
 ### The Recitation Given to an Audience That Actually Needed It
 
 *(Shortly before the Tower's completion.)* Denison's wind-statistics recitation tradition — born from one
@@ -169,6 +197,10 @@ conditions the same way the tradition's own original near-miss visitor once had.
 travelers ever stepped outside to test the numbers directly isn't preserved. The recitation was given anyway,
 exactly as the tradition had always required.
 
+// adjustments
+
+// visions
+
 ### The Exchange Program That Ran Both Directions at Once
 
 *(Shortly before the Tower's completion.)* The regular technical exchange between Denison and Dumont d'Urville
@@ -182,6 +214,10 @@ program harder rather than restructuring it — the same short-distance practica
 exchange viable between these two cities in the first place absorbing genuinely unusual volume without
 requiring any new formal arrangement. The relationship with Cape Adare, considerably more distant, stayed
 exactly as occasional as it had always been.
+
+// adjustments
+
+// visions
 
 ### The Design Question Other Engineers Finally Asked Directly
 
@@ -198,6 +234,10 @@ this severe. Whether any inquiring city actually built anything from the answer 
 itself preserved. The design that had once needed real defending against its own founding-era skeptics had,
 for the first time, an audience asking about it on its own merits rather than doubting it outright.
 
+// adjustments
+
+// visions
+
 ### The Chamber Network That Finally Confirmed Delivery Instantly
 
 *(Shortly after the Tower's completion.)* Denison's own chamber shipments, moving through the Cradle's national
@@ -210,6 +250,10 @@ exactly the way it had proven useful elsewhere in the Cradle network — product
 confirmed delivery rather than assumed transit time, the same generations-old buffer against uncertainty
 finally unnecessary to carry. Suh's own methodical calibration discipline governed the chambers' own quality
 exactly as it always had. Knowing they'd arrived safely simply took considerably less waiting than before.
+
+// adjustments
+
+// visions
 
 ### The Numbers Recited to an Audience That Couldn't Feel the Wind
 
@@ -224,6 +268,10 @@ convince a single skeptical newcomer standing right there in the city now offere
 them on faith entirely. Whether distant listeners believed the figures the way Denison's own skeptical
 newcomer eventually had to isn't something the recitation could settle from a distance. The numbers were
 recited anyway, exactly as precisely as they'd always been.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -243,6 +291,10 @@ convergent precision-tolerance solutions across all three sites, arrived at inde
 time Denison's own historical manufacturing legacy had been given a proper, documented place in the Cradle
 network's own technical history, rather than remaining an acknowledged but unstudied precedent.
 
+// adjustments
+
+// visions
+
 ### The Chamber Order Byrd Finally Explained From Its Own End
 
 Following the standing order that had once outpaced Suh's own best production season, a direct follow-up from
@@ -257,6 +309,10 @@ provided by a fellow Cradle manufacturer with no obligation to research the ques
 didn't change anything about Denison's own current status. It gave Denison's own historical record one small,
 concrete answer it had never previously had access to.
 
+// adjustments
+
+// visions
+
 ### The Wind-Engineering Case Study Rothera Finally Wrote Up in Full
 
 Following the joint technical session comparing Rothera's decentralized siting against Denison's own fused
@@ -269,6 +325,10 @@ Denison's preserved technical records, became a genuine reference document — c
 its later use, by engineers at other cities facing comparable extreme-wind design decisions. Denison's own
 legacy, though the city itself no longer stood, continued shaping active engineering practice through the
 comparison alone.
+
+// adjustments
+
+// visions
 
 ### The Load-Distribution Fix Mirny's Guildhall Confirmed Actually Worked
 
@@ -284,6 +344,10 @@ Denison's own engineers, per what's recalled of the response, credited the succe
 the outside consultation — the first time either city's own wind-engineering tradition had received explicit,
 attributed credit from the other for shaping an actual completed structure.
 
+// adjustments
+
+// visions
+
 ### The Exchange Program's First Formal Cohort
 
 Following the formalization of the standing technical exchange between Denison and Dumont d'Urville, the
@@ -298,6 +362,10 @@ the shift as subtle but genuinely valuable: a relationship that had always depen
 individuals happened to be maintaining it now institutionally protected against any single person's own
 eventual departure.
 
+// adjustments
+
+// visions
+
 ### The Recitation Rothera's Engineers Learned to Respect
 
 Following the wind-engineering case study connecting Rothera and Denison, a specific group of Rothera's own
@@ -311,6 +379,10 @@ what's recalled of the reaction, found the numbers genuinely sobering even secon
 demonstration rather than lived directly. It marked the first time Denison's own civic tradition had been
 performed specifically for visitors whose own engineering expertise let them appreciate exactly how severe the
 recited conditions actually were.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -327,6 +399,10 @@ finalized within one sitting between Denison's and Dumont d'Urville's own coordi
 planning speed neither city could extend to any comparable exchange involving a subnet-external partner,
 where the same negotiation would have taken a full season of letters just to settle logistics.
 
+// adjustments
+
+// visions
+
 ### The Wind-Engineering Comparison Rothera Answered a Full Winter Late
 
 Denison's own fully-interlinked structural design and Rothera's own decentralized, wind-load-distributed
@@ -337,6 +413,10 @@ The comparative study, per what's preserved of the letters, spanned close to two
 before either city's own engineers felt confident enough in the comparison to publish it internally — each
 round of findings mailed, reviewed, and answered months later, a pace considerably slower than the single
 season the same kind of study took Denison and Dumont d'Urville to complete over the subnet's own line.
+
+// adjustments
+
+// visions
 
 ### The Chamber Peer Relationship Sinheung Maintained Entirely by Letter
 
@@ -349,6 +429,10 @@ Sinheung's own engineers, working from a written description of a manufacturing 
 access to Denison's own equipment, doing their careful best with information that arrived considerably slower
 than the problem itself had developed.
 
+// adjustments
+
+// visions
+
 ### The Load-Distribution Confirmation Mirny Sent by the Slowest Possible Route
 
 The extreme-wind engineering parallel connecting Denison's own fully-interlinked design to Mirny's own
@@ -360,6 +444,10 @@ send back — genuinely useful comparative figures that Denison's own engineers 
 internal documentation, considerably later than a comparable request to Dumont d'Urville would have taken to
 answer.
 
+// adjustments
+
+// visions
+
 ### The Historical Peer Relationship Byrd Learned About From a Book, Not a Letter
 
 Denison's own status as a historical Cradle-network peer to Byrd's own still-active Chamber Works was, for
@@ -369,6 +457,10 @@ material that had reached them slowly — no direct correspondence existed betwe
 A specific Byrd engineer, curious enough to write directly once he encountered Denison's own name in an
 industry reference, sent an inquiry that took months to arrive and longer to answer — Denison's own archivists
 searching physical records to confirm details Byrd's own engineer had only ever encountered secondhand.
+
+// adjustments
+
+// visions
 
 ### The Manifest Dumont d'Urville Confirmed Before Rothera's Own Letter Even Left
 
@@ -381,6 +473,10 @@ The Dumont d'Urville shipment arrived within days. The letter to Rothera took mo
 reply to at all — two pieces of correspondence, sent from the same office on the same morning, arriving at
 their destinations at completely different speeds depending on nothing more than which side of the subnet
 boundary each was addressed to. **Completes the Janbogo subnet's batch 4 pass.**
+
+// adjustments
+
+// visions
 
 ---
 
@@ -398,6 +494,10 @@ city's precision-tolerance heritage documented more fully than any single city's
 alone — the shared Cradle-network history finally getting the thorough treatment its own three former
 manufacturers had never had reason to produce together before.
 
+// adjustments
+
+// visions
+
 ### The Chamber Origin Story Byrd Asked to Hear a Second Time, More Carefully
 
 Following the original explanation of Denison's own historical role as the Cradle network's third
@@ -408,6 +508,10 @@ Denison's own remaining archival records, per what's preserved of the exchange, 
 first explanation had drawn on — the second, more probing conversation surfacing genuine technical specifics
 neither Byrd nor Sinheung had previously had access to about how the historical third chamber manufacturer had
 actually operated.
+
+// adjustments
+
+// visions
 
 ### The Wind-Engineering Comparison Rothera Cited as Definitive
 
@@ -420,6 +524,10 @@ Denison's own engineers, per what's preserved of the study's own reception, foun
 their own fully-interlinked structural philosophy taken seriously as one of two genuinely valid answers to the
 same extreme problem, rather than simply the more extreme of two approaches.
 
+// adjustments
+
+// visions
+
 ### The Load-Distribution Confirmation Mirny Finally Explained in Full
 
 Following the original load-distribution confirmation from Mirny, Denison's own engineers asked for the full
@@ -430,6 +538,10 @@ Mirny's own engineers, per what's preserved of the exchange, walked through thei
 reasoning step by step — the first time the two cities' own extreme-wind engineering traditions had actually
 compared underlying methodology rather than simply confirming that both approaches worked.
 
+// adjustments
+
+// visions
+
 ### The Formal Cohort That Finally Included a Denison-Trained Engineer as Faculty
 
 Following the formalized exchange program with Dumont d'Urville, a Denison-trained engineer was invited to
@@ -439,6 +551,10 @@ exchange, but a recognized expert contributing directly to how the next cohort w
 Dumont d'Urville's own coordinators, per what's preserved of the invitation, treated it as a natural next
 step — the exchange program having matured enough that its own most capable participants could begin shaping
 it directly, rather than only passing through it.
+
+// adjustments
+
+// visions
 
 ### The City Whose Engineering Philosophy Finally Got Its Own National Hearing
 
@@ -452,6 +568,10 @@ Denison's own engineers, per what's preserved of the period, found the attention
 way the city handled everything else — genuine national recognition, received the same way the city met its
 own defining wind: without complaint, and without needing to make a show of having earned it. **Completes the
 Janbogo subnet's batch 5 pass.**
+
+// adjustments
+
+// visions
 
 ---
 
@@ -467,6 +587,10 @@ Rothera, asked a related verification question the same week, could offer no equ
 input — its own reply, once it arrived by mail, addressed a version of the problem Denison's own engineers had
 already finished solving without it.
 
+// adjustments
+
+// visions
+
 ### The Comparison Rothera Answered a Full Winter Behind Schedule
 
 A wind-engineering comparison requested from Rothera took a full winter to receive a complete answer —
@@ -478,6 +602,10 @@ produced a working answer within days — not because Dumont d'Urville's own eng
 comparable in depth, but because a partial, imperfect first answer could simply be refined in real time rather
 than needing to arrive complete.
 
+// adjustments
+
+// visions
+
 ### The Chamber Relationship Sinheung Maintained One Slow Letter at a Time
 
 Denison's own peer relationship with Sinheung's fabrication chamber operators, though genuinely productive,
@@ -488,6 +616,10 @@ Dumont d'Urville, raising a related but simpler technical question over the subn
 useful answer the same day — a reminder, to Denison's own engineers, of how differently the same category of
 professional relationship could develop depending entirely on which line connected the two parties.
 
+// adjustments
+
+// visions
+
 ### The Load-Distribution Data Mirny Sent the Long Way, On Purpose
 
 A load-distribution dataset requested from Mirny arrived by the slowest available route — not from any lack
@@ -497,6 +629,10 @@ transmit all of it reliably, forcing physical transport of the compiled records 
 Dumont d'Urville's own comparable dataset, transmitted over the subnet's own line in full, arrived
 instantly and completely — the difference in delivery method tracing less to either city's own diligence than
 to simple data volume and which line was actually available to carry it.
+
+// adjustments
+
+// visions
 
 ### The Historical Peer Byrd Learned About From a Published Account
 
@@ -509,6 +645,10 @@ Dumont d'Urville, by contrast, was a living, active correspondent — proof that
 relationships existed on a spectrum from genuinely distant to warmly immediate, and that distance alone didn't
 fully explain where any given city landed on it.
 
+// adjustments
+
+// visions
+
 ### The Structure That Answered Extremity With Extremity, and Distance With Patience
 
 Denison's own defining engineering answer — a single fused, uncompromising structure built to meet the most
@@ -519,3 +659,7 @@ with Dumont d'Urville, and patient, deliberate, and often quite slow with Sinheu
 Denison's own engineers, per a surviving reflection, treated this simply as one more extreme condition the
 city had learned to design around — the quality of the work never wavered, only the speed at which anyone
 outside the subnet could actually see it happen.
+
+// adjustments
+
+// visions

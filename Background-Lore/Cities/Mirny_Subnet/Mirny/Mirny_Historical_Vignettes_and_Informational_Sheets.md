@@ -54,6 +54,10 @@ attribute #1 as it stands today required that specific argument to have gone the
 outcome, and Mirny's whole outer wall might still be shedding its own force into hard corners instead of
 around a curve.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Redundancy Nobody Wanted to Pay For
@@ -74,6 +78,10 @@ notes, without ever securing the fuller redundancy she'd originally argued for. 
 was actually built is the same one the Vaults still run on — a single point of failure smaller than it might
 have been without Marchenko's own founding-era advocacy, but never as resilient as she herself believed the
 subnet's own most consequential facility deserved.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -100,6 +108,10 @@ process around her result, but chamber-tested apprentices since have, by informa
 least once during their own trial what the chamber isn't telling them — a question with Voskresenskaya's
 own name still attached to it whenever it's asked.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Toast Nobody Wanted to Give
@@ -122,6 +134,10 @@ simple celebration either — it became something in between, an informal toast 
 close the loss had actually come and how ordinary a hazard the southern routes represent for every crew
 that works them. Every Quarry Return Toast since carries some version of that same double weight, whether
 or not the crew being toasted ever came as close to genuine loss as Oyunbaatar's own did.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -147,6 +163,10 @@ at the quarry face soon after. The ore dispute itself was resolved in weeks; the
 outlasted it, a small, concrete instance of exactly the knowledge-transfer Finding G proposes as plausible,
 now with an actual visit and an actual named consequence attached to it rather than remaining only a
 structural possibility.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -174,6 +194,10 @@ compromise held, and outlasted the resource shortage that had originally forced 
 by the time later attributes like #18 were being cataloged as simply how Mirny operates, no longer
 remembered as a compromise at all.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -194,6 +218,10 @@ traveled to the Tower site itself this time; the query was answered by written p
 principles that governed Mirny's own windbreak ring, sent onward without any particular sense that the request
 was as consequential as it clearly was.
 
+// adjustments
+
+// visions
+
 ### The Vaults Tested Against a Network That Didn't Exist Yet
 
 *(Shortly before the Tower's completion.)* The Relay Hardware Vaults — carrying, as they always had, the
@@ -209,6 +237,10 @@ load, but with less margin than the technicians running the test would have pref
 rebuilt or expanded before the connection came. They simply held, the same partial compromise system Marchenko
 had once settled for, asked to do slightly more than it had ever been asked to do before.
 
+// adjustments
+
+// visions
+
 ### The Shipment the Quarry Crews Never Got a Name For
 
 *(Shortly before the Tower's completion.)* The quarry-to-yard supply chain, already established as feeding
@@ -221,6 +253,10 @@ Crews handling the order, per what's remembered of it, applied the same seam-fla
 dispute had produced generations earlier — checking consistency carefully, since nothing about the order's
 own unusual precision requirements suggested this was a shipment where an inconsistent seam would go unnoticed.
 The order shipped clean. Nobody at the quarry face ever learned exactly what it became.
+
+// adjustments
+
+// visions
 
 ### The First Word That Reached All Five Cities at Once, From Somewhere Else
 
@@ -236,6 +272,10 @@ now carrying weight for a connection nobody at the Vaults' founding could have s
 compromise system held. It had never been asked to do quite this much before, and it did it anyway, the same
 way it had done everything else since the day it was built smaller than it should have been.
 
+// adjustments
+
+// visions
+
 ### The Solstice Watched by More People Than Ever Stood on the Ring
 
 *(Shortly after the Tower's completion.)* The solstice observation tradition — requiring no infrastructure,
@@ -249,6 +289,10 @@ were watching their own version of the same sky at the same moment added somethi
 never needed an audience to matter. Nothing about the observance itself changed — the sun still grazed the same
 horizon it always had — but for one specific solstice, Mirny's own oldest and least breakable tradition was,
 for the first time, not only its own.
+
+// adjustments
+
+// visions
 
 ### The Apprentice Who Asked to Train From Somewhere Else Entirely
 
@@ -265,6 +309,10 @@ actually involved and what it would take to pass it. Whether the apprentice ever
 of what's currently preserved. What the inquiry itself confirmed, for the first time, was that a guild built
 entirely around a wind nobody outside Mirny had ever needed to argue with had become, to at least one stranger
 elsewhere in the country, worth learning from directly.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -284,6 +332,10 @@ planning process. What Rothera's own engineers did with the comparison isn't par
 preserved. The request itself, arriving directly rather than through any formal channel, was the first time
 either city's own raw-material planning had been examined this closely by an outside party.
 
+// adjustments
+
+// visions
+
 ### The Wind-Fusion Question Denison Sent Looking for a Second Opinion
 
 Denison's own fully-interlinked, aerodynamically continuous structural design and Mirny's own windbreak-ring
@@ -299,6 +351,10 @@ differently, but one worth double-checking regardless. Denison's own engineers, 
 response, incorporated the flagged concern into a revised design. It marked the first time either city's own
 wind-engineering tradition had directly shaped the other's actual construction decisions.
 
+// adjustments
+
+// visions
+
 ### The Kitchen Question Abowasa Finally Got to Ask in Detail
 
 Mirny's own Dual-Kitchen Halls — physically distinct but co-located Russian and Chinese food service,
@@ -313,6 +369,10 @@ useful precisely because it confirmed a coexistence solution reached through tri
 theory — the same practical, hard-won quality Abowasa's own two-community founding had also required, though
 neither city had ever had reason to compare notes on it before.
 
+// adjustments
+
+// visions
+
 ### The Production Schedule Sinheung Finally Synced With the Quarry Face Directly
 
 Mirny's own ore-quarrying supply chain to Sinheung, already established as a genuine, tested working
@@ -325,6 +385,10 @@ extraction timing directly against Sinheung's own projected chamber-fabrication 
 than reacting to orders after they were placed. Neither city's own production discipline changed
 fundamentally. What changed, for the first time in the relationship's own working history, was that supply and
 demand could actually be planned together rather than merely reconciled after the fact.
+
+// adjustments
+
+// visions
 
 ### The Reading Zhongshan's Long Record Finally Cross-Checked Against Mirny's Own
 
@@ -340,6 +404,10 @@ to make the comparison meaningful. Neither city's own historical record required
 gained, for the first time, a genuine cross-reference point for a period each had only ever understood in
 isolation.
 
+// adjustments
+
+// visions
+
 ### The Toast Casey's Dispatch Office Learned to Give
 
 Casey's own cardinal social rule — route information shared immediately and accurately, because lives depend
@@ -354,6 +422,10 @@ directly to residents of another Mirny subnet city rather than passed down only 
 own dispatchers, per what's recalled of the reaction, recognized the same underlying instinct their own wind-
 window certifications ran on: information, and the people who carried it safely, treated as worth genuinely
 honoring rather than simply expected.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -371,6 +443,10 @@ with representatives from all three receiving cities present over the Vaults' ow
 worth of logistics settled in one sitting, something no equivalent gathering of cities from different subnets
 could have managed at anything like the same speed.
 
+// adjustments
+
+// visions
+
 ### The Quarry Order Rothera Waited Three Weeks to Confirm
 
 Rothera's own structural-twin relationship to Mirny — both cities quarrying and manufacturing what their own
@@ -381,6 +457,10 @@ A specific equipment specification, clarified across several rounds of exchanged
 of the transaction, took the better part of a year to finalize before Mirny's own Windwright Guildhall could
 even begin fabrication — a process that, conducted with any of Mirny's own subnet neighbors instead, would
 have been a single afternoon's conversation rather than a year of careful, slow-moving correspondence.
+
+// adjustments
+
+// visions
 
 ### The Kitchen Question Abowasa Asked and Waited Months to Hear Back On
 
@@ -394,6 +474,10 @@ Halley subnet and answer in full detail — genuinely useful guidance, delayed o
 own kitchen administrators implemented once it finally arrived, considerably later than the original question
 had hoped for.
 
+// adjustments
+
+// visions
+
 ### The Engineering Parallel Denison Learned About by Letter, Not by Visit
 
 Denison's own fully-interlinked structural design and Mirny's own windbreak-ring architecture solved the same
@@ -404,6 +488,10 @@ A specific technical exchange, per what's preserved of the letters, spanned near
 seasons before either city's own engineers felt they'd gathered enough comparable data — each round of
 findings mailed, reviewed, and answered months later, a pace that would have been a single working season had
 either city sat within Mirny's own subnet instead.
+
+// adjustments
+
+// visions
 
 ### The Toast Told Six Times in One Evening, Once by Letter
 
@@ -417,6 +505,10 @@ written version Rothera eventually received was, if anything, more detailed than
 Mirny's own quarry crews apparently taking more care with a story they knew would have to survive the trip
 in writing alone.
 
+// adjustments
+
+// visions
+
 ### The Shipment Six Cities Planned Together for a Seventh That Never Answered
 
 A large joint order, drawing simultaneously on Mirny's, Sinheung's, and Zhongshan's own combined stock and
@@ -427,6 +519,10 @@ That same shipment, once it left the Mirny subnet bound for Rothera, traveled fo
 the three planning cities to confirm it had even arrived — the instant three-way coordination that assembled
 it giving way, at the subnet boundary, to the same unaccountable silence every shipment crossing into another
 subnet disappeared into.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -443,6 +539,10 @@ Mirny's own quarry administrators, per what's preserved of the exchange, hadn't 
 byproduct worth much thought — a genuinely new, minor revenue stream opened simply because a city with an
 entirely unrelated need happened to ask a question Mirny's own operation had never had reason to ask itself.
 
+// adjustments
+
+// visions
+
 ### The Isolation Vostok Finally Described in Its Own Words
 
 Following years of being discussed by other cities primarily through Kunlun's own comparable profile, Vostok's
@@ -454,6 +554,10 @@ The resulting exchange, per what's preserved of the record, reached Mirny's own 
 others — genuine interest in Vostok's own research from a subnet-mate that had, until connectivity made it
 easy, mostly known Vostok only as "the other isolated outpost," rather than for the specific work it actually
 did.
+
+// adjustments
+
+// visions
 
 ### The Production Schedule That Finally Included a Fourth City
 
@@ -467,6 +571,10 @@ new standard practice — Mirny's own logistics office, per what's remembered of
 third and then fourth participant to an already-instant planning session cost almost nothing once the basic
 system existed.
 
+// adjustments
+
+// visions
+
 ### The Long Record Entry That Finally Named a Mirny Founder Directly
 
 Following the earlier historical cross-check against Zhongshan's Long Record, a considerably more personal
@@ -477,6 +585,10 @@ The discovery, per what's preserved of the account, gave the resident something 
 provided — a specific, documented connection between her own family and a city she'd had no idea her
 ancestors had ever worked with directly, recovered only because Zhongshan's own archive happened to have kept
 better records of the collaboration than Mirny's own had.
+
+// adjustments
+
+// visions
 
 ### The Toast Casey Recorded This Time, Not Just Heard
 
@@ -489,6 +601,10 @@ Mirny's own quarry crews, per what's preserved of the exchange, agreed and helpe
 detailed account than the original telling had included — the first time the Toast's own origin story existed
 anywhere outside Mirny's own oral tradition in a form another city had actually helped create.
 
+// adjustments
+
+// visions
+
 ### The Engineering Answer Denison Didn't Expect So Quickly
 
 Following the earlier second-opinion consultation on wind-fusion engineering, Denison's own engineers returned
@@ -499,6 +615,10 @@ Denison's own engineers, per what's preserved of the exchange, noted the speed d
 own follow-up thanks — proof, from a city whose own established Enneagram profile prized structural mastery
 above nearly everything else, that Mirny's own windbreak-ring expertise held up under a harder question than
 the original consultation had tested.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -515,6 +635,10 @@ Rothera, hearing of the same toast only through a later letter from a mutual con
 account months after the fact — the story itself intact, but arriving as history rather than as anything
 Rothera could have been part of in the moment.
 
+// adjustments
+
+// visions
+
 ### The Quarry Dispute Zhongshan Settled Before Its Own Letter to Rothera Was Finished
 
 A quarry-measurement discrepancy between Mirny and Zhongshan was resolved over the Vaults' own instant line in
@@ -523,6 +647,10 @@ a single sitting — both cities' own records compared side by side, the correct
 Rothera, raising a comparable measurement question separately, had no equivalent option — its own letter,
 still being drafted when the Zhongshan matter closed, took several more weeks to receive even an
 acknowledgment, since nothing about Mirny's subnet-wide reach extended past the Mirny subnet's own boundary.
+
+// adjustments
+
+// visions
 
 ### The Recipe Sinheung Adjusted Twice Before Dinner
 
@@ -534,6 +662,10 @@ Abowasa, requesting the same recipe by mail, received a single, carefully finali
 opportunity to participate in the back-and-forth that had actually produced it — a finished dish handed over
 rather than a conversation joined.
 
+// adjustments
+
+// visions
+
 ### The Wildlife Data Casey Could Adjust the Same Day It Changed
 
 A wildlife-monitoring dataset shared continuously between Mirny and Casey over the Vaults let Casey's own
@@ -543,6 +675,10 @@ simply unavailable to anyone outside the subnet's own reach.
 Denison, working from an older, uncorrected version of the same dataset received by mail months earlier, based
 an entire season's worth of comparative analysis on figures Mirny and Casey had already quietly fixed between
 themselves — an error that would eventually need its own separate correspondence to untangle.
+
+// adjustments
+
+// visions
 
 ### The Delegation Abowasa Sent Because No Letter Would Do
 
@@ -555,6 +691,10 @@ Davis, seeking a related consultation over the Vaults' own instant line, resolve
 question inside a single working session — no travel necessary, the two cities' shared subnet-wide reach
 making the trip Abowasa had to take entirely unnecessary for anyone already inside it.
 
+// adjustments
+
+// visions
+
 ### The Vaults That Made a Subnet Feel Like One City and a Neighbor Feel Like Another Country
 
 Mirny's own Relay Hardware Vaults collapsed the ordinary distance between Sinheung, Casey, Davis, Zhongshan,
@@ -565,3 +705,7 @@ Rothera, Abowasa, and Denison — none of them any further away in absolute term
 cities were from each other — experienced Mirny as something closer to a distant, slow-corresponding
 acquaintance, an asymmetry the Vaults themselves had created and that nothing short of the Tower would
 eventually undo.
+
+// adjustments
+
+// visions

@@ -41,6 +41,10 @@ competence would outlast one built around a story that eventually had to be live
 identity that resulted shaped every subsequent generation of Davis's own civic character — residents
 inheriting an ethos chosen deliberately, in argument, rather than one that simply accumulated on its own.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Core Wirawan Wouldn't Publish Alone
@@ -59,6 +63,10 @@ colleague who argued she'd earned the individual credit outright. The published 
 contributor's name. Wirawan's own reasoning, per what's remembered of her explanation, was that the discovery
 belonged to the method as much as to any one person practicing it — an ethos that shaped how Davis's own
 research community credited work for generations afterward.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -79,6 +87,10 @@ inclusion in the city's own shipping contingency planning rather than remaining 
 curiosity — terrain diversity that had always been scenic became, after that one winter, genuine logistical
 infrastructure.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Lake That Told Two Different Stories
@@ -97,6 +109,10 @@ rather than any error in either core's own recovery or analysis. The resolved pu
 methodological lesson for Davis's own research community — proof that the lake system's own diversity was
 scientifically valuable specifically because different basins didn't always agree, each one recording a
 genuinely distinct piece of the same shared history.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -117,6 +133,10 @@ remained genuinely uninterested in outside attention — but it stands, per what
 the clearest concrete instance of the minority recognition-wish Section VII identifies actually being acted
 on rather than simply felt.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Casey Actually Asked Mirny and Davis For
@@ -135,6 +155,10 @@ engineering consultation. The resolved question itself isn't preserved in detail
 of consultation became, per what's remembered of the exchange, a template Australian-heritage researchers
 across the subnet continued using afterward — proof that shared founding heritage translated into genuine,
 functioning collaboration rather than remaining purely symbolic.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -155,6 +179,10 @@ exactly how the climate data was ultimately used. The team's own established eth
 mattered more than who got credit for supplying it, whether the request came from a neighboring subnet
 laboratory or from something as large as what was quietly being asked for this time.
 
+// adjustments
+
+// visions
+
 ### The Delivery the Fjords Made Possible Again
 
 *(Shortly before the Tower's completion.)* Davis's own fjord-inlet shipping contingency — formalized generations
@@ -168,6 +196,10 @@ that had established the practice — this time following formal contingency pla
 own improvised local knowledge. The shipment reached its connection point on schedule, one more confirmation
 that terrain diversity Davis had once treated as merely scenic had become, exactly as the original incident
 predicted, genuine infrastructure the city could rely on when it mattered most.
+
+// adjustments
+
+// visions
 
 ### The Team That Never Learned Whose Names Were on the Report
 
@@ -183,6 +215,10 @@ individual's, consistent with an ethos the research community had already been p
 the time this particular request arrived. Whatever became of the assessment afterward isn't part of what
 Davis itself preserved. The team's own approach to it needed no separate explanation.
 
+// adjustments
+
+// visions
+
 ### The Recognition the Petition Never Quite Secured, Finally Arriving Anyway
 
 *(Shortly after the Tower's completion.)* Word of the Vestfold Hills' own genuinely unusual lake system — the
@@ -196,6 +232,10 @@ deliberate campaign this time, simply ordinary awareness spreading the same way 
 nationally. Davis's own dominant civic mood didn't shift toward seeking attention. But for the specific
 residents who'd always wanted the acknowledgment, the Tower's completion delivered, almost incidentally, what
 years of quiet local effort never fully had.
+
+// adjustments
+
+// visions
 
 ### The Comparison Davis Finally Got to Run Directly
 
@@ -211,6 +251,10 @@ some of the same historical stretch. Davis's own researchers, characteristically
 the collaboration itself rather than to any one side's own contribution — the same instinct Wirawan had
 established generations earlier, applied now to a conversation that had simply never been possible before.
 
+// adjustments
+
+// visions
+
 ### The Fjords That Finally Knew What Was Coming
 
 *(Shortly after the Tower's completion.)* Davis's own fjord-inlet contingency planning, previously triggered
@@ -224,6 +268,10 @@ before a freeze even closed the main harbor, rather than improvising the respons
 forced the question. The fjords themselves hadn't changed, and neither had their own separate freeze
 schedules. What changed was simply that Davis, for the first time, could plan around them instead of merely
 reacting to them.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -243,6 +291,10 @@ its own established naming or civic identity as a result — both names had alwa
 of the connection. What changed was that a real historical link between the two cities' own namesakes, known
 in the abstract for generations, finally had an actual joint research record behind it.
 
+// adjustments
+
+// visions
+
 ### The Sediment Core Kunlun's Observatory Asked to Borrow
 
 Davis's own paleoclimate lake-sediment methodology drew its first direct request from Kunlun's own observatory
@@ -257,6 +309,10 @@ itself preserved. The request itself, the first time an observatory built around
 directly for lake-sediment data instead, confirmed the two methodologies were closer in practical use than
 either research tradition had previously had reason to test.
 
+// adjustments
+
+// visions
+
 ### The Climate Question Dome Fuji's Research Station Sent Before It Went Quiet
 
 Dome Fuji's own JARE-descended research station, still in its own operational research-era at the time,
@@ -269,6 +325,10 @@ sediment-core data to a joint analysis neither station could have produced worki
 scientific question resolved cleanly. What the exchange left behind was simpler: proof that Dome Fuji's own
 research tradition, however isolated the station itself remained physically, could still reach genuine
 scientific collaboration once a channel existed to make the attempt worth the effort.
+
+// adjustments
+
+// visions
 
 ### The Correspondence Neumayer Finally Answered With Its Own Full Record
 
@@ -283,6 +343,10 @@ The correlation, once confirmed, gave both research traditions something neither
 dated historical event visible independently in two entirely different kinds of long-term record, confirmed
 only because a follow-up question could actually be asked and answered directly.
 
+// adjustments
+
+// visions
+
 ### The Wildlife Data Casey's Dispatchers Never Expected to Need
 
 Davis's own established Australian-heritage cultural network with Casey and Mirny extended, for the first
@@ -294,6 +358,10 @@ Davis's own researchers, drawing on the same careful field methodology that had 
 haul-out patterns near Signy, supplied Casey's own dispatchers with the requested wildlife-activity data —
 genuinely useful safety information that had nothing to do with either city's shared Australian heritage, only
 with the fact that direct contact now existed to make an unrelated, practical request worth sending at all.
+
+// adjustments
+
+// visions
 
 ### The Enabler Ethos That Finally Had an Audience Beyond Davis Itself
 
@@ -308,6 +376,10 @@ precedent maintained deliberately, generation after generation, because each coh
 crediting collectively rather than individually. Whether any inquiring research community adopted the practice
 elsewhere isn't preserved. The ethos itself, quietly maintained for generations without ever seeking outside
 attention, had for the first time been asked about directly by people who'd never worked at Davis at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -325,6 +397,10 @@ exchange, was flagged and confirmed usable within hours of Davis's own researche
 level of immediacy that, extended to a subnet-external safety inquiry, would have meant the bulletin arriving
 well after the season it described had already passed.
 
+// adjustments
+
+// visions
+
 ### The Sediment Core Kunlun Borrowed for a Season, Then Compared for a Decade
 
 Kunlun's own ice-core archive and Davis's own lake-sediment methodology, both long-term climate-record
@@ -336,6 +412,10 @@ A specific cross-reference, per what's preserved of the exchange, took less than
 both cities' own researchers could simply compare live data against each other — a pace of collaborative
 science neither Davis's nor Kunlun's own researchers had any comparable experience of when working with a
 research partner outside the Mirny subnet.
+
+// adjustments
+
+// visions
 
 ### The Rescue Story Mawson Had to Ask About Twice
 
@@ -350,6 +430,10 @@ had reason to compile before a subnet-external inquiry prompted the research. Ma
 what's remembered of receiving it, had to write back a full season later just to ask a single follow-up
 question.
 
+// adjustments
+
+// visions
+
 ### The Ice-Core Comparison Dome Fuji Answered From Memory, Not Records
 
 The same independently-developed climate-record tradition connecting Davis to Kunlun also connected it,
@@ -360,6 +444,10 @@ A specific comparative request, per what's preserved of the exchange, took consi
 an equivalent request to Kunlun would have — Dome Fuji's own researchers, per what's remembered of the reply,
 working partly from memory and partly from records not fully organized for outside comparison, since no prior
 occasion had ever required them to correspond with a researcher this far away before.
+
+// adjustments
+
+// visions
 
 ### The Correspondence Neumayer Never Rushed
 
@@ -372,6 +460,10 @@ across several years — each reply considered and drafted months after the lett
 neither researcher ever described as frustrating, simply as the ordinary pace two subnets' own science moved
 at before anything faster existed.
 
+// adjustments
+
+// visions
+
 ### The Data Set Casey Received Before Kunlun's Own Copy Left the Building
 
 A specific research data set, compiled jointly by Davis and requiring input from both Casey's dispatch records
@@ -382,6 +474,10 @@ The same data set, prepared separately for a subnet-external research contact wh
 letter, still hadn't left Davis's own mailing office by the time Casey's own copy had already been reviewed,
 discussed, and acted on — the two versions of the same request moving at entirely different speeds depending
 on nothing more than which side of the Mirny subnet boundary the recipient happened to sit on.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -399,6 +495,10 @@ confirming the connection had, in fact, been known and deliberately honored from
 a question neither city's own records had definitively answered before direct, rapid back-and-forth research
 made settling it in a single afternoon possible.
 
+// adjustments
+
+// visions
+
 ### The Second Core Kunlun Sent Without Being Asked
 
 Following the original sediment-core comparison, Kunlun's own researchers sent a second, unrelated ice-core
@@ -410,6 +510,10 @@ Davis's own researchers, per what's preserved of the exchange, hadn't asked for 
 plainly in their own acknowledgment — the same casual generosity Vostok and Kunlun extended to each other as
 extreme-isolation partners, now extended outward to a third research city simply because the connection made
 it easy.
+
+// adjustments
+
+// visions
 
 ### The Climate Correspondence That Finally Included Dome Fuji's Own Researchers Directly
 
@@ -423,6 +527,10 @@ extreme-altitude Arcanet limitations, but it happened — the first time the iso
 been compared live against two other cities' archives simultaneously, rather than through the slower,
 one-directional correspondence the original exchange had relied on.
 
+// adjustments
+
+// visions
+
 ### The Methodology Question Neumayer Sent That Davis Had Never Considered
 
 Following the earlier joint finding on ice-core dating methodology, Neumayer's own researchers returned with a
@@ -433,6 +541,10 @@ Davis's own researchers, per what's preserved of the exchange, spent considerabl
 adaptation and ultimately concluded it was possible but imperfect — a genuinely collaborative research dead
 end that nonetheless produced a clearer understanding, for both cities, of exactly where their two methods'
 own limits actually sat.
+
+// adjustments
+
+// visions
 
 ### The Wildlife Data That Became a Standing Subscription
 
@@ -445,6 +557,10 @@ friction from something they'd have shared anyway — proof that a single practi
 underlying channel existed, could quietly become permanent infrastructure without either side deciding it
 should.
 
+// adjustments
+
+// visions
+
 ### The Breadbasket Cited Nationally for the First Time as More Than a Nickname
 
 Once national agricultural planning became genuinely comparable across the country, Davis's own established
@@ -456,6 +572,10 @@ Davis's own agricultural administrators, per what's preserved of the period, fou
 in a quiet way — the nickname had always been accurate, but only now, with real national comparison possible,
 did the rest of the country actually understand exactly how load-bearing Davis's own patient, sheltered
 growing operation genuinely was.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -471,6 +591,10 @@ Neumayer, requesting a comparable seasonal forecast for its own institutional fo
 single fixed estimate by mail — accurate as of the day it was written, but with no way to update it once
 conditions on the ground actually changed before the shipment itself arrived.
 
+// adjustments
+
+// visions
+
 ### The Soil Question Mirny Answered While Davis Was Still Digging
 
 A soil-composition question, arising mid-excavation during an expansion of Davis's own growing operation, was
@@ -480,6 +604,10 @@ own crews adjusting their plan in real time based on the reply.
 The same category of question, put to Dome Fuji by letter during an unrelated inquiry, took the better part
 of a season to resolve — Davis's own crews, in that case, simply proceeding on their own best judgment rather
 than waiting on an answer that couldn't possibly arrive in time to matter.
+
+// adjustments
+
+// visions
 
 ### The Correction Kunlun Sent Before Davis's Own Paper Went to Print
 
@@ -491,6 +619,10 @@ A comparable correction offered by Mawson for a different figure arrived only af
 already been distributed — requiring a formal erratum rather than a quiet, timely fix, simply because the
 correction itself had to travel by mail.
 
+// adjustments
+
+// visions
+
 ### The Standing Order Neumayer Could Never Quite Keep Current
 
 A recurring produce order placed with Davis by Neumayer for its own institutional kitchens had to be specified
@@ -500,6 +632,10 @@ received whatever the order had specified, regardless of whether Davis's actual 
 Casey's own comparable standing order, adjustable at will over the subnet's own line, never suffered the same
 mismatch — proof, to Davis's own agricultural office, that the breadbasket's own reliability depended as much
 on the speed of the line carrying the order as on the harvest itself.
+
+// adjustments
+
+// visions
 
 ### The Comparison Dome Fuji Could Only Offer From Memory
 
@@ -512,6 +648,10 @@ Kunlun, asked a related comparative question over the subnet's own line, could a
 of clarification the same week — the difference in usefulness between the two responses tracing less to
 either city's own rigor than to which one Davis could actually have a real conversation with.
 
+// adjustments
+
+// visions
+
 ### The Breadbasket That Fed the Subnet in Real Time and Everyone Else on a Delay
 
 Davis's own agricultural output reached Casey, Mirny, and Kunlun on a schedule close to continuous — shipments
@@ -523,3 +663,7 @@ Davis's own agricultural office, per a surviving planning document, treated this
 to design around — the breadbasket's own patient, grounded character never wavered, but how quickly its
 output could actually be coordinated depended entirely on which side of the subnet boundary the request came
 from.
+
+// adjustments
+
+// visions

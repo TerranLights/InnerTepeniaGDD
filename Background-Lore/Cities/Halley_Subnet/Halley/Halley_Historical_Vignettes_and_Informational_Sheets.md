@@ -42,6 +42,10 @@ and the dedicated engineering discipline that now maintains every ski-mounted st
 (attribute #2) traces its actual working method back to whatever those first engineers learned, undocumented
 beyond their own logs, in that one crossing.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Relocation That Stalled Halfway
@@ -72,6 +76,10 @@ just of whether a module has moved, but of whether it remains capable of finishi
 started. Every module currently monitored for mobility status is being tracked by a system that exists
 specifically because one module, once, stopped halfway.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Vote That Gave Away the Nexus
@@ -94,6 +102,10 @@ Halley, by design — the same civic instinct that let the city give up fixed do
 apparent regret, tested here first, deliberately, in a single specific vote whose outcome nobody has ever
 seriously proposed reversing.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Archivist Who Never Saw the Founding Position
@@ -114,6 +126,10 @@ has to it. She has, however, personally walked every Old Position still standing
 unofficial habit — not part of her formal duties — of updating her own notes on how much closer the calving
 edge has crept to each one since her last visit, a quiet accounting of exactly how much longer each remaining
 site has left before it joins the founding position in becoming paper only.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -136,6 +152,10 @@ that specific call, treated a trusted ice-reader's refusal as grounds to delay a
 regardless of what instrument data says — the informal skill's own real authority, in this telling, traces
 back to one reader's willingness to be wrong publicly rather than quietly defer to a reading she didn't trust.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Cable Crew That Refused to Cut Corners
@@ -155,6 +175,10 @@ the disagreement, and were refused each time on the same technical grounds. The 
 for generations without a single documented cable failure — a reliability record the crew's own insistence on
 the slower method is directly credited with, long before anyone had reason to test what would happen if the
 corridor's own far end ever stopped answering.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -179,6 +203,10 @@ infrastructure the whole country would soon depend on. The specific technical gu
 preserved in detail, but the consultation itself is remembered locally as confirmation that the slower,
 more careful method had been worth defending all along.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Vote to Keep the Nexus Given Away
@@ -196,6 +224,10 @@ holding technical infrastructure for its own sake. The vote to leave the old arr
 even with a genuinely new national system approaching, became one more confirmation of the same pattern
 Finding 1 already identifies — Halley trading concrete control for something less tangible, this time by
 choosing not to reclaim it even when a fresh opportunity to do so appeared.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -215,6 +247,10 @@ was taken especially seriously before the Tower's completion — her specific wa
 because of how precisely it anticipated a vulnerability the completed system would, eventually, prove to
 genuinely have.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The First Word From a Subnet Halley Had Never Spoken To
@@ -230,6 +266,10 @@ distinct city at all, only that some settlement occupied this stretch of coast. 
 staff, per the account passed down since, found the message's own generic address almost amusing rather than
 insulting — proof, concrete and immediate, of exactly how isolated the pre-Tower communication structure had
 actually kept cities from each other, even ones now connected by the same single system in an instant.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -249,6 +289,10 @@ research inquiry from the opposite end of the continent could actually use. The 
 one of the earliest confirmed instances, within Halley's own civic memory, of the new relay connecting people
 neither side had any prior reason to expect would ever be in contact at all.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Corridor Tested at a Scale It Was Never Built For
@@ -267,6 +311,10 @@ grateful for the same founding-era overbuilding discipline that had once seemed 
 infrastructure built more robustly than its own original purpose strictly required turned out to have real
 headroom exactly when the corridor's own function changed overnight from a single dedicated link into one
 thread in the whole country's own newly unified network.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -290,6 +338,10 @@ if modest, elevated strain worth adding to the standing monitoring schedule. Not
 ice-shelf science changed. What changed, for the first time in either city's history, was that a second set
 of trained eyes on the same category of hazard could actually watch the same data at the same moment.
 
+// adjustments
+
+// visions
+
 ### The Builder Who Talked to the Nexus Every Single Day
 
 The Halley residents who had traveled to Sanay and physically built the Halley subnet's own Arcanet nexus
@@ -304,6 +356,10 @@ work had helped make possible. He continued checking in with the operating crew 
 afterward, a habit several other returned builders picked up independently once they realized the same thing
 he had: a structure they'd built with their own hands, hundreds of kilometers away, was no longer something
 they had to simply trust was still running. They could ask.
+
+// adjustments
+
+// visions
 
 ### The Warning That Reached Halley Before the Weather Did
 
@@ -320,6 +376,10 @@ secure equipment and adjust the relocation-crew schedule ahead of conditions tha
 arrived as a complete surprise. The storm proved genuinely severe. Halley weathered it with preparation time
 no prior generation of residents had ever actually had.
 
+// adjustments
+
+// visions
+
 ### The Wedding Neither Family Expected to Attend in Person
 
 A relationship between a Halley engineer and a Neumayer engineer, the two having corresponded for years
@@ -333,6 +393,10 @@ develop at ordinary conversational speed. The wedding itself, held at Halley, dr
 Neumayer who made the trip specifically because the couple's own daily contact over the preceding months had
 made the distance between the two cities feel, for the first time, like something worth crossing in person
 rather than simply corresponding around indefinitely.
+
+// adjustments
+
+// visions
 
 ### The Joint Session That Replaced Three Separate Guesses
 
@@ -349,6 +413,10 @@ would have been under the old correspondence-by-mail rhythm. The specific resolu
 in full detail. That the three cities could reach it in a single sitting, rather than an exchange of letters
 spanning a season, was itself the genuinely new thing.
 
+// adjustments
+
+// visions
+
 ### The Freighter Redirected Mid-Voyage for the First Time
 
 Halley's own resupply had always depended on trucking goods overland from whichever of Belgrano's or Sanay's
@@ -363,6 +431,10 @@ had no way to learn its own destination had become unviable until arriving to fi
 redirected convoy reached Halley on schedule. The incident became, informally, the first concrete proof that
 Halley's own resupply chain no longer had to treat a routing decision as final the moment a convoy left the
 dock.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -381,6 +453,10 @@ closure was met with genuine surprise from a visiting Belgrano trader who'd spen
 letter from Fort McMurdo — the same casual instancy Halley took for granted didn't exist a single subnet over,
 a gap neither city had any way to close.
 
+// adjustments
+
+// visions
+
 ### What Rode Along With Troll's Cargo
 
 Halley had no aviation infrastructure of its own and no direct route to anywhere beyond the Halley subnet —
@@ -394,6 +470,10 @@ Troll's own crews, per what's remembered of the arrangement, honored for years w
 The letters arrived weeks apart rather than instantly, riding cargo space Halley itself had no independent way
 to secure.
 
+// adjustments
+
+// visions
+
 ### The Night Sanay's Nexus Carried Three Cities at Once
 
 A severe storm bearing down on the Weddell Sea coast put Halley, Belgrano, and Sanay in real-time contact with
@@ -406,6 +486,10 @@ response for the night rather than three separate ones — equipment Halley didn
 and redirected from Belgrano's own stock within minutes rather than the days a physical request would have
 taken. Nothing about the storm itself was unusual. What was new was that three cities could weather it as one.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Took the Long Way
 
 A formal visit to a city outside the Halley subnet — arranged, per what's preserved of the occasion, to discuss
@@ -417,6 +501,10 @@ supply routes, a journey measured in days rather than the instant conversation t
 had with Neumayer or Sanay without leaving home. What was actually discussed isn't preserved in detail. What
 stuck in Halley's own civic memory afterward was simply how strange the whole undertaking felt — traveling in
 person to have a conversation that, within the subnet, would have taken minutes.
+
+// adjustments
+
+// visions
 
 ### The Order Nobody Could Confirm Until It Arrived
 
@@ -431,6 +519,10 @@ confirmation, the only certainty available under a system where the alternative,
 same question, would have gotten an answer in seconds. The part arrived intact, eventually. The uncertainty in
 between became, informally, a standing complaint about doing business with anyone beyond the subnet at all.
 
+// adjustments
+
+// visions
+
 ### The Manifest Sanay Wrote Twice
 
 A shipment bound for a city outside the Halley subnet required Sanay's own dispatchers to coordinate directly
@@ -443,6 +535,10 @@ minutes over the subnet's own Arcanet line between Halley and Sanay, and a secon
 traveled with the freight itself onward through Troll's aviation network and beyond, since nothing digital
 connected Sanay's own dispatch office to wherever the shipment was actually headed. The planning was instant.
 The shipment itself never was.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -463,6 +559,10 @@ was folded into Halley's own standing procedure within the season — the first 
 that one had genuinely changed how it did its own core work because of something learned from the other,
 rather than simply confirming what each already suspected on its own.
 
+// adjustments
+
+// visions
+
 ### The Apprentice Sanay's Nexus Trained for a City It Had Never Met
 
 The Halley residents who had once traveled to Sanay to build the subnet's own Arcanet nexus by hand were, by
@@ -476,6 +576,10 @@ the reasoning behind it — the first time an unwritten piece of the nexus's own
 knowledge had been passed forward directly, rather than simply surviving by accident in how later staff
 happened to work.
 
+// adjustments
+
+// visions
+
 ### The Archive Search That Finally Found Halley's Missing Founding Crew
 
 Amundsen Station's own newly unified national archive, absorbing records from across the country, held
@@ -488,6 +592,10 @@ for the first time, a fuller account of exactly who had been present for Halley'
 documented relocations. Nothing about current practice changed. A piece of the city's own history that had
 simply been considered lost turned out to have survived, elsewhere, all along.
 
+// adjustments
+
+// visions
+
 ### The Passage Forecast Belgrano Built Around Halley's Own Readings
 
 Belgrano's own passage-status reporting to Halley, already established as routine, developed a genuine
@@ -498,6 +606,10 @@ A specific joint prediction, per what's preserved of the exchange, combined Belg
 data with a Halley ice-reader's own instinctive read on a developing pattern neither city's instruments alone
 had flagged — the first genuinely collaborative forecast either city's own resupply planning had ever
 produced, rather than one city simply reporting facts for the other to act on.
+
+// adjustments
+
+// visions
 
 ### The Aviation Slot Troll Held Open on Halley's Word Alone
 
@@ -510,6 +622,10 @@ The convoy arrived within the held window. Troll's own dispatchers, per what's r
 treated the decision afterward as unremarkable — Halley's own informal expertise, once a purely local
 resource, had by this point earned enough national reputation that a subnet-external dispatcher trusted it
 over his own default scheduling rules without needing to ask why.
+
+// adjustments
+
+// visions
 
 ### The Question From a City Halley's Instruments Had Never Been Built to Answer
 
@@ -524,6 +640,10 @@ monitoring discipline itself, not as a direct technical answer. It was the first
 instruments, built for one specific, narrow purpose, had been consulted for the discipline behind them rather
 than the ice-shelf answers they actually produced — proof the city's own quiet, decades-long habit of careful
 measurement had a value that traveled further than the problem it was built to solve.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -540,6 +660,10 @@ The contrast wasn't remarked on at the time — it was simply how things worked 
 manifest, preserved in Halley's records, shows the same finding reaching Belgrano and a subnet-external city
 nearly three weeks apart, despite both requests having been sent the same afternoon.
 
+// adjustments
+
+// visions
+
 ### The Crew That Rode With the Convoy Rather Than Wait for It
 
 A Halley engineer needing to consult in person with a specialist based outside the subnet had no faster
@@ -552,6 +676,10 @@ technical question than on the length of the journey itself — a reminder, writ
 next, that a conversation Halley's own subnet-mates could have in an afternoon took the better part of a
 season to have with anyone further away.
 
+// adjustments
+
+// visions
+
 ### The Standing Habit of Writing Things Down Twice
 
 Halley's ice-shelf monitoring reports were compiled twice for every reporting period — once in the shorthand
@@ -562,6 +690,10 @@ none of the shared context the shorthand version assumed.
 The second version took considerably longer to write and, per the surviving archive, was read by far fewer
 people — but Halley's own record-keepers kept producing it anyway, on the reasoning that a report written only
 for people who already understood the context wasn't actually a complete record at all.
+
+// adjustments
+
+// visions
 
 ### The Question Neumayer Answered Before Halley Finished Asking It
 
@@ -575,6 +707,10 @@ nearly as long establishing shared terms as actually answering it — a plain il
 outright in the record but obvious to anyone reading both exchanges side by side, of what instant contact
 within a subnet had quietly built that distance alone couldn't replicate.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Learned Belgrano's Weather Before Its Own
 
 A visiting delegation from a subnet-external city, housed temporarily in Halley while waiting on transport
@@ -587,6 +723,10 @@ disorienting — knowing more, in real time, about a city she'd never visited th
 same week — a small, specific illustration of how completely the subnet boundary shaped what anyone
 physically inside it could actually know.
 
+// adjustments
+
+// visions
+
 ### The Endurance Halley's Own Reports Were Built to Outlast
 
 Halley's ice-shelf monitoring reports, unlike Belgrano's or Sanay's own periodic bulletins, were deliberately
@@ -598,3 +738,7 @@ The habit meant Halley's own subnet-internal readers, who had the report within 
 sometimes reading a slightly more conservative document than the moment actually called for — a small,
 self-aware cost the city's record-keepers accepted anyway, on the reasoning that a report built to endure the
 slowest possible route was more honestly Halley's own than one written only for the fastest.
+
+// adjustments
+
+// visions

@@ -37,6 +37,10 @@ of that proposal, and once they existed, the infrastructure around them filled i
 200-meter gap stopped being a meaningful distance at all — the entire physical merger tracing back to one
 person's insistence that the first shared building belong to neither side.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Query That Made the Institute Worth Something
@@ -57,6 +61,10 @@ success of that one exchange, rather than any deliberate outreach campaign, is w
 Halley's and Neumayer's own list of places worth asking a hard structural question — a single answered query
 that turned a small settlement's own local research office into an actual regional resource almost by
 accident.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -79,6 +87,10 @@ plausibly part of why the technical and scientific sector Abowasa later became k
 to grow as early and as substantially as it did — resources that would otherwise have gone into emergency
 structural retrofitting were free, from the very beginning, to go somewhere else instead.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Elder Lindqvist-Väisänen Actually Tells Newcomers
@@ -98,6 +110,10 @@ reaction from newcomers often enough, per her own telling, that she now raises t
 anyone has the chance to make the wrong assumption — treating the correction not as a formality but as the
 single most useful thing she can tell someone about how Abowasa actually works, underneath what its buildings
 show.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -119,6 +135,10 @@ local knowledge, useful mainly for Abowasa's own construction needs, grew over s
 the city's single largest economic sector — a small settlement's practical self-sufficiency turning, almost
 by accident, into its most valuable regional export.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Gets Decided at the Overlook
@@ -136,3 +156,7 @@ site) makes it comfortable ground for exactly the kind of shared, cross-communit
 would need. Residents describe using the Overlook for decisions that feel like they should belong to the
 whole city rather than any one household or institution — an informal civic role the space has apparently
 settled into on its own, well before any formal holiday was ever proposed to make use of it.
+
+// adjustments
+
+// visions

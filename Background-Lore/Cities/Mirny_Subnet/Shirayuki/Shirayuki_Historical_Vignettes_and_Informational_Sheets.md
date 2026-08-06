@@ -43,6 +43,10 @@ comparatively little in real terms. Tashiro's own role, once the allocation was 
 she's remembered less for any single dramatic act than for the plain fact that the negotiation succeeded
 cleanly, on terms Japan's own founding population inherited without dispute.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Collective That Gave a Look a Name
@@ -61,6 +65,10 @@ aesthetic tradition worth naming and articulating rather than simply letting it 
 documentation work specifically, capturing what Ishihara's own collective had identified as the style's
 actual unifying principle. The named movement that resulted gave individual residents' own previously
 uncoordinated choices a shared identity they could recognize themselves as already part of.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -82,6 +90,10 @@ occupying it unchanged. The pilot's own success is credited, per what's establis
 subsequent development, with setting the precedent every later lab-to-studio conversion across the city
 followed.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Night Glacier-Pop Actually Became a Genre
@@ -100,6 +112,10 @@ the same underlying sound rather than as unrelated performances. Musicians who'd
 own work simply personal experimentation began, afterward, deliberately identifying it as part of the same
 emerging tradition — the specific evening the scattered fusion work actually became a genre performers
 recognized themselves as contributing to together.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -120,6 +136,10 @@ took considerably longer than any single gathering, but this early, careful form
 clearest evidence that the cluster's own present-day intimacy was built up over real time, not present from
 the communities' very first contact.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The First Class That Wasn't Local
@@ -139,6 +159,10 @@ concrete proof that justified further, more deliberate expansion of the school's
 beginning of the nationwide draw the institution eventually became known for, traced back to one small,
 improvised accommodation for students nobody had originally planned space for.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -157,6 +181,10 @@ rooms built for exactly the kind of unhurried looking Shirayuki's whole civic id
 about the galleries themselves changed to accommodate the traffic. The city's own established gift for making
 strangers feel unhurried simply did, for a season, more of what it had always done.
 
+// adjustments
+
+// visions
+
 ### The Enrollment the School Wasn't Expecting From That Direction
 
 *(Shortly before the Tower's completion.)* Shirayuki's school system, already drawing students from across the
@@ -171,6 +199,10 @@ than turning families away for arriving outside the ordinary enrollment cycle. M
 once their own families' circumstances changed. The precedent for accommodating irregular, short-notice
 enrollment, already established once, simply held under a new kind of irregular circumstance nobody had
 specifically anticipated.
+
+// adjustments
+
+// visions
 
 ### The Collection Ashiato Never Formally Named
 
@@ -187,6 +219,10 @@ already-eclectic style had never restricted itself to. What later Ashiato histor
 simply that the pieces from that particular stretch tended to include material nobody could quite identify the
 industrial origin of.
 
+// adjustments
+
+// visions
+
 ### The First Broadcast Glacier-Pop Ever Received Back
 
 *(Shortly after the Tower's completion.)* Glacier-pop, performed as it always had been in informal, friends-
@@ -202,6 +238,10 @@ an entire evening of consecutive sets to first recognize as a shared sound. Noth
 performed changed. For the first time, though, the informal spaces Glacier-pop had always belonged to had an
 audience considerably larger than the room.
 
+// adjustments
+
+// visions
+
 ### The Trail Ashiato Left Somewhere It Had Never Walked
 
 *(Shortly after the Tower's completion.)* The Ashiato fashion tradition — hand-altered garments worn as a
@@ -216,6 +256,10 @@ ever tried to replicate the style isn't part of what the city itself preserved. 
 simpler: a movement born from naming what residents were already doing had, for the first time, been seen
 doing it by people who'd never worn a single altered stitch themselves.
 
+// adjustments
+
+// visions
+
 ### The Diplomatic Origin Explained to People Who'd Never Heard of Jeju-do
 
 *(Shortly after the Tower's completion.)* Word of Shirayuki's own founding — the Jeju-do allocation that gave
@@ -229,6 +273,10 @@ exchange, found themselves narrating a story they'd always simply known rather t
 tell in full before — Tashiro's own low-friction negotiation, the site nobody had seriously contested, the
 gradual multi-generational warming into the cluster's present-day closeness. None of it was news to Shirayuki
 itself. For listeners elsewhere in the country, encountering the story for the first time, it was.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -248,6 +296,10 @@ Japanese founding. Neither city adopted the other's approach. Both, per what's p
 found genuine value in finally understanding exactly how differently two cities could carry a comparable
 inheritance forward.
 
+// adjustments
+
+// visions
+
 ### The Recipe Exchange That Finally Went Both Directions
 
 Following Shirayuki's own kitchens studying Princess Elisabeth's own culinary practices, a specific reciprocal
@@ -261,6 +313,10 @@ culinary knowledge their own tiny, near-total-isolation community had never been
 tradition to a considerably smaller one. Neither city's own Crossing-adjacent food culture was replaced. Both
 simply had, for the first time, an actual living connection to draw from rather than developing entirely on
 their own.
+
+// adjustments
+
+// visions
 
 ### The Design Principle Zhongshan Borrowed for Its Own Crossing Quarter
 
@@ -276,6 +332,10 @@ ultimately incorporated the borrowed principles isn't preserved. The request its
 Tri-Cities neighbor had drawn directly on Shirayuki's own specific architectural methodology, marked a genuine
 first for the cluster's own internal knowledge-sharing.
 
+// adjustments
+
+// visions
+
 ### The Fashion Question Sinheung's Engineers Never Expected to Receive
 
 Ashiato's own salvaged-material tradition, already known to have incorporated unidentifiable industrial
@@ -288,6 +348,10 @@ with certainty, but supplied detailed information about what kinds of industrial
 produced during that period — the first time Sinheung's own manufacturing floor had ever been consulted about
 what became of its own discarded material once it left the plant. Ashiato's own historians, per what's
 recalled of the response, found the partial confirmation satisfying regardless of the remaining uncertainty.
+
+// adjustments
+
+// visions
 
 ### The Music Sayowa's Own Junction Coordinators Learned to Recognize
 
@@ -302,6 +366,10 @@ the same connection now carried whatever anyone on either end wanted to send thr
 Glacier-pop's own performance tradition changed. It simply gained, for the first time, a small, specific
 audience among people whose day job had nothing to do with music at all.
 
+// adjustments
+
+// visions
+
 ### The Diplomatic Comparison Princess Elisabeth Finally Got to Make
 
 Following word of Shirayuki's own Jeju-do founding reaching residents across the country, Princess Elisabeth's
@@ -315,6 +383,10 @@ early self-understanding differently, a genuine distinction neither city had pre
 articulate. The exchange resolved nothing in particular. It gave both cities, for the first time, a specific
 point of comparison for a question about founding character neither had ever had an appropriate conversational
 partner to discuss with before.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -332,6 +404,10 @@ same working session, was resolved with neither side needing to schedule a forma
 the same ordinary way any of the three cities handled a question for the other two, a level of casual ease no
 comparable three-city cluster split across different subnets could have sustained.
 
+// adjustments
+
+// visions
+
 ### The Design Question Sinheung Answered While Shirayuki Was Still Drafting It
 
 A collaborative gallery-design project, drawing on Zhongshan's own architectural sensibility and requiring
@@ -343,6 +419,10 @@ The specific structural revision Sinheung suggested, per what's preserved of the
 before Shirayuki's own designer had finished the section of the drawing it applied to — a level of collaborative
 speed that would have been impossible with a subnet-external consultant, who'd have received the drawing
 itself only after it was already finished and mailed.
+
+// adjustments
+
+// visions
 
 ### The Recipe Princess Elisabeth Waited a Season to Receive
 
@@ -356,6 +436,10 @@ still to receive a full reply, since the recipe itself required careful written 
 simple confirmation. Both cities' own kitchens eventually adopted the exchanged dishes. Getting there had
 taken considerably longer than either side's own eventual enthusiasm for the result would suggest.
 
+// adjustments
+
+// visions
+
 ### The Institutional Comparison Sayowa Drafted Over Two Winters
 
 Shirayuki's own Bharati-Station-descended founding and Sayowa's own JARE heritage — Tepenia's two clearest
@@ -366,6 +450,10 @@ The study, per what's preserved of the exchange, spanned close to two full winte
 historians felt they'd gathered enough comparable institutional detail to draw a real conclusion — each round
 of findings mailed, considered, and answered months later, a pace that would have been a single season's
 worth of work had either city sat within the Mirny subnet instead.
+
+// adjustments
+
+// visions
 
 ### The Same-Day Confirmation That Made Every Other Answer Feel Slow
 
@@ -378,6 +466,10 @@ nearly a month to settle — several rounds of letters clarifying details that a
 resolved immediately. Shirayuki's own coordinator, per what's remembered of the comparison, described the
 contrast as simply "what it means to have a neighbor versus a pen pal."
 
+// adjustments
+
+// visions
+
 ### The Manifest Zhongshan and Sinheung Confirmed Before Princess Elisabeth's Letter Even Arrived
 
 A joint shipment of materials, drawing on both Zhongshan's expertise and Sinheung's own manufacturing capacity,
@@ -389,6 +481,10 @@ The shipment reached its Mirny subnet destination within days. The letter to Pri
 morning, took most of a season to receive any reply at all — two pieces of correspondence, sent from the same
 office on the same day, arriving at their destinations at completely different speeds depending on nothing
 more than which side of the subnet boundary each was addressed to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -405,6 +501,10 @@ cities' shared Japanese-institutional heritage — the actual conclusion to a pr
 earlier and only now, with both historians able to work on a shared draft directly, reached a form neither
 considered unfinished.
 
+// adjustments
+
+// visions
+
 ### The Second Mural Princess Elisabeth Actually Requested
 
 Following the unrequested mural Shirayuki's own art community sent as thanks for a recipe, Princess Elisabeth
@@ -416,6 +516,10 @@ Shirayuki's own artists, per what's preserved of the commission, treated the req
 proof the original gift had actually mattered to its recipient, rather than simply being received politely
 and set aside.
 
+// adjustments
+
+// visions
+
 ### The Gallery Design Zhongshan Sent Back, Improved
 
 Following Shirayuki's own original borrowing from Zhongshan's architectural sensibility, Zhongshan's own
@@ -425,6 +529,10 @@ offered back to Shirayuki as a genuine two-way exchange rather than the original
 Shirayuki's own designers, per what's preserved of the exchange, incorporated the improvement into their own
 next project — the design element having traveled from Shirayuki to Zhongshan and back again, each city
 improving on what the other had first offered.
+
+// adjustments
+
+// visions
 
 ### The Ashiato Material Question That Led to an Actual Shipment
 
@@ -437,6 +545,10 @@ Shirayuki's own material specialists, per what's preserved of the exchange, guid
 the first time the material Sinheung had once only asked about out of curiosity had actually left Shirayuki
 and been put to use somewhere else in the country.
 
+// adjustments
+
+// visions
+
 ### The Glacier-Pop Fan Base That Finally Heard From the Band Itself
 
 Following the earlier discovery of unexpected Sayowa fandom for Shirayuki's own Glacier-pop scene, one of the
@@ -446,6 +558,10 @@ the old system's own indirect civic-infrastructure discovery channel had never m
 The exchange, per what's preserved of the account, was modest — a few messages, an informal thanks for the
 unexpected appreciation — but it marked the first time a Shirayuki performer had spoken directly with an
 audience the city itself hadn't known existed before the original discovery.
+
+// adjustments
+
+// visions
 
 ### The Diplomatic-Founding Comparison That Became a National Case Study
 
@@ -458,6 +574,10 @@ with no prior relationship to either Shirayuki or Princess Elisabeth at all — 
 cities had worked out for their own curiosity having become, once shared nationally, a genuinely useful
 reference for other cities working through comparable founding-character questions of their own. **Completes
 the Mirny subnet's batch 5 pass.**
+
+// adjustments
+
+// visions
 
 ---
 
@@ -473,6 +593,10 @@ Sayowa, invited to comment on a related design a season later, could only offer 
 already finalized — no opportunity to shape the design itself, since nothing about the collaboration's own
 speed extended past the subnet's own boundary.
 
+// adjustments
+
+// visions
+
 ### The Mural Sinheung Requested and Received the Same Week
 
 A mural commission requested by Sinheung, including several rounds of sketches and revisions, was completed
@@ -482,6 +606,10 @@ whole collaborative process compressed into a timeframe a cross-subnet commissio
 Princess Elisabeth, commissioning a comparable mural, had to approve a single set of sketches by mail with no
 opportunity for iterative revision — the finished piece matching the approved sketch closely, but without any
 of the back-and-forth refinement Sinheung's own commission had enjoyed.
+
+// adjustments
+
+// visions
 
 ### The Musician Who Reached Zhongshan's Fans Before the Tour Was Announced
 
@@ -493,6 +621,10 @@ The same announcement, intended for a Sayowa audience, had to wait for the forma
 be printed and mailed — fans there learning of the performance only once it was already a certainty, with none
 of the early, informal excitement Zhongshan's fans had gotten to share in.
 
+// adjustments
+
+// visions
+
 ### The Founding Comparison Sinheung Helped Refine Before It Was Ever Published
 
 A comparative study of Shirayuki's and Sinheung's own contrasting diplomatic founding stories was drafted
@@ -502,6 +634,10 @@ working document rather than reviewing a finished draft after the fact.
 Princess Elisabeth, whose own founding character eventually became part of a related comparison, was consulted
 only after the core document was substantially complete — its own contribution folded in by mail, a genuine
 addition but not part of the document's own original collaborative drafting process.
+
+// adjustments
+
+// visions
 
 ### The Import Order Zhongshan Adjusted the Same Afternoon Conditions Changed
 
@@ -513,6 +649,10 @@ A comparable adjustment needed for an order routed through Sayowa's own dispatch
 nearly as fast — the request traveling by mail, the shortage in question largely resolved on its own by the
 time a formal reply confirming the adjustment finally arrived.
 
+// adjustments
+
+// visions
+
 ### The Outlier That Felt Ordinary Up Close and Exceptional From Anywhere Else
 
 Shirayuki's own established character — a natural outlier, a place people made excuses to move to — was, from
@@ -522,3 +662,7 @@ experienced Shirayuki's own creative energy directly and continuously, nothing e
 Sayowa and Princess Elisabeth, reaching Shirayuki only by mail or physical travel, encountered the same
 outlier reputation as something closer to its own established description — genuinely different, and
 genuinely more distant, in every sense the subnet boundary could make true.
+
+// adjustments
+
+// visions

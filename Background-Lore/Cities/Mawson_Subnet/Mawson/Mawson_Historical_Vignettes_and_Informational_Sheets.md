@@ -43,6 +43,10 @@ considerably longer to establish than a straightforward continuation would have,
 founding precedent: hub function first, inherited identity secondary — a principle later generations
 inherited without needing to relitigate it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Hospitality Sorensen Built on Purpose
@@ -61,6 +65,10 @@ tourism, proved popular enough within its own first several seasons to justify t
 investment that followed. The dedicated infrastructure she established became the template every later
 honeymoon-focused venture in Mawson has followed since — a reputation the city now treats as simply its own
 character, traced back to one hostess's own deliberate, initially contested investment.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -81,6 +89,10 @@ genuine tradition once enough successive seasons of guests independently confirm
 informal staff suggestion that became, through sheer consistent guest response, the anchor activity every
 subsequent honeymoon stay was built around.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Veneration That Started With a Single Marker
@@ -98,6 +110,10 @@ founding-era civic leaders to formalize the site with genuine observance and cer
 Douglas veneration's own full civic tradition traces back to a marker nobody originally intended to become
 the center of an ongoing observance — significance that accumulated through repeated, undirected visits
 rather than being planned from the start.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -117,6 +133,10 @@ manage the narrative quietly was, per what's remembered of the debate, genuinely
 an obvious default anyone assumed from the start — a deliberate founding-era choice that shaped how the city
 has discussed its own demographic history ever since.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Hub Built to Talk to Neighbors First
@@ -134,6 +154,10 @@ still-developing settlement had less urgent use for yet. The outward-facing capa
 subsequent construction phases once the intra-subnet foundation was solidly established — a founding-era
 sequencing choice, prioritizing near neighbors before the wider nation, that shaped the hub's own basic
 architecture from its earliest construction onward.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -153,6 +177,10 @@ without requiring emergency expansion. The founding-era decision to prioritize n
 left the hub's own later, outward capacity underbuilt; it had simply been built for a future need nobody at
 founding could have specifically named, and that need had finally arrived.
 
+// adjustments
+
+// visions
+
 ### The Guests the Overlook Wasn't Built to Explain
 
 *(Shortly before the Tower's completion.)* Mawson's own honeymoon hospitality infrastructure, built around
@@ -166,6 +194,10 @@ same way they always did — the city's own established anchor activity, offered
 anything about a guest's own reason for passing through. Whether these particular visitors experienced polar
 night or midnight sun during their stay isn't preserved. What's remembered is simpler: the overlook did for
 them what it had always done for every other guest who made the trip.
+
+// adjustments
+
+// visions
 
 ### The Marker Visited by People Who'd Never Heard of Douglas Mawson
 
@@ -181,6 +213,10 @@ explanation, the same accumulated, undirected pattern that had originally turned
 observance in the first place. Nothing about the site's own quiet character changed for the unfamiliar
 visitors. It simply had, for a season, more people passing through willing to ask what it was.
 
+// adjustments
+
+// visions
+
 ### The Hub That Finally Talked to the Whole Country at Once
 
 *(Shortly after the Tower's completion.)* Mawson's own hub function — coordinating Sayowa and Dome Fuji
@@ -194,6 +230,10 @@ suggested — the same intra-subnet-first architecture Zhao's own founding-era i
 established still governed how Mawson prioritized its own coordination work, simply with a considerably larger
 outward network to coordinate with now. The hub built to talk to neighbors first had, generations later,
 neighbors considerably further away than its own founders had ever pictured.
+
+// adjustments
+
+// visions
 
 ### The Reputation That Finally Reached People Who'd Never Married There
 
@@ -209,6 +249,10 @@ changed, for the first time, was that couples elsewhere in the country now knew 
 existed as something worth planning a trip around, rather than discovering it only by word of mouth from
 someone who'd already been.
 
+// adjustments
+
+// visions
+
 ### The Openness Other Cities Finally Asked About Directly
 
 *(Shortly after the Tower's completion.)* Mawson's own deliberate civic choice to openly acknowledge the gap
@@ -222,6 +266,10 @@ proposal to minimize public discussion, and the deliberate rejection of it, the 
 the city had built for itself from the start. No other city adopted Mawson's own approach as policy. What the
 inquiry confirmed, for the first time, was that a choice made quietly at founding, contested and won without
 much fanfare, had traveled far enough that strangers elsewhere found it worth asking about.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -240,6 +288,10 @@ no channel connecting the destination back to its actual origin. Learning the co
 Neumayer's own designers' genuine reaction to seeing their work succeed, gave Mawson's own hospitality program
 a small but genuine piece of its own commissioned history it had never previously had access to.
 
+// adjustments
+
+// visions
+
 ### The Consultation Palmer City Turned Into an Annual Exchange
 
 Following the first direct hospitality-industry exchange between Palmer City and Mawson, the two cities'
@@ -253,6 +305,10 @@ destination model and Palmer City's own entertainment economy comparing notes on
 first time in either city's own tourism history. Neither administration treated the exchange as competitive.
 Both, per what's preserved of it, found the annual comparison consistently useful precisely because the two
 economies were different enough to never actually compete for the same visitors.
+
+// adjustments
+
+// visions
 
 ### The Rescue Story Mawson's Own Guides Started Telling Tourists
 
@@ -268,6 +324,10 @@ Whether guests found the addition meaningful varied, per informal accounts, but 
 confirmed through direct research contact with Davis, had genuinely never been tellable in this much detail
 before.
 
+// adjustments
+
+// visions
+
 ### The Import Schedule Sinheung Finally Let Mawson See in Advance
 
 Following the live reconciliation between Mawson's and Sinheung's own import ledgers, Mawson's own logistics
@@ -279,6 +339,10 @@ capacity ahead of unusually large shipments rather than absorbing them as they a
 improvement for a physical logistics link that had run, since its own founding, on shipment-by-shipment
 handling rather than forward planning. Neither city's own underlying trade relationship changed. The planning
 capability itself, newly possible, was the significant thing.
+
+// adjustments
+
+// visions
 
 ### The Hospitality Principle Janbogo's Own Hosts Actually Adopted
 
@@ -294,6 +358,10 @@ made the comparison specific enough to actually evaluate rather than remaining a
 own hospitality administrators, per what's recalled of learning the outcome, respected the reasoning
 completely — proof that even a declined idea could be a genuinely useful exchange.
 
+// adjustments
+
+// visions
+
 ### The Hub Function Sayowa and Dome Fuji Finally Stress-Tested Together
 
 Mawson's own hub function, built from founding to prioritize intra-subnet coordination with Sayowa and Dome
@@ -307,6 +375,10 @@ held exactly as intended — intra-subnet coordination robust enough to absorb o
 Sayowa's or Dome Fuji's own needs being deprioritized. It marked the first time the three-city hub
 relationship had ever actually operated as a genuine three-way conversation, rather than two separate
 connections both running through Mawson.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -324,6 +396,10 @@ single three-way conversation over the subnet's instant line — a level of rout
 that no comparable arrangement involving a subnet-external partner could have managed at anything like the
 same speed.
 
+// adjustments
+
+// visions
+
 ### The Letter That Explained Calethina to a City That Had Never Met Her
 
 Neumayer's own drafted spec and schematic for Calethina, commissioned out of Mawson as a hospitality-host
@@ -336,6 +412,10 @@ clarifying answer to — Mawson's own administrators working from written specif
 ask Neumayer's own drafting office a quick follow-up question the way they could have asked Sayowa or Dome
 Fuji the same day.
 
+// adjustments
+
+// visions
+
 ### The Hospitality Comparison Palmer City Made From a Traveler's Description
 
 Palmer City's own entertainment-and-casino economy and Mawson's own honeymoon-destination hospitality
@@ -347,6 +427,10 @@ that took months to arrive, crossing the full distance from the Mawson subnet in
 whatever pace the postal route between the two allowed — genuinely useful detail, once it came, considerably
 later than the administrator's own original question had hoped for.
 
+// adjustments
+
+// visions
+
 ### The Rescue Story Davis Answered Slowly and Carefully
 
 The real-world rescue connection between Mawson's and Davis's own namesakes existed mostly as an underdeveloped
@@ -357,6 +441,10 @@ Davis's own reply, per what's preserved of the correspondence, took months to re
 still to arrive — genuinely new historical detail, once it finally came, that Mawson's own historian
 incorporated into a fuller account of the connection than had ever existed at either city before.
 
+// adjustments
+
+// visions
+
 ### The Import Ledger Sinheung Reconciled a Full Season After the Fact
 
 Sinheung's own imports, received via the city of Mawson as a physical logistics link independent of subnet
@@ -366,6 +454,10 @@ correspondence crossing from the Mawson subnet into the Mirny subnet.
 A specific discrepancy, per what's preserved of the incident, took a full season to identify and correct — each
 side's own records mailed, compared, and clarified across several rounds of correspondence, a process that
 would have taken a single afternoon's conversation had Sinheung sat within Mawson's own subnet instead.
+
+// adjustments
+
+// visions
 
 ### The Manifest Sayowa and Dome Fuji Confirmed Before Janbogo's Letter Even Left
 
@@ -378,6 +470,10 @@ The joint shipment reached both intra-subnet destinations within days. The lette
 season to receive any reply to at all — two pieces of correspondence, sent from the same office on the same
 morning, arriving at their destinations at completely different speeds depending on nothing more than which
 side of the subnet boundary each was addressed to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -393,6 +489,10 @@ Mawson's own hospitality office, per what's preserved of the exchange, hadn't sp
 tip and said so with real appreciation — a small, unprompted kindness from a subnet-mate whose own role in
 Mawson's tourism economy had always been purely logistical until this point.
 
+// adjustments
+
+// visions
+
 ### The Stress Test Dome Fuji Passed Without Anyone Watching Live
 
 Following the original three-way stress test involving Sayowa and Dome Fuji, a second, unplanned test occurred
@@ -403,6 +503,10 @@ findings held up.
 Mawson's own hub coordinators, per what's preserved of the incident, treated the unplanned repeat as more
 convincing than the original deliberate test — proof under genuine pressure, not a controlled exercise, that
 the founding-era hub-coordination priority Mawson was built around actually worked when it mattered.
+
+// adjustments
+
+// visions
 
 ### The Reciprocal Consultation That Became a Standing Arrangement
 
@@ -415,6 +519,10 @@ Mawson's own administrators, per what's preserved of the arrangement, found real
 peer to compare notes with — Tepenia's two deliberately-cultivated hospitality economies, previously compared
 only from the outside, now actually comparing themselves to each other directly and regularly.
 
+// adjustments
+
+// visions
+
 ### The Rescue Story That Became a Real Piece of the Honeymoon Experience
 
 Following the earlier integration of the Davis-Mawson rescue story into Mawson's own tourism narrative, the
@@ -426,6 +534,10 @@ Davis's own historians, per what's preserved of learning about the addition, fou
 of the research they'd helped confirm — a piece of two cities' own shared history, once a footnote, now
 actually part of how newlyweds experienced Mawson for the first time.
 
+// adjustments
+
+// visions
+
 ### The Import Visibility That Finally Let Sinheung Plan a Season Ahead
 
 Following the original advance import-visibility arrangement with Sinheung, the relationship matured into
@@ -435,6 +547,10 @@ ahead based on Mawson's own logistics data, rather than reacting to shipment not
 Mawson's own logistics office, per what's preserved of the arrangement, found the shift satisfying in a quiet
 way — the same practical, dutiful service identity the city had always embodied, now simply operating a full
 season further ahead than it ever had before.
+
+// adjustments
+
+// visions
 
 ### The Hospitality Comparison Janbogo Finally Published as a Joint Reference
 
@@ -447,6 +563,10 @@ Mawson's own administrators, per what's preserved of the project, found real val
 always simply been done by feel — the comparison with Janbogo forcing Mawson's own hospitality culture to
 explain itself precisely for the first time, in a way that made the city's own instincts sharper even for its
 own internal training afterward.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -463,6 +583,10 @@ A comparable complication involving a guest traveling from Palmer City had no su
 the problem, once discovered, had to be resolved on the spot by Mawson's own staff alone, with no time to
 coordinate a subnet-external solution before the guest noticed.
 
+// adjustments
+
+// visions
+
 ### The Stress Test Dome Fuji Helped Mawson Interpret in Real Time
 
 A resort-infrastructure stress test, run under unexpectedly heavy real traffic, was analyzed jointly with Dome
@@ -472,6 +596,10 @@ perspective helping Mawson's own planners interpret an anomaly neither city had 
 Davis, consulted separately on a related but calmer question, offered a thoughtful written answer that arrived
 well after the original stress test had already concluded — useful for future planning, but too late to shape
 how Mawson's own staff had handled the moment itself.
+
+// adjustments
+
+// visions
 
 ### The Comparison Palmer City Drew From a Single Traveler's Account
 
@@ -483,6 +611,10 @@ Dome Fuji, raising a related comparative question over the subnet's own line, re
 from Mawson's own hospitality office itself — the same category of question, answered with two very different
 levels of actual authority behind it.
 
+// adjustments
+
+// visions
+
 ### The Rescue Story Davis Confirmed a Full Season Later
 
 A version of Mawson's own founding-era rescue story, referenced in a Davis publication, was confirmed accurate
@@ -492,6 +624,10 @@ to verify details before committing anything to a letter that couldn't easily be
 Sayowa, asking a related question about the same story over the subnet's own line, received a confident,
 immediate answer with room for follow-up questions — the same story, told with two very different levels of
 conversational ease depending on which line carried the request.
+
+// adjustments
+
+// visions
 
 ### The Import Order Sinheung Couldn't Adjust Once It Shipped
 
@@ -503,6 +639,10 @@ A comparable adjustment made through Dome Fuji's own supply chain, coordinated o
 could be revised right up until the last practical moment — the flexibility Mawson and Dome Fuji took for
 granted having no equivalent once Sinheung's own distance was involved.
 
+// adjustments
+
+// visions
+
 ### The Warmth That Welcomed Guests Quickly and Explained Itself Slowly
 
 Mawson's own generative, romance-centered hospitality culture extended fully to every guest and every
@@ -513,3 +653,7 @@ City, Davis, Sinheung, and Janbogo.
 Mawson's own hospitality administrators, per a surviving internal note, didn't consider the asymmetry any
 kind of shortcoming — a warm welcome, once extended, was equally genuine regardless of distance; only how
 quickly a question about it could be answered actually changed.
+
+// adjustments
+
+// visions

@@ -43,6 +43,10 @@ exchange became, within Sanay's own civic culture, a small touchstone for what "
 actually means in practice — not modesty for its own sake, but a specific, repeated insistence that Sanay's
 own condition be credited to work, not fortune, whenever anyone suggests otherwise.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Captain Who Tried to Walk Past the Line
@@ -64,6 +68,10 @@ without further incident — but the exchange became, among crews working both r
 story new captains hear before their own first Sanay docking: expect efficient, courteous business, not a
 tour.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Nexus Built by Someone Else's City
@@ -81,6 +89,10 @@ integrated cabling was Halley's own. The everyday name that stuck afterward — 
 "the Sanay relay," despite sitting on Sanay's own ground — is, per Finding C, a third instance of the same
 uncredited-labor pattern already showing up elsewhere in Sanay's history, this one purely linguistic: nobody
 formally decided to name it this way, the name simply settled into ordinary usage and stayed.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -102,6 +114,10 @@ of the era — the city's actual reason for existing was the Shipyard, and resid
 it in a way no one found controversial to decide. The cliffside districts' own eventual, more comfortable
 development came only once the Shipyard's own founding-era construction was substantially complete.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Storm Someone Spotted Two Hours Early
@@ -122,6 +138,10 @@ recognized what she was looking at — but the incident is cited, informally, wh
 Summit's practical early-warning function persists as an accepted civic fact even though no one is ever
 formally posted there to watch for it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Schedule That Broke When a Ship Came Early
@@ -141,6 +161,10 @@ dockside management response, per what's established about the system that follo
 scheduling entirely in favor of the fully reactive, arrival-driven rotation the docks still run on today —
 crews assigned strictly to expected shipping windows rather than the calendar, a direct, deliberate fix to
 the one specific failure that exposed how much a fixed schedule could cost a shipping city.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -164,6 +188,10 @@ of labor Finding C already identifies. The upgrade completed on schedule, and th
 name — "the Halley subnet relay" — stayed exactly as it had been, the Nexus's own second, higher-stakes
 construction phase attracting no more local credit-claiming than the first had.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Cargo the Trade Yard Had Never Handled Before
@@ -182,6 +210,10 @@ Shipyard crews to assist with handling well beyond the Trade Yard's own normal s
 met, per Sanay's own established civic character, with the same competence-without-commentary the city applies
 to everything else.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Meeting Where Nobody Could Agree What the Nexus Would Become
@@ -199,6 +231,10 @@ was more likely, reportedly remarking that Sanay's own job was to keep the Nexus
 larger system it eventually connected to — a characteristically function-first response that ended the
 speculation without resolving it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The First Signal That Actually Reached Every Subnet at Once
@@ -215,6 +251,10 @@ every subnet within moments — years of upgrade work and founding-era construct
 routine it would otherwise have gone unremarked. The test's own success is, nonetheless, remembered locally as
 the specific moment Sanay's own hosted infrastructure stopped being purely a Halley subnet asset and became,
 for the first time, a working piece of the whole country's own communication network.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -235,6 +275,10 @@ remembered of the exchange, went essentially unanswered beyond that — Sanay's 
 Upper Earth staying exactly as bounded and efficient as it had always been, the Tower's own significance
 real but simply not Sanay's business to elaborate on.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Watch the Summit Never Needed Before
@@ -252,6 +296,10 @@ reached them. The resident who happened to make the climb and the report, per wh
 incident, had no idea her own informal early warning would travel any further than the dockside office it
 always had — a small, unplanned demonstration of how much further Sanay's own established, informal practices
 could now reach without anyone deliberately expanding their own established function.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -273,6 +321,10 @@ knowledge that existed only in his own memory until that specific call. The nexu
 hour. The undocumented design quirk, once finally recorded, became a permanent addition to the installation's
 own maintenance manual.
 
+// adjustments
+
+// visions
+
 ### The Joint Schedule That Changed How the Dockworkers Planned Their Own Days
 
 Sanay's own shipyard scheduling, previously built entirely around South African freighter arrivals with no
@@ -285,6 +337,10 @@ onward flight capacity, smoothing out a pattern of occasional idle stretches fol
 had simply been accepted as normal for as long as anyone working the yards could remember. The change wasn't
 dramatic day to day. Over a full season, per informal accounts, it meant noticeably fewer of the rushed,
 all-hands stretches the old independent scheduling had periodically produced.
+
+// adjustments
+
+// visions
 
 ### The Diagnostic Session the Pole Never Used to Run With Sanay Directly
 
@@ -300,6 +356,10 @@ back resolved a minor but persistent inconsistency in how Sanay's own nexus had 
 diagnostic readings — a fix that required, for the first time, an actual two-way conversation between the
 subnet's own physical relay site and the national authority responsible for the standard it operated under.
 
+// adjustments
+
+// visions
+
 ### The Order Abowasa Finally Placed Directly
 
 Abowasa's own small-scale trade, downstream of the same Hwy 7 corridor Sanay anchors the shipping end of, had
@@ -314,6 +374,10 @@ order — no special handling for its modest size — but the order itself marke
 trade office acting as a genuine, independent customer for the first time in the corridor's own working
 history, rather than simply receiving whatever the larger cities' own orders happened to include for it.
 
+// adjustments
+
+// visions
+
 ### The Shipping Data Sent to a City That Had Never Bought Anything From Sanay
 
 Sanay's own detailed freighter-arrival and cargo-volume records, kept meticulously for the shipyard's own
@@ -325,6 +389,10 @@ studying import-volume patterns for an unrelated planning project, with no prior
 two cities at all. Sanay's own office shared the records plainly, the same unceremonious way the city handled
 most requests — proof, for the first time, that Sanay's own accumulated operational data had value to cities
 its own freighters had never once actually supplied.
+
+// adjustments
+
+// visions
 
 ### The Relief Shift Halley's Crews Sent When Sanay Asked
 
@@ -338,6 +406,10 @@ residents had once traveled to Sanay to build the nexus, now asked, for an entir
 help again. A small relief crew made the trip, the first time labor itself, not just information, had moved
 between the two cities specifically because a request could finally be sent and answered the same day it was
 made.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -354,6 +426,10 @@ answer from any of the other three cities within minutes regardless of the hour 
 within the subnet that nobody thought to describe it as remarkable until a Marambio trader, waiting weeks on a
 reply to an entirely unrelated inquiry, asked how Sanay's own staff managed to seem perpetually reachable.
 
+// adjustments
+
+// visions
+
 ### The One Line That Reached the Pole
 
 A dedicated cable, laid alongside Hwy 59 generations before the Tower existed, gave the Halley subnet — and
@@ -368,6 +444,10 @@ possible channel available to them, arrived at Amundsen Station roughly the same
 made an unrelated, same-day inquiry of their own — the two requests separated by nothing but which subnet had
 happened to lay a cable first.
 
+// adjustments
+
+// visions
+
 ### The Redundant Port That Never Needed to Ask Twice
 
 Sanay's and Belgrano's shared status as interchangeable receiving ports meant a shipment rerouted from one to
@@ -378,6 +458,10 @@ A specific reroute, per what's preserved of the incident, saved an entire convoy
 passage simply because Sanay's own dispatchers could confirm Belgrano's conditions directly rather than
 relying on the convoy's own delayed radio reports. Nothing about the reroute itself required more than a few
 minutes of conversation. What made it possible was that the conversation could happen at all.
+
+// adjustments
+
+// visions
 
 ### The Order Abowasa Placed and Watched Change in Real Time
 
@@ -393,6 +477,10 @@ Sanay's own staff, per what's remembered of the period, treated the amendment as
 casual flexibility subnet business had always allowed, extended for the first time to the subnet's smallest
 trading partner.
 
+// adjustments
+
+// visions
+
 ### The Shipping Data Nobody Past the Subnet Could Simply Request
 
 Sanay's own accumulated freighter records — arrival volumes, passage conditions, seasonal patterns spanning
@@ -406,6 +494,10 @@ and back — the same information a Belgrano dispatcher could have had answered 
 conversation. Sanay's own clerks, once the request finally arrived, filled it without complaint, unaware how
 long it had actually taken to reach them.
 
+// adjustments
+
+// visions
+
 ### The Freighter Three Cities Planned and One City Watched Disappear
 
 A shipment assembled jointly from Sanay's, Halley's, and Belgrano's own combined stock — coordinated across a
@@ -417,6 +509,10 @@ planning cities retained any way to track it — the same instant coordination t
 hours giving way, at the subnet boundary, to weeks of complete silence. Sanay's own dispatchers, per what's
 remembered of the period, had grown accustomed enough to the pattern that they stopped remarking on it: fast
 inside, slow the moment it left.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -435,6 +531,10 @@ subnet's own front door in a way its founding generation's original naming-honor
 anticipated. The nexus itself hadn't changed function. What it was now understood to represent, nationally,
 had grown considerably larger than the hardware alone.
 
+// adjustments
+
+// visions
+
 ### The Relief Request That Went the Other Direction
 
 Following the earlier occasion when Halley sent workers to relieve an overwhelmed Sanay dock crew, the reverse
@@ -447,6 +547,10 @@ the first time the relief-labor relationship between the two cities had run in t
 it had originally started, closing a loop neither city had specifically planned for but which felt, once it
 happened, like the obvious next step in an already-established pattern.
 
+// adjustments
+
+// visions
+
 ### The Freight Dispute Belgrano and Sanay Settled Without a Third Party
 
 A specific disagreement over which of the two interchangeable receiving ports should have handled a particular
@@ -458,6 +562,10 @@ possibly conflicting local readings.
 Neither port's own record of the incident treats it as a serious conflict. What's preserved instead is
 simpler: the first time a genuine operational disagreement between the two ports had been settled by directly
 comparing shared data rather than by whichever port's own account happened to reach a decision-maker first.
+
+// adjustments
+
+// visions
 
 ### The Diagnostic Request That Arrived From a City That Had Never Heard of Sanay
 
@@ -472,6 +580,10 @@ the same unshowy practicality that governed everything else the city did — pro
 uncredited decades of operation had produced a body of operational knowledge valuable to people who'd never
 had any prior reason to know the city by name.
 
+// adjustments
+
+// visions
+
 ### The Small Order Abowasa Adjusted Twice in One Season
 
 Following the first order Abowasa successfully amended after submission, a second and then a third
@@ -483,6 +595,10 @@ Abowasa's own trade office, per what's preserved of the account, came to treat t
 after submission as simply how trade with Sanay worked now — a small, quiet shift in expectation that
 nonetheless represented real flexibility the subnet's smallest trading partner had never had access to before
 the instant line existed.
+
+// adjustments
+
+// visions
 
 ### The Freighter Log Sanay Opened to the Whole Country
 
@@ -496,6 +612,10 @@ requests from cities Sanay had never had any prior trade relationship with at al
 as a genuine national resource rather than one port's own private operational history — the clearest
 confirmation yet that the city's own quiet, uncredited significance had become, once connectivity made it
 visible, simply a fact everyone else could now see too.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -512,6 +632,10 @@ Sanay's own shipping schedule, addressed directly to the nexus itself, had to tr
 any other subnet-external request, since the nexus's own reach, whatever its symbolic weight, was physically
 bounded by the same cable network as everyone else's.
 
+// adjustments
+
+// visions
+
 ### The Cable to Amundsen Station That Carried Almost Nothing Else
 
 The dedicated pre-Tower line linking the Halley subnet to Amundsen Station ran through Sanay's own nexus as
@@ -523,6 +647,10 @@ Sanay's own operators, per a surviving maintenance log, treated the line with a 
 to its actual traffic volume — the one thread connecting the nexus to something outside the subnet's own
 boundary, however narrow, worth protecting precisely because it was so nearly unique.
 
+// adjustments
+
+// visions
+
 ### The Order Abowasa Could Track and the Order It Couldn't
 
 An Abowasa order routed through Sanay's own port, once it entered the subnet's own logistics chain, could be
@@ -532,6 +660,10 @@ Abowasa itself sits within the Halley subnet.
 A separate order Abowasa placed with a subnet-external supplier had no equivalent visibility at all — once it
 left Sanay's own hands and crossed into another subnet's jurisdiction, Abowasa's only source of information
 became whatever the receiving party chose to write in a letter, whenever they got around to sending one.
+
+// adjustments
+
+// visions
 
 ### The Redundant Port's Redundancy Was Entirely Local
 
@@ -543,6 +675,10 @@ The same redundancy simply didn't exist for cross-subnet shipping arrangements �
 that needed reconfirming had to wait on a full mail cycle each time, the port's own famous responsiveness
 quietly absent the moment the recipient sat outside the subnet.
 
+// adjustments
+
+// visions
+
 ### The Freighter Belgrano Watched Depart and Fort McMurdo Only Heard About
 
 A freighter's departure from Sanay's own port, delayed twice and finally cleared, was tracked in real time by
@@ -551,6 +687,10 @@ Belgrano's own dispatch office over the subnet's line — every delay, every adj
 Fort McMurdo, waiting on the same freighter's cargo, received a single letter confirming the final departure
 date, with no visibility into either delay — from Fort McMurdo's own side of the correspondence, the freighter
 simply left on schedule, the entire preceding complication invisible past the subnet boundary.
+
+// adjustments
+
+// visions
 
 ### The Weight Sanay Carried Without Anyone Outside the Subnet Noticing
 
@@ -561,3 +701,7 @@ Princess Elisabeth all routing effectively everything through Sanay without need
 Cities outside the subnet, by contrast, had no way to observe this at all — from Sinheung's or Fort McMurdo's
 own vantage point, Sanay was simply the origin point on a shipping manifest, its actual significance as the
 subnet's own connective center invisible to anyone who'd never had reason to use the nexus directly.
+
+// adjustments
+
+// visions

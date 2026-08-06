@@ -45,6 +45,10 @@ spread neighborhood by neighborhood, imitated rather than mandated, until every 
 locally legible system that a longtime resident could read fluently and a visitor could barely register as
 more than decoration.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Restaurant That Became a Stage
@@ -64,6 +68,10 @@ Zukelli's own borders, reaching recognition in Janbogo itself — a restaurant t
 unplanned growth rather than any single deliberate decision, the template Zukelli's own broader restaurant-
 performance culture grew from.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Visit Neither City Remembers Planning
@@ -82,6 +90,10 @@ anything dramatic happened during it, but because it captured exactly the unplan
 Crossing tradition was already known for at its best. Neither city's own records preserve who exactly proposed
 extending the visit first; both sides simply kept saying yes to staying longer until the visit had become,
 by its own natural momentum, considerably more than either side had planned.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -103,6 +115,10 @@ route neither original proposal had specified — one more small, individually n
 layout built, structurally, out of exactly this kind of accumulated individual negotiation rather than any
 top-down plan.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Second Stage Faranda Never Wanted
@@ -120,6 +136,10 @@ than genuine competition, each developing a slightly different performance chara
 recognize and choose between deliberately. The rivalry that could have soured into genuine hostility instead
 became, per what's established about Zukelli's own broader civic warmth, simply another thread in the same
 music scene Faranda's own restaurant had originally started.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -140,6 +160,10 @@ standard than the network's own earliest completed stretches had originally used
 ended up more resilient than its own initial design specified, because one incomplete section's own exposure
 forced the correction before the whole network was finished.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -159,6 +183,10 @@ cities' own established closeness, built over generations of exactly this kind o
 held under a volume of travelers considerably larger than any single ordinary Crossing had ever brought
 through either city before.
 
+// adjustments
+
+// visions
+
 ### The Stage That Hosted an Audience It Couldn't Place
 
 *(Shortly before the Tower's completion.)* Elisa Faranda's own restaurant-and-performance venue, already
@@ -172,6 +200,10 @@ she'd once shown a competing venue's own performers rather than her own establis
 seat, asking what they thought of the evening's performance, extending the same warmth that had built the
 venue's own reputation in the first place. Whatever these particular travelers were actually part of went
 unasked. The stage did what it had always done: gave people passing through something worth stopping for.
+
+// adjustments
+
+// visions
 
 ### The Neighborhood Code Tested by People Who'd Never Learned It
 
@@ -187,6 +219,10 @@ to post additional signage. No neighborhood's own established code was simplifie
 accommodate the unfamiliar traffic. The city that had never needed central planning to build its own
 navigation system didn't start relying on one now, even under genuinely unusual strain.
 
+// adjustments
+
+// visions
+
 ### The Music That Reached Ears It Had Never Reached Before
 
 *(Shortly after the Tower's completion.)* Zukelli's own restaurant-performance music scene — grown from
@@ -199,6 +235,10 @@ same easy warmth Zukelli's own civic character had always been known for — no 
 the wider reach, simply the same performances continuing exactly as they always had, now overheard by
 considerably more people than before. Faranda's own restaurant, already famous as far as Janbogo, found itself,
 for the first time, known somewhere neither she nor any of her performers had ever actually traveled.
+
+// adjustments
+
+// visions
 
 ### The Crossing That Finally Reached Somewhere Else
 
@@ -213,6 +253,10 @@ requiring words for an audience that had never experienced anything quite like i
 city actually practiced the tradition changed. What changed was simply that a closeness the two cities had
 always taken for granted between themselves now had witnesses who found it worth remarking on.
 
+// adjustments
+
+// visions
+
 ### The Code Zukelli Never Meant to Export
 
 *(Shortly after the Tower's completion.)* Zukelli's own neighborhood-marking navigation system, born entirely
@@ -226,6 +270,10 @@ legibility a longtime resident read fluently and a visitor could barely register
 other city attempted to replicate the system, per what's preserved of the response; the code had grown out of
 Zukelli's own specific unplanned geometry and had never been built to travel. That people elsewhere now knew it
 existed at all was, for the first time, enough.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -244,6 +292,10 @@ had capacity in a given season — a level of practical detail neither city's ow
 without asking the people actually doing the hosting. It marked the first time the Crossing's own logistics had
 been shaped by direct resident input rather than administrative planning alone.
 
+// adjustments
+
+// visions
+
 ### The Penguin Question Zukelli's Residents Never Expected to Receive
 
 Following Zukelli's own inquiry to Cape Adare about the city's penguin-keeping guidelines, a specific follow-up
@@ -257,6 +309,10 @@ with everything else they'd heard about Zukelli's own easy, unguarded hospitalit
 between two cities with nothing obvious in common beyond the fact that direct contact now let idle curiosity
 travel as easily as anything more purposeful.
 
+// adjustments
+
+// visions
+
 ### The Staging Idea Dumont d'Urville's Venues Actually Kept
 
 Following the venue-comparison visit from Zukelli's own musicians to Dumont d'Urville, a specific staging
@@ -269,6 +325,10 @@ downtown venues, built around a different founding logic entirely, had never dir
 Dumont d'Urville venue actually adopted the layout isn't preserved. The exchange itself, running in both
 directions between two cities' own music scenes for the first time, confirmed the cultural connection first
 noticed during the earlier visit ran genuinely both ways.
+
+// adjustments
+
+// visions
 
 ### The Emigration Pattern Esperanza and Zukelli Finally Compared Directly
 
@@ -284,6 +344,10 @@ often than founding-era families did. With all three cities' own experiences fin
 against each other, the emigration's own actual shape was, for the first time, fully documented across every
 city it had touched.
 
+// adjustments
+
+// visions
+
 ### The Restaurant Rivalry Cape Adare Heard About Secondhand
 
 Word of the good-natured rivalry between Elisa Faranda's own original venue and its later imitator reached
@@ -295,6 +359,10 @@ particularly Faranda's own decision to attend the competing venue's early perfor
 rather than treating the rivalry as a threat. Nothing came of the exchange beyond the story itself being told
 and enjoyed. It marked one more small thread of Zukelli's own civic character reaching a city that had never
 had any prior reason to know it existed.
+
+// adjustments
+
+// visions
 
 ### The Crossing Zukelli Finally Described to Someone Who'd Never Experienced Anything Like It
 
@@ -312,6 +380,10 @@ never had a city close enough to have anything comparable — the first time Zuk
 described the Crossing to someone for whom the very idea was genuinely foreign, not just an unfamiliar
 specific tradition.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
@@ -328,6 +400,10 @@ finished packing. That same casual spontaneity, attempted with any subnet-extern
 couldn't have existed: no comparable visit could be arranged and completed the same day without a channel to
 ask and answer instantly first.
 
+// adjustments
+
+// visions
+
 ### The Second Crossing Cape Adare Never Quite Managed to Join
 
 Cape Adare's own shared Janbogo subnet hospitality register with Zukelli produced constant, casual contact
@@ -340,6 +416,10 @@ occasion, was proposed and largely settled within a single conversation over the
 proof that even a gathering that never quite came together as planned could still be arranged and adjusted in
 real time, a level of flexibility no subnet-external invitation could have offered.
 
+// adjustments
+
+// visions
+
 ### The Venue Idea Dumont d'Urville Borrowed the Same Week It Was Tried
 
 Zukelli's own restaurant-performance tradition and Dumont d'Urville's own organically grown venue culture
@@ -350,6 +430,10 @@ A specific performance-staging technique, per what's preserved of the exchange, 
 d'Urville's own venue organizers within days of its first use at Zukelli — and adapted for their own downtown
 scene almost as quickly, a pace of creative cross-pollination that a subnet-external hospitality city could
 never have matched.
+
+// adjustments
+
+// visions
 
 ### The Letter Esperanza Took a Season to Answer
 
@@ -362,6 +446,10 @@ Esperanza's own reply, per what's preserved of the correspondence, took the bett
 arrive — genuinely useful comparative detail, once it came, that Zukelli's own historians incorporated into
 their own account of the event, considerably later than the original question had hoped for an answer.
 
+// adjustments
+
+// visions
+
 ### The Question Esperanza Asked Twice Because the First Letter Never Confirmed Arrival
 
 A specific follow-up question from Esperanza, curious about a detail in Zukelli's own earlier reply, was sent
@@ -373,6 +461,10 @@ first — Zukelli's own recipients realizing, once they pieced the timeline toge
 essentially sent the same question twice out of uncertainty rather than genuine follow-up curiosity, a small,
 telling detail about just how little confirmation subnet-external correspondence actually offered.
 
+// adjustments
+
+// visions
+
 ### The Manifest Janbogo and Cape Adare Confirmed Before Esperanza's Letter Left the Building
 
 A joint shipment of hospitality goods, coordinated between Zukelli, Janbogo, and Cape Adare over the subnet's
@@ -383,6 +475,10 @@ The joint shipment reached its intra-subnet destinations within days. The letter
 season to receive any reply to at all — two pieces of correspondence, sent from the same office on the same
 day, arriving at their destinations at completely different speeds depending on nothing more than which side
 of the subnet boundary each was addressed to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -399,6 +495,10 @@ before declining, gently — the Crossing's own mutual, unplanned warmth depende
 between the two cities, and both agreed, independently, that opening it to observers would change something
 essential about what made it work.
 
+// adjustments
+
+// visions
+
 ### The Rivalry Story Cape Adare Finally Heard Firsthand
 
 Following the secondhand telling of the old Janbogo-Zukelli rivalry story passed through Cape Adare, a Zukelli
@@ -409,6 +509,10 @@ Cape Adare's own residents, per what's preserved of the exchange, found the corr
 less dramatic than the story that had reached them — a reminder that even a well-meaning secondhand retelling
 drifts from what actually happened, closed only once someone who'd genuinely been there could finally tell it
 themselves.
+
+// adjustments
+
+// visions
 
 ### The Staging Idea Dumont d'Urville Sent Back, This Time Unprompted
 
@@ -421,6 +525,10 @@ Zukelli's own venue owners, per what's preserved of the exchange, adopted a vers
 season — the first time the creative exchange between the two hospitality cultures had been initiated by
 Dumont d'Urville rather than only received from Zukelli's own side.
 
+// adjustments
+
+// visions
+
 ### The Comparison That Finally Named Every Family Who Had Left
 
 Building on the earlier comparison with Esperanza, Zukelli's own historians undertook a considerably more
@@ -431,6 +539,10 @@ The project, per what's preserved of its own progress, remains genuinely incompl
 undertaking that connectivity made newly possible but didn't make instantly finishable. What exists so far
 represents the most detailed accounting of the emigration's own human scale that any of the three affected
 cities has ever attempted.
+
+// adjustments
+
+// visions
 
 ### The Music Scene That Finally Had a National Audience of Its Own
 
@@ -443,6 +555,10 @@ Zukelli's own musicians, per what's preserved of the period, found the compariso
 that a scene built organically, for its own sake, over generations, had produced something the rest of the
 country recognized as distinctive once it could actually be compared against its peers directly.
 
+// adjustments
+
+// visions
+
 ### The Distant City That Finally Understood What "Crossing" Actually Meant
 
 Following the earlier description of the Crossing given to a resident from a city with no comparable
@@ -453,6 +569,10 @@ exchange the original description had been.
 Zukelli's own residents, per what's preserved of the extended exchange, found themselves articulating
 something about the tradition they'd never had to put into words this precisely before — the first time
 describing the Crossing to a true outsider had become not a single conversation, but an ongoing one.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -469,6 +589,10 @@ A comparable offer extended to a subnet-external contact in Esperanza had to be 
 letter — genuinely warm, but necessarily planned rather than spontaneous, the immediacy at the heart of
 Zukelli's own hospitality culture simply unavailable across that distance.
 
+// adjustments
+
+// visions
+
 ### The Recipe Cape Adare Perfected While Zukelli Watched
 
 A dish shared with Cape Adare over the subnet's own line was refined collaboratively in real time — Zukelli's
@@ -479,6 +603,10 @@ Esperanza, requesting the same recipe by mail, received a single finished versio
 participate in its own ongoing refinement — a fine dish, but a different kind of exchange entirely from what
 Cape Adare had gotten to share in.
 
+// adjustments
+
+// visions
+
 ### The Musician Dumont d'Urville Booked Before the Set List Existed
 
 A touring musician's arrival in Zukelli prompted an immediate, informal booking arrangement with Dumont
@@ -488,6 +616,10 @@ for the first performance had even been finalized.
 A related booking opportunity involving Esperanza had no such speed available — by the time a letter proposing
 the idea could be sent and answered, the traveling musician's own schedule had already moved on to somewhere
 else entirely.
+
+// adjustments
+
+// visions
 
 ### The Emigration Question Esperanza Answered a Season After Janbogo Did
 
@@ -500,6 +632,10 @@ Zukelli's own record-keepers, compiling both answers into a single comparative d
 directly rather than let it pass unremarked — the same question, the same seriousness of response, simply
 arriving on two entirely different clocks.
 
+// adjustments
+
+// visions
+
 ### The Crossing Description Cape Adare Helped Zukelli Refine in Real Time
 
 An outside-facing description of the Crossing tradition, drafted for a subnet-external audience, was reviewed
@@ -511,6 +647,10 @@ The finished description, once sent onward to Esperanza, arrived as a single pol
 visibility into the collaborative process that had actually produced it — Esperanza receiving Zukelli's best
 explanation of itself, without ever seeing how that explanation had been built.
 
+// adjustments
+
+// visions
+
 ### The Soul of a City That Traveled Fastest Among Neighbors
 
 Zukelli's own real, genuine soul — hospitality-centered, generous, alive — was fully present in every
@@ -521,3 +661,7 @@ Esperanza.
 Zukelli's own civic character, per a surviving reflection from the period, never depended on an audience being
 close by to be genuine — but genuine warmth, like anything else, still had to travel by whatever line
 actually connected the two cities involved.
+
+// adjustments
+
+// visions

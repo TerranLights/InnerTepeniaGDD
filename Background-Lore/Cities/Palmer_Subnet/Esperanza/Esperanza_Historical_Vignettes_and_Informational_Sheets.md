@@ -42,6 +42,10 @@ founding compact that resulted was never written down as a charter itself, but t
 it, reading a decades-old document aloud to people still deciding what kind of settlement they were building,
 is the specific origin the compact's own unwritten authority traces back to.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Whitcombe-Reyes Told Concordia
@@ -63,6 +67,10 @@ the specific proof the diaspora's own "being from Hope" identity could still be 
 Esperanza's destruction, precisely because robots, not paperwork, had always been the ones actually carrying
 it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Shipment That Proved the Harbor Mattered
@@ -81,6 +89,10 @@ chain, and the incident became, per what's remembered of the subnet's own logist
 specific proof that Hope Bay Harbor's connective role wasn't merely convenient but genuinely load-bearing —
 a city organized around raising children had, almost incidentally, also become infrastructure the wider
 subnet could actually depend on in a pinch.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -104,6 +116,10 @@ unwritten nature had always avoided. The draft was abandoned. The administrator'
 civic institutions, per what's preserved of it, ultimately recommended leaving the compact exactly as
 unwritten as she'd found it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Room Where Two Stories Meet
@@ -120,6 +136,10 @@ first uncovered. Whoever found the sealed archive during that routine inventory,
 the discovery, wasn't searching for anything resembling what they found — an ordinary inheritance-cataloging
 task that happened to surface the single document that would go on to define the entire city's civic
 identity for generations afterward.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -142,6 +162,10 @@ own ordinary light rhythm wasn't a non-issue for incoming staff just because it 
 climate profile in the subnet. Ordinary, for someone who'd never worked under it before, still took real
 adjustment.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -161,6 +185,10 @@ organized entirely around raising children found itself, for a few unglamorous w
 something considerably larger than itself, and treated the fact with the same unremarkable competence it
 brought to everything else that passed through its own harbor.
 
+// adjustments
+
+// visions
+
 ### What the Halls Told the Children About the Building in the Distance
 
 *(Shortly before the Tower's completion.)* The Caregiver-Teacher Halls, per Finding A already established as
@@ -177,6 +205,10 @@ noted, the first time the Halls had ever explained a piece of national infrastru
 compact itself — proof that even something as large as the Tower could be made to fit inside a city organized
 entirely around what it had always cared about most.
 
+// adjustments
+
+// visions
+
 ### The Archivist Who Filed the Tower Under "Founding-Adjacent"
 
 *(Shortly before the Tower's completion.)* Whoever then held responsibility for the sealed Argentine archive
@@ -190,6 +222,10 @@ historically — it plainly didn't — but that the archivist judged this corres
 Esperanza's own future the same way the sealed 1978 documentation had mattered to its past: something a later
 generation would want to find without having to search for it. Whether that judgment proved correct is,
 per what's currently established, not something Esperanza's own destruction left anyone able to confirm.
+
+// adjustments
+
+// visions
 
 ### The Message Whitcombe-Reyes Received the Same Day It Was Sent
 
@@ -205,6 +241,10 @@ bridge between Esperanza's diaspora and the city they'd left, found herself, for
 relocating, actually current with a place she'd previously only ever been able to remember. The Tower hadn't
 changed what she carried. It changed how quickly what she carried could still be added to.
 
+// adjustments
+
+// visions
+
 ### The Supply Run the Halls No Longer Had to Plan Around
 
 *(Shortly after the Tower's completion.)* Medical and educational supply requests from the Caregiver-Teacher
@@ -217,6 +257,10 @@ adjustment, found themselves with supplies arriving before the margin was needed
 kind of good problem, not unlike the caregiver who'd once struggled to adjust to Esperanza's own ordinary
 daylight rhythm after a career spent somewhere more extreme. Ordinary reliability, it turned out, took its own
 kind of adjustment too.
+
+// adjustments
+
+// visions
 
 ### The Question Another City's Caregivers Asked About the Compact
 
@@ -232,6 +276,10 @@ itself, not from any document that could be copied elsewhere. No other city atte
 What the exchange left behind instead was simpler — the first confirmation, direct from outside Esperanza
 entirely, that a promise never written down had still traveled far enough for strangers to ask sincere
 questions about it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -251,6 +299,10 @@ Esperanza's shore — advance notice neither harbor had ever been able to offer 
 arrived exactly as confirmed. The exchange became, informally, the first step toward the two harbors treating
 each other's own dispatch status as genuinely visible rather than simply trusted after the fact.
 
+// adjustments
+
+// visions
+
 ### The Three Cities That Finally Marked Their Shared Heritage Together
 
 Esperanza, Marambio, and Belgrano — Argentina's only three founding-population cities in the country, split
@@ -264,6 +316,10 @@ Argentine heritage was shared, in real time, with two other communities they'd n
 reason to know existed. The lesson wasn't elaborate. It was, per what's recalled of it, the first time
 Esperanza's own children had ever been taught about their city's own founding nation as something actively
 connected to other places, rather than as a fact about the past alone.
+
+// adjustments
+
+// visions
 
 ### The Question Belgrano's Dockworkers Asked About the Founding Compact
 
@@ -279,6 +335,10 @@ described in any real detail. Nothing came of the exchange beyond the conversati
 per what's recalled of it, a small piece of shared Argentine civic knowledge that had simply never had a
 reason to cross the distance between the two cities before that specific call.
 
+// adjustments
+
+// visions
+
 ### The Administrators Who Compared Notes on the Same Emigration
 
 Esperanza's own population thinning and Janbogo's own, both part of the same sustained emigration to Lazar,
@@ -293,6 +353,10 @@ ever knowing the other was managing the same trend the same way at the same time
 change how either city currently operated. It gave both administrations, for the first time, confirmation that
 their own independent responses to a shared demographic pattern had converged without coordination.
 
+// adjustments
+
+// visions
+
 ### The Recipe That Finally Reached the City It Was Named For
 
 A specific culinary tradition within Esperanza's own founding-era Argentine heritage, carried informally across
@@ -305,6 +369,10 @@ relative neither had known existed until direct contact made the family connecti
 but genuinely meaningful gap in Esperanza's own culinary history — proof, for the first time, of exactly where
 one specific dish had actually come from, rather than simply "somewhere in the founding generation's own
 Argentine heritage" the way it had always been described before.
+
+// adjustments
+
+// visions
 
 ### The Harbor Report Janbogo Never Expected to Receive
 
@@ -319,6 +387,10 @@ event — and received a detailed operational account neither city had ever had 
 before. The specific planning question Janbogo was working isn't preserved in detail. What is preserved is
 simpler: a small harbor, more famous locally for raising children than moving cargo, turned out to have real
 operational expertise another city's own transit hub found worth asking about directly.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -336,6 +408,10 @@ neither city could have matched for an equivalent emergency involving a subnet-e
 conversation would have needed days rather than minutes to even confirm the other side had received the
 request at all.
 
+// adjustments
+
+// visions
+
 ### The Letter Belgrano Answered With a Recipe Nobody Remembered Sending
 
 Esperanza's own inquiry to Belgrano, asking about a specific dish's own origins within the two cities' shared
@@ -348,6 +424,10 @@ inquiry had actually asked for, per what's preserved of the letter itself, since
 apparently decided a slow correspondence was worth making thorough rather than brief. Esperanza's own
 kitchens still use the recipe. Nobody currently working them remembers it arrived by a letter that took months
 to write, travel, and finally answer a question about where a dish had come from.
+
+// adjustments
+
+// visions
 
 ### The Emigration Question Janbogo Answered From Memory, Not Records
 
@@ -362,6 +442,10 @@ own archivists had hoped to document precisely turning out, on the other end of 
 remembered rather than filed. The correspondence closed the historical question well enough. It simply took
 most of a year to do it.
 
+// adjustments
+
+// visions
+
 ### The Second Overflow, Planned in Minutes This Time
 
 A later dockside strain at Marambio, recognized early enough this time to plan for rather than simply react
@@ -373,6 +457,10 @@ proof, the second time around, that the two cities' shared subnet membership had
 emergency improvisation into something closer to an established, on-call standing procedure. Neither city
 treated the speed of the planning as remarkable by this point. It was simply how business between the two
 harbors had always worked once digital contact existed at all.
+
+// adjustments
+
+// visions
 
 ### The Delegation That Walked Into Belgrano's Archive Unannounced
 
@@ -387,6 +475,10 @@ archivists, per what's remembered of the visit, welcomed them anyway and spent t
 searching records together — a research trip that, within the Palmer subnet, would have taken a single
 afternoon's conversation with Marambio instead.
 
+// adjustments
+
+// visions
+
 ### The Manifest Marambio Confirmed Before Esperanza Finished Loading
 
 A joint shipment assembled from both Marambio's and Esperanza's own stock, ultimately bound for a destination
@@ -399,6 +491,10 @@ progress — the same instant coordination that had assembled the load in under 
 subnet boundary, to weeks of no confirmed word at all. Esperanza's own dockworkers, per what's remembered of
 the period, had grown used enough to the pattern that they simply logged the shipment as sent and moved on to
 the next.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -416,6 +512,10 @@ work their own founding compact existed for — advising a city whose own econom
 Esperanza's own founding mission, simply because raising children well was something worth sharing regardless
 of who was asking.
 
+// adjustments
+
+// visions
+
 ### The Second Recipe Belgrano Confirmed, This Time Without a Season's Wait
 
 Following the earlier culinary-provenance exchange, Esperanza's own kitchens raised a second, less certain
@@ -426,6 +526,10 @@ Belgrano's own residents, per what's preserved of the reply, confirmed part of t
 correcting a detail Esperanza's own version had drifted on — the same kind of careful culinary provenance
 work as before, now simply fast enough that a second question didn't require its own dedicated season to
 answer.
+
+// adjustments
+
+// visions
 
 ### The Records Janbogo and Esperanza Finally Compared Line by Line
 
@@ -439,6 +543,10 @@ city's own records had caught alone — genuine historical corrections made poss
 archives could finally be checked against each other directly, rather than each city simply trusting its own
 version of a shared event.
 
+// adjustments
+
+// visions
+
 ### The Overflow Plan That Finally Included a Third Harbor
 
 Building on the established two-way overflow arrangement with Marambio, Esperanza's own harbor staff
@@ -451,6 +559,10 @@ alone represented something new: Esperanza's own harbor planning had grown confi
 national coordination to plan contingencies beyond its own immediate subnet, not just react to them after the
 fact.
 
+// adjustments
+
+// visions
+
 ### The Family That Traced Its Own History Back to the Founding Compact
 
 A specific Esperanza family, using the newly searchable national archive, traced its own lineage back to one
@@ -461,6 +573,10 @@ one searchable place before.
 The discovery, per what's preserved of the account, became something of a local story — proof, concrete and
 personal, that the compact's own founding-era promise had genuinely followed through across generations, not
 just in principle but in an actual traceable family line.
+
+// adjustments
+
+// visions
 
 ### The City Whose Whole Identity Finally Had a National Audience
 
@@ -473,6 +589,10 @@ specifically to understand how a whole city's civic identity could be organized 
 successfully as Esperanza's evidently had — the first time the city's own quiet, decades-long founding
 mission had been treated, nationally, as a genuine model worth studying rather than simply a pleasant local
 fact.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -489,6 +609,10 @@ A subnet-external relative hoping to arrange a visit around the same children's 
 option — a letter requesting the current schedule arrived, per a surviving example, describing a term that had
 already ended by the time the reply reached them.
 
+// adjustments
+
+// visions
+
 ### The Recipe Belgrano Answered a Second Time, Properly
 
 A family recipe request sent to Belgrano by mail, garbled somewhere in transcription, produced a dish
@@ -499,6 +623,10 @@ happened to visit months later.
 The same category of exchange, run informally with Marambio over the subnet's own line, was self-correcting in
 a way the Belgrano letters simply weren't — a wrong ingredient list caught and fixed the same afternoon,
 before anyone had gone to the trouble of actually cooking from it.
+
+// adjustments
+
+// visions
 
 ### The Adoption Records Janbogo Couldn't Simply Request
 
@@ -511,6 +639,10 @@ A comparable lineage question involving Marambio was resolved within the Palmer 
 Esperanza's own registrars cross-referencing the two cities' records live over the subnet's line, the entire
 search conducted as a single continuous conversation rather than a slow written exchange.
 
+// adjustments
+
+// visions
+
 ### The Overflow Marambio Planned Around Before Esperanza Even Called
 
 Marambio's own port administrators, watching Esperanza's family-services intake numbers over the subnet's own
@@ -522,6 +654,10 @@ A subnet-external city offering similar overflow assistance during an earlier, s
 visibility — its own contribution arrived only after a formal request had been sent, received, and acted on,
 each step adding its own delay.
 
+// adjustments
+
+// visions
+
 ### The Letter That Reached Belgrano's Archive Before Its Own Author Did
 
 A researcher from Esperanza, traveling to consult Belgrano's own archive in person, sent a letter ahead
@@ -531,6 +667,10 @@ day before she did, the postal system and her own overland travel time turning o
 The coincidence became something of a small joke between the two archives afterward — proof, if any were
 needed, that traveling in person and writing ahead by mail weren't meaningfully different in speed once a
 subnet boundary was involved, only in what each option let her actually do once she arrived.
+
+// adjustments
+
+// visions
 
 ### The City Whose Warmth Stayed Local Until Someone Came to Find It
 
@@ -542,3 +682,7 @@ fact.
 Esperanza's own civic records from the period show a quiet awareness of this limitation — the city didn't
 need cross-subnet reach to be exactly what it already was, but its own founding purpose, family by family,
 simply couldn't travel any faster than the people carrying word of it in person.
+
+// adjustments
+
+// visions

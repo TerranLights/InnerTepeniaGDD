@@ -42,6 +42,10 @@ engineering office that drew it — consistent with everything Finding A and Fin
 thoroughly this pattern runs through the city's own civic identity, here traced to one specific person's own
 specific, documented choice to finish the work regardless.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Director Who Refused to Let the Institute Dissolve
@@ -64,6 +68,10 @@ founding-era proceedings survive. Every later Neumayer institution built on prec
 credibility — the Instrument-Craft Workshops among them — inherited that specific, contested decision rather
 than any default continuity nobody had to fight for.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Adjustment That Wasn't Routine
@@ -82,6 +90,10 @@ hours rather than an ordinary maintenance cycle's usual span. The section held. 
 changed was procedural: the specific rate-of-shift threshold that had previously been treated as "worth
 monitoring" was quietly revised downward afterward, so that a comparable shift would now trigger the same
 urgent response earlier, before it had accumulated as far.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -105,6 +117,10 @@ city within a few years, less through any formal decision than through drinkers 
 exactly what they were getting, every time, the same way they expected to know it from everything else built
 in Neumayer.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What the Observatory Noticed First
@@ -124,6 +140,10 @@ already account for. No announcement was made because, per the Observatory's own
 gradually-confirmed trend in already-monitored data isn't the kind of thing Neumayer treats as news — it's
 simply the data continuing to do what data does, which is exactly the disposition Finding E already
 establishes as the city's own defining relationship to its own instability.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -147,6 +167,10 @@ verification pass, the gap in the unbroken record closed before most of the city
 gap had briefly existed at all. The corruption is barely remembered outside the archival office itself; the
 redundancy that quietly fixed it is the entire reason there was nothing left to remember.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -169,6 +193,10 @@ city's own "designs, doesn't build, doesn't get credited" civic pattern, no form
 survives in the Tower's own construction documentation — the team's own report, filed internally at Neumayer
 rather than with the wider project, is the only surviving account of the trip ever having happened at all.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Argument the Institute Chose Not to Have
@@ -186,6 +214,10 @@ VIII of the Full Extrapolation later formalized — that the city's own instinct
 internal documentation and let that completeness itself be the answer to the unfairness, rather than campaign
 publicly for outside recognition. The decision not to claim credit, even for a project this significant, was
 made deliberately rather than by default — a choice, not simply an old habit nobody thought to question.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -206,6 +238,10 @@ any other data request would have been handled. The specific data provided isn't
 request itself is remembered as one more instance of the Tower's own construction quietly depending on
 expertise nobody outside Neumayer thought to publicly credit.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Backup That Suddenly Had Somewhere Else to Go
@@ -224,6 +260,10 @@ was, a decision made deliberately rather than out of inertia — one more instan
 first culture treating "new" and "better" as genuinely separate questions, even with the whole country's
 communication infrastructure changing all at once around it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Recipe That Arrived From a City No One Had Heard Of
@@ -241,6 +281,10 @@ preserved of the response, attempted the transmitted recipe directly rather than
 batch regulars judged genuinely distinct from anything Neumayer's own established variants offered. The recipe
 was adopted as a standing addition to at least one venue's own rotation — a small, concrete instance of the
 new connectivity actually changing local practice, not merely making distant places newly visible.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -261,6 +305,10 @@ with everything already true about it — the completed documentation existed, a
 looked, and that was considered sufficient regardless of how many new people, now connected for the first
 time, might have thought otherwise.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
@@ -280,6 +328,10 @@ preserved of the reaction, described reviewing the incoming data with a specific
 amount of prior confidence in their own math had actually provided — the difference between believing a design
 would work and watching, for the first time, genuine proof that it had.
 
+// adjustments
+
+// visions
+
 ### The Tolerance Question Sinheung Could Finally Ask While the Line Was Still Running
 
 Neumayer's own current-generation chamber schematic had always shipped to Sinheung's manufacturing floor as a
@@ -294,6 +346,10 @@ question had finished production. The correction, applied mid-run for the first 
 manufacturing history, saved a shipment that would previously have completed with the ambiguity baked in,
 discovered only once installed somewhere far downstream.
 
+// adjustments
+
+// visions
+
 ### The Demonstration Neumayer's Own Designers Watched From Hundreds of Kilometers Away
 
 Calethina's own spec and schematic, drafted at Neumayer and commissioned out of Mawson, had always been a
@@ -306,6 +362,10 @@ schematic's own uncredited authors something they had genuinely never expected t
 own engineering work functioning exactly as intended, in a role none of them had ever personally witnessed.
 Neumayer's own name still didn't travel with the finished result. For the first time, though, the people who'd
 actually done the work got to watch it succeed.
+
+// adjustments
+
+// visions
 
 ### The Joint Reading Session Davis Finally Got to Attend
 
@@ -322,6 +382,10 @@ either archive had been carrying. It confirmed something smaller and, to both re
 valuable: that two independently developed methodologies, compared directly for the first time, told broadly
 consistent stories about the same centuries.
 
+// adjustments
+
+// visions
+
 ### The Warning Halley Received Before Neumayer's Own Report Was Finished
 
 Neumayer's own ice-shelf structural monitoring and Halley's own equivalent discipline had always operated in
@@ -337,6 +401,10 @@ checked immediately against the tip, confirmed a comparable, if less advanced, p
 ice shelf. Both cities adjusted their own monitoring schedules accordingly. Neither had ever been warned by
 the other before that specific moment existed at all.
 
+// adjustments
+
+// visions
+
 ### The Logistics Office That Finally Found Its Own Missing History
 
 Neumayer's own working relationship with Lazar — plausible, per the two cities' shared Halley subnet
@@ -351,6 +419,10 @@ inferred, that Novolazarevskaya's real-world DROMLAN heritage had in fact shaped
 between the two cities. The discovery didn't change how either city currently operated. It closed a
 genuinely open historical question neither city had ever had the means to actually answer before that specific
 search became possible.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -370,6 +442,10 @@ measured in weeks rather than the moments it would take the same design file to 
 existed. Sinheung's own engineers worked from paper and film, not a live connection to the office that had
 drafted it.
 
+// adjustments
+
+// visions
+
 ### The Question That Took Two Seasons to Answer
 
 A structural question from Byrd's own Chamber Works — a tolerance specification unclear in the schematic
@@ -383,6 +459,10 @@ than wait indefinitely. Neumayer's eventual reply confirmed the workaround had b
 itself arrived so long after the fact that it functioned less as guidance than as a historical footnote to a
 problem Byrd had already solved alone.
 
+// adjustments
+
+// visions
+
 ### What Calethina's Own Designer Never Saw Finished
 
 The spec and schematic for Calethina, the hospitality-host hologram commissioned out of Mawson, were drafted
@@ -395,6 +475,10 @@ Neumayer to anywhere past its own subnet's boundary. The engineer finished her d
 own account never learned whether her specifications had needed revision on-site until a secondhand report,
 itself months old by the time it reached her, confirmed the installation had gone well.
 
+// adjustments
+
+// visions
+
 ### The Wire to Lazar
 
 Neumayer's and Lazar's shared Halley subnet membership meant a founding-era logistics question either city
@@ -405,6 +489,10 @@ A Neumayer archivist cross-referencing early supply-route claims against Lazar's
 over the subnet's own standing line, receiving confirmation, correction, and follow-up detail across a single
 afternoon's exchange — a pace of research neither city's own historians, working the same question against a
 subnet-external archive, had ever managed to match.
+
+// adjustments
+
+// visions
 
 ### What Halley Already Knew Before the Post Confirmed It
 
@@ -418,6 +506,10 @@ by the same slow courier route every piece of Neumayer's own subnet-external cor
 time that outside opinion arrived, Halley's own same-day cross-check had already confirmed the finding beyond
 any real doubt.
 
+// adjustments
+
+// visions
+
 ### The Correspondence Davis Never Rushed
 
 Neumayer's and Davis's shared identity as the country's two genuinely comparable "hard science" civic
@@ -430,6 +522,10 @@ themselves, unfolded across several years rather than the single conversation it
 contact existed — each reply considered, drafted, and sent months after the letter it answered, an entire
 scientific correspondence conducted at a pace neither researcher ever described as frustrating, simply as how
 the work between two subnets was done.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -449,6 +545,10 @@ within the week. It was the first time either of the two Cradle-network chamber 
 uncredited design work supported had actually spoken to the office that drafted it, rather than simply
 building from paper.
 
+// adjustments
+
+// visions
+
 ### The Revision Sinheung Suggested Back
 
 Sinheung's own manufacturing floor, building the Mark IV chamber schematic to spec for years, had never once
@@ -462,6 +562,10 @@ schematic revision — the first time the Mark IV design had ever been improved 
 it rather than only by the office that drew it. Sinheung's own floor treated the credit, when it came, as
 beside the point; the schematic simply worked better afterward.
 
+// adjustments
+
+// visions
+
 ### The Finding Davis and Neumayer Reached Together, Not Separately
 
 Following years of correspondence comparing ice-core and lake-sediment dating methods, Neumayer's and Davis's
@@ -473,6 +577,10 @@ reached independently: a specific climate-signal correlation visible only once b
 directly against each other at matching resolution, something neither institution's own isolated analysis had
 been positioned to notice. It became the first result credited jointly to both cities rather than to either
 one's own separate research program.
+
+// adjustments
+
+// visions
 
 ### The Halley Engineer Who Finally Met Her Own Correspondent's Family
 
@@ -486,6 +594,10 @@ introductions. What mattered, per what's preserved of the account, was that it h
 season of planning, something neither family could have managed under the old system without the relationship
 itself having already been built at conversational speed first.
 
+// adjustments
+
+// visions
+
 ### The Design Question Mawson Asked Years After Calethina Was Finished
 
 Long after Calethina's own installation at Mawson was complete, a maintenance question from Mawson's own
@@ -496,6 +608,10 @@ The engineer, per what's preserved of the exchange, was surprised to be asked an
 finishing the project, and answered in detail — closing a loop that, under the old system, would have simply
 stayed open indefinitely, Mawson's own staff continuing to work around an ambiguity rather than ever getting
 a direct answer from the person who could actually resolve it.
+
+// adjustments
+
+// visions
 
 ### The Precision Standard Neumayer Didn't Know It Had Set
 
@@ -508,6 +624,10 @@ Neumayer's own engineers, per what's preserved of the discovery, learned of this
 adopting cities asked a follow-up question assuming Neumayer already knew its own standard had spread. It
 hadn't. The standard itself didn't change. What changed was Neumayer finally learning, directly and all at
 once, exactly how far its own quiet, uncredited precision work had actually traveled.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -525,6 +645,10 @@ most of a season to receive even a first reply — not from any lack of interest
 travel by truck out of the subnet before it could reach anyone at all, then wait for a reply to make the same
 trip back.
 
+// adjustments
+
+// visions
+
 ### The Design Lazar Built From Before Neumayer Ever Saw It Finished
 
 A structural design Neumayer transmitted to Lazar over the subnet's own line was already under construction,
@@ -535,6 +659,10 @@ formally issued version.
 The arrangement only worked because both cities sat inside the same subnet-internal line — a subnet-external
 client, per Neumayer's own established practice, was never sent anything but a finished, fully checked design,
 precisely because there was no fast way to catch and correct a shared mistake in progress.
+
+// adjustments
+
+// visions
 
 ### The Courier Who Carried a Design No Wire Could Reach
 
@@ -548,6 +676,10 @@ courier at all — two deliveries of functionally the same information, one taki
 the better part of a month, for no reason but which side of the subnet boundary the recipient happened to sit
 on.
 
+// adjustments
+
+// visions
+
 ### The Standard Belgrano Adopted Before Neumayer Finished Writing It Down
 
 Belgrano's own engineers began applying one of Neumayer's tolerance standards in practice before Neumayer's
@@ -558,6 +690,10 @@ A subnet-external city requesting the same standard months later received the fi
 nothing more — no informal early word, no working version to start from ahead of time, simply the final
 version once it existed, since no faster channel had ever been available to send anything else.
 
+// adjustments
+
+// visions
+
 ### The Precision Metal Alone Couldn't Carry Any Faster
 
 Neumayer's reputation for exacting, self-contained precision work meant its designs traveled well regardless
@@ -567,6 +703,10 @@ on which line carried it: instant within the subnet, weeks or months by truck or
 Neumayer's own record-keepers, per a surviving internal note, treated this as an unremarkable fact of life
 rather than a frustration — precision was the city's own contribution to make; how quickly it reached its
 destination was simply a function of geography the city had no ability to change.
+
+// adjustments
+
+// visions
 
 ### The Second Set of Books Neumayer Kept for Sinheung
 
@@ -580,3 +720,7 @@ The two versions of essentially the same working relationship — one iterative 
 deliberate and infrequent — left Neumayer's own engineers thinking of Sinheung's contribution as valuable but
 slower to refine, an assessment that had nothing to do with Sinheung's own competence and everything to do
 with which line separated the two cities.
+
+// adjustments
+
+// visions

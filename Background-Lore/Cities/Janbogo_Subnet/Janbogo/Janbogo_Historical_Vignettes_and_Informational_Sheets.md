@@ -42,6 +42,10 @@ specific severe event that an informally softened warning had nearly failed to a
 standardized threshold she established, applied without exception since, is the same system residents still
 credit with turning katabatic danger into a signaled, manageable event rather than an unpredictable hazard.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Architect Who Scaled Up a Teahouse
@@ -61,6 +65,10 @@ warm in exactly the way smaller teahouses had always been — became, once built
 expression of Janbogo's own hospitality-and-synthesis civic identity, proof the intimate principle scaled
 considerably better than its early critics expected.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Teahouse Majyao Actually Built
@@ -78,6 +86,10 @@ came specifically from Majyao's own personal attentiveness to individual visitor
 architectural feature — a reputation built on hospitality practiced consistently, visitor by visitor, long
 before the teahouse became the civic institution and architectural template later generations, including Wu
 Lian-Marchetti's own great commercial halls, would eventually draw from.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -99,6 +111,10 @@ per what's preserved of the account — confirmation that shared national origin
 different civic outcomes, neither city quite what the other might have expected before the exchange actually
 happened.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What the Port Was Built to Move Before It Moved Anything
@@ -117,6 +133,10 @@ capacity built ahead of need becoming, within a generation, capacity the subnet'
 actually required, justifying a founding-era decision that had looked, at the time, like genuine over-
 building for a settlement that size.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The First Night the New Hall Actually Filled
@@ -134,6 +154,10 @@ dissolved once the hall filled and the same gathering-focused atmosphere Janbogo
 always produced held up at full scale. The opening night's own success settled the design question decisively
 — every subsequent commercial hall Janbogo built afterward followed the same scaled-up teahouse principle
 without needing to re-litigate whether it actually worked.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -154,6 +178,10 @@ depending on the answer. The system had been built to signal danger the same way
 whole population depended on it; a heavier volume of outside traffic didn't change what the warning was for,
 and the staff running it didn't let it.
 
+// adjustments
+
+// visions
+
 ### The Hall That Hosted a Meeting No One Explained
 
 *(Shortly before the Tower's completion.)* One of Janbogo's own great shielded commercial halls hosted, late
@@ -169,6 +197,10 @@ into the transit hub's own ordinary flow of travelers passing through. Whatever 
 hall that day left no trace in Janbogo's own civic memory beyond the fact that the space, once again, had done
 exactly the job it was built for.
 
+// adjustments
+
+// visions
+
 ### The Guests Majyao Never Asked to Explain Themselves
 
 *(Shortly before the Tower's completion.)* Majyao's own original teahouse hosted, late in the Tower's
@@ -183,6 +215,10 @@ about their own business needed to be pried at. Whatever these particular travel
 went unasked and unanswered, consistent with a teahouse that had never made a visitor's comfort conditional on
 explaining themselves first.
 
+// adjustments
+
+// visions
+
 ### The Warning That Finally Reached Every Road in the Country
 
 *(Shortly after the Tower's completion.)* Han Soo-jin's own katabatic warning threshold — a system built and
@@ -196,6 +232,10 @@ first — a warning meant for local crews now technically visible to planners in
 reason to track Janbogo's own weather before. The threshold itself never changed. What changed was how far a
 system built to protect one city's own outdoor workers now automatically reached, without anyone at Janbogo
 needing to decide to share it.
+
+// adjustments
+
+// visions
 
 ### The Teahouse the Whole Country Finally Heard About
 
@@ -212,6 +252,10 @@ any deliberate campaign to be known. The Tower's completion didn't change how Ma
 for the first time, that people who'd never have any reason to visit Janbogo at all now knew the teahouse
 existed.
 
+// adjustments
+
+// visions
+
 ### The Halls That Finally Answered a Question From Somewhere Else
 
 *(Shortly after the Tower's completion.)* Janbogo's own great shielded commercial halls received, for the
@@ -226,6 +270,10 @@ that had proven the intimate warmth scaled successfully. Whether the inquiring s
 the answer isn't part of what Janbogo itself preserved. What the inquiry confirmed, for the first time, was
 that a design principle born from scaling up one small teahouse had traveled, on its own reputation, far
 enough that strangers elsewhere wanted to learn how it was actually done.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -244,6 +292,10 @@ generosity didn't accidentally overload either city's own hosting capacity in a 
 warmth of individual visits stayed exactly as unplanned as it always had been. Only the underlying calendar,
 for the first time, was actually coordinated rather than left to chance.
 
+// adjustments
+
+// visions
+
 ### The Question Sejong's Delegates Asked Before the Gathering House Session
 
 Ahead of the first Gathering House session including Sejong's own delegates, Janbogo's own hosts reached out
@@ -257,6 +309,10 @@ their own city in the abstract. The gathering itself proceeded exactly as every 
 always had. The advance planning, made possible only because a direct question could actually be asked and
 answered before the visit itself, was the genuinely new part.
 
+// adjustments
+
+// visions
+
 ### The Hospitality Comparison Mawson Finally Got to Run With a Genuine Peer
 
 Janbogo's own hospitality-and-synthesis civic identity and Mawson's own honeymoon-destination tourism economy,
@@ -269,6 +325,10 @@ own hospitality built around making people feel at home passing through, Mawson'
 people feel deliberately, memorably welcomed for an extended stay. Neither city adjusted its own approach.
 Both, per what's recalled of the exchange, found genuine professional value in finally understanding exactly
 how two comparable civic instincts had developed toward two different purposes.
+
+// adjustments
+
+// visions
 
 ### The Emigration Records Esperanza and Janbogo Finally Compared in Full
 
@@ -284,6 +344,10 @@ pattern neither city's own planners had engineered but that both had apparently 
 finding didn't change either city's own current governance. It gave both administrations a genuinely new,
 shared data point about how the emigration had actually unfolded, district by district.
 
+// adjustments
+
+// visions
+
 ### The Halls' Own Design Reaching Dumont d'Urville Directly
 
 Following the shared demographic connection linking Janbogo and Dumont d'Urville, a separate, unrelated
@@ -296,6 +360,10 @@ music venues, comparing notes for the first time on what actually made a space f
 Whether Dumont d'Urville incorporated anything from the exchange isn't preserved. The conversation itself,
 crossing two genuinely different hospitality traditions within the same subnet, was the first of its kind
 either city had ever had.
+
+// adjustments
+
+// visions
 
 ### The Population Study That Finally Explained Byrd's Own Kinship
 
@@ -310,6 +378,10 @@ detail — specific national-origin patterns in Byrd's own founding population t
 Pacific-facing composition down to individual nation shares, not merely the broad regional resemblance already
 known. Neither city's own governance changed as a result. Both, for the first time, had documented confirmation
 of exactly how strong the demographic kinship the two cities had never directly acted on actually was.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -326,6 +398,10 @@ within the same afternoon a resident first mentioned wanting to make the trip �
 with a subnet-external city instead, would have required advance written notice and a confirmed reply before
 anyone could simply show up.
 
+// adjustments
+
+// visions
+
 ### The Design Note Dumont d'Urville Answered Before Janbogo Finished the Sentence
 
 Janbogo's and Dumont d'Urville's shared Janbogo subnet membership let the two cities' own hospitality
@@ -336,6 +412,10 @@ A specific staging question, per what's preserved of the exchange, was resolved 
 d'Urville's own venue organizers could simply describe their own approach directly — the kind of immediate,
 back-and-forth creative consultation that a subnet-external hospitality city could only offer by letter,
 several rounds removed from anything resembling a real conversation.
+
+// adjustments
+
+// visions
 
 ### The Kinship Letter Sejong Waited a Season to Send
 
@@ -348,6 +428,10 @@ full — a genuinely thoughtful answer, once it came, that Janbogo's own Hall co
 if considerably slower than the same conversation would have taken with any of Janbogo's own subnet
 neighbors.
 
+// adjustments
+
+// visions
+
 ### The Hospitality Comparison Mawson Made From a Traveler's Account
 
 Mawson's own honeymoon-destination hospitality industry and Janbogo's own transit-focused hospitality
@@ -359,6 +443,10 @@ accounts, received a reply from Mawson months later — genuinely useful, if con
 crossed the full distance from the Janbogo subnet into the Mawson subnet at whatever pace the postal route
 between the two allowed.
 
+// adjustments
+
+// visions
+
 ### The Emigration Data Esperanza Sent By the Slowest Possible Route
 
 The shared emigration pattern that thinned both Esperanza's and Janbogo's own populations while enlarging
@@ -368,6 +456,10 @@ from the Janbogo subnet into the Palmer subnet, could only happen by written cor
 The exchange, per what's preserved of the letters, took the better part of a year to complete — each city's
 own municipal records searched and mailed separately, since no channel existed to simply compare the two data
 sets directly the way Janbogo could with Zukelli or Dumont d'Urville over the subnet's own instant line.
+
+// adjustments
+
+// visions
 
 ### The Manifest Zukelli and Dumont d'Urville Confirmed Before Byrd's Letter Even Left
 
@@ -380,6 +472,10 @@ The joint shipment reached its intra-subnet destination within days. The letter 
 took months to receive any reply at all — two pieces of correspondence dispatched the same day, arriving at
 wildly different speeds depending on nothing more than which side of the subnet boundary each was addressed
 to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -397,6 +493,10 @@ exactly as it always had. What mattered, per what's remembered locally, was smal
 old closeness finally had an official name, made possible only because national administrative correspondence
 now made formalizing that kind of relationship easy rather than an unnecessary bureaucratic step.
 
+// adjustments
+
+// visions
+
 ### The Question Sejong No Longer Needed to Ask in Advance
 
 Following the earlier courtesy of advance notice before contacting Janbogo, Sejong's own Hall coordinators
@@ -406,6 +506,10 @@ out directly whenever a question arose, the same way either city would treat a s
 Janbogo's own coordinators, per what's preserved of the shift, welcomed the change — the original courtesy
 had been a genuine kindness under the old system, but maintaining it once contact was instant had started to
 feel more like unnecessary formality than actual consideration.
+
+// adjustments
+
+// visions
 
 ### The Hospitality Comparison That Finally Became a Shared Training Session
 
@@ -417,6 +521,10 @@ through the earlier secondhand written comparison alone.
 The session, per what's preserved of the account, surfaced genuine differences in approach neither city's own
 earlier correspondence had fully captured — proof that some kinds of hospitality knowledge only really
 transfer through direct demonstration, not description.
+
+// adjustments
+
+// visions
 
 ### The Comparison Esperanza Finally Closed the Loop On
 
@@ -430,6 +538,10 @@ corrected details the joint comparison had surfaced — a small but genuine impr
 official historical record, achieved only because two archives could finally be checked against each other
 directly.
 
+// adjustments
+
+// visions
+
 ### The Venue Style Dumont d'Urville Sent Back, Adapted for Fashion
 
 Following the original hospitality-design question exchanged with Dumont d'Urville, a considerably different
@@ -442,6 +554,10 @@ interesting — proof that a technique developed for one kind of hospitality cou
 entirely different one, once the two cities could simply describe what they were each doing to each other
 directly.
 
+// adjustments
+
+// visions
+
 ### The Demographic Study That Finally Explained Why, Not Just How Much
 
 Following the earlier joint demographic study confirming Byrd's own Pacific-facing population kinship with
@@ -453,6 +569,10 @@ The follow-up research, per what's preserved of the project, remains genuinely i
 question neither city's own records fully answer yet. What the collaboration did produce, for the first time,
 was a shared research agenda between the two cities rather than a single closed study, the demographic
 kinship having grown from a confirmed fact into an actual ongoing joint inquiry.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -469,6 +589,10 @@ A comparable pattern shared with Dumont d'Urville, well outside the subnet, rece
 first finished garments had already been produced — Dumont d'Urville's own designers responding to a
 completed result rather than participating in the design's own development.
 
+// adjustments
+
+// visions
+
 ### The Relay Question Dumont d'Urville Answered While the Line Was Still Open
 
 A routine question about Arcanet relay-nexus capacity, part of Janbogo's own duties as the subnet's relay
@@ -478,6 +602,10 @@ even minor technical coordination effectively a single continuous conversation.
 A subnet-external city with a related capacity question had no such immediacy — its own written inquiry
 arrived, was answered by mail, and required a full return trip of correspondence before the matter was
 considered settled.
+
+// adjustments
+
+// visions
 
 ### The Letter Sejong Answered Before Its Own Season Ended
 
@@ -489,6 +617,10 @@ The same inquiry, if it had involved Dumont d'Urville instead, would have been a
 the subnet's own line — a contrast Janbogo's own record-keepers, per a surviving note, found genuinely
 striking once both timelines sat side by side.
 
+// adjustments
+
+// visions
+
 ### The Hospitality Standard Mawson Learned Secondhand
 
 A hospitality-industry standard Janbogo developed for its own fused-fashion tourist trade reached Mawson only
@@ -498,6 +630,10 @@ through a traveler's own secondhand account, since no formal channel existed to 
 Zukelli, receiving the same standard directly over the subnet's own line, could implement it exactly as
 written — the difference between a faithful copy and an approximation tracing entirely to which side of the
 subnet boundary the recipient sat on.
+
+// adjustments
+
+// visions
 
 ### The Demographic Figures Esperanza Received a Full Season Late
 
@@ -510,6 +646,10 @@ Zukelli, requesting a related figure over the subnet's own line, received not ju
 conversation about its own significance — a level of interpretive context Esperanza's own single mailed
 document simply couldn't carry.
 
+// adjustments
+
+// visions
+
 ### The Fusion That Traveled Instantly Between Sisters and Slowly Everywhere Else
 
 Janbogo's own defining identity — a fused, synthesized fashion culture effectively inseparable from Zukelli's
@@ -519,3 +659,7 @@ tradition; within the subnet, that coordination was effectively seamless.
 Beyond the subnet, the same fused identity was understood and admired, but never actually participated in —
 Sejong, Mawson, Esperanza, and Byrd all knew Janbogo's own fashion culture as something to observe and
 request, never as something they could help shape in real time the way Zukelli and Dumont d'Urville could.
+
+// adjustments
+
+// visions

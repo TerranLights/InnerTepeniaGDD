@@ -45,6 +45,10 @@ that resulted eventually outgrew anything Wetherall himself had originally imagi
 specifically because the fame of what he'd found and pushed for became so disproportionate to the modest
 archival curiosity that started it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Forecast "Long Odds" Never Missed
@@ -66,6 +70,10 @@ within hours of their arrival at the other end. Nobody currently working Casey's
 which is, in a transit city built entirely on trusting exactly this kind of judgment, close enough to the same
 thing.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What the Instruments Were Actually Watching For
@@ -86,6 +94,10 @@ equipment mattered beyond institutional carryover — proof, early in the city's
 Circle-threshold position gave real, actionable warning time no other instrument placement in the subnet
 could have provided as early.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Curiosity Down the Road
@@ -103,6 +115,10 @@ about it, less for what it found — nothing, beyond confirming how deeply burie
 more as the specific moment Wilkes's own reputation as "a curiosity, not a destination" was settled through
 direct, practical experience rather than simply assumed. Nobody in Casey's own subsequent history attempted a
 serious excavation again.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -123,6 +139,10 @@ traveler's own stated destination against the route they were actually issued co
 specific fix, traced directly back to one trucker's one wrong turn at the fork the whole city was built
 around.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Fast in, Fast Out, By Design
@@ -141,6 +161,10 @@ efficient service instead, and the revised model succeeded where the original ha
 confirmation that Casey's own economy simply didn't support hospitality built for lingering, however well
 executed, the same lesson every subsequent waystation operator inherited without needing to relearn it
 themselves.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -163,6 +187,10 @@ office never learned exactly what the convoys were ultimately supporting; the of
 destination it had never tracked before, the same job it had always done for every other road out of the
 junction.
 
+// adjustments
+
+// visions
+
 ### The Night Splinters Filled With People Nobody Recognized
 
 *(Shortly before the Tower's completion.)* Splinters, Casey's own massive, deliberately revived bar and
@@ -177,6 +205,10 @@ treating Splinters' own famous scale with the same slightly disbelieving reactio
 usually had. Wetherall's own original argument — that a transit city needed exactly one thing worth stopping
 for — held true for an audience considerably larger, and considerably more anonymous, than he'd likely ever
 pictured when he first found the old records.
+
+// adjustments
+
+// visions
 
 ### The Reading the Circle-Threshold Instruments Weren't Built to Explain
 
@@ -193,6 +225,10 @@ patterns at a scale Casey's own instruments had never been calibrated to expect.
 baseline within the season. The unresolved log entry remains exactly that — logged, unexplained, filed the way
 Casey's own technical culture filed everything it couldn't yet fully account for.
 
+// adjustments
+
+// visions
+
 ### The Forecast That Reached Every Road in the Country at Once
 
 *(Shortly after the Tower's completion.)* Casey's own wind-window certifications, previously relayed only to
@@ -206,6 +242,10 @@ first — a certification meant for a specific local convoy now technically visi
 Casey's own dispatchers had never had reason to communicate with directly. Nothing about the certification
 process itself changed. What changed was the audience, considerably larger and considerably more distant than
 the cardinal rule — share it immediately, share it accurately — had ever been written to anticipate.
+
+// adjustments
+
+// visions
 
 ### The Fame Splinters Finally Had a Name For
 
@@ -221,6 +261,10 @@ famous among the specific travelers who happened to have stopped there. The venu
 changed was that the fame Wetherall's own modest archival curiosity had started now belonged, for the first
 time, to people who'd never actually walked through Splinters' own doors.
 
+// adjustments
+
+// visions
+
 ### The Junction That Finally Understood What It Had Always Been
 
 *(Shortly after the Tower's completion.)* The Hwy 110/Hwy 2 junction — Casey's own literal geographic and
@@ -235,6 +279,10 @@ routes met and travelers were told, honestly and immediately, which way to go ha
 country do something structurally similar at a scale Casey itself could never match. Nothing about Casey's
 own daily function changed. The comparison stuck anyway, a small, specific piece of civic pride in having
 already understood, for generations, what connection was actually for.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -253,6 +301,10 @@ rather than two separate clearances issued independently and simply hoped to ali
 held without incident. It marked the first time either city's own dispatch discipline had extended past its
 own half of a route the two cities had shared, without ever actually coordinating, for generations.
 
+// adjustments
+
+// visions
+
 ### The Forecast Method Fort McMurdo Adopted After Watching Casey Work
 
 Fort McMurdo's own Erebus monitoring bulletins and Casey's own wind-window certification discipline, already
@@ -266,6 +318,10 @@ than defaulting to caution or bravado. Fort McMurdo's own monitoring program ado
 disciplined-reading approach for its own Erebus bulletins afterward, the first time Casey's own dispatch
 culture had directly shaped another city's own safety communication practice.
 
+// adjustments
+
+// visions
+
 ### The Question Scott Finally Got Answered About Long Odds
 
 Following Scott's own precision-calibration reputation reaching Casey's technical circles, a Casey dispatcher
@@ -278,6 +334,10 @@ two cities' own safety cultures, Casey's built around trusting a person, Scott's
 procedure. Neither city concluded its own approach was superior. Both, per what's recalled of the exchange,
 found the comparison worth having simply because neither had ever had occasion to articulate the difference
 out loud before.
+
+// adjustments
+
+// visions
 
 ### The Australian Network That Finally Included a Direct Casey-Davis Channel
 
@@ -293,6 +353,10 @@ all. The question was answered, the specific technical issue resolved, and the e
 something neither city had previously had reason to establish: that their own relationship could function
 one-on-one, not only as part of the wider three-city network built around shared heritage.
 
+// adjustments
+
+// visions
+
 ### The Splinters Booking Mirny's Quarry Crews Finally Made Directly
 
 Splinters, Casey's own massive bar and live-music venue, received its first direct advance booking from a
@@ -304,6 +368,10 @@ The booking itself was modest — a single evening, a reserved table, nothing el
 per what's recalled of the occasion, treated it as a small novelty worth remarking on: the first time anyone
 had ever called ahead specifically to make sure a table would be available, rather than simply arriving and
 trusting Wetherall's own original venue to make room the way it always had for everyone else.
+
+// adjustments
+
+// visions
 
 ### The Dispute Fort McMurdo and Casey Finally Settled the Same Day
 
@@ -317,6 +385,10 @@ same live conditions at once. What mattered, per what's preserved of the inciden
 first time a genuine scheduling disagreement between the two cities' own logistics operations had been
 resolved the same day it arose, rather than becoming the kind of days-long back-and-forth correspondence any
 comparable dispute had always previously required.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -333,6 +405,10 @@ Davis in time to save a scheduled convoy from an unnecessary delay — coordinat
 subnet-external dispatch office, would have required the same bulletin to travel by whatever slower channel
 existed, arriving well after the window itself had already closed or held.
 
+// adjustments
+
+// visions
+
 ### The Shortest Highway in the Country, and the Slowest Mail
 
 Hwy 2 gave Casey a direct physical road connection to Dumont d'Urville shorter than any other cross-subnet
@@ -344,6 +420,10 @@ cities each other's closest cross-subnet neighbor, still took the better part of
 answer to — the physical proximity Hwy 2 provided doing nothing to speed up a conversation that had to travel
 by truck rather than wire, a contrast Casey's own dispatchers found genuinely strange once they thought about
 it directly.
+
+// adjustments
+
+// visions
 
 ### The Safety Culture Fort McMurdo Copied From a Document, Not a Conversation
 
@@ -357,6 +437,10 @@ mail, and confirm received — genuinely useful material that Fort McMurdo's own
 own industrial context, without either office ever actually discussing the adaptation directly, since no
 faster channel existed to have that conversation at all.
 
+// adjustments
+
+// visions
+
 ### The Calibration Question Scott Answered a Full Season Later
 
 Scott's own precision-calibration reputation, once it spread beyond the Janbogo subnet, drew a specific
@@ -366,6 +450,10 @@ by written correspondence, since nothing connected the Mirny and Janbogo subnets
 The reply, per what's preserved of the letter, arrived a full season after the original question was sent —
 detailed and genuinely useful once it finally came, though Casey's own technicians had, by that point, already
 worked out an approximate answer of their own rather than wait indefinitely for Scott's own more precise one.
+
+// adjustments
+
+// visions
 
 ### The Story Mirny Told the Same Day It Was Asked For
 
@@ -379,6 +467,10 @@ a written exchange that took the better part of a year to complete — Casey's o
 remembered of the comparison, noting afterward how strange it felt that a story from a nearer subnet neighbor
 arrived faster than one from a city Hwy 2 physically connected them to just as directly.
 
+// adjustments
+
+// visions
+
 ### The Manifest Dumont d'Urville Never Saw Coming
 
 A shipment assembled jointly from Casey's and Mirny's own combined stock, coordinated in a single real-time
@@ -390,6 +482,10 @@ once it crossed into the Janbogo subnet — the same highway that made the physi
 other cross-subnet route in the country doing nothing to shorten the silence that followed. Dumont d'Urville's
 own receiving staff, when the shipment finally arrived, had no way of knowing how quickly it had actually been
 assembled.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -405,6 +501,10 @@ Casey's own certification office, per what's preserved of the record, reviewed t
 after the fact and confirmed it met the same standard Casey itself would have applied — proof the trust
 extended along Hwy 2 had produced something durable, not just a one-time courtesy.
 
+// adjustments
+
+// visions
+
 ### The Bulletin Style Fort McMurdo Adapted a Second Time
 
 Following Fort McMurdo's own earlier adoption of Conti's plain-language monitoring style, a considerably
@@ -417,6 +517,10 @@ had nothing to do with their own actual expertise — proof that the specific ST
 developed for one narrow purpose had become, once national attention made it visible, a genuinely portable
 piece of civic technique.
 
+// adjustments
+
+// visions
+
 ### The Question Scott Answered With a Number, Not Just Reassurance
 
 Following the original Long Odds inquiry, a considerably more technical follow-up from Scott's own precision
@@ -427,6 +531,10 @@ Casey's own dispatchers, per what's preserved of the exchange, had to consult th
 technicians before answering fully — the first time an outside inquiry had pushed Casey's own wind-window
 system to articulate its own underlying numbers precisely, rather than simply the practical judgment calls
 built on top of them.
+
+// adjustments
+
+// visions
 
 ### The Bilateral Channel With Davis That Finally Went Both Directions
 
@@ -439,6 +547,10 @@ Davis's own researchers, per what's preserved of the exchange, treated the reque
 the channel had always been built for exactly this kind of two-way practical exchange, simply waiting for
 Casey to need something from the other direction for the first time.
 
+// adjustments
+
+// visions
+
 ### The Booking Splinters Almost Couldn't Fill
 
 Following the first advance table booking from Mirny, Splinters' own popularity, now genuinely national once
@@ -448,6 +560,10 @@ tables — a problem the venue had never previously had to solve.
 Casey's own venue staff, per what's preserved of the account, improvised a waitlist system on the spot — a
 small, practical response to a genuinely new problem: a bar built on Wetherall's own original instinct to
 always make room for everyone was, for the first time, running out of room.
+
+// adjustments
+
+// visions
 
 ### The Reputation That Finally Reached a City With No Reason to Know Casey's Name
 
@@ -459,6 +575,10 @@ national connectivity now let travel freely between cities with no formal relati
 Casey's own dispatchers, per what's preserved of the exchange, answered the inquiry the same way they answered
 everything — plainly, warmly, without much ceremony — proof that some kinds of civic reputation now traveled
 along no particular route at all, simply spreading wherever people happened to be talking.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -475,6 +595,10 @@ from Casey — a request for advice on lineup pacing traveled by mail and return
 festival in question had already concluded, the advice itself still useful for next time but too late for
 the event it was meant to help.
 
+// adjustments
+
+// visions
+
 ### The Recipe That Reached Mirny Before the Pot Cooled
 
 A dish invented spontaneously in one of Casey's own kitchens was described in enough detail over the subnet's
@@ -484,6 +608,10 @@ served that same evening — the kind of playful, immediate cultural exchange th
 Dumont d'Urville, hearing of the same dish only through a much later letter, received a recipe by then several
 revisions removed from the original — Casey's own kitchens having refined it further in the meantime, changes
 that never made it into the correspondence.
+
+// adjustments
+
+// visions
 
 ### The Highway That Carried Freight Faster Than It Carried Conversation
 
@@ -496,6 +624,10 @@ A comparable cultural exchange conducted with Davis, well outside highway range 
 digital reach, moved considerably faster in every respect but the physical delivery of goods — proof that
 proximity and connectivity, in Casey's own particular case, didn't actually correlate at all.
 
+// adjustments
+
+// visions
+
 ### The Safety Bulletin Fort McMurdo Received Without Its Own Author
 
 A safety bulletin Casey's own civic office drafted after a minor incident was sent to Fort McMurdo by mail,
@@ -506,6 +638,10 @@ recommendation had been made.
 Mirny, receiving the same bulletin over the subnet's own line, could and did ask several clarifying questions
 before adopting anything — the original author still reachable, the document itself functioning as the start
 of a conversation rather than the whole of one.
+
+// adjustments
+
+// visions
 
 ### The Calibration Standard Scott Adopted a Season Behind Everyone Else
 
@@ -518,6 +654,10 @@ Casey's own record-keepers, aware of the gap, made a point of periodically resen
 Scott regardless — an imperfect fix, but preferable, in their own stated reasoning, to letting a
 subnet-external partner work indefinitely from an outdated standard.
 
+// adjustments
+
+// visions
+
 ### The City Whose Charisma Reached Only as Far as the Line Could Carry It
 
 Casey's own warm, culturally generative character was, before the Tower, something Mirny and Davis
@@ -528,3 +668,7 @@ arrived considerably diluted by the delay required to carry it.
 Casey's own civic identity never changed depending on the audience — but how much of that identity actually
 reached a given city, and how quickly, depended entirely on whether that city happened to sit inside the
 Mirny subnet's own reach.
+
+// adjustments
+
+// visions

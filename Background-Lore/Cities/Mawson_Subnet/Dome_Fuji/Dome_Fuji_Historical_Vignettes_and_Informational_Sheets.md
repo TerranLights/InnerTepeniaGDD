@@ -54,6 +54,10 @@ crisis, purely because the conditions eventually asked more than anyone had left
 expedition's own report back to the wider faith community, describing a monument to absence rather than a
 ruin to reclaim, is what actually launched the slow, one-devotee-at-a-time growth that followed.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Winter Aslaug Decided to Stay
@@ -72,6 +76,10 @@ observance beginning that same first winter and continuing, extended slightly fu
 year since — the specific origin of the practice the community would now describe as characteristic of her
 own standing, though nobody at the time knew that first difficult arrival would become the start of something
 this long-lived.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -92,6 +100,10 @@ decision the faith's own devotees treated as doctrinally necessary rather than a
 since the sacred site's own significance depended entirely on being the actual highest point, not an
 approximately close one.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Hall Built So No One Would Cheat the Cold
@@ -111,6 +123,10 @@ between the Old Wing and Nyakkyo so that every pilgrim's approach passed through
 preparation point — a founding-era decision that shaped how every subsequent devotee's own approach to the
 sacred site has been structured since.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Cairns No Authority Was Asked to Approve
@@ -129,6 +145,10 @@ into doctrine rather than inventing in advance. The cairns themselves remain, pe
 devotee-maintained infrastructure — no formal authority was ever asked to approve or take over their upkeep,
 consistent with the faith's own anti-hierarchical character even in something as practical as trail markers.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Deepest Cold No One Expected to Matter This Much
@@ -146,6 +166,10 @@ significant arrivals carried real weight, demonstrated concretely rather than le
 specific pilgrim's own name isn't preserved in what's established about the incident, but the observance
 itself is still referenced, generations later, as the clearest example the community has of doctrine and
 lived coincidence lining up in a way devotees found genuinely meaningful rather than simply notable.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -166,6 +190,10 @@ capable of producing a serious answer when asked. The requested data went out th
 relay the station's own remote position had always required. What the Tower's own planners did with it isn't
 part of what Dome Fuji's own records preserved.
 
+// adjustments
+
+// visions
+
 ### The Transfer Request Held Up by the Same Thin Margins as Always
 
 *(Shortly before the Tower's completion.)* A researcher's own transfer request, filed through Dome Fuji's own
@@ -180,6 +208,10 @@ underway, one careful departure at a time, continuing exactly as it had for gene
 large-scale project was concluding elsewhere on the continent. Nothing about the Tower's own imminent
 completion changed how Dome Fuji actually managed its own slow, structural population decline.
 
+// adjustments
+
+// visions
+
 ### The Supply Run That Couldn't Wait for the Aviation Route
 
 *(Shortly before the Tower's completion.)* Dome Fuji's own overland supply chain through Sayowa, predating the
@@ -193,6 +225,10 @@ but closer to the edge of that margin than staff were comfortable with — a rem
 the period, that Dome Fuji's own extreme isolation made even routine supply timing a genuine operational
 concern regardless of how much national infrastructure was maturing elsewhere. The specific delay was never
 fully explained. The margin held anyway, the same way it always had.
+
+// adjustments
+
+// visions
 
 ### The Transfer That Finally Moved a Little Faster
 
@@ -209,6 +245,10 @@ Tower's own completion. In hindsight, it's a small, quiet data point in the same
 tells: the wider Federation's own growing capability making it easier, one request at a time, for a station
 built for hardship nobody had specifically prepared for to become, eventually, easier to leave than to stay.
 
+// adjustments
+
+// visions
+
 ### The Cores That Reached the Country Without Dome Fuji Reaching Anyone Directly
 
 *(Shortly after the Tower's completion.)* Dome Fuji's own ice-core research, still relayed out through Sayowa's
@@ -224,6 +264,10 @@ What changed happened entirely on the other end: data that once reached only who
 onward correspondence specifically served now reached, once it cleared that first slow leg, the whole
 connected country at once.
 
+// adjustments
+
+// visions
+
 ### The Season No One at the Station Learned About Until Later
 
 *(Shortly after the Tower's completion.)* News of the Tower's own completion — and the national connectivity
@@ -238,6 +282,10 @@ all outside news always had, considerably after the fact and considerably second
 the chronic isolation, the same conditions that had always set Dome Fuji apart from the rest of Tepenia's own
 communications didn't change because a relay tower elsewhere had finally connected everyone else. Dome Fuji
 heard about the connection the same way it heard about everything: later, and through Sayowa.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -257,6 +305,10 @@ departed. The adjusted flight arrived carrying exactly what the station had actu
 rather than the standard load the route had always defaulted to. It marked the first time in the route's own
 working history that Dome Fuji's own actual requirements had shaped a flight before it left the ground.
 
+// adjustments
+
+// visions
+
 ### The Second Aviation Route Sinheung Finally Coordinated With the First
 
 Following Troll's and Sinheung's own joint scheduling session that ended years of duplicate deliveries, Dome
@@ -270,6 +322,10 @@ uncoordinated schedule had periodically produced. Nobody at Dome Fuji had been c
 directly; the improvement simply arrived, the practical result of two other cities finally being able to
 compare notes about a station neither could reach except by air.
 
+// adjustments
+
+// visions
+
 ### The Overland Request That Reached Sayowa Before the Season Turned
 
 Dome Fuji's own overland supply chain through Sayowa had always required requests to be submitted well in
@@ -282,6 +338,10 @@ same day it was sent rather than leaving the station to wonder whether the reque
 gave the logistics staff something genuinely new: certainty, months before a shipment's own scheduled
 departure, that the season's own supply plan was actually in motion. The uncertainty the old system had always
 required residents to simply tolerate was, for this one request, no longer necessary.
+
+// adjustments
+
+// visions
 
 ### The Hub Coordination Session Dome Fuji Learned About After the Fact
 
@@ -297,6 +357,10 @@ Mawson's own coordination had genuinely accounted for Dome Fuji's own requiremen
 inability to participate directly — proof that being spoken for accurately, even without being present, still
 counted for something.
 
+// adjustments
+
+// visions
+
 ### The Sediment Question Dome Fuji Actually Managed to Answer in Time
 
 Following Davis's own paleoclimate correspondence reaching Dome Fuji's research station, a specific follow-up
@@ -310,6 +374,10 @@ Sayowa, requiring the response to be prepared and dispatched well ahead of the d
 arriving in time. The data arrived with days to spare. It stands as the first time Dome Fuji's own
 research correspondence had ever successfully met an outside institution's own actual timeline, rather than
 simply arriving eventually.
+
+// adjustments
+
+// visions
 
 ### The Rediscovery Expedition's Own First Coordinated Departure, Later in the Same Era
 
@@ -327,6 +395,10 @@ What the expedition actually found, once it arrived, belongs to Dome Fuji's own 
 planning itself belongs to the same connectivity story every other city in the country experienced, arriving
 here later, and differently, than everywhere else.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
@@ -343,6 +415,10 @@ relayed rather than transmitted — Dome Fuji's own extreme-altitude limitations
 technically within the same subnet, moved more reliably by courier riding along the supply route than by any
 comms channel the station's own equipment could sustain.
 
+// adjustments
+
+// visions
+
 ### The Hub Session Dome Fuji Joined Late, By Design
 
 The first three-way coordination session bringing Mawson, Sayowa, and Dome Fuji together to manage overlapping
@@ -353,6 +429,10 @@ Mawson's own hub coordinators, per what's preserved of the session's own record,
 around Dome Fuji's own delayed participation as a matter of course — treating the isolated station's own
 input as valuable but never assuming it would arrive on the same timeline as anything exchanged between
 Mawson and Sayowa directly.
+
+// adjustments
+
+// visions
 
 ### The Supply Flight Troll Sent Without Any Way to Confirm the Landing
 
@@ -365,6 +445,10 @@ way to confirm conditions had held at the destination — a decision made entire
 departure, since no channel existed to check partway through the way Troll could check conditions with Sanay
 or Belgrano within its own subnet.
 
+// adjustments
+
+// visions
+
 ### The Second Route Sinheung Coordinated Entirely Through Mawson
 
 Sinheung's own independent aviation route toward Dome Fuji, routed through the city of Mawson, meant Sinheung
@@ -375,6 +459,10 @@ A specific supply coordination, per what's preserved of the arrangement, require
 between Sinheung and Dome Fuji separately, in both directions, since the two ends of the route had no way to
 speak to each other — a three-step relay that, within any ordinary subnet, would simply have been a single
 direct conversation.
+
+// adjustments
+
+// visions
 
 ### The Geographic Proximity That Never Became an Actual Connection
 
@@ -387,6 +475,10 @@ to receive any reply to at all — a letter that had to travel first to Sayowa a
 eventually reached Dome Fuji's own extremely limited receiving capacity, proof that even a genuinely close
 geographic neighbor remained, for practical purposes, entirely out of reach.
 
+// adjustments
+
+// visions
+
 ### The Climate Correspondence Davis Sustained Without Ever Getting a Fast Answer
 
 The independently-developed climate-record traditions connecting Dome Fuji's own ice-core archive to Davis's
@@ -398,6 +490,10 @@ A specific comparative request, per what's preserved of the exchange, took consi
 an equivalent request to Kunlun would have taken Davis — Dome Fuji's own researchers, per what's remembered of
 the reply, working from records not fully organized for outside comparison, since almost no prior occasion had
 ever required the station to correspond with anyone this far away before.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -414,6 +510,10 @@ Troll's own dispatchers, per what's preserved of the record, had learned by this
 single fast confirmation as the new normal — Dome Fuji's own thin connectivity remained thin, reliably
 unreliable in a way no other city's own post-Tower experience quite matched.
 
+// adjustments
+
+// visions
+
 ### The Schedule Correction Sinheung Sent Twice, Just to Be Sure
 
 Following the original corrected-schedule benefit Sinheung provided, a second correction sent through the
@@ -423,6 +523,10 @@ the isolated station had received a usable version the first time.
 Dome Fuji's own receiving staff, per what's preserved of the incident, confirmed the resend had indeed been
 necessary — the original transmission had arrived corrupted, a small, concrete reminder of exactly how
 marginal the station's own digital reach actually was, even now.
+
+// adjustments
+
+// visions
 
 ### The Acknowledgment Sayowa Received a Full Day Later Than Expected
 
@@ -435,6 +539,10 @@ Sayowa's own coordinators, per what's preserved of the record, had come to treat
 time as fundamentally unpredictable — planning around the slow case as a matter of course, treating any faster
 reply as a pleasant exception rather than something to rely on.
 
+// adjustments
+
+// visions
+
 ### The Session Summary Mawson Received in Real Time for the First Time
 
 Following the earlier after-the-fact session summary Mawson once received from a hub-coordination meeting
@@ -446,6 +554,10 @@ Mawson's own hub coordinators, per what's preserved of the session, treated the 
 as genuinely notable — rare enough, given Dome Fuji's own established connectivity limits, that a single
 session going smoothly was itself worth remarking on.
 
+// adjustments
+
+// visions
+
 ### The Ice-Core Comparison That Finally Went the Other Direction
 
 Following Davis's own patient, slow-moving correspondence with Dome Fuji, Dome Fuji's own researchers
@@ -455,6 +567,10 @@ lake-sediment methodology that Dome Fuji's own ice-core work had encountered a g
 Davis's own researchers, per what's preserved of the exchange, answered as thoroughly as their own original
 patience with Dome Fuji had suggested they would — the correspondence, for the first time, running in both
 directions rather than only from Davis's own side outward.
+
+// adjustments
+
+// visions
 
 ### The Highway Status Princess Elisabeth Finally Got Confirmed a Second Time
 
@@ -466,6 +582,10 @@ thin, unreliable nature reasserting itself despite the earlier fast response.
 Princess Elisabeth's own residents, per what's preserved of the exchange, had by this point stopped expecting
 consistency from Dome Fuji's own responses — treating each successful contact as its own small, appreciated
 event rather than evidence the connection had become genuinely reliable.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -481,6 +601,10 @@ A comparable, less urgent update sent digitally the same week arrived garbled pa
 second attempt — a reminder that even within the subnet, Dome Fuji's own connection remained genuinely
 inconsistent rather than simply slow.
 
+// adjustments
+
+// visions
+
 ### The Session Mawson Joined an Hour Late, As Expected
 
 A joint planning session with Mawson, scheduled over the subnet's own line, began without Dome Fuji actually
@@ -492,6 +616,10 @@ A written proposal sent instead to Troll, well outside the subnet, faced no equi
 particular kind — slow, but reliably slow, arriving exactly when the postal schedule predicted rather than at
 some unpredictable point after an unstable connection finally cooperated.
 
+// adjustments
+
+// visions
+
 ### The Supply Manifest Troll Sent Twice, Just in Case
 
 A supply manifest sent to Troll for an outbound flight was duplicated and sent a second time by an entirely
@@ -501,6 +629,10 @@ Fuji couldn't be fully trusted to represent the actual current situation.
 Sayowa, receiving comparable manifests over the subnet's own line, required no such redundancy — imperfect as
 the connection was, a single confirmation from Dome Fuji, once it actually arrived, was trusted at face value
 by a subnet-mate used to interpreting its particular unreliability.
+
+// adjustments
+
+// visions
 
 ### The Question Sinheung Answered Without Knowing If Dome Fuji Had Received It
 
@@ -513,6 +645,10 @@ Mawson, asking a related question over the subnet's own thin but at least direct
 minimum confirm receipt even when the answer itself was delayed — a small but genuine advantage of proximity
 that distance alone couldn't offer Sinheung.
 
+// adjustments
+
+// visions
+
 ### The Correspondence Davis Learned to Simply Wait Out
 
 A sustained climate-research correspondence with Davis continued for years without ever developing anything
@@ -524,6 +660,10 @@ The same researchers, coordinating a comparable long-term study with Kunlun inst
 regular rhythm despite Kunlun's own comparable isolation — proof, to Davis's own team, that Dome Fuji's own
 particular difficulty wasn't distance alone but the genuinely unreliable nature of the connection itself.
 
+// adjustments
+
+// visions
+
 ### The Isolation That Doubled Back on Itself
 
 Dome Fuji's own extreme isolation — already the most severe in its own subnet — was compounded by a second,
@@ -534,3 +674,7 @@ Dome Fuji's own residents, per the same devotional framework that shaped so much
 seemed to find a kind of fitting meaning in this rather than treating it purely as hardship — isolation
 embraced as devotion extending, without anyone deciding it should, even to the city's own connection with the
 rest of the country.
+
+// adjustments
+
+// visions

@@ -42,6 +42,10 @@ around resilience or survivability at all — the same plan that later became Ro
 advantage was, at the moment it was actually drawn, simply the most practical way to move less raw material
 further than it needed to go.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Chambers Dug Before Anyone Knew Why
@@ -61,6 +65,10 @@ done the difficult early work of proving Adelaide Island's terrain could support
 Whatever Reyes originally intended the chambers for, the wartime population that eventually sheltered inside
 them owed their survival to a decision made for entirely different reasons, long before the war made that
 decision retroactively vital.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -83,6 +91,10 @@ produced, per what's established about the aftermath, the first explicit interop
 the two airfields — a simple, low-key fix for a problem neither field's own clean division of labor had ever
 actually anticipated.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Captain Who Refused to Take the Shortcut
@@ -102,6 +114,10 @@ captain's own reasoning, repeated afterward among Marguerite Bay's own dockworke
 approaching a standing informal principle for crews making the run for the first time: take the Channel if
 the schedule allows it at all, because the approach is part of what arriving at Rothera is actually supposed
 to feel like.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -123,6 +139,10 @@ that one season's own worst-case closure length rather than ordinary seasonal va
 industrial self-sufficiency, since that season, has been real but consciously buffered — a qualified
 independence built directly from the specific gap one bad shipping season made undeniable.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Foundation That Flooded Before Anyone Understood Why
@@ -142,6 +162,10 @@ engineering standards distinct from standard Tepenian practice, treating liquid-
 risk as a genuine, documented hazard rather than an edge case — the specific, costly lesson that put Rothera,
 alongside Palmer City, into the small category of Tepenian cities where drainage engineering had to be taken
 as seriously as snow-load engineering ever was.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -163,6 +187,10 @@ The order was filled, eventually, by adapting existing highway-maintenance desig
 nothing — the same practical, efficiency-first instinct Ashgrove-Pryce had built the whole industrial layout
 around, applied this time to a customer nobody at Rothera ever formally learned the full purpose of.
 
+// adjustments
+
+// visions
+
 ### The Question the Vault Program Was Finally Asked Directly
 
 *(Shortly before the Tower's completion.)* Word reached Rothera, through channels nobody bothered to make
@@ -179,6 +207,10 @@ Rothera's end. What is preserved is the simple fact that a program begun for rea
 with any of this ended up, generations later, informing something built at a scale its own founder never could
 have imagined.
 
+// adjustments
+
+// visions
+
 ### The Flight Bonner Airstrip Wasn't Scheduled to Take
 
 *(Shortly before the Tower's completion.)* Bonner Airstrip's own Peninsula-internal role, cleanly separated
@@ -192,6 +224,10 @@ the earlier misrouted cargo — competently, without needing the full context to
 several noted the passengers looked considerably more exhausted than Rothera's own usual short-hop traffic. No
 formal interoperability update followed this time; the existing arrangement between the two airfields, forged
 out of a genuine accident years earlier, simply absorbed the irregular traffic without needing to be revised.
+
+// adjustments
+
+// visions
 
 ### The Production Schedule That Finally Matched Demand in Real Time
 
@@ -207,6 +243,10 @@ became noticeably less valuable once orders simply arrived confirmed. Rothera's 
 as it had adapted to every other practical problem in its history, but more than one planner admitted missing
 the specific competence the old uncertainty had rewarded.
 
+// adjustments
+
+// visions
+
 ### The Stockpile Policy That Finally Got to Relax
 
 *(Shortly after the Tower's completion.)* The standing buffer stockpiles established after the Drake Passage
@@ -221,6 +261,10 @@ more practical — stockpile sizing could now be adjusted against real-time know
 rather than a single worst-case season from years earlier, letting Rothera hold a leaner, still-safe buffer
 instead of permanently over-provisioning against a storm that might never repeat exactly that way again.
 
+// adjustments
+
+// visions
+
 ### The Captain's Rule That Reached Other Subnets
 
 *(Shortly after the Tower's completion.)* The informal principle held among Marguerite Bay's own dockworkers —
@@ -233,6 +277,10 @@ remained exactly as inconvenient a detour as it had always been for anyone in a 
 was smaller: for the first time, a piece of purely local Rothera custom, born from one captain's own stubborn
 insistence years earlier, existed as something strangers elsewhere in the country had actually heard of and
 could ask a Rothera-bound crew about by name.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -254,6 +302,10 @@ city had known the other used — Rothera's own siting decisions driven primaril
 Mirny's own driven primarily by wind-load distribution — two structurally similar cities that had reached
 comparable layouts by two different reasoning paths, confirmed directly for the first time.
 
+// adjustments
+
+// visions
+
 ### The Vault Records Byrd's Engineers Finally Got to Study
 
 Rothera's own underground vault program, and its plausible influence on Byrd's own early industrial planning,
@@ -268,6 +320,10 @@ developed. Rothera's own archivists, per what's preserved of the exchange, could
 one way or the other — the records simply didn't specify whether Byrd's own founders had ever actually seen
 Rothera's own documentation. What the exchange did confirm, for the first time, was that the resemblance
 between the two cities' own underground engineering was worth taking seriously as more than coincidence.
+
+// adjustments
+
+// visions
 
 ### The Wind-Load Comparison Denison Finally Ran Directly
 
@@ -284,6 +340,10 @@ approach was superior. Both, per what's preserved of the session, came away with
 understanding of exactly why the other city had made the opposite choice — two genuinely different solutions
 to the identical problem, compared directly for the first time in either city's own engineering history.
 
+// adjustments
+
+// visions
+
 ### The Survival Comparison Only Signy Could Actually Offer
 
 Rothera and Signy — the only two Palmer subnet cities to survive the Long Night War intact or functional at
@@ -299,6 +359,10 @@ Both, per what's preserved of the exchange, found some genuine value simply in c
 understood exactly what had been at stake, in a way no city that hadn't faced the same test could fully
 appreciate.
 
+// adjustments
+
+// visions
+
 ### The Apprentice Exchange Mirny's Guildhall Finally Offered
 
 Following the first direct engineering exchange between Rothera's own siting engineers and Mirny's Windwright
@@ -313,6 +377,10 @@ exchange wasn't formalized into a standing program immediately. It stands, regar
 either city's own industrial workforce had ever trained directly under the other's own methodology rather than
 developing entirely in isolation.
 
+// adjustments
+
+// visions
+
 ### The Repair Rothera's Crews Finally Explained to Byrd Directly
 
 A specific piece of decentralized-industrial maintenance practice, developed at Rothera generations earlier
@@ -326,6 +394,10 @@ offered without particular ceremony to a city whose own underground industrial s
 relevant. Whether Byrd's own crews actually adopted the method isn't part of what Rothera itself preserved.
 The exchange itself, unprompted and unplanned, was the first time Rothera's own internal maintenance knowledge
 had ever reached another city's workforce directly.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -343,6 +415,10 @@ comparable cross-subnet engineering exchange would have required — both cities
 and comparable in the same working session, a level of collaborative speed neither city's own engineers had
 any equivalent experience of when working with anyone outside the Palmer subnet.
 
+// adjustments
+
+// visions
+
 ### The Quarry Order Mirny Filled Without Ever Meeting the Buyer
 
 Mirny's own structural-twin relationship to Rothera — both cities quarrying and manufacturing what their own
@@ -356,6 +432,10 @@ since no channel existed to simply ask a follow-up question and receive same-day
 could with Signy. The equipment, once it finally arrived, worked exactly as specified. Getting the
 specification right had simply taken far longer than it needed to.
 
+// adjustments
+
+// visions
+
 ### The Wind-Load Comparison That Took Two Winters to Complete
 
 Denison's own fully-interlinked structural design and Rothera's own decentralized, wind-load-distributed
@@ -368,6 +448,10 @@ measurement seasons before either city's own engineers felt they had enough comp
 conclusion — each round of findings mailed, read, and responded to months later, a research pace that within
 the Palmer subnet, comparing the same kind of data with Signy, would have been settled in a single season.
 
+// adjustments
+
+// visions
+
 ### The Backup Route Byrd Learned About Third-Hand
 
 Rothera's own decentralized industrial model, cited as a plausible influence on Byrd's own early industrial
@@ -379,6 +463,10 @@ A specific Byrd engineer, researching his own city's founding-era industrial dec
 Rothera asking whether the resemblance had been intentional — a question that took months to arrive and
 longer to answer, since nothing digital connected the two cities and Rothera's own archivists had to search
 physical records before replying. The eventual answer confirmed the influence had, in fact, been deliberate.
+
+// adjustments
+
+// visions
 
 ### The Apprentice Program Only Signy Could Actually Join
 
@@ -393,6 +481,10 @@ in a single planning session, would have taken a season or more to arrange for a
 Mirny's own subnet instead. The program remained, in practice, easiest for exactly the cities close enough to
 plan for it in real time.
 
+// adjustments
+
+// visions
+
 ### The Manifest That Outran Its Own Shipment by Three Weeks
 
 A large joint order from Mirny, requiring Rothera to coordinate packing specifications with Signy's own
@@ -404,6 +496,10 @@ The shipment itself, once it left Rothera bound for Mirny's own subnet, then spe
 transit with no way for either planning city to confirm its progress — the same instant coordination that had
 assembled the order in hours giving way, the moment it crossed the subnet boundary, to the same unaccountable
 silence every subnet-external shipment traveled through regardless of how quickly it had been arranged.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -421,6 +517,10 @@ own facility as a normal, expected stage of advanced training rather than a spec
 shift in how an entire trade was taught, made possible by nothing more dramatic than being able to schedule it
 easily.
 
+// adjustments
+
+// visions
+
 ### The Vault Records Byrd Finally Got to Compare Directly
 
 Following the earlier request for Rothera's own underground vault records, Byrd's own engineers returned with
@@ -432,6 +532,10 @@ previously understood clearly — Rothera's own vaults built for materials stora
 solving superficially similar underground-construction problems with meaningfully different priorities. Both
 cities came away with a sharper understanding of their own design choices, gained specifically by finally
 seeing the other's real specifications rather than a secondhand account of them.
+
+// adjustments
+
+// visions
 
 ### The Wind-Engineering Comparison Denison Finished in a Single Season
 
@@ -445,6 +549,10 @@ katabatic-wind problem about equally well under most conditions, with each desig
 in different specific wind patterns — a genuinely useful engineering conclusion neither city's own isolated
 data could have supported on its own.
 
+// adjustments
+
+// visions
+
 ### The Survival Comparison Signy Finally Got to See in Person
 
 Following the earlier subnet-internal comparative study between the two Palmer subnet cities that survived
@@ -455,6 +563,10 @@ The visit, per what's preserved of the account, confirmed most of what the earli
 already concluded, but surfaced a handful of physical details neither city's own written reports had thought
 to mention — the kind of small, concrete difference that only becomes visible once someone actually walks the
 site rather than reading about it.
+
+// adjustments
+
+// visions
 
 ### The Decentralized Design Cited Nationally for the First Time
 
@@ -468,6 +580,10 @@ rationale directly for projects that had nothing to do with the Palmer subnet at
 city's own founding-era industrial philosophy had been treated, nationally, as a genuine model rather than
 simply a locally successful choice.
 
+// adjustments
+
+// visions
+
 ### The Quarry Report That Finally Matched Mirny's Own Numbers
 
 A long-standing discrepancy between Rothera's own reported output figures and Mirny's own comparable data —
@@ -479,6 +595,10 @@ dating back generations, neither city's own fault, simply never worth the effort
 comparison made it easy. Both cities' own historical figures were quietly corrected afterward — a small,
 unglamorous fix that nonetheless closed a gap in the record neither city had ever had reason to expect would
 actually get resolved.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -494,6 +614,10 @@ The same category of request from a subnet-external buyer, once received by mail
 confirmed — Rothera's own site managers had no practical way to accommodate a follow-up revision without
 losing more time to the mail cycle than the original delay had cost.
 
+// adjustments
+
+// visions
+
 ### The Second Site Byrd Never Learned Existed Until It Mattered
 
 Rothera's own deliberately distributed site network meant that when one location fell behind schedule, the
@@ -503,6 +627,10 @@ missing a beat — decentralization functioning exactly as designed, invisibly, 
 Byrd, ordering the same category of output from what it understood to be a single site, had no visibility
 into the substitution at all — from Byrd's own end of a slow postal correspondence, the order simply arrived,
 with no indication that an entirely different location on Adelaide Island had actually filled it.
+
+// adjustments
+
+// visions
 
 ### The Wind Data Denison Waited Two Seasons to Receive in Full
 
@@ -515,6 +643,10 @@ Signy, requesting a related but narrower dataset over the subnet's own line, rec
 same week — no partial version necessary, since both cities already understood exactly which context could
 safely be assumed.
 
+// adjustments
+
+// visions
+
 ### The Apprentice Who Learned Rothera's Layout Before Setting Foot in It
 
 A Signy apprentice bound for a training rotation across Rothera's own scattered sites received a complete,
@@ -524,6 +656,10 @@ already knowing which site to report to and when.
 A Mirny apprentice on a comparable exchange had no equivalent advance information — the assignment was
 communicated by the same letter confirming the exchange itself, meaning the apprentice learned exactly where
 to go only upon arrival, adjusting on the spot.
+
+// adjustments
+
+// visions
 
 ### The Order Mirny Filled From a Catalog Already Out of Date
 
@@ -535,6 +671,10 @@ Signy, placing a comparable order the same week over the subnet's own line, saw 
 and adjusted the order accordingly — the same underlying capacity, visible to one buyer and invisible to the
 other, purely as a function of which line separated them from Rothera.
 
+// adjustments
+
+// visions
+
 ### The Decentralization That Only Worked as Fast as the Subnet Allowed
 
 Rothera's entire operating philosophy — spreading output deliberately across many sites so no single failure
@@ -545,3 +685,7 @@ Outside the subnet, the same decentralized structure offered none of its own res
 — a delay at one site, invisible and quickly routed around within the subnet, simply looked to a
 subnet-external client like an ordinary delay, the redundancy behind it entirely hidden by how slowly word of
 it could travel.
+
+// adjustments
+
+// visions

@@ -41,6 +41,10 @@ afterward treated the incident as the clearest possible demonstration of what Ma
 diversification was actually for — not simply two logistics systems existing side by side, but capable, when
 genuinely tested, of moving something seamlessly from one to the other without it ever sitting idle at all.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Discipline Fariña Wrote Down Before He Had To
@@ -62,6 +66,10 @@ once the founding population's own demographic presence had eroded well below wh
 have carried forward, it was Fariña's own written procedures — not any living memory of him — that let the
 exile generation independently re-derive the discipline governing the Hall exactly as he'd first set it down.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Load That Broke Nothing
@@ -82,6 +90,10 @@ concrete something usually described only abstractly — Marambio and Esperanza 
 prioritized, they operated at genuinely different physical scales, and this one shipment was large enough to
 make that difference impossible to describe as anything but structural.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Flight the Founders Never Forgot
@@ -99,6 +111,10 @@ afterward, the entire subnet's own internal air traffic converged. Whatever the 
 actually looked like in granular detail isn't preserved beyond the observance's own general shape, but its
 symbolic resonance with Marambio's later aviation identity is, per this project's own reconstructed-not-
 invented discipline, difficult to read as coincidental.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -120,6 +136,10 @@ describe it as the clearest possible demonstration that Marambio wasn't simply a
 in the subnet, tested all at once, actually did run through it, whether or not any individual flight's own
 origin or destination was Marambio itself.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Hangar That Taught Builders to Respect Flat Ground
@@ -140,6 +160,10 @@ Shipyards' own facilities, inherited that corrected discipline — a founding-er
 became, within a single rebuild, the standard every later builder on the island worked from without needing
 to relearn the lesson themselves.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -159,6 +183,10 @@ needing to be told this shipment mattered more than most. Nobody working the han
 was ultimately headed. What they recognized was simpler: a shipment moving with exactly the urgency Fariña's
 own written procedures had always been built to handle, whether or not anyone explained why.
 
+// adjustments
+
+// visions
+
 ### The Causeway That Carried More Than Hwy 1 Was Built For
 
 *(Shortly before the Tower's completion.)* The Picnic Passage causeway chain, carrying Hwy 1 traffic onto
@@ -172,6 +200,10 @@ against traffic quite this consistent before, though nothing in its own conditio
 been pushed anywhere near a genuine limit. The causeway held, as it had always held, carrying weight its
 founding-era builders had never specifically designed around simply because nothing about Marambio's own
 infrastructure discipline had ever assumed the load would stay light forever.
+
+// adjustments
+
+// visions
 
 ### The Flight Log That Stopped Listing Destinations
 
@@ -188,6 +220,10 @@ flights came and went without incident, one more example, crews noted afterward,
 established fact holding true even here: every route in the subnet still ran through Marambio, whether or not
 Marambio itself was ever told exactly where any given route actually ended.
 
+// adjustments
+
+// visions
+
 ### The Manifest That Confirmed Itself
 
 *(Shortly after the Tower's completion.)* Shipping manifests between the Shipyards and their own receiving
@@ -202,6 +238,10 @@ planning margin coordinators had spent generations learning to protect rather th
 informal accounts, found the sudden certainty faintly unsettling at first — a career spent managing uncertainty
 in transit now managing almost none of it — before conceding the change was, on balance, exactly the kind of
 efficiency gain a dual-mode logistics hub like Marambio had always been built to make use of.
+
+// adjustments
+
+// visions
 
 ### The Founders' Flight Broadcast Nobody at Marambio Requested
 
@@ -218,6 +258,10 @@ outside the city. Nothing about the observance itself changed to accommodate the
 was simply that, for the first time, people elsewhere in the country now knew Marambio's own founding story
 existed at all.
 
+// adjustments
+
+// visions
+
 ### The Subnet That Asked Marambio How Dual-Mode Actually Worked
 
 *(Shortly after the Tower's completion.)* A logistics coordinator from a distant subnet, newly able to reach
@@ -232,6 +276,10 @@ guarded, and there was no particular reason a distant subnet's own dual-mode amb
 same documented discipline that had let Marambio's own exile generation re-derive Fariña's methods without
 ever having met him. Nothing came of the exchange immediately. It stands, regardless, as the first recorded
 instance of another subnet asking Marambio directly for something Marambio had always simply been.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -251,6 +299,10 @@ to hold for a different solution entirely. The arrangement was never tested by a
 of the original incident. It existed anyway, for the first time, as planned capacity rather than something
 discovered only once a crisis had already forced the two harbors to improvise together.
 
+// adjustments
+
+// visions
+
 ### The Ground Crew Exchange Between Tepenia's Two Primary Aviation Hubs
 
 Marambio's own status as the Palmer subnet's primary aviation hub and Belgrano's own equivalent status in the
@@ -266,6 +318,10 @@ either ever having a genuine professional counterpart to compare notes with. Sev
 refinements, per what's preserved of the exchange, moved in both directions afterward — the first time either
 airfield had ever adopted a practice learned directly from the other rather than developing it independently.
 
+// adjustments
+
+// visions
+
 ### The Backup Route Byrd Finally Tested on Purpose
 
 Marambio's own status as a secondary, backup logistics link into the Palmer-Byrd-Mirny overland corridor
@@ -280,6 +336,10 @@ disrupted. The shipment completed successfully, considerably slower than the pri
 viable — the first time in either city's shared history that the fallback had actually been exercised on
 purpose rather than left as an unconfirmed contingency in a planning document.
 
+// adjustments
+
+// visions
+
 ### The Weather Hold Belgrano Warned Marambio About in Time
 
 Marambio's own aviation scheduling had always depended on weather conditions Marambio's own crews observed
@@ -293,6 +353,10 @@ scheduled flight rather than risk departure into conditions the Belgrano data su
 than local observation alone had indicated — the first time either aviation hub had ever adjusted a schedule
 based on the other's own live conditions report.
 
+// adjustments
+
+// visions
+
 ### The Bulk Shipment Esperanza Finally Tracked From Departure
 
 Marambio's own bulk cargo shipments to Esperanza, part of the established shipping division of labor between
@@ -305,6 +369,10 @@ Harbor's own staff prepare a receiving berth precisely timed to the shipment's o
 rather than the rougher estimate the old system had always required. The delivery arrived within the
 confirmed window. The specific efficiency gained was modest. It represented, regardless, the first time either
 harbor's own staff had ever known exactly where a shipment was before it physically reached the dock.
+
+// adjustments
+
+// visions
 
 ### The Argentine Delegation That Finally Included Marambio's Own Pilots
 
@@ -320,6 +388,10 @@ that shared a founding heritage neither had ever had reason to actually discuss 
 understood it directly. Several informal professional friendships, per what's remembered of the occasion,
 outlasted the gathering itself — the first personal, rather than purely operational, connections either
 airfield's own staff had ever formed with their genuine counterpart in the other subnet.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -337,6 +409,10 @@ rearrange an entire day's receiving schedule around Marambio's own updated timel
 delay being called — coordination neither airfield could have managed with a subnet-external partner, where
 the same weather report would have reached its destination only after the delay itself had already resolved.
 
+// adjustments
+
+// visions
+
 ### The Ground Crew Belgrano Trained by Letter, Not by Visit
 
 A specific maintenance technique developed at Belgrano's own aircraft boneyard, genuinely useful to Marambio's
@@ -349,6 +425,10 @@ before Marambio's own crews felt confident they'd understood it correctly — cl
 to Belgrano, answered months later, in a back-and-forth that would have been a single supervised demonstration
 had the two airfields simply been able to speak to each other directly.
 
+// adjustments
+
+// visions
+
 ### The Heritage Comparison That Took a Full Founding Generation to Confirm
 
 Marambio's and Belgrano's shared Argentine Air Force founding heritage was suspected by both cities' own early
@@ -359,6 +439,10 @@ A specific historian's research trip, undertaken specifically to examine Belgran
 records in person, settled a question written correspondence had failed to resolve across several earlier
 rounds of increasingly frustrated letters — proof that some historical questions, in the pre-Tower era, simply
 required someone to physically travel and look rather than keep asking by mail.
+
+// adjustments
+
+// visions
 
 ### The Backup Corridor Byrd Never Knew Was Being Tested
 
@@ -372,6 +456,10 @@ word that never came digitally, since nothing connected the two ends of the corr
 convoy the test itself depended on. Confirmation eventually arrived by the convoy's own return trip, the only
 channel available.
 
+// adjustments
+
+// visions
+
 ### The Manifest Marambio Drafted Twice for the Same Shipment
 
 A shipment requiring both Esperanza's own smaller-scale packing precision and Marambio's own bulk-cargo
@@ -382,6 +470,10 @@ The shipment's own physical manifest, once finalized digitally, still had to be 
 freight itself — a second, paper version that traveled with the cargo once it left the Palmer subnet toward
 Belgrano, since nothing digital would confirm its arrival on the other end. The planning session took an hour.
 The paperwork it produced traveled for weeks.
+
+// adjustments
+
+// visions
 
 ### The Reunion That Existed as Letters for a Generation First
 
@@ -394,6 +486,10 @@ exchange every season or longer — professional curiosity sustained across year
 occasional letter, the same slow rhythm every piece of Marambio's own subnet-external mail traveled at, long
 before any of those pen-pal relationships ever became the kind of gathering direct contact would eventually
 make possible.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -411,6 +507,10 @@ original technique-sharing had aimed for: a shared working vocabulary between th
 procedural habits each side picked up simply from working alongside the other rather than reading about the
 other's methods secondhand.
 
+// adjustments
+
+// visions
+
 ### The Overflow System Esperanza Helped Marambio Actually Design
 
 Following years of receiving Esperanza's own overflow capacity during dockside strain, Marambio's own harbor
@@ -421,6 +521,10 @@ absorbed whatever Marambio couldn't handle.
 The redesigned system, per what's preserved of the project, formalized triggers and thresholds neither
 harbor's own ad hoc arrangement had ever specified precisely — the first time the relationship had been
 planned deliberately in advance rather than improvised successfully, repeatedly, under pressure.
+
+// adjustments
+
+// visions
 
 ### The Backup Route Byrd Finally Confirmed Was Actually Reliable
 
@@ -434,6 +538,10 @@ own status from "unconfirmed backup" to "secondary route, confirmed reliable" �
 that nonetheless represented the first time either city trusted the connection enough to plan around it
 deliberately rather than treat it as a last resort.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Grew Out of the Pen-Pal Letters
 
 Following the personal friendships already formed between Marambio's and Belgrano's aviation professionals,
@@ -444,6 +552,10 @@ The gathering, per what's preserved of the account, formalized something that ha
 individual friendships — a genuine standing relationship between the two airfields' own working cultures,
 built outward from a handful of decades-old pen-pal letters into something considerably larger once instant
 contact made expanding it easy.
+
+// adjustments
+
+// visions
 
 ### The Weather Call Marambio Made for a City It Had Never Spoken to Before
 
@@ -457,6 +569,10 @@ in its own supply chain — proof of how much invisible logistics work Marambio'
 quietly been doing for cities that had no reason to know its name until connectivity made the dependency
 visible.
 
+// adjustments
+
+// visions
+
 ### The Founding Heritage Comparison That Finally Included All Three Argentine Cities at Once
 
 Following the earlier three-way commemoration between Esperanza, Marambio, and Belgrano, the three cities'
@@ -467,6 +583,10 @@ its own separate account.
 The document, per what's preserved of its own creation, surfaced connections between the three founding
 stories none of the individual city histories had drawn out on their own — a fuller picture of Argentina's
 own three-city presence in Tepenia than any single city's own archive had ever been positioned to tell alone.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -483,6 +603,10 @@ A comparable correction requested by a subnet-external recipient arrived only af
 already been fully delivered — the mistake, once identified, requiring an entirely separate follow-up shipment
 rather than a same-day adjustment.
 
+// adjustments
+
+// visions
+
 ### The Berth Schedule Belgrano Could Check Without Asking
 
 Belgrano's own freight planners, coordinating aircraft-salvage part shipments through Marambio's shared
@@ -494,6 +618,10 @@ A subnet-external shipper working from the same category of schedule had only wh
 last physically reached them — arriving, more than once per the surviving record, to find conditions had
 changed since the timetable was current.
 
+// adjustments
+
+// visions
+
 ### The Corridor Test Byrd Learned About After It Was Already Finished
 
 Marambio ran a live test of its own backup route capacity together with Esperanza over the subnet's own line,
@@ -503,6 +631,10 @@ collaborative exercise possible only because both sides could adjust the test's 
 Byrd, whose own freight depended on that same corridor's reliability, learned of the completed test only
 afterward, by letter — receiving a summary of results with no opportunity to have requested a particular
 condition be tested, since there had been no way to weigh in before the test had already concluded.
+
+// adjustments
+
+// visions
 
 ### The Manifest Marambio Trusted Enough Not to Duplicate
 
@@ -515,6 +647,10 @@ had been separately sent by mail — a redundancy Marambio's own dispatchers mai
 subnet-external digital version, however carefully composed, had no way to be confirmed as received before the
 cargo itself arrived.
 
+// adjustments
+
+// visions
+
 ### The Founding Story Byrd Requested and Waited a Season to Receive
 
 A historical inquiry from Byrd, asking about Marambio's own founding-era role in the corridor that would
@@ -525,6 +661,10 @@ clarification could be expected quickly.
 Esperanza, asking a related question over the subnet's own line, received an answer the same day, followed
 by two more rounds of clarifying detail before the week was out — the same archive, the same diligence,
 simply reachable at two entirely different speeds.
+
+// adjustments
+
+// visions
 
 ### The Hub That Was Fast for Half the Country and Slow for the Rest
 
@@ -537,3 +677,7 @@ Marambio's own dispatchers, per a surviving operational note, didn't consider th
 design — the capability itself never wavered; only the speed at which any given city could actually draw on it
 changed, and that was simply a fact of the country's own geography rather than anything Marambio could fix on
 its own.
+
+// adjustments
+
+// visions

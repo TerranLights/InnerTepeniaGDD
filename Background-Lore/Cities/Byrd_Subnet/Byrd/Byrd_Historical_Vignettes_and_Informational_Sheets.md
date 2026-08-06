@@ -66,6 +66,10 @@ anyone else's** — Byrd's medical competence in this specific area is real, est
 unknown outside the city (Finding 5), and the Locked Ward case is simply the one specific, nameable instance
 of a risk the whole light-management system exists to catch before it goes further than this one did.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What the Steinhoff Crew Didn't Report
@@ -90,6 +94,10 @@ exist. **This is, structurally, exactly what Finding 3 predicts** — a genuine 
 unrecoverable as anything more than one person's private account, and there is no reason to believe it's the
 only one like it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Third Sector Seal
@@ -112,6 +120,10 @@ reporting, still show slow, ongoing movement, decades later — not accelerating
 Third Sector is not spoken of as a disaster. It's spoken of, when it's mentioned at all, as proof the
 monitoring system works exactly as intended: nobody was hurt, because nobody waited to find out how far the
 drift would go.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -139,6 +151,10 @@ picture:
   more thoroughly even genuine, confirmed history reads as legend, not because nothing happened down there,
   but because nothing that happened down there was ever centrally kept.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Boundary Wall Drill
@@ -160,6 +176,10 @@ is treated as the entire point, not an oversight. Residents who live near the wa
 specific, mixed feeling that doesn't fully resolve into either fear or reassurance — living beside the one
 genuinely lit, living thing in a lightless city, and being formally, physically reminded on a schedule of
 exactly what that proximity would cost if the wall ever actually failed.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -193,6 +213,10 @@ Mawson subnets, with no personal connection to the founding at all (Finding 7). 
 quietly avoided, or simply not thought about by most residents day to day is not yet decided — this sheet
 establishes only the timeline, not the social reality around it.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Third Batch — Shortly Before and After the Amundsen Tower's Completion
@@ -218,6 +242,10 @@ Nobody on the vetted crew ever learned its destination; Byrd's own isolation had
 customer's purpose to do the work correctly, powered, as the plant always was, by geothermal generation that
 owed nothing to any grid outside the city's own walls.
 
+// adjustments
+
+// visions
+
 ### The Message That Left and Never Confirmed Arrival
 
 *(Shortly before the Tower's completion.)* Byrd's own Arcanet access node — a genuine, working connection to
@@ -231,6 +259,10 @@ weren't yet connected to each other the way a single unified relay would eventua
 had gone out into infrastructure that technically existed but didn't yet lead anywhere in particular. Nobody
 at Byrd found this especially strange at the time; it was simply how the connection had always behaved.
 
+// adjustments
+
+// visions
+
 ### The Visitor Who Came Only Once That Whole Season
 
 *(Shortly before the Tower's completion.)* A rare in-person visitor reached Byrd late in the Tower's
@@ -243,6 +275,10 @@ The visitor's own specific business isn't preserved in what's remembered of the 
 is the reaction — residents who, per Finding 24's own established poignancy, already knew via Arcanet exactly
 what was happening nationally, treating an actual physical arrival as a genuine event regardless, precisely
 because knowing about the wider country and being visited by it had never been the same thing at Byrd.
+
+// adjustments
+
+// visions
 
 ### The Node That Finally Had Somewhere to Send Its Silence
 
@@ -258,6 +294,10 @@ could reach back. Residents already fully aware, via Arcanet, of national events
 awareness running both directions for the first time: Byrd could be known about, not merely know about
 everyone else.
 
+// adjustments
+
+// visions
+
 ### The Confirmation the Chamber Works Never Used to Get
 
 *(Shortly after the Tower's completion.)* Chamber shipments leaving Byrd's own Chamber Works — moving, like
@@ -272,6 +312,10 @@ confirmed anything came of the effort. The chambers themselves were built exactl
 had been, powered by the same independent geothermal source that had never depended on anything outside
 Byrd's own walls. Knowing they'd arrived was, for the first time, simply knowable.
 
+// adjustments
+
+// visions
+
 ### The Season Byrd Stopped Being Only Known About
 
 *(Shortly after the Tower's completion.)* Word of Byrd itself — its own fabrication economy, its own isolated,
@@ -285,6 +329,10 @@ country knowing much about them, suddenly aware that the asymmetry had, at least
 about Byrd's own daily rhythm changed. What changed was the quiet, specific fact that the isolation Finding 24
 once described as one-directional — full awareness outward, near-total obscurity inward — was no longer
 guaranteed to stay that shape.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -304,6 +352,10 @@ own archivists, per what's preserved of receiving it, treated the account as a g
 of Belgrano's own contribution to Tepenian history, finally given the specific, detailed ending it had never
 had before.
 
+// adjustments
+
+// visions
+
 ### The Schematic Neumayer's Designers Finally Saw Installed
 
 Following Neumayer's own design team watching a live relay of the Amundsen Tower's own operational telemetry,
@@ -316,6 +368,10 @@ designers through the production floor the same practical way they handled every
 professional pride, offered without ceremony, in running a design neither this cadre nor Neumayer's own
 engineers had ever seen the other actually use. It marked the first time Byrd's own manufacturing floor had
 been seen, even remotely, by the schematic's own original uncredited authors.
+
+// adjustments
+
+// visions
 
 ### The Corridor Marambio and Palmer City Finally Watched Byrd Use in Real Time
 
@@ -330,6 +386,10 @@ traffic in real time for the first time — genuine visibility into a corridor t
 supported without ever actually seeing used. Neither city's own role in maintaining the corridor changed. Both
 gained, for the first time, a concrete sense of exactly how much their own shared lifeline actually carried.
 
+// adjustments
+
+// visions
+
 ### The Demographic Question Janbogo and Byrd Finally Resolved Together
 
 Following the joint demographic study confirming Byrd's own population profile matched Janbogo's Pacific-
@@ -342,6 +402,10 @@ together rather than separately, confirmed several specific founding-era family 
 migration current — genuine, documented kinship rather than the broad demographic resemblance alone. Neither
 city's own governance changed. Both, for the first time, had names and dates attached to a connection that had
 previously existed only as a statistical pattern.
+
+// adjustments
+
+// visions
 
 ### The Lake Report Byrd Finally Sent Back Complete
 
@@ -356,6 +420,10 @@ something they'd built and released was not only surviving but being actively, c
 now responsible for it. The exchange marked the deepening of a connection that had begun as a one-time
 technical achievement into something closer to an ongoing, if occasional, scientific partnership.
 
+// adjustments
+
+// visions
+
 ### The Combined Case Study Rothera and Denison Finally Requested From Byrd
 
 Following the wind-engineering case study connecting Rothera and Denison, both cities sent a joint request to
@@ -369,6 +437,10 @@ looser than either requesting city had initially hoped, given how differently an
 engineering challenges were shaped. The three-way comparison remained incomplete rather than fully unified.
 It marked, regardless, the first time Byrd's own engineering tradition had been formally included in a
 cross-city technical comparison at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -386,6 +458,10 @@ lead surveyors rather than sent ahead — physical documents, consulted and anno
 became Byrd's own first tangible connection to a city that had never known Byrd existed until the expedition
 it had unknowingly enabled actually arrived and founded one.
 
+// adjustments
+
+// visions
+
 ### The Schematic That Defined a City It Would Never Speak To Directly
 
 Neumayer's own current-generation chamber schematic, the design Byrd's own Chamber Works still builds from,
@@ -397,6 +473,10 @@ The schematic packet, per what's preserved of the delivery, took weeks to comple
 own engineers working from paper and film exactly as Sinheung's own manufacturing floor did with the same
 design, neither city ever in direct contact with the office that had actually drafted it, and Byrd with no
 subnet-mate of its own to even compare notes with in the meantime.
+
+// adjustments
+
+// visions
 
 ### The One Road That Was Also the Only Channel
 
@@ -410,6 +490,10 @@ ordinary sense, since there was no ordinary communication to lose, but the one p
 simply becoming impassable for a stretch. Byrd's own residents, per what's remembered of the period, treated
 the isolation as an intensified version of an already-constant condition rather than a genuinely new one.
 
+// adjustments
+
+// visions
+
 ### The Demographic Kinship Janbogo Could Only Confirm By Letter
 
 Byrd's own population profile matching the Pacific-facing Janbogo/Mirny/Mawson demographic shape far more
@@ -421,6 +505,10 @@ A specific inquiry, sent from Byrd to Janbogo along the same single overland cor
 whatever route eventually reached the Janbogo subnet, took the better part of a year to receive a considered
 reply — Byrd's own demographers working from Census tiers and educated inference in the meantime, since no
 faster way existed to simply ask.
+
+// adjustments
+
+// visions
 
 ### The Expedition That Had to Carry the Lake Itself
 
@@ -434,6 +522,10 @@ specifically because Byrd had no faster way to receive it — no subnet-mate to 
 line to confirm the researchers' own progress, simply a convoy making its way toward a city that could do
 nothing but wait for it to arrive.
 
+// adjustments
+
+// visions
+
 ### The Case Study Rothera and Denison Sent By the Slowest Possible Route
 
 The joint request from Rothera and Denison, asking Byrd to contribute a third data point to their own
@@ -446,6 +538,10 @@ the original requests had taken to arrive — a three-way technical comparison c
 correspondence, since no combination of subnets involved gave any of the three cities a faster way to speak
 to each other, and Byrd, alone in its own subnet, had no faster option available to it under any
 circumstances at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -463,6 +559,10 @@ own isolation — improvised, parts-scavenged fabrication born of having no supp
 learn Belgrano's own boneyard-adjacent economy had developed a near-identical instinct independently, the two
 cities' isolation-born ingenuity recognizing itself in the other for the first time.
 
+// adjustments
+
+// visions
+
 ### The Chamber Question Sinheung Asked Byrd Directly
 
 Sinheung's own request, addressed to Byrd's fabrication chamber operators rather than routed through any
@@ -476,6 +576,10 @@ The reply, once it reached Sinheung, reportedly changed one of Sinheung's own ca
 both cities' internal processes could be described to each other directly, without a third city's own
 production standing in as the point of comparison.
 
+// adjustments
+
+// visions
+
 ### The Corridor Traffic Marambio Finally Explained in Full
 
 Where an earlier exchange had given Palmer City and Marambio a live feed of Byrd's own overland corridor
@@ -487,6 +591,10 @@ Marambio's answer, compiled from its own aviation-logistics ledgers, gave Byrd's
 complete picture of where their exports actually ended up — a closing of the loop that had simply never been
 possible when the only confirmation Byrd ever received was that a shipment had successfully left.
 
+// adjustments
+
+// visions
+
 ### The Family Correspondence That Reached Palmer City a Second Way
 
 A Byrd household with a documented connection to Palmer City — beyond the reunion that had already become an
@@ -497,6 +605,10 @@ sent simply because sending it had finally become easy.
 The correspondence itself, per what's preserved of it, was unremarkable by any national standard — the kind
 of exchange every other subnet had taken for granted for a generation — which was, per the family's own later
 account, precisely what made it feel remarkable from Byrd's own end of the line.
+
+// adjustments
+
+// visions
 
 ### The Second Denison Comparison, This Time Byrd's Own Question
 
@@ -510,6 +622,10 @@ Denison's reply, once compiled, gave Byrd's own builders a second data point for
 only ever solved alone — the first time, per Byrd's own records, that isolation-born engineering had been
 checked against another city's isolation-born engineering, rather than simply standing on its own.
 
+// adjustments
+
+// visions
+
 ### The Rothera Comparison Closed on Byrd's Own Terms
 
 A later, narrower follow-up to the Rothera-and-Denison joint request asked Byrd a single further question:
@@ -521,6 +637,10 @@ Byrd's answer, per what's preserved of the exchange, favored neither outright, i
 specific elements of each approach Byrd had already arrived at independently and which it had not — a
 comparison only possible once all three cities' engineering could finally be laid side by side and read in
 full, rather than assembled piecemeal across a year of separate, slow-arriving letters.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -539,6 +659,10 @@ manufacturing precision, but also, per Byrd's own engineers' surviving notes, a 
 order's own thoroughness, since neither city had any way to know a mistake had been made until the part was
 already installed and either worked or didn't.
 
+// adjustments
+
+// visions
+
 ### The First Letter That Ever Mentioned Byrd's Lake to Vostok
 
 Long before the genetics expedition that would eventually transplant and cultivate it, Byrd's own subglacial
@@ -551,6 +675,10 @@ correspondence, of a relationship that would eventually require an entire physic
 pursue, but that started as nothing more than one city mentioning something interesting to another with no
 faster way to follow up.
 
+// adjustments
+
+// visions
+
 ### The Structural Certification Neumayer Sent Once and Byrd Trusted Completely
 
 A structural certification for one of Byrd's own critical support systems, drawn up by Neumayer's own
@@ -561,6 +689,10 @@ Byrd's own engineers, per a surviving account, built to the certification exactl
 practical way to request a revision and receive one before the relevant construction phase would have already
 had to move forward regardless, trust in Neumayer's own precision standing in for the kind of iterative review
 Neumayer's own subnet-mates could have expected instead.
+
+// adjustments
+
+// visions
 
 ### The Trade Curiosity Janbogo Answered Without Any Promise of a Reply
 
@@ -574,6 +706,10 @@ correspondence, couldn't tell whether the letter had simply answered the curiosi
 unanswered for some more ordinary reason — the kind of small, permanently unresolved uncertainty that came
 standard with correspondence that could only ever travel one slow direction at a time.
 
+// adjustments
+
+// visions
+
 ### The Feasibility Study Marambio Conducted Without Byrd's Own Input
 
 Long before the overland corridor connecting Byrd to Marambio and Palmer City had actually been tested and
@@ -585,6 +721,10 @@ The study, once it reached Byrd by the same slow corridor it was analyzing, turn
 details wrong — details Byrd's own planners could have corrected in a single afternoon's conversation, had any
 faster channel existed, but that instead went uncorrected for years, since neither city had any particular
 reason to revisit a study once filed.
+
+// adjustments
+
+// visions
 
 ### The City That Measured Every Relationship the Same Way
 
@@ -598,3 +738,7 @@ Byrd's own historians, reflecting on this uniform condition long after the Tower
 the flattening had its own strange fairness to it — Byrd never had to wonder whether a given city was being
 kept at arm's length, because every single relationship the isolated, revived city maintained was conducted
 at exactly the same careful, deliberate distance.
+
+// adjustments
+
+// visions

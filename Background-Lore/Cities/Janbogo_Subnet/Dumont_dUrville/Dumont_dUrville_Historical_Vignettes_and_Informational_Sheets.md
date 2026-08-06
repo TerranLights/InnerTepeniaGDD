@@ -44,6 +44,10 @@ conditions the original landing itself was made under — comfort would undercut
 meaningful. The first outdoor reading, held in genuinely difficult wind, set the precedent every subsequent
 St. Jules Day has followed since — an act of honoring conditions, not simply a text.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Junction Built Before Either Highway Needed It
@@ -61,6 +65,10 @@ than retrofitting one in later. The junction was built as proposed, ahead of the
 eventually justify it — a bet that paid off as both highways' own traffic grew over subsequent generations,
 turning Dumont d'Urville into the coordination node its own founding-era planners had gambled it would
 eventually become.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -80,6 +88,10 @@ from the naturalists' own original monitoring purpose. The shift from practical 
 contemplative practice was never formally decided by anyone; it simply accumulated, session by session, until
 residents recognized what the practice had already become.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Venue That Started the Whole Scene
@@ -96,6 +108,10 @@ at the same practical solution to the same slow-evening problem. The pattern spr
 considerably faster than any single business owner could have coordinated deliberately, until live music in
 nearly every eatery became simply how downtown Dumont d'Urville operated — a citywide cultural signature that
 began as one small venue's own practical fix for a slow Tuesday evening.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -117,6 +133,10 @@ than rejected outright, and remains, per what's established about the ongoing de
 candidate solutions later engineering teams still reference when evaluating new approaches to the same
 unresolved problem.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Naturalist Who Almost Missed the Pattern
@@ -134,6 +154,10 @@ naturalist who'd originally dismissed it revised the monitoring program's own re
 instituting a practice of logging even seemingly insignificant behavioral variations in full rather than
 filtering them out during observation itself — a specific, corrected oversight that shaped how every
 subsequent generation of the colony-observation tradition recorded what it actually saw.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -154,6 +178,10 @@ subnet trade, without the junction's own capacity becoming the bottleneck a pair
 have made inevitable. The city's own coordination role, quietly earned generations earlier, simply held under
 a test its own founders had gambled it would eventually face.
 
+// adjustments
+
+// visions
+
 ### The Reading Held Against a Wind Nobody Expected That Year
 
 *(Shortly before the Tower's completion.)* That year's St. Jules Day reading, held outdoors as every prior
@@ -170,6 +198,10 @@ actually had anything to do with the Tower's own distant construction was never 
 per what's remembered of the discussion afterward, treated the uncertainty itself as fitting for an observance
 already built around standing in conditions nobody could fully control.
 
+// adjustments
+
+// visions
+
 ### The Evening the Venues Fed a Crowd They'd Never Planned For
 
 *(Shortly before the Tower's completion.)* Downtown Dumont d'Urville's own live-music eateries, born
@@ -184,6 +216,10 @@ businesses, each eatery simply doing what it always did at a scale that happened
 than usual. The scene itself didn't change. It simply had, for a while, more strangers in the room than any
 ordinary week had ever brought through downtown before.
 
+// adjustments
+
+// visions
+
 ### The Junction That Started Coordinating With Places It Had Never Reached
 
 *(Shortly after the Tower's completion.)* Dumont d'Urville's own junction coordination — previously relevant
@@ -195,6 +231,10 @@ Coordinators, per what's recalled of the change, found themselves fielding routi
 further away than the junction's own established traffic had ever originated — the same practical, unglamorous
 coordination competence the city had always applied to its own two highways, now relevant to route planning
 happening in places Dumont d'Urville had no prior working relationship with at all.
+
+// adjustments
+
+// visions
 
 ### The Reading Broadcast to People Who'd Never Stood in That Wind
 
@@ -210,6 +250,10 @@ organizers could control or particularly worried about. The reading had never be
 comprehension before; it wasn't about to start now, even with considerably more people listening than ever had
 before.
 
+// adjustments
+
+// visions
+
 ### The Scene That Finally Had an Audience Beyond the Junction
 
 *(Shortly after the Tower's completion.)* Word of downtown Dumont d'Urville's own "New Orleans at 1/20th scale"
@@ -222,6 +266,10 @@ scene itself had always operated — no eatery reorganized around the sudden out
 packed evenings continuing exactly as they always had. What changed, for the first time, was simply that a
 cultural signature born from one small venue's slow-Tuesday fix now had a reputation reaching considerably
 further than the highway junction that had always brought its first visitors through the door.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -240,6 +288,10 @@ Hwy 2 for the first time — and Casey's own dispatchers the same authority in r
 new authority often. Its mere existence, per what's preserved of the arrangement, changed how both cities
 related to a road they had always shared but never actually had joint authority over before.
 
+// adjustments
+
+// visions
+
 ### The Exchange Program Denison and Dumont d'Urville Finally Formalized
 
 The regular technical exchange between Denison and Dumont d'Urville, already genuinely close and frequent, was
@@ -252,6 +304,10 @@ actually interacted day to day — the same close, frequent contact continued ex
 was administrative: technical staff assigned specifically to maintain the exchange, rather than the informal,
 ad hoc participation that had defined the relationship since its own founding-era origin, giving the program a
 continuity neither city's own individual staff turnover could interrupt.
+
+// adjustments
+
+// visions
 
 ### The Population Study Janbogo and Dumont d'Urville Ran Together
 
@@ -267,6 +323,10 @@ neighborhoods — now with Dumont d'Urville's own data folded directly into the 
 against it separately. Neither city's own governance changed as a result. Both gained a more complete,
 jointly-verified picture of a demographic pattern that had shaped both cities' own populations at once.
 
+// adjustments
+
+// visions
+
 ### The Venue Comparison Zukelli's Own Musicians Finally Requested
 
 Following the cultural-exchange thread already connecting Dumont d'Urville's downtown live-music culture and
@@ -281,6 +341,10 @@ incorporated specific staging ideas into their own performances afterward — th
 music scene had directly shaped the other's actual performance practice, rather than simply admiring it from a
 distance.
 
+// adjustments
+
+// visions
+
 ### The Junction That Finally Coordinated With Denison's Own Traffic Directly
 
 Dumont d'Urville's own two-highway junction, already extending its own coordination outward nationally,
@@ -293,6 +357,10 @@ receive priority routing information tailored specifically to Denison's own curr
 the generic route status every other destination received. It marked the first time the junction's own
 coordination system had built a dedicated channel for one specific destination, rather than treating every
 route through it identically.
+
+// adjustments
+
+// visions
 
 ### The Reading St. Jules Day Finally Shared With a City That Understood the Wind
 
@@ -309,6 +377,10 @@ the message more meaningful than the broadcast's own considerably larger, more g
 recognition, for the first time, from a city that actually understood exactly what standing in real wind on
 purpose meant.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
@@ -324,6 +396,10 @@ A specific exchange visit, per what's preserved of the era's own routine, was pr
 single conversation — no advance written notice required, since either city could simply ask the other
 directly and receive an answer the same hour. Denison's own technicians made the trip within the week.
 
+// adjustments
+
+// visions
+
 ### The Emigration Comparison Janbogo Confirmed the Same Afternoon
 
 Dumont d'Urville's own thinning population, part of the same sustained emigration that enlarged Lazar
@@ -336,6 +412,10 @@ confirmed within a single afternoon's exchange once Janbogo's own archivists cou
 record and compare it directly — a resolution that, requiring the same kind of comparison against a
 subnet-external city's own records instead, would have taken a full season of correspondence to settle.
 
+// adjustments
+
+// visions
+
 ### The Venue Notes Zukelli Shared Before the Question Was Even Fully Asked
 
 Zukelli's own restaurant-performance tradition and Dumont d'Urville's own "New Orleans at 1/20th scale"
@@ -347,6 +427,10 @@ A specific staging technique, per what's preserved of the exchange, was suggeste
 within the same week — a pace of creative collaboration that a comparable exchange with a subnet-external
 hospitality city could never have matched, since each round would have needed its own full postal cycle to
 complete.
+
+// adjustments
+
+// visions
 
 ### The Certification Casey Waited Months to Receive
 
@@ -361,6 +445,10 @@ being, by road, closer to each other than either was to most of its own subnet n
 own administrators, per what's remembered of the process, found the mismatch between physical proximity and
 actual communication speed genuinely strange once they thought about it directly.
 
+// adjustments
+
+// visions
+
 ### The Technical Question That Beat Its Own Sender Home
 
 A Dumont d'Urville engineer, traveling to Casey in person to deliver a set of technical specifications too
@@ -373,6 +461,10 @@ freight shipment on the same Hwy 2 route the engineer herself had traveled — a
 because it had ridden cargo space on a truck that left earlier. The lesson, retold locally afterward, was
 simple: the road was the fastest channel either city had, and even that had its own unpredictable timing.
 
+// adjustments
+
+// visions
+
 ### The Manifest Denison and Zukelli Confirmed Before Casey's Reply Even Left
 
 A joint shipment, requiring both Denison's own technical specifications and Zukelli's own hospitality-goods
@@ -384,6 +476,10 @@ The joint shipment reached its intra-subnet destinations within days. The letter
 took weeks to receive any reply to at all — two pieces of correspondence, dispatched the same morning, arriving
 at their destinations at entirely different speeds depending on nothing more than which side of the subnet
 boundary each was addressed to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -400,6 +496,10 @@ the first time the authority had been formally passed along a second link in the
 original delegation had been built to genuinely scale rather than only work for the one relationship it was
 first extended to.
 
+// adjustments
+
+// visions
+
 ### The Exchange Program Denison Finally Ran Without Dumont d'Urville's Help
 
 Building on the formalized technical exchange program, Denison's own coordinators ran a full exchange cycle
@@ -410,6 +510,10 @@ genuinely self-sustaining on both sides.
 Dumont d'Urville's own coordinators, per what's preserved of the record, treated this as a genuine milestone
 — the exchange program they'd helped formalize no longer strictly needed their own continued involvement to
 keep running.
+
+// adjustments
+
+// visions
 
 ### The Design Question Janbogo Sent Back Considerably Harder Than the First
 
@@ -422,6 +526,10 @@ consult their own more technically-minded members to answer fully — the first 
 curiosity had pushed the "New Orleans at 1/20th scale" downtown to articulate the actual acoustic reasoning
 behind decisions its own venues had made instinctively for generations.
 
+// adjustments
+
+// visions
+
 ### The Second Venue Comparison Zukelli Requested, This Time About Failure
 
 Following the original venue-comparison request, Zukelli's own hospitality organizers asked a considerably
@@ -431,6 +539,10 @@ abandoned, curious whether Zukelli's own music scene could learn from failures r
 Dumont d'Urville's own organizers, per what's preserved of the exchange, answered with genuine candor — the
 first time either city's own hospitality culture had shared its own dead ends with another city rather than
 only its working ideas, a franker exchange the original comparison hadn't quite reached.
+
+// adjustments
+
+// visions
 
 ### The St. Jules Day Broadcast That Reached an Audience Beyond Denison
 
@@ -444,6 +556,10 @@ in a different way than Denison's own recognition had been — a wind-hardened c
 on its own terms was one thing; a much broader, more casual national audience simply finding it interesting
 was another, equally welcome kind of reach.
 
+// adjustments
+
+// visions
+
 ### The Music Scene Cited Nationally as a Model for Organic Growth
 
 Once national civic-culture comparison became possible, Dumont d'Urville's own "New Orleans at 1/20th scale"
@@ -454,6 +570,10 @@ Dumont d'Urville's own residents, per what's preserved of the period, found the 
 downtown had never been designed to be a model for anything, simply the natural result of what the city's own
 people had built for themselves over generations. That unplanned quality, once other cities studied it
 directly, turned out to be exactly what made it worth studying at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -470,6 +590,10 @@ Casey, coordinating a comparable joint booking despite Hwy 2's own direct physic
 cities, still had to finalize everything well in advance by mail — the highway moved freight quickly, but the
 correspondence needed to actually plan the event still traveled at ordinary postal speed.
 
+// adjustments
+
+// visions
+
 ### The St. Jules Day Broadcast Janbogo Heard Live
 
 A local St. Jules Day celebration, relayed informally to Janbogo over the subnet's own line by a resident with
@@ -479,6 +603,10 @@ subnet-external audience could share.
 Denison, learning of the same celebration only through a later written account, received a faithful but
 necessarily secondhand description — the celebration's own actual energy, per those who'd experienced both
 versions, simply didn't translate the same way onto a page.
+
+// adjustments
+
+// visions
 
 ### The Acoustic Question Zukelli Answered With a Follow-Up Already in Mind
 
@@ -491,6 +619,10 @@ Casey, asking a related acoustic question separately, received a single thorough
 follow-up possible in any reasonable timeframe — the answer complete on its own terms, but without the same
 kind of iterative refinement Zukelli's exchange had allowed.
 
+// adjustments
+
+// visions
+
 ### The Certification Casey Waited a Season to Actually Use
 
 A performance-venue safety certification, extended informally to Casey after a successful exchange, took the
@@ -500,6 +632,10 @@ adopt — each clarifying question requiring its own separate letter.
 Denison, seeking a comparable certification over the subnet's own line, had a fully adopted, working version
 within the week — the certifying knowledge itself unchanged, its usefulness simply delayed by however far it
 had to travel.
+
+// adjustments
+
+// visions
 
 ### The Traveling Musician Who Reached Zukelli Before Word of the Show Did
 
@@ -511,6 +647,10 @@ A comparable opportunity in Casey, just across the Hwy 2 corridor, couldn't be a
 by the time a letter proposing the idea could arrive and be answered, the traveling musician had already moved
 on.
 
+// adjustments
+
+// visions
+
 ### The City That Was Loudest to Its Neighbors and Quietest From a Distance
 
 Dumont d'Urville's own "New Orleans at a smaller scale" energy reached Janbogo and Zukelli constantly, almost
@@ -521,3 +661,7 @@ through occasional, carefully composed letters.
 Dumont d'Urville's own civic character never dimmed depending on the audience — but how much of that energy
 actually reached a given city, and how quickly, depended entirely on which side of the subnet boundary that
 city happened to sit.
+
+// adjustments
+
+// visions

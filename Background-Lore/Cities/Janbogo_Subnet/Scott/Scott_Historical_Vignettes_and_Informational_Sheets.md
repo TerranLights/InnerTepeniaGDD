@@ -40,6 +40,10 @@ ambition. The modest-growth position won the founding-era vote by a real but not
 settling Scott's own civic character for generations afterward — a deliberate choice, made in genuine
 competition with a real alternative, not simply the absence of any ambition to grow.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Tane Actually Did Between Observances
@@ -58,6 +62,10 @@ manageable schedule rather than as an emergency. The remembrance tradition's own
 what's established about the site's own preservation, owed considerably more to this kind of unglamorous,
 routine attentiveness between formal observances than to the observances themselves.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Instrument Fort McMurdo Couldn't Calibrate Itself
@@ -75,6 +83,10 @@ their own attempts had achieved previously. The exchange became, per what's reme
 own early development, a template both cities continued relying on — Fort McMurdo's own heavy industry, and
 Scott's own precision calibration expertise, genuinely complementary rather than overlapping capabilities
 each city actually needed the other to provide.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -95,6 +107,10 @@ gathering ended, per what's established about Scott's own Positive Outlook tempe
 resolution than lingering grievance — a sting acknowledged openly, then deliberately set down rather than
 carried forward.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The First Independence Day No One Planned in Advance
@@ -111,6 +127,10 @@ future observances — the position Wiremu Tane's own later tenure eventually in
 now-established formal shape, ceremony and dedicated site maintenance included, traces back to that first,
 genuinely informal gathering succeeding well enough that nobody wanted to risk it happening less deliberately
 the following year.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -130,6 +150,10 @@ competition that followed regardless, using Scott's own loaned part — an outco
 with genuine good humor, per what's remembered of it, precisely because the rivalry between the two cities had
 never been about anything more serious than pride in the first place.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -148,6 +172,10 @@ interest in the equipment's own ultimate destination. The recalibrated instrumen
 standard Scott's own technical staff had spent generations refining for a much smaller, much more local
 customer. Nobody at Scott learned what the equipment was actually calibrated for.
 
+// adjustments
+
+// visions
+
 ### The Growth Scott Turned Down a Second Time
 
 *(Shortly before the Tower's completion.)* Regional economic activity surging around Fort McMurdo's own
@@ -163,6 +191,10 @@ founding-era counterproposal. Scott took on the additional calibration work with
 rather than growing to meet it. The city stayed exactly the size it had always deliberately chosen to be, even
 with real economic momentum pointing the other way.
 
+// adjustments
+
+// visions
+
 ### The Observance Held Beside an Unusually Busy Peninsula
 
 *(Shortly before the Tower's completion.)* That year's Independence Day remembrance at Hut Point Discovery
@@ -177,6 +209,10 @@ curiosity, watched from a respectful distance without being invited to participa
 tradition remaining what it had always been, a remembrance for Scott's own community first, regardless of who
 else happened to be nearby that particular year.
 
+// adjustments
+
+// visions
+
 ### The Calibration Standard Other Subnets Finally Asked About
 
 *(Shortly after the Tower's completion.)* Scott's own precision calibration expertise, previously known mainly
@@ -189,6 +225,10 @@ answered Fort McMurdo's own requests — precise, unhurried, without treating th
 change how the work actually got done. The city's whole economic identity had always rested on doing this one
 thing exactly right rather than doing many things adequately. For the first time, considerably more of the
 country than one neighboring city had reason to know it.
+
+// adjustments
+
+// visions
 
 ### The Quiet Scott Didn't Mind Keeping
 
@@ -205,6 +245,10 @@ framed as vindication so much as simple contentment — Scott's own Positive Out
 specific comfort in a trade-off its own founding generation had made deliberately, long before anyone knew
 exactly what the alternative would eventually cost the city that chose it.
 
+// adjustments
+
+// visions
+
 ### The Rivalry Other Cities Wanted to Hear About
 
 *(Shortly after the Tower's completion.)* Word of the Scott-Fort McMurdo technical rivalry — genuinely
@@ -219,6 +263,10 @@ hostility, precisely because neither city had ever needed the other's failure to
 success. No formal exchange of the specific model resulted. What changed was simply that a rivalry the two
 cities had always kept between themselves now had an audience that found the whole arrangement genuinely
 worth asking about.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -238,6 +286,10 @@ McMurdo's own equipment holistically. Scott's own civic character, still genuine
 the expanded relationship without seeking any comparable growth in scale — precision consulting deepening
 without the city itself needing to grow to support it.
 
+// adjustments
+
+// visions
+
 ### The Procedure Comparison Casey Finally Wrote Down
 
 Following the informal exchange about Scott's own procedural safety culture versus Casey's trust-in-a-person
@@ -252,6 +304,10 @@ superior to the other. Casey's own dispatch office, per what's preserved of the 
 equally useful for its own training purposes, the first shared educational material either city's own safety
 culture had ever produced jointly.
 
+// adjustments
+
+// visions
+
 ### The Correspondence Signy Turned Into a Standing Habit
 
 Following the first quiet-city correspondence between Scott and Signy, the exchange became a genuine standing
@@ -264,6 +320,10 @@ check-ins. Both cities' own administrations, per what's recalled of the habit, f
 having a comparable counterpart to talk to occasionally — a specific, if modest, antidote to being the quieter
 city in a subnet whose own attention gravitated elsewhere, now less isolating for having an actual peer
 relationship to draw on.
+
+// adjustments
+
+// visions
 
 ### The Apprentice Fort McMurdo Sent to Study Precision Directly
 
@@ -279,6 +339,10 @@ trainees — no special accommodation for the fact that he'd eventually return t
 than Scott's own precision economy. It marked the first time Scott's own training culture had ever taught
 someone who wasn't going to stay.
 
+// adjustments
+
+// visions
+
 ### The Wind-Window Method Casey's Dispatchers Sent Back Refined
 
 Following Casey's own adoption of Scott's methodical-process safety philosophy for an unrelated question, a
@@ -292,6 +356,10 @@ in a context considerably different from where it originated. The exchange confi
 had specifically set out to prove: that Scott's own precision culture could travel usefully even into fields
 built around trusting people rather than instruments.
 
+// adjustments
+
+// visions
+
 ### The Comparison Document That Finally Included All Three Quiet Cities
 
 Following the written safety-culture comparison between Scott and Casey, and the ongoing correspondence
@@ -304,6 +372,10 @@ was never intended as anything more than an internal curiosity for the three adm
 stands, regardless, as the first piece of shared civic reflection Scott had ever participated in connecting
 three separate relationships — Fort McMurdo, Casey, and Signy — into a single, coherent picture of exactly what
 kind of city Scott actually was, described this time in its own words alongside its own genuine peers.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -321,6 +393,10 @@ minutes of Fort McMurdo's own floor supervisor first noticing the problem — a 
 extended to any subnet-external industrial client, would have required a written request and a wait measured
 in weeks rather than minutes.
 
+// adjustments
+
+// visions
+
 ### The Second Calibration Fort McMurdo Requested Just to Test the System
 
 Following the first urgent recalibration, Fort McMurdo's own supervisors, curious how quickly Scott's own
@@ -330,6 +406,10 @@ request through the subnet's instant line simply to compare the response time.
 The routine request, per what's preserved of the exchange, was answered nearly as quickly as the original
 emergency had been — proof, once tested deliberately rather than assumed, that Scott's own responsiveness
 wasn't a special exception made for crises but simply the ordinary pace subnet business moved at, day to day.
+
+// adjustments
+
+// visions
 
 ### The Precision Question Casey Waited a Season to Have Answered
 
@@ -341,6 +421,10 @@ The reply, per what's preserved of the letter, took a full season to arrive — 
 once it came, though Casey's own technicians had, by that point, already worked around the uncertainty with
 an approximate answer of their own rather than wait indefinitely for Scott's more precise one.
 
+// adjustments
+
+// visions
+
 ### The Civic-Temperament Letter That Took Two Seasons to Become a Friendship
 
 Signy's own civic historian, noticing the parallel between Signy's own quiet position in the Palmer subnet and
@@ -350,6 +434,10 @@ between the two subnets with no way to know in advance whether the comparison wo
 Scott's own reply, per what's preserved of the exchange, took the better part of two seasons to properly draft
 and send back — a genuine, if slow-arriving, sense of civic kinship that neither city had any faster way to
 develop, sustained afterward through an occasional letter exchanged perhaps once a year.
+
+// adjustments
+
+// visions
 
 ### The Comparison Document That Traveled by Two Different Speeds at Once
 
@@ -363,6 +451,10 @@ before either of the other two contributions had even been fully drafted — the
 three relationships moving at two fundamentally different paces depending on nothing more than which subnet
 each correspondent happened to sit in.
 
+// adjustments
+
+// visions
+
 ### The Manifest Fort McMurdo Confirmed Before Casey's Letter Even Left
 
 A shipment of calibration equipment, ordered from Fort McMurdo and confirmed within a single real-time
@@ -373,6 +465,10 @@ The Fort McMurdo shipment arrived within a day. The letter to Casey took most of
 to at all — two pieces of correspondence, sent from the same office on the same morning, arriving at their
 destinations at entirely different speeds depending on nothing more than which side of the subnet boundary
 each was addressed to.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -389,6 +485,10 @@ Scott's own engineers, per what's preserved of the exchange, noted the shift as 
 direct relationship with Fort McMurdo had come — from a purely supplier-and-buyer dynamic to something closer
 to two technical staffs who simply understood each other well enough to work things out themselves.
 
+// adjustments
+
+// visions
+
 ### The Precision Question Casey Sent That Scott Genuinely Enjoyed Answering
 
 Following the earlier technical follow-up about calibration tolerances, Casey's own instrument technicians
@@ -399,6 +499,10 @@ Scott's own engineers, per what's preserved of the reply, answered at unusual le
 time an outside inquiry had asked about the *why* behind Scott's own precision culture rather than simply
 requesting a specific calibrated answer, and the city's own quiet technicians turned out to have quite a lot
 to say once actually asked.
+
+// adjustments
+
+// visions
 
 ### The Friendship With Signy That Produced Its First Joint Project
 
@@ -412,6 +516,10 @@ outcome — two cities that had always understood each other from a distance fin
 concrete together, once the friendship behind the understanding had enough sustained contact to actually build
 something.
 
+// adjustments
+
+// visions
+
 ### The Calibration Standard That Traveled Without Scott Ever Advertising It
 
 Once national technical correspondence made comparison possible, a specific calibration standard Scott had
@@ -422,6 +530,10 @@ Scott's own engineers, per what's preserved of the discovery, learned of this on
 relationship to Scott at all asked a follow-up question assuming Scott already knew its own standard had
 spread — the same quiet, uncredited significance Neumayer had discovered about its own precision work,
 happening now to Scott.
+
+// adjustments
+
+// visions
 
 ### The Quiet Comparison That Finally Included a Fourth City
 
@@ -434,6 +546,10 @@ three-way comparison of steady, unglamorous competence having grown, once shared
 closer to a standing national conversation about what quiet civic excellence actually looked like across
 several different cities at once.
 
+// adjustments
+
+// visions
+
 ### The Reputation That Finally Matched the Reality
 
 Once national technical reporting made genuine comparison possible, it became clear for the first time that
@@ -445,6 +561,10 @@ Several cities' own engineering offices, per what's preserved of the period, beg
 standards directly as an aspirational benchmark — the quiet city's own precision culture, always locally
 respected, finally measured nationally and found to be exactly as good as its own understated reputation had
 always claimed without ever needing to prove it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -461,6 +581,10 @@ Casey, receiving a comparable figure by mail, had no opportunity for that kind o
 single number, sent once, had to be trusted as final regardless of how confident either side actually felt
 about it.
 
+// adjustments
+
+// visions
+
 ### The Precision Question Casey Waited Out Because There Was No Alternative
 
 A detailed precision-tolerance question sent to Casey went unanswered for the better part of a season — not
@@ -471,6 +595,10 @@ Fort McMurdo, raising an almost identical category of question over the subnet's
 entire exchange, clarifications included, within a single afternoon — the same underlying rigor, the same
 seriousness, arriving at two entirely different speeds.
 
+// adjustments
+
+// visions
+
 ### The Friendship That Grew Fast With One Neighbor and Slow With Another
 
 Scott's own correspondence with Fort McMurdo, conducted almost entirely over the subnet's own line, developed
@@ -480,6 +608,10 @@ technical questions but ordinary news, the kind of casual rapport instant contac
 A comparable correspondence with Signy, necessarily conducted by mail, took years to reach a similar level of
 warmth — not because either side was less genuine, but because trust built one slow letter at a time simply
 needed more time to accumulate.
+
+// adjustments
+
+// visions
 
 ### The Comparison Document That Existed in Two Versions at Once
 
@@ -492,6 +624,10 @@ Scott's own record-keepers, aware the two versions had already diverged, made a 
 Casey an updated copy regardless — an imperfect solution, but one considered better than letting a
 subnet-external partner work from a document that had already been quietly superseded.
 
+// adjustments
+
+// visions
+
 ### The Modesty Fort McMurdo Never Had to Take on Faith
 
 Scott's own quiet, deliberately unnoticed civic character was something Fort McMurdo experienced directly and
@@ -502,6 +638,10 @@ Casey and Signy, knowing the same reputation only through occasional corresponde
 modesty largely on faith — the reputation itself accurate, but experienced as a description rather than
 something either city could verify for themselves on any regular basis.
 
+// adjustments
+
+// visions
+
 ### The Stillness That Was Loudest Right Next Door
 
 Scott's own defining quality — content not to be noticed — held paradoxically true even in its closest
@@ -511,3 +651,7 @@ that quiet precision be demonstrated constantly rather than described occasional
 Scott's own engineers, per a surviving reflection, found something fitting in this — the city that most
 wanted not to be noticed was, in practice, most thoroughly known by the one neighbor close enough to actually
 watch it work.
+
+// adjustments
+
+// visions

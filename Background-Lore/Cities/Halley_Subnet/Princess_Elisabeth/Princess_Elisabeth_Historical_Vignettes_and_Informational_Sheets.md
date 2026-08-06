@@ -56,6 +56,10 @@ exception. Her own name was, by the Full Extrapolation's account, barely known o
 at the time — the kind of essential, uncelebrated work that only later generations, once the war made every
 prior era's engineering discipline look remarkable in hindsight, began crediting properly.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Inspection Day the Founders Never Missed
@@ -77,6 +81,10 @@ than a population simply told it was sound — and would notice faster if a give
 up short. No inspection in the settlement's recorded history was ever skipped or held privately; the public
 version of the check became, generations before anyone called it Founders' Turbine, simply how the city
 confirmed to itself, every year, that it was still standing on purpose.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -101,6 +109,10 @@ within the Corps for taking marginal readings seriously rather than assuming ins
 kind of unglamorous vigilance that kept a system this consequential from ever becoming visibly dramatic in
 the first place.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Meal That Became a Holiday
@@ -120,6 +132,10 @@ maintenance work specifically because it had come to represent something neither
 distinct communities sharing close quarters without either one dissolving into the other. What began as one
 crew's spontaneous gesture during a work break became, generations later, a civic holiday with a name and a
 recognized date, still built around the same basic exchange of food and custom that started it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -141,6 +157,10 @@ existed became, among residents who heard it repeated, a small, specific illustr
 C already establishes in the abstract — Princess Elisabeth's own crossroads position was real, but it never
 asked to mean anything beyond the map.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Day the Reserve Was Finally Trusted
@@ -160,6 +180,10 @@ noticed at the time — most only learning afterward that surface generation had
 test's own success is, per what's remembered of the era, the specific reason the Reserve was treated from
 that point on as genuine infrastructure the city could actually depend on, not simply an expensive
 contingency nobody had confirmed would work.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -186,6 +210,10 @@ regulate power for the entire country. The specific technical findings the deleg
 preserved in detail, but the visit itself is remembered locally as the first confirmation that Princess
 Elisabeth's own founding-era engineering mattered somewhere far beyond its own city limits.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Corridor That Carried Something Heavier Than Usual
@@ -204,6 +232,10 @@ everyone's talking about," offering no further detail before continuing on. The 
 now mostly as a small, specific confirmation that Princess Elisabeth's own quiet crossroads position was,
 however briefly, part of the physical route by which pieces of the Tower itself actually reached their
 destination.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -224,6 +256,10 @@ project nearing completion elsewhere — a specific, dated instance of the obser
 intersecting, for the first time, with news of something happening well beyond Princess Elisabeth's own
 usual concerns.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Question From Amundsen Station That Finally Got an Answer
@@ -243,6 +279,10 @@ that the connection formed during the original delegation's visit hadn't been a 
 Elisabeth's own founding-era engineering had become, quietly, an ongoing technical resource for the facility
 regulating the whole country's power.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Dish That Traveled Further Than Either Community Expected
@@ -259,6 +299,10 @@ apparently attempted the dish themselves based on the description alone. The spe
 isn't preserved, but the exchange itself is remembered locally as a small, quietly pleasing confirmation that
 a tradition born from an unplanned gesture between two communities sharing close quarters could still mean
 something to people who'd never shared anything with either community at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -278,6 +322,10 @@ the same matter-of-fact thoroughness applied to everything else the institution 
 curiosity as simply one more category of routine correspondence rather than anything requiring special
 acknowledgment — an institution built on invisibility becoming, gradually and without any deliberate effort
 to seek it out, quietly known beyond its own city for the first time in its history.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -299,6 +347,10 @@ heard the story afterward, something neither generation before them had ever bee
 than plausible guesswork, of exactly how the "eastern current" the city's own founding history already
 described had actually reached this far.
 
+// adjustments
+
+// visions
+
 ### The Recipe Shirayuki's Own Kitchens Asked to Borrow
 
 The Crossing's own food-exchange tradition, born from one maintenance crew's spontaneous gesture between
@@ -313,6 +365,10 @@ notes. What resulted wasn't dramatic — a modest, genuine cultural exchange bet
 each independently carried pieces of the same broader heritage forward in almost total isolation from each
 other, comparing what had drifted and what had stayed recognizably the same after generations apart.
 
+// adjustments
+
+// visions
+
 ### The Load-Response Question Sinheung's Engineers Asked First
 
 The Maintenance Corps' own reputation for catching marginal readings before they became genuine faults,
@@ -326,6 +382,10 @@ exhibited. Corps staff, per what's preserved of the exchange, recognized the pat
 the diagnostic approach that had once caught Kaminari's own early-stage fault — genuinely useful cross-industry
 knowledge transfer between an energy-storage system and a manufacturing floor that had never had any obvious
 reason to compare notes before a direct channel existed to make the comparison worth attempting at all.
+
+// adjustments
+
+// visions
 
 ### The Turbine Design Signy Finally Got to Study Directly
 
@@ -342,6 +402,10 @@ placement to genuinely reliable wind patterns rather than raw peak output — th
 independently, that Signy's own founding engineers had also eventually learned from their own near-miss. Two
 cities that had never spoken directly confirmed, for the first time, that they'd solved comparable problems the
 same way without either ever knowing it.
+
+// adjustments
+
+// visions
 
 ### The Highway Question Dome Fuji Finally Asked Directly
 
@@ -360,6 +424,10 @@ time in either city's history that the question had actually been asked directly
 stake in the answer, rather than left as an open item in a Megasheet neither city had any way to actually
 settle between themselves.
 
+// adjustments
+
+// visions
+
 ### The Toast Raised Simultaneously in Two Cities for the First Time
 
 The Crossing, observed at Princess Elisabeth as a purely local holiday for generations, was marked for the
@@ -374,6 +442,10 @@ new kind of civic gesture, two cities' own separate traditions briefly synchroni
 simply existing in parallel ignorance of each other. Neither city's own holiday changed in any lasting way.
 For one specific evening, though, a tradition born from an unplanned maintenance-shift gesture generations
 earlier was, for the first time, shared on purpose rather than discovered by accident.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -393,6 +465,10 @@ relationship existed only on paper, read and reread many times before the next l
 The marriage that eventually resulted outlasted the correspondence that produced it by decades, a relationship
 built at a pace no comparable courtship within Princess Elisabeth's own subnet would ever have required.
 
+// adjustments
+
+// visions
+
 ### The Pilgrimage Nobody Could Announce in Advance
 
 Dome Fuji's own proximity by longitude made an eventual visit plausible long before the Tower existed, but
@@ -406,6 +482,10 @@ channel existed to check current status before committing to the trip. The group
 willing to receive them, this time — a genuine gamble that had, on at least one earlier attempt nobody talks
 about as fondly, not paid off at all.
 
+// adjustments
+
+// visions
+
 ### The Letter Shirayuki Answered Before It Knew Who Had Sent It
 
 A written inquiry from Princess Elisabeth, raising the demographic kinship the two cities' own Japanese-heritage
@@ -418,6 +498,10 @@ in transit that the sender's own name meant nothing to anyone in the Shirayuki o
 routine subnet-external correspondence, filed and answered eventually, the reply itself carrying no urgency
 because none had been possible to convey in the first place.
 
+// adjustments
+
+// visions
+
 ### The Consult Sinheung Couldn't Simply Ask For
 
 A specific engineering question from Sinheung, curious about Princess Elisabeth's own zero-emissions power
@@ -429,6 +513,10 @@ Princess Elisabeth's own engineers, per what's remembered of the reply, answered
 considerably later than the question's own urgency at Sinheung had originally called for — by the time the
 answer arrived, Sinheung's own engineers had already worked around the uncertainty rather than wait on a
 system with no way to confirm a reply was even coming.
+
+// adjustments
+
+// visions
 
 ### The Line to Neumayer Nobody Had Reason to Use
 
@@ -444,6 +532,10 @@ correspondence measured in seasons, found almost disorienting. The answer solved
 stayed memorable about the exchange wasn't the engineering — it was simply how fast an answer could arrive
 when the question happened to be aimed at the right subnet.
 
+// adjustments
+
+// visions
+
 ### The Turbine Comparison Signy Never Got to See in Person
 
 Signy's own wind-and-hydro power system and Princess Elisabeth's own zero-emissions civic identity were close
@@ -455,6 +547,10 @@ two years, per what's preserved of the correspondence, eventually convinced both
 their independently-developed approaches solved the same underlying reliability problem from two different
 directions — a conclusion that, reached the slow way, still held once the two cities could finally compare
 notes in real time, generations later.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -472,6 +568,10 @@ zero-emissions civic pride with Sayowa's own hospitality — a detail neither ci
 tradition had included, invented specifically because the relationship itself had matured past its own
 original occasion for existing.
 
+// adjustments
+
+// visions
+
 ### The Mural Shirayuki Sent as Thanks for a Recipe
 
 Following the reciprocal recipe exchange between the two Japanese-heritage communities, Shirayuki's own art
@@ -484,6 +584,10 @@ of their own to reciprocate with — the gesture stood on its own, the first tim
 something with no practical use at all, purely because the earlier culinary exchange had made the relationship
 feel worth deepening.
 
+// adjustments
+
+// visions
+
 ### The Grid Question Sinheung Asked a Second Time, About Something Harder
 
 Following the earlier load-response engineering exchange, Sinheung's own engineers returned with a
@@ -494,6 +598,10 @@ Princess Elisabeth's own engineers, per what's preserved of the exchange, didn't
 — the question exposed a genuine gap in their own documented understanding of their own system, one they'd
 never had reason to formalize since the system itself had simply always worked. Sinheung's own question,
 unintentionally, prompted Princess Elisabeth to finally write the answer down properly for the first time.
+
+// adjustments
+
+// visions
 
 ### The Reliability Standard Signy and Princess Elisabeth Finally Published Together
 
@@ -507,6 +615,10 @@ could revise a shared draft directly rather than mailing successive versions bac
 project the original correspondence had spent nearly two years circling without ever quite reaching a single
 agreed text.
 
+// adjustments
+
+// visions
+
 ### The Pilgrimage Route Dome Fuji Finally Confirmed Existed
 
 Following the earlier inquiry about the uncertain highway link toward Dome Fuji, a direct answer finally
@@ -517,6 +629,10 @@ The confirmation didn't produce an actual pilgrimage — the underlying religiou
 eventually become known for still lay generations in the future. What it did produce was simpler: the first
 time Princess Elisabeth's own residents had genuine, confirmed information about the nearest Mawson subnet
 city, rather than an assumption based on longitude and a highway map.
+
+// adjustments
+
+// visions
 
 ### The Grid Design Genuinely Unlike Anything Else in the Country
 
@@ -530,6 +646,10 @@ specifically to understand a system that didn't resemble their own in any straig
 Princess Elisabeth's own approach was better, necessarily, but because it was different enough that no
 existing framework quite explained it. The station's own quiet self-sufficiency had, without anyone deciding
 it should, become the one genuinely singular engineering identity in the country.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -546,6 +666,10 @@ Sayowa's own planners, per a surviving note, worked from the rough summary in th
 an imperfect substitute that shaped an entire season's worth of scheduling decisions before the real figures
 ever caught up to correct them.
 
+// adjustments
+
+// visions
+
 ### The Technician Who Trained in Person or Not at All
 
 A specialized maintenance technique specific to Princess Elisabeth's own self-generated power system couldn't
@@ -556,6 +680,10 @@ its own in an earlier, failed attempt by mail.
 The in-person training succeeded where the correspondence hadn't, but at a cost measured in weeks rather than
 the afternoon such an exchange would have taken had any faster line existed between the two isolated stations.
 
+// adjustments
+
+// visions
+
 ### The Design Shirayuki Improved Without Princess Elisabeth Knowing For Months
 
 A structural detail from one of Princess Elisabeth's own published engineering reports was independently
@@ -565,6 +693,10 @@ back to Princess Elisabeth only by chance, carried by a traveler who happened to
 Princess Elisabeth's own engineers, learning of the improvement months after Shirayuki had already implemented
 it, incorporated the refinement into their own subsequent work — a genuine two-way exchange of ideas that had,
 through no fault of either city, taken the better part of a year to actually complete.
+
+// adjustments
+
+// visions
 
 ### The Standing Order Sinheung Placed and Could Never Adjust in Time
 
@@ -577,6 +709,10 @@ Princess Elisabeth's own procurement office, per what's preserved of internal co
 inflexibility as simply the cost of dealing with any subnet-external supplier — a fixed inefficiency accepted
 because no faster channel existed to do otherwise.
 
+// adjustments
+
+// visions
+
 ### The Reply From Signy That Crossed Its Own Question in Transit
 
 A follow-up letter to Signy, sent before Princess Elisabeth's engineers had received Signy's own answer to an
@@ -586,6 +722,10 @@ arriving within days of each other, each addressing a version of the exchange th
 The resulting confusion, sorted out over yet another full round of correspondence, was recorded afterward less
 as an error than as an ordinary hazard of conducting any detailed technical exchange entirely by letter across
 that particular distance.
+
+// adjustments
+
+// visions
 
 ### The Halley Subnet Line Princess Elisabeth Genuinely Never Used
 
@@ -597,3 +737,7 @@ established working relationships happened to lie inside the subnet at all.
 The asymmetry was noted, dryly, in a later internal review: the fastest channel available to the station was
 also the one it had the least actual reason to use — the cities it corresponded with constantly were,
 without exception, the ones it could only reach the slow way.
+
+// adjustments
+
+// visions

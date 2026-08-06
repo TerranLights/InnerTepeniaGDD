@@ -41,6 +41,10 @@ iterative proof a genuinely new vehicle class actually requires. Nobody involved
 record describing it as historic at the time. The name "Arrastradora," and everything the lineage would later
 carry, came after.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Chart Nobody Filed as Important
@@ -60,6 +64,10 @@ had no way to know what they were actually recording. Finding A's own observatio
 designed for resilience, only accidentally provided it — traces to exactly this kind of unremarkable, correctly
 filed, entirely ordinary piece of paperwork.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Petition the Airfield Office Actually Heard
@@ -78,6 +86,10 @@ hangar scheduling that same week — the first documented instance of the fused 
 Villanueva-Krause's own design intended. The households involved apparently found the outcome perfectly
 reasonable once resolved; what became institutional memory was less the dispute itself than the confirmation
 that the fusion genuinely worked in practice, not just on paper.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -101,6 +113,10 @@ its original merits, proved durable: the fusion he chose never got walked back, 
 not by any successor afterward, and Belgrano's entire subsequent governance history ran through the Airfield
 because that single founding-era decision was never seriously revisited.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Last Mate Before the Crossing
@@ -121,6 +137,10 @@ directly, that this particular round of mate might be shared with some of those 
 time — the same unhurried, vessel-passing custom Belgrano still practices today, first given this specific
 weight on one particular night before Expedition Day existed as anything but an ordinary evening.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What the Fabrication Yards Sent Out Into the World
@@ -137,6 +157,10 @@ whatever vehicle it was originally intended for, isn't accounted for by anything
 Finding B does establish is that the part's specific shape and function are exactly what these Yards were
 built to produce, making Belgrano the most plausible point of origin regardless of the specific chain of
 custody between here and wherever it was eventually found.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -161,6 +185,10 @@ proof the Rastra lineage could sustain genuinely long-haul work under real sched
 point of quiet pride within the fleet, whether or not the Tower's own construction records ever formally
 credited where the material had actually come from.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Flight the Airfield Had Never Been Asked to Schedule
@@ -177,6 +205,10 @@ same priority logic already used for urgent supply deliveries, reasoning the und
 urgently does this actually need to fly — was the same regardless of the cargo's own unprecedented national
 significance. The improvised classification held up well enough that it became, informally, the Airfield's
 own standing approach to comparable requests for the remainder of the Tower's construction.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -196,6 +228,10 @@ unprecedented national project as simply one more thing to note in passing rathe
 unhurried mate ritual continuing exactly as it always had regardless of what was being built hundreds of
 kilometers away.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Order From a Fleet Belgrano Had Never Heard Of
@@ -214,6 +250,10 @@ supply range. The order is remembered locally less for its own modest size than 
 concrete proof that the Yards' own routine, unglamorous manufacturing work could now reach parts of Tepenia
 that, before the Tower, might as well not have existed as far as Belgrano's own logistics were concerned.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Question About the Mate Ritual Nobody Knew How to Answer Briefly
@@ -231,6 +271,10 @@ hand to hand rather than formally taught. The exchange never produced a fully sa
 per what's preserved of it, but it's remembered locally as one of the first times Belgrano's own residents had
 ever been asked to articulate a custom they'd never previously needed to explain to anyone outside the city
 at all.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -251,6 +295,10 @@ the requested technical detail without particular ceremony, the invention's own 
 significance never quite translating into the kind of civic pride a founding achievement this consequential
 might have generated elsewhere in Tepenia.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 3 — What Only Became Possible Once Every City Could Actually Talk to Every Other
@@ -270,6 +318,10 @@ maps, per what came back, had been genuinely useful but not perfectly accurate, 
 correction during the expedition's own final approach. Belgrano's own archive absorbed the correction as a
 small, satisfying completion of a story it had only ever known the beginning of.
 
+// adjustments
+
+// visions
+
 ### The Gathering Three Argentine Cities Held Without Anyone Traveling
 
 Esperanza, Marambio, and Belgrano — Argentina's only three founding-population cities in the country, split
@@ -284,6 +336,10 @@ what's remembered of the occasion, described hearing Esperanza's and Marambio's 
 simultaneously as something genuinely moving in a way no prior generation's separate, unconnected commemoration
 had ever been able to produce — three cities marking the same heritage together, for the first time, without
 a single person actually leaving home.
+
+// adjustments
+
+// visions
 
 ### The Part Sinheung Finally Explained
 
@@ -300,6 +356,10 @@ explanation satisfying in a way the original shipment had never required to be �
 into the country's own logistics network, with no expectation of ever hearing back, occasionally still found
 its way to an answer.
 
+// adjustments
+
+// visions
+
 ### The Schedule Sanay and Troll Finally Built Together, With Belgrano Watching
 
 The three-city Halley subnet supply chain — Belgrano and Sanay both receiving South African freight, Troll
@@ -313,6 +373,10 @@ surfaced a genuine, previously invisible inefficiency — Belgrano and Sanay had
 realized, occasionally scheduled receiving windows that left Troll's own onward capacity sitting idle between
 them. The corrected joint schedule, adopted immediately, closed a gap none of the three cities' own
 independent planning had ever been positioned to see on its own.
+
+// adjustments
+
+// visions
 
 ### The Recipe Exchange That Reached a City Belgrano Had Never Traded With
 
@@ -328,6 +392,10 @@ it, treated the request the same unceremonious way they'd always answered a curi
 explaining the ritual plainly, without treating the distance involved as making the question any less worth a
 genuine answer.
 
+// adjustments
+
+// visions
+
 ### The Halley Passage Report That Finally Explained a Delay
 
 Halley's own resupply, downstream of whichever of Belgrano's or Sanay's passage happened to be open, had
@@ -340,6 +408,10 @@ convoy had even been affected — genuine advance notice, the first Halley had e
 specifically, rather than inferred after a shipment simply failed to show. Halley's own planners adjusted the
 schedule immediately, the first time in the two cities' shared history that a Belgrano closure had been
 something Halley planned around in advance rather than discovered by its own absence.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -357,6 +429,10 @@ routine, simply asked Sanay's own office directly over the subnet's instant line
 ordinary coordination that a Marambio dockworker, visiting on unrelated business, found genuinely remarkable
 once she learned Belgrano had no equivalent way of asking Marambio's own harbor the same kind of question.
 
+// adjustments
+
+// visions
+
 ### What Troll Flew Out Before Anyone Outside the Subnet Knew It Existed
 
 Freight moving from Belgrano through Troll's own aviation network toward Dome Fuji or Sinheung was coordinated
@@ -369,6 +445,10 @@ moved from decision to departure in either city's own memory. The same shipment 
 weeks in transit toward its actual Mirny subnet destination, with neither city able to confirm its progress
 once it crossed the subnet boundary. The planning had never been faster. The delivery was exactly as slow as
 it had always been.
+
+// adjustments
+
+// visions
 
 ### The Map Nobody Could Ask Byrd About Afterward
 
@@ -383,6 +463,10 @@ first confirmation that Byrd had actually been founded arrived by courier, not b
 archivists could have simply checked, closing a waiting period no comparable Halley subnet correspondence
 would ever have required.
 
+// adjustments
+
+// visions
+
 ### The Letter to Esperanza That Outlived Its Own Question
 
 A Belgrano historian's inquiry to Esperanza, prompted by curiosity about the two cities' shared Argentine
@@ -396,6 +480,10 @@ had been. Belgrano's historian read the eventual reply with real interest, if co
 the question that had prompted it, and answered back mostly out of politeness to a correspondence she no
 longer strictly needed to continue.
 
+// adjustments
+
+// visions
+
 ### The Part Sinheung Waited On Without Knowing It Was Coming
 
 A specific aircraft part sitting unused in one of Belgrano's own ruins-era garages had genuine value to
@@ -407,6 +495,10 @@ mention it in conversation at a Sinheung workshop, an entirely incidental discov
 either city could have arranged on purpose. The part itself then had to be physically carried back the same
 long route it had taken to be discovered at all — a transaction that, once digital contact eventually existed,
 would have been a single message and a scheduled shipment instead of one trader's lucky mention.
+
+// adjustments
+
+// visions
 
 ### The Freight Belgrano and Sanay Planned Together for Someone Neither Had Met
 
@@ -420,6 +512,10 @@ Sanay could track once it crossed into Palmer subnet territory — the two ports
 ending exactly at the subnet boundary their shared planning session had never needed to cross. Marambio's own
 dockworkers, receiving the shipment weeks later, had no way of knowing how quickly the loading itself had
 actually been arranged.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -438,6 +534,10 @@ detail no existing account of the expedition had gotten quite right. The correct
 the first time Byrd's own founding story had been checked against its actual source material rather than
 against however many retellings had passed it down.
 
+// adjustments
+
+// visions
+
 ### The Recipe Esperanza Asked to Confirm, Not Just Receive
 
 Following the earlier exchange that traced a specific dish's origins to Belgrano's own founding culture,
@@ -449,6 +549,10 @@ Belgrano's own residents, per what's preserved of the reply, confirmed part of t
 corrected a detail Esperanza's own version had drifted on over generations — a small, specific piece of
 culinary provenance settled for the first time by people who actually still made the dish the original way,
 rather than left as an assumption neither city had ever had reason to verify directly before.
+
+// adjustments
+
+// visions
 
 ### The Ground Crew Exchange That Went Both Directions
 
@@ -462,6 +566,10 @@ per what's preserved of the account — the first time technical knowledge had g
 directions between the two Air Force-heritage cities, rather than only from Belgrano's own more established
 boneyard expertise outward.
 
+// adjustments
+
+// visions
+
 ### The Salvage Question Sinheung Asked About a Part That Wasn't the Famous One
 
 Following the aircraft part that had once bypassed a stat-gate on Sinheung's own repair sidequest, a second,
@@ -474,6 +582,10 @@ inventory a full section of the yard specifically to answer it — the first tim
 been treated, by an outside city, as a genuine ongoing resource worth consulting rather than the source of
 one specific, already-famous part.
 
+// adjustments
+
+// visions
+
 ### The Storm Belgrano and Sanay Rode Out Together, a Second Time
 
 Following the earlier joint response to a Weddell Sea storm, a second severe weather event gave Belgrano and
@@ -484,6 +596,10 @@ under pressure.
 The second response, per what's preserved of the comparison, went noticeably more smoothly than the first —
 proof, per what's remembered locally, that the instant coordination the subnet's own line made possible
 wasn't just a one-time advantage but something the two ports could genuinely get better at with practice.
+
+// adjustments
+
+// visions
 
 ### The Question Abowasa Finally Asked Belgrano Directly
 
@@ -496,6 +612,10 @@ personally rather than simply absorbing the delay as usual.
 Belgrano's own dispatchers, per what's preserved of the reply, explained the pattern in full — a genuinely
 minor administrative fix that, once identified, resolved a recurring problem Abowasa had quietly lived with
 for years without ever having a channel to actually raise it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -512,6 +632,10 @@ The same courtesy wasn't available for a comparable part destined for Marambio, 
 that shipment left on the strength of Belgrano's own best judgment alone, with confirmation of fit or
 incompatibility not arriving until the return letter, weeks after the part itself had already arrived.
 
+// adjustments
+
+// visions
+
 ### The Boneyard Inventory Troll Could Search in Real Time
 
 Troll's own freight coordinators, working out which salvaged parts Belgrano actually had on hand before
@@ -523,6 +647,10 @@ that had long since been salvaged for something else — the list itself accurat
 last been physically carried out of the subnet, which was sometimes a full season out of date by the time it
 reached its reader.
 
+// adjustments
+
+// visions
+
 ### The Letter Esperanza Sent Without Knowing What It Would Find
 
 A request from Esperanza, asking whether Belgrano's own salvage yards held any aircraft components matching a
@@ -533,6 +661,10 @@ Halley, asking Belgrano the same category of question the same month over the su
 answer — and, if the part existed, the part itself already being pulled and set aside — before Esperanza's
 own letter had even crossed into the Palmer subnet.
 
+// adjustments
+
+// visions
+
 ### The Standard Sinheung Received Only Once It Was Finished
 
 Belgrano's own salvage-classification standard, refined constantly in day-to-day use and shared informally
@@ -542,6 +674,10 @@ mail well after the version Belgrano's own subnet-mates had already been working
 Sinheung's engineers, adopting the standard as written, had no way to know how many earlier drafts had come
 and gone before it — the working, evolving version of Belgrano's own precision was something only its
 subnet-mates ever actually saw.
+
+// adjustments
+
+// visions
 
 ### The Convoy That Carried a Question Instead of Cargo
 
@@ -554,6 +690,10 @@ The same category of dispute, arising separately with Troll that same season, wa
 over the subnet's own line — the contrast, noted afterward in Belgrano's own internal correspondence, treated
 as simply the ordinary cost of working with any city outside the subnet's own reach.
 
+// adjustments
+
+// visions
+
 ### The Precision Belgrano Measured By What It Could Confirm
 
 Belgrano's own reputation for turning old aircraft parts into reliable new assets rested on a habit of
@@ -564,3 +704,7 @@ confirmation could only follow, never precede, the part's own departure.
 Belgrano's own record-keepers noted the asymmetry plainly rather than treating it as a flaw — the yard's own
 diligence didn't change based on the recipient; only how quickly that diligence could actually be verified on
 the other end did.
+
+// adjustments
+
+// visions

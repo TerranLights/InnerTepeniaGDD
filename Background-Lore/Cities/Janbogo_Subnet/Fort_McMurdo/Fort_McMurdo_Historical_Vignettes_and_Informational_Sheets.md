@@ -45,6 +45,10 @@ processing time — became the concrete argument that got Fischer's own proposal
 stations that resulted became the standing infrastructure Fort McMurdo's own later capital-scale coordination
 role was built directly on top of.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Volcanologist Who Made Erebus Boring on Purpose
@@ -63,6 +67,10 @@ approach anyway, reasoning that a population living permanently beside an active
 calm more than technical precision in its own daily civic communication. The monitoring program's own
 continued publication of exactly this kind of plain-language bulletin, generations later, traces directly to
 Conti's own founding-era insistence that living beside Erebus should read as ordinary, not extraordinary.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -83,6 +91,10 @@ why the Dry Valleys operation could continue functioning independently whenever 
 infrastructure faced disruption — a founding-era cost-benefit decision that produced genuine operational
 resilience nobody had specifically designed it for.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Meeting Where "The McMurdo Problem" Got Its Name
@@ -102,6 +114,10 @@ designation, arriving only once the Tower's own construction made the dependency
 is remembered less as Fort McMurdo gaining power than as the government finally responding, by name, to the
 exact grievance that meeting had first put into words.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What the Heroic Age Huts Meant to People Who Actually Worked There
@@ -120,6 +136,10 @@ otherwise worked inside — a deliberate reminder, self-administered rather than
 institution, of the very different human scale Antarctica's own earliest visitors had once worked at. The
 custom persisted across generations of Fort McMurdo's own industrial workforce without ever becoming a formal
 civic institution itself.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -141,6 +161,10 @@ incident is remembered, within the monitoring program's own institutional histor
 Conti's own founding-era approach — plain language over technical precision — actually worked under real
 pressure, not merely during ordinary, uneventful monitoring.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -160,6 +184,10 @@ disruption. Processing at Fort McMurdo's own core kept pace, barely, month after
 remembered less for any single dramatic event than for the sheer, sustained volume — the exact undeniable
 dependency Section IX's own eventual formal designation would answer.
 
+// adjustments
+
+// visions
+
 ### The Stations Fischer's Protocols Were Finally Tested Against
 
 *(Shortly before the Tower's completion.)* Amara Fischer's own dedicated comms stations, built originally to
@@ -174,6 +202,10 @@ volume the way the old informal person-to-person relay once had, to its own even
 Whatever it was that Fort McMurdo's own processing capacity was actually feeding, considerably larger in scale
 than the Dry Valleys logistics chain had ever managed before, moved through Fischer's own protocols without
 the desynchronization failure that had originally justified building them.
+
+// adjustments
+
+// visions
 
 ### The Year New Arrivals Outpaced the Old Custom
 
@@ -190,6 +222,10 @@ workers, per informal accounts, simply never made the visit at all during the un
 custom's own voluntary character absorbing the strain by quietly admitting more exceptions than usual rather
 than bending its own informal shape to accommodate everyone.
 
+// adjustments
+
+// visions
+
 ### The First Delegation Fort McMurdo Received as Something Official
 
 *(Shortly after the Tower's completion.)* Once the formal capital-city designation followed the Tower's own
@@ -204,6 +240,10 @@ handled, per what's remembered of it, with the same practical, unshowy competenc
 to industrial coordination, simply redirected toward a genuinely new kind of civic function. The delegation's
 own specific business isn't preserved in detail. That Fort McMurdo hosted it at all, as something other than a
 logistics partner, marked a real and immediate change from everything the designation had formalized.
+
+// adjustments
+
+// visions
 
 ### The Bulletin That Reached Readers Who'd Never Heard of Erebus
 
@@ -220,6 +260,10 @@ bulletins' own matter-of-fact tone almost startling on first encounter — proof
 never wrote for, that his founding-era instinct toward calm plain language held up even further from home than
 he'd ever needed it to.
 
+// adjustments
+
+// visions
+
 ### The Coordination Backbone That Became Something Larger
 
 *(Shortly after the Tower's completion.)* Fischer's own comms stations, built to coordinate Fort McMurdo's own
@@ -233,6 +277,10 @@ traffic alongside the supply and extraction coordination they'd always handled. 
 what's recalled of the transition, noted it as consistent rather than surprising: infrastructure built for
 genuine institutional rigor, once proven under real logistics pressure, turned out to be exactly what a newly
 formalized capital needed too.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -253,6 +301,10 @@ something broke. Scott's own calibration specialists, per what's preserved of th
 consulting on Fort McMurdo's own equipment specifications directly for the first time, rather than only
 responding to discrete recalibration requests.
 
+// adjustments
+
+// visions
+
 ### The Comparison Troll and Fort McMurdo Turned Into a Standing Exchange
 
 Following the first direct conversation between logistics coordinators at Troll and industrial planners at
@@ -265,6 +317,10 @@ cities. It did give both administrations something neither had previously had ac
 updated point of comparison for exactly how a working-class logistics economy was faring elsewhere in the
 country, checked against their own numbers on an ongoing basis rather than through the single one-time
 comparison the original conversation had produced.
+
+// adjustments
+
+// visions
 
 ### The Forecast Method Casey Watched Fort McMurdo Adapt Further
 
@@ -280,6 +336,10 @@ anticipated. The exchange confirmed something neither city had specifically set 
 sound safety-communication method could keep finding new applications once it had somewhere to actually travel
 to.
 
+// adjustments
+
+// visions
+
 ### The Second Delegation That Came Already Knowing What to Expect
 
 Following the first official delegation Fort McMurdo received after its own capital designation, a second
@@ -291,6 +351,10 @@ concluded faster, with fewer of the improvised protocol decisions the first visi
 own administration, per what's recalled of the period, recognized the pattern for what it was — the newly
 formalized capital's own administrative apparatus maturing in real time, each delegation's own experience now
 actually informing the next one's, rather than every visit starting from the same uncertain first principles.
+
+// adjustments
+
+// visions
 
 ### The Megacity Comparison Lazar and Fort McMurdo Finally Wrote Down
 
@@ -305,6 +369,10 @@ the project, treated it more as a genuine curiosity worth having on record. It s
 first formal documentation either city had ever produced examining the other directly, rather than simply
 referencing the comparison informally.
 
+// adjustments
+
+// visions
+
 ### The Erebus Bulletin Scott's Own Engineers Started Reading for a Different Reason
 
 Following the Erebus monitoring bulletins reaching a national audience, Scott's own precision-calibration
@@ -318,6 +386,10 @@ export of Fort McMurdo's own communication discipline into a field that had noth
 all. Fort McMurdo's own monitoring staff, per what's recalled of learning about the adoption, found it a
 genuinely unexpected compliment — proof that plain language, once modeled well, could travel considerably
 further than the specific hazard it had originally been built to explain.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -335,6 +407,10 @@ kind of formal written request any subnet-external technical consultation would 
 resumed the same day, a level of responsiveness Fort McMurdo's own industrial planners came to depend on
 without ever thinking of it as remarkable.
 
+// adjustments
+
+// visions
+
 ### The Apprentice Scott Sent Without a Single Letter Exchanged
 
 An informal apprenticeship arrangement, sending a Scott-trained technician to spend a season working
@@ -345,6 +421,10 @@ The arrangement, per what's preserved of the record, took less than a week from 
 apprentice's own arrival — a pace of logistics coordination Fort McMurdo's own labor office never managed to
 replicate for a comparable arrangement involving any subnet-external city, where the same planning would have
 required months of written correspondence just to settle the basics.
+
+// adjustments
+
+// visions
 
 ### The Comparison Troll Only Ever Heard Secondhand
 
@@ -358,6 +438,10 @@ remained one of the very few people in the country actually positioned to descri
 everyone else at Fort McMurdo relying entirely on his retelling, since nothing faster existed to simply ask
 Troll directly what working life there was actually like.
 
+// adjustments
+
+// visions
+
 ### The Safety Bulletin Casey Answered a Season Late
 
 Casey's own wind-window certification discipline, later cited as a genuine parallel to Fort McMurdo's own
@@ -370,6 +454,10 @@ detailed and genuinely useful once it came, though Fort McMurdo's own safety off
 already drafted a working procedure of its own rather than wait indefinitely for guidance from a city with no
 faster way to answer.
 
+// adjustments
+
+// visions
+
 ### The Trade Proposal Lazar Left Unanswered Long Enough to Worry About
 
 A specific trade proposal sent from Fort McMurdo to Lazar, the country's two biggest civic hubs each curious
@@ -379,6 +467,10 @@ carrying it — and went unanswered long enough that Fort McMurdo's own commerci
 The reply, once it finally arrived, turned out to be genuinely favorable — delayed by nothing more than
 distance, per what's preserved of the exchange, though Fort McMurdo's own planners had already moved on to a
 different arrangement by the time the original proposal's own answer showed up.
+
+// adjustments
+
+// visions
 
 ### The City That Wasn't the Capital Yet
 
@@ -392,6 +484,10 @@ McMurdo with the same generic formality any comparably-sized industrial city mig
 particular deference, no special channel, simply one large city writing to another the slow way every
 subnet-external correspondence traveled before the Tower changed what Fort McMurdo's own address would
 eventually mean to the rest of the country.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -409,6 +505,10 @@ plain amusement Halley had once shown a similarly generic letter — proof, this
 direction, that a designation could arrive before the person sending it had bothered to learn the actual name
 attached to it.
 
+// adjustments
+
+// visions
+
 ### The Scheduling Dispute Scott and Fort McMurdo Settled Without Casey's Help
 
 Following the earlier three-city calibration comparison involving Casey, a considerably narrower dispute
@@ -419,6 +519,10 @@ Both cities' own administrators, per what's preserved of the exchange, noted thi
 maturity in the relationship — the two cities had built enough of their own direct working rhythm by this
 point that not every disagreement needed a third party's own perspective to settle.
 
+// adjustments
+
+// visions
+
 ### The Working-Class Comparison Document Troll Cited As a Model
 
 Following the joint comparison document written with Troll, several other cities' own civic offices requested
@@ -428,6 +532,10 @@ their own comparably-matched cities might conduct a similar joint self-examinati
 Fort McMurdo's own civic office, per what's preserved of the period, found the requests slightly surprising —
 a document written for two specific cities' own mutual curiosity had become, once shared nationally, a
 genuine methodological reference for civic comparison generally.
+
+// adjustments
+
+// visions
 
 ### The Capital Designation's First Anniversary, Marked Nationally for the First Time
 
@@ -440,6 +548,10 @@ national attention — the acknowledgments arrived unprompted, from cities whose
 McMurdo ranged from close economic partnership to essentially none at all, each simply marking the date
 because doing so had become easy.
 
+// adjustments
+
+// visions
+
 ### The Trade Proposal Lazar Resent, This Time Confirmed Within the Hour
 
 Following the original trade proposal that had gone unanswered long enough to be assumed rejected, a similar
@@ -450,6 +562,10 @@ exchange had allowed.
 Fort McMurdo's own commercial office, per what's preserved of the record, noted the specific contrast
 directly — the same kind of proposal, between the same two cities, resolved in hours rather than the
 uncertain months the original had taken.
+
+// adjustments
+
+// visions
 
 ### The City That Finally Understood Its Own National Weight in Real Time
 
@@ -462,6 +578,10 @@ Several cities' own supply-chain planners, per what's preserved of the period, b
 real-time production data directly in their own planning — the same quiet, undeniable gravity the city had
 always held, now simply visible to everyone at once rather than inferred city by city as it always had been
 before.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -477,6 +597,10 @@ A comparable coordination attempt with Casey, well outside the subnet, had to be
 left largely fixed once agreed — any mid-course correction would have arrived, by letter, well after the
 window to actually act on it had closed.
 
+// adjustments
+
+// visions
+
 ### The Apprentice Troll Trained Without Meeting Fort McMurdo's Foreman
 
 An industrial apprentice sent to Troll for cross-training communicated with Fort McMurdo's own foreman almost
@@ -486,6 +610,10 @@ line — an arrangement that worked only because Scott itself sat inside the sam
 A separate apprentice sent to Lazar had no equivalent intermediary — correspondence with the home foreman
 moved directly by mail, considerably slower, and Fort McMurdo's own foreman had no way to check in on progress
 except by waiting for the apprentice's own scheduled letters.
+
+// adjustments
+
+// visions
 
 ### The Safety Standard Casey Adopted Without Ever Meeting Its Author
 
@@ -497,6 +625,10 @@ Scott's own subnet-internal conversations had already worked through.
 Scott's own version of the same standard, meanwhile, kept evolving in small ways well after the document
 Casey received had already been finalized — a living standard for one city, a fixed one for the other.
 
+// adjustments
+
+// visions
+
 ### The Trade Proposal Lazar Left Fort McMurdo Waiting Long Enough to Worry
 
 A trade proposal sent to Lazar went unanswered long enough that Fort McMurdo's own negotiators began drafting
@@ -506,6 +638,10 @@ anxiety only possible because no faster channel existed to simply ask.
 A comparable proposal extended to Scott over the subnet's own line received an immediate acknowledgment even
 before a full answer was ready — a small courtesy, functionally impossible across the subnet boundary, that
 nonetheless spared Fort McMurdo's negotiators the same uncertainty entirely.
+
+// adjustments
+
+// visions
 
 ### The Comparison Troll Only Ever Heard About After the Fact
 
@@ -518,6 +654,10 @@ Fort McMurdo's own planners, per a surviving note, hadn't intended to exclude Tr
 comparison had simply moved at the speed of the subnet's own line, with no obvious moment to pause and loop
 in a city that could only be reached the slow way.
 
+// adjustments
+
+// visions
+
 ### The Industrial City That Hadn't Yet Learned It Was the Center of Anything
 
 Fort McMurdo's own pre-Tower character — a genuinely significant industrial city, but not yet the capital its
@@ -528,3 +668,7 @@ Outside the subnet, Fort McMurdo was simply one industrial city among several, i
 utterly invisible — a fact its own civic planners, per a surviving reflection, found almost funny in
 retrospect: the gravity had clearly already been there, waiting on nothing but a faster way for the rest of
 the country to notice it.
+
+// adjustments
+
+// visions

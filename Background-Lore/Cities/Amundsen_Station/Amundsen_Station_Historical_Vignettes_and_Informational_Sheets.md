@@ -40,6 +40,10 @@ only in the comparison — a specific, small piece of evidence for how Tepenia's
 gradually changed shape over the Second Interwar Period, preserved by accident in a document nobody wrote
 with that comparison in mind.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Dispute Neither Subnet Would Formally Drop
@@ -58,6 +62,10 @@ the space in later rotations, per what's preserved of their own handoff notes, r
 still-unsettled business rather than a closed case — a specific, real historical dispute that occupied the
 station's own most consequential room repeatedly, and whose actual substance is preserved only in fragments
 that don't quite add up to a full account.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -78,6 +86,10 @@ placed the object once it finally arrived, per what's remembered of the occasion
 worth mentioning alongside the object — a small, specific reminder of just how far some contributions to the
 Wall actually had to travel.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Reconciliation That Took a Rotation to Finish
@@ -96,6 +108,10 @@ produced the mismatch. The resolved reconciliation, once complete, included a no
 explaining the specific convention difference — a small, practical addition to the archive's own working
 methodology, added specifically so no future crew would need to spend a full rotation solving the same
 puzzle twice.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -116,6 +132,10 @@ own atmosphere, occasionally added their own short notes alongside it over time,
 practice that gave the otherwise purely functional transit space a quiet, accumulated layer of personal
 presence distinct from everything else at the station.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Sunrise Crews Stopped What They Were Doing For
@@ -134,6 +154,10 @@ return simultaneously from every direction at once, then returned to the demandi
 them. The specific decision to pause for it, made under genuine pressure not to, is remembered, within the
 station's own informal culture, as exactly the kind of small, deliberate choice that kept the observance
 alive across generations of otherwise purely functional rotations.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -154,6 +178,10 @@ own failure, at this stage, would have meant rebuilding a core component inside 
 essentially complete. The mechanism held through every incremental trial. Nobody on the crew treated the
 eventual full-scale readiness as a foregone conclusion until the numbers actually confirmed it.
 
+// adjustments
+
+// visions
+
 ### The Cable and the Relay, Sharing a Foundation
 
 *(Shortly before completion.)* The tower's own tether infrastructure — the space elevator cable running from
@@ -170,6 +198,10 @@ would eventually take both systems down together, began here simply as a practic
 one facility, two critical systems, built at the same time in the same place because building them separately
 would have cost more than it saved.
 
+// adjustments
+
+// visions
+
 ### The Mediation Space's Own Last Ordinary Use Before Everything Changed
 
 *(Shortly before completion.)* The station's dedicated neutral mediation space — already established as the
@@ -185,6 +217,10 @@ consequential cases. Whatever the delegates actually settled that session became
 the operating framework already in place rather than something worked out from scratch under the added
 pressure of a system already running.
 
+// adjustments
+
+// visions
+
 ### The First Signal Sent Through All Six at Once
 
 *(Shortly after activation.)* The Arcanet relay's own first activation carried a message from Amundsen Station
@@ -198,6 +234,10 @@ station's own established preference for functional record over performance. Cre
 per what's remembered of it, describe the moment less as celebration than as held breath finally released —
 the same incremental, trial-by-trial caution that had governed the flywheel's own final calibration extended
 to the relay's own first live activation, tested rather than assumed to simply work.
+
+// adjustments
+
+// visions
 
 ### The First Cargo the Tower Actually Moved
 
@@ -213,6 +253,10 @@ monitored as though it might still reveal a problem the smaller calibration tria
 The shipment completed exactly as designed, the first of what became, over the Tower's own operational years,
 the primary function the whole facility actually existed to perform.
 
+// adjustments
+
+// visions
+
 ### The Framework the Mediation Space Didn't Have to Rebuild
 
 *(Shortly after activation.)* The provisional inter-subnet coordination framework worked out in the mediation
@@ -227,3 +271,7 @@ questions that followed. Mediators who'd worked the earlier session, per what's 
 treated this as confirmation of the space's own established value: getting ahead of a dispute before the
 system generating it was actually running had spared everyone the harder task of negotiating a framework while
 already depending on one.
+
+// adjustments
+
+// visions

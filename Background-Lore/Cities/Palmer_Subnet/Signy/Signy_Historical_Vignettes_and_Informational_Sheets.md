@@ -41,6 +41,10 @@ Endurance's actual historic route. The vote wasn't unanimous, but decisive enoug
 proposal was raised again. The bridge has carried the name since, tying Signy's own strongest civic-spiritual
 thread to the single physical structure two islands' worth of daily life actually depends on.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What van Zyl-Osei Found in the Wildlife Territories
@@ -61,6 +65,10 @@ The adjusted platform locations, decades later, are simply how the fishing route
 know the routing traces back to one researcher's own multi-year survey rather than always having been laid
 out that way.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Platform Ferreira-Whitcombe Almost Gave Up On
@@ -80,6 +88,10 @@ season since. The Platforms that resulted are, today, simply established civic i
 failed prototypes that nearly ended the project entirely aren't part of how most residents understand their
 own city's fishing economy.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Season the First Ship Didn't Come
@@ -98,6 +110,10 @@ noticeably more relieved than any ordinary year's observance. That specific year
 informally, whenever residents discuss how much the Long Watch's own patient character actually gets tested
 in practice rather than simply performed as ritual.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Crossing Timed to the Anniversary
@@ -115,6 +131,10 @@ observance a weight it didn't usually carry. Nobody was endangered — the cross
 bridge structurally sound regardless of conditions — but that specific year's Passage is remembered as the
 one time the observance's own honoring of endurance felt less like commemoration and more like a genuine,
 if minor, taste of what was actually being honored.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -136,6 +156,10 @@ season, exactly the kind of dependable local power the wind-and-hydro system was
 abandoned original site is, per informal accounts, still occasionally pointed out by longtime residents as
 where Signy's power system almost went, and didn't.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -154,6 +178,10 @@ every time. Whatever the Tower's own engineers actually took from the visit isn'
 preserved of it. What locals remembered afterward was simpler: a city that had solved its own small, local
 version of a problem now found strangers traveling considerable distance specifically to ask how.
 
+// adjustments
+
+// visions
+
 ### The Crossing the Endurance Span Was Never Designed For
 
 *(Shortly before the Tower's completion.)* The Endurance Span, ordinarily carrying Signy's own ordinary
@@ -167,6 +195,10 @@ Span had been built, and maintained, to standards that had never been genuinely 
 and held the unfamiliar load the same steady way it had held everything since its own naming. The bridge that
 two islands' worth of daily life depended on turned out, for one unplanned stretch, to be something a
 considerably larger project depended on too.
+
+// adjustments
+
+// visions
 
 ### The Order the Fishing Crews Filled Without Knowing Why
 
@@ -182,6 +214,10 @@ correctly, without needing the full context to do the job well. The order was th
 request the Platforms had filled to date. Nobody at Signy learned, at the time, exactly what it had helped
 feed.
 
+// adjustments
+
+// visions
+
 ### The Ship That Didn't Need the Long Watch Anymore
 
 *(Shortly after the Tower's completion.)* The Long Watch — the observance built entirely around patient,
@@ -195,6 +231,10 @@ nobody could have in advance. The gathering happened anyway, largely unchanged �
 some genuine debate, that the Long Watch had never really been about uncertainty for its own sake, but about
 the community standing together to receive what patience eventually delivered. Knowing the outcome in advance
 turned out not to be the same thing as not wanting to be there for it.
+
+// adjustments
+
+// visions
 
 ### The Passage Signy Shared With Strangers for the First Time
 
@@ -210,6 +250,10 @@ beyond the bridge in mind. Nothing about the observance's own practice changed t
 awareness. What changed was simply that, for the first time, people elsewhere in the country knew the Endurance
 Span had a name, and why.
 
+// adjustments
+
+// visions
+
 ### The Message That Finally Didn't Have to Work For It
 
 *(Shortly after the Tower's completion.)* Signy's own established difficulty reaching Concordia — a connection
@@ -223,6 +267,10 @@ to disbelief — a task that had always demanded real effort, patience, and ofte
 requiring none of those things at all. Signy's own radio infrastructure wasn't retired or replaced; the older,
 harder-won connection remained exactly as reliable, and exactly as difficult, as it had always been. What
 changed was that, for the first time, difficulty was a choice rather than the only option Signy actually had.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -243,6 +291,10 @@ inform. The visit produced no dramatic new insight for Signy's own power system.
 the relationship, turning a one-directional consultation into something closer to an actual exchange between
 peers.
 
+// adjustments
+
+// visions
+
 ### The Wind Data Vostok Requested for a Reason Signy Never Learned
 
 Vostok's own cold-tolerant biological research, already reaching Kunlun's extreme-environment engineering
@@ -256,6 +308,10 @@ coastal wind data from the mildest climate in the Palmer subnet. Signy's own eng
 same practical instinct that governed most of the city's own outside correspondence. What Vostok actually
 needed the data for was never explained, and Signy's own staff, per what's recalled of the exchange, didn't
 particularly need it explained to consider the request worth answering in full.
+
+// adjustments
+
+// visions
 
 ### The Turbine Survey Princess Elisabeth Finally Got to Compare
 
@@ -271,6 +327,10 @@ either learning it from the other. Signy's own engineers, per what's preserved o
 confirmation genuinely satisfying — proof that two cities that had never spoken to each other before that
 specific exchange had nonetheless solved the same problem exactly the same way.
 
+// adjustments
+
+// visions
+
 ### The Comparison Rothera Finally Ran With the Other Survivor
 
 Rothera and Signy — the only two Palmer subnet cities to come through the Long Night War intact or
@@ -285,6 +345,10 @@ anything about how it currently operated. Both, per what's recalled of the conve
 simply in confirming that the other understood exactly what surviving relatively intact had actually meant, in
 a way no untested city could fully appreciate.
 
+// adjustments
+
+// visions
+
 ### The Quiet-City Correspondence Scott Started First
 
 Scott and Signy — both established as the smaller, quieter city in a subnet otherwise defined by a louder
@@ -298,6 +362,10 @@ own attention gravitated elsewhere. Neither city's own civic character changed a
 itself, unprompted and entirely informal, was the first time either city had ever had another Tepenian
 settlement confirm it understood that specific, quiet position from genuine first-hand experience rather than
 outside observation.
+
+// adjustments
+
+// visions
 
 ### The Engineering Question Kunlun Sent Back a Full Season Later
 
@@ -314,6 +382,10 @@ when the original question was first left unresolved, confirmed a specific maint
 Signy's own turbine crews adopted afterward — proof that a connection formed once didn't have to end the
 moment the original visit itself concluded.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 4 — What Stayed Inside the Subnet, and What Had to Travel
@@ -329,6 +401,10 @@ had already documented in an unrelated context — a connection made within a si
 attempted against any subnet-external engineering archive instead, would have required months of written
 correspondence just to establish whether the other city even had comparable data worth comparing.
 
+// adjustments
+
+// visions
+
 ### The Wind Data Vostok Requested by Letter, Not by Wire
 
 Vostok's own cold-tolerant biological research, curious about Signy's own power system as an unrelated
@@ -341,6 +417,10 @@ traveled the same long route in the opposite direction. Vostok's own researchers
 answer, eventually, to a question that would have taken a single conversation had the two subnets simply been
 connected already.
 
+// adjustments
+
+// visions
+
 ### The Turbine Survey Princess Elisabeth Could Only Send in Writing
 
 The comparative engineering exchange between Signy's own wind-and-hydro system and Princess Elisabeth's own
@@ -351,6 +431,10 @@ A specific round of comparative performance figures, per what's preserved of the
 two years to complete — each set of data mailed, reviewed, and answered months later, a research pace neither
 city's own engineers ever described as unusual, simply as how a cross-subnet engineering exchange worked
 before any faster option existed.
+
+// adjustments
+
+// visions
 
 ### The Civic-Temperament Letter Scott Answered With Genuine Recognition
 
@@ -364,6 +448,10 @@ described as unexpected warmth — a genuine, if slow-arriving, sense of civic k
 had never had any prior reason to correspond at all, sustained afterward through an occasional letter
 exchanged perhaps once a year.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Studied Rothera's Vaults in an Afternoon
 
 A Signy engineering team, curious about Rothera's own underground vault sections as a possible reference for
@@ -376,6 +464,10 @@ facilities, was never attempted at all during this period — the distance and t
 to arrange logistics in advance making a comparable subnet-external trip simply impractical for a team that
 size, however useful the visit might have been.
 
+// adjustments
+
+// visions
+
 ### The Manifest Kunlun Never Saw Until the Crate Arrived
 
 A shipment of replacement turbine components, ordered from Rothera's own manufacturing floor and confirmed
@@ -387,6 +479,10 @@ the full order, took the opposite path entirely — a written request, an uncert
 arrived weeks later with no advance notice of its own departure. Signy's own logistics office, per what's
 remembered of the period, simply planned around both timelines as a matter of course: fast from inside the
 subnet, slow from anywhere else.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -402,6 +498,10 @@ Signy's own logistics office, per what's preserved of the record, noted the chan
 the same kind of quiet, practical adjustment the city applied to everything else, simply absorbing a genuine
 improvement into its own routine rather than treating it as remarkable.
 
+// adjustments
+
+// visions
+
 ### The Cold-Tolerance Data Vostok Sent Without Being Asked Twice
 
 Following the original wind-data request to Vostok, a second, considerably more detailed data set arrived
@@ -413,6 +513,10 @@ said so plainly in their own reply — Vostok's own researchers, per what's reme
 noted that sharing it cost them nothing now that the channel existed, the same quiet generosity the original
 consultation had shown in a different form.
 
+// adjustments
+
+// visions
+
 ### The Reliability Document Princess Elisabeth Finally Finished, With Signy's Help
 
 Building on the multi-year correspondence and the jointly authored reliability standard already reached with
@@ -423,6 +527,10 @@ The completed document, per what's preserved of its own history, became a genuin
 both cities' own engineering staff cited afterward — the actual conclusion to a correspondence that had begun
 years earlier and, until the relay existed, had never quite managed to finish itself properly.
 
+// adjustments
+
+// visions
+
 ### The Second Visit Rothera's Engineers Made, This Time Bringing Their Own Data
 
 Following the in-person visit that confirmed the earlier data-based survival comparison, Rothera's own
@@ -432,6 +540,10 @@ specifically for a joint follow-up study, rather than simply reviewing what alre
 The second study, per what's preserved of its own record, extended the original comparison considerably
 further than the first visit had — the two Palmer subnet survivor-cities building what had begun as a single
 data comparison into something closer to an ongoing joint research relationship.
+
+// adjustments
+
+// visions
 
 ### The Correspondence With Scott That Finally Became a Real Friendship
 
@@ -445,6 +557,10 @@ correspondence finally becoming what it had always almost been — a genuine ong
 people representing two cities that had always understood each other, now simply able to talk as often as
 they actually wanted to.
 
+// adjustments
+
+// visions
+
 ### The Power System Cited as a National Case Study for the First Time
 
 Once national engineering comparison became genuinely possible, Signy's own wind-and-hydro power system was
@@ -456,6 +572,10 @@ Signy's own engineers, per what's preserved of the period, found the recognition
 making much of it publicly — the same understated response the city gave to most things, even as its own
 quiet, decades-long engineering discipline became, for the first time, something the rest of the country
 actually knew by name.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -472,6 +592,10 @@ The same category of anomaly, raised separately with Vostok by letter, required 
 out a full mail cycle before receiving even an acknowledgment that the question had been understood correctly
 — let alone an actual comparative answer.
 
+// adjustments
+
+// visions
+
 ### The Delegation That Planned Its Own Trip Around Rothera's Weather
 
 A Signy delegation traveling to Rothera to study its own decentralized production sites in person coordinated
@@ -482,6 +606,10 @@ otherwise.
 A comparable planned visit to Princess Elisabeth had no such coordination available — the delegation departed
 on a fixed schedule set weeks earlier, arriving to find conditions considerably worse than expected, with no
 way the two isolated stations could have adjusted the timing together in advance.
+
+// adjustments
+
+// visions
 
 ### The Wind-Load Comparison Vostok Sent in Careful, Deliberate Pieces
 
@@ -494,6 +622,10 @@ The identical category of comparison, run informally with Rothera over the subne
 continuous, iterative conversation instead — revised, argued over, and refined in real time rather than
 assembled from finished pieces sent one at a time.
 
+// adjustments
+
+// visions
+
 ### The Question Scott Answered With More Patience Than Speed
 
 A civic-temperament inquiry from Scott, comparing its own quiet, uncredited character against Signy's, took
@@ -503,6 +635,10 @@ hurry, the slowness of the exchange matching, if anything, the unhurried tone of
 Rothera, raising a related question over the subnet's own line, received an equally careful answer inside a
 single afternoon — the same deliberate thoughtfulness Signy brought to everything, simply delivered at a
 different speed depending on which line carried it.
+
+// adjustments
+
+// visions
 
 ### The Manifest Kunlun Received Without a Single Follow-Up Question
 
@@ -514,6 +650,10 @@ A comparable shipment to Rothera, tracked and confirmed over the subnet's own in
 received the same careful preparation but with the added, genuinely useful benefit of knowing immediately that
 everything had arrived exactly as intended — a confirmation Kunlun's own distance simply didn't allow.
 
+// adjustments
+
+// visions
+
 ### The Margin That Stayed Careful Regardless of How Far Word Had to Travel
 
 Signy's own small, isolated character meant its habits of careful, self-sufficient planning applied uniformly
@@ -524,3 +664,7 @@ What changed, consistently, was only how quickly Signy could learn whether that 
 succeeded — near-instant confirmation with Rothera, and the ordinary, unhurried patience of the mail for
 Kunlun, Vostok, Princess Elisabeth, and Scott, a patience the city's own temperament, per its own records,
 seemed to find no particular hardship in extending.
+
+// adjustments
+
+// visions

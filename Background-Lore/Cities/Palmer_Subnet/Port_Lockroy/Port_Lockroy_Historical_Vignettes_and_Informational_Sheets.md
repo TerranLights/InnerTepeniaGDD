@@ -40,6 +40,10 @@ and unsoftened. Residents citing the Wall's own credibility today point to that 
 than any other as proof the tradition actually does what it claims: no year gets smoothed over, including the
 ones nobody particularly wanted remembered.
 
+// adjustments
+
+// visions
+
 ---
 
 ## What Old Toby Left Unfinished
@@ -56,6 +60,10 @@ ultimately confirmed rather than disproved. What makes the connection genuinely 
 that a visitor can trace both halves of the same story in one walkable space — the workshop where the stone
 was shaped, and the wall it slowly became, one panel added faithfully every year for as long as Old Toby
 himself was able, and by others, unbroken, ever since.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -77,6 +85,10 @@ settlement chose anyway. Every subsequent layer built onto the site inherited th
 Communal Stone Wall's own "account for the past rather than paper over it" character tracing back to this one
 specific, deliberately inconvenient decision made before the Wall itself existed.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Parcel Nobody Marked as Unusual
@@ -96,6 +108,10 @@ now only because of what the destination later became — a small, quiet illustr
 Lockroy's own postal history moved through the network completely unremarked upon, significant only in
 hindsight, if ever.
 
+// adjustments
+
+// visions
+
 ---
 
 ## The Boat That Waited Out the Storm Everyone Else Couldn't
@@ -113,6 +129,10 @@ freight proving exactly what a small vessel needed when the open coast turned da
 account of the crossing, retold among small-craft traders afterward, became part of why Port Lockroy's own
 reputation as reliable shelter — not just a postal stop, but genuinely useful refuge — spread among crews who
 worked the Peninsula's more exposed waters.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -134,6 +154,10 @@ formalized generations later as a civic observance, still traces directly back t
 a practical safety measure that a small, exposed settlement decided was worth keeping even once it stopped
 being strictly necessary.
 
+// adjustments
+
+// visions
+
 ---
 
 ## Batch 2 — Shortly Before and After the Amundsen Tower's Completion
@@ -154,6 +178,10 @@ significant only in hindsight if ever, the same quiet anonymity that had always 
 through Port Lockroy's own hands. A city that moved words, not materials, turned out to be exactly what a
 project this large still needed, even if nobody at either end particularly noticed the fit at the time.
 
+// adjustments
+
+// visions
+
 ### The Panel Nobody Was Sure How to Carve
 
 *(Shortly before the Tower's completion.)* The Communal Stone Wall's own discipline — a new panel added each
@@ -170,6 +198,10 @@ actually about. The panel that was ultimately carved split the difference — a 
 "more letters than the Relay had ever carried before," true to what Port Lockroy itself had actually
 experienced, without claiming to understand or record the larger thing it was part of.
 
+// adjustments
+
+// visions
+
 ### The Watch Kept Over Something Nobody Could See
 
 *(Shortly before the Tower's completion.)* Founders' Watch, the night-vigil tradition tracing back to a
@@ -183,6 +215,10 @@ always called for, made more relevant than usual by the volume of vessels moving
 overnight. Nothing dramatic came of the watch that stretch. What residents noted afterward, informally, was
 how naturally the observance had slipped back into something closer to its own founding purpose — a ceremonial
 tradition briefly, genuinely useful again, the same way it had been the very first time.
+
+// adjustments
+
+// visions
 
 ### The Night Old Toby's Doubt Finally Had an Answer
 
@@ -201,6 +237,10 @@ Relay kept running. Nothing about that particular night ended what Port Lockroy 
 for the first time, exactly what the physical courier network had always offered that nothing faster ever
 quite could.
 
+// adjustments
+
+// visions
+
 ### The First Entry the Wall Ever Owed to Somewhere Else
 
 *(Shortly after the Tower's completion.)* The Communal Stone Wall received a panel, that year, carved not to
@@ -215,6 +255,10 @@ the settlement, not merely what happened inside it. The panel was carved, unders
 honest entry in a chronicle that had never smoothed over an inconvenient year and, this time, didn't shy away
 from an unusually large one either.
 
+// adjustments
+
+// visions
+
 ### The Warning That Reached the Next Harbor Before the Storm Did
 
 *(Shortly after the Tower's completion.)* Word of a severe weather system bearing down on the open Peninsula
@@ -228,6 +272,10 @@ that had chosen the detour deliberately, in advance, rather than discovering the
 sudden necessity the way the earlier storm-caught crew once had. The harbor's own reputation for calm water
 hadn't changed. What changed was that, for the first time, a crew in danger somewhere else on the coast could
 actually be told where safety was before they needed to find it by instinct alone.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -248,6 +296,10 @@ clearer sense of exactly how differently two cities built around the same underl
 information itself deserved careful, deliberate handling — had each chosen to organize that instinct in
 practice.
 
+// adjustments
+
+// visions
+
 ### The Panel Zhongshan's Archivists Asked to See in Full
 
 Word of Port Lockroy's own Communal Stone Wall — a new panel carved every year, honest rather than curated —
@@ -261,6 +313,10 @@ than carved honestly. Port Lockroy's own residents explained the incident in ful
 outside audience — the same account already preserved locally, now shared with archivists from a city whose
 own methodology (paper records rather than stone) had never previously had reason to compare notes with
 Port Lockroy's own physical, irreversible chronicle.
+
+// adjustments
+
+// visions
 
 ### The Preservation Standard Cape Adare Finally Requested Directly
 
@@ -277,6 +333,10 @@ maintained a comparably strict precision standard for entirely different reasons
 adopted a version of the practice for their own future documentation. It marked the first time either city's
 own preservation methodology had directly shaped the other's.
 
+// adjustments
+
+// visions
+
 ### The Correspondence Route Juan Carlos Finally Used for Something Personal
 
 Port Lockroy's own postal network, and Juan Carlos's own formal archive function, had always operated as two
@@ -289,6 +349,10 @@ an archivist who'd learned, through the two institutions' recent direct contact,
 network still handled genuinely personal mail in a way the formal channel never had. The letter reached its
 intended recipient exactly as any ordinary Port Lockroy-routed correspondence would. It marked, informally, the
 first time Juan Carlos's own staff had used Port Lockroy's network for anything beyond professional curiosity.
+
+// adjustments
+
+// visions
 
 ### The Wall That Gained a Panel About a City It Had Never Seen
 
@@ -304,6 +368,10 @@ panel didn't record either other city's own history. It recorded, in Port Lockro
 the simple realization that the impulse behind the Wall had apparently occurred to more than one Tepenian
 city independently.
 
+// adjustments
+
+// visions
+
 ### The Reference Cape Adare's Archive Now Cites
 
 Cape Adare's own heritage-documentation archive, already consulted directly for how to properly document the
@@ -317,6 +385,10 @@ similar enough, and different enough, to be genuinely useful reference points fo
 Port Lockroy's own residents, per what's recalled of learning about the citation, treated the news with the
 same understated pride the city applied to most of its own quiet achievements — pleased, without making
 particular ceremony of it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -335,6 +407,10 @@ piece of mail had passed through — a level of tracking neither office could ex
 beyond the Palmer subnet, where the same question would have gone unanswered until the letter itself either
 arrived or was declared lost.
 
+// adjustments
+
+// visions
+
 ### The Long Record Entry Zhongshan Sent Without Knowing If It Would Ever Arrive
 
 Zhongshan's own Long Record and Port Lockroy's own accounted-for-history civic instinct produced, once each
@@ -346,6 +422,10 @@ The first letter, per what's preserved of the exchange, took nearly half a year 
 enough that Zhongshan's own archivist had, by her own account, largely given up expecting a reply by the time
 one finally came. The correspondence that followed continued for years at the same unhurried pace, neither
 side ever treating the delay as reason to stop.
+
+// adjustments
+
+// visions
 
 ### The Preservation Standard Cape Adare Requested in Writing
 
@@ -359,6 +439,10 @@ methodology document rather than a simple letter — genuinely useful material t
 Cape Adare months after being mailed, became a working reference for the archive's own internal standards long
 before either city could simply compare notes directly.
 
+// adjustments
+
+// visions
+
 ### The Panel Explained Twice, Once by Post and Once in Person
 
 An early inquiry about the Communal Stone Wall's own tradition, arriving from a Janbogo subnet resident with
@@ -371,6 +455,10 @@ touching — a written answer, sent across a distance neither city's own digital
 compelling enough that its recipient chose to travel the same distance in person rather than simply accept
 the letter as sufficient.
 
+// adjustments
+
+// visions
+
 ### The Archive Cross-Reference That Took a Season to Confirm
 
 A specific historical claim in Port Lockroy's own records, referencing an event Juan Carlos's own formal
@@ -381,6 +469,10 @@ The same kind of cross-reference, attempted against Zhongshan's own Long Record 
 of a season to resolve — a written request, a search through Zhongshan's own holdings, and a reply mailed
 back across the full distance between the two subnets. Both cross-references eventually confirmed Port
 Lockroy's own original claim. Only one of them took an afternoon.
+
+// adjustments
+
+// visions
 
 ### The Courier Route Port Lockroy Never Fully Trusted
 
@@ -394,6 +486,10 @@ That caution proved warranted at least once, per what's preserved of the inciden
 correspondence to Cape Adare never arrived at all — the duplicate copy, sent weeks later once the original's
 loss was confirmed, finally completing an exchange that would have taken a single confirmed message within the
 Palmer subnet instead of two full attempts across it.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -411,6 +507,10 @@ simply the recognition that a habit built to compensate for total uncertainty no
 uncertainty itself was gone. Port Lockroy's own dispatchers, per what's remembered of the adjustment, took
 a full season to fully trust the new confirmation system before actually retiring the old one.
 
+// adjustments
+
+// visions
+
 ### The Methodology Document Juan Carlos Asked Port Lockroy to Formally Co-Author
 
 Following the earlier informal methodology comparison between the two civic memory-keeping identities, Juan
@@ -422,6 +522,10 @@ Port Lockroy's own dispatchers, per what's preserved of the project, contributed
 accounted-for-history civic instinct for the first time in a formal, citable document rather than as informal
 correspondence — the first time the city's own quiet philosophy of preservation had been written down as an
 actual methodology rather than simply practiced.
+
+// adjustments
+
+// visions
 
 ### The Long Record Entry That Finally Named Port Lockroy Directly
 
@@ -435,6 +539,10 @@ understated pride the city extended to most things — a small, permanent acknow
 complete historical record in the Mirny subnet, earned by a much smaller city's own quiet, decades-long
 preservation habit.
 
+// adjustments
+
+// visions
+
 ### The Preservation Standard That Traveled Further Than Cape Adare
 
 Following Cape Adare's own formal citation of Port Lockroy's own preservation methodology, at least two
@@ -445,6 +553,10 @@ all.
 Port Lockroy's own dispatchers, per what's preserved of the pattern, answered each request the same way they
 answered everything — plainly, without particular ceremony, extending the same discipline that had first
 been documented for one city's own benefit to whoever else found it useful.
+
+// adjustments
+
+// visions
 
 ### The Panel Explained a Third Time, This Time to Someone Who Never Had to Travel
 
@@ -458,6 +570,10 @@ a form more conversational than either the original letter or the in-person visi
 follow-up questions moving back and forth in a single sitting, the first time the tradition had ever been
 explained this interactively to someone who'd never actually seen it.
 
+// adjustments
+
+// visions
+
 ### The Personal Correspondence Habit That Became a Small National Curiosity
 
 Once national correspondence data made patterns visible that had previously only existed as anecdotes, it
@@ -469,6 +585,10 @@ directly — proof that Port Lockroy's own "living memory" identity extended wel
 something more diffuse: a genuine, quietly disproportionate role in how the whole country's people had stayed
 personally connected to each other for generations, never centrally noticed until the data itself finally
 made it visible.
+
+// adjustments
+
+// visions
 
 ---
 
@@ -484,6 +604,10 @@ The same category of parcel, continuing onward to a subnet-external recipient on
 hands, lost that visibility entirely — from Port Lockroy's own end, once the parcel crossed the subnet
 boundary, its actual fate was only ever confirmed by a return letter, if one came at all.
 
+// adjustments
+
+// visions
+
 ### The Duplicate Copy That Only Made Sense for Distant Mail
 
 Port Lockroy's own founding-era postal precaution — keeping a duplicate copy of anything irreplaceable before
@@ -495,6 +619,10 @@ A researcher's own private letters to a subnet-external contact, by contrast, we
 routine — the precaution existing specifically because Port Lockroy's own clerks had learned, through
 experience, how much could go wrong once a letter left the subnet's own reach.
 
+// adjustments
+
+// visions
+
 ### The Wall Panel Zhongshan Heard About a Season Late
 
 A Communal Stone Wall panel documenting a particularly significant year was described in detail to Juan Carlos
@@ -504,6 +632,10 @@ account against their own records almost immediately.
 Zhongshan, requesting the same account by mail after hearing a secondhand rumor of the panel's significance,
 received a full written description only a season later — the same story, told just as fully, simply arriving
 on an entirely different timeline.
+
+// adjustments
+
+// visions
 
 ### The Courier Route Cape Adare Trusted Only Once It Was Tested
 
@@ -516,6 +648,10 @@ A comparable internal route within the Palmer subnet needed no such extended tri
 confirmation, arriving instantly over the subnet's line, let Port Lockroy validate a new internal procedure in
 a fraction of the time a cross-subnet route required.
 
+// adjustments
+
+// visions
+
 ### The Preservation Standard That Reached Two Cities on Two Different Clocks
 
 Port Lockroy's own preservation methodology, refined constantly through informal exchange with Juan Carlos
@@ -525,6 +661,10 @@ Juan Carlos incorporating small improvements almost as soon as Port Lockroy's ow
 Cape Adare, requesting the same standard, received only the finished, formally written version — a snapshot
 of a process that had actually kept changing after the letter carrying it was already in transit, meaning
 Cape Adare's own copy was, in a small but real sense, already slightly out of date the moment it arrived.
+
+// adjustments
+
+// visions
 
 ### The Living Memory That Circulated Fastest Closest to Home
 
@@ -537,3 +677,7 @@ The same role, extended to Zhongshan or Cape Adare, remained just as diligent bu
 Lockroy's own record-keepers, per a surviving internal note, understood this not as a limitation of the
 city's own commitment but simply as the honest shape of what a relay point could actually promise once
 distance and a subnet boundary were both involved.
+
+// adjustments
+
+// visions
