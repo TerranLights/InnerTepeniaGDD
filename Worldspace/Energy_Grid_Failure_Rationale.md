@@ -31,7 +31,7 @@ A common player question will be: why hasn't Concordia simply repaired the faili
 
 ## 6. Hidden Systemic Issues ("The Cancer in the System")
 - Micro-fractures and corrupted control AIs run throughout the entire grid. Fixing surface problems often awakens deeper, more dangerous failures.
-- Parts of the grid have become semi-sentient or corrupted by Arcanet data bleed — "fixing" them risks creating rogue subsystems.
+- Parts of the grid run automated control AIs that have gone rogue from corrupted data feeds pulled through the fractured, post-Split-Brain Arcanet — "fixing" them risks reactivating subsystems that no longer behave predictably.
 - Some factions (especially The Markets and certain Scorpio (TBN) elements) actively sabotage full repairs because they profit from the current instability.
 
 ## 7. Philosophical / Existential Resistance

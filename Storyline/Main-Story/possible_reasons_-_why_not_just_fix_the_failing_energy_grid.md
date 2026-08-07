@@ -24,7 +24,7 @@
 * “Modern” repair attempts using current tech often make the problem worse because they don’t properly interface with the ancient core systems.
 ##### 6. Hidden Systemic Issues (The “Cancer in the System”)
 * There are micro-fractures and corrupted control AIs running throughout the entire grid. Fixing surface problems often awakens deeper, more dangerous failures.
-* Parts of the grid have become semi-sentient or corrupted by Arcanet data bleed — “fixing” them risks creating rogue subsystems.
+* Parts of the grid run automated control AIs that have gone rogue from corrupted data feeds pulled through the fractured, post-Split-Brain Arcanet — “fixing” them risks reactivating subsystems that no longer behave predictably.
 * Some factions (especially TBN Black Market and certain Scorpio elements) actively sabotage full repairs because they profit from the current instability.
 ##### 7. Philosophical / Existential Reasons
 * Some groups (especially Goths and Frost Ascetics) believe the failing grid is nature’s (or death’s) judgment and should not be fully defied.
