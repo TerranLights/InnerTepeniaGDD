@@ -14,14 +14,21 @@ note) once resolved — this file is a working tracker, not a replacement for ei
 
 ## Foundational — shape a lot of what comes after them
 
-### [ ] What "build" actually consists of, beyond the two seed modules /// ESSENTIAL
+### [ ] What "build" actually consists of, as its own concept distinct from Personality /// ESSENTIAL
 
-The Personality Module and Language Module are confirmed as the programmed content at build time. A
-partial lead already on hand: builds happen "according to their own interests, not per human commission" —
-ruling out a neutral commissioning process and implying self-motivated, robot-driven initiation. Still
-open: **who *specifically* initiates a given build** (solo decision, collective decision, something else),
-and **what else gets decided during one** (physical/aesthetic design, any functional specialization). This
-is the single most load-bearing open item — several other items below depend on it.
+**Corrected 2026-08-06 — Build and Personality are not the same thing and must not be treated as one
+concept.** Personality (the Personality Module) is the separate psychological seed — a partially-specced,
+partially-randomized conceptual-weighting that determines values-orientation tendencies (see
+`Robot_Physiology_and_Cultural_Practices.md`). Build is the physical and circumstantial side: physical
+construction (height, general build/"bulkiness," aesthetic design) and the circumstances of creation. A
+partial lead already on hand: builds are predominantly driven by *local interests* — a local robot
+community's own need or want, not any single robot's personal whim, and not human commissioning either
+(though that hasn't vanished as a possibility); body type is statistically weighted per locality, not
+fixed. This also means build is tied to locality, not independent of it the way Gen/Mark is — see the
+cultural-boundary item, below. Still open: **who *specifically* initiates a given build within a local
+community** (solo decision, collective decision, something else), and **what else, beyond physical
+construction and creation circumstances, a build might involve** (any functional specialization, for
+instance). This is the single most load-bearing open item — several other items below depend on it.
 
 **Notes:**
 
@@ -32,12 +39,14 @@ TBD
 ### [ ] The kinship analogue's actual shape /// ESSENTIAL
 
 Build is confirmed as the stronger candidate axis than Gen/Mark for this — but "build is the right axis"
-isn't yet an actual answer. A partial lead already on hand: since builds happen because some robot(s)
-specifically *wanted* to bring this one into existence (not a neutral commission process), that's a
-plausible seed for an emotionally-loaded maker/made bond, closer to "I chose to bring you into being" than
-"an order was processed." Still open: does something like a mentor/mentee bond, a maker/made bond, or pure
-found-family end up filling the kinship role, in full? (Depends partly on the item above — you can't fully
-answer "who built you and how" as a kinship basis until "build" itself has more complete content.)
+isn't yet an actual answer. A partial lead already on hand, **corrected 2026-08-06:** since builds happen
+because a *local robot community* specifically wanted to bring this one into existence (not a neutral
+commission process, and not an individual robot's personal whim), that's a plausible seed for an
+emotionally-loaded maker/made bond — though a *communal* one, closer to "your community chose to bring you
+into being" than a one-to-one parent-style bond. Still open: does something like a mentor/mentee bond, a
+communal maker/made bond, or pure found-family end up filling the kinship role, in full? (Depends partly on
+the item above — you can't fully answer "who built you and how" as a kinship basis until "build" itself has
+more complete content.)
 
 **Notes:**
 
@@ -50,7 +59,13 @@ TBD
 Does robot cultural identity track the existing 35-city structure one-to-one, or does build (or Gen/Mark,
 at lower weight) deserve to be a genuinely separate, cross-cutting axis layered on top of city identity —
 the way humans simultaneously hold national, regional, and generational identity at once? Flagged
-repeatedly as the single biggest fork in the whole framework. (Also depends on the "build" item above.)
+repeatedly as the single biggest fork in the whole framework. **Sharpened and complicated, 2026-08-06:**
+since build turns out to be locally driven rather than individually driven, a shared-build identity would
+plausibly track *with* city/locality rather than cut across it — the opposite of what was originally
+assumed. That leaves Gen/Mark as the axis that's actually structurally city-independent, even though it
+carries less cultural weight than build. Whether a felt in-group identity can form around a lower-weight
+fact like Gen/Mark, or whether robot cultural boundaries just track city lines after all, is the sharper
+version of this question now. (Also depends on the "build" item above.)
 
 **Notes:**
 

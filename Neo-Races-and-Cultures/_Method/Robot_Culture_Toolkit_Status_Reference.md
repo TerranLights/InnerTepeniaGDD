@@ -42,11 +42,28 @@ city/build/Gen variation gets layered on:
   robots' established "things that go wrong" already fully account for that territory — gradual component
   degradation (the aging-analogue) and corruption events like Calethina's Split Brain (the
   mortality-analogue) — with no third slot left over for something disease-shaped.)
-- **Only two things are ever programmed into a robot at build time** — a Personality Module (randomized,
-  roughly Enneagram-spec-like) and, where applicable, a Language Module. Everything else about a robot's
-  personality, values, morality, and social convention is **emergent**, developed through lived experience.
-  *(Confirmed 2026-08-06 — resolves what was previously this framework's single biggest open question:
-  robot cooperation and social structure are not designed in.)*
+- **Three separate things get set at fabrication — Personality, Build, and Language — never to be treated
+  as one concept or as sub-parts of each other.** *(Corrected 2026-08-06 — this list previously conflated
+  Personality and Build.)*
+  - **Personality (the Personality Module)** — the psychological seed: a partially-specced,
+    partially-randomized conceptual-weighting that determines values-orientation tendencies, roughly
+    Enneagram-spec-like. The specced portion is always partial, by law — a political safeguard, not a
+    technical limit: a fully designed mind would deny the robot meaningful free will and place the builder
+    in a position of power over them, which Tepenia's Egalitarian character doesn't tolerate. Contrast:
+    Upper Earth's First Interwar Period (2083-2564) allowed full-specification personality commissioning,
+    no randomization required, with those robots still fully conscious and sentient regardless — Tepenia's
+    rule is a deliberate, later correction. Beyond this partial seed, everything about a robot's
+    personality, values, morality, and social convention is **emergent**, developed through lived
+    experience — resolves what was previously this framework's single biggest open question: robot
+    cooperation and social structure are not designed in.
+  - **Build** — the physical and circumstantial side, a genuinely separate axis from Personality: physical
+    construction (height, general build/"bulkiness," aesthetic design) and the circumstances of creation.
+    Builds are predominantly driven by *local interests* — a local robot community's own need or want, not
+    any individual robot's personal whim, and not human commissioning either (though that hasn't vanished
+    as a possibility); body type is statistically weighted per locality, not fixed. Build is tied to
+    locality, not independent of it the way Gen/Mark is — see Section 3, below.
+  - **Language (the Language Module)** — a fully separate, third phenomenon; see the vernacular-language
+    bullet above.
 - **Robots treat sex as the highest available expression of trust, faith, and commitment** — not, as it
   functions for humans, as a means toward producing a child. *(Confirmed 2026-08-06 — resolves robot sexual
   jealousy's root cause: a New Universal, not an inherited paternity-uncertainty pressure. Gives the game's
@@ -62,7 +79,9 @@ just "robots are different because robots":
 - **The entire reproduction/kinship/parental-investment cluster has no direct human-style referent** — no
   sexual reproduction, no genetic relatedness, no differential parental investment. Whatever fills this
   role (if anything) has to be built from robot-specific material, not ported. *(Build, not Gen/Mark, is
-  the confirmed stronger candidate to build this on — see the Open Questions Tracker for the still-open
+  the confirmed stronger candidate to build this on. Corrected 2026-08-06: since build is locally, not
+  individually, driven, any resulting bond is plausibly communal — "your community chose to bring you into
+  being" — rather than a one-to-one parent-style analogue. See the Open Questions Tracker for the still-open
   question of the analogue's actual shape.)*
 - **No biological aging, and no fixed, unchanging substrate** — age-grade systems tied to a visibly aging
   body don't transfer directly. A robot's gel brain is malleable and ever-changing, not the static "hard
@@ -80,11 +99,16 @@ just "robots are different because robots":
 A working set of non-hierarchical differentiation axes to actually generate cross-population variation
 from — Part 3's own territory, deliberately separate from the universal-floor questions above:
 
-- **Build** (a robot's own specific design/construction, and who made it and why) — the axis robots
-  themselves would emphasize most. Still needs its own content developed (see the Open Questions Tracker),
-  but it's the lead candidate for where a felt sense of distinct in-group identity would actually form.
-- **Gen/Mark** — a real, city-independent, noted age-*metacategory*, explicitly never a hierarchy, lower
-  cultural weight than build but still usable as a differentiator.
+- **Build** (a robot's own specific design/construction, and which local community made it and why) — the
+  axis robots themselves would emphasize most. Still needs its own content developed (see the Open
+  Questions Tracker). **Corrected 2026-08-06:** because build is locally driven rather than individually
+  driven, it's tied to city/locality rather than independent of it — a shared-build identity would
+  plausibly track *with* city lines, not cut across them, which complicates its earlier standing as the
+  lead candidate for a cross-cutting in-group identity (see the tracker's cultural-boundary item).
+- **Gen/Mark** — a real, noted age-*metacategory*, explicitly never a hierarchy, lower cultural weight than
+  build, but — unlike build — genuinely city-independent, since chambers ship nationwide from a small
+  number of manufacturing sites. That makes it the axis actually structurally available for a cross-cutting
+  identity, even though it's the one robots would emphasize less.
 - **City of residence, faction affiliation, founding era, local human-robot demographic mix, Arcanet
   connectivity level** — the same condition-derived logic already proven for human city culture, just
   pointed at robot populations.
@@ -107,8 +131,10 @@ See `Robot_Culture_Open_Questions_Tracker.md` for the full, checkable list with 
 anything resembling disease (no — degradation and corruption already cover that territory).
 
 **Essential:**
-- What "build" actually consists of, beyond the two seed modules (partial lead: interest-driven initiation)
-- The kinship analogue's actual shape (partial lead: a plausible maker/made bond, not yet fully specified)
+- What "build" actually consists of, as its own concept distinct from Personality (partial lead:
+  locally-driven initiation)
+- The kinship analogue's actual shape (partial lead: a plausible communal maker/made bond, not yet fully
+  specified)
 - Whether robot language keeps human-style phoneme-range constraints
 
 **Secondary:**

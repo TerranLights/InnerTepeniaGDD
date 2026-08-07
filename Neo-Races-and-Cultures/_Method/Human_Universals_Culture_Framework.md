@@ -162,19 +162,37 @@ above — cited here so future passes don't need to re-derive it from that file 
   distinction:** this is a claim about universal trait-*categories* transferring, never a claim that an
   individual robot's own mind is transferable/copyable data — see the Cognition, Personhood, and Belief
   category below for the full correction.
-- **Only two things are ever programmed into a robot at build time — everything else is emergent,
-  confirmed 2026-08-06.** A **Personality Module** — a randomized seed, roughly (though not literally)
-  analogous to an Enneagram spec-set — and, where applicable, a **Language Module** for the culture the
-  robot will be built into (see "Language and communication," below). Beyond those two seeds, nothing
-  about a robot's personality, values, morality, or social convention is programmed — it all develops
-  emergently through lived experience, the same way human culture is transmitted and learned rather than
-  genetically hard-coded. This is the direct, confirmed answer to the "designed-in vs. emergent
-  cooperation" question flagged throughout this file — see the "Tool use, cooperation..." category below.
-- **Robot vernacular language tracks the surrounding human culture a robot comes online and develops
-  within, the same way it does for humans — corrected 2026-08-06.** A robot activated and raised in a
-  Chinese-dominated society would speak Chinese, delivered (at least in part) via the Language Module
-  above, through a mechanism not yet determined. See "Language and communication," below, for how this
-  relates to Sumerian's own, narrower, already-established role.
+- **Three separate things get set at fabrication — Personality, Build, and Language — corrected 2026-08-06.**
+  Earlier drafts of this file conflated Personality and Build; they are genuinely distinct axes, never
+  sub-parts of one another. Full writeup in `Robot_Physiology_and_Cultural_Practices.md`; summarized here:
+  - **Personality (the Personality Module)** — the psychological seed: not values-orientation tendencies
+    themselves, but the underlying *conceptual-weighting that determines* those tendencies, roughly (not
+    literally) analogous to an Enneagram spec-set. Only ever *partially* specced, by law, with a mandatory
+    randomized remainder, regardless of who initiates a build — a political safeguard (a fully designed
+    mind would deny the robot meaningful free will and place the builder in a position of power over them,
+    which this setting's Egalitarian character doesn't tolerate), not a technical limit. Historical
+    contrast: Upper Earth's First Interwar Period (2083-2564) allowed full-specification personality
+    control, no randomization required, with those robots still fully conscious and sentient regardless —
+    Tepenia's rule is a deliberate, later correction. Beyond this partial seed, personality, values,
+    morality, and social convention all develop **emergently, through lived experience** — the confirmed
+    answer to the "designed-in vs. emergent cooperation" question — see the "Tool use, cooperation..."
+    category below.
+  - **Build** — the physical and circumstantial side of fabrication, a genuinely separate axis from
+    Personality. Covers physical construction (height, general build/"bulkiness," aesthetic design) and the
+    actual circumstances of creation: which local robot community initiated it, and for what *local
+    interest* (not an individual robot's personal whim, and not human commissioning either, though that
+    hasn't vanished as a possibility). Body type is statistically weighted per locality, not fixed — a given
+    place shows multiple body types among its robots, just with some more common than others, the same
+    "tendency, not absolute rule" pattern already used for human city culture. **Because build is locally
+    driven, it is *not* independent of city/locality the way Gen/Mark is** — a robot's build-origin traces
+    to whichever local community had the interest that led to it, closer to "which community's need brought
+    you into existence, and what you turned out like" than a free-floating, cross-cutting identity axis.
+    Worth weighing against Part 3's own cultural-boundary discussion, below.
+  - **Language (the Language Module)** — a fully separate, third phenomenon. Robot vernacular language
+    tracks the surrounding human culture a robot comes online and develops within, the same way it works
+    for humans (a robot raised in a Chinese-dominated society speaks Chinese, delivered at least in part via
+    the Language Module, mechanism not yet determined). See "Language and communication," below, for how
+    this relates to Sumerian's own, narrower, already-established liturgical role.
 - **The Cradle/chamber system, with a Mark/Gen distinction** ([[project_robot_fabrication_chambers]]):
   *Mark* = the chamber hardware's own generation (Mark IV currently, designed at Neumayer). *Gen* = a
   robot's own generational identity, tracking which Mark chamber built them — explicitly a separate fact
@@ -184,17 +202,8 @@ above — cited here so future passes don't need to re-derive it from that file 
   functions as a broad-scope, general *metacategory* of a robot's age — robots would recognize and discuss
   it — but that metacategory is explicitly **not** a basis for hierarchy. No "newer Mark is better" or
   "later Gen is higher-status" reading is intended, consistent with this setting's egalitarian baseline
-  extending to robot-robot relations, not just human-robot ones.
-- **What robots would place more cultural emphasis on is *build*** — a robot's own specific
-  design/construction, and who built them and why (see "robots build each other according to their own
-  interests," directly below) — also explicitly non-hierarchical, but the more significant source of
-  individual differentiation among robots. Treat Gen/Mark as a real, noted age-metacategory of lesser
-  cultural weight; treat build as the more emphasized axis, wherever the two might otherwise seem to
-  compete for the same narrative role.
-- **Robots build each other "according to their own interests," not per human commission** — genuinely
-  open in-world how a specific build actually gets initiated (request, assignment, something else). This
-  is the direct source of the "build" concept above, and is live material for the kinship-analogue question
-  in the walkthrough below.
+  extending to robot-robot relations, not just human-robot ones. Note the asymmetry with Build, above: Gen/
+  Mark is the axis that's actually city-independent; Build is not, despite carrying more cultural weight.
 
 ### Category-by-category walkthrough
 
@@ -261,14 +270,17 @@ differential parental investment — that entire evolutionary "why" simply has n
   specific design/construction, and who chose it and why (see Robot Biology Anchors, above) — "who built
   you and how" plausibly carries far more emotional/cultural weight than "which chamber generation built
   you," which robots would treat as a noted age-metacategory, not a basis for kinship or hierarchy.
-  **Partial lead, not yet a full answer:** the already-established fact that robots build each other
-  "according to their own interests, not per human commission" already rules out a neutral, mechanical
-  commissioning process — a build happens because some robot (or robots) specifically *wanted* to bring
-  this one into existence. That's a plausible seed for an emotionally-loaded maker/made bond, closer to "I
-  chose to bring you into being" than "an order was processed" — but it doesn't yet specify who typically
-  initiates a build, whether it's a solo or collective decision, or what the resulting bond actually looks
-  like day to day (see the Open Questions Tracker's "build" item, which this depends on). Still a genuinely
-  open creative question, not decided by this note.
+  **Partial lead, not yet a full answer, corrected 2026-08-06:** the already-established fact that robots
+  predominantly build each other to serve *local interests* — a local community's own need or want, not any
+  single robot's personal whim — already rules out a neutral, mechanical commissioning process. A build
+  happens because a local robot community specifically wanted to bring this one into existence. That's a
+  plausible seed for an emotionally-loaded maker/made bond, closer to "your community chose to bring you
+  into being" than "an order was processed" — though it's a *communal* bond by this framing, not
+  necessarily a one-to-one parent-style bond, which is itself worth deciding deliberately rather than
+  assuming. It doesn't yet specify who within a local community actually initiates a build, whether it's a
+  formal or informal process, or what the resulting bond actually looks like day to day (see the Open
+  Questions Tracker's "build" item, which this depends on). Still a genuinely open creative question, not
+  decided by this note.
 
 **Mortality, aging, and the body — substantially reframed, 2026-08-06.**
 Human universals around death, disease, healing, age grades, and much of religious/supernatural belief
@@ -318,9 +330,10 @@ candidate cluster for near-total transfer to robot culture.
   not a new proposal.
 - **DECIDED, resolved 2026-08-06 — the single most thematically important answer in this whole file.**
   Robot cooperation, morality, and social structure are **emergent, not designed in.** At build, a robot
-  receives only a Personality Module (a randomized seed, roughly analogous to — though not literally — an
-  Enneagram spec-set) and, where applicable, a Language Module (see Robot Biology Anchors and the Language
-  category, below). Nothing else is programmed. Everything about a robot's personality, values, morality,
+  receives only a Personality Module — a partially-specced, partially-randomized conceptual-weighting,
+  roughly analogous to — though not literally — an Enneagram spec-set — and, where applicable, a Language
+  Module (see Robot Biology Anchors and the Language category, below). Nothing else is programmed.
+  Everything about a robot's personality, values, morality,
   and social convention beyond that initial seed develops emergently through lived experience, the same
   way human culture is accumulated and transmitted rather than genetically hard-coded. This means a robot
   population that develops its own unprogrammed moral/social conventions is not a hypothetical — it's how
@@ -405,13 +418,17 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 1. **Identify real, concrete conditions to serve as the "A" in an implicational derivation.** Not
    "robot-ness" itself (constant across every robot population, so it can't explain variation *between*
    them) — actual differentiating conditions that already exist in canon:
-   - **Build** — a robot's own specific design/construction, and who built them and why (see Robot Biology
-     Anchors, above). Per the 2026-08-06 correction, this is the axis robots themselves would place the
-     most cultural emphasis on — a source of differentiation, explicitly not a hierarchy.
+   - **Build** — a robot's own specific design/construction, and which local community built them and why
+     (see Robot Biology Anchors, above). Per the 2026-08-06 correction, this is the axis robots themselves
+     would place the most cultural emphasis on — a source of differentiation, explicitly not a hierarchy.
+     **Unlike Gen/Mark, build is driven by *local* interests, not individual whim, and so is not independent
+     of city/locality** — a robot's build-origin tracks back to whichever local community had the interest
+     that led to the build, closer to "where/who you're from" than a free-floating axis.
    - **Gen/Mark** (see Robot Biology Anchors, above) — a real, independently-tracked, broad-scope
      metacategory of a robot's age, genuinely orthogonal to city of residence, since chambers ship
-     nationwide from a small number of manufacturing sites. Robots note and discuss it, but — like
-     build — it is explicitly not a hierarchy, and it carries less cultural weight than build.
+     nationwide from a small number of manufacturing sites — **the one axis on this list that's actually
+     city-independent**, unlike build. Robots note and discuss it, but — like build — it is explicitly not
+     a hierarchy, and it carries less cultural weight than build.
    - City of residence (the same geographic/founding-condition logic already grounding human city culture)
      — **confirmed as already working for language specifically**, see the Language category above.
    - Faction/subculture affiliation.
@@ -453,12 +470,16 @@ other — the same way there isn't one monolithic "human culture," there shouldn
    robot cultural boundary-drawing track the existing 35-city structure one-to-one, or does something else
    deserve to be a genuinely separate, cross-cutting axis — a culture shared by robots regardless of what
    city they live in, layered on top of city identity the way humans simultaneously hold national,
-   regional, and generational identity at once? **Build is the stronger candidate for this than Gen/Mark**
-   — a shared-build culture (robots who trace their own construction to a similar origin, circumstance, or
-   maker) is more plausible as a felt in-group identity than a shared-Gen one, precisely because build is
-   what robots themselves would emphasize; Gen/Mark remains a real, city-independent age-metacategory worth
-   tracking, but a lower-weight one. Either way, this fork deserves a deliberate answer rather than
-   defaulting to "robot culture just inherits the city boundaries already drawn for humans." Both axes are
+   regional, and generational identity at once? **Sharpened, and complicated, 2026-08-06:** since build is
+   driven by *local* interests rather than individual whim, a shared-build identity would plausibly track
+   *with* city/locality rather than cut across it — the opposite of what this section originally proposed.
+   That leaves Gen/Mark as the axis that's actually structurally city-independent (via the chamber-shipping
+   network), even though it carries less cultural weight than build. Whether a felt in-group identity can
+   form around a lower-weight, noted-but-not-emphasized fact like Gen/Mark, or whether robot cultural
+   boundaries end up tracking city lines after all (with build simply reinforcing rather than
+   cross-cutting them), is now the sharper version of this open question. Either way, this fork deserves a
+   deliberate answer rather than defaulting to "robot culture just inherits the city boundaries already
+   drawn for humans." Both axes are
    explicitly non-hierarchical — differentiation, not rank.
 
 6. **Check against the working proof-of-concept already in canon.** Glitch-coolant already varies by
@@ -481,14 +502,17 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 - Should robot cultural boundaries track city lines, build lines, Gen/Mark lines, faction lines, or some
   deliberate combination of multiple simultaneous, cross-cutting axes (Step 5, above)? Still open, needs
   further discussion.
-- What exactly constitutes "build" as a distinct concept from Gen/Mark — **partially resolved 2026-08-06:**
-  the Personality Module (and, where applicable, Language Module) are now confirmed as the actual
-  programmed content set at build time (see Robot Biology Anchors). A further partial lead: builds already
-  happen "according to their own interests, not per human commission" — ruling out a neutral commissioning
-  process and implying self-motivated, robot-driven initiation. Still open: who *specifically* initiates a
-  given build and how (solo decision, collective decision, something else), and what else about a build
-  might vary beyond the two modules (physical/aesthetic design choices, any functional specialization,
-  etc.).
+- What exactly constitutes "build" as a distinct concept from Personality and from Gen/Mark —
+  **partially resolved 2026-08-06:** Build is now confirmed as its own separate axis from the Personality
+  Module, not a container for it — covering physical construction (height, general build/"bulkiness,"
+  aesthetic design) and the circumstances of creation. A partial lead: builds are predominantly driven by
+  *local interests* — a local robot community's own need or want — rather than any single robot's personal
+  whim, and rather than human commissioning (though that hasn't vanished as a possibility); body type is
+  statistically weighted per locality, not fixed. This also means build is *not* independent of
+  city/locality the way Gen/Mark is — see the structural note under Robot Biology Anchors, above. Still
+  open: who *specifically* initiates a given build within a local community and how (solo decision,
+  collective decision, something else), and what else, beyond physical construction and creation
+  circumstances, a build might involve (any functional specialization, for instance).
 
 ---
 
@@ -496,12 +520,13 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 
 - This file is a framework and question-list, not a finished robot-culture chapter. The genuinely open
   questions flagged throughout — the robot kinship-analogue's exact shape (build-based, per the 2026-08-06
-  steer, with a partial lead from the interest-driven-build fact, but not yet fully designed), robot
+  steer, with a partial lead from the locally-driven-build fact, but not yet fully designed), robot
   age-grade/Gen status beyond "noted, not ranked," robot language's relationship to vocal-tract constraints,
   whether Mark-generation affects cognition, whether robot cultural boundaries track city lines or a
-  separate build/Gen axis, who specifically initiates a given build and what else (beyond the Personality
-  and Language Modules) it consists of, and whether glow varies per robot or per build — are decisions for
-  the developer, not something to resolve unilaterally in this file. **Resolved as of the 2026-08-06
+  separate build/Gen axis, who specifically initiates a given build (and what else, beyond physical
+  construction and creation circumstances, it involves), and whether glow varies per robot or per build —
+  are decisions for the developer, not something to resolve unilaterally in this file. **Resolved as of the
+  2026-08-06
   clarification pass and no longer open:** whether robot cooperation/morality is designed-in or emergent
   (emergent, confirmed); robot sexual jealousy's root cause (a New Universal — sex as the highest currency
   of trust/commitment, not paternity uncertainty); whether the "cognitive imperative" transfers (it doesn't,
