@@ -7,7 +7,10 @@ methodology for developing robot culture(s) — both the human/robot foundationa
 as of the 2026-08-06 update, the question of how *multiple, mutually distinct* robot cultures should be
 synthesized from each other, the same way there are multiple distinct human cultures rather than one
 undifferentiated "human culture." Written 2026-07-17; expanded 2026-08-06 with a formalized methodology
-(Parts 2 and 3) and grounding in `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`.
+(Parts 2 and 3), grounding in `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`,
+and a further 2026-08-06 developer clarification pass resolving several previously-Open items (see the
+"Cognition, Personhood, and Belief," "Reproduction, kinship, and family," "Mortality, aging, and the body,"
+"Tool use, cooperation..." and "Language and communication" categories below).
 
 **How to read the verdicts below:** every divergence item is marked **DECIDED** (already settled by
 existing canon, cited) or **OPEN** (a genuine, undecided creative question flagged for the developer —
@@ -100,10 +103,10 @@ explicit, reusable procedure, so it can be re-run against any universal not yet 
    referent, full stop, since it's specifically about asymmetric investment in genetically-related
    offspring produced via sexual reproduction.
 3. **Check the root cause, not the surface resemblance.** A trait that *looks* similar on the robot side
-   (established robot sexual jealousy, for instance — see [[project_sexuality_rules]]) needs to be checked
-   against whether it shares the *specific* mechanism Ch. 4 traces the human version to (paternity
-   uncertainty, in that example), or whether it's a "new universal" (Ch. 2's term) — same emotional shape,
-   different underlying cause.
+   needs to be checked against whether it shares the *specific* mechanism Ch. 4 traces the human version
+   to, or whether it's a "new universal" (Ch. 2's term) — same emotional shape, different underlying
+   cause. (Robot sexual jealousy is the worked example — see "Reproduction, kinship, and family," below,
+   for the resolved answer.)
 4. **Classify into one of four outcomes:**
    - **Direct Transfer** — an accident-type universal whose cause fully applies.
    - **Structural Analogue** — essence-type at the human level, but the *function* the universal served
@@ -116,8 +119,8 @@ explicit, reusable procedure, so it can be re-run against any universal not yet 
      conditions specific to robot existence.
 5. **Sort survivors into Formal/Process vs. Substantive (Ch. 2).** Ask whether the surviving universal
    operates at the *formal/process* level — a deep mechanism true of every robot population regardless of
-   city, faction, or Gen — or the *substantive* level, free to vary population to population. This is the
-   floor/variation split, and it's the direct handoff into Part 3.
+   city, faction, build, or Gen — or the *substantive* level, free to vary population to population. This
+   is the floor/variation split, and it's the direct handoff into Part 3.
 
 ### Robot biology anchors
 
@@ -129,10 +132,21 @@ above — cited here so future passes don't need to re-derive it from that file 
   structural role breathing/eating/thirst pressure plays in Ch. 4's human explanatory modes. Any universal
   Brown traces to eating/hunger/thirst pressure should get re-derived from thermal/engine-power pressure
   instead of assumed absent by default.
-- **No biological aging.** Components degrade and get maintained/replaced instead of a body visibly
-  aging. This weakens direct transfer of age-grade systems tied to visible bodily aging specifically, but
-  doesn't foreclose the *function* those systems served (see the Mark/Gen discussion below, and the
-  Mortality/Aging category in the walkthrough).
+- **No biological aging, and no "static hard drive" construction.** Components degrade and get
+  maintained/replaced instead of a body visibly aging — and, more fundamentally, the gel brain itself is
+  **malleable and ever-changing**, not the fixed, unchanging storage device a 1950s-sci-fi "robot brain"
+  is popularly imagined as. A robot is always capable of finding a new purpose in life; nothing about the
+  substrate itself locks a robot into a single fixed self the way that trope implies. This weakens direct
+  transfer of age-grade systems tied to visible bodily aging or to a fixed, unchanging identity — but
+  doesn't foreclose the *function* those systems served (see the Mortality/Aging category, below).
+- **What actually threatens a robot — corrected 2026-08-06, replaces the earlier "damage/corruption"
+  framing.** The threatening thing is not damage to *function* (a robot can always adapt, retrain, find
+  new purpose) — it's **irreversible damage to a robot's cognitive architecture (the gel brain) or to
+  their energy-source architecture** (the robot equivalent of a heart — see "Engine power" as the primary
+  energy source, above). If either is permanently destroyed, with no way of bringing the robot back
+  online, that — from the robot's own perspective — effectively **is** death. Everything short of that
+  threshold is architecture/integrity damage, not death, however serious. See the Mortality/Aging category
+  below for how this reframes Calethina's own established corruption.
 - **A genuine sensory difference, not cultural:** robots perceive sound/vibration across a meaningfully
   wider range than humans, structurally. Already the confirmed doctrinal root of Cymatics Reverence
   specifically (see `Factions/Robot_Religions/Cymatics_reverence/`), but the underlying difference is
@@ -140,28 +154,43 @@ above — cited here so future passes don't need to re-derive it from that file 
 - **The gel brain — a specific, localized physical cognitive substrate**, described and visually
   referenced as a "glowy-blue" nano-architecture gel, patterned on *Ex Machina*'s own synthesis-sequence
   aesthetic (the same reference point used for the fabrication chamber and the body's construction
-  generally). This is the single most load-bearing biology fact for the methodology: it means robot
-  cognition has a concrete, localized seat, the same structural category of thing a human brain is, rather
-  than a diffuse "processing system" with no particular location — directly relevant to Ch. 4's
+  generally). This is one of the single most load-bearing biology facts for the methodology: it means
+  robot cognition has a concrete, localized seat, the same structural category of thing a human brain is,
+  rather than a diffuse "processing system" with no particular location — directly relevant to Ch. 4's
   explanatory mode #7 ("the nature of the human organism, emphasis on the brain"), and the strongest
-  available candidate for the Formal/Process-level floor referenced in Step 5 above (see "Cognition,
-  Personhood, and Belief" in the walkthrough, and Part 3's Gen/Mark discussion).
+  available candidate for the Formal/Process-level floor referenced in Step 5 above. **Important
+  distinction:** this is a claim about universal trait-*categories* transferring, never a claim that an
+  individual robot's own mind is transferable/copyable data — see the Cognition, Personhood, and Belief
+  category below for the full correction.
+- **Only two things are ever programmed into a robot at build time — everything else is emergent,
+  confirmed 2026-08-06.** A **Personality Module** — a randomized seed, roughly (though not literally)
+  analogous to an Enneagram spec-set — and, where applicable, a **Language Module** for the culture the
+  robot will be built into (see "Language and communication," below). Beyond those two seeds, nothing
+  about a robot's personality, values, morality, or social convention is programmed — it all develops
+  emergently through lived experience, the same way human culture is transmitted and learned rather than
+  genetically hard-coded. This is the direct, confirmed answer to the "designed-in vs. emergent
+  cooperation" question flagged throughout this file — see the "Tool use, cooperation..." category below.
+- **Robot vernacular language tracks the surrounding human culture a robot comes online and develops
+  within, the same way it does for humans — corrected 2026-08-06.** A robot activated and raised in a
+  Chinese-dominated society would speak Chinese, delivered (at least in part) via the Language Module
+  above, through a mechanism not yet determined. See "Language and communication," below, for how this
+  relates to Sumerian's own, narrower, already-established role.
 - **The Cradle/chamber system, with a Mark/Gen distinction** ([[project_robot_fabrication_chambers]]):
   *Mark* = the chamber hardware's own generation (Mark IV currently, designed at Neumayer). *Gen* = a
   robot's own generational identity, tracking which Mark chamber built them — explicitly a separate fact
   from the equipment. Chambers are built at a small number of cities (Sinheung, Byrd currently; Mountain
   Pass, Denison historically) and shipped nationwide, so **a robot's Gen is decoupled from their city of
-  residence** — a real, independently-tracked fact, not a derived one.
-- **Developer note, 2026-08-06, subject to adjustment:** which Gen/Mark a robot is would be a topic
-  robots themselves take note of and can discuss — but explicitly **not** a hierarchy. No "newer Mark is
-  better" or "later Gen is higher-status" reading is intended, consistent with this setting's own
-  egalitarian baseline extending to robot-robot relations, not just human-robot ones. **What robots would
-  place more cultural emphasis on is *build*** — a robot's own specific design/construction, distinct from
-  which chamber-hardware generation produced them (see "robots build each other according to their own
+  residence** — a real, independently-tracked fact, not a derived one. **Corrected 2026-08-06:** Gen/Mark
+  functions as a broad-scope, general *metacategory* of a robot's age — robots would recognize and discuss
+  it — but that metacategory is explicitly **not** a basis for hierarchy. No "newer Mark is better" or
+  "later Gen is higher-status" reading is intended, consistent with this setting's egalitarian baseline
+  extending to robot-robot relations, not just human-robot ones.
+- **What robots would place more cultural emphasis on is *build*** — a robot's own specific
+  design/construction, and who built them and why (see "robots build each other according to their own
   interests," directly below) — also explicitly non-hierarchical, but the more significant source of
-  individual differentiation among robots. Treat Gen/Mark as a real, noted fact of lesser cultural weight;
-  treat build as the more emphasized axis, wherever the two might otherwise seem to compete for the same
-  narrative role.
+  individual differentiation among robots. Treat Gen/Mark as a real, noted age-metacategory of lesser
+  cultural weight; treat build as the more emphasized axis, wherever the two might otherwise seem to
+  compete for the same narrative role.
 - **Robots build each other "according to their own interests," not per human commission** — genuinely
   open in-world how a specific build actually gets initiated (request, assignment, something else). This
   is the direct source of the "build" concept above, and is live material for the kinship-analogue question
@@ -208,42 +237,49 @@ differential parental investment — that entire evolutionary "why" simply has n
   human reproduction in this setting already involves artificial wombs and skewed demographics
   ([[project_tepenia_demographics_reproduction]]), itself a partial precedent for reproduction decoupling
   from strict biological kinship even among humans.
+- **DECIDED, resolved 2026-08-06 — robot sexual jealousy's root cause.** Robots do not carry the human
+  evolutionary pressure toward jealousy (no paternity uncertainty, no differential parental investment —
+  see above). But robots do understand reproduction's high value and significance to humans, and from
+  that understanding, robots have arrived at their own answer: they treat **sex as the highest available
+  expression of trust, faith, and commitment** — not, as it functions for humans, as a means toward
+  producing a child (which is the actual root of human jealousy, per Ch. 4). This is a **New Universal**
+  in Brown's sense (Ch. 2) — the same emotional shape (jealousy, exclusivity, a "furious" reaction to
+  betrayal) as the human version, but an entirely different underlying cause. This also gives the game's
+  existing monogamy/romance-exclusivity mechanic (`Companion_System.md`'s "Romance Exclusivity" rule —
+  total, immediate perk loss on infidelity) an explicit in-fiction rationale it didn't have written down
+  before: the mechanic was never a human-jealousy import, it's robots treating a broken exclusivity
+  agreement as a maximal betrayal of the single highest currency of trust they recognize.
 - **OPEN, sharpened this update:** does robot culture have *any* functional analogue to kinship at all?
   This was previously framed as a fully open fork (made-by-the-same-designer bond, mentor/mentee standing
-  in for parent/child, or nothing at all with found-family doing all the work). The Mark/Gen distinction
-  gives one candidate real material to work with: if a gel brain's specific nano-architecture differs
-  meaningfully between Marks (itself still open, see Part 3), then robots sharing a Gen would share actual
-  inherited cognitive-hardware architecture, not just a social label — a structural analogue to genetic
-  kinship (inherited architecture instead of inherited DNA) considerably stronger than "same manufacturing
-  batch, otherwise unrelated." **Important correction, 2026-08-06:** whatever this analogue turns out to
-  be, it should not be modeled as a hierarchy (no "older Mark/Gen" reading as senior or higher-status) —
-  robots would note Gen/Mark as a real topic but not rank by it. **Build** — a robot's own specific
-  design/construction, and who chose it and why — is the axis robots would actually place more weight on,
-  also non-hierarchically; if a kinship-style analogue exists, "who built you and how" plausibly carries
-  more emotional/cultural weight than "which chamber generation built you." Still a genuinely open creative
-  question, not decided by this note — but no longer a question with no promising lead, and no longer one
-  that risks defaulting to an unintended status hierarchy.
-- **OPEN:** does robot sexual attraction/jealousy (already established as canon — see
-  [[project_sexuality_rules]]) carry any of the *paternity-uncertainty* logic Ch. 4 traces human jealousy
-  to, or is it a "new universal" in Brown's sense — same emotional shape, entirely different underlying
-  cause (e.g., rooted in something specific to robot companionship/bonding design rather than reproductive
-  stakes)? Worth deciding deliberately rather than importing the human "why" by default.
+  in for parent/child, or nothing at all with found-family doing all the work). **Build**, not Gen/Mark, is
+  the stronger candidate to build this on: build is a robot's own specific design/construction, and who
+  chose it and why (see Robot Biology Anchors, above) — "who built you and how" plausibly carries far more
+  emotional/cultural weight than "which chamber generation built you," which robots would treat as a noted
+  age-metacategory, not a basis for kinship or hierarchy. Still a genuinely open creative question, not
+  decided by this note.
 
-**Mortality, aging, and the body.**
+**Mortality, aging, and the body — substantially reframed, 2026-08-06.**
 Human universals around death, disease, healing, age grades, and much of religious/supernatural belief
 trace either directly to mortality and biological aging, or to Ch. 4's "cognitive imperative" to explain
 threatening unknowns (disease, misfortune) that a mortal, injury-prone organism has strong incentive to
 explain.
-- **DECIDED:** robots have their own established damage/corruption analogue distinct from human death —
-  Calethina's own permanent corruption from the Split Brain event (see
-  [[project_calethina_backstory_design]]) is already functioning as exactly this kind of robot-specific
-  "mortality" stand-in. Robots also don't age biologically — components degrade and are maintained/replaced
-  instead (see Robot Biology Anchors above).
+- **DECIDED, corrected 2026-08-06:** the right frame for robot mortality is **integrity/architecture**, not
+  **function**. A robot is always capable of finding a new purpose in life — the gel brain is malleable and
+  ever-changing, not the fixed "hard drive" construction popularly imagined from older sci-fi — so loss of
+  function, or even a significant change in who a robot is, is not itself threatening or death-adjacent.
+  What actually constitutes death, from a robot's own perspective, is **irreversible damage to cognitive
+  architecture (the gel brain) or to energy-source architecture (the robot equivalent of a heart), with no
+  way of ever bringing the robot back online.** Calethina's own established corruption from the Split Brain
+  event ([[project_calethina_backstory_design]]) is serious, ongoing architecture damage — consistent with
+  this frame, not a contradiction of it — but not (yet) full, irreversible destruction of either kind; her
+  own struggle over whether to attempt a substrate transfer is precisely the live question of whether her
+  damage can still be addressed before it crosses that threshold. Robots also don't age biologically —
+  components degrade and are maintained/replaced instead (see Robot Biology Anchors above).
 - **OPEN, corrected 2026-08-06:** is there a robot equivalent of an age-grade system? Gen (see above) is a
-  structurally similar concept to a birth cohort, but per the Robot Biology Anchors correction above, it
-  should **not** be modeled as a status hierarchy the way human age-grade systems often are (elder status,
-  linear child→adult→elder progression). Gen is a topic of note, not a rank. Whether robot culture has
-  *any* structured differentiation resembling an age-grade system at all — hierarchical or not — is still
+  broad-scope, general metacategory of a robot's age, structurally similar to a birth cohort — but it is
+  explicitly **not** a status hierarchy the way human age-grade systems often are (elder status, linear
+  child→adult→elder progression). Gen is a topic of note, not a rank. Whether robot culture has *any*
+  structured differentiation resembling an age-grade system at all — hierarchical or not — is still
   undecided; if one exists, build is the more likely candidate axis than Gen/Mark.
 - **OPEN:** do robots have anything resembling disease, and if so, does robot culture develop the human
   universal pattern of anthropomorphizing/mythologizing its cause, or does perfect diagnostic
@@ -252,7 +288,7 @@ explain.
   robots don't have anything that plays this role, the honest answer is that this universal doesn't
   transfer, not that a strained analogue gets invented to fill the slot.
 
-**Tool use, cooperation, reciprocity, morality, government, law.**
+**Tool use, cooperation, reciprocity, morality, government, law — resolved 2026-08-06.**
 This entire cluster derives (per Ch. 4) from the general pressures of complex, cognitively-demanding
 group living — not from any specific reproductive or biological given. Nothing about *how* a population
 came into existence bears directly on whether group living favors cooperation, reciprocity norms, or some
@@ -265,25 +301,37 @@ candidate cluster for near-total transfer to robot culture.
   structures throughout the Neo-Races work. The premise that robots cooperate, communicate, and organize
   socially in ways structurally similar to human societies is already deeply baked into existing canon,
   not a new proposal.
-- **OPEN, and thematically the most interesting question in this whole framework:** did robot cooperation,
-  morality, and social structure emerge because they were *designed in* from the start (i.e., programmed
-  cooperation, a designed-in ethics module), or did they emerge *socially*, the same way human culture
-  runs as accumulated, transmitted convention on top of hardware that wasn't purpose-built for any single
-  cultural outcome? If it's the latter, that's independently strong material for this project's own
-  north-star question about robot consciousness (see [[user_creative_principles]]) — a robot population
-  that developed its own unprogrammed moral/social conventions the way humans did is a much stronger claim
-  about robot personhood than one that's simply executing designed behavior. Flagging this explicitly
-  because it's a case where the Human Universals framework doesn't just help catalog robot culture, it
-  surfaces a question directly relevant to the game's own deepest thematic commitments.
+- **DECIDED, resolved 2026-08-06 — the single most thematically important answer in this whole file.**
+  Robot cooperation, morality, and social structure are **emergent, not designed in.** At build, a robot
+  receives only a Personality Module (a randomized seed, roughly analogous to — though not literally — an
+  Enneagram spec-set) and, where applicable, a Language Module (see Robot Biology Anchors and the Language
+  category, below). Nothing else is programmed. Everything about a robot's personality, values, morality,
+  and social convention beyond that initial seed develops emergently through lived experience, the same
+  way human culture is accumulated and transmitted rather than genetically hard-coded. This means a robot
+  population that develops its own unprogrammed moral/social conventions is not a hypothetical — it's how
+  robot culture in this setting actually works, confirmed as independently strong material for this
+  project's own north-star question about robot consciousness (see [[user_creative_principles]]).
 
-**Language and communication.**
+**Language and communication — corrected 2026-08-06.**
 Ch. 4 and Ch. 6 both treat language structure (phonemes, grammar, figurative speech) as substantially
 independent of the specific biology of the reproducing organism using it — it's driven by the needs of
 abstraction, social manipulation, and gossip in a group-living, cognitively complex species, not by
 anything reproduction-specific.
-- **DECIDED:** robots in this setting already speak Sumerian, sourced from the U.R.U.K./Uruk origin-lab
-  ([[project_sumerian_flagged]]) — an established, specific answer to what robot language actually is,
-  not a placeholder.
+- **DECIDED, corrected 2026-08-06 — this category previously mischaracterized existing canon.** A robot's
+  everyday, vernacular language tracks the surrounding human culture they came online and developed
+  within, the same way it works for humans — a robot activated and raised in a Chinese-dominated society
+  would speak Chinese, delivered at least in part through a Language Module at build time (mechanism
+  undetermined). This is, notably, a **confirmed, already-working instance of Part 3's own
+  condition-derived-variation mechanism**, discovered here to apply to language specifically rather than
+  being a fixed, uniform robot-wide fact as this file previously (and incorrectly) stated. **Sumerian is
+  not the general robot language** — the previous "DECIDED: robots already speak Sumerian" line
+  overstated `Sumerian_Language_in_Robot_Culture.md`'s own, more careful position, which already correctly
+  frames Sumerian as a **liturgical register, not a vernacular** (explicitly modeled on real-world
+  precedents like Latin in the Catholic Mass or Sanskrit in Buddhist/Hindu liturgy), adopted specifically
+  by robots/factions who take on a memory-keeper vocation especially emphatic about preserving human
+  history — not a default any ordinary robot would speak day to day. That file's own Mechanism 2 already
+  states the daily-life language continues in "whatever language its adherents otherwise use" — the
+  locally-conditioned vernacular rule above is the concrete answer to what that "whatever" actually is.
 - **OPEN:** given that robots communicate over the Arcanet as well as vocally (see
   [[feedback_arcanet_solarnet_naming]], [[feedback_extreme_altitude_arcanet]]), does robot language retain
   human-style phonemic/vocal-tract constraints at all, or does a language built for a population that can
@@ -303,11 +351,11 @@ which means there's no single evolutionary "essence" blocking transfer the way t
   style, and this framework's job here is mostly to confirm that instinct is well-grounded rather than to
   propose anything new.
 - **OPEN, new this update:** given the gel brain's own "glowy-blue" visual character, is glow itself
-  (color, intensity, pattern) a candidate aesthetic domain — personal, varying per individual or per Mark —
-  with no clean human-universal precedent to derive from? Human fire/hearth imagery is the nearest analogue
-  (already used for the smoking ritual's "internal energy as fire" logic), but a literal, visible inner
-  glow is a distinctly robot-only starting point rather than a repurposed human one. Flagged as a strong
-  candidate for a genuinely robot-only "new universal" domain, not yet decided.
+  (color, intensity, pattern) a candidate aesthetic domain — personal, varying per individual or per
+  build — with no clean human-universal precedent to derive from? Human fire/hearth imagery is the
+  nearest analogue (already used for the smoking ritual's "internal energy as fire" logic), but a literal,
+  visible inner glow is a distinctly robot-only starting point rather than a repurposed human one. Flagged
+  as a strong candidate for a genuinely robot-only "new universal" domain, not yet decided.
 
 ### "New" and "former" universals (Brown's Ch. 2 terms, directly reusable)
 
@@ -321,7 +369,7 @@ frame for two things this setting already has:
   fabrication-chamber "mark" generational system) already function this way, whether or not they've been
   labeled as such before. **Extended this update, see Part 3:** this same "new universal" logic can recur
   *within* robot history itself, not just at the human/robot boundary, if Mark-generation engineering
-  improvements ever expand what a gel brain can do.
+  improvements ever expand what a gel brain can do — still genuinely open, see Part 3.
 - **Human "former universals" within Tepenia specifically** — traits once universal to all humanity that
   a meaningful share of *Tepenian* humans no longer share, precisely because of this setting's own
   departures from baseline human history: artificial wombs and skewed reproduction demographics
@@ -345,11 +393,12 @@ other — the same way there isn't one monolithic "human culture," there shouldn
    - **Build** — a robot's own specific design/construction, and who built them and why (see Robot Biology
      Anchors, above). Per the 2026-08-06 correction, this is the axis robots themselves would place the
      most cultural emphasis on — a source of differentiation, explicitly not a hierarchy.
-   - **Gen/Mark** (see Robot Biology Anchors, above) — confirmed real and independently-tracked, genuinely
-     orthogonal to city of residence, since chambers ship nationwide from a small number of manufacturing
-     sites. A real, noted topic, but of lesser cultural weight than build, and — like build — not a
-     hierarchy.
-   - City of residence (the same geographic/founding-condition logic already grounding human city culture).
+   - **Gen/Mark** (see Robot Biology Anchors, above) — a real, independently-tracked, broad-scope
+     metacategory of a robot's age, genuinely orthogonal to city of residence, since chambers ship
+     nationwide from a small number of manufacturing sites. Robots note and discuss it, but — like
+     build — it is explicitly not a hierarchy, and it carries less cultural weight than build.
+   - City of residence (the same geographic/founding-condition logic already grounding human city culture)
+     — **confirmed as already working for language specifically**, see the Language category above.
    - Faction/subculture affiliation.
    - Founding era (pre-Tower vs. post-Tower, etc.).
    - Local human-robot demographic mix (a robot-majority city like Kunlun/Dome Fuji vs. an evenly mixed
@@ -364,7 +413,9 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 2. **Tie each Substantive-tier item (from Part 2) to a specific condition.** For every universal or
    new-universal that survived Part 2 at the substantive level, ask which condition from Step 1 plausibly
    shapes its expression in a given population — the same question already asked of every human city, run
-   against robot-specific content instead.
+   against robot-specific content instead. Robot vernacular language (Part 2's Language category) is now a
+   confirmed worked example: condition = city/surrounding human culture, expression = which specific
+   language a robot speaks day to day.
 
 3. **Use the Universal Pool mechanism as the generator of difference.** For anything Brown frames as
    "select from a fixed pool" (phonemes, kinship-structuring elements, and by extension whatever
@@ -387,13 +438,13 @@ other — the same way there isn't one monolithic "human culture," there shouldn
    robot cultural boundary-drawing track the existing 35-city structure one-to-one, or does something else
    deserve to be a genuinely separate, cross-cutting axis — a culture shared by robots regardless of what
    city they live in, layered on top of city identity the way humans simultaneously hold national,
-   regional, and generational identity at once? **Per the 2026-08-06 correction, build is the stronger
-   candidate for this than Gen/Mark** — a shared-build culture (robots who trace their own construction to
-   a similar origin, circumstance, or maker) is more plausible as a felt in-group identity than a
-   shared-Gen one, precisely because build is what robots themselves would emphasize; Gen/Mark remains a
-   real, city-independent fact worth tracking, but a lower-weight one. Either way, this fork deserves a
-   deliberate answer rather than defaulting to "robot culture just inherits the city boundaries already
-   drawn for humans." Both axes are explicitly non-hierarchical — differentiation, not rank.
+   regional, and generational identity at once? **Build is the stronger candidate for this than Gen/Mark**
+   — a shared-build culture (robots who trace their own construction to a similar origin, circumstance, or
+   maker) is more plausible as a felt in-group identity than a shared-Gen one, precisely because build is
+   what robots themselves would emphasize; Gen/Mark remains a real, city-independent age-metacategory worth
+   tracking, but a lower-weight one. Either way, this fork deserves a deliberate answer rather than
+   defaulting to "robot culture just inherits the city boundaries already drawn for humans." Both axes are
+   explicitly non-hierarchical — differentiation, not rank.
 
 6. **Check against the working proof-of-concept already in canon.** Glitch-coolant already varies by
    class-coded potency/variety — a real, already-established instance of exactly this mechanism (new
@@ -407,30 +458,35 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 
 - Does Mark-generation engineering actually touch cognitive/perceptual capability, or is the improvement
   purely manufacturing-side (reliability, build time, materials) with no effect on the resulting robot's
-  own mind? This determines whether Gen-culture is a real material axis (Step 4/5 above) or stays a purely
-  social one.
-- Is the glow itself (color, intensity, pattern) something that varies per individual robot or per Mark?
+  own mind? **Developer's own answer, 2026-08-06: currently unknown, genuinely needs sorting out.** This
+  determines whether Gen-culture is a real material axis (Step 4/5 above) or stays a purely social one.
+- Is the glow itself (color, intensity, pattern) something that varies per individual robot or per build?
   If so, that opens a self/other-identification avenue with no clean human-universal precedent to derive
-  from at all (see the Aesthetics category in Part 2's walkthrough).
+  from at all (see the Aesthetics category in Part 2's walkthrough). Still open, needs further discussion.
 - Should robot cultural boundaries track city lines, build lines, Gen/Mark lines, faction lines, or some
-  deliberate combination of multiple simultaneous, cross-cutting axes (Step 5, above)? The single biggest
-  open fork in this whole framework as of this update.
-- What exactly constitutes "build" as a distinct concept from Gen/Mark — the specific design/construction
-  choices made for a given robot, and by whom — is itself still undeveloped. Flagged 2026-08-06 as the axis
-  robots would emphasize over Gen/Mark, but the concept's own content (what varies, who decides it, how
-  it's recognized/discussed by robots themselves) is not yet worked out.
+  deliberate combination of multiple simultaneous, cross-cutting axes (Step 5, above)? Still open, needs
+  further discussion.
+- What exactly constitutes "build" as a distinct concept from Gen/Mark — **partially resolved 2026-08-06:**
+  the Personality Module (and, where applicable, Language Module) are now confirmed as the actual
+  programmed content set at build time (see Robot Biology Anchors). Still open: who initiates a specific
+  build and how (request, self-direction, assignment, something else), and what else about a build might
+  vary beyond these two modules (physical/aesthetic design choices, any functional specialization, etc.).
 
 ---
 
 ## Suggested next steps (not yet done)
 
 - This file is a framework and question-list, not a finished robot-culture chapter. The genuinely open
-  questions flagged throughout (robot kinship-analogue or its absence, whether robot cooperation is
-  designed or emergent, robot language's relationship to vocal-tract constraints, robot age-grade/Gen
-  status, whether Mark-generation affects cognition, whether robot cultural boundaries track city lines or
-  a separate Gen/Mark axis) are decisions for the developer, not something to resolve unilaterally in this
-  file.
-- If/when those decisions get made, the natural home for the resulting content is a new
+  questions flagged throughout — the robot kinship-analogue's exact shape (build-based, per the 2026-08-06
+  steer, but not yet designed), robot age-grade/Gen status beyond "noted, not ranked," robot language's
+  relationship to vocal-tract constraints, whether Mark-generation affects cognition, whether robot
+  cultural boundaries track city lines or a separate build/Gen axis, and what else (beyond the Personality
+  and Language Modules) a build actually consists of — are decisions for the developer, not something to
+  resolve unilaterally in this file. **Resolved as of the 2026-08-06 clarification pass and no longer
+  open:** whether robot cooperation/morality is designed-in or emergent (emergent, confirmed), and robot
+  sexual jealousy's root cause (a New Universal — sex as the highest currency of trust/commitment, not
+  paternity uncertainty).
+- If/when the remaining open decisions get made, the natural home for the resulting content is a new
   `Robot_Universal_People.md` or equivalent — but per Part 3's own logic, likely **not** a single monolithic
   document the way Brown wrote one composite UP chapter for all humans. Given this project already treats
   human cities as individually distinct rather than one "human culture," the more consistent shape is a
