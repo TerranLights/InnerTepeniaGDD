@@ -263,24 +263,23 @@ differential parental investment — that entire evolutionary "why" simply has n
   total, immediate perk loss on infidelity) an explicit in-fiction rationale it didn't have written down
   before: the mechanic was never a human-jealousy import, it's robots treating a broken exclusivity
   agreement as a maximal betrayal of the single highest currency of trust they recognize.
-- **OPEN, sharpened this update, with a real head start.** Does robot culture have *any* functional
-  analogue to kinship at all? This was previously framed as a fully open fork (made-by-the-same-designer
-  bond, mentor/mentee standing in for parent/child, or nothing at all with found-family doing all the
-  work). **Build**, not Gen/Mark, is the stronger candidate to build this on: build is a robot's own
-  specific design/construction, and who chose it and why (see Robot Biology Anchors, above) — "who built
-  you and how" plausibly carries far more emotional/cultural weight than "which chamber generation built
-  you," which robots would treat as a noted age-metacategory, not a basis for kinship or hierarchy.
-  **Partial lead, not yet a full answer, corrected 2026-08-06:** the already-established fact that robots
-  predominantly build each other to serve *local interests* — a local community's own need or want, not any
-  single robot's personal whim — already rules out a neutral, mechanical commissioning process. A build
-  happens because a local robot community specifically wanted to bring this one into existence. That's a
-  plausible seed for an emotionally-loaded maker/made bond, closer to "your community chose to bring you
-  into being" than "an order was processed" — though it's a *communal* bond by this framing, not
-  necessarily a one-to-one parent-style bond, which is itself worth deciding deliberately rather than
-  assuming. It doesn't yet specify who within a local community actually initiates a build, whether it's a
-  formal or informal process, or what the resulting bond actually looks like day to day (see the Open
-  Questions Tracker's "build" item, which this depends on). Still a genuinely open creative question, not
-  decided by this note.
+- **DECIDED, resolved 2026-08-07 — mentor/mentee real, maker/made does not hold weight, and robots are
+  missing one whole axis of human tribalism.** Mentor/mentee bonds are a genuine, culturally real robot
+  institution. **Maker/made is not a real phenomenon in this world:** currently-existing robots have
+  comparatively little control over what kind of person a newly-synthesized robot turns out to be, and a new
+  robot is created by an *infrastructure* (the Cradle), not by a personal "creator" — so a parent-analogue
+  built on "who specifically made you" doesn't hold up. Robots do have a genuine sense of clan/tribe, but
+  it's built on **shared experience of togetherness** — fabricated in the same city environment, living
+  through the same struggles, sharing the same end goals for how to live — not on build specs or
+  fabrication lineage. Humans form tribes/clans from three possible bases: genetics, geography, and
+  ideas/experience. **Robots only have two of the three — geography and ideas/experience, not genetics** —
+  though they can still feel a real sense of kinship with both other robots and humans. This means the
+  earlier "Gen/Mark as inherited-architecture kinship analogue" speculation elsewhere in this file does not
+  hold up: robots don't organize kinship around shared fabrication lineage at all.
+  (An earlier draft of this entry proposed build-over-Gen/Mark as the stronger kinship candidate, reasoning
+  from "who chose to build you and why" as a maker/made bond — superseded by the resolution above, which
+  found maker/made doesn't hold weight in this world at all; kept here only as a note that the fork was
+  considered and closed, not as live reasoning.)
 
 **Mortality, aging, and the body — substantially reframed, 2026-08-06.**
 Human universals around death, disease, healing, age grades, and much of religious/supernatural belief
@@ -360,13 +359,18 @@ anything reproduction-specific.
   history — not a default any ordinary robot would speak day to day. That file's own Mechanism 2 already
   states the daily-life language continues in "whatever language its adherents otherwise use" — the
   locally-conditioned vernacular rule above is the concrete answer to what that "whatever" actually is.
-- **OPEN:** given that robots communicate over the Arcanet as well as vocally (see
-  [[feedback_arcanet_solarnet_naming]], [[feedback_extreme_altitude_arcanet]]), does robot language retain
-  human-style phonemic/vocal-tract constraints at all, or does a language built for a population that can
-  also communicate digitally develop differently — e.g., without the same pressure toward the ~10-70
-  phoneme range Brown notes as a human vocal-tract-bounded universal? This is a place where the *cause*
-  behind a human universal (vocal-tract physiology) is specifically a robot-inapplicable universal of
-  essence, making it a strong, low-risk candidate for a genuinely different robot-specific answer.
+- **DECIDED, resolved 2026-08-07 — no, phonemic/vocal-tract constraints are unaffected, because the
+  Arcanet was never a competing spoken-language channel in the first place.** The Arcanet is, functionally,
+  the Antarctican Internet — a regional data network, not a parallel vocal/linguistic medium. Real-world
+  intercontinental internet connectivity depends on physical undersea cable infrastructure; Tepenia
+  (Antarctica) has no such link to Upper Earth's own internet, so it necessarily runs its own separate
+  network, populated with both contemporary Tepenian data and salvaged pre-war Upper Earth datadrives.
+  Structurally, the Arcanet resembles something closer to the real-world TOR Network — a decentralized
+  networked-connectivity structure — though for a different purpose (functional connectivity for an
+  isolated population, not privacy/secrecy). Since the Arcanet is a data/information channel, not an
+  alternate spoken-language mode, it has no bearing on vocal phonology at all — robot vernacular language
+  (per the locally-conditioned rule above) stays within the same human-style phonemic/vocal-tract
+  constraints as whatever surrounding human culture it's drawn from, full stop.
 
 **Aesthetics, play, and consumption.**
 Ch. 4's "partial explanations" chapter treats aesthetics and play as a disparate bundle of adaptive and
@@ -378,12 +382,14 @@ which means there's no single evolutionary "essence" blocking transfer the way t
   this, adapted to robot biology rather than copy-pasted from humans" is already the established house
   style, and this framework's job here is mostly to confirm that instinct is well-grounded rather than to
   propose anything new.
-- **OPEN, new this update:** given the gel brain's own "glowy-blue" visual character, is glow itself
-  (color, intensity, pattern) a candidate aesthetic domain — personal, varying per individual or per
-  build — with no clean human-universal precedent to derive from? Human fire/hearth imagery is the
-  nearest analogue (already used for the smoking ritual's "internal energy as fire" logic), but a literal,
-  visible inner glow is a distinctly robot-only starting point rather than a repurposed human one. Flagged
-  as a strong candidate for a genuinely robot-only "new universal" domain, not yet decided.
+- **DECIDED (Non-Transfer), resolved 2026-08-07 — glow is not an aesthetic-variation domain at all.** The
+  gel brain's "glowy-blue" character is a direct result of the brain's own material composition/architecture,
+  not an individually meaningful or aesthetic trait — the same category of fact as the sky being blue because
+  of nitrogen's predominance in the atmosphere, or grass being green because of chlorophyll's predominance in
+  plant matter. It doesn't vary per individual or per build in any personally expressive way; it's closer to
+  a fixed physical constant of what a gel brain *is* than a trait a robot could be said to have or express.
+  This closes the "candidate robot-only new universal aesthetic domain" speculation — there's no domain here
+  to develop.
 
 ### "New" and "former" universals (Brown's Ch. 2 terms, directly reusable)
 
@@ -455,32 +461,35 @@ other — the same way there isn't one monolithic "human culture," there shouldn
    the same pool, tied to condition per Step 2 — the same move that produces distinct human languages from
    one shared human phoneme pool.
 
-4. **Watch for the pool itself changing over time — the Mark-generation wrinkle.** Brown's pool concept
-   assumes a fixed pool. If Mark-generation engineering improvements ever expand what a gel brain can do
-   (open question, see Robot Biology Anchors), earlier- and later-Gen robots could be drawing from pools of
-   *different size*, not just different points within one shared pool. This is better modeled as a "new
-   universal" (Ch. 2) recurring *inside* robot history — a capability available to every Gen after a given
-   Mark, with no equivalent for earlier Gens at all — than as ordinary pool-selection variation.
+4. **The pool itself does change over time — the Mark-generation wrinkle, resolved 2026-08-07.**
+   Confirmed: Mark-generation engineering *does* touch cognitive and/or physical attributes, not just
+   manufacturing-side reliability — different Marks/Gens carry varying degrees of material-level efficiency
+   in their design specs, producing structurally different, possibly complementary attributes across
+   generations. **Critically, this is difference in kind, not rank: no single Mark/Gen is intrinsically
+   "better" or "higher" than any other.** Different robots ended up built to different specs for different
+   reasons, tied to whatever environmental/social/psychological pressures the nation (or pre-exile
+   individuals) faced at the time a given Mark was designed — a historical/contextual difference, not a
+   quality gradient. This further bonds robots together (and facilitates robot-human bonding) around their
+   shared environment, rather than dividing them by generation. Earlier- and later-Gen robots genuinely do
+   draw from pools of *different size/character*, not just different points within one shared pool — best
+   modeled as a "new universal" (Ch. 2) recurring *inside* robot history, a capability or attribute
+   available to every Gen after a given Mark with no equivalent for earlier Gens, without that difference
+   ever implying hierarchy.
 
-5. **Use emic "peoplehood" to find where the boundaries actually fall, without assuming they match city
-   lines.** Brown catalogues a felt sense of distinct in-group identity as a UP universal in its own right
-   (Ch. 6) — if it transfers (plausibly an accident-type universal, being about bounded group living, not
-   reproduction), it's the actual mechanism that would cause multiple, mutually-distinct robot cultures to
-   emerge at all, not just another item on a checklist. **The open design question this surfaces:** does
-   robot cultural boundary-drawing track the existing 35-city structure one-to-one, or does something else
-   deserve to be a genuinely separate, cross-cutting axis — a culture shared by robots regardless of what
-   city they live in, layered on top of city identity the way humans simultaneously hold national,
-   regional, and generational identity at once? **Sharpened, and complicated, 2026-08-06:** since build is
-   driven by *local* interests rather than individual whim, a shared-build identity would plausibly track
-   *with* city/locality rather than cut across it — the opposite of what this section originally proposed.
-   That leaves Gen/Mark as the axis that's actually structurally city-independent (via the chamber-shipping
-   network), even though it carries less cultural weight than build. Whether a felt in-group identity can
-   form around a lower-weight, noted-but-not-emphasized fact like Gen/Mark, or whether robot cultural
-   boundaries end up tracking city lines after all (with build simply reinforcing rather than
-   cross-cutting them), is now the sharper version of this open question. Either way, this fork deserves a
-   deliberate answer rather than defaulting to "robot culture just inherits the city boundaries already
-   drawn for humans." Both axes are
-   explicitly non-hierarchical — differentiation, not rank.
+5. **Use emic "peoplehood" to find where the boundaries actually fall — resolved 2026-08-07: they track
+   city/locality, decisively, not Gen/Mark or build's own physical result.** Brown catalogues a felt sense
+   of distinct in-group identity as a UP universal in its own right (Ch. 6) — this transfers to robots, and
+   the mechanism is exactly what the kinship-analogue resolution above already established: shared
+   experience of togetherness (same city, same struggles, same life-goals), not fabrication lineage or
+   physical form. **Confirmed via direct comparison:** city/culture-of-origin carries far more identity
+   weight than Gen/Mark, and body type (part of build's physical result) carries essentially none — the
+   working analogy is four humans with wildly different builds (a stocky, strong garage mechanic; a tall,
+   slender office worker; a curvier construction flagger; a very thin fast-food cashier) who all grew up in,
+   and share the struggles of, Guadalajara, Mexico. Their identity is bound overwhelmingly to shared
+   Guadalajara culture, not to what kind of bodies they have. The same logic applies to robots: robot
+   cultural boundaries track the existing city/subnet structure, not a separate cross-cutting Gen/Mark or
+   build-body-type axis. What build still contributes to identity is the *circumstance* of creation (which
+   local community, tied to that same city/locality) — not the physical result itself.
 
 6. **Check against the working proof-of-concept already in canon.** Glitch-coolant already varies by
    class-coded potency/variety — a real, already-established instance of exactly this mechanism (new
@@ -490,49 +499,47 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 7. **Honesty check, same as Part 2's Step 4.** Where a given population genuinely doesn't produce a
    distinct variant, that's a legitimate finding, not a gap to be forced.
 
-### Open questions this part surfaces (not answered, just flagged)
+### Open questions this part surfaces — three resolved 2026-08-07, one remains
 
-- Does Mark-generation engineering actually touch cognitive/perceptual capability, or is the improvement
-  purely manufacturing-side (reliability, build time, materials) with no effect on the resulting robot's
-  own mind? **Developer's own answer, 2026-08-06: currently unknown, genuinely needs sorting out.** This
-  determines whether Gen-culture is a real material axis (Step 4/5 above) or stays a purely social one.
-- Is the glow itself (color, intensity, pattern) something that varies per individual robot or per build?
-  If so, that opens a self/other-identification avenue with no clean human-universal precedent to derive
-  from at all (see the Aesthetics category in Part 2's walkthrough). Still open, needs further discussion.
-- Should robot cultural boundaries track city lines, build lines, Gen/Mark lines, faction lines, or some
-  deliberate combination of multiple simultaneous, cross-cutting axes (Step 5, above)? Still open, needs
-  further discussion.
-- What exactly constitutes "build" as a distinct concept from Personality and from Gen/Mark —
-  **partially resolved 2026-08-06:** Build is now confirmed as its own separate axis from the Personality
-  Module, not a container for it — covering physical construction (height, general build/"bulkiness,"
-  aesthetic design) and the circumstances of creation. A partial lead: builds are predominantly driven by
-  *local interests* — a local robot community's own need or want — rather than any single robot's personal
-  whim, and rather than human commissioning (though that hasn't vanished as a possibility); body type is
-  statistically weighted per locality, not fixed. This also means build is *not* independent of
-  city/locality the way Gen/Mark is — see the structural note under Robot Biology Anchors, above. Still
-  open: who *specifically* initiates a given build within a local community and how (solo decision,
-  collective decision, something else), and what else, beyond physical construction and creation
-  circumstances, a build might involve (any functional specialization, for instance).
+**Resolved, no longer open:** whether Mark-generation engineering touches cognitive/perceptual capability
+(yes, but never hierarchically — see Step 4, above); whether glow varies meaningfully per individual or per
+build (no — a material-composition fact, not an expressive trait, see the Aesthetics category in Part 2);
+and whether robot cultural boundaries track city lines or a separate cross-cutting axis (city/locality
+decisively, not Gen/Mark or build's own physical result — see Step 5, above).
+
+**Resolved, 2026-08-07 — build's physical result is functionally tied to local economic/lifestyle
+character, not cosmetically random.** Locales leaning toward hard-labor-oriented work produce robots with
+statistically "thicker"/"bigger" builds; locales leaning toward complex physical processes demanding
+agility and nimbleness produce more "slender"/"agile" builds; locales without a strong lean toward either
+produce a wide variety of body types with no dominant pattern. This is the mechanism behind the
+already-established "body type is statistically weighted per locality, not fixed" fact — the weighting
+tracks what the local economy/lifestyle actually demands. Consistent with, not contradicting, the
+cultural-boundary resolution above: body type is a *statistical consequence* of local economic character,
+not an identity marker in itself — the Guadalajara analogy still holds, since people doing very different
+physical work within one shared culture still share that culture's identity above and beyond their own
+build. Who *specifically* initiates a given build within a local community remains context-dependent rather
+than a fixed rule (solo decision, collective decision, or other options arising from context), and that
+variability is itself part of why multiple different — sometimes contradictory — physical builds can
+coexist within one setting.
 
 ---
 
 ## Suggested next steps (not yet done)
 
-- This file is a framework and question-list, not a finished robot-culture chapter. The genuinely open
-  questions flagged throughout — the robot kinship-analogue's exact shape (build-based, per the 2026-08-06
-  steer, with a partial lead from the locally-driven-build fact, but not yet fully designed), robot
-  age-grade/Gen status beyond "noted, not ranked," robot language's relationship to vocal-tract constraints,
-  whether Mark-generation affects cognition, whether robot cultural boundaries track city lines or a
-  separate build/Gen axis, who specifically initiates a given build (and what else, beyond physical
-  construction and creation circumstances, it involves), and whether glow varies per robot or per build —
-  are decisions for the developer, not something to resolve unilaterally in this file. **Resolved as of the
-  2026-08-06
-  clarification pass and no longer open:** whether robot cooperation/morality is designed-in or emergent
-  (emergent, confirmed); robot sexual jealousy's root cause (a New Universal — sex as the highest currency
-  of trust/commitment, not paternity uncertainty); whether the "cognitive imperative" transfers (it doesn't,
-  as an innate mechanism — robot religion is a New Universal reached emergently, the same way cooperation
-  is); and whether robots have a disease analogue (no — degradation and corruption already cover that
-  functional territory between them).
+- This file is a framework and question-list, not a finished robot-culture chapter. **Every question this
+  framework originally raised is now resolved** except robot views of sexuality (five sub-facets flagged in
+  the tracker, beyond the already-resolved jealousy root cause). **Resolved and no longer open, as of
+  2026-08-06/07:** whether robot cooperation/morality is
+  designed-in or emergent (emergent); robot sexual jealousy's root cause (a New Universal — sex as the
+  highest currency of trust/commitment); whether the "cognitive imperative" transfers (no, not as an innate
+  mechanism); whether robots have a disease analogue (no); the kinship analogue's actual shape (mentor/
+  mentee real, maker/made holds no weight, clan/tribe from shared experience — robots miss the genetics
+  axis of human tribalism); the cultural-boundary question (city/locality decisively, not Gen/Mark or
+  build); whether Mark-generation affects cognition (yes, but never hierarchically); robot language's
+  relationship to vocal-tract constraints (unaffected — the Arcanet is a data network, not a competing
+  vocal medium); and whether glow varies meaningfully (no — a material-composition fact, not an expressive
+  trait). Robot views of sexuality remain flagged for further elaboration in the tracker (five sub-facets,
+  not yet answered) beyond the already-resolved jealousy root cause.
 - If/when the remaining open decisions get made, the natural home for the resulting content is a new
   `Robot_Universal_People.md` or equivalent — but per Part 3's own logic, likely **not** a single monolithic
   document the way Brown wrote one composite UP chapter for all humans. Given this project already treats
