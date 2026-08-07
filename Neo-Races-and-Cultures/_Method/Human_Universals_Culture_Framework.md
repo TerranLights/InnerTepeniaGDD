@@ -263,6 +263,31 @@ differential parental investment — that entire evolutionary "why" simply has n
   total, immediate perk loss on infidelity) an explicit in-fiction rationale it didn't have written down
   before: the mechanic was never a human-jealousy import, it's robots treating a broken exclusivity
   agreement as a maximal betrayal of the single highest currency of trust they recognize.
+- **DECIDED, resolved 2026-08-07 — the five sexuality sub-facets underneath the trust-currency headline
+  fact.** (A) **Not purely symbolic — there is a real physical layer.** Robots have a genuine internal
+  network of pleasure receptors in the equivalent of their genitals. This traces back to how robots read
+  the human template itself: humans (in current recognizable form for ~30-35,000 years, in some form for up
+  to ~400,000) have survived and thrived across nearly every environment on the planet, and robots
+  understand sexual pleasure as a real contributor to that evolutionary success — reason enough to preserve
+  it rather than engineer around it. (B) **Courtship customs vary enormously** — by city and by individual
+  personality alike, the same way human courtship style varies both across cultures and across individual
+  people, just refracted through robots' own experience rather than copied wholesale. (C) **Split resolution
+  — customs vary, the underlying value doesn't.** Specific courtship customs can differ wildly city to city,
+  culture to culture (consistent with every other item in this file landing on "locality/shared experience
+  matters more than any universal default"), but the core fact — sex as the highest form of trust,
+  commitment, and promise — is the one piece that holds as a genuine robot-wide universal underneath that
+  local variation. (D) **A real middle ground, not a contradiction of the game's existing casual pool.**
+  Robot sex stays trust-based even outside full commitment — a robot would not sleep with just anyone — but
+  robots don't require a committed, exclusive, named relationship as a precondition either. A given robot
+  may judge, case by case and person by person, that sex without a full romantic commitment is warranted.
+  This validates rather than contradicts the existing `Companion_System.md` casual/"fuckable" pool mechanic:
+  that pool was never meant to read as sex-means-nothing-to-robots, it's robots extending real, if narrower,
+  trust on a per-case basis short of full exclusivity. (E) **No meaningful difference by partner species —
+  and deliberately out of scope on the human side.** Robots read sex as absolute commitment to one specific
+  person regardless of whether that person is human or another robot; humans living in Tepenia grow up with
+  that understanding as an ambient fact of life, not something requiring negotiation. What humans do
+  sexually with other humans, independent of any robot involved, is explicitly treated as outside this
+  universe's scope — not a gap to fill later, a topic the setting doesn't need.
 - **DECIDED, resolved 2026-08-07 — mentor/mentee real, maker/made does not hold weight, and robots are
   missing one whole axis of human tribalism.** Mentor/mentee bonds are a genuine, culturally real robot
   institution. **Maker/made is not a real phenomenon in this world:** currently-existing robots have
@@ -526,22 +551,23 @@ coexist within one setting.
 
 ## Suggested next steps (not yet done)
 
-- This file is a framework and question-list, not a finished robot-culture chapter. **Every question this
-  framework originally raised is now resolved** except robot views of sexuality (five sub-facets flagged in
-  the tracker, beyond the already-resolved jealousy root cause). **Resolved and no longer open, as of
-  2026-08-06/07:** whether robot cooperation/morality is
-  designed-in or emergent (emergent); robot sexual jealousy's root cause (a New Universal — sex as the
-  highest currency of trust/commitment); whether the "cognitive imperative" transfers (no, not as an innate
-  mechanism); whether robots have a disease analogue (no); the kinship analogue's actual shape (mentor/
-  mentee real, maker/made holds no weight, clan/tribe from shared experience — robots miss the genetics
-  axis of human tribalism); the cultural-boundary question (city/locality decisively, not Gen/Mark or
-  build); whether Mark-generation affects cognition (yes, but never hierarchically); robot language's
+- This file is a framework and question-list, not a finished robot-culture chapter, but **every question
+  this framework originally raised is now resolved, as of 2026-08-06/07:** whether robot cooperation/
+  morality is designed-in or emergent (emergent); robot sexual jealousy's root cause (a New Universal — sex
+  as the highest currency of trust/commitment) and its five underlying sub-facets (real physical pleasure
+  layer; courtship customs vary by city and personality; the trust-currency value itself is robot-wide even
+  though customs aren't; a real trust-based middle ground short of full commitment, consistent with the
+  existing casual "fuckable" pool mechanic; no meaningful robot-vs-human-partner difference, with
+  human-on-human sex explicitly out of scope); whether the "cognitive imperative" transfers (no, not as an
+  innate mechanism); whether robots have a disease analogue (no); the kinship analogue's actual shape
+  (mentor/mentee real, maker/made holds no weight, clan/tribe from shared experience — robots miss the
+  genetics axis of human tribalism); the cultural-boundary question (city/locality decisively, not Gen/Mark
+  or build); whether Mark-generation affects cognition (yes, but never hierarchically); robot language's
   relationship to vocal-tract constraints (unaffected — the Arcanet is a data network, not a competing
   vocal medium); and whether glow varies meaningfully (no — a material-composition fact, not an expressive
-  trait). Robot views of sexuality remain flagged for further elaboration in the tracker (five sub-facets,
-  not yet answered) beyond the already-resolved jealousy root cause.
-- If/when the remaining open decisions get made, the natural home for the resulting content is a new
-  `Robot_Universal_People.md` or equivalent — but per Part 3's own logic, likely **not** a single monolithic
+  trait).
+- The natural next deliverable is a new `Robot_Universal_People.md` or equivalent — but per Part 3's own
+  logic, likely **not** a single monolithic
   document the way Brown wrote one composite UP chapter for all humans. Given this project already treats
   human cities as individually distinct rather than one "human culture," the more consistent shape is a
   robot-side universal floor (Part 2's DECIDED items and Formal/Process-tier material) plus per-population

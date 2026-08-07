@@ -333,6 +333,8 @@ The general design principle is **monogamy once a committed romance is establish
 
 **The "fuckable" character pool:** A designed set of characters who are sexually available to the player at any time with only minimal gating. These are not romanceable in the full arc sense — no romance perk, no unlocked home, no relationship arc. They exist to give the player options for casual encounters pre-commitment. Once the player has committed to a full romance, sleeping with any of them triggers the monogamy rule above.
 
+**In-fiction basis for robot members of this pool, confirmed 2026-08-07:** this pool doesn't mean sex is meaningless to robots — see `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`'s Sexuality section. Robot sex is trust-based even outside a full commitment; a robot in this pool is still extending real, if narrower, trust on a case-by-case, person-by-person basis, short of the full exclusivity a committed romance requires.
+
 ---
 
 ### Sexuality by Character Type — Canon Rule

@@ -125,7 +125,7 @@ Not really, since a "glowy-blue" gel brain is more a result of the brain's archi
 
 ---
 
-### [ ] Elaboration upon robot views of sexuality /// {{secondary}}
+### [x] Elaboration upon robot views of sexuality /// {{secondary}}
 
 Robot interpretations of, and ultimately basis for, sexually-related jealousy. The core fact is already
 resolved (sex as the highest currency of trust/faith/commitment, not reproduction-driven jealousy) — what's
@@ -160,7 +160,11 @@ depending on who's involved?
 
 **Notes:**
 
-TBD
+A.) Robots absolutely do have a complex series of "pleasure receptors" inside what would be the equivalent of their genitals. This would extend from their understanding of the human form as having withstood the test of time, in the sense that (even though humans have only existed for up to 400,000 years (and in their current, modern-day recognizable form, for only up to around 30-to-35,000 years) humans have survived and lived in nearly every possible type of surrounding environ. Being that as it has, as they recognize the resiliency and durability of the human form, they would've understood human sexual pleasure to be part of the reason for their evolutionary success, and would've seen no reason to overrule it with something else
+B.) This can actually vary enormously, not only from city to city, but also from robot personality to robot personality, as humans themselves may view the process differently, so would robots (just adjusted through the lens of their own experience)
+C.) Particular customs may vary wildly from city to city, culture to culture, but the fundamental understanding of sex as being the highest form of trust, commitment, and promise would be common to robots in general
+D.) I would say probably something about in the middle. It's still trust-based; a robot wouldn't simply fuck _anybody_. However, it may happen on a per-case, per-person basis that a robot may not consider it necessary to be within a committed, long-term, monogamous relationship (either via marriage, or a boyfriend/girlfriend relationship) in order to have sex.
+E.) This is actually something that I personally don't consider relevant to the purposes of the universe. Robots view it as absolute commitment to a particular specific person (whether the other person is either human or another fellow robot). Humans who live in Tepenia at all would have the implicit understanding of that as a rule of life, so they wouldn't have any question regarding the matter. And whatever kind of sex humans do with each other is absolutely not at all relevant to anything in the Tepenian broader universe (let alone in the game), so it's not a topic that requires exploration.
 
 ---
 
@@ -185,12 +189,10 @@ Calethina's Split Brain (the mortality-analogue). No third slot is left over for
 
 ---
 
-## When this is complete
+## Complete
 
-Once every item above is checked off, fold the resolved answers back into
-`Human_Universals_Culture_Framework.md` (updating the relevant OPEN items to DECIDED, same as the
-2026-08-06 pass did) and `Robot_Physiology_and_Cultural_Practices.md` (for anything that's a biology fact
-rather than a methodology note). At that point, per that file's own "Suggested next steps," the natural
-next deliverable is a robot-side culture document — built as a universal floor plus per-population
+Every item above is now checked off and folded back into `Human_Universals_Culture_Framework.md` and
+`Robot_Physiology_and_Cultural_Practices.md` (2026-08-07). Per that file's own "Suggested next steps," the
+natural next deliverable is a robot-side culture document — built as a universal floor plus per-population
 variation via Part 3, not a single monolithic `Robot_Universal_People.md` the way Brown wrote one composite
 chapter for all humans.
