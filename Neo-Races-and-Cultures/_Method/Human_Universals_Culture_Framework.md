@@ -179,6 +179,16 @@ be genuinely brain-produced rather than just behaviorally observed.
 - **DECIDED:** this project already has five established robot religions, with at least one (Cymatics
   Reverence) explicitly grounded in a robot-specific physiological fact rather than an imported human
   belief structure. See [[project_robot_religions_status]].
+- **Important distinction, corrected 2026-08-06:** "transfer" throughout this framework is used in Brown's
+  technical sense — whether a *universal trait-category* (theory of mind, self-concept, etc.) applies to
+  robot culture the way it applies to human culture. It does **not** mean a robot's own individual mind is
+  itself transferable/copyable data. The gel brain's contents are constantly moving, constantly shifting —
+  a continuous dynamic process, the same as a human brain's own state, not a static, readable dataset (see
+  `Robot_Physiology_and_Cultural_Practices.md`). Mind uploading is exactly as unrealistic for a robot as for
+  a human, for the same underlying reason, already reflected in Calethina's own substrate-transfer design
+  ("a real risk of memory loss or alteration — there is no clean, risk-free option"). A localized physical
+  brain strengthens the case that cognitive universals have a real causal mechanism to transfer *through* —
+  it says nothing about whether the specific contents of that brain could ever be cleanly moved or copied.
 - **OPEN, sharpened this update:** Brown's "cognitive imperative" (mode #7's own worked example — humans
   are driven to impose coherent explanatory order on unexplained stimuli, absent which supernatural
   first-causes get invented) would, if it transfers, retroactively explain *why* robot religions exist at
