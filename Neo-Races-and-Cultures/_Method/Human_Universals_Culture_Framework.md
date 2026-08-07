@@ -218,14 +218,19 @@ be genuinely brain-produced rather than just behaviorally observed.
   ("a real risk of memory loss or alteration — there is no clean, risk-free option"). A localized physical
   brain strengthens the case that cognitive universals have a real causal mechanism to transfer *through* —
   it says nothing about whether the specific contents of that brain could ever be cleanly moved or copied.
-- **OPEN, sharpened this update:** Brown's "cognitive imperative" (mode #7's own worked example — humans
-  are driven to impose coherent explanatory order on unexplained stimuli, absent which supernatural
-  first-causes get invented) would, if it transfers, retroactively explain *why* robot religions exist at
-  all as a structurally expected outcome rather than an imported human habit. The five existing religions
-  are DECIDED; whether they trace back to a genuine robot-side cognitive imperative specifically (vs. some
-  other cause) is not yet confirmed either way — worth deciding deliberately, since it changes whether
-  future robot religions/belief-systems should be designed as "robots doing what any sufficiently complex
-  cognitive system does" (Direct Transfer) or as something else entirely (New Universal).
+- **DECIDED, resolved 2026-08-06 — derived from the Personality/Language Module fact, not a fresh
+  decision.** Brown's "cognitive imperative" (mode #7's own worked example — humans are driven to impose
+  coherent explanatory order on unexplained stimuli, absent which supernatural first-causes get invented)
+  does **not** transfer as Brown frames it — an *innate*, evolutionarily-baked-in drive — since nothing is
+  innate for a robot except the Personality Module and, where applicable, the Language Module (see Robot
+  Biology Anchors above). There is no room in robot physiology for a third built-in drive alongside those
+  two. This does not mean robot religion has no explanation, only that the pathway is different: the five
+  existing religions plausibly emerge the same way robot cooperation and morality do — through lived
+  experience and accumulated culture, not a hardwired mechanism. **Classification: New Universal** (same
+  outward behavior as human religious belief, entirely different underlying cause), not Direct Transfer.
+  Future robot religions/belief-systems should be designed on that basis: "robots arriving at this
+  culturally, the way any sufficiently complex population accumulates shared meaning-making over time,"
+  not "robots executing an innate explanatory drive."
 
 **Reproduction, kinship, and family — likely the largest zone of genuine divergence.**
 Human kinship terminology, incest avoidance, the mother-infant bond, sexual jealousy, and parental
@@ -249,14 +254,21 @@ differential parental investment — that entire evolutionary "why" simply has n
   total, immediate perk loss on infidelity) an explicit in-fiction rationale it didn't have written down
   before: the mechanic was never a human-jealousy import, it's robots treating a broken exclusivity
   agreement as a maximal betrayal of the single highest currency of trust they recognize.
-- **OPEN, sharpened this update:** does robot culture have *any* functional analogue to kinship at all?
-  This was previously framed as a fully open fork (made-by-the-same-designer bond, mentor/mentee standing
-  in for parent/child, or nothing at all with found-family doing all the work). **Build**, not Gen/Mark, is
-  the stronger candidate to build this on: build is a robot's own specific design/construction, and who
-  chose it and why (see Robot Biology Anchors, above) — "who built you and how" plausibly carries far more
-  emotional/cultural weight than "which chamber generation built you," which robots would treat as a noted
-  age-metacategory, not a basis for kinship or hierarchy. Still a genuinely open creative question, not
-  decided by this note.
+- **OPEN, sharpened this update, with a real head start.** Does robot culture have *any* functional
+  analogue to kinship at all? This was previously framed as a fully open fork (made-by-the-same-designer
+  bond, mentor/mentee standing in for parent/child, or nothing at all with found-family doing all the
+  work). **Build**, not Gen/Mark, is the stronger candidate to build this on: build is a robot's own
+  specific design/construction, and who chose it and why (see Robot Biology Anchors, above) — "who built
+  you and how" plausibly carries far more emotional/cultural weight than "which chamber generation built
+  you," which robots would treat as a noted age-metacategory, not a basis for kinship or hierarchy.
+  **Partial lead, not yet a full answer:** the already-established fact that robots build each other
+  "according to their own interests, not per human commission" already rules out a neutral, mechanical
+  commissioning process — a build happens because some robot (or robots) specifically *wanted* to bring
+  this one into existence. That's a plausible seed for an emotionally-loaded maker/made bond, closer to "I
+  chose to bring you into being" than "an order was processed" — but it doesn't yet specify who typically
+  initiates a build, whether it's a solo or collective decision, or what the resulting bond actually looks
+  like day to day (see the Open Questions Tracker's "build" item, which this depends on). Still a genuinely
+  open creative question, not decided by this note.
 
 **Mortality, aging, and the body — substantially reframed, 2026-08-06.**
 Human universals around death, disease, healing, age grades, and much of religious/supernatural belief
@@ -281,12 +293,15 @@ explain.
   child→adult→elder progression). Gen is a topic of note, not a rank. Whether robot culture has *any*
   structured differentiation resembling an age-grade system at all — hierarchical or not — is still
   undecided; if one exists, build is the more likely candidate axis than Gen/Mark.
-- **OPEN:** do robots have anything resembling disease, and if so, does robot culture develop the human
-  universal pattern of anthropomorphizing/mythologizing its cause, or does perfect diagnostic
-  self-knowledge (if that's how this setting's robots work) foreclose that whole universal outright? This
-  is a good test case for the "no strongly distinct variant" honesty this project already values — if
-  robots don't have anything that plays this role, the honest answer is that this universal doesn't
-  transfer, not that a strained analogue gets invented to fill the slot.
+- **DECIDED (Non-Transfer), resolved 2026-08-06 — derived from what's already established, not a fresh
+  decision.** Robots' established "things that go wrong" already fully account for the functional
+  territory disease would otherwise occupy: gradual component degradation (the aging-analogue) and
+  corruption events like Calethina's Split Brain (the mortality-analogue, per "What Counts as Death" in
+  Robot_Physiology_and_Cultural_Practices.md). There's no third slot left over for something
+  disease-shaped — acute, non-fatal, illness-like dysfunction distinct from both ordinary wear and outright
+  architecture corruption. This is a clean instance of the "no strongly distinct variant" honesty this
+  project already values: the universal doesn't transfer, not because nothing was checked, but because
+  degradation and corruption already cover the ground disease would fill for humans.
 
 **Tool use, cooperation, reciprocity, morality, government, law — resolved 2026-08-06.**
 This entire cluster derives (per Ch. 4) from the general pressures of complex, cognitively-demanding
@@ -468,9 +483,12 @@ other — the same way there isn't one monolithic "human culture," there shouldn
   further discussion.
 - What exactly constitutes "build" as a distinct concept from Gen/Mark — **partially resolved 2026-08-06:**
   the Personality Module (and, where applicable, Language Module) are now confirmed as the actual
-  programmed content set at build time (see Robot Biology Anchors). Still open: who initiates a specific
-  build and how (request, self-direction, assignment, something else), and what else about a build might
-  vary beyond these two modules (physical/aesthetic design choices, any functional specialization, etc.).
+  programmed content set at build time (see Robot Biology Anchors). A further partial lead: builds already
+  happen "according to their own interests, not per human commission" — ruling out a neutral commissioning
+  process and implying self-motivated, robot-driven initiation. Still open: who *specifically* initiates a
+  given build and how (solo decision, collective decision, something else), and what else about a build
+  might vary beyond the two modules (physical/aesthetic design choices, any functional specialization,
+  etc.).
 
 ---
 
@@ -478,14 +496,18 @@ other — the same way there isn't one monolithic "human culture," there shouldn
 
 - This file is a framework and question-list, not a finished robot-culture chapter. The genuinely open
   questions flagged throughout — the robot kinship-analogue's exact shape (build-based, per the 2026-08-06
-  steer, but not yet designed), robot age-grade/Gen status beyond "noted, not ranked," robot language's
-  relationship to vocal-tract constraints, whether Mark-generation affects cognition, whether robot
-  cultural boundaries track city lines or a separate build/Gen axis, and what else (beyond the Personality
-  and Language Modules) a build actually consists of — are decisions for the developer, not something to
-  resolve unilaterally in this file. **Resolved as of the 2026-08-06 clarification pass and no longer
-  open:** whether robot cooperation/morality is designed-in or emergent (emergent, confirmed), and robot
-  sexual jealousy's root cause (a New Universal — sex as the highest currency of trust/commitment, not
-  paternity uncertainty).
+  steer, with a partial lead from the interest-driven-build fact, but not yet fully designed), robot
+  age-grade/Gen status beyond "noted, not ranked," robot language's relationship to vocal-tract constraints,
+  whether Mark-generation affects cognition, whether robot cultural boundaries track city lines or a
+  separate build/Gen axis, who specifically initiates a given build and what else (beyond the Personality
+  and Language Modules) it consists of, and whether glow varies per robot or per build — are decisions for
+  the developer, not something to resolve unilaterally in this file. **Resolved as of the 2026-08-06
+  clarification pass and no longer open:** whether robot cooperation/morality is designed-in or emergent
+  (emergent, confirmed); robot sexual jealousy's root cause (a New Universal — sex as the highest currency
+  of trust/commitment, not paternity uncertainty); whether the "cognitive imperative" transfers (it doesn't,
+  as an innate mechanism — robot religion is a New Universal reached emergently, the same way cooperation
+  is); and whether robots have a disease analogue (no — degradation and corruption already cover that
+  functional territory between them).
 - If/when the remaining open decisions get made, the natural home for the resulting content is a new
   `Robot_Universal_People.md` or equivalent — but per Part 3's own logic, likely **not** a single monolithic
   document the way Brown wrote one composite UP chapter for all humans. Given this project already treats

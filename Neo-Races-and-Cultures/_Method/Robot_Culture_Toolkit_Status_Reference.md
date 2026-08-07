@@ -35,7 +35,13 @@ city/build/Gen variation gets layered on:
   vernacular any ordinary robot speaks day to day. See `Sumerian_Language_in_Robot_Culture.md`.
 - **At least five established religions**, with at least one explicitly grounded in a robot-specific
   physiological fact (the wider sound/vibration perception range) rather than an imported human belief
-  structure.
+  structure. *(Sharpened 2026-08-06, derived rather than freshly decided: Brown's "cognitive imperative"
+  doesn't transfer as an innate mechanism, since nothing is innate for a robot except the Personality/
+  Language Modules — robot religion is a New Universal, reached the same emergent way cooperation is.)*
+- **No disease-equivalent exists, and that's a confirmed finding, not a gap.** *(Derived 2026-08-06:*
+  robots' established "things that go wrong" already fully account for that territory — gradual component
+  degradation (the aging-analogue) and corruption events like Calethina's Split Brain (the
+  mortality-analogue) — with no third slot left over for something disease-shaped.)
 - **Only two things are ever programmed into a robot at build time** — a Personality Module (randomized,
   roughly Enneagram-spec-like) and, where applicable, a Language Module. Everything else about a robot's
   personality, values, morality, and social convention is **emergent**, developed through lived experience.
@@ -96,11 +102,13 @@ from — Part 3's own territory, deliberately separate from the universal-floor 
 See `Robot_Culture_Open_Questions_Tracker.md` for the full, checkable list with notes space. As of
 2026-08-06, prioritized by the developer directly:
 
+**Resolved 2026-08-06, derived from information already on hand** (see Section 1, above): whether the
+"cognitive imperative" transfers to robots (no, not as an innate mechanism), and whether robots have
+anything resembling disease (no — degradation and corruption already cover that territory).
+
 **Essential:**
-- What "build" actually consists of, beyond the two seed modules
-- The kinship analogue's actual shape
-- Whether the "cognitive imperative" transfers to robots
-- Whether robots have anything resembling disease
+- What "build" actually consists of, beyond the two seed modules (partial lead: interest-driven initiation)
+- The kinship analogue's actual shape (partial lead: a plausible maker/made bond, not yet fully specified)
 - Whether robot language keeps human-style phoneme-range constraints
 
 **Secondary:**
