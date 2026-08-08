@@ -194,3 +194,51 @@ scoped narrowly to one mechanic (romance dealbreaker traits), not general inner-
   for a companion whose psychological wound persists *through* nominal success, not just before it); **Wins
   by Losing** (fights hard against a change, loses that fight, and the outcome turns out better than what
   she was clinging to).
+
+## From *Characters, Emotion and Viewpoint* — Nancy Kress (extracted 2026-08-08, partial — Chapters 3-4 of
+16, rest unread)
+
+- **Backstory is only needed in proportion to how much a motivation defies reader assumption.** If a desire
+  already makes intuitive sense given who the character visibly is (a detective wanting to catch a killer),
+  no backstory is required. The more a motivation cuts against expectation — the context, the era, the
+  person's visible circumstances — the more backstory is actually needed to make it land. Practical
+  implication: don't backstory-justify every companion trait uniformly; spend that effort specifically where
+  a motivation would otherwise read as unearned or strange.
+
+- **"The body doesn't lie" — bodily reactions and private thoughts outrank actions and dialogue as signals of
+  real feeling.** When a companion is performing one emotion while feeling another, let her actions and
+  dialogue carry the performance, but let bodily sensation and interior thought carry the truth. A concrete,
+  reusable tell-set for a companion who's lying or concealing something: avoiding eye contact, tightness or a
+  rise in vocal pitch, restlessness, defensiveness, or anger arriving faster than the situation warrants —
+  useful specifically for scenes where the player needs to *notice* a companion is hiding something before
+  she'll admit it.
+
+- **The core technique for a "motivationally complicated" character: give her two colliding values, not one
+  clean motivation.** People are rarely driven by a single monolithic want — real complexity comes from
+  holding two genuine values that occasionally conflict (the concrete example: wanting to reach out to
+  someone vs. not wanting to risk looking foolish doing it). Three-step method: (1) pick two values/desires
+  in tension, chosen specifically to reveal the personality you want the player to see; (2) in a given small
+  moment, decide which value "wins" — this alone does real characterization work; (3) decide her *attitude*
+  toward having made that choice — hope of eventually getting the other thing anyway, anger at having had to
+  choose, resignation, self-blame. That attitude is often more revealing than the choice itself. This works
+  at the scale of a single small optional scene (an unsent letter, a private habit) just as well as at the
+  scale of an entire questline — you don't need a whole arc to reveal real depth, a well-chosen tiny moment
+  can do it.
+
+- **Dialogue can signal inner conflict through deviation from established character, not through stating the
+  conflict.** A companion who is normally too composed or private to explain herself to anyone, suddenly
+  offering an unprompted justification for a small decision, is itself the tell of real internal turmoil —
+  more effective than having her or another character name the feeling directly. The deviation from her own
+  baseline behavior carries the weight.
+
+- **Mixed/contradictory feelings toward one specific person, and two ways to show them:** (1) *across
+  different scenes* — let a companion's attitude toward the same person genuinely vary scene to scene (real
+  dislike here, a flash of unexpected protectiveness there) rather than holding one note the whole time; (2)
+  *within the same scene* — harder, and only lands if earlier scenes already established each conflicting
+  emotion separately on its own, so the combined moment reads as earned complexity rather than confusing
+  inconsistency. Don't attempt the same-scene version without having banked the separate-emotion setup
+  first.
+
+*(Only Chapters 3-4 of 16 read so far — the book also has dedicated chapters on showing change, genre
+protagonists, humor, and viewpoint mechanics (first/third/omniscient) not yet checked for methodology-
+relevant material.)*
