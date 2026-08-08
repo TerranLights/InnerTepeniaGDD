@@ -21,7 +21,12 @@ These are practitioners (mostly robots, although humans are allowed to join) who
 {to-be-named) [placeholder term: "God-mind universe simulation" / Universal Simulation Theory]
 (https://www.youtube.com/watch?v=wsrcYiTTNQU)
 ##### Summary:
-God knows everything, except where God comes from. Therefore, God is constantly running simulations of his beloved creation in order to try to figure out where he Himself comes from. **Moved here 2026-07-20 from the Adinkra entry above, where it was originally (and incorrectly) filed:** likely splits into subdivisions of Nihilism, subdividing according to Camus, Sartre, and Nietzsche. I personally think that the Camus-nihilist robots would be the most fun people.
+God knows everything, except where God comes from. Therefore, God is constantly running simulations of his beloved creation in order to try to figure out where he Himself comes from. **Moved here 2026-07-20 from the Adinkra entry above, where it was originally (and incorrectly) filed.** **Corrected 2026-08-08: this religion is not nihilist.** These have always been two separate religions in the developer's own conception, not one religion with nihilist subdivisions — an editing mistake (not a developer decision) had merged the two together into this single entry. See "Simulation Reality" below for the actual, distinct nihilist religion.
+
+### Name:
+{to-be-named) [placeholder term: "Simulation Reality" (godless)]
+##### Summary:
+**Corrected 2026-08-08 — restored as its own entry.** This has always been a religion genuinely distinct from "God-mind universe simulation" above, in the developer's own conception; an earlier editing pass incorrectly merged the two into a single entry, which this fixes. This religion holds that reality is a simulation, but with no God or creator-mind running it — a godless counterpart to the God-mind belief above, related in premise but always intended as its own, separate religion. This is the tradition that splits into subdivisions of Nihilism, subdividing according to Camus, Sartre, and Nietzsche. (Developer's own aside: the Camus-nihilist robots would probably be the most fun people.)
 
 ### Name:
 {to-be-named) [placeholder term: "Polydimensional Animism"]
