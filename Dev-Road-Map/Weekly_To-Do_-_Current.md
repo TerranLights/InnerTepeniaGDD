@@ -87,7 +87,7 @@ file and start a fresh one for the next stretch of work).
   resident's own life actually consists of day to day. Further raw material for Under-Questline generation
   (and general NPC/character writing) once all three passes exist.
 
-- [ ] **District Main vs. Under-Questline candidates — generate more**
+- [ ] **District Main vs. Under-Questline candidates — generate more** ⭐ *(unblocked 2026-08-08 — see below)*
   Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
   are established; each district currently has only its *first* main-questline candidate. Main questlines:
   generate several candidates per district using the existing Internal-Conflict format, then narrow to
@@ -98,7 +98,22 @@ file and start a fresh one for the next stretch of work).
   (weighted diaspora composition + specific named cultural transplants per district) and the matching
   2026-07-31 diaspora-informed extension of all 13 `Deep_Dives/[NN]_[District]_Deep_Dive.md` files (4-5 new
   findings each) give this generation pass real, specific, named hook material it didn't have before — see
-  `TODO.md`'s own new entry for the full picture. Not yet run.
+  `TODO.md`'s own new entry for the full picture. **This item was deliberately held pending a thorough robot
+  culture foundation, per the developer's own explicit sequencing decision — that foundation (the "Robot
+  Universals" reference book, `TepenianUniverseTimeline/Reference/Robot_Universals/`) is now complete as of
+  2026-08-08, so this is unblocked and ready to actually run.** Not yet run.
+
+- [ ] **Doll Character Spec / Companion-Romance backstory depth — psychological depth and inner conflict**
+  ⭐ *(unblocked 2026-08-08, same reason as above)*
+  Also deliberately held pending the robot culture foundation — much of what the Character Spec and
+  Companion/Romance Fill-In sheets ask about (kinship, build, personality formation) was unresolved for
+  robots specifically until Robot Universals was finished. Now unblocked. Relevant material: the fill-in
+  templates themselves (`Worldspace/Characters/Dolls/Character_Spec_Fill-In_Sheet_Template.md`,
+  `Worldspace/Characters/Dolls/Companion_and_Romance_Questline_Fill-In_Sheet_Template.md`, and the composite
+  `z-template/` folder), and TODO.md's own existing "Remaining named Doll characters — personality and
+  backstory development" entry (Medium Priority — Character Development) listing the six companions still
+  needing this pass: Kendra Heinrich, Meyzan Yocazhda, Michelle Stanton, Salagéa Aparast, Vosora Lashár
+  Tanslock, and Calethina.
 
 ---
 
