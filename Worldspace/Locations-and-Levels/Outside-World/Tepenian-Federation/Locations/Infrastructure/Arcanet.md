@@ -19,8 +19,8 @@ physical link to the rest of the world's own network.
 **Relevance to robot language (see `Neo-Races-and-Cultures/_Method/Human_Universals_Culture_Framework.md`):**
 because the Arcanet is a data/information network, not an alternate spoken-language medium, it has no
 bearing on vocal phonology — robot vernacular languages stay within the same human-style phonemic/vocal-tract
-constraints as whatever surrounding human culture they're drawn from, regardless of also having Arcanet
-access.
+constraints as whatever dominant local culture and community they're drawn from, regardless of also having
+Arcanet access.
 
 See also: [[feedback_arcanet_solarnet_naming]] (always "the Arcanet"/"the Solarnet" standalone, no article as
 modifier) and [[feedback_extreme_altitude_arcanet]] (Dome Fuji/Kunlun/Vostok have basically no Arcanet access,

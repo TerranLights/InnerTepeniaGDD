@@ -189,10 +189,14 @@ above — cited here so future passes don't need to re-derive it from that file 
     you into existence, and what you turned out like" than a free-floating, cross-cutting identity axis.
     Worth weighing against Part 3's own cultural-boundary discussion, below.
   - **Language (the Language Module)** — a fully separate, third phenomenon. Robot vernacular language
-    tracks the surrounding human culture a robot comes online and develops within, the same way it works
-    for humans (a robot raised in a Chinese-dominated society speaks Chinese, delivered at least in part via
-    the Language Module, mechanism not yet determined). See "Language and communication," below, for how
-    this relates to Sumerian's own, narrower, already-established liturgical role.
+    tracks the dominant local culture and the community who had her built — robot, human, or both — a
+    robot comes online and develops within, the same way it works for humans (a robot raised where the
+    dominant local culture and the residents who built her are Chinese-speaking speaks Chinese, delivered
+    at least in part via the Language Module, mechanism not yet determined). **Corrected 2026-08-08:**
+    earlier phrasing here said "surrounding human culture," which wrongly assumed language transmission
+    always runs through humans specifically rather than whichever community — robot-majority, human-majority,
+    or mixed — actually surrounds a given robot. See "Language and communication," below, for how this
+    relates to Sumerian's own, narrower, already-established liturgical role.
 - **The Cradle/chamber system, with a Mark/Gen distinction** ([[project_robot_fabrication_chambers]]):
   *Mark* = the chamber hardware's own generation (Mark IV currently, designed at Neumayer). *Gen* = a
   robot's own generational identity, tracking which Mark chamber built them — explicitly a separate fact
@@ -369,11 +373,15 @@ Ch. 4 and Ch. 6 both treat language structure (phonemes, grammar, figurative spe
 independent of the specific biology of the reproducing organism using it — it's driven by the needs of
 abstraction, social manipulation, and gossip in a group-living, cognitively complex species, not by
 anything reproduction-specific.
-- **DECIDED, corrected 2026-08-06 — this category previously mischaracterized existing canon.** A robot's
-  everyday, vernacular language tracks the surrounding human culture they came online and developed
-  within, the same way it works for humans — a robot activated and raised in a Chinese-dominated society
-  would speak Chinese, delivered at least in part through a Language Module at build time (mechanism
-  undetermined). This is, notably, a **confirmed, already-working instance of Part 3's own
+- **DECIDED, corrected 2026-08-06, further corrected 2026-08-08 — this category previously mischaracterized
+  existing canon.** A robot's everyday, vernacular language tracks the dominant local culture and the
+  community who had her built — robot, human, or both — that she came online and developed within, the same
+  way it works for humans — a robot activated and raised where the dominant local culture and residents who
+  built her are Chinese-speaking would speak Chinese, delivered at least in part through a Language Module
+  at build time (mechanism undetermined). **2026-08-08 correction:** this line previously said "surrounding
+  human culture," which wrongly assumed language transmission always runs through humans specifically —
+  robots teach language too, and in robot-majority cities that's plausibly the dominant vector, not humans.
+  This is, notably, a **confirmed, already-working instance of Part 3's own
   condition-derived-variation mechanism**, discovered here to apply to language specifically rather than
   being a fixed, uniform robot-wide fact as this file previously (and incorrectly) stated. **Sumerian is
   not the general robot language** — the previous "DECIDED: robots already speak Sumerian" line
@@ -395,7 +403,7 @@ anything reproduction-specific.
   isolated population, not privacy/secrecy). Since the Arcanet is a data/information channel, not an
   alternate spoken-language mode, it has no bearing on vocal phonology at all — robot vernacular language
   (per the locally-conditioned rule above) stays within the same human-style phonemic/vocal-tract
-  constraints as whatever surrounding human culture it's drawn from, full stop.
+  constraints as whatever dominant local culture and community it's drawn from, full stop.
 
 **Aesthetics, play, and consumption.**
 Ch. 4's "partial explanations" chapter treats aesthetics and play as a disparate bundle of adaptive and
@@ -477,8 +485,8 @@ other — the same way there isn't one monolithic "human culture," there shouldn
    new-universal that survived Part 2 at the substantive level, ask which condition from Step 1 plausibly
    shapes its expression in a given population — the same question already asked of every human city, run
    against robot-specific content instead. Robot vernacular language (Part 2's Language category) is now a
-   confirmed worked example: condition = city/surrounding human culture, expression = which specific
-   language a robot speaks day to day.
+   confirmed worked example: condition = the dominant local culture and community (robot, human, or both),
+   expression = which specific language a robot speaks day to day.
 
 3. **Use the Universal Pool mechanism as the generator of difference.** For anything Brown frames as
    "select from a fixed pool" (phonemes, kinship-structuring elements, and by extension whatever

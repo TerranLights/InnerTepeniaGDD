@@ -28,10 +28,12 @@ city/build/Gen variation gets layered on:
   is irreversible cognitive- or energy-architecture destruction with no bring-back-online path — see
   `Robot_Physiology_and_Cultural_Practices.md`'s "What Counts as Death." Calethina's own corruption is
   serious ongoing damage, not yet past that threshold.)*
-- **Robot vernacular language tracks the surrounding human culture** a robot comes online and develops
-  within, the same way it works for humans — a confirmed, already-working instance of Part 3's own
-  condition-derived-variation mechanism. *(Corrected 2026-08-06 — supersedes this list's earlier framing
-  of Sumerian as the default robot language.)* Sumerian itself remains real, established canon, but as a
+- **Robot vernacular language tracks the dominant local culture and the community who had her built** —
+  robot, human, or both — a robot comes online and develops within, the same way it works for humans — a
+  confirmed, already-working instance of Part 3's own condition-derived-variation mechanism. *(Corrected
+  2026-08-06 — supersedes this list's earlier framing of Sumerian as the default robot language. Further
+  corrected 2026-08-08 — earlier phrasing said "surrounding human culture," which wrongly assumed language
+  transmission always runs through humans specifically.)* Sumerian itself remains real, established canon, but as a
   **liturgical register**, adopted specifically by memory-keeper-vocation robots/factions — not a
   vernacular any ordinary robot speaks day to day. See `Sumerian_Language_in_Robot_Culture.md`. **Resolved
   2026-08-07: this vernacular language stays within human-style phonemic/vocal-tract constraints, full
@@ -117,8 +119,8 @@ just "robots are different because robots":
   instead (see Section 3).
 - ~~No vocal-tract constraint on language~~ — **resolved 2026-08-07 as a non-divergence: this does NOT hold.**
   The Arcanet is a data/information network, not a competing spoken-language medium (see Section 1, above),
-  so robot vocal language stays within the same human-style phonemic/vocal-tract constraints as any
-  surrounding human culture. Kept here, struck through, as a record that this candidate divergence point was
+  so robot vocal language stays within the same human-style phonemic/vocal-tract constraints as whatever
+  dominant local culture and community it's drawn from. Kept here, struck through, as a record that this candidate divergence point was
   checked and ruled out — language diverges only in *which* vernacular a robot speaks (condition-derived,
   per Section 1), never in its underlying phonemic structure.
 
@@ -160,7 +162,7 @@ from — Part 3's own territory, deliberately separate from the universal-floor 
   class-potency split) confirming this kind of population-conditioned variation is already the project's
   own house style, not a new invention.
 - **Language is a second confirmed worked example** of this mechanism in action (see Section 1, above) —
-  condition (surrounding human culture) produces variation (which specific vernacular a robot speaks),
+  condition (the dominant local culture and community) produces variation (which specific vernacular a robot speaks),
   discovered rather than designed. **Sexuality's courtship customs (Section 1, above) are a third worked
   example** — condition (city/community and individual personality) produces variation (courtship ritual),
   layered on top of a robot-wide constant (sex as the highest trust currency).
