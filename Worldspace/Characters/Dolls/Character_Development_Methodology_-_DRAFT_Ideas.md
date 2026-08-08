@@ -242,3 +242,670 @@ scoped narrowly to one mechanic (romance dealbreaker traits), not general inner-
 *(Only Chapters 3-4 of 16 read so far — the book also has dedicated chapters on showing change, genre
 protagonists, humor, and viewpoint mechanics (first/third/omniscient) not yet checked for methodology-
 relevant material.)*
+
+## From *The Art of Character* — David Corbett (extracted 2026-08-08, partial — Chapters 6, 9, and the
+opening of 10, out of 25; likely the single strongest chapter of any book mined so far)
+
+- **A real clinical framework worth adapting directly: the four-tier hierarchy of defense mechanisms**
+  (Vaillant/Anna Freud), useful as a graded menu for how a companion handles her core desire being blocked —
+  from least to most adaptive:
+  - *Psychotic-tier* (least adaptive): paranoia, hallucination, megalomania
+  - *Immature-tier*: passive aggression, hypochondria, projection, fantasy
+  - *Neurotic-tier*: intellectualization (turning feeling into thought), dissociation, repression
+  - *Mature-tier* (most adaptive): altruism, humor, anticipation, suppression (postponing dealing with it),
+    sublimation (channeling it into an acceptable outlet)
+  A genuinely striking real-world finding underlies this: a 72-year Harvard longitudinal study found the
+  single greatest factor in a happy, successful life wasn't what happened to a person, but *how they
+  characteristically responded to stress and failure*. This is a strong, literature-grounded case for why a
+  companion's coping style matters as much as her backstory events.
+
+- **Writers default to giving protagonists only mature-tier adaptations — deliberately don't.** Wit,
+  patience, and resolve under pressure are a "lost opportunity" for depth. Even primitive defenses (denial,
+  projection, obsession, addiction) are not inherently broken or cartoonish — they're how most real people,
+  including healthy ones, actually cope some of the time. A companion given a genuinely lower-tier coping
+  style for her core wound, handled with real specificity, reads as more human than one who's uniformly
+  composed.
+
+- **Finding a companion's authentic defense mechanism: mine it the same way you'd interrogate a real memory.**
+  Return to a genuinely charged personal moment (fear, shame, guilt) and ask how you actually responded, then
+  ask the same question of the character in an equivalently charged scene, and watch what she does rather
+  than deciding it abstractly. Every defense mechanism contains, structurally, both *deceit* (refusing to face
+  the emotional truth) and *cowardice* (lacking the will to return and face it) — which is exactly why
+  overcoming one requires both insight and courage, and exactly why it's strong dramatic material.
+
+- **The Ghost and the Revenant — a distinct, complementary formulation to Truby's Ghost (Chapter 6 of Part I
+  of this book, on Truby).** Corbett's Ghost is the past failure or pattern of pain a companion's defense
+  mechanism exists to avoid — it can be a single embodying person or a generalized pattern, though a single
+  character is usually more dramatically effective than an abstract pattern. The **Revenant** is Corbett's
+  own addition: a *present-day* character who forces the companion to confront that same unresolved problem
+  again, now. Critically, **the Revenant should almost always be an actual person in the story, not an
+  internal situation** — without one, the companion is left working out her conflict through pure internal
+  rumination, which drags. Practical translation: a companion's core wound needs both a backward-facing
+  anchor (who/what hurt her) and a forward-facing pressure point (who, right now, is making her deal with it
+  again) — and the second one matters as much as the first.
+
+- **Core desire vs. secondary desires can call on genuinely different coping styles — and should.** How a
+  companion handles frustration of her *core* desire (the thing that goes to the essence of her life) may be
+  completely unrelated to how she handles minor daily frustrations unconnected to it. A companion can be
+  mature and capable in one domain (a fix-it competence, professional composure) while being neurotic or
+  immature specifically where her core wound is implicated. This asymmetry is itself real characterization,
+  not an inconsistency to smooth over — it directly feeds the Contradiction techniques below.
+
+- **A systematic taxonomy of contradiction, from most superficial to most substantial — six named types,
+  usable as a checklist when a companion feels flat:**
+  1. *Physical/ironic/comic juxtaposition* — a purely surface incongruity (the huge man with the tiny nickname,
+     the delicate hands on a brute). Useful for flavor, not depth on its own.
+  2. *Serving multiple social roles* — a person genuinely is a different self at work, at home, in crisis,
+     in intimacy — not inconsistency, just being different people in different rooms, the same way real
+     people are. A companion who's decisive and blunt on duty but suddenly soft and uncertain in a private
+     moment isn't contradicting herself, she's occupying a different role.
+  3. *Competing morals or goals* — the heaviest, most classically dramatic tier: two real values in direct,
+     irreconcilable tension (loyalty to one person vs. duty to another). This is where core-conflict material
+     belongs.
+  4. *Secret or deceit* — concealment inevitably leaks as behavior that looks inexplicable until the secret
+     surfaces; the tension itself, not just the eventual reveal, is usable material throughout.
+  5. *Conscious vs. unconscious traits* — suppressing a trait secretly increases its pressure ("for every
+     trait publicly exhibited, its opposite lurks somewhere in the psyche"). Useful specifically for making
+     a companion's occasional out-of-character action read as organic rather than random: root it in a
+     suppressed shadow-trait rather than treating it as arbitrary.
+  6. *Dispositional/constitutional contradiction* — a paradox that's simply who the character is, not always
+     traceable to a specific cause — and that's fine. **Readers do not need or want everything explained.**
+     Don't force an origin story onto every contradiction; some just need to cohere as one intuited whole.
+
+- **A real diagnostic test for whether a contradiction is working:** does it pull you (the writer) *toward*
+  the character, deepening engagement — or does it create distance, making you merely "look at" her as a
+  constructed idea? If the latter, the contradiction reads as decoration, not depth, no matter how clever it
+  is on paper.
+
+- **A contradiction can be too extreme to work dramatically, even if it works comedically.** There's a
+  plausibility ceiling — implausible contradictions read as comic (the mob boss with the Yorkie) rather than
+  deepening a serious character. Know which register a given companion's contradiction is actually operating
+  in before using it.
+
+- **Don't over-explain a companion — mystery itself is a virtue, not just an efficiency shortcut.** A
+  character you fully understand becomes "limited, static, necessarily predictable" — there has to be
+  something about her the player (and even the writer) doesn't fully resolve. This goes further than Kress's
+  "don't over-explain the fear's origin" point: it's not just that explanation is unnecessary, full
+  transparency actively kills what makes a character worth continuing to watch.
+
+- **A simple, concrete exercise for surprising-yet-plausible choices:** given what a companion would most
+  likely do in a specific situation, ask what she'd do if she did the *exact opposite* instead — then test
+  whether that reversal is still credible given everything else established about her. If it holds up, it's
+  usually stronger material than the expected choice.
+
+### Chapter 7 — The Power of Wounds: Vulnerability
+
+- **Vulnerability, not likability, is what actually pulls a player toward a character.** Audiences/players
+  will accept real unpleasantness, even outright unlikability, as long as the character is engaged in a
+  meaningful struggle. Don't chase making a companion pleasant; chase making her genuinely at stake.
+
+- **Three types of vulnerability, usable as a checklist:** *existential* (a wound, illness, or danger to her
+  body or continued existence), *situational* (external circumstance — stranded, out of resources, isolated),
+  *moral* (jeopardy from something she's done, whether or not the judgment against her is fair). All three
+  point back to the same underlying thing: a threat to her physical, emotional, spiritual, or psychological
+  self, which is what actually reveals the stakes of any given scene.
+
+- **Shame, precisely defined and distinguished from mere embarrassment:** "the excruciating fear of
+  disconnection that arises when we feel we have done something, or something about us has been revealed,
+  that will prompt others to recoil from us." Connection consistently ranks as one of the highest human
+  values, which is exactly why anything threatening it is maximally load-bearing for characterization.
+
+- **A concrete worthiness-and-shame question set for any companion:** Does she believe she's worthy of love?
+  If yes — who or what specific person/moment proved that to her (picture it as a scene)? What elements of
+  shame or insecurity persist *despite* that proof? If she believes she's not worthy — what specific event
+  created that conviction? Does she have a secret that inhibits her openness? When was the last time she was
+  genuinely open with someone, and how did it go? (One of the most devastating possible scenes: a character
+  risks vulnerability and gets exactly what she feared — rejection, disgust, betrayal.)
+
+- **What makes a companion vulnerable in a specific scene usually ties directly to what she wants in that
+  scene** — a fast, practical diagnostic when a scene feels flat: ask what's actually at risk for her here,
+  specifically.
+
+### Chapter 8 — The Gravity of the Hidden: Secrets
+
+- **The Law of the Secret Door** (Christopher Vogler): put a barrier between something and a character's
+  curiosity, and pursuing it becomes narratively inevitable. This is the mechanical root of why secrets
+  generate suspense almost automatically.
+
+- **Secrets don't have to be shameful — they only have to be something that can't be forgotten or shared.**
+  A striking real example: a woman whose family was murdered explains why she tells no one — "People look at
+  you differently when they know you've been through something terrible. It's the thing about you that they
+  find most interesting." A companion can plausibly hide even a sympathetic, non-shameful history for exactly
+  this reason.
+
+- **Secrets and repression are a difference of degree, not kind.** Repression is simply what happens when
+  concealing a secret becomes habitual over years. Both are driven by the same underlying fear: exposure
+  threatening one's public identity and standing.
+
+- **The deepest tier of complexity: a character who doesn't fully know her own truth.** Distinguish a
+  character who is self-aware about her own darkness (which makes her knowable, even if unsettling) from one
+  whose self-conception is itself another layer of self-deception (which makes her genuinely unpredictable
+  and far more unsettling). This is an advanced, occasional technique — reserve it for a companion or
+  antagonist meant to feel genuinely opaque even to the player who's invested deeply in her, not a default.
+
+- **Secondary characters benefit from secrets too, and timing is everything.** A secret revealed late,
+  attached to an otherwise minor character, can retroactively recolor everything already shown about them.
+  Rule of thumb: don't disclose a secret until necessary — usually well into the story, and as close to the
+  end as possible if it's central to the conflict.
+
+- **Don't pick a small secret unless deliberately going for comic effect.** A secret worth using should be
+  something that, if exposed, would genuinely change how the people who love her see her — not a trivial
+  concealment.
+
+### Chapter 10 (continued) — Serving and Defying the Tyranny of Motive
+
+- **"Explaining your character kills her"** (paraphrasing Robert McKee: "the more the writer nails motivation
+  to specific causes, the more he diminishes the character"). The reason Oedipus, Eve, and Prometheus stay
+  eternally compelling while a flatly-explained motive (envy, jealousy, pride, indecision — one word each)
+  reads as "ridiculously wooden": real behavior should feel like it arises from a character's *whole*
+  personality — her wants, contradictions, secrets, wounds, relationships, and history all at once — never
+  from one identifiable, nameable cause standing in for all of it.
+
+- **Reject single-root-motivator frameworks, even sophisticated-looking ones.** Lists of abstract universal
+  motivators (survival, safety, belonging, esteem, self-actualization, etc.) look reassuring but fall apart
+  once actually applied to a specific character — the categories aren't mutually exclusive and feel
+  artificially separated from something more organic. Don't reduce a companion's Character Spec to a single
+  labeled "core motivator."
+
+- **The "sweet spot" of how much to know about a character before writing her:** enough coherent intuition to
+  imagine her behaving with clarity and specificity — not so much that nothing about her can still surprise
+  you. Full comprehension and good characterization are in tension, not aligned.
+
+### Chapters 11-12 — Biography Through Scenes; Physical Nature
+
+- **Don't compile a static list of facts (height, eye color, occupation) as characterization.** Egri's
+  three-area framework (Physical / Psychological / Sociological) is worth keeping as a category checklist,
+  but the technique that actually matters is envisioning each fact *scenically* — how does this physical or
+  sociological trait actually affect her interactions with other people — not listing it as an inert
+  attribute on a sheet.
+
+- **"Characters reveal themselves more vividly in what they do and say than in what they think and feel."**
+  Grounded in a real philosophical claim (Heidegger, Habermas): the self is constituted by engagement with
+  others, not by internal reflection alone — thought and feeling can be revoked or superseded, action
+  requires commitment and has consequences. Practical rule: don't just state a companion's internal state:
+  show whether and how it actually converts into action when tested by a real scene. "It often matters little
+  how we feel or what we think. The key issue is: can we make those thoughts and feelings count for
+  something?"
+
+- **Physical description should answer three questions, not accumulate detail:** how does her outward
+  appearance reflect her inner life; how does her appearance affect her own behavior; how does it affect how
+  others react to her. Hair color and exact height are the least important part of physical characterization.
+
+### Chapter 13 — The Tempest Within: a systematic emotional-facet checklist (Desire, Fear, Courage, Love,
+Hate, Shame, Guilt, Forgiveness, Failure, Success/Pride covered; Religion, Food, Death not yet read)
+
+- **Fear is "the invisible companion in every meaningful scene"** and largely operates outside conscious
+  control. It frequently hides *behind* other emotions rather than presenting directly — anger is often a
+  mask for fear of powerlessness, resentment a mask for fear of being overlooked. Don't only ask what a
+  companion is afraid of directly; also ask what *positive* things she actively avoids pursuing, specifically
+  out of fear of having them and then losing them.
+
+- **Courage is measured against the specific fear it overcomes, and quieter forms count.** Enduring,
+  patience, biting one's tongue when a scene calls for restraint are real courage, not just dramatic action.
+  When deciding how a companion shows spine in a given moment, start from her underlying fear and write
+  forward from there, rather than starting from "what would look brave."
+
+- **Love is more important to get right for an opponent/antagonist than for a protagonist.** Many antagonists
+  read as cartoonish specifically because the writer never gave them anything to genuinely love — a real
+  capacity for love or tenderness is one of the fastest ways to make a hostile or morally compromised
+  character three-dimensional rather than a device. Also worth resisting: the sentimental assumption that
+  "love" is automatically redemptive or sufficient — some of the strongest material comes from love that is
+  real and still not enough, or that coexists with real harm.
+
+- **Hate is frequently a mask for a disowned part of the self.** Irrational or excessive hatred, especially
+  righteous-feeling hatred, often targets in someone else exactly the trait, courage, or freedom the hating
+  character is most ashamed of lacking in herself — a useful generator for a companion or rival whose
+  hostility toward another character needs a deeper root than simple opposition.
+
+- **Shame and Guilt are frequently conflated and shouldn't be — they're structurally different emotions
+  with different generative questions:**
+  - **Shame** is social: it concerns standing in a valued group (even a "group of one" — a mentor, a
+    partner), doesn't require the underlying act to actually be wrong, only exposing, and centers on
+    *withdrawal of love, approval, or status*. Craft tip worth taking literally: it's more productive to
+    envision a specific scene of a companion's public humiliation than to know her educational background.
+  - **Guilt** is private: a violation of one's *own* moral code, "between you and your conscience,"
+    independent of whether anyone else ever finds out. A particularly strong, underused variant: guilt that's
+    disproportionate or entirely undeserved — a companion who can't shed guilt for something that wasn't
+    actually her fault, precisely because there's no clean way to earn absolution from a debt she never
+    actually incurred. That kind of guilt reliably drives compensatory behavior (over-responsibility,
+    rescuing others, refusing help for herself).
+
+- **Forgiveness must be earned, yet is structurally a gift, not an entitlement — "contrition doesn't
+  automatically get you off the hook."** The most plausible fictional forgiveness is usually partial, not
+  full absolution, and requires visible work from *both* sides: the guilty party demonstrating real
+  contrition, the wounded party visibly working to let go of pain, resentment, and the moral high ground.
+  Skipping either side's visible effort makes the reconciliation feel unearned.
+
+- **Failure is a cornerstone-defining event, and the follow-up questions matter more than the failure
+  itself:** did it make her wiser or did it embitter and limit her; did she lower her goals afterward, raise
+  them, or leave them unchanged; did her failure let someone *else* down, and is that person still in her
+  life now?
+
+- **Success/Pride has its own live question: was she allowed to actually feel and show her pride, or did she
+  have to suppress it** — out of fear of looking vain, or because circumstances simply didn't permit
+  celebration? A companion's relationship to her own accomplishments can carry as much characterization as
+  her relationship to her failures.
+
+### Chapter 13 (continued) — Religion/Spirituality, Food, Death
+
+- **Don't skip a companion's relationship to belief just because the setting isn't built around organized
+  religion.** "A great many writers disregard faith... this is a missed opportunity, and belief or nonbelief
+  has little to do with it." This maps directly onto Robot Universals Chapter 15/22 — a companion's specific
+  relationship to one of the established robot religious traditions (or her specific reasons for holding
+  none) is exactly this kind of question, made concrete. Useful question set: was she raised in a tradition
+  and does she still practice it — if she lost it, picture the specific moment; if she found belief as an
+  adult, what crucible forged the conversion (often "gutting emptiness or corruption of spirit," not calm
+  reflection)? What does her belief forbid and encourage — what sin would she never commit, and what sin
+  might she commit under the right circumstances despite her convictions? If she has no belief, what actually
+  shapes her conscience instead?
+
+- **Food (and by direct extension, Robot Universals' consumption/vice material — siligel, coolant, robot
+  coffee, glitch-coolant) is a stand-in for gratifications otherwise missing: desire, love, companionship,
+  home.** Favorite consumption habits often echo back to formative circumstances; preparation/ritual around
+  consumption is frequently as characterizing as the substance itself. Simple, concrete exercise: if you're
+  having trouble picturing a companion, sit her down with what she's craving, or have her preparing/sharing
+  it with someone else, and watch what that reveals.
+
+- **Every meaningful character arc requires a real confrontation with mortality — not necessarily her own.**
+  It can be metaphorical (the death of an ego, a reputation, a self-image) or secondhand (the loss of someone
+  she loved), but it must be genuinely life-changing. This maps directly onto Robot Universals Chapter 4's
+  narrow, specific death threshold (irreversible cognitive- or energy-architecture destruction) — a
+  companion's formative confrontation with mortality doesn't have to be about her own end; losing a mentor,
+  a friend, or someone from her own city past that threshold works exactly the same way dramatically, and is
+  arguably a more available wound to write than her own near-death.
+
+- **A real craft warning worth weighing against this project's own established design law:** stories that
+  trivialize death by chasing happy endings ultimately undermine themselves. This actually reinforces, not
+  contradicts, this project's own standing "No Good Endings" companion design law (`Companion_System.md`) —
+  Corbett's argument from craft and this project's own design philosophy land in the same place independently.
+
+- **The Five Fundamental Types of Death** (from outside reference material, added by the developer 2026-08-08)
+  — a systematic complement to Corbett's looser "metaphorical or secondhand" framing above, giving "a
+  confrontation with mortality" five genuinely distinct concrete shapes to actually write, any of which can
+  ground a companion's core wound or a questline's climax without literal physical death being on the table:
+  - **Social death** — ostracism, loss of respect or standing, being cast out of a valued group.
+  - **Spiritual death** — disconnection from the Divine, or (translated for a robot companion) from whatever
+    belief system, tradition, or sense of meaning she'd built her life around.
+  - **Psychological death** — the realization that one's entire worldview is invalid down to its
+    ground-level foundation, up to and including a genuine break from sanity.
+  - **Professional death** — loss of one's work, or being rendered permanently unable to work again.
+  - **Physical death** — literal death, or a severe enough physical debilitation (paralysis, permanent
+    handicap) to functionally end life as it was known.
+  Useful as a direct checklist when designing a companion's Ghost/Revenant material (Chapter 6) or a
+  questline climax: which of the five is actually in play, and is it being treated with the same weight
+  literal death would get, or minimized because it isn't literal?
+
+### Chapter 14 — The Teeming World: Sociological Nature (condensed — mostly a repeatable question-pattern
+applied to each relationship category, captured here as the pattern plus the genuinely distinct points)
+
+- **The general method: for every significant relationship, ask the same core questions you'd ask of the
+  companion herself** — moment of greatest joy, fear, shame, guilt, success, failure, forgiveness within that
+  specific relationship — and always picture the answer as a specific scene, never an abstract fact. "You're
+  not trying to accumulate data for an encyclopedia entry." Not every relationship category needs full
+  exploration for every companion — go as deep as the story and her actual role require, no more.
+
+- **Parents:** for a father, was he present or absent, and if present, consistently or intermittently (picture
+  the specific scene if he left)? For a mother, ask the same plus: was she nurturing or undermining, an ally
+  or adversary to the father, and — a genuinely sharp, non-obvious question — did she encourage the child's
+  growth toward independence, or was she secretly resentful of the child's ability to one day outgrow her?
+
+- **Siblings can carry as much or more formative weight than parents.** Core question: who among siblings is
+  an ally, who a competitor (for parental love, for status), and how does birth order shape her worldview?
+
+- **Spouse/partnership is "almost as central to storytelling as death"** — it combines the best and worst of
+  friendship, family, and passion, pitting commitment against desire, stability against adventure, loyalty
+  against freedom. The single best generative question: how willing was each party to give up something they
+  wanted for the sake of staying together, what was it, and has what was gained actually compensated for what
+  was given up?
+
+- **Friendship is structurally the "purest" bond** (Plato) because, unlike family, it's sustained only by
+  mutual consent, never obligation. Sharp, underused questions: is her oldest friend the same as her best
+  friend (if not, why not)? Is there a friend she's lost touch with and misses? — and the sharper one — is
+  there a friend she actively wishes she could get rid of, but hasn't?
+
+- **A companion's name is one of the most consequential characterization decisions, and can substitute for
+  physical description entirely if chosen well.** Alternatively, a deliberately plain/unremarkable name can
+  work in the opposite direction — denying an easy mental image forces the player to keep discovering who she
+  actually is rather than resting on a name-conjured impression.
+
+- **Work is one of the single most important questions to ask of any character** (Stella Adler): how good is
+  she at it, how secure does she feel in keeping it, is it vocation or accident, does it provide the freedom
+  she actually wants? Picture her specifically *challenged* at work by a superior, client, or peer, and watch
+  how she responds — genuine technical competence, rendered in specific detail, can make even a minor
+  character memorable on its own.
+
+- **Geography shapes community, which defines what's permissible, expected, and mocked — as formative as
+  family.** Two specific areas worth never neglecting: food and music, since regional cuisine defines
+  home/hearth and music shapes a person's emotional cueing and inner sense of rhythm.
+
+- **Home is a distinct question from geography — not where she's lived, but where she feels she belongs.**
+  Does she live where she considers home, or is she an exile in her own community? If home is elsewhere, can
+  she actually go back, or has something (scandal, tragedy, loss) closed that road permanently?
+
+- **"Tribe" is the culminating sociological question: what group taught her, and in whose company she
+  practices, her moral/social/political/practical/dietary norms?** Often formed at work or through shared
+  intense experience. The generative question: how far is she willing to stray from that tribe, and what
+  would actually cause her to betray, defy, or leave it — and how directly does the story's own action test
+  that tie?
+
+### Chapter 15 — Picking a Fight: Politics
+
+- **Avoiding a companion's political/social convictions is a lost opportunity, for the same reason avoiding
+  religion is** — convictions about how to live and with whom sit at the core of what a person values and
+  fears, making them genuinely load-bearing material, not just flavor or risk.
+
+- **The real reason writers avoid this material isn't that it's unusable — it's that it's genuinely hard to
+  do without lapsing into caricature, because of the writer's own blind spots.** The actual discipline
+  required: "you should be able to defend — and dare I say love — a character whose convictions are opposed
+  to your own... otherwise you're revealing not just your biases, but a certain small-heartedness." This is
+  the same discipline this project already holds itself to for nationality
+  ([[feedback_no_national_stereotypes]]) — Corbett arrives at the identical rule independently, for a
+  different axis (belief/conviction rather than origin), which is worth treating as reinforcement rather
+  than a separate new rule.
+
+- **A useful worldview-coherence framework (Lakoff's Strict Father vs. Nurturing Parent models)** — useful
+  not as a rigid category system but as a check for whether a companion's various social/political
+  instincts actually cohere around one recognizable worldview, or were assembled position-by-position without
+  an underlying logic. Explicitly a tendency, not a straitjacket — the exercise value is specifically in
+  writing convincingly from a worldview the writer doesn't personally hold.
+
+- **Convictions are an expression of a want — a desired way of life — not an abstract position.** Dramatize
+  the underlying desire and the conflict it produces; keep it personal, not a debate of ideas. "We get
+  sermons, not scenes" is the failure mode to avoid.
+
+- **Local-scale engagement is often more revealing than large-scale conviction.** People feel local stakes
+  (safety, community, resources) more viscerally than abstract ideology, and *how* someone engages locally
+  (rabble-rouser, hermit, town crank, the one who ends up running every group she joins) characterizes more
+  precisely than her stated position on any large issue.
+
+### Chapter 16 — Quirks, Tics, and Bad Habits
+
+- **Three tiers of quirk, useful as a menu:** *helpless physical expressions* she's entirely unaware of (a
+  particular laugh, a twitch under stress), *semi-conscious compulsions* (checking her reflection, a
+  repetitive gesture), and *deliberate, practiced affectations* (a verbal tic, a habit she's cultivated on
+  purpose). All three are legitimate and distinct tools.
+
+- **Source material comes from real observation, not invention from scratch** — watching real people in
+  unguarded, ordinary moments (a café, a waiting room) for small, specific, hard-to-explain behaviors is more
+  productive than inventing a quirk in the abstract.
+
+- **Quirks risk reading as comic, which is why they're more often used for secondary characters** — using
+  one for a companion meant to carry real weight requires care. The upgrade: since these behaviors are
+  largely unconscious, they can suggest genuine vulnerability and earn empathy rather than just comic relief
+  — and the strongest version of the technique has the quirk *echo* something already established about the
+  character, so it reads as an expression of who she is rather than decoration bolted onto her separately.
+
+## Part III — Roles (protagonist/opponent/secondary characters)
+
+### Chapter 17 — Meaning and Its Messenger: The Protagonist and the Premise
+
+- **Five criteria for identifying who the protagonist of a given story/questline actually is,** useful
+  whenever it's ambiguous which character a scene or arc actually belongs to: who responds most
+  deliberately to the inciting incident; who feels the deepest impetus to act; who has the greatest
+  personal stake; who arouses the deepest empathy; who serves as the focus of the story's moral premise.
+
+- **"Protagonist," not "hero" — deliberately morally neutral.** A protagonist can be genuinely compromised
+  (Walter White, Don Draper, Tony Soprano) and still be the right center of a story. What earns real
+  engagement is the depth of what she wants, the vulnerability she reveals, the risk she faces, and the
+  strength of her response to conflict — not moral goodness.
+
+- **A protagonist's want must be wanted with her whole being, such that losing it would feel like a kind of
+  death** — not literal death necessarily, but devastation felt existentially, emotionally, socially, or
+  psychologically. Concrete diagnostic: if a companion "doesn't land" with the player, the fix is almost
+  always in one of three places — what she wants, why she wants it specifically, or what she's actually
+  willing to risk to get it.
+
+- **The Unity of Opposites (Egri): real dramatic conflict requires two irreconcilable desires with no room
+  for compromise, each with an equal and opposing moral justification** — not one side simply right and the
+  other simply wrong. Every confrontation should escalate: each counterattack stronger than what preceded
+  it, building until a final confrontation after which no further conflict is possible.
+
+- **Premise is distinct from theme, and the distinction matters.** A theme is general and static (a truism).
+  A premise combines a moral consequence *with the specific factors that cause it in this particular story*
+  — it identifies What, Who, and Why, leaving How to the actual dramatic action. Corbett doesn't know his own
+  premise until he knows the ending — it's discovered through writing, not imposed from above (imposing it
+  top-down produces propaganda, not drama).
+
+- **A genuinely powerful four-step technique for deriving a companion's (or a whole district's) controlling
+  idea, moving from abstract to specific:**
+  1. State an abstract premise ("Ruthless ambition leads to its own destruction" — Macbeth).
+  2. State its implicit counterpremise — the opposing moral force embodied by whoever opposes the
+     protagonist ("Those devoted to justice can defeat the heedlessly ambitious").
+  3. Reframe both as embodied *ways of life*, not abstractions — what specific way of living is each side
+     actually defending ("Macbeth embraces a world where the throne belongs to the man bold enough to seize
+     it by any means necessary").
+  4. Restate the premise one final time in the humble, specific beliefs and desires of the actual characters
+     themselves ("A man with Macbeth's conscience will undermine his own murderous schemes...").
+  This is the same underlying move as Truby's "splitting the theme into oppositions" and "characters as
+  variations on a theme" (Part I of this reference), arrived at independently by a different author — worth
+  treating as convergent confirmation that this is a genuinely load-bearing technique, applicable at the
+  scale of one companion's arc or a whole district's Under-Questline set built around a shared question.
+
+- **"The universal is best conveyed through the specific."** Precise, concrete detail (a specific line, a
+  specific gesture) creates empathy, and empathy is what creates broad resonance — not generalizing or
+  softening a character to make her "relatable." The more specifically real a companion is, the more
+  universal she becomes, not less.
+
+- **The most compelling drama is often good-versus-good, not good-versus-evil** — two equally legitimate
+  positions in genuine conflict, which ennobles the audience by acknowledging that loss is sometimes
+  inevitable regardless of merit. Worth treating as a legitimate, even preferred, register for a companion
+  conflict or district tension, not a fallback from "true" villainy.
+
+- **A "personal theme" exercise:** list scenes from other stories that have genuinely moved, scared, or
+  enraged you, and identify what they're actually about underneath the plot — that recurring thematic
+  material is worth recognizing as your own creative throughline, since arguing for a theme you don't
+  genuinely believe in reliably produces cliché.
+
+### Chapter 18 — The Challenge of Change: Three Protagonist Questions
+
+- **The Steadfast Character — refusing to change can be just as dramatically valid as changing, as long as
+  it's a real decision, not mere stasis.** Characters like Antigone or Romeo don't change their outward
+  goal or behavior, but their emotional understanding of what that commitment costs deepens — "change isn't
+  impossible, it's forsaken, meaning a decision not to change has been made. And a decision is inherently
+  dramatic." A companion doesn't have to change her stated position to have a real arc; she can instead earn
+  a deeper, costlier understanding of why she's holding it.
+
+- **Growth and Transformation are genuinely different registers of change, not synonyms:**
+  - **Growth** — the character strengthens something that already existed in her; she relies increasingly on
+    *will*. "In growth, the hero digs deeper... the hero accelerates."
+  - **Transformation** — the character recognizes a genuine error or limitation in her previous
+    self-conception (a "Crisis of Insight" or "Change-or-Die Moment"), and that recognition, not raw effort,
+    opens a new path. "In transformation, he tears down a wall... he turns." Must be earned through real
+    struggle — a "lightning-bolt conversion" rarely lands dramatically.
+  These aren't exclusive categories — treat them as overlapping, not a forced either/or, when planning a
+  specific companion's arc.
+
+- **Three distinct questions a companion's arc can actually be asking — pick deliberately, since each
+  implies a different structure:**
+  1. **"Can I get what I want?"** — conflict comes from *outside* her; change, if any, is Growth not
+     Transformation. The sophistication is in how the answer lands: a clean yes, a qualified "yes, but..."
+     (the cost nearly outweighed the prize), or an outright no (tragedy/noir register — the pursuit itself
+     was folly).
+  2. **"Who am I?"** — the presumed self, not the external goal, is what's actually under test. She believes
+     she knows herself and her world; the story exposes the catastrophic cost of that presumption being
+     wrong. Structurally distinct from a redemption arc: "the drama concludes soon or immediately after the
+     shock of recognition, with no time to correct or solve the problem" — the ending is a state of
+     devastating awareness, not a fix.
+  3. **"What do I have to change about myself to get what I want?"** — she can't obtain the external goal
+     *until* she changes internally first (Precious can't build the home she wants until she believes she's
+     worthy of love). Rooted in redemption narratives; sharpened by psychoanalysis giving language to
+     internal limitation. Caution: not every late-story transformation belongs to this type — sometimes a
+     profound change arrives late as an act of self-*definition* (Michael Clayton) rather than as the
+     unlocking mechanism for an external goal.
+  These three are emphases, not rigid boxes — mixing is likely, and deliberately choosing which question a
+  given companion's questline is asking is itself a real design decision worth making consciously rather
+  than by accident.
+
+### Chapter 19 — Ciphers, Stiffs, and Sleepwalkers: Protagonist Problems (a troubleshooting checklist)
+
+- **When the conflict is fundamentally internal (no external opponent), anchor each side of the internal
+  choice in something concrete — ideally a different character.** Worked example (Midnight Cowboy): Joe
+  Buck's real dilemma is "open myself to pain" vs. "protect myself by staying closed," a purely internal
+  conflict — but it gets embodied in two actual people, Shirley (safety, no real intimacy) and Rizzo (real
+  connection, at real cost). This is directly applicable to companion questline design: a companion whose
+  core conflict has no external villain can still be dramatized in playable scenes by anchoring each side of
+  her internal choice to a different NPC or relationship, rather than relying on pure interiority.
+
+- **The same anchoring technique solves "the protagonist doesn't know what she wants" too:** give her a
+  *misbegotten* objective — something she pursues instead of her real want, out of denial or self-protection
+  — and let repeated failure to find real happiness through it gradually expose the truth. The misbegotten
+  object shouldn't be arbitrary; it should itself reveal exactly what she's been clinging to instead of
+  facing reality.
+
+- **When the "opponent" is a situation, not a person, identify the underlying existential question the
+  situation poses, then anchor the real answer and the false answers in different concrete goals or
+  characters.** Also: give her one clear, trackable outer goal (reach the ocean, in *The Road*) even inside
+  an intractable situation — this keeps a situation-driven story from becoming purely episodic, and lets
+  progress toward that concrete goal carry the deeper thematic question forward scene by scene.
+
+- **The link between outer goal and inner need is "the machine that creates growth or transformation" — and
+  it has to be built deliberately, or the story stays merely competent instead of becoming memorable.** The
+  outer goal represents the way of life she's defending; the inner need represents *why* that way of life
+  matters to her specifically. Worth a genuine counterpoint, though: some writers argue the "deep
+  psychological wound" setup is overused, and that a character's motivation can legitimately just be
+  professional competence and the desire to do the job well — not every companion needs a trauma-rooted
+  inner need, and forcing one where it isn't earned can feel as hackneyed as skipping it entirely.
+
+- **The Myth of the Likable Hero — purely virtuous protagonists become ciphers, and this is worth taking
+  seriously as a real design risk.** A protagonist denied the right to *initiate* action — always reacting,
+  never attacking — becomes "a noble victim, perhaps the most uninteresting character known to man." It is
+  far more important that a companion be *empathized with* than liked, and empathy comes from a convincing
+  dramatic problem with real stakes, not moral cleanliness. Writers are specifically reluctant to give
+  protagonists petty, irrational *hatred* — contempt for someone who just personally bugs them, for private
+  and not-fully-flattering reasons — which is a genuinely underused, genuinely human emotion worth assigning
+  deliberately rather than reserving only for righteous anger at real injustice.
+
+- **A protagonist's genuine bad or petty acts, followed by real self-confrontation, is often the actual
+  engine of moral revelation — not a flaw to sand away.** Rick's cruelty to Ilsa, Jake's ethically dubious
+  methods, Michael Clayton's own complicity all directly produce the crisis that forces honest
+  self-examination later. Moral compromise isn't the opposite of a compelling arc; it's frequently the fuel
+  for one.
+
+- **Two practical techniques for keeping a flawed or unlikable companion sympathetic without sanding off her
+  edge:** give her insight, regret, or humor as counterpoint (self-awareness reads as vulnerability; wit
+  "has rescued many a dubious character from scorn") — and **withhold gratification of her want.** Simply
+  and consistently denying a character what she's visibly striving for generates sympathy almost
+  automatically, even for a character whose want itself is unappealing or whose overall nature is
+  unpleasant. This is a small, cheap, highly reusable device.
+
+- **Writers unconsciously spare self-insert characters the full pain a story needs** — a real, checkable
+  failure mode: is a companion being protected from real consequences because she's carrying something the
+  writer isn't willing to fully interrogate? The instinct runs backward from what you'd expect — we're
+  usually harder on our creations than ourselves, except specifically where a character has become a stand-in
+  for the writer.
+
+- **Audience/player empathy gravitates toward whoever has the most at stake, especially if the stakes are
+  universally understandable — and this can accidentally undercut an intended protagonist.** The Blade
+  Runner example: Deckard's reluctant, coerced task (killing) loses sympathy against Roy's simple desire to
+  *live*, since survival is more universally relatable than professional obligation performed unwillingly.
+  Useful diagnostic when a companion/rival pairing feels lopsided: check which side actually holds the more
+  universally resonant want — sympathy will follow that, regardless of which side is nominally "right."
+
+### Chapter 20 — The Character of Conflict: The Opponent
+
+- **The opponent's goal is equal and opposite to the protagonist's, embodying the counterpremise (Chapter
+  17).** "The more you cannot just defend and justify but *embrace* the opponent's point of view, the more
+  compelling the drama will be." Good-versus-good remains the strongest register — the stakes rise when the
+  player is genuinely invested in both sides, not just rooting for one to lose.
+
+- **For a genuinely evil or antagonistic figure to avoid banality, understand how she justifies the wrong she
+  does — why it's essential to her own self-image, why she chose this path over another available one.**
+  Simone Weil's concept of *affliction* is a useful grounding tool here: suffering with a genuine *social*
+  dimension (shame, ostracism, not just pain) that can plunge a person into a state where nothing — not even
+  herself — can be loved. A character in that state, if she gives up the belief that love could ever be
+  possible again, loses the whole soul, not just part of it — a rigorous, non-cartoonish root for real
+  cruelty.
+
+- **When both sides of a conflict are equally morally justified, distinctiveness comes from fleshing out
+  their competing *ways of life* in concrete texture, not from making one side more obviously villainous.**
+  Two characters in the same profession, holding equally valid positions, can still read as completely
+  distinct through lifestyle and temperament details alone (gambler vs. control-freak, comfortable-in-her-own
+  skin vs. always walking on eggshells) — contrast doesn't require moral asymmetry.
+
+- **Determine what or whom your antagonist genuinely loves, not only what she opposes — and make that love
+  noble.** This mirrors the "villains need love" point from Chapter 13, but adds the mechanism: a noble love
+  creates both a contradiction and a real vulnerability, something she now has to actively defend, which adds
+  weight rather than softness to an antagonistic figure.
+
+- **When an opponent is offstage for long stretches, characterize her through her effects, her proxies, and
+  the nature of the evidence she leaves behind** — is the damage brutish or surgical, incidental or a
+  deliberately crafted message? And a genuine design choice worth making deliberately: should her proxies or
+  underlings *echo* different facets of her character (creating variety and interest), or should they be
+  eerily *uniform* with each other (creating a different, unsettling effect of conformity)? Both are valid,
+  but pick on purpose.
+
+- **The convention that opponents/antagonists never change is just a convention, not a rule — and breaking
+  it can pay off, with one real caveat.** An opponent with genuine capacity for change (especially in a
+  good-vs-good conflict) can be one of the most affecting elements in a story — but her psychological
+  complexity risks pulling focus from the protagonist, so this needs deliberate weighing, not a default.
+  When an antagonist does change, the change should show up as an actual behavioral redirection affecting
+  the outcome, not just a softened internal attitude.
+
+### Chapter 21 — The Army of Others: Secondary Character Roles
+
+- **"Flat" doesn't have to mean bad.** Forster's round/flat framing is usefully replaced by Wood's
+  transparent/opaque: a "transparent" character who reveals herself fully at a glance can still be genuinely
+  compelling as long as she doesn't tip into cartoon — how transparent to make a given secondary character
+  should track how much her *function* actually defines her presence in the story, not be treated as a
+  uniform failure to develop her.
+
+- **Secondary characters exist to draw out different, otherwise-invisible facets of the main character
+  through interaction — deliberately pick them for this, not just for plot utility.** The clearest possible
+  illustration: Tony Soprano's two children in *The Sopranos* each drew out completely different, sometimes
+  contradictory sides of him — his daughter Meadow produced pride, shame, protectiveness, and powerlessness
+  all at once; his son Anthony produced disappointment alongside genuinely endearing childlike affection.
+  When designing a companion's own supporting cast (family, rivals, coworkers), ask what specific,
+  non-overlapping facet of *her* each one is actually there to reveal.
+
+- **Secondary-character roles genuinely overlap and shift, and that fluidity is a feature, not sloppiness.**
+  A crucial ally can become a betrayer; a counterweight character can become an ally. Don't lock a character
+  into one function permanently — the shift itself is a legitimate source of surprise and development.
+
+- **The Revenant** (extending Chapter 6's Ghost/Revenant pairing): the character who forces the protagonist
+  to actually work through what the Ghost represents. Comes in many forms — love interest, sidekick, mentor,
+  even an opponent. Often most powerful when the character *also* helps with the protagonist's external,
+  plot-level goal, so that the outer conflict and inner conflict physically converge in the same climactic
+  scene rather than resolving separately. "We don't know ourselves by ourselves" — a hero can *grow* purely
+  from external pressure alone, but genuine *transformation* seems to require another person's scrutiny or
+  support; it's difficult to write convincingly in total isolation.
+
+- **The Counterweight Character** — the structural opposite of the revenant: someone who pulls the
+  protagonist back toward the status quo or an old trap, rather than forward into change. Crucially, this
+  role **doesn't have to be villainous** — it can simply represent the legitimate emotional pull of tradition,
+  loyalty, or normalcy, standing in genuine tension with whatever the revenant represents, with neither side
+  clearly "correct." Useful for a companion torn between an old attachment and a new possibility, where both
+  pulls deserve real weight.
+
+- **The Crucial Ally** — provides skill, expertise, judgment, or support the protagonist needs; frequently
+  doubles as a revenant when that support touches her inner conflicts too. The "ally always dies partway
+  through so the hero finishes alone" pattern is a formula, not a rule — plenty of crucial allies survive
+  the whole story. When one *does* die, it lands hardest specifically when the death is an act of selfless
+  courage from a character who has previously shown real fear or doubt — the audience's own encounter with
+  mortality becomes vicarious, experienced through her. **A genuinely useful structural sub-pattern: the
+  "remorseless sidekick"** who performs the morally compromising violence the hero herself is reluctant to
+  do, letting the hero retain a real moral center while the story still delivers the catharsis of decisive
+  action — a way to keep a companion sympathetic even in a violent story, by routing the ugliest necessary
+  acts through someone else.
+
+- **The Betrayer and the Sympathetic Heavy** — a betrayal only lands if real trust was convincingly
+  established first; skipping that groundwork telegraphs or cheapens the turn. The Sympathetic Heavy is the
+  inverse figure: someone aligned with the *opponent* who nonetheless befriends or pities the protagonist,
+  offering crucial information or insight at real personal risk. Genuine moral ambiguity, not a clean
+  redemption, is exactly what makes this role interesting — and the character's own risk of being seen as a
+  traitor by her own side is itself a source of tension.
+
+- **The Visitor and the Stranger** — an outside-perspective character who challenges the protagonist's
+  habituated view of her own ordinary circumstances, without stepping into the role of narrator. Useful
+  specifically for making an established, lived-in setting feel freshly strange again through someone
+  encountering it for the first time.
+
+- **The Village** — the full surrounding cast of family, coworkers, rivals, and casual acquaintances that
+  gives texture to a companion's whole way of life, not just her one or two "important" relationships. These
+  characters exist in the story "not because they might be there but because they must be" — through the
+  accumulation of small demands, kept and broken promises, jokes, and minor betrayals, they reveal the actual
+  weight of the world a companion carries, in a way no single major relationship can carry alone.
+
+*(Part IV of the book — Technique: Scenes, POV, Voice, Dialog — remains unread. This is more about prose
+execution and scene mechanics than character-psychology generation specifically, so this represents the
+book's core relevant material for this methodology. Given the density and consistency of what's been
+extracted, this is very likely the single strongest source in the whole book stash.)*
