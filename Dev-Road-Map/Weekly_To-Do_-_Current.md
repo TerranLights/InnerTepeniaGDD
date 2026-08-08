@@ -115,6 +115,19 @@ file and start a fresh one for the next stretch of work).
   needing this pass: Kendra Heinrich, Meyzan Yocazhda, Michelle Stanton, Salagéa Aparast, Vosora Lashár
   Tanslock, and Calethina.
 
+- [ ] **Character Development Methodology — psychological depth & inner conflict, instruction sheet not yet
+  written** *(flagged 2026-08-08)*
+  Confirmed gap, checked directly: no methodology currently exists anywhere in the repo for producing genuine
+  psychological depth and inner personal conflict for a given Doll — only fill-in templates that capture
+  *what fields* to fill (Enneagram type, Internal Conflict as a labeled blank) without a method for how to
+  generate something genuinely deep for them. Closest precedent is `Forbidden_Trait_Design_Method.md`
+  (derives from Enneagram/history/sensibilities, but scoped to one narrow mechanic). **Draft ideas file
+  started:** `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md` — currently a
+  scratchpad of candidate mechanisms (Enneagram-Rooted Contradiction, the Robot-Universal Friction Bank,
+  the Anti-Stereotype/Round-vs-Flat Check, the Branch-Justification Check), deliberately not yet organized
+  into an actual methodology document. Next step: keep adding candidate ideas, then sort into a real
+  structured instruction sheet once there's enough material.
+
 ---
 
 ## 2026-08-01 Backlog Batch
