@@ -19,45 +19,56 @@ scoped narrowly to one mechanic (romance dealbreaker traits), not general inner-
 
 ---
 
-## Standing Scope Note: This Methodology Applies Fully to Non-Linear (Game) Storytelling
+## Standing Scope Note: This Is Already the Non-Linear Methodology — Arguably More So Than a Linear One
 
-**Clarified by dev (2026-08-09).** Every book mined into this file so far is craft theory written for linear
-media — novels, screenplays, film, TV — where a story unfolds in exactly one fixed order for every reader or
-viewer, and where beats are conventionally pinned to specific percentages of total runtime (the Inciting Event
-at 12%, the Midpoint at 50%, the Third Plot Point at 75%, and so on). Inner Tepenia and the planned Outer
-Tepenia trilogy are non-linear: player agency, branching questlines, and replayability mean there is no single
-fixed order or fixed runtime a companion's story unfolds across.
+**Clarified and then sharpened by dev (2026-08-09).** Every book mined into this file so far is craft theory
+written for linear media — novels, screenplays, film, TV — where a story unfolds in exactly one fixed order for
+every reader or viewer, and where beats are conventionally pinned to specific percentages of total runtime (the
+Inciting Event at 12%, the Midpoint at 50%, the Third Plot Point at 75%, and so on). Inner Tepenia and the
+planned Outer Tepenia trilogy are non-linear: player agency, branching questlines, and replayability mean there
+is no single fixed order or fixed runtime a companion's story unfolds across.
 
-**This does not mean a separate methodology needs to be built for non-linear storytelling.** Dev's explicit
-correction: every technique captured in this file — the Lie, the Ghost, Want vs. Need, the Characteristic
-Moment, the Midpoint's Moment of Truth, the Third Plot Point's Ultimate Choice, chiastic mirroring, the Six
-Life Arcs and their shadows/flat states/antagonists, all of it — is **just as valid and just as applicable in
-a non-linear setting as in a linear one.** The content of the methodology is not linear-specific. Only one
-assumption baked into the linear-media source material doesn't carry over cleanly: **fixed, predictable timing.**
+**Dev's full position, in two steps:** First, every technique captured in this file — the Lie, the Ghost, Want
+vs. Need, the Characteristic Moment, the Midpoint's Moment of Truth, the Third Plot Point's Ultimate Choice,
+chiastic mirroring, the Six Life Arcs and their shadows/flat states/antagonists, all of it — is just as valid
+and just as applicable in a non-linear setting as in a linear one; none of it is linear-specific content.
+Second, and stronger: **non-linear storytelling is actually the *more* demanding case, not an adaptation of the
+easier one.** Linear storytelling only ever has to commit to a single path — one ending, one Midpoint, one
+version of the Road of Trials, full stop. Non-linear storytelling has to account for *every* path a player
+could plausibly take — every possible Midpoint variant depending on prior choices, every possible ending a
+given branch could resolve into, every possible shape a companion's arc could take depending on what the player
+does. **This methodology, in its current form — having already compiled the full taxonomy of arc types
+(Positive/Flat/Negative-in-three-variants), all twelve shadow archetypes, the full ending-distribution law with
+its minority-negative/majority-bittersweet/costly-positive spread, and the Dual-Outcome Perk branching
+structure — was already built to map an entire possibility space, not to pick one path through it.** That is
+exactly what non-linear design requires and what pure linear craft theory never has to do. In this sense, the
+material gathered here isn't a linear methodology that needs adapting for games — it's already closer to
+native non-linear methodology than to the linear source material it was extracted from.
 
-**The actual adjustment needed, going forward:** define every beat by its *functional role* in a Doll's arc,
-never by a fixed percentage of anything. "The Midpoint" isn't a timestamp at the literal halfway point of a
-companion's total content — it's whichever specific scene is the one where she has her Moment of Truth and
-shifts from reactive to active, wherever in the player's actual playthrough that scene happens to land. The
-same holds for every other beat: the Inciting Event is whichever scene first cracks her Normal World, not a
-scene required to occur at some specific percentage-of-content mark. This is a small, mechanical translation,
-not a conceptual rebuild.
+**The one mechanical translation still worth keeping in mind:** define every beat by its *functional role* in a
+given branch of a Doll's arc, never by a fixed percentage of anything. "The Midpoint" isn't a timestamp at the
+literal halfway point of a companion's total content — it's whichever specific scene is the one where she has
+her Moment of Truth and shifts from reactive to active, wherever in a given player's actual playthrough that
+scene happens to land. This is a small, mechanical translation, not a conceptual rebuild, and it's the only
+real adjustment linear source material needs before being fully usable here.
 
-**Branching and replayability don't break this either — they multiply it.** A Dual-Outcome Perk questline with
-several possible resolutions isn't one arc with an ambiguous ending; it's *several complete arcs*, one per
-branch, each with its own full beat structure (its own Third Plot Point Ultimate Choice, its own Climax, its
-own Resolution/New Normal World) — the branching just means a Doll can have more than one fully-formed
-possible arc simultaneously on file, not that any single arc's own internal structure gets to be incomplete.
-Likewise, a Doll's Lie, Want, Need, and Ghost are fixed facts about who she is, independent of the order in
-which a given player happens to encounter her content — the beat structure holds *within* whatever order a
-specific playthrough actually surfaces, since it's about her internal journey, not about imposing a fixed
-reading order on the player.
+**Branching and replayability aren't an obstacle to apply this methodology to — they're the reason this
+methodology's full scope (every arc type, every shadow, every ending category) is actually necessary rather
+than excessive.** A Dual-Outcome Perk questline with several possible resolutions is *several complete arcs*,
+one per branch, each with its own full beat structure (its own Third Plot Point Ultimate Choice, its own
+Climax, its own Resolution/New Normal World) — and this file, unlike any of its linear-media sources, was
+always going to need to hold all of them at once, for every companion, simultaneously. A Doll's Lie, Want,
+Need, and Ghost are fixed facts about who she is, independent of the order in which a given player happens to
+encounter her content — the beat structure for whichever branch gets triggered holds within whatever order a
+specific playthrough surfaces it, since it's about her internal journey, not about imposing a fixed reading
+order on the player.
 
-**How to apply, right now:** treat every technique already captured in this file as directly usable for
-Inner Tepenia's actual non-linear content, with the single standing translation above always in force — replace
-any percentage-based beat placement with role-based beat identification, and treat each branch of a Dual-
-Outcome questline as its own complete arc rather than trying to force one arc to cover every possible outcome
-at once.
+**How to apply, right now:** treat every technique already captured in this file as directly and fully usable
+for Inner Tepenia's actual non-linear content as-is — this is not provisional or linear-only material awaiting
+a future translation pass. Apply the single standing mechanical adjustment (role-based beat identification
+instead of percentage-based placement) and build out every branch of a Dual-Outcome questline as its own
+complete arc, since that full-possibility-space coverage is the entire point of using this methodology for a
+non-linear medium in the first place.
 
 ---
 
