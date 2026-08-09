@@ -909,3 +909,139 @@ applied to each relationship category, captured here as the pattern plus the gen
 execution and scene mechanics than character-psychology generation specifically, so this represents the
 book's core relevant material for this methodology. Given the density and consistency of what's been
 extracted, this is very likely the single strongest source in the whole book stash.)*
+
+## From *The Craft of Character* — Mark Boutros
+
+- **Goal / Desire / Lesson, as "Brain / Heart / Soul"** — Boutros's own vocabulary for the Truby-style
+  need/desire split, worth keeping alongside the existing terms as a second, more memorable label rather than
+  a competing framework: **Goal** (the concrete external thing pursued — the brain), **Desire** (the primal,
+  universally-relatable emotional need fueling the goal — the heart), **Lesson** (the deeper truth the
+  character must discover, usually realized late and often *not* consciously known by the character while
+  pursuing the goal — the soul). The useful discipline here is that all three have to be answerable before
+  writing begins, or "you have a shell, doing things for no particular reason." A companion whose Doll Sheet
+  can't answer "why does she want this, and what is she not yet able to see about herself while wanting it?"
+  isn't ready to write scenes for yet.
+  - **The Lesson doesn't have to be learned, and doesn't have to be positive.** Walter White's arc is Boutros's
+    own worked example of a *failed* lesson — he never learns that presence matters more than money; instead
+    he embraces pride and ego and it kills him. Change is still shown, just not growth. This directly confirms
+    the project's existing **No Good Endings** law (`Companion_System.md`) —
+    Boutros arrived at the same conclusion (a lesson can curdle instead of redeem) independently, from pure
+    screenwriting craft rather than from this project's tone commitments. Worth citing as convergent
+    confirmation when writing Doll arcs that end badly.
+  - **Backstory is inert without a forward-facing Goal.** Boutros flags a specific, common failure mode: a
+    writer builds a rich backstory and then has "nowhere to go," because backstory explains the *why* but
+    doesn't by itself generate a *want*. Direct caution for this whole methodology-building effort: everything
+    mined from these books needs to cash out as a forward-pulling want inside an actual quest, not just as
+    inert biographical color in a Doll Sheet. Depth that doesn't attach to a Goal a companion is actively
+    pursuing during her questline is decoration, not characterization.
+
+- **The "Why?" Chain** — a repeatable interrogation technique for finding a Desire underneath a Goal: keep
+  asking "why does she want this?" past the first, obvious answer, until the answer becomes primal (love,
+  safety, identity, belonging, protecting family) rather than situational. Worked example: Mike (*Breaking
+  Bad*) launders money — why? For his granddaughter — why does that matter so much? Because his own son, also
+  a cop, was murdered by corrupt colleagues, which reshaped his whole relationship to protecting family through
+  money rather than trust. Each "why" should feel like it's excavating, not restating. Directly usable as a
+  drafting step for any Doll's Goal/Desire pair — don't stop at the first stated motive.
+
+- **Flaw vs. Personality Trait, sharply distinguished.** A **flaw** is a wound-based belief rooted in a
+  specific past trauma that actively prevents the character from getting what she wants, and it is what the
+  Lesson must overcome (or fail to overcome). A **personality trait** (e.g., "clumsy," "bubbly") is surface
+  behavior with no necessary connection to unresolved trauma — comic material, not psychological material,
+  unless deliberately rooted in one. The test for whether something belongs in a Doll's Flaw slot rather than
+  her Traits list: *does this behavior come from an unhealed belief that costs her something structurally
+  important, or is it just color?* Traits can still be used as flaw-seeds — a trait that turns out to be load-
+  bearing for the character's core wound graduates into a flaw; most traits never do and that's fine.
+  - Also useful: **character trait vs. personality trait**, a second, unrelated distinction Boutros draws —
+    character traits (honesty, loyalty) come from morals/values/upbringing and are often *hidden* until tested;
+    personality traits (bubbly, dour) are outward projection, often deliberately performed for others. A Doll
+    can perform a personality trait that actively conceals a contradictory character trait — useful for
+    building the kind of "surface reads one way, core is another" contrast this methodology keeps returning to.
+
+- **Two concrete Flaw-excavation exercises**, both usable directly as drafting prompts for a Doll:
+  1. **The Mirror Interview.** Answer a fixed set of emotionally revealing questions about *yourself* first
+     (happiest memory, saddest memory, a time of genuine shame, a belief that regularly creates conflict and
+     where it comes from, a time you were emotionally hurt), then answer the *identical* questions in the
+     character's voice. Doing the self-pass first is explicitly meant to prime honest, non-generic answers for
+     the character pass — a real-psychology anchor rather than an invented-on-the-spot trauma.
+  2. **The In-Voice Character Interview.** Sit the character down somewhere mundane (park bench, bus, waiting
+     room) and write a conversation between "you" and her, starting deliberately banal ("why are you eating
+     that sandwich," "why aren't you wearing a coat") and letting the questioning drift toward more personal
+     territory. The technique's value is explicitly that *most* of what comes out will be useless, but the
+     flaw and the voice both emerge through the accumulation of small, half-defensive answers rather than
+     through a direct "what's your trauma" question — the character resists self-disclosure the way a real
+     person would, and that resistance itself is diagnostic.
+
+- **Obstacle Brainstorm-and-Triage.** Generate a genuinely long, undisciplined list (20-30+) of internal and
+  external obstacles standing between the character and her stated story Goal — quantity first, judgment
+  later, explicitly expecting most entries to be thrown away. Then pass back through the list and flag which
+  entries (a) directly relate to the Goal and (b) produce real internal growth/conflict versus which are just
+  situational facts or texture. The exercise's stated payoff isn't the final kept list — it's that generating
+  the volume surfaces obstacles, and often *other characters*, the writer wouldn't have found by only
+  reasoning forward from the premise. Directly portable to District Under-Questline generation: brainstorm an
+  oversized, undisciplined obstacle list per companion/questline first, triage second, rather than trying to
+  design the "right" three obstacles from a standing start.
+
+- **Making a Hard-to-Like Character Likeable** (companion design relevance: antagonist companions, morally
+  compromised companions, the "correct but abrasive" archetype) — a named toolkit, all reusable individually:
+  - **The metaphorical saving of a cat** — an early, authentic act of unearned kindness, ideally near the
+    character's first appearance, that has nothing to do with her goal or self-interest.
+  - **Make whoever she's in opposition to worse** — relative morality reads as likeability; the audience
+    backs "the least hard-to-like" party in a conflict even when neither side is admirable.
+  - **Give us the *why* behind the compromise** — if the audience understands the specific betrayal, poverty,
+    or repeated failure that produced the morally questionable behavior, the behavior reads as earned rather
+    than simply cruel.
+  - **Root the bad behavior in genuine weakness or threat**, not appetite or malice — she does the wrong
+    thing because she is cornered, not because she enjoys it.
+  - **Delay the worst act** until the audience already has some investment in her — sympathy is far more
+    durable if built before the character does the thing that would otherwise disqualify her.
+  - **Villains must believe they're doing good.** A villain motivated by nothing but "being bad" reads as
+    flat; the strongest version genuinely believes her methods are justified or even virtuous (Boutros's
+    example: Annie Wilkes believes she's helping Paul Sheldon write his best work). Directly reinforces this
+    project's existing **[[feedback_district_belief_consequence_default]]** approach to under-questline design
+    (default to "can they handle the consequences of what they believe," not "is it fair") — a villain or
+    morally compromised companion should be written from the inside of a belief she considers correct, not
+    from a place of self-aware villainy.
+
+- **Four-Fact Opening** — a companion should reveal a minimum of roughly four distinct facts about herself
+  within her very first meaningful scene, spread across different categories (physical, personal, social,
+  familial/kinship, societal, hobby/activity) rather than concentrated in one kind of detail or delivered as
+  a single expository dump. The worked example (a single scene revealing a character's dead parents, a string
+  of failed jobs, active local enemies, and a self-destructive coping habit, all without a line of stated
+  backstory) is a useful concrete bar to check a companion's introduction scene against: does it land several
+  *different kinds* of information about her at once, purely through what she's doing and who's reacting to her?
+
+- **Conflict in Opposites, for companion-to-companion and companion-to-player dynamics** — even allies or kin
+  benefit from having genuinely opposed values, not just complementary skills, because the friction is what
+  generates ongoing material. Prompt questions worth keeping as a standing dynamics-design check: what does
+  each character represent thematically; how do their wants act in actual opposition rather than parallel;
+  what's the concrete, nameable source of conflict between them (not just "personality clash"); in what
+  specific ways are they alike, and in what ways do they differ. Two companions who want the *same* thing for
+  *different* reasons is flagged as an especially strong version of this (Boutros's Sideways example: both
+  leads want the same weekend away, one for a fling, one for the wine).
+
+- **Passive Protagonist / "Don't Protect Your Character."** A companion or the player-facing quest-giver reads
+  as flat not merely when bad things happen to her, but when she does nothing beyond react to an either/or
+  choice handed to her by circumstance. The fix isn't more incident, it's giving her the authorship of a *plan*
+  — she disobeys an order, takes an unauthorized initiative, or makes a decision nobody asked her to make, and
+  that decision (not the incident that provoked it) is what carries the real consequence. Corollary: don't
+  shield a companion from consequences of her own choices in order to keep her likeable — protecting her from
+  the fallout of her own decisions is precisely what makes her forgettable. This is a craft-level restatement
+  of this project's own **Dual-Outcome Perk** law from a different angle: the *choice itself*, not just its
+  branching mechanical payoff, is what needs to visibly belong to the character.
+
+- **Development Checklist** (Boutros's own closing checklist, condensed — useful as a fast pre-flight check
+  before finalizing any companion's core sheet, distinct from the fuller Character Development Questionnaire
+  already summarized above): Do I know her goal? What emotional desire fuels it, and is that desire primal/
+  relatable? What forces her to pursue it now (the inciting push)? What's at stake, internally and externally?
+  What happens if she succeeds — and what's the actual worst thing that can happen to her? What does she learn,
+  and how does she change start-to-end? What are the major obstacles, internal and external, and does each one
+  teach her something? Who is her antagonist (which, per this project's own precedent, can be another
+  companion, a district faction, or an aspect of herself), and how does she overcome them?
+
+*(Not yet read: 2.1 Developing Voice and Projection, 2.7's full Character Development Questionnaire beyond the
+sections skimmed above, 3.1 Writing Character Descriptions, and 3.3's remainder past the checklist. The book
+is short (~4,760 lines) and the sections read so far — Goal/Desire/Lesson, Stakes, Flaws, Obstacles, Hard-to-
+Like Characters, Traits, Dynamics, Pitfalls, and the closing Checklist — cover essentially all of its
+character-psychology-generation content; the unread sections are either prose-craft (voice/projection,
+physical-description writing) or a standard biographical questionnaire of the kind this project already has
+precedent for. This is likely close to fully mined already.)*
