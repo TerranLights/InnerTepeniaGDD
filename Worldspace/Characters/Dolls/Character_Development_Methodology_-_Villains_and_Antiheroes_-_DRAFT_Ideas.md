@@ -651,3 +651,191 @@ pacing, ranking a cast of villains by danger/depravity/power) is captured above 
 techniques, and the chapter's remaining content is specifically about writing for a child/YA audience, which is
 out of scope for this project. Disposition not yet decided — given the density and direct relevance of what
 this book delivered, it's a very strong `long-term_reference/` candidate.)*
+
+## From *Fallen Heroes: Sixteen Master Villain Archetypes* — Tami D. Cowden
+
+A short (~2,800 lines), extremely systematic book — the transcribed lectures from an online writing class — and
+read in full, including the closing exercises and reference appendix. This is the single most *directly
+game-design-usable* source mined in this whole effort: 16 named villain archetypes (8 male, 8 female), each
+built from an identical, compact template — a one-line definition, which *heroic* archetype it's the "dark
+version" of (from Cowden's own companion book, *The Complete Writer's Guide to Heroes and Heroines: Sixteen
+Master Archetypes*), a "Formation" section on plausible backstory drivers, and — the genuinely novel structural
+contribution — a **paired "Weapons and Vulnerabilities" list**: named traits that make the villain dangerous,
+and separately named traits the hero/heroine can specifically exploit to overcome her. This is functionally a
+strengths/exploits pair for each archetype, translatable almost directly into design terms for a District
+antagonist or a morally complex Doll.
+
+- **Foundational rule, stated as absolute and worth treating as a standing law for this whole supplement file**:
+  "AN ARCHETYPE IS NOT DETERMINED BY THE CHARACTER'S ACTIONS. Any archetype can do anything — the question will
+  always be why." A villain isn't defined by what she does, only by the underlying drive that makes her do it —
+  the same action (stalking, controlling a family member, seizing power) can belong to entirely different
+  archetypes depending on the specific *why* beneath it. This sharpens (and gives a clean, repeatable litmus
+  test to) the "understand his internal logic" principle already captured from multiple other sources.
+- **Severity is a dial, the archetype is the constant**: every one of the 16 archetypes explicitly scales from a
+  genuinely evil, dangerous version down to a merely annoying, low-stakes nuisance version, without changing
+  archetype — a TYRANT can be a genocidal dictator or an overbearing sitcom father-in-law; a SADIST can be a
+  torturer or simply a thoughtlessly self-indulgent boyfriend who blows the household budget on his own
+  pleasures. Directly usable as a two-step design process for any District NPC or minor antagonist: pick the
+  archetype for *why* she causes friction, then separately dial her severity to match the actual stakes the
+  scene needs — the same archetype template serves a life-or-death DLC villain and a merely irritating
+  Under-Questline nuisance equally well.
+- **Every villain archetype is explicitly rooted in a corresponding heroic archetype** — not a separate, opposed
+  category of being, but the shadow expression of an otherwise-heroic pattern. This is conceptually adjacent to
+  Weiland's already-captured Shadow Archetypes, but organized along a completely different, non-overlapping axis
+  (Weiland's shadows are rooted in *life-stage* — Maiden/Hero/Queen/King/Crone/Mage; Cowden's are rooted in
+  *functional role* — Chief, Bad Boy, Charmer, Best Friend, Professor, Swashbuckler, Warrior, Crusader, plus the
+  female-coded Boss, Librarian, Nurturer, etc.). The two systems are complementary lenses, not duplicates, and
+  could in principle be cross-referenced for a given companion (which life-stage arc is she in, *and* which
+  functional-role shadow does her villainy/moral-complexity draw from).
+- **Why the archetypes are gendered as separate 8-and-8 sets, with a clean rationale worth keeping**: the same
+  underlying drive produces different social consequences (and therefore different character shapes) depending
+  on the character's gender, because of real double standards in how society reacts to open ambition or
+  control-seeking in men versus women — "no one will accuse the TYRANT of being less of a man for his ambition;
+  the BITCH, however, risks constant attack on her 'femininity.'" A useful, explicit design note for this
+  project's own human/robot gender-and-power dynamics work.
+
+**The Sixteen Archetypes** (Weapons = what makes her dangerous; Vulnerabilities = what the hero/heroine can
+specifically use against her):
+
+- **TYRANT** (dark CHIEF) — driven by a secret, central fear of losing control over his own destiny, which he
+  projects outward as a need to control everyone around him. Weapons: Goal-Oriented, Decisive. Vulnerabilities:
+  Stubborn (can't recognize a lost cause), Unsympathetic, Dominating, Proud, quick to anger.
+- **BASTARD** (dark BAD BOY) — driven by a feeling of having been cheated of something rightfully his (a
+  birthright, a parent's love, a position) — not necessarily literal illegitimacy. Weapons: Charismatic, Street
+  Smart, Intuitive. Vulnerabilities: Pessimistic, Bitter (never forgets a grudge), Volatile, Jealous. Behavioral
+  signature worth keeping: he lashes out both at whoever displaced him *and* at whoever rejected his love —
+  dual-target resentment, not single-target.
+- **DEVIL** (dark CHARMER) — exploits the secret desires and moral weaknesses already present in his victims
+  through temptation and manipulation, then steps back to watch the consequences play out; wants what he led the
+  victim to foolishly lose, not power over them directly. Weapons: Charm, Adaptable/chameleon-like,
+  Self-Confidence, Persuasion. Vulnerabilities: Irresolute (won't waste time on a target who shows no sign of
+  giving in — he'll simply walk away), a compromising History that tends to catch up with him, Arrogance
+  (overestimates his own persuasive power). Sharp diagnostic for telling a DEVIL apart from a similar-seeming
+  cult-leader/demagogue TYRANT or TERRORIST: will he lead his followers to their deaths for the cause (TYRANT or
+  TERRORIST), or turn tail and run once the going gets tough (DEVIL, who wants the riches that come with power,
+  not power or a cause for its own sake)?
+- **TRAITOR** (dark BEST FRIEND) — wants the hero/heroine to stay exactly as they are; actively resists their
+  growth or change, sometimes through outright betrayal (the mole, the double agent) and sometimes through a
+  much gentler, non-criminal form — the "safe choice" who subtly discourages any risk-taking via guilt or
+  misplaced loyalty. Weapons: Seemingly Trustworthy, genuine Empathy (he really is likable — "no one thinks
+  anyone they like is a villain"). Vulnerabilities: Complacent, Unassertive (avoids confrontation, waits for
+  others to act, hates face-to-face showdowns).
+- **EVIL GENIUS** (dark PROFESSOR) — driven by a need to prove he's smarter or more talented than everyone
+  around him; genius doesn't have to be intellectual — any specialized skill (hacking, a craft, magic) qualifies,
+  as long as he's proving himself the best at it. Weapons: Analytical (methodical, refuses to be rushed),
+  genuine Talent. Vulnerabilities: Inflexible (convinced his way is the only way, slow to correct mistakes),
+  Hubris (genuinely doesn't believe anyone could out-think him, and is authentically surprised when someone
+  does).
+- **SADIST** (dark SWASHBUCKLER) — pursues pleasure or the thrill of cruelty for its own sake, prioritizing it
+  above any cost to others. Explicitly has two legitimate severity tiers under the same archetype: the violent
+  criminal who savors others' suffering directly, and — just as valid, and worth keeping as a low-stakes
+  design option — the merely selfish hedonist who thoughtlessly harms people through pure self-indulgence (the
+  unfaithful boyfriend, the guy who blows the mortgage money on his own entertainment). Weapons: Fearless,
+  Unpredictable (chance encounters can send him down an unanticipated path). Vulnerabilities: Hotheaded
+  (imprudent, forgets to weigh danger before acting), Selfish (can be lured away by a competing pleasure, since
+  his live-for-the-moment attitude makes him distractible).
+- **OUTCAST** (the dark mirror of the LOST SOUL hero archetype) — craves belonging and acceptance badly enough
+  to sacrifice others to get it; "waste no sympathy on him, he'll have none for you." Weapons: Dedicated
+  (total, unwavering commitment once made), Astute (watches from the outside, reads motivations with unusual
+  accuracy). Vulnerabilities: Intolerant (expects perfection, can't forgive past offenses), Defeatist (expects
+  the worst, resigns himself to a bad fate), Thin-skinned (deeply wounded by criticism). **The single sharpest,
+  most quotable formula in the whole book, and a direct sharpening of the Lost Soul archetype already captured
+  from Morrell**: "if the outcast character lives and gets the girl, then he's the hero [a Lost Soul]. If the
+  girl ends up with someone else, and the outcast is dead, then he's a villain [an Outcast], however
+  misunderstood... if Beast gets Beauty, he's a heroic Lost Soul. If not, he's a villainous Outcast." The
+  difference between the two isn't in the character's traits at all — it's purely in whether the story lets him
+  win the connection he's starving for. Also a sharp, concrete WHY-not-WHAT example: a genuine stalker wants
+  love (Outcast-coded), while an abusive partner who also stalks wants control (Tyrant-coded) — identical
+  surface behavior, different archetype, because the underlying motivation differs.
+- **TERRORIST** (dark WARRIOR) — rigid, self-righteous adherence to a code or cause, where the end always
+  justifies the means; judges everyone around him by his own strict standard. Need not be a literal terrorist —
+  an enemy soldier loyal to his own side, or even a completely nonviolent by-the-book rule-follower who simply
+  obstructs the hero, both qualify. Weapons: Incorruptible (can't be bought off or tempted), Sincere (genuinely
+  believes his own accusations, which makes him more persuasive to others). Vulnerabilities: Idealist (his whole
+  drive depends on unshaken faith — shake the belief system and you shake the villain), paradoxically
+  Honorable (his own code of honor, turned against him, can make him destroy himself or turn on the cause if he
+  feels *it* has betrayed *him*). The chapter flags something worth keeping as a standing note: because his
+  underlying cause might be genuinely legitimate even when his methods aren't, a TERRORIST (and his "sister
+  archetype," the FANATIC) can earn real audience sympathy specifically *for the cause*, independent of whether
+  his methods are ever forgiven.
+- **BITCH** (dark BOSS) — driving ambition is pure power and control, rooted in the same core fear as the
+  TYRANT (loss of control), but facing an earlier and harsher social penalty for the identical drive because of
+  gendered double standards. Weapons: Resolute, Domineering, Unfeeling (immune to sob stories). Vulnerabilities:
+  Obstinate (won't admit mistakes), a Sense of Superiority (genuinely believes failure is impossible, forgets
+  her own weaknesses). Sharp craft note: she uses cruelty *instrumentally*, in service of her actual goal, not
+  for its own sake — the trait that distinguishes her from a SADIST, who wants the cruelty itself.
+- **BLACK WIDOW** — uses seduction (sexual or otherwise) to acquire the *lifestyle* that comes with power —
+  comfort, security, adulation — rather than power itself; "she doesn't really want to rule the universe, she
+  just wants to live like she does." Weapons: Seductive (doesn't need to be beautiful — the real skill is
+  becoming whatever the specific victim wants), Clever, Opportunistic, Manipulative. Vulnerabilities: Cynical
+  (her own jaded distrust can blind her to being manipulated in turn), Self-Perception (her whole identity is
+  fused to her appearance and charm — successfully threaten that, and you can destroy her). **A genuinely sharp,
+  non-obvious self-identity test for telling a BLACK WIDOW apart from a BITCH when their actions look similar**
+  (both may scheme for power via a man): "a true BLACK WIDOW will have her identity wrapped up in her
+  femininity... she'll see a man at her side somewhere. A BITCH would happily rule alone." The distinguishing
+  question isn't what she does, it's whether she pictures herself ruling *with* someone or *alone*.
+- **BACKSTABBER** (dark SPUNKY KID) — a two-faced, unremarkable person (rarely the center of attention, "the
+  girl next door") who betrays trust from within, often triggered specifically by a threatened status quo (
+  friends moving on without her, others being promoted past her). Weapons: Relationships (a genuinely gifted
+  listener who gains real trust before exploiting it), Strong-willed (a tireless worker who won't be easily
+  discouraged). Vulnerabilities: Insecure (believes she doesn't measure up) — usable two ways by a
+  hero/heroine: give her the genuine attention she craves and win her over, or reaffirm her insecurity and
+  watch her escalate.
+- **LUNATIC** (unnamed hero-counterpart, framed instead around unpredictability itself) — lives by a private,
+  self-consistent logic the world doesn't share; "don't even try to understand her logic — she is
+  unfathomable." Explicitly scales from harmlessly ditzy/comic (a sweet, scattered aunt who's merely an
+  obstacle) to genuinely dangerous once her private fantasy world is threatened by reality — the trigger for
+  violence is specifically the fantasy becoming unsustainable, not malice. Weapons: Ingenious (thinks far
+  outside conventional solutions), Meddling (has a finger in everyone's business and isn't afraid to use what
+  she learns). Vulnerabilities: Undisciplined (doesn't stick with any one plan, may simply forget a grudge),
+  Reckless (acts without securing the necessary precautions).
+- **PARASITE** (explicitly the dark version of a heroine archetype also named PARASITE in Cowden's own
+  companion book — the passive-collaborator role rather than an active instigator) — attaches herself to a
+  powerful, often dangerous partner for the security he provides, and goes along with his atrocities to protect
+  her own comfort; sees herself as a victim with no choice, and will only become forceful in defense of the
+  relationship itself. Weapons: Innocent-seeming (genuinely believes in her own helplessness, which helps
+  convince others she isn't responsible), Non-threatening (her submissiveness specifically attracts controlling
+  partners). Vulnerabilities: Impressionable (easily turned by whoever is currently influencing her — including
+  the hero/heroine), Insecure (doubts her own importance, which a hero/heroine can leverage to peel her away
+  from the primary villain).
+- **SCHEMER** (dark LIBRARIAN, the female EVIL GENIUS) — an intelligent, analytical woman, often overlooked or
+  dismissed because of her gender, who channels that into elaborate, patient plotting. Weapons: Proficient
+  (decisive, executes without procrastination), Staid (can't be lured off-plan by pleasure or impulse).
+  Vulnerabilities: Arrogance (so convinced of her own lead that she skips due diligence), Obsessive
+  (perfectionism that wastes time a hero/heroine can exploit).
+- **FANATIC** (dark CRUSADER, the female TERRORIST) — an uncompromising cause-driven villain who does genuine
+  wrong in the name of a good she sincerely believes in, shrugging off collateral damage; "anyone not an ally is
+  an enemy." Her cause can be societal or purely personal (revenge for a specific wrong), and — critically — the
+  cause itself can be entirely legitimate; it's specifically her willingness to let the end justify the means
+  that makes her a villain rather than a heroine with the identical underlying belief. Weapons: Faithful
+  (unshakable loyalty to the cause), Unyielding (persistence where others compromise or quit). Vulnerabilities:
+  Rigid (a narrow worldview that blinds her to a hero/heroine's actual plan), Sanctimonious (her drive can be
+  genuinely deflated if her underlying belief is successfully disproven — e.g., her target turns out not to be
+  responsible for the wrong she's avenging).
+- **MATRIARCH** (dark NURTURER) — smothering, over-protective love turned proactive and controlling; "the best
+  defense is a good offense," applied to protecting loved ones from a threat that's sometimes real and sometimes
+  entirely imagined. Explicitly scales from merely exasperating (the stage mom, the overprotective in-law) to
+  genuinely lethal (willing to kill a rival, frame a threat, destroy a career — all while sincerely believing
+  she's just protecting her baby). Weapons: Altruistic-seeming (skilled at making her own martyrdom look
+  selfless, using guilt to bind loved ones to her), Capable (genuinely a rock in a crisis, composed under
+  pressure). Vulnerabilities: Unrealistic (her view of her loved ones' actual capabilities is skewed, over or
+  under), Obsessed (a hero/heroine can defuse her entirely by convincing her that her current plan is actually
+  *harming* the person she's trying to protect).
+
+- **Two concrete exercises worth keeping as reusable design drills, distinct from any character-workshop
+  technique captured elsewhere**: the **"Identical Twins" exercise** — strip away all baseline physical
+  difference between two characters (identical height, build, features) and force differentiation purely
+  through style choices: footwear, hairstyle, expression, clothing, living space, vehicle. A genuinely useful
+  discipline check for a project with a large roster of visually similar Dolls — confirms two companions read as
+  distinct through personality-driven presentation, not just different base models. The **"Answering Machine"
+  exercise** — imagine the specific message a character would receive from six fixed relationship categories
+  (mother, a newly married sibling, an old friend, a former partner, a younger adult sibling, the hero/heroine)
+  — a compact, concrete way to reveal a character's whole relational Network (already captured conceptually from
+  Card and Swain) through one specific, generative prompt format rather than an abstract question.
+
+*(Read in full: the entire book, including all 16 archetype lectures, the introduction's foundational rules, all
+five closing exercises, and the AFI Top 50 Villains cross-reference appendix (used only to sanity-check the
+taxonomy against well-known examples, not distilled for new content). Nothing of substance was skipped — this
+is a complete mining of a short, exceptionally well-organized source. Disposition not yet decided — given how
+directly usable this book's paired Weapons/Vulnerabilities format is for actual game-antagonist design, this is
+arguably the single strongest `long-term_reference/` candidate produced by this whole book-mining effort.)*
