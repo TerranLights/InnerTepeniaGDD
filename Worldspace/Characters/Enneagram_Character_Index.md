@@ -2,7 +2,10 @@
 
 A running reference table mapping all confirmed-type characters to their integration and disintegration directions. Add a new row whenever a character's Enneagram type is confirmed. Do not add entries for characters whose types are still TBD.
 
-For the full integration/disintegration ruleset and type descriptions, see: **[Enneagram_Dynamics.md](../Enneagram_Dynamics.md)**
+For the full integration/disintegration ruleset and type descriptions, see: **[Enneagram_Dynamics.md](../Enneagram/Enneagram_Dynamics.md)**
+
+For the full per-type deep-dive files (Healthy/Average/Unhealthy levels, Social Role, wings, instinctual
+variants, and more), see the **[Worldspace/Enneagram/](../Enneagram/)** folder once populated.
 
 ---
 
