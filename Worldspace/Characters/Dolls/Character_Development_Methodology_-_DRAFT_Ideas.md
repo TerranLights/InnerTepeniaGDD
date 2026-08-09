@@ -2617,3 +2617,93 @@ standing caveats, expanded above from the earlier compressed 3-bullet pass) have
 full. Only the two appendices remain at the level captured in the original pass — appropriate, since they are
 themselves nothing more than a compact cross-reference table restating material already captured in full above,
 not additional content of their own. This book is now fully mined for this methodology's purposes.)*
+
+## From *Next Level Plot Structure* — K.M. Weiland
+
+The fourth Weiland title mined. This one is squarely a plot/scene-structure book rather than a character book —
+most of it (scene-mechanics chapters, "how perfect does timing need to be," setpiece/sequence craft) sits
+outside this methodology's established scope, consistent with how prior structure-heavy books were treated.
+But its opening third — the concept of **chiastic (mirror) structure** and the **Four Story Worlds** — extends
+material already codified as canon in this project (the ending-distribution/cost-calibration law, the Third
+Plot Point's Ultimate Choice, the Midpoint's Moment of Truth) with a genuinely new, systematic technique worth
+capturing in real depth.
+
+- **Chiastic structure, formally named: every major structural beat has a deliberate mirror partner on the
+  opposite side of the story, and the Midpoint is the unpaired axis they all pivot around.** The specific
+  pairings: Hook ↔ Resolution, Inciting Event ↔ Climactic Moment, First Plot Point ↔ Third Plot Point, First
+  Pinch Point ↔ Second Pinch Point — with the Midpoint standing alone, not mirroring anything, but resolving
+  the first half and catalyzing everything mirrored in the second. This is a genuinely useful discipline to
+  apply retroactively to any companion, district, or full-game questline already built on the beat structure
+  already captured from the main *Creating Character Arcs* book above: for every beat in the first half, ask
+  what its deliberate echo in the second half should be, rather than treating each beat as only locally
+  connected to its immediate neighbors.
+- **The mirroring is about *contrast*, not sameness — "comparative symmetry."** A paired beat should read as a
+  deliberate reversal of its partner, not a repeat: the same image, symbol, or situation reappearing with its
+  meaning inverted (the Lie's symbol becomes the Truth's symbol; a scene that once trapped the character now
+  frees her). This is the mechanism, not just the metaphor, behind the already-captured "same event tested at
+  beginning vs. end" consistency check (from the FAQ material in *Creating Character Arcs*) — that check was
+  testing *whether* a mirror exists; this book supplies *how* to build one deliberately.
+  - **A lighter-weight fallback when full plot-level mirroring isn't feasible**: deliberately mirror or invert
+    specific *symbols, settings, colors, or which named characters are present* at paired beats, even when the
+    underlying plot events can't be made to rhyme. Cheap to apply retroactively to an already-drafted
+    questline: check which named figures, locations, or recurring objects appear at a beat and its structural
+    partner, and see whether their presence (or pointed absence) can be made to say something.
+  - **Practical workflow note: figure out the ending first, then retrofit the beginning to set it up** — it's
+    described as easier to build a resonant beginning once the ending is known than to force an already-written
+    beginning to resolve into a mirrored ending after the fact. Useful ordering advice for drafting a new
+    companion or district questline: lock the climactic/resolution beat's content before finalizing the
+    Characteristic Moment/Normal World content, not after.
+- **The Midpoint is structurally unique — not one beat among many, but the axis the entire chiastic structure
+  pivots on.** Directly explains *why* the Midpoint (already captured extensively above as the site of the
+  Moment of Truth and the reactive-to-active shift) deserves disproportionate design investment relative to
+  every other beat except the Climax: it's functionally different in kind, not just important by degree. Also
+  worth keeping as a practical production-priority note: a long questline's "saggy middle" is best fixed by
+  strengthening the Midpoint and Pinch Points specifically, not by adding more incident generally — and the
+  Midpoint should be treated as a genuine content-investment centerpiece (comparable to the Climax), not a
+  lesser beat that can be handled more cheaply.
+- **The Four Story Worlds — Normal World, Adventure World, Underworld, New Normal World — as a compact
+  four-stage psychological-landscape checklist for any questline**, mapping directly onto the acts already in
+  use: Normal World (First Act, already captured as symbolic dramatization of the Lie), Adventure World (Second
+  Act), Underworld (Third Act's low point, i.e. the Third Plot Point/Black Moment territory already captured),
+  and — the genuinely new addition — **the New Normal World of the Resolution.**
+- **The New Normal World is defined by the character's *changed relationship* to her surroundings, not by a
+  change of physical setting** — worth keeping as five distinct, usable resolution "flavors" for calibrating
+  how a companion's ending should actually land, useful alongside the ending-distribution work already codified
+  as canon:
+  1. **Same place, same status quo, but she now sees or values it differently** — a quiet, internal-only
+     victory (a companion who never leaves her home city but has genuinely changed how she relates to it).
+  2. **Same place, actively improved by what she brought back from her journey** — she heals or upgrades the
+     world she returns to, using something specifically earned during the questline.
+  3. **Same place, transformed by *others'* actions as an indirect consequence of what she did elsewhere** — the
+     world changes without her having to be the direct agent of that change.
+  4. **Contrast between her own change and a stubbornly unchanged setting** — can produce a genuinely
+     alienated, tragic register (she no longer fits the life she returns to), a useful, distinct texture for a
+     bittersweet or negative ending under the existing distribution law.
+  5. **A natural confirmation that it's time to leave permanently** — the ending isn't a return at all, but a
+     deliberate departure (a coming-of-age Doll moving on to her next arc/DLC).
+  - **Never physically leaving one setting for the whole story still supports this framework** — the "worlds"
+    don't require literal travel; a Doll who stays in one city or district the entire time can still pass
+    through all four worlds symbolically, with the changes registering in her relationship to the place rather
+    than in the place itself. Directly useful for city-bound companions who don't travel across the game.
+  - **Directly reinforces the series-spanning arc material already captured**: in a sequel or DLC where a
+    companion remains in the same physical setting across multiple appearances, each individual DLC/questline
+    can still run its own internal Normal World → Adventure World → Underworld → New Normal World cycle without
+    needing a change of location to mark the transitions.
+  - **The Resolution beat is not optional filler — it's where the ending's cost/reward actually registers
+    emotionally**, directly serving the already-codified No Good Endings law: a Resolution that's skipped or
+    rushed denies the audience the chance to actually feel what a companion gained or lost via her climactic
+    choice. Worth flagging as a QA check on any drafted ending: does the Resolution beat actually dramatize the
+    specific named cost/reward from the ending-distribution work, or does it just tie off plot threads without
+    letting that cost land?
+
+*(Read in depth: the Introduction and Chapter 1 (chiastic structure overview, in full), Chapter 6 (The Midpoint
+as the Swivel Point, in full), and Chapter 15 (The New Normal World of a Story's Resolution, in full). Not read:
+the remaining individual chiastic-pair chapters (2-5, 7-11 — Hook/Resolution, Inciting Event/Climactic Moment,
+First/Third Plot Points, and the "two halves of" deep dives for each major beat), Chapters 12-14 (Normal World/
+Adventure World/Underworld individually — their content is already captured above via the beats already
+extensively documented from *Creating Character Arcs*), and all of Part 4 (Next-Level Plot Questions) and Part
+5 (Next-Level Scene Structure) — confirmed, not assumed, to be pure plot-pacing and scene-mechanics craft
+outside this methodology's scope, consistent with the precedent set by *Writing Deep Scenes* above. This is a
+deliberate scope call: the chiastic-structure concept and the New Normal World taxonomy are the book's real
+contribution to this methodology, and both have been captured in full; the remaining ~4,000 lines are
+elaboration of principles (individual paired-beat deep dives) or material genuinely outside scope.)*
