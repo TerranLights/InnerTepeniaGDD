@@ -919,4 +919,190 @@ synthesis of the other three:
 *(Read in full: all four chapters and the Conclusion. As flagged before reading, the book's real-world American
 literary-historical content — specific novels, authors, and the capitalist/cowboy/Christ archetypes themselves —
 was deliberately left untranslated and unused; only the four structural techniques above, and the Conclusion's
-synthesis of how they relate to each other, were extracted. Disposition not yet decided.)*
+synthesis of how they relate to each other, were extracted. Disposed to `long-term_reference/`.)*
+
+---
+
+## From *Heroes and Anti-Heroes in Medieval Romance* — edited by Neil Cartlidge
+
+A multi-author academic essay collection (14 chapters, each a separate case study of one medieval character or
+character-type), read at the developer's request even though — as the developer anticipated going in — it may
+not describe an actual "medieval concept of the anti-hero" at all. Cartlidge's own Introduction confirms this
+directly: **"'Anti-hero' is not a medieval expression."** It's a retrospective analytical label applied to
+characters who fail to conform to their own genre's heroic paradigm, or who expose contradictions within that
+paradigm — there was no native medieval category matching it. Given this, and given the collection's format
+(14 disparate case studies rather than one throughline argument), this was read selectively rather than
+cover-to-cover: the Introduction in full (which summarizes all 14 chapters' individual arguments), plus full or
+substantial reads of the three chapters that turned out to have the most portable structural content — Mordred
+(Ch. 5), The Anti-heroic Heart (Ch. 10), and Sons of Devils (Ch. 14) — plus a partial read of Ungallant Knights
+(Ch. 13) for its concluding argument. As with Simmons, everything below is translated structural technique, not
+the real-world-adjacent English/Arthurian/French material itself.
+
+- **A working taxonomy of distinct anti-heroism-generating mechanisms** (Introduction) — Cartlidge's own survey
+  of his 14 case studies amounts to a checklist of genuinely different *ways* a character can end up read as
+  anti-heroic, worth keeping as a diagnostic list when classifying a new companion or Notable Figure:
+  the **character-assassinated-or-rehabilitated figure** (the identical figure gets opposite treatment across
+  different tellings, depending on what the telling culture currently needs the story to mean); the
+  **narrating-culture effect** (a figure who is a "victor" by one culture's history is simultaneously a "villain"
+  by a rival culture's own myth-making, without a single fact about him changing — anti-heroism as a property of
+  who's telling the story, not of the character); the **traitor-with-redeeming-features** (a designated-villain
+  role softened specifically when the text is willing to locate part of the blame for the catastrophe in the
+  hero's own court or character, not solely in the traitor); the **heroic failure** (a hero who is right about
+  the cause and effective in it, but personally and repeatedly fails to live up to the very definition of
+  heroism his own story sets up — a patterned gap between reputation and conduct, not a single lapse); the
+  **frame-dependent transgression** (behavior that reads as shocking specifically because of the moralizing
+  context surrounding it, not because the behavior itself is worse than a comparable act elsewhere); the
+  **uncomfortable-because-effective hero** (heroism that depends on a value — conquest, holy war — that the text
+  itself already treats ambivalently, independent of any modern discomfort); the **noble-enemy challenge** (an
+  opposing faction's members embody the "home" faction's own stated values more fully than the home faction's
+  own people do, becoming an implicit indictment simply by existing); and **transgressive-identity heroism**
+  (a hero whose very qualification for the role — low birth, monstrous parentage — is itself something the
+  genre's own definition of "heroic" doesn't normally accommodate, independent of anything he does).
+- **Kinship-Proximity Intensifies Betrayal** (Mordred, Ch. 5) — successive medieval retellings deliberately
+  *tightened* Mordred's relationship to Arthur over centuries (from unrelated warrior, to cousin, to nephew, to
+  secret son) specifically to raise the emotional charge of the betrayal. The principle generalizes cleanly: the
+  narrative weight of a betrayal scales with how close the betrayer already stood to legitimately filling the
+  exact role or void they end up seizing by force — a betrayer who was already the acknowledged heir-apparent or
+  chosen replacement lands harder than an unrelated usurper, because the violence is also a corruption of
+  something that was already rightfully going to be his. Directly useful for calibrating exactly how "related"
+  a Doll's betrayer or rival should be to the position/person she ultimately displaces.
+- **Layered, Incremental Sympathy** (Mordred, Ch. 5) — rather than a single backstory-reveal scene, Mordred's
+  sympathy accretes across *centuries* of retellings, each adding one more mitigating causal factor without ever
+  erasing the previous layers of condemnation (first: the queen may be complicit, diluting his sole
+  responsibility; later: he's the product of incest he didn't choose and is "swayed towards repeating the same
+  sin" that produced him; later still: the barons' bad advice shares the blame). The technique worth extracting
+  from the *shape* of this, not the specific plot beats: reveal a villain's mitigating context in successive
+  small doses across a companion's questline rather than one full-dump backstory scene, letting the audience
+  sit with continued disapproval between each addition rather than being handed total sympathy all at once.
+- **"Understand, Not Forgive" as a minimum-viable sympathy dose** — Weiss's own closing line on Mordred is worth
+  keeping close to verbatim as a design target distinct from redemption: *"we deplore his action but understand
+  its origins, and our understanding entails a modicum of sympathy."* This is a smaller, more surgical unit of
+  sympathy than a full redemption arc or the Intimacy Technique already captured from Morrell — sometimes a
+  villain only needs one clarifying causal detail to stop reading as a cardboard cutout, without that detail
+  being asked to carry any redemptive weight at all.
+- **The Regional-Reputation Shorthand, flagged as a technique to use carefully** (Mordred, Ch. 5) — Mordred
+  became such a strong archetype that later, unrelated romances reused fragments of his name (Modard, Morgadoure,
+  Mordoure) purely as villain-signaling shorthand, and separately, real Cornwall's centuries-long actual history
+  of revolt against central authority got flattened by romance writers into "traitors conventionally come from
+  Cornwall," used as a narrative shortcut requiring no fresh motive. The underlying mechanism — an in-fiction
+  region or bloodline accumulating enough of its own established reputation that later writers can lean on it as
+  shorthand — is reusable *only* if built entirely from Tepenia's own invented in-fiction history (a specific
+  city or subnet earning a reputation for producing traitors after enough actual in-canon incidents), never
+  mapped onto real nations or ethnicities — this is exactly the kind of lazy shorthand
+  [[feedback_no_national_stereotypes|the No National Stereotypes law]] exists to block, so it belongs on the
+  "handle with real caution" side of this list, not the freely-reusable side.
+- **Interiority as the Actual Definition of Anti-Heroic** (The Anti-heroic Heart, Ch. 10) — the chapter's central
+  citation (Gloria Cigman) offers a genuinely clean, structural axis distinct from everything else in this file:
+  a traditional hero is defined by the *absence* of an inner life — "only a being with neither the emotions nor
+  the introspection that comprise the inner self can be a hero" — pure exteriority, judged only by deeds. The
+  moment a narrative's actual subject becomes a character's doubt, grief, or emotional vulnerability rather than
+  their external victories, the narrative becomes anti-heroic *by definition*, independent of whether the
+  character wins or loses the external quest. This is a lens, not a checklist: any companion questline that
+  turns its camera inward — making introspection itself the plot, rather than scenery around an external plot —
+  is functioning anti-heroically in this specific sense, even if she never does anything villainous.
+- **The Everyone-Loses-Eventually Reveal** (The Anti-heroic Heart, Ch. 10) — the text stages a moment where even
+  the *canonical* greatest heroes (Lancelot, Tristan) are shown to have their own private, unadvertised defeat,
+  their armor reframed as symbolic identification rather than actual protection. Reusable device for humanizing
+  a Tepenia legend or top-tier Notable Figure without diminishing her canonical achievements: her fame covers the
+  external quest she won; a private, universal vulnerability she was never immune to (grief, a love she lost,
+  a doubt she never resolved) simply never made it into the legend.
+- **Former-Enemies-as-Fellow-Casualties** (The Anti-heroic Heart, Ch. 10) — historical enemies' badges of defeat
+  (Aeneas and Achilles, Troilus and Diomedes) are displayed side by side, both conquered by the same force,
+  collapsing their old battle-lines by showing they were always more alike than their conflict suggested. A
+  clean, low-cost device for a bittersweet reconciliation beat: pair two former rivals' single shared
+  vulnerability rather than resolving their conflict directly.
+- **Redefining the Axis of Victory** (The Anti-heroic Heart, Ch. 10) — the text plays a thought experiment where
+  "heroism" is redefined as submission to Love, which means Reason, prudence, and self-preservation — normally
+  virtuous qualities — become the story's opposing force purely because this particular character's story has
+  redefined what winning even means for her. Reusable for antagonist-free internal conflict design: a
+  companion's "antagonist" can be a normally-admirable quality (caution, loyalty to an old promise, self-
+  discipline) recast as the obstacle, simply by being explicit about what this specific character's story counts
+  as victory.
+- **Villain's classist etymology, flagged as a bias to not reproduce** (The Anti-heroic Heart, Ch. 10) —
+  "villain" derives from the same root as "village," originally just meaning a low-born rural laborer; the
+  chapter notes this in passing while discussing a "victor" character whose low birth is listed among his
+  repulsive traits. Worth keeping only as an explicit caution: don't let villainy default to low social status
+  in Tepenia's own design vocabulary, since that association is a real historical artifact of aristocratic bias
+  baked into the word itself, not a fact about badness — this cuts directly against the project's own
+  [[project_human_robot_relations_baseline|egalitarian baseline]].
+- **The Consequence-Presence Dial** (Ungallant Knights, Ch. 13) — the same category of transgression (sexual
+  coercion, infidelity) reads as a serious anti-heroic sin in one text specifically because the victim's anger
+  and lived consequences are given real narrative weight (*The Betrayed Maiden's Lament*), and reads as
+  low-stakes comedy in another specifically because the narrative declines to show the victim's suffering at all
+  and lets every threatened punishment quietly evaporate (*Thomas of Erceldoune*, *The Tale of the Basin*). This
+  is a craft-level control knob independent of the act itself: whether a companion's past transgression should
+  land as genuinely damning or as forgivable/comic history is controlled less by what she did than by whether
+  the text gives real narrative voice and weight to whoever was harmed by it.
+- **The Anti-Type / Point-by-Point Inversion** (Sons of Devils, Ch. 14) — Antichrist is constructed not as
+  generically evil but as a systematic, feature-by-feature inversion of Christ specifically: his own
+  counter-miracles, his own supernatural-but-corrupted conception, his own inverted core trait (pride where
+  Christ has humility). The dedicated-nemesis technique this generalizes to: build a specific villain's defining
+  traits by taking a specific hero's defining traits one at a time and inverting each, rather than assembling
+  generically "bad" qualities — produces a villain who reads as that hero's own dark mirror specifically, not
+  evil-in-general.
+- **The Ambiguous-Virtue Contamination Effect** (Sons of Devils, Ch. 14) — Antichrist is unsettling specifically
+  because he possesses authentically heroic-coded markers (miracles, an extraordinary birth) while being
+  absolutely evil, which retroactively makes *those markers themselves* seem suspect rather than just the
+  character wielding them. Reusable for any storyline questioning whether a culture's own signals of
+  chosen-one-ness or blessed status can be trusted at all: pair an undeniably evil character with one or two of
+  the same status-markers your setting's heroes are usually validated by, and let the audience's own trained
+  instinct to read those markers as reassuring become the thing being interrogated.
+- **The Sanitizing-Ritual Insertion** (Sons of Devils, Ch. 14) — romances handling an ambiguous supernatural-
+  parentage hero (*Sir Degaré*, *Yonec*) go out of their way to insert an early scene of familiar, trusted ritual
+  (Mass, the Eucharist) specifically to reassure the audience "not that kind of story" before genre-trained
+  suspicion fully engages. Directly usable when introducing a companion whose origin is unusual by convention
+  (an unauthorized build, a forbidden-process Doll, an origin adjacent to a canonically villainous program): an
+  early scene anchoring her in something the player already trusts can pre-empt the genre-trained assumption
+  before it forms, rather than having to argue it away later.
+- **Origin-Reveal as Redemption Catalyst, Not Guilt** (Sons of Devils, Ch. 14) — the single richest find in this
+  chapter, and structurally distinct from every redemption mechanism already in this file. Robert le Diable and
+  Sir Gowther commit years of extreme, remorseless violence with no crisis of conscience; their turn toward
+  redemption is triggered specifically by *learning who they are* (that they are literally sons of devils), not
+  by empathy for their victims or confrontation with the damage they caused — "the catalyst is not so much a
+  changed perspective on what they have done, as a changed perspective on who they are." This is a genuinely
+  different arc shape from anything Morrell, Cowden, or Simmons offered: a companion whose violent or
+  self-destructive pattern breaks specifically because she learns the truth of her own origin or creation, with
+  the change happening *before* and independent of any reckoning with harm already done — a strong candidate
+  arc shape for Identity Fragmentation companions or any Doll whose creation history has been concealed from
+  her.
+- **"Scale, Not Kind" Reframe** (Sons of Devils, Ch. 14) — Cartlidge's own explicit reading of why Robert and
+  Gowther's monstrous origin still lands as relatable: their trauma is presented as an extreme *degree* of the
+  same inherited-legacy burden every medieval reader was already expected to carry (original sin), not a
+  difference in *kind* that sets them apart as fundamentally other. Directly applicable design principle for any
+  extreme-origin companion (built for a forbidden military program, descended from a war-criminal creator,
+  assembled from black-market components): frame the monstrous version explicitly as an intensified degree of
+  something every other character already carries in smaller form — an inheritance or origin nobody chooses —
+  rather than as a difference in category that isolates her from ordinary sympathy.
+- **The Nature/Person Sin Split** (Sons of Devils, Ch. 14, via Gregory and Anselm) — a precise, quotable
+  theological formula worth keeping close to its original wording because of how cleanly it separates inherited
+  disposition from earned culpability: *"whoever imitates the iniquity of an evil parent is implicated in his
+  sins too; but whoever refuses to imitate their parent's iniquity, is by no means burdened by his crime."*
+  Inherited or manufactured disposition sets a character's starting conditions and is not itself blameworthy;
+  only the character's own chosen response — imitating or refusing the pattern she was built or born into —
+  is the actual site of moral standing. A clean, formal articulation of a principle this project's own
+  [[project_reclaimer_trait_and_perk|Reclaimer trait]] and robot-origin material already assumes informally,
+  now available as a citable design rule.
+- **Two Valid Modes of Living With a Monstrous Origin** (Sons of Devils, Ch. 14) — Merlin accepts his own
+  demonic-adjacent origin with total insouciance, no crisis, no redemption arc required — he simply is what he
+  is and gets on with using his gifts. Robert and Gowther, confronting the identical category of revelation, are
+  traumatized into a full penitential arc. Cartlidge presents both as equally legitimate authorial choices, not
+  as a better/worse pair: (a) untroubled integration, for a character whose story isn't *about* her origin, and
+  (b) traumatic reckoning, for a character whose whole arc *is* about processing it. Worth treating explicitly as
+  a fork to choose deliberately per-companion rather than a default either way.
+- **The Universalizing Payoff, as a writing note for the emotional climax of an extreme-origin arc** (Sons of
+  Devils, Ch. 14) — the chapter's own closing argument: the *more* monstrous a redeemed character's starting
+  point, the more her eventual choice of virtue proves that choice genuinely outweighs origin for everyone, not
+  just extreme cases — "if even the sons of devils can choose virtue and find grace, then there must be hope for
+  each and every one of us." Don't undersell how monstrous an extreme-origin companion's starting point was for
+  the sake of making her more immediately likeable; the size of that gap is the actual emotional argument the
+  story is making on behalf of every more ordinary character (and the player) who also carries an unchosen
+  inheritance.
+
+*(Read in substantial but not exhaustive depth: the Introduction in full, plus full or near-full reads of the
+Mordred, The Anti-heroic Heart, and Sons of Devils chapters, plus the concluding argument of Ungallant Knights.
+Not read as standalone chapters — though each is summarized in the Introduction, which was read in full: Turnus,
+Alexander the Great, Hengist, Harold Godwineson, Merlin (its own dedicated chapter — though Merlin appears
+substantially within Sons of Devils as Antichrist's demonic-half-brother), Gawain, Gamelyn, Ralph the Collier,
+Crusaders, and Saracens. Confirms, per Cartlidge's own Introduction, that "anti-hero" has no native medieval
+equivalent — this is a modern analytical lens applied backward to a genre that never used the term itself, which
+was the developer's own suspicion going in. Disposition not yet decided.)*
