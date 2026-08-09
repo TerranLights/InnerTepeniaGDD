@@ -3389,6 +3389,54 @@ exhaustive read, concentrated on the chapters most likely to add non-redundant m
   character just being pushed through a plot like a puppet (a red flag — genuine characters should occasionally
   surprise or resist their own writer), or is an over-assertive character actually revealing a truth about the
   story the outline hadn't accounted for?
+- **The Four Elements of Relationship "Sizzle"** (Chapter 5) — a clean, portable checklist for designing a
+  compelling *pair*, distinct from anything else captured in this file, since almost everything else in this
+  methodology is about constructing individual characters rather than the emergent relationship between two of
+  them: (1) something genuinely in common that brings and keeps them together, (2) a real conflict that
+  threatens to pull them apart, (3) contrasting/opposite qualities that strengthen the dynamic through
+  opposition, (4) real potential for the two to transform each other, for better or worse. Directly usable as a
+  design checklist for any companion-companion pairing (party banter, rival/ally dynamics) or for the
+  player-companion relationship itself. The chapter's opening framing is worth keeping too: a pair has its own
+  emergent "chemistry" or third identity, distinct from either individual — worth designing deliberately rather
+  than assuming it will emerge automatically from two well-built individuals.
+- **Pacing the balance of attraction and conflict — a serialized-content-specific caution** (Chapter 5),
+  directly relevant given how long a game's companion romance arcs can run compared to a film: too much
+  attraction resolved too early drains the "sizzle" that was driving the relationship, but the reverse failure
+  is just as real and gets less attention elsewhere in this file — delaying resolution too long, or manufacturing
+  contrived reasons to keep two characters apart, can *break credibility* rather than sustain tension (the
+  chapter's own example: a couple's continued unresolved tension eventually contradicts the audience's read of
+  who the characters actually are, per *Cheers* co-creator James Burrows — "you can only keep them apart so
+  long" before it invalidates the character). This is the necessary counterpart to the already-captured caution
+  (from Card, via *Characters & Viewpoint*) that tension *drops* after resolution — together the two define both
+  edges of the pacing window for any drawn-out companion romance, and neither one alone is the whole picture. A
+  further sharpening worth keeping: whatever keeps two characters apart should be traceable to something
+  specific and individual about each character's own psychology (a named fear, a specific standard, a personal
+  history), not just an external plot circumstance — a generic "will they/won't they" delay mechanism reads as
+  contrived; a delay rooted in a specific, consistent trait of the character reads as earned.
+- **Contrast as the primary engine of a character duo** (Chapter 5) — reinforcing element 3 of the Sizzle
+  checklist with a concrete list of *where* to place contrast between two paired characters: choice of
+  work/role, relationship to family or partners, moral choices, and even small habitual behaviors (eating,
+  daily routine) — contrast placed at multiple simultaneous levels (not just one obvious axis) is what makes a
+  pairing's dynamic feel rich rather than gimmicky.
+- **Beyond Stereotyping — a five-point nonstereotypical-character checklist** (Chapter 9, drawn from the
+  book's own "Women in Film Luminas Award" criteria, a real industry award Seger chaired the committee for).
+  Distinct in form from this project's own existing anti-stereotype practice (the No National Stereotypes law
+  and GPS-based culture composition, which are about avoiding real-world national stereotyping at the
+  worldbuilding level) — this is a character-level audit checklist, usable as a final QA pass on any individual
+  companion or notable NPC: (1) **Multidimensional** — values, emotions, attitudes, *and* paradoxes, not one
+  flat trait; (2) **Seen in a variety of roles and contexts** — not confined to one narrow social function; (3)
+  **Reflects the actual range** of age, background, appearance, and occupation present in the wider society,
+  rather than defaulting to the most conventionally appealing version of a group; (4) **Inner-directed, not
+  reactive** — she moves the story through her own attitude, behavior, and purpose and measurably affects the
+  outcome, rather than being a victim the plot happens to; (5) **Reflects her specific culture and adds a
+  genuinely different perspective because of it**, rather than reacting to every situation exactly as a
+  "default" character would despite having a stated different background — the sharpest of the five, and the
+  most useful cross-check for this project's own diaspora/cultural-transplant system: a companion's District or
+  national origin should be visible in *how she actually approaches a problem*, not just in flavor text. The
+  chapter's own sequencing principle for writing outside one's own culture is worth keeping alongside the
+  checklist: build the character as fully human first, with the full ordinary range of feelings and reactions
+  any person has, and add the specific cultural influence as a modulating layer second — never let a culture of
+  origin substitute for or fully define the personality underneath it.
 
 *(Sampled via direct image reading rather than exhaustive read-through, given the scanned source: Chapter 2's
 opening and "Core of the Character"/paradox sections, Chapter 4's opening through the Jungian typology
@@ -3396,14 +3444,16 @@ discussion (not the abnormal-psychology section that follows it), the opening an
 of Chapter 8 (the "Symbolic Character" section and the halo-effect/mascot material were judged lower-priority —
 largely a restatement of the Trait Implication Web applied to advertising mascots and anthropomorphized
 animals, less relevant than Robot Universals already provides for this project's actual synthetic-being
-population), and the opening several pages of Chapter 10. Not sampled: Chapter 1 (Researching the Character —
-likely to overlap with Swain's already-captured research material), Chapter 3 (Creating the Backstory — likely
-to overlap with Corbett/Weiland/Swain's Ghost material, beyond the one economy-of-exposition tip noted above),
-Chapter 5 (Creating Character Relationships), Chapter 6 (Adding Supporting and Minor Characters — likely
-overlap with Card's Hierarchy), Chapter 7 (Writing Dialogue — likely overlap with Lisle's Sins of Dialogue and
-Card), Chapter 9 (Beyond Stereotyping — likely overlap with Card's stereotype material), and the remainder of
-Chapters 4, 8, and 10. Given the extra friction of image-based sampling and the meaningful redundancy risk
-across the unsampled chapters, this is being treated as a good-faith partial pass rather than continuing to
-exhaustive completion — flag for a deeper follow-up pass only if a future session specifically needs Chapters
-5, 6, or 9's territory (character relationships, minor-character calibration, or stereotyping) and finds the
-already-captured Card/Corbett/Weiland material insufficient.)*
+population), the opening several pages of Chapter 10, the opening and "Balance Attraction and Conflict"/
+"Contrast" sections of Chapter 5, and the opening, "How Do You Dimensionalize These Roles?", and Luminas Award
+criteria sections of Chapter 9 (the extensive catalogue of specific real-world stereotype tropes partway
+through Chapter 9 — disability/race/religion/age/sexuality-specific tropes — was skimmed but not distilled
+above, judged as reference vocabulary rather than technique, though the named terms like "Supercrip" could be
+useful later if this project writes disabled companions or NPCs). Not sampled: Chapter 1 (Researching the
+Character — likely to overlap with Swain's already-captured research material), Chapter 3 (Creating the
+Backstory — likely to overlap with Corbett/Weiland/Swain's Ghost material, beyond the one economy-of-exposition
+tip noted above), Chapter 6 (Adding Supporting and Minor Characters — likely overlap with Card's Hierarchy),
+Chapter 7 (Writing Dialogue — likely overlap with Lisle's Sins of Dialogue and Card), and the remainder of
+Chapters 4, 5, 8, 9, and 10. Given the extra friction of image-based sampling and the meaningful redundancy
+risk across the unsampled chapters, this is being treated as a good-faith partial pass rather than continuing
+to exhaustive completion.)*
