@@ -158,6 +158,18 @@ in this file, including the rest of "High Priority" below, until done or explici
   into an actual methodology document. Next step: keep adding candidate ideas, then sort into a real
   structured instruction sheet once there's enough material.
 
+- [ ] **Villain/Anti-Hero supplement sheet — addition to the main methodology, not a fork** *(flagged 2026-08-09)*
+  A second, separate document specifically for villains and anti-heroes, sitting alongside the main
+  character-creation methodology above rather than replacing or forking it — antagonist/anti-hero design has
+  distinct concerns (irredeemability thresholds, sympathetic-villain calibration) that don't map cleanly onto
+  the protagonist/companion-focused arc machinery the main methodology is built around. Raw material already in
+  hand from the *Characters & Viewpoint* (Card) distillation (the Sadist/Bully definition, the Self-Appointed/
+  Usurper Rule, the Understandable Villain principle's hard limit) and from Weiland's Antagonist material
+  already in the draft file. Two still-queued books are specifically earmarked to feed this sheet rather than
+  the main methodology: *Bullies, Bastards And Bitches* (Morrell) and *Fallen Heroes: Sixteen Master Villain
+  Archetypes* (Cowden). See `project_villain_antihero_supplement_sheet_flagged` memory. Not yet started — no
+  file exists yet.
+
 ---
 
 ## 2026-08-01 Backlog Batch
