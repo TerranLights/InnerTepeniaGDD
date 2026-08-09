@@ -1336,3 +1336,143 @@ of Part Three (Setting, five more chapters), all of Part Four (Tension, three ch
 (literal name-selection method, not psychology), and Wrapping Up (the author's personal career-discipline
 advice) are pure prose-craft or writer's-life material with no further character-psychology content to mine.
 This book is now close to fully mined for this methodology's purposes.)*
+
+## From *What Would Your Character Do?* — Eric Maisel
+
+This book is structurally unlike every other source mined so far: instead of craft essays, it's built almost
+entirely around a single generative mechanism (30 scenario prompts with branching diagnostic questions), framed
+by a short but genuinely useful piece of methodological philosophy up front. That philosophy is worth capturing
+in full before the mechanism itself.
+
+- **"A writer sets up his own amazing experiment: his work of fiction."** Maisel's central framing claim, worth
+  keeping as the philosophical anchor for this entire draft-ideas effort: professional psychology has never
+  produced an agreed, reliable theory of personality, but a novelist doesn't need one — a work of fiction *is*
+  the experiment. The writer proposes a character with a given wound and belief, places her in a situation, and
+  discovers (by the act of writing the scene) what she does, testing the result only against **psychological
+  plausibility and legitimacy**, not against a diagnostic checklist. This directly validates and grounds the
+  premise of the whole "run a Doll through test scenarios" approach this file has been assembling piecemeal from
+  other sources — Maisel makes it the *entire* method rather than one tool among several.
+
+- **Characters must be MORE psychologically consistent than real people — this is a feature of the craft, not a
+  compromise.** A genuinely important corrective, worth flagging prominently given this methodology's whole goal
+  is "psychological depth": *"No character ever written is as complex as the least complex human being... A
+  real person may act cowardly here and heroic there, but a character that acted that way would confuse and
+  disturb us."* A real person's contradictions, mood swings, and "secret nasty desires with no bearing on their
+  goodness" read as authentic messiness; the identical inconsistency in a written character reads as bad or
+  confused writing. **Practical implication for Doll design: depth should come from a rich, well-motivated,
+  internally coherent throughline — not from piling on realistic-but-contradictory quirks in the name of
+  complexity.** A Doll can be deep and simple at the same time; she cannot be deep and incoherent. This is worth
+  treating as a standing caution on everything else gathered in this file: every technique above should be in
+  service of *one* legible, consistent psychology per Doll, not an ever-growing pile of traits.
+  - Directly related, and worth folding in rather than treating as separate: **"Consequences of Upbringing" as
+    a deliberate, chosen simplification.** Maisel explicitly recommends picking a single, clean causal link
+    between a formative event and a present-day trait or belief ("her chronic shyness is a direct result of
+    being told as a child she should be seen and not heard") even though real causality is never actually that
+    clean — the simplification is a *tool* for fixing the character firmly in the writer's own mind, not a
+    claim about how psychology really works. This directly reinforces (independently) the "distorted belief
+    seeded by a Prime Motivating Incident" material already captured from St. John, above — worth treating the
+    convergence as license to keep Doll wounds single-cause and clean rather than realistically multi-factorial.
+
+- **The Basic Headline technique** — find one compact behavioral-compass sentence or comparison that lets you
+  instantly know how a character would react to nearly anything, without re-deriving it from scratch each time.
+  Maisel's example: the writers of *All in the Family* decided Edith Bunker would react to anything Archie threw
+  at her "as Jesus Christ might have reacted," and that single sentence resolved almost every scene-level
+  question about how to play her. Not every Doll needs one, but when one emerges naturally it's worth writing
+  down as a fast reference distinct from (and more compact than) a full Goal/Desire/Lesson or GMC sheet.
+
+- **The 12-Category Character Notebook** — a distinct cataloguing framework worth keeping alongside Boutros's
+  questionnaire and St. John's GMC/Prep sheets as a third option, organized around categories that don't fully
+  overlap with either: Basic Headline (above); Basic History; **Archetypal/Category/Stereotypical Resonance**
+  (does she deliberately partake of a recognizable archetype or stock role, and if so, is she played straight
+  with it or against its grain — treated here as a source of richness to lean into or subvert, not simply a
+  cliché to avoid at all costs); Actions and Reactions (accumulated from scenario-testing, below); Moral
+  Valence (does she read, on balance, as trustworthy/principled or shady/impulsive — a single-axis complement to
+  the fuller Flaw material already captured); Dreams and Ambitions; Inner Life (what she's actually thinking
+  during mundane moments — doing the dishes, waiting in line); Shadow Sides and Difficulties in Living;
+  Consequences of Upbringing (above); **Power, Sexual Potency, and "Alpha-ness"** — a valence this file hasn't
+  captured elsewhere: does the character read as powerful/commanding or meek/deferential even in incidental
+  interactions (Maisel's example: a waiter who ignores diners reads as powerful; one who's obsequious reads as
+  weak), independent of her actual in-fiction authority or combat capability; Cultural Component; and **Meaning
+  Web** — how a character's beliefs and opinions knit together into an internally consistent worldview specific
+  enough that her reaction to almost any new situation or question becomes predictable from it.
+
+- **Secondary and minor characters deserve the same investigative treatment as main characters** — Maisel's
+  observed failure mode is that most writers invest all their character-building effort in the protagonist and
+  let everyone else default to flat stereotype, then argues this is usually just habit, not necessity: even a
+  one-scene landlady or cab driver-equivalent NPC benefits from a few minutes of real investigation, and
+  sometimes what surfaces (a confidante, a hidden strength, a surprising motive) turns out to matter to the
+  plot in ways a stereotyped version never could have. This converges with this project's own established
+  practice of building out full Community Infrastructure and Notable Figures for every city rather than only
+  named companions — worth treating as independent confirmation that the investment scales down productively
+  even to minor NPCs.
+
+- **The core mechanism: Scenario + Branching Questions + Interpretation, not open-ended biographical Q&A.**
+  This is the book's actual innovation and the single most portable technique in it. Rather than asking a
+  character an open question ("what does she want," "what's her flaw"), Maisel poses a **concrete situational
+  question with several plausible, specific behavioral answers, each annotated with what that specific choice
+  is psychologically consistent with** — explicitly *not* claimed as proof of a personality type, only as
+  suggestive and consistent with one. Worked example, from the Family Picnic scenario's opening question ("what
+  is the first thing your character does upon receiving the invitation?"): *thinking about how to get out of
+  it* suggests real family tension and an avoidant coping style; *hoping a certain relative won't be there*
+  points to a specific unresolved relational dynamic worth naming; *looking forward to seeing someone* suggests
+  a capacity for uncomplicated affection; *feeling unaccountably depressed* suggests she experiences herself as
+  an outsider even within her own family; *calling around for gossip first* suggests an enmeshed, everybody's-
+  business-is-everybody's-business family culture. **The generative power is in forcing a choice among several
+  live, concrete options and then reading backward from the choice to the psychology — which produces more
+  specific, less generic answers than asking "what's her relationship with her family like?" directly.** This
+  is a technique this project could apply directly and cheaply: for any Doll whose psychology feels
+  underspecified, write 4-6 plausible concrete reactions to one grounded situational question, choose the one
+  that feels truest, and let that choice retroactively define the trait rather than starting from the trait.
+
+- **The 30 scenario categories themselves**, worth keeping as a portable prompt-bank even though several will
+  need light reflavoring for this setting (no juries, no sitting presidents, etc. — though direct sci-fi/robot
+  equivalents are usually obvious): Family Picnic, Jury Duty (→ a Tepenian civic-duty or tribunal equivalent),
+  Poolside/Casual Encounter With a Stranger, Fender-Bender/Minor Accident That May or May Not Be Her Fault,
+  Elegant Party, Stranger in a Sinister Town, Flirting, Killing Time Between Transit, Meeting New Neighbors Who
+  Stand Out Somehow, Blowing the Whistle on Serious Wrongdoing, High-Stakes Game (Poker Night), Public Speaking,
+  Vivid/Disturbing Dream, A Boring Day, Road Adventure, [a sexuality-adjacent scenario, reflavored per this
+  project's own established sexuality/relationship canon rather than imported wholesale], Deathbed Secret,
+  Being Stalked, An Overwhelming Day With No Room to Breathe, A Life-or-Death Moment of High Drama, Unable to
+  Sleep at Three in the Morning, Sudden Unwanted Leadership, Diagnosed and Awaiting Results, Caught in a Big
+  Lie, Death of a Parent, Meeting a Head of State/major authority figure (→ Tepenian equivalent), Lovers' Spat,
+  Sudden Success, Being Asked an Enormous Favor by a Best Friend, and The World May Be Ending. Each is meant to
+  isolate a different axis of personality (family dynamics, honesty under pressure, response to power, response
+  to danger, response to boredom, etc.) — the list is more useful as a checklist of *axes to test* than as a
+  literal itinerary.
+
+- **Test the same scenario at two different points in a character's arc.** A companion's response to an
+  identical scenario, run once "early" and once "late" (before and after a formative in-fiction event), reveals
+  both *what* she's learned and *when in the story the change actually began* — useful as a concrete way to
+  audit whether a companion's stated arc is actually reflected in how she'd behave differently by the end,
+  rather than just asserted in her ending slides/epilogue text.
+
+- **Run two or more characters through the same scenario together, not just solo**, specifically to surface
+  interpersonal dynamics rather than individual psychology — Maisel recommends this especially for scenarios
+  with built-in relational stakes (a lovers' spat, a group under sudden pressure, a shared ordeal). Directly
+  portable to companion-pair or full-party scene design: before writing a scene with two or three companions
+  together, run the same "concrete question, several plausible answers, pick the truest one" exercise for the
+  *combination*, not just for each companion individually — their reactions to each other in the room are their
+  own diagnostic data, separate from how either would react alone.
+
+- **The "why is this character eluding me" troubleshooting checklist** — useful as a fast diagnostic when a
+  Doll still won't come into focus after the above techniques: Does she actually have a place in the story, or
+  is the difficulty a sign she doesn't? Is she stuck one-dimensional because she's pegged too hard to an
+  archetype or stereotype? Is the real problem that *the writer* doesn't yet know what role she's meant to
+  serve? Is the gap really a knowledge gap about a type of person/background the writer doesn't understand well
+  enough yet? Is she being asked to do double duty — representing a whole group/city/faction *and* function as
+  an individual (love interest, antagonist, etc.) simultaneously — in a way that's pulling her in two
+  directions? Is she actually just too complex/changeable to pin down (see the consistency caution above)? Or
+  is she over-defined *relative to* another character, existing only as someone else's foil rather than as
+  someone in her own right?
+
+*(This book's generative content is concentrated almost entirely in its first three chapters — What Is
+Personality?, Understanding Your Characters, Using This Book — which have been read in full and are captured
+above. The remaining ~12,000 lines are thirty individual scenario chapters, each following one fixed template
+(setup → 5-6 branching diagnostic questions → "situations to consider" follow-ups → alternate settings for the
+same scenario type → a short personality-psychology essay → a trivia aside → reflection questions). Scenario 1
+(Family Picnic) was read in full to confirm and illustrate the template; the remaining twenty-nine were not
+read individually, since the mechanism is fully general and doesn't change chapter to chapter — the value is in
+applying the method to this project's own Dolls and scenarios, not in the specific real-world scenario text.
+This is a deliberate judgment call rather than a time-pressure skip: reading all thirty would mean reading the
+same structural pattern twenty-nine more times with different surface content. Flagging this explicitly so the
+disposition decision below is made with full knowledge of what was and wasn't read.)*
